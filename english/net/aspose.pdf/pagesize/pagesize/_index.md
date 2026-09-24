@@ -1,12 +1,15 @@
 ---
-title: PageSize.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize constructor. Constructor for PageSize
+title: "PageSize.PageSize"
+linktitle: "PageSize"
+articleTitle: "PageSize"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the PageSize class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/pagesize/pagesize/
+url: "/net/aspose.pdf/pagesize/pagesize/"
+product_version: "26.9.0"
 ---
-## PageSize constructor
+## PageSize(float, float) {#constructor}
 
 Constructor for PageSize.
 
@@ -16,13 +19,12 @@ public PageSize(float x, float y)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | Single | Width of the page. |
-| y | Single | Height of the page. |
+| x | float | Width of the page. |
+| y | float | Height of the page. |
 
 ### See Also
 
-* class [PageSize](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

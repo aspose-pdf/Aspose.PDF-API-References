@@ -1,12 +1,15 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotationsFromXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor method. Imports all annotations from XFDF file
+title: "PdfAnnotationEditor.ImportAnnotationsFromXfdf"
+linktitle: "ImportAnnotationsFromXfdf"
+articleTitle: "ImportAnnotationsFromXfdf"
+second_title: "Aspose.PDF for .NET"
+description: "Imports all annotations from XFDF file."
 type: docs
-weight: 110
-url: /net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf/
+weight: 30
+url: "/net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf/"
+product_version: "26.9.0"
 ---
-## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf_1}
+## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf}
 
 Imports all annotations from XFDF file.
 
@@ -16,26 +19,17 @@ public void ImportAnnotationsFromXfdf(string xfdfFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xfdfFile | String | The input XFDF file. |
-
-## Examples
-
-```csharp
-PdfAnnotationEditor editor = new PdfAnnotationEditor();
-editor.BindPdf("example.pdf");
-editor.ImportAnnotationsFromXfdf("annots.xfdf");
-editor.Save("example_out.pdf");
-```
+| xfdfFile | string | The input XFDF file. |
 
 ### See Also
 
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ImportAnnotationsFromXfdf(Stream) {#importannotationsfromxfdf}
+## ImportAnnotationsFromXfdf(Stream) {#importannotationsfromxfdf_1}
 
 Imports all annotations from XFDF data stream.
 
@@ -47,19 +41,9 @@ public void ImportAnnotationsFromXfdf(Stream xfdfStream)
 | --- | --- | --- |
 | xfdfStream | Stream | The input XFDF data stream. |
 
-## Examples
-
-```csharp
-PdfAnnotationEditor editor = new PdfAnnotationEditor();
-editor.BindPdf("example.pdf");
-editor.ImportAnnotationsFromXfdf(File.OpenRead("annots.xfdf"));
-editor.Save("example_out.pdf");
-```
-
 ### See Also
 
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

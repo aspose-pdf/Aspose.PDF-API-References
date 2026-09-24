@@ -1,14 +1,20 @@
 ---
-title: Document.OptimizeResources
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Optimize resources in the document 1. Resources which are not used on the document pages are removed 2. Equal resources are joined into one object 3. Unused objects are deleted
+title: "Document.OptimizeResources"
+linktitle: "OptimizeResources"
+articleTitle: "OptimizeResources"
+second_title: "Aspose.PDF for .NET"
+description: "Optimize resources in the document: 1. Resources which are not used on the document pages are removed; 2. Equal resources are joined into one object; 3. Unus..."
 type: docs
-weight: 780
-url: /net/aspose.pdf/document/optimizeresources/
+weight: 810
+url: "/net/aspose.pdf/document/optimizeresources/"
+product_version: "26.9.0"
 ---
 ## OptimizeResources() {#optimizeresources}
 
-Optimize resources in the document: 1. Resources which are not used on the document pages are removed; 2. Equal resources are joined into one object; 3. Unused objects are deleted.
+Optimize resources in the document:
+ 1. Resources which are not used on the document pages are removed;
+ 2. Equal resources are joined into one object; 
+ 3. Unused objects are deleted.
 
 ```csharp
 public void OptimizeResources()
@@ -16,13 +22,13 @@ public void OptimizeResources()
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## OptimizeResources(OptimizationOptions) {#optimizeresources_1}
+## OptimizeResources([OptimizationOptions](../../../aspose.pdf.optimization/optimizationoptions/)) {#optimizeresources_1}
 
 Optimize resources in the document according to defined optimization strategy.
 
@@ -36,9 +42,7 @@ public void OptimizeResources(OptimizationOptions strategy)
 
 ### See Also
 
-* class [OptimizationOptions](../../../aspose.pdf.optimization/optimizationoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

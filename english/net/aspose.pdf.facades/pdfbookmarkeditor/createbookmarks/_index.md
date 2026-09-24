@@ -1,10 +1,13 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor method. Creates bookmarks for all pages
+title: "PdfBookmarkEditor.CreateBookmarks"
+linktitle: "CreateBookmarks"
+articleTitle: "CreateBookmarks"
+second_title: "Aspose.PDF for .NET"
+description: "Creates bookmarks for all pages."
 type: docs
 weight: 30
-url: /net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/
+url: "/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/"
+product_version: "26.9.0"
 ---
 ## CreateBookmarks() {#createbookmarks}
 
@@ -14,24 +17,15 @@ Creates bookmarks for all pages.
 public void CreateBookmarks()
 ```
 
-## Examples
-
-```csharp
-PdfBookmarkEditor editor = new PdfBookmarkEditor();
-editor.BindPdf("example.pdf");
-editor.CreateBookmarks();
-editor.Save("example_out.pdf");
-```
-
 ### See Also
 
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateBookmarks(Bookmark) {#createbookmarks_1}
+## CreateBookmarks([Bookmark](../../../aspose.pdf.facades/bookmark/)) {#createbookmarks_1}
 
 Creates the specified bookmark in the document. The method can be used for forming nested bookmarks hierarchy.
 
@@ -43,39 +37,15 @@ public void CreateBookmarks(Bookmark bookmark)
 | --- | --- | --- |
 | bookmark | Bookmark | The bookmark will be added to the document. |
 
-## Examples
-
-```csharp
-PdfBookmarkEditor editor = new PdfBookmarkEditor();
-editor.BindPdf("example.pdf");
-Bookmark bm1=new Bookmark();
-bm1.PageNumber=1;
-bm1.Title="First child";
-Bookmark bm2=new Bookmark();
-bm2.PageNumber=2;
-bm2.Title="Second child";
-Bookmark bm=new Bookmark();
-bm.Action="GoTo";
-bm.PageNumber=1;
-bm.Title="Parent";
-Bookmarks bms=new Bookmarks();
-bms.Add(bm1);
-bms.Add(bm2);
-bm.ChildItem=bms;
-editor.CreateBookmarks(bm);
-editor.Save("example_out.pdf");
-```
-
 ### See Also
 
-* class [Bookmark](../../bookmark/)
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateBookmarks(Color, bool, bool) {#createbookmarks_2}
+## CreateBookmarks([Color](../../../aspose.pdf/color/), bool, bool) {#createbookmarks_2}
 
 Create bookmarks for all pages with specified color and style (bold, italic).
 
@@ -86,22 +56,12 @@ public void CreateBookmarks(Color color, bool boldFlag, bool italicFlag)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | color | Color | The color of title. |
-| boldFlag | Boolean | The flag of bold attribution. |
-| italicFlag | Boolean | The flag of italic attribution. |
-
-## Examples
-
-```csharp
-PdfBookmarkEditor editor = new PdfBookmarkEditor();
-editor.BindPdf("example.pdf");
-editor.CreateBookmarks(System.Drawing.Color.Red, true, true);
-editor.Save("example_out.pdf");
-```
+| boldFlag | bool | The flag of bold attribution. |
+| italicFlag | bool | The flag of italic attribution. |
 
 ### See Also
 
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

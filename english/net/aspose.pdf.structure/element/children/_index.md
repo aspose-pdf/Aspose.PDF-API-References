@@ -1,10 +1,13 @@
 ---
-title: Element.Children
-second_title: Aspose.PDF for .NET API Reference
-description: Element property. Gets child elements collection
+title: "Element.Children"
+linktitle: "Children"
+articleTitle: "Children"
+second_title: "Aspose.PDF for .NET"
+description: "Gets child elements collection."
 type: docs
-weight: 30
-url: /net/aspose.pdf.structure/element/children/
+weight: 20
+url: "/net/aspose.pdf.structure/element/children/"
+product_version: "26.9.0"
 ---
 ## Element.Children property
 
@@ -14,11 +17,14 @@ Gets child elements collection.
 public ElementCollection Children { get; }
 ```
 
+### Property Value
+
+[ElementCollection](../../../aspose.pdf.structure/elementcollection/)
+
 ### See Also
 
-* class [ElementCollection](../../elementcollection/)
-* class [Element](../)
-* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ElementCollection](../../../aspose.pdf.structure/elementcollection/)
+* class [Element](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
 

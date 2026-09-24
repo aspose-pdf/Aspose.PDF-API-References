@@ -1,44 +1,35 @@
 ---
-title: PdfContentEditor.CreateBookmarksAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates a bookmark with the specified action
+title: "PdfContentEditor.CreateBookmarksAction"
+linktitle: "CreateBookmarksAction"
+articleTitle: "CreateBookmarksAction"
+second_title: "Aspose.PDF for .NET"
+description: "Creates a bookmark with the specified action."
 type: docs
-weight: 120
-url: /net/aspose.pdf.facades/pdfcontenteditor/createbookmarksaction/
+weight: 390
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createbookmarksaction/"
+product_version: "26.9.0"
 ---
-## PdfContentEditor.CreateBookmarksAction method
+## CreateBookmarksAction(string, [Color](../../../aspose.pdf/color/), bool, bool, string, string, string) {#createbookmarksaction}
 
 Creates a bookmark with the specified action.
 
 ```csharp
-public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool italicFlag, 
-    string file, string actionType, string destination)
+public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool italicFlag, string file, string actionType, string destination)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| title | String | The title of the bookmark. |
+| title | string | The title of the bookmark. |
 | color | Color | The colour of the bookmark's title. |
-| boldFlag | Boolean | The flag of bold attribution. |
-| italicFlag | Boolean | The flag of italic attribution. |
-| file | String | Another file or application required when the action type is "GoToR" or "Launch". |
-| actionType | String | The action type. The value can be: "GoToR", "Launch", "GoTo", "URI". |
-| destination | String | The local destination or remote destination or URL. |
-
-## Examples
-
-```csharp
-PdfContentEditor editor = new PdfContentEditor();
-editor.BindPdf("example.pdf");
-editor.CreateBookmarksAction("bookmark title",
-    System.Drawing.Color.Red, true, true, null, "GoTo", 1/*page number*/);
-editor.Save("example_out.pdf");
-```
+| boldFlag | bool | The flag of bold attribution. |
+| italicFlag | bool | The flag of italic attribution. |
+| file | string | Another file or application required when the action type is "GoToR" or "Launch". |
+| actionType | string | The action type. The value can be: "GoToR", "Launch", "GoTo", "URI". |
+| destination | string | The local destination or remote destination or URL. |
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

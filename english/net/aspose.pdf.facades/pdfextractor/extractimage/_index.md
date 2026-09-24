@@ -1,12 +1,15 @@
 ---
-title: PdfExtractor.ExtractImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor method. Extract images from PDF file
+title: "PdfExtractor.ExtractImage"
+linktitle: "ExtractImage"
+articleTitle: "ExtractImage"
+second_title: "Aspose.PDF for .NET"
+description: "Extract images from PDF file."
 type: docs
-weight: 120
-url: /net/aspose.pdf.facades/pdfextractor/extractimage/
+weight: 90
+url: "/net/aspose.pdf.facades/pdfextractor/extractimage/"
+product_version: "26.9.0"
 ---
-## PdfExtractor.ExtractImage method
+## ExtractImage() {#extractimage}
 
 Extract images from PDF file.
 
@@ -14,23 +17,9 @@ Extract images from PDF file.
 public void ExtractImage()
 ```
 
-## Examples
-
-```csharp
-PdfExtractor extractor = new PdfExtractor();
-extractor.BindPdf("sample.pdf");
-extractor.ExtractImage();
-int i = 1;
-while (extractor.HasNextImage())
-{
-    extractor.GetNextImage("image-" + i +".pdf");
-}
-```
-
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

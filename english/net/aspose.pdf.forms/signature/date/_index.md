@@ -1,10 +1,13 @@
 ---
-title: Signature.Date
-second_title: Aspose.PDF for .NET API Reference
-description: Signature property. The time of signing
+title: "Signature.Date"
+linktitle: "Date"
+articleTitle: "Date"
+second_title: "Aspose.PDF for .NET"
+description: "The time of signing."
 type: docs
-weight: 80
-url: /net/aspose.pdf.forms/signature/date/
+weight: 140
+url: "/net/aspose.pdf.forms/signature/date/"
+product_version: "26.9.0"
 ---
 ## Signature.Date property
 
@@ -14,10 +17,13 @@ The time of signing.
 public DateTime Date { get; set; }
 ```
 
+### Property Value
+
+DateTime
+
 ### See Also
 
-* class [Signature](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

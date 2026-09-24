@@ -1,17 +1,20 @@
 ---
-title: PageSettingsExtensions.ToNativePageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettingsExtensions method. Converts PageSettings to Windowsspecific System.Drawing.Printing.PageSettings
+title: "PageSettingsExtensions.ToNativePageSettings"
+linktitle: "ToNativePageSettings"
+articleTitle: "ToNativePageSettings"
+second_title: "Aspose.PDF for .NET"
+description: "Converts to Windows-specific System.Drawing.Printing.PageSettings."
 type: docs
-weight: 20
-url: /net/aspose.pdf.printing/pagesettingsextensions/tonativepagesettings/
+weight: 10
+url: "/net/aspose.pdf.printing/pagesettingsextensions/tonativepagesettings/"
+product_version: "26.9.0"
 ---
-## PageSettingsExtensions.ToNativePageSettings method
+## ToNativePageSettings([PageSettings](../../../aspose.pdf.printing/pagesettings/)) {#tonativepagesettings}
 
-Converts [`PageSettings`](../../pagesettings/) to Windows-specific System.Drawing.Printing.PageSettings.
+Converts [`PageSettings`](../../../aspose.pdf.printing/pagesettings/) to Windows-specific System.Drawing.Printing.PageSettings.
 
 ```csharp
-public static PageSettings ToNativePageSettings(this PageSettings pageSettings)
+public PageSettings ToNativePageSettings(PageSettings pageSettings)
 ```
 
 | Parameter | Type | Description |
@@ -20,13 +23,14 @@ public static PageSettings ToNativePageSettings(this PageSettings pageSettings)
 
 ### Return Value
 
+[PageSettings](../../../aspose.pdf.printing/pagesettings/)
+
 Windows page settings.
 
 ### See Also
 
-* class [PageSettings](../../pagesettings/)
-* class [PageSettingsExtensions](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PageSettingsExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

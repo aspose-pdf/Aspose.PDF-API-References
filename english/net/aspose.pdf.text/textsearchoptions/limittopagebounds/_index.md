@@ -1,10 +1,13 @@
 ---
-title: TextSearchOptions.LimitToPageBounds
-second_title: Aspose.PDF for .NET API Reference
-description: TextSearchOptions property. Gets or sets indication that text is searched within the page bounds
+title: "TextSearchOptions.LimitToPageBounds"
+linktitle: "LimitToPageBounds"
+articleTitle: "LimitToPageBounds"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets indication that text is searched within the page bounds."
 type: docs
 weight: 50
-url: /net/aspose.pdf.text/textsearchoptions/limittopagebounds/
+url: "/net/aspose.pdf.text/textsearchoptions/limittopagebounds/"
+product_version: "26.9.0"
 ---
 ## TextSearchOptions.LimitToPageBounds property
 
@@ -14,10 +17,13 @@ Gets or sets indication that text is searched within the page bounds.
 public bool LimitToPageBounds { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [TextSearchOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

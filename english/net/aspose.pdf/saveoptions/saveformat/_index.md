@@ -1,10 +1,13 @@
 ---
-title: SaveOptions.SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: SaveOptions property. Format of data save
+title: "SaveOptions.SaveFormat"
+linktitle: "SaveFormat"
+articleTitle: "SaveFormat"
+second_title: "Aspose.PDF for .NET"
+description: "Format of data save."
 type: docs
 weight: 30
-url: /net/aspose.pdf/saveoptions/saveformat/
+url: "/net/aspose.pdf/saveoptions/saveformat/"
+product_version: "26.9.0"
 ---
 ## SaveOptions.SaveFormat property
 
@@ -14,11 +17,14 @@ Format of data save.
 public SaveFormat SaveFormat { get; }
 ```
 
+### Property Value
+
+[SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
+
 ### See Also
 
-* enum [SaveFormat](../../saveformat/)
-* class [SaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
+* class [SaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum PropertyFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PropertyFlag enum. Enumeration of possible field flags
+title: "PropertyFlag Enum"
+linktitle: "PropertyFlag"
+articleTitle: "PropertyFlag"
+second_title: "Aspose.PDF for .NET"
+description: "Enumeration of possible field flags."
 type: docs
-weight: 4820
-url: /net/aspose.pdf.facades/propertyflag/
+weight: 550
+url: "/net/aspose.pdf.facades/propertyflag/"
+product_version: "26.9.0"
 ---
 ## PropertyFlag enumeration
 
@@ -14,10 +17,10 @@ Enumeration of possible field flags.
 public enum PropertyFlag
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | ReadOnly | `0` | Field is read-only. |
 | Required | `1` | Field is required. |
 | NoExport | `2` | Field is not exportable. |
@@ -25,7 +28,6 @@ public enum PropertyFlag
 
 ### See Also
 
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

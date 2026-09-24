@@ -1,23 +1,27 @@
 ---
-title: Enum ProgressEventType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ProgressEventType enum. This enum describes possible progress event types that can occure during conversion
+title: "ProgressEventType Enum"
+linktitle: "ProgressEventType"
+articleTitle: "ProgressEventType"
+second_title: "Aspose.PDF for .NET"
+description: "This enum describes possible progress event types that can occure during conversion"
 type: docs
-weight: 10010
-url: /net/aspose.pdf/progresseventtype/
+weight: 2610
+url: "/net/aspose.pdf/progresseventtype/"
+product_version: "26.9.0"
 ---
 ## ProgressEventType enumeration
 
-This enum describes possible progress event types that can occure during conversion
+This enum describes possible progress event types
+ that can occure during conversion
 
 ```csharp
 public enum ProgressEventType
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | TotalProgress | `0` | means that occured event informs about total progress of conversion |
 | SourcePageAnalysed | `1` | means that occured event informs about end of analysis of one of pages before conversion |
 | ResultPageCreated | `2` | means that occured event informs about creation of one result page before phisical export |
@@ -25,7 +29,6 @@ public enum ProgressEventType
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

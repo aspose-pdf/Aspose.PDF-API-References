@@ -1,17 +1,20 @@
 ---
-title: SetColorStroke.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorStroke method. Accepts visitor object to process operator
+title: "SetColorStroke.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET"
+description: "Accepts visitor object to process operator."
 type: docs
-weight: 90
-url: /net/aspose.pdf.operators/setcolorstroke/accept/
+weight: 70
+url: "/net/aspose.pdf.operators/setcolorstroke/accept/"
+product_version: "26.9.0"
 ---
-## SetColorStroke.Accept method
+## Accept([IOperatorSelector](../../../aspose.pdf/ioperatorselector/)) {#accept}
 
 Accepts visitor object to process operator.
 
 ```csharp
-public override void Accept(IOperatorSelector visitor)
+public void Accept(IOperatorSelector visitor)
 ```
 
 | Parameter | Type | Description |
@@ -20,9 +23,7 @@ public override void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* class [SetColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

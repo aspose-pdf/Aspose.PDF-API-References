@@ -1,12 +1,38 @@
 ---
-title: AppearanceDictionary.Add
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary method. Add X form for specifed key
+title: "AppearanceDictionary.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: "Adds an element with the provided key and value."
 type: docs
-weight: 90
-url: /net/aspose.pdf.annotations/appearancedictionary/add/
+weight: 20
+url: "/net/aspose.pdf.annotations/appearancedictionary/add/"
+product_version: "26.9.0"
 ---
-## Add(string, XForm) {#add_2}
+## Add(object, object) {#add}
+
+> **Deprecated.** This method overload should not be used. Please use Add(string key, XForm value) method overload instead.
+
+Adds an element with the provided key and value.
+
+```csharp
+public void Add(object key, object value)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | object | Element key. |
+| value | object | Element value. |
+
+### See Also
+
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Add(string, [XForm](../../../aspose.pdf/xform/)) {#add_1}
 
 Add X form for specifed key.
 
@@ -16,19 +42,18 @@ public void Add(string key, XForm value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | Element key. |
+| key | string | Element key. |
 | value | XForm | XForm object value. |
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
-* class [AppearanceDictionary](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(KeyValuePair&lt;string, XForm&gt;) {#add}
+## Add(KeyValuePair<string, XForm>) {#add_2}
 
 Adds pair with key and value into the dictionary.
 
@@ -38,13 +63,11 @@ public void Add(KeyValuePair<string, XForm> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Item to be added. |
+| item | KeyValuePair<string, XForm> | Item to be added. |
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
-* class [AppearanceDictionary](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

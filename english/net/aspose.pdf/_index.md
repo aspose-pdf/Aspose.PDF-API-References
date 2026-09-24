@@ -1,12 +1,20 @@
 ---
-title: Aspose.Pdf
-second_title: Aspose.PDF for .NET API Reference
-description: The Aspose.Pdf is a root namespace for all classes of Aspose.Pdf library which are either directly in it like Document or indirectly through several subnamespaces
+title: "Aspose.Pdf"
+linktitle: "Aspose.Pdf"
+articleTitle: "Aspose.Pdf"
+second_title: "Aspose.PDF for .NET"
+description: "The **Aspose.Pdf** namespace provides classes."
 type: docs
 weight: 10
-url: /net/aspose.pdf/
+url: "/net/aspose.pdf/"
+keywords: "Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
-The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library which are either directly in it like **Document** or indirectly through several subnamespaces.
+## Overview
+
+The **Aspose.Pdf** namespace provides classes.
+
+Part of the [Aspose.PDF for .NET](../) API reference.
 
 ## Classes
 
@@ -18,13 +26,13 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [ArtifactCollection](./artifactcollection/) | Class represents artifact collection. |
 | [AutoTaggingSettings](./autotaggingsettings/) | Provides settings for the auto-tagging functionality in PDF documents. |
 | [BackgroundArtifact](./backgroundartifact/) | Class descibes background artifact. This artifact allows to set background of the page. |
-| [BaseActionCollection](./baseactioncollection/) | Class incapsulates basic actions wuth page/annotation/field interactive actions |
+| [BaseActionCollection](./baseactioncollection/) | Class incapsulates basic actions wuth page/annotation/field interactive actions. |
 | [BaseOperatorCollection](./baseoperatorcollection/) | Represents base class for operator collection. |
 | [BaseParagraph](./baseparagraph/) | Represents a abstract base object can be added to the page(doc.Paragraphs.Add()). |
 | [BatesNArtifact](./batesnartifact/) | Class describes Bates Numbering artifact. |
 | [BitmapInfo](./bitmapinfo/) | Object containing array of pixels and bitmap information. |
 | [BorderInfo](./borderinfo/) | This class represents border for graphics elements. |
-| [BoundsCheckableList&lt;T&gt;](./boundscheckablelist-1/) | Represents BoundsCheckableList - wrapper around System.Collections.Generic.List. |
+| [BoundsCheckableList<T>](./boundscheckablelist-1/) |  |
 | [BoundsOutOfRangeException](./boundsoutofrangeexception/) | Represents an exception which occurs when an item doesn't fit within the given container dimensions. |
 | [BuildVersionInfo](./buildversioninfo/) | This class provides information about current product build. |
 | [CdrLoadOptions](./cdrloadoptions/) | Class describes CDR load options. |
@@ -35,7 +43,8 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [CgmLoadOptions](./cgmloadoptions/) | Contains options for loading/importing CGM file into pdf document. |
 | [Collection](./collection/) | Represents class for Collection(12.3.5 Collections). |
 | [CollectionField](./collectionfield/) | Represents a document collection schema field class. |
-| [CollectionItem](./collectionitem/) | Represents a collection item class. The collection item contains the data described by the collection schema. |
+| [CollectionItem](./collectionitem/) | Represents a collection item class. |
+| [CollectionItem.Value<T>](./collectionitem.value-1/) |  |
 | [CollectionSchema](./collectionschema/) | Represents a class that describes the "Schema" of a document collection. |
 | [Color](./color/) | Represents class for color value which can be expressed in different color space. |
 | [ColumnInfo](./columninfo/) | This class represents a columns info. |
@@ -47,8 +56,11 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [DeprecatedFeatureException](./deprecatedfeatureexception/) | The exception that is thrown when a feature is deprecated in current pdf version. |
 | [DestinationCollection](./destinationcollection/) | Class represents the collection of all destinations (a name tree mapping name strings to destinations (see 12.3.2.3, "Named Destinations") and (see 7.7.4, "Name Dictionary")) in the pdf document. |
 | [DjvuLoadOptions](./djvuloadoptions/) | Class describes DJVU load options. |
-| [DocSaveOptions](./docsaveoptions/) | Save options for export to Doc format |
+| [DocSaveOptions](./docsaveoptions/) | Save options for export to Doc format. |
 | [Document](./document/) | Class representing PDF document. |
+| [Document.MergeOptions](./document.mergeoptions/) | Represents the options to Merge methods. |
+| [Document.OptimizationOptions](./document.optimizationoptions/) | Class which describes document optimization algorithm. |
+| [Document.RepairOptions](./document.repairoptions/) | Represents options for repairing a PDF document. |
 | [DocumentExtensions](./documentextensions/) | Provides additional capabilities for the Document class. |
 | [DocumentFactory](./documentfactory/) | Class which allows to create/load documents of different types. |
 | [DocumentInfo](./documentinfo/) | Represents meta information of PDF document. |
@@ -56,17 +68,17 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [EmptyValueException](./emptyvalueexception/) | Exception which thrown when requirested value does not exists. |
 | [EncryptedPayload](./encryptedpayload/) | Represents encrypted payload in file specification. |
 | [EpubLoadOptions](./epubloadoptions/) | Contains options for loading/importing EPUB file into pdf document. |
-| [EpubSaveOptions](./epubsaveoptions/) | Save options for export to EPUB format |
-| [ExcelSaveOptions](./excelsaveoptions/) | Save options for export to Excel format |
+| [EpubSaveOptions](./epubsaveoptions/) | Save options for export to EPUB format. |
+| [ExcelSaveOptions](./excelsaveoptions/) | Save options for export to Excel format. |
 | [ExportFieldsOptions](./exportfieldsoptions/) | Represents base class of options for exporting form fields. |
 | [ExportFieldsToJsonOptions](./exportfieldstojsonoptions/) | Represents options for exporting form fields to Json format. |
 | [FieldSerializationResult](./fieldserializationresult/) | Represents the result of a form field serialization process. |
 | [FileHyperlink](./filehyperlink/) | Represents file hyperlink object. |
 | [FileParams](./fileparams/) | Defines an embedded file parameter dictionary that shall contain additional file-specific information. |
 | [FileSpecification](./filespecification/) | Class representing embedded file. |
-| [FloatingBox](./floatingbox/) |  |
-| [FontEmbeddingException](./fontembeddingexception/) | The exception that is thrown when an attempt to embed font became failed |
-| [FontEmbeddingOptions](./fontembeddingoptions/) | PDF/A standard requires, that all fonts must be embedded into document. This class includes flags for cases when it's not possible to embed some font cause this font is absent on destination PC. |
+| [FloatingBox](./floatingbox/) | Represents a FloatingBox in a Pdf document. FloatingBox is custom positioned. |
+| [FontEmbeddingException](./fontembeddingexception/) | The exception that is thrown when an attempt to embed font became failed. |
+| [FontEmbeddingOptions](./fontembeddingoptions/) | PDF/A standard requires, that all fonts must be embedded into document. |
 | [FontNotFoundException](./fontnotfoundexception/) | The exception that is thrown when a font is not found. |
 | [Footer](./footer/) | Represents the footer settings. |
 | [FooterArtifact](./footerartifact/) | Describes footer artifact. This may be used to set footer of the page. |
@@ -78,17 +90,22 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [HeaderFooter](./headerfooter/) | Class represents header or footer pdf page. |
 | [HeaderFooterData](./headerfooterdata/) | Represents the pagination data for header and footer. |
 | [HeaderFooterSettings](./headerfootersettings/) | Represents the settings for header and footer artifacts. |
+| [HeaderFooterSettings.HorizontalAlignment](./headerfootersettings.horizontalalignment/) | Represents horizontal alignment settings for header and footer. |
 | [Heading](./heading/) | Represents heading. |
 | [HeadingLevels](./headinglevels/) | Represents a class to work with header levels based on font size. |
 | [HtmlFragment](./htmlfragment/) | Represents html fragment. |
 | [HtmlLoadOptions](./htmlloadoptions/) | Represents options for loading/importing html file into pdf document. |
-| [HtmlSaveOptions](./htmlsaveoptions/) | Save options for export to Html format |
+| [HtmlSaveOptions](./htmlsaveoptions/) | Save options for export to Html format. |
+| [HtmlSaveOptions.CssSavingInfo](./htmlsaveoptions.csssavinginfo/) | This class represents set of data. |
+| [HtmlSaveOptions.CssUrlRequestInfo](./htmlsaveoptions.cssurlrequestinfo/) | Represents set of data. |
+| [HtmlSaveOptions.HtmlImageSavingInfo](./htmlsaveoptions.htmlimagesavinginfo/) | This class represents set of data. |
+| [HtmlSaveOptions.HtmlPageMarkupSavingInfo](./htmlsaveoptions.htmlpagemarkupsavinginfo/) | If SplitToPages property of HtmlSaveOptions, then several HTML-files (one HTML file per converted page). |
 | [Hyperlink](./hyperlink/) | Represents abstract hyperlink. |
 | [Id](./id/) | Represents file identifier structure. |
 | [Image](./image/) | Represents image. |
 | [ImagePlacement](./imageplacement/) | Represents characteristics of an image placed to Pdf document page. |
-| [ImagePlacementAbsorber](./imageplacementabsorber/) | Represents an absorber object of image placement objects. Performs search of image usages and provides access to search results via [`ImagePlacements`](../aspose.pdf/imageplacementabsorber/imageplacements/) collection. |
-| [ImagePlacementCollection](./imageplacementcollection/) | Represents an image placements collection |
+| [ImagePlacementAbsorber](./imageplacementabsorber/) | Represents an absorber object of image placement objects. |
+| [ImagePlacementCollection](./imageplacementcollection/) | Represents an image placements collection. |
 | [ImageStamp](./imagestamp/) | Represents a graphic stamp. |
 | [ImportOptions](./importoptions/) | ImportOptions type hold level of abstraction on individual import options. |
 | [IncorrectCMapUsageException](./incorrectcmapusageexception/) | The exception that is thrown when font usage is incorrect. |
@@ -101,12 +118,16 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [InvalidValueFormatException](./invalidvalueformatexception/) | Exception which thrown when requested value has incorrect format. |
 | [JavaScriptCollection](./javascriptcollection/) | This class represents collection of JavaScript. |
 | [JavascriptExtensionsException](./javascriptextensionsexception/) | The exception that is thrown on errors when working with JavascriptExtensions. |
+| [LaTeXSaveOptions](./latexsaveoptions/) | Save options for export to TeX format. |
+| [LatexFragment](./latexfragment/) | Represents TeX fragment. |
+| [LatexLoadOptions](./latexloadoptions/) | Represents options for loading/importing TeX file into PDF document. |
 | [Layer](./layer/) | Represents a layer within a PDF page. |
 | [Left](./left/) | Represents the left alignment settings for header and footer data. |
 | [LevelFormat](./levelformat/) | Represents format of the table of contents. |
 | [License](./license/) | Provides methods to license the component. |
 | [LicenseInfo](./licenseinfo/) | Represents a license information. |
-| [LoadOptions](./loadoptions/) | LoadOptions type holds level of abstraction on individual load options |
+| [LoadOptions](./loadoptions/) | LoadOptions type holds level of abstraction on individual load options. |
+| [LoadOptions.ResourceLoadingResult](./loadoptions.resourceloadingresult/) | Result of custom loading of resource. |
 | [LocalHyperlink](./localhyperlink/) | Represents local hyperlink object. |
 | [MarginInfo](./margininfo/) | This class represents a margin for different objects. |
 | [MarkdownSaveOptions](./markdownsaveoptions/) | Represents the document save option class in the markdown format. |
@@ -116,108 +137,124 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [Metadata](./metadata/) | Provides access to XMP metadata stream. |
 | [Metered](./metered/) | Provides methods to set metered key. |
 | [MhtLoadOptions](./mhtloadoptions/) | Represents options for loading/importing of .mht-file into pdf document. |
-| [MissingOptionalDependencyException](./missingoptionaldependencyexception/) | Represents an error that occurs when an optional dependency required by a feature is not available in the application. |
-| [MobiXmlSaveOptions](./mobixmlsaveoptions/) | Save options for export to Xml format |
+| [MissingOptionalDependencyException](./missingoptionaldependencyexception/) | Represents an error that occurs when an optional dependency required by a feature. |
+| [MobiXmlSaveOptions](./mobixmlsaveoptions/) | Save options for export to Xml format. |
 | [NamedDestinationCollection](./nameddestinationcollection/) | Class represents the collection of all destinations (a name tree mapping name strings to destinations (see 12.3.2.3, "Named Destinations") and (see 7.7.4, "Name Dictionary")) in the pdf document. |
 | [Note](./note/) | This class represents generator paragraph note. |
-| [ObjectReferenceCorruptedException](./objectreferencecorruptedexception/) | Represents an exception that is thrown when an object reference in a PDF document is found to be corrupted. That means there is no object pointed to by the link. |
+| [ObjectReferenceCorruptedException](./objectreferencecorruptedexception/) | Represents an exception that is thrown when an object reference. |
 | [OcspSettings](./ocspsettings/) | Represents the ocsp settings using during signing process. |
 | [OfdLoadOptions](./ofdloadoptions/) | Load options for OFD format. |
 | [Operator](./operator/) | Abstract class representing operator. |
-| [OperatorCollection](./operatorcollection/) | Class represents collection of operators |
+| [OperatorCollection](./operatorcollection/) | Class represents collection of operators. |
 | [OperatorSelector](./operatorselector/) | This class is used for selecting operators using Visitor template idea. |
-| [Opi](./opi/) | Represents The Open Prepress Interface (OPI) is a mechanism for creating low-resolution placeholders, or proxies, for such high-resolution images. |
-| [OptimizedMemoryStream](./optimizedmemorystream/) | Defines a MemoryStream that can contains more standard capacity |
+| [Opi](./opi/) | Represents The Open Prepress Interface (OPI) is a mechanism for creating low-resolution placeholders, or proxies,. |
+| [OptimizedMemoryStream](./optimizedmemorystream/) | Defines a MemoryStream that can contains more standard capacity. |
 | [OutlineCollection](./outlinecollection/) | Represents document outline hierarchy. |
 | [OutlineItemCollection](./outlineitemcollection/) | Represents outline entry in outline hierarchy of PDF document. |
 | [Outlines](./outlines/) | Class describes collection of outlines. |
-| [OutputIntent](./outputintent/) | Represents an output intent that matches the color characteristics of a PDF document with those of a target output device or production environment in which the document will be printed. |
+| [OutputIntent](./outputintent/) | Represents an output intent that matches the color characteristics of a PDF document with those. |
 | [OutputIntents](./outputintents/) | Represents the collection of [`OutputIntent`](../aspose.pdf/outputintent/). |
 | [Page](./page/) | Class representing page of PDF document. |
-| [PageActionCollection](./pageactioncollection/) | This class describes page actions |
+| [PageActionCollection](./pageactioncollection/) | This class describes page actions. |
 | [PageCollection](./pagecollection/) | Collection of PDF document pages. |
 | [PageCollectionExtensions](./pagecollectionextensions/) | Represents the extension method for updating header and footer pagination. |
 | [PageDate](./pagedate/) | Represents a date format composed of day, month, and year components. |
+| [PageDate.DayComponent](./pagedate.daycomponent/) | Represents the day component of a date. |
+| [PageDate.MonthComponent](./pagedate.monthcomponent/) | Represents the month component of a date. |
+| [PageDate.YearComponent](./pagedate.yearcomponent/) | Represents the year component of a date. |
 | [PageExtensions](./pageextensions/) | Provides additional capabilities for the Page class. |
 | [PageInfo](./pageinfo/) | Represents the page information. |
 | [PageLabel](./pagelabel/) | Class representing Page Label range. |
 | [PageLabelCollection](./pagelabelcollection/) | Class represeingting page label collection. |
 | [PageNumber](./pagenumber/) | Represents a page number format that includes an index, total number of pages, and a delimiter. |
+| [PageNumber.PageIndex](./pagenumber.pageindex/) | Represents the page index component in the page number format. |
+| [PageNumber.PageTotalNum](./pagenumber.pagetotalnum/) | Represents the total number of pages component in the page number format. |
 | [PageNumberStamp](./pagenumberstamp/) | Represents page number stamp and used to number pages. |
 | [PageRange](./pagerange/) | Represents the range of pages for header and footer settings. |
 | [PageSize](./pagesize/) | Class representing size of page in PDF document. |
 | [PaginationArtifact](./paginationartifact/) | Represents an abstract base class for pagination artifacts in a document. |
 | [Paragraphs](./paragraphs/) | This class represents paragraph collection. |
 | [PclLoadOptions](./pclloadoptions/) | Represents options for loading(import) PCL file into pdf document. |
-| [PdfANonSpecificationFlags](./pdfanonspecificationflags/) | This class holds flags to control PDF/A conversion for cases when source PDF document doesn't correspond to PDF specification. If flags of this clas are used it decreases performance but it's necessary when source PDF document can't be convert into PDF/A format by usual way. By default all flags are set to false. |
-| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/) | This class describes rules which can be used to tune process of copying encoding data for cases when TrueType symbolic font has more than one encoding. Some PDF documents after conversion into PDF/A format could give an error "More than one encoding in symbolic TrueType font's cmap". What is a reason of this error? All TrueType symbolic fonts have special table "cmap" in it's internal data. This table maps character codes to glyph indices. And this table could contain different encoding subtables which describe encodings used. See advanced info about cmap tables at https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6cmap.html. Usually cmap table contains several encoding subtables, but PDF/A standard requires that either only one encoding subtable must be left for this font in PDF/A document or there must be a (3,0) encoding subtable among this font subtables. And key question here - what data must be taken from another subtables to copy into destination encoding table (3,0)? Majority of fonts have 'well-formed' cmap tables where every encoding subtable is fully consistent with another subtable. But some fonts have cmap tables with collisions - where for example one subtable has glyph index 100 for unicode 100, but another subtable has glyph index 200 for the same unicode 100. To solve this problems special strategy needed. By default following strategy used: mac subtable(1,0) is looked for. If this table is found, only this data used to fill destination table (3,0). If mac subtable is not found then all subtables except (3,0) are iterated and used to copy data into destination (3,0) subtable. Also mapping for every unicode(unicode, glyph index) is copied into destination table only if destination table does not have this unicode at current moment. So, for example if first subtabe has glyph index 100 for unicode 100, and next subtable has glyph index 200 for the same unicode 100, only data from first subtable (unicode=100, glyph index = 100) will be copied. So each previous subtable takes precedence over the next. Properties of this class [`PdfASymbolicFontEncodingStrategy`](../aspose.pdf/pdfasymbolicfontencodingstrategy/) help tune default behaviour. If property [`PreferredCmapEncodingTable`](../aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/) of type [`CMapEncodingTableType`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) is set, then relevant subtable will be used in precedence to mac subtable(1,0). Value 'MacTable' from enumeration [`CMapEncodingTableType`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) has no sense in this case, cause it points on the same mac subtable (1,0) which will be used by default. Property [`CmapEncodingTablesPriorityQueue`](../aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/) discards all priorities for any subtable. If this property is set, then only subtables from declared queue will be used in specified order. If subtables specified are not found then default iteration of all subtables and copy strategy described above will be used. Object [`QueueItem`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/) specifies encoding subtable used. This subtable can be set via combination of members(PlatformID, PlatformSpecificId) or via [`CMapEncodingTableType`](../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) enumeration. In case when the font has no (3,0) subtable some other subtable will be used to maintain the PDF/A compatibility. The choice of the subtable to use is made under the same rules as described earlier, so that [`PreferredCmapEncodingTable`](../aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/) and [`CmapEncodingTablesPriorityQueue`](../aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/) properties are used to determine the resultant subtable, and if the font doesn't have the requested subtable(s) either then any existant subtable will be used. |
+| [PdfANonSpecificationFlags](./pdfanonspecificationflags/) | This class holds flags to control PDF/A conversion for cases when source PDF document doesn't. |
+| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/) | This class describes rules which can be used to tune process of copying encoding data for cases. |
+| [PdfASymbolicFontEncodingStrategy.QueueItem](./pdfasymbolicfontencodingstrategy.queueitem/) | Specifies encoding subtable. Each encoding subtable has unique combination. |
 | [PdfException](./pdfexception/) | Represents errors that occur during PDF application execution. |
-| [PdfFormatConversionOptions](./pdfformatconversionoptions/) | represents set of options for convert PDF document |
+| [PdfFormatConversionOptions](./pdfformatconversionoptions/) | represents set of options for convert PDF document. |
 | [PdfPageStamp](./pdfpagestamp/) | Class represents stamp which uses PDF page as stamp. |
-| [PdfSaveOptions](./pdfsaveoptions/) | Save options for export to Pdf format |
+| [PdfSaveOptions](./pdfsaveoptions/) | Save options for export to Pdf format. |
 | [PdfXmlLoadOptions](./pdfxmlloadoptions/) | Load options for PdfXml format. |
 | [PdfXmlSaveOptions](./pdfxmlsaveoptions/) | Save options for PdfXml format. |
 | [Point](./point/) | Represent point with fractional coordinates. |
 | [Point3D](./point3d/) | Represent point with fractional coordinates. |
-| [PptxSaveOptions](./pptxsaveoptions/) | Save options for export to SVG format |
+| [PptxSaveOptions](./pptxsaveoptions/) | Save options for export to SVG format. |
 | [PrintController](./printcontroller/) | Represents print controller. |
 | [PsLoadOptions](./psloadoptions/) | Represents options for loading/importing of .mht-file into pdf document. |
 | [PsSaveOptions](./pssaveoptions/) | Save options for export to PS (PostScript) or EPS format. |
 | [Rectangle](./rectangle/) | Class represents rectangle. |
 | [RenderingOptions](./renderingoptions/) | Represents rendering options. |
 | [Resources](./resources/) | Class representing page resources. |
+| [Resources.ExtGStateValue](./resources.extgstatevalue/) | Represents ExtGStates with some values. |
 | [RgbToDeviceGrayConversionStrategy](./rgbtodevicegrayconversionstrategy/) | Represents rgb to device gray color spaces conversion strategy. |
 | [Right](./right/) | Represents the right alignment settings for header and footer data. |
 | [Row](./row/) | Represents a row of the table. |
 | [Rows](./rows/) | Represents a rows collection of table. |
 | [RtfLoadOptions](./rtfloadoptions/) | Load options for RTF format. |
-| [SaveOptions](./saveoptions/) | SaveOptions type hold level of abstraction on individual save options |
+| [SaveOptions](./saveoptions/) | SaveOptions type hold level of abstraction on individual save options. |
+| [SaveOptions.BorderInfo](./saveoptions.borderinfo/) | Instance of this class represents information about border. |
+| [SaveOptions.BorderPartStyle](./saveoptions.borderpartstyle/) | Represents information of one part of border(top, bottom, left side or right side). |
+| [SaveOptions.MarginInfo](./saveoptions.margininfo/) | Instance of this class represents information about page margin. |
+| [SaveOptions.MarginPartStyle](./saveoptions.marginpartstyle/) | Represents information of one part of margin(top, botom, left side or right side). |
+| [SaveOptions.ResourceSavingInfo](./saveoptions.resourcesavinginfo/) | This class represents set of data. |
 | [SignaturesCompromiseDetector](./signaturescompromisedetector/) | Represents a class for checking compromising signatures of the document. |
 | [Stamp](./stamp/) | An abstract class for various kinds of stamps which come as descendants. |
 | [SvgLoadOptions](./svgloadoptions/) | Represents options for loading/importing SVG file into pdf document. |
-| [SvgSaveOptions](./svgsaveoptions/) | Save options for export to SVG format |
+| [SvgSaveOptions](./svgsaveoptions/) | Save options for export to SVG format. |
+| [SvgSaveOptions.SvgImageSavingInfo](./svgsaveoptions.svgimagesavinginfo/) | This class represents set of data. |
 | [Table](./table/) | Represents a table that can be added to the page. |
 | [TeXFileSystemInputDirectory](./texfilesysteminputdirectory/) | Implements the regular file system's method for getting a file stream to read from. |
 | [TeXFileSystemOutputDirectory](./texfilesystemoutputdirectory/) | Implements the regular file system's method for getting a file stream to write to. |
 | [TeXFragment](./texfragment/) | Represents TeX fragment. |
 | [TeXLoadOptions](./texloadoptions/) | Represents options for loading/importing TeX file into PDF document. |
-| [TeXMemoryOutputDirectory](./texmemoryoutputdirectory/) | Implements fetching an output stream from memory. You can use it, for example, when you don't want the accompanying output (like a log file) to be written to disk but you'd like to read it afterwards from memory. |
-| [TeXSaveOptions](./texsaveoptions/) | Save options for export to TeX format |
+| [TeXMemoryOutputDirectory](./texmemoryoutputdirectory/) | Implements fetching an output stream from memory. You can use it, for example,. |
+| [TeXSaveOptions](./texsaveoptions/) | Save options for export to TeX format. |
 | [TextStamp](./textstamp/) | Represents textual stamp. |
 | [TimestampSettings](./timestampsettings/) | Represents the ocsp settings using during signing process. |
+| [ToUnicodeProcessingRules](./tounicodeprocessingrules/) | This class describes rules which can be used to solve Adobe Preflight error. |
 | [TocInfo](./tocinfo/) | Represents table of contents info. |
-| [ToUnicodeProcessingRules](./tounicodeprocessingrules/) | This class describes rules which can be used to solve Adobe Preflight error "Text cannot be mapped to Unicode". |
 | [TxtLoadOptions](./txtloadoptions/) | Load options for TXT to PDF conversion. |
-| [UnifiedSaveOptions](./unifiedsaveoptions/) | This class represents saving options for saving that uses unified conversion way (with unified internal document model) |
+| [UnifiedSaveOptions](./unifiedsaveoptions/) | This class represents saving options for saving that. |
+| [UnifiedSaveOptions.ProgressEventHandlerInfo](./unifiedsaveoptions.progresseventhandlerinfo/) | This class represents information about conversion progress. |
 | [UnsupportedFontTypeException](./unsupportedfonttypeexception/) | The exception that is thrown when a font type is not supported. |
 | [WarningInfo](./warninginfo/) | Immutable object for encapsulating warning information. |
 | [Watermark](./watermark/) | Represents a watermark of the page. |
-| [WatermarkArtifact](./watermarkartifact/) | Class describes watermark artifact. This may be used to |
+| [WatermarkArtifact](./watermarkartifact/) | Class describes watermark artifact. This may be used to. |
 | [WebHyperlink](./webhyperlink/) | Represents web hyperlink object. |
-| [XForm](./xform/) | Class represent XForm |
+| [XForm](./xform/) | Class represent XForm. |
 | [XFormCollection](./xformcollection/) | Class represents collection of XFormCollection. |
 | [XImage](./ximage/) | Class representing image X-Object. |
 | [XImageCollection](./ximagecollection/) | Class representing XImage collection. |
 | [XmlLoadOptions](./xmlloadoptions/) | Represents options for loading/importing XML file into pdf document. |
-| [XmlSaveOptions](./xmlsaveoptions/) | Save options for export to Xml format |
+| [XmlSaveOptions](./xmlsaveoptions/) | Save options for export to Xml format. |
 | [XmpField](./xmpfield/) | Represents XMP field. |
-| [XmpPdfAExtensionField](./xmppdfaextensionfield/) | This schema describes a field in a structured type. It is very similar to the PDF/A Property Value Type schema, but defines a field in a structure instead of a property. Schema namespace URI: http://www.aiim.org/pdfa/ns/field# Required schema namespace prefix: pdfaField. |
+| [XmpPdfAExtensionField](./xmppdfaextensionfield/) | This schema describes a field in a structured type. It is very similar to the PDF/A Property Value Type. |
 | [XmpPdfAExtensionObject](./xmppdfaextensionobject/) | Represents the base class for field, property, value type instances. |
-| [XmpPdfAExtensionProperty](./xmppdfaextensionproperty/) | Describes a single property. Schema namespace URI: http://www.aiim.org/pdfa/ns/property# Required schema namespace prefix: pdfaProperty |
+| [XmpPdfAExtensionProperty](./xmppdfaextensionproperty/) | Describes a single property. Schema namespace URI: http://www.aiim.org/pdfa/ns/property#. |
 | [XmpPdfAExtensionSchema](./xmppdfaextensionschema/) | Describes the XMP extension schema which is provided by PDF/A-1. |
 | [XmpPdfAExtensionSchemaDescription](./xmppdfaextensionschemadescription/) | Represents the description of XMP extension schema which is provided by PDF/A-1. |
-| [XmpPdfAExtensionValueType](./xmppdfaextensionvaluetype/) | The PDF/A ValueType schema is required for all property value types which are not defined in the XMP 2004 specification, i.e. for value types outside of the following list: - Array types (these are container types which may contain one or more fields): Alt, Bag, Seq - Basic value types: Boolean, (open and closed) Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Media Management value types: AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Basic Job/Workflow value type: Job - EXIF schema value types: Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational Schema namespace URI: http://www.aiim.org/pdfa/ns/type# Required schema namespace prefix: pdfaType |
-| [XmpValue](./xmpvalue/) | Represents XMP value |
+| [XmpPdfAExtensionValueType](./xmppdfaextensionvaluetype/) | The PDF/A ValueType schema is required for all property value types which are not defined in the XMP 2004 specification, i.e. for value types outside of the following list:. |
+| [XmpValue](./xmpvalue/) | Represents XMP value. |
 | [XpsLoadOptions](./xpsloadoptions/) | Represents options for loading/importing xps file into pdf document. |
-| [XpsSaveOptions](./xpssaveoptions/) | Save options for export to Xps format |
+| [XpsSaveOptions](./xpssaveoptions/) | Save options for export to Xps format. |
 | [XslFoLoadOptions](./xslfoloadoptions/) | Represents options for loading/importing XSL-FO file into pdf document. |
+
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
+| [Document.IDocumentFontUtilities](./document.idocumentfontutilities/) | Holds functionality to tune fonts. |
 | [IBoundsCheckableItem](./iboundscheckableitem/) |  |
 | [IColorSpaceConversionStrategy](./icolorspaceconversionstrategy/) | Interface for color space conversion strategies. |
-| [IIndexBitmapConverter](./iindexbitmapconverter/) | This interface declared for customization algorithms of quantization. Users can implement their own realization of this algorithms (for example algorithms based on unmanaged code). |
+| [IIndexBitmapConverter](./iindexbitmapconverter/) | This interface declared for customization algorithms of quantization. |
 | [INamedDestinationCollection](./inameddestinationcollection/) | Collection of Named Destinations. |
 | [IOperatorSelector](./ioperatorselector/) | Defines Visitor for visiting different pdf operators. |
 | [IPageSetOptions](./ipagesetoptions/) | Defines conversion options related to a set of pages to convert. |
@@ -225,11 +262,15 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [ITeXInputDirectory](./itexinputdirectory/) | Interface of generalized TeX input directory. |
 | [ITeXOutputDirectory](./itexoutputdirectory/) | Interface of generalized TeX output directory. |
 | [IWarningCallback](./iwarningcallback/) | Interface for user's callback mechanism support. |
+
 ## Enumeration
 
 | Enumeration | Description |
 | --- | --- |
 | [AFRelationship](./afrelationship/) | Enumeration describes associated files relationship. |
+| [Artifact.ArtifactSubtype](./artifact.artifactsubtype/) | Enumeration of possible artifacts subtype. |
+| [Artifact.ArtifactType](./artifact.artifacttype/) | Enumeration of possible artifact types. |
+| [BitmapInfo.PixelFormat](./bitmapinfo.pixelformat/) | Bitmap pixel format. |
 | [BlendMode](./blendmode/) | The blend modes enumeration. |
 | [BorderCornerStyle](./bordercornerstyle/) | Enumerates the border corner styles for border. |
 | [BorderSide](./borderside/) | Enumerates the border sides. |
@@ -244,51 +285,102 @@ The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library whi
 | [ConvertTransparencyAction](./converttransparencyaction/) | This class represents action for conversion of transparency. |
 | [CryptoAlgorithm](./cryptoalgorithm/) | Represent type of cryptographic algorithm that used in encryption/decryption routines. |
 | [DefaultState](./defaultstate/) | Represents the default state of a PDF layer. |
-| [DigestHashAlgorithm](./digesthashalgorithm/) | Represent type of algorithm that maps data to a "hash" |
+| [DigestHashAlgorithm](./digesthashalgorithm/) | Represent type of algorithm that maps data to a "hash". |
 | [Direction](./direction/) | Text direction. |
-| [EmphasisStyle](./emphasisstyle/) | Defines the available serialization styles for emphasis and strong emphasis. For specification see CommonMark - Emphasis and strong emphasis. |
+| [DocSaveOptions.DocFormat](./docsaveoptions.docformat/) | Allows to specify .doc or .docx file format. |
+| [DocSaveOptions.RecognitionMode](./docsaveoptions.recognitionmode/) | Allows to control how a PDF document is converted into a word processing document. |
+| [EmphasisStyle](./emphasisstyle/) | Defines the available serialization styles for emphasis and strong emphasis. |
+| [EpubSaveOptions.RecognitionMode](./epubsaveoptions.recognitionmode/) | When PDF file (that usually has fixed layout) is being converted,. |
+| [ExcelSaveOptions.ExcelFormat](./excelsaveoptions.excelformat/) | Allows to specify .xlsx, .xls/xml or csv file format. |
 | [ExtendedBoolean](./extendedboolean/) | Represents boolean type that supports Undefined value. |
 | [ExtractImageMode](./extractimagemode/) | Defines different modes which can be used while extracting images from documents. |
 | [FieldSerializationStatus](./fieldserializationstatus/) | Represents the status of the form field serialization. |
 | [FieldValueType](./fieldvaluetype/) | Represents the type of a field value in a schema collection. |
 | [FileEncoding](./fileencoding/) | Encoding of the attached file. Possible values: Zip - file is compressed with ZIP, None - file is non compressed. |
 | [Fixup](./fixup/) | This enum represents an type of Fixup. |
-| [FontSubsetStrategy](./fontsubsetstrategy/) | enumerates strategies for font subsetting |
+| [FontSubsetStrategy](./fontsubsetstrategy/) | enumerates strategies for font subsetting. |
 | [HeadingRecognitionStrategy](./headingrecognitionstrategy/) | Represents types of header recognition strategies. |
-| [HeadingStyle](./headingstyle/) | Defines the available serialization styles for headings. For specification see CommonMark - ATX headings, respectively CommonMark - Setext headings. |
+| [HeadingStyle](./headingstyle/) | Defines the available serialization styles for headings. |
 | [HorizontalAlignment](./horizontalalignment/) | Describes horizontal alignment. |
 | [HtmlDocumentType](./htmldocumenttype/) | Represents enumeration of the Html document types. |
 | [HtmlMediaType](./htmlmediatype/) | Specifies possible media types used during rendering. |
 | [HtmlPageLayoutOption](./htmlpagelayoutoption/) | Specifies flags that together other options determine sizes and layouts of pages. |
-| [ImageDeleteAction](./imagedeleteaction/) | Action which performed with image object when image is removed from collection. If image object is removed |
+| [HtmlSaveOptions.AntialiasingProcessingType](./htmlsaveoptions.antialiasingprocessingtype/) | This enum describes possible antialiasing measures during conversion. |
+| [HtmlSaveOptions.FontEncodingRules](./htmlsaveoptions.fontencodingrules/) | This enumeration defines rules which tune encoding logic. |
+| [HtmlSaveOptions.FontSavingModes](./htmlsaveoptions.fontsavingmodes/) | Enumerates modes that can be used for saving of fonts. |
+| [HtmlSaveOptions.HtmlImageType](./htmlsaveoptions.htmlimagetype/) | enumerates possible types of image files. |
+| [HtmlSaveOptions.HtmlMarkupGenerationModes](./htmlsaveoptions.htmlmarkupgenerationmodes/) | Sometimes specific reqirments to created HTML are present. |
+| [HtmlSaveOptions.ImageParentTypes](./htmlsaveoptions.imageparenttypes/) | Enumerates possible types of image's parents. |
+| [HtmlSaveOptions.LettersPositioningMethods](./htmlsaveoptions.letterspositioningmethods/) | It enumerates possible modes of positioning of letters in words in result HTML. |
+| [HtmlSaveOptions.PartsEmbeddingModes](./htmlsaveoptions.partsembeddingmodes/) | This enum enumerates possible modes of embedding of files referenced in HTML. |
+| [HtmlSaveOptions.RasterImagesSavingModes](./htmlsaveoptions.rasterimagessavingmodes/) | Converted PDF can contain raster images(.png, *.jpeg etc.). |
+| [ImageDeleteAction](./imagedeleteaction/) | Action which performed with image object when image is removed from collection. If image object is removed. |
 | [ImageFileType](./imagefiletype/) | Enumerates the image file types. |
 | [ImageFilterType](./imagefiltertype/) | Enumeration representing image filter type. |
 | [ImportFormat](./importformat/) | Specifies import format. |
 | [LineBreakStyle](./linebreakstyle/) | Represents the possible line break styles for a file. |
 | [LoadFormat](./loadformat/) | Specifies load format. |
+| [LoadOptions.MarginsAreaUsageModes](./loadoptions.marginsareausagemodes/) | Represents mode of usage of margins area during conversion. |
+| [LoadOptions.PageSizeAdjustmentModes](./loadoptions.pagesizeadjustmentmodes/) | ATTENTION! The feature implemented but did not put yet to public API since blocker issue in. |
 | [NumberingStyle](./numberingstyle/) | Enumeration of supported page numbering style for PageLabel class. |
 | [PageCoordinateType](./pagecoordinatetype/) | Describes page coordinate type. |
 | [PageLayout](./pagelayout/) | Descibes page layout. |
 | [PageMode](./pagemode/) | Class descibes used components of the document page. |
 | [ParagraphPositioningMode](./paragraphpositioningmode/) | Specifies variant for determining the location of the element on the page. |
 | [PasswordType](./passwordtype/) | This enum represents known password types used for password protected pdf documents. |
+| [PclLoadOptions.ConversionEngines](./pclloadoptions.conversionengines/) | Enumerates conversion engines that can be used for conversion. |
+| [PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType](./pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) | Declares set of some known encoding subtables. |
 | [PdfFormat](./pdfformat/) | This class represents an pdf format. |
+| [PdfFormatConversionOptions.PuaProcessingStrategy](./pdfformatconversionoptions.puaprocessingstrategy/) | Some PDF documents have special unicode symbols, which are belonged to Private Use Area (PUA),. |
+| [PdfFormatConversionOptions.RemoveFontsStrategy](./pdfformatconversionoptions.removefontsstrategy/) | Some documens have large size after converison into PDF/A format. To reduce file size for these. |
+| [PdfFormatConversionOptions.SegmentAlignStrategy](./pdfformatconversionoptions.segmentalignstrategy/) | Describes strategies used to align document text segments. |
 | [PdfVersion](./pdfversion/) | This enum represents version of pdf file. |
 | [Permissions](./permissions/) | This enum represents user's permissions for a pdf. |
 | [PrintDuplex](./printduplex/) | The paper handling option to use when printing the file from the print dialog.. |
 | [PrintScaling](./printscaling/) | The page scaling option that shall be selected when a print dialog is displayed for this document. |
-| [ProgressEventType](./progresseventtype/) | This enum describes possible progress event types that can occure during conversion |
-| [ReturnAction](./returnaction/) | Enum represented a program workflow action in case of invoking the [`Warning`](../aspose.pdf/iwarningcallback/warning/) method. |
+| [ProgressEventType](./progresseventtype/) | This enum describes possible progress event types. |
+| [ReturnAction](./returnaction/) | Enum represented a program workflow action in case of invoking the. |
 | [Rotation](./rotation/) | Enumeration of possible rotation values. |
-| [SaveFormat](./saveformat/) | Specifies format |
+| [SaveFormat](./saveformat/) | Specifies format. |
+| [SaveOptions.HtmlBorderLineType](./saveoptions.htmlborderlinetype/) | Represents line types that can be used in result document for drawing borders or another lines. |
+| [SaveOptions.NodeLevelResourceType](./saveoptions.nodelevelresourcetype/) | enumerates possible types of saved external resources. |
 | [Subset](./subset/) | Represents the subset of pages to which a pagination artifact can apply. |
+| [SvgLoadOptions.ConversionEngines](./svgloadoptions.conversionengines/) | Enumerates conversion engines that can be used for conversion. |
+| [SvgSaveOptions.SvgExternalImageType](./svgsaveoptions.svgexternalimagetype/) | enumerates possible types of image files. |
+| [TabOrder](./taborder/) | Tab order on the page. |
 | [TableBroken](./tablebroken/) | Enumerates the table broken. |
-| [TabOrder](./taborder/) | Tab order on the page |
 | [TeXLoadResult](./texloadresult/) | Results for TeX load and compiling. |
+| [TextStamp.NoCharacterAction](./textstamp.nocharacteraction/) | Action to perform if font does not contain required character. |
 | [VerticalAlignment](./verticalalignment/) | Enumeration of possible vertical alignment values. |
 | [WarningType](./warningtype/) | Enum represented warning type. |
-| [XfaTag](./xfatag/) | The xfa stream tag |
+| [XfaTag](./xfatag/) | The xfa stream tag. |
 | [XmpFieldType](./xmpfieldtype/) | This enum represents types of a XMP field. |
 | [XmpPdfAExtensionCategoryType](./xmppdfaextensioncategorytype/) | Property category: internal or external. |
+| [XslFoLoadOptions.ParsingErrorsHandlingTypes](./xslfoloadoptions.parsingerrorshandlingtypes/) | Source XSLFO document can contain formatting errors. This enum enumerates possible strategies of handling of such formatting errors. |
 
+## Delegates
+
+| Delegate | Description |
+| --- | --- |
+| [Document.CallBackGetHocr](./document.callbackgethocr/) |  |
+| [Document.CallBackGetHocrWithPage](./document.callbackgethocrwithpage/) |  |
+| [Document.FontSubstitutionHandler](./document.fontsubstitutionhandler/) | Represents the method that will handle FontSubstitution event. |
+| [HtmlSaveOptions.CssSavingStrategy](./htmlsaveoptions.csssavingstrategy/) | You can assign to this property custom strategy that implements processing. |
+| [HtmlSaveOptions.CssUrlMakingStrategy](./htmlsaveoptions.cssurlmakingstrategy/) | You can assign to this property delegate created from custom method that implements creation of URL of CSS referenced. |
+| [HtmlSaveOptions.HtmlPageMarkupSavingStrategy](./htmlsaveoptions.htmlpagemarkupsavingstrategy/) | Result of conversion can contain one or several HTML-pages ( that also can reference external files like images or fonts). |
+| [HtmlSaveOptions.ResourceSavingStrategy](./htmlsaveoptions.resourcesavingstrategy/) | To this property You can assign delegate created from custom method that implements processing. |
+| [LoadOptions.ResourceLoadingStrategy](./loadoptions.resourceloadingstrategy/) | Sometimes it's necessary to avoid usage of internal loader of external resources(like images or CSSes). |
+| [Page.BeforePageGenerate](./page.beforepagegenerate/) | Procedure for customize header and footer. |
+| [SvgSaveOptions.EmbeddedImagesSavingStrategy](./svgsaveoptions.embeddedimagessavingstrategy/) | To property of such type You can assign delegate created from custom method that implements processing. |
+| [UnifiedSaveOptions.ConversionProgressEventHandler](./unifiedsaveoptions.conversionprogresseventhandler/) | Represents method that usually supplied by calling side. |
+
+## FAQ
+
+### What classes does the Aspose.Pdf namespace contain?
+
+[ApsLoadOptions](./apsloadoptions/), [ApsSaveOptions](./apssaveoptions/), [Artifact](./artifact/), [ArtifactCollection](./artifactcollection/), [AutoTaggingSettings](./autotaggingsettings/), and 221 more.
+
+### How many types are in the Aspose.Pdf namespace?
+
+The Aspose.Pdf namespace contains 338 types, listed above.
 

@@ -1,10 +1,13 @@
 ---
-title: Enum StampType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.StampType enum. Describes stamp types
+title: "StampType Enum"
+linktitle: "StampType"
+articleTitle: "StampType"
+second_title: "Aspose.PDF for .NET"
+description: "Describes stamp types."
 type: docs
-weight: 4900
-url: /net/aspose.pdf.facades/stamptype/
+weight: 630
+url: "/net/aspose.pdf.facades/stamptype/"
+product_version: "26.9.0"
 ---
 ## StampType enumeration
 
@@ -14,16 +17,15 @@ Describes stamp types.
 public enum StampType
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Form | `0` | Stamp if Form. |
 | Image | `1` | Stamp is image. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

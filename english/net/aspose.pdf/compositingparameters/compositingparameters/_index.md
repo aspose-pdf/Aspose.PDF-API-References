@@ -1,14 +1,17 @@
 ---
-title: CompositingParameters.CompositingParameters
-second_title: Aspose.PDF for .NET API Reference
-description: CompositingParameters constructor. Initializes new instance of the CompositingParameters object
+title: "CompositingParameters.CompositingParameters"
+linktitle: "CompositingParameters"
+articleTitle: "CompositingParameters"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the CompositingParameters class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/compositingparameters/compositingparameters/
+url: "/net/aspose.pdf/compositingparameters/compositingparameters/"
+product_version: "26.9.0"
 ---
-## CompositingParameters(BlendMode) {#constructor}
+## CompositingParameters([BlendMode](../../../aspose.pdf/blendmode/)) {#constructor}
 
-Initializes new instance of the [`CompositingParameters`](../) object.
+Initializes new instance of the [`CompositingParameters`](../../../aspose.pdf/compositingparameters/) object.
 
 ```csharp
 public CompositingParameters(BlendMode blendMode)
@@ -20,16 +23,15 @@ public CompositingParameters(BlendMode blendMode)
 
 ### See Also
 
-* enum [BlendMode](../../blendmode/)
-* class [CompositingParameters](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [CompositingParameters](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CompositingParameters(BlendMode, ImageFilterType) {#constructor_1}
+## CompositingParameters([BlendMode](../../../aspose.pdf/blendmode/), [ImageFilterType](../../../aspose.pdf/imagefiltertype/)) {#constructor_1}
 
-Initializes new instance of the [`CompositingParameters`](../) object.
+Initializes new instance of the [`CompositingParameters`](../../../aspose.pdf/compositingparameters/) object.
 
 ```csharp
 public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
@@ -42,17 +44,15 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
 
 ### See Also
 
-* enum [BlendMode](../../blendmode/)
-* enum [ImageFilterType](../../imagefiltertype/)
-* class [CompositingParameters](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [CompositingParameters](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CompositingParameters(BlendMode, ImageFilterType, bool) {#constructor_2}
+## CompositingParameters([BlendMode](../../../aspose.pdf/blendmode/), [ImageFilterType](../../../aspose.pdf/imagefiltertype/), bool) {#constructor_2}
 
-Initializes new instance of the [`CompositingParameters`](../) object.
+Initializes new instance of the [`CompositingParameters`](../../../aspose.pdf/compositingparameters/) object.
 
 ```csharp
 public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bool isMasked)
@@ -62,14 +62,11 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bo
 | --- | --- | --- |
 | blendMode | BlendMode | Blend mode of current graphics state. |
 | filterType | ImageFilterType | The image filter type. |
-| isMasked | Boolean | The adding mask flag. |
+| isMasked | bool | The adding mask flag. |
 
 ### See Also
 
-* enum [BlendMode](../../blendmode/)
-* enum [ImageFilterType](../../imagefiltertype/)
-* class [CompositingParameters](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CompositingParameters](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

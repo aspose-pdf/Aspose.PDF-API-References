@@ -1,10 +1,13 @@
 ---
-title: HtmlToPdfOptions.HtmlMediaType
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlToPdfOptions property. Gets or sets possible media types used during rendering
+title: "HtmlToPdfOptions.HtmlMediaType"
+linktitle: "HtmlMediaType"
+articleTitle: "HtmlMediaType"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets possible media types used during rendering."
 type: docs
-weight: 30
-url: /net/aspose.pdf.lowcode/htmltopdfoptions/htmlmediatype/
+weight: 50
+url: "/net/aspose.pdf.lowcode/htmltopdfoptions/htmlmediatype/"
+product_version: "26.9.0"
 ---
 ## HtmlToPdfOptions.HtmlMediaType property
 
@@ -14,11 +17,14 @@ Gets or sets possible media types used during rendering.
 public HtmlMediaType HtmlMediaType { get; set; }
 ```
 
+### Property Value
+
+[HtmlMediaType](../../../aspose.pdf/htmlmediatype/)
+
 ### See Also
 
-* enum [HtmlMediaType](../../../aspose.pdf/htmlmediatype/)
-* class [HtmlToPdfOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HtmlMediaType](../../../aspose.pdf/htmlmediatype/)
+* class [HtmlToPdfOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

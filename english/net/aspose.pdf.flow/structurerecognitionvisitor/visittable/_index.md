@@ -1,17 +1,20 @@
 ---
-title: StructureRecognitionVisitor.VisitTable
-second_title: Aspose.PDF for .NET API Reference
-description: StructureRecognitionVisitor method. Visits a recognized table in the document structure
+title: "StructureRecognitionVisitor.VisitTable"
+linktitle: "VisitTable"
+articleTitle: "VisitTable"
+second_title: "Aspose.PDF for .NET"
+description: "Visits a recognized table in the document structure."
 type: docs
-weight: 70
-url: /net/aspose.pdf.flow/structurerecognitionvisitor/visittable/
+weight: 40
+url: "/net/aspose.pdf.flow/structurerecognitionvisitor/visittable/"
+product_version: "26.9.0"
 ---
-## StructureRecognitionVisitor.VisitTable method
+## VisitTable([Table](../../../aspose.pdf/table/)) {#visittable}
 
 Visits a recognized table in the document structure.
 
 ```csharp
-public virtual void VisitTable(Table table)
+public void VisitTable(Table table)
 ```
 
 | Parameter | Type | Description |
@@ -20,9 +23,7 @@ public virtual void VisitTable(Table table)
 
 ### See Also
 
-* class [Table](../../../aspose.pdf/table/)
-* class [StructureRecognitionVisitor](../)
-* namespace [Aspose.Pdf.Flow](../../../aspose.pdf.flow/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureRecognitionVisitor](../)
+* namespace [Aspose.Pdf.Flow](../../../aspose.pdf.flow/)
+* assembly [Aspose.PDF](../../../)
 

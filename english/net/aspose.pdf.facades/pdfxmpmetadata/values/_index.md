@@ -1,10 +1,13 @@
 ---
-title: PdfXmpMetadata.Values
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata property. Gets the collection of values in dictionary
+title: "PdfXmpMetadata.Values"
+linktitle: "Values"
+articleTitle: "Values"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the collection of values in dictionary."
 type: docs
-weight: 100
-url: /net/aspose.pdf.facades/pdfxmpmetadata/values/
+weight: 260
+url: "/net/aspose.pdf.facades/pdfxmpmetadata/values/"
+product_version: "26.9.0"
 ---
 ## PdfXmpMetadata.Values property
 
@@ -14,11 +17,13 @@ Gets the collection of values in dictionary.
 public ICollection<XmpValue> Values { get; }
 ```
 
+### Property Value
+
+[ICollection](https://learn.microsoft.com/dotnet/api/system.collections.generic.icollection-1)<[XmpValue](../../../aspose.pdf/xmpvalue/)>
+
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

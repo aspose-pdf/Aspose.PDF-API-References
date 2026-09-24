@@ -1,10 +1,13 @@
 ---
-title: TableTRElement.Border
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement property. Gets or sets the row border
+title: "TableTRElement.Border"
+linktitle: "Border"
+articleTitle: "Border"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the row border."
 type: docs
-weight: 20
-url: /net/aspose.pdf.logicalstructure/tabletrelement/border/
+weight: 40
+url: "/net/aspose.pdf.logicalstructure/tabletrelement/border/"
+product_version: "26.9.0"
 ---
 ## TableTRElement.Border property
 
@@ -14,11 +17,14 @@ Gets or sets the row border.
 public BorderInfo Border { get; set; }
 ```
 
+### Property Value
+
+[BorderInfo](../../../aspose.pdf/borderinfo/)
+
 ### See Also
 
-* class [BorderInfo](../../../aspose.pdf/borderinfo/)
-* class [TableTRElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

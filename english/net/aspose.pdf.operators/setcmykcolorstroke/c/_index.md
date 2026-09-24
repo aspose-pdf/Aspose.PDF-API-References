@@ -1,10 +1,13 @@
 ---
-title: SetCMYKColorStroke.C
-second_title: Aspose.PDF for .NET API Reference
-description: SetCMYKColorStroke property. Gets or sets the cyan component
+title: "SetCMYKColorStroke.C"
+linktitle: "C"
+articleTitle: "C"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the cyan component."
 type: docs
-weight: 20
-url: /net/aspose.pdf.operators/setcmykcolorstroke/c/
+weight: 40
+url: "/net/aspose.pdf.operators/setcmykcolorstroke/c/"
+product_version: "26.9.0"
 ---
 ## SetCMYKColorStroke.C property
 
@@ -14,10 +17,13 @@ Gets or sets the cyan component.
 public double C { get; set; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [SetCMYKColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetCMYKColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

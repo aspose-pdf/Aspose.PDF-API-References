@@ -1,33 +1,34 @@
 ---
-title: AppearanceDictionary.TryGetValue
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary method. Tries to find key in the dictionary and retreives value if found
+title: "AppearanceDictionary.TryGetValue"
+linktitle: "TryGetValue"
+articleTitle: "TryGetValue"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 160
-url: /net/aspose.pdf.annotations/appearancedictionary/trygetvalue/
+weight: 80
+url: "/net/aspose.pdf.annotations/appearancedictionary/trygetvalue/"
+product_version: "26.9.0"
 ---
-## AppearanceDictionary.TryGetValue method
+## TryGetValue(string, [XForm](../../../aspose.pdf/xform/)) {#trygetvalue}
 
-Tries to find key in the dictionary and retreives value if found.
+
 
 ```csharp
-public bool TryGetValue(string key, out XForm value)
+public bool TryGetValue(string key, XForm value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | Key to search in the dictionary. |
-| value | XForm& | Retreived value. |
+| key | string |  |
+| value | XForm |  |
 
 ### Return Value
 
-true if key was found.
+bool
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
-* class [AppearanceDictionary](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

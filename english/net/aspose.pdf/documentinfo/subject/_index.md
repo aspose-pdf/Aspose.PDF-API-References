@@ -1,10 +1,13 @@
 ---
-title: DocumentInfo.Subject
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo property. Gets or sets the subject of the document
+title: "DocumentInfo.Subject"
+linktitle: "Subject"
+articleTitle: "Subject"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the subject of the document."
 type: docs
-weight: 110
-url: /net/aspose.pdf/documentinfo/subject/
+weight: 100
+url: "/net/aspose.pdf/documentinfo/subject/"
+product_version: "26.9.0"
 ---
 ## DocumentInfo.Subject property
 
@@ -14,10 +17,13 @@ Gets or sets the subject of the document.
 public string Subject { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [DocumentInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

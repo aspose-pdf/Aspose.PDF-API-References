@@ -1,10 +1,13 @@
 ---
-title: Enum BorderSide
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BorderSide enum. Enumerates the border sides
+title: "BorderSide Enum"
+linktitle: "BorderSide"
+articleTitle: "BorderSide"
+second_title: "Aspose.PDF for .NET"
+description: "Enumerates the border sides."
 type: docs
-weight: 3020
-url: /net/aspose.pdf/borderside/
+weight: 200
+url: "/net/aspose.pdf/borderside/"
+product_version: "26.9.0"
 ---
 ## BorderSide enumeration
 
@@ -14,10 +17,10 @@ Enumerates the border sides.
 public enum BorderSide
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | None | `0` | No border. |
 | Left | `1` | Left border. |
 | Top | `2` | Top border. |
@@ -28,7 +31,6 @@ public enum BorderSide
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

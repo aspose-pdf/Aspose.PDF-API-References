@@ -1,12 +1,15 @@
 ---
-title: XImageCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection method. Adds new image to Image list. This method adds image as reference to the same PdfObject which allows to decrease file size
+title: "XImageCollection.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: "Adds new image to Image list. This method adds image as reference to the same PdfObject (which allows to decrease file size)"
 type: docs
-weight: 70
-url: /net/aspose.pdf/ximagecollection/add/
+weight: 10
+url: "/net/aspose.pdf/ximagecollection/add/"
+product_version: "26.9.0"
 ---
-## Add(XImage) {#add_2}
+## Add([XImage](../../../aspose.pdf/ximage/)) {#add}
 
 Adds new image to Image list. This method adds image as reference to the same PdfObject (which allows to decrease file size)
 
@@ -20,18 +23,19 @@ public string Add(XImage image)
 
 ### Return Value
 
+string
+
 Name of the added image.
 
 ### See Also
 
-* class [XImage](../../ximage/)
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(Stream) {#add_3}
+## Add(Stream) {#add_1}
 
 Adds entity to the end of the collection, so entity can be accessed by the last index.
 
@@ -45,17 +49,19 @@ public string Add(Stream image)
 
 ### Return Value
 
+string
+
 Name of the added image.
 
 ### See Also
 
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(BitmapInfo) {#add}
+## Add([BitmapInfo](../../../aspose.pdf/bitmapinfo/)) {#add_2}
 
 Adds entity to the end of the collection, so entity can be accessed by the last index.
 
@@ -69,18 +75,19 @@ public string Add(BitmapInfo bitmapInfo)
 
 ### Return Value
 
+string
+
 Name of the added image.
 
 ### See Also
 
-* class [BitmapInfo](../../bitmapinfo/)
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(Stream, ImageFilterType) {#add_4}
+## Add(Stream, [ImageFilterType](../../../aspose.pdf/imagefiltertype/)) {#add_3}
 
 Adds entity to the end of the collection, so entity can be accessed by the last index.
 
@@ -95,18 +102,19 @@ public string Add(Stream image, ImageFilterType filterType)
 
 ### Return Value
 
+string
+
 Name of the added image.
 
 ### See Also
 
-* enum [ImageFilterType](../../imagefiltertype/)
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(BitmapInfo, ImageFilterType) {#add_1}
+## Add([BitmapInfo](../../../aspose.pdf/bitmapinfo/), [ImageFilterType](../../../aspose.pdf/imagefiltertype/)) {#add_4}
 
 Adds entity to the end of the collection, so entity can be accessed by the last index.
 
@@ -121,19 +129,19 @@ public string Add(BitmapInfo bitmapInfo, ImageFilterType filterType)
 
 ### Return Value
 
+string
+
 Name of the added image.
 
 ### See Also
 
-* class [BitmapInfo](../../bitmapinfo/)
-* enum [ImageFilterType](../../imagefiltertype/)
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(Stream, int) {#add_5}
+## Add(Stream, int) {#add_5}
 
 Adds entity to the end of the collection, so entity can be accessed by the last index.
 
@@ -144,12 +152,11 @@ public void Add(Stream image, int quality)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | image | Stream | Stream containing image data (in JPEG format). |
-| quality | Int32 | JPEG quality. |
+| quality | int | JPEG quality. |
 
 ### See Also
 
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

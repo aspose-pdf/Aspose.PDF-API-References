@@ -1,14 +1,17 @@
 ---
-title: GoToURIAction.GoToURIAction
-second_title: Aspose.PDF for .NET API Reference
-description: GoToURIAction constructor. Creates an instance of GoToURIAction class
+title: "GoToURIAction.GoToURIAction"
+linktitle: "GoToURIAction"
+articleTitle: "GoToURIAction"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the GoToURIAction class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/gotouriaction/gotouriaction/
+url: "/net/aspose.pdf.annotations/gotouriaction/gotouriaction/"
+product_version: "26.9.0"
 ---
-## GoToURIAction constructor
+## GoToURIAction(string) {#constructor}
 
-Creates an instance of [`GoToURIAction`](../) class.
+Creates an instance of [`GoToURIAction`](../../../aspose.pdf.annotations/gotouriaction/) class.
 
 ```csharp
 public GoToURIAction(string uri)
@@ -16,12 +19,11 @@ public GoToURIAction(string uri)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| uri | String | The uniform resource identifier to resolve. |
+| uri | string | The uniform resource identifier to resolve. |
 
 ### See Also
 
-* class [GoToURIAction](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [GoToURIAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

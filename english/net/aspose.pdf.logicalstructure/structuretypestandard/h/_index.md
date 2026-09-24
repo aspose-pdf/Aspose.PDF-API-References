@@ -1,10 +1,13 @@
 ---
-title: StructureTypeStandard.H
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard field. Heading A label for a subdivision of a documents content. It should be the first child of the division that it heads
+title: "StructureTypeStandard.H"
+linktitle: "H"
+articleTitle: "H"
+second_title: "Aspose.PDF for .NET"
+description: "(Heading) A label for a subdivision of a document's content. It should be the first child of the division that it heads."
 type: docs
-weight: 120
-url: /net/aspose.pdf.logicalstructure/structuretypestandard/h/
+weight: 180
+url: "/net/aspose.pdf.logicalstructure/structuretypestandard/h/"
+product_version: "26.9.0"
 ---
 ## StructureTypeStandard.H field
 
@@ -16,8 +19,8 @@ public static readonly StructureTypeStandard H;
 
 ### See Also
 
-* class [StructureTypeStandard](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

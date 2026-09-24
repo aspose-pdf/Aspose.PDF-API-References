@@ -1,27 +1,30 @@
 ---
-title: Color.OliveDrab
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FF6B8E23
+title: "Color.OliveDrab"
+linktitle: "OliveDrab"
+articleTitle: "OliveDrab"
+second_title: "Aspose.PDF for .NET"
+description: "Gets a system-defined color that has an ARGB value of \\c \\#FF6B8E23."
 type: docs
-weight: 1000
-url: /net/aspose.pdf/color/olivedrab/
+weight: 1170
+url: "/net/aspose.pdf/color/olivedrab/"
+product_version: "26.9.0"
 ---
 ## Color.OliveDrab property
 
 Gets a system-defined color that has an ARGB value of \c \#FF6B8E23.
 
 ```csharp
-public static Color OliveDrab { get; }
+public Color OliveDrab { get; }
 ```
 
-### Return Value
+### Property Value
 
-A representing a system-defined color.
+[Color](../../../aspose.pdf/color/)
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

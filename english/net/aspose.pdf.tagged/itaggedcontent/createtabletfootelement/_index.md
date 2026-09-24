@@ -1,12 +1,15 @@
 ---
-title: ITaggedContent.CreateTableTFootElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent method. Creates TableTFootElement
+title: "ITaggedContent.CreateTableTFootElement"
+linktitle: "CreateTableTFootElement"
+articleTitle: "CreateTableTFootElement"
+second_title: "Aspose.PDF for .NET"
+description: "Creates ."
 type: docs
-weight: 340
-url: /net/aspose.pdf.tagged/itaggedcontent/createtabletfootelement/
+weight: 240
+url: "/net/aspose.pdf.tagged/itaggedcontent/createtabletfootelement/"
+product_version: "26.9.0"
 ---
-## ITaggedContent.CreateTableTFootElement method
+## CreateTableTFootElement() {#createtabletfootelement}
 
 Creates [`TableTFootElement`](../../../aspose.pdf.logicalstructure/tabletfootelement/).
 
@@ -16,13 +19,14 @@ public TableTFootElement CreateTableTFootElement()
 
 ### Return Value
 
+[TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
+
 Created structure element.
 
 ### See Also
 
-* class [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
-* interface [ITaggedContent](../)
-* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
 

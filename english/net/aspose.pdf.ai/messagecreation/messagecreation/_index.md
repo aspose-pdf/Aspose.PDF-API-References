@@ -1,14 +1,17 @@
 ---
-title: MessageCreation.MessageCreation
-second_title: Aspose.PDF for .NET API Reference
-description: MessageCreation constructor. The default constructor
+title: "MessageCreation.MessageCreation"
+linktitle: "MessageCreation"
+articleTitle: "MessageCreation"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the MessageCreation class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/messagecreation/messagecreation/
+url: "/net/aspose.pdf.ai/messagecreation/messagecreation/"
+product_version: "26.9.0"
 ---
-## MessageCreation constructor
+## MessageCreation() {#constructor}
 
-The default constructor.
+Initializes a new instance of the MessageCreation class.
 
 ```csharp
 public MessageCreation()
@@ -16,8 +19,7 @@ public MessageCreation()
 
 ### See Also
 
-* class [MessageCreation](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MessageCreation](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,42 +1,52 @@
 ---
-title: Class SaveableFacade
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.SaveableFacade class. Base class for all saveable facades
+title: "SaveableFacade Class"
+linktitle: "SaveableFacade"
+articleTitle: "SaveableFacade"
+second_title: "Aspose.PDF for .NET"
+description: "Base class for all saveable facades."
 type: docs
-weight: 4860
-url: /net/aspose.pdf.facades/saveablefacade/
+weight: 590
+url: "/net/aspose.pdf.facades/saveablefacade/"
+keywords: "SaveableFacade, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## SaveableFacade class
 
 Base class for all saveable facades.
 
 ```csharp
-public abstract class SaveableFacade : Facade, ISaveableFacade
+public abstract class SaveableFacade : Facade, ISaveableFacade, IFacade, IDisposable
 ```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [SaveableFacade](./saveablefacade/#constructor) | The constructor. |
+| [SaveableFacade](./saveablefacade/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | The constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Gets the document facade is working on. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Gets the document facade is working on. *(Inherited from Facade)* |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | Initializes the facade. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Stream) | Initializes the facade. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(string) | Initializes the facade. |
-| virtual [Close](../../aspose.pdf.facades/facade/close/)() | Disposes Aspose.Pdf.Document bound with a facade. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Disposes the facade. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/#save)(Stream) | Saves the PDF document to the specified stream. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/#save_1)(string) | Saves the PDF document to the specified file. |
+| [AssertDocument](../../aspose.pdf.facades/facade/assertdocument/) | Asserts if the facade is initialized. *(Inherited from Facade)* |
+| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string*) | Initializes the facade. *(Inherited from Facade)* |
+| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string*) | Initializes the facade. *(Inherited from Facade)* |
+| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. *(Inherited from Facade)* |
+| [Close](../../aspose.pdf.facades/facade/close/) | Disposes Aspose.Pdf.Document bound with a facade. *(Inherited from Facade)* |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/) | Disposes the facade. *(Inherited from Facade)* |
+| [Save](./save/)(*string*) | Saves the PDF document to the specified file. |
+| [Save](./save/)(*Stream*) | Saves the PDF document to the specified stream. |
 
 ### See Also
 
-* class [Facade](../facade/)
-* interface [ISaveableFacade](../isaveablefacade/)
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* class [Facade](../facade/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

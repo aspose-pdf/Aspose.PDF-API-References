@@ -1,10 +1,13 @@
 ---
-title: PaperSizes.LetterExtraTransverse
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. Letter extra transverse paper 9.275 in. by 12 in
+title: "PaperSizes.LetterExtraTransverse"
+linktitle: "LetterExtraTransverse"
+articleTitle: "LetterExtraTransverse"
+second_title: "Aspose.PDF for .NET"
+description: "Letter extra transverse paper (9.275 in. by 12 in.)."
 type: docs
-weight: 670
-url: /net/aspose.pdf.printing/papersizes/letterextratransverse/
+weight: 540
+url: "/net/aspose.pdf.printing/papersizes/letterextratransverse/"
+product_version: "26.9.0"
 ---
 ## PaperSizes.LetterExtraTransverse field
 
@@ -16,9 +19,8 @@ public static readonly PaperSize LetterExtraTransverse;
 
 ### See Also
 
-* class [PaperSize](../../papersize/)
-* class [PaperSizes](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

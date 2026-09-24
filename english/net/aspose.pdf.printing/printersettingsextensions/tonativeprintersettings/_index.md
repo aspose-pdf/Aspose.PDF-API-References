@@ -1,17 +1,20 @@
 ---
-title: PrinterSettingsExtensions.ToNativePrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettingsExtensions method. Converts PrinterSettings to Windowsspecific System.Drawing.Printing.PrinterSettings
+title: "PrinterSettingsExtensions.ToNativePrinterSettings"
+linktitle: "ToNativePrinterSettings"
+articleTitle: "ToNativePrinterSettings"
+second_title: "Aspose.PDF for .NET"
+description: "Converts to Windows-specific System.Drawing.Printing.PrinterSettings."
 type: docs
-weight: 20
-url: /net/aspose.pdf.printing/printersettingsextensions/tonativeprintersettings/
+weight: 10
+url: "/net/aspose.pdf.printing/printersettingsextensions/tonativeprintersettings/"
+product_version: "26.9.0"
 ---
-## PrinterSettingsExtensions.ToNativePrinterSettings method
+## ToNativePrinterSettings([PrinterSettings](../../../aspose.pdf.printing/printersettings/)) {#tonativeprintersettings}
 
-Converts [`PrinterSettings`](../../printersettings/) to Windows-specific System.Drawing.Printing.PrinterSettings.
+Converts [`PrinterSettings`](../../../aspose.pdf.printing/printersettings/) to Windows-specific System.Drawing.Printing.PrinterSettings.
 
 ```csharp
-public static PrinterSettings ToNativePrinterSettings(this PrinterSettings printerSettings)
+public PrinterSettings ToNativePrinterSettings(PrinterSettings printerSettings)
 ```
 
 | Parameter | Type | Description |
@@ -20,13 +23,14 @@ public static PrinterSettings ToNativePrinterSettings(this PrinterSettings print
 
 ### Return Value
 
+[PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+
 Windows printer settings.
 
 ### See Also
 
-* class [PrinterSettings](../../printersettings/)
-* class [PrinterSettingsExtensions](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PrinterSettingsExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

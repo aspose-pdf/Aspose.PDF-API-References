@@ -1,12 +1,15 @@
 ---
-title: AppearanceDictionary.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary method. Removes key from the dictionary
+title: "AppearanceDictionary.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET"
+description: "Removes key from the dictionary."
 type: docs
-weight: 150
-url: /net/aspose.pdf.annotations/appearancedictionary/remove/
+weight: 70
+url: "/net/aspose.pdf.annotations/appearancedictionary/remove/"
+product_version: "26.9.0"
 ---
-## Remove(string) {#remove_1}
+## Remove(string) {#remove}
 
 Removes key from the dictionary.
 
@@ -16,21 +19,23 @@ public bool Remove(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | Key to be removed from the dictionary. |
+| key | string | Key to be removed from the dictionary. |
 
 ### Return Value
+
+bool
 
 true if key was successfully removed.
 
 ### See Also
 
-* class [AppearanceDictionary](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Remove(KeyValuePair&lt;string, XForm&gt;) {#remove}
+## Remove(KeyValuePair<string, XForm>) {#remove_1}
 
 Removes key/value pair from the collection.
 
@@ -40,17 +45,17 @@ public bool Remove(KeyValuePair<string, XForm> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Key/value pair to be removed. |
+| item | KeyValuePair<string, XForm> | Key/value pair to be removed. |
 
 ### Return Value
+
+bool
 
 true if pair was found and removed.
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
-* class [AppearanceDictionary](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: StreamDataSource.Data
-second_title: Aspose.PDF for .NET API Reference
-description: StreamDataSource property. Gets the stream object of the current data source
+title: "StreamDataSource.Data"
+linktitle: "Data"
+articleTitle: "Data"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the stream object of the current data source."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/streamdatasource/data/
+weight: 30
+url: "/net/aspose.pdf.lowcode/streamdatasource/data/"
+product_version: "26.9.0"
 ---
 ## StreamDataSource.Data property
 
@@ -14,10 +17,13 @@ Gets the stream object of the current data source.
 public Stream Data { get; }
 ```
 
+### Property Value
+
+[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
+
 ### See Also
 
-* class [StreamDataSource](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StreamDataSource](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

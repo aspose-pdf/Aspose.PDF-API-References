@@ -1,14 +1,17 @@
 ---
-title: OcspSettings.OcspSettings
-second_title: Aspose.PDF for .NET API Reference
-description: OcspSettings constructor. Initializes a new instance of the OcspSettings class
+title: "OcspSettings.OcspSettings"
+linktitle: "OcspSettings"
+articleTitle: "OcspSettings"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the OcspSettings class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/ocspsettings/ocspsettings/
+url: "/net/aspose.pdf/ocspsettings/ocspsettings/"
+product_version: "26.9.0"
 ---
-## OcspSettings constructor
+## OcspSettings(string) {#constructor}
 
-Initializes a new instance of the [`OcspSettings`](../) class.
+Initializes a new instance of the [`OcspSettings`](../../../aspose.pdf/ocspsettings/) class.
 
 ```csharp
 public OcspSettings(string serverUrl)
@@ -16,12 +19,11 @@ public OcspSettings(string serverUrl)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| serverUrl | String | The ocsp server url. |
+| serverUrl | string | The ocsp server url. |
 
 ### See Also
 
-* class [OcspSettings](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OcspSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

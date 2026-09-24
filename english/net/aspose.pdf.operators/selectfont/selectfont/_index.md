@@ -1,12 +1,15 @@
 ---
-title: SelectFont.SelectFont
-second_title: Aspose.PDF for .NET API Reference
-description: SelectFont constructor. Initializes operator
+title: "SelectFont.SelectFont"
+linktitle: "SelectFont"
+articleTitle: "SelectFont"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the SelectFont class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/selectfont/selectfont/
+url: "/net/aspose.pdf.operators/selectfont/selectfont/"
+product_version: "26.9.0"
 ---
-## SelectFont constructor
+## SelectFont(string, double) {#constructor}
 
 Initializes operator.
 
@@ -16,13 +19,12 @@ public SelectFont(string resName, double size)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| resName | String | The name of font resource, e.g. F1, F2 etc. |
-| size | Double | Size of the font. |
+| resName | string | The name of font resource, e.g. F1, F2 etc. |
+| size | double | Size of the font. |
 
 ### See Also
 
-* class [SelectFont](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SelectFont](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

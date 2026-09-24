@@ -1,12 +1,15 @@
 ---
-title: Document.BindXml
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Bind xml to document
+title: "Document.BindXml"
+linktitle: "BindXml"
+articleTitle: "BindXml"
+second_title: "Aspose.PDF for .NET"
+description: "Bind xml to document"
 type: docs
-weight: 570
-url: /net/aspose.pdf/document/bindxml/
+weight: 870
+url: "/net/aspose.pdf/document/bindxml/"
+product_version: "26.9.0"
 ---
-## BindXml(string) {#bindxml_3}
+## BindXml(string) {#bindxml}
 
 Bind xml to document
 
@@ -16,17 +19,17 @@ public void BindXml(string file)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| file | String | The xml file |
+| file | string | The xml file |
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BindXml(string, string) {#bindxml_4}
+## BindXml(string, string) {#bindxml_1}
 
 Bind xml/xsl to document
 
@@ -36,18 +39,18 @@ public void BindXml(string xmlFile, string xslFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xmlFile | String | The xml file. |
-| xslFile | String | The xsl file if XSLT is used. |
+| xmlFile | string | The xml file. |
+| xslFile | string | The xsl file if XSLT is used. |
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BindXml(Stream, Stream) {#bindxml_1}
+## BindXml(Stream, Stream) {#bindxml_2}
 
 Bind xml/xsl to document
 
@@ -62,13 +65,13 @@ public void BindXml(Stream xmlStream, Stream xslStream)
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BindXml(Stream, Stream, XmlReaderSettings) {#bindxml_2}
+## BindXml(Stream, Stream, XmlReaderSettings) {#bindxml_3}
 
 Bind xml/xsl to document
 
@@ -84,13 +87,13 @@ public void BindXml(Stream xmlStream, Stream xslStream, XmlReaderSettings settin
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BindXml(Stream) {#bindxml}
+## BindXml(Stream) {#bindxml_4}
 
 Bind xml to document
 
@@ -104,8 +107,7 @@ public void BindXml(Stream stream)
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

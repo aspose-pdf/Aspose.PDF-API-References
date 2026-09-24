@@ -1,21 +1,34 @@
 ---
-title: Circle.CheckBounds
-second_title: Aspose.PDF for .NET API Reference
-description: Circle method. 
+title: "Circle.CheckBounds"
+linktitle: "CheckBounds"
+articleTitle: "CheckBounds"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 50
-url: /net/aspose.pdf.drawing/circle/checkbounds/
+weight: 20
+url: "/net/aspose.pdf.drawing/circle/checkbounds/"
+product_version: "26.9.0"
 ---
-## Circle.CheckBounds method
+## CheckBounds(double, double) {#checkbounds}
+
+
 
 ```csharp
-public override bool CheckBounds(double containerWidth, double containerHeight)
+public bool CheckBounds(double containerWidth, double containerHeight)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| containerWidth | double |  |
+| containerHeight | double |  |
+
+### Return Value
+
+bool
 
 ### See Also
 
-* class [Circle](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Circle](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 

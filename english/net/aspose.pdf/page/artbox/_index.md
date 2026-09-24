@@ -1,10 +1,13 @@
 ---
-title: Page.ArtBox
-second_title: Aspose.PDF for .NET API Reference
-description: Page property. Gets or sets art box of the page
+title: "Page.ArtBox"
+linktitle: "ArtBox"
+articleTitle: "ArtBox"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets art box of the page."
 type: docs
-weight: 30
-url: /net/aspose.pdf/page/artbox/
+weight: 540
+url: "/net/aspose.pdf/page/artbox/"
+product_version: "26.9.0"
 ---
 ## Page.ArtBox property
 
@@ -14,20 +17,14 @@ Gets or sets art box of the page.
 public Rectangle ArtBox { get; set; }
 ```
 
-## Examples
+### Property Value
 
-Example demonstrates how to get art box of the page:
-
-```csharp
-Document document = new Document("sample.pdf");
-Rectangle artBox = document.Pages[1].ArtBox;
-```
+[Rectangle](../../../aspose.pdf.drawing/rectangle/)
 
 ### See Also
 
-* class [Rectangle](../../rectangle/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

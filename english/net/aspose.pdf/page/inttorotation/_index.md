@@ -1,32 +1,36 @@
 ---
-title: Page.IntToRotation
-second_title: Aspose.PDF for .NET API Reference
-description: Page method. Translates integer value into corresponding rotation enumeration member
+title: "Page.IntToRotation"
+linktitle: "IntToRotation"
+articleTitle: "IntToRotation"
+second_title: "Aspose.PDF for .NET"
+description: "Translates integer value into corresponding rotation enumeration member."
 type: docs
-weight: 560
-url: /net/aspose.pdf/page/inttorotation/
+weight: 150
+url: "/net/aspose.pdf/page/inttorotation/"
+product_version: "26.9.0"
 ---
-## Page.IntToRotation method
+## IntToRotation(int) {#inttorotation}
 
 Translates integer value into corresponding rotation enumeration member.
 
 ```csharp
-public static Rotation IntToRotation(int rotation)
+public Rotation IntToRotation(int rotation)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rotation | Int32 | Integer value to convert |
+| rotation | int | Integer value to convert |
 
 ### Return Value
+
+[Rotation](../../../aspose.pdf/rotation/)
 
 Rotation enumeration member
 
 ### See Also
 
-* enum [Rotation](../../rotation/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rotation](../../../aspose.pdf/rotation/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,32 +1,30 @@
 ---
-title: AnnotationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection property. The index of the element to get
+title: "AnnotationCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 40
-url: /net/aspose.pdf.annotations/annotationcollection/item/
+weight: 170
+url: "/net/aspose.pdf.annotations/annotationcollection/item/"
+product_version: "26.9.0"
 ---
-## AnnotationCollection indexer
+## AnnotationCollection.Item property
 
-The index of the element to get.
+
 
 ```csharp
-public Annotation this[int index] { get; }
+public Annotation Item { get; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| index | The index value started from one. |
+### Property Value
 
-### Return Value
-
-Annotation object
+[Annotation](../../../aspose.pdf.annotations/annotation/)
 
 ### See Also
 
-* class [Annotation](../../annotation/)
-* class [AnnotationCollection](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PaperSizes.Tabloid
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. Tabloid paper 11 in. by 17 in
+title: "PaperSizes.Tabloid"
+linktitle: "Tabloid"
+articleTitle: "Tabloid"
+second_title: "Aspose.PDF for .NET"
+description: "Tabloid paper (11 in. by 17 in.)."
 type: docs
-weight: 1140
-url: /net/aspose.pdf.printing/papersizes/tabloid/
+weight: 30
+url: "/net/aspose.pdf.printing/papersizes/tabloid/"
+product_version: "26.9.0"
 ---
 ## PaperSizes.Tabloid field
 
@@ -16,9 +19,8 @@ public static readonly PaperSize Tabloid;
 
 ### See Also
 
-* class [PaperSize](../../papersize/)
-* class [PaperSizes](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

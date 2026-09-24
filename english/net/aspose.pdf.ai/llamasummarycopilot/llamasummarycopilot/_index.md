@@ -1,32 +1,30 @@
 ---
-title: LlamaSummaryCopilot.LlamaSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilot constructor. Initializes a new instance of the LlamaSummaryCopilot class
+title: "LlamaSummaryCopilot.LlamaSummaryCopilot"
+linktitle: "LlamaSummaryCopilot"
+articleTitle: "LlamaSummaryCopilot"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the LlamaSummaryCopilot class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/llamasummarycopilot/llamasummarycopilot/
+url: "/net/aspose.pdf.ai/llamasummarycopilot/llamasummarycopilot/"
+product_version: "26.9.0"
 ---
-## LlamaSummaryCopilot constructor
+## LlamaSummaryCopilot([ILlamaClient](../../../aspose.pdf.ai/illamaclient/), ISummaryCopilotOptions<LlamaSummaryCopilotOptions>) {#constructor}
 
-Initializes a new instance of the [`LlamaSummaryCopilot`](../) class.
+Initializes a new instance of the [`LlamaSummaryCopilot`](../../../aspose.pdf.ai/llamasummarycopilot/) class.
 
 ```csharp
-public LlamaSummaryCopilot(ILlamaClient client, 
-    ISummaryCopilotOptions<LlamaSummaryCopilotOptions> options)
+public LlamaSummaryCopilot(ILlamaClient client, ISummaryCopilotOptions<LlamaSummaryCopilotOptions> options)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | client | ILlamaClient | The Llama client instance. |
-| options | ISummaryCopilotOptions`1 | The Llama Summary Copilot options. |
+| options | ISummaryCopilotOptions<LlamaSummaryCopilotOptions> | The Llama Summary Copilot options. |
 
 ### See Also
 
-* interface [ILlamaClient](../../illamaclient/)
-* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* class [LlamaSummaryCopilotOptions](../../llamasummarycopilotoptions/)
-* class [LlamaSummaryCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LlamaSummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

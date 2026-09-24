@@ -1,27 +1,31 @@
 ---
-title: IOpenAIClient.GetThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Retrieves details of a specific message within a thread asynchronously
+title: "IOpenAIClient.GetThreadMessageAsync"
+linktitle: "GetThreadMessageAsync"
+articleTitle: "GetThreadMessageAsync"
+second_title: "Aspose.PDF for .NET"
+description: "Retrieves details of a specific message within a thread asynchronously."
 type: docs
-weight: 280
-url: /net/aspose.pdf.ai/iopenaiclient/getthreadmessageasync/
+weight: 90
+url: "/net/aspose.pdf.ai/iopenaiclient/getthreadmessageasync/"
+product_version: "26.9.0"
 ---
-## IOpenAIClient.GetThreadMessageAsync method
+## GetThreadMessageAsync(string, string, Nullable<CancellationToken>) {#getthreadmessageasync}
 
 Retrieves details of a specific message within a thread asynchronously.
 
 ```csharp
-public Task<ThreadMessageResponse> GetThreadMessageAsync(string threadId, string threadMessageId, 
-    CancellationToken? cancellationToken = default)
+public Task<ThreadMessageResponse> GetThreadMessageAsync(string threadId, string threadMessageId, Nullable<CancellationToken> cancellationToken)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threadId | String | The ID of the thread containing the message. |
-| threadMessageId | String | The ID of the message to retrieve. |
-| cancellationToken | Nullable`1 | A token to cancel the operation. |
+| threadId | string | The ID of the thread containing the message. |
+| threadMessageId | string | The ID of the message to retrieve. |
+| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
 
 ### Return Value
+
+[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[ThreadMessageResponse](../../../aspose.pdf.ai/threadmessageresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the details of the thread message.
 
@@ -29,14 +33,12 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Thrown when the thread Id is null or empty. |
-| [AIClientException](../../aiclientexception/) | Thrown when the thread message Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread message Id is null or empty. |
 
 ### See Also
 
-* class [ThreadMessageResponse](../../threadmessageresponse/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

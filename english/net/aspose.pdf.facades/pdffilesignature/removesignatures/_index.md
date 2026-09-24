@@ -1,12 +1,15 @@
 ---
-title: PdfFileSignature.RemoveSignatures
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature method. Removes all signatures
+title: "PdfFileSignature.RemoveSignatures"
+linktitle: "RemoveSignatures"
+articleTitle: "RemoveSignatures"
+second_title: "Aspose.PDF for .NET"
+description: "Removes all signatures."
 type: docs
-weight: 260
-url: /net/aspose.pdf.facades/pdffilesignature/removesignatures/
+weight: 370
+url: "/net/aspose.pdf.facades/pdffilesignature/removesignatures/"
+product_version: "26.9.0"
 ---
-## PdfFileSignature.RemoveSignatures method
+## RemoveSignatures() {#removesignatures}
 
 Removes all signatures.
 
@@ -18,22 +21,21 @@ public void RemoveSignatures()
 
 ```csharp
 [C#]
-string inFile = TestPath + "example1.pdf";
-var pdfSign = new PdfFileSignature();
-pdfSign.BindPdf(inFile); 
-pdfSign.RemoveSignatures();
-pdfSign.Save(TestPath + "signed_removed.pdf");
-[Visual Basic]
-Dim pdfSign as PdfFileSignature = new PdfFileSignature
-pdfSign.BindPdf(inFile)
-pdfSign.RemoveSignatures()
-pdfSign.Save(TestPath + "signed_removed.pdf")
+ string inFile = TestPath + "example1.pdf";
+ var pdfSign = new PdfFileSignature();
+ pdfSign.BindPdf(inFile); 
+ pdfSign.RemoveSignatures();
+ pdfSign.Save(TestPath + "signed_removed.pdf");
+ [Visual Basic]
+ Dim pdfSign as PdfFileSignature = new PdfFileSignature
+ pdfSign.BindPdf(inFile)
+ pdfSign.RemoveSignatures()
+ pdfSign.Save(TestPath + "signed_removed.pdf")
 ```
 
 ### See Also
 
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

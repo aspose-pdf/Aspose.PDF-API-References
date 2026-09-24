@@ -1,10 +1,13 @@
 ---
-title: TextStamp.WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp property. Gets or sets the word wrap mode for text rendering
+title: "TextStamp.WordWrapMode"
+linktitle: "WordWrapMode"
+articleTitle: "WordWrapMode"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the word wrap mode for text rendering."
 type: docs
-weight: 170
-url: /net/aspose.pdf/textstamp/wordwrapmode/
+weight: 90
+url: "/net/aspose.pdf/textstamp/wordwrapmode/"
+product_version: "26.9.0"
 ---
 ## TextStamp.WordWrapMode property
 
@@ -14,11 +17,14 @@ Gets or sets the word wrap mode for text rendering.
 public WordWrapMode WordWrapMode { get; set; }
 ```
 
+### Property Value
+
+[WordWrapMode](../../../aspose.pdf.facades/wordwrapmode/)
+
 ### See Also
 
-* enum [WordWrapMode](../../../aspose.pdf.text/textformattingoptions.wordwrapmode/)
-* class [TextStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [WordWrapMode](../../../aspose.pdf.facades/wordwrapmode/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

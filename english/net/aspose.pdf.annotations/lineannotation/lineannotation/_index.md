@@ -1,12 +1,15 @@
 ---
-title: LineAnnotation.LineAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation constructor. Constructor for using with Generator
+title: "LineAnnotation.LineAnnotation"
+linktitle: "LineAnnotation"
+articleTitle: "LineAnnotation"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the LineAnnotation class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/lineannotation/lineannotation/
+url: "/net/aspose.pdf.annotations/lineannotation/lineannotation/"
+product_version: "26.9.0"
 ---
-## LineAnnotation(Document, Point, Point) {#constructor}
+## LineAnnotation([Document](../../../aspose.pdf/document/), [Point](../../../aspose.pdf/point/), [Point](../../../aspose.pdf/point/)) {#constructor}
 
 Constructor for using with Generator.
 
@@ -22,15 +25,13 @@ public LineAnnotation(Document document, Point start, Point end)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [Point](../../../aspose.pdf/point/)
-* class [LineAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## LineAnnotation(Page, Rectangle, Point, Point) {#constructor_1}
+## LineAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), [Point](../../../aspose.pdf/point/), [Point](../../../aspose.pdf/point/)) {#constructor_1}
 
 Creates new Line annotation on the specified page.
 
@@ -47,11 +48,7 @@ public LineAnnotation(Page page, Rectangle rect, Point start, Point end)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [Point](../../../aspose.pdf/point/)
-* class [LineAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

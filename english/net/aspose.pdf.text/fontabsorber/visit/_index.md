@@ -1,40 +1,42 @@
 ---
-title: FontAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: FontAbsorber method. Performs search in the specified range of pages of the document
+title: "FontAbsorber.Visit"
+linktitle: "Visit"
+articleTitle: "Visit"
+second_title: "Aspose.PDF for .NET"
+description: "Performs search in the specified range of pages of the document."
 type: docs
-weight: 30
-url: /net/aspose.pdf.text/fontabsorber/visit/
+weight: 20
+url: "/net/aspose.pdf.text/fontabsorber/visit/"
+product_version: "26.9.0"
 ---
-## Visit(Document, int, int) {#visit_1}
+## Visit([Document](../../../aspose.pdf/document/), int, int) {#visit}
 
 Performs search in the specified range of pages of the document.
 
 ```csharp
-public virtual void Visit(Document pdf, int startPage, int pageCount)
+public void Visit(Document pdf, int startPage, int pageCount)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pdf | Document | Pdf pocument object. |
-| startPage | Int32 | Pdf pocument start page. |
-| pageCount | Int32 | Pdf document page count |
+| startPage | int | Pdf pocument start page. |
+| pageCount | int | Pdf document page count |
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [FontAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(Document) {#visit}
+## Visit([Document](../../../aspose.pdf/document/)) {#visit_1}
 
 Performs search on the specified document.
 
 ```csharp
-public virtual void Visit(Document pdf)
+public void Visit(Document pdf)
 ```
 
 | Parameter | Type | Description |
@@ -43,9 +45,7 @@ public virtual void Visit(Document pdf)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [FontAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

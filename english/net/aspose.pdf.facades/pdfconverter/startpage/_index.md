@@ -1,10 +1,13 @@
 ---
-title: PdfConverter.StartPage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter property. Gets or sets start position which you want to convert. The minimal value is 1
+title: "PdfConverter.StartPage"
+linktitle: "StartPage"
+articleTitle: "StartPage"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets start position which you want to convert. The minimal value is 1."
 type: docs
-weight: 90
-url: /net/aspose.pdf.facades/pdfconverter/startpage/
+weight: 600
+url: "/net/aspose.pdf.facades/pdfconverter/startpage/"
+product_version: "26.9.0"
 ---
 ## PdfConverter.StartPage property
 
@@ -14,10 +17,13 @@ Gets or sets start position which you want to convert. The minimal value is 1.
 public int StartPage { get; set; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

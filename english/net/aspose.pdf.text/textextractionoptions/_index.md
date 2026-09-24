@@ -1,10 +1,14 @@
 ---
-title: Class TextExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextExtractionOptions class. Represents text extraction options
+title: "TextExtractionOptions Class"
+linktitle: "TextExtractionOptions"
+articleTitle: "TextExtractionOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Represents text extraction options"
 type: docs
-weight: 11290
-url: /net/aspose.pdf.text/textextractionoptions/
+weight: 500
+url: "/net/aspose.pdf.text/textextractionoptions/"
+keywords: "TextExtractionOptions, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## TextExtractionOptions class
 
@@ -18,19 +22,18 @@ public sealed class TextExtractionOptions : TextOptions
 
 | Name | Description |
 | --- | --- |
-| [TextExtractionOptions](textextractionoptions/)(TextFormattingMode) | Initializes new instance of the `TextExtractionOptions` object for the specified text formatting mode. |
+| [TextExtractionOptions](./textextractionoptions/#constructor)(*TextFormattingMode*) | Initializes a new instance of the TextExtractionOptions class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FormattingMode](../../aspose.pdf.text/textextractionoptions/formattingmode/) { get; set; } | Gets formatting mode. |
-| [ScaleFactor](../../aspose.pdf.text/textextractionoptions/scalefactor/) { get; set; } | Gets or sets factor that will be applied to scale font size during extraction in pure mode. Setting of less value leads to more spaces in the extracted text. Default value is 1 - no scaling; Setting value to zero allows algorithm choose scaling automatically. |
+| [FormattingMode](./formattingmode/) { get; set; } | Gets formatting mode. |
+| [ScaleFactor](./scalefactor/) { get; set; } | Gets or sets factor that will be applied to scale font size during extraction in pure mode. |
 
 ### See Also
 
-* class [TextOptions](../textoptions/)
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* class [TextOptions](../textoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

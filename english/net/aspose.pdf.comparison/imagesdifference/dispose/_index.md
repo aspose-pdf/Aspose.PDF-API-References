@@ -1,12 +1,15 @@
 ---
-title: ImagesDifference.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: ImagesDifference method. Performs any necessary clean up operations before the object is destroyed
+title: "ImagesDifference.Dispose"
+linktitle: "Dispose"
+articleTitle: "Dispose"
+second_title: "Aspose.PDF for .NET"
+description: "Performs any necessary clean up operations before the object is destroyed."
 type: docs
-weight: 60
-url: /net/aspose.pdf.comparison/imagesdifference/dispose/
+weight: 30
+url: "/net/aspose.pdf.comparison/imagesdifference/dispose/"
+product_version: "26.9.0"
 ---
-## ImagesDifference.Dispose method
+## Dispose() {#dispose}
 
 Performs any necessary clean up operations before the object is destroyed.
 
@@ -16,8 +19,7 @@ public void Dispose()
 
 ### See Also
 
-* class [ImagesDifference](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImagesDifference](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

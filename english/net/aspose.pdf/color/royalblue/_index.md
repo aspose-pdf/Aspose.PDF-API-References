@@ -1,27 +1,30 @@
 ---
-title: Color.RoyalBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FF4169E1
+title: "Color.RoyalBlue"
+linktitle: "RoyalBlue"
+articleTitle: "RoyalBlue"
+second_title: "Aspose.PDF for .NET"
+description: "Gets a system-defined color that has an ARGB value of \\c \\#FF4169E1."
 type: docs
-weight: 1170
-url: /net/aspose.pdf/color/royalblue/
+weight: 1340
+url: "/net/aspose.pdf/color/royalblue/"
+product_version: "26.9.0"
 ---
 ## Color.RoyalBlue property
 
 Gets a system-defined color that has an ARGB value of \c \#FF4169E1.
 
 ```csharp
-public static Color RoyalBlue { get; }
+public Color RoyalBlue { get; }
 ```
 
-### Return Value
+### Property Value
 
-A representing a system-defined color.
+[Color](../../../aspose.pdf/color/)
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

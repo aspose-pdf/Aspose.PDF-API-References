@@ -1,12 +1,15 @@
 ---
-title: PdfPageEditor.GetPageSize
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor method. Returns the page size of the specified page
+title: "PdfPageEditor.GetPageSize"
+linktitle: "GetPageSize"
+articleTitle: "GetPageSize"
+second_title: "Aspose.PDF for .NET"
+description: "Returns the page size of the specified page."
 type: docs
-weight: 160
-url: /net/aspose.pdf.facades/pdfpageeditor/getpagesize/
+weight: 50
+url: "/net/aspose.pdf.facades/pdfpageeditor/getpagesize/"
+product_version: "26.9.0"
 ---
-## PdfPageEditor.GetPageSize method
+## GetPageSize(int) {#getpagesize}
 
 Returns the page size of the specified page.
 
@@ -16,28 +19,18 @@ public PageSize GetPageSize(int page)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | Int32 | Page index. Document pages are numbered from 1. |
+| page | int | Page index. Document pages are numbered from 1. |
 
 ### Return Value
 
+[PageSize](../../../aspose.pdf/pagesize/)
+
 Result is instance of PageSize. Use Width and Height properties of the returned object to get page width and height.
-
-## Examples
-
-The following example demonstrates using of GetPageSize method:
-
-```csharp
-PdfPageEditor editor = new PdfPageEditor();
-editor.BindPdf("sample.pdf");
-PageSize size = editor.GetPageSize(1);
-Console.WriteLine("Size of 1st page : " + size.Width + " x " + size.Height);
-```
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfPageEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

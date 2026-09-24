@@ -1,12 +1,15 @@
 ---
-title: PdfExtractor.GetAttachNames
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor method. Returns list of attachments in PDF file. Note ExtractAttachments must be called before using this method
+title: "PdfExtractor.GetAttachNames"
+linktitle: "GetAttachNames"
+articleTitle: "GetAttachNames"
+second_title: "Aspose.PDF for .NET"
+description: "Returns list of attachments in PDF file. Note: ExtractAttachments must be called before using this method."
 type: docs
-weight: 160
-url: /net/aspose.pdf.facades/pdfextractor/getattachnames/
+weight: 150
+url: "/net/aspose.pdf.facades/pdfextractor/getattachnames/"
+product_version: "26.9.0"
 ---
-## PdfExtractor.GetAttachNames method
+## GetAttachNames() {#getattachnames}
 
 Returns list of attachments in PDF file. Note: ExtractAttachments must be called before using this method.
 
@@ -16,25 +19,13 @@ public IList<string> GetAttachNames()
 
 ### Return Value
 
+[IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)<string>
+
 List of attachments
-
-## Examples
-
-Example demonstrates how to extract attachment names form PDF file.
-
-```csharp
-PdfExtractor extractor = new PdfExtractor();
-extractor.BindPdf(TestSettings.GetInputFile("sample.pdf"));
-extractor.ExtractAttachment();
-IList attachments = extractor.GetAttachNames();
-foreach (string name in attachments)
-	Console.WriteLine(name);
-```
 
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

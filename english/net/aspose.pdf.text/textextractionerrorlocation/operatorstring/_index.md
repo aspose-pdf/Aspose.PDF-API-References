@@ -1,10 +1,13 @@
 ---
-title: TextExtractionErrorLocation.OperatorString
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionErrorLocation property. Text showing operator that causes text extraction error
+title: "TextExtractionErrorLocation.OperatorString"
+linktitle: "OperatorString"
+articleTitle: "OperatorString"
+second_title: "Aspose.PDF for .NET"
+description: "Text showing operator that causes text extraction error."
 type: docs
-weight: 50
-url: /net/aspose.pdf.text/textextractionerrorlocation/operatorstring/
+weight: 70
+url: "/net/aspose.pdf.text/textextractionerrorlocation/operatorstring/"
+product_version: "26.9.0"
 ---
 ## TextExtractionErrorLocation.OperatorString property
 
@@ -14,10 +17,13 @@ Text showing operator that causes text extraction error.
 public string OperatorString { get; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [TextExtractionErrorLocation](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

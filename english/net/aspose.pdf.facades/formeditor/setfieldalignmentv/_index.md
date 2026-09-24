@@ -1,12 +1,15 @@
 ---
-title: FormEditor.SetFieldAlignmentV
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Set the vertical alignment style of a text field
+title: "FormEditor.SetFieldAlignmentV"
+linktitle: "SetFieldAlignmentV"
+articleTitle: "SetFieldAlignmentV"
+second_title: "Aspose.PDF for .NET"
+description: "Set the vertical alignment style of a text field."
 type: docs
-weight: 270
-url: /net/aspose.pdf.facades/formeditor/setfieldalignmentv/
+weight: 390
+url: "/net/aspose.pdf.facades/formeditor/setfieldalignmentv/"
+product_version: "26.9.0"
 ---
-## FormEditor.SetFieldAlignmentV method
+## SetFieldAlignmentV(string, int) {#setfieldalignmentv}
 
 Set the vertical alignment style of a text field.
 
@@ -16,24 +19,19 @@ public bool SetFieldAlignmentV(string fieldName, int alignment)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | String | The qualified field name. |
-| alignment | Int32 | The alignment style definition, including FormFieldFacade.AlignTop, FormFieldFacade.AlignMiddle and FormFieldFacade.AlignRight. |
+| fieldName | string | The qualified field name. |
+| alignment | int | The alignment style definition, including FormFieldFacade.AlignTop,
+ FormFieldFacade.AlignMiddle and FormFieldFacade.AlignRight. |
 
 ### Return Value
 
+bool
+
 true if field was found and alignment was successfully filled.
-
-## Examples
-
-```csharp
-FormEditor fe = new FormEditor("PdfStaticForm.pdf", "VerticalAlign.pdf");
-fe.SetFieldAlignmentV("form1[0].TextField[0]", FormFieldFacade.AlignBottom);
-```
 
 ### See Also
 
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

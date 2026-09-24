@@ -1,10 +1,13 @@
 ---
-title: Page.NoteLineStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Page property. Gets or sets the line style for notes.for generator only not filled in when reading document
+title: "Page.NoteLineStyle"
+linktitle: "NoteLineStyle"
+articleTitle: "NoteLineStyle"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the line style for notes.(for generator only, not filled in when reading document)"
 type: docs
-weight: 190
-url: /net/aspose.pdf/page/notelinestyle/
+weight: 450
+url: "/net/aspose.pdf/page/notelinestyle/"
+product_version: "26.9.0"
 ---
 ## Page.NoteLineStyle property
 
@@ -16,13 +19,12 @@ public GraphInfo NoteLineStyle { get; set; }
 
 ### Property Value
 
-The note style.
+[GraphInfo](../../../aspose.pdf/graphinfo/)
 
 ### See Also
 
-* class [GraphInfo](../../graphinfo/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [GraphInfo](../../../aspose.pdf/graphinfo/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

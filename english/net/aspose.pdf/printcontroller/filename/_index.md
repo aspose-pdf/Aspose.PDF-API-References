@@ -1,10 +1,13 @@
 ---
-title: PrintController.FileName
-second_title: Aspose.PDF for .NET API Reference
-description: PrintController property. Gets or sets file name
+title: "PrintController.FileName"
+linktitle: "FileName"
+articleTitle: "FileName"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets file name."
 type: docs
-weight: 20
-url: /net/aspose.pdf/printcontroller/filename/
+weight: 70
+url: "/net/aspose.pdf/printcontroller/filename/"
+product_version: "26.9.0"
 ---
 ## PrintController.FileName property
 
@@ -14,10 +17,13 @@ Gets or sets file name.
 public string FileName { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [PrintController](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

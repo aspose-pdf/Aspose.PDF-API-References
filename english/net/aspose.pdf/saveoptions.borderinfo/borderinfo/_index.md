@@ -1,44 +1,45 @@
 ---
-title: SaveOptions.BorderInfo.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo constructor. Creates instance of BorderInfo class
+title: "SaveOptions.BorderInfo.SaveOptions.BorderInfo"
+linktitle: "SaveOptions.BorderInfo"
+articleTitle: "SaveOptions.BorderInfo"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the SaveOptions.BorderInfo class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/saveoptions.borderinfo/borderinfo/
+url: "/net/aspose.pdf/saveoptions.borderinfo/borderinfo/"
+product_version: "26.9.0"
 ---
-## BorderInfo() {#constructor}
+## SaveOptions.BorderInfo() {#constructor}
 
 Creates instance of BorderInfo class
 
 ```csharp
-public BorderInfo()
+public SaveOptions.BorderInfo()
 ```
 
 ### See Also
 
-* class [BorderInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [SaveOptions.BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BorderInfo(BorderPartStyle) {#constructor_1}
+## SaveOptions.BorderInfo(BorderPartStyle) {#constructor_1}
 
-Creates instance of BorderInfo class and initializes all elements of border(Top, Left, Right, Bottom) with attributes copied from supplied border style
+Initializes a new instance of the SaveOptions.BorderInfo class.
 
 ```csharp
-public BorderInfo(BorderPartStyle commonStyle)
+public SaveOptions.BorderInfo(BorderPartStyle commonStyle)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| commonStyle | BorderPartStyle | style of border parts that will be used for all elements of border(left, right, top, bottom) |
+| commonStyle | BorderPartStyle |  |
 
 ### See Also
 
-* class [BorderPartStyle](../../saveoptions.borderpartstyle/)
-* class [BorderInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SaveOptions.BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

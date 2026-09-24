@@ -1,17 +1,20 @@
 ---
-title: WatermarkAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: WatermarkAnnotation method. Overrides the definition in the base class with an empty body
+title: "WatermarkAnnotation.ChangeAfterResize"
+linktitle: "ChangeAfterResize"
+articleTitle: "ChangeAfterResize"
+second_title: "Aspose.PDF for .NET"
+description: "Overrides the definition in the base class with an empty body."
 type: docs
-weight: 60
-url: /net/aspose.pdf.annotations/watermarkannotation/changeafterresize/
+weight: 50
+url: "/net/aspose.pdf.annotations/watermarkannotation/changeafterresize/"
+product_version: "26.9.0"
 ---
-## WatermarkAnnotation.ChangeAfterResize method
+## ChangeAfterResize([Matrix](../../../aspose.pdf/matrix/)) {#changeafterresize}
 
 Overrides the definition in the base class with an empty body.
 
 ```csharp
-public override void ChangeAfterResize(Matrix transform)
+public void ChangeAfterResize(Matrix transform)
 ```
 
 | Parameter | Type | Description |
@@ -20,9 +23,7 @@ public override void ChangeAfterResize(Matrix transform)
 
 ### See Also
 
-* class [Matrix](../../../aspose.pdf/matrix/)
-* class [WatermarkAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [WatermarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

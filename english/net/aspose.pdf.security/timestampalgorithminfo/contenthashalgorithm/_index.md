@@ -1,14 +1,17 @@
 ---
-title: TimestampAlgorithmInfo.ContentHashAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: TimestampAlgorithmInfo field. Gets the hash algorithm that hashed the content of the document and then signed it using DigestHashAlgorithm
+title: "TimestampAlgorithmInfo.ContentHashAlgorithm"
+linktitle: "ContentHashAlgorithm"
+articleTitle: "ContentHashAlgorithm"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the hash algorithm that hashed the content of the document and then signed it using ."
 type: docs
-weight: 10
-url: /net/aspose.pdf.security/timestampalgorithminfo/contenthashalgorithm/
+weight: 20
+url: "/net/aspose.pdf.security/timestampalgorithminfo/contenthashalgorithm/"
+product_version: "26.9.0"
 ---
 ## TimestampAlgorithmInfo.ContentHashAlgorithm field
 
-Gets the hash algorithm that hashed the content of the document and then signed it using [`DigestHashAlgorithm`](../../signaturealgorithminfo/digesthashalgorithm/).
+Gets the hash algorithm that hashed the content of the document and then signed it using `DigestHashAlgorithm`.
 
 ```csharp
 public readonly DigestHashAlgorithm ContentHashAlgorithm;
@@ -16,9 +19,8 @@ public readonly DigestHashAlgorithm ContentHashAlgorithm;
 
 ### See Also
 
-* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* class [TimestampAlgorithmInfo](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* class [TimestampAlgorithmInfo](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 

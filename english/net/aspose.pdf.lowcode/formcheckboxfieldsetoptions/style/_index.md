@@ -1,24 +1,29 @@
 ---
-title: FormCheckBoxFieldSetOptions.Style
-second_title: Aspose.PDF for .NET API Reference
-description: FormCheckBoxFieldSetOptions property. Gets/sets the value to determine property BoxStyle for modified field if will be set
+title: "FormCheckBoxFieldSetOptions.Style"
+linktitle: "Style"
+articleTitle: "Style"
+second_title: "Aspose.PDF for .NET"
+description: "Gets/sets the value to determine property BoxStyle for modified field (if will be set)."
 type: docs
 weight: 30
-url: /net/aspose.pdf.lowcode/formcheckboxfieldsetoptions/style/
+url: "/net/aspose.pdf.lowcode/formcheckboxfieldsetoptions/style/"
+product_version: "26.9.0"
 ---
 ## FormCheckBoxFieldSetOptions.Style property
 
 Gets/sets the value to determine property BoxStyle for modified field (if will be set).
 
 ```csharp
-public BoxStyle? Style { get; set; }
+public Nullable<BoxStyle> Style { get; set; }
 ```
+
+### Property Value
+
+Nullable<[BoxStyle](../../../aspose.pdf.forms/boxstyle/)>
 
 ### See Also
 
-* enum [BoxStyle](../../../aspose.pdf.forms/boxstyle/)
-* class [FormCheckBoxFieldSetOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormCheckBoxFieldSetOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

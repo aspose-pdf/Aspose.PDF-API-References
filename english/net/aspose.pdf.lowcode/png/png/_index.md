@@ -1,14 +1,17 @@
 ---
-title: Png.Png
-second_title: Aspose.PDF for .NET API Reference
-description: Png constructor. The default constructor
+title: "Png.Png"
+linktitle: "Png"
+articleTitle: "Png"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the Png class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/png/png/
+url: "/net/aspose.pdf.lowcode/png/png/"
+product_version: "26.9.0"
 ---
-## Png constructor
+## Png() {#constructor}
 
-The default constructor.
+Initializes a new instance of the Png class.
 
 ```csharp
 public Png()
@@ -16,8 +19,7 @@ public Png()
 
 ### See Also
 
-* class [Png](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Png](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

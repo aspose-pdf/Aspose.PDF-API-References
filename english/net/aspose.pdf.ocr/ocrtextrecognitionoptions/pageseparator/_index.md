@@ -1,10 +1,13 @@
 ---
-title: OcrTextRecognitionOptions.PageSeparator
-second_title: Aspose.PDF for .NET API Reference
-description: OcrTextRecognitionOptions property. Gets or sets the string inserted between recognized texts of consecutive pages. Defaults to nn
+title: "OcrTextRecognitionOptions.PageSeparator"
+linktitle: "PageSeparator"
+articleTitle: "PageSeparator"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the string inserted between recognized texts of consecutive pages. Defaults to `\"\\n\\n\"`."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ocr/ocrtextrecognitionoptions/pageseparator/
+weight: 40
+url: "/net/aspose.pdf.ocr/ocrtextrecognitionoptions/pageseparator/"
+product_version: "26.9.0"
 ---
 ## OcrTextRecognitionOptions.PageSeparator property
 
@@ -14,16 +17,13 @@ Gets or sets the string inserted between recognized texts of consecutive pages. 
 public string PageSeparator { get; set; }
 ```
 
-### Exceptions
+### Property Value
 
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | Thrown when the assigned value is `null`. |
+string
 
 ### See Also
 
-* class [OcrTextRecognitionOptions](../)
-* namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OcrTextRecognitionOptions](../)
+* namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
+* assembly [Aspose.PDF](../../../)
 

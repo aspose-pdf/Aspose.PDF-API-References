@@ -1,10 +1,13 @@
 ---
-title: Page.Layers
-second_title: Aspose.PDF for .NET API Reference
-description: Page property. Gets or sets layers collection
+title: "Page.Layers"
+linktitle: "Layers"
+articleTitle: "Layers"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets layers collection."
 type: docs
-weight: 170
-url: /net/aspose.pdf/page/layers/
+weight: 390
+url: "/net/aspose.pdf/page/layers/"
+product_version: "26.9.0"
 ---
 ## Page.Layers property
 
@@ -16,13 +19,11 @@ public List<Layer> Layers { get; set; }
 
 ### Property Value
 
-The layers collection.
+[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[Layer](../../../aspose.pdf/layer/)>
 
 ### See Also
 
-* class [Layer](../../layer/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Graph.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Graph property. Gets or sets the table top coordinate
+title: "Graph.Top"
+linktitle: "Top"
+articleTitle: "Top"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the table top coordinate."
 type: docs
-weight: 90
-url: /net/aspose.pdf.drawing/graph/top/
+weight: 80
+url: "/net/aspose.pdf.drawing/graph/top/"
+product_version: "26.9.0"
 ---
 ## Graph.Top property
 
@@ -14,10 +17,13 @@ Gets or sets the table top coordinate.
 public double Top { get; set; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [Graph](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 

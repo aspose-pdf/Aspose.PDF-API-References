@@ -1,24 +1,32 @@
 ---
-title: AssistantResponse.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantResponse property. Gets or sets a set of resources that are used by the assistants tools. The resources are specific to the type of tool. For example the code_interpreter tool requires a list of file IDs while the file_search tool requires a list of vector store IDs
+title: "AssistantResponse.ToolResources"
+linktitle: "ToolResources"
+articleTitle: "ToolResources"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets a set of resources that are used by the assistant's tools. The resources are specific to the type of tool. For example, the code_interpreter too..."
 type: docs
-weight: 120
-url: /net/aspose.pdf.ai/assistantresponse/toolresources/
+weight: 100
+url: "/net/aspose.pdf.ai/assistantresponse/toolresources/"
+product_version: "26.9.0"
 ---
 ## AssistantResponse.ToolResources property
 
-Gets or sets a set of resources that are used by the assistant's tools. The resources are specific to the type of tool. For example, the code_interpreter tool requires a list of file IDs, while the file_search tool requires a list of vector store IDs.
+Gets or sets a set of resources that are used by the assistant's tools. The resources are specific to
+ the type of tool. For example, the code_interpreter tool requires a list of file IDs,
+ while the file_search tool requires a list of vector store IDs.
 
 ```csharp
 public ToolResources ToolResources { get; set; }
 ```
 
+### Property Value
+
+[ToolResources](../../../aspose.pdf.ai/toolresources/)
+
 ### See Also
 
-* class [ToolResources](../../toolresources/)
-* class [AssistantResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ToolResources](../../../aspose.pdf.ai/toolresources/)
+* class [AssistantResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

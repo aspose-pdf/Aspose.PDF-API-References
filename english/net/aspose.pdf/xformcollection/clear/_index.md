@@ -1,12 +1,15 @@
 ---
-title: XFormCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection method. Clears all items from the collection
+title: "XFormCollection.Clear"
+linktitle: "Clear"
+articleTitle: "Clear"
+second_title: "Aspose.PDF for .NET"
+description: "Clears all items from the collection."
 type: docs
-weight: 70
-url: /net/aspose.pdf/xformcollection/clear/
+weight: 80
+url: "/net/aspose.pdf/xformcollection/clear/"
+product_version: "26.9.0"
 ---
-## XFormCollection.Clear method
+## Clear() {#clear}
 
 Clears all items from the collection.
 
@@ -16,8 +19,7 @@ public void Clear()
 
 ### See Also
 
-* class [XFormCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

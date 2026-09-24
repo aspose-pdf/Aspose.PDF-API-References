@@ -1,14 +1,17 @@
 ---
-title: Center.Center
-second_title: Aspose.PDF for .NET API Reference
-description: Center constructor. The default constructor
+title: "Center.Center"
+linktitle: "Center"
+articleTitle: "Center"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the Center class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/center/center/
+url: "/net/aspose.pdf/center/center/"
+product_version: "26.9.0"
 ---
-## Center constructor
+## Center() {#constructor}
 
-The default constructor.
+Initializes a new instance of the Center class.
 
 ```csharp
 public Center()
@@ -16,8 +19,7 @@ public Center()
 
 ### See Also
 
-* class [Center](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Center](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

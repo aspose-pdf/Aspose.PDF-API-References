@@ -1,12 +1,15 @@
 ---
-title: CharInfoCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: CharInfoCollection method. Collection is readonly throws NotImplementedException
+title: "CharInfoCollection.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: "Collection is read-only, throws NotImplementedException."
 type: docs
-weight: 60
-url: /net/aspose.pdf.text/charinfocollection/add/
+weight: 30
+url: "/net/aspose.pdf.text/charinfocollection/add/"
+product_version: "26.9.0"
 ---
-## CharInfoCollection.Add method
+## Add([CharInfo](../../../aspose.pdf.text/charinfo/)) {#add}
 
 Collection is read-only, throws NotImplementedException.
 
@@ -18,11 +21,15 @@ public void Add(CharInfo item)
 | --- | --- | --- |
 | item | CharInfo | Item to add. |
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| NotImplementedException | NotImplementedException |
+
 ### See Also
 
-* class [CharInfo](../../charinfo/)
-* class [CharInfoCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

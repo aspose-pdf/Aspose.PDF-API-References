@@ -1,36 +1,36 @@
 ---
-title: ILlamaClient.CreateCompletionAsync
-second_title: Aspose.PDF for .NET API Reference
-description: ILlamaClient method. Creates a chat completion request in the Llama service
+title: "ILlamaClient.CreateCompletionAsync"
+linktitle: "CreateCompletionAsync"
+articleTitle: "CreateCompletionAsync"
+second_title: "Aspose.PDF for .NET"
+description: "Creates a chat completion request in the Llama service."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/illamaclient/createcompletionasync/
+url: "/net/aspose.pdf.ai/illamaclient/createcompletionasync/"
+product_version: "26.9.0"
 ---
-## ILlamaClient.CreateCompletionAsync method
+## CreateCompletionAsync([LlamaChatCompletionRequest](../../../aspose.pdf.ai/llamachatcompletionrequest/), Nullable<CancellationToken>) {#createcompletionasync}
 
 Creates a chat completion request in the Llama service.
 
 ```csharp
-public Task<LlamaChatCompletionResponse> CreateCompletionAsync(
-    LlamaChatCompletionRequest chatCompletionRequest, 
-    CancellationToken? cancellationToken = default)
+public Task<LlamaChatCompletionResponse> CreateCompletionAsync(LlamaChatCompletionRequest chatCompletionRequest, Nullable<CancellationToken> cancellationToken)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | chatCompletionRequest | LlamaChatCompletionRequest | The chat completion request. |
-| cancellationToken | Nullable`1 | The cancellation token. |
+| cancellationToken | Nullable<CancellationToken> | The cancellation token. |
 
 ### Return Value
+
+[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[LlamaChatCompletionResponse](../../../aspose.pdf.ai/llamachatcompletionresponse/)>
 
 The chat completion response.
 
 ### See Also
 
-* class [LlamaChatCompletionResponse](../../llamachatcompletionresponse/)
-* class [LlamaChatCompletionRequest](../../llamachatcompletionrequest/)
-* interface [ILlamaClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [ILlamaClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

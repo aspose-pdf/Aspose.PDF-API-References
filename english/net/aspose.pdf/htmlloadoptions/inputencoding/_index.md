@@ -1,10 +1,13 @@
 ---
-title: HtmlLoadOptions.InputEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlLoadOptions property. Gets or sets the attribute specifying the encoding used for this document at the time of the parsing. If this attribute is null the encoding will determine from document character set atribute
+title: "HtmlLoadOptions.InputEncoding"
+linktitle: "InputEncoding"
+articleTitle: "InputEncoding"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the attribute specifying the encoding used for this document at the time of the parsing. If this attribute is null the encoding will determine f..."
 type: docs
-weight: 50
-url: /net/aspose.pdf/htmlloadoptions/inputencoding/
+weight: 70
+url: "/net/aspose.pdf/htmlloadoptions/inputencoding/"
+product_version: "26.9.0"
 ---
 ## HtmlLoadOptions.InputEncoding property
 
@@ -14,10 +17,13 @@ Gets or sets the attribute specifying the encoding used for this document at the
 public string InputEncoding { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [HtmlLoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HtmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum FieldType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FieldType enum. Enumeration of possible field types
+title: "FieldType Enum"
+linktitle: "FieldType"
+articleTitle: "FieldType"
+second_title: "Aspose.PDF for .NET"
+description: "Enumeration of possible field types."
 type: docs
-weight: 4420
-url: /net/aspose.pdf.facades/fieldtype/
+weight: 150
+url: "/net/aspose.pdf.facades/fieldtype/"
+product_version: "26.9.0"
 ---
 ## FieldType enumeration
 
@@ -14,10 +17,10 @@ Enumeration of possible field types.
 public enum FieldType
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Text | `0` | Text field. |
 | ComboBox | `1` | Combo box field. |
 | ListBox | `2` | List box field. |
@@ -34,7 +37,6 @@ public enum FieldType
 
 ### See Also
 
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

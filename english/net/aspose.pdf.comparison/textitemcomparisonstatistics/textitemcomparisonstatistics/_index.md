@@ -1,14 +1,17 @@
 ---
-title: TextItemComparisonStatistics.TextItemComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: TextItemComparisonStatistics constructor. The default constructor
+title: "TextItemComparisonStatistics.TextItemComparisonStatistics"
+linktitle: "TextItemComparisonStatistics"
+articleTitle: "TextItemComparisonStatistics"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the TextItemComparisonStatistics class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.comparison/textitemcomparisonstatistics/textitemcomparisonstatistics/
+url: "/net/aspose.pdf.comparison/textitemcomparisonstatistics/textitemcomparisonstatistics/"
+product_version: "26.9.0"
 ---
-## TextItemComparisonStatistics constructor
+## TextItemComparisonStatistics() {#constructor}
 
-The default constructor.
+Initializes a new instance of the TextItemComparisonStatistics class.
 
 ```csharp
 public TextItemComparisonStatistics()
@@ -16,8 +19,7 @@ public TextItemComparisonStatistics()
 
 ### See Also
 
-* class [TextItemComparisonStatistics](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextItemComparisonStatistics](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

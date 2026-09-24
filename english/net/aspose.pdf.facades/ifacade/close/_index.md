@@ -1,12 +1,15 @@
 ---
-title: IFacade.Close
-second_title: Aspose.PDF for .NET API Reference
-description: IFacade method. Releases any resources associates with the current facade
+title: "IFacade.Close"
+linktitle: "Close"
+articleTitle: "Close"
+second_title: "Aspose.PDF for .NET"
+description: "Releases any resources associates with the current facade."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/ifacade/close/
+weight: 40
+url: "/net/aspose.pdf.facades/ifacade/close/"
+product_version: "26.9.0"
 ---
-## IFacade.Close method
+## Close() {#close}
 
 Releases any resources associates with the current facade.
 
@@ -16,8 +19,7 @@ public void Close()
 
 ### See Also
 
-* interface [IFacade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

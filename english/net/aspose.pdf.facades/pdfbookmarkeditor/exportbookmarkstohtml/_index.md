@@ -1,34 +1,30 @@
 ---
-title: PdfBookmarkEditor.ExportBookmarksToHtml
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor method. Exports bookmarks to HTML file
+title: "PdfBookmarkEditor.ExportBookmarksToHtml"
+linktitle: "ExportBookmarksToHtml"
+articleTitle: "ExportBookmarksToHtml"
+second_title: "Aspose.PDF for .NET"
+description: "Exports bookmarks to HTML file."
 type: docs
-weight: 90
-url: /net/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstohtml/
+weight: 200
+url: "/net/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstohtml/"
+product_version: "26.9.0"
 ---
-## PdfBookmarkEditor.ExportBookmarksToHtml method
+## ExportBookmarksToHtml(string, string) {#exportbookmarkstohtml}
 
 Exports bookmarks to HTML file.
 
 ```csharp
-public static void ExportBookmarksToHtml(string inPdfFile, string outHtmlFile)
+public void ExportBookmarksToHtml(string inPdfFile, string outHtmlFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inPdfFile | String | Input PDF file which bookmarks will be exported. |
-| outHtmlFile | String | Output HTML file |
-
-## Examples
-
-```csharp
-PdfBookmarkEditor.ExtractBookmarksToHTML("example.pdf", "bookmarks.html");
-```
+| inPdfFile | string | Input PDF file which bookmarks will be exported. |
+| outHtmlFile | string | Output HTML file |
 
 ### See Also
 
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

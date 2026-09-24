@@ -1,10 +1,13 @@
 ---
-title: PaperSource.SourceName
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSource property. Gets or sets the name of the paper source
+title: "PaperSource.SourceName"
+linktitle: "SourceName"
+articleTitle: "SourceName"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the name of the paper source."
 type: docs
-weight: 40
-url: /net/aspose.pdf.printing/papersource/sourcename/
+weight: 60
+url: "/net/aspose.pdf.printing/papersource/sourcename/"
+product_version: "26.9.0"
 ---
 ## PaperSource.SourceName property
 
@@ -14,10 +17,13 @@ Gets or sets the name of the paper source.
 public string SourceName { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [PaperSource](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

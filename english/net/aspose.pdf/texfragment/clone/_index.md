@@ -1,27 +1,31 @@
 ---
-title: TeXFragment.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFragment method. Clones fragment
+title: "TeXFragment.Clone"
+linktitle: "Clone"
+articleTitle: "Clone"
+second_title: "Aspose.PDF for .NET"
+description: "Clones fragment."
 type: docs
 weight: 30
-url: /net/aspose.pdf/texfragment/clone/
+url: "/net/aspose.pdf/texfragment/clone/"
+product_version: "26.9.0"
 ---
-## TeXFragment.Clone method
+## Clone() {#clone}
 
 Clones fragment.
 
 ```csharp
-public override object Clone()
+public object Clone()
 ```
 
 ### Return Value
+
+object
 
 Cloned fragment.
 
 ### See Also
 
-* class [TeXFragment](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TeXFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

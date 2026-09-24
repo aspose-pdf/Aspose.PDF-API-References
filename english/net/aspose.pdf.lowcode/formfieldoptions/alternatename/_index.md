@@ -1,10 +1,13 @@
 ---
-title: FormFieldOptions.AlternateName
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions property. Gets/sets the value to determine property AlternateName for created/modified field if will be set
+title: "FormFieldOptions.AlternateName"
+linktitle: "AlternateName"
+articleTitle: "AlternateName"
+second_title: "Aspose.PDF for .NET"
+description: "Gets/sets the value to determine property AlternateName for created/modified field (if will be set)."
 type: docs
-weight: 10
-url: /net/aspose.pdf.lowcode/formfieldoptions/alternatename/
+weight: 140
+url: "/net/aspose.pdf.lowcode/formfieldoptions/alternatename/"
+product_version: "26.9.0"
 ---
 ## FormFieldOptions.AlternateName property
 
@@ -14,10 +17,13 @@ Gets/sets the value to determine property AlternateName for created/modified fie
 public string AlternateName { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [FormFieldOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

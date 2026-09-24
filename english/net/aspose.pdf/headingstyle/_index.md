@@ -1,29 +1,33 @@
 ---
-title: Enum HeadingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeadingStyle enum. Defines the available serialization styles for headings. For specification see CommonMark  ATX headings respectively CommonMark  Setext headings
+title: "HeadingStyle Enum"
+linktitle: "HeadingStyle"
+articleTitle: "HeadingStyle"
+second_title: "Aspose.PDF for .NET"
+description: "Defines the available serialization styles for headings. For specification see CommonMark - ATX headings, respectively CommonMark - Setext headings."
 type: docs
-weight: 5630
-url: /net/aspose.pdf/headingstyle/
+weight: 1120
+url: "/net/aspose.pdf/headingstyle/"
+product_version: "26.9.0"
 ---
 ## HeadingStyle enumeration
 
-Defines the available serialization styles for headings. For specification see CommonMark - ATX headings, respectively CommonMark - Setext headings.
+Defines the available serialization styles for headings.
+ For specification see CommonMark - ATX headings,
+ respectively CommonMark - Setext headings.
 
 ```csharp
 public enum HeadingStyle
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Atx | `0` | Prefix headings with '#' |
 | Setext | `1` | Underscore level 1 and 2 headings with "======" respectively "------" |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

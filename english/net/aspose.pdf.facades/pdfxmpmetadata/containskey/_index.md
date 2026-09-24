@@ -1,12 +1,15 @@
 ---
-title: PdfXmpMetadata.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata method. Determines does this dictionary contasins specified key
+title: "PdfXmpMetadata.ContainsKey"
+linktitle: "ContainsKey"
+articleTitle: "ContainsKey"
+second_title: "Aspose.PDF for .NET"
+description: "Determines does this dictionary contasins specified key."
 type: docs
-weight: 140
-url: /net/aspose.pdf.facades/pdfxmpmetadata/containskey/
+weight: 190
+url: "/net/aspose.pdf.facades/pdfxmpmetadata/containskey/"
+product_version: "26.9.0"
 ---
-## PdfXmpMetadata.ContainsKey method
+## ContainsKey(string) {#containskey}
 
 Determines does this dictionary contasins specified key.
 
@@ -16,16 +19,17 @@ public bool ContainsKey(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | Key to search in the dictionary. |
+| key | string | Key to search in the dictionary. |
 
 ### Return Value
+
+bool
 
 true if key is found.
 
 ### See Also
 
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

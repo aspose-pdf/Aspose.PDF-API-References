@@ -1,10 +1,13 @@
 ---
-title: RichMediaAnnotation.Type
-second_title: Aspose.PDF for .NET API Reference
-description: RichMediaAnnotation property. Gets or sets type of content. Possible values Audio Video
+title: "RichMediaAnnotation.Type"
+linktitle: "Type"
+articleTitle: "Type"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets type of content. Possible values: Audio, Video."
 type: docs
-weight: 70
-url: /net/aspose.pdf.annotations/richmediaannotation/type/
+weight: 110
+url: "/net/aspose.pdf.annotations/richmediaannotation/type/"
+product_version: "26.9.0"
 ---
 ## RichMediaAnnotation.Type property
 
@@ -14,11 +17,13 @@ Gets or sets type of content. Possible values: Audio, Video.
 public ContentType Type { get; set; }
 ```
 
+### Property Value
+
+ContentType
+
 ### See Also
 
-* enum [ContentType](../../richmediaannotation.contenttype/)
-* class [RichMediaAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RichMediaAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

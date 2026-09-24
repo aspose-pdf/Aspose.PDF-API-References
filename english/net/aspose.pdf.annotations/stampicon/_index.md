@@ -1,10 +1,13 @@
 ---
-title: Enum StampIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.StampIcon enum. Enumerates the icons to be used in displaying the annotation
+title: "StampIcon Enum"
+linktitle: "StampIcon"
+articleTitle: "StampIcon"
+second_title: "Aspose.PDF for .NET"
+description: "Enumerates the icons to be used in displaying the annotation."
 type: docs
-weight: 2720
-url: /net/aspose.pdf.annotations/stampicon/
+weight: 1250
+url: "/net/aspose.pdf.annotations/stampicon/"
+product_version: "26.9.0"
 ---
 ## StampIcon enumeration
 
@@ -14,10 +17,10 @@ Enumerates the icons to be used in displaying the annotation.
 public enum StampIcon
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Draft | `0` | Draft stamp icon. |
 | Approved | `1` | Approved stamp icon. |
 | Experimental | `2` | Experimental stamp icon. |
@@ -35,7 +38,6 @@ public enum StampIcon
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

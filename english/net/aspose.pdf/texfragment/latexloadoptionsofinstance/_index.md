@@ -1,0 +1,35 @@
+---
+title: "TeXFragment.LatexLoadOptionsOfInstance"
+linktitle: "LatexLoadOptionsOfInstance"
+articleTitle: "LatexLoadOptionsOfInstance"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets TeXLoadOptions that will be used for loading (and rendering) of LaTeX into this instance of class. Please use it when it's necessary use specifi..."
+type: docs
+weight: 50
+url: "/net/aspose.pdf/texfragment/latexloadoptionsofinstance/"
+product_version: "26.9.0"
+---
+## TeXFragment.LatexLoadOptionsOfInstance property
+
+> **Deprecated.** Please us TeXLoadOptionsOfInstance instead.
+
+Gets or sets TeXLoadOptions that will be used for loading (and rendering) of LaTeX into this instance of class.
+ Please use it when it's necessary use specific setting for import of LaTeX for this or that instance
+ (f.e when this or that instance should use specific BasePath for imported LaTeX or should use specific loader of external resources)
+ If parameter is default (null), then standard LaTeX loading options will be used.
+
+```csharp
+public TeXLoadOptions LatexLoadOptionsOfInstance { get; set; }
+```
+
+### Property Value
+
+[TeXLoadOptions](../../../aspose.pdf/texloadoptions/)
+
+### See Also
+
+* class [TeXLoadOptions](../../../aspose.pdf/texloadoptions/)
+* class [TeXFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+

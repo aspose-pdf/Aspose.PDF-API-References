@@ -1,51 +1,59 @@
 ---
-title: LlamaSummaryCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions method. Creates a new instance of LlamaSummaryCopilotOptions
+title: "LlamaSummaryCopilotOptions.Create"
+linktitle: "Create"
+articleTitle: "Create"
+second_title: "Aspose.PDF for .NET"
+description: "Creates a new instance of ."
 type: docs
-weight: 10
-url: /net/aspose.pdf.ai/llamasummarycopilotoptions/create/
+weight: 20
+url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/create/"
+product_version: "26.9.0"
 ---
 ## Create() {#create}
 
-Creates a new instance of [`LlamaSummaryCopilotOptions`](../).
+Creates a new instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
 
 ```csharp
-public static LlamaSummaryCopilotOptions Create()
+public LlamaSummaryCopilotOptions Create()
 ```
 
 ### Return Value
 
-A new instance of [`LlamaSummaryCopilotOptions`](../).
+[LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
+
+A new instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
 
 ### See Also
 
-* class [LlamaSummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Create(Action&lt;LlamaSummaryCopilotOptions&gt;) {#create_1}
+## Create(Action<LlamaSummaryCopilotOptions>) {#create_1}
 
-Creates an instance of [`LlamaSummaryCopilotOptions`](../) and configures it using the provided delegate.
+Creates an instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/) and configures it using the provided delegate.
 
 ```csharp
-public static LlamaSummaryCopilotOptions Create(Action<LlamaSummaryCopilotOptions> config)
+public LlamaSummaryCopilotOptions Create(Action<LlamaSummaryCopilotOptions> config)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| config | Action`1 | The delegate to configure the options. |
+| config | Action<LlamaSummaryCopilotOptions> | The delegate to configure the options. |
 
 ### Return Value
 
-The configured instance of [`LlamaSummaryCopilotOptions`](../).
+[LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
+
+The configured instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
 
 ### See Also
 
-* class [LlamaSummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

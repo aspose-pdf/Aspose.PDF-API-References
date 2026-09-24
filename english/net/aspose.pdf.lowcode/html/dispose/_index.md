@@ -1,12 +1,15 @@
 ---
-title: Html.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Html method. Implementation of IDisposable
+title: "Html.Dispose"
+linktitle: "Dispose"
+articleTitle: "Dispose"
+second_title: "Aspose.PDF for .NET"
+description: "Implementation of IDisposable."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/html/dispose/
+weight: 30
+url: "/net/aspose.pdf.lowcode/html/dispose/"
+product_version: "26.9.0"
 ---
-## Html.Dispose method
+## Dispose() {#dispose}
 
 Implementation of IDisposable.
 
@@ -16,8 +19,7 @@ public void Dispose()
 
 ### See Also
 
-* class [Html](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Html](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class MarkupSection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.MarkupSection class. Represents a markup section  the rectangular region of a page that contains text and can be visually divided from another text blocks
+title: "MarkupSection Class"
+linktitle: "MarkupSection"
+articleTitle: "MarkupSection"
+second_title: "Aspose.PDF for .NET"
+description: "Represents a markup section - the rectangular region of a page that contains text and can be visually divided from another text blocks."
 type: docs
-weight: 11040
-url: /net/aspose.pdf.text/markupsection/
+weight: 250
+url: "/net/aspose.pdf.text/markupsection/"
+keywords: "MarkupSection, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## MarkupSection class
 
@@ -18,13 +22,12 @@ public sealed class MarkupSection
 
 | Name | Description |
 | --- | --- |
-| [Fragments](../../aspose.pdf.text/markupsection/fragments/) { get; } | Collection of not empty [`TextFragment`](../textfragment/) objects that are inside the section. |
-| [Paragraphs](../../aspose.pdf.text/markupsection/paragraphs/) { get; } | Collection of [`MarkupParagraph`](../markupparagraph/) objects that are inside the section. |
-| [Rectangle](../../aspose.pdf.text/markupsection/rectangle/) { get; } | Section rectangle |
+| [Fragments](./fragments/) { get; } | Collection of not empty [`TextFragment`](../../aspose.pdf.text/textfragment/) objects that are inside the section. |
+| [Paragraphs](./paragraphs/) { get; } | Collection of [`MarkupParagraph`](../../aspose.pdf.text/markupparagraph/) objects that are inside the section. |
+| [Rectangle](./rectangle/) { get; } | Section rectangle. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ChunkingOptions.MaximumChunkSize
-second_title: Aspose.PDF for .NET API Reference
-description: ChunkingOptions field. The maximum allowed chunk size
+title: "ChunkingOptions.MaximumChunkSize"
+linktitle: "MaximumChunkSize"
+articleTitle: "MaximumChunkSize"
+second_title: "Aspose.PDF for .NET"
+description: "The maximum allowed chunk size."
 type: docs
-weight: 70
-url: /net/aspose.pdf.ai/chunkingoptions/maximumchunksize/
+weight: 80
+url: "/net/aspose.pdf.ai/chunkingoptions/maximumchunksize/"
+product_version: "26.9.0"
 ---
 ## ChunkingOptions.MaximumChunkSize field
 
@@ -16,8 +19,7 @@ public const int MaximumChunkSize;
 
 ### See Also
 
-* class [ChunkingOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ChunkingOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

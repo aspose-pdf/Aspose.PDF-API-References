@@ -1,17 +1,20 @@
 ---
-title: Color.FromRgb
-second_title: Aspose.PDF for .NET API Reference
-description: Color method. Gets valid pdf Color object from System.Drawing.Color value
+title: "Color.FromRgb"
+linktitle: "FromRgb"
+articleTitle: "FromRgb"
+second_title: "Aspose.PDF for .NET"
+description: "Gets valid pdf Color object from System.Drawing.Color value."
 type: docs
-weight: 1470
-url: /net/aspose.pdf/color/fromrgb/
+weight: 50
+url: "/net/aspose.pdf/color/fromrgb/"
+product_version: "26.9.0"
 ---
-## FromRgb(Color) {#fromrgb_1}
+## FromRgb([Color](../../../aspose.pdf/color/)) {#fromrgb}
 
 Gets valid pdf Color object from System.Drawing.Color value.
 
 ```csharp
-public static Color FromRgb(Color color)
+public Color FromRgb(Color color)
 ```
 
 | Parameter | Type | Description |
@@ -20,38 +23,43 @@ public static Color FromRgb(Color color)
 
 ### Return Value
 
+[Color](../../../aspose.pdf/color/)
+
 Color object with each component value in [0..1] range.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FromRgb(double, double, double) {#fromrgb}
+## FromRgb(double, double, double) {#fromrgb_1}
 
 Gets valid pdf Color object from RGB color components.
 
 ```csharp
-public static Color FromRgb(double r, double g, double b)
+public Color FromRgb(double r, double g, double b)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| r | Double | The Red color component (value 0 - 1). |
-| g | Double | The Green color component (value 0 - 1). |
-| b | Double | The Blue color component (value 0 - 1). |
+| r | double | The Red color component (value 0 - 1). |
+| g | double | The Green color component (value 0 - 1). |
+| b | double | The Blue color component (value 0 - 1). |
 
 ### Return Value
+
+[Color](../../../aspose.pdf/color/)
 
 Color object with each component value in [0..1] range.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

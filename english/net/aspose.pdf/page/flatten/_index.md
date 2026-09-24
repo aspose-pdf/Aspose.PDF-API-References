@@ -1,12 +1,15 @@
 ---
-title: Page.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Page method. Removes all fields located on the page and place their values instead
+title: "Page.Flatten"
+linktitle: "Flatten"
+articleTitle: "Flatten"
+second_title: "Aspose.PDF for .NET"
+description: "Removes all fields located on the page and place their values instead."
 type: docs
-weight: 430
-url: /net/aspose.pdf/page/flatten/
+weight: 220
+url: "/net/aspose.pdf/page/flatten/"
+product_version: "26.9.0"
 ---
-## Page.Flatten method
+## Flatten() {#flatten}
 
 Removes all fields located on the page and place their values instead.
 
@@ -16,8 +19,7 @@ public void Flatten()
 
 ### See Also
 
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

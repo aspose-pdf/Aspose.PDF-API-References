@@ -1,10 +1,13 @@
 ---
-title: PaperSizes.A6Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. A6 rotated paper 148 mm by 105 mm
+title: "PaperSizes.A6Rotated"
+linktitle: "A6Rotated"
+articleTitle: "A6Rotated"
+second_title: "Aspose.PDF for .NET"
+description: "A6 rotated paper (148 mm by 105 mm)."
 type: docs
-weight: 180
-url: /net/aspose.pdf.printing/papersizes/a6rotated/
+weight: 810
+url: "/net/aspose.pdf.printing/papersizes/a6rotated/"
+product_version: "26.9.0"
 ---
 ## PaperSizes.A6Rotated field
 
@@ -16,9 +19,8 @@ public static readonly PaperSize A6Rotated;
 
 ### See Also
 
-* class [PaperSize](../../papersize/)
-* class [PaperSizes](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

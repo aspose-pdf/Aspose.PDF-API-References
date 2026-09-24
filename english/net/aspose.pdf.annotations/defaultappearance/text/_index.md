@@ -1,10 +1,13 @@
 ---
-title: DefaultAppearance.Text
-second_title: Aspose.PDF for .NET API Reference
-description: DefaultAppearance property. Gets the list of pdf operators which represent appearence
+title: "DefaultAppearance.Text"
+linktitle: "Text"
+articleTitle: "Text"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the list of pdf operators which represent appearence."
 type: docs
-weight: 60
-url: /net/aspose.pdf.annotations/defaultappearance/text/
+weight: 90
+url: "/net/aspose.pdf.annotations/defaultappearance/text/"
+product_version: "26.9.0"
 ---
 ## DefaultAppearance.Text property
 
@@ -14,10 +17,13 @@ Gets the list of pdf operators which represent appearence.
 public string Text { get; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [DefaultAppearance](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DefaultAppearance](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

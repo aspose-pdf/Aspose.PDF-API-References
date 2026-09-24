@@ -1,14 +1,17 @@
 ---
-title: InvalidValueFormatException.InvalidValueFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: InvalidValueFormatException constructor. Initializes a new instance of the InvalidValueFormatException class
+title: "InvalidValueFormatException.InvalidValueFormatException"
+linktitle: "InvalidValueFormatException"
+articleTitle: "InvalidValueFormatException"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the InvalidValueFormatException class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/invalidvalueformatexception/invalidvalueformatexception/
+url: "/net/aspose.pdf/invalidvalueformatexception/invalidvalueformatexception/"
+product_version: "26.9.0"
 ---
 ## InvalidValueFormatException() {#constructor}
 
-Initializes a new instance of the [`InvalidValueFormatException`](../) class.
+Initializes a new instance of the [`InvalidValueFormatException`](../../../aspose.pdf/invalidvalueformatexception/) class.
 
 ```csharp
 public InvalidValueFormatException()
@@ -16,9 +19,9 @@ public InvalidValueFormatException()
 
 ### See Also
 
-* class [InvalidValueFormatException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [InvalidValueFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,12 +35,11 @@ public InvalidValueFormatException(string message)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | String | Exception message. |
+| message | string | Exception message. |
 
 ### See Also
 
-* class [InvalidValueFormatException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [InvalidValueFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

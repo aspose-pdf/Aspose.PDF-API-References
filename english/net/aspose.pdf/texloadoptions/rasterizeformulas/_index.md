@@ -1,10 +1,13 @@
 ---
-title: TeXLoadOptions.RasterizeFormulas
-second_title: Aspose.PDF for .NET API Reference
-description: TeXLoadOptions property. Gets/sets a flag that allows to rasterize math formulas
+title: "TeXLoadOptions.RasterizeFormulas"
+linktitle: "RasterizeFormulas"
+articleTitle: "RasterizeFormulas"
+second_title: "Aspose.PDF for .NET"
+description: "Gets/sets a flag that allows to rasterize math formulas."
 type: docs
-weight: 70
-url: /net/aspose.pdf/texloadoptions/rasterizeformulas/
+weight: 120
+url: "/net/aspose.pdf/texloadoptions/rasterizeformulas/"
+product_version: "26.9.0"
 ---
 ## TeXLoadOptions.RasterizeFormulas property
 
@@ -14,10 +17,13 @@ Gets/sets a flag that allows to rasterize math formulas.
 public bool RasterizeFormulas { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [TeXLoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TeXLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: WarningInfo.WarningTypeProperty
-second_title: Aspose.PDF for .NET API Reference
-description: WarningInfo property. Returns warning type
+title: "WarningInfo.WarningTypeProperty"
+linktitle: "WarningTypeProperty"
+articleTitle: "WarningTypeProperty"
+second_title: "Aspose.PDF for .NET"
+description: "Returns warning type."
 type: docs
 weight: 30
-url: /net/aspose.pdf/warninginfo/warningtypeproperty/
+url: "/net/aspose.pdf/warninginfo/warningtypeproperty/"
+product_version: "26.9.0"
 ---
 ## WarningInfo.WarningTypeProperty property
 
@@ -14,15 +17,14 @@ Returns warning type.
 public WarningType WarningTypeProperty { get; }
 ```
 
-### Return Value
+### Property Value
 
-the warning type
+[WarningType](../../../aspose.pdf/warningtype/)
 
 ### See Also
 
-* enum [WarningType](../../warningtype/)
-* class [WarningInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [WarningType](../../../aspose.pdf/warningtype/)
+* class [WarningInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PaperSizes.Standard9x11
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. Standard paper 9 in. by 11 in
+title: "PaperSizes.Standard9x11"
+linktitle: "Standard9x11"
+articleTitle: "Standard9x11"
+second_title: "Aspose.PDF for .NET"
+description: "Standard paper (9 in. by 11 in.)."
 type: docs
-weight: 1120
-url: /net/aspose.pdf.printing/papersizes/standard9x11/
+weight: 440
+url: "/net/aspose.pdf.printing/papersizes/standard9x11/"
+product_version: "26.9.0"
 ---
 ## PaperSizes.Standard9x11 field
 
@@ -16,9 +19,8 @@ public static readonly PaperSize Standard9x11;
 
 ### See Also
 
-* class [PaperSize](../../papersize/)
-* class [PaperSizes](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

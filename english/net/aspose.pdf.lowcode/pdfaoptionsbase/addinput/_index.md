@@ -1,12 +1,15 @@
 ---
-title: PdfAOptionsBase.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase method. Adds new data source to the collection
+title: "PdfAOptionsBase.AddInput"
+linktitle: "AddInput"
+articleTitle: "AddInput"
+second_title: "Aspose.PDF for .NET"
+description: "Adds new data source to the collection"
 type: docs
-weight: 160
-url: /net/aspose.pdf.lowcode/pdfaoptionsbase/addinput/
+weight: 20
+url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/addinput/"
+product_version: "26.9.0"
 ---
-## PdfAOptionsBase.AddInput method
+## AddInput([IDataSource](../../../aspose.pdf.lowcode/idatasource/)) {#addinput}
 
 Adds new data source to the collection
 
@@ -20,9 +23,7 @@ public void AddInput(IDataSource dataSource)
 
 ### See Also
 
-* interface [IDataSource](../../idatasource/)
-* class [PdfAOptionsBase](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

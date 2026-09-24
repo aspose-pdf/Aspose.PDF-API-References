@@ -1,17 +1,20 @@
 ---
-title: OutlineCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection method. Always throws NotImplementedException
+title: "OutlineCollection.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET"
+description: "Always throws NotImplementedException"
 type: docs
-weight: 150
-url: /net/aspose.pdf/outlinecollection/remove/
+weight: 80
+url: "/net/aspose.pdf/outlinecollection/remove/"
+product_version: "26.9.0"
 ---
-## Remove(OutlineItemCollection) {#remove}
+## Remove([OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)) {#remove}
 
 Always throws NotImplementedException
 
 ```csharp
-public override bool Remove(OutlineItemCollection item)
+public bool Remove(OutlineItemCollection item)
 ```
 
 | Parameter | Type | Description |
@@ -20,14 +23,22 @@ public override bool Remove(OutlineItemCollection item)
 
 ### Return Value
 
+bool
+
 NotImplementedException
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| NotImplementedException | NotImplementedException |
+| NotImplementedException | NotImplementedException |
 
 ### See Also
 
-* class [OutlineItemCollection](../../outlineitemcollection/)
-* class [OutlineCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,12 +52,11 @@ public void Remove(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | Int32 | Index of the item to be removed. |
+| index | int | Index of the item to be removed. |
 
 ### See Also
 
-* class [OutlineCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: IStructureRecognitionVisitor.VisitParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: IStructureRecognitionVisitor method. Called when a paragraph node is visited
+title: "IStructureRecognitionVisitor.VisitParagraph"
+linktitle: "VisitParagraph"
+articleTitle: "VisitParagraph"
+second_title: "Aspose.PDF for .NET"
+description: "Called when a paragraph node is visited."
 type: docs
-weight: 30
-url: /net/aspose.pdf.flow/istructurerecognitionvisitor/visitparagraph/
+weight: 50
+url: "/net/aspose.pdf.flow/istructurerecognitionvisitor/visitparagraph/"
+product_version: "26.9.0"
 ---
-## IStructureRecognitionVisitor.VisitParagraph method
+## VisitParagraph([BaseParagraph](../../../aspose.pdf/baseparagraph/)) {#visitparagraph}
 
 Called when a paragraph node is visited.
 
@@ -20,9 +23,7 @@ public void VisitParagraph(BaseParagraph paragraph)
 
 ### See Also
 
-* class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
-* interface [IStructureRecognitionVisitor](../)
-* namespace [Aspose.Pdf.Flow](../../../aspose.pdf.flow/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IStructureRecognitionVisitor](../)
+* namespace [Aspose.Pdf.Flow](../../../aspose.pdf.flow/)
+* assembly [Aspose.PDF](../../../)
 

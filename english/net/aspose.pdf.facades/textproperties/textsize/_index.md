@@ -1,10 +1,13 @@
 ---
-title: TextProperties.TextSize
-second_title: Aspose.PDF for .NET API Reference
-description: TextProperties property. Gets or sets text size
+title: "TextProperties.TextSize"
+linktitle: "TextSize"
+articleTitle: "TextSize"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets text size."
 type: docs
-weight: 50
-url: /net/aspose.pdf.facades/textproperties/textsize/
+weight: 40
+url: "/net/aspose.pdf.facades/textproperties/textsize/"
+product_version: "26.9.0"
 ---
 ## TextProperties.TextSize property
 
@@ -14,10 +17,13 @@ Gets or sets text size.
 public double TextSize { get; set; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [TextProperties](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

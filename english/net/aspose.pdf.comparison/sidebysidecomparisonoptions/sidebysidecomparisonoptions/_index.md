@@ -1,14 +1,17 @@
 ---
-title: SideBySideComparisonOptions.SideBySideComparisonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: SideBySideComparisonOptions constructor. The default constructor
+title: "SideBySideComparisonOptions.SideBySideComparisonOptions"
+linktitle: "SideBySideComparisonOptions"
+articleTitle: "SideBySideComparisonOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the SideBySideComparisonOptions class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.comparison/sidebysidecomparisonoptions/sidebysidecomparisonoptions/
+url: "/net/aspose.pdf.comparison/sidebysidecomparisonoptions/sidebysidecomparisonoptions/"
+product_version: "26.9.0"
 ---
-## SideBySideComparisonOptions constructor
+## SideBySideComparisonOptions() {#constructor}
 
-The default constructor.
+Initializes a new instance of the SideBySideComparisonOptions class.
 
 ```csharp
 public SideBySideComparisonOptions()
@@ -16,8 +19,7 @@ public SideBySideComparisonOptions()
 
 ### See Also
 
-* class [SideBySideComparisonOptions](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SideBySideComparisonOptions](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

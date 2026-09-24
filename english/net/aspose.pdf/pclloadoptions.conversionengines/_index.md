@@ -1,10 +1,13 @@
 ---
-title: Enum PclLoadOptions.ConversionEngines
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PclLoadOptionsConversionEngines enum. Enumerates conversion engines that can be used for conversion
+title: "PclLoadOptions.ConversionEngines Enum"
+linktitle: "PclLoadOptions.ConversionEngines"
+articleTitle: "PclLoadOptions.ConversionEngines"
+second_title: "Aspose.PDF for .NET"
+description: "Enumerates conversion engines that can be used for conversion"
 type: docs
-weight: 9580
-url: /net/aspose.pdf/pclloadoptions.conversionengines/
+weight: 2380
+url: "/net/aspose.pdf/pclloadoptions.conversionengines/"
+product_version: "26.9.0"
 ---
 ## PclLoadOptions.ConversionEngines enumeration
 
@@ -14,17 +17,17 @@ Enumerates conversion engines that can be used for conversion
 public enum ConversionEngines
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | LegacyEngine | `0` | Legacy conversion engine is conversion engine thay was used for a while and is used by default. |
-| NewEngine | `1` | New conversion engine is currently in A-testing state. We open it into public API to get some feedback. It's currently recommended to use it only when old conversion engine cannot convert document for some reasons. |
+| NewEngine | `1` | New conversion engine is currently in A-testing state. We open it into public API to get some feedback. 
+ It's currently recommended to use it only when old conversion engine cannot convert document for some reasons. |
 
 ### See Also
 
-* class [PclLoadOptions](../pclloadoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [PclLoadOptions](../pclloadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

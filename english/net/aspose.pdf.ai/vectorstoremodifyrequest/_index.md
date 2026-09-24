@@ -1,10 +1,14 @@
 ---
-title: Class VectorStoreModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.VectorStoreModifyRequest class. Modify a vector store request
+title: "VectorStoreModifyRequest Class"
+linktitle: "VectorStoreModifyRequest"
+articleTitle: "VectorStoreModifyRequest"
+second_title: "Aspose.PDF for .NET"
+description: "Modify a vector store request."
 type: docs
 weight: 1470
-url: /net/aspose.pdf.ai/vectorstoremodifyrequest/
+url: "/net/aspose.pdf.ai/vectorstoremodifyrequest/"
+keywords: "VectorStoreModifyRequest, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## VectorStoreModifyRequest class
 
@@ -18,19 +22,18 @@ public class VectorStoreModifyRequest
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreModifyRequest](vectorstoremodifyrequest/)() | The default constructor. |
+| [VectorStoreModifyRequest](./vectorstoremodifyrequest/#constructor) | Initializes a new instance of the VectorStoreModifyRequest class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ExpiresAfter](../../aspose.pdf.ai/vectorstoremodifyrequest/expiresafter/) { get; set; } | Gets or sets the expiration policy for a vector store. |
-| [Metadata](../../aspose.pdf.ai/vectorstoremodifyrequest/metadata/) { get; set; } | Gets or sets a set of 16 key-value pairs that can be attached to an object. This can be useful for storing additional information about the object in a structured format. Keys can be a maximum of 64 characters long and values can be a maximum of 512 characters long. |
-| [Name](../../aspose.pdf.ai/vectorstoremodifyrequest/name/) { get; set; } | Gets or sets the name of the vector store. |
+| [ExpiresAfter](./expiresafter/) { get; set; } | Gets or sets the expiration policy for a vector store. |
+| [Metadata](./metadata/) { get; set; } | Gets or sets a set of 16 key-value pairs that can be attached to an object. This can be useful for storing. |
+| [Name](./name/) { get; set; } | Gets or sets the name of the vector store. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

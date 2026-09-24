@@ -1,23 +1,30 @@
 ---
-title: VectorStoreFileResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileResponse property. Gets or sets the identifier which can be referenced in API endpoints. ///
+title: "VectorStoreFileResponse.Id"
+linktitle: "Id"
+articleTitle: "Id"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the identifier, which can be referenced in API endpoints. ///"
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/vectorstorefileresponse/id/
+weight: 20
+url: "/net/aspose.pdf.ai/vectorstorefileresponse/id/"
+product_version: "26.9.0"
 ---
 ## VectorStoreFileResponse.Id property
 
-Gets or sets the identifier, which can be referenced in API endpoints. ///
+Gets or sets the identifier, which can be referenced in API endpoints.
+ ///
 
 ```csharp
 public string Id { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [VectorStoreFileResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [VectorStoreFileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,27 +1,35 @@
 ---
-title: AICopilotFactory.CreateOcrCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: AICopilotFactory method. Creates an OCR copilot based on the client and options
+title: "AICopilotFactory.CreateOcrCopilot"
+linktitle: "CreateOcrCopilot"
+articleTitle: "CreateOcrCopilot"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/aicopilotfactory/createocrcopilot/
+weight: 40
+url: "/net/aspose.pdf.ai/aicopilotfactory/createocrcopilot/"
+product_version: "26.9.0"
 ---
-## AICopilotFactory.CreateOcrCopilot&lt;TOptions&gt; method
+## CreateOcrCopilot(IOcrClient<T0>, IOcrCopilotOptions<T0>) {#createocrcopilot}
 
-Creates an OCR copilot based on the client and options.
+
 
 ```csharp
-public static IOcrCopilot CreateOcrCopilot<TOptions>(IOcrClient<TOptions> client, 
-    IOcrCopilotOptions<TOptions> options)
+public IOcrCopilot CreateOcrCopilot(IOcrClient<T0> client, IOcrCopilotOptions<T0> options)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| client | IOcrClient<T0> |  |
+| options | IOcrCopilotOptions<T0> |  |
+
+### Return Value
+
+[IOcrCopilot](../../../aspose.pdf.ai/iocrcopilot/)
 
 ### See Also
 
-* interface [IOcrCopilot](../../iocrcopilot/)
-* interface [IOcrClient&lt;TOptions&gt;](../../iocrclient-1/)
-* interface [IOcrCopilotOptions&lt;TOptions&gt;](../../iocrcopilotoptions-1/)
-* class [AICopilotFactory](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [IOcrCopilot](../../../aspose.pdf.ai/iocrcopilot/)
+* class [AICopilotFactory](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

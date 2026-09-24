@@ -1,12 +1,15 @@
 ---
-title: PageCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection method. Determines whether this instance contains the object
+title: "PageCollection.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET"
+description: "Determines whether this instance contains the object."
 type: docs
-weight: 100
-url: /net/aspose.pdf/pagecollection/contains/
+weight: 250
+url: "/net/aspose.pdf/pagecollection/contains/"
+product_version: "26.9.0"
 ---
-## PageCollection.Contains method
+## Contains([Page](../../../aspose.pdf/page/)) {#contains}
 
 Determines whether this instance contains the object.
 
@@ -20,6 +23,8 @@ public bool Contains(Page item)
 
 ### Return Value
 
+bool
+
 `true` if [contains] [the specified item]; otherwise, `false`.
 
 ### Exceptions
@@ -30,9 +35,7 @@ public bool Contains(Page item)
 
 ### See Also
 
-* class [Page](../../page/)
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

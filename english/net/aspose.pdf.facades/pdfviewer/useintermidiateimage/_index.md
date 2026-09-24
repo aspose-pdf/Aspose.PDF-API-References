@@ -1,10 +1,13 @@
 ---
-title: PdfViewer.UseIntermidiateImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer property. Gets/sets the using of conversion of pdf page into intermidiate png file during printing in file mode. Use it when the size of output file is important
+title: "PdfViewer.UseIntermidiateImage"
+linktitle: "UseIntermidiateImage"
+articleTitle: "UseIntermidiateImage"
+second_title: "Aspose.PDF for .NET"
+description: "Gets/sets the using of conversion of pdf page into intermidiate png file during printing in file mode. Use it when the size of output file is important."
 type: docs
-weight: 180
-url: /net/aspose.pdf.facades/pdfviewer/useintermidiateimage/
+weight: 380
+url: "/net/aspose.pdf.facades/pdfviewer/useintermidiateimage/"
+product_version: "26.9.0"
 ---
 ## PdfViewer.UseIntermidiateImage property
 
@@ -14,10 +17,13 @@ Gets/sets the using of conversion of pdf page into intermidiate png file during 
 public bool UseIntermidiateImage { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [PdfViewer](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

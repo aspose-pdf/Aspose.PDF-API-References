@@ -1,12 +1,15 @@
 ---
-title: RadioButtonField.RadioButtonField
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField constructor. Constructor for RadiouttonField
+title: "RadioButtonField.RadioButtonField"
+linktitle: "RadioButtonField"
+articleTitle: "RadioButtonField"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the RadioButtonField class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.forms/radiobuttonfield/radiobuttonfield/
+url: "/net/aspose.pdf.forms/radiobuttonfield/radiobuttonfield/"
+product_version: "26.9.0"
 ---
-## RadioButtonField(Page) {#constructor_1}
+## RadioButtonField([Page](../../../aspose.pdf/page/)) {#constructor}
 
 Constructor for RadiouttonField
 
@@ -20,14 +23,13 @@ public RadioButtonField(Page page)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [RadioButtonField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## RadioButtonField(Document) {#constructor}
+## RadioButtonField([Document](../../../aspose.pdf/document/)) {#constructor_1}
 
 Constructor for RadioButtonField.
 
@@ -41,9 +43,7 @@ public RadioButtonField(Document doc)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [RadioButtonField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Color.A
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets the alpha component value
+title: "Color.A"
+linktitle: "A"
+articleTitle: "A"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the alpha component value"
 type: docs
-weight: 1490
-url: /net/aspose.pdf/color/a/
+weight: 140
+url: "/net/aspose.pdf/color/a/"
+product_version: "26.9.0"
 ---
 ## Color.A property
 
@@ -14,10 +17,13 @@ Gets the alpha component value
 public double A { get; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

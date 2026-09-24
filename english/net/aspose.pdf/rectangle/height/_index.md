@@ -1,10 +1,13 @@
 ---
-title: Rectangle.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle property. Height of rectangle
+title: "Rectangle.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.PDF for .NET"
+description: "Height of rectangle."
 type: docs
-weight: 60
-url: /net/aspose.pdf/rectangle/height/
+weight: 220
+url: "/net/aspose.pdf/rectangle/height/"
+product_version: "26.9.0"
 ---
 ## Rectangle.Height property
 
@@ -14,10 +17,13 @@ Height of rectangle.
 public double Height { get; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

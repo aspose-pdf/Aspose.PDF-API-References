@@ -1,10 +1,13 @@
 ---
-title: Rendition.RenditionType
-second_title: Aspose.PDF for .NET API Reference
-description: Rendition property. Gets rendition type
+title: "Rendition.RenditionType"
+linktitle: "RenditionType"
+articleTitle: "RenditionType"
+second_title: "Aspose.PDF for .NET"
+description: "Gets rendition type."
 type: docs
 weight: 20
-url: /net/aspose.pdf.annotations/rendition/renditiontype/
+url: "/net/aspose.pdf.annotations/rendition/renditiontype/"
+product_version: "26.9.0"
 ---
 ## Rendition.RenditionType property
 
@@ -14,11 +17,14 @@ Gets rendition type.
 public RenditionType RenditionType { get; }
 ```
 
+### Property Value
+
+[RenditionType](../../../aspose.pdf.annotations/renditiontype/)
+
 ### See Also
 
-* enum [RenditionType](../../renditiontype/)
-* class [Rendition](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RenditionType](../../../aspose.pdf.annotations/renditiontype/)
+* class [Rendition](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

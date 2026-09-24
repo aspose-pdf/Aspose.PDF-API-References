@@ -1,12 +1,15 @@
 ---
-title: PdfXmpMetadata.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata method. Checks if dictionary contains the specified key
+title: "PdfXmpMetadata.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET"
+description: "Checks if dictionary contains the specified key."
 type: docs
-weight: 130
-url: /net/aspose.pdf.facades/pdfxmpmetadata/contains/
+weight: 120
+url: "/net/aspose.pdf.facades/pdfxmpmetadata/contains/"
+product_version: "26.9.0"
 ---
-## Contains(string) {#contains_2}
+## Contains(string) {#contains}
 
 Checks if dictionary contains the specified key.
 
@@ -16,31 +19,23 @@ public bool Contains(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | Key which will be checked. |
+| key | string | Key which will be checked. |
 
 ### Return Value
 
+bool
+
 True - if the dictionary contains the specified key; otherwise, false.
-
-## Examples
-
-```csharp
-PdfXmpMetadata xmp = new PdfXmpMetadata();
-xmp.BindPdf("input.pdf");
-xmp.Add("xmp:Nickname", "Nickname1");
-if (!xmp.Contains("xmp:Nickname"))
-  Console.WriteLine("Key does not exists");
-```
 
 ### See Also
 
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Contains(DefaultMetadataProperties) {#contains}
+## Contains([DefaultMetadataProperties](../../../aspose.pdf.facades/defaultmetadataproperties/)) {#contains_1}
 
 Checks if dictionary contains the specified property.
 
@@ -54,18 +49,19 @@ public bool Contains(DefaultMetadataProperties property)
 
 ### Return Value
 
+bool
+
 True - if the dictionary contains the specified property; otherwise, false.
 
 ### See Also
 
-* enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Contains(KeyValuePair&lt;string, XmpValue&gt;) {#contains_1}
+## Contains(KeyValuePair<string, XmpValue>) {#contains_2}
 
 Checks does specified key-value pair is contained in the dictionary.
 
@@ -75,17 +71,17 @@ public bool Contains(KeyValuePair<string, XmpValue> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Key-value pair. |
+| item | KeyValuePair<string, XmpValue> | Key-value pair. |
 
 ### Return Value
+
+bool
 
 true if this pauir was found.
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

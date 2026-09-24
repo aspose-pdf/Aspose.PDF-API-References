@@ -1,10 +1,13 @@
 ---
-title: Enum Subset
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Subset enum. Represents the subset of pages to which a pagination artifact can apply
+title: "Subset Enum"
+linktitle: "Subset"
+articleTitle: "Subset"
+second_title: "Aspose.PDF for .NET"
+description: "Represents the subset of pages to which a pagination artifact can apply."
 type: docs
-weight: 10600
-url: /net/aspose.pdf/subset/
+weight: 2860
+url: "/net/aspose.pdf/subset/"
+product_version: "26.9.0"
 ---
 ## Subset enumeration
 
@@ -14,17 +17,16 @@ Represents the subset of pages to which a pagination artifact can apply.
 public enum Subset
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | All | `0` | Indicates that the artifact applies to all pages. |
 | Even | `1` | Indicates that the artifact applies only to even-numbered pages. |
 | Odd | `2` | Indicates that the artifact applies only to odd-numbered pages. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

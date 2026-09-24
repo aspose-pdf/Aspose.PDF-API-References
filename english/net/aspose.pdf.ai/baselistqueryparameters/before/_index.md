@@ -1,23 +1,31 @@
 ---
-title: BaseListQueryParameters.Before
-second_title: Aspose.PDF for .NET API Reference
-description: BaseListQueryParameters property. Gets or sets a cursor for use in pagination. before is an object ID that defines your place in the list. For instance if you make a list request and receive 100 objects ending with obj_foo your subsequent call can include beforeobj_foo in order to fetch the previous page of the list
+title: "BaseListQueryParameters.Before"
+linktitle: "Before"
+articleTitle: "Before"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets a cursor for use in pagination. before is an object ID that defines your place in the list. For instance, if you make a list request and receive..."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/baselistqueryparameters/before/
+weight: 50
+url: "/net/aspose.pdf.ai/baselistqueryparameters/before/"
+product_version: "26.9.0"
 ---
 ## BaseListQueryParameters.Before property
 
-Gets or sets a cursor for use in pagination. before is an object ID that defines your place in the list. For instance, if you make a list request and receive 100 objects, ending with obj_foo, your subsequent call can include before=obj_foo in order to fetch the previous page of the list.
+Gets or sets a cursor for use in pagination. before is an object ID that defines your place in the list.
+ For instance, if you make a list request and receive 100 objects, ending with obj_foo, your
+ subsequent call can include before=obj_foo in order to fetch the previous page of the list.
 
 ```csharp
 public string Before { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [BaseListQueryParameters](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BaseListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

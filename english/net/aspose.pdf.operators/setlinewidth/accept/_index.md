@@ -1,17 +1,20 @@
 ---
-title: SetLineWidth.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SetLineWidth method. Accepts visitor object to process operator
+title: "SetLineWidth.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET"
+description: "Accepts visitor object to process operator."
 type: docs
-weight: 30
-url: /net/aspose.pdf.operators/setlinewidth/accept/
+weight: 20
+url: "/net/aspose.pdf.operators/setlinewidth/accept/"
+product_version: "26.9.0"
 ---
-## SetLineWidth.Accept method
+## Accept([IOperatorSelector](../../../aspose.pdf/ioperatorselector/)) {#accept}
 
 Accepts visitor object to process operator.
 
 ```csharp
-public override void Accept(IOperatorSelector visitor)
+public void Accept(IOperatorSelector visitor)
 ```
 
 | Parameter | Type | Description |
@@ -20,9 +23,7 @@ public override void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* class [SetLineWidth](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetLineWidth](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

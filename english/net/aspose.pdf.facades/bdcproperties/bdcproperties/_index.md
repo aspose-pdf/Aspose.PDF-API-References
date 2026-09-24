@@ -1,50 +1,52 @@
 ---
-title: BDCProperties.BDCProperties
-second_title: Aspose.PDF for .NET API Reference
-description: BDCProperties constructor. Constructor for properties of BDC operator
+title: "BDCProperties.BDCProperties"
+linktitle: "BDCProperties"
+articleTitle: "BDCProperties"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the BDCProperties class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.facades/bdcproperties/bdcproperties/
+url: "/net/aspose.pdf.facades/bdcproperties/bdcproperties/"
+product_version: "26.9.0"
 ---
-## BDCProperties(string, string) {#constructor_1}
+## BDCProperties(string, string) {#constructor}
 
 Constructor for properties of BDC operator.
 
 ```csharp
-public BDCProperties(string lang = null, string expansionText = null)
+public BDCProperties(string lang, string expansionText)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| lang | String | Lang tag. |
-| expansionText | String | Expansion text. |
+| lang | string | Lang tag. |
+| expansionText | string | Expansion text. |
 
 ### See Also
 
-* class [BDCProperties](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [BDCProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BDCProperties(int?, string, string) {#constructor}
+## BDCProperties(Nullable<int>, string, string) {#constructor_1}
 
 Constructor for properties of BDC operator.
 
 ```csharp
-public BDCProperties(int? mcid, string lang = null, string expansionText = null)
+public BDCProperties(Nullable<int> mcid, string lang, string expansionText)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| mcid | Nullable`1 | MCID. |
-| lang | String | Lang tag. |
-| expansionText | String | Expansion text. |
+| mcid | Nullable<int> | MCID. |
+| lang | string | Lang tag. |
+| expansionText | string | Expansion text. |
 
 ### See Also
 
-* class [BDCProperties](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BDCProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

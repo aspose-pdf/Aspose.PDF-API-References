@@ -1,10 +1,13 @@
 ---
-title: HtmlSaveOptions.LettersPositioningMethod
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions field. Sets mode of positioning of letters in words in result HTML
+title: "HtmlSaveOptions.LettersPositioningMethod"
+linktitle: "LettersPositioningMethod"
+articleTitle: "LettersPositioningMethod"
+second_title: "Aspose.PDF for .NET"
+description: "Sets mode of positioning of letters in words in result HTML"
 type: docs
 weight: 350
-url: /net/aspose.pdf/htmlsaveoptions/letterspositioningmethod/
+url: "/net/aspose.pdf/htmlsaveoptions/letterspositioningmethod/"
+product_version: "26.9.0"
 ---
 ## HtmlSaveOptions.LettersPositioningMethod field
 
@@ -16,9 +19,7 @@ public LettersPositioningMethods LettersPositioningMethod;
 
 ### See Also
 
-* enum [LettersPositioningMethods](../../htmlsaveoptions.letterspositioningmethods/)
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum TeXLoadResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TeXLoadResult enum. Results for TeX load and compiling
+title: "TeXLoadResult Enum"
+linktitle: "TeXLoadResult"
+articleTitle: "TeXLoadResult"
+second_title: "Aspose.PDF for .NET"
+description: "Results for TeX load and compiling."
 type: docs
-weight: 10780
-url: /net/aspose.pdf/texloadresult/
+weight: 3000
+url: "/net/aspose.pdf/texloadresult/"
+product_version: "26.9.0"
 ---
 ## TeXLoadResult enumeration
 
@@ -14,10 +17,10 @@ Results for TeX load and compiling.
 public enum TeXLoadResult
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | NotExecuted | `0` | Loading not executed yet. |
 | Spotless | `1` | Spotless result of loading and compiling. |
 | WarningIssued | `2` | Warnings present on loading and compiling. |
@@ -27,7 +30,6 @@ public enum TeXLoadResult
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

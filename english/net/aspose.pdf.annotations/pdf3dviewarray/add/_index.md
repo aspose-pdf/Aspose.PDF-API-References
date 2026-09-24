@@ -1,12 +1,15 @@
 ---
-title: PDF3DViewArray.Add
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DViewArray method. Adds the specified view
+title: "PDF3DViewArray.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: "Adds the specified view."
 type: docs
-weight: 30
-url: /net/aspose.pdf.annotations/pdf3dviewarray/add/
+weight: 10
+url: "/net/aspose.pdf.annotations/pdf3dviewarray/add/"
+product_version: "26.9.0"
 ---
-## PDF3DViewArray.Add method
+## Add([PDF3DView](../../../aspose.pdf.annotations/pdf3dview/)) {#add}
 
 Adds the specified view.
 
@@ -26,9 +29,7 @@ public void Add(PDF3DView view)
 
 ### See Also
 
-* class [PDF3DView](../../pdf3dview/)
-* class [PDF3DViewArray](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

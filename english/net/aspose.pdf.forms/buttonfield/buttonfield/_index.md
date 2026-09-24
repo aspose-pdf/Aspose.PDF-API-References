@@ -1,10 +1,13 @@
 ---
-title: ButtonField.ButtonField
-second_title: Aspose.PDF for .NET API Reference
-description: ButtonField constructor. Button field constructor for Generator
+title: "ButtonField.ButtonField"
+linktitle: "ButtonField"
+articleTitle: "ButtonField"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the ButtonField class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.forms/buttonfield/buttonfield/
+url: "/net/aspose.pdf.forms/buttonfield/buttonfield/"
+product_version: "26.9.0"
 ---
 ## ButtonField() {#constructor}
 
@@ -16,13 +19,13 @@ public ButtonField()
 
 ### See Also
 
-* class [ButtonField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ButtonField(Page, Rectangle) {#constructor_2}
+## ButtonField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
 
 ButtonField constructor.
 
@@ -37,15 +40,13 @@ public ButtonField(Page page, Rectangle rect)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [ButtonField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ButtonField(Document, Rectangle) {#constructor_1}
+## ButtonField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_2}
 
 ButtonField constructore.
 
@@ -60,10 +61,7 @@ public ButtonField(Document doc, Rectangle rect)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [ButtonField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

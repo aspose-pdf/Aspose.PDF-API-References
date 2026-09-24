@@ -1,10 +1,14 @@
 ---
-title: Class SoundData
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SoundData class. Represents a sound data defining the sound to be played when the annotation is activated
+title: "SoundData Class"
+linktitle: "SoundData"
+articleTitle: "SoundData"
+second_title: "Aspose.PDF for .NET"
+description: "Represents a sound data defining the sound to be played when the annotation is activated."
 type: docs
-weight: 2640
-url: /net/aspose.pdf.annotations/sounddata/
+weight: 1170
+url: "/net/aspose.pdf.annotations/sounddata/"
+keywords: "SoundData, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## SoundData class
 
@@ -18,15 +22,14 @@ public sealed class SoundData
 
 | Name | Description |
 | --- | --- |
-| [Bits](../../aspose.pdf.annotations/sounddata/bits/) { get; set; } | Gets or sets the number of bits per sample value per channel. |
-| [Channels](../../aspose.pdf.annotations/sounddata/channels/) { get; set; } | Gets or sets the number of sound channels. |
-| [Contents](../../aspose.pdf.annotations/sounddata/contents/) { get; } | Gets stream of the sound to be played when the annotation is activated. |
-| [Encoding](../../aspose.pdf.annotations/sounddata/encoding/) { get; set; } | Gets or sets the encoding format for the sample data. |
-| [Rate](../../aspose.pdf.annotations/sounddata/rate/) { get; set; } | Gets or sets the sampling rate, in samples per second. |
+| [Bits](./bits/) { get; set; } | Gets or sets the number of bits per sample value per channel. |
+| [Channels](./channels/) { get; set; } | Gets or sets the number of sound channels. |
+| [Contents](./contents/) { get; } | Gets stream of the sound to be played when the annotation is activated. |
+| [Encoding](./encoding/) { get; set; } | Gets or sets the encoding format for the sample data. |
+| [Rate](./rate/) { get; set; } | Gets or sets the sampling rate, in samples per second. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

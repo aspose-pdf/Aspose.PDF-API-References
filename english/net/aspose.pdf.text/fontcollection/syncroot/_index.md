@@ -1,10 +1,13 @@
 ---
-title: FontCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection property. Gets an object that can be used to synchronize access to the collection
+title: "FontCollection.SyncRoot"
+linktitle: "SyncRoot"
+articleTitle: "SyncRoot"
+second_title: "Aspose.PDF for .NET"
+description: "Gets an object that can be used to synchronize access to the collection."
 type: docs
-weight: 50
-url: /net/aspose.pdf.text/fontcollection/syncroot/
+weight: 80
+url: "/net/aspose.pdf.text/fontcollection/syncroot/"
+product_version: "26.9.0"
 ---
 ## FontCollection.SyncRoot property
 
@@ -14,10 +17,13 @@ Gets an object that can be used to synchronize access to the collection.
 public object SyncRoot { get; }
 ```
 
+### Property Value
+
+object
+
 ### See Also
 
-* class [FontCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

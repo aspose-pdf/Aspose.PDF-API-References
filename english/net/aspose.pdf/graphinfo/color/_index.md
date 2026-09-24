@@ -1,10 +1,13 @@
 ---
-title: GraphInfo.Color
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo property. Gets or sets a Color object that indicates the color of the graph
+title: "GraphInfo.Color"
+linktitle: "Color"
+articleTitle: "Color"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets a object that indicates the color of the graph."
 type: docs
-weight: 20
-url: /net/aspose.pdf/graphinfo/color/
+weight: 60
+url: "/net/aspose.pdf/graphinfo/color/"
+product_version: "26.9.0"
 ---
 ## GraphInfo.Color property
 
@@ -14,11 +17,14 @@ Gets or sets a `Color` object that indicates the color of the graph.
 public Color Color { get; set; }
 ```
 
+### Property Value
+
+[Color](../../../aspose.pdf/color/)
+
 ### See Also
 
-* class [Color](../../color/)
-* class [GraphInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

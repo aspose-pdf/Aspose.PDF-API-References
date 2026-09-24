@@ -1,10 +1,14 @@
 ---
-title: Class CompromiseCheckResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Signatures.CompromiseCheckResult class. Represents a class for checking document digital signatures for compromise
+title: "CompromiseCheckResult Class"
+linktitle: "CompromiseCheckResult"
+articleTitle: "CompromiseCheckResult"
+second_title: "Aspose.PDF for .NET"
+description: "Represents a class for checking document digital signatures for compromise."
 type: docs
-weight: 10500
-url: /net/aspose.pdf.signatures/compromisecheckresult/
+weight: 20
+url: "/net/aspose.pdf.signatures/compromisecheckresult/"
+keywords: "CompromiseCheckResult, Aspose.Pdf.Signatures, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## CompromiseCheckResult class
 
@@ -18,18 +22,17 @@ public sealed class CompromiseCheckResult
 
 | Name | Description |
 | --- | --- |
-| [HasCompromisedSignatures](../../aspose.pdf.signatures/compromisecheckresult/hascompromisedsignatures/) { get; } | Indicates whether there are any compromised digital signatures in the document. Returns true if at least one signature is compromised; otherwise, false. |
-| [SignaturesCoverage](../../aspose.pdf.signatures/compromisecheckresult/signaturescoverage/) { get; } | Gets the coverage state of digital signatures in a document. If it is equal to Undefined, then one of the signatures is compromised. |
+| [HasCompromisedSignatures](./hascompromisedsignatures/) { get; } | Indicates whether there are any compromised digital signatures in the document. |
+| [SignaturesCoverage](./signaturescoverage/) { get; } | Gets the coverage state of digital signatures in a document. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| readonly [CompromisedSignatures](../../aspose.pdf.signatures/compromisecheckresult/compromisedsignatures/) | Gets a collection of digital signatures that have been identified as compromised. This property contains the list of all compromised signatures detected in the document. |
+| readonly [CompromisedSignatures](./compromisedsignatures/) | Gets a collection of digital signatures that have been identified as compromised. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Signatures](../../aspose.pdf.signatures/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Signatures](../../aspose.pdf.signatures/)
+* assembly [Aspose.PDF](../../)
 

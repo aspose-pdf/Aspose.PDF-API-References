@@ -1,12 +1,15 @@
 ---
-title: OpenAIOcrCopilotOptions.WithDetail
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIOcrCopilotOptions method. Sets the level of detail for image analysis
+title: "OpenAIOcrCopilotOptions.WithDetail"
+linktitle: "WithDetail"
+articleTitle: "WithDetail"
+second_title: "Aspose.PDF for .NET"
+description: "Sets the level of detail for image analysis."
 type: docs
-weight: 60
-url: /net/aspose.pdf.ai/openaiocrcopilotoptions/withdetail/
+weight: 160
+url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withdetail/"
+product_version: "26.9.0"
 ---
-## OpenAIOcrCopilotOptions.WithDetail method
+## WithDetail([Detail](../../../aspose.pdf.ai/detail/)) {#withdetail}
 
 Sets the level of detail for image analysis.
 
@@ -20,13 +23,14 @@ public OpenAIOcrCopilotOptions WithDetail(Detail detail)
 
 ### Return Value
 
-The current instance of [`OpenAIOcrCopilotOptions`](../).
+[OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+
+The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
 ### See Also
 
-* enum [Detail](../../detail/)
-* class [OpenAIOcrCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+* class [OpenAIOcrCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

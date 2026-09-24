@@ -1,14 +1,17 @@
 ---
-title: Jpeg.Jpeg
-second_title: Aspose.PDF for .NET API Reference
-description: Jpeg constructor. The default constructor
+title: "Jpeg.Jpeg"
+linktitle: "Jpeg"
+articleTitle: "Jpeg"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the Jpeg class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/jpeg/jpeg/
+url: "/net/aspose.pdf.lowcode/jpeg/jpeg/"
+product_version: "26.9.0"
 ---
-## Jpeg constructor
+## Jpeg() {#constructor}
 
-The default constructor.
+Initializes a new instance of the Jpeg class.
 
 ```csharp
 public Jpeg()
@@ -16,8 +19,7 @@ public Jpeg()
 
 ### See Also
 
-* class [Jpeg](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Jpeg](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

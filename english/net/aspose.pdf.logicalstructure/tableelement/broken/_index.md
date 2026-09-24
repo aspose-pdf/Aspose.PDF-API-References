@@ -1,10 +1,13 @@
 ---
-title: TableElement.Broken
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement property. Gets or sets table vertial broken
+title: "TableElement.Broken"
+linktitle: "Broken"
+articleTitle: "Broken"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets table vertial broken;"
 type: docs
-weight: 40
-url: /net/aspose.pdf.logicalstructure/tableelement/broken/
+weight: 90
+url: "/net/aspose.pdf.logicalstructure/tableelement/broken/"
+product_version: "26.9.0"
 ---
 ## TableElement.Broken property
 
@@ -14,11 +17,14 @@ Gets or sets table vertial broken;
 public TableBroken Broken { get; set; }
 ```
 
+### Property Value
+
+[TableBroken](../../../aspose.pdf/tablebroken/)
+
 ### See Also
 
-* enum [TableBroken](../../../aspose.pdf/tablebroken/)
-* class [TableElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TableBroken](../../../aspose.pdf/tablebroken/)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

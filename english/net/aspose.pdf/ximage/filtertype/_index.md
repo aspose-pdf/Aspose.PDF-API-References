@@ -1,10 +1,13 @@
 ---
-title: XImage.FilterType
-second_title: Aspose.PDF for .NET API Reference
-description: XImage property. Gets image filter type
+title: "XImage.FilterType"
+linktitle: "FilterType"
+articleTitle: "FilterType"
+second_title: "Aspose.PDF for .NET"
+description: "Gets image filter type."
 type: docs
-weight: 20
-url: /net/aspose.pdf/ximage/filtertype/
+weight: 170
+url: "/net/aspose.pdf/ximage/filtertype/"
+product_version: "26.9.0"
 ---
 ## XImage.FilterType property
 
@@ -14,11 +17,14 @@ Gets image filter type.
 public ImageFilterType FilterType { get; }
 ```
 
+### Property Value
+
+[ImageFilterType](../../../aspose.pdf/imagefiltertype/)
+
 ### See Also
 
-* enum [ImageFilterType](../../imagefiltertype/)
-* class [XImage](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImageFilterType](../../../aspose.pdf/imagefiltertype/)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

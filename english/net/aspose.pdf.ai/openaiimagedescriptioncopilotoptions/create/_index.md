@@ -1,52 +1,59 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions method. Creates a new instance of OpenAIImageDescriptionCopilotOptions
+title: "OpenAIImageDescriptionCopilotOptions.Create"
+linktitle: "Create"
+articleTitle: "Create"
+second_title: "Aspose.PDF for .NET"
+description: "Creates a new instance of ."
 type: docs
-weight: 10
-url: /net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/create/
+weight: 20
+url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/create/"
+product_version: "26.9.0"
 ---
 ## Create() {#create}
 
-Creates a new instance of [`OpenAIImageDescriptionCopilotOptions`](../).
+Creates a new instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
 
 ```csharp
-public static OpenAIImageDescriptionCopilotOptions Create()
+public OpenAIImageDescriptionCopilotOptions Create()
 ```
 
 ### Return Value
 
-A new instance of [`OpenAIImageDescriptionCopilotOptions`](../).
+[OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
+
+A new instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
 
 ### See Also
 
-* class [OpenAIImageDescriptionCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Create(Action&lt;OpenAIImageDescriptionCopilotOptions&gt;) {#create_1}
+## Create(Action<OpenAIImageDescriptionCopilotOptions>) {#create_1}
 
-Creates an instance of [`OpenAIImageDescriptionCopilotOptions`](../) and configures it using the provided delegate.
+Creates an instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/) and configures it using the provided delegate.
 
 ```csharp
-public static OpenAIImageDescriptionCopilotOptions Create(
-    Action<OpenAIImageDescriptionCopilotOptions> config)
+public OpenAIImageDescriptionCopilotOptions Create(Action<OpenAIImageDescriptionCopilotOptions> config)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| config | Action`1 | The delegate to configure the options. |
+| config | Action<OpenAIImageDescriptionCopilotOptions> | The delegate to configure the options. |
 
 ### Return Value
 
-The configured instance of [`OpenAIImageDescriptionCopilotOptions`](../).
+[OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
+
+The configured instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
 
 ### See Also
 
-* class [OpenAIImageDescriptionCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

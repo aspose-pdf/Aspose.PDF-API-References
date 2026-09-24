@@ -1,10 +1,13 @@
 ---
-title: StampInfo.Form
-second_title: Aspose.PDF for .NET API Reference
-description: StampInfo property. Gets XForm of the stamp
+title: "StampInfo.Form"
+linktitle: "Form"
+articleTitle: "Form"
+second_title: "Aspose.PDF for .NET"
+description: "Gets XForm of the stamp."
 type: docs
-weight: 10
-url: /net/aspose.pdf.facades/stampinfo/form/
+weight: 60
+url: "/net/aspose.pdf.facades/stampinfo/form/"
+product_version: "26.9.0"
 ---
 ## StampInfo.Form property
 
@@ -14,11 +17,14 @@ Gets XForm of the stamp.
 public XForm Form { get; }
 ```
 
+### Property Value
+
+[XForm](../../../aspose.pdf/xform/)
+
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
-* class [StampInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XForm](../../../aspose.pdf/xform/)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

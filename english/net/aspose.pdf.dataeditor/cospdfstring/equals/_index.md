@@ -1,31 +1,35 @@
 ---
-title: CosPdfString.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfString method. Determines that the specified object is equal to the current object
+title: "CosPdfString.Equals"
+linktitle: "Equals"
+articleTitle: "Equals"
+second_title: "Aspose.PDF for .NET"
+description: "Determines that the specified object is equal to the current object."
 type: docs
-weight: 40
-url: /net/aspose.pdf.dataeditor/cospdfstring/equals/
+weight: 60
+url: "/net/aspose.pdf.dataeditor/cospdfstring/equals/"
+product_version: "26.9.0"
 ---
-## CosPdfString.Equals method
+## Equals(object) {#equals}
 
 Determines that the specified object is equal to the current object.
 
 ```csharp
-public override bool Equals(object obj)
+public bool Equals(object obj)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | Object | The object to compare with current object. |
+| obj | object | The object to compare with current object. |
 
 ### Return Value
+
+bool
 
 True if specified object is equal to the current object; otherwise, false.
 
 ### See Also
 
-* class [CosPdfString](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

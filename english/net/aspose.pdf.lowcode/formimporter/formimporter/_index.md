@@ -1,14 +1,17 @@
 ---
-title: FormImporter.FormImporter
-second_title: Aspose.PDF for .NET API Reference
-description: FormImporter constructor. The default constructor
+title: "FormImporter.FormImporter"
+linktitle: "FormImporter"
+articleTitle: "FormImporter"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the FormImporter class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/formimporter/formimporter/
+url: "/net/aspose.pdf.lowcode/formimporter/formimporter/"
+product_version: "26.9.0"
 ---
-## FormImporter constructor
+## FormImporter() {#constructor}
 
-The default constructor.
+Initializes a new instance of the FormImporter class.
 
 ```csharp
 public FormImporter()
@@ -16,8 +19,7 @@ public FormImporter()
 
 ### See Also
 
-* class [FormImporter](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormImporter](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

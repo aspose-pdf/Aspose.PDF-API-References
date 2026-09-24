@@ -1,10 +1,13 @@
 ---
-title: IEntityId.Id
-second_title: Aspose.PDF for .NET API Reference
-description: IEntityId property. Gets or sets the ID of the entity
+title: "IEntityId.Id"
+linktitle: "Id"
+articleTitle: "Id"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the ID of the entity."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/ientityid/id/
+url: "/net/aspose.pdf.ai/ientityid/id/"
+product_version: "26.9.0"
 ---
 ## IEntityId.Id property
 
@@ -14,10 +17,13 @@ Gets or sets the ID of the entity.
 public string Id { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* interface [IEntityId](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IEntityId](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

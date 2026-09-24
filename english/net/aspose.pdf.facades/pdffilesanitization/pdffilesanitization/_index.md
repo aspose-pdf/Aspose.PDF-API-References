@@ -1,14 +1,17 @@
 ---
-title: PdfFileSanitization.PdfFileSanitization
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSanitization constructor. The default constructor
+title: "PdfFileSanitization.PdfFileSanitization"
+linktitle: "PdfFileSanitization"
+articleTitle: "PdfFileSanitization"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the PdfFileSanitization class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.facades/pdffilesanitization/pdffilesanitization/
+url: "/net/aspose.pdf.facades/pdffilesanitization/pdffilesanitization/"
+product_version: "26.9.0"
 ---
-## PdfFileSanitization constructor
+## PdfFileSanitization() {#constructor}
 
-The default constructor.
+Initializes a new instance of the PdfFileSanitization class.
 
 ```csharp
 public PdfFileSanitization()
@@ -16,8 +19,7 @@ public PdfFileSanitization()
 
 ### See Also
 
-* class [PdfFileSanitization](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

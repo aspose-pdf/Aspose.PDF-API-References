@@ -1,10 +1,13 @@
 ---
-title: Stamp.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp property. Gets or sets Horizontal alignment of stamp on the page
+title: "Stamp.HorizontalAlignment"
+linktitle: "HorizontalAlignment"
+articleTitle: "HorizontalAlignment"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets Horizontal alignment of stamp on the page."
 type: docs
-weight: 40
-url: /net/aspose.pdf/stamp/horizontalalignment/
+weight: 160
+url: "/net/aspose.pdf/stamp/horizontalalignment/"
+product_version: "26.9.0"
 ---
 ## Stamp.HorizontalAlignment property
 
@@ -14,11 +17,14 @@ Gets or sets Horizontal alignment of stamp on the page.
 public HorizontalAlignment HorizontalAlignment { get; set; }
 ```
 
+### Property Value
+
+[HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
+
 ### See Also
 
-* enum [HorizontalAlignment](../../horizontalalignment/)
-* class [Stamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

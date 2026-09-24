@@ -1,10 +1,13 @@
 ---
-title: EncryptionParameters.SubFilter
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptionParameters property. Gets the subfilter name
+title: "EncryptionParameters.SubFilter"
+linktitle: "SubFilter"
+articleTitle: "SubFilter"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the sub-filter name."
 type: docs
-weight: 100
-url: /net/aspose.pdf.security/encryptionparameters/subfilter/
+weight: 30
+url: "/net/aspose.pdf.security/encryptionparameters/subfilter/"
+product_version: "26.9.0"
 ---
 ## EncryptionParameters.SubFilter property
 
@@ -14,10 +17,13 @@ Gets the sub-filter name.
 public string SubFilter { get; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [EncryptionParameters](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
-
+* class [EncryptionParameters](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 

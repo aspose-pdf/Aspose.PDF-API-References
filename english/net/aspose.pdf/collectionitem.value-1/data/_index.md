@@ -1,23 +1,29 @@
 ---
-title: CollectionItem.Value1.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Value property. Gets a collection item value
+title: "CollectionItem.Value<T>.Data"
+linktitle: "Data"
+articleTitle: "Data"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 10
-url: /net/aspose.pdf/collectionitem.value-1/data/
+weight: 20
+url: "/net/aspose.pdf/collectionitem.value-1/data/"
+product_version: "26.9.0"
 ---
-## CollectionItem.Value&lt;T&gt;.Data property
+## CollectionItem.Value<T>.Data property
 
-Gets a collection item value.
+
 
 ```csharp
-public T Data { get; }
+public T0 Data { get; }
 ```
+
+### Property Value
+
+T0
 
 ### See Also
 
-* class [Value&lt;T&gt;](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CollectionItem.Value<T>](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

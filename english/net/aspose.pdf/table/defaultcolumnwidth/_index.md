@@ -1,10 +1,13 @@
 ---
-title: Table.DefaultColumnWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Table property. Gets default cell border
+title: "Table.DefaultColumnWidth"
+linktitle: "DefaultColumnWidth"
+articleTitle: "DefaultColumnWidth"
+second_title: "Aspose.PDF for .NET"
+description: "Gets default cell border;"
 type: docs
-weight: 130
-url: /net/aspose.pdf/table/defaultcolumnwidth/
+weight: 200
+url: "/net/aspose.pdf/table/defaultcolumnwidth/"
+product_version: "26.9.0"
 ---
 ## Table.DefaultColumnWidth property
 
@@ -14,10 +17,13 @@ Gets default cell border;
 public string DefaultColumnWidth { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [Table](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

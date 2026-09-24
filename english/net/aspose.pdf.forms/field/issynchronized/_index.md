@@ -1,10 +1,13 @@
 ---
-title: Field.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Field property. Returns true if dictionary is synchronized
+title: "Field.IsSynchronized"
+linktitle: "IsSynchronized"
+articleTitle: "IsSynchronized"
+second_title: "Aspose.PDF for .NET"
+description: "Returns true if dictionary is synchronized."
 type: docs
-weight: 70
-url: /net/aspose.pdf.forms/field/issynchronized/
+weight: 180
+url: "/net/aspose.pdf.forms/field/issynchronized/"
+product_version: "26.9.0"
 ---
 ## Field.IsSynchronized property
 
@@ -14,10 +17,13 @@ Returns true if dictionary is synchronized.
 public bool IsSynchronized { get; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [Field](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

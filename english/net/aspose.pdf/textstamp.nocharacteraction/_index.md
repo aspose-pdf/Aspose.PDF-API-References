@@ -1,10 +1,13 @@
 ---
-title: Enum TextStamp.NoCharacterAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TextStampNoCharacterAction enum. Action to perform if font does not contain required character
+title: "TextStamp.NoCharacterAction Enum"
+linktitle: "TextStamp.NoCharacterAction"
+articleTitle: "TextStamp.NoCharacterAction"
+second_title: "Aspose.PDF for .NET"
+description: "Action to perform if font does not contain required character."
 type: docs
-weight: 11500
-url: /net/aspose.pdf/textstamp.nocharacteraction/
+weight: 3040
+url: "/net/aspose.pdf/textstamp.nocharacteraction/"
+product_version: "26.9.0"
 ---
 ## TextStamp.NoCharacterAction enumeration
 
@@ -14,10 +17,10 @@ Action to perform if font does not contain required character.
 public enum NoCharacterAction
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | ThrowException | `0` | If the font does not contain all the characters of the string, an exception is thrown. |
 | UseStandardFont | `1` | Repalce font to standard font which contains required character. |
 | ReplaceAnyway | `2` | Replace text anyway without font substitution. |
@@ -25,8 +28,7 @@ public enum NoCharacterAction
 
 ### See Also
 
-* class [TextStamp](../textstamp/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [TextStamp](../textstamp/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

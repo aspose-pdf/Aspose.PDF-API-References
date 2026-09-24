@@ -1,14 +1,17 @@
 ---
-title: SplitOptions.SplitOptions
-second_title: Aspose.PDF for .NET API Reference
-description: SplitOptions constructor. The default constructor
+title: "SplitOptions.SplitOptions"
+linktitle: "SplitOptions"
+articleTitle: "SplitOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the SplitOptions class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/splitoptions/splitoptions/
+url: "/net/aspose.pdf.lowcode/splitoptions/splitoptions/"
+product_version: "26.9.0"
 ---
-## SplitOptions constructor
+## SplitOptions() {#constructor}
 
-The default constructor.
+Initializes a new instance of the SplitOptions class.
 
 ```csharp
 public SplitOptions()
@@ -16,8 +19,7 @@ public SplitOptions()
 
 ### See Also
 
-* class [SplitOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SplitOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: FormEditor.RemoveField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Remove field from the form
+title: "FormEditor.RemoveField"
+linktitle: "RemoveField"
+articleTitle: "RemoveField"
+second_title: "Aspose.PDF for .NET"
+description: "Remove field from the form."
 type: docs
-weight: 210
-url: /net/aspose.pdf.facades/formeditor/removefield/
+weight: 180
+url: "/net/aspose.pdf.facades/formeditor/removefield/"
+product_version: "26.9.0"
 ---
-## FormEditor.RemoveField method
+## RemoveField(string) {#removefield}
 
 Remove field from the form.
 
@@ -16,20 +19,11 @@ public void RemoveField(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | String | Name of the field which must be removed. |
-
-## Examples
-
-```csharp
-FormEditr formEditor = new FormEditor("PdfForm.pdf", "FormEditor_RemoveField.pdf");
-formEditor.RemoveField("listboxField");
-formEditor.RemoveField("textField");
-```
+| fieldName | string | Name of the field which must be removed. |
 
 ### See Also
 
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

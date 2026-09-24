@@ -1,14 +1,18 @@
 ---
-title: Class Security
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.Security class. Represents Security plugin
+title: "Security Class"
+linktitle: "Security"
+articleTitle: "Security"
+second_title: "Aspose.PDF for .NET"
+description: "Represents plugin."
 type: docs
-weight: 7870
-url: /net/aspose.pdf.lowcode/security/
+weight: 820
+url: "/net/aspose.pdf.lowcode/security/"
+keywords: "Security, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## Security class
 
-Represents `Security` plugin.
+Represents [`Security`](../../aspose.pdf.lowcode/security/) plugin.
 
 ```csharp
 public sealed class Security : IPlugin
@@ -18,50 +22,16 @@ public sealed class Security : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [Security](security/)() | The default constructor. |
+| [Security](./security/#constructor) | Initializes a new instance of the Security class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](../../aspose.pdf.lowcode/security/process/)(IPluginOptions) | Starts the `Security` processing with the specified parameters. |
-
-## Examples
-
-The example demonstrates how to encrypt PDF document.
-
-```csharp
-// create Security 
-var plugin = new Security();
-// create EncryptionOptions object to set instructions
-var opt = new EncryptionOptions("123456", "qwerty", DocumentPrivilege.ForbidAll));
-// add input file path
-opt.AddInput(new FileDataSource(inputPath));
-// set output file path
-opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
-plugin.Process(opt);
-```
-
-The example demonstrates how to decrypt PDF document.
-
-```csharp
-// create Security 
-var plugin = new Security();
-// create DecryptionOptions object to set instructions
-var opt = new DecryptionOptions("123456"));
-// add input file path
-opt.AddInput(new FileDataSource(inputPath));
-// set output file path
-opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
-plugin.Process(opt);
-```
+| [Process](./process/)(*IPluginOptions*) | Starts the [`Security`](../../aspose.pdf.lowcode/security/) processing with the specified parameters. |
 
 ### See Also
 
-* interface [IPlugin](../iplugin/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

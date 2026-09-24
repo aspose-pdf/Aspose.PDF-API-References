@@ -1,10 +1,14 @@
 ---
-title: Class OfdLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.OfdLoadOptions class. Load options for OFD format
+title: "OfdLoadOptions Class"
+linktitle: "OfdLoadOptions"
+articleTitle: "OfdLoadOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Load options for OFD format."
 type: docs
-weight: 8320
-url: /net/aspose.pdf/ofdloadoptions/
+weight: 2000
+url: "/net/aspose.pdf/ofdloadoptions/"
+keywords: "OfdLoadOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## OfdLoadOptions class
 
@@ -18,20 +22,19 @@ public class OfdLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [OfdLoadOptions](ofdloadoptions/)() | The default constructor. |
+| [OfdLoadOptions](./ofdloadoptions/#constructor) | Initializes a new instance of the OfdLoadOptions class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When `true`, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default `false`. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../loadoptions/) describes. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. *(Inherited from LoadOptions)* |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../../aspose.pdf/loadoptions/) describes. *(Inherited from LoadOptions)* |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. *(Inherited from LoadOptions)* |
 
 ### See Also
 
-* class [LoadOptions](../loadoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

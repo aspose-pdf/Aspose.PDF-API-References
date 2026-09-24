@@ -1,12 +1,15 @@
 ---
-title: TextBuilder.AppendText
-second_title: Aspose.PDF for .NET API Reference
-description: TextBuilder method. Appends text fragment to Pdf page
+title: "TextBuilder.AppendText"
+linktitle: "AppendText"
+articleTitle: "AppendText"
+second_title: "Aspose.PDF for .NET"
+description: "Appends text fragment to Pdf page"
 type: docs
-weight: 30
-url: /net/aspose.pdf.text/textbuilder/appendtext/
+weight: 40
+url: "/net/aspose.pdf.text/textbuilder/appendtext/"
+product_version: "26.9.0"
 ---
-## AppendText(TextFragment) {#appendtext}
+## AppendText([TextFragment](../../../aspose.pdf.text/textfragment/)) {#appendtext}
 
 Appends text fragment to Pdf page
 
@@ -18,50 +21,15 @@ public void AppendText(TextFragment textFragment)
 | --- | --- | --- |
 | textFragment | TextFragment | Text fragment object. |
 
-## Examples
-
-The example demonstrates how to create text fragment object, customize it's text segments and append it to the Pdf page.
-
-```csharp
-Document doc = new Document(inFile);
-Page page = (Page)doc.Pages[1];
-
-// create text fragment
-TextFragment tf = new TextFragment("main text");
-tf.Position = new Position(100, 600);
-
-// set it's text properties
-tf.TextState.FontSize = 5;
-tf.TextState.Font = FontRepository.FindFont("TimesNewRoman");
-tf.TextState.BackgroundColor = Color.LightGray;
-tf.TextState.ForegroundColor = Color.Red;
-
-// add one more segment to text fragment's Segments collection
-TextSegment segment2 = new TextSegment();
-segment2.Text = "another segment";
-
-tf.Segments.Add(segment2);
-
-// create TextBuilder object
-TextBuilder builder = new TextBuilder(page);
-
-// append the text fragment to the Pdf page
-builder.AppendText(tf);
-
-//save document
-doc.Save(outFile);
-```
-
 ### See Also
 
-* class [TextFragment](../../textfragment/)
-* class [TextBuilder](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AppendText(List&lt;TextFragment&gt;) {#appendtext_1}
+## AppendText(List<TextFragment>) {#appendtext_1}
 
 Appends list of text fragments to Pdf page.
 
@@ -71,13 +39,11 @@ public void AppendText(List<TextFragment> textFragments)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textFragments | List`1 | Collection of text fragments |
+| textFragments | List<TextFragment> | Collection of text fragments |
 
 ### See Also
 
-* class [TextFragment](../../textfragment/)
-* class [TextBuilder](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class PdfOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.PdfOutputGenerator class. Represents a class for generating PDF representation of texts differences
+title: "PdfOutputGenerator Class"
+linktitle: "PdfOutputGenerator"
+articleTitle: "PdfOutputGenerator"
+second_title: "Aspose.PDF for .NET"
+description: "Represents a class for generating PDF representation of texts differences."
 type: docs
-weight: 3400
-url: /net/aspose.pdf.comparison/pdfoutputgenerator/
+weight: 170
+url: "/net/aspose.pdf.comparison/pdfoutputgenerator/"
+keywords: "PdfOutputGenerator, Aspose.Pdf.Comparison, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## PdfOutputGenerator class
 
@@ -18,22 +22,20 @@ public class PdfOutputGenerator : IFileOutputGenerator
 
 | Name | Description |
 | --- | --- |
-| [PdfOutputGenerator](pdfoutputgenerator/#constructor)() | Cteates an instance of `PdfOutputGenerator` class. |
-| [PdfOutputGenerator](pdfoutputgenerator/#constructor_1)(OutputTextStyle) | Cteates an instance of `PdfOutputGenerator` class. |
-| [PdfOutputGenerator](pdfoutputgenerator/#constructor_3)(PageInfo) | Cteates an instance of `PdfOutputGenerator` class. |
-| [PdfOutputGenerator](pdfoutputgenerator/#constructor_2)(OutputTextStyle, PageInfo) | Cteates an instance of `PdfOutputGenerator` class. |
+| [PdfOutputGenerator](./pdfoutputgenerator/#constructor) | Cteates an instance of [`PdfOutputGenerator`](../../aspose.pdf.comparison/pdfoutputgenerator/) class. |
+| [PdfOutputGenerator](./pdfoutputgenerator/#constructor_1)(*[PageInfo](../../aspose.pdf/pageinfo/)*) | Cteates an instance of [`PdfOutputGenerator`](../../aspose.pdf.comparison/pdfoutputgenerator/) class. |
+| [PdfOutputGenerator](./pdfoutputgenerator/#constructor_2)(*[OutputTextStyle](../../aspose.pdf.comparison/outputtextstyle/)*) | Cteates an instance of [`PdfOutputGenerator`](../../aspose.pdf.comparison/pdfoutputgenerator/) class. |
+| [PdfOutputGenerator](./pdfoutputgenerator/#constructor_3)(*[OutputTextStyle](../../aspose.pdf.comparison/outputtextstyle/), [PageInfo](../../aspose.pdf/pageinfo/)*) | Cteates an instance of [`PdfOutputGenerator`](../../aspose.pdf.comparison/pdfoutputgenerator/) class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GenerateOutput](../../aspose.pdf.comparison/pdfoutputgenerator/generateoutput/#generateoutput)(List&lt;DiffOperation&gt;, string) | Generates the output based on the differences between texts and saves it to a file. |
-| [GenerateOutput](../../aspose.pdf.comparison/pdfoutputgenerator/generateoutput/#generateoutput_1)(List&lt;List&lt;DiffOperation&gt;&gt;, string) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(*List<DiffOperation>, string*) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(*List<List<DiffOperation>>, string*) | Generates the output based on the differences between texts and saves it to a file. |
 
 ### See Also
 
-* interface [IFileOutputGenerator](../ifileoutputgenerator/)
-* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
 

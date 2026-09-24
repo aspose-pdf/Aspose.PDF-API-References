@@ -1,14 +1,17 @@
 ---
-title: TextExtractor.TextExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractor constructor. The default constructor
+title: "TextExtractor.TextExtractor"
+linktitle: "TextExtractor"
+articleTitle: "TextExtractor"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the TextExtractor class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/textextractor/textextractor/
+url: "/net/aspose.pdf.lowcode/textextractor/textextractor/"
+product_version: "26.9.0"
 ---
-## TextExtractor constructor
+## TextExtractor() {#constructor}
 
-The default constructor.
+Initializes a new instance of the TextExtractor class.
 
 ```csharp
 public TextExtractor()
@@ -16,8 +19,7 @@ public TextExtractor()
 
 ### See Also
 
-* class [TextExtractor](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextExtractor](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

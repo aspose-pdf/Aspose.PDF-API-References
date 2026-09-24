@@ -1,12 +1,15 @@
 ---
-title: XForm.GetResources
-second_title: Aspose.PDF for .NET API Reference
-description: XForm method. Returns resources of Form XObject
+title: "XForm.GetResources"
+linktitle: "GetResources"
+articleTitle: "GetResources"
+second_title: "Aspose.PDF for .NET"
+description: "Returns resources of Form X-Object"
 type: docs
-weight: 130
-url: /net/aspose.pdf/xform/getresources/
+weight: 10
+url: "/net/aspose.pdf/xform/getresources/"
+product_version: "26.9.0"
 ---
-## GetResources(bool) {#getresources_1}
+## GetResources(bool) {#getresources}
 
 Returns resources of Form X-Object
 
@@ -16,22 +19,24 @@ public Resources GetResources(bool allowCreate)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| allowCreate | Boolean | If For does not have resources and allowCreate is true, Resources will be automatically created for the form. |
+| allowCreate | bool | If For does not have resources and allowCreate is true, Resources will be automatically created for the form. |
 
 ### Return Value
+
+[Resources](../../../aspose.pdf/resources/)
 
 Resources.
 
 ### See Also
 
-* class [Resources](../../resources/)
-* class [XForm](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Resources](../../../aspose.pdf/resources/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetResources() {#getresources}
+## GetResources() {#getresources_1}
 
 Returns resources of Form X-Object. If For does not have resources and allowCreate is true, Resources will be automatically created for the form.
 
@@ -41,13 +46,14 @@ public Resources GetResources()
 
 ### Return Value
 
+[Resources](../../../aspose.pdf/resources/)
+
 Resources object
 
 ### See Also
 
-* class [Resources](../../resources/)
-* class [XForm](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Resources](../../../aspose.pdf/resources/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

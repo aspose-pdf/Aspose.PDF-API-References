@@ -1,23 +1,29 @@
 ---
-title: OfdToPdfOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: OfdToPdfOptions property. Gets the name of the operation
+title: "OfdToPdfOptions.OperationName"
+linktitle: "OperationName"
+articleTitle: "OperationName"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the name of the operation."
 type: docs
-weight: 30
-url: /net/aspose.pdf.lowcode/ofdtopdfoptions/operationname/
+weight: 20
+url: "/net/aspose.pdf.lowcode/ofdtopdfoptions/operationname/"
+product_version: "26.9.0"
 ---
 ## OfdToPdfOptions.OperationName property
 
 Gets the name of the operation.
 
 ```csharp
-public override string OperationName { get; }
+public string OperationName { get; }
 ```
+
+### Property Value
+
+string
 
 ### See Also
 
-* class [OfdToPdfOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OfdToPdfOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

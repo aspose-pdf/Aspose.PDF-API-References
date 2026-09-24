@@ -1,43 +1,31 @@
 ---
-title: Font.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: Font property. Gets font name of the Font object
+title: "Font.FontName"
+linktitle: "FontName"
+articleTitle: "FontName"
+second_title: "Aspose.PDF for .NET"
+description: "Gets font name of the object."
 type: docs
-weight: 30
-url: /net/aspose.pdf.text/font/fontname/
+weight: 40
+url: "/net/aspose.pdf.text/font/fontname/"
+product_version: "26.9.0"
 ---
 ## Font.FontName property
 
-Gets font name of the [`Font`](../) object.
+Gets font name of the [`Font`](../../../aspose.pdf.text/font/) object.
 
 ```csharp
 public string FontName { get; }
 ```
 
-## Examples
+### Property Value
 
-The example demonstrates how to search text on first page and view font name of a first text occurrence.
-
-```csharp
-// Open document
-Document doc = new Document(@"D:\Tests\input.pdf");
-
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
-TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-
-// Accept the absorber for first page
-doc.Pages[1].Accept(absorber);
-
-// View font name of first text occurrence
-Console.Out.WriteLine(absorber.TextFragments[1].TextState.Font.FontName); 
-```
+string
 
 ### See Also
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber/)
-* class [Document](../../../aspose.pdf/document/)
-* class [Font](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* [TextFragmentAbsorber](../textfragmentabsorber/)
+* [Document](../document/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

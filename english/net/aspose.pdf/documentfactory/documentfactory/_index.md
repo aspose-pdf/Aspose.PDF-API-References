@@ -1,14 +1,17 @@
 ---
-title: DocumentFactory.DocumentFactory
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentFactory constructor. The default constructor
+title: "DocumentFactory.DocumentFactory"
+linktitle: "DocumentFactory"
+articleTitle: "DocumentFactory"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the DocumentFactory class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/documentfactory/documentfactory/
+url: "/net/aspose.pdf/documentfactory/documentfactory/"
+product_version: "26.9.0"
 ---
-## DocumentFactory constructor
+## DocumentFactory() {#constructor}
 
-The default constructor.
+Initializes a new instance of the DocumentFactory class.
 
 ```csharp
 public DocumentFactory()
@@ -16,8 +19,7 @@ public DocumentFactory()
 
 ### See Also
 
-* class [DocumentFactory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,17 @@
 ---
-title: PageSettings.PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettings constructor. Initializes a new instance of the PageSettings class using the default printer
+title: "PageSettings.PageSettings"
+linktitle: "PageSettings"
+articleTitle: "PageSettings"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the PageSettings class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.printing/pagesettings/pagesettings/
+url: "/net/aspose.pdf.printing/pagesettings/pagesettings/"
+product_version: "26.9.0"
 ---
 ## PageSettings() {#constructor}
 
-Initializes a new instance of the [`PageSettings`](../) class using the default printer.
+Initializes a new instance of the [`PageSettings`](../../../aspose.pdf.printing/pagesettings/) class using the default printer.
 
 ```csharp
 public PageSettings()
@@ -16,15 +19,15 @@ public PageSettings()
 
 ### See Also
 
-* class [PageSettings](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PageSettings(PrinterSettings) {#constructor_1}
+## PageSettings([PrinterSettings](../../../aspose.pdf.printing/printersettings/)) {#constructor_1}
 
-Initializes a new instance of the [`PageSettings`](../) class using the specified printer.
+Initializes a new instance of the [`PageSettings`](../../../aspose.pdf.printing/pagesettings/) class using the specified printer.
 
 ```csharp
 public PageSettings(PrinterSettings printerSettings)
@@ -32,19 +35,17 @@ public PageSettings(PrinterSettings printerSettings)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| printerSettings | PrinterSettings | [`PrinterSettings`](../printersettings/) object |
+| printerSettings | PrinterSettings | <see cref="P:Aspose.Pdf.Printing.PageSettings.PrinterSettings" /> object |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | *printerSettings* is null. |
+| ArgumentNullException | is null. |
 
 ### See Also
 
-* class [PrinterSettings](../../printersettings/)
-* class [PageSettings](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

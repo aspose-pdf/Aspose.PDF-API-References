@@ -1,10 +1,13 @@
 ---
-title: DocumentInfo.Creator
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo property. Gets or sets document creator
+title: "DocumentInfo.Creator"
+linktitle: "Creator"
+articleTitle: "Creator"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets document creator."
 type: docs
-weight: 50
-url: /net/aspose.pdf/documentinfo/creator/
+weight: 80
+url: "/net/aspose.pdf/documentinfo/creator/"
+product_version: "26.9.0"
 ---
 ## DocumentInfo.Creator property
 
@@ -14,10 +17,13 @@ Gets or sets document creator.
 public string Creator { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [DocumentInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

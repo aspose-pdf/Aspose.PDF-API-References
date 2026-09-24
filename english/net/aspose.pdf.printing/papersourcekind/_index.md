@@ -1,10 +1,13 @@
 ---
-title: Enum PaperSourceKind
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PaperSourceKind enum. Standard paper sources
+title: "PaperSourceKind Enum"
+linktitle: "PaperSourceKind"
+articleTitle: "PaperSourceKind"
+second_title: "Aspose.PDF for .NET"
+description: "Standard paper sources."
 type: docs
-weight: 9910
-url: /net/aspose.pdf.printing/papersourcekind/
+weight: 120
+url: "/net/aspose.pdf.printing/papersourcekind/"
+product_version: "26.9.0"
 ---
 ## PaperSourceKind enumeration
 
@@ -14,10 +17,10 @@ Standard paper sources.
 public enum PaperSourceKind
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Upper | `1` | The upper bin of a printer (or, if the printer only has one bin, the only bin). |
 | Lower | `2` | The lower bin of a printer. |
 | Middle | `3` | The middle bin of a printer. |
@@ -35,7 +38,6 @@ public enum PaperSourceKind
 
 ### See Also
 
-* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
 

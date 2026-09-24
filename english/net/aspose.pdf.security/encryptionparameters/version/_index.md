@@ -1,10 +1,13 @@
 ---
-title: EncryptionParameters.Version
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptionParameters property. Gets the handler or encryption algorithm version
+title: "EncryptionParameters.Version"
+linktitle: "Version"
+articleTitle: "Version"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the handler or encryption algorithm version."
 type: docs
-weight: 120
-url: /net/aspose.pdf.security/encryptionparameters/version/
+weight: 70
+url: "/net/aspose.pdf.security/encryptionparameters/version/"
+product_version: "26.9.0"
 ---
 ## EncryptionParameters.Version property
 
@@ -14,10 +17,13 @@ Gets the handler or encryption algorithm version.
 public int Version { get; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [EncryptionParameters](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
-
+* class [EncryptionParameters](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 

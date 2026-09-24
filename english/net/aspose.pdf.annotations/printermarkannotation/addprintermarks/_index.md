@@ -1,17 +1,23 @@
 ---
-title: PrinterMarkAnnotation.AddPrinterMarks
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterMarkAnnotation method. Adds printers marks to all pages in the specified document
+title: "PrinterMarkAnnotation.AddPrinterMarks"
+linktitle: "AddPrinterMarks"
+articleTitle: "AddPrinterMarks"
+second_title: "Aspose.PDF for .NET"
+description: "Adds printer's marks to all pages in the specified document."
 type: docs
-weight: 10
-url: /net/aspose.pdf.annotations/printermarkannotation/addprintermarks/
+weight: 50
+url: "/net/aspose.pdf.annotations/printermarkannotation/addprintermarks/"
+product_version: "26.9.0"
 ---
-## AddPrinterMarks(Document, PrinterMarksKind) {#addprintermarks}
+## AddPrinterMarks([Document](../../../aspose.pdf/document/), [PrinterMarksKind](../../../aspose.pdf.annotations/printermarkskind/)) {#addprintermarks}
 
 Adds printer's marks to all pages in the specified document.
 
+This method adds various types of printer's marks based on the provided [`PrinterMarksKind`](../../../aspose.pdf.annotations/printermarkskind/) flags. 
+ If `None` is provided, no marks are added.
+
 ```csharp
-public static void AddPrinterMarks(Document document, PrinterMarksKind marksKind)
+public void AddPrinterMarks(Document document, PrinterMarksKind marksKind)
 ```
 
 | Parameter | Type | Description |
@@ -23,28 +29,25 @@ public static void AddPrinterMarks(Document document, PrinterMarksKind marksKind
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | Thrown when the *document* is null. |
-
-## Remarks
-
-This method adds various types of printer's marks based on the provided [`PrinterMarksKind`](../../printermarkskind/) flags. If None is provided, no marks are added.
+| ArgumentNullException | Thrown when the is null. |
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* enum [PrinterMarksKind](../../printermarkskind/)
-* class [PrinterMarkAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [PrinterMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddPrinterMarks(Page, PrinterMarksKind) {#addprintermarks_1}
+## AddPrinterMarks([Page](../../../aspose.pdf/page/), [PrinterMarksKind](../../../aspose.pdf.annotations/printermarkskind/)) {#addprintermarks_1}
 
 Adds printer's marks to the specified page.
 
+This method adds various types of printer's marks based on the provided [`PrinterMarksKind`](../../../aspose.pdf.annotations/printermarkskind/) flags. 
+ If `None` is provided, no marks are added.
+
 ```csharp
-public static void AddPrinterMarks(Page page, PrinterMarksKind marksKind)
+public void AddPrinterMarks(Page page, PrinterMarksKind marksKind)
 ```
 
 | Parameter | Type | Description |
@@ -56,18 +59,11 @@ public static void AddPrinterMarks(Page page, PrinterMarksKind marksKind)
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | Thrown when the *page* is null. |
-
-## Remarks
-
-This method adds various types of printer's marks based on the provided [`PrinterMarksKind`](../../printermarkskind/) flags. If None is provided, no marks are added.
+| ArgumentNullException | Thrown when the is null. |
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* enum [PrinterMarksKind](../../printermarkskind/)
-* class [PrinterMarkAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrinterMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Table.Rows
-second_title: Aspose.PDF for .NET API Reference
-description: Table property. Gets the rows of the table
+title: "Table.Rows"
+linktitle: "Rows"
+articleTitle: "Rows"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the rows of the table."
 type: docs
-weight: 200
-url: /net/aspose.pdf/table/rows/
+weight: 210
+url: "/net/aspose.pdf/table/rows/"
+product_version: "26.9.0"
 ---
 ## Table.Rows property
 
@@ -14,11 +17,14 @@ Gets the rows of the table.
 public Rows Rows { get; }
 ```
 
+### Property Value
+
+[Rows](../../../aspose.pdf/rows/)
+
 ### See Also
 
-* class [Rows](../../rows/)
-* class [Table](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rows](../../../aspose.pdf/rows/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,37 +1,38 @@
 ---
-title: PageExtensions.DuplicateIntersectingGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: PageExtensions method. Finds all vector graphic elements that intersect with the specified region and creates their copies with offset from original positions
+title: "PageExtensions.DuplicateIntersectingGraphics"
+linktitle: "DuplicateIntersectingGraphics"
+articleTitle: "DuplicateIntersectingGraphics"
+second_title: "Aspose.PDF for .NET"
+description: "Finds all vector graphic elements that intersect with the specified region and creates their copies with offset from original positions."
 type: docs
 weight: 10
-url: /net/aspose.pdf/pageextensions/duplicateintersectinggraphics/
+url: "/net/aspose.pdf/pageextensions/duplicateintersectinggraphics/"
+product_version: "26.9.0"
 ---
-## PageExtensions.DuplicateIntersectingGraphics method
+## DuplicateIntersectingGraphics([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), double, double) {#duplicateintersectinggraphics}
 
-Finds all vector graphic elements that intersect with the specified region and creates their copies with offset from original positions.
+Finds all vector graphic elements that intersect with the specified region
+ and creates their copies with offset from original positions.
+
+This method works only with vector graphics (lines, shapes, Bezier curves, etc.).
+ Raster images and other types of elements are not processed.
+ Each copied element will be shifted by the specified dx and dy values relative to its original position.
+ The original elements remain unchanged.
 
 ```csharp
-public static void DuplicateIntersectingGraphics(this Page page, Rectangle region, double deltaX, 
-    double deltaY)
+public void DuplicateIntersectingGraphics(Page page, Rectangle region, double deltaX, double deltaY)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | Page | The page where graphic elements are searched and copied to. |
 | region | Rectangle | The rectangular region to search for intersecting elements. |
-| deltaX | Double | Offset along the X axis for copied elements. |
-| deltaY | Double | Offset along the Y axis for copied elements. |
-
-## Remarks
-
-This method works only with vector graphics (lines, shapes, Bezier curves, etc.). Raster images and other types of elements are not processed. Each copied element will be shifted by the specified dx and dy values relative to its original position. The original elements remain unchanged.
+| deltaX | double | Offset along the X axis for copied elements. |
+| deltaY | double | Offset along the Y axis for copied elements. |
 
 ### See Also
 
-* class [Page](../../page/)
-* class [Rectangle](../../rectangle/)
-* class [PageExtensions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageExtensions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

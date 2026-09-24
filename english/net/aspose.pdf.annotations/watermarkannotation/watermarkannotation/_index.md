@@ -1,12 +1,15 @@
 ---
-title: WatermarkAnnotation.WatermarkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: WatermarkAnnotation constructor. Constructor for Watermark annotation class
+title: "WatermarkAnnotation.WatermarkAnnotation"
+linktitle: "WatermarkAnnotation"
+articleTitle: "WatermarkAnnotation"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the WatermarkAnnotation class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/watermarkannotation/watermarkannotation/
+url: "/net/aspose.pdf.annotations/watermarkannotation/watermarkannotation/"
+product_version: "26.9.0"
 ---
-## WatermarkAnnotation constructor
+## WatermarkAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
 
 Constructor for Watermark annotation class.
 
@@ -21,10 +24,7 @@ public WatermarkAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [WatermarkAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [WatermarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

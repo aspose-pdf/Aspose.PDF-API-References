@@ -1,12 +1,15 @@
 ---
-title: Metadata.RegisterNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata method. Registers namespace URI
+title: "Metadata.RegisterNamespaceUri"
+linktitle: "RegisterNamespaceUri"
+articleTitle: "RegisterNamespaceUri"
+second_title: "Aspose.PDF for .NET"
+description: "Registers namespace URI."
 type: docs
-weight: 190
-url: /net/aspose.pdf/metadata/registernamespaceuri/
+weight: 10
+url: "/net/aspose.pdf/metadata/registernamespaceuri/"
+product_version: "26.9.0"
 ---
-## RegisterNamespaceUri(string, string) {#registernamespaceuri}
+## RegisterNamespaceUri(string, string) {#registernamespaceuri}
 
 Registers namespace URI.
 
@@ -16,18 +19,18 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| prefix | String | The value of prefix. |
-| namespaceUri | String | The value of namespace URI. |
+| prefix | string | The value of prefix. |
+| namespaceUri | string | The value of namespace URI. |
 
 ### See Also
 
-* class [Metadata](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## RegisterNamespaceUri(string, string, string) {#registernamespaceuri_1}
+## RegisterNamespaceUri(string, string, string) {#registernamespaceuri_1}
 
 Registers namespace URI.
 
@@ -37,14 +40,13 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri, string sche
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| prefix | String | The value of prefix. |
-| namespaceUri | String | The value of namespace URI. |
-| schemaDescription | String | The value of schema description. |
+| prefix | string | The value of prefix. |
+| namespaceUri | string | The value of namespace URI. |
+| schemaDescription | string | The value of schema description. |
 
 ### See Also
 
-* class [Metadata](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

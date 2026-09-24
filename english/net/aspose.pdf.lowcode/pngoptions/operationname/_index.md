@@ -1,23 +1,29 @@
 ---
-title: PngOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: PngOptions property. Returns name of the operation
+title: "PngOptions.OperationName"
+linktitle: "OperationName"
+articleTitle: "OperationName"
+second_title: "Aspose.PDF for .NET"
+description: "Returns name of the operation."
 type: docs
 weight: 20
-url: /net/aspose.pdf.lowcode/pngoptions/operationname/
+url: "/net/aspose.pdf.lowcode/pngoptions/operationname/"
+product_version: "26.9.0"
 ---
 ## PngOptions.OperationName property
 
 Returns name of the operation.
 
 ```csharp
-public override string OperationName { get; }
+public string OperationName { get; }
 ```
+
+### Property Value
+
+string
 
 ### See Also
 
-* class [PngOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PngOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

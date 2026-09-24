@@ -1,12 +1,15 @@
 ---
-title: MovieAnnotation.MovieAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: MovieAnnotation constructor. Constructor for using with Generator
+title: "MovieAnnotation.MovieAnnotation"
+linktitle: "MovieAnnotation"
+articleTitle: "MovieAnnotation"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the MovieAnnotation class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/movieannotation/movieannotation/
+url: "/net/aspose.pdf.annotations/movieannotation/movieannotation/"
+product_version: "26.9.0"
 ---
-## MovieAnnotation(Document, string) {#constructor}
+## MovieAnnotation([Document](../../../aspose.pdf/document/), string) {#constructor}
 
 Constructor for using with Generator.
 
@@ -17,18 +20,17 @@ public MovieAnnotation(Document document, string movieFile)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | Document | Document where movie annotation will be created. |
-| movieFile | String | Name of movie file. |
+| movieFile | string | Name of movie file. |
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [MovieAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MovieAnnotation(Page, Rectangle, string) {#constructor_1}
+## MovieAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), string) {#constructor_1}
 
 Creates new Sound annotation on the specified page.
 
@@ -40,14 +42,11 @@ public MovieAnnotation(Page page, Rectangle rect, string movieFile)
 | --- | --- | --- |
 | page | Page | The document's page where annotation should be created. |
 | rect | Rectangle | The annotation rectangle, defining the location of the annotation on the page. |
-| movieFile | String | A movie file to be played when the annotation is activated. |
+| movieFile | string | A movie file to be played when the annotation is activated. |
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [MovieAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

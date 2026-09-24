@@ -1,10 +1,13 @@
 ---
-title: SaveOptions.BorderInfo.RightStyleIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo field. Represents right partif any of border
+title: "SaveOptions.BorderInfo.RightStyleIfAny"
+linktitle: "RightStyleIfAny"
+articleTitle: "RightStyleIfAny"
+second_title: "Aspose.PDF for .NET"
+description: "Represents right part(if any) of border"
 type: docs
-weight: 40
-url: /net/aspose.pdf/saveoptions.borderinfo/rightstyleifany/
+weight: 50
+url: "/net/aspose.pdf/saveoptions.borderinfo/rightstyleifany/"
+product_version: "26.9.0"
 ---
 ## SaveOptions.BorderInfo.RightStyleIfAny field
 
@@ -16,9 +19,7 @@ public BorderPartStyle RightStyleIfAny;
 
 ### See Also
 
-* class [BorderPartStyle](../../saveoptions.borderpartstyle/)
-* class [BorderInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SaveOptions.BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

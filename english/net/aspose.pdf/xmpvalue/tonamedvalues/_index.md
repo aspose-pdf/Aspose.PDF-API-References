@@ -1,12 +1,15 @@
 ---
-title: XmpValue.ToNamedValues
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue method. Returns XMP value as named value collection
+title: "XmpValue.ToNamedValues"
+linktitle: "ToNamedValues"
+articleTitle: "ToNamedValues"
+second_title: "Aspose.PDF for .NET"
+description: "Returns XMP value as named value collection."
 type: docs
-weight: 190
-url: /net/aspose.pdf/xmpvalue/tonamedvalues/
+weight: 150
+url: "/net/aspose.pdf/xmpvalue/tonamedvalues/"
+product_version: "26.9.0"
 ---
-## XmpValue.ToNamedValues method
+## ToNamedValues() {#tonamedvalues}
 
 Returns XMP value as named value collection.
 
@@ -16,12 +19,13 @@ public KeyValuePair<string, XmpValue>[] ToNamedValues()
 
 ### Return Value
 
+KeyValuePair<string, XmpValue>[]
+
 Named collection value.
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

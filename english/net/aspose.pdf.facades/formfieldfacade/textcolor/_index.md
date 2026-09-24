@@ -1,10 +1,13 @@
 ---
-title: FormFieldFacade.TextColor
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade property. The color of the field text
+title: "FormFieldFacade.TextColor"
+linktitle: "TextColor"
+articleTitle: "TextColor"
+second_title: "Aspose.PDF for .NET"
+description: "The color of the field text."
 type: docs
-weight: 180
-url: /net/aspose.pdf.facades/formfieldfacade/textcolor/
+weight: 90
+url: "/net/aspose.pdf.facades/formfieldfacade/textcolor/"
+product_version: "26.9.0"
 ---
 ## FormFieldFacade.TextColor property
 
@@ -14,10 +17,14 @@ The color of the field text.
 public Color TextColor { get; set; }
 ```
 
+### Property Value
+
+[Color](../../../aspose.pdf/color/)
+
 ### See Also
 
-* class [FormFieldFacade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

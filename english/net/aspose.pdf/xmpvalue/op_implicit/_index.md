@@ -1,127 +1,134 @@
 ---
-title: XmpValue.op_Implicit
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue method. Converts string to XmpValue
+title: "XmpValue.op_Implicit"
+linktitle: "op_Implicit"
+articleTitle: "op_Implicit"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 250
-url: /net/aspose.pdf/xmpvalue/op_implicit/
+weight: 190
+url: "/net/aspose.pdf/xmpvalue/op_implicit/"
+product_version: "26.9.0"
 ---
-## implicit operator {#op_implicit_4}
+## op_Implicit(string) {#op_implicit}
 
-Converts string to XmpValue.
+
 
 ```csharp
-public static implicit operator XmpValue(string value)
+public XmpValue op_Implicit(string value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | String | Value to convert. |
+| value | string |  |
 
 ### Return Value
 
-XmlValue.
+[XmpValue](../../../aspose.pdf/xmpvalue/)
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## implicit operator {#op_implicit_1}
+## op_Implicit(int) {#op_implicit_1}
 
-Converts integer into XmpValue.
+
 
 ```csharp
-public static implicit operator XmpValue(int value)
+public XmpValue op_Implicit(int value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | Int32 | Value to convert. |
+| value | int |  |
 
 ### Return Value
 
-XmlValue.
+[XmpValue](../../../aspose.pdf/xmpvalue/)
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## implicit operator {#op_implicit}
+## op_Implicit(double) {#op_implicit_2}
 
-Converts double into XmpValue.
+
 
 ```csharp
-public static implicit operator XmpValue(double value)
+public XmpValue op_Implicit(double value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | Double | Value to convert. |
+| value | double |  |
 
 ### Return Value
 
-XmlValue.
+[XmpValue](../../../aspose.pdf/xmpvalue/)
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## implicit operator {#op_implicit_2}
+## op_Implicit(DateTime) {#op_implicit_3}
 
-Converts DateTime into XmpValue.
+
 
 ```csharp
-public static implicit operator XmpValue(DateTime value)
+public XmpValue op_Implicit(DateTime value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | DateTime | Value to convert. |
+| value | DateTime |  |
 
 ### Return Value
 
-XmlValue.
+[XmpValue](../../../aspose.pdf/xmpvalue/)
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## implicit operator {#op_implicit_3}
+## op_Implicit(object[]) {#op_implicit_4}
 
-Converts array to XmpValue.
+
 
 ```csharp
-public static implicit operator XmpValue(object[] value)
+public XmpValue op_Implicit(object[] value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | Object[] | Value to convert. |
+| value | object[] |  |
 
 ### Return Value
 
-XmlValue.
+[XmpValue](../../../aspose.pdf/xmpvalue/)
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

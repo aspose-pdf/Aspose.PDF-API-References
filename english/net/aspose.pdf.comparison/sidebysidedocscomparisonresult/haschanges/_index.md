@@ -1,10 +1,13 @@
 ---
-title: SideBySideDocsComparisonResult.HasChanges
-second_title: Aspose.PDF for .NET API Reference
-description: SideBySideDocsComparisonResult property. Gets the value indicates whether there are any changes between the compared documents
+title: "SideBySideDocsComparisonResult.HasChanges"
+linktitle: "HasChanges"
+articleTitle: "HasChanges"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the value indicates whether there are any changes between the compared documents."
 type: docs
-weight: 40
-url: /net/aspose.pdf.comparison/sidebysidedocscomparisonresult/haschanges/
+weight: 20
+url: "/net/aspose.pdf.comparison/sidebysidedocscomparisonresult/haschanges/"
+product_version: "26.9.0"
 ---
 ## SideBySideDocsComparisonResult.HasChanges property
 
@@ -14,10 +17,13 @@ Gets the value indicates whether there are any changes between the compared docu
 public bool HasChanges { get; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [SideBySideDocsComparisonResult](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SideBySideDocsComparisonResult](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

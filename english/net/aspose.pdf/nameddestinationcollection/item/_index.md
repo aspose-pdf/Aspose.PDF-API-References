@@ -1,32 +1,30 @@
 ---
-title: NamedDestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: NamedDestinationCollection property. Gets or sets appointment by its name
+title: "NamedDestinationCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 20
-url: /net/aspose.pdf/nameddestinationcollection/item/
+weight: 30
+url: "/net/aspose.pdf/nameddestinationcollection/item/"
+product_version: "26.9.0"
 ---
-## NamedDestinationCollection indexer
+## NamedDestinationCollection.Item property
 
-Gets or sets appointment by its name.
+
 
 ```csharp
-public IAppointment this[string name] { get; set; }
+public IAppointment Item { get; set; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| name | Name of the appointment. |
+### Property Value
 
-### Return Value
-
-Appoitnemt
+[IAppointment](../../../aspose.pdf.annotations/iappointment/)
 
 ### See Also
 
-* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* class [NamedDestinationCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* class [NamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

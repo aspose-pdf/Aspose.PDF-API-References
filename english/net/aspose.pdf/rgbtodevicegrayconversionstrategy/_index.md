@@ -1,10 +1,14 @@
 ---
-title: Class RgbToDeviceGrayConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.RgbToDeviceGrayConversionStrategy class. Represents rgb to device gray color spaces conversion strategy
+title: "RgbToDeviceGrayConversionStrategy Class"
+linktitle: "RgbToDeviceGrayConversionStrategy"
+articleTitle: "RgbToDeviceGrayConversionStrategy"
+second_title: "Aspose.PDF for .NET"
+description: "Represents rgb to device gray color spaces conversion strategy."
 type: docs
-weight: 10090
-url: /net/aspose.pdf/rgbtodevicegrayconversionstrategy/
+weight: 2690
+url: "/net/aspose.pdf/rgbtodevicegrayconversionstrategy/"
+keywords: "RgbToDeviceGrayConversionStrategy, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## RgbToDeviceGrayConversionStrategy class
 
@@ -18,18 +22,16 @@ public class RgbToDeviceGrayConversionStrategy : IColorSpaceConversionStrategy
 
 | Name | Description |
 | --- | --- |
-| [RgbToDeviceGrayConversionStrategy](rgbtodevicegrayconversionstrategy/)() | The default constructor. |
+| [RgbToDeviceGrayConversionStrategy](./rgbtodevicegrayconversionstrategy/#constructor) | Initializes a new instance of the RgbToDeviceGrayConversionStrategy class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Convert](../../aspose.pdf/rgbtodevicegrayconversionstrategy/convert/)(Page) | Converts the page of document. |
+| [Convert](./convert/)(*Page*) | Converts the page of document. |
 
 ### See Also
 
-* interface [IColorSpaceConversionStrategy](../icolorspaceconversionstrategy/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

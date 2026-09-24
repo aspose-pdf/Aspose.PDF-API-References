@@ -1,10 +1,13 @@
 ---
-title: Document.PdfFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Document property. Gets PDF format
+title: "Document.PdfFormat"
+linktitle: "PdfFormat"
+articleTitle: "PdfFormat"
+second_title: "Aspose.PDF for .NET"
+description: "Gets PDF format"
 type: docs
-weight: 500
-url: /net/aspose.pdf/document/pdfformat/
+weight: 1190
+url: "/net/aspose.pdf/document/pdfformat/"
+product_version: "26.9.0"
 ---
 ## Document.PdfFormat property
 
@@ -14,11 +17,14 @@ Gets PDF format
 public PdfFormat PdfFormat { get; }
 ```
 
+### Property Value
+
+[PdfFormat](../../../aspose.pdf/pdfformat/)
+
 ### See Also
 
-* enum [PdfFormat](../../pdfformat/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFormat](../../../aspose.pdf/pdfformat/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: FontCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection method. Checks if font exists in font collection
+title: "FontCollection.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET"
+description: "Checks if font exists in font collection."
 type: docs
-weight: 70
-url: /net/aspose.pdf.text/fontcollection/contains/
+weight: 40
+url: "/net/aspose.pdf.text/fontcollection/contains/"
+product_version: "26.9.0"
 ---
-## Contains(string) {#contains_1}
+## Contains(string) {#contains}
 
 Checks if font exists in font collection.
 
@@ -16,21 +19,23 @@ public bool Contains(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | Font name. |
+| name | string | Font name. |
 
 ### Return Value
+
+bool
 
 True in case collection contains the font with specified name.
 
 ### See Also
 
-* class [FontCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Contains(Font) {#contains}
+## Contains([Font](../../../aspose.pdf.text/font/)) {#contains_1}
 
 Determines whether the collection contains a specific value.
 
@@ -44,13 +49,13 @@ public bool Contains(Font item)
 
 ### Return Value
 
+bool
+
 true if item is found in the collection; otherwise, false.
 
 ### See Also
 
-* class [Font](../../font/)
-* class [FontCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

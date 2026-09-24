@@ -1,10 +1,13 @@
 ---
-title: Form.FormSubmitButtonNames
-second_title: Aspose.PDF for .NET API Reference
-description: Form property. Gets all form submit button names
+title: "Form.FormSubmitButtonNames"
+linktitle: "FormSubmitButtonNames"
+articleTitle: "FormSubmitButtonNames"
+second_title: "Aspose.PDF for .NET"
+description: "Gets all form submit button names."
 type: docs
-weight: 40
-url: /net/aspose.pdf.facades/form/formsubmitbuttonnames/
+weight: 580
+url: "/net/aspose.pdf.facades/form/formsubmitbuttonnames/"
+product_version: "26.9.0"
 ---
 ## Form.FormSubmitButtonNames property
 
@@ -14,21 +17,13 @@ Gets all form submit button names.
 public string[] FormSubmitButtonNames { get; }
 ```
 
-## Examples
+### Property Value
 
-```csharp
-Form form = new Form("PdfForm.pdf");
-string[] submits = form.FormSubmitButtonNames;
-foreach(string btn in submits)
-{
-  Console.WriteLine(btn);
-}
-```
+string[]
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

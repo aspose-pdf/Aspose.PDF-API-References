@@ -1,12 +1,15 @@
 ---
-title: FontCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection method. Deletes specified item from collection
+title: "FontCollection.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET"
+description: "Deletes specified item from collection."
 type: docs
-weight: 100
-url: /net/aspose.pdf.text/fontcollection/remove/
+weight: 60
+url: "/net/aspose.pdf.text/fontcollection/remove/"
+product_version: "26.9.0"
 ---
-## FontCollection.Remove method
+## Remove([Font](../../../aspose.pdf.text/font/)) {#remove}
 
 Deletes specified item from collection.
 
@@ -20,13 +23,13 @@ public bool Remove(Font item)
 
 ### Return Value
 
+bool
+
 true if item was deleted from collection; otherwise, false.
 
 ### See Also
 
-* class [Font](../../font/)
-* class [FontCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

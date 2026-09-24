@@ -1,23 +1,30 @@
 ---
-title: RunCreateRequest.Temperature
-second_title: Aspose.PDF for .NET API Reference
-description: RunCreateRequest property. Gets or sets what sampling temperature to use between 0 and 2. Higher values like 0.8 will make the output more random while lower values like 0.2 will make it more focused and deterministic
+title: "RunCreateRequest.Temperature"
+linktitle: "Temperature"
+articleTitle: "Temperature"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets what sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will mak..."
 type: docs
-weight: 120
-url: /net/aspose.pdf.ai/runcreaterequest/temperature/
+weight: 90
+url: "/net/aspose.pdf.ai/runcreaterequest/temperature/"
+product_version: "26.9.0"
 ---
 ## RunCreateRequest.Temperature property
 
-Gets or sets what sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic.
+Gets or sets what sampling temperature to use, between 0 and 2.
+ Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic.
 
 ```csharp
-public double? Temperature { get; set; }
+public Nullable<double> Temperature { get; set; }
 ```
+
+### Property Value
+
+Nullable<double>
 
 ### See Also
 
-* class [RunCreateRequest](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RunCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

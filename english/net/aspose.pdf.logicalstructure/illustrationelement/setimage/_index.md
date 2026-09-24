@@ -1,50 +1,52 @@
 ---
-title: IllustrationElement.SetImage
-second_title: Aspose.PDF for .NET API Reference
-description: IllustrationElement method. Appends image to current illustration element
+title: "IllustrationElement.SetImage"
+linktitle: "SetImage"
+articleTitle: "SetImage"
+second_title: "Aspose.PDF for .NET"
+description: "Appends image to current illustration element."
 type: docs
-weight: 20
-url: /net/aspose.pdf.logicalstructure/illustrationelement/setimage/
+weight: 10
+url: "/net/aspose.pdf.logicalstructure/illustrationelement/setimage/"
+product_version: "26.9.0"
 ---
-## SetImage(string, double) {#setimage}
+## SetImage(string, double) {#setimage}
 
 Appends image to current illustration element.
 
 ```csharp
-public virtual void SetImage(string imageSrc, double imageResolution = 300m)
+public void SetImage(string imageSrc, double imageResolution)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageSrc | String | Image source. |
-| imageResolution | Double | (Optional) Image Resolution. Default: 300 DPI. |
+| imageSrc | string | Image source. |
+| imageResolution | double | (Optional) Image Resolution. Default: 300 DPI. |
 
 ### See Also
 
-* class [IllustrationElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
+* class [IllustrationElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SetImage(string, double, double) {#setimage_1}
+## SetImage(string, double, double) {#setimage_1}
 
 Appends image to current illustration element.
 
 ```csharp
-public virtual void SetImage(string imageSrc, double imageWidth, double imageHeight)
+public void SetImage(string imageSrc, double imageWidth, double imageHeight)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageSrc | String | Image source. |
-| imageWidth | Double | Image width. |
-| imageHeight | Double | Image height. |
+| imageSrc | string | Image source. |
+| imageWidth | double | Image width. |
+| imageHeight | double | Image height. |
 
 ### See Also
 
-* class [IllustrationElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [IllustrationElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

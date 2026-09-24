@@ -1,12 +1,15 @@
 ---
-title: OpenAIChatCopilotOptions.WithVectorStoreExpireDays
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions method. Sets the number of days for vector store expiration in the chat copilot options
+title: "OpenAIChatCopilotOptions.WithVectorStoreExpireDays"
+linktitle: "WithVectorStoreExpireDays"
+articleTitle: "WithVectorStoreExpireDays"
+second_title: "Aspose.PDF for .NET"
+description: "Sets the number of days for vector store expiration in the chat copilot options."
 type: docs
-weight: 210
-url: /net/aspose.pdf.ai/openaichatcopilotoptions/withvectorstoreexpiredays/
+weight: 190
+url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withvectorstoreexpiredays/"
+product_version: "26.9.0"
 ---
-## OpenAIChatCopilotOptions.WithVectorStoreExpireDays method
+## WithVectorStoreExpireDays(int) {#withvectorstoreexpiredays}
 
 Sets the number of days for vector store expiration in the chat copilot options.
 
@@ -16,16 +19,18 @@ public OpenAIChatCopilotOptions WithVectorStoreExpireDays(int days)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| days | Int32 | The number of days for vector store expiration. |
+| days | int | The number of days for vector store expiration. |
 
 ### Return Value
 
-The current instance of [`OpenAIChatCopilotOptions`](../).
+[OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+
+The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

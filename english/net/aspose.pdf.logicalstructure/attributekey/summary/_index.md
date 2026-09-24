@@ -1,10 +1,13 @@
 ---
-title: AttributeKey.Summary
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey field. Summary attribute Table attribute owner
+title: "AttributeKey.Summary"
+linktitle: "Summary"
+articleTitle: "Summary"
+second_title: "Aspose.PDF for .NET"
+description: "Summary attribute (Table attribute owner)."
 type: docs
-weight: 320
-url: /net/aspose.pdf.logicalstructure/attributekey/summary/
+weight: 450
+url: "/net/aspose.pdf.logicalstructure/attributekey/summary/"
+product_version: "26.9.0"
 ---
 ## AttributeKey.Summary field
 
@@ -16,8 +19,8 @@ public static readonly AttributeKey Summary;
 
 ### See Also
 
-* class [AttributeKey](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

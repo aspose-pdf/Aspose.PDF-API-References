@@ -1,10 +1,13 @@
 ---
-title: Document.EnableSignatureSanitization
-second_title: Aspose.PDF for .NET API Reference
-description: Document property. Gets or sets flag to manage signature fields sanitization. Enabled by default
+title: "Document.EnableSignatureSanitization"
+linktitle: "EnableSignatureSanitization"
+articleTitle: "EnableSignatureSanitization"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets flag to manage signature fields sanitization. Enabled by default."
 type: docs
-weight: 190
-url: /net/aspose.pdf/document/enablesignaturesanitization/
+weight: 1130
+url: "/net/aspose.pdf/document/enablesignaturesanitization/"
+product_version: "26.9.0"
 ---
 ## Document.EnableSignatureSanitization property
 
@@ -14,10 +17,13 @@ Gets or sets flag to manage signature fields sanitization. Enabled by default.
 public bool EnableSignatureSanitization { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

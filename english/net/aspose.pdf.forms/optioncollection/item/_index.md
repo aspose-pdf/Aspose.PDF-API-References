@@ -1,57 +1,30 @@
 ---
-title: OptionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection property. Gets option by index
+title: "OptionCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 40
-url: /net/aspose.pdf.forms/optioncollection/item/
+weight: 140
+url: "/net/aspose.pdf.forms/optioncollection/item/"
+product_version: "26.9.0"
 ---
-## OptionCollection indexer (1 of 2)
+## OptionCollection.Item property
 
-Gets option by index.
+
 
 ```csharp
-public Option this[int index] { get; }
+public Option Item { get; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| index | Index of the option. |
+### Property Value
 
-### Return Value
-
-Option on the specified index.
+[Option](../../../aspose.pdf.forms/option/)
 
 ### See Also
 
-* class [Option](../../option/)
-* class [OptionCollection](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## OptionCollection indexer (2 of 2)
-
-Gets option by its name.
-
-```csharp
-public Option this[string name] { get; }
-```
-
-| Parameter | Description |
-| --- | --- |
-| name | Name of the option. |
-
-### Return Value
-
-Found option.
-
-### See Also
-
-* class [Option](../../option/)
-* class [OptionCollection](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Option](../../../aspose.pdf.forms/option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

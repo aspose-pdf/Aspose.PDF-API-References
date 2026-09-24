@@ -1,51 +1,30 @@
 ---
-title: TextFragmentAbsorber.TextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber property. Gets collection of search occurrences that are presented with TextFragment objects
+title: "TextFragmentAbsorber.TextFragments"
+linktitle: "TextFragments"
+articleTitle: "TextFragments"
+second_title: "Aspose.PDF for .NET"
+description: "Gets collection of search occurrences that are presented with objects."
 type: docs
-weight: 90
-url: /net/aspose.pdf.text/textfragmentabsorber/textfragments/
+weight: 210
+url: "/net/aspose.pdf.text/textfragmentabsorber/textfragments/"
+product_version: "26.9.0"
 ---
 ## TextFragmentAbsorber.TextFragments property
 
-Gets collection of search occurrences that are presented with [`TextFragment`](../../textfragment/) objects.
+Gets collection of search occurrences that are presented with [`TextFragment`](../../../aspose.pdf.text/textfragment/) objects.
 
 ```csharp
 public TextFragmentCollection TextFragments { get; set; }
 ```
 
-## Examples
+### Property Value
 
-The example demonstrates how to find text on the first PDF document page and replace all search occurrences with new text.
-
-```csharp
-// Open document
-Document doc = new Document(@"D:\Tests\input.pdf");
-
-// Find font that will be used to change document text font
-Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
-
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
-TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-
-// Accept the absorber for first page
-doc.Pages[1].Accept(absorber);
-
-// Change text of all search occurrences
-foreach (TextFragment textFragment in absorber.TextFragments)
-{
-    textFragment.Text = "hi world";
-}
-
-// Save document
-doc.Save(@"D:\Tests\output.pdf");  
-```
+[TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
 
 ### See Also
 
-* class [TextFragmentCollection](../../textfragmentcollection/)
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

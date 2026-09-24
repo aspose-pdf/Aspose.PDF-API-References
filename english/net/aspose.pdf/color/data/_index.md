@@ -1,10 +1,13 @@
 ---
-title: Color.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets color value
+title: "Color.Data"
+linktitle: "Data"
+articleTitle: "Data"
+second_title: "Aspose.PDF for .NET"
+description: "Gets color value."
 type: docs
-weight: 1510
-url: /net/aspose.pdf/color/data/
+weight: 150
+url: "/net/aspose.pdf/color/data/"
+product_version: "26.9.0"
 ---
 ## Color.Data property
 
@@ -14,10 +17,13 @@ Gets color value.
 public double[] Data { get; }
 ```
 
+### Property Value
+
+double[]
+
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

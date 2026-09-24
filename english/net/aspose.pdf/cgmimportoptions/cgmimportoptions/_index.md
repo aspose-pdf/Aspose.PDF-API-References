@@ -1,14 +1,17 @@
 ---
-title: CgmImportOptions.CgmImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: CgmImportOptions constructor. The default constructor
+title: "CgmImportOptions.CgmImportOptions"
+linktitle: "CgmImportOptions"
+articleTitle: "CgmImportOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the CgmImportOptions class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/cgmimportoptions/cgmimportoptions/
+url: "/net/aspose.pdf/cgmimportoptions/cgmimportoptions/"
+product_version: "26.9.0"
 ---
-## CgmImportOptions constructor
+## CgmImportOptions() {#constructor}
 
-The default constructor.
+Initializes a new instance of the CgmImportOptions class.
 
 ```csharp
 public CgmImportOptions()
@@ -16,8 +19,7 @@ public CgmImportOptions()
 
 ### See Also
 
-* class [CgmImportOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CgmImportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

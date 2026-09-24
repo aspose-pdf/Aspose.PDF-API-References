@@ -1,12 +1,15 @@
 ---
-title: IStringOutputGenerator.GenerateOutput
-second_title: Aspose.PDF for .NET API Reference
-description: IStringOutputGenerator method. Generates the output based on the differences between texts and saves it to a file
+title: "IStringOutputGenerator.GenerateOutput"
+linktitle: "GenerateOutput"
+articleTitle: "GenerateOutput"
+second_title: "Aspose.PDF for .NET"
+description: "Generates the output based on the differences between texts and saves it to a file."
 type: docs
 weight: 10
-url: /net/aspose.pdf.comparison/istringoutputgenerator/generateoutput/
+url: "/net/aspose.pdf.comparison/istringoutputgenerator/generateoutput/"
+product_version: "26.9.0"
 ---
-## GenerateOutput(List&lt;DiffOperation&gt;) {#generateoutput}
+## GenerateOutput(List<DiffOperation>) {#generateoutput}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -16,22 +19,23 @@ public string GenerateOutput(List<DiffOperation> diffrences)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffrences | List`1 | The list of differences between texts. |
+| diffrences | List<DiffOperation> | The list of differences between texts. |
 
 ### Return Value
+
+string
 
 Text representation of output.
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* interface [IStringOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
+* interface [IStringOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;) {#generateoutput_1}
+## GenerateOutput(List<List<DiffOperation>>) {#generateoutput_1}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -41,17 +45,17 @@ public string GenerateOutput(List<List<DiffOperation>> diffrences)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffrences | List`1 | The list of differences between texts. |
+| diffrences | List<List<DiffOperation>> | The list of differences between texts. |
 
 ### Return Value
+
+string
 
 Text representation of output.
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* interface [IStringOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IStringOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

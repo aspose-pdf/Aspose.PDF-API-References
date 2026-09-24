@@ -1,33 +1,35 @@
 ---
-title: ITeXInputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: ITeXInputDirectory method. Returns the stream to read from or to write to
+title: "ITeXInputDirectory.GetFile"
+linktitle: "GetFile"
+articleTitle: "GetFile"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
 weight: 10
-url: /net/aspose.pdf/itexinputdirectory/getfile/
+url: "/net/aspose.pdf/itexinputdirectory/getfile/"
+product_version: "26.9.0"
 ---
-## ITeXInputDirectory.GetFile method
+## GetFile(string, string, bool) {#getfile}
 
-Returns the stream to read from or to write to.
+
 
 ```csharp
-public Stream GetFile(string fileName, out string fullName, bool searchSubdirectories = false)
+public Stream GetFile(string fileName, string fullName, bool searchSubdirectories)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | String | The file name. |
-| fullName | String& | The full file name. |
-| searchSubdirectories | Boolean | Indicates whether to look for a file in subdirectories. |
+| fileName | string |  |
+| fullName | string |  |
+| searchSubdirectories | bool |  |
 
 ### Return Value
 
-The stream.
+[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
 
 ### See Also
 
-* interface [ITeXInputDirectory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [ITeXInputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: OpenAIOcrCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIOcrCopilotOptions method. Sets the model
+title: "OpenAIOcrCopilotOptions.WithModel"
+linktitle: "WithModel"
+articleTitle: "WithModel"
+second_title: "Aspose.PDF for .NET"
+description: "Sets the model."
 type: docs
-weight: 100
-url: /net/aspose.pdf.ai/openaiocrcopilotoptions/withmodel/
+weight: 40
+url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withmodel/"
+product_version: "26.9.0"
 ---
-## OpenAIOcrCopilotOptions.WithModel method
+## WithModel(string) {#withmodel}
 
 Sets the model.
 
@@ -16,16 +19,18 @@ public OpenAIOcrCopilotOptions WithModel(string model)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| model | String | The model to set. |
+| model | string | The model to set. |
 
 ### Return Value
 
-The current instance of [`OpenAIOcrCopilotOptions`](../).
+[OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+
+The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+* class [OpenAIOcrCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

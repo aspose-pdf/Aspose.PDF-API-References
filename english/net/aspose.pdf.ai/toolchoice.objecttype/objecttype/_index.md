@@ -1,23 +1,25 @@
 ---
-title: ToolChoice.ObjectType.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: ObjectType constructor. The default constructor
+title: "ToolChoice.ObjectType.ToolChoice.ObjectType"
+linktitle: "ToolChoice.ObjectType"
+articleTitle: "ToolChoice.ObjectType"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the ToolChoice.ObjectType class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/toolchoice.objecttype/objecttype/
+url: "/net/aspose.pdf.ai/toolchoice.objecttype/objecttype/"
+product_version: "26.9.0"
 ---
-## ToolChoice.ObjectType constructor
+## ToolChoice.ObjectType() {#constructor}
 
-The default constructor.
+Initializes a new instance of the ToolChoice.ObjectType class.
 
 ```csharp
-public ObjectType()
+public ToolChoice.ObjectType()
 ```
 
 ### See Also
 
-* class [ObjectType](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ToolChoice.ObjectType](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Rows.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Rows property. The items count
+title: "Rows.Count"
+linktitle: "Count"
+articleTitle: "Count"
+second_title: "Aspose.PDF for .NET"
+description: "The items count."
 type: docs
-weight: 20
-url: /net/aspose.pdf/rows/count/
+weight: 100
+url: "/net/aspose.pdf/rows/count/"
+product_version: "26.9.0"
 ---
 ## Rows.Count property
 
@@ -14,10 +17,13 @@ The items count.
 public int Count { get; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [Rows](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

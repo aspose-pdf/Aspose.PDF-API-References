@@ -1,63 +1,76 @@
 ---
-title: Class PdfFileSecurity
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfFileSecurity class. Represents encrypting or decrypting a Pdf file with owner or user password changing the security setting and password
+title: "PdfFileSecurity Class"
+linktitle: "PdfFileSecurity"
+articleTitle: "PdfFileSecurity"
+second_title: "Aspose.PDF for .NET"
+description: "Represents encrypting or decrypting a Pdf file with owner or user password, changing the security setting and password."
 type: docs
-weight: 4710
-url: /net/aspose.pdf.facades/pdffilesecurity/
+weight: 440
+url: "/net/aspose.pdf.facades/pdffilesecurity/"
+keywords: "PdfFileSecurity, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## PdfFileSecurity class
 
 Represents encrypting or decrypting a Pdf file with owner or user password, changing the security setting and password.
 
 ```csharp
-public sealed class PdfFileSecurity : SaveableFacade
+public sealed class PdfFileSecurity : SaveableFacade, IDisposable
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [PdfFileSecurity](pdffilesecurity/#constructor)() | Initialize the object of PdfFileSecurity. |
-| [PdfFileSecurity](pdffilesecurity/#constructor_1)(Document) | Initializes new `PdfFileSecurity` object on base of the *document*. |
+| [PdfFileSecurity](./pdffilesecurity/#constructor) | Initialize the object of PdfFileSecurity. |
+| [PdfFileSecurity](./pdffilesecurity/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfFileSecurity`](../../aspose.pdf.facades/pdffilesecurity/) object on base of the . |
+| [PdfFileSecurity](./pdffilesecurity/#constructor_2)(*Stream, Stream*) | Initialize the object of PdfFileSecurity with input and output stream. |
+| [PdfFileSecurity](./pdffilesecurity/#constructor_3)(*string, string*) | Initializes the object of PdfFileSecurity with input and output file. |
+| [PdfFileSecurity](./pdffilesecurity/#constructor_4)(*[Document](../../aspose.pdf/document/), string*) | Initializes new [`PdfFileSecurity`](../../aspose.pdf.facades/pdffilesecurity/) object on base of the . |
+| [PdfFileSecurity](./pdffilesecurity/#constructor_5)(*[Document](../../aspose.pdf/document/), Stream*) | Initializes new [`PdfFileSecurity`](../../aspose.pdf.facades/pdffilesecurity/) object on base of the . |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Gets the document facade is working on. |
-| [LastException](../../aspose.pdf.facades/pdffilesecurity/lastexception/) { get; } | Returns exception which was thrown by last operation. |
+| [AllowExceptions](./allowexceptions/) { get; set; } | If this value set to true, exception will be thrown on opearation failure. Else, method returns false on failure and last exception can be checked with LastException property. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Gets the document facade is working on. *(Inherited from Facade)* |
+| [InputFile](./inputfile/) { set; } | Sets the input file. |
+| [InputStream](./inputstream/) { set; } | Sets the input stream. |
+| [LastException](./lastexception/) { get; } | Returns exception which was thrown by last operation. |
+| [OutputFile](./outputfile/) { set; } | Sets the output file. |
+| [OutputStream](./outputstream/) { set; } | Sets the output stream. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | Initializes the facade. |
-| override [BindPdf](../../aspose.pdf.facades/pdffilesecurity/bindpdf/#bindpdf_1)(Stream) | Initializes the facade. |
-| override [BindPdf](../../aspose.pdf.facades/pdffilesecurity/bindpdf/#bindpdf_2)(string) | Initializes the facade. |
-| [ChangePassword](../../aspose.pdf.facades/pdffilesecurity/changepassword/#changepassword)(string, string, string) | Changes the user password and owner password by owner password, keeps the original security settings. The new user password and the new owner password can be null or empty. The owner password will be replaced with a random string if the new owner password is null or empty. Throws an exception if process failed. |
-| [ChangePassword](../../aspose.pdf.facades/pdffilesecurity/changepassword/#changepassword_1)(string, string, string, DocumentPrivilege, KeySize) | Changes the user password and password by owner password, allows to reset Pdf documnent security. The new user password and the new owner password can be null or empty. The owner password will be replaced with a random string if the new owner password is null or empty. Throws an exception if process failed. |
-| [ChangePassword](../../aspose.pdf.facades/pdffilesecurity/changepassword/#changepassword_2)(string, string, string, DocumentPrivilege, KeySize, Algorithm) | Changes the user password and password by owner password, allows to reset Pdf documnent security. The new user password and the new owner password can be null or empty. The owner password will be replaced with a random string if the new owner password is null or empty. There are 6 possible combinations of KeySize and Algorithm values. However (KeySize.x40, Algorithm.AES) and (KeySize.x256, Algorithm.RC4) are invalid and corresponding exception will be raised if kit encounters this combination. Throws an exception if process failed. |
-| override [Close](../../aspose.pdf.facades/pdffilesecurity/close/)() | Closes the facade. |
-| [DecryptFile](../../aspose.pdf.facades/pdffilesecurity/decryptfile/)(string) | Decrypts an encrypted Pdf document by owner password. If the document hasn't owner password, it is allow to use user password. Throws an exception if process failed. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Disposes the facade. |
-| [EncryptFile](../../aspose.pdf.facades/pdffilesecurity/encryptfile/#encryptfile)(string, string, DocumentPrivilege, KeySize) | Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. The user password and the owner password can be null or empty. The owner password will be replaced with a random string if the input owner password is null or empty. Throws exception if process failed. |
-| [EncryptFile](../../aspose.pdf.facades/pdffilesecurity/encryptfile/#encryptfile_1)(string, string, DocumentPrivilege, KeySize, Algorithm) | Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. The user password and the owner password can be null or empty. The owner password will be replaced with a random string if the input owner password is null or empty. There are 6 possible combinations of KeySize and Algorithm values. However (KeySize.x40, Algorithm.AES) and (KeySize.x256, Algorithm.RC4) are invalid and corresponding exception will be raised if kit encounters this combination. Throws an exception if process failed. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/)(Stream) | Saves the PDF document to the specified stream. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/)(string) | Saves the PDF document to the specified file. |
-| [SetPrivilege](../../aspose.pdf.facades/pdffilesecurity/setprivilege/#setprivilege)(DocumentPrivilege) | Sets Pdf file security with empty user/owner passwords. The owner password will be added by a random string. Throws an exception if process failed. |
-| [SetPrivilege](../../aspose.pdf.facades/pdffilesecurity/setprivilege/#setprivilege_1)(string, string, DocumentPrivilege) | Sets Pdf file security with original password. Throws an exception if process failed. |
-| [TryChangePassword](../../aspose.pdf.facades/pdffilesecurity/trychangepassword/#trychangepassword)(string, string, string) | Changes the user password and owner password by owner password, keeps the original security settings. The new user password and the new owner password can be null or empty. The owner password will be replaced Does not throw an exception if process failed. with a random string if the new owner password is null or empty. |
-| [TryChangePassword](../../aspose.pdf.facades/pdffilesecurity/trychangepassword/#trychangepassword_1)(string, string, string, DocumentPrivilege, KeySize) | Changes the user password and password by owner password, allows to reset Pdf documnent security. The new user password and the new owner password can be null or empty. The owner password will be replaced with a random string if the new owner password is null or empty. Does not throw an exception if process failed. |
-| [TryChangePassword](../../aspose.pdf.facades/pdffilesecurity/trychangepassword/#trychangepassword_2)(string, string, string, DocumentPrivilege, KeySize, Algorithm) | Changes the user password and password by owner password, allows to reset Pdf documnent security. The new user password and the new owner password can be null or empty. The owner password will be replaced with a random string if the new owner password is null or empty. There are 6 possible combinations of KeySize and Algorithm values. However (KeySize.x40, Algorithm.AES) and (KeySize.x256, Algorithm.RC4) are invalid and corresponding exception will be raised if kit encounters this combination. Does not throw an exception if process failed. |
-| [TryDecryptFile](../../aspose.pdf.facades/pdffilesecurity/trydecryptfile/)(string) | Decrypts an encrypted Pdf document by owner password. If the document hasn't owner password, it is allow to use user password. Does not throw an exception if process failed. |
-| [TryEncryptFile](../../aspose.pdf.facades/pdffilesecurity/tryencryptfile/)(string, string, DocumentPrivilege, KeySize) | Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. The user password and the owner password can be null or empty. The owner password will be replaced with a random string if the input owner password is null or empty. Does not throw an exception if process failed. |
-| [TrySetPrivilege](../../aspose.pdf.facades/pdffilesecurity/trysetprivilege/)(string, string, DocumentPrivilege) | Sets Pdf file security with original password. Does not throw an exception if process failed. |
+| [AssertDocument](../../aspose.pdf.facades/facade/assertdocument/) | Asserts if the facade is initialized. *(Inherited from Facade)* |
+| [BindPdf](./bindpdf/)(*string*) | Initializes the facade. |
+| [BindPdf](./bindpdf/)(*Stream*) | Initializes the facade. |
+| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string*) | Initializes the facade. *(Inherited from Facade)* |
+| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. *(Inherited from Facade)* |
+| [ChangePassword](./changepassword/)(*string, string, string*) | Changes the user password and owner password by owner password, keeps the original security settings. |
+| [ChangePassword](./changepassword/)(*string, string, string, DocumentPrivilege, KeySize*) | Changes the user password and password by owner password, allows to reset Pdf documnent security. |
+| [ChangePassword](./changepassword/)(*string, string, string, DocumentPrivilege, KeySize, Algorithm*) | Changes the user password and password by owner password, allows to reset Pdf documnent security. |
+| [Close](./close/) | Closes the facade. |
+| [DecryptFile](./decryptfile/)(*string*) | Decrypts an encrypted Pdf document by owner password. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/) | Disposes the facade. *(Inherited from Facade)* |
+| [EncryptFile](./encryptfile/)(*string, string, DocumentPrivilege, KeySize*) | Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. |
+| [EncryptFile](./encryptfile/)(*string, string, DocumentPrivilege, KeySize, Algorithm*) | Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. |
+| [Save](../../aspose.pdf.facades/saveablefacade/save/)(*string*) | Saves the PDF document to the specified file. *(Inherited from SaveableFacade)* |
+| [SetPrivilege](./setprivilege/)(*DocumentPrivilege*) | Sets Pdf file security with empty user/owner passwords. |
+| [SetPrivilege](./setprivilege/)(*string, string, DocumentPrivilege*) | Sets Pdf file security with original password. |
+| [TryChangePassword](./trychangepassword/)(*string, string, string*) | Changes the user password and owner password by owner password, keeps the original security settings. |
+| [TryChangePassword](./trychangepassword/)(*string, string, string, DocumentPrivilege, KeySize*) | Changes the user password and password by owner password, allows to reset Pdf documnent security. |
+| [TryChangePassword](./trychangepassword/)(*string, string, string, DocumentPrivilege, KeySize, Algorithm*) | Changes the user password and password by owner password, allows to reset Pdf documnent security. |
+| [TryDecryptFile](./trydecryptfile/)(*string*) | Decrypts an encrypted Pdf document by owner password. |
+| [TryEncryptFile](./tryencryptfile/)(*string, string, DocumentPrivilege, KeySize*) | Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. |
+| [TrySetPrivilege](./trysetprivilege/)(*string, string, DocumentPrivilege*) | Sets Pdf file security with original password. |
 
 ### See Also
 
-* class [SaveableFacade](../saveablefacade/)
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* class [SaveableFacade](../saveablefacade/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

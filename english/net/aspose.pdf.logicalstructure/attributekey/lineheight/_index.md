@@ -1,10 +1,13 @@
 ---
-title: AttributeKey.LineHeight
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey field. LineHeight attribute Layout attribute owner
+title: "AttributeKey.LineHeight"
+linktitle: "LineHeight"
+articleTitle: "LineHeight"
+second_title: "Aspose.PDF for .NET"
+description: "LineHeight attribute (Layout attribute owner)."
 type: docs
-weight: 200
-url: /net/aspose.pdf.logicalstructure/attributekey/lineheight/
+weight: 270
+url: "/net/aspose.pdf.logicalstructure/attributekey/lineheight/"
+product_version: "26.9.0"
 ---
 ## AttributeKey.LineHeight field
 
@@ -16,8 +19,8 @@ public static readonly AttributeKey LineHeight;
 
 ### See Also
 
-* class [AttributeKey](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

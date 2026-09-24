@@ -1,10 +1,13 @@
 ---
-title: VectorStoreFileListQueryParameters.Filter
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileListQueryParameters property. Gets or sets a filter by file status. One of in_progress completed failed cancelled
+title: "VectorStoreFileListQueryParameters.Filter"
+linktitle: "Filter"
+articleTitle: "Filter"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets a filter by file status. One of in_progress, completed, failed, cancelled."
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/vectorstorefilelistqueryparameters/filter/
+weight: 30
+url: "/net/aspose.pdf.ai/vectorstorefilelistqueryparameters/filter/"
+product_version: "26.9.0"
 ---
 ## VectorStoreFileListQueryParameters.Filter property
 
@@ -14,10 +17,13 @@ Gets or sets a filter by file status. One of in_progress, completed, failed, can
 public string Filter { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [VectorStoreFileListQueryParameters](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [VectorStoreFileListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

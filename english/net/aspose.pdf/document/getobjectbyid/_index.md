@@ -1,12 +1,15 @@
 ---
-title: Document.GetObjectById
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Gets a object with specified ID in the document
+title: "Document.GetObjectById"
+linktitle: "GetObjectById"
+articleTitle: "GetObjectById"
+second_title: "Aspose.PDF for .NET"
+description: "Gets a object with specified ID in the document."
 type: docs
-weight: 700
-url: /net/aspose.pdf/document/getobjectbyid/
+weight: 860
+url: "/net/aspose.pdf/document/getobjectbyid/"
+product_version: "26.9.0"
 ---
-## Document.GetObjectById method
+## GetObjectById(string) {#getobjectbyid}
 
 Gets a object with specified ID in the document.
 
@@ -16,16 +19,17 @@ public object GetObjectById(string id)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | String | The object id. |
+| id | string | The object id. |
 
 ### Return Value
+
+object
 
 The object with specified id. Null if the id is not found.
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

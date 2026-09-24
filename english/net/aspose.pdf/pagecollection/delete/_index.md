@@ -1,12 +1,15 @@
 ---
-title: PageCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection method. Delete specified page
+title: "PageCollection.Delete"
+linktitle: "Delete"
+articleTitle: "Delete"
+second_title: "Aspose.PDF for .NET"
+description: "Delete specified page."
 type: docs
-weight: 120
-url: /net/aspose.pdf/pagecollection/delete/
+weight: 30
+url: "/net/aspose.pdf/pagecollection/delete/"
+product_version: "26.9.0"
 ---
-## Delete(int) {#delete_1}
+## Delete(int) {#delete}
 
 Delete specified page.
 
@@ -16,17 +19,17 @@ public void Delete(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | Int32 | Number of page that will be deleted. Pages numbers start from 1. |
+| index | int | Number of page that will be deleted. Pages numbers start from 1. |
 
 ### See Also
 
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Delete() {#delete}
+## Delete() {#delete_1}
 
 Deletes all pages from collection.
 
@@ -36,9 +39,9 @@ public void Delete()
 
 ### See Also
 
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -52,12 +55,11 @@ public void Delete(int[] pages)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pages | Int32[] | Array of pages to be deleted. |
+| pages | int[] | Array of pages to be deleted. |
 
 ### See Also
 
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,21 +1,29 @@
 ---
-title: OpenAIImageDescriptionCopilot.HasContext
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilot property. 
+title: "OpenAIImageDescriptionCopilot.HasContext"
+linktitle: "HasContext"
+articleTitle: "HasContext"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/openaiimagedescriptioncopilot/hascontext/
+weight: 30
+url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilot/hascontext/"
+product_version: "26.9.0"
 ---
 ## OpenAIImageDescriptionCopilot.HasContext property
+
+
 
 ```csharp
 public bool HasContext { get; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [OpenAIImageDescriptionCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIImageDescriptionCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

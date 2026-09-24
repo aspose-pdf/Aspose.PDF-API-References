@@ -1,10 +1,13 @@
 ---
-title: Note.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Note property. Gets or sets a note text
+title: "Note.Text"
+linktitle: "Text"
+articleTitle: "Text"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets a note text."
 type: docs
-weight: 30
-url: /net/aspose.pdf/note/text/
+weight: 40
+url: "/net/aspose.pdf/note/text/"
+product_version: "26.9.0"
 ---
 ## Note.Text property
 
@@ -14,10 +17,13 @@ Gets or sets a note text.
 public string Text { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [Note](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Note](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

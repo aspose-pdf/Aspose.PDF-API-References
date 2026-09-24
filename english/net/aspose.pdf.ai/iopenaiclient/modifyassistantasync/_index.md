@@ -1,27 +1,31 @@
 ---
-title: IOpenAIClient.ModifyAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Modifies an existing assistant asynchronously
+title: "IOpenAIClient.ModifyAssistantAsync"
+linktitle: "ModifyAssistantAsync"
+articleTitle: "ModifyAssistantAsync"
+second_title: "Aspose.PDF for .NET"
+description: "Modifies an existing assistant asynchronously."
 type: docs
-weight: 360
-url: /net/aspose.pdf.ai/iopenaiclient/modifyassistantasync/
+weight: 450
+url: "/net/aspose.pdf.ai/iopenaiclient/modifyassistantasync/"
+product_version: "26.9.0"
 ---
-## IOpenAIClient.ModifyAssistantAsync method
+## ModifyAssistantAsync(string, [AssistantModifyRequest](../../../aspose.pdf.ai/assistantmodifyrequest/), Nullable<CancellationToken>) {#modifyassistantasync}
 
 Modifies an existing assistant asynchronously.
 
 ```csharp
-public Task<AssistantResponse> ModifyAssistantAsync(string assistantId, 
-    AssistantModifyRequest assistantModifyRequest, CancellationToken? cancellationToken = default)
+public Task<AssistantResponse> ModifyAssistantAsync(string assistantId, AssistantModifyRequest assistantModifyRequest, Nullable<CancellationToken> cancellationToken)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| assistantId | String | The ID of the assistant to modify. |
+| assistantId | string | The ID of the assistant to modify. |
 | assistantModifyRequest | AssistantModifyRequest | The request object containing modification details. |
-| cancellationToken | Nullable`1 | A token to cancel the operation. |
+| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
 
 ### Return Value
+
+[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[AssistantResponse](../../../aspose.pdf.ai/assistantresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the response from the assistant modification.
 
@@ -29,14 +33,11 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Thrown when the assistant Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the assistant Id is null or empty. |
 
 ### See Also
 
-* class [AssistantResponse](../../assistantresponse/)
-* class [AssistantModifyRequest](../../assistantmodifyrequest/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

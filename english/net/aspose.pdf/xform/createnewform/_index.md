@@ -1,17 +1,20 @@
 ---
-title: XForm.CreateNewForm
-second_title: Aspose.PDF for .NET API Reference
-description: XForm method. Creates XForm which duplicates contents of the page
+title: "XForm.CreateNewForm"
+linktitle: "CreateNewForm"
+articleTitle: "CreateNewForm"
+second_title: "Aspose.PDF for .NET"
+description: "Creates XForm which duplicates contents of the page."
 type: docs
-weight: 10
-url: /net/aspose.pdf/xform/createnewform/
+weight: 30
+url: "/net/aspose.pdf/xform/createnewform/"
+product_version: "26.9.0"
 ---
-## XForm.CreateNewForm method
+## CreateNewForm([Page](../../../aspose.pdf/page/), [Document](../../../aspose.pdf/document/)) {#createnewform}
 
 Creates XForm which duplicates contents of the page.
 
 ```csharp
-public static XForm CreateNewForm(Page source, Document document)
+public XForm CreateNewForm(Page source, Document document)
 ```
 
 | Parameter | Type | Description |
@@ -21,14 +24,14 @@ public static XForm CreateNewForm(Page source, Document document)
 
 ### Return Value
 
+[XForm](../../../aspose.pdf/xform/)
+
 Newly created XForm.
 
 ### See Also
 
-* class [Page](../../page/)
-* class [Document](../../document/)
-* class [XForm](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XForm](../../../aspose.pdf/xform/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

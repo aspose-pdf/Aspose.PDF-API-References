@@ -1,12 +1,15 @@
 ---
-title: ITaggedContent.CreateBlockQuoteElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent method. Creates BlockQuoteElement
+title: "ITaggedContent.CreateBlockQuoteElement"
+linktitle: "CreateBlockQuoteElement"
+articleTitle: "CreateBlockQuoteElement"
+second_title: "Aspose.PDF for .NET"
+description: "Creates ."
 type: docs
 weight: 70
-url: /net/aspose.pdf.tagged/itaggedcontent/createblockquoteelement/
+url: "/net/aspose.pdf.tagged/itaggedcontent/createblockquoteelement/"
+product_version: "26.9.0"
 ---
-## ITaggedContent.CreateBlockQuoteElement method
+## CreateBlockQuoteElement() {#createblockquoteelement}
 
 Creates [`BlockQuoteElement`](../../../aspose.pdf.logicalstructure/blockquoteelement/).
 
@@ -16,13 +19,14 @@ public BlockQuoteElement CreateBlockQuoteElement()
 
 ### Return Value
 
+[BlockQuoteElement](../../../aspose.pdf.logicalstructure/blockquoteelement/)
+
 Created structure element.
 
 ### See Also
 
-* class [BlockQuoteElement](../../../aspose.pdf.logicalstructure/blockquoteelement/)
-* interface [ITaggedContent](../)
-* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BlockQuoteElement](../../../aspose.pdf.logicalstructure/blockquoteelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
 

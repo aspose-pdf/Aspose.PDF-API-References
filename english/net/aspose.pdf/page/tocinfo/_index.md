@@ -1,10 +1,13 @@
 ---
-title: Page.TocInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Page property. Gets or sets table of contents info
+title: "Page.TocInfo"
+linktitle: "TocInfo"
+articleTitle: "TocInfo"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets table of contents info."
 type: docs
-weight: 280
-url: /net/aspose.pdf/page/tocinfo/
+weight: 370
+url: "/net/aspose.pdf/page/tocinfo/"
+product_version: "26.9.0"
 ---
 ## Page.TocInfo property
 
@@ -16,13 +19,12 @@ public TocInfo TocInfo { get; set; }
 
 ### Property Value
 
-The table of contents info - default null. If it set this page will contain table of contents.
+[TocInfo](../../../aspose.pdf/tocinfo/)
 
 ### See Also
 
-* class [TocInfo](../../tocinfo/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TocInfo](../../../aspose.pdf/tocinfo/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

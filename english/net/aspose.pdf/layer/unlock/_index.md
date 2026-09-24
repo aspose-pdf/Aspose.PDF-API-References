@@ -1,12 +1,15 @@
 ---
-title: Layer.Unlock
-second_title: Aspose.PDF for .NET API Reference
-description: Layer method. Unlocks the layer
+title: "Layer.Unlock"
+linktitle: "Unlock"
+articleTitle: "Unlock"
+second_title: "Aspose.PDF for .NET"
+description: "Unlocks the layer."
 type: docs
-weight: 110
-url: /net/aspose.pdf/layer/unlock/
+weight: 60
+url: "/net/aspose.pdf/layer/unlock/"
+product_version: "26.9.0"
 ---
-## Layer.Unlock method
+## Unlock() {#unlock}
 
 Unlocks the layer.
 
@@ -16,8 +19,7 @@ public void Unlock()
 
 ### See Also
 
-* class [Layer](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

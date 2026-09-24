@@ -1,10 +1,13 @@
 ---
-title: Enum PageMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageMode enum. Class descibes used components of the document page
+title: "PageMode Enum"
+linktitle: "PageMode"
+articleTitle: "PageMode"
+second_title: "Aspose.PDF for .NET"
+description: "Class descibes used components of the document page."
 type: docs
-weight: 9460
-url: /net/aspose.pdf/pagemode/
+weight: 2260
+url: "/net/aspose.pdf/pagemode/"
+product_version: "26.9.0"
 ---
 ## PageMode enumeration
 
@@ -14,10 +17,10 @@ Class descibes used components of the document page.
 public enum PageMode
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | UseNone | `0` | Dont use any components. |
 | UseOutlines | `1` | Document outline visible. |
 | UseThumbs | `2` | Thumbnail images visible. |
@@ -27,7 +30,6 @@ public enum PageMode
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

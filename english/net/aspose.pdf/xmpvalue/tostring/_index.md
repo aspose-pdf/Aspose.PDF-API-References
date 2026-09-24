@@ -1,28 +1,33 @@
 ---
-title: XmpValue.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue method. Returns string representation of XmpValue
+title: "XmpValue.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET"
+description: "Returns string representation of XmpValue."
 type: docs
-weight: 210
-url: /net/aspose.pdf/xmpvalue/tostring/
+weight: 170
+url: "/net/aspose.pdf/xmpvalue/tostring/"
+product_version: "26.9.0"
 ---
 ## ToString() {#tostring}
 
 Returns string representation of XmpValue.
 
 ```csharp
-public override string ToString()
+public string ToString()
 ```
 
 ### Return Value
+
+string
 
 String representation.
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,12 +45,13 @@ public string ToString(IFormatProvider formatProvider)
 
 ### Return Value
 
+string
+
 String representation.
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

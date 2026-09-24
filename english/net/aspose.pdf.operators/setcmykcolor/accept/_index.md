@@ -1,17 +1,20 @@
 ---
-title: SetCMYKColor.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SetCMYKColor method. Accepts visitor object to process operator
+title: "SetCMYKColor.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET"
+description: "Accepts visitor object to process operator."
 type: docs
-weight: 60
-url: /net/aspose.pdf.operators/setcmykcolor/accept/
+weight: 30
+url: "/net/aspose.pdf.operators/setcmykcolor/accept/"
+product_version: "26.9.0"
 ---
-## SetCMYKColor.Accept method
+## Accept([IOperatorSelector](../../../aspose.pdf/ioperatorselector/)) {#accept}
 
 Accepts visitor object to process operator.
 
 ```csharp
-public override void Accept(IOperatorSelector visitor)
+public void Accept(IOperatorSelector visitor)
 ```
 
 | Parameter | Type | Description |
@@ -20,9 +23,7 @@ public override void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* class [SetCMYKColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetCMYKColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PdfFileEditor.LastException
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor property. Gets last occured exception. May be used to check the reason of failure
+title: "PdfFileEditor.LastException"
+linktitle: "LastException"
+articleTitle: "LastException"
+second_title: "Aspose.PDF for .NET"
+description: "Gets last occured exception. May be used to check the reason of failure."
 type: docs
-weight: 130
-url: /net/aspose.pdf.facades/pdffileeditor/lastexception/
+weight: 1200
+url: "/net/aspose.pdf.facades/pdffileeditor/lastexception/"
+product_version: "26.9.0"
 ---
 ## PdfFileEditor.LastException property
 
@@ -14,26 +17,13 @@ Gets last occured exception. May be used to check the reason of failure.
 public Exception LastException { get; }
 ```
 
-## Examples
+### Property Value
 
-```csharp
-PdfFileEditor pfe = new PdfFileEditor();
-if (!pfe.TryConcatenate("file1.pdf", "file2.pdf", "file3.pdf"))
-{
-   Console.WriteLine("Error occured:");
-   if (pfe.LastException != null)
-   {
-       Console.WriteLine(pfe.LastException.Message);
-       if (pfe.LastException.InnerException != null)
-           Console.WriteLine(pfe.LastException.InnerException.Message);
-   }
-}
-```
+[Exception](https://docs.oracle.com/javase/8/docs/api/java/lang/Exception.html)
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

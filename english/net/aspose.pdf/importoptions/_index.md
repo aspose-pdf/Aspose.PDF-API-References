@@ -1,10 +1,14 @@
 ---
-title: Class ImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImportOptions class. ImportOptions type hold level of abstraction on individual import options
+title: "ImportOptions Class"
+linktitle: "ImportOptions"
+articleTitle: "ImportOptions"
+second_title: "Aspose.PDF for .NET"
+description: "ImportOptions type hold level of abstraction on individual import options."
 type: docs
-weight: 6090
-url: /net/aspose.pdf/importoptions/
+weight: 1580
+url: "/net/aspose.pdf/importoptions/"
+keywords: "ImportOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## ImportOptions class
 
@@ -14,15 +18,20 @@ ImportOptions type hold level of abstraction on individual import options.
 public abstract class ImportOptions
 ```
 
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [ImportOptions](./importoptions/#constructor)(*[ImportFormat](../../aspose.pdf/importformat/)*) | Constructor. |
+
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ImportFormat](../../aspose.pdf/importoptions/importformat/) { get; } | Import format. |
+| [ImportFormat](./importformat/) { get; } | Import format. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

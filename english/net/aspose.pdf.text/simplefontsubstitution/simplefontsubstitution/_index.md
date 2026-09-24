@@ -1,30 +1,31 @@
 ---
-title: SimpleFontSubstitution.SimpleFontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: SimpleFontSubstitution constructor. Initializes a new instance of SimpleFontSubstitution class
+title: "SimpleFontSubstitution.SimpleFontSubstitution"
+linktitle: "SimpleFontSubstitution"
+articleTitle: "SimpleFontSubstitution"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the SimpleFontSubstitution class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.text/simplefontsubstitution/simplefontsubstitution/
+url: "/net/aspose.pdf.text/simplefontsubstitution/simplefontsubstitution/"
+product_version: "26.9.0"
 ---
-## SimpleFontSubstitution constructor
+## SimpleFontSubstitution(string, string, bool) {#constructor}
 
-Initializes a new instance of [`SimpleFontSubstitution`](../) class.
+Initializes a new instance of [`SimpleFontSubstitution`](../../../aspose.pdf.text/simplefontsubstitution/) class.
 
 ```csharp
-public SimpleFontSubstitution(string originalFontName, string substitutionFontName, 
-    bool isForcedBySaveOption = false)
+public SimpleFontSubstitution(string originalFontName, string substitutionFontName, bool isForcedBySaveOption)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| originalFontName | String | Original font name. |
-| substitutionFontName | String | Substitution font name. |
-| isForcedBySaveOption | Boolean | Substitution forced by DefaultFontName save option. |
+| originalFontName | string | Original font name. |
+| substitutionFontName | string | Substitution font name. |
+| isForcedBySaveOption | bool | Substitution forced by DefaultFontName save option. |
 
 ### See Also
 
-* class [SimpleFontSubstitution](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SimpleFontSubstitution](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

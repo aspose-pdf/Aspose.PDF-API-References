@@ -1,10 +1,14 @@
 ---
-title: Class SaveOptions.BorderPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SaveOptionsBorderPartStyle class. Represents information of one part of bordertop bottom left side or right side
+title: "SaveOptions.BorderPartStyle Class"
+linktitle: "SaveOptions.BorderPartStyle"
+articleTitle: "SaveOptions.BorderPartStyle"
+second_title: "Aspose.PDF for .NET"
+description: "Represents information of one part of border(top, bottom, left side or right side)"
 type: docs
-weight: 10190
-url: /net/aspose.pdf/saveoptions.borderpartstyle/
+weight: 2780
+url: "/net/aspose.pdf/saveoptions.borderpartstyle/"
+keywords: "SaveOptions.BorderPartStyle, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## SaveOptions.BorderPartStyle class
 
@@ -18,25 +22,24 @@ public class BorderPartStyle
 
 | Name | Description |
 | --- | --- |
-| [BorderPartStyle](../../aspose.pdf/saveoptions.borderpartstyle/.ctor)() | The default constructor. |
+| [SaveOptions.BorderPartStyle](./borderpartstyle/#constructor) | Initializes a new instance of the SaveOptions.BorderPartStyle class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [WidthInPoints](../../aspose.pdf/saveoptions.borderpartstyle/widthinpoints) { get; set; } | Represents border line's width in points. Must be number greater then zero. |
+| [WidthInPoints](./widthinpoints/) { get; set; } | Represents border line's width in points. Must be number greater then zero. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [Color](../../aspose.pdf/saveoptions.borderpartstyle/color) | Represents border line's line color |
-| [LineType](../../aspose.pdf/saveoptions.borderpartstyle/linetype) | Represents border line's type - f.e. Dashed or Solid |
+| [Color](./color/) | Represents border line's line color. |
+| [LineType](./linetype/) | Represents border line's type - f.e. Dashed or Solid. |
 
 ### See Also
 
-* class [SaveOptions](../saveoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [SaveOptions](../saveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

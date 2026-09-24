@@ -1,10 +1,13 @@
 ---
-title: MarkdownSaveOptions.ExtractVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: MarkdownSaveOptions property. Gets and sets a property indicating whether vector graphics should be extracted
+title: "MarkdownSaveOptions.ExtractVectorGraphics"
+linktitle: "ExtractVectorGraphics"
+articleTitle: "ExtractVectorGraphics"
+second_title: "Aspose.PDF for .NET"
+description: "Gets and sets a property indicating whether vector graphics should be extracted."
 type: docs
-weight: 40
-url: /net/aspose.pdf/markdownsaveoptions/extractvectorgraphics/
+weight: 20
+url: "/net/aspose.pdf/markdownsaveoptions/extractvectorgraphics/"
+product_version: "26.9.0"
 ---
 ## MarkdownSaveOptions.ExtractVectorGraphics property
 
@@ -14,10 +17,13 @@ Gets and sets a property indicating whether vector graphics should be extracted.
 public bool ExtractVectorGraphics { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [MarkdownSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MarkdownSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: FormImporterJsonOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: FormImporterJsonOptions property. Gets the collection of output targets where the resulting PDFs will be saved
+title: "FormImporterJsonOptions.Outputs"
+linktitle: "Outputs"
+articleTitle: "Outputs"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the collection of output targets where the resulting PDFs will be saved."
 type: docs
-weight: 30
-url: /net/aspose.pdf.lowcode/formimporterjsonoptions/outputs/
+weight: 50
+url: "/net/aspose.pdf.lowcode/formimporterjsonoptions/outputs/"
+product_version: "26.9.0"
 ---
 ## FormImporterJsonOptions.Outputs property
 
@@ -14,11 +17,13 @@ Gets the collection of output targets where the resulting PDFs will be saved.
 public List<IDataSource> Outputs { get; }
 ```
 
+### Property Value
+
+[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[IDataSource](../../../aspose.pdf.lowcode/idatasource/)>
+
 ### See Also
 
-* interface [IDataSource](../../idatasource/)
-* class [FormImporterJsonOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormImporterJsonOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

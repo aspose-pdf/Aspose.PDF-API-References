@@ -1,31 +1,29 @@
 ---
-title: DestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection property. Gets the destination object by index
+title: "DestinationCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 30
-url: /net/aspose.pdf/destinationcollection/item/
+weight: 120
+url: "/net/aspose.pdf/destinationcollection/item/"
+product_version: "26.9.0"
 ---
-## DestinationCollection indexer
+## DestinationCollection.Item property
 
-Gets the destination object by index.
+
 
 ```csharp
-public KeyValuePair<string, object> this[int index] { get; }
+public KeyValuePair<string, object> Item { get; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| index | The index of destination to get. |
+### Property Value
 
-### Return Value
-
-Destination.
+KeyValuePair<string, object>
 
 ### See Also
 
-* class [DestinationCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,23 +1,30 @@
 ---
-title: XmpField.Empty
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField property. Gets an Empty xmp field
+title: "XmpField.Empty"
+linktitle: "Empty"
+articleTitle: "Empty"
+second_title: "Aspose.PDF for .NET"
+description: "Gets an Empty xmp field."
 type: docs
-weight: 10
-url: /net/aspose.pdf/xmpfield/empty/
+weight: 70
+url: "/net/aspose.pdf/xmpfield/empty/"
+product_version: "26.9.0"
 ---
 ## XmpField.Empty property
 
 Gets an Empty xmp field.
 
 ```csharp
-public static XmpField Empty { get; }
+public XmpField Empty { get; }
 ```
+
+### Property Value
+
+[XmpField](../../../aspose.pdf/xmpfield/)
 
 ### See Also
 
-* class [XmpField](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpField](../../../aspose.pdf/xmpfield/)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

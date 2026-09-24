@@ -1,10 +1,13 @@
 ---
-title: BaseResponse.ReasonPhrase
-second_title: Aspose.PDF for .NET API Reference
-description: BaseResponse property. Gets the error reason phrase
+title: "BaseResponse.ReasonPhrase"
+linktitle: "ReasonPhrase"
+articleTitle: "ReasonPhrase"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the error reason phrase."
 type: docs
 weight: 70
-url: /net/aspose.pdf.ai/baseresponse/reasonphrase/
+url: "/net/aspose.pdf.ai/baseresponse/reasonphrase/"
+product_version: "26.9.0"
 ---
 ## BaseResponse.ReasonPhrase property
 
@@ -14,10 +17,13 @@ Gets the error reason phrase.
 public string ReasonPhrase { get; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [BaseResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BaseResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

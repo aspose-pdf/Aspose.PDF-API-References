@@ -1,12 +1,15 @@
 ---
-title: PdfContentEditor.CreateMarkup
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates markup annotation it PDF document
+title: "PdfContentEditor.CreateMarkup"
+linktitle: "CreateMarkup"
+articleTitle: "CreateMarkup"
+second_title: "Aspose.PDF for .NET"
+description: "Creates markup annotation it PDF document."
 type: docs
-weight: 200
-url: /net/aspose.pdf.facades/pdfcontenteditor/createmarkup/
+weight: 210
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createmarkup/"
+product_version: "26.9.0"
 ---
-## PdfContentEditor.CreateMarkup method
+## CreateMarkup([Rectangle](../../../aspose.pdf.drawing/rectangle/), string, int, int, [Color](../../../aspose.pdf/color/)) {#createmarkup}
 
 Creates markup annotation it PDF document.
 
@@ -17,25 +20,14 @@ public void CreateMarkup(Rectangle rect, string contents, int type, int page, Co
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | Rectangle | The rectangle defining the location of the annotation on the page. |
-| contents | String | The contents of the annotation. |
-| type | Int32 | The type of markup annotation. Can be 0 (Highlight), 1 (Underline), 2 (StrikeOut), 3 (Squiggly). |
-| page | Int32 | The number of original page where the annotation will be created. |
+| contents | string | The contents of the annotation. |
+| type | int | The type of markup annotation. Can be 0 (Highlight), 1 (Underline), 2 (StrikeOut), 3 (Squiggly). |
+| page | int | The number of original page where the annotation will be created. |
 | clr | Color | The color of markup. |
-
-## Examples
-
-```csharp
-PdfContentEditor editor = new PdfContentEditor();
-editor.BindPdf("example.pdf");
-editor.CreateMarkup(new System.Drawing.Rectangle(0, 0, 100, 100),
-    "Welcome to Aspose", 0, 1, System.Drawing.Color.Red);
-editor.Save("example_out.pdf");
-```
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

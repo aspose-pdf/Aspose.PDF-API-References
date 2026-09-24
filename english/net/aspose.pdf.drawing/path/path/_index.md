@@ -1,14 +1,33 @@
 ---
-title: Path.Path
-second_title: Aspose.PDF for .NET API Reference
-description: Path constructor. Initializes a new instance of the Path class
+title: "Path.Path"
+linktitle: "Path"
+articleTitle: "Path"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the Path class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.drawing/path/path/
+url: "/net/aspose.pdf.drawing/path/path/"
+product_version: "26.9.0"
 ---
+## Path() {#constructor}
+
+Initializes a new instance of the [`Path`](../../../aspose.pdf.drawing/path/) class.
+
+```csharp
+public Path()
+```
+
+### See Also
+
+* class [Path](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## Path(Shape[]) {#constructor_1}
 
-Initializes a new instance of the [`Path`](../) class.
+Initializes a new instance of the [`Path`](../../../aspose.pdf.drawing/path/) class.
 
 ```csharp
 public Path(Shape[] shapes)
@@ -20,25 +39,7 @@ public Path(Shape[] shapes)
 
 ### See Also
 
-* class [Shape](../../shape/)
-* class [Path](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Path() {#constructor}
-
-Initializes a new instance of the [`Path`](../) class.
-
-```csharp
-public Path()
-```
-
-### See Also
-
-* class [Path](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Path](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 

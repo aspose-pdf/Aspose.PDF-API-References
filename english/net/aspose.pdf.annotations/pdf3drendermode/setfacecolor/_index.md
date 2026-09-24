@@ -1,12 +1,15 @@
 ---
-title: PDF3DRenderMode.SetFaceColor
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode method. Sets the color of the face
+title: "PDF3DRenderMode.SetFaceColor"
+linktitle: "SetFaceColor"
+articleTitle: "SetFaceColor"
+second_title: "Aspose.PDF for .NET"
+description: "Sets the color of the face."
 type: docs
-weight: 230
-url: /net/aspose.pdf.annotations/pdf3drendermode/setfacecolor/
+weight: 60
+url: "/net/aspose.pdf.annotations/pdf3drendermode/setfacecolor/"
+product_version: "26.9.0"
 ---
-## PDF3DRenderMode.SetFaceColor method
+## SetFaceColor([Color](../../../aspose.pdf/color/)) {#setfacecolor}
 
 Sets the color of the face.
 
@@ -20,13 +23,14 @@ public PDF3DRenderMode SetFaceColor(Color color)
 
 ### Return Value
 
+[PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
+
 PDF3DRenderMode.
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
-* class [PDF3DRenderMode](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

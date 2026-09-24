@@ -1,14 +1,17 @@
 ---
-title: ToolCall.ToolCall
-second_title: Aspose.PDF for .NET API Reference
-description: ToolCall constructor. The default constructor
+title: "ToolCall.ToolCall"
+linktitle: "ToolCall"
+articleTitle: "ToolCall"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the ToolCall class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/toolcall/toolcall/
+url: "/net/aspose.pdf.ai/toolcall/toolcall/"
+product_version: "26.9.0"
 ---
-## ToolCall constructor
+## ToolCall() {#constructor}
 
-The default constructor.
+Initializes a new instance of the ToolCall class.
 
 ```csharp
 public ToolCall()
@@ -16,8 +19,7 @@ public ToolCall()
 
 ### See Also
 
-* class [ToolCall](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ToolCall](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,30 +1,37 @@
 ---
-title: Enum HtmlSaveOptions.HtmlMarkupGenerationModes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsHtmlMarkupGenerationModes enum. Sometimes specific reqirments to created HTML are present. This enum defines HTML preparing modes that can be used during conversion of PDF to HTML to match such specific requirments
+title: "HtmlSaveOptions.HtmlMarkupGenerationModes Enum"
+linktitle: "HtmlSaveOptions.HtmlMarkupGenerationModes"
+articleTitle: "HtmlSaveOptions.HtmlMarkupGenerationModes"
+second_title: "Aspose.PDF for .NET"
+description: "Sometimes specific reqirments to created HTML are present. This enum defines HTML preparing modes that can be used during conversion of PDF to HTML to match ..."
 type: docs
-weight: 5800
-url: /net/aspose.pdf/htmlsaveoptions.htmlmarkupgenerationmodes/
+weight: 1290
+url: "/net/aspose.pdf/htmlsaveoptions.htmlmarkupgenerationmodes/"
+product_version: "26.9.0"
 ---
 ## HtmlSaveOptions.HtmlMarkupGenerationModes enumeration
 
-Sometimes specific reqirments to created HTML are present. This enum defines HTML preparing modes that can be used during conversion of PDF to HTML to match such specific requirments.
+Sometimes specific reqirments to created HTML are present.
+ This enum defines HTML preparing modes that can be used
+ during conversion of PDF to HTML to match such specific requirments.
 
 ```csharp
 public enum HtmlMarkupGenerationModes
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
-| WriteAllHtml | `0` | Default mode any specific requirments are absent. Will be generated output that will contain all parts of HTML without any special additional processing. |
-| WriteOnlyBodyContent | `1` | will be stripped away all HTML content that is outside HTML's body, i.e. will be left only content that is inside \c \ \c \ tags |
+| --- | :---: | --- |
+| WriteAllHtml | `0` | Default mode any specific requirments are absent.
+ Will be generated output that will contain all parts of HTML
+ without any special additional processing. |
+| WriteOnlyBodyContent | `1` | will be stripped away all HTML content that is outside HTML's body,
+ i.e. will be left only content that is inside \c \ \c \ tags |
 
 ### See Also
 
-* class [HtmlSaveOptions](../htmlsaveoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

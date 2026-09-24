@@ -1,14 +1,17 @@
 ---
-title: PptxSaveOptions.PptxSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PptxSaveOptions constructor. The default constructor
+title: "PptxSaveOptions.PptxSaveOptions"
+linktitle: "PptxSaveOptions"
+articleTitle: "PptxSaveOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the PptxSaveOptions class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/pptxsaveoptions/pptxsaveoptions/
+url: "/net/aspose.pdf/pptxsaveoptions/pptxsaveoptions/"
+product_version: "26.9.0"
 ---
-## PptxSaveOptions constructor
+## PptxSaveOptions() {#constructor}
 
-The default constructor.
+Initializes a new instance of the PptxSaveOptions class.
 
 ```csharp
 public PptxSaveOptions()
@@ -16,8 +19,7 @@ public PptxSaveOptions()
 
 ### See Also
 
-* class [PptxSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PptxSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

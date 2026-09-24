@@ -1,10 +1,14 @@
 ---
-title: Class FormImporter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.FormImporter class. Plugin that imports form field values from a JSON source into a PDF document
+title: "FormImporter Class"
+linktitle: "FormImporter"
+articleTitle: "FormImporter"
+second_title: "Aspose.PDF for .NET"
+description: "Plugin that imports form field values from a JSON source into a PDF document."
 type: docs
-weight: 7360
-url: /net/aspose.pdf.lowcode/formimporter/
+weight: 310
+url: "/net/aspose.pdf.lowcode/formimporter/"
+keywords: "FormImporter, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## FormImporter class
 
@@ -18,18 +22,16 @@ public sealed class FormImporter : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [FormImporter](formimporter/)() | The default constructor. |
+| [FormImporter](./formimporter/#constructor) | Initializes a new instance of the FormImporter class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](../../aspose.pdf.lowcode/formimporter/process/)(IPluginOptions) | Starts the import processing with the specified options. |
+| [Process](./process/)(*IPluginOptions*) | Starts the import processing with the specified options. |
 
 ### See Also
 
-* interface [IPlugin](../iplugin/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

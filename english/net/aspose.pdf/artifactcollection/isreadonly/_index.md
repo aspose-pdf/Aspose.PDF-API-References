@@ -1,10 +1,13 @@
 ---
-title: ArtifactCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection property. Gets if collection is readonly. Always returns false
+title: "ArtifactCollection.IsReadOnly"
+linktitle: "IsReadOnly"
+articleTitle: "IsReadOnly"
+second_title: "Aspose.PDF for .NET"
+description: "Gets if collection is readonly. Always returns false."
 type: docs
-weight: 20
-url: /net/aspose.pdf/artifactcollection/isreadonly/
+weight: 120
+url: "/net/aspose.pdf/artifactcollection/isreadonly/"
+product_version: "26.9.0"
 ---
 ## ArtifactCollection.IsReadOnly property
 
@@ -14,10 +17,13 @@ Gets if collection is readonly. Always returns false.
 public bool IsReadOnly { get; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [ArtifactCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

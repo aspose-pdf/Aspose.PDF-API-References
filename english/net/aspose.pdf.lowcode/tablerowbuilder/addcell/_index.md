@@ -1,28 +1,32 @@
 ---
-title: TableRowBuilder.AddCell
-second_title: Aspose.PDF for .NET API Reference
-description: TableRowBuilder method. Add cell to table row
+title: "TableRowBuilder.AddCell"
+linktitle: "AddCell"
+articleTitle: "AddCell"
+second_title: "Aspose.PDF for .NET"
+description: "Add cell to table row."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/tablerowbuilder/addcell/
+url: "/net/aspose.pdf.lowcode/tablerowbuilder/addcell/"
+product_version: "26.9.0"
 ---
-## TableRowBuilder.AddCell method
+## AddCell() {#addcell}
 
 Add cell to table row.
 
 ```csharp
-public virtual TableCellBuilder AddCell()
+public TableCellBuilder AddCell()
 ```
 
 ### Return Value
 
-Instance of created [`TableCellBuilder`](../../tablecellbuilder/).
+[TableCellBuilder](../../../aspose.pdf.lowcode/tablecellbuilder/)
+
+Instance of created [`TableCellBuilder`](../../../aspose.pdf.lowcode/tablecellbuilder/).
 
 ### See Also
 
-* class [TableCellBuilder](../../tablecellbuilder/)
-* class [TableRowBuilder](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TableCellBuilder](../../../aspose.pdf.lowcode/tablecellbuilder/)
+* class [TableRowBuilder](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

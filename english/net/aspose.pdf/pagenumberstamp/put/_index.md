@@ -1,17 +1,20 @@
 ---
-title: PageNumberStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumberStamp method. Adds page number
+title: "PageNumberStamp.Put"
+linktitle: "Put"
+articleTitle: "Put"
+second_title: "Aspose.PDF for .NET"
+description: "Adds page number."
 type: docs
-weight: 50
-url: /net/aspose.pdf/pagenumberstamp/put/
+weight: 40
+url: "/net/aspose.pdf/pagenumberstamp/put/"
+product_version: "26.9.0"
 ---
-## PageNumberStamp.Put method
+## Put([Page](../../../aspose.pdf/page/)) {#put}
 
 Adds page number.
 
 ```csharp
-public override void Put(Page page)
+public void Put(Page page)
 ```
 
 | Parameter | Type | Description |
@@ -20,9 +23,7 @@ public override void Put(Page page)
 
 ### See Also
 
-* class [Page](../../page/)
-* class [PageNumberStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

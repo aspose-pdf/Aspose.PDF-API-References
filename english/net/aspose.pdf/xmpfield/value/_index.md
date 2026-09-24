@@ -1,10 +1,13 @@
 ---
-title: XmpField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField property. Gets the value
+title: "XmpField.Value"
+linktitle: "Value"
+articleTitle: "Value"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the value."
 type: docs
-weight: 90
-url: /net/aspose.pdf/xmpfield/value/
+weight: 130
+url: "/net/aspose.pdf/xmpfield/value/"
+product_version: "26.9.0"
 ---
 ## XmpField.Value property
 
@@ -16,13 +19,12 @@ public XmpValue Value { get; }
 
 ### Property Value
 
-The value.
+[XmpValue](../../../aspose.pdf/xmpvalue/)
 
 ### See Also
 
-* class [XmpValue](../../xmpvalue/)
-* class [XmpField](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

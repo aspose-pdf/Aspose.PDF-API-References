@@ -1,66 +1,38 @@
 ---
-title: Class Html
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.Html class. Represents Html plugin
+title: "Html Class"
+linktitle: "Html"
+articleTitle: "Html"
+second_title: "Aspose.PDF for .NET"
+description: "Represents plugin."
 type: docs
-weight: 7440
-url: /net/aspose.pdf.lowcode/html/
+weight: 390
+url: "/net/aspose.pdf.lowcode/html/"
+keywords: "Html, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## Html class
 
-Represents `Html` plugin.
+Represents [`Html`](../../aspose.pdf.lowcode/html/) plugin.
 
 ```csharp
-public sealed class Html : IDisposable, IPlugin
+public sealed class Html : IPlugin, IDisposable
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [Html](html/)() | The default constructor. |
+| [Html](./html/#constructor) | Initializes a new instance of the Html class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.pdf.lowcode/html/dispose/)() | Implementation of IDisposable. |
-| [Process](../../aspose.pdf.lowcode/html/process/)(IPluginOptions) | Starts the `Html` processing with the specified parameters. |
-
-## Examples
-
-The example demonstrates how to convert PDF to HTML document.
-
-```csharp
-// create Html
-var converter = new Html();
-// create PdfToHtmlOptions object to set output data type as file with embedded resources
-var opt = new PdfToHtmlOptions(PdfToHtmlOptions.SaveDataType.FileWithEmbeddedResources);
-// add input file path
-opt.AddInput(new FileDataSource(inputPath));
-// set output file path
-opt.AddOutput(new FileDataSource(outputPath));
-converter.Process(opt);
-```
-
-The example demonstrates how to convert HTML to PDF document.
-
-```csharp
-// create Html
-var converter = new Html();
-// create HtmlToPdfOptions
-var opt = new HtmlToPdfOptions();
-// add input file path
-opt.AddInput(new FileDataSource(inputPath));
-// set output file path
-opt.AddOutput(new FileDataSource(outputPath));
-converter.Process(opt);
-```
+| [Dispose](./dispose/) | Implementation of IDisposable. |
+| [Process](./process/)(*IPluginOptions*) | Starts the [`Html`](../../aspose.pdf.lowcode/html/) processing with the specified parameters. |
 
 ### See Also
 
-* interface [IPlugin](../iplugin/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

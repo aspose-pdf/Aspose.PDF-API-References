@@ -1,12 +1,15 @@
 ---
-title: NamedDestination.NamedDestination
-second_title: Aspose.PDF for .NET API Reference
-description: NamedDestination constructor. Create named destination
+title: "NamedDestination.NamedDestination"
+linktitle: "NamedDestination"
+articleTitle: "NamedDestination"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the NamedDestination class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/nameddestination/nameddestination/
+url: "/net/aspose.pdf.annotations/nameddestination/nameddestination/"
+product_version: "26.9.0"
 ---
-## NamedDestination constructor
+## NamedDestination([Document](../../../aspose.pdf/document/), string) {#constructor}
 
 Create named destination.
 
@@ -17,13 +20,11 @@ public NamedDestination(Document doc, string name)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | doc | Document | Document where named destination should be created. |
-| name | String | Name to which destination refers. |
+| name | string | Name to which destination refers. |
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [NamedDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [NamedDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

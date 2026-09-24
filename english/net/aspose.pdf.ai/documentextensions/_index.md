@@ -1,10 +1,14 @@
 ---
-title: Class DocumentExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.DocumentExtensions class. Extension methods for Document to support AI ingestion and chunking
+title: "DocumentExtensions Class"
+linktitle: "DocumentExtensions"
+articleTitle: "DocumentExtensions"
+second_title: "Aspose.PDF for .NET"
+description: "Extension methods for to support AI ingestion and chunking."
 type: docs
 weight: 340
-url: /net/aspose.pdf.ai/documentextensions/
+url: "/net/aspose.pdf.ai/documentextensions/"
+keywords: "DocumentExtensions, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## DocumentExtensions class
 
@@ -18,12 +22,11 @@ public static class DocumentExtensions
 
 | Name | Description |
 | --- | --- |
-| static [GetChunksAsync](../../aspose.pdf.ai/documentextensions/getchunksasync/)(this Document, ChunkingOptions, string, MarkdownSaveOptions, CancellationToken) |  |
-| static [IngestAsync](../../aspose.pdf.ai/documentextensions/ingestasync/)(this Document, ChunkingOptions, string, IEmbeddingGenerator&lt;string, Embedding&lt;float&gt;&gt;, VectorStoreCollection&lt;string, DocumentChunk&gt;, MarkdownSaveOptions, CancellationToken) |  |
+| [GetChunksAsync](./getchunksasync/)(*Document, ChunkingOptions, string, MarkdownSaveOptions, CancellationToken*) |  |
+| [IngestAsync](./ingestasync/)(*Document, ChunkingOptions, string, IEmbeddingGenerator<string, Embedding<float>>, VectorStoreCollection<string, DocumentChunk>, MarkdownSaveOptions, CancellationToken*) |  |
 
 ### See Also
 
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

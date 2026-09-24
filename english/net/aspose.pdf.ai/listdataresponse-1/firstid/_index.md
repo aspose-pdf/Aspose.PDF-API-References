@@ -1,23 +1,29 @@
 ---
-title: ListDataResponse1.FirstId
-second_title: Aspose.PDF for .NET API Reference
-description: ListDataResponse property. Gets or sets the first ID in the list
+title: "ListDataResponse<T>.FirstId"
+linktitle: "FirstId"
+articleTitle: "FirstId"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
 weight: 20
-url: /net/aspose.pdf.ai/listdataresponse-1/firstid/
+url: "/net/aspose.pdf.ai/listdataresponse-1/firstid/"
+product_version: "26.9.0"
 ---
-## ListDataResponse&lt;T&gt;.FirstId property
+## ListDataResponse<T>.FirstId property
 
-Gets or sets the first ID in the list.
+
 
 ```csharp
 public string FirstId { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [ListDataResponse&lt;T&gt;](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ListDataResponse<T>](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

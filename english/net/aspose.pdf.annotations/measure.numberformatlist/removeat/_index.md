@@ -1,12 +1,15 @@
 ---
-title: Measure.NumberFormatList.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormatList method. Removes number format from list
+title: "Measure.NumberFormatList.RemoveAt"
+linktitle: "RemoveAt"
+articleTitle: "RemoveAt"
+second_title: "Aspose.PDF for .NET"
+description: "Removes number format from list."
 type: docs
-weight: 60
-url: /net/aspose.pdf.annotations/measure.numberformatlist/removeat/
+weight: 40
+url: "/net/aspose.pdf.annotations/measure.numberformatlist/removeat/"
+product_version: "26.9.0"
 ---
-## Measure.NumberFormatList.RemoveAt method
+## RemoveAt(int) {#removeat}
 
 Removes number format from list.
 
@@ -16,12 +19,11 @@ public void RemoveAt(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | Int32 | Index of item to be removed. |
+| index | int | Index of item to be removed. |
 
 ### See Also
 
-* class [NumberFormatList](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Measure.NumberFormatList](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

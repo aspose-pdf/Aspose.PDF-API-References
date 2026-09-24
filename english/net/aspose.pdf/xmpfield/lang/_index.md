@@ -1,23 +1,30 @@
 ---
-title: XmpField.Lang
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField property. Gets xmllang qualifier
+title: "XmpField.Lang"
+linktitle: "Lang"
+articleTitle: "Lang"
+second_title: "Aspose.PDF for .NET"
+description: "Gets xml:lang qualifier."
 type: docs
-weight: 20
-url: /net/aspose.pdf/xmpfield/lang/
+weight: 80
+url: "/net/aspose.pdf/xmpfield/lang/"
+product_version: "26.9.0"
 ---
 ## XmpField.Lang property
 
 Gets xml:lang qualifier.
 
 ```csharp
-public static XmpField Lang { get; }
+public XmpField Lang { get; }
 ```
+
+### Property Value
+
+[XmpField](../../../aspose.pdf/xmpfield/)
 
 ### See Also
 
-* class [XmpField](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpField](../../../aspose.pdf/xmpfield/)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

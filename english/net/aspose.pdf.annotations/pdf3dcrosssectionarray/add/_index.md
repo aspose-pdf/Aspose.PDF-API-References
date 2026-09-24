@@ -1,12 +1,15 @@
 ---
-title: PDF3DCrossSectionArray.Add
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSectionArray method. Adds the specified cross section to views array 
+title: "PDF3DCrossSectionArray.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: "Adds the specified cross section to views array ."
 type: docs
-weight: 40
-url: /net/aspose.pdf.annotations/pdf3dcrosssectionarray/add/
+weight: 20
+url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/add/"
+product_version: "26.9.0"
 ---
-## PDF3DCrossSectionArray.Add method
+## Add([PDF3DCrossSection](../../../aspose.pdf.annotations/pdf3dcrosssection/)) {#add}
 
 Adds the specified cross section to views array .
 
@@ -20,9 +23,7 @@ public void Add(PDF3DCrossSection crossSection)
 
 ### See Also
 
-* class [PDF3DCrossSection](../../pdf3dcrosssection/)
-* class [PDF3DCrossSectionArray](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

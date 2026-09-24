@@ -1,12 +1,15 @@
 ---
-title: Document.Validate
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Validate document into the specified file
+title: "Document.Validate"
+linktitle: "Validate"
+articleTitle: "Validate"
+second_title: "Aspose.PDF for .NET"
+description: "Validate document into the specified file."
 type: docs
-weight: 910
-url: /net/aspose.pdf/document/validate/
+weight: 380
+url: "/net/aspose.pdf/document/validate/"
+product_version: "26.9.0"
 ---
-## Validate(string, PdfFormat) {#validate_2}
+## Validate(string, [PdfFormat](../../../aspose.pdf/pdfformat/)) {#validate}
 
 Validate document into the specified file.
 
@@ -16,23 +19,24 @@ public bool Validate(string outputLogFileName, PdfFormat format)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputLogFileName | String | Path to file where the comments will be stored. |
+| outputLogFileName | string | Path to file where the comments will be stored. |
 | format | PdfFormat | The pdf format. |
 
 ### Return Value
+
+bool
 
 The operation result
 
 ### See Also
 
-* enum [PdfFormat](../../pdfformat/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Validate(Stream, PdfFormat) {#validate_1}
+## Validate(Stream, [PdfFormat](../../../aspose.pdf/pdfformat/)) {#validate_1}
 
 Validate document into the specified file.
 
@@ -47,18 +51,19 @@ public bool Validate(Stream outputLogStream, PdfFormat format)
 
 ### Return Value
 
+bool
+
 The operation result
 
 ### See Also
 
-* enum [PdfFormat](../../pdfformat/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Validate(PdfFormatConversionOptions) {#validate}
+## Validate([PdfFormatConversionOptions](../../../aspose.pdf/pdfformatconversionoptions/)) {#validate_2}
 
 Validate document into the specified file.
 
@@ -72,13 +77,13 @@ public bool Validate(PdfFormatConversionOptions options)
 
 ### Return Value
 
+bool
+
 The operation result
 
 ### See Also
 
-* class [PdfFormatConversionOptions](../../pdfformatconversionoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

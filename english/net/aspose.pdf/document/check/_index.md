@@ -1,12 +1,15 @@
 ---
-title: Document.Check
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Validates document
+title: "Document.Check"
+linktitle: "Check"
+articleTitle: "Check"
+second_title: "Aspose.PDF for .NET"
+description: "Validates document."
 type: docs
-weight: 590
-url: /net/aspose.pdf/document/check/
+weight: 960
+url: "/net/aspose.pdf/document/check/"
+product_version: "26.9.0"
 ---
-## Document.Check method
+## Check(bool) {#check}
 
 Validates document.
 
@@ -16,16 +19,17 @@ public bool Check(bool doRepair)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doRepair | Boolean | If true found issues will be repaired. |
+| doRepair | bool | If true found issues will be repaired. |
 
 ### Return Value
+
+bool
 
 True - if document repaired; otherwise, false.
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

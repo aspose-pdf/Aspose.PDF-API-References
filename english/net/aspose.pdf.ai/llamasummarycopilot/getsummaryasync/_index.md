@@ -1,21 +1,33 @@
 ---
-title: LlamaSummaryCopilot.GetSummaryAsync
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilot method. 
+title: "LlamaSummaryCopilot.GetSummaryAsync"
+linktitle: "GetSummaryAsync"
+articleTitle: "GetSummaryAsync"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/llamasummarycopilot/getsummaryasync/
+weight: 60
+url: "/net/aspose.pdf.ai/llamasummarycopilot/getsummaryasync/"
+product_version: "26.9.0"
 ---
-## LlamaSummaryCopilot.GetSummaryAsync method
+## GetSummaryAsync(Nullable<CancellationToken>) {#getsummaryasync}
+
+
 
 ```csharp
-public Task<string> GetSummaryAsync(CancellationToken? cancellationToken = default)
+public Task<string> GetSummaryAsync(Nullable<CancellationToken> cancellationToken)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| cancellationToken | Nullable<CancellationToken> |  |
+
+### Return Value
+
+[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<string>
 
 ### See Also
 
-* class [LlamaSummaryCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LlamaSummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

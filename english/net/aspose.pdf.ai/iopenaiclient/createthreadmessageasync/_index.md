@@ -1,27 +1,31 @@
 ---
-title: IOpenAIClient.CreateThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Creates a new message within a thread asynchronously
+title: "IOpenAIClient.CreateThreadMessageAsync"
+linktitle: "CreateThreadMessageAsync"
+articleTitle: "CreateThreadMessageAsync"
+second_title: "Aspose.PDF for .NET"
+description: "Creates a new message within a thread asynchronously."
 type: docs
-weight: 80
-url: /net/aspose.pdf.ai/iopenaiclient/createthreadmessageasync/
+weight: 70
+url: "/net/aspose.pdf.ai/iopenaiclient/createthreadmessageasync/"
+product_version: "26.9.0"
 ---
-## IOpenAIClient.CreateThreadMessageAsync method
+## CreateThreadMessageAsync(string, [ThreadMessageCreateRequest](../../../aspose.pdf.ai/threadmessagecreaterequest/), Nullable<CancellationToken>) {#createthreadmessageasync}
 
 Creates a new message within a thread asynchronously.
 
 ```csharp
-public Task<ThreadMessageResponse> CreateThreadMessageAsync(string threadId, 
-    ThreadMessageCreateRequest threadMessageRequest, CancellationToken? cancellationToken = default)
+public Task<ThreadMessageResponse> CreateThreadMessageAsync(string threadId, ThreadMessageCreateRequest threadMessageRequest, Nullable<CancellationToken> cancellationToken)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threadId | String | The ID of the thread where the message will be created. |
+| threadId | string | The ID of the thread where the message will be created. |
 | threadMessageRequest | ThreadMessageCreateRequest | The request details for creating the message. |
-| cancellationToken | Nullable`1 | A token to cancel the operation. |
+| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
 
 ### Return Value
+
+[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[ThreadMessageResponse](../../../aspose.pdf.ai/threadmessageresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the response from the message creation.
 
@@ -29,14 +33,11 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Thrown when the thread Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread Id is null or empty. |
 
 ### See Also
 
-* class [ThreadMessageResponse](../../threadmessageresponse/)
-* class [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

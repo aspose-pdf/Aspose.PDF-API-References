@@ -1,17 +1,20 @@
 ---
-title: XmpPdfAExtensionValueType.GetXml
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType method. Returns the list of xml elements that represent value type in xml tree
+title: "XmpPdfAExtensionValueType.GetXml"
+linktitle: "GetXml"
+articleTitle: "GetXml"
+second_title: "Aspose.PDF for .NET"
+description: "Returns the list of xml elements that represent value type in xml tree."
 type: docs
-weight: 90
-url: /net/aspose.pdf/xmppdfaextensionvaluetype/getxml/
+weight: 60
+url: "/net/aspose.pdf/xmppdfaextensionvaluetype/getxml/"
+product_version: "26.9.0"
 ---
-## XmpPdfAExtensionValueType.GetXml method
+## GetXml(XmlDocument) {#getxml}
 
 Returns the list of xml elements that represent value type in xml tree.
 
 ```csharp
-public override List<XmlElement> GetXml(XmlDocument xmlDocument)
+public List<XmlElement> GetXml(XmlDocument xmlDocument)
 ```
 
 | Parameter | Type | Description |
@@ -20,12 +23,13 @@ public override List<XmlElement> GetXml(XmlDocument xmlDocument)
 
 ### Return Value
 
+[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<XmlElement>
+
 The list of xml elements.
 
 ### See Also
 
-* class [XmpPdfAExtensionValueType](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

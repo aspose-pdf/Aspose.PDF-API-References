@@ -1,12 +1,15 @@
 ---
-title: Field.Field
-second_title: Aspose.PDF for .NET API Reference
-description: Field constructor. Creates field for use in Generator
+title: "Field.Field"
+linktitle: "Field"
+articleTitle: "Field"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the Field class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.forms/field/field/
+url: "/net/aspose.pdf.forms/field/field/"
+product_version: "26.9.0"
 ---
-## Field constructor
+## Field([Document](../../../aspose.pdf/document/)) {#constructor}
 
 Creates field for use in Generator.
 
@@ -20,9 +23,7 @@ public Field(Document doc)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [Field](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

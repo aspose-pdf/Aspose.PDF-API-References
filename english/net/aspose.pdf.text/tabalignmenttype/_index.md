@@ -1,10 +1,13 @@
 ---
-title: Enum TabAlignmentType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TabAlignmentType enum. Enumerates the tab alignment types
+title: "TabAlignmentType Enum"
+linktitle: "TabAlignmentType"
+articleTitle: "TabAlignmentType"
+second_title: "Aspose.PDF for .NET"
+description: "Enumerates the tab alignment types."
 type: docs
-weight: 11150
-url: /net/aspose.pdf.text/tabalignmenttype/
+weight: 360
+url: "/net/aspose.pdf.text/tabalignmenttype/"
+product_version: "26.9.0"
 ---
 ## TabAlignmentType enumeration
 
@@ -14,17 +17,16 @@ Enumerates the tab alignment types.
 public enum TabAlignmentType
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Left | `0` | Text aligned left from tab stop |
 | Center | `1` | Text aligned center from tab stop |
 | Right | `2` | Text aligned right from tab stop |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,21 +1,34 @@
 ---
-title: OpenAIChatCopilot.SaveContextAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilot method. 
+title: "OpenAIChatCopilot.SaveContextAsync"
+linktitle: "SaveContextAsync"
+articleTitle: "SaveContextAsync"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 50
-url: /net/aspose.pdf.ai/openaichatcopilot/savecontextasync/
+weight: 80
+url: "/net/aspose.pdf.ai/openaichatcopilot/savecontextasync/"
+product_version: "26.9.0"
 ---
-## OpenAIChatCopilot.SaveContextAsync method
+## SaveContextAsync(string, Nullable<CancellationToken>) {#savecontextasync}
+
+
 
 ```csharp
-public Task SaveContextAsync(string jsonFilePath, CancellationToken? cancellationToken)
+public Task SaveContextAsync(string jsonFilePath, Nullable<CancellationToken> cancellationToken)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| jsonFilePath | string |  |
+| cancellationToken | Nullable<CancellationToken> |  |
+
+### Return Value
+
+[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
 
 ### See Also
 
-* class [OpenAIChatCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

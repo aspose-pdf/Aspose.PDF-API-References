@@ -1,27 +1,32 @@
 ---
-title: CosPdfName.ToCosPdfName
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfName method. Tries cast this instance to CosPdfName
+title: "CosPdfName.ToCosPdfName"
+linktitle: "ToCosPdfName"
+articleTitle: "ToCosPdfName"
+second_title: "Aspose.PDF for .NET"
+description: "Tries cast this instance to ."
 type: docs
-weight: 50
-url: /net/aspose.pdf.dataeditor/cospdfname/tocospdfname/
+weight: 20
+url: "/net/aspose.pdf.dataeditor/cospdfname/tocospdfname/"
+product_version: "26.9.0"
 ---
-## CosPdfName.ToCosPdfName method
+## ToCosPdfName() {#tocospdfname}
 
-Tries cast this instance to [`CosPdfName`](../).
+Tries cast this instance to [`CosPdfName`](../../../aspose.pdf.dataeditor/cospdfname/).
 
 ```csharp
-public override CosPdfName ToCosPdfName()
+public CosPdfName ToCosPdfName()
 ```
 
 ### Return Value
 
-null if instance is not [`CosPdfName`](../) else [`CosPdfName`](../).
+[CosPdfName](../../../aspose.pdf.dataeditor/cospdfname/)
+
+null if instance is not [`CosPdfName`](../../../aspose.pdf.dataeditor/cospdfname/) else [`CosPdfName`](../../../aspose.pdf.dataeditor/cospdfname/).
 
 ### See Also
 
-* class [CosPdfName](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CosPdfName](../../../aspose.pdf.dataeditor/cospdfname/)
+* class [CosPdfName](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

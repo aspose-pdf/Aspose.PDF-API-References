@@ -1,14 +1,21 @@
 ---
-title: Class XmpPdfAExtensionField
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpPdfAExtensionField class. This schema describes a field in a structured type. It is very similar to the PDF/A Property Value Type schema but defines a field in a structure instead of a property. Schema namespace URI http//www.aiim.org/pdfa/ns/field Required schema namespace prefix pdfaField
+title: "XmpPdfAExtensionField Class"
+linktitle: "XmpPdfAExtensionField"
+articleTitle: "XmpPdfAExtensionField"
+second_title: "Aspose.PDF for .NET"
+description: "This schema describes a field in a structured type. It is very similar to the PDF/A Property Value Type schema, but defines a field in a structure instead of..."
 type: docs
-weight: 11850
-url: /net/aspose.pdf/xmppdfaextensionfield/
+weight: 3290
+url: "/net/aspose.pdf/xmppdfaextensionfield/"
+keywords: "XmpPdfAExtensionField, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## XmpPdfAExtensionField class
 
-This schema describes a field in a structured type. It is very similar to the PDF/A Property Value Type schema, but defines a field in a structure instead of a property. Schema namespace URI: http://www.aiim.org/pdfa/ns/field# Required schema namespace prefix: pdfaField.
+This schema describes a field in a structured type. It is very similar to the PDF/A Property Value Type 
+ schema, but defines a field in a structure instead of a property.
+ Schema namespace URI: http://www.aiim.org/pdfa/ns/field#
+ Required schema namespace prefix: pdfaField.
 
 ```csharp
 public class XmpPdfAExtensionField : XmpPdfAExtensionObject
@@ -18,27 +25,26 @@ public class XmpPdfAExtensionField : XmpPdfAExtensionObject
 
 | Name | Description |
 | --- | --- |
-| [XmpPdfAExtensionField](xmppdfaextensionfield/)(string, string, string, string) | Initializes object. |
+| [XmpPdfAExtensionField](./xmppdfaextensionfield/#constructor)(*string, string, string, string*) | Initializes object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Gets the description. |
-| [Name](../../aspose.pdf/xmppdfaextensionfield/name/) { get; } | Field name. Field names must be valid XML element names. |
-| [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Gets or sets the value. |
-| [ValueType](../../aspose.pdf/xmppdfaextensionfield/valuetype/) { get; } | Field value type, drawn from XMP Specification 2004, or an embedded PDF/A value type extension schema. Predefined XMP type names or names of custom types. |
+| [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Gets the description. *(Inherited from XmpPdfAExtensionObject)* |
+| [Name](./name/) { get; } | Field name. Field names must be valid XML element names. |
+| [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Gets or sets the value. *(Inherited from XmpPdfAExtensionObject)* |
+| [ValueType](./valuetype/) { get; } | Field value type, drawn from XMP Specification 2004, or an embedded PDF/A value type extension. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXml](../../aspose.pdf/xmppdfaextensionfield/getxml/)(XmlDocument) | Returns the list of xml elements that represent field in xml tree. |
+| [GetXml](./getxml/)(*XmlDocument*) | Returns the list of xml elements that represent field in xml tree. |
 
 ### See Also
 
-* class [XmpPdfAExtensionObject](../xmppdfaextensionobject/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [XmpPdfAExtensionObject](../xmppdfaextensionobject/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: SoundData.Channels
-second_title: Aspose.PDF for .NET API Reference
-description: SoundData property. Gets or sets the number of sound channels
+title: "SoundData.Channels"
+linktitle: "Channels"
+articleTitle: "Channels"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the number of sound channels."
 type: docs
 weight: 20
-url: /net/aspose.pdf.annotations/sounddata/channels/
+url: "/net/aspose.pdf.annotations/sounddata/channels/"
+product_version: "26.9.0"
 ---
 ## SoundData.Channels property
 
@@ -14,10 +17,13 @@ Gets or sets the number of sound channels.
 public int Channels { get; set; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [SoundData](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SoundData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

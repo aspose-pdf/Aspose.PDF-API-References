@@ -1,24 +1,26 @@
 ---
-title: Enum SubmitFormFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.SubmitFormFlag enum. Enumeration of possible submit form flags
+title: "SubmitFormFlag Enum"
+linktitle: "SubmitFormFlag"
+articleTitle: "SubmitFormFlag"
+second_title: "Aspose.PDF for .NET"
+description: "Enumeration of possible submit form flags."
 type: docs
-weight: 4910
-url: /net/aspose.pdf.facades/submitformflag/
+weight: 640
+url: "/net/aspose.pdf.facades/submitformflag/"
+product_version: "26.9.0"
 ---
 ## SubmitFormFlag enumeration
 
 Enumeration of possible submit form flags.
 
 ```csharp
-[Flags]
 public enum SubmitFormFlag
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Fdf | `0` | Data will be returned in FDF format. |
 | Html | `1` | Data will be returned in HTML format. |
 | Xfdf | `2` | Data will be returned in XFDF format. |
@@ -28,7 +30,6 @@ public enum SubmitFormFlag
 
 ### See Also
 
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,47 +1,55 @@
 ---
-title: Class BaseOperatorCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BaseOperatorCollection class. Represents base class for operator collection
+title: "BaseOperatorCollection Class"
+linktitle: "BaseOperatorCollection"
+articleTitle: "BaseOperatorCollection"
+second_title: "Aspose.PDF for .NET"
+description: "Represents base class for operator collection."
 type: docs
-weight: 2940
-url: /net/aspose.pdf/baseoperatorcollection/
+weight: 120
+url: "/net/aspose.pdf/baseoperatorcollection/"
+keywords: "BaseOperatorCollection, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## BaseOperatorCollection class
 
 Represents base class for operator collection.
 
 ```csharp
-public abstract class BaseOperatorCollection : ICollection<Operator>
+public abstract class BaseOperatorCollection : IEnumerable
 ```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [BaseOperatorCollection](./baseoperatorcollection/#constructor) | Initializes a new instance of the BaseOperatorCollection class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| abstract [Count](../../aspose.pdf/baseoperatorcollection/count/) { get; } | Gets count of operators in the collection. |
-| abstract [IsFastTextExtractionMode](../../aspose.pdf/baseoperatorcollection/isfasttextextractionmode/) { get; } | Indicates wheather collection is limited to fast text extraction |
-| abstract [IsReadOnly](../../aspose.pdf/baseoperatorcollection/isreadonly/) { get; } | Returns true if collection is read only. |
-| abstract [Item](../../aspose.pdf/baseoperatorcollection/item/) { get; set; } | Gets operator by its index. |
+| [Count](./count/) { get; } | Gets count of operators in the collection. |
+| [IsFastTextExtractionMode](./isfasttextextractionmode/) { get; } | Indicates wheather collection is limited to fast text extraction. |
+| [IsReadOnly](./isreadonly/) { get; } | Returns true if collection is read only. |
+| [Item](./item/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [Add](../../aspose.pdf/baseoperatorcollection/add/)(Operator) | Adds new operator into collection. |
-| abstract [CancelUpdate](../../aspose.pdf/baseoperatorcollection/cancelupdate/)() | Cancels last update. This method may be called when the change should not raise contents update. |
-| abstract [Clear](../../aspose.pdf/baseoperatorcollection/clear/)() | Clears collection. |
-| abstract [Contains](../../aspose.pdf/baseoperatorcollection/contains/)(Operator) | Checks if operator exists in collection. |
-| abstract [CopyTo](../../aspose.pdf/baseoperatorcollection/copyto/)(Operator[], int) | Copies operators into operators list. |
-| abstract [GetEnumerator](../../aspose.pdf/baseoperatorcollection/getenumerator/)() | Returns enumerator for collection |
-| abstract [Insert](../../aspose.pdf/baseoperatorcollection/insert/)(int, Operator) | Inserts operator into collection. |
-| abstract [Remove](../../aspose.pdf/baseoperatorcollection/remove/)(Operator) | Removes operator from collection. |
-| abstract [ResumeUpdate](../../aspose.pdf/baseoperatorcollection/resumeupdate/)() | Resumes document update. Updates contents stream in case there are any pending changes. |
-| abstract [SuppressUpdate](../../aspose.pdf/baseoperatorcollection/suppressupdate/)() | Suppresses update contents data. The contents stream is not updated until ResumeUpdate is called. |
+| [Add](./add/)(*Operator*) | Adds new operator into collection. |
+| [CancelUpdate](./cancelupdate/) | Cancels last update. |
+| [Clear](./clear/) | Clears collection. |
+| [Contains](./contains/)(*Operator*) | Checks if operator exists in collection. |
+| [CopyTo](./copyto/)(*Operator[], int*) | Copies operators into operators list. |
+| [GetEnumerator](./getenumerator/) | Returns enumerator for collection. |
+| [Insert](./insert/)(*int, Operator*) | Inserts operator into collection. |
+| [Remove](./remove/)(*Operator*) | Removes operator from collection. |
+| [ResumeUpdate](./resumeupdate/) | Resumes document update. |
+| [SuppressUpdate](./suppressupdate/) | Suppresses update contents data. |
 
 ### See Also
 
-* class [Operator](../operator/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PdfFileInfo.IsEncrypted
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo property. Checkes whether the PDF document is encrypted
+title: "PdfFileInfo.IsEncrypted"
+linktitle: "IsEncrypted"
+articleTitle: "IsEncrypted"
+second_title: "Aspose.PDF for .NET"
+description: "Checkes whether the PDF document is encrypted."
 type: docs
-weight: 90
-url: /net/aspose.pdf.facades/pdffileinfo/isencrypted/
+weight: 320
+url: "/net/aspose.pdf.facades/pdffileinfo/isencrypted/"
+product_version: "26.9.0"
 ---
 ## PdfFileInfo.IsEncrypted property
 
@@ -14,10 +17,13 @@ Checkes whether the PDF document is encrypted.
 public bool IsEncrypted { get; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [PdfFileInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

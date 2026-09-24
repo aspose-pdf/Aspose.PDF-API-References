@@ -1,12 +1,15 @@
 ---
-title: Paragraphs.RemoveRange
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphs method. Remove paragraphs range
+title: "Paragraphs.RemoveRange"
+linktitle: "RemoveRange"
+articleTitle: "RemoveRange"
+second_title: "Aspose.PDF for .NET"
+description: "Remove paragraphs range."
 type: docs
-weight: 120
-url: /net/aspose.pdf/paragraphs/removerange/
+weight: 40
+url: "/net/aspose.pdf/paragraphs/removerange/"
+product_version: "26.9.0"
 ---
-## Paragraphs.RemoveRange method
+## RemoveRange(int, int) {#removerange}
 
 Remove paragraphs range.
 
@@ -16,13 +19,12 @@ public void RemoveRange(int index, int count)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | Int32 | The first paragraph index. |
-| count | Int32 | The paragraphs count. |
+| index | int | The first paragraph index. |
+| count | int | The paragraphs count. |
 
 ### See Also
 
-* class [Paragraphs](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

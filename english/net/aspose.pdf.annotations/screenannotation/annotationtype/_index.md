@@ -1,24 +1,30 @@
 ---
-title: ScreenAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: ScreenAnnotation property. Gets type of annotation
+title: "ScreenAnnotation.AnnotationType"
+linktitle: "AnnotationType"
+articleTitle: "AnnotationType"
+second_title: "Aspose.PDF for .NET"
+description: "Gets type of annotation."
 type: docs
-weight: 30
-url: /net/aspose.pdf.annotations/screenannotation/annotationtype/
+weight: 50
+url: "/net/aspose.pdf.annotations/screenannotation/annotationtype/"
+product_version: "26.9.0"
 ---
 ## ScreenAnnotation.AnnotationType property
 
 Gets type of annotation.
 
 ```csharp
-public override AnnotationType AnnotationType { get; }
+public AnnotationType AnnotationType { get; }
 ```
+
+### Property Value
+
+[AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 
 ### See Also
 
-* enum [AnnotationType](../../annotationtype/)
-* class [ScreenAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [ScreenAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

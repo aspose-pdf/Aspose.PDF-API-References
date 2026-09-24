@@ -1,32 +1,30 @@
 ---
-title: PdfActionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: PdfActionCollection property. Gets action by its index
+title: "PdfActionCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/pdfactioncollection/item/
+weight: 50
+url: "/net/aspose.pdf.annotations/pdfactioncollection/item/"
+product_version: "26.9.0"
 ---
-## PdfActionCollection indexer
+## PdfActionCollection.Item property
 
-Gets action by its index.
+
 
 ```csharp
-public PdfAction this[int index] { get; }
+public PdfAction Item { get; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| index | Action index value. |
+### Property Value
 
-### Return Value
-
-Action index if found; otherwise, throws IndexOutOfRangeException
+[PdfAction](../../../aspose.pdf.annotations/pdfaction/)
 
 ### See Also
 
-* class [PdfAction](../../pdfaction/)
-* class [PdfActionCollection](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [PdfActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: StrikeOutAnnotation.StrikeOutAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: StrikeOutAnnotation constructor. Creates new StrikeOut annotation on the specified page
+title: "StrikeOutAnnotation.StrikeOutAnnotation"
+linktitle: "StrikeOutAnnotation"
+articleTitle: "StrikeOutAnnotation"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the StrikeOutAnnotation class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/strikeoutannotation/strikeoutannotation/
+url: "/net/aspose.pdf.annotations/strikeoutannotation/strikeoutannotation/"
+product_version: "26.9.0"
 ---
-## StrikeOutAnnotation constructor
+## StrikeOutAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
 
 Creates new StrikeOut annotation on the specified page.
 
@@ -21,10 +24,7 @@ public StrikeOutAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [StrikeOutAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StrikeOutAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

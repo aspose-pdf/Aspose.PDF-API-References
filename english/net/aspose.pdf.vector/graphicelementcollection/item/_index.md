@@ -1,32 +1,30 @@
 ---
-title: GraphicElementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection property. Gets the GraphicElement element at the specified index
+title: "GraphicElementCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 30
-url: /net/aspose.pdf.vector/graphicelementcollection/item/
+weight: 100
+url: "/net/aspose.pdf.vector/graphicelementcollection/item/"
+product_version: "26.9.0"
 ---
-## GraphicElementCollection indexer
+## GraphicElementCollection.Item property
 
-Gets the [`GraphicElement`](../../graphicelement/) element at the specified index.
+
 
 ```csharp
-public GraphicElement this[int index] { get; }
+public GraphicElement Item { get; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| index | Index within the collection. |
+### Property Value
 
-### Return Value
-
-[`GraphicElement`](../../graphicelement/).
+[GraphicElement](../../../aspose.pdf.vector/graphicelement/)
 
 ### See Also
 
-* class [GraphicElement](../../graphicelement/)
-* class [GraphicElementCollection](../)
-* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* assembly [Aspose.PDF](../../../)
-
+* class [GraphicElement](../../../aspose.pdf.vector/graphicelement/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
 

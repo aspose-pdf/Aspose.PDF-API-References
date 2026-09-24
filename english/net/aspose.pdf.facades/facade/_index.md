@@ -1,39 +1,53 @@
 ---
-title: Class Facade
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.Facade class. Base facade class
+title: "Facade Class"
+linktitle: "Facade"
+articleTitle: "Facade"
+second_title: "Aspose.PDF for .NET"
+description: "Base facade class."
 type: docs
-weight: 4410
-url: /net/aspose.pdf.facades/facade/
+weight: 140
+url: "/net/aspose.pdf.facades/facade/"
+keywords: "Facade, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## Facade class
 
 Base facade class.
 
 ```csharp
-public abstract class Facade : IFacade
+public abstract class Facade : IFacade, IDisposable
 ```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [Facade](./facade/#constructor) | The constructor. |
+| [Facade](./facade/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | The constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Gets the document facade is working on. |
+| [Document](./document/) { get; } | Gets the document facade is working on. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/#bindpdf)(Document) | Initializes the facade. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/#bindpdf_1)(Stream) | Initializes the facade. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/#bindpdf_2)(string) | Initializes the facade. |
-| virtual [Close](../../aspose.pdf.facades/facade/close/)() | Disposes Aspose.Pdf.Document bound with a facade. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Disposes the facade. |
+| [AssertDocument](./assertdocument/) | Asserts if the facade is initialized. |
+| [BindPdf](./bindpdf/)(*string*) | Initializes the facade. |
+| [BindPdf](./bindpdf/)(*Stream*) | Initializes the facade. |
+| [BindPdf](./bindpdf/)(*Document*) | Initializes the facade. |
+| [BindPdf](./bindpdf/)(*string, string*) | Initializes the facade. |
+| [BindPdf](./bindpdf/)(*Stream, string*) | Initializes the facade. |
+| [BindPdf](./bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. |
+| [BindPdf](./bindpdf/)(*Stream, string, ICustomSecurityHandler*) | Initializes the facade. |
+| [Close](./close/) | Disposes Aspose.Pdf.Document bound with a facade. |
+| [Dispose](./dispose/) | Disposes the facade. |
 
 ### See Also
 
-* interface [IFacade](../ifacade/)
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

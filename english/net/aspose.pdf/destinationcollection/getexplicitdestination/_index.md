@@ -1,12 +1,15 @@
 ---
-title: DestinationCollection.GetExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection method. Returns the explicit destination by the name
+title: "DestinationCollection.GetExplicitDestination"
+linktitle: "GetExplicitDestination"
+articleTitle: "GetExplicitDestination"
+second_title: "Aspose.PDF for .NET"
+description: "Returns the explicit destination by the name."
 type: docs
-weight: 90
-url: /net/aspose.pdf/destinationcollection/getexplicitdestination/
+weight: 20
+url: "/net/aspose.pdf/destinationcollection/getexplicitdestination/"
+product_version: "26.9.0"
 ---
-## DestinationCollection.GetExplicitDestination method
+## GetExplicitDestination(string, bool) {#getexplicitdestination}
 
 Returns the explicit destination by the name.
 
@@ -16,18 +19,19 @@ public ExplicitDestination GetExplicitDestination(string destinameName, bool use
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| destinameName | String | The name of destination. |
-| useCache | Boolean | Determines whether cached version of collection is used or not. |
+| destinameName | string | The name of destination. |
+| useCache | bool | Determines whether cached version of collection is used or not. |
 
 ### Return Value
+
+[ExplicitDestination](../../../aspose.pdf.annotations/explicitdestination/)
 
 The ExplicitDestination object for destination found; otherwise, null.
 
 ### See Also
 
-* class [ExplicitDestination](../../../aspose.pdf.annotations/explicitdestination/)
-* class [DestinationCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ExplicitDestination](../../../aspose.pdf.annotations/explicitdestination/)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

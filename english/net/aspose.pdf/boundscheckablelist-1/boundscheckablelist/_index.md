@@ -1,47 +1,47 @@
 ---
-title: BoundsCheckableList1.BoundsCheckableList
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList constructor. Initializes a new instance of the BoundsCheckableList class
+title: "BoundsCheckableList<T>.BoundsCheckableList<T>"
+linktitle: "BoundsCheckableList<T>"
+articleTitle: "BoundsCheckableList<T>"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the BoundsCheckableList class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/boundscheckablelist-1/boundscheckablelist/
+url: "/net/aspose.pdf/boundscheckablelist-1/boundscheckablelist/"
+product_version: "26.9.0"
 ---
-## BoundsCheckableList() {#constructor}
+## BoundsCheckableList<T>() {#constructor}
 
 Initializes a new instance of the BoundsCheckableList class.
 
 ```csharp
-public BoundsCheckableList()
+public BoundsCheckableList<T>()
 ```
 
 ### See Also
 
-* class [BoundsCheckableList&lt;T&gt;](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [BoundsCheckableList<T>](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BoundsCheckableList(BoundsCheckMode, double, double) {#constructor_1}
+## BoundsCheckableList<T>([BoundsCheckMode](../../../aspose.pdf/boundscheckmode/), double, double) {#constructor_1}
 
 Initializes a new instance of the BoundsCheckableList class.
 
 ```csharp
-public BoundsCheckableList(BoundsCheckMode boundsCheckMode, double containerWidth, 
-    double containerHeight)
+public BoundsCheckableList<T>(BoundsCheckMode boundsCheckMode, double containerWidth, double containerHeight)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| boundsCheckMode | BoundsCheckMode | The bounds cCheck mode. |
-| containerWidth | Double | The container width. |
-| containerHeight | Double | The container height. |
+| boundsCheckMode | BoundsCheckMode |  |
+| containerWidth | double |  |
+| containerHeight | double |  |
 
 ### See Also
 
-* enum [BoundsCheckMode](../../boundscheckmode/)
-* class [BoundsCheckableList&lt;T&gt;](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BoundsCheckableList<T>](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

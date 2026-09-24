@@ -1,12 +1,15 @@
 ---
-title: PdfExtractor.Process
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor method. Starts PdfExtractor processing with the specified parameters
+title: "PdfExtractor.Process"
+linktitle: "Process"
+articleTitle: "Process"
+second_title: "Aspose.PDF for .NET"
+description: "Starts PdfExtractor processing with the specified parameters."
 type: docs
 weight: 20
-url: /net/aspose.pdf.lowcode/pdfextractor/process/
+url: "/net/aspose.pdf.lowcode/pdfextractor/process/"
+product_version: "26.9.0"
 ---
-## PdfExtractor.Process method
+## Process([IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)) {#process}
 
 Starts PdfExtractor processing with the specified parameters.
 
@@ -20,14 +23,14 @@ public ResultContainer Process(IPluginOptions pdfExtractorOptions)
 
 ### Return Value
 
+[ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
+
 A ResultContainer object containing the result of the extraction.
 
 ### See Also
 
-* class [ResultContainer](../../resultcontainer/)
-* interface [IPluginOptions](../../ipluginoptions/)
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

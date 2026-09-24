@@ -1,10 +1,13 @@
 ---
-title: FormFieldOptions.MappingName
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions property. Gets/sets the value to determine property MappingName for created/modified field if will be set
+title: "FormFieldOptions.MappingName"
+linktitle: "MappingName"
+articleTitle: "MappingName"
+second_title: "Aspose.PDF for .NET"
+description: "Gets/sets the value to determine property MappingName for created/modified field (if will be set)."
 type: docs
-weight: 90
-url: /net/aspose.pdf.lowcode/formfieldoptions/mappingname/
+weight: 150
+url: "/net/aspose.pdf.lowcode/formfieldoptions/mappingname/"
+product_version: "26.9.0"
 ---
 ## FormFieldOptions.MappingName property
 
@@ -14,10 +17,13 @@ Gets/sets the value to determine property MappingName for created/modified field
 public string MappingName { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [FormFieldOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

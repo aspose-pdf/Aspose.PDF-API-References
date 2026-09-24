@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.MakeBooklet
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Makes booklet from the input file to output file
+title: "PdfFileEditor.MakeBooklet"
+linktitle: "MakeBooklet"
+articleTitle: "MakeBooklet"
+second_title: "Aspose.PDF for .NET"
+description: "Makes booklet from the input file to output file."
 type: docs
-weight: 300
-url: /net/aspose.pdf.facades/pdffileeditor/makebooklet/
+weight: 650
+url: "/net/aspose.pdf.facades/pdffileeditor/makebooklet/"
+product_version: "26.9.0"
 ---
-## MakeBooklet(string, string) {#makebooklet_4}
+## MakeBooklet(string, string) {#makebooklet}
 
 Makes booklet from the input file to output file.
 
@@ -16,29 +19,24 @@ public bool MakeBooklet(string inputFile, string outputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | String | Input pdf file path and name. |
-| outputFile | String | Output pdf file path and name. |
+| inputFile | string | Input pdf file path and name. |
+| outputFile | string | Output pdf file path and name. |
 
 ### Return Value
 
+bool
+
 boolean - True for success, or false.
-
-## Examples
-
-```csharp
-PdfFileEditor pfe = new PdfFileEditor();
-pfe.MakeBooklet("input.pdf", "output.pdf");
-```
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream) {#makebooklet}
+## MakeBooklet(Stream, Stream) {#makebooklet_1}
 
 Makes booklet from the InputStream to outputStream.
 
@@ -53,26 +51,19 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream)
 
 ### Return Value
 
+bool
+
 True if operation was succeeded.
-
-## Examples
-
-```csharp
-PdfFileEditor pfe = new PdfFileEditor();
-Stream inputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
-Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
-pfe.MakeBooklet(inputStream, outputStream);
-```
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(string, string, PageSize) {#makebooklet_5}
+## MakeBooklet(string, string, [PageSize](../../../aspose.pdf/pagesize/)) {#makebooklet_2}
 
 Makes booklet from the inputFile to outputFile.
 
@@ -82,31 +73,25 @@ public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | String | Input pdf file path and name. |
-| outputFile | String | Output pdf file path and name. |
+| inputFile | string | Input pdf file path and name. |
+| outputFile | string | Output pdf file path and name. |
 | pageSize | PageSize | The page size of the output pdf file. |
 
 ### Return Value
 
+bool
+
 True if operation is succeeded.
-
-## Examples
-
-```csharp
-PdfFileEditor pfe = new PdfFileEditor();
-pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4);
-```
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream, PageSize) {#makebooklet_1}
+## MakeBooklet(Stream, Stream, [PageSize](../../../aspose.pdf/pagesize/)) {#makebooklet_3}
 
 Makes booklet from the input stream and save result into output stream.
 
@@ -122,27 +107,19 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 
 ### Return Value
 
+bool
+
 True if operation was succeeded.
-
-## Examples
-
-```csharp
-PdfFileEditor pfe = new PdfFileEditor();
-Stream inputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
-Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
-pfe.MakeBooklet(inputStream, outputStream, PageSize.A4);
-```
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(string, string, int[], int[]) {#makebooklet_7}
+## MakeBooklet(string, string, int[], int[]) {#makebooklet_4}
 
 Makes customized booklet from the firstInputFile to outputFile.
 
@@ -152,31 +129,26 @@ public bool MakeBooklet(string inputFile, string outputFile, int[] leftPages, in
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | String | The input file. |
-| outputFile | String | Output pdf file path and name. |
-| leftPages | Int32[] | The left pages of the booklet. |
-| rightPages | Int32[] | The right pages of the booklet. |
+| inputFile | string | The input file. |
+| outputFile | string | Output pdf file path and name. |
+| leftPages | int[] | The left pages of the booklet. |
+| rightPages | int[] | The right pages of the booklet. |
 
 ### Return Value
 
+bool
+
 boolean - True for success, or false.
-
-## Examples
-
-```csharp
-PdfFileEditor pfe = new PdfFileEditor();
-pfe.MakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
-```
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_3}
+## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_5}
 
 Makes customized booklet from the firstInputStream to outputStream.
 
@@ -188,74 +160,59 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages
 | --- | --- | --- |
 | inputStream | Stream | The input stream. |
 | outputStream | Stream | output pdf stream. |
-| leftPages | Int32[] | The left pages. |
-| rightPages | Int32[] | The right pages. |
+| leftPages | int[] | The left pages. |
+| rightPages | int[] | The right pages. |
 
 ### Return Value
 
+bool
+
 boolean - True for success, or false.
-
-## Examples
-
-```csharp
-PdfFileEditor pfe = new PdfFileEditor();
-Stream inputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
-Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
-pfe.MakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
-```
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_6}
+## MakeBooklet(string, string, [PageSize](../../../aspose.pdf/pagesize/), int[], int[]) {#makebooklet_6}
 
 Makes customized booklet from the firstInputFile to outputFile.
 
 ```csharp
-public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, 
-    int[] rightPages)
+public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, int[] rightPages)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | String | The input file. |
-| outputFile | String | Output pdf file path and name. |
+| inputFile | string | The input file. |
+| outputFile | string | Output pdf file path and name. |
 | pageSize | PageSize | The page size of the output pdf file. |
-| leftPages | Int32[] | The left pages. |
-| rightPages | Int32[] | The right pages. |
+| leftPages | int[] | The left pages. |
+| rightPages | int[] | The right pages. |
 
 ### Return Value
 
+bool
+
 boolean - True for success, or false.
-
-## Examples
-
-```csharp
-PdfFileEditor pfe = new PdfFileEditor();
-pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
-```
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MakeBooklet(Stream, Stream, PageSize, int[], int[]) {#makebooklet_2}
+## MakeBooklet(Stream, Stream, [PageSize](../../../aspose.pdf/pagesize/), int[], int[]) {#makebooklet_7}
 
 Makes booklet from the firstInputStream to outputStream.
 
 ```csharp
-public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize, 
-    int[] leftPages, int[] rightPages)
+public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize, int[] leftPages, int[] rightPages)
 ```
 
 | Parameter | Type | Description |
@@ -263,27 +220,18 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 | inputStream | Stream | The input stream. |
 | outputStream | Stream | output pdf stream. |
 | pageSize | PageSize | The page size of the output pdf file. |
-| leftPages | Int32[] | The left pages. |
-| rightPages | Int32[] | The right pages. |
+| leftPages | int[] | The left pages. |
+| rightPages | int[] | The right pages. |
 
 ### Return Value
 
+bool
+
 boolean - True for success, or false.
-
-## Examples
-
-```csharp
-PdfFileEditor pfe = new PdfFileEditor();
-Stream inputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
-Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
-pfe.MakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
-```
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

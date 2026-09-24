@@ -1,27 +1,32 @@
 ---
-title: SetAdvancedColor.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetAdvancedColor method. Returns color specified by operator
+title: "SetAdvancedColor.getColor"
+linktitle: "getColor"
+articleTitle: "getColor"
+second_title: "Aspose.PDF for .NET"
+description: "Returns color specified by operator."
 type: docs
-weight: 30
-url: /net/aspose.pdf.operators/setadvancedcolor/getcolor/
+weight: 80
+url: "/net/aspose.pdf.operators/setadvancedcolor/getcolor/"
+product_version: "26.9.0"
 ---
-## SetAdvancedColor.getColor method
+## getColor() {#getcolor}
 
 Returns color specified by operator.
 
 ```csharp
-public override Color getColor()
+public Color getColor()
 ```
 
 ### Return Value
+
+[Color](../../../aspose.pdf/color/)
 
 Color set by operator.
 
 ### See Also
 
-* class [SetAdvancedColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [SetAdvancedColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

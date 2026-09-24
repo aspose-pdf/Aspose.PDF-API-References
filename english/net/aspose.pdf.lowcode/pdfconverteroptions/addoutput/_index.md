@@ -1,12 +1,15 @@
 ---
-title: PdfConverterOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverterOptions method. Adds new data source to the PdfToXLSXConverterOptions plugin data collection
+title: "PdfConverterOptions.AddOutput"
+linktitle: "AddOutput"
+articleTitle: "AddOutput"
+second_title: "Aspose.PDF for .NET"
+description: "Adds new data source to the PdfToXLSXConverterOptions plugin data collection."
 type: docs
-weight: 50
-url: /net/aspose.pdf.lowcode/pdfconverteroptions/addoutput/
+weight: 20
+url: "/net/aspose.pdf.lowcode/pdfconverteroptions/addoutput/"
+product_version: "26.9.0"
 ---
-## PdfConverterOptions.AddOutput method
+## AddOutput([IDataSource](../../../aspose.pdf.lowcode/idatasource/)) {#addoutput}
 
 Adds new data source to the PdfToXLSXConverterOptions plugin data collection.
 
@@ -26,9 +29,7 @@ public void AddOutput(IDataSource saveDataSource)
 
 ### See Also
 
-* interface [IDataSource](../../idatasource/)
-* class [PdfConverterOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfConverterOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

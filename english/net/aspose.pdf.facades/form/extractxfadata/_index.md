@@ -1,12 +1,15 @@
 ---
-title: Form.ExtractXfaData
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Extracts XFA data packet
+title: "Form.ExtractXfaData"
+linktitle: "ExtractXfaData"
+articleTitle: "ExtractXfaData"
+second_title: "Aspose.PDF for .NET"
+description: "Extracts XFA data packet"
 type: docs
-weight: 110
-url: /net/aspose.pdf.facades/form/extractxfadata/
+weight: 340
+url: "/net/aspose.pdf.facades/form/extractxfadata/"
+product_version: "26.9.0"
 ---
-## Form.ExtractXfaData method
+## ExtractXfaData(Stream) {#extractxfadata}
 
 Extracts XFA data packet
 
@@ -20,8 +23,7 @@ public void ExtractXfaData(Stream outputXmlStream)
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

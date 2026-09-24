@@ -1,10 +1,13 @@
 ---
-title: PaperSources.LargeFormat
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources field. Represents the bin for the larger format paper
+title: "PaperSources.LargeFormat"
+linktitle: "LargeFormat"
+articleTitle: "LargeFormat"
+second_title: "Aspose.PDF for .NET"
+description: "Represents the bin for the larger format paper."
 type: docs
-weight: 60
-url: /net/aspose.pdf.printing/papersources/largeformat/
+weight: 100
+url: "/net/aspose.pdf.printing/papersources/largeformat/"
+product_version: "26.9.0"
 ---
 ## PaperSources.LargeFormat field
 
@@ -16,9 +19,8 @@ public static readonly PaperSource LargeFormat;
 
 ### See Also
 
-* class [PaperSource](../../papersource/)
-* class [PaperSources](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: FormFieldFacade.BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade property. The style of a field border
+title: "FormFieldFacade.BorderStyle"
+linktitle: "BorderStyle"
+articleTitle: "BorderStyle"
+second_title: "Aspose.PDF for .NET"
+description: "The style of a field border."
 type: docs
-weight: 50
-url: /net/aspose.pdf.facades/formfieldfacade/borderstyle/
+weight: 40
+url: "/net/aspose.pdf.facades/formfieldfacade/borderstyle/"
+product_version: "26.9.0"
 ---
 ## FormFieldFacade.BorderStyle property
 
@@ -14,10 +17,13 @@ The style of a field border.
 public int BorderStyle { get; set; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [FormFieldFacade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

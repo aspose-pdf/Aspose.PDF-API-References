@@ -1,10 +1,13 @@
 ---
-title: XYZExplicitDestination.Left
-second_title: Aspose.PDF for .NET API Reference
-description: XYZExplicitDestination property. Gets left horizontal coordinate of the upperleft corner of the window
+title: "XYZExplicitDestination.Left"
+linktitle: "Left"
+articleTitle: "Left"
+second_title: "Aspose.PDF for .NET"
+description: "Gets left horizontal coordinate of the upper-left corner of the window."
 type: docs
-weight: 40
-url: /net/aspose.pdf.annotations/xyzexplicitdestination/left/
+weight: 80
+url: "/net/aspose.pdf.annotations/xyzexplicitdestination/left/"
+product_version: "26.9.0"
 ---
 ## XYZExplicitDestination.Left property
 
@@ -14,10 +17,13 @@ Gets left horizontal coordinate of the upper-left corner of the window.
 public double Left { get; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [XYZExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

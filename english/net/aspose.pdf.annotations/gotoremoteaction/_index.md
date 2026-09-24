@@ -1,10 +1,14 @@
 ---
-title: Class GoToRemoteAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.GoToRemoteAction class. Represents a remote goto action that is similar to an ordinary goto action but jumps to a destination in another PDF file instead of the current file
+title: "GoToRemoteAction Class"
+linktitle: "GoToRemoteAction"
+articleTitle: "GoToRemoteAction"
+second_title: "Aspose.PDF for .NET"
+description: "Represents a remote go-to action that is similar to an ordinary go-to action but jumps to a destination in another PDF file instead of the current file."
 type: docs
-weight: 1930
-url: /net/aspose.pdf.annotations/gotoremoteaction/
+weight: 460
+url: "/net/aspose.pdf.annotations/gotoremoteaction/"
+keywords: "GoToRemoteAction, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## GoToRemoteAction class
 
@@ -18,28 +22,29 @@ public sealed class GoToRemoteAction : GoToAction
 
 | Name | Description |
 | --- | --- |
-| [GoToRemoteAction](gotoremoteaction/#constructor)(string, ExplicitDestination) | Initializes GoToRemoteAction object. |
-| [GoToRemoteAction](gotoremoteaction/#constructor_1)(string, int) | Initializes GoToRemoteAction object. |
+| [GoToRemoteAction](./gotoremoteaction/#constructor)(*string, int*) | Initializes GoToRemoteAction object. |
+| [GoToRemoteAction](./gotoremoteaction/#constructor_1)(*string, [ExplicitDestination](../../aspose.pdf.annotations/explicitdestination/)*) | Initializes GoToRemoteAction object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| override [Destination](../../aspose.pdf.annotations/gotoremoteaction/destination/) { get; set; } | Gets or sets the destination to jump to. |
-| [File](../../aspose.pdf.annotations/gotoremoteaction/file/) { get; set; } | Gets or sets the specification of the file in which the destination is located. |
-| [NewWindow](../../aspose.pdf.annotations/gotoremoteaction/newwindow/) { get; set; } | Gets or sets a flag specifying whether to open the destination document in a new window. |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
+| [Destination](./destination/) { get; set; } | Gets or sets the destination to jump to. |
+| [File](./file/) { get; set; } | Gets or sets the specification of the file in which the destination is located. |
+| [IsInitialized](../../aspose.pdf.annotations/pdfaction/isinitialized/) { get; } | Indicates whether the action has been initialized. *(Inherited from PdfAction)* |
+| [NewWindow](./newwindow/) { get; set; } | Gets or sets a flag specifying whether to open the destination document in a new window. |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. *(Inherited from PdfAction)* |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/) | Gets string for ECMAScript Action. *(Inherited from PdfAction)* |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring/) | Returns string representation. *(Inherited from IAppointment)* |
 
 ### See Also
 
-* class [GoToAction](../gotoaction/)
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* class [GoToAction](../gotoaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

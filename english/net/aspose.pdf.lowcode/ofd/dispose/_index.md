@@ -1,12 +1,15 @@
 ---
-title: Ofd.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Ofd method. Implementation of IDisposable
+title: "Ofd.Dispose"
+linktitle: "Dispose"
+articleTitle: "Dispose"
+second_title: "Aspose.PDF for .NET"
+description: "Implementation of IDisposable."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/ofd/dispose/
+weight: 30
+url: "/net/aspose.pdf.lowcode/ofd/dispose/"
+product_version: "26.9.0"
 ---
-## Ofd.Dispose method
+## Dispose() {#dispose}
 
 Implementation of IDisposable.
 
@@ -16,8 +19,7 @@ public void Dispose()
 
 ### See Also
 
-* class [Ofd](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Ofd](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

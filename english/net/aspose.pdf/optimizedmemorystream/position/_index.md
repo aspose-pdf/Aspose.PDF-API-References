@@ -1,27 +1,29 @@
 ---
-title: OptimizedMemoryStream.Position
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream property. When overridden in a derived class gets or sets the position within the current stream
+title: "OptimizedMemoryStream.Position"
+linktitle: "Position"
+articleTitle: "Position"
+second_title: "Aspose.PDF for .NET"
+description: "When overridden in a derived class, gets or sets the position within the current stream."
 type: docs
-weight: 80
-url: /net/aspose.pdf/optimizedmemorystream/position/
+weight: 200
+url: "/net/aspose.pdf/optimizedmemorystream/position/"
+product_version: "26.9.0"
 ---
 ## OptimizedMemoryStream.Position property
 
 When overridden in a derived class, gets or sets the position within the current stream.
 
 ```csharp
-public override long Position { get; set; }
+public long Position { get; set; }
 ```
 
-### Return Value
+### Property Value
 
-The current position within the stream.
+long
 
 ### See Also
 
-* class [OptimizedMemoryStream](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

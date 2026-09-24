@@ -1,12 +1,15 @@
 ---
-title: FormEditor.GetFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Get field flags
+title: "FormEditor.GetFieldAppearance"
+linktitle: "GetFieldAppearance"
+articleTitle: "GetFieldAppearance"
+second_title: "Aspose.PDF for .NET"
+description: "Get field flags."
 type: docs
-weight: 190
-url: /net/aspose.pdf.facades/formeditor/getfieldappearance/
+weight: 100
+url: "/net/aspose.pdf.facades/formeditor/getfieldappearance/"
+product_version: "26.9.0"
 ---
-## FormEditor.GetFieldAppearance method
+## GetFieldAppearance(string) {#getfieldappearance}
 
 Get field flags.
 
@@ -16,17 +19,18 @@ public AnnotationFlags GetFieldAppearance(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | String | Name of the field. |
+| fieldName | string | Name of the field. |
 
 ### Return Value
+
+[AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
 
 Set of field flags
 
 ### See Also
 
-* enum [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

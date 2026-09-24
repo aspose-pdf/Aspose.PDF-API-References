@@ -1,10 +1,13 @@
 ---
-title: Enum BorderCornerStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BorderCornerStyle enum. Enumerates the border corner styles for border
+title: "BorderCornerStyle Enum"
+linktitle: "BorderCornerStyle"
+articleTitle: "BorderCornerStyle"
+second_title: "Aspose.PDF for .NET"
+description: "Enumerates the border corner styles for border."
 type: docs
-weight: 3000
-url: /net/aspose.pdf/bordercornerstyle/
+weight: 180
+url: "/net/aspose.pdf/bordercornerstyle/"
+product_version: "26.9.0"
 ---
 ## BorderCornerStyle enumeration
 
@@ -14,16 +17,15 @@ Enumerates the border corner styles for border.
 public enum BorderCornerStyle
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | None | `0` | None border style. |
 | Round | `1` | Round border style. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

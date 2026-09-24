@@ -1,10 +1,13 @@
 ---
-title: PdfFormatConversionOptions.ErrorAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions property. Action for objects that can not be converted
+title: "PdfFormatConversionOptions.ErrorAction"
+linktitle: "ErrorAction"
+articleTitle: "ErrorAction"
+second_title: "Aspose.PDF for .NET"
+description: "Action for objects that can not be converted"
 type: docs
-weight: 60
-url: /net/aspose.pdf/pdfformatconversionoptions/erroraction/
+weight: 120
+url: "/net/aspose.pdf/pdfformatconversionoptions/erroraction/"
+product_version: "26.9.0"
 ---
 ## PdfFormatConversionOptions.ErrorAction property
 
@@ -14,11 +17,14 @@ Action for objects that can not be converted
 public ConvertErrorAction ErrorAction { get; set; }
 ```
 
+### Property Value
+
+[ConvertErrorAction](../../../aspose.pdf/converterroraction/)
+
 ### See Also
 
-* enum [ConvertErrorAction](../../converterroraction/)
-* class [PdfFormatConversionOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ConvertErrorAction](../../../aspose.pdf/converterroraction/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

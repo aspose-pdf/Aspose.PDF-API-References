@@ -1,12 +1,15 @@
 ---
-title: EmbeddedFileCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection method. Copies array of FileSpecification object into colleciton
+title: "EmbeddedFileCollection.CopyTo"
+linktitle: "CopyTo"
+articleTitle: "CopyTo"
+second_title: "Aspose.PDF for .NET"
+description: "Copies array of FileSpecification object into colleciton."
 type: docs
-weight: 70
-url: /net/aspose.pdf/embeddedfilecollection/copyto/
+weight: 10
+url: "/net/aspose.pdf/embeddedfilecollection/copyto/"
+product_version: "26.9.0"
 ---
-## EmbeddedFileCollection.CopyTo method
+## CopyTo(FileSpecification[], int) {#copyto}
 
 Copies array of FileSpecification object into colleciton.
 
@@ -17,13 +20,11 @@ public void CopyTo(FileSpecification[] array, int index)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | array | FileSpecification[] | Array of objects which will be copied. |
-| index | Int32 | Starting index from which copying will be started. |
+| index | int | Starting index from which copying will be started. |
 
 ### See Also
 
-* class [FileSpecification](../../filespecification/)
-* class [EmbeddedFileCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

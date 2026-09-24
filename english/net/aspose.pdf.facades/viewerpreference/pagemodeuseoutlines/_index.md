@@ -1,10 +1,13 @@
 ---
-title: ViewerPreference.PageModeUseOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference field. Document outline visible
+title: "ViewerPreference.PageModeUseOutlines"
+linktitle: "PageModeUseOutlines"
+articleTitle: "PageModeUseOutlines"
+second_title: "Aspose.PDF for .NET"
+description: "Document outline visible."
 type: docs
-weight: 240
-url: /net/aspose.pdf.facades/viewerpreference/pagemodeuseoutlines/
+weight: 100
+url: "/net/aspose.pdf.facades/viewerpreference/pagemodeuseoutlines/"
+product_version: "26.9.0"
 ---
 ## ViewerPreference.PageModeUseOutlines field
 
@@ -16,8 +19,7 @@ public const int PageModeUseOutlines;
 
 ### See Also
 
-* class [ViewerPreference](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,23 +1,29 @@
 ---
-title: CheckboxField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: CheckboxField property. Gets or sets value of check box field
+title: "CheckboxField.Value"
+linktitle: "Value"
+articleTitle: "Value"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets value of check box field."
 type: docs
-weight: 70
-url: /net/aspose.pdf.forms/checkboxfield/value/
+weight: 130
+url: "/net/aspose.pdf.forms/checkboxfield/value/"
+product_version: "26.9.0"
 ---
 ## CheckboxField.Value property
 
 Gets or sets value of check box field.
 
 ```csharp
-public override string Value { get; set; }
+public string Value { get; set; }
 ```
+
+### Property Value
+
+string
 
 ### See Also
 
-* class [CheckboxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

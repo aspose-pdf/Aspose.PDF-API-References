@@ -1,12 +1,15 @@
 ---
-title: MarkupAnnotation.MarkupAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation constructor. Constructor for markup annotation
+title: "MarkupAnnotation.MarkupAnnotation"
+linktitle: "MarkupAnnotation"
+articleTitle: "MarkupAnnotation"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the MarkupAnnotation class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/markupannotation/markupannotation/
+url: "/net/aspose.pdf.annotations/markupannotation/markupannotation/"
+product_version: "26.9.0"
 ---
-## MarkupAnnotation constructor
+## MarkupAnnotation([Document](../../../aspose.pdf/document/)) {#constructor}
 
 Constructor for markup annotation.
 
@@ -20,9 +23,28 @@ public MarkupAnnotation(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [MarkupAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## MarkupAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
+
+Constructor.
+
+```csharp
+protected MarkupAnnotation(Page page, Rectangle rect)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | The page with which the annotation will be associated. |
+| rect | Rectangle | The annotation rectangle, defining the location of the annotation on the page. |
+
+### See Also
+
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

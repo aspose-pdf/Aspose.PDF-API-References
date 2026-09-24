@@ -1,10 +1,13 @@
 ---
-title: OpenAIOcrCopilotOptions.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIOcrCopilotOptions property. Gets or sets the resolution used to convert PDF pages into images. The default value is 300 dpi
+title: "OpenAIOcrCopilotOptions.Resolution"
+linktitle: "Resolution"
+articleTitle: "Resolution"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the resolution used to convert PDF pages into images. The default value is 300 dpi."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/openaiocrcopilotoptions/resolution/
+weight: 180
+url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/resolution/"
+product_version: "26.9.0"
 ---
 ## OpenAIOcrCopilotOptions.Resolution property
 
@@ -14,10 +17,13 @@ Gets or sets the resolution used to convert PDF pages into images. The default v
 public int Resolution { get; set; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIOcrCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

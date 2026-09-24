@@ -1,12 +1,15 @@
 ---
-title: Matrix.Multiply
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix method. Multiplies the matrix by other matrix
+title: "Matrix.Multiply"
+linktitle: "Multiply"
+articleTitle: "Multiply"
+second_title: "Aspose.PDF for .NET"
+description: "Multiplies the matrix by other matrix."
 type: docs
-weight: 170
-url: /net/aspose.pdf/matrix/multiply/
+weight: 140
+url: "/net/aspose.pdf/matrix/multiply/"
+product_version: "26.9.0"
 ---
-## Matrix.Multiply method
+## Multiply([Matrix](../../../aspose.pdf/matrix/)) {#multiply}
 
 Multiplies the matrix by other matrix.
 
@@ -20,20 +23,14 @@ public Matrix Multiply(Matrix other)
 
 ### Return Value
 
+[Matrix](../../../aspose.pdf/matrix/)
+
 Result of multiplication.
-
-## Examples
-
-```csharp
-Matrix a = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 });
-Matrix b = new Matrix(new double[] { 0, -1, 1, 0, 0, 0 } );
-Matrix c= a.Multiply(b);
-```
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

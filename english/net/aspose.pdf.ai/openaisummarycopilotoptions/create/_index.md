@@ -1,51 +1,59 @@
 ---
-title: OpenAISummaryCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions method. Creates a new instance of OpenAISummaryCopilotOptions
+title: "OpenAISummaryCopilotOptions.Create"
+linktitle: "Create"
+articleTitle: "Create"
+second_title: "Aspose.PDF for .NET"
+description: "Creates a new instance of ."
 type: docs
-weight: 10
-url: /net/aspose.pdf.ai/openaisummarycopilotoptions/create/
+weight: 20
+url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/create/"
+product_version: "26.9.0"
 ---
 ## Create() {#create}
 
-Creates a new instance of [`OpenAISummaryCopilotOptions`](../).
+Creates a new instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
 
 ```csharp
-public static OpenAISummaryCopilotOptions Create()
+public OpenAISummaryCopilotOptions Create()
 ```
 
 ### Return Value
 
-A new instance of [`OpenAISummaryCopilotOptions`](../).
+[OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+
+A new instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
 
 ### See Also
 
-* class [OpenAISummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Create(Action&lt;OpenAISummaryCopilotOptions&gt;) {#create_1}
+## Create(Action<OpenAISummaryCopilotOptions>) {#create_1}
 
-Creates an instance of [`OpenAISummaryCopilotOptions`](../) and configures it using the provided delegate.
+Creates an instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/) and configures it using the provided delegate.
 
 ```csharp
-public static OpenAISummaryCopilotOptions Create(Action<OpenAISummaryCopilotOptions> config)
+public OpenAISummaryCopilotOptions Create(Action<OpenAISummaryCopilotOptions> config)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| config | Action`1 | The delegate to configure the options. |
+| config | Action<OpenAISummaryCopilotOptions> | The delegate to configure the options. |
 
 ### Return Value
 
-The configured instance of [`OpenAISummaryCopilotOptions`](../).
+[OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+
+The configured instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
 
 ### See Also
 
-* class [OpenAISummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

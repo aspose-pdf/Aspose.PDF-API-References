@@ -1,23 +1,29 @@
 ---
-title: TextFragmentState.Superscript
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState property. Gets or sets superscript of the text represented by the TextFragment object
+title: "TextFragmentState.Superscript"
+linktitle: "Superscript"
+articleTitle: "Superscript"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets superscript of the text, represented by the object."
 type: docs
-weight: 200
-url: /net/aspose.pdf.text/textfragmentstate/superscript/
+weight: 120
+url: "/net/aspose.pdf.text/textfragmentstate/superscript/"
+product_version: "26.9.0"
 ---
 ## TextFragmentState.Superscript property
 
-Gets or sets superscript of the text, represented by the [`TextFragment`](../../textfragment/) object.
+Gets or sets superscript of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object.
 
 ```csharp
-public override bool Superscript { get; set; }
+public bool Superscript { get; set; }
 ```
+
+### Property Value
+
+bool
 
 ### See Also
 
-* class [TextFragmentState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

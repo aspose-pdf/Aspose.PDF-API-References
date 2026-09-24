@@ -1,12 +1,15 @@
 ---
-title: FontSubstitutionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection method. Deletes the font substitution element
+title: "FontSubstitutionCollection.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET"
+description: "Deletes the font substitution element."
 type: docs
-weight: 100
-url: /net/aspose.pdf.text/fontsubstitutioncollection/remove/
+weight: 60
+url: "/net/aspose.pdf.text/fontsubstitutioncollection/remove/"
+product_version: "26.9.0"
 ---
-## FontSubstitutionCollection.Remove method
+## Remove([FontSubstitution](../../../aspose.pdf.text/fontsubstitution/)) {#remove}
 
 Deletes the font substitution element.
 
@@ -20,13 +23,13 @@ public bool Remove(FontSubstitution item)
 
 ### Return Value
 
+bool
+
 True - if element removed; otherwise, false.
 
 ### See Also
 
-* class [FontSubstitution](../../fontsubstitution/)
-* class [FontSubstitutionCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

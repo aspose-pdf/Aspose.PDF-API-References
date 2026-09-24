@@ -1,17 +1,20 @@
 ---
-title: PdfPageStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageStamp method. Put stamp on the specified page
+title: "PdfPageStamp.Put"
+linktitle: "Put"
+articleTitle: "Put"
+second_title: "Aspose.PDF for .NET"
+description: "Put stamp on the specified page."
 type: docs
-weight: 30
-url: /net/aspose.pdf/pdfpagestamp/put/
+weight: 40
+url: "/net/aspose.pdf/pdfpagestamp/put/"
+product_version: "26.9.0"
 ---
-## PdfPageStamp.Put method
+## Put([Page](../../../aspose.pdf/page/)) {#put}
 
 Put stamp on the specified page.
 
 ```csharp
-public override void Put(Page page)
+public void Put(Page page)
 ```
 
 | Parameter | Type | Description |
@@ -20,9 +23,7 @@ public override void Put(Page page)
 
 ### See Also
 
-* class [Page](../../page/)
-* class [PdfPageStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfPageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

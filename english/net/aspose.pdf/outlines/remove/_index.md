@@ -1,17 +1,20 @@
 ---
-title: Outlines.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Outlines method. Remove outline collection item
+title: "Outlines.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET"
+description: "Remove outline collection item."
 type: docs
-weight: 90
-url: /net/aspose.pdf/outlines/remove/
+weight: 70
+url: "/net/aspose.pdf/outlines/remove/"
+product_version: "26.9.0"
 ---
-## Outlines.Remove method
+## Remove([OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)) {#remove}
 
 Remove outline collection item.
 
 ```csharp
-public abstract bool Remove(OutlineItemCollection item)
+public bool Remove(OutlineItemCollection item)
 ```
 
 | Parameter | Type | Description |
@@ -20,13 +23,13 @@ public abstract bool Remove(OutlineItemCollection item)
 
 ### Return Value
 
+bool
+
 True - if item removed; otherwise, false.
 
 ### See Also
 
-* class [OutlineItemCollection](../../outlineitemcollection/)
-* class [Outlines](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

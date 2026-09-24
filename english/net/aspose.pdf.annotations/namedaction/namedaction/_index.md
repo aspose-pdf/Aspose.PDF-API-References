@@ -1,12 +1,15 @@
 ---
-title: NamedAction.NamedAction
-second_title: Aspose.PDF for .NET API Reference
-description: NamedAction constructor. Constructor for Named Action class
+title: "NamedAction.NamedAction"
+linktitle: "NamedAction"
+articleTitle: "NamedAction"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the NamedAction class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/namedaction/namedaction/
+url: "/net/aspose.pdf.annotations/namedaction/namedaction/"
+product_version: "26.9.0"
 ---
-## NamedAction constructor
+## NamedAction([PredefinedAction](../../../aspose.pdf.annotations/predefinedaction/)) {#constructor}
 
 Constructor for Named Action class.
 
@@ -20,9 +23,7 @@ public NamedAction(PredefinedAction action)
 
 ### See Also
 
-* enum [PredefinedAction](../../predefinedaction/)
-* class [NamedAction](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [NamedAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

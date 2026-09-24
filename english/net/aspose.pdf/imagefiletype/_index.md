@@ -1,10 +1,13 @@
 ---
-title: Enum ImageFileType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImageFileType enum. Enumerates the image file types
+title: "ImageFileType Enum"
+linktitle: "ImageFileType"
+articleTitle: "ImageFileType"
+second_title: "Aspose.PDF for .NET"
+description: "Enumerates the image file types."
 type: docs
-weight: 6020
-url: /net/aspose.pdf/imagefiletype/
+weight: 1510
+url: "/net/aspose.pdf/imagefiletype/"
+product_version: "26.9.0"
 ---
 ## ImageFileType enumeration
 
@@ -14,10 +17,10 @@ Enumerates the image file types.
 public enum ImageFileType
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Unknown | `0` | Unknown type. |
 | Svg | `1` | svg image file type. |
 | Dicom | `2` | Dicom image file type. |
@@ -25,7 +28,6 @@ public enum ImageFileType
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,12 +1,15 @@
 ---
-title: PdfContentEditor.CreatePolygon
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates polygon annotation
+title: "PdfContentEditor.CreatePolygon"
+linktitle: "CreatePolygon"
+articleTitle: "CreatePolygon"
+second_title: "Aspose.PDF for .NET"
+description: "Creates polygon annotation."
 type: docs
-weight: 230
-url: /net/aspose.pdf.facades/pdfcontenteditor/createpolygon/
+weight: 330
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createpolygon/"
+product_version: "26.9.0"
 ---
-## PdfContentEditor.CreatePolygon method
+## CreatePolygon([LineInfo](../../../aspose.pdf.facades/lineinfo/), int, [Rectangle](../../../aspose.pdf.drawing/rectangle/), string) {#createpolygon}
 
 Creates polygon annotation.
 
@@ -17,27 +20,13 @@ public void CreatePolygon(LineInfo lineInfo, int page, Rectangle annotRect, stri
 | Parameter | Type | Description |
 | --- | --- | --- |
 | lineInfo | LineInfo | The instance of LineInfo class. |
-| page | Int32 | The number of original page where the annotation will be created. |
+| page | int | The number of original page where the annotation will be created. |
 | annotRect | Rectangle | The annotation rectangle defining the location of the annotation on the page. |
-| annotContents | String | The contents of the annotation. |
-
-## Examples
-
-```csharp
-PdfContentEditor editor = new PdfContentEditor();
-editor.BindPdf("example.pdf");
-LineInfo lineInfo = new LineInfo();
-lineInfo.VerticeCoordinate = new float[] { 0, 0, 100, 100, 100, 50 };
-lineInfo.Visibility = true;
-editor.CreatePolygon(lineInfo, 1 , new System.Drawing.Rectangle(0, 0, 0, 0), "Welcome to Aspose");
-editor.Save("example_out.pdf");
-```
+| annotContents | string | The contents of the annotation. |
 
 ### See Also
 
-* class [LineInfo](../../lineinfo/)
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

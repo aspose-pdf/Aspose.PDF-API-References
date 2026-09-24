@@ -1,10 +1,13 @@
 ---
-title: SetColorStroke.R
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorStroke property. Gets or sets the red component
+title: "SetColorStroke.R"
+linktitle: "R"
+articleTitle: "R"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the red component."
 type: docs
-weight: 70
-url: /net/aspose.pdf.operators/setcolorstroke/r/
+weight: 120
+url: "/net/aspose.pdf.operators/setcolorstroke/r/"
+product_version: "26.9.0"
 ---
 ## SetColorStroke.R property
 
@@ -16,12 +19,11 @@ public double R { get; set; }
 
 ### Property Value
 
-The level of red from 0.0 to 1.0
+double
 
 ### See Also
 
-* class [SetColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: Page.GetPageRect
-second_title: Aspose.PDF for .NET API Reference
-description: Page method. Returns rectangle of the page according to its CropBox or MediaBox if CropBox null
+title: "Page.GetPageRect"
+linktitle: "GetPageRect"
+articleTitle: "GetPageRect"
+second_title: "Aspose.PDF for .NET"
+description: "Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null)."
 type: docs
-weight: 460
-url: /net/aspose.pdf/page/getpagerect/
+weight: 90
+url: "/net/aspose.pdf/page/getpagerect/"
+product_version: "26.9.0"
 ---
-## Page.GetPageRect method
+## GetPageRect(bool) {#getpagerect}
 
 Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null).
 
@@ -16,17 +19,18 @@ public Rectangle GetPageRect(bool considerRotation)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| considerRotation | Boolean | If true then rotation of the page will be considered in rect calculation. |
+| considerRotation | bool | If true then rotation of the page will be considered in rect calculation. |
 
 ### Return Value
+
+[Rectangle](../../../aspose.pdf.drawing/rectangle/)
 
 Rectangle of the page.
 
 ### See Also
 
-* class [Rectangle](../../rectangle/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

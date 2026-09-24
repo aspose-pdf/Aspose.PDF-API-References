@@ -1,12 +1,15 @@
 ---
-title: XImage.IsTheSameObject
-second_title: Aspose.PDF for .NET API Reference
-description: XImage method. Returns true if both images references to the same object
+title: "XImage.IsTheSameObject"
+linktitle: "IsTheSameObject"
+articleTitle: "IsTheSameObject"
+second_title: "Aspose.PDF for .NET"
+description: "Returns true if both images references to the same object."
 type: docs
-weight: 140
-url: /net/aspose.pdf/ximage/isthesameobject/
+weight: 100
+url: "/net/aspose.pdf/ximage/isthesameobject/"
+product_version: "26.9.0"
 ---
-## XImage.IsTheSameObject method
+## IsTheSameObject([XImage](../../../aspose.pdf/ximage/)) {#isthesameobject}
 
 Returns true if both images references to the same object.
 
@@ -20,12 +23,13 @@ public bool IsTheSameObject(XImage image)
 
 ### Return Value
 
+bool
+
 Boolean value which is true if images references to the same object.
 
 ### See Also
 
-* class [XImage](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

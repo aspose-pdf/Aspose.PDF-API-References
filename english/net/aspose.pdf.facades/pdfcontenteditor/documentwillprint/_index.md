@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.DocumentWillPrint
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor field. A document event type. Excute a action before printing
+title: "PdfContentEditor.DocumentWillPrint"
+linktitle: "DocumentWillPrint"
+articleTitle: "DocumentWillPrint"
+second_title: "Aspose.PDF for .NET"
+description: "A document event type. Excute a action before printing."
 type: docs
-weight: 510
-url: /net/aspose.pdf.facades/pdfcontenteditor/documentwillprint/
+weight: 740
+url: "/net/aspose.pdf.facades/pdfcontenteditor/documentwillprint/"
+product_version: "26.9.0"
 ---
 ## PdfContentEditor.DocumentWillPrint field
 
@@ -16,8 +19,7 @@ public const string DocumentWillPrint;
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

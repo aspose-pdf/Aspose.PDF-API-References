@@ -1,12 +1,15 @@
 ---
-title: OpenAISummaryCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions method. Adds a text document to the document collection for the summary copilot options
+title: "OpenAISummaryCopilotOptions.WithDocument"
+linktitle: "WithDocument"
+articleTitle: "WithDocument"
+second_title: "Aspose.PDF for .NET"
+description: "Adds a text document to the document collection for the summary copilot options."
 type: docs
-weight: 70
-url: /net/aspose.pdf.ai/openaisummarycopilotoptions/withdocument/
+weight: 120
+url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/withdocument/"
+product_version: "26.9.0"
 ---
-## WithDocument(TextDocument) {#withdocument_1}
+## WithDocument([TextDocument](../../../aspose.pdf.ai/textdocument/)) {#withdocument}
 
 Adds a text document to the document collection for the summary copilot options.
 
@@ -20,18 +23,20 @@ public OpenAISummaryCopilotOptions WithDocument(TextDocument textDocument)
 
 ### Return Value
 
-The current instance of [`OpenAISummaryCopilotOptions`](../).
+[OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+
+The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
 
 ### See Also
 
-* class [TextDocument](../../textdocument/)
-* class [OpenAISummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## WithDocument(PdfDocument) {#withdocument}
+## WithDocument([PdfDocument](../../../aspose.pdf.ai/pdfdocument/)) {#withdocument_1}
 
 Adds a PDF document to the document collection for the summary copilot options.
 
@@ -45,14 +50,16 @@ public OpenAISummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 ### Return Value
 
-The current instance of [`OpenAISummaryCopilotOptions`](../).
+[OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+
+The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
 
 ### See Also
 
-* class [PdfDocument](../../pdfdocument/)
-* class [OpenAISummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -66,16 +73,18 @@ public OpenAISummaryCopilotOptions WithDocument(string filePath)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filePath | String | The file path of the document to add. |
+| filePath | string | The file path of the document to add. |
 
 ### Return Value
 
-The current instance of [`OpenAISummaryCopilotOptions`](../).
+[OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+
+The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
 
 ### See Also
 
-* class [OpenAISummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

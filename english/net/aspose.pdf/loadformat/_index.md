@@ -1,10 +1,13 @@
 ---
-title: Enum LoadFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LoadFormat enum. Specifies load format
+title: "LoadFormat Enum"
+linktitle: "LoadFormat"
+articleTitle: "LoadFormat"
+second_title: "Aspose.PDF for .NET"
+description: "Specifies load format."
 type: docs
-weight: 6260
-url: /net/aspose.pdf/loadformat/
+weight: 1780
+url: "/net/aspose.pdf/loadformat/"
+product_version: "26.9.0"
 ---
 ## LoadFormat enumeration
 
@@ -14,10 +17,10 @@ Specifies load format.
 public enum LoadFormat
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | CGM | `0` | means loading of document in CGM format |
 | HTML | `1` | means loading of document in HTML format |
 | EPUB | `2` | means loading of document in EPUB format(special format of e-books) |
@@ -40,7 +43,6 @@ public enum LoadFormat
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

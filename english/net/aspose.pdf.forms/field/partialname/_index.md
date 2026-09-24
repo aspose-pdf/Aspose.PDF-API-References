@@ -1,10 +1,13 @@
 ---
-title: Field.PartialName
-second_title: Aspose.PDF for .NET API Reference
-description: Field property. Gets or sets partial name of the field
+title: "Field.PartialName"
+linktitle: "PartialName"
+articleTitle: "PartialName"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets partial name of the field."
 type: docs
-weight: 110
-url: /net/aspose.pdf.forms/field/partialname/
+weight: 140
+url: "/net/aspose.pdf.forms/field/partialname/"
+product_version: "26.9.0"
 ---
 ## Field.PartialName property
 
@@ -14,10 +17,13 @@ Gets or sets partial name of the field.
 public string PartialName { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [Field](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

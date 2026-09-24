@@ -1,29 +1,31 @@
 ---
-title: Class Bookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.Bookmarks class. Represents a collection of Bookmark objects
+title: "Bookmarks Class"
+linktitle: "Bookmarks"
+articleTitle: "Bookmarks"
+second_title: "Aspose.PDF for .NET"
+description: "Represents a collection of objects."
 type: docs
-weight: 4360
-url: /net/aspose.pdf.facades/bookmarks/
+weight: 90
+url: "/net/aspose.pdf.facades/bookmarks/"
+keywords: "Bookmarks, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## Bookmarks class
 
-Represents a collection of [`Bookmark`](../bookmark/) objects.
+Represents a collection of [`Bookmark`](../../aspose.pdf.facades/bookmark/) objects.
 
 ```csharp
-public sealed class Bookmarks : List<Bookmark>
+public sealed class Bookmarks
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [Bookmarks](bookmarks/)() | The default constructor. |
+| [Bookmarks](./bookmarks/#constructor) | Initializes a new instance of the Bookmarks class. |
 
 ### See Also
 
-* class [Bookmark](../bookmark/)
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

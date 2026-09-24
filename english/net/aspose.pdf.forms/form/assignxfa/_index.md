@@ -1,12 +1,15 @@
 ---
-title: Form.AssignXfa
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Sets XFA of the form to specified value
+title: "Form.AssignXfa"
+linktitle: "AssignXfa"
+articleTitle: "AssignXfa"
+second_title: "Aspose.PDF for .NET"
+description: "Sets XFA of the form to specified value."
 type: docs
-weight: 230
-url: /net/aspose.pdf.forms/form/assignxfa/
+weight: 110
+url: "/net/aspose.pdf.forms/form/assignxfa/"
+product_version: "26.9.0"
 ---
-## Form.AssignXfa method
+## AssignXfa(XmlDocument) {#assignxfa}
 
 Sets XFA of the form to specified value.
 
@@ -20,8 +23,7 @@ public void AssignXfa(XmlDocument xml)
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

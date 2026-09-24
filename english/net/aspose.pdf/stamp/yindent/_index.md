@@ -1,23 +1,29 @@
 ---
-title: Stamp.YIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp property. Vertical stamp coordinate starting from the bottom
+title: "Stamp.YIndent"
+linktitle: "YIndent"
+articleTitle: "YIndent"
+second_title: "Aspose.PDF for .NET"
+description: "Vertical stamp coordinate, starting from the bottom."
 type: docs
-weight: 160
-url: /net/aspose.pdf/stamp/yindent/
+weight: 150
+url: "/net/aspose.pdf/stamp/yindent/"
+product_version: "26.9.0"
 ---
 ## Stamp.YIndent property
 
 Vertical stamp coordinate, starting from the bottom.
 
 ```csharp
-public virtual double YIndent { get; set; }
+public double YIndent { get; set; }
 ```
+
+### Property Value
+
+double
 
 ### See Also
 
-* class [Stamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

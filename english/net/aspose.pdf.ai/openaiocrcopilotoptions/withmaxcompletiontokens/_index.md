@@ -1,31 +1,36 @@
 ---
-title: OpenAIOcrCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIOcrCopilotOptions method. Sets the max completion tokens
+title: "OpenAIOcrCopilotOptions.WithMaxCompletionTokens"
+linktitle: "WithMaxCompletionTokens"
+articleTitle: "WithMaxCompletionTokens"
+second_title: "Aspose.PDF for .NET"
+description: "Sets the max completion tokens."
 type: docs
-weight: 90
-url: /net/aspose.pdf.ai/openaiocrcopilotoptions/withmaxcompletiontokens/
+weight: 70
+url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withmaxcompletiontokens/"
+product_version: "26.9.0"
 ---
-## OpenAIOcrCopilotOptions.WithMaxCompletionTokens method
+## WithMaxCompletionTokens(Nullable<int>) {#withmaxcompletiontokens}
 
 Sets the max completion tokens.
 
 ```csharp
-public OpenAIOcrCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
+public OpenAIOcrCopilotOptions WithMaxCompletionTokens(Nullable<int> maxCompletionTokens)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| maxCompletionTokens | Nullable`1 | The max completion tokens to set. |
+| maxCompletionTokens | Nullable<int> | The max completion tokens to set. |
 
 ### Return Value
 
-The current instance of [`OpenAIOcrCopilotOptions`](../).
+[OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+
+The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+* class [OpenAIOcrCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

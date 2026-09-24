@@ -1,24 +1,30 @@
 ---
-title: OcrTextRecognitionOptions.Language
-second_title: Aspose.PDF for .NET API Reference
-description: OcrTextRecognitionOptions property. Gets or sets the recognition language. Defaults to English
+title: "OcrTextRecognitionOptions.Language"
+linktitle: "Language"
+articleTitle: "Language"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the recognition language. Defaults to ."
 type: docs
 weight: 20
-url: /net/aspose.pdf.ocr/ocrtextrecognitionoptions/language/
+url: "/net/aspose.pdf.ocr/ocrtextrecognitionoptions/language/"
+product_version: "26.9.0"
 ---
 ## OcrTextRecognitionOptions.Language property
 
-Gets or sets the recognition language. Defaults to English.
+Gets or sets the recognition language. Defaults to `English`.
 
 ```csharp
 public OcrLanguage Language { get; set; }
 ```
 
+### Property Value
+
+[OcrLanguage](../../../aspose.pdf.ocr/ocrlanguage/)
+
 ### See Also
 
-* enum [OcrLanguage](../../ocrlanguage/)
-* class [OcrTextRecognitionOptions](../)
-* namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OcrLanguage](../../../aspose.pdf.ocr/ocrlanguage/)
+* class [OcrTextRecognitionOptions](../)
+* namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class MediaRendition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.MediaRendition class. Class describes media rendition
+title: "MediaRendition Class"
+linktitle: "MediaRendition"
+articleTitle: "MediaRendition"
+second_title: "Aspose.PDF for .NET"
+description: "Class describes media rendition."
 type: docs
-weight: 2190
-url: /net/aspose.pdf.annotations/mediarendition/
+weight: 720
+url: "/net/aspose.pdf.annotations/mediarendition/"
+keywords: "MediaRendition, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## MediaRendition class
 
@@ -18,14 +22,13 @@ public sealed class MediaRendition : Rendition
 
 | Name | Description |
 | --- | --- |
-| [MediaClip](../../aspose.pdf.annotations/mediarendition/mediaclip/) { get; } | Gets or sets media clip obkects associated with rendition. |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Text string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions. |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Gets rendition type. |
+| [MediaClip](./mediaclip/) { get; } | Gets or sets media clip obkects associated with rendition. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Text string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions. *(Inherited from Rendition)* |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Gets rendition type. *(Inherited from Rendition)* |
 
 ### See Also
 
-* class [Rendition](../rendition/)
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* class [Rendition](../rendition/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,22 +1,30 @@
 ---
-title: SetLineJoin.Join
-second_title: Aspose.PDF for .NET API Reference
-description: SetLineJoin property. 
+title: "SetLineJoin.Join"
+linktitle: "Join"
+articleTitle: "Join"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 20
-url: /net/aspose.pdf.operators/setlinejoin/join/
+weight: 40
+url: "/net/aspose.pdf.operators/setlinejoin/join/"
+product_version: "26.9.0"
 ---
 ## SetLineJoin.Join property
+
+
 
 ```csharp
 public LineJoin Join { get; set; }
 ```
 
+### Property Value
+
+[LineJoin](../../../aspose.pdf.operators/linejoin/)
+
 ### See Also
 
-* enum [LineJoin](../../linejoin/)
-* class [SetLineJoin](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LineJoin](../../../aspose.pdf.operators/linejoin/)
+* class [SetLineJoin](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,31 +1,34 @@
 ---
-title: AttributeKey.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey method. Performs an explicit conversion from String to AttributeKey
+title: "AttributeKey.op_Explicit"
+linktitle: "op_Explicit"
+articleTitle: "op_Explicit"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 450
-url: /net/aspose.pdf.logicalstructure/attributekey/op_explicit/
+weight: 10
+url: "/net/aspose.pdf.logicalstructure/attributekey/op_explicit/"
+product_version: "26.9.0"
 ---
-## AttributeKey Explicit operator
+## op_Explicit(string) {#op_explicit}
 
-Performs an explicit conversion from String to [`AttributeKey`](../).
+
 
 ```csharp
-public static explicit operator AttributeKey(string key)
+public AttributeKey op_Explicit(string key)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | The attribute key. |
+| key | string |  |
 
 ### Return Value
 
-The result of the conversion.
+[AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
 
 ### See Also
 
-* class [AttributeKey](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

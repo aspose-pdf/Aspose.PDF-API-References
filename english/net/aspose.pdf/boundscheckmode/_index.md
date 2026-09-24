@@ -1,10 +1,13 @@
 ---
-title: Enum BoundsCheckMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BoundsCheckMode enum. Specifies the behavior for bounds checking when adding items to a collection
+title: "BoundsCheckMode Enum"
+linktitle: "BoundsCheckMode"
+articleTitle: "BoundsCheckMode"
+second_title: "Aspose.PDF for .NET"
+description: "Specifies the behavior for bounds checking when adding items to a collection."
 type: docs
-weight: 3030
-url: /net/aspose.pdf/boundscheckmode/
+weight: 210
+url: "/net/aspose.pdf/boundscheckmode/"
+product_version: "26.9.0"
 ---
 ## BoundsCheckMode enumeration
 
@@ -14,16 +17,15 @@ Specifies the behavior for bounds checking when adding items to a collection.
 public enum BoundsCheckMode
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Default | `0` | Default behavior: Add items without bounds checking. |
 | ThrowExceptionIfDoesNotFit | `1` | Throw BoundsNotFitException if an item doesn't fit within the given container dimensions (inclusive). |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

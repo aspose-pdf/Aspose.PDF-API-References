@@ -1,10 +1,13 @@
 ---
-title: AppearanceDictionary.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary property. Gets a value indicating whether dictionary is readonly
+title: "AppearanceDictionary.IsReadOnly"
+linktitle: "IsReadOnly"
+articleTitle: "IsReadOnly"
+second_title: "Aspose.PDF for .NET"
+description: "Gets a value indicating whether dictionary is read-only."
 type: docs
-weight: 30
-url: /net/aspose.pdf.annotations/appearancedictionary/isreadonly/
+weight: 130
+url: "/net/aspose.pdf.annotations/appearancedictionary/isreadonly/"
+product_version: "26.9.0"
 ---
 ## AppearanceDictionary.IsReadOnly property
 
@@ -14,10 +17,13 @@ Gets a value indicating whether dictionary is read-only.
 public bool IsReadOnly { get; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [AppearanceDictionary](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

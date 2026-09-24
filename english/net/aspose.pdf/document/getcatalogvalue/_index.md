@@ -1,12 +1,15 @@
 ---
-title: Document.GetCatalogValue
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Returns item value from catalog dictionary
+title: "Document.GetCatalogValue"
+linktitle: "GetCatalogValue"
+articleTitle: "GetCatalogValue"
+second_title: "Aspose.PDF for .NET"
+description: "Returns item value from catalog dictionary."
 type: docs
-weight: 690
-url: /net/aspose.pdf/document/getcatalogvalue/
+weight: 830
+url: "/net/aspose.pdf/document/getcatalogvalue/"
+product_version: "26.9.0"
 ---
-## Document.GetCatalogValue method
+## GetCatalogValue(string) {#getcatalogvalue}
 
 Returns item value from catalog dictionary.
 
@@ -16,16 +19,17 @@ public object GetCatalogValue(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | The key of item. |
+| key | string | The key of item. |
 
 ### Return Value
+
+object
 
 Item value - if key was successfully found; otherwise, null.
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

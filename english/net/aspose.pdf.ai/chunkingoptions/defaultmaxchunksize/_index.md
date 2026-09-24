@@ -1,10 +1,13 @@
 ---
-title: ChunkingOptions.DefaultMaxChunkSize
-second_title: Aspose.PDF for .NET API Reference
-description: ChunkingOptions field. The default maximum chunk size in tokens
+title: "ChunkingOptions.DefaultMaxChunkSize"
+linktitle: "DefaultMaxChunkSize"
+articleTitle: "DefaultMaxChunkSize"
+second_title: "Aspose.PDF for .NET"
+description: "The default maximum chunk size in tokens."
 type: docs
 weight: 50
-url: /net/aspose.pdf.ai/chunkingoptions/defaultmaxchunksize/
+url: "/net/aspose.pdf.ai/chunkingoptions/defaultmaxchunksize/"
+product_version: "26.9.0"
 ---
 ## ChunkingOptions.DefaultMaxChunkSize field
 
@@ -16,8 +19,7 @@ public const int DefaultMaxChunkSize;
 
 ### See Also
 
-* class [ChunkingOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ChunkingOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,23 +1,29 @@
 ---
-title: PdfToHtmlOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToHtmlOptions property. Gets name of the operation
+title: "PdfToHtmlOptions.OperationName"
+linktitle: "OperationName"
+articleTitle: "OperationName"
+second_title: "Aspose.PDF for .NET"
+description: "Gets name of the operation."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/pdftohtmloptions/operationname/
+weight: 30
+url: "/net/aspose.pdf.lowcode/pdftohtmloptions/operationname/"
+product_version: "26.9.0"
 ---
 ## PdfToHtmlOptions.OperationName property
 
 Gets name of the operation.
 
 ```csharp
-public override string OperationName { get; }
+public string OperationName { get; }
 ```
+
+### Property Value
+
+string
 
 ### See Also
 
-* class [PdfToHtmlOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfToHtmlOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

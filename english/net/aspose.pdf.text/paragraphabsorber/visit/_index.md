@@ -1,12 +1,15 @@
 ---
-title: ParagraphAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: ParagraphAbsorber method. Performs search for sections and paragraphs on the specified Document
+title: "ParagraphAbsorber.Visit"
+linktitle: "Visit"
+articleTitle: "Visit"
+second_title: "Aspose.PDF for .NET"
+description: "Performs search for sections and paragraphs on the specified ."
 type: docs
-weight: 70
-url: /net/aspose.pdf.text/paragraphabsorber/visit/
+weight: 50
+url: "/net/aspose.pdf.text/paragraphabsorber/visit/"
+product_version: "26.9.0"
 ---
-## Visit(Document) {#visit}
+## Visit([Document](../../../aspose.pdf/document/)) {#visit}
 
 Performs search for sections and paragraphs on the specified [`Document`](../../../aspose.pdf/document/).
 
@@ -20,14 +23,13 @@ public void Visit(Document doc)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [ParagraphAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [ParagraphAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(Page) {#visit_1}
+## Visit([Page](../../../aspose.pdf/page/)) {#visit_1}
 
 Performs search on the specified [`Page`](../../../aspose.pdf/page/).
 
@@ -41,9 +43,7 @@ public void Visit(Page page)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [ParagraphAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ParagraphAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

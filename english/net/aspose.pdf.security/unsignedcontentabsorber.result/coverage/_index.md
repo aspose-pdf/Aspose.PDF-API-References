@@ -1,10 +1,13 @@
 ---
-title: UnsignedContentAbsorber.Result.Coverage
-second_title: Aspose.PDF for .NET API Reference
-description: Result property. Gets a value indicating the extent to which the document is covered by valid digital signatures
+title: "UnsignedContentAbsorber.Result.Coverage"
+linktitle: "Coverage"
+articleTitle: "Coverage"
+second_title: "Aspose.PDF for .NET"
+description: "Gets a value indicating the extent to which the document is covered by valid digital signatures."
 type: docs
-weight: 10
-url: /net/aspose.pdf.security/unsignedcontentabsorber.result/coverage/
+weight: 40
+url: "/net/aspose.pdf.security/unsignedcontentabsorber.result/coverage/"
+product_version: "26.9.0"
 ---
 ## UnsignedContentAbsorber.Result.Coverage property
 
@@ -14,11 +17,14 @@ Gets a value indicating the extent to which the document is covered by valid dig
 public SignaturesCoverage Coverage { get; }
 ```
 
+### Property Value
+
+[SignaturesCoverage](../../../aspose.pdf.signatures/signaturescoverage/)
+
 ### See Also
 
-* enum [SignaturesCoverage](../../../aspose.pdf.signatures/signaturescoverage/)
-* class [Result](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SignaturesCoverage](../../../aspose.pdf.signatures/signaturescoverage/)
+* class [UnsignedContentAbsorber.Result](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 

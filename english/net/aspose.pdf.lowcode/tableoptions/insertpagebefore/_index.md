@@ -1,12 +1,15 @@
 ---
-title: TableOptions.InsertPageBefore
-second_title: Aspose.PDF for .NET API Reference
-description: TableOptions method. Insert page before specified page
+title: "TableOptions.InsertPageBefore"
+linktitle: "InsertPageBefore"
+articleTitle: "InsertPageBefore"
+second_title: "Aspose.PDF for .NET"
+description: "Insert page before specified page."
 type: docs
-weight: 50
-url: /net/aspose.pdf.lowcode/tableoptions/insertpagebefore/
+weight: 30
+url: "/net/aspose.pdf.lowcode/tableoptions/insertpagebefore/"
+product_version: "26.9.0"
 ---
-## TableOptions.InsertPageBefore method
+## InsertPageBefore(int) {#insertpagebefore}
 
 Insert page before specified page.
 
@@ -16,16 +19,18 @@ public TableOptions InsertPageBefore(int page)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | Int32 | Page number to insert table after. |
+| page | int | Page number to insert table after. |
 
 ### Return Value
 
-Instance of current [`TableOptions`](../).
+[TableOptions](../../../aspose.pdf.lowcode/tableoptions/)
+
+Instance of current [`TableOptions`](../../../aspose.pdf.lowcode/tableoptions/).
 
 ### See Also
 
-* class [TableOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TableOptions](../../../aspose.pdf.lowcode/tableoptions/)
+* class [TableOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

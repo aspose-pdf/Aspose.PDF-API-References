@@ -1,27 +1,31 @@
 ---
-title: CosPdfBoolean.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfBoolean method. Returns a String that represents the current CosPdfBoolean
+title: "CosPdfBoolean.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET"
+description: "Returns a that represents the current ."
 type: docs
-weight: 60
-url: /net/aspose.pdf.dataeditor/cospdfboolean/tostring/
+weight: 30
+url: "/net/aspose.pdf.dataeditor/cospdfboolean/tostring/"
+product_version: "26.9.0"
 ---
-## CosPdfBoolean.ToString method
+## ToString() {#tostring}
 
-Returns a String that represents the current [`CosPdfBoolean`](../).
+Returns a `String` that represents the current [`CosPdfBoolean`](../../../aspose.pdf.dataeditor/cospdfboolean/).
 
 ```csharp
-public override string ToString()
+public string ToString()
 ```
 
 ### Return Value
 
-A String that represents the current [`CosPdfBoolean`](../).
+string
+
+A `String` that represents the current [`CosPdfBoolean`](../../../aspose.pdf.dataeditor/cospdfboolean/).
 
 ### See Also
 
-* class [CosPdfBoolean](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CosPdfBoolean](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

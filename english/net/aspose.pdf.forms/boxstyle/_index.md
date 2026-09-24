@@ -1,10 +1,13 @@
 ---
-title: Enum BoxStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.BoxStyle enum. Represents styles for drawing check in check box
+title: "BoxStyle Enum"
+linktitle: "BoxStyle"
+articleTitle: "BoxStyle"
+second_title: "Aspose.PDF for .NET"
+description: "Represents styles for drawing check in check box."
 type: docs
-weight: 5140
-url: /net/aspose.pdf.forms/boxstyle/
+weight: 30
+url: "/net/aspose.pdf.forms/boxstyle/"
+product_version: "26.9.0"
 ---
 ## BoxStyle enumeration
 
@@ -14,10 +17,10 @@ Represents styles for drawing check in check box.
 public enum BoxStyle
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Circle | `0` | Circle style. |
 | Check | `1` | Check style. |
 | Cross | `2` | Cross style. |
@@ -27,7 +30,6 @@ public enum BoxStyle
 
 ### See Also
 
-* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
 

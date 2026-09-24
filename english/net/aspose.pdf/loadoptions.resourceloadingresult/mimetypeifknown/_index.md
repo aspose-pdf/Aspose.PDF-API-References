@@ -1,14 +1,19 @@
 ---
-title: LoadOptions.ResourceLoadingResult.MIMETypeIfKnown
-second_title: Aspose.PDF for .NET API Reference
-description: ResourceLoadingResult field. Sometimes knowledge about MIME type of loaded resource is usefull for converter You can provide MIME typeif itd known after loading in this parameter. Please leave parameter equal to null when MIME type unknown or its not necessary to supply it
+title: "LoadOptions.ResourceLoadingResult.MIMETypeIfKnown"
+linktitle: "MIMETypeIfKnown"
+articleTitle: "MIMETypeIfKnown"
+second_title: "Aspose.PDF for .NET"
+description: "Sometimes knowledge about MIME type of loaded resource is usefull for converter You can provide MIME type(if it'd known after loading) in this parameter. Ple..."
 type: docs
-weight: 60
-url: /net/aspose.pdf/loadoptions.resourceloadingresult/mimetypeifknown/
+weight: 50
+url: "/net/aspose.pdf/loadoptions.resourceloadingresult/mimetypeifknown/"
+product_version: "26.9.0"
 ---
 ## LoadOptions.ResourceLoadingResult.MIMETypeIfKnown field
 
-Sometimes knowledge about MIME type of loaded resource is usefull for converter You can provide MIME type(if it'd known after loading) in this parameter. Please leave parameter equal to null when MIME type unknown or it's not necessary to supply it.
+Sometimes knowledge about MIME type of loaded resource is usefull for converter
+ You can provide MIME type(if it'd known after loading) in this parameter. Please
+ leave parameter equal to null when MIME type unknown or it's not necessary to supply it.
 
 ```csharp
 public string MIMETypeIfKnown;
@@ -16,8 +21,7 @@ public string MIMETypeIfKnown;
 
 ### See Also
 
-* class [ResourceLoadingResult](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LoadOptions.ResourceLoadingResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

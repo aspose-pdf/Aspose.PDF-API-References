@@ -1,17 +1,20 @@
 ---
-title: BaseOperatorCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection method. Removes operator from collection
+title: "BaseOperatorCollection.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET"
+description: "Removes operator from collection."
 type: docs
-weight: 120
-url: /net/aspose.pdf/baseoperatorcollection/remove/
+weight: 80
+url: "/net/aspose.pdf/baseoperatorcollection/remove/"
+product_version: "26.9.0"
 ---
-## BaseOperatorCollection.Remove method
+## Remove([Operator](../../../aspose.pdf/operator/)) {#remove}
 
 Removes operator from collection.
 
 ```csharp
-public abstract bool Remove(Operator item)
+public bool Remove(Operator item)
 ```
 
 | Parameter | Type | Description |
@@ -20,13 +23,13 @@ public abstract bool Remove(Operator item)
 
 ### Return Value
 
+bool
+
 True - if item removed; otherwise, false.
 
 ### See Also
 
-* class [Operator](../../operator/)
-* class [BaseOperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

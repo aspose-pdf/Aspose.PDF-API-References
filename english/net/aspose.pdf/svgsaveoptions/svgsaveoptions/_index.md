@@ -1,14 +1,17 @@
 ---
-title: SvgSaveOptions.SvgSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: SvgSaveOptions constructor. The default constructor
+title: "SvgSaveOptions.SvgSaveOptions"
+linktitle: "SvgSaveOptions"
+articleTitle: "SvgSaveOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the SvgSaveOptions class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/svgsaveoptions/svgsaveoptions/
+url: "/net/aspose.pdf/svgsaveoptions/svgsaveoptions/"
+product_version: "26.9.0"
 ---
-## SvgSaveOptions constructor
+## SvgSaveOptions() {#constructor}
 
-The default constructor.
+Initializes a new instance of the SvgSaveOptions class.
 
 ```csharp
 public SvgSaveOptions()
@@ -16,8 +19,7 @@ public SvgSaveOptions()
 
 ### See Also
 
-* class [SvgSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SvgSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

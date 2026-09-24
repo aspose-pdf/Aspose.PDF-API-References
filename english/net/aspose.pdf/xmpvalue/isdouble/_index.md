@@ -1,10 +1,13 @@
 ---
-title: XmpValue.IsDouble
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue property. Returns true if value is floating point value
+title: "XmpValue.IsDouble"
+linktitle: "IsDouble"
+articleTitle: "IsDouble"
+second_title: "Aspose.PDF for .NET"
+description: "Returns true if value is floating point value."
 type: docs
-weight: 40
-url: /net/aspose.pdf/xmpvalue/isdouble/
+weight: 310
+url: "/net/aspose.pdf/xmpvalue/isdouble/"
+product_version: "26.9.0"
 ---
 ## XmpValue.IsDouble property
 
@@ -14,10 +17,13 @@ Returns true if value is floating point value.
 public bool IsDouble { get; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

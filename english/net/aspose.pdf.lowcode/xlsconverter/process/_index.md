@@ -1,12 +1,15 @@
 ---
-title: XlsConverter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: XlsConverter method. Starts the PdfToExcel processing with the specified parameters
+title: "XlsConverter.Process"
+linktitle: "Process"
+articleTitle: "Process"
+second_title: "Aspose.PDF for .NET"
+description: "Starts the PdfToExcel processing with the specified parameters."
 type: docs
-weight: 30
-url: /net/aspose.pdf.lowcode/xlsconverter/process/
+weight: 20
+url: "/net/aspose.pdf.lowcode/xlsconverter/process/"
+product_version: "26.9.0"
 ---
-## XlsConverter.Process method
+## Process([IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)) {#process}
 
 Starts the PdfToExcel processing with the specified parameters.
 
@@ -16,18 +19,18 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | IPluginOptions | An options object containing instructions for the [`XlsConverter`](../). |
+| options | IPluginOptions | An options object containing instructions for the <see cref="T:Aspose.Pdf.LowCode.XlsConverter" />. |
 
 ### Return Value
 
-An [`ResultContainer`](../../resultcontainer/) object containing the result of the operation.
+[ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
+
+An [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) object containing the result of the operation.
 
 ### See Also
 
-* class [ResultContainer](../../resultcontainer/)
-* interface [IPluginOptions](../../ipluginoptions/)
-* class [XlsConverter](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
+* class [XlsConverter](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,32 +1,36 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.PageResize
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters method. Creates resize paramters for page resize
+title: "PdfFileEditor.ContentsResizeParameters.PageResize"
+linktitle: "PageResize"
+articleTitle: "PageResize"
+second_title: "Aspose.PDF for .NET"
+description: "Creates resize paramters for page resize."
 type: docs
-weight: 60
-url: /net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresize/
+weight: 70
+url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresize/"
+product_version: "26.9.0"
 ---
-## PdfFileEditor.ContentsResizeParameters.PageResize method
+## PageResize(double, double) {#pageresize}
 
 Creates resize paramters for page resize.
 
 ```csharp
-public static ContentsResizeParameters PageResize(double width, double height)
+public ContentsResizeParameters PageResize(double width, double height)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | Double | New page width in units. |
-| height | Double | New page height in units. |
+| width | double | New page width in units. |
+| height | double | New page height in units. |
 
 ### Return Value
+
+ContentsResizeParameters
 
 New resize paramteres.
 
 ### See Also
 
-* class [ContentsResizeParameters](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor.ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

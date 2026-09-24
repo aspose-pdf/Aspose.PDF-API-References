@@ -1,12 +1,15 @@
 ---
-title: SetCharWidthBoundingBox.SetCharWidthBoundingBox
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidthBoundingBox constructor. Initializes SetCharWidthBoundingBox operator
+title: "SetCharWidthBoundingBox.SetCharWidthBoundingBox"
+linktitle: "SetCharWidthBoundingBox"
+articleTitle: "SetCharWidthBoundingBox"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the SetCharWidthBoundingBox class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/setcharwidthboundingbox/setcharwidthboundingbox/
+url: "/net/aspose.pdf.operators/setcharwidthboundingbox/setcharwidthboundingbox/"
+product_version: "26.9.0"
 ---
-## SetCharWidthBoundingBox constructor
+## SetCharWidthBoundingBox(double, double, double, double, double, double) {#constructor}
 
 Initializes SetCharWidthBoundingBox operator.
 
@@ -16,17 +19,16 @@ public SetCharWidthBoundingBox(double wx, double wy, double llx, double lly, dou
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| wx | Double | Denotes the horizontal displacement in the glyph coordinate. |
-| wy | Double | Denotes the vertical displacement in the glyph coordinate. Shall be 0. |
-| llx | Double | Denotes X coordinate of the lower-left corner. |
-| lly | Double | Denotes Y coordinate of the lower-left corner. |
-| urx | Double | Denotes X coordinate of upper-right corner. |
-| ury | Double | Denotes Y coordinate of upper-right corner. |
+| wx | double | Denotes the horizontal displacement in the glyph coordinate. |
+| wy | double | Denotes the vertical displacement in the glyph coordinate. Shall be 0. |
+| llx | double | Denotes X coordinate of the lower-left corner. |
+| lly | double | Denotes Y coordinate of the lower-left corner. |
+| urx | double | Denotes X coordinate of upper-right corner. |
+| ury | double | Denotes Y coordinate of upper-right corner. |
 
 ### See Also
 
-* class [SetCharWidthBoundingBox](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

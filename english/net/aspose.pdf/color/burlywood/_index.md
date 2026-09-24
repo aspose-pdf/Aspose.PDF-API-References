@@ -1,27 +1,30 @@
 ---
-title: Color.BurlyWood
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FFDEB887
+title: "Color.BurlyWood"
+linktitle: "BurlyWood"
+articleTitle: "BurlyWood"
+second_title: "Aspose.PDF for .NET"
+description: "Gets a system-defined color that has an ARGB value of \\c \\#FFDEB887."
 type: docs
-weight: 140
-url: /net/aspose.pdf/color/burlywood/
+weight: 310
+url: "/net/aspose.pdf/color/burlywood/"
+product_version: "26.9.0"
 ---
 ## Color.BurlyWood property
 
 Gets a system-defined color that has an ARGB value of \c \#FFDEB887.
 
 ```csharp
-public static Color BurlyWood { get; }
+public Color BurlyWood { get; }
 ```
 
-### Return Value
+### Property Value
 
-A representing a system-defined color.
+[Color](../../../aspose.pdf/color/)
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

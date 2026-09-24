@@ -1,27 +1,32 @@
 ---
-title: ThreadMessageCreateRequest.FromUser
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageCreateRequest method. Creates a new ThreadMessageCreateRequest with the role set to User
+title: "ThreadMessageCreateRequest.FromUser"
+linktitle: "FromUser"
+articleTitle: "FromUser"
+second_title: "Aspose.PDF for .NET"
+description: "Creates a new with the role set to User."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/threadmessagecreaterequest/fromuser/
+weight: 20
+url: "/net/aspose.pdf.ai/threadmessagecreaterequest/fromuser/"
+product_version: "26.9.0"
 ---
-## ThreadMessageCreateRequest.FromUser method
+## FromUser() {#fromuser}
 
-Creates a new [`ThreadMessageCreateRequest`](../) with the role set to User.
+Creates a new [`ThreadMessageCreateRequest`](../../../aspose.pdf.ai/threadmessagecreaterequest/) with the role set to User.
 
 ```csharp
-public static ThreadMessageCreateRequest FromUser()
+public ThreadMessageCreateRequest FromUser()
 ```
 
 ### Return Value
 
-A new instance of [`ThreadMessageCreateRequest`](../) with the role set to User.
+[ThreadMessageCreateRequest](../../../aspose.pdf.ai/threadmessagecreaterequest/)
+
+A new instance of [`ThreadMessageCreateRequest`](../../../aspose.pdf.ai/threadmessagecreaterequest/) with the role set to User.
 
 ### See Also
 
-* class [ThreadMessageCreateRequest](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ThreadMessageCreateRequest](../../../aspose.pdf.ai/threadmessagecreaterequest/)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

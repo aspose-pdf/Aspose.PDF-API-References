@@ -1,12 +1,15 @@
 ---
-title: GraphicalPdfComparer.CompareDocumentsToPdf
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicalPdfComparer method. Compares documents graphically. The comparison result is placed in a PDF document
+title: "GraphicalPdfComparer.CompareDocumentsToPdf"
+linktitle: "CompareDocumentsToPdf"
+articleTitle: "CompareDocumentsToPdf"
+second_title: "Aspose.PDF for .NET"
+description: "Compares documents graphically. The comparison result is placed in a PDF document."
 type: docs
-weight: 60
-url: /net/aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstopdf/
+weight: 50
+url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstopdf/"
+product_version: "26.9.0"
 ---
-## GraphicalPdfComparer.CompareDocumentsToPdf method
+## CompareDocumentsToPdf([Document](../../../aspose.pdf/document/), [Document](../../../aspose.pdf/document/), string) {#comparedocumentstopdf}
 
 Compares documents graphically. The comparison result is placed in a PDF document.
 
@@ -18,19 +21,18 @@ public void CompareDocumentsToPdf(Document document1, Document document2, string
 | --- | --- | --- |
 | document1 | Document | The first document to compare. |
 | document2 | Document | The second document to compare. |
-| resultPdfPath | String | The target pdf file path. |
+| resultPdfPath | string | The target pdf file path. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | If the pages being compared are of different sizes. If resultPdfPath is null or empty string. |
+| ArgumentException | If the pages being compared are of different sizes.
+ If resultPdfPath is null or empty string. |
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [GraphicalPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

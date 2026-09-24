@@ -1,12 +1,15 @@
 ---
-title: TextFragmentCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentCollection method. Adds the text fragment element at the specified index
+title: "TextFragmentCollection.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: "Adds the text fragment element at the specified index."
 type: docs
-weight: 60
-url: /net/aspose.pdf.text/textfragmentcollection/add/
+weight: 10
+url: "/net/aspose.pdf.text/textfragmentcollection/add/"
+product_version: "26.9.0"
 ---
-## TextFragmentCollection.Add method
+## Add([TextFragment](../../../aspose.pdf.text/textfragment/)) {#add}
 
 Adds the text fragment element at the specified index.
 
@@ -20,9 +23,7 @@ public void Add(TextFragment fragment)
 
 ### See Also
 
-* class [TextFragment](../../textfragment/)
-* class [TextFragmentCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

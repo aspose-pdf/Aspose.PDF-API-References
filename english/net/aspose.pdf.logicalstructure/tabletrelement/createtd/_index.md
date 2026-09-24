@@ -1,14 +1,17 @@
 ---
-title: TableTRElement.CreateTD
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement method. Creates TableTHElement and added it to current table
+title: "TableTRElement.CreateTD"
+linktitle: "CreateTD"
+articleTitle: "CreateTD"
+second_title: "Aspose.PDF for .NET"
+description: "Creates and added it to current table."
 type: docs
-weight: 110
-url: /net/aspose.pdf.logicalstructure/tabletrelement/createtd/
+weight: 20
+url: "/net/aspose.pdf.logicalstructure/tabletrelement/createtd/"
+product_version: "26.9.0"
 ---
-## TableTRElement.CreateTD method
+## CreateTD() {#createtd}
 
-Creates [`TableTHElement`](../../tablethelement/) and added it to current table.
+Creates [`TableTHElement`](../../../aspose.pdf.logicalstructure/tablethelement/) and added it to current table.
 
 ```csharp
 public TableTDElement CreateTD()
@@ -16,13 +19,14 @@ public TableTDElement CreateTD()
 
 ### Return Value
 
+[TableTDElement](../../../aspose.pdf.logicalstructure/tabletdelement/)
+
 Created structure element.
 
 ### See Also
 
-* class [TableTDElement](../../tabletdelement/)
-* class [TableTRElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TableTDElement](../../../aspose.pdf.logicalstructure/tabletdelement/)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

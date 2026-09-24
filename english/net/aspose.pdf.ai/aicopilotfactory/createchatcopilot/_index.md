@@ -1,27 +1,35 @@
 ---
-title: AICopilotFactory.CreateChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: AICopilotFactory method. Creates a chat copilot based on the client and options
+title: "AICopilotFactory.CreateChatCopilot"
+linktitle: "CreateChatCopilot"
+articleTitle: "CreateChatCopilot"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 10
-url: /net/aspose.pdf.ai/aicopilotfactory/createchatcopilot/
+weight: 20
+url: "/net/aspose.pdf.ai/aicopilotfactory/createchatcopilot/"
+product_version: "26.9.0"
 ---
-## AICopilotFactory.CreateChatCopilot&lt;TOptions&gt; method
+## CreateChatCopilot(IChatClient<T0>, IChatCopilotOptions<T0>) {#createchatcopilot}
 
-Creates a chat copilot based on the client and options.
+
 
 ```csharp
-public static IChatCopilot CreateChatCopilot<TOptions>(IChatClient<TOptions> client, 
-    IChatCopilotOptions<TOptions> options)
+public IChatCopilot CreateChatCopilot(IChatClient<T0> client, IChatCopilotOptions<T0> options)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| client | IChatClient<T0> |  |
+| options | IChatCopilotOptions<T0> |  |
+
+### Return Value
+
+[IChatCopilot](../../../aspose.pdf.ai/ichatcopilot/)
 
 ### See Also
 
-* interface [IChatCopilot](../../ichatcopilot/)
-* interface [IChatClient&lt;TOptions&gt;](../../ichatclient-1/)
-* interface [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
-* class [AICopilotFactory](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [IChatCopilot](../../../aspose.pdf.ai/ichatcopilot/)
+* class [AICopilotFactory](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

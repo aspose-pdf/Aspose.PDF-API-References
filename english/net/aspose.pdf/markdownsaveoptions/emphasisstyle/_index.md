@@ -1,10 +1,13 @@
 ---
-title: MarkdownSaveOptions.EmphasisStyle
-second_title: Aspose.PDF for .NET API Reference
-description: MarkdownSaveOptions property. Gets or sets the style of emphasis for generated document
+title: "MarkdownSaveOptions.EmphasisStyle"
+linktitle: "EmphasisStyle"
+articleTitle: "EmphasisStyle"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the style of emphasis for generated document."
 type: docs
-weight: 30
-url: /net/aspose.pdf/markdownsaveoptions/emphasisstyle/
+weight: 80
+url: "/net/aspose.pdf/markdownsaveoptions/emphasisstyle/"
+product_version: "26.9.0"
 ---
 ## MarkdownSaveOptions.EmphasisStyle property
 
@@ -14,11 +17,14 @@ Gets or sets the style of emphasis for generated document.
 public EmphasisStyle EmphasisStyle { get; set; }
 ```
 
+### Property Value
+
+[EmphasisStyle](../../../aspose.pdf/emphasisstyle/)
+
 ### See Also
 
-* enum [EmphasisStyle](../../emphasisstyle/)
-* class [MarkdownSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [EmphasisStyle](../../../aspose.pdf/emphasisstyle/)
+* class [MarkdownSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,24 +1,30 @@
 ---
-title: PageInformationAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: PageInformationAnnotation property. Gets type of annotation
+title: "PageInformationAnnotation.AnnotationType"
+linktitle: "AnnotationType"
+articleTitle: "AnnotationType"
+second_title: "Aspose.PDF for .NET"
+description: "Gets type of annotation."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/pageinformationannotation/annotationtype/
+weight: 40
+url: "/net/aspose.pdf.annotations/pageinformationannotation/annotationtype/"
+product_version: "26.9.0"
 ---
 ## PageInformationAnnotation.AnnotationType property
 
 Gets type of annotation.
 
 ```csharp
-public override AnnotationType AnnotationType { get; }
+public AnnotationType AnnotationType { get; }
 ```
+
+### Property Value
+
+[AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 
 ### See Also
 
-* enum [AnnotationType](../../annotationtype/)
-* class [PageInformationAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PageInformationAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

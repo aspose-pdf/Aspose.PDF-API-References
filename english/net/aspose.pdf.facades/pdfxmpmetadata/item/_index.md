@@ -1,74 +1,30 @@
 ---
-title: PdfXmpMetadata.Item
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata property. Gets or sets value by key
+title: "PdfXmpMetadata.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 70
-url: /net/aspose.pdf.facades/pdfxmpmetadata/item/
+weight: 330
+url: "/net/aspose.pdf.facades/pdfxmpmetadata/item/"
+product_version: "26.9.0"
 ---
-## PdfXmpMetadata indexer (1 of 2)
+## PdfXmpMetadata.Item property
 
-Gets or sets value by key.
 
-```csharp
-public XmpValue this[string key] { get; set; }
-```
-
-| Parameter | Description |
-| --- | --- |
-| key | The key name to get/set. |
-
-### Return Value
-
-Object by key
-
-## Examples
 
 ```csharp
-PdfXmpMetadata pxm = new PdfXmpMetadata();
-pxm.BindPdf("PdfFile.pdf");
-Console.WriteLine(pxm["xmp:Nickname"]);
+public XmpValue Item { get; set; }
 ```
+
+### Property Value
+
+[XmpValue](../../../aspose.pdf/xmpvalue/)
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## PdfXmpMetadata indexer (2 of 2)
-
-Gets value of XMP metadata by key.
-
-```csharp
-public XmpValue this[DefaultMetadataProperties key] { get; set; }
-```
-
-| Parameter | Description |
-| --- | --- |
-| key | Key of the value. |
-
-### Return Value
-
-Value from XMP metadata.
-
-## Examples
-
-```csharp
-PdfXmpMetadata pxm = new PdfXmpMetadata();
-pxm.BindPdf("PdfFile.pdf");
-Console.WriteLine(pxm[DefaultMetadataProperties.CreatorTool]);
-```
-
-### See Also
-
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
-* enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

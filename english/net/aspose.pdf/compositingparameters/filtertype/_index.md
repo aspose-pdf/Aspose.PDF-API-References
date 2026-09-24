@@ -1,10 +1,13 @@
 ---
-title: CompositingParameters.FilterType
-second_title: Aspose.PDF for .NET API Reference
-description: CompositingParameters property. Gets the image filter type
+title: "CompositingParameters.FilterType"
+linktitle: "FilterType"
+articleTitle: "FilterType"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the image filter type."
 type: docs
-weight: 30
-url: /net/aspose.pdf/compositingparameters/filtertype/
+weight: 50
+url: "/net/aspose.pdf/compositingparameters/filtertype/"
+product_version: "26.9.0"
 ---
 ## CompositingParameters.FilterType property
 
@@ -14,11 +17,14 @@ Gets the image filter type.
 public ImageFilterType FilterType { get; }
 ```
 
+### Property Value
+
+[ImageFilterType](../../../aspose.pdf/imagefiltertype/)
+
 ### See Also
 
-* enum [ImageFilterType](../../imagefiltertype/)
-* class [CompositingParameters](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImageFilterType](../../../aspose.pdf/imagefiltertype/)
+* class [CompositingParameters](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

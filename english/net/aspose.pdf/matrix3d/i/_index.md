@@ -1,10 +1,13 @@
 ---
-title: Matrix3D.I
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D property. I member of the transformation matrix
+title: "Matrix3D.I"
+linktitle: "I"
+articleTitle: "I"
+second_title: "Aspose.PDF for .NET"
+description: "I member of the transformation matrix."
 type: docs
-weight: 100
-url: /net/aspose.pdf/matrix3d/i/
+weight: 180
+url: "/net/aspose.pdf/matrix3d/i/"
+product_version: "26.9.0"
 ---
 ## Matrix3D.I property
 
@@ -14,10 +17,13 @@ I member of the transformation matrix.
 public double I { get; set; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [Matrix3D](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,27 +1,30 @@
 ---
-title: Color.Tomato
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FFFF6347
+title: "Color.Tomato"
+linktitle: "Tomato"
+articleTitle: "Tomato"
+second_title: "Aspose.PDF for .NET"
+description: "Gets a system-defined color that has an ARGB value of \\c \\#FFFF6347."
 type: docs
-weight: 1340
-url: /net/aspose.pdf/color/tomato/
+weight: 1510
+url: "/net/aspose.pdf/color/tomato/"
+product_version: "26.9.0"
 ---
 ## Color.Tomato property
 
 Gets a system-defined color that has an ARGB value of \c \#FFFF6347.
 
 ```csharp
-public static Color Tomato { get; }
+public Color Tomato { get; }
 ```
 
-### Return Value
+### Property Value
 
-A representing a system-defined color.
+[Color](../../../aspose.pdf/color/)
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

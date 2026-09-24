@@ -1,12 +1,15 @@
 ---
-title: PdfAnnotationEditor.ExportAnnotationsToXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor method. Exports annotations to stream
+title: "PdfAnnotationEditor.ExportAnnotationsToXfdf"
+linktitle: "ExportAnnotationsToXfdf"
+articleTitle: "ExportAnnotationsToXfdf"
+second_title: "Aspose.PDF for .NET"
+description: "Exports annotations to stream."
 type: docs
-weight: 40
-url: /net/aspose.pdf.facades/pdfannotationeditor/exportannotationstoxfdf/
+weight: 240
+url: "/net/aspose.pdf.facades/pdfannotationeditor/exportannotationstoxfdf/"
+product_version: "26.9.0"
 ---
-## PdfAnnotationEditor.ExportAnnotationsToXfdf method
+## ExportAnnotationsToXfdf(Stream) {#exportannotationstoxfdf}
 
 Exports annotations to stream.
 
@@ -20,8 +23,7 @@ public void ExportAnnotationsToXfdf(Stream xmlOutputStream)
 
 ### See Also
 
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

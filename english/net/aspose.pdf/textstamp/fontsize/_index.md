@@ -1,10 +1,13 @@
 ---
-title: TextStamp.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp property. Actual font size after the stamp has been placed. May differ from the initial font size provided through the constructor if the AutoAdjustFontSizeToFitStampRectangle option is enabled
+title: "TextStamp.FontSize"
+linktitle: "FontSize"
+articleTitle: "FontSize"
+second_title: "Aspose.PDF for .NET"
+description: "Actual font size after the stamp has been placed. (May differ from the initial font size provided through the constructor if the 'AutoAdjustFontSizeToFitStam..."
 type: docs
-weight: 50
-url: /net/aspose.pdf/textstamp/fontsize/
+weight: 170
+url: "/net/aspose.pdf/textstamp/fontsize/"
+product_version: "26.9.0"
 ---
 ## TextStamp.FontSize property
 
@@ -14,10 +17,13 @@ Actual font size after the stamp has been placed. (May differ from the initial f
 public float FontSize { get; }
 ```
 
+### Property Value
+
+float
+
 ### See Also
 
-* class [TextStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

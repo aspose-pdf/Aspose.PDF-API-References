@@ -1,12 +1,15 @@
 ---
-title: Element.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Element method. Remove element
+title: "Element.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET"
+description: "Remove element."
 type: docs
-weight: 60
-url: /net/aspose.pdf.structure/element/remove/
+weight: 10
+url: "/net/aspose.pdf.structure/element/remove/"
+product_version: "26.9.0"
 ---
-## Element.Remove method
+## Remove() {#remove}
 
 Remove element.
 
@@ -16,8 +19,7 @@ public void Remove()
 
 ### See Also
 
-* class [Element](../)
-* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Element](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
 

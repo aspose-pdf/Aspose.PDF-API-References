@@ -1,23 +1,25 @@
 ---
-title: SaveOptions.BorderPartStyle.BorderPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: BorderPartStyle constructor. The default constructor
+title: "SaveOptions.BorderPartStyle.SaveOptions.BorderPartStyle"
+linktitle: "SaveOptions.BorderPartStyle"
+articleTitle: "SaveOptions.BorderPartStyle"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the SaveOptions.BorderPartStyle class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/saveoptions.borderpartstyle/borderpartstyle/
+url: "/net/aspose.pdf/saveoptions.borderpartstyle/borderpartstyle/"
+product_version: "26.9.0"
 ---
-## SaveOptions.BorderPartStyle constructor
+## SaveOptions.BorderPartStyle() {#constructor}
 
-The default constructor.
+Initializes a new instance of the SaveOptions.BorderPartStyle class.
 
 ```csharp
-public BorderPartStyle()
+public SaveOptions.BorderPartStyle()
 ```
 
 ### See Also
 
-* class [BorderPartStyle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SaveOptions.BorderPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

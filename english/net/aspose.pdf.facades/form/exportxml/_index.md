@@ -1,14 +1,18 @@
 ---
-title: Form.ExportXml
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Exports the content of the fields of the pdf into the xml stream. The button fields value will not be exported
+title: "Form.ExportXml"
+linktitle: "ExportXml"
+articleTitle: "ExportXml"
+second_title: "Aspose.PDF for .NET"
+description: "Exports the content of the fields of the pdf into the xml stream. The button field's value will not be exported."
 type: docs
-weight: 100
-url: /net/aspose.pdf.facades/form/exportxml/
+weight: 330
+url: "/net/aspose.pdf.facades/form/exportxml/"
+product_version: "26.9.0"
 ---
-## Form.ExportXml method
+## ExportXml(Stream) {#exportxml}
 
-Exports the content of the fields of the pdf into the xml stream. The button field's value will not be exported.
+Exports the content of the fields of the pdf into the xml stream.
+ The button field's value will not be exported.
 
 ```csharp
 public void ExportXml(Stream outputXmlStream)
@@ -18,19 +22,9 @@ public void ExportXml(Stream outputXmlStream)
 | --- | --- | --- |
 | outputXmlStream | Stream | Output Xml stream. |
 
-## Examples
-
-```csharp
-Form form = new Form("PdfForm.pdf"));
-FileStream fs = new FileStream("export.xml", FileMode.Create, FileAccess.Write);
-form.ExportXml(fs);
-fs.Close();
-```
-
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

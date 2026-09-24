@@ -1,23 +1,38 @@
 ---
-title: XslFoLoadOptions.XsltArgumentList
-second_title: Aspose.PDF for .NET API Reference
-description: XslFoLoadOptions property. XsltArgumentList for inserting values into existing xls parameters  XLS file has animal parameter without value XsltArgumentList args  new XsltArgumentList args.AddParamanimal  cat now the converter assumes that there is an animal parameter with the value cat in the XLS file
+title: "XslFoLoadOptions.XsltArgumentList"
+linktitle: "XsltArgumentList"
+articleTitle: "XsltArgumentList"
+second_title: "Aspose.PDF for .NET"
+description: "XsltArgumentList for inserting values into existing xls parameters XLS file has 'animal' parameter without value: XsltArgumentList args = new XsltArgumentLis..."
 type: docs
-weight: 30
-url: /net/aspose.pdf/xslfoloadoptions/xsltargumentlist/
+weight: 50
+url: "/net/aspose.pdf/xslfoloadoptions/xsltargumentlist/"
+product_version: "26.9.0"
 ---
 ## XslFoLoadOptions.XsltArgumentList property
 
-XsltArgumentList for inserting values into existing xls parameters  XLS file has 'animal' parameter without value: XsltArgumentList args = new XsltArgumentList(); args.AddParam("animal", "", "cat"); now the converter assumes that there is an 'animal' parameter with the value 'cat' in the XLS file.
+XsltArgumentList for inserting values into existing xls parameters
+ 
+ 
+ XLS file has 'animal' parameter without value:
+ 
+ XsltArgumentList args = new XsltArgumentList();
+ args.AddParam("animal", "", "cat");
+ 
+ now the converter assumes that there is an 'animal' parameter
+ with the value 'cat' in the XLS file.
 
 ```csharp
 public XsltArgumentList XsltArgumentList { get; set; }
 ```
 
+### Property Value
+
+XsltArgumentList
+
 ### See Also
 
-* class [XslFoLoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

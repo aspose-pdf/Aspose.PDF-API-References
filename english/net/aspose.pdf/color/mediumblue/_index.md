@@ -1,27 +1,30 @@
 ---
-title: Color.MediumBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FF0000CD
+title: "Color.MediumBlue"
+linktitle: "MediumBlue"
+articleTitle: "MediumBlue"
+second_title: "Aspose.PDF for .NET"
+description: "Gets a system-defined color that has an ARGB value of \\c \\#FF0000CD."
 type: docs
-weight: 840
-url: /net/aspose.pdf/color/mediumblue/
+weight: 1010
+url: "/net/aspose.pdf/color/mediumblue/"
+product_version: "26.9.0"
 ---
 ## Color.MediumBlue property
 
 Gets a system-defined color that has an ARGB value of \c \#FF0000CD.
 
 ```csharp
-public static Color MediumBlue { get; }
+public Color MediumBlue { get; }
 ```
 
-### Return Value
+### Property Value
 
-A representing a system-defined color.
+[Color](../../../aspose.pdf/color/)
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

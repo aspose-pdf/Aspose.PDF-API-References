@@ -1,12 +1,15 @@
 ---
-title: ArtifactCollection.Update
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection method. Update artifact inside the collection
+title: "ArtifactCollection.Update"
+linktitle: "Update"
+articleTitle: "Update"
+second_title: "Aspose.PDF for .NET"
+description: "Update artifact inside the collection."
 type: docs
-weight: 110
-url: /net/aspose.pdf/artifactcollection/update/
+weight: 60
+url: "/net/aspose.pdf/artifactcollection/update/"
+product_version: "26.9.0"
 ---
-## ArtifactCollection.Update method
+## Update([Artifact](../../../aspose.pdf/artifact/)) {#update}
 
 Update artifact inside the collection.
 
@@ -20,9 +23,7 @@ public void Update(Artifact artifact)
 
 ### See Also
 
-* class [Artifact](../../artifact/)
-* class [ArtifactCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

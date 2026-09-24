@@ -1,10 +1,13 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.Value
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeValue property. Gets specified value. Use Unit property to get value units
+title: "PdfFileEditor.ContentsResizeValue.Value"
+linktitle: "Value"
+articleTitle: "Value"
+second_title: "Aspose.PDF for .NET"
+description: "Gets specified value. Use Unit property to get value units."
 type: docs
-weight: 70
-url: /net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/value/
+weight: 60
+url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/value/"
+product_version: "26.9.0"
 ---
 ## PdfFileEditor.ContentsResizeValue.Value property
 
@@ -14,10 +17,13 @@ Gets specified value. Use Unit property to get value units.
 public double Value { get; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [ContentsResizeValue](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor.ContentsResizeValue](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

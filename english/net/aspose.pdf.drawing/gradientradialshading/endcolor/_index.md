@@ -1,10 +1,13 @@
 ---
-title: GradientRadialShading.EndColor
-second_title: Aspose.PDF for .NET API Reference
-description: GradientRadialShading property. Gets or sets end color
+title: "GradientRadialShading.EndColor"
+linktitle: "EndColor"
+articleTitle: "EndColor"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets end color."
 type: docs
-weight: 30
-url: /net/aspose.pdf.drawing/gradientradialshading/endcolor/
+weight: 80
+url: "/net/aspose.pdf.drawing/gradientradialshading/endcolor/"
+product_version: "26.9.0"
 ---
 ## GradientRadialShading.EndColor property
 
@@ -14,11 +17,14 @@ Gets or sets end color.
 public Color EndColor { get; set; }
 ```
 
+### Property Value
+
+[Color](../../../aspose.pdf/color/)
+
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
-* class [GradientRadialShading](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [GradientRadialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 

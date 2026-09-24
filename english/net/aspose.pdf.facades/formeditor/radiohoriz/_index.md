@@ -1,10 +1,13 @@
 ---
-title: FormEditor.RadioHoriz
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor property. The flag to indicate whether the radios are arranged horizontally or vertically default value is true
+title: "FormEditor.RadioHoriz"
+linktitle: "RadioHoriz"
+articleTitle: "RadioHoriz"
+second_title: "Aspose.PDF for .NET"
+description: "The flag to indicate whether the radios are arranged horizontally or vertically, default value is true."
 type: docs
-weight: 80
-url: /net/aspose.pdf.facades/formeditor/radiohoriz/
+weight: 500
+url: "/net/aspose.pdf.facades/formeditor/radiohoriz/"
+product_version: "26.9.0"
 ---
 ## FormEditor.RadioHoriz property
 
@@ -14,21 +17,13 @@ The flag to indicate whether the radios are arranged horizontally or vertically,
 public bool RadioHoriz { get; set; }
 ```
 
-## Examples
+### Property Value
 
-```csharp
-formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf");
-formEditor.RadioGap = 4;
-formEditor.RadioHoriz = false;
-formEditor.Items = new string[] { "First", "Second", "Third" };
-formEditor.AddField(FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 30, 110, 130);
-formEditor.Save();
-```
+bool
 
 ### See Also
 
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,17 @@
 ---
-title: Document.DefaultNodesNumInSubtrees
-second_title: Aspose.PDF for .NET API Reference
-description: Document field. 
+title: "Document.DefaultNodesNumInSubtrees"
+linktitle: "DefaultNodesNumInSubtrees"
+articleTitle: "DefaultNodesNumInSubtrees"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 940
-url: /net/aspose.pdf/document/defaultnodesnuminsubtrees/
+weight: 1640
+url: "/net/aspose.pdf/document/defaultnodesnuminsubtrees/"
+product_version: "26.9.0"
 ---
 ## Document.DefaultNodesNumInSubtrees field
+
+
 
 ```csharp
 public const byte DefaultNodesNumInSubtrees;
@@ -14,8 +19,7 @@ public const byte DefaultNodesNumInSubtrees;
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

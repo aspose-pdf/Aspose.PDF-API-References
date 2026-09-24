@@ -1,27 +1,29 @@
 ---
-title: DocumentInfo.Item
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo property. Gets or sets the value associated with the specified key
+title: "DocumentInfo.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 60
-url: /net/aspose.pdf/documentinfo/item/
+weight: 180
+url: "/net/aspose.pdf/documentinfo/item/"
+product_version: "26.9.0"
 ---
-## DocumentInfo indexer
+## DocumentInfo.Item property
 
-Gets or sets the value associated with the specified key.
+
 
 ```csharp
-public string this[string key] { get; set; }
+public string Item { get; set; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| key | The key whose value to get or set. |
+### Property Value
+
+string
 
 ### See Also
 
-* class [DocumentInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

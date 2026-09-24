@@ -1,17 +1,20 @@
 ---
-title: TextDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: TextDevice method. Convert page and save it as text stream
+title: "TextDevice.Process"
+linktitle: "Process"
+articleTitle: "Process"
+second_title: "Aspose.PDF for .NET"
+description: "Convert page and save it as text stream."
 type: docs
-weight: 40
-url: /net/aspose.pdf.devices/textdevice/process/
+weight: 50
+url: "/net/aspose.pdf.devices/textdevice/process/"
+product_version: "26.9.0"
 ---
-## TextDevice.Process method
+## Process([Page](../../../aspose.pdf/page/), Stream) {#process}
 
 Convert page and save it as text stream.
 
 ```csharp
-public override void Process(Page page, Stream output)
+public void Process(Page page, Stream output)
 ```
 
 | Parameter | Type | Description |
@@ -19,33 +22,9 @@ public override void Process(Page page, Stream output)
 | page | Page | The page to convert. |
 | output | Stream | Result stream. |
 
-## Examples
-
-The example demonstrates how to extract text on the first PDF document page.
-
-```csharp
-Document doc = new Document(inFile);
-string extractedText;
-
-using (MemoryStream ms = new MemoryStream())
-{
-    // create text device
-    TextDevice device = new TextDevice();
-
-    // convert the page and save text to the stream
-    device.Process(doc.Pages[1], ms);
-
-    // use the extracted text
-    ms.Close();
-    extractedText = Encoding.Unicode.GetString(ms.ToArray());
-}
-```
-
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [TextDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

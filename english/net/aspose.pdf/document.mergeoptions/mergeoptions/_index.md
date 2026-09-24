@@ -1,23 +1,25 @@
 ---
-title: Document.MergeOptions.MergeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: MergeOptions constructor. The default constructor
+title: "Document.MergeOptions.Document.MergeOptions"
+linktitle: "Document.MergeOptions"
+articleTitle: "Document.MergeOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the Document.MergeOptions class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/document.mergeoptions/mergeoptions/
+url: "/net/aspose.pdf/document.mergeoptions/mergeoptions/"
+product_version: "26.9.0"
 ---
-## Document.MergeOptions constructor
+## Document.MergeOptions() {#constructor}
 
-The default constructor.
+Initializes a new instance of the Document.MergeOptions class.
 
 ```csharp
-public MergeOptions()
+public Document.MergeOptions()
 ```
 
 ### See Also
 
-* class [MergeOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document.MergeOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

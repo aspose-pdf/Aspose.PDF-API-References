@@ -1,10 +1,13 @@
 ---
-title: StructureElement.Title
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement property. Gets or sets the title for structure element
+title: "StructureElement.Title"
+linktitle: "Title"
+articleTitle: "Title"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the title for structure element."
 type: docs
-weight: 100
-url: /net/aspose.pdf.logicalstructure/structureelement/title/
+weight: 180
+url: "/net/aspose.pdf.logicalstructure/structureelement/title/"
+product_version: "26.9.0"
 ---
 ## StructureElement.Title property
 
@@ -16,12 +19,11 @@ public string Title { get; set; }
 
 ### Property Value
 
-Title of the structure element.
+string
 
 ### See Also
 
-* class [StructureElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

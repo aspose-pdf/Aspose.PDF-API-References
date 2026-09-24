@@ -1,12 +1,15 @@
 ---
-title: PdfXmpMetadata.Add
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata method. Adds value to XMP metadata
+title: "PdfXmpMetadata.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: "Adds value to XMP metadata."
 type: docs
-weight: 110
-url: /net/aspose.pdf.facades/pdfxmpmetadata/add/
+weight: 60
+url: "/net/aspose.pdf.facades/pdfxmpmetadata/add/"
+product_version: "26.9.0"
 ---
-## Add(DefaultMetadataProperties, XmpValue) {#add}
+## Add([DefaultMetadataProperties](../../../aspose.pdf.facades/defaultmetadataproperties/), [XmpValue](../../../aspose.pdf/xmpvalue/)) {#add}
 
 Adds value to XMP metadata.
 
@@ -19,51 +22,38 @@ public void Add(DefaultMetadataProperties key, XmpValue value)
 | key | DefaultMetadataProperties | The key name. |
 | value | XmpValue | Value which will be added. |
 
-## Examples
-
-```csharp
-PdfXmpMetadata xmp = new PdfXmpMetadata();
-xmp.BindPdf("input.pdf");
-xmp.Add(DefaultMetadataProperties.Nickname, "name1");
-xmp.Save(TestSettings.GetOutputFile("XMP_AddedValue.pdf"));
-```
-
 ### See Also
 
-* enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(XmpPdfAExtensionObject, string, string, string) {#add_1}
+## Add([XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/), string, string, string) {#add_1}
 
 Adds extension field into metadata.
 
 ```csharp
-public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespacePrefix, 
-    string namespaceUri, string schemaDescription)
+public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespacePrefix, string namespaceUri, string schemaDescription)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | xmpPdfAExtensionObject | XmpPdfAExtensionObject | The pdf extension object to add. |
-| namespacePrefix | String | The prefix of schema. |
-| namespaceUri | String | The namespace uri of schema. |
-| schemaDescription | String | The optional description of schema. |
+| namespacePrefix | string | The prefix of schema. |
+| namespaceUri | string | The namespace uri of schema. |
+| schemaDescription | string | The optional description of schema. |
 
 ### See Also
 
-* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(string, XmpValue) {#add_3}
+## Add(string, [XmpValue](../../../aspose.pdf/xmpvalue/)) {#add_2}
 
 Adds new element to the dictionary object.
 
@@ -73,27 +63,18 @@ public void Add(string key, XmpValue value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | Key of new element. |
+| key | string | Key of new element. |
 | value | XmpValue | Value of the element. |
-
-## Examples
-
-```csharp
-PdfXmpMetadata xmp = new PdfXmpMetadata();
-xmp.BindPdf("input.pdf");
-xmp.Add("xmp:Nickname", "Nickname1");
-```
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(string, object) {#add_4}
+## Add(string, object) {#add_3}
 
 Adds new element to the dictionary object.
 
@@ -103,18 +84,18 @@ public void Add(string key, object value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | Key of new element. |
-| value | Object | Value of the element. |
+| key | string | Key of new element. |
+| value | object | Value of the element. |
 
 ### See Also
 
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add_2}
+## Add(KeyValuePair<string, XmpValue>) {#add_4}
 
 Adds pair with key and value into the dictionary.
 
@@ -124,13 +105,11 @@ public void Add(KeyValuePair<string, XmpValue> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair`2 | Item to be added. |
+| item | KeyValuePair<string, XmpValue> | Item to be added. |
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

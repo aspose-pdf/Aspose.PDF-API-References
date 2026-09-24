@@ -1,12 +1,15 @@
 ---
-title: EmbeddedFileCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection method. Adds embedded file specification into collection
+title: "EmbeddedFileCollection.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: "Adds embedded file specification into collection."
 type: docs
-weight: 60
-url: /net/aspose.pdf/embeddedfilecollection/add/
+weight: 30
+url: "/net/aspose.pdf/embeddedfilecollection/add/"
+product_version: "26.9.0"
 ---
-## Add(FileSpecification) {#add}
+## Add([FileSpecification](../../../aspose.pdf/filespecification/)) {#add}
 
 Adds embedded file specification into collection.
 
@@ -20,14 +23,13 @@ public void Add(FileSpecification file)
 
 ### See Also
 
-* class [FileSpecification](../../filespecification/)
-* class [EmbeddedFileCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(string, FileSpecification) {#add_1}
+## Add(string, [FileSpecification](../../../aspose.pdf/filespecification/)) {#add_1}
 
 Adds file to embedded files with the specified key.
 
@@ -37,14 +39,12 @@ public void Add(string key, FileSpecification file)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | Key in the embedded files. |
+| key | string | Key in the embedded files. |
 | file | FileSpecification | File specification. |
 
 ### See Also
 
-* class [FileSpecification](../../filespecification/)
-* class [EmbeddedFileCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

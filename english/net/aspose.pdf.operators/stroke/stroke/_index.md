@@ -1,12 +1,15 @@
 ---
-title: Stroke.Stroke
-second_title: Aspose.PDF for .NET API Reference
-description: Stroke constructor. Initializes operator
+title: "Stroke.Stroke"
+linktitle: "Stroke"
+articleTitle: "Stroke"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the Stroke class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/stroke/stroke/
+url: "/net/aspose.pdf.operators/stroke/stroke/"
+product_version: "26.9.0"
 ---
-## Stroke constructor
+## Stroke() {#constructor}
 
 Initializes operator.
 
@@ -16,8 +19,7 @@ public Stroke()
 
 ### See Also
 
-* class [Stroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Stroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

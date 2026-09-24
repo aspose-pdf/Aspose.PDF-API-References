@@ -1,10 +1,14 @@
 ---
-title: Class Clip
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.Clip class. Class representing W operator set clipping path using nonzero winding rule
+title: "Clip Class"
+linktitle: "Clip"
+articleTitle: "Clip"
+second_title: "Aspose.PDF for .NET"
+description: "Class representing W operator (set clipping path using non-zero winding rule)."
 type: docs
-weight: 8440
-url: /net/aspose.pdf.operators/clip/
+weight: 100
+url: "/net/aspose.pdf.operators/clip/"
+keywords: "Clip, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## Clip class
 
@@ -18,26 +22,26 @@ public class Clip : Operator
 
 | Name | Description |
 | --- | --- |
-| [Clip](clip/)() | Initializes operator. |
+| [Clip](./clip/#constructor) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. *(Inherited from Operator)* |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/clip/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/clip/tostring/)() | Returns text representation of operators. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
+| [Accept](./accept/)(*IOperatorSelector*) | Accepts visitor object to process operator. |
+| [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(*Operator*) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc). *(Inherited from Operator)* |
+| [ToString](./tostring/) | Returns text representation of operators. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(*Operator*) | Compares this instance with the given object. *(Inherited from Operator)* |
 
 ### See Also
 
-* class [Operator](../../aspose.pdf/operator/)
-* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../)
-
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
 

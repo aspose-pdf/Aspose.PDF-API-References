@@ -1,32 +1,34 @@
 ---
-title: TableBuilder.op_Implicit
-second_title: Aspose.PDF for .NET API Reference
-description: TableBuilder method. Converts builder TableBuilder to options TableOptions
+title: "TableBuilder.op_Implicit"
+linktitle: "op_Implicit"
+articleTitle: "op_Implicit"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
 weight: 50
-url: /net/aspose.pdf.lowcode/tablebuilder/op_implicit/
+url: "/net/aspose.pdf.lowcode/tablebuilder/op_implicit/"
+product_version: "26.9.0"
 ---
-## TableBuilder Implicit operator
+## op_Implicit([TableBuilder](../../../aspose.pdf.lowcode/tablebuilder/)) {#op_implicit}
 
-Converts builder [`TableBuilder`](../) to options [`TableOptions`](../../tableoptions/)
+
 
 ```csharp
-public static implicit operator TableOptions(TableBuilder builder)
+public TableOptions op_Implicit(TableBuilder builder)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| builder | TableBuilder | Instance of current [`TableBuilder`](../). |
+| builder | TableBuilder |  |
 
 ### Return Value
 
-Result of conversion to PdfGeneratorTableOptions.
+[TableOptions](../../../aspose.pdf.lowcode/tableoptions/)
 
 ### See Also
 
-* class [TableOptions](../../tableoptions/)
-* class [TableBuilder](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TableOptions](../../../aspose.pdf.lowcode/tableoptions/)
+* class [TableBuilder](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

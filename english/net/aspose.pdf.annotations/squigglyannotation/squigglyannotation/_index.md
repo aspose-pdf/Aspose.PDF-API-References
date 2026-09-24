@@ -1,12 +1,15 @@
 ---
-title: SquigglyAnnotation.SquigglyAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: SquigglyAnnotation constructor. Creates new Squiggly annotation on the specified page
+title: "SquigglyAnnotation.SquigglyAnnotation"
+linktitle: "SquigglyAnnotation"
+articleTitle: "SquigglyAnnotation"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the SquigglyAnnotation class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/squigglyannotation/squigglyannotation/
+url: "/net/aspose.pdf.annotations/squigglyannotation/squigglyannotation/"
+product_version: "26.9.0"
 ---
-## SquigglyAnnotation constructor
+## SquigglyAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
 
 Creates new Squiggly annotation on the specified page.
 
@@ -21,10 +24,7 @@ public SquigglyAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [SquigglyAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SquigglyAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

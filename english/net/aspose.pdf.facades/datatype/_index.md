@@ -1,10 +1,13 @@
 ---
-title: Enum DataType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.DataType enum. Enumerates field types definitions
+title: "DataType Enum"
+linktitle: "DataType"
+articleTitle: "DataType"
+second_title: "Aspose.PDF for .NET"
+description: "Enumerates field types definitions."
 type: docs
-weight: 4370
-url: /net/aspose.pdf.facades/datatype/
+weight: 100
+url: "/net/aspose.pdf.facades/datatype/"
+product_version: "26.9.0"
 ---
 ## DataType enumeration
 
@@ -14,10 +17,10 @@ Enumerates field types definitions.
 public enum DataType
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | FDF | `0` | FDF stream. |
 | XML | `1` | XML stream. |
 | XFDF | `2` | XFDF stream. |
@@ -27,7 +30,6 @@ public enum DataType
 
 ### See Also
 
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

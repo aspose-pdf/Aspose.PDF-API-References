@@ -1,31 +1,36 @@
 ---
-title: OpenAIChatCopilotOptions.WithMaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions method. Sets the max prompt tokens for the chat copilot options
+title: "OpenAIChatCopilotOptions.WithMaxPromptTokens"
+linktitle: "WithMaxPromptTokens"
+articleTitle: "WithMaxPromptTokens"
+second_title: "Aspose.PDF for .NET"
+description: "Sets the max prompt tokens for the chat copilot options."
 type: docs
-weight: 150
-url: /net/aspose.pdf.ai/openaichatcopilotoptions/withmaxprompttokens/
+weight: 70
+url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withmaxprompttokens/"
+product_version: "26.9.0"
 ---
-## OpenAIChatCopilotOptions.WithMaxPromptTokens method
+## WithMaxPromptTokens(Nullable<int>) {#withmaxprompttokens}
 
 Sets the max prompt tokens for the chat copilot options.
 
 ```csharp
-public OpenAIChatCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
+public OpenAIChatCopilotOptions WithMaxPromptTokens(Nullable<int> maxPromptTokens)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| maxPromptTokens | Nullable`1 | The max prompt tokens to set. |
+| maxPromptTokens | Nullable<int> | The max prompt tokens to set. |
 
 ### Return Value
 
-The current instance of [`OpenAIChatCopilotOptions`](../).
+[OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+
+The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

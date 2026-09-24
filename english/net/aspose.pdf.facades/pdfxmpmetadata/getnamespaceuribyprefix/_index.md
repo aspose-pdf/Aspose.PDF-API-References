@@ -1,12 +1,15 @@
 ---
-title: PdfXmpMetadata.GetNamespaceURIByPrefix
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata method. Gets namespace URI by prefix
+title: "PdfXmpMetadata.GetNamespaceURIByPrefix"
+linktitle: "GetNamespaceURIByPrefix"
+articleTitle: "GetNamespaceURIByPrefix"
+second_title: "Aspose.PDF for .NET"
+description: "Gets namespace URI by prefix."
 type: docs
-weight: 170
-url: /net/aspose.pdf.facades/pdfxmpmetadata/getnamespaceuribyprefix/
+weight: 40
+url: "/net/aspose.pdf.facades/pdfxmpmetadata/getnamespaceuribyprefix/"
+product_version: "26.9.0"
 ---
-## PdfXmpMetadata.GetNamespaceURIByPrefix method
+## GetNamespaceURIByPrefix(string) {#getnamespaceuribyprefix}
 
 Gets namespace URI by prefix.
 
@@ -16,23 +19,17 @@ public string GetNamespaceURIByPrefix(string prefix)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| prefix | String | The prefix. |
+| prefix | string | The prefix. |
 
 ### Return Value
 
+string
+
 Namespace URI.
-
-## Examples
-
-```csharp
-PdfXmpMetadata xmp = new PdfXmpMetadata("input.pdf");
-Console.WriteLine(xmp.GetNamespaceURIByPrefix("xmp"));
-```
 
 ### See Also
 
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

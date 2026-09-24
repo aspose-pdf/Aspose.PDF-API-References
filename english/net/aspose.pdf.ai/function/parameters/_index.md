@@ -1,10 +1,13 @@
 ---
-title: Function.Parameters
-second_title: Aspose.PDF for .NET API Reference
-description: Function property. Gets or sets the parameters the functions accepts described as a JSON Schema object
+title: "Function.Parameters"
+linktitle: "Parameters"
+articleTitle: "Parameters"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the parameters the functions accepts, described as a JSON Schema object."
 type: docs
 weight: 40
-url: /net/aspose.pdf.ai/function/parameters/
+url: "/net/aspose.pdf.ai/function/parameters/"
+product_version: "26.9.0"
 ---
 ## Function.Parameters property
 
@@ -14,10 +17,13 @@ Gets or sets the parameters the functions accepts, described as a JSON Schema ob
 public object Parameters { get; set; }
 ```
 
+### Property Value
+
+object
+
 ### See Also
 
-* class [Function](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Function](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

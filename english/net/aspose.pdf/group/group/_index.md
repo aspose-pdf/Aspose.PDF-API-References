@@ -1,12 +1,15 @@
 ---
-title: Group.Group
-second_title: Aspose.PDF for .NET API Reference
-description: Group constructor. The constructor
+title: "Group.Group"
+linktitle: "Group"
+articleTitle: "Group"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the Group class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/group/group/
+url: "/net/aspose.pdf/group/group/"
+product_version: "26.9.0"
 ---
-## Group constructor
+## Group([Page](../../../aspose.pdf/page/)) {#constructor}
 
 The constructor.
 
@@ -20,9 +23,7 @@ public Group(Page page)
 
 ### See Also
 
-* class [Page](../../page/)
-* class [Group](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Group](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

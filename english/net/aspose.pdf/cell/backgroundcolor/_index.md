@@ -1,10 +1,13 @@
 ---
-title: Cell.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Cell property. Gets or sets the background color
+title: "Cell.BackgroundColor"
+linktitle: "BackgroundColor"
+articleTitle: "BackgroundColor"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the background color."
 type: docs
-weight: 30
-url: /net/aspose.pdf/cell/backgroundcolor/
+weight: 70
+url: "/net/aspose.pdf/cell/backgroundcolor/"
+product_version: "26.9.0"
 ---
 ## Cell.BackgroundColor property
 
@@ -14,11 +17,14 @@ Gets or sets the background color.
 public Color BackgroundColor { get; set; }
 ```
 
+### Property Value
+
+[Color](../../../aspose.pdf/color/)
+
 ### See Also
 
-* class [Color](../../color/)
-* class [Cell](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

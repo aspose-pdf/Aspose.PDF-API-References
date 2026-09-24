@@ -1,10 +1,13 @@
 ---
-title: PdfFileStamp.PosSidesLeft
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp field. Left position
+title: "PdfFileStamp.PosSidesLeft"
+linktitle: "PosSidesLeft"
+articleTitle: "PosSidesLeft"
+second_title: "Aspose.PDF for .NET"
+description: "Left position."
 type: docs
-weight: 200
-url: /net/aspose.pdf.facades/pdffilestamp/possidesleft/
+weight: 520
+url: "/net/aspose.pdf.facades/pdffilestamp/possidesleft/"
+product_version: "26.9.0"
 ---
 ## PdfFileStamp.PosSidesLeft field
 
@@ -16,8 +19,7 @@ public const int PosSidesLeft;
 
 ### See Also
 
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

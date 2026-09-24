@@ -1,12 +1,15 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarkOfPage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor method. Creates bookmark for the specified page
+title: "PdfBookmarkEditor.CreateBookmarkOfPage"
+linktitle: "CreateBookmarkOfPage"
+articleTitle: "CreateBookmarkOfPage"
+second_title: "Aspose.PDF for .NET"
+description: "Creates bookmark for the specified page."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/
+weight: 40
+url: "/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/"
+product_version: "26.9.0"
 ---
-## CreateBookmarkOfPage(string, int) {#createbookmarkofpage}
+## CreateBookmarkOfPage(string, int) {#createbookmarkofpage}
 
 Creates bookmark for the specified page.
 
@@ -16,27 +19,18 @@ public void CreateBookmarkOfPage(string bookmarkName, int pageNumber)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bookmarkName | String | The specified bookmark name. |
-| pageNumber | Int32 | The specified desination page. |
-
-## Examples
-
-```csharp
-PdfBookmarkEditor editor = new PdfBookmarkEditor();
-editor.BindPdf("example.pdf");
-editor.CreateBookmarkOfPage("bookmark for page 1", 1);
-editor.Save("example_out.pdf");
-```
+| bookmarkName | string | The specified bookmark name. |
+| pageNumber | int | The specified desination page. |
 
 ### See Also
 
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateBookmarkOfPage(string[], int[]) {#createbookmarkofpage_1}
+## CreateBookmarkOfPage(string[], int[]) {#createbookmarkofpage_1}
 
 Creates bookmarks for the specified pages.
 
@@ -46,22 +40,12 @@ public void CreateBookmarkOfPage(string[] bookmarkName, int[] pageNumber)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bookmarkName | String[] | Bookmarks title array. |
-| pageNumber | Int32[] | Bookmarks desination page array. |
-
-## Examples
-
-```csharp
-PdfBookmarkEditor editor = new PdfBookmarkEditor();
-editor.BindPdf("example.pdf");
-editor.CreateBookmarkOfPage("bookmark for page 1", 1);
-editor.Save("example_out.pdf");
-```
+| bookmarkName | string[] | Bookmarks title array. |
+| pageNumber | int[] | Bookmarks desination page array. |
 
 ### See Also
 
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

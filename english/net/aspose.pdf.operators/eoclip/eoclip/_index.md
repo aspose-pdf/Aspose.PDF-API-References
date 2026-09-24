@@ -1,12 +1,15 @@
 ---
-title: EOClip.EOClip
-second_title: Aspose.PDF for .NET API Reference
-description: EOClip constructor. Initializes operator
+title: "EOClip.EOClip"
+linktitle: "EOClip"
+articleTitle: "EOClip"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the EOClip class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/eoclip/eoclip/
+url: "/net/aspose.pdf.operators/eoclip/eoclip/"
+product_version: "26.9.0"
 ---
-## EOClip constructor
+## EOClip() {#constructor}
 
 Initializes operator.
 
@@ -16,8 +19,7 @@ public EOClip()
 
 ### See Also
 
-* class [EOClip](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [EOClip](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

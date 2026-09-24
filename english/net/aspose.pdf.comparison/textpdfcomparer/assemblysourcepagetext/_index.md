@@ -1,32 +1,35 @@
 ---
-title: TextPdfComparer.AssemblySourcePageText
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer method. Restores the original text from the list of changes
+title: "TextPdfComparer.AssemblySourcePageText"
+linktitle: "AssemblySourcePageText"
+articleTitle: "AssemblySourcePageText"
+second_title: "Aspose.PDF for .NET"
+description: "Restores the original text from the list of changes."
 type: docs
-weight: 30
-url: /net/aspose.pdf.comparison/textpdfcomparer/assemblysourcepagetext/
+weight: 90
+url: "/net/aspose.pdf.comparison/textpdfcomparer/assemblysourcepagetext/"
+product_version: "26.9.0"
 ---
-## TextPdfComparer.AssemblySourcePageText method
+## AssemblySourcePageText(List<DiffOperation>) {#assemblysourcepagetext}
 
 Restores the original text from the list of changes.
 
 ```csharp
-public static string AssemblySourcePageText(List<DiffOperation> diffs)
+public string AssemblySourcePageText(List<DiffOperation> diffs)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffs | List`1 | The list of changes. |
+| diffs | List<DiffOperation> | The list of changes. |
 
 ### Return Value
+
+string
 
 Original text.
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [TextPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

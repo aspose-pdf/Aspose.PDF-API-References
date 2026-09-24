@@ -1,10 +1,14 @@
 ---
-title: Class PdfPrintPageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfPrintPageInfo class. Represents an object that contains current printing page info
+title: "PdfPrintPageInfo Class"
+linktitle: "PdfPrintPageInfo"
+articleTitle: "PdfPrintPageInfo"
+second_title: "Aspose.PDF for .NET"
+description: "Represents an object that contains current printing page info."
 type: docs
-weight: 4760
-url: /net/aspose.pdf.facades/pdfprintpageinfo/
+weight: 490
+url: "/net/aspose.pdf.facades/pdfprintpageinfo/"
+keywords: "PdfPrintPageInfo, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## PdfPrintPageInfo class
 
@@ -18,11 +22,10 @@ public class PdfPrintPageInfo
 
 | Name | Description |
 | --- | --- |
-| [PageNumber](../../aspose.pdf.facades/pdfprintpageinfo/pagenumber/) { get; } | Gets currently printed page number; |
+| [PageNumber](./pagenumber/) { get; } | Gets currently printed page number;. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,17 +1,20 @@
 ---
-title: PrinterSettingsExtensions.ToAsposePrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettingsExtensions method. Converts Windowsspecific System.Drawing.Printing.PrinterSettings to PrinterSettings
+title: "PrinterSettingsExtensions.ToAsposePrinterSettings"
+linktitle: "ToAsposePrinterSettings"
+articleTitle: "ToAsposePrinterSettings"
+second_title: "Aspose.PDF for .NET"
+description: "Converts Windows-specific System.Drawing.Printing.PrinterSettings to ."
 type: docs
-weight: 10
-url: /net/aspose.pdf.printing/printersettingsextensions/toasposeprintersettings/
+weight: 20
+url: "/net/aspose.pdf.printing/printersettingsextensions/toasposeprintersettings/"
+product_version: "26.9.0"
 ---
-## PrinterSettingsExtensions.ToAsposePrinterSettings method
+## ToAsposePrinterSettings([PrinterSettings](../../../aspose.pdf.printing/printersettings/)) {#toasposeprintersettings}
 
-Converts Windows-specific System.Drawing.Printing.PrinterSettings to [`PrinterSettings`](../../printersettings/).
+Converts Windows-specific System.Drawing.Printing.PrinterSettings to [`PrinterSettings`](../../../aspose.pdf.printing/printersettings/).
 
 ```csharp
-public static PrinterSettings ToAsposePrinterSettings(this PrinterSettings nativeSettings)
+public PrinterSettings ToAsposePrinterSettings(PrinterSettings nativeSettings)
 ```
 
 | Parameter | Type | Description |
@@ -20,13 +23,14 @@ public static PrinterSettings ToAsposePrinterSettings(this PrinterSettings nativ
 
 ### Return Value
 
+[PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+
 Converted printer settings.
 
 ### See Also
 
-* class [PrinterSettings](../../printersettings/)
-* class [PrinterSettingsExtensions](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PrinterSettingsExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

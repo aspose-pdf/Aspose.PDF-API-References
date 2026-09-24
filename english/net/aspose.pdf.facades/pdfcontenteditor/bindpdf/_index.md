@@ -1,28 +1,31 @@
 ---
-title: PdfContentEditor.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Binds a PDF file for editing
+title: "PdfContentEditor.BindPdf"
+linktitle: "BindPdf"
+articleTitle: "BindPdf"
+second_title: "Aspose.PDF for .NET"
+description: "Binds a PDF file for editing."
 type: docs
-weight: 80
-url: /net/aspose.pdf.facades/pdfcontenteditor/bindpdf/
+weight: 30
+url: "/net/aspose.pdf.facades/pdfcontenteditor/bindpdf/"
+product_version: "26.9.0"
 ---
-## BindPdf(string) {#bindpdf_2}
+## BindPdf(string) {#bindpdf}
 
 Binds a PDF file for editing.
 
 ```csharp
-public override void BindPdf(string inputFile)
+public void BindPdf(string inputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | String | A PDF file to be edited. |
+| inputFile | string | A PDF file to be edited. |
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -31,7 +34,7 @@ public override void BindPdf(string inputFile)
 Binds a PDF stream for editing.
 
 ```csharp
-public override void BindPdf(Stream inputStream)
+public void BindPdf(Stream inputStream)
 ```
 
 | Parameter | Type | Description |
@@ -40,8 +43,7 @@ public override void BindPdf(Stream inputStream)
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

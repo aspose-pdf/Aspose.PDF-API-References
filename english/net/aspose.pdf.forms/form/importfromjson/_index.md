@@ -1,10 +1,13 @@
 ---
-title: Form.ImportFromJson
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Imports the PDF form fields from JSON format provided in the stream
+title: "Form.ImportFromJson"
+linktitle: "ImportFromJson"
+articleTitle: "ImportFromJson"
+second_title: "Aspose.PDF for .NET"
+description: "Imports the PDF form fields from JSON format provided in the stream."
 type: docs
-weight: 310
-url: /net/aspose.pdf.forms/form/importfromjson/
+weight: 180
+url: "/net/aspose.pdf.forms/form/importfromjson/"
+product_version: "26.9.0"
 ---
 ## ImportFromJson(Stream) {#importfromjson}
 
@@ -20,24 +23,15 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(Stream stream)
 
 ### Return Value
 
+[IEnumerable](https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1)<[FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)>
+
 A collection of [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) indicating the result of the import operation for each form field.
-
-## Examples
-
-```csharp
-Document document = new Document("PdfDoc.pdf");
-FileStream fs = new FileStream("import.json", FileMode.Open, FileAccess.Read);
-document.Form.ImportFormFieldsFromJson(fs);
-fs.Close();
-document.Save();
-```
 
 ### See Also
 
-* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -51,26 +45,17 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(string fileName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | String | The name of the file to read the JSON input from. |
+| fileName | string | The name of the file to read the JSON input from. |
 
 ### Return Value
 
+[IEnumerable](https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1)<[FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)>
+
 A collection of [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) indicating the result of the import operation for each form field.
-
-## Examples
-
-```csharp
-Document document = new Document("PdfDoc.pdf");
-string jsonPath = "import.json";
-document.Form.ImportFormFieldsFromJson(jsonPath);
-document.Save();
-```
 
 ### See Also
 
-* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

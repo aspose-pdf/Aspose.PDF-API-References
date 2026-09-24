@@ -1,12 +1,15 @@
 ---
-title: PdfContentEditor.ReplaceImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Replaces the specified image on the specified page of PDF document with another image
+title: "PdfContentEditor.ReplaceImage"
+linktitle: "ReplaceImage"
+articleTitle: "ReplaceImage"
+second_title: "Aspose.PDF for .NET"
+description: "Replaces the specified image on the specified page of PDF document with another image."
 type: docs
 weight: 440
-url: /net/aspose.pdf.facades/pdfcontenteditor/replaceimage/
+url: "/net/aspose.pdf.facades/pdfcontenteditor/replaceimage/"
+product_version: "26.9.0"
 ---
-## PdfContentEditor.ReplaceImage method
+## ReplaceImage(int, int, string) {#replaceimage}
 
 Replaces the specified image on the specified page of PDF document with another image.
 
@@ -16,23 +19,13 @@ public void ReplaceImage(int pageNumber, int index, string imageFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | Int32 | The number of page on which the image is replaced. |
-| index | Int32 | The index of the image object must be replaced. |
-| imageFile | String | The image file will be used for replacing. |
-
-## Examples
-
-```csharp
-PdfContentEditor editor = new PdfContentEditor();
-editor.BindPdf("example.pdf");
-editor.ReplaceImage(1, 1, "image.jpg");
-editor.Save("example_out.pdf");
-```
+| pageNumber | int | The number of page on which the image is replaced. |
+| index | int | The index of the image object must be replaced. |
+| imageFile | string | The image file will be used for replacing. |
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

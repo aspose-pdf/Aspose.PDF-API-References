@@ -1,12 +1,15 @@
 ---
-title: XImage.AddStencilMask
-second_title: Aspose.PDF for .NET API Reference
-description: XImage method. Adds a stencil mask to the XImage
+title: "XImage.AddStencilMask"
+linktitle: "AddStencilMask"
+articleTitle: "AddStencilMask"
+second_title: "Aspose.PDF for .NET"
+description: "Adds a stencil mask to the XImage."
 type: docs
-weight: 90
-url: /net/aspose.pdf/ximage/addstencilmask/
+weight: 50
+url: "/net/aspose.pdf/ximage/addstencilmask/"
+product_version: "26.9.0"
 ---
-## XImage.AddStencilMask method
+## AddStencilMask(Stream) {#addstencilmask}
 
 Adds a stencil mask to the XImage.
 
@@ -20,8 +23,7 @@ public void AddStencilMask(Stream maskStream)
 
 ### See Also
 
-* class [XImage](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: PdfAnnotationEditor.ExtractAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor method. Gets the list of annotations of the specified types
+title: "PdfAnnotationEditor.ExtractAnnotations"
+linktitle: "ExtractAnnotations"
+articleTitle: "ExtractAnnotations"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the list of annotations of the specified types."
 type: docs
-weight: 60
-url: /net/aspose.pdf.facades/pdfannotationeditor/extractannotations/
+weight: 250
+url: "/net/aspose.pdf.facades/pdfannotationeditor/extractannotations/"
+product_version: "26.9.0"
 ---
-## ExtractAnnotations(int, int, string[]) {#extractannotations_1}
+## ExtractAnnotations(int, int, string[]) {#extractannotations}
 
 Gets the list of annotations of the specified types.
 
@@ -16,33 +19,25 @@ public IList<Annotation> ExtractAnnotations(int start, int end, string[] annotTy
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| start | Int32 | Start page from which the annotations will be selected. |
-| end | Int32 | End page to which the annotations will be selected. |
-| annotTypes | String[] | The array of needed annotation types. |
+| start | int | Start page from which the annotations will be selected. |
+| end | int | End page to which the annotations will be selected. |
+| annotTypes | string[] | The array of needed annotation types. |
 
 ### Return Value
 
+[IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)<[Annotation](../../../aspose.pdf.annotations/annotation/)>
+
 Annotations list.
-
-## Examples
-
-```csharp
-PdfAnnotationEditor editor = new PdfAnnotationEditor();
-editor.BindPdf("example.pdf");
-string[] annotTypes = new string[] {"Text", "Highlight"};
-IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
-```
 
 ### See Also
 
-* class [Annotation](../../../aspose.pdf.annotations/annotation/)
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ExtractAnnotations(int, int, AnnotationType[]) {#extractannotations}
+## ExtractAnnotations(int, int, AnnotationType[]) {#extractannotations_1}
 
 Gets the list of annotations of the specified types.
 
@@ -52,29 +47,19 @@ public IList<Annotation> ExtractAnnotations(int start, int end, AnnotationType[]
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| start | Int32 | Start page from which the annotations will be selected. |
-| end | Int32 | End page to which the annotations will be selected. |
+| start | int | Start page from which the annotations will be selected. |
+| end | int | End page to which the annotations will be selected. |
 | annotTypes | AnnotationType[] | The array of needed annotation types. |
 
 ### Return Value
 
+[IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)<[Annotation](../../../aspose.pdf.annotations/annotation/)>
+
 Annotations list.
-
-## Examples
-
-```csharp
-PdfAnnotationEditor editor = new PdfAnnotationEditor();
-editor.BindPdf("example.pdf");
-AnnotationType[] annotTypes = new AnnotationType[] {AnnotationType.Text, AnnotationType.Highlight};
-IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
-```
 
 ### See Also
 
-* class [Annotation](../../../aspose.pdf.annotations/annotation/)
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

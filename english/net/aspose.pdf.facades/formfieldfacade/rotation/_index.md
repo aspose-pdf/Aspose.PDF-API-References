@@ -1,10 +1,13 @@
 ---
-title: FormFieldFacade.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade property. The rotation of a field text
+title: "FormFieldFacade.Rotation"
+linktitle: "Rotation"
+articleTitle: "Rotation"
+second_title: "Aspose.PDF for .NET"
+description: "The rotation of a field text."
 type: docs
-weight: 170
-url: /net/aspose.pdf.facades/formfieldfacade/rotation/
+weight: 120
+url: "/net/aspose.pdf.facades/formfieldfacade/rotation/"
+product_version: "26.9.0"
 ---
 ## FormFieldFacade.Rotation property
 
@@ -14,10 +17,13 @@ The rotation of a field text.
 public int Rotation { get; set; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [FormFieldFacade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

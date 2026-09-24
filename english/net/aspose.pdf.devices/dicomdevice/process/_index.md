@@ -1,17 +1,20 @@
 ---
-title: DicomDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: DicomDevice method. Converts the page into Dicom and saves it in the output stream
+title: "DicomDevice.Process"
+linktitle: "Process"
+articleTitle: "Process"
+second_title: "Aspose.PDF for .NET"
+description: "Converts the page into Dicom and saves it in the output stream."
 type: docs
-weight: 20
-url: /net/aspose.pdf.devices/dicomdevice/process/
+weight: 70
+url: "/net/aspose.pdf.devices/dicomdevice/process/"
+product_version: "26.9.0"
 ---
-## DicomDevice.Process method
+## Process([Page](../../../aspose.pdf/page/), Stream) {#process}
 
 Converts the page into Dicom and saves it in the output stream.
 
 ```csharp
-public override void Process(Page page, Stream output)
+public void Process(Page page, Stream output)
 ```
 
 | Parameter | Type | Description |
@@ -21,9 +24,7 @@ public override void Process(Page page, Stream output)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [DicomDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DicomDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

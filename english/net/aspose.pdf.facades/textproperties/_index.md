@@ -1,10 +1,14 @@
 ---
-title: Class TextProperties
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.TextProperties class. Represents text properties such as text size color style etc
+title: "TextProperties Class"
+linktitle: "TextProperties"
+articleTitle: "TextProperties"
+second_title: "Aspose.PDF for .NET"
+description: "Represents text properties such as: text size, color, style etc."
 type: docs
-weight: 4920
-url: /net/aspose.pdf.facades/textproperties/
+weight: 650
+url: "/net/aspose.pdf.facades/textproperties/"
+keywords: "TextProperties, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## TextProperties class
 
@@ -18,20 +22,19 @@ public sealed class TextProperties
 
 | Name | Description |
 | --- | --- |
-| [TextProperties](textproperties/)(double) | Creates `TextProperties` object for the specified text size |
+| [TextProperties](./textproperties/#constructor)(*double*) | Creates [`TextProperties`](../../aspose.pdf.facades/textproperties/) object for the specified text size. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Color](../../aspose.pdf.facades/textproperties/color/) { get; set; } | Gets or sets text color. |
-| [IsColorSpecified](../../aspose.pdf.facades/textproperties/iscolorspecified/) { get; } | Gets or sets a value that indicates whether the [`Color`](./color/) property is specified. |
-| [IsTextSizeSpecified](../../aspose.pdf.facades/textproperties/istextsizespecified/) { get; } | Gets or sets a value that indicates whether the [`TextSize`](./textsize/) property is specified. |
-| [TextSize](../../aspose.pdf.facades/textproperties/textsize/) { get; set; } | Gets or sets text size. |
+| [Color](./color/) { get; set; } | Gets or sets text color. |
+| [IsColorSpecified](./iscolorspecified/) { get; } | Gets or sets a value that indicates whether the `Color` property is specified. |
+| [IsTextSizeSpecified](./istextsizespecified/) { get; } | Gets or sets a value that indicates whether the `TextSize` property is specified. |
+| [TextSize](./textsize/) { get; set; } | Gets or sets text size. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

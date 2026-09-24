@@ -1,14 +1,17 @@
 ---
-title: FormTextBoxFieldCreateOptions.FormTextBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormTextBoxFieldCreateOptions constructor. Initializes a new instance of the FormTextBoxFieldCreateOptions object that containing parameters for created and added TextBoxField
+title: "FormTextBoxFieldCreateOptions.FormTextBoxFieldCreateOptions"
+linktitle: "FormTextBoxFieldCreateOptions"
+articleTitle: "FormTextBoxFieldCreateOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the FormTextBoxFieldCreateOptions class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/formtextboxfieldcreateoptions/formtextboxfieldcreateoptions/
+url: "/net/aspose.pdf.lowcode/formtextboxfieldcreateoptions/formtextboxfieldcreateoptions/"
+product_version: "26.9.0"
 ---
-## FormTextBoxFieldCreateOptions constructor
+## FormTextBoxFieldCreateOptions(int, [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
 
-Initializes a new instance of the [`FormTextBoxFieldCreateOptions`](../) object, that containing parameters for created and added TextBoxField.
+Initializes a new instance of the [`FormTextBoxFieldCreateOptions`](../../../aspose.pdf.lowcode/formtextboxfieldcreateoptions/) object, that containing parameters for created and added TextBoxField.
 
 ```csharp
 public FormTextBoxFieldCreateOptions(int pageNum, Rectangle rect)
@@ -16,14 +19,12 @@ public FormTextBoxFieldCreateOptions(int pageNum, Rectangle rect)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNum | Int32 | Page number on which the added TextBoxField will be located. |
+| pageNum | int | Page number on which the added TextBoxField will be located. |
 | rect | Rectangle | Sets TextBoxField rectangle. |
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [FormTextBoxFieldCreateOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormTextBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

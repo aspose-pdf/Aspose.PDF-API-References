@@ -1,14 +1,17 @@
 ---
-title: FormJsonImportSource.FormJsonImportSource
-second_title: Aspose.PDF for .NET API Reference
-description: FormJsonImportSource constructor. Initializes a new instance of the FormJsonImportSource class
+title: "FormJsonImportSource.FormJsonImportSource"
+linktitle: "FormJsonImportSource"
+articleTitle: "FormJsonImportSource"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the FormJsonImportSource class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/formjsonimportsource/formjsonimportsource/
+url: "/net/aspose.pdf.lowcode/formjsonimportsource/formjsonimportsource/"
+product_version: "26.9.0"
 ---
-## FormJsonImportSource constructor
+## FormJsonImportSource([IDataSource](../../../aspose.pdf.lowcode/idatasource/), [IDataSource](../../../aspose.pdf.lowcode/idatasource/)) {#constructor}
 
-Initializes a new instance of the [`FormJsonImportSource`](../) class.
+Initializes a new instance of the [`FormJsonImportSource`](../../../aspose.pdf.lowcode/formjsonimportsource/) class.
 
 ```csharp
 public FormJsonImportSource(IDataSource pdfSource, IDataSource jsonSource)
@@ -21,9 +24,7 @@ public FormJsonImportSource(IDataSource pdfSource, IDataSource jsonSource)
 
 ### See Also
 
-* interface [IDataSource](../../idatasource/)
-* class [FormJsonImportSource](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormJsonImportSource](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

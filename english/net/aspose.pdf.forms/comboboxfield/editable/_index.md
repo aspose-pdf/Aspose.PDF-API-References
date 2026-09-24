@@ -1,10 +1,13 @@
 ---
-title: ComboBoxField.Editable
-second_title: Aspose.PDF for .NET API Reference
-description: ComboBoxField property. Gets or sets editable status of the field
+title: "ComboBoxField.Editable"
+linktitle: "Editable"
+articleTitle: "Editable"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets editable status of the field."
 type: docs
-weight: 20
-url: /net/aspose.pdf.forms/comboboxfield/editable/
+weight: 50
+url: "/net/aspose.pdf.forms/comboboxfield/editable/"
+product_version: "26.9.0"
 ---
 ## ComboBoxField.Editable property
 
@@ -14,10 +17,13 @@ Gets or sets editable status of the field.
 public bool Editable { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [ComboBoxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ComboBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

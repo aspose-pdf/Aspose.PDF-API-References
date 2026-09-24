@@ -1,12 +1,15 @@
 ---
-title: Page.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Page method. Accepts AnnotationSelector visitor object that provides functionality to work with annotations
+title: "Page.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET"
+description: "Accepts visitor object that provides functionality to work with annotations."
 type: docs
-weight: 330
-url: /net/aspose.pdf/page/accept/
+weight: 130
+url: "/net/aspose.pdf/page/accept/"
+product_version: "26.9.0"
 ---
-## Accept(AnnotationSelector) {#accept}
+## Accept([AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)) {#accept}
 
 Accepts [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) visitor object that provides functionality to work with annotations.
 
@@ -20,14 +23,13 @@ public void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Accept(TextFragmentAbsorber) {#accept_4}
+## Accept([TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)) {#accept_1}
 
 Accepts [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) visitor object that provides functionality to work with text objects.
 
@@ -41,16 +43,15 @@ public void Accept(TextFragmentAbsorber visitor)
 
 ### See Also
 
-* class [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Accept(ImagePlacementAbsorber) {#accept_1}
+## Accept([ImagePlacementAbsorber](../../../aspose.pdf/imageplacementabsorber/)) {#accept_2}
 
-Accepts [`ImagePlacementAbsorber`](../../imageplacementabsorber/) visitor object that provides functionality to work with image placement objects.
+Accepts [`ImagePlacementAbsorber`](../../../aspose.pdf/imageplacementabsorber/) visitor object that provides functionality to work with image placement objects.
 
 ```csharp
 public void Accept(ImagePlacementAbsorber visitor)
@@ -62,14 +63,13 @@ public void Accept(ImagePlacementAbsorber visitor)
 
 ### See Also
 
-* class [ImagePlacementAbsorber](../../imageplacementabsorber/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Accept(TextAbsorber) {#accept_3}
+## Accept([TextAbsorber](../../../aspose.pdf.text/textabsorber/)) {#accept_3}
 
 Accepts [`TextAbsorber`](../../../aspose.pdf.text/textabsorber/) visitor object that provides functionality to work with text objects.
 
@@ -83,14 +83,13 @@ public void Accept(TextAbsorber visitor)
 
 ### See Also
 
-* class [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Accept(OcrTextAbsorber) {#accept_2}
+## Accept([OcrTextAbsorber](../../../aspose.pdf.ocr/ocrtextabsorber/)) {#accept_4}
 
 Accepts an [`OcrTextAbsorber`](../../../aspose.pdf.ocr/ocrtextabsorber/) that extracts plain text from this page using OCR.
 
@@ -106,13 +105,11 @@ public void Accept(OcrTextAbsorber visitor)
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | Thrown when *visitor* is `null`. |
+| ArgumentNullException | Thrown when is <see langword="null" />. |
 
 ### See Also
 
-* class [OcrTextAbsorber](../../../aspose.pdf.ocr/ocrtextabsorber/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

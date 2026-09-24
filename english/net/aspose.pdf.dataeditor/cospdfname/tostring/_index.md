@@ -1,27 +1,31 @@
 ---
-title: CosPdfName.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfName method. Returns a String that represents the current CosPdfName
+title: "CosPdfName.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET"
+description: "Returns a that represents the current ."
 type: docs
-weight: 60
-url: /net/aspose.pdf.dataeditor/cospdfname/tostring/
+weight: 30
+url: "/net/aspose.pdf.dataeditor/cospdfname/tostring/"
+product_version: "26.9.0"
 ---
-## CosPdfName.ToString method
+## ToString() {#tostring}
 
-Returns a String that represents the current [`CosPdfName`](../).
+Returns a `String` that represents the current [`CosPdfName`](../../../aspose.pdf.dataeditor/cospdfname/).
 
 ```csharp
-public override string ToString()
+public string ToString()
 ```
 
 ### Return Value
 
-A String that represents the current [`CosPdfName`](../).
+string
+
+A `String` that represents the current [`CosPdfName`](../../../aspose.pdf.dataeditor/cospdfname/).
 
 ### See Also
 
-* class [CosPdfName](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CosPdfName](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

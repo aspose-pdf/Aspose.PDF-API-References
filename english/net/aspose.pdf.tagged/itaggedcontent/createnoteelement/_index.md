@@ -1,12 +1,15 @@
 ---
-title: ITaggedContent.CreateNoteElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent method. Creates NoteElement
+title: "ITaggedContent.CreateNoteElement"
+linktitle: "CreateNoteElement"
+articleTitle: "CreateNoteElement"
+second_title: "Aspose.PDF for .NET"
+description: "Creates ."
 type: docs
-weight: 220
-url: /net/aspose.pdf.tagged/itaggedcontent/createnoteelement/
+weight: 300
+url: "/net/aspose.pdf.tagged/itaggedcontent/createnoteelement/"
+product_version: "26.9.0"
 ---
-## ITaggedContent.CreateNoteElement method
+## CreateNoteElement() {#createnoteelement}
 
 Creates [`NoteElement`](../../../aspose.pdf.logicalstructure/noteelement/).
 
@@ -16,13 +19,14 @@ public NoteElement CreateNoteElement()
 
 ### Return Value
 
+[NoteElement](../../../aspose.pdf.logicalstructure/noteelement/)
+
 Created structure element.
 
 ### See Also
 
-* class [NoteElement](../../../aspose.pdf.logicalstructure/noteelement/)
-* interface [ITaggedContent](../)
-* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* assembly [Aspose.PDF](../../../)
-
+* class [NoteElement](../../../aspose.pdf.logicalstructure/noteelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
 

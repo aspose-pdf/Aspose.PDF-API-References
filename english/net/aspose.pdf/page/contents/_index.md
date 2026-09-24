@@ -1,37 +1,31 @@
 ---
-title: Page.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: Page property. Gets collection of operators in the content stream of the page. OperatorCollection
+title: "Page.Contents"
+linktitle: "Contents"
+articleTitle: "Contents"
+second_title: "Aspose.PDF for .NET"
+description: "Gets collection of operators in the content stream of the page."
 type: docs
-weight: 90
-url: /net/aspose.pdf/page/contents/
+weight: 480
+url: "/net/aspose.pdf/page/contents/"
+product_version: "26.9.0"
 ---
 ## Page.Contents property
 
-Gets collection of operators in the content stream of the page. [`OperatorCollection`](../../operatorcollection/)
+Gets collection of operators in the content stream of the page.
+ [`OperatorCollection`](../../../aspose.pdf/operatorcollection/)
 
 ```csharp
 public OperatorCollection Contents { get; }
 ```
 
-## Examples
+### Property Value
 
-Example is demonstrates how to scan operators stream of page.
-
-```csharp
-Document document = new Document("sample.pdf");
-Operators contents = document.Pages[1].Contents;
-foreach(Operator op in contents)
-{
-    Console.WriteLine(op);
-}
-```
+[OperatorCollection](../../../aspose.pdf/operatorcollection/)
 
 ### See Also
 
-* class [OperatorCollection](../../operatorcollection/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OperatorCollection](../../../aspose.pdf/operatorcollection/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

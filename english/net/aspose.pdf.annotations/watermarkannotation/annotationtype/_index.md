@@ -1,24 +1,30 @@
 ---
-title: WatermarkAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: WatermarkAnnotation property. Gets annotation type
+title: "WatermarkAnnotation.AnnotationType"
+linktitle: "AnnotationType"
+articleTitle: "AnnotationType"
+second_title: "Aspose.PDF for .NET"
+description: "Gets annotation type."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/watermarkannotation/annotationtype/
+weight: 70
+url: "/net/aspose.pdf.annotations/watermarkannotation/annotationtype/"
+product_version: "26.9.0"
 ---
 ## WatermarkAnnotation.AnnotationType property
 
 Gets annotation type.
 
 ```csharp
-public override AnnotationType AnnotationType { get; }
+public AnnotationType AnnotationType { get; }
 ```
+
+### Property Value
+
+[AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 
 ### See Also
 
-* enum [AnnotationType](../../annotationtype/)
-* class [WatermarkAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [WatermarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

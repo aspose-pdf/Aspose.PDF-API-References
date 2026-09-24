@@ -1,33 +1,33 @@
 ---
-title: XmpPdfAExtensionProperty.XmpPdfAExtensionProperty
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionProperty constructor. Initializes new object
+title: "XmpPdfAExtensionProperty.XmpPdfAExtensionProperty"
+linktitle: "XmpPdfAExtensionProperty"
+articleTitle: "XmpPdfAExtensionProperty"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the XmpPdfAExtensionProperty class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/xmppdfaextensionproperty/xmppdfaextensionproperty/
+url: "/net/aspose.pdf/xmppdfaextensionproperty/xmppdfaextensionproperty/"
+product_version: "26.9.0"
 ---
-## XmpPdfAExtensionProperty constructor
+## XmpPdfAExtensionProperty(string, string, string, [XmpPdfAExtensionCategoryType](../../../aspose.pdf/xmppdfaextensioncategorytype/), string) {#constructor}
 
 Initializes new object.
 
 ```csharp
-public XmpPdfAExtensionProperty(string name, string value, string valueType, 
-    XmpPdfAExtensionCategoryType category, string description)
+public XmpPdfAExtensionProperty(string name, string value, string valueType, XmpPdfAExtensionCategoryType category, string description)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | The property name. |
-| value | String | The property value. |
-| valueType | String | The property value type. |
+| name | string | The property name. |
+| value | string | The property value. |
+| valueType | string | The property value type. |
 | category | XmpPdfAExtensionCategoryType | The property category. |
-| description | String | The property description. |
+| description | string | The property description. |
 
 ### See Also
 
-* enum [XmpPdfAExtensionCategoryType](../../xmppdfaextensioncategorytype/)
-* class [XmpPdfAExtensionProperty](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpPdfAExtensionProperty](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

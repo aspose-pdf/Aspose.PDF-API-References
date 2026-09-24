@@ -1,12 +1,15 @@
 ---
-title: PdfContentEditor.HideStampById
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Hides the stamp. After hiding stamp visibility may be restored with ShowStampById method
+title: "PdfContentEditor.HideStampById"
+linktitle: "HideStampById"
+articleTitle: "HideStampById"
+second_title: "Aspose.PDF for .NET"
+description: "Hides the stamp. After hiding, stamp visibility may be restored with ShowStampById method."
 type: docs
-weight: 400
-url: /net/aspose.pdf.facades/pdfcontenteditor/hidestampbyid/
+weight: 570
+url: "/net/aspose.pdf.facades/pdfcontenteditor/hidestampbyid/"
+product_version: "26.9.0"
 ---
-## PdfContentEditor.HideStampById method
+## HideStampById(int, int) {#hidestampbyid}
 
 Hides the stamp. After hiding, stamp visibility may be restored with ShowStampById method.
 
@@ -16,13 +19,12 @@ public void HideStampById(int pageNumber, int stampId)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | Int32 | Number of the page. |
-| stampId | Int32 | Identifier of stamp which should be hidden. |
+| pageNumber | int | Number of the page. |
+| stampId | int | Identifier of stamp which should be hidden. |
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

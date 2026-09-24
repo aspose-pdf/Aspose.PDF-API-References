@@ -1,10 +1,13 @@
 ---
-title: SubmitFormAction.Exclude
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction field. If clear the Fields array specifies which fields to include in the submission
+title: "SubmitFormAction.Exclude"
+linktitle: "Exclude"
+articleTitle: "Exclude"
+second_title: "Aspose.PDF for .NET"
+description: "If clear, the Fields array specifies which fields to include in the submission."
 type: docs
-weight: 80
-url: /net/aspose.pdf.annotations/submitformaction/exclude/
+weight: 40
+url: "/net/aspose.pdf.annotations/submitformaction/exclude/"
+product_version: "26.9.0"
 ---
 ## SubmitFormAction.Exclude field
 
@@ -16,8 +19,7 @@ public const int Exclude;
 
 ### See Also
 
-* class [SubmitFormAction](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

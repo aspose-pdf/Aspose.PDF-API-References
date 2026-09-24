@@ -1,10 +1,13 @@
 ---
-title: EncryptionParameters.UserKey
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptionParameters property. Gets the user key The U field of encryption dictionary
+title: "EncryptionParameters.UserKey"
+linktitle: "UserKey"
+articleTitle: "UserKey"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the user key (The \"U\" field of encryption dictionary.)"
 type: docs
-weight: 110
-url: /net/aspose.pdf.security/encryptionparameters/userkey/
+weight: 90
+url: "/net/aspose.pdf.security/encryptionparameters/userkey/"
+product_version: "26.9.0"
 ---
 ## EncryptionParameters.UserKey property
 
@@ -14,10 +17,13 @@ Gets the user key (The "U" field of encryption dictionary.)
 public byte[] UserKey { get; }
 ```
 
+### Property Value
+
+byte[]
+
 ### See Also
 
-* class [EncryptionParameters](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
-
+* class [EncryptionParameters](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 

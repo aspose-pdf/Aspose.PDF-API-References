@@ -1,10 +1,13 @@
 ---
-title: PaperSizes.JapaneseEnvelopeKakuNumber2
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. Japanese Kaku 2 envelope
+title: "PaperSizes.JapaneseEnvelopeKakuNumber2"
+linktitle: "JapaneseEnvelopeKakuNumber2"
+articleTitle: "JapaneseEnvelopeKakuNumber2"
+second_title: "Aspose.PDF for .NET"
+description: "Japanese Kaku #2 envelope."
 type: docs
-weight: 540
-url: /net/aspose.pdf.printing/papersizes/japaneseenvelopekakunumber2/
+weight: 690
+url: "/net/aspose.pdf.printing/papersizes/japaneseenvelopekakunumber2/"
+product_version: "26.9.0"
 ---
 ## PaperSizes.JapaneseEnvelopeKakuNumber2 field
 
@@ -16,9 +19,8 @@ public static readonly PaperSize JapaneseEnvelopeKakuNumber2;
 
 ### See Also
 
-* class [PaperSize](../../papersize/)
-* class [PaperSizes](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

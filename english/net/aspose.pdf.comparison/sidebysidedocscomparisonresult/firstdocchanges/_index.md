@@ -1,10 +1,13 @@
 ---
-title: SideBySideDocsComparisonResult.FirstDocChanges
-second_title: Aspose.PDF for .NET API Reference
-description: SideBySideDocsComparisonResult property. Get a list of changes to the pages of the first document
+title: "SideBySideDocsComparisonResult.FirstDocChanges"
+linktitle: "FirstDocChanges"
+articleTitle: "FirstDocChanges"
+second_title: "Aspose.PDF for .NET"
+description: "Get a list of changes to the pages of the first document."
 type: docs
-weight: 20
-url: /net/aspose.pdf.comparison/sidebysidedocscomparisonresult/firstdocchanges/
+weight: 30
+url: "/net/aspose.pdf.comparison/sidebysidedocscomparisonresult/firstdocchanges/"
+product_version: "26.9.0"
 ---
 ## SideBySideDocsComparisonResult.FirstDocChanges property
 
@@ -14,11 +17,13 @@ Get a list of changes to the pages of the first document.
 public List<List<EditContainer>> FirstDocChanges { get; }
 ```
 
+### Property Value
+
+[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[EditContainer](../../../aspose.pdf.comparison/editcontainer/)>>
+
 ### See Also
 
-* class [EditContainer](../../editcontainer/)
-* class [SideBySideDocsComparisonResult](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SideBySideDocsComparisonResult](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

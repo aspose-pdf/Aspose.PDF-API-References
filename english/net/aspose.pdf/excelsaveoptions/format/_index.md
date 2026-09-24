@@ -1,10 +1,13 @@
 ---
-title: ExcelSaveOptions.Format
-second_title: Aspose.PDF for .NET API Reference
-description: ExcelSaveOptions property. Output format
+title: "ExcelSaveOptions.Format"
+linktitle: "Format"
+articleTitle: "Format"
+second_title: "Aspose.PDF for .NET"
+description: "Output format"
 type: docs
-weight: 20
-url: /net/aspose.pdf/excelsaveoptions/format/
+weight: 50
+url: "/net/aspose.pdf/excelsaveoptions/format/"
+product_version: "26.9.0"
 ---
 ## ExcelSaveOptions.Format property
 
@@ -14,11 +17,13 @@ Output format
 public ExcelFormat Format { get; set; }
 ```
 
+### Property Value
+
+ExcelFormat
+
 ### See Also
 
-* enum [ExcelFormat](../../excelsaveoptions.excelformat/)
-* class [ExcelSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ExcelSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

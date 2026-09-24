@@ -1,10 +1,13 @@
 ---
-title: PdfAnnotationEditor.DeleteAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor method. Deletes all annotations in the document
+title: "PdfAnnotationEditor.DeleteAnnotations"
+linktitle: "DeleteAnnotations"
+articleTitle: "DeleteAnnotations"
+second_title: "Aspose.PDF for .NET"
+description: "Deletes all annotations in the document."
 type: docs
-weight: 30
-url: /net/aspose.pdf.facades/pdfannotationeditor/deleteannotations/
+weight: 190
+url: "/net/aspose.pdf.facades/pdfannotationeditor/deleteannotations/"
+product_version: "26.9.0"
 ---
 ## DeleteAnnotations() {#deleteannotations}
 
@@ -14,20 +17,11 @@ Deletes all annotations in the document.
 public void DeleteAnnotations()
 ```
 
-## Examples
-
-```csharp
-PdfAnnotationEditor editor = new PdfAnnotationEditor();
-editor.BindPdf("example.pdf");
-editor.DeleteAnnotations();
-editor.Save("example_out.pdf");
-```
-
 ### See Also
 
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,21 +35,11 @@ public void DeleteAnnotations(string annotType)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotType | String | The type of annotation will be deleted. |
-
-## Examples
-
-```csharp
-PdfAnnotationEditor editor = new PdfAnnotationEditor();
-editor.BindPdf("example.pdf");
-editor.DeleteAnnotations("Text");
-editor.Save("example_out.pdf");
-```
+| annotType | string | The type of annotation will be deleted. |
 
 ### See Also
 
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

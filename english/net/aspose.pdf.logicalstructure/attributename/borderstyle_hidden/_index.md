@@ -1,10 +1,13 @@
 ---
-title: AttributeName.BorderStyle_Hidden
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName field. Attribute BorderStyle Hidden  Same as None except in terms of border conflict resolution for table elements
+title: "AttributeName.BorderStyle_Hidden"
+linktitle: "BorderStyle_Hidden"
+articleTitle: "BorderStyle_Hidden"
+second_title: "Aspose.PDF for .NET"
+description: "Attribute BorderStyle: Hidden - Same as None, except in terms of border conflict resolution for table elements."
 type: docs
-weight: 90
-url: /net/aspose.pdf.logicalstructure/attributename/borderstyle_hidden/
+weight: 140
+url: "/net/aspose.pdf.logicalstructure/attributename/borderstyle_hidden/"
+product_version: "26.9.0"
 ---
 ## AttributeName.BorderStyle_Hidden field
 
@@ -16,8 +19,8 @@ public static readonly AttributeName BorderStyle_Hidden;
 
 ### See Also
 
-* class [AttributeName](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,31 +1,30 @@
 ---
-title: OutlineItemCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection property. Gets outline item from the collection using index
+title: "OutlineItemCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 120
-url: /net/aspose.pdf/outlineitemcollection/item/
+weight: 300
+url: "/net/aspose.pdf/outlineitemcollection/item/"
+product_version: "26.9.0"
 ---
-## OutlineItemCollection indexer
+## OutlineItemCollection.Item property
 
-Gets outline item from the collection using index.
+
 
 ```csharp
-public OutlineItemCollection this[int index] { get; }
+public OutlineItemCollection Item { get; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| index | Index within the collection. |
+### Property Value
 
-### Return Value
-
-OutlineItemCollection object.
+[OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
 
 ### See Also
 
-* class [OutlineItemCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

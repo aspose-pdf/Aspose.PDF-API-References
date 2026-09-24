@@ -1,27 +1,34 @@
 ---
-title: DocumentPrivilege.CopyAllowLevel
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege property. Gets and sets the copy level of documents privilege. Just as the Adobe Professionals permission settings. 0 None. 1 Enable text access for screen reader devices for the visually impaired. 2 Enable copying of text images and other content
+title: "DocumentPrivilege.CopyAllowLevel"
+linktitle: "CopyAllowLevel"
+articleTitle: "CopyAllowLevel"
+second_title: "Aspose.PDF for .NET"
+description: "Gets and sets the copy level of document's privilege. Just as the Adobe Professional's permission settings. 0: None. 1: Enable text access for screen reader ..."
 type: docs
-weight: 200
-url: /net/aspose.pdf.facades/documentprivilege/copyallowlevel/
+weight: 120
+url: "/net/aspose.pdf.facades/documentprivilege/copyallowlevel/"
+product_version: "26.9.0"
 ---
 ## DocumentPrivilege.CopyAllowLevel property
 
-Gets and sets the copy level of document's privilege. Just as the Adobe Professional's permission settings. 0: None. 1: Enable text access for screen reader devices for the visually impaired. 2: Enable copying of text, images and other content.
+Gets and sets the copy level of document's privilege. Just as the Adobe Professional's permission settings.
+ 0: None.
+ 1: Enable text access for screen reader devices for the visually impaired.
+ 2: Enable copying of text, images and other content.
+
+If the property has a value of -1, then the level is undefined.
 
 ```csharp
 public int CopyAllowLevel { get; set; }
 ```
 
-## Remarks
+### Property Value
 
-If the property has a value of -1, then the level is undefined.
+int
 
 ### See Also
 
-* class [DocumentPrivilege](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

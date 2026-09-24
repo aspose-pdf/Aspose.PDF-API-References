@@ -1,49 +1,33 @@
 ---
-title: TextAbsorber.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber property. Gets or sets text extraction options
+title: "TextAbsorber.ExtractionOptions"
+linktitle: "ExtractionOptions"
+articleTitle: "ExtractionOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets text extraction options."
 type: docs
-weight: 30
-url: /net/aspose.pdf.text/textabsorber/extractionoptions/
+weight: 110
+url: "/net/aspose.pdf.text/textabsorber/extractionoptions/"
+product_version: "26.9.0"
 ---
 ## TextAbsorber.ExtractionOptions property
 
 Gets or sets text extraction options.
 
-```csharp
-public virtual TextExtractionOptions ExtractionOptions { get; set; }
-```
-
-## Remarks
-
-Allows to define text formatting mode [`TextExtractionOptions`](../../textextractionoptions/) during extraction. The default mode is Pure
-
-## Examples
-
-The example demonstrates how to set Pure text formatting mode and perform text extraction.
+Allows to define text formatting mode [`TextExtractionOptions`](../../../aspose.pdf.text/textextractionoptions/) during extraction.
+ The default mode is `Pure`
 
 ```csharp
-// open document
-Document doc = new Document(inFile);
-
-// create TextAbsorber object to extract text with formatting
-TextAbsorber absorber = new TextAbsorber();
-
-// set pure text formatting mode
-absorber.ExtractionOptions = new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure);
-
-// accept the absorber for all document's pages
-doc.Pages.Accept(absorber);
-
-// get the extracted text
-string extractedText = absorber.Text;
+public TextExtractionOptions ExtractionOptions { get; set; }
 ```
+
+### Property Value
+
+[TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
 
 ### See Also
 
-* class [TextExtractionOptions](../../textextractionoptions/)
-* class [TextAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

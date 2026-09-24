@@ -1,10 +1,13 @@
 ---
-title: XYZExplicitDestination.Top
-second_title: Aspose.PDF for .NET API Reference
-description: XYZExplicitDestination property. Gets top vertical coordinate of the upperleft corner of the window
+title: "XYZExplicitDestination.Top"
+linktitle: "Top"
+articleTitle: "Top"
+second_title: "Aspose.PDF for .NET"
+description: "Gets top vertical coordinate of the upper-left corner of the window."
 type: docs
-weight: 50
-url: /net/aspose.pdf.annotations/xyzexplicitdestination/top/
+weight: 90
+url: "/net/aspose.pdf.annotations/xyzexplicitdestination/top/"
+product_version: "26.9.0"
 ---
 ## XYZExplicitDestination.Top property
 
@@ -14,10 +17,13 @@ Gets top vertical coordinate of the upper-left corner of the window.
 public double Top { get; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [XYZExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

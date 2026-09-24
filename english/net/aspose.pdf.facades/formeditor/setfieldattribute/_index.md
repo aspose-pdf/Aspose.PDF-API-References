@@ -1,12 +1,15 @@
 ---
-title: FormEditor.SetFieldAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Set attributes of field
+title: "FormEditor.SetFieldAttribute"
+linktitle: "SetFieldAttribute"
+articleTitle: "SetFieldAttribute"
+second_title: "Aspose.PDF for .NET"
+description: "Set attributes of field."
 type: docs
-weight: 290
-url: /net/aspose.pdf.facades/formeditor/setfieldattribute/
+weight: 80
+url: "/net/aspose.pdf.facades/formeditor/setfieldattribute/"
+product_version: "26.9.0"
 ---
-## FormEditor.SetFieldAttribute method
+## SetFieldAttribute(string, [PropertyFlag](../../../aspose.pdf.facades/propertyflag/)) {#setfieldattribute}
 
 Set attributes of field.
 
@@ -16,26 +19,18 @@ public bool SetFieldAttribute(string fieldName, PropertyFlag flag)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | String | Name of field which attributes should be set. |
+| fieldName | string | Name of field which attributes should be set. |
 | flag | PropertyFlag | Flag (NoExport/ReadOnly/Required) |
 
 ### Return Value
 
+bool
+
 true if attribute was set successfully.
-
-## Examples
-
-```csharp
-FormEditor formEditor = new FormEditor("PdfForm.pdf",  "PdfForm_SetFieldAttribute.pdf");
-formEditor.SetFieldAttribute("listboxField", PropertyFlag.ReadOnly);
-formEditor.SetFieldAttribute("textField", PropertyFlag.NoExport);
-```
 
 ### See Also
 
-* enum [PropertyFlag](../../propertyflag/)
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

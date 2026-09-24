@@ -1,10 +1,13 @@
 ---
-title: AttributeName.Scope_Column
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName field. Attribute Scope Column
+title: "AttributeName.Scope_Column"
+linktitle: "Scope_Column"
+articleTitle: "Scope_Column"
+second_title: "Aspose.PDF for .NET"
+description: "Attribute Scope: Column."
 type: docs
-weight: 530
-url: /net/aspose.pdf.logicalstructure/attributename/scope_column/
+weight: 690
+url: "/net/aspose.pdf.logicalstructure/attributename/scope_column/"
+product_version: "26.9.0"
 ---
 ## AttributeName.Scope_Column field
 
@@ -16,8 +19,8 @@ public static readonly AttributeName Scope_Column;
 
 ### See Also
 
-* class [AttributeName](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

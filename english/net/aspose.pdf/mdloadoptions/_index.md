@@ -1,10 +1,14 @@
 ---
-title: Class MdLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.MdLoadOptions class. Load options for Markdown format conversion
+title: "MdLoadOptions Class"
+linktitle: "MdLoadOptions"
+articleTitle: "MdLoadOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Load options for Markdown format conversion."
 type: docs
-weight: 8160
-url: /net/aspose.pdf/mdloadoptions/
+weight: 1890
+url: "/net/aspose.pdf/mdloadoptions/"
+keywords: "MdLoadOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## MdLoadOptions class
 
@@ -18,22 +22,21 @@ public class MdLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [MdLoadOptions](mdloadoptions/)() | The default constructor. |
+| [MdLoadOptions](./mdloadoptions/#constructor) | Initializes a new instance of the MdLoadOptions class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When `true`, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default `false`. |
-| [IsPriorityCssPageRule](../../aspose.pdf/mdloadoptions/isprioritycsspagerule/) { get; set; } | Gets or sets the flag that specifies that @page rules defined in css will override values defined in PageInfo. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../loadoptions/) describes. |
-| [PageInfo](../../aspose.pdf/mdloadoptions/pageinfo/) { get; set; } | Gets or sets document page info |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. *(Inherited from LoadOptions)* |
+| [IsPriorityCssPageRule](./isprioritycsspagerule/) { get; set; } | Gets or sets the flag that specifies that @page rules defined in css will override values defined in PageInfo. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../../aspose.pdf/loadoptions/) describes. *(Inherited from LoadOptions)* |
+| [PageInfo](./pageinfo/) { get; set; } | Gets or sets document page info. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. *(Inherited from LoadOptions)* |
 
 ### See Also
 
-* class [LoadOptions](../loadoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

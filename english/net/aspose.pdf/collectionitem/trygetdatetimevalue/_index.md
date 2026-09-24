@@ -1,22 +1,34 @@
 ---
-title: CollectionItem.TryGetDateTimeValue
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionItem method. 
+title: "CollectionItem.TryGetDateTimeValue"
+linktitle: "TryGetDateTimeValue"
+articleTitle: "TryGetDateTimeValue"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 40
-url: /net/aspose.pdf/collectionitem/trygetdatetimevalue/
+weight: 50
+url: "/net/aspose.pdf/collectionitem/trygetdatetimevalue/"
+product_version: "26.9.0"
 ---
-## CollectionItem.TryGetDateTimeValue method
+## TryGetDateTimeValue(string, Value<DateTime>) {#trygetdatetimevalue}
+
+
 
 ```csharp
-public bool TryGetDateTimeValue(string name, out Value<DateTime> value)
+public bool TryGetDateTimeValue(string name, Value<DateTime> value)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | string |  |
+| value | Value<DateTime> |  |
+
+### Return Value
+
+bool
 
 ### See Also
 
-* class [Value&lt;T&gt;](../../collectionitem.value-1/)
-* class [CollectionItem](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CollectionItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

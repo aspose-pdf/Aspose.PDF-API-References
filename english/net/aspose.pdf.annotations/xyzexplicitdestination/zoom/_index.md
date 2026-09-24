@@ -1,10 +1,13 @@
 ---
-title: XYZExplicitDestination.Zoom
-second_title: Aspose.PDF for .NET API Reference
-description: XYZExplicitDestination property. Gets zoom factor
+title: "XYZExplicitDestination.Zoom"
+linktitle: "Zoom"
+articleTitle: "Zoom"
+second_title: "Aspose.PDF for .NET"
+description: "Gets zoom factor."
 type: docs
-weight: 60
-url: /net/aspose.pdf.annotations/xyzexplicitdestination/zoom/
+weight: 100
+url: "/net/aspose.pdf.annotations/xyzexplicitdestination/zoom/"
+product_version: "26.9.0"
 ---
 ## XYZExplicitDestination.Zoom property
 
@@ -14,10 +17,13 @@ Gets zoom factor.
 public double Zoom { get; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [XYZExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

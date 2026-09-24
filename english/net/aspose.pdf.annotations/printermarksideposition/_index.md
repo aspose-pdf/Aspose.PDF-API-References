@@ -1,10 +1,13 @@
 ---
-title: Enum PrinterMarkSidePosition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PrinterMarkSidePosition enum. Represents a position of a registration mark on a page
+title: "PrinterMarkSidePosition Enum"
+linktitle: "PrinterMarkSidePosition"
+articleTitle: "PrinterMarkSidePosition"
+second_title: "Aspose.PDF for .NET"
+description: "Represents a position of a registration mark on a page."
 type: docs
-weight: 2460
-url: /net/aspose.pdf.annotations/printermarksideposition/
+weight: 990
+url: "/net/aspose.pdf.annotations/printermarksideposition/"
+product_version: "26.9.0"
 ---
 ## PrinterMarkSidePosition enumeration
 
@@ -14,10 +17,10 @@ Represents a position of a registration mark on a page.
 public enum PrinterMarkSidePosition
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Top | `0` | Position the mark in the top margin of the page. |
 | Bottom | `1` | Position the mark in the bottom margin of the page. |
 | Left | `2` | Position the mark in the left margin of the page. |
@@ -25,7 +28,6 @@ public enum PrinterMarkSidePosition
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

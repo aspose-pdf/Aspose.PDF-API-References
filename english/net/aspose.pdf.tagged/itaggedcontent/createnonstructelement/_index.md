@@ -1,12 +1,15 @@
 ---
-title: ITaggedContent.CreateNonStructElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent method. Creates NonStructElement
+title: "ITaggedContent.CreateNonStructElement"
+linktitle: "CreateNonStructElement"
+articleTitle: "CreateNonStructElement"
+second_title: "Aspose.PDF for .NET"
+description: "Creates ."
 type: docs
-weight: 210
-url: /net/aspose.pdf.tagged/itaggedcontent/createnonstructelement/
+weight: 120
+url: "/net/aspose.pdf.tagged/itaggedcontent/createnonstructelement/"
+product_version: "26.9.0"
 ---
-## ITaggedContent.CreateNonStructElement method
+## CreateNonStructElement() {#createnonstructelement}
 
 Creates [`NonStructElement`](../../../aspose.pdf.logicalstructure/nonstructelement/).
 
@@ -16,13 +19,14 @@ public NonStructElement CreateNonStructElement()
 
 ### Return Value
 
+[NonStructElement](../../../aspose.pdf.logicalstructure/nonstructelement/)
+
 Created structure element.
 
 ### See Also
 
-* class [NonStructElement](../../../aspose.pdf.logicalstructure/nonstructelement/)
-* interface [ITaggedContent](../)
-* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* assembly [Aspose.PDF](../../../)
-
+* class [NonStructElement](../../../aspose.pdf.logicalstructure/nonstructelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
 

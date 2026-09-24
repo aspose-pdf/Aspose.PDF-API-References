@@ -1,36 +1,38 @@
 ---
-title: Class Ofd
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.Ofd class. Represents the Ofd plugin
+title: "Ofd Class"
+linktitle: "Ofd"
+articleTitle: "Ofd"
+second_title: "Aspose.PDF for .NET"
+description: "Represents the plugin."
 type: docs
-weight: 7580
-url: /net/aspose.pdf.lowcode/ofd/
+weight: 530
+url: "/net/aspose.pdf.lowcode/ofd/"
+keywords: "Ofd, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## Ofd class
 
-Represents the `Ofd` plugin.
+Represents the [`Ofd`](../../aspose.pdf.lowcode/ofd/) plugin.
 
 ```csharp
-public sealed class Ofd : IDisposable, IPlugin
+public sealed class Ofd : IPlugin, IDisposable
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [Ofd](ofd/)() | The default constructor. |
+| [Ofd](./ofd/#constructor) | Initializes a new instance of the Ofd class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.pdf.lowcode/ofd/dispose/)() | Implementation of IDisposable. |
-| [Process](../../aspose.pdf.lowcode/ofd/process/)(IPluginOptions) | Starts the `Ofd` processing with the specified parameters. |
+| [Dispose](./dispose/) | Implementation of IDisposable. |
+| [Process](./process/)(*IPluginOptions*) | Starts the [`Ofd`](../../aspose.pdf.lowcode/ofd/) processing with the specified parameters. |
 
 ### See Also
 
-* interface [IPlugin](../iplugin/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

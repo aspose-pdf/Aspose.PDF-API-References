@@ -1,10 +1,13 @@
 ---
-title: WidgetAnnotation.Highlighting
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation property. Annotation highlighting mode
+title: "WidgetAnnotation.Highlighting"
+linktitle: "Highlighting"
+articleTitle: "Highlighting"
+second_title: "Aspose.PDF for .NET"
+description: "Annotation highlighting mode."
 type: docs
-weight: 60
-url: /net/aspose.pdf.annotations/widgetannotation/highlighting/
+weight: 80
+url: "/net/aspose.pdf.annotations/widgetannotation/highlighting/"
+product_version: "26.9.0"
 ---
 ## WidgetAnnotation.Highlighting property
 
@@ -14,11 +17,14 @@ Annotation highlighting mode.
 public HighlightingMode Highlighting { get; set; }
 ```
 
+### Property Value
+
+[HighlightingMode](../../../aspose.pdf.annotations/highlightingmode/)
+
 ### See Also
 
-* enum [HighlightingMode](../../highlightingmode/)
-* class [WidgetAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HighlightingMode](../../../aspose.pdf.annotations/highlightingmode/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

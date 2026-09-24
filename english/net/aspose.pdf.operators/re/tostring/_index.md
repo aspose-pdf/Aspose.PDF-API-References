@@ -1,27 +1,31 @@
 ---
-title: Re.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Re method. Returns text representation of the operator
+title: "Re.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET"
+description: "Returns text representation of the operator."
 type: docs
-weight: 70
-url: /net/aspose.pdf.operators/re/tostring/
+weight: 40
+url: "/net/aspose.pdf.operators/re/tostring/"
+product_version: "26.9.0"
 ---
-## Re.ToString method
+## ToString() {#tostring}
 
 Returns text representation of the operator.
 
 ```csharp
-public override string ToString()
+public string ToString()
 ```
 
 ### Return Value
+
+string
 
 Text representation of the operator.
 
 ### See Also
 
-* class [Re](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

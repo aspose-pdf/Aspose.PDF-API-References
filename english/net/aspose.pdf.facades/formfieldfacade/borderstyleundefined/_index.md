@@ -1,10 +1,13 @@
 ---
-title: FormFieldFacade.BorderStyleUndefined
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade field. Undefined border style
+title: "FormFieldFacade.BorderStyleUndefined"
+linktitle: "BorderStyleUndefined"
+articleTitle: "BorderStyleUndefined"
+second_title: "Aspose.PDF for .NET"
+description: "Undefined border style."
 type: docs
-weight: 330
-url: /net/aspose.pdf.facades/formfieldfacade/borderstyleundefined/
+weight: 320
+url: "/net/aspose.pdf.facades/formfieldfacade/borderstyleundefined/"
+product_version: "26.9.0"
 ---
 ## FormFieldFacade.BorderStyleUndefined field
 
@@ -16,8 +19,7 @@ public const int BorderStyleUndefined;
 
 ### See Also
 
-* class [FormFieldFacade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

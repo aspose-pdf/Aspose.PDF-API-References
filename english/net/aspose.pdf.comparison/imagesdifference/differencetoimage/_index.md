@@ -1,12 +1,15 @@
 ---
-title: ImagesDifference.DifferenceToImage
-second_title: Aspose.PDF for .NET API Reference
-description: ImagesDifference method. Converts the difference array to a bitmap image using the specified colors
+title: "ImagesDifference.DifferenceToImage"
+linktitle: "DifferenceToImage"
+articleTitle: "DifferenceToImage"
+second_title: "Aspose.PDF for .NET"
+description: "Converts the difference array to a bitmap image using the specified colors."
 type: docs
-weight: 50
-url: /net/aspose.pdf.comparison/imagesdifference/differencetoimage/
+weight: 20
+url: "/net/aspose.pdf.comparison/imagesdifference/differencetoimage/"
+product_version: "26.9.0"
 ---
-## ImagesDifference.DifferenceToImage method
+## DifferenceToImage([Color](../../../aspose.pdf/color/), [Color](../../../aspose.pdf/color/)) {#differencetoimage}
 
 Converts the difference array to a bitmap image using the specified colors.
 
@@ -21,13 +24,13 @@ public Bitmap DifferenceToImage(Color color, Color backgroundColor)
 
 ### Return Value
 
+Bitmap
+
 A bitmap image representing the difference array.
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
-* class [ImagesDifference](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImagesDifference](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: UnderlineAnnotation.UnderlineAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: UnderlineAnnotation constructor. Creates new Underline annotation on the specified page
+title: "UnderlineAnnotation.UnderlineAnnotation"
+linktitle: "UnderlineAnnotation"
+articleTitle: "UnderlineAnnotation"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the UnderlineAnnotation class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/underlineannotation/underlineannotation/
+url: "/net/aspose.pdf.annotations/underlineannotation/underlineannotation/"
+product_version: "26.9.0"
 ---
-## UnderlineAnnotation constructor
+## UnderlineAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
 
 Creates new Underline annotation on the specified page.
 
@@ -21,10 +24,7 @@ public UnderlineAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [UnderlineAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [UnderlineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

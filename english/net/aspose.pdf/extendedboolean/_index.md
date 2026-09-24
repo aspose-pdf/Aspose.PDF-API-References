@@ -1,10 +1,13 @@
 ---
-title: Enum ExtendedBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ExtendedBoolean enum. Represents boolean type that supports Undefined value
+title: "ExtendedBoolean Enum"
+linktitle: "ExtendedBoolean"
+articleTitle: "ExtendedBoolean"
+second_title: "Aspose.PDF for .NET"
+description: "Represents boolean type that supports Undefined value."
 type: docs
-weight: 4280
-url: /net/aspose.pdf/extendedboolean/
+weight: 830
+url: "/net/aspose.pdf/extendedboolean/"
+product_version: "26.9.0"
 ---
 ## ExtendedBoolean enumeration
 
@@ -14,17 +17,16 @@ Represents boolean type that supports Undefined value.
 public enum ExtendedBoolean
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Undefined | `0` | Undefined value value of ExtendnedBoolean. |
 | False | `1` | False value of ExtendnedBoolean. |
 | True | `2` | True value of ExtendnedBoolean. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

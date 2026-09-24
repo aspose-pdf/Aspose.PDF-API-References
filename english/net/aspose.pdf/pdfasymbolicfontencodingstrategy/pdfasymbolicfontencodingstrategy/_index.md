@@ -1,10 +1,13 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.PdfASymbolicFontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: PdfASymbolicFontEncodingStrategy constructor. Constructor. Sets default subtable mac 10
+title: "PdfASymbolicFontEncodingStrategy.PdfASymbolicFontEncodingStrategy"
+linktitle: "PdfASymbolicFontEncodingStrategy"
+articleTitle: "PdfASymbolicFontEncodingStrategy"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the PdfASymbolicFontEncodingStrategy class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/pdfasymbolicfontencodingstrategy/pdfasymbolicfontencodingstrategy/
+url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy/pdfasymbolicfontencodingstrategy/"
+product_version: "26.9.0"
 ---
 ## PdfASymbolicFontEncodingStrategy() {#constructor}
 
@@ -16,15 +19,15 @@ public PdfASymbolicFontEncodingStrategy()
 
 ### See Also
 
-* class [PdfASymbolicFontEncodingStrategy](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfASymbolicFontEncodingStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfASymbolicFontEncodingStrategy(Queue&lt;QueueItem&gt;) {#constructor_2}
+## PdfASymbolicFontEncodingStrategy(Queue<QueueItem>) {#constructor_1}
 
-Constructor
+Initializes a new instance of the PdfASymbolicFontEncodingStrategy class.
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy(Queue<QueueItem> priorityQueue)
@@ -32,20 +35,19 @@ public PdfASymbolicFontEncodingStrategy(Queue<QueueItem> priorityQueue)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| priorityQueue | Queue`1 | queue of encoding subtables to iterate |
+| priorityQueue | Queue<QueueItem> |  |
 
 ### See Also
 
-* class [QueueItem](../../pdfasymbolicfontencodingstrategy.queueitem/)
-* class [PdfASymbolicFontEncodingStrategy](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfASymbolicFontEncodingStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfASymbolicFontEncodingStrategy(CMapEncodingTableType) {#constructor_1}
+## PdfASymbolicFontEncodingStrategy(CMapEncodingTableType) {#constructor_2}
 
-Constructor
+Initializes a new instance of the PdfASymbolicFontEncodingStrategy class.
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy(CMapEncodingTableType preferredEncodingTable)
@@ -53,13 +55,11 @@ public PdfASymbolicFontEncodingStrategy(CMapEncodingTableType preferredEncodingT
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| preferredEncodingTable | CMapEncodingTableType | encoding subtable which will be used in precedence to mac subtable(1,0) |
+| preferredEncodingTable | CMapEncodingTableType |  |
 
 ### See Also
 
-* enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
-* class [PdfASymbolicFontEncodingStrategy](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfASymbolicFontEncodingStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

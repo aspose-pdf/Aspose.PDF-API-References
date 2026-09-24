@@ -1,10 +1,13 @@
 ---
-title: Rectangle.URY
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle property. Y  coordinate of upperright corner
+title: "Rectangle.URY"
+linktitle: "URY"
+articleTitle: "URY"
+second_title: "Aspose.PDF for .NET"
+description: "Y - coordinate of upper-right corner."
 type: docs
-weight: 130
-url: /net/aspose.pdf/rectangle/ury/
+weight: 260
+url: "/net/aspose.pdf/rectangle/ury/"
+product_version: "26.9.0"
 ---
 ## Rectangle.URY property
 
@@ -14,10 +17,13 @@ Y - coordinate of upper-right corner.
 public double URY { get; set; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

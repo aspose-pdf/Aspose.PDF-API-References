@@ -1,10 +1,13 @@
 ---
-title: ViewerPreference.DuplexFlipShortEdge
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference field. Duplex and flip on the short edge of the sheet
+title: "ViewerPreference.DuplexFlipShortEdge"
+linktitle: "DuplexFlipShortEdge"
+articleTitle: "DuplexFlipShortEdge"
+second_title: "Aspose.PDF for .NET"
+description: "Duplex and flip on the short edge of the sheet."
 type: docs
-weight: 70
-url: /net/aspose.pdf.facades/viewerpreference/duplexflipshortedge/
+weight: 250
+url: "/net/aspose.pdf.facades/viewerpreference/duplexflipshortedge/"
+product_version: "26.9.0"
 ---
 ## ViewerPreference.DuplexFlipShortEdge field
 
@@ -16,8 +19,7 @@ public const int DuplexFlipShortEdge;
 
 ### See Also
 
-* class [ViewerPreference](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

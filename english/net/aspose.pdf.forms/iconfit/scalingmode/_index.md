@@ -1,10 +1,13 @@
 ---
-title: IconFit.ScalingMode
-second_title: Aspose.PDF for .NET API Reference
-description: IconFit property. The type of scaling that shall be used. ///
+title: "IconFit.ScalingMode"
+linktitle: "ScalingMode"
+articleTitle: "ScalingMode"
+second_title: "Aspose.PDF for .NET"
+description: "The type of scaling that shall be used. ///"
 type: docs
-weight: 30
-url: /net/aspose.pdf.forms/iconfit/scalingmode/
+weight: 60
+url: "/net/aspose.pdf.forms/iconfit/scalingmode/"
+product_version: "26.9.0"
 ---
 ## IconFit.ScalingMode property
 
@@ -14,11 +17,14 @@ The type of scaling that shall be used. ///
 public ScalingMode ScalingMode { get; set; }
 ```
 
+### Property Value
+
+[ScalingMode](../../../aspose.pdf.forms/scalingmode/)
+
 ### See Also
 
-* enum [ScalingMode](../../scalingmode/)
-* class [IconFit](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ScalingMode](../../../aspose.pdf.forms/scalingmode/)
+* class [IconFit](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

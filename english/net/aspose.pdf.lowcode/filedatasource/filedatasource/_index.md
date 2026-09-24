@@ -1,12 +1,15 @@
 ---
-title: FileDataSource.FileDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: FileDataSource constructor. Initializes new file data source with the specified path
+title: "FileDataSource.FileDataSource"
+linktitle: "FileDataSource"
+articleTitle: "FileDataSource"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the FileDataSource class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/filedatasource/filedatasource/
+url: "/net/aspose.pdf.lowcode/filedatasource/filedatasource/"
+product_version: "26.9.0"
 ---
-## FileDataSource constructor
+## FileDataSource(string) {#constructor}
 
 Initializes new file data source with the specified path.
 
@@ -16,12 +19,11 @@ public FileDataSource(string path)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| path | String | A string representing the path to the source file. |
+| path | string | A string representing the path to the source file. |
 
 ### See Also
 
-* class [FileDataSource](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileDataSource](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

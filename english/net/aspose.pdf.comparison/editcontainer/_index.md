@@ -1,10 +1,14 @@
 ---
-title: Class EditContainer
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.EditContainer class. Represents a change container class
+title: "EditContainer Class"
+linktitle: "EditContainer"
+articleTitle: "EditContainer"
+second_title: "Aspose.PDF for .NET"
+description: "Represents a change container class."
 type: docs
-weight: 3290
-url: /net/aspose.pdf.comparison/editcontainer/
+weight: 60
+url: "/net/aspose.pdf.comparison/editcontainer/"
+keywords: "EditContainer, Aspose.Pdf.Comparison, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## EditContainer class
 
@@ -18,13 +22,12 @@ public class EditContainer
 
 | Name | Description |
 | --- | --- |
-| [Id](../../aspose.pdf.comparison/editcontainer/id/) { get; } | Gets and sets id of the change. |
-| [Operation](../../aspose.pdf.comparison/editcontainer/operation/) { get; } | The diff operation type. |
-| [Rects](../../aspose.pdf.comparison/editcontainer/rects/) { get; } | The rectangle areas of the change. |
+| [Id](./id/) { get; } | Gets and sets id of the change. |
+| [Operation](./operation/) { get; } | The diff operation type. |
+| [Rects](./rects/) { get; } | The rectangle areas of the change. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
 

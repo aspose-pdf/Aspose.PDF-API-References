@@ -1,10 +1,13 @@
 ---
-title: ImageUrl.Url
-second_title: Aspose.PDF for .NET API Reference
-description: ImageUrl property. Gets or sets the external URL of the image must be a supported image types jpeg jpg png gif webp
+title: "ImageUrl.Url"
+linktitle: "Url"
+articleTitle: "Url"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the external URL of the image, must be a supported image types: jpeg, jpg, png, gif, webp."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/imageurl/url/
+weight: 20
+url: "/net/aspose.pdf.ai/imageurl/url/"
+product_version: "26.9.0"
 ---
 ## ImageUrl.Url property
 
@@ -14,10 +17,13 @@ Gets or sets the external URL of the image, must be a supported image types: jpe
 public string Url { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [ImageUrl](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImageUrl](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,29 +1,30 @@
 ---
-title: FontCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection method. Adds new font to font resources and returns automatically assigned name of font resource
+title: "FontCollection.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 60
-url: /net/aspose.pdf.text/fontcollection/add/
+weight: 30
+url: "/net/aspose.pdf.text/fontcollection/add/"
+product_version: "26.9.0"
 ---
-## FontCollection.Add method
+## Add([Font](../../../aspose.pdf.text/font/), string) {#add}
 
-Adds new font to font resources and returns automatically assigned name of font resource.
+
 
 ```csharp
-public void Add(Font newFont, out string resName)
+public void Add(Font newFont, string resName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newFont | Font | Font object. |
-| resName | String& | The automatically assigned resource item name. |
+| newFont | Font |  |
+| resName | string |  |
 
 ### See Also
 
-* class [Font](../../font/)
-* class [FontCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

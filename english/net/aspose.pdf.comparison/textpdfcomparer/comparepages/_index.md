@@ -1,17 +1,20 @@
 ---
-title: TextPdfComparer.ComparePages
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer method. Compares document pages
+title: "TextPdfComparer.ComparePages"
+linktitle: "ComparePages"
+articleTitle: "ComparePages"
+second_title: "Aspose.PDF for .NET"
+description: "Compares document pages."
 type: docs
 weight: 60
-url: /net/aspose.pdf.comparison/textpdfcomparer/comparepages/
+url: "/net/aspose.pdf.comparison/textpdfcomparer/comparepages/"
+product_version: "26.9.0"
 ---
-## TextPdfComparer.ComparePages method
+## ComparePages([Page](../../../aspose.pdf/page/), [Page](../../../aspose.pdf/page/), [ComparisonOptions](../../../aspose.pdf.comparison/comparisonoptions/)) {#comparepages}
 
 Compares document pages.
 
 ```csharp
-public static List<DiffOperation> ComparePages(Page page1, Page page2, ComparisonOptions options)
+public List<DiffOperation> ComparePages(Page page1, Page page2, ComparisonOptions options)
 ```
 
 | Parameter | Type | Description |
@@ -22,15 +25,13 @@ public static List<DiffOperation> ComparePages(Page page1, Page page2, Compariso
 
 ### Return Value
 
+[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[DiffOperation](../../../aspose.pdf.comparison/diffoperation/)>
+
 The list of changes.
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [Page](../../../aspose.pdf/page/)
-* class [ComparisonOptions](../../comparisonoptions/)
-* class [TextPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PaginationArtifact.Subset
-second_title: Aspose.PDF for .NET API Reference
-description: PaginationArtifact property. Gets or sets the subset of pages to which the artifact applies e.g. all pages even pages odd pages
+title: "PaginationArtifact.Subset"
+linktitle: "Subset"
+articleTitle: "Subset"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the subset of pages to which the artifact applies (e.g., all pages, even pages, odd pages)."
 type: docs
 weight: 30
-url: /net/aspose.pdf/paginationartifact/subset/
+url: "/net/aspose.pdf/paginationartifact/subset/"
+product_version: "26.9.0"
 ---
 ## PaginationArtifact.Subset property
 
@@ -14,11 +17,14 @@ Gets or sets the subset of pages to which the artifact applies (e.g., all pages,
 public Subset Subset { get; set; }
 ```
 
+### Property Value
+
+[Subset](../../../aspose.pdf/subset/)
+
 ### See Also
 
-* enum [Subset](../../subset/)
-* class [PaginationArtifact](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Subset](../../../aspose.pdf/subset/)
+* class [PaginationArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

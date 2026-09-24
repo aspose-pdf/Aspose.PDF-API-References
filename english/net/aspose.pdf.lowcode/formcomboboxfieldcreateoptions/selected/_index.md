@@ -1,23 +1,29 @@
 ---
-title: FormComboBoxFieldCreateOptions.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: FormComboBoxFieldCreateOptions property. Gets/sets the value to determine property Selected for created ComboBoxField if will be set
+title: "FormComboBoxFieldCreateOptions.Selected"
+linktitle: "Selected"
+articleTitle: "Selected"
+second_title: "Aspose.PDF for .NET"
+description: "Gets/sets the value to determine property Selected for created ComboBoxField (if will be set)."
 type: docs
 weight: 40
-url: /net/aspose.pdf.lowcode/formcomboboxfieldcreateoptions/selected/
+url: "/net/aspose.pdf.lowcode/formcomboboxfieldcreateoptions/selected/"
+product_version: "26.9.0"
 ---
 ## FormComboBoxFieldCreateOptions.Selected property
 
 Gets/sets the value to determine property Selected for created ComboBoxField (if will be set).
 
 ```csharp
-public int? Selected { get; set; }
+public Nullable<int> Selected { get; set; }
 ```
+
+### Property Value
+
+Nullable<int>
 
 ### See Also
 
-* class [FormComboBoxFieldCreateOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormComboBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

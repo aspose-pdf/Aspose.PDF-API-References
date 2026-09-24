@@ -1,14 +1,19 @@
 ---
-title: Class FormJsonImportSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.FormJsonImportSource class. Holds a pair of data sources that belong together for an import operation the source PDF document and the JSON file that contains the field values
+title: "FormJsonImportSource Class"
+linktitle: "FormJsonImportSource"
+articleTitle: "FormJsonImportSource"
+second_title: "Aspose.PDF for .NET"
+description: "Holds a pair of data sources that belong together for an import operation: the source PDF document and the JSON file that contains the field values."
 type: docs
-weight: 7380
-url: /net/aspose.pdf.lowcode/formjsonimportsource/
+weight: 330
+url: "/net/aspose.pdf.lowcode/formjsonimportsource/"
+keywords: "FormJsonImportSource, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## FormJsonImportSource class
 
-Holds a pair of data sources that belong together for an import operation: the source PDF document and the JSON file that contains the field values.
+Holds a pair of data sources that belong together for an import operation:
+ the source PDF document and the JSON file that contains the field values.
 
 ```csharp
 public sealed class FormJsonImportSource
@@ -18,18 +23,17 @@ public sealed class FormJsonImportSource
 
 | Name | Description |
 | --- | --- |
-| [FormJsonImportSource](formjsonimportsource/)(IDataSource, IDataSource) | Initializes a new instance of the `FormJsonImportSource` class. |
+| [FormJsonImportSource](./formjsonimportsource/#constructor)(*[IDataSource](../../aspose.pdf.lowcode/idatasource/), [IDataSource](../../aspose.pdf.lowcode/idatasource/)*) | Initializes a new instance of the [`FormJsonImportSource`](../../aspose.pdf.lowcode/formjsonimportsource/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [JsonSource](../../aspose.pdf.lowcode/formjsonimportsource/jsonsource/) { get; } | Gets the data source that contains the JSON with field values. |
-| [PdfSource](../../aspose.pdf.lowcode/formjsonimportsource/pdfsource/) { get; } | Gets the data source that contains the source PDF. |
+| [JsonSource](./jsonsource/) { get; } | Gets the data source that contains the JSON with field values. |
+| [PdfSource](./pdfsource/) { get; } | Gets the data source that contains the source PDF. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

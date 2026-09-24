@@ -1,12 +1,15 @@
 ---
-title: Form.IsRequiredField
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Determines whether field is required or not
+title: "Form.IsRequiredField"
+linktitle: "IsRequiredField"
+articleTitle: "IsRequiredField"
+second_title: "Aspose.PDF for .NET"
+description: "Determines whether field is required or not."
 type: docs
-weight: 320
-url: /net/aspose.pdf.facades/form/isrequiredfield/
+weight: 450
+url: "/net/aspose.pdf.facades/form/isrequiredfield/"
+product_version: "26.9.0"
 ---
-## Form.IsRequiredField method
+## IsRequiredField(string) {#isrequiredfield}
 
 Determines whether field is required or not.
 
@@ -16,16 +19,17 @@ public bool IsRequiredField(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | String | The name of field. |
+| fieldName | string | The name of field. |
 
 ### Return Value
+
+bool
 
 True - the field is required; otherwise, false.
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

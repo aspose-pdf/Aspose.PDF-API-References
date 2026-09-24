@@ -1,23 +1,30 @@
 ---
-title: TextReplaceOptions.LeftAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: TextReplaceOptions property. Sets or gets left position adjustment for replaced text when using TextReplaceOptions  ReplaceAdjustmentAction  IsFormFillingMode
+title: "TextReplaceOptions.LeftAdjustment"
+linktitle: "LeftAdjustment"
+articleTitle: "LeftAdjustment"
+second_title: "Aspose.PDF for .NET"
+description: "Sets or gets left position adjustment for replaced text when using TextReplaceOptions: - ReplaceAdjustmentAction = IsFormFillingMode;"
 type: docs
-weight: 50
-url: /net/aspose.pdf.text/textreplaceoptions/leftadjustment/
+weight: 70
+url: "/net/aspose.pdf.text/textreplaceoptions/leftadjustment/"
+product_version: "26.9.0"
 ---
 ## TextReplaceOptions.LeftAdjustment property
 
-Sets or gets left position adjustment for replaced text when using TextReplaceOptions: - ReplaceAdjustmentAction = IsFormFillingMode;
+Sets or gets left position adjustment for replaced text when using TextReplaceOptions:
+ - ReplaceAdjustmentAction = IsFormFillingMode;
 
 ```csharp
 public double LeftAdjustment { get; set; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [TextReplaceOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextReplaceOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

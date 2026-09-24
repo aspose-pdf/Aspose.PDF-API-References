@@ -1,12 +1,15 @@
 ---
-title: LlamaSummaryCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions method. Sets the instructions for the summary copilot options
+title: "LlamaSummaryCopilotOptions.WithInstructions"
+linktitle: "WithInstructions"
+articleTitle: "WithInstructions"
+second_title: "Aspose.PDF for .NET"
+description: "Sets the instructions for the summary copilot options."
 type: docs
-weight: 60
-url: /net/aspose.pdf.ai/llamasummarycopilotoptions/withinstructions/
+weight: 80
+url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/withinstructions/"
+product_version: "26.9.0"
 ---
-## LlamaSummaryCopilotOptions.WithInstructions method
+## WithInstructions(string) {#withinstructions}
 
 Sets the instructions for the summary copilot options.
 
@@ -16,16 +19,18 @@ public LlamaSummaryCopilotOptions WithInstructions(string instructions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| instructions | String | The instructions to set. |
+| instructions | string | The instructions to set. |
 
 ### Return Value
 
-The current instance of [`LlamaSummaryCopilotOptions`](../).
+[LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
+
+The current instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
 
 ### See Also
 
-* class [LlamaSummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

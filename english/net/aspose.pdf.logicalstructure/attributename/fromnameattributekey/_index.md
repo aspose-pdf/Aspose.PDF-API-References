@@ -1,33 +1,37 @@
 ---
-title: AttributeName.FromNameAttributeKey
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName method. Gets attribute name for attribute key
+title: "AttributeName.FromNameAttributeKey"
+linktitle: "FromNameAttributeKey"
+articleTitle: "FromNameAttributeKey"
+second_title: "Aspose.PDF for .NET"
+description: "Gets attribute name for attribute key."
 type: docs
-weight: 670
-url: /net/aspose.pdf.logicalstructure/attributename/fromnameattributekey/
+weight: 10
+url: "/net/aspose.pdf.logicalstructure/attributename/fromnameattributekey/"
+product_version: "26.9.0"
 ---
-## AttributeName.FromNameAttributeKey method
+## FromNameAttributeKey(string, [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)) {#fromnameattributekey}
 
 Gets attribute name for attribute key.
 
 ```csharp
-public static AttributeName FromNameAttributeKey(string name, AttributeKey attributeKey)
+public AttributeName FromNameAttributeKey(string name, AttributeKey attributeKey)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | Attribute name |
+| name | string | Attribute name |
 | attributeKey | AttributeKey | Attribute key |
 
 ### Return Value
+
+[AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
 
 Attribute name
 
 ### See Also
 
-* class [AttributeKey](../../attributekey/)
-* class [AttributeName](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

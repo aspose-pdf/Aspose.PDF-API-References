@@ -1,10 +1,13 @@
 ---
-title: StructureElement.AlternativeText
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement property. Gets or sets the alternative text for structure element
+title: "StructureElement.AlternativeText"
+linktitle: "AlternativeText"
+articleTitle: "AlternativeText"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the alternative text for structure element."
 type: docs
-weight: 20
-url: /net/aspose.pdf.logicalstructure/structureelement/alternativetext/
+weight: 200
+url: "/net/aspose.pdf.logicalstructure/structureelement/alternativetext/"
+product_version: "26.9.0"
 ---
 ## StructureElement.AlternativeText property
 
@@ -16,12 +19,11 @@ public string AlternativeText { get; set; }
 
 ### Property Value
 
-Alternative text of the structure element.
+string
 
 ### See Also
 
-* class [StructureElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

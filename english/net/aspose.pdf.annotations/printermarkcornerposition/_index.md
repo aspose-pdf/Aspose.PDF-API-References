@@ -1,10 +1,13 @@
 ---
-title: Enum PrinterMarkCornerPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PrinterMarkCornerPosition enum. Represents a position of a mark in a corner of a page
+title: "PrinterMarkCornerPosition Enum"
+linktitle: "PrinterMarkCornerPosition"
+articleTitle: "PrinterMarkCornerPosition"
+second_title: "Aspose.PDF for .NET"
+description: "Represents a position of a mark in a corner of a page."
 type: docs
-weight: 2450
-url: /net/aspose.pdf.annotations/printermarkcornerposition/
+weight: 980
+url: "/net/aspose.pdf.annotations/printermarkcornerposition/"
+product_version: "26.9.0"
 ---
 ## PrinterMarkCornerPosition enumeration
 
@@ -14,10 +17,10 @@ Represents a position of a mark in a corner of a page.
 public enum PrinterMarkCornerPosition
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | TopLeft | `0` | Position the mark in the top left corner. |
 | TopRight | `1` | Position the mark in the top right corner. |
 | BottomLeft | `2` | Position the mark in the bottom left corner. |
@@ -25,7 +28,6 @@ public enum PrinterMarkCornerPosition
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

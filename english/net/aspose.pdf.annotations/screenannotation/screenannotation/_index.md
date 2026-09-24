@@ -1,12 +1,15 @@
 ---
-title: ScreenAnnotation.ScreenAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: ScreenAnnotation constructor. Creates new Screen annotation on the specified page
+title: "ScreenAnnotation.ScreenAnnotation"
+linktitle: "ScreenAnnotation"
+articleTitle: "ScreenAnnotation"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the ScreenAnnotation class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/screenannotation/screenannotation/
+url: "/net/aspose.pdf.annotations/screenannotation/screenannotation/"
+product_version: "26.9.0"
 ---
-## ScreenAnnotation constructor
+## ScreenAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), string) {#constructor}
 
 Creates new Screen annotation on the specified page.
 
@@ -18,14 +21,11 @@ public ScreenAnnotation(Page page, Rectangle rect, string mediaFile)
 | --- | --- | --- |
 | page | Page | The document's page where annotation should be created. |
 | rect | Rectangle | The annotation rectangle, defining the location of the annotation on the page. |
-| mediaFile | String | The path to multimedia file. |
+| mediaFile | string | The path to multimedia file. |
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [ScreenAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ScreenAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

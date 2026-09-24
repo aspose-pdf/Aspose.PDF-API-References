@@ -1,10 +1,13 @@
 ---
-title: PDF3DRenderMode.ShadedWireframe
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode field. The ShadedWireFrame render mode
+title: "PDF3DRenderMode.ShadedWireframe"
+linktitle: "ShadedWireframe"
+articleTitle: "ShadedWireframe"
+second_title: "Aspose.PDF for .NET"
+description: "The \"ShadedWireFrame\" render mode."
 type: docs
-weight: 60
-url: /net/aspose.pdf.annotations/pdf3drendermode/shadedwireframe/
+weight: 200
+url: "/net/aspose.pdf.annotations/pdf3drendermode/shadedwireframe/"
+product_version: "26.9.0"
 ---
 ## PDF3DRenderMode.ShadedWireframe field
 
@@ -16,8 +19,8 @@ public static PDF3DRenderMode ShadedWireframe;
 
 ### See Also
 
-* class [PDF3DRenderMode](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

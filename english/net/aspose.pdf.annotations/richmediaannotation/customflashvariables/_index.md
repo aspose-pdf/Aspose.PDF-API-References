@@ -1,10 +1,13 @@
 ---
-title: RichMediaAnnotation.CustomFlashVariables
-second_title: Aspose.PDF for .NET API Reference
-description: RichMediaAnnotation property. Sets or gets flash variables which passed to player
+title: "RichMediaAnnotation.CustomFlashVariables"
+linktitle: "CustomFlashVariables"
+articleTitle: "CustomFlashVariables"
+second_title: "Aspose.PDF for .NET"
+description: "Sets or gets flash variables which passed to player."
 type: docs
-weight: 50
-url: /net/aspose.pdf.annotations/richmediaannotation/customflashvariables/
+weight: 90
+url: "/net/aspose.pdf.annotations/richmediaannotation/customflashvariables/"
+product_version: "26.9.0"
 ---
 ## RichMediaAnnotation.CustomFlashVariables property
 
@@ -14,10 +17,13 @@ Sets or gets flash variables which passed to player.
 public string CustomFlashVariables { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [RichMediaAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RichMediaAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

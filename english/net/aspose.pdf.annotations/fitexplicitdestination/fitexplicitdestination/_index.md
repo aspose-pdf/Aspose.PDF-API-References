@@ -1,12 +1,15 @@
 ---
-title: FitExplicitDestination.FitExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: FitExplicitDestination constructor. Creates local explicit destination
+title: "FitExplicitDestination.FitExplicitDestination"
+linktitle: "FitExplicitDestination"
+articleTitle: "FitExplicitDestination"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the FitExplicitDestination class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/fitexplicitdestination/fitexplicitdestination/
+url: "/net/aspose.pdf.annotations/fitexplicitdestination/fitexplicitdestination/"
+product_version: "26.9.0"
 ---
-## FitExplicitDestination(Page) {#constructor_1}
+## FitExplicitDestination([Page](../../../aspose.pdf/page/)) {#constructor}
 
 Creates local explicit destination.
 
@@ -20,14 +23,13 @@ public FitExplicitDestination(Page page)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [FitExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [FitExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FitExplicitDestination(int) {#constructor_2}
+## FitExplicitDestination(int) {#constructor_1}
 
 Creates remote explicit destination.
 
@@ -37,12 +39,34 @@ public FitExplicitDestination(int pageNumber)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | Int32 | The destination page number of remote document. |
+| pageNumber | int | The destination page number of remote document. |
 
 ### See Also
 
-* class [FitExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [FitExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## FitExplicitDestination([Document](../../../aspose.pdf/document/), int) {#constructor_2}
+
+> **Deprecated.** Use constructor without Document argument.
+
+Creates remote explicit destination.
+
+```csharp
+public FitExplicitDestination(Document document, int pageNumber)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | The Aspose.Pdf.Document object. |
+| pageNumber | int | The destination page number. |
+
+### See Also
+
+* class [FitExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

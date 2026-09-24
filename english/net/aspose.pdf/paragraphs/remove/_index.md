@@ -1,12 +1,15 @@
 ---
-title: Paragraphs.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphs method. Remove paragraph from collection
+title: "Paragraphs.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET"
+description: "Remove paragraph from collection."
 type: docs
-weight: 110
-url: /net/aspose.pdf/paragraphs/remove/
+weight: 50
+url: "/net/aspose.pdf/paragraphs/remove/"
+product_version: "26.9.0"
 ---
-## Paragraphs.Remove method
+## Remove([BaseParagraph](../../../aspose.pdf/baseparagraph/)) {#remove}
 
 Remove paragraph from collection.
 
@@ -20,9 +23,7 @@ public void Remove(BaseParagraph paragraph)
 
 ### See Also
 
-* class [BaseParagraph](../../baseparagraph/)
-* class [Paragraphs](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

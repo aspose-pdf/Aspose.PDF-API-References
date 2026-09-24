@@ -1,12 +1,15 @@
 ---
-title: FormDataConverter.ConvertToStreams
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter method. Convert data in table into streams
+title: "FormDataConverter.ConvertToStreams"
+linktitle: "ConvertToStreams"
+articleTitle: "ConvertToStreams"
+second_title: "Aspose.PDF for .NET"
+description: "Convert data in table into streams."
 type: docs
-weight: 90
-url: /net/aspose.pdf.facades/formdataconverter/converttostreams/
+weight: 70
+url: "/net/aspose.pdf.facades/formdataconverter/converttostreams/"
+product_version: "26.9.0"
 ---
-## FormDataConverter.ConvertToStreams method
+## ConvertToStreams(Stream[], [DataType](../../../aspose.pdf.lowcode/datatype/)) {#converttostreams}
 
 Convert data in table into streams.
 
@@ -19,31 +22,9 @@ public void ConvertToStreams(Stream[] destStream, DataType destType)
 | destStream | Stream[] | Streams where data will be stored. |
 | destType | DataType | Type of stored data. Valid values are: XML, FDF, XFDF. |
 
-## Examples
-
-```csharp
-DataTable table = new DataTable();
-table.Columns.Add("radiobuttonField");
-table.Columns.Add("textField");
-table.Columns.Add("checkboxField");
-table.Columns.Add("listboxField");
-table.Columns.Add("comboboxField");
-DataRow newrow = table.NewRow();
-newrow["textField"] = "NEW DATA";
-newrow["listboxField"] = "Item1";
-newrow["comboboxField"] = "Item1";
-newrow["checkboxField"] = "true";
-newrow["radiobuttonField"] = "true";
-table.Rows.Add(newrow);
-fc.Table = table;
-fc.ConvertToStreams(new Stream[] { stream }, DataType.XML);
-```
-
 ### See Also
 
-* enum [DataType](../../datatype/)
-* class [FormDataConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormDataConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

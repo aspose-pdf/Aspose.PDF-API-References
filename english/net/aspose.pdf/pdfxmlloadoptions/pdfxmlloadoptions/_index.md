@@ -1,14 +1,17 @@
 ---
-title: PdfXmlLoadOptions.PdfXmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmlLoadOptions constructor. The default constructor
+title: "PdfXmlLoadOptions.PdfXmlLoadOptions"
+linktitle: "PdfXmlLoadOptions"
+articleTitle: "PdfXmlLoadOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the PdfXmlLoadOptions class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/pdfxmlloadoptions/pdfxmlloadoptions/
+url: "/net/aspose.pdf/pdfxmlloadoptions/pdfxmlloadoptions/"
+product_version: "26.9.0"
 ---
-## PdfXmlLoadOptions constructor
+## PdfXmlLoadOptions() {#constructor}
 
-The default constructor.
+Initializes a new instance of the PdfXmlLoadOptions class.
 
 ```csharp
 public PdfXmlLoadOptions()
@@ -16,8 +19,7 @@ public PdfXmlLoadOptions()
 
 ### See Also
 
-* class [PdfXmlLoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfXmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum TextFormattingOptions.WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextFormattingOptionsWordWrapMode enum. Defines word wrapping strategies
+title: "TextFormattingOptions.WordWrapMode Enum"
+linktitle: "TextFormattingOptions.WordWrapMode"
+articleTitle: "TextFormattingOptions.WordWrapMode"
+second_title: "Aspose.PDF for .NET"
+description: "Defines word wrapping strategies"
 type: docs
-weight: 11330
-url: /net/aspose.pdf.text/textformattingoptions.wordwrapmode/
+weight: 540
+url: "/net/aspose.pdf.text/textformattingoptions.wordwrapmode/"
+product_version: "26.9.0"
 ---
 ## TextFormattingOptions.WordWrapMode enumeration
 
@@ -14,19 +17,20 @@ Defines word wrapping strategies
 public enum WordWrapMode
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | NoWrap | `0` | No wrapping is performed |
 | DiscretionaryHyphenation | `1` | Discretionary hyphenation is performed. Allows breaking words in the middle. |
-| ByWords | `2` | Word wrapping only wraps complete words. If the complete word cannot be wrapped, attempts to use discretionary hyphenation |
-| Undefined | `3` | WordWrapMode not set. Wrapping strategies of upper-level structure (table cell, paragraph, etc.) will be used. |
+| ByWords | `2` | Word wrapping only wraps complete words.
+ If the complete word cannot be wrapped, attempts to use discretionary hyphenation |
+| Undefined | `3` | WordWrapMode not set.
+ Wrapping strategies of upper-level structure (table cell, paragraph, etc.) will be used. |
 
 ### See Also
 
-* class [TextFormattingOptions](../textformattingoptions/)
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* class [TextFormattingOptions](../textformattingoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

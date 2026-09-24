@@ -1,10 +1,13 @@
 ---
-title: SignatureName.FullName
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureName field. Gets the full name of the signature providing a unique and precise identifier for the signature field
+title: "SignatureName.FullName"
+linktitle: "FullName"
+articleTitle: "FullName"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the full name of the signature, providing a unique and precise identifier for the signature field."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/signaturename/fullname/
+weight: 60
+url: "/net/aspose.pdf.facades/signaturename/fullname/"
+product_version: "26.9.0"
 ---
 ## SignatureName.FullName field
 
@@ -16,8 +19,7 @@ public readonly string FullName;
 
 ### See Also
 
-* class [SignatureName](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SignatureName](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

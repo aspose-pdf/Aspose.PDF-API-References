@@ -1,27 +1,31 @@
 ---
-title: Matrix3D.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D method. Hashcode for object
+title: "Matrix3D.GetHashCode"
+linktitle: "GetHashCode"
+articleTitle: "GetHashCode"
+second_title: "Aspose.PDF for .NET"
+description: "Hash-code for object."
 type: docs
-weight: 160
-url: /net/aspose.pdf/matrix3d/gethashcode/
+weight: 90
+url: "/net/aspose.pdf/matrix3d/gethashcode/"
+product_version: "26.9.0"
 ---
-## Matrix3D.GetHashCode method
+## GetHashCode() {#gethashcode}
 
 Hash-code for object.
 
 ```csharp
-public override int GetHashCode()
+public int GetHashCode()
 ```
 
 ### Return Value
+
+int
 
 Hash-code.
 
 ### See Also
 
-* class [Matrix3D](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

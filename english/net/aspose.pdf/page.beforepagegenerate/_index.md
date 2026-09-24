@@ -1,27 +1,25 @@
 ---
-title: Delegate Page.BeforePageGenerate
-second_title: Aspose.PDF for .NET API Reference
-description: Procedure for customize header and footer
+title: "Page.BeforePageGenerate Delegate"
+linktitle: "Page.BeforePageGenerate"
+articleTitle: "Page.BeforePageGenerate"
+second_title: "Aspose.PDF for .NET"
+description: "Procedure for customize header and footer."
 type: docs
-weight: 9320
-url: /net/aspose.pdf/page.beforepagegenerate/
+weight: 2120
+url: "/net/aspose.pdf/page.beforepagegenerate/"
+product_version: "26.9.0"
 ---
 ## Page.BeforePageGenerate delegate
 
 Procedure for customize header and footer.
 
 ```csharp
-public delegate void BeforePageGenerate(Page page);
+public delegate void BeforePageGenerate()
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | The current page. |
 
 ### See Also
 
-* class [Page](../page/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [Page](../page/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

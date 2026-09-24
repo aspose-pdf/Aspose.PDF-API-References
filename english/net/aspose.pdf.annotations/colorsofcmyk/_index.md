@@ -1,10 +1,13 @@
 ---
-title: Enum ColorsOfCMYK
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.ColorsOfCMYK enum. Colors included in the CMYK color model
+title: "ColorsOfCMYK Enum"
+linktitle: "ColorsOfCMYK"
+articleTitle: "ColorsOfCMYK"
+second_title: "Aspose.PDF for .NET"
+description: "Colors included in the CMYK color model."
 type: docs
-weight: 1700
-url: /net/aspose.pdf.annotations/colorsofcmyk/
+weight: 230
+url: "/net/aspose.pdf.annotations/colorsofcmyk/"
+product_version: "26.9.0"
 ---
 ## ColorsOfCMYK enumeration
 
@@ -14,10 +17,10 @@ Colors included in the CMYK color model.
 public enum ColorsOfCMYK
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Cyan | `0` | Cyan color. |
 | Magenta | `1` | Magenta color. |
 | Yellow | `2` | Yellow color. |
@@ -25,7 +28,6 @@ public enum ColorsOfCMYK
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

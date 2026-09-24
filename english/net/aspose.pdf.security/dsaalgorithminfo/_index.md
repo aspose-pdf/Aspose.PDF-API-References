@@ -1,10 +1,14 @@
 ---
-title: Class DsaAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.DsaAlgorithmInfo class. Represents a class for the information about the DSA signature algorithm
+title: "DsaAlgorithmInfo Class"
+linktitle: "DsaAlgorithmInfo"
+articleTitle: "DsaAlgorithmInfo"
+second_title: "Aspose.PDF for .NET"
+description: "Represents a class for the information about the DSA signature algorithm."
 type: docs
-weight: 10270
-url: /net/aspose.pdf.security/dsaalgorithminfo/
+weight: 40
+url: "/net/aspose.pdf.security/dsaalgorithminfo/"
+keywords: "DsaAlgorithmInfo, Aspose.Pdf.Security, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## DsaAlgorithmInfo class
 
@@ -18,27 +22,27 @@ public sealed class DsaAlgorithmInfo : KeyedSignatureAlgorithmInfo
 
 | Name | Description |
 | --- | --- |
-| [SignatureName](../../aspose.pdf.security/signaturealgorithminfo/signaturename/) { get; } | Gets the name of the signature field. |
+| [SignatureName](../../aspose.pdf.security/signaturealgorithminfo/signaturename/) { get; } | Gets the name of the signature field. *(Inherited from SignatureAlgorithmInfo)* |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](../../aspose.pdf.security/signaturealgorithminfo/tostring/)() | Converts the current information object to its string representation. |
+| [FillText](../../aspose.pdf.security/keyedsignaturealgorithminfo/filltext/) | *(Inherited from KeyedSignatureAlgorithmInfo)* |
+| [ToString](../../aspose.pdf.security/signaturealgorithminfo/tostring/) | Converts the current information object to its string representation. *(Inherited from SignatureAlgorithmInfo)* |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Gets the type of the signature algorithm used for signing the PDF document. |
-| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | Gets the cryptographic standard used for signing the PDF document. |
-| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Gets the digest hash algorithm used for the signature. For a timestamp, this is the digest hash algorithm with which the hash of the document content is signed. |
-| readonly [KeySize](../../aspose.pdf.security/keyedsignaturealgorithminfo/keysize/) | Gets the size of the cryptographic key used by the signature algorithm. |
+| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Gets the type of the signature algorithm used for signing the PDF document. *(Inherited from SignatureAlgorithmInfo)* |
+| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | Gets the cryptographic standard used for signing the PDF document. *(Inherited from SignatureAlgorithmInfo)* |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Gets the digest hash algorithm used for the signature. *(Inherited from SignatureAlgorithmInfo)* |
+| readonly [KeySize](../../aspose.pdf.security/keyedsignaturealgorithminfo/keysize/) | Gets the size of the cryptographic key used by the signature algorithm. *(Inherited from KeyedSignatureAlgorithmInfo)* |
 
 ### See Also
 
-* class [KeyedSignatureAlgorithmInfo](../keyedsignaturealgorithminfo/)
-* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../)
-
+* class [KeyedSignatureAlgorithmInfo](../keyedsignaturealgorithminfo/)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
 

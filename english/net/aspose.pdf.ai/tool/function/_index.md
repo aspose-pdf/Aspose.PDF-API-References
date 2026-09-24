@@ -1,17 +1,20 @@
 ---
-title: Tool.Function
-second_title: Aspose.PDF for .NET API Reference
-description: Tool method. Creates a new tool instance with the specified function
+title: "Tool.Function"
+linktitle: "Function"
+articleTitle: "Function"
+second_title: "Aspose.PDF for .NET"
+description: "Creates a new tool instance with the specified function."
 type: docs
 weight: 40
-url: /net/aspose.pdf.ai/tool/function/
+url: "/net/aspose.pdf.ai/tool/function/"
+product_version: "26.9.0"
 ---
-## Tool.Function method
+## Function([Function](../../../aspose.pdf.ai/function/)) {#function}
 
 Creates a new tool instance with the specified function.
 
 ```csharp
-public static Tool Function(Function function)
+public Tool Function(Function function)
 ```
 
 | Parameter | Type | Description |
@@ -20,13 +23,14 @@ public static Tool Function(Function function)
 
 ### Return Value
 
+[Tool](../../../aspose.pdf.ai/tool/)
+
 A new tool instance with the specified function.
 
 ### See Also
 
-* class [Function](../../function/)
-* class [Tool](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Tool](../../../aspose.pdf.ai/tool/)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

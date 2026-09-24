@@ -1,10 +1,13 @@
 ---
-title: OcrDetail.Success
-second_title: Aspose.PDF for .NET API Reference
-description: OcrDetail property. Indicates whether the OCR extraction for this specific page was successful
+title: "OcrDetail.Success"
+linktitle: "Success"
+articleTitle: "Success"
+second_title: "Aspose.PDF for .NET"
+description: "Indicates whether the OCR extraction for this specific page was successful."
 type: docs
-weight: 50
-url: /net/aspose.pdf.ai/ocrdetail/success/
+weight: 40
+url: "/net/aspose.pdf.ai/ocrdetail/success/"
+product_version: "26.9.0"
 ---
 ## OcrDetail.Success property
 
@@ -14,10 +17,13 @@ Indicates whether the OCR extraction for this specific page was successful.
 public bool Success { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [OcrDetail](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OcrDetail](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,31 +1,35 @@
 ---
-title: PdfExtractor.EndPage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor property. Gets or sets end page in the page range where extracting operation will be performed
+title: "PdfExtractor.EndPage"
+linktitle: "EndPage"
+articleTitle: "EndPage"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets end page in the page range where extracting operation will be performed. PdfExtractor ext = new PdfExtractor(); ext.BindBdf(\"sample.pdf\"); ext.S..."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/pdfextractor/endpage/
+weight: 260
+url: "/net/aspose.pdf.facades/pdfextractor/endpage/"
+product_version: "26.9.0"
 ---
 ## PdfExtractor.EndPage property
 
 Gets or sets end page in the page range where extracting operation will be performed.
-
-```csharp
-PdfExtractor ext = new PdfExtractor();
-ext.BindBdf("sample.pdf");
-ext.StartPage = 2;
-ext.EndPage = 3;
-ext.ExtractText();
-```
+ 
+ PdfExtractor ext = new PdfExtractor();
+ ext.BindBdf("sample.pdf");
+ ext.StartPage = 2;
+ ext.EndPage = 3;
+ ext.ExtractText();
 
 ```csharp
 public int EndPage { get; set; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

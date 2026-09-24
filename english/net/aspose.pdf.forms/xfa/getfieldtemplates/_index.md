@@ -1,12 +1,15 @@
 ---
-title: XFA.GetFieldTemplates
-second_title: Aspose.PDF for .NET API Reference
-description: XFA method. Returns list of all field templates on XFA form
+title: "XFA.GetFieldTemplates"
+linktitle: "GetFieldTemplates"
+articleTitle: "GetFieldTemplates"
+second_title: "Aspose.PDF for .NET"
+description: "Returns list of all field templates on XFA form."
 type: docs
-weight: 100
-url: /net/aspose.pdf.forms/xfa/getfieldtemplates/
+weight: 20
+url: "/net/aspose.pdf.forms/xfa/getfieldtemplates/"
+product_version: "26.9.0"
 ---
-## XFA.GetFieldTemplates method
+## GetFieldTemplates() {#getfieldtemplates}
 
 Returns list of all field templates on XFA form.
 
@@ -16,12 +19,13 @@ public XmlNodeList GetFieldTemplates()
 
 ### Return Value
 
+XmlNodeList
+
 List of field templates.
 
 ### See Also
 
-* class [XFA](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

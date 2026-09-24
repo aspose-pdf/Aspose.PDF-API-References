@@ -1,10 +1,13 @@
 ---
-title: FieldSerializationResult.ErrorMessages
-second_title: Aspose.PDF for .NET API Reference
-description: FieldSerializationResult property. Gets the error messages associated with the serialization process
+title: "FieldSerializationResult.ErrorMessages"
+linktitle: "ErrorMessages"
+articleTitle: "ErrorMessages"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the error messages associated with the serialization process."
 type: docs
-weight: 10
-url: /net/aspose.pdf/fieldserializationresult/errormessages/
+weight: 40
+url: "/net/aspose.pdf/fieldserializationresult/errormessages/"
+product_version: "26.9.0"
 ---
 ## FieldSerializationResult.ErrorMessages property
 
@@ -16,12 +19,11 @@ public HashSet<string> ErrorMessages { get; }
 
 ### Property Value
 
-A set of error messages.
+HashSet<string>
 
 ### See Also
 
-* class [FieldSerializationResult](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FieldSerializationResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

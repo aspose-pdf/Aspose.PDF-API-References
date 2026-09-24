@@ -1,117 +1,130 @@
 ---
-title: XmpValue.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue method. Converts XmpValue to array
+title: "XmpValue.op_Explicit"
+linktitle: "op_Explicit"
+articleTitle: "op_Explicit"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
 weight: 240
-url: /net/aspose.pdf/xmpvalue/op_explicit/
+url: "/net/aspose.pdf/xmpvalue/op_explicit/"
+product_version: "26.9.0"
 ---
-## explicit operator {#op_explicit}
+## op_Explicit([XmpValue](../../../aspose.pdf/xmpvalue/)) {#op_explicit}
 
-Converts XmpValue to array.
+
 
 ```csharp
-public static explicit operator XmpValue[](XmpValue value)
+public XmpValue[] op_Explicit(XmpValue value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | XmpValue | Value to convert. |
+| value | XmpValue |  |
 
 ### Return Value
 
-XmlValue.
+[XmpValue](../../../aspose.pdf/xmpvalue/)[]
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## explicit operator {#op_explicit_3}
+## op_Explicit([XmpValue](../../../aspose.pdf/xmpvalue/)) {#op_explicit_1}
 
-Converts XmpValue into array.
+
 
 ```csharp
-public static explicit operator object[](XmpValue value)
+public object[] op_Explicit(XmpValue value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | XmpValue | Value to convert. |
+| value | XmpValue |  |
 
 ### Return Value
 
-XmlValue.
+object[]
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## explicit operator {#op_explicit_4}
+## op_Explicit([XmpValue](../../../aspose.pdf/xmpvalue/)) {#op_explicit_2}
 
-Converts XmpValue into string.
+
 
 ```csharp
-public static explicit operator string(XmpValue value)
+public string op_Explicit(XmpValue value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | XmpValue | Value to convert. |
+| value | XmpValue |  |
 
 ### Return Value
 
-XmlValue.
+string
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## explicit operator {#op_explicit_1}
+## op_Explicit([XmpValue](../../../aspose.pdf/xmpvalue/)) {#op_explicit_3}
 
-Converts XmpValue to named value.
+
 
 ```csharp
-public static explicit operator KeyValuePair<string, XmpValue>(XmpValue value)
+public KeyValuePair<string, XmpValue> op_Explicit(XmpValue value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | XmpValue | Value to convert. |
+| value | XmpValue |  |
 
 ### Return Value
 
-XmlValue.
+KeyValuePair<string, [XmpValue](../../../aspose.pdf/xmpvalue/)>
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## explicit operator {#op_explicit_2}
+## op_Explicit([XmpValue](../../../aspose.pdf/xmpvalue/)) {#op_explicit_4}
+
+
 
 ```csharp
-public static explicit operator KeyValuePair<string, XmpValue>[](XmpValue value)
+public KeyValuePair<string, XmpValue>[] op_Explicit(XmpValue value)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | XmpValue |  |
+
+### Return Value
+
+KeyValuePair<string, XmpValue>[]
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

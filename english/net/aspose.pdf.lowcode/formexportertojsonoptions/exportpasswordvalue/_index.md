@@ -1,10 +1,13 @@
 ---
-title: FormExporterToJsonOptions.ExportPasswordValue
-second_title: Aspose.PDF for .NET API Reference
-description: FormExporterToJsonOptions property. Gets or sets a value indicating whether the password value should be exported
+title: "FormExporterToJsonOptions.ExportPasswordValue"
+linktitle: "ExportPasswordValue"
+articleTitle: "ExportPasswordValue"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets a value indicating whether the password value should be exported."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/formexportertojsonoptions/exportpasswordvalue/
+weight: 40
+url: "/net/aspose.pdf.lowcode/formexportertojsonoptions/exportpasswordvalue/"
+product_version: "26.9.0"
 ---
 ## FormExporterToJsonOptions.ExportPasswordValue property
 
@@ -16,12 +19,11 @@ public bool ExportPasswordValue { get; set; }
 
 ### Property Value
 
-`true` if the password value should be exported; otherwise, `false`.
+bool
 
 ### See Also
 
-* class [FormExporterToJsonOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormExporterToJsonOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

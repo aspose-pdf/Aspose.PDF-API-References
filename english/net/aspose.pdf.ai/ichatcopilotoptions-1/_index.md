@@ -1,32 +1,36 @@
 ---
-title: Interface IChatCopilotOptionsTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IChatCopilotOptions1TOptions interface. Represents an interface for chat copilot options with a specific type
+title: "IChatCopilotOptions<TOptions> Interface"
+linktitle: "IChatCopilotOptions<TOptions>"
+articleTitle: "IChatCopilotOptions<TOptions>"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
 weight: 500
-url: /net/aspose.pdf.ai/ichatcopilotoptions-1/
+url: "/net/aspose.pdf.ai/ichatcopilotoptions-1/"
+product_version: "26.9.0"
 ---
-## IChatCopilotOptions&lt;TOptions&gt; interface
+## IChatCopilotOptions<TOptions> interface
 
-Represents an interface for chat copilot options with a specific type.
+
 
 ```csharp
-public interface IChatCopilotOptions<out TOptions>
+public interface IChatCopilotOptions<TOptions><TOptions>
 ```
 
-| Parameter | Description |
+## Type Parameters
+
+| Name | Description |
 | --- | --- |
-| TOptions | The type of options for the chat copilot. |
+| TOptions |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetOptions](../../aspose.pdf.ai/ichatcopilotoptions-1/getoptions/)() | Gets the options of type *TOptions*. |
+| [GetOptions](./getoptions/)() |  |
 
 ### See Also
 
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

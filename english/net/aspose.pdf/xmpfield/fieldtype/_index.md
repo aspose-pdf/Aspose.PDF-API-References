@@ -1,10 +1,13 @@
 ---
-title: XmpField.FieldType
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField property. Gets the type of the field
+title: "XmpField.FieldType"
+linktitle: "FieldType"
+articleTitle: "FieldType"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the type of the field."
 type: docs
-weight: 30
-url: /net/aspose.pdf/xmpfield/fieldtype/
+weight: 140
+url: "/net/aspose.pdf/xmpfield/fieldtype/"
+product_version: "26.9.0"
 ---
 ## XmpField.FieldType property
 
@@ -16,13 +19,12 @@ public XmpFieldType FieldType { get; }
 
 ### Property Value
 
-The type of the field.
+[XmpFieldType](../../../aspose.pdf/xmpfieldtype/)
 
 ### See Also
 
-* enum [XmpFieldType](../../xmpfieldtype/)
-* class [XmpField](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpFieldType](../../../aspose.pdf/xmpfieldtype/)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

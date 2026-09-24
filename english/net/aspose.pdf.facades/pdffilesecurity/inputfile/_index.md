@@ -1,0 +1,31 @@
+---
+title: "PdfFileSecurity.InputFile"
+linktitle: "InputFile"
+articleTitle: "InputFile"
+second_title: "Aspose.PDF for .NET"
+description: "Sets the input file."
+type: docs
+weight: 240
+url: "/net/aspose.pdf.facades/pdffilesecurity/inputfile/"
+product_version: "26.9.0"
+---
+## PdfFileSecurity.InputFile property
+
+> **Deprecated.** Use BindPdf(inputFile) method for facade initialization.
+
+Sets the input file.
+
+```csharp
+public string InputFile { set; }
+```
+
+### Property Value
+
+string
+
+### See Also
+
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+

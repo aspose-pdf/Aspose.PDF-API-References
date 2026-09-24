@@ -1,28 +1,31 @@
 ---
-title: PdfFileSignature.Save
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature method. Saves the result PDF to file
+title: "PdfFileSignature.Save"
+linktitle: "Save"
+articleTitle: "Save"
+second_title: "Aspose.PDF for .NET"
+description: "Saves the result PDF to file."
 type: docs
-weight: 280
-url: /net/aspose.pdf.facades/pdffilesignature/save/
+weight: 80
+url: "/net/aspose.pdf.facades/pdffilesignature/save/"
+product_version: "26.9.0"
 ---
-## Save(string) {#save_2}
+## Save(string) {#save}
 
 Saves the result PDF to file.
 
 ```csharp
-public override void Save(string outputFile)
+public void Save(string outputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Output pdf file. |
+| outputFile | string | Output pdf file. |
 
 ### See Also
 
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -31,7 +34,7 @@ public override void Save(string outputFile)
 Saves the result PDF to stream.
 
 ```csharp
-public override void Save(Stream outputStream)
+public void Save(Stream outputStream)
 ```
 
 | Parameter | Type | Description |
@@ -40,8 +43,25 @@ public override void Save(Stream outputStream)
 
 ### See Also
 
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## Save() {#save_2}
+
+> **Deprecated.** Please, use Save method with parameter.
+
+Save signed pdf file. Output filename must be provided before with the help of coresponding PdfFileSignature constructor.
+
+```csharp
+public void Save()
+```
+
+### See Also
+
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

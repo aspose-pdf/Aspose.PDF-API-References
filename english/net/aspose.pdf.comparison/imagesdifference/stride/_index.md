@@ -1,10 +1,13 @@
 ---
-title: ImagesDifference.Stride
-second_title: Aspose.PDF for .NET API Reference
-description: ImagesDifference property. The stride of difference image data
+title: "ImagesDifference.Stride"
+linktitle: "Stride"
+articleTitle: "Stride"
+second_title: "Aspose.PDF for .NET"
+description: "The stride of difference image data."
 type: docs
-weight: 40
-url: /net/aspose.pdf.comparison/imagesdifference/stride/
+weight: 60
+url: "/net/aspose.pdf.comparison/imagesdifference/stride/"
+product_version: "26.9.0"
 ---
 ## ImagesDifference.Stride property
 
@@ -14,10 +17,13 @@ The stride of difference image data.
 public int Stride { get; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [ImagesDifference](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImagesDifference](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

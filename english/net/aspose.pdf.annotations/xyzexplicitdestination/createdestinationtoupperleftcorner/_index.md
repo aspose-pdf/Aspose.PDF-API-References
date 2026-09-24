@@ -1,43 +1,48 @@
 ---
-title: XYZExplicitDestination.CreateDestinationToUpperLeftCorner
-second_title: Aspose.PDF for .NET API Reference
-description: XYZExplicitDestination method. Create destionation to upper left corner of the specifed page
+title: "XYZExplicitDestination.CreateDestinationToUpperLeftCorner"
+linktitle: "CreateDestinationToUpperLeftCorner"
+articleTitle: "CreateDestinationToUpperLeftCorner"
+second_title: "Aspose.PDF for .NET"
+description: "Create destionation to upper left corner of the specifed page."
 type: docs
-weight: 30
-url: /net/aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/
+weight: 50
+url: "/net/aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/"
+product_version: "26.9.0"
 ---
-## CreateDestinationToUpperLeftCorner(Page, double) {#createdestinationtoupperleftcorner_1}
+## CreateDestinationToUpperLeftCorner([Page](../../../aspose.pdf/page/), double) {#createdestinationtoupperleftcorner}
 
 Create destionation to upper left corner of the specifed page.
 
 ```csharp
-public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page page, double zoom)
+public XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page page, double zoom)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | Page | Destination page. |
-| zoom | Double | Zoom factor. |
+| zoom | double | Zoom factor. |
 
 ### Return Value
+
+[XYZExplicitDestination](../../../aspose.pdf.annotations/xyzexplicitdestination/)
 
 Destination object.
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [XYZExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [XYZExplicitDestination](../../../aspose.pdf.annotations/xyzexplicitdestination/)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateDestinationToUpperLeftCorner(Page) {#createdestinationtoupperleftcorner}
+## CreateDestinationToUpperLeftCorner([Page](../../../aspose.pdf/page/)) {#createdestinationtoupperleftcorner_1}
 
 Create destination to specified page.
 
 ```csharp
-public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page page)
+public XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page page)
 ```
 
 | Parameter | Type | Description |
@@ -46,13 +51,14 @@ public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page pag
 
 ### Return Value
 
+[XYZExplicitDestination](../../../aspose.pdf.annotations/xyzexplicitdestination/)
+
 Destination object.
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [XYZExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XYZExplicitDestination](../../../aspose.pdf.annotations/xyzexplicitdestination/)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

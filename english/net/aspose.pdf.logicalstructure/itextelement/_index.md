@@ -1,10 +1,13 @@
 ---
-title: Interface ITextElement
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.ITextElement interface. Interface for presenting text structure elements
+title: "ITextElement Interface"
+linktitle: "ITextElement"
+articleTitle: "ITextElement"
+second_title: "Aspose.PDF for .NET"
+description: "Interface for presenting text structure elements."
 type: docs
-weight: 6570
-url: /net/aspose.pdf.logicalstructure/itextelement/
+weight: 260
+url: "/net/aspose.pdf.logicalstructure/itextelement/"
+product_version: "26.9.0"
 ---
 ## ITextElement interface
 
@@ -18,17 +21,16 @@ public interface ITextElement
 
 | Name | Description |
 | --- | --- |
-| [StructureTextState](../../aspose.pdf.logicalstructure/itextelement/structuretextstate/) { get; } | Gets StructureTextState object for text structure element. |
+| [StructureTextState](./structuretextstate/) { get; } | Gets [`StructureTextState`](../../aspose.pdf.logicalstructure/structuretextstate/) object for text structure element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [SetText](../../aspose.pdf.logicalstructure/itextelement/settext/)(string) | Appends text content to current text element. |
+| [SetText](./settext/)(*string*) | Appends text content to current text element. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
 

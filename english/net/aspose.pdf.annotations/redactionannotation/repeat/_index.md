@@ -1,10 +1,13 @@
 ---
-title: RedactionAnnotation.Repeat
-second_title: Aspose.PDF for .NET API Reference
-description: RedactionAnnotation property. If true overlay text will be repated on the annotation
+title: "RedactionAnnotation.Repeat"
+linktitle: "Repeat"
+articleTitle: "Repeat"
+second_title: "Aspose.PDF for .NET"
+description: "If true overlay text will be repated on the annotation."
 type: docs
-weight: 90
-url: /net/aspose.pdf.annotations/redactionannotation/repeat/
+weight: 140
+url: "/net/aspose.pdf.annotations/redactionannotation/repeat/"
+product_version: "26.9.0"
 ---
 ## RedactionAnnotation.Repeat property
 
@@ -14,10 +17,13 @@ If true overlay text will be repated on the annotation.
 public bool Repeat { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [RedactionAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RedactionAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

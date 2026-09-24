@@ -1,10 +1,13 @@
 ---
-title: ViewerPreference.HideToolbar
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference field. A flag specifying whether to hide the conforming readers tool bars when the document is active
+title: "ViewerPreference.HideToolbar"
+linktitle: "HideToolbar"
+articleTitle: "HideToolbar"
+second_title: "Aspose.PDF for .NET"
+description: "A flag specifying whether to hide the conforming reader's tool bars when the document is active."
 type: docs
-weight: 100
-url: /net/aspose.pdf.facades/viewerpreference/hidetoolbar/
+weight: 140
+url: "/net/aspose.pdf.facades/viewerpreference/hidetoolbar/"
+product_version: "26.9.0"
 ---
 ## ViewerPreference.HideToolbar field
 
@@ -16,8 +19,7 @@ public const int HideToolbar;
 
 ### See Also
 
-* class [ViewerPreference](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

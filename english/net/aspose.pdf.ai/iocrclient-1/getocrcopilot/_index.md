@@ -1,33 +1,34 @@
 ---
-title: IOcrClient1.GetOcrCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: IOcrClient method. Gets an instance of IOcrCopilot with the specified options
+title: "IOcrClient<TOptions>.GetOcrCopilot"
+linktitle: "GetOcrCopilot"
+articleTitle: "GetOcrCopilot"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/iocrclient-1/getocrcopilot/
+url: "/net/aspose.pdf.ai/iocrclient-1/getocrcopilot/"
+product_version: "26.9.0"
 ---
-## IOcrClient&lt;TOptions&gt;.GetOcrCopilot method
+## GetOcrCopilot(IOcrCopilotOptions<T0>) {#getocrcopilot}
 
-Gets an instance of [`IOcrCopilot`](../../iocrcopilot/) with the specified options.
+
 
 ```csharp
-public IOcrCopilot GetOcrCopilot(IOcrCopilotOptions<TOptions> options)
+public IOcrCopilot GetOcrCopilot(IOcrCopilotOptions<T0> options)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | IOcrCopilotOptions`1 | The options for the OCR copilot. |
+| options | IOcrCopilotOptions<T0> |  |
 
 ### Return Value
 
-An instance of [`IOcrCopilot`](../../iocrcopilot/).
+[IOcrCopilot](../../../aspose.pdf.ai/iocrcopilot/)
 
 ### See Also
 
-* interface [IOcrCopilot](../../iocrcopilot/)
-* interface [IOcrCopilotOptions&lt;TOptions&gt;](../../iocrcopilotoptions-1/)
-* interface [IOcrClient&lt;TOptions&gt;](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [IOcrCopilot](../../../aspose.pdf.ai/iocrcopilot/)
+* interface [IOcrClient<TOptions>](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

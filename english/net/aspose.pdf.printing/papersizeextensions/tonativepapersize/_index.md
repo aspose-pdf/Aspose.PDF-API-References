@@ -1,17 +1,20 @@
 ---
-title: PaperSizeExtensions.ToNativePaperSize
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizeExtensions method. Converts PaperSize to Windowsspecific System.Drawing.Printing.PaperSize
+title: "PaperSizeExtensions.ToNativePaperSize"
+linktitle: "ToNativePaperSize"
+articleTitle: "ToNativePaperSize"
+second_title: "Aspose.PDF for .NET"
+description: "Converts to Windows-specific System.Drawing.Printing.PaperSize."
 type: docs
-weight: 20
-url: /net/aspose.pdf.printing/papersizeextensions/tonativepapersize/
+weight: 10
+url: "/net/aspose.pdf.printing/papersizeextensions/tonativepapersize/"
+product_version: "26.9.0"
 ---
-## PaperSizeExtensions.ToNativePaperSize method
+## ToNativePaperSize([PaperSize](../../../aspose.pdf.printing/papersize/)) {#tonativepapersize}
 
-Converts [`PaperSize`](../../papersize/) to Windows-specific System.Drawing.Printing.PaperSize.
+Converts [`PaperSize`](../../../aspose.pdf.printing/papersize/) to Windows-specific System.Drawing.Printing.PaperSize.
 
 ```csharp
-public static PaperSize ToNativePaperSize(this PaperSize paperSize)
+public PaperSize ToNativePaperSize(PaperSize paperSize)
 ```
 
 | Parameter | Type | Description |
@@ -20,13 +23,14 @@ public static PaperSize ToNativePaperSize(this PaperSize paperSize)
 
 ### Return Value
 
+[PaperSize](../../../aspose.pdf.printing/papersize/)
+
 Windows paper size.
 
 ### See Also
 
-* class [PaperSize](../../papersize/)
-* class [PaperSizeExtensions](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSizeExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

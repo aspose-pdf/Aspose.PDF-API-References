@@ -1,10 +1,14 @@
 ---
-title: Class Png
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.Png class. Represents Pdf to Png plugin
+title: "Png Class"
+linktitle: "Png"
+articleTitle: "Png"
+second_title: "Aspose.PDF for .NET"
+description: "Represents Pdf to Png plugin."
 type: docs
-weight: 7810
-url: /net/aspose.pdf.lowcode/png/
+weight: 760
+url: "/net/aspose.pdf.lowcode/png/"
+keywords: "Png, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## Png class
 
@@ -18,19 +22,18 @@ public sealed class Png : PdfToImage
 
 | Name | Description |
 | --- | --- |
-| [Png](png/)() | The default constructor. |
+| [Png](./png/#constructor) | Initializes a new instance of the Png class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.pdf.lowcode/pdftoimage/dispose/)() | Implementation of . Actually, it is not necessary for . |
-| [Process](../../aspose.pdf.lowcode/pdftoimage/process/)(IPluginOptions) | Starts  processing with the specified parameters. |
+| [Dispose](../../aspose.pdf.lowcode/pdftoimage/dispose/) | Implementation of . Actually, it is not necessary for . *(Inherited from PdfToImage)* |
+| [Process](../../aspose.pdf.lowcode/pdftoimage/process/)(*IPluginOptions*) | Starts processing with the specified parameters. *(Inherited from PdfToImage)* |
 
 ### See Also
 
-* class [PdfToImage](../pdftoimage/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfToImage](../pdftoimage/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

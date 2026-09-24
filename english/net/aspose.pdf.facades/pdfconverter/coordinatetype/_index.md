@@ -1,10 +1,13 @@
 ---
-title: PdfConverter.CoordinateType
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter property. Gets or sets the page coordinate type Media/Crop boxes. CropBox value is used by default
+title: "PdfConverter.CoordinateType"
+linktitle: "CoordinateType"
+articleTitle: "CoordinateType"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the page coordinate type (Media/Crop boxes). CropBox value is used by default."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/pdfconverter/coordinatetype/
+weight: 550
+url: "/net/aspose.pdf.facades/pdfconverter/coordinatetype/"
+product_version: "26.9.0"
 ---
 ## PdfConverter.CoordinateType property
 
@@ -14,11 +17,14 @@ Gets or sets the page coordinate type (Media/Crop boxes). CropBox value is used 
 public PageCoordinateType CoordinateType { get; set; }
 ```
 
+### Property Value
+
+[PageCoordinateType](../../../aspose.pdf/pagecoordinatetype/)
+
 ### See Also
 
-* enum [PageCoordinateType](../../../aspose.pdf/pagecoordinatetype/)
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageCoordinateType](../../../aspose.pdf/pagecoordinatetype/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

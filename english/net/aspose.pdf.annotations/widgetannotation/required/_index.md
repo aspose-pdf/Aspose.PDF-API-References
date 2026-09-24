@@ -1,10 +1,13 @@
 ---
-title: WidgetAnnotation.Required
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation property. Gets or sets required status of the field
+title: "WidgetAnnotation.Required"
+linktitle: "Required"
+articleTitle: "Required"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets required status of the field."
 type: docs
-weight: 100
-url: /net/aspose.pdf.annotations/widgetannotation/required/
+weight: 120
+url: "/net/aspose.pdf.annotations/widgetannotation/required/"
+product_version: "26.9.0"
 ---
 ## WidgetAnnotation.Required property
 
@@ -14,10 +17,13 @@ Gets or sets required status of the field.
 public bool Required { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [WidgetAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

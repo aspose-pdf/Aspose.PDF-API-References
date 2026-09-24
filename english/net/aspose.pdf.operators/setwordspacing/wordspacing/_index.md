@@ -1,10 +1,13 @@
 ---
-title: SetWordSpacing.WordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: SetWordSpacing property. Gets or sets the word spacing
+title: "SetWordSpacing.WordSpacing"
+linktitle: "WordSpacing"
+articleTitle: "WordSpacing"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the word spacing."
 type: docs
-weight: 20
-url: /net/aspose.pdf.operators/setwordspacing/wordspacing/
+weight: 30
+url: "/net/aspose.pdf.operators/setwordspacing/wordspacing/"
+product_version: "26.9.0"
 ---
 ## SetWordSpacing.WordSpacing property
 
@@ -14,10 +17,13 @@ Gets or sets the word spacing.
 public double WordSpacing { get; set; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [SetWordSpacing](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetWordSpacing](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,28 +1,32 @@
 ---
-title: Signature.CustomSignHash
-second_title: Aspose.PDF for .NET API Reference
-description: Signature property. The delegate for custom sign the document hash
+title: "Signature.CustomSignHash"
+linktitle: "CustomSignHash"
+articleTitle: "CustomSignHash"
+second_title: "Aspose.PDF for .NET"
+description: "The delegate for custom sign the document hash."
 type: docs
-weight: 70
-url: /net/aspose.pdf.forms/signature/customsignhash/
+weight: 240
+url: "/net/aspose.pdf.forms/signature/customsignhash/"
+product_version: "26.9.0"
 ---
 ## Signature.CustomSignHash property
 
 The delegate for custom sign the document hash.
 
+`The algorithm with which you sign the hash in the delegate must match the type of the certificate's private key.`
+
 ```csharp
 public SignHash CustomSignHash { get; set; }
 ```
 
-## Remarks
+### Property Value
 
-`The algorithm with which you sign the hash in the delegate must match the type of the certificate's private key.`
+[SignHash](../../../aspose.pdf.forms/signhash/)
 
 ### See Also
 
-* delegate [SignHash](../../signhash/)
-* class [Signature](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SignHash](../../../aspose.pdf.forms/signhash/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

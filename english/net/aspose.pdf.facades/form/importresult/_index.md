@@ -1,10 +1,13 @@
 ---
-title: Form.ImportResult
-second_title: Aspose.PDF for .NET API Reference
-description: Form property. Result of last import operation. Array of objects which descibre result of import for each field
+title: "Form.ImportResult"
+linktitle: "ImportResult"
+articleTitle: "ImportResult"
+second_title: "Aspose.PDF for .NET"
+description: "Result of last import operation. Array of objects which descibre result of import for each field."
 type: docs
-weight: 50
-url: /net/aspose.pdf.facades/form/importresult/
+weight: 510
+url: "/net/aspose.pdf.facades/form/importresult/"
+product_version: "26.9.0"
 ---
 ## Form.ImportResult property
 
@@ -14,11 +17,13 @@ Result of last import operation. Array of objects which descibre result of impor
 public FormImportResult[] ImportResult { get; }
 ```
 
+### Property Value
+
+FormImportResult[]
+
 ### See Also
 
-* class [FormImportResult](../../form.formimportresult/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

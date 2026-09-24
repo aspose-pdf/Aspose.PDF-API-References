@@ -1,10 +1,13 @@
 ---
-title: OutlineCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection method. Deletes all outline items from the document outline
+title: "OutlineCollection.Delete"
+linktitle: "Delete"
+articleTitle: "Delete"
+second_title: "Aspose.PDF for .NET"
+description: "Deletes all outline items from the document outline."
 type: docs
-weight: 130
-url: /net/aspose.pdf/outlinecollection/delete/
+weight: 20
+url: "/net/aspose.pdf/outlinecollection/delete/"
+product_version: "26.9.0"
 ---
 ## Delete() {#delete}
 
@@ -16,9 +19,9 @@ public void Delete()
 
 ### See Also
 
-* class [OutlineCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,12 +35,11 @@ public void Delete(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | The title of outline item to be deleted |
+| name | string | The title of outline item to be deleted |
 
 ### See Also
 
-* class [OutlineCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

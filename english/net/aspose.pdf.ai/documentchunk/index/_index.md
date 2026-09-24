@@ -1,10 +1,13 @@
 ---
-title: DocumentChunk.Index
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentChunk property. Gets the zerobased index of the chunk within the document
+title: "DocumentChunk.Index"
+linktitle: "Index"
+articleTitle: "Index"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the zero-based index of the chunk within the document."
 type: docs
-weight: 60
-url: /net/aspose.pdf.ai/documentchunk/index/
+weight: 50
+url: "/net/aspose.pdf.ai/documentchunk/index/"
+product_version: "26.9.0"
 ---
 ## DocumentChunk.Index property
 
@@ -16,12 +19,11 @@ public int Index { get; }
 
 ### Property Value
 
-The ordinal position of this chunk in the document's chunk sequence.
+int
 
 ### See Also
 
-* class [DocumentChunk](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentChunk](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

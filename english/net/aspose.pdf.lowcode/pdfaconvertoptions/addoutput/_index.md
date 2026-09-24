@@ -1,12 +1,15 @@
 ---
-title: PdfAConvertOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAConvertOptions method. Adds new result save target
+title: "PdfAConvertOptions.AddOutput"
+linktitle: "AddOutput"
+articleTitle: "AddOutput"
+second_title: "Aspose.PDF for .NET"
+description: "Adds new result save target."
 type: docs
-weight: 30
-url: /net/aspose.pdf.lowcode/pdfaconvertoptions/addoutput/
+weight: 20
+url: "/net/aspose.pdf.lowcode/pdfaconvertoptions/addoutput/"
+product_version: "26.9.0"
 ---
-## PdfAConvertOptions.AddOutput method
+## AddOutput([IDataSource](../../../aspose.pdf.lowcode/idatasource/)) {#addoutput}
 
 Adds new result save target.
 
@@ -20,9 +23,7 @@ public void AddOutput(IDataSource dataSource)
 
 ### See Also
 
-* interface [IDataSource](../../idatasource/)
-* class [PdfAConvertOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfAConvertOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

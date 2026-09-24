@@ -1,10 +1,13 @@
 ---
-title: FolderFontSource.FolderPath
-second_title: Aspose.PDF for .NET API Reference
-description: FolderFontSource property. Path to the folder that contains font files
+title: "FolderFontSource.FolderPath"
+linktitle: "FolderPath"
+articleTitle: "FolderPath"
+second_title: "Aspose.PDF for .NET"
+description: "Path to the folder that contains font files."
 type: docs
-weight: 20
-url: /net/aspose.pdf.text/folderfontsource/folderpath/
+weight: 30
+url: "/net/aspose.pdf.text/folderfontsource/folderpath/"
+product_version: "26.9.0"
 ---
 ## FolderFontSource.FolderPath property
 
@@ -14,10 +17,13 @@ Path to the folder that contains font files.
 public string FolderPath { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [FolderFontSource](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FolderFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

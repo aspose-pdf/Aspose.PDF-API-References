@@ -1,12 +1,15 @@
 ---
-title: Document.SaveXml
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Save document to XML
+title: "Document.SaveXml"
+linktitle: "SaveXml"
+articleTitle: "SaveXml"
+second_title: "Aspose.PDF for .NET"
+description: "Save document to XML."
 type: docs
-weight: 870
-url: /net/aspose.pdf/document/savexml/
+weight: 850
+url: "/net/aspose.pdf/document/savexml/"
+product_version: "26.9.0"
 ---
-## Document.SaveXml method
+## SaveXml(string) {#savexml}
 
 Save document to XML.
 
@@ -16,12 +19,11 @@ public void SaveXml(string file)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| file | String | The document model xml file |
+| file | string | The document model xml file |
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

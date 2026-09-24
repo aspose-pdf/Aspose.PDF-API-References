@@ -1,10 +1,13 @@
 ---
-title: CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName
-second_title: Aspose.PDF for .NET API Reference
-description: OriginalFontSpecification property. Gets original font name
+title: "CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName"
+linktitle: "OriginalFontName"
+articleTitle: "OriginalFontName"
+second_title: "Aspose.PDF for .NET"
+description: "Gets original font name."
 type: docs
-weight: 30
-url: /net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/originalfontname/
+weight: 10
+url: "/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/originalfontname/"
+product_version: "26.9.0"
 ---
 ## CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName property
 
@@ -14,10 +17,13 @@ Gets original font name.
 public string OriginalFontName { get; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [OriginalFontSpecification](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CustomFontSubstitutionBase.OriginalFontSpecification](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

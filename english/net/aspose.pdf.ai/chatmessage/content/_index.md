@@ -1,10 +1,13 @@
 ---
-title: ChatMessage.Content
-second_title: Aspose.PDF for .NET API Reference
-description: ChatMessage property. Gets or sets the contents of the message
+title: "ChatMessage.Content"
+linktitle: "Content"
+articleTitle: "Content"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the contents of the message."
 type: docs
-weight: 50
-url: /net/aspose.pdf.ai/chatmessage/content/
+weight: 70
+url: "/net/aspose.pdf.ai/chatmessage/content/"
+product_version: "26.9.0"
 ---
 ## ChatMessage.Content property
 
@@ -14,11 +17,13 @@ Gets or sets the contents of the message.
 public List<MessageContentRequest> Content { get; set; }
 ```
 
+### Property Value
+
+[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[MessageContentRequest](../../../aspose.pdf.ai/messagecontentrequest/)>
+
 ### See Also
 
-* class [MessageContentRequest](../../messagecontentrequest/)
-* class [ChatMessage](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,27 +1,31 @@
 ---
-title: Heading.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Heading method. Clone the heading
+title: "Heading.Clone"
+linktitle: "Clone"
+articleTitle: "Clone"
+second_title: "Aspose.PDF for .NET"
+description: "Clone the heading."
 type: docs
-weight: 110
-url: /net/aspose.pdf/heading/clone/
+weight: 20
+url: "/net/aspose.pdf/heading/clone/"
+product_version: "26.9.0"
 ---
-## Heading.Clone method
+## Clone() {#clone}
 
 Clone the heading.
 
 ```csharp
-public override object Clone()
+public object Clone()
 ```
 
 ### Return Value
+
+object
 
 The cloned object
 
 ### See Also
 
-* class [Heading](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

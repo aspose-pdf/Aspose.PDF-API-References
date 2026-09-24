@@ -1,10 +1,13 @@
 ---
-title: FileSpecification.CollectionItem
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification property. Gets a collection item of the file specification
+title: "FileSpecification.CollectionItem"
+linktitle: "CollectionItem"
+articleTitle: "CollectionItem"
+second_title: "Aspose.PDF for .NET"
+description: "Gets a collection item of the file specification."
 type: docs
-weight: 30
-url: /net/aspose.pdf/filespecification/collectionitem/
+weight: 130
+url: "/net/aspose.pdf/filespecification/collectionitem/"
+product_version: "26.9.0"
 ---
 ## FileSpecification.CollectionItem property
 
@@ -14,11 +17,14 @@ Gets a collection item of the file specification.
 public CollectionItem CollectionItem { get; }
 ```
 
+### Property Value
+
+[CollectionItem](../../../aspose.pdf/collectionitem/)
+
 ### See Also
 
-* class [CollectionItem](../../collectionitem/)
-* class [FileSpecification](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CollectionItem](../../../aspose.pdf/collectionitem/)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

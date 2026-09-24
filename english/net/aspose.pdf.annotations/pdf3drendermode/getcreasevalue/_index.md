@@ -1,12 +1,15 @@
 ---
-title: PDF3DRenderMode.GetCreaseValue
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode method. Gets the crease value
+title: "PDF3DRenderMode.GetCreaseValue"
+linktitle: "GetCreaseValue"
+articleTitle: "GetCreaseValue"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the crease value."
 type: docs
-weight: 180
-url: /net/aspose.pdf.annotations/pdf3drendermode/getcreasevalue/
+weight: 100
+url: "/net/aspose.pdf.annotations/pdf3drendermode/getcreasevalue/"
+product_version: "26.9.0"
 ---
-## PDF3DRenderMode.GetCreaseValue method
+## GetCreaseValue() {#getcreasevalue}
 
 Gets the crease value.
 
@@ -16,12 +19,13 @@ public double GetCreaseValue()
 
 ### Return Value
 
+double
+
 System.Double.
 
 ### See Also
 
-* class [PDF3DRenderMode](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

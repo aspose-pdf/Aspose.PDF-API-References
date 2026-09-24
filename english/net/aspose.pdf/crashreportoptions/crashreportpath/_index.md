@@ -1,10 +1,13 @@
 ---
-title: CrashReportOptions.CrashReportPath
-second_title: Aspose.PDF for .NET API Reference
-description: CrashReportOptions property. Full path of crash report file
+title: "CrashReportOptions.CrashReportPath"
+linktitle: "CrashReportPath"
+articleTitle: "CrashReportPath"
+second_title: "Aspose.PDF for .NET"
+description: "Full path of crash report file"
 type: docs
-weight: 50
-url: /net/aspose.pdf/crashreportoptions/crashreportpath/
+weight: 60
+url: "/net/aspose.pdf/crashreportoptions/crashreportpath/"
+product_version: "26.9.0"
 ---
 ## CrashReportOptions.CrashReportPath property
 
@@ -14,10 +17,13 @@ Full path of crash report file
 public string CrashReportPath { get; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [CrashReportOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

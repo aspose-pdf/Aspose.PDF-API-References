@@ -1,14 +1,18 @@
 ---
-title: HeadingLevels.AddLevels
-second_title: Aspose.PDF for .NET API Reference
-description: HeadingLevels method. Adds heading levels. Font size collection should be sorted by decreasing size
+title: "HeadingLevels.AddLevels"
+linktitle: "AddLevels"
+articleTitle: "AddLevels"
+second_title: "Aspose.PDF for .NET"
+description: "Adds heading levels. Font size collection should be sorted by decreasing size."
 type: docs
 weight: 30
-url: /net/aspose.pdf/headinglevels/addlevels/
+url: "/net/aspose.pdf/headinglevels/addlevels/"
+product_version: "26.9.0"
 ---
-## HeadingLevels.AddLevels method
+## AddLevels(ICollection<double>) {#addlevels}
 
-Adds heading levels. Font size collection should be sorted by decreasing size.
+Adds heading levels.
+ Font size collection should be sorted by decreasing size.
 
 ```csharp
 public void AddLevels(ICollection<double> fontSizes)
@@ -16,7 +20,7 @@ public void AddLevels(ICollection<double> fontSizes)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontSizes | ICollection`1 | Values should be sorted in decreasing order. |
+| fontSizes | ICollection<double> | Values should be sorted in decreasing order. |
 
 ### Exceptions
 
@@ -26,8 +30,7 @@ public void AddLevels(ICollection<double> fontSizes)
 
 ### See Also
 
-* class [HeadingLevels](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HeadingLevels](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

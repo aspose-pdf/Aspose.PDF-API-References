@@ -1,10 +1,13 @@
 ---
-title: PdfXmpMetadata.PdfXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata constructor. Constructor for PdfXmpMetadata
+title: "PdfXmpMetadata.PdfXmpMetadata"
+linktitle: "PdfXmpMetadata"
+articleTitle: "PdfXmpMetadata"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the PdfXmpMetadata class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.facades/pdfxmpmetadata/pdfxmpmetadata/
+url: "/net/aspose.pdf.facades/pdfxmpmetadata/pdfxmpmetadata/"
+product_version: "26.9.0"
 ---
 ## PdfXmpMetadata() {#constructor}
 
@@ -14,24 +17,17 @@ Constructor for PdfXmpMetadata.
 public PdfXmpMetadata()
 ```
 
-## Examples
-
-```csharp
-PdfXmlMetadata xmp = new PdfXmpMetadata();
-xmp.BindPdf("input.pdf");
-```
-
 ### See Also
 
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfXmpMetadata(Document) {#constructor_1}
+## PdfXmpMetadata([Document](../../../aspose.pdf/document/)) {#constructor_1}
 
-Initializes new [`PdfXmpMetadata`](../) object on base of the *document*.
+Initializes new [`PdfXmpMetadata`](../../../aspose.pdf.facades/pdfxmpmetadata/) object on base of the .
 
 ```csharp
 public PdfXmpMetadata(Document document)
@@ -43,9 +39,7 @@ public PdfXmpMetadata(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: OpenAIChatCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions method. Sets the model for the chat copilot options
+title: "OpenAIChatCopilotOptions.WithModel"
+linktitle: "WithModel"
+articleTitle: "WithModel"
+second_title: "Aspose.PDF for .NET"
+description: "Sets the model for the chat copilot options."
 type: docs
-weight: 160
-url: /net/aspose.pdf.ai/openaichatcopilotoptions/withmodel/
+weight: 40
+url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withmodel/"
+product_version: "26.9.0"
 ---
-## OpenAIChatCopilotOptions.WithModel method
+## WithModel(string) {#withmodel}
 
 Sets the model for the chat copilot options.
 
@@ -16,16 +19,18 @@ public OpenAIChatCopilotOptions WithModel(string model)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| model | String | The model to set. |
+| model | string | The model to set. |
 
 ### Return Value
 
-The current instance of [`OpenAIChatCopilotOptions`](../).
+[OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+
+The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

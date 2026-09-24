@@ -1,10 +1,13 @@
 ---
-title: Form.CalculatedFields
-second_title: Aspose.PDF for .NET API Reference
-description: Form property. Allows to set order of field calculation
+title: "Form.CalculatedFields"
+linktitle: "CalculatedFields"
+articleTitle: "CalculatedFields"
+second_title: "Aspose.PDF for .NET"
+description: "Allows to set order of field calculation."
 type: docs
-weight: 30
-url: /net/aspose.pdf.forms/form/calculatedfields/
+weight: 380
+url: "/net/aspose.pdf.forms/form/calculatedfields/"
+product_version: "26.9.0"
 ---
 ## Form.CalculatedFields property
 
@@ -14,11 +17,13 @@ Allows to set order of field calculation.
 public IEnumerable<Field> CalculatedFields { set; }
 ```
 
+### Property Value
+
+[IEnumerable](https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1)<[Field](../../../aspose.pdf.forms/field/)>
+
 ### See Also
 
-* class [Field](../../field/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

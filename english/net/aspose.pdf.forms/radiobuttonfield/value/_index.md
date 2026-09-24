@@ -1,23 +1,29 @@
 ---
-title: RadioButtonField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField property. Gets or sets value of field
+title: "RadioButtonField.Value"
+linktitle: "Value"
+articleTitle: "Value"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets value of field."
 type: docs
-weight: 70
-url: /net/aspose.pdf.forms/radiobuttonfield/value/
+weight: 140
+url: "/net/aspose.pdf.forms/radiobuttonfield/value/"
+product_version: "26.9.0"
 ---
 ## RadioButtonField.Value property
 
 Gets or sets value of field.
 
 ```csharp
-public override string Value { get; set; }
+public string Value { get; set; }
 ```
+
+### Property Value
+
+string
 
 ### See Also
 
-* class [RadioButtonField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

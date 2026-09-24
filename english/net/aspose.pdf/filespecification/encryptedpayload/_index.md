@@ -1,10 +1,13 @@
 ---
-title: FileSpecification.EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification property. Gets encrypted payload
+title: "FileSpecification.EncryptedPayload"
+linktitle: "EncryptedPayload"
+articleTitle: "EncryptedPayload"
+second_title: "Aspose.PDF for .NET"
+description: "Gets encrypted payload."
 type: docs
-weight: 70
-url: /net/aspose.pdf/filespecification/encryptedpayload/
+weight: 140
+url: "/net/aspose.pdf/filespecification/encryptedpayload/"
+product_version: "26.9.0"
 ---
 ## FileSpecification.EncryptedPayload property
 
@@ -14,11 +17,14 @@ Gets encrypted payload.
 public EncryptedPayload EncryptedPayload { get; }
 ```
 
+### Property Value
+
+[EncryptedPayload](../../../aspose.pdf/encryptedpayload/)
+
 ### See Also
 
-* class [EncryptedPayload](../../encryptedpayload/)
-* class [FileSpecification](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [EncryptedPayload](../../../aspose.pdf/encryptedpayload/)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

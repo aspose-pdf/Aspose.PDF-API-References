@@ -1,14 +1,17 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions method. Gets the current OpenAIImageDescriptionCopilotOptions
+title: "OpenAIImageDescriptionCopilotOptions.GetOptions"
+linktitle: "GetOptions"
+articleTitle: "GetOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the current ."
 type: docs
-weight: 60
-url: /net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/getoptions/
+weight: 10
+url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/getoptions/"
+product_version: "26.9.0"
 ---
-## OpenAIImageDescriptionCopilotOptions.GetOptions method
+## GetOptions() {#getoptions}
 
-Gets the current [`OpenAIImageDescriptionCopilotOptions`](../).
+Gets the current [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions GetOptions()
@@ -16,12 +19,14 @@ public OpenAIImageDescriptionCopilotOptions GetOptions()
 
 ### Return Value
 
-The current instance of [`OpenAIImageDescriptionCopilotOptions`](../).
+[OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
+
+The current instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
 
 ### See Also
 
-* class [OpenAIImageDescriptionCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

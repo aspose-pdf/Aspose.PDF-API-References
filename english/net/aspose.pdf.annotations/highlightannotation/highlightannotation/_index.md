@@ -1,12 +1,15 @@
 ---
-title: HighlightAnnotation.HighlightAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: HighlightAnnotation constructor. Creates new Highlight annotation on the specified page
+title: "HighlightAnnotation.HighlightAnnotation"
+linktitle: "HighlightAnnotation"
+articleTitle: "HighlightAnnotation"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the HighlightAnnotation class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/highlightannotation/highlightannotation/
+url: "/net/aspose.pdf.annotations/highlightannotation/highlightannotation/"
+product_version: "26.9.0"
 ---
-## HighlightAnnotation constructor
+## HighlightAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
 
 Creates new Highlight annotation on the specified page.
 
@@ -21,10 +24,7 @@ public HighlightAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [HighlightAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HighlightAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

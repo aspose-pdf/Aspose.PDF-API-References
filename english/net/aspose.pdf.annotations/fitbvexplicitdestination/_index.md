@@ -1,10 +1,14 @@
 ---
-title: Class FitBVExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.FitBVExplicitDestination class. Represents explicit destination that displays the page with the horizontal coordinate left positioned at the left edge of the window and the contents of the page magnified just enough to fit the entire height of its bounding box within the window. A null value for left specifies that the current value of that parameter is to be retained unchanged
+title: "FitBVExplicitDestination Class"
+linktitle: "FitBVExplicitDestination"
+articleTitle: "FitBVExplicitDestination"
+second_title: "Aspose.PDF for .NET"
+description: "Represents explicit destination that displays the page with the horizontal coordinate left positioned at the left edge of the window and the contents of the ..."
 type: docs
-weight: 1840
-url: /net/aspose.pdf.annotations/fitbvexplicitdestination/
+weight: 370
+url: "/net/aspose.pdf.annotations/fitbvexplicitdestination/"
+keywords: "FitBVExplicitDestination, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## FitBVExplicitDestination class
 
@@ -18,27 +22,30 @@ public sealed class FitBVExplicitDestination : ExplicitDestination
 
 | Name | Description |
 | --- | --- |
-| [FitBVExplicitDestination](fitbvexplicitdestination/#constructor_2)(int, double) | Creates remote explicit destination. |
-| [FitBVExplicitDestination](fitbvexplicitdestination/#constructor_1)(Page, double) | Creates local explicit destination. |
+| [FitBVExplicitDestination](./fitbvexplicitdestination/#constructor)(*[Page](../../aspose.pdf/page/), double*) | Creates local explicit destination. |
+| [FitBVExplicitDestination](./fitbvexplicitdestination/#constructor_1)(*int, double*) | Creates remote explicit destination. |
+| [FitBVExplicitDestination](./fitbvexplicitdestination/#constructor_2)(*[Document](../../aspose.pdf/document/), int, double*) | Creates remote explicit destination. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Left](../../aspose.pdf.annotations/fitbvexplicitdestination/left/) { get; } | Gets the horizontal coordinate left positioned at the left edge of the window. |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Gets the destination page object |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Gets the destination page number |
+| [Left](./left/) { get; } | Gets the horizontal coordinate left positioned at the left edge of the window. |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Gets the destination page object. *(Inherited from ExplicitDestination)* |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Gets the destination page number. *(Inherited from ExplicitDestination)* |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitbvexplicitdestination/tostring/)() | Converts the object state into string value. Example: "1 FitBV 100". |
+| [CreateDestination](../../aspose.pdf.annotations/explicitdestination/createdestination/)(*Page, ExplicitDestinationType, double[]*) | Creates instances of ExplicitDestination descendant classes. *(Inherited from ExplicitDestination)* |
+| [CreateDestination](../../aspose.pdf.annotations/explicitdestination/createdestination/)(*Document, int, ExplicitDestinationType, double[]*) | Creates instances of ExplicitDestination descendant classes. *(Inherited from ExplicitDestination)* |
+| [GetNumber](../../aspose.pdf.annotations/explicitdestination/getnumber/)(*int*) | Gets double value by specified index of element. *(Inherited from ExplicitDestination)* |
+| [ToString](./tostring/) | Converts the object state into string value. Example: "1 FitBV 100". |
 
 ### See Also
 
-* class [ExplicitDestination](../explicitdestination/)
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* class [ExplicitDestination](../explicitdestination/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

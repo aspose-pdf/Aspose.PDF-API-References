@@ -1,12 +1,15 @@
 ---
-title: Form.GetFieldFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Returns flags of the field
+title: "Form.GetFieldFlag"
+linktitle: "GetFieldFlag"
+articleTitle: "GetFieldFlag"
+second_title: "Aspose.PDF for .NET"
+description: "Returns flags of the field."
 type: docs
-weight: 220
-url: /net/aspose.pdf.facades/form/getfieldflag/
+weight: 460
+url: "/net/aspose.pdf.facades/form/getfieldflag/"
+product_version: "26.9.0"
 ---
-## Form.GetFieldFlag method
+## GetFieldFlag(string) {#getfieldflag}
 
 Returns flags of the field.
 
@@ -16,27 +19,18 @@ public PropertyFlag GetFieldFlag(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | String | Field name |
+| fieldName | string | Field name |
 
 ### Return Value
 
+[PropertyFlag](../../../aspose.pdf.facades/propertyflag/)
+
 Property flag (ReadOnly/ Required/NoExport
-
-## Examples
-
-```csharp
-Form form = new Form("PdfForm.pdf");
-if (form.GetFieldFlag("textField") == PropertyFlag.ReadOnly)
-{
-   Console.WriteLine("Field is read-only");
-}
-```
 
 ### See Also
 
-* enum [PropertyFlag](../../propertyflag/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PropertyFlag](../../../aspose.pdf.facades/propertyflag/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

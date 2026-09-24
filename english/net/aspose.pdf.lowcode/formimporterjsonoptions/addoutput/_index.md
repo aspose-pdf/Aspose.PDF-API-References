@@ -1,12 +1,15 @@
 ---
-title: FormImporterJsonOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: FormImporterJsonOptions method. Adds a new output target
+title: "FormImporterJsonOptions.AddOutput"
+linktitle: "AddOutput"
+articleTitle: "AddOutput"
+second_title: "Aspose.PDF for .NET"
+description: "Adds a new output target."
 type: docs
-weight: 50
-url: /net/aspose.pdf.lowcode/formimporterjsonoptions/addoutput/
+weight: 30
+url: "/net/aspose.pdf.lowcode/formimporterjsonoptions/addoutput/"
+product_version: "26.9.0"
 ---
-## FormImporterJsonOptions.AddOutput method
+## AddOutput([IDataSource](../../../aspose.pdf.lowcode/idatasource/)) {#addoutput}
 
 Adds a new output target.
 
@@ -20,9 +23,7 @@ public void AddOutput(IDataSource saveDataSource)
 
 ### See Also
 
-* interface [IDataSource](../../idatasource/)
-* class [FormImporterJsonOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormImporterJsonOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

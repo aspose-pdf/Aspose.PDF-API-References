@@ -1,10 +1,14 @@
 ---
-title: Class XmpPdfAExtensionObject
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpPdfAExtensionObject class. Represents the base class for field property value type instances
+title: "XmpPdfAExtensionObject Class"
+linktitle: "XmpPdfAExtensionObject"
+articleTitle: "XmpPdfAExtensionObject"
+second_title: "Aspose.PDF for .NET"
+description: "Represents the base class for field, property, value type instances."
 type: docs
-weight: 11860
-url: /net/aspose.pdf/xmppdfaextensionobject/
+weight: 3300
+url: "/net/aspose.pdf/xmppdfaextensionobject/"
+keywords: "XmpPdfAExtensionObject, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## XmpPdfAExtensionObject class
 
@@ -14,22 +18,27 @@ Represents the base class for field, property, value type instances.
 public abstract class XmpPdfAExtensionObject
 ```
 
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [XmpPdfAExtensionObject](./xmppdfaextensionobject/#constructor)(*string, string*) | Initializes new object. |
+
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Gets the description. |
-| [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Gets or sets the value. |
+| [Description](./description/) { get; } | Gets the description. |
+| [Value](./value/) { get; set; } | Gets or sets the value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [GetXml](../../aspose.pdf/xmppdfaextensionobject/getxml/)(XmlDocument) | Returns the list of xml elements that represent object in xml tree. |
+| [GetXml](./getxml/)(*XmlDocument*) | Returns the list of xml elements that represent object in xml tree. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

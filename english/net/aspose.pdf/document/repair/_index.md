@@ -1,28 +1,29 @@
 ---
-title: Document.Repair
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Repairs broken document
+title: "Document.Repair"
+linktitle: "Repair"
+articleTitle: "Repair"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 840
-url: /net/aspose.pdf/document/repair/
+weight: 890
+url: "/net/aspose.pdf/document/repair/"
+product_version: "26.9.0"
 ---
-## Document.Repair method
+## Repair(RepairOptions) {#repair}
 
-Repairs broken document.
+
 
 ```csharp
-public void Repair(RepairOptions options = null)
+public void Repair(RepairOptions options)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | RepairOptions | An optional parameter of type [`RepairOptions`](../../document.repairoptions/) to specify repair settings. If not provided, default settings will be used. |
+| options | RepairOptions |  |
 
 ### See Also
 
-* class [RepairOptions](../../document.repairoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

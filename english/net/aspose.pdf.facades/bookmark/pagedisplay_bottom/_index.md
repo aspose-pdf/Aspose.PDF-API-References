@@ -1,10 +1,13 @@
 ---
-title: Bookmark.PageDisplay_Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Bookmark property. Gets or sets the bottom coordinate of page display
+title: "Bookmark.PageDisplay_Bottom"
+linktitle: "PageDisplay_Bottom"
+articleTitle: "PageDisplay_Bottom"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the bottom coordinate of page display."
 type: docs
 weight: 110
-url: /net/aspose.pdf.facades/bookmark/pagedisplay_bottom/
+url: "/net/aspose.pdf.facades/bookmark/pagedisplay_bottom/"
+product_version: "26.9.0"
 ---
 ## Bookmark.PageDisplay_Bottom property
 
@@ -14,10 +17,13 @@ Gets or sets the bottom coordinate of page display.
 public int PageDisplay_Bottom { get; set; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [Bookmark](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

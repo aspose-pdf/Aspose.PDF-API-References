@@ -1,10 +1,13 @@
 ---
-title: FormFieldFacade.Font
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade property. The font type of a field text
+title: "FormFieldFacade.Font"
+linktitle: "Font"
+articleTitle: "Font"
+second_title: "Aspose.PDF for .NET"
+description: "The font type of a field text."
 type: docs
-weight: 120
-url: /net/aspose.pdf.facades/formfieldfacade/font/
+weight: 60
+url: "/net/aspose.pdf.facades/formfieldfacade/font/"
+product_version: "26.9.0"
 ---
 ## FormFieldFacade.Font property
 
@@ -14,11 +17,14 @@ The font type of a field text.
 public FontStyle Font { get; set; }
 ```
 
+### Property Value
+
+[FontStyle](../../../aspose.pdf.facades/fontstyle/)
+
 ### See Also
 
-* enum [FontStyle](../../fontstyle/)
-* class [FormFieldFacade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FontStyle](../../../aspose.pdf.facades/fontstyle/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

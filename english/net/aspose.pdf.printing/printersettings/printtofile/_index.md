@@ -1,10 +1,13 @@
 ---
-title: PrinterSettings.PrintToFile
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings property. Indicates whether to print to a file instead of a port
+title: "PrinterSettings.PrintToFile"
+linktitle: "PrintToFile"
+articleTitle: "PrintToFile"
+second_title: "Aspose.PDF for .NET"
+description: "Indicates whether to print to a file instead of a port."
 type: docs
-weight: 130
-url: /net/aspose.pdf.printing/printersettings/printtofile/
+weight: 120
+url: "/net/aspose.pdf.printing/printersettings/printtofile/"
+product_version: "26.9.0"
 ---
 ## PrinterSettings.PrintToFile property
 
@@ -14,10 +17,13 @@ Indicates whether to print to a file instead of a port.
 public bool PrintToFile { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [PrinterSettings](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

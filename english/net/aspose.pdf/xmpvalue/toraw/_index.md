@@ -1,12 +1,15 @@
 ---
-title: XmpValue.ToRaw
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue method. Raw XML code for unknown/unsupported values
+title: "XmpValue.ToRaw"
+linktitle: "ToRaw"
+articleTitle: "ToRaw"
+second_title: "Aspose.PDF for .NET"
+description: "Raw XML code for unknown/unsupported values."
 type: docs
-weight: 200
-url: /net/aspose.pdf/xmpvalue/toraw/
+weight: 110
+url: "/net/aspose.pdf/xmpvalue/toraw/"
+product_version: "26.9.0"
 ---
-## XmpValue.ToRaw method
+## ToRaw() {#toraw}
 
 Raw XML code for unknown/unsupported values.
 
@@ -16,12 +19,13 @@ public XmlNode ToRaw()
 
 ### Return Value
 
+XmlNode
+
 XML node for this value.
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

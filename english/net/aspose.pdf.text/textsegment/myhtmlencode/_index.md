@@ -1,31 +1,35 @@
 ---
-title: TextSegment.MyHtmlEncode
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegment method. Encodes string as html
+title: "TextSegment.MyHtmlEncode"
+linktitle: "MyHtmlEncode"
+articleTitle: "MyHtmlEncode"
+second_title: "Aspose.PDF for .NET"
+description: "Encodes string as html."
 type: docs
-weight: 120
-url: /net/aspose.pdf.text/textsegment/myhtmlencode/
+weight: 30
+url: "/net/aspose.pdf.text/textsegment/myhtmlencode/"
+product_version: "26.9.0"
 ---
-## TextSegment.MyHtmlEncode method
+## MyHtmlEncode(string) {#myhtmlencode}
 
 Encodes string as html.
 
 ```csharp
-public static string MyHtmlEncode(string value)
+public string MyHtmlEncode(string value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | String | String value to encode. |
+| value | string | String value to encode. |
 
 ### Return Value
+
+string
 
 Html encoded string.
 
 ### See Also
 
-* class [TextSegment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

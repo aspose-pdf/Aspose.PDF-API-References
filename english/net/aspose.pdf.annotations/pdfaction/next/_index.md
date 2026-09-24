@@ -1,10 +1,13 @@
 ---
-title: PdfAction.Next
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAction property. Next actions in sequence
+title: "PdfAction.Next"
+linktitle: "Next"
+articleTitle: "Next"
+second_title: "Aspose.PDF for .NET"
+description: "Next actions in sequence."
 type: docs
-weight: 10
-url: /net/aspose.pdf.annotations/pdfaction/next/
+weight: 40
+url: "/net/aspose.pdf.annotations/pdfaction/next/"
+product_version: "26.9.0"
 ---
 ## PdfAction.Next property
 
@@ -14,11 +17,14 @@ Next actions in sequence.
 public ActionCollection Next { get; }
 ```
 
+### Property Value
+
+[ActionCollection](../../../aspose.pdf.annotations/actioncollection/)
+
 ### See Also
 
-* class [ActionCollection](../../actioncollection/)
-* class [PdfAction](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ActionCollection](../../../aspose.pdf.annotations/actioncollection/)
+* class [PdfAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

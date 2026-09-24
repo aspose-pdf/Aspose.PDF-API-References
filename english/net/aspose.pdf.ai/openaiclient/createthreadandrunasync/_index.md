@@ -1,35 +1,36 @@
 ---
-title: OpenAIClient.CreateThreadAndRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Creates a thread and a run within it asynchronously
+title: "OpenAIClient.CreateThreadAndRunAsync"
+linktitle: "CreateThreadAndRunAsync"
+articleTitle: "CreateThreadAndRunAsync"
+second_title: "Aspose.PDF for .NET"
+description: "Creates a thread and a run within it asynchronously."
 type: docs
-weight: 60
-url: /net/aspose.pdf.ai/openaiclient/createthreadandrunasync/
+weight: 460
+url: "/net/aspose.pdf.ai/openaiclient/createthreadandrunasync/"
+product_version: "26.9.0"
 ---
-## OpenAIClient.CreateThreadAndRunAsync method
+## CreateThreadAndRunAsync([RunThreadCreateRequest](../../../aspose.pdf.ai/runthreadcreaterequest/), Nullable<CancellationToken>) {#createthreadandrunasync}
 
 Creates a thread and a run within it asynchronously.
 
 ```csharp
-public Task<RunResponse> CreateThreadAndRunAsync(RunThreadCreateRequest runCreateRequest, 
-    CancellationToken? cancellationToken = default)
+public Task<RunResponse> CreateThreadAndRunAsync(RunThreadCreateRequest runCreateRequest, Nullable<CancellationToken> cancellationToken)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | runCreateRequest | RunThreadCreateRequest | The request details for creating the thread and run. |
-| cancellationToken | Nullable`1 | A token to cancel the operation. |
+| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
 
 ### Return Value
+
+[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[RunResponse](../../../aspose.pdf.ai/runresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the response from the thread and run creation.
 
 ### See Also
 
-* class [RunResponse](../../runresponse/)
-* class [RunThreadCreateRequest](../../runthreadcreaterequest/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

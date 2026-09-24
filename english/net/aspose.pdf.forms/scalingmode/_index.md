@@ -1,10 +1,13 @@
 ---
-title: Enum ScalingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.ScalingMode enum. The type of scaling that shall be used
+title: "ScalingMode Enum"
+linktitle: "ScalingMode"
+articleTitle: "ScalingMode"
+second_title: "Aspose.PDF for .NET"
+description: "The type of scaling that shall be used."
 type: docs
-weight: 5420
-url: /net/aspose.pdf.forms/scalingmode/
+weight: 310
+url: "/net/aspose.pdf.forms/scalingmode/"
+product_version: "26.9.0"
 ---
 ## ScalingMode enumeration
 
@@ -14,16 +17,15 @@ The type of scaling that shall be used.
 public enum ScalingMode
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Proportional | `0` | Scale the icon to fit the width or height of the annotation rectangle while maintaining the icon's original aspect ratio. |
 | Anamorphic | `1` | Scale the icon to fill the annotation rectangle exactly. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,12 +1,20 @@
 ---
-title: Aspose.Pdf.Vector
-second_title: Aspose.PDF for .NET API Reference
-description: The Aspose.Pdf.Vector is a root namespace for graphics operations
+title: "Aspose.Pdf.Vector"
+linktitle: "Aspose.Pdf.Vector"
+articleTitle: "Aspose.Pdf.Vector"
+second_title: "Aspose.PDF for .NET"
+description: "The **Aspose.Pdf.Vector** namespace provides classes."
 type: docs
-weight: 250
-url: /net/aspose.pdf.vector/
+weight: 10
+url: "/net/aspose.pdf.vector/"
+keywords: "Aspose.Pdf.Vector, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
-The **Aspose.Pdf.Vector** is a root namespace for graphics operations.
+## Overview
+
+The **Aspose.Pdf.Vector** namespace provides classes.
+
+Part of the [Aspose.PDF for .NET](../) API reference.
 
 ## Classes
 
@@ -14,12 +22,21 @@ The **Aspose.Pdf.Vector** is a root namespace for graphics operations.
 | --- | --- |
 | [GraphicElement](./graphicelement/) | Represents base class for graphics object on the page. |
 | [GraphicElementCollection](./graphicelementcollection/) | Represents [`GraphicElement`](../aspose.pdf.vector/graphicelement/) collection. |
-| [GraphicsAbsorber](./graphicsabsorber/) | Represents an absorber object of graphics elements. Performs graphics search and provides access to search results via [`Elements`](../aspose.pdf.vector/graphicsabsorber/elements/) collection. |
 | [GraphicState](./graphicstate/) | Represents graphic state of the current [`GraphicElement`](../aspose.pdf.vector/graphicelement/). |
-| [SubPath](./subpath/) | Represents vector graphics object on the page. Basically, vector graphics objects are represented by two groups of SubPaths. One of them is represented by a set of lines and curves. Others are presented as rectangles and can sometimes be confused. Usually it is a rectangular area that has a color, but very often this rectangle is placed at the beginning of the page and defines the entire space of the page in white. So you get the SubPath, but visually you only see the text on the page. |
-| [SubPathGroup](./subpathgroup/) | Represents a class for a group of graphic element containers. Class objects have a bounding box to account for group size. |
+| [GraphicsAbsorber](./graphicsabsorber/) | Represents an absorber object of graphics elements. |
+| [SubPath](./subpath/) | Represents vector graphics object on the page. |
+| [SubPathGroup](./subpathgroup/) | Represents a class for a group of graphic element containers. |
 | [SvgExtractionOptions](./svgextractionoptions/) | Represents an options class for extracting vector graphics from the pdf document page. |
 | [SvgExtractor](./svgextractor/) | Represents a class to SVG-images extraction from page. |
-| [XFormPlacement](./xformplacement/) | Represents XForm placement. If the XForm is displayed on the page more than 1 time, all XformPlacements associated with this XForm will have common graphical elements, but different graphical states. |
+| [XFormPlacement](./xformplacement/) | Represents XForm placement. |
 
+## FAQ
+
+### What classes does the Aspose.Pdf.Vector namespace contain?
+
+[GraphicElement](./graphicelement/), [GraphicElementCollection](./graphicelementcollection/), [GraphicState](./graphicstate/), [GraphicsAbsorber](./graphicsabsorber/), [SubPath](./subpath/), and 4 more.
+
+### How many types are in the Aspose.Pdf.Vector namespace?
+
+The Aspose.Pdf.Vector namespace contains 9 types, listed above.
 

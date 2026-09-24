@@ -1,10 +1,13 @@
 ---
-title: CreateFineTuningJobResponse.TrainingFile
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobResponse property. Gets or sets the ID of an uploaded file that contains training data
+title: "CreateFineTuningJobResponse.TrainingFile"
+linktitle: "TrainingFile"
+articleTitle: "TrainingFile"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the ID of an uploaded file that contains training data."
 type: docs
-weight: 100
-url: /net/aspose.pdf.ai/createfinetuningjobresponse/trainingfile/
+weight: 110
+url: "/net/aspose.pdf.ai/createfinetuningjobresponse/trainingfile/"
+product_version: "26.9.0"
 ---
 ## CreateFineTuningJobResponse.TrainingFile property
 
@@ -14,10 +17,13 @@ Gets or sets the ID of an uploaded file that contains training data.
 public string TrainingFile { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [CreateFineTuningJobResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CreateFineTuningJobResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

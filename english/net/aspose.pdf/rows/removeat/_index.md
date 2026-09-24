@@ -1,12 +1,15 @@
 ---
-title: Rows.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: Rows method. Remove row at position from collection
+title: "Rows.RemoveAt"
+linktitle: "RemoveAt"
+articleTitle: "RemoveAt"
+second_title: "Aspose.PDF for .NET"
+description: "Remove row at position from collection."
 type: docs
-weight: 90
-url: /net/aspose.pdf/rows/removeat/
+weight: 60
+url: "/net/aspose.pdf/rows/removeat/"
+product_version: "26.9.0"
 ---
-## Rows.RemoveAt method
+## RemoveAt(int) {#removeat}
 
 Remove row at position from collection.
 
@@ -16,12 +19,11 @@ public void RemoveAt(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | Int32 | The collection index. |
+| index | int | The collection index. |
 
 ### See Also
 
-* class [Rows](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

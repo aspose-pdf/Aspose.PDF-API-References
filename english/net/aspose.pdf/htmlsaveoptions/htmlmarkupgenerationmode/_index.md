@@ -1,14 +1,19 @@
 ---
-title: HtmlSaveOptions.HtmlMarkupGenerationMode
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions field. Sometimes specific reqirments to generation of HTML markup are present. This parameter defines HTML preparing modes that can be used during conversion of PDF to HTML to match such specific requirments
+title: "HtmlSaveOptions.HtmlMarkupGenerationMode"
+linktitle: "HtmlMarkupGenerationMode"
+articleTitle: "HtmlMarkupGenerationMode"
+second_title: "Aspose.PDF for .NET"
+description: "Sometimes specific reqirments to generation of HTML markup are present. This parameter defines HTML preparing modes that can be used during conversion of PDF..."
 type: docs
-weight: 340
-url: /net/aspose.pdf/htmlsaveoptions/htmlmarkupgenerationmode/
+weight: 450
+url: "/net/aspose.pdf/htmlsaveoptions/htmlmarkupgenerationmode/"
+product_version: "26.9.0"
 ---
 ## HtmlSaveOptions.HtmlMarkupGenerationMode field
 
-Sometimes specific reqirments to generation of HTML markup are present. This parameter defines HTML preparing modes that can be used during conversion of PDF to HTML to match such specific requirments.
+Sometimes specific reqirments to generation of HTML markup are present.
+ This parameter defines HTML preparing modes that can be used
+ during conversion of PDF to HTML to match such specific requirments.
 
 ```csharp
 public HtmlMarkupGenerationModes HtmlMarkupGenerationMode;
@@ -16,9 +21,7 @@ public HtmlMarkupGenerationModes HtmlMarkupGenerationMode;
 
 ### See Also
 
-* enum [HtmlMarkupGenerationModes](../../htmlsaveoptions.htmlmarkupgenerationmodes/)
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: EditContainer.Id
-second_title: Aspose.PDF for .NET API Reference
-description: EditContainer property. Gets and sets id of the change
+title: "EditContainer.Id"
+linktitle: "Id"
+articleTitle: "Id"
+second_title: "Aspose.PDF for .NET"
+description: "Gets and sets id of the change."
 type: docs
 weight: 10
-url: /net/aspose.pdf.comparison/editcontainer/id/
+url: "/net/aspose.pdf.comparison/editcontainer/id/"
+product_version: "26.9.0"
 ---
 ## EditContainer.Id property
 
@@ -14,10 +17,13 @@ Gets and sets id of the change.
 public int Id { get; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [EditContainer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [EditContainer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

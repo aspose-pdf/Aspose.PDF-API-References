@@ -1,10 +1,13 @@
 ---
-title: LineInfo.BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: LineInfo property. Gets or sets the border style of a line 0 represents solid 1 represents dashed 2 represents beleved 3 represents insert 4 represents underline
+title: "LineInfo.BorderStyle"
+linktitle: "BorderStyle"
+articleTitle: "BorderStyle"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the border style of a line, 0 represents solid, 1 represents dashed, 2 represents beleved, 3 represents insert, 4 represents underline."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/lineinfo/borderstyle/
+weight: 70
+url: "/net/aspose.pdf.facades/lineinfo/borderstyle/"
+product_version: "26.9.0"
 ---
 ## LineInfo.BorderStyle property
 
@@ -14,10 +17,13 @@ Gets or sets the border style of a line, 0 represents solid, 1 represents dashed
 public int BorderStyle { get; set; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [LineInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

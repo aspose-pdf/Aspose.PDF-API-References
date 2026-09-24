@@ -1,12 +1,15 @@
 ---
-title: FormattedText.SetCjkFontStyle
-second_title: Aspose.PDF for .NET API Reference
-description: FormattedText method. Changes FormattedText font style for CJK Chinese Japanese or Korean font
+title: "FormattedText.SetCjkFontStyle"
+linktitle: "SetCjkFontStyle"
+articleTitle: "SetCjkFontStyle"
+second_title: "Aspose.PDF for .NET"
+description: "Changes FormattedText font style for CJK (Chinese, Japanese, or Korean) font."
 type: docs
-weight: 60
-url: /net/aspose.pdf.facades/formattedtext/setcjkfontstyle/
+weight: 170
+url: "/net/aspose.pdf.facades/formattedtext/setcjkfontstyle/"
+product_version: "26.9.0"
 ---
-## FormattedText.SetCjkFontStyle method
+## SetCjkFontStyle() {#setcjkfontstyle}
 
 Changes FormattedText font style for CJK (Chinese, Japanese, or Korean) font.
 
@@ -16,8 +19,7 @@ public void SetCjkFontStyle()
 
 ### See Also
 
-* class [FormattedText](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

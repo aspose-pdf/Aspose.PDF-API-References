@@ -1,10 +1,13 @@
 ---
-title: PdfPageEditor.DisplayDuration
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor property. Gets or sets display duration for pages
+title: "PdfPageEditor.DisplayDuration"
+linktitle: "DisplayDuration"
+articleTitle: "DisplayDuration"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets display duration for pages."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/pdfpageeditor/displayduration/
+weight: 130
+url: "/net/aspose.pdf.facades/pdfpageeditor/displayduration/"
+product_version: "26.9.0"
 ---
 ## PdfPageEditor.DisplayDuration property
 
@@ -14,10 +17,13 @@ Gets or sets display duration for pages.
 public int DisplayDuration { get; set; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [PdfPageEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

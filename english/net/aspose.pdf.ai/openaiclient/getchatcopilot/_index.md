@@ -1,14 +1,17 @@
 ---
-title: OpenAIClient.GetChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Gets an instance of IChatCopilot with the specified options
+title: "OpenAIClient.GetChatCopilot"
+linktitle: "GetChatCopilot"
+articleTitle: "GetChatCopilot"
+second_title: "Aspose.PDF for .NET"
+description: "Gets an instance of with the specified options."
 type: docs
-weight: 210
-url: /net/aspose.pdf.ai/openaiclient/getchatcopilot/
+weight: 190
+url: "/net/aspose.pdf.ai/openaiclient/getchatcopilot/"
+product_version: "26.9.0"
 ---
-## OpenAIClient.GetChatCopilot method
+## GetChatCopilot(IChatCopilotOptions<OpenAIChatCopilotOptions>) {#getchatcopilot}
 
-Gets an instance of [`IChatCopilot`](../../ichatcopilot/) with the specified options.
+Gets an instance of [`IChatCopilot`](../../../aspose.pdf.ai/ichatcopilot/) with the specified options.
 
 ```csharp
 public IChatCopilot GetChatCopilot(IChatCopilotOptions<OpenAIChatCopilotOptions> options)
@@ -16,19 +19,18 @@ public IChatCopilot GetChatCopilot(IChatCopilotOptions<OpenAIChatCopilotOptions>
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | IChatCopilotOptions`1 | The options for the chat copilot. |
+| options | IChatCopilotOptions<OpenAIChatCopilotOptions> | The options for the chat copilot. |
 
 ### Return Value
 
-An instance of [`IChatCopilot`](../../ichatcopilot/).
+[IChatCopilot](../../../aspose.pdf.ai/ichatcopilot/)
+
+An instance of [`IChatCopilot`](../../../aspose.pdf.ai/ichatcopilot/).
 
 ### See Also
 
-* interface [IChatCopilot](../../ichatcopilot/)
-* interface [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
-* class [OpenAIChatCopilotOptions](../../openaichatcopilotoptions/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [IChatCopilot](../../../aspose.pdf.ai/ichatcopilot/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

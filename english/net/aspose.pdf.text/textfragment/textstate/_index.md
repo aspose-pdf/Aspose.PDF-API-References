@@ -1,54 +1,39 @@
 ---
-title: TextFragment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment property. Gets or sets text state for the text that TextFragment object represents
+title: "TextFragment.TextState"
+linktitle: "TextState"
+articleTitle: "TextState"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets text state for the text that object represents."
 type: docs
-weight: 150
-url: /net/aspose.pdf.text/textfragment/textstate/
+weight: 130
+url: "/net/aspose.pdf.text/textfragment/textstate/"
+product_version: "26.9.0"
 ---
 ## TextFragment.TextState property
 
-Gets or sets text state for the text that [`TextFragment`](../) object represents.
+Gets or sets text state for the text that [`TextFragment`](../../../aspose.pdf.text/textfragment/) object represents.
+
+Provides a way to change following properties of the text:
+ Font
+ FontSize
+ FontStyle
+ ForegroundColor
+ BackgroundColor
 
 ```csharp
 public TextFragmentState TextState { get; }
 ```
 
-## Remarks
+### Property Value
 
-Provides a way to change following properties of the text: Font FontSize FontStyle ForegroundColor BackgroundColor
-
-## Examples
-
-The example demonstrates how to change text color and font size of the text with `TextState` object.
-
-```csharp
-// Open document
-Document doc = new Document(@"D:\Tests\input.pdf");
-
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
-TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-
-// Accept the absorber for first page
-doc.Pages[1].Accept(absorber);
-
-// Change foreground color of the first text occurrence
-absorber.TextFragments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawing.Color.Red);
-
-// Change font size of the first text occurrence
-absorber.TextFragments[1].TextState.FontSize = 15;
-
-// Save document
-doc.Save(@"D:\Tests\output.pdf");  
-```
+[TextFragmentState](../../../aspose.pdf.text/textfragmentstate/)
 
 ### See Also
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber/)
-* class [Document](../../../aspose.pdf/document/)
-* class [TextFragmentState](../../textfragmentstate/)
-* class [TextFragment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* [TextFragmentAbsorber](../textfragmentabsorber/)
+* [Document](../document/)
+* class [TextFragmentState](../../../aspose.pdf.text/textfragmentstate/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

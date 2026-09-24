@@ -1,10 +1,14 @@
 ---
-title: Class Color
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Color class. Represents class for color value which can be expressed in different color space
+title: "Color Class"
+linktitle: "Color"
+articleTitle: "Color"
+second_title: "Aspose.PDF for .NET"
+description: "Represents class for color value which can be expressed in different color space."
 type: docs
-weight: 3190
-url: /net/aspose.pdf/color/
+weight: 370
+url: "/net/aspose.pdf/color/"
+keywords: "Color, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## Color class
 
@@ -18,184 +22,183 @@ public sealed class Color
 
 | Name | Description |
 | --- | --- |
-| [Color](color/)() | Default constructor. |
+| [Color](./color/#constructor) | Default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| static [AliceBlue](../../aspose.pdf/color/aliceblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF0F8FF. |
-| static [AntiqueWhite](../../aspose.pdf/color/antiquewhite/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFAEBD7. |
-| static [Aqua](../../aspose.pdf/color/aqua/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF00FFFF. |
-| static [Aquamarine](../../aspose.pdf/color/aquamarine/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF7FFFD4. |
-| static [Azure](../../aspose.pdf/color/azure/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF0FFFF. |
-| static [Beige](../../aspose.pdf/color/beige/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF5F5DC. |
-| static [Bisque](../../aspose.pdf/color/bisque/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFE4C4. |
-| static [Black](../../aspose.pdf/color/black/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF000000. |
-| static [BlanchedAlmond](../../aspose.pdf/color/blanchedalmond/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFEBCD. |
-| static [Blue](../../aspose.pdf/color/blue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF0000FF. |
-| static [BlueViolet](../../aspose.pdf/color/blueviolet/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF8A2BE2. |
-| static [Brown](../../aspose.pdf/color/brown/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFA52A2A. |
-| static [BurlyWood](../../aspose.pdf/color/burlywood/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFDEB887. |
-| static [CadetBlue](../../aspose.pdf/color/cadetblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF5F9EA0. |
-| static [Chartreuse](../../aspose.pdf/color/chartreuse/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF7FFF00. |
-| static [Chocolate](../../aspose.pdf/color/chocolate/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFD2691E. |
-| static [Coral](../../aspose.pdf/color/coral/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF7F50. |
-| static [CornflowerBlue](../../aspose.pdf/color/cornflowerblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF6495ED. |
-| static [Cornsilk](../../aspose.pdf/color/cornsilk/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFF8DC. |
-| static [Crimson](../../aspose.pdf/color/crimson/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFDC143C. |
-| static [Cyan](../../aspose.pdf/color/cyan/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF00FFFF. |
-| static [DarkBlue](../../aspose.pdf/color/darkblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF00008B. |
-| static [DarkCyan](../../aspose.pdf/color/darkcyan/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF008B8B. |
-| static [DarkGoldenrod](../../aspose.pdf/color/darkgoldenrod/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFB8860B. |
-| static [DarkGray](../../aspose.pdf/color/darkgray/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFA9A9A9. |
-| static [DarkGreen](../../aspose.pdf/color/darkgreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF006400. |
-| static [DarkKhaki](../../aspose.pdf/color/darkkhaki/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFBDB76B. |
-| static [DarkMagenta](../../aspose.pdf/color/darkmagenta/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF8B008B. |
-| static [DarkOliveGreen](../../aspose.pdf/color/darkolivegreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF556B2F. |
-| static [DarkOrange](../../aspose.pdf/color/darkorange/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF8C00. |
-| static [DarkOrchid](../../aspose.pdf/color/darkorchid/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF9932CC. |
-| static [DarkRed](../../aspose.pdf/color/darkred/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF8B0000. |
-| static [DarkSalmon](../../aspose.pdf/color/darksalmon/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFE9967A. |
-| static [DarkSeaGreen](../../aspose.pdf/color/darkseagreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF8FBC8F. |
-| static [DarkSlateBlue](../../aspose.pdf/color/darkslateblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF483D8B. |
-| static [DarkSlateGray](../../aspose.pdf/color/darkslategray/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF2F4F4F. |
-| static [DarkTurquoise](../../aspose.pdf/color/darkturquoise/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF00CED1. |
-| static [DarkViolet](../../aspose.pdf/color/darkviolet/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF9400D3. |
-| static [DeepPink](../../aspose.pdf/color/deeppink/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF1493. |
-| static [DeepSkyBlue](../../aspose.pdf/color/deepskyblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF00BFFF. |
-| static [DimGray](../../aspose.pdf/color/dimgray/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF696969. |
-| static [DodgerBlue](../../aspose.pdf/color/dodgerblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF1E90FF. |
-| static [Firebrick](../../aspose.pdf/color/firebrick/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFB22222. |
-| static [FloralWhite](../../aspose.pdf/color/floralwhite/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFFAF0. |
-| static [ForestGreen](../../aspose.pdf/color/forestgreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF228B22. |
-| static [Fuchsia](../../aspose.pdf/color/fuchsia/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF00FF. |
-| static [Gainsboro](../../aspose.pdf/color/gainsboro/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFDCDCDC. |
-| static [GhostWhite](../../aspose.pdf/color/ghostwhite/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF8F8FF. |
-| static [Gold](../../aspose.pdf/color/gold/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFD700. |
-| static [Goldenrod](../../aspose.pdf/color/goldenrod/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFDAA520. |
-| static [Gray](../../aspose.pdf/color/gray/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF808080. |
-| static [Green](../../aspose.pdf/color/green/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF008000. |
-| static [GreenYellow](../../aspose.pdf/color/greenyellow/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFADFF2F. |
-| static [Honeydew](../../aspose.pdf/color/honeydew/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF0FFF0. |
-| static [HotPink](../../aspose.pdf/color/hotpink/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF69B4. |
-| static [IndianRed](../../aspose.pdf/color/indianred/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFCD5C5C. |
-| static [Indigo](../../aspose.pdf/color/indigo/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF4B0082. |
-| static [Ivory](../../aspose.pdf/color/ivory/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFFFF0. |
-| static [Khaki](../../aspose.pdf/color/khaki/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF0E68C. |
-| static [Lavender](../../aspose.pdf/color/lavender/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFE6E6FA. |
-| static [LavenderBlush](../../aspose.pdf/color/lavenderblush/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFF0F5. |
-| static [LawnGreen](../../aspose.pdf/color/lawngreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF7CFC00. |
-| static [LemonChiffon](../../aspose.pdf/color/lemonchiffon/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFFACD. |
-| static [LightBlue](../../aspose.pdf/color/lightblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFADD8E6. |
-| static [LightCoral](../../aspose.pdf/color/lightcoral/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF08080. |
-| static [LightCyan](../../aspose.pdf/color/lightcyan/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFE0FFFF. |
-| static [LightGoldenrodYellow](../../aspose.pdf/color/lightgoldenrodyellow/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFAFAD2. |
-| static [LightGray](../../aspose.pdf/color/lightgray/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFD3D3D3. |
-| static [LightGreen](../../aspose.pdf/color/lightgreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF90EE90. |
-| static [LightPink](../../aspose.pdf/color/lightpink/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFB6C1. |
-| static [LightSalmon](../../aspose.pdf/color/lightsalmon/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFA07A. |
-| static [LightSeaGreen](../../aspose.pdf/color/lightseagreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF20B2AA. |
-| static [LightSkyBlue](../../aspose.pdf/color/lightskyblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF87CEFA. |
-| static [LightSlateGray](../../aspose.pdf/color/lightslategray/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF778899. |
-| static [LightSteelBlue](../../aspose.pdf/color/lightsteelblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFB0C4DE. |
-| static [LightYellow](../../aspose.pdf/color/lightyellow/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFFFE0. |
-| static [Lime](../../aspose.pdf/color/lime/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF00FF00. |
-| static [LimeGreen](../../aspose.pdf/color/limegreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF32CD32. |
-| static [Linen](../../aspose.pdf/color/linen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFAF0E6. |
-| static [Magenta](../../aspose.pdf/color/magenta/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF00FF. |
-| static [Maroon](../../aspose.pdf/color/maroon/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF800000. |
-| static [MediumAquamarine](../../aspose.pdf/color/mediumaquamarine/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF66CDAA. |
-| static [MediumBlue](../../aspose.pdf/color/mediumblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF0000CD. |
-| static [MediumOrchid](../../aspose.pdf/color/mediumorchid/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFBA55D3. |
-| static [MediumPurple](../../aspose.pdf/color/mediumpurple/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF9370DB. |
-| static [MediumSeaGreen](../../aspose.pdf/color/mediumseagreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF3CB371. |
-| static [MediumSlateBlue](../../aspose.pdf/color/mediumslateblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF7B68EE. |
-| static [MediumSpringGreen](../../aspose.pdf/color/mediumspringgreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF00FA9A. |
-| static [MediumTurquoise](../../aspose.pdf/color/mediumturquoise/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF48D1CC. |
-| static [MediumVioletRed](../../aspose.pdf/color/mediumvioletred/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFC71585. |
-| static [MidnightBlue](../../aspose.pdf/color/midnightblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF191970. |
-| static [MintCream](../../aspose.pdf/color/mintcream/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF5FFFA. |
-| static [MistyRose](../../aspose.pdf/color/mistyrose/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFE4E1. |
-| static [Moccasin](../../aspose.pdf/color/moccasin/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFE4B5. |
-| static [NavajoWhite](../../aspose.pdf/color/navajowhite/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFDEAD. |
-| static [Navy](../../aspose.pdf/color/navy/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF000080. |
-| static [OldLace](../../aspose.pdf/color/oldlace/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFDF5E6. |
-| static [Olive](../../aspose.pdf/color/olive/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF808000. |
-| static [OliveDrab](../../aspose.pdf/color/olivedrab/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF6B8E23. |
-| static [Orange](../../aspose.pdf/color/orange/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFA500. |
-| static [OrangeRed](../../aspose.pdf/color/orangered/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF4500. |
-| static [Orchid](../../aspose.pdf/color/orchid/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFDA70D6. |
-| static [PaleGoldenrod](../../aspose.pdf/color/palegoldenrod/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFEEE8AA. |
-| static [PaleGreen](../../aspose.pdf/color/palegreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF98FB98. |
-| static [PaleTurquoise](../../aspose.pdf/color/paleturquoise/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFAFEEEE. |
-| static [PaleVioletRed](../../aspose.pdf/color/palevioletred/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFDB7093. |
-| static [PapayaWhip](../../aspose.pdf/color/papayawhip/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFEFD5. |
-| static [PeachPuff](../../aspose.pdf/color/peachpuff/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFDAB9. |
-| static [Peru](../../aspose.pdf/color/peru/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFCD853F. |
-| static [Pink](../../aspose.pdf/color/pink/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFC0CB. |
-| static [Plum](../../aspose.pdf/color/plum/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFDDA0DD. |
-| static [PowderBlue](../../aspose.pdf/color/powderblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFB0E0E6. |
-| static [Purple](../../aspose.pdf/color/purple/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF800080. |
-| static [Red](../../aspose.pdf/color/red/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF0000. |
-| static [RosyBrown](../../aspose.pdf/color/rosybrown/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFBC8F8F. |
-| static [RoyalBlue](../../aspose.pdf/color/royalblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF4169E1. |
-| static [SaddleBrown](../../aspose.pdf/color/saddlebrown/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF8B4513. |
-| static [Salmon](../../aspose.pdf/color/salmon/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFA8072. |
-| static [SandyBrown](../../aspose.pdf/color/sandybrown/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF4A460. |
-| static [SeaGreen](../../aspose.pdf/color/seagreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF2E8B57. |
-| static [SeaShell](../../aspose.pdf/color/seashell/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFF5EE. |
-| static [Sienna](../../aspose.pdf/color/sienna/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFA0522D. |
-| static [Silver](../../aspose.pdf/color/silver/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFC0C0C0. |
-| static [SkyBlue](../../aspose.pdf/color/skyblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF87CEEB. |
-| static [SlateBlue](../../aspose.pdf/color/slateblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF6A5ACD. |
-| static [SlateGray](../../aspose.pdf/color/slategray/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF708090. |
-| static [Snow](../../aspose.pdf/color/snow/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFFAFA. |
-| static [SpringGreen](../../aspose.pdf/color/springgreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF00FF7F. |
-| static [SteelBlue](../../aspose.pdf/color/steelblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF4682B4. |
-| static [Tan](../../aspose.pdf/color/tan/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFD2B48C. |
-| static [Teal](../../aspose.pdf/color/teal/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF008080. |
-| static [Thistle](../../aspose.pdf/color/thistle/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFD8BFD8. |
-| static [Tomato](../../aspose.pdf/color/tomato/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF6347. |
-| static [Transparent](../../aspose.pdf/color/transparent/) { get; } | Gets a system-defined color. |
-| static [Turquoise](../../aspose.pdf/color/turquoise/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF40E0D0. |
-| static [Violet](../../aspose.pdf/color/violet/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFEE82EE. |
-| static [Wheat](../../aspose.pdf/color/wheat/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF5DEB3. |
-| static [White](../../aspose.pdf/color/white/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFFFFF. |
-| static [WhiteSmoke](../../aspose.pdf/color/whitesmoke/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF5F5F5. |
-| static [Yellow](../../aspose.pdf/color/yellow/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFFF00. |
-| static [YellowGreen](../../aspose.pdf/color/yellowgreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF9ACD32. |
-| [A](../../aspose.pdf/color/a/) { get; } | Gets the alpha component value |
-| [ColorSpace](../../aspose.pdf/color/colorspace/) { get; } | Gets color space that the color represents. |
-| [Data](../../aspose.pdf/color/data/) { get; } | Gets color value. |
-| [PatternColorSpace](../../aspose.pdf/color/patterncolorspace/) { get; set; } | Represents a object that indicates the pattern colorspace. |
+| [A](./a/) { get; } | Gets the alpha component value. |
+| [AliceBlue](./aliceblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF0F8FF. |
+| [AntiqueWhite](./antiquewhite/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFAEBD7. |
+| [Aqua](./aqua/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF00FFFF. |
+| [Aquamarine](./aquamarine/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF7FFFD4. |
+| [Azure](./azure/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF0FFFF. |
+| [Beige](./beige/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF5F5DC. |
+| [Bisque](./bisque/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFE4C4. |
+| [Black](./black/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF000000. |
+| [BlanchedAlmond](./blanchedalmond/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFEBCD. |
+| [Blue](./blue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF0000FF. |
+| [BlueViolet](./blueviolet/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF8A2BE2. |
+| [Brown](./brown/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFA52A2A. |
+| [BurlyWood](./burlywood/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFDEB887. |
+| [CadetBlue](./cadetblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF5F9EA0. |
+| [Chartreuse](./chartreuse/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF7FFF00. |
+| [Chocolate](./chocolate/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFD2691E. |
+| [ColorSpace](./colorspace/) { get; } | Gets color space that the color represents. |
+| [Coral](./coral/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF7F50. |
+| [CornflowerBlue](./cornflowerblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF6495ED. |
+| [Cornsilk](./cornsilk/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFF8DC. |
+| [Crimson](./crimson/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFDC143C. |
+| [Cyan](./cyan/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF00FFFF. |
+| [DarkBlue](./darkblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF00008B. |
+| [DarkCyan](./darkcyan/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF008B8B. |
+| [DarkGoldenrod](./darkgoldenrod/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFB8860B. |
+| [DarkGray](./darkgray/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFA9A9A9. |
+| [DarkGreen](./darkgreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF006400. |
+| [DarkKhaki](./darkkhaki/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFBDB76B. |
+| [DarkMagenta](./darkmagenta/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF8B008B. |
+| [DarkOliveGreen](./darkolivegreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF556B2F. |
+| [DarkOrange](./darkorange/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF8C00. |
+| [DarkOrchid](./darkorchid/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF9932CC. |
+| [DarkRed](./darkred/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF8B0000. |
+| [DarkSalmon](./darksalmon/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFE9967A. |
+| [DarkSeaGreen](./darkseagreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF8FBC8F. |
+| [DarkSlateBlue](./darkslateblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF483D8B. |
+| [DarkSlateGray](./darkslategray/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF2F4F4F. |
+| [DarkTurquoise](./darkturquoise/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF00CED1. |
+| [DarkViolet](./darkviolet/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF9400D3. |
+| [Data](./data/) { get; } | Gets color value. |
+| [DeepPink](./deeppink/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF1493. |
+| [DeepSkyBlue](./deepskyblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF00BFFF. |
+| [DimGray](./dimgray/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF696969. |
+| [DodgerBlue](./dodgerblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF1E90FF. |
+| [Firebrick](./firebrick/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFB22222. |
+| [FloralWhite](./floralwhite/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFFAF0. |
+| [ForestGreen](./forestgreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF228B22. |
+| [Fuchsia](./fuchsia/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF00FF. |
+| [Gainsboro](./gainsboro/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFDCDCDC. |
+| [GhostWhite](./ghostwhite/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF8F8FF. |
+| [Gold](./gold/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFD700. |
+| [Goldenrod](./goldenrod/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFDAA520. |
+| [Gray](./gray/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF808080. |
+| [Green](./green/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF008000. |
+| [GreenYellow](./greenyellow/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFADFF2F. |
+| [Honeydew](./honeydew/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF0FFF0. |
+| [HotPink](./hotpink/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF69B4. |
+| [IndianRed](./indianred/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFCD5C5C. |
+| [Indigo](./indigo/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF4B0082. |
+| [Ivory](./ivory/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFFFF0. |
+| [Khaki](./khaki/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF0E68C. |
+| [Lavender](./lavender/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFE6E6FA. |
+| [LavenderBlush](./lavenderblush/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFF0F5. |
+| [LawnGreen](./lawngreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF7CFC00. |
+| [LemonChiffon](./lemonchiffon/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFFACD. |
+| [LightBlue](./lightblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFADD8E6. |
+| [LightCoral](./lightcoral/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF08080. |
+| [LightCyan](./lightcyan/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFE0FFFF. |
+| [LightGoldenrodYellow](./lightgoldenrodyellow/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFAFAD2. |
+| [LightGray](./lightgray/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFD3D3D3. |
+| [LightGreen](./lightgreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF90EE90. |
+| [LightPink](./lightpink/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFB6C1. |
+| [LightSalmon](./lightsalmon/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFA07A. |
+| [LightSeaGreen](./lightseagreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF20B2AA. |
+| [LightSkyBlue](./lightskyblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF87CEFA. |
+| [LightSlateGray](./lightslategray/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF778899. |
+| [LightSteelBlue](./lightsteelblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFB0C4DE. |
+| [LightYellow](./lightyellow/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFFFE0. |
+| [Lime](./lime/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF00FF00. |
+| [LimeGreen](./limegreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF32CD32. |
+| [Linen](./linen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFAF0E6. |
+| [Magenta](./magenta/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF00FF. |
+| [Maroon](./maroon/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF800000. |
+| [MediumAquamarine](./mediumaquamarine/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF66CDAA. |
+| [MediumBlue](./mediumblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF0000CD. |
+| [MediumOrchid](./mediumorchid/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFBA55D3. |
+| [MediumPurple](./mediumpurple/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF9370DB. |
+| [MediumSeaGreen](./mediumseagreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF3CB371. |
+| [MediumSlateBlue](./mediumslateblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF7B68EE. |
+| [MediumSpringGreen](./mediumspringgreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF00FA9A. |
+| [MediumTurquoise](./mediumturquoise/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF48D1CC. |
+| [MediumVioletRed](./mediumvioletred/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFC71585. |
+| [MidnightBlue](./midnightblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF191970. |
+| [MintCream](./mintcream/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF5FFFA. |
+| [MistyRose](./mistyrose/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFE4E1. |
+| [Moccasin](./moccasin/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFE4B5. |
+| [NavajoWhite](./navajowhite/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFDEAD. |
+| [Navy](./navy/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF000080. |
+| [OldLace](./oldlace/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFDF5E6. |
+| [Olive](./olive/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF808000. |
+| [OliveDrab](./olivedrab/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF6B8E23. |
+| [Orange](./orange/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFA500. |
+| [OrangeRed](./orangered/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF4500. |
+| [Orchid](./orchid/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFDA70D6. |
+| [PaleGoldenrod](./palegoldenrod/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFEEE8AA. |
+| [PaleGreen](./palegreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF98FB98. |
+| [PaleTurquoise](./paleturquoise/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFAFEEEE. |
+| [PaleVioletRed](./palevioletred/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFDB7093. |
+| [PapayaWhip](./papayawhip/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFEFD5. |
+| [PatternColorSpace](./patterncolorspace/) { get; set; } | Represents a object that indicates the pattern colorspace. |
+| [PeachPuff](./peachpuff/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFDAB9. |
+| [Peru](./peru/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFCD853F. |
+| [Pink](./pink/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFC0CB. |
+| [Plum](./plum/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFDDA0DD. |
+| [PowderBlue](./powderblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFB0E0E6. |
+| [Purple](./purple/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF800080. |
+| [Red](./red/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF0000. |
+| [RosyBrown](./rosybrown/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFBC8F8F. |
+| [RoyalBlue](./royalblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF4169E1. |
+| [SaddleBrown](./saddlebrown/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF8B4513. |
+| [Salmon](./salmon/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFA8072. |
+| [SandyBrown](./sandybrown/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF4A460. |
+| [SeaGreen](./seagreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF2E8B57. |
+| [SeaShell](./seashell/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFF5EE. |
+| [Sienna](./sienna/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFA0522D. |
+| [Silver](./silver/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFC0C0C0. |
+| [SkyBlue](./skyblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF87CEEB. |
+| [SlateBlue](./slateblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF6A5ACD. |
+| [SlateGray](./slategray/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF708090. |
+| [Snow](./snow/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFFAFA. |
+| [SpringGreen](./springgreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF00FF7F. |
+| [SteelBlue](./steelblue/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF4682B4. |
+| [Tan](./tan/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFD2B48C. |
+| [Teal](./teal/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF008080. |
+| [Thistle](./thistle/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFD8BFD8. |
+| [Tomato](./tomato/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFF6347. |
+| [Transparent](./transparent/) { get; } | Gets a system-defined color. |
+| [Turquoise](./turquoise/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF40E0D0. |
+| [Violet](./violet/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFEE82EE. |
+| [Wheat](./wheat/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF5DEB3. |
+| [White](./white/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFFFFF. |
+| [WhiteSmoke](./whitesmoke/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFF5F5F5. |
+| [Yellow](./yellow/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FFFFFF00. |
+| [YellowGreen](./yellowgreen/) { get; } | Gets a system-defined color that has an ARGB value of \c \#FF9ACD32. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [FromArgb](../../aspose.pdf/color/fromargb/#fromargb)(int, int, int) | Gets valid pdf Color object from RGB color components. |
-| static [FromArgb](../../aspose.pdf/color/fromargb/#fromargb_1)(int, int, int, int) | Gets valid pdf Color object from RGB color components. |
-| static [FromCmyk](../../aspose.pdf/color/fromcmyk/)(double, double, double, double) | Gets valid pdf Color object from CMYK color components. |
-| static [FromGray](../../aspose.pdf/color/fromgray/)(double) | Gets valid pdf Color object from Gray color component. |
-| static [FromRgb](../../aspose.pdf/color/fromrgb/#fromrgb_1)(Color) | Gets valid pdf Color object from System.Drawing.Color value. |
-| static [FromRgb](../../aspose.pdf/color/fromrgb/#fromrgb)(double, double, double) | Gets valid pdf Color object from RGB color components. |
-| static [Parse](../../aspose.pdf/color/parse/)(string) | Extracts color components from the string. |
-| override [Equals](../../aspose.pdf/color/equals/)(object) | Returns true if two Colors are equal. |
-| [ToRgb](../../aspose.pdf/color/torgb/)() | Converts color into rgb. |
-| override [ToString](../../aspose.pdf/color/tostring/)() | Converts to string. |
-| [operator ==](../../aspose.pdf/color/op_equality/) | Returns true if two Colors are equal. |
-| [operator !=](../../aspose.pdf/color/op_inequality/) | Returns true if two Colors are not equal. |
+| [Equals](./equals/)(*object*) | Returns true if two Colors are equal. |
+| [FromArgb](./fromargb/)(*int, int, int*) | Gets valid pdf Color object from RGB color components. |
+| [FromArgb](./fromargb/)(*int, int, int, int*) | Gets valid pdf Color object from RGB color components. |
+| [FromCmyk](./fromcmyk/)(*double, double, double, double*) | Gets valid pdf Color object from CMYK color components. |
+| [FromGray](./fromgray/)(*double*) | Gets valid pdf Color object from Gray color component. |
+| [FromRgb](./fromrgb/)(*Color*) | Gets valid pdf Color object from System.Drawing.Color value. |
+| [FromRgb](./fromrgb/)(*double, double, double*) | Gets valid pdf Color object from RGB color components. |
+| [Parse](./parse/)(*string*) | Extracts color components from the string. |
+| [ToRgb](./torgb/) | Converts color into rgb. |
+| [ToString](./tostring/) | Converts to string. |
+| [op_Equality](./op_equality/)(*Color, Color*) | Returns true if two Colors are equal. |
+| [op_Inequality](./op_inequality/)(*Color, Color*) | Returns true if two Colors are not equal. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| static [Empty](../../aspose.pdf/color/empty/) | Represents empty color. |
+| static [Empty](./empty/) | Represents empty color. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

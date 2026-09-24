@@ -1,14 +1,17 @@
 ---
-title: DocConverter.DocConverter
-second_title: Aspose.PDF for .NET API Reference
-description: DocConverter constructor. The default constructor
+title: "DocConverter.DocConverter"
+linktitle: "DocConverter"
+articleTitle: "DocConverter"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the DocConverter class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/docconverter/docconverter/
+url: "/net/aspose.pdf.lowcode/docconverter/docconverter/"
+product_version: "26.9.0"
 ---
-## DocConverter constructor
+## DocConverter() {#constructor}
 
-The default constructor.
+Initializes a new instance of the DocConverter class.
 
 ```csharp
 public DocConverter()
@@ -16,8 +19,7 @@ public DocConverter()
 
 ### See Also
 
-* class [DocConverter](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocConverter](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

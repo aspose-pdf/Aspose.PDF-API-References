@@ -1,10 +1,13 @@
 ---
-title: MarkdownSaveOptions.HeadingRecognitionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: MarkdownSaveOptions property. Gets or sets the heading recognition strategy
+title: "MarkdownSaveOptions.HeadingRecognitionStrategy"
+linktitle: "HeadingRecognitionStrategy"
+articleTitle: "HeadingRecognitionStrategy"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the heading recognition strategy."
 type: docs
-weight: 60
-url: /net/aspose.pdf/markdownsaveoptions/headingrecognitionstrategy/
+weight: 110
+url: "/net/aspose.pdf/markdownsaveoptions/headingrecognitionstrategy/"
+product_version: "26.9.0"
 ---
 ## MarkdownSaveOptions.HeadingRecognitionStrategy property
 
@@ -14,11 +17,14 @@ Gets or sets the heading recognition strategy.
 public HeadingRecognitionStrategy HeadingRecognitionStrategy { get; set; }
 ```
 
+### Property Value
+
+[HeadingRecognitionStrategy](../../../aspose.pdf/headingrecognitionstrategy/)
+
 ### See Also
 
-* enum [HeadingRecognitionStrategy](../../headingrecognitionstrategy/)
-* class [MarkdownSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HeadingRecognitionStrategy](../../../aspose.pdf/headingrecognitionstrategy/)
+* class [MarkdownSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

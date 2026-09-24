@@ -1,12 +1,15 @@
 ---
-title: PdfContentEditor.MoveStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Changes position of the stamp on page
+title: "PdfContentEditor.MoveStamp"
+linktitle: "MoveStamp"
+articleTitle: "MoveStamp"
+second_title: "Aspose.PDF for .NET"
+description: "Changes position of the stamp on page."
 type: docs
-weight: 410
-url: /net/aspose.pdf.facades/pdfcontenteditor/movestamp/
+weight: 600
+url: "/net/aspose.pdf.facades/pdfcontenteditor/movestamp/"
+product_version: "26.9.0"
 ---
-## PdfContentEditor.MoveStamp method
+## MoveStamp(int, int, double, double) {#movestamp}
 
 Changes position of the stamp on page.
 
@@ -16,15 +19,14 @@ public void MoveStamp(int pageNumber, int stampIndex, double x, double y)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | Int32 | Number of page. |
-| stampIndex | Int32 | Index of stamp on the page. |
-| x | Double | New stamp horizontal position. |
-| y | Double | New stamp vertical position. |
+| pageNumber | int | Number of page. |
+| stampIndex | int | Index of stamp on the page. |
+| x | double | New stamp horizontal position. |
+| y | double | New stamp vertical position. |
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

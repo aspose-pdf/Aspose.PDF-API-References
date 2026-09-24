@@ -1,10 +1,13 @@
 ---
-title: ITaggedContent.CreateHeaderElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent method. Creates HeaderElement
+title: "ITaggedContent.CreateHeaderElement"
+linktitle: "CreateHeaderElement"
+articleTitle: "CreateHeaderElement"
+second_title: "Aspose.PDF for .NET"
+description: "Creates ."
 type: docs
-weight: 140
-url: /net/aspose.pdf.tagged/itaggedcontent/createheaderelement/
+weight: 150
+url: "/net/aspose.pdf.tagged/itaggedcontent/createheaderelement/"
+product_version: "26.9.0"
 ---
 ## CreateHeaderElement() {#createheaderelement}
 
@@ -16,14 +19,16 @@ public HeaderElement CreateHeaderElement()
 
 ### Return Value
 
+[HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
+
 Created structure element.
 
 ### See Also
 
-* class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
-* interface [ITaggedContent](../)
-* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* assembly [Aspose.PDF](../../../)
+* class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,17 +42,18 @@ public HeaderElement CreateHeaderElement(int level)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| level | Int32 | The level of Header. Must be 1, 2, 3, 4, 5 or 6. |
+| level | int | The level of Header. Must be 1, 2, 3, 4, 5 or 6. |
 
 ### Return Value
+
+[HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
 
 Created structure element.
 
 ### See Also
 
-* class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
-* interface [ITaggedContent](../)
-* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
 

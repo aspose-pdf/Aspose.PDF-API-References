@@ -1,31 +1,33 @@
 ---
-title: BoundsCheckableList1.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList method. Removes the first occurrence of a specific object from the System.Collections.Generic.List
+title: "BoundsCheckableList<T>.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 120
-url: /net/aspose.pdf/boundscheckablelist-1/remove/
+weight: 80
+url: "/net/aspose.pdf/boundscheckablelist-1/remove/"
+product_version: "26.9.0"
 ---
-## BoundsCheckableList&lt;T&gt;.Remove method
+## Remove(T0) {#remove}
 
-Removes the first occurrence of a specific object from the System.Collections.Generic.List.
+
 
 ```csharp
-public bool Remove(T item)
+public bool Remove(T0 item)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | T | The object to remove from the System.Collections.Generic.List. The value can be null for reference types. |
+| item | T0 |  |
 
 ### Return Value
 
-true if *item* is successfully removed; otherwise, false. This method also returns false if *item* was not found in the System.Collections.Generic.List.
+bool
 
 ### See Also
 
-* class [BoundsCheckableList&lt;T&gt;](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BoundsCheckableList<T>](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

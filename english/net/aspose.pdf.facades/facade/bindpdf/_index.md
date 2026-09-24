@@ -1,28 +1,31 @@
 ---
-title: Facade.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Facade method. Initializes the facade
+title: "Facade.BindPdf"
+linktitle: "BindPdf"
+articleTitle: "BindPdf"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes the facade."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/facade/bindpdf/
+weight: 30
+url: "/net/aspose.pdf.facades/facade/bindpdf/"
+product_version: "26.9.0"
 ---
-## BindPdf(string) {#bindpdf_2}
+## BindPdf(string) {#bindpdf}
 
 Initializes the facade.
 
 ```csharp
-public virtual void BindPdf(string srcFile)
+public void BindPdf(string srcFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFile | String | The PDF file. |
+| srcFile | string | The PDF file. |
 
 ### See Also
 
-* class [Facade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -31,7 +34,7 @@ public virtual void BindPdf(string srcFile)
 Initializes the facade.
 
 ```csharp
-public virtual void BindPdf(Stream srcStream)
+public void BindPdf(Stream srcStream)
 ```
 
 | Parameter | Type | Description |
@@ -40,18 +43,18 @@ public virtual void BindPdf(Stream srcStream)
 
 ### See Also
 
-* class [Facade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BindPdf(Document) {#bindpdf}
+## BindPdf([Document](../../../aspose.pdf/document/)) {#bindpdf_2}
 
 Initializes the facade.
 
 ```csharp
-public virtual void BindPdf(Document srcDoc)
+public void BindPdf(Document srcDoc)
 ```
 
 | Parameter | Type | Description |
@@ -60,9 +63,93 @@ public virtual void BindPdf(Document srcDoc)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [Facade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## BindPdf(string, string) {#bindpdf_3}
+
+Initializes the facade.
+
+```csharp
+protected void BindPdf(string srcFile, string password)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcFile | string | The PDF file. |
+| password | string | The password of the PDF document. |
+
+### See Also
+
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## BindPdf(Stream, string) {#bindpdf_4}
+
+Initializes the facade.
+
+```csharp
+protected void BindPdf(Stream srcStream, string password)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcStream | Stream | The stream of PDF file. |
+| password | string | The password of the PDF document. |
+
+### See Also
+
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## BindPdf(string, string, [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)) {#bindpdf_5}
+
+Initializes the facade.
+
+```csharp
+protected void BindPdf(string srcFile, string password, ICustomSecurityHandler customSecurityHandler)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcFile | string | The PDF file. |
+| password | string | The password of the PDF document. |
+| customSecurityHandler | ICustomSecurityHandler | The custom security handler. |
+
+### See Also
+
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## BindPdf(Stream, string, [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)) {#bindpdf_6}
+
+Initializes the facade.
+
+```csharp
+protected void BindPdf(Stream srcStream, string password, ICustomSecurityHandler customSecurityHandler)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcStream | Stream | The stream of PDF file. |
+| password | string | The password of the PDF document. |
+| customSecurityHandler | ICustomSecurityHandler | The custom security handler. |
+
+### See Also
+
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

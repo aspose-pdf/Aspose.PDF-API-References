@@ -1,47 +1,47 @@
 ---
-title: Matrix.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix method. Creates matrix for given rotation angle
+title: "Matrix.Rotation"
+linktitle: "Rotation"
+articleTitle: "Rotation"
+second_title: "Aspose.PDF for .NET"
+description: "Creates matrix for given rotation angle."
 type: docs
-weight: 20
-url: /net/aspose.pdf/matrix/rotation/
+weight: 80
+url: "/net/aspose.pdf/matrix/rotation/"
+product_version: "26.9.0"
 ---
-## Rotation(double) {#rotation_1}
+## Rotation(double) {#rotation}
 
 Creates matrix for given rotation angle.
 
 ```csharp
-public static Matrix Rotation(double alpha)
+public Matrix Rotation(double alpha)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| alpha | Double | Rotation angle in radians. |
+| alpha | double | Rotation angle in radians. |
 
 ### Return Value
 
+[Matrix](../../../aspose.pdf/matrix/)
+
 Transformation matrix.
-
-## Examples
-
-```csharp
-Matrix m = Matrix.Rotation(Math.PI / 2);
-```
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Rotation(Rotation) {#rotation}
+## Rotation([Rotation](../../../aspose.pdf/rotation/)) {#rotation_1}
 
 Creates matrix for given rotation.
 
 ```csharp
-public static Matrix Rotation(Rotation rotation)
+public Matrix Rotation(Rotation rotation)
 ```
 
 | Parameter | Type | Description |
@@ -50,13 +50,14 @@ public static Matrix Rotation(Rotation rotation)
 
 ### Return Value
 
+[Matrix](../../../aspose.pdf/matrix/)
+
 Matrix with rotation.
 
 ### See Also
 
-* enum [Rotation](../../rotation/)
-* class [Matrix](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

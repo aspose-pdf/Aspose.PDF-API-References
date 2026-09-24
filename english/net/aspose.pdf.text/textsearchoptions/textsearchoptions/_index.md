@@ -1,14 +1,18 @@
 ---
-title: TextSearchOptions.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextSearchOptions constructor. Initializes new instance of the TextSearchOptions object. Specifies regular expression usage mode
+title: "TextSearchOptions.TextSearchOptions"
+linktitle: "TextSearchOptions"
+articleTitle: "TextSearchOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the TextSearchOptions class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.text/textsearchoptions/textsearchoptions/
+url: "/net/aspose.pdf.text/textsearchoptions/textsearchoptions/"
+product_version: "26.9.0"
 ---
-## TextSearchOptions(bool) {#constructor_2}
+## TextSearchOptions(bool) {#constructor}
 
-Initializes new instance of the [`TextSearchOptions`](../) object. Specifies regular expression usage mode.
+Initializes new instance of the [`TextSearchOptions`](../../../aspose.pdf.text/textsearchoptions/) object.
+ Specifies regular expression usage mode.
 
 ```csharp
 public TextSearchOptions(bool isRegularExpressionUsed)
@@ -16,19 +20,20 @@ public TextSearchOptions(bool isRegularExpressionUsed)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| isRegularExpressionUsed | Boolean | Value that indicates that regularexpression is used. |
+| isRegularExpressionUsed | bool | Value that indicates that regularexpression is used. |
 
 ### See Also
 
-* class [TextSearchOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextSearchOptions(Rectangle) {#constructor}
+## TextSearchOptions([Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
 
-Initializes new instance of the [`TextSearchOptions`](../) object. Specifies rectangle that delimits the searched text.
+Initializes new instance of the [`TextSearchOptions`](../../../aspose.pdf.text/textsearchoptions/) object.
+ Specifies rectangle that delimits the searched text.
 
 ```csharp
 public TextSearchOptions(Rectangle rectangle)
@@ -40,16 +45,16 @@ public TextSearchOptions(Rectangle rectangle)
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [TextSearchOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextSearchOptions(Rectangle, bool) {#constructor_1}
+## TextSearchOptions([Rectangle](../../../aspose.pdf.drawing/rectangle/), bool) {#constructor_2}
 
-Initializes new instance of the [`TextSearchOptions`](../) object. Specifies rectangle that delimits the searched text and regular expression usage mode.
+Initializes new instance of the [`TextSearchOptions`](../../../aspose.pdf.text/textsearchoptions/) object.
+ Specifies rectangle that delimits the searched text and regular expression usage mode.
 
 ```csharp
 public TextSearchOptions(Rectangle rectangle, bool isRegularExpressionUsed)
@@ -58,13 +63,11 @@ public TextSearchOptions(Rectangle rectangle, bool isRegularExpressionUsed)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rectangle | Rectangle | Rectangle that includes the extracted text. |
-| isRegularExpressionUsed | Boolean | Value that indicates that regularexpression is used. |
+| isRegularExpressionUsed | bool | Value that indicates that regularexpression is used. |
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [TextSearchOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Cell.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Cell property. Gets or sets the vertical alignment
+title: "Cell.VerticalAlignment"
+linktitle: "VerticalAlignment"
+articleTitle: "VerticalAlignment"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the vertical alignment."
 type: docs
-weight: 140
-url: /net/aspose.pdf/cell/verticalalignment/
+weight: 150
+url: "/net/aspose.pdf/cell/verticalalignment/"
+product_version: "26.9.0"
 ---
 ## Cell.VerticalAlignment property
 
@@ -14,11 +17,14 @@ Gets or sets the vertical alignment.
 public VerticalAlignment VerticalAlignment { get; set; }
 ```
 
+### Property Value
+
+[VerticalAlignment](../../../aspose.pdf/verticalalignment/)
+
 ### See Also
 
-* enum [VerticalAlignment](../../verticalalignment/)
-* class [Cell](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

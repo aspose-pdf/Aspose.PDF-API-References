@@ -1,14 +1,17 @@
 ---
-title: TextResponse.TextResponse
-second_title: Aspose.PDF for .NET API Reference
-description: TextResponse constructor. The default constructor
+title: "TextResponse.TextResponse"
+linktitle: "TextResponse"
+articleTitle: "TextResponse"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the TextResponse class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/textresponse/textresponse/
+url: "/net/aspose.pdf.ai/textresponse/textresponse/"
+product_version: "26.9.0"
 ---
-## TextResponse constructor
+## TextResponse() {#constructor}
 
-The default constructor.
+Initializes a new instance of the TextResponse class.
 
 ```csharp
 public TextResponse()
@@ -16,8 +19,7 @@ public TextResponse()
 
 ### See Also
 
-* class [TextResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

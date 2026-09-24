@@ -1,12 +1,15 @@
 ---
-title: Page.SendTo
-second_title: Aspose.PDF for .NET API Reference
-description: Page method. Sends page to process with given page device
+title: "Page.SendTo"
+linktitle: "SendTo"
+articleTitle: "SendTo"
+second_title: "Aspose.PDF for .NET"
+description: "Sends page to process with given page device."
 type: docs
-weight: 530
-url: /net/aspose.pdf/page/sendto/
+weight: 120
+url: "/net/aspose.pdf/page/sendto/"
+product_version: "26.9.0"
 ---
-## SendTo(PageDevice, Stream) {#sendto}
+## SendTo([PageDevice](../../../aspose.pdf.devices/pagedevice/), Stream) {#sendto}
 
 Sends page to process with given page device.
 
@@ -21,14 +24,13 @@ public void SendTo(PageDevice device, Stream output)
 
 ### See Also
 
-* class [PageDevice](../../../aspose.pdf.devices/pagedevice/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SendTo(PageDevice, string) {#sendto_1}
+## SendTo([PageDevice](../../../aspose.pdf.devices/pagedevice/), string) {#sendto_1}
 
 Sends page to process with given page device.
 
@@ -39,13 +41,11 @@ public void SendTo(PageDevice device, string outputFileName)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | device | PageDevice | The device to process page. |
-| outputFileName | String | File which is used with device to save its output. |
+| outputFileName | string | File which is used with device to save its output. |
 
 ### See Also
 
-* class [PageDevice](../../../aspose.pdf.devices/pagedevice/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

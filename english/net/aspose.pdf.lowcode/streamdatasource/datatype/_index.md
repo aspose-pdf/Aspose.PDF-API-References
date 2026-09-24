@@ -1,10 +1,13 @@
 ---
-title: StreamDataSource.DataType
-second_title: Aspose.PDF for .NET API Reference
-description: StreamDataSource property. Type of data source stream
+title: "StreamDataSource.DataType"
+linktitle: "DataType"
+articleTitle: "DataType"
+second_title: "Aspose.PDF for .NET"
+description: "Type of data source (stream)."
 type: docs
-weight: 30
-url: /net/aspose.pdf.lowcode/streamdatasource/datatype/
+weight: 20
+url: "/net/aspose.pdf.lowcode/streamdatasource/datatype/"
+product_version: "26.9.0"
 ---
 ## StreamDataSource.DataType property
 
@@ -14,11 +17,14 @@ Type of data source (stream).
 public DataType DataType { get; }
 ```
 
+### Property Value
+
+[DataType](../../../aspose.pdf.lowcode/datatype/)
+
 ### See Also
 
-* enum [DataType](../../datatype/)
-* class [StreamDataSource](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DataType](../../../aspose.pdf.lowcode/datatype/)
+* class [StreamDataSource](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

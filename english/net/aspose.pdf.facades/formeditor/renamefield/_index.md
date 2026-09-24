@@ -1,12 +1,15 @@
 ---
-title: FormEditor.RenameField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Change name of the field
+title: "FormEditor.RenameField"
+linktitle: "RenameField"
+articleTitle: "RenameField"
+second_title: "Aspose.PDF for .NET"
+description: "Change name of the field."
 type: docs
-weight: 230
-url: /net/aspose.pdf.facades/formeditor/renamefield/
+weight: 290
+url: "/net/aspose.pdf.facades/formeditor/renamefield/"
+product_version: "26.9.0"
 ---
-## FormEditor.RenameField method
+## RenameField(string, string) {#renamefield}
 
 Change name of the field.
 
@@ -16,20 +19,12 @@ public void RenameField(string fieldName, string newFieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | String | Old name of the field. |
-| newFieldName | String | New name of the field. |
-
-## Examples
-
-```csharp
-FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
-formEditor.RenameField("textField", "textField_Renamed");
-```
+| fieldName | string | Old name of the field. |
+| newFieldName | string | New name of the field. |
 
 ### See Also
 
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

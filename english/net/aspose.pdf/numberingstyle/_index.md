@@ -1,10 +1,13 @@
 ---
-title: Enum NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.NumberingStyle enum. Enumeration of supported page numbering style for PageLabel class
+title: "NumberingStyle Enum"
+linktitle: "NumberingStyle"
+articleTitle: "NumberingStyle"
+second_title: "Aspose.PDF for .NET"
+description: "Enumeration of supported page numbering style for PageLabel class."
 type: docs
-weight: 8260
-url: /net/aspose.pdf/numberingstyle/
+weight: 1970
+url: "/net/aspose.pdf/numberingstyle/"
+product_version: "26.9.0"
 ---
 ## NumberingStyle enumeration
 
@@ -14,10 +17,10 @@ Enumeration of supported page numbering style for PageLabel class.
 public enum NumberingStyle
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | NumeralsArabic | `0` | Arabic decimal numbers. |
 | NumeralsRomanUppercase | `1` | Uppercase roman numbers (I, II, III...). |
 | NumeralsRomanLowercase | `2` | Lowercase roman numbers (i, ii, iii...). |
@@ -27,7 +30,6 @@ public enum NumberingStyle
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

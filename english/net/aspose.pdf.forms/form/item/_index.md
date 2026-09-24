@@ -1,57 +1,30 @@
 ---
-title: Form.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Form property. Gets field of the form by field name. Throws excpetion if the field was not found
+title: "Form.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 120
-url: /net/aspose.pdf.forms/form/item/
+weight: 350
+url: "/net/aspose.pdf.forms/form/item/"
+product_version: "26.9.0"
 ---
-## Form indexer (1 of 2)
+## Form.Item property
 
-Gets field of the form by field name. Throws excpetion if the field was not found.
+
 
 ```csharp
-public WidgetAnnotation this[string name] { get; }
+public WidgetAnnotation Item { get; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| name | Name of the field. |
+### Property Value
 
-### Return Value
-
-Retreived field.
+[WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
 
 ### See Also
 
-* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Form indexer (2 of 2)
-
-Gets field of the form by field index.
-
-```csharp
-public WidgetAnnotation this[int index] { get; }
-```
-
-| Parameter | Description |
-| --- | --- |
-| index | Index of the field. |
-
-### Return Value
-
-Retreived field.
-
-### See Also
-
-* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

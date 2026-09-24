@@ -1,12 +1,15 @@
 ---
-title: Form.FlattenAllFields
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Flattens all the fields
+title: "Form.FlattenAllFields"
+linktitle: "FlattenAllFields"
+articleTitle: "FlattenAllFields"
+second_title: "Aspose.PDF for .NET"
+description: "Flattens all the fields."
 type: docs
-weight: 160
-url: /net/aspose.pdf.facades/form/flattenallfields/
+weight: 270
+url: "/net/aspose.pdf.facades/form/flattenallfields/"
+product_version: "26.9.0"
 ---
-## Form.FlattenAllFields method
+## FlattenAllFields() {#flattenallfields}
 
 Flattens all the fields.
 
@@ -14,17 +17,9 @@ Flattens all the fields.
 public void FlattenAllFields()
 ```
 
-## Examples
-
-```csharp
-Form form = new Form("PdfForm.pdf");
-form.FlattenAllFields();
-```
-
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

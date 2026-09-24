@@ -1,33 +1,35 @@
 ---
-title: TeXMemoryOutputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: TeXMemoryOutputDirectory method. Returns the stream to read from
+title: "TeXMemoryOutputDirectory.GetFile"
+linktitle: "GetFile"
+articleTitle: "GetFile"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 30
-url: /net/aspose.pdf/texmemoryoutputdirectory/getfile/
+weight: 20
+url: "/net/aspose.pdf/texmemoryoutputdirectory/getfile/"
+product_version: "26.9.0"
 ---
-## TeXMemoryOutputDirectory.GetFile method
+## GetFile(string, string, bool) {#getfile}
 
-Returns the stream to read from.
+
 
 ```csharp
-public Stream GetFile(string fileName, out string fullName, bool searchSubdirectories = false)
+public Stream GetFile(string fileName, string fullName, bool searchSubdirectories)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | String | The file name. |
-| fullName | String& | The full file name. |
-| searchSubdirectories | Boolean | Indicates whether to look for a file in subdirectories. In this implementation has no effect. |
+| fileName | string |  |
+| fullName | string |  |
+| searchSubdirectories | bool |  |
 
 ### Return Value
 
-The stream.
+[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
 
 ### See Also
 
-* class [TeXMemoryOutputDirectory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TeXMemoryOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

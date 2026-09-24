@@ -1,28 +1,31 @@
 ---
-title: PdfFileSecurity.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity method. Initializes the facade
+title: "PdfFileSecurity.BindPdf"
+linktitle: "BindPdf"
+articleTitle: "BindPdf"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes the facade."
 type: docs
-weight: 30
-url: /net/aspose.pdf.facades/pdffilesecurity/bindpdf/
+weight: 210
+url: "/net/aspose.pdf.facades/pdffilesecurity/bindpdf/"
+product_version: "26.9.0"
 ---
-## BindPdf(string) {#bindpdf_2}
+## BindPdf(string) {#bindpdf}
 
 Initializes the facade.
 
 ```csharp
-public override void BindPdf(string srcFile)
+public void BindPdf(string srcFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFile | String | The PDF file. |
+| srcFile | string | The PDF file. |
 
 ### See Also
 
-* class [PdfFileSecurity](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -31,7 +34,7 @@ public override void BindPdf(string srcFile)
 Initializes the facade.
 
 ```csharp
-public override void BindPdf(Stream srcStream)
+public void BindPdf(Stream srcStream)
 ```
 
 | Parameter | Type | Description |
@@ -40,8 +43,7 @@ public override void BindPdf(Stream srcStream)
 
 ### See Also
 
-* class [PdfFileSecurity](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

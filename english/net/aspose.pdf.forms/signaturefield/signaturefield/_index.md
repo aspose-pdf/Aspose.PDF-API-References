@@ -1,14 +1,17 @@
 ---
-title: SignatureField.SignatureField
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureField constructor. Initializes new instance of the SignatureField class
+title: "SignatureField.SignatureField"
+linktitle: "SignatureField"
+articleTitle: "SignatureField"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the SignatureField class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.forms/signaturefield/signaturefield/
+url: "/net/aspose.pdf.forms/signaturefield/signaturefield/"
+product_version: "26.9.0"
 ---
-## SignatureField(Page, Rectangle) {#constructor_1}
+## SignatureField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
 
-Initializes new instance of the [`SignatureField`](../) class.
+Initializes new instance of the [`SignatureField`](../../../aspose.pdf.forms/signaturefield/) class.
 
 ```csharp
 public SignatureField(Page page, Rectangle rect)
@@ -21,17 +24,15 @@ public SignatureField(Page page, Rectangle rect)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [SignatureField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SignatureField(Document, Rectangle) {#constructor}
+## SignatureField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
 
-Initializes new instance of the [`SignatureField`](../) class.
+Initializes new instance of the [`SignatureField`](../../../aspose.pdf.forms/signaturefield/) class.
 
 ```csharp
 public SignatureField(Document doc, Rectangle rect)
@@ -44,10 +45,7 @@ public SignatureField(Document doc, Rectangle rect)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [SignatureField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

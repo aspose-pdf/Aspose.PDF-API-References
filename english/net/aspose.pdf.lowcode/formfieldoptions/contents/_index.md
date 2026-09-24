@@ -1,10 +1,13 @@
 ---
-title: FormFieldOptions.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions property. Gets/sets the value to determine property Contents for created/modified field if will be set
+title: "FormFieldOptions.Contents"
+linktitle: "Contents"
+articleTitle: "Contents"
+second_title: "Aspose.PDF for .NET"
+description: "Gets/sets the value to determine property Contents for created/modified field (if will be set)."
 type: docs
-weight: 30
-url: /net/aspose.pdf.lowcode/formfieldoptions/contents/
+weight: 50
+url: "/net/aspose.pdf.lowcode/formfieldoptions/contents/"
+product_version: "26.9.0"
 ---
 ## FormFieldOptions.Contents property
 
@@ -14,10 +17,13 @@ Gets/sets the value to determine property Contents for created/modified field (i
 public string Contents { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [FormFieldOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

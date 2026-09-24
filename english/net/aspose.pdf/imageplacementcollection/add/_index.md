@@ -1,12 +1,15 @@
 ---
-title: ImagePlacementCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection method. Adds the text fragment element at the specified index
+title: "ImagePlacementCollection.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: "Adds the text fragment element at the specified index."
 type: docs
-weight: 60
-url: /net/aspose.pdf/imageplacementcollection/add/
+weight: 10
+url: "/net/aspose.pdf/imageplacementcollection/add/"
+product_version: "26.9.0"
 ---
-## ImagePlacementCollection.Add method
+## Add([ImagePlacement](../../../aspose.pdf/imageplacement/)) {#add}
 
 Adds the text fragment element at the specified index.
 
@@ -20,9 +23,7 @@ public void Add(ImagePlacement fragment)
 
 ### See Also
 
-* class [ImagePlacement](../../imageplacement/)
-* class [ImagePlacementCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

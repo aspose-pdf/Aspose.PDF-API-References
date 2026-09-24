@@ -1,10 +1,13 @@
 ---
-title: Enum LineJoin
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.LineJoin enum. The line join style shall specify the shape to be used at the corners of paths that are stroked
+title: "LineJoin Enum"
+linktitle: "LineJoin"
+articleTitle: "LineJoin"
+second_title: "Aspose.PDF for .NET"
+description: "The line join style shall specify the shape to be used at the corners of paths that are stroked."
 type: docs
-weight: 8710
-url: /net/aspose.pdf.operators/linejoin/
+weight: 370
+url: "/net/aspose.pdf.operators/linejoin/"
+product_version: "26.9.0"
 ---
 ## LineJoin enumeration
 
@@ -14,17 +17,21 @@ The line join style shall specify the shape to be used at the corners of paths t
 public enum LineJoin
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
-| MiterJoin | `0` | Miter join. The outer edges of the strokes for the two segments shall be extended until they meet at an angle, as in a picture frame. If the segments meet at too sharp an angle as defined by the miter limit parameter (see 8.4.3.5, "Miter Limit"), a bevel join shall be used instead. |
-| RoundJoin | `1` | Round join. An arc of a circle with a diameter equal to the line width shall be drawn around the point where the two segments meet, connecting the outer edges of the strokes for the two segments. This pieslice-shaped figure shall be filled in, producing a rounded corner. |
-| BevelJoin | `2` | Bevel join. The two segments shall be finished with butt caps (see 8.4.3.3, "Line Cap Style") and the resulting notch beyond the ends of the segments shall be filled with a triangle. |
+| --- | :---: | --- |
+| MiterJoin | `0` | Miter join. The outer edges of the strokes for the two segments shall be extended until they meet at an angle, as in a 
+ picture frame. If the segments meet at too sharp an angle as defined by the miter limit parameter (see 8.4.3.5, "Miter Limit"), 
+ a bevel join shall be used instead. |
+| RoundJoin | `1` | Round join. An arc of a circle with a diameter equal to the line width shall be drawn around the point where the two 
+ segments meet, connecting the outer edges of the strokes for the two segments. This pieslice-shaped figure shall be filled 
+ in, producing a rounded corner. |
+| BevelJoin | `2` | Bevel join. The two segments shall be finished with butt caps (see 8.4.3.3, "Line Cap Style") and the resulting notch 
+ beyond the ends of the segments shall be filled with a triangle. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
 

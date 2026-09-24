@@ -1,41 +1,41 @@
 ---
-title: PageCollectionExtensions.AddBatesNumbering
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollectionExtensions method. Adds Bates numbering to each page in the given page collection using the specified action to configure the BatesNArtifact
+title: "PageCollectionExtensions.AddBatesNumbering"
+linktitle: "AddBatesNumbering"
+articleTitle: "AddBatesNumbering"
+second_title: "Aspose.PDF for .NET"
+description: "Adds Bates numbering to each page in the given page collection using the specified action to configure the BatesNArtifact."
 type: docs
-weight: 10
-url: /net/aspose.pdf/pagecollectionextensions/addbatesnumbering/
+weight: 30
+url: "/net/aspose.pdf/pagecollectionextensions/addbatesnumbering/"
+product_version: "26.9.0"
 ---
-## AddBatesNumbering(this PageCollection, Action&lt;BatesNArtifact&gt;) {#addbatesnumbering_1}
+## AddBatesNumbering([PageCollection](../../../aspose.pdf/pagecollection/), Action<BatesNArtifact>) {#addbatesnumbering}
 
 Adds Bates numbering to each page in the given page collection using the specified action to configure the BatesNArtifact.
 
 ```csharp
-public static void AddBatesNumbering(this PageCollection pageCollection, 
-    Action<BatesNArtifact> action)
+public void AddBatesNumbering(PageCollection pageCollection, Action<BatesNArtifact> action)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageCollection | PageCollection | The collection of pages to which the Bates numbering will be added. |
-| action | Action`1 | An action to configure the BatesNArtifact before adding it to each page. |
+| action | Action<BatesNArtifact> | An action to configure the BatesNArtifact before adding it to each page. |
 
 ### See Also
 
-* class [PageCollection](../../pagecollection/)
-* class [BatesNArtifact](../../batesnartifact/)
-* class [PageCollectionExtensions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PageCollectionExtensions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddBatesNumbering(this PageCollection, BatesNArtifact) {#addbatesnumbering}
+## AddBatesNumbering([PageCollection](../../../aspose.pdf/pagecollection/), [BatesNArtifact](../../../aspose.pdf/batesnartifact/)) {#addbatesnumbering_1}
 
 Adds the specified Bates numbering artifact to each page in the given page collection.
 
 ```csharp
-public static void AddBatesNumbering(this PageCollection pageCollection, BatesNArtifact artifact)
+public void AddBatesNumbering(PageCollection pageCollection, BatesNArtifact artifact)
 ```
 
 | Parameter | Type | Description |
@@ -45,10 +45,7 @@ public static void AddBatesNumbering(this PageCollection pageCollection, BatesNA
 
 ### See Also
 
-* class [PageCollection](../../pagecollection/)
-* class [BatesNArtifact](../../batesnartifact/)
-* class [PageCollectionExtensions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageCollectionExtensions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

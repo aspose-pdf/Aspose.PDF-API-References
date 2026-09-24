@@ -1,30 +1,35 @@
 ---
-title: Enum Symbology
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.Symbology enum. A Barcode Symbology defines the technical details of a particular type of barcode the width of the bars character set method of encoding checksum specifications etc
+title: "Symbology Enum"
+linktitle: "Symbology"
+articleTitle: "Symbology"
+second_title: "Aspose.PDF for .NET"
+description: "A (Barcode) Symbology defines the technical details of a particular type of barcode: the width of the bars, character set, method of encoding, checksum speci..."
 type: docs
-weight: 5490
-url: /net/aspose.pdf.forms/symbology/
+weight: 380
+url: "/net/aspose.pdf.forms/symbology/"
+product_version: "26.9.0"
 ---
 ## Symbology enumeration
 
-A (Barcode) Symbology defines the technical details of a particular type of barcode: the width of the bars, character set, method of encoding, checksum specifications, etc.
+A (Barcode) Symbology defines the technical details of a particular type of barcode:
+ the width of the bars, character set, method of encoding, checksum specifications, etc.
 
 ```csharp
 public enum Symbology
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | PDF417 | `0` | A multi-row, variable-length 2D symbology with high data capacity and error-correction capability. |
-| QRCode | `1` | QR code (short for Quick Response) is a specific matrix barcode (2D code), readable by dedicated QR barcode readers and camera phones. |
-| DataMatrix | `2` | A 2D matrix symbology consisting of black and white square modules arranged in either a square or rectangular pattern. |
+| QRCode | `1` | QR code (short for Quick Response) is a specific matrix barcode (2D code), 
+ readable by dedicated QR barcode readers and camera phones. |
+| DataMatrix | `2` | A 2D matrix symbology consisting of black and white square modules arranged in either a square or 
+ rectangular pattern. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
 

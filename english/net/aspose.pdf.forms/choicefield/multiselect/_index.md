@@ -1,10 +1,13 @@
 ---
-title: ChoiceField.MultiSelect
-second_title: Aspose.PDF for .NET API Reference
-description: ChoiceField property. Gets or sets multiselection flag
+title: "ChoiceField.MultiSelect"
+linktitle: "MultiSelect"
+articleTitle: "MultiSelect"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets multiselection flag."
 type: docs
-weight: 30
-url: /net/aspose.pdf.forms/choicefield/multiselect/
+weight: 80
+url: "/net/aspose.pdf.forms/choicefield/multiselect/"
+product_version: "26.9.0"
 ---
 ## ChoiceField.MultiSelect property
 
@@ -14,10 +17,13 @@ Gets or sets multiselection flag.
 public bool MultiSelect { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [ChoiceField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

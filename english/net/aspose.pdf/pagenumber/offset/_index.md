@@ -1,10 +1,13 @@
 ---
-title: PageNumber.Offset
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumber property. Gets or sets the offset to be added to the page index
+title: "PageNumber.Offset"
+linktitle: "Offset"
+articleTitle: "Offset"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the offset to be added to the page index."
 type: docs
-weight: 40
-url: /net/aspose.pdf/pagenumber/offset/
+weight: 30
+url: "/net/aspose.pdf/pagenumber/offset/"
+product_version: "26.9.0"
 ---
 ## PageNumber.Offset property
 
@@ -14,10 +17,13 @@ Gets or sets the offset to be added to the page index.
 public int Offset { get; set; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [PageNumber](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageNumber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

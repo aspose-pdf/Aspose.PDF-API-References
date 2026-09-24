@@ -1,12 +1,15 @@
 ---
-title: XmpPdfAExtensionSchema.GetValuesXml
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema method. Gets the values of properties as xml tree representation
+title: "XmpPdfAExtensionSchema.GetValuesXml"
+linktitle: "GetValuesXml"
+articleTitle: "GetValuesXml"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the values of properties as xml tree representation."
 type: docs
-weight: 80
-url: /net/aspose.pdf/xmppdfaextensionschema/getvaluesxml/
+weight: 60
+url: "/net/aspose.pdf/xmppdfaextensionschema/getvaluesxml/"
+product_version: "26.9.0"
 ---
-## XmpPdfAExtensionSchema.GetValuesXml method
+## GetValuesXml(XmlDocument, XmlElement) {#getvaluesxml}
 
 Gets the values of properties as xml tree representation.
 
@@ -21,8 +24,7 @@ public void GetValuesXml(XmlDocument xmlDocument, XmlElement rootElement)
 
 ### See Also
 
-* class [XmpPdfAExtensionSchema](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: Form.FillBarcodeField
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Fill a barcode field according to its fully qualified field name
+title: "Form.FillBarcodeField"
+linktitle: "FillBarcodeField"
+articleTitle: "FillBarcodeField"
+second_title: "Aspose.PDF for .NET"
+description: "Fill a barcode field according to its fully qualified field name."
 type: docs
-weight: 120
-url: /net/aspose.pdf.facades/form/fillbarcodefield/
+weight: 290
+url: "/net/aspose.pdf.facades/form/fillbarcodefield/"
+product_version: "26.9.0"
 ---
-## Form.FillBarcodeField method
+## FillBarcodeField(string, string) {#fillbarcodefield}
 
 Fill a barcode field according to its fully qualified field name.
 
@@ -16,24 +19,18 @@ public bool FillBarcodeField(string fieldName, string data)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | String | The fully qualified field name. |
-| data | String | The new barcode value. |
+| fieldName | string | The fully qualified field name. |
+| data | string | The new barcode value. |
 
 ### Return Value
 
+bool
+
 If filling succeed, return true; otherwise, false.
-
-## Examples
-
-```csharp
-Form form = new Form("PdfForm.pdf");
-form.FillBarcodeField("textField", "42207252");
-```
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

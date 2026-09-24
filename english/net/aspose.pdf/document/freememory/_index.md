@@ -1,12 +1,15 @@
 ---
-title: Document.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Clears memory
+title: "Document.FreeMemory"
+linktitle: "FreeMemory"
+articleTitle: "FreeMemory"
+second_title: "Aspose.PDF for .NET"
+description: "Clears memory"
 type: docs
-weight: 680
-url: /net/aspose.pdf/document/freememory/
+weight: 840
+url: "/net/aspose.pdf/document/freememory/"
+product_version: "26.9.0"
 ---
-## Document.FreeMemory method
+## FreeMemory() {#freememory}
 
 Clears memory
 
@@ -16,8 +19,7 @@ public void FreeMemory()
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

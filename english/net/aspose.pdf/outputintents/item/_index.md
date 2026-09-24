@@ -1,39 +1,30 @@
 ---
-title: OutputIntents.Item
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntents property. Gets the output intent at the specified index
+title: "OutputIntents.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 30
-url: /net/aspose.pdf/outputintents/item/
+weight: 90
+url: "/net/aspose.pdf/outputintents/item/"
+product_version: "26.9.0"
 ---
-## OutputIntents indexer
+## OutputIntents.Item property
 
-Gets the output intent at the specified *index*.
+
 
 ```csharp
-public OutputIntent this[int index] { get; }
+public OutputIntent Item { get; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| index | The zero-based index of the output intent to get. |
+### Property Value
 
-### Return Value
-
-The output intent at the specified *index*.
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentOutOfRangeException | *index* is less than 0 or *index* is equal to or greater than [`Count`](../count/). |
-| InvalidOperationException | The document that contains the collection has no catalog to access the OutputIntents. |
+[OutputIntent](../../../aspose.pdf/outputintent/)
 
 ### See Also
 
-* class [OutputIntent](../../outputintent/)
-* class [OutputIntents](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutputIntent](../../../aspose.pdf/outputintent/)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

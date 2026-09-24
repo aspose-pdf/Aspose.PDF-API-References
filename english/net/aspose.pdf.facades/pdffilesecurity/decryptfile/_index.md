@@ -1,14 +1,19 @@
 ---
-title: PdfFileSecurity.DecryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity method. Decrypts an encrypted Pdf document by owner password. If the document hasnt owner password it is allow to use user password. Throws an exception if process failed
+title: "PdfFileSecurity.DecryptFile"
+linktitle: "DecryptFile"
+articleTitle: "DecryptFile"
+second_title: "Aspose.PDF for .NET"
+description: "Decrypts an encrypted Pdf document by owner password. If the document hasn't owner password, it is allow to use user password. Throws an exception if process..."
 type: docs
-weight: 60
-url: /net/aspose.pdf.facades/pdffilesecurity/decryptfile/
+weight: 100
+url: "/net/aspose.pdf.facades/pdffilesecurity/decryptfile/"
+product_version: "26.9.0"
 ---
-## PdfFileSecurity.DecryptFile method
+## DecryptFile(string) {#decryptfile}
 
-Decrypts an encrypted Pdf document by owner password. If the document hasn't owner password, it is allow to use user password. Throws an exception if process failed.
+Decrypts an encrypted Pdf document by owner password. 
+ If the document hasn't owner password, it is allow to use user password.
+ Throws an exception if process failed.
 
 ```csharp
 public bool DecryptFile(string ownerPassword)
@@ -16,9 +21,11 @@ public bool DecryptFile(string ownerPassword)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ownerPassword | String | Owner password. |
+| ownerPassword | string | Owner password. |
 
 ### Return Value
+
+bool
 
 True for success.
 
@@ -26,22 +33,21 @@ True for success.
 
 ```csharp
 [C#]
-string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
-string outFile = "D:\\output.pdf"; //The TestPath may be re-assigned.	
-PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
-fileSecurity.DecryptFile("ownerpass");
-
-[Visual Basic]
-Dim inFile As String = "D:\\input.pdf"  'The TestPath may be re-assigned.'
-Dim outFile As String = "D:\\output.pdf"  'The TestPath may be re-assigned.'
-Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
-fileSecurity.DecryptFile("ownerpass")
+ string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
+ string outFile = "D:\\output.pdf"; //The TestPath may be re-assigned. 
+ PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile); 
+ fileSecurity.DecryptFile("ownerpass");
+ 
+ [Visual Basic]
+ Dim inFile As String = "D:\\input.pdf" 'The TestPath may be re-assigned.'
+ Dim outFile As String = "D:\\output.pdf" 'The TestPath may be re-assigned.'
+ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
+ fileSecurity.DecryptFile("ownerpass")
 ```
 
 ### See Also
 
-* class [PdfFileSecurity](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

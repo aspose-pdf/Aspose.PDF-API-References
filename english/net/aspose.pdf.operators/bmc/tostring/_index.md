@@ -1,27 +1,31 @@
 ---
-title: BMC.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: BMC method. Returns text representation of operator
+title: "BMC.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET"
+description: "Returns text representation of operator."
 type: docs
-weight: 40
-url: /net/aspose.pdf.operators/bmc/tostring/
+weight: 30
+url: "/net/aspose.pdf.operators/bmc/tostring/"
+product_version: "26.9.0"
 ---
-## BMC.ToString method
+## ToString() {#tostring}
 
 Returns text representation of operator.
 
 ```csharp
-public override string ToString()
+public string ToString()
 ```
 
 ### Return Value
+
+string
 
 Text representation of operator.
 
 ### See Also
 
-* class [BMC](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BMC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

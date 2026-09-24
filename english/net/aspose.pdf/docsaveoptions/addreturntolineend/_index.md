@@ -1,10 +1,13 @@
 ---
-title: DocSaveOptions.AddReturnToLineEnd
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions property. Use paragraph or line breaks
+title: "DocSaveOptions.AddReturnToLineEnd"
+linktitle: "AddReturnToLineEnd"
+articleTitle: "AddReturnToLineEnd"
+second_title: "Aspose.PDF for .NET"
+description: "Use paragraph or line breaks"
 type: docs
-weight: 20
-url: /net/aspose.pdf/docsaveoptions/addreturntolineend/
+weight: 60
+url: "/net/aspose.pdf/docsaveoptions/addreturntolineend/"
+product_version: "26.9.0"
 ---
 ## DocSaveOptions.AddReturnToLineEnd property
 
@@ -14,10 +17,13 @@ Use paragraph or line breaks
 public bool AddReturnToLineEnd { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [DocSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

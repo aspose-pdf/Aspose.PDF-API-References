@@ -1,10 +1,13 @@
 ---
-title: ImageDevice.FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDevice property. Gets or sets form presentation mode
+title: "ImageDevice.FormPresentationMode"
+linktitle: "FormPresentationMode"
+articleTitle: "FormPresentationMode"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets form presentation mode."
 type: docs
-weight: 30
-url: /net/aspose.pdf.devices/imagedevice/formpresentationmode/
+weight: 100
+url: "/net/aspose.pdf.devices/imagedevice/formpresentationmode/"
+product_version: "26.9.0"
 ---
 ## ImageDevice.FormPresentationMode property
 
@@ -14,11 +17,14 @@ Gets or sets form presentation mode.
 public FormPresentationMode FormPresentationMode { get; set; }
 ```
 
+### Property Value
+
+[FormPresentationMode](../../../aspose.pdf.devices/formpresentationmode/)
+
 ### See Also
 
-* enum [FormPresentationMode](../../formpresentationmode/)
-* class [ImageDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormPresentationMode](../../../aspose.pdf.devices/formpresentationmode/)
+* class [ImageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,24 +1,30 @@
 ---
-title: MovieAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: MovieAnnotation property. Gets type of annotation
+title: "MovieAnnotation.AnnotationType"
+linktitle: "AnnotationType"
+articleTitle: "AnnotationType"
+second_title: "Aspose.PDF for .NET"
+description: "Gets type of annotation."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/movieannotation/annotationtype/
+weight: 90
+url: "/net/aspose.pdf.annotations/movieannotation/annotationtype/"
+product_version: "26.9.0"
 ---
 ## MovieAnnotation.AnnotationType property
 
 Gets type of annotation.
 
 ```csharp
-public override AnnotationType AnnotationType { get; }
+public AnnotationType AnnotationType { get; }
 ```
+
+### Property Value
+
+[AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 
 ### See Also
 
-* enum [AnnotationType](../../annotationtype/)
-* class [MovieAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

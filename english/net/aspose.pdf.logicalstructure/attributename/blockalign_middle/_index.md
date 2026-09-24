@@ -1,10 +1,13 @@
 ---
-title: AttributeName.BlockAlign_Middle
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName field. Attribute BlockAlign Middle Children centered within the table cell. The distance between the before edge of the first childs allocation rectangle and that of the table cells content rectangle shall be the same as the distance between the after edge of the last childs allocation rectangle and that of the table cells content rectangle
+title: "AttributeName.BlockAlign_Middle"
+linktitle: "BlockAlign_Middle"
+articleTitle: "BlockAlign_Middle"
+second_title: "Aspose.PDF for .NET"
+description: "Attribute BlockAlign: Middle- Children centered within the table cell. The distance between the before edge of the first child's allocation rectangle and tha..."
 type: docs
-weight: 40
-url: /net/aspose.pdf.logicalstructure/attributename/blockalign_middle/
+weight: 300
+url: "/net/aspose.pdf.logicalstructure/attributename/blockalign_middle/"
+product_version: "26.9.0"
 ---
 ## AttributeName.BlockAlign_Middle field
 
@@ -16,8 +19,8 @@ public static readonly AttributeName BlockAlign_Middle;
 
 ### See Also
 
-* class [AttributeName](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

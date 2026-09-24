@@ -1,10 +1,13 @@
 ---
-title: TimestampOptions.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: TimestampOptions property. Rectangle defining the annotation area ignored when Visible is false
+title: "TimestampOptions.Rectangle"
+linktitle: "Rectangle"
+articleTitle: "Rectangle"
+second_title: "Aspose.PDF for .NET"
+description: "Rectangle defining the annotation area (ignored when Visible is false)."
 type: docs
-weight: 60
-url: /net/aspose.pdf.lowcode/timestampoptions/rectangle/
+weight: 120
+url: "/net/aspose.pdf.lowcode/timestampoptions/rectangle/"
+product_version: "26.9.0"
 ---
 ## TimestampOptions.Rectangle property
 
@@ -14,10 +17,14 @@ Rectangle defining the annotation area (ignored when Visible is false).
 public Rectangle Rectangle { get; set; }
 ```
 
+### Property Value
+
+[Rectangle](../../../aspose.pdf.drawing/rectangle/)
+
 ### See Also
 
-* class [TimestampOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [TimestampOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

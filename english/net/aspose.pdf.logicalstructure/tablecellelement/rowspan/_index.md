@@ -1,10 +1,13 @@
 ---
-title: TableCellElement.RowSpan
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellElement property. Gets or sets the row span
+title: "TableCellElement.RowSpan"
+linktitle: "RowSpan"
+articleTitle: "RowSpan"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the row span."
 type: docs
-weight: 90
-url: /net/aspose.pdf.logicalstructure/tablecellelement/rowspan/
+weight: 120
+url: "/net/aspose.pdf.logicalstructure/tablecellelement/rowspan/"
+product_version: "26.9.0"
 ---
 ## TableCellElement.RowSpan property
 
@@ -14,10 +17,13 @@ Gets or sets the row span.
 public int RowSpan { get; set; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [TableCellElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

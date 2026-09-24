@@ -1,27 +1,32 @@
 ---
-title: SetColor.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetColor method. Returns color specified by the operator
+title: "SetColor.getColor"
+linktitle: "getColor"
+articleTitle: "getColor"
+second_title: "Aspose.PDF for .NET"
+description: "Returns color specified by the operator."
 type: docs
-weight: 100
-url: /net/aspose.pdf.operators/setcolor/getcolor/
+weight: 60
+url: "/net/aspose.pdf.operators/setcolor/getcolor/"
+product_version: "26.9.0"
 ---
-## SetColor.getColor method
+## getColor() {#getcolor}
 
 Returns color specified by the operator.
 
 ```csharp
-public override Color getColor()
+public Color getColor()
 ```
 
 ### Return Value
+
+[Color](../../../aspose.pdf/color/)
 
 Operator color.
 
 ### See Also
 
-* class [SetColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

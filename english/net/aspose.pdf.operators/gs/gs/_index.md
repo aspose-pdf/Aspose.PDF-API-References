@@ -1,12 +1,15 @@
 ---
-title: GS.GS
-second_title: Aspose.PDF for .NET API Reference
-description: GS constructor. Initializes gs operator
+title: "GS.GS"
+linktitle: "GS"
+articleTitle: "GS"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the GS class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/gs/gs/
+url: "/net/aspose.pdf.operators/gs/gs/"
+product_version: "26.9.0"
 ---
-## GS constructor
+## GS(string) {#constructor}
 
 Initializes gs operator.
 
@@ -16,12 +19,11 @@ public GS(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | Name of graphic state. |
+| name | string | Name of graphic state. |
 
 ### See Also
 
-* class [GS](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [GS](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

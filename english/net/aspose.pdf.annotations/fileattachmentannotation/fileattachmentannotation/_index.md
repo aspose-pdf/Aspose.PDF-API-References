@@ -1,12 +1,15 @@
 ---
-title: FileAttachmentAnnotation.FileAttachmentAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: FileAttachmentAnnotation constructor. Creates new FileAttachment annotation on the specified page
+title: "FileAttachmentAnnotation.FileAttachmentAnnotation"
+linktitle: "FileAttachmentAnnotation"
+articleTitle: "FileAttachmentAnnotation"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the FileAttachmentAnnotation class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/fileattachmentannotation/fileattachmentannotation/
+url: "/net/aspose.pdf.annotations/fileattachmentannotation/fileattachmentannotation/"
+product_version: "26.9.0"
 ---
-## FileAttachmentAnnotation constructor
+## FileAttachmentAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), [FileSpecification](../../../aspose.pdf/filespecification/)) {#constructor}
 
 Creates new FileAttachment annotation on the specified page.
 
@@ -22,11 +25,7 @@ public FileAttachmentAnnotation(Page page, Rectangle rect, FileSpecification fil
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [FileSpecification](../../../aspose.pdf/filespecification/)
-* class [FileAttachmentAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileAttachmentAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

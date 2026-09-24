@@ -1,32 +1,30 @@
 ---
-title: ElementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: ElementCollection property. Gets Element by index
+title: "ElementCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 20
-url: /net/aspose.pdf.structure/elementcollection/item/
+weight: 40
+url: "/net/aspose.pdf.structure/elementcollection/item/"
+product_version: "26.9.0"
 ---
-## ElementCollection indexer
+## ElementCollection.Item property
 
-Gets Element by index.
+
 
 ```csharp
-public Element this[int index] { get; }
+public Element Item { get; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| index | Index of element. |
+### Property Value
 
-### Return Value
-
-Retreived element.
+[Element](../../../aspose.pdf.structure/element/)
 
 ### See Also
 
-* class [Element](../../element/)
-* class [ElementCollection](../)
-* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Element](../../../aspose.pdf.structure/element/)
+* class [ElementCollection](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
 

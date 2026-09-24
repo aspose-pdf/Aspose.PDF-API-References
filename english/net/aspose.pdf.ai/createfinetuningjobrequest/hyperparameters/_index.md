@@ -1,10 +1,13 @@
 ---
-title: CreateFineTuningJobRequest.Hyperparameters
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobRequest property. Gets or sets the hyperparameters used for the finetuning job
+title: "CreateFineTuningJobRequest.Hyperparameters"
+linktitle: "Hyperparameters"
+articleTitle: "Hyperparameters"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the hyperparameters used for the fine-tuning job."
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/createfinetuningjobrequest/hyperparameters/
+weight: 40
+url: "/net/aspose.pdf.ai/createfinetuningjobrequest/hyperparameters/"
+product_version: "26.9.0"
 ---
 ## CreateFineTuningJobRequest.Hyperparameters property
 
@@ -14,11 +17,14 @@ Gets or sets the hyperparameters used for the fine-tuning job.
 public Hyperparameters Hyperparameters { get; set; }
 ```
 
+### Property Value
+
+[Hyperparameters](../../../aspose.pdf.ai/hyperparameters/)
+
 ### See Also
 
-* class [Hyperparameters](../../hyperparameters/)
-* class [CreateFineTuningJobRequest](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Hyperparameters](../../../aspose.pdf.ai/hyperparameters/)
+* class [CreateFineTuningJobRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

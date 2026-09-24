@@ -1,12 +1,15 @@
 ---
-title: XmpValue.ToArray
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue method. Returns array
+title: "XmpValue.ToArray"
+linktitle: "ToArray"
+articleTitle: "ToArray"
+second_title: "Aspose.PDF for .NET"
+description: "Returns array."
 type: docs
-weight: 120
-url: /net/aspose.pdf/xmpvalue/toarray/
+weight: 100
+url: "/net/aspose.pdf/xmpvalue/toarray/"
+product_version: "26.9.0"
 ---
-## XmpValue.ToArray method
+## ToArray() {#toarray}
 
 Returns array.
 
@@ -16,12 +19,14 @@ public XmpValue[] ToArray()
 
 ### Return Value
 
+[XmpValue](../../../aspose.pdf/xmpvalue/)[]
+
 Array value
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

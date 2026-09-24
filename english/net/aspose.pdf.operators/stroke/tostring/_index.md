@@ -1,27 +1,31 @@
 ---
-title: Stroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Stroke method. Returns text representation of the operator
+title: "Stroke.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET"
+description: "Returns text representation of the operator."
 type: docs
 weight: 30
-url: /net/aspose.pdf.operators/stroke/tostring/
+url: "/net/aspose.pdf.operators/stroke/tostring/"
+product_version: "26.9.0"
 ---
-## Stroke.ToString method
+## ToString() {#tostring}
 
 Returns text representation of the operator.
 
 ```csharp
-public override string ToString()
+public string ToString()
 ```
 
 ### Return Value
+
+string
 
 Text representation of the operator.
 
 ### See Also
 
-* class [Stroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Stroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

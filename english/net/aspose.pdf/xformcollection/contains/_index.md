@@ -1,12 +1,15 @@
 ---
-title: XFormCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection method. Determines whether the collection contains a specific value
+title: "XFormCollection.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET"
+description: "Determines whether the collection contains a specific value."
 type: docs
-weight: 80
-url: /net/aspose.pdf/xformcollection/contains/
+weight: 90
+url: "/net/aspose.pdf/xformcollection/contains/"
+product_version: "26.9.0"
 ---
-## XFormCollection.Contains method
+## Contains([XForm](../../../aspose.pdf/xform/)) {#contains}
 
 Determines whether the collection contains a specific value.
 
@@ -20,13 +23,13 @@ public bool Contains(XForm item)
 
 ### Return Value
 
+bool
+
 true if item is found in the collection; otherwise, false.
 
 ### See Also
 
-* class [XForm](../../xform/)
-* class [XFormCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

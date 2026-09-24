@@ -1,23 +1,30 @@
 ---
-title: Embedding.EmbeddingList
-second_title: Aspose.PDF for .NET API Reference
-description: Embedding property. Gets or sets the embedding vector which is a list of floats. The length of vector depends on the model as listed in the embedding guide
+title: "Embedding.EmbeddingList"
+linktitle: "EmbeddingList"
+articleTitle: "EmbeddingList"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the embedding vector, which is a list of floats. The length of vector depends on the model as listed in the embedding guide."
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/embedding/embeddinglist/
+weight: 40
+url: "/net/aspose.pdf.ai/embedding/embeddinglist/"
+product_version: "26.9.0"
 ---
 ## Embedding.EmbeddingList property
 
-Gets or sets the embedding vector, which is a list of floats. The length of vector depends on the model as listed in the embedding guide.
+Gets or sets the embedding vector, which is a list of floats.
+ The length of vector depends on the model as listed in the embedding guide.
 
 ```csharp
 public List<double> EmbeddingList { get; set; }
 ```
 
+### Property Value
+
+[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<double>
+
 ### See Also
 
-* class [Embedding](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Embedding](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

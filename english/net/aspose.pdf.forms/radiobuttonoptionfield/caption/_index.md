@@ -1,10 +1,13 @@
 ---
-title: RadioButtonOptionField.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonOptionField property. Gets or sets caption
+title: "RadioButtonOptionField.Caption"
+linktitle: "Caption"
+articleTitle: "Caption"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets caption."
 type: docs
-weight: 20
-url: /net/aspose.pdf.forms/radiobuttonoptionfield/caption/
+weight: 40
+url: "/net/aspose.pdf.forms/radiobuttonoptionfield/caption/"
+product_version: "26.9.0"
 ---
 ## RadioButtonOptionField.Caption property
 
@@ -14,11 +17,14 @@ Gets or sets caption.
 public TextFragment Caption { get; set; }
 ```
 
+### Property Value
+
+[TextFragment](../../../aspose.pdf.text/textfragment/)
+
 ### See Also
 
-* class [TextFragment](../../../aspose.pdf.text/textfragment/)
-* class [RadioButtonOptionField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [RadioButtonOptionField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,17 +1,20 @@
 ---
-title: WidgetAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation method. Accepts visitor
+title: "WidgetAnnotation.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET"
+description: "Accepts visitor."
 type: docs
-weight: 110
-url: /net/aspose.pdf.annotations/widgetannotation/accept/
+weight: 20
+url: "/net/aspose.pdf.annotations/widgetannotation/accept/"
+product_version: "26.9.0"
 ---
-## WidgetAnnotation.Accept method
+## Accept([AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)) {#accept}
 
 Accepts visitor.
 
 ```csharp
-public override void Accept(AnnotationSelector visitor)
+public void Accept(AnnotationSelector visitor)
 ```
 
 | Parameter | Type | Description |
@@ -20,9 +23,7 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../annotationselector/)
-* class [WidgetAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

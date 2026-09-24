@@ -1,23 +1,30 @@
 ---
-title: DocumentPrivilege.DegradedPrinting
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege property. Allows degraded printing
+title: "DocumentPrivilege.DegradedPrinting"
+linktitle: "DegradedPrinting"
+articleTitle: "DegradedPrinting"
+second_title: "Aspose.PDF for .NET"
+description: "Allows degraded printing."
 type: docs
-weight: 40
-url: /net/aspose.pdf.facades/documentprivilege/degradedprinting/
+weight: 130
+url: "/net/aspose.pdf.facades/documentprivilege/degradedprinting/"
+product_version: "26.9.0"
 ---
 ## DocumentPrivilege.DegradedPrinting property
 
 Allows degraded printing.
 
 ```csharp
-public static DocumentPrivilege DegradedPrinting { get; }
+public DocumentPrivilege DegradedPrinting { get; }
 ```
+
+### Property Value
+
+[DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
 
 ### See Also
 
-* class [DocumentPrivilege](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

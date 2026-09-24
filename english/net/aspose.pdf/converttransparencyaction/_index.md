@@ -1,10 +1,13 @@
 ---
-title: Enum ConvertTransparencyAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ConvertTransparencyAction enum. This class represents action for conversion of transparency
+title: "ConvertTransparencyAction Enum"
+linktitle: "ConvertTransparencyAction"
+articleTitle: "ConvertTransparencyAction"
+second_title: "Aspose.PDF for .NET"
+description: "This class represents action for conversion of transparency."
 type: docs
-weight: 3530
-url: /net/aspose.pdf/converttransparencyaction/
+weight: 480
+url: "/net/aspose.pdf/converttransparencyaction/"
+product_version: "26.9.0"
 ---
 ## ConvertTransparencyAction enumeration
 
@@ -14,16 +17,15 @@ This class represents action for conversion of transparency.
 public enum ConvertTransparencyAction
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Default | `0` | Use default strategy, no adding masks. |
 | Mask | `1` | Add transparent mask image. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

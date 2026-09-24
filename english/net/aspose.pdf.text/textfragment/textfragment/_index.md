@@ -1,14 +1,17 @@
 ---
-title: TextFragment.TextFragment
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment constructor. Initializes new instance of the TextFragment object
+title: "TextFragment.TextFragment"
+linktitle: "TextFragment"
+articleTitle: "TextFragment"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the TextFragment class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.text/textfragment/textfragment/
+url: "/net/aspose.pdf.text/textfragment/textfragment/"
+product_version: "26.9.0"
 ---
 ## TextFragment() {#constructor}
 
-Initializes new instance of the [`TextFragment`](../) object.
+Initializes new instance of the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object.
 
 ```csharp
 public TextFragment()
@@ -16,15 +19,15 @@ public TextFragment()
 
 ### See Also
 
-* class [TextFragment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextFragment(TabStops) {#constructor_1}
+## TextFragment([TabStops](../../../aspose.pdf.text/tabstops/)) {#constructor_1}
 
-Initializes new instance of the [`TextFragment`](../) object with predefined [`TabStops`](../../tabstops/) positions.
+Initializes new instance of the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object with predefined [`TabStops`](../../../aspose.pdf.text/tabstops/) positions.
 
 ```csharp
 public TextFragment(TabStops tabStops)
@@ -36,16 +39,16 @@ public TextFragment(TabStops tabStops)
 
 ### See Also
 
-* class [TabStops](../../tabstops/)
-* class [TextFragment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextFragment(string) {#constructor_2}
 
-Creates [`TextFragment`](../) object with single [`TextSegment`](../../textsegment/) object inside. Specifies text string inside the segment.
+Creates [`TextFragment`](../../../aspose.pdf.text/textfragment/) object with single [`TextSegment`](../../../aspose.pdf.text/textsegment/) object inside. 
+ Specifies text string inside the segment.
 
 ```csharp
 public TextFragment(string text)
@@ -53,19 +56,19 @@ public TextFragment(string text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | String | Text fragment's text. |
+| text | string | Text fragment's text. |
 
 ### See Also
 
-* class [TextFragment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextFragment(string, TabStops) {#constructor_3}
+## TextFragment(string, [TabStops](../../../aspose.pdf.text/tabstops/)) {#constructor_3}
 
-Creates [`TextFragment`](../) object with single [`TextSegment`](../../textsegment/) object inside and predefined [`TabStops`](../../tabstops/) positions.
+Creates [`TextFragment`](../../../aspose.pdf.text/textfragment/) object with single [`TextSegment`](../../../aspose.pdf.text/textsegment/) object inside and predefined [`TabStops`](../../../aspose.pdf.text/tabstops/) positions.
 
 ```csharp
 public TextFragment(string text, TabStops tabStops)
@@ -73,14 +76,12 @@ public TextFragment(string text, TabStops tabStops)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | String | Text fragment's text. |
+| text | string | Text fragment's text. |
 | tabStops | TabStops | Tabulation positions |
 
 ### See Also
 
-* class [TabStops](../../tabstops/)
-* class [TextFragment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

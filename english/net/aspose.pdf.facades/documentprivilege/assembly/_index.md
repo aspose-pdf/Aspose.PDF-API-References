@@ -1,23 +1,30 @@
 ---
-title: DocumentPrivilege.Assembly
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege property. Allows assemblying file
+title: "DocumentPrivilege.Assembly"
+linktitle: "Assembly"
+articleTitle: "Assembly"
+second_title: "Aspose.PDF for .NET"
+description: "Allows assemblying file."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/documentprivilege/assembly/
+weight: 200
+url: "/net/aspose.pdf.facades/documentprivilege/assembly/"
+product_version: "26.9.0"
 ---
 ## DocumentPrivilege.Assembly property
 
 Allows assemblying file.
 
 ```csharp
-public static DocumentPrivilege Assembly { get; }
+public DocumentPrivilege Assembly { get; }
 ```
+
+### Property Value
+
+[DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
 
 ### See Also
 
-* class [DocumentPrivilege](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

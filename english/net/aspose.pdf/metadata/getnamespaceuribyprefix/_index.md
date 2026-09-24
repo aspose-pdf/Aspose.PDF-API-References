@@ -1,12 +1,15 @@
 ---
-title: Metadata.GetNamespaceUriByPrefix
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata method. Returns namespace URI by prefix
+title: "Metadata.GetNamespaceUriByPrefix"
+linktitle: "GetNamespaceUriByPrefix"
+articleTitle: "GetNamespaceUriByPrefix"
+second_title: "Aspose.PDF for .NET"
+description: "Returns namespace URI by prefix."
 type: docs
-weight: 170
-url: /net/aspose.pdf/metadata/getnamespaceuribyprefix/
+weight: 30
+url: "/net/aspose.pdf/metadata/getnamespaceuribyprefix/"
+product_version: "26.9.0"
 ---
-## Metadata.GetNamespaceUriByPrefix method
+## GetNamespaceUriByPrefix(string) {#getnamespaceuribyprefix}
 
 Returns namespace URI by prefix.
 
@@ -16,16 +19,17 @@ public string GetNamespaceUriByPrefix(string prefix)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| prefix | String | The value of prefix. |
+| prefix | string | The value of prefix. |
 
 ### Return Value
+
+string
 
 The value of namespace URI.
 
 ### See Also
 
-* class [Metadata](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

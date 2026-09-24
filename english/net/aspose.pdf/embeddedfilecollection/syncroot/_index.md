@@ -1,10 +1,13 @@
 ---
-title: EmbeddedFileCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection property. Gets an object that can be used to synchronize access to this collection
+title: "EmbeddedFileCollection.SyncRoot"
+linktitle: "SyncRoot"
+articleTitle: "SyncRoot"
+second_title: "Aspose.PDF for .NET"
+description: "Gets an object that can be used to synchronize access to this collection."
 type: docs
-weight: 50
-url: /net/aspose.pdf/embeddedfilecollection/syncroot/
+weight: 100
+url: "/net/aspose.pdf/embeddedfilecollection/syncroot/"
+product_version: "26.9.0"
 ---
 ## EmbeddedFileCollection.SyncRoot property
 
@@ -14,10 +17,13 @@ Gets an object that can be used to synchronize access to this collection.
 public object SyncRoot { get; }
 ```
 
+### Property Value
+
+object
+
 ### See Also
 
-* class [EmbeddedFileCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

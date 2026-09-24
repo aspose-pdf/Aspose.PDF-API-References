@@ -1,10 +1,14 @@
 ---
-title: Class FormExporterToJsonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.FormExporterToJsonOptions class. Represents options for export Value propertys of specified fields not annotations
+title: "FormExporterToJsonOptions Class"
+linktitle: "FormExporterToJsonOptions"
+articleTitle: "FormExporterToJsonOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Represents options for export Value property(s) of specified field(s) (not annotations)."
 type: docs
-weight: 7270
-url: /net/aspose.pdf.lowcode/formexportertojsonoptions/
+weight: 220
+url: "/net/aspose.pdf.lowcode/formexportertojsonoptions/"
+keywords: "FormExporterToJsonOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## FormExporterToJsonOptions class
 
@@ -18,29 +22,28 @@ public sealed class FormExporterToJsonOptions : FormExporterOptions
 
 | Name | Description |
 | --- | --- |
-| [FormExporterToJsonOptions](formexportertojsonoptions/#constructor)() | The default constructor. |
-| [FormExporterToJsonOptions](formexportertojsonoptions/#constructor_1)(SelectField) | Initializes a new instance of the [`FormExporterValuesToCsvOptions`](../formexportervaluestocsvoptions/) object, in which the fields whose data will be exported and the separator for the exported data are specified. |
+| [FormExporterToJsonOptions](./formexportertojsonoptions/#constructor) | Initializes a new instance of the FormExporterToJsonOptions class. |
+| [FormExporterToJsonOptions](./formexportertojsonoptions/#constructor_1)(*[SelectField](../../aspose.pdf.lowcode/selectfield/)*) | Initializes a new instance of the [`FormExporterValuesToCsvOptions`](../../aspose.pdf.lowcode/formexportervaluestocsvoptions/) object,. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ExportPasswordValue](../../aspose.pdf.lowcode/formexportertojsonoptions/exportpasswordvalue/) { get; set; } | Gets or sets a value indicating whether the password value should be exported. |
-| [Inputs](../../aspose.pdf.lowcode/formoptions/inputs/) { get; } | Returns Form.... plugins data collection. |
-| [Outputs](../../aspose.pdf.lowcode/formoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
-| [WriteIndented](../../aspose.pdf.lowcode/formexportertojsonoptions/writeindented/) { get; set; } | Gets or sets a value indicating whether the Json output should be indented. |
+| [ExportPasswordValue](./exportpasswordvalue/) { get; set; } | Gets or sets a value indicating whether the password value should be exported. |
+| [Inputs](../../aspose.pdf.lowcode/formoptions/inputs/) { get; } | Returns Form.... plugins data collection. *(Inherited from FormOptions)* |
+| [Outputs](../../aspose.pdf.lowcode/formoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. *(Inherited from FormOptions)* |
+| [WriteIndented](./writeindented/) { get; set; } | Gets or sets a value indicating whether the Json output should be indented. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.lowcode/formoptions/addinput/)(IDataSource) | Adds new data source to the Form... plugins data collection. |
-| [AddOutput](../../aspose.pdf.lowcode/formoptions/addoutput/)(IDataSource) | Adds new data source to the Form... plugins data collection. |
+| [AddInput](../../aspose.pdf.lowcode/formoptions/addinput/)(*IDataSource*) | Adds new data source to the Form... plugins data collection. *(Inherited from FormOptions)* |
+| [AddOutput](../../aspose.pdf.lowcode/formoptions/addoutput/)(*IDataSource*) | Adds new data source to the Form... plugins data collection. *(Inherited from FormOptions)* |
 
 ### See Also
 
-* class [FormExporterOptions](../formexporteroptions/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* class [FormExporterOptions](../formexporteroptions/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

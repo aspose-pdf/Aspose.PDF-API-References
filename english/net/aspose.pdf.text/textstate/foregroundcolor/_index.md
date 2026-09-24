@@ -1,24 +1,30 @@
 ---
-title: TextState.ForegroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: TextState property. Gets or sets foreground color of the text
+title: "TextState.ForegroundColor"
+linktitle: "ForegroundColor"
+articleTitle: "ForegroundColor"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets foreground color of the text."
 type: docs
-weight: 80
-url: /net/aspose.pdf.text/textstate/foregroundcolor/
+weight: 400
+url: "/net/aspose.pdf.text/textstate/foregroundcolor/"
+product_version: "26.9.0"
 ---
 ## TextState.ForegroundColor property
 
 Gets or sets foreground color of the text.
 
 ```csharp
-public virtual Color ForegroundColor { get; set; }
+public Color ForegroundColor { get; set; }
 ```
+
+### Property Value
+
+[Color](../../../aspose.pdf/color/)
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
-* class [TextState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

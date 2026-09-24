@@ -1,17 +1,20 @@
 ---
-title: TextStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp method. Adds textual stamp on the page
+title: "TextStamp.Put"
+linktitle: "Put"
+articleTitle: "Put"
+second_title: "Aspose.PDF for .NET"
+description: "Adds textual stamp on the page."
 type: docs
-weight: 180
-url: /net/aspose.pdf/textstamp/put/
+weight: 40
+url: "/net/aspose.pdf/textstamp/put/"
+product_version: "26.9.0"
 ---
-## TextStamp.Put method
+## Put([Page](../../../aspose.pdf/page/)) {#put}
 
 Adds textual stamp on the page.
 
 ```csharp
-public override void Put(Page page)
+public void Put(Page page)
 ```
 
 | Parameter | Type | Description |
@@ -20,9 +23,7 @@ public override void Put(Page page)
 
 ### See Also
 
-* class [Page](../../page/)
-* class [TextStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

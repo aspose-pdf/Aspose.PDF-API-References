@@ -1,27 +1,29 @@
 ---
-title: BoundsCheckableList1.Item
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList property. Gets or sets paragraph from or to collection
+title: "BoundsCheckableList<T>.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 40
-url: /net/aspose.pdf/boundscheckablelist-1/item/
+weight: 160
+url: "/net/aspose.pdf/boundscheckablelist-1/item/"
+product_version: "26.9.0"
 ---
-## BoundsCheckableList&lt;T&gt; indexer
+## BoundsCheckableList<T>.Item property
 
-Gets or sets paragraph from or to collection.
+
 
 ```csharp
-public T this[int index] { get; set; }
+public T0 Item { get; set; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| index | The paragraph index. |
+### Property Value
+
+T0
 
 ### See Also
 
-* class [BoundsCheckableList&lt;T&gt;](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BoundsCheckableList<T>](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

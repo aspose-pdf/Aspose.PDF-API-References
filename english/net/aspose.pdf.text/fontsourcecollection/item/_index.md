@@ -1,32 +1,30 @@
 ---
-title: FontSourceCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: FontSourceCollection property. Gets the font element at the specified index
+title: "FontSourceCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 30
-url: /net/aspose.pdf.text/fontsourcecollection/item/
+weight: 110
+url: "/net/aspose.pdf.text/fontsourcecollection/item/"
+product_version: "26.9.0"
 ---
-## FontSourceCollection indexer
+## FontSourceCollection.Item property
 
-Gets the font element at the specified index.
+
 
 ```csharp
-public FontSource this[int index] { get; }
+public FontSource Item { get; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| index | Index within the collection. |
+### Property Value
 
-### Return Value
-
-Font source object.
+[FontSource](../../../aspose.pdf.text/fontsource/)
 
 ### See Also
 
-* class [FontSource](../../fontsource/)
-* class [FontSourceCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FontSource](../../../aspose.pdf.text/fontsource/)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

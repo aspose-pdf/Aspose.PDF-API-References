@@ -1,10 +1,13 @@
 ---
-title: LicenseInfo.LicenseType
-second_title: Aspose.PDF for .NET API Reference
-description: LicenseInfo property. Gets the license type
+title: "LicenseInfo.LicenseType"
+linktitle: "LicenseType"
+articleTitle: "LicenseType"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the license type."
 type: docs
-weight: 60
-url: /net/aspose.pdf/licenseinfo/licensetype/
+weight: 30
+url: "/net/aspose.pdf/licenseinfo/licensetype/"
+product_version: "26.9.0"
 ---
 ## LicenseInfo.LicenseType property
 
@@ -14,10 +17,13 @@ Gets the license type.
 public string LicenseType { get; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [LicenseInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LicenseInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

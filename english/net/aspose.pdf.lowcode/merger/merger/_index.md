@@ -1,14 +1,17 @@
 ---
-title: Merger.Merger
-second_title: Aspose.PDF for .NET API Reference
-description: Merger constructor. The default constructor
+title: "Merger.Merger"
+linktitle: "Merger"
+articleTitle: "Merger"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the Merger class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/merger/merger/
+url: "/net/aspose.pdf.lowcode/merger/merger/"
+product_version: "26.9.0"
 ---
-## Merger constructor
+## Merger() {#constructor}
 
-The default constructor.
+Initializes a new instance of the Merger class.
 
 ```csharp
 public Merger()
@@ -16,8 +19,7 @@ public Merger()
 
 ### See Also
 
-* class [Merger](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Merger](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

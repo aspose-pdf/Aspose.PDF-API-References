@@ -1,12 +1,15 @@
 ---
-title: PdfViewer.DecodeAllPages
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer method. Get pages of current pdf file
+title: "PdfViewer.DecodeAllPages"
+linktitle: "DecodeAllPages"
+articleTitle: "DecodeAllPages"
+second_title: "Aspose.PDF for .NET"
+description: "Get pages of current pdf file."
 type: docs
-weight: 270
-url: /net/aspose.pdf.facades/pdfviewer/decodeallpages/
+weight: 180
+url: "/net/aspose.pdf.facades/pdfviewer/decodeallpages/"
+product_version: "26.9.0"
 ---
-## PdfViewer.DecodeAllPages method
+## DecodeAllPages() {#decodeallpages}
 
 Get pages of current pdf file.
 
@@ -16,12 +19,13 @@ public Bitmap[] DecodeAllPages()
 
 ### Return Value
 
+Bitmap[]
+
 return the array of Pdf page images.
 
 ### See Also
 
-* class [PdfViewer](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

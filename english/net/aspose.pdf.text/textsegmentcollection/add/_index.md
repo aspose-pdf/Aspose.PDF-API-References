@@ -1,12 +1,15 @@
 ---
-title: TextSegmentCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegmentCollection method. Adds the text segment element at the specified index
+title: "TextSegmentCollection.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: "Adds the text segment element at the specified index."
 type: docs
-weight: 60
-url: /net/aspose.pdf.text/textsegmentcollection/add/
+weight: 10
+url: "/net/aspose.pdf.text/textsegmentcollection/add/"
+product_version: "26.9.0"
 ---
-## TextSegmentCollection.Add method
+## Add([TextSegment](../../../aspose.pdf.text/textsegment/)) {#add}
 
 Adds the text segment element at the specified index.
 
@@ -20,9 +23,7 @@ public void Add(TextSegment segment)
 
 ### See Also
 
-* class [TextSegment](../../textsegment/)
-* class [TextSegmentCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

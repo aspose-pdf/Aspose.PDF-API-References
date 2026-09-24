@@ -1,10 +1,13 @@
 ---
-title: TextStamp.MaxRowWidth
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp property. Max row height for WordWrap option
+title: "TextStamp.MaxRowWidth"
+linktitle: "MaxRowWidth"
+articleTitle: "MaxRowWidth"
+second_title: "Aspose.PDF for .NET"
+description: "Max row height for WordWrap option."
 type: docs
-weight: 80
-url: /net/aspose.pdf/textstamp/maxrowwidth/
+weight: 200
+url: "/net/aspose.pdf/textstamp/maxrowwidth/"
+product_version: "26.9.0"
 ---
 ## TextStamp.MaxRowWidth property
 
@@ -14,10 +17,13 @@ Max row height for WordWrap option.
 public double MaxRowWidth { get; set; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [TextStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

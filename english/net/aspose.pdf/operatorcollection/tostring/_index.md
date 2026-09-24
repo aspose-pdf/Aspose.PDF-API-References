@@ -1,27 +1,31 @@
 ---
-title: OperatorCollection.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection method. Returns text representation of the operator
+title: "OperatorCollection.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET"
+description: "Returns text representation of the operator."
 type: docs
-weight: 190
-url: /net/aspose.pdf/operatorcollection/tostring/
+weight: 150
+url: "/net/aspose.pdf/operatorcollection/tostring/"
+product_version: "26.9.0"
 ---
-## OperatorCollection.ToString method
+## ToString() {#tostring}
 
 Returns text representation of the operator.
 
 ```csharp
-public override string ToString()
+public string ToString()
 ```
 
 ### Return Value
+
+string
 
 Text representation of operator.
 
 ### See Also
 
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

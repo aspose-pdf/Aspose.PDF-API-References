@@ -1,10 +1,13 @@
 ---
-title: TimestampSettings.DigestHashAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: TimestampSettings property. Gets/sets the digest algorithm for internal hash functions
+title: "TimestampSettings.DigestHashAlgorithm"
+linktitle: "DigestHashAlgorithm"
+articleTitle: "DigestHashAlgorithm"
+second_title: "Aspose.PDF for .NET"
+description: "Gets/sets the digest algorithm for internal hash functions."
 type: docs
-weight: 30
-url: /net/aspose.pdf/timestampsettings/digesthashalgorithm/
+weight: 40
+url: "/net/aspose.pdf/timestampsettings/digesthashalgorithm/"
+product_version: "26.9.0"
 ---
 ## TimestampSettings.DigestHashAlgorithm property
 
@@ -14,11 +17,14 @@ Gets/sets the digest algorithm for internal hash functions.
 public DigestHashAlgorithm DigestHashAlgorithm { get; set; }
 ```
 
+### Property Value
+
+[DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+
 ### See Also
 
-* enum [DigestHashAlgorithm](../../digesthashalgorithm/)
-* class [TimestampSettings](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* class [TimestampSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

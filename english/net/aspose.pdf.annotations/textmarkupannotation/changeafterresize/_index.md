@@ -1,17 +1,20 @@
 ---
-title: TextMarkupAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: TextMarkupAnnotation method. Updates the QuadPoints according to the matrix transform
+title: "TextMarkupAnnotation.ChangeAfterResize"
+linktitle: "ChangeAfterResize"
+articleTitle: "ChangeAfterResize"
+second_title: "Aspose.PDF for .NET"
+description: "Updates the QuadPoints, according to the matrix transform."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/textmarkupannotation/changeafterresize/
+weight: 40
+url: "/net/aspose.pdf.annotations/textmarkupannotation/changeafterresize/"
+product_version: "26.9.0"
 ---
-## TextMarkupAnnotation.ChangeAfterResize method
+## ChangeAfterResize([Matrix](../../../aspose.pdf/matrix/)) {#changeafterresize}
 
 Updates the QuadPoints, according to the matrix transform.
 
 ```csharp
-public override void ChangeAfterResize(Matrix transform)
+public void ChangeAfterResize(Matrix transform)
 ```
 
 | Parameter | Type | Description |
@@ -20,9 +23,7 @@ public override void ChangeAfterResize(Matrix transform)
 
 ### See Also
 
-* class [Matrix](../../../aspose.pdf/matrix/)
-* class [TextMarkupAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextMarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,21 +1,29 @@
 ---
-title: LinkElement.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: LinkElement method. 
+title: "LinkElement.SetText"
+linktitle: "SetText"
+articleTitle: "SetText"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 40
-url: /net/aspose.pdf.logicalstructure/linkelement/settext/
+weight: 10
+url: "/net/aspose.pdf.logicalstructure/linkelement/settext/"
+product_version: "26.9.0"
 ---
-## LinkElement.SetText method
+## SetText(string) {#settext}
+
+
 
 ```csharp
 public void SetText(string text)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | string |  |
+
 ### See Also
 
-* class [LinkElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LinkElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

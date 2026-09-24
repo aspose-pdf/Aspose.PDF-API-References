@@ -1,47 +1,60 @@
 ---
-title: Aspose.Pdf.Facades
-second_title: Aspose.PDF for .NET API Reference
-description: The Aspose.Pdf.Facades namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents perfoming operations like concatenating stamping signing annotating etc. but on the high level without access to a documents inner structure
+title: "Aspose.Pdf.Facades"
+linktitle: "Aspose.Pdf.Facades"
+articleTitle: "Aspose.Pdf.Facades"
+second_title: "Aspose.PDF for .NET"
+description: "The **Aspose.Pdf.Facades** namespace provides classes."
 type: docs
-weight: 80
-url: /net/aspose.pdf.facades/
+weight: 10
+url: "/net/aspose.pdf.facades/"
+keywords: "Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
-The **Aspose.Pdf.Facades** namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents perfoming operations like concatenating, stamping, signing, annotating etc. but on the high level without access to a document's inner structure.
+## Overview
+
+The **Aspose.Pdf.Facades** namespace provides classes.
+
+Part of the [Aspose.PDF for .NET](../) API reference.
 
 ## Classes
 
 | Class | Description |
 | --- | --- |
-| [AutoFiller](./autofiller/) | Represents a class to receive data from database or other datasource, fills them into the designed fields of the template pdf and at last generates new pdf file or stream. It has two template file input modes:input as a stream or a pdf file. It has four types of output modes:one merged stream, one merged file, many small streams, many small files. It can recieve literal data contained in a System.Data.DataTable. |
+| [AlignmentType](./alignmenttype/) | Class contains possibly alignment types. |
+| [AutoFiller](./autofiller/) | Represents a class to receive data from database or other datasource, fills them into the designed fields of the template pdf and at last generates new pdf file or stream. |
 | [BDCProperties](./bdcproperties/) | BDC operator properties. |
 | [Bookmark](./bookmark/) | Represents a bookmark. |
 | [Bookmarks](./bookmarks/) | Represents a collection of [`Bookmark`](../aspose.pdf.facades/bookmark/) objects. |
-| [DocumentPrivilege](./documentprivilege/) | Represents the privileges for accessing Pdf file. Refer to[`PdfFileSecurity`](../aspose.pdf.facades/pdffilesecurity/). There are 4 ways using this class: 1.Using predefined privilege directly. 2.Based on a predefined privilege and change some specifical permissions. 3.Based on a predefined privilege and change some specifical Adobe Professional permissions combination. 4.Mixes the way2 and way3. |
+| [DocumentPrivilege](./documentprivilege/) | Represents the privileges for accessing Pdf file. Refer to[`PdfFileSecurity`](../aspose.pdf.facades/pdffilesecurity/). |
 | [Facade](./facade/) | Base facade class. |
 | [FontColor](./fontcolor/) | Class representing color of the text. |
 | [Form](./form/) | Class representing Acro form object. |
-| [FormattedText](./formattedtext/) | Class which represents formatted text. Contains information about text and its color, size, style. |
-| [FormDataConverter](./formdataconverter/) | Represents a class to convert data from one format to another format. It can convert the data in fdf/xml/pdf/xfdf to the OLEDB/OdbcDB. It also can convert the data in the OLEDB/OdbcDB to the data in fdf/xml/xfdf. It can convert the fdf to the xml with "hard-named" tag. |
-| [FormEditor](./formeditor/) | Class for editing forms (ading/deleting field etc) |
+| [Form.FormImportResult](./form.formimportresult/) | Class which describes result if field import. |
+| [FormDataConverter](./formdataconverter/) | Represents a class to convert data from one format to another format. |
+| [FormEditor](./formeditor/) | Class for editing forms (ading/deleting field etc). |
 | [FormFieldFacade](./formfieldfacade/) | Class for representing field properties. |
+| [FormattedText](./formattedtext/) | Class which represents formatted text. Contains information about text and its color, size, style. |
 | [LineInfo](./lineinfo/) | Represents the information of line. |
 | [PdfAnnotationEditor](./pdfannotationeditor/) | Represents a class for work with PDF document annotations (comments). |
 | [PdfBookmarkEditor](./pdfbookmarkeditor/) | Represents a class to work with PDF file's bookmarks including create, modify, export, import and delete. |
 | [PdfContentEditor](./pdfcontenteditor/) | Represents a class to edit PDF file's content. |
-| [PdfConverter](./pdfconverter/) | Represents a class to convert a pdf file's each page to images, supporting BMP, JPEG, PNG and TIFF now. Supported content in pdfs: pictures, form, comment. |
+| [PdfConverter](./pdfconverter/) | Represents a class to convert a pdf file's each page to images, supporting BMP, JPEG, PNG and TIFF now. |
 | [PdfExtractor](./pdfextractor/) | Class for extracting images and text from PDF document. |
 | [PdfFileEditor](./pdffileeditor/) | Implements operations with PDF file: concatenation, splitting, extracting pages, making booklet, etc. |
+| [PdfFileEditor.ContentsResizeParameters](./pdffileeditor.contentsresizeparameters/) | Class for specifing page resize parameters. |
+| [PdfFileEditor.ContentsResizeValue](./pdffileeditor.contentsresizevalue/) | Value of margin or content size specified in percents of default space units. |
+| [PdfFileEditor.CorruptedItem](./pdffileeditor.corrupteditem/) | Class which provides information about corrupted files in time of concatenation. |
+| [PdfFileEditor.PageBreak](./pdffileeditor.pagebreak/) | Data of page break position. |
 | [PdfFileInfo](./pdffileinfo/) | Represents a class for accessing meta information of PDF document. |
 | [PdfFileMend](./pdffilemend/) | Represents a class for adding texts and images on the pages of existing PDF document. |
-| [PdfFileSanitization](./pdffilesanitization/) | Represents sanitization and recovery API. Use it if you can't create/open documents in any other way. |
+| [PdfFileSanitization](./pdffilesanitization/) | Represents sanitization and recovery API. |
 | [PdfFileSecurity](./pdffilesecurity/) | Represents encrypting or decrypting a Pdf file with owner or user password, changing the security setting and password. |
 | [PdfFileSignature](./pdffilesignature/) | Represents a class to sign a pdf file with a certificate. |
 | [PdfFileStamp](./pdffilestamp/) | Class for adding stamps (watermark or background) to PDF files. |
 | [PdfJavaScriptStripper](./pdfjavascriptstripper/) | Class for removing all Java Script code. |
 | [PdfPageEditor](./pdfpageeditor/) | Represents a class to edit the PDF file's page, including rotating page, zooming page, moving position and changing page size. |
 | [PdfPrintPageInfo](./pdfprintpageinfo/) | Represents an object that contains current printing page info. |
-| [PdfProducer](./pdfproducer/) | Represents a class to produce PDF from other formats. This sample shows how to produce Pdf file from CGM file. |
-| [PdfQueryPageSettingsEventHandler](./pdfquerypagesettingseventhandler/) | Represents the method that handles the [`PdfQueryPageSettings`](../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/) event of a [`PdfViewer`](../aspose.pdf.facades/pdfviewer/). |
+| [PdfProducer](./pdfproducer/) | Represents a class to produce PDF from other formats. |
 | [PdfViewer](./pdfviewer/) | Represents a class to view or print a pdf. |
 | [PdfXmpMetadata](./pdfxmpmetadata/) | Class for manipulation with XMP metadata. |
 | [ReplaceTextStrategy](./replacetextstrategy/) | This class contains parameters which define PdfContentEditor behavior when ReplaceText operation is performed. |
@@ -50,13 +63,16 @@ The **Aspose.Pdf.Facades** namespace provides classes originaly came from Aspose
 | [Stamp](./stamp/) | Class represeting stamp. |
 | [StampInfo](./stampinfo/) | Class representing stamp information. |
 | [TextProperties](./textproperties/) | Represents text properties such as: text size, color, style etc. |
+| [VerticalAlignmentType](./verticalalignmenttype/) | Class representing possible vertical alignment values. |
 | [ViewerPreference](./viewerpreference/) | Describes viewer prefereces (page mode, non full screen page mode, page layout). |
+
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
 | [IFacade](./ifacade/) | General facade interface that defines common facades methods. |
 | [ISaveableFacade](./isaveablefacade/) | Facade interface that defines methods common for all saveable facades. |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -69,12 +85,31 @@ The **Aspose.Pdf.Facades** namespace provides classes originaly came from Aspose
 | [EncodingType](./encodingtype/) | Enumerates encoding types of the text using. |
 | [FieldType](./fieldtype/) | Enumeration of possible field types. |
 | [FontStyle](./fontstyle/) | Enumerates 14 types of font. |
+| [Form.ImportStatus](./form.importstatus/) | Status of imported field. |
 | [ImageMergeMode](./imagemergemode/) | Represents modes for merging images. |
 | [KeySize](./keysize/) | Defines different key sizes which can be used to encrypt pdf documents. |
-| [PositioningMode](./positioningmode/) | Defines positioning mode. Possible values include Legacy (backward compatibility) and Current (updated text position calculation method) |
+| [PdfFileEditor.ConcatenateCorruptedFileAction](./pdffileeditor.concatenatecorruptedfileaction/) | Action performed when corrupted file was met in concatenation process. |
+| [PositioningMode](./positioningmode/) | Defines positioning mode. |
 | [PropertyFlag](./propertyflag/) | Enumeration of possible field flags. |
+| [ReplaceTextStrategy.NoCharacterAction](./replacetextstrategy.nocharacteraction/) | Action to perform if font does not contain required character. |
+| [ReplaceTextStrategy.Scope](./replacetextstrategy.scope/) | Scope where replace text operation is applied. |
 | [StampType](./stamptype/) | Describes stamp types. |
 | [SubmitFormFlag](./submitformflag/) | Enumeration of possible submit form flags. |
-| [WordWrapMode](./wordwrapmode/) | Defines word wrapping strategies |
+| [WordWrapMode](./wordwrapmode/) | Defines word wrapping strategies. |
 
+## Delegates
+
+| Delegate | Description |
+| --- | --- |
+| [PdfQueryPageSettingsEventHandler](./pdfquerypagesettingseventhandler/) | Represents the method that handles the `PdfQueryPageSettings` event of a [`PdfViewer`](../aspose.pdf.facades/pdfviewer/). |
+
+## FAQ
+
+### What classes does the Aspose.Pdf.Facades namespace contain?
+
+[AlignmentType](./alignmenttype/), [AutoFiller](./autofiller/), [BDCProperties](./bdcproperties/), [Bookmark](./bookmark/), [Bookmarks](./bookmarks/), and 40 more.
+
+### How many types are in the Aspose.Pdf.Facades namespace?
+
+The Aspose.Pdf.Facades namespace contains 67 types, listed above.
 

@@ -1,14 +1,17 @@
 ---
-title: ToolChoice.ToolChoice
-second_title: Aspose.PDF for .NET API Reference
-description: ToolChoice constructor. The default constructor
+title: "ToolChoice.ToolChoice"
+linktitle: "ToolChoice"
+articleTitle: "ToolChoice"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the ToolChoice class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/toolchoice/toolchoice/
+url: "/net/aspose.pdf.ai/toolchoice/toolchoice/"
+product_version: "26.9.0"
 ---
-## ToolChoice constructor
+## ToolChoice() {#constructor}
 
-The default constructor.
+Initializes a new instance of the ToolChoice class.
 
 ```csharp
 public ToolChoice()
@@ -16,8 +19,7 @@ public ToolChoice()
 
 ### See Also
 
-* class [ToolChoice](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ToolChoice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

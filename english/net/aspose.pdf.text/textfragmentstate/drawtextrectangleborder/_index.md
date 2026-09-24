@@ -1,10 +1,13 @@
 ---
-title: TextFragmentState.DrawTextRectangleBorder
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState property. Gets or sets if text rectangle border drawn flag
+title: "TextFragmentState.DrawTextRectangleBorder"
+linktitle: "DrawTextRectangleBorder"
+articleTitle: "DrawTextRectangleBorder"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets if text rectangle border drawn flag."
 type: docs
-weight: 50
-url: /net/aspose.pdf.text/textfragmentstate/drawtextrectangleborder/
+weight: 270
+url: "/net/aspose.pdf.text/textfragmentstate/drawtextrectangleborder/"
+product_version: "26.9.0"
 ---
 ## TextFragmentState.DrawTextRectangleBorder property
 
@@ -14,10 +17,13 @@ Gets or sets if text rectangle border drawn flag.
 public bool DrawTextRectangleBorder { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [TextFragmentState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

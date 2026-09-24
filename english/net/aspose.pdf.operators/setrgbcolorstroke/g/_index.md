@@ -1,10 +1,13 @@
 ---
-title: SetRGBColorStroke.G
-second_title: Aspose.PDF for .NET API Reference
-description: SetRGBColorStroke property. Gets or sets the green component
+title: "SetRGBColorStroke.G"
+linktitle: "G"
+articleTitle: "G"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the green component."
 type: docs
-weight: 30
-url: /net/aspose.pdf.operators/setrgbcolorstroke/g/
+weight: 70
+url: "/net/aspose.pdf.operators/setrgbcolorstroke/g/"
+product_version: "26.9.0"
 ---
 ## SetRGBColorStroke.G property
 
@@ -16,12 +19,11 @@ public double G { get; set; }
 
 ### Property Value
 
-The level of green from 0.0 to 1.0
+double
 
 ### See Also
 
-* class [SetRGBColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetRGBColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

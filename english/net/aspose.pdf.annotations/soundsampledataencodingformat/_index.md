@@ -1,10 +1,13 @@
 ---
-title: Enum SoundSampleDataEncodingFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SoundSampleDataEncodingFormat enum. The encoding format for the sound sample data
+title: "SoundSampleDataEncodingFormat Enum"
+linktitle: "SoundSampleDataEncodingFormat"
+articleTitle: "SoundSampleDataEncodingFormat"
+second_title: "Aspose.PDF for .NET"
+description: "The encoding format for the sound sample data."
 type: docs
-weight: 2680
-url: /net/aspose.pdf.annotations/soundsampledataencodingformat/
+weight: 1210
+url: "/net/aspose.pdf.annotations/soundsampledataencodingformat/"
+product_version: "26.9.0"
 ---
 ## SoundSampleDataEncodingFormat enumeration
 
@@ -14,10 +17,10 @@ The encoding format for the sound sample data.
 public enum SoundSampleDataEncodingFormat
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Raw | `0` | Unspecified or unsigned values in the range 0 to 2B - 1. |
 | Signed | `1` | Twos-complement values. |
 | muLaw | `2` | Mu-law-encoded samples. |
@@ -25,7 +28,6 @@ public enum SoundSampleDataEncodingFormat
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

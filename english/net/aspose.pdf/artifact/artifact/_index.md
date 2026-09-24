@@ -1,12 +1,15 @@
 ---
-title: Artifact.Artifact
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact constructor. Constructor of artifact with specified type and subtype
+title: "Artifact.Artifact"
+linktitle: "Artifact"
+articleTitle: "Artifact"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the Artifact class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/artifact/artifact/
+url: "/net/aspose.pdf/artifact/artifact/"
+product_version: "26.9.0"
 ---
-## Artifact(string, string) {#constructor_1}
+## Artifact(string, string) {#constructor}
 
 Constructor of artifact with specified type and subtype
 
@@ -16,20 +19,20 @@ public Artifact(string type, string subType)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | String | Name of artifact type. |
-| subType | String | NAme of artifact subtype. |
+| type | string | Name of artifact type. |
+| subType | string | NAme of artifact subtype. |
 
 ### See Also
 
-* class [Artifact](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Artifact(ArtifactType, ArtifactSubtype) {#constructor}
+## Artifact(ArtifactType, ArtifactSubtype) {#constructor_1}
 
-Constructor of artifact with specified type and subtype
+Initializes a new instance of the Artifact class.
 
 ```csharp
 public Artifact(ArtifactType type, ArtifactSubtype subType)
@@ -37,15 +40,12 @@ public Artifact(ArtifactType type, ArtifactSubtype subType)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | ArtifactType | Artifact type. |
-| subType | ArtifactSubtype | Artifact subtype. |
+| type | ArtifactType |  |
+| subType | ArtifactSubtype |  |
 
 ### See Also
 
-* enum [ArtifactType](../../artifact.artifacttype/)
-* enum [ArtifactSubtype](../../artifact.artifactsubtype/)
-* class [Artifact](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: LineInfo.LineDashPattern
-second_title: Aspose.PDF for .NET API Reference
-description: LineInfo property. Gets or sets the dash pattern of a line
+title: "LineInfo.LineDashPattern"
+linktitle: "LineDashPattern"
+articleTitle: "LineDashPattern"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the dash pattern of a line."
 type: docs
-weight: 40
-url: /net/aspose.pdf.facades/lineinfo/linedashpattern/
+weight: 60
+url: "/net/aspose.pdf.facades/lineinfo/linedashpattern/"
+product_version: "26.9.0"
 ---
 ## LineInfo.LineDashPattern property
 
@@ -14,10 +17,13 @@ Gets or sets the dash pattern of a line.
 public int[] LineDashPattern { get; set; }
 ```
 
+### Property Value
+
+int[]
+
 ### See Also
 
-* class [LineInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Table.CornerStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Table property. Gets or sets the styles of the border corners
+title: "Table.CornerStyle"
+linktitle: "CornerStyle"
+articleTitle: "CornerStyle"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the styles of the border corners"
 type: docs
-weight: 90
-url: /net/aspose.pdf/table/cornerstyle/
+weight: 130
+url: "/net/aspose.pdf/table/cornerstyle/"
+product_version: "26.9.0"
 ---
 ## Table.CornerStyle property
 
@@ -14,11 +17,14 @@ Gets or sets the styles of the border corners
 public BorderCornerStyle CornerStyle { get; set; }
 ```
 
+### Property Value
+
+[BorderCornerStyle](../../../aspose.pdf/bordercornerstyle/)
+
 ### See Also
 
-* enum [BorderCornerStyle](../../bordercornerstyle/)
-* class [Table](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BorderCornerStyle](../../../aspose.pdf/bordercornerstyle/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

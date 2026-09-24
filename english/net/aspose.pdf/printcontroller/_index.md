@@ -1,10 +1,14 @@
 ---
-title: Class PrintController
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PrintController class. Represents print controller
+title: "PrintController Class"
+linktitle: "PrintController"
+articleTitle: "PrintController"
+second_title: "Aspose.PDF for .NET"
+description: "Represents print controller."
 type: docs
-weight: 9780
-url: /net/aspose.pdf/printcontroller/
+weight: 2580
+url: "/net/aspose.pdf/printcontroller/"
+keywords: "PrintController, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## PrintController class
 
@@ -18,27 +22,27 @@ public sealed class PrintController : PrintController, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [PrintController](printcontroller/)() | The default constructor. |
+| [PrintController](./printcontroller/#constructor) | Initializes a new instance of the PrintController class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FileName](../../aspose.pdf/printcontroller/filename/) { get; set; } | Gets or sets file name. |
+| [FileName](./filename/) { get; set; } | Gets or sets file name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.pdf/printcontroller/dispose/)() | Dispose. |
-| override [OnEndPage](../../aspose.pdf/printcontroller/onendpage/)(PrintDocument, PrintPageEventArgs) | Fires on page end printing. |
-| override [OnEndPrint](../../aspose.pdf/printcontroller/onendprint/)(PrintDocument, PrintEventArgs) | Fires on page start printing. |
-| override [OnStartPage](../../aspose.pdf/printcontroller/onstartpage/)(PrintDocument, PrintPageEventArgs) | Fires on page start printing. |
-| override [OnStartPrint](../../aspose.pdf/printcontroller/onstartprint/)(PrintDocument, PrintEventArgs) | Fires on page start printing. |
+| [Dispose](./dispose/) | Dispose. |
+| [OnEndPage](./onendpage/)(*PrintDocument, PrintPageEventArgs*) | Fires on page end printing. |
+| [OnEndPrint](./onendprint/)(*PrintDocument, PrintEventArgs*) | Fires on page start printing. |
+| [OnStartPage](./onstartpage/)(*PrintDocument, PrintPageEventArgs*) | Fires on page start printing. |
+| [OnStartPrint](./onstartprint/)(*PrintDocument, PrintEventArgs*) | Fires on page start printing. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [PrintController](../printcontroller/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: MovieAnnotation.Poster
-second_title: Aspose.PDF for .NET API Reference
-description: MovieAnnotation property. Gets or sets a flag or stream specifying whether and how a poster image representing the movie shall be displayed. If true the poster image shall be retrieved from the movie file if it is false no poster shall be displayed
+title: "MovieAnnotation.Poster"
+linktitle: "Poster"
+articleTitle: "Poster"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets a flag or stream specifying whether and how a poster image representing the movie shall be displayed. If true, the poster image shall be retriev..."
 type: docs
-weight: 50
-url: /net/aspose.pdf.annotations/movieannotation/poster/
+weight: 60
+url: "/net/aspose.pdf.annotations/movieannotation/poster/"
+product_version: "26.9.0"
 ---
 ## MovieAnnotation.Poster property
 
@@ -14,10 +17,13 @@ Gets or sets a flag or stream specifying whether and how a poster image represen
 public bool Poster { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [MovieAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

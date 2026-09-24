@@ -1,14 +1,17 @@
 ---
-title: DictionaryEditor.Add
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor method. Set ICosPdfPrimitive to dictionary
+title: "DictionaryEditor.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: "Set to dictionary."
 type: docs
-weight: 80
-url: /net/aspose.pdf.dataeditor/dictionaryeditor/add/
+weight: 70
+url: "/net/aspose.pdf.dataeditor/dictionaryeditor/add/"
+product_version: "26.9.0"
 ---
-## Add(string, ICosPdfPrimitive) {#add_1}
+## Add(string, [ICosPdfPrimitive](../../../aspose.pdf.dataeditor/icospdfprimitive/)) {#add}
 
-Set [`ICosPdfPrimitive`](../../icospdfprimitive/) to dictionary.
+Set [`ICosPdfPrimitive`](../../../aspose.pdf.dataeditor/icospdfprimitive/) to dictionary.
 
 ```csharp
 public void Add(string key, ICosPdfPrimitive value)
@@ -16,7 +19,7 @@ public void Add(string key, ICosPdfPrimitive value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | Key. |
+| key | string | Key. |
 | value | ICosPdfPrimitive | Value. |
 
 ### Exceptions
@@ -27,16 +30,15 @@ public void Add(string key, ICosPdfPrimitive value)
 
 ### See Also
 
-* interface [ICosPdfPrimitive](../../icospdfprimitive/)
-* class [DictionaryEditor](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(KeyValuePair&lt;string, ICosPdfPrimitive&gt;) {#add}
+## Add(KeyValuePair<string, ICosPdfPrimitive>) {#add_1}
 
-Set [`ICosPdfPrimitive`](../../icospdfprimitive/) to dictionary.
+Set [`ICosPdfPrimitive`](../../../aspose.pdf.dataeditor/icospdfprimitive/) to dictionary.
 
 ```csharp
 public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
@@ -44,7 +46,7 @@ public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair`2 | The pair with a key and a value. |
+| item | KeyValuePair<string, ICosPdfPrimitive> | The pair with a key and a value. |
 
 ### Exceptions
 
@@ -54,9 +56,7 @@ public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
 
 ### See Also
 
-* interface [ICosPdfPrimitive](../../icospdfprimitive/)
-* class [DictionaryEditor](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

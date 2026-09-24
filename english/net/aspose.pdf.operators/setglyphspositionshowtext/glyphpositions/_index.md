@@ -1,10 +1,13 @@
 ---
-title: SetGlyphsPositionShowText.GlyphPositions
-second_title: Aspose.PDF for .NET API Reference
-description: SetGlyphsPositionShowText property. Returns positions of glyphs
+title: "SetGlyphsPositionShowText.GlyphPositions"
+linktitle: "GlyphPositions"
+articleTitle: "GlyphPositions"
+second_title: "Aspose.PDF for .NET"
+description: "Returns positions of glyphs."
 type: docs
-weight: 20
-url: /net/aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/
+weight: 40
+url: "/net/aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/"
+product_version: "26.9.0"
 ---
 ## SetGlyphsPositionShowText.GlyphPositions property
 
@@ -14,11 +17,13 @@ Returns positions of glyphs.
 public IEnumerable<GlyphPosition> GlyphPositions { get; }
 ```
 
+### Property Value
+
+[IEnumerable](https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1)<[GlyphPosition](../../../aspose.pdf.operators/glyphposition/)>
+
 ### See Also
 
-* class [GlyphPosition](../../glyphposition/)
-* class [SetGlyphsPositionShowText](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetGlyphsPositionShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Matrix3D.D
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D property. D member of the transformation matrix
+title: "Matrix3D.D"
+linktitle: "D"
+articleTitle: "D"
+second_title: "Aspose.PDF for .NET"
+description: "D member of the transformation matrix."
 type: docs
-weight: 50
-url: /net/aspose.pdf/matrix3d/d/
+weight: 130
+url: "/net/aspose.pdf/matrix3d/d/"
+product_version: "26.9.0"
 ---
 ## Matrix3D.D property
 
@@ -14,10 +17,13 @@ D member of the transformation matrix.
 public double D { get; set; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [Matrix3D](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

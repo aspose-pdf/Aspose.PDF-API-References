@@ -1,10 +1,13 @@
 ---
-title: TableTRElement.DefaultCellTextState
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement property. Gets or sets default text state for row cells
+title: "TableTRElement.DefaultCellTextState"
+linktitle: "DefaultCellTextState"
+articleTitle: "DefaultCellTextState"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets default text state for row cells"
 type: docs
-weight: 50
-url: /net/aspose.pdf.logicalstructure/tabletrelement/defaultcelltextstate/
+weight: 100
+url: "/net/aspose.pdf.logicalstructure/tabletrelement/defaultcelltextstate/"
+product_version: "26.9.0"
 ---
 ## TableTRElement.DefaultCellTextState property
 
@@ -14,11 +17,14 @@ Gets or sets default text state for row cells
 public TextState DefaultCellTextState { get; set; }
 ```
 
+### Property Value
+
+[TextState](../../../aspose.pdf.text/textstate/)
+
 ### See Also
 
-* class [TextState](../../../aspose.pdf.text/textstate/)
-* class [TableTRElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CustomPrintEventArgs.FileName
-second_title: Aspose.PDF for .NET API Reference
-description: CustomPrintEventArgs field. Gets the name of the file that is being printed
+title: "CustomPrintEventArgs.FileName"
+linktitle: "FileName"
+articleTitle: "FileName"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the name of the file that is being printed."
 type: docs
 weight: 20
-url: /net/aspose.pdf.printing/customprinteventargs/filename/
+url: "/net/aspose.pdf.printing/customprinteventargs/filename/"
+product_version: "26.9.0"
 ---
 ## CustomPrintEventArgs.FileName field
 
@@ -16,8 +19,7 @@ public readonly string FileName;
 
 ### See Also
 
-* class [CustomPrintEventArgs](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CustomPrintEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

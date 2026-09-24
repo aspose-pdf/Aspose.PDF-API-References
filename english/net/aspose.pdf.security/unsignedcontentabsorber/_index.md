@@ -1,10 +1,14 @@
 ---
-title: Class UnsignedContentAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.UnsignedContentAbsorber class. Represents a class for extracting unsigned content from a PDF file managed by digital signatures
+title: "UnsignedContentAbsorber Class"
+linktitle: "UnsignedContentAbsorber"
+articleTitle: "UnsignedContentAbsorber"
+second_title: "Aspose.PDF for .NET"
+description: "Represents a class for extracting unsigned content from a PDF file managed by digital signatures."
 type: docs
-weight: 10400
-url: /net/aspose.pdf.security/unsignedcontentabsorber/
+weight: 150
+url: "/net/aspose.pdf.security/unsignedcontentabsorber/"
+keywords: "UnsignedContentAbsorber, Aspose.Pdf.Security, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## UnsignedContentAbsorber class
 
@@ -18,24 +22,16 @@ public sealed class UnsignedContentAbsorber
 
 | Name | Description |
 | --- | --- |
-| [UnsignedContentAbsorber](unsignedcontentabsorber/)(PdfFileSignature) | Represents a class used for processing unsigned content. |
+| [UnsignedContentAbsorber](./unsignedcontentabsorber/#constructor)(*[PdfFileSignature](../../aspose.pdf.facades/pdffilesignature/)*) | Represents a class used for processing unsigned content. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [TryGetContent](../../aspose.pdf.security/unsignedcontentabsorber/trygetcontent/)() | Attempt to retrieve the unsigned content from the associated document. |
-
-## Other Members
-
-| Name | Description |
-| --- | --- |
-| class [Result](../../aspose.pdf.security/unsignedcontentabsorber.result) | Encapsulates the result of an operation attempting to extract unsigned content from a PDF document. |
-| class [UnsignedContent](../../aspose.pdf.security/unsignedcontentabsorber.unsignedcontent) | Encapsulates unsigned content elements extracted from a PDF document. This class provides access to pages, form fields, XForms, and annotations that are part of the unsigned content within the document. |
+| [TryGetContent](./trygetcontent/) | Attempt to retrieve the unsigned content from the associated document. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
 

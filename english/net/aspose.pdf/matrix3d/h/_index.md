@@ -1,10 +1,13 @@
 ---
-title: Matrix3D.H
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D property. H member of the transformation matrix
+title: "Matrix3D.H"
+linktitle: "H"
+articleTitle: "H"
+second_title: "Aspose.PDF for .NET"
+description: "H member of the transformation matrix."
 type: docs
-weight: 90
-url: /net/aspose.pdf/matrix3d/h/
+weight: 170
+url: "/net/aspose.pdf/matrix3d/h/"
+product_version: "26.9.0"
 ---
 ## Matrix3D.H property
 
@@ -14,10 +17,13 @@ H member of the transformation matrix.
 public double H { get; set; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [Matrix3D](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ScreenAnnotation.Action
-second_title: Aspose.PDF for .NET API Reference
-description: ScreenAnnotation property. Gets or sets an action to be performed when the annotation is activated
+title: "ScreenAnnotation.Action"
+linktitle: "Action"
+articleTitle: "Action"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets an action to be performed when the annotation is activated."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/screenannotation/action/
+weight: 40
+url: "/net/aspose.pdf.annotations/screenannotation/action/"
+product_version: "26.9.0"
 ---
 ## ScreenAnnotation.Action property
 
@@ -14,11 +17,14 @@ Gets or sets an action to be performed when the annotation is activated.
 public PdfAction Action { get; }
 ```
 
+### Property Value
+
+[PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+
 ### See Also
 
-* class [PdfAction](../../pdfaction/)
-* class [ScreenAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [ScreenAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

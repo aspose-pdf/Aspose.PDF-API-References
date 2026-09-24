@@ -1,14 +1,18 @@
 ---
-title: Class OcrTextRecognitionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Ocr.OcrTextRecognitionOptions class. Options for OcrTextAbsorber
+title: "OcrTextRecognitionOptions Class"
+linktitle: "OcrTextRecognitionOptions"
+articleTitle: "OcrTextRecognitionOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Options for ."
 type: docs
-weight: 8300
-url: /net/aspose.pdf.ocr/ocrtextrecognitionoptions/
+weight: 40
+url: "/net/aspose.pdf.ocr/ocrtextrecognitionoptions/"
+keywords: "OcrTextRecognitionOptions, Aspose.Pdf.Ocr, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## OcrTextRecognitionOptions class
 
-Options for [`OcrTextAbsorber`](../ocrtextabsorber/).
+Options for [`OcrTextAbsorber`](../../aspose.pdf.ocr/ocrtextabsorber/).
 
 ```csharp
 public sealed class OcrTextRecognitionOptions
@@ -18,19 +22,18 @@ public sealed class OcrTextRecognitionOptions
 
 | Name | Description |
 | --- | --- |
-| [OcrTextRecognitionOptions](ocrtextrecognitionoptions/)() | The default constructor. |
+| [OcrTextRecognitionOptions](./ocrtextrecognitionoptions/#constructor) | Initializes a new instance of the OcrTextRecognitionOptions class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Language](../../aspose.pdf.ocr/ocrtextrecognitionoptions/language/) { get; set; } | Gets or sets the recognition language. Defaults to English. |
-| [PageSeparator](../../aspose.pdf.ocr/ocrtextrecognitionoptions/pageseparator/) { get; set; } | Gets or sets the string inserted between recognized texts of consecutive pages. Defaults to `"\n\n"`. |
-| [Resolution](../../aspose.pdf.ocr/ocrtextrecognitionoptions/resolution/) { get; set; } | Gets or sets the rendering resolution, in DPI. Defaults to `300`. |
+| [Language](./language/) { get; set; } | Gets or sets the recognition language. Defaults to `English`. |
+| [PageSeparator](./pageseparator/) { get; set; } | Gets or sets the string inserted between recognized texts of consecutive pages. Defaults to `"\n\n"`. |
+| [Resolution](./resolution/) { get; set; } | Gets or sets the rendering resolution, in DPI. Defaults to `300`. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Ocr](../../aspose.pdf.ocr/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Ocr](../../aspose.pdf.ocr/)
+* assembly [Aspose.PDF](../../)
 

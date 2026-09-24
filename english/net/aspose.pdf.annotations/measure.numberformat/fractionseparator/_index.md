@@ -1,10 +1,13 @@
 ---
-title: Measure.NumberFormat.FractionSeparator
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat property. Text that shall be used as the decimal position in displaying numerical values. An empty string indicates that the default shall be used. Default is period character
+title: "Measure.NumberFormat.FractionSeparator"
+linktitle: "FractionSeparator"
+articleTitle: "FractionSeparator"
+second_title: "Aspose.PDF for .NET"
+description: "Text that shall be used as the decimal position in displaying numerical values. An empty string indicates that the default shall be used. Default is period c..."
 type: docs
-weight: 80
-url: /net/aspose.pdf.annotations/measure.numberformat/fractionseparator/
+weight: 90
+url: "/net/aspose.pdf.annotations/measure.numberformat/fractionseparator/"
+product_version: "26.9.0"
 ---
 ## Measure.NumberFormat.FractionSeparator property
 
@@ -14,10 +17,13 @@ Text that shall be used as the decimal position in displaying numerical values. 
 public string FractionSeparator { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [NumberFormat](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Measure.NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

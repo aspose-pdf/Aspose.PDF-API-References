@@ -1,10 +1,13 @@
 ---
-title: Logprobs.Tokens
-second_title: Aspose.PDF for .NET API Reference
-description: Logprobs property. Gets or sets a list of message content tokens with log probability information
+title: "Logprobs.Tokens"
+linktitle: "Tokens"
+articleTitle: "Tokens"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets a list of message content tokens with log probability information."
 type: docs
-weight: 40
-url: /net/aspose.pdf.ai/logprobs/tokens/
+weight: 20
+url: "/net/aspose.pdf.ai/logprobs/tokens/"
+product_version: "26.9.0"
 ---
 ## Logprobs.Tokens property
 
@@ -14,10 +17,13 @@ Gets or sets a list of message content tokens with log probability information.
 public List<string> Tokens { get; set; }
 ```
 
+### Property Value
+
+[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
+
 ### See Also
 
-* class [Logprobs](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Logprobs](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

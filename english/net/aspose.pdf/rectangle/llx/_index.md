@@ -1,10 +1,13 @@
 ---
-title: Rectangle.LLX
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle property. Xcoordinate of lower  left corner
+title: "Rectangle.LLX"
+linktitle: "LLX"
+articleTitle: "LLX"
+second_title: "Aspose.PDF for .NET"
+description: "X-coordinate of lower - left corner."
 type: docs
-weight: 100
-url: /net/aspose.pdf/rectangle/llx/
+weight: 230
+url: "/net/aspose.pdf/rectangle/llx/"
+product_version: "26.9.0"
 ---
 ## Rectangle.LLX property
 
@@ -14,10 +17,13 @@ X-coordinate of lower - left corner.
 public double LLX { get; set; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

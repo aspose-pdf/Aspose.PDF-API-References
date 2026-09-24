@@ -1,10 +1,13 @@
 ---
-title: TextEditOptions.LanguageTransformationBehavior
-second_title: Aspose.PDF for .NET API Reference
-description: TextEditOptions property. Gets mode that defines behavior for language transformation scenarios
+title: "TextEditOptions.LanguageTransformationBehavior"
+linktitle: "LanguageTransformationBehavior"
+articleTitle: "LanguageTransformationBehavior"
+second_title: "Aspose.PDF for .NET"
+description: "Gets mode that defines behavior for language transformation scenarios."
 type: docs
-weight: 50
-url: /net/aspose.pdf.text/texteditoptions/languagetransformationbehavior/
+weight: 90
+url: "/net/aspose.pdf.text/texteditoptions/languagetransformationbehavior/"
+product_version: "26.9.0"
 ---
 ## TextEditOptions.LanguageTransformationBehavior property
 
@@ -14,11 +17,13 @@ Gets mode that defines behavior for language transformation scenarios.
 public LanguageTransformation LanguageTransformationBehavior { get; set; }
 ```
 
+### Property Value
+
+LanguageTransformation
+
 ### See Also
 
-* enum [LanguageTransformation](../../texteditoptions.languagetransformation/)
-* class [TextEditOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextEditOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

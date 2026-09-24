@@ -1,10 +1,13 @@
 ---
-title: Enum Measure.NumberFormat.FractionStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.MeasureNumberFormatFractionStyle enum. Value which indicates in which manner fraction values are displayed
+title: "Measure.NumberFormat.FractionStyle Enum"
+linktitle: "Measure.NumberFormat.FractionStyle"
+articleTitle: "Measure.NumberFormat.FractionStyle"
+second_title: "Aspose.PDF for .NET"
+description: "Value which indicates in which manner fraction values are displayed."
 type: docs
-weight: 2140
-url: /net/aspose.pdf.annotations/measure.numberformat.fractionstyle/
+weight: 670
+url: "/net/aspose.pdf.annotations/measure.numberformat.fractionstyle/"
+product_version: "26.9.0"
 ---
 ## Measure.NumberFormat.FractionStyle enumeration
 
@@ -14,10 +17,10 @@ Value which indicates in which manner fraction values are displayed.
 public enum FractionStyle
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | ShowAsDecimal | `0` | Show fractional values as decimal fraction. |
 | ShowAsFraction | `1` | Show fractional value as fraction. |
 | Round | `2` | Round fractional values to the nearest whole integer. |
@@ -25,8 +28,7 @@ public enum FractionStyle
 
 ### See Also
 
-* class [NumberFormat](../measure.numberformat/)
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* class [Measure.NumberFormat](../measure.numberformat/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

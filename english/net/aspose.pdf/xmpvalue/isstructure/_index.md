@@ -1,10 +1,13 @@
 ---
-title: XmpValue.IsStructure
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue property. Returns true is XmpValue represents structure
+title: "XmpValue.IsStructure"
+linktitle: "IsStructure"
+articleTitle: "IsStructure"
+second_title: "Aspose.PDF for .NET"
+description: "Returns true is XmpValue represents structure."
 type: docs
-weight: 110
-url: /net/aspose.pdf/xmpvalue/isstructure/
+weight: 370
+url: "/net/aspose.pdf/xmpvalue/isstructure/"
+product_version: "26.9.0"
 ---
 ## XmpValue.IsStructure property
 
@@ -14,10 +17,13 @@ Returns true is XmpValue represents structure.
 public bool IsStructure { get; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

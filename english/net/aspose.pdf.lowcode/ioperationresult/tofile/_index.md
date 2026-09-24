@@ -1,12 +1,15 @@
 ---
-title: IOperationResult.ToFile
-second_title: Aspose.PDF for .NET API Reference
-description: IOperationResult method. Tries to convert the result to the file
+title: "IOperationResult.ToFile"
+linktitle: "ToFile"
+articleTitle: "ToFile"
+second_title: "Aspose.PDF for .NET"
+description: "Tries to convert the result to the file."
 type: docs
-weight: 50
-url: /net/aspose.pdf.lowcode/ioperationresult/tofile/
+weight: 10
+url: "/net/aspose.pdf.lowcode/ioperationresult/tofile/"
+product_version: "26.9.0"
 ---
-## IOperationResult.ToFile method
+## ToFile() {#tofile}
 
 Tries to convert the result to the file.
 
@@ -16,12 +19,13 @@ public string ToFile()
 
 ### Return Value
 
+string
+
 A string representing the path to the output file if the result is file; otherwise `null`.
 
 ### See Also
 
-* interface [IOperationResult](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOperationResult](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

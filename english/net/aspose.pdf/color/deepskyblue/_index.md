@@ -1,27 +1,30 @@
 ---
-title: Color.DeepSkyBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FF00BFFF
+title: "Color.DeepSkyBlue"
+linktitle: "DeepSkyBlue"
+articleTitle: "DeepSkyBlue"
+second_title: "Aspose.PDF for .NET"
+description: "Gets a system-defined color that has an ARGB value of \\c \\#FF00BFFF."
 type: docs
-weight: 410
-url: /net/aspose.pdf/color/deepskyblue/
+weight: 580
+url: "/net/aspose.pdf/color/deepskyblue/"
+product_version: "26.9.0"
 ---
 ## Color.DeepSkyBlue property
 
 Gets a system-defined color that has an ARGB value of \c \#FF00BFFF.
 
 ```csharp
-public static Color DeepSkyBlue { get; }
+public Color DeepSkyBlue { get; }
 ```
 
-### Return Value
+### Property Value
 
-A representing a system-defined color.
+[Color](../../../aspose.pdf/color/)
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

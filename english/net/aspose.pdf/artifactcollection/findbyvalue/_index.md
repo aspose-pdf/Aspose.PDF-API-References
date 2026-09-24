@@ -1,12 +1,15 @@
 ---
-title: ArtifactCollection.FindByValue
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection method. Finds artifacts by custom value
+title: "ArtifactCollection.FindByValue"
+linktitle: "FindByValue"
+articleTitle: "FindByValue"
+second_title: "Aspose.PDF for .NET"
+description: "Finds artifacts by custom value."
 type: docs
-weight: 90
-url: /net/aspose.pdf/artifactcollection/findbyvalue/
+weight: 40
+url: "/net/aspose.pdf/artifactcollection/findbyvalue/"
+product_version: "26.9.0"
 ---
-## ArtifactCollection.FindByValue method
+## FindByValue(string, string) {#findbyvalue}
 
 Finds artifacts by custom value.
 
@@ -16,18 +19,18 @@ public List<Artifact> FindByValue(string name, string expectedValue)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | Name of custom value. |
-| expectedValue | String | Value to find. |
+| name | string | Name of custom value. |
+| expectedValue | string | Value to find. |
 
 ### Return Value
+
+[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[Artifact](../../../aspose.pdf/artifact/)>
 
 List of found artifacts.
 
 ### See Also
 
-* class [Artifact](../../artifact/)
-* class [ArtifactCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

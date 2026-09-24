@@ -1,10 +1,13 @@
 ---
-title: LlamaChatCompletionResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaChatCompletionResponse property. Gets or sets the model used for the chat completion
+title: "LlamaChatCompletionResponse.Model"
+linktitle: "Model"
+articleTitle: "Model"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the model used for the chat completion."
 type: docs
-weight: 50
-url: /net/aspose.pdf.ai/llamachatcompletionresponse/model/
+weight: 60
+url: "/net/aspose.pdf.ai/llamachatcompletionresponse/model/"
+product_version: "26.9.0"
 ---
 ## LlamaChatCompletionResponse.Model property
 
@@ -14,10 +17,13 @@ Gets or sets the model used for the chat completion.
 public string Model { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [LlamaChatCompletionResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LlamaChatCompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

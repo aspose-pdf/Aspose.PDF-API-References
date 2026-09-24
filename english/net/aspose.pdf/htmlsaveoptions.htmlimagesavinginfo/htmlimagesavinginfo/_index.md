@@ -1,23 +1,25 @@
 ---
-title: HtmlSaveOptions.HtmlImageSavingInfo.HtmlImageSavingInfo
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlImageSavingInfo constructor. The default constructor
+title: "HtmlSaveOptions.HtmlImageSavingInfo.HtmlSaveOptions.HtmlImageSavingInfo"
+linktitle: "HtmlSaveOptions.HtmlImageSavingInfo"
+articleTitle: "HtmlSaveOptions.HtmlImageSavingInfo"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the HtmlSaveOptions.HtmlImageSavingInfo class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlimagesavinginfo/
+url: "/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlimagesavinginfo/"
+product_version: "26.9.0"
 ---
-## HtmlSaveOptions.HtmlImageSavingInfo constructor
+## HtmlSaveOptions.HtmlImageSavingInfo() {#constructor}
 
-The default constructor.
+Initializes a new instance of the HtmlSaveOptions.HtmlImageSavingInfo class.
 
 ```csharp
-public HtmlImageSavingInfo()
+public HtmlSaveOptions.HtmlImageSavingInfo()
 ```
 
 ### See Also
 
-* class [HtmlImageSavingInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HtmlSaveOptions.HtmlImageSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

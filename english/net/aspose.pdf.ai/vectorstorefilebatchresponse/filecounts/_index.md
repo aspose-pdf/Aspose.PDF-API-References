@@ -1,10 +1,13 @@
 ---
-title: VectorStoreFileBatchResponse.FileCounts
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchResponse property. Gets or sets the number of files that have been processed
+title: "VectorStoreFileBatchResponse.FileCounts"
+linktitle: "FileCounts"
+articleTitle: "FileCounts"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the number of files that have been processed."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/vectorstorefilebatchresponse/filecounts/
+weight: 70
+url: "/net/aspose.pdf.ai/vectorstorefilebatchresponse/filecounts/"
+product_version: "26.9.0"
 ---
 ## VectorStoreFileBatchResponse.FileCounts property
 
@@ -14,11 +17,14 @@ Gets or sets the number of files that have been processed.
 public FileCounts FileCounts { get; set; }
 ```
 
+### Property Value
+
+[FileCounts](../../../aspose.pdf.ai/filecounts/)
+
 ### See Also
 
-* class [FileCounts](../../filecounts/)
-* class [VectorStoreFileBatchResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileCounts](../../../aspose.pdf.ai/filecounts/)
+* class [VectorStoreFileBatchResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

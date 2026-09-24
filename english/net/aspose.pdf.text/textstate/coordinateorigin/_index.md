@@ -1,24 +1,35 @@
 ---
-title: TextState.CoordinateOrigin
-second_title: Aspose.PDF for .NET API Reference
-description: TextState property. Gets or sets text CoordinateOrigin. If CoordinateOrigin is Descender the text Y coordinate corresponds to the fonts lowest point. If CoordinateOrigin is BaseLine the text Y coordinate corresponds to the fonts baseline. The default value is Descender. If the fonts Descent value is too big text can be rendered higher than other fonts. In this case CoordinateOrigin BaseLine can be selected for better text rendering
+title: "TextState.CoordinateOrigin"
+linktitle: "CoordinateOrigin"
+articleTitle: "CoordinateOrigin"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets text CoordinateOrigin. If CoordinateOrigin is Descender, the text Y coordinate corresponds to the font's lowest point. If CoordinateOrigin is Ba..."
 type: docs
-weight: 40
-url: /net/aspose.pdf.text/textstate/coordinateorigin/
+weight: 470
+url: "/net/aspose.pdf.text/textstate/coordinateorigin/"
+product_version: "26.9.0"
 ---
 ## TextState.CoordinateOrigin property
 
-Gets or sets text CoordinateOrigin. If CoordinateOrigin is Descender, the text Y coordinate corresponds to the font's lowest point. If CoordinateOrigin is BaseLine, the text Y coordinate corresponds to the font's baseline. The default value is Descender. If the font's Descent value is too big, text can be rendered higher than other fonts. In this case, CoordinateOrigin BaseLine can be selected for better text rendering.
+Gets or sets text CoordinateOrigin.
+ If CoordinateOrigin is Descender, the text Y coordinate corresponds to the font's lowest point.
+ If CoordinateOrigin is BaseLine, the text Y coordinate corresponds to the font's baseline.
+ The default value is Descender.
+ If the font's Descent value is too big, text can be rendered higher than other fonts.
+ In this case, CoordinateOrigin BaseLine can be selected for better text rendering.
 
 ```csharp
-public virtual CoordinateOrigin CoordinateOrigin { get; set; }
+public CoordinateOrigin CoordinateOrigin { get; set; }
 ```
+
+### Property Value
+
+[CoordinateOrigin](../../../aspose.pdf.text/coordinateorigin/)
 
 ### See Also
 
-* enum [CoordinateOrigin](../../coordinateorigin/)
-* class [TextState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CoordinateOrigin](../../../aspose.pdf.text/coordinateorigin/)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

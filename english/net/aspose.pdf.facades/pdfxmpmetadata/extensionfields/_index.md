@@ -1,10 +1,13 @@
 ---
-title: PdfXmpMetadata.ExtensionFields
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata property. Gets the dictionary of extension fields
+title: "PdfXmpMetadata.ExtensionFields"
+linktitle: "ExtensionFields"
+articleTitle: "ExtensionFields"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the dictionary of extension fields."
 type: docs
-weight: 30
-url: /net/aspose.pdf.facades/pdfxmpmetadata/extensionfields/
+weight: 250
+url: "/net/aspose.pdf.facades/pdfxmpmetadata/extensionfields/"
+product_version: "26.9.0"
 ---
 ## PdfXmpMetadata.ExtensionFields property
 
@@ -14,11 +17,13 @@ Gets the dictionary of extension fields.
 public IDictionary<string, XmpPdfAExtensionSchema> ExtensionFields { get; }
 ```
 
+### Property Value
+
+[IDictionary](https://learn.microsoft.com/dotnet/api/system.collections.generic.idictionary-2)<string, [XmpPdfAExtensionSchema](../../../aspose.pdf/xmppdfaextensionschema/)>
+
 ### See Also
 
-* class [XmpPdfAExtensionSchema](../../../aspose.pdf/xmppdfaextensionschema/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

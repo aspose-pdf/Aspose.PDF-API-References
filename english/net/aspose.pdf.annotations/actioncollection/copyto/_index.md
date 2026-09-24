@@ -1,12 +1,15 @@
 ---
-title: ActionCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection method. Copies actions array into collection
+title: "ActionCollection.CopyTo"
+linktitle: "CopyTo"
+articleTitle: "CopyTo"
+second_title: "Aspose.PDF for .NET"
+description: "Copies actions array into collection."
 type: docs
-weight: 90
-url: /net/aspose.pdf.annotations/actioncollection/copyto/
+weight: 40
+url: "/net/aspose.pdf.annotations/actioncollection/copyto/"
+product_version: "26.9.0"
 ---
-## ActionCollection.CopyTo method
+## CopyTo(PdfAction[], int) {#copyto}
 
 Copies actions array into collection.
 
@@ -17,13 +20,11 @@ public void CopyTo(PdfAction[] array, int index)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | array | PdfAction[] | Array of actions which must be copied into collection. |
-| index | Int32 | Index starting from which array will be copied. |
+| index | int | Index starting from which array will be copied. |
 
 ### See Also
 
-* class [PdfAction](../../pdfaction/)
-* class [ActionCollection](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

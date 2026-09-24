@@ -1,12 +1,15 @@
 ---
-title: OpenAIOcrCopilotOptions.WithUserInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIOcrCopilotOptions method. Sets the user prompt
+title: "OpenAIOcrCopilotOptions.WithUserInstructions"
+linktitle: "WithUserInstructions"
+articleTitle: "WithUserInstructions"
+second_title: "Aspose.PDF for .NET"
+description: "Sets the user prompt."
 type: docs
-weight: 150
-url: /net/aspose.pdf.ai/openaiocrcopilotoptions/withuserinstructions/
+weight: 90
+url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withuserinstructions/"
+product_version: "26.9.0"
 ---
-## OpenAIOcrCopilotOptions.WithUserInstructions method
+## WithUserInstructions(string) {#withuserinstructions}
 
 Sets the user prompt.
 
@@ -16,16 +19,18 @@ public OpenAIOcrCopilotOptions WithUserInstructions(string text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | String | The prompt text. |
+| text | string | The prompt text. |
 
 ### Return Value
 
-The current instance of [`OpenAIOcrCopilotOptions`](../).
+[OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+
+The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+* class [OpenAIOcrCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

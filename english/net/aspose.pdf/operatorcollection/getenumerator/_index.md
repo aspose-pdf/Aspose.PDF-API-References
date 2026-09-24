@@ -1,28 +1,31 @@
 ---
-title: OperatorCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection method. Returns enumerator for collection
+title: "OperatorCollection.GetEnumerator"
+linktitle: "GetEnumerator"
+articleTitle: "GetEnumerator"
+second_title: "Aspose.PDF for .NET"
+description: "Returns enumerator for collection"
 type: docs
-weight: 130
-url: /net/aspose.pdf/operatorcollection/getenumerator/
+weight: 30
+url: "/net/aspose.pdf/operatorcollection/getenumerator/"
+product_version: "26.9.0"
 ---
-## OperatorCollection.GetEnumerator method
+## GetEnumerator() {#getenumerator}
 
 Returns enumerator for collection
 
 ```csharp
-public override IEnumerator<Operator> GetEnumerator()
+public IEnumerator<Operator> GetEnumerator()
 ```
 
 ### Return Value
+
+IEnumerator<[Operator](../../../aspose.pdf/operator/)>
 
 Collection enumerator
 
 ### See Also
 
-* class [Operator](../../operator/)
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

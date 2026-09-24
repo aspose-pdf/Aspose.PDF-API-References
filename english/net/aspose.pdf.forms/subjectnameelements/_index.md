@@ -1,10 +1,13 @@
 ---
-title: Enum SubjectNameElements
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.SubjectNameElements enum. Enumeration describes elements in signature subject string
+title: "SubjectNameElements Enum"
+linktitle: "SubjectNameElements"
+articleTitle: "SubjectNameElements"
+second_title: "Aspose.PDF for .NET"
+description: "Enumeration describes elements in signature subject string."
 type: docs
-weight: 5480
-url: /net/aspose.pdf.forms/subjectnameelements/
+weight: 370
+url: "/net/aspose.pdf.forms/subjectnameelements/"
+product_version: "26.9.0"
 ---
 ## SubjectNameElements enumeration
 
@@ -14,10 +17,10 @@ Enumeration describes elements in signature subject string.
 public enum SubjectNameElements
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | CN | `0` | Common Name. |
 | O | `1` | Organization. |
 | L | `2` | Locality. |
@@ -28,7 +31,6 @@ public enum SubjectNameElements
 
 ### See Also
 
-* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,27 +1,31 @@
 ---
-title: TextExtractionErrorLocation.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionErrorLocation method. Returns string representation
+title: "TextExtractionErrorLocation.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET"
+description: "Returns string representation."
 type: docs
-weight: 90
-url: /net/aspose.pdf.text/textextractionerrorlocation/tostring/
+weight: 10
+url: "/net/aspose.pdf.text/textextractionerrorlocation/tostring/"
+product_version: "26.9.0"
 ---
-## TextExtractionErrorLocation.ToString method
+## ToString() {#tostring}
 
 Returns string representation.
 
 ```csharp
-public override string ToString()
+public string ToString()
 ```
 
 ### Return Value
+
+string
 
 String representation.
 
 ### See Also
 
-* class [TextExtractionErrorLocation](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,27 +1,30 @@
 ---
-title: Color.Olive
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FF808000
+title: "Color.Olive"
+linktitle: "Olive"
+articleTitle: "Olive"
+second_title: "Aspose.PDF for .NET"
+description: "Gets a system-defined color that has an ARGB value of \\c \\#FF808000."
 type: docs
-weight: 990
-url: /net/aspose.pdf/color/olive/
+weight: 1160
+url: "/net/aspose.pdf/color/olive/"
+product_version: "26.9.0"
 ---
 ## Color.Olive property
 
 Gets a system-defined color that has an ARGB value of \c \#FF808000.
 
 ```csharp
-public static Color Olive { get; }
+public Color Olive { get; }
 ```
 
-### Return Value
+### Property Value
 
-A representing a system-defined color.
+[Color](../../../aspose.pdf/color/)
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PaperSizes.A5Extra
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. A5 extra paper 174 mm by 235 mm
+title: "PaperSizes.A5Extra"
+linktitle: "A5Extra"
+articleTitle: "A5Extra"
+second_title: "Aspose.PDF for .NET"
+description: "A5 extra paper (174 mm by 235 mm)."
 type: docs
-weight: 140
-url: /net/aspose.pdf.printing/papersizes/a5extra/
+weight: 620
+url: "/net/aspose.pdf.printing/papersizes/a5extra/"
+product_version: "26.9.0"
 ---
 ## PaperSizes.A5Extra field
 
@@ -16,9 +19,8 @@ public static readonly PaperSize A5Extra;
 
 ### See Also
 
-* class [PaperSize](../../papersize/)
-* class [PaperSizes](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

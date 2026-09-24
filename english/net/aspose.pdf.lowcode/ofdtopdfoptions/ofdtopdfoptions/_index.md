@@ -1,14 +1,17 @@
 ---
-title: OfdToPdfOptions.OfdToPdfOptions
-second_title: Aspose.PDF for .NET API Reference
-description: OfdToPdfOptions constructor. The default constructor
+title: "OfdToPdfOptions.OfdToPdfOptions"
+linktitle: "OfdToPdfOptions"
+articleTitle: "OfdToPdfOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the OfdToPdfOptions class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/ofdtopdfoptions/ofdtopdfoptions/
+url: "/net/aspose.pdf.lowcode/ofdtopdfoptions/ofdtopdfoptions/"
+product_version: "26.9.0"
 ---
-## OfdToPdfOptions constructor
+## OfdToPdfOptions() {#constructor}
 
-The default constructor.
+Initializes a new instance of the OfdToPdfOptions class.
 
 ```csharp
 public OfdToPdfOptions()
@@ -16,8 +19,7 @@ public OfdToPdfOptions()
 
 ### See Also
 
-* class [OfdToPdfOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OfdToPdfOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

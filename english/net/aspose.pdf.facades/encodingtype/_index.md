@@ -1,10 +1,13 @@
 ---
-title: Enum EncodingType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.EncodingType enum. Enumerates encoding types of the text using
+title: "EncodingType Enum"
+linktitle: "EncodingType"
+articleTitle: "EncodingType"
+second_title: "Aspose.PDF for .NET"
+description: "Enumerates encoding types of the text using."
 type: docs
-weight: 4400
-url: /net/aspose.pdf.facades/encodingtype/
+weight: 130
+url: "/net/aspose.pdf.facades/encodingtype/"
+product_version: "26.9.0"
 ---
 ## EncodingType enumeration
 
@@ -14,10 +17,10 @@ Enumerates encoding types of the text using.
 public enum EncodingType
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Identity_h | `0` | The Unicode encoding with horizontal writing. |
 | Identity_v | `1` | The Unicode encoding with vertical writing. |
 | Cp1250 | `2` | A windows text encoding name. |
@@ -28,7 +31,6 @@ public enum EncodingType
 
 ### See Also
 
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

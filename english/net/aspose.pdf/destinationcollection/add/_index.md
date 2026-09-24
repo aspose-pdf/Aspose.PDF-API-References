@@ -1,14 +1,18 @@
 ---
-title: DestinationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection method. Adds the specified item. Collection is readonly. Always throws NotSupportedException exception
+title: "DestinationCollection.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: "Adds the specified item. Collection is read-only. Always throws NotSupportedException exception."
 type: docs
-weight: 40
-url: /net/aspose.pdf/destinationcollection/add/
+weight: 70
+url: "/net/aspose.pdf/destinationcollection/add/"
+product_version: "26.9.0"
 ---
-## DestinationCollection.Add method
+## Add(KeyValuePair<string, object>) {#add}
 
-Adds the specified item. Collection is read-only. Always throws NotSupportedException exception.
+Adds the specified item.
+ Collection is read-only. Always throws NotSupportedException exception.
 
 ```csharp
 public void Add(KeyValuePair<string, object> item)
@@ -16,7 +20,7 @@ public void Add(KeyValuePair<string, object> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair`2 | The item. |
+| item | KeyValuePair<string, object> | The item. |
 
 ### Exceptions
 
@@ -26,8 +30,7 @@ public void Add(KeyValuePair<string, object> item)
 
 ### See Also
 
-* class [DestinationCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

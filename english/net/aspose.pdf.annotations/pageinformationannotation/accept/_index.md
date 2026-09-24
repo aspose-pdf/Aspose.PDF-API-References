@@ -1,17 +1,20 @@
 ---
-title: PageInformationAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: PageInformationAnnotation method. Accepts visitor for annotation processing
+title: "PageInformationAnnotation.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET"
+description: "Accepts visitor for annotation processing."
 type: docs
-weight: 30
-url: /net/aspose.pdf.annotations/pageinformationannotation/accept/
+weight: 20
+url: "/net/aspose.pdf.annotations/pageinformationannotation/accept/"
+product_version: "26.9.0"
 ---
-## PageInformationAnnotation.Accept method
+## Accept([AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)) {#accept}
 
 Accepts visitor for annotation processing.
 
 ```csharp
-public override void Accept(AnnotationSelector visitor)
+public void Accept(AnnotationSelector visitor)
 ```
 
 | Parameter | Type | Description |
@@ -20,9 +23,7 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../annotationselector/)
-* class [PageInformationAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageInformationAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class RequiredAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.RequiredAction class. Details on the action required to continue the run. Will be null if no action is required
+title: "RequiredAction Class"
+linktitle: "RequiredAction"
+articleTitle: "RequiredAction"
+second_title: "Aspose.PDF for .NET"
+description: "Details on the action required to continue the run. Will be null if no action is required."
 type: docs
 weight: 1030
-url: /net/aspose.pdf.ai/requiredaction/
+url: "/net/aspose.pdf.ai/requiredaction/"
+keywords: "RequiredAction, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## RequiredAction class
 
@@ -18,18 +22,17 @@ public class RequiredAction
 
 | Name | Description |
 | --- | --- |
-| [RequiredAction](requiredaction/)() | The default constructor. |
+| [RequiredAction](./requiredaction/#constructor) | Initializes a new instance of the RequiredAction class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [RequiredActionType](../../aspose.pdf.ai/requiredaction/requiredactiontype/) { get; set; } | Gets or sets the type of action that is required. |
-| [SubmitToolOutputs](../../aspose.pdf.ai/requiredaction/submittooloutputs/) { get; set; } | Gets or sets details on the tool outputs needed for this run to continue. |
+| [RequiredActionType](./requiredactiontype/) { get; set; } | Gets or sets the type of action that is required. |
+| [SubmitToolOutputs](./submittooloutputs/) { get; set; } | Gets or sets details on the tool outputs needed for this run to continue. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

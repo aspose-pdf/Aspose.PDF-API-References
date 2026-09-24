@@ -1,10 +1,13 @@
 ---
-title: ImageDescriptionResult.FilePath
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDescriptionResult property. Gets or sets the file name
+title: "ImageDescriptionResult.FilePath"
+linktitle: "FilePath"
+articleTitle: "FilePath"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the file name."
 type: docs
 weight: 20
-url: /net/aspose.pdf.ai/imagedescriptionresult/filepath/
+url: "/net/aspose.pdf.ai/imagedescriptionresult/filepath/"
+product_version: "26.9.0"
 ---
 ## ImageDescriptionResult.FilePath property
 
@@ -14,10 +17,13 @@ Gets or sets the file name.
 public string FilePath { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [ImageDescriptionResult](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImageDescriptionResult](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

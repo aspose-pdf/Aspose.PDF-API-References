@@ -1,10 +1,13 @@
 ---
-title: PptxSaveOptions.OptimizeTextBoxes
-second_title: Aspose.PDF for .NET API Reference
-description: PptxSaveOptions property. Toggles text columns recognition
+title: "PptxSaveOptions.OptimizeTextBoxes"
+linktitle: "OptimizeTextBoxes"
+articleTitle: "OptimizeTextBoxes"
+second_title: "Aspose.PDF for .NET"
+description: "Toggles text columns recognition"
 type: docs
-weight: 40
-url: /net/aspose.pdf/pptxsaveoptions/optimizetextboxes/
+weight: 60
+url: "/net/aspose.pdf/pptxsaveoptions/optimizetextboxes/"
+product_version: "26.9.0"
 ---
 ## PptxSaveOptions.OptimizeTextBoxes property
 
@@ -14,10 +17,13 @@ Toggles text columns recognition
 public bool OptimizeTextBoxes { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [PptxSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PptxSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

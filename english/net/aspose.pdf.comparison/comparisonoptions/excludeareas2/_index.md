@@ -1,24 +1,32 @@
 ---
-title: ComparisonOptions.ExcludeAreas2
-second_title: Aspose.PDF for .NET API Reference
-description: ComparisonOptions property. Get and set the exclude areas. Used for the second page or document in the comparison method. This option can be setted along with ExcludeTables. This option cant be setted along with ExtractionArea option
+title: "ComparisonOptions.ExcludeAreas2"
+linktitle: "ExcludeAreas2"
+articleTitle: "ExcludeAreas2"
+second_title: "Aspose.PDF for .NET"
+description: "Get and set the exclude areas. Used for the second page or document in the comparison method. This option can be setted along with . This option can't be set..."
 type: docs
-weight: 40
-url: /net/aspose.pdf.comparison/comparisonoptions/excludeareas2/
+weight: 50
+url: "/net/aspose.pdf.comparison/comparisonoptions/excludeareas2/"
+product_version: "26.9.0"
 ---
 ## ComparisonOptions.ExcludeAreas2 property
 
-Get and set the exclude areas. Used for the second page or document in the comparison method. This option can be setted along with [`ExcludeTables`](../excludetables/). This option can't be setted along with [`ExtractionArea`](../extractionarea/) option.
+Get and set the exclude areas. Used for the second page or document in the comparison method.
+ This option can be setted along with `ExcludeTables`.
+ This option can't be setted along with `ExtractionArea` option.
 
 ```csharp
 public Rectangle[] ExcludeAreas2 { get; set; }
 ```
 
+### Property Value
+
+[Rectangle](../../../aspose.pdf.drawing/rectangle/)[]
+
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [ComparisonOptions](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [ComparisonOptions](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

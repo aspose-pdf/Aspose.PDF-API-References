@@ -1,10 +1,13 @@
 ---
-title: Measure.NumberFormat.AfterText
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat property. Text that shall be concatenated after the label
+title: "Measure.NumberFormat.AfterText"
+linktitle: "AfterText"
+articleTitle: "AfterText"
+second_title: "Aspose.PDF for .NET"
+description: "Text that shall be concatenated after the label"
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/measure.numberformat/aftertext/
+weight: 110
+url: "/net/aspose.pdf.annotations/measure.numberformat/aftertext/"
+product_version: "26.9.0"
 ---
 ## Measure.NumberFormat.AfterText property
 
@@ -14,10 +17,13 @@ Text that shall be concatenated after the label
 public string AfterText { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [NumberFormat](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Measure.NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

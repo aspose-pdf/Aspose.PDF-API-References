@@ -1,10 +1,13 @@
 ---
-title: Annotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Annotation property. Gets or sets the type of the annotation
+title: "Annotation.AnnotationType"
+linktitle: "AnnotationType"
+articleTitle: "AnnotationType"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the type of the annotation."
 type: docs
 weight: 20
-url: /net/aspose.pdf.ai/annotation/annotationtype/
+url: "/net/aspose.pdf.ai/annotation/annotationtype/"
+product_version: "26.9.0"
 ---
 ## Annotation.AnnotationType property
 
@@ -14,10 +17,13 @@ Gets or sets the type of the annotation.
 public string AnnotationType { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [Annotation](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Annotation](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

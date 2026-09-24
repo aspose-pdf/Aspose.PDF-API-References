@@ -1,12 +1,15 @@
 ---
-title: PdfContentEditor.AddDocumentAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Adds document attachment with no annotation
+title: "PdfContentEditor.AddDocumentAttachment"
+linktitle: "AddDocumentAttachment"
+articleTitle: "AddDocumentAttachment"
+second_title: "Aspose.PDF for .NET"
+description: "Adds document attachment with no annotation."
 type: docs
-weight: 70
-url: /net/aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/
+weight: 270
+url: "/net/aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/"
+product_version: "26.9.0"
 ---
-## AddDocumentAttachment(string, string) {#adddocumentattachment_1}
+## AddDocumentAttachment(string, string) {#adddocumentattachment}
 
 Adds document attachment with no annotation.
 
@@ -16,57 +19,34 @@ public void AddDocumentAttachment(string fileAttachmentPath, string description)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileAttachmentPath | String | The path of the file will be attached. |
-| description | String | The description information. |
-
-## Examples
-
-```csharp
-PdfContentEditor editor = new PdfContentEditor();
-editor.BindPdf("example.pdf");
-editor.AddDocumentAttachment("attachment_file.pdf", "description of attachment_file");
-editor.Save("example_out.pdf");
-```
+| fileAttachmentPath | string | The path of the file will be attached. |
+| description | string | The description information. |
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddDocumentAttachment(Stream, string, string) {#adddocumentattachment}
+## AddDocumentAttachment(Stream, string, string) {#adddocumentattachment_1}
 
 Adds document attachment with no annotation.
 
 ```csharp
-public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttachmentName, 
-    string description)
+public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttachmentName, string description)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileAttachmentStream | Stream | The stream of the file will be attached. |
-| fileAttachmentName | String | The attachment name. |
-| description | String | The description information. |
-
-## Examples
-
-```csharp
-PdfContentEditor editor = new PdfContentEditor();
-editor.BindPdf("example.pdf");
-using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.pdf"))
-{
-    editor.AddDocumentAttachment(attStream, "attachment_file.pdf", "description of attachment_file");
-    editor.Save("example_out.pdf");
-}    
-```
+| fileAttachmentName | string | The attachment name. |
+| description | string | The description information. |
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

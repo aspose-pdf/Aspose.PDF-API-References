@@ -1,12 +1,15 @@
 ---
-title: FileSaveTarget.FileSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: FileSaveTarget constructor. Initializes new file save target with specified path
+title: "FileSaveTarget.FileSaveTarget"
+linktitle: "FileSaveTarget"
+articleTitle: "FileSaveTarget"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the FileSaveTarget class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/filesavetarget/filesavetarget/
+url: "/net/aspose.pdf.lowcode/filesavetarget/filesavetarget/"
+product_version: "26.9.0"
 ---
-## FileSaveTarget constructor
+## FileSaveTarget(string) {#constructor}
 
 Initializes new file save target with specified path.
 
@@ -16,12 +19,11 @@ public FileSaveTarget(string path)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| path | String | A string representing the path to the output file. |
+| path | string | A string representing the path to the output file. |
 
 ### See Also
 
-* class [FileSaveTarget](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileSaveTarget](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

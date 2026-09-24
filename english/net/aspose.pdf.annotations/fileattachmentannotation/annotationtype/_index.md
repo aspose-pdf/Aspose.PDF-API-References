@@ -1,24 +1,30 @@
 ---
-title: FileAttachmentAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: FileAttachmentAnnotation property. Gets type of annotation
+title: "FileAttachmentAnnotation.AnnotationType"
+linktitle: "AnnotationType"
+articleTitle: "AnnotationType"
+second_title: "Aspose.PDF for .NET"
+description: "Gets type of annotation."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/fileattachmentannotation/annotationtype/
+weight: 30
+url: "/net/aspose.pdf.annotations/fileattachmentannotation/annotationtype/"
+product_version: "26.9.0"
 ---
 ## FileAttachmentAnnotation.AnnotationType property
 
 Gets type of annotation.
 
 ```csharp
-public override AnnotationType AnnotationType { get; }
+public AnnotationType AnnotationType { get; }
 ```
+
+### Property Value
+
+[AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 
 ### See Also
 
-* enum [AnnotationType](../../annotationtype/)
-* class [FileAttachmentAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [FileAttachmentAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

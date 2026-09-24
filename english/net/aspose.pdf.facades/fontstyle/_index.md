@@ -1,10 +1,13 @@
 ---
-title: Enum FontStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FontStyle enum. Enumerates 14 types of font
+title: "FontStyle Enum"
+linktitle: "FontStyle"
+articleTitle: "FontStyle"
+second_title: "Aspose.PDF for .NET"
+description: "Enumerates 14 types of font."
 type: docs
-weight: 4440
-url: /net/aspose.pdf.facades/fontstyle/
+weight: 170
+url: "/net/aspose.pdf.facades/fontstyle/"
+product_version: "26.9.0"
 ---
 ## FontStyle enumeration
 
@@ -14,10 +17,10 @@ Enumerates 14 types of font.
 public enum FontStyle
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Courier | `0` | Courier font. |
 | CourierBold | `1` | Bold Courier font. |
 | CourierOblique | `2` | Oblique Curier font. |
@@ -37,7 +40,6 @@ public enum FontStyle
 
 ### See Also
 
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

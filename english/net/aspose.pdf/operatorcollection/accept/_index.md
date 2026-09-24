@@ -1,12 +1,15 @@
 ---
-title: OperatorCollection.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection method. Accepts IOperatorSelector visitor object to process operators
+title: "OperatorCollection.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET"
+description: "Accepts IOperatorSelector visitor object to process operators."
 type: docs
-weight: 50
-url: /net/aspose.pdf/operatorcollection/accept/
+weight: 40
+url: "/net/aspose.pdf/operatorcollection/accept/"
+product_version: "26.9.0"
 ---
-## OperatorCollection.Accept method
+## Accept([IOperatorSelector](../../../aspose.pdf/ioperatorselector/)) {#accept}
 
 Accepts IOperatorSelector visitor object to process operators.
 
@@ -20,9 +23,7 @@ public void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../ioperatorselector/)
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

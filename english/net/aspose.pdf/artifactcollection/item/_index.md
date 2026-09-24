@@ -1,32 +1,30 @@
 ---
-title: ArtifactCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection property. Gets artifact by index. Index is started from 1
+title: "ArtifactCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 40
-url: /net/aspose.pdf/artifactcollection/item/
+weight: 110
+url: "/net/aspose.pdf/artifactcollection/item/"
+product_version: "26.9.0"
 ---
-## ArtifactCollection indexer
+## ArtifactCollection.Item property
 
-Gets artifact by index. Index is started from 1.
+
 
 ```csharp
-public Artifact this[int index] { get; }
+public Artifact Item { get; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| index | Index of the artifact. |
+### Property Value
 
-### Return Value
-
-Artifact on the page.
+[Artifact](../../../aspose.pdf/artifact/)
 
 ### See Also
 
-* class [Artifact](../../artifact/)
-* class [ArtifactCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Artifact](../../../aspose.pdf/artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

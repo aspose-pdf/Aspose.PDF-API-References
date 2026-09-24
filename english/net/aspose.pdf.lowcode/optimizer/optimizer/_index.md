@@ -1,14 +1,17 @@
 ---
-title: Optimizer.Optimizer
-second_title: Aspose.PDF for .NET API Reference
-description: Optimizer constructor. The default constructor
+title: "Optimizer.Optimizer"
+linktitle: "Optimizer"
+articleTitle: "Optimizer"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the Optimizer class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/optimizer/optimizer/
+url: "/net/aspose.pdf.lowcode/optimizer/optimizer/"
+product_version: "26.9.0"
 ---
-## Optimizer constructor
+## Optimizer() {#constructor}
 
-The default constructor.
+Initializes a new instance of the Optimizer class.
 
 ```csharp
 public Optimizer()
@@ -16,8 +19,7 @@ public Optimizer()
 
 ### See Also
 
-* class [Optimizer](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Optimizer](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

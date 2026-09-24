@@ -1,10 +1,13 @@
 ---
-title: FileSpecification.Description
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification property. Gets or sets text associated with the file specification
+title: "FileSpecification.Description"
+linktitle: "Description"
+articleTitle: "Description"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets text associated with the file specification."
 type: docs
-weight: 50
-url: /net/aspose.pdf/filespecification/description/
+weight: 150
+url: "/net/aspose.pdf/filespecification/description/"
+product_version: "26.9.0"
 ---
 ## FileSpecification.Description property
 
@@ -14,10 +17,13 @@ Gets or sets text associated with the file specification.
 public string Description { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [FileSpecification](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

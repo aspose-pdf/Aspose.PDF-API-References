@@ -1,28 +1,31 @@
 ---
-title: PdfFileSanitization.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSanitization method. Binds a Pdf file for Sanitize
+title: "PdfFileSanitization.BindPdf"
+linktitle: "BindPdf"
+articleTitle: "BindPdf"
+second_title: "Aspose.PDF for .NET"
+description: "Binds a Pdf file for Sanitize."
 type: docs
-weight: 60
-url: /net/aspose.pdf.facades/pdffilesanitization/bindpdf/
+weight: 40
+url: "/net/aspose.pdf.facades/pdffilesanitization/bindpdf/"
+product_version: "26.9.0"
 ---
-## BindPdf(string) {#bindpdf_2}
+## BindPdf(string) {#bindpdf}
 
 Binds a Pdf file for Sanitize.
 
 ```csharp
-public override void BindPdf(string inputFile)
+public void BindPdf(string inputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | String | The pdf file to be edited. |
+| inputFile | string | The pdf file to be edited. |
 
 ### See Also
 
-* class [PdfFileSanitization](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -31,7 +34,7 @@ public override void BindPdf(string inputFile)
 Binds a Pdf stream for Sanitize.
 
 ```csharp
-public override void BindPdf(Stream inputStream)
+public void BindPdf(Stream inputStream)
 ```
 
 | Parameter | Type | Description |
@@ -40,18 +43,18 @@ public override void BindPdf(Stream inputStream)
 
 ### See Also
 
-* class [PdfFileSanitization](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BindPdf(Document) {#bindpdf}
+## BindPdf([Document](../../../aspose.pdf/document/)) {#bindpdf_2}
 
 Initializes the facade.
 
 ```csharp
-public override void BindPdf(Document srcDoc)
+public void BindPdf(Document srcDoc)
 ```
 
 | Parameter | Type | Description |
@@ -60,9 +63,7 @@ public override void BindPdf(Document srcDoc)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [PdfFileSanitization](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

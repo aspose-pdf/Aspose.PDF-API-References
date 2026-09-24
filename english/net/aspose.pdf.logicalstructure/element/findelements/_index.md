@@ -1,33 +1,33 @@
 ---
-title: Element.FindElements
-second_title: Aspose.PDF for .NET API Reference
-description: Element method. Find Elements of a given type
+title: "Element.FindElements"
+linktitle: "FindElements"
+articleTitle: "FindElements"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 50
-url: /net/aspose.pdf.logicalstructure/element/findelements/
+weight: 10
+url: "/net/aspose.pdf.logicalstructure/element/findelements/"
+product_version: "26.9.0"
 ---
-## Element.FindElements&lt;T&gt; method
+## FindElements(bool) {#findelements}
 
-Find Elements of a given type
+
 
 ```csharp
-public List<T> FindElements<T>(bool recursiveSearch = false)
-    where T : Element
+public List<T0> FindElements(bool recursiveSearch)
 ```
 
-| Parameter | Description |
-| --- | --- |
-| T | Type of Structure Element for search |
-| recursiveSearch | (Optional) Recursive Search (default false, search only from direct children) |
+| Parameter | Type | Description |
+| --- | --- | --- |
+| recursiveSearch | bool |  |
 
 ### Return Value
 
-List of found Elements
+[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<T0>
 
 ### See Also
 
-* class [Element](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

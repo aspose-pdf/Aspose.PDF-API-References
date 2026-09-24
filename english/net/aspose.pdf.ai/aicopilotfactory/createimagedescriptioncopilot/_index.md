@@ -1,27 +1,35 @@
 ---
-title: AICopilotFactory.CreateImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: AICopilotFactory method. Creates an image description copilot based on the client and options
+title: "AICopilotFactory.CreateImageDescriptionCopilot"
+linktitle: "CreateImageDescriptionCopilot"
+articleTitle: "CreateImageDescriptionCopilot"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/aicopilotfactory/createimagedescriptioncopilot/
+weight: 30
+url: "/net/aspose.pdf.ai/aicopilotfactory/createimagedescriptioncopilot/"
+product_version: "26.9.0"
 ---
-## AICopilotFactory.CreateImageDescriptionCopilot&lt;TOptions&gt; method
+## CreateImageDescriptionCopilot(IImageDescriptionClient<T0>, IImageDescriptionCopilotOptions<T0>) {#createimagedescriptioncopilot}
 
-Creates an image description copilot based on the client and options.
+
 
 ```csharp
-public static IImageDescriptionCopilot CreateImageDescriptionCopilot<TOptions>(
-    IImageDescriptionClient<TOptions> client, IImageDescriptionCopilotOptions<TOptions> options)
+public IImageDescriptionCopilot CreateImageDescriptionCopilot(IImageDescriptionClient<T0> client, IImageDescriptionCopilotOptions<T0> options)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| client | IImageDescriptionClient<T0> |  |
+| options | IImageDescriptionCopilotOptions<T0> |  |
+
+### Return Value
+
+[IImageDescriptionCopilot](../../../aspose.pdf.ai/iimagedescriptioncopilot/)
 
 ### See Also
 
-* interface [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
-* interface [IImageDescriptionClient&lt;TOptions&gt;](../../iimagedescriptionclient-1/)
-* interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
-* class [AICopilotFactory](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [IImageDescriptionCopilot](../../../aspose.pdf.ai/iimagedescriptioncopilot/)
+* class [AICopilotFactory](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

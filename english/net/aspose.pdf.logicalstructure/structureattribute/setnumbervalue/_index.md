@@ -1,12 +1,15 @@
 ---
-title: StructureAttribute.SetNumberValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute method. Sets Value Number
+title: "StructureAttribute.SetNumberValue"
+linktitle: "SetNumberValue"
+articleTitle: "SetNumberValue"
+second_title: "Aspose.PDF for .NET"
+description: "Sets Value Number."
 type: docs
-weight: 130
-url: /net/aspose.pdf.logicalstructure/structureattribute/setnumbervalue/
+weight: 90
+url: "/net/aspose.pdf.logicalstructure/structureattribute/setnumbervalue/"
+product_version: "26.9.0"
 ---
-## StructureAttribute.SetNumberValue method
+## SetNumberValue(double) {#setnumbervalue}
 
 Sets Value Number.
 
@@ -16,12 +19,11 @@ public void SetNumberValue(double number)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| number | Double | Value Number. |
+| number | double | Value Number. |
 
 ### See Also
 
-* class [StructureAttribute](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

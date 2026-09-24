@@ -1,23 +1,29 @@
 ---
-title: TextStamp.Width
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp property. Desired width of the stamp on the page
+title: "TextStamp.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.PDF for .NET"
+description: "Desired width of the stamp on the page."
 type: docs
-weight: 160
-url: /net/aspose.pdf/textstamp/width/
+weight: 180
+url: "/net/aspose.pdf/textstamp/width/"
+product_version: "26.9.0"
 ---
 ## TextStamp.Width property
 
 Desired width of the stamp on the page.
 
 ```csharp
-public override double Width { get; set; }
+public double Width { get; set; }
 ```
+
+### Property Value
+
+double
 
 ### See Also
 
-* class [TextStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

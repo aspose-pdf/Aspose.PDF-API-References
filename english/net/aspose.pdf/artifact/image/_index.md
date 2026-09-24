@@ -1,10 +1,13 @@
 ---
-title: Artifact.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact property. Gets image of the artifact if presents
+title: "Artifact.Image"
+linktitle: "Image"
+articleTitle: "Image"
+second_title: "Aspose.PDF for .NET"
+description: "Gets image of the artifact (if presents)."
 type: docs
-weight: 90
-url: /net/aspose.pdf/artifact/image/
+weight: 320
+url: "/net/aspose.pdf/artifact/image/"
+product_version: "26.9.0"
 ---
 ## Artifact.Image property
 
@@ -14,11 +17,14 @@ Gets image of the artifact (if presents).
 public XImage Image { get; }
 ```
 
+### Property Value
+
+[XImage](../../../aspose.pdf/ximage/)
+
 ### See Also
 
-* class [XImage](../../ximage/)
-* class [Artifact](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XImage](../../../aspose.pdf/ximage/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

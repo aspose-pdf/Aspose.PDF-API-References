@@ -1,14 +1,20 @@
 ---
-title: HtmlSaveOptions.SaveShadowedTextsAsTransparentTexts
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions field. Pdf can contain texts that are shadowed by another elements f.e. by images but can be selected to clipboard in Acrobat Reader usually it happen when document contains images and OCRed texts extracted from it. This settings tells to converter whether we need save such texts as transparent selectable texts in result HTML to mimic behaviour of Acrobat Reader othervise such texts are usually saved as hidden not available for copying to clipboard
+title: "HtmlSaveOptions.SaveShadowedTextsAsTransparentTexts"
+linktitle: "SaveShadowedTextsAsTransparentTexts"
+articleTitle: "SaveShadowedTextsAsTransparentTexts"
+second_title: "Aspose.PDF for .NET"
+description: "Pdf can contain texts that are shadowed by another elements (f.e. by images) but can be selected to clipboard in Acrobat Reader (usually it happen when docum..."
 type: docs
-weight: 420
-url: /net/aspose.pdf/htmlsaveoptions/saveshadowedtextsastransparenttexts/
+weight: 310
+url: "/net/aspose.pdf/htmlsaveoptions/saveshadowedtextsastransparenttexts/"
+product_version: "26.9.0"
 ---
 ## HtmlSaveOptions.SaveShadowedTextsAsTransparentTexts field
 
-Pdf can contain texts that are shadowed by another elements (f.e. by images) but can be selected to clipboard in Acrobat Reader (usually it happen when document contains images and OCRed texts extracted from it). This settings tells to converter whether we need save such texts as transparent selectable texts in result HTML to mimic behaviour of Acrobat Reader (othervise such texts are usually saved as hidden, not available for copying to clipboard)
+Pdf can contain texts that are shadowed by another elements (f.e. by images) but 
+ can be selected to clipboard in Acrobat Reader (usually it happen when document contains images and OCRed texts extracted from it).
+ This settings tells to converter whether we need save such texts as transparent
+ selectable texts in result HTML to mimic behaviour of Acrobat Reader (othervise such texts are usually saved as hidden, not available for copying to clipboard)
 
 ```csharp
 public bool SaveShadowedTextsAsTransparentTexts;
@@ -16,8 +22,7 @@ public bool SaveShadowedTextsAsTransparentTexts;
 
 ### See Also
 
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

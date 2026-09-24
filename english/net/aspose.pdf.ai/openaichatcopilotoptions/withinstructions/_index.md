@@ -1,12 +1,15 @@
 ---
-title: OpenAIChatCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions method. Sets the instructions for the chat copilot options
+title: "OpenAIChatCopilotOptions.WithInstructions"
+linktitle: "WithInstructions"
+articleTitle: "WithInstructions"
+second_title: "Aspose.PDF for .NET"
+description: "Sets the instructions for the chat copilot options."
 type: docs
-weight: 130
-url: /net/aspose.pdf.ai/openaichatcopilotoptions/withinstructions/
+weight: 90
+url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withinstructions/"
+product_version: "26.9.0"
 ---
-## OpenAIChatCopilotOptions.WithInstructions method
+## WithInstructions(string) {#withinstructions}
 
 Sets the instructions for the chat copilot options.
 
@@ -16,16 +19,18 @@ public OpenAIChatCopilotOptions WithInstructions(string instructions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| instructions | String | The instructions to set. |
+| instructions | string | The instructions to set. |
 
 ### Return Value
 
-The current instance of [`OpenAIChatCopilotOptions`](../).
+[OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+
+The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

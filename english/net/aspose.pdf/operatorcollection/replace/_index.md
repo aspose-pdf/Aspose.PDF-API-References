@@ -1,12 +1,15 @@
 ---
-title: OperatorCollection.Replace
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection method. Replace operators in collection with other operators
+title: "OperatorCollection.Replace"
+linktitle: "Replace"
+articleTitle: "Replace"
+second_title: "Aspose.PDF for .NET"
+description: "Replace operators in collection with other operators."
 type: docs
-weight: 160
-url: /net/aspose.pdf/operatorcollection/replace/
+weight: 80
+url: "/net/aspose.pdf/operatorcollection/replace/"
+product_version: "26.9.0"
 ---
-## OperatorCollection.Replace method
+## Replace(IList<Operator>) {#replace}
 
 Replace operators in collection with other operators.
 
@@ -16,13 +19,11 @@ public void Replace(IList<Operator> operators)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| operators | IList`1 | Operators list which will replace operators currently contained in the collection. Eash operator from the list must have correct index in range [1..N] where N is count of operators in the collection |
+| operators | IList<Operator> | Operators list which will replace operators currently contained in the collection. Eash operator from the list must have correct index in range [1..N] where N is count of operators in the collection |
 
 ### See Also
 
-* class [Operator](../../operator/)
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

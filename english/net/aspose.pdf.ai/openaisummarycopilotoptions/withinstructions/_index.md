@@ -1,12 +1,15 @@
 ---
-title: OpenAISummaryCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions method. Sets the instructions for the summary copilot options
+title: "OpenAISummaryCopilotOptions.WithInstructions"
+linktitle: "WithInstructions"
+articleTitle: "WithInstructions"
+second_title: "Aspose.PDF for .NET"
+description: "Sets the instructions for the summary copilot options."
 type: docs
 weight: 90
-url: /net/aspose.pdf.ai/openaisummarycopilotoptions/withinstructions/
+url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/withinstructions/"
+product_version: "26.9.0"
 ---
-## OpenAISummaryCopilotOptions.WithInstructions method
+## WithInstructions(string) {#withinstructions}
 
 Sets the instructions for the summary copilot options.
 
@@ -16,16 +19,18 @@ public OpenAISummaryCopilotOptions WithInstructions(string instructions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| instructions | String | The instructions to set. |
+| instructions | string | The instructions to set. |
 
 ### Return Value
 
-The current instance of [`OpenAISummaryCopilotOptions`](../).
+[OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+
+The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
 
 ### See Also
 
-* class [OpenAISummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,17 @@
 ---
-title: OpenAIChatCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions method. Gets the current OpenAIChatCopilotOptions
+title: "OpenAIChatCopilotOptions.GetOptions"
+linktitle: "GetOptions"
+articleTitle: "GetOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the current ."
 type: docs
-weight: 80
-url: /net/aspose.pdf.ai/openaichatcopilotoptions/getoptions/
+weight: 10
+url: "/net/aspose.pdf.ai/openaichatcopilotoptions/getoptions/"
+product_version: "26.9.0"
 ---
-## OpenAIChatCopilotOptions.GetOptions method
+## GetOptions() {#getoptions}
 
-Gets the current [`OpenAIChatCopilotOptions`](../).
+Gets the current [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
 
 ```csharp
 public OpenAIChatCopilotOptions GetOptions()
@@ -16,12 +19,14 @@ public OpenAIChatCopilotOptions GetOptions()
 
 ### Return Value
 
-The current instance of [`OpenAIChatCopilotOptions`](../).
+[OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+
+The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

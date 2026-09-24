@@ -1,10 +1,13 @@
 ---
-title: Image.IsApplyResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Image property. Gets or sets a bool value that indicates whether the image use resolution during generation
+title: "Image.IsApplyResolution"
+linktitle: "IsApplyResolution"
+articleTitle: "IsApplyResolution"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets a bool value that indicates whether the image use resolution during generation"
 type: docs
-weight: 100
-url: /net/aspose.pdf/image/isapplyresolution/
+weight: 120
+url: "/net/aspose.pdf/image/isapplyresolution/"
+product_version: "26.9.0"
 ---
 ## Image.IsApplyResolution property
 
@@ -14,10 +17,13 @@ Gets or sets a bool value that indicates whether the image use resolution during
 public bool IsApplyResolution { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [Image](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,27 +1,30 @@
 ---
-title: Color.Magenta
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FFFF00FF
+title: "Color.Magenta"
+linktitle: "Magenta"
+articleTitle: "Magenta"
+second_title: "Aspose.PDF for .NET"
+description: "Gets a system-defined color that has an ARGB value of \\c \\#FFFF00FF."
 type: docs
-weight: 810
-url: /net/aspose.pdf/color/magenta/
+weight: 980
+url: "/net/aspose.pdf/color/magenta/"
+product_version: "26.9.0"
 ---
 ## Color.Magenta property
 
 Gets a system-defined color that has an ARGB value of \c \#FFFF00FF.
 
 ```csharp
-public static Color Magenta { get; }
+public Color Magenta { get; }
 ```
 
-### Return Value
+### Property Value
 
-A representing a system-defined color.
+[Color](../../../aspose.pdf/color/)
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

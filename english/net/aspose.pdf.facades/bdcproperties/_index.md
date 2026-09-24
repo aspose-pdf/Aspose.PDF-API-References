@@ -1,10 +1,14 @@
 ---
-title: Class BDCProperties
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.BDCProperties class. BDC operator properties
+title: "BDCProperties Class"
+linktitle: "BDCProperties"
+articleTitle: "BDCProperties"
+second_title: "Aspose.PDF for .NET"
+description: "BDC operator properties."
 type: docs
-weight: 4330
-url: /net/aspose.pdf.facades/bdcproperties/
+weight: 60
+url: "/net/aspose.pdf.facades/bdcproperties/"
+keywords: "BDCProperties, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## BDCProperties class
 
@@ -18,20 +22,19 @@ public class BDCProperties
 
 | Name | Description |
 | --- | --- |
-| [BDCProperties](bdcproperties/#constructor_1)(string, string) | Constructor for properties of BDC operator. |
-| [BDCProperties](bdcproperties/#constructor)(int?, string, string) | Constructor for properties of BDC operator. |
+| [BDCProperties](./bdcproperties/#constructor)(*string, string*) | Constructor for properties of BDC operator. |
+| [BDCProperties](./bdcproperties/#constructor_1)(*Nullable<int>, string, string*) | Constructor for properties of BDC operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [E](../../aspose.pdf.facades/bdcproperties/e/) { get; set; } | Gets/sets Expansion text value. |
-| [Lang](../../aspose.pdf.facades/bdcproperties/lang/) { get; set; } | Gets/sets Language value. |
-| [MCID](../../aspose.pdf.facades/bdcproperties/mcid/) { get; } | Gets/sets MCID value. |
+| [E](./e/) { get; set; } | Gets/sets Expansion text value. |
+| [Lang](./lang/) { get; set; } | Gets/sets Language value. |
+| [MCID](./mcid/) { get; } | Gets/sets MCID value. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class Jpeg
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.Jpeg class. Represents Pdf to Jpeg plugin
+title: "Jpeg Class"
+linktitle: "Jpeg"
+articleTitle: "Jpeg"
+second_title: "Aspose.PDF for .NET"
+description: "Represents Pdf to Jpeg plugin."
 type: docs
-weight: 7530
-url: /net/aspose.pdf.lowcode/jpeg/
+weight: 480
+url: "/net/aspose.pdf.lowcode/jpeg/"
+keywords: "Jpeg, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## Jpeg class
 
@@ -18,19 +22,18 @@ public sealed class Jpeg : PdfToImage
 
 | Name | Description |
 | --- | --- |
-| [Jpeg](jpeg/)() | The default constructor. |
+| [Jpeg](./jpeg/#constructor) | Initializes a new instance of the Jpeg class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.pdf.lowcode/pdftoimage/dispose/)() | Implementation of . Actually, it is not necessary for . |
-| [Process](../../aspose.pdf.lowcode/pdftoimage/process/)(IPluginOptions) | Starts  processing with the specified parameters. |
+| [Dispose](../../aspose.pdf.lowcode/pdftoimage/dispose/) | Implementation of . Actually, it is not necessary for . *(Inherited from PdfToImage)* |
+| [Process](../../aspose.pdf.lowcode/pdftoimage/process/)(*IPluginOptions*) | Starts processing with the specified parameters. *(Inherited from PdfToImage)* |
 
 ### See Also
 
-* class [PdfToImage](../pdftoimage/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfToImage](../pdftoimage/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: StructureTypeStandard.H3
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard field. Level 3 Heading for use in conforming writers that cannot hierarchically nest their sections and thus cannot determine the level of a heading from its level of nesting
+title: "StructureTypeStandard.H3"
+linktitle: "H3"
+articleTitle: "H3"
+second_title: "Aspose.PDF for .NET"
+description: "Level 3 Heading, for use in conforming writers that cannot hierarchically nest their sections and thus cannot determine the level of a heading from its level..."
 type: docs
-weight: 150
-url: /net/aspose.pdf.logicalstructure/structuretypestandard/h3/
+weight: 210
+url: "/net/aspose.pdf.logicalstructure/structuretypestandard/h3/"
+product_version: "26.9.0"
 ---
 ## StructureTypeStandard.H3 field
 
@@ -16,8 +19,8 @@ public static readonly StructureTypeStandard H3;
 
 ### See Also
 
-* class [StructureTypeStandard](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

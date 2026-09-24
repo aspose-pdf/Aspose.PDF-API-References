@@ -1,10 +1,14 @@
 ---
-title: Class StructTreeRootElement
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.StructTreeRootElement class. Represents StructTreeRoot object in logical structure
+title: "StructTreeRootElement Class"
+linktitle: "StructTreeRootElement"
+articleTitle: "StructTreeRootElement"
+second_title: "Aspose.PDF for .NET"
+description: "Represents StructTreeRoot object in logical structure."
 type: docs
-weight: 6820
-url: /net/aspose.pdf.logicalstructure/structtreerootelement/
+weight: 510
+url: "/net/aspose.pdf.logicalstructure/structtreerootelement/"
+keywords: "StructTreeRootElement, Aspose.Pdf.LogicalStructure, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## StructTreeRootElement class
 
@@ -18,29 +22,26 @@ public sealed class StructTreeRootElement : Element
 
 | Name | Description |
 | --- | --- |
-| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements/) { get; } | Gets children collection of Element objects. |
-| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement/) { get; } | Get parent element. |
+| [ActualText](../../aspose.pdf.structure/element/actualtext/) { get; set; } | (Optional; PDF 1.4) Text that is an exact replacement for the structure element and its children. *(Inherited from Element)* |
+| [Alt](../../aspose.pdf.structure/element/alt/) { get; set; } | (Optional) An alternate description of the structure element and its children in. *(Inherited from Element)* |
+| [Children](../../aspose.pdf.structure/element/children/) { get; } | Gets child elements collection. *(Inherited from Element)* |
+| [E](../../aspose.pdf.structure/element/e/) { get; set; } | (Optional; PDF 1.5) The expanded form of an abbreviation. *(Inherited from Element)* |
+| [Lang](../../aspose.pdf.structure/element/lang/) { get; set; } | (Optional; PDF 1.4) A language specifying the natural language for all text. *(Inherited from Element)* |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Append Element to collection of children. |
-| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Clear all childs. |
-| [FindElements&lt;T&gt;](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Find Elements of a given type |
-| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | Insert Element to collection of children at specified index. |
-| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Remove child at. |
-| override [Tag](../../aspose.pdf.logicalstructure/structtreerootelement/tag/#tag_2)(Annotation) | Bind a structure element to the Annotation. |
-| override [Tag](../../aspose.pdf.logicalstructure/structtreerootelement/tag/#tag)(Artifact) | Bind a structure element to the Artifact. |
-| override [Tag](../../aspose.pdf.logicalstructure/structtreerootelement/tag/#tag_1)(BDC) | Bind a structure element to the content stream BDC operator. |
-| override [Tag](../../aspose.pdf.logicalstructure/structtreerootelement/tag/#tag_3)(XForm) | Bind a structure element to the content stream XForm. |
-| override [Tag](../../aspose.pdf.logicalstructure/structtreerootelement/tag/#tag_4)(XImage) | Bind a structure element to the XImage. |
-| override [ToString](../../aspose.pdf.logicalstructure/element/tostring/)() | Returns a string that represents the current object. |
+| [Remove](../../aspose.pdf.structure/element/remove/) | Remove element. *(Inherited from Element)* |
+| [Tag](./tag/)(*BDC*) | Bind a structure element to the content stream BDC operator. |
+| [Tag](./tag/)(*XForm*) | Bind a structure element to the content stream XForm. |
+| [Tag](./tag/)(*XImage*) | Bind a structure element to the XImage. |
+| [Tag](./tag/)(*Artifact*) | Bind a structure element to the Artifact. |
+| [Tag](./tag/)(*Annotation*) | Bind a structure element to the Annotation. |
 
 ### See Also
 
-* class [Element](../element/)
-* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../)
-
+* class [Element](../../aspose.pdf.structure/element/)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
 

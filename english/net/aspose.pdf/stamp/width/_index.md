@@ -1,23 +1,29 @@
 ---
-title: Stamp.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp property. Desired width of the stamp on the page
+title: "Stamp.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.PDF for .NET"
+description: "Desired width of the stamp on the page."
 type: docs
-weight: 140
-url: /net/aspose.pdf/stamp/width/
+weight: 230
+url: "/net/aspose.pdf/stamp/width/"
+product_version: "26.9.0"
 ---
 ## Stamp.Width property
 
 Desired width of the stamp on the page.
 
 ```csharp
-public virtual double Width { get; set; }
+public double Width { get; set; }
 ```
+
+### Property Value
+
+double
 
 ### See Also
 
-* class [Stamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

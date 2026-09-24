@@ -1,23 +1,29 @@
 ---
-title: TextStamp.Height
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp property. Desired height of the stamp on the page
+title: "TextStamp.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.PDF for .NET"
+description: "Desired height of the stamp on the page."
 type: docs
-weight: 60
-url: /net/aspose.pdf/textstamp/height/
+weight: 190
+url: "/net/aspose.pdf/textstamp/height/"
+product_version: "26.9.0"
 ---
 ## TextStamp.Height property
 
 Desired height of the stamp on the page.
 
 ```csharp
-public override double Height { get; set; }
+public double Height { get; set; }
 ```
+
+### Property Value
+
+double
 
 ### See Also
 
-* class [TextStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

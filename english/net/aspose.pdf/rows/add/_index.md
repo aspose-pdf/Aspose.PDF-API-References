@@ -1,10 +1,13 @@
 ---
-title: Rows.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Rows method. Add row to collection
+title: "Rows.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: "Add row to collection."
 type: docs
-weight: 40
-url: /net/aspose.pdf/rows/add/
+weight: 20
+url: "/net/aspose.pdf/rows/add/"
+product_version: "26.9.0"
 ---
 ## Add() {#add}
 
@@ -16,18 +19,20 @@ public Row Add()
 
 ### Return Value
 
+[Row](../../../aspose.pdf/row/)
+
 The new row
 
 ### See Also
 
-* class [Row](../../row/)
-* class [Rows](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Row](../../../aspose.pdf/row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(Row) {#add_1}
+## Add([Row](../../../aspose.pdf/row/)) {#add_1}
 
 Add row to cellection.
 
@@ -41,9 +46,7 @@ public void Add(Row row)
 
 ### See Also
 
-* class [Row](../../row/)
-* class [Rows](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

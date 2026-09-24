@@ -1,10 +1,13 @@
 ---
-title: AttributeName.RubyAlign_Center
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName field. Attribute RubyAlign Center  The content shall be centered in the inlineprogression direction
+title: "AttributeName.RubyAlign_Center"
+linktitle: "RubyAlign_Center"
+articleTitle: "RubyAlign_Center"
+second_title: "Aspose.PDF for .NET"
+description: "Attribute RubyAlign: Center - The content shall be centered in the inline-progression direction."
 type: docs
 weight: 430
-url: /net/aspose.pdf.logicalstructure/attributename/rubyalign_center/
+url: "/net/aspose.pdf.logicalstructure/attributename/rubyalign_center/"
+product_version: "26.9.0"
 ---
 ## AttributeName.RubyAlign_Center field
 
@@ -16,8 +19,8 @@ public static readonly AttributeName RubyAlign_Center;
 
 ### See Also
 
-* class [AttributeName](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,27 +1,30 @@
 ---
-title: Color.DarkTurquoise
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FF00CED1
+title: "Color.DarkTurquoise"
+linktitle: "DarkTurquoise"
+articleTitle: "DarkTurquoise"
+second_title: "Aspose.PDF for .NET"
+description: "Gets a system-defined color that has an ARGB value of \\c \\#FF00CED1."
 type: docs
-weight: 380
-url: /net/aspose.pdf/color/darkturquoise/
+weight: 550
+url: "/net/aspose.pdf/color/darkturquoise/"
+product_version: "26.9.0"
 ---
 ## Color.DarkTurquoise property
 
 Gets a system-defined color that has an ARGB value of \c \#FF00CED1.
 
 ```csharp
-public static Color DarkTurquoise { get; }
+public Color DarkTurquoise { get; }
 ```
 
-### Return Value
+### Property Value
 
-A representing a system-defined color.
+[Color](../../../aspose.pdf/color/)
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

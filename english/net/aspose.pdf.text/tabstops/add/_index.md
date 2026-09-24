@@ -1,14 +1,18 @@
 ---
-title: TabStops.Add
-second_title: Aspose.PDF for .NET API Reference
-description: TabStops method. Initializes a new instance of the TabStop class and add it to the TabStops collection
+title: "TabStops.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the class and add it to the TabStops collection."
 type: docs
-weight: 50
-url: /net/aspose.pdf.text/tabstops/add/
+weight: 20
+url: "/net/aspose.pdf.text/tabstops/add/"
+product_version: "26.9.0"
 ---
 ## Add() {#add}
 
-Initializes a new instance of the [`TabStop`](../../tabstop/) class and add it to the TabStops collection.
+Initializes a new instance of the [`TabStop`](../../../aspose.pdf.text/tabstop/) class and add it to the 
+ TabStops collection.
 
 ```csharp
 public TabStop Add()
@@ -16,20 +20,23 @@ public TabStop Add()
 
 ### Return Value
 
-The new [`TabStop`](../../tabstop/) object.
+[TabStop](../../../aspose.pdf.text/tabstop/)
+
+The new [`TabStop`](../../../aspose.pdf.text/tabstop/) object.
 
 ### See Also
 
-* class [TabStop](../../tabstop/)
-* class [TabStops](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TabStop](../../../aspose.pdf.text/tabstop/)
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(float) {#add_1}
 
-Initializes a new instance of the [`TabStop`](../../tabstop/) class with specified position and add it to the TabStops collection.
+Initializes a new instance of the [`TabStop`](../../../aspose.pdf.text/tabstop/) class with specified position and 
+ add it to the TabStops collection.
 
 ```csharp
 public TabStop Add(float position)
@@ -37,24 +44,26 @@ public TabStop Add(float position)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| position | Single | The position of the tab stop. |
+| position | float | The position of the tab stop. |
 
 ### Return Value
 
-The new [`TabStop`](../../tabstop/) object.
+[TabStop](../../../aspose.pdf.text/tabstop/)
+
+The new [`TabStop`](../../../aspose.pdf.text/tabstop/) object.
 
 ### See Also
 
-* class [TabStop](../../tabstop/)
-* class [TabStops](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TabStop](../../../aspose.pdf.text/tabstop/)
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(TabStop) {#add_3}
+## Add([TabStop](../../../aspose.pdf.text/tabstop/)) {#add_2}
 
-Add instance of the [`TabStop`](../../tabstop/) class to the TabStops collection.
+Add instance of the [`TabStop`](../../../aspose.pdf.text/tabstop/) class to the TabStops collection.
 
 ```csharp
 public void Add(TabStop tabStop)
@@ -62,20 +71,20 @@ public void Add(TabStop tabStop)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tabStop | TabStop | The [`TabStop`](../../tabstop/) object. |
+| tabStop | TabStop | The <see cref="T:Aspose.Pdf.Text.TabStop" /> object. |
 
 ### See Also
 
-* class [TabStop](../../tabstop/)
-* class [TabStops](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(float, TabLeaderType) {#add_2}
+## Add(float, [TabLeaderType](../../../aspose.pdf.text/tableadertype/)) {#add_3}
 
-Initializes a new instance of the [`TabStop`](../../tabstop/) class with specified position and leader type and add it to the TabStops collection.
+Initializes a new instance of the [`TabStop`](../../../aspose.pdf.text/tabstop/) class with specified position and leader 
+ type and add it to the TabStops collection.
 
 ```csharp
 public TabStop Add(float position, TabLeaderType leaderType)
@@ -83,19 +92,19 @@ public TabStop Add(float position, TabLeaderType leaderType)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| position | Single | The position of the tab stop. |
+| position | float | The position of the tab stop. |
 | leaderType | TabLeaderType | The leader type of the tab stop. |
 
 ### Return Value
 
-The new [`TabStop`](../../tabstop/) object.
+[TabStop](../../../aspose.pdf.text/tabstop/)
+
+The new [`TabStop`](../../../aspose.pdf.text/tabstop/) object.
 
 ### See Also
 
-* class [TabStop](../../tabstop/)
-* enum [TabLeaderType](../../tableadertype/)
-* class [TabStops](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TabStop](../../../aspose.pdf.text/tabstop/)
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,17 @@
 ---
-title: ImageDescriptionResult.ImageDescriptionResult
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDescriptionResult constructor. The default constructor
+title: "ImageDescriptionResult.ImageDescriptionResult"
+linktitle: "ImageDescriptionResult"
+articleTitle: "ImageDescriptionResult"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the ImageDescriptionResult class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/imagedescriptionresult/imagedescriptionresult/
+url: "/net/aspose.pdf.ai/imagedescriptionresult/imagedescriptionresult/"
+product_version: "26.9.0"
 ---
-## ImageDescriptionResult constructor
+## ImageDescriptionResult() {#constructor}
 
-The default constructor.
+Initializes a new instance of the ImageDescriptionResult class.
 
 ```csharp
 public ImageDescriptionResult()
@@ -16,8 +19,7 @@ public ImageDescriptionResult()
 
 ### See Also
 
-* class [ImageDescriptionResult](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImageDescriptionResult](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

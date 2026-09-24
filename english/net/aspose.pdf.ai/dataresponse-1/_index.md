@@ -1,46 +1,51 @@
 ---
-title: Class DataResponseT
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.DataResponse1T class. Represents a data response containing the specified data
+title: "DataResponse<T> Class"
+linktitle: "DataResponse<T>"
+articleTitle: "DataResponse<T>"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
 weight: 290
-url: /net/aspose.pdf.ai/dataresponse-1/
+url: "/net/aspose.pdf.ai/dataresponse-1/"
+keywords: "DataResponse<T>, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
-## DataResponse&lt;T&gt; class
+## DataResponse<T> class
 
-Represents a data response containing the specified data.
+
 
 ```csharp
-public class DataResponse<T> : BaseResponse
+public class DataResponse<T><T> : BaseResponse
 ```
 
-| Parameter | Description |
+## Type Parameters
+
+| Name | Description |
 | --- | --- |
-| T | The type of data in the response. |
+| T |  |
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [DataResponse](dataresponse/)() | The default constructor. |
+| [DataResponse<T>](./dataresponse/#constructor) | Initializes a new instance of the DataResponse class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Data](../../aspose.pdf.ai/dataresponse-1/data/) { get; set; } | Gets or sets the data in the response. |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Gets or sets the HTTP response headers. |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Gets or sets the HTTP status code. |
-| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indicates if the response was successful. |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Gets the error reason phrase. |
+| [Data](./data/) { get; set; } |  |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. *(Inherited from BaseResponse)* |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. *(Inherited from BaseResponse)* |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. *(Inherited from BaseResponse)* |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Gets or sets the HTTP response headers. *(Inherited from BaseResponse)* |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Gets or sets the HTTP status code. *(Inherited from BaseResponse)* |
+| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indicates if the response was successful. *(Inherited from BaseResponse)* |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Gets the error reason phrase. *(Inherited from BaseResponse)* |
 
 ### See Also
 
-* class [BaseResponse](../baseresponse/)
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* class [BaseResponse](../baseresponse/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

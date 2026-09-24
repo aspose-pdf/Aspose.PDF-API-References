@@ -1,21 +1,29 @@
 ---
-title: HeaderElement.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderElement method. 
+title: "HeaderElement.SetText"
+linktitle: "SetText"
+articleTitle: "SetText"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 20
-url: /net/aspose.pdf.logicalstructure/headerelement/settext/
+weight: 10
+url: "/net/aspose.pdf.logicalstructure/headerelement/settext/"
+product_version: "26.9.0"
 ---
-## HeaderElement.SetText method
+## SetText(string) {#settext}
+
+
 
 ```csharp
-public override void SetText(string text)
+public void SetText(string text)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | string |  |
 
 ### See Also
 
-* class [HeaderElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HeaderElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

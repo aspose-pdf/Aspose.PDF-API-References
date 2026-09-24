@@ -1,10 +1,13 @@
 ---
-title: Enum Fixup
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Fixup enum. This enum represents an type of Fixup
+title: "Fixup Enum"
+linktitle: "Fixup"
+articleTitle: "Fixup"
+second_title: "Aspose.PDF for .NET"
+description: "This enum represents an type of Fixup."
 type: docs
-weight: 5020
-url: /net/aspose.pdf/fixup/
+weight: 920
+url: "/net/aspose.pdf/fixup/"
+product_version: "26.9.0"
 ---
 ## Fixup enumeration
 
@@ -14,10 +17,10 @@ This enum represents an type of Fixup.
 public enum Fixup
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | ConvertAllPagesIntoCMYKImagesAndPreserveTextInformation | `0` | Not supported. |
 | ConvertFontsToOutlines | `1` | Not supported. |
 | DerivePageGeometryBoxesFromCropMarks | `2` | Not supported. |
@@ -27,7 +30,6 @@ public enum Fixup
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

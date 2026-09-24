@@ -1,10 +1,13 @@
 ---
-title: Enum LineIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.LineIntent enum. Enumerates the intents of the line annotation
+title: "LineIntent Enum"
+linktitle: "LineIntent"
+articleTitle: "LineIntent"
+second_title: "Aspose.PDF for .NET"
+description: "Enumerates the intents of the line annotation."
 type: docs
-weight: 2090
-url: /net/aspose.pdf.annotations/lineintent/
+weight: 620
+url: "/net/aspose.pdf.annotations/lineintent/"
+product_version: "26.9.0"
 ---
 ## LineIntent enumeration
 
@@ -14,17 +17,16 @@ Enumerates the intents of the line annotation.
 public enum LineIntent
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Undefined | `0` | Undefined state. |
 | LineArrow | `1` | Means that the annotation is intended to function as an arrow. |
 | LineDimension | `2` | Means that the annotation is intended to function as a dimension line. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class FileCitation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.FileCitation class. Represents the file citation
+title: "FileCitation Class"
+linktitle: "FileCitation"
+articleTitle: "FileCitation"
+second_title: "Aspose.PDF for .NET"
+description: "Represents the file citation."
 type: docs
 weight: 380
-url: /net/aspose.pdf.ai/filecitation/
+url: "/net/aspose.pdf.ai/filecitation/"
+keywords: "FileCitation, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## FileCitation class
 
@@ -18,17 +22,16 @@ public class FileCitation
 
 | Name | Description |
 | --- | --- |
-| [FileCitation](filecitation/)() | The default constructor. |
+| [FileCitation](./filecitation/#constructor) | Initializes a new instance of the FileCitation class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FileId](../../aspose.pdf.ai/filecitation/fileid/) { get; set; } | Gets or sets the ID of the specific File the citation is from. |
+| [FileId](./fileid/) { get; set; } | Gets or sets the ID of the specific File the citation is from. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

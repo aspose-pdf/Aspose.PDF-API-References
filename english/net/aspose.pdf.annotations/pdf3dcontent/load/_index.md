@@ -1,12 +1,15 @@
 ---
-title: PDF3DContent.Load
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DContent method. Loads 3D content with the specified filename
+title: "PDF3DContent.Load"
+linktitle: "Load"
+articleTitle: "Load"
+second_title: "Aspose.PDF for .NET"
+description: "Loads 3D content with the specified filename."
 type: docs
-weight: 50
-url: /net/aspose.pdf.annotations/pdf3dcontent/load/
+weight: 30
+url: "/net/aspose.pdf.annotations/pdf3dcontent/load/"
+product_version: "26.9.0"
 ---
-## PDF3DContent.Load method
+## Load(string) {#load}
 
 Loads 3D content with the specified filename.
 
@@ -16,7 +19,7 @@ public void Load(string filename)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | String | The filename. |
+| filename | string | The filename. |
 
 ### Exceptions
 
@@ -26,8 +29,7 @@ public void Load(string filename)
 
 ### See Also
 
-* class [PDF3DContent](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,28 +1,32 @@
 ---
-title: IOpenAIClient.UploadFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Uploads a file asynchronously to the OpenAI server
+title: "IOpenAIClient.UploadFileAsync"
+linktitle: "UploadFileAsync"
+articleTitle: "UploadFileAsync"
+second_title: "Aspose.PDF for .NET"
+description: "Uploads a file asynchronously to the OpenAI server."
 type: docs
-weight: 420
-url: /net/aspose.pdf.ai/iopenaiclient/uploadfileasync/
+weight: 310
+url: "/net/aspose.pdf.ai/iopenaiclient/uploadfileasync/"
+product_version: "26.9.0"
 ---
-## IOpenAIClient.UploadFileAsync method
+## UploadFileAsync(string, string, byte[], Nullable<CancellationToken>) {#uploadfileasync}
 
 Uploads a file asynchronously to the OpenAI server.
 
 ```csharp
-public Task<FileResponse> UploadFileAsync(string purpose, string fileName, byte[] fileBytes, 
-    CancellationToken? cancellationToken = default)
+public Task<FileResponse> UploadFileAsync(string purpose, string fileName, byte[] fileBytes, Nullable<CancellationToken> cancellationToken)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| purpose | String | The purpose of the file upload, typically describing how the file will be used. |
-| fileName | String | The name of the file to upload. |
-| fileBytes | Byte[] | The byte array containing the file data. |
-| cancellationToken | Nullable`1 | A token to cancel the operation. |
+| purpose | string | The purpose of the file upload, typically describing how the file will be used. |
+| fileName | string | The name of the file to upload. |
+| fileBytes | byte[] | The byte array containing the file data. |
+| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
 
 ### Return Value
+
+[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[FileResponse](../../../aspose.pdf.ai/fileresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the response from the file upload.
 
@@ -30,14 +34,12 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Thrown when the file purpose is null or empty. |
-| [AIClientException](../../aiclientexception/) | Thrown when the file name is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the file purpose is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the file name is null or empty. |
 
 ### See Also
 
-* class [FileResponse](../../fileresponse/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

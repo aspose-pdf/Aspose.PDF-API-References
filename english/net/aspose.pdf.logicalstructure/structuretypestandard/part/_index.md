@@ -1,10 +1,13 @@
 ---
-title: StructureTypeStandard.Part
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard field. Part A largescale division of a document. This type of element is appropriate for grouping articles or sections
+title: "StructureTypeStandard.Part"
+linktitle: "Part"
+articleTitle: "Part"
+second_title: "Aspose.PDF for .NET"
+description: "(Part) A large-scale division of a document. This type of element is appropriate for grouping articles or sections."
 type: docs
-weight: 280
-url: /net/aspose.pdf.logicalstructure/structuretypestandard/part/
+weight: 60
+url: "/net/aspose.pdf.logicalstructure/structuretypestandard/part/"
+product_version: "26.9.0"
 ---
 ## StructureTypeStandard.Part field
 
@@ -16,8 +19,8 @@ public static readonly StructureTypeStandard Part;
 
 ### See Also
 
-* class [StructureTypeStandard](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

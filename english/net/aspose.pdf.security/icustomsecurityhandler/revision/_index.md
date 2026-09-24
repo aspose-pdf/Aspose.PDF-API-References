@@ -1,10 +1,13 @@
 ---
-title: ICustomSecurityHandler.Revision
-second_title: Aspose.PDF for .NET API Reference
-description: ICustomSecurityHandler property. Gets the handler or encryption algorithm revision
+title: "ICustomSecurityHandler.Revision"
+linktitle: "Revision"
+articleTitle: "Revision"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the handler or encryption algorithm revision."
 type: docs
-weight: 30
-url: /net/aspose.pdf.security/icustomsecurityhandler/revision/
+weight: 130
+url: "/net/aspose.pdf.security/icustomsecurityhandler/revision/"
+product_version: "26.9.0"
 ---
 ## ICustomSecurityHandler.Revision property
 
@@ -14,10 +17,13 @@ Gets the handler or encryption algorithm revision.
 public int Revision { get; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* interface [ICustomSecurityHandler](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [ICustomSecurityHandler](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 

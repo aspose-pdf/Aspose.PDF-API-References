@@ -1,10 +1,13 @@
 ---
-title: OutlineItemCollection.Parent
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection property. Gets the parent object of this outline item in the outline hierarchy
+title: "OutlineItemCollection.Parent"
+linktitle: "Parent"
+articleTitle: "Parent"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the parent object of this outline item in the outline hierarchy."
 type: docs
-weight: 170
-url: /net/aspose.pdf/outlineitemcollection/parent/
+weight: 230
+url: "/net/aspose.pdf/outlineitemcollection/parent/"
+product_version: "26.9.0"
 ---
 ## OutlineItemCollection.Parent property
 
@@ -14,11 +17,14 @@ Gets the parent object of this outline item in the outline hierarchy.
 public Outlines Parent { get; }
 ```
 
+### Property Value
+
+[Outlines](../../../aspose.pdf/outlines/)
+
 ### See Also
 
-* class [Outlines](../../outlines/)
-* class [OutlineItemCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Outlines](../../../aspose.pdf/outlines/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

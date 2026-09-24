@@ -1,14 +1,17 @@
 ---
-title: ExportFieldsToJsonOptions.ExportFieldsToJsonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: ExportFieldsToJsonOptions constructor. The default constructor
+title: "ExportFieldsToJsonOptions.ExportFieldsToJsonOptions"
+linktitle: "ExportFieldsToJsonOptions"
+articleTitle: "ExportFieldsToJsonOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the ExportFieldsToJsonOptions class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/exportfieldstojsonoptions/exportfieldstojsonoptions/
+url: "/net/aspose.pdf/exportfieldstojsonoptions/exportfieldstojsonoptions/"
+product_version: "26.9.0"
 ---
-## ExportFieldsToJsonOptions constructor
+## ExportFieldsToJsonOptions() {#constructor}
 
-The default constructor.
+Initializes a new instance of the ExportFieldsToJsonOptions class.
 
 ```csharp
 public ExportFieldsToJsonOptions()
@@ -16,8 +19,7 @@ public ExportFieldsToJsonOptions()
 
 ### See Also
 
-* class [ExportFieldsToJsonOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ExportFieldsToJsonOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

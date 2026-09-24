@@ -1,10 +1,14 @@
 ---
-title: Class PdfFileEditor.CorruptedItem
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfFileEditorCorruptedItem class. Class which provides information about corrupted files in time of concatenation
+title: "PdfFileEditor.CorruptedItem Class"
+linktitle: "PdfFileEditor.CorruptedItem"
+articleTitle: "PdfFileEditor.CorruptedItem"
+second_title: "Aspose.PDF for .NET"
+description: "Class which provides information about corrupted files in time of concatenation."
 type: docs
-weight: 4660
-url: /net/aspose.pdf.facades/pdffileeditor.corrupteditem/
+weight: 390
+url: "/net/aspose.pdf.facades/pdffileeditor.corrupteditem/"
+keywords: "PdfFileEditor.CorruptedItem, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## PdfFileEditor.CorruptedItem class
 
@@ -18,13 +22,12 @@ public class CorruptedItem
 
 | Name | Description |
 | --- | --- |
-| [Exception](../../aspose.pdf.facades/pdffileeditor.corrupteditem/exception) { get; } | Exception thrown for this file which indicates problem with the file. |
-| [Index](../../aspose.pdf.facades/pdffileeditor.corrupteditem/index) { get; } | Index of corrupted file. |
+| [Exception](./exception/) { get; } | Exception thrown for this file which indicates problem with the file. |
+| [Index](./index/) { get; } | Index of corrupted file. |
 
 ### See Also
 
-* class [PdfFileEditor](../pdffileeditor/)
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfFileEditor](../pdffileeditor/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

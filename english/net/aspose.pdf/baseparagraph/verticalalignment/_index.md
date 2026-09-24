@@ -1,24 +1,30 @@
 ---
-title: BaseParagraph.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: BaseParagraph property. Gets or sets a vertical alignment of paragraph
+title: "BaseParagraph.VerticalAlignment"
+linktitle: "VerticalAlignment"
+articleTitle: "VerticalAlignment"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets a vertical alignment of paragraph"
 type: docs
-weight: 80
-url: /net/aspose.pdf/baseparagraph/verticalalignment/
+weight: 30
+url: "/net/aspose.pdf/baseparagraph/verticalalignment/"
+product_version: "26.9.0"
 ---
 ## BaseParagraph.VerticalAlignment property
 
 Gets or sets a vertical alignment of paragraph
 
 ```csharp
-public virtual VerticalAlignment VerticalAlignment { get; set; }
+public VerticalAlignment VerticalAlignment { get; set; }
 ```
+
+### Property Value
+
+[VerticalAlignment](../../../aspose.pdf/verticalalignment/)
 
 ### See Also
 
-* enum [VerticalAlignment](../../verticalalignment/)
-* class [BaseParagraph](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

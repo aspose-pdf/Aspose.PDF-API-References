@@ -1,31 +1,35 @@
 ---
-title: CosPdfBoolean.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfBoolean method. Determines that the specified object is equal to the current object
+title: "CosPdfBoolean.Equals"
+linktitle: "Equals"
+articleTitle: "Equals"
+second_title: "Aspose.PDF for .NET"
+description: "Determines that the specified object is equal to the current object."
 type: docs
-weight: 30
-url: /net/aspose.pdf.dataeditor/cospdfboolean/equals/
+weight: 50
+url: "/net/aspose.pdf.dataeditor/cospdfboolean/equals/"
+product_version: "26.9.0"
 ---
-## CosPdfBoolean.Equals method
+## Equals(object) {#equals}
 
 Determines that the specified object is equal to the current object.
 
 ```csharp
-public override bool Equals(object obj)
+public bool Equals(object obj)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | Object | The object to compare with current object. |
+| obj | object | The object to compare with current object. |
 
 ### Return Value
+
+bool
 
 True if specified object is equal to the current object; otherwise, false.
 
 ### See Also
 
-* class [CosPdfBoolean](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CosPdfBoolean](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

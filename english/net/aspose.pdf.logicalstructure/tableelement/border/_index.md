@@ -1,10 +1,13 @@
 ---
-title: TableElement.Border
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement property. Gets or sets the table border
+title: "TableElement.Border"
+linktitle: "Border"
+articleTitle: "Border"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the table border."
 type: docs
-weight: 30
-url: /net/aspose.pdf.logicalstructure/tableelement/border/
+weight: 60
+url: "/net/aspose.pdf.logicalstructure/tableelement/border/"
+product_version: "26.9.0"
 ---
 ## TableElement.Border property
 
@@ -14,11 +17,14 @@ Gets or sets the table border.
 public BorderInfo Border { get; set; }
 ```
 
+### Property Value
+
+[BorderInfo](../../../aspose.pdf/borderinfo/)
+
 ### See Also
 
-* class [BorderInfo](../../../aspose.pdf/borderinfo/)
-* class [TableElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

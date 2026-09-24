@@ -1,31 +1,31 @@
 ---
-title: TextState.ApplyChangesFrom
-second_title: Aspose.PDF for .NET API Reference
-description: TextState method. Applies settings from another textState
+title: "TextState.ApplyChangesFrom"
+linktitle: "ApplyChangesFrom"
+articleTitle: "ApplyChangesFrom"
+second_title: "Aspose.PDF for .NET"
+description: "Applies settings from another textState."
 type: docs
-weight: 220
-url: /net/aspose.pdf.text/textstate/applychangesfrom/
+weight: 80
+url: "/net/aspose.pdf.text/textstate/applychangesfrom/"
+product_version: "26.9.0"
 ---
-## TextState.ApplyChangesFrom method
+## ApplyChangesFrom([TextState](../../../aspose.pdf.text/textstate/)) {#applychangesfrom}
 
 Applies settings from another textState.
 
+Only those properties will be copied that were changed explicitly.
+
 ```csharp
-public virtual void ApplyChangesFrom(TextState textState)
+public void ApplyChangesFrom(TextState textState)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | textState | TextState | Text state object. |
 
-## Remarks
-
-Only those properties will be copied that were changed explicitly.
-
 ### See Also
 
-* class [TextState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

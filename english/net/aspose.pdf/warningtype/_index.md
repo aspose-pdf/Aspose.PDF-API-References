@@ -1,10 +1,13 @@
 ---
-title: Enum WarningType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.WarningType enum. Enum represented warning type
+title: "WarningType Enum"
+linktitle: "WarningType"
+articleTitle: "WarningType"
+second_title: "Aspose.PDF for .NET"
+description: "Enum represented warning type."
 type: docs
-weight: 11700
-url: /net/aspose.pdf/warningtype/
+weight: 3150
+url: "/net/aspose.pdf/warningtype/"
+product_version: "26.9.0"
 ---
 ## WarningType enumeration
 
@@ -14,10 +17,10 @@ Enum represented warning type.
 public enum WarningType
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | SourceFileCorruption | `0` | The file is corrupted. |
 | DataLoss | `1` | Text/chart/image or other data is completely missing from either the documet tree following load, or the created document following save. |
 | MajorFormattingLoss | `2` | Major formatting losses compared to the original document. This is for occasions when the formatting loss is substantial but the data is still there. |
@@ -28,7 +31,6 @@ public enum WarningType
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

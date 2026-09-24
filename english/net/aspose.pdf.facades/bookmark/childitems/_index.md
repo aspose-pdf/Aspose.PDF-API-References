@@ -1,10 +1,13 @@
 ---
-title: Bookmark.ChildItems
-second_title: Aspose.PDF for .NET API Reference
-description: Bookmark property. Gets or sets bookmarks children
+title: "Bookmark.ChildItems"
+linktitle: "ChildItems"
+articleTitle: "ChildItems"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets bookmark's children."
 type: docs
-weight: 40
-url: /net/aspose.pdf.facades/bookmark/childitems/
+weight: 50
+url: "/net/aspose.pdf.facades/bookmark/childitems/"
+product_version: "26.9.0"
 ---
 ## Bookmark.ChildItems property
 
@@ -14,11 +17,14 @@ Gets or sets bookmark's children.
 public Bookmarks ChildItems { get; set; }
 ```
 
+### Property Value
+
+[Bookmarks](../../../aspose.pdf.facades/bookmarks/)
+
 ### See Also
 
-* class [Bookmarks](../../bookmarks/)
-* class [Bookmark](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Bookmarks](../../../aspose.pdf.facades/bookmarks/)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: PdfAnnotationEditor.RedactArea
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor method. Redacts area on the specified page. All contents is removed
+title: "PdfAnnotationEditor.RedactArea"
+linktitle: "RedactArea"
+articleTitle: "RedactArea"
+second_title: "Aspose.PDF for .NET"
+description: "Redacts area on the specified page. All contents is removed."
 type: docs
-weight: 140
-url: /net/aspose.pdf.facades/pdfannotationeditor/redactarea/
+weight: 280
+url: "/net/aspose.pdf.facades/pdfannotationeditor/redactarea/"
+product_version: "26.9.0"
 ---
-## PdfAnnotationEditor.RedactArea method
+## RedactArea(int, [Rectangle](../../../aspose.pdf.drawing/rectangle/), [Color](../../../aspose.pdf/color/)) {#redactarea}
 
 Redacts area on the specified page. All contents is removed.
 
@@ -16,15 +19,13 @@ public void RedactArea(int pageIndex, Rectangle rect, Color color)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageIndex | Int32 | Index of the page. |
+| pageIndex | int | Index of the page. |
 | rect | Rectangle | Area rectangle. |
 | color | Color | Filling color. |
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

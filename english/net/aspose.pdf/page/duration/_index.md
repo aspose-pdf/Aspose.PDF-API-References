@@ -1,33 +1,30 @@
 ---
-title: Page.Duration
-second_title: Aspose.PDF for .NET API Reference
-description: Page property. Gets of set page display duration. This is time in seconds that page shall be displayed during presentation. Returns 1 if duration is not defined
+title: "Page.Duration"
+linktitle: "Duration"
+articleTitle: "Duration"
+second_title: "Aspose.PDF for .NET"
+description: "Gets of set page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined."
 type: docs
-weight: 110
-url: /net/aspose.pdf/page/duration/
+weight: 470
+url: "/net/aspose.pdf/page/duration/"
+product_version: "26.9.0"
 ---
 ## Page.Duration property
 
-Gets of set page display duration. This is time in seconds that page shall be displayed during presentation. Returns -1 if duration is not defined.
+Gets of set page display duration. This is time in seconds that page shall be displayed during presentation.
+ Returns -1 if duration is not defined.
 
 ```csharp
 public double Duration { get; set; }
 ```
 
-## Examples
+### Property Value
 
-Example demonstrates how to get page duration
-
-```csharp
-Document document = new Document("sample.pdf");
-Page page = document.Pages[1];
-int pageRect = page.Duration;
-```
+double
 
 ### See Also
 
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

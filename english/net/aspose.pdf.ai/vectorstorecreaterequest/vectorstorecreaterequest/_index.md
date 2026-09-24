@@ -1,14 +1,17 @@
 ---
-title: VectorStoreCreateRequest.VectorStoreCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreCreateRequest constructor. The default constructor
+title: "VectorStoreCreateRequest.VectorStoreCreateRequest"
+linktitle: "VectorStoreCreateRequest"
+articleTitle: "VectorStoreCreateRequest"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the VectorStoreCreateRequest class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/vectorstorecreaterequest/vectorstorecreaterequest/
+url: "/net/aspose.pdf.ai/vectorstorecreaterequest/vectorstorecreaterequest/"
+product_version: "26.9.0"
 ---
-## VectorStoreCreateRequest constructor
+## VectorStoreCreateRequest() {#constructor}
 
-The default constructor.
+Initializes a new instance of the VectorStoreCreateRequest class.
 
 ```csharp
 public VectorStoreCreateRequest()
@@ -16,8 +19,7 @@ public VectorStoreCreateRequest()
 
 ### See Also
 
-* class [VectorStoreCreateRequest](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [VectorStoreCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,23 +1,27 @@
 ---
-title: Enum PdfToXlsOptions.ExcelFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.PdfToXlsOptionsExcelFormat enum. Allows to specify .xlsx .xls/xml or csv file format. Default value is XLSX
+title: "PdfToXlsOptions.ExcelFormat Enum"
+linktitle: "PdfToXlsOptions.ExcelFormat"
+articleTitle: "PdfToXlsOptions.ExcelFormat"
+second_title: "Aspose.PDF for .NET"
+description: "Allows to specify .xlsx, .xls/xml or csv file format. Default value is XLSX."
 type: docs
-weight: 7800
-url: /net/aspose.pdf.lowcode/pdftoxlsoptions.excelformat/
+weight: 750
+url: "/net/aspose.pdf.lowcode/pdftoxlsoptions.excelformat/"
+product_version: "26.9.0"
 ---
 ## PdfToXlsOptions.ExcelFormat enumeration
 
-Allows to specify .xlsx, .xls/xml or csv file format. Default value is XLSX.
+Allows to specify .xlsx, .xls/xml or csv file format.
+ Default value is XLSX.
 
 ```csharp
 public enum ExcelFormat
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | XMLSpreadSheet2003 | `0` | Excel 2003 XML Format |
 | XLSX | `1` | Office Open XML (.xlsx) File Format |
 | CSV | `2` | A comma-separated values (CSV) File Format |
@@ -26,8 +30,7 @@ public enum ExcelFormat
 
 ### See Also
 
-* class [PdfToXlsOptions](../pdftoxlsoptions/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfToXlsOptions](../pdftoxlsoptions/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

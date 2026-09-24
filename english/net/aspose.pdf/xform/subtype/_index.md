@@ -1,10 +1,13 @@
 ---
-title: XForm.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: XForm property. Gets form Subtype
+title: "XForm.Subtype"
+linktitle: "Subtype"
+articleTitle: "Subtype"
+second_title: "Aspose.PDF for .NET"
+description: "Gets form Subtype."
 type: docs
 weight: 100
-url: /net/aspose.pdf/xform/subtype/
+url: "/net/aspose.pdf/xform/subtype/"
+product_version: "26.9.0"
 ---
 ## XForm.Subtype property
 
@@ -14,10 +17,13 @@ Gets form Subtype.
 public string Subtype { get; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [XForm](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

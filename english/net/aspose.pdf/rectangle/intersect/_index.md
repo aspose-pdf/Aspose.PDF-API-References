@@ -1,12 +1,15 @@
 ---
-title: Rectangle.Intersect
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle method. Intersects to rectangles
+title: "Rectangle.Intersect"
+linktitle: "Intersect"
+articleTitle: "Intersect"
+second_title: "Aspose.PDF for .NET"
+description: "Intersects to rectangles."
 type: docs
-weight: 210
-url: /net/aspose.pdf/rectangle/intersect/
+weight: 90
+url: "/net/aspose.pdf/rectangle/intersect/"
+product_version: "26.9.0"
 ---
-## Rectangle.Intersect method
+## Intersect([Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#intersect}
 
 Intersects to rectangles.
 
@@ -20,12 +23,14 @@ public Rectangle Intersect(Rectangle otherRect)
 
 ### Return Value
 
+[Rectangle](../../../aspose.pdf.drawing/rectangle/)
+
 Intersection of rectangles; null if rectangles are not intersected.
 
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

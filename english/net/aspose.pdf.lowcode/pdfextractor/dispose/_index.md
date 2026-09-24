@@ -1,12 +1,15 @@
 ---
-title: PdfExtractor.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor method. Implementation of IDisposable. Actually it is not necessary for PdfExtractor
+title: "PdfExtractor.Dispose"
+linktitle: "Dispose"
+articleTitle: "Dispose"
+second_title: "Aspose.PDF for .NET"
+description: "Implementation of IDisposable. Actually, it is not necessary for PdfExtractor."
 type: docs
-weight: 10
-url: /net/aspose.pdf.lowcode/pdfextractor/dispose/
+weight: 30
+url: "/net/aspose.pdf.lowcode/pdfextractor/dispose/"
+product_version: "26.9.0"
 ---
-## PdfExtractor.Dispose method
+## Dispose() {#dispose}
 
 Implementation of IDisposable. Actually, it is not necessary for PdfExtractor.
 
@@ -16,8 +19,7 @@ public void Dispose()
 
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

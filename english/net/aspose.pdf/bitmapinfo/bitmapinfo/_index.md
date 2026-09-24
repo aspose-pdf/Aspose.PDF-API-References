@@ -1,14 +1,17 @@
 ---
-title: BitmapInfo.BitmapInfo
-second_title: Aspose.PDF for .NET API Reference
-description: BitmapInfo constructor. Creates a new instance of the  class
+title: "BitmapInfo.BitmapInfo"
+linktitle: "BitmapInfo"
+articleTitle: "BitmapInfo"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the BitmapInfo class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/bitmapinfo/bitmapinfo/
+url: "/net/aspose.pdf/bitmapinfo/bitmapinfo/"
+product_version: "26.9.0"
 ---
-## BitmapInfo constructor
+## BitmapInfo(byte[], int, int, PixelFormat) {#constructor}
 
-Creates a new instance of the  class.
+Initializes a new instance of the BitmapInfo class.
 
 ```csharp
 public BitmapInfo(byte[] pixelBytes, int width, int height, PixelFormat format)
@@ -16,16 +19,14 @@ public BitmapInfo(byte[] pixelBytes, int width, int height, PixelFormat format)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pixelBytes | Byte[] | Array of pixels. |
-| width | Int32 | Width of the bitmap. |
-| height | Int32 | Height of the bitmap. |
-| format | PixelFormat | Pixel format of the bitmap. |
+| pixelBytes | byte[] |  |
+| width | int |  |
+| height | int |  |
+| format | PixelFormat |  |
 
 ### See Also
 
-* enum [PixelFormat](../../bitmapinfo.pixelformat/)
-* class [BitmapInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BitmapInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

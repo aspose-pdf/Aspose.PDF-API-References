@@ -1,10 +1,13 @@
 ---
-title: ImageStamp.Quality
-second_title: Aspose.PDF for .NET API Reference
-description: ImageStamp property. Gets or sets quality of image stamp in percent. Valid values are 0..100
+title: "ImageStamp.Quality"
+linktitle: "Quality"
+articleTitle: "Quality"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets quality of image stamp in percent. Valid values are 0..100%."
 type: docs
-weight: 50
-url: /net/aspose.pdf/imagestamp/quality/
+weight: 90
+url: "/net/aspose.pdf/imagestamp/quality/"
+product_version: "26.9.0"
 ---
 ## ImageStamp.Quality property
 
@@ -14,10 +17,13 @@ Gets or sets quality of image stamp in percent. Valid values are 0..100%.
 public int Quality { get; set; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [ImageStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

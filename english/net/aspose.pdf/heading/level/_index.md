@@ -1,10 +1,13 @@
 ---
-title: Heading.Level
-second_title: Aspose.PDF for .NET API Reference
-description: Heading property. Gets the level
+title: "Heading.Level"
+linktitle: "Level"
+articleTitle: "Level"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the level."
 type: docs
-weight: 50
-url: /net/aspose.pdf/heading/level/
+weight: 100
+url: "/net/aspose.pdf/heading/level/"
+product_version: "26.9.0"
 ---
 ## Heading.Level property
 
@@ -14,10 +17,13 @@ Gets the level.
 public int Level { get; set; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [Heading](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

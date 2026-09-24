@@ -1,10 +1,13 @@
 ---
-title: RunResponse.AssistantId
-second_title: Aspose.PDF for .NET API Reference
-description: RunResponse property. Gets or sets the ID of the assistant used for execution of this run
+title: "RunResponse.AssistantId"
+linktitle: "AssistantId"
+articleTitle: "AssistantId"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the ID of the assistant used for execution of this run."
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/runresponse/assistantid/
+weight: 60
+url: "/net/aspose.pdf.ai/runresponse/assistantid/"
+product_version: "26.9.0"
 ---
 ## RunResponse.AssistantId property
 
@@ -14,10 +17,13 @@ Gets or sets the ID of the assistant used for execution of this run.
 public string AssistantId { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [RunResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,31 +1,29 @@
 ---
-title: JavaScriptCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: JavaScriptCollection property. Gets or sets JavaScript from collection by its key
+title: "JavaScriptCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 10
-url: /net/aspose.pdf/javascriptcollection/item/
+weight: 30
+url: "/net/aspose.pdf/javascriptcollection/item/"
+product_version: "26.9.0"
 ---
-## JavaScriptCollection indexer
+## JavaScriptCollection.Item property
 
-Gets or sets JavaScript from collection by its key.
+
 
 ```csharp
-public string this[string key] { get; set; }
+public string Item { get; set; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| key | Key value. |
+### Property Value
 
-### Return Value
-
-Javascript collection.
+string
 
 ### See Also
 
-* class [JavaScriptCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [JavaScriptCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

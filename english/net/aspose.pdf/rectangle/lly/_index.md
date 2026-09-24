@@ -1,10 +1,13 @@
 ---
-title: Rectangle.LLY
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle property. Y  coordinate of lowerleft corner
+title: "Rectangle.LLY"
+linktitle: "LLY"
+articleTitle: "LLY"
+second_title: "Aspose.PDF for .NET"
+description: "Y - coordinate of lower-left corner."
 type: docs
-weight: 110
-url: /net/aspose.pdf/rectangle/lly/
+weight: 240
+url: "/net/aspose.pdf/rectangle/lly/"
+product_version: "26.9.0"
 ---
 ## Rectangle.LLY property
 
@@ -14,10 +17,13 @@ Y - coordinate of lower-left corner.
 public double LLY { get; set; }
 ```
 
+### Property Value
+
+double
+
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

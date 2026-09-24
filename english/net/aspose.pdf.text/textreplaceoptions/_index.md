@@ -1,10 +1,14 @@
 ---
-title: Class TextReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextReplaceOptions class. Represents text replace options
+title: "TextReplaceOptions Class"
+linktitle: "TextReplaceOptions"
+articleTitle: "TextReplaceOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Represents text replace options"
 type: docs
-weight: 11410
-url: /net/aspose.pdf.text/textreplaceoptions/
+weight: 620
+url: "/net/aspose.pdf.text/textreplaceoptions/"
+keywords: "TextReplaceOptions, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## TextReplaceOptions class
 
@@ -18,26 +22,25 @@ public sealed class TextReplaceOptions : TextOptions
 
 | Name | Description |
 | --- | --- |
-| [TextReplaceOptions](textreplaceoptions/#constructor)(ReplaceAdjustment) | Initializes new instance of the `TextReplaceOptions` object for the specified after replace action. |
-| [TextReplaceOptions](textreplaceoptions/#constructor_1)(Scope) | Initializes new instance of the `TextReplaceOptions` object for the specified scope. |
+| [TextReplaceOptions](./textreplaceoptions/#constructor)(*Scope*) | Initializes a new instance of the TextReplaceOptions class. |
+| [TextReplaceOptions](./textreplaceoptions/#constructor_1)(*ReplaceAdjustment*) | Initializes a new instance of the TextReplaceOptions class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AdjustmentNewLineSpacing](../../aspose.pdf.text/textreplaceoptions/adjustmentnewlinespacing/) { get; set; } | Gets or sets value of line spacing that used if replace adjustment is forced to create new line of text. The value expected is multiplier of font size of the replaced text. Default is 1.2. |
-| [FontSizeAdjustmentAction](../../aspose.pdf.text/textreplaceoptions/fontsizeadjustmentaction/) { get; set; } | Gets or sets the policy for adjusting the font size to fit within the bounds defined by the [`Rectangle`](./rectangle/). |
-| [IgnoreParagraphs](../../aspose.pdf.text/textreplaceoptions/ignoreparagraphs/) { get; set; } | Gets or sets a value indicating whether to ignore distinct paragraphs when adjusting text on the page after text replacement. |
-| [LeftAdjustment](../../aspose.pdf.text/textreplaceoptions/leftadjustment/) { get; set; } | Sets or gets left position adjustment for replaced text when using TextReplaceOptions: - ReplaceAdjustmentAction = IsFormFillingMode; |
-| [Rectangle](../../aspose.pdf.text/textreplaceoptions/rectangle/) { get; set; } | Gets or sets the rectangle to fit the text after replacement. |
-| [ReplaceAdjustmentAction](../../aspose.pdf.text/textreplaceoptions/replaceadjustmentaction/) { get; set; } | Gets or sets an action that will be done after replace of text fragment to more short. |
-| [ReplaceScope](../../aspose.pdf.text/textreplaceoptions/replacescope/) { get; set; } | Gets or sets a scope where replace text operation is applied |
-| [RightAdjustment](../../aspose.pdf.text/textreplaceoptions/rightadjustment/) { get; set; } | Sets or gets right position adjustment for replaced text when using TextReplaceOptions: - ReplaceAdjustmentAction = WholeWordsHyphenation; - ReplaceAdjustmentAction = IsFormFillingMode; |
+| [AdjustmentNewLineSpacing](./adjustmentnewlinespacing/) { get; set; } | Gets or sets value of line spacing that used if replace adjustment is forced to create new line of text. |
+| [FontSizeAdjustmentAction](./fontsizeadjustmentaction/) { get; set; } | Gets or sets the policy for adjusting the font size to fit within the bounds. |
+| [IgnoreParagraphs](./ignoreparagraphs/) { get; set; } | Gets or sets a value indicating whether to ignore distinct paragraphs when adjusting text on the page after text replacement. |
+| [LeftAdjustment](./leftadjustment/) { get; set; } | Sets or gets left position adjustment for replaced text when using TextReplaceOptions:. |
+| [Rectangle](./rectangle/) { get; set; } | Gets or sets the rectangle to fit the text after replacement. |
+| [ReplaceAdjustmentAction](./replaceadjustmentaction/) { get; set; } | Gets or sets an action that will be done after replace of text fragment to more short. |
+| [ReplaceScope](./replacescope/) { get; set; } | Gets or sets a scope where replace text operation is applied. |
+| [RightAdjustment](./rightadjustment/) { get; set; } | Sets or gets right position adjustment for replaced text when using TextReplaceOptions:. |
 
 ### See Also
 
-* class [TextOptions](../textoptions/)
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* class [TextOptions](../textoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

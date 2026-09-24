@@ -1,12 +1,15 @@
 ---
-title: CosPdfDictionary.CosPdfDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary constructor. Creates a dictionary from resources
+title: "CosPdfDictionary.CosPdfDictionary"
+linktitle: "CosPdfDictionary"
+articleTitle: "CosPdfDictionary"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the CosPdfDictionary class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.dataeditor/cospdfdictionary/cospdfdictionary/
+url: "/net/aspose.pdf.dataeditor/cospdfdictionary/cospdfdictionary/"
+product_version: "26.9.0"
 ---
-## CosPdfDictionary constructor
+## CosPdfDictionary([Resources](../../../aspose.pdf/resources/)) {#constructor}
 
 Creates a dictionary from resources.
 
@@ -26,9 +29,7 @@ public CosPdfDictionary(Resources resources)
 
 ### See Also
 
-* class [Resources](../../../aspose.pdf/resources/)
-* class [CosPdfDictionary](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: RichTextBoxField.RichTextBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: RichTextBoxField constructor. Constructor for Rich Text Box field
+title: "RichTextBoxField.RichTextBoxField"
+linktitle: "RichTextBoxField"
+articleTitle: "RichTextBoxField"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the RichTextBoxField class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.forms/richtextboxfield/richtextboxfield/
+url: "/net/aspose.pdf.forms/richtextboxfield/richtextboxfield/"
+product_version: "26.9.0"
 ---
-## RichTextBoxField constructor
+## RichTextBoxField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
 
 Constructor for Rich Text Box field.
 
@@ -21,10 +24,7 @@ public RichTextBoxField(Page page, Rectangle rect)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [RichTextBoxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RichTextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

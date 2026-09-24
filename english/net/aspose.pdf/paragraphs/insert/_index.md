@@ -1,12 +1,15 @@
 ---
-title: Paragraphs.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphs method. Insert paragraph to collection
+title: "Paragraphs.Insert"
+linktitle: "Insert"
+articleTitle: "Insert"
+second_title: "Aspose.PDF for .NET"
+description: "Insert paragraph to collection."
 type: docs
-weight: 90
-url: /net/aspose.pdf/paragraphs/insert/
+weight: 60
+url: "/net/aspose.pdf/paragraphs/insert/"
+product_version: "26.9.0"
 ---
-## Paragraphs.Insert method
+## Insert(int, [BaseParagraph](../../../aspose.pdf/baseparagraph/)) {#insert}
 
 Insert paragraph to collection.
 
@@ -16,14 +19,12 @@ public void Insert(int index, BaseParagraph paragraph)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | Int32 | The index for paragraph. |
+| index | int | The index for paragraph. |
 | paragraph | BaseParagraph | The paragraph. |
 
 ### See Also
 
-* class [BaseParagraph](../../baseparagraph/)
-* class [Paragraphs](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

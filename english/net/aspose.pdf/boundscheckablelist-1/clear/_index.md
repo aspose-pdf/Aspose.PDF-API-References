@@ -1,14 +1,17 @@
 ---
-title: BoundsCheckableList1.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList method. Removes all elements from the System.Collections.Generic.List
+title: "BoundsCheckableList<T>.Clear"
+linktitle: "Clear"
+articleTitle: "Clear"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 60
-url: /net/aspose.pdf/boundscheckablelist-1/clear/
+weight: 50
+url: "/net/aspose.pdf/boundscheckablelist-1/clear/"
+product_version: "26.9.0"
 ---
-## BoundsCheckableList&lt;T&gt;.Clear method
+## Clear() {#clear}
 
-Removes all elements from the System.Collections.Generic.List.
+
 
 ```csharp
 public void Clear()
@@ -16,8 +19,7 @@ public void Clear()
 
 ### See Also
 
-* class [BoundsCheckableList&lt;T&gt;](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BoundsCheckableList<T>](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

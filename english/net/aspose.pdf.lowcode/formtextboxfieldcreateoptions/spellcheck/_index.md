@@ -1,23 +1,29 @@
 ---
-title: FormTextBoxFieldCreateOptions.SpellCheck
-second_title: Aspose.PDF for .NET API Reference
-description: FormTextBoxFieldCreateOptions property. Gets/sets the value to determine whether created TextBoxField is spellcheck or not if will be set
+title: "FormTextBoxFieldCreateOptions.SpellCheck"
+linktitle: "SpellCheck"
+articleTitle: "SpellCheck"
+second_title: "Aspose.PDF for .NET"
+description: "Gets/sets the value to determine whether created TextBoxField is spellcheck or not (if will be set)."
 type: docs
-weight: 50
-url: /net/aspose.pdf.lowcode/formtextboxfieldcreateoptions/spellcheck/
+weight: 30
+url: "/net/aspose.pdf.lowcode/formtextboxfieldcreateoptions/spellcheck/"
+product_version: "26.9.0"
 ---
 ## FormTextBoxFieldCreateOptions.SpellCheck property
 
 Gets/sets the value to determine whether created TextBoxField is spellcheck or not (if will be set).
 
 ```csharp
-public bool? SpellCheck { get; set; }
+public Nullable<bool> SpellCheck { get; set; }
 ```
+
+### Property Value
+
+Nullable<bool>
 
 ### See Also
 
-* class [FormTextBoxFieldCreateOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormTextBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

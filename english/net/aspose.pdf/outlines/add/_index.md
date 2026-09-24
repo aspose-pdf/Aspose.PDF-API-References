@@ -1,17 +1,20 @@
 ---
-title: Outlines.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Outlines method. Adds outline item to collection
+title: "Outlines.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: "Adds outline item to collection."
 type: docs
-weight: 40
-url: /net/aspose.pdf/outlines/add/
+weight: 20
+url: "/net/aspose.pdf/outlines/add/"
+product_version: "26.9.0"
 ---
-## Outlines.Add method
+## Add([OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)) {#add}
 
 Adds outline item to collection.
 
 ```csharp
-public abstract void Add(OutlineItemCollection item)
+public void Add(OutlineItemCollection item)
 ```
 
 | Parameter | Type | Description |
@@ -20,9 +23,7 @@ public abstract void Add(OutlineItemCollection item)
 
 ### See Also
 
-* class [OutlineItemCollection](../../outlineitemcollection/)
-* class [Outlines](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

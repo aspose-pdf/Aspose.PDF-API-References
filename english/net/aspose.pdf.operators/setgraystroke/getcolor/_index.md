@@ -1,27 +1,32 @@
 ---
-title: SetGrayStroke.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetGrayStroke method. Returns color specified by operator
+title: "SetGrayStroke.getColor"
+linktitle: "getColor"
+articleTitle: "getColor"
+second_title: "Aspose.PDF for .NET"
+description: "Returns color specified by operator."
 type: docs
-weight: 40
-url: /net/aspose.pdf.operators/setgraystroke/getcolor/
+weight: 20
+url: "/net/aspose.pdf.operators/setgraystroke/getcolor/"
+product_version: "26.9.0"
 ---
-## SetGrayStroke.getColor method
+## getColor() {#getcolor}
 
 Returns color specified by operator.
 
 ```csharp
-public override Color getColor()
+public Color getColor()
 ```
 
 ### Return Value
+
+[Color](../../../aspose.pdf/color/)
 
 Color specified by operator.
 
 ### See Also
 
-* class [SetGrayStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [SetGrayStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

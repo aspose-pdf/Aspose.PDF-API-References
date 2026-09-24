@@ -1,12 +1,15 @@
 ---
-title: XmpValue.ToStructure
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue method. Returns XMP value as structure set of fields
+title: "XmpValue.ToStructure"
+linktitle: "ToStructure"
+articleTitle: "ToStructure"
+second_title: "Aspose.PDF for .NET"
+description: "Returns XMP value as structure (set of fields)."
 type: docs
-weight: 230
-url: /net/aspose.pdf/xmpvalue/tostructure/
+weight: 120
+url: "/net/aspose.pdf/xmpvalue/tostructure/"
+product_version: "26.9.0"
 ---
-## XmpValue.ToStructure method
+## ToStructure() {#tostructure}
 
 Returns XMP value as structure (set of fields).
 
@@ -16,13 +19,14 @@ public XmpField[] ToStructure()
 
 ### Return Value
 
+[XmpField](../../../aspose.pdf/xmpfield/)[]
+
 Structure value.
 
 ### See Also
 
-* class [XmpField](../../xmpfield/)
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpField](../../../aspose.pdf/xmpfield/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

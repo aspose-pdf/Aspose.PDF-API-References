@@ -1,10 +1,14 @@
 ---
-title: Class ImageFile
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ImageFile class. Represents an image File in the content of a message
+title: "ImageFile Class"
+linktitle: "ImageFile"
+articleTitle: "ImageFile"
+second_title: "Aspose.PDF for .NET"
+description: "Represents an image File in the content of a message."
 type: docs
 weight: 680
-url: /net/aspose.pdf.ai/imagefile/
+url: "/net/aspose.pdf.ai/imagefile/"
+keywords: "ImageFile, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## ImageFile class
 
@@ -18,18 +22,17 @@ public class ImageFile
 
 | Name | Description |
 | --- | --- |
-| [ImageFile](imagefile/)() | The default constructor. |
+| [ImageFile](./imagefile/#constructor) | Initializes a new instance of the ImageFile class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Detail](../../aspose.pdf.ai/imagefile/detail/) { get; set; } | Gets or sets the detail level of the image if specified by the user. low uses fewer tokens, you can opt in to high resolution using high. |
-| [FileId](../../aspose.pdf.ai/imagefile/fileid/) { get; set; } | Gets or sets the File ID of the image in the message content. Set purpose="vision" when uploading the File if you need to later display the file content. |
+| [Detail](./detail/) { get; set; } | Gets or sets the detail level of the image if specified by the user. low uses. |
+| [FileId](./fileid/) { get; set; } | Gets or sets the File ID of the image in the message content. Set purpose="vision". |
 
 ### See Also
 
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,14 +1,18 @@
 ---
-title: MarkupAnnotation.GetStateModel
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation method. Gets the state model of the annotation. Note the state stored in other text annotation which has state and statemodel keys
+title: "MarkupAnnotation.GetStateModel"
+linktitle: "GetStateModel"
+articleTitle: "GetStateModel"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the state model of the annotation. Note, the state stored in other text annotation which has state and statemodel keys."
 type: docs
 weight: 120
-url: /net/aspose.pdf.annotations/markupannotation/getstatemodel/
+url: "/net/aspose.pdf.annotations/markupannotation/getstatemodel/"
+product_version: "26.9.0"
 ---
-## MarkupAnnotation.GetStateModel method
+## GetStateModel() {#getstatemodel}
 
-Gets the state model of the annotation. Note, the state stored in other text annotation which has state and statemodel keys.
+Gets the state model of the annotation.
+ Note, the state stored in other text annotation which has state and statemodel keys.
 
 ```csharp
 public AnnotationStateModel GetStateModel()
@@ -16,13 +20,14 @@ public AnnotationStateModel GetStateModel()
 
 ### Return Value
 
+[AnnotationStateModel](../../../aspose.pdf.annotations/annotationstatemodel/)
+
 Annotation state model.
 
 ### See Also
 
-* enum [AnnotationStateModel](../../annotationstatemodel/)
-* class [MarkupAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotationStateModel](../../../aspose.pdf.annotations/annotationstatemodel/)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

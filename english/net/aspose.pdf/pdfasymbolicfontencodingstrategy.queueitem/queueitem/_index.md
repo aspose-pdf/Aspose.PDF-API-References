@@ -1,65 +1,66 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.QueueItem.QueueItem
-second_title: Aspose.PDF for .NET API Reference
-description: QueueItem constructor. Constructor specifies mac subtable10 by default
+title: "PdfASymbolicFontEncodingStrategy.QueueItem.PdfASymbolicFontEncodingStrategy.QueueItem"
+linktitle: "PdfASymbolicFontEncodingStrategy.QueueItem"
+articleTitle: "PdfASymbolicFontEncodingStrategy.QueueItem"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the PdfASymbolicFontEncodingStrategy.QueueItem class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/queueitem/
+url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/queueitem/"
+product_version: "26.9.0"
 ---
-## QueueItem() {#constructor}
+## PdfASymbolicFontEncodingStrategy.QueueItem() {#constructor}
 
 Constructor, specifies mac subtable(1,0) by default
 
 ```csharp
-public QueueItem()
+public PdfASymbolicFontEncodingStrategy.QueueItem()
 ```
 
 ### See Also
 
-* class [QueueItem](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfASymbolicFontEncodingStrategy.QueueItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## QueueItem(ushort, ushort) {#constructor_2}
+## PdfASymbolicFontEncodingStrategy.QueueItem(CMapEncodingTableType) {#constructor_1}
 
-Constructor
+Initializes a new instance of the PdfASymbolicFontEncodingStrategy.QueueItem class.
 
 ```csharp
-public QueueItem(ushort platformID, ushort platformSpecificID)
+public PdfASymbolicFontEncodingStrategy.QueueItem(CMapEncodingTableType cmapTable)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| platformID | UInt16 | Platform identifier for encoding subtable |
-| platformSpecificID | UInt16 | Platform-specific encoding identifier for encoding subtable |
+| cmapTable | CMapEncodingTableType |  |
 
 ### See Also
 
-* class [QueueItem](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfASymbolicFontEncodingStrategy.QueueItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## QueueItem(CMapEncodingTableType) {#constructor_1}
+## PdfASymbolicFontEncodingStrategy.QueueItem(ushort, ushort) {#constructor_2}
 
 Constructor
 
 ```csharp
-public QueueItem(CMapEncodingTableType cmapTable)
+public PdfASymbolicFontEncodingStrategy.QueueItem(ushort platformID, ushort platformSpecificID)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cmapTable | CMapEncodingTableType | encoding subtable |
+| platformID | ushort | Platform identifier for encoding subtable |
+| platformSpecificID | ushort | Platform-specific encoding identifier for encoding subtable |
 
 ### See Also
 
-* enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
-* class [QueueItem](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfASymbolicFontEncodingStrategy.QueueItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

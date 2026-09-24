@@ -1,17 +1,20 @@
 ---
-title: Matrix.GetAngle
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix method. Transaltes rotation into angle degrees
+title: "Matrix.GetAngle"
+linktitle: "GetAngle"
+articleTitle: "GetAngle"
+second_title: "Aspose.PDF for .NET"
+description: "Transaltes rotation into angle (degrees)"
 type: docs
-weight: 240
-url: /net/aspose.pdf/matrix/getangle/
+weight: 130
+url: "/net/aspose.pdf/matrix/getangle/"
+product_version: "26.9.0"
 ---
-## Matrix.GetAngle method
+## GetAngle([Rotation](../../../aspose.pdf/rotation/)) {#getangle}
 
 Transaltes rotation into angle (degrees)
 
 ```csharp
-public static double GetAngle(Rotation rotation)
+public double GetAngle(Rotation rotation)
 ```
 
 | Parameter | Type | Description |
@@ -20,20 +23,13 @@ public static double GetAngle(Rotation rotation)
 
 ### Return Value
 
+double
+
 Angle value.
-
-## Examples
-
-```csharp
-double angle = Matrix.GetAngle(Rotation.on90);
-Matrix m = Matrix.Rotation(angle);
-```
 
 ### See Also
 
-* enum [Rotation](../../rotation/)
-* class [Matrix](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

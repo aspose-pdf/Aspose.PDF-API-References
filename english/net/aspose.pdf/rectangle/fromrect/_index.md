@@ -1,17 +1,20 @@
 ---
-title: Rectangle.FromRect
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle method. Initializes new rectangle from given instance of System.Drawing.Rectangle
+title: "Rectangle.FromRect"
+linktitle: "FromRect"
+articleTitle: "FromRect"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes new rectangle from given instance of System.Drawing.Rectangle."
 type: docs
-weight: 40
-url: /net/aspose.pdf/rectangle/fromrect/
+weight: 30
+url: "/net/aspose.pdf/rectangle/fromrect/"
+product_version: "26.9.0"
 ---
-## FromRect(Rectangle) {#fromrect}
+## FromRect([Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#fromrect}
 
 Initializes new rectangle from given instance of System.Drawing.Rectangle.
 
 ```csharp
-public static Rectangle FromRect(Rectangle src)
+public Rectangle FromRect(Rectangle src)
 ```
 
 | Parameter | Type | Description |
@@ -20,13 +23,16 @@ public static Rectangle FromRect(Rectangle src)
 
 ### Return Value
 
+[Rectangle](../../../aspose.pdf.drawing/rectangle/)
+
 New rectangle.
 
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -35,7 +41,7 @@ New rectangle.
 Initializes new rectangle from given instance of System.Drawing.Rectangle.
 
 ```csharp
-public static Rectangle FromRect(RectangleF src)
+public Rectangle FromRect(RectangleF src)
 ```
 
 | Parameter | Type | Description |
@@ -44,12 +50,14 @@ public static Rectangle FromRect(RectangleF src)
 
 ### Return Value
 
+[Rectangle](../../../aspose.pdf.drawing/rectangle/)
+
 New rectangle.
 
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

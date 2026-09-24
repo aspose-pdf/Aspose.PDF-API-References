@@ -1,10 +1,13 @@
 ---
-title: AttributeKey.Owner
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey property. Get Attribute Owner
+title: "AttributeKey.Owner"
+linktitle: "Owner"
+articleTitle: "Owner"
+second_title: "Aspose.PDF for .NET"
+description: "Get Attribute Owner."
 type: docs
-weight: 430
-url: /net/aspose.pdf.logicalstructure/attributekey/owner/
+weight: 40
+url: "/net/aspose.pdf.logicalstructure/attributekey/owner/"
+product_version: "26.9.0"
 ---
 ## AttributeKey.Owner property
 
@@ -16,13 +19,12 @@ public AttributeOwnerStandard Owner { get; }
 
 ### Property Value
 
-Attribute Owner.
+[AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
 
 ### See Also
 
-* class [AttributeOwnerStandard](../../attributeownerstandard/)
-* class [AttributeKey](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

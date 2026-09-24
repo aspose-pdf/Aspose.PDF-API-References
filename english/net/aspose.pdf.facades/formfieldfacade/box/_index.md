@@ -1,10 +1,13 @@
 ---
-title: FormFieldFacade.Box
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade property. A rectangle object holding fields location
+title: "FormFieldFacade.Box"
+linktitle: "Box"
+articleTitle: "Box"
+second_title: "Aspose.PDF for .NET"
+description: "A rectangle object holding field's location."
 type: docs
-weight: 70
-url: /net/aspose.pdf.facades/formfieldfacade/box/
+weight: 150
+url: "/net/aspose.pdf.facades/formfieldfacade/box/"
+product_version: "26.9.0"
 ---
 ## FormFieldFacade.Box property
 
@@ -14,10 +17,14 @@ A rectangle object holding field's location.
 public Rectangle Box { get; set; }
 ```
 
+### Property Value
+
+[Rectangle](../../../aspose.pdf.drawing/rectangle/)
+
 ### See Also
 
-* class [FormFieldFacade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

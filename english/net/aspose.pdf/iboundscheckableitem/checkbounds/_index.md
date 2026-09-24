@@ -1,12 +1,15 @@
 ---
-title: IBoundsCheckableItem.CheckBounds
-second_title: Aspose.PDF for .NET API Reference
-description: IBoundsCheckableItem method. Checks if the item fits within the given container dimensions inclusive
+title: "IBoundsCheckableItem.CheckBounds"
+linktitle: "CheckBounds"
+articleTitle: "CheckBounds"
+second_title: "Aspose.PDF for .NET"
+description: "Checks if the item fits within the given container dimensions (inclusive)."
 type: docs
 weight: 10
-url: /net/aspose.pdf/iboundscheckableitem/checkbounds/
+url: "/net/aspose.pdf/iboundscheckableitem/checkbounds/"
+product_version: "26.9.0"
 ---
-## IBoundsCheckableItem.CheckBounds method
+## CheckBounds(double, double) {#checkbounds}
 
 Checks if the item fits within the given container dimensions (inclusive).
 
@@ -16,17 +19,18 @@ public bool CheckBounds(double containerWidth, double containerHeight)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| containerWidth | Double | Width of the container. |
-| containerHeight | Double | Height of the container. |
+| containerWidth | double | Width of the container. |
+| containerHeight | double | Height of the container. |
 
 ### Return Value
+
+bool
 
 True if fits; otherwise, false.
 
 ### See Also
 
-* interface [IBoundsCheckableItem](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IBoundsCheckableItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

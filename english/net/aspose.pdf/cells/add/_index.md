@@ -1,10 +1,13 @@
 ---
-title: Cells.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Cells method. Add cell to collection
+title: "Cells.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET"
+description: "Add cell to collection."
 type: docs
-weight: 40
-url: /net/aspose.pdf/cells/add/
+weight: 20
+url: "/net/aspose.pdf/cells/add/"
+product_version: "26.9.0"
 ---
 ## Add() {#add}
 
@@ -16,18 +19,20 @@ public Cell Add()
 
 ### Return Value
 
+[Cell](../../../aspose.pdf/cell/)
+
 The new cell
 
 ### See Also
 
-* class [Cell](../../cell/)
-* class [Cells](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Cell](../../../aspose.pdf/cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(string, TextState) {#add_3}
+## Add(string, [TextState](../../../aspose.pdf.text/textstate/)) {#add_1}
 
 Add cell to collection.
 
@@ -37,20 +42,21 @@ public Cell Add(string text, TextState ts)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | String | The text for cell. |
+| text | string | The text for cell. |
 | ts | TextState | The text state. |
 
 ### Return Value
+
+[Cell](../../../aspose.pdf/cell/)
 
 The new cell
 
 ### See Also
 
-* class [Cell](../../cell/)
-* class [TextState](../../../aspose.pdf.text/textstate/)
-* class [Cells](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Cell](../../../aspose.pdf/cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -64,22 +70,24 @@ public Cell Add(string text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | String | The text for cell. |
+| text | string | The text for cell. |
 
 ### Return Value
+
+[Cell](../../../aspose.pdf/cell/)
 
 The new cell
 
 ### See Also
 
-* class [Cell](../../cell/)
-* class [Cells](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Cell](../../../aspose.pdf/cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(TextFragment) {#add_1}
+## Add([TextFragment](../../../aspose.pdf.text/textfragment/)) {#add_3}
 
 Add cell to collection.
 
@@ -93,19 +101,20 @@ public Cell Add(TextFragment textFragment)
 
 ### Return Value
 
+[Cell](../../../aspose.pdf/cell/)
+
 The new cell
 
 ### See Also
 
-* class [Cell](../../cell/)
-* class [TextFragment](../../../aspose.pdf.text/textfragment/)
-* class [Cells](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Cell](../../../aspose.pdf/cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(Cell) {#add_4}
+## Add([Cell](../../../aspose.pdf/cell/)) {#add_4}
 
 Add cell to collection.
 
@@ -119,9 +128,7 @@ public void Add(Cell cell)
 
 ### See Also
 
-* class [Cell](../../cell/)
-* class [Cells](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

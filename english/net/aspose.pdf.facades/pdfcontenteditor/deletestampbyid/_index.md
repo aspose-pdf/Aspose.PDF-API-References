@@ -1,12 +1,15 @@
 ---
-title: PdfContentEditor.DeleteStampById
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Deletes stamp on the specified page by stamp ID
+title: "PdfContentEditor.DeleteStampById"
+linktitle: "DeleteStampById"
+articleTitle: "DeleteStampById"
+second_title: "Aspose.PDF for .NET"
+description: "Deletes stamp on the specified page by stamp ID."
 type: docs
-weight: 340
-url: /net/aspose.pdf.facades/pdfcontenteditor/deletestampbyid/
+weight: 560
+url: "/net/aspose.pdf.facades/pdfcontenteditor/deletestampbyid/"
+product_version: "26.9.0"
 ---
-## DeleteStampById(int, int) {#deletestampbyid_1}
+## DeleteStampById(int, int) {#deletestampbyid}
 
 Deletes stamp on the specified page by stamp ID.
 
@@ -16,27 +19,18 @@ public void DeleteStampById(int pageNumber, int stampId)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | Int32 | Page number where stamp will be deleted. |
-| stampId | Int32 | Identifier of stanp which should be deleted. |
-
-## Examples
-
-```csharp
-PdfContentEditor contentEditor = new PdfContentEditor();
-contentEditor.BindPdf("file.pdf");
-contentEditor.DeleteStampById(1, 100);
-contentEditor.Save("outfile.pdf");
-```
+| pageNumber | int | Page number where stamp will be deleted. |
+| stampId | int | Identifier of stanp which should be deleted. |
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## DeleteStampById(int) {#deletestampbyid}
+## DeleteStampById(int) {#deletestampbyid_1}
 
 Delete stamp by ID from all pages of the document.
 
@@ -46,21 +40,11 @@ public void DeleteStampById(int stampId)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stampId | Int32 | Identifier of stamp which should be deleted. |
-
-## Examples
-
-```csharp
-PdfContentEditor contentEditor = new PdfContentEditor();
-contentEditor.BindPdf("file.pdf");
-contentEditor.DeleteStampById(100);
-contentEditor.Save("outfile.pdf");
-```
+| stampId | int | Identifier of stamp which should be deleted. |
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

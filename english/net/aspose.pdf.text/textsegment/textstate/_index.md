@@ -1,28 +1,37 @@
 ---
-title: TextSegment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegment property. Gets or sets text state for the text that TextSegment object represents
+title: "TextSegment.TextState"
+linktitle: "TextState"
+articleTitle: "TextState"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets text state for the text that object represents."
 type: docs
-weight: 110
-url: /net/aspose.pdf.text/textsegment/textstate/
+weight: 70
+url: "/net/aspose.pdf.text/textsegment/textstate/"
+product_version: "26.9.0"
 ---
 ## TextSegment.TextState property
 
-Gets or sets text state for the text that [`TextSegment`](../) object represents.
+Gets or sets text state for the text that [`TextSegment`](../../../aspose.pdf.text/textsegment/) object represents.
+
+Provides a way to change following properties of the text:
+ Font
+ FontSize
+ FontStyle
+ ForegroundColor
+ BackgroundColor
 
 ```csharp
 public TextState TextState { get; set; }
 ```
 
-## Remarks
+### Property Value
 
-Provides a way to change following properties of the text: Font FontSize FontStyle ForegroundColor BackgroundColor
+[TextState](../../../aspose.pdf.text/textstate/)
 
 ### See Also
 
-* class [TextState](../../textstate/)
-* class [TextSegment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

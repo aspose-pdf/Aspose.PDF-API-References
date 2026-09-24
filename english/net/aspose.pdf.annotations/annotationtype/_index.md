@@ -1,10 +1,13 @@
 ---
-title: Enum AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.AnnotationType enum. Enumeration of annotation types
+title: "AnnotationType Enum"
+linktitle: "AnnotationType"
+articleTitle: "AnnotationType"
+second_title: "Aspose.PDF for .NET"
+description: "Enumeration of annotation types."
 type: docs
-weight: 1570
-url: /net/aspose.pdf.annotations/annotationtype/
+weight: 100
+url: "/net/aspose.pdf.annotations/annotationtype/"
+product_version: "26.9.0"
 ---
 ## AnnotationType enumeration
 
@@ -14,10 +17,10 @@ Enumeration of annotation types.
 public enum AnnotationType
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Text | `0` | Text annotation type. |
 | Circle | `1` | Circle annotation type. |
 | Polygon | `2` | Polygon annotation type. |
@@ -54,7 +57,6 @@ public enum AnnotationType
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,14 +1,17 @@
 ---
-title: PdfException.PdfException
-second_title: Aspose.PDF for .NET API Reference
-description: PdfException constructor. Initializes a new instance of the PdfException class
+title: "PdfException.PdfException"
+linktitle: "PdfException"
+articleTitle: "PdfException"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the PdfException class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/pdfexception/pdfexception/
+url: "/net/aspose.pdf/pdfexception/pdfexception/"
+product_version: "26.9.0"
 ---
 ## PdfException() {#constructor}
 
-Initializes a new instance of the [`PdfException`](../) class.
+Initializes a new instance of the [`PdfException`](../../../aspose.pdf/pdfexception/) class.
 
 ```csharp
 public PdfException()
@@ -16,15 +19,15 @@ public PdfException()
 
 ### See Also
 
-* class [PdfException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfException(string) {#constructor_2}
+## PdfException(string) {#constructor_1}
 
-Initializes a new instance of the [`PdfException`](../) class.
+Initializes a new instance of the [`PdfException`](../../../aspose.pdf/pdfexception/) class.
 
 ```csharp
 public PdfException(string message)
@@ -32,40 +35,19 @@ public PdfException(string message)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | String | The message. |
+| message | string | The message. |
 
 ### See Also
 
-* class [PdfException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfException(string, Exception) {#constructor_3}
+## PdfException(Exception) {#constructor_2}
 
-Initializes a new instance of the [`PdfException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
-
-```csharp
-public PdfException(string message, Exception innerException)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| message | String | The error message that explains the reason for the exception. |
-| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
-
-### See Also
-
-* class [PdfException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## PdfException(Exception) {#constructor_1}
-
-Initializes a new instance of the [`PdfException`](../) class with a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [`PdfException`](../../../aspose.pdf/pdfexception/) class with a reference to the inner exception that is the cause of this exception.
 
 ```csharp
 public PdfException(Exception innerException)
@@ -77,8 +59,28 @@ public PdfException(Exception innerException)
 
 ### See Also
 
-* class [PdfException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## PdfException(string, Exception) {#constructor_3}
+
+Initializes a new instance of the [`PdfException`](../../../aspose.pdf/pdfexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+
+```csharp
+public PdfException(string message, Exception innerException)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| message | string | The error message that explains the reason for the exception. |
+| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
+
+### See Also
+
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

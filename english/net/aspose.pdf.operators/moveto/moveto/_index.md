@@ -1,14 +1,17 @@
 ---
-title: MoveTo.MoveTo
-second_title: Aspose.PDF for .NET API Reference
-description: MoveTo constructor. Inintalizes new Operators.m move to operator
+title: "MoveTo.MoveTo"
+linktitle: "MoveTo"
+articleTitle: "MoveTo"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the MoveTo class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/moveto/moveto/
+url: "/net/aspose.pdf.operators/moveto/moveto/"
+product_version: "26.9.0"
 ---
-## MoveTo constructor
+## MoveTo(double, double) {#constructor}
 
-Inintalizes new !:Operators.m (move to) operator.
+Inintalizes new `m` (move to) operator.
 
 ```csharp
 public MoveTo(double x, double y)
@@ -16,13 +19,12 @@ public MoveTo(double x, double y)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | Double | The x-coordinate. |
-| y | Double | The y-coordinate. |
+| x | double | The x-coordinate. |
+| y | double | The y-coordinate. |
 
 ### See Also
 
-* class [MoveTo](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MoveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

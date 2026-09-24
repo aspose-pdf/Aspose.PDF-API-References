@@ -1,23 +1,29 @@
 ---
-title: DataResponse1.Data
-second_title: Aspose.PDF for .NET API Reference
-description: DataResponse property. Gets or sets the data in the response
+title: "DataResponse<T>.Data"
+linktitle: "Data"
+articleTitle: "Data"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
 weight: 20
-url: /net/aspose.pdf.ai/dataresponse-1/data/
+url: "/net/aspose.pdf.ai/dataresponse-1/data/"
+product_version: "26.9.0"
 ---
-## DataResponse&lt;T&gt;.Data property
+## DataResponse<T>.Data property
 
-Gets or sets the data in the response.
+
 
 ```csharp
-public T Data { get; set; }
+public T0 Data { get; set; }
 ```
+
+### Property Value
+
+T0
 
 ### See Also
 
-* class [DataResponse&lt;T&gt;](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DataResponse<T>](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

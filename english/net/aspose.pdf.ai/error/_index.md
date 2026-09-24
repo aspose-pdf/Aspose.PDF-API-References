@@ -1,10 +1,14 @@
 ---
-title: Class Error
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.Error class. Represents an error in the API response
+title: "Error Class"
+linktitle: "Error"
+articleTitle: "Error"
+second_title: "Aspose.PDF for .NET"
+description: "Represents an error in the API response."
 type: docs
 weight: 360
-url: /net/aspose.pdf.ai/error/
+url: "/net/aspose.pdf.ai/error/"
+keywords: "Error, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## Error class
 
@@ -18,20 +22,19 @@ public class Error
 
 | Name | Description |
 | --- | --- |
-| [Error](error/)() | The default constructor. |
+| [Error](./error/#constructor) | Initializes a new instance of the Error class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Code](../../aspose.pdf.ai/error/code/) { get; set; } | Gets or sets the error code. |
-| [ErrorType](../../aspose.pdf.ai/error/errortype/) { get; set; } | Gets or sets the error type. |
-| [Message](../../aspose.pdf.ai/error/message/) { get; set; } | Gets or sets the error message. |
-| [Param](../../aspose.pdf.ai/error/param/) { get; set; } | Gets or sets the parameter name. |
+| [Code](./code/) { get; set; } | Gets or sets the error code. |
+| [ErrorType](./errortype/) { get; set; } | Gets or sets the error type. |
+| [Message](./message/) { get; set; } | Gets or sets the error message. |
+| [Param](./param/) { get; set; } | Gets or sets the parameter name. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

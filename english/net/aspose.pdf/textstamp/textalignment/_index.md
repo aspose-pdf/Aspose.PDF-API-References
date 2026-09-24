@@ -1,10 +1,13 @@
 ---
-title: TextStamp.TextAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp property. Alignment of the text inside the stamp
+title: "TextStamp.TextAlignment"
+linktitle: "TextAlignment"
+articleTitle: "TextAlignment"
+second_title: "Aspose.PDF for .NET"
+description: "Alignment of the text inside the stamp."
 type: docs
-weight: 120
-url: /net/aspose.pdf/textstamp/textalignment/
+weight: 140
+url: "/net/aspose.pdf/textstamp/textalignment/"
+product_version: "26.9.0"
 ---
 ## TextStamp.TextAlignment property
 
@@ -14,11 +17,14 @@ Alignment of the text inside the stamp.
 public HorizontalAlignment TextAlignment { get; set; }
 ```
 
+### Property Value
+
+[HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
+
 ### See Also
 
-* enum [HorizontalAlignment](../../horizontalalignment/)
-* class [TextStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

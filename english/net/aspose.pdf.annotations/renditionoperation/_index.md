@@ -1,10 +1,13 @@
 ---
-title: Enum RenditionOperation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.RenditionOperation enum. The operation to perform when the action is triggered
+title: "RenditionOperation Enum"
+linktitle: "RenditionOperation"
+articleTitle: "RenditionOperation"
+second_title: "Aspose.PDF for .NET"
+description: "The operation to perform when the action is triggered."
 type: docs
-weight: 2540
-url: /net/aspose.pdf.annotations/renditionoperation/
+weight: 1070
+url: "/net/aspose.pdf.annotations/renditionoperation/"
+product_version: "26.9.0"
 ---
 ## RenditionOperation enumeration
 
@@ -14,10 +17,10 @@ The operation to perform when the action is triggered.
 public enum RenditionOperation
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | PlayStop | `0` | If no rendition is associated with the annotation, play the specified rendition, associating it with the annotation. If a rendition is already associated with the annotation, it shall be stopped, and the new rendition shall be associated with the annotation. |
 | Stop | `1` | Stop any rendition being played in association with the annotation. |
 | Pause | `2` | Pause any rendition being played in association with the annotation. |
@@ -27,7 +30,6 @@ public enum RenditionOperation
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

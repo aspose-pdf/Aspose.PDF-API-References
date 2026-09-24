@@ -1,10 +1,13 @@
 ---
-title: Enum PaperKind
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PaperKind enum. Specifies the standard paper sizes
+title: "PaperKind Enum"
+linktitle: "PaperKind"
+articleTitle: "PaperKind"
+second_title: "Aspose.PDF for .NET"
+description: "Specifies the standard paper sizes."
 type: docs
-weight: 9850
-url: /net/aspose.pdf.printing/paperkind/
+weight: 60
+url: "/net/aspose.pdf.printing/paperkind/"
+product_version: "26.9.0"
 ---
 ## PaperKind enumeration
 
@@ -14,10 +17,10 @@ Specifies the standard paper sizes.
 public enum PaperKind
 ```
 
-### Values
+## Values
 
 | Name | Value | Description |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Custom | `0` | The paper size is defined by the user. |
 | Letter | `1` | Letter paper (8.5 in. by 11 in.). |
 | LetterSmall | `2` | Letter small paper (8.5 in. by 11 in.). |
@@ -138,7 +141,6 @@ public enum PaperKind
 
 ### See Also
 
-* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
 

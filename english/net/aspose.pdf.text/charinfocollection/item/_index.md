@@ -1,32 +1,30 @@
 ---
-title: CharInfoCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: CharInfoCollection property. Gets the CharInfo element at the specified index
+title: "CharInfoCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 40
-url: /net/aspose.pdf.text/charinfocollection/item/
+weight: 110
+url: "/net/aspose.pdf.text/charinfocollection/item/"
+product_version: "26.9.0"
 ---
-## CharInfoCollection indexer
+## CharInfoCollection.Item property
 
-Gets the CharInfo element at the specified index.
+
 
 ```csharp
-public CharInfo this[int index] { get; }
+public CharInfo Item { get; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| index | Index within the collection. |
+### Property Value
 
-### Return Value
-
-CharInfo object.
+[CharInfo](../../../aspose.pdf.text/charinfo/)
 
 ### See Also
 
-* class [CharInfo](../../charinfo/)
-* class [CharInfoCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CharInfo](../../../aspose.pdf.text/charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

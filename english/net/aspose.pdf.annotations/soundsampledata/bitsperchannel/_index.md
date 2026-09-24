@@ -1,10 +1,13 @@
 ---
-title: SoundSampleData.BitsPerChannel
-second_title: Aspose.PDF for .NET API Reference
-description: SoundSampleData property. Gets or sets the number of bits per sample value per channel
+title: "SoundSampleData.BitsPerChannel"
+linktitle: "BitsPerChannel"
+articleTitle: "BitsPerChannel"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets the number of bits per sample value per channel."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/soundsampledata/bitsperchannel/
+weight: 70
+url: "/net/aspose.pdf.annotations/soundsampledata/bitsperchannel/"
+product_version: "26.9.0"
 ---
 ## SoundSampleData.BitsPerChannel property
 
@@ -14,10 +17,13 @@ Gets or sets the number of bits per sample value per channel.
 public int BitsPerChannel { get; set; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [SoundSampleData](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

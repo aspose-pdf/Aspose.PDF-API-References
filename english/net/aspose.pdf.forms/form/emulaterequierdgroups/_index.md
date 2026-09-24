@@ -1,23 +1,32 @@
 ---
-title: Form.EmulateRequierdGroups
-second_title: Aspose.PDF for .NET API Reference
-description: Form property. If this property is true then additional red boundary rectangles will be drawn for required Xfa exclGroup elements containers This property was introduced because absences of analogues for the exclGroup during conversion Xfa representation of forms to standard. It is false by default
+title: "Form.EmulateRequierdGroups"
+linktitle: "EmulateRequierdGroups"
+articleTitle: "EmulateRequierdGroups"
+second_title: "Aspose.PDF for .NET"
+description: "If this property is true then additional red boundary rectangles will be drawn for required Xfa exclGroup elements containers This property was introduced be..."
 type: docs
-weight: 70
-url: /net/aspose.pdf.forms/form/emulaterequierdgroups/
+weight: 310
+url: "/net/aspose.pdf.forms/form/emulaterequierdgroups/"
+product_version: "26.9.0"
 ---
 ## Form.EmulateRequierdGroups property
 
-If this property is true then additional red boundary rectangles will be drawn for required Xfa exclGroup elements containers This property was introduced because absences of analogues for the exclGroup during conversion Xfa representation of forms to standard. It is false by default.
+If this property is true then additional red boundary rectangles will be drawn for required Xfa exclGroup elements containers
+ This property was introduced because absences of analogues for the exclGroup during conversion Xfa representation of forms 
+ to standard.
+ It is false by default.
 
 ```csharp
 public bool EmulateRequierdGroups { get; set; }
 ```
 
+### Property Value
+
+bool
+
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

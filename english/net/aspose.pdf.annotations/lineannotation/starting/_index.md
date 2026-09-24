@@ -1,10 +1,13 @@
 ---
-title: LineAnnotation.Starting
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation property. Gets or sets starting point of line
+title: "LineAnnotation.Starting"
+linktitle: "Starting"
+articleTitle: "Starting"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets starting point of line."
 type: docs
-weight: 140
-url: /net/aspose.pdf.annotations/lineannotation/starting/
+weight: 60
+url: "/net/aspose.pdf.annotations/lineannotation/starting/"
+product_version: "26.9.0"
 ---
 ## LineAnnotation.Starting property
 
@@ -14,11 +17,14 @@ Gets or sets starting point of line.
 public Point Starting { get; set; }
 ```
 
+### Property Value
+
+[Point](../../../aspose.pdf/point/)
+
 ### See Also
 
-* class [Point](../../../aspose.pdf/point/)
-* class [LineAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Point](../../../aspose.pdf/point/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

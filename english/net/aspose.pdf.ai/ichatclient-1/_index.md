@@ -1,33 +1,36 @@
 ---
-title: Interface IChatClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IChatClient1TOptions interface. Represents an interface for a chat client with specific options
+title: "IChatClient<TOptions> Interface"
+linktitle: "IChatClient<TOptions>"
+articleTitle: "IChatClient<TOptions>"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
 weight: 480
-url: /net/aspose.pdf.ai/ichatclient-1/
+url: "/net/aspose.pdf.ai/ichatclient-1/"
+product_version: "26.9.0"
 ---
-## IChatClient&lt;TOptions&gt; interface
+## IChatClient<TOptions> interface
 
-Represents an interface for a chat client with specific options.
+
 
 ```csharp
-public interface IChatClient<in TOptions> : IAIClient
+public interface IChatClient<TOptions><TOptions>
 ```
 
-| Parameter | Description |
+## Type Parameters
+
+| Name | Description |
 | --- | --- |
-| TOptions | The type of options for the chat client. |
+| TOptions |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetChatCopilot](../../aspose.pdf.ai/ichatclient-1/getchatcopilot/)(IChatCopilotOptions&lt;TOptions&gt;) | Gets an instance of [`IChatCopilot`](../ichatcopilot/) with the specified options. |
+| [GetChatCopilot](./getchatcopilot/)(*IChatCopilotOptions<T0>*) |  |
 
 ### See Also
 
-* interface [IAIClient](../iaiclient/)
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

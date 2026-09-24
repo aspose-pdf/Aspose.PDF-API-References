@@ -1,12 +1,15 @@
 ---
-title: DocumentInfo.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo method. Removes the element with the specified key from the collection
+title: "DocumentInfo.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET"
+description: "Removes the element with the specified key from the collection."
 type: docs
-weight: 170
-url: /net/aspose.pdf/documentinfo/remove/
+weight: 40
+url: "/net/aspose.pdf/documentinfo/remove/"
+product_version: "26.9.0"
 ---
-## DocumentInfo.Remove method
+## Remove(string) {#remove}
 
 Removes the element with the specified key from the collection.
 
@@ -16,12 +19,11 @@ public void Remove(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | The key of the element to remove. |
+| key | string | The key of the element to remove. |
 
 ### See Also
 
-* class [DocumentInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

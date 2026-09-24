@@ -1,12 +1,15 @@
 ---
-title: Form.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Gets enumeration of form fields
+title: "Form.GetEnumerator"
+linktitle: "GetEnumerator"
+articleTitle: "GetEnumerator"
+second_title: "Aspose.PDF for .NET"
+description: "Gets enumeration of form fields."
 type: docs
-weight: 280
-url: /net/aspose.pdf.forms/form/getenumerator/
+weight: 20
+url: "/net/aspose.pdf.forms/form/getenumerator/"
+product_version: "26.9.0"
 ---
-## Form.GetEnumerator method
+## GetEnumerator() {#getenumerator}
 
 Gets enumeration of form fields.
 
@@ -16,13 +19,13 @@ public IEnumerator<WidgetAnnotation> GetEnumerator()
 
 ### Return Value
 
+IEnumerator<[WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)>
+
 Field enumerator.
 
 ### See Also
 
-* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

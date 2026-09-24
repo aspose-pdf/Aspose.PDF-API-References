@@ -1,28 +1,31 @@
 ---
-title: IOpenAIClient.CreateVectorStoreFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Creates a new vector store file asynchronously
+title: "IOpenAIClient.CreateVectorStoreFileAsync"
+linktitle: "CreateVectorStoreFileAsync"
+articleTitle: "CreateVectorStoreFileAsync"
+second_title: "Aspose.PDF for .NET"
+description: "Creates a new vector store file asynchronously."
 type: docs
-weight: 110
-url: /net/aspose.pdf.ai/iopenaiclient/createvectorstorefileasync/
+weight: 10
+url: "/net/aspose.pdf.ai/iopenaiclient/createvectorstorefileasync/"
+product_version: "26.9.0"
 ---
-## IOpenAIClient.CreateVectorStoreFileAsync method
+## CreateVectorStoreFileAsync(string, [VectorStoreFileCreateRequest](../../../aspose.pdf.ai/vectorstorefilecreaterequest/), Nullable<CancellationToken>) {#createvectorstorefileasync}
 
 Creates a new vector store file asynchronously.
 
 ```csharp
-public Task<VectorStoreFileResponse> CreateVectorStoreFileAsync(string vectorStoreId, 
-    VectorStoreFileCreateRequest vectorStoreFileCreateRequest, 
-    CancellationToken? cancellationToken = default)
+public Task<VectorStoreFileResponse> CreateVectorStoreFileAsync(string vectorStoreId, VectorStoreFileCreateRequest vectorStoreFileCreateRequest, Nullable<CancellationToken> cancellationToken)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| vectorStoreId | String | The ID of the vector store where the file will be created. |
+| vectorStoreId | string | The ID of the vector store where the file will be created. |
 | vectorStoreFileCreateRequest | VectorStoreFileCreateRequest | The request object containing details for creating the file. |
-| cancellationToken | Nullable`1 | A token to cancel the operation. |
+| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
 
 ### Return Value
+
+[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[VectorStoreFileResponse](../../../aspose.pdf.ai/vectorstorefileresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the response from the file creation.
 
@@ -30,14 +33,11 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Thrown when the vector store Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the vector store Id is null or empty. |
 
 ### See Also
 
-* class [VectorStoreFileResponse](../../vectorstorefileresponse/)
-* class [VectorStoreFileCreateRequest](../../vectorstorefilecreaterequest/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

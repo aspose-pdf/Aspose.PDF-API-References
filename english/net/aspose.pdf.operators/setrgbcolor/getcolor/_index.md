@@ -1,27 +1,32 @@
 ---
-title: SetRGBColor.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetRGBColor method. Returns color specified by operator
+title: "SetRGBColor.getColor"
+linktitle: "getColor"
+articleTitle: "getColor"
+second_title: "Aspose.PDF for .NET"
+description: "Returns color specified by operator."
 type: docs
-weight: 60
-url: /net/aspose.pdf.operators/setrgbcolor/getcolor/
+weight: 30
+url: "/net/aspose.pdf.operators/setrgbcolor/getcolor/"
+product_version: "26.9.0"
 ---
-## SetRGBColor.getColor method
+## getColor() {#getcolor}
 
 Returns color specified by operator.
 
 ```csharp
-public override Color getColor()
+public Color getColor()
 ```
 
 ### Return Value
+
+[Color](../../../aspose.pdf/color/)
 
 Color specified by operator.
 
 ### See Also
 
-* class [SetRGBColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [SetRGBColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,17 @@
 ---
-title: XmlSaveOptions.XmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: XmlSaveOptions constructor. The default constructor
+title: "XmlSaveOptions.XmlSaveOptions"
+linktitle: "XmlSaveOptions"
+articleTitle: "XmlSaveOptions"
+second_title: "Aspose.PDF for .NET"
+description: "Initializes a new instance of the XmlSaveOptions class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/xmlsaveoptions/xmlsaveoptions/
+url: "/net/aspose.pdf/xmlsaveoptions/xmlsaveoptions/"
+product_version: "26.9.0"
 ---
-## XmlSaveOptions constructor
+## XmlSaveOptions() {#constructor}
 
-The default constructor.
+Initializes a new instance of the XmlSaveOptions class.
 
 ```csharp
 public XmlSaveOptions()
@@ -16,8 +19,7 @@ public XmlSaveOptions()
 
 ### See Also
 
-* class [XmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

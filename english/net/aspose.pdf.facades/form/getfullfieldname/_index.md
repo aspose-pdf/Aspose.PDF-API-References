@@ -1,12 +1,15 @@
 ---
-title: Form.GetFullFieldName
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Gets the full field name according to its short field name
+title: "Form.GetFullFieldName"
+linktitle: "GetFullFieldName"
+articleTitle: "GetFullFieldName"
+second_title: "Aspose.PDF for .NET"
+description: "Gets the full field name according to its short field name."
 type: docs
-weight: 250
-url: /net/aspose.pdf.facades/form/getfullfieldname/
+weight: 210
+url: "/net/aspose.pdf.facades/form/getfullfieldname/"
+product_version: "26.9.0"
 ---
-## Form.GetFullFieldName method
+## GetFullFieldName(string) {#getfullfieldname}
 
 Gets the full field name according to its short field name.
 
@@ -16,23 +19,17 @@ public string GetFullFieldName(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | String | The fully qualified field name. |
+| fieldName | string | The fully qualified field name. |
 
 ### Return Value
 
+string
+
 The full field name.
-
-## Examples
-
-```csharp
-Form form = new Form("PdfForm.pdf");
-Console.WriteLine("Full field name is : " + form.GetFullFieldName("textField"));
-```
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

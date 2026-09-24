@@ -1,10 +1,13 @@
 ---
-title: EncryptionParameters.PermissionsInt
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptionParameters property. The integer representation of document permissions
+title: "EncryptionParameters.PermissionsInt"
+linktitle: "PermissionsInt"
+articleTitle: "PermissionsInt"
+second_title: "Aspose.PDF for .NET"
+description: "The integer representation of document permissions."
 type: docs
-weight: 70
-url: /net/aspose.pdf.security/encryptionparameters/permissionsint/
+weight: 60
+url: "/net/aspose.pdf.security/encryptionparameters/permissionsint/"
+product_version: "26.9.0"
 ---
 ## EncryptionParameters.PermissionsInt property
 
@@ -14,10 +17,13 @@ The integer representation of document permissions.
 public int PermissionsInt { get; }
 ```
 
+### Property Value
+
+int
+
 ### See Also
 
-* class [EncryptionParameters](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
-
+* class [EncryptionParameters](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 

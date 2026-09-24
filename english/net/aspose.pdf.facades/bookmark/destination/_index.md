@@ -1,10 +1,13 @@
 ---
-title: Bookmark.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: Bookmark property. Gets or sets bookmarks destination page. Required if action is set as string.Empty
+title: "Bookmark.Destination"
+linktitle: "Destination"
+articleTitle: "Destination"
+second_title: "Aspose.PDF for .NET"
+description: "Gets or sets bookmark's destination page. Required if action is set as string.Empty."
 type: docs
-weight: 60
-url: /net/aspose.pdf.facades/bookmark/destination/
+weight: 70
+url: "/net/aspose.pdf.facades/bookmark/destination/"
+product_version: "26.9.0"
 ---
 ## Bookmark.Destination property
 
@@ -14,10 +17,13 @@ Gets or sets bookmark's destination page. Required if action is set as string.Em
 public string Destination { get; set; }
 ```
 
+### Property Value
+
+string
+
 ### See Also
 
-* class [Bookmark](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

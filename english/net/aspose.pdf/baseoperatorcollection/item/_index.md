@@ -1,32 +1,30 @@
 ---
-title: BaseOperatorCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection property. Gets operator by its index
+title: "BaseOperatorCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET"
+description: ""
 type: docs
-weight: 40
-url: /net/aspose.pdf/baseoperatorcollection/item/
+weight: 120
+url: "/net/aspose.pdf/baseoperatorcollection/item/"
+product_version: "26.9.0"
 ---
-## BaseOperatorCollection indexer
+## BaseOperatorCollection.Item property
 
-Gets operator by its index.
+
 
 ```csharp
-public abstract Operator this[int index] { get; set; }
+public Operator Item { get; set; }
 ```
 
-| Parameter | Description |
-| --- | --- |
-| index | Index of operator. Numbering is starts from 1. |
+### Property Value
 
-### Return Value
-
-Operator from requested index
+[Operator](../../../aspose.pdf/operator/)
 
 ### See Also
 
-* class [Operator](../../operator/)
-* class [BaseOperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Operator](../../../aspose.pdf/operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

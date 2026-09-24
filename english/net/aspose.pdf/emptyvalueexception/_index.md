@@ -1,10 +1,14 @@
 ---
-title: Class EmptyValueException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.EmptyValueException class. Exception which thrown when requirested value does not exists
+title: "EmptyValueException Class"
+linktitle: "EmptyValueException"
+articleTitle: "EmptyValueException"
+second_title: "Aspose.PDF for .NET"
+description: "Exception which thrown when requirested value does not exists."
 type: docs
-weight: 4190
-url: /net/aspose.pdf/emptyvalueexception/
+weight: 740
+url: "/net/aspose.pdf/emptyvalueexception/"
+keywords: "EmptyValueException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## EmptyValueException class
 
@@ -18,13 +22,18 @@ public class EmptyValueException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [EmptyValueException](emptyvalueexception/#constructor)() | Initializes a new instance of the `EmptyValueException` class. |
-| [EmptyValueException](emptyvalueexception/#constructor_1)(string) | Constructor. |
+| [EmptyValueException](./emptyvalueexception/#constructor) | Initializes a new instance of the [`EmptyValueException`](../../aspose.pdf/emptyvalueexception/) class. |
+| [EmptyValueException](./emptyvalueexception/#constructor_1)(*string*) | Constructor. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(*CrashReportOptions*) | Forms crash report based on Exception HTML format. *(Inherited from PdfException)* |
 
 ### See Also
 
-* class [PdfException](../pdfexception/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

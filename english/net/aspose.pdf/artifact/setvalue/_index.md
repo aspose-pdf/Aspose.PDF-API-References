@@ -1,12 +1,15 @@
 ---
-title: Artifact.SetValue
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact method. Sets custom value of artifact
+title: "Artifact.SetValue"
+linktitle: "SetValue"
+articleTitle: "SetValue"
+second_title: "Aspose.PDF for .NET"
+description: "Sets custom value of artifact."
 type: docs
-weight: 340
-url: /net/aspose.pdf/artifact/setvalue/
+weight: 120
+url: "/net/aspose.pdf/artifact/setvalue/"
+product_version: "26.9.0"
 ---
-## Artifact.SetValue method
+## SetValue(string, string) {#setvalue}
 
 Sets custom value of artifact.
 
@@ -16,13 +19,12 @@ public void SetValue(string name, string value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | Name of custom value. |
-| value | String | Custom value in the artifact. |
+| name | string | Name of custom value. |
+| value | string | Custom value in the artifact. |
 
 ### See Also
 
-* class [Artifact](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,17 +1,20 @@
 ---
-title: SquigglyAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SquigglyAnnotation method. Accepts visitor object to process the annotation
+title: "SquigglyAnnotation.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET"
+description: "Accepts visitor object to process the annotation."
 type: docs
-weight: 30
-url: /net/aspose.pdf.annotations/squigglyannotation/accept/
+weight: 20
+url: "/net/aspose.pdf.annotations/squigglyannotation/accept/"
+product_version: "26.9.0"
 ---
-## SquigglyAnnotation.Accept method
+## Accept([AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)) {#accept}
 
 Accepts visitor object to process the annotation.
 
 ```csharp
-public override void Accept(AnnotationSelector visitor)
+public void Accept(AnnotationSelector visitor)
 ```
 
 | Parameter | Type | Description |
@@ -20,9 +23,7 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../annotationselector/)
-* class [SquigglyAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SquigglyAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

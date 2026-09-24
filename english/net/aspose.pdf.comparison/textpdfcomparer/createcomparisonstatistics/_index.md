@@ -1,60 +1,63 @@
 ---
-title: TextPdfComparer.CreateComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer method. Gets comparison statistics
+title: "TextPdfComparer.CreateComparisonStatistics"
+linktitle: "CreateComparisonStatistics"
+articleTitle: "CreateComparisonStatistics"
+second_title: "Aspose.PDF for .NET"
+description: "Gets comparison statistics."
 type: docs
 weight: 70
-url: /net/aspose.pdf.comparison/textpdfcomparer/createcomparisonstatistics/
+url: "/net/aspose.pdf.comparison/textpdfcomparer/createcomparisonstatistics/"
+product_version: "26.9.0"
 ---
-## CreateComparisonStatistics(List&lt;DiffOperation&gt;) {#createcomparisonstatistics_1}
+## CreateComparisonStatistics(List<DiffOperation>) {#createcomparisonstatistics}
 
 Gets comparison statistics.
 
 ```csharp
-public static TextItemComparisonStatistics CreateComparisonStatistics(List<DiffOperation> diffs)
+public TextItemComparisonStatistics CreateComparisonStatistics(List<DiffOperation> diffs)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffs | List`1 | The list of changes. |
+| diffs | List<DiffOperation> | The list of changes. |
 
 ### Return Value
+
+[TextItemComparisonStatistics](../../../aspose.pdf.comparison/textitemcomparisonstatistics/)
 
 The statistics.
 
 ### See Also
 
-* class [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
-* class [DiffOperation](../../diffoperation/)
-* class [TextPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
+* class [TextItemComparisonStatistics](../../../aspose.pdf.comparison/textitemcomparisonstatistics/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateComparisonStatistics(List&lt;List&lt;DiffOperation&gt;&gt;) {#createcomparisonstatistics}
+## CreateComparisonStatistics(List<List<DiffOperation>>) {#createcomparisonstatistics_1}
 
 Gets documents comparison statistics.
 
 ```csharp
-public static DocumentComparisonStatistics CreateComparisonStatistics(
-    List<List<DiffOperation>> diffs)
+public DocumentComparisonStatistics CreateComparisonStatistics(List<List<DiffOperation>> diffs)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffs | List`1 | The list of changes. |
+| diffs | List<List<DiffOperation>> | The list of changes. |
 
 ### Return Value
+
+[DocumentComparisonStatistics](../../../aspose.pdf.comparison/documentcomparisonstatistics/)
 
 The statistics.
 
 ### See Also
 
-* class [DocumentComparisonStatistics](../../documentcomparisonstatistics/)
-* class [DiffOperation](../../diffoperation/)
-* class [TextPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentComparisonStatistics](../../../aspose.pdf.comparison/documentcomparisonstatistics/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
