@@ -3,7 +3,7 @@ title: "Position.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Position method. Gets string representation for the current object."
+description: "Position method. Gets string representation for the current Position object."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/position/tostring/"

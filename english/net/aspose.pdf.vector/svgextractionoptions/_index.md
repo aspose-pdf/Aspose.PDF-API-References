@@ -22,7 +22,7 @@ public class SvgExtractionOptions
 
 | Name | Description |
 | --- | --- |
-| [SvgExtractionOptions](./svgextractionoptions/#constructor) | Initializes a new instance of the SvgExtractionOptions class. |
+| [SvgExtractionOptions](./svgextractionoptions/#constructor) | The default constructor. |
 
 ## Properties
 

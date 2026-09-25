@@ -3,7 +3,7 @@ title: "Ofd.Process"
 linktitle: "Process"
 articleTitle: "Process"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Ofd method. Starts the processing with the specified parameters."
+description: "Ofd method. Starts the Ofd processing with the specified parameters."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/ofd/process/"

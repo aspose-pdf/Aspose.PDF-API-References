@@ -3,7 +3,7 @@ title: "Error.Error"
 linktitle: "Error"
 articleTitle: "Error"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Error constructor. Initializes a new instance of the Error class."
+description: "Error constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/error/error/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## Error() {#constructor}
 
-Initializes a new instance of the Error class.
+The default constructor.
 
 ```csharp
 public Error()

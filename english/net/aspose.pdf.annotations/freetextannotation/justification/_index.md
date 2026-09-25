@@ -5,7 +5,7 @@ articleTitle: "Justification"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FreeTextAnnotation property. Gets or set a code specifying the form of quadding (justification) to be used in displaying the annotation's text."
 type: docs
-weight: 100
+weight: 80
 url: "/net/aspose.pdf.annotations/freetextannotation/justification/"
 product_version: "26.9.0"
 ---

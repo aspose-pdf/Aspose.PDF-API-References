@@ -22,7 +22,7 @@ public class StructureRecognitionVisitor : IStructureRecognitionVisitor
 
 | Name | Description |
 | --- | --- |
-| [StructureRecognitionVisitor](./structurerecognitionvisitor/#constructor) | Initializes a new instance of the StructureRecognitionVisitor class. |
+| [StructureRecognitionVisitor](./structurerecognitionvisitor/#constructor) | The default constructor. |
 
 ## Methods
 

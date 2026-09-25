@@ -22,7 +22,7 @@ public class TeXLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [TeXLoadOptions](./texloadoptions/#constructor) | Initializes a new instance of the TeXLoadOptions class. |
+| [TeXLoadOptions](./texloadoptions/#constructor) | The default constructor. |
 
 ## Properties
 

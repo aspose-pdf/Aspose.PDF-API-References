@@ -5,7 +5,7 @@ articleTitle: "FlattenAllFields"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Flattens all the fields."
 type: docs
-weight: 270
+weight: 250
 url: "/net/aspose.pdf.facades/form/flattenallfields/"
 product_version: "26.9.0"
 ---

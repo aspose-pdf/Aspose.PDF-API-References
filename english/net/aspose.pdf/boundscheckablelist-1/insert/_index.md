@@ -26,7 +26,7 @@ public void Insert(int index, T0 item)
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | index is less than 0. -or- index is greater than Count. |
+| ArgumentOutOfRangeException | *index*index is less than 0. -or- *index*index is greater than Count. |
 
 ### See Also
 

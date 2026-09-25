@@ -23,7 +23,7 @@ public class OptimizationOptions
 
 | Name | Description |
 | --- | --- |
-| [OptimizationOptions](./optimizationoptions/#constructor) | Initializes a new instance of the OptimizationOptions class. |
+| [OptimizationOptions](./optimizationoptions/#constructor) | The default constructor. |
 
 ## Properties
 

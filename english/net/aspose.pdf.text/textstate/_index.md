@@ -44,24 +44,6 @@ public class TextState
 | [HorizontalAlignment](./horizontalalignment/) { get; set; } | Gets or sets horizontal alignment for the text. |
 | [HorizontalScaling](./horizontalscaling/) { get; set; } | Gets or sets horizontal scaling of the text. |
 | [Invisible](./invisible/) { get; set; } | Gets or sets the invisibility of text. This basically reflects the `RenderingMode` state, except for some special cases (like clipping). |
-| [IsBackgroundColorSet](./isbackgroundcolorset/) { get; set; } |  |
-| [IsCharacterSpacingSet](./ischaracterspacingset/) { get; set; } |  |
-| [IsFontSet](./isfontset/) { get; set; } |  |
-| [IsFontSizeSet](./isfontsizeset/) { get; set; } |  |
-| [IsFontStyleSet](./isfontstyleset/) { get; set; } |  |
-| [IsForegroundColorSet](./isforegroundcolorset/) { get; set; } |  |
-| [IsHorizontalAlignmentSet](./ishorizontalalignmentset/) { get; set; } |  |
-| [IsHorizontalScalingSet](./ishorizontalscalingset/) { get; set; } |  |
-| [IsInvisibilitySet](./isinvisibilityset/) { get; set; } |  |
-| [IsLineSpacingSet](./islinespacingset/) { get; set; } |  |
-| [IsRenderingModeSet](./isrenderingmodeset/) { get; set; } |  |
-| [IsStrikeOutSet](./isstrikeoutset/) { get; set; } |  |
-| [IsStrokingColorSet](./isstrokingcolorset/) { get; set; } |  |
-| [IsSubSuperscriptSet](./issubsuperscriptset/) { get; set; } |  |
-| [IsTextMatrixSet](./istextmatrixset/) { get; set; } |  |
-| [IsUnderlineSet](./isunderlineset/) { get; set; } |  |
-| [IsVerticalAlignmentSet](./isverticalalignmentset/) { get; set; } |  |
-| [IsWordSpacingSet](./iswordspacingset/) { get; set; } |  |
 | [LineSpacing](./linespacing/) { get; set; } | Gets or sets line spacing of the text. |
 | [RenderingMode](./renderingmode/) { get; set; } | Gets or sets rendering mode of text. |
 | [StrikeOut](./strikeout/) { get; set; } | Gets or sets strikeout for the text, represented by the [`TextSegment`](../../aspose.pdf.text/textsegment/) object. |

@@ -5,7 +5,7 @@ articleTitle: "HttpStatusCode"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "BaseResponse property. Gets or sets the HTTP status code."
 type: docs
-weight: 30
+weight: 20
 url: "/net/aspose.pdf.ai/baseresponse/httpstatuscode/"
 product_version: "26.9.0"
 ---

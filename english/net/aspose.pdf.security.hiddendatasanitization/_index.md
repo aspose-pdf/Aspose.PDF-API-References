@@ -3,7 +3,7 @@ title: "Aspose.Pdf.Security.HiddenDataSanitization"
 linktitle: "Aspose.Pdf.Security.HiddenDataSanitization"
 articleTitle: "Aspose.Pdf.Security.HiddenDataSanitization"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The **Aspose.Pdf.Security.HiddenDataSanitization** namespace provides classes."
+description: "The Aspose.Pdf.Security.HiddenDataSanitization namespace provides classes."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security.hiddendatasanitization/"

@@ -18,12 +18,6 @@ Base class for option classes for flatten fields (not annotations) in document b
 public abstract class FormFlattenerOptions : FormOptions
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [FormFlattenerOptions](./formflatteneroptions/#constructor) | Initializes a new instance of the FormFlattenerOptions class. |
-
 ## Properties
 
 | Name | Description |

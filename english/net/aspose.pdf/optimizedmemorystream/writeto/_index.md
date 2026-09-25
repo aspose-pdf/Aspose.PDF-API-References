@@ -5,7 +5,7 @@ articleTitle: "WriteTo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "OptimizedMemoryStream method. Writes to the specified stream."
 type: docs
-weight: 140
+weight: 130
 url: "/net/aspose.pdf/optimizedmemorystream/writeto/"
 product_version: "26.9.0"
 ---

@@ -3,7 +3,7 @@ title: "ClosePath.ClosePath"
 linktitle: "ClosePath"
 articleTitle: "ClosePath"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ClosePath constructor. Initializes a new instance of the ClosePath class."
+description: "ClosePath constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/closepath/closepath/"

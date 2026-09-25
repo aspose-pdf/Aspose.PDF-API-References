@@ -22,7 +22,7 @@ public sealed class LineInfo
 
 | Name | Description |
 | --- | --- |
-| [LineInfo](./lineinfo/#constructor) | Initializes a new instance of the LineInfo class. |
+| [LineInfo](./lineinfo/#constructor) | The default constructor. |
 
 ## Properties
 

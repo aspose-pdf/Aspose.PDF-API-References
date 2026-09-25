@@ -18,12 +18,6 @@ Represents base functionality to extract text, images, and other types of conten
 public abstract class PdfExtractor : IPlugin, IDisposable
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [PdfExtractor](./pdfextractor/#constructor) | Initializes a new instance of the PdfExtractor class. |
-
 ## Methods
 
 | Name | Description |

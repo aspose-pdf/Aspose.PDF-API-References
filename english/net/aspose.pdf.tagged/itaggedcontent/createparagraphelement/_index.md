@@ -3,7 +3,7 @@ title: "ITaggedContent.CreateParagraphElement"
 linktitle: "CreateParagraphElement"
 articleTitle: "CreateParagraphElement"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ITaggedContent method. Creates ."
+description: "ITaggedContent method. Creates ParagraphElement."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.tagged/itaggedcontent/createparagraphelement/"

@@ -3,7 +3,7 @@ title: "DocConverter Class"
 linktitle: "DocConverter"
 articleTitle: "DocConverter"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.DocConverter class. Represents plugin."
+description: "Aspose.Pdf.LowCode.DocConverter class. Represents DocConverter plugin."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.lowcode/docconverter/"
@@ -22,7 +22,7 @@ public sealed class DocConverter : IPlugin, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [DocConverter](./docconverter/#constructor) | Initializes a new instance of the DocConverter class. |
+| [DocConverter](./docconverter/#constructor) | The default constructor. |
 
 ## Methods
 

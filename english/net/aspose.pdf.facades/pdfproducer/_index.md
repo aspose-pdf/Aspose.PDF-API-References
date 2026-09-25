@@ -49,12 +49,6 @@ string inputFile = "myImage.cgm";
  }
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [PdfProducer](./pdfproducer/#constructor)(*[ImportOptions](../../aspose.pdf/importoptions/)*) | Constructor. |
-
 ## Methods
 
 | Name | Description |
@@ -67,12 +61,6 @@ string inputFile = "myImage.cgm";
 | [Produce](./produce/)(*Stream, ImportOptions, string*) | Produce the PDF file using specified import option. |
 | [Produce](./produce/)(*string, ImportOptions, string*) | Produce the PDF file using specified import option. |
 | [Produce](./produce/)(*Stream, ImportOptions, Stream*) | Produce the PDF file using specified import option. |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| [options](./options/) | ImportOptions holds level of abstraction on individual import options. |
 
 ### See Also
 

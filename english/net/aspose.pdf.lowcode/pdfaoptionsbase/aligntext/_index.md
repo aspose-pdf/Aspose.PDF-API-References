@@ -5,7 +5,7 @@ articleTitle: "AlignText"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfAOptionsBase property. Gets or sets a value indicating whether additional means are necessary to preserve text alignment during the PDF/A conversion process."
 type: docs
-weight: 110
+weight: 100
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/aligntext/"
 product_version: "26.9.0"
 ---

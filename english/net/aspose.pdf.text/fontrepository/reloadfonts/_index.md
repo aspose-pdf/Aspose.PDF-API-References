@@ -3,7 +3,7 @@ title: "FontRepository.ReloadFonts"
 linktitle: "ReloadFonts"
 articleTitle: "ReloadFonts"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FontRepository method. Reloads all fonts specified by property"
+description: "FontRepository method. Reloads all fonts specified by property Sources"
 type: docs
 weight: 100
 url: "/net/aspose.pdf.text/fontrepository/reloadfonts/"

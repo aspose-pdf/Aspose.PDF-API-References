@@ -22,7 +22,7 @@ public class SubmitToolOutputs
 
 | Name | Description |
 | --- | --- |
-| [SubmitToolOutputs](./submittooloutputs/#constructor) | Initializes a new instance of the SubmitToolOutputs class. |
+| [SubmitToolOutputs](./submittooloutputs/#constructor) | The default constructor. |
 
 ## Properties
 

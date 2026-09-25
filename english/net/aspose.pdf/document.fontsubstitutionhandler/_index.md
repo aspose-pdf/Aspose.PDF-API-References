@@ -3,7 +3,7 @@ title: "Document.FontSubstitutionHandler Delegate"
 linktitle: "Document.FontSubstitutionHandler"
 articleTitle: "Document.FontSubstitutionHandler"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.Document.FontSubstitutionHandler delegate. Represents the method that will handle FontSubstitution event."
+description: "Represents the method that will handle FontSubstitution event."
 type: docs
 weight: 640
 url: "/net/aspose.pdf/document.fontsubstitutionhandler/"

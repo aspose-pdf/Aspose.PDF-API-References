@@ -3,7 +3,7 @@ title: "FormCheckBoxFieldSetOptions Class"
 linktitle: "FormCheckBoxFieldSetOptions"
 articleTitle: "FormCheckBoxFieldSetOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.FormCheckBoxFieldSetOptions class. Represents options for set properties in CheckboxField by plugin."
+description: "Aspose.Pdf.LowCode.FormCheckBoxFieldSetOptions class. Represents options for set properties in CheckboxField by FormEditor plugin."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.lowcode/formcheckboxfieldsetoptions/"
@@ -22,7 +22,7 @@ public class FormCheckBoxFieldSetOptions : FormFieldSetOptions
 
 | Name | Description |
 | --- | --- |
-| [FormCheckBoxFieldSetOptions](./formcheckboxfieldsetoptions/#constructor) | Initializes a new instance of the FormCheckBoxFieldSetOptions class. |
+| [FormCheckBoxFieldSetOptions](./formcheckboxfieldsetoptions/#constructor) | The default constructor. |
 
 ## Properties
 

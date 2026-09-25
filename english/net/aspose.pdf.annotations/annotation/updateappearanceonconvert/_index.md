@@ -5,7 +5,7 @@ articleTitle: "UpdateAppearanceOnConvert"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Annotation property. If true, annotation appearance will be updated before converting PF document into image. This allows convert fields correctly but probab..."
 type: docs
-weight: 150
+weight: 50
 url: "/net/aspose.pdf.annotations/annotation/updateappearanceonconvert/"
 product_version: "26.9.0"
 ---

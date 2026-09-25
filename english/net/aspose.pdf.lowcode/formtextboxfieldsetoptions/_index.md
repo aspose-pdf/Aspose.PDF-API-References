@@ -3,7 +3,7 @@ title: "FormTextBoxFieldSetOptions Class"
 linktitle: "FormTextBoxFieldSetOptions"
 articleTitle: "FormTextBoxFieldSetOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.FormTextBoxFieldSetOptions class. Represents options for set properties in TextBoxField by plugin."
+description: "Aspose.Pdf.LowCode.FormTextBoxFieldSetOptions class. Represents options for set properties in TextBoxField by FormEditor plugin."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.lowcode/formtextboxfieldsetoptions/"
@@ -22,7 +22,7 @@ public class FormTextBoxFieldSetOptions : FormFieldSetOptions
 
 | Name | Description |
 | --- | --- |
-| [FormTextBoxFieldSetOptions](./formtextboxfieldsetoptions/#constructor) | Initializes a new instance of the FormTextBoxFieldSetOptions class. |
+| [FormTextBoxFieldSetOptions](./formtextboxfieldsetoptions/#constructor) | The default constructor. |
 
 ## Properties
 

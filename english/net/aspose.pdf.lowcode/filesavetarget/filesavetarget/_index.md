@@ -3,7 +3,7 @@ title: "FileSaveTarget.FileSaveTarget"
 linktitle: "FileSaveTarget"
 articleTitle: "FileSaveTarget"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FileSaveTarget constructor. Initializes a new instance of the FileSaveTarget class."
+description: "FileSaveTarget constructor. Initializes new file save target with specified path."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/filesavetarget/filesavetarget/"

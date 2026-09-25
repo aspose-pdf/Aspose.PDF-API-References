@@ -22,7 +22,7 @@ public class YearComponent : DateComponent
 
 | Name | Description |
 | --- | --- |
-| [PageDate.YearComponent](./yearcomponent/#constructor) | Initializes a new instance of the PageDate.YearComponent class. |
+| [PageDate.YearComponent](./yearcomponent/#constructor) | The default constructor. |
 
 ## Properties
 

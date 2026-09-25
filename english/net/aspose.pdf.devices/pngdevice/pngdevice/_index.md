@@ -3,7 +3,7 @@ title: "PngDevice.PngDevice"
 linktitle: "PngDevice"
 articleTitle: "PngDevice"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PngDevice constructor. Initializes a new instance of the PngDevice class."
+description: "PngDevice constructor. Initializes a new instance of the PngDevice class with default resolution."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.devices/pngdevice/pngdevice/"

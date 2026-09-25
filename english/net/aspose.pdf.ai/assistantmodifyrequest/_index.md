@@ -22,7 +22,7 @@ public class AssistantModifyRequest : AssistantCreateRequest
 
 | Name | Description |
 | --- | --- |
-| [AssistantModifyRequest](./assistantmodifyrequest/#constructor) | Initializes a new instance of the AssistantModifyRequest class. |
+| [AssistantModifyRequest](./assistantmodifyrequest/#constructor) | The default constructor. |
 
 ## Properties
 

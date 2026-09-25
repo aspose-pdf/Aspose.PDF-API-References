@@ -25,7 +25,7 @@ public sealed class FormDataConverter
 
 | Name | Description |
 | --- | --- |
-| [FormDataConverter](./formdataconverter/#constructor) | Initializes a new instance of the FormDataConverter class. |
+| [FormDataConverter](./formdataconverter/#constructor) | The default constructor. |
 
 ## Properties
 

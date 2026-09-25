@@ -26,7 +26,7 @@ public class MarkdownDiffOutputGenerator : IStringOutputGenerator, IFileOutputGe
 
 | Name | Description |
 | --- | --- |
-| [MarkdownDiffOutputGenerator](./markdowndiffoutputgenerator/#constructor) | Initializes a new instance of the MarkdownDiffOutputGenerator class. |
+| [MarkdownDiffOutputGenerator](./markdowndiffoutputgenerator/#constructor) | The default constructor. |
 
 ## Methods
 

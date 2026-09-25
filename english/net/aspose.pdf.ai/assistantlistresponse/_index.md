@@ -22,7 +22,7 @@ public class AssistantListResponse
 
 | Name | Description |
 | --- | --- |
-| [AssistantListResponse](./assistantlistresponse/#constructor) | Initializes a new instance of the AssistantListResponse class. |
+| [AssistantListResponse](./assistantlistresponse/#constructor) | The default constructor. |
 
 ### See Also
 

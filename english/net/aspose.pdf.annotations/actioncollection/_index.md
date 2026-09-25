@@ -25,7 +25,7 @@ public sealed class ActionCollection : IEnumerable
 | [Count](./count/) { get; } | Count of actions on the collection. |
 | [IsReadOnly](./isreadonly/) { get; } | Returns true if collection is readonly. |
 | [IsSynchronized](./issynchronized/) { get; } | Returns true if object is synchronized. |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets action by its index. |
 | [SyncRoot](./syncroot/) { get; } | Gets synchronization object. |
 
 ## Methods

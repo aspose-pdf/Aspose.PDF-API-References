@@ -28,8 +28,8 @@ public DocumentChunk(string id, string content, int index, string context)
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | Thrown when or is null. |
-| ArgumentOutOfRangeException | Thrown when is negative. |
+| ArgumentNullException | Thrown when *id* or *content* is null. |
+| ArgumentOutOfRangeException | Thrown when *index* is negative. |
 
 ### See Also
 

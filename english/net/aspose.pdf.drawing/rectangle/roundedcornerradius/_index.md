@@ -5,7 +5,7 @@ articleTitle: "RoundedCornerRadius"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Rectangle property. Gets or sets a float value that indicates the radius of rectangle corners."
 type: docs
-weight: 40
+weight: 30
 url: "/net/aspose.pdf.drawing/rectangle/roundedcornerradius/"
 product_version: "26.9.0"
 ---

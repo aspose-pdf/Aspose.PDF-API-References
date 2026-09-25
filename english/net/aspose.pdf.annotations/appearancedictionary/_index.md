@@ -26,7 +26,7 @@ public sealed class AppearanceDictionary : IEnumerable
 | [IsFixedSize](./isfixedsize/) { get; } | Gets a value indicating whether dictionary has a fixed size. |
 | [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether dictionary is read-only. |
 | [IsSynchronized](./issynchronized/) { get; } | Gets a value indicating whether access to the dictionary is synchronized (thread safe). |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Represents convenient form for getting appearance streams. |
 | [Keys](./keys/) { get; } | Gets keys of the dictionary. If appearance dictionary has subditionaries, then `Keys` contains (N|R|D).state values,. |
 | [SyncRoot](./syncroot/) { get; } | Gets an object that can be used to synchronize access to the dictionary. |
 | [Values](./values/) { get; } | Gets the list of the dictionary values. |

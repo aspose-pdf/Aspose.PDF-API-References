@@ -22,7 +22,7 @@ public class VectorStoreResponse : BaseResponse, IEntityId, IStatus
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreResponse](./vectorstoreresponse/#constructor) | Initializes a new instance of the VectorStoreResponse class. |
+| [VectorStoreResponse](./vectorstoreresponse/#constructor) | The default constructor. |
 
 ## Properties
 

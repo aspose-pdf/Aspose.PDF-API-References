@@ -3,7 +3,7 @@ title: "CosPdfNumber.ToCosPdfNumber"
 linktitle: "ToCosPdfNumber"
 articleTitle: "ToCosPdfNumber"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CosPdfNumber method. Tries cast this instance to ."
+description: "CosPdfNumber method. Tries cast this instance to CosPdfNumber."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.dataeditor/cospdfnumber/tocospdfnumber/"

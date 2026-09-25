@@ -5,7 +5,7 @@ articleTitle: "HttpRequestMaxRetries"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "AIClientBase property. Gets or sets the maximum number of HTTP request retries."
 type: docs
-weight: 100
+weight: 40
 url: "/net/aspose.pdf.ai/aiclientbase/httprequestmaxretries/"
 product_version: "26.9.0"
 ---

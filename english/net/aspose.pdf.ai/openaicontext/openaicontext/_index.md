@@ -3,7 +3,7 @@ title: "OpenAIContext.OpenAIContext"
 linktitle: "OpenAIContext"
 articleTitle: "OpenAIContext"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "OpenAIContext constructor. Initializes a new instance of the OpenAIContext class."
+description: "OpenAIContext constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/openaicontext/openaicontext/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## OpenAIContext() {#constructor}
 
-Initializes a new instance of the OpenAIContext class.
+The default constructor.
 
 ```csharp
 public OpenAIContext()

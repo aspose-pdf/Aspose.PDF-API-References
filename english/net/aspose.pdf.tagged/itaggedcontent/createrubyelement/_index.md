@@ -3,7 +3,7 @@ title: "ITaggedContent.CreateRubyElement"
 linktitle: "CreateRubyElement"
 articleTitle: "CreateRubyElement"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ITaggedContent method. Creates ."
+description: "ITaggedContent method. Creates RubyElement."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.tagged/itaggedcontent/createrubyelement/"

@@ -3,7 +3,7 @@ title: "CheckboxField.CheckboxField"
 linktitle: "CheckboxField"
 articleTitle: "CheckboxField"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CheckboxField constructor. Initializes a new instance of the CheckboxField class."
+description: "CheckboxField constructor. Constructor for CheckboxField class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/checkboxfield/checkboxfield/"

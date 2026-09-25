@@ -3,7 +3,7 @@ title: "Annotation.Annotation"
 linktitle: "Annotation"
 articleTitle: "Annotation"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Annotation constructor. Initializes a new instance of the Annotation class."
+description: "Annotation constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/annotation/annotation/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## Annotation() {#constructor}
 
-Initializes a new instance of the Annotation class.
+The default constructor.
 
 ```csharp
 public Annotation()

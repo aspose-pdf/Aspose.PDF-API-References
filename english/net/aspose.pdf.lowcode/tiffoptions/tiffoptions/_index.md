@@ -3,7 +3,7 @@ title: "TiffOptions.TiffOptions"
 linktitle: "TiffOptions"
 articleTitle: "TiffOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TiffOptions constructor. Initializes a new instance of the TiffOptions class."
+description: "TiffOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/tiffoptions/tiffoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## TiffOptions() {#constructor}
 
-Initializes a new instance of the TiffOptions class.
+The default constructor.
 
 ```csharp
 public TiffOptions()

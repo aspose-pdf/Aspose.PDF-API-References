@@ -3,7 +3,7 @@ title: "ExpiresAfter.ExpiresAfter"
 linktitle: "ExpiresAfter"
 articleTitle: "ExpiresAfter"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ExpiresAfter constructor. Initializes a new instance of the ExpiresAfter class."
+description: "ExpiresAfter constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/expiresafter/expiresafter/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## ExpiresAfter() {#constructor}
 
-Initializes a new instance of the ExpiresAfter class.
+The default constructor.
 
 ```csharp
 public ExpiresAfter()

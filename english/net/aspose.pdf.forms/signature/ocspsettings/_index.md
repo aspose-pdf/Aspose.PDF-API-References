@@ -5,7 +5,7 @@ articleTitle: "OcspSettings"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Signature property. Gets/sets ocsp settings."
 type: docs
-weight: 200
+weight: 190
 url: "/net/aspose.pdf.forms/signature/ocspsettings/"
 product_version: "26.9.0"
 ---

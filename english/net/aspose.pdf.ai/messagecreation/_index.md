@@ -22,7 +22,7 @@ public class MessageCreation
 
 | Name | Description |
 | --- | --- |
-| [MessageCreation](./messagecreation/#constructor) | Initializes a new instance of the MessageCreation class. |
+| [MessageCreation](./messagecreation/#constructor) | The default constructor. |
 
 ## Properties
 

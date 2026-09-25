@@ -3,7 +3,7 @@ title: "DocumentPrivilege Class"
 linktitle: "DocumentPrivilege"
 articleTitle: "DocumentPrivilege"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.Facades.DocumentPrivilege class. Represents the privileges for accessing Pdf file. Refer to. There are 4 ways using this class: 1.Using predefined..."
+description: "Aspose.Pdf.Facades.DocumentPrivilege class. Represents the privileges for accessing Pdf file. Refer toPdfFileSecurity. There are 4 ways using this class: 1.U..."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/documentprivilege/"

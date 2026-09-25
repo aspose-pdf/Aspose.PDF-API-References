@@ -3,7 +3,7 @@ title: "ITaggedContent.CreateReferenceElement"
 linktitle: "CreateReferenceElement"
 articleTitle: "CreateReferenceElement"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ITaggedContent method. Creates ."
+description: "ITaggedContent method. Creates ReferenceElement."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.tagged/itaggedcontent/createreferenceelement/"

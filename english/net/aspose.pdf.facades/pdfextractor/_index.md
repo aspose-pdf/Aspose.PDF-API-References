@@ -23,7 +23,7 @@ public sealed class PdfExtractor : Facade
 | Name | Description |
 | --- | --- |
 | [PdfExtractor](./pdfextractor/#constructor) | Initializes new [`PdfExtractor`](../../aspose.pdf.lowcode/pdfextractor/) object. |
-| [PdfExtractor](./pdfextractor/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfExtractor`](../../aspose.pdf.lowcode/pdfextractor/) object on base of the . |
+| [PdfExtractor](./pdfextractor/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfExtractor`](../../aspose.pdf.lowcode/pdfextractor/) object on base of the *document*. |
 
 ## Properties
 
@@ -43,11 +43,8 @@ public sealed class PdfExtractor : Facade
 
 | Name | Description |
 | --- | --- |
-| [AssertDocument](../../aspose.pdf.facades/facade/assertdocument/) | Asserts if the facade is initialized. *(Inherited from Facade)* |
 | [BindPdf](./bindpdf/)(*string*) | Bind input PDF file. |
 | [BindPdf](./bindpdf/)(*Stream*) | Binds PDF document from stream. |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. *(Inherited from Facade)* |
 | [Close](../../aspose.pdf.facades/facade/close/) | Disposes Aspose.Pdf.Document bound with a facade. *(Inherited from Facade)* |
 | [Dispose](../../aspose.pdf.facades/facade/dispose/) | Disposes the facade. *(Inherited from Facade)* |
 | [ExtractAttachment](./extractattachment/) | Extracts attachments from a Pdf document. |

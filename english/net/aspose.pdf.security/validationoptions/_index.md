@@ -22,7 +22,7 @@ public sealed class ValidationOptions
 
 | Name | Description |
 | --- | --- |
-| [ValidationOptions](./validationoptions/#constructor) | Initializes a new instance of the ValidationOptions class. |
+| [ValidationOptions](./validationoptions/#constructor) | The default constructor. |
 
 ## Properties
 

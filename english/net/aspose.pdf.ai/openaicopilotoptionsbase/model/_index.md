@@ -5,7 +5,7 @@ articleTitle: "Model"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "OpenAICopilotOptionsBase property. Gets or sets the model to use for the assistant."
 type: docs
-weight: 20
+weight: 10
 url: "/net/aspose.pdf.ai/openaicopilotoptionsbase/model/"
 product_version: "26.9.0"
 ---

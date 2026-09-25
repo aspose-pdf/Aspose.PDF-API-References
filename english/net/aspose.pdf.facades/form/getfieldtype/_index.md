@@ -5,7 +5,7 @@ articleTitle: "GetFieldType"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Returns type of field."
 type: docs
-weight: 440
+weight: 420
 url: "/net/aspose.pdf.facades/form/getfieldtype/"
 product_version: "26.9.0"
 ---

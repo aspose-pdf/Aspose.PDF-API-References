@@ -28,7 +28,7 @@ public class ListDataResponse<T><T>
 
 | Name | Description |
 | --- | --- |
-| [ListDataResponse<T>](./listdataresponse/#constructor) | Initializes a new instance of the ListDataResponse class. |
+| [ListDataResponse<T>](./listdataresponse/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -22,7 +22,7 @@ public class PdfSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfSaveOptions](./pdfsaveoptions/#constructor) | Initializes a new instance of the PdfSaveOptions class. |
+| [PdfSaveOptions](./pdfsaveoptions/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -31,7 +31,6 @@ public sealed class GoToRemoteAction : GoToAction
 | --- | --- |
 | [Destination](./destination/) { get; set; } | Gets or sets the destination to jump to. |
 | [File](./file/) { get; set; } | Gets or sets the specification of the file in which the destination is located. |
-| [IsInitialized](../../aspose.pdf.annotations/pdfaction/isinitialized/) { get; } | Indicates whether the action has been initialized. *(Inherited from PdfAction)* |
 | [NewWindow](./newwindow/) { get; set; } | Gets or sets a flag specifying whether to open the destination document in a new window. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. *(Inherited from PdfAction)* |
 

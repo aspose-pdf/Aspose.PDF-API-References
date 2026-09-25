@@ -5,7 +5,7 @@ articleTitle: "TopP"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "LlamaCopilotOptionsBase property. Gets or sets the top-p value for nucleus sampling."
 type: docs
-weight: 40
+weight: 30
 url: "/net/aspose.pdf.ai/llamacopilotoptionsbase/topp/"
 product_version: "26.9.0"
 ---

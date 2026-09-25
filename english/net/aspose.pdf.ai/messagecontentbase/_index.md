@@ -18,12 +18,6 @@ The content of the message in array of text and/or images.
 public abstract class MessageContentBase
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [MessageContentBase](./messagecontentbase/#constructor) | Initializes a new instance of the MessageContentBase class. |
-
 ## Properties
 
 | Name | Description |

@@ -3,7 +3,7 @@ title: "ChoiceField.ChoiceField"
 linktitle: "ChoiceField"
 articleTitle: "ChoiceField"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ChoiceField constructor. Initializes a new instance of the ChoiceField class."
+description: "ChoiceField constructor. Constructor for ChoiceField."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/choicefield/choicefield/"

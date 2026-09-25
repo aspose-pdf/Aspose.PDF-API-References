@@ -38,7 +38,6 @@ public sealed class XForm : IDisposable
 | --- | --- |
 | [CreateNewForm](./createnewform/)(*Page, Document*) | Creates XForm which duplicates contents of the page. |
 | [Dispose](./dispose/) | Frees up memory. |
-| [Finalize](./finalize/) |  |
 | [FreeMemory](./freememory/) | Clears cached data. |
 | [GetResources](./getresources/) | Returns resources of Form X-Object. If For does not have resources and allowCreate is true, Resources will be automatically created for the form. |
 | [GetResources](./getresources/)(*bool*) | Returns resources of Form X-Object. |

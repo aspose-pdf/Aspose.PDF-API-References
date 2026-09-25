@@ -22,7 +22,7 @@ public sealed class Jpeg : PdfToImage
 
 | Name | Description |
 | --- | --- |
-| [Jpeg](./jpeg/#constructor) | Initializes a new instance of the Jpeg class. |
+| [Jpeg](./jpeg/#constructor) | The default constructor. |
 
 ## Methods
 

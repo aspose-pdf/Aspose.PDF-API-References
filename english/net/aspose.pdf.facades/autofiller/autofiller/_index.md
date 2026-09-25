@@ -3,7 +3,7 @@ title: "AutoFiller.AutoFiller"
 linktitle: "AutoFiller"
 articleTitle: "AutoFiller"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "AutoFiller constructor. Initializes a new instance of the AutoFiller class."
+description: "AutoFiller constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/autofiller/autofiller/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## AutoFiller() {#constructor}
 
-Initializes a new instance of the AutoFiller class.
+The default constructor.
 
 ```csharp
 public AutoFiller()

@@ -18,13 +18,6 @@ Represents options for [FormExporter](../formexporter/) plugin.
 public abstract class FormExporterOptions : FormOptions
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [FormExporterOptions](./formexporteroptions/#constructor) | Initializes a new instance of the FormExporterOptions class. |
-| [FormExporterOptions](./formexporteroptions/#constructor_1)(*[SelectField](../../aspose.pdf.lowcode/selectfield/)*) | Initializes new instance of the [`FormExporterOptions`](../../aspose.pdf.lowcode/formexporteroptions/) object. |
-
 ## Properties
 
 | Name | Description |

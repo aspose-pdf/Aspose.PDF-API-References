@@ -23,7 +23,6 @@ public class ImportDataAction : PdfAction
 | Name | Description |
 | --- | --- |
 | [Data](./data/) { get; set; } | The FDF file from which to import the data. |
-| [IsInitialized](../../aspose.pdf.annotations/pdfaction/isinitialized/) { get; } | Indicates whether the action has been initialized. *(Inherited from PdfAction)* |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. *(Inherited from PdfAction)* |
 
 ## Methods

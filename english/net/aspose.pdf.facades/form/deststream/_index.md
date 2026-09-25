@@ -5,7 +5,7 @@ articleTitle: "DestStream"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form property. Gets or sets destination stream."
 type: docs
-weight: 560
+weight: 540
 url: "/net/aspose.pdf.facades/form/deststream/"
 product_version: "26.9.0"
 ---

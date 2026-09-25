@@ -5,7 +5,7 @@ articleTitle: "SetPosition"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "RadioButtonField method. Move all subitems of radio button to specified positins on the page."
 type: docs
-weight: 80
+weight: 60
 url: "/net/aspose.pdf.forms/radiobuttonfield/setposition/"
 product_version: "26.9.0"
 ---

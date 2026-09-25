@@ -3,7 +3,7 @@ title: "PdfXmpMetadata.Item"
 linktitle: "Item"
 articleTitle: "Item"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfXmpMetadata property."
+description: "PdfXmpMetadata property. Gets value of XMP metadata by key."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/item/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## PdfXmpMetadata.Item property
 
-
+Gets value of XMP metadata by key.
 
 ```csharp
 public XmpValue Item { get; set; }

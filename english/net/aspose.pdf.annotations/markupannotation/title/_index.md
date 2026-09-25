@@ -5,7 +5,7 @@ articleTitle: "Title"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "MarkupAnnotation property. Gets or sets a text label that shall be displayed in the title bar of the annotation�s popup window when open and active. This ent..."
 type: docs
-weight: 130
+weight: 80
 url: "/net/aspose.pdf.annotations/markupannotation/title/"
 product_version: "26.9.0"
 ---

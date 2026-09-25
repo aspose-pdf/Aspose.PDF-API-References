@@ -3,7 +3,7 @@ title: "MessageContentResponse.MessageContentResponse"
 linktitle: "MessageContentResponse"
 articleTitle: "MessageContentResponse"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "MessageContentResponse constructor. Initializes a new instance of the MessageContentResponse class."
+description: "MessageContentResponse constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/messagecontentresponse/messagecontentresponse/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## MessageContentResponse() {#constructor}
 
-Initializes a new instance of the MessageContentResponse class.
+The default constructor.
 
 ```csharp
 public MessageContentResponse()

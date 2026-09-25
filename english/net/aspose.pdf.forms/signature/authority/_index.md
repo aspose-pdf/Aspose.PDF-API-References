@@ -5,7 +5,7 @@ articleTitle: "Authority"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Signature property. The name of the person or authority signing the document."
 type: docs
-weight: 130
+weight: 120
 url: "/net/aspose.pdf.forms/signature/authority/"
 product_version: "26.9.0"
 ---

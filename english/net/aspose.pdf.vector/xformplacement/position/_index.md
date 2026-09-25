@@ -5,7 +5,7 @@ articleTitle: "Position"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "XFormPlacement property."
 type: docs
-weight: 70
+weight: 60
 url: "/net/aspose.pdf.vector/xformplacement/position/"
 product_version: "26.9.0"
 ---

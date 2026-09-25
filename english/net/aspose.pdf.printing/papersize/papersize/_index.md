@@ -3,7 +3,7 @@ title: "PaperSize.PaperSize"
 linktitle: "PaperSize"
 articleTitle: "PaperSize"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PaperSize constructor. Initializes a new instance of the PaperSize class."
+description: "PaperSize constructor. Initializes a new instance of the PaperSize class with default properties."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/papersize/papersize/"

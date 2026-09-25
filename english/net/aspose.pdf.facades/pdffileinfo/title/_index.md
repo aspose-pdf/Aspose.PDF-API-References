@@ -5,7 +5,7 @@ articleTitle: "Title"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileInfo property. Gets or sets the Title information of PDF document."
 type: docs
-weight: 460
+weight: 410
 url: "/net/aspose.pdf.facades/pdffileinfo/title/"
 product_version: "26.9.0"
 ---

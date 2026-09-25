@@ -22,7 +22,7 @@ public sealed class FormEditor : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [FormEditor](./formeditor/#constructor) | Initializes a new instance of the FormEditor class. |
+| [FormEditor](./formeditor/#constructor) | The default constructor. |
 
 ## Methods
 

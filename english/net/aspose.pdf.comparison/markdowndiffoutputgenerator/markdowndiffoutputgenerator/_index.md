@@ -3,7 +3,7 @@ title: "MarkdownDiffOutputGenerator.MarkdownDiffOutputGenerator"
 linktitle: "MarkdownDiffOutputGenerator"
 articleTitle: "MarkdownDiffOutputGenerator"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "MarkdownDiffOutputGenerator constructor. Initializes a new instance of the MarkdownDiffOutputGenerator class."
+description: "MarkdownDiffOutputGenerator constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/markdowndiffoutputgenerator/markdowndiffoutputgenerator/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## MarkdownDiffOutputGenerator() {#constructor}
 
-Initializes a new instance of the MarkdownDiffOutputGenerator class.
+The default constructor.
 
 ```csharp
 public MarkdownDiffOutputGenerator()

@@ -3,7 +3,7 @@ title: "PdfToDocOptions Class"
 linktitle: "PdfToDocOptions"
 articleTitle: "PdfToDocOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.PdfToDocOptions class. Represents PDF to DOC converter options for plugin."
+description: "Aspose.Pdf.LowCode.PdfToDocOptions class. Represents PDF to DOC converter options for DocConverter plugin."
 type: docs
 weight: 680
 url: "/net/aspose.pdf.lowcode/pdftodocoptions/"

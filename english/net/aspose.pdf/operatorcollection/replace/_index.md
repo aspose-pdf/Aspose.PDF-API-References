@@ -5,7 +5,7 @@ articleTitle: "Replace"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "OperatorCollection method. Replace operators in collection with other operators."
 type: docs
-weight: 80
+weight: 70
 url: "/net/aspose.pdf/operatorcollection/replace/"
 product_version: "26.9.0"
 ---

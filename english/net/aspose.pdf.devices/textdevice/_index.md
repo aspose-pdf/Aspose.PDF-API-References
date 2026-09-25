@@ -31,7 +31,6 @@ public sealed class TextDevice : PageDevice
 
 | Name | Description |
 | --- | --- |
-| [Document](../../aspose.pdf.devices/device/document/) { get; set; } | Document which is processed by this device instance. *(Inherited from Device)* |
 | [Encoding](./encoding/) { get; set; } | Gets or sets encoding of extracted text. |
 | [ExtractionOptions](./extractionoptions/) { get; set; } | Gets or sets text extraction options. |
 

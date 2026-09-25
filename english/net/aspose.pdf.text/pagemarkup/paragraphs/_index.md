@@ -3,7 +3,7 @@ title: "PageMarkup.Paragraphs"
 linktitle: "Paragraphs"
 articleTitle: "Paragraphs"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PageMarkup property. Gets collection of that was found on the page."
+description: "PageMarkup property. Gets collection of MarkupParagraph that was found on the page."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/pagemarkup/paragraphs/"

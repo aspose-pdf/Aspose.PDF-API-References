@@ -18,12 +18,6 @@ LoadOptions type holds level of abstraction on individual load options
 public abstract class LoadOptions
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [LoadOptions](./loadoptions/#constructor) | Initializes a new instance of the LoadOptions class. |
-
 ## Properties
 
 | Name | Description |

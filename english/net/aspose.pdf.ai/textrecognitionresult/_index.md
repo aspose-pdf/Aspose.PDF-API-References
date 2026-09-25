@@ -22,7 +22,7 @@ public class TextRecognitionResult
 
 | Name | Description |
 | --- | --- |
-| [TextRecognitionResult](./textrecognitionresult/#constructor) | Initializes a new instance of the TextRecognitionResult class. |
+| [TextRecognitionResult](./textrecognitionresult/#constructor) | The default constructor. |
 
 ## Properties
 

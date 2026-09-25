@@ -5,7 +5,7 @@ articleTitle: "Dispose"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "OperatorCollection method. Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources."
 type: docs
-weight: 230
+weight: 220
 url: "/net/aspose.pdf/operatorcollection/dispose/"
 product_version: "26.9.0"
 ---

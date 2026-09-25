@@ -3,7 +3,7 @@ title: "FormFlattenSelectedFieldsOptions Class"
 linktitle: "FormFlattenSelectedFieldsOptions"
 articleTitle: "FormFlattenSelectedFieldsOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.FormFlattenSelectedFieldsOptions class. Represents options for flatten selected fields (not annotations) in document by plugin."
+description: "Aspose.Pdf.LowCode.FormFlattenSelectedFieldsOptions class. Represents options for flatten selected fields (not annotations) in document by FormFlattener plugin."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.lowcode/formflattenselectedfieldsoptions/"

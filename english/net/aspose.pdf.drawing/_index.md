@@ -3,7 +3,7 @@ title: "Aspose.Pdf.Drawing"
 linktitle: "Aspose.Pdf.Drawing"
 articleTitle: "Aspose.Pdf.Drawing"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The **Aspose.Pdf.Drawing** namespace provides classes."
+description: "The Aspose.Pdf.Drawing namespace provides classes."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.drawing/"

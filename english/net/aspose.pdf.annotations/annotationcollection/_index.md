@@ -25,7 +25,7 @@ public sealed class AnnotationCollection : IEnumerable
 | [Count](./count/) { get; } | Gets count of annotations in collection. |
 | [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating if collection is readonly. |
 | [IsSynchronized](./issynchronized/) { get; } | Gets a value indicating whether access to the Aspose.Pdf.Annotations.AnnotationCollection is synchronized (thread safe). |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | The index of the element to get. |
 | [SyncRoot](./syncroot/) { get; } | Gets an object that can be used to synchronize access to Aspose.Pdf.Annotations.AnnotationCollection. |
 
 ## Methods

@@ -5,7 +5,7 @@ articleTitle: "Accept"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FreeTextAnnotation method. Accepts visitor object to process the annotation."
 type: docs
-weight: 50
+weight: 30
 url: "/net/aspose.pdf.annotations/freetextannotation/accept/"
 product_version: "26.9.0"
 ---

@@ -51,7 +51,6 @@ public abstract class Signature
 
 | Name | Description |
 | --- | --- |
-| [Finalize](./finalize/) |  |
 | [GetSignatureAlgorithmInfo](./getsignaturealgorithminfo/) | Retrieves information about the signature algorithm used in the signature. |
 | [TryVerify](./tryverify/)(*VerificationResult*) |  |
 | [TryVerify](./tryverify/)(*ValidationOptions, ValidationResult, VerificationResult*) |  |

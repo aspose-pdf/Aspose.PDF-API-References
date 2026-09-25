@@ -22,7 +22,7 @@ public class CdrLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [CdrLoadOptions](./cdrloadoptions/#constructor) | Initializes a new instance of the CdrLoadOptions class. |
+| [CdrLoadOptions](./cdrloadoptions/#constructor) | The default constructor. |
 
 ## Properties
 

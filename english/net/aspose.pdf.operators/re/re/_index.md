@@ -3,7 +3,7 @@ title: "Re.Re"
 linktitle: "Re"
 articleTitle: "Re"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Re constructor. Initializes a new instance of the Re class."
+description: "Re constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/re/re/"

@@ -5,7 +5,7 @@ articleTitle: "FitIntoRectangle"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormFieldOptions property. Gets/sets the value to determine whether created/modified field is fit into rectangle or not (if will be set)."
 type: docs
-weight: 180
+weight: 170
 url: "/net/aspose.pdf.lowcode/formfieldoptions/fitintorectangle/"
 product_version: "26.9.0"
 ---

@@ -22,7 +22,7 @@ public class RunResponse : BaseResponse, IStatus
 
 | Name | Description |
 | --- | --- |
-| [RunResponse](./runresponse/#constructor) | Initializes a new instance of the RunResponse class. |
+| [RunResponse](./runresponse/#constructor) | The default constructor. |
 
 ## Properties
 

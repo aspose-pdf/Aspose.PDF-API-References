@@ -5,7 +5,7 @@ articleTitle: "PartialName"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormFieldOptions property. Gets/sets the value to determine property PartialName for created/modified field (if will be set)."
 type: docs
-weight: 130
+weight: 120
 url: "/net/aspose.pdf.lowcode/formfieldoptions/partialname/"
 product_version: "26.9.0"
 ---

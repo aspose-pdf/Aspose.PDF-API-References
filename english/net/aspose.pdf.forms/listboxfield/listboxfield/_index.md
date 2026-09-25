@@ -3,7 +3,7 @@ title: "ListBoxField.ListBoxField"
 linktitle: "ListBoxField"
 articleTitle: "ListBoxField"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ListBoxField constructor. Initializes a new instance of the ListBoxField class."
+description: "ListBoxField constructor. Constructor for ListBoxField to be used in Generator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/listboxfield/listboxfield/"

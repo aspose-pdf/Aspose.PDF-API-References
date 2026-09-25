@@ -5,7 +5,7 @@ articleTitle: "FontSize"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "TextStamp property. Actual font size after the stamp has been placed. (May differ from the initial font size provided through the constructor if the 'AutoAdj..."
 type: docs
-weight: 170
+weight: 160
 url: "/net/aspose.pdf/textstamp/fontsize/"
 product_version: "26.9.0"
 ---

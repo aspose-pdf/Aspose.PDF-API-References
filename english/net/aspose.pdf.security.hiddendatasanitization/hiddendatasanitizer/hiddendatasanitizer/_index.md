@@ -3,7 +3,7 @@ title: "HiddenDataSanitizer.HiddenDataSanitizer"
 linktitle: "HiddenDataSanitizer"
 articleTitle: "HiddenDataSanitizer"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "HiddenDataSanitizer constructor. Initializes a new instance of the HiddenDataSanitizer class."
+description: "HiddenDataSanitizer constructor. Provides functionality to sanitize hidden data from a PDF document, ensuring that sensitive or unnecessary information such ..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizer/hiddendatasanitizer/"

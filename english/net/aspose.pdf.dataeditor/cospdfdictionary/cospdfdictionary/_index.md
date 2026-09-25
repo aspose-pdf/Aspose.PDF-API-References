@@ -3,7 +3,7 @@ title: "CosPdfDictionary.CosPdfDictionary"
 linktitle: "CosPdfDictionary"
 articleTitle: "CosPdfDictionary"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CosPdfDictionary constructor. Initializes a new instance of the CosPdfDictionary class."
+description: "CosPdfDictionary constructor. Creates a dictionary from resources."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/cospdfdictionary/"

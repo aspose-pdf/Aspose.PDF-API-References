@@ -3,7 +3,7 @@ title: "Bookmarks.Bookmarks"
 linktitle: "Bookmarks"
 articleTitle: "Bookmarks"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Bookmarks constructor. Initializes a new instance of the Bookmarks class."
+description: "Bookmarks constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/bookmarks/bookmarks/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## Bookmarks() {#constructor}
 
-Initializes a new instance of the Bookmarks class.
+The default constructor.
 
 ```csharp
 public Bookmarks()

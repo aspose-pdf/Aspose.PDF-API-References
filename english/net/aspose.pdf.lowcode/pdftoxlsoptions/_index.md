@@ -3,7 +3,7 @@ title: "PdfToXlsOptions Class"
 linktitle: "PdfToXlsOptions"
 articleTitle: "PdfToXlsOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.PdfToXlsOptions class. Represents PDF to XLSX converter options for plugin."
+description: "Aspose.Pdf.LowCode.PdfToXlsOptions class. Represents PDF to XLSX converter options for XlsConverter plugin."
 type: docs
 weight: 740
 url: "/net/aspose.pdf.lowcode/pdftoxlsoptions/"
@@ -22,7 +22,7 @@ public sealed class PdfToXlsOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfToXlsOptions](./pdftoxlsoptions/#constructor) | Initializes a new instance of the PdfToXlsOptions class. |
+| [PdfToXlsOptions](./pdftoxlsoptions/#constructor) | The default constructor. |
 
 ## Properties
 

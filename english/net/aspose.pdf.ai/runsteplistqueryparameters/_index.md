@@ -22,7 +22,7 @@ public class RunStepListQueryParameters : BaseListQueryParameters, IQueryParamet
 
 | Name | Description |
 | --- | --- |
-| [RunStepListQueryParameters](./runsteplistqueryparameters/#constructor) | Initializes a new instance of the RunStepListQueryParameters class. |
+| [RunStepListQueryParameters](./runsteplistqueryparameters/#constructor) | The default constructor. |
 
 ## Properties
 

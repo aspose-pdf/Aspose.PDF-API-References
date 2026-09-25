@@ -22,7 +22,7 @@ public class ToolCall
 
 | Name | Description |
 | --- | --- |
-| [ToolCall](./toolcall/#constructor) | Initializes a new instance of the ToolCall class. |
+| [ToolCall](./toolcall/#constructor) | The default constructor. |
 
 ## Properties
 

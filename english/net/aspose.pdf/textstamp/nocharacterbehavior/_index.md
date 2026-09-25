@@ -5,7 +5,7 @@ articleTitle: "NoCharacterBehavior"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "TextStamp property. Gets or sets mode that defines behavior in case fonts don't contain requested characters."
 type: docs
-weight: 160
+weight: 150
 url: "/net/aspose.pdf/textstamp/nocharacterbehavior/"
 product_version: "26.9.0"
 ---

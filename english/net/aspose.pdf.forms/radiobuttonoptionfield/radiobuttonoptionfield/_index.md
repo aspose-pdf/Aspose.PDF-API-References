@@ -3,7 +3,7 @@ title: "RadioButtonOptionField.RadioButtonOptionField"
 linktitle: "RadioButtonOptionField"
 articleTitle: "RadioButtonOptionField"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "RadioButtonOptionField constructor. Initializes a new instance of the RadioButtonOptionField class."
+description: "RadioButtonOptionField constructor. Create new RadioButtonOptionField instance."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/radiobuttonoptionfield/radiobuttonoptionfield/"

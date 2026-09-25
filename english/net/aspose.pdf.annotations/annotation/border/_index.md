@@ -3,9 +3,9 @@ title: "Annotation.Border"
 linktitle: "Border"
 articleTitle: "Border"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Annotation property. Gets or sets annotation border characteristics."
+description: "Annotation property. Gets or sets annotation border characteristics. Border"
 type: docs
-weight: 300
+weight: 170
 url: "/net/aspose.pdf.annotations/annotation/border/"
 product_version: "26.9.0"
 ---

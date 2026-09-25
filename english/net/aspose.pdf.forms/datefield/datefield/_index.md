@@ -3,7 +3,7 @@ title: "DateField.DateField"
 linktitle: "DateField"
 articleTitle: "DateField"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "DateField constructor. Initializes a new instance of the DateField class."
+description: "DateField constructor. Initializes a new instance of the DateField"
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/datefield/datefield/"

@@ -3,7 +3,7 @@ title: "ITaggedContent.CreateTOCElement"
 linktitle: "CreateTOCElement"
 articleTitle: "CreateTOCElement"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ITaggedContent method. Creates ."
+description: "ITaggedContent method. Creates TOCElement."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.tagged/itaggedcontent/createtocelement/"

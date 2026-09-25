@@ -5,7 +5,7 @@ articleTitle: "Icon"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "StampAnnotation property. Gets or sets icon for rubber stamp."
 type: docs
-weight: 50
+weight: 40
 url: "/net/aspose.pdf.annotations/stampannotation/icon/"
 product_version: "26.9.0"
 ---

@@ -3,7 +3,7 @@ title: "RunModifyRequest.RunModifyRequest"
 linktitle: "RunModifyRequest"
 articleTitle: "RunModifyRequest"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "RunModifyRequest constructor. Initializes a new instance of the RunModifyRequest class."
+description: "RunModifyRequest constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/runmodifyrequest/runmodifyrequest/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## RunModifyRequest() {#constructor}
 
-Initializes a new instance of the RunModifyRequest class.
+The default constructor.
 
 ```csharp
 public RunModifyRequest()

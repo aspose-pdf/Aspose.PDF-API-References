@@ -3,7 +3,7 @@ title: "ThumbnailDevice.ThumbnailDevice"
 linktitle: "ThumbnailDevice"
 articleTitle: "ThumbnailDevice"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ThumbnailDevice constructor. Initializes a new instance of the ThumbnailDevice class."
+description: "ThumbnailDevice constructor. Initializes a new instance of the ThumbnailDevice class with default size of thumbnail image (200x200 pixels)."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.devices/thumbnaildevice/thumbnaildevice/"

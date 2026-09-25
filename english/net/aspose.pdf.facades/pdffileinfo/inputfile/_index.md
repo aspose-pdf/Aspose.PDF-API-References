@@ -5,7 +5,7 @@ articleTitle: "InputFile"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileInfo property. Gets or sets the input file."
 type: docs
-weight: 390
+weight: 340
 url: "/net/aspose.pdf.facades/pdffileinfo/inputfile/"
 product_version: "26.9.0"
 ---

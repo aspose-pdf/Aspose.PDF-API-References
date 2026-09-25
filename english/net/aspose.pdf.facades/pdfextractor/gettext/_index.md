@@ -3,7 +3,7 @@ title: "PdfExtractor.GetText"
 linktitle: "GetText"
 articleTitle: "GetText"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfExtractor method. Saves text to file. see also:"
+description: "PdfExtractor method. Saves text to file. see also:ExtractText"
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/pdfextractor/gettext/"

@@ -22,7 +22,7 @@ public sealed class RenderingOptions
 
 | Name | Description |
 | --- | --- |
-| [RenderingOptions](./renderingoptions/#constructor) | Initializes a new instance of the RenderingOptions class. |
+| [RenderingOptions](./renderingoptions/#constructor) | The default constructor. |
 
 ## Properties
 

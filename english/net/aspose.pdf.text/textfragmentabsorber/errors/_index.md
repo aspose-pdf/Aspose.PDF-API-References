@@ -3,7 +3,7 @@ title: "TextFragmentAbsorber.Errors"
 linktitle: "Errors"
 articleTitle: "Errors"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextFragmentAbsorber property. List of objects. It contain information about errors were found during text extraction. Searching for errors will performed on..."
+description: "TextFragmentAbsorber property. List of TextExtractionError objects. It contain information about errors were found during text extraction. Searching for erro..."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.text/textfragmentabsorber/errors/"

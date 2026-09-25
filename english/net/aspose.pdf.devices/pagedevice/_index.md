@@ -18,18 +18,6 @@ Abstract class for all devices which is used to process certain page the pdf doc
 public abstract class PageDevice : Device
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [PageDevice](./pagedevice/#constructor) | Initializes a new instance of the PageDevice class. |
-
-## Properties
-
-| Name | Description |
-| --- | --- |
-| [Document](../../aspose.pdf.devices/device/document/) { get; set; } | Document which is processed by this device instance. *(Inherited from Device)* |
-
 ## Methods
 
 | Name | Description |

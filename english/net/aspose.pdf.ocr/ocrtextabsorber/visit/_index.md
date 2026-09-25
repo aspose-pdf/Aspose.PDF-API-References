@@ -3,7 +3,7 @@ title: "OcrTextAbsorber.Visit"
 linktitle: "Visit"
 articleTitle: "Visit"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "OcrTextAbsorber method. Recognizes text on every page of the document, joined by ."
+description: "OcrTextAbsorber method. Recognizes text on every page of the document, joined by PageSeparator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ocr/ocrtextabsorber/visit/"
@@ -25,7 +25,7 @@ public void Visit(Document document)
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | Thrown when is <see langword="null" />. |
+| ArgumentNullException | Thrown when *document* is <see langword="null" />. |
 | [MissingOptionalDependencyException](../../../aspose.pdf/missingoptionaldependencyexception/) | Thrown when optional OCR implementation dependencies are not available. |
 
 ### See Also
@@ -52,7 +52,7 @@ public void Visit(Page page)
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | Thrown when is <see langword="null" />. |
+| ArgumentNullException | Thrown when *page* is <see langword="null" />. |
 | [MissingOptionalDependencyException](../../../aspose.pdf/missingoptionaldependencyexception/) | Thrown when optional OCR implementation dependencies are not available. |
 
 ### See Also

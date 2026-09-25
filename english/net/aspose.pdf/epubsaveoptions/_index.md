@@ -22,7 +22,7 @@ public class EpubSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [EpubSaveOptions](./epubsaveoptions/#constructor) | Initializes a new instance of the EpubSaveOptions class. |
+| [EpubSaveOptions](./epubsaveoptions/#constructor) | The default constructor. |
 
 ## Properties
 

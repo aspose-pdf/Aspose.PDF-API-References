@@ -22,7 +22,7 @@ public class PositionSettings
 
 | Name | Description |
 | --- | --- |
-| [PositionSettings](./positionsettings/#constructor) | Initializes a new instance of the PositionSettings class. |
+| [PositionSettings](./positionsettings/#constructor) | The default constructor. |
 
 ## Properties
 

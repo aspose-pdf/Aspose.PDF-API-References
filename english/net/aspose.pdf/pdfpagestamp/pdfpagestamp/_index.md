@@ -3,7 +3,7 @@ title: "PdfPageStamp.PdfPageStamp"
 linktitle: "PdfPageStamp"
 articleTitle: "PdfPageStamp"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfPageStamp constructor. Initializes a new instance of the PdfPageStamp class."
+description: "PdfPageStamp constructor. Constructor of PdfPageStamp."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pdfpagestamp/pdfpagestamp/"

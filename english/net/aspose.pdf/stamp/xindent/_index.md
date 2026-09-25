@@ -5,7 +5,7 @@ articleTitle: "XIndent"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Stamp property. Horizontal stamp coordinate, starting from the left."
 type: docs
-weight: 140
+weight: 90
 url: "/net/aspose.pdf/stamp/xindent/"
 product_version: "26.9.0"
 ---

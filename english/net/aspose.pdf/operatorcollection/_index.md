@@ -25,7 +25,7 @@ public class OperatorCollection : BaseOperatorCollection, IDisposable
 | [Count](./count/) { get; } | Gets count of operators in the collection. |
 | [IsFastTextExtractionMode](./isfasttextextractionmode/) { get; } | Indicates wheather collection is limited to fast text extraction. |
 | [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether the collection is read-only. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets operator by its index. |
 
 ## Methods
 
@@ -43,7 +43,6 @@ public class OperatorCollection : BaseOperatorCollection, IDisposable
 | [Delete](./delete/)(*Operator[]*) | Deletes operators from collection. |
 | [Delete](./delete/)(*IList<Operator>*) | Deletes operators from collection. |
 | [Dispose](./dispose/) | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| [Finalize](./finalize/) |  |
 | [GetEnumerator](./getenumerator/) | Returns enumerator for collection. |
 | [Insert](./insert/)(*int, Operator*) | Inserts operator into collection. |
 | [Insert](./insert/)(*int, Operator[]*) | Insert operators at the the given position. |

@@ -3,7 +3,7 @@ title: "AppearanceDictionary.Item"
 linktitle: "Item"
 articleTitle: "Item"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "AppearanceDictionary property."
+description: "AppearanceDictionary property. Represents convenient form for getting appearance streams."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.annotations/appearancedictionary/item/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## AppearanceDictionary.Item property
 
-
+Represents convenient form for getting appearance streams.
 
 ```csharp
 public XForm Item { get; set; }

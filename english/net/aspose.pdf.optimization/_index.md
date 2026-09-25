@@ -3,7 +3,7 @@ title: "Aspose.Pdf.Optimization"
 linktitle: "Aspose.Pdf.Optimization"
 articleTitle: "Aspose.Pdf.Optimization"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The **Aspose.Pdf.Optimization** namespace provides classes."
+description: "The Aspose.Pdf.Optimization namespace provides classes."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.optimization/"

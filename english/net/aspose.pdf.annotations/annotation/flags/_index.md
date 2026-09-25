@@ -5,7 +5,7 @@ articleTitle: "Flags"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Annotation property. Flags of the annotation."
 type: docs
-weight: 180
+weight: 70
 url: "/net/aspose.pdf.annotations/annotation/flags/"
 product_version: "26.9.0"
 ---

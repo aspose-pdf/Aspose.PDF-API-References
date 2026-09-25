@@ -3,7 +3,7 @@ title: "AssistantListQueryParameters.AssistantListQueryParameters"
 linktitle: "AssistantListQueryParameters"
 articleTitle: "AssistantListQueryParameters"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "AssistantListQueryParameters constructor. Initializes a new instance of the AssistantListQueryParameters class."
+description: "AssistantListQueryParameters constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/assistantlistqueryparameters/assistantlistqueryparameters/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## AssistantListQueryParameters() {#constructor}
 
-Initializes a new instance of the AssistantListQueryParameters class.
+The default constructor.
 
 ```csharp
 public AssistantListQueryParameters()

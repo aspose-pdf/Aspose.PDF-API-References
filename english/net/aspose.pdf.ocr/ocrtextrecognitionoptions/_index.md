@@ -3,7 +3,7 @@ title: "OcrTextRecognitionOptions Class"
 linktitle: "OcrTextRecognitionOptions"
 articleTitle: "OcrTextRecognitionOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.Ocr.OcrTextRecognitionOptions class. Options for ."
+description: "Aspose.Pdf.Ocr.OcrTextRecognitionOptions class. Options for OcrTextAbsorber."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ocr/ocrtextrecognitionoptions/"
@@ -22,7 +22,7 @@ public sealed class OcrTextRecognitionOptions
 
 | Name | Description |
 | --- | --- |
-| [OcrTextRecognitionOptions](./ocrtextrecognitionoptions/#constructor) | Initializes a new instance of the OcrTextRecognitionOptions class. |
+| [OcrTextRecognitionOptions](./ocrtextrecognitionoptions/#constructor) | The default constructor. |
 
 ## Properties
 

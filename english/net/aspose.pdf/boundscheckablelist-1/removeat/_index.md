@@ -25,7 +25,7 @@ public void RemoveAt(int index)
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | index is less than 0. -or- index is equal to or greater than Count. |
+| ArgumentOutOfRangeException | *index*index is less than 0. -or- *index*index is equal to or greater than Count. |
 
 ### See Also
 

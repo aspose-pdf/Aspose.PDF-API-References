@@ -3,7 +3,7 @@ title: "FormComboBoxFieldSetOptions Class"
 linktitle: "FormComboBoxFieldSetOptions"
 articleTitle: "FormComboBoxFieldSetOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.FormComboBoxFieldSetOptions class. Represents options for set properties in ComboBoxField by plugin."
+description: "Aspose.Pdf.LowCode.FormComboBoxFieldSetOptions class. Represents options for set properties in ComboBoxField by FormEditor plugin."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.lowcode/formcomboboxfieldsetoptions/"
@@ -22,7 +22,7 @@ public class FormComboBoxFieldSetOptions : FormFieldSetOptions
 
 | Name | Description |
 | --- | --- |
-| [FormComboBoxFieldSetOptions](./formcomboboxfieldsetoptions/#constructor) | Initializes a new instance of the FormComboBoxFieldSetOptions class. |
+| [FormComboBoxFieldSetOptions](./formcomboboxfieldsetoptions/#constructor) | The default constructor. |
 
 ## Properties
 

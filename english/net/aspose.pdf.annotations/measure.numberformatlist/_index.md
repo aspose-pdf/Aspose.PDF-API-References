@@ -29,7 +29,7 @@ public class NumberFormatList
 | Name | Description |
 | --- | --- |
 | [Count](./count/) { get; } | Count if items in the list. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets or sets number format in list by its index. |
 
 ## Methods
 

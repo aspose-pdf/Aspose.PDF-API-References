@@ -5,7 +5,7 @@ articleTitle: "GetECMAScriptString"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfAction method. Gets string for ECMAScript Action."
 type: docs
-weight: 20
+weight: 10
 url: "/net/aspose.pdf.annotations/pdfaction/getecmascriptstring/"
 product_version: "26.9.0"
 ---

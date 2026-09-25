@@ -3,7 +3,7 @@ title: "FormComboBoxFieldSetOptions.FormComboBoxFieldSetOptions"
 linktitle: "FormComboBoxFieldSetOptions"
 articleTitle: "FormComboBoxFieldSetOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FormComboBoxFieldSetOptions constructor. Initializes a new instance of the FormComboBoxFieldSetOptions class."
+description: "FormComboBoxFieldSetOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formcomboboxfieldsetoptions/formcomboboxfieldsetoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## FormComboBoxFieldSetOptions() {#constructor}
 
-Initializes a new instance of the FormComboBoxFieldSetOptions class.
+The default constructor.
 
 ```csharp
 public FormComboBoxFieldSetOptions()

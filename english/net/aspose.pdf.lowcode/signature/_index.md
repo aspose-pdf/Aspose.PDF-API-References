@@ -3,7 +3,7 @@ title: "Signature Class"
 linktitle: "Signature"
 articleTitle: "Signature"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.Signature class. Represents plugin."
+description: "Aspose.Pdf.LowCode.Signature class. Represents Signature plugin."
 type: docs
 weight: 850
 url: "/net/aspose.pdf.lowcode/signature/"
@@ -22,7 +22,7 @@ public sealed class Signature : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [Signature](./signature/#constructor) | Initializes a new instance of the Signature class. |
+| [Signature](./signature/#constructor) | The default constructor. |
 
 ## Methods
 

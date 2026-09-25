@@ -22,7 +22,7 @@ public sealed class FormExporterToJsonOptions : FormExporterOptions
 
 | Name | Description |
 | --- | --- |
-| [FormExporterToJsonOptions](./formexportertojsonoptions/#constructor) | Initializes a new instance of the FormExporterToJsonOptions class. |
+| [FormExporterToJsonOptions](./formexportertojsonoptions/#constructor) | The default constructor. |
 | [FormExporterToJsonOptions](./formexportertojsonoptions/#constructor_1)(*[SelectField](../../aspose.pdf.lowcode/selectfield/)*) | Initializes a new instance of the [`FormExporterValuesToCsvOptions`](../../aspose.pdf.lowcode/formexportervaluestocsvoptions/) object,. |
 
 ## Properties

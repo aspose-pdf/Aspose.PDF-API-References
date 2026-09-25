@@ -22,7 +22,7 @@ public class CompletionCreateRequest
 
 | Name | Description |
 | --- | --- |
-| [CompletionCreateRequest](./completioncreaterequest/#constructor) | Initializes a new instance of the CompletionCreateRequest class. |
+| [CompletionCreateRequest](./completioncreaterequest/#constructor) | The default constructor. |
 
 ## Properties
 

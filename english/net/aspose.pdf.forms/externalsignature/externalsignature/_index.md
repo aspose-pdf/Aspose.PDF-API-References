@@ -3,7 +3,7 @@ title: "ExternalSignature.ExternalSignature"
 linktitle: "ExternalSignature"
 articleTitle: "ExternalSignature"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ExternalSignature constructor. Initializes a new instance of the ExternalSignature class."
+description: "ExternalSignature constructor. Creates a detached PKCS#7 `(detached)` signature using a X509Certificate2. It supports usb smartcards, tokens without exportab..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/externalsignature/externalsignature/"

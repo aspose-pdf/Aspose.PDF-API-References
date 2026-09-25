@@ -3,7 +3,7 @@ title: "CustomFontSubstitutionBase.CustomFontSubstitutionBase"
 linktitle: "CustomFontSubstitutionBase"
 articleTitle: "CustomFontSubstitutionBase"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CustomFontSubstitutionBase constructor. Initializes a new instance of the CustomFontSubstitutionBase class."
+description: "CustomFontSubstitutionBase constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/customfontsubstitutionbase/customfontsubstitutionbase/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## CustomFontSubstitutionBase() {#constructor}
 
-Initializes a new instance of the CustomFontSubstitutionBase class.
+The default constructor.
 
 ```csharp
 public CustomFontSubstitutionBase()

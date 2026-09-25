@@ -22,7 +22,7 @@ public class PptxSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [PptxSaveOptions](./pptxsaveoptions/#constructor) | Initializes a new instance of the PptxSaveOptions class. |
+| [PptxSaveOptions](./pptxsaveoptions/#constructor) | The default constructor. |
 
 ## Properties
 

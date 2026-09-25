@@ -3,7 +3,7 @@ title: "ThreadMessageCreateRequest.FromUser"
 linktitle: "FromUser"
 articleTitle: "FromUser"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ThreadMessageCreateRequest method. Creates a new with the role set to User."
+description: "ThreadMessageCreateRequest method. Creates a new ThreadMessageCreateRequest with the role set to User."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/fromuser/"

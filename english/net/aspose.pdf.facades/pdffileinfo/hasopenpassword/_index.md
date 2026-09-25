@@ -5,7 +5,7 @@ articleTitle: "HasOpenPassword"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileInfo property. Returns true if password is needed to open password protected pdf document."
 type: docs
-weight: 480
+weight: 430
 url: "/net/aspose.pdf.facades/pdffileinfo/hasopenpassword/"
 product_version: "26.9.0"
 ---

@@ -3,7 +3,7 @@ title: "FormEditorSetOptions.FormEditorSetOptions"
 linktitle: "FormEditorSetOptions"
 articleTitle: "FormEditorSetOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FormEditorSetOptions constructor. Initializes a new instance of the FormEditorSetOptions class."
+description: "FormEditorSetOptions constructor. Initializes a new instance of the FormEditorSetOptions object, in which the values assigned to the properties of the field ..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formeditorsetoptions/formeditorsetoptions/"

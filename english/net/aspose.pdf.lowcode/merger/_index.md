@@ -3,7 +3,7 @@ title: "Merger Class"
 linktitle: "Merger"
 articleTitle: "Merger"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.Merger class. Represents plugin."
+description: "Aspose.Pdf.LowCode.Merger class. Represents Merger plugin."
 type: docs
 weight: 510
 url: "/net/aspose.pdf.lowcode/merger/"
@@ -22,7 +22,7 @@ public sealed class Merger : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [Merger](./merger/#constructor) | Initializes a new instance of the Merger class. |
+| [Merger](./merger/#constructor) | The default constructor. |
 
 ## Methods
 

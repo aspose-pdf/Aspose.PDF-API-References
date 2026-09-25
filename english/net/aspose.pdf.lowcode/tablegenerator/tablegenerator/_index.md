@@ -3,7 +3,7 @@ title: "TableGenerator.TableGenerator"
 linktitle: "TableGenerator"
 articleTitle: "TableGenerator"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TableGenerator constructor. Initializes a new instance of the TableGenerator class."
+description: "TableGenerator constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/tablegenerator/tablegenerator/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## TableGenerator() {#constructor}
 
-Initializes a new instance of the TableGenerator class.
+The default constructor.
 
 ```csharp
 public TableGenerator()

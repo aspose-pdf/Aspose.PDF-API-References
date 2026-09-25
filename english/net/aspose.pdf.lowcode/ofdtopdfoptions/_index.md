@@ -22,7 +22,7 @@ public class OfdToPdfOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [OfdToPdfOptions](./ofdtopdfoptions/#constructor) | Initializes a new instance of the OfdToPdfOptions class. |
+| [OfdToPdfOptions](./ofdtopdfoptions/#constructor) | The default constructor. |
 
 ## Properties
 

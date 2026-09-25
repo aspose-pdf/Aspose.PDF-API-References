@@ -3,7 +3,7 @@ title: "TableAbsorber.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TableAbsorber method. Removes an from the page."
+description: "TableAbsorber method. Removes an AbsorbedTable from the page."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/tableabsorber/remove/"

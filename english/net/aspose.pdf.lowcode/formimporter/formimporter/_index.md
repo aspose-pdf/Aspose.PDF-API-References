@@ -3,7 +3,7 @@ title: "FormImporter.FormImporter"
 linktitle: "FormImporter"
 articleTitle: "FormImporter"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FormImporter constructor. Initializes a new instance of the FormImporter class."
+description: "FormImporter constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formimporter/formimporter/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## FormImporter() {#constructor}
 
-Initializes a new instance of the FormImporter class.
+The default constructor.
 
 ```csharp
 public FormImporter()

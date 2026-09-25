@@ -3,7 +3,7 @@ title: "Optimizer Class"
 linktitle: "Optimizer"
 articleTitle: "Optimizer"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.Optimizer class. Represents plugin."
+description: "Aspose.Pdf.LowCode.Optimizer class. Represents Optimizer plugin."
 type: docs
 weight: 560
 url: "/net/aspose.pdf.lowcode/optimizer/"
@@ -22,7 +22,7 @@ public sealed class Optimizer : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [Optimizer](./optimizer/#constructor) | Initializes a new instance of the Optimizer class. |
+| [Optimizer](./optimizer/#constructor) | The default constructor. |
 
 ## Methods
 

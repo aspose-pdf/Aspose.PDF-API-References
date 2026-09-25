@@ -67,7 +67,6 @@ public class TextStamp : Stamp
 | [Put](./put/)(*Page*) | Adds textual stamp on the page. |
 | [SetImageSize](../../aspose.pdf.facades/stamp/setimagesize/)(*float, float*) | Sets size of image stamp. Image will be scaled according to the specified values. *(Inherited from Stamp)* |
 | [SetOrigin](../../aspose.pdf.facades/stamp/setorigin/)(*float, float*) | Sets position on page where stamp will be placed. *(Inherited from Stamp)* |
-| [createXForm](./createxform/)(*Page*) | Creates XForm which contains operators for text output. |
 
 ### See Also
 

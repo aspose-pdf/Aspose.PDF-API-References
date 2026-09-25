@@ -22,7 +22,7 @@ public class Embedding
 
 | Name | Description |
 | --- | --- |
-| [Embedding](./embedding/#constructor) | Initializes a new instance of the Embedding class. |
+| [Embedding](./embedding/#constructor) | The default constructor. |
 
 ## Properties
 

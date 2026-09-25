@@ -22,7 +22,7 @@ public class ThreadMessageListResponse
 
 | Name | Description |
 | --- | --- |
-| [ThreadMessageListResponse](./threadmessagelistresponse/#constructor) | Initializes a new instance of the ThreadMessageListResponse class. |
+| [ThreadMessageListResponse](./threadmessagelistresponse/#constructor) | The default constructor. |
 
 ### See Also
 

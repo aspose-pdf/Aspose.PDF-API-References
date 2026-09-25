@@ -3,7 +3,7 @@ title: "Watermark.Watermark"
 linktitle: "Watermark"
 articleTitle: "Watermark"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Watermark constructor. Initializes a new instance of the Watermark class."
+description: "Watermark constructor. Initializes a watermark object with an image and it's position on a page."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/watermark/watermark/"

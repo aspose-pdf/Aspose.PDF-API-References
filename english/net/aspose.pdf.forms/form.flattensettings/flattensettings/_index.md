@@ -3,7 +3,7 @@ title: "Form.FlattenSettings.Form.FlattenSettings"
 linktitle: "Form.FlattenSettings"
 articleTitle: "Form.FlattenSettings"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FlattenSettings constructor. Initializes a new instance of the Form.FlattenSettings class."
+description: "FlattenSettings constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/form.flattensettings/flattensettings/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## Form.FlattenSettings() {#constructor}
 
-Initializes a new instance of the Form.FlattenSettings class.
+The default constructor.
 
 ```csharp
 public Form.FlattenSettings()

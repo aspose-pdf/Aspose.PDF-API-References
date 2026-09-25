@@ -18,13 +18,6 @@ Base facade class.
 public abstract class Facade : IFacade, IDisposable
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [Facade](./facade/#constructor) | The constructor. |
-| [Facade](./facade/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | The constructor. |
-
 ## Properties
 
 | Name | Description |
@@ -35,14 +28,9 @@ public abstract class Facade : IFacade, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [AssertDocument](./assertdocument/) | Asserts if the facade is initialized. |
 | [BindPdf](./bindpdf/)(*string*) | Initializes the facade. |
 | [BindPdf](./bindpdf/)(*Stream*) | Initializes the facade. |
 | [BindPdf](./bindpdf/)(*Document*) | Initializes the facade. |
-| [BindPdf](./bindpdf/)(*string, string*) | Initializes the facade. |
-| [BindPdf](./bindpdf/)(*Stream, string*) | Initializes the facade. |
-| [BindPdf](./bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. |
-| [BindPdf](./bindpdf/)(*Stream, string, ICustomSecurityHandler*) | Initializes the facade. |
 | [Close](./close/) | Disposes Aspose.Pdf.Document bound with a facade. |
 | [Dispose](./dispose/) | Disposes the facade. |
 

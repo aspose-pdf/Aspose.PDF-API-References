@@ -3,7 +3,7 @@ title: "TableOptions.TableOptions"
 linktitle: "TableOptions"
 articleTitle: "TableOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TableOptions constructor. Initializes a new instance of the TableOptions class."
+description: "TableOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/tableoptions/tableoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## TableOptions() {#constructor}
 
-Initializes a new instance of the TableOptions class.
+The default constructor.
 
 ```csharp
 public TableOptions()

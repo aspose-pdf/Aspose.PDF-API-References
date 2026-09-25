@@ -3,7 +3,7 @@ title: "TextFragmentState.StrikeOut"
 linktitle: "StrikeOut"
 articleTitle: "StrikeOut"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextFragmentState property. Gets or sets strikeout for the text, represented by the object"
+description: "TextFragmentState property. Gets or sets strikeout for the text, represented by the TextFragment object"
 type: docs
 weight: 190
 url: "/net/aspose.pdf.text/textfragmentstate/strikeout/"

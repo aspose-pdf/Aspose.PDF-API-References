@@ -22,7 +22,7 @@ public class OfdLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [OfdLoadOptions](./ofdloadoptions/#constructor) | Initializes a new instance of the OfdLoadOptions class. |
+| [OfdLoadOptions](./ofdloadoptions/#constructor) | The default constructor. |
 
 ## Properties
 

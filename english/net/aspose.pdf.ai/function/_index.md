@@ -22,7 +22,7 @@ public class Function
 
 | Name | Description |
 | --- | --- |
-| [Function](./function/#constructor) | Initializes a new instance of the Function class. |
+| [Function](./function/#constructor) | The default constructor. |
 
 ## Properties
 

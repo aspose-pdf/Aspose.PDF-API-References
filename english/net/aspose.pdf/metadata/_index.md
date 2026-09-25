@@ -27,7 +27,7 @@ public sealed class Metadata : IEnumerable
 | [IsFixedSize](./isfixedsize/) { get; } | Checks if colleciton has fixed size. |
 | [IsReadOnly](./isreadonly/) { get; } | Checks if collection is read-only. |
 | [IsSynchronized](./issynchronized/) { get; } | Checks if collection is synchronized. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets or sets data from metadata. |
 | [Keys](./keys/) { get; } | Gets collection of metadata keys. |
 | [NamespaceManager](./namespacemanager/) { get; } | Gets namespace manager. |
 | [SyncRoot](./syncroot/) { get; } | Gets collection synchronization object. |

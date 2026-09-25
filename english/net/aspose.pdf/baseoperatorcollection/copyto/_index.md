@@ -5,7 +5,7 @@ articleTitle: "CopyTo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "BaseOperatorCollection method. Copies operators into operators list."
 type: docs
-weight: 30
+weight: 20
 url: "/net/aspose.pdf/baseoperatorcollection/copyto/"
 product_version: "26.9.0"
 ---

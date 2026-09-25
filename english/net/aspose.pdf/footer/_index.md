@@ -22,7 +22,7 @@ public sealed class Footer : HorizontalAlignment
 
 | Name | Description |
 | --- | --- |
-| [Footer](./footer/#constructor) | Initializes a new instance of the Footer class. |
+| [Footer](./footer/#constructor) | The default constructor. |
 
 ### See Also
 

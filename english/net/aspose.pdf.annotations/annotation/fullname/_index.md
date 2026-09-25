@@ -5,7 +5,7 @@ articleTitle: "FullName"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Annotation property. Gets full qualified name of the annotation."
 type: docs
-weight: 370
+weight: 240
 url: "/net/aspose.pdf.annotations/annotation/fullname/"
 product_version: "26.9.0"
 ---

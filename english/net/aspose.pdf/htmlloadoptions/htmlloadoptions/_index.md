@@ -3,7 +3,7 @@ title: "HtmlLoadOptions.HtmlLoadOptions"
 linktitle: "HtmlLoadOptions"
 articleTitle: "HtmlLoadOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "HtmlLoadOptions constructor. Initializes a new instance of the HtmlLoadOptions class."
+description: "HtmlLoadOptions constructor. Creates load options for converting html into pdf document with empty base path."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/htmlloadoptions/htmlloadoptions/"

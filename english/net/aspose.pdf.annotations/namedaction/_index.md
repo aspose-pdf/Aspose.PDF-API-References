@@ -28,7 +28,6 @@ public sealed class NamedAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [IsInitialized](../../aspose.pdf.annotations/pdfaction/isinitialized/) { get; } | Indicates whether the action has been initialized. *(Inherited from PdfAction)* |
 | [Name](./name/) { get; set; } | Gets or sets the action to be performed. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. *(Inherited from PdfAction)* |
 

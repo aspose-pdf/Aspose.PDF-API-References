@@ -5,7 +5,7 @@ articleTitle: "DisableFontLicenseVerifications"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "LoadOptions property. Gets or sets flag to disable any license restrictions for all fonts while loading the file. When , allows to execute operations with fo..."
 type: docs
-weight: 40
+weight: 30
 url: "/net/aspose.pdf/loadoptions/disablefontlicenseverifications/"
 product_version: "26.9.0"
 ---

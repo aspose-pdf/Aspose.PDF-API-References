@@ -3,7 +3,7 @@ title: "Tiff.Tiff"
 linktitle: "Tiff"
 articleTitle: "Tiff"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Tiff constructor. Initializes a new instance of the Tiff class."
+description: "Tiff constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/tiff/tiff/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## Tiff() {#constructor}
 
-Initializes a new instance of the Tiff class.
+The default constructor.
 
 ```csharp
 public Tiff()

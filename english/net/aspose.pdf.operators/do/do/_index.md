@@ -3,7 +3,7 @@ title: "Do.Do"
 linktitle: "Do"
 articleTitle: "Do"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Do constructor. Initializes a new instance of the Do class."
+description: "Do constructor. Constructs new Do operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/do/do/"

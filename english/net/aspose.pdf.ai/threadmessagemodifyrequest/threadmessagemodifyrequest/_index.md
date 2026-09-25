@@ -3,7 +3,7 @@ title: "ThreadMessageModifyRequest.ThreadMessageModifyRequest"
 linktitle: "ThreadMessageModifyRequest"
 articleTitle: "ThreadMessageModifyRequest"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ThreadMessageModifyRequest constructor. Initializes a new instance of the ThreadMessageModifyRequest class."
+description: "ThreadMessageModifyRequest constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/threadmessagemodifyrequest/threadmessagemodifyrequest/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## ThreadMessageModifyRequest() {#constructor}
 
-Initializes a new instance of the ThreadMessageModifyRequest class.
+The default constructor.
 
 ```csharp
 public ThreadMessageModifyRequest()

@@ -22,7 +22,7 @@ public sealed class Row : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Row](./row/#constructor) | Initializes a new instance of the Row class. |
+| [Row](./row/#constructor) | The default constructor. |
 
 ## Properties
 

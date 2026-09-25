@@ -22,7 +22,7 @@ public class ExcelSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [ExcelSaveOptions](./excelsaveoptions/#constructor) | Initializes a new instance of the ExcelSaveOptions class. |
+| [ExcelSaveOptions](./excelsaveoptions/#constructor) | The default constructor. |
 
 ## Properties
 

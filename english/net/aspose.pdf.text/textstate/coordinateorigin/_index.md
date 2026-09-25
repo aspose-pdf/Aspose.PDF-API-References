@@ -5,7 +5,7 @@ articleTitle: "CoordinateOrigin"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "TextState property. Gets or sets text CoordinateOrigin. If CoordinateOrigin is Descender, the text Y coordinate corresponds to the font's lowest point. If Co..."
 type: docs
-weight: 470
+weight: 290
 url: "/net/aspose.pdf.text/textstate/coordinateorigin/"
 product_version: "26.9.0"
 ---

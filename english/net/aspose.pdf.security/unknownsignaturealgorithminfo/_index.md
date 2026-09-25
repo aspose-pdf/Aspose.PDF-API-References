@@ -28,7 +28,6 @@ public sealed class UnknownSignatureAlgorithmInfo : SignatureAlgorithmInfo
 
 | Name | Description |
 | --- | --- |
-| [FillText](../../aspose.pdf.security/signaturealgorithminfo/filltext/) | Fills string builder instance. *(Inherited from SignatureAlgorithmInfo)* |
 | [ToString](../../aspose.pdf.security/signaturealgorithminfo/tostring/) | Converts the current information object to its string representation. *(Inherited from SignatureAlgorithmInfo)* |
 
 ## Fields

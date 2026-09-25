@@ -3,7 +3,7 @@ title: "OptimizationOptions.CompressAllContentStreams"
 linktitle: "CompressAllContentStreams"
 articleTitle: "CompressAllContentStreams"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "OptimizationOptions property. If set to , all uncompressed page content streams will be compressed using the FlateDecode filter during . Default is to preser..."
+description: "OptimizationOptions property. If set to , all uncompressed page content streams will be compressed using the FlateDecode filter during OptimizeResources. Def..."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.optimization/optimizationoptions/compressallcontentstreams/"

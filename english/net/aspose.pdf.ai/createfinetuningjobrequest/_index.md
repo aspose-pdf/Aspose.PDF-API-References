@@ -22,7 +22,7 @@ public class CreateFineTuningJobRequest
 
 | Name | Description |
 | --- | --- |
-| [CreateFineTuningJobRequest](./createfinetuningjobrequest/#constructor) | Initializes a new instance of the CreateFineTuningJobRequest class. |
+| [CreateFineTuningJobRequest](./createfinetuningjobrequest/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -3,7 +3,7 @@ title: "OptimizeOptions Class"
 linktitle: "OptimizeOptions"
 articleTitle: "OptimizeOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.OptimizeOptions class. Represents Optimize options for plugin."
+description: "Aspose.Pdf.LowCode.OptimizeOptions class. Represents Optimize options for Optimizer plugin."
 type: docs
 weight: 550
 url: "/net/aspose.pdf.lowcode/optimizeoptions/"
@@ -22,7 +22,7 @@ public sealed class OptimizeOptions : OrganizerBaseOptions
 
 | Name | Description |
 | --- | --- |
-| [OptimizeOptions](./optimizeoptions/#constructor) | Initializes a new instance of the OptimizeOptions class. |
+| [OptimizeOptions](./optimizeoptions/#constructor) | The default constructor. |
 
 ## Properties
 

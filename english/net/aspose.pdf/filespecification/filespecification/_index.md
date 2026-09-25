@@ -3,7 +3,7 @@ title: "FileSpecification.FileSpecification"
 linktitle: "FileSpecification"
 articleTitle: "FileSpecification"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FileSpecification constructor. Initializes a new instance of the FileSpecification class."
+description: "FileSpecification constructor. Constructor for FileSpecification"
 type: docs
 weight: 10
 url: "/net/aspose.pdf/filespecification/filespecification/"

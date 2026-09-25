@@ -3,7 +3,7 @@ title: "PolygonAnnotation.PolygonAnnotation"
 linktitle: "PolygonAnnotation"
 articleTitle: "PolygonAnnotation"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PolygonAnnotation constructor. Initializes a new instance of the PolygonAnnotation class."
+description: "PolygonAnnotation constructor. Constructor for using with Generator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/polygonannotation/polygonannotation/"

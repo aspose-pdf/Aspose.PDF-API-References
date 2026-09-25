@@ -23,7 +23,7 @@ public sealed class ImagePlacementAbsorber
 
 | Name | Description |
 | --- | --- |
-| [ImagePlacementAbsorber](./imageplacementabsorber/#constructor) | Initializes a new instance of the ImagePlacementAbsorber class. |
+| [ImagePlacementAbsorber](./imageplacementabsorber/#constructor) | The default constructor. |
 
 ## Properties
 

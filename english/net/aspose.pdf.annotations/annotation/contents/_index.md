@@ -5,7 +5,7 @@ articleTitle: "Contents"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Annotation property. Gets or sets annotation text."
 type: docs
-weight: 260
+weight: 130
 url: "/net/aspose.pdf.annotations/annotation/contents/"
 product_version: "26.9.0"
 ---

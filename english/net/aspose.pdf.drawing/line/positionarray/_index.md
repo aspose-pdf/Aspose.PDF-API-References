@@ -3,7 +3,7 @@ title: "Line.PositionArray"
 linktitle: "PositionArray"
 articleTitle: "PositionArray"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Line property. Gets or sets a object that indicates the position array.The array is composed by coordinates of each control point of the line. directly."
+description: "Line property. Gets or sets a PositionArray object that indicates the position array.The array is composed by coordinates of each control point of the line. ..."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.drawing/line/positionarray/"

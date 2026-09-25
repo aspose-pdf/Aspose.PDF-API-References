@@ -3,7 +3,7 @@ title: "Form.Form"
 linktitle: "Form"
 articleTitle: "Form"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Form constructor. Initializes a new instance of the Form class."
+description: "Form constructor. Constructor of Form with two stream parameters. Specify same source and destination stream for incremental update."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/form/form/"
@@ -70,7 +70,7 @@ public Form(Stream srcStream)
 
 ## Form([Document](../../../aspose.pdf/document/)) {#constructor_3}
 
-Initializes new [`Form`](../../../aspose.pdf.forms/form/) object on base of the .
+Initializes new [`Form`](../../../aspose.pdf.forms/form/) object on base of the *document*.
 
 ```csharp
 public Form(Document document)
@@ -186,7 +186,7 @@ public Form(Stream srcStream, string destFileName)
 
 > **Deprecated.** Use constructor without destination.
 
-Initializes new [`Form`](../../../aspose.pdf.forms/form/) object on base of the .
+Initializes new [`Form`](../../../aspose.pdf.forms/form/) object on base of the *document*.
 
 ```csharp
 public Form(Document document, string destFileName)
@@ -209,7 +209,7 @@ public Form(Document document, string destFileName)
 
 > **Deprecated.** Use constructor without destination.
 
-Initializes new [`Form`](../../../aspose.pdf.forms/form/) object on base of the .
+Initializes new [`Form`](../../../aspose.pdf.forms/form/) object on base of the *document*.
 
 ```csharp
 public Form(Document document, Stream destStream)

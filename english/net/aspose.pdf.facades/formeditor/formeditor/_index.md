@@ -3,7 +3,7 @@ title: "FormEditor.FormEditor"
 linktitle: "FormEditor"
 articleTitle: "FormEditor"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FormEditor constructor. Initializes a new instance of the FormEditor class."
+description: "FormEditor constructor. Constructor for FormEditor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/formeditor/formeditor/"
@@ -27,7 +27,7 @@ public FormEditor()
 
 ## FormEditor([Document](../../../aspose.pdf/document/)) {#constructor_1}
 
-Initializes new [`FormEditor`](../../../aspose.pdf.lowcode/formeditor/) object on base of the .
+Initializes new [`FormEditor`](../../../aspose.pdf.lowcode/formeditor/) object on base of the *document*.
 
 ```csharp
 public FormEditor(Document document)
@@ -95,7 +95,7 @@ public FormEditor(string srcFileName, string destFileName)
 
 > **Deprecated.** Use constructor without destination.
 
-Initializes new [`FormEditor`](../../../aspose.pdf.lowcode/formeditor/) object on base of the .
+Initializes new [`FormEditor`](../../../aspose.pdf.lowcode/formeditor/) object on base of the *document*.
 
 ```csharp
 public FormEditor(Document document, string destFileName)
@@ -118,7 +118,7 @@ public FormEditor(Document document, string destFileName)
 
 > **Deprecated.** Use constructor without destination.
 
-Initializes new [`FormEditor`](../../../aspose.pdf.lowcode/formeditor/) object on base of the .
+Initializes new [`FormEditor`](../../../aspose.pdf.lowcode/formeditor/) object on base of the *document*.
 
 ```csharp
 public FormEditor(Document document, Stream destStream)

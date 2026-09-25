@@ -3,7 +3,7 @@ title: "ITaggedContent.CreateListLBodyElement"
 linktitle: "CreateListLBodyElement"
 articleTitle: "CreateListLBodyElement"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ITaggedContent method. Creates ."
+description: "ITaggedContent method. Creates ListLBodyElement."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.tagged/itaggedcontent/createlistlbodyelement/"

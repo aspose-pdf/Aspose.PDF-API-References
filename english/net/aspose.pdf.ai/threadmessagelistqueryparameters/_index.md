@@ -22,7 +22,7 @@ public class ThreadMessageListQueryParameters : BaseListQueryParameters, IQueryP
 
 | Name | Description |
 | --- | --- |
-| [ThreadMessageListQueryParameters](./threadmessagelistqueryparameters/#constructor) | Initializes a new instance of the ThreadMessageListQueryParameters class. |
+| [ThreadMessageListQueryParameters](./threadmessagelistqueryparameters/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -31,22 +31,10 @@ public class LlamaClient : AIClientBase, ILlamaClient, IAIClient
 
 | Name | Description |
 | --- | --- |
-| [AssertDisposed](../../aspose.pdf.ai/aiclientbase/assertdisposed/) | Asserts whether the object has been disposed. *(Inherited from AIClientBase)* |
 | [CreateCompletionAsync](./createcompletionasync/)(*LlamaChatCompletionRequest, Nullable<CancellationToken>*) | Creates a chat completion request in the Llama service. |
 | [CreateWithApiKey](./createwithapikey/)(*string*) | Creates a new instance of `Builder` with the provided API key. |
 | [Dispose](../../aspose.pdf.ai/aiclientbase/dispose/) | Disposes of the resources used by the [`AIClientBase`](../../aspose.pdf.ai/aiclientbase/). *(Inherited from AIClientBase)* |
-| [Dispose](../../aspose.pdf.ai/aiclientbase/dispose/)(*bool*) | Disposes of the resources used by the [`AIClientBase`](../../aspose.pdf.ai/aiclientbase/). *(Inherited from AIClientBase)* |
 | [GetSummaryCopilot](./getsummarycopilot/)(*ISummaryCopilotOptions<LlamaSummaryCopilotOptions>*) | Gets an instance of [`ISummaryCopilot`](../../aspose.pdf.ai/isummarycopilot/) with the specified options. |
-| [HandleRequestAsync](../../aspose.pdf.ai/aiclientbase/handlerequestasync/)(*Func<Task<T0>>, Func<string, string>, Nullable<CancellationToken>*) | Handles the asynchronous request with retries and backoff delay. *(Inherited from AIClientBase)* |
-| [PollForCompletionAsync](../../aspose.pdf.ai/aiclientbase/pollforcompletionasync/)(*Func<Task<IStatus>>, Nullable<CancellationToken>*) | Polls for completion asynchronously with a specified request delegate. *(Inherited from AIClientBase)* |
-| [PollForCompletionAsync](../../aspose.pdf.ai/aiclientbase/pollforcompletionasync/)(*Func<Task<T0>>, Func<T0, bool>, Nullable<CancellationToken>*) | Polls for completion asynchronously with a specified request delegate and completion check. *(Inherited from AIClientBase)* |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| [Disposed](../../aspose.pdf.ai/aiclientbase/disposed/) | *(Inherited from AIClientBase)* |
-| [HttpClient](../../aspose.pdf.ai/aiclientbase/httpclient/) | *(Inherited from AIClientBase)* |
 
 ### See Also
 

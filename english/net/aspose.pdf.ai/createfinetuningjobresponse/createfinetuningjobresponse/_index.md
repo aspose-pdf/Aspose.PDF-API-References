@@ -3,7 +3,7 @@ title: "CreateFineTuningJobResponse.CreateFineTuningJobResponse"
 linktitle: "CreateFineTuningJobResponse"
 articleTitle: "CreateFineTuningJobResponse"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CreateFineTuningJobResponse constructor. Initializes a new instance of the CreateFineTuningJobResponse class."
+description: "CreateFineTuningJobResponse constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/createfinetuningjobresponse/createfinetuningjobresponse/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## CreateFineTuningJobResponse() {#constructor}
 
-Initializes a new instance of the CreateFineTuningJobResponse class.
+The default constructor.
 
 ```csharp
 public CreateFineTuningJobResponse()

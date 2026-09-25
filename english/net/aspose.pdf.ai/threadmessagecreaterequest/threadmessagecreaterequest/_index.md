@@ -3,7 +3,7 @@ title: "ThreadMessageCreateRequest.ThreadMessageCreateRequest"
 linktitle: "ThreadMessageCreateRequest"
 articleTitle: "ThreadMessageCreateRequest"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ThreadMessageCreateRequest constructor. Initializes a new instance of the ThreadMessageCreateRequest class."
+description: "ThreadMessageCreateRequest constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/threadmessagecreaterequest/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## ThreadMessageCreateRequest() {#constructor}
 
-Initializes a new instance of the ThreadMessageCreateRequest class.
+The default constructor.
 
 ```csharp
 public ThreadMessageCreateRequest()

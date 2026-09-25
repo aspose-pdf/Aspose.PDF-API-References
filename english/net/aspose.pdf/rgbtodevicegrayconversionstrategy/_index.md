@@ -22,7 +22,7 @@ public class RgbToDeviceGrayConversionStrategy : IColorSpaceConversionStrategy
 
 | Name | Description |
 | --- | --- |
-| [RgbToDeviceGrayConversionStrategy](./rgbtodevicegrayconversionstrategy/#constructor) | Initializes a new instance of the RgbToDeviceGrayConversionStrategy class. |
+| [RgbToDeviceGrayConversionStrategy](./rgbtodevicegrayconversionstrategy/#constructor) | The default constructor. |
 
 ## Methods
 

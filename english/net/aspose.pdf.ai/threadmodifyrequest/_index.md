@@ -22,7 +22,7 @@ public class ThreadModifyRequest
 
 | Name | Description |
 | --- | --- |
-| [ThreadModifyRequest](./threadmodifyrequest/#constructor) | Initializes a new instance of the ThreadModifyRequest class. |
+| [ThreadModifyRequest](./threadmodifyrequest/#constructor) | The default constructor. |
 
 ## Properties
 

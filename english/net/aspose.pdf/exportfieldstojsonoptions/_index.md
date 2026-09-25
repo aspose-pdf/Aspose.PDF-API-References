@@ -22,7 +22,7 @@ public class ExportFieldsToJsonOptions : ExportFieldsOptions
 
 | Name | Description |
 | --- | --- |
-| [ExportFieldsToJsonOptions](./exportfieldstojsonoptions/#constructor) | Initializes a new instance of the ExportFieldsToJsonOptions class. |
+| [ExportFieldsToJsonOptions](./exportfieldstojsonoptions/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -5,7 +5,7 @@ articleTitle: "Width"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Stamp property. Desired width of the stamp on the page."
 type: docs
-weight: 230
+weight: 180
 url: "/net/aspose.pdf/stamp/width/"
 product_version: "26.9.0"
 ---

@@ -22,7 +22,7 @@ public sealed class Left : HeaderFooterData
 
 | Name | Description |
 | --- | --- |
-| [Left](./left/#constructor) | Initializes a new instance of the Left class. |
+| [Left](./left/#constructor) | The default constructor. |
 
 ## Properties
 

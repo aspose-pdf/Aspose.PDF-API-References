@@ -22,7 +22,7 @@ public interface INamedDestinationCollection
 | Name | Description |
 | --- | --- |
 | [Count](./count/) { get; } | Returns count of the destinations. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets or sets destination by its name. |
 | [Names](./names/) { get; } | Gets array of names of the destinations. |
 
 ## Methods

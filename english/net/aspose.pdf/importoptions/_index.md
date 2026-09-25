@@ -18,12 +18,6 @@ ImportOptions type hold level of abstraction on individual import options.
 public abstract class ImportOptions
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [ImportOptions](./importoptions/#constructor)(*[ImportFormat](../../aspose.pdf/importformat/)*) | Constructor. |
-
 ## Properties
 
 | Name | Description |

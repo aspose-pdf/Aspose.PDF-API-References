@@ -3,7 +3,7 @@ title: "SetDash.SetDash"
 linktitle: "SetDash"
 articleTitle: "SetDash"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SetDash constructor. Initializes a new instance of the SetDash class."
+description: "SetDash constructor. Creates set dash pattern operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setdash/setdash/"

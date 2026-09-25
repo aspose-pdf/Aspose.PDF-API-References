@@ -3,7 +3,7 @@ title: "SetCharWidth.SetCharWidth"
 linktitle: "SetCharWidth"
 articleTitle: "SetCharWidth"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SetCharWidth constructor. Initializes a new instance of the SetCharWidth class."
+description: "SetCharWidth constructor. Constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setcharwidth/setcharwidth/"

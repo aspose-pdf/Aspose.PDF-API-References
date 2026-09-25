@@ -5,7 +5,7 @@ articleTitle: "Value"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "XmpPdfAExtensionObject property. Gets or sets the value."
 type: docs
-weight: 40
+weight: 30
 url: "/net/aspose.pdf/xmppdfaextensionobject/value/"
 product_version: "26.9.0"
 ---

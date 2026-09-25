@@ -22,7 +22,7 @@ public class HorizontalAlignment
 
 | Name | Description |
 | --- | --- |
-| [HeaderFooterSettings.HorizontalAlignment](./horizontalalignment/#constructor) | Initializes a new instance of the HeaderFooterSettings.HorizontalAlignment class. |
+| [HeaderFooterSettings.HorizontalAlignment](./horizontalalignment/#constructor) | The default constructor. |
 
 ## Properties
 

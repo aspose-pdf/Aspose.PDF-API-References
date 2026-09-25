@@ -22,7 +22,7 @@ public sealed class PsLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [PsLoadOptions](./psloadoptions/#constructor) | Initializes a new instance of the PsLoadOptions class. |
+| [PsLoadOptions](./psloadoptions/#constructor) | The default constructor. |
 
 ## Properties
 

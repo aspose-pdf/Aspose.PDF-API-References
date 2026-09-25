@@ -3,7 +3,7 @@ title: "Aspose.Pdf.Comparison"
 linktitle: "Aspose.Pdf.Comparison"
 articleTitle: "Aspose.Pdf.Comparison"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The **Aspose.Pdf.Comparison** namespace provides classes."
+description: "The Aspose.Pdf.Comparison namespace provides classes."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/"

@@ -21,7 +21,7 @@ public void Sign(Signature signature, Stream pfx, string pass)
 | --- | --- | --- |
 | signature | Signature | Signature object, see <see cref="T:Aspose.Pdf.Forms.PKCS1" />, <see cref="T:Aspose.Pdf.Forms.PKCS7" />, <see cref="T:Aspose.Pdf.Forms.PKCS7Detached" />. |
 | pfx | Stream | Stream with certificate. |
-| pass | string | Password to access private in the . |
+| pass | string | Password to access private in the *pfx*. |
 
 ### See Also
 

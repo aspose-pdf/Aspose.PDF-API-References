@@ -28,7 +28,7 @@ public class DataResponse<T><T> : BaseResponse
 
 | Name | Description |
 | --- | --- |
-| [DataResponse<T>](./dataresponse/#constructor) | Initializes a new instance of the DataResponse class. |
+| [DataResponse<T>](./dataresponse/#constructor) | The default constructor. |
 
 ## Properties
 

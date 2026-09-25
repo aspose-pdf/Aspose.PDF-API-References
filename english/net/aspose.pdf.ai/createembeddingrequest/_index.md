@@ -22,7 +22,7 @@ public class CreateEmbeddingRequest
 
 | Name | Description |
 | --- | --- |
-| [CreateEmbeddingRequest](./createembeddingrequest/#constructor) | Initializes a new instance of the CreateEmbeddingRequest class. |
+| [CreateEmbeddingRequest](./createembeddingrequest/#constructor) | The default constructor. |
 
 ## Properties
 

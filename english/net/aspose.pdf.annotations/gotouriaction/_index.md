@@ -28,7 +28,6 @@ public sealed class GoToURIAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [IsInitialized](../../aspose.pdf.annotations/pdfaction/isinitialized/) { get; } | Indicates whether the action has been initialized. *(Inherited from PdfAction)* |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. *(Inherited from PdfAction)* |
 | [URI](./uri/) { get; set; } | Gets or sets the uniform resource identifier to resolve. |
 

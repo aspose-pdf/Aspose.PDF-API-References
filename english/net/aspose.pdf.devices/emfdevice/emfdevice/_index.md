@@ -3,7 +3,7 @@ title: "EmfDevice.EmfDevice"
 linktitle: "EmfDevice"
 articleTitle: "EmfDevice"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "EmfDevice constructor. Initializes a new instance of the EmfDevice class."
+description: "EmfDevice constructor. Initializes a new instance of the EmfDevice class with default resolution of raster image written to emf."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.devices/emfdevice/emfdevice/"

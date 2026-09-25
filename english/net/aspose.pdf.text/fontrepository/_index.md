@@ -23,7 +23,7 @@ public sealed class FontRepository
 
 | Name | Description |
 | --- | --- |
-| [FontRepository](./fontrepository/#constructor) | Initializes a new instance of the FontRepository class. |
+| [FontRepository](./fontrepository/#constructor) | The default constructor. |
 
 ## Properties
 

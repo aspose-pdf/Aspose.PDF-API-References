@@ -18,12 +18,6 @@ SaveOptions type hold level of abstraction on individual save options
 public abstract class SaveOptions
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [SaveOptions](./saveoptions/#constructor) | Initializes a new instance of the SaveOptions class. |
-
 ## Properties
 
 | Name | Description |

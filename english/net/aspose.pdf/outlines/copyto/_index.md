@@ -5,7 +5,7 @@ articleTitle: "CopyTo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Outlines method. Copies the outline entries to an System.Array, starting at a particular System.Array index."
 type: docs
-weight: 50
+weight: 40
 url: "/net/aspose.pdf/outlines/copyto/"
 product_version: "26.9.0"
 ---

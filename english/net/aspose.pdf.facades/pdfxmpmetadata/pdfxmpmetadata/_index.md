@@ -3,7 +3,7 @@ title: "PdfXmpMetadata.PdfXmpMetadata"
 linktitle: "PdfXmpMetadata"
 articleTitle: "PdfXmpMetadata"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfXmpMetadata constructor. Initializes a new instance of the PdfXmpMetadata class."
+description: "PdfXmpMetadata constructor. Constructor for PdfXmpMetadata."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/pdfxmpmetadata/"
@@ -27,7 +27,7 @@ public PdfXmpMetadata()
 
 ## PdfXmpMetadata([Document](../../../aspose.pdf/document/)) {#constructor_1}
 
-Initializes new [`PdfXmpMetadata`](../../../aspose.pdf.facades/pdfxmpmetadata/) object on base of the .
+Initializes new [`PdfXmpMetadata`](../../../aspose.pdf.facades/pdfxmpmetadata/) object on base of the *document*.
 
 ```csharp
 public PdfXmpMetadata(Document document)

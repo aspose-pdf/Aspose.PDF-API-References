@@ -22,7 +22,7 @@ public sealed class GraphInfo : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [GraphInfo](./graphinfo/#constructor) | Initializes a new instance of the GraphInfo class. |
+| [GraphInfo](./graphinfo/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -3,7 +3,7 @@ title: "HiddenDataSanitizationOptions.HiddenDataSanitizationOptions"
 linktitle: "HiddenDataSanitizationOptions"
 articleTitle: "HiddenDataSanitizationOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "HiddenDataSanitizationOptions constructor. Initializes a new instance of the HiddenDataSanitizationOptions class."
+description: "HiddenDataSanitizationOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/hiddendatasanitizationoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## HiddenDataSanitizationOptions() {#constructor}
 
-Initializes a new instance of the HiddenDataSanitizationOptions class.
+The default constructor.
 
 ```csharp
 public HiddenDataSanitizationOptions()

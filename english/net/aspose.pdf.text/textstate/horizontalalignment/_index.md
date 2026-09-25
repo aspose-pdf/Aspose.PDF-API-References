@@ -5,7 +5,7 @@ articleTitle: "HorizontalAlignment"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "TextState property. Gets or sets horizontal alignment for the text."
 type: docs
-weight: 460
+weight: 280
 url: "/net/aspose.pdf.text/textstate/horizontalalignment/"
 product_version: "26.9.0"
 ---

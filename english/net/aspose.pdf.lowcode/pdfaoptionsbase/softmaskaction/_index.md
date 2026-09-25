@@ -5,7 +5,7 @@ articleTitle: "SoftMaskAction"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfAOptionsBase property. Gets or sets the action to be taken during the conversion of images with soft masks."
 type: docs
-weight: 80
+weight: 70
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/softmaskaction/"
 product_version: "26.9.0"
 ---

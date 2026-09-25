@@ -37,14 +37,6 @@ public abstract class FormattedFragment : BaseParagraph
 | Name | Description |
 | --- | --- |
 | [Clone](../../aspose.pdf/baseparagraph/clone/) | Clones this instance. *(Inherited from BaseParagraph)* |
-| [CopyFields](./copyfields/)(*FormattedFragment*) | Copy fields to fragment. |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| [rectangle](./rectangle/) | Rectangle value. |
-| [text](./text/) | Text value. |
 
 ### See Also
 

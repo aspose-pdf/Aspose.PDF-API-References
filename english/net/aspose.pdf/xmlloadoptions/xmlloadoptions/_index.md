@@ -3,7 +3,7 @@ title: "XmlLoadOptions.XmlLoadOptions"
 linktitle: "XmlLoadOptions"
 articleTitle: "XmlLoadOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "XmlLoadOptions constructor. Initializes a new instance of the XmlLoadOptions class."
+description: "XmlLoadOptions constructor. Creates XmlLoadOptions object without xsl data."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xmlloadoptions/xmlloadoptions/"

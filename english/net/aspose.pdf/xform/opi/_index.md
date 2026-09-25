@@ -5,7 +5,7 @@ articleTitle: "Opi"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "XForm property. Gets The Open Prepress Interface (OPI)."
 type: docs
-weight: 120
+weight: 110
 url: "/net/aspose.pdf/xform/opi/"
 product_version: "26.9.0"
 ---

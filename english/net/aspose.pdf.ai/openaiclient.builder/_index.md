@@ -3,7 +3,7 @@ title: "OpenAIClient.Builder Class"
 linktitle: "OpenAIClient.Builder"
 articleTitle: "OpenAIClient.Builder"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.AI.OpenAIClient.Builder class. Builder class for creating an instance of ."
+description: "Aspose.Pdf.AI.OpenAIClient.Builder class. Builder class for creating an instance of OpenAIClient."
 type: docs
 weight: 910
 url: "/net/aspose.pdf.ai/openaiclient.builder/"

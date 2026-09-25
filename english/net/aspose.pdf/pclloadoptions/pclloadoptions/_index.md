@@ -3,7 +3,7 @@ title: "PclLoadOptions.PclLoadOptions"
 linktitle: "PclLoadOptions"
 articleTitle: "PclLoadOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PclLoadOptions constructor. Initializes a new instance of the PclLoadOptions class."
+description: "PclLoadOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pclloadoptions/pclloadoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## PclLoadOptions() {#constructor}
 
-Initializes a new instance of the PclLoadOptions class.
+The default constructor.
 
 ```csharp
 public PclLoadOptions()

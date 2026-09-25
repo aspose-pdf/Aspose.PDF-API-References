@@ -3,7 +3,7 @@ title: "CosPdfDictionary.IsReadOnly"
 linktitle: "IsReadOnly"
 articleTitle: "IsReadOnly"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CosPdfDictionary property. Gets a value indicating whether the is read-only."
+description: "CosPdfDictionary property. Gets a value indicating whether the CosPdfDictionary is read-only."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/isreadonly/"

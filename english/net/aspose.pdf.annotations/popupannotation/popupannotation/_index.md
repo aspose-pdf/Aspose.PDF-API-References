@@ -3,7 +3,7 @@ title: "PopupAnnotation.PopupAnnotation"
 linktitle: "PopupAnnotation"
 articleTitle: "PopupAnnotation"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PopupAnnotation constructor. Initializes a new instance of the PopupAnnotation class."
+description: "PopupAnnotation constructor. Constructor. for using in Generator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/popupannotation/popupannotation/"

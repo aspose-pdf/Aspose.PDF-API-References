@@ -22,7 +22,7 @@ public class OutputTextStyle
 
 | Name | Description |
 | --- | --- |
-| [OutputTextStyle](./outputtextstyle/#constructor) | Initializes a new instance of the OutputTextStyle class. |
+| [OutputTextStyle](./outputtextstyle/#constructor) | The default constructor. |
 
 ## Properties
 

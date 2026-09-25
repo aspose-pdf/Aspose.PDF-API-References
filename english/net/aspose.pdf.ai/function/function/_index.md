@@ -3,7 +3,7 @@ title: "Function.Function"
 linktitle: "Function"
 articleTitle: "Function"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Function constructor. Initializes a new instance of the Function class."
+description: "Function constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/function/function/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## Function() {#constructor}
 
-Initializes a new instance of the Function class.
+The default constructor.
 
 ```csharp
 public Function()

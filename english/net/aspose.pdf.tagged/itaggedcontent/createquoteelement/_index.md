@@ -3,7 +3,7 @@ title: "ITaggedContent.CreateQuoteElement"
 linktitle: "CreateQuoteElement"
 articleTitle: "CreateQuoteElement"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ITaggedContent method. Creates ."
+description: "ITaggedContent method. Creates QuoteElement."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.tagged/itaggedcontent/createquoteelement/"

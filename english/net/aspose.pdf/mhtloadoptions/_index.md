@@ -22,7 +22,7 @@ public sealed class MhtLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [MhtLoadOptions](./mhtloadoptions/#constructor) | Initializes a new instance of the MhtLoadOptions class. |
+| [MhtLoadOptions](./mhtloadoptions/#constructor) | The default constructor. |
 
 ## Properties
 

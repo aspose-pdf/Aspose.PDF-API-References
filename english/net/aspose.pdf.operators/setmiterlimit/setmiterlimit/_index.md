@@ -3,7 +3,7 @@ title: "SetMiterLimit.SetMiterLimit"
 linktitle: "SetMiterLimit"
 articleTitle: "SetMiterLimit"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SetMiterLimit constructor. Initializes a new instance of the SetMiterLimit class."
+description: "SetMiterLimit constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setmiterlimit/setmiterlimit/"

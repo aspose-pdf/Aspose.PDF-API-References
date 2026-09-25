@@ -3,7 +3,7 @@ title: "Dash.Dash"
 linktitle: "Dash"
 articleTitle: "Dash"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Dash constructor. Initializes a new instance of the Dash class."
+description: "Dash constructor. Constructor for Dash. Defines dashed border with specified dash and gap, which are unchanged for the entire dashed border."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/dash/dash/"

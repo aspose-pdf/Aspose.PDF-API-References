@@ -25,13 +25,13 @@ public sealed class Form : SaveableFacade
 | [Form](./form/#constructor) | Construtcor of Form without parameters. |
 | [Form](./form/#constructor_1)(*string*) | Constructor of Form. |
 | [Form](./form/#constructor_2)(*Stream*) | Constructor for form. |
-| [Form](./form/#constructor_3)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`Form`](../../aspose.pdf.forms/form/) object on base of the . |
+| [Form](./form/#constructor_3)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`Form`](../../aspose.pdf.forms/form/) object on base of the *document*. |
 | [Form](./form/#constructor_4)(*Stream, Stream*) | Constructor of Form with two stream parameters. |
 | [Form](./form/#constructor_5)(*string, string*) | Constructor of Form class. |
 | [Form](./form/#constructor_6)(*string, Stream*) | Constructor of Form. |
 | [Form](./form/#constructor_7)(*Stream, string*) | Constructor of Form. |
-| [Form](./form/#constructor_8)(*[Document](../../aspose.pdf/document/), string*) | Initializes new [`Form`](../../aspose.pdf.forms/form/) object on base of the . |
-| [Form](./form/#constructor_9)(*[Document](../../aspose.pdf/document/), Stream*) | Initializes new [`Form`](../../aspose.pdf.forms/form/) object on base of the . |
+| [Form](./form/#constructor_8)(*[Document](../../aspose.pdf/document/), string*) | Initializes new [`Form`](../../aspose.pdf.forms/form/) object on base of the *document*. |
+| [Form](./form/#constructor_9)(*[Document](../../aspose.pdf/document/), Stream*) | Initializes new [`Form`](../../aspose.pdf.forms/form/) object on base of the *document*. |
 
 ## Properties
 
@@ -51,11 +51,7 @@ public sealed class Form : SaveableFacade
 
 | Name | Description |
 | --- | --- |
-| [AssertDocument](../../aspose.pdf.facades/facade/assertdocument/) | Asserts if the facade is initialized. *(Inherited from Facade)* |
 | [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](./bindpdf/)(*Stream, string*) |  |
-| [BindPdf](./bindpdf/)(*string, string*) |  |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. *(Inherited from Facade)* |
 | [Close](./close/) | Closes opened files without any changes. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose/) | Disposes the facade. *(Inherited from Facade)* |
 | [ExportFdf](./exportfdf/)(*Stream*) | Exports the content of the fields of the pdf into the fdf stream. |

@@ -3,7 +3,7 @@ title: "MessageCreation.MessageCreation"
 linktitle: "MessageCreation"
 articleTitle: "MessageCreation"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "MessageCreation constructor. Initializes a new instance of the MessageCreation class."
+description: "MessageCreation constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/messagecreation/messagecreation/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## MessageCreation() {#constructor}
 
-Initializes a new instance of the MessageCreation class.
+The default constructor.
 
 ```csharp
 public MessageCreation()

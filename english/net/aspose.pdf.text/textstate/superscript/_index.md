@@ -5,7 +5,7 @@ articleTitle: "Superscript"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "TextState property. Gets or sets superscript of the text."
 type: docs
-weight: 340
+weight: 160
 url: "/net/aspose.pdf.text/textstate/superscript/"
 product_version: "26.9.0"
 ---

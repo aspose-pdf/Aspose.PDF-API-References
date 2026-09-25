@@ -3,7 +3,7 @@ title: "PdfFileEditor.ContentsResizeParameters.PdfFileEditor.ContentsResizeParam
 linktitle: "PdfFileEditor.ContentsResizeParameters"
 articleTitle: "PdfFileEditor.ContentsResizeParameters"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ContentsResizeParameters constructor. Initializes a new instance of the PdfFileEditor.ContentsResizeParameters class."
+description: "ContentsResizeParameters constructor. Creates resize parameters where al values are set to \"auto\". Later margins and contents size may be specified if required."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsresizeparameters/"

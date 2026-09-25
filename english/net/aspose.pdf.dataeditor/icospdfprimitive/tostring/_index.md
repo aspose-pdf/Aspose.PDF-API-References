@@ -3,7 +3,7 @@ title: "ICosPdfPrimitive.ToString"
 linktitle: "ToString"
 articleTitle: "ToString"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ICosPdfPrimitive method. representation of instance ."
+description: "ICosPdfPrimitive method. String representation of instance ICosPdfPrimitive."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.dataeditor/icospdfprimitive/tostring/"

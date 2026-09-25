@@ -22,7 +22,7 @@ public class ResponseFormat
 
 | Name | Description |
 | --- | --- |
-| [ResponseFormat](./responseformat/#constructor) | Initializes a new instance of the ResponseFormat class. |
+| [ResponseFormat](./responseformat/#constructor) | The default constructor. |
 
 ## Properties
 

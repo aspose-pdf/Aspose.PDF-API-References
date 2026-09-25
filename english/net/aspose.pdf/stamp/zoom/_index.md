@@ -5,7 +5,7 @@ articleTitle: "Zoom"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Stamp property. Zooming factor of the stamp. Allows to scale stamp. Please note that pair of properties ZoomX and ZoomY allows to set zoom factor for every a..."
 type: docs
-weight: 260
+weight: 210
 url: "/net/aspose.pdf/stamp/zoom/"
 product_version: "26.9.0"
 ---

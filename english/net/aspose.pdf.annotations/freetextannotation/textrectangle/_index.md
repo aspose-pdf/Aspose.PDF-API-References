@@ -5,7 +5,7 @@ articleTitle: "TextRectangle"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FreeTextAnnotation property. Rectangle describing the numerical differences between two rectangles: the Rect entry of the annotation and a rectangle containe..."
 type: docs
-weight: 200
+weight: 170
 url: "/net/aspose.pdf.annotations/freetextannotation/textrectangle/"
 product_version: "26.9.0"
 ---

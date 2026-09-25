@@ -25,7 +25,7 @@ public int IndexOf(T0 item)
 
 int
 
-The zero-based index of the first occurrence of item within the entire System.Collections.Generic.List, if found; otherwise, –1.
+The zero-based index of the first occurrence of *item*item within the entire System.Collections.Generic.List, if found; otherwise, –1.
 
 ### See Also
 

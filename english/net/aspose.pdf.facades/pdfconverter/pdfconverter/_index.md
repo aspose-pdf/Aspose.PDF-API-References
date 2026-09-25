@@ -3,7 +3,7 @@ title: "PdfConverter.PdfConverter"
 linktitle: "PdfConverter"
 articleTitle: "PdfConverter"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfConverter constructor. Initializes a new instance of the PdfConverter class."
+description: "PdfConverter constructor. Initializes new PdfConverter object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfconverter/pdfconverter/"
@@ -27,7 +27,7 @@ public PdfConverter()
 
 ## PdfConverter([Document](../../../aspose.pdf/document/)) {#constructor_1}
 
-Initializes new [`PdfConverter`](../../../aspose.pdf.facades/pdfconverter/) object on base of the .
+Initializes new [`PdfConverter`](../../../aspose.pdf.facades/pdfconverter/) object on base of the *document*.
 
 ```csharp
 public PdfConverter(Document document)

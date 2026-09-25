@@ -3,7 +3,7 @@ title: "PrintController.PrintController"
 linktitle: "PrintController"
 articleTitle: "PrintController"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PrintController constructor. Initializes a new instance of the PrintController class."
+description: "PrintController constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/printcontroller/printcontroller/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## PrintController() {#constructor}
 
-Initializes a new instance of the PrintController class.
+The default constructor.
 
 ```csharp
 public PrintController()

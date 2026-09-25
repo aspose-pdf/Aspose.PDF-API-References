@@ -3,7 +3,7 @@ title: "SetTextMatrix.SetTextMatrix"
 linktitle: "SetTextMatrix"
 articleTitle: "SetTextMatrix"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SetTextMatrix constructor. Initializes a new instance of the SetTextMatrix class."
+description: "SetTextMatrix constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/settextmatrix/settextmatrix/"

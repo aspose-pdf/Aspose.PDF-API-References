@@ -5,7 +5,7 @@ articleTitle: "Document"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Facade property. Gets the document facade is working on."
 type: docs
-weight: 130
+weight: 60
 url: "/net/aspose.pdf.facades/facade/document/"
 product_version: "26.9.0"
 ---

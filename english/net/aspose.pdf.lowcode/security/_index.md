@@ -3,7 +3,7 @@ title: "Security Class"
 linktitle: "Security"
 articleTitle: "Security"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.Security class. Represents plugin."
+description: "Aspose.Pdf.LowCode.Security class. Represents Security plugin."
 type: docs
 weight: 820
 url: "/net/aspose.pdf.lowcode/security/"
@@ -22,7 +22,7 @@ public sealed class Security : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [Security](./security/#constructor) | Initializes a new instance of the Security class. |
+| [Security](./security/#constructor) | The default constructor. |
 
 ## Methods
 

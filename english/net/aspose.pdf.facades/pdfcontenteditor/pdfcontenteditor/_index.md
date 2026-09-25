@@ -3,7 +3,7 @@ title: "PdfContentEditor.PdfContentEditor"
 linktitle: "PdfContentEditor"
 articleTitle: "PdfContentEditor"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfContentEditor constructor. Initializes a new instance of the PdfContentEditor class."
+description: "PdfContentEditor constructor. The constructor of the PdfContentEditor object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfcontenteditor/pdfcontenteditor/"
@@ -27,7 +27,7 @@ public PdfContentEditor()
 
 ## PdfContentEditor([Document](../../../aspose.pdf/document/)) {#constructor_1}
 
-Initializes new [`PdfContentEditor`](../../../aspose.pdf.facades/pdfcontenteditor/) object on base of the .
+Initializes new [`PdfContentEditor`](../../../aspose.pdf.facades/pdfcontenteditor/) object on base of the *document*.
 
 ```csharp
 public PdfContentEditor(Document document)

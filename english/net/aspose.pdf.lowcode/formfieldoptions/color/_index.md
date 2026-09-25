@@ -5,7 +5,7 @@ articleTitle: "Color"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormFieldOptions property. Gets/sets the value to determine property Color for created/modified field (if will be set)."
 type: docs
-weight: 70
+weight: 60
 url: "/net/aspose.pdf.lowcode/formfieldoptions/color/"
 product_version: "26.9.0"
 ---

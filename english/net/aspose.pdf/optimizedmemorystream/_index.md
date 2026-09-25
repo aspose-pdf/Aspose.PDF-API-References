@@ -43,7 +43,6 @@ public class OptimizedMemoryStream : Stream
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/)(*bool*) | Releases the unmanaged resources used by the `Stream` and optionally releases the managed resources. |
 | [Flush](./flush/) | The function overrided. |
 | [Read](./read/)(*byte[], int, int*) | When overridden in a derived class, reads a sequence of bytes from the current stream and advances the position within the stream by the number of bytes read. |
 | [ReadByte](./readbyte/) | Reads a byte from the stream and advances the position within the stream by one byte, or returns -1 if at the end of the stream. |

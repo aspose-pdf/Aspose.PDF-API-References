@@ -3,7 +3,7 @@ title: "FileContentResponse<T>.FileContentResponse<T>"
 linktitle: "FileContentResponse<T>"
 articleTitle: "FileContentResponse<T>"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FileContentResponse constructor. Initializes a new instance of the FileContentResponse class."
+description: "FileContentResponse constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/filecontentresponse-1/filecontentresponse/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## FileContentResponse<T>() {#constructor}
 
-Initializes a new instance of the FileContentResponse class.
+The default constructor.
 
 ```csharp
 public FileContentResponse<T>()

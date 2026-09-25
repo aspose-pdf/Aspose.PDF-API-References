@@ -168,7 +168,7 @@ public sealed class AutoFiller : ISaveableFacade, IFacade, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [AutoFiller](./autofiller/#constructor) | Initializes a new instance of the AutoFiller class. |
+| [AutoFiller](./autofiller/#constructor) | The default constructor. |
 
 ## Properties
 

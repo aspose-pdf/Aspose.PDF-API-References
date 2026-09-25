@@ -3,7 +3,7 @@ title: "Document.RepairOptions.Document.RepairOptions"
 linktitle: "Document.RepairOptions"
 articleTitle: "Document.RepairOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "RepairOptions constructor. Initializes a new instance of the Document.RepairOptions class."
+description: "RepairOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/document.repairoptions/repairoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## Document.RepairOptions() {#constructor}
 
-Initializes a new instance of the Document.RepairOptions class.
+The default constructor.
 
 ```csharp
 public Document.RepairOptions()

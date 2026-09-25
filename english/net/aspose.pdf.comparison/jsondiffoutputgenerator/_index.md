@@ -22,7 +22,7 @@ public class JsonDiffOutputGenerator : IStringOutputGenerator, IFileOutputGenera
 
 | Name | Description |
 | --- | --- |
-| [JsonDiffOutputGenerator](./jsondiffoutputgenerator/#constructor) | Initializes a new instance of the JsonDiffOutputGenerator class. |
+| [JsonDiffOutputGenerator](./jsondiffoutputgenerator/#constructor) | The default constructor. |
 
 ## Methods
 

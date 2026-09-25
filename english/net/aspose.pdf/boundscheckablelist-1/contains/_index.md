@@ -25,7 +25,7 @@ public bool Contains(T0 item)
 
 bool
 
-true if item is found in the System.Collections.Generic.List; otherwise, false.
+true if *item*item is found in the System.Collections.Generic.List; otherwise, false.
 
 ### See Also
 

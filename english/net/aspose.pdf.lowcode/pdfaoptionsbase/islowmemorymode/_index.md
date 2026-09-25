@@ -5,7 +5,7 @@ articleTitle: "IsLowMemoryMode"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfAOptionsBase property. Gets or sets a value indicating whether the low memory mode is enabled during the PDF/A conversion process."
 type: docs
-weight: 50
+weight: 40
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/islowmemorymode/"
 product_version: "26.9.0"
 ---

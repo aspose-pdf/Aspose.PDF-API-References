@@ -22,7 +22,7 @@ public sealed class RepairOptions
 
 | Name | Description |
 | --- | --- |
-| [Document.RepairOptions](./repairoptions/#constructor) | Initializes a new instance of the Document.RepairOptions class. |
+| [Document.RepairOptions](./repairoptions/#constructor) | The default constructor. |
 
 ## Properties
 

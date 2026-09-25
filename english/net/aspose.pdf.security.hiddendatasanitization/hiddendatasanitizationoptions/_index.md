@@ -22,7 +22,7 @@ public sealed class HiddenDataSanitizationOptions
 
 | Name | Description |
 | --- | --- |
-| [HiddenDataSanitizationOptions](./hiddendatasanitizationoptions/#constructor) | Initializes a new instance of the HiddenDataSanitizationOptions class. |
+| [HiddenDataSanitizationOptions](./hiddendatasanitizationoptions/#constructor) | The default constructor. |
 
 ## Properties
 

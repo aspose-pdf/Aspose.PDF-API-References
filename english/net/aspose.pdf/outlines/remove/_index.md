@@ -5,7 +5,7 @@ articleTitle: "Remove"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Outlines method. Remove outline collection item."
 type: docs
-weight: 70
+weight: 60
 url: "/net/aspose.pdf/outlines/remove/"
 product_version: "26.9.0"
 ---

@@ -22,7 +22,7 @@ public class RequiredAction
 
 | Name | Description |
 | --- | --- |
-| [RequiredAction](./requiredaction/#constructor) | Initializes a new instance of the RequiredAction class. |
+| [RequiredAction](./requiredaction/#constructor) | The default constructor. |
 
 ## Properties
 

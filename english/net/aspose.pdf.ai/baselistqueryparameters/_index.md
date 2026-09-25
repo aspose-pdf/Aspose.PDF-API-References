@@ -22,7 +22,7 @@ public class BaseListQueryParameters
 
 | Name | Description |
 | --- | --- |
-| [BaseListQueryParameters](./baselistqueryparameters/#constructor) | Initializes a new instance of the BaseListQueryParameters class. |
+| [BaseListQueryParameters](./baselistqueryparameters/#constructor) | The default constructor. |
 
 ## Properties
 

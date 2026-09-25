@@ -22,7 +22,7 @@ public class ComparisonOptions
 
 | Name | Description |
 | --- | --- |
-| [ComparisonOptions](./comparisonoptions/#constructor) | Initializes a new instance of the ComparisonOptions class. |
+| [ComparisonOptions](./comparisonoptions/#constructor) | The default constructor. |
 
 ## Properties
 

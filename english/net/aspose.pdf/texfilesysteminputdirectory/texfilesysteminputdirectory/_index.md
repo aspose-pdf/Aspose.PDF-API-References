@@ -3,7 +3,7 @@ title: "TeXFileSystemInputDirectory.TeXFileSystemInputDirectory"
 linktitle: "TeXFileSystemInputDirectory"
 articleTitle: "TeXFileSystemInputDirectory"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TeXFileSystemInputDirectory constructor. Initializes a new instance of the TeXFileSystemInputDirectory class."
+description: "TeXFileSystemInputDirectory constructor. Creates new instance."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/texfilesysteminputdirectory/texfilesysteminputdirectory/"

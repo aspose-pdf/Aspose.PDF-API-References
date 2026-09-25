@@ -3,7 +3,7 @@ title: "TextSegment.TextSegment"
 linktitle: "TextSegment"
 articleTitle: "TextSegment"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextSegment constructor. Initializes a new instance of the TextSegment class."
+description: "TextSegment constructor. Creates TextSegment object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textsegment/textsegment/"

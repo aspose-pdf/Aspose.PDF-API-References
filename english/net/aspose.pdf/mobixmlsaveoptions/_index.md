@@ -22,7 +22,7 @@ public class MobiXmlSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [MobiXmlSaveOptions](./mobixmlsaveoptions/#constructor) | Initializes a new instance of the MobiXmlSaveOptions class. |
+| [MobiXmlSaveOptions](./mobixmlsaveoptions/#constructor) | The default constructor. |
 
 ## Properties
 

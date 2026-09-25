@@ -22,7 +22,7 @@ public class VectorStoreFileBatchFileListQueryParameters : BaseListQueryParamete
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreFileBatchFileListQueryParameters](./vectorstorefilebatchfilelistqueryparameters/#constructor) | Initializes a new instance of the VectorStoreFileBatchFileListQueryParameters class. |
+| [VectorStoreFileBatchFileListQueryParameters](./vectorstorefilebatchfilelistqueryparameters/#constructor) | The default constructor. |
 
 ## Properties
 

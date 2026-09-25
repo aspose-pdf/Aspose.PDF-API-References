@@ -23,7 +23,7 @@ public class PdfActionCollection : IEnumerable
 | Name | Description |
 | --- | --- |
 | [Count](./count/) { get; } | Gets count of actions. |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets action by its index. |
 
 ## Methods
 

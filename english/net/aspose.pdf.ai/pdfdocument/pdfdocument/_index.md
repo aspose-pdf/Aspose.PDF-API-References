@@ -3,7 +3,7 @@ title: "PdfDocument.PdfDocument"
 linktitle: "PdfDocument"
 articleTitle: "PdfDocument"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfDocument constructor. Initializes a new instance of the PdfDocument class."
+description: "PdfDocument constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/pdfdocument/pdfdocument/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## PdfDocument() {#constructor}
 
-Initializes a new instance of the PdfDocument class.
+The default constructor.
 
 ```csharp
 public PdfDocument()

@@ -28,7 +28,7 @@ public class FileContentResponse<T><T> : BaseResponse
 
 | Name | Description |
 | --- | --- |
-| [FileContentResponse<T>](./filecontentresponse/#constructor) | Initializes a new instance of the FileContentResponse class. |
+| [FileContentResponse<T>](./filecontentresponse/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -3,7 +3,7 @@ title: "FloatingBox.BackgroundColor"
 linktitle: "BackgroundColor"
 articleTitle: "BackgroundColor"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FloatingBox property. Gets or sets a object that indicates the background color of the floating box."
+description: "FloatingBox property. Gets or sets a Color object that indicates the background color of the floating box."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/floatingbox/backgroundcolor/"

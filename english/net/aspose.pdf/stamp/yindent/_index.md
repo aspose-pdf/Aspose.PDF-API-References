@@ -5,7 +5,7 @@ articleTitle: "YIndent"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Stamp property. Vertical stamp coordinate, starting from the bottom."
 type: docs
-weight: 150
+weight: 100
 url: "/net/aspose.pdf/stamp/yindent/"
 product_version: "26.9.0"
 ---

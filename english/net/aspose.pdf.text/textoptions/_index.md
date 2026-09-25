@@ -18,12 +18,6 @@ Represents text processing options
 public abstract class TextOptions
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [TextOptions](./textoptions/#constructor) | Initializes a new instance of the TextOptions class. |
-
 ### See Also
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)

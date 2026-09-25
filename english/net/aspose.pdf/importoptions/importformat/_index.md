@@ -5,7 +5,7 @@ articleTitle: "ImportFormat"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "ImportOptions property. Import format."
 type: docs
-weight: 20
+weight: 10
 url: "/net/aspose.pdf/importoptions/importformat/"
 product_version: "26.9.0"
 ---

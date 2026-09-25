@@ -5,7 +5,7 @@ articleTitle: "Clear"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "OperatorCollection method. Removes all operators from list."
 type: docs
-weight: 140
+weight: 130
 url: "/net/aspose.pdf/operatorcollection/clear/"
 product_version: "26.9.0"
 ---

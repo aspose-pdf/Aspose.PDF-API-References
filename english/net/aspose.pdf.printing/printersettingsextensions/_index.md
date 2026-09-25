@@ -3,7 +3,7 @@ title: "PrinterSettingsExtensions Class"
 linktitle: "PrinterSettingsExtensions"
 articleTitle: "PrinterSettingsExtensions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.Printing.PrinterSettingsExtensions class. Represents extension methods for ."
+description: "Aspose.Pdf.Printing.PrinterSettingsExtensions class. Represents extension methods for PrinterSettings."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.printing/printersettingsextensions/"

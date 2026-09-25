@@ -3,7 +3,7 @@ title: "OfdLoadOptions.OfdLoadOptions"
 linktitle: "OfdLoadOptions"
 articleTitle: "OfdLoadOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "OfdLoadOptions constructor. Initializes a new instance of the OfdLoadOptions class."
+description: "OfdLoadOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/ofdloadoptions/ofdloadoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## OfdLoadOptions() {#constructor}
 
-Initializes a new instance of the OfdLoadOptions class.
+The default constructor.
 
 ```csharp
 public OfdLoadOptions()

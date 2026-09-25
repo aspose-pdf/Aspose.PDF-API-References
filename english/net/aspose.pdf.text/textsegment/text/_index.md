@@ -3,7 +3,7 @@ title: "TextSegment.Text"
 linktitle: "Text"
 articleTitle: "Text"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextSegment property. Gets or sets text object that the object represents."
+description: "TextSegment property. Gets or sets String text object that the TextSegment object represents."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/textsegment/text/"

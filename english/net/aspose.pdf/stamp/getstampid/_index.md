@@ -5,7 +5,7 @@ articleTitle: "getStampId"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Stamp method. Returns stamp ID."
 type: docs
-weight: 80
+weight: 30
 url: "/net/aspose.pdf/stamp/getstampid/"
 product_version: "26.9.0"
 ---

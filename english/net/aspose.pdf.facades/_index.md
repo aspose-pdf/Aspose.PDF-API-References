@@ -3,7 +3,7 @@ title: "Aspose.Pdf.Facades"
 linktitle: "Aspose.Pdf.Facades"
 articleTitle: "Aspose.Pdf.Facades"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The **Aspose.Pdf.Facades** namespace provides classes."
+description: "The Aspose.Pdf.Facades namespace provides classes."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/"

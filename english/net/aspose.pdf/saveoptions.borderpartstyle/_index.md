@@ -22,7 +22,7 @@ public class BorderPartStyle
 
 | Name | Description |
 | --- | --- |
-| [SaveOptions.BorderPartStyle](./borderpartstyle/#constructor) | Initializes a new instance of the SaveOptions.BorderPartStyle class. |
+| [SaveOptions.BorderPartStyle](./borderpartstyle/#constructor) | The default constructor. |
 
 ## Properties
 

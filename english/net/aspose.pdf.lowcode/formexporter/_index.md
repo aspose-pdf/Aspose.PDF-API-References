@@ -22,7 +22,7 @@ public sealed class FormExporter : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [FormExporter](./formexporter/#constructor) | Initializes a new instance of the FormExporter class. |
+| [FormExporter](./formexporter/#constructor) | The default constructor. |
 
 ## Methods
 

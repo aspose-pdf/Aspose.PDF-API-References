@@ -3,7 +3,7 @@ title: "FormTextBoxFieldCreateOptions Class"
 linktitle: "FormTextBoxFieldCreateOptions"
 articleTitle: "FormTextBoxFieldCreateOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.FormTextBoxFieldCreateOptions class. Represents options for creating TextBoxField by plugin."
+description: "Aspose.Pdf.LowCode.FormTextBoxFieldCreateOptions class. Represents options for creating TextBoxField by FormEditor plugin."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.lowcode/formtextboxfieldcreateoptions/"

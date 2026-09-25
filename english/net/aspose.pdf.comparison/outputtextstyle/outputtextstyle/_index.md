@@ -3,7 +3,7 @@ title: "OutputTextStyle.OutputTextStyle"
 linktitle: "OutputTextStyle"
 articleTitle: "OutputTextStyle"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "OutputTextStyle constructor. Initializes a new instance of the OutputTextStyle class."
+description: "OutputTextStyle constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/outputtextstyle/outputtextstyle/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## OutputTextStyle() {#constructor}
 
-Initializes a new instance of the OutputTextStyle class.
+The default constructor.
 
 ```csharp
 public OutputTextStyle()

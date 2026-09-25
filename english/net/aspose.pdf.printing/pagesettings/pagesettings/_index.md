@@ -3,7 +3,7 @@ title: "PageSettings.PageSettings"
 linktitle: "PageSettings"
 articleTitle: "PageSettings"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PageSettings constructor. Initializes a new instance of the PageSettings class."
+description: "PageSettings constructor. Initializes a new instance of the PageSettings class using the default printer."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/pagesettings/pagesettings/"
@@ -41,7 +41,7 @@ public PageSettings(PrinterSettings printerSettings)
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | is null. |
+| ArgumentNullException | *printerSettings* is null. |
 
 ### See Also
 

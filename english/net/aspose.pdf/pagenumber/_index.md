@@ -22,7 +22,7 @@ public sealed class PageNumber
 
 | Name | Description |
 | --- | --- |
-| [PageNumber](./pagenumber/#constructor) | Initializes a new instance of the PageNumber class. |
+| [PageNumber](./pagenumber/#constructor) | The default constructor. |
 
 ## Properties
 

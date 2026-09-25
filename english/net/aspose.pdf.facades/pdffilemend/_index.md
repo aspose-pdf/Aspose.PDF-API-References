@@ -23,11 +23,11 @@ public sealed class PdfFileMend : SaveableFacade
 | Name | Description |
 | --- | --- |
 | [PdfFileMend](./pdffilemend/#constructor) | Constructor. |
-| [PdfFileMend](./pdffilemend/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfFileMend`](../../aspose.pdf.facades/pdffilemend/) object on base of the . |
+| [PdfFileMend](./pdffilemend/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfFileMend`](../../aspose.pdf.facades/pdffilemend/) object on base of the *document*. |
 | [PdfFileMend](./pdffilemend/#constructor_2)(*string, string*) | Constructor. |
 | [PdfFileMend](./pdffilemend/#constructor_3)(*Stream, Stream*) | Constructor. |
-| [PdfFileMend](./pdffilemend/#constructor_4)(*[Document](../../aspose.pdf/document/), string*) | Initializes new [`PdfFileMend`](../../aspose.pdf.facades/pdffilemend/) object on base of the . |
-| [PdfFileMend](./pdffilemend/#constructor_5)(*[Document](../../aspose.pdf/document/), Stream*) | Initializes new [`PdfFileMend`](../../aspose.pdf.facades/pdffilemend/) object on base of the . |
+| [PdfFileMend](./pdffilemend/#constructor_4)(*[Document](../../aspose.pdf/document/), string*) | Initializes new [`PdfFileMend`](../../aspose.pdf.facades/pdffilemend/) object on base of the *document*. |
+| [PdfFileMend](./pdffilemend/#constructor_5)(*[Document](../../aspose.pdf/document/), Stream*) | Initializes new [`PdfFileMend`](../../aspose.pdf.facades/pdffilemend/) object on base of the *document*. |
 
 ## Properties
 
@@ -57,10 +57,7 @@ public sealed class PdfFileMend : SaveableFacade
 | [AddText](./addtext/)(*FormattedText, int, float, float*) | Not implemented. |
 | [AddText](./addtext/)(*FormattedText, int, float, float, float, float*) | Not implemented. |
 | [AddText](./addtext/)(*FormattedText, int[], float, float, float, float*) | Not implemented. |
-| [AssertDocument](../../aspose.pdf.facades/facade/assertdocument/) | Asserts if the facade is initialized. *(Inherited from Facade)* |
 | [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. *(Inherited from Facade)* |
 | [Close](./close/) | Closes PdfFileMend object. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose/) | Disposes the facade. *(Inherited from Facade)* |
 | [Save](./save/)(*string*) | Saves the PDF document to the specified file. |

@@ -31,7 +31,7 @@ public class CosPdfDictionary : CosPdfPrimitive, IEnumerable
 | [AllKeys](./allkeys/) { get; } | Full collection of keys. |
 | [Count](./count/) { get; } | Gets the number of elements contained in the [`CosPdfDictionary`](../../aspose.pdf.dataeditor/cospdfdictionary/). |
 | [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether the [`CosPdfDictionary`](../../aspose.pdf.dataeditor/cospdfdictionary/) is read-only. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets or sets the element with the specified key. |
 | [Keys](./keys/) { get; } | Collection of editable keys. |
 | [Values](./values/) { get; } | Gets an `ICollection` containing the values in the [`CosPdfDictionary`](../../aspose.pdf.dataeditor/cospdfdictionary/). |
 

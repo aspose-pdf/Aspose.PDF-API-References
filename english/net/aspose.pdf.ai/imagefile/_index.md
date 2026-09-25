@@ -22,7 +22,7 @@ public class ImageFile
 
 | Name | Description |
 | --- | --- |
-| [ImageFile](./imagefile/#constructor) | Initializes a new instance of the ImageFile class. |
+| [ImageFile](./imagefile/#constructor) | The default constructor. |
 
 ## Properties
 

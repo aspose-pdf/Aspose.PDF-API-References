@@ -3,7 +3,7 @@ title: "Splitter.Process"
 linktitle: "Process"
 articleTitle: "Process"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Splitter method. Starts the processing with the specified parameters."
+description: "Splitter method. Starts the Splitter processing with the specified parameters."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/splitter/process/"

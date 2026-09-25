@@ -22,7 +22,7 @@ public class DayComponent : DateComponent
 
 | Name | Description |
 | --- | --- |
-| [PageDate.DayComponent](./daycomponent/#constructor) | Initializes a new instance of the PageDate.DayComponent class. |
+| [PageDate.DayComponent](./daycomponent/#constructor) | The default constructor. |
 
 ## Properties
 

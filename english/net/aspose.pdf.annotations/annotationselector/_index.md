@@ -60,10 +60,10 @@ public sealed class AnnotationSelector : IAnnotationVisitor
 | [Visit](./visit/)(*ScreenAnnotation*) | Select screen annotation if AnnotationSelector was initialized with ScreenAnnotation object. |
 | [Visit](./visit/)(*PDF3DAnnotation*) | Select PDF3D annotation if AnnotationSelector was initialized with PDF3DAnnotation object. |
 | [Visit](./visit/)(*ColorBarAnnotation*) | Select ColorBar annotation if AnnotationSelector was initialized with ColorBar object. |
-| [Visit](./visit/)(*TrimMarkAnnotation*) | Selects the if the [`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector/) was initialized with a [`TrimMarkAnnotation`](../../aspose.pdf.annotations/trimmarkannotation/) object. |
-| [Visit](./visit/)(*BleedMarkAnnotation*) | Selects the if the [`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector/) was initialized with a. |
-| [Visit](./visit/)(*RegistrationMarkAnnotation*) | Selects the if the [`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector/) was initialized with a. |
-| [Visit](./visit/)(*PageInformationAnnotation*) | Selects the if the [`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector/) was initialized with a. |
+| [Visit](./visit/)(*TrimMarkAnnotation*) | Selects the *trimMark* if the [`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector/) was initialized with a [`TrimMarkAnnotation`](../../aspose.pdf.annotations/trimmarkannotation/) object. |
+| [Visit](./visit/)(*BleedMarkAnnotation*) | Selects the *bleedMark* if the [`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector/) was initialized with a. |
+| [Visit](./visit/)(*RegistrationMarkAnnotation*) | Selects the *registrationMark* if the [`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector/) was initialized with a. |
+| [Visit](./visit/)(*PageInformationAnnotation*) | Selects the *pageInformation* if the [`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector/) was initialized with a. |
 
 ### See Also
 

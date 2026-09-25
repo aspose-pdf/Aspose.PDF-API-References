@@ -3,7 +3,7 @@ title: "ThreadMessageCreateRequest.FromAssistant"
 linktitle: "FromAssistant"
 articleTitle: "FromAssistant"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ThreadMessageCreateRequest method. Creates a new with the role set to Assistant."
+description: "ThreadMessageCreateRequest method. Creates a new ThreadMessageCreateRequest with the role set to Assistant."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/fromassistant/"

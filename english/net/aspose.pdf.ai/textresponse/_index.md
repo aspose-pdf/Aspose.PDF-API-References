@@ -22,7 +22,7 @@ public class TextResponse
 
 | Name | Description |
 | --- | --- |
-| [TextResponse](./textresponse/#constructor) | Initializes a new instance of the TextResponse class. |
+| [TextResponse](./textresponse/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -22,7 +22,7 @@ public sealed class FormFlattener : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [FormFlattener](./formflattener/#constructor) | Initializes a new instance of the FormFlattener class. |
+| [FormFlattener](./formflattener/#constructor) | The default constructor. |
 
 ## Methods
 

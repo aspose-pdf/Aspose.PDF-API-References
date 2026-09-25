@@ -5,7 +5,7 @@ articleTitle: "ShowCaption"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "LineAnnotation property. Gets or sets boolean flag which determinies is contents must be shown as caption."
 type: docs
-weight: 130
+weight: 120
 url: "/net/aspose.pdf.annotations/lineannotation/showcaption/"
 product_version: "26.9.0"
 ---

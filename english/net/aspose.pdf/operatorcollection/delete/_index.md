@@ -5,7 +5,7 @@ articleTitle: "Delete"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "OperatorCollection method. Deletes operator from collection."
 type: docs
-weight: 60
+weight: 50
 url: "/net/aspose.pdf/operatorcollection/delete/"
 product_version: "26.9.0"
 ---

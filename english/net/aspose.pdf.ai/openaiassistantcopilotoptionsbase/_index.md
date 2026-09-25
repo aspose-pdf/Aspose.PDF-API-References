@@ -18,12 +18,6 @@ Represents the base options for configuring the OpenAICopilots based on Assistan
 public abstract class OpenAIAssistantCopilotOptionsBase : OpenAICopilotOptionsBase
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [OpenAIAssistantCopilotOptionsBase](./openaiassistantcopilotoptionsbase/#constructor) | Initializes a new instance of the OpenAIAssistantCopilotOptionsBase class. |
-
 ## Properties
 
 | Name | Description |

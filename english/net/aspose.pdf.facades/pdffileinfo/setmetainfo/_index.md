@@ -5,7 +5,7 @@ articleTitle: "SetMetaInfo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileInfo method. Sets customized information of PDF document."
 type: docs
-weight: 280
+weight: 230
 url: "/net/aspose.pdf.facades/pdffileinfo/setmetainfo/"
 product_version: "26.9.0"
 ---

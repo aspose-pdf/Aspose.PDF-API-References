@@ -22,7 +22,7 @@ public sealed class PdfJavaScriptStripper
 
 | Name | Description |
 | --- | --- |
-| [PdfJavaScriptStripper](./pdfjavascriptstripper/#constructor) | Initializes a new instance of the PdfJavaScriptStripper class. |
+| [PdfJavaScriptStripper](./pdfjavascriptstripper/#constructor) | The default constructor. |
 
 ## Methods
 

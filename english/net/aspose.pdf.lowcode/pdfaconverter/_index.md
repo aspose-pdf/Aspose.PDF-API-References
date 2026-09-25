@@ -75,7 +75,7 @@ The example demonstrates how to convert the PDF document in a PDF/A format (PDF/
 
 | Name | Description |
 | --- | --- |
-| [PdfAConverter](./pdfaconverter/#constructor) | Initializes a new instance of the PdfAConverter class. |
+| [PdfAConverter](./pdfaconverter/#constructor) | The default constructor. |
 
 ## Methods
 

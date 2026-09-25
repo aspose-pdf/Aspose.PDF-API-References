@@ -18,12 +18,6 @@ Represents abstract hyperlink.
 public abstract class Hyperlink
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [Hyperlink](./hyperlink/#constructor) | Initializes a new instance of the Hyperlink class. |
-
 ### See Also
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)

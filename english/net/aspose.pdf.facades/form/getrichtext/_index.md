@@ -5,7 +5,7 @@ articleTitle: "GetRichText"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Get a Rich Text field's value, including the formattinf information of every character."
 type: docs
-weight: 420
+weight: 400
 url: "/net/aspose.pdf.facades/form/getrichtext/"
 product_version: "26.9.0"
 ---

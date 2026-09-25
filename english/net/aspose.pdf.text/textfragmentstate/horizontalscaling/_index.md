@@ -3,7 +3,7 @@ title: "TextFragmentState.HorizontalScaling"
 linktitle: "HorizontalScaling"
 articleTitle: "HorizontalScaling"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextFragmentState property. Gets or sets horizontal scaling of the text, represented by the object."
+description: "TextFragmentState property. Gets or sets horizontal scaling of the text, represented by the TextFragment object."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/textfragmentstate/horizontalscaling/"

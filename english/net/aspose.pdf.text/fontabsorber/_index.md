@@ -3,7 +3,7 @@ title: "FontAbsorber Class"
 linktitle: "FontAbsorber"
 articleTitle: "FontAbsorber"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.Text.FontAbsorber class. Represents an absorber object of fonts. Performs search for fonts and provides access to search results via collection."
+description: "Aspose.Pdf.Text.FontAbsorber class. Represents an absorber object of fonts. Performs search for fonts and provides access to search results via Fonts collect..."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.text/fontabsorber/"
@@ -23,7 +23,7 @@ public class FontAbsorber
 
 | Name | Description |
 | --- | --- |
-| [FontAbsorber](./fontabsorber/#constructor) | Initializes a new instance of the FontAbsorber class. |
+| [FontAbsorber](./fontabsorber/#constructor) | The default constructor. |
 
 ## Properties
 

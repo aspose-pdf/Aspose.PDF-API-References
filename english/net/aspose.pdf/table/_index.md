@@ -22,7 +22,7 @@ public sealed class Table : BaseParagraph
 
 | Name | Description |
 | --- | --- |
-| [Table](./table/#constructor) | Initializes a new instance of the Table class. |
+| [Table](./table/#constructor) | The default constructor. |
 
 ## Properties
 

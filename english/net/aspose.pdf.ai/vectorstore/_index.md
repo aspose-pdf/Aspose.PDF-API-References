@@ -22,7 +22,7 @@ public class VectorStore
 
 | Name | Description |
 | --- | --- |
-| [VectorStore](./vectorstore/#constructor) | Initializes a new instance of the VectorStore class. |
+| [VectorStore](./vectorstore/#constructor) | The default constructor. |
 
 ## Properties
 

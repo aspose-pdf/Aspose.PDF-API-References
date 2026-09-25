@@ -3,7 +3,7 @@ title: "OpenAIChatCopilot.OpenAIChatCopilot"
 linktitle: "OpenAIChatCopilot"
 articleTitle: "OpenAIChatCopilot"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "OpenAIChatCopilot constructor. Initializes a new instance of the OpenAIChatCopilot class."
+description: "OpenAIChatCopilot constructor. Initializes a new instance of the OpenAIChatCopilot class with the specified client and options."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/openaichatcopilot/openaichatcopilot/"

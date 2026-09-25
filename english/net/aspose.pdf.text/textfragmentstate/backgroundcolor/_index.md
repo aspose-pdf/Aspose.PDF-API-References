@@ -3,7 +3,7 @@ title: "TextFragmentState.BackgroundColor"
 linktitle: "BackgroundColor"
 articleTitle: "BackgroundColor"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextFragmentState property. Sets background color of the text, represented by the object"
+description: "TextFragmentState property. Sets background color of the text, represented by the TextFragment object"
 type: docs
 weight: 170
 url: "/net/aspose.pdf.text/textfragmentstate/backgroundcolor/"

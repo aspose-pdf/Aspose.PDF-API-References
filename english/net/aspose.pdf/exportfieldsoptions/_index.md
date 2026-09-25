@@ -18,12 +18,6 @@ Represents base class of options for exporting form fields.
 public abstract class ExportFieldsOptions
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [ExportFieldsOptions](./exportfieldsoptions/#constructor) | Initializes a new instance of the ExportFieldsOptions class. |
-
 ## Properties
 
 | Name | Description |

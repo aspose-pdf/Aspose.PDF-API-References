@@ -3,7 +3,7 @@ title: "Font.FontName"
 linktitle: "FontName"
 articleTitle: "FontName"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Font property. Gets font name of the object."
+description: "Font property. Gets font name of the Font object."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/font/fontname/"

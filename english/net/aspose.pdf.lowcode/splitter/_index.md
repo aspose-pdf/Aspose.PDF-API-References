@@ -3,7 +3,7 @@ title: "Splitter Class"
 linktitle: "Splitter"
 articleTitle: "Splitter"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.Splitter class. Represents plugin."
+description: "Aspose.Pdf.LowCode.Splitter class. Represents Splitter plugin."
 type: docs
 weight: 870
 url: "/net/aspose.pdf.lowcode/splitter/"
@@ -22,7 +22,7 @@ public class Splitter : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [Splitter](./splitter/#constructor) | Initializes a new instance of the Splitter class. |
+| [Splitter](./splitter/#constructor) | The default constructor. |
 
 ## Methods
 

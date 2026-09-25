@@ -3,7 +3,7 @@ title: "SignatureField.Signature"
 linktitle: "Signature"
 articleTitle: "Signature"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SignatureField property. Gets signature object. This object contains signature data regarding public-key cryptographic standards. Classes , and represent all..."
+description: "SignatureField property. Gets signature object. This object contains signature data regarding public-key cryptographic standards. Classes PKCS1, PKCS7 and PK..."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.forms/signaturefield/signature/"

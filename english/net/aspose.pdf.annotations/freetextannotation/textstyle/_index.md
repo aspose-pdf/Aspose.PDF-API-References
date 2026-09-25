@@ -5,7 +5,7 @@ articleTitle: "TextStyle"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FreeTextAnnotation property. Gets or sets style of the text in appearance. when text style is changed, text appearance is updated."
 type: docs
-weight: 150
+weight: 130
 url: "/net/aspose.pdf.annotations/freetextannotation/textstyle/"
 product_version: "26.9.0"
 ---

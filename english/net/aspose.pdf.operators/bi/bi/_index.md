@@ -3,7 +3,7 @@ title: "BI.BI"
 linktitle: "BI"
 articleTitle: "BI"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "BI constructor. Initializes a new instance of the BI class."
+description: "BI constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/bi/bi/"

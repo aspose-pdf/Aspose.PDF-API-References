@@ -22,7 +22,7 @@ public sealed class Image : BaseParagraph
 
 | Name | Description |
 | --- | --- |
-| [Image](./image/#constructor) | Initializes a new instance of the Image class. |
+| [Image](./image/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -48,14 +48,6 @@ public sealed class HtmlFragment : FormattedFragment
 | Name | Description |
 | --- | --- |
 | [Clone](./clone/) | Clones html fragment. |
-| [CopyFields](../../aspose.pdf/formattedfragment/copyfields/)(*FormattedFragment*) | Copy fields to fragment. *(Inherited from FormattedFragment)* |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| [rectangle](../../aspose.pdf/formattedfragment/rectangle/) | Rectangle value. *(Inherited from FormattedFragment)* |
-| [text](../../aspose.pdf/formattedfragment/text/) | Text value. *(Inherited from FormattedFragment)* |
 
 ### See Also
 

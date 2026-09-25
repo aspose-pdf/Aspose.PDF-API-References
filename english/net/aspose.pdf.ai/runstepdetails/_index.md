@@ -22,7 +22,7 @@ public class RunStepDetails
 
 | Name | Description |
 | --- | --- |
-| [RunStepDetails](./runstepdetails/#constructor) | Initializes a new instance of the RunStepDetails class. |
+| [RunStepDetails](./runstepdetails/#constructor) | The default constructor. |
 
 ## Properties
 

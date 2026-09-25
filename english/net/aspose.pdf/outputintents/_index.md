@@ -3,7 +3,7 @@ title: "OutputIntents Class"
 linktitle: "OutputIntents"
 articleTitle: "OutputIntents"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.OutputIntents class. Represents the collection of ."
+description: "Aspose.Pdf.OutputIntents class. Represents the collection of OutputIntent."
 type: docs
 weight: 2100
 url: "/net/aspose.pdf/outputintents/"
@@ -24,7 +24,7 @@ public sealed class OutputIntents : IEnumerable
 | --- | --- |
 | [Count](./count/) { get; } | Gets the number of output intents contained in the collection. |
 | [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether the collection is read-only. |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets the output intent at the specified *index*. |
 
 ## Methods
 
@@ -33,7 +33,7 @@ public sealed class OutputIntents : IEnumerable
 | [Add](./add/)(*OutputIntent*) | Adds an output intent to the collection. |
 | [Clear](./clear/) | Removes all output intents from the collection. |
 | [Contains](./contains/)(*OutputIntent*) | Determines whether the collection contains a specific output intent. |
-| [CopyTo](./copyto/)(*OutputIntent[], int*) | Copies the elements of the collection to the ,starting. |
+| [CopyTo](./copyto/)(*OutputIntent[], int*) | Copies the elements of the collection to the *array*,starting. |
 | [GetEnumerator](./getenumerator/) | Returns an enumerator that iterates through the collection. |
 | [Remove](./remove/)(*OutputIntent*) | Removes the first occurrence of a specific output intent from the collection. |
 

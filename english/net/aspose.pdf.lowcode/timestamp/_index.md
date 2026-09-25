@@ -22,7 +22,7 @@ public sealed class Timestamp : IPlugin, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Timestamp](./timestamp/#constructor) | Initializes a new instance of the Timestamp class. |
+| [Timestamp](./timestamp/#constructor) | The default constructor. |
 
 ## Methods
 

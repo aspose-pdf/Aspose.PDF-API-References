@@ -3,7 +3,7 @@ title: "RichMediaAnnotation.RichMediaAnnotation"
 linktitle: "RichMediaAnnotation"
 articleTitle: "RichMediaAnnotation"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "RichMediaAnnotation constructor. Initializes a new instance of the RichMediaAnnotation class."
+description: "RichMediaAnnotation constructor. Initializes RichMediaAnnotation."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/richmediaannotation/richmediaannotation/"

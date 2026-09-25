@@ -5,7 +5,7 @@ articleTitle: "Add"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "OperatorCollection method. Adds new operator into collection."
 type: docs
-weight: 50
+weight: 40
 url: "/net/aspose.pdf/operatorcollection/add/"
 product_version: "26.9.0"
 ---

@@ -25,7 +25,7 @@ public sealed class TextFragmentCollection : IEnumerable
 | [Count](./count/) { get; } | Gets the number of [`TextFragment`](../../aspose.pdf.text/textfragment/) object elements actually contained in the collection. |
 | [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether collection is read-only. |
 | [IsSynchronized](./issynchronized/) { get; } | Gets a value indicating whether access to the collection is synchronized (thread safe). |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets the text fragment element at the specified index. |
 | [SyncRoot](./syncroot/) { get; } | Gets an object that can be used to synchronize access to the collection. |
 
 ## Methods

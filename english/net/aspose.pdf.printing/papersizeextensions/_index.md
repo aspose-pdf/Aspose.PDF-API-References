@@ -3,7 +3,7 @@ title: "PaperSizeExtensions Class"
 linktitle: "PaperSizeExtensions"
 articleTitle: "PaperSizeExtensions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.Printing.PaperSizeExtensions class. Represents extensions methods for ."
+description: "Aspose.Pdf.Printing.PaperSizeExtensions class. Represents extensions methods for PaperSize."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.printing/papersizeextensions/"

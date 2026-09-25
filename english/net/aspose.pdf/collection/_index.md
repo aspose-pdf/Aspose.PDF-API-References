@@ -31,7 +31,7 @@ public class Collection : EmbeddedFileCollection
 | [Count](../../aspose.pdf/embeddedfilecollection/count/) { get; } | Gets number of embedded files in collection. *(Inherited from EmbeddedFileCollection)* |
 | [DefaultEntry](./defaultentry/) { get; } | Default embedded file name. |
 | [IsSynchronized](../../aspose.pdf/embeddedfilecollection/issynchronized/) { get; } | Gets a value indicating whether access to this collection is synchronized (thread safe). *(Inherited from EmbeddedFileCollection)* |
-| [Item](../../aspose.pdf/embeddedfilecollection/item/) { get; } | *(Inherited from EmbeddedFileCollection)* |
+| [Item](../../aspose.pdf/embeddedfilecollection/item/) { get; } | Gets embedded file by its index. *(Inherited from EmbeddedFileCollection)* |
 | [Keys](../../aspose.pdf/embeddedfilecollection/keys/) { get; } | Returns list of file attachment keys. *(Inherited from EmbeddedFileCollection)* |
 | [Schema](./schema/) { get; } | Gets a "Schema" of a document collection. |
 | [SyncRoot](../../aspose.pdf/embeddedfilecollection/syncroot/) { get; } | Gets an object that can be used to synchronize access to this collection. *(Inherited from EmbeddedFileCollection)* |

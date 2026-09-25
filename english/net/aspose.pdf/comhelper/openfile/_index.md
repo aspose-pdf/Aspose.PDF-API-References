@@ -3,7 +3,7 @@ title: "ComHelper.OpenFile"
 linktitle: "OpenFile"
 articleTitle: "OpenFile"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ComHelper method. Just create and return Document using . The same as ."
+description: "ComHelper method. Just create and return Document using filename. The same as Document."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/comhelper/openfile/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## OpenFile(string) {#openfile}
 
-Just create and return Document using . The same as `#ctor`.
+Just create and return Document using *filename*. The same as `#ctor`.
 
 ```csharp
 public Document OpenFile(string filename)
@@ -104,7 +104,7 @@ public Document OpenFile(string filename, LoadOptions options)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filename | string | Input file to convert into pdf document. |
-| options | LoadOptions | Represents properties for converting into pdf document. |
+| options | LoadOptions | Represents properties for converting *filename* into pdf document. |
 
 ### Return Value
 

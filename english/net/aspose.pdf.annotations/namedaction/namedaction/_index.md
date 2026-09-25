@@ -3,7 +3,7 @@ title: "NamedAction.NamedAction"
 linktitle: "NamedAction"
 articleTitle: "NamedAction"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "NamedAction constructor. Initializes a new instance of the NamedAction class."
+description: "NamedAction constructor. Constructor for Named Action class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/namedaction/namedaction/"

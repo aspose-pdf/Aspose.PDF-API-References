@@ -3,7 +3,7 @@ title: "StructureAttributeCollection.GetAttributes"
 linktitle: "GetAttributes"
 articleTitle: "GetAttributes"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "StructureAttributeCollection method. Return of structure element by standard attribute owner."
+description: "StructureAttributeCollection method. Return StructureAttributes of structure element by standard attribute owner."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/structureattributecollection/getattributes/"

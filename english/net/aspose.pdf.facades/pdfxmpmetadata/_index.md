@@ -23,7 +23,7 @@ public sealed class PdfXmpMetadata : SaveableFacade, IEnumerable
 | Name | Description |
 | --- | --- |
 | [PdfXmpMetadata](./pdfxmpmetadata/#constructor) | Constructor for PdfXmpMetadata. |
-| [PdfXmpMetadata](./pdfxmpmetadata/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfXmpMetadata`](../../aspose.pdf.facades/pdfxmpmetadata/) object on base of the . |
+| [PdfXmpMetadata](./pdfxmpmetadata/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfXmpMetadata`](../../aspose.pdf.facades/pdfxmpmetadata/) object on base of the *document*. |
 
 ## Properties
 
@@ -35,8 +35,8 @@ public sealed class PdfXmpMetadata : SaveableFacade, IEnumerable
 | [IsFixedSize](./isfixedsize/) { get; } | Returns true is collection has fixed size. |
 | [IsReadOnly](./isreadonly/) { get; } | Returns true if collection is read-only. |
 | [IsSynchronized](./issynchronized/) { get; } | Returns true if collection is synchronized. |
-| [Item](./item/) { get; set; } |  |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets or sets value by key. |
+| [Item](./item/) { get; set; } | Gets value of XMP metadata by key. |
 | [Keys](./keys/) { get; } | Gets keys from the dictionary. |
 | [SyncRoot](./syncroot/) { get; } | Gets synchroniztion object of the collection. |
 | [Values](./values/) { get; } | Gets the collection of values in dictionary. |
@@ -50,10 +50,7 @@ public sealed class PdfXmpMetadata : SaveableFacade, IEnumerable
 | [Add](./add/)(*string, XmpValue*) | Adds new element to the dictionary object. |
 | [Add](./add/)(*string, object*) | Adds new element to the dictionary object. |
 | [Add](./add/)(*XmpPdfAExtensionObject, string, string, string*) | Adds extension field into metadata. |
-| [AssertDocument](../../aspose.pdf.facades/facade/assertdocument/) | Asserts if the facade is initialized. *(Inherited from Facade)* |
 | [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. *(Inherited from Facade)* |
 | [Clear](./clear/) | Removes all elements from the object. |
 | [Close](../../aspose.pdf.facades/facade/close/) | Disposes Aspose.Pdf.Document bound with a facade. *(Inherited from Facade)* |
 | [Contains](./contains/)(*string*) | Checks if dictionary contains the specified key. |

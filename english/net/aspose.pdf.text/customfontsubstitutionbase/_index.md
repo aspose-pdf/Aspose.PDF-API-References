@@ -22,7 +22,7 @@ public class CustomFontSubstitutionBase : FontSubstitution
 
 | Name | Description |
 | --- | --- |
-| [CustomFontSubstitutionBase](./customfontsubstitutionbase/#constructor) | Initializes a new instance of the CustomFontSubstitutionBase class. |
+| [CustomFontSubstitutionBase](./customfontsubstitutionbase/#constructor) | The default constructor. |
 
 ## Methods
 

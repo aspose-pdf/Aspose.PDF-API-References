@@ -3,7 +3,7 @@ title: "CreateEmbeddingResponse.CreateEmbeddingResponse"
 linktitle: "CreateEmbeddingResponse"
 articleTitle: "CreateEmbeddingResponse"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CreateEmbeddingResponse constructor. Initializes a new instance of the CreateEmbeddingResponse class."
+description: "CreateEmbeddingResponse constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/createembeddingresponse/createembeddingresponse/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## CreateEmbeddingResponse() {#constructor}
 
-Initializes a new instance of the CreateEmbeddingResponse class.
+The default constructor.
 
 ```csharp
 public CreateEmbeddingResponse()

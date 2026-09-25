@@ -3,7 +3,7 @@ title: "PageDate.YearComponent.PageDate.YearComponent"
 linktitle: "PageDate.YearComponent"
 articleTitle: "PageDate.YearComponent"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "YearComponent constructor. Initializes a new instance of the PageDate.YearComponent class."
+description: "YearComponent constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pagedate.yearcomponent/yearcomponent/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## PageDate.YearComponent() {#constructor}
 
-Initializes a new instance of the PageDate.YearComponent class.
+The default constructor.
 
 ```csharp
 public PageDate.YearComponent()

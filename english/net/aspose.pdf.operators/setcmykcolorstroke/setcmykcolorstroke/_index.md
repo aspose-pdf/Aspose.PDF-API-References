@@ -3,7 +3,7 @@ title: "SetCMYKColorStroke.SetCMYKColorStroke"
 linktitle: "SetCMYKColorStroke"
 articleTitle: "SetCMYKColorStroke"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SetCMYKColorStroke constructor. Initializes a new instance of the SetCMYKColorStroke class."
+description: "SetCMYKColorStroke constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setcmykcolorstroke/setcmykcolorstroke/"

@@ -22,7 +22,7 @@ public class CodeInterpreter
 
 | Name | Description |
 | --- | --- |
-| [CodeInterpreter](./codeinterpreter/#constructor) | Initializes a new instance of the CodeInterpreter class. |
+| [CodeInterpreter](./codeinterpreter/#constructor) | The default constructor. |
 
 ## Properties
 

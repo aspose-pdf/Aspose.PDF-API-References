@@ -22,14 +22,14 @@ public sealed class Cells : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [Cells](./cells/#constructor) | Initializes a new instance of the Cells class. |
+| [Cells](./cells/#constructor) | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Count](./count/) { get; } | The items count. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets or sets cells. |
 
 ## Methods
 

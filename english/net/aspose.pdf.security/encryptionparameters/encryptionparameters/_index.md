@@ -3,7 +3,7 @@ title: "EncryptionParameters.EncryptionParameters"
 linktitle: "EncryptionParameters"
 articleTitle: "EncryptionParameters"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "EncryptionParameters constructor. Initializes a new instance of the EncryptionParameters class."
+description: "EncryptionParameters constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/encryptionparameters/encryptionparameters/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## EncryptionParameters() {#constructor}
 
-Initializes a new instance of the EncryptionParameters class.
+The default constructor.
 
 ```csharp
 public EncryptionParameters()

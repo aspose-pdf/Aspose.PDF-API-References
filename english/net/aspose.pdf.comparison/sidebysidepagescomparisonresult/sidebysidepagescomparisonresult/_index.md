@@ -3,7 +3,7 @@ title: "SideBySidePagesComparisonResult.SideBySidePagesComparisonResult"
 linktitle: "SideBySidePagesComparisonResult"
 articleTitle: "SideBySidePagesComparisonResult"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SideBySidePagesComparisonResult constructor. Initializes a new instance of the SideBySidePagesComparisonResult class."
+description: "SideBySidePagesComparisonResult constructor. Creates an instance of SideBySidePagesComparisonResult class"
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/sidebysidepagescomparisonresult/sidebysidepagescomparisonresult/"

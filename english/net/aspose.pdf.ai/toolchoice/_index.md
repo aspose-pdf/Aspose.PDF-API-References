@@ -22,7 +22,7 @@ public class ToolChoice
 
 | Name | Description |
 | --- | --- |
-| [ToolChoice](./toolchoice/#constructor) | Initializes a new instance of the ToolChoice class. |
+| [ToolChoice](./toolchoice/#constructor) | The default constructor. |
 
 ## Properties
 

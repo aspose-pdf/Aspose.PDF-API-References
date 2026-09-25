@@ -39,7 +39,6 @@ public sealed class Rectangle : Shape
 | Name | Description |
 | --- | --- |
 | [CheckBounds](./checkbounds/)(*double, double*) |  |
-| [ClipShading](./clipshading/)(*Point, Point*) |  |
 
 ### See Also
 

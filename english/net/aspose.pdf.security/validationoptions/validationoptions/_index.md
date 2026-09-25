@@ -3,7 +3,7 @@ title: "ValidationOptions.ValidationOptions"
 linktitle: "ValidationOptions"
 articleTitle: "ValidationOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ValidationOptions constructor. Initializes a new instance of the ValidationOptions class."
+description: "ValidationOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/validationoptions/validationoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## ValidationOptions() {#constructor}
 
-Initializes a new instance of the ValidationOptions class.
+The default constructor.
 
 ```csharp
 public ValidationOptions()

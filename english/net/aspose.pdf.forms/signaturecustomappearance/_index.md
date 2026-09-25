@@ -22,7 +22,7 @@ public sealed class SignatureCustomAppearance
 
 | Name | Description |
 | --- | --- |
-| [SignatureCustomAppearance](./signaturecustomappearance/#constructor) | Initializes a new instance of the SignatureCustomAppearance class. |
+| [SignatureCustomAppearance](./signaturecustomappearance/#constructor) | The default constructor. |
 
 ## Properties
 

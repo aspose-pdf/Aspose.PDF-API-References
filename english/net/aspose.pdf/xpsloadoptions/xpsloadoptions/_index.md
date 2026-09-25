@@ -3,7 +3,7 @@ title: "XpsLoadOptions.XpsLoadOptions"
 linktitle: "XpsLoadOptions"
 articleTitle: "XpsLoadOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "XpsLoadOptions constructor. Initializes a new instance of the XpsLoadOptions class."
+description: "XpsLoadOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xpsloadoptions/xpsloadoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## XpsLoadOptions() {#constructor}
 
-Initializes a new instance of the XpsLoadOptions class.
+The default constructor.
 
 ```csharp
 public XpsLoadOptions()

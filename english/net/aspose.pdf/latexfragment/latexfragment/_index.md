@@ -3,7 +3,7 @@ title: "LatexFragment.LatexFragment"
 linktitle: "LatexFragment"
 articleTitle: "LatexFragment"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "LatexFragment constructor. Initializes a new instance of the LatexFragment class."
+description: "LatexFragment constructor. Initializes a new instance of the HtmlFragment class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/latexfragment/latexfragment/"

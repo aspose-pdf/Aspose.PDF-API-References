@@ -26,7 +26,7 @@ public sealed class OutlineCollection : Outlines
 | [First](./first/) { get; } | Gets an outline item representing the first top-level item in the outline. |
 | [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether the collection is read-only. |
 | [IsSynchronized](./issynchronized/) { get; } | Gets a value indicating whether access to this collection is synchronized (thread safe). |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets outline item from collection by index. |
 | [Last](./last/) { get; } | Gets an outline item representing the last top-level item in the outline. |
 | [SyncRoot](./syncroot/) { get; } | Gets an object that can be used to synchronize access to this collection. |
 | [VisibleCount](./visiblecount/) { get; } | Count is the sum of the number of visible descendent outline items at all levels. Note: please don't confuse with Count which is number if items in collection. |

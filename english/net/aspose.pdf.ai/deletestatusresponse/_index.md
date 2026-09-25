@@ -22,7 +22,7 @@ public class DeleteStatusResponse : BaseResponse, IEntityId
 
 | Name | Description |
 | --- | --- |
-| [DeleteStatusResponse](./deletestatusresponse/#constructor) | Initializes a new instance of the DeleteStatusResponse class. |
+| [DeleteStatusResponse](./deletestatusresponse/#constructor) | The default constructor. |
 
 ## Properties
 

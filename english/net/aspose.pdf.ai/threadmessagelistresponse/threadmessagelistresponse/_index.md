@@ -3,7 +3,7 @@ title: "ThreadMessageListResponse.ThreadMessageListResponse"
 linktitle: "ThreadMessageListResponse"
 articleTitle: "ThreadMessageListResponse"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ThreadMessageListResponse constructor. Initializes a new instance of the ThreadMessageListResponse class."
+description: "ThreadMessageListResponse constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/threadmessagelistresponse/threadmessagelistresponse/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## ThreadMessageListResponse() {#constructor}
 
-Initializes a new instance of the ThreadMessageListResponse class.
+The default constructor.
 
 ```csharp
 public ThreadMessageListResponse()

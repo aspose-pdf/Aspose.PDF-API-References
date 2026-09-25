@@ -45,7 +45,6 @@ public sealed class XYZExplicitDestination : ExplicitDestination
 | [CreateDestination](./createdestination/)(*Page, double, double, double, bool*) | Create destintion to specified location of the page considering page rotation if required. |
 | [CreateDestinationToUpperLeftCorner](./createdestinationtoupperleftcorner/)(*Page*) | Create destination to specified page. |
 | [CreateDestinationToUpperLeftCorner](./createdestinationtoupperleftcorner/)(*Page, double*) | Create destionation to upper left corner of the specifed page. |
-| [GetNumber](../../aspose.pdf.annotations/explicitdestination/getnumber/)(*int*) | Gets double value by specified index of element. *(Inherited from ExplicitDestination)* |
 | [ToString](./tostring/) | Converts the object state into string value. Example: "1 XYZ 100 200 3". |
 
 ### See Also

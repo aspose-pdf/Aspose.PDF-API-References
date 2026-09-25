@@ -18,12 +18,6 @@ Represents shape - the base graphics object.
 public abstract class Shape : IBoundsCheckableItem
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [Shape](./shape/#constructor) | Initializes a new instance of the Shape class. |
-
 ## Properties
 
 | Name | Description |
@@ -36,7 +30,6 @@ public abstract class Shape : IBoundsCheckableItem
 | Name | Description |
 | --- | --- |
 | [CheckBounds](./checkbounds/)(*double, double*) |  |
-| [ClipShading](./clipshading/)(*Point, Point*) | Sets clip shading. |
 
 ### See Also
 

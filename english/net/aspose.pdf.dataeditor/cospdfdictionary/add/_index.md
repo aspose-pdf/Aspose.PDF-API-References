@@ -3,7 +3,7 @@ title: "CosPdfDictionary.Add"
 linktitle: "Add"
 articleTitle: "Add"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CosPdfDictionary method. Set to dictionary."
+description: "CosPdfDictionary method. Set ICosPdfPrimitive to dictionary."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/add/"

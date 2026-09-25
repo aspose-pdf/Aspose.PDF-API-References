@@ -3,7 +3,7 @@ title: "PageDate.MonthComponent.PageDate.MonthComponent"
 linktitle: "PageDate.MonthComponent"
 articleTitle: "PageDate.MonthComponent"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "MonthComponent constructor. Initializes a new instance of the PageDate.MonthComponent class."
+description: "MonthComponent constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pagedate.monthcomponent/monthcomponent/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## PageDate.MonthComponent() {#constructor}
 
-Initializes a new instance of the PageDate.MonthComponent class.
+The default constructor.
 
 ```csharp
 public PageDate.MonthComponent()

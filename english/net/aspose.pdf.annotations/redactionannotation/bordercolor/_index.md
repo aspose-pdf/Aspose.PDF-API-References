@@ -5,7 +5,7 @@ articleTitle: "BorderColor"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "RedactionAnnotation property. Gets or sets color of border which is drawn when redaction is not active."
 type: docs
-weight: 110
+weight: 90
 url: "/net/aspose.pdf.annotations/redactionannotation/bordercolor/"
 product_version: "26.9.0"
 ---

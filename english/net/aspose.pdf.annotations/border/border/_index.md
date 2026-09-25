@@ -3,7 +3,7 @@ title: "Border.Border"
 linktitle: "Border"
 articleTitle: "Border"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Border constructor. Initializes a new instance of the Border class."
+description: "Border constructor. Constructor for border object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/border/border/"

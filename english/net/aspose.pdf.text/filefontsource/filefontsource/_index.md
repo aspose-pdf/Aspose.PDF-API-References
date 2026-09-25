@@ -3,7 +3,7 @@ title: "FileFontSource.FileFontSource"
 linktitle: "FileFontSource"
 articleTitle: "FileFontSource"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FileFontSource constructor. Initializes a new instance of the FileFontSource class."
+description: "FileFontSource constructor. Initializes a new instance of FileFontSource class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/filefontsource/filefontsource/"

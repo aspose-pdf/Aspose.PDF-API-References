@@ -72,8 +72,8 @@ public bool HasField(string fieldName, bool searchChildren)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fieldName | string | <see cref="P:Aspose.Pdf.Forms.Field.PartialName" /> or <see cref="P:Aspose.Pdf.Annotations.Annotation.FullName" /> of the field. |
-| searchChildren | bool | When set to <see langword="true" /> the whole hierarchy of form fields would be searched for the requested 
- (note that in this case the <see cref="P:Aspose.Pdf.Annotations.Annotation.FullName" /> of the required field should be passed as ). |
+| searchChildren | bool | When set to <see langword="true" /> the whole hierarchy of form fields would be searched for the requested *fieldName*
+ (note that in this case the <see cref="P:Aspose.Pdf.Annotations.Annotation.FullName" /> of the required field should be passed as *fieldName*). |
 
 ### Return Value
 

@@ -25,8 +25,8 @@ public sealed class FontCollection : IEnumerable
 | [Count](./count/) { get; } | Gets the number of [`Font`](../../aspose.pdf.text/font/) object elements actually contained in the collection. |
 | [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether collection is read-only. |
 | [IsSynchronized](./issynchronized/) { get; } | Gets a value indicating whether access to the collection is synchronized (thread safe). |
-| [Item](./item/) { get; } |  |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets the font element at the specified index. |
+| [Item](./item/) { get; } | Gets font from the collection by font name. |
 | [SyncRoot](./syncroot/) { get; } | Gets an object that can be used to synchronize access to the collection. |
 
 ## Methods

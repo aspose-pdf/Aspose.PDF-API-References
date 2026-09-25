@@ -22,7 +22,7 @@ public class Logprobs
 
 | Name | Description |
 | --- | --- |
-| [Logprobs](./logprobs/#constructor) | Initializes a new instance of the Logprobs class. |
+| [Logprobs](./logprobs/#constructor) | The default constructor. |
 
 ## Properties
 

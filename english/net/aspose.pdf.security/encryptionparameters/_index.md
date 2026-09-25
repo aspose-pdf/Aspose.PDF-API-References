@@ -22,7 +22,7 @@ public class EncryptionParameters
 
 | Name | Description |
 | --- | --- |
-| [EncryptionParameters](./encryptionparameters/#constructor) | Initializes a new instance of the EncryptionParameters class. |
+| [EncryptionParameters](./encryptionparameters/#constructor) | The default constructor. |
 
 ## Properties
 

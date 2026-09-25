@@ -18,17 +18,10 @@ Represents Action in PDF document
 public abstract class PdfAction : IAppointment
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [PdfAction](./pdfaction/#constructor) | Initializes a new instance of the PdfAction class. |
-
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [IsInitialized](./isinitialized/) { get; } | Indicates whether the action has been initialized. |
 | [Next](./next/) { get; } | Next actions in sequence. |
 
 ## Methods

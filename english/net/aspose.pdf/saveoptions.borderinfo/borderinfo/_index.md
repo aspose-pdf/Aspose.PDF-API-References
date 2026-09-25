@@ -3,7 +3,7 @@ title: "SaveOptions.BorderInfo.SaveOptions.BorderInfo"
 linktitle: "SaveOptions.BorderInfo"
 articleTitle: "SaveOptions.BorderInfo"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "BorderInfo constructor. Initializes a new instance of the SaveOptions.BorderInfo class."
+description: "BorderInfo constructor. Creates instance of BorderInfo class"
 type: docs
 weight: 10
 url: "/net/aspose.pdf/saveoptions.borderinfo/borderinfo/"

@@ -3,7 +3,7 @@ title: "TiffOptions Class"
 linktitle: "TiffOptions"
 articleTitle: "TiffOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.TiffOptions class. Represents Pdf to Tiff converter options for the plugin."
+description: "Aspose.Pdf.LowCode.TiffOptions class. Represents Pdf to Tiff converter options for the Tiff plugin."
 type: docs
 weight: 1010
 url: "/net/aspose.pdf.lowcode/tiffoptions/"
@@ -22,7 +22,7 @@ public sealed class TiffOptions : PdfToImageOptions
 
 | Name | Description |
 | --- | --- |
-| [TiffOptions](./tiffoptions/#constructor) | Initializes a new instance of the TiffOptions class. |
+| [TiffOptions](./tiffoptions/#constructor) | The default constructor. |
 
 ## Properties
 
@@ -48,13 +48,6 @@ public sealed class TiffOptions : PdfToImageOptions
 | --- | --- |
 | [AddInput](../../aspose.pdf.lowcode/pdftoimageoptions/addinput/)(*IDataSource*) | Adds new data source to the [`PdfToImage`](../../aspose.pdf.lowcode/pdftoimage/) plugin data collection. *(Inherited from PdfToImageOptions)* |
 | [AddOutput](../../aspose.pdf.lowcode/pdftoimageoptions/addoutput/)(*IDataSource*) | Sets new save data source. Can only be a . If you want save images into memory streams, pass null as parameter. *(Inherited from PdfToImageOptions)* |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| const [defaultOutputImageJpegQuality](../../aspose.pdf.lowcode/pdftoimageoptions/defaultoutputimagejpegquality/) | *(Inherited from PdfToImageOptions)* |
-| const [defaultOutputImageResolution](../../aspose.pdf.lowcode/pdftoimageoptions/defaultoutputimageresolution/) | *(Inherited from PdfToImageOptions)* |
 
 ### See Also
 

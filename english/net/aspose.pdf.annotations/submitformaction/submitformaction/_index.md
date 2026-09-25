@@ -3,7 +3,7 @@ title: "SubmitFormAction.SubmitFormAction"
 linktitle: "SubmitFormAction"
 articleTitle: "SubmitFormAction"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SubmitFormAction constructor. Initializes a new instance of the SubmitFormAction class."
+description: "SubmitFormAction constructor. Initializes SubmitFormAction object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/submitformaction/submitformaction/"

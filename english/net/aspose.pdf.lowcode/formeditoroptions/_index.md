@@ -3,7 +3,7 @@ title: "FormEditorOptions Class"
 linktitle: "FormEditorOptions"
 articleTitle: "FormEditorOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.FormEditorOptions class. Represents options for plugin."
+description: "Aspose.Pdf.LowCode.FormEditorOptions class. Represents options for FormEditor plugin."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.lowcode/formeditoroptions/"
@@ -17,12 +17,6 @@ Represents options for [`FormEditor`](../../aspose.pdf.lowcode/formeditor/) plug
 ```csharp
 public abstract class FormEditorOptions : FormOptions, IPluginOptions
 ```
-
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [FormEditorOptions](./formeditoroptions/#constructor) | Initializes a new instance of the FormEditorOptions class. |
 
 ## Properties
 

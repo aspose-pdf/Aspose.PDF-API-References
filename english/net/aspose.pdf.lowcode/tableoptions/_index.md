@@ -3,7 +3,7 @@ title: "TableOptions Class"
 linktitle: "TableOptions"
 articleTitle: "TableOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.TableOptions class. Represents options for add table to document by plugin."
+description: "Aspose.Pdf.LowCode.TableOptions class. Represents options for add table to document by TableGenerator plugin."
 type: docs
 weight: 950
 url: "/net/aspose.pdf.lowcode/tableoptions/"
@@ -22,7 +22,7 @@ public sealed class TableOptions : PdfGeneratorOptions
 
 | Name | Description |
 | --- | --- |
-| [TableOptions](./tableoptions/#constructor) | Initializes a new instance of the TableOptions class. |
+| [TableOptions](./tableoptions/#constructor) | The default constructor. |
 
 ## Properties
 

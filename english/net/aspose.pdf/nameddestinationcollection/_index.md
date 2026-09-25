@@ -23,7 +23,7 @@ public class NamedDestinationCollection : INamedDestinationCollection
 | Name | Description |
 | --- | --- |
 | [Count](./count/) { get; } | Count of named destinations. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets or sets appointment by its name. |
 | [Names](./names/) { get; } | List of names of the destinations. |
 
 ## Methods

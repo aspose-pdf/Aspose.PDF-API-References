@@ -3,7 +3,7 @@ title: "XmpPdfAExtensionProperty.XmpPdfAExtensionProperty"
 linktitle: "XmpPdfAExtensionProperty"
 articleTitle: "XmpPdfAExtensionProperty"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "XmpPdfAExtensionProperty constructor. Initializes a new instance of the XmpPdfAExtensionProperty class."
+description: "XmpPdfAExtensionProperty constructor. Initializes new object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xmppdfaextensionproperty/xmppdfaextensionproperty/"

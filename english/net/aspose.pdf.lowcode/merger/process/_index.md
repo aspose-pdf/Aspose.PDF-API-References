@@ -3,7 +3,7 @@ title: "Merger.Process"
 linktitle: "Process"
 articleTitle: "Process"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Merger method. Starts the processing with the specified parameters."
+description: "Merger method. Starts the Merger processing with the specified parameters."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/merger/process/"

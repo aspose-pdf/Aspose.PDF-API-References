@@ -22,7 +22,7 @@ public class TruncationStrategy
 
 | Name | Description |
 | --- | --- |
-| [TruncationStrategy](./truncationstrategy/#constructor) | Initializes a new instance of the TruncationStrategy class. |
+| [TruncationStrategy](./truncationstrategy/#constructor) | The default constructor. |
 
 ## Properties
 

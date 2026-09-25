@@ -5,7 +5,7 @@ articleTitle: "Add"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "BaseOperatorCollection method. Adds new operator into collection."
 type: docs
-weight: 70
+weight: 60
 url: "/net/aspose.pdf/baseoperatorcollection/add/"
 product_version: "26.9.0"
 ---

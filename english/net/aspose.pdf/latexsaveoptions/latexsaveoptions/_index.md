@@ -3,7 +3,7 @@ title: "LaTeXSaveOptions.LaTeXSaveOptions"
 linktitle: "LaTeXSaveOptions"
 articleTitle: "LaTeXSaveOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "LaTeXSaveOptions constructor. Initializes a new instance of the LaTeXSaveOptions class."
+description: "LaTeXSaveOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/latexsaveoptions/latexsaveoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## LaTeXSaveOptions() {#constructor}
 
-Initializes a new instance of the LaTeXSaveOptions class.
+The default constructor.
 
 ```csharp
 public LaTeXSaveOptions()

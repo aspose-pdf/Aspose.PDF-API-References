@@ -32,7 +32,7 @@ public sealed class DocumentInfo
 | [CreationDate](./creationdate/) { get; set; } | Gets or sets the date of document creation. |
 | [CreationTimeZone](./creationtimezone/) { get; set; } | Time zone of creation date. |
 | [Creator](./creator/) { get; set; } | Gets or sets document creator. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets or sets the value associated with the specified key. |
 | [Keywords](./keywords/) { get; set; } | Gets or set the keywords of the document. |
 | [ModDate](./moddate/) { get; set; } | Gets or sets the date of document modification. |
 | [ModTimeZone](./modtimezone/) { get; set; } | Time zone of modification date. |

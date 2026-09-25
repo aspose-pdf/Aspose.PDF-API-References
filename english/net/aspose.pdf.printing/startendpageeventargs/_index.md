@@ -3,7 +3,7 @@ title: "StartEndPageEventArgs Class"
 linktitle: "StartEndPageEventArgs"
 articleTitle: "StartEndPageEventArgs"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.Printing.StartEndPageEventArgs class. Provides data for the and events of the class."
+description: "Aspose.Pdf.Printing.StartEndPageEventArgs class. Provides data for the StartPage and EndPage events of the PdfViewer class."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.printing/startendpageeventargs/"

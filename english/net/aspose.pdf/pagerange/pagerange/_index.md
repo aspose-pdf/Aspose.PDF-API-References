@@ -3,7 +3,7 @@ title: "PageRange.PageRange"
 linktitle: "PageRange"
 articleTitle: "PageRange"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PageRange constructor. Initializes a new instance of the PageRange class."
+description: "PageRange constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pagerange/pagerange/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## PageRange() {#constructor}
 
-Initializes a new instance of the PageRange class.
+The default constructor.
 
 ```csharp
 public PageRange()

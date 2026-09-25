@@ -22,7 +22,7 @@ public class ImageCompressionOptions
 
 | Name | Description |
 | --- | --- |
-| [ImageCompressionOptions](./imagecompressionoptions/#constructor) | Initializes a new instance of the ImageCompressionOptions class. |
+| [ImageCompressionOptions](./imagecompressionoptions/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -41,7 +41,6 @@ public sealed class Arc : Shape
 | Name | Description |
 | --- | --- |
 | [CheckBounds](./checkbounds/)(*double, double*) |  |
-| [ClipShading](../../aspose.pdf.drawing/shape/clipshading/)(*Point, Point*) | Sets clip shading. *(Inherited from Shape)* |
 
 ### See Also
 

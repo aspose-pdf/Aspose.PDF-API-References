@@ -3,7 +3,7 @@ title: "Bookmarks Class"
 linktitle: "Bookmarks"
 articleTitle: "Bookmarks"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.Facades.Bookmarks class. Represents a collection of objects."
+description: "Aspose.Pdf.Facades.Bookmarks class. Represents a collection of Bookmark objects."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/bookmarks/"
@@ -22,7 +22,7 @@ public sealed class Bookmarks
 
 | Name | Description |
 | --- | --- |
-| [Bookmarks](./bookmarks/#constructor) | Initializes a new instance of the Bookmarks class. |
+| [Bookmarks](./bookmarks/#constructor) | The default constructor. |
 
 ### See Also
 

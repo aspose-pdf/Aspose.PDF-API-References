@@ -25,8 +25,8 @@ public sealed class XImageCollection : IEnumerable
 | [Count](./count/) { get; } | Count of images in collection. |
 | [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether the collection is read-only. |
 | [IsSynchronized](./issynchronized/) { get; } | Returns true if object is synchronized. |
-| [Item](./item/) { get; } |  |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets image from collection by its index. |
+| [Item](./item/) { get; } | Gets image from collection by its name. |
 | [Names](./names/) { get; } | Gets array of image names. |
 | [SyncRoot](./syncroot/) { get; } | Returns synchronization object. |
 

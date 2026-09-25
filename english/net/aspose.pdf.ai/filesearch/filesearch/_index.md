@@ -3,7 +3,7 @@ title: "FileSearch.FileSearch"
 linktitle: "FileSearch"
 articleTitle: "FileSearch"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FileSearch constructor. Initializes a new instance of the FileSearch class."
+description: "FileSearch constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/filesearch/filesearch/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## FileSearch() {#constructor}
 
-Initializes a new instance of the FileSearch class.
+The default constructor.
 
 ```csharp
 public FileSearch()

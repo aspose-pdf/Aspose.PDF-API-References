@@ -5,7 +5,7 @@ articleTitle: "XslStream"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "XmlLoadOptions property. Gets xsl data for converting xml into pdf document."
 type: docs
-weight: 50
+weight: 40
 url: "/net/aspose.pdf/xmlloadoptions/xslstream/"
 product_version: "26.9.0"
 ---

@@ -24,7 +24,7 @@ public class CssUrlRequestInfo
 
 | Name | Description |
 | --- | --- |
-| [HtmlSaveOptions.CssUrlRequestInfo](./cssurlrequestinfo/#constructor) | Initializes a new instance of the HtmlSaveOptions.CssUrlRequestInfo class. |
+| [HtmlSaveOptions.CssUrlRequestInfo](./cssurlrequestinfo/#constructor) | The default constructor. |
 
 ## Fields
 

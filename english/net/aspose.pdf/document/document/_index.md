@@ -3,7 +3,7 @@ title: "Document.Document"
 linktitle: "Document"
 articleTitle: "Document"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Document constructor. Initializes a new instance of the Document class."
+description: "Document constructor. Initialize new Document instance from the input stream."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/document/document/"
@@ -27,7 +27,7 @@ public Document()
 
 ## Document(Stream) {#constructor_1}
 
-Initialize new Document instance from the stream.
+Initialize new Document instance from the *input* stream.
 
 ```csharp
 public Document(Stream input)
@@ -47,7 +47,7 @@ public Document(Stream input)
 
 ## Document(string) {#constructor_2}
 
-Just init Document using . The same as `#ctor`.
+Just init Document using *filename*. The same as `#ctor`.
 
 ```csharp
 public Document(string filename)
@@ -87,7 +87,7 @@ public Document(PdfVersion version)
 
 ## Document(Stream, bool) {#constructor_4}
 
-Initialize new Document instance from the stream.
+Initialize new Document instance from the *input* stream.
 
 ```csharp
 public Document(Stream input, bool isManagedStream)
@@ -108,7 +108,7 @@ public Document(Stream input, bool isManagedStream)
 
 ## Document(Stream, string) {#constructor_5}
 
-Initialize new Document instance from the stream.
+Initialize new Document instance from the *input* stream.
 
 ```csharp
 public Document(Stream input, string password)
@@ -129,7 +129,7 @@ public Document(Stream input, string password)
 
 ## Document(Stream, [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)) {#constructor_6}
 
-Initialize new Document instance from the stream.
+Initialize new Document instance from the *input* stream.
 
 ```csharp
 public Document(Stream input, CertificateEncryptionOptions certOptions)
@@ -171,7 +171,7 @@ public Document(string filename, CertificateEncryptionOptions certOptions)
 
 ## Document(string, bool) {#constructor_8}
 
-Just init Document using . The same as `#ctor`.
+Just init Document using *filename*. The same as `#ctor`.
 
 ```csharp
 public Document(string filename, bool isManagedStream)
@@ -222,7 +222,7 @@ public Document(string filename, LoadOptions options)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filename | string | Input file to convert into pdf document. |
-| options | LoadOptions | Represents properties for converting into pdf document. |
+| options | LoadOptions | Represents properties for converting *filename* into pdf document. |
 
 ### See Also
 
@@ -243,7 +243,7 @@ public Document(Stream input, LoadOptions options)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | input | Stream | Input stream to convert into pdf document. |
-| options | LoadOptions | Represents properties for converting into pdf document. |
+| options | LoadOptions | Represents properties for converting *input* into pdf document. |
 
 ### See Also
 
@@ -255,7 +255,7 @@ public Document(Stream input, LoadOptions options)
 
 ## Document(Stream, [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/), bool) {#constructor_12}
 
-Initialize new Document instance from the stream.
+Initialize new Document instance from the *input* stream.
 
 ```csharp
 public Document(Stream input, CertificateEncryptionOptions certOptions, bool isManagedStream)
@@ -299,7 +299,7 @@ public Document(string filename, CertificateEncryptionOptions certOptions, bool 
 
 ## Document(Stream, string, [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)) {#constructor_14}
 
-Initialize new Document instance from the stream.
+Initialize new Document instance from the *input* stream.
 
 ```csharp
 public Document(Stream input, string password, ICustomSecurityHandler customSecurityHandler)
@@ -321,7 +321,7 @@ public Document(Stream input, string password, ICustomSecurityHandler customSecu
 
 ## Document(Stream, string, bool) {#constructor_15}
 
-Initialize new Document instance from the stream.
+Initialize new Document instance from the *input* stream.
 
 ```csharp
 public Document(Stream input, string password, bool isManagedStream)
@@ -387,7 +387,7 @@ public Document(string filename, string password, bool isManagedStream)
 
 ## Document(Stream, string, bool, [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)) {#constructor_18}
 
-Initialize new Document instance from the stream.
+Initialize new Document instance from the *input* stream.
 
 ```csharp
 public Document(Stream input, string password, bool isManagedStream, ICustomSecurityHandler customSecurityHandler)

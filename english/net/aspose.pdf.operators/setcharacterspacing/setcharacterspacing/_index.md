@@ -3,7 +3,7 @@ title: "SetCharacterSpacing.SetCharacterSpacing"
 linktitle: "SetCharacterSpacing"
 articleTitle: "SetCharacterSpacing"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SetCharacterSpacing constructor. Initializes a new instance of the SetCharacterSpacing class."
+description: "SetCharacterSpacing constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setcharacterspacing/setcharacterspacing/"

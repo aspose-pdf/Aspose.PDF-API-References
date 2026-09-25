@@ -3,7 +3,7 @@ title: "Aspose.Pdf.XfaConverter"
 linktitle: "Aspose.Pdf.XfaConverter"
 articleTitle: "Aspose.Pdf.XfaConverter"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The **Aspose.Pdf.XfaConverter** namespace provides classes."
+description: "The Aspose.Pdf.XfaConverter namespace provides classes."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.xfaconverter/"

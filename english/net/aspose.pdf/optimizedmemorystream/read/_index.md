@@ -5,7 +5,7 @@ articleTitle: "Read"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "OptimizedMemoryStream method. When overridden in a derived class, reads a sequence of bytes from the current stream and advances the position within the stre..."
 type: docs
-weight: 60
+weight: 50
 url: "/net/aspose.pdf/optimizedmemorystream/read/"
 product_version: "26.9.0"
 ---

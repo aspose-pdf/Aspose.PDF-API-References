@@ -3,7 +3,7 @@ title: "TextSegment.TextState"
 linktitle: "TextState"
 articleTitle: "TextState"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextSegment property. Gets or sets text state for the text that object represents."
+description: "TextSegment property. Gets or sets text state for the text that TextSegment object represents."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/textsegment/textstate/"

@@ -29,7 +29,7 @@ public class PDF3DCrossSectionArray
 | Name | Description |
 | --- | --- |
 | [Count](./count/) { get; } | Gets the cross section count. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets or sets the [`PDF3DCrossSection`](../../aspose.pdf.annotations/pdf3dcrosssection/) at the specified index. |
 
 ## Methods
 

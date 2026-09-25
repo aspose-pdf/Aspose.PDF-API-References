@@ -3,7 +3,7 @@ title: "FontColor.FontColor"
 linktitle: "FontColor"
 articleTitle: "FontColor"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FontColor constructor. Initializes a new instance of the FontColor class."
+description: "FontColor constructor. Initializes color with specified color components."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/fontcolor/fontcolor/"

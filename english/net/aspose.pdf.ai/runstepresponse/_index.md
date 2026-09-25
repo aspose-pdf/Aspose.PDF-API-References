@@ -22,7 +22,7 @@ public class RunStepResponse : BaseResponse
 
 | Name | Description |
 | --- | --- |
-| [RunStepResponse](./runstepresponse/#constructor) | Initializes a new instance of the RunStepResponse class. |
+| [RunStepResponse](./runstepresponse/#constructor) | The default constructor. |
 
 ## Properties
 

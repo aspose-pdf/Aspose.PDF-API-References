@@ -3,7 +3,7 @@ title: "SvgExtractor.Extract"
 linktitle: "Extract"
 articleTitle: "Extract"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SvgExtractor method. Exracts svg image to string from graphic elements represents by with a predicate filter."
+description: "SvgExtractor method. Exracts svg image to string from graphic elements represents by !:absorber with a predicate filter."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.vector/svgextractor/extract/"

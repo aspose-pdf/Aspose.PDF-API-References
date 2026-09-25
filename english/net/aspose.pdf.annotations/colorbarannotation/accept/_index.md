@@ -5,7 +5,7 @@ articleTitle: "Accept"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "ColorBarAnnotation method. Accepts visitor object to process the annotation."
 type: docs
-weight: 30
+weight: 20
 url: "/net/aspose.pdf.annotations/colorbarannotation/accept/"
 product_version: "26.9.0"
 ---

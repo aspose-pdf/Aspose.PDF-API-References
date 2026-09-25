@@ -3,7 +3,7 @@ title: "ElementList.ElementOf"
 linktitle: "ElementOf"
 articleTitle: "ElementOf"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ElementList property."
+description: "ElementList property. Gets an element at the given index."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/elementlist/elementof/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## ElementList.ElementOf property
 
-
+Gets an element at the given index.
 
 ```csharp
 public Element ElementOf { get; }

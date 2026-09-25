@@ -5,7 +5,7 @@ articleTitle: "TopP"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "OpenAIAssistantCopilotOptionsBase property. Gets or sets the top-p value for nucleus sampling."
 type: docs
-weight: 30
+weight: 20
 url: "/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/topp/"
 product_version: "26.9.0"
 ---

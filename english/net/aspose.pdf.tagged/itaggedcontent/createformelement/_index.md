@@ -3,7 +3,7 @@ title: "ITaggedContent.CreateFormElement"
 linktitle: "CreateFormElement"
 articleTitle: "CreateFormElement"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ITaggedContent method. Creates ."
+description: "ITaggedContent method. Creates FormElement."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.tagged/itaggedcontent/createformelement/"

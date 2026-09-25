@@ -22,7 +22,7 @@ public class PdfXmlSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfXmlSaveOptions](./pdfxmlsaveoptions/#constructor) | Initializes a new instance of the PdfXmlSaveOptions class. |
+| [PdfXmlSaveOptions](./pdfxmlsaveoptions/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -5,7 +5,7 @@ articleTitle: "Subject"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "MarkupAnnotation property. Gets text representing desciption of the object."
 type: docs
-weight: 160
+weight: 110
 url: "/net/aspose.pdf.annotations/markupannotation/subject/"
 product_version: "26.9.0"
 ---

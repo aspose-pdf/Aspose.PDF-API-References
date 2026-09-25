@@ -3,7 +3,7 @@ title: "PdfFormatConversionOptions.ExcludeFontsStrategy"
 linktitle: "ExcludeFontsStrategy"
 articleTitle: "ExcludeFontsStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfFormatConversionOptions property. Strategy(ies) to exclude superfluous fonts and reduce document file size. This parameter has sense only when flag is set..."
+description: "PdfFormatConversionOptions property. Strategy(ies) to exclude superfluous fonts and reduce document file size. This parameter has sense only when flag Optimi..."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/pdfformatconversionoptions/excludefontsstrategy/"

@@ -3,7 +3,7 @@ title: "HtmlSaveOptions.HtmlImageSavingInfo.HtmlSaveOptions.HtmlImageSavingInfo"
 linktitle: "HtmlSaveOptions.HtmlImageSavingInfo"
 articleTitle: "HtmlSaveOptions.HtmlImageSavingInfo"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "HtmlImageSavingInfo constructor. Initializes a new instance of the HtmlSaveOptions.HtmlImageSavingInfo class."
+description: "HtmlImageSavingInfo constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlimagesavinginfo/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## HtmlSaveOptions.HtmlImageSavingInfo() {#constructor}
 
-Initializes a new instance of the HtmlSaveOptions.HtmlImageSavingInfo class.
+The default constructor.
 
 ```csharp
 public HtmlSaveOptions.HtmlImageSavingInfo()

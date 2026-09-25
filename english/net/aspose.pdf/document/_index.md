@@ -23,24 +23,24 @@ public sealed class Document : IDisposable
 | Name | Description |
 | --- | --- |
 | [Document](./document/#constructor) | Initializes empty document. |
-| [Document](./document/#constructor_1)(*Stream*) | Initialize new Document instance from the stream. |
-| [Document](./document/#constructor_2)(*string*) | Just init Document using . The same as `#ctor`. |
+| [Document](./document/#constructor_1)(*Stream*) | Initialize new Document instance from the *input* stream. |
+| [Document](./document/#constructor_2)(*string*) | Just init Document using *filename*. The same as `#ctor`. |
 | [Document](./document/#constructor_3)(*[PdfVersion](../../aspose.pdf/pdfversion/)*) | Initializes empty document by version. |
-| [Document](./document/#constructor_4)(*Stream, bool*) | Initialize new Document instance from the stream. |
-| [Document](./document/#constructor_5)(*Stream, string*) | Initialize new Document instance from the stream. |
-| [Document](./document/#constructor_6)(*Stream, [CertificateEncryptionOptions](../../aspose.pdf.security/certificateencryptionoptions/)*) | Initialize new Document instance from the stream. |
+| [Document](./document/#constructor_4)(*Stream, bool*) | Initialize new Document instance from the *input* stream. |
+| [Document](./document/#constructor_5)(*Stream, string*) | Initialize new Document instance from the *input* stream. |
+| [Document](./document/#constructor_6)(*Stream, [CertificateEncryptionOptions](../../aspose.pdf.security/certificateencryptionoptions/)*) | Initialize new Document instance from the *input* stream. |
 | [Document](./document/#constructor_7)(*string, [CertificateEncryptionOptions](../../aspose.pdf.security/certificateencryptionoptions/)*) | Initializes new instance of the [`Document`](../../aspose.pdf/document/) class for working with encrypted document. |
-| [Document](./document/#constructor_8)(*string, bool*) | Just init Document using . The same as `#ctor`. |
+| [Document](./document/#constructor_8)(*string, bool*) | Just init Document using *filename*. The same as `#ctor`. |
 | [Document](./document/#constructor_9)(*string, string*) | Initializes new instance of the [`Document`](../../aspose.pdf/document/) class for working with encrypted document. |
 | [Document](./document/#constructor_10)(*string, [LoadOptions](../../aspose.pdf/loadoptions/)*) | Opens an existing document from a file providing necessary converting options to get pdf document. |
 | [Document](./document/#constructor_11)(*Stream, [LoadOptions](../../aspose.pdf/loadoptions/)*) | Opens an existing document from a stream providing necessary converting to get pdf document. |
-| [Document](./document/#constructor_12)(*Stream, [CertificateEncryptionOptions](../../aspose.pdf.security/certificateencryptionoptions/), bool*) | Initialize new Document instance from the stream. |
+| [Document](./document/#constructor_12)(*Stream, [CertificateEncryptionOptions](../../aspose.pdf.security/certificateencryptionoptions/), bool*) | Initialize new Document instance from the *input* stream. |
 | [Document](./document/#constructor_13)(*string, [CertificateEncryptionOptions](../../aspose.pdf.security/certificateencryptionoptions/), bool*) | Initializes new instance of the [`Document`](../../aspose.pdf/document/) class for working with encrypted document. |
-| [Document](./document/#constructor_14)(*Stream, string, [ICustomSecurityHandler](../../aspose.pdf.security/icustomsecurityhandler/)*) | Initialize new Document instance from the stream. |
-| [Document](./document/#constructor_15)(*Stream, string, bool*) | Initialize new Document instance from the stream. |
+| [Document](./document/#constructor_14)(*Stream, string, [ICustomSecurityHandler](../../aspose.pdf.security/icustomsecurityhandler/)*) | Initialize new Document instance from the *input* stream. |
+| [Document](./document/#constructor_15)(*Stream, string, bool*) | Initialize new Document instance from the *input* stream. |
 | [Document](./document/#constructor_16)(*string, string, [ICustomSecurityHandler](../../aspose.pdf.security/icustomsecurityhandler/)*) | Initializes new instance of the [`Document`](../../aspose.pdf/document/) class for working with encrypted document. |
 | [Document](./document/#constructor_17)(*string, string, bool*) | Initializes new instance of the [`Document`](../../aspose.pdf/document/) class for working with encrypted document. |
-| [Document](./document/#constructor_18)(*Stream, string, bool, [ICustomSecurityHandler](../../aspose.pdf.security/icustomsecurityhandler/)*) | Initialize new Document instance from the stream. |
+| [Document](./document/#constructor_18)(*Stream, string, bool, [ICustomSecurityHandler](../../aspose.pdf.security/icustomsecurityhandler/)*) | Initialize new Document instance from the *input* stream. |
 | [Document](./document/#constructor_19)(*string, string, bool, [ICustomSecurityHandler](../../aspose.pdf.security/icustomsecurityhandler/)*) | Initializes new instance of the [`Document`](../../aspose.pdf/document/) class for working with encrypted document. |
 
 ## Properties

@@ -3,7 +3,7 @@ title: "Point.Point"
 linktitle: "Point"
 articleTitle: "Point"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Point constructor. Initializes a new instance of the Point class."
+description: "Point constructor. Initializes new instance of the Point."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/point/point/"

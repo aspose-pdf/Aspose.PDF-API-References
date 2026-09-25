@@ -22,7 +22,7 @@ public class PrinterSettings
 
 | Name | Description |
 | --- | --- |
-| [PrinterSettings](./printersettings/#constructor) | Initializes a new instance of the PrinterSettings class. |
+| [PrinterSettings](./printersettings/#constructor) | The default constructor. |
 
 ## Properties
 

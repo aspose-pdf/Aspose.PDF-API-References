@@ -3,7 +3,7 @@ title: "ObsoleteFill.ObsoleteFill"
 linktitle: "ObsoleteFill"
 articleTitle: "ObsoleteFill"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ObsoleteFill constructor. Initializes a new instance of the ObsoleteFill class."
+description: "ObsoleteFill constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/obsoletefill/obsoletefill/"

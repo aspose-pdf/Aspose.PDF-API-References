@@ -5,7 +5,7 @@ articleTitle: "Characteristics"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Annotation property. Gets annotation characteristics."
 type: docs
-weight: 320
+weight: 190
 url: "/net/aspose.pdf.annotations/annotation/characteristics/"
 product_version: "26.9.0"
 ---

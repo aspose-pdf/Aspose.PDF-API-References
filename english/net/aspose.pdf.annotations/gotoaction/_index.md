@@ -34,7 +34,6 @@ public class GoToAction : PdfAction
 | Name | Description |
 | --- | --- |
 | [Destination](./destination/) { get; set; } | Gets or sets the destination to jump to. |
-| [IsInitialized](../../aspose.pdf.annotations/pdfaction/isinitialized/) { get; } | Indicates whether the action has been initialized. *(Inherited from PdfAction)* |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. *(Inherited from PdfAction)* |
 
 ## Methods

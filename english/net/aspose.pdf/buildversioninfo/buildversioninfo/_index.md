@@ -3,7 +3,7 @@ title: "BuildVersionInfo.BuildVersionInfo"
 linktitle: "BuildVersionInfo"
 articleTitle: "BuildVersionInfo"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "BuildVersionInfo constructor. Initializes a new instance of the BuildVersionInfo class."
+description: "BuildVersionInfo constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/buildversioninfo/buildversioninfo/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## BuildVersionInfo() {#constructor}
 
-Initializes a new instance of the BuildVersionInfo class.
+The default constructor.
 
 ```csharp
 public BuildVersionInfo()

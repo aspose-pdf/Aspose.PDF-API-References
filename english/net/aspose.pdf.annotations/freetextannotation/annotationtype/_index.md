@@ -5,7 +5,7 @@ articleTitle: "AnnotationType"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FreeTextAnnotation property. Gets type of annotation."
 type: docs
-weight: 180
+weight: 150
 url: "/net/aspose.pdf.annotations/freetextannotation/annotationtype/"
 product_version: "26.9.0"
 ---

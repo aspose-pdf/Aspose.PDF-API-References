@@ -22,7 +22,7 @@ public class ApsSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [ApsSaveOptions](./apssaveoptions/#constructor) | Initializes a new instance of the ApsSaveOptions class. |
+| [ApsSaveOptions](./apssaveoptions/#constructor) | The default constructor. |
 
 ## Properties
 

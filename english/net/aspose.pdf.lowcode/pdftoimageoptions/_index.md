@@ -3,7 +3,7 @@ title: "PdfToImageOptions Class"
 linktitle: "PdfToImageOptions"
 articleTitle: "PdfToImageOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.PdfToImageOptions class. Represents options for the plugin."
+description: "Aspose.Pdf.LowCode.PdfToImageOptions class. Represents options for the PdfToImage plugin."
 type: docs
 weight: 720
 url: "/net/aspose.pdf.lowcode/pdftoimageoptions/"
@@ -35,13 +35,6 @@ public abstract class PdfToImageOptions : IPluginOptions
 | --- | --- |
 | [AddInput](./addinput/)(*IDataSource*) | Adds new data source to the [`PdfToImage`](../../aspose.pdf.lowcode/pdftoimage/) plugin data collection. |
 | [AddOutput](./addoutput/)(*IDataSource*) | Sets new save data source. Can only be a . If you want save images into memory streams, pass null as parameter. |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| const [defaultOutputImageJpegQuality](./defaultoutputimagejpegquality/) |  |
-| const [defaultOutputImageResolution](./defaultoutputimageresolution/) |  |
 
 ## Remarks
 

@@ -22,7 +22,7 @@ public class ExpiresAfter
 
 | Name | Description |
 | --- | --- |
-| [ExpiresAfter](./expiresafter/#constructor) | Initializes a new instance of the ExpiresAfter class. |
+| [ExpiresAfter](./expiresafter/#constructor) | The default constructor. |
 
 ## Properties
 

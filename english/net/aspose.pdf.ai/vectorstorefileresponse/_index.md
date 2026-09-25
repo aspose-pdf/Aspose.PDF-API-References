@@ -22,7 +22,7 @@ public class VectorStoreFileResponse : BaseResponse, IStatus
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreFileResponse](./vectorstorefileresponse/#constructor) | Initializes a new instance of the VectorStoreFileResponse class. |
+| [VectorStoreFileResponse](./vectorstorefileresponse/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -5,7 +5,7 @@ articleTitle: "SaveToSvg"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "GraphicElement method. Converts the element into a single SVG image."
 type: docs
-weight: 60
+weight: 30
 url: "/net/aspose.pdf.vector/graphicelement/savetosvg/"
 product_version: "26.9.0"
 ---

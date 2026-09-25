@@ -23,7 +23,7 @@ public sealed class PdfAnnotationEditor : SaveableFacade
 | Name | Description |
 | --- | --- |
 | [PdfAnnotationEditor](./pdfannotationeditor/#constructor) | Initializes new [`PdfAnnotationEditor`](../../aspose.pdf.facades/pdfannotationeditor/) object. |
-| [PdfAnnotationEditor](./pdfannotationeditor/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfAnnotationEditor`](../../aspose.pdf.facades/pdfannotationeditor/) object on base of the . |
+| [PdfAnnotationEditor](./pdfannotationeditor/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfAnnotationEditor`](../../aspose.pdf.facades/pdfannotationeditor/) object on base of the *document*. |
 
 ## Properties
 
@@ -35,10 +35,7 @@ public sealed class PdfAnnotationEditor : SaveableFacade
 
 | Name | Description |
 | --- | --- |
-| [AssertDocument](../../aspose.pdf.facades/facade/assertdocument/) | Asserts if the facade is initialized. *(Inherited from Facade)* |
 | [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. *(Inherited from Facade)* |
 | [Close](../../aspose.pdf.facades/facade/close/) | Disposes Aspose.Pdf.Document bound with a facade. *(Inherited from Facade)* |
 | [DeleteAnnotation](./deleteannotation/)(*string*) | Deletes the annotation with specified annotation name. |
 | [DeleteAnnotations](./deleteannotations/) | Deletes all annotations in the document. |

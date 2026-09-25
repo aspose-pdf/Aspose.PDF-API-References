@@ -3,7 +3,7 @@ title: "AICopilotException.AICopilotException"
 linktitle: "AICopilotException"
 articleTitle: "AICopilotException"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "AICopilotException constructor. Initializes a new instance of the AICopilotException class."
+description: "AICopilotException constructor. Initializes a new instance of the AICopilotException class with a specified error message."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/aicopilotexception/aicopilotexception/"

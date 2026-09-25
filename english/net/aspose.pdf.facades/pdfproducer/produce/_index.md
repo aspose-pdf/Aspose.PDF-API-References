@@ -5,7 +5,7 @@ articleTitle: "Produce"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfProducer method. Produce the PDF stream using specified import format. This sample shows how to produce Pdf stream from CGM stream. string inputFile = \"my..."
 type: docs
-weight: 20
+weight: 10
 url: "/net/aspose.pdf.facades/pdfproducer/produce/"
 product_version: "26.9.0"
 ---

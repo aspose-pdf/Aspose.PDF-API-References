@@ -22,7 +22,7 @@ public class DjvuLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [DjvuLoadOptions](./djvuloadoptions/#constructor) | Initializes a new instance of the DjvuLoadOptions class. |
+| [DjvuLoadOptions](./djvuloadoptions/#constructor) | The default constructor. |
 
 ## Properties
 

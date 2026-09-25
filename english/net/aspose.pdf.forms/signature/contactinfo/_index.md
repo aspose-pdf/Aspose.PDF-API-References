@@ -5,7 +5,7 @@ articleTitle: "ContactInfo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Signature property. Information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number."
 type: docs
-weight: 170
+weight: 160
 url: "/net/aspose.pdf.forms/signature/contactinfo/"
 product_version: "26.9.0"
 ---

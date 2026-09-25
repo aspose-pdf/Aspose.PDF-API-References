@@ -3,7 +3,7 @@ title: "Page.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Page method. Accepts visitor object that provides functionality to work with annotations."
+description: "Page method. Accepts AnnotationSelector visitor object that provides functionality to work with annotations."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/page/accept/"
@@ -105,7 +105,7 @@ public void Accept(OcrTextAbsorber visitor)
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | Thrown when is <see langword="null" />. |
+| ArgumentNullException | Thrown when *visitor* is <see langword="null" />. |
 
 ### See Also
 

@@ -5,7 +5,7 @@ articleTitle: "SystemInstructions"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "LlamaCopilotOptionsBase property. Gets or sets the file path for the text file containing assistant system instructions."
 type: docs
-weight: 60
+weight: 50
 url: "/net/aspose.pdf.ai/llamacopilotoptionsbase/systeminstructions/"
 product_version: "26.9.0"
 ---

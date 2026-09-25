@@ -22,7 +22,7 @@ public class AssistantListQueryParameters : BaseListQueryParameters, IQueryParam
 
 | Name | Description |
 | --- | --- |
-| [AssistantListQueryParameters](./assistantlistqueryparameters/#constructor) | Initializes a new instance of the AssistantListQueryParameters class. |
+| [AssistantListQueryParameters](./assistantlistqueryparameters/#constructor) | The default constructor. |
 
 ## Properties
 

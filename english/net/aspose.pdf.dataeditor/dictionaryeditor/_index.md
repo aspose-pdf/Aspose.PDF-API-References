@@ -33,7 +33,7 @@ public class DictionaryEditor : IEnumerable
 | [AllKeys](./allkeys/) { get; } | Full collection of keys. |
 | [Count](./count/) { get; } | Gets the number of elements contained in the [`DictionaryEditor`](../../aspose.pdf.dataeditor/dictionaryeditor/). |
 | [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether the [`DictionaryEditor`](../../aspose.pdf.dataeditor/dictionaryeditor/) is read-only. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets or sets the element with the specified key. |
 | [Keys](./keys/) { get; } | Collection of editable keys. |
 | [Values](./values/) { get; } | Gets an `ICollection` containing the values in the [`DictionaryEditor`](../../aspose.pdf.dataeditor/dictionaryeditor/). |
 

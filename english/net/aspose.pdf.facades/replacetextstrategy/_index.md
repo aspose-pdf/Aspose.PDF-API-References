@@ -22,7 +22,7 @@ public sealed class ReplaceTextStrategy
 
 | Name | Description |
 | --- | --- |
-| [ReplaceTextStrategy](./replacetextstrategy/#constructor) | Initializes a new instance of the ReplaceTextStrategy class. |
+| [ReplaceTextStrategy](./replacetextstrategy/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -22,7 +22,7 @@ public sealed class HeaderFooterSettings
 
 | Name | Description |
 | --- | --- |
-| [HeaderFooterSettings](./headerfootersettings/#constructor) | Initializes a new instance of the HeaderFooterSettings class. |
+| [HeaderFooterSettings](./headerfootersettings/#constructor) | The default constructor. |
 
 ## Properties
 

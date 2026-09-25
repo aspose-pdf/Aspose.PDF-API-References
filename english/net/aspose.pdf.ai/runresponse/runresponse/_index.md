@@ -3,7 +3,7 @@ title: "RunResponse.RunResponse"
 linktitle: "RunResponse"
 articleTitle: "RunResponse"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "RunResponse constructor. Initializes a new instance of the RunResponse class."
+description: "RunResponse constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/runresponse/runresponse/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## RunResponse() {#constructor}
 
-Initializes a new instance of the RunResponse class.
+The default constructor.
 
 ```csharp
 public RunResponse()

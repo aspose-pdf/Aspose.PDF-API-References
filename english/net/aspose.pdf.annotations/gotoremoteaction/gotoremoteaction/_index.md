@@ -3,7 +3,7 @@ title: "GoToRemoteAction.GoToRemoteAction"
 linktitle: "GoToRemoteAction"
 articleTitle: "GoToRemoteAction"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "GoToRemoteAction constructor. Initializes a new instance of the GoToRemoteAction class."
+description: "GoToRemoteAction constructor. Initializes GoToRemoteAction object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/gotoremoteaction/gotoremoteaction/"

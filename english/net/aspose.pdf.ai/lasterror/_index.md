@@ -22,7 +22,7 @@ public class LastError
 
 | Name | Description |
 | --- | --- |
-| [LastError](./lasterror/#constructor) | Initializes a new instance of the LastError class. |
+| [LastError](./lasterror/#constructor) | The default constructor. |
 
 ## Properties
 

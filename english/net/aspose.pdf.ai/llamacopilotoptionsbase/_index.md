@@ -18,12 +18,6 @@ Represents the base options for configuring the LlamaCopilot.
 public abstract class LlamaCopilotOptionsBase
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [LlamaCopilotOptionsBase](./llamacopilotoptionsbase/#constructor) | Initializes a new instance of the LlamaCopilotOptionsBase class. |
-
 ## Properties
 
 | Name | Description |

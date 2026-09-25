@@ -3,7 +3,7 @@ title: "Aspose.Pdf.Sanitization"
 linktitle: "Aspose.Pdf.Sanitization"
 articleTitle: "Aspose.Pdf.Sanitization"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The **Aspose.Pdf.Sanitization** namespace provides classes."
+description: "The Aspose.Pdf.Sanitization namespace provides classes."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.sanitization/"

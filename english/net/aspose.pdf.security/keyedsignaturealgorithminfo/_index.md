@@ -18,12 +18,6 @@ Represents a class for information about a keyed signature algorithm.
 public abstract class KeyedSignatureAlgorithmInfo : SignatureAlgorithmInfo
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [KeyedSignatureAlgorithmInfo](./keyedsignaturealgorithminfo/#constructor)(*[CryptographicStandard](../../aspose.pdf.security/cryptographicstandard/), [DigestHashAlgorithm](../../aspose.pdf/digesthashalgorithm/), [SignatureAlgorithmType](../../aspose.pdf.security/signaturealgorithmtype/), int*) | Creates an instance of [`DsaAlgorithmInfo`](../../aspose.pdf.security/dsaalgorithminfo/) class. |
-
 ## Properties
 
 | Name | Description |
@@ -34,7 +28,6 @@ public abstract class KeyedSignatureAlgorithmInfo : SignatureAlgorithmInfo
 
 | Name | Description |
 | --- | --- |
-| [FillText](./filltext/) |  |
 | [ToString](../../aspose.pdf.security/signaturealgorithminfo/tostring/) | Converts the current information object to its string representation. *(Inherited from SignatureAlgorithmInfo)* |
 
 ## Fields

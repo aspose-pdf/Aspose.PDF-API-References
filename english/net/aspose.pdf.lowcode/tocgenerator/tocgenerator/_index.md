@@ -3,7 +3,7 @@ title: "TocGenerator.TocGenerator"
 linktitle: "TocGenerator"
 articleTitle: "TocGenerator"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TocGenerator constructor. Initializes a new instance of the TocGenerator class."
+description: "TocGenerator constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/tocgenerator/tocgenerator/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## TocGenerator() {#constructor}
 
-Initializes a new instance of the TocGenerator class.
+The default constructor.
 
 ```csharp
 public TocGenerator()

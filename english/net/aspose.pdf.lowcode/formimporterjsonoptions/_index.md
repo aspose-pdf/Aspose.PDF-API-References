@@ -25,7 +25,7 @@ public sealed class FormImporterJsonOptions : IPluginOptions
 
 | Name | Description |
 | --- | --- |
-| [FormImporterJsonOptions](./formimporterjsonoptions/#constructor) | Initializes a new instance of the FormImporterJsonOptions class. |
+| [FormImporterJsonOptions](./formimporterjsonoptions/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -22,7 +22,7 @@ public class VectorStoreFileListResponse
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreFileListResponse](./vectorstorefilelistresponse/#constructor) | Initializes a new instance of the VectorStoreFileListResponse class. |
+| [VectorStoreFileListResponse](./vectorstorefilelistresponse/#constructor) | The default constructor. |
 
 ## Methods
 

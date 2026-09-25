@@ -22,7 +22,7 @@ public sealed class TextParagraph
 
 | Name | Description |
 | --- | --- |
-| [TextParagraph](./textparagraph/#constructor) | Initializes a new instance of the TextParagraph class. |
+| [TextParagraph](./textparagraph/#constructor) | The default constructor. |
 
 ## Properties
 

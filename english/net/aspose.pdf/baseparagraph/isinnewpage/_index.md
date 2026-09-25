@@ -5,7 +5,7 @@ articleTitle: "IsInNewPage"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "BaseParagraph property. Gets or sets a bool value that force this paragraph generates at new page. Default is false.(for pdf generation)"
 type: docs
-weight: 80
+weight: 70
 url: "/net/aspose.pdf/baseparagraph/isinnewpage/"
 product_version: "26.9.0"
 ---

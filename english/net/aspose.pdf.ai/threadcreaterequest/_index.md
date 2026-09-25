@@ -22,7 +22,7 @@ public class ThreadCreateRequest
 
 | Name | Description |
 | --- | --- |
-| [ThreadCreateRequest](./threadcreaterequest/#constructor) | Initializes a new instance of the ThreadCreateRequest class. |
+| [ThreadCreateRequest](./threadcreaterequest/#constructor) | The default constructor. |
 
 ## Properties
 

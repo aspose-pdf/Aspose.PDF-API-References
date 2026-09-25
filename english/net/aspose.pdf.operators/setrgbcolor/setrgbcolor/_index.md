@@ -3,7 +3,7 @@ title: "SetRGBColor.SetRGBColor"
 linktitle: "SetRGBColor"
 articleTitle: "SetRGBColor"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SetRGBColor constructor. Initializes a new instance of the SetRGBColor class."
+description: "SetRGBColor constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setrgbcolor/setrgbcolor/"

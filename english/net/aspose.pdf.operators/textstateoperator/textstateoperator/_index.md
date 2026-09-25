@@ -3,7 +3,7 @@ title: "TextStateOperator.TextStateOperator"
 linktitle: "TextStateOperator"
 articleTitle: "TextStateOperator"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextStateOperator constructor. Initializes a new instance of the TextStateOperator class."
+description: "TextStateOperator constructor. Initializes TextStateOperator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/textstateoperator/textstateoperator/"

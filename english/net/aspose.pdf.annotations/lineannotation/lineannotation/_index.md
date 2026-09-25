@@ -3,7 +3,7 @@ title: "LineAnnotation.LineAnnotation"
 linktitle: "LineAnnotation"
 articleTitle: "LineAnnotation"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "LineAnnotation constructor. Initializes a new instance of the LineAnnotation class."
+description: "LineAnnotation constructor. Constructor for using with Generator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/lineannotation/lineannotation/"

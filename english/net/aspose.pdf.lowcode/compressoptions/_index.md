@@ -3,7 +3,7 @@ title: "CompressOptions Class"
 linktitle: "CompressOptions"
 articleTitle: "CompressOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.CompressOptions class. Represents Compress options for plugin."
+description: "Aspose.Pdf.LowCode.CompressOptions class. Represents Compress options for Optimizer plugin."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/compressoptions/"
@@ -22,7 +22,7 @@ public sealed class CompressOptions : OrganizerBaseOptions
 
 | Name | Description |
 | --- | --- |
-| [CompressOptions](./compressoptions/#constructor) | Initializes a new instance of the CompressOptions class. |
+| [CompressOptions](./compressoptions/#constructor) | The default constructor. |
 
 ## Properties
 

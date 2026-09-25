@@ -3,7 +3,7 @@ title: "Signature.Process"
 linktitle: "Process"
 articleTitle: "Process"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Signature method. Starts the processing with the specified parameters."
+description: "Signature method. Starts the Signature processing with the specified parameters."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/signature/process/"

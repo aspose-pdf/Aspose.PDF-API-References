@@ -22,7 +22,7 @@ public class HeaderFooterData
 
 | Name | Description |
 | --- | --- |
-| [HeaderFooterData](./headerfooterdata/#constructor) | Initializes a new instance of the HeaderFooterData class. |
+| [HeaderFooterData](./headerfooterdata/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -3,7 +3,7 @@ title: "FontSubstitutionCollection.Item"
 linktitle: "Item"
 articleTitle: "Item"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FontSubstitutionCollection property."
+description: "FontSubstitutionCollection property. Gets the font element at the specified index."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/item/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## FontSubstitutionCollection.Item property
 
-
+Gets the font element at the specified index.
 
 ```csharp
 public FontSubstitution Item { get; }

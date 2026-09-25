@@ -22,7 +22,7 @@ public class RunModifyRequest
 
 | Name | Description |
 | --- | --- |
-| [RunModifyRequest](./runmodifyrequest/#constructor) | Initializes a new instance of the RunModifyRequest class. |
+| [RunModifyRequest](./runmodifyrequest/#constructor) | The default constructor. |
 
 ## Properties
 

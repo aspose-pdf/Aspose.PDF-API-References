@@ -511,7 +511,7 @@ public void Visit(ColorBarAnnotation colorBar)
 
 ## Visit([TrimMarkAnnotation](../../../aspose.pdf.annotations/trimmarkannotation/)) {#visit_25}
 
-Selects the if the [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) was initialized with a [`TrimMarkAnnotation`](../../../aspose.pdf.annotations/trimmarkannotation/) object.
+Selects the *trimMark* if the [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) was initialized with a [`TrimMarkAnnotation`](../../../aspose.pdf.annotations/trimmarkannotation/) object.
 
 ```csharp
 public void Visit(TrimMarkAnnotation trimMark)
@@ -531,7 +531,7 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 ## Visit([BleedMarkAnnotation](../../../aspose.pdf.annotations/bleedmarkannotation/)) {#visit_26}
 
-Selects the if the [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) was initialized with a
+Selects the *bleedMark* if the [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) was initialized with a
  [`BleedMarkAnnotation`](../../../aspose.pdf.annotations/bleedmarkannotation/) object.
 
 ```csharp
@@ -552,7 +552,7 @@ public void Visit(BleedMarkAnnotation bleedMark)
 
 ## Visit([RegistrationMarkAnnotation](../../../aspose.pdf.annotations/registrationmarkannotation/)) {#visit_27}
 
-Selects the if the [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) was initialized with a
+Selects the *registrationMark* if the [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) was initialized with a
  [`RegistrationMarkAnnotation`](../../../aspose.pdf.annotations/registrationmarkannotation/) object.
 
 ```csharp
@@ -573,7 +573,7 @@ public void Visit(RegistrationMarkAnnotation registrationMark)
 
 ## Visit([PageInformationAnnotation](../../../aspose.pdf.annotations/pageinformationannotation/)) {#visit_28}
 
-Selects the if the [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) was initialized with a
+Selects the *pageInformation* if the [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) was initialized with a
  [`PageInformationAnnotation`](../../../aspose.pdf.annotations/pageinformationannotation/) object.
 
 ```csharp

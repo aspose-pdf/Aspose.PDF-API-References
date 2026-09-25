@@ -25,7 +25,7 @@ public sealed class PdfFileInfo : SaveableFacade
 | [PdfFileInfo](./pdffileinfo/#constructor) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class with default values. |
 | [PdfFileInfo](./pdffileinfo/#constructor_1)(*Stream*) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
 | [PdfFileInfo](./pdffileinfo/#constructor_2)(*string*) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
-| [PdfFileInfo](./pdffileinfo/#constructor_3)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfFileInfo`](../../aspose.pdf.facades/pdffileinfo/) object on base of the . |
+| [PdfFileInfo](./pdffileinfo/#constructor_3)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfFileInfo`](../../aspose.pdf.facades/pdffileinfo/) object on base of the *document*. |
 | [PdfFileInfo](./pdffileinfo/#constructor_4)(*Stream, string*) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
 | [PdfFileInfo](./pdffileinfo/#constructor_5)(*string, string*) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
 | [PdfFileInfo](./pdffileinfo/#constructor_6)(*Stream, string, [ICustomSecurityHandler](../../aspose.pdf.security/icustomsecurityhandler/)*) | Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class. |
@@ -60,12 +60,7 @@ public sealed class PdfFileInfo : SaveableFacade
 
 | Name | Description |
 | --- | --- |
-| [AssertDocument](./assertdocument/) |  |
 | [BindPdf](./bindpdf/)(*Document*) | Initializes the facade. |
-| [BindPdf](./bindpdf/)(*Stream, string*) |  |
-| [BindPdf](./bindpdf/)(*string, string*) |  |
-| [BindPdf](./bindpdf/)(*Stream, string, ICustomSecurityHandler*) |  |
-| [BindPdf](./bindpdf/)(*string, string, ICustomSecurityHandler*) |  |
 | [ClearInfo](./clearinfo/) | Clears all meta information of PDF document. |
 | [Close](./close/) | Deinitializes the instance. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose/) | Disposes the facade. *(Inherited from Facade)* |

@@ -3,7 +3,7 @@ title: "SetGray.SetGray"
 linktitle: "SetGray"
 articleTitle: "SetGray"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SetGray constructor. Initializes a new instance of the SetGray class."
+description: "SetGray constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setgray/setgray/"

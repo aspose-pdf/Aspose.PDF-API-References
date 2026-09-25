@@ -3,7 +3,7 @@ title: "TextState.TextState"
 linktitle: "TextState"
 articleTitle: "TextState"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextState constructor. Initializes a new instance of the TextState class."
+description: "TextState constructor. Creates text state object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textstate/textstate/"

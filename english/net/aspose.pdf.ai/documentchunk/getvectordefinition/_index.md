@@ -3,7 +3,7 @@ title: "DocumentChunk.GetVectorDefinition"
 linktitle: "GetVectorDefinition"
 articleTitle: "GetVectorDefinition"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "DocumentChunk method. Returns a describing the schema of for use with a vector store collection."
+description: "DocumentChunk method. Returns a VectorStoreCollectionDefinition describing the schema of DocumentChunk for use with a vector store collection."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/documentchunk/getvectordefinition/"
@@ -33,7 +33,7 @@ A `VectorStoreCollectionDefinition` that maps all relevant
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | Thrown when is less than or equal to zero. |
+| ArgumentOutOfRangeException | Thrown when *dimensions* is less than or equal to zero. |
 
 ### See Also
 

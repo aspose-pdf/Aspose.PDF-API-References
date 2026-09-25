@@ -31,8 +31,8 @@ A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) with the ope
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | If is `null`. |
-| InvalidOperationException | If is not of type <see cref="T:Aspose.Pdf.LowCode.TimestampOptions" />. |
+| ArgumentNullException | If *options* is `null`. |
+| InvalidOperationException | If *options* is not of type <see cref="T:Aspose.Pdf.LowCode.TimestampOptions" />. |
 
 ### See Also
 

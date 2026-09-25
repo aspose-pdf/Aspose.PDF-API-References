@@ -5,7 +5,7 @@ articleTitle: "Rect"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Annotation property. Gets or sets annotation rectangle."
 type: docs
-weight: 250
+weight: 120
 url: "/net/aspose.pdf.annotations/annotation/rect/"
 product_version: "26.9.0"
 ---

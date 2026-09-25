@@ -5,7 +5,7 @@ articleTitle: "IsReadOnly"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "BaseOperatorCollection property. Returns true if collection is read only."
 type: docs
-weight: 140
+weight: 130
 url: "/net/aspose.pdf/baseoperatorcollection/isreadonly/"
 product_version: "26.9.0"
 ---

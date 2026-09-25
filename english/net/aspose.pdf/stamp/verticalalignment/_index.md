@@ -5,7 +5,7 @@ articleTitle: "VerticalAlignment"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Stamp property. Gets or sets vertical alignment of stamp on page."
 type: docs
-weight: 170
+weight: 120
 url: "/net/aspose.pdf/stamp/verticalalignment/"
 product_version: "26.9.0"
 ---

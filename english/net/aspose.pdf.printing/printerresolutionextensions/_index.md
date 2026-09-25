@@ -3,7 +3,7 @@ title: "PrinterResolutionExtensions Class"
 linktitle: "PrinterResolutionExtensions"
 articleTitle: "PrinterResolutionExtensions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.Printing.PrinterResolutionExtensions class. Represents extensions methods for ."
+description: "Aspose.Pdf.Printing.PrinterResolutionExtensions class. Represents extensions methods for PrinterResolution."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.printing/printerresolutionextensions/"

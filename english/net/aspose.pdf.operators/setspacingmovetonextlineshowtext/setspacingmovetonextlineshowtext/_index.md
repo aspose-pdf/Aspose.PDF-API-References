@@ -3,7 +3,7 @@ title: "SetSpacingMoveToNextLineShowText.SetSpacingMoveToNextLineShowText"
 linktitle: "SetSpacingMoveToNextLineShowText"
 articleTitle: "SetSpacingMoveToNextLineShowText"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SetSpacingMoveToNextLineShowText constructor. Initializes a new instance of the SetSpacingMoveToNextLineShowText class."
+description: "SetSpacingMoveToNextLineShowText constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/setspacingmovetonextlineshowtext/"

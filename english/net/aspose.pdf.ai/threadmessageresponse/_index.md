@@ -22,7 +22,7 @@ public class ThreadMessageResponse : BaseResponse, IStatus
 
 | Name | Description |
 | --- | --- |
-| [ThreadMessageResponse](./threadmessageresponse/#constructor) | Initializes a new instance of the ThreadMessageResponse class. |
+| [ThreadMessageResponse](./threadmessageresponse/#constructor) | The default constructor. |
 
 ## Properties
 

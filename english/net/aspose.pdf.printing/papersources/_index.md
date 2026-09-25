@@ -3,7 +3,7 @@ title: "PaperSources Class"
 linktitle: "PaperSources"
 articleTitle: "PaperSources"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.Printing.PaperSources class. Provides a set of predefined instances representing common paper sources."
+description: "Aspose.Pdf.Printing.PaperSources class. Provides a set of predefined PaperSource instances representing common paper sources."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.printing/papersources/"

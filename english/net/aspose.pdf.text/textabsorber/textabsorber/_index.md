@@ -3,7 +3,7 @@ title: "TextAbsorber.TextAbsorber"
 linktitle: "TextAbsorber"
 articleTitle: "TextAbsorber"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextAbsorber constructor. Initializes a new instance of the TextAbsorber class."
+description: "TextAbsorber constructor. Initializes a new instance of the TextAbsorber."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textabsorber/textabsorber/"

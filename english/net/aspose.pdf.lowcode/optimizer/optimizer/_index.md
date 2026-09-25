@@ -3,7 +3,7 @@ title: "Optimizer.Optimizer"
 linktitle: "Optimizer"
 articleTitle: "Optimizer"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Optimizer constructor. Initializes a new instance of the Optimizer class."
+description: "Optimizer constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/optimizer/optimizer/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## Optimizer() {#constructor}
 
-Initializes a new instance of the Optimizer class.
+The default constructor.
 
 ```csharp
 public Optimizer()

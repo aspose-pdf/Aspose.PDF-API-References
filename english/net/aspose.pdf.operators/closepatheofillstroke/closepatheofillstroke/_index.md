@@ -3,7 +3,7 @@ title: "ClosePathEOFillStroke.ClosePathEOFillStroke"
 linktitle: "ClosePathEOFillStroke"
 articleTitle: "ClosePathEOFillStroke"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ClosePathEOFillStroke constructor. Initializes a new instance of the ClosePathEOFillStroke class."
+description: "ClosePathEOFillStroke constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/closepatheofillstroke/closepatheofillstroke/"

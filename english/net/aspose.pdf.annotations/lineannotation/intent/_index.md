@@ -5,7 +5,7 @@ articleTitle: "Intent"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "LineAnnotation property. Gets or sets the intent of the line annotation."
 type: docs
-weight: 180
+weight: 170
 url: "/net/aspose.pdf.annotations/lineannotation/intent/"
 product_version: "26.9.0"
 ---

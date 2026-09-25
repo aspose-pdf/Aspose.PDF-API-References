@@ -22,7 +22,7 @@ public sealed class Stamp
 
 | Name | Description |
 | --- | --- |
-| [Stamp](./stamp/#constructor) | Initializes a new instance of the Stamp class. |
+| [Stamp](./stamp/#constructor) | The default constructor. |
 
 ## Properties
 

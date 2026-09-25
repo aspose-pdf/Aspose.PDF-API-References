@@ -22,7 +22,7 @@ public class RunCreateRequest
 
 | Name | Description |
 | --- | --- |
-| [RunCreateRequest](./runcreaterequest/#constructor) | Initializes a new instance of the RunCreateRequest class. |
+| [RunCreateRequest](./runcreaterequest/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -3,7 +3,7 @@ title: "PdfAnnotationEditor.PdfAnnotationEditor"
 linktitle: "PdfAnnotationEditor"
 articleTitle: "PdfAnnotationEditor"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfAnnotationEditor constructor. Initializes a new instance of the PdfAnnotationEditor class."
+description: "PdfAnnotationEditor constructor. Initializes new PdfAnnotationEditor object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfannotationeditor/pdfannotationeditor/"
@@ -27,7 +27,7 @@ public PdfAnnotationEditor()
 
 ## PdfAnnotationEditor([Document](../../../aspose.pdf/document/)) {#constructor_1}
 
-Initializes new [`PdfAnnotationEditor`](../../../aspose.pdf.facades/pdfannotationeditor/) object on base of the .
+Initializes new [`PdfAnnotationEditor`](../../../aspose.pdf.facades/pdfannotationeditor/) object on base of the *document*.
 
 ```csharp
 public PdfAnnotationEditor(Document document)

@@ -22,7 +22,7 @@ public class DocumentFactory
 
 | Name | Description |
 | --- | --- |
-| [DocumentFactory](./documentfactory/#constructor) | Initializes a new instance of the DocumentFactory class. |
+| [DocumentFactory](./documentfactory/#constructor) | The default constructor. |
 
 ## Methods
 

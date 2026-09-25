@@ -3,9 +3,9 @@ title: "StampAnnotation.Accept"
 linktitle: "Accept"
 articleTitle: "Accept"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "StampAnnotation method. Acepts visitor when browsing annotation collection."
+description: "StampAnnotation method. Acepts AnnotationSelector visitor when browsing annotation collection."
 type: docs
-weight: 40
+weight: 30
 url: "/net/aspose.pdf.annotations/stampannotation/accept/"
 product_version: "26.9.0"
 ---

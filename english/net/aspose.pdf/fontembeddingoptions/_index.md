@@ -24,7 +24,7 @@ public class FontEmbeddingOptions
 
 | Name | Description |
 | --- | --- |
-| [FontEmbeddingOptions](./fontembeddingoptions/#constructor) | Initializes a new instance of the FontEmbeddingOptions class. |
+| [FontEmbeddingOptions](./fontembeddingoptions/#constructor) | The default constructor. |
 
 ## Properties
 

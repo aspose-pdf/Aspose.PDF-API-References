@@ -5,7 +5,7 @@ articleTitle: "ReplyType"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "MarkupAnnotation property. A string specifying the relationship (the \"reply type\") between this annotation and one specified by InReplyTo."
 type: docs
-weight: 200
+weight: 150
 url: "/net/aspose.pdf.annotations/markupannotation/replytype/"
 product_version: "26.9.0"
 ---

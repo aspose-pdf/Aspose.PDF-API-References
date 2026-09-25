@@ -22,7 +22,7 @@ public class RunListResponse
 
 | Name | Description |
 | --- | --- |
-| [RunListResponse](./runlistresponse/#constructor) | Initializes a new instance of the RunListResponse class. |
+| [RunListResponse](./runlistresponse/#constructor) | The default constructor. |
 
 ### See Also
 

@@ -22,7 +22,7 @@ public class ThreadResponse : BaseResponse
 
 | Name | Description |
 | --- | --- |
-| [ThreadResponse](./threadresponse/#constructor) | Initializes a new instance of the ThreadResponse class. |
+| [ThreadResponse](./threadresponse/#constructor) | The default constructor. |
 
 ## Properties
 

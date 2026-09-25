@@ -22,7 +22,7 @@ public class ImageUrl
 
 | Name | Description |
 | --- | --- |
-| [ImageUrl](./imageurl/#constructor) | Initializes a new instance of the ImageUrl class. |
+| [ImageUrl](./imageurl/#constructor) | The default constructor. |
 
 ## Properties
 

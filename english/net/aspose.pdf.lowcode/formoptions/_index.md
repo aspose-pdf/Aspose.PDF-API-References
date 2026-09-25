@@ -18,12 +18,6 @@ Represents options for a family Form.... plugins.
 public abstract class FormOptions : IPluginOptions
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [FormOptions](./formoptions/#constructor) | Initializes a new instance of the FormOptions class. |
-
 ## Properties
 
 | Name | Description |

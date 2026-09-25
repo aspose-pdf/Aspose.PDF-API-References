@@ -22,7 +22,7 @@ public class FileResponse : BaseResponse, IEntityId
 
 | Name | Description |
 | --- | --- |
-| [FileResponse](./fileresponse/#constructor) | Initializes a new instance of the FileResponse class. |
+| [FileResponse](./fileresponse/#constructor) | The default constructor. |
 
 ## Properties
 

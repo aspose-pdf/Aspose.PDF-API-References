@@ -3,7 +3,7 @@ title: "DictionaryEditor.IsReadOnly"
 linktitle: "IsReadOnly"
 articleTitle: "IsReadOnly"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "DictionaryEditor property. Gets a value indicating whether the is read-only."
+description: "DictionaryEditor property. Gets a value indicating whether the DictionaryEditor is read-only."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/isreadonly/"

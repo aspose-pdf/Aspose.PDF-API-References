@@ -3,7 +3,7 @@ title: "TextParagraph.VerticalAlignment"
 linktitle: "VerticalAlignment"
 articleTitle: "VerticalAlignment"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextParagraph property. Gets or sets vertical alignment for the text inside paragrph's ."
+description: "TextParagraph property. Gets or sets vertical alignment for the text inside paragrph's Rectangle."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.text/textparagraph/verticalalignment/"

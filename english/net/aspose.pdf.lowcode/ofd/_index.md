@@ -3,7 +3,7 @@ title: "Ofd Class"
 linktitle: "Ofd"
 articleTitle: "Ofd"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.Ofd class. Represents the plugin."
+description: "Aspose.Pdf.LowCode.Ofd class. Represents the Ofd plugin."
 type: docs
 weight: 530
 url: "/net/aspose.pdf.lowcode/ofd/"
@@ -22,7 +22,7 @@ public sealed class Ofd : IPlugin, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Ofd](./ofd/#constructor) | Initializes a new instance of the Ofd class. |
+| [Ofd](./ofd/#constructor) | The default constructor. |
 
 ## Methods
 

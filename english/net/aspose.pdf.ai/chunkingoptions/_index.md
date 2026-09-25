@@ -22,7 +22,7 @@ public sealed class ChunkingOptions
 
 | Name | Description |
 | --- | --- |
-| [ChunkingOptions](./chunkingoptions/#constructor) | Initializes a new instance of the ChunkingOptions class. |
+| [ChunkingOptions](./chunkingoptions/#constructor) | The default constructor. |
 
 ## Properties
 

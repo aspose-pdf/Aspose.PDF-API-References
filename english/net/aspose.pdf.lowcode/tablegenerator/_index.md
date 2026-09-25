@@ -22,7 +22,7 @@ public sealed class TableGenerator : IPlugin, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [TableGenerator](./tablegenerator/#constructor) | Initializes a new instance of the TableGenerator class. |
+| [TableGenerator](./tablegenerator/#constructor) | The default constructor. |
 
 ## Methods
 

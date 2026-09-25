@@ -5,7 +5,7 @@ articleTitle: "Intent"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FreeTextAnnotation property. Gets or sets the intent of the free text annotation."
 type: docs
-weight: 130
+weight: 110
 url: "/net/aspose.pdf.annotations/freetextannotation/intent/"
 product_version: "26.9.0"
 ---

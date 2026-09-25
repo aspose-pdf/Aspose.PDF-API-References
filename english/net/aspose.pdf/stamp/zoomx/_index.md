@@ -5,7 +5,7 @@ articleTitle: "ZoomX"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Stamp property. Horizontal zooming factor of the stamp. Allows to scale stamp horizontally."
 type: docs
-weight: 220
+weight: 170
 url: "/net/aspose.pdf/stamp/zoomx/"
 product_version: "26.9.0"
 ---

@@ -22,7 +22,7 @@ public class VectorStoreCreateRequest
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreCreateRequest](./vectorstorecreaterequest/#constructor) | Initializes a new instance of the VectorStoreCreateRequest class. |
+| [VectorStoreCreateRequest](./vectorstorecreaterequest/#constructor) | The default constructor. |
 
 ## Properties
 

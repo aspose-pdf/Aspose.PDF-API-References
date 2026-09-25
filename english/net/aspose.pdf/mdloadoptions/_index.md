@@ -22,7 +22,7 @@ public class MdLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [MdLoadOptions](./mdloadoptions/#constructor) | Initializes a new instance of the MdLoadOptions class. |
+| [MdLoadOptions](./mdloadoptions/#constructor) | The default constructor. |
 
 ## Properties
 

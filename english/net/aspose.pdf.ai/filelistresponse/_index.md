@@ -22,7 +22,7 @@ public class FileListResponse
 
 | Name | Description |
 | --- | --- |
-| [FileListResponse](./filelistresponse/#constructor) | Initializes a new instance of the FileListResponse class. |
+| [FileListResponse](./filelistresponse/#constructor) | The default constructor. |
 
 ## Properties
 

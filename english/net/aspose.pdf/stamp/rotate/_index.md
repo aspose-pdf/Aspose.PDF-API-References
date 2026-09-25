@@ -3,9 +3,9 @@ title: "Stamp.Rotate"
 linktitle: "Rotate"
 articleTitle: "Rotate"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Stamp property. Sets or gets the rotation of stamp content according values. Note. This property is for set angles which are multiples of 90 degrees (0, 90, ..."
+description: "Stamp property. Sets or gets the rotation of stamp content according Rotation values. Note. This property is for set angles which are multiples of 90 degrees..."
 type: docs
-weight: 130
+weight: 80
 url: "/net/aspose.pdf/stamp/rotate/"
 product_version: "26.9.0"
 ---

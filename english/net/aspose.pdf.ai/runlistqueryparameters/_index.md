@@ -22,7 +22,7 @@ public class RunListQueryParameters : BaseListQueryParameters, IQueryParameters
 
 | Name | Description |
 | --- | --- |
-| [RunListQueryParameters](./runlistqueryparameters/#constructor) | Initializes a new instance of the RunListQueryParameters class. |
+| [RunListQueryParameters](./runlistqueryparameters/#constructor) | The default constructor. |
 
 ## Properties
 

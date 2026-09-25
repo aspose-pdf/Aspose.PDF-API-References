@@ -25,7 +25,7 @@ public bool Contains(OutputIntent item)
 
 bool
 
- if is found in the collection; otherwise, .
+ if *item* is found in the collection; otherwise, .
 
 ### See Also
 

@@ -22,7 +22,7 @@ public sealed class ImageExtractorOptions : PdfExtractorOptions
 
 | Name | Description |
 | --- | --- |
-| [ImageExtractorOptions](./imageextractoroptions/#constructor) | Initializes a new instance of the ImageExtractorOptions class. |
+| [ImageExtractorOptions](./imageextractoroptions/#constructor) | The default constructor. |
 
 ## Properties
 

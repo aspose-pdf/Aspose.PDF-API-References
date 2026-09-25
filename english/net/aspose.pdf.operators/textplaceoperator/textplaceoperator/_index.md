@@ -3,7 +3,7 @@ title: "TextPlaceOperator.TextPlaceOperator"
 linktitle: "TextPlaceOperator"
 articleTitle: "TextPlaceOperator"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextPlaceOperator constructor. Initializes a new instance of the TextPlaceOperator class."
+description: "TextPlaceOperator constructor. Initializes TextPlaceOperator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/textplaceoperator/textplaceoperator/"

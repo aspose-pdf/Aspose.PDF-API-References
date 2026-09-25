@@ -3,7 +3,7 @@ title: "VectorStoreModifyRequest.VectorStoreModifyRequest"
 linktitle: "VectorStoreModifyRequest"
 articleTitle: "VectorStoreModifyRequest"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "VectorStoreModifyRequest constructor. Initializes a new instance of the VectorStoreModifyRequest class."
+description: "VectorStoreModifyRequest constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/vectorstoremodifyrequest/vectorstoremodifyrequest/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## VectorStoreModifyRequest() {#constructor}
 
-Initializes a new instance of the VectorStoreModifyRequest class.
+The default constructor.
 
 ```csharp
 public VectorStoreModifyRequest()

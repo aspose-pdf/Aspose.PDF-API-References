@@ -3,7 +3,7 @@ title: "HeaderArtifact.HeaderArtifact"
 linktitle: "HeaderArtifact"
 articleTitle: "HeaderArtifact"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "HeaderArtifact constructor. Initializes a new instance of the HeaderArtifact class."
+description: "HeaderArtifact constructor. Creates Header Artifact instance."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/headerartifact/headerartifact/"

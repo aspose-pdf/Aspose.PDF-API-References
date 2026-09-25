@@ -25,7 +25,7 @@ public void Add(OutputIntent item)
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | The is null. |
+| ArgumentNullException | The *item* is null. |
 | InvalidOperationException | The document that contains the collection has no catalog to access the OutputIntents. |
 
 ### See Also

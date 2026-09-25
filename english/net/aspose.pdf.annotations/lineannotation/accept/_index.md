@@ -5,7 +5,7 @@ articleTitle: "Accept"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "LineAnnotation method. Accepts visitor to annotation processing."
 type: docs
-weight: 40
+weight: 30
 url: "/net/aspose.pdf.annotations/lineannotation/accept/"
 product_version: "26.9.0"
 ---

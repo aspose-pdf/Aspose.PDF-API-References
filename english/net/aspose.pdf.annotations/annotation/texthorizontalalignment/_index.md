@@ -5,7 +5,7 @@ articleTitle: "TextHorizontalAlignment"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Annotation property. Gets or sets text alignment for annotation."
 type: docs
-weight: 360
+weight: 230
 url: "/net/aspose.pdf.annotations/annotation/texthorizontalalignment/"
 product_version: "26.9.0"
 ---

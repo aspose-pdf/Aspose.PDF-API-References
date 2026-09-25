@@ -5,7 +5,7 @@ articleTitle: "Author"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileInfo property. Gets or sets the Author information of PDF document."
 type: docs
-weight: 310
+weight: 260
 url: "/net/aspose.pdf.facades/pdffileinfo/author/"
 product_version: "26.9.0"
 ---

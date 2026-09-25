@@ -22,7 +22,7 @@ public sealed class FormFieldFacade
 
 | Name | Description |
 | --- | --- |
-| [FormFieldFacade](./formfieldfacade/#constructor) | Initializes a new instance of the FormFieldFacade class. |
+| [FormFieldFacade](./formfieldfacade/#constructor) | The default constructor. |
 
 ## Properties
 

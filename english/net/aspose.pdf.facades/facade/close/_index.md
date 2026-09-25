@@ -5,7 +5,7 @@ articleTitle: "Close"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Facade method. Disposes Aspose.Pdf.Document bound with a facade."
 type: docs
-weight: 100
+weight: 40
 url: "/net/aspose.pdf.facades/facade/close/"
 product_version: "26.9.0"
 ---

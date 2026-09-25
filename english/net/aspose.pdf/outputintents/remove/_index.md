@@ -25,8 +25,8 @@ public bool Remove(OutputIntent item)
 
 bool
 
- if was successfully removed from the collection;
-  if was not found in the original collection.
+ if *item* was successfully removed from the collection;
+  if *item* was not found in the original collection.
 
 ### See Also
 

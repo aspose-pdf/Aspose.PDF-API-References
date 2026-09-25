@@ -3,7 +3,7 @@ title: "Aspose.Pdf.Tagged"
 linktitle: "Aspose.Pdf.Tagged"
 articleTitle: "Aspose.Pdf.Tagged"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The **Aspose.Pdf.Tagged** namespace provides classes."
+description: "The Aspose.Pdf.Tagged namespace provides classes."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.tagged/"

@@ -3,9 +3,9 @@ title: "TextState.Underline"
 linktitle: "Underline"
 articleTitle: "Underline"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextState property. Gets or sets underline for the text, represented by the object"
+description: "TextState property. Gets or sets underline for the text, represented by the TextFragment object"
 type: docs
-weight: 420
+weight: 240
 url: "/net/aspose.pdf.text/textstate/underline/"
 product_version: "26.9.0"
 ---

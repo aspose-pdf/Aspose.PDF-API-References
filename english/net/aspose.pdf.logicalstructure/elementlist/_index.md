@@ -23,7 +23,7 @@ public abstract class ElementList : IEnumerable
 | Name | Description |
 | --- | --- |
 | [Count](./count/) { get; } | Gets the number of elements in the ElementList. |
-| [ElementOf](./elementof/) { get; } |  |
+| [ElementOf](./elementof/) { get; } | Gets an element at the given index. |
 
 ## Methods
 

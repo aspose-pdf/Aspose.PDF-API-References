@@ -22,7 +22,7 @@ public class Attachment
 
 | Name | Description |
 | --- | --- |
-| [Attachment](./attachment/#constructor) | Initializes a new instance of the Attachment class. |
+| [Attachment](./attachment/#constructor) | The default constructor. |
 
 ## Properties
 

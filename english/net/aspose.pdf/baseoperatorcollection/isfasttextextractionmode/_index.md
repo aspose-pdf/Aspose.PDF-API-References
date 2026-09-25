@@ -5,7 +5,7 @@ articleTitle: "IsFastTextExtractionMode"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "BaseOperatorCollection property. Indicates wheather collection is limited to fast text extraction"
 type: docs
-weight: 150
+weight: 140
 url: "/net/aspose.pdf/baseoperatorcollection/isfasttextextractionmode/"
 product_version: "26.9.0"
 ---

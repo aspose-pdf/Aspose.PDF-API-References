@@ -3,7 +3,7 @@ title: "RotateOptions Class"
 linktitle: "RotateOptions"
 articleTitle: "RotateOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.RotateOptions class. Represents Rotate options for plugin."
+description: "Aspose.Pdf.LowCode.RotateOptions class. Represents Rotate options for Optimizer plugin."
 type: docs
 weight: 800
 url: "/net/aspose.pdf.lowcode/rotateoptions/"
@@ -22,7 +22,7 @@ public sealed class RotateOptions : OrganizerBaseOptions
 
 | Name | Description |
 | --- | --- |
-| [RotateOptions](./rotateoptions/#constructor) | Initializes a new instance of the RotateOptions class. |
+| [RotateOptions](./rotateoptions/#constructor) | The default constructor. |
 
 ## Properties
 

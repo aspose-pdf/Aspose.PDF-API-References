@@ -23,7 +23,7 @@ public sealed class PdfFileSanitization : SaveableFacade
 
 | Name | Description |
 | --- | --- |
-| [PdfFileSanitization](./pdffilesanitization/#constructor) | Initializes a new instance of the PdfFileSanitization class. |
+| [PdfFileSanitization](./pdffilesanitization/#constructor) | The default constructor. |
 
 ## Properties
 
@@ -39,12 +39,9 @@ public sealed class PdfFileSanitization : SaveableFacade
 
 | Name | Description |
 | --- | --- |
-| [AssertDocument](../../aspose.pdf.facades/facade/assertdocument/) | Asserts if the facade is initialized. *(Inherited from Facade)* |
 | [BindPdf](./bindpdf/)(*string*) | Binds a Pdf file for Sanitize. |
 | [BindPdf](./bindpdf/)(*Stream*) | Binds a Pdf stream for Sanitize. |
 | [BindPdf](./bindpdf/)(*Document*) | Initializes the facade. |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. *(Inherited from Facade)* |
 | [Close](./close/) | Closes the facade. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose/) | Disposes the facade. *(Inherited from Facade)* |
 | [RebuildXrefAndTrailer](./rebuildxrefandtrailer/) | Removes old xref with trailer and creates a new xref with trailer. |

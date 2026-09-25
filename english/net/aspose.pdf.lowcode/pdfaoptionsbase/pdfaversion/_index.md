@@ -5,7 +5,7 @@ articleTitle: "PdfAVersion"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfAOptionsBase property. Gets or sets the version of the PDF/A standard to be used for validation or conversion."
 type: docs
-weight: 40
+weight: 30
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/pdfaversion/"
 product_version: "26.9.0"
 ---

@@ -22,7 +22,7 @@ public class LlamaChatCompletionResponse : BaseResponse
 
 | Name | Description |
 | --- | --- |
-| [LlamaChatCompletionResponse](./llamachatcompletionresponse/#constructor) | Initializes a new instance of the LlamaChatCompletionResponse class. |
+| [LlamaChatCompletionResponse](./llamachatcompletionresponse/#constructor) | The default constructor. |
 
 ## Properties
 

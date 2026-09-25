@@ -3,7 +3,7 @@ title: "CosPdfBoolean.ToCosPdfBoolean"
 linktitle: "ToCosPdfBoolean"
 articleTitle: "ToCosPdfBoolean"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CosPdfBoolean method. Tries cast this instance to ."
+description: "CosPdfBoolean method. Tries cast this instance to CosPdfBoolean."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.dataeditor/cospdfboolean/tocospdfboolean/"

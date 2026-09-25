@@ -3,7 +3,7 @@ title: "HideAction.HideAction"
 linktitle: "HideAction"
 articleTitle: "HideAction"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "HideAction constructor. Initializes a new instance of the HideAction class."
+description: "HideAction constructor. Initializes a new instance of the HideAction class for the specified annotation."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/hideaction/hideaction/"

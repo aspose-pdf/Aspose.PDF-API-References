@@ -3,7 +3,7 @@ title: "BarcodeField.BarcodeField"
 linktitle: "BarcodeField"
 articleTitle: "BarcodeField"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "BarcodeField constructor. Initializes a new instance of the BarcodeField class."
+description: "BarcodeField constructor. Initializes new instance of the BarcodeField class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/barcodefield/barcodefield/"

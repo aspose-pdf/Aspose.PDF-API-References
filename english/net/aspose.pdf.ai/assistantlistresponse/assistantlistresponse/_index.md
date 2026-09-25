@@ -3,7 +3,7 @@ title: "AssistantListResponse.AssistantListResponse"
 linktitle: "AssistantListResponse"
 articleTitle: "AssistantListResponse"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "AssistantListResponse constructor. Initializes a new instance of the AssistantListResponse class."
+description: "AssistantListResponse constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/assistantlistresponse/assistantlistresponse/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## AssistantListResponse() {#constructor}
 
-Initializes a new instance of the AssistantListResponse class.
+The default constructor.
 
 ```csharp
 public AssistantListResponse()

@@ -3,7 +3,7 @@ title: "ListDataResponse<T>.ListDataResponse<T>"
 linktitle: "ListDataResponse<T>"
 articleTitle: "ListDataResponse<T>"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ListDataResponse constructor. Initializes a new instance of the ListDataResponse class."
+description: "ListDataResponse constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/listdataresponse-1/listdataresponse/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## ListDataResponse<T>() {#constructor}
 
-Initializes a new instance of the ListDataResponse class.
+The default constructor.
 
 ```csharp
 public ListDataResponse<T>()

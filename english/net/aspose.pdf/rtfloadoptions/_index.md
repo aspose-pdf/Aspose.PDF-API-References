@@ -22,7 +22,7 @@ public class RtfLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [RtfLoadOptions](./rtfloadoptions/#constructor) | Initializes a new instance of the RtfLoadOptions class. |
+| [RtfLoadOptions](./rtfloadoptions/#constructor) | The default constructor. |
 
 ## Properties
 

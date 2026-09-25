@@ -5,7 +5,7 @@ articleTitle: "WriteByte"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "OptimizedMemoryStream method. Writes a byte to the current position in the stream and advances the position within the stream by one byte."
 type: docs
-weight: 130
+weight: 120
 url: "/net/aspose.pdf/optimizedmemorystream/writebyte/"
 product_version: "26.9.0"
 ---

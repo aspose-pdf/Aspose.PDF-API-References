@@ -3,7 +3,7 @@ title: "InterruptMonitor.InterruptMonitor"
 linktitle: "InterruptMonitor"
 articleTitle: "InterruptMonitor"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "InterruptMonitor constructor. Initializes a new instance of the InterruptMonitor class."
+description: "InterruptMonitor constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.multithreading/interruptmonitor/interruptmonitor/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## InterruptMonitor() {#constructor}
 
-Initializes a new instance of the InterruptMonitor class.
+The default constructor.
 
 ```csharp
 public InterruptMonitor()

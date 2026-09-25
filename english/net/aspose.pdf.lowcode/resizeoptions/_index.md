@@ -3,7 +3,7 @@ title: "ResizeOptions Class"
 linktitle: "ResizeOptions"
 articleTitle: "ResizeOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.ResizeOptions class. Represents Resize options for plugin."
+description: "Aspose.Pdf.LowCode.ResizeOptions class. Represents Resize options for Optimizer plugin."
 type: docs
 weight: 780
 url: "/net/aspose.pdf.lowcode/resizeoptions/"
@@ -22,7 +22,7 @@ public sealed class ResizeOptions : OrganizerBaseOptions
 
 | Name | Description |
 | --- | --- |
-| [ResizeOptions](./resizeoptions/#constructor) | Initializes a new instance of the ResizeOptions class. |
+| [ResizeOptions](./resizeoptions/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -41,23 +41,9 @@ public sealed class SubPath : GraphicElement
 | --- | --- |
 | [AddOnPage](../../aspose.pdf.vector/graphicelement/addonpage/)(*Page*) | Adds current element on the page. *(Inherited from GraphicElement)* |
 | [Dispose](../../aspose.pdf.vector/graphicelement/dispose/) | Releases all resources used by the [`GraphicElement`](../../aspose.pdf.vector/graphicelement/) class. *(Inherited from GraphicElement)* |
-| [Dispose](../../aspose.pdf.vector/graphicelement/dispose/)(*bool*) | Releases all resources used by the [`GraphicElement`](../../aspose.pdf.vector/graphicelement/) class. *(Inherited from GraphicElement)* |
-| [FindDelta](../../aspose.pdf.vector/graphicelement/finddelta/)(*Point*) | *(Inherited from GraphicElement)* |
-| [GetInitialPoint](./getinitialpoint/)(*double, double*) |  |
 | [Remove](../../aspose.pdf.vector/graphicelement/remove/) | Removes current element from the page. *(Inherited from GraphicElement)* |
 | [SaveToSvg](../../aspose.pdf.vector/graphicelement/savetosvg/) | Converts the element into a single SVG image. *(Inherited from GraphicElement)* |
 | [SaveToSvg](../../aspose.pdf.vector/graphicelement/savetosvg/)(*string*) | Converts the element into a single SVG image file. *(Inherited from GraphicElement)* |
-| [SetPosition](../../aspose.pdf.vector/graphicelement/setposition/)(*Point*) | *(Inherited from GraphicElement)* |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| readonly [_currentContent](../../aspose.pdf.vector/graphicelement/_currentcontent/) | *(Inherited from GraphicElement)* |
-| [_graphicState](../../aspose.pdf.vector/graphicelement/_graphicstate/) | *(Inherited from GraphicElement)* |
-| [_matrix](../../aspose.pdf.vector/graphicelement/_matrix/) | *(Inherited from GraphicElement)* |
-| [_operators](../../aspose.pdf.vector/graphicelement/_operators/) | *(Inherited from GraphicElement)* |
-| [_page](../../aspose.pdf.vector/graphicelement/_page/) | *(Inherited from GraphicElement)* |
 
 ### See Also
 

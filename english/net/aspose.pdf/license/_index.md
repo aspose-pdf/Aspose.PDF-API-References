@@ -22,7 +22,7 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [License](./license/#constructor) | Initializes a new instance of the License class. |
+| [License](./license/#constructor) | The default constructor. |
 
 ## Properties
 

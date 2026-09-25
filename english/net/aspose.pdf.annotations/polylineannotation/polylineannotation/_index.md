@@ -3,7 +3,7 @@ title: "PolylineAnnotation.PolylineAnnotation"
 linktitle: "PolylineAnnotation"
 articleTitle: "PolylineAnnotation"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PolylineAnnotation constructor. Initializes a new instance of the PolylineAnnotation class."
+description: "PolylineAnnotation constructor. Creates new Polyline annotation on the specified page."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/polylineannotation/polylineannotation/"

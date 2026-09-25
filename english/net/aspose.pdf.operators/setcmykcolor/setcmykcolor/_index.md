@@ -3,7 +3,7 @@ title: "SetCMYKColor.SetCMYKColor"
 linktitle: "SetCMYKColor"
 articleTitle: "SetCMYKColor"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SetCMYKColor constructor. Initializes a new instance of the SetCMYKColor class."
+description: "SetCMYKColor constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setcmykcolor/setcmykcolor/"

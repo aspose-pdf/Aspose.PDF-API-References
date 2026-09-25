@@ -22,7 +22,7 @@ public sealed class PageDate
 
 | Name | Description |
 | --- | --- |
-| [PageDate](./pagedate/#constructor) | Initializes a new instance of the PageDate class. |
+| [PageDate](./pagedate/#constructor) | The default constructor. |
 
 ## Properties
 

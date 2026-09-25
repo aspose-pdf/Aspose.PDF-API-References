@@ -18,12 +18,6 @@ Represents the base options for configuring the OpenAICopilot.
 public abstract class OpenAICopilotOptionsBase
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [OpenAICopilotOptionsBase](./openaicopilotoptionsbase/#constructor) | Initializes a new instance of the OpenAICopilotOptionsBase class. |
-
 ## Properties
 
 | Name | Description |

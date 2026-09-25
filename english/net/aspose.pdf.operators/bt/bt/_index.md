@@ -3,7 +3,7 @@ title: "BT.BT"
 linktitle: "BT"
 articleTitle: "BT"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "BT constructor. Initializes a new instance of the BT class."
+description: "BT constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/bt/bt/"

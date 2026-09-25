@@ -22,7 +22,7 @@ public class ObjectType
 
 | Name | Description |
 | --- | --- |
-| [ToolChoice.ObjectType](./objecttype/#constructor) | Initializes a new instance of the ToolChoice.ObjectType class. |
+| [ToolChoice.ObjectType](./objecttype/#constructor) | The default constructor. |
 
 ## Properties
 

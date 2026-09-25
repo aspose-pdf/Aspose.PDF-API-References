@@ -25,7 +25,7 @@ public class ArtifactCollection : IEnumerable
 | [Count](./count/) { get; } | Gets count of artifacts in collection. |
 | [IsReadOnly](./isreadonly/) { get; } | Gets if collection is readonly. Always returns false. |
 | [IsSynchronized](./issynchronized/) { get; } | Is this object synchronized. |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets artifact by index. Index is started from 1. |
 | [SyncRoot](./syncroot/) { get; } | Gets synchronization object of the collection. |
 
 ## Methods

@@ -22,7 +22,7 @@ public class CgmImportOptions : ImportOptions
 
 | Name | Description |
 | --- | --- |
-| [CgmImportOptions](./cgmimportoptions/#constructor) | Initializes a new instance of the CgmImportOptions class. |
+| [CgmImportOptions](./cgmimportoptions/#constructor) | The default constructor. |
 
 ## Properties
 

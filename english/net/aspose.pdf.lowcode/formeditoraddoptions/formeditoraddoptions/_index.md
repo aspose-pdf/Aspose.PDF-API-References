@@ -3,7 +3,7 @@ title: "FormEditorAddOptions.FormEditorAddOptions"
 linktitle: "FormEditorAddOptions"
 articleTitle: "FormEditorAddOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FormEditorAddOptions constructor. Initializes a new instance of the FormEditorAddOptions class."
+description: "FormEditorAddOptions constructor. Initializes a new instance of the !:PdfFormAddFieldsOptions object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formeditoraddoptions/formeditoraddoptions/"

@@ -18,12 +18,6 @@ Represents client to access AI API.
 public abstract class AIClientBase : IDisposable
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [AIClientBase](./aiclientbase/#constructor)(*HttpClient*) | Initializes a new instance of the [`AIClientBase`](../../aspose.pdf.ai/aiclientbase/) class. |
-
 ## Properties
 
 | Name | Description |
@@ -37,19 +31,7 @@ public abstract class AIClientBase : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [AssertDisposed](./assertdisposed/) | Asserts whether the object has been disposed. |
 | [Dispose](./dispose/) | Disposes of the resources used by the [`AIClientBase`](../../aspose.pdf.ai/aiclientbase/). |
-| [Dispose](./dispose/)(*bool*) | Disposes of the resources used by the [`AIClientBase`](../../aspose.pdf.ai/aiclientbase/). |
-| [HandleRequestAsync](./handlerequestasync/)(*Func<Task<T0>>, Func<string, string>, Nullable<CancellationToken>*) | Handles the asynchronous request with retries and backoff delay. |
-| [PollForCompletionAsync](./pollforcompletionasync/)(*Func<Task<IStatus>>, Nullable<CancellationToken>*) | Polls for completion asynchronously with a specified request delegate. |
-| [PollForCompletionAsync](./pollforcompletionasync/)(*Func<Task<T0>>, Func<T0, bool>, Nullable<CancellationToken>*) | Polls for completion asynchronously with a specified request delegate and completion check. |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| [Disposed](./disposed/) |  |
-| [HttpClient](./httpclient/) |  |
 
 ### See Also
 

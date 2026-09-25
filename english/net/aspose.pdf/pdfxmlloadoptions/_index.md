@@ -22,7 +22,7 @@ public class PdfXmlLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfXmlLoadOptions](./pdfxmlloadoptions/#constructor) | Initializes a new instance of the PdfXmlLoadOptions class. |
+| [PdfXmlLoadOptions](./pdfxmlloadoptions/#constructor) | The default constructor. |
 
 ## Properties
 

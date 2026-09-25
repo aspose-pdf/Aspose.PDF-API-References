@@ -3,7 +3,7 @@ title: "StructureElement.DefaultAttributeOwner"
 linktitle: "DefaultAttributeOwner"
 articleTitle: "DefaultAttributeOwner"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "StructureElement property. Gets object."
+description: "StructureElement property. Gets AttributeOwnerStandard object."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.logicalstructure/structureelement/defaultattributeowner/"

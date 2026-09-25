@@ -3,7 +3,7 @@ title: "GraphicState Class"
 linktitle: "GraphicState"
 articleTitle: "GraphicState"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.Vector.GraphicState class. Represents graphic state of the current ."
+description: "Aspose.Pdf.Vector.GraphicState class. Represents graphic state of the current GraphicElement."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.vector/graphicstate/"

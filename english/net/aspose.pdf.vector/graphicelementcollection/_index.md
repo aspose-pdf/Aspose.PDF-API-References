@@ -3,7 +3,7 @@ title: "GraphicElementCollection Class"
 linktitle: "GraphicElementCollection"
 articleTitle: "GraphicElementCollection"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.Vector.GraphicElementCollection class. Represents collection."
+description: "Aspose.Pdf.Vector.GraphicElementCollection class. Represents GraphicElement collection."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.vector/graphicelementcollection/"
@@ -29,7 +29,7 @@ public sealed class GraphicElementCollection : IEnumerable
 | Name | Description |
 | --- | --- |
 | [Count](./count/) { get; } | Gets the number of [`GraphicElement`](../../aspose.pdf.vector/graphicelement/) object elements actually contained in the collection. |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets the [`GraphicElement`](../../aspose.pdf.vector/graphicelement/) element at the specified index. |
 
 ## Methods
 

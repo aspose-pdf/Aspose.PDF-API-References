@@ -22,7 +22,7 @@ public class TextExtractor : PdfExtractor
 
 | Name | Description |
 | --- | --- |
-| [TextExtractor](./textextractor/#constructor) | Initializes a new instance of the TextExtractor class. |
+| [TextExtractor](./textextractor/#constructor) | The default constructor. |
 
 ## Methods
 

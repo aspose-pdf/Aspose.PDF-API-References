@@ -22,7 +22,7 @@ public class ApsLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [ApsLoadOptions](./apsloadoptions/#constructor) | Initializes a new instance of the ApsLoadOptions class. |
+| [ApsLoadOptions](./apsloadoptions/#constructor) | The default constructor. |
 
 ## Properties
 

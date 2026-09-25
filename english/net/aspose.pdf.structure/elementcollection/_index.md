@@ -23,7 +23,7 @@ public class ElementCollection : IEnumerable
 | Name | Description |
 | --- | --- |
 | [Count](./count/) { get; } | Count of elements. |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets Element by index. |
 
 ## Methods
 

@@ -3,7 +3,7 @@ title: "TextBoxField.TextBoxField"
 linktitle: "TextBoxField"
 articleTitle: "TextBoxField"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextBoxField constructor. Initializes a new instance of the TextBoxField class."
+description: "TextBoxField constructor. Constructor which should be used with Generator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/textboxfield/textboxfield/"

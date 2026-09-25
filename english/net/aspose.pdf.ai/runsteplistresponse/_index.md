@@ -22,7 +22,7 @@ public class RunStepListResponse
 
 | Name | Description |
 | --- | --- |
-| [RunStepListResponse](./runsteplistresponse/#constructor) | Initializes a new instance of the RunStepListResponse class. |
+| [RunStepListResponse](./runsteplistresponse/#constructor) | The default constructor. |
 
 ### See Also
 

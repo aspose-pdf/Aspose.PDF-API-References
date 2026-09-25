@@ -3,7 +3,7 @@ title: "ITaggedContent.CreateDivElement"
 linktitle: "CreateDivElement"
 articleTitle: "CreateDivElement"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ITaggedContent method. Creates ."
+description: "ITaggedContent method. Creates DivElement."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.tagged/itaggedcontent/createdivelement/"

@@ -22,7 +22,7 @@ public class CreateChatCompletionChunkResponse
 
 | Name | Description |
 | --- | --- |
-| [CreateChatCompletionChunkResponse](./createchatcompletionchunkresponse/#constructor) | Initializes a new instance of the CreateChatCompletionChunkResponse class. |
+| [CreateChatCompletionChunkResponse](./createchatcompletionchunkresponse/#constructor) | The default constructor. |
 
 ## Properties
 

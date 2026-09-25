@@ -3,7 +3,7 @@ title: "ClosePathEOFillStroke Class"
 linktitle: "ClosePathEOFillStroke"
 articleTitle: "ClosePathEOFillStroke"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.Operators.ClosePathEOFillStroke class. Class representing b* operator (close, fill and stroke path using even-odd rule)."
+description: "Aspose.Pdf.Operators.ClosePathEOFillStroke class. Class representing b operator (close, fill and stroke path using even-odd rule)."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.operators/closepatheofillstroke/"

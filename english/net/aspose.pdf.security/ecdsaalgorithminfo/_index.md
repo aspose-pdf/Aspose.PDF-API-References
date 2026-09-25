@@ -28,7 +28,6 @@ public sealed class EcdsaAlgorithmInfo : KeyedSignatureAlgorithmInfo
 
 | Name | Description |
 | --- | --- |
-| [FillText](./filltext/) |  |
 | [ToString](../../aspose.pdf.security/signaturealgorithminfo/tostring/) | Converts the current information object to its string representation. *(Inherited from SignatureAlgorithmInfo)* |
 
 ## Fields

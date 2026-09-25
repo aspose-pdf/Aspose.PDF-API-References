@@ -3,7 +3,7 @@ title: "PdfBookmarkEditor.PdfBookmarkEditor"
 linktitle: "PdfBookmarkEditor"
 articleTitle: "PdfBookmarkEditor"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfBookmarkEditor constructor. Initializes a new instance of the PdfBookmarkEditor class."
+description: "PdfBookmarkEditor constructor. Initializes new PdfBookmarkEditor object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/pdfbookmarkeditor/"
@@ -27,7 +27,7 @@ public PdfBookmarkEditor()
 
 ## PdfBookmarkEditor([Document](../../../aspose.pdf/document/)) {#constructor_1}
 
-Initializes new [`PdfBookmarkEditor`](../../../aspose.pdf.facades/pdfbookmarkeditor/) object on base of the .
+Initializes new [`PdfBookmarkEditor`](../../../aspose.pdf.facades/pdfbookmarkeditor/) object on base of the *document*.
 
 ```csharp
 public PdfBookmarkEditor(Document document)

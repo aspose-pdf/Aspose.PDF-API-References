@@ -3,7 +3,7 @@ title: "CompletionCreateRequest.CompletionCreateRequest"
 linktitle: "CompletionCreateRequest"
 articleTitle: "CompletionCreateRequest"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CompletionCreateRequest constructor. Initializes a new instance of the CompletionCreateRequest class."
+description: "CompletionCreateRequest constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/completioncreaterequest/completioncreaterequest/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## CompletionCreateRequest() {#constructor}
 
-Initializes a new instance of the CompletionCreateRequest class.
+The default constructor.
 
 ```csharp
 public CompletionCreateRequest()

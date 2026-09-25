@@ -5,7 +5,7 @@ articleTitle: "HorizontalAlignment"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "BaseParagraph property. Gets or sets a horizontal alignment of paragraph"
 type: docs
-weight: 40
+weight: 30
 url: "/net/aspose.pdf/baseparagraph/horizontalalignment/"
 product_version: "26.9.0"
 ---

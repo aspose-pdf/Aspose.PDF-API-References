@@ -24,7 +24,7 @@ public class SvgImageSavingInfo : ResourceSavingInfo
 
 | Name | Description |
 | --- | --- |
-| [SvgSaveOptions.SvgImageSavingInfo](./svgimagesavinginfo/#constructor) | Initializes a new instance of the SvgSaveOptions.SvgImageSavingInfo class. |
+| [SvgSaveOptions.SvgImageSavingInfo](./svgimagesavinginfo/#constructor) | The default constructor. |
 
 ## Fields
 

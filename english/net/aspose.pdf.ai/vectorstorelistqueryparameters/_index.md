@@ -22,7 +22,7 @@ public class VectorStoreListQueryParameters : BaseListQueryParameters, IQueryPar
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreListQueryParameters](./vectorstorelistqueryparameters/#constructor) | Initializes a new instance of the VectorStoreListQueryParameters class. |
+| [VectorStoreListQueryParameters](./vectorstorelistqueryparameters/#constructor) | The default constructor. |
 
 ## Properties
 

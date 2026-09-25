@@ -5,7 +5,7 @@ articleTitle: "Outputs"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormOptions property. Gets collection of added targets for saving operation results."
 type: docs
-weight: 50
+weight: 40
 url: "/net/aspose.pdf.lowcode/formoptions/outputs/"
 product_version: "26.9.0"
 ---

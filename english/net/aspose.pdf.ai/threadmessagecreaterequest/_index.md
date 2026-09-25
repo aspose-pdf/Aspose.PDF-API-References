@@ -22,7 +22,7 @@ public class ThreadMessageCreateRequest
 
 | Name | Description |
 | --- | --- |
-| [ThreadMessageCreateRequest](./threadmessagecreaterequest/#constructor) | Initializes a new instance of the ThreadMessageCreateRequest class. |
+| [ThreadMessageCreateRequest](./threadmessagecreaterequest/#constructor) | The default constructor. |
 
 ## Properties
 

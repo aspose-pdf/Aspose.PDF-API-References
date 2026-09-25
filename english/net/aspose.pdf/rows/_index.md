@@ -22,14 +22,14 @@ public sealed class Rows : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [Rows](./rows/#constructor) | Initializes a new instance of the Rows class. |
+| [Rows](./rows/#constructor) | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Count](./count/) { get; } | The items count. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets or sets row. |
 
 ## Methods
 

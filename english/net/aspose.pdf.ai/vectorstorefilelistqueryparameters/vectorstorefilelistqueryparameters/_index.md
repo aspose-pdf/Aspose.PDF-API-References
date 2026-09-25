@@ -3,7 +3,7 @@ title: "VectorStoreFileListQueryParameters.VectorStoreFileListQueryParameters"
 linktitle: "VectorStoreFileListQueryParameters"
 articleTitle: "VectorStoreFileListQueryParameters"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "VectorStoreFileListQueryParameters constructor. Initializes a new instance of the VectorStoreFileListQueryParameters class."
+description: "VectorStoreFileListQueryParameters constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/vectorstorefilelistqueryparameters/vectorstorefilelistqueryparameters/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## VectorStoreFileListQueryParameters() {#constructor}
 
-Initializes a new instance of the VectorStoreFileListQueryParameters class.
+The default constructor.
 
 ```csharp
 public VectorStoreFileListQueryParameters()

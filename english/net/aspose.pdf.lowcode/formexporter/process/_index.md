@@ -31,7 +31,7 @@ A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) containing t
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | If is null. |
+| ArgumentException | If *options* is null. |
 | InvalidOperationException | If the options type is not supported. |
 
 ### See Also

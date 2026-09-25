@@ -3,7 +3,7 @@ title: "FileCounts.FileCounts"
 linktitle: "FileCounts"
 articleTitle: "FileCounts"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FileCounts constructor. Initializes a new instance of the FileCounts class."
+description: "FileCounts constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/filecounts/filecounts/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## FileCounts() {#constructor}
 
-Initializes a new instance of the FileCounts class.
+The default constructor.
 
 ```csharp
 public FileCounts()

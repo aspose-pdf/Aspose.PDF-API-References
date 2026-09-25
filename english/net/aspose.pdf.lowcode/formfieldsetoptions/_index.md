@@ -22,7 +22,7 @@ public class FormFieldSetOptions : FormFieldOptions
 
 | Name | Description |
 | --- | --- |
-| [FormFieldSetOptions](./formfieldsetoptions/#constructor) | Initializes a new instance of the FormFieldSetOptions class. |
+| [FormFieldSetOptions](./formfieldsetoptions/#constructor) | The default constructor. |
 
 ## Properties
 

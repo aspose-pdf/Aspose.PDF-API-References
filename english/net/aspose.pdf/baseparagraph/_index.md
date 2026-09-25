@@ -18,12 +18,6 @@ Represents a abstract base object can be added to the page(doc.[Paragraphs](../p
 public abstract class BaseParagraph : ICloneable
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [BaseParagraph](./baseparagraph/#constructor) | Initializes a new instance of the BaseParagraph class. |
-
 ## Properties
 
 | Name | Description |

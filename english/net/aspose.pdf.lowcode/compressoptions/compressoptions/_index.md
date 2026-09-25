@@ -3,7 +3,7 @@ title: "CompressOptions.CompressOptions"
 linktitle: "CompressOptions"
 articleTitle: "CompressOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CompressOptions constructor. Initializes a new instance of the CompressOptions class."
+description: "CompressOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/compressoptions/compressoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## CompressOptions() {#constructor}
 
-Initializes a new instance of the CompressOptions class.
+The default constructor.
 
 ```csharp
 public CompressOptions()

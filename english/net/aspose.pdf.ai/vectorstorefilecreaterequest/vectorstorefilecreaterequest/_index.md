@@ -3,7 +3,7 @@ title: "VectorStoreFileCreateRequest.VectorStoreFileCreateRequest"
 linktitle: "VectorStoreFileCreateRequest"
 articleTitle: "VectorStoreFileCreateRequest"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "VectorStoreFileCreateRequest constructor. Initializes a new instance of the VectorStoreFileCreateRequest class."
+description: "VectorStoreFileCreateRequest constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/vectorstorefilecreaterequest/vectorstorefilecreaterequest/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## VectorStoreFileCreateRequest() {#constructor}
 
-Initializes a new instance of the VectorStoreFileCreateRequest class.
+The default constructor.
 
 ```csharp
 public VectorStoreFileCreateRequest()

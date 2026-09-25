@@ -3,7 +3,7 @@ title: "DocConverter.Process"
 linktitle: "Process"
 articleTitle: "Process"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "DocConverter method. Starts the processing with the specified parameters."
+description: "DocConverter method. Starts the DocConverter processing with the specified parameters."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/docconverter/process/"

@@ -3,7 +3,7 @@ title: "TruncationStrategy.TruncationStrategy"
 linktitle: "TruncationStrategy"
 articleTitle: "TruncationStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TruncationStrategy constructor. Initializes a new instance of the TruncationStrategy class."
+description: "TruncationStrategy constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/truncationstrategy/truncationstrategy/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## TruncationStrategy() {#constructor}
 
-Initializes a new instance of the TruncationStrategy class.
+The default constructor.
 
 ```csharp
 public TruncationStrategy()

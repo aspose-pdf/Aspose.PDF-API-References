@@ -22,7 +22,7 @@ public class TextStyle
 
 | Name | Description |
 | --- | --- |
-| [TextStyle](./textstyle/#constructor) | Initializes a new instance of the TextStyle class. |
+| [TextStyle](./textstyle/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -22,7 +22,7 @@ public class ImageDescription
 
 | Name | Description |
 | --- | --- |
-| [ImageDescription](./imagedescription/#constructor) | Initializes a new instance of the ImageDescription class. |
+| [ImageDescription](./imagedescription/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -22,7 +22,7 @@ public class TextDocument
 
 | Name | Description |
 | --- | --- |
-| [TextDocument](./textdocument/#constructor) | Initializes a new instance of the TextDocument class. |
+| [TextDocument](./textdocument/#constructor) | The default constructor. |
 
 ## Properties
 

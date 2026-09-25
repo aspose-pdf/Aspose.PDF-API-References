@@ -3,7 +3,7 @@ title: "SimpleFontSubstitution.SubstitutionFontName"
 linktitle: "SubstitutionFontName"
 articleTitle: "SubstitutionFontName"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SimpleFontSubstitution property. Gets font name that should substitute the"
+description: "SimpleFontSubstitution property. Gets font name that should substitute the OriginalFontName"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/simplefontsubstitution/substitutionfontname/"

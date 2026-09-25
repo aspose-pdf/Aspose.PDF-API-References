@@ -3,7 +3,7 @@ title: "GraphicsAbsorber.SuppressUpdate"
 linktitle: "SuppressUpdate"
 articleTitle: "SuppressUpdate"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "GraphicsAbsorber method. Suppresses update for and all Was made for performance increase, see also ."
+description: "GraphicsAbsorber method. Suppresses update for Contents and all Contents Was made for performance increase, see also ."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.vector/graphicsabsorber/suppressupdate/"

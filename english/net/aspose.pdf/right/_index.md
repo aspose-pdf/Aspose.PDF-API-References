@@ -22,7 +22,7 @@ public sealed class Right : HeaderFooterData
 
 | Name | Description |
 | --- | --- |
-| [Right](./right/#constructor) | Initializes a new instance of the Right class. |
+| [Right](./right/#constructor) | The default constructor. |
 
 ## Properties
 

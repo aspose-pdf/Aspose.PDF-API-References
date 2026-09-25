@@ -31,7 +31,6 @@ public class OpenAIClient : AIClientBase, IOpenAIClient, IAIClient
 
 | Name | Description |
 | --- | --- |
-| [AssertDisposed](../../aspose.pdf.ai/aiclientbase/assertdisposed/) | Asserts whether the object has been disposed. *(Inherited from AIClientBase)* |
 | [CancelRunAsync](./cancelrunasync/)(*string, string, Nullable<CancellationToken>*) | Cancels an existing run within a thread asynchronously. |
 | [CancelVectorStoreFileBatchAsync](./cancelvectorstorefilebatchasync/)(*string, string, Nullable<CancellationToken>*) | Cancels a specific vector store file batch asynchronously. |
 | [CreateAssistantAsync](./createassistantasync/)(*AssistantCreateRequest, Nullable<CancellationToken>*) | Creates a new assistant asynchronously. |
@@ -52,7 +51,6 @@ public class OpenAIClient : AIClientBase, IOpenAIClient, IAIClient
 | [DeleteVectorStoreAsync](./deletevectorstoreasync/)(*string, Nullable<CancellationToken>*) | Deletes a vector store asynchronously. |
 | [DeleteVectorStoreFileAsync](./deletevectorstorefileasync/)(*string, string, Nullable<CancellationToken>*) | Deletes a file within a vector store asynchronously. |
 | [Dispose](../../aspose.pdf.ai/aiclientbase/dispose/) | Disposes of the resources used by the [`AIClientBase`](../../aspose.pdf.ai/aiclientbase/). *(Inherited from AIClientBase)* |
-| [Dispose](../../aspose.pdf.ai/aiclientbase/dispose/)(*bool*) | Disposes of the resources used by the [`AIClientBase`](../../aspose.pdf.ai/aiclientbase/). *(Inherited from AIClientBase)* |
 | [GetAssistantAsync](./getassistantasync/)(*string, Nullable<CancellationToken>*) | Retrieves details of a specific assistant asynchronously. |
 | [GetAssistantsAsync](./getassistantsasync/)(*AssistantListQueryParameters, Nullable<CancellationToken>*) | Retrieves a list of assistants asynchronously. |
 | [GetChatCopilot](./getchatcopilot/)(*IChatCopilotOptions<OpenAIChatCopilotOptions>*) | Gets an instance of [`IChatCopilot`](../../aspose.pdf.ai/ichatcopilot/) with the specified options. |
@@ -74,14 +72,11 @@ public class OpenAIClient : AIClientBase, IOpenAIClient, IAIClient
 | [GetVectorStoreFileBatchFilesAsync](./getvectorstorefilebatchfilesasync/)(*string, string, VectorStoreFileBatchFileListQueryParameters, Nullable<CancellationToken>*) | Retrieves a list of files within a specific vector store file batch asynchronously. |
 | [GetVectorStoreFilesAsync](./getvectorstorefilesasync/)(*string, VectorStoreFileListQueryParameters, Nullable<CancellationToken>*) | Retrieves a list of files within a specific vector store asynchronously. |
 | [GetVectorStoresAsync](./getvectorstoresasync/)(*VectorStoreListQueryParameters, Nullable<CancellationToken>*) | Retrieves a list of vector stores asynchronously. |
-| [HandleRequestAsync](../../aspose.pdf.ai/aiclientbase/handlerequestasync/)(*Func<Task<T0>>, Func<string, string>, Nullable<CancellationToken>*) | Handles the asynchronous request with retries and backoff delay. *(Inherited from AIClientBase)* |
 | [ModifyAssistantAsync](./modifyassistantasync/)(*string, AssistantModifyRequest, Nullable<CancellationToken>*) | Modifies an existing assistant asynchronously. |
 | [ModifyRunAsync](./modifyrunasync/)(*string, string, RunModifyRequest, Nullable<CancellationToken>*) | Modifies an existing run within a thread asynchronously. |
 | [ModifyThreadAsync](./modifythreadasync/)(*string, ThreadModifyRequest, Nullable<CancellationToken>*) | Modifies an existing thread asynchronously. |
 | [ModifyThreadMessageAsync](./modifythreadmessageasync/)(*string, string, ThreadMessageModifyRequest, Nullable<CancellationToken>*) | Modifies an existing message within a thread asynchronously. |
 | [ModifyVectorStoreAsync](./modifyvectorstoreasync/)(*string, VectorStoreModifyRequest, Nullable<CancellationToken>*) | Modifies an existing vector store asynchronously. |
-| [PollForCompletionAsync](../../aspose.pdf.ai/aiclientbase/pollforcompletionasync/)(*Func<Task<IStatus>>, Nullable<CancellationToken>*) | Polls for completion asynchronously with a specified request delegate. *(Inherited from AIClientBase)* |
-| [PollForCompletionAsync](../../aspose.pdf.ai/aiclientbase/pollforcompletionasync/)(*Func<Task<T0>>, Func<T0, bool>, Nullable<CancellationToken>*) | Polls for completion asynchronously with a specified request delegate and completion check. *(Inherited from AIClientBase)* |
 | [RunAndGetAssistantResponseAsync](./runandgetassistantresponseasync/)(*string, RunCreateRequest, Nullable<CancellationToken>*) | Runs the assistant with the specified threadId and runCreateRequest, and asynchronously gets the assistant response. |
 | [UploadFileAsync](./uploadfileasync/)(*string, string, byte[], Nullable<CancellationToken>*) | Uploads a file asynchronously to the OpenAI server. |
 | [WaitForAssistantMessageAsync](./waitforassistantmessageasync/)(*string, ThreadMessageListQueryParameters, Nullable<CancellationToken>*) | Waits for the first message from the assistant within a thread asynchronously. |
@@ -89,13 +84,6 @@ public class OpenAIClient : AIClientBase, IOpenAIClient, IAIClient
 | [WaitForThreadMessageToCompleteAsync](./waitforthreadmessagetocompleteasync/)(*string, string, Nullable<CancellationToken>*) | Waits for a specific thread message to complete asynchronously. |
 | [WaitForVectorStoreFileToCompleteAsync](./waitforvectorstorefiletocompleteasync/)(*string, string, Nullable<CancellationToken>*) | Waits for a specific vector store file to complete asynchronously. |
 | [WaitForVectorStoreToCompleteAsync](./waitforvectorstoretocompleteasync/)(*string, Nullable<CancellationToken>*) | Waits for a specific vector store to complete asynchronously. |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| [Disposed](../../aspose.pdf.ai/aiclientbase/disposed/) | *(Inherited from AIClientBase)* |
-| [HttpClient](../../aspose.pdf.ai/aiclientbase/httpclient/) | *(Inherited from AIClientBase)* |
 
 ### See Also
 

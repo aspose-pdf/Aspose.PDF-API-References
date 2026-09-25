@@ -3,7 +3,7 @@ title: "LlamaChatCompletionRequest.LlamaChatCompletionRequest"
 linktitle: "LlamaChatCompletionRequest"
 articleTitle: "LlamaChatCompletionRequest"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "LlamaChatCompletionRequest constructor. Initializes a new instance of the LlamaChatCompletionRequest class."
+description: "LlamaChatCompletionRequest constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/llamachatcompletionrequest/llamachatcompletionrequest/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## LlamaChatCompletionRequest() {#constructor}
 
-Initializes a new instance of the LlamaChatCompletionRequest class.
+The default constructor.
 
 ```csharp
 public LlamaChatCompletionRequest()

@@ -5,7 +5,7 @@ articleTitle: "GetFieldFlag"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Returns flags of the field."
 type: docs
-weight: 460
+weight: 440
 url: "/net/aspose.pdf.facades/form/getfieldflag/"
 product_version: "26.9.0"
 ---

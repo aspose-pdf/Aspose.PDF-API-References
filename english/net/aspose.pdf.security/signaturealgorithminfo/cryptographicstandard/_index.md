@@ -5,7 +5,7 @@ articleTitle: "CryptographicStandard"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "SignatureAlgorithmInfo field. Gets the cryptographic standard used for signing the PDF document."
 type: docs
-weight: 60
+weight: 40
 url: "/net/aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/"
 product_version: "26.9.0"
 ---

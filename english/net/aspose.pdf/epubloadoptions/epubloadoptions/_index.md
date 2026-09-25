@@ -3,7 +3,7 @@ title: "EpubLoadOptions.EpubLoadOptions"
 linktitle: "EpubLoadOptions"
 articleTitle: "EpubLoadOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "EpubLoadOptions constructor. Initializes a new instance of the EpubLoadOptions class."
+description: "EpubLoadOptions constructor. Creates default load options for converting EPUB file into pdf document. Default pdf page size - A4 300dpi 2480 X 3508."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/epubloadoptions/epubloadoptions/"

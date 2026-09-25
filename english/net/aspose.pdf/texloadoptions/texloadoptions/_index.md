@@ -3,7 +3,7 @@ title: "TeXLoadOptions.TeXLoadOptions"
 linktitle: "TeXLoadOptions"
 articleTitle: "TeXLoadOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TeXLoadOptions constructor. Initializes a new instance of the TeXLoadOptions class."
+description: "TeXLoadOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/texloadoptions/texloadoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## TeXLoadOptions() {#constructor}
 
-Initializes a new instance of the TeXLoadOptions class.
+The default constructor.
 
 ```csharp
 public TeXLoadOptions()

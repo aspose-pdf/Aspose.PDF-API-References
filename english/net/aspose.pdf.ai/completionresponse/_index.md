@@ -22,7 +22,7 @@ public class CompletionResponse : BaseResponse
 
 | Name | Description |
 | --- | --- |
-| [CompletionResponse](./completionresponse/#constructor) | Initializes a new instance of the CompletionResponse class. |
+| [CompletionResponse](./completionresponse/#constructor) | The default constructor. |
 
 ## Properties
 

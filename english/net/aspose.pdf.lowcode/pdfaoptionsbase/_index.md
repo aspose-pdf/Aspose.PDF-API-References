@@ -3,7 +3,7 @@ title: "PdfAOptionsBase Class"
 linktitle: "PdfAOptionsBase"
 articleTitle: "PdfAOptionsBase"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.PdfAOptionsBase class. Represents the base class for the plugin options. This class provides properties and methods for configuring the PD..."
+description: "Aspose.Pdf.LowCode.PdfAOptionsBase class. Represents the base class for the PdfAConverter plugin options. This class provides properties and methods for conf..."
 type: docs
 weight: 600
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/"
@@ -18,12 +18,6 @@ Represents the base class for the [`PdfAConverter`](../../aspose.pdf.lowcode/pdf
 ```csharp
 public abstract class PdfAOptionsBase : IPluginOptions
 ```
-
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [PdfAOptionsBase](./pdfaoptionsbase/#constructor) | Initializes a new instance of the PdfAOptionsBase class. |
 
 ## Properties
 

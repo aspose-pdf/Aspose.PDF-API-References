@@ -30,7 +30,6 @@ public sealed class LaunchAction : PdfAction
 | Name | Description |
 | --- | --- |
 | [File](./file/) { get; set; } | Gets or sets the application to be launched or the document to be opened or printed. |
-| [IsInitialized](../../aspose.pdf.annotations/pdfaction/isinitialized/) { get; } | Indicates whether the action has been initialized. *(Inherited from PdfAction)* |
 | [NewWindow](./newwindow/) { get; set; } | Gets or sets a flag specifying whether to open the destination document in a new window (affect PDF documents only). |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. *(Inherited from PdfAction)* |
 

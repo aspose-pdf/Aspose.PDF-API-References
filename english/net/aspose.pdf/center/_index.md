@@ -22,7 +22,7 @@ public sealed class Center : HeaderFooterData
 
 | Name | Description |
 | --- | --- |
-| [Center](./center/#constructor) | Initializes a new instance of the Center class. |
+| [Center](./center/#constructor) | The default constructor. |
 
 ## Properties
 

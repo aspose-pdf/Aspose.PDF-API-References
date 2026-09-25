@@ -3,7 +3,7 @@ title: "AlignmentType.AlignmentType"
 linktitle: "AlignmentType"
 articleTitle: "AlignmentType"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "AlignmentType constructor. Initializes a new instance of the AlignmentType class."
+description: "AlignmentType constructor. Constructor of AlignmentType."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/alignmenttype/alignmenttype/"

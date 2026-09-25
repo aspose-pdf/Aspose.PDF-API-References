@@ -35,23 +35,9 @@ public abstract class GraphicElement : IDisposable
 | --- | --- |
 | [AddOnPage](./addonpage/)(*Page*) | Adds current element on the page. |
 | [Dispose](./dispose/) | Releases all resources used by the [`GraphicElement`](../../aspose.pdf.vector/graphicelement/) class. |
-| [Dispose](./dispose/)(*bool*) | Releases all resources used by the [`GraphicElement`](../../aspose.pdf.vector/graphicelement/) class. |
-| [FindDelta](./finddelta/)(*Point*) |  |
-| [GetInitialPoint](./getinitialpoint/)(*double, double*) |  |
 | [Remove](./remove/) | Removes current element from the page. |
 | [SaveToSvg](./savetosvg/) | Converts the element into a single SVG image. |
 | [SaveToSvg](./savetosvg/)(*string*) | Converts the element into a single SVG image file. |
-| [SetPosition](./setposition/)(*Point*) |  |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| readonly [_currentContent](./_currentcontent/) |  |
-| [_graphicState](./_graphicstate/) |  |
-| [_matrix](./_matrix/) |  |
-| [_operators](./_operators/) |  |
-| [_page](./_page/) |  |
 
 ### See Also
 

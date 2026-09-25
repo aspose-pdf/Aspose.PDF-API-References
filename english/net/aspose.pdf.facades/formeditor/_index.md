@@ -23,11 +23,11 @@ public sealed class FormEditor : SaveableFacade
 | Name | Description |
 | --- | --- |
 | [FormEditor](./formeditor/#constructor) | Constructor for FormEditor. |
-| [FormEditor](./formeditor/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`FormEditor`](../../aspose.pdf.lowcode/formeditor/) object on base of the . |
+| [FormEditor](./formeditor/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`FormEditor`](../../aspose.pdf.lowcode/formeditor/) object on base of the *document*. |
 | [FormEditor](./formeditor/#constructor_2)(*Stream, Stream*) | Constructor for FormEditor. |
 | [FormEditor](./formeditor/#constructor_3)(*string, string*) | Constructor for FormEditor. |
-| [FormEditor](./formeditor/#constructor_4)(*[Document](../../aspose.pdf/document/), string*) | Initializes new [`FormEditor`](../../aspose.pdf.lowcode/formeditor/) object on base of the . |
-| [FormEditor](./formeditor/#constructor_5)(*[Document](../../aspose.pdf/document/), Stream*) | Initializes new [`FormEditor`](../../aspose.pdf.lowcode/formeditor/) object on base of the . |
+| [FormEditor](./formeditor/#constructor_4)(*[Document](../../aspose.pdf/document/), string*) | Initializes new [`FormEditor`](../../aspose.pdf.lowcode/formeditor/) object on base of the *document*. |
+| [FormEditor](./formeditor/#constructor_5)(*[Document](../../aspose.pdf/document/), Stream*) | Initializes new [`FormEditor`](../../aspose.pdf.lowcode/formeditor/) object on base of the *document*. |
 
 ## Properties
 
@@ -57,10 +57,7 @@ public sealed class FormEditor : SaveableFacade
 | [AddListItem](./addlistitem/)(*string, string*) | Adds new item to the list box. |
 | [AddListItem](./addlistitem/)(*string, string[]*) | Add a new item with Export value to the existing list box field, only for AcroForm combo box field. |
 | [AddSubmitBtn](./addsubmitbtn/)(*string, int, string, string, float, float, float, float*) | Add submit button on the form. |
-| [AssertDocument](../../aspose.pdf.facades/facade/assertdocument/) | Asserts if the facade is initialized. *(Inherited from Facade)* |
 | [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. *(Inherited from Facade)* |
 | [Close](./close/) | Closes the facade. |
 | [CopyInnerField](./copyinnerfield/)(*string, string, int*) | Copies an existing field to the same position in specified page number. |
 | [CopyInnerField](./copyinnerfield/)(*string, string, int, float, float*) | Copies an existing field to a new position specified by both page number and ordinates. |

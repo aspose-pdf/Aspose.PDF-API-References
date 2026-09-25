@@ -23,7 +23,7 @@ public sealed class PdfBookmarkEditor : SaveableFacade
 | Name | Description |
 | --- | --- |
 | [PdfBookmarkEditor](./pdfbookmarkeditor/#constructor) | Initializes new [`PdfBookmarkEditor`](../../aspose.pdf.facades/pdfbookmarkeditor/) object. |
-| [PdfBookmarkEditor](./pdfbookmarkeditor/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfBookmarkEditor`](../../aspose.pdf.facades/pdfbookmarkeditor/) object on base of the . |
+| [PdfBookmarkEditor](./pdfbookmarkeditor/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfBookmarkEditor`](../../aspose.pdf.facades/pdfbookmarkeditor/) object on base of the *document*. |
 
 ## Properties
 
@@ -35,10 +35,7 @@ public sealed class PdfBookmarkEditor : SaveableFacade
 
 | Name | Description |
 | --- | --- |
-| [AssertDocument](../../aspose.pdf.facades/facade/assertdocument/) | Asserts if the facade is initialized. *(Inherited from Facade)* |
 | [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. *(Inherited from Facade)* |
 | [Close](../../aspose.pdf.facades/facade/close/) | Disposes Aspose.Pdf.Document bound with a facade. *(Inherited from Facade)* |
 | [CreateBookmarkOfPage](./createbookmarkofpage/)(*string, int*) | Creates bookmark for the specified page. |
 | [CreateBookmarkOfPage](./createbookmarkofpage/)(*string[], int[]*) | Creates bookmarks for the specified pages. |

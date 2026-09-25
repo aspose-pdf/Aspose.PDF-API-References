@@ -3,7 +3,7 @@ title: "FileDataSource.FileDataSource"
 linktitle: "FileDataSource"
 articleTitle: "FileDataSource"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FileDataSource constructor. Initializes a new instance of the FileDataSource class."
+description: "FileDataSource constructor. Initializes new file data source with the specified path."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/filedatasource/filedatasource/"

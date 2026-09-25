@@ -5,7 +5,7 @@ articleTitle: "Repeat"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "RedactionAnnotation property. If true overlay text will be repated on the annotation."
 type: docs
-weight: 140
+weight: 120
 url: "/net/aspose.pdf.annotations/redactionannotation/repeat/"
 product_version: "26.9.0"
 ---

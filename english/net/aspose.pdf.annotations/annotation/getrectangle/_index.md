@@ -5,7 +5,7 @@ articleTitle: "GetRectangle"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Annotation method. Returns rectangle of annotation taking into consideration page rotation."
 type: docs
-weight: 100
+weight: 10
 url: "/net/aspose.pdf.annotations/annotation/getrectangle/"
 product_version: "26.9.0"
 ---

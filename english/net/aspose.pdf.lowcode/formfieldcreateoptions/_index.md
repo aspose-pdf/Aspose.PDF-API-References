@@ -18,12 +18,6 @@ Represents options for creating Field.
 public abstract class FormFieldCreateOptions : FormFieldOptions
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [FormFieldCreateOptions](./formfieldcreateoptions/#constructor)(*int, [Rectangle](../../aspose.pdf.drawing/rectangle/)*) | Initializes a new instance of the FormFieldCreateOptions class. |
-
 ## Properties
 
 | Name | Description |

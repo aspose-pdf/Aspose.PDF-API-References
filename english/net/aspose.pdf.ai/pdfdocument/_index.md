@@ -22,7 +22,7 @@ public class PdfDocument
 
 | Name | Description |
 | --- | --- |
-| [PdfDocument](./pdfdocument/#constructor) | Initializes a new instance of the PdfDocument class. |
+| [PdfDocument](./pdfdocument/#constructor) | The default constructor. |
 
 ## Properties
 

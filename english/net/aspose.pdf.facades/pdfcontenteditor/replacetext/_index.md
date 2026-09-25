@@ -3,7 +3,7 @@ title: "PdfContentEditor.ReplaceText"
 linktitle: "ReplaceText"
 articleTitle: "ReplaceText"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfContentEditor method. Replaces text in the PDF file on the specified page. object (font family, color) can be specified to replaced text."
+description: "PdfContentEditor method. Replaces text in the PDF file on the specified page. TextState object (font family, color) can be specified to replaced text."
 type: docs
 weight: 470
 url: "/net/aspose.pdf.facades/pdfcontenteditor/replacetext/"

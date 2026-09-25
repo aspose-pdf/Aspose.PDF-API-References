@@ -3,7 +3,7 @@ title: "TabStops Class"
 linktitle: "TabStops"
 articleTitle: "TabStops"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.Text.TabStops class. Represents a collection of objects."
+description: "Aspose.Pdf.Text.TabStops class. Represents a collection of TabStop objects."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.text/tabstops/"
@@ -22,7 +22,7 @@ public class TabStops : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [TabStops](./tabstops/#constructor) | Initializes a new instance of the TabStops class. |
+| [TabStops](./tabstops/#constructor) | The default constructor. |
 
 ## Properties
 
@@ -30,7 +30,7 @@ public class TabStops : ICloneable
 | --- | --- |
 | [Count](./count/) { get; } | Initializes a new instance of the [`TabStop`](../../aspose.pdf.text/tabstop/) class with specified position and. |
 | [IsReadOnly](./isreadonly/) { get; } | Gets value indicating that this [`TabStops`](../../aspose.pdf.text/tabstops/) instance is already attached to [`TextFragment`](../../aspose.pdf.text/textfragment/) and became readonly. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets or sets a [`TabStop`](../../aspose.pdf.text/tabstop/) object from the collection according to TabStop index. |
 
 ## Methods
 

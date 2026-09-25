@@ -22,7 +22,6 @@ public sealed class RenditionAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [IsInitialized](../../aspose.pdf.annotations/pdfaction/isinitialized/) { get; } | Indicates whether the action has been initialized. *(Inherited from PdfAction)* |
 | [JavaScript](./javascript/) { get; set; } | Gets or sets JavaScript code associated with the action. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. *(Inherited from PdfAction)* |
 | [Rendition](./rendition/) { get; } | Gets or sets rendition associated with the action. |

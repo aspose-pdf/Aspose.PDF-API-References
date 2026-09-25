@@ -3,7 +3,7 @@ title: "PdfFileStamp.PdfFileStamp"
 linktitle: "PdfFileStamp"
 articleTitle: "PdfFileStamp"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfFileStamp constructor. Initializes a new instance of the PdfFileStamp class."
+description: "PdfFileStamp constructor. Constructor for PdfFileStamp."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffilestamp/pdffilestamp/"
@@ -32,7 +32,7 @@ public PdfFileStamp()
 
 ## PdfFileStamp([Document](../../../aspose.pdf/document/)) {#constructor_1}
 
-Initializes new [`PdfFileStamp`](../../../aspose.pdf.facades/pdffilestamp/) object on base of the .
+Initializes new [`PdfFileStamp`](../../../aspose.pdf.facades/pdffilestamp/) object on base of the *document*.
 
 ```csharp
 public PdfFileStamp(Document document)
@@ -100,7 +100,7 @@ public PdfFileStamp(Stream inputStream, Stream outputStream)
 
 > **Deprecated.** Use constructor without destination.
 
-Initializes new [`PdfFileStamp`](../../../aspose.pdf.facades/pdffilestamp/) object on base of the .
+Initializes new [`PdfFileStamp`](../../../aspose.pdf.facades/pdffilestamp/) object on base of the *document*.
 
 ```csharp
 public PdfFileStamp(Document document, string outputFile)
@@ -123,7 +123,7 @@ public PdfFileStamp(Document document, string outputFile)
 
 > **Deprecated.** Use constructor without destination.
 
-Initializes new [`PdfFileStamp`](../../../aspose.pdf.facades/pdffilestamp/) object on base of the .
+Initializes new [`PdfFileStamp`](../../../aspose.pdf.facades/pdffilestamp/) object on base of the *document*.
 
 ```csharp
 public PdfFileStamp(Document document, Stream outputStream)

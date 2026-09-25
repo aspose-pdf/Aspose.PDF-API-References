@@ -22,7 +22,7 @@ public sealed class XfdfReader
 
 | Name | Description |
 | --- | --- |
-| [XfdfReader](./xfdfreader/#constructor) | Initializes a new instance of the XfdfReader class. |
+| [XfdfReader](./xfdfreader/#constructor) | The default constructor. |
 
 ## Methods
 

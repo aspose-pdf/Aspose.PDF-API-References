@@ -3,7 +3,7 @@ title: "FooterArtifact.FooterArtifact"
 linktitle: "FooterArtifact"
 articleTitle: "FooterArtifact"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FooterArtifact constructor. Initializes a new instance of the FooterArtifact class."
+description: "FooterArtifact constructor. Creates Footer Artifact instance."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/footerartifact/footerartifact/"

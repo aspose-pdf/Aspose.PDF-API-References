@@ -3,7 +3,7 @@ title: "FreeTextAnnotation.FreeTextAnnotation"
 linktitle: "FreeTextAnnotation"
 articleTitle: "FreeTextAnnotation"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FreeTextAnnotation constructor. Initializes a new instance of the FreeTextAnnotation class."
+description: "FreeTextAnnotation constructor. Constructor to use with Generator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/freetextannotation/freetextannotation/"

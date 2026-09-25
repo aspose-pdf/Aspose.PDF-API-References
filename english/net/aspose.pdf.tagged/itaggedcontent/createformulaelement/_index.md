@@ -3,7 +3,7 @@ title: "ITaggedContent.CreateFormulaElement"
 linktitle: "CreateFormulaElement"
 articleTitle: "CreateFormulaElement"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ITaggedContent method. Creates ."
+description: "ITaggedContent method. Creates FormulaElement."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.tagged/itaggedcontent/createformulaelement/"

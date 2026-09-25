@@ -5,7 +5,7 @@ articleTitle: "GetSubmitFlags"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Returns the submit button's submission flags"
 type: docs
-weight: 430
+weight: 410
 url: "/net/aspose.pdf.facades/form/getsubmitflags/"
 product_version: "26.9.0"
 ---

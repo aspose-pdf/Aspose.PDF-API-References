@@ -3,7 +3,7 @@ title: "ApsSaveOptions.ApsSaveOptions"
 linktitle: "ApsSaveOptions"
 articleTitle: "ApsSaveOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ApsSaveOptions constructor. Initializes a new instance of the ApsSaveOptions class."
+description: "ApsSaveOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/apssaveoptions/apssaveoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## ApsSaveOptions() {#constructor}
 
-Initializes a new instance of the ApsSaveOptions class.
+The default constructor.
 
 ```csharp
 public ApsSaveOptions()

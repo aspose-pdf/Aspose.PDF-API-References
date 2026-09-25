@@ -3,7 +3,7 @@ title: "FormTextBoxFieldCreateOptions.FormTextBoxFieldCreateOptions"
 linktitle: "FormTextBoxFieldCreateOptions"
 articleTitle: "FormTextBoxFieldCreateOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FormTextBoxFieldCreateOptions constructor. Initializes a new instance of the FormTextBoxFieldCreateOptions class."
+description: "FormTextBoxFieldCreateOptions constructor. Initializes a new instance of the FormTextBoxFieldCreateOptions object, that containing parameters for created and..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formtextboxfieldcreateoptions/formtextboxfieldcreateoptions/"

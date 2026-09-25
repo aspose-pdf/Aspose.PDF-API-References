@@ -3,7 +3,7 @@ title: "PngOptions Class"
 linktitle: "PngOptions"
 articleTitle: "PngOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.PngOptions class. Represents Pdf to Png converter options for the plugin."
+description: "Aspose.Pdf.LowCode.PngOptions class. Represents Pdf to Png converter options for the Png plugin."
 type: docs
 weight: 770
 url: "/net/aspose.pdf.lowcode/pngoptions/"
@@ -22,7 +22,7 @@ public sealed class PngOptions : PdfToImageOptions
 
 | Name | Description |
 | --- | --- |
-| [PngOptions](./pngoptions/#constructor) | Initializes a new instance of the PngOptions class. |
+| [PngOptions](./pngoptions/#constructor) | The default constructor. |
 
 ## Properties
 
@@ -41,13 +41,6 @@ public sealed class PngOptions : PdfToImageOptions
 | --- | --- |
 | [AddInput](../../aspose.pdf.lowcode/pdftoimageoptions/addinput/)(*IDataSource*) | Adds new data source to the [`PdfToImage`](../../aspose.pdf.lowcode/pdftoimage/) plugin data collection. *(Inherited from PdfToImageOptions)* |
 | [AddOutput](../../aspose.pdf.lowcode/pdftoimageoptions/addoutput/)(*IDataSource*) | Sets new save data source. Can only be a . If you want save images into memory streams, pass null as parameter. *(Inherited from PdfToImageOptions)* |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| const [defaultOutputImageJpegQuality](../../aspose.pdf.lowcode/pdftoimageoptions/defaultoutputimagejpegquality/) | *(Inherited from PdfToImageOptions)* |
-| const [defaultOutputImageResolution](../../aspose.pdf.lowcode/pdftoimageoptions/defaultoutputimageresolution/) | *(Inherited from PdfToImageOptions)* |
 
 ### See Also
 

@@ -22,7 +22,7 @@ public sealed class PageTotalNum
 
 | Name | Description |
 | --- | --- |
-| [PageNumber.PageTotalNum](./pagetotalnum/#constructor) | Initializes a new instance of the PageNumber.PageTotalNum class. |
+| [PageNumber.PageTotalNum](./pagetotalnum/#constructor) | The default constructor. |
 
 ### See Also
 

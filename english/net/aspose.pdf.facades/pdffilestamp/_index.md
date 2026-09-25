@@ -23,11 +23,11 @@ public sealed class PdfFileStamp : SaveableFacade
 | Name | Description |
 | --- | --- |
 | [PdfFileStamp](./pdffilestamp/#constructor) | Constructor of the PdfFileStamp. |
-| [PdfFileStamp](./pdffilestamp/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfFileStamp`](../../aspose.pdf.facades/pdffilestamp/) object on base of the . |
+| [PdfFileStamp](./pdffilestamp/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfFileStamp`](../../aspose.pdf.facades/pdffilestamp/) object on base of the *document*. |
 | [PdfFileStamp](./pdffilestamp/#constructor_2)(*string, string*) | Constructor for PdfFileStamp. |
 | [PdfFileStamp](./pdffilestamp/#constructor_3)(*Stream, Stream*) | Constructor for PdfFileStamp. |
-| [PdfFileStamp](./pdffilestamp/#constructor_4)(*[Document](../../aspose.pdf/document/), string*) | Initializes new [`PdfFileStamp`](../../aspose.pdf.facades/pdffilestamp/) object on base of the . |
-| [PdfFileStamp](./pdffilestamp/#constructor_5)(*[Document](../../aspose.pdf/document/), Stream*) | Initializes new [`PdfFileStamp`](../../aspose.pdf.facades/pdffilestamp/) object on base of the . |
+| [PdfFileStamp](./pdffilestamp/#constructor_4)(*[Document](../../aspose.pdf/document/), string*) | Initializes new [`PdfFileStamp`](../../aspose.pdf.facades/pdffilestamp/) object on base of the *document*. |
+| [PdfFileStamp](./pdffilestamp/#constructor_5)(*[Document](../../aspose.pdf/document/), Stream*) | Initializes new [`PdfFileStamp`](../../aspose.pdf.facades/pdffilestamp/) object on base of the *document*. |
 | [PdfFileStamp](./pdffilestamp/#constructor_6)(*string, string, bool*) | Constructor for PdfFileStamp. |
 | [PdfFileStamp](./pdffilestamp/#constructor_7)(*Stream, Stream, bool*) | Constructor of PdfFileStamp. |
 
@@ -75,10 +75,7 @@ public sealed class PdfFileStamp : SaveableFacade
 | [AddPageNumber](./addpagenumber/)(*string, int, float, float, float, float*) | Adds page number to the pages of document. |
 | [AddPageNumber](./addpagenumber/)(*FormattedText, int, float, float, float, float*) | Adds page number to the pages of document. |
 | [AddStamp](./addstamp/)(*Stamp*) | Adds stamp to the file. |
-| [AssertDocument](../../aspose.pdf.facades/facade/assertdocument/) | Asserts if the facade is initialized. *(Inherited from Facade)* |
 | [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. *(Inherited from Facade)* |
 | [Close](./close/) | Closes opened files and saves changes. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose/) | Disposes the facade. *(Inherited from Facade)* |
 | [Save](./save/)(*string*) | Saves result into specified file. |

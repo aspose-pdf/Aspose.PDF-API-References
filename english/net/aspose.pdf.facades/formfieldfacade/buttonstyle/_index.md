@@ -3,7 +3,7 @@ title: "FormFieldFacade.ButtonStyle"
 linktitle: "ButtonStyle"
 articleTitle: "ButtonStyle"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FormFieldFacade property. The style of check box or radio box field, defined by FormFieldFacade.CheckBoxStyle*."
+description: "FormFieldFacade property. The style of check box or radio box field, defined by FormFieldFacade.CheckBoxStyle."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/formfieldfacade/buttonstyle/"

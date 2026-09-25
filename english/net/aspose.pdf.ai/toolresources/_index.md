@@ -24,7 +24,7 @@ public class ToolResources
 
 | Name | Description |
 | --- | --- |
-| [ToolResources](./toolresources/#constructor) | Initializes a new instance of the ToolResources class. |
+| [ToolResources](./toolresources/#constructor) | The default constructor. |
 
 ## Properties
 

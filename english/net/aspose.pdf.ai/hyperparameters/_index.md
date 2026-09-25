@@ -22,7 +22,7 @@ public class Hyperparameters
 
 | Name | Description |
 | --- | --- |
-| [Hyperparameters](./hyperparameters/#constructor) | Initializes a new instance of the Hyperparameters class. |
+| [Hyperparameters](./hyperparameters/#constructor) | The default constructor. |
 
 ## Properties
 

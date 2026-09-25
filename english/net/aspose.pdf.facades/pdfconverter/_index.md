@@ -24,7 +24,7 @@ public sealed class PdfConverter : Facade
 | Name | Description |
 | --- | --- |
 | [PdfConverter](./pdfconverter/#constructor) | Initializes new [`PdfConverter`](../../aspose.pdf.facades/pdfconverter/) object. |
-| [PdfConverter](./pdfconverter/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfConverter`](../../aspose.pdf.facades/pdfconverter/) object on base of the . |
+| [PdfConverter](./pdfconverter/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfConverter`](../../aspose.pdf.facades/pdfconverter/) object on base of the *document*. |
 
 ## Properties
 
@@ -46,12 +46,9 @@ public sealed class PdfConverter : Facade
 
 | Name | Description |
 | --- | --- |
-| [AssertDocument](../../aspose.pdf.facades/facade/assertdocument/) | Asserts if the facade is initialized. *(Inherited from Facade)* |
 | [BindPdf](./bindpdf/)(*string*) | Binds a Pdf file for converting. |
 | [BindPdf](./bindpdf/)(*Stream*) | Binds a Pdf Stream for convert. |
 | [BindPdf](./bindpdf/)(*Document*) | Binds a PDF document to the [`PdfConverter`](../../aspose.pdf.facades/pdfconverter/) instance for further processing. |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. *(Inherited from Facade)* |
 | [Close](./close/) | Close the instance of PdfConverter and release the resources. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose/) | Disposes the facade. *(Inherited from Facade)* |
 | [DoConvert](./doconvert/) | Do some initial works for converting a pdf document to images. |

@@ -19,18 +19,6 @@ Abstract class for all types of devices. Device is used to represent pdf documen
 public abstract class Device
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [Device](./device/#constructor) | Initializes a new instance of the Device class. |
-
-## Properties
-
-| Name | Description |
-| --- | --- |
-| [Document](./document/) { get; set; } | Document which is processed by this device instance. |
-
 ### See Also
 
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)

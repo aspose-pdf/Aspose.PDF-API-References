@@ -3,7 +3,7 @@ title: "TocOptions Class"
 linktitle: "TocOptions"
 articleTitle: "TocOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.TocOptions class. Represents options for add table of contents to document by plugin."
+description: "Aspose.Pdf.LowCode.TocOptions class. Represents options for add table of contents to document by TocGenerator plugin."
 type: docs
 weight: 1050
 url: "/net/aspose.pdf.lowcode/tocoptions/"
@@ -22,7 +22,7 @@ public sealed class TocOptions : PdfGeneratorOptions
 
 | Name | Description |
 | --- | --- |
-| [TocOptions](./tocoptions/#constructor) | Initializes a new instance of the TocOptions class. |
+| [TocOptions](./tocoptions/#constructor) | The default constructor. |
 
 ## Properties
 

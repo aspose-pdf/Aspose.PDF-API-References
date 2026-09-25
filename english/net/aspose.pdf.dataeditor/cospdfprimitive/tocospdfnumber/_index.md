@@ -3,9 +3,9 @@ title: "CosPdfPrimitive.ToCosPdfNumber"
 linktitle: "ToCosPdfNumber"
 articleTitle: "ToCosPdfNumber"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CosPdfPrimitive method. Tries cast this instance to ."
+description: "CosPdfPrimitive method. Tries cast this instance to CosPdfNumber."
 type: docs
-weight: 20
+weight: 10
 url: "/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/"
 product_version: "26.9.0"
 ---

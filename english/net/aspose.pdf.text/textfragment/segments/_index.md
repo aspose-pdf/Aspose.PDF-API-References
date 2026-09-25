@@ -3,7 +3,7 @@ title: "TextFragment.Segments"
 linktitle: "Segments"
 articleTitle: "Segments"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextFragment property. Gets text segments for current ."
+description: "TextFragment property. Gets text segments for current TextFragment."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.text/textfragment/segments/"

@@ -3,7 +3,7 @@ title: "Table.ImportDataView"
 linktitle: "ImportDataView"
 articleTitle: "ImportDataView"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Table method. Imports a object's data into the table."
+description: "Table method. Imports a DataView object's data into the table."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/table/importdataview/"

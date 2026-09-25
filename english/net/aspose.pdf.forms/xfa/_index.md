@@ -26,7 +26,7 @@ public sealed class XFA
 | [Datasets](./datasets/) { get; } | XFA Datasets component of an XFA form. |
 | [FieldNames](./fieldnames/) { get; } | List of field names in the form template. |
 | [Form](./form/) { get; } | XFA Form Component of an XFA form. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets of sets data node value according *path*. |
 | [NamespaceManager](./namespacemanager/) { get; } | Gets the namespace for the XFA form. The following namepsaces are defined: "data" for form data and "tpl" for form template. |
 | [Template](./template/) { get; } | XFA Template component of an XFA form. |
 | [XDP](./xdp/) { get; } | XML Data Package (all XFA form components within a surrounding XML container). |

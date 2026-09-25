@@ -3,7 +3,7 @@ title: "ILSTextElement.StructureTextState"
 linktitle: "StructureTextState"
 articleTitle: "StructureTextState"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ILSTextElement property. Gets object for current element."
+description: "ILSTextElement property. Gets StructureTextState object for current element."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/ilstextelement/structuretextstate/"

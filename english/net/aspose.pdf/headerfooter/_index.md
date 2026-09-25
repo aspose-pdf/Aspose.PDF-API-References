@@ -22,7 +22,7 @@ public sealed class HeaderFooter : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [HeaderFooter](./headerfooter/#constructor) | Initializes a new instance of the HeaderFooter class. |
+| [HeaderFooter](./headerfooter/#constructor) | The default constructor. |
 
 ## Properties
 

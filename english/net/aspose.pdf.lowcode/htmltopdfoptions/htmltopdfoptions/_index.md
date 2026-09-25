@@ -3,7 +3,7 @@ title: "HtmlToPdfOptions.HtmlToPdfOptions"
 linktitle: "HtmlToPdfOptions"
 articleTitle: "HtmlToPdfOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "HtmlToPdfOptions constructor. Initializes a new instance of the HtmlToPdfOptions class."
+description: "HtmlToPdfOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/htmltopdfoptions/htmltopdfoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## HtmlToPdfOptions() {#constructor}
 
-Initializes a new instance of the HtmlToPdfOptions class.
+The default constructor.
 
 ```csharp
 public HtmlToPdfOptions()

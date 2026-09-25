@@ -3,7 +3,7 @@ title: "PdfASymbolicFontEncodingStrategy.PdfASymbolicFontEncodingStrategy"
 linktitle: "PdfASymbolicFontEncodingStrategy"
 articleTitle: "PdfASymbolicFontEncodingStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfASymbolicFontEncodingStrategy constructor. Initializes a new instance of the PdfASymbolicFontEncodingStrategy class."
+description: "PdfASymbolicFontEncodingStrategy constructor. Constructor. Sets default subtable (mac 1,0)"
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy/pdfasymbolicfontencodingstrategy/"

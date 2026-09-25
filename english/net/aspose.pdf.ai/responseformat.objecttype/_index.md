@@ -22,7 +22,7 @@ public class ObjectType
 
 | Name | Description |
 | --- | --- |
-| [ResponseFormat.ObjectType](./objecttype/#constructor) | Initializes a new instance of the ResponseFormat.ObjectType class. |
+| [ResponseFormat.ObjectType](./objecttype/#constructor) | The default constructor. |
 
 ## Properties
 

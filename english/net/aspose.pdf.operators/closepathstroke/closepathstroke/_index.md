@@ -3,7 +3,7 @@ title: "ClosePathStroke.ClosePathStroke"
 linktitle: "ClosePathStroke"
 articleTitle: "ClosePathStroke"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ClosePathStroke constructor. Initializes a new instance of the ClosePathStroke class."
+description: "ClosePathStroke constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/closepathstroke/closepathstroke/"

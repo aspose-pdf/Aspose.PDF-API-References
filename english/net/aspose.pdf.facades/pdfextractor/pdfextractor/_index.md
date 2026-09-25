@@ -3,7 +3,7 @@ title: "PdfExtractor.PdfExtractor"
 linktitle: "PdfExtractor"
 articleTitle: "PdfExtractor"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfExtractor constructor. Initializes a new instance of the PdfExtractor class."
+description: "PdfExtractor constructor. Initializes new PdfExtractor object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfextractor/pdfextractor/"
@@ -27,7 +27,7 @@ public PdfExtractor()
 
 ## PdfExtractor([Document](../../../aspose.pdf/document/)) {#constructor_1}
 
-Initializes new [`PdfExtractor`](../../../aspose.pdf.lowcode/pdfextractor/) object on base of the .
+Initializes new [`PdfExtractor`](../../../aspose.pdf.lowcode/pdfextractor/) object on base of the *document*.
 
 ```csharp
 public PdfExtractor(Document document)

@@ -3,7 +3,7 @@ title: "Aspose.Pdf.LowCode"
 linktitle: "Aspose.Pdf.LowCode"
 articleTitle: "Aspose.Pdf.LowCode"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The **Aspose.Pdf.LowCode** namespace provides classes."
+description: "The Aspose.Pdf.LowCode namespace provides classes."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/"

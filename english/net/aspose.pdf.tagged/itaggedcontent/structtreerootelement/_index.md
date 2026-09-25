@@ -3,7 +3,7 @@ title: "ITaggedContent.StructTreeRootElement"
 linktitle: "StructTreeRootElement"
 articleTitle: "StructTreeRootElement"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ITaggedContent property. Gets of PDF document."
+description: "ITaggedContent property. Gets StructTreeRootElement of PDF document."
 type: docs
 weight: 440
 url: "/net/aspose.pdf.tagged/itaggedcontent/structtreerootelement/"

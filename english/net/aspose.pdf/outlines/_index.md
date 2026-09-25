@@ -18,12 +18,6 @@ Class describes collection of outlines.
 public abstract class Outlines : IEnumerable
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [Outlines](./outlines/#constructor) | Initializes a new instance of the Outlines class. |
-
 ## Properties
 
 | Name | Description |

@@ -22,7 +22,7 @@ public class FileSearch
 
 | Name | Description |
 | --- | --- |
-| [FileSearch](./filesearch/#constructor) | Initializes a new instance of the FileSearch class. |
+| [FileSearch](./filesearch/#constructor) | The default constructor. |
 
 ## Properties
 

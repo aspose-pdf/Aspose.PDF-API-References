@@ -3,7 +3,7 @@ title: "PdfToDocOptions.PdfToDocOptions"
 linktitle: "PdfToDocOptions"
 articleTitle: "PdfToDocOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfToDocOptions constructor. Initializes a new instance of the PdfToDocOptions class."
+description: "PdfToDocOptions constructor. Initializes new instance of the PdfToDocOptions object with default options."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/pdftodocoptions/pdftodocoptions/"

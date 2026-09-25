@@ -5,7 +5,7 @@ articleTitle: "Position"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "CornerPrinterMarkAnnotation property. Get or sets the position of the mark on the page."
 type: docs
-weight: 70
+weight: 10
 url: "/net/aspose.pdf.annotations/cornerprintermarkannotation/position/"
 product_version: "26.9.0"
 ---

@@ -3,7 +3,7 @@ title: "SubmitToolOutputs.SubmitToolOutputs"
 linktitle: "SubmitToolOutputs"
 articleTitle: "SubmitToolOutputs"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SubmitToolOutputs constructor. Initializes a new instance of the SubmitToolOutputs class."
+description: "SubmitToolOutputs constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/submittooloutputs/submittooloutputs/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## SubmitToolOutputs() {#constructor}
 
-Initializes a new instance of the SubmitToolOutputs class.
+The default constructor.
 
 ```csharp
 public SubmitToolOutputs()

@@ -22,7 +22,7 @@ public sealed class TocGenerator : IPlugin, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [TocGenerator](./tocgenerator/#constructor) | Initializes a new instance of the TocGenerator class. |
+| [TocGenerator](./tocgenerator/#constructor) | The default constructor. |
 
 ## Methods
 

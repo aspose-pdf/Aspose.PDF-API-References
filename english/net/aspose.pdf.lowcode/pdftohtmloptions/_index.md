@@ -3,7 +3,7 @@ title: "PdfToHtmlOptions Class"
 linktitle: "PdfToHtmlOptions"
 articleTitle: "PdfToHtmlOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.PdfToHtmlOptions class. Represents PDF to HTML converter options for plugin."
+description: "Aspose.Pdf.LowCode.PdfToHtmlOptions class. Represents PDF to HTML converter options for Html plugin."
 type: docs
 weight: 690
 url: "/net/aspose.pdf.lowcode/pdftohtmloptions/"

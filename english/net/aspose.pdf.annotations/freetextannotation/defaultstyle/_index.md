@@ -5,7 +5,7 @@ articleTitle: "DefaultStyle"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FreeTextAnnotation property. Gets or sets a default style string."
 type: docs
-weight: 140
+weight: 120
 url: "/net/aspose.pdf.annotations/freetextannotation/defaultstyle/"
 product_version: "26.9.0"
 ---

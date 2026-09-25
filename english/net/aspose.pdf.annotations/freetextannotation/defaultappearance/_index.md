@@ -5,7 +5,7 @@ articleTitle: "DefaultAppearance"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FreeTextAnnotation property. Gets or sets the default appearance string to be used in formatting the text."
 type: docs
-weight: 110
+weight: 90
 url: "/net/aspose.pdf.annotations/freetextannotation/defaultappearance/"
 product_version: "26.9.0"
 ---

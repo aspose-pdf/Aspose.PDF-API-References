@@ -5,7 +5,7 @@ articleTitle: "LeftMargin"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Stamp property. Gets or sets left margin of stamp."
 type: docs
-weight: 180
+weight: 130
 url: "/net/aspose.pdf/stamp/leftmargin/"
 product_version: "26.9.0"
 ---

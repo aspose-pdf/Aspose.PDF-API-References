@@ -3,7 +3,7 @@ title: "HiddenDataSanitizationOptions.All"
 linktitle: "All"
 articleTitle: "All"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "HiddenDataSanitizationOptions method. Creates a new instance of the class with all options set for sanitization. This includes enabling the removal of annota..."
+description: "HiddenDataSanitizationOptions method. Creates a new instance of the HiddenDataSanitizationOptions class with all options set for sanitization. This includes ..."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/all/"

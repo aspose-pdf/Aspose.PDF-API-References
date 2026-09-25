@@ -3,9 +3,9 @@ title: "GraphicElement.Parent"
 linktitle: "Parent"
 articleTitle: "Parent"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "GraphicElement property. Gets the current in which the element is located."
+description: "GraphicElement property. Gets the current XFormPlacement in which the element is located."
 type: docs
-weight: 140
+weight: 100
 url: "/net/aspose.pdf.vector/graphicelement/parent/"
 product_version: "26.9.0"
 ---

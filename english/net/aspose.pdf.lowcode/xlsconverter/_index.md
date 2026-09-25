@@ -3,7 +3,7 @@ title: "XlsConverter Class"
 linktitle: "XlsConverter"
 articleTitle: "XlsConverter"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.XlsConverter class. Represents plugin."
+description: "Aspose.Pdf.LowCode.XlsConverter class. Represents XlsConverter plugin."
 type: docs
 weight: 1060
 url: "/net/aspose.pdf.lowcode/xlsconverter/"
@@ -22,7 +22,7 @@ public sealed class XlsConverter : IPlugin, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [XlsConverter](./xlsconverter/#constructor) | Initializes a new instance of the XlsConverter class. |
+| [XlsConverter](./xlsconverter/#constructor) | The default constructor. |
 
 ## Methods
 

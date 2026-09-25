@@ -3,7 +3,7 @@ title: "Aspose.Pdf.Security"
 linktitle: "Aspose.Pdf.Security"
 articleTitle: "Aspose.Pdf.Security"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The **Aspose.Pdf.Security** namespace provides classes."
+description: "The Aspose.Pdf.Security namespace provides classes."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/"

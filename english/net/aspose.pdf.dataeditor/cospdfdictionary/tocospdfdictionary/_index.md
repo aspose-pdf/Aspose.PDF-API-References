@@ -3,7 +3,7 @@ title: "CosPdfDictionary.ToCosPdfDictionary"
 linktitle: "ToCosPdfDictionary"
 articleTitle: "ToCosPdfDictionary"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CosPdfDictionary method. Tries cast this instance to ."
+description: "CosPdfDictionary method. Tries cast this instance to CosPdfDictionary."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/tocospdfdictionary/"

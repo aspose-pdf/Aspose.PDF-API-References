@@ -3,7 +3,7 @@ title: "DocumentComparisonStatistics.DocumentComparisonStatistics"
 linktitle: "DocumentComparisonStatistics"
 articleTitle: "DocumentComparisonStatistics"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "DocumentComparisonStatistics constructor. Initializes a new instance of the DocumentComparisonStatistics class."
+description: "DocumentComparisonStatistics constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/documentcomparisonstatistics/documentcomparisonstatistics/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## DocumentComparisonStatistics() {#constructor}
 
-Initializes a new instance of the DocumentComparisonStatistics class.
+The default constructor.
 
 ```csharp
 public DocumentComparisonStatistics()

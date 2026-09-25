@@ -22,7 +22,7 @@ public class VectorStoreFileListQueryParameters : BaseListQueryParameters, IQuer
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreFileListQueryParameters](./vectorstorefilelistqueryparameters/#constructor) | Initializes a new instance of the VectorStoreFileListQueryParameters class. |
+| [VectorStoreFileListQueryParameters](./vectorstorefilelistqueryparameters/#constructor) | The default constructor. |
 
 ## Properties
 

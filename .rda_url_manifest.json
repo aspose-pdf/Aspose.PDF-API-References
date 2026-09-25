@@ -185,27 +185,13 @@
     },
     "/net/aspose.pdf.ai/aiclientbase/": {
       "children": [
-        "aiclientbase",
-        "assertdisposed",
         "backoffdelayseconds",
         "dispose",
-        "disposed",
-        "handlerequestasync",
-        "httpclient",
         "httprequestmaxretries",
-        "pollforcompletionasync",
         "pollingintervalseconds",
         "pollingtimeoutseconds"
       ],
       "title": "AIClientBase Class"
-    },
-    "/net/aspose.pdf.ai/aiclientbase/aiclientbase/": {
-      "children": [],
-      "title": "AIClientBase.AIClientBase"
-    },
-    "/net/aspose.pdf.ai/aiclientbase/assertdisposed/": {
-      "children": [],
-      "title": "AIClientBase.AssertDisposed"
     },
     "/net/aspose.pdf.ai/aiclientbase/backoffdelayseconds/": {
       "children": [],
@@ -215,25 +201,9 @@
       "children": [],
       "title": "AIClientBase.Dispose"
     },
-    "/net/aspose.pdf.ai/aiclientbase/disposed/": {
-      "children": [],
-      "title": "AIClientBase.Disposed"
-    },
-    "/net/aspose.pdf.ai/aiclientbase/handlerequestasync/": {
-      "children": [],
-      "title": "AIClientBase.HandleRequestAsync"
-    },
-    "/net/aspose.pdf.ai/aiclientbase/httpclient/": {
-      "children": [],
-      "title": "AIClientBase.HttpClient"
-    },
     "/net/aspose.pdf.ai/aiclientbase/httprequestmaxretries/": {
       "children": [],
       "title": "AIClientBase.HttpRequestMaxRetries"
-    },
-    "/net/aspose.pdf.ai/aiclientbase/pollforcompletionasync/": {
-      "children": [],
-      "title": "AIClientBase.PollForCompletionAsync"
     },
     "/net/aspose.pdf.ai/aiclientbase/pollingintervalseconds/": {
       "children": [],
@@ -545,7 +515,6 @@
     },
     "/net/aspose.pdf.ai/baseresponse/": {
       "children": [
-        "baseresponse",
         "detail",
         "error",
         "errormessage",
@@ -555,10 +524,6 @@
         "reasonphrase"
       ],
       "title": "BaseResponse Class"
-    },
-    "/net/aspose.pdf.ai/baseresponse/baseresponse/": {
-      "children": [],
-      "title": "BaseResponse.BaseResponse"
     },
     "/net/aspose.pdf.ai/baseresponse/detail/": {
       "children": [],
@@ -2304,7 +2269,6 @@
     "/net/aspose.pdf.ai/llamacopilotoptionsbase/": {
       "children": [
         "documentcollection",
-        "llamacopilotoptionsbase",
         "maxcompletiontokens",
         "model",
         "systeminstructions",
@@ -2316,10 +2280,6 @@
     "/net/aspose.pdf.ai/llamacopilotoptionsbase/documentcollection/": {
       "children": [],
       "title": "LlamaCopilotOptionsBase.DocumentCollection"
-    },
-    "/net/aspose.pdf.ai/llamacopilotoptionsbase/llamacopilotoptionsbase/": {
-      "children": [],
-      "title": "LlamaCopilotOptionsBase.LlamaCopilotOptionsBase"
     },
     "/net/aspose.pdf.ai/llamacopilotoptionsbase/maxcompletiontokens/": {
       "children": [],
@@ -2475,7 +2435,6 @@
       "children": [
         "imagefile",
         "imageurl",
-        "messagecontentbase",
         "messagecontenttype"
       ],
       "title": "MessageContentBase Class"
@@ -2487,10 +2446,6 @@
     "/net/aspose.pdf.ai/messagecontentbase/imageurl/": {
       "children": [],
       "title": "MessageContentBase.ImageUrl"
-    },
-    "/net/aspose.pdf.ai/messagecontentbase/messagecontentbase/": {
-      "children": [],
-      "title": "MessageContentBase.MessageContentBase"
     },
     "/net/aspose.pdf.ai/messagecontentbase/messagecontenttype/": {
       "children": [],
@@ -2600,7 +2555,6 @@
       "children": [
         "documentcollection",
         "maxcompletiontokens",
-        "openaiassistantcopilotoptionsbase",
         "systeminstructions",
         "temperature",
         "topp"
@@ -2614,10 +2568,6 @@
     "/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxcompletiontokens/": {
       "children": [],
       "title": "OpenAIAssistantCopilotOptionsBase.MaxCompletionTokens"
-    },
-    "/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/openaiassistantcopilotoptionsbase/": {
-      "children": [],
-      "title": "OpenAIAssistantCopilotOptionsBase.OpenAIAssistantCopilotOptionsBase"
     },
     "/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/systeminstructions/": {
       "children": [],
@@ -3108,18 +3058,13 @@
     },
     "/net/aspose.pdf.ai/openaicopilotoptionsbase/": {
       "children": [
-        "model",
-        "openaicopilotoptionsbase"
+        "model"
       ],
       "title": "OpenAICopilotOptionsBase Class"
     },
     "/net/aspose.pdf.ai/openaicopilotoptionsbase/model/": {
       "children": [],
       "title": "OpenAICopilotOptionsBase.Model"
-    },
-    "/net/aspose.pdf.ai/openaicopilotoptionsbase/openaicopilotoptionsbase/": {
-      "children": [],
-      "title": "OpenAICopilotOptionsBase.OpenAICopilotOptionsBase"
     },
     "/net/aspose.pdf.ai/openaiimagedescriptioncopilot/": {
       "children": [
@@ -5150,12 +5095,10 @@
     },
     "/net/aspose.pdf.annotations/annotation/": {
       "children": [
-        "_states",
         "accept",
         "actions",
         "activestate",
         "alignment",
-        "annotation",
         "annotationtype",
         "appearance",
         "border",
@@ -5163,40 +5106,23 @@
         "characteristics",
         "color",
         "contents",
-        "createextgstatewithopacity",
-        "defaultfontkey",
-        "defaultfontname",
-        "defaultfontsize",
         "flags",
         "flatten",
         "fullname",
         "getrectangle",
         "height",
         "horizontalalignment",
-        "initialize",
-        "innerrect",
         "modified",
         "name",
-        "normalappearance",
         "pageindex",
-        "readxfdfattributes",
-        "readxfdfelements",
         "rect",
-        "rotatedrect",
         "states",
         "texthorizontalalignment",
-        "toimage",
         "updateappearanceonconvert",
         "usefontsubset",
-        "width",
-        "writexfdfattributes",
-        "writexfdfelements"
+        "width"
       ],
       "title": "Annotation Class"
-    },
-    "/net/aspose.pdf.annotations/annotation/_states/": {
-      "children": [],
-      "title": "Annotation._states"
     },
     "/net/aspose.pdf.annotations/annotation/accept/": {
       "children": [],
@@ -5213,10 +5139,6 @@
     "/net/aspose.pdf.annotations/annotation/alignment/": {
       "children": [],
       "title": "Annotation.Alignment"
-    },
-    "/net/aspose.pdf.annotations/annotation/annotation/": {
-      "children": [],
-      "title": "Annotation.Annotation"
     },
     "/net/aspose.pdf.annotations/annotation/annotationtype/": {
       "children": [],
@@ -5246,22 +5168,6 @@
       "children": [],
       "title": "Annotation.Contents"
     },
-    "/net/aspose.pdf.annotations/annotation/createextgstatewithopacity/": {
-      "children": [],
-      "title": "Annotation.CreateExtGStateWithOpacity"
-    },
-    "/net/aspose.pdf.annotations/annotation/defaultfontkey/": {
-      "children": [],
-      "title": "Annotation.DefaultFontKey"
-    },
-    "/net/aspose.pdf.annotations/annotation/defaultfontname/": {
-      "children": [],
-      "title": "Annotation.DefaultFontName"
-    },
-    "/net/aspose.pdf.annotations/annotation/defaultfontsize/": {
-      "children": [],
-      "title": "Annotation.DefaultFontSize"
-    },
     "/net/aspose.pdf.annotations/annotation/flags/": {
       "children": [],
       "title": "Annotation.Flags"
@@ -5286,14 +5192,6 @@
       "children": [],
       "title": "Annotation.HorizontalAlignment"
     },
-    "/net/aspose.pdf.annotations/annotation/initialize/": {
-      "children": [],
-      "title": "Annotation.Initialize"
-    },
-    "/net/aspose.pdf.annotations/annotation/innerrect/": {
-      "children": [],
-      "title": "Annotation.InnerRect"
-    },
     "/net/aspose.pdf.annotations/annotation/modified/": {
       "children": [],
       "title": "Annotation.Modified"
@@ -5302,29 +5200,13 @@
       "children": [],
       "title": "Annotation.Name"
     },
-    "/net/aspose.pdf.annotations/annotation/normalappearance/": {
-      "children": [],
-      "title": "Annotation.NormalAppearance"
-    },
     "/net/aspose.pdf.annotations/annotation/pageindex/": {
       "children": [],
       "title": "Annotation.PageIndex"
     },
-    "/net/aspose.pdf.annotations/annotation/readxfdfattributes/": {
-      "children": [],
-      "title": "Annotation.ReadXfdfAttributes"
-    },
-    "/net/aspose.pdf.annotations/annotation/readxfdfelements/": {
-      "children": [],
-      "title": "Annotation.ReadXfdfElements"
-    },
     "/net/aspose.pdf.annotations/annotation/rect/": {
       "children": [],
       "title": "Annotation.Rect"
-    },
-    "/net/aspose.pdf.annotations/annotation/rotatedrect/": {
-      "children": [],
-      "title": "Annotation.RotatedRect"
     },
     "/net/aspose.pdf.annotations/annotation/states/": {
       "children": [],
@@ -5333,10 +5215,6 @@
     "/net/aspose.pdf.annotations/annotation/texthorizontalalignment/": {
       "children": [],
       "title": "Annotation.TextHorizontalAlignment"
-    },
-    "/net/aspose.pdf.annotations/annotation/toimage/": {
-      "children": [],
-      "title": "Annotation.ToImage"
     },
     "/net/aspose.pdf.annotations/annotation/updateappearanceonconvert/": {
       "children": [],
@@ -5349,14 +5227,6 @@
     "/net/aspose.pdf.annotations/annotation/width/": {
       "children": [],
       "title": "Annotation.Width"
-    },
-    "/net/aspose.pdf.annotations/annotation/writexfdfattributes/": {
-      "children": [],
-      "title": "Annotation.WriteXfdfAttributes"
-    },
-    "/net/aspose.pdf.annotations/annotation/writexfdfelements/": {
-      "children": [],
-      "title": "Annotation.WriteXfdfElements"
     },
     "/net/aspose.pdf.annotations/annotationactioncollection/": {
       "children": [
@@ -5633,12 +5503,7 @@
       "children": [
         "accept",
         "annotationtype",
-        "bleedmarkannotation",
-        "defaultmarksize",
-        "designatedpagebox",
-        "isoutsideofpagebox",
-        "marklinelength",
-        "markoffset"
+        "bleedmarkannotation"
       ],
       "title": "BleedMarkAnnotation Class"
     },
@@ -5653,26 +5518,6 @@
     "/net/aspose.pdf.annotations/bleedmarkannotation/bleedmarkannotation/": {
       "children": [],
       "title": "BleedMarkAnnotation.BleedMarkAnnotation"
-    },
-    "/net/aspose.pdf.annotations/bleedmarkannotation/defaultmarksize/": {
-      "children": [],
-      "title": "BleedMarkAnnotation.DefaultMarkSize"
-    },
-    "/net/aspose.pdf.annotations/bleedmarkannotation/designatedpagebox/": {
-      "children": [],
-      "title": "BleedMarkAnnotation.DesignatedPageBox"
-    },
-    "/net/aspose.pdf.annotations/bleedmarkannotation/isoutsideofpagebox/": {
-      "children": [],
-      "title": "BleedMarkAnnotation.IsOutsideOfPageBox"
-    },
-    "/net/aspose.pdf.annotations/bleedmarkannotation/marklinelength/": {
-      "children": [],
-      "title": "BleedMarkAnnotation.MarkLineLength"
-    },
-    "/net/aspose.pdf.annotations/bleedmarkannotation/markoffset/": {
-      "children": [],
-      "title": "BleedMarkAnnotation.MarkOffset"
     },
     "/net/aspose.pdf.annotations/border/": {
       "children": [
@@ -5815,8 +5660,7 @@
         "annotationtype",
         "changeafterresize",
         "colorbarannotation",
-        "colorofcmyk",
-        "moveoutsideofpagebox"
+        "colorofcmyk"
       ],
       "title": "ColorBarAnnotation Class"
     },
@@ -5840,10 +5684,6 @@
       "children": [],
       "title": "ColorBarAnnotation.ColorOfCMYK"
     },
-    "/net/aspose.pdf.annotations/colorbarannotation/moveoutsideofpagebox/": {
-      "children": [],
-      "title": "ColorBarAnnotation.MoveOutsideOfPageBox"
-    },
     "/net/aspose.pdf.annotations/colorsofcmyk/": {
       "children": [],
       "title": "ColorsOfCMYK Enum"
@@ -5852,9 +5692,7 @@
       "children": [
         "commonfigureannotation",
         "frame",
-        "interiorcolor",
-        "readxfdfattributes",
-        "writexfdfattributes"
+        "interiorcolor"
       ],
       "title": "CommonFigureAnnotation Class"
     },
@@ -5870,49 +5708,11 @@
       "children": [],
       "title": "CommonFigureAnnotation.InteriorColor"
     },
-    "/net/aspose.pdf.annotations/commonfigureannotation/readxfdfattributes/": {
-      "children": [],
-      "title": "CommonFigureAnnotation.ReadXfdfAttributes"
-    },
-    "/net/aspose.pdf.annotations/commonfigureannotation/writexfdfattributes/": {
-      "children": [],
-      "title": "CommonFigureAnnotation.WriteXfdfAttributes"
-    },
     "/net/aspose.pdf.annotations/cornerprintermarkannotation/": {
       "children": [
-        "cornerprintermarkannotation",
-        "defaultmarksize",
-        "designatedpagebox",
-        "marklinelength",
-        "markoffset",
-        "moveoutsideofpagebox",
         "position"
       ],
       "title": "CornerPrinterMarkAnnotation Class"
-    },
-    "/net/aspose.pdf.annotations/cornerprintermarkannotation/cornerprintermarkannotation/": {
-      "children": [],
-      "title": "CornerPrinterMarkAnnotation.CornerPrinterMarkAnnotation"
-    },
-    "/net/aspose.pdf.annotations/cornerprintermarkannotation/defaultmarksize/": {
-      "children": [],
-      "title": "CornerPrinterMarkAnnotation.DefaultMarkSize"
-    },
-    "/net/aspose.pdf.annotations/cornerprintermarkannotation/designatedpagebox/": {
-      "children": [],
-      "title": "CornerPrinterMarkAnnotation.DesignatedPageBox"
-    },
-    "/net/aspose.pdf.annotations/cornerprintermarkannotation/marklinelength/": {
-      "children": [],
-      "title": "CornerPrinterMarkAnnotation.MarkLineLength"
-    },
-    "/net/aspose.pdf.annotations/cornerprintermarkannotation/markoffset/": {
-      "children": [],
-      "title": "CornerPrinterMarkAnnotation.MarkOffset"
-    },
-    "/net/aspose.pdf.annotations/cornerprintermarkannotation/moveoutsideofpagebox/": {
-      "children": [],
-      "title": "CornerPrinterMarkAnnotation.MoveOutsideOfPageBox"
     },
     "/net/aspose.pdf.annotations/cornerprintermarkannotation/position/": {
       "children": [],
@@ -6031,8 +5831,6 @@
     "/net/aspose.pdf.annotations/explicitdestination/": {
       "children": [
         "createdestination",
-        "explicitdestination",
-        "getnumber",
         "page",
         "pagenumber",
         "tostring"
@@ -6042,14 +5840,6 @@
     "/net/aspose.pdf.annotations/explicitdestination/createdestination/": {
       "children": [],
       "title": "ExplicitDestination.CreateDestination"
-    },
-    "/net/aspose.pdf.annotations/explicitdestination/explicitdestination/": {
-      "children": [],
-      "title": "ExplicitDestination.ExplicitDestination"
-    },
-    "/net/aspose.pdf.annotations/explicitdestination/getnumber/": {
-      "children": [],
-      "title": "ExplicitDestination.GetNumber"
     },
     "/net/aspose.pdf.annotations/explicitdestination/page/": {
       "children": [],
@@ -6291,16 +6081,13 @@
         "defaultstyle",
         "endingstyle",
         "freetextannotation",
-        "innerrect",
         "intent",
         "justification",
-        "readxfdfattributes",
         "rotate",
         "settextstyle",
         "startingstyle",
         "textrectangle",
-        "textstyle",
-        "writexfdfattributes"
+        "textstyle"
       ],
       "title": "FreeTextAnnotation Class"
     },
@@ -6336,10 +6123,6 @@
       "children": [],
       "title": "FreeTextAnnotation.FreeTextAnnotation"
     },
-    "/net/aspose.pdf.annotations/freetextannotation/innerrect/": {
-      "children": [],
-      "title": "FreeTextAnnotation.InnerRect"
-    },
     "/net/aspose.pdf.annotations/freetextannotation/intent/": {
       "children": [],
       "title": "FreeTextAnnotation.Intent"
@@ -6347,10 +6130,6 @@
     "/net/aspose.pdf.annotations/freetextannotation/justification/": {
       "children": [],
       "title": "FreeTextAnnotation.Justification"
-    },
-    "/net/aspose.pdf.annotations/freetextannotation/readxfdfattributes/": {
-      "children": [],
-      "title": "FreeTextAnnotation.ReadXfdfAttributes"
     },
     "/net/aspose.pdf.annotations/freetextannotation/rotate/": {
       "children": [],
@@ -6371,10 +6150,6 @@
     "/net/aspose.pdf.annotations/freetextannotation/textstyle/": {
       "children": [],
       "title": "FreeTextAnnotation.TextStyle"
-    },
-    "/net/aspose.pdf.annotations/freetextannotation/writexfdfattributes/": {
-      "children": [],
-      "title": "FreeTextAnnotation.WriteXfdfAttributes"
     },
     "/net/aspose.pdf.annotations/freetextintent/": {
       "children": [],
@@ -6602,7 +6377,6 @@
         "leaderlineoffset",
         "lineannotation",
         "measure",
-        "readxfdfelements",
         "showcaption",
         "starting",
         "startingstyle"
@@ -6664,10 +6438,6 @@
     "/net/aspose.pdf.annotations/lineannotation/measure/": {
       "children": [],
       "title": "LineAnnotation.Measure"
-    },
-    "/net/aspose.pdf.annotations/lineannotation/readxfdfelements/": {
-      "children": [],
-      "title": "LineAnnotation.ReadXfdfElements"
     },
     "/net/aspose.pdf.annotations/lineannotation/showcaption/": {
       "children": [],
@@ -6734,16 +6504,12 @@
         "markupannotation",
         "opacity",
         "popup",
-        "readxfdfattributes",
-        "readxfdfelements",
         "replytype",
         "richtext",
         "setmarkedstate",
         "setreviewstate",
         "subject",
-        "title",
-        "writexfdfattributes",
-        "writexfdfelements"
+        "title"
       ],
       "title": "MarkupAnnotation Class"
     },
@@ -6779,14 +6545,6 @@
       "children": [],
       "title": "MarkupAnnotation.Popup"
     },
-    "/net/aspose.pdf.annotations/markupannotation/readxfdfattributes/": {
-      "children": [],
-      "title": "MarkupAnnotation.ReadXfdfAttributes"
-    },
-    "/net/aspose.pdf.annotations/markupannotation/readxfdfelements/": {
-      "children": [],
-      "title": "MarkupAnnotation.ReadXfdfElements"
-    },
     "/net/aspose.pdf.annotations/markupannotation/replytype/": {
       "children": [],
       "title": "MarkupAnnotation.ReplyType"
@@ -6810,14 +6568,6 @@
     "/net/aspose.pdf.annotations/markupannotation/title/": {
       "children": [],
       "title": "MarkupAnnotation.Title"
-    },
-    "/net/aspose.pdf.annotations/markupannotation/writexfdfattributes/": {
-      "children": [],
-      "title": "MarkupAnnotation.WriteXfdfAttributes"
-    },
-    "/net/aspose.pdf.annotations/markupannotation/writexfdfelements/": {
-      "children": [],
-      "title": "MarkupAnnotation.WriteXfdfElements"
     },
     "/net/aspose.pdf.annotations/measure.numberformat.fractionstyle/": {
       "children": [],
@@ -7085,7 +6835,6 @@
       "children": [
         "accept",
         "annotationtype",
-        "moveoutsideofpagebox",
         "pageinformationannotation"
       ],
       "title": "PageInformationAnnotation Class"
@@ -7097,10 +6846,6 @@
     "/net/aspose.pdf.annotations/pageinformationannotation/annotationtype/": {
       "children": [],
       "title": "PageInformationAnnotation.AnnotationType"
-    },
-    "/net/aspose.pdf.annotations/pageinformationannotation/moveoutsideofpagebox/": {
-      "children": [],
-      "title": "PageInformationAnnotation.MoveOutsideOfPageBox"
     },
     "/net/aspose.pdf.annotations/pageinformationannotation/pageinformationannotation/": {
       "children": [],
@@ -7653,9 +7398,7 @@
     "/net/aspose.pdf.annotations/pdfaction/": {
       "children": [
         "getecmascriptstring",
-        "isinitialized",
-        "next",
-        "pdfaction"
+        "next"
       ],
       "title": "PdfAction Class"
     },
@@ -7663,17 +7406,9 @@
       "children": [],
       "title": "PdfAction.GetECMAScriptString"
     },
-    "/net/aspose.pdf.annotations/pdfaction/isinitialized/": {
-      "children": [],
-      "title": "PdfAction.IsInitialized"
-    },
     "/net/aspose.pdf.annotations/pdfaction/next/": {
       "children": [],
       "title": "PdfAction.Next"
-    },
-    "/net/aspose.pdf.annotations/pdfaction/pdfaction/": {
-      "children": [],
-      "title": "PdfAction.PdfAction"
     },
     "/net/aspose.pdf.annotations/pdfactioncollection/": {
       "children": [
@@ -7712,13 +7447,8 @@
         "intent",
         "interiorcolor",
         "measure",
-        "polyannotation",
-        "readxfdfattributes",
-        "readxfdfelements",
         "startingstyle",
-        "vertices",
-        "writexfdfattributes",
-        "writexfdfelements"
+        "vertices"
       ],
       "title": "PolyAnnotation Class"
     },
@@ -7742,18 +7472,6 @@
       "children": [],
       "title": "PolyAnnotation.Measure"
     },
-    "/net/aspose.pdf.annotations/polyannotation/polyannotation/": {
-      "children": [],
-      "title": "PolyAnnotation.PolyAnnotation"
-    },
-    "/net/aspose.pdf.annotations/polyannotation/readxfdfattributes/": {
-      "children": [],
-      "title": "PolyAnnotation.ReadXfdfAttributes"
-    },
-    "/net/aspose.pdf.annotations/polyannotation/readxfdfelements/": {
-      "children": [],
-      "title": "PolyAnnotation.ReadXfdfElements"
-    },
     "/net/aspose.pdf.annotations/polyannotation/startingstyle/": {
       "children": [],
       "title": "PolyAnnotation.StartingStyle"
@@ -7761,14 +7479,6 @@
     "/net/aspose.pdf.annotations/polyannotation/vertices/": {
       "children": [],
       "title": "PolyAnnotation.Vertices"
-    },
-    "/net/aspose.pdf.annotations/polyannotation/writexfdfattributes/": {
-      "children": [],
-      "title": "PolyAnnotation.WriteXfdfAttributes"
-    },
-    "/net/aspose.pdf.annotations/polyannotation/writexfdfelements/": {
-      "children": [],
-      "title": "PolyAnnotation.WriteXfdfElements"
     },
     "/net/aspose.pdf.annotations/polygonannotation/": {
       "children": [
@@ -7850,28 +7560,13 @@
     },
     "/net/aspose.pdf.annotations/printermarkannotation/": {
       "children": [
-        "addprintermarks",
-        "isoutsideofpagebox",
-        "moveoutsideofpagebox",
-        "printermarkannotation"
+        "addprintermarks"
       ],
       "title": "PrinterMarkAnnotation Class"
     },
     "/net/aspose.pdf.annotations/printermarkannotation/addprintermarks/": {
       "children": [],
       "title": "PrinterMarkAnnotation.AddPrinterMarks"
-    },
-    "/net/aspose.pdf.annotations/printermarkannotation/isoutsideofpagebox/": {
-      "children": [],
-      "title": "PrinterMarkAnnotation.IsOutsideOfPageBox"
-    },
-    "/net/aspose.pdf.annotations/printermarkannotation/moveoutsideofpagebox/": {
-      "children": [],
-      "title": "PrinterMarkAnnotation.MoveOutsideOfPageBox"
-    },
-    "/net/aspose.pdf.annotations/printermarkannotation/printermarkannotation/": {
-      "children": [],
-      "title": "PrinterMarkAnnotation.PrinterMarkAnnotation"
     },
     "/net/aspose.pdf.annotations/printermarkcornerposition/": {
       "children": [],
@@ -7906,12 +7601,10 @@
         "fontsize",
         "overlaytext",
         "quadpoint",
-        "readxfdfattributes",
         "redact",
         "redactionannotation",
         "repeat",
-        "textalignment",
-        "writexfdfattributes"
+        "textalignment"
       ],
       "title": "RedactionAnnotation Class"
     },
@@ -7951,10 +7644,6 @@
       "children": [],
       "title": "RedactionAnnotation.QuadPoint"
     },
-    "/net/aspose.pdf.annotations/redactionannotation/readxfdfattributes/": {
-      "children": [],
-      "title": "RedactionAnnotation.ReadXfdfAttributes"
-    },
     "/net/aspose.pdf.annotations/redactionannotation/redact/": {
       "children": [],
       "title": "RedactionAnnotation.Redact"
@@ -7971,15 +7660,10 @@
       "children": [],
       "title": "RedactionAnnotation.TextAlignment"
     },
-    "/net/aspose.pdf.annotations/redactionannotation/writexfdfattributes/": {
-      "children": [],
-      "title": "RedactionAnnotation.WriteXfdfAttributes"
-    },
     "/net/aspose.pdf.annotations/registrationmarkannotation/": {
       "children": [
         "accept",
         "annotationtype",
-        "moveoutsideofpagebox",
         "position",
         "registrationmarkannotation"
       ],
@@ -7992,10 +7676,6 @@
     "/net/aspose.pdf.annotations/registrationmarkannotation/annotationtype/": {
       "children": [],
       "title": "RegistrationMarkAnnotation.AnnotationType"
-    },
-    "/net/aspose.pdf.annotations/registrationmarkannotation/moveoutsideofpagebox/": {
-      "children": [],
-      "title": "RegistrationMarkAnnotation.MoveOutsideOfPageBox"
     },
     "/net/aspose.pdf.annotations/registrationmarkannotation/position/": {
       "children": [],
@@ -8341,7 +8021,6 @@
         "annotationtype",
         "icon",
         "image",
-        "readxfdfattributes",
         "stampannotation"
       ],
       "title": "StampAnnotation Class"
@@ -8361,10 +8040,6 @@
     "/net/aspose.pdf.annotations/stampannotation/image/": {
       "children": [],
       "title": "StampAnnotation.Image"
-    },
-    "/net/aspose.pdf.annotations/stampannotation/readxfdfattributes/": {
-      "children": [],
-      "title": "StampAnnotation.ReadXfdfAttributes"
     },
     "/net/aspose.pdf.annotations/stampannotation/stampannotation/": {
       "children": [],
@@ -8527,10 +8202,7 @@
         "changeafterresize",
         "getmarkedtext",
         "getmarkedtextfragments",
-        "quadpoints",
-        "readxfdfattributes",
-        "textmarkupannotation",
-        "writexfdfattributes"
+        "quadpoints"
       ],
       "title": "TextMarkupAnnotation Class"
     },
@@ -8549,18 +8221,6 @@
     "/net/aspose.pdf.annotations/textmarkupannotation/quadpoints/": {
       "children": [],
       "title": "TextMarkupAnnotation.QuadPoints"
-    },
-    "/net/aspose.pdf.annotations/textmarkupannotation/readxfdfattributes/": {
-      "children": [],
-      "title": "TextMarkupAnnotation.ReadXfdfAttributes"
-    },
-    "/net/aspose.pdf.annotations/textmarkupannotation/textmarkupannotation/": {
-      "children": [],
-      "title": "TextMarkupAnnotation.TextMarkupAnnotation"
-    },
-    "/net/aspose.pdf.annotations/textmarkupannotation/writexfdfattributes/": {
-      "children": [],
-      "title": "TextMarkupAnnotation.WriteXfdfAttributes"
     },
     "/net/aspose.pdf.annotations/textstyle/": {
       "children": [
@@ -8601,10 +8261,6 @@
       "children": [
         "accept",
         "annotationtype",
-        "defaultmarksize",
-        "designatedpagebox",
-        "marklinelength",
-        "markoffset",
         "trimmarkannotation"
       ],
       "title": "TrimMarkAnnotation Class"
@@ -8616,22 +8272,6 @@
     "/net/aspose.pdf.annotations/trimmarkannotation/annotationtype/": {
       "children": [],
       "title": "TrimMarkAnnotation.AnnotationType"
-    },
-    "/net/aspose.pdf.annotations/trimmarkannotation/defaultmarksize/": {
-      "children": [],
-      "title": "TrimMarkAnnotation.DefaultMarkSize"
-    },
-    "/net/aspose.pdf.annotations/trimmarkannotation/designatedpagebox/": {
-      "children": [],
-      "title": "TrimMarkAnnotation.DesignatedPageBox"
-    },
-    "/net/aspose.pdf.annotations/trimmarkannotation/marklinelength/": {
-      "children": [],
-      "title": "TrimMarkAnnotation.MarkLineLength"
-    },
-    "/net/aspose.pdf.annotations/trimmarkannotation/markoffset/": {
-      "children": [],
-      "title": "TrimMarkAnnotation.MarkOffset"
     },
     "/net/aspose.pdf.annotations/trimmarkannotation/trimmarkannotation/": {
       "children": [],
@@ -8710,7 +8350,6 @@
         "defaultappearance",
         "exportable",
         "exporttojson",
-        "ff",
         "getcheckedstatename",
         "highlighting",
         "onactivated",
@@ -8744,10 +8383,6 @@
     "/net/aspose.pdf.annotations/widgetannotation/exporttojson/": {
       "children": [],
       "title": "WidgetAnnotation.ExportToJson"
-    },
-    "/net/aspose.pdf.annotations/widgetannotation/ff/": {
-      "children": [],
-      "title": "WidgetAnnotation.ff"
     },
     "/net/aspose.pdf.annotations/widgetannotation/getcheckedstatename/": {
       "children": [],
@@ -9632,7 +9267,6 @@
     },
     "/net/aspose.pdf.dataeditor/cospdfprimitive/": {
       "children": [
-        "cospdfprimitive",
         "tocospdfboolean",
         "tocospdfdictionary",
         "tocospdfname",
@@ -9640,10 +9274,6 @@
         "tocospdfstring"
       ],
       "title": "CosPdfPrimitive Class"
-    },
-    "/net/aspose.pdf.dataeditor/cospdfprimitive/cospdfprimitive/": {
-      "children": [],
-      "title": "CosPdfPrimitive.CosPdfPrimitive"
     },
     "/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/": {
       "children": [],
@@ -9869,19 +9499,8 @@
       "title": "CompressionType Enum"
     },
     "/net/aspose.pdf.devices/device/": {
-      "children": [
-        "device",
-        "document"
-      ],
+      "children": [],
       "title": "Device Class"
-    },
-    "/net/aspose.pdf.devices/device/device/": {
-      "children": [],
-      "title": "Device.Device"
-    },
-    "/net/aspose.pdf.devices/device/document/": {
-      "children": [],
-      "title": "Device.Document"
     },
     "/net/aspose.pdf.devices/dicomdevice/": {
       "children": [
@@ -9900,14 +9519,9 @@
     },
     "/net/aspose.pdf.devices/documentdevice/": {
       "children": [
-        "documentdevice",
         "process"
       ],
       "title": "DocumentDevice Class"
-    },
-    "/net/aspose.pdf.devices/documentdevice/documentdevice/": {
-      "children": [],
-      "title": "DocumentDevice.DocumentDevice"
     },
     "/net/aspose.pdf.devices/documentdevice/process/": {
       "children": [],
@@ -10039,14 +9653,9 @@
     },
     "/net/aspose.pdf.devices/pagedevice/": {
       "children": [
-        "pagedevice",
         "process"
       ],
       "title": "PageDevice Class"
-    },
-    "/net/aspose.pdf.devices/pagedevice/pagedevice/": {
-      "children": [],
-      "title": "PageDevice.PageDevice"
     },
     "/net/aspose.pdf.devices/pagedevice/process/": {
       "children": [],
@@ -10549,20 +10158,13 @@
       "title": "Path.Shapes"
     },
     "/net/aspose.pdf.drawing/patterncolorspace/": {
-      "children": [
-        "patterncolorspace"
-      ],
-      "title": "PatternColorSpace Class"
-    },
-    "/net/aspose.pdf.drawing/patterncolorspace/patterncolorspace/": {
       "children": [],
-      "title": "PatternColorSpace.PatternColorSpace"
+      "title": "PatternColorSpace Class"
     },
     "/net/aspose.pdf.drawing/rectangle/": {
       "children": [
         "bottom",
         "checkbounds",
-        "clipshading",
         "height",
         "left",
         "rectangle",
@@ -10578,10 +10180,6 @@
     "/net/aspose.pdf.drawing/rectangle/checkbounds/": {
       "children": [],
       "title": "Rectangle.CheckBounds"
-    },
-    "/net/aspose.pdf.drawing/rectangle/clipshading/": {
-      "children": [],
-      "title": "Rectangle.ClipShading"
     },
     "/net/aspose.pdf.drawing/rectangle/height/": {
       "children": [],
@@ -10606,9 +10204,7 @@
     "/net/aspose.pdf.drawing/shape/": {
       "children": [
         "checkbounds",
-        "clipshading",
         "graphinfo",
-        "shape",
         "text"
       ],
       "title": "Shape Class"
@@ -10617,17 +10213,9 @@
       "children": [],
       "title": "Shape.CheckBounds"
     },
-    "/net/aspose.pdf.drawing/shape/clipshading/": {
-      "children": [],
-      "title": "Shape.ClipShading"
-    },
     "/net/aspose.pdf.drawing/shape/graphinfo/": {
       "children": [],
       "title": "Shape.GraphInfo"
-    },
-    "/net/aspose.pdf.drawing/shape/shape/": {
-      "children": [],
-      "title": "Shape.Shape"
     },
     "/net/aspose.pdf.drawing/shape/text/": {
       "children": [],
@@ -11091,18 +10679,12 @@
     },
     "/net/aspose.pdf.facades/facade/": {
       "children": [
-        "assertdocument",
         "bindpdf",
         "close",
         "dispose",
-        "document",
-        "facade"
+        "document"
       ],
       "title": "Facade Class"
-    },
-    "/net/aspose.pdf.facades/facade/assertdocument/": {
-      "children": [],
-      "title": "Facade.AssertDocument"
     },
     "/net/aspose.pdf.facades/facade/bindpdf/": {
       "children": [],
@@ -11119,10 +10701,6 @@
     "/net/aspose.pdf.facades/facade/document/": {
       "children": [],
       "title": "Facade.Document"
-    },
-    "/net/aspose.pdf.facades/facade/facade/": {
-      "children": [],
-      "title": "Facade.Facade"
     },
     "/net/aspose.pdf.facades/fieldtype/": {
       "children": [],
@@ -11178,7 +10756,6 @@
     },
     "/net/aspose.pdf.facades/form/": {
       "children": [
-        "bindpdf",
         "close",
         "convertto",
         "destfilename",
@@ -11220,10 +10797,6 @@
         "srcstream"
       ],
       "title": "Form Class"
-    },
-    "/net/aspose.pdf.facades/form/bindpdf/": {
-      "children": [],
-      "title": "Form.BindPdf"
     },
     "/net/aspose.pdf.facades/form/close/": {
       "children": [],
@@ -13015,7 +12588,6 @@
     },
     "/net/aspose.pdf.facades/pdffileinfo/": {
       "children": [
-        "assertdocument",
         "author",
         "bindpdf",
         "clearinfo",
@@ -13053,10 +12625,6 @@
         "usestrictvalidation"
       ],
       "title": "PdfFileInfo Class"
-    },
-    "/net/aspose.pdf.facades/pdffileinfo/assertdocument/": {
-      "children": [],
-      "title": "PdfFileInfo.AssertDocument"
     },
     "/net/aspose.pdf.facades/pdffileinfo/author/": {
       "children": [],
@@ -13970,19 +13538,9 @@
     },
     "/net/aspose.pdf.facades/pdfproducer/": {
       "children": [
-        "options",
-        "pdfproducer",
         "produce"
       ],
       "title": "PdfProducer Class"
-    },
-    "/net/aspose.pdf.facades/pdfproducer/options/": {
-      "children": [],
-      "title": "PdfProducer.options"
-    },
-    "/net/aspose.pdf.facades/pdfproducer/pdfproducer/": {
-      "children": [],
-      "title": "PdfProducer.PdfProducer"
     },
     "/net/aspose.pdf.facades/pdfproducer/produce/": {
       "children": [],
@@ -14355,18 +13913,13 @@
     },
     "/net/aspose.pdf.facades/saveablefacade/": {
       "children": [
-        "save",
-        "saveablefacade"
+        "save"
       ],
       "title": "SaveableFacade Class"
     },
     "/net/aspose.pdf.facades/saveablefacade/save/": {
       "children": [],
       "title": "SaveableFacade.Save"
-    },
-    "/net/aspose.pdf.facades/saveablefacade/saveablefacade/": {
-      "children": [],
-      "title": "SaveableFacade.SaveableFacade"
     },
     "/net/aspose.pdf.facades/signaturename/": {
       "children": [
@@ -15030,8 +14583,7 @@
         "options",
         "selected",
         "selecteditems",
-        "value",
-        "valuenotselected"
+        "value"
       ],
       "title": "ChoiceField Class"
     },
@@ -15070,10 +14622,6 @@
     "/net/aspose.pdf.forms/choicefield/value/": {
       "children": [],
       "title": "ChoiceField.Value"
-    },
-    "/net/aspose.pdf.forms/choicefield/valuenotselected/": {
-      "children": [],
-      "title": "ChoiceField.ValueNotSelected"
     },
     "/net/aspose.pdf.forms/comboboxfield/": {
       "children": [
@@ -15170,10 +14718,8 @@
         "field",
         "fitintorectangle",
         "flatten",
-        "getconformxfavalue",
         "getenumerator",
         "importvaluefromjson",
-        "isequalto",
         "isgroup",
         "issharedfield",
         "issynchronized",
@@ -15228,10 +14774,6 @@
       "children": [],
       "title": "Field.Flatten"
     },
-    "/net/aspose.pdf.forms/field/getconformxfavalue/": {
-      "children": [],
-      "title": "Field.GetConformXFAValue"
-    },
     "/net/aspose.pdf.forms/field/getenumerator/": {
       "children": [],
       "title": "Field.GetEnumerator"
@@ -15239,10 +14781,6 @@
     "/net/aspose.pdf.forms/field/importvaluefromjson/": {
       "children": [],
       "title": "Field.ImportValueFromJson"
-    },
-    "/net/aspose.pdf.forms/field/isequalto/": {
-      "children": [],
-      "title": "Field.IsEqualTo"
     },
     "/net/aspose.pdf.forms/field/isgroup/": {
       "children": [],
@@ -15738,8 +15276,6 @@
       "children": [
         "add",
         "addoption",
-        "getconformxfavalue",
-        "isequalto",
         "notoggletooff",
         "options",
         "pageindex",
@@ -15758,14 +15294,6 @@
     "/net/aspose.pdf.forms/radiobuttonfield/addoption/": {
       "children": [],
       "title": "RadioButtonField.AddOption"
-    },
-    "/net/aspose.pdf.forms/radiobuttonfield/getconformxfavalue/": {
-      "children": [],
-      "title": "RadioButtonField.GetConformXFAValue"
-    },
-    "/net/aspose.pdf.forms/radiobuttonfield/isequalto/": {
-      "children": [],
-      "title": "RadioButtonField.IsEqualTo"
     },
     "/net/aspose.pdf.forms/radiobuttonfield/notoggletooff/": {
       "children": [],
@@ -15877,7 +15405,6 @@
         "customsignhash",
         "date",
         "defaultsignaturelength",
-        "finalize",
         "getsignaturealgorithminfo",
         "location",
         "ocspsettings",
@@ -15922,10 +15449,6 @@
     "/net/aspose.pdf.forms/signature/defaultsignaturelength/": {
       "children": [],
       "title": "Signature.DefaultSignatureLength"
-    },
-    "/net/aspose.pdf.forms/signature/finalize/": {
-      "children": [],
-      "title": "Signature.Finalize"
     },
     "/net/aspose.pdf.forms/signature/getsignaturealgorithminfo/": {
       "children": [],
@@ -18679,24 +18202,12 @@
       "title": "FormEditorAddOptions.FormEditorAddOptions"
     },
     "/net/aspose.pdf.lowcode/formeditoroptions/": {
-      "children": [
-        "formeditoroptions"
-      ],
+      "children": [],
       "title": "FormEditorOptions Class"
     },
-    "/net/aspose.pdf.lowcode/formeditoroptions/formeditoroptions/": {
-      "children": [],
-      "title": "FormEditorOptions.FormEditorOptions"
-    },
     "/net/aspose.pdf.lowcode/formeditorremoveoptions/": {
-      "children": [
-        "formeditorremoveoptions"
-      ],
-      "title": "FormEditorRemoveOptions Class"
-    },
-    "/net/aspose.pdf.lowcode/formeditorremoveoptions/formeditorremoveoptions/": {
       "children": [],
-      "title": "FormEditorRemoveOptions.FormEditorRemoveOptions"
+      "title": "FormEditorRemoveOptions Class"
     },
     "/net/aspose.pdf.lowcode/formeditorsetoptions/": {
       "children": [
@@ -18724,14 +18235,8 @@
       "title": "FormExporter.Process"
     },
     "/net/aspose.pdf.lowcode/formexporteroptions/": {
-      "children": [
-        "formexporteroptions"
-      ],
-      "title": "FormExporterOptions Class"
-    },
-    "/net/aspose.pdf.lowcode/formexporteroptions/formexporteroptions/": {
       "children": [],
-      "title": "FormExporterOptions.FormExporterOptions"
+      "title": "FormExporterOptions Class"
     },
     "/net/aspose.pdf.lowcode/formexportertojsonoptions/": {
       "children": [
@@ -18764,14 +18269,8 @@
       "title": "FormExporterValuesToCsvOptions.FormExporterValuesToCsvOptions"
     },
     "/net/aspose.pdf.lowcode/formfieldcreateoptions/": {
-      "children": [
-        "formfieldcreateoptions"
-      ],
-      "title": "FormFieldCreateOptions Class"
-    },
-    "/net/aspose.pdf.lowcode/formfieldcreateoptions/formfieldcreateoptions/": {
       "children": [],
-      "title": "FormFieldCreateOptions.FormFieldCreateOptions"
+      "title": "FormFieldCreateOptions Class"
     },
     "/net/aspose.pdf.lowcode/formfieldoptions/": {
       "children": [
@@ -18782,7 +18281,6 @@
         "exportable",
         "fitintorectangle",
         "flags",
-        "formfieldoptions",
         "highlighting",
         "issharedfield",
         "mappingname",
@@ -18826,10 +18324,6 @@
     "/net/aspose.pdf.lowcode/formfieldoptions/flags/": {
       "children": [],
       "title": "FormFieldOptions.Flags"
-    },
-    "/net/aspose.pdf.lowcode/formfieldoptions/formfieldoptions/": {
-      "children": [],
-      "title": "FormFieldOptions.FormFieldOptions"
     },
     "/net/aspose.pdf.lowcode/formfieldoptions/highlighting/": {
       "children": [],
@@ -18924,14 +18418,8 @@
       "title": "FormFlattener.Process"
     },
     "/net/aspose.pdf.lowcode/formflatteneroptions/": {
-      "children": [
-        "formflatteneroptions"
-      ],
-      "title": "FormFlattenerOptions Class"
-    },
-    "/net/aspose.pdf.lowcode/formflatteneroptions/formflatteneroptions/": {
       "children": [],
-      "title": "FormFlattenerOptions.FormFlattenerOptions"
+      "title": "FormFlattenerOptions Class"
     },
     "/net/aspose.pdf.lowcode/formflattenselectedfieldsoptions/": {
       "children": [
@@ -19012,7 +18500,6 @@
       "children": [
         "addinput",
         "addoutput",
-        "formoptions",
         "inputs",
         "outputs"
       ],
@@ -19025,10 +18512,6 @@
     "/net/aspose.pdf.lowcode/formoptions/addoutput/": {
       "children": [],
       "title": "FormOptions.AddOutput"
-    },
-    "/net/aspose.pdf.lowcode/formoptions/formoptions/": {
-      "children": [],
-      "title": "FormOptions.FormOptions"
     },
     "/net/aspose.pdf.lowcode/formoptions/inputs/": {
       "children": [],
@@ -19525,7 +19008,6 @@
         "logoutputsource",
         "nonspecificationflags",
         "optimizefilesize",
-        "pdfaoptionsbase",
         "pdfaversion",
         "puasymbolsprocessingstrategy",
         "softmaskaction",
@@ -19577,10 +19059,6 @@
     "/net/aspose.pdf.lowcode/pdfaoptionsbase/optimizefilesize/": {
       "children": [],
       "title": "PdfAOptionsBase.OptimizeFileSize"
-    },
-    "/net/aspose.pdf.lowcode/pdfaoptionsbase/pdfaoptionsbase/": {
-      "children": [],
-      "title": "PdfAOptionsBase.PdfAOptionsBase"
     },
     "/net/aspose.pdf.lowcode/pdfaoptionsbase/pdfaversion/": {
       "children": [],
@@ -19669,7 +19147,6 @@
     "/net/aspose.pdf.lowcode/pdfextractor/": {
       "children": [
         "dispose",
-        "pdfextractor",
         "process"
       ],
       "title": "PdfExtractor Class"
@@ -19677,10 +19154,6 @@
     "/net/aspose.pdf.lowcode/pdfextractor/dispose/": {
       "children": [],
       "title": "PdfExtractor.Dispose"
-    },
-    "/net/aspose.pdf.lowcode/pdfextractor/pdfextractor/": {
-      "children": [],
-      "title": "PdfExtractor.PdfExtractor"
     },
     "/net/aspose.pdf.lowcode/pdfextractor/process/": {
       "children": [],
@@ -19783,7 +19256,6 @@
     "/net/aspose.pdf.lowcode/pdftoimage/": {
       "children": [
         "dispose",
-        "pdftoimage",
         "process"
       ],
       "title": "PdfToImage Class"
@@ -19791,10 +19263,6 @@
     "/net/aspose.pdf.lowcode/pdftoimage/dispose/": {
       "children": [],
       "title": "PdfToImage.Dispose"
-    },
-    "/net/aspose.pdf.lowcode/pdftoimage/pdftoimage/": {
-      "children": [],
-      "title": "PdfToImage.PdfToImage"
     },
     "/net/aspose.pdf.lowcode/pdftoimage/process/": {
       "children": [],
@@ -19809,8 +19277,6 @@
         "addinput",
         "addoutput",
         "conversionmode",
-        "defaultoutputimagejpegquality",
-        "defaultoutputimageresolution",
         "inputs",
         "operationname",
         "outputresolution",
@@ -19830,14 +19296,6 @@
     "/net/aspose.pdf.lowcode/pdftoimageoptions/conversionmode/": {
       "children": [],
       "title": "PdfToImageOptions.ConversionMode"
-    },
-    "/net/aspose.pdf.lowcode/pdftoimageoptions/defaultoutputimagejpegquality/": {
-      "children": [],
-      "title": "PdfToImageOptions.defaultOutputImageJpegQuality"
-    },
-    "/net/aspose.pdf.lowcode/pdftoimageoptions/defaultoutputimageresolution/": {
-      "children": [],
-      "title": "PdfToImageOptions.defaultOutputImageResolution"
     },
     "/net/aspose.pdf.lowcode/pdftoimageoptions/inputs/": {
       "children": [],
@@ -20725,14 +20183,9 @@
     },
     "/net/aspose.pdf.operators/basicsetcolorandpatternoperator/": {
       "children": [
-        "_patternname",
         "patternname"
       ],
       "title": "BasicSetColorAndPatternOperator Class"
-    },
-    "/net/aspose.pdf.operators/basicsetcolorandpatternoperator/_patternname/": {
-      "children": [],
-      "title": "BasicSetColorAndPatternOperator._patternName"
     },
     "/net/aspose.pdf.operators/basicsetcolorandpatternoperator/patternname/": {
       "children": [],
@@ -24074,18 +23527,13 @@
     },
     "/net/aspose.pdf.security/ecdsaalgorithminfo/": {
       "children": [
-        "eccname",
-        "filltext"
+        "eccname"
       ],
       "title": "EcdsaAlgorithmInfo Class"
     },
     "/net/aspose.pdf.security/ecdsaalgorithminfo/eccname/": {
       "children": [],
       "title": "EcdsaAlgorithmInfo.EccName"
-    },
-    "/net/aspose.pdf.security/ecdsaalgorithminfo/filltext/": {
-      "children": [],
-      "title": "EcdsaAlgorithmInfo.FillText"
     },
     "/net/aspose.pdf.security/encryptionparameters/": {
       "children": [
@@ -24229,19 +23677,9 @@
     },
     "/net/aspose.pdf.security/keyedsignaturealgorithminfo/": {
       "children": [
-        "filltext",
-        "keyedsignaturealgorithminfo",
         "keysize"
       ],
       "title": "KeyedSignatureAlgorithmInfo Class"
-    },
-    "/net/aspose.pdf.security/keyedsignaturealgorithminfo/filltext/": {
-      "children": [],
-      "title": "KeyedSignatureAlgorithmInfo.FillText"
-    },
-    "/net/aspose.pdf.security/keyedsignaturealgorithminfo/keyedsignaturealgorithminfo/": {
-      "children": [],
-      "title": "KeyedSignatureAlgorithmInfo.KeyedSignatureAlgorithmInfo"
     },
     "/net/aspose.pdf.security/keyedsignaturealgorithminfo/keysize/": {
       "children": [],
@@ -24256,8 +23694,6 @@
         "algorithmtype",
         "cryptographicstandard",
         "digesthashalgorithm",
-        "filltext",
-        "signaturealgorithminfo",
         "signaturename",
         "tostring"
       ],
@@ -24274,14 +23710,6 @@
     "/net/aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/": {
       "children": [],
       "title": "SignatureAlgorithmInfo.DigestHashAlgorithm"
-    },
-    "/net/aspose.pdf.security/signaturealgorithminfo/filltext/": {
-      "children": [],
-      "title": "SignatureAlgorithmInfo.FillText"
-    },
-    "/net/aspose.pdf.security/signaturealgorithminfo/signaturealgorithminfo/": {
-      "children": [],
-      "title": "SignatureAlgorithmInfo.SignatureAlgorithmInfo"
     },
     "/net/aspose.pdf.security/signaturealgorithminfo/signaturename/": {
       "children": [],
@@ -24301,18 +23729,13 @@
     },
     "/net/aspose.pdf.security/timestampalgorithminfo/": {
       "children": [
-        "contenthashalgorithm",
-        "filltext"
+        "contenthashalgorithm"
       ],
       "title": "TimestampAlgorithmInfo Class"
     },
     "/net/aspose.pdf.security/timestampalgorithminfo/contenthashalgorithm/": {
       "children": [],
       "title": "TimestampAlgorithmInfo.ContentHashAlgorithm"
-    },
-    "/net/aspose.pdf.security/timestampalgorithminfo/filltext/": {
-      "children": [],
-      "title": "TimestampAlgorithmInfo.FillText"
     },
     "/net/aspose.pdf.security/unknownsignaturealgorithminfo/": {
       "children": [],
@@ -26577,14 +26000,8 @@
       "title": "TextFragmentState.WordSpacing"
     },
     "/net/aspose.pdf.text/textoptions/": {
-      "children": [
-        "textoptions"
-      ],
-      "title": "TextOptions Class"
-    },
-    "/net/aspose.pdf.text/textoptions/textoptions/": {
       "children": [],
-      "title": "TextOptions.TextOptions"
+      "title": "TextOptions Class"
     },
     "/net/aspose.pdf.text/textparagraph/": {
       "children": [
@@ -26930,24 +26347,6 @@
         "horizontalalignment",
         "horizontalscaling",
         "invisible",
-        "isbackgroundcolorset",
-        "ischaracterspacingset",
-        "isfontset",
-        "isfontsizeset",
-        "isfontstyleset",
-        "isforegroundcolorset",
-        "ishorizontalalignmentset",
-        "ishorizontalscalingset",
-        "isinvisibilityset",
-        "islinespacingset",
-        "isrenderingmodeset",
-        "isstrikeoutset",
-        "isstrokingcolorset",
-        "issubsuperscriptset",
-        "istextmatrixset",
-        "isunderlineset",
-        "isverticalalignmentset",
-        "iswordspacingset",
         "linespacing",
         "measureheight",
         "measurestring",
@@ -27007,78 +26406,6 @@
     "/net/aspose.pdf.text/textstate/invisible/": {
       "children": [],
       "title": "TextState.Invisible"
-    },
-    "/net/aspose.pdf.text/textstate/isbackgroundcolorset/": {
-      "children": [],
-      "title": "TextState.IsBackgroundColorSet"
-    },
-    "/net/aspose.pdf.text/textstate/ischaracterspacingset/": {
-      "children": [],
-      "title": "TextState.IsCharacterSpacingSet"
-    },
-    "/net/aspose.pdf.text/textstate/isfontset/": {
-      "children": [],
-      "title": "TextState.IsFontSet"
-    },
-    "/net/aspose.pdf.text/textstate/isfontsizeset/": {
-      "children": [],
-      "title": "TextState.IsFontSizeSet"
-    },
-    "/net/aspose.pdf.text/textstate/isfontstyleset/": {
-      "children": [],
-      "title": "TextState.IsFontStyleSet"
-    },
-    "/net/aspose.pdf.text/textstate/isforegroundcolorset/": {
-      "children": [],
-      "title": "TextState.IsForegroundColorSet"
-    },
-    "/net/aspose.pdf.text/textstate/ishorizontalalignmentset/": {
-      "children": [],
-      "title": "TextState.IsHorizontalAlignmentSet"
-    },
-    "/net/aspose.pdf.text/textstate/ishorizontalscalingset/": {
-      "children": [],
-      "title": "TextState.IsHorizontalScalingSet"
-    },
-    "/net/aspose.pdf.text/textstate/isinvisibilityset/": {
-      "children": [],
-      "title": "TextState.IsInvisibilitySet"
-    },
-    "/net/aspose.pdf.text/textstate/islinespacingset/": {
-      "children": [],
-      "title": "TextState.IsLineSpacingSet"
-    },
-    "/net/aspose.pdf.text/textstate/isrenderingmodeset/": {
-      "children": [],
-      "title": "TextState.IsRenderingModeSet"
-    },
-    "/net/aspose.pdf.text/textstate/isstrikeoutset/": {
-      "children": [],
-      "title": "TextState.IsStrikeOutSet"
-    },
-    "/net/aspose.pdf.text/textstate/isstrokingcolorset/": {
-      "children": [],
-      "title": "TextState.IsStrokingColorSet"
-    },
-    "/net/aspose.pdf.text/textstate/issubsuperscriptset/": {
-      "children": [],
-      "title": "TextState.IsSubSuperscriptSet"
-    },
-    "/net/aspose.pdf.text/textstate/istextmatrixset/": {
-      "children": [],
-      "title": "TextState.IsTextMatrixSet"
-    },
-    "/net/aspose.pdf.text/textstate/isunderlineset/": {
-      "children": [],
-      "title": "TextState.IsUnderlineSet"
-    },
-    "/net/aspose.pdf.text/textstate/isverticalalignmentset/": {
-      "children": [],
-      "title": "TextState.IsVerticalAlignmentSet"
-    },
-    "/net/aspose.pdf.text/textstate/iswordspacingset/": {
-      "children": [],
-      "title": "TextState.IsWordSpacingSet"
     },
     "/net/aspose.pdf.text/textstate/linespacing/": {
       "children": [],
@@ -27148,15 +26475,8 @@
     },
     "/net/aspose.pdf.vector/graphicelement/": {
       "children": [
-        "_currentcontent",
-        "_graphicstate",
-        "_matrix",
-        "_operators",
-        "_page",
         "addonpage",
         "dispose",
-        "finddelta",
-        "getinitialpoint",
         "matrix",
         "operators",
         "parent",
@@ -27164,30 +26484,9 @@
         "rectangle",
         "remove",
         "savetosvg",
-        "setposition",
         "sourcepage"
       ],
       "title": "GraphicElement Class"
-    },
-    "/net/aspose.pdf.vector/graphicelement/_currentcontent/": {
-      "children": [],
-      "title": "GraphicElement._currentContent"
-    },
-    "/net/aspose.pdf.vector/graphicelement/_graphicstate/": {
-      "children": [],
-      "title": "GraphicElement._graphicState"
-    },
-    "/net/aspose.pdf.vector/graphicelement/_matrix/": {
-      "children": [],
-      "title": "GraphicElement._matrix"
-    },
-    "/net/aspose.pdf.vector/graphicelement/_operators/": {
-      "children": [],
-      "title": "GraphicElement._operators"
-    },
-    "/net/aspose.pdf.vector/graphicelement/_page/": {
-      "children": [],
-      "title": "GraphicElement._page"
     },
     "/net/aspose.pdf.vector/graphicelement/addonpage/": {
       "children": [],
@@ -27196,14 +26495,6 @@
     "/net/aspose.pdf.vector/graphicelement/dispose/": {
       "children": [],
       "title": "GraphicElement.Dispose"
-    },
-    "/net/aspose.pdf.vector/graphicelement/finddelta/": {
-      "children": [],
-      "title": "GraphicElement.FindDelta"
-    },
-    "/net/aspose.pdf.vector/graphicelement/getinitialpoint/": {
-      "children": [],
-      "title": "GraphicElement.GetInitialPoint"
     },
     "/net/aspose.pdf.vector/graphicelement/matrix/": {
       "children": [],
@@ -27232,10 +26523,6 @@
     "/net/aspose.pdf.vector/graphicelement/savetosvg/": {
       "children": [],
       "title": "GraphicElement.SaveToSvg"
-    },
-    "/net/aspose.pdf.vector/graphicelement/setposition/": {
-      "children": [],
-      "title": "GraphicElement.SetPosition"
     },
     "/net/aspose.pdf.vector/graphicelement/sourcepage/": {
       "children": [],
@@ -27353,14 +26640,9 @@
     },
     "/net/aspose.pdf.vector/subpath/": {
       "children": [
-        "getinitialpoint",
         "rectangle"
       ],
       "title": "SubPath Class"
-    },
-    "/net/aspose.pdf.vector/subpath/getinitialpoint/": {
-      "children": [],
-      "title": "SubPath.GetInitialPoint"
     },
     "/net/aspose.pdf.vector/subpath/rectangle/": {
       "children": [],
@@ -27439,7 +26721,6 @@
       "children": [
         "addonpage",
         "elements",
-        "getinitialpoint",
         "name",
         "position",
         "rectangle",
@@ -27454,10 +26735,6 @@
     "/net/aspose.pdf.vector/xformplacement/elements/": {
       "children": [],
       "title": "XFormPlacement.Elements"
-    },
-    "/net/aspose.pdf.vector/xformplacement/getinitialpoint/": {
-      "children": [],
-      "title": "XFormPlacement.GetInitialPoint"
     },
     "/net/aspose.pdf.vector/xformplacement/name/": {
       "children": [],
@@ -28189,7 +27466,6 @@
     "/net/aspose.pdf/baseoperatorcollection/": {
       "children": [
         "add",
-        "baseoperatorcollection",
         "cancelupdate",
         "clear",
         "contains",
@@ -28209,10 +27485,6 @@
     "/net/aspose.pdf/baseoperatorcollection/add/": {
       "children": [],
       "title": "BaseOperatorCollection.Add"
-    },
-    "/net/aspose.pdf/baseoperatorcollection/baseoperatorcollection/": {
-      "children": [],
-      "title": "BaseOperatorCollection.BaseOperatorCollection"
     },
     "/net/aspose.pdf/baseoperatorcollection/cancelupdate/": {
       "children": [],
@@ -28268,7 +27540,6 @@
     },
     "/net/aspose.pdf/baseparagraph/": {
       "children": [
-        "baseparagraph",
         "clone",
         "horizontalalignment",
         "hyperlink",
@@ -28281,10 +27552,6 @@
         "zindex"
       ],
       "title": "BaseParagraph Class"
-    },
-    "/net/aspose.pdf/baseparagraph/baseparagraph/": {
-      "children": [],
-      "title": "BaseParagraph.BaseParagraph"
     },
     "/net/aspose.pdf/baseparagraph/clone/": {
       "children": [],
@@ -28455,7 +27722,6 @@
         "insert",
         "isreadonly",
         "item",
-        "items",
         "remove",
         "removeat",
         "updateboundscheckmode"
@@ -28505,10 +27771,6 @@
     "/net/aspose.pdf/boundscheckablelist-1/item/": {
       "children": [],
       "title": "BoundsCheckableList<T>.Item"
-    },
-    "/net/aspose.pdf/boundscheckablelist-1/items/": {
-      "children": [],
-      "title": "BoundsCheckableList<T>.Items"
     },
     "/net/aspose.pdf/boundscheckablelist-1/remove/": {
       "children": [],
@@ -30923,15 +30185,10 @@
     },
     "/net/aspose.pdf/exportfieldsoptions/": {
       "children": [
-        "exportfieldsoptions",
         "exportpasswordvalue",
         "fieldselector"
       ],
       "title": "ExportFieldsOptions Class"
-    },
-    "/net/aspose.pdf/exportfieldsoptions/exportfieldsoptions/": {
-      "children": [],
-      "title": "ExportFieldsOptions.ExportFieldsOptions"
     },
     "/net/aspose.pdf/exportfieldsoptions/exportpasswordvalue/": {
       "children": [],
@@ -31285,24 +30542,8 @@
       "title": "FooterArtifact.FooterArtifact"
     },
     "/net/aspose.pdf/formattedfragment/": {
-      "children": [
-        "copyfields",
-        "rectangle",
-        "text"
-      ],
+      "children": [],
       "title": "FormattedFragment Class"
-    },
-    "/net/aspose.pdf/formattedfragment/copyfields/": {
-      "children": [],
-      "title": "FormattedFragment.CopyFields"
-    },
-    "/net/aspose.pdf/formattedfragment/rectangle/": {
-      "children": [],
-      "title": "FormattedFragment.rectangle"
-    },
-    "/net/aspose.pdf/formattedfragment/text/": {
-      "children": [],
-      "title": "FormattedFragment.text"
     },
     "/net/aspose.pdf/graphinfo/": {
       "children": [
@@ -32121,14 +31362,8 @@
       "title": "HtmlSaveOptions.UseZOrder"
     },
     "/net/aspose.pdf/hyperlink/": {
-      "children": [
-        "hyperlink"
-      ],
-      "title": "Hyperlink Class"
-    },
-    "/net/aspose.pdf/hyperlink/hyperlink/": {
       "children": [],
-      "title": "Hyperlink.Hyperlink"
+      "title": "Hyperlink Class"
     },
     "/net/aspose.pdf/iboundscheckableitem/": {
       "children": [
@@ -32473,18 +31708,13 @@
     },
     "/net/aspose.pdf/importoptions/": {
       "children": [
-        "importformat",
-        "importoptions"
+        "importformat"
       ],
       "title": "ImportOptions Class"
     },
     "/net/aspose.pdf/importoptions/importformat/": {
       "children": [],
       "title": "ImportOptions.ImportFormat"
-    },
-    "/net/aspose.pdf/importoptions/importoptions/": {
-      "children": [],
-      "title": "ImportOptions.ImportOptions"
     },
     "/net/aspose.pdf/inameddestinationcollection/": {
       "children": [
@@ -32950,7 +32180,6 @@
       "children": [
         "disablefontlicenseverifications",
         "loadformat",
-        "loadoptions",
         "warninghandler"
       ],
       "title": "LoadOptions Class"
@@ -32962,10 +32191,6 @@
     "/net/aspose.pdf/loadoptions/loadformat/": {
       "children": [],
       "title": "LoadOptions.LoadFormat"
-    },
-    "/net/aspose.pdf/loadoptions/loadoptions/": {
-      "children": [],
-      "title": "LoadOptions.LoadOptions"
     },
     "/net/aspose.pdf/loadoptions/warninghandler/": {
       "children": [],
@@ -33640,7 +32865,6 @@
         "count",
         "delete",
         "dispose",
-        "finalize",
         "getenumerator",
         "insert",
         "isfasttextextractionmode",
@@ -33689,10 +32913,6 @@
     "/net/aspose.pdf/operatorcollection/dispose/": {
       "children": [],
       "title": "OperatorCollection.Dispose"
-    },
-    "/net/aspose.pdf/operatorcollection/finalize/": {
-      "children": [],
-      "title": "OperatorCollection.Finalize"
     },
     "/net/aspose.pdf/operatorcollection/getenumerator/": {
       "children": [],
@@ -33786,7 +33006,6 @@
         "canseek",
         "canwrite",
         "defaultbuffersize",
-        "dispose",
         "flush",
         "freeondispose",
         "length",
@@ -33822,10 +33041,6 @@
     "/net/aspose.pdf/optimizedmemorystream/defaultbuffersize/": {
       "children": [],
       "title": "OptimizedMemoryStream.DefaultBufferSize"
-    },
-    "/net/aspose.pdf/optimizedmemorystream/dispose/": {
-      "children": [],
-      "title": "OptimizedMemoryStream.Dispose"
     },
     "/net/aspose.pdf/optimizedmemorystream/flush/": {
       "children": [],
@@ -34118,7 +33333,6 @@
         "count",
         "getenumerator",
         "isreadonly",
-        "outlines",
         "remove",
         "visiblecount"
       ],
@@ -34151,10 +33365,6 @@
     "/net/aspose.pdf/outlines/isreadonly/": {
       "children": [],
       "title": "Outlines.IsReadOnly"
-    },
-    "/net/aspose.pdf/outlines/outlines/": {
-      "children": [],
-      "title": "Outlines.Outlines"
     },
     "/net/aspose.pdf/outlines/remove/": {
       "children": [],
@@ -36312,7 +35522,6 @@
         "cacheglyphs",
         "closeresponse",
         "saveformat",
-        "saveoptions",
         "warninghandler"
       ],
       "title": "SaveOptions Class"
@@ -36328,10 +35537,6 @@
     "/net/aspose.pdf/saveoptions/saveformat/": {
       "children": [],
       "title": "SaveOptions.SaveFormat"
-    },
-    "/net/aspose.pdf/saveoptions/saveoptions/": {
-      "children": [],
-      "title": "SaveOptions.SaveOptions"
     },
     "/net/aspose.pdf/saveoptions/warninghandler/": {
       "children": [],
@@ -36354,15 +35559,8 @@
     },
     "/net/aspose.pdf/stamp/": {
       "children": [
-        "_horizontalalignment",
-        "_mcid",
-        "_verticalalignment",
-        "addextgstate",
         "background",
         "bottommargin",
-        "getpagerotationmatrix",
-        "getpoint",
-        "getscalematrix",
         "getstampid",
         "height",
         "horizontalalignment",
@@ -36375,7 +35573,6 @@
         "rotate",
         "rotateangle",
         "setstampid",
-        "stamp",
         "topmargin",
         "verticalalignment",
         "width",
@@ -36387,22 +35584,6 @@
       ],
       "title": "Stamp Class"
     },
-    "/net/aspose.pdf/stamp/_horizontalalignment/": {
-      "children": [],
-      "title": "Stamp._horizontalAlignment"
-    },
-    "/net/aspose.pdf/stamp/_mcid/": {
-      "children": [],
-      "title": "Stamp._mcid"
-    },
-    "/net/aspose.pdf/stamp/_verticalalignment/": {
-      "children": [],
-      "title": "Stamp._verticalAlignment"
-    },
-    "/net/aspose.pdf/stamp/addextgstate/": {
-      "children": [],
-      "title": "Stamp.addExtGState"
-    },
     "/net/aspose.pdf/stamp/background/": {
       "children": [],
       "title": "Stamp.Background"
@@ -36410,18 +35591,6 @@
     "/net/aspose.pdf/stamp/bottommargin/": {
       "children": [],
       "title": "Stamp.BottomMargin"
-    },
-    "/net/aspose.pdf/stamp/getpagerotationmatrix/": {
-      "children": [],
-      "title": "Stamp.getPageRotationMatrix"
-    },
-    "/net/aspose.pdf/stamp/getpoint/": {
-      "children": [],
-      "title": "Stamp.getPoint"
-    },
-    "/net/aspose.pdf/stamp/getscalematrix/": {
-      "children": [],
-      "title": "Stamp.getScaleMatrix"
     },
     "/net/aspose.pdf/stamp/getstampid/": {
       "children": [],
@@ -36470,10 +35639,6 @@
     "/net/aspose.pdf/stamp/setstampid/": {
       "children": [],
       "title": "Stamp.setStampId"
-    },
-    "/net/aspose.pdf/stamp/stamp/": {
-      "children": [],
-      "title": "Stamp.Stamp"
     },
     "/net/aspose.pdf/stamp/topmargin/": {
       "children": [],
@@ -36938,7 +36103,6 @@
       "children": [
         "autoadjustfontsizeprecision",
         "autoadjustfontsizetofitstamprectangle",
-        "createxform",
         "draw",
         "fontsize",
         "height",
@@ -36966,10 +36130,6 @@
     "/net/aspose.pdf/textstamp/autoadjustfontsizetofitstamprectangle/": {
       "children": [],
       "title": "TextStamp.AutoAdjustFontSizeToFitStampRectangle"
-    },
-    "/net/aspose.pdf/textstamp/createxform/": {
-      "children": [],
-      "title": "TextStamp.createXForm"
     },
     "/net/aspose.pdf/textstamp/draw/": {
       "children": [],
@@ -37301,7 +36461,6 @@
         "contents",
         "createnewform",
         "dispose",
-        "finalize",
         "freememory",
         "getresources",
         "it",
@@ -37329,10 +36488,6 @@
     "/net/aspose.pdf/xform/dispose/": {
       "children": [],
       "title": "XForm.Dispose"
-    },
-    "/net/aspose.pdf/xform/finalize/": {
-      "children": [],
-      "title": "XForm.Finalize"
     },
     "/net/aspose.pdf/xform/freememory/": {
       "children": [],
@@ -37627,15 +36782,10 @@
     },
     "/net/aspose.pdf/xmlloadoptions/": {
       "children": [
-        "finalize",
         "xmlloadoptions",
         "xslstream"
       ],
       "title": "XmlLoadOptions Class"
-    },
-    "/net/aspose.pdf/xmlloadoptions/finalize/": {
-      "children": [],
-      "title": "XmlLoadOptions.Finalize"
     },
     "/net/aspose.pdf/xmlloadoptions/xmlloadoptions/": {
       "children": [],
@@ -37772,8 +36922,7 @@
       "children": [
         "description",
         "getxml",
-        "value",
-        "xmppdfaextensionobject"
+        "value"
       ],
       "title": "XmpPdfAExtensionObject Class"
     },
@@ -37788,10 +36937,6 @@
     "/net/aspose.pdf/xmppdfaextensionobject/value/": {
       "children": [],
       "title": "XmpPdfAExtensionObject.Value"
-    },
-    "/net/aspose.pdf/xmppdfaextensionobject/xmppdfaextensionobject/": {
-      "children": [],
-      "title": "XmpPdfAExtensionObject.XmpPdfAExtensionObject"
     },
     "/net/aspose.pdf/xmppdfaextensionproperty/": {
       "children": [

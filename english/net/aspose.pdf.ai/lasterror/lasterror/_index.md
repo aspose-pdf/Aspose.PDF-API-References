@@ -3,7 +3,7 @@ title: "LastError.LastError"
 linktitle: "LastError"
 articleTitle: "LastError"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "LastError constructor. Initializes a new instance of the LastError class."
+description: "LastError constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/lasterror/lasterror/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## LastError() {#constructor}
 
-Initializes a new instance of the LastError class.
+The default constructor.
 
 ```csharp
 public LastError()

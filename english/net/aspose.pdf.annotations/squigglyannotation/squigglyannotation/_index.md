@@ -3,7 +3,7 @@ title: "SquigglyAnnotation.SquigglyAnnotation"
 linktitle: "SquigglyAnnotation"
 articleTitle: "SquigglyAnnotation"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SquigglyAnnotation constructor. Initializes a new instance of the SquigglyAnnotation class."
+description: "SquigglyAnnotation constructor. Creates new Squiggly annotation on the specified page."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/squigglyannotation/squigglyannotation/"

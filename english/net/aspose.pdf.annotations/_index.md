@@ -3,7 +3,7 @@ title: "Aspose.Pdf.Annotations"
 linktitle: "Aspose.Pdf.Annotations"
 articleTitle: "Aspose.Pdf.Annotations"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The **Aspose.Pdf.Annotations** namespace provides classes."
+description: "The Aspose.Pdf.Annotations namespace provides classes."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/"

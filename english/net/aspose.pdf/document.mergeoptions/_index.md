@@ -22,7 +22,7 @@ public class MergeOptions
 
 | Name | Description |
 | --- | --- |
-| [Document.MergeOptions](./mergeoptions/#constructor) | Initializes a new instance of the Document.MergeOptions class. |
+| [Document.MergeOptions](./mergeoptions/#constructor) | The default constructor. |
 
 ## Properties
 

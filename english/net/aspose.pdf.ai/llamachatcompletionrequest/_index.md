@@ -22,7 +22,7 @@ public class LlamaChatCompletionRequest
 
 | Name | Description |
 | --- | --- |
-| [LlamaChatCompletionRequest](./llamachatcompletionrequest/#constructor) | Initializes a new instance of the LlamaChatCompletionRequest class. |
+| [LlamaChatCompletionRequest](./llamachatcompletionrequest/#constructor) | The default constructor. |
 
 ## Properties
 

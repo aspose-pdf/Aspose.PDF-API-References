@@ -3,7 +3,7 @@ title: "VectorStoreFileBatchFileListResponse.VectorStoreFileBatchFileListRespons
 linktitle: "VectorStoreFileBatchFileListResponse"
 articleTitle: "VectorStoreFileBatchFileListResponse"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "VectorStoreFileBatchFileListResponse constructor. Initializes a new instance of the VectorStoreFileBatchFileListResponse class."
+description: "VectorStoreFileBatchFileListResponse constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/vectorstorefilebatchfilelistresponse/vectorstorefilebatchfilelistresponse/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## VectorStoreFileBatchFileListResponse() {#constructor}
 
-Initializes a new instance of the VectorStoreFileBatchFileListResponse class.
+The default constructor.
 
 ```csharp
 public VectorStoreFileBatchFileListResponse()

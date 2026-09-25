@@ -22,7 +22,7 @@ public class Usage
 
 | Name | Description |
 | --- | --- |
-| [Usage](./usage/#constructor) | Initializes a new instance of the Usage class. |
+| [Usage](./usage/#constructor) | The default constructor. |
 
 ## Properties
 

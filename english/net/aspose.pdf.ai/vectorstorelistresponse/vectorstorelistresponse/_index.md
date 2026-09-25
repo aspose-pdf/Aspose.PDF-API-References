@@ -3,7 +3,7 @@ title: "VectorStoreListResponse.VectorStoreListResponse"
 linktitle: "VectorStoreListResponse"
 articleTitle: "VectorStoreListResponse"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "VectorStoreListResponse constructor. Initializes a new instance of the VectorStoreListResponse class."
+description: "VectorStoreListResponse constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/vectorstorelistresponse/vectorstorelistresponse/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## VectorStoreListResponse() {#constructor}
 
-Initializes a new instance of the VectorStoreListResponse class.
+The default constructor.
 
 ```csharp
 public VectorStoreListResponse()

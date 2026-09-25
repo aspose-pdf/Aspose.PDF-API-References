@@ -18,13 +18,6 @@ Base class for all saveable facades.
 public abstract class SaveableFacade : Facade, ISaveableFacade, IFacade, IDisposable
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [SaveableFacade](./saveablefacade/#constructor) | The constructor. |
-| [SaveableFacade](./saveablefacade/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | The constructor. |
-
 ## Properties
 
 | Name | Description |
@@ -35,10 +28,7 @@ public abstract class SaveableFacade : Facade, ISaveableFacade, IFacade, IDispos
 
 | Name | Description |
 | --- | --- |
-| [AssertDocument](../../aspose.pdf.facades/facade/assertdocument/) | Asserts if the facade is initialized. *(Inherited from Facade)* |
 | [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. *(Inherited from Facade)* |
 | [Close](../../aspose.pdf.facades/facade/close/) | Disposes Aspose.Pdf.Document bound with a facade. *(Inherited from Facade)* |
 | [Dispose](../../aspose.pdf.facades/facade/dispose/) | Disposes the facade. *(Inherited from Facade)* |
 | [Save](./save/)(*string*) | Saves the PDF document to the specified file. |

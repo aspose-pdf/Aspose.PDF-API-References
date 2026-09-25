@@ -23,7 +23,7 @@ public sealed class PdfContentEditor : SaveableFacade
 | Name | Description |
 | --- | --- |
 | [PdfContentEditor](./pdfcontenteditor/#constructor) | The constructor of the PdfContentEditor object. |
-| [PdfContentEditor](./pdfcontenteditor/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfContentEditor`](../../aspose.pdf.facades/pdfcontenteditor/) object on base of the . |
+| [PdfContentEditor](./pdfcontenteditor/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfContentEditor`](../../aspose.pdf.facades/pdfcontenteditor/) object on base of the *document*. |
 
 ## Properties
 
@@ -42,11 +42,8 @@ public sealed class PdfContentEditor : SaveableFacade
 | [AddDocumentAdditionalAction](./adddocumentadditionalaction/)(*string, string*) | Adds additional action for document event. |
 | [AddDocumentAttachment](./adddocumentattachment/)(*string, string*) | Adds document attachment with no annotation. |
 | [AddDocumentAttachment](./adddocumentattachment/)(*Stream, string, string*) | Adds document attachment with no annotation. |
-| [AssertDocument](../../aspose.pdf.facades/facade/assertdocument/) | Asserts if the facade is initialized. *(Inherited from Facade)* |
 | [BindPdf](./bindpdf/)(*string*) | Binds a PDF file for editing. |
 | [BindPdf](./bindpdf/)(*Stream*) | Binds a PDF stream for editing. |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. *(Inherited from Facade)* |
 | [ChangeViewerPreference](./changeviewerpreference/)(*int*) | Changes the view preference. |
 | [Close](./close/) | Closes opened document. |
 | [CreateApplicationLink](./createapplicationlink/)(*Rectangle, string, int*) | Creates a link to launch an application in PDF document. |

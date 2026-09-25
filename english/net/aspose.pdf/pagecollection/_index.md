@@ -25,7 +25,7 @@ public sealed class PageCollection : IEnumerable
 | [Count](./count/) { get; } | Gets count of pages in the document. |
 | [IsReadOnly](./isreadonly/) { get; } | Gets value indicating of collection is readonly. Always returns false. |
 | [IsSynchronized](./issynchronized/) { get; } | Returns true of object is synchorinzed. |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets page by index. |
 | [SyncRoot](./syncroot/) { get; } | Gets synchronization object of the collection. |
 
 ## Methods

@@ -22,7 +22,7 @@ public sealed class XpsLoadOptions : LoadOptions, IPipelineOptions
 
 | Name | Description |
 | --- | --- |
-| [XpsLoadOptions](./xpsloadoptions/#constructor) | Initializes a new instance of the XpsLoadOptions class. |
+| [XpsLoadOptions](./xpsloadoptions/#constructor) | The default constructor. |
 
 ## Properties
 

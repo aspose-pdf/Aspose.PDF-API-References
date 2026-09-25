@@ -22,7 +22,7 @@ public class LevelFormat
 
 | Name | Description |
 | --- | --- |
-| [LevelFormat](./levelformat/#constructor) | Initializes a new instance of the LevelFormat class. |
+| [LevelFormat](./levelformat/#constructor) | The default constructor. |
 
 ## Properties
 

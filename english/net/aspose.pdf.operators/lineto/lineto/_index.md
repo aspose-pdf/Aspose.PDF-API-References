@@ -3,7 +3,7 @@ title: "LineTo.LineTo"
 linktitle: "LineTo"
 articleTitle: "LineTo"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "LineTo constructor. Initializes a new instance of the LineTo class."
+description: "LineTo constructor. Initializes line operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/lineto/lineto/"

@@ -22,7 +22,7 @@ public sealed class PrintController : PrintController, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [PrintController](./printcontroller/#constructor) | Initializes a new instance of the PrintController class. |
+| [PrintController](./printcontroller/#constructor) | The default constructor. |
 
 ## Properties
 

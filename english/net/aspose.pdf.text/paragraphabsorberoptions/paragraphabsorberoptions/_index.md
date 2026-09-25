@@ -3,7 +3,7 @@ title: "ParagraphAbsorberOptions.ParagraphAbsorberOptions"
 linktitle: "ParagraphAbsorberOptions"
 articleTitle: "ParagraphAbsorberOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ParagraphAbsorberOptions constructor. Initializes a new instance of the ParagraphAbsorberOptions class."
+description: "ParagraphAbsorberOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/paragraphabsorberoptions/paragraphabsorberoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## ParagraphAbsorberOptions() {#constructor}
 
-Initializes a new instance of the ParagraphAbsorberOptions class.
+The default constructor.
 
 ```csharp
 public ParagraphAbsorberOptions()

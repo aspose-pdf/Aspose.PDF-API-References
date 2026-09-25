@@ -22,7 +22,7 @@ public class ImageExtractor : PdfExtractor
 
 | Name | Description |
 | --- | --- |
-| [ImageExtractor](./imageextractor/#constructor) | Initializes a new instance of the ImageExtractor class. |
+| [ImageExtractor](./imageextractor/#constructor) | The default constructor. |
 
 ## Methods
 

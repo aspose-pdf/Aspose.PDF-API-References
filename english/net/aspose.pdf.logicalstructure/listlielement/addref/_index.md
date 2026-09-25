@@ -3,7 +3,7 @@ title: "ListLIElement.AddRef"
 linktitle: "AddRef"
 articleTitle: "AddRef"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ListLIElement method. Adds a reference to the specified within this Table of Contents Item (TOCI) element. This is typically used when `ListLIElement` serves..."
+description: "ListLIElement method. Adds a reference to the specified StructureElement within this Table of Contents Item (TOCI) element. This is typically used when `List..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/listlielement/addref/"

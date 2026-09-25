@@ -3,7 +3,7 @@ title: "FormEditorRemoveOptions Class"
 linktitle: "FormEditorRemoveOptions"
 articleTitle: "FormEditorRemoveOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.FormEditorRemoveOptions class. Base class for option classes for remove fields in document by plugin."
+description: "Aspose.Pdf.LowCode.FormEditorRemoveOptions class. Base class for option classes for remove fields in document by FormEditor plugin."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.lowcode/formeditorremoveoptions/"
@@ -17,12 +17,6 @@ Base class for option classes for remove fields in document by [`FormEditor`](..
 ```csharp
 public abstract class FormEditorRemoveOptions : FormEditorOptions
 ```
-
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [FormEditorRemoveOptions](./formeditorremoveoptions/#constructor) | Initializes a new instance of the FormEditorRemoveOptions class. |
 
 ## Properties
 

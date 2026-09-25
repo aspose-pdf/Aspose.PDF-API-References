@@ -3,7 +3,7 @@ title: "FormRemoveSelectedFieldsOptions.FormRemoveSelectedFieldsOptions"
 linktitle: "FormRemoveSelectedFieldsOptions"
 articleTitle: "FormRemoveSelectedFieldsOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FormRemoveSelectedFieldsOptions constructor. Initializes a new instance of the FormRemoveSelectedFieldsOptions class."
+description: "FormRemoveSelectedFieldsOptions constructor. Initializes new instance of the FormEditorRemoveOptions object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formremoveselectedfieldsoptions/formremoveselectedfieldsoptions/"

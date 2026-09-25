@@ -22,7 +22,7 @@ public class FlattenSettings
 
 | Name | Description |
 | --- | --- |
-| [Form.FlattenSettings](./flattensettings/#constructor) | Initializes a new instance of the Form.FlattenSettings class. |
+| [Form.FlattenSettings](./flattensettings/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -18,12 +18,6 @@ An abstract class for various kinds of stamps which come as descendants.
 public abstract class Stamp
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [Stamp](./stamp/#constructor) | Initializes a new instance of the Stamp class. |
-
 ## Properties
 
 | Name | Description |
@@ -53,20 +47,8 @@ public abstract class Stamp
 | Name | Description |
 | --- | --- |
 | [Put](./put/)(*Page*) | Adds stamp on the page. |
-| [addExtGState](./addextgstate/)(*Page*) | Add G state on the page for stamp. |
-| [getPageRotationMatrix](./getpagerotationmatrix/)(*Page*) | Returns transformation matrix for page. |
-| [getPoint](./getpoint/)(*Page*) | Returns point if the stamp on the page. |
-| [getScaleMatrix](./getscalematrix/) | Returns scaling matrix of the stamp. |
 | [getStampId](./getstampid/) | Returns stamp ID. |
 | [setStampId](./setstampid/)(*int*) | Sets stamp Id. |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| [_horizontalAlignment](./_horizontalalignment/) | Horizontal alignment of the stamp. |
-| [_mcid](./_mcid/) |  |
-| [_verticalAlignment](./_verticalalignment/) | Vertical alignemtn of the stamp. |
 
 ### See Also
 

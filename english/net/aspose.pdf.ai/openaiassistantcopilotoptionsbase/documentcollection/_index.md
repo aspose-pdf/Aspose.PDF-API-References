@@ -5,7 +5,7 @@ articleTitle: "DocumentCollection"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "OpenAIAssistantCopilotOptionsBase property. Gets or sets the collection of documents to be processed."
 type: docs
-weight: 60
+weight: 50
 url: "/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/documentcollection/"
 product_version: "26.9.0"
 ---

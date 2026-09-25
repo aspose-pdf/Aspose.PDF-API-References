@@ -3,7 +3,7 @@ title: "EncryptionOptions.DocumentPrivilege"
 linktitle: "DocumentPrivilege"
 articleTitle: "DocumentPrivilege"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "EncryptionOptions property. Document permissions, see for details."
+description: "EncryptionOptions property. Document permissions, see Permissions for details."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/encryptionoptions/documentprivilege/"

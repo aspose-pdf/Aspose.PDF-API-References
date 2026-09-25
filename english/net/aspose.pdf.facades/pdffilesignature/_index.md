@@ -24,9 +24,9 @@ public sealed class PdfFileSignature : SaveableFacade
 | --- | --- |
 | [PdfFileSignature](./pdffilesignature/#constructor) | The constructor of PdfFileSignature class. |
 | [PdfFileSignature](./pdffilesignature/#constructor_1)(*string*) | The constructor of PdfFileSignature class. |
-| [PdfFileSignature](./pdffilesignature/#constructor_2)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfFileSignature`](../../aspose.pdf.facades/pdffilesignature/) object on base of the . |
+| [PdfFileSignature](./pdffilesignature/#constructor_2)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfFileSignature`](../../aspose.pdf.facades/pdffilesignature/) object on base of the *document*. |
 | [PdfFileSignature](./pdffilesignature/#constructor_3)(*string, string*) | The constructor of PdfFileSignature class. |
-| [PdfFileSignature](./pdffilesignature/#constructor_4)(*[Document](../../aspose.pdf/document/), string*) | Initializes new [`PdfFileSignature`](../../aspose.pdf.facades/pdffilesignature/) object on base of the . |
+| [PdfFileSignature](./pdffilesignature/#constructor_4)(*[Document](../../aspose.pdf/document/), string*) | Initializes new [`PdfFileSignature`](../../aspose.pdf.facades/pdffilesignature/) object on base of the *document*. |
 
 ## Properties
 
@@ -42,11 +42,8 @@ public sealed class PdfFileSignature : SaveableFacade
 
 | Name | Description |
 | --- | --- |
-| [AssertDocument](../../aspose.pdf.facades/facade/assertdocument/) | Asserts if the facade is initialized. *(Inherited from Facade)* |
 | [BindPdf](./bindpdf/)(*string*) | Binds a Pdf file for editing. |
 | [BindPdf](./bindpdf/)(*Stream*) | Binds a Pdf stream for editing. |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. *(Inherited from Facade)* |
 | [Certify](./certify/)(*string, DocMDPSignature*) | Certify the document with the MDP signature which is placed in already presented signature field. |
 | [Certify](./certify/)(*int, string, string, string, bool, Rectangle, DocMDPSignature*) | Certify the document with the MDP signature. |
 | [Close](./close/) | Closes the facade. |

@@ -22,7 +22,7 @@ public class MessageContentRequest : MessageContentBase
 
 | Name | Description |
 | --- | --- |
-| [MessageContentRequest](./messagecontentrequest/#constructor) | Initializes a new instance of the MessageContentRequest class. |
+| [MessageContentRequest](./messagecontentrequest/#constructor) | The default constructor. |
 
 ## Properties
 

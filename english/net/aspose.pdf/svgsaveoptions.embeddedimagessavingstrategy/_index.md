@@ -3,7 +3,7 @@ title: "SvgSaveOptions.EmbeddedImagesSavingStrategy Delegate"
 linktitle: "SvgSaveOptions.EmbeddedImagesSavingStrategy"
 articleTitle: "SvgSaveOptions.EmbeddedImagesSavingStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.SvgSaveOptions.EmbeddedImagesSavingStrategy delegate. To property of such type You can assign delegate created from custom method that implements ..."
+description: "To property of such type You can assign delegate created from custom method that implements processing of external saving of image that was extracted from SV..."
 type: docs
 weight: 2900
 url: "/net/aspose.pdf/svgsaveoptions.embeddedimagessavingstrategy/"

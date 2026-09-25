@@ -3,7 +3,7 @@ title: "PdfOutputGenerator.PdfOutputGenerator"
 linktitle: "PdfOutputGenerator"
 articleTitle: "PdfOutputGenerator"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfOutputGenerator constructor. Initializes a new instance of the PdfOutputGenerator class."
+description: "PdfOutputGenerator constructor. Cteates an instance of PdfOutputGenerator class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/pdfoutputgenerator/pdfoutputgenerator/"

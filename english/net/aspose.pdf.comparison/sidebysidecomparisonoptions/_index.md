@@ -22,7 +22,7 @@ public class SideBySideComparisonOptions
 
 | Name | Description |
 | --- | --- |
-| [SideBySideComparisonOptions](./sidebysidecomparisonoptions/#constructor) | Initializes a new instance of the SideBySideComparisonOptions class. |
+| [SideBySideComparisonOptions](./sidebysidecomparisonoptions/#constructor) | The default constructor. |
 
 ## Properties
 

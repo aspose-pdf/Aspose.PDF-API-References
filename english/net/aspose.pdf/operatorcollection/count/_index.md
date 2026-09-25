@@ -5,7 +5,7 @@ articleTitle: "Count"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "OperatorCollection property. Gets count of operators in the collection."
 type: docs
-weight: 250
+weight: 240
 url: "/net/aspose.pdf/operatorcollection/count/"
 product_version: "26.9.0"
 ---

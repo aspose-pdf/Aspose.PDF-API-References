@@ -22,7 +22,7 @@ public class MessageContentResponse : MessageContentBase
 
 | Name | Description |
 | --- | --- |
-| [MessageContentResponse](./messagecontentresponse/#constructor) | Initializes a new instance of the MessageContentResponse class. |
+| [MessageContentResponse](./messagecontentresponse/#constructor) | The default constructor. |
 
 ## Properties
 

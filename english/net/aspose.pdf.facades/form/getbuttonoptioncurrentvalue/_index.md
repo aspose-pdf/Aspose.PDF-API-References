@@ -5,7 +5,7 @@ articleTitle: "GetButtonOptionCurrentValue"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Returns the current value for radio button option fields."
 type: docs
-weight: 180
+weight: 160
 url: "/net/aspose.pdf.facades/form/getbuttonoptioncurrentvalue/"
 product_version: "26.9.0"
 ---

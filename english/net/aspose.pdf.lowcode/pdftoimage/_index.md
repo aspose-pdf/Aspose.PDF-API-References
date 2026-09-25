@@ -18,12 +18,6 @@ Represents PDF to image plugin.
 public abstract class PdfToImage : IPlugin, IDisposable
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [PdfToImage](./pdftoimage/#constructor) | Initializes a new instance of the PdfToImage class. |
-
 ## Methods
 
 | Name | Description |

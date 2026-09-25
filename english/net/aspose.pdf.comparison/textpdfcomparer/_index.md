@@ -22,7 +22,7 @@ public class TextPdfComparer
 
 | Name | Description |
 | --- | --- |
-| [TextPdfComparer](./textpdfcomparer/#constructor) | Initializes a new instance of the TextPdfComparer class. |
+| [TextPdfComparer](./textpdfcomparer/#constructor) | The default constructor. |
 
 ## Methods
 

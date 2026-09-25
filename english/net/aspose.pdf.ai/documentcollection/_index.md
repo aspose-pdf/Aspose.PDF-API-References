@@ -22,7 +22,7 @@ public class DocumentCollection
 
 | Name | Description |
 | --- | --- |
-| [DocumentCollection](./documentcollection/#constructor) | Initializes a new instance of the DocumentCollection class. |
+| [DocumentCollection](./documentcollection/#constructor) | The default constructor. |
 
 ## Properties
 

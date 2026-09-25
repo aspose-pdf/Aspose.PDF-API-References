@@ -3,7 +3,7 @@ title: "PdfFileMend.PdfFileMend"
 linktitle: "PdfFileMend"
 articleTitle: "PdfFileMend"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfFileMend constructor. Initializes a new instance of the PdfFileMend class."
+description: "PdfFileMend constructor. Constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffilemend/pdffilemend/"
@@ -27,7 +27,7 @@ public PdfFileMend()
 
 ## PdfFileMend([Document](../../../aspose.pdf/document/)) {#constructor_1}
 
-Initializes new [`PdfFileMend`](../../../aspose.pdf.facades/pdffilemend/) object on base of the .
+Initializes new [`PdfFileMend`](../../../aspose.pdf.facades/pdffilemend/) object on base of the *document*.
 
 ```csharp
 public PdfFileMend(Document document)
@@ -95,7 +95,7 @@ public PdfFileMend(Stream inputStream, Stream outputStream)
 
 > **Deprecated.** Use constructor without destination.
 
-Initializes new [`PdfFileMend`](../../../aspose.pdf.facades/pdffilemend/) object on base of the .
+Initializes new [`PdfFileMend`](../../../aspose.pdf.facades/pdffilemend/) object on base of the *document*.
 
 ```csharp
 public PdfFileMend(Document document, string outputFileName)
@@ -118,7 +118,7 @@ public PdfFileMend(Document document, string outputFileName)
 
 > **Deprecated.** Use constructor without destination.
 
-Initializes new [`PdfFileMend`](../../../aspose.pdf.facades/pdffilemend/) object on base of the .
+Initializes new [`PdfFileMend`](../../../aspose.pdf.facades/pdffilemend/) object on base of the *document*.
 
 ```csharp
 public PdfFileMend(Document document, Stream destStream)

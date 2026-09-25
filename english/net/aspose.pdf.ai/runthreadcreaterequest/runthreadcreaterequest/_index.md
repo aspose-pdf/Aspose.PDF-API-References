@@ -3,7 +3,7 @@ title: "RunThreadCreateRequest.RunThreadCreateRequest"
 linktitle: "RunThreadCreateRequest"
 articleTitle: "RunThreadCreateRequest"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "RunThreadCreateRequest constructor. Initializes a new instance of the RunThreadCreateRequest class."
+description: "RunThreadCreateRequest constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/runthreadcreaterequest/runthreadcreaterequest/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## RunThreadCreateRequest() {#constructor}
 
-Initializes a new instance of the RunThreadCreateRequest class.
+The default constructor.
 
 ```csharp
 public RunThreadCreateRequest()

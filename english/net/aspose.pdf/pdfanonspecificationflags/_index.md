@@ -25,7 +25,7 @@ public class PdfANonSpecificationFlags
 
 | Name | Description |
 | --- | --- |
-| [PdfANonSpecificationFlags](./pdfanonspecificationflags/#constructor) | Initializes a new instance of the PdfANonSpecificationFlags class. |
+| [PdfANonSpecificationFlags](./pdfanonspecificationflags/#constructor) | The default constructor. |
 
 ## Properties
 

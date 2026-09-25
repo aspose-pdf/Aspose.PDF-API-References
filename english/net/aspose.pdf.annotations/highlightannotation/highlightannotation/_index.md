@@ -3,7 +3,7 @@ title: "HighlightAnnotation.HighlightAnnotation"
 linktitle: "HighlightAnnotation"
 articleTitle: "HighlightAnnotation"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "HighlightAnnotation constructor. Initializes a new instance of the HighlightAnnotation class."
+description: "HighlightAnnotation constructor. Creates new Highlight annotation on the specified page."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/highlightannotation/highlightannotation/"

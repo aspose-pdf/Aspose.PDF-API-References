@@ -3,7 +3,7 @@ title: "CharInfoCollection.Count"
 linktitle: "Count"
 articleTitle: "Count"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CharInfoCollection property. Gets the number of object elements actually contained in the collection."
+description: "CharInfoCollection property. Gets the number of CharInfo object elements actually contained in the collection."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/charinfocollection/count/"

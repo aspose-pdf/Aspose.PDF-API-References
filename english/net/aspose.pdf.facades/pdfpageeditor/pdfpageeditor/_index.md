@@ -3,7 +3,7 @@ title: "PdfPageEditor.PdfPageEditor"
 linktitle: "PdfPageEditor"
 articleTitle: "PdfPageEditor"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfPageEditor constructor. Initializes a new instance of the PdfPageEditor class."
+description: "PdfPageEditor constructor. Constructor for PdfPageEditor class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfpageeditor/pdfpageeditor/"

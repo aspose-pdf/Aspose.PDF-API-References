@@ -3,7 +3,7 @@ title: "OpenAIImageDescriptionCopilotOptions.Create"
 linktitle: "Create"
 articleTitle: "Create"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "OpenAIImageDescriptionCopilotOptions method. Creates a new instance of ."
+description: "OpenAIImageDescriptionCopilotOptions method. Creates a new instance of OpenAIImageDescriptionCopilotOptions."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/create/"

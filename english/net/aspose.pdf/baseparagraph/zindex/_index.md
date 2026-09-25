@@ -5,7 +5,7 @@ articleTitle: "ZIndex"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "BaseParagraph property. Gets or sets a int value that indicates the Z-order of the graph. A graph with larger ZIndex will be placed over the graph with small..."
 type: docs
-weight: 110
+weight: 100
 url: "/net/aspose.pdf/baseparagraph/zindex/"
 product_version: "26.9.0"
 ---

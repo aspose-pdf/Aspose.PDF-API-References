@@ -3,7 +3,7 @@ title: "StreamSaveTarget.StreamSaveTarget"
 linktitle: "StreamSaveTarget"
 articleTitle: "StreamSaveTarget"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "StreamSaveTarget constructor. Initializes a new instance of the StreamSaveTarget class."
+description: "StreamSaveTarget constructor. Initializes new stream save target."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/streamsavetarget/streamsavetarget/"

@@ -22,7 +22,7 @@ public class TxtLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [TxtLoadOptions](./txtloadoptions/#constructor) | Initializes a new instance of the TxtLoadOptions class. |
+| [TxtLoadOptions](./txtloadoptions/#constructor) | The default constructor. |
 
 ## Properties
 

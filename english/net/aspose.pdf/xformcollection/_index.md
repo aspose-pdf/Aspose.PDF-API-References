@@ -25,8 +25,8 @@ public sealed class XFormCollection : IEnumerable
 | [Count](./count/) { get; } | Gets count of XForms in collection. |
 | [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether the collection is read-only. |
 | [IsSynchronized](./issynchronized/) { get; } | Returns true if object is synchronized. |
-| [Item](./item/) { get; } |  |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Returns XForm by index. |
+| [Item](./item/) { get; } | Returns XForm by its name. Exception is thrown if XForm with specified name is not found. |
 | [SyncRoot](./syncroot/) { get; } | Synchronization object. |
 
 ## Methods

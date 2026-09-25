@@ -3,7 +3,7 @@ title: "TableAbsorber.Replace"
 linktitle: "Replace"
 articleTitle: "Replace"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TableAbsorber method. Replaces an with on the page."
+description: "TableAbsorber method. Replaces an AbsorbedTable with Table on the page."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/tableabsorber/replace/"

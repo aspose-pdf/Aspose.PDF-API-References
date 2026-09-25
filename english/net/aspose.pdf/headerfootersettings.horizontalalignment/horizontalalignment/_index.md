@@ -3,7 +3,7 @@ title: "HeaderFooterSettings.HorizontalAlignment.HeaderFooterSettings.Horizontal
 linktitle: "HeaderFooterSettings.HorizontalAlignment"
 articleTitle: "HeaderFooterSettings.HorizontalAlignment"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "HorizontalAlignment constructor. Initializes a new instance of the HeaderFooterSettings.HorizontalAlignment class."
+description: "HorizontalAlignment constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/headerfootersettings.horizontalalignment/horizontalalignment/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## HeaderFooterSettings.HorizontalAlignment() {#constructor}
 
-Initializes a new instance of the HeaderFooterSettings.HorizontalAlignment class.
+The default constructor.
 
 ```csharp
 public HeaderFooterSettings.HorizontalAlignment()

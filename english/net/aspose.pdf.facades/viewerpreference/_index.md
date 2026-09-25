@@ -22,7 +22,7 @@ public sealed class ViewerPreference
 
 | Name | Description |
 | --- | --- |
-| [ViewerPreference](./viewerpreference/#constructor) | Initializes a new instance of the ViewerPreference class. |
+| [ViewerPreference](./viewerpreference/#constructor) | The default constructor. |
 
 ## Fields
 

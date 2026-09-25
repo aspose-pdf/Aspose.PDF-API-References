@@ -3,7 +3,7 @@ title: "Page.Annotations"
 linktitle: "Annotations"
 articleTitle: "Annotations"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Page property. Gets collection of page annotations."
+description: "Page property. Gets collection of page annotations. Annotations"
 type: docs
 weight: 500
 url: "/net/aspose.pdf/page/annotations/"

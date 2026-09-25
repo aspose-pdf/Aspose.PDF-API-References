@@ -3,7 +3,7 @@ title: "SystemFontsSubstitution.SystemFontsSubstitution"
 linktitle: "SystemFontsSubstitution"
 articleTitle: "SystemFontsSubstitution"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SystemFontsSubstitution constructor. Initializes a new instance of the SystemFontsSubstitution class."
+description: "SystemFontsSubstitution constructor. Initializes a new instance of SystemFontsSubstitution class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/systemfontssubstitution/systemfontssubstitution/"

@@ -40,24 +40,6 @@ public sealed class TextFragmentState : TextState
 | [HorizontalAlignment](./horizontalalignment/) { get; set; } | Gets or sets horizontal alignment for the text. |
 | [HorizontalScaling](./horizontalscaling/) { get; set; } | Gets or sets horizontal scaling of the text, represented by the [`TextFragment`](../../aspose.pdf.text/textfragment/) object. |
 | [Invisible](./invisible/) { get; set; } | Gets or sets invisibility of the text. |
-| [IsBackgroundColorSet](../../aspose.pdf.text/textstate/isbackgroundcolorset/) { get; set; } | *(Inherited from TextState)* |
-| [IsCharacterSpacingSet](../../aspose.pdf.text/textstate/ischaracterspacingset/) { get; set; } | *(Inherited from TextState)* |
-| [IsFontSet](../../aspose.pdf.text/textstate/isfontset/) { get; set; } | *(Inherited from TextState)* |
-| [IsFontSizeSet](../../aspose.pdf.text/textstate/isfontsizeset/) { get; set; } | *(Inherited from TextState)* |
-| [IsFontStyleSet](../../aspose.pdf.text/textstate/isfontstyleset/) { get; set; } | *(Inherited from TextState)* |
-| [IsForegroundColorSet](../../aspose.pdf.text/textstate/isforegroundcolorset/) { get; set; } | *(Inherited from TextState)* |
-| [IsHorizontalAlignmentSet](../../aspose.pdf.text/textstate/ishorizontalalignmentset/) { get; set; } | *(Inherited from TextState)* |
-| [IsHorizontalScalingSet](../../aspose.pdf.text/textstate/ishorizontalscalingset/) { get; set; } | *(Inherited from TextState)* |
-| [IsInvisibilitySet](../../aspose.pdf.text/textstate/isinvisibilityset/) { get; set; } | *(Inherited from TextState)* |
-| [IsLineSpacingSet](../../aspose.pdf.text/textstate/islinespacingset/) { get; set; } | *(Inherited from TextState)* |
-| [IsRenderingModeSet](../../aspose.pdf.text/textstate/isrenderingmodeset/) { get; set; } | *(Inherited from TextState)* |
-| [IsStrikeOutSet](../../aspose.pdf.text/textstate/isstrikeoutset/) { get; set; } | *(Inherited from TextState)* |
-| [IsStrokingColorSet](../../aspose.pdf.text/textstate/isstrokingcolorset/) { get; set; } | *(Inherited from TextState)* |
-| [IsSubSuperscriptSet](../../aspose.pdf.text/textstate/issubsuperscriptset/) { get; set; } | *(Inherited from TextState)* |
-| [IsTextMatrixSet](../../aspose.pdf.text/textstate/istextmatrixset/) { get; set; } | *(Inherited from TextState)* |
-| [IsUnderlineSet](../../aspose.pdf.text/textstate/isunderlineset/) { get; set; } | *(Inherited from TextState)* |
-| [IsVerticalAlignmentSet](../../aspose.pdf.text/textstate/isverticalalignmentset/) { get; set; } | *(Inherited from TextState)* |
-| [IsWordSpacingSet](../../aspose.pdf.text/textstate/iswordspacingset/) { get; set; } | *(Inherited from TextState)* |
 | [LineSpacing](./linespacing/) { get; set; } | Gets or sets line spacing of the text. |
 | [RenderingMode](./renderingmode/) { get; set; } | Gets or sets rendering mode of the text. |
 | [Rotation](./rotation/) { get; set; } | Gets or sets rotation angle in degrees. |

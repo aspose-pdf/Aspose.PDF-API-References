@@ -5,7 +5,7 @@ articleTitle: "Margin"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "BaseParagraph property. Gets or sets a outer margin for paragraph (for pdf generation)"
 type: docs
-weight: 50
+weight: 40
 url: "/net/aspose.pdf/baseparagraph/margin/"
 product_version: "26.9.0"
 ---

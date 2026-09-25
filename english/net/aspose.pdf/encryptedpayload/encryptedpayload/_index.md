@@ -3,7 +3,7 @@ title: "EncryptedPayload.EncryptedPayload"
 linktitle: "EncryptedPayload"
 articleTitle: "EncryptedPayload"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "EncryptedPayload constructor. Initializes a new instance of the EncryptedPayload class."
+description: "EncryptedPayload constructor. Initialize Encrypted payload instance."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/encryptedpayload/encryptedpayload/"

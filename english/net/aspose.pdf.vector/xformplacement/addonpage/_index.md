@@ -3,7 +3,7 @@ title: "XFormPlacement.AddOnPage"
 linktitle: "AddOnPage"
 articleTitle: "AddOnPage"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "XFormPlacement method. Adds current element on the page. If there are many elements to add better use ."
+description: "XFormPlacement method. Adds current element on the page. If there are many elements to add better use AddGraphics."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.vector/xformplacement/addonpage/"

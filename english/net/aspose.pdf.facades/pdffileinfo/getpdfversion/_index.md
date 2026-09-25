@@ -5,7 +5,7 @@ articleTitle: "GetPdfVersion"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileInfo method. Gets the version info of PDF document."
 type: docs
-weight: 230
+weight: 180
 url: "/net/aspose.pdf.facades/pdffileinfo/getpdfversion/"
 product_version: "26.9.0"
 ---

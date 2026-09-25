@@ -3,7 +3,7 @@ title: "Html.Html"
 linktitle: "Html"
 articleTitle: "Html"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Html constructor. Initializes a new instance of the Html class."
+description: "Html constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/html/html/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## Html() {#constructor}
 
-Initializes a new instance of the Html class.
+The default constructor.
 
 ```csharp
 public Html()

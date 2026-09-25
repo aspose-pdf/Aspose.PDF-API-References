@@ -22,7 +22,7 @@ public class DateComponent
 
 | Name | Description |
 | --- | --- |
-| [DateComponent](./datecomponent/#constructor) | Initializes a new instance of the DateComponent class. |
+| [DateComponent](./datecomponent/#constructor) | The default constructor. |
 
 ## Properties
 

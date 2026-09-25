@@ -3,7 +3,7 @@ title: "TabStop.LeaderType"
 linktitle: "LeaderType"
 articleTitle: "LeaderType"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TabStop property. Gets or sets a enum that indicates the tab leader type."
+description: "TabStop property. Gets or sets a TabLeaderType enum that indicates the tab leader type."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/tabstop/leadertype/"

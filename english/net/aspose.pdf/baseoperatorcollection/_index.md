@@ -18,12 +18,6 @@ Represents base class for operator collection.
 public abstract class BaseOperatorCollection : IEnumerable
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [BaseOperatorCollection](./baseoperatorcollection/#constructor) | Initializes a new instance of the BaseOperatorCollection class. |
-
 ## Properties
 
 | Name | Description |
@@ -31,7 +25,7 @@ public abstract class BaseOperatorCollection : IEnumerable
 | [Count](./count/) { get; } | Gets count of operators in the collection. |
 | [IsFastTextExtractionMode](./isfasttextextractionmode/) { get; } | Indicates wheather collection is limited to fast text extraction. |
 | [IsReadOnly](./isreadonly/) { get; } | Returns true if collection is read only. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets operator by its index. |
 
 ## Methods
 

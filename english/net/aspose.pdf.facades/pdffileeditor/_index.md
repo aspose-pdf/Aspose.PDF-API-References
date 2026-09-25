@@ -22,7 +22,7 @@ public sealed class PdfFileEditor
 
 | Name | Description |
 | --- | --- |
-| [PdfFileEditor](./pdffileeditor/#constructor) | Initializes a new instance of the PdfFileEditor class. |
+| [PdfFileEditor](./pdffileeditor/#constructor) | The default constructor. |
 
 ## Properties
 

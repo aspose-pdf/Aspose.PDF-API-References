@@ -3,7 +3,7 @@ title: "BDCProperties.BDCProperties"
 linktitle: "BDCProperties"
 articleTitle: "BDCProperties"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "BDCProperties constructor. Initializes a new instance of the BDCProperties class."
+description: "BDCProperties constructor. Constructor for properties of BDC operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/bdcproperties/bdcproperties/"

@@ -22,7 +22,7 @@ public class ImageDescriptionResult
 
 | Name | Description |
 | --- | --- |
-| [ImageDescriptionResult](./imagedescriptionresult/#constructor) | Initializes a new instance of the ImageDescriptionResult class. |
+| [ImageDescriptionResult](./imagedescriptionresult/#constructor) | The default constructor. |
 
 ## Properties
 

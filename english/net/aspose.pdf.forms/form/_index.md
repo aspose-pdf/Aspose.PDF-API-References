@@ -33,8 +33,8 @@ public sealed class Form : IEnumerable
 | [HasXfa](./hasxfa/) { get; } | Gets a value indicating whether the document contains XFA form. |
 | [IgnoreNeedsRendering](./ignoreneedsrendering/) { get; set; } | If this property is true the value of NeedsRendering key will be ignored during conversion. |
 | [IsSynchronized](./issynchronized/) { get; } | Returns true if object is thread-safe. |
-| [Item](./item/) { get; } |  |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets field of the form by field name. Throws excpetion if the field was not found. |
+| [Item](./item/) { get; } | Gets field of the form by field index. |
 | [NeedsRendering](./needsrendering/) { get; } | Gets a value indicating whether the document requires the removal of the dynamic XFA form. |
 | [RemovePermission](./removepermission/) { get; set; } | If this property is true the "Perms" dictionary will be removed from the pdf document after conversion. |
 | [SignaturesAppendOnly](./signaturesappendonly/) { get; set; } | If set, the document contains signatures that may be invalidated if the file is saved (written) in a way that alters its previous contents,. |

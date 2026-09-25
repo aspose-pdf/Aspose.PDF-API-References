@@ -22,7 +22,7 @@ public sealed class AutoTaggingSettings
 
 | Name | Description |
 | --- | --- |
-| [AutoTaggingSettings](./autotaggingsettings/#constructor) | Initializes a new instance of the AutoTaggingSettings class. |
+| [AutoTaggingSettings](./autotaggingsettings/#constructor) | The default constructor. |
 
 ## Properties
 

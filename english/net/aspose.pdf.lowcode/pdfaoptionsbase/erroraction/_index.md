@@ -5,7 +5,7 @@ articleTitle: "ErrorAction"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfAOptionsBase property. Gets or sets the action to be taken for objects that cannot be converted."
 type: docs
-weight: 70
+weight: 60
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/erroraction/"
 product_version: "26.9.0"
 ---

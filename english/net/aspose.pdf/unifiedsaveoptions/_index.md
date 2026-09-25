@@ -23,7 +23,7 @@ public class UnifiedSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [UnifiedSaveOptions](./unifiedsaveoptions/#constructor) | Initializes a new instance of the UnifiedSaveOptions class. |
+| [UnifiedSaveOptions](./unifiedsaveoptions/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -22,7 +22,7 @@ public class FileCounts
 
 | Name | Description |
 | --- | --- |
-| [FileCounts](./filecounts/#constructor) | Initializes a new instance of the FileCounts class. |
+| [FileCounts](./filecounts/#constructor) | The default constructor. |
 
 ## Properties
 

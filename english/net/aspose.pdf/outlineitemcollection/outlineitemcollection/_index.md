@@ -3,7 +3,7 @@ title: "OutlineItemCollection.OutlineItemCollection"
 linktitle: "OutlineItemCollection"
 articleTitle: "OutlineItemCollection"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "OutlineItemCollection constructor. Initializes a new instance of the OutlineItemCollection class."
+description: "OutlineItemCollection constructor. Initializes outline item instance using root hierarchy object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/outlineitemcollection/outlineitemcollection/"

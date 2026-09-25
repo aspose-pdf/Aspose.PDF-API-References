@@ -5,7 +5,7 @@ articleTitle: "SuppressUpdate"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "BaseOperatorCollection method. Suppresses update contents data. The contents stream is not updated until ResumeUpdate is called."
 type: docs
-weight: 40
+weight: 30
 url: "/net/aspose.pdf/baseoperatorcollection/suppressupdate/"
 product_version: "26.9.0"
 ---

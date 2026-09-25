@@ -3,7 +3,7 @@ title: "FormDataConverter.FormDataConverter"
 linktitle: "FormDataConverter"
 articleTitle: "FormDataConverter"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FormDataConverter constructor. Initializes a new instance of the FormDataConverter class."
+description: "FormDataConverter constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/formdataconverter/formdataconverter/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## FormDataConverter() {#constructor}
 
-Initializes a new instance of the FormDataConverter class.
+The default constructor.
 
 ```csharp
 public FormDataConverter()

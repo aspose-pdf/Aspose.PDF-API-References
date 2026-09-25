@@ -22,7 +22,7 @@ public sealed class PageIndex
 
 | Name | Description |
 | --- | --- |
-| [PageNumber.PageIndex](./pageindex/#constructor) | Initializes a new instance of the PageNumber.PageIndex class. |
+| [PageNumber.PageIndex](./pageindex/#constructor) | The default constructor. |
 
 ### See Also
 

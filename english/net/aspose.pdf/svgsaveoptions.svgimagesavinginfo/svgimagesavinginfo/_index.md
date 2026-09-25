@@ -3,7 +3,7 @@ title: "SvgSaveOptions.SvgImageSavingInfo.SvgSaveOptions.SvgImageSavingInfo"
 linktitle: "SvgSaveOptions.SvgImageSavingInfo"
 articleTitle: "SvgSaveOptions.SvgImageSavingInfo"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SvgImageSavingInfo constructor. Initializes a new instance of the SvgSaveOptions.SvgImageSavingInfo class."
+description: "SvgImageSavingInfo constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/svgsaveoptions.svgimagesavinginfo/svgimagesavinginfo/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## SvgSaveOptions.SvgImageSavingInfo() {#constructor}
 
-Initializes a new instance of the SvgSaveOptions.SvgImageSavingInfo class.
+The default constructor.
 
 ```csharp
 public SvgSaveOptions.SvgImageSavingInfo()

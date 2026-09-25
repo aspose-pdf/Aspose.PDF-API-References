@@ -3,7 +3,7 @@ title: "MovieAnnotation.MovieAnnotation"
 linktitle: "MovieAnnotation"
 articleTitle: "MovieAnnotation"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "MovieAnnotation constructor. Initializes a new instance of the MovieAnnotation class."
+description: "MovieAnnotation constructor. Constructor for using with Generator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/movieannotation/movieannotation/"

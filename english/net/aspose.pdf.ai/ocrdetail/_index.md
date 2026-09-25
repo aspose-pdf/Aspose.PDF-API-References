@@ -22,7 +22,7 @@ public class OcrDetail
 
 | Name | Description |
 | --- | --- |
-| [OcrDetail](./ocrdetail/#constructor) | Initializes a new instance of the OcrDetail class. |
+| [OcrDetail](./ocrdetail/#constructor) | The default constructor. |
 
 ## Properties
 

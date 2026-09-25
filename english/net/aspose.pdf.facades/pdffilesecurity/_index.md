@@ -23,11 +23,11 @@ public sealed class PdfFileSecurity : SaveableFacade, IDisposable
 | Name | Description |
 | --- | --- |
 | [PdfFileSecurity](./pdffilesecurity/#constructor) | Initialize the object of PdfFileSecurity. |
-| [PdfFileSecurity](./pdffilesecurity/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfFileSecurity`](../../aspose.pdf.facades/pdffilesecurity/) object on base of the . |
+| [PdfFileSecurity](./pdffilesecurity/#constructor_1)(*[Document](../../aspose.pdf/document/)*) | Initializes new [`PdfFileSecurity`](../../aspose.pdf.facades/pdffilesecurity/) object on base of the *document*. |
 | [PdfFileSecurity](./pdffilesecurity/#constructor_2)(*Stream, Stream*) | Initialize the object of PdfFileSecurity with input and output stream. |
 | [PdfFileSecurity](./pdffilesecurity/#constructor_3)(*string, string*) | Initializes the object of PdfFileSecurity with input and output file. |
-| [PdfFileSecurity](./pdffilesecurity/#constructor_4)(*[Document](../../aspose.pdf/document/), string*) | Initializes new [`PdfFileSecurity`](../../aspose.pdf.facades/pdffilesecurity/) object on base of the . |
-| [PdfFileSecurity](./pdffilesecurity/#constructor_5)(*[Document](../../aspose.pdf/document/), Stream*) | Initializes new [`PdfFileSecurity`](../../aspose.pdf.facades/pdffilesecurity/) object on base of the . |
+| [PdfFileSecurity](./pdffilesecurity/#constructor_4)(*[Document](../../aspose.pdf/document/), string*) | Initializes new [`PdfFileSecurity`](../../aspose.pdf.facades/pdffilesecurity/) object on base of the *document*. |
+| [PdfFileSecurity](./pdffilesecurity/#constructor_5)(*[Document](../../aspose.pdf/document/), Stream*) | Initializes new [`PdfFileSecurity`](../../aspose.pdf.facades/pdffilesecurity/) object on base of the *document*. |
 
 ## Properties
 
@@ -45,11 +45,8 @@ public sealed class PdfFileSecurity : SaveableFacade, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [AssertDocument](../../aspose.pdf.facades/facade/assertdocument/) | Asserts if the facade is initialized. *(Inherited from Facade)* |
 | [BindPdf](./bindpdf/)(*string*) | Initializes the facade. |
 | [BindPdf](./bindpdf/)(*Stream*) | Initializes the facade. |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string*) | Initializes the facade. *(Inherited from Facade)* |
-| [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(*string, string, ICustomSecurityHandler*) | Initializes the facade. *(Inherited from Facade)* |
 | [ChangePassword](./changepassword/)(*string, string, string*) | Changes the user password and owner password by owner password, keeps the original security settings. |
 | [ChangePassword](./changepassword/)(*string, string, string, DocumentPrivilege, KeySize*) | Changes the user password and password by owner password, allows to reset Pdf documnent security. |
 | [ChangePassword](./changepassword/)(*string, string, string, DocumentPrivilege, KeySize, Algorithm*) | Changes the user password and password by owner password, allows to reset Pdf documnent security. |

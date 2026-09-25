@@ -5,7 +5,7 @@ articleTitle: "Popup"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "MarkupAnnotation property. Pop-up annotation for entering or editing the text associated with this annotation."
 type: docs
-weight: 170
+weight: 120
 url: "/net/aspose.pdf.annotations/markupannotation/popup/"
 product_version: "26.9.0"
 ---

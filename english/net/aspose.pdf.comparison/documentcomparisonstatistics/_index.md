@@ -22,7 +22,7 @@ public class DocumentComparisonStatistics : TextItemComparisonStatistics
 
 | Name | Description |
 | --- | --- |
-| [DocumentComparisonStatistics](./documentcomparisonstatistics/#constructor) | Initializes a new instance of the DocumentComparisonStatistics class. |
+| [DocumentComparisonStatistics](./documentcomparisonstatistics/#constructor) | The default constructor. |
 
 ## Properties
 

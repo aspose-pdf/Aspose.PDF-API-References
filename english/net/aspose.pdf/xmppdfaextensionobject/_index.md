@@ -18,12 +18,6 @@ Represents the base class for field, property, value type instances.
 public abstract class XmpPdfAExtensionObject
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [XmpPdfAExtensionObject](./xmppdfaextensionobject/#constructor)(*string, string*) | Initializes new object. |
-
 ## Properties
 
 | Name | Description |

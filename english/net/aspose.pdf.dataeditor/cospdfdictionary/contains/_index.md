@@ -3,7 +3,7 @@ title: "CosPdfDictionary.Contains"
 linktitle: "Contains"
 articleTitle: "Contains"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CosPdfDictionary method. Determines whether the contains a specific value."
+description: "CosPdfDictionary method. Determines whether the CosPdfDictionary contains a specific value."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/contains/"

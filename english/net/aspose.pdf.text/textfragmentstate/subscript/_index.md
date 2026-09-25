@@ -3,7 +3,7 @@ title: "TextFragmentState.Subscript"
 linktitle: "Subscript"
 articleTitle: "Subscript"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextFragmentState property. Gets or sets subscript of the text, represented by the object."
+description: "TextFragmentState property. Gets or sets subscript of the text, represented by the TextFragment object."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.text/textfragmentstate/subscript/"

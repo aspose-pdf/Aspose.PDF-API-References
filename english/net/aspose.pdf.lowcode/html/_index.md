@@ -3,7 +3,7 @@ title: "Html Class"
 linktitle: "Html"
 articleTitle: "Html"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.Html class. Represents plugin."
+description: "Aspose.Pdf.LowCode.Html class. Represents Html plugin."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.lowcode/html/"
@@ -22,7 +22,7 @@ public sealed class Html : IPlugin, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Html](./html/#constructor) | Initializes a new instance of the Html class. |
+| [Html](./html/#constructor) | The default constructor. |
 
 ## Methods
 

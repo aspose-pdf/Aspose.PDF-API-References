@@ -5,7 +5,7 @@ articleTitle: "Detail"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "BaseResponse property. Gets or sets the response detail."
 type: docs
-weight: 60
+weight: 50
 url: "/net/aspose.pdf.ai/baseresponse/detail/"
 product_version: "26.9.0"
 ---

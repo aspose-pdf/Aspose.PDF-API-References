@@ -3,7 +3,7 @@ title: "PdfToXlsOptions.PdfToXlsOptions"
 linktitle: "PdfToXlsOptions"
 articleTitle: "PdfToXlsOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfToXlsOptions constructor. Initializes a new instance of the PdfToXlsOptions class."
+description: "PdfToXlsOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/pdftoxlsoptions/pdftoxlsoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## PdfToXlsOptions() {#constructor}
 
-Initializes a new instance of the PdfToXlsOptions class.
+The default constructor.
 
 ```csharp
 public PdfToXlsOptions()

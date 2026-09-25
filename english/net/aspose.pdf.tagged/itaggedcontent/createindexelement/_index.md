@@ -3,7 +3,7 @@ title: "ITaggedContent.CreateIndexElement"
 linktitle: "CreateIndexElement"
 articleTitle: "CreateIndexElement"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ITaggedContent method. Creates ."
+description: "ITaggedContent method. Creates IndexElement."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.tagged/itaggedcontent/createindexelement/"

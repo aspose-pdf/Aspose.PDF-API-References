@@ -3,7 +3,7 @@ title: "EOFill Class"
 linktitle: "EOFill"
 articleTitle: "EOFill"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.Operators.EOFill class. Class representing f* operator (fill path using even-odd rule)."
+description: "Aspose.Pdf.Operators.EOFill class. Class representing f operator (fill path using even-odd rule)."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.operators/eofill/"

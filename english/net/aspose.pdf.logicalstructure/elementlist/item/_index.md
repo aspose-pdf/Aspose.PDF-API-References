@@ -25,7 +25,7 @@ public Element Item(int index)
 
 [Element](../../../aspose.pdf.structure/element/)
 
-The [`Element`](../../../aspose.pdf.structure/element/) with the specified index in the collection. If is greater than or equal to the number of elements in the list, this returns null.
+The [`Element`](../../../aspose.pdf.structure/element/) with the specified index in the collection. If *index* is greater than or equal to the number of elements in the list, this returns null.
 
 ### See Also
 

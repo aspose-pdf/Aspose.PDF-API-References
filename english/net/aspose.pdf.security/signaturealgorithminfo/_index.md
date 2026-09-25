@@ -19,12 +19,6 @@ Represents a class for information about a signature algorithm, including its ty
 public abstract class SignatureAlgorithmInfo
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [SignatureAlgorithmInfo](./signaturealgorithminfo/#constructor)(*[CryptographicStandard](../../aspose.pdf.security/cryptographicstandard/), [DigestHashAlgorithm](../../aspose.pdf/digesthashalgorithm/), [SignatureAlgorithmType](../../aspose.pdf.security/signaturealgorithmtype/)*) | Creates an instance of [`SignatureAlgorithmInfo`](../../aspose.pdf.security/signaturealgorithminfo/). |
-
 ## Properties
 
 | Name | Description |
@@ -35,7 +29,6 @@ public abstract class SignatureAlgorithmInfo
 
 | Name | Description |
 | --- | --- |
-| [FillText](./filltext/) | Fills string builder instance. |
 | [ToString](./tostring/) | Converts the current information object to its string representation. |
 
 ## Fields

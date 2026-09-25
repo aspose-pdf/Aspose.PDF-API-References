@@ -3,7 +3,7 @@ title: "OcrTextAbsorber.OcrTextAbsorber"
 linktitle: "OcrTextAbsorber"
 articleTitle: "OcrTextAbsorber"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "OcrTextAbsorber constructor. Initializes a new instance of the OcrTextAbsorber class."
+description: "OcrTextAbsorber constructor. Initializes a new instance with default options."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ocr/ocrtextabsorber/ocrtextabsorber/"
@@ -41,7 +41,7 @@ public OcrTextAbsorber(OcrTextRecognitionOptions options)
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | Thrown when is <see langword="null" />. |
+| ArgumentNullException | Thrown when *options* is <see langword="null" />. |
 
 ### See Also
 

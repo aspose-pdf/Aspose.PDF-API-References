@@ -18,12 +18,6 @@ Represents base pattern class.
 public abstract class PatternColorSpace
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [PatternColorSpace](./patterncolorspace/#constructor) | Initializes a new instance of the PatternColorSpace class. |
-
 ### See Also
 
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)

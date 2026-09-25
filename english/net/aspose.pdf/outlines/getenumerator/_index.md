@@ -5,7 +5,7 @@ articleTitle: "GetEnumerator"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Outlines method. Returns an enumerator that iterates through the collection."
 type: docs
-weight: 60
+weight: 50
 url: "/net/aspose.pdf/outlines/getenumerator/"
 product_version: "26.9.0"
 ---

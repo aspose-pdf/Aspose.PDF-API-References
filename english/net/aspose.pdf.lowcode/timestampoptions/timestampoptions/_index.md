@@ -3,7 +3,7 @@ title: "TimestampOptions.TimestampOptions"
 linktitle: "TimestampOptions"
 articleTitle: "TimestampOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TimestampOptions constructor. Initializes a new instance of the TimestampOptions class."
+description: "TimestampOptions constructor. Creates a new instance with a PFX file path and password."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/timestampoptions/timestampoptions/"

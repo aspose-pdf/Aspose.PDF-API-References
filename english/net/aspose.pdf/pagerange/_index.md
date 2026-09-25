@@ -22,7 +22,7 @@ public sealed class PageRange
 
 | Name | Description |
 | --- | --- |
-| [PageRange](./pagerange/#constructor) | Initializes a new instance of the PageRange class. |
+| [PageRange](./pagerange/#constructor) | The default constructor. |
 
 ## Properties
 

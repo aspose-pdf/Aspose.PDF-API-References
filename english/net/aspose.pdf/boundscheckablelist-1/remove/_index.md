@@ -25,7 +25,7 @@ public bool Remove(T0 item)
 
 bool
 
-true if item is successfully removed; otherwise, false. This method also returns false if item was not found in the System.Collections.Generic.List.
+true if *item*item is successfully removed; otherwise, false. This method also returns false if *item*item was not found in the System.Collections.Generic.List.
 
 ### See Also
 

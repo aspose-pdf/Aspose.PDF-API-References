@@ -22,7 +22,7 @@ public sealed class Png : PdfToImage
 
 | Name | Description |
 | --- | --- |
-| [Png](./png/#constructor) | Initializes a new instance of the Png class. |
+| [Png](./png/#constructor) | The default constructor. |
 
 ## Methods
 

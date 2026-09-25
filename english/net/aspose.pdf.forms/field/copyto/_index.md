@@ -5,7 +5,7 @@ articleTitle: "CopyTo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Field method. Copies subfields of this field into array starting from specified index."
 type: docs
-weight: 50
+weight: 30
 url: "/net/aspose.pdf.forms/field/copyto/"
 product_version: "26.9.0"
 ---

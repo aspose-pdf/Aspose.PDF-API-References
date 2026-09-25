@@ -22,7 +22,7 @@ public class InterruptMonitor : IInterruptMonitor, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [InterruptMonitor](./interruptmonitor/#constructor) | Initializes a new instance of the InterruptMonitor class. |
+| [InterruptMonitor](./interruptmonitor/#constructor) | The default constructor. |
 
 ## Properties
 

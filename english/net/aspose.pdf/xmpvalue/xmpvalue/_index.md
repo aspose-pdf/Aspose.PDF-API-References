@@ -3,7 +3,7 @@ title: "XmpValue.XmpValue"
 linktitle: "XmpValue"
 articleTitle: "XmpValue"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "XmpValue constructor. Initializes a new instance of the XmpValue class."
+description: "XmpValue constructor. Constructor for string value."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xmpvalue/xmpvalue/"

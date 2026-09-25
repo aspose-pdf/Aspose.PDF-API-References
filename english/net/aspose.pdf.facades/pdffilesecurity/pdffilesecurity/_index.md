@@ -3,7 +3,7 @@ title: "PdfFileSecurity.PdfFileSecurity"
 linktitle: "PdfFileSecurity"
 articleTitle: "PdfFileSecurity"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfFileSecurity constructor. Initializes a new instance of the PdfFileSecurity class."
+description: "PdfFileSecurity constructor. Initialize the object of PdfFileSecurity with input and output stream."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffilesecurity/pdffilesecurity/"
@@ -27,7 +27,7 @@ public PdfFileSecurity()
 
 ## PdfFileSecurity([Document](../../../aspose.pdf/document/)) {#constructor_1}
 
-Initializes new [`PdfFileSecurity`](../../../aspose.pdf.facades/pdffilesecurity/) object on base of the .
+Initializes new [`PdfFileSecurity`](../../../aspose.pdf.facades/pdffilesecurity/) object on base of the *document*.
 
 ```csharp
 public PdfFileSecurity(Document document)
@@ -95,7 +95,7 @@ public PdfFileSecurity(string inputFile, string outputFile)
 
 > **Deprecated.** Use constructor without destination.
 
-Initializes new [`PdfFileSecurity`](../../../aspose.pdf.facades/pdffilesecurity/) object on base of the .
+Initializes new [`PdfFileSecurity`](../../../aspose.pdf.facades/pdffilesecurity/) object on base of the *document*.
 
 ```csharp
 public PdfFileSecurity(Document document, string outputFile)
@@ -118,7 +118,7 @@ public PdfFileSecurity(Document document, string outputFile)
 
 > **Deprecated.** Use constructor without destination.
 
-Initializes new [`PdfFileSecurity`](../../../aspose.pdf.facades/pdffilesecurity/) object on base of the .
+Initializes new [`PdfFileSecurity`](../../../aspose.pdf.facades/pdffilesecurity/) object on base of the *document*.
 
 ```csharp
 public PdfFileSecurity(Document document, Stream outputStream)

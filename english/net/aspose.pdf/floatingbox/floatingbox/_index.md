@@ -3,7 +3,7 @@ title: "FloatingBox.FloatingBox"
 linktitle: "FloatingBox"
 articleTitle: "FloatingBox"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FloatingBox constructor. Initializes a new instance of the FloatingBox class."
+description: "FloatingBox constructor. Initializes a new instance of the FloatingBox class with specified width and height."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/floatingbox/floatingbox/"

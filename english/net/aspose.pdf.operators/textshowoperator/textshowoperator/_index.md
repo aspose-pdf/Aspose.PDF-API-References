@@ -3,7 +3,7 @@ title: "TextShowOperator.TextShowOperator"
 linktitle: "TextShowOperator"
 articleTitle: "TextShowOperator"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextShowOperator constructor. Initializes a new instance of the TextShowOperator class."
+description: "TextShowOperator constructor. Initializes TextShowOperator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/textshowoperator/textshowoperator/"

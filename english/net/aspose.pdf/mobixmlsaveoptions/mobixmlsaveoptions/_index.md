@@ -3,7 +3,7 @@ title: "MobiXmlSaveOptions.MobiXmlSaveOptions"
 linktitle: "MobiXmlSaveOptions"
 articleTitle: "MobiXmlSaveOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "MobiXmlSaveOptions constructor. Initializes a new instance of the MobiXmlSaveOptions class."
+description: "MobiXmlSaveOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/mobixmlsaveoptions/mobixmlsaveoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## MobiXmlSaveOptions() {#constructor}
 
-Initializes a new instance of the MobiXmlSaveOptions class.
+The default constructor.
 
 ```csharp
 public MobiXmlSaveOptions()

@@ -5,7 +5,7 @@ articleTitle: "Redact"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "RedactionAnnotation method. Flattens annotation and redacts page contents (i.e. removes text and image under redacted annotation)"
 type: docs
-weight: 70
+weight: 50
 url: "/net/aspose.pdf.annotations/redactionannotation/redact/"
 product_version: "26.9.0"
 ---

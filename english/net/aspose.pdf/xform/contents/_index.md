@@ -5,7 +5,7 @@ articleTitle: "Contents"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "XForm property. Gets operators of the form."
 type: docs
-weight: 110
+weight: 100
 url: "/net/aspose.pdf/xform/contents/"
 product_version: "26.9.0"
 ---

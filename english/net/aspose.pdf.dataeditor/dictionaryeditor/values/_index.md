@@ -3,7 +3,7 @@ title: "DictionaryEditor.Values"
 linktitle: "Values"
 articleTitle: "Values"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "DictionaryEditor property. Gets an containing the values in the ."
+description: "DictionaryEditor property. Gets an ICollection containing the values in the DictionaryEditor."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/values/"

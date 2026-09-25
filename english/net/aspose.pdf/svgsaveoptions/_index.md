@@ -22,7 +22,7 @@ public class SvgSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [SvgSaveOptions](./svgsaveoptions/#constructor) | Initializes a new instance of the SvgSaveOptions class. |
+| [SvgSaveOptions](./svgsaveoptions/#constructor) | The default constructor. |
 
 ## Properties
 

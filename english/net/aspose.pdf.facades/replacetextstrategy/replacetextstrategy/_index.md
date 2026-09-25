@@ -3,7 +3,7 @@ title: "ReplaceTextStrategy.ReplaceTextStrategy"
 linktitle: "ReplaceTextStrategy"
 articleTitle: "ReplaceTextStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ReplaceTextStrategy constructor. Initializes a new instance of the ReplaceTextStrategy class."
+description: "ReplaceTextStrategy constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/replacetextstrategy/replacetextstrategy/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## ReplaceTextStrategy() {#constructor}
 
-Initializes a new instance of the ReplaceTextStrategy class.
+The default constructor.
 
 ```csharp
 public ReplaceTextStrategy()

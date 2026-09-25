@@ -22,7 +22,7 @@ public sealed class Tiff : PdfToImage
 
 | Name | Description |
 | --- | --- |
-| [Tiff](./tiff/#constructor) | Initializes a new instance of the Tiff class. |
+| [Tiff](./tiff/#constructor) | The default constructor. |
 
 ## Methods
 

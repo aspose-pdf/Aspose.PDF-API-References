@@ -27,7 +27,7 @@ public interface IImageDescriptionCopilotOptions<TOptions><TOptions>
 
 | Name | Description |
 | --- | --- |
-| [GetOptions](./getoptions/)() | Gets the options of type . |
+| [GetOptions](./getoptions/)() | Gets the options of type *TOptions*. |
 
 ### See Also
 

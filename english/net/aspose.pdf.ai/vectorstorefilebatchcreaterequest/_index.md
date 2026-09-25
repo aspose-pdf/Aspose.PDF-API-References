@@ -22,7 +22,7 @@ public class VectorStoreFileBatchCreateRequest
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreFileBatchCreateRequest](./vectorstorefilebatchcreaterequest/#constructor) | Initializes a new instance of the VectorStoreFileBatchCreateRequest class. |
+| [VectorStoreFileBatchCreateRequest](./vectorstorefilebatchcreaterequest/#constructor) | The default constructor. |
 
 ## Properties
 

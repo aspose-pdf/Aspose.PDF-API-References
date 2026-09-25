@@ -3,7 +3,7 @@ title: "HtmlToPdfOptions Class"
 linktitle: "HtmlToPdfOptions"
 articleTitle: "HtmlToPdfOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.HtmlToPdfOptions class. Represents HTML to PDF converter options for plugin."
+description: "Aspose.Pdf.LowCode.HtmlToPdfOptions class. Represents HTML to PDF converter options for Html plugin."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.lowcode/htmltopdfoptions/"
@@ -22,7 +22,7 @@ public sealed class HtmlToPdfOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [HtmlToPdfOptions](./htmltopdfoptions/#constructor) | Initializes a new instance of the HtmlToPdfOptions class. |
+| [HtmlToPdfOptions](./htmltopdfoptions/#constructor) | The default constructor. |
 
 ## Properties
 

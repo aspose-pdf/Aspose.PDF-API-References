@@ -3,7 +3,7 @@ title: "PdfAConverter.PdfAConverter"
 linktitle: "PdfAConverter"
 articleTitle: "PdfAConverter"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfAConverter constructor. Initializes a new instance of the PdfAConverter class."
+description: "PdfAConverter constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/pdfaconverter/pdfaconverter/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## PdfAConverter() {#constructor}
 
-Initializes a new instance of the PdfAConverter class.
+The default constructor.
 
 ```csharp
 public PdfAConverter()

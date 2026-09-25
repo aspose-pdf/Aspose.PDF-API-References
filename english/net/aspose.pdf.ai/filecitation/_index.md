@@ -22,7 +22,7 @@ public class FileCitation
 
 | Name | Description |
 | --- | --- |
-| [FileCitation](./filecitation/#constructor) | Initializes a new instance of the FileCitation class. |
+| [FileCitation](./filecitation/#constructor) | The default constructor. |
 
 ## Properties
 

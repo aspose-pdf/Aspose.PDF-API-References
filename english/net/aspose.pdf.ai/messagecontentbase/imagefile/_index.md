@@ -5,7 +5,7 @@ articleTitle: "ImageFile"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "MessageContentBase property. Gets or sets an image File in the content of a message."
 type: docs
-weight: 30
+weight: 20
 url: "/net/aspose.pdf.ai/messagecontentbase/imagefile/"
 product_version: "26.9.0"
 ---

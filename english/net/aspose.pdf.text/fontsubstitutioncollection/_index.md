@@ -24,7 +24,7 @@ public sealed class FontSubstitutionCollection : IEnumerable
 | --- | --- |
 | [Count](./count/) { get; } | Gets the number of [`Font`](../../aspose.pdf.text/font/) object elements actually contained in the collection. |
 | [IsSynchronized](./issynchronized/) { get; } | Gets a value indicating whether access to the collection is synchronized (thread safe). |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets the font element at the specified index. |
 | [SyncRoot](./syncroot/) { get; } | Gets an object that can be used to synchronize access to the collection. |
 
 ## Methods

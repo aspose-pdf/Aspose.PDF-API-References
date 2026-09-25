@@ -22,7 +22,7 @@ public class TeXSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [TeXSaveOptions](./texsaveoptions/#constructor) | Initializes a new instance of the TeXSaveOptions class. |
+| [TeXSaveOptions](./texsaveoptions/#constructor) | The default constructor. |
 
 ## Properties
 

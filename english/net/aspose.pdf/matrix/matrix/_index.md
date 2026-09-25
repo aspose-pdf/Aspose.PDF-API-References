@@ -3,7 +3,7 @@ title: "Matrix.Matrix"
 linktitle: "Matrix"
 articleTitle: "Matrix"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Matrix constructor. Initializes a new instance of the Matrix class."
+description: "Matrix constructor. Constructor creates stanrard 1 to 1 matrix: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0]"
 type: docs
 weight: 10
 url: "/net/aspose.pdf/matrix/matrix/"

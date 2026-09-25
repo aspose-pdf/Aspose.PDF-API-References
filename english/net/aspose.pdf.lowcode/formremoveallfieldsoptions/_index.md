@@ -3,7 +3,7 @@ title: "FormRemoveAllFieldsOptions Class"
 linktitle: "FormRemoveAllFieldsOptions"
 articleTitle: "FormRemoveAllFieldsOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.LowCode.FormRemoveAllFieldsOptions class. Represents options for remove all fields in document by plugin."
+description: "Aspose.Pdf.LowCode.FormRemoveAllFieldsOptions class. Represents options for remove all fields in document by FormEditor plugin."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.lowcode/formremoveallfieldsoptions/"
@@ -22,7 +22,7 @@ public sealed class FormRemoveAllFieldsOptions : FormEditorRemoveOptions
 
 | Name | Description |
 | --- | --- |
-| [FormRemoveAllFieldsOptions](./formremoveallfieldsoptions/#constructor) | Initializes a new instance of the FormRemoveAllFieldsOptions class. |
+| [FormRemoveAllFieldsOptions](./formremoveallfieldsoptions/#constructor) | The default constructor. |
 
 ## Properties
 

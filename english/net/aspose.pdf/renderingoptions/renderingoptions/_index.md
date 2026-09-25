@@ -3,7 +3,7 @@ title: "RenderingOptions.RenderingOptions"
 linktitle: "RenderingOptions"
 articleTitle: "RenderingOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "RenderingOptions constructor. Initializes a new instance of the RenderingOptions class."
+description: "RenderingOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/renderingoptions/renderingoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## RenderingOptions() {#constructor}
 
-Initializes a new instance of the RenderingOptions class.
+The default constructor.
 
 ```csharp
 public RenderingOptions()

@@ -3,7 +3,7 @@ title: "IOcrClient<TOptions>.GetOcrCopilot"
 linktitle: "GetOcrCopilot"
 articleTitle: "GetOcrCopilot"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "IOcrClient method. Gets an instance of with the specified options."
+description: "IOcrClient method. Gets an instance of IOcrCopilot with the specified options."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/iocrclient-1/getocrcopilot/"

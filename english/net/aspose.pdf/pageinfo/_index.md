@@ -22,7 +22,7 @@ public sealed class PageInfo : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [PageInfo](./pageinfo/#constructor) | Initializes a new instance of the PageInfo class. |
+| [PageInfo](./pageinfo/#constructor) | The default constructor. |
 
 ## Properties
 

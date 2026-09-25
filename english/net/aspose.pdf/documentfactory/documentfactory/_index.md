@@ -3,7 +3,7 @@ title: "DocumentFactory.DocumentFactory"
 linktitle: "DocumentFactory"
 articleTitle: "DocumentFactory"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "DocumentFactory constructor. Initializes a new instance of the DocumentFactory class."
+description: "DocumentFactory constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/documentfactory/documentfactory/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## DocumentFactory() {#constructor}
 
-Initializes a new instance of the DocumentFactory class.
+The default constructor.
 
 ```csharp
 public DocumentFactory()

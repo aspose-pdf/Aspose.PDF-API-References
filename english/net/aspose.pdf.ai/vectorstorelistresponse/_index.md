@@ -22,7 +22,7 @@ public class VectorStoreListResponse
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreListResponse](./vectorstorelistresponse/#constructor) | Initializes a new instance of the VectorStoreListResponse class. |
+| [VectorStoreListResponse](./vectorstorelistresponse/#constructor) | The default constructor. |
 
 ### See Also
 

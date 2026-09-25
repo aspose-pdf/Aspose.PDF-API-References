@@ -5,7 +5,7 @@ articleTitle: "ErrorMessage"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "BaseResponse property. Gets or sets the error information."
 type: docs
-weight: 20
+weight: 10
 url: "/net/aspose.pdf.ai/baseresponse/errormessage/"
 product_version: "26.9.0"
 ---

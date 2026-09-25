@@ -3,7 +3,7 @@ title: "HtmlSaveOptions.DocumentType"
 linktitle: "DocumentType"
 articleTitle: "DocumentType"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "HtmlSaveOptions property. Gets or sets the ."
+description: "HtmlSaveOptions property. Gets or sets the HtmlDocumentType."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/htmlsaveoptions/documenttype/"

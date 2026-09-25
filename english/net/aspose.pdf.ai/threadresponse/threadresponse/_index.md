@@ -3,7 +3,7 @@ title: "ThreadResponse.ThreadResponse"
 linktitle: "ThreadResponse"
 articleTitle: "ThreadResponse"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ThreadResponse constructor. Initializes a new instance of the ThreadResponse class."
+description: "ThreadResponse constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/threadresponse/threadresponse/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## ThreadResponse() {#constructor}
 
-Initializes a new instance of the ThreadResponse class.
+The default constructor.
 
 ```csharp
 public ThreadResponse()

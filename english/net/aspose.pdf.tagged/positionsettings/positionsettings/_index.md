@@ -3,7 +3,7 @@ title: "PositionSettings.PositionSettings"
 linktitle: "PositionSettings"
 articleTitle: "PositionSettings"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PositionSettings constructor. Initializes a new instance of the PositionSettings class."
+description: "PositionSettings constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.tagged/positionsettings/positionsettings/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## PositionSettings() {#constructor}
 
-Initializes a new instance of the PositionSettings class.
+The default constructor.
 
 ```csharp
 public PositionSettings()

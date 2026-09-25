@@ -22,7 +22,7 @@ public class MarkdownSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [MarkdownSaveOptions](./markdownsaveoptions/#constructor) | Initializes a new instance of the MarkdownSaveOptions class. |
+| [MarkdownSaveOptions](./markdownsaveoptions/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -28,7 +28,6 @@ public sealed class DsaAlgorithmInfo : KeyedSignatureAlgorithmInfo
 
 | Name | Description |
 | --- | --- |
-| [FillText](../../aspose.pdf.security/keyedsignaturealgorithminfo/filltext/) | *(Inherited from KeyedSignatureAlgorithmInfo)* |
 | [ToString](../../aspose.pdf.security/signaturealgorithminfo/tostring/) | Converts the current information object to its string representation. *(Inherited from SignatureAlgorithmInfo)* |
 
 ## Fields

@@ -22,7 +22,7 @@ public class VectorStoreModifyRequest
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreModifyRequest](./vectorstoremodifyrequest/#constructor) | Initializes a new instance of the VectorStoreModifyRequest class. |
+| [VectorStoreModifyRequest](./vectorstoremodifyrequest/#constructor) | The default constructor. |
 
 ## Properties
 

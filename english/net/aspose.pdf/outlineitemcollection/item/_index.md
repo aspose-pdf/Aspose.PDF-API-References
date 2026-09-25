@@ -3,7 +3,7 @@ title: "OutlineItemCollection.Item"
 linktitle: "Item"
 articleTitle: "Item"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "OutlineItemCollection property."
+description: "OutlineItemCollection property. Gets outline item from the collection using index."
 type: docs
 weight: 300
 url: "/net/aspose.pdf/outlineitemcollection/item/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## OutlineItemCollection.Item property
 
-
+Gets outline item from the collection using index.
 
 ```csharp
 public OutlineItemCollection Item { get; }

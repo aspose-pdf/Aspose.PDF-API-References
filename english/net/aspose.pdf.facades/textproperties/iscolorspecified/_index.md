@@ -3,7 +3,7 @@ title: "TextProperties.IsColorSpecified"
 linktitle: "IsColorSpecified"
 articleTitle: "IsColorSpecified"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextProperties property. Gets or sets a value that indicates whether the property is specified."
+description: "TextProperties property. Gets or sets a value that indicates whether the Color property is specified."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/textproperties/iscolorspecified/"

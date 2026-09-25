@@ -3,7 +3,7 @@ title: "FormFlattener.FormFlattener"
 linktitle: "FormFlattener"
 articleTitle: "FormFlattener"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FormFlattener constructor. Initializes a new instance of the FormFlattener class."
+description: "FormFlattener constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formflattener/formflattener/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## FormFlattener() {#constructor}
 
-Initializes a new instance of the FormFlattener class.
+The default constructor.
 
 ```csharp
 public FormFlattener()

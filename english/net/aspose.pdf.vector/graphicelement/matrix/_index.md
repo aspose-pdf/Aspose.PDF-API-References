@@ -5,7 +5,7 @@ articleTitle: "Matrix"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "GraphicElement property. Gets graphic element matrix. The matrix sets when element is created. It changes when SetPosition() is called."
 type: docs
-weight: 110
+weight: 70
 url: "/net/aspose.pdf.vector/graphicelement/matrix/"
 product_version: "26.9.0"
 ---

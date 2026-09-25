@@ -5,7 +5,7 @@ articleTitle: "AddPrinterMarks"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PrinterMarkAnnotation method. Adds printer's marks to all pages in the specified document."
 type: docs
-weight: 50
+weight: 10
 url: "/net/aspose.pdf.annotations/printermarkannotation/addprintermarks/"
 product_version: "26.9.0"
 ---
@@ -29,7 +29,7 @@ public void AddPrinterMarks(Document document, PrinterMarksKind marksKind)
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | Thrown when the is null. |
+| ArgumentNullException | Thrown when the *document* is null. |
 
 ### See Also
 
@@ -59,7 +59,7 @@ public void AddPrinterMarks(Page page, PrinterMarksKind marksKind)
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | Thrown when the is null. |
+| ArgumentNullException | Thrown when the *page* is null. |
 
 ### See Also
 

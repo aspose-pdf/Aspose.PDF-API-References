@@ -24,7 +24,7 @@ public class GraphicalPdfComparer
 
 | Name | Description |
 | --- | --- |
-| [GraphicalPdfComparer](./graphicalpdfcomparer/#constructor) | Initializes a new instance of the GraphicalPdfComparer class. |
+| [GraphicalPdfComparer](./graphicalpdfcomparer/#constructor) | The default constructor. |
 
 ## Properties
 

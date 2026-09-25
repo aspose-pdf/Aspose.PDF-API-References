@@ -5,7 +5,7 @@ articleTitle: "Matrix"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "XForm property. Gets or sets matrix of the form."
 type: docs
-weight: 130
+weight: 120
 url: "/net/aspose.pdf/xform/matrix/"
 product_version: "26.9.0"
 ---

@@ -5,7 +5,7 @@ articleTitle: "ToArray"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "OptimizedMemoryStream method. Converts the current stream to a byte array."
 type: docs
-weight: 110
+weight: 100
 url: "/net/aspose.pdf/optimizedmemorystream/toarray/"
 product_version: "26.9.0"
 ---

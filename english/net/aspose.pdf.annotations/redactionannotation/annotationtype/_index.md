@@ -5,7 +5,7 @@ articleTitle: "AnnotationType"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "RedactionAnnotation property. Gets type of annotation."
 type: docs
-weight: 160
+weight: 140
 url: "/net/aspose.pdf.annotations/redactionannotation/annotationtype/"
 product_version: "26.9.0"
 ---

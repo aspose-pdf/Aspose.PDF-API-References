@@ -24,7 +24,7 @@ public class LatexLoadOptions : TeXLoadOptions
 
 | Name | Description |
 | --- | --- |
-| [LatexLoadOptions](./latexloadoptions/#constructor) | Initializes a new instance of the LatexLoadOptions class. |
+| [LatexLoadOptions](./latexloadoptions/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -5,7 +5,7 @@ articleTitle: "Height"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "TextStamp property. Desired height of the stamp on the page."
 type: docs
-weight: 190
+weight: 180
 url: "/net/aspose.pdf/textstamp/height/"
 product_version: "26.9.0"
 ---

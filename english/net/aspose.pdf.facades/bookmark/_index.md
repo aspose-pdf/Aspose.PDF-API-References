@@ -22,7 +22,7 @@ public sealed class Bookmark
 
 | Name | Description |
 | --- | --- |
-| [Bookmark](./bookmark/#constructor) | Initializes a new instance of the Bookmark class. |
+| [Bookmark](./bookmark/#constructor) | The default constructor. |
 
 ## Properties
 

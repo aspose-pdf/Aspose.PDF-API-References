@@ -3,7 +3,7 @@ title: "Hyperparameters.Hyperparameters"
 linktitle: "Hyperparameters"
 articleTitle: "Hyperparameters"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Hyperparameters constructor. Initializes a new instance of the Hyperparameters class."
+description: "Hyperparameters constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/hyperparameters/hyperparameters/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## Hyperparameters() {#constructor}
 
-Initializes a new instance of the Hyperparameters class.
+The default constructor.
 
 ```csharp
 public Hyperparameters()

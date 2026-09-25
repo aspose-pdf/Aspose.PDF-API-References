@@ -5,7 +5,7 @@ articleTitle: "Starting"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "LineAnnotation property. Gets or sets starting point of line."
 type: docs
-weight: 60
+weight: 50
 url: "/net/aspose.pdf.annotations/lineannotation/starting/"
 product_version: "26.9.0"
 ---

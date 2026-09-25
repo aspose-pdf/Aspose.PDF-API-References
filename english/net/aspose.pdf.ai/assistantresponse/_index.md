@@ -22,7 +22,7 @@ public class AssistantResponse : BaseResponse
 
 | Name | Description |
 | --- | --- |
-| [AssistantResponse](./assistantresponse/#constructor) | Initializes a new instance of the AssistantResponse class. |
+| [AssistantResponse](./assistantresponse/#constructor) | The default constructor. |
 
 ## Properties
 

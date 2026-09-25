@@ -3,7 +3,7 @@ title: "MoveTo.MoveTo"
 linktitle: "MoveTo"
 articleTitle: "MoveTo"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "MoveTo constructor. Initializes a new instance of the MoveTo class."
+description: "MoveTo constructor. Inintalizes new m (move to) operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/moveto/moveto/"

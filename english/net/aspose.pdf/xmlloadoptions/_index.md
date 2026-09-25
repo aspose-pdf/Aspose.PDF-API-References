@@ -35,12 +35,6 @@ public class XmlLoadOptions : LoadOptions
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. *(Inherited from LoadOptions)* |
 | [XslStream](./xslstream/) { get; } | Gets xsl data for converting xml into pdf document. |
 
-## Methods
-
-| Name | Description |
-| --- | --- |
-| [Finalize](./finalize/) |  |
-
 ### See Also
 
 * class [LoadOptions](../loadoptions/)

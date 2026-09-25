@@ -3,7 +3,7 @@ title: "CompletionResponse.CompletionResponse"
 linktitle: "CompletionResponse"
 articleTitle: "CompletionResponse"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CompletionResponse constructor. Initializes a new instance of the CompletionResponse class."
+description: "CompletionResponse constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/completionresponse/completionresponse/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## CompletionResponse() {#constructor}
 
-Initializes a new instance of the CompletionResponse class.
+The default constructor.
 
 ```csharp
 public CompletionResponse()

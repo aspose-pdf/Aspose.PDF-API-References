@@ -22,7 +22,7 @@ public class MonthComponent : DateComponent
 
 | Name | Description |
 | --- | --- |
-| [PageDate.MonthComponent](./monthcomponent/#constructor) | Initializes a new instance of the PageDate.MonthComponent class. |
+| [PageDate.MonthComponent](./monthcomponent/#constructor) | The default constructor. |
 
 ## Properties
 

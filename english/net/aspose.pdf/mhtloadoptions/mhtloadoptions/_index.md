@@ -3,7 +3,7 @@ title: "MhtLoadOptions.MhtLoadOptions"
 linktitle: "MhtLoadOptions"
 articleTitle: "MhtLoadOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "MhtLoadOptions constructor. Initializes a new instance of the MhtLoadOptions class."
+description: "MhtLoadOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/mhtloadoptions/mhtloadoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## MhtLoadOptions() {#constructor}
 
-Initializes a new instance of the MhtLoadOptions class.
+The default constructor.
 
 ```csharp
 public MhtLoadOptions()

@@ -5,7 +5,7 @@ articleTitle: "Process"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfExtractor method. Starts PdfExtractor processing with the specified parameters."
 type: docs
-weight: 20
+weight: 10
 url: "/net/aspose.pdf.lowcode/pdfextractor/process/"
 product_version: "26.9.0"
 ---

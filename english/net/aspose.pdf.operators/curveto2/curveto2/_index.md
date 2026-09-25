@@ -3,7 +3,7 @@ title: "CurveTo2.CurveTo2"
 linktitle: "CurveTo2"
 articleTitle: "CurveTo2"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CurveTo2 constructor. Initializes a new instance of the CurveTo2 class."
+description: "CurveTo2 constructor. Initializes curve operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/curveto2/curveto2/"

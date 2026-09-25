@@ -5,7 +5,7 @@ articleTitle: "Appearance"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Annotation property. Gets appearance dictionary of the annotation."
 type: docs
-weight: 380
+weight: 250
 url: "/net/aspose.pdf.annotations/annotation/appearance/"
 product_version: "26.9.0"
 ---

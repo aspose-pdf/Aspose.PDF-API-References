@@ -18,13 +18,6 @@ Represents the base class for explicit destinations in PDF document.
 public abstract class ExplicitDestination : IAppointment
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [ExplicitDestination](./explicitdestination/#constructor)(*[Page](../../aspose.pdf/page/), [ExplicitDestinationType](../../aspose.pdf.annotations/explicitdestinationtype/), double[]*) | Creates the explicit destination. |
-| [ExplicitDestination](./explicitdestination/#constructor_1)(*int, [ExplicitDestinationType](../../aspose.pdf.annotations/explicitdestinationtype/), double[]*) | Creates the explicit destination. |
-
 ## Properties
 
 | Name | Description |
@@ -39,7 +32,6 @@ public abstract class ExplicitDestination : IAppointment
 | [CreateDestination](./createdestination/)(*Page, ExplicitDestinationType, double[]*) | Creates instances of ExplicitDestination descendant classes. |
 | [CreateDestination](./createdestination/)(*int, ExplicitDestinationType, double[]*) | Creates instances of ExplicitDestination descendant classes. |
 | [CreateDestination](./createdestination/)(*Document, int, ExplicitDestinationType, double[]*) | Creates instances of ExplicitDestination descendant classes. |
-| [GetNumber](./getnumber/)(*int*) | Gets double value by specified index of element. |
 | [ToString](./tostring/) | Returns string representation of ExplicitDestination object. |
 
 ### See Also

@@ -5,7 +5,7 @@ articleTitle: "IsReadOnly"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "OperatorCollection property. Gets a value indicating whether the collection is read-only."
 type: docs
-weight: 240
+weight: 230
 url: "/net/aspose.pdf/operatorcollection/isreadonly/"
 product_version: "26.9.0"
 ---

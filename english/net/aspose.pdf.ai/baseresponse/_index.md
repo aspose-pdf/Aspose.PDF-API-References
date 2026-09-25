@@ -18,12 +18,6 @@ Base class for API responses.
 public abstract class BaseResponse
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [BaseResponse](./baseresponse/#constructor) | Initializes a new instance of the BaseResponse class. |
-
 ## Properties
 
 | Name | Description |

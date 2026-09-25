@@ -38,7 +38,7 @@ public sealed class OutlineItemCollection : Outlines
 | [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether the collection is read-only. |
 | [IsSynchronized](./issynchronized/) { get; } | Gets the value indicating whether access to this collection is synchronized (thread safe). |
 | [Italic](./italic/) { get; set; } | Gets or sets italic flag for the title text of this outline item. |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets outline item from the collection using index. |
 | [Last](./last/) { get; } | Gets the outline item representing the last top-level item in the outline hierarchy. |
 | [Level](./level/) { get; } | Gets hierarchy level of outline item. |
 | [Next](./next/) { get; } | Gets the outline item representing next item relatively this item in the outline hierarchy. |

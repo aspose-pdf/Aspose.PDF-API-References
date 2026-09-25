@@ -3,7 +3,7 @@ title: "FormExporterToJsonOptions.FormExporterToJsonOptions"
 linktitle: "FormExporterToJsonOptions"
 articleTitle: "FormExporterToJsonOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FormExporterToJsonOptions constructor. Initializes a new instance of the FormExporterToJsonOptions class."
+description: "FormExporterToJsonOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formexportertojsonoptions/formexportertojsonoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## FormExporterToJsonOptions() {#constructor}
 
-Initializes a new instance of the FormExporterToJsonOptions class.
+The default constructor.
 
 ```csharp
 public FormExporterToJsonOptions()

@@ -3,7 +3,7 @@ title: "OpenAIClient.GetChatCopilot"
 linktitle: "GetChatCopilot"
 articleTitle: "GetChatCopilot"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "OpenAIClient method. Gets an instance of with the specified options."
+description: "OpenAIClient method. Gets an instance of IChatCopilot with the specified options."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.ai/openaiclient/getchatcopilot/"

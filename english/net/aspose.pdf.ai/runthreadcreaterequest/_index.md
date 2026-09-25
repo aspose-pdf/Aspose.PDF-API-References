@@ -22,7 +22,7 @@ public class RunThreadCreateRequest
 
 | Name | Description |
 | --- | --- |
-| [RunThreadCreateRequest](./runthreadcreaterequest/#constructor) | Initializes a new instance of the RunThreadCreateRequest class. |
+| [RunThreadCreateRequest](./runthreadcreaterequest/#constructor) | The default constructor. |
 
 ## Properties
 

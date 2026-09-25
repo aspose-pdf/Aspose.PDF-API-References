@@ -5,7 +5,7 @@ articleTitle: "DefaultBufferSize"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "OptimizedMemoryStream field. Default buffer size value in bytes."
 type: docs
-weight: 220
+weight: 210
 url: "/net/aspose.pdf/optimizedmemorystream/defaultbuffersize/"
 product_version: "26.9.0"
 ---

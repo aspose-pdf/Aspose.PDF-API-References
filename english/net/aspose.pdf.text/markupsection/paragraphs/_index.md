@@ -3,7 +3,7 @@ title: "MarkupSection.Paragraphs"
 linktitle: "Paragraphs"
 articleTitle: "Paragraphs"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "MarkupSection property. Collection of objects that are inside the section."
+description: "MarkupSection property. Collection of MarkupParagraph objects that are inside the section."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/markupsection/paragraphs/"

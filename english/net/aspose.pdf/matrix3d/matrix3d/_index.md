@@ -3,7 +3,7 @@ title: "Matrix3D.Matrix3D"
 linktitle: "Matrix3D"
 articleTitle: "Matrix3D"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Matrix3D constructor. Initializes a new instance of the Matrix3D class."
+description: "Matrix3D constructor. Constructor creates standard 1 to 1 matrix: [ A B C D E F G H I Tx Ty Tz] = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0 , 0]"
 type: docs
 weight: 10
 url: "/net/aspose.pdf/matrix3d/matrix3d/"

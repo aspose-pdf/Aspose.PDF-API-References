@@ -22,7 +22,7 @@ public class VectorStoreFileBatchResponse : BaseResponse
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreFileBatchResponse](./vectorstorefilebatchresponse/#constructor) | Initializes a new instance of the VectorStoreFileBatchResponse class. |
+| [VectorStoreFileBatchResponse](./vectorstorefilebatchresponse/#constructor) | The default constructor. |
 
 ## Properties
 

@@ -5,7 +5,7 @@ articleTitle: "ExportXml"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Exports the content of the fields of the pdf into the xml stream. The button field's value will not be exported."
 type: docs
-weight: 330
+weight: 310
 url: "/net/aspose.pdf.facades/form/exportxml/"
 product_version: "26.9.0"
 ---

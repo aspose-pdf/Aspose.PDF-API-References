@@ -3,7 +3,7 @@ title: "CustomPrintEventArgs.CustomPrintEventArgs"
 linktitle: "CustomPrintEventArgs"
 articleTitle: "CustomPrintEventArgs"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CustomPrintEventArgs constructor. Initializes a new instance of the CustomPrintEventArgs class."
+description: "CustomPrintEventArgs constructor. Initializes CustomPrintEventArgs with the given printer and page settings."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/customprinteventargs/customprinteventargs/"

@@ -45,7 +45,6 @@ public sealed class TiffDevice : DocumentDevice
 
 | Name | Description |
 | --- | --- |
-| [Document](../../aspose.pdf.devices/device/document/) { get; set; } | Document which is processed by this device instance. *(Inherited from Device)* |
 | [FormPresentationMode](./formpresentationmode/) { get; set; } | Gets or sets form presentation mode. |
 | [Height](./height/) { get; } | Gets image output height. |
 | [RenderingOptions](./renderingoptions/) { get; set; } | Gets or sets rendering options. |

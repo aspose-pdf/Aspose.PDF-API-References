@@ -3,7 +3,7 @@ title: "SetColorStroke.SetColorStroke"
 linktitle: "SetColorStroke"
 articleTitle: "SetColorStroke"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SetColorStroke constructor. Initializes a new instance of the SetColorStroke class."
+description: "SetColorStroke constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setcolorstroke/setcolorstroke/"

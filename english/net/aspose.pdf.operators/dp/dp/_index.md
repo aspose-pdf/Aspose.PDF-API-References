@@ -3,7 +3,7 @@ title: "DP.DP"
 linktitle: "DP"
 articleTitle: "DP"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "DP constructor. Initializes a new instance of the DP class."
+description: "DP constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/dp/dp/"

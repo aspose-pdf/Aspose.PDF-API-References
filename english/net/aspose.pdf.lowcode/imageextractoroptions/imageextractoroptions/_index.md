@@ -3,7 +3,7 @@ title: "ImageExtractorOptions.ImageExtractorOptions"
 linktitle: "ImageExtractorOptions"
 articleTitle: "ImageExtractorOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ImageExtractorOptions constructor. Initializes a new instance of the ImageExtractorOptions class."
+description: "ImageExtractorOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/imageextractoroptions/imageextractoroptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## ImageExtractorOptions() {#constructor}
 
-Initializes a new instance of the ImageExtractorOptions class.
+The default constructor.
 
 ```csharp
 public ImageExtractorOptions()

@@ -22,7 +22,7 @@ public sealed class FormImporter : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [FormImporter](./formimporter/#constructor) | Initializes a new instance of the FormImporter class. |
+| [FormImporter](./formimporter/#constructor) | The default constructor. |
 
 ## Methods
 

@@ -3,7 +3,7 @@ title: "FormImporterJsonOptions.FormImporterJsonOptions"
 linktitle: "FormImporterJsonOptions"
 articleTitle: "FormImporterJsonOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FormImporterJsonOptions constructor. Initializes a new instance of the FormImporterJsonOptions class."
+description: "FormImporterJsonOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formimporterjsonoptions/formimporterjsonoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## FormImporterJsonOptions() {#constructor}
 
-Initializes a new instance of the FormImporterJsonOptions class.
+The default constructor.
 
 ```csharp
 public FormImporterJsonOptions()

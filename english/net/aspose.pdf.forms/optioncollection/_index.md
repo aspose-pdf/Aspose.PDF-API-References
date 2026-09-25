@@ -25,8 +25,8 @@ public sealed class OptionCollection : IEnumerable
 | [Count](./count/) { get; } | Gets number of options. |
 | [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating if collection is readonly. |
 | [IsSynchronized](./issynchronized/) { get; } | Returns true of object is synchronized. |
-| [Item](./item/) { get; } |  |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets option by index. |
+| [Item](./item/) { get; } | Gets option by its name. |
 | [SyncRoot](./syncroot/) { get; } | Synchronization object of the collection. |
 
 ## Methods

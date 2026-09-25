@@ -3,7 +3,7 @@ title: "PdfFileSignature.PdfFileSignature"
 linktitle: "PdfFileSignature"
 articleTitle: "PdfFileSignature"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfFileSignature constructor. Initializes a new instance of the PdfFileSignature class."
+description: "PdfFileSignature constructor. The constructor of PdfFileSignature class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffilesignature/pdffilesignature/"
@@ -49,7 +49,7 @@ public PdfFileSignature(string inputFile)
 
 ## PdfFileSignature([Document](../../../aspose.pdf/document/)) {#constructor_2}
 
-Initializes new [`PdfFileSignature`](../../../aspose.pdf.facades/pdffilesignature/) object on base of the .
+Initializes new [`PdfFileSignature`](../../../aspose.pdf.facades/pdffilesignature/) object on base of the *document*.
 
 ```csharp
 public PdfFileSignature(Document document)
@@ -94,7 +94,7 @@ public PdfFileSignature(string inputFile, string outputFile)
 
 > **Deprecated.** Use another constructor for instance initialization.
 
-Initializes new [`PdfFileSignature`](../../../aspose.pdf.facades/pdffilesignature/) object on base of the .
+Initializes new [`PdfFileSignature`](../../../aspose.pdf.facades/pdffilesignature/) object on base of the *document*.
 
 ```csharp
 public PdfFileSignature(Document document, string outputFile)

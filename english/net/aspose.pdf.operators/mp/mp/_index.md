@@ -3,7 +3,7 @@ title: "MP.MP"
 linktitle: "MP"
 articleTitle: "MP"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "MP constructor. Initializes a new instance of the MP class."
+description: "MP constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/mp/mp/"

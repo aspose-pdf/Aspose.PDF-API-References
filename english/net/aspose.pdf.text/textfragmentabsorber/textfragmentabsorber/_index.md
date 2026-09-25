@@ -3,7 +3,7 @@ title: "TextFragmentAbsorber.TextFragmentAbsorber"
 linktitle: "TextFragmentAbsorber"
 articleTitle: "TextFragmentAbsorber"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextFragmentAbsorber constructor. Initializes a new instance of the TextFragmentAbsorber class."
+description: "TextFragmentAbsorber constructor. Initializes a new instance of the TextFragmentAbsorber that performs search of all text segments of the document or page."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textfragmentabsorber/textfragmentabsorber/"

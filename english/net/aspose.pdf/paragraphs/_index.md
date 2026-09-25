@@ -22,14 +22,14 @@ public class Paragraphs : IEnumerable, ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Paragraphs](./paragraphs/#constructor) | Initializes a new instance of the Paragraphs class. |
+| [Paragraphs](./paragraphs/#constructor) | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Count](./count/) { get; } | Get paragraphs count. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets or sets paragraph from or to collection. |
 
 ## Methods
 

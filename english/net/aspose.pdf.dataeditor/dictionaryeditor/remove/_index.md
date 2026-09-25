@@ -3,7 +3,7 @@ title: "DictionaryEditor.Remove"
 linktitle: "Remove"
 articleTitle: "Remove"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "DictionaryEditor method. Removes the element with the specified key from the ."
+description: "DictionaryEditor method. Removes the element with the specified key from the DictionaryEditor."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/remove/"

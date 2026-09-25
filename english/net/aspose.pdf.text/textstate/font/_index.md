@@ -5,7 +5,7 @@ articleTitle: "Font"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "TextState property. Gets or sets font of the text."
 type: docs
-weight: 390
+weight: 210
 url: "/net/aspose.pdf.text/textstate/font/"
 product_version: "26.9.0"
 ---

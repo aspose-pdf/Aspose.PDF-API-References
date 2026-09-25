@@ -3,7 +3,7 @@ title: "PrinterSettingsExtensions.ToNativePrinterSettings"
 linktitle: "ToNativePrinterSettings"
 articleTitle: "ToNativePrinterSettings"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PrinterSettingsExtensions method. Converts to Windows-specific System.Drawing.Printing.PrinterSettings."
+description: "PrinterSettingsExtensions method. Converts PrinterSettings to Windows-specific System.Drawing.Printing.PrinterSettings."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/printersettingsextensions/tonativeprintersettings/"

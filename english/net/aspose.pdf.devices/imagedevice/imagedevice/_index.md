@@ -3,7 +3,7 @@ title: "ImageDevice.ImageDevice"
 linktitle: "ImageDevice"
 articleTitle: "ImageDevice"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ImageDevice constructor. Initializes a new instance of the ImageDevice class."
+description: "ImageDevice constructor. Abstract initializer for ImageDevice descendants, set resolution to 150x150."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.devices/imagedevice/imagedevice/"

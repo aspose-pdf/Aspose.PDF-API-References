@@ -13,7 +13,7 @@ product_version: "26.9.0"
 
 Flattens the specified layer.
 
-Setting the parameter to false speeds up the process of flattening.
+Setting the *cleanupContentStream* parameter to false speeds up the process of flattening.
 
 ```csharp
 public void Flatten(bool cleanupContentStream)

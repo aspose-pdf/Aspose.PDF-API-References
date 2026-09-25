@@ -5,7 +5,7 @@ articleTitle: "ChangeAfterResize"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "ColorBarAnnotation method. Update parameters and appearance, according to the matrix transform and moving outside of TrimBox if nesseary."
 type: docs
-weight: 40
+weight: 30
 url: "/net/aspose.pdf.annotations/colorbarannotation/changeafterresize/"
 product_version: "26.9.0"
 ---

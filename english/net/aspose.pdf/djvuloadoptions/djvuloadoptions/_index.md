@@ -3,7 +3,7 @@ title: "DjvuLoadOptions.DjvuLoadOptions"
 linktitle: "DjvuLoadOptions"
 articleTitle: "DjvuLoadOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "DjvuLoadOptions constructor. Initializes a new instance of the DjvuLoadOptions class."
+description: "DjvuLoadOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/djvuloadoptions/djvuloadoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## DjvuLoadOptions() {#constructor}
 
-Initializes a new instance of the DjvuLoadOptions class.
+The default constructor.
 
 ```csharp
 public DjvuLoadOptions()

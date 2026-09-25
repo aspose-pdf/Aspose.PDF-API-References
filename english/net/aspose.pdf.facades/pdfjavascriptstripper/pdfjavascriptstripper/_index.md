@@ -3,7 +3,7 @@ title: "PdfJavaScriptStripper.PdfJavaScriptStripper"
 linktitle: "PdfJavaScriptStripper"
 articleTitle: "PdfJavaScriptStripper"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfJavaScriptStripper constructor. Initializes a new instance of the PdfJavaScriptStripper class."
+description: "PdfJavaScriptStripper constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfjavascriptstripper/pdfjavascriptstripper/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## PdfJavaScriptStripper() {#constructor}
 
-Initializes a new instance of the PdfJavaScriptStripper class.
+The default constructor.
 
 ```csharp
 public PdfJavaScriptStripper()

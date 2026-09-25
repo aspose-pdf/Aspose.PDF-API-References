@@ -3,7 +3,7 @@ title: "LlamaClient.CreateWithApiKey"
 linktitle: "CreateWithApiKey"
 articleTitle: "CreateWithApiKey"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "LlamaClient method. Creates a new instance of with the provided API key."
+description: "LlamaClient method. Creates a new instance of Builder with the provided API key."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/llamaclient/createwithapikey/"

@@ -3,7 +3,7 @@ title: "PdfAValidateOptions.PdfAValidateOptions"
 linktitle: "PdfAValidateOptions"
 articleTitle: "PdfAValidateOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfAValidateOptions constructor. Initializes a new instance of the PdfAValidateOptions class."
+description: "PdfAValidateOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/pdfavalidateoptions/pdfavalidateoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## PdfAValidateOptions() {#constructor}
 
-Initializes a new instance of the PdfAValidateOptions class.
+The default constructor.
 
 ```csharp
 public PdfAValidateOptions()

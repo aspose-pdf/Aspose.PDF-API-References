@@ -3,7 +3,7 @@ title: "FormFieldFacade.FormFieldFacade"
 linktitle: "FormFieldFacade"
 articleTitle: "FormFieldFacade"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FormFieldFacade constructor. Initializes a new instance of the FormFieldFacade class."
+description: "FormFieldFacade constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/formfieldfacade/formfieldfacade/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## FormFieldFacade() {#constructor}
 
-Initializes a new instance of the FormFieldFacade class.
+The default constructor.
 
 ```csharp
 public FormFieldFacade()

@@ -3,7 +3,7 @@ title: "LinkElement.StructureTextState"
 linktitle: "StructureTextState"
 articleTitle: "StructureTextState"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "LinkElement property. Gets object for current element."
+description: "LinkElement property. Gets StructureTextState object for current element."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/linkelement/structuretextstate/"

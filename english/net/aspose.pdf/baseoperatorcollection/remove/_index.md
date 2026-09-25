@@ -5,7 +5,7 @@ articleTitle: "Remove"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "BaseOperatorCollection method. Removes operator from collection."
 type: docs
-weight: 80
+weight: 70
 url: "/net/aspose.pdf/baseoperatorcollection/remove/"
 product_version: "26.9.0"
 ---

@@ -3,7 +3,7 @@ title: "CgmLoadOptions.CgmLoadOptions"
 linktitle: "CgmLoadOptions"
 articleTitle: "CgmLoadOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CgmLoadOptions constructor. Initializes a new instance of the CgmLoadOptions class."
+description: "CgmLoadOptions constructor. Creates default load options for converting CGM file into pdf document. Default pdf page size - A4 300dpi 2480 X 3508."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/cgmloadoptions/cgmloadoptions/"

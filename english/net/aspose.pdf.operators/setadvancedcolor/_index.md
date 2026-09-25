@@ -56,12 +56,6 @@ public class SetAdvancedColor : BasicSetColorAndPatternOperator
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(*Operator*) | Compares this instance with the given object. *(Inherited from Operator)* |
 | [getColor](./getcolor/) | Returns color specified by operator. |
 
-## Fields
-
-| Name | Description |
-| --- | --- |
-| [_patternName](../../aspose.pdf.operators/basicsetcolorandpatternoperator/_patternname/) | Pattern name. *(Inherited from BasicSetColorAndPatternOperator)* |
-
 ### See Also
 
 * class [BasicSetColorAndPatternOperator](../basicsetcolorandpatternoperator/)

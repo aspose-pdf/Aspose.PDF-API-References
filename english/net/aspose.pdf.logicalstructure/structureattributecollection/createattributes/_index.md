@@ -3,7 +3,7 @@ title: "StructureAttributeCollection.CreateAttributes"
 linktitle: "CreateAttributes"
 articleTitle: "CreateAttributes"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "StructureAttributeCollection method. Create and return of structure element by standard attribute owner."
+description: "StructureAttributeCollection method. Create and return StructureAttributes of structure element by standard attribute owner."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/structureattributecollection/createattributes/"

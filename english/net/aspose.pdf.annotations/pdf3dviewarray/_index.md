@@ -23,7 +23,7 @@ public class PDF3DViewArray
 | Name | Description |
 | --- | --- |
 | [Count](./count/) { get; } | Gets the views count. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets or sets the [`PDF3DView`](../../aspose.pdf.annotations/pdf3dview/) to view array at the specified index. |
 
 ## Methods
 

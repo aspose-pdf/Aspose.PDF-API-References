@@ -3,7 +3,7 @@ title: "Signature.Signature"
 linktitle: "Signature"
 articleTitle: "Signature"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Signature constructor. Initializes a new instance of the Signature class."
+description: "Signature constructor. Inititalizes new instance of the Signature class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/signature/signature/"

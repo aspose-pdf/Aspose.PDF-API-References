@@ -3,7 +3,7 @@ title: "UnifiedSaveOptions.UnifiedSaveOptions"
 linktitle: "UnifiedSaveOptions"
 articleTitle: "UnifiedSaveOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "UnifiedSaveOptions constructor. Initializes a new instance of the UnifiedSaveOptions class."
+description: "UnifiedSaveOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/unifiedsaveoptions/unifiedsaveoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## UnifiedSaveOptions() {#constructor}
 
-Initializes a new instance of the UnifiedSaveOptions class.
+The default constructor.
 
 ```csharp
 public UnifiedSaveOptions()

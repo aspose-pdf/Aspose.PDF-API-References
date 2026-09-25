@@ -3,7 +3,7 @@ title: "LaunchAction.LaunchAction"
 linktitle: "LaunchAction"
 articleTitle: "LaunchAction"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "LaunchAction constructor. Initializes a new instance of the LaunchAction class."
+description: "LaunchAction constructor. Creates a launch action."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/launchaction/launchaction/"

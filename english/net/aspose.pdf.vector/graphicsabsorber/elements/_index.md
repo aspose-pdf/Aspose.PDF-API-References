@@ -3,9 +3,9 @@ title: "GraphicsAbsorber.Elements"
 linktitle: "Elements"
 articleTitle: "Elements"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "GraphicsAbsorber property. Gets collection of search occurrences that are presented with objects."
+description: "GraphicsAbsorber property. Gets collection of search occurrences that are presented with GraphicElement objects."
 type: docs
-weight: 70
+weight: 60
 url: "/net/aspose.pdf.vector/graphicsabsorber/elements/"
 product_version: "26.9.0"
 ---

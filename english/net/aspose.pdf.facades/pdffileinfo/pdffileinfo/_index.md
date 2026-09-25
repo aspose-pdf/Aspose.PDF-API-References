@@ -3,7 +3,7 @@ title: "PdfFileInfo.PdfFileInfo"
 linktitle: "PdfFileInfo"
 articleTitle: "PdfFileInfo"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfFileInfo constructor. Initializes a new instance of the PdfFileInfo class."
+description: "PdfFileInfo constructor. Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class with default values."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffileinfo/pdffileinfo/"
@@ -67,7 +67,7 @@ public PdfFileInfo(string inputFile)
 
 ## PdfFileInfo([Document](../../../aspose.pdf/document/)) {#constructor_3}
 
-Initializes new [`PdfFileInfo`](../../../aspose.pdf.facades/pdffileinfo/) object on base of the .
+Initializes new [`PdfFileInfo`](../../../aspose.pdf.facades/pdffileinfo/) object on base of the *document*.
 
 ```csharp
 public PdfFileInfo(Document document)

@@ -5,7 +5,7 @@ articleTitle: "ExportPasswordValue"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "ExportFieldsOptions property. Gets or sets a value indicating whether the password value should be exported."
 type: docs
-weight: 20
+weight: 10
 url: "/net/aspose.pdf/exportfieldsoptions/exportpasswordvalue/"
 product_version: "26.9.0"
 ---

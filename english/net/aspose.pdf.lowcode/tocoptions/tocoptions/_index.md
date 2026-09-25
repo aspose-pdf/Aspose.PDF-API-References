@@ -3,7 +3,7 @@ title: "TocOptions.TocOptions"
 linktitle: "TocOptions"
 articleTitle: "TocOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TocOptions constructor. Initializes a new instance of the TocOptions class."
+description: "TocOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/tocoptions/tocoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## TocOptions() {#constructor}
 
-Initializes a new instance of the TocOptions class.
+The default constructor.
 
 ```csharp
 public TocOptions()

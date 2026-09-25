@@ -37,12 +37,6 @@ public sealed class XslFoLoadOptions : XmlLoadOptions
 | [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | Gets xsl data for converting xml into pdf document. *(Inherited from XmlLoadOptions)* |
 | [XsltArgumentList](./xsltargumentlist/) { get; set; } | XsltArgumentList for inserting values into existing xls parameters. |
 
-## Methods
-
-| Name | Description |
-| --- | --- |
-| [Finalize](../../aspose.pdf/xmlloadoptions/finalize/) | *(Inherited from XmlLoadOptions)* |
-
 ## Fields
 
 | Name | Description |

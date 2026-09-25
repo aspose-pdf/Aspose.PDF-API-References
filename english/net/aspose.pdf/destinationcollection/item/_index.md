@@ -3,7 +3,7 @@ title: "DestinationCollection.Item"
 linktitle: "Item"
 articleTitle: "Item"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "DestinationCollection property."
+description: "DestinationCollection property. Gets the destination object by index."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/destinationcollection/item/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## DestinationCollection.Item property
 
-
+Gets the destination object by index.
 
 ```csharp
 public KeyValuePair<string, object> Item { get; }

@@ -3,7 +3,7 @@ title: "ComHelper.OpenStream"
 linktitle: "OpenStream"
 articleTitle: "OpenStream"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ComHelper method. Initialize and return new Document instance from the stream."
+description: "ComHelper method. Initialize and return new Document instance from the input stream."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/comhelper/openstream/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## OpenStream(Stream) {#openstream}
 
-Initialize and return new Document instance from the stream.
+Initialize and return new Document instance from the *input* stream.
 
 ```csharp
 public Document OpenStream(Stream input)
@@ -38,7 +38,7 @@ Document object
 
 ## OpenStream(Stream, string) {#openstream_1}
 
-Initialize and return new Document instance from the stream.
+Initialize and return new Document instance from the *input* stream.
 
 ```csharp
 public Document OpenStream(Stream input, string password)
@@ -66,7 +66,7 @@ Document object
 
 ## OpenStream(Stream, bool) {#openstream_2}
 
-Initialize and return new Document instance from the stream.
+Initialize and return new Document instance from the *input* stream.
 
 ```csharp
 public Document OpenStream(Stream input, bool isManagedStream)
@@ -94,7 +94,7 @@ Document object
 
 ## OpenStream(Stream, string, bool) {#openstream_3}
 
-Initialize and return new Document instance from the stream.
+Initialize and return new Document instance from the *input* stream.
 
 ```csharp
 public Document OpenStream(Stream input, string password, bool isManagedStream)
@@ -132,7 +132,7 @@ public Document OpenStream(Stream input, LoadOptions options)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | input | Stream | Input stream to convert into pdf document. |
-| options | LoadOptions | Represents properties for converting into pdf document. |
+| options | LoadOptions | Represents properties for converting *input* into pdf document. |
 
 ### Return Value
 

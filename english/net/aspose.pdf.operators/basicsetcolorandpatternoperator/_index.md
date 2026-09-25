@@ -44,12 +44,6 @@ public abstract class BasicSetColorAndPatternOperator : BasicSetColorOperator
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(*Operator*) | Compares this instance with the given object. *(Inherited from Operator)* |
 | [getColor](../../aspose.pdf.operators/setcoloroperator/getcolor/) | Retirns color specified by the operator. *(Inherited from SetColorOperator)* |
 
-## Fields
-
-| Name | Description |
-| --- | --- |
-| [_patternName](./_patternname/) | Pattern name. |
-
 ### See Also
 
 * class [BasicSetColorOperator](../basicsetcoloroperator/)

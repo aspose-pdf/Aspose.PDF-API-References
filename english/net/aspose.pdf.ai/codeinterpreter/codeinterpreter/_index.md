@@ -3,7 +3,7 @@ title: "CodeInterpreter.CodeInterpreter"
 linktitle: "CodeInterpreter"
 articleTitle: "CodeInterpreter"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "CodeInterpreter constructor. Initializes a new instance of the CodeInterpreter class."
+description: "CodeInterpreter constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/codeinterpreter/codeinterpreter/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## CodeInterpreter() {#constructor}
 
-Initializes a new instance of the CodeInterpreter class.
+The default constructor.
 
 ```csharp
 public CodeInterpreter()

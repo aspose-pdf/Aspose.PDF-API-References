@@ -24,8 +24,8 @@ public class EmbeddedFileCollection : IEnumerable
 | --- | --- |
 | [Count](./count/) { get; } | Gets number of embedded files in collection. |
 | [IsSynchronized](./issynchronized/) { get; } | Gets a value indicating whether access to this collection is synchronized (thread safe). |
-| [Item](./item/) { get; } |  |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets embedded file by its index. |
+| [Item](./item/) { get; } | Gets embedded file by its name. |
 | [Keys](./keys/) { get; } | Returns list of file attachment keys. |
 | [SyncRoot](./syncroot/) { get; } | Gets an object that can be used to synchronize access to this collection. |
 

@@ -22,7 +22,7 @@ public sealed class SvgLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [SvgLoadOptions](./svgloadoptions/#constructor) | Initializes a new instance of the SvgLoadOptions class. |
+| [SvgLoadOptions](./svgloadoptions/#constructor) | The default constructor. |
 
 ## Properties
 

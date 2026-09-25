@@ -25,7 +25,7 @@ public class OptimizationOptions : OptimizationOptions
 
 | Name | Description |
 | --- | --- |
-| [Document.OptimizationOptions](./optimizationoptions/#constructor) | Initializes a new instance of the Document.OptimizationOptions class. |
+| [Document.OptimizationOptions](./optimizationoptions/#constructor) | The default constructor. |
 
 ## Properties
 

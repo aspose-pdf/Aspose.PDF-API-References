@@ -3,7 +3,7 @@ title: "Aspose.Pdf.Signatures"
 linktitle: "Aspose.Pdf.Signatures"
 articleTitle: "Aspose.Pdf.Signatures"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The **Aspose.Pdf.Signatures** namespace provides classes."
+description: "The Aspose.Pdf.Signatures namespace provides classes."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.signatures/"

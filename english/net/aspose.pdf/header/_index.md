@@ -22,7 +22,7 @@ public sealed class Header : HorizontalAlignment
 
 | Name | Description |
 | --- | --- |
-| [Header](./header/#constructor) | Initializes a new instance of the Header class. |
+| [Header](./header/#constructor) | The default constructor. |
 
 ### See Also
 

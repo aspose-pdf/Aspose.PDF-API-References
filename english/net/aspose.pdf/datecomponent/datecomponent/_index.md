@@ -3,7 +3,7 @@ title: "DateComponent.DateComponent"
 linktitle: "DateComponent"
 articleTitle: "DateComponent"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "DateComponent constructor. Initializes a new instance of the DateComponent class."
+description: "DateComponent constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/datecomponent/datecomponent/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## DateComponent() {#constructor}
 
-Initializes a new instance of the DateComponent class.
+The default constructor.
 
 ```csharp
 public DateComponent()

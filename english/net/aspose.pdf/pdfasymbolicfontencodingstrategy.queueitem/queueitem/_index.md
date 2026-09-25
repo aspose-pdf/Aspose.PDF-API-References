@@ -3,7 +3,7 @@ title: "PdfASymbolicFontEncodingStrategy.QueueItem.PdfASymbolicFontEncodingStrat
 linktitle: "PdfASymbolicFontEncodingStrategy.QueueItem"
 articleTitle: "PdfASymbolicFontEncodingStrategy.QueueItem"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "QueueItem constructor. Initializes a new instance of the PdfASymbolicFontEncodingStrategy.QueueItem class."
+description: "QueueItem constructor. Constructor, specifies mac subtable(1,0) by default"
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/queueitem/"

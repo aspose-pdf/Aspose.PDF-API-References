@@ -22,7 +22,7 @@ public sealed class BuildVersionInfo
 
 | Name | Description |
 | --- | --- |
-| [BuildVersionInfo](./buildversioninfo/#constructor) | Initializes a new instance of the BuildVersionInfo class. |
+| [BuildVersionInfo](./buildversioninfo/#constructor) | The default constructor. |
 
 ## Fields
 

@@ -22,7 +22,7 @@ public class Annotation
 
 | Name | Description |
 | --- | --- |
-| [Annotation](./annotation/#constructor) | Initializes a new instance of the Annotation class. |
+| [Annotation](./annotation/#constructor) | The default constructor. |
 
 ## Properties
 

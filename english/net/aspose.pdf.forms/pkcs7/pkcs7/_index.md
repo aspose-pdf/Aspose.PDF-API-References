@@ -3,7 +3,7 @@ title: "PKCS7.PKCS7"
 linktitle: "PKCS7"
 articleTitle: "PKCS7"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PKCS7 constructor. Initializes a new instance of the PKCS7 class."
+description: "PKCS7 constructor. Initializes new instance of the PKCS7 class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/pkcs7/pkcs7/"

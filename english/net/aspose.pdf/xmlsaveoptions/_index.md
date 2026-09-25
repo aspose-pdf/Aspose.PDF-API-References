@@ -22,7 +22,7 @@ public class XmlSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [XmlSaveOptions](./xmlsaveoptions/#constructor) | Initializes a new instance of the XmlSaveOptions class. |
+| [XmlSaveOptions](./xmlsaveoptions/#constructor) | The default constructor. |
 
 ## Properties
 

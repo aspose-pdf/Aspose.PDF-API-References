@@ -5,7 +5,7 @@ articleTitle: "EndingStyle"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FreeTextAnnotation property. Gets or sets line ending style for line ending point."
 type: docs
-weight: 90
+weight: 70
 url: "/net/aspose.pdf.annotations/freetextannotation/endingstyle/"
 product_version: "26.9.0"
 ---

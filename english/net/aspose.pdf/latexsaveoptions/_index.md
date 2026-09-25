@@ -24,7 +24,7 @@ public class LaTeXSaveOptions : TeXSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [LaTeXSaveOptions](./latexsaveoptions/#constructor) | Initializes a new instance of the LaTeXSaveOptions class. |
+| [LaTeXSaveOptions](./latexsaveoptions/#constructor) | The default constructor. |
 
 ## Properties
 

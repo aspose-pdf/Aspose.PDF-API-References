@@ -22,7 +22,7 @@ public class CreateFineTuningJobResponse
 
 | Name | Description |
 | --- | --- |
-| [CreateFineTuningJobResponse](./createfinetuningjobresponse/#constructor) | Initializes a new instance of the CreateFineTuningJobResponse class. |
+| [CreateFineTuningJobResponse](./createfinetuningjobresponse/#constructor) | The default constructor. |
 
 ## Properties
 

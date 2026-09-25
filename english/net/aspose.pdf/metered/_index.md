@@ -22,7 +22,7 @@ public class Metered
 
 | Name | Description |
 | --- | --- |
-| [Metered](./metered/#constructor) | Initializes a new instance of the Metered class. |
+| [Metered](./metered/#constructor) | The default constructor. |
 
 ## Methods
 

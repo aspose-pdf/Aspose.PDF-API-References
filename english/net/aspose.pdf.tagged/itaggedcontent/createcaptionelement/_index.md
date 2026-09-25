@@ -3,7 +3,7 @@ title: "ITaggedContent.CreateCaptionElement"
 linktitle: "CreateCaptionElement"
 articleTitle: "CreateCaptionElement"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ITaggedContent method. Creates ."
+description: "ITaggedContent method. Creates CaptionElement."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.tagged/itaggedcontent/createcaptionelement/"

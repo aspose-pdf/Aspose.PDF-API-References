@@ -3,7 +3,7 @@ title: "OpenAIChatCopilotOptions.Create"
 linktitle: "Create"
 articleTitle: "Create"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "OpenAIChatCopilotOptions method. Creates a new instance of ."
+description: "OpenAIChatCopilotOptions method. Creates a new instance of OpenAIChatCopilotOptions."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/create/"

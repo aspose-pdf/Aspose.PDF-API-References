@@ -5,7 +5,7 @@ articleTitle: "Intent"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PolyAnnotation property. Gets or sets the intent of the polygon or polyline annotation."
 type: docs
-weight: 130
+weight: 70
 url: "/net/aspose.pdf.annotations/polyannotation/intent/"
 product_version: "26.9.0"
 ---

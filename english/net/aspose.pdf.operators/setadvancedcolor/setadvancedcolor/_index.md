@@ -3,7 +3,7 @@ title: "SetAdvancedColor.SetAdvancedColor"
 linktitle: "SetAdvancedColor"
 articleTitle: "SetAdvancedColor"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SetAdvancedColor constructor. Initializes a new instance of the SetAdvancedColor class."
+description: "SetAdvancedColor constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setadvancedcolor/setadvancedcolor/"

@@ -3,7 +3,7 @@ title: "IncompleteDetails.IncompleteDetails"
 linktitle: "IncompleteDetails"
 articleTitle: "IncompleteDetails"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "IncompleteDetails constructor. Initializes a new instance of the IncompleteDetails class."
+description: "IncompleteDetails constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/incompletedetails/incompletedetails/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## IncompleteDetails() {#constructor}
 
-Initializes a new instance of the IncompleteDetails class.
+The default constructor.
 
 ```csharp
 public IncompleteDetails()

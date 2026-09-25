@@ -3,7 +3,7 @@ title: "TextFragment.Text"
 linktitle: "Text"
 articleTitle: "Text"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextFragment property. Gets or sets text object that the object represents."
+description: "TextFragment property. Gets or sets String text object that the TextFragment object represents."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/textfragment/text/"

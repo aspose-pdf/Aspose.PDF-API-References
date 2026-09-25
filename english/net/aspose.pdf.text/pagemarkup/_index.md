@@ -3,7 +3,7 @@ title: "PageMarkup Class"
 linktitle: "PageMarkup"
 articleTitle: "PageMarkup"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Aspose.Pdf.Text.PageMarkup class. Page markup represented by collections of and ."
+description: "Aspose.Pdf.Text.PageMarkup class. Page markup represented by collections of MarkupSection and MarkupParagraph."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.text/pagemarkup/"

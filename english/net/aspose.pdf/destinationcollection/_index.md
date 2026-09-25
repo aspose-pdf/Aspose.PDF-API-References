@@ -24,7 +24,7 @@ public sealed class DestinationCollection : IEnumerable
 | --- | --- |
 | [Count](./count/) { get; } | Gets the number of elements contained in the collection. |
 | [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether the collection is read-only. |
-| [Item](./item/) { get; } |  |
+| [Item](./item/) { get; } | Gets the destination object by index. |
 
 ## Methods
 

@@ -22,7 +22,7 @@ public class AssistantCreateRequest
 
 | Name | Description |
 | --- | --- |
-| [AssistantCreateRequest](./assistantcreaterequest/#constructor) | Initializes a new instance of the AssistantCreateRequest class. |
+| [AssistantCreateRequest](./assistantcreaterequest/#constructor) | The default constructor. |
 
 ## Properties
 

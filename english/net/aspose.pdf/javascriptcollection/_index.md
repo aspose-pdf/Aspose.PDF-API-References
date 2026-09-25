@@ -22,7 +22,7 @@ public class JavaScriptCollection
 
 | Name | Description |
 | --- | --- |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets or sets JavaScript from collection by its key. |
 | [Keys](./keys/) { get; } | List of keys in JavaScript collection. |
 
 ## Methods

@@ -22,7 +22,7 @@ public sealed class ColumnInfo
 
 | Name | Description |
 | --- | --- |
-| [ColumnInfo](./columninfo/#constructor) | Initializes a new instance of the ColumnInfo class. |
+| [ColumnInfo](./columninfo/#constructor) | The default constructor. |
 
 ## Properties
 

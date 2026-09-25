@@ -22,7 +22,7 @@ public class OpenAIContext
 
 | Name | Description |
 | --- | --- |
-| [OpenAIContext](./openaicontext/#constructor) | Initializes a new instance of the OpenAIContext class. |
+| [OpenAIContext](./openaicontext/#constructor) | The default constructor. |
 
 ## Properties
 

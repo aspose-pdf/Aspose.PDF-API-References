@@ -3,7 +3,7 @@ title: "Position.Equals"
 linktitle: "Equals"
 articleTitle: "Equals"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Position method. Determines whether the specified object is equal to the current object."
+description: "Position method. Determines whether the specified object is equal to the current Position object."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/position/equals/"

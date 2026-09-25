@@ -22,7 +22,7 @@ public class Choice
 
 | Name | Description |
 | --- | --- |
-| [Choice](./choice/#constructor) | Initializes a new instance of the Choice class. |
+| [Choice](./choice/#constructor) | The default constructor. |
 
 ## Properties
 

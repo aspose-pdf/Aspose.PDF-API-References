@@ -3,7 +3,7 @@ title: "SetFlat.SetFlat"
 linktitle: "SetFlat"
 articleTitle: "SetFlat"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "SetFlat constructor. Initializes a new instance of the SetFlat class."
+description: "SetFlat constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setflat/setflat/"

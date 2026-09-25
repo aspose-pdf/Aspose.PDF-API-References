@@ -23,7 +23,7 @@ public class GraphicsAbsorber : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [GraphicsAbsorber](./graphicsabsorber/#constructor) | Initializes a new instance of the GraphicsAbsorber class. |
+| [GraphicsAbsorber](./graphicsabsorber/#constructor) | The default constructor. |
 
 ## Properties
 
@@ -36,7 +36,6 @@ public class GraphicsAbsorber : IDisposable
 | Name | Description |
 | --- | --- |
 | [Dispose](./dispose/) | Releases all resources used by the [`GraphicsAbsorber`](../../aspose.pdf.vector/graphicsabsorber/) class. |
-| [Dispose](./dispose/)(*bool*) | Releases all resources used by the [`GraphicsAbsorber`](../../aspose.pdf.vector/graphicsabsorber/) class. |
 | [ResumeUpdate](./resumeupdate/) | Resume update for `Contents` and all `Contents`. |
 | [SuppressUpdate](./suppressupdate/) | Suppresses update for `Contents` and all `Contents`. |
 | [Visit](./visit/)(*Page*) | Performs search on the specified page. |

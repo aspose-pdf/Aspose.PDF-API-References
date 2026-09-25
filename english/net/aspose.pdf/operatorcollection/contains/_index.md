@@ -5,7 +5,7 @@ articleTitle: "Contains"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "OperatorCollection method. Returns true if the collection contains given operator."
 type: docs
-weight: 220
+weight: 210
 url: "/net/aspose.pdf/operatorcollection/contains/"
 product_version: "26.9.0"
 ---

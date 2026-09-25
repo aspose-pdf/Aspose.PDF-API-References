@@ -3,7 +3,7 @@ title: "RedactionAnnotation.RedactionAnnotation"
 linktitle: "RedactionAnnotation"
 articleTitle: "RedactionAnnotation"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "RedactionAnnotation constructor. Initializes a new instance of the RedactionAnnotation class."
+description: "RedactionAnnotation constructor. Constructor for RedactionAnnotation. For using in Generator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/redactionannotation/redactionannotation/"

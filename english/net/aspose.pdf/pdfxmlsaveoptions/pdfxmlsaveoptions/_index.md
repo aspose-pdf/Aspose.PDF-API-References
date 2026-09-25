@@ -3,7 +3,7 @@ title: "PdfXmlSaveOptions.PdfXmlSaveOptions"
 linktitle: "PdfXmlSaveOptions"
 articleTitle: "PdfXmlSaveOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfXmlSaveOptions constructor. Initializes a new instance of the PdfXmlSaveOptions class."
+description: "PdfXmlSaveOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pdfxmlsaveoptions/pdfxmlsaveoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## PdfXmlSaveOptions() {#constructor}
 
-Initializes a new instance of the PdfXmlSaveOptions class.
+The default constructor.
 
 ```csharp
 public PdfXmlSaveOptions()

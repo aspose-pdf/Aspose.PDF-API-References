@@ -3,7 +3,7 @@ title: "TeXFragment.TeXFragment"
 linktitle: "TeXFragment"
 articleTitle: "TeXFragment"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TeXFragment constructor. Initializes a new instance of the TeXFragment class."
+description: "TeXFragment constructor. Initializes a new instance of the HtmlFragment class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/texfragment/texfragment/"

@@ -3,7 +3,7 @@ title: "GraphInfo.Color"
 linktitle: "Color"
 articleTitle: "Color"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "GraphInfo property. Gets or sets a object that indicates the color of the graph."
+description: "GraphInfo property. Gets or sets a Color object that indicates the color of the graph."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/graphinfo/color/"

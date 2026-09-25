@@ -3,7 +3,7 @@ title: "ComparisonOptions.ComparisonOptions"
 linktitle: "ComparisonOptions"
 articleTitle: "ComparisonOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ComparisonOptions constructor. Initializes a new instance of the ComparisonOptions class."
+description: "ComparisonOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/comparisonoptions/comparisonoptions/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## ComparisonOptions() {#constructor}
 
-Initializes a new instance of the ComparisonOptions class.
+The default constructor.
 
 ```csharp
 public ComparisonOptions()

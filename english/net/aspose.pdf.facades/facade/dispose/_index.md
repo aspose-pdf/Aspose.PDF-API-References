@@ -5,7 +5,7 @@ articleTitle: "Dispose"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Facade method. Disposes the facade."
 type: docs
-weight: 110
+weight: 50
 url: "/net/aspose.pdf.facades/facade/dispose/"
 product_version: "26.9.0"
 ---

@@ -3,7 +3,7 @@ title: "VerticalAlignmentType.VerticalAlignmentType"
 linktitle: "VerticalAlignmentType"
 articleTitle: "VerticalAlignmentType"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "VerticalAlignmentType constructor. Initializes a new instance of the VerticalAlignmentType class."
+description: "VerticalAlignmentType constructor. Initializes vertical alignment by its name."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/verticalalignmenttype/verticalalignmenttype/"

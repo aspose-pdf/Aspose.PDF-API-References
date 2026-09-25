@@ -3,7 +3,7 @@ title: "FileCitation.FileCitation"
 linktitle: "FileCitation"
 articleTitle: "FileCitation"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "FileCitation constructor. Initializes a new instance of the FileCitation class."
+description: "FileCitation constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/filecitation/filecitation/"
@@ -11,7 +11,7 @@ product_version: "26.9.0"
 ---
 ## FileCitation() {#constructor}
 
-Initializes a new instance of the FileCitation class.
+The default constructor.
 
 ```csharp
 public FileCitation()

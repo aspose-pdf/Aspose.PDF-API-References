@@ -5,7 +5,7 @@ articleTitle: "ExportValueToJson"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Field method. Exports the content of the specified field into a JSON stream. Button field value are not exported."
 type: docs
-weight: 110
+weight: 90
 url: "/net/aspose.pdf.forms/field/exportvaluetojson/"
 product_version: "26.9.0"
 ---

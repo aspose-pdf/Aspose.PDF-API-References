@@ -37,7 +37,7 @@ public class BoundsCheckableList<T><T> : IEnumerable
 | --- | --- |
 | [Count](./count/) { get; } | Gets the number of elements contained in the System.Collections.Generic.List. |
 | [IsReadOnly](./isreadonly/) { get; } | Gets the value indicating if collection is readonly. |
-| [Item](./item/) { get; set; } |  |
+| [Item](./item/) { get; set; } | Gets or sets paragraph from or to collection. |
 
 ## Methods
 
@@ -54,12 +54,6 @@ public class BoundsCheckableList<T><T> : IEnumerable
 | [RemoveAt](./removeat/)(*int*) | Removes the element at the specified index of the System.Collections.Generic.List. |
 | [UpdateBoundsCheckMode](./updateboundscheckmode/)(*BoundsCheckMode*) | Updates boundsCheckMode parameter for initialized collection. |
 | [UpdateBoundsCheckMode](./updateboundscheckmode/)(*BoundsCheckMode, double, double*) | Updates boundsCheckMode parameter for initialized collection. |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| readonly [Items](./items/) |  |
 
 ### See Also
 

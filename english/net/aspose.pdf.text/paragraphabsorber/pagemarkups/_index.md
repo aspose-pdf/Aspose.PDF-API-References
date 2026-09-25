@@ -3,7 +3,7 @@ title: "ParagraphAbsorber.PageMarkups"
 linktitle: "PageMarkups"
 articleTitle: "PageMarkups"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ParagraphAbsorber property. Gets collection of that were absorbed."
+description: "ParagraphAbsorber property. Gets collection of PageMarkup that were absorbed."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/paragraphabsorber/pagemarkups/"

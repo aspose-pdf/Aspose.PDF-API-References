@@ -5,7 +5,7 @@ articleTitle: "CacheGlyphs"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "SaveOptions property. Gets or sets boolean value which indicates if will font glyphs be cached while preparing aps pages. Improves performance of conversion ..."
 type: docs
-weight: 50
+weight: 40
 url: "/net/aspose.pdf/saveoptions/cacheglyphs/"
 product_version: "26.9.0"
 ---

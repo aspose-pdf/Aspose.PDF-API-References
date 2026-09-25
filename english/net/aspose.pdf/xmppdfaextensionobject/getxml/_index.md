@@ -5,7 +5,7 @@ articleTitle: "GetXml"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "XmpPdfAExtensionObject method. Returns the list of xml elements that represent object in xml tree."
 type: docs
-weight: 20
+weight: 10
 url: "/net/aspose.pdf/xmppdfaextensionobject/getxml/"
 product_version: "26.9.0"
 ---
