@@ -1,10 +1,13 @@
 ---
-title: IImageDescriptionCopilot.GetImageDescriptionsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IImageDescriptionCopilot method. Asynchronously gets image descriptions for images from a PDF document
+title: "IImageDescriptionCopilot.GetImageDescriptionsAsync"
+linktitle: "GetImageDescriptionsAsync"
+articleTitle: "GetImageDescriptionsAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IImageDescriptionCopilot method. Asynchronously gets image descriptions for images from a PDF document."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/iimagedescriptioncopilot/getimagedescriptionsasync/
+url: "/net/aspose.pdf.ai/iimagedescriptioncopilot/getimagedescriptionsasync/"
+product_version: "26.9.0"
 ---
 ## IImageDescriptionCopilot.GetImageDescriptionsAsync method
 
@@ -25,9 +28,7 @@ A task representing the asynchronous operation with the image description result
 
 ### See Also
 
-* class [ImageDescriptionResult](../../imagedescriptionresult/)
-* interface [IImageDescriptionCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IImageDescriptionCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

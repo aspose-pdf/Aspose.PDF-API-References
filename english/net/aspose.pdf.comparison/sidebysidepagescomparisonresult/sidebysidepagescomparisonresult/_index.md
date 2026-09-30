@@ -1,14 +1,17 @@
 ---
-title: SideBySidePagesComparisonResult.SideBySidePagesComparisonResult
-second_title: Aspose.PDF for .NET API Reference
-description: SideBySidePagesComparisonResult constructor. Creates an instance of SideBySidePagesComparisonResult class
+title: "SideBySidePagesComparisonResult.SideBySidePagesComparisonResult"
+linktitle: "SideBySidePagesComparisonResult"
+articleTitle: "SideBySidePagesComparisonResult"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SideBySidePagesComparisonResult constructor. Creates an instance of SideBySidePagesComparisonResult class"
 type: docs
 weight: 10
-url: /net/aspose.pdf.comparison/sidebysidepagescomparisonresult/sidebysidepagescomparisonresult/
+url: "/net/aspose.pdf.comparison/sidebysidepagescomparisonresult/sidebysidepagescomparisonresult/"
+product_version: "26.9.0"
 ---
 ## SideBySidePagesComparisonResult constructor
 
-Creates an instance of [`SideBySidePagesComparisonResult`](../) class
+Creates an instance of [`SideBySidePagesComparisonResult`](../../../aspose.pdf.comparison/sidebysidepagescomparisonresult/) class
 
 ```csharp
 public SideBySidePagesComparisonResult(bool hasChanges, List<EditContainer> firstPageChanges, 
@@ -24,10 +27,7 @@ public SideBySidePagesComparisonResult(bool hasChanges, List<EditContainer> firs
 
 ### See Also
 
-* class [EditContainer](../../editcontainer/)
-* class [DiffOperation](../../diffoperation/)
-* class [SideBySidePagesComparisonResult](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SideBySidePagesComparisonResult](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

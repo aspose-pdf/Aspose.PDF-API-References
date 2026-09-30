@@ -1,10 +1,13 @@
 ---
-title: Color.MediumPurple
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FF9370DB
+title: "Color.MediumPurple"
+linktitle: "MediumPurple"
+articleTitle: "MediumPurple"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FF9370DB."
 type: docs
-weight: 860
-url: /net/aspose.pdf/color/mediumpurple/
+weight: 1030
+url: "/net/aspose.pdf/color/mediumpurple/"
+product_version: "26.9.0"
 ---
 ## Color.MediumPurple property
 
@@ -20,8 +23,7 @@ A representing a system-defined color.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

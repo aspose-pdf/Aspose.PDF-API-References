@@ -1,10 +1,13 @@
 ---
-title: MobiXmlSaveOptions.MobiXmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: MobiXmlSaveOptions constructor. The default constructor
+title: "MobiXmlSaveOptions.MobiXmlSaveOptions"
+linktitle: "MobiXmlSaveOptions"
+articleTitle: "MobiXmlSaveOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MobiXmlSaveOptions constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf/mobixmlsaveoptions/mobixmlsaveoptions/
+url: "/net/aspose.pdf/mobixmlsaveoptions/mobixmlsaveoptions/"
+product_version: "26.9.0"
 ---
 ## MobiXmlSaveOptions constructor
 
@@ -16,8 +19,7 @@ public MobiXmlSaveOptions()
 
 ### See Also
 
-* class [MobiXmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MobiXmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

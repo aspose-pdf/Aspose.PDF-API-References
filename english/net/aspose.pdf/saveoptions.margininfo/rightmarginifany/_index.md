@@ -1,10 +1,13 @@
 ---
-title: SaveOptions.MarginInfo.RightMarginIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo field. Represents right page marginif any
+title: "SaveOptions.MarginInfo.RightMarginIfAny"
+linktitle: "RightMarginIfAny"
+articleTitle: "RightMarginIfAny"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarginInfo field. Represents right page margin(if any)"
 type: docs
 weight: 40
-url: /net/aspose.pdf/saveoptions.margininfo/rightmarginifany/
+url: "/net/aspose.pdf/saveoptions.margininfo/rightmarginifany/"
+product_version: "26.9.0"
 ---
 ## SaveOptions.MarginInfo.RightMarginIfAny field
 
@@ -16,9 +19,7 @@ public MarginPartStyle RightMarginIfAny;
 
 ### See Also
 
-* class [MarginPartStyle](../../saveoptions.marginpartstyle/)
-* class [MarginInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SaveOptions.MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

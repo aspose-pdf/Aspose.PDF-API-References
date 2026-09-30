@@ -1,10 +1,13 @@
 ---
-title: PdfPageEditor.PdfPageEditor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor constructor. Constructor for PdfPageEditor class
+title: "PdfPageEditor.PdfPageEditor"
+linktitle: "PdfPageEditor"
+articleTitle: "PdfPageEditor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor constructor. Constructor for PdfPageEditor class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.facades/pdfpageeditor/pdfpageeditor/
+url: "/net/aspose.pdf.facades/pdfpageeditor/pdfpageeditor/"
+product_version: "26.9.0"
 ---
 ## PdfPageEditor() {#constructor}
 
@@ -16,13 +19,13 @@ public PdfPageEditor()
 
 ### See Also
 
-* class [PdfPageEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfPageEditor(Document) {#constructor_1}
+## PdfPageEditor([Document](../../../aspose.pdf/document/)) {#constructor_1}
 
 Constructor for PdfPageEditor class.
 
@@ -36,9 +39,8 @@ public PdfPageEditor(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [PdfPageEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

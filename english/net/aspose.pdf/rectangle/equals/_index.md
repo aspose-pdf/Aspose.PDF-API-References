@@ -1,10 +1,13 @@
 ---
-title: Rectangle.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle method. Check if rectangles are equal i.e. have same position and sizes
+title: "Rectangle.Equals"
+linktitle: "Equals"
+articleTitle: "Equals"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Check if rectangles are equal i.e. have same position and sizes."
 type: docs
-weight: 200
-url: /net/aspose.pdf/rectangle/equals/
+weight: 70
+url: "/net/aspose.pdf/rectangle/equals/"
+product_version: "26.9.0"
 ---
 ## Rectangle.Equals method
 
@@ -24,8 +27,7 @@ True if rectangles are eqals, false otherwise.
 
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

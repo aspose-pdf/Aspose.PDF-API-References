@@ -1,22 +1,28 @@
 ---
-title: TextFragment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment property. Gets or sets text state for the text that TextFragment object represents
+title: "TextFragment.TextState"
+linktitle: "TextState"
+articleTitle: "TextState"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment property. Gets or sets text state for the text that TextFragment object represents."
 type: docs
-weight: 150
-url: /net/aspose.pdf.text/textfragment/textstate/
+weight: 130
+url: "/net/aspose.pdf.text/textfragment/textstate/"
+product_version: "26.9.0"
 ---
 ## TextFragment.TextState property
 
-Gets or sets text state for the text that [`TextFragment`](../) object represents.
+Gets or sets text state for the text that [`TextFragment`](../../../aspose.pdf.text/textfragment/) object represents.
+
+Provides a way to change following properties of the text:
+ Font
+ FontSize
+ FontStyle
+ ForegroundColor
+ BackgroundColor
 
 ```csharp
 public TextFragmentState TextState { get; }
 ```
-
-## Remarks
-
-Provides a way to change following properties of the text: Font FontSize FontStyle ForegroundColor BackgroundColor
 
 ## Examples
 
@@ -39,16 +45,15 @@ absorber.TextFragments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawi
 absorber.TextFragments[1].TextState.FontSize = 15;
 
 // Save document
-doc.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");
 ```
 
 ### See Also
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber/)
-* class [Document](../../../aspose.pdf/document/)
-* class [TextFragmentState](../../textfragmentstate/)
-* class [TextFragment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* [TextFragmentAbsorber](../textfragmentabsorber/)
+* [Document](../document/)
+* class [TextFragmentState](../../../aspose.pdf.text/textfragmentstate/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

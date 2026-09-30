@@ -1,10 +1,13 @@
 ---
-title: CompositingParameters.IsMasked
-second_title: Aspose.PDF for .NET API Reference
-description: CompositingParameters property. Gets the mask flag
+title: "CompositingParameters.IsMasked"
+linktitle: "IsMasked"
+articleTitle: "IsMasked"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompositingParameters property. Gets the mask flag."
 type: docs
-weight: 40
-url: /net/aspose.pdf/compositingparameters/ismasked/
+weight: 60
+url: "/net/aspose.pdf/compositingparameters/ismasked/"
+product_version: "26.9.0"
 ---
 ## CompositingParameters.IsMasked property
 
@@ -16,8 +19,7 @@ public bool IsMasked { get; }
 
 ### See Also
 
-* class [CompositingParameters](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CompositingParameters](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

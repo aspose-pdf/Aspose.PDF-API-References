@@ -1,10 +1,13 @@
 ---
-title: Artifact.SetPdfPage
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact method. Sets PDF page which is placed on the document page as artifact
+title: "Artifact.SetPdfPage"
+linktitle: "SetPdfPage"
+articleTitle: "SetPdfPage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact method. Sets PDF page which is placed on the document page as artifact."
 type: docs
-weight: 310
-url: /net/aspose.pdf/artifact/setpdfpage/
+weight: 90
+url: "/net/aspose.pdf/artifact/setpdfpage/"
+product_version: "26.9.0"
 ---
 ## Artifact.SetPdfPage method
 
@@ -20,9 +23,8 @@ public void SetPdfPage(Page page)
 
 ### See Also
 
-* class [Page](../../page/)
-* class [Artifact](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

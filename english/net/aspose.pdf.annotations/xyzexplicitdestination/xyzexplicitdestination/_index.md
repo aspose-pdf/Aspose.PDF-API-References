@@ -1,36 +1,15 @@
 ---
-title: XYZExplicitDestination.XYZExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: XYZExplicitDestination constructor. Creates local explicit destination
+title: "XYZExplicitDestination.XYZExplicitDestination"
+linktitle: "XYZExplicitDestination"
+articleTitle: "XYZExplicitDestination"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XYZExplicitDestination constructor. Creates local explicit destination."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/xyzexplicitdestination/xyzexplicitdestination/
+url: "/net/aspose.pdf.annotations/xyzexplicitdestination/xyzexplicitdestination/"
+product_version: "26.9.0"
 ---
-## XYZExplicitDestination(Page, double, double, double) {#constructor_1}
-
-Creates local explicit destination.
-
-```csharp
-public XYZExplicitDestination(Page page, double left, double top, double zoom)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | The destination page object. |
-| left | Double | Left horizontal coordinate of the upper-left corner of the window. |
-| top | Double | Top vertical coordinate of the upper-left corner of the window. |
-| zoom | Double | Zoom factor. |
-
-### See Also
-
-* class [Page](../../../aspose.pdf/page/)
-* class [XYZExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## XYZExplicitDestination(int, double, double, double) {#constructor_2}
+## XYZExplicitDestination(int, double, double, double) {#constructor}
 
 Creates remote explicit destination.
 
@@ -47,8 +26,31 @@ public XYZExplicitDestination(int pageNumber, double left, double top, double zo
 
 ### See Also
 
-* class [XYZExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## XYZExplicitDestination([Page](../../../aspose.pdf/page/), double, double, double) {#constructor_1}
+
+Creates local explicit destination.
+
+```csharp
+public XYZExplicitDestination(Page page, double left, double top, double zoom)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | The destination page object. |
+| left | Double | Left horizontal coordinate of the upper-left corner of the window. |
+| top | Double | Top vertical coordinate of the upper-left corner of the window. |
+| zoom | Double | Zoom factor. |
+
+### See Also
+
+* class [Page](../../../aspose.pdf/page/)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,18 @@
 ---
-title: FormEditor.CopyOuterField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Copies an existing field from one PDF document to another document with original page number and ordinates. Notice Only for AcroForm fields excluding radio box
+title: "FormEditor.CopyOuterField"
+linktitle: "CopyOuterField"
+articleTitle: "CopyOuterField"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Copies an existing field from one PDF document to another document with original page number and ordinates. Notice: Only for AcroForm fiel..."
 type: docs
-weight: 160
-url: /net/aspose.pdf.facades/formeditor/copyouterfield/
+weight: 180
+url: "/net/aspose.pdf.facades/formeditor/copyouterfield/"
+product_version: "26.9.0"
 ---
-## CopyOuterField(string, string) {#copyouterfield}
+## CopyOuterField(string, string) {#copyouterfield}
 
-Copies an existing field from one PDF document to another document with original page number and ordinates. Notice: Only for AcroForm fields (excluding radio box).
+Copies an existing field from one PDF document to another document with original page number and ordinates.
+ Notice: Only for AcroForm fields (excluding radio box).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName)
@@ -30,15 +34,16 @@ formEditor.Save();
 
 ### See Also
 
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CopyOuterField(string, string, int) {#copyouterfield_1}
+## CopyOuterField(string, string, int) {#copyouterfield_1}
 
-Copies an existing field from one PDF document to another document with specified page number and original ordinates. Notice: Only for AcroForm fields (excluding radio box).
+Copies an existing field from one PDF document to another document with specified page number and original ordinates.
+ Notice: Only for AcroForm fields (excluding radio box).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName, int pageNum)
@@ -60,15 +65,16 @@ formEditor.Save();
 
 ### See Also
 
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CopyOuterField(string, string, int, float, float) {#copyouterfield_2}
+## CopyOuterField(string, string, int, float, float) {#copyouterfield_2}
 
-Copies an existing field from one PDF document to another document with specified page number and ordinates. Notice: Only for AcroForm fields (excluding radio box).
+Copies an existing field from one PDF document to another document with specified page number and ordinates.
+ Notice: Only for AcroForm fields (excluding radio box).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName, int pageNum, float abscissa, 
@@ -92,8 +98,7 @@ formEditor.CopyOuterField("source.pdf", "textField" , 2, 100, 200);
 
 ### See Also
 
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

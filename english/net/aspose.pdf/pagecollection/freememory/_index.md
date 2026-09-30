@@ -1,10 +1,13 @@
 ---
-title: PageCollection.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection method. Clears cached data
+title: "PageCollection.FreeMemory"
+linktitle: "FreeMemory"
+articleTitle: "FreeMemory"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection method. Clears cached data"
 type: docs
-weight: 150
-url: /net/aspose.pdf/pagecollection/freememory/
+weight: 240
+url: "/net/aspose.pdf/pagecollection/freememory/"
+product_version: "26.9.0"
 ---
 ## PageCollection.FreeMemory method
 
@@ -16,8 +19,7 @@ public void FreeMemory()
 
 ### See Also
 
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

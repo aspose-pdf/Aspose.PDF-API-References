@@ -1,10 +1,13 @@
 ---
-title: ActionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection property. Gets action by its index
+title: "ActionCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ActionCollection property. Gets action by its index."
 type: docs
-weight: 40
-url: /net/aspose.pdf.annotations/actioncollection/item/
+weight: 130
+url: "/net/aspose.pdf.annotations/actioncollection/item/"
+product_version: "26.9.0"
 ---
 ## ActionCollection indexer
 
@@ -24,9 +27,8 @@ Retreived action.
 
 ### See Also
 
-* class [PdfAction](../../pdfaction/)
-* class [ActionCollection](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CollectionItem.AllNames
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionItem property. Gets a collection of all the names of collection item values
+title: "CollectionItem.AllNames"
+linktitle: "AllNames"
+articleTitle: "AllNames"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CollectionItem property. Gets a collection of all the names of collection item values."
 type: docs
-weight: 10
-url: /net/aspose.pdf/collectionitem/allnames/
+weight: 70
+url: "/net/aspose.pdf/collectionitem/allnames/"
+product_version: "26.9.0"
 ---
 ## CollectionItem.AllNames property
 
@@ -16,8 +19,7 @@ public ICollection<string> AllNames { get; }
 
 ### See Also
 
-* class [CollectionItem](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CollectionItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class Dash
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.Dash class. Class representing line dash pattern
+title: "Dash Class"
+linktitle: "Dash"
+articleTitle: "Dash"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.Dash class. Class representing line dash pattern."
 type: docs
-weight: 1740
-url: /net/aspose.pdf.annotations/dash/
+weight: 270
+url: "/net/aspose.pdf.annotations/dash/"
+keywords: "Dash, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## Dash class
 
@@ -18,20 +22,19 @@ public sealed class Dash
 
 | Name | Description |
 | --- | --- |
-| [Dash](dash/#constructor_1)(int[]) | Constructor for Dash. Defines a pattern of dashes and gaps that shall be used in drawing a dashed border. |
-| [Dash](dash/#constructor)(int, int) | Constructor for Dash. Defines dashed border with specified dash and gap, which are unchanged for the entire dashed border. |
+| [Dash](./dash/#constructor)(int[]) | Constructor for Dash. Defines a pattern of dashes and gaps that shall be used in drawing a dashed border. |
+| [Dash](./dash/#constructor_1)(int, int) | Constructor for Dash. Defines dashed border with specified dash and gap, which are unchanged for the entire dashed border. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Off](../../aspose.pdf.annotations/dash/off/) { get; set; } | Gets or sets length of first gap between dashes. |
-| [On](../../aspose.pdf.annotations/dash/on/) { get; set; } | Gets or sets length of first dash. |
-| [Pattern](../../aspose.pdf.annotations/dash/pattern/) { get; } | Gets dash array defining a pattern of dashes and gaps that shall be used in drawing a dashed border. |
+| [Off](./off/) { get; set; } | Gets or sets length of first gap between dashes. |
+| [On](./on/) { get; set; } | Gets or sets length of first dash. |
+| [Pattern](./pattern/) { get; } | Gets dash array defining a pattern of dashes and gaps that shall be used in drawing a dashed border. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

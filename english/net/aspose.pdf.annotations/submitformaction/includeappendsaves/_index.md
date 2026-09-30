@@ -1,10 +1,13 @@
 ---
-title: SubmitFormAction.IncludeAppendSaves
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction field. If set the submitted FDF file shall include the contents of all incremental updates
+title: "SubmitFormAction.IncludeAppendSaves"
+linktitle: "IncludeAppendSaves"
+articleTitle: "IncludeAppendSaves"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SubmitFormAction field. If set, the submitted FDF file shall include the contents of all incremental updates."
 type: docs
-weight: 120
-url: /net/aspose.pdf.annotations/submitformaction/includeappendsaves/
+weight: 100
+url: "/net/aspose.pdf.annotations/submitformaction/includeappendsaves/"
+product_version: "26.9.0"
 ---
 ## SubmitFormAction.IncludeAppendSaves field
 
@@ -16,8 +19,7 @@ public const int IncludeAppendSaves;
 
 ### See Also
 
-* class [SubmitFormAction](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

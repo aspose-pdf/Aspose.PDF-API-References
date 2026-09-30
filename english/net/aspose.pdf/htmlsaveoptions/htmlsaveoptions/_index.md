@@ -1,14 +1,17 @@
 ---
-title: HtmlSaveOptions.HtmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions constructor. Initializes a new instance of the HtmlSaveOptions class
+title: "HtmlSaveOptions.HtmlSaveOptions"
+linktitle: "HtmlSaveOptions"
+articleTitle: "HtmlSaveOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions constructor. Initializes a new instance of the HtmlSaveOptions class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/htmlsaveoptions/htmlsaveoptions/
+url: "/net/aspose.pdf/htmlsaveoptions/htmlsaveoptions/"
+product_version: "26.9.0"
 ---
 ## HtmlSaveOptions() {#constructor}
 
-Initializes a new instance of the [`HtmlSaveOptions`](../) class.
+Initializes a new instance of the [`HtmlSaveOptions`](../../../aspose.pdf/htmlsaveoptions/) class.
 
 ```csharp
 public HtmlSaveOptions()
@@ -16,36 +19,15 @@ public HtmlSaveOptions()
 
 ### See Also
 
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## HtmlSaveOptions(HtmlDocumentType) {#constructor_1}
+## HtmlSaveOptions(bool) {#constructor_1}
 
-Initializes a new instance of the [`HtmlSaveOptions`](../) class.
-
-```csharp
-public HtmlSaveOptions(HtmlDocumentType documentType)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| documentType | HtmlDocumentType | The [`HtmlDocumentType`](../../htmldocumenttype/). |
-
-### See Also
-
-* enum [HtmlDocumentType](../../htmldocumenttype/)
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## HtmlSaveOptions(bool) {#constructor_3}
-
-Initializes a new instance of the [`HtmlSaveOptions`](../) class.
+Initializes a new instance of the [`HtmlSaveOptions`](../../../aspose.pdf/htmlsaveoptions/) class.
 
 ```csharp
 public HtmlSaveOptions(bool fixedLayout)
@@ -57,15 +39,36 @@ public HtmlSaveOptions(bool fixedLayout)
 
 ### See Also
 
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## HtmlSaveOptions(HtmlDocumentType, bool) {#constructor_2}
+## HtmlSaveOptions([HtmlDocumentType](../../../aspose.pdf/htmldocumenttype/)) {#constructor_2}
 
-Initializes a new instance of the [`HtmlSaveOptions`](../) class.
+Initializes a new instance of the [`HtmlSaveOptions`](../../../aspose.pdf/htmlsaveoptions/) class.
+
+```csharp
+public HtmlSaveOptions(HtmlDocumentType documentType)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| documentType | HtmlDocumentType | The <see cref="T:Aspose.Pdf.HtmlDocumentType" />. |
+
+### See Also
+
+* enum [HtmlDocumentType](../../../aspose.pdf/htmldocumenttype/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## HtmlSaveOptions([HtmlDocumentType](../../../aspose.pdf/htmldocumenttype/), bool) {#constructor_3}
+
+Initializes a new instance of the [`HtmlSaveOptions`](../../../aspose.pdf/htmlsaveoptions/) class.
 
 ```csharp
 public HtmlSaveOptions(HtmlDocumentType documentType, bool fixedLayout)
@@ -73,14 +76,13 @@ public HtmlSaveOptions(HtmlDocumentType documentType, bool fixedLayout)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| documentType | HtmlDocumentType | The [`HtmlDocumentType`](../../htmldocumenttype/). |
+| documentType | HtmlDocumentType | The <see cref="T:Aspose.Pdf.HtmlDocumentType" />. |
 | fixedLayout | Boolean | if set to `true` HTML is created as fixed layout. |
 
 ### See Also
 
-* enum [HtmlDocumentType](../../htmldocumenttype/)
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [HtmlDocumentType](../../../aspose.pdf/htmldocumenttype/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

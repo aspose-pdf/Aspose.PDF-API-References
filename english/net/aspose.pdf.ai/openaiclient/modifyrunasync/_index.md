@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.ModifyRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Modifies an existing run within a thread asynchronously
+title: "OpenAIClient.ModifyRunAsync"
+linktitle: "ModifyRunAsync"
+articleTitle: "ModifyRunAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Modifies an existing run within a thread asynchronously."
 type: docs
-weight: 410
-url: /net/aspose.pdf.ai/openaiclient/modifyrunasync/
+weight: 490
+url: "/net/aspose.pdf.ai/openaiclient/modifyrunasync/"
+product_version: "26.9.0"
 ---
 ## OpenAIClient.ModifyRunAsync method
 
@@ -30,15 +33,13 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Thrown when the thread Id is null or empty. |
-| [AIClientException](../../aiclientexception/) | Thrown when the run Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the run Id is null or empty. |
 
 ### See Also
 
-* class [RunResponse](../../runresponse/)
-* class [RunModifyRequest](../../runmodifyrequest/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RunModifyRequest](../../../aspose.pdf.ai/runmodifyrequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

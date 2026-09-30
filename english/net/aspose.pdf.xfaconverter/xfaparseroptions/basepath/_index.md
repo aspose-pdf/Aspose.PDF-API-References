@@ -1,10 +1,13 @@
 ---
-title: XfaParserOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: XfaParserOptions property. Gets or sets the base path
+title: "XfaParserOptions.BasePath"
+linktitle: "BasePath"
+articleTitle: "BasePath"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XfaParserOptions property. Gets or sets the base path."
 type: docs
-weight: 20
-url: /net/aspose.pdf.xfaconverter/xfaparseroptions/basepath/
+weight: 60
+url: "/net/aspose.pdf.xfaconverter/xfaparseroptions/basepath/"
+product_version: "26.9.0"
 ---
 ## XfaParserOptions.BasePath property
 
@@ -20,8 +23,7 @@ The base path.
 
 ### See Also
 
-* class [XfaParserOptions](../)
-* namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XfaParserOptions](../)
+* namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
+* assembly [Aspose.PDF](../../../)
 

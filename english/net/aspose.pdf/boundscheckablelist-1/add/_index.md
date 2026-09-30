@@ -1,12 +1,15 @@
 ---
-title: BoundsCheckableList1.Add
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList method. Adds an object to the end of the System.Collections.Generic.List depending on boundsCheckMode parameter
+title: "BoundsCheckableList<T>.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BoundsCheckableList method. Adds an object to the end of the System.Collections.Generic.List depending on \"boundsCheckMode\" parameter."
 type: docs
-weight: 50
-url: /net/aspose.pdf/boundscheckablelist-1/add/
+weight: 30
+url: "/net/aspose.pdf/boundscheckablelist-1/add/"
+product_version: "26.9.0"
 ---
-## BoundsCheckableList&lt;T&gt;.Add method
+## BoundsCheckableList<T>.Add method
 
 Adds an object to the end of the System.Collections.Generic.List depending on "boundsCheckMode" parameter.
 
@@ -20,8 +23,7 @@ public void Add(T item)
 
 ### See Also
 
-* class [BoundsCheckableList&lt;T&gt;](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BoundsCheckableList<T>](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

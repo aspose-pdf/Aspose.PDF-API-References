@@ -1,10 +1,13 @@
 ---
-title: StreamSaveTarget.StreamSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: StreamSaveTarget constructor. Initializes new stream save target
+title: "StreamSaveTarget.StreamSaveTarget"
+linktitle: "StreamSaveTarget"
+articleTitle: "StreamSaveTarget"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StreamSaveTarget constructor. Initializes new stream save target."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/streamsavetarget/streamsavetarget/
+url: "/net/aspose.pdf.lowcode/streamsavetarget/streamsavetarget/"
+product_version: "26.9.0"
 ---
 ## StreamSaveTarget constructor
 
@@ -20,8 +23,7 @@ public StreamSaveTarget(Stream stream)
 
 ### See Also
 
-* class [StreamSaveTarget](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StreamSaveTarget](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

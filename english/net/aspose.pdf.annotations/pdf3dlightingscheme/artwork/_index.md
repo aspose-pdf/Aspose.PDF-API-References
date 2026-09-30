@@ -1,10 +1,13 @@
 ---
-title: PDF3DLightingScheme.Artwork
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DLightingScheme field. The Artwork lighting scheme
+title: "PDF3DLightingScheme.Artwork"
+linktitle: "Artwork"
+articleTitle: "Artwork"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DLightingScheme field. The \"Artwork\" lighting scheme."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/pdf3dlightingscheme/artwork/
+weight: 40
+url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/artwork/"
+product_version: "26.9.0"
 ---
 ## PDF3DLightingScheme.Artwork field
 
@@ -16,8 +19,7 @@ public static PDF3DLightingScheme Artwork;
 
 ### See Also
 
-* class [PDF3DLightingScheme](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DLightingScheme](../../../aspose.pdf.annotations/pdf3dlightingscheme/)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

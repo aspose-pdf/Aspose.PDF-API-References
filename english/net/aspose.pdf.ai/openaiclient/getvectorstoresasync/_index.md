@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.GetVectorStoresAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Retrieves a list of vector stores asynchronously
+title: "OpenAIClient.GetVectorStoresAsync"
+linktitle: "GetVectorStoresAsync"
+articleTitle: "GetVectorStoresAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Retrieves a list of vector stores asynchronously."
 type: docs
-weight: 390
-url: /net/aspose.pdf.ai/openaiclient/getvectorstoresasync/
+weight: 110
+url: "/net/aspose.pdf.ai/openaiclient/getvectorstoresasync/"
+product_version: "26.9.0"
 ---
 ## OpenAIClient.GetVectorStoresAsync method
 
@@ -27,10 +30,8 @@ A task that represents the asynchronous operation. The task result contains a li
 
 ### See Also
 
-* class [VectorStoreListResponse](../../vectorstorelistresponse/)
-* class [VectorStoreListQueryParameters](../../vectorstorelistqueryparameters/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [VectorStoreListQueryParameters](../../../aspose.pdf.ai/vectorstorelistqueryparameters/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

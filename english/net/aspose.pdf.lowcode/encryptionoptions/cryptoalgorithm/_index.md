@@ -1,10 +1,13 @@
 ---
-title: EncryptionOptions.CryptoAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptionOptions property. Cryptographic algorithm see CryptoAlgorithm for details
+title: "EncryptionOptions.CryptoAlgorithm"
+linktitle: "CryptoAlgorithm"
+articleTitle: "CryptoAlgorithm"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EncryptionOptions property. Cryptographic algorithm, see CryptoAlgorithm for details."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/encryptionoptions/cryptoalgorithm/
+weight: 50
+url: "/net/aspose.pdf.lowcode/encryptionoptions/cryptoalgorithm/"
+product_version: "26.9.0"
 ---
 ## EncryptionOptions.CryptoAlgorithm property
 
@@ -16,9 +19,8 @@ public CryptoAlgorithm CryptoAlgorithm { get; set; }
 
 ### See Also
 
-* enum [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
-* class [EncryptionOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
+* class [EncryptionOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

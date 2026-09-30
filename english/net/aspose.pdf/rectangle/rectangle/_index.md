@@ -1,10 +1,13 @@
 ---
-title: Rectangle.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle constructor. Constructor of Rectangle
+title: "Rectangle.Rectangle"
+linktitle: "Rectangle"
+articleTitle: "Rectangle"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle constructor. Constructor of Rectangle."
 type: docs
 weight: 10
-url: /net/aspose.pdf/rectangle/rectangle/
+url: "/net/aspose.pdf/rectangle/rectangle/"
+product_version: "26.9.0"
 ---
 ## Rectangle constructor
 
@@ -24,8 +27,7 @@ public Rectangle(double llx, double lly, double urx, double ury, bool normalizeC
 
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

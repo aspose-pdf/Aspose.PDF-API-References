@@ -1,10 +1,13 @@
 ---
-title: FileListResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: FileListResponse property. Gets or sets the object type which is always list
+title: "FileListResponse.Object"
+linktitle: "Object"
+articleTitle: "Object"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileListResponse property. Gets or sets the object type, which is always list."
 type: docs
 weight: 20
-url: /net/aspose.pdf.ai/filelistresponse/object/
+url: "/net/aspose.pdf.ai/filelistresponse/object/"
+product_version: "26.9.0"
 ---
 ## FileListResponse.Object property
 
@@ -16,8 +19,7 @@ public string Object { get; set; }
 
 ### See Also
 
-* class [FileListResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileListResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

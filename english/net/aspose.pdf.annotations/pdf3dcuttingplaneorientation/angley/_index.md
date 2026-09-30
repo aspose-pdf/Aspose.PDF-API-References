@@ -1,10 +1,13 @@
 ---
-title: PDF3DCuttingPlaneOrientation.AngleY
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCuttingPlaneOrientation property. Gets or sets the angle to Y axis
+title: "PDF3DCuttingPlaneOrientation.AngleY"
+linktitle: "AngleY"
+articleTitle: "AngleY"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCuttingPlaneOrientation property. Gets or sets the angle to Y axis."
 type: docs
-weight: 30
-url: /net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley/
+weight: 50
+url: "/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley/"
+product_version: "26.9.0"
 ---
 ## PDF3DCuttingPlaneOrientation.AngleY property
 
@@ -20,8 +23,7 @@ The angle Y axis.
 
 ### See Also
 
-* class [PDF3DCuttingPlaneOrientation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DCuttingPlaneOrientation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

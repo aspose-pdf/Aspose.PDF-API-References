@@ -1,14 +1,18 @@
 ---
-title: PdfFileEditor.AddMargins
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Resizes page contents and add specifed margins. Margins are specified in default space units
+title: "PdfFileEditor.AddMargins"
+linktitle: "AddMargins"
+articleTitle: "AddMargins"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Resizes page contents and add specifed margins. Margins are specified in default space units."
 type: docs
-weight: 220
-url: /net/aspose.pdf.facades/pdffileeditor/addmargins/
+weight: 900
+url: "/net/aspose.pdf.facades/pdffileeditor/addmargins/"
+product_version: "26.9.0"
 ---
-## AddMargins(Stream, Stream, int[], double, double, double, double) {#addmargins}
+## AddMargins(Stream, Stream, int[], double, double, double, double) {#addmargins}
 
-Resizes page contents and add specifed margins. Margins are specified in default space units.
+Resizes page contents and add specifed margins. 
+ Margins are specified in default space units.
 
 ```csharp
 public bool AddMargins(Stream source, Stream destination, int[] pages, double leftMargin, 
@@ -51,15 +55,16 @@ fileEditor.AddMargins(src, dest,
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddMargins(string, string, int[], double, double, double, double) {#addmargins_1}
+## AddMargins(string, string, int[], double, double, double, double) {#addmargins_1}
 
-Resizes page contents and add specifed margins. Margins are specified in default space units.
+Resizes page contents and add specifed margins. 
+ Margins are specified in default space units.
 
 ```csharp
 public bool AddMargins(string source, string destination, int[] pages, double leftMargin, 
@@ -99,8 +104,7 @@ fileEditor.AddMargins("input.pdf", "output.pdf",
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

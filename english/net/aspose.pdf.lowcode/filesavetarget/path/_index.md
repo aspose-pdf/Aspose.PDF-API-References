@@ -1,10 +1,13 @@
 ---
-title: FileSaveTarget.Path
-second_title: Aspose.PDF for .NET API Reference
-description: FileSaveTarget property. Gets the path to the file of current save target
+title: "FileSaveTarget.Path"
+linktitle: "Path"
+articleTitle: "Path"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSaveTarget property. Gets the path to the file of current save target."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/filesavetarget/path/
+weight: 30
+url: "/net/aspose.pdf.lowcode/filesavetarget/path/"
+product_version: "26.9.0"
 ---
 ## FileSaveTarget.Path property
 
@@ -20,8 +23,7 @@ A string representing the path to the output file.
 
 ### See Also
 
-* class [FileSaveTarget](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileSaveTarget](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

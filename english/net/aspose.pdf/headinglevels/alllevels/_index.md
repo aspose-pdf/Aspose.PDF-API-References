@@ -1,10 +1,13 @@
 ---
-title: HeadingLevels.AllLevels
-second_title: Aspose.PDF for .NET API Reference
-description: HeadingLevels property. Gets all heading levels
+title: "HeadingLevels.AllLevels"
+linktitle: "AllLevels"
+articleTitle: "AllLevels"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HeadingLevels property. Gets all heading levels."
 type: docs
-weight: 20
-url: /net/aspose.pdf/headinglevels/alllevels/
+weight: 40
+url: "/net/aspose.pdf/headinglevels/alllevels/"
+product_version: "26.9.0"
 ---
 ## HeadingLevels.AllLevels property
 
@@ -16,8 +19,7 @@ public IList<double> AllLevels { get; }
 
 ### See Also
 
-* class [HeadingLevels](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HeadingLevels](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

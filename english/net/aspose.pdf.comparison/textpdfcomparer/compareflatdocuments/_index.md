@@ -1,14 +1,18 @@
 ---
-title: TextPdfComparer.CompareFlatDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer method. Compares two documents page by page. The documents are compared as a whole. Before comparing text the texts of document pages are combined into one text
+title: "TextPdfComparer.CompareFlatDocuments"
+linktitle: "CompareFlatDocuments"
+articleTitle: "CompareFlatDocuments"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextPdfComparer method. Compares two documents page by page. The documents are compared as a whole. Before comparing text, the texts of document pages are co..."
 type: docs
-weight: 50
-url: /net/aspose.pdf.comparison/textpdfcomparer/compareflatdocuments/
+weight: 40
+url: "/net/aspose.pdf.comparison/textpdfcomparer/compareflatdocuments/"
+product_version: "26.9.0"
 ---
-## CompareFlatDocuments(Document, Document, ComparisonOptions) {#compareflatdocuments}
+## CompareFlatDocuments([Document](../../../aspose.pdf/document/), [Document](../../../aspose.pdf/document/), [ComparisonOptions](../../../aspose.pdf.comparison/comparisonoptions/)) {#compareflatdocuments}
 
-Compares two documents page by page. The documents are compared as a whole. Before comparing text, the texts of document pages are combined into one text.
+Compares two documents page by page.
+ The documents are compared as a whole. Before comparing text, the texts of document pages are combined into one text.
 
 ```csharp
 public static List<DiffOperation> CompareFlatDocuments(Document document1, Document document2, 
@@ -27,18 +31,18 @@ List of changes.
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [Document](../../../aspose.pdf/document/)
-* class [ComparisonOptions](../../comparisonoptions/)
-* class [TextPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ComparisonOptions](../../../aspose.pdf.comparison/comparisonoptions/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CompareFlatDocuments(Document, Document, ComparisonOptions, string) {#compareflatdocuments_1}
+## CompareFlatDocuments([Document](../../../aspose.pdf/document/), [Document](../../../aspose.pdf/document/), [ComparisonOptions](../../../aspose.pdf.comparison/comparisonoptions/), string) {#compareflatdocuments_1}
 
-Compares two documents page by page. The result is saved in a PDF file. The documents are compared as a whole. Before comparing text, the texts of document pages are combined into one text.
+Compares two documents page by page. The result is saved in a PDF file.
+ The documents are compared as a whole. Before comparing text, the texts of document pages are combined into one text.
 
 ```csharp
 public static List<DiffOperation> CompareFlatDocuments(Document document1, Document document2, 
@@ -58,11 +62,9 @@ List of changes.
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [Document](../../../aspose.pdf/document/)
-* class [ComparisonOptions](../../comparisonoptions/)
-* class [TextPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [ComparisonOptions](../../../aspose.pdf.comparison/comparisonoptions/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

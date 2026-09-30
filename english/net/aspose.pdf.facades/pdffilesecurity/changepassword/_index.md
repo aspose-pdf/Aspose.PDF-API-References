@@ -1,14 +1,20 @@
 ---
-title: PdfFileSecurity.ChangePassword
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity method. Changes the user password and owner password by owner password keeps the original security settings. The new user password and the new owner password can be null or empty. The owner password will be replaced with a random string if the new owner password is null or empty. Throws an exception if process failed
+title: "PdfFileSecurity.ChangePassword"
+linktitle: "ChangePassword"
+articleTitle: "ChangePassword"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSecurity method. Changes the user password and owner password by owner password, keeps the original security settings. The new user password and the n..."
 type: docs
-weight: 40
-url: /net/aspose.pdf.facades/pdffilesecurity/changepassword/
+weight: 110
+url: "/net/aspose.pdf.facades/pdffilesecurity/changepassword/"
+product_version: "26.9.0"
 ---
-## ChangePassword(string, string, string) {#changepassword}
+## ChangePassword(string, string, string) {#changepassword}
 
-Changes the user password and owner password by owner password, keeps the original security settings. The new user password and the new owner password can be null or empty. The owner password will be replaced with a random string if the new owner password is null or empty. Throws an exception if process failed.
+Changes the user password and owner password by owner password, keeps the original security settings.
+ The new user password and the new owner password can be null or empty. The owner password will be replaced 
+ with a random string if the new owner password is null or empty.
+ Throws an exception if process failed.
 
 ```csharp
 public bool ChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword)
@@ -37,20 +43,23 @@ True for success.
  Dim inFile As String = ".D:\\input.pdf"  'The TestPath may be re-assigned.'
  Dim outFile As String = "D:\\output.pdf"  'The TestPath may be re-assigned.'
  Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
- fileSecurity.ChangePassword("owner","newuser","newowner")	
+ fileSecurity.ChangePassword("owner","newuser","newowner")
 ```
 
 ### See Also
 
-* class [PdfFileSecurity](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ChangePassword(string, string, string, DocumentPrivilege, KeySize) {#changepassword_1}
+## ChangePassword(string, string, string, [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/), [KeySize](../../../aspose.pdf.facades/keysize/)) {#changepassword_1}
 
-Changes the user password and password by owner password, allows to reset Pdf documnent security. The new user password and the new owner password can be null or empty. The owner password will be replaced with a random string if the new owner password is null or empty. Throws an exception if process failed.
+Changes the user password and password by owner password, allows to reset Pdf documnent security.
+ The new user password and the new owner password can be null or empty. The owner password will be replaced 
+ with a random string if the new owner password is null or empty.
+ Throws an exception if process failed.
 
 ```csharp
 public bool ChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword, 
@@ -87,17 +96,23 @@ fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Prin
 
 ### See Also
 
-* class [DocumentPrivilege](../../documentprivilege/)
-* enum [KeySize](../../keysize/)
-* class [PdfFileSecurity](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* enum [KeySize](../../../aspose.pdf.facades/keysize/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ChangePassword(string, string, string, DocumentPrivilege, KeySize, Algorithm) {#changepassword_2}
+## ChangePassword(string, string, string, [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/), [KeySize](../../../aspose.pdf.facades/keysize/), [Algorithm](../../../aspose.pdf.facades/algorithm/)) {#changepassword_2}
 
-Changes the user password and password by owner password, allows to reset Pdf documnent security. The new user password and the new owner password can be null or empty. The owner password will be replaced with a random string if the new owner password is null or empty. There are 6 possible combinations of KeySize and Algorithm values. However (KeySize.x40, Algorithm.AES) and (KeySize.x256, Algorithm.RC4) are invalid and corresponding exception will be raised if kit encounters this combination. Throws an exception if process failed.
+Changes the user password and password by owner password, allows to reset Pdf documnent security.
+ The new user password and the new owner password can be null or empty. The owner password will be replaced 
+ with a random string if the new owner password is null or empty.
+ There are 6 possible combinations of KeySize and Algorithm values. 
+ However (KeySize.x40, Algorithm.AES) and (KeySize.x256, Algorithm.RC4) are invalid and corresponding 
+ exception will be raised if kit encounters this combination.
+ Throws an exception if process failed.
 
 ```csharp
 public bool ChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword, 
@@ -135,11 +150,10 @@ fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Prin
 
 ### See Also
 
-* class [DocumentPrivilege](../../documentprivilege/)
-* enum [KeySize](../../keysize/)
-* enum [Algorithm](../../algorithm/)
-* class [PdfFileSecurity](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* enum [KeySize](../../../aspose.pdf.facades/keysize/)
+* enum [Algorithm](../../../aspose.pdf.facades/algorithm/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

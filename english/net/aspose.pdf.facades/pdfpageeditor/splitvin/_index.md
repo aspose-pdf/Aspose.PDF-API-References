@@ -1,10 +1,13 @@
 ---
-title: PdfPageEditor.SPLITVIN
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor field. In Vertical Split
+title: "PdfPageEditor.SPLITVIN"
+linktitle: "SPLITVIN"
+articleTitle: "SPLITVIN"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. In Vertical Split"
 type: docs
-weight: 310
-url: /net/aspose.pdf.facades/pdfpageeditor/splitvin/
+weight: 230
+url: "/net/aspose.pdf.facades/pdfpageeditor/splitvin/"
+product_version: "26.9.0"
 ---
 ## PdfPageEditor.SPLITVIN field
 
@@ -16,8 +19,7 @@ public const int SPLITVIN;
 
 ### See Also
 
-* class [PdfPageEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

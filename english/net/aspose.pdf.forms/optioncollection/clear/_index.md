@@ -1,10 +1,13 @@
 ---
-title: OptionCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection method. Removes all items from collection
+title: "OptionCollection.Clear"
+linktitle: "Clear"
+articleTitle: "Clear"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptionCollection method. Removes all items from collection."
 type: docs
-weight: 70
-url: /net/aspose.pdf.forms/optioncollection/clear/
+weight: 60
+url: "/net/aspose.pdf.forms/optioncollection/clear/"
+product_version: "26.9.0"
 ---
 ## OptionCollection.Clear method
 
@@ -16,8 +19,7 @@ public void Clear()
 
 ### See Also
 
-* class [OptionCollection](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

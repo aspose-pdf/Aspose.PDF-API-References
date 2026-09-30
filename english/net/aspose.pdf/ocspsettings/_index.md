@@ -1,10 +1,14 @@
 ---
-title: Class OcspSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.OcspSettings class. Represents the ocsp settings using during signing process
+title: "OcspSettings Class"
+linktitle: "OcspSettings"
+articleTitle: "OcspSettings"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.OcspSettings class. Represents the ocsp settings using during signing process."
 type: docs
-weight: 8310
-url: /net/aspose.pdf/ocspsettings/
+weight: 1950
+url: "/net/aspose.pdf/ocspsettings/"
+keywords: "OcspSettings, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## OcspSettings class
 
@@ -18,18 +22,17 @@ public class OcspSettings
 
 | Name | Description |
 | --- | --- |
-| [OcspSettings](ocspsettings/)(string) | Initializes a new instance of the `OcspSettings` class. |
+| [OcspSettings](./ocspsettings/)(string) | Initializes a new instance of the [`OcspSettings`](../../aspose.pdf/ocspsettings/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [RequestTimeout](../../aspose.pdf/ocspsettings/requesttimeout/) { get; set; } | Gets or sets the request timeout duration in milliseconds for the OCSP request. |
-| [ServerUrl](../../aspose.pdf/ocspsettings/serverurl/) { get; set; } | Gets and sets the ocsp server url. |
+| [RequestTimeout](./requesttimeout/) { get; set; } | Gets or sets the request timeout duration in milliseconds for the OCSP request. |
+| [ServerUrl](./serverurl/) { get; set; } | Gets and sets the ocsp server url. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

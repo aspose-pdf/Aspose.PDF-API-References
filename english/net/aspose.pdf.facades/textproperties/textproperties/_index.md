@@ -1,14 +1,17 @@
 ---
-title: TextProperties.TextProperties
-second_title: Aspose.PDF for .NET API Reference
-description: TextProperties constructor. Creates TextProperties object for the specified text size
+title: "TextProperties.TextProperties"
+linktitle: "TextProperties"
+articleTitle: "TextProperties"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextProperties constructor. Creates TextProperties object for the specified text size"
 type: docs
 weight: 10
-url: /net/aspose.pdf.facades/textproperties/textproperties/
+url: "/net/aspose.pdf.facades/textproperties/textproperties/"
+product_version: "26.9.0"
 ---
 ## TextProperties constructor
 
-Creates [`TextProperties`](../) object for the specified text size
+Creates [`TextProperties`](../../../aspose.pdf.facades/textproperties/) object for the specified text size
 
 ```csharp
 public TextProperties(double textSize)
@@ -20,8 +23,7 @@ public TextProperties(double textSize)
 
 ### See Also
 
-* class [TextProperties](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

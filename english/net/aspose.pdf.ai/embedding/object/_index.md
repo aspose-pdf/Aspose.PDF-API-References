@@ -1,10 +1,13 @@
 ---
-title: Embedding.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Embedding property. Gets or sets the object type which is always embedding
+title: "Embedding.Object"
+linktitle: "Object"
+articleTitle: "Object"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Embedding property. Gets or sets the object type, which is always \"embedding\"."
 type: docs
-weight: 40
-url: /net/aspose.pdf.ai/embedding/object/
+weight: 20
+url: "/net/aspose.pdf.ai/embedding/object/"
+product_version: "26.9.0"
 ---
 ## Embedding.Object property
 
@@ -16,8 +19,7 @@ public string Object { get; set; }
 
 ### See Also
 
-* class [Embedding](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Embedding](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

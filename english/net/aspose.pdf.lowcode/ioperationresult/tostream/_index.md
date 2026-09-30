@@ -1,10 +1,13 @@
 ---
-title: IOperationResult.ToStream
-second_title: Aspose.PDF for .NET API Reference
-description: IOperationResult method. Tries to convert the result to the stream object
+title: "IOperationResult.ToStream"
+linktitle: "ToStream"
+articleTitle: "ToStream"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOperationResult method. Tries to convert the result to the stream object."
 type: docs
-weight: 60
-url: /net/aspose.pdf.lowcode/ioperationresult/tostream/
+weight: 20
+url: "/net/aspose.pdf.lowcode/ioperationresult/tostream/"
+product_version: "26.9.0"
 ---
 ## IOperationResult.ToStream method
 
@@ -20,8 +23,7 @@ A stream object representing the output data if the result is stream; otherwise 
 
 ### See Also
 
-* interface [IOperationResult](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOperationResult](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: HtmlToPdfOptions.HtmlToPdfOptions
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlToPdfOptions constructor. The default constructor
+title: "HtmlToPdfOptions.HtmlToPdfOptions"
+linktitle: "HtmlToPdfOptions"
+articleTitle: "HtmlToPdfOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlToPdfOptions constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/htmltopdfoptions/htmltopdfoptions/
+url: "/net/aspose.pdf.lowcode/htmltopdfoptions/htmltopdfoptions/"
+product_version: "26.9.0"
 ---
 ## HtmlToPdfOptions constructor
 
@@ -16,8 +19,7 @@ public HtmlToPdfOptions()
 
 ### See Also
 
-* class [HtmlToPdfOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HtmlToPdfOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

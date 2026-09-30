@@ -1,10 +1,13 @@
 ---
-title: Document.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Removes all fields from the document and place their values instead
+title: "Document.Flatten"
+linktitle: "Flatten"
+articleTitle: "Flatten"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Removes all fields from the document and place their values instead."
 type: docs
-weight: 660
-url: /net/aspose.pdf/document/flatten/
+weight: 560
+url: "/net/aspose.pdf/document/flatten/"
+product_version: "26.9.0"
 ---
 ## Flatten() {#flatten}
 
@@ -16,9 +19,9 @@ public void Flatten()
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,9 +39,7 @@ public void Flatten(FlattenSettings flattenSettings)
 
 ### See Also
 
-* class [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

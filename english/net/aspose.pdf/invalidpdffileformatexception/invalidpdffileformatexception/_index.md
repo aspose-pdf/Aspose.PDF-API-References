@@ -1,14 +1,37 @@
 ---
-title: InvalidPdfFileFormatException.InvalidPdfFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: InvalidPdfFileFormatException constructor. Initializes a new instance of the InvalidPdfFileFormatException class
+title: "InvalidPdfFileFormatException.InvalidPdfFileFormatException"
+linktitle: "InvalidPdfFileFormatException"
+articleTitle: "InvalidPdfFileFormatException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "InvalidPdfFileFormatException constructor. Initializes a new instance of the InvalidPdfFileFormatException class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/invalidpdffileformatexception/invalidpdffileformatexception/
+url: "/net/aspose.pdf/invalidpdffileformatexception/invalidpdffileformatexception/"
+product_version: "26.9.0"
 ---
+## InvalidPdfFileFormatException(Exception) {#constructor}
+
+Initializes a new instance of the [`InvalidPdfFileFormatException`](../../../aspose.pdf/invalidpdffileformatexception/) class with a reference to the inner exception that is the cause of this exception.
+
+```csharp
+public InvalidPdfFileFormatException(Exception innerException)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
+
+### See Also
+
+* class [InvalidPdfFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## InvalidPdfFileFormatException(string) {#constructor_1}
 
-Initializes a new instance of the [`InvalidPdfFileFormatException`](../) class.
+Initializes a new instance of the [`InvalidPdfFileFormatException`](../../../aspose.pdf/invalidpdffileformatexception/) class.
 
 ```csharp
 public InvalidPdfFileFormatException(string message)
@@ -20,15 +43,15 @@ public InvalidPdfFileFormatException(string message)
 
 ### See Also
 
-* class [InvalidPdfFileFormatException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [InvalidPdfFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## InvalidPdfFileFormatException(string, Exception) {#constructor_2}
+## InvalidPdfFileFormatException(string, Exception) {#constructor_2}
 
-Initializes a new instance of the [`InvalidPdfFileFormatException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [`InvalidPdfFileFormatException`](../../../aspose.pdf/invalidpdffileformatexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
 ```csharp
 public InvalidPdfFileFormatException(string message, Exception innerException)
@@ -41,28 +64,7 @@ public InvalidPdfFileFormatException(string message, Exception innerException)
 
 ### See Also
 
-* class [InvalidPdfFileFormatException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## InvalidPdfFileFormatException(Exception) {#constructor}
-
-Initializes a new instance of the [`InvalidPdfFileFormatException`](../) class with a reference to the inner exception that is the cause of this exception.
-
-```csharp
-public InvalidPdfFileFormatException(Exception innerException)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
-
-### See Also
-
-* class [InvalidPdfFileFormatException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [InvalidPdfFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

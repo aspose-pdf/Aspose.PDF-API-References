@@ -1,10 +1,13 @@
 ---
-title: TableElement.RepeatingRowsCount
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement property. Gets the first rows count repeated for several pages
+title: "TableElement.RepeatingRowsCount"
+linktitle: "RepeatingRowsCount"
+articleTitle: "RepeatingRowsCount"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableElement property. Gets the first rows count repeated for several pages."
 type: docs
-weight: 160
-url: /net/aspose.pdf.logicalstructure/tableelement/repeatingrowscount/
+weight: 210
+url: "/net/aspose.pdf.logicalstructure/tableelement/repeatingrowscount/"
+product_version: "26.9.0"
 ---
 ## TableElement.RepeatingRowsCount property
 
@@ -16,8 +19,7 @@ public int RepeatingRowsCount { get; set; }
 
 ### See Also
 
-* class [TableElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,17 @@
 ---
-title: InvalidCgmFileFormatException.InvalidCgmFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: InvalidCgmFileFormatException constructor. Initializes a new instance of the InvalidCgmFileFormatException class
+title: "InvalidCgmFileFormatException.InvalidCgmFileFormatException"
+linktitle: "InvalidCgmFileFormatException"
+articleTitle: "InvalidCgmFileFormatException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "InvalidCgmFileFormatException constructor. Initializes a new instance of the InvalidCgmFileFormatException class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/invalidcgmfileformatexception/invalidcgmfileformatexception/
+url: "/net/aspose.pdf/invalidcgmfileformatexception/invalidcgmfileformatexception/"
+product_version: "26.9.0"
 ---
 ## InvalidCgmFileFormatException() {#constructor}
 
-Initializes a new instance of the [`InvalidCgmFileFormatException`](../) class.
+Initializes a new instance of the [`InvalidCgmFileFormatException`](../../../aspose.pdf/invalidcgmfileformatexception/) class.
 
 ```csharp
 public InvalidCgmFileFormatException()
@@ -16,15 +19,35 @@ public InvalidCgmFileFormatException()
 
 ### See Also
 
-* class [InvalidCgmFileFormatException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [InvalidCgmFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## InvalidCgmFileFormatException(Exception) {#constructor_1}
+
+Initializes a new instance of the [`InvalidCgmFileFormatException`](../../../aspose.pdf/invalidcgmfileformatexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+
+```csharp
+public InvalidCgmFileFormatException(Exception innerException)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
+
+### See Also
+
+* class [InvalidCgmFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## InvalidCgmFileFormatException(string) {#constructor_2}
 
-Initializes a new instance of the [`InvalidCgmFileFormatException`](../) class.
+Initializes a new instance of the [`InvalidCgmFileFormatException`](../../../aspose.pdf/invalidcgmfileformatexception/) class.
 
 ```csharp
 public InvalidCgmFileFormatException(string message)
@@ -36,15 +59,15 @@ public InvalidCgmFileFormatException(string message)
 
 ### See Also
 
-* class [InvalidCgmFileFormatException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [InvalidCgmFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## InvalidCgmFileFormatException(string, Exception) {#constructor_3}
+## InvalidCgmFileFormatException(string, Exception) {#constructor_3}
 
-Initializes a new instance of the [`InvalidCgmFileFormatException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [`InvalidCgmFileFormatException`](../../../aspose.pdf/invalidcgmfileformatexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
 ```csharp
 public InvalidCgmFileFormatException(string message, Exception innerException)
@@ -57,28 +80,7 @@ public InvalidCgmFileFormatException(string message, Exception innerException)
 
 ### See Also
 
-* class [InvalidCgmFileFormatException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## InvalidCgmFileFormatException(Exception) {#constructor_1}
-
-Initializes a new instance of the [`InvalidCgmFileFormatException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
-
-```csharp
-public InvalidCgmFileFormatException(Exception innerException)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
-
-### See Also
-
-* class [InvalidCgmFileFormatException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [InvalidCgmFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

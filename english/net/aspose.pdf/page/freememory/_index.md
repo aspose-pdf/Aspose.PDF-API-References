@@ -1,10 +1,13 @@
 ---
-title: Page.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: Page method. Clears cached data
+title: "Page.FreeMemory"
+linktitle: "FreeMemory"
+articleTitle: "FreeMemory"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page method. Clears cached data"
 type: docs
-weight: 440
-url: /net/aspose.pdf/page/freememory/
+weight: 300
+url: "/net/aspose.pdf/page/freememory/"
+product_version: "26.9.0"
 ---
 ## Page.FreeMemory method
 
@@ -16,8 +19,7 @@ public void FreeMemory()
 
 ### See Also
 
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

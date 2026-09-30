@@ -1,10 +1,13 @@
 ---
-title: AttributeKey.RowSpan
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey field. RowSpan attribute Table attribute owner
+title: "AttributeKey.RowSpan"
+linktitle: "RowSpan"
+articleTitle: "RowSpan"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. RowSpan attribute (Table attribute owner)."
 type: docs
-weight: 250
-url: /net/aspose.pdf.logicalstructure/attributekey/rowspan/
+weight: 410
+url: "/net/aspose.pdf.logicalstructure/attributekey/rowspan/"
+product_version: "26.9.0"
 ---
 ## AttributeKey.RowSpan field
 
@@ -16,8 +19,7 @@ public static readonly AttributeKey RowSpan;
 
 ### See Also
 
-* class [AttributeKey](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

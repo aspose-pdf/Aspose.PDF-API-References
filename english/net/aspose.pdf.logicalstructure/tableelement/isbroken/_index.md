@@ -1,10 +1,13 @@
 ---
-title: TableElement.IsBroken
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement property. Gets or sets the table is broken  will be truncated for next page
+title: "TableElement.IsBroken"
+linktitle: "IsBroken"
+articleTitle: "IsBroken"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableElement property. Gets or sets the table is broken - will be truncated for next page."
 type: docs
-weight: 130
-url: /net/aspose.pdf.logicalstructure/tableelement/isbroken/
+weight: 160
+url: "/net/aspose.pdf.logicalstructure/tableelement/isbroken/"
+product_version: "26.9.0"
 ---
 ## TableElement.IsBroken property
 
@@ -16,8 +19,7 @@ public bool IsBroken { get; set; }
 
 ### See Also
 
-* class [TableElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,17 @@
 ---
-title: TextFragmentAbsorber.TextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber property. Gets collection of search occurrences that are presented with TextFragment objects
+title: "TextFragmentAbsorber.TextFragments"
+linktitle: "TextFragments"
+articleTitle: "TextFragments"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber property. Gets collection of search occurrences that are presented with TextFragment objects."
 type: docs
-weight: 90
-url: /net/aspose.pdf.text/textfragmentabsorber/textfragments/
+weight: 210
+url: "/net/aspose.pdf.text/textfragmentabsorber/textfragments/"
+product_version: "26.9.0"
 ---
 ## TextFragmentAbsorber.TextFragments property
 
-Gets collection of search occurrences that are presented with [`TextFragment`](../../textfragment/) objects.
+Gets collection of search occurrences that are presented with [`TextFragment`](../../../aspose.pdf.text/textfragment/) objects.
 
 ```csharp
 public TextFragmentCollection TextFragments { get; set; }
@@ -38,14 +41,13 @@ foreach (TextFragment textFragment in absorber.TextFragments)
 }
 
 // Save document
-doc.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");
 ```
 
 ### See Also
 
-* class [TextFragmentCollection](../../textfragmentcollection/)
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

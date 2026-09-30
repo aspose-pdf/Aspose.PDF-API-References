@@ -1,10 +1,13 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.QueueItem.QueueItem
-second_title: Aspose.PDF for .NET API Reference
-description: QueueItem constructor. Constructor specifies mac subtable10 by default
+title: "PdfASymbolicFontEncodingStrategy.QueueItem.PdfASymbolicFontEncodingStrategy.QueueItem"
+linktitle: "PdfASymbolicFontEncodingStrategy.QueueItem"
+articleTitle: "PdfASymbolicFontEncodingStrategy.QueueItem"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "QueueItem constructor. Constructor, specifies mac subtable(1,0) by default"
 type: docs
 weight: 10
-url: /net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/queueitem/
+url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/queueitem/"
+product_version: "26.9.0"
 ---
 ## QueueItem() {#constructor}
 
@@ -16,30 +19,9 @@ public QueueItem()
 
 ### See Also
 
-* class [QueueItem](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## QueueItem(ushort, ushort) {#constructor_2}
-
-Constructor
-
-```csharp
-public QueueItem(ushort platformID, ushort platformSpecificID)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| platformID | UInt16 | Platform identifier for encoding subtable |
-| platformSpecificID | UInt16 | Platform-specific encoding identifier for encoding subtable |
-
-### See Also
-
-* class [QueueItem](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfASymbolicFontEncodingStrategy.QueueItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -57,9 +39,28 @@ public QueueItem(CMapEncodingTableType cmapTable)
 
 ### See Also
 
-* enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
-* class [QueueItem](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfASymbolicFontEncodingStrategy.QueueItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## QueueItem(ushort, ushort) {#constructor_2}
+
+Constructor
+
+```csharp
+public QueueItem(ushort platformID, ushort platformSpecificID)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| platformID | UInt16 | Platform identifier for encoding subtable |
+| platformSpecificID | UInt16 | Platform-specific encoding identifier for encoding subtable |
+
+### See Also
+
+* class [PdfASymbolicFontEncodingStrategy.QueueItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

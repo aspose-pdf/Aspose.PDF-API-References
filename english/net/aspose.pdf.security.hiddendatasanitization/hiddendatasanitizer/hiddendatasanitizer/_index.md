@@ -1,14 +1,18 @@
 ---
-title: HiddenDataSanitizer.HiddenDataSanitizer
-second_title: Aspose.PDF for .NET API Reference
-description: HiddenDataSanitizer constructor. Provides functionality to sanitize hidden data from a PDF document ensuring that sensitive or unnecessary information such as metadata annotations JavaScripts or private content is removed or transformed
+title: "HiddenDataSanitizer.HiddenDataSanitizer"
+linktitle: "HiddenDataSanitizer"
+articleTitle: "HiddenDataSanitizer"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HiddenDataSanitizer constructor. Provides functionality to sanitize hidden data from a PDF document, ensuring that sensitive or unnecessary information such ..."
 type: docs
 weight: 10
-url: /net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizer/hiddendatasanitizer/
+url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizer/hiddendatasanitizer/"
+product_version: "26.9.0"
 ---
 ## HiddenDataSanitizer constructor
 
-Provides functionality to sanitize hidden data from a PDF document, ensuring that sensitive or unnecessary information such as metadata, annotations, JavaScripts, or private content is removed or transformed.
+Provides functionality to sanitize hidden data from a PDF document, ensuring that sensitive or unnecessary
+ information such as metadata, annotations, JavaScripts, or private content is removed or transformed.
 
 ```csharp
 public HiddenDataSanitizer(HiddenDataSanitizationOptions options)
@@ -20,9 +24,8 @@ public HiddenDataSanitizer(HiddenDataSanitizationOptions options)
 
 ### See Also
 
-* class [HiddenDataSanitizationOptions](../../hiddendatasanitizationoptions/)
-* class [HiddenDataSanitizer](../)
-* namespace [Aspose.Pdf.Security.HiddenDataSanitization](../../../aspose.pdf.security.hiddendatasanitization/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HiddenDataSanitizationOptions](../../../aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/)
+* class [HiddenDataSanitizer](../)
+* namespace [Aspose.Pdf.Security.HiddenDataSanitization](../../../aspose.pdf.security.hiddendatasanitization/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,17 @@
 ---
-title: OpenAIClient.Builder.Builder
-second_title: Aspose.PDF for .NET API Reference
-description: Builder constructor. Initializes a new instance of the Builder class with the API key
+title: "OpenAIClient.Builder.OpenAIClient.Builder"
+linktitle: "OpenAIClient.Builder"
+articleTitle: "OpenAIClient.Builder"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Builder constructor. Initializes a new instance of the Builder class with the API key."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/openaiclient.builder/builder/
+url: "/net/aspose.pdf.ai/openaiclient.builder/builder/"
+product_version: "26.9.0"
 ---
-## OpenAIClient.Builder constructor
+## Builder constructor
 
-Initializes a new instance of the [`Builder`](../) class with the API key.
+Initializes a new instance of the `Builder` class with the API key.
 
 ```csharp
 public Builder(string apiKey)
@@ -20,8 +23,7 @@ public Builder(string apiKey)
 
 ### See Also
 
-* class [Builder](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIClient.Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

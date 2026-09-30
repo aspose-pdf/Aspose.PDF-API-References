@@ -1,10 +1,13 @@
 ---
-title: AttributeName.RubyAlign_End
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName field. Attribute RubyAlign End  The content shall be aligned on the end edge in the inlineprogression direction
+title: "AttributeName.RubyAlign_End"
+linktitle: "RubyAlign_End"
+articleTitle: "RubyAlign_End"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute RubyAlign: End - The content shall be aligned on the end edge in the inline-progression direction."
 type: docs
-weight: 450
-url: /net/aspose.pdf.logicalstructure/attributename/rubyalign_end/
+weight: 440
+url: "/net/aspose.pdf.logicalstructure/attributename/rubyalign_end/"
+product_version: "26.9.0"
 ---
 ## AttributeName.RubyAlign_End field
 
@@ -16,8 +19,7 @@ public static readonly AttributeName RubyAlign_End;
 
 ### See Also
 
-* class [AttributeName](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

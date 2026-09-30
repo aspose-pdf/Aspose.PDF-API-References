@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.ModifyAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Modifies an existing assistant asynchronously
+title: "OpenAIClient.ModifyAssistantAsync"
+linktitle: "ModifyAssistantAsync"
+articleTitle: "ModifyAssistantAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Modifies an existing assistant asynchronously."
 type: docs
-weight: 400
-url: /net/aspose.pdf.ai/openaiclient/modifyassistantasync/
+weight: 420
+url: "/net/aspose.pdf.ai/openaiclient/modifyassistantasync/"
+product_version: "26.9.0"
 ---
 ## OpenAIClient.ModifyAssistantAsync method
 
@@ -29,14 +32,12 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Thrown when the assistant Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the assistant Id is null or empty. |
 
 ### See Also
 
-* class [AssistantResponse](../../assistantresponse/)
-* class [AssistantModifyRequest](../../assistantmodifyrequest/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AssistantModifyRequest](../../../aspose.pdf.ai/assistantmodifyrequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

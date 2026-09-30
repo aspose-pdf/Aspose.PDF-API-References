@@ -1,14 +1,17 @@
 ---
-title: FormFlattenSelectedFieldsOptions.FormFlattenSelectedFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormFlattenSelectedFieldsOptions constructor. Initializes new instance of the FormFlattenSelectedFieldsOptions object
+title: "FormFlattenSelectedFieldsOptions.FormFlattenSelectedFieldsOptions"
+linktitle: "FormFlattenSelectedFieldsOptions"
+articleTitle: "FormFlattenSelectedFieldsOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFlattenSelectedFieldsOptions constructor. Initializes new instance of the FormFlattenSelectedFieldsOptions object."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/formflattenselectedfieldsoptions/formflattenselectedfieldsoptions/
+url: "/net/aspose.pdf.lowcode/formflattenselectedfieldsoptions/formflattenselectedfieldsoptions/"
+product_version: "26.9.0"
 ---
 ## FormFlattenSelectedFieldsOptions constructor
 
-Initializes new instance of the [`FormFlattenSelectedFieldsOptions`](../) object.
+Initializes new instance of the [`FormFlattenSelectedFieldsOptions`](../../../aspose.pdf.lowcode/formflattenselectedfieldsoptions/) object.
 
 ```csharp
 public FormFlattenSelectedFieldsOptions(SelectField selectField)
@@ -20,9 +23,8 @@ public FormFlattenSelectedFieldsOptions(SelectField selectField)
 
 ### See Also
 
-* delegate [SelectField](../../selectfield/)
-* class [FormFlattenSelectedFieldsOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* delegate [SelectField](../../../aspose.pdf.lowcode/selectfield/)
+* class [FormFlattenSelectedFieldsOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

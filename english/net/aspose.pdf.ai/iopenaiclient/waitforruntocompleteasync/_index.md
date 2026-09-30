@@ -1,10 +1,13 @@
 ---
-title: IOpenAIClient.WaitForRunToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Waits for a run to complete within a thread asynchronously
+title: "IOpenAIClient.WaitForRunToCompleteAsync"
+linktitle: "WaitForRunToCompleteAsync"
+articleTitle: "WaitForRunToCompleteAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Waits for a run to complete within a thread asynchronously."
 type: docs
-weight: 440
-url: /net/aspose.pdf.ai/iopenaiclient/waitforruntocompleteasync/
+weight: 200
+url: "/net/aspose.pdf.ai/iopenaiclient/waitforruntocompleteasync/"
+product_version: "26.9.0"
 ---
 ## IOpenAIClient.WaitForRunToCompleteAsync method
 
@@ -29,14 +32,12 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Thrown when the thread Id is null or empty. |
-| [AIClientException](../../aiclientexception/) | Thrown when the run Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the run Id is null or empty. |
 
 ### See Also
 
-* class [RunResponse](../../runresponse/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

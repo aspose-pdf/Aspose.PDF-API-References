@@ -1,10 +1,13 @@
 ---
-title: SetGrayStroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SetGrayStroke method. Returns text representation of operator
+title: "SetGrayStroke.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetGrayStroke method. Returns text representation of operator."
 type: docs
-weight: 50
-url: /net/aspose.pdf.operators/setgraystroke/tostring/
+weight: 40
+url: "/net/aspose.pdf.operators/setgraystroke/tostring/"
+product_version: "26.9.0"
 ---
 ## SetGrayStroke.ToString method
 
@@ -20,8 +23,7 @@ Text representation of operator.
 
 ### See Also
 
-* class [SetGrayStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetGrayStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

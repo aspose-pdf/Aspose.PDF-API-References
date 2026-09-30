@@ -1,10 +1,13 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.Description
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchemaDescription property. Gets the optional description
+title: "XmpPdfAExtensionSchemaDescription.Description"
+linktitle: "Description"
+articleTitle: "Description"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchemaDescription property. Gets the optional description."
 type: docs
-weight: 20
-url: /net/aspose.pdf/xmppdfaextensionschemadescription/description/
+weight: 50
+url: "/net/aspose.pdf/xmppdfaextensionschemadescription/description/"
+product_version: "26.9.0"
 ---
 ## XmpPdfAExtensionSchemaDescription.Description property
 
@@ -16,8 +19,7 @@ public string Description { get; }
 
 ### See Also
 
-* class [XmpPdfAExtensionSchemaDescription](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpPdfAExtensionSchemaDescription](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

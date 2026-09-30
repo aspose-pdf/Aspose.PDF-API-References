@@ -1,10 +1,13 @@
 ---
-title: FormDataConverter.ClearTableBeforeExport
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter property. ExportFromData will clear table before data export
+title: "FormDataConverter.ClearTableBeforeExport"
+linktitle: "ClearTableBeforeExport"
+articleTitle: "ClearTableBeforeExport"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormDataConverter property. ExportFromData will clear table before data export."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/formdataconverter/cleartablebeforeexport/
+weight: 120
+url: "/net/aspose.pdf.facades/formdataconverter/cleartablebeforeexport/"
+product_version: "26.9.0"
 ---
 ## FormDataConverter.ClearTableBeforeExport property
 
@@ -16,8 +19,7 @@ public bool ClearTableBeforeExport { get; set; }
 
 ### See Also
 
-* class [FormDataConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormDataConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

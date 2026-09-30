@@ -1,14 +1,21 @@
 ---
-title: LoadOptions.ResourceLoadingResult.ExceptionOfLoadingIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: ResourceLoadingResult field. Sometimes its impossible to load requested resource for some reason. Unavailability of resource often does not lead to crash of conversiov and result document can be created anywaybut maybe in a bit worse quality without images etc.. If exception occured during loading just catch it and put in this parameter  sometimes that information is usefull for converter for rendering of result
+title: "LoadOptions.ResourceLoadingResult.ExceptionOfLoadingIfAny"
+linktitle: "ExceptionOfLoadingIfAny"
+articleTitle: "ExceptionOfLoadingIfAny"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ResourceLoadingResult field. Sometimes it's impossible to load requested resource for some reason. Unavailability of resource often does not lead to crash of..."
 type: docs
 weight: 40
-url: /net/aspose.pdf/loadoptions.resourceloadingresult/exceptionofloadingifany/
+url: "/net/aspose.pdf/loadoptions.resourceloadingresult/exceptionofloadingifany/"
+product_version: "26.9.0"
 ---
 ## LoadOptions.ResourceLoadingResult.ExceptionOfLoadingIfAny field
 
-Sometimes it's impossible to load requested resource for some reason. Unavailability of resource often does not lead to crash of conversiov and result document can be created anyway(but maybe in a bit worse quality, without images etc.). If exception occured during loading, just catch it and put in this parameter - sometimes that information is usefull for converter for rendering of result.
+Sometimes it's impossible to load requested resource for some reason.
+ Unavailability of resource often does not lead to crash of conversiov and
+ result document can be created anyway(but maybe in a bit worse quality, without images etc.).
+ If exception occured during loading, just catch it and put in this parameter - 
+ sometimes that information is usefull for converter for rendering of result.
 
 ```csharp
 public Exception ExceptionOfLoadingIfAny;
@@ -16,8 +23,7 @@ public Exception ExceptionOfLoadingIfAny;
 
 ### See Also
 
-* class [ResourceLoadingResult](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LoadOptions.ResourceLoadingResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

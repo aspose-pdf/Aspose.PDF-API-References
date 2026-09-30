@@ -1,28 +1,32 @@
 ---
-title: PdfViewer.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer method. Initializes the facade
+title: "PdfViewer.BindPdf"
+linktitle: "BindPdf"
+articleTitle: "BindPdf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Initializes the facade."
 type: docs
-weight: 250
-url: /net/aspose.pdf.facades/pdfviewer/bindpdf/
+weight: 260
+url: "/net/aspose.pdf.facades/pdfviewer/bindpdf/"
+product_version: "26.9.0"
 ---
-## BindPdf(string) {#bindpdf_2}
+## BindPdf([Document](../../../aspose.pdf/document/)) {#bindpdf}
 
 Initializes the facade.
 
 ```csharp
-public void BindPdf(string srcFile)
+public void BindPdf(Document srcDoc)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFile | String | The PDF file. |
+| srcDoc | Document | The Aspose.Pdf.Document object. |
 
 ### See Also
 
-* class [PdfViewer](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,29 +44,27 @@ public void BindPdf(Stream srcStream)
 
 ### See Also
 
-* class [PdfViewer](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BindPdf(Document) {#bindpdf}
+## BindPdf(string) {#bindpdf_2}
 
 Initializes the facade.
 
 ```csharp
-public void BindPdf(Document srcDoc)
+public void BindPdf(string srcFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcDoc | Document | The Aspose.Pdf.Document object. |
+| srcFile | String | The PDF file. |
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [PdfViewer](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

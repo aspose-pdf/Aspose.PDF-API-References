@@ -1,10 +1,13 @@
 ---
-title: Error.Message
-second_title: Aspose.PDF for .NET API Reference
-description: Error property. Gets or sets the error message
+title: "Error.Message"
+linktitle: "Message"
+articleTitle: "Message"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Error property. Gets or sets the error message."
 type: docs
-weight: 40
-url: /net/aspose.pdf.ai/error/message/
+weight: 20
+url: "/net/aspose.pdf.ai/error/message/"
+product_version: "26.9.0"
 ---
 ## Error.Message property
 
@@ -16,8 +19,7 @@ public string Message { get; set; }
 
 ### See Also
 
-* class [Error](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Error](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

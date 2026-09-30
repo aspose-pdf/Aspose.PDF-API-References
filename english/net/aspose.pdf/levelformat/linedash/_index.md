@@ -1,10 +1,13 @@
 ---
-title: LevelFormat.LineDash
-second_title: Aspose.PDF for .NET API Reference
-description: LevelFormat property. Gets or sets TOC line dash
+title: "LevelFormat.LineDash"
+linktitle: "LineDash"
+articleTitle: "LineDash"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LevelFormat property. Gets or sets TOC line dash."
 type: docs
 weight: 20
-url: /net/aspose.pdf/levelformat/linedash/
+url: "/net/aspose.pdf/levelformat/linedash/"
+product_version: "26.9.0"
 ---
 ## LevelFormat.LineDash property
 
@@ -16,9 +19,8 @@ public TabLeaderType LineDash { get; set; }
 
 ### See Also
 
-* enum [TabLeaderType](../../../aspose.pdf.text/tableadertype/)
-* class [LevelFormat](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [TabLeaderType](../../../aspose.pdf.text/tableadertype/)
+* class [LevelFormat](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

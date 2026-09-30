@@ -1,10 +1,13 @@
 ---
-title: ValidationOptions.ValidationMethod
-second_title: Aspose.PDF for .NET API Reference
-description: ValidationOptions property. Gets or sets the method used to validate a certificate
+title: "ValidationOptions.ValidationMethod"
+linktitle: "ValidationMethod"
+articleTitle: "ValidationMethod"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ValidationOptions property. Gets or sets the method used to validate a certificate."
 type: docs
-weight: 40
-url: /net/aspose.pdf.security/validationoptions/validationmethod/
+weight: 30
+url: "/net/aspose.pdf.security/validationoptions/validationmethod/"
+product_version: "26.9.0"
 ---
 ## ValidationOptions.ValidationMethod property
 
@@ -16,9 +19,8 @@ public ValidationMethod ValidationMethod { get; set; }
 
 ### See Also
 
-* enum [ValidationMethod](../../validationmethod/)
-* class [ValidationOptions](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [ValidationMethod](../../../aspose.pdf.security/validationmethod/)
+* class [ValidationOptions](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 

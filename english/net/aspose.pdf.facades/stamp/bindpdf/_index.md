@@ -1,45 +1,15 @@
 ---
-title: Stamp.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp method. Sets PDF file and number of page which will be used as stamp
+title: "Stamp.BindPdf"
+linktitle: "BindPdf"
+articleTitle: "BindPdf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp method. Sets PDF file and number of page which will be used as stamp."
 type: docs
-weight: 120
-url: /net/aspose.pdf.facades/stamp/bindpdf/
+weight: 20
+url: "/net/aspose.pdf.facades/stamp/bindpdf/"
+product_version: "26.9.0"
 ---
-## BindPdf(string, int) {#bindpdf_1}
-
-Sets PDF file and number of page which will be used as stamp.
-
-```csharp
-public void BindPdf(string pdfFile, int pageNumber)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pdfFile | String | Path to PDF file. |
-| pageNumber | Int32 | Number of page in PDF file |
-
-## Examples
-
-```csharp
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
-Stamp stamp = new Stamp();
-//First page will be used as stamp.
-stamp.BindPdf("stamp.pdf", 1);
-stamp.IsBackground = true;
-fileStamp.AddStamp(stamp);
-fileStamp.Close();
-```
-
-### See Also
-
-* class [Stamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## BindPdf(Stream, int) {#bindpdf}
+## BindPdf(Stream, int) {#bindpdf}
 
 Sets PDF file and number of page which will be used as stamp.
 
@@ -66,8 +36,40 @@ fileStamp.Close();
 
 ### See Also
 
-* class [Stamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## BindPdf(string, int) {#bindpdf_1}
+
+Sets PDF file and number of page which will be used as stamp.
+
+```csharp
+public void BindPdf(string pdfFile, int pageNumber)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdfFile | String | Path to PDF file. |
+| pageNumber | Int32 | Number of page in PDF file |
+
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+Stamp stamp = new Stamp();
+//First page will be used as stamp.
+stamp.BindPdf("stamp.pdf", 1);
+stamp.IsBackground = true;
+fileStamp.AddStamp(stamp);
+fileStamp.Close();
+```
+
+### See Also
+
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

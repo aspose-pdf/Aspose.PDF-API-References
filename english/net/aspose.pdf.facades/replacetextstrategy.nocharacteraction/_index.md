@@ -1,10 +1,13 @@
 ---
-title: Enum ReplaceTextStrategy.NoCharacterAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.ReplaceTextStrategyNoCharacterAction enum. Action to perform if font does not contain required character
+title: "ReplaceTextStrategy.NoCharacterAction Enum"
+linktitle: "ReplaceTextStrategy.NoCharacterAction"
+articleTitle: "ReplaceTextStrategy.NoCharacterAction"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.ReplaceTextStrategy.NoCharacterAction enum. Action to perform if font does not contain required character"
 type: docs
-weight: 4840
-url: /net/aspose.pdf.facades/replacetextstrategy.nocharacteraction/
+weight: 560
+url: "/net/aspose.pdf.facades/replacetextstrategy.nocharacteraction/"
+product_version: "26.9.0"
 ---
 ## ReplaceTextStrategy.NoCharacterAction enumeration
 
@@ -24,8 +27,7 @@ public enum NoCharacterAction
 
 ### See Also
 
-* class [ReplaceTextStrategy](../replacetextstrategy/)
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* class [ReplaceTextStrategy](../replacetextstrategy/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

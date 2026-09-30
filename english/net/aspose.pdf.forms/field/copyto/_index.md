@@ -1,10 +1,13 @@
 ---
-title: Field.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Field method. Copies subfields of this field into array starting from specified index
+title: "Field.CopyTo"
+linktitle: "CopyTo"
+articleTitle: "CopyTo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field method. Copies subfields of this field into array starting from specified index."
 type: docs
-weight: 160
-url: /net/aspose.pdf.forms/field/copyto/
+weight: 30
+url: "/net/aspose.pdf.forms/field/copyto/"
+product_version: "26.9.0"
 ---
 ## Field.CopyTo method
 
@@ -21,9 +24,8 @@ public void CopyTo(WidgetAnnotation[] array, int index)
 
 ### See Also
 
-* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* class [Field](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

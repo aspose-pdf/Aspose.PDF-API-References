@@ -1,10 +1,13 @@
 ---
-title: IOpenAIClient.GetAssistantsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Retrieves a list of assistants asynchronously
+title: "IOpenAIClient.GetAssistantsAsync"
+linktitle: "GetAssistantsAsync"
+articleTitle: "GetAssistantsAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Retrieves a list of assistants asynchronously."
 type: docs
-weight: 200
-url: /net/aspose.pdf.ai/iopenaiclient/getassistantsasync/
+weight: 430
+url: "/net/aspose.pdf.ai/iopenaiclient/getassistantsasync/"
+product_version: "26.9.0"
 ---
 ## IOpenAIClient.GetAssistantsAsync method
 
@@ -27,10 +30,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [AssistantListResponse](../../assistantlistresponse/)
-* class [AssistantListQueryParameters](../../assistantlistqueryparameters/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AssistantListQueryParameters](../../../aspose.pdf.ai/assistantlistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

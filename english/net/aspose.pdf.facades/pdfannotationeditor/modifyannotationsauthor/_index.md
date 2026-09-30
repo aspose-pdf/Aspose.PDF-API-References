@@ -1,10 +1,13 @@
 ---
-title: PdfAnnotationEditor.ModifyAnnotationsAuthor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor method. Modifies the author of annotations on the specified page range
+title: "PdfAnnotationEditor.ModifyAnnotationsAuthor"
+linktitle: "ModifyAnnotationsAuthor"
+articleTitle: "ModifyAnnotationsAuthor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAnnotationEditor method. Modifies the author of annotations on the specified page range."
 type: docs
-weight: 130
-url: /net/aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor/
+weight: 120
+url: "/net/aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor/"
+product_version: "26.9.0"
 ---
 ## PdfAnnotationEditor.ModifyAnnotationsAuthor method
 
@@ -32,8 +35,7 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

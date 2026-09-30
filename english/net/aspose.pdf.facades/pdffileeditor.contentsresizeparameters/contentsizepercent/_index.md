@@ -1,14 +1,18 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.ContentSizePercent
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters method. Creates resize parameters with specified contents size in percents of initial page size. Margins are caculated automatically
+title: "PdfFileEditor.ContentsResizeParameters.ContentSizePercent"
+linktitle: "ContentSizePercent"
+articleTitle: "ContentSizePercent"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ContentsResizeParameters method. Creates resize parameters with specified contents size in percents of initial page size. Margins are caculated automatically."
 type: docs
-weight: 30
-url: /net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent/
+weight: 60
+url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent/"
+product_version: "26.9.0"
 ---
 ## PdfFileEditor.ContentsResizeParameters.ContentSizePercent method
 
-Creates resize parameters with specified contents size in percents of initial page size. Margins are caculated automatically.
+Creates resize parameters with specified contents size in percents of initial page size.
+ Margins are caculated automatically.
 
 ```csharp
 public static ContentsResizeParameters ContentSizePercent(double width, double height)
@@ -25,8 +29,7 @@ New resize parameters.
 
 ### See Also
 
-* class [ContentsResizeParameters](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor.ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Metadata.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata method. Determines does this dictionary contasins specified key
+title: "Metadata.ContainsKey"
+linktitle: "ContainsKey"
+articleTitle: "ContainsKey"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata method. Determines does this dictionary contasins specified key."
 type: docs
-weight: 140
-url: /net/aspose.pdf/metadata/containskey/
+weight: 130
+url: "/net/aspose.pdf/metadata/containskey/"
+product_version: "26.9.0"
 ---
 ## Metadata.ContainsKey method
 
@@ -24,8 +27,7 @@ true if key is found.
 
 ### See Also
 
-* class [Metadata](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: FormDataConverter.ConvertFdfToXml
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter method. Convert FDF file into XML
+title: "FormDataConverter.ConvertFdfToXml"
+linktitle: "ConvertFdfToXml"
+articleTitle: "ConvertFdfToXml"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormDataConverter method. Convert FDF file into XML."
 type: docs
-weight: 120
-url: /net/aspose.pdf.facades/formdataconverter/convertfdftoxml/
+weight: 30
+url: "/net/aspose.pdf.facades/formdataconverter/convertfdftoxml/"
+product_version: "26.9.0"
 ---
 ## FormDataConverter.ConvertFdfToXml method
 
@@ -31,8 +34,7 @@ dest.Close();
 
 ### See Also
 
-* class [FormDataConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormDataConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.CreateFreeText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates free text annotation in PDF document
+title: "PdfContentEditor.CreateFreeText"
+linktitle: "CreateFreeText"
+articleTitle: "CreateFreeText"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates free text annotation in PDF document"
 type: docs
-weight: 160
-url: /net/aspose.pdf.facades/pdfcontenteditor/createfreetext/
+weight: 200
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createfreetext/"
+product_version: "26.9.0"
 ---
 ## PdfContentEditor.CreateFreeText method
 
@@ -31,8 +34,8 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

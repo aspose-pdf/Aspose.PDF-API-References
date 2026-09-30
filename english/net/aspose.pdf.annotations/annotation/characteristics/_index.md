@@ -1,10 +1,13 @@
 ---
-title: Annotation.Characteristics
-second_title: Aspose.PDF for .NET API Reference
-description: Annotation property. Gets annotation characteristics
+title: "Annotation.Characteristics"
+linktitle: "Characteristics"
+articleTitle: "Characteristics"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets annotation characteristics."
 type: docs
-weight: 60
-url: /net/aspose.pdf.annotations/annotation/characteristics/
+weight: 190
+url: "/net/aspose.pdf.annotations/annotation/characteristics/"
+product_version: "26.9.0"
 ---
 ## Annotation.Characteristics property
 
@@ -16,9 +19,8 @@ public Characteristics Characteristics { get; }
 
 ### See Also
 
-* class [Characteristics](../../characteristics/)
-* class [Annotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Characteristics](../../../aspose.pdf.annotations/characteristics/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

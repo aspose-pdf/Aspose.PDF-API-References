@@ -1,10 +1,13 @@
 ---
-title: Image.File
-second_title: Aspose.PDF for .NET API Reference
-description: Image property. Gets or sets the image file
+title: "Image.File"
+linktitle: "File"
+articleTitle: "File"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Image property. Gets or sets the image file."
 type: docs
 weight: 40
-url: /net/aspose.pdf/image/file/
+url: "/net/aspose.pdf/image/file/"
+product_version: "26.9.0"
 ---
 ## Image.File property
 
@@ -16,8 +19,7 @@ public string File { get; set; }
 
 ### See Also
 
-* class [Image](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

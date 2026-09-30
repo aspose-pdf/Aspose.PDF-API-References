@@ -1,10 +1,13 @@
 ---
-title: Form.ExportFdf
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Exports the content of the fields of the pdf into the fdf stream
+title: "Form.ExportFdf"
+linktitle: "ExportFdf"
+articleTitle: "ExportFdf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Exports the content of the fields of the pdf into the fdf stream."
 type: docs
-weight: 70
-url: /net/aspose.pdf.facades/form/exportfdf/
+weight: 220
+url: "/net/aspose.pdf.facades/form/exportfdf/"
+product_version: "26.9.0"
 ---
 ## Form.ExportFdf method
 
@@ -29,8 +32,7 @@ stream.Close();
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

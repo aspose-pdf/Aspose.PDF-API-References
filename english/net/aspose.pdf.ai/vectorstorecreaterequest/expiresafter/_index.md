@@ -1,10 +1,13 @@
 ---
-title: VectorStoreCreateRequest.ExpiresAfter
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreCreateRequest property. Gets or sets the expiration policy for a vector store
+title: "VectorStoreCreateRequest.ExpiresAfter"
+linktitle: "ExpiresAfter"
+articleTitle: "ExpiresAfter"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreCreateRequest property. Gets or sets the expiration policy for a vector store."
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/vectorstorecreaterequest/expiresafter/
+weight: 40
+url: "/net/aspose.pdf.ai/vectorstorecreaterequest/expiresafter/"
+product_version: "26.9.0"
 ---
 ## VectorStoreCreateRequest.ExpiresAfter property
 
@@ -16,9 +19,8 @@ public ExpiresAfter ExpiresAfter { get; set; }
 
 ### See Also
 
-* class [ExpiresAfter](../../expiresafter/)
-* class [VectorStoreCreateRequest](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ExpiresAfter](../../../aspose.pdf.ai/expiresafter/)
+* class [VectorStoreCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

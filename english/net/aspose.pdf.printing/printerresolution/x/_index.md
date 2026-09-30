@@ -1,10 +1,13 @@
 ---
-title: PrinterResolution.X
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterResolution property. Gets the printer resolution in the horizontal direction in dots per inch
+title: "PrinterResolution.X"
+linktitle: "X"
+articleTitle: "X"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterResolution property. Gets the printer resolution in the horizontal direction, in dots per inch."
 type: docs
-weight: 30
-url: /net/aspose.pdf.printing/printerresolution/x/
+weight: 40
+url: "/net/aspose.pdf.printing/printerresolution/x/"
+product_version: "26.9.0"
 ---
 ## PrinterResolution.X property
 
@@ -16,8 +19,7 @@ public int X { get; set; }
 
 ### See Also
 
-* class [PrinterResolution](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrinterResolution](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

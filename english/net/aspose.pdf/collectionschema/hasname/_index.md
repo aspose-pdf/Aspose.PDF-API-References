@@ -1,10 +1,13 @@
 ---
-title: CollectionSchema.HasName
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionSchema method. Determines whether the specified name exists in the schema
+title: "CollectionSchema.HasName"
+linktitle: "HasName"
+articleTitle: "HasName"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CollectionSchema method. Determines whether the specified name exists in the schema."
 type: docs
-weight: 40
-url: /net/aspose.pdf/collectionschema/hasname/
+weight: 10
+url: "/net/aspose.pdf/collectionschema/hasname/"
+product_version: "26.9.0"
 ---
 ## CollectionSchema.HasName method
 
@@ -24,8 +27,7 @@ public bool HasName(string name)
 
 ### See Also
 
-* class [CollectionSchema](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CollectionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

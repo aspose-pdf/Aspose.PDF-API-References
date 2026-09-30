@@ -1,10 +1,13 @@
 ---
-title: FileResult.IsStream
-second_title: Aspose.PDF for .NET API Reference
-description: FileResult property. Indicates whether the result is an output stream
+title: "FileResult.IsStream"
+linktitle: "IsStream"
+articleTitle: "IsStream"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileResult property. Indicates whether the result is an output stream."
 type: docs
-weight: 30
-url: /net/aspose.pdf.lowcode/fileresult/isstream/
+weight: 40
+url: "/net/aspose.pdf.lowcode/fileresult/isstream/"
+product_version: "26.9.0"
 ---
 ## FileResult.IsStream property
 
@@ -20,8 +23,7 @@ public bool IsStream { get; }
 
 ### See Also
 
-* class [FileResult](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileResult](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

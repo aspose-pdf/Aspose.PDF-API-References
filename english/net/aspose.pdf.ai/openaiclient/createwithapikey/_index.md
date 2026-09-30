@@ -1,14 +1,17 @@
 ---
-title: OpenAIClient.CreateWithApiKey
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Creates a new instance of Builder with the provided API key
+title: "OpenAIClient.CreateWithApiKey"
+linktitle: "CreateWithApiKey"
+articleTitle: "CreateWithApiKey"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Creates a new instance of Builder with the provided API key."
 type: docs
-weight: 520
-url: /net/aspose.pdf.ai/openaiclient/createwithapikey/
+weight: 210
+url: "/net/aspose.pdf.ai/openaiclient/createwithapikey/"
+product_version: "26.9.0"
 ---
 ## OpenAIClient.CreateWithApiKey method
 
-Creates a new instance of [`Builder`](../../openaiclient.builder/) with the provided API key.
+Creates a new instance of `Builder` with the provided API key.
 
 ```csharp
 public static Builder CreateWithApiKey(string apiKey)
@@ -20,13 +23,11 @@ public static Builder CreateWithApiKey(string apiKey)
 
 ### Return Value
 
-An instance of [`Builder`](../../openaiclient.builder/).
+An instance of `Builder`.
 
 ### See Also
 
-* class [Builder](../../openaiclient.builder/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

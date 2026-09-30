@@ -1,10 +1,13 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.Auto
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeValue method. Initializes automatically calculated value
+title: "PdfFileEditor.ContentsResizeValue.Auto"
+linktitle: "Auto"
+articleTitle: "Auto"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ContentsResizeValue method. Initializes automatically calculated value."
 type: docs
-weight: 10
-url: /net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/auto/
+weight: 30
+url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/auto/"
+product_version: "26.9.0"
 ---
 ## PdfFileEditor.ContentsResizeValue.Auto method
 
@@ -20,8 +23,7 @@ New value instance.
 
 ### See Also
 
-* class [ContentsResizeValue](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor.ContentsResizeValue](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

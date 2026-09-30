@@ -1,12 +1,15 @@
 ---
-title: OpenAIOcrCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIOcrCopilotOptions method. Adds a PDF document to the document collection
+title: "OpenAIOcrCopilotOptions.WithDocument"
+linktitle: "WithDocument"
+articleTitle: "WithDocument"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIOcrCopilotOptions method. Adds a PDF document to the document collection."
 type: docs
-weight: 70
-url: /net/aspose.pdf.ai/openaiocrcopilotoptions/withdocument/
+weight: 110
+url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withdocument/"
+product_version: "26.9.0"
 ---
-## WithDocument(PdfDocument) {#withdocument}
+## WithDocument([PdfDocument](../../../aspose.pdf.ai/pdfdocument/)) {#withdocument}
 
 Adds a PDF document to the document collection.
 
@@ -20,14 +23,14 @@ public OpenAIOcrCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 ### Return Value
 
-The current instance of [`OpenAIOcrCopilotOptions`](../).
+The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
 ### See Also
 
-* class [PdfDocument](../../pdfdocument/)
-* class [OpenAIOcrCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+* class [PdfDocument](../../../aspose.pdf.ai/pdfdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -45,12 +48,11 @@ public OpenAIOcrCopilotOptions WithDocument(string filePath)
 
 ### Return Value
 
-The current instance of [`OpenAIOcrCopilotOptions`](../).
+The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PdfAOptionsBase.UnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase property. Gets or sets the rules for processing ToUnicode CMap tables and not linked to Unicode symbols during the PDF/A conversion process
+title: "PdfAOptionsBase.UnicodeProcessingRules"
+linktitle: "UnicodeProcessingRules"
+articleTitle: "UnicodeProcessingRules"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAOptionsBase property. Gets or sets the rules for processing ToUnicode CMap tables and not linked to Unicode symbols during the PDF/A conversion process."
 type: docs
 weight: 150
-url: /net/aspose.pdf.lowcode/pdfaoptionsbase/unicodeprocessingrules/
+url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/unicodeprocessingrules/"
+product_version: "26.9.0"
 ---
 ## PdfAOptionsBase.UnicodeProcessingRules property
 
@@ -16,13 +19,13 @@ public ToUnicodeProcessingRules UnicodeProcessingRules { get; set; }
 
 ### Property Value
 
-An instance of [`ToUnicodeProcessingRules`](../../../aspose.pdf/tounicodeprocessingrules/) that defines the rules for handling the problematic cases with Unicode characters.
+An instance of [`ToUnicodeProcessingRules`](../../../aspose.pdf/tounicodeprocessingrules/) that defines the rules for handling the problematic cases with Unicode
+ characters.
 
 ### See Also
 
-* class [ToUnicodeProcessingRules](../../../aspose.pdf/tounicodeprocessingrules/)
-* class [PdfAOptionsBase](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ToUnicodeProcessingRules](../../../aspose.pdf/tounicodeprocessingrules/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

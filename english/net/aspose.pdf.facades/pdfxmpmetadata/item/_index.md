@@ -1,10 +1,13 @@
 ---
-title: PdfXmpMetadata.Item
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata property. Gets or sets value by key
+title: "PdfXmpMetadata.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata property. Gets or sets value by key."
 type: docs
-weight: 70
-url: /net/aspose.pdf.facades/pdfxmpmetadata/item/
+weight: 270
+url: "/net/aspose.pdf.facades/pdfxmpmetadata/item/"
+product_version: "26.9.0"
 ---
 ## PdfXmpMetadata indexer (1 of 2)
 
@@ -32,10 +35,10 @@ Console.WriteLine(pxm["xmp:Nickname"]);
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -65,10 +68,9 @@ Console.WriteLine(pxm[DefaultMetadataProperties.CreatorTool]);
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
-* enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* enum [DefaultMetadataProperties](../../../aspose.pdf.facades/defaultmetadataproperties/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

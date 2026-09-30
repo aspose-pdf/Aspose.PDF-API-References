@@ -1,10 +1,13 @@
 ---
-title: UnsignedContentAbsorber.Result.UnsignedContent
-second_title: Aspose.PDF for .NET API Reference
-description: Result property. Gets an unsigned content
+title: "UnsignedContentAbsorber.Result.UnsignedContent"
+linktitle: "UnsignedContent"
+articleTitle: "UnsignedContent"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Result property. Gets an unsigned content."
 type: docs
-weight: 40
-url: /net/aspose.pdf.security/unsignedcontentabsorber.result/unsignedcontent/
+weight: 20
+url: "/net/aspose.pdf.security/unsignedcontentabsorber.result/unsignedcontent/"
+product_version: "26.9.0"
 ---
 ## UnsignedContentAbsorber.Result.UnsignedContent property
 
@@ -16,9 +19,7 @@ public UnsignedContent UnsignedContent { get; }
 
 ### See Also
 
-* class [UnsignedContent](../../unsignedcontentabsorber.unsignedcontent/)
-* class [Result](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
-
+* class [UnsignedContentAbsorber.Result](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 

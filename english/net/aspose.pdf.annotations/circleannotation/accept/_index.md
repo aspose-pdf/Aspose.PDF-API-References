@@ -1,10 +1,13 @@
 ---
-title: CircleAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: CircleAnnotation method. Accepts visitor object to process the annotation
+title: "CircleAnnotation.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CircleAnnotation method. Accepts visitor object to process the annotation."
 type: docs
 weight: 30
-url: /net/aspose.pdf.annotations/circleannotation/accept/
+url: "/net/aspose.pdf.annotations/circleannotation/accept/"
+product_version: "26.9.0"
 ---
 ## CircleAnnotation.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../annotationselector/)
-* class [CircleAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [CircleAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

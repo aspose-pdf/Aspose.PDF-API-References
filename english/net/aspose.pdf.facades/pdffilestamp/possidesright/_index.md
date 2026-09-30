@@ -1,10 +1,13 @@
 ---
-title: PdfFileStamp.PosSidesRight
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp field. Right position
+title: "PdfFileStamp.PosSidesRight"
+linktitle: "PosSidesRight"
+articleTitle: "PosSidesRight"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp field. Right position."
 type: docs
-weight: 210
-url: /net/aspose.pdf.facades/pdffilestamp/possidesright/
+weight: 390
+url: "/net/aspose.pdf.facades/pdffilestamp/possidesright/"
+product_version: "26.9.0"
 ---
 ## PdfFileStamp.PosSidesRight field
 
@@ -16,8 +19,7 @@ public const int PosSidesRight;
 
 ### See Also
 
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,60 @@
 ---
-title: TextFragmentAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber method. Performs search on the specified page
+title: "TextFragmentAbsorber.Visit"
+linktitle: "Visit"
+articleTitle: "Visit"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber method. Performs search on the specified page."
 type: docs
-weight: 150
-url: /net/aspose.pdf.text/textfragmentabsorber/visit/
+weight: 110
+url: "/net/aspose.pdf.text/textfragmentabsorber/visit/"
+product_version: "26.9.0"
 ---
-## Visit(Page) {#visit_1}
+## Visit([Document](../../../aspose.pdf/document/)) {#visit}
+
+Performs search on the specified document.
+
+```csharp
+public override void Visit(Document pdf)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdf | Document | PDF document object. |
+
+## Examples
+
+The example demonstrates how to find text on PDF document and replace text of all search occurrences.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Find font that will be used to change document text font
+Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
+
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+// Accept the absorber for first page
+absorber.Visit(doc);
+
+// Change text of the first text occurrence
+absorber.TextFragments[1].Text = "hi world";
+
+// Save document
+doc.Save(@"D:\Tests\output.pdf");
+```
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit([Page](../../../aspose.pdf/page/)) {#visit_1}
 
 Performs search on the specified page.
 
@@ -42,64 +90,19 @@ foreach (TextFragment textFragment in absorber.TextFragments)
 }
 
 // Save document
-doc.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");
 ```
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(Document) {#visit}
-
-Performs search on the specified document.
-
-```csharp
-public override void Visit(Document pdf)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pdf | Document | PDF document object. |
-
-## Examples
-
-The example demonstrates how to find text on PDF document and replace text of all search occurrences.
-
-```csharp
-// Open document
-Document doc = new Document(@"D:\Tests\input.pdf");
-
-// Find font that will be used to change document text font
-Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
-
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
-TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-
-// Accept the absorber for first page
-absorber.Visit(doc);
-
-// Change text of the first text occurrence
-absorber.TextFragments[1].Text = "hi world";
-
-// Save document
-doc.Save(@"D:\Tests\output.pdf");  
-```
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit(XForm) {#visit_2}
+## Visit([XForm](../../../aspose.pdf/xform/)) {#visit_2}
 
 Performs search on the specified form object.
 
@@ -113,9 +116,8 @@ public void Visit(XForm xForm)
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XForm](../../../aspose.pdf/xform/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

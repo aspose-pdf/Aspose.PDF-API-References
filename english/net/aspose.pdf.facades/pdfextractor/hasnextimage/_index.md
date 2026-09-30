@@ -1,10 +1,13 @@
 ---
-title: PdfExtractor.HasNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor method. Checks if more images are accessible in PDF document. Note ExtractImage must be called before using of this method
+title: "PdfExtractor.HasNextImage"
+linktitle: "HasNextImage"
+articleTitle: "HasNextImage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Checks if more images are accessible in PDF document. Note: ExtractImage must be called before using of this method."
 type: docs
-weight: 200
-url: /net/aspose.pdf.facades/pdfextractor/hasnextimage/
+weight: 100
+url: "/net/aspose.pdf.facades/pdfextractor/hasnextimage/"
+product_version: "26.9.0"
 ---
 ## PdfExtractor.HasNextImage method
 
@@ -33,8 +36,7 @@ while (extractor.HasNextImage())
 
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

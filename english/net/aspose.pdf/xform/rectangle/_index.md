@@ -1,10 +1,13 @@
 ---
-title: XForm.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: XForm property. Gets or sets rectangel of the form
+title: "XForm.Rectangle"
+linktitle: "Rectangle"
+articleTitle: "Rectangle"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XForm property. Gets or sets rectangel of the form."
 type: docs
-weight: 80
-url: /net/aspose.pdf/xform/rectangle/
+weight: 140
+url: "/net/aspose.pdf/xform/rectangle/"
+product_version: "26.9.0"
 ---
 ## XForm.Rectangle property
 
@@ -16,9 +19,8 @@ public Rectangle Rectangle { get; }
 
 ### See Also
 
-* class [Rectangle](../../rectangle/)
-* class [XForm](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

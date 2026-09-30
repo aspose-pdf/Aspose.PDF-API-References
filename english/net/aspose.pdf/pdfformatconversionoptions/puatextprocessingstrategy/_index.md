@@ -1,10 +1,13 @@
 ---
-title: PdfFormatConversionOptions.PuaTextProcessingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions property. Strategy to process symbols from unicode Private Use Area PUA
+title: "PdfFormatConversionOptions.PuaTextProcessingStrategy"
+linktitle: "PuaTextProcessingStrategy"
+articleTitle: "PuaTextProcessingStrategy"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFormatConversionOptions property. Strategy to process symbols from unicode Private Use Area (PUA)."
 type: docs
-weight: 200
-url: /net/aspose.pdf/pdfformatconversionoptions/puatextprocessingstrategy/
+weight: 190
+url: "/net/aspose.pdf/pdfformatconversionoptions/puatextprocessingstrategy/"
+product_version: "26.9.0"
 ---
 ## PdfFormatConversionOptions.PuaTextProcessingStrategy property
 
@@ -16,9 +19,7 @@ public PuaProcessingStrategy PuaTextProcessingStrategy { get; set; }
 
 ### See Also
 
-* enum [PuaProcessingStrategy](../../pdfformatconversionoptions.puaprocessingstrategy/)
-* class [PdfFormatConversionOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

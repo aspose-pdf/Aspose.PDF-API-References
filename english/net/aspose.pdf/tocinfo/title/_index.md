@@ -1,10 +1,13 @@
 ---
-title: TocInfo.Title
-second_title: Aspose.PDF for .NET API Reference
-description: TocInfo property. Gets or sets table of contents title
+title: "TocInfo.Title"
+linktitle: "Title"
+articleTitle: "Title"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TocInfo property. Gets or sets table of contents title."
 type: docs
-weight: 100
-url: /net/aspose.pdf/tocinfo/title/
+weight: 50
+url: "/net/aspose.pdf/tocinfo/title/"
+product_version: "26.9.0"
 ---
 ## TocInfo.Title property
 
@@ -16,9 +19,8 @@ public TextFragment Title { get; set; }
 
 ### See Also
 
-* class [TextFragment](../../../aspose.pdf.text/textfragment/)
-* class [TocInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

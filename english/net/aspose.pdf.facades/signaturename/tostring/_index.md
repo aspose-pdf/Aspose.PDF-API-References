@@ -1,14 +1,17 @@
 ---
-title: SignatureName.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureName method. Returns a string representation of the SignatureName instance primarily using its name
+title: "SignatureName.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureName method. Returns a string representation of the SignatureName instance, primarily using its name."
 type: docs
-weight: 60
-url: /net/aspose.pdf.facades/signaturename/tostring/
+weight: 10
+url: "/net/aspose.pdf.facades/signaturename/tostring/"
+product_version: "26.9.0"
 ---
 ## SignatureName.ToString method
 
-Returns a string representation of the [`SignatureName`](../) instance, primarily using its name.
+Returns a string representation of the [`SignatureName`](../../../aspose.pdf.facades/signaturename/) instance, primarily using its name.
 
 ```csharp
 public override string ToString()
@@ -20,8 +23,7 @@ A string representing the name of the signature.
 
 ### See Also
 
-* class [SignatureName](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SignatureName](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

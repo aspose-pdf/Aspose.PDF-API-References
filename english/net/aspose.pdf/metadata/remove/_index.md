@@ -1,11 +1,38 @@
 ---
-title: Metadata.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata method. Removes entry from metadata
+title: "Metadata.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata method. Removes entry from metadata."
 type: docs
-weight: 200
-url: /net/aspose.pdf/metadata/remove/
+weight: 110
+url: "/net/aspose.pdf/metadata/remove/"
+product_version: "26.9.0"
 ---
+## Remove(KeyValuePair<string, XmpValue>) {#remove}
+
+Removes key/value pair from the colleciton.
+
+```csharp
+public bool Remove(KeyValuePair<string, XmpValue> item)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| item | KeyValuePair`2 | Key/value pair to be removed. |
+
+### Return Value
+
+true if pair was found and removed.
+
+### See Also
+
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## Remove(string) {#remove_1}
 
 Removes entry from metadata.
@@ -24,33 +51,7 @@ True - if key removed; otherwise, false.
 
 ### See Also
 
-* class [Metadata](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Remove(KeyValuePair&lt;string, XmpValue&gt;) {#remove}
-
-Removes key/value pair from the colleciton.
-
-```csharp
-public bool Remove(KeyValuePair<string, XmpValue> item)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | KeyValuePair`2 | Key/value pair to be removed. |
-
-### Return Value
-
-true if pair was found and removed.
-
-### See Also
-
-* class [XmpValue](../../xmpvalue/)
-* class [Metadata](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

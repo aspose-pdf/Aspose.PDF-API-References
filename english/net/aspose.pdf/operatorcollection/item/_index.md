@@ -1,10 +1,13 @@
 ---
-title: OperatorCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection property. Gets operator by its index
+title: "OperatorCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OperatorCollection property. Gets operator by its index."
 type: docs
-weight: 40
-url: /net/aspose.pdf/operatorcollection/item/
+weight: 260
+url: "/net/aspose.pdf/operatorcollection/item/"
+product_version: "26.9.0"
 ---
 ## OperatorCollection indexer
 
@@ -34,9 +37,8 @@ Operator first = oc[1];
 
 ### See Also
 
-* class [Operator](../../operator/)
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Operator](../../../aspose.pdf/operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

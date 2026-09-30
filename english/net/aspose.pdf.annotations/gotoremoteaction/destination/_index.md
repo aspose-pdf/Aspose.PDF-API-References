@@ -1,10 +1,13 @@
 ---
-title: GoToRemoteAction.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: GoToRemoteAction property. Gets or sets the destination to jump to
+title: "GoToRemoteAction.Destination"
+linktitle: "Destination"
+articleTitle: "Destination"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GoToRemoteAction property. Gets or sets the destination to jump to."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/gotoremoteaction/destination/
+weight: 50
+url: "/net/aspose.pdf.annotations/gotoremoteaction/destination/"
+product_version: "26.9.0"
 ---
 ## GoToRemoteAction.Destination property
 
@@ -16,9 +19,8 @@ public override IAppointment Destination { get; set; }
 
 ### See Also
 
-* interface [IAppointment](../../iappointment/)
-* class [GoToRemoteAction](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* class [GoToRemoteAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CurveTo2.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: CurveTo2 method. Accepts visitor object to process operator
+title: "CurveTo2.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CurveTo2 method. Accepts visitor object to process operator."
 type: docs
-weight: 30
-url: /net/aspose.pdf.operators/curveto2/accept/
+weight: 20
+url: "/net/aspose.pdf.operators/curveto2/accept/"
+product_version: "26.9.0"
 ---
 ## CurveTo2.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* class [CurveTo2](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [CurveTo2](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

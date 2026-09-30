@@ -1,10 +1,13 @@
 ---
-title: ImageExtractorOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: ImageExtractorOptions property. Returns name of the operation
+title: "ImageExtractorOptions.OperationName"
+linktitle: "OperationName"
+articleTitle: "OperationName"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageExtractorOptions property. Returns name of the operation."
 type: docs
 weight: 20
-url: /net/aspose.pdf.lowcode/imageextractoroptions/operationname/
+url: "/net/aspose.pdf.lowcode/imageextractoroptions/operationname/"
+product_version: "26.9.0"
 ---
 ## ImageExtractorOptions.OperationName property
 
@@ -16,8 +19,7 @@ public override string OperationName { get; }
 
 ### See Also
 
-* class [ImageExtractorOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImageExtractorOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Timestamp.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Timestamp method. Processes the timestamp plugin with the supplied options
+title: "Timestamp.Process"
+linktitle: "Process"
+articleTitle: "Process"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Timestamp method. Processes the timestamp plugin with the supplied options."
 type: docs
-weight: 30
-url: /net/aspose.pdf.lowcode/timestamp/process/
+weight: 20
+url: "/net/aspose.pdf.lowcode/timestamp/process/"
+product_version: "26.9.0"
 ---
 ## Timestamp.Process method
 
@@ -20,21 +23,20 @@ public ResultContainer Process(IPluginOptions options)
 
 ### Return Value
 
-A [`ResultContainer`](../../resultcontainer/) with the operation results.
+A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) with the operation results.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | If *options* is `null`. |
-| InvalidOperationException | If *options* is not of type [`TimestampOptions`](../../timestampoptions/). |
+| InvalidOperationException | If *options* is not of type <see cref="T:Aspose.Pdf.LowCode.TimestampOptions" />. |
 
 ### See Also
 
-* class [ResultContainer](../../resultcontainer/)
-* interface [IPluginOptions](../../ipluginoptions/)
-* class [Timestamp](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
+* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
+* class [Timestamp](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: SoundData.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: SoundData property. Gets stream of the sound to be played when the annotation is activated
+title: "SoundData.Contents"
+linktitle: "Contents"
+articleTitle: "Contents"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SoundData property. Gets stream of the sound to be played when the annotation is activated."
 type: docs
-weight: 30
-url: /net/aspose.pdf.annotations/sounddata/contents/
+weight: 40
+url: "/net/aspose.pdf.annotations/sounddata/contents/"
+product_version: "26.9.0"
 ---
 ## SoundData.Contents property
 
@@ -16,8 +19,7 @@ public Stream Contents { get; }
 
 ### See Also
 
-* class [SoundData](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SoundData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

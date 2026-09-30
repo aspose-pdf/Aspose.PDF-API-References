@@ -1,12 +1,15 @@
 ---
-title: Rectangle.FromRect
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle method. Initializes new rectangle from given instance of System.Drawing.Rectangle
+title: "Rectangle.FromRect"
+linktitle: "FromRect"
+articleTitle: "FromRect"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Initializes new rectangle from given instance of System.Drawing.Rectangle."
 type: docs
-weight: 40
-url: /net/aspose.pdf/rectangle/fromrect/
+weight: 30
+url: "/net/aspose.pdf/rectangle/fromrect/"
+product_version: "26.9.0"
 ---
-## FromRect(Rectangle) {#fromrect}
+## FromRect([Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#fromrect}
 
 Initializes new rectangle from given instance of System.Drawing.Rectangle.
 
@@ -24,9 +27,9 @@ New rectangle.
 
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -48,8 +51,7 @@ New rectangle.
 
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: FormImporter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: FormImporter method. Starts the import processing with the specified options
+title: "FormImporter.Process"
+linktitle: "Process"
+articleTitle: "Process"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormImporter method. Starts the import processing with the specified options."
 type: docs
 weight: 20
-url: /net/aspose.pdf.lowcode/formimporter/process/
+url: "/net/aspose.pdf.lowcode/formimporter/process/"
+product_version: "26.9.0"
 ---
 ## FormImporter.Process method
 
@@ -20,7 +23,7 @@ public ResultContainer Process(IPluginOptions options)
 
 ### Return Value
 
-A [`ResultContainer`](../../resultcontainer/) with the import results.
+A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) with the import results.
 
 ### Exceptions
 
@@ -31,10 +34,9 @@ A [`ResultContainer`](../../resultcontainer/) with the import results.
 
 ### See Also
 
-* class [ResultContainer](../../resultcontainer/)
-* interface [IPluginOptions](../../ipluginoptions/)
-* class [FormImporter](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
+* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
+* class [FormImporter](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

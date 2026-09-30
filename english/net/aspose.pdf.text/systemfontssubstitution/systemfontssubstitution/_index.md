@@ -1,14 +1,17 @@
 ---
-title: SystemFontsSubstitution.SystemFontsSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: SystemFontsSubstitution constructor. Initializes a new instance of SystemFontsSubstitution class
+title: "SystemFontsSubstitution.SystemFontsSubstitution"
+linktitle: "SystemFontsSubstitution"
+articleTitle: "SystemFontsSubstitution"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SystemFontsSubstitution constructor. Initializes a new instance of SystemFontsSubstitution class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.text/systemfontssubstitution/systemfontssubstitution/
+url: "/net/aspose.pdf.text/systemfontssubstitution/systemfontssubstitution/"
+product_version: "26.9.0"
 ---
 ## SystemFontsSubstitution constructor
 
-Initializes a new instance of [`SystemFontsSubstitution`](../) class.
+Initializes a new instance of [`SystemFontsSubstitution`](../../../aspose.pdf.text/systemfontssubstitution/) class.
 
 ```csharp
 public SystemFontsSubstitution(SubstitutionFontCategories fontCategories)
@@ -20,9 +23,8 @@ public SystemFontsSubstitution(SubstitutionFontCategories fontCategories)
 
 ### See Also
 
-* enum [SubstitutionFontCategories](../../substitutionfontcategories/)
-* class [SystemFontsSubstitution](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [SubstitutionFontCategories](../../../aspose.pdf.text/substitutionfontcategories/)
+* class [SystemFontsSubstitution](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

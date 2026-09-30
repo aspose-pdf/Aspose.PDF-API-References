@@ -1,10 +1,13 @@
 ---
-title: StartEndPageEventArgs.CurrentPage
-second_title: Aspose.PDF for .NET API Reference
-description: StartEndPageEventArgs field. Gets the number of the page currently being printed
+title: "StartEndPageEventArgs.CurrentPage"
+linktitle: "CurrentPage"
+articleTitle: "CurrentPage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StartEndPageEventArgs field. Gets the number of the page currently being printed."
 type: docs
-weight: 30
-url: /net/aspose.pdf.printing/startendpageeventargs/currentpage/
+weight: 20
+url: "/net/aspose.pdf.printing/startendpageeventargs/currentpage/"
+product_version: "26.9.0"
 ---
 ## StartEndPageEventArgs.CurrentPage field
 
@@ -16,8 +19,7 @@ public readonly int CurrentPage;
 
 ### See Also
 
-* class [StartEndPageEventArgs](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

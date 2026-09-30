@@ -1,10 +1,14 @@
 ---
-title: Class DeprecatedFeatureException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DeprecatedFeatureException class. The exception that is thrown when a feature is deprecated in current pdf version
+title: "DeprecatedFeatureException Class"
+linktitle: "DeprecatedFeatureException"
+articleTitle: "DeprecatedFeatureException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DeprecatedFeatureException class. The exception that is thrown when a feature is deprecated in current pdf version."
 type: docs
-weight: 3660
-url: /net/aspose.pdf/deprecatedfeatureexception/
+weight: 530
+url: "/net/aspose.pdf/deprecatedfeatureexception/"
+keywords: "DeprecatedFeatureException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## DeprecatedFeatureException class
 
@@ -18,13 +22,18 @@ public sealed class DeprecatedFeatureException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [DeprecatedFeatureException](deprecatedfeatureexception/#constructor)() | Initializes a new instance of the `DeprecatedFeatureException` class. |
-| [DeprecatedFeatureException](deprecatedfeatureexception/#constructor_1)(string) | Constructor. |
+| [DeprecatedFeatureException](./deprecatedfeatureexception/#constructor)() | Initializes a new instance of the [`DeprecatedFeatureException`](../../aspose.pdf/deprecatedfeatureexception/) class. |
+| [DeprecatedFeatureException](./deprecatedfeatureexception/#constructor_1)(string) | Constructor. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
 
 ### See Also
 
-* class [PdfException](../pdfexception/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

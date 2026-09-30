@@ -1,10 +1,13 @@
 ---
-title: PaperSizes.Folio
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. Folio paper 8.5 in. by 13 in
+title: "PaperSizes.Folio"
+linktitle: "Folio"
+articleTitle: "Folio"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Folio paper (8.5 in. by 13 in.)."
 type: docs
-weight: 420
-url: /net/aspose.pdf.printing/papersizes/folio/
+weight: 140
+url: "/net/aspose.pdf.printing/papersizes/folio/"
+product_version: "26.9.0"
 ---
 ## PaperSizes.Folio field
 
@@ -16,9 +19,8 @@ public static readonly PaperSize Folio;
 
 ### See Also
 
-* class [PaperSize](../../papersize/)
-* class [PaperSizes](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

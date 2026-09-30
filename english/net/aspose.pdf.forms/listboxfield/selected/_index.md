@@ -1,10 +1,13 @@
 ---
-title: ListBoxField.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: ListBoxField property. Gets or sets index of the selected item. Items are numbered from 1
+title: "ListBoxField.Selected"
+linktitle: "Selected"
+articleTitle: "Selected"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ListBoxField property. Gets or sets index of the selected item. Items are numbered from 1."
 type: docs
-weight: 20
-url: /net/aspose.pdf.forms/listboxfield/selected/
+weight: 50
+url: "/net/aspose.pdf.forms/listboxfield/selected/"
+product_version: "26.9.0"
 ---
 ## ListBoxField.Selected property
 
@@ -16,8 +19,7 @@ public override int Selected { set; }
 
 ### See Also
 
-* class [ListBoxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ListBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

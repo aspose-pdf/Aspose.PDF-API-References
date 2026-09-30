@@ -1,10 +1,13 @@
 ---
-title: PaperSizes.Executive
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. Executive paper 7.25 in. by 10.5 in
+title: "PaperSizes.Executive"
+linktitle: "Executive"
+articleTitle: "Executive"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Executive paper (7.25 in. by 10.5 in.)."
 type: docs
-weight: 410
-url: /net/aspose.pdf.printing/papersizes/executive/
+weight: 70
+url: "/net/aspose.pdf.printing/papersizes/executive/"
+product_version: "26.9.0"
 ---
 ## PaperSizes.Executive field
 
@@ -16,9 +19,8 @@ public static readonly PaperSize Executive;
 
 ### See Also
 
-* class [PaperSize](../../papersize/)
-* class [PaperSizes](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

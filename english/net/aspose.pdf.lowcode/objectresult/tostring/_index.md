@@ -1,10 +1,13 @@
 ---
-title: ObjectResult.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: ObjectResult method. Tries to convert the result to a string
+title: "ObjectResult.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ObjectResult method. Tries to convert the result to a string."
 type: docs
-weight: 90
-url: /net/aspose.pdf.lowcode/objectresult/tostring/
+weight: 30
+url: "/net/aspose.pdf.lowcode/objectresult/tostring/"
+product_version: "26.9.0"
 ---
 ## ObjectResult.ToString method
 
@@ -20,8 +23,7 @@ A string representing the text content if the result is string; otherwise return
 
 ### See Also
 
-* class [ObjectResult](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ObjectResult](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

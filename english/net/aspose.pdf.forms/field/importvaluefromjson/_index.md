@@ -1,10 +1,13 @@
 ---
-title: Field.ImportValueFromJson
-second_title: Aspose.PDF for .NET API Reference
-description: Field method. Imports data into the specified fields from a JSON stream based on an exact match of the fields full names
+title: "Field.ImportValueFromJson"
+linktitle: "ImportValueFromJson"
+articleTitle: "ImportValueFromJson"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field method. Imports data into the specified fields from a JSON stream, based on an exact match of the fields' full names."
 type: docs
-weight: 210
-url: /net/aspose.pdf.forms/field/importvaluefromjson/
+weight: 90
+url: "/net/aspose.pdf.forms/field/importvaluefromjson/"
+product_version: "26.9.0"
 ---
 ## ImportValueFromJson(Stream) {#importvaluefromjson}
 
@@ -35,13 +38,13 @@ document.Save();
 
 ### See Also
 
-* class [Field](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ImportValueFromJson(Stream, string) {#importvaluefromjson_1}
+## ImportValueFromJson(Stream, string) {#importvaluefromjson_1}
 
 Imports data into the specified field from a JSON stream, using the full name specified in the 'fieldFullNameInJSON' variable for matching.
 
@@ -71,8 +74,7 @@ document.Save();
 
 ### See Also
 
-* class [Field](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

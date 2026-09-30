@@ -1,12 +1,36 @@
 ---
-title: AnnotationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection method. Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly
+title: "AnnotationCollection.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationCollection method. Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly."
 type: docs
-weight: 70
-url: /net/aspose.pdf.annotations/annotationcollection/add/
+weight: 10
+url: "/net/aspose.pdf.annotations/annotationcollection/add/"
+product_version: "26.9.0"
 ---
-## Add(Annotation, bool) {#add_1}
+## Add([Annotation](../../../aspose.pdf.annotations/annotation/)) {#add}
+
+Adds annotation to the collection.
+
+```csharp
+public void Add(Annotation annotation)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| annotation | Annotation | Annotation which shall be added. |
+
+### See Also
+
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Add([Annotation](../../../aspose.pdf.annotations/annotation/), bool) {#add_1}
 
 Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly.
 
@@ -21,30 +45,8 @@ public void Add(Annotation annotation, bool considerRotation)
 
 ### See Also
 
-* class [Annotation](../../annotation/)
-* class [AnnotationCollection](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Add(Annotation) {#add}
-
-Adds annotation to the collection.
-
-```csharp
-public void Add(Annotation annotation)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| annotation | Annotation | Annotation which shall be added. |
-
-### See Also
-
-* class [Annotation](../../annotation/)
-* class [AnnotationCollection](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

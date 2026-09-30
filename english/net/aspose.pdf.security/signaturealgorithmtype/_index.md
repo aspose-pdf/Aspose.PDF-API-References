@@ -1,10 +1,13 @@
 ---
-title: Enum SignatureAlgorithmType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.SignatureAlgorithmType enum. Enumerates the types of signature algorithms used for digital signatures
+title: "SignatureAlgorithmType Enum"
+linktitle: "SignatureAlgorithmType"
+articleTitle: "SignatureAlgorithmType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.SignatureAlgorithmType enum. Enumerates the types of signature algorithms used for digital signatures."
 type: docs
-weight: 10360
-url: /net/aspose.pdf.security/signaturealgorithmtype/
+weight: 110
+url: "/net/aspose.pdf.security/signaturealgorithmtype/"
+product_version: "26.9.0"
 ---
 ## SignatureAlgorithmType enumeration
 
@@ -26,7 +29,6 @@ public enum SignatureAlgorithmType
 
 ### See Also
 
-* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
 

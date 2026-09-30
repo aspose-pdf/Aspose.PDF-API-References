@@ -1,10 +1,13 @@
 ---
-title: Enum FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.FormPresentationMode enum. Used to specify the form presentation mode when printing or converting to image pdf documents
+title: "FormPresentationMode Enum"
+linktitle: "FormPresentationMode"
+articleTitle: "FormPresentationMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.FormPresentationMode enum. Used to specify the form presentation mode when printing or converting to image pdf documents."
 type: docs
-weight: 3750
-url: /net/aspose.pdf.devices/formpresentationmode/
+weight: 90
+url: "/net/aspose.pdf.devices/formpresentationmode/"
+product_version: "26.9.0"
 ---
 ## FormPresentationMode enumeration
 
@@ -23,7 +26,6 @@ public enum FormPresentationMode
 
 ### See Also
 
-* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
 

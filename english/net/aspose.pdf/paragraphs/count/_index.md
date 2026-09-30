@@ -1,10 +1,13 @@
 ---
-title: Paragraphs.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphs property. Get paragraphs count
+title: "Paragraphs.Count"
+linktitle: "Count"
+articleTitle: "Count"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Paragraphs property. Get paragraphs count."
 type: docs
-weight: 20
-url: /net/aspose.pdf/paragraphs/count/
+weight: 110
+url: "/net/aspose.pdf/paragraphs/count/"
+product_version: "26.9.0"
 ---
 ## Paragraphs.Count property
 
@@ -16,8 +19,7 @@ public int Count { get; }
 
 ### See Also
 
-* class [Paragraphs](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

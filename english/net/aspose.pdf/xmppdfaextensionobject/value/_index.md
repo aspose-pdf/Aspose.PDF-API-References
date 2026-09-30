@@ -1,10 +1,13 @@
 ---
-title: XmpPdfAExtensionObject.Value
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionObject property. Gets or sets the value
+title: "XmpPdfAExtensionObject.Value"
+linktitle: "Value"
+articleTitle: "Value"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionObject property. Gets or sets the value."
 type: docs
-weight: 20
-url: /net/aspose.pdf/xmppdfaextensionobject/value/
+weight: 30
+url: "/net/aspose.pdf/xmppdfaextensionobject/value/"
+product_version: "26.9.0"
 ---
 ## XmpPdfAExtensionObject.Value property
 
@@ -16,8 +19,7 @@ public string Value { get; set; }
 
 ### See Also
 
-* class [XmpPdfAExtensionObject](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpPdfAExtensionObject](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

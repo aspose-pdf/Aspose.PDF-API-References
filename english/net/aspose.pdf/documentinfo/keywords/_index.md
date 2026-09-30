@@ -1,10 +1,13 @@
 ---
-title: DocumentInfo.Keywords
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo property. Gets or set the keywords of the document
+title: "DocumentInfo.Keywords"
+linktitle: "Keywords"
+articleTitle: "Keywords"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentInfo property. Gets or set the keywords of the document."
 type: docs
-weight: 70
-url: /net/aspose.pdf/documentinfo/keywords/
+weight: 110
+url: "/net/aspose.pdf/documentinfo/keywords/"
+product_version: "26.9.0"
 ---
 ## DocumentInfo.Keywords property
 
@@ -16,8 +19,7 @@ public string Keywords { get; set; }
 
 ### See Also
 
-* class [DocumentInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

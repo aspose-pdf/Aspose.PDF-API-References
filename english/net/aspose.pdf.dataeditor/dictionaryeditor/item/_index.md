@@ -1,10 +1,13 @@
 ---
-title: DictionaryEditor.Item
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor property. Gets or sets the element with the specified key
+title: "DictionaryEditor.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DictionaryEditor property. Gets or sets the element with the specified key."
 type: docs
-weight: 50
-url: /net/aspose.pdf.dataeditor/dictionaryeditor/item/
+weight: 190
+url: "/net/aspose.pdf.dataeditor/dictionaryeditor/item/"
+product_version: "26.9.0"
 ---
 ## DictionaryEditor indexer
 
@@ -22,19 +25,10 @@ public ICosPdfPrimitive this[string key] { get; set; }
 
 The element with the specified key.
 
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | The key is null. |
-| KeyNotFoundException | The property is retrieved and key is not found. |
-| ArgumentException | Throw exception if key can't be edited/set. |
-
 ### See Also
 
-* interface [ICosPdfPrimitive](../../icospdfprimitive/)
-* class [DictionaryEditor](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [ICosPdfPrimitive](../../../aspose.pdf.dataeditor/icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

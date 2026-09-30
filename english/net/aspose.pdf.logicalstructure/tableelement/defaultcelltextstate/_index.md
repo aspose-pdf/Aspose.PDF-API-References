@@ -1,10 +1,13 @@
 ---
-title: TableElement.DefaultCellTextState
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement property. Gets or sets the default cell text state
+title: "TableElement.DefaultCellTextState"
+linktitle: "DefaultCellTextState"
+articleTitle: "DefaultCellTextState"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableElement property. Gets or sets the default cell text state."
 type: docs
-weight: 100
-url: /net/aspose.pdf.logicalstructure/tableelement/defaultcelltextstate/
+weight: 140
+url: "/net/aspose.pdf.logicalstructure/tableelement/defaultcelltextstate/"
+product_version: "26.9.0"
 ---
 ## TableElement.DefaultCellTextState property
 
@@ -16,9 +19,8 @@ public TextState DefaultCellTextState { get; set; }
 
 ### See Also
 
-* class [TextState](../../../aspose.pdf.text/textstate/)
-* class [TableElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

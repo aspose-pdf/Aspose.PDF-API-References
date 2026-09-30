@@ -1,14 +1,21 @@
 ---
-title: PdfFileEditor.TryAppend
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Appends pages which are chosen from array of documents in portStreams. The result document includes firstInputFile and all portStreams documents pages in the range startPage to endPage
+title: "PdfFileEditor.TryAppend"
+linktitle: "TryAppend"
+articleTitle: "TryAppend"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Appends pages, which are chosen from array of documents in portStreams. The result document includes firstInputFile and all portStreams..."
 type: docs
-weight: 380
-url: /net/aspose.pdf.facades/pdffileeditor/tryappend/
+weight: 80
+url: "/net/aspose.pdf.facades/pdffileeditor/tryappend/"
+product_version: "26.9.0"
 ---
-## TryAppend(Stream, Stream[], int, int, Stream) {#tryappend}
+## TryAppend(Stream, Stream[], int, int, Stream) {#tryappend}
 
-Appends pages, which are chosen from array of documents in portStreams. The result document includes firstInputFile and all portStreams documents pages in the range startPage to endPage.
+Appends pages, which are chosen from array of documents in portStreams.
+ The result document includes firstInputFile and all portStreams documents pages in the range startPage to endPage.
+
+The TryAppend method is like the Append method, except the TryAppend 
+ method does not throw an exception if the operation fails.
 
 ```csharp
 public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
@@ -27,10 +34,6 @@ public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, i
 
 True for success, or false.
 
-## Remarks
-
-The TryAppend method is like the Append method, except the TryAppend method does not throw an exception if the operation fails.
-
 ## Examples
 
 ```csharp
@@ -44,15 +47,19 @@ bool result = fileEditor.TryAppend(instream, new Stream[] { stream1, stream2}, 3
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryAppend(string, string[], int, int, string) {#tryappend_1}
+## TryAppend(string, string[], int, int, string) {#tryappend_1}
 
-Appends pages, which are chosen from portFiles documents. The result document includes firstInputFile and all portFiles documents pages in the range startPage to endPage.
+Appends pages, which are chosen from portFiles documents. 
+ The result document includes firstInputFile and all portFiles documents pages in the range startPage to endPage.
+
+The TryAppend method is like the Append method, except the TryAppend 
+ method does not throw an exception if the operation fails.
 
 ```csharp
 public bool TryAppend(string inputFile, string[] portFiles, int startPage, int endPage, 
@@ -71,10 +78,6 @@ public bool TryAppend(string inputFile, string[] portFiles, int startPage, int e
 
 true if operation completed successfully; otherwise, false.
 
-## Remarks
-
-The TryAppend method is like the Append method, except the TryAppend method does not throw an exception if the operation fails.
-
 ## Examples
 
 ```csharp
@@ -84,8 +87,7 @@ bool result = fileEditor.TryAppend("input.pdf", new string[] { "file1.pdf", "fil
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

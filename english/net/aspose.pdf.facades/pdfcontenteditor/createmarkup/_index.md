@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.CreateMarkup
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates markup annotation it PDF document
+title: "PdfContentEditor.CreateMarkup"
+linktitle: "CreateMarkup"
+articleTitle: "CreateMarkup"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates markup annotation it PDF document."
 type: docs
-weight: 200
-url: /net/aspose.pdf.facades/pdfcontenteditor/createmarkup/
+weight: 210
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createmarkup/"
+product_version: "26.9.0"
 ---
 ## PdfContentEditor.CreateMarkup method
 
@@ -34,8 +37,9 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Color](../../../aspose.pdf/color/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

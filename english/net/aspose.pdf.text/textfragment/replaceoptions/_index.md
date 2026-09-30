@@ -1,10 +1,13 @@
 ---
-title: TextFragment.ReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment property. Gets text replace options. The options define behavior when fragment text is replaced to more short/long
+title: "TextFragment.ReplaceOptions"
+linktitle: "ReplaceOptions"
+articleTitle: "ReplaceOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment property. Gets text replace options. The options define behavior when fragment text is replaced to more short/long."
 type: docs
-weight: 110
-url: /net/aspose.pdf.text/textfragment/replaceoptions/
+weight: 80
+url: "/net/aspose.pdf.text/textfragment/replaceoptions/"
+product_version: "26.9.0"
 ---
 ## TextFragment.ReplaceOptions property
 
@@ -16,9 +19,8 @@ public TextReplaceOptions ReplaceOptions { get; }
 
 ### See Also
 
-* class [TextReplaceOptions](../../textreplaceoptions/)
-* class [TextFragment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextReplaceOptions](../../../aspose.pdf.text/textreplaceoptions/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

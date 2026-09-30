@@ -1,31 +1,14 @@
 ---
-title: PDF3DAnnotation.SetImagePreview
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DAnnotation method. Sets the image preview
+title: "PDF3DAnnotation.SetImagePreview"
+linktitle: "SetImagePreview"
+articleTitle: "SetImagePreview"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DAnnotation method. Sets the image preview."
 type: docs
-weight: 120
-url: /net/aspose.pdf.annotations/pdf3dannotation/setimagepreview/
+weight: 50
+url: "/net/aspose.pdf.annotations/pdf3dannotation/setimagepreview/"
+product_version: "26.9.0"
 ---
-## SetImagePreview(string) {#setimagepreview_1}
-
-Sets the image preview.
-
-```csharp
-public void SetImagePreview(string filename)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filename | String | The image preview filename. |
-
-### See Also
-
-* class [PDF3DAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## SetImagePreview(Stream) {#setimagepreview}
 
 Sets the image preview.
@@ -40,8 +23,27 @@ public void SetImagePreview(Stream image)
 
 ### See Also
 
-* class [PDF3DAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## SetImagePreview(string) {#setimagepreview_1}
+
+Sets the image preview.
+
+```csharp
+public void SetImagePreview(string filename)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | String | The image preview filename. |
+
+### See Also
+
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

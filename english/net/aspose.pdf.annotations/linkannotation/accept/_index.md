@@ -1,10 +1,13 @@
 ---
-title: LinkAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: LinkAnnotation method. Accepts visitor object to process the annotation
+title: "LinkAnnotation.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LinkAnnotation method. Accepts visitor object to process the annotation."
 type: docs
-weight: 60
-url: /net/aspose.pdf.annotations/linkannotation/accept/
+weight: 20
+url: "/net/aspose.pdf.annotations/linkannotation/accept/"
+product_version: "26.9.0"
 ---
 ## LinkAnnotation.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../annotationselector/)
-* class [LinkAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [LinkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

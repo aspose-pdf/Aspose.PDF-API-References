@@ -1,10 +1,13 @@
 ---
-title: FormFieldFacade.BorderWidthMedium
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade field. Defines a medium border width
+title: "FormFieldFacade.BorderWidthMedium"
+linktitle: "BorderWidthMedium"
+articleTitle: "BorderWidthMedium"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Defines a medium border width."
 type: docs
-weight: 350
-url: /net/aspose.pdf.facades/formfieldfacade/borderwidthmedium/
+weight: 230
+url: "/net/aspose.pdf.facades/formfieldfacade/borderwidthmedium/"
+product_version: "26.9.0"
 ---
 ## FormFieldFacade.BorderWidthMedium field
 
@@ -16,8 +19,7 @@ public const float BorderWidthMedium;
 
 ### See Also
 
-* class [FormFieldFacade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: SoundSampleData.DefaultOfBitsPerChannel
-second_title: Aspose.PDF for .NET API Reference
-description: SoundSampleData field. Default value for BitsPerchannel parameter
+title: "SoundSampleData.DefaultOfBitsPerChannel"
+linktitle: "DefaultOfBitsPerChannel"
+articleTitle: "DefaultOfBitsPerChannel"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SoundSampleData field. Default value for BitsPerchannel parameter."
 type: docs
-weight: 70
-url: /net/aspose.pdf.annotations/soundsampledata/defaultofbitsperchannel/
+weight: 110
+url: "/net/aspose.pdf.annotations/soundsampledata/defaultofbitsperchannel/"
+product_version: "26.9.0"
 ---
 ## SoundSampleData.DefaultOfBitsPerChannel field
 
@@ -16,8 +19,7 @@ public const int DefaultOfBitsPerChannel;
 
 ### See Also
 
-* class [SoundSampleData](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

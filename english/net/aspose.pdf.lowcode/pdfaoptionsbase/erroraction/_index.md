@@ -1,10 +1,13 @@
 ---
-title: PdfAOptionsBase.ErrorAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase property. Gets or sets the action to be taken for objects that cannot be converted
+title: "PdfAOptionsBase.ErrorAction"
+linktitle: "ErrorAction"
+articleTitle: "ErrorAction"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAOptionsBase property. Gets or sets the action to be taken for objects that cannot be converted."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/pdfaoptionsbase/erroraction/
+weight: 60
+url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/erroraction/"
+product_version: "26.9.0"
 ---
 ## PdfAOptionsBase.ErrorAction property
 
@@ -16,13 +19,13 @@ public ConvertErrorAction ErrorAction { get; set; }
 
 ### Property Value
 
-The action to be taken when an object in a document structure cannot be converted. The value of this property is a [`ConvertErrorAction`](../../../aspose.pdf/converterroraction/) enumeration.
+The action to be taken when an object in a document structure cannot be converted.
+ The value of this property is a [`ConvertErrorAction`](../../../aspose.pdf/converterroraction/) enumeration.
 
 ### See Also
 
-* enum [ConvertErrorAction](../../../aspose.pdf/converterroraction/)
-* class [PdfAOptionsBase](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [ConvertErrorAction](../../../aspose.pdf/converterroraction/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

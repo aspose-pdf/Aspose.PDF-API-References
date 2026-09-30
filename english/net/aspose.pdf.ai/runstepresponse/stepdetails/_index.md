@@ -1,10 +1,13 @@
 ---
-title: RunStepResponse.StepDetails
-second_title: Aspose.PDF for .NET API Reference
-description: RunStepResponse property. Gets or sets the details of the run step
+title: "RunStepResponse.StepDetails"
+linktitle: "StepDetails"
+articleTitle: "StepDetails"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunStepResponse property. Gets or sets the details of the run step."
 type: docs
-weight: 150
-url: /net/aspose.pdf.ai/runstepresponse/stepdetails/
+weight: 100
+url: "/net/aspose.pdf.ai/runstepresponse/stepdetails/"
+product_version: "26.9.0"
 ---
 ## RunStepResponse.StepDetails property
 
@@ -16,9 +19,8 @@ public RunStepDetails StepDetails { get; set; }
 
 ### See Also
 
-* class [RunStepDetails](../../runstepdetails/)
-* class [RunStepResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RunStepDetails](../../../aspose.pdf.ai/runstepdetails/)
+* class [RunStepResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

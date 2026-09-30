@@ -1,10 +1,13 @@
 ---
-title: PdfBookmarkEditor.ExtractBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor method. Extracts bookmarks of all levels from the document
+title: "PdfBookmarkEditor.ExtractBookmarks"
+linktitle: "ExtractBookmarks"
+articleTitle: "ExtractBookmarks"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfBookmarkEditor method. Extracts bookmarks of all levels from the document."
 type: docs
-weight: 60
-url: /net/aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/
+weight: 110
+url: "/net/aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/"
+product_version: "26.9.0"
 ---
 ## ExtractBookmarks() {#extractbookmarks}
 
@@ -30,10 +33,48 @@ foreach(Bookmark bm in bms)
 
 ### See Also
 
-* class [Bookmarks](../../bookmarks/)
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Bookmarks](../../../aspose.pdf.facades/bookmarks/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ExtractBookmarks([Bookmark](../../../aspose.pdf.facades/bookmark/)) {#extractbookmarks_1}
+
+Extracts the children of a bookmark with a title like in specified bookamrk.
+
+```csharp
+public Bookmarks ExtractBookmarks(Bookmark bookmark)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bookmark | Bookmark | The specified bookamrk. |
+
+### Return Value
+
+Bookmark collection with child bookmarks.
+
+## Examples
+
+```csharp
+PdfBookmarkEditor editor = new PdfBookmarkEditor();
+editor.BindPdf("example.pdf");
+Bookmark bookmark = new Bookmark();
+bookmark.Title = "Title";
+Bookmarks bms = editor.ExtractBookmarks(bookmark);
+foreach(Bookmark bm in bms)
+    Console.WriteLine(bm.Title);
+```
+
+### See Also
+
+* class [Bookmarks](../../../aspose.pdf.facades/bookmarks/)
+* class [Bookmark](../../../aspose.pdf.facades/bookmark/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -55,10 +96,10 @@ List of extracted bookmarks.
 
 ### See Also
 
-* class [Bookmarks](../../bookmarks/)
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Bookmarks](../../../aspose.pdf.facades/bookmarks/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -90,47 +131,8 @@ foreach(Bookmark bm in bms)
 
 ### See Also
 
-* class [Bookmarks](../../bookmarks/)
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## ExtractBookmarks(Bookmark) {#extractbookmarks_1}
-
-Extracts the children of a bookmark with a title like in specified bookamrk.
-
-```csharp
-public Bookmarks ExtractBookmarks(Bookmark bookmark)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bookmark | Bookmark | The specified bookamrk. |
-
-### Return Value
-
-Bookmark collection with child bookmarks.
-
-## Examples
-
-```csharp
-PdfBookmarkEditor editor = new PdfBookmarkEditor();
-editor.BindPdf("example.pdf");
-Bookmark bookmark = new Bookmark();
-bookmark.Title = "Title";
-Bookmarks bms = editor.ExtractBookmarks(bookmark);
-foreach(Bookmark bm in bms)
-    Console.WriteLine(bm.Title);
-```
-
-### See Also
-
-* class [Bookmarks](../../bookmarks/)
-* class [Bookmark](../../bookmark/)
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Bookmarks](../../../aspose.pdf.facades/bookmarks/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

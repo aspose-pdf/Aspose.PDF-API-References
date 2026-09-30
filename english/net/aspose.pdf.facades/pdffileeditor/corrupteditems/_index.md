@@ -1,14 +1,36 @@
 ---
-title: PdfFileEditor.CorruptedItems
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor property. Array of encountered problems when concatenation was performed. For every corrupted document from passed to Concatenate function new CorruptedItem entry is created. This property may be used only when CorruptedFileAction is ConcatenateIgnoringCorrupted
+title: "PdfFileEditor.CorruptedItems"
+linktitle: "CorruptedItems"
+articleTitle: "CorruptedItems"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. Array of encountered problems when concatenation was performed. For every corrupted document from passed to Concatenate() function ne..."
 type: docs
-weight: 90
-url: /net/aspose.pdf.facades/pdffileeditor/corrupteditems/
+weight: 1100
+url: "/net/aspose.pdf.facades/pdffileeditor/corrupteditems/"
+product_version: "26.9.0"
 ---
 ## PdfFileEditor.CorruptedItems property
 
-Array of encountered problems when concatenation was performed. For every corrupted document from passed to Concatenate() function new CorruptedItem entry is created. This property may be used only when CorruptedFileAction is ConcatenateIgnoringCorrupted.
+Array of encountered problems when concatenation was performed. For every corrupted document from passed to Concatenate() 
+ function new CorruptedItem entry is created.
+ This property may be used only when CorruptedFileAction is ConcatenateIgnoringCorrupted.
+ 
+ //concatenate documents and show information about corrupted documents
+ PdfFileEditor pfe = new PdfFileEditor();
+ pfe.CorruptedFileAction = PdfFileEditor.ConcatenateCorruptedFileActions.ConcatenateIgnoringCorrupted;
+ if (pfe.CorruptedItems.Length &gt;0)
+ {
+ foreach(PdfFileEditor.CorruptedItem item in pfe.CorruptedItems)
+ {
+ Console.WriteLine(item.Index + " reason: " + item.Exception);
+ }
+ }
+
+```csharp
+public CorruptedItem[] CorruptedItems { get; }
+```
+
+## Examples
 
 ```csharp
 //concatenate documents and show information about corrupted documents
@@ -23,15 +45,9 @@ if (pfe.CorruptedItems.Length >0)
 }
 ```
 
-```csharp
-public CorruptedItem[] CorruptedItems { get; }
-```
-
 ### See Also
 
-* class [CorruptedItem](../../pdffileeditor.corrupteditem/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

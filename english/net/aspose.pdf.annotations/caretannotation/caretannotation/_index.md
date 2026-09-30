@@ -1,12 +1,15 @@
 ---
-title: CaretAnnotation.CaretAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: CaretAnnotation constructor. Constructor for usign in Generator
+title: "CaretAnnotation.CaretAnnotation"
+linktitle: "CaretAnnotation"
+articleTitle: "CaretAnnotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CaretAnnotation constructor. Constructor for usign in Generator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/caretannotation/caretannotation/
+url: "/net/aspose.pdf.annotations/caretannotation/caretannotation/"
+product_version: "26.9.0"
 ---
-## CaretAnnotation(Document) {#constructor}
+## CaretAnnotation([Document](../../../aspose.pdf/document/)) {#constructor}
 
 Constructor for usign in Generator.
 
@@ -20,14 +23,14 @@ public CaretAnnotation(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [CaretAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [CaretAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CaretAnnotation(Page, Rectangle) {#constructor_1}
+## CaretAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
 
 Creates new Caret annotation on the specified page.
 
@@ -42,10 +45,9 @@ public CaretAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [CaretAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [CaretAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

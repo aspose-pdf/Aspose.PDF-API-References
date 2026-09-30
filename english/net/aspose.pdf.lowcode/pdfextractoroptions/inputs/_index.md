@@ -1,10 +1,13 @@
 ---
-title: PdfExtractorOptions.Inputs
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractorOptions property. Returns PdfExtractor plugin data collection
+title: "PdfExtractorOptions.Inputs"
+linktitle: "Inputs"
+articleTitle: "Inputs"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractorOptions property. Returns PdfExtractor plugin data collection."
 type: docs
-weight: 10
-url: /net/aspose.pdf.lowcode/pdfextractoroptions/inputs/
+weight: 20
+url: "/net/aspose.pdf.lowcode/pdfextractoroptions/inputs/"
+product_version: "26.9.0"
 ---
 ## PdfExtractorOptions.Inputs property
 
@@ -16,9 +19,7 @@ public List<IDataSource> Inputs { get; }
 
 ### See Also
 
-* interface [IDataSource](../../idatasource/)
-* class [PdfExtractorOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfExtractorOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

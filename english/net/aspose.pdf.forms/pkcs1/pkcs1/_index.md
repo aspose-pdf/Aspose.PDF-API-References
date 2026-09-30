@@ -1,14 +1,33 @@
 ---
-title: PKCS1.PKCS1
-second_title: Aspose.PDF for .NET API Reference
-description: PKCS1 constructor. Initializes new instance of the PKCS1 class
+title: "PKCS1.PKCS1"
+linktitle: "PKCS1"
+articleTitle: "PKCS1"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PKCS1 constructor. Initializes new instance of the PKCS1 class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.forms/pkcs1/pkcs1/
+url: "/net/aspose.pdf.forms/pkcs1/pkcs1/"
+product_version: "26.9.0"
 ---
+## PKCS1() {#constructor}
+
+Inititalizes new instance of the [`PKCS1`](../../../aspose.pdf.forms/pkcs1/) class.
+
+```csharp
+public PKCS1()
+```
+
+### See Also
+
+* class [PKCS1](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## PKCS1(Stream) {#constructor_1}
 
-Initializes new instance of the [`PKCS1`](../) class.
+Initializes new instance of the [`PKCS1`](../../../aspose.pdf.forms/pkcs1/) class.
 
 ```csharp
 public PKCS1(Stream image)
@@ -20,52 +39,15 @@ public PKCS1(Stream image)
 
 ### See Also
 
-* class [PKCS1](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [PKCS1](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PKCS1() {#constructor}
+## PKCS1(Stream, string) {#constructor_2}
 
-Inititalizes new instance of the [`PKCS1`](../) class.
-
-```csharp
-public PKCS1()
-```
-
-### See Also
-
-* class [PKCS1](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## PKCS1(string, string) {#constructor_3}
-
-Inititalizes new instance of the [`PKCS1`](../) class.
-
-```csharp
-public PKCS1(string pfx, string password)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pfx | String | Pfx file which contains certificate for signing. |
-| password | String | Password for certificate. |
-
-### See Also
-
-* class [PKCS1](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## PKCS1(Stream, string) {#constructor_2}
-
-Inititalizes new instance of the [`PKCS1`](../) class.
+Inititalizes new instance of the [`PKCS1`](../../../aspose.pdf.forms/pkcs1/) class.
 
 ```csharp
 public PKCS1(Stream pfx, string password)
@@ -78,8 +60,28 @@ public PKCS1(Stream pfx, string password)
 
 ### See Also
 
-* class [PKCS1](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [PKCS1](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## PKCS1(string, string) {#constructor_3}
+
+Inititalizes new instance of the [`PKCS1`](../../../aspose.pdf.forms/pkcs1/) class.
+
+```csharp
+public PKCS1(string pfx, string password)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pfx | String | Pfx file which contains certificate for signing. |
+| password | String | Password for certificate. |
+
+### See Also
+
+* class [PKCS1](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

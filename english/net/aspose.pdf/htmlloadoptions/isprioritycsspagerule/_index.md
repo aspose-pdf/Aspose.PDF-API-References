@@ -1,10 +1,13 @@
 ---
-title: HtmlLoadOptions.IsPriorityCssPageRule
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlLoadOptions property. Gets or sets the flag that specifies that page rules defined in css will override values defined in PageInfo
+title: "HtmlLoadOptions.IsPriorityCssPageRule"
+linktitle: "IsPriorityCssPageRule"
+articleTitle: "IsPriorityCssPageRule"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlLoadOptions property. Gets or sets the flag that specifies that @page rules defined in css will override values defined in PageInfo."
 type: docs
-weight: 70
-url: /net/aspose.pdf/htmlloadoptions/isprioritycsspagerule/
+weight: 90
+url: "/net/aspose.pdf/htmlloadoptions/isprioritycsspagerule/"
+product_version: "26.9.0"
 ---
 ## HtmlLoadOptions.IsPriorityCssPageRule property
 
@@ -16,8 +19,7 @@ public bool IsPriorityCssPageRule { get; set; }
 
 ### See Also
 
-* class [HtmlLoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HtmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

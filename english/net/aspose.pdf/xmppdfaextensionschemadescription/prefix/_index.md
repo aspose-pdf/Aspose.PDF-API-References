@@ -1,10 +1,13 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchemaDescription property. Gets the prefix
+title: "XmpPdfAExtensionSchemaDescription.Prefix"
+linktitle: "Prefix"
+articleTitle: "Prefix"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchemaDescription property. Gets the prefix."
 type: docs
-weight: 40
-url: /net/aspose.pdf/xmppdfaextensionschemadescription/prefix/
+weight: 30
+url: "/net/aspose.pdf/xmppdfaextensionschemadescription/prefix/"
+product_version: "26.9.0"
 ---
 ## XmpPdfAExtensionSchemaDescription.Prefix property
 
@@ -16,8 +19,7 @@ public string Prefix { get; }
 
 ### See Also
 
-* class [XmpPdfAExtensionSchemaDescription](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpPdfAExtensionSchemaDescription](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

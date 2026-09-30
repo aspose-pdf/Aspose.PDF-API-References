@@ -1,10 +1,13 @@
 ---
-title: XslFoLoadOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: XslFoLoadOptions property. The base path/url from which are searched relative paths to external resources if any referenced in loaded SVG file
+title: "XslFoLoadOptions.BasePath"
+linktitle: "BasePath"
+articleTitle: "BasePath"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XslFoLoadOptions property. The base path/url from which are searched relative paths to external resources (if any) referenced in loaded SVG file."
 type: docs
-weight: 20
-url: /net/aspose.pdf/xslfoloadoptions/basepath/
+weight: 40
+url: "/net/aspose.pdf/xslfoloadoptions/basepath/"
+product_version: "26.9.0"
 ---
 ## XslFoLoadOptions.BasePath property
 
@@ -16,8 +19,7 @@ public string BasePath { get; set; }
 
 ### See Also
 
-* class [XslFoLoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

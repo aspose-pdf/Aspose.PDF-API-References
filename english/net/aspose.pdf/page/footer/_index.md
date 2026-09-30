@@ -1,10 +1,13 @@
 ---
-title: Page.Footer
-second_title: Aspose.PDF for .NET API Reference
-description: Page property. Gets or sets page footer
+title: "Page.Footer"
+linktitle: "Footer"
+articleTitle: "Footer"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets or sets page footer."
 type: docs
-weight: 130
-url: /net/aspose.pdf/page/footer/
+weight: 400
+url: "/net/aspose.pdf/page/footer/"
+product_version: "26.9.0"
 ---
 ## Page.Footer property
 
@@ -20,9 +23,8 @@ The page footer.
 
 ### See Also
 
-* class [HeaderFooter](../../headerfooter/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HeaderFooter](../../../aspose.pdf/headerfooter/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

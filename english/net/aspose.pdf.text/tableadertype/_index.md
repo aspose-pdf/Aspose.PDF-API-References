@@ -1,10 +1,13 @@
 ---
-title: Enum TabLeaderType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TabLeaderType enum. Enumerates the tab leader types
+title: "TabLeaderType Enum"
+linktitle: "TabLeaderType"
+articleTitle: "TabLeaderType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TabLeaderType enum. Enumerates the tab leader types."
 type: docs
-weight: 11160
-url: /net/aspose.pdf.text/tableadertype/
+weight: 370
+url: "/net/aspose.pdf.text/tableadertype/"
+product_version: "26.9.0"
 ---
 ## TabLeaderType enumeration
 
@@ -25,7 +28,6 @@ public enum TabLeaderType
 
 ### See Also
 
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

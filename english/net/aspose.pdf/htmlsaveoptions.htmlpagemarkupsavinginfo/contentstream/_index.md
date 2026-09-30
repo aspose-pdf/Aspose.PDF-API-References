@@ -1,14 +1,18 @@
 ---
-title: HtmlSaveOptions.HtmlPageMarkupSavingInfo.ContentStream
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlPageMarkupSavingInfo field. Set by converter. Represents saved HTML as stream
+title: "HtmlSaveOptions.HtmlPageMarkupSavingInfo.ContentStream"
+linktitle: "ContentStream"
+articleTitle: "ContentStream"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlPageMarkupSavingInfo field. Set by converter. Represents saved HTML as stream"
 type: docs
-weight: 10
-url: /net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/contentstream/
+weight: 20
+url: "/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/contentstream/"
+product_version: "26.9.0"
 ---
 ## HtmlSaveOptions.HtmlPageMarkupSavingInfo.ContentStream field
 
-Set by converter. Represents saved HTML as stream
+Set by converter.
+ Represents saved HTML as stream
 
 ```csharp
 public Stream ContentStream;
@@ -16,8 +20,7 @@ public Stream ContentStream;
 
 ### See Also
 
-* class [HtmlPageMarkupSavingInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HtmlSaveOptions.HtmlPageMarkupSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

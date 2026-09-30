@@ -1,12 +1,59 @@
 ---
-title: PageCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection method. Adds page to collection
+title: "PageCollection.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection method. Adds page to collection."
 type: docs
-weight: 70
-url: /net/aspose.pdf/pagecollection/add/
+weight: 10
+url: "/net/aspose.pdf/pagecollection/add/"
+product_version: "26.9.0"
 ---
-## Add(Page) {#add_1}
+## Add() {#add}
+
+Adds an empty page.
+ If the document already contains pages with varying sizes,
+ the size of the most frequently occurring page will be selected.
+ In the case there are only two different pages, the size of the first page will be used.
+
+```csharp
+public Page Add()
+```
+
+### Return Value
+
+Added page.
+
+### See Also
+
+* class [Page](../../../aspose.pdf/page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Add(ICollection<Page>) {#add_1}
+
+Adds to collection all pages from list.
+
+```csharp
+public void Add(ICollection<Page> pages)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pages | ICollection`1 | List which contains all pages which must be added. |
+
+### See Also
+
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Add([Page](../../../aspose.pdf/page/)) {#add_2}
 
 Adds page to collection.
 
@@ -24,56 +71,14 @@ Added page.
 
 ### See Also
 
-* class [Page](../../page/)
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add() {#add}
-
-Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used.
-
-```csharp
-public Page Add()
-```
-
-### Return Value
-
-Added page.
-
-### See Also
-
-* class [Page](../../page/)
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Add(ICollection&lt;Page&gt;) {#add_3}
-
-Adds to collection all pages from list.
-
-```csharp
-public void Add(ICollection<Page> pages)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pages | ICollection`1 | List which contains all pages which must be added. |
-
-### See Also
-
-* class [Page](../../page/)
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Add(Page[]) {#add_2}
+## Add(Page[]) {#add_3}
 
 Adds to collection all pages from array.
 
@@ -87,9 +92,8 @@ public void Add(Page[] pages)
 
 ### See Also
 
-* class [Page](../../page/)
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

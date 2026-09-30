@@ -1,10 +1,13 @@
 ---
-title: IOpenAIClient.GetThreadMessagesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Retrieves a list of messages for a specific thread asynchronously
+title: "IOpenAIClient.GetThreadMessagesAsync"
+linktitle: "GetThreadMessagesAsync"
+articleTitle: "GetThreadMessagesAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Retrieves a list of messages for a specific thread asynchronously."
 type: docs
-weight: 290
-url: /net/aspose.pdf.ai/iopenaiclient/getthreadmessagesasync/
+weight: 80
+url: "/net/aspose.pdf.ai/iopenaiclient/getthreadmessagesasync/"
+product_version: "26.9.0"
 ---
 ## IOpenAIClient.GetThreadMessagesAsync method
 
@@ -30,14 +33,12 @@ A task that represents the asynchronous operation. The task result contains a li
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Thrown when the thread Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread Id is null or empty. |
 
 ### See Also
 
-* class [ThreadMessageListResponse](../../threadmessagelistresponse/)
-* class [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ThreadMessageListQueryParameters](../../../aspose.pdf.ai/threadmessagelistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

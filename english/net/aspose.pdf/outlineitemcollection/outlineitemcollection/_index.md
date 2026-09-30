@@ -1,10 +1,13 @@
 ---
-title: OutlineItemCollection.OutlineItemCollection
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection constructor. Initializes outline item instance using root hierarchy object
+title: "OutlineItemCollection.OutlineItemCollection"
+linktitle: "OutlineItemCollection"
+articleTitle: "OutlineItemCollection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection constructor. Initializes outline item instance using root hierarchy object."
 type: docs
 weight: 10
-url: /net/aspose.pdf/outlineitemcollection/outlineitemcollection/
+url: "/net/aspose.pdf/outlineitemcollection/outlineitemcollection/"
+product_version: "26.9.0"
 ---
 ## OutlineItemCollection constructor
 
@@ -20,9 +23,8 @@ public OutlineItemCollection(OutlineCollection outlines)
 
 ### See Also
 
-* class [OutlineCollection](../../outlinecollection/)
-* class [OutlineItemCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutlineCollection](../../../aspose.pdf/outlinecollection/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

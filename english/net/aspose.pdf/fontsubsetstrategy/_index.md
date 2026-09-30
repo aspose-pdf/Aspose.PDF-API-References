@@ -1,10 +1,13 @@
 ---
-title: Enum FontSubsetStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FontSubsetStrategy enum. enumerates strategies for font subsetting
+title: "FontSubsetStrategy Enum"
+linktitle: "FontSubsetStrategy"
+articleTitle: "FontSubsetStrategy"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.FontSubsetStrategy enum. enumerates strategies for font subsetting"
 type: docs
-weight: 5090
-url: /net/aspose.pdf/fontsubsetstrategy/
+weight: 960
+url: "/net/aspose.pdf/fontsubsetstrategy/"
+product_version: "26.9.0"
 ---
 ## FontSubsetStrategy enumeration
 
@@ -23,7 +26,6 @@ public enum FontSubsetStrategy : byte
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

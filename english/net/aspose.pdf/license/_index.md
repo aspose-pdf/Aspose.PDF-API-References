@@ -1,10 +1,14 @@
 ---
-title: Class License
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.License class. Provides methods to license the component
+title: "License Class"
+linktitle: "License"
+articleTitle: "License"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.License class. Provides methods to license the component."
 type: docs
-weight: 6230
-url: /net/aspose.pdf/license/
+weight: 1710
+url: "/net/aspose.pdf/license/"
+keywords: "License, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## License class
 
@@ -18,25 +22,24 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [License](license/)() | The default constructor. |
+| [License](./license/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [LicenseInfo](../../aspose.pdf/license/licenseinfo/) { get; } | Gets the current license information. |
+| [LicenseInfo](./licenseinfo/) { get; } | Gets the current license information. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ClearLicense](../../aspose.pdf/license/clearlicense/)() | Clears the current license. |
-| [SetLicense](../../aspose.pdf/license/setlicense/#setlicense)(Stream) | Licenses the component. |
-| [SetLicense](../../aspose.pdf/license/setlicense/#setlicense_1)(string) | Licenses the component. |
+| [ClearLicense](./clearlicense/)() | Clears the current license. |
+| [SetLicense](./setlicense/)(Stream) | Licenses the component. |
+| [SetLicense](./setlicense/)(string) | Licenses the component. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

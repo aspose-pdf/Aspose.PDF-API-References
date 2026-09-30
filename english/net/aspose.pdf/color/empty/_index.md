@@ -1,10 +1,13 @@
 ---
-title: Color.Empty
-second_title: Aspose.PDF for .NET API Reference
-description: Color field. Represents empty color
+title: "Color.Empty"
+linktitle: "Empty"
+articleTitle: "Empty"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color field. Represents empty color."
 type: docs
-weight: 1430
-url: /net/aspose.pdf/color/empty/
+weight: 1590
+url: "/net/aspose.pdf/color/empty/"
+product_version: "26.9.0"
 ---
 ## Color.Empty field
 
@@ -16,8 +19,7 @@ public static Color Empty;
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ViewerPreference.Simplex
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference field. Print singlesided
+title: "ViewerPreference.Simplex"
+linktitle: "Simplex"
+articleTitle: "Simplex"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Print single-sided."
 type: docs
-weight: 290
-url: /net/aspose.pdf.facades/viewerpreference/simplex/
+weight: 240
+url: "/net/aspose.pdf.facades/viewerpreference/simplex/"
+product_version: "26.9.0"
 ---
 ## ViewerPreference.Simplex field
 
@@ -16,8 +19,7 @@ public const int Simplex;
 
 ### See Also
 
-* class [ViewerPreference](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

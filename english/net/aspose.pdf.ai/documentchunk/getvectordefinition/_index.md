@@ -1,14 +1,18 @@
 ---
-title: DocumentChunk.GetVectorDefinition
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentChunk method. Returns a VectorStoreCollectionDefinition describing the schema of DocumentChunk for use with a vector store collection
+title: "DocumentChunk.GetVectorDefinition"
+linktitle: "GetVectorDefinition"
+articleTitle: "GetVectorDefinition"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentChunk method. Returns a VectorStoreCollectionDefinition describing the schema of DocumentChunk for use with a vector store collection."
 type: docs
-weight: 80
-url: /net/aspose.pdf.ai/documentchunk/getvectordefinition/
+weight: 20
+url: "/net/aspose.pdf.ai/documentchunk/getvectordefinition/"
+product_version: "26.9.0"
 ---
 ## DocumentChunk.GetVectorDefinition method
 
-Returns a VectorStoreCollectionDefinition describing the schema of [`DocumentChunk`](../) for use with a vector store collection.
+Returns a `VectorStoreCollectionDefinition` describing the schema
+ of [`DocumentChunk`](../../../aspose.pdf.ai/documentchunk/) for use with a vector store collection.
 
 ```csharp
 public static VectorStoreCollectionDefinition GetVectorDefinition(int dimensions)
@@ -20,7 +24,8 @@ public static VectorStoreCollectionDefinition GetVectorDefinition(int dimensions
 
 ### Return Value
 
-A VectorStoreCollectionDefinition that maps all relevant [`DocumentChunk`](../) properties to their vector store roles.
+A `VectorStoreCollectionDefinition` that maps all relevant
+ [`DocumentChunk`](../../../aspose.pdf.ai/documentchunk/) properties to their vector store roles.
 
 ### Exceptions
 
@@ -30,8 +35,7 @@ A VectorStoreCollectionDefinition that maps all relevant [`DocumentChunk`](../) 
 
 ### See Also
 
-* class [DocumentChunk](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentChunk](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

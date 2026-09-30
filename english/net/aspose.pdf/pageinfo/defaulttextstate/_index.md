@@ -1,10 +1,13 @@
 ---
-title: PageInfo.DefaultTextState
-second_title: Aspose.PDF for .NET API Reference
-description: PageInfo property. Gets or sets default font
+title: "PageInfo.DefaultTextState"
+linktitle: "DefaultTextState"
+articleTitle: "DefaultTextState"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageInfo property. Gets or sets default font."
 type: docs
-weight: 30
-url: /net/aspose.pdf/pageinfo/defaulttextstate/
+weight: 40
+url: "/net/aspose.pdf/pageinfo/defaulttextstate/"
+product_version: "26.9.0"
 ---
 ## PageInfo.DefaultTextState property
 
@@ -16,9 +19,8 @@ public TextState DefaultTextState { get; set; }
 
 ### See Also
 
-* class [TextState](../../../aspose.pdf.text/textstate/)
-* class [PageInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

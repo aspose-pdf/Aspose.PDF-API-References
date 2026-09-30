@@ -1,10 +1,13 @@
 ---
-title: FormEditor.SetFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Set field flags
+title: "FormEditor.SetFieldAppearance"
+linktitle: "SetFieldAppearance"
+articleTitle: "SetFieldAppearance"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Set field flags"
 type: docs
-weight: 280
-url: /net/aspose.pdf.facades/formeditor/setfieldappearance/
+weight: 40
+url: "/net/aspose.pdf.facades/formeditor/setfieldappearance/"
+product_version: "26.9.0"
 ---
 ## FormEditor.SetFieldAppearance method
 
@@ -33,9 +36,8 @@ formEditor.SetFieldAppearance("Phone", AnnotationFlags.NoView | AnnotationFlags.
 
 ### See Also
 
-* enum [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

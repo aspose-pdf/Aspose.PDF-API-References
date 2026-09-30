@@ -1,10 +1,13 @@
 ---
-title: CreateFineTuningJobRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobRequest property. Gets or sets the name of the model to finetune. You can select one of the supported models
+title: "CreateFineTuningJobRequest.Model"
+linktitle: "Model"
+articleTitle: "Model"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateFineTuningJobRequest property. Gets or sets the name of the model to fine-tune. You can select one of the supported models."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/createfinetuningjobrequest/model/
+weight: 20
+url: "/net/aspose.pdf.ai/createfinetuningjobrequest/model/"
+product_version: "26.9.0"
 ---
 ## CreateFineTuningJobRequest.Model property
 
@@ -16,8 +19,7 @@ public string Model { get; set; }
 
 ### See Also
 
-* class [CreateFineTuningJobRequest](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CreateFineTuningJobRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

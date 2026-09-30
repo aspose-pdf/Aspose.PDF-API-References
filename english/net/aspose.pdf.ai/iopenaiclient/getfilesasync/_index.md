@@ -1,10 +1,13 @@
 ---
-title: IOpenAIClient.GetFilesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Retrieves a list of files asynchronously based on the specified purpose
+title: "IOpenAIClient.GetFilesAsync"
+linktitle: "GetFilesAsync"
+articleTitle: "GetFilesAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Retrieves a list of files asynchronously based on the specified purpose."
 type: docs
-weight: 220
-url: /net/aspose.pdf.ai/iopenaiclient/getfilesasync/
+weight: 320
+url: "/net/aspose.pdf.ai/iopenaiclient/getfilesasync/"
+product_version: "26.9.0"
 ---
 ## IOpenAIClient.GetFilesAsync method
 
@@ -26,9 +29,7 @@ A task that represents the asynchronous operation. The task result contains a li
 
 ### See Also
 
-* class [FileListResponse](../../filelistresponse/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

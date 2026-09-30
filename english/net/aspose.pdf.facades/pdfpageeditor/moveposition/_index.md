@@ -1,14 +1,18 @@
 ---
-title: PdfPageEditor.MovePosition
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor method. Moves the origin from 0 0 to the point that appointted. The origin is leftbottom and the unit is point1 inch  72 points
+title: "PdfPageEditor.MovePosition"
+linktitle: "MovePosition"
+articleTitle: "MovePosition"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor method. Moves the origin from (0, 0) to the point that appointted. The origin is left-bottom and the unit is point(1 inch = 72 points)."
 type: docs
-weight: 170
-url: /net/aspose.pdf.facades/pdfpageeditor/moveposition/
+weight: 30
+url: "/net/aspose.pdf.facades/pdfpageeditor/moveposition/"
+product_version: "26.9.0"
 ---
 ## PdfPageEditor.MovePosition method
 
-Moves the origin from (0, 0) to the point that appointted. The origin is left-bottom and the unit is point(1 inch = 72 points).
+Moves the origin from (0, 0) to the point that appointted. 
+ The origin is left-bottom and the unit is point(1 inch = 72 points).
 
 ```csharp
 public void MovePosition(float moveX, float moveY)
@@ -30,8 +34,7 @@ editor.Save("moved.pdf");
 
 ### See Also
 
-* class [PdfPageEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

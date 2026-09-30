@@ -1,10 +1,13 @@
 ---
-title: FileCitation.FileCitation
-second_title: Aspose.PDF for .NET API Reference
-description: FileCitation constructor. The default constructor
+title: "FileCitation.FileCitation"
+linktitle: "FileCitation"
+articleTitle: "FileCitation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileCitation constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/filecitation/filecitation/
+url: "/net/aspose.pdf.ai/filecitation/filecitation/"
+product_version: "26.9.0"
 ---
 ## FileCitation constructor
 
@@ -16,8 +19,7 @@ public FileCitation()
 
 ### See Also
 
-* class [FileCitation](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileCitation](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

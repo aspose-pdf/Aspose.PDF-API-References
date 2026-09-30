@@ -1,14 +1,19 @@
 ---
-title: Class HeaderElementTextConflictException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.HeaderElementTextConflictException class. Represents an exception that is thrown when the header elements text is set manually while it is already bound to a Table of Contents TOC title causing a conflict
+title: "HeaderElementTextConflictException Class"
+linktitle: "HeaderElementTextConflictException"
+articleTitle: "HeaderElementTextConflictException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.HeaderElementTextConflictException class. Represents an exception that is thrown when the header element's text is set manually w..."
 type: docs
-weight: 6540
-url: /net/aspose.pdf.logicalstructure/headerelementtextconflictexception/
+weight: 230
+url: "/net/aspose.pdf.logicalstructure/headerelementtextconflictexception/"
+keywords: "HeaderElementTextConflictException, Aspose.Pdf.LogicalStructure, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## HeaderElementTextConflictException class
 
-Represents an exception that is thrown when the header element's text is set manually while it is already bound to a Table of Contents (TOC) title, causing a conflict.
+Represents an exception that is thrown when the header element's text is set manually 
+ while it is already bound to a Table of Contents (TOC) title, causing a conflict.
 
 ```csharp
 public class HeaderElementTextConflictException : PdfException
@@ -18,12 +23,17 @@ public class HeaderElementTextConflictException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [HeaderElementTextConflictException](headerelementtextconflictexception/)(string) |  |
+| [HeaderElementTextConflictException](./headerelementtextconflictexception/)(string) | Initializes a new instance of the HeaderElementTextConflictException class. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
 
 ### See Also
 
-* class [PdfException](../../aspose.pdf/pdfexception/)
-* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfException](../../aspose.pdf/pdfexception/)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
 

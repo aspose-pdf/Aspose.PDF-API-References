@@ -1,32 +1,15 @@
 ---
-title: PdfFileSignature.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature method. Binds a Pdf file for editing
+title: "PdfFileSignature.BindPdf"
+linktitle: "BindPdf"
+articleTitle: "BindPdf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Binds a Pdf file for editing."
 type: docs
-weight: 60
-url: /net/aspose.pdf.facades/pdffilesignature/bindpdf/
+weight: 30
+url: "/net/aspose.pdf.facades/pdffilesignature/bindpdf/"
+product_version: "26.9.0"
 ---
-## BindPdf(string) {#bindpdf_2}
-
-Binds a Pdf file for editing.
-
-```csharp
-public override void BindPdf(string inputFile)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | String | The pdf file to be edited. |
-
-### See Also
-
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## BindPdf(Stream) {#bindpdf_1}
+## BindPdf(Stream) {#bindpdf}
 
 Binds a Pdf stream for editing.
 
@@ -40,8 +23,27 @@ public override void BindPdf(Stream inputStream)
 
 ### See Also
 
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## BindPdf(string) {#bindpdf_1}
+
+Binds a Pdf file for editing.
+
+```csharp
+public override void BindPdf(string inputFile)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | String | The pdf file to be edited. |
+
+### See Also
+
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

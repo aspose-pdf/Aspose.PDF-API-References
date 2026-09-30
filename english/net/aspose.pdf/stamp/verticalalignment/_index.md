@@ -1,10 +1,13 @@
 ---
-title: Stamp.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp property. Gets or sets vertical alignment of stamp on page
+title: "Stamp.VerticalAlignment"
+linktitle: "VerticalAlignment"
+articleTitle: "VerticalAlignment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Gets or sets vertical alignment of stamp on page."
 type: docs
-weight: 130
-url: /net/aspose.pdf/stamp/verticalalignment/
+weight: 120
+url: "/net/aspose.pdf/stamp/verticalalignment/"
+product_version: "26.9.0"
 ---
 ## Stamp.VerticalAlignment property
 
@@ -16,9 +19,8 @@ public VerticalAlignment VerticalAlignment { get; set; }
 
 ### See Also
 
-* enum [VerticalAlignment](../../verticalalignment/)
-* class [Stamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: XmpValue.ToInteger
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue method. Converts to integer
+title: "XmpValue.ToInteger"
+linktitle: "ToInteger"
+articleTitle: "ToInteger"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue method. Converts to integer."
 type: docs
-weight: 170
-url: /net/aspose.pdf/xmpvalue/tointeger/
+weight: 70
+url: "/net/aspose.pdf/xmpvalue/tointeger/"
+product_version: "26.9.0"
 ---
 ## XmpValue.ToInteger method
 
@@ -20,8 +23,7 @@ Integer value.
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,28 +1,32 @@
 ---
-title: AutoFiller.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFiller method. Binds a Pdf file
+title: "AutoFiller.BindPdf"
+linktitle: "BindPdf"
+articleTitle: "BindPdf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AutoFiller method. Binds a Pdf file."
 type: docs
-weight: 60
-url: /net/aspose.pdf.facades/autofiller/bindpdf/
+weight: 50
+url: "/net/aspose.pdf.facades/autofiller/bindpdf/"
+product_version: "26.9.0"
 ---
-## BindPdf(string) {#bindpdf_2}
+## BindPdf([Document](../../../aspose.pdf/document/)) {#bindpdf}
 
-Binds a Pdf file.
+Binds a Pdf document.
 
 ```csharp
-public void BindPdf(string srcFile)
+public void BindPdf(Document srcDoc)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFile | String | Pdf file name. |
+| srcDoc | Document | Pdf document. |
 
 ### See Also
 
-* class [AutoFiller](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,29 +44,27 @@ public void BindPdf(Stream srcStream)
 
 ### See Also
 
-* class [AutoFiller](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BindPdf(Document) {#bindpdf}
+## BindPdf(string) {#bindpdf_2}
 
-Binds a Pdf document.
+Binds a Pdf file.
 
 ```csharp
-public void BindPdf(Document srcDoc)
+public void BindPdf(string srcFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcDoc | Document | Pdf document. |
+| srcFile | String | Pdf file name. |
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [AutoFiller](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: AnnotationCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection property. Gets a value indicating if collection is readonly
+title: "AnnotationCollection.IsReadOnly"
+linktitle: "IsReadOnly"
+articleTitle: "IsReadOnly"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationCollection property. Gets a value indicating if collection is readonly."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/annotationcollection/isreadonly/
+weight: 160
+url: "/net/aspose.pdf.annotations/annotationcollection/isreadonly/"
+product_version: "26.9.0"
 ---
 ## AnnotationCollection.IsReadOnly property
 
@@ -16,8 +19,7 @@ public bool IsReadOnly { get; }
 
 ### See Also
 
-* class [AnnotationCollection](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

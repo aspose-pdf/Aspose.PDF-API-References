@@ -1,10 +1,13 @@
 ---
-title: ComHelper.OpenStream
-second_title: Aspose.PDF for .NET API Reference
-description: ComHelper method. Initialize and return new Document instance from the input stream
+title: "ComHelper.OpenStream"
+linktitle: "OpenStream"
+articleTitle: "OpenStream"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ComHelper method. Initialize and return new Document instance from the input stream."
 type: docs
-weight: 30
-url: /net/aspose.pdf/comhelper/openstream/
+weight: 20
+url: "/net/aspose.pdf/comhelper/openstream/"
+product_version: "26.9.0"
 ---
 ## OpenStream(Stream) {#openstream}
 
@@ -24,40 +27,14 @@ Document object
 
 ### See Also
 
-* class [Document](../../document/)
-* class [ComHelper](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## OpenStream(Stream, string) {#openstream_3}
-
-Initialize and return new Document instance from the *input* stream.
-
-```csharp
-public Document OpenStream(Stream input, string password)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | Stream | Input stream object, corresponding pdf is password protected. |
-| password | String | User or owner password. |
-
-### Return Value
-
-Document object
-
-### See Also
-
-* class [Document](../../document/)
-* class [ComHelper](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## OpenStream(Stream, bool) {#openstream_2}
+## OpenStream(Stream, bool) {#openstream_1}
 
 Initialize and return new Document instance from the *input* stream.
 
@@ -76,14 +53,67 @@ Document object
 
 ### See Also
 
-* class [Document](../../document/)
-* class [ComHelper](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## OpenStream(Stream, string, bool) {#openstream_4}
+## OpenStream(Stream, [LoadOptions](../../../aspose.pdf/loadoptions/)) {#openstream_2}
+
+Open and return an existing document from a stream providing necessary converting to get pdf document.
+
+```csharp
+public Document OpenStream(Stream input, LoadOptions options)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Stream | Input stream to convert into pdf document. |
+| options | LoadOptions | Represents properties for converting *input* into pdf document. |
+
+### Return Value
+
+Document object
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [LoadOptions](../../../aspose.pdf/loadoptions/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## OpenStream(Stream, string) {#openstream_3}
+
+Initialize and return new Document instance from the *input* stream.
+
+```csharp
+public Document OpenStream(Stream input, string password)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Stream | Input stream object, corresponding pdf is password protected. |
+| password | String | User or owner password. |
+
+### Return Value
+
+Document object
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## OpenStream(Stream, string, bool) {#openstream_4}
 
 Initialize and return new Document instance from the *input* stream.
 
@@ -103,36 +133,8 @@ Document object
 
 ### See Also
 
-* class [Document](../../document/)
-* class [ComHelper](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## OpenStream(Stream, LoadOptions) {#openstream_1}
-
-Open and return an existing document from a stream providing necessary converting to get pdf document.
-
-```csharp
-public Document OpenStream(Stream input, LoadOptions options)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | Stream | Input stream to convert into pdf document. |
-| options | LoadOptions | Represents properties for converting *input* into pdf document. |
-
-### Return Value
-
-Document object
-
-### See Also
-
-* class [Document](../../document/)
-* class [LoadOptions](../../loadoptions/)
-* class [ComHelper](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

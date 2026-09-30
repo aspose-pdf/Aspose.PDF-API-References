@@ -1,10 +1,13 @@
 ---
-title: ImageDevice.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDevice property. Gets image resolution
+title: "ImageDevice.Resolution"
+linktitle: "Resolution"
+articleTitle: "Resolution"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageDevice property. Gets image resolution."
 type: docs
-weight: 60
-url: /net/aspose.pdf.devices/imagedevice/resolution/
+weight: 110
+url: "/net/aspose.pdf.devices/imagedevice/resolution/"
+product_version: "26.9.0"
 ---
 ## ImageDevice.Resolution property
 
@@ -16,9 +19,8 @@ public Resolution Resolution { get; }
 
 ### See Also
 
-* class [Resolution](../../resolution/)
-* class [ImageDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [ImageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

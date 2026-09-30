@@ -1,10 +1,14 @@
 ---
-title: Class PrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PrinterResolution class. Represents the resolution supported by a printer
+title: "PrinterResolution Class"
+linktitle: "PrinterResolution"
+articleTitle: "PrinterResolution"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.PrinterResolution class. Represents the resolution supported by a printer."
 type: docs
-weight: 9950
-url: /net/aspose.pdf.printing/printerresolution/
+weight: 160
+url: "/net/aspose.pdf.printing/printerresolution/"
+keywords: "PrinterResolution, Aspose.Pdf.Printing, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## PrinterResolution class
 
@@ -18,25 +22,24 @@ public class PrinterResolution
 
 | Name | Description |
 | --- | --- |
-| [PrinterResolution](printerresolution/)() | Initializes a new instance of the `PrinterResolution` class with default properties. |
+| [PrinterResolution](./printerresolution/)() | Initializes a new instance of the [`PrinterResolution`](../../aspose.pdf.printing/printerresolution/) class with default properties. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Kind](../../aspose.pdf.printing/printerresolution/kind/) { get; set; } | Gets a value indicating the kind of printer resolution. |
-| [X](../../aspose.pdf.printing/printerresolution/x/) { get; set; } | Gets the printer resolution in the horizontal direction, in dots per inch. |
-| [Y](../../aspose.pdf.printing/printerresolution/y/) { get; set; } | Gets the printer resolution in the vertical direction, in dots per inch. |
+| [Kind](./kind/) { get; set; } | Gets a value indicating the kind of printer resolution. |
+| [X](./x/) { get; set; } | Gets the printer resolution in the horizontal direction, in dots per inch. |
+| [Y](./y/) { get; set; } | Gets the printer resolution in the vertical direction, in dots per inch. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](../../aspose.pdf.printing/printerresolution/tostring/)() | Provides some interesting information about the PrinterResolution in String form. |
+| override [ToString](./tostring/)() | Provides some interesting information about the PrinterResolution in String form. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
 

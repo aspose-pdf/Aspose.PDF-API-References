@@ -1,10 +1,13 @@
 ---
-title: NamedDestinationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: NamedDestinationCollection method. Add new named destination
+title: "NamedDestinationCollection.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NamedDestinationCollection method. Add new named destination."
 type: docs
-weight: 40
-url: /net/aspose.pdf/nameddestinationcollection/add/
+weight: 20
+url: "/net/aspose.pdf/nameddestinationcollection/add/"
+product_version: "26.9.0"
 ---
 ## NamedDestinationCollection.Add method
 
@@ -21,9 +24,8 @@ public void Add(string name, IAppointment appointment)
 
 ### See Also
 
-* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* class [NamedDestinationCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* class [NamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

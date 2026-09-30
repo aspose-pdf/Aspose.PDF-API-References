@@ -1,10 +1,13 @@
 ---
-title: LlamaClient.CreateCompletionAsync
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaClient method. Creates a chat completion request in the Llama service
+title: "LlamaClient.CreateCompletionAsync"
+linktitle: "CreateCompletionAsync"
+articleTitle: "CreateCompletionAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaClient method. Creates a chat completion request in the Llama service."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/llamaclient/createcompletionasync/
+url: "/net/aspose.pdf.ai/llamaclient/createcompletionasync/"
+product_version: "26.9.0"
 ---
 ## LlamaClient.CreateCompletionAsync method
 
@@ -27,10 +30,8 @@ The chat completion response.
 
 ### See Also
 
-* class [LlamaChatCompletionResponse](../../llamachatcompletionresponse/)
-* class [LlamaChatCompletionRequest](../../llamachatcompletionrequest/)
-* class [LlamaClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LlamaChatCompletionRequest](../../../aspose.pdf.ai/llamachatcompletionrequest/)
+* class [LlamaClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

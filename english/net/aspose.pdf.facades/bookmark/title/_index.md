@@ -1,10 +1,13 @@
 ---
-title: Bookmark.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Bookmark property. Gets or sets bookmarks title
+title: "Bookmark.Title"
+linktitle: "Title"
+articleTitle: "Title"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Bookmark property. Gets or sets bookmark's title."
 type: docs
-weight: 180
-url: /net/aspose.pdf.facades/bookmark/title/
+weight: 170
+url: "/net/aspose.pdf.facades/bookmark/title/"
+product_version: "26.9.0"
 ---
 ## Bookmark.Title property
 
@@ -16,8 +19,7 @@ public string Title { get; set; }
 
 ### See Also
 
-* class [Bookmark](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

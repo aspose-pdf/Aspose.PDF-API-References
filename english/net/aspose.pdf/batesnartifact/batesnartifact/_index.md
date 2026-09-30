@@ -1,14 +1,18 @@
 ---
-title: BatesNArtifact.BatesNArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: BatesNArtifact constructor. Initializes a new instance of the BatesNArtifact class. This constructor is internal and creates a header artifact instance with default values
+title: "BatesNArtifact.BatesNArtifact"
+linktitle: "BatesNArtifact"
+articleTitle: "BatesNArtifact"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BatesNArtifact constructor. Initializes a new instance of the BatesNArtifact class. This constructor is internal and creates a header artifact instance with ..."
 type: docs
 weight: 10
-url: /net/aspose.pdf/batesnartifact/batesnartifact/
+url: "/net/aspose.pdf/batesnartifact/batesnartifact/"
+product_version: "26.9.0"
 ---
 ## BatesNArtifact constructor
 
-Initializes a new instance of the [`BatesNArtifact`](../) class. This constructor is internal and creates a header artifact instance with default values.
+Initializes a new instance of the [`BatesNArtifact`](../../../aspose.pdf/batesnartifact/) class.
+ This constructor is internal and creates a header artifact instance with default values.
 
 ```csharp
 public BatesNArtifact()
@@ -16,8 +20,7 @@ public BatesNArtifact()
 
 ### See Also
 
-* class [BatesNArtifact](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BatesNArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

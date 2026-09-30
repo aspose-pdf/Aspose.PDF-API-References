@@ -1,10 +1,13 @@
 ---
-title: PdfPageEditor.LRGLITTER
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor field. LeftRight Glitter
+title: "PdfPageEditor.LRGLITTER"
+linktitle: "LRGLITTER"
+articleTitle: "LRGLITTER"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. Left-Right Glitter"
 type: docs
-weight: 250
-url: /net/aspose.pdf.facades/pdfpageeditor/lrglitter/
+weight: 340
+url: "/net/aspose.pdf.facades/pdfpageeditor/lrglitter/"
+product_version: "26.9.0"
 ---
 ## PdfPageEditor.LRGLITTER field
 
@@ -16,8 +19,7 @@ public const int LRGLITTER;
 
 ### See Also
 
-* class [PdfPageEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

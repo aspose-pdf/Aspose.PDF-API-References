@@ -1,10 +1,13 @@
 ---
-title: Rows.Rows
-second_title: Aspose.PDF for .NET API Reference
-description: Rows constructor. The default constructor
+title: "Rows.Rows"
+linktitle: "Rows"
+articleTitle: "Rows"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rows constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf/rows/rows/
+url: "/net/aspose.pdf/rows/rows/"
+product_version: "26.9.0"
 ---
 ## Rows constructor
 
@@ -16,8 +19,7 @@ public Rows()
 
 ### See Also
 
-* class [Rows](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class SimpleFontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.SimpleFontSubstitution class. Represents a class for simple font substitution strategy
+title: "SimpleFontSubstitution Class"
+linktitle: "SimpleFontSubstitution"
+articleTitle: "SimpleFontSubstitution"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.SimpleFontSubstitution class. Represents a class for simple font substitution strategy."
 type: docs
-weight: 11110
-url: /net/aspose.pdf.text/simplefontsubstitution/
+weight: 320
+url: "/net/aspose.pdf.text/simplefontsubstitution/"
+keywords: "SimpleFontSubstitution, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## SimpleFontSubstitution class
 
@@ -18,19 +22,18 @@ public sealed class SimpleFontSubstitution : FontSubstitution
 
 | Name | Description |
 | --- | --- |
-| [SimpleFontSubstitution](simplefontsubstitution/)(string, string, bool) | Initializes a new instance of `SimpleFontSubstitution` class. |
+| [SimpleFontSubstitution](./simplefontsubstitution/)(string, string, bool) | Initializes a new instance of [`SimpleFontSubstitution`](../../aspose.pdf.text/simplefontsubstitution/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname/) { get; } | Gets original font name that should be substituted with [`SubstitutionFontName`](./substitutionfontname/) |
-| [SubstitutionFontName](../../aspose.pdf.text/simplefontsubstitution/substitutionfontname/) { get; } | Gets font name that should substitute the [`OriginalFontName`](./originalfontname/) |
+| [OriginalFontName](./originalfontname/) { get; } | Gets original font name that should be substituted with `SubstitutionFontName` |
+| [SubstitutionFontName](./substitutionfontname/) { get; } | Gets font name that should substitute the `OriginalFontName` |
 
 ### See Also
 
-* class [FontSubstitution](../fontsubstitution/)
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* class [FontSubstitution](../fontsubstitution/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

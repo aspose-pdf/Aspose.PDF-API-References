@@ -1,10 +1,13 @@
 ---
-title: SetRGBColorStroke.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SetRGBColorStroke method. Accepts visitor object to process operator
+title: "SetRGBColorStroke.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetRGBColorStroke method. Accepts visitor object to process operator."
 type: docs
-weight: 50
-url: /net/aspose.pdf.operators/setrgbcolorstroke/accept/
+weight: 40
+url: "/net/aspose.pdf.operators/setrgbcolorstroke/accept/"
+product_version: "26.9.0"
 ---
 ## SetRGBColorStroke.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* class [SetRGBColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [SetRGBColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

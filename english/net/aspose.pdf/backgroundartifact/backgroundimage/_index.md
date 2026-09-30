@@ -1,10 +1,13 @@
 ---
-title: BackgroundArtifact.BackgroundImage
-second_title: Aspose.PDF for .NET API Reference
-description: BackgroundArtifact property. Gets or sets bacground image of background artifact
+title: "BackgroundArtifact.BackgroundImage"
+linktitle: "BackgroundImage"
+articleTitle: "BackgroundImage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BackgroundArtifact property. Gets or sets bacground image of background artifact"
 type: docs
 weight: 30
-url: /net/aspose.pdf/backgroundartifact/backgroundimage/
+url: "/net/aspose.pdf/backgroundartifact/backgroundimage/"
+product_version: "26.9.0"
 ---
 ## BackgroundArtifact.BackgroundImage property
 
@@ -16,8 +19,7 @@ public Stream BackgroundImage { get; set; }
 
 ### See Also
 
-* class [BackgroundArtifact](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BackgroundArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

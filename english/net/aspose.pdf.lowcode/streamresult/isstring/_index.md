@@ -1,10 +1,13 @@
 ---
-title: StreamResult.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: StreamResult property. Indicates whether the result is a string
+title: "StreamResult.IsString"
+linktitle: "IsString"
+articleTitle: "IsString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StreamResult property. Indicates whether the result is a string."
 type: docs
-weight: 40
-url: /net/aspose.pdf.lowcode/streamresult/isstring/
+weight: 50
+url: "/net/aspose.pdf.lowcode/streamresult/isstring/"
+product_version: "26.9.0"
 ---
 ## StreamResult.IsString property
 
@@ -20,8 +23,7 @@ public bool IsString { get; }
 
 ### See Also
 
-* class [StreamResult](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StreamResult](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

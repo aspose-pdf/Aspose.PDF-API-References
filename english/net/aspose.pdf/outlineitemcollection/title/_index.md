@@ -1,10 +1,13 @@
 ---
-title: OutlineItemCollection.Title
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection property. Gets or sets the title for this outline item
+title: "OutlineItemCollection.Title"
+linktitle: "Title"
+articleTitle: "Title"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection property. Gets or sets the title for this outline item."
 type: docs
-weight: 200
-url: /net/aspose.pdf/outlineitemcollection/title/
+weight: 120
+url: "/net/aspose.pdf/outlineitemcollection/title/"
+product_version: "26.9.0"
 ---
 ## OutlineItemCollection.Title property
 
@@ -16,8 +19,7 @@ public string Title { get; set; }
 
 ### See Also
 
-* class [OutlineItemCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

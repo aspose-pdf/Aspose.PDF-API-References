@@ -1,10 +1,13 @@
 ---
-title: VectorStoreCreateRequest.Name
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreCreateRequest property. Gets or sets the name of the vector store
+title: "VectorStoreCreateRequest.Name"
+linktitle: "Name"
+articleTitle: "Name"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreCreateRequest property. Gets or sets the name of the vector store."
 type: docs
-weight: 50
-url: /net/aspose.pdf.ai/vectorstorecreaterequest/name/
+weight: 30
+url: "/net/aspose.pdf.ai/vectorstorecreaterequest/name/"
+product_version: "26.9.0"
 ---
 ## VectorStoreCreateRequest.Name property
 
@@ -16,8 +19,7 @@ public string Name { get; set; }
 
 ### See Also
 
-* class [VectorStoreCreateRequest](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [VectorStoreCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

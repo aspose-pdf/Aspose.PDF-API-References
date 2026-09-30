@@ -1,10 +1,13 @@
 ---
-title: Enum PageLayout
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageLayout enum. Descibes page layout
+title: "PageLayout Enum"
+linktitle: "PageLayout"
+articleTitle: "PageLayout"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageLayout enum. Descibes page layout."
 type: docs
-weight: 9450
-url: /net/aspose.pdf/pagelayout/
+weight: 2210
+url: "/net/aspose.pdf/pagelayout/"
+product_version: "26.9.0"
 ---
 ## PageLayout enumeration
 
@@ -28,7 +31,6 @@ public enum PageLayout
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PrintController.PrintController
-second_title: Aspose.PDF for .NET API Reference
-description: PrintController constructor. The default constructor
+title: "PrintController.PrintController"
+linktitle: "PrintController"
+articleTitle: "PrintController"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrintController constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf/printcontroller/printcontroller/
+url: "/net/aspose.pdf/printcontroller/printcontroller/"
+product_version: "26.9.0"
 ---
 ## PrintController constructor
 
@@ -16,8 +19,7 @@ public PrintController()
 
 ### See Also
 
-* class [PrintController](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

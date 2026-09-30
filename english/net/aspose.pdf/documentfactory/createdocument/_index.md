@@ -1,38 +1,14 @@
 ---
-title: DocumentFactory.CreateDocument
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentFactory method. Create document
+title: "DocumentFactory.CreateDocument"
+linktitle: "CreateDocument"
+articleTitle: "CreateDocument"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentFactory method. Create document."
 type: docs
 weight: 20
-url: /net/aspose.pdf/documentfactory/createdocument/
+url: "/net/aspose.pdf/documentfactory/createdocument/"
+product_version: "26.9.0"
 ---
-## CreateDocument(Stream, LoadOptions) {#createdocument_2}
-
-Create document.
-
-```csharp
-public Document CreateDocument(Stream input, LoadOptions options)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | Stream | Input stream. |
-| options | LoadOptions | Document load options. |
-
-### Return Value
-
-Created document.
-
-### See Also
-
-* class [Document](../../document/)
-* class [LoadOptions](../../loadoptions/)
-* class [DocumentFactory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## CreateDocument() {#createdocument}
 
 Create empty document.
@@ -47,10 +23,10 @@ Created document.
 
 ### See Also
 
-* class [Document](../../document/)
-* class [DocumentFactory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -72,14 +48,66 @@ Created document.
 
 ### See Also
 
-* class [Document](../../document/)
-* class [DocumentFactory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateDocument(Stream, string) {#createdocument_3}
+## CreateDocument(string) {#createdocument_2}
+
+Load document from a file.
+
+```csharp
+public Document CreateDocument(string fileName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fileName | String | Name of PDF file. |
+
+### Return Value
+
+Created document.
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## CreateDocument(Stream, [LoadOptions](../../../aspose.pdf/loadoptions/)) {#createdocument_3}
+
+Create document.
+
+```csharp
+public Document CreateDocument(Stream input, LoadOptions options)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Stream | Input stream. |
+| options | LoadOptions | Document load options. |
+
+### Return Value
+
+Created document.
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [LoadOptions](../../../aspose.pdf/loadoptions/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## CreateDocument(Stream, string) {#createdocument_4}
 
 Load password protected document from a stream.
 
@@ -98,34 +126,8 @@ Created document.
 
 ### See Also
 
-* class [Document](../../document/)
-* class [DocumentFactory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## CreateDocument(string) {#createdocument_4}
-
-Load document from a file.
-
-```csharp
-public Document CreateDocument(string fileName)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fileName | String | Name of PDF file. |
-
-### Return Value
-
-Created document.
-
-### See Also
-
-* class [Document](../../document/)
-* class [DocumentFactory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

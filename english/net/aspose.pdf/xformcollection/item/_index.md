@@ -1,10 +1,13 @@
 ---
-title: XFormCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection property. Returns XForm by index
+title: "XFormCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFormCollection property. Returns XForm by index."
 type: docs
-weight: 40
-url: /net/aspose.pdf/xformcollection/item/
+weight: 160
+url: "/net/aspose.pdf/xformcollection/item/"
+product_version: "26.9.0"
 ---
 ## XFormCollection indexer (1 of 2)
 
@@ -24,10 +27,10 @@ Retrieved XForm.
 
 ### See Also
 
-* class [XForm](../../xform/)
-* class [XFormCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -49,9 +52,8 @@ Retrieved XForm.
 
 ### See Also
 
-* class [XForm](../../xform/)
-* class [XFormCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XForm](../../../aspose.pdf/xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

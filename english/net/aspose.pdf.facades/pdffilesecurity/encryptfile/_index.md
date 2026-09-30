@@ -1,14 +1,20 @@
 ---
-title: PdfFileSecurity.EncryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity method. Encrypts Pdf file with userpassword and ownerpassword and sets the documents privileges to access. The user password and the owner password can be null or empty. The owner password will be replaced with a random string if the input owner password is null or empty. Throws exception if process failed
+title: "PdfFileSecurity.EncryptFile"
+linktitle: "EncryptFile"
+articleTitle: "EncryptFile"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSecurity method. Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. The user password and the owner p..."
 type: docs
-weight: 70
-url: /net/aspose.pdf.facades/pdffilesecurity/encryptfile/
+weight: 30
+url: "/net/aspose.pdf.facades/pdffilesecurity/encryptfile/"
+product_version: "26.9.0"
 ---
-## EncryptFile(string, string, DocumentPrivilege, KeySize) {#encryptfile}
+## EncryptFile(string, string, [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/), [KeySize](../../../aspose.pdf.facades/keysize/)) {#encryptfile}
 
-Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. The user password and the owner password can be null or empty. The owner password will be replaced with a random string if the input owner password is null or empty. Throws exception if process failed.
+Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access.
+ The user password and the owner password can be null or empty. The owner password will be replaced 
+ with a random string if the input owner password is null or empty.
+ Throws exception if process failed.
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -44,17 +50,23 @@ fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySi
 
 ### See Also
 
-* class [DocumentPrivilege](../../documentprivilege/)
-* enum [KeySize](../../keysize/)
-* class [PdfFileSecurity](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* enum [KeySize](../../../aspose.pdf.facades/keysize/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## EncryptFile(string, string, DocumentPrivilege, KeySize, Algorithm) {#encryptfile_1}
+## EncryptFile(string, string, [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/), [KeySize](../../../aspose.pdf.facades/keysize/), [Algorithm](../../../aspose.pdf.facades/algorithm/)) {#encryptfile_1}
 
-Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. The user password and the owner password can be null or empty. The owner password will be replaced with a random string if the input owner password is null or empty. There are 6 possible combinations of KeySize and Algorithm values. However (KeySize.x40, Algorithm.AES) and (KeySize.x256, Algorithm.RC4) are invalid and corresponding exception will be raised if kit encounters this combination. Throws an exception if process failed.
+Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access.
+ The user password and the owner password can be null or empty. The owner password will be replaced 
+ with a random string if the input owner password is null or empty.
+ There are 6 possible combinations of KeySize and Algorithm values. 
+ However (KeySize.x40, Algorithm.AES) and (KeySize.x256, Algorithm.RC4) are invalid and corresponding 
+ exception will be raised if kit encounters this combination.
+ Throws an exception if process failed.
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -91,11 +103,10 @@ fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.
 
 ### See Also
 
-* class [DocumentPrivilege](../../documentprivilege/)
-* enum [KeySize](../../keysize/)
-* enum [Algorithm](../../algorithm/)
-* class [PdfFileSecurity](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* enum [KeySize](../../../aspose.pdf.facades/keysize/)
+* enum [Algorithm](../../../aspose.pdf.facades/algorithm/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

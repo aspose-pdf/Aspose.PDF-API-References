@@ -1,14 +1,17 @@
 ---
-title: ChatMessage.ChatMessage
-second_title: Aspose.PDF for .NET API Reference
-description: ChatMessage constructor. Initializes a new instance of the ChatMessage class
+title: "ChatMessage.ChatMessage"
+linktitle: "ChatMessage"
+articleTitle: "ChatMessage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChatMessage constructor. Initializes a new instance of the ChatMessage class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/chatmessage/chatmessage/
+url: "/net/aspose.pdf.ai/chatmessage/chatmessage/"
+product_version: "26.9.0"
 ---
 ## ChatMessage() {#constructor}
 
-Initializes a new instance of the [`ChatMessage`](../) class.
+Initializes a new instance of the [`ChatMessage`](../../../aspose.pdf.ai/chatmessage/) class.
 
 ```csharp
 public ChatMessage()
@@ -16,15 +19,15 @@ public ChatMessage()
 
 ### See Also
 
-* class [ChatMessage](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ChatMessage(string, string) {#constructor_1}
+## ChatMessage(string, string) {#constructor_1}
 
-Initializes a new instance of the [`ChatMessage`](../) class.
+Initializes a new instance of the [`ChatMessage`](../../../aspose.pdf.ai/chatmessage/) class.
 
 ```csharp
 public ChatMessage(string role, string content)
@@ -37,8 +40,7 @@ public ChatMessage(string role, string content)
 
 ### See Also
 
-* class [ChatMessage](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

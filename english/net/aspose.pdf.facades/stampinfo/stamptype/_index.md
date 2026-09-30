@@ -1,10 +1,13 @@
 ---
-title: StampInfo.StampType
-second_title: Aspose.PDF for .NET API Reference
-description: StampInfo property. Gets stamp type image / form
+title: "StampInfo.StampType"
+linktitle: "StampType"
+articleTitle: "StampType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StampInfo property. Gets stamp type (image / form)."
 type: docs
-weight: 60
-url: /net/aspose.pdf.facades/stampinfo/stamptype/
+weight: 30
+url: "/net/aspose.pdf.facades/stampinfo/stamptype/"
+product_version: "26.9.0"
 ---
 ## StampInfo.StampType property
 
@@ -16,9 +19,8 @@ public StampType StampType { get; }
 
 ### See Also
 
-* enum [StampType](../../stamptype/)
-* class [StampInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [StampType](../../../aspose.pdf.facades/stamptype/)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

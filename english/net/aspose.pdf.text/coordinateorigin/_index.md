@@ -1,10 +1,13 @@
 ---
-title: Enum CoordinateOrigin
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.CoordinateOrigin enum. Text CoordinateOrigin enumeration
+title: "CoordinateOrigin Enum"
+linktitle: "CoordinateOrigin"
+articleTitle: "CoordinateOrigin"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.CoordinateOrigin enum. Text CoordinateOrigin enumeration."
 type: docs
-weight: 10860
-url: /net/aspose.pdf.text/coordinateorigin/
+weight: 70
+url: "/net/aspose.pdf.text/coordinateorigin/"
+product_version: "26.9.0"
 ---
 ## CoordinateOrigin enumeration
 
@@ -23,7 +26,6 @@ public enum CoordinateOrigin
 
 ### See Also
 
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

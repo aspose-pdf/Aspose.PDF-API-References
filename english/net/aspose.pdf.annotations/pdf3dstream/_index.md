@@ -1,10 +1,14 @@
 ---
-title: Class PDF3DStream
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DStream class. Class PDF3DStream
+title: "PDF3DStream Class"
+linktitle: "PDF3DStream"
+articleTitle: "PDF3DStream"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PDF3DStream class. Class PDF3DStream."
 type: docs
-weight: 2320
-url: /net/aspose.pdf.annotations/pdf3dstream/
+weight: 850
+url: "/net/aspose.pdf.annotations/pdf3dstream/"
+keywords: "PDF3DStream, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## PDF3DStream class
 
@@ -18,17 +22,16 @@ public class PDF3DStream
 
 | Name | Description |
 | --- | --- |
-| [PDF3DStream](pdf3dstream/)(Document, PDF3DArtwork) | Initializes a new instance of the `PDF3DStream` class. |
+| [PDF3DStream](./pdf3dstream/)(Document, PDF3DArtwork) | Initializes a new instance of the [`PDF3DStream`](../../aspose.pdf.annotations/pdf3dstream/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Content](../../aspose.pdf.annotations/pdf3dstream/content/) { get; set; } | Gets or sets the content. |
+| [Content](./content/) { get; set; } | Gets or sets the content. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

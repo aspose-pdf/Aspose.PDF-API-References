@@ -1,25 +1,33 @@
 ---
-title: Aspose.Pdf.Operators
-second_title: Aspose.PDF for .NET API Reference
-description: The Aspose.Pdf.Operators is a namespace for Operator implementations. These classes describes operators used in PDF page contents
+title: "Aspose.Pdf.Operators"
+linktitle: "Aspose.Pdf.Operators"
+articleTitle: "Aspose.Pdf.Operators"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "The Aspose.Pdf.Operators namespace provides classes."
 type: docs
-weight: 150
-url: /net/aspose.pdf.operators/
+weight: 10
+url: "/net/aspose.pdf.operators/"
+keywords: "Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
-The **Aspose.Pdf.Operators** is a namespace for Operator implementations. These classes describes operators used in PDF page contents.
+## Overview
+
+The **Aspose.Pdf.Operators** namespace provides classes.
+
+Part of the [Aspose.PDF for .NET](../) API reference.
 
 ## Classes
 
 | Class | Description |
 | --- | --- |
-| [BasicSetColorAndPatternOperator](./basicsetcolorandpatternoperator/) | Base operator for all Set Color operators. |
-| [BasicSetColorOperator](./basicsetcoloroperator/) | Base class for set color operators. |
 | [BDC](./bdc/) | class representing BDC operator (Begin marked-content sequence) |
 | [BI](./bi/) | Class representing BI operator (Begin inline image obect). |
-| [BlockTextOperator](./blocktextoperator/) | Abstract base class for text block operators i.e. Begin and End text operators (BT/ET) |
 | [BMC](./bmc/) | Class representing BMC operator (Begin marked-content sequence). |
 | [BT](./bt/) | Class representing BT operator (Begin of text block). |
 | [BX](./bx/) | Class representing BX operator (begin compatibility section). |
+| [BasicSetColorAndPatternOperator](./basicsetcolorandpatternoperator/) | Base operator for all Set Color operators. |
+| [BasicSetColorOperator](./basicsetcoloroperator/) | Base class for set color operators. |
+| [BlockTextOperator](./blocktextoperator/) | Abstract base class for text block operators i.e. Begin and End text operators (BT/ET) |
 | [Clip](./clip/) | Class representing W operator (set clipping path using non-zero winding rule). |
 | [ClosePath](./closepath/) | Class representing h operator (close path). |
 | [ClosePathEOFillStroke](./closepatheofillstroke/) | Class representing b* operator (close, fill and stroke path using even-odd rule). |
@@ -29,40 +37,40 @@ The **Aspose.Pdf.Operators** is a namespace for Operator implementations. These 
 | [CurveTo](./curveto/) | Class representing c operator (append curve to path). |
 | [CurveTo1](./curveto1/) | Class representing v operator (append curve to path, initial point replicated). |
 | [CurveTo2](./curveto2/) | Class representing y operator (append curve to path, final point replicated). |
-| [Do](./do/) | Class representing Do operator (Invoke XObject). |
 | [DP](./dp/) | Class represeting DP operator (designamte marked content point). |
+| [Do](./do/) | Class representing Do operator (Invoke XObject). |
 | [EI](./ei/) | Class representing EI operator (End inline image object). |
 | [EMC](./emc/) | Clsss representing EMC oeprator (End of marked-content sequence). |
-| [EndPath](./endpath/) | Class representing n operator (end path without filling or stroking). |
 | [EOClip](./eoclip/) | Class representing W* operator (set clipping path using even-odd rule). |
 | [EOFill](./eofill/) | Class representing f* operator (fill path using even-odd rule). |
 | [EOFillStroke](./eofillstroke/) | Class representing B* operator (fill and stroke path usign even-odd rule). |
 | [ET](./et/) | Class representing operator ET (End of text block). |
 | [EX](./ex/) | Class representing EX operator (End of compatibility section). |
+| [EndPath](./endpath/) | Class representing n operator (end path without filling or stroking). |
 | [Fill](./fill/) | Class representing f operator (fill path with nonzero winding number rule). |
 | [FillStroke](./fillstroke/) | Class representing B operator (fill and stroke path using nonzero winding rule) |
-| [GlyphPosition](./glyphposition/) | Class describes text and position to use with operator TJ (set glyph with position) |
 | [GRestore](./grestore/) | Class representing Q operator (restore graphics state). |
 | [GS](./gs/) | Class representing gs operator (set parameters from graphic state parameter dictionary). |
 | [GSave](./gsave/) | Class representing q operator (save graphics state). |
+| [GlyphPosition](./glyphposition/) | Class describes text and position to use with operator TJ (set glyph with position) |
 | [ID](./id/) | Class representing ID operator (Begin inline image data). |
 | [LineTo](./lineto/) | Class representing l operator (add line to the path). |
+| [MP](./mp/) | Class representing MP operator (define marked-content point). |
 | [MoveTextPosition](./movetextposition/) | Class representing Td operator (move text position). |
 | [MoveTextPositionSetLeading](./movetextpositionsetleading/) | Class representing TD operator (move position and set leading). |
 | [MoveTo](./moveto/) | Class representing m operator (move to and begin new subpath). |
 | [MoveToNextLine](./movetonextline/) | Class representing T* operator (Move to start of the next line). |
 | [MoveToNextLineShowText](./movetonextlineshowtext/) | Class representing ' operator (move to next line and show text). |
-| [MP](./mp/) | Class representing MP operator (define marked-content point). |
 | [ObsoleteFill](./obsoletefill/) | Class representing F operator (fill path using nonzero winding rule). |
 | [Re](./re/) | Class representing re operator (add rectangle to the path). |
 | [SelectFont](./selectfont/) | Class representing Tf operator (set text font and size). |
 | [SetAdvancedColor](./setadvancedcolor/) | Class representing scn operator (set color for non-stroking operations). |
 | [SetAdvancedColorStroke](./setadvancedcolorstroke/) | Class representing SCN operator (set color for stroking operations). |
-| [SetCharacterSpacing](./setcharacterspacing/) | Class representing Tc operator (set character spacing). |
-| [SetCharWidth](./setcharwidth/) | Class representing d0 operator (set glyph width). |
-| [SetCharWidthBoundingBox](./setcharwidthboundingbox/) | Class representing d1 operator (set glyph and bounding box). |
 | [SetCMYKColor](./setcmykcolor/) | Class representing k operator (set CMYK color for non-stroking operations). |
 | [SetCMYKColorStroke](./setcmykcolorstroke/) | Class representing K operator (set CMYK color for stroking operations). |
+| [SetCharWidth](./setcharwidth/) | Class representing d0 operator (set glyph width). |
+| [SetCharWidthBoundingBox](./setcharwidthboundingbox/) | Class representing d1 operator (set glyph and bounding box). |
+| [SetCharacterSpacing](./setcharacterspacing/) | Class representing Tc operator (set character spacing). |
 | [SetColor](./setcolor/) | Represents class for sc operator (set color for non-stroking operations). |
 | [SetColorOperator](./setcoloroperator/) | Class representing set color operation. |
 | [SetColorRenderingIntent](./setcolorrenderingintent/) | Class representing ri operator (set color rendering intent). |
@@ -94,6 +102,7 @@ The **Aspose.Pdf.Operators** is a namespace for Operator implementations. These 
 | [TextPlaceOperator](./textplaceoperator/) | Abstract base class for operators which changes text position (Tm, Td, etc). |
 | [TextShowOperator](./textshowoperator/) | Abstract base class for all operators which used to out text (Tj, TJ, etc). |
 | [TextStateOperator](./textstateoperator/) | Abstract base class for operators which changes current text state (Tc, Tf, TL, etc). |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -101,4 +110,13 @@ The **Aspose.Pdf.Operators** is a namespace for Operator implementations. These 
 | [LineCap](./linecap/) | The line cap style shall specify the shape that shall be used at the ends of open subpaths (and dashes, if any) when they are stroked. |
 | [LineJoin](./linejoin/) | The line join style shall specify the shape to be used at the corners of paths that are stroked. |
 
+## FAQ
+
+### What classes does the Aspose.Pdf.Operators namespace contain?
+
+[BDC](./bdc/), [BI](./bi/), [BMC](./bmc/), [BT](./bt/), [BX](./bx/), and 77 more.
+
+### How many types are in the Aspose.Pdf.Operators namespace?
+
+The Aspose.Pdf.Operators namespace contains 84 types, listed above.
 

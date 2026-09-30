@@ -1,10 +1,13 @@
 ---
-title: SetTextLeading.Leading
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextLeading property. Gets or sets the text leading
+title: "SetTextLeading.Leading"
+linktitle: "Leading"
+articleTitle: "Leading"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetTextLeading property. Gets or sets the text leading."
 type: docs
-weight: 20
-url: /net/aspose.pdf.operators/settextleading/leading/
+weight: 40
+url: "/net/aspose.pdf.operators/settextleading/leading/"
+product_version: "26.9.0"
 ---
 ## SetTextLeading.Leading property
 
@@ -16,8 +19,7 @@ public double Leading { get; set; }
 
 ### See Also
 
-* class [SetTextLeading](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetTextLeading](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

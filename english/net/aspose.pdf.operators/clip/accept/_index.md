@@ -1,10 +1,13 @@
 ---
-title: Clip.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Clip method. Accepts visitor object to process operator
+title: "Clip.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Clip method. Accepts visitor object to process operator."
 type: docs
 weight: 20
-url: /net/aspose.pdf.operators/clip/accept/
+url: "/net/aspose.pdf.operators/clip/accept/"
+product_version: "26.9.0"
 ---
 ## Clip.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* class [Clip](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [Clip](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

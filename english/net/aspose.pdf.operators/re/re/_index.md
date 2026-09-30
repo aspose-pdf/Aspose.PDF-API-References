@@ -1,10 +1,13 @@
 ---
-title: Re.Re
-second_title: Aspose.PDF for .NET API Reference
-description: Re constructor. Initializes operator
+title: "Re.Re"
+linktitle: "Re"
+articleTitle: "Re"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Re constructor. Initializes operator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/re/re/
+url: "/net/aspose.pdf.operators/re/re/"
+product_version: "26.9.0"
 ---
 ## Re() {#constructor}
 
@@ -16,13 +19,13 @@ public Re()
 
 ### See Also
 
-* class [Re](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Re(double, double, double, double) {#constructor_1}
+## Re(double, double, double, double) {#constructor_1}
 
 Initializes operator.
 
@@ -39,8 +42,7 @@ public Re(double x, double y, double width, double height)
 
 ### See Also
 
-* class [Re](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum ParagraphPositioningMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ParagraphPositioningMode enum. Specifies variant for determining the location of the element on the page
+title: "ParagraphPositioningMode Enum"
+linktitle: "ParagraphPositioningMode"
+articleTitle: "ParagraphPositioningMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ParagraphPositioningMode enum. Specifies variant for determining the location of the element on the page."
 type: docs
-weight: 9540
-url: /net/aspose.pdf/paragraphpositioningmode/
+weight: 2300
+url: "/net/aspose.pdf/paragraphpositioningmode/"
+product_version: "26.9.0"
 ---
 ## ParagraphPositioningMode enumeration
 
@@ -18,12 +21,13 @@ public enum ParagraphPositioningMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Default | `0` | The location is determined by the previously placed elements. Adding an element is taken into account when determining the location of subsequent elements. |
-| Absolute | `1` | The location is specified by the Left and Top values, does not depend on previous elements and does not affect the location of subsequent ones. |
+| Default | `0` | The location is determined by the previously placed elements. 
+ Adding an element is taken into account when determining the location of subsequent elements. |
+| Absolute | `1` | The location is specified by the Left and Top values, 
+ does not depend on previous elements and does not affect the location of subsequent ones. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

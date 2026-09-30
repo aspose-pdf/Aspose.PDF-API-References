@@ -1,10 +1,13 @@
 ---
-title: FormEditor.AddFieldScript
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Add JavaScript for a PushButton field. If old event exists new event is added after it
+title: "FormEditor.AddFieldScript"
+linktitle: "AddFieldScript"
+articleTitle: "AddFieldScript"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Add JavaScript for a PushButton field. If old event exists, new event is added after it."
 type: docs
-weight: 110
-url: /net/aspose.pdf.facades/formeditor/addfieldscript/
+weight: 310
+url: "/net/aspose.pdf.facades/formeditor/addfieldscript/"
+product_version: "26.9.0"
 ---
 ## FormEditor.AddFieldScript method
 
@@ -25,8 +28,7 @@ True in case script was added successfully.
 
 ### See Also
 
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

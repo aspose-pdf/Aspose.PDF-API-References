@@ -1,10 +1,13 @@
 ---
-title: ChoiceField.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: ChoiceField property. Gets or sets index of selected option. This property allows to change selection
+title: "ChoiceField.Selected"
+linktitle: "Selected"
+articleTitle: "Selected"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChoiceField property. Gets or sets index of selected option. This property allows to change selection."
 type: docs
-weight: 50
-url: /net/aspose.pdf.forms/choicefield/selected/
+weight: 90
+url: "/net/aspose.pdf.forms/choicefield/selected/"
+product_version: "26.9.0"
 ---
 ## ChoiceField.Selected property
 
@@ -16,8 +19,7 @@ public virtual int Selected { get; set; }
 
 ### See Also
 
-* class [ChoiceField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

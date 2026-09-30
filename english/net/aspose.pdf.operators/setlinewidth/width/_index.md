@@ -1,10 +1,13 @@
 ---
-title: SetLineWidth.Width
-second_title: Aspose.PDF for .NET API Reference
-description: SetLineWidth property. Gets or sets width of the line
+title: "SetLineWidth.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetLineWidth property. Gets or sets width of the line."
 type: docs
-weight: 20
-url: /net/aspose.pdf.operators/setlinewidth/width/
+weight: 40
+url: "/net/aspose.pdf.operators/setlinewidth/width/"
+product_version: "26.9.0"
 ---
 ## SetLineWidth.Width property
 
@@ -16,8 +19,7 @@ public double Width { get; set; }
 
 ### See Also
 
-* class [SetLineWidth](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetLineWidth](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

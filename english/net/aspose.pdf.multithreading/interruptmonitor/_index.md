@@ -1,10 +1,14 @@
 ---
-title: Class InterruptMonitor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Multithreading.InterruptMonitor class. Represents information about interruption
+title: "InterruptMonitor Class"
+linktitle: "InterruptMonitor"
+articleTitle: "InterruptMonitor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Multithreading.InterruptMonitor class. Represents information about interruption."
 type: docs
-weight: 8230
-url: /net/aspose.pdf.multithreading/interruptmonitor/
+weight: 30
+url: "/net/aspose.pdf.multithreading/interruptmonitor/"
+keywords: "InterruptMonitor, Aspose.Pdf.Multithreading, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## InterruptMonitor class
 
@@ -18,26 +22,24 @@ public class InterruptMonitor : IInterruptMonitor
 
 | Name | Description |
 | --- | --- |
-| [InterruptMonitor](interruptmonitor/)() | The default constructor. |
+| [InterruptMonitor](./interruptmonitor/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CancellationToken](../../aspose.pdf.multithreading/interruptmonitor/cancellationtoken/) { get; } | Monitor's cancellation token used for process interruption. By default each IInterruptMonitor generates its own cancellationSource. |
-| static [ThreadLocalInstance](../../aspose.pdf.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | Gets or sets the IInterruptMonitor instance which is unique for each thread. |
+| [CancellationToken](./cancellationtoken/) { get; } | Monitor's cancellation token used for process interruption. By default each IInterruptMonitor generates its own cancellationSource. |
+| static [ThreadLocalInstance](./threadlocalinstance/) { get; set; } | Gets or sets the IInterruptMonitor instance which is unique for each thread. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.pdf.multithreading/interruptmonitor/dispose/)() | Disposes used resources. |
-| virtual [Interrupt](../../aspose.pdf.multithreading/interruptmonitor/interrupt/)() | Sends a request to interrupt operations. |
+| [Dispose](./dispose/)() | Disposes used resources. |
+| virtual [Interrupt](./interrupt/)() | Sends a request to interrupt operations. |
 
 ### See Also
 
-* interface [IInterruptMonitor](../iinterruptmonitor/)
-* namespace [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
+* assembly [Aspose.PDF](../../)
 

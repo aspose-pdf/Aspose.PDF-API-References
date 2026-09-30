@@ -1,10 +1,13 @@
 ---
-title: SetColorStroke.Y
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorStroke property. Gets or sets the yellow component
+title: "SetColorStroke.Y"
+linktitle: "Y"
+articleTitle: "Y"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetColorStroke property. Gets or sets the yellow component."
 type: docs
-weight: 80
-url: /net/aspose.pdf.operators/setcolorstroke/y/
+weight: 100
+url: "/net/aspose.pdf.operators/setcolorstroke/y/"
+product_version: "26.9.0"
 ---
 ## SetColorStroke.Y property
 
@@ -16,8 +19,7 @@ public double Y { get; set; }
 
 ### See Also
 
-* class [SetColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PageInfo.IsLandscape
-second_title: Aspose.PDF for .NET API Reference
-description: PageInfo property. Gets or sets is page landscaped
+title: "PageInfo.IsLandscape"
+linktitle: "IsLandscape"
+articleTitle: "IsLandscape"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageInfo property. Gets or sets is page landscaped."
 type: docs
-weight: 50
-url: /net/aspose.pdf/pageinfo/islandscape/
+weight: 70
+url: "/net/aspose.pdf/pageinfo/islandscape/"
+product_version: "26.9.0"
 ---
 ## PageInfo.IsLandscape property
 
@@ -16,8 +19,7 @@ public bool IsLandscape { get; set; }
 
 ### See Also
 
-* class [PageInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

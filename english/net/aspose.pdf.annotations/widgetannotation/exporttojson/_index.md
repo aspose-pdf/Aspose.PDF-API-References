@@ -1,12 +1,15 @@
 ---
-title: WidgetAnnotation.ExportToJson
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation method. Exports the specified PDF form field to JSON format and writes the result to the provided stream
+title: "WidgetAnnotation.ExportToJson"
+linktitle: "ExportToJson"
+articleTitle: "ExportToJson"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WidgetAnnotation method. Exports the specified PDF form field to JSON format and writes the result to the provided stream."
 type: docs
-weight: 120
-url: /net/aspose.pdf.annotations/widgetannotation/exporttojson/
+weight: 40
+url: "/net/aspose.pdf.annotations/widgetannotation/exporttojson/"
+product_version: "26.9.0"
 ---
-## ExportToJson(Stream, ExportFieldsToJsonOptions) {#exporttojson}
+## ExportToJson(Stream, [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)) {#exporttojson}
 
 Exports the specified PDF form field to JSON format and writes the result to the provided stream.
 
@@ -36,15 +39,14 @@ fs.Close();
 
 ### See Also
 
-* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
-* class [WidgetAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ExportToJson(string, ExportFieldsToJsonOptions) {#exporttojson_1}
+## ExportToJson(string, [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)) {#exporttojson_1}
 
 Exports the specified PDF form field to JSON format and writes the result to the specified file.
 
@@ -73,10 +75,8 @@ annotation.ExportToJson(jsonPath);
 
 ### See Also
 
-* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
-* class [WidgetAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PdfViewer.Close
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer method. Closes the facade
+title: "PdfViewer.Close"
+linktitle: "Close"
+articleTitle: "Close"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Closes the facade."
 type: docs
-weight: 260
-url: /net/aspose.pdf.facades/pdfviewer/close/
+weight: 310
+url: "/net/aspose.pdf.facades/pdfviewer/close/"
+product_version: "26.9.0"
 ---
 ## PdfViewer.Close method
 
@@ -16,8 +19,7 @@ public void Close()
 
 ### See Also
 
-* class [PdfViewer](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

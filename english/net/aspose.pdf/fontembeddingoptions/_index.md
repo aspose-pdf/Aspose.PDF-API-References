@@ -1,14 +1,20 @@
 ---
-title: Class FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FontEmbeddingOptions class. PDF/A standard requires that all fonts must be embedded into document. This class includes flags for cases when its not possible to embed some font cause this font is absent on destination PC
+title: "FontEmbeddingOptions Class"
+linktitle: "FontEmbeddingOptions"
+articleTitle: "FontEmbeddingOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.FontEmbeddingOptions class. PDF/A standard requires, that all fonts must be embedded into document. This class includes flags for cases when it's ..."
 type: docs
-weight: 5070
-url: /net/aspose.pdf/fontembeddingoptions/
+weight: 940
+url: "/net/aspose.pdf/fontembeddingoptions/"
+keywords: "FontEmbeddingOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## FontEmbeddingOptions class
 
-PDF/A standard requires, that all fonts must be embedded into document. This class includes flags for cases when it's not possible to embed some font cause this font is absent on destination PC.
+PDF/A standard requires, that all fonts must be embedded into document.
+ This class includes flags for cases when it's not possible to embed some font cause this font is absent 
+ on destination PC.
 
 ```csharp
 public class FontEmbeddingOptions
@@ -18,17 +24,16 @@ public class FontEmbeddingOptions
 
 | Name | Description |
 | --- | --- |
-| [FontEmbeddingOptions](fontembeddingoptions/)() | The default constructor. |
+| [FontEmbeddingOptions](./fontembeddingoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [UseDefaultSubstitution](../../aspose.pdf/fontembeddingoptions/usedefaultsubstitution/) { get; set; } | Indicates whether to substitute non-embedded font using default font substitution strategy. Default value: `false`. |
+| [UseDefaultSubstitution](./usedefaultsubstitution/) { get; set; } | Indicates whether to substitute non-embedded font using default font substitution strategy. Default value: . |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

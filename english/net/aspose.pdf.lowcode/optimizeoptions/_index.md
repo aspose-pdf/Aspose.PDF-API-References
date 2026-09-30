@@ -1,14 +1,18 @@
 ---
-title: Class OptimizeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.OptimizeOptions class. Represents Optimize options for Optimizer plugin
+title: "OptimizeOptions Class"
+linktitle: "OptimizeOptions"
+articleTitle: "OptimizeOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.OptimizeOptions class. Represents Optimize options for Optimizer plugin."
 type: docs
-weight: 7600
-url: /net/aspose.pdf.lowcode/optimizeoptions/
+weight: 550
+url: "/net/aspose.pdf.lowcode/optimizeoptions/"
+keywords: "OptimizeOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## OptimizeOptions class
 
-Represents Optimize options for [`Optimizer`](../optimizer/) plugin.
+Represents Optimize options for [`Optimizer`](../../aspose.pdf.lowcode/optimizer/) plugin.
 
 ```csharp
 public sealed class OptimizeOptions : OrganizerBaseOptions
@@ -18,16 +22,16 @@ public sealed class OptimizeOptions : OrganizerBaseOptions
 
 | Name | Description |
 | --- | --- |
-| [OptimizeOptions](optimizeoptions/)() | The default constructor. |
+| [OptimizeOptions](./optimizeoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeinputstreams/) { get; set; } | Close input streams after operation completed. |
-| [CloseOutputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
-| [Inputs](../../aspose.pdf.lowcode/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. |
-| [Outputs](../../aspose.pdf.lowcode/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
+| [CloseInputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeinputstreams/) { get; set; } | Close input streams after operation completed. |
+| [CloseOutputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
+| [Inputs](../../aspose.pdf.lowcode/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. |
+| [Outputs](../../aspose.pdf.lowcode/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
@@ -38,8 +42,7 @@ public sealed class OptimizeOptions : OrganizerBaseOptions
 
 ### See Also
 
-* class [OrganizerBaseOptions](../organizerbaseoptions/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

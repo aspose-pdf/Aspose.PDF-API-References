@@ -1,14 +1,18 @@
 ---
-title: Enum ReplaceTextStrategy.Scope
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.ReplaceTextStrategyScope enum. Scope where replace text operation is applied REPLACE_FIRST by default
+title: "ReplaceTextStrategy.Scope Enum"
+linktitle: "ReplaceTextStrategy.Scope"
+articleTitle: "ReplaceTextStrategy.Scope"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.ReplaceTextStrategy.Scope enum. Scope where replace text operation is applied REPLACE_FIRST by default"
 type: docs
-weight: 4850
-url: /net/aspose.pdf.facades/replacetextstrategy.scope/
+weight: 570
+url: "/net/aspose.pdf.facades/replacetextstrategy.scope/"
+product_version: "26.9.0"
 ---
 ## ReplaceTextStrategy.Scope enumeration
 
-Scope where replace text operation is applied REPLACE_FIRST by default
+Scope where replace text operation is applied 
+ REPLACE_FIRST by default
 
 ```csharp
 public enum Scope
@@ -23,8 +27,7 @@ public enum Scope
 
 ### See Also
 
-* class [ReplaceTextStrategy](../replacetextstrategy/)
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* class [ReplaceTextStrategy](../replacetextstrategy/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

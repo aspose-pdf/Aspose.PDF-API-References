@@ -1,10 +1,13 @@
 ---
-title: Usage.Usage
-second_title: Aspose.PDF for .NET API Reference
-description: Usage constructor. The default constructor
+title: "Usage.Usage"
+linktitle: "Usage"
+articleTitle: "Usage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Usage constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/usage/usage/
+url: "/net/aspose.pdf.ai/usage/usage/"
+product_version: "26.9.0"
 ---
 ## Usage constructor
 
@@ -16,8 +19,7 @@ public Usage()
 
 ### See Also
 
-* class [Usage](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Usage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

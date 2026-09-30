@@ -1,14 +1,18 @@
 ---
-title: CheckboxField.AddOption
-second_title: Aspose.PDF for .NET API Reference
-description: CheckboxField method. Adds new checkbox into a checkbox group in which at most one of the checkboxes may be checked at any time. The new checkbox is added to the bottom of the group
+title: "CheckboxField.AddOption"
+linktitle: "AddOption"
+articleTitle: "AddOption"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CheckboxField method. Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. The new checkbox is added t..."
 type: docs
-weight: 80
-url: /net/aspose.pdf.forms/checkboxfield/addoption/
+weight: 50
+url: "/net/aspose.pdf.forms/checkboxfield/addoption/"
+product_version: "26.9.0"
 ---
 ## AddOption(string) {#addoption}
 
-Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. The new checkbox is added to the bottom of the group.
+Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time.
+ The new checkbox is added to the bottom of the group.
 
 ```csharp
 public void AddOption(string optionName)
@@ -20,13 +24,13 @@ public void AddOption(string optionName)
 
 ### See Also
 
-* class [CheckboxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddOption(string, Rectangle) {#addoption_1}
+## AddOption(string, [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#addoption_1}
 
 Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time.
 
@@ -41,14 +45,14 @@ public void AddOption(string optionName, Rectangle rect)
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [CheckboxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddOption(string, int, Rectangle) {#addoption_2}
+## AddOption(string, int, [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#addoption_2}
 
 Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time.
 
@@ -64,9 +68,8 @@ public void AddOption(string optionName, int page, Rectangle rect)
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [CheckboxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

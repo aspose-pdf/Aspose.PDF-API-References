@@ -1,10 +1,13 @@
 ---
-title: XImageCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection method. Removes item from collection throws NotImplementedException
+title: "XImageCollection.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImageCollection method. Removes item from collection, throws NotImplementedException."
 type: docs
-weight: 140
-url: /net/aspose.pdf/ximagecollection/remove/
+weight: 200
+url: "/net/aspose.pdf/ximagecollection/remove/"
+product_version: "26.9.0"
 ---
 ## XImageCollection.Remove method
 
@@ -22,11 +25,17 @@ public bool Remove(XImage item)
 
 NotImplementedException
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| NotImplementedException | NotImplementedException |
+| NotImplementedException | NotImplementedException |
+
 ### See Also
 
-* class [XImage](../../ximage/)
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XImage](../../../aspose.pdf/ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

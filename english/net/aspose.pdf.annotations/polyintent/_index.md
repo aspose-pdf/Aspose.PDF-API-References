@@ -1,10 +1,13 @@
 ---
-title: Enum PolyIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PolyIntent enum. Enumerates the intents of the polygon or polyline annotation
+title: "PolyIntent Enum"
+linktitle: "PolyIntent"
+articleTitle: "PolyIntent"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PolyIntent enum. Enumerates the intents of the polygon or polyline annotation."
 type: docs
-weight: 2390
-url: /net/aspose.pdf.annotations/polyintent/
+weight: 920
+url: "/net/aspose.pdf.annotations/polyintent/"
+product_version: "26.9.0"
 ---
 ## PolyIntent enumeration
 
@@ -25,7 +28,6 @@ public enum PolyIntent
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: XYZExplicitDestination.CreateDestination
-second_title: Aspose.PDF for .NET API Reference
-description: XYZExplicitDestination method. Create destintion to specified location of the page considering page rotation if required
+title: "XYZExplicitDestination.CreateDestination"
+linktitle: "CreateDestination"
+articleTitle: "CreateDestination"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XYZExplicitDestination method. Create destintion to specified location of the page considering page rotation if required."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/xyzexplicitdestination/createdestination/
+weight: 30
+url: "/net/aspose.pdf.annotations/xyzexplicitdestination/createdestination/"
+product_version: "26.9.0"
 ---
 ## XYZExplicitDestination.CreateDestination method
 
@@ -29,9 +32,8 @@ Destination object.
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [XYZExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XYZExplicitDestination](../../../aspose.pdf.annotations/xyzexplicitdestination/)
+* class [Page](../../../aspose.pdf/page/)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

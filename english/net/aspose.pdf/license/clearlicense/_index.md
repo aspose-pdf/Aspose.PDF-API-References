@@ -1,10 +1,13 @@
 ---
-title: License.ClearLicense
-second_title: Aspose.PDF for .NET API Reference
-description: License method. Clears the current license
+title: "License.ClearLicense"
+linktitle: "ClearLicense"
+articleTitle: "ClearLicense"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "License method. Clears the current license."
 type: docs
-weight: 30
-url: /net/aspose.pdf/license/clearlicense/
+weight: 20
+url: "/net/aspose.pdf/license/clearlicense/"
+product_version: "26.9.0"
 ---
 ## License.ClearLicense method
 
@@ -16,8 +19,7 @@ public void ClearLicense()
 
 ### See Also
 
-* class [License](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [License](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

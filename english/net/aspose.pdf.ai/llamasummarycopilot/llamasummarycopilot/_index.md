@@ -1,14 +1,17 @@
 ---
-title: LlamaSummaryCopilot.LlamaSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilot constructor. Initializes a new instance of the LlamaSummaryCopilot class
+title: "LlamaSummaryCopilot.LlamaSummaryCopilot"
+linktitle: "LlamaSummaryCopilot"
+articleTitle: "LlamaSummaryCopilot"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaSummaryCopilot constructor. Initializes a new instance of the LlamaSummaryCopilot class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/llamasummarycopilot/llamasummarycopilot/
+url: "/net/aspose.pdf.ai/llamasummarycopilot/llamasummarycopilot/"
+product_version: "26.9.0"
 ---
 ## LlamaSummaryCopilot constructor
 
-Initializes a new instance of the [`LlamaSummaryCopilot`](../) class.
+Initializes a new instance of the [`LlamaSummaryCopilot`](../../../aspose.pdf.ai/llamasummarycopilot/) class.
 
 ```csharp
 public LlamaSummaryCopilot(ILlamaClient client, 
@@ -22,11 +25,8 @@ public LlamaSummaryCopilot(ILlamaClient client,
 
 ### See Also
 
-* interface [ILlamaClient](../../illamaclient/)
-* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* class [LlamaSummaryCopilotOptions](../../llamasummarycopilotoptions/)
-* class [LlamaSummaryCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [ILlamaClient](../../../aspose.pdf.ai/illamaclient/)
+* class [LlamaSummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

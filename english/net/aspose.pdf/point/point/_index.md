@@ -1,14 +1,17 @@
 ---
-title: Point.Point
-second_title: Aspose.PDF for .NET API Reference
-description: Point constructor. Initializes new instance of the Point
+title: "Point.Point"
+linktitle: "Point"
+articleTitle: "Point"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Point constructor. Initializes new instance of the Point."
 type: docs
 weight: 10
-url: /net/aspose.pdf/point/point/
+url: "/net/aspose.pdf/point/point/"
+product_version: "26.9.0"
 ---
 ## Point constructor
 
-Initializes new instance of the [`Point`](../).
+Initializes new instance of the [`Point`](../../../aspose.pdf/point/).
 
 ```csharp
 public Point(double x, double y)
@@ -21,8 +24,7 @@ public Point(double x, double y)
 
 ### See Also
 
-* class [Point](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

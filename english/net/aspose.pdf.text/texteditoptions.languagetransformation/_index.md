@@ -1,10 +1,13 @@
 ---
-title: Enum TextEditOptions.LanguageTransformation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextEditOptionsLanguageTransformation enum. Language transformation modes
+title: "TextEditOptions.LanguageTransformation Enum"
+linktitle: "TextEditOptions.LanguageTransformation"
+articleTitle: "TextEditOptions.LanguageTransformation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextEditOptions.LanguageTransformation enum. Language transformation modes"
 type: docs
-weight: 11250
-url: /net/aspose.pdf.text/texteditoptions.languagetransformation/
+weight: 460
+url: "/net/aspose.pdf.text/texteditoptions.languagetransformation/"
+product_version: "26.9.0"
 ---
 ## TextEditOptions.LanguageTransformation enumeration
 
@@ -24,8 +27,7 @@ public enum LanguageTransformation
 
 ### See Also
 
-* class [TextEditOptions](../texteditoptions/)
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* class [TextEditOptions](../texteditoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

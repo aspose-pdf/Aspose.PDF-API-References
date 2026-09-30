@@ -1,10 +1,13 @@
 ---
-title: AttributeKey.Role
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey field. Role attribute PrintField attribute owner
+title: "AttributeKey.Role"
+linktitle: "Role"
+articleTitle: "Role"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. Role attribute (PrintField attribute owner)."
 type: docs
-weight: 240
-url: /net/aspose.pdf.logicalstructure/attributekey/role/
+weight: 380
+url: "/net/aspose.pdf.logicalstructure/attributekey/role/"
+product_version: "26.9.0"
 ---
 ## AttributeKey.Role field
 
@@ -16,8 +19,7 @@ public static readonly AttributeKey Role;
 
 ### See Also
 
-* class [AttributeKey](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DocumentPrivilege.FillIn
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege property. Allows filling forms in file
+title: "DocumentPrivilege.FillIn"
+linktitle: "FillIn"
+articleTitle: "FillIn"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentPrivilege property. Allows filling forms in file."
 type: docs
-weight: 50
-url: /net/aspose.pdf.facades/documentprivilege/fillin/
+weight: 180
+url: "/net/aspose.pdf.facades/documentprivilege/fillin/"
+product_version: "26.9.0"
 ---
 ## DocumentPrivilege.FillIn property
 
@@ -16,8 +19,7 @@ public static DocumentPrivilege FillIn { get; }
 
 ### See Also
 
-* class [DocumentPrivilege](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

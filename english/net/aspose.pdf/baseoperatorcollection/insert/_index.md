@@ -1,10 +1,13 @@
 ---
-title: BaseOperatorCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection method. Inserts operator into collection
+title: "BaseOperatorCollection.Insert"
+linktitle: "Insert"
+articleTitle: "Insert"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseOperatorCollection method. Inserts operator into collection."
 type: docs
-weight: 110
-url: /net/aspose.pdf/baseoperatorcollection/insert/
+weight: 50
+url: "/net/aspose.pdf/baseoperatorcollection/insert/"
+product_version: "26.9.0"
 ---
 ## BaseOperatorCollection.Insert method
 
@@ -21,9 +24,8 @@ public abstract void Insert(int index, Operator op)
 
 ### See Also
 
-* class [Operator](../../operator/)
-* class [BaseOperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Operator](../../../aspose.pdf/operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

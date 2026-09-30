@@ -1,10 +1,13 @@
 ---
-title: UnderlineAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: UnderlineAnnotation method. Accepts visitor object to process the annotation
+title: "UnderlineAnnotation.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "UnderlineAnnotation method. Accepts visitor object to process the annotation."
 type: docs
-weight: 30
-url: /net/aspose.pdf.annotations/underlineannotation/accept/
+weight: 20
+url: "/net/aspose.pdf.annotations/underlineannotation/accept/"
+product_version: "26.9.0"
 ---
 ## UnderlineAnnotation.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../annotationselector/)
-* class [UnderlineAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [UnderlineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

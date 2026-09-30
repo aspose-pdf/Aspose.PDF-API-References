@@ -1,10 +1,13 @@
 ---
-title: MemoryFontSource.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: MemoryFontSource method. Check if font file source objects are equal
+title: "MemoryFontSource.Equals"
+linktitle: "Equals"
+articleTitle: "Equals"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MemoryFontSource method. Check if font file source objects are equal."
 type: docs
-weight: 40
-url: /net/aspose.pdf.text/memoryfontsource/equals/
+weight: 20
+url: "/net/aspose.pdf.text/memoryfontsource/equals/"
+product_version: "26.9.0"
 ---
 ## MemoryFontSource.Equals method
 
@@ -24,8 +27,7 @@ True if both objects are font file sources targeted to the same file.
 
 ### See Also
 
-* class [MemoryFontSource](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MemoryFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

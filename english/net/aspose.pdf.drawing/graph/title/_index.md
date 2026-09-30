@@ -1,10 +1,13 @@
 ---
-title: Graph.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Graph property. Gets or sets a string value that indicates the title of the graph
+title: "Graph.Title"
+linktitle: "Title"
+articleTitle: "Title"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Graph property. Gets or sets a string value that indicates the title of the graph."
 type: docs
-weight: 80
-url: /net/aspose.pdf.drawing/graph/title/
+weight: 90
+url: "/net/aspose.pdf.drawing/graph/title/"
+product_version: "26.9.0"
 ---
 ## Graph.Title property
 
@@ -16,9 +19,8 @@ public TextFragment Title { get; set; }
 
 ### See Also
 
-* class [TextFragment](../../../aspose.pdf.text/textfragment/)
-* class [Graph](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,37 +1,15 @@
 ---
-title: OpenAIChatCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions method. Adds a text document to the document collection for the chat copilot options
+title: "OpenAIChatCopilotOptions.WithDocument"
+linktitle: "WithDocument"
+articleTitle: "WithDocument"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIChatCopilotOptions method. Adds a text document to the document collection for the chat copilot options."
 type: docs
 weight: 110
-url: /net/aspose.pdf.ai/openaichatcopilotoptions/withdocument/
+url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withdocument/"
+product_version: "26.9.0"
 ---
-## WithDocument(TextDocument) {#withdocument_1}
-
-Adds a text document to the document collection for the chat copilot options.
-
-```csharp
-public OpenAIChatCopilotOptions WithDocument(TextDocument textDocument)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| textDocument | TextDocument | The text document to add. |
-
-### Return Value
-
-The current instance of [`OpenAIChatCopilotOptions`](../).
-
-### See Also
-
-* class [TextDocument](../../textdocument/)
-* class [OpenAIChatCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## WithDocument(PdfDocument) {#withdocument}
+## WithDocument([PdfDocument](../../../aspose.pdf.ai/pdfdocument/)) {#withdocument}
 
 Adds a PDF document to the document collection for the chat copilot options.
 
@@ -45,18 +23,18 @@ public OpenAIChatCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 ### Return Value
 
-The current instance of [`OpenAIChatCopilotOptions`](../).
+The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
 
 ### See Also
 
-* class [PdfDocument](../../pdfdocument/)
-* class [OpenAIChatCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+* class [PdfDocument](../../../aspose.pdf.ai/pdfdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## WithDocument(string) {#withdocument_2}
+## WithDocument(string) {#withdocument_1}
 
 Adds a document path to the document collection for the chat copilot options.
 
@@ -70,12 +48,36 @@ public OpenAIChatCopilotOptions WithDocument(string filePath)
 
 ### Return Value
 
-The current instance of [`OpenAIChatCopilotOptions`](../).
+The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## WithDocument([TextDocument](../../../aspose.pdf.ai/textdocument/)) {#withdocument_2}
+
+Adds a text document to the document collection for the chat copilot options.
+
+```csharp
+public OpenAIChatCopilotOptions WithDocument(TextDocument textDocument)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| textDocument | TextDocument | The text document to add. |
+
+### Return Value
+
+The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
+
+### See Also
+
+* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+* class [TextDocument](../../../aspose.pdf.ai/textdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum Detail
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.Detail enum. Specifies the level of detail for image analysis
+title: "Detail Enum"
+linktitle: "Detail"
+articleTitle: "Detail"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.Detail enum. Specifies the level of detail for image analysis."
 type: docs
 weight: 310
-url: /net/aspose.pdf.ai/detail/
+url: "/net/aspose.pdf.ai/detail/"
+product_version: "26.9.0"
 ---
 ## Detail enumeration
 
@@ -24,7 +27,6 @@ public enum Detail
 
 ### See Also
 
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: AbsorbedTable.PageNum
-second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedTable property. Gets number of the page containing this table
+title: "AbsorbedTable.PageNum"
+linktitle: "PageNum"
+articleTitle: "PageNum"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AbsorbedTable property. Gets number of the page containing this table"
 type: docs
-weight: 10
-url: /net/aspose.pdf.text/absorbedtable/pagenum/
+weight: 40
+url: "/net/aspose.pdf.text/absorbedtable/pagenum/"
+product_version: "26.9.0"
 ---
 ## AbsorbedTable.PageNum property
 
@@ -16,8 +19,7 @@ public int PageNum { get; }
 
 ### See Also
 
-* class [AbsorbedTable](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AbsorbedTable](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

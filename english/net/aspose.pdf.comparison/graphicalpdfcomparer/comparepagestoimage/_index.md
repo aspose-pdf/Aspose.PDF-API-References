@@ -1,10 +1,13 @@
 ---
-title: GraphicalPdfComparer.ComparePagesToImage
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicalPdfComparer method. Compares pages graphically. The comparison result is placed in a image
+title: "GraphicalPdfComparer.ComparePagesToImage"
+linktitle: "ComparePagesToImage"
+articleTitle: "ComparePagesToImage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicalPdfComparer method. Compares pages graphically. The comparison result is placed in a image."
 type: docs
-weight: 70
-url: /net/aspose.pdf.comparison/graphicalpdfcomparer/comparepagestoimage/
+weight: 60
+url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/comparepagestoimage/"
+product_version: "26.9.0"
 ---
 ## GraphicalPdfComparer.ComparePagesToImage method
 
@@ -24,13 +27,14 @@ public void ComparePagesToImage(Page page1, Page page2, string resultImagePath)
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | If the pages being compared are of different sizes. If resultImagePath is null or empty string. There is unknown saving image format. |
+| ArgumentException | If the pages being compared are of different sizes.
+ If resultImagePath is null or empty string.
+ There is unknown saving image format. |
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [GraphicalPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

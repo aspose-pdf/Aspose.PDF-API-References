@@ -1,10 +1,13 @@
 ---
-title: Artifact.CustomSubtype
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact property. Gets name of artifact subtype. May be used if artifact subtype is not standard subtype
+title: "Artifact.CustomSubtype"
+linktitle: "CustomSubtype"
+articleTitle: "CustomSubtype"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact property. Gets name of artifact subtype. May be used if artifact subtype is not standard subtype."
 type: docs
-weight: 60
-url: /net/aspose.pdf/artifact/customsubtype/
+weight: 170
+url: "/net/aspose.pdf/artifact/customsubtype/"
+product_version: "26.9.0"
 ---
 ## Artifact.CustomSubtype property
 
@@ -16,8 +19,7 @@ public string CustomSubtype { get; set; }
 
 ### See Also
 
-* class [Artifact](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

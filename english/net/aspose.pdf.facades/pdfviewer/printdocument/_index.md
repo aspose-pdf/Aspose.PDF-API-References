@@ -1,10 +1,13 @@
 ---
-title: PdfViewer.PrintDocument
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer method. Prints the Pdf document using default printer
+title: "PdfViewer.PrintDocument"
+linktitle: "PrintDocument"
+articleTitle: "PrintDocument"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Prints the Pdf document using default printer."
 type: docs
-weight: 320
-url: /net/aspose.pdf.facades/pdfviewer/printdocument/
+weight: 230
+url: "/net/aspose.pdf.facades/pdfviewer/printdocument/"
+product_version: "26.9.0"
 ---
 ## PdfViewer.PrintDocument method
 
@@ -17,29 +20,28 @@ public void PrintDocument()
 ## Examples
 
 ```csharp
-[C#]
-dfViewer viewer = new PdfViewer();
-iewer.OpenPdfFile(@"d:\test.pdf");
-iewer.AutoResize = true;         //print the file with adjusted size
-iewer.AutoRotate = true;         //print the file with adjusted rotation
-iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
-iewer.PrintDocument(ps);
-iewer.ClosePdfFile();
+ [C#]
+PdfViewer viewer = new PdfViewer();
+viewer.OpenPdfFile(@"d:\test.pdf");
+viewer.AutoResize = true;         //print the file with adjusted size
+viewer.AutoRotate = true;         //print the file with adjusted rotation
+viewer.PrintPageDialog=false;//do not produce the page number dialog when printing
+viewer.PrintDocument(ps);
+viewer.ClosePdfFile();
 
-VisualBasic]
-im viewer As PdfViewer = new PdfViewer()
-iewer.OpenPdfFile(@"d:\test.pdf")
-iewer.AutoResize = true;         'print the file with adjusted size
-iewer.AutoRotate = true;         'print the file with adjusted rotation
-iewer.PrintPageDialog=false;//do not produce the page number dialog when printing
-iewer.PrintDocument(ps);
-iewer.ClosePdfFile()
+[VisualBasic]
+Dim viewer As PdfViewer = new PdfViewer()
+viewer.OpenPdfFile(@"d:\test.pdf")
+viewer.AutoResize = true;         'print the file with adjusted size
+viewer.AutoRotate = true;         'print the file with adjusted rotation
+viewer.PrintPageDialog=false;//do not produce the page number dialog when printing
+viewer.PrintDocument(ps);
+viewer.ClosePdfFile()
 ```
 
 ### See Also
 
-* class [PdfViewer](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

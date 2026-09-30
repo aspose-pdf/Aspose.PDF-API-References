@@ -1,10 +1,13 @@
 ---
-title: Field.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Field property. Gets subfield contained in this field by name of the subfield
+title: "Field.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Field property. Gets subfield contained in this field by name of the subfield."
 type: docs
-weight: 80
-url: /net/aspose.pdf.forms/field/item/
+weight: 190
+url: "/net/aspose.pdf.forms/field/item/"
+product_version: "26.9.0"
 ---
 ## Field indexer (1 of 2)
 
@@ -24,10 +27,10 @@ Field instance.
 
 ### See Also
 
-* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* class [Field](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -49,9 +52,8 @@ Field instance.
 
 ### See Also
 
-* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* class [Field](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

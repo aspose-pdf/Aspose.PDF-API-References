@@ -1,14 +1,17 @@
 ---
-title: TableOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: TableOptions method. Create instance of TableOptions
+title: "TableOptions.Create"
+linktitle: "Create"
+articleTitle: "Create"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableOptions method. Create instance of TableOptions."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/tableoptions/create/
+weight: 50
+url: "/net/aspose.pdf.lowcode/tableoptions/create/"
+product_version: "26.9.0"
 ---
 ## TableOptions.Create method
 
-Create instance of [`TableOptions`](../).
+Create instance of [`TableOptions`](../../../aspose.pdf.lowcode/tableoptions/).
 
 ```csharp
 public static TableOptions Create()
@@ -16,12 +19,11 @@ public static TableOptions Create()
 
 ### Return Value
 
-New instance of [`TableOptions`](../).
+New instance of [`TableOptions`](../../../aspose.pdf.lowcode/tableoptions/).
 
 ### See Also
 
-* class [TableOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TableOptions](../../../aspose.pdf.lowcode/tableoptions/)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

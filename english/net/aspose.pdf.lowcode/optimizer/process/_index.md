@@ -1,14 +1,17 @@
 ---
-title: Optimizer.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Optimizer method. Starts the Optimizer processing with the specified parameters
+title: "Optimizer.Process"
+linktitle: "Process"
+articleTitle: "Process"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Optimizer method. Starts the Optimizer processing with the specified parameters."
 type: docs
 weight: 20
-url: /net/aspose.pdf.lowcode/optimizer/process/
+url: "/net/aspose.pdf.lowcode/optimizer/process/"
+product_version: "26.9.0"
 ---
 ## Optimizer.Process method
 
-Starts the [`Optimizer`](../) processing with the specified parameters.
+Starts the [`Optimizer`](../../../aspose.pdf.lowcode/optimizer/) processing with the specified parameters.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -16,7 +19,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | IPluginOptions | An options object containg instructions for the [`Optimizer`](../). |
+| options | IPluginOptions | An options object containg instructions for the <see cref="T:Aspose.Pdf.LowCode.Optimizer" />. |
 
 ### Return Value
 
@@ -30,10 +33,9 @@ An ResultContainer object containg the result of the operation.
 
 ### See Also
 
-* class [ResultContainer](../../resultcontainer/)
-* interface [IPluginOptions](../../ipluginoptions/)
-* class [Optimizer](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
+* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
+* class [Optimizer](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

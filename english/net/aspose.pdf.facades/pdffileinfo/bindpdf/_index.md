@@ -1,10 +1,13 @@
 ---
-title: PdfFileInfo.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo method. Initializes the facade
+title: "PdfFileInfo.BindPdf"
+linktitle: "BindPdf"
+articleTitle: "BindPdf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Initializes the facade."
 type: docs
-weight: 190
-url: /net/aspose.pdf.facades/pdffileinfo/bindpdf/
+weight: 90
+url: "/net/aspose.pdf.facades/pdffileinfo/bindpdf/"
+product_version: "26.9.0"
 ---
 ## PdfFileInfo.BindPdf method
 
@@ -20,9 +23,8 @@ public override void BindPdf(Document srcDoc)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [PdfFileInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

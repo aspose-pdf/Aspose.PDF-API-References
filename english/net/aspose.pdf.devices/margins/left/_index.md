@@ -1,10 +1,13 @@
 ---
-title: Margins.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Margins property. Gets or sets the left
+title: "Margins.Left"
+linktitle: "Left"
+articleTitle: "Left"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Margins property. Gets or sets the left."
 type: docs
 weight: 30
-url: /net/aspose.pdf.devices/margins/left/
+url: "/net/aspose.pdf.devices/margins/left/"
+product_version: "26.9.0"
 ---
 ## Margins.Left property
 
@@ -20,8 +23,7 @@ The left.
 
 ### See Also
 
-* class [Margins](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

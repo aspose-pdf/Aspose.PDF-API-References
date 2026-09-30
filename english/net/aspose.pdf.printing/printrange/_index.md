@@ -1,10 +1,13 @@
 ---
-title: Enum PrintRange
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PrintRange enum. Specifies the option that designate the part of the document to print
+title: "PrintRange Enum"
+linktitle: "PrintRange"
+articleTitle: "PrintRange"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.PrintRange enum. Specifies the option that designate the part of the document to print."
 type: docs
-weight: 9940
-url: /net/aspose.pdf.printing/printrange/
+weight: 150
+url: "/net/aspose.pdf.printing/printrange/"
+product_version: "26.9.0"
 ---
 ## PrintRange enumeration
 
@@ -19,13 +22,12 @@ public enum PrintRange
 | Name | Value | Description |
 | --- | --- | --- |
 | AllPages | `0` | All pages are printed. |
-| SomePages | `2` | The pages between [`FromPage`](../printersettings/frompage/) and [`ToPage`](../printersettings/topage/) are printed. |
+| SomePages | `2` | The pages between <see cref="P:Aspose.Pdf.Printing.PrinterSettings.FromPage" /> and <see cref="P:Aspose.Pdf.Printing.PrinterSettings.ToPage" /> are printed. |
 | Selection | `1` | The selected pages are printed. |
 | CurrentPage | `4194304` | The current page is printed. If used with some operating systems, all pages may be printed. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
 

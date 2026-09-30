@@ -1,21 +1,29 @@
 ---
-title: Resources.ExtGStateValue.ExtGStateValue
-second_title: Aspose.PDF for .NET API Reference
-description: ExtGStateValue constructor. 
+title: "Resources.ExtGStateValue.Resources.ExtGStateValue"
+linktitle: "Resources.ExtGStateValue"
+articleTitle: "Resources.ExtGStateValue"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ExtGStateValue constructor. Initializes a new instance of the Resources.ExtGStateValue class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/resources.extgstatevalue/extgstatevalue/
+url: "/net/aspose.pdf/resources.extgstatevalue/extgstatevalue/"
+product_version: "26.9.0"
 ---
-## Resources.ExtGStateValue constructor
+## ExtGStateValue constructor
+
+Initializes a new instance of the Resources.ExtGStateValue class.
 
 ```csharp
 public ExtGStateValue(string name)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | String |  |
+
 ### See Also
 
-* class [ExtGStateValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Resources.ExtGStateValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

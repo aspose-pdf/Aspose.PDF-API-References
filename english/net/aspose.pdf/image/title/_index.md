@@ -1,10 +1,13 @@
 ---
-title: Image.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Image property. Gets or sets a string value that indicates the title of the image
+title: "Image.Title"
+linktitle: "Title"
+articleTitle: "Title"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Image property. Gets or sets a string value that indicates the title of the image."
 type: docs
-weight: 120
-url: /net/aspose.pdf/image/title/
+weight: 140
+url: "/net/aspose.pdf/image/title/"
+product_version: "26.9.0"
 ---
 ## Image.Title property
 
@@ -16,9 +19,8 @@ public TextFragment Title { get; set; }
 
 ### See Also
 
-* class [TextFragment](../../../aspose.pdf.text/textfragment/)
-* class [Image](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

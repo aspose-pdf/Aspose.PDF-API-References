@@ -1,12 +1,20 @@
 ---
-title: Aspose.Pdf.Security
-second_title: Aspose.PDF for .NET API Reference
-description: The Aspose.Pdf.Security namespace contains classes used for encryption and digital signing
+title: "Aspose.Pdf.Security"
+linktitle: "Aspose.Pdf.Security"
+articleTitle: "Aspose.Pdf.Security"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "The Aspose.Pdf.Security namespace provides classes."
 type: docs
-weight: 190
-url: /net/aspose.pdf.security/
+weight: 10
+url: "/net/aspose.pdf.security/"
+keywords: "Aspose.Pdf.Security, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
-The **Aspose.Pdf.Security** namespace contains classes used for encryption and digital signing.
+## Overview
+
+The **Aspose.Pdf.Security** namespace provides classes.
+
+Part of the [Aspose.PDF for .NET](../) API reference.
 
 ## Classes
 
@@ -19,18 +27,22 @@ The **Aspose.Pdf.Security** namespace contains classes used for encryption and d
 | [KeyedSignatureAlgorithmInfo](./keyedsignaturealgorithminfo/) | Represents a class for information about a keyed signature algorithm. |
 | [RsaAlgorithmInfo](./rsaalgorithminfo/) | Represents a class for the information about the RSA signature algorithm. |
 | [SignatureAlgorithmInfo](./signaturealgorithminfo/) | Represents a class for information about a signature algorithm, including its type, cryptographic standard, and digest hash algorithm. |
-| [SignatureLengthMismatchException](./signaturelengthmismatchexception/) | Represents errors that occur during PDF signing. Occurs if [`SignHash`](../aspose.pdf.forms/signhash/) is used to sign a document and the actual length of the signature is greater than that specified in the [`DefaultSignatureLength`](../aspose.pdf.forms/signature/defaultsignaturelength/) option. |
+| [SignatureLengthMismatchException](./signaturelengthmismatchexception/) | Represents errors that occur during PDF signing. Occurs if [`SignHash`](../aspose.pdf.forms/signhash/) is used to sign a document and the actual length of the signature is greater than that specified in the `DefaultSignatureLength` option. |
 | [TimestampAlgorithmInfo](./timestampalgorithminfo/) | Represents a class for the information about the timestamp signature algorithm. |
 | [UnknownSignatureAlgorithmInfo](./unknownsignaturealgorithminfo/) | Represents a class for the unknown signature algorithm information. |
 | [UnsignedContentAbsorber](./unsignedcontentabsorber/) | Represents a class for extracting unsigned content from a PDF file managed by digital signatures. |
+| [UnsignedContentAbsorber.Result](./unsignedcontentabsorber.result/) | Encapsulates the result of an operation attempting to extract unsigned content from a PDF document. |
+| [UnsignedContentAbsorber.UnsignedContent](./unsignedcontentabsorber.unsignedcontent/) | Encapsulates unsigned content elements extracted from a PDF document. This class provides access to pages, form fields, XForms, and annotations that are part of the unsigned content within the document. |
 | [ValidationOptions](./validationoptions/) | Represents options for validating a digital signature in a PDF document. |
 | [ValidationResult](./validationresult/) | Represents the result of a validation process for a certificate. |
 | [VerificationResult](./verificationresult/) | Represents the result of verifying a digital signature in a PDF file. |
+
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
 | [ICustomSecurityHandler](./icustomsecurityhandler/) | The custom security handler interface. |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -42,4 +54,13 @@ The **Aspose.Pdf.Security** namespace contains classes used for encryption and d
 | [ValidationStatus](./validationstatus/) | Represents the validation status of a certificate validation. |
 | [VerificationState](./verificationstate/) | Specifies the state of a digital signature verification process in a PDF document. |
 
+## FAQ
+
+### What classes does the Aspose.Pdf.Security namespace contain?
+
+[CertificateEncryptionOptions](./certificateencryptionoptions/), [DsaAlgorithmInfo](./dsaalgorithminfo/), [EcdsaAlgorithmInfo](./ecdsaalgorithminfo/), [EncryptionParameters](./encryptionparameters/), [KeyedSignatureAlgorithmInfo](./keyedsignaturealgorithminfo/), and 11 more.
+
+### How many types are in the Aspose.Pdf.Security namespace?
+
+The Aspose.Pdf.Security namespace contains 23 types, listed above.
 

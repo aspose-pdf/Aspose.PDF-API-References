@@ -1,10 +1,13 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithAssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions method. Sets the assistant name for the image description copilot options
+title: "OpenAIImageDescriptionCopilotOptions.WithAssistantName"
+linktitle: "WithAssistantName"
+articleTitle: "WithAssistantName"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIImageDescriptionCopilotOptions method. Sets the assistant name for the image description copilot options."
 type: docs
-weight: 70
-url: /net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withassistantname/
+weight: 160
+url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withassistantname/"
+product_version: "26.9.0"
 ---
 ## OpenAIImageDescriptionCopilotOptions.WithAssistantName method
 
@@ -20,12 +23,11 @@ public OpenAIImageDescriptionCopilotOptions WithAssistantName(string assistantNa
 
 ### Return Value
 
-The current instance of [`OpenAIImageDescriptionCopilotOptions`](../).
+The current instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
 
 ### See Also
 
-* class [OpenAIImageDescriptionCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

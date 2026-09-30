@@ -1,10 +1,13 @@
 ---
-title: Cells.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Cells method. Insert cell to collection
+title: "Cells.Insert"
+linktitle: "Insert"
+articleTitle: "Insert"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Cells method. Insert cell to collection."
 type: docs
-weight: 70
-url: /net/aspose.pdf/cells/insert/
+weight: 90
+url: "/net/aspose.pdf/cells/insert/"
+product_version: "26.9.0"
 ---
 ## Cells.Insert method
 
@@ -21,9 +24,8 @@ public void Insert(int index, Cell cell)
 
 ### See Also
 
-* class [Cell](../../cell/)
-* class [Cells](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Cell](../../../aspose.pdf/cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

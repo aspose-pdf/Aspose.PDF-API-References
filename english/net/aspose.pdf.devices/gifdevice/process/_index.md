@@ -1,10 +1,13 @@
 ---
-title: GifDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: GifDevice method. Converts the page into gif and saves it in the output stream
+title: "GifDevice.Process"
+linktitle: "Process"
+articleTitle: "Process"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GifDevice method. Converts the page into gif and saves it in the output stream."
 type: docs
-weight: 20
-url: /net/aspose.pdf.devices/gifdevice/process/
+weight: 70
+url: "/net/aspose.pdf.devices/gifdevice/process/"
+product_version: "26.9.0"
 ---
 ## GifDevice.Process method
 
@@ -21,9 +24,8 @@ public override void Process(Page page, Stream output)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [GifDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [GifDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

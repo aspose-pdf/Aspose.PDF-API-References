@@ -1,22 +1,23 @@
 ---
-title: Font.IsAccessible
-second_title: Aspose.PDF for .NET API Reference
-description: Font property. Gets indicating whether the font is present installed in the system
+title: "Font.IsAccessible"
+linktitle: "IsAccessible"
+articleTitle: "IsAccessible"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Font property. Gets indicating whether the font is present (installed) in the system."
 type: docs
-weight: 50
-url: /net/aspose.pdf.text/font/isaccessible/
+weight: 90
+url: "/net/aspose.pdf.text/font/isaccessible/"
+product_version: "26.9.0"
 ---
 ## Font.IsAccessible property
 
 Gets indicating whether the font is present (installed) in the system.
 
+Some operations are not available with fonts that could not be found in the system.
+
 ```csharp
 public bool IsAccessible { get; }
 ```
-
-## Remarks
-
-Some operations are not available with fonts that could not be found in the system.
 
 ## Examples
 
@@ -39,10 +40,9 @@ if(absorber.TextFragments[1].TextState.Font.IsAccessible)
 
 ### See Also
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber/)
-* class [Document](../../../aspose.pdf/document/)
-* class [Font](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* [TextFragmentAbsorber](../textfragmentabsorber/)
+* [Document](../document/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

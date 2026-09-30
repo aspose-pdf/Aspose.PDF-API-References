@@ -1,10 +1,13 @@
 ---
-title: TextSegmentCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegmentCollection method. Copies the entire collection to a compatible onedimensional Array starting at the specified index of the target array
+title: "TextSegmentCollection.CopyTo"
+linktitle: "CopyTo"
+articleTitle: "CopyTo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextSegmentCollection method. Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array"
 type: docs
-weight: 90
-url: /net/aspose.pdf.text/textsegmentcollection/copyto/
+weight: 30
+url: "/net/aspose.pdf.text/textsegmentcollection/copyto/"
+product_version: "26.9.0"
 ---
 ## TextSegmentCollection.CopyTo method
 
@@ -21,9 +24,8 @@ public void CopyTo(TextSegment[] array, int index)
 
 ### See Also
 
-* class [TextSegment](../../textsegment/)
-* class [TextSegmentCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextSegment](../../../aspose.pdf.text/textsegment/)
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

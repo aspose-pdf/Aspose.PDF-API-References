@@ -1,11 +1,34 @@
 ---
-title: PdfBookmarkEditor.ImportBookmarksWithXML
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor method. Imports bookmarks to the document from XML file
+title: "PdfBookmarkEditor.ImportBookmarksWithXML"
+linktitle: "ImportBookmarksWithXML"
+articleTitle: "ImportBookmarksWithXML"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfBookmarkEditor method. Imports bookmarks to the document from XML file."
 type: docs
-weight: 70
-url: /net/aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml/
+weight: 170
+url: "/net/aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml/"
+product_version: "26.9.0"
 ---
+## ImportBookmarksWithXML(Stream) {#importbookmarkswithxml}
+
+Imports bookmarks to the document from XML file.
+
+```csharp
+public void ImportBookmarksWithXML(Stream stream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | Stream with bookmarks data. |
+
+### See Also
+
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## ImportBookmarksWithXML(string) {#importbookmarkswithxml_1}
 
 Imports bookmarks to the document from XML file.
@@ -29,28 +52,7 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## ImportBookmarksWithXML(Stream) {#importbookmarkswithxml}
-
-Imports bookmarks to the document from XML file.
-
-```csharp
-public void ImportBookmarksWithXML(Stream stream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Stream with bookmarks data. |
-
-### See Also
-
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

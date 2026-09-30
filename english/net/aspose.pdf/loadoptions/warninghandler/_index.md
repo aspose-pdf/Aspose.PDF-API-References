@@ -1,14 +1,19 @@
 ---
-title: LoadOptions.WarningHandler
-second_title: Aspose.PDF for .NET API Reference
-description: LoadOptions property. Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues however the user may also return Abort in which case the Load operation should cease
+title: "LoadOptions.WarningHandler"
+linktitle: "WarningHandler"
+articleTitle: "WarningHandler"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LoadOptions property. Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Conti..."
 type: docs
-weight: 30
-url: /net/aspose.pdf/loadoptions/warninghandler/
+weight: 10
+url: "/net/aspose.pdf/loadoptions/warninghandler/"
+product_version: "26.9.0"
 ---
 ## LoadOptions.WarningHandler property
 
-Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease.
+Callback to handle any warnings generated. 
+ The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. 
+ Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease.
 
 ```csharp
 public IWarningCallback WarningHandler { get; set; }
@@ -16,9 +21,8 @@ public IWarningCallback WarningHandler { get; set; }
 
 ### See Also
 
-* interface [IWarningCallback](../../iwarningcallback/)
-* class [LoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IWarningCallback](../../../aspose.pdf/iwarningcallback/)
+* class [LoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

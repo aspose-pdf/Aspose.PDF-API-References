@@ -1,10 +1,13 @@
 ---
-title: EditContainer.Rects
-second_title: Aspose.PDF for .NET API Reference
-description: EditContainer property. The rectangle areas of the change
+title: "EditContainer.Rects"
+linktitle: "Rects"
+articleTitle: "Rects"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EditContainer property. The rectangle areas of the change."
 type: docs
 weight: 30
-url: /net/aspose.pdf.comparison/editcontainer/rects/
+url: "/net/aspose.pdf.comparison/editcontainer/rects/"
+product_version: "26.9.0"
 ---
 ## EditContainer.Rects property
 
@@ -16,9 +19,7 @@ public List<Rectangle> Rects { get; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [EditContainer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [EditContainer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: BaseOperatorCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection method. Checks if operator exists in collection
+title: "BaseOperatorCollection.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BaseOperatorCollection method. Checks if operator exists in collection."
 type: docs
 weight: 80
-url: /net/aspose.pdf/baseoperatorcollection/contains/
+url: "/net/aspose.pdf/baseoperatorcollection/contains/"
+product_version: "26.9.0"
 ---
 ## BaseOperatorCollection.Contains method
 
@@ -24,9 +27,8 @@ True - if item found; otherwise, false.
 
 ### See Also
 
-* class [Operator](../../operator/)
-* class [BaseOperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Operator](../../../aspose.pdf/operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

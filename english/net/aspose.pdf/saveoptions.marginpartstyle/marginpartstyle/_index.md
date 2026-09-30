@@ -1,34 +1,18 @@
 ---
-title: SaveOptions.MarginPartStyle.MarginPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: MarginPartStyle constructor. Creates instance of MarginPartStyle class and set its value in points
+title: "SaveOptions.MarginPartStyle.SaveOptions.MarginPartStyle"
+linktitle: "SaveOptions.MarginPartStyle"
+articleTitle: "SaveOptions.MarginPartStyle"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarginPartStyle constructor. Creates instance of MarginPartStyle class and set its value in points"
 type: docs
 weight: 10
-url: /net/aspose.pdf/saveoptions.marginpartstyle/marginpartstyle/
+url: "/net/aspose.pdf/saveoptions.marginpartstyle/marginpartstyle/"
+product_version: "26.9.0"
 ---
-## MarginPartStyle(int) {#constructor_1}
-
-Creates instance of MarginPartStyle class and set its value in points
-
-```csharp
-public MarginPartStyle(int valueInPoints)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| valueInPoints | Int32 | Integer value in points |
-
-### See Also
-
-* class [MarginPartStyle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## MarginPartStyle(bool) {#constructor}
 
-Creates instance of MarginPartStyle class and initializes its value in points
+Creates instance of MarginPartStyle class
+ and initializes its value in points
 
 ```csharp
 public MarginPartStyle(bool isAuto)
@@ -40,8 +24,28 @@ public MarginPartStyle(bool isAuto)
 
 ### See Also
 
-* class [MarginPartStyle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [SaveOptions.MarginPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## MarginPartStyle(int) {#constructor_1}
+
+Creates instance of MarginPartStyle class
+ and set its value in points
+
+```csharp
+public MarginPartStyle(int valueInPoints)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| valueInPoints | Int32 | Integer value in points |
+
+### See Also
+
+* class [SaveOptions.MarginPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

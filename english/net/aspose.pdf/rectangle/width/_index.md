@@ -1,10 +1,13 @@
 ---
-title: Rectangle.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle property. Width of rectangle
+title: "Rectangle.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle property. Width of rectangle."
 type: docs
-weight: 140
-url: /net/aspose.pdf/rectangle/width/
+weight: 210
+url: "/net/aspose.pdf/rectangle/width/"
+product_version: "26.9.0"
 ---
 ## Rectangle.Width property
 
@@ -16,8 +19,7 @@ public double Width { get; }
 
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: IPageSetOptions.ExplicitListOfSavedPages
-second_title: Aspose.PDF for .NET API Reference
-description: IPageSetOptions property. Specifies the array of numbers of pages to convert
+title: "IPageSetOptions.ExplicitListOfSavedPages"
+linktitle: "ExplicitListOfSavedPages"
+articleTitle: "ExplicitListOfSavedPages"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IPageSetOptions property. Specifies the array of numbers of pages to convert."
 type: docs
 weight: 10
-url: /net/aspose.pdf/ipagesetoptions/explicitlistofsavedpages/
+url: "/net/aspose.pdf/ipagesetoptions/explicitlistofsavedpages/"
+product_version: "26.9.0"
 ---
 ## IPageSetOptions.ExplicitListOfSavedPages property
 
@@ -16,8 +19,7 @@ public int[] ExplicitListOfSavedPages { get; set; }
 
 ### See Also
 
-* interface [IPageSetOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IPageSetOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

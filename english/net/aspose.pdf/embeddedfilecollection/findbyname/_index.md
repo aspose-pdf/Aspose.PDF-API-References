@@ -1,10 +1,13 @@
 ---
-title: EmbeddedFileCollection.FindByName
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection method. Returns embedded file by its name
+title: "EmbeddedFileCollection.FindByName"
+linktitle: "FindByName"
+articleTitle: "FindByName"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EmbeddedFileCollection method. Returns embedded file by its name."
 type: docs
-weight: 100
-url: /net/aspose.pdf/embeddedfilecollection/findbyname/
+weight: 60
+url: "/net/aspose.pdf/embeddedfilecollection/findbyname/"
+product_version: "26.9.0"
 ---
 ## EmbeddedFileCollection.FindByName method
 
@@ -24,9 +27,8 @@ File specification object if found; otherwise, null.
 
 ### See Also
 
-* class [FileSpecification](../../filespecification/)
-* class [EmbeddedFileCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

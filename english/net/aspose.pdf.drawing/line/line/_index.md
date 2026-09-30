@@ -1,14 +1,17 @@
 ---
-title: Line.Line
-second_title: Aspose.PDF for .NET API Reference
-description: Line constructor. Initializes a new instance of the Line class
+title: "Line.Line"
+linktitle: "Line"
+articleTitle: "Line"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Line constructor. Initializes a new instance of the Line class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.drawing/line/line/
+url: "/net/aspose.pdf.drawing/line/line/"
+product_version: "26.9.0"
 ---
 ## Line constructor
 
-Initializes a new instance of the [`Line`](../) class.
+Initializes a new instance of the [`Line`](../../../aspose.pdf.drawing/line/) class.
 
 ```csharp
 public Line(float[] positionArray)
@@ -20,8 +23,7 @@ public Line(float[] positionArray)
 
 ### See Also
 
-* class [Line](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Line](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 

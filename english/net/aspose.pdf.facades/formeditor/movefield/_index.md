@@ -1,10 +1,13 @@
 ---
-title: FormEditor.MoveField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Set new position of field
+title: "FormEditor.MoveField"
+linktitle: "MoveField"
+articleTitle: "MoveField"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Set new position of field."
 type: docs
-weight: 200
-url: /net/aspose.pdf.facades/formeditor/movefield/
+weight: 100
+url: "/net/aspose.pdf.facades/formeditor/movefield/"
+product_version: "26.9.0"
 ---
 ## FormEditor.MoveField method
 
@@ -35,8 +38,7 @@ formEditor.MoveField("textField", 20.5f, 20.3f, 120.6f, 40.8f);
 
 ### See Also
 
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

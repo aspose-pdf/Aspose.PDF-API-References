@@ -1,10 +1,13 @@
 ---
-title: Color.Fuchsia
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FFFF00FF
+title: "Color.Fuchsia"
+linktitle: "Fuchsia"
+articleTitle: "Fuchsia"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFFF00FF."
 type: docs
-weight: 470
-url: /net/aspose.pdf/color/fuchsia/
+weight: 640
+url: "/net/aspose.pdf/color/fuchsia/"
+product_version: "26.9.0"
 ---
 ## Color.Fuchsia property
 
@@ -20,8 +23,7 @@ A representing a system-defined color.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

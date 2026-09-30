@@ -1,10 +1,13 @@
 ---
-title: Color.PaleVioletRed
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FFDB7093
+title: "Color.PaleVioletRed"
+linktitle: "PaleVioletRed"
+articleTitle: "PaleVioletRed"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFDB7093."
 type: docs
-weight: 1070
-url: /net/aspose.pdf/color/palevioletred/
+weight: 1240
+url: "/net/aspose.pdf/color/palevioletred/"
+product_version: "26.9.0"
 ---
 ## Color.PaleVioletRed property
 
@@ -20,8 +23,7 @@ A representing a system-defined color.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

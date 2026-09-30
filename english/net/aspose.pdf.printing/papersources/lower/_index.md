@@ -1,10 +1,13 @@
 ---
-title: PaperSources.Lower
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources field. Represents the lower bin of the printer
+title: "PaperSources.Lower"
+linktitle: "Lower"
+articleTitle: "Lower"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSources field. Represents the lower bin of the printer."
 type: docs
-weight: 70
-url: /net/aspose.pdf.printing/papersources/lower/
+weight: 20
+url: "/net/aspose.pdf.printing/papersources/lower/"
+product_version: "26.9.0"
 ---
 ## PaperSources.Lower field
 
@@ -16,9 +19,8 @@ public static readonly PaperSource Lower;
 
 ### See Also
 
-* class [PaperSource](../../papersource/)
-* class [PaperSources](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

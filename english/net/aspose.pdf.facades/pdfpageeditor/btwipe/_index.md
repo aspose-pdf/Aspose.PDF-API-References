@@ -1,10 +1,13 @@
 ---
-title: PdfPageEditor.BTWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor field. BottomTop Wipe
+title: "PdfPageEditor.BTWIPE"
+linktitle: "BTWIPE"
+articleTitle: "BTWIPE"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. Bottom-Top Wipe"
 type: docs
-weight: 210
-url: /net/aspose.pdf.facades/pdfpageeditor/btwipe/
+weight: 310
+url: "/net/aspose.pdf.facades/pdfpageeditor/btwipe/"
+product_version: "26.9.0"
 ---
 ## PdfPageEditor.BTWIPE field
 
@@ -16,8 +19,7 @@ public const int BTWIPE;
 
 ### See Also
 
-* class [PdfPageEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

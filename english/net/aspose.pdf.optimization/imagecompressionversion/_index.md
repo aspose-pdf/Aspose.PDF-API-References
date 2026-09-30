@@ -1,10 +1,13 @@
 ---
-title: Enum ImageCompressionVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Optimization.ImageCompressionVersion enum. Describes versions of image compression algorithm
+title: "ImageCompressionVersion Enum"
+linktitle: "ImageCompressionVersion"
+articleTitle: "ImageCompressionVersion"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Optimization.ImageCompressionVersion enum. Describes versions of image compression algorithm."
 type: docs
-weight: 9220
-url: /net/aspose.pdf.optimization/imagecompressionversion/
+weight: 30
+url: "/net/aspose.pdf.optimization/imagecompressionversion/"
+product_version: "26.9.0"
 ---
 ## ImageCompressionVersion enumeration
 
@@ -24,7 +27,6 @@ public enum ImageCompressionVersion
 
 ### See Also
 
-* namespace [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../)
 

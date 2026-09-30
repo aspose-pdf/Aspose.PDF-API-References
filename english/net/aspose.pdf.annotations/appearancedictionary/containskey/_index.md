@@ -1,10 +1,13 @@
 ---
-title: AppearanceDictionary.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary method. Determines does this dictionary contasins specified key
+title: "AppearanceDictionary.ContainsKey"
+linktitle: "ContainsKey"
+articleTitle: "ContainsKey"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AppearanceDictionary method. Determines does this dictionary contasins specified key."
 type: docs
-weight: 120
-url: /net/aspose.pdf.annotations/appearancedictionary/containskey/
+weight: 50
+url: "/net/aspose.pdf.annotations/appearancedictionary/containskey/"
+product_version: "26.9.0"
 ---
 ## AppearanceDictionary.ContainsKey method
 
@@ -24,8 +27,7 @@ true if key is found.
 
 ### See Also
 
-* class [AppearanceDictionary](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

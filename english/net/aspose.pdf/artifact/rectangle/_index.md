@@ -1,10 +1,13 @@
 ---
-title: Artifact.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact property. Gets rectangle of the artifact
+title: "Artifact.Rectangle"
+linktitle: "Rectangle"
+articleTitle: "Rectangle"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact property. Gets rectangle of the artifact."
 type: docs
-weight: 150
-url: /net/aspose.pdf/artifact/rectangle/
+weight: 220
+url: "/net/aspose.pdf/artifact/rectangle/"
+product_version: "26.9.0"
 ---
 ## Artifact.Rectangle property
 
@@ -16,9 +19,8 @@ public Rectangle Rectangle { get; }
 
 ### See Also
 
-* class [Rectangle](../../rectangle/)
-* class [Artifact](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

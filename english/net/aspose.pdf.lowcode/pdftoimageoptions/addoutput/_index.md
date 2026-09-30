@@ -1,10 +1,13 @@
 ---
-title: PdfToImageOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToImageOptions method. Sets new save data source. Can only be a . If you want save images into memory streams pass null as parameter
+title: "PdfToImageOptions.AddOutput"
+linktitle: "AddOutput"
+articleTitle: "AddOutput"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToImageOptions method. Sets new save data source. Can only be a . If you want save images into memory streams, pass null as parameter."
 type: docs
-weight: 80
-url: /net/aspose.pdf.lowcode/pdftoimageoptions/addoutput/
+weight: 20
+url: "/net/aspose.pdf.lowcode/pdftoimageoptions/addoutput/"
+product_version: "26.9.0"
 ---
 ## PdfToImageOptions.AddOutput method
 
@@ -20,9 +23,9 @@ public void AddOutput(IDataSource saveDataSource)
 
 ### See Also
 
-* interface [IDataSource](../../idatasource/)
-* class [PdfToImageOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* [FileDataSource](../filedatasource/)
+* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
+* class [PdfToImageOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

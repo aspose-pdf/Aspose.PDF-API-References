@@ -1,10 +1,13 @@
 ---
-title: AnnotationActionCollection.OnFormat
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationActionCollection property. Gets or sets an action to be performed to format field value
+title: "AnnotationActionCollection.OnFormat"
+linktitle: "OnFormat"
+articleTitle: "OnFormat"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationActionCollection property. Gets or sets an action to be performed to format field value."
 type: docs
-weight: 50
-url: /net/aspose.pdf.annotations/annotationactioncollection/onformat/
+weight: 130
+url: "/net/aspose.pdf.annotations/annotationactioncollection/onformat/"
+product_version: "26.9.0"
 ---
 ## AnnotationActionCollection.OnFormat property
 
@@ -16,9 +19,8 @@ public PdfAction OnFormat { get; set; }
 
 ### See Also
 
-* class [PdfAction](../../pdfaction/)
-* class [AnnotationActionCollection](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

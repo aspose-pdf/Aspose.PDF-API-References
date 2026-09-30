@@ -1,14 +1,19 @@
 ---
-title: SignaturesCompromiseDetector.Check
-second_title: Aspose.PDF for .NET API Reference
-description: SignaturesCompromiseDetector method. Check the digital signatures of the document for compromise
+title: "SignaturesCompromiseDetector.Check"
+linktitle: "Check"
+articleTitle: "Check"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignaturesCompromiseDetector method. Check the digital signatures of the document for compromise."
 type: docs
 weight: 20
-url: /net/aspose.pdf/signaturescompromisedetector/check/
+url: "/net/aspose.pdf/signaturescompromisedetector/check/"
+product_version: "26.9.0"
 ---
 ## SignaturesCompromiseDetector.Check method
 
 Check the digital signatures of the document for compromise.
+
+The using of this method for a document in which there are no digital signatures will return `True`.
 
 ```csharp
 public bool Check(out CompromiseCheckResult compromiseCheckResult)
@@ -22,15 +27,10 @@ public bool Check(out CompromiseCheckResult compromiseCheckResult)
 
 True, if the compromise of the signatures is not detected.
 
-## Remarks
-
-The using of this method for a document in which there are no digital signatures will return `True`.
-
 ### See Also
 
-* class [CompromiseCheckResult](../../../aspose.pdf.signatures/compromisecheckresult/)
-* class [SignaturesCompromiseDetector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CompromiseCheckResult](../../../aspose.pdf.signatures/compromisecheckresult/)
+* class [SignaturesCompromiseDetector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

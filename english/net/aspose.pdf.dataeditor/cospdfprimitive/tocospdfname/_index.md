@@ -1,14 +1,17 @@
 ---
-title: CosPdfPrimitive.ToCosPdfName
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfPrimitive method. Tries cast this instance to CosPdfName
+title: "CosPdfPrimitive.ToCosPdfName"
+linktitle: "ToCosPdfName"
+articleTitle: "ToCosPdfName"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfPrimitive method. Tries cast this instance to CosPdfName."
 type: docs
-weight: 30
-url: /net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/
+weight: 20
+url: "/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/"
+product_version: "26.9.0"
 ---
 ## CosPdfPrimitive.ToCosPdfName method
 
-Tries cast this instance to [`CosPdfName`](../../cospdfname/).
+Tries cast this instance to [`CosPdfName`](../../../aspose.pdf.dataeditor/cospdfname/).
 
 ```csharp
 public virtual CosPdfName ToCosPdfName()
@@ -16,13 +19,12 @@ public virtual CosPdfName ToCosPdfName()
 
 ### Return Value
 
-null if instance is not [`CosPdfName`](../../cospdfname/) else [`CosPdfName`](../../cospdfname/).
+null if instance is not [`CosPdfName`](../../../aspose.pdf.dataeditor/cospdfname/) else [`CosPdfName`](../../../aspose.pdf.dataeditor/cospdfname/).
 
 ### See Also
 
-* class [CosPdfName](../../cospdfname/)
-* class [CosPdfPrimitive](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CosPdfName](../../../aspose.pdf.dataeditor/cospdfname/)
+* class [CosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

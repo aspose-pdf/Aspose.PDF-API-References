@@ -1,10 +1,13 @@
 ---
-title: TextSegment.TextSegment
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegment constructor. Creates TextSegment object
+title: "TextSegment.TextSegment"
+linktitle: "TextSegment"
+articleTitle: "TextSegment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextSegment constructor. Creates TextSegment object."
 type: docs
 weight: 10
-url: /net/aspose.pdf.text/textsegment/textsegment/
+url: "/net/aspose.pdf.text/textsegment/textsegment/"
+product_version: "26.9.0"
 ---
 ## TextSegment() {#constructor}
 
@@ -50,9 +53,9 @@ doc.Save(outFile);
 
 ### See Also
 
-* class [TextSegment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -103,8 +106,7 @@ doc.Save(outFile);
 
 ### See Also
 
-* class [TextSegment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

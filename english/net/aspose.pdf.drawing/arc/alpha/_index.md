@@ -1,10 +1,13 @@
 ---
-title: Arc.Alpha
-second_title: Aspose.PDF for .NET API Reference
-description: Arc property. Gets or sets a float value that indicates the beginning angle degree of the arc
+title: "Arc.Alpha"
+linktitle: "Alpha"
+articleTitle: "Alpha"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Arc property. Gets or sets a float value that indicates the beginning angle degree of the arc."
 type: docs
-weight: 20
-url: /net/aspose.pdf.drawing/arc/alpha/
+weight: 60
+url: "/net/aspose.pdf.drawing/arc/alpha/"
+product_version: "26.9.0"
 ---
 ## Arc.Alpha property
 
@@ -16,8 +19,7 @@ public double Alpha { get; set; }
 
 ### See Also
 
-* class [Arc](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Arc](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 

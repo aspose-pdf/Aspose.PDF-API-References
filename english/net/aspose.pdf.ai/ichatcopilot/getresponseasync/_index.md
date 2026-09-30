@@ -1,37 +1,15 @@
 ---
-title: IChatCopilot.GetResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IChatCopilot method. Asynchronously gets a response for the given message
+title: "IChatCopilot.GetResponseAsync"
+linktitle: "GetResponseAsync"
+articleTitle: "GetResponseAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IChatCopilot method. Asynchronously gets a response for the given message."
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/ichatcopilot/getresponseasync/
+weight: 10
+url: "/net/aspose.pdf.ai/ichatcopilot/getresponseasync/"
+product_version: "26.9.0"
 ---
-## GetResponseAsync(string, CancellationToken?) {#getresponseasync_1}
-
-Asynchronously gets a response for the given message.
-
-```csharp
-public Task<string> GetResponseAsync(string message, CancellationToken? cancellationToken = default)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| message | String | The input message for which a response is requested. |
-| cancellationToken | Nullable`1 | The cancellation token (optional). |
-
-### Return Value
-
-A task representing the asynchronous operation with the response string.
-
-### See Also
-
-* interface [IChatCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## GetResponseAsync(List&lt;string&gt;, CancellationToken?) {#getresponseasync}
+## GetResponseAsync(List<string>, CancellationToken?) {#getresponseasync}
 
 Asynchronously gets a response for the given list of messages.
 
@@ -51,8 +29,32 @@ A task representing the asynchronous operation with the response string.
 
 ### See Also
 
-* interface [IChatCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* interface [IChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## GetResponseAsync(string, CancellationToken?) {#getresponseasync_1}
+
+Asynchronously gets a response for the given message.
+
+```csharp
+public Task<string> GetResponseAsync(string message, CancellationToken? cancellationToken = default)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| message | String | The input message for which a response is requested. |
+| cancellationToken | Nullable`1 | The cancellation token (optional). |
+
+### Return Value
+
+A task representing the asynchronous operation with the response string.
+
+### See Also
+
+* interface [IChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

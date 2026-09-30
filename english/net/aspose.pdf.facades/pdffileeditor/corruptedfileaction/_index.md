@@ -1,14 +1,18 @@
 ---
-title: PdfFileEditor.CorruptedFileAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor property. This property defines behavior when concatenating process met corrupted file. Possible values are StopWithError and ConcatenateIgnoringCorrupted
+title: "PdfFileEditor.CorruptedFileAction"
+linktitle: "CorruptedFileAction"
+articleTitle: "CorruptedFileAction"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. This property defines behavior when concatenating process met corrupted file. Possible values are: StopWithError and ConcatenateIgnor..."
 type: docs
-weight: 80
-url: /net/aspose.pdf.facades/pdffileeditor/corruptedfileaction/
+weight: 1110
+url: "/net/aspose.pdf.facades/pdffileeditor/corruptedfileaction/"
+product_version: "26.9.0"
 ---
 ## PdfFileEditor.CorruptedFileAction property
 
-This property defines behavior when concatenating process met corrupted file. Possible values are: StopWithError and ConcatenateIgnoringCorrupted.
+This property defines behavior when concatenating process met corrupted file.
+ Possible values are: StopWithError and ConcatenateIgnoringCorrupted.
 
 ```csharp
 public ConcatenateCorruptedFileAction CorruptedFileAction { get; set; }
@@ -16,9 +20,7 @@ public ConcatenateCorruptedFileAction CorruptedFileAction { get; set; }
 
 ### See Also
 
-* enum [ConcatenateCorruptedFileAction](../../pdffileeditor.concatenatecorruptedfileaction/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

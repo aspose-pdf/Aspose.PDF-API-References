@@ -1,10 +1,13 @@
 ---
-title: Stamp.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp property. Gets or sets rotation of the stamp in degrees
+title: "Stamp.Rotation"
+linktitle: "Rotation"
+articleTitle: "Rotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Gets or sets rotation of the stamp in degrees."
 type: docs
-weight: 80
-url: /net/aspose.pdf.facades/stamp/rotation/
+weight: 150
+url: "/net/aspose.pdf.facades/stamp/rotation/"
+product_version: "26.9.0"
 ---
 ## Stamp.Rotation property
 
@@ -27,8 +30,7 @@ fileStamp.Close();
 
 ### See Also
 
-* class [Stamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

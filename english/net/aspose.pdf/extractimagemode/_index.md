@@ -1,10 +1,13 @@
 ---
-title: Enum ExtractImageMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ExtractImageMode enum. Defines different modes which can be used while extracting images from documents
+title: "ExtractImageMode Enum"
+linktitle: "ExtractImageMode"
+articleTitle: "ExtractImageMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ExtractImageMode enum. Defines different modes which can be used while extracting images from documents."
 type: docs
-weight: 4290
-url: /net/aspose.pdf/extractimagemode/
+weight: 830
+url: "/net/aspose.pdf/extractimagemode/"
+product_version: "26.9.0"
 ---
 ## ExtractImageMode enumeration
 
@@ -23,7 +26,6 @@ public enum ExtractImageMode
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

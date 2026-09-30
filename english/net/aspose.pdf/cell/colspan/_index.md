@@ -1,10 +1,13 @@
 ---
-title: Cell.ColSpan
-second_title: Aspose.PDF for .NET API Reference
-description: Cell property. Gets or sets the column span
+title: "Cell.ColSpan"
+linktitle: "ColSpan"
+articleTitle: "ColSpan"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Cell property. Gets or sets the column span."
 type: docs
-weight: 60
-url: /net/aspose.pdf/cell/colspan/
+weight: 150
+url: "/net/aspose.pdf/cell/colspan/"
+product_version: "26.9.0"
 ---
 ## Cell.ColSpan property
 
@@ -16,8 +19,7 @@ public int ColSpan { get; set; }
 
 ### See Also
 
-* class [Cell](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

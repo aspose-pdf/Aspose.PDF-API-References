@@ -1,10 +1,13 @@
 ---
-title: Enum PrinterMarksKind
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PrinterMarksKind enum. Specifies the types of printers marks to be added to a document
+title: "PrinterMarksKind Enum"
+linktitle: "PrinterMarksKind"
+articleTitle: "PrinterMarksKind"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PrinterMarksKind enum. Specifies the types of printer's marks to be added to a document."
 type: docs
-weight: 2470
-url: /net/aspose.pdf.annotations/printermarkskind/
+weight: 1000
+url: "/net/aspose.pdf.annotations/printermarkskind/"
+product_version: "26.9.0"
 ---
 ## PrinterMarksKind enumeration
 
@@ -24,16 +27,15 @@ public enum PrinterMarksKind
 | BleedMarks | `2` | Specifies that bleed marks are to be added. |
 | RegistrationMarks | `4` | Specifies that registration marks are to be added. |
 | ColorBars | `8` | Specifies that color bars are to be added. |
-| PageInformation | `10` | Specifies that page information is to be added. |
-| All | `1F` | Specifies that all types of printer's marks are to be added. |
+| PageInformation | `16` | Specifies that page information is to be added. |
+| All | `31` | Specifies that all types of printer's marks are to be added. |
 
 ## Remarks
 
-This enumeration has a FlagsAttribute attribute that allows a bitwise combination of its member values.
+This enumeration has a `FlagsAttribute` attribute that allows a bitwise combination of its member values.
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

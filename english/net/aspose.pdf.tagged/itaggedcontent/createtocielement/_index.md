@@ -1,10 +1,13 @@
 ---
-title: ITaggedContent.CreateTOCIElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent method. Creates TOCIElement
+title: "ITaggedContent.CreateTOCIElement"
+linktitle: "CreateTOCIElement"
+articleTitle: "CreateTOCIElement"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Creates TOCIElement."
 type: docs
-weight: 390
-url: /net/aspose.pdf.tagged/itaggedcontent/createtocielement/
+weight: 100
+url: "/net/aspose.pdf.tagged/itaggedcontent/createtocielement/"
+product_version: "26.9.0"
 ---
 ## ITaggedContent.CreateTOCIElement method
 
@@ -20,9 +23,8 @@ Created structure element.
 
 ### See Also
 
-* class [TOCIElement](../../../aspose.pdf.logicalstructure/tocielement/)
-* interface [ITaggedContent](../)
-* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TOCIElement](../../../aspose.pdf.logicalstructure/tocielement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
 

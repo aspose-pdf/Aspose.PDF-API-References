@@ -1,14 +1,19 @@
 ---
-title: Enum TextReplaceOptions.Scope
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextReplaceOptionsScope enum. Scope where replace text operation is applied REPLACE_FIRST by default This obsolete option was kept for compatibility. It affects to PdfContentEditor and has no effect to TextFragmentAbsorber
+title: "TextReplaceOptions.Scope Enum"
+linktitle: "TextReplaceOptions.Scope"
+articleTitle: "TextReplaceOptions.Scope"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextReplaceOptions.Scope enum. Scope where replace text operation is applied REPLACE_FIRST by default This obsolete option was kept for compa..."
 type: docs
-weight: 11440
-url: /net/aspose.pdf.text/textreplaceoptions.scope/
+weight: 650
+url: "/net/aspose.pdf.text/textreplaceoptions.scope/"
+product_version: "26.9.0"
 ---
 ## TextReplaceOptions.Scope enumeration
 
-Scope where replace text operation is applied REPLACE_FIRST by default This obsolete option was kept for compatibility. It affects to PdfContentEditor and has no effect to TextFragmentAbsorber.
+Scope where replace text operation is applied 
+ REPLACE_FIRST by default
+ This obsolete option was kept for compatibility. It affects to PdfContentEditor and has no effect to TextFragmentAbsorber.
 
 ```csharp
 public enum Scope
@@ -23,8 +28,7 @@ public enum Scope
 
 ### See Also
 
-* class [TextReplaceOptions](../textreplaceoptions/)
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* class [TextReplaceOptions](../textreplaceoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

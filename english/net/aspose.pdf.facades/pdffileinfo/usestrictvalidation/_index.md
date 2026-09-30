@@ -1,14 +1,17 @@
 ---
-title: PdfFileInfo.UseStrictValidation
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo property. Uses strict validation rules via using IsPdfFile property
+title: "PdfFileInfo.UseStrictValidation"
+linktitle: "UseStrictValidation"
+articleTitle: "UseStrictValidation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo property. Uses strict validation rules via using IsPdfFile property."
 type: docs
-weight: 180
-url: /net/aspose.pdf.facades/pdffileinfo/usestrictvalidation/
+weight: 280
+url: "/net/aspose.pdf.facades/pdffileinfo/usestrictvalidation/"
+product_version: "26.9.0"
 ---
 ## PdfFileInfo.UseStrictValidation property
 
-Uses strict validation rules via using [`IsPdfFile`](../ispdffile/) property.
+Uses strict validation rules via using `IsPdfFile` property.
 
 ```csharp
 public bool UseStrictValidation { get; set; }
@@ -16,8 +19,7 @@ public bool UseStrictValidation { get; set; }
 
 ### See Also
 
-* class [PdfFileInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: CompressOptions.CompressOptions
-second_title: Aspose.PDF for .NET API Reference
-description: CompressOptions constructor. The default constructor
+title: "CompressOptions.CompressOptions"
+linktitle: "CompressOptions"
+articleTitle: "CompressOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompressOptions constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/compressoptions/compressoptions/
+url: "/net/aspose.pdf.lowcode/compressoptions/compressoptions/"
+product_version: "26.9.0"
 ---
 ## CompressOptions constructor
 
@@ -16,8 +19,7 @@ public CompressOptions()
 
 ### See Also
 
-* class [CompressOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CompressOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

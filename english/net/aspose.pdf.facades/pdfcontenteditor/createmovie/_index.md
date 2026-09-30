@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.CreateMovie
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates Movie Annotations
+title: "PdfContentEditor.CreateMovie"
+linktitle: "CreateMovie"
+articleTitle: "CreateMovie"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates Movie Annotations."
 type: docs
-weight: 210
-url: /net/aspose.pdf.facades/pdfcontenteditor/createmovie/
+weight: 510
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createmovie/"
+product_version: "26.9.0"
 ---
 ## PdfContentEditor.CreateMovie method
 
@@ -22,8 +25,8 @@ public void CreateMovie(Rectangle rect, string filePath, int page)
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

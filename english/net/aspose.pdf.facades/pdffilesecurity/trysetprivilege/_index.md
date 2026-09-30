@@ -1,14 +1,18 @@
 ---
-title: PdfFileSecurity.TrySetPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity method. Sets Pdf file security with original password. Does not throw an exception if process failed
+title: "PdfFileSecurity.TrySetPrivilege"
+linktitle: "TrySetPrivilege"
+articleTitle: "TrySetPrivilege"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSecurity method. Sets Pdf file security with original password. Does not throw an exception if process failed."
 type: docs
-weight: 120
-url: /net/aspose.pdf.facades/pdffilesecurity/trysetprivilege/
+weight: 100
+url: "/net/aspose.pdf.facades/pdffilesecurity/trysetprivilege/"
+product_version: "26.9.0"
 ---
 ## PdfFileSecurity.TrySetPrivilege method
 
-Sets Pdf file security with original password. Does not throw an exception if process failed.
+Sets Pdf file security with original password.
+ Does not throw an exception if process failed.
 
 ```csharp
 public bool TrySetPrivilege(string userPassword, string ownerPassword, DocumentPrivilege privilege)
@@ -42,9 +46,8 @@ Dim result As Boolean = fileSecurity.TrySetPrivilege(userPassword, ownerPassword
 
 ### See Also
 
-* class [DocumentPrivilege](../../documentprivilege/)
-* class [PdfFileSecurity](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

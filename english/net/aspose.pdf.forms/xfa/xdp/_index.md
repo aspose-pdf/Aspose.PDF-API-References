@@ -1,10 +1,13 @@
 ---
-title: XFA.XDP
-second_title: Aspose.PDF for .NET API Reference
-description: XFA property. XML Data Package all XFA form components within a surrounding XML container
+title: "XFA.XDP"
+linktitle: "XDP"
+articleTitle: "XDP"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFA property. XML Data Package (all XFA form components within a surrounding XML container)."
 type: docs
 weight: 80
-url: /net/aspose.pdf.forms/xfa/xdp/
+url: "/net/aspose.pdf.forms/xfa/xdp/"
+product_version: "26.9.0"
 ---
 ## XFA.XDP property
 
@@ -16,8 +19,7 @@ public XmlDocument XDP { get; }
 
 ### See Also
 
-* class [XFA](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

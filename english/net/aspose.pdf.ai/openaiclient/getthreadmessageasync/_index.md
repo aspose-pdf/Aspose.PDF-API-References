@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.GetThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Retrieves details of a specific message within a thread asynchronously
+title: "OpenAIClient.GetThreadMessageAsync"
+linktitle: "GetThreadMessageAsync"
+articleTitle: "GetThreadMessageAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Retrieves details of a specific message within a thread asynchronously."
 type: docs
-weight: 320
-url: /net/aspose.pdf.ai/openaiclient/getthreadmessageasync/
+weight: 300
+url: "/net/aspose.pdf.ai/openaiclient/getthreadmessageasync/"
+product_version: "26.9.0"
 ---
 ## OpenAIClient.GetThreadMessageAsync method
 
@@ -29,14 +32,12 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Thrown when the thread Id is null or empty. |
-| [AIClientException](../../aiclientexception/) | Thrown when the thread message Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread message Id is null or empty. |
 
 ### See Also
 
-* class [ThreadMessageResponse](../../threadmessageresponse/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ITeXInputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: ITeXInputDirectory method. Returns the stream to read from or to write to
+title: "ITeXInputDirectory.GetFile"
+linktitle: "GetFile"
+articleTitle: "GetFile"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITeXInputDirectory method. Returns the stream to read from or to write to."
 type: docs
 weight: 10
-url: /net/aspose.pdf/itexinputdirectory/getfile/
+url: "/net/aspose.pdf/itexinputdirectory/getfile/"
+product_version: "26.9.0"
 ---
 ## ITeXInputDirectory.GetFile method
 
@@ -26,8 +29,7 @@ The stream.
 
 ### See Also
 
-* interface [ITeXInputDirectory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [ITeXInputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

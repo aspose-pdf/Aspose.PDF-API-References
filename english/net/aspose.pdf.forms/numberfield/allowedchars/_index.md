@@ -1,10 +1,13 @@
 ---
-title: NumberField.AllowedChars
-second_title: Aspose.PDF for .NET API Reference
-description: NumberField property. Gets or sets the allowed chars
+title: "NumberField.AllowedChars"
+linktitle: "AllowedChars"
+articleTitle: "AllowedChars"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NumberField property. Gets or sets the allowed chars."
 type: docs
-weight: 20
-url: /net/aspose.pdf.forms/numberfield/allowedchars/
+weight: 40
+url: "/net/aspose.pdf.forms/numberfield/allowedchars/"
+product_version: "26.9.0"
 ---
 ## NumberField.AllowedChars property
 
@@ -20,8 +23,7 @@ The allowed chars string. 0123456789 by default
 
 ### See Also
 
-* class [NumberField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [NumberField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

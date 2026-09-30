@@ -1,10 +1,13 @@
 ---
-title: CustomPrintEventArgs.PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: CustomPrintEventArgs field. Gets information about the printer the document should be printed on
+title: "CustomPrintEventArgs.PrinterSettings"
+linktitle: "PrinterSettings"
+articleTitle: "PrinterSettings"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CustomPrintEventArgs field. Gets information about the printer the document should be printed on."
 type: docs
-weight: 40
-url: /net/aspose.pdf.printing/customprinteventargs/printersettings/
+weight: 30
+url: "/net/aspose.pdf.printing/customprinteventargs/printersettings/"
+product_version: "26.9.0"
 ---
 ## CustomPrintEventArgs.PrinterSettings field
 
@@ -16,9 +19,8 @@ public readonly PrinterSettings PrinterSettings;
 
 ### See Also
 
-* class [PrinterSettings](../../printersettings/)
-* class [CustomPrintEventArgs](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [CustomPrintEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

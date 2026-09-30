@@ -1,10 +1,13 @@
 ---
-title: XmpValue.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue method. Returns string representation of XmpValue
+title: "XmpValue.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue method. Returns string representation of XmpValue."
 type: docs
-weight: 210
-url: /net/aspose.pdf/xmpvalue/tostring/
+weight: 170
+url: "/net/aspose.pdf/xmpvalue/tostring/"
+product_version: "26.9.0"
 ---
 ## ToString() {#tostring}
 
@@ -20,9 +23,9 @@ String representation.
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -44,8 +47,7 @@ String representation.
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

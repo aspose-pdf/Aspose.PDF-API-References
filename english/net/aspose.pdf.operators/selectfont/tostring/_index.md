@@ -1,10 +1,13 @@
 ---
-title: SelectFont.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SelectFont method. Returns text representation of operator
+title: "SelectFont.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SelectFont method. Returns text representation of operator."
 type: docs
-weight: 50
-url: /net/aspose.pdf.operators/selectfont/tostring/
+weight: 30
+url: "/net/aspose.pdf.operators/selectfont/tostring/"
+product_version: "26.9.0"
 ---
 ## SelectFont.ToString method
 
@@ -20,8 +23,7 @@ Text representation of operator.
 
 ### See Also
 
-* class [SelectFont](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SelectFont](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

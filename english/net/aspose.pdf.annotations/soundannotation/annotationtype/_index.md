@@ -1,10 +1,13 @@
 ---
-title: SoundAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: SoundAnnotation property. Gets type of annotation
+title: "SoundAnnotation.AnnotationType"
+linktitle: "AnnotationType"
+articleTitle: "AnnotationType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SoundAnnotation property. Gets type of annotation."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/soundannotation/annotationtype/
+weight: 60
+url: "/net/aspose.pdf.annotations/soundannotation/annotationtype/"
+product_version: "26.9.0"
 ---
 ## SoundAnnotation.AnnotationType property
 
@@ -16,9 +19,8 @@ public override AnnotationType AnnotationType { get; }
 
 ### See Also
 
-* enum [AnnotationType](../../annotationtype/)
-* class [SoundAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [SoundAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

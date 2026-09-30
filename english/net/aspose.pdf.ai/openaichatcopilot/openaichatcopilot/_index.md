@@ -1,14 +1,17 @@
 ---
-title: OpenAIChatCopilot.OpenAIChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilot constructor. Initializes a new instance of the OpenAIChatCopilot class with the specified client and options
+title: "OpenAIChatCopilot.OpenAIChatCopilot"
+linktitle: "OpenAIChatCopilot"
+articleTitle: "OpenAIChatCopilot"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIChatCopilot constructor. Initializes a new instance of the OpenAIChatCopilot class with the specified client and options."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/openaichatcopilot/openaichatcopilot/
+url: "/net/aspose.pdf.ai/openaichatcopilot/openaichatcopilot/"
+product_version: "26.9.0"
 ---
 ## OpenAIChatCopilot constructor
 
-Initializes a new instance of the [`OpenAIChatCopilot`](../) class with the specified client and options.
+Initializes a new instance of the [`OpenAIChatCopilot`](../../../aspose.pdf.ai/openaichatcopilot/) class with the specified client and options.
 
 ```csharp
 public OpenAIChatCopilot(IOpenAIClient client, 
@@ -22,11 +25,8 @@ public OpenAIChatCopilot(IOpenAIClient client,
 
 ### See Also
 
-* interface [IOpenAIClient](../../iopenaiclient/)
-* interface [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
-* class [OpenAIChatCopilotOptions](../../openaichatcopilotoptions/)
-* class [OpenAIChatCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOpenAIClient](../../../aspose.pdf.ai/iopenaiclient/)
+* class [OpenAIChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

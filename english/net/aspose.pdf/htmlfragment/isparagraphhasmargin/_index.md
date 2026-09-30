@@ -1,10 +1,13 @@
 ---
-title: HtmlFragment.IsParagraphHasMargin
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlFragment property. Gets or sets is paragraph has default margin otherwise margin is 0
+title: "HtmlFragment.IsParagraphHasMargin"
+linktitle: "IsParagraphHasMargin"
+articleTitle: "IsParagraphHasMargin"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlFragment property. Gets or sets is paragraph has default margin otherwise margin is 0"
 type: docs
 weight: 40
-url: /net/aspose.pdf/htmlfragment/isparagraphhasmargin/
+url: "/net/aspose.pdf/htmlfragment/isparagraphhasmargin/"
+product_version: "26.9.0"
 ---
 ## HtmlFragment.IsParagraphHasMargin property
 
@@ -16,8 +19,7 @@ public bool IsParagraphHasMargin { get; set; }
 
 ### See Also
 
-* class [HtmlFragment](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

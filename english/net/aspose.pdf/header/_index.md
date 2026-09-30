@@ -1,10 +1,14 @@
 ---
-title: Class Header
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Header class. Represents the header settings
+title: "Header Class"
+linktitle: "Header"
+articleTitle: "Header"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Header class. Represents the header settings."
 type: docs
-weight: 5540
-url: /net/aspose.pdf/header/
+weight: 1020
+url: "/net/aspose.pdf/header/"
+keywords: "Header, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## Header class
 
@@ -18,20 +22,19 @@ public sealed class Header : HorizontalAlignment
 
 | Name | Description |
 | --- | --- |
-| [Header](header/)() | The default constructor. |
+| [Header](./header/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | Gets or sets the center alignment settings. |
-| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | Gets or sets the left alignment settings. |
-| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | Gets or sets the right alignment settings. |
+| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center/) { get; set; } | Gets or sets the center alignment settings. |
+| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left/) { get; set; } | Gets or sets the left alignment settings. |
+| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right/) { get; set; } | Gets or sets the right alignment settings. |
 
 ### See Also
 
-* class [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class JavaScriptCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.JavaScriptCollection class. This class represents collection of JavaScript
+title: "JavaScriptCollection Class"
+linktitle: "JavaScriptCollection"
+articleTitle: "JavaScriptCollection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.JavaScriptCollection class. This class represents collection of JavaScript."
 type: docs
-weight: 6180
-url: /net/aspose.pdf/javascriptcollection/
+weight: 1660
+url: "/net/aspose.pdf/javascriptcollection/"
+keywords: "JavaScriptCollection, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## JavaScriptCollection class
 
@@ -18,18 +22,17 @@ public class JavaScriptCollection
 
 | Name | Description |
 | --- | --- |
-| [Item](../../aspose.pdf/javascriptcollection/item/) { get; set; } | Gets or sets JavaScript from collection by its key. |
-| [Keys](../../aspose.pdf/javascriptcollection/keys/) { get; } | List of keys in JavaScript collection. |
+| [Item](./item/) { get; set; } | Gets or sets JavaScript from collection by its key. |
+| [Keys](./keys/) { get; } | List of keys in JavaScript collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Remove](../../aspose.pdf/javascriptcollection/remove/)(string) | Removes JavaScript by its name. |
+| [Remove](./remove/)(string) | Removes JavaScript by its name. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

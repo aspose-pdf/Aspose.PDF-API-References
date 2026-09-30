@@ -1,10 +1,13 @@
 ---
-title: CharInfoCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: CharInfoCollection method. Determines whether the collection contains a specific value
+title: "CharInfoCollection.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CharInfoCollection method. Determines whether the collection contains a specific value."
 type: docs
-weight: 80
-url: /net/aspose.pdf.text/charinfocollection/contains/
+weight: 50
+url: "/net/aspose.pdf.text/charinfocollection/contains/"
+product_version: "26.9.0"
 ---
 ## CharInfoCollection.Contains method
 
@@ -24,9 +27,8 @@ true if item is found in the collection; otherwise, false.
 
 ### See Also
 
-* class [CharInfo](../../charinfo/)
-* class [CharInfoCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CharInfo](../../../aspose.pdf.text/charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

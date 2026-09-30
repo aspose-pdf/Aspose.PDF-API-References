@@ -1,10 +1,13 @@
 ---
-title: PaperSizes.BPlus
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. SuperB/SuperB/A3 paper 305 mm by 487 mm
+title: "PaperSizes.BPlus"
+linktitle: "BPlus"
+articleTitle: "BPlus"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. SuperB/SuperB/A3 paper (305 mm by 487 mm)."
 type: docs
-weight: 310
-url: /net/aspose.pdf.printing/papersizes/bplus/
+weight: 560
+url: "/net/aspose.pdf.printing/papersizes/bplus/"
+product_version: "26.9.0"
 ---
 ## PaperSizes.BPlus field
 
@@ -16,9 +19,8 @@ public static readonly PaperSize BPlus;
 
 ### See Also
 
-* class [PaperSize](../../papersize/)
-* class [PaperSizes](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

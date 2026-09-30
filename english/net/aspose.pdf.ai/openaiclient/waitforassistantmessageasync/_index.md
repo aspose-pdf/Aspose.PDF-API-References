@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.WaitForAssistantMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Waits for the first message from the assistant within a thread asynchronously
+title: "OpenAIClient.WaitForAssistantMessageAsync"
+linktitle: "WaitForAssistantMessageAsync"
+articleTitle: "WaitForAssistantMessageAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Waits for the first message from the assistant within a thread asynchronously."
 type: docs
-weight: 470
-url: /net/aspose.pdf.ai/openaiclient/waitforassistantmessageasync/
+weight: 340
+url: "/net/aspose.pdf.ai/openaiclient/waitforassistantmessageasync/"
+product_version: "26.9.0"
 ---
 ## OpenAIClient.WaitForAssistantMessageAsync method
 
@@ -30,14 +33,12 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Thrown when the thread Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread Id is null or empty. |
 
 ### See Also
 
-* class [ThreadMessageResponse](../../threadmessageresponse/)
-* class [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ThreadMessageListQueryParameters](../../../aspose.pdf.ai/threadmessagelistqueryparameters/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

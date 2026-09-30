@@ -1,14 +1,18 @@
 ---
-title: FileSpecification.GetFileName
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification method. Gets the file name using the available file specification names the specified fallback name or a generated name if no other name is available
+title: "FileSpecification.GetFileName"
+linktitle: "GetFileName"
+articleTitle: "GetFileName"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification method. Gets the file name using the available file specification names, the specified fallback name, or a generated name if no other name ..."
 type: docs
-weight: 160
-url: /net/aspose.pdf/filespecification/getfilename/
+weight: 100
+url: "/net/aspose.pdf/filespecification/getfilename/"
+product_version: "26.9.0"
 ---
 ## FileSpecification.GetFileName method
 
-Gets the file name using the available file specification names, the specified fallback name, or a generated name if no other name is available.
+Gets the file name using the available file specification names, the specified fallback name,
+ or a generated name if no other name is available.
 
 ```csharp
 public string GetFileName(string fallbackName = null, bool allowEmptyName = false)
@@ -25,8 +29,7 @@ The resolved file name.
 
 ### See Also
 
-* class [FileSpecification](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

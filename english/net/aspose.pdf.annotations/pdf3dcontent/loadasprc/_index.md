@@ -1,28 +1,31 @@
 ---
-title: PDF3DContent.LoadAsPRC
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DContent method. Loads 3D content with the specified filename as PRC format
+title: "PDF3DContent.LoadAsPRC"
+linktitle: "LoadAsPRC"
+articleTitle: "LoadAsPRC"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DContent method. Loads 3D content with the specified filename as PRC format."
 type: docs
-weight: 60
-url: /net/aspose.pdf.annotations/pdf3dcontent/loadasprc/
+weight: 40
+url: "/net/aspose.pdf.annotations/pdf3dcontent/loadasprc/"
+product_version: "26.9.0"
 ---
-## LoadAsPRC(string) {#loadasprc_2}
+## LoadAsPRC(byte[]) {#loadasprc}
 
-Loads 3D content with the specified filename as PRC format.
+Loads 3D content from byte array as PRC format.
 
 ```csharp
-public void LoadAsPRC(string filename)
+public void LoadAsPRC(byte[] stream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | String | The filename. |
+| stream | Byte[] | The stream. |
 
 ### See Also
 
-* class [PDF3DContent](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,28 +43,27 @@ public void LoadAsPRC(Stream stream)
 
 ### See Also
 
-* class [PDF3DContent](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## LoadAsPRC(byte[]) {#loadasprc}
+## LoadAsPRC(string) {#loadasprc_2}
 
-Loads 3D content from byte array as PRC format.
+Loads 3D content with the specified filename as PRC format.
 
 ```csharp
-public void LoadAsPRC(byte[] stream)
+public void LoadAsPRC(string filename)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | Byte[] | The stream. |
+| filename | String | The filename. |
 
 ### See Also
 
-* class [PDF3DContent](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

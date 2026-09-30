@@ -1,10 +1,13 @@
 ---
-title: Paragraphs.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphs method. Clear paragraphs
+title: "Paragraphs.Clear"
+linktitle: "Clear"
+articleTitle: "Clear"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Paragraphs method. Clear paragraphs."
 type: docs
-weight: 50
-url: /net/aspose.pdf/paragraphs/clear/
+weight: 70
+url: "/net/aspose.pdf/paragraphs/clear/"
+product_version: "26.9.0"
 ---
 ## Paragraphs.Clear method
 
@@ -16,8 +19,7 @@ public void Clear()
 
 ### See Also
 
-* class [Paragraphs](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

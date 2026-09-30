@@ -1,12 +1,20 @@
 ---
-title: Aspose.Pdf.AI
-second_title: Aspose.PDF for .NET API Reference
-description: The Aspose.Pdf.AI namespace provides classes for AI functionalities including API clients and intelligent assistants
+title: "Aspose.Pdf.AI"
+linktitle: "Aspose.Pdf.AI"
+articleTitle: "Aspose.Pdf.AI"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "The Aspose.Pdf.AI namespace provides classes."
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/
+weight: 10
+url: "/net/aspose.pdf.ai/"
+keywords: "Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
-The **Aspose.Pdf.AI** namespace provides classes for AI functionalities, including API clients and intelligent assistants.
+## Overview
+
+The **Aspose.Pdf.AI** namespace provides classes.
+
+Part of the [Aspose.PDF for .NET](../) API reference.
 
 ## Classes
 
@@ -39,7 +47,7 @@ The **Aspose.Pdf.AI** namespace provides classes for AI functionalities, includi
 | [CreateEmbeddingResponse](./createembeddingresponse/) | Represents a response from the Create Embeddings endpoint. |
 | [CreateFineTuningJobRequest](./createfinetuningjobrequest/) | Represents a request for the Create Fine-Tuning Job endpoint. |
 | [CreateFineTuningJobResponse](./createfinetuningjobresponse/) | Represents a response from the Create Fine-Tuning Job endpoint. |
-| [DataResponse&lt;T&gt;](./dataresponse-1/) | Represents a data response containing the specified data. |
+| [DataResponse<T>](./dataresponse-1/) | Represents a data response containing the specified data. |
 | [DeleteStatusResponse](./deletestatusresponse/) | Represents the status of an object deletion. |
 | [DocumentChunk](./documentchunk/) | Represents a single chunk of content extracted from a document. |
 | [DocumentCollection](./documentcollection/) | Represents a collection of documents to be processed. |
@@ -48,7 +56,7 @@ The **Aspose.Pdf.AI** namespace provides classes for AI functionalities, includi
 | [Error](./error/) | Represents an error in the API response. |
 | [ExpiresAfter](./expiresafter/) | Represents the expiration policy for a vector store. |
 | [FileCitation](./filecitation/) | Represents the file citation. |
-| [FileContentResponse&lt;T&gt;](./filecontentresponse-1/) |  |
+| [FileContentResponse<T>](./filecontentresponse-1/) |  |
 | [FileCounts](./filecounts/) |  |
 | [FileListResponse](./filelistresponse/) | Represents a file list response containing a list of file responses. |
 | [FileResponse](./fileresponse/) | The FileResponse object represents a document that has been uploaded to OpenAI. |
@@ -61,13 +69,14 @@ The **Aspose.Pdf.AI** namespace provides classes for AI functionalities, includi
 | [ImageUrl](./imageurl/) | Represents an image URL in the content of a message. |
 | [IncompleteDetails](./incompletedetails/) | Details on why the run is incomplete. Will be null if the run is not incomplete. |
 | [LastError](./lasterror/) | The last error associated with this run. Will be null if there are no errors. |
-| [ListDataResponse&lt;T&gt;](./listdataresponse-1/) | Represents a list data response containing additional information such as first and last IDs and whether there are more items. |
+| [ListDataResponse<T>](./listdataresponse-1/) | Represents a list data response containing additional information such as first and last IDs and whether there are more items. |
 | [LlamaChatCompletionRequest](./llamachatcompletionrequest/) | Represents the request body for the ChatGPT API requests. |
 | [LlamaChatCompletionResponse](./llamachatcompletionresponse/) | Represents a chat completion response returned by model, based on the provided input. |
 | [LlamaClient](./llamaclient/) | Represents a client for interacting with the Llama API. |
+| [LlamaClient.Builder](./llamaclient.builder/) | Builder class for creating an instance of [`LlamaClient`](../aspose.pdf.ai/llamaclient/). |
 | [LlamaCopilotOptionsBase](./llamacopilotoptionsbase/) | Represents the base options for configuring the LlamaCopilot. |
 | [LlamaModels](./llamamodels/) | Contains constants related to different Llama models. |
-| [LlamaSummaryCopilot](./llamasummarycopilot/) | Provides functionality for getting document summaries using AI models. Example usage of creating an Llama client, configuring options, and using the summary copilot. Note: This copilot uses completion API, so the total amount of text that can be sent is limited by the model context window. |
+| [LlamaSummaryCopilot](./llamasummarycopilot/) | Provides functionality for getting document summaries using AI models. |
 | [LlamaSummaryCopilotOptions](./llamasummarycopilotoptions/) | Represents the options for configuring the OpenAICopilot. |
 | [Logprobs](./logprobs/) | Represents log probability information for a choice. |
 | [MessageContentBase](./messagecontentbase/) | The content of the message in array of text and/or images. |
@@ -76,22 +85,24 @@ The **Aspose.Pdf.AI** namespace provides classes for AI functionalities, includi
 | [MessageCreation](./messagecreation/) | Represents the creation of a message with its unique identifier. |
 | [OcrDetail](./ocrdetail/) | Represents the OCR result for a single page of a document or a single image file. |
 | [OpenAIAssistantCopilotOptionsBase](./openaiassistantcopilotoptionsbase/) | Represents the base options for configuring the OpenAICopilots based on Assistants API. |
-| [OpenAIChatCopilot](./openaichatcopilot/) | Represents a chat copilot for interacting with documents via AI models. Example usage of creating an OpenAI client, configuring options, and using the ChatCopilot to interact with user queries and manage conversation context. |
+| [OpenAIChatCopilot](./openaichatcopilot/) | Represents a chat copilot for interacting with documents via AI models. |
 | [OpenAIChatCopilotOptions](./openaichatcopilotoptions/) | Represents the options for configuring the OpenAICopilot. |
 | [OpenAIClient](./openaiclient/) | Provides methods to interact with the OpenAI API for managing vector store file batches. |
+| [OpenAIClient.Builder](./openaiclient.builder/) | Builder class for creating an instance of [`OpenAIClient`](../aspose.pdf.ai/openaiclient/). |
 | [OpenAIContext](./openaicontext/) | Represents the entity IDs related to an assistant. |
 | [OpenAICopilotOptionsBase](./openaicopilotoptionsbase/) | Represents the base options for configuring the OpenAICopilot. |
-| [OpenAIImageDescriptionCopilot](./openaiimagedescriptioncopilot/) | Provides image processing functionality for OpenAICopilot class. Example usage of creating an OpenAI client, configuration of ImageDescriptionCopilot options, and usage of the copilot to generate image descriptions and add descriptions to attached documents. |
+| [OpenAIImageDescriptionCopilot](./openaiimagedescriptioncopilot/) | Provides image processing functionality for OpenAICopilot class. |
 | [OpenAIImageDescriptionCopilotExtensions](./openaiimagedescriptioncopilotextensions/) | Provides extension methods for OpenAIImageDescriptionCopilot class. |
 | [OpenAIImageDescriptionCopilotOptions](./openaiimagedescriptioncopilotoptions/) | Represents the options for configuring the OpenAICopilot. |
 | [OpenAIModels](./openaimodels/) | Contains the available OpenAI model identifiers. |
-| [OpenAIOcrCopilot](./openaiocrcopilot/) | Provides OCR capabilities to extract text from PDF documents and images. The supported image types: PNG (.png), JPEG (.jpeg and .jpg), WEBP (.webp), non-animated GIF (.gif). Example usage of creating an OpenAI client, configuring options, and using the OCR copilot. |
+| [OpenAIOcrCopilot](./openaiocrcopilot/) | Provides OCR capabilities to extract text from PDF documents and images. The supported image types: PNG (.png), JPEG (.jpeg and .jpg), WEBP (.webp), non-animated GIF (.gif). |
 | [OpenAIOcrCopilotOptions](./openaiocrcopilotoptions/) | Represents the options for configuring the OpenAIOcrCopilot. |
-| [OpenAISummaryCopilot](./openaisummarycopilot/) | Provides functionality for getting document summaries using AI models. Example usage of creating an OpenAI client, configuring options, and using the summary copilot. |
+| [OpenAISummaryCopilot](./openaisummarycopilot/) | Provides functionality for getting document summaries using AI models. |
 | [OpenAISummaryCopilotOptions](./openaisummarycopilotoptions/) | Represents the options for configuring the OpenAICopilot. |
 | [PdfDocument](./pdfdocument/) | Represents a PDF document with a name. |
 | [RequiredAction](./requiredaction/) | Details on the action required to continue the run. Will be null if no action is required. |
 | [ResponseFormat](./responseformat/) | Represents the format of a response, which can be either a string value or an object value. |
+| [ResponseFormat.ObjectType](./responseformat.objecttype/) | Represents an object value in the response format. |
 | [RunCreateRequest](./runcreaterequest/) | Represents a request to create a run. |
 | [RunListQueryParameters](./runlistqueryparameters/) | Query parameters object for listing runs. |
 | [RunListResponse](./runlistresponse/) | Represents a list response containing run data. |
@@ -117,6 +128,7 @@ The **Aspose.Pdf.AI** namespace provides classes for AI functionalities, includi
 | [Tool](./tool/) | Represents a tool that can be called by the model. |
 | [ToolCall](./toolcall/) | Represents a tool call within a message. |
 | [ToolChoice](./toolchoice/) | Represents the ToolChoice, which can be either a string value or an object value. |
+| [ToolChoice.ObjectType](./toolchoice.objecttype/) | Represents an object value in the ToolChoice. |
 | [ToolResources](./toolresources/) | Represents a set of resources that are used by the assistant's tools. The resources are specific to the type of tool. For example, the code_interpreter tool requires a list of file IDs, while the file_search tool requires a list of vector store IDs. |
 | [TruncationStrategy](./truncationstrategy/) | Represents the truncation strategy that controls for how a thread will be truncated prior to the run. |
 | [Usage](./usage/) | Represents usage statistics for a request. |
@@ -134,34 +146,45 @@ The **Aspose.Pdf.AI** namespace provides classes for AI functionalities, includi
 | [VectorStoreListResponse](./vectorstorelistresponse/) | Represents a list response containing vector store data. |
 | [VectorStoreModifyRequest](./vectorstoremodifyrequest/) | Modify a vector store request. |
 | [VectorStoreResponse](./vectorstoreresponse/) | The vector store object. |
+
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
 | [IAIClient](./iaiclient/) | Represents an interface for an AI client. |
 | [IAICopilot](./iaicopilot/) | Represents a copilot for AI interactions. |
-| [IChatClient&lt;TOptions&gt;](./ichatclient-1/) | Represents an interface for a chat client with specific options. |
+| [IChatClient<TOptions>](./ichatclient-1/) | Represents an interface for a chat client with specific options. |
 | [IChatCopilot](./ichatcopilot/) | Represents a chat copilot for interacting with documents via AI models. |
-| [IChatCopilotOptions&lt;TOptions&gt;](./ichatcopilotoptions-1/) | Represents an interface for chat copilot options with a specific type. |
+| [IChatCopilotOptions<TOptions>](./ichatcopilotoptions-1/) | Represents an interface for chat copilot options with a specific type. |
 | [IEntityId](./ientityid/) | Represents an entity with an ID. |
-| [IImageDescriptionClient&lt;TOptions&gt;](./iimagedescriptionclient-1/) | Represents an interface for an image description client with specific options. |
+| [IImageDescriptionClient<TOptions>](./iimagedescriptionclient-1/) | Represents an interface for an image description client with specific options. |
 | [IImageDescriptionCopilot](./iimagedescriptioncopilot/) | Represents an image description copilot for extracting image descriptions using AI models. |
-| [IImageDescriptionCopilotOptions&lt;TOptions&gt;](./iimagedescriptioncopilotoptions-1/) | Represents an interface for image description copilot options with a specific type. |
+| [IImageDescriptionCopilotOptions<TOptions>](./iimagedescriptioncopilotoptions-1/) | Represents an interface for image description copilot options with a specific type. |
 | [ILlamaClient](./illamaclient/) | Represents a client interface for interacting with the Llama API. |
-| [IOcrClient&lt;TOptions&gt;](./iocrclient-1/) | Represents an interface for a OCR client with specific options. |
+| [IOcrClient<TOptions>](./iocrclient-1/) | Represents an interface for a OCR client with specific options. |
 | [IOcrCopilot](./iocrcopilot/) | Represents an OCR copilot for processing scanned PDFs and images via AI models. |
-| [IOcrCopilotOptions&lt;TOptions&gt;](./iocrcopilotoptions-1/) | Represents an interface for chat copilot options with a specific type. |
+| [IOcrCopilotOptions<TOptions>](./iocrcopilotoptions-1/) | Represents an interface for chat copilot options with a specific type. |
 | [IOpenAIClient](./iopenaiclient/) | Represents a client interface for interacting with the OpenAI API, extending basic AI client functionalities. |
 | [IQueryParameters](./iqueryparameters/) | Represents query parameters for API requests. |
 | [IStatus](./istatus/) | Represents the status of an operation. |
-| [IStringOrObject&lt;T&gt;](./istringorobject-1/) | Represents an object that can be either a string value or an object value. |
-| [ISummaryClient&lt;TOptions&gt;](./isummaryclient-1/) | Represents an interface for a summary client with specific options. |
+| [IStringOrObject<T>](./istringorobject-1/) | Represents an object that can be either a string value or an object value. |
+| [ISummaryClient<TOptions>](./isummaryclient-1/) | Represents an interface for a summary client with specific options. |
 | [ISummaryCopilot](./isummarycopilot/) | Represents a summary copilot for generating summaries for documents using AI models. |
-| [ISummaryCopilotOptions&lt;TOptions&gt;](./isummarycopilotoptions-1/) | Represents an interface for summary copilot options with a specific type. |
+| [ISummaryCopilotOptions<TOptions>](./isummarycopilotoptions-1/) | Represents an interface for summary copilot options with a specific type. |
+
 ## Enumeration
 
 | Enumeration | Description |
 | --- | --- |
 | [Detail](./detail/) | Specifies the level of detail for image analysis. |
 
+## FAQ
+
+### What classes does the Aspose.Pdf.AI namespace contain?
+
+[AIClientBase](./aiclientbase/), [AIClientException](./aiclientexception/), [AICopilotException](./aicopilotexception/), [AICopilotFactory](./aicopilotfactory/), [Annotation](./annotation/), and 121 more.
+
+### How many types are in the Aspose.Pdf.AI namespace?
+
+The Aspose.Pdf.AI namespace contains 147 types, listed above.
 

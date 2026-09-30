@@ -1,12 +1,15 @@
 ---
-title: PdfFileStamp.AddHeader
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp method. Adds header to the page
+title: "PdfFileStamp.AddHeader"
+linktitle: "AddHeader"
+articleTitle: "AddHeader"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp method. Adds header to the page."
 type: docs
-weight: 120
-url: /net/aspose.pdf.facades/pdffilestamp/addheader/
+weight: 130
+url: "/net/aspose.pdf.facades/pdffilestamp/addheader/"
+product_version: "26.9.0"
 ---
-## AddHeader(FormattedText, float) {#addheader}
+## AddHeader([FormattedText](../../../aspose.pdf.facades/formattedtext/), float) {#addheader}
 
 Adds header to the page.
 
@@ -29,14 +32,74 @@ fileStamp.Close();
 
 ### See Also
 
-* class [FormattedText](../../formattedtext/)
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddHeader(FormattedText, float, float, float) {#addheader_1}
+## AddHeader(Stream, float) {#addheader_1}
+
+Adds image as header on the pages.
+
+```csharp
+public void AddHeader(Stream imageStream, float topMargin)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageStream | Stream | Stream of the image. |
+| topMargin | Single | Margin at top of the page. |
+
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+Stream input = new FileStream(TestSettings.GetInputFile("test.jpg"), FileMode.Open, FileAccess.Read);
+fileStamp.AddHeader(new FileStream("image.jpg", FileMode.Open, FileAccess.Read), 50);
+fileStamp.Close();
+```
+
+### See Also
+
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## AddHeader(string, float) {#addheader_2}
+
+Adds image as header to the pages of the file.
+
+```csharp
+public void AddHeader(string imageFile, float topMargin)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageFile | String | Path to the image file. |
+| topMargin | Single | Margin at top of the page. |
+
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+Stream input = new FileStream(TestSettings.GetInputFile("test.jpg"), FileMode.Open, FileAccess.Read);
+fileStamp.AddHeader("image.jpg", 50);
+fileStamp.Close();
+```
+
+### See Also
+
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## AddHeader([FormattedText](../../../aspose.pdf.facades/formattedtext/), float, float, float) {#addheader_3}
 
 Adds header to the pages of file.
 
@@ -61,106 +124,14 @@ stamp.AddHeader(new FormattedText("Head of the page"), 10, 50, 50);
 
 ### See Also
 
-* class [FormattedText](../../formattedtext/)
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddHeader(string, float) {#addheader_4}
-
-Adds image as header to the pages of the file.
-
-```csharp
-public void AddHeader(string imageFile, float topMargin)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| imageFile | String | Path to the image file. |
-| topMargin | Single | Margin at top of the page. |
-
-## Examples
-
-```csharp
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
-Stream input = new FileStream(TestSettings.GetInputFile("test.jpg"), FileMode.Open, FileAccess.Read);
-fileStamp.AddHeader("image.jpg", 50);
-fileStamp.Close();
-```
-
-### See Also
-
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## AddHeader(string, float, float, float) {#addheader_5}
-
-Adds image as header on the pages.
-
-```csharp
-public void AddHeader(string imageFile, float topMargin, float leftMargin, float rightMargin)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| imageFile | String | Path to the image file. |
-| topMargin | Single | Margin at top of the page. |
-| leftMargin | Single | Margin at left side of the page. |
-| rightMargin | Single | Margin at right side of the page. |
-
-## Examples
-
-```csharp
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
-Stream input = new FileStream(TestSettings.GetInputFile("test.jpg"), FileMode.Open, FileAccess.Read);
-fileStamp.AddHeader("image.jpg", 50, 100, 100);
-fileStamp.Close();
-```
-
-### See Also
-
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## AddHeader(Stream, float) {#addheader_2}
-
-Adds image as header on the pages.
-
-```csharp
-public void AddHeader(Stream imageStream, float topMargin)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| imageStream | Stream | Stream of the image. |
-| topMargin | Single | Margin at top of the page. |
-
-## Examples
-
-```csharp
-PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
-Stream input = new FileStream(TestSettings.GetInputFile("test.jpg"), FileMode.Open, FileAccess.Read);
-fileStamp.AddHeader(new FileStream("image.jpg", FileMode.Open, FileAccess.Read), 50);
-fileStamp.Close();
-```
-
-### See Also
-
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## AddHeader(Stream, float, float, float) {#addheader_3}
+## AddHeader(Stream, float, float, float) {#addheader_4}
 
 Adds image at the top of the page.
 
@@ -186,8 +157,39 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## AddHeader(string, float, float, float) {#addheader_5}
+
+Adds image as header on the pages.
+
+```csharp
+public void AddHeader(string imageFile, float topMargin, float leftMargin, float rightMargin)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageFile | String | Path to the image file. |
+| topMargin | Single | Margin at top of the page. |
+| leftMargin | Single | Margin at left side of the page. |
+| rightMargin | Single | Margin at right side of the page. |
+
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+Stream input = new FileStream(TestSettings.GetInputFile("test.jpg"), FileMode.Open, FileAccess.Read);
+fileStamp.AddHeader("image.jpg", 50, 100, 100);
+fileStamp.Close();
+```
+
+### See Also
+
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

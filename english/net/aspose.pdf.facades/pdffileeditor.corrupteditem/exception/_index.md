@@ -1,10 +1,13 @@
 ---
-title: PdfFileEditor.CorruptedItem.Exception
-second_title: Aspose.PDF for .NET API Reference
-description: CorruptedItem property. Exception thrown for this file which indicates problem with the file
+title: "PdfFileEditor.CorruptedItem.Exception"
+linktitle: "Exception"
+articleTitle: "Exception"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CorruptedItem property. Exception thrown for this file which indicates problem with the file."
 type: docs
-weight: 10
-url: /net/aspose.pdf.facades/pdffileeditor.corrupteditem/exception/
+weight: 20
+url: "/net/aspose.pdf.facades/pdffileeditor.corrupteditem/exception/"
+product_version: "26.9.0"
 ---
 ## PdfFileEditor.CorruptedItem.Exception property
 
@@ -16,8 +19,7 @@ public Exception Exception { get; }
 
 ### See Also
 
-* class [CorruptedItem](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor.CorruptedItem](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

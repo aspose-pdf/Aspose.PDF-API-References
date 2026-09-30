@@ -1,10 +1,13 @@
 ---
-title: SetCMYKColorStroke.K
-second_title: Aspose.PDF for .NET API Reference
-description: SetCMYKColorStroke property. Gets or sets the black component
+title: "SetCMYKColorStroke.K"
+linktitle: "K"
+articleTitle: "K"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetCMYKColorStroke property. Gets or sets the black component."
 type: docs
-weight: 30
-url: /net/aspose.pdf.operators/setcmykcolorstroke/k/
+weight: 70
+url: "/net/aspose.pdf.operators/setcmykcolorstroke/k/"
+product_version: "26.9.0"
 ---
 ## SetCMYKColorStroke.K property
 
@@ -16,8 +19,7 @@ public double K { get; set; }
 
 ### See Also
 
-* class [SetCMYKColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetCMYKColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

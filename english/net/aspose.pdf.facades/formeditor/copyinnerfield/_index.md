@@ -1,14 +1,18 @@
 ---
-title: FormEditor.CopyInnerField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Copies an existing field to the same position in specified page number. A new document will be produced which contains everything the source document has except for the newly copied field
+title: "FormEditor.CopyInnerField"
+linktitle: "CopyInnerField"
+articleTitle: "CopyInnerField"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Copies an existing field to the same position in specified page number. A new document will be produced, which contains everything the sou..."
 type: docs
-weight: 150
-url: /net/aspose.pdf.facades/formeditor/copyinnerfield/
+weight: 160
+url: "/net/aspose.pdf.facades/formeditor/copyinnerfield/"
+product_version: "26.9.0"
 ---
-## CopyInnerField(string, string, int) {#copyinnerfield}
+## CopyInnerField(string, string, int) {#copyinnerfield}
 
-Copies an existing field to the same position in specified page number. A new document will be produced, which contains everything the source document has except for the newly copied field.
+Copies an existing field to the same position in specified page number.
+ A new document will be produced, which contains everything the source document has except for the newly copied field.
 
 ```csharp
 public void CopyInnerField(string fieldName, string newFieldName, int pageNum)
@@ -30,15 +34,16 @@ formEditor.CopyInnerField("textField", "textFieldCopy", 2);
 
 ### See Also
 
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CopyInnerField(string, string, int, float, float) {#copyinnerfield_1}
+## CopyInnerField(string, string, int, float, float) {#copyinnerfield_1}
 
-Copies an existing field to a new position specified by both page number and ordinates. A new document will be produced, which contains everything the source document has except for the newly copied field.
+Copies an existing field to a new position specified by both page number and ordinates.
+ A new document will be produced, which contains everything the source document has except for the newly copied field.
 
 ```csharp
 public void CopyInnerField(string fieldName, string newFieldName, int pageNum, float abscissa, 
@@ -63,8 +68,7 @@ formEditor.CopyInnerField("textField", "textFieldCopy", 2, 100, 200);
 
 ### See Also
 
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,17 @@
 ---
-title: OpenAIImageDescriptionCopilot.OpenAIImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilot constructor. Initializes a new instance of the OpenAIImageDescriptionCopilot class
+title: "OpenAIImageDescriptionCopilot.OpenAIImageDescriptionCopilot"
+linktitle: "OpenAIImageDescriptionCopilot"
+articleTitle: "OpenAIImageDescriptionCopilot"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIImageDescriptionCopilot constructor. Initializes a new instance of the OpenAIImageDescriptionCopilot class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/openaiimagedescriptioncopilot/openaiimagedescriptioncopilot/
+url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilot/openaiimagedescriptioncopilot/"
+product_version: "26.9.0"
 ---
 ## OpenAIImageDescriptionCopilot constructor
 
-Initializes a new instance of the [`OpenAIImageDescriptionCopilot`](../) class.
+Initializes a new instance of the [`OpenAIImageDescriptionCopilot`](../../../aspose.pdf.ai/openaiimagedescriptioncopilot/) class.
 
 ```csharp
 public OpenAIImageDescriptionCopilot(IOpenAIClient client, 
@@ -22,11 +25,8 @@ public OpenAIImageDescriptionCopilot(IOpenAIClient client,
 
 ### See Also
 
-* interface [IOpenAIClient](../../iopenaiclient/)
-* interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
-* class [OpenAIImageDescriptionCopilotOptions](../../openaiimagedescriptioncopilotoptions/)
-* class [OpenAIImageDescriptionCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOpenAIClient](../../../aspose.pdf.ai/iopenaiclient/)
+* class [OpenAIImageDescriptionCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

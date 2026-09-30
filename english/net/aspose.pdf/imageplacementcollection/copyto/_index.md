@@ -1,10 +1,13 @@
 ---
-title: ImagePlacementCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection method. Copies the entire collection to a compatible onedimensional Array starting at the specified index of the target array
+title: "ImagePlacementCollection.CopyTo"
+linktitle: "CopyTo"
+articleTitle: "CopyTo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagePlacementCollection method. Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array"
 type: docs
-weight: 90
-url: /net/aspose.pdf/imageplacementcollection/copyto/
+weight: 30
+url: "/net/aspose.pdf/imageplacementcollection/copyto/"
+product_version: "26.9.0"
 ---
 ## ImagePlacementCollection.CopyTo method
 
@@ -21,9 +24,8 @@ public void CopyTo(ImagePlacement[] array, int index)
 
 ### See Also
 
-* class [ImagePlacement](../../imageplacement/)
-* class [ImagePlacementCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImagePlacement](../../../aspose.pdf/imageplacement/)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

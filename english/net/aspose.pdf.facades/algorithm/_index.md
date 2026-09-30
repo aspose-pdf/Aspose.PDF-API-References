@@ -1,10 +1,13 @@
 ---
-title: Enum Algorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.Algorithm enum. Represents algorithms which can be used to encrypt pdf document
+title: "Algorithm Enum"
+linktitle: "Algorithm"
+articleTitle: "Algorithm"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.Algorithm enum. Represents algorithms which can be used to encrypt pdf document."
 type: docs
-weight: 4300
-url: /net/aspose.pdf.facades/algorithm/
+weight: 20
+url: "/net/aspose.pdf.facades/algorithm/"
+product_version: "26.9.0"
 ---
 ## Algorithm enumeration
 
@@ -23,7 +26,6 @@ public enum Algorithm
 
 ### See Also
 
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

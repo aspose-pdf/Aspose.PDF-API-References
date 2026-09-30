@@ -1,10 +1,13 @@
 ---
-title: FormattedText.AddNewLineText
-second_title: Aspose.PDF for .NET API Reference
-description: FormattedText method. Adds a new line to the FormattedText object and sets the newLineText to the next lines text
+title: "FormattedText.AddNewLineText"
+linktitle: "AddNewLineText"
+articleTitle: "AddNewLineText"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormattedText method. Adds a new line to the FormattedText object and sets the newLineText to the next line's text."
 type: docs
-weight: 40
-url: /net/aspose.pdf.facades/formattedtext/addnewlinetext/
+weight: 140
+url: "/net/aspose.pdf.facades/formattedtext/addnewlinetext/"
+product_version: "26.9.0"
 ---
 ## AddNewLineText(string) {#addnewlinetext}
 
@@ -20,13 +23,13 @@ public void AddNewLineText(string newLineText)
 
 ### See Also
 
-* class [FormattedText](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddNewLineText(string, float) {#addnewlinetext_1}
+## AddNewLineText(string, float) {#addnewlinetext_1}
 
 Adds a new line to the FormattedText object and sets the newLineText to the next line's text.
 
@@ -41,8 +44,7 @@ public void AddNewLineText(string newLineText, float lineSpacing)
 
 ### See Also
 
-* class [FormattedText](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

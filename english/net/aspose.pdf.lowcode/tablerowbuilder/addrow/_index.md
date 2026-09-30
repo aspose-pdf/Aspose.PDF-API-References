@@ -1,10 +1,13 @@
 ---
-title: TableRowBuilder.AddRow
-second_title: Aspose.PDF for .NET API Reference
-description: TableRowBuilder method. Overriding AddRow
+title: "TableRowBuilder.AddRow"
+linktitle: "AddRow"
+articleTitle: "AddRow"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableRowBuilder method. Overriding AddRow."
 type: docs
 weight: 20
-url: /net/aspose.pdf.lowcode/tablerowbuilder/addrow/
+url: "/net/aspose.pdf.lowcode/tablerowbuilder/addrow/"
+product_version: "26.9.0"
 ---
 ## TableRowBuilder.AddRow method
 
@@ -16,12 +19,11 @@ public override TableRowBuilder AddRow()
 
 ### Return Value
 
-Instance of current [`TableRowBuilder`](../).
+Instance of current [`TableRowBuilder`](../../../aspose.pdf.lowcode/tablerowbuilder/).
 
 ### See Also
 
-* class [TableRowBuilder](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TableRowBuilder](../../../aspose.pdf.lowcode/tablerowbuilder/)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

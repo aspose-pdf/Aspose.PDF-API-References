@@ -1,10 +1,13 @@
 ---
-title: Color.MediumSpringGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FF00FA9A
+title: "Color.MediumSpringGreen"
+linktitle: "MediumSpringGreen"
+articleTitle: "MediumSpringGreen"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FF00FA9A."
 type: docs
-weight: 890
-url: /net/aspose.pdf/color/mediumspringgreen/
+weight: 1060
+url: "/net/aspose.pdf/color/mediumspringgreen/"
+product_version: "26.9.0"
 ---
 ## Color.MediumSpringGreen property
 
@@ -20,8 +23,7 @@ A representing a system-defined color.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

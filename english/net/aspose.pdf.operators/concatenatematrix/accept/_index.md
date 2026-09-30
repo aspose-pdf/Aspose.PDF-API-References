@@ -1,10 +1,13 @@
 ---
-title: ConcatenateMatrix.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: ConcatenateMatrix method. Accepts visitor object to process operator
+title: "ConcatenateMatrix.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ConcatenateMatrix method. Accepts visitor object to process operator."
 type: docs
 weight: 30
-url: /net/aspose.pdf.operators/concatenatematrix/accept/
+url: "/net/aspose.pdf.operators/concatenatematrix/accept/"
+product_version: "26.9.0"
 ---
 ## ConcatenateMatrix.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* class [ConcatenateMatrix](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [ConcatenateMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

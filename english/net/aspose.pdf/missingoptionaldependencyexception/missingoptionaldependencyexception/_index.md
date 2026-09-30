@@ -1,14 +1,17 @@
 ---
-title: MissingOptionalDependencyException.MissingOptionalDependencyException
-second_title: Aspose.PDF for .NET API Reference
-description: MissingOptionalDependencyException constructor. Initializes a new instance of the MissingOptionalDependencyException class
+title: "MissingOptionalDependencyException.MissingOptionalDependencyException"
+linktitle: "MissingOptionalDependencyException"
+articleTitle: "MissingOptionalDependencyException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MissingOptionalDependencyException constructor. Initializes a new instance of the MissingOptionalDependencyException class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/missingoptionaldependencyexception/missingoptionaldependencyexception/
+url: "/net/aspose.pdf/missingoptionaldependencyexception/missingoptionaldependencyexception/"
+product_version: "26.9.0"
 ---
 ## MissingOptionalDependencyException() {#constructor}
 
-Initializes a new instance of the [`MissingOptionalDependencyException`](../) class.
+Initializes a new instance of the [`MissingOptionalDependencyException`](../../../aspose.pdf/missingoptionaldependencyexception/) class.
 
 ```csharp
 public MissingOptionalDependencyException()
@@ -16,15 +19,16 @@ public MissingOptionalDependencyException()
 
 ### See Also
 
-* class [MissingOptionalDependencyException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [MissingOptionalDependencyException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MissingOptionalDependencyException(string) {#constructor_1}
 
-Initializes a new instance of the [`MissingOptionalDependencyException`](../) class with the specified error message.
+Initializes a new instance of the [`MissingOptionalDependencyException`](../../../aspose.pdf/missingoptionaldependencyexception/) class
+ with the specified error message.
 
 ```csharp
 public MissingOptionalDependencyException(string message)
@@ -36,15 +40,16 @@ public MissingOptionalDependencyException(string message)
 
 ### See Also
 
-* class [MissingOptionalDependencyException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [MissingOptionalDependencyException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MissingOptionalDependencyException(string, Exception) {#constructor_2}
+## MissingOptionalDependencyException(string, Exception) {#constructor_2}
 
-Initializes a new instance of the [`MissingOptionalDependencyException`](../) class with the specified error message and inner exception.
+Initializes a new instance of the [`MissingOptionalDependencyException`](../../../aspose.pdf/missingoptionaldependencyexception/) class
+ with the specified error message and inner exception.
 
 ```csharp
 public MissingOptionalDependencyException(string message, Exception innerException)
@@ -57,8 +62,7 @@ public MissingOptionalDependencyException(string message, Exception innerExcepti
 
 ### See Also
 
-* class [MissingOptionalDependencyException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MissingOptionalDependencyException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

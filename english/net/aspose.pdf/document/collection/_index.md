@@ -1,10 +1,13 @@
 ---
-title: Document.Collection
-second_title: Aspose.PDF for .NET API Reference
-description: Document property. Gets collection of document
+title: "Document.Collection"
+linktitle: "Collection"
+articleTitle: "Collection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets collection of document."
 type: docs
-weight: 70
-url: /net/aspose.pdf/document/collection/
+weight: 1230
+url: "/net/aspose.pdf/document/collection/"
+product_version: "26.9.0"
 ---
 ## Document.Collection property
 
@@ -16,9 +19,8 @@ public Collection Collection { get; set; }
 
 ### See Also
 
-* class [Collection](../../collection/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Collection](../../../aspose.pdf/collection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

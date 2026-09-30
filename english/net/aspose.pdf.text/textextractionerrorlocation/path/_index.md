@@ -1,10 +1,13 @@
 ---
-title: TextExtractionErrorLocation.Path
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionErrorLocation property. Location of the PDF document where text extraction error has appeared
+title: "TextExtractionErrorLocation.Path"
+linktitle: "Path"
+articleTitle: "Path"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextExtractionErrorLocation property. Location of the PDF document where text extraction error has appeared."
 type: docs
-weight: 70
-url: /net/aspose.pdf.text/textextractionerrorlocation/path/
+weight: 20
+url: "/net/aspose.pdf.text/textextractionerrorlocation/path/"
+product_version: "26.9.0"
 ---
 ## TextExtractionErrorLocation.Path property
 
@@ -16,8 +19,7 @@ public string Path { get; }
 
 ### See Also
 
-* class [TextExtractionErrorLocation](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum SoundEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SoundEncoding enum. The encoding format for the sample data
+title: "SoundEncoding Enum"
+linktitle: "SoundEncoding"
+articleTitle: "SoundEncoding"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.SoundEncoding enum. The encoding format for the sample data."
 type: docs
-weight: 2650
-url: /net/aspose.pdf.annotations/soundencoding/
+weight: 1180
+url: "/net/aspose.pdf.annotations/soundencoding/"
+product_version: "26.9.0"
 ---
 ## SoundEncoding enumeration
 
@@ -25,7 +28,6 @@ public enum SoundEncoding
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

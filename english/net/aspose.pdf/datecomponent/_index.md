@@ -1,10 +1,14 @@
 ---
-title: Class DateComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DateComponent class. Represents a base class for date components with a format attribute
+title: "DateComponent Class"
+linktitle: "DateComponent"
+articleTitle: "DateComponent"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DateComponent class. Represents a base class for date components with a format attribute."
 type: docs
-weight: 3640
-url: /net/aspose.pdf/datecomponent/
+weight: 510
+url: "/net/aspose.pdf/datecomponent/"
+keywords: "DateComponent, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## DateComponent class
 
@@ -18,23 +22,22 @@ public class DateComponent
 
 | Name | Description |
 | --- | --- |
-| [DateComponent](datecomponent/)() | The default constructor. |
+| [DateComponent](./datecomponent/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | Gets or sets the format for the date component. |
+| [Format](./format/) { get; set; } | Gets or sets the format for the date component. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Returns a string composed of a specified character repeated based on the format. |
+| [GetFormat](./getformat/)(char) | Returns a string composed of a specified character repeated based on the format. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

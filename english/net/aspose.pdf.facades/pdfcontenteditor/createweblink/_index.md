@@ -1,12 +1,82 @@
 ---
-title: PdfContentEditor.CreateWebLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates a web link in PDF document
+title: "PdfContentEditor.CreateWebLink"
+linktitle: "CreateWebLink"
+articleTitle: "CreateWebLink"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates a web link in PDF document."
 type: docs
-weight: 300
-url: /net/aspose.pdf.facades/pdfcontenteditor/createweblink/
+weight: 60
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createweblink/"
+product_version: "26.9.0"
 ---
-## CreateWebLink(Rectangle, string, int, Color, Enum[]) {#createweblink_2}
+## CreateWebLink([Rectangle](../../../aspose.pdf.drawing/rectangle/), string, int) {#createweblink}
+
+Creates a web link in PDF document.
+
+```csharp
+public void CreateWebLink(Rectangle rect, string url, int originalPage)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | Rectangle | The rectangle for active click. |
+| url | String | The web link destination. |
+| originalPage | Int32 | The number of original page where rectangle bound with web link will be created. |
+
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100), "http://www.aspose.com", 1 });
+editor.Save("example_out.pdf");
+```
+
+### See Also
+
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## CreateWebLink([Rectangle](../../../aspose.pdf.drawing/rectangle/), string, int, [Color](../../../aspose.pdf/color/)) {#createweblink_1}
+
+Creates a web link in PDF document.
+
+```csharp
+public void CreateWebLink(Rectangle rect, string url, int originalPage, Color clr)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | Rectangle | The rectangle for active click. |
+| url | String | The web link destination. |
+| originalPage | Int32 | The number of original page where rectangle bound with web link will be created. |
+| clr | Color | The colour of rectangle for active click. |
+
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100),
+    "http://www.aspose.com", 1, System.Drawing.Color.Red });
+editor.Save("example_out.pdf");
+```
+
+### See Also
+
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Color](../../../aspose.pdf/color/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## CreateWebLink([Rectangle](../../../aspose.pdf.drawing/rectangle/), string, int, [Color](../../../aspose.pdf/color/), Enum[]) {#createweblink_2}
 
 Creates a web link in PDF document.
 
@@ -36,72 +106,9 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## CreateWebLink(Rectangle, string, int, Color) {#createweblink_1}
-
-Creates a web link in PDF document.
-
-```csharp
-public void CreateWebLink(Rectangle rect, string url, int originalPage, Color clr)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | Rectangle | The rectangle for active click. |
-| url | String | The web link destination. |
-| originalPage | Int32 | The number of original page where rectangle bound with web link will be created. |
-| clr | Color | The colour of rectangle for active click. |
-
-## Examples
-
-```csharp
-PdfContentEditor editor = new PdfContentEditor();
-editor.BindPdf("example.pdf");
-editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100),
-    "http://www.aspose.com", 1, System.Drawing.Color.Red });
-editor.Save("example_out.pdf");
-```
-
-### See Also
-
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## CreateWebLink(Rectangle, string, int) {#createweblink}
-
-Creates a web link in PDF document.
-
-```csharp
-public void CreateWebLink(Rectangle rect, string url, int originalPage)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | Rectangle | The rectangle for active click. |
-| url | String | The web link destination. |
-| originalPage | Int32 | The number of original page where rectangle bound with web link will be created. |
-
-## Examples
-
-```csharp
-PdfContentEditor editor = new PdfContentEditor();
-editor.BindPdf("example.pdf");
-editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100), "http://www.aspose.com", 1 });
-editor.Save("example_out.pdf");
-```
-
-### See Also
-
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Color](../../../aspose.pdf/color/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

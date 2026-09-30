@@ -1,10 +1,13 @@
 ---
-title: XmpPdfAExtensionField.Name
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionField property. Field name. Field names must be valid XML element names
+title: "XmpPdfAExtensionField.Name"
+linktitle: "Name"
+articleTitle: "Name"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionField property. Field name. Field names must be valid XML element names."
 type: docs
-weight: 20
-url: /net/aspose.pdf/xmppdfaextensionfield/name/
+weight: 30
+url: "/net/aspose.pdf/xmppdfaextensionfield/name/"
+product_version: "26.9.0"
 ---
 ## XmpPdfAExtensionField.Name property
 
@@ -16,8 +19,7 @@ public string Name { get; }
 
 ### See Also
 
-* class [XmpPdfAExtensionField](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpPdfAExtensionField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

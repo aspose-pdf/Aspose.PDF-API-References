@@ -1,10 +1,13 @@
 ---
-title: LineTo.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: LineTo method. Returns text representation of the operator
+title: "LineTo.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineTo method. Returns text representation of the operator."
 type: docs
-weight: 50
-url: /net/aspose.pdf.operators/lineto/tostring/
+weight: 30
+url: "/net/aspose.pdf.operators/lineto/tostring/"
+product_version: "26.9.0"
 ---
 ## LineTo.ToString method
 
@@ -20,8 +23,7 @@ Text representation of the operator.
 
 ### See Also
 
-* class [LineTo](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LineTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,33 @@
 ---
-title: FloatingBox.FloatingBox
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox constructor. Initializes a new instance of the FloatingBox class with specified width and height
+title: "FloatingBox.FloatingBox"
+linktitle: "FloatingBox"
+articleTitle: "FloatingBox"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FloatingBox constructor. Initializes a new instance of the FloatingBox class with specified width and height."
 type: docs
 weight: 10
-url: /net/aspose.pdf/floatingbox/floatingbox/
+url: "/net/aspose.pdf/floatingbox/floatingbox/"
+product_version: "26.9.0"
 ---
-## FloatingBox(float, float) {#constructor_1}
+## FloatingBox() {#constructor}
 
-Initializes a new instance of the [`FloatingBox`](../) class with specified width and height.
+Initializes a new instance of the [`FloatingBox`](../../../aspose.pdf/floatingbox/) class.
+
+```csharp
+public FloatingBox()
+```
+
+### See Also
+
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## FloatingBox(float, float) {#constructor_1}
+
+Initializes a new instance of the [`FloatingBox`](../../../aspose.pdf/floatingbox/) class with specified width and height.
 
 ```csharp
 public FloatingBox(float width, float height)
@@ -21,24 +40,7 @@ public FloatingBox(float width, float height)
 
 ### See Also
 
-* class [FloatingBox](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## FloatingBox() {#constructor}
-
-Initializes a new instance of the [`FloatingBox`](../) class.
-
-```csharp
-public FloatingBox()
-```
-
-### See Also
-
-* class [FloatingBox](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

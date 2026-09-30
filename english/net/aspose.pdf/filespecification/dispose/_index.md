@@ -1,10 +1,13 @@
 ---
-title: FileSpecification.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification method. Dispose contents
+title: "FileSpecification.Dispose"
+linktitle: "Dispose"
+articleTitle: "Dispose"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification method. Dispose contents."
 type: docs
-weight: 150
-url: /net/aspose.pdf/filespecification/dispose/
+weight: 90
+url: "/net/aspose.pdf/filespecification/dispose/"
+product_version: "26.9.0"
 ---
 ## FileSpecification.Dispose method
 
@@ -16,8 +19,7 @@ public void Dispose()
 
 ### See Also
 
-* class [FileSpecification](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

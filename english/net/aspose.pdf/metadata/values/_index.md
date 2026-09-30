@@ -1,10 +1,13 @@
 ---
-title: Metadata.Values
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata property. Gets values in the metadata
+title: "Metadata.Values"
+linktitle: "Values"
+articleTitle: "Values"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata property. Gets values in the metadata."
 type: docs
-weight: 100
-url: /net/aspose.pdf/metadata/values/
+weight: 210
+url: "/net/aspose.pdf/metadata/values/"
+product_version: "26.9.0"
 ---
 ## Metadata.Values property
 
@@ -16,9 +19,7 @@ public ICollection<XmpValue> Values { get; }
 
 ### See Also
 
-* class [XmpValue](../../xmpvalue/)
-* class [Metadata](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

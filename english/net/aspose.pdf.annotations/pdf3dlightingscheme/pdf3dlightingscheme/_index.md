@@ -1,14 +1,17 @@
 ---
-title: PDF3DLightingScheme.PDF3DLightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DLightingScheme constructor. Initializes a new instance of the PDF3DLightingScheme class
+title: "PDF3DLightingScheme.PDF3DLightingScheme"
+linktitle: "PDF3DLightingScheme"
+articleTitle: "PDF3DLightingScheme"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DLightingScheme constructor. Initializes a new instance of the PDF3DLightingScheme class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/pdf3dlightingscheme/pdf3dlightingscheme/
+url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/pdf3dlightingscheme/"
+product_version: "26.9.0"
 ---
-## PDF3DLightingScheme(LightingSchemeType) {#constructor}
+## PDF3DLightingScheme([LightingSchemeType](../../../aspose.pdf.annotations/lightingschemetype/)) {#constructor}
 
-Initializes a new instance of the [`PDF3DLightingScheme`](../) class.
+Initializes a new instance of the [`PDF3DLightingScheme`](../../../aspose.pdf.annotations/pdf3dlightingscheme/) class.
 
 ```csharp
 public PDF3DLightingScheme(LightingSchemeType type)
@@ -20,16 +23,16 @@ public PDF3DLightingScheme(LightingSchemeType type)
 
 ### See Also
 
-* enum [LightingSchemeType](../../lightingschemetype/)
-* class [PDF3DLightingScheme](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* enum [LightingSchemeType](../../../aspose.pdf.annotations/lightingschemetype/)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PDF3DLightingScheme(string) {#constructor_1}
 
-Initializes a new instance of the [`PDF3DLightingScheme`](../) class.
+Initializes a new instance of the [`PDF3DLightingScheme`](../../../aspose.pdf.annotations/pdf3dlightingscheme/) class.
 
 ```csharp
 public PDF3DLightingScheme(string typeName)
@@ -47,8 +50,7 @@ public PDF3DLightingScheme(string typeName)
 
 ### See Also
 
-* class [PDF3DLightingScheme](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

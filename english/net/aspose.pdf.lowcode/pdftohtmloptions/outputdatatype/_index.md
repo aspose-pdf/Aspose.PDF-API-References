@@ -1,10 +1,13 @@
 ---
-title: PdfToHtmlOptions.OutputDataType
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToHtmlOptions property. Gets output data type
+title: "PdfToHtmlOptions.OutputDataType"
+linktitle: "OutputDataType"
+articleTitle: "OutputDataType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToHtmlOptions property. Gets output data type."
 type: docs
-weight: 30
-url: /net/aspose.pdf.lowcode/pdftohtmloptions/outputdatatype/
+weight: 40
+url: "/net/aspose.pdf.lowcode/pdftohtmloptions/outputdatatype/"
+product_version: "26.9.0"
 ---
 ## PdfToHtmlOptions.OutputDataType property
 
@@ -16,9 +19,7 @@ public SaveDataType OutputDataType { get; }
 
 ### See Also
 
-* enum [SaveDataType](../../pdftohtmloptions.savedatatype/)
-* class [PdfToHtmlOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfToHtmlOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

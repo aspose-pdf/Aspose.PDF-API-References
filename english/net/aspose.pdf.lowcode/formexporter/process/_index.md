@@ -1,10 +1,13 @@
 ---
-title: FormExporter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: FormExporter method. Starts the FormExporter processing with the specified options
+title: "FormExporter.Process"
+linktitle: "Process"
+articleTitle: "Process"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormExporter method. Starts the FormExporter processing with the specified options."
 type: docs
 weight: 20
-url: /net/aspose.pdf.lowcode/formexporter/process/
+url: "/net/aspose.pdf.lowcode/formexporter/process/"
+product_version: "26.9.0"
 ---
 ## FormExporter.Process method
 
@@ -20,7 +23,7 @@ public ResultContainer Process(IPluginOptions options)
 
 ### Return Value
 
-A [`ResultContainer`](../../resultcontainer/) containing the result of the operation.
+A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) containing the result of the operation.
 
 ### Exceptions
 
@@ -31,10 +34,9 @@ A [`ResultContainer`](../../resultcontainer/) containing the result of the opera
 
 ### See Also
 
-* class [ResultContainer](../../resultcontainer/)
-* interface [IPluginOptions](../../ipluginoptions/)
-* class [FormExporter](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
+* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
+* class [FormExporter](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

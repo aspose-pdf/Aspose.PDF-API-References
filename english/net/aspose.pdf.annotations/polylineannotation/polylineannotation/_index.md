@@ -1,10 +1,13 @@
 ---
-title: PolylineAnnotation.PolylineAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: PolylineAnnotation constructor. Creates new Polyline annotation on the specified page
+title: "PolylineAnnotation.PolylineAnnotation"
+linktitle: "PolylineAnnotation"
+articleTitle: "PolylineAnnotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PolylineAnnotation constructor. Creates new Polyline annotation on the specified page."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/polylineannotation/polylineannotation/
+url: "/net/aspose.pdf.annotations/polylineannotation/polylineannotation/"
+product_version: "26.9.0"
 ---
 ## PolylineAnnotation constructor
 
@@ -22,11 +25,10 @@ public PolylineAnnotation(Page page, Rectangle rect, Point[] vertices)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [Point](../../../aspose.pdf/point/)
-* class [PolylineAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Point](../../../aspose.pdf/point/)
+* class [PolylineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,17 @@
 ---
-title: StructureTypeCategory.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeCategory method. Performs an explicit conversion from String to StructureTypeCategory
+title: "StructureTypeCategory.op_Explicit"
+linktitle: "op_Explicit"
+articleTitle: "op_Explicit"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeCategory method. Performs an explicit conversion from String to StructureTypeCategory."
 type: docs
-weight: 60
-url: /net/aspose.pdf.logicalstructure/structuretypecategory/op_explicit/
+weight: 10
+url: "/net/aspose.pdf.logicalstructure/structuretypecategory/op_explicit/"
+product_version: "26.9.0"
 ---
 ## StructureTypeCategory Explicit operator
 
-Performs an explicit conversion from String to [`StructureTypeCategory`](../).
+Performs an explicit conversion from `String` to [`StructureTypeCategory`](../../../aspose.pdf.logicalstructure/structuretypecategory/).
 
 ```csharp
 public static explicit operator StructureTypeCategory(string name)
@@ -24,8 +27,7 @@ The result of the conversion.
 
 ### See Also
 
-* class [StructureTypeCategory](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureTypeCategory](../../../aspose.pdf.logicalstructure/structuretypecategory/)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

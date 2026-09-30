@@ -1,10 +1,13 @@
 ---
-title: Form.ImportXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Imports the content of the fields from the xfdfxml file and put them into the new pdf
+title: "Form.ImportXfdf"
+linktitle: "ImportXfdf"
+articleTitle: "ImportXfdf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Imports the content of the fields from the xfdf(xml) file and put them into the new pdf."
 type: docs
-weight: 300
-url: /net/aspose.pdf.facades/form/importxfdf/
+weight: 270
+url: "/net/aspose.pdf.facades/form/importxfdf/"
+product_version: "26.9.0"
 ---
 ## Form.ImportXfdf method
 
@@ -30,8 +33,7 @@ form.Save();
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

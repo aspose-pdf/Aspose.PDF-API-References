@@ -1,10 +1,13 @@
 ---
-title: ImageStamp.Width
-second_title: Aspose.PDF for .NET API Reference
-description: ImageStamp property. Gets or sets image width. Setting this property allos to scal image horizontally
+title: "ImageStamp.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageStamp property. Gets or sets image width. Setting this property allos to scal image horizontally."
 type: docs
-weight: 60
-url: /net/aspose.pdf/imagestamp/width/
+weight: 50
+url: "/net/aspose.pdf/imagestamp/width/"
+product_version: "26.9.0"
 ---
 ## ImageStamp.Width property
 
@@ -16,8 +19,7 @@ public override double Width { get; set; }
 
 ### See Also
 
-* class [ImageStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

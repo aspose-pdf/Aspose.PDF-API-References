@@ -1,10 +1,13 @@
 ---
-title: PdfBookmarkEditor.DeleteBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor method. Deletes all bookmarks of the PDF document
+title: "PdfBookmarkEditor.DeleteBookmarks"
+linktitle: "DeleteBookmarks"
+articleTitle: "DeleteBookmarks"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfBookmarkEditor method. Deletes all bookmarks of the PDF document."
 type: docs
-weight: 40
-url: /net/aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks/
+weight: 80
+url: "/net/aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks/"
+product_version: "26.9.0"
 ---
 ## DeleteBookmarks() {#deletebookmarks}
 
@@ -25,9 +28,9 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -54,8 +57,7 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

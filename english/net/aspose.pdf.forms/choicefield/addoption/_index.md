@@ -1,10 +1,13 @@
 ---
-title: ChoiceField.AddOption
-second_title: Aspose.PDF for .NET API Reference
-description: ChoiceField method. Adds new option with specified name
+title: "ChoiceField.AddOption"
+linktitle: "AddOption"
+articleTitle: "AddOption"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChoiceField method. Adds new option with specified name."
 type: docs
-weight: 80
-url: /net/aspose.pdf.forms/choicefield/addoption/
+weight: 40
+url: "/net/aspose.pdf.forms/choicefield/addoption/"
+product_version: "26.9.0"
 ---
 ## AddOption(string) {#addoption}
 
@@ -20,13 +23,13 @@ public virtual void AddOption(string optionName)
 
 ### See Also
 
-* class [ChoiceField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddOption(string, string) {#addoption_1}
+## AddOption(string, string) {#addoption_1}
 
 Adds new option with specified export value and name.
 
@@ -41,8 +44,7 @@ public virtual void AddOption(string export, string name)
 
 ### See Also
 
-* class [ChoiceField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

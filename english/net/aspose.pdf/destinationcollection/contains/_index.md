@@ -1,10 +1,13 @@
 ---
-title: DestinationCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection method. Determines whether this instance contains the object
+title: "DestinationCollection.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DestinationCollection method. Determines whether this instance contains the object."
 type: docs
-weight: 60
-url: /net/aspose.pdf/destinationcollection/contains/
+weight: 50
+url: "/net/aspose.pdf/destinationcollection/contains/"
+product_version: "26.9.0"
 ---
 ## DestinationCollection.Contains method
 
@@ -24,8 +27,7 @@ public bool Contains(KeyValuePair<string, object> value)
 
 ### See Also
 
-* class [DestinationCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

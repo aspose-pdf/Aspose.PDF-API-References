@@ -1,10 +1,14 @@
 ---
-title: Class Note
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Note class. This class represents generator paragraph note
+title: "Note Class"
+linktitle: "Note"
+articleTitle: "Note"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Note class. This class represents generator paragraph note."
 type: docs
-weight: 8250
-url: /net/aspose.pdf/note/
+weight: 1920
+url: "/net/aspose.pdf/note/"
+keywords: "Note, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## Note class
 
@@ -18,20 +22,19 @@ public sealed class Note
 
 | Name | Description |
 | --- | --- |
-| [Note](note/#constructor)() | Initializes a new instance of the `Note` class. |
-| [Note](note/#constructor_1)(string) | Initializes a new instance of the `Note` class. |
+| [Note](./note/#constructor)() | Initializes a new instance of the [`Note`](../../aspose.pdf/note/) class. |
+| [Note](./note/#constructor_1)(string) | Initializes a new instance of the [`Note`](../../aspose.pdf/note/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Paragraphs](../../aspose.pdf/note/paragraphs/) { get; set; } | Gets or sets a collection that indicates all paragraphs in the FootNote. |
-| [Text](../../aspose.pdf/note/text/) { get; set; } | Gets or sets a note text. |
-| [TextState](../../aspose.pdf/note/textstate/) { get; set; } | Gets or sets a note text state. |
+| [Paragraphs](./paragraphs/) { get; set; } | Gets or sets a collection that indicates all paragraphs in the FootNote. |
+| [Text](./text/) { get; set; } | Gets or sets a note text. |
+| [TextState](./textstate/) { get; set; } | Gets or sets a note text state. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

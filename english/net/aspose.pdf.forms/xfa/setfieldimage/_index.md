@@ -1,10 +1,13 @@
 ---
-title: XFA.SetFieldImage
-second_title: Aspose.PDF for .NET API Reference
-description: XFA method. Sets image for XFA field
+title: "XFA.SetFieldImage"
+linktitle: "SetFieldImage"
+articleTitle: "SetFieldImage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFA method. Sets image for XFA field."
 type: docs
-weight: 110
-url: /net/aspose.pdf.forms/xfa/setfieldimage/
+weight: 30
+url: "/net/aspose.pdf.forms/xfa/setfieldimage/"
+product_version: "26.9.0"
 ---
 ## XFA.SetFieldImage method
 
@@ -21,8 +24,7 @@ public void SetFieldImage(string fieldName, Stream image)
 
 ### See Also
 
-* class [XFA](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

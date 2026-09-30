@@ -1,12 +1,15 @@
 ---
-title: SoundAnnotation.SoundAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: SoundAnnotation constructor. Creates new Sound annotation on the specified page
+title: "SoundAnnotation.SoundAnnotation"
+linktitle: "SoundAnnotation"
+articleTitle: "SoundAnnotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SoundAnnotation constructor. Creates new Sound annotation on the specified page."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/soundannotation/soundannotation/
+url: "/net/aspose.pdf.annotations/soundannotation/soundannotation/"
+product_version: "26.9.0"
 ---
-## SoundAnnotation(Page, Rectangle, string) {#constructor}
+## SoundAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), string) {#constructor}
 
 Creates new Sound annotation on the specified page.
 
@@ -22,15 +25,15 @@ public SoundAnnotation(Page page, Rectangle rect, string soundFile)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [SoundAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [SoundAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SoundAnnotation(Page, Rectangle, string, SoundSampleData) {#constructor_1}
+## SoundAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), string, [SoundSampleData](../../../aspose.pdf.annotations/soundsampledata/)) {#constructor_1}
 
 Creates new Sound annotation on the specified page.
 
@@ -47,11 +50,10 @@ public SoundAnnotation(Page page, Rectangle rect, string soundFile, SoundSampleD
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [SoundSampleData](../../soundsampledata/)
-* class [SoundAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [SoundSampleData](../../../aspose.pdf.annotations/soundsampledata/)
+* class [SoundAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

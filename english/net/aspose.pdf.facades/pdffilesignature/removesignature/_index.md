@@ -1,12 +1,15 @@
 ---
-title: PdfFileSignature.RemoveSignature
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature method. Remove the signature according to the name of the signature
+title: "PdfFileSignature.RemoveSignature"
+linktitle: "RemoveSignature"
+articleTitle: "RemoveSignature"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Remove the signature according to the name of the signature."
 type: docs
-weight: 250
-url: /net/aspose.pdf.facades/pdffilesignature/removesignature/
+weight: 240
+url: "/net/aspose.pdf.facades/pdffilesignature/removesignature/"
+product_version: "26.9.0"
 ---
-## RemoveSignature(SignatureName) {#removesignature}
+## RemoveSignature([SignatureName](../../../aspose.pdf.facades/signaturename/)) {#removesignature}
 
 Remove the signature according to the name of the signature.
 
@@ -44,14 +47,14 @@ pdfSign.Save(TestPath + "signed_removed.pdf")
 
 ### See Also
 
-* class [SignatureName](../../signaturename/)
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## RemoveSignature(SignatureName, bool) {#removesignature_1}
+## RemoveSignature([SignatureName](../../../aspose.pdf.facades/signaturename/), bool) {#removesignature_1}
 
 Removes the signature according to the name of the signature.
 
@@ -90,9 +93,8 @@ pdfSign.Save(TestPath + "signed_removed.pdf")
 
 ### See Also
 
-* class [SignatureName](../../signaturename/)
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

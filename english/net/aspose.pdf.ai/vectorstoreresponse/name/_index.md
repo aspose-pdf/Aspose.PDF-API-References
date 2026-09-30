@@ -1,10 +1,13 @@
 ---
-title: VectorStoreResponse.Name
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreResponse property. Gets or sets the name of the vector store
+title: "VectorStoreResponse.Name"
+linktitle: "Name"
+articleTitle: "Name"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreResponse property. Gets or sets the name of the vector store."
 type: docs
-weight: 90
-url: /net/aspose.pdf.ai/vectorstoreresponse/name/
+weight: 50
+url: "/net/aspose.pdf.ai/vectorstoreresponse/name/"
+product_version: "26.9.0"
 ---
 ## VectorStoreResponse.Name property
 
@@ -16,8 +19,7 @@ public string Name { get; set; }
 
 ### See Also
 
-* class [VectorStoreResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [VectorStoreResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: MoveToNextLineShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: MoveToNextLineShowText property. Gets operator text
+title: "MoveToNextLineShowText.Text"
+linktitle: "Text"
+articleTitle: "Text"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MoveToNextLineShowText property. Gets operator text."
 type: docs
-weight: 20
-url: /net/aspose.pdf.operators/movetonextlineshowtext/text/
+weight: 40
+url: "/net/aspose.pdf.operators/movetonextlineshowtext/text/"
+product_version: "26.9.0"
 ---
 ## MoveToNextLineShowText.Text property
 
@@ -16,8 +19,7 @@ public override string Text { get; }
 
 ### See Also
 
-* class [MoveToNextLineShowText](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MoveToNextLineShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

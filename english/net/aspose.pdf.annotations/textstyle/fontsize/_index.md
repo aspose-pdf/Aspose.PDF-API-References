@@ -1,10 +1,13 @@
 ---
-title: TextStyle.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle property. Fonst size
+title: "TextStyle.FontSize"
+linktitle: "FontSize"
+articleTitle: "FontSize"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStyle property. Fonst size."
 type: docs
 weight: 30
-url: /net/aspose.pdf.annotations/textstyle/fontsize/
+url: "/net/aspose.pdf.annotations/textstyle/fontsize/"
+product_version: "26.9.0"
 ---
 ## TextStyle.FontSize property
 
@@ -16,8 +19,7 @@ public double FontSize { get; set; }
 
 ### See Also
 
-* class [TextStyle](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

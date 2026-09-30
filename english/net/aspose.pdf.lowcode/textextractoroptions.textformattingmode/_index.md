@@ -1,14 +1,17 @@
 ---
-title: Enum TextExtractorOptions.TextFormattingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.TextExtractorOptionsTextFormattingMode enum. Defines different modes which can be used while converting a PDF document into text. See TextExtractorOptions class
+title: "TextExtractorOptions.TextFormattingMode Enum"
+linktitle: "TextExtractorOptions.TextFormattingMode"
+articleTitle: "TextExtractorOptions.TextFormattingMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.TextExtractorOptions.TextFormattingMode enum. Defines different modes which can be used while converting a PDF document into text. See Tex..."
 type: docs
-weight: 8040
-url: /net/aspose.pdf.lowcode/textextractoroptions.textformattingmode/
+weight: 990
+url: "/net/aspose.pdf.lowcode/textextractoroptions.textformattingmode/"
+product_version: "26.9.0"
 ---
 ## TextExtractorOptions.TextFormattingMode enumeration
 
-Defines different modes which can be used while converting a PDF document into text. See [`TextExtractorOptions`](../textextractoroptions/) class.
+Defines different modes which can be used while converting a PDF document into text. See [`TextExtractorOptions`](../../../aspose.pdf.lowcode/textextractoroptions/) class.
 
 ```csharp
 public enum TextFormattingMode
@@ -24,8 +27,7 @@ public enum TextFormattingMode
 
 ### See Also
 
-* class [TextExtractorOptions](../textextractoroptions/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* class [TextExtractorOptions](../textextractoroptions/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

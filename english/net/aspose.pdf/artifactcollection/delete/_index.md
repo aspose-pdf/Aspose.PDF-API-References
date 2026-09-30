@@ -1,12 +1,15 @@
 ---
-title: ArtifactCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection method. Deletes specified artifact
+title: "ArtifactCollection.Delete"
+linktitle: "Delete"
+articleTitle: "Delete"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ArtifactCollection method. Deletes specified artifact."
 type: docs
-weight: 80
-url: /net/aspose.pdf/artifactcollection/delete/
+weight: 50
+url: "/net/aspose.pdf/artifactcollection/delete/"
+product_version: "26.9.0"
 ---
-## Delete(Artifact) {#delete}
+## Delete([Artifact](../../../aspose.pdf/artifact/)) {#delete}
 
 Deletes specified artifact.
 
@@ -20,10 +23,10 @@ public void Delete(Artifact artifact)
 
 ### See Also
 
-* class [Artifact](../../artifact/)
-* class [ArtifactCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Artifact](../../../aspose.pdf/artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,8 +44,7 @@ public void Delete(int index)
 
 ### See Also
 
-* class [ArtifactCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum ReplyType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.ReplyType enum. Enumerates the kinds of the relationships the reply type between the annotation and one specified by InReplyTo
+title: "ReplyType Enum"
+linktitle: "ReplyType"
+articleTitle: "ReplyType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.ReplyType enum. Enumerates the kinds of the relationships (the \"reply type\") between the annotation and one specified by InReplyTo."
 type: docs
-weight: 2560
-url: /net/aspose.pdf.annotations/replytype/
+weight: 1090
+url: "/net/aspose.pdf.annotations/replytype/"
+product_version: "26.9.0"
 ---
 ## ReplyType enumeration
 
@@ -24,7 +27,6 @@ public enum ReplyType
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

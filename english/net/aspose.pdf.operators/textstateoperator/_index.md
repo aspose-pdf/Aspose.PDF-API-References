@@ -1,10 +1,14 @@
 ---
-title: Class TextStateOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.TextStateOperator class. Abstract base class for operators which changes current text state Tc Tf TL etc
+title: "TextStateOperator Class"
+linktitle: "TextStateOperator"
+articleTitle: "TextStateOperator"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.TextStateOperator class. Abstract base class for operators which changes current text state (Tc, Tf, TL, etc)."
 type: docs
-weight: 9190
-url: /net/aspose.pdf.operators/textstateoperator/
+weight: 850
+url: "/net/aspose.pdf.operators/textstateoperator/"
+keywords: "TextStateOperator, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## TextStateOperator class
 
@@ -18,27 +22,27 @@ public class TextStateOperator : TextOperator
 
 | Name | Description |
 | --- | --- |
-| [TextStateOperator](textstateoperator/#constructor)() | Initializes TextStateOperator. |
-| [TextStateOperator](textstateoperator/#constructor_1)(TextProperties) | Initializes TextStateoperator which allows to pass TextProperties. |
+| [TextStateOperator](./textstateoperator/#constructor)() | Initializes TextStateOperator. |
+| [TextStateOperator](./textstateoperator/#constructor_1)(TextProperties) | Initializes TextStateoperator which allows to pass TextProperties. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 
-* class [TextOperator](../textoperator/)
-* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../)
-
+* class [TextOperator](../textoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
 

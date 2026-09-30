@@ -1,10 +1,13 @@
 ---
-title: RadioButtonField.Add
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField method. Adds new option field to RadioButton field
+title: "RadioButtonField.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RadioButtonField method. Adds new option field to RadioButton field"
 type: docs
-weight: 80
-url: /net/aspose.pdf.forms/radiobuttonfield/add/
+weight: 30
+url: "/net/aspose.pdf.forms/radiobuttonfield/add/"
+product_version: "26.9.0"
 ---
 ## RadioButtonField.Add method
 
@@ -20,9 +23,8 @@ public void Add(RadioButtonOptionField newItem)
 
 ### See Also
 
-* class [RadioButtonOptionField](../../radiobuttonoptionfield/)
-* class [RadioButtonField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RadioButtonOptionField](../../../aspose.pdf.forms/radiobuttonoptionfield/)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

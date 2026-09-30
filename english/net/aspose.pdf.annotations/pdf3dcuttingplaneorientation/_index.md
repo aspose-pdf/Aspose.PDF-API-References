@@ -1,10 +1,14 @@
 ---
-title: Class PDF3DCuttingPlaneOrientation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DCuttingPlaneOrientation class. Class PDF3DCuttingPlaneOrientation
+title: "PDF3DCuttingPlaneOrientation Class"
+linktitle: "PDF3DCuttingPlaneOrientation"
+articleTitle: "PDF3DCuttingPlaneOrientation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PDF3DCuttingPlaneOrientation class. Class PDF3DCuttingPlaneOrientation."
 type: docs
-weight: 2290
-url: /net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/
+weight: 820
+url: "/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/"
+keywords: "PDF3DCuttingPlaneOrientation, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## PDF3DCuttingPlaneOrientation class
 
@@ -18,26 +22,25 @@ public class PDF3DCuttingPlaneOrientation
 
 | Name | Description |
 | --- | --- |
-| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation/#constructor)() | Initializes a new instance of the `PDF3DCuttingPlaneOrientation` class. |
-| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation/#constructor_1)(double?, double?, double?) | Initializes a new instance of the `PDF3DCuttingPlaneOrientation` class. |
+| [PDF3DCuttingPlaneOrientation](./pdf3dcuttingplaneorientation/#constructor)() | Initializes a new instance of the [`PDF3DCuttingPlaneOrientation`](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/) class. |
+| [PDF3DCuttingPlaneOrientation](./pdf3dcuttingplaneorientation/#constructor_1)(double?, double?, double?) | Initializes a new instance of the [`PDF3DCuttingPlaneOrientation`](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AngleX](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex/) { get; set; } | Gets or sets the angle to X axis. |
-| [AngleY](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley/) { get; set; } | Gets or sets the angle to Y axis. |
-| [AngleZ](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez/) { get; set; } | Gets or sets the angle to Z axis. |
+| [AngleX](./anglex/) { get; set; } | Gets or sets the angle to X axis. |
+| [AngleY](./angley/) { get; set; } | Gets or sets the angle to Y axis. |
+| [AngleZ](./anglez/) { get; set; } | Gets or sets the angle to Z axis. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/)() | Returns a String that represents this instance. |
+| override [ToString](./tostring/)() | Returns a `String` that represents this instance. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

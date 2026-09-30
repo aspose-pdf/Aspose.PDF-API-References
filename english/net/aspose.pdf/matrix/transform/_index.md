@@ -1,12 +1,15 @@
 ---
-title: Matrix.Transform
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix method. Transforms point using this matrix
+title: "Matrix.Transform"
+linktitle: "Transform"
+articleTitle: "Transform"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix method. Transforms point using this matrix."
 type: docs
-weight: 210
-url: /net/aspose.pdf/matrix/transform/
+weight: 160
+url: "/net/aspose.pdf/matrix/transform/"
+product_version: "26.9.0"
 ---
-## Transform(Point) {#transform}
+## Transform([Point](../../../aspose.pdf/point/)) {#transform}
 
 Transforms point using this matrix.
 
@@ -32,14 +35,48 @@ Aspose.Pdf.Rectangle r1 = m.Transform(r);
 
 ### See Also
 
-* class [Point](../../point/)
-* class [Matrix](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Point](../../../aspose.pdf/point/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Transform(double, double, out double, out double) {#transform_2}
+## Transform([Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#transform_1}
+
+Transformes rectangle.
+ If angle is not 90 * N degrees then bounding rectangle is returned.
+
+```csharp
+public Rectangle Transform(Rectangle rect)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | Rectangle | Rectangle to be transformed. |
+
+### Return Value
+
+Transformed rectangle.
+
+## Examples
+
+```csharp
+Matrix m = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 } );
+Rectangle r = new Rectangle(0, 0, 100, 100);
+Rectangle r1 = m.Transform(r1);
+```
+
+### See Also
+
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Transform(double, double, out double, out double) {#transform_2}
 
 Transforms coordinates using this matrix.
 
@@ -64,41 +101,7 @@ m.Transform(double x, double y, out double x1, out double y1);
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Transform(Rectangle) {#transform_1}
-
-Transformes rectangle. If angle is not 90 * N degrees then bounding rectangle is returned.
-
-```csharp
-public Rectangle Transform(Rectangle rect)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | Rectangle | Rectangle to be transformed. |
-
-### Return Value
-
-Transformed rectangle.
-
-## Examples
-
-```csharp
-Matrix m = new Matrix(new double[] { 1, 0, 0, 1, 10, 20 } );
-Rectangle r = new Rectangle(0, 0, 100, 100);
-Rectangle r1 = m.Transform(r1);
-```
-
-### See Also
-
-* class [Rectangle](../../rectangle/)
-* class [Matrix](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class GoToURIAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.GoToURIAction class. Represents a URI action causes a URI to be resolved
+title: "GoToURIAction Class"
+linktitle: "GoToURIAction"
+articleTitle: "GoToURIAction"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.GoToURIAction class. Represents a URI action causes a URI to be resolved."
 type: docs
-weight: 1940
-url: /net/aspose.pdf.annotations/gotouriaction/
+weight: 470
+url: "/net/aspose.pdf.annotations/gotouriaction/"
+keywords: "GoToURIAction, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## GoToURIAction class
 
@@ -18,25 +22,25 @@ public sealed class GoToURIAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [GoToURIAction](gotouriaction/)(string) | Creates an instance of `GoToURIAction` class. |
+| [GoToURIAction](./gotouriaction/)(string) | Creates an instance of [`GoToURIAction`](../../aspose.pdf.annotations/gotouriaction/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
-| [URI](../../aspose.pdf.annotations/gotouriaction/uri/) { get; set; } | Gets or sets the uniform resource identifier to resolve. |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
+| [URI](./uri/) { get; set; } | Gets or sets the uniform resource identifier to resolve. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Returns string representation |
 
 ### See Also
 
-* class [PdfAction](../pdfaction/)
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

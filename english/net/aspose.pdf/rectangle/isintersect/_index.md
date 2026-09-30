@@ -1,10 +1,13 @@
 ---
-title: Rectangle.IsIntersect
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle method. Determines whether this rectangle intersects with other rectangle
+title: "Rectangle.IsIntersect"
+linktitle: "IsIntersect"
+articleTitle: "IsIntersect"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Determines whether this rectangle intersects with other rectangle."
 type: docs
-weight: 220
-url: /net/aspose.pdf/rectangle/isintersect/
+weight: 110
+url: "/net/aspose.pdf/rectangle/isintersect/"
+product_version: "26.9.0"
 ---
 ## Rectangle.IsIntersect method
 
@@ -24,8 +27,7 @@ True if this rectangle intersects with specified rectangle. Otherwise false.
 
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: BoundsCheckableList1.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList property. Gets the value indicating if collection is readonly
+title: "BoundsCheckableList<T>.IsReadOnly"
+linktitle: "IsReadOnly"
+articleTitle: "IsReadOnly"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BoundsCheckableList property. Gets the value indicating if collection is readonly."
 type: docs
-weight: 30
-url: /net/aspose.pdf/boundscheckablelist-1/isreadonly/
+weight: 150
+url: "/net/aspose.pdf/boundscheckablelist-1/isreadonly/"
+product_version: "26.9.0"
 ---
-## BoundsCheckableList&lt;T&gt;.IsReadOnly property
+## BoundsCheckableList<T>.IsReadOnly property
 
 Gets the value indicating if collection is readonly.
 
@@ -16,8 +19,7 @@ public bool IsReadOnly { get; }
 
 ### See Also
 
-* class [BoundsCheckableList&lt;T&gt;](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BoundsCheckableList<T>](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

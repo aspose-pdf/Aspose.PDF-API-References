@@ -1,10 +1,13 @@
 ---
-title: HeaderFooterSettings.HorizontalAlignment.Center
-second_title: Aspose.PDF for .NET API Reference
-description: HorizontalAlignment property. Gets or sets the center alignment settings
+title: "HeaderFooterSettings.HorizontalAlignment.Center"
+linktitle: "Center"
+articleTitle: "Center"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HorizontalAlignment property. Gets or sets the center alignment settings."
 type: docs
-weight: 20
-url: /net/aspose.pdf/headerfootersettings.horizontalalignment/center/
+weight: 30
+url: "/net/aspose.pdf/headerfootersettings.horizontalalignment/center/"
+product_version: "26.9.0"
 ---
 ## HeaderFooterSettings.HorizontalAlignment.Center property
 
@@ -16,9 +19,8 @@ public Center Center { get; set; }
 
 ### See Also
 
-* class [Center](../../center/)
-* class [HorizontalAlignment](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Center](../../../aspose.pdf/center/)
+* class [HeaderFooterSettings.HorizontalAlignment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

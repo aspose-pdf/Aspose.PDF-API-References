@@ -1,10 +1,13 @@
 ---
-title: TabStop.Position
-second_title: Aspose.PDF for .NET API Reference
-description: TabStop property. Gets or sets a float value that indicates the tab stop position
+title: "TabStop.Position"
+linktitle: "Position"
+articleTitle: "Position"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TabStop property. Gets or sets a float value that indicates the tab stop position."
 type: docs
-weight: 50
-url: /net/aspose.pdf.text/tabstop/position/
+weight: 30
+url: "/net/aspose.pdf.text/tabstop/position/"
+product_version: "26.9.0"
 ---
 ## TabStop.Position property
 
@@ -16,8 +19,7 @@ public float Position { get; set; }
 
 ### See Also
 
-* class [TabStop](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TabStop](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

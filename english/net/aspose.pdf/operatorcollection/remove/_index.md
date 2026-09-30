@@ -1,10 +1,13 @@
 ---
-title: OperatorCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection method. Remove operator from the collection
+title: "OperatorCollection.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OperatorCollection method. Remove operator from the collection."
 type: docs
-weight: 150
-url: /net/aspose.pdf/operatorcollection/remove/
+weight: 200
+url: "/net/aspose.pdf/operatorcollection/remove/"
+product_version: "26.9.0"
 ---
 ## OperatorCollection.Remove method
 
@@ -24,9 +27,8 @@ True if operator was found and removed. False if operator did not belong to the 
 
 ### See Also
 
-* class [Operator](../../operator/)
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Operator](../../../aspose.pdf/operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,20 @@
 ---
-title: PdfFileSecurity.TryEncryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity method. Encrypts Pdf file with userpassword and ownerpassword and sets the documents privileges to access. The user password and the owner password can be null or empty. The owner password will be replaced with a random string if the input owner password is null or empty. Does not throw an exception if process failed
+title: "PdfFileSecurity.TryEncryptFile"
+linktitle: "TryEncryptFile"
+articleTitle: "TryEncryptFile"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSecurity method. Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. The user password and the owner p..."
 type: docs
-weight: 110
-url: /net/aspose.pdf.facades/pdffilesecurity/tryencryptfile/
+weight: 40
+url: "/net/aspose.pdf.facades/pdffilesecurity/tryencryptfile/"
+product_version: "26.9.0"
 ---
 ## PdfFileSecurity.TryEncryptFile method
 
-Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. The user password and the owner password can be null or empty. The owner password will be replaced with a random string if the input owner password is null or empty. Does not throw an exception if process failed.
+Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access.
+ The user password and the owner password can be null or empty. The owner password will be replaced 
+ with a random string if the input owner password is null or empty.
+ Does not throw an exception if process failed.
 
 ```csharp
 public bool TryEncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -44,10 +50,9 @@ Dim result As Boolean = fileSecurity.TryEncryptFile("userpass", "ownerpass", Doc
 
 ### See Also
 
-* class [DocumentPrivilege](../../documentprivilege/)
-* enum [KeySize](../../keysize/)
-* class [PdfFileSecurity](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* enum [KeySize](../../../aspose.pdf.facades/keysize/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

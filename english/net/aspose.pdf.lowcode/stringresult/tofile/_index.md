@@ -1,10 +1,13 @@
 ---
-title: StringResult.ToFile
-second_title: Aspose.PDF for .NET API Reference
-description: StringResult method. Tries to convert the result to a file
+title: "StringResult.ToFile"
+linktitle: "ToFile"
+articleTitle: "ToFile"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StringResult method. Tries to convert the result to a file."
 type: docs
-weight: 60
-url: /net/aspose.pdf.lowcode/stringresult/tofile/
+weight: 10
+url: "/net/aspose.pdf.lowcode/stringresult/tofile/"
+product_version: "26.9.0"
 ---
 ## StringResult.ToFile method
 
@@ -20,8 +23,7 @@ A string representing the path to the output file if the result is file; otherwi
 
 ### See Also
 
-* class [StringResult](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StringResult](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

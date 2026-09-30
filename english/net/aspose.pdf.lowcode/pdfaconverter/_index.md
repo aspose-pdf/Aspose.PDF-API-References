@@ -1,10 +1,14 @@
 ---
-title: Class PdfAConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.PdfAConverter class. Represents a plugin for handling the conversion of PDF documents in a PDF/A format and for validation of the PDF/A conformance
+title: "PdfAConverter Class"
+linktitle: "PdfAConverter"
+articleTitle: "PdfAConverter"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfAConverter class. Represents a plugin for handling the conversion of PDF documents in a PDF/A format and for validation of the PDF/A co..."
 type: docs
-weight: 7640
-url: /net/aspose.pdf.lowcode/pdfaconverter/
+weight: 590
+url: "/net/aspose.pdf.lowcode/pdfaconverter/"
+keywords: "PdfAConverter, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## PdfAConverter class
 
@@ -13,18 +17,6 @@ Represents a plugin for handling the conversion of PDF documents in a PDF/A form
 ```csharp
 public sealed class PdfAConverter : IPlugin
 ```
-
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [PdfAConverter](pdfaconverter/)() | The default constructor. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| [Process](../../aspose.pdf.lowcode/pdfaconverter/process/)(IPluginOptions) | Begins a PDF/A conversion or validation process with given options. |
 
 ## Examples
 
@@ -79,10 +71,20 @@ var plugin = new PdfAConverter();
 plugin.Process(options);
 ```
 
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [PdfAConverter](./pdfaconverter/)() | The default constructor. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Process](./process/)(IPluginOptions) | Begins a PDF/A conversion or validation process with given options. |
+
 ### See Also
 
-* interface [IPlugin](../iplugin/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

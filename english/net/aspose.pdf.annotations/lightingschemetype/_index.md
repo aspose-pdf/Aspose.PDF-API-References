@@ -1,10 +1,13 @@
 ---
-title: Enum LightingSchemeType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.LightingSchemeType enum. Enum LightingSchemeType set of lighting scheme types
+title: "LightingSchemeType Enum"
+linktitle: "LightingSchemeType"
+articleTitle: "LightingSchemeType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.LightingSchemeType enum. Enum LightingSchemeType: set of lighting scheme types."
 type: docs
-weight: 2060
-url: /net/aspose.pdf.annotations/lightingschemetype/
+weight: 590
+url: "/net/aspose.pdf.annotations/lightingschemetype/"
+product_version: "26.9.0"
 ---
 ## LightingSchemeType enumeration
 
@@ -33,7 +36,6 @@ public enum LightingSchemeType
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

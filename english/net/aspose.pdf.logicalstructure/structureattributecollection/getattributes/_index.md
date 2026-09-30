@@ -1,14 +1,17 @@
 ---
-title: StructureAttributeCollection.GetAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttributeCollection method. Return StructureAttributes of structure element by standard attribute owner
+title: "StructureAttributeCollection.GetAttributes"
+linktitle: "GetAttributes"
+articleTitle: "GetAttributes"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureAttributeCollection method. Return StructureAttributes of structure element by standard attribute owner."
 type: docs
-weight: 20
-url: /net/aspose.pdf.logicalstructure/structureattributecollection/getattributes/
+weight: 10
+url: "/net/aspose.pdf.logicalstructure/structureattributecollection/getattributes/"
+product_version: "26.9.0"
 ---
 ## StructureAttributeCollection.GetAttributes method
 
-Return [`StructureAttributes`](../../structureattributes/) of structure element by standard attribute owner.
+Return [`StructureAttributes`](../../../aspose.pdf.logicalstructure/structureattributes/) of structure element by standard attribute owner.
 
 ```csharp
 public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
@@ -20,14 +23,13 @@ public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
 
 ### Return Value
 
-[`StructureAttributes`](../../structureattributes/) of structure element. Return null if not found.
+[`StructureAttributes`](../../../aspose.pdf.logicalstructure/structureattributes/) of structure element. Return null if not found.
 
 ### See Also
 
-* class [StructureAttributes](../../structureattributes/)
-* class [AttributeOwnerStandard](../../attributeownerstandard/)
-* class [StructureAttributeCollection](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureAttributes](../../../aspose.pdf.logicalstructure/structureattributes/)
+* class [AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
+* class [StructureAttributeCollection](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

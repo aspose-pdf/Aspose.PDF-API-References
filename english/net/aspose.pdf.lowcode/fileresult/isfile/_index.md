@@ -1,10 +1,13 @@
 ---
-title: FileResult.IsFile
-second_title: Aspose.PDF for .NET API Reference
-description: FileResult property. Indicates whether the result is a path to an output file
+title: "FileResult.IsFile"
+linktitle: "IsFile"
+articleTitle: "IsFile"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileResult property. Indicates whether the result is a path to an output file."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/fileresult/isfile/
+weight: 30
+url: "/net/aspose.pdf.lowcode/fileresult/isfile/"
+product_version: "26.9.0"
 ---
 ## FileResult.IsFile property
 
@@ -20,8 +23,7 @@ public bool IsFile { get; }
 
 ### See Also
 
-* class [FileResult](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileResult](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

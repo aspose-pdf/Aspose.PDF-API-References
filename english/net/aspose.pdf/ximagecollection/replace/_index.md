@@ -1,12 +1,15 @@
 ---
-title: XImageCollection.Replace
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection method. Replace image in collection with another image
+title: "XImageCollection.Replace"
+linktitle: "Replace"
+articleTitle: "Replace"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImageCollection method. Replace image in collection with another image."
 type: docs
-weight: 150
-url: /net/aspose.pdf/ximagecollection/replace/
+weight: 140
+url: "/net/aspose.pdf/ximagecollection/replace/"
+product_version: "26.9.0"
 ---
-## Replace(int, Stream) {#replace}
+## Replace(int, Stream) {#replace}
 
 Replace image in collection with another image.
 
@@ -21,13 +24,35 @@ public void Replace(int index, Stream stream)
 
 ### See Also
 
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Replace(int, Stream, int, bool) {#replace_2}
+## Replace(int, Stream, int) {#replace_1}
+
+Replace image in collection with another image.
+
+```csharp
+public void Replace(int index, Stream stream, int quality)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | Int32 | Index of collection item which will be replaced in [1..images count] range. |
+| stream | Stream | Stream containing image data (in JPEG format). |
+| quality | Int32 | JPEG quality. |
+
+### See Also
+
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Replace(int, Stream, int, bool) {#replace_2}
 
 Replace image in collection with another image.
 
@@ -44,30 +69,7 @@ public void Replace(int index, Stream stream, int quality, bool isBlackAndWhite)
 
 ### See Also
 
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Replace(int, Stream, int) {#replace_1}
-
-Replace image in collection with another image.
-
-```csharp
-public void Replace(int index, Stream stream, int quality)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | Int32 | Index of collection item which will be replaced in [1..images count] range. |
-| stream | Stream | Stream containing image data (in JPEG format). |
-| quality | Int32 | JPEG quality. |
-
-### See Also
-
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

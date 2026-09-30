@@ -1,11 +1,30 @@
 ---
-title: EmbeddedFileCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection method. Delete embedded file by name
+title: "EmbeddedFileCollection.Delete"
+linktitle: "Delete"
+articleTitle: "Delete"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EmbeddedFileCollection method. Delete embedded file by name."
 type: docs
-weight: 80
-url: /net/aspose.pdf/embeddedfilecollection/delete/
+weight: 70
+url: "/net/aspose.pdf/embeddedfilecollection/delete/"
+product_version: "26.9.0"
 ---
+## Delete() {#delete}
+
+Remove all embedded files from document.
+
+```csharp
+public void Delete()
+```
+
+### See Also
+
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## Delete(string) {#delete_1}
 
 Delete embedded file by name.
@@ -20,24 +39,7 @@ public void Delete(string name)
 
 ### See Also
 
-* class [EmbeddedFileCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Delete() {#delete}
-
-Remove all embedded files from document.
-
-```csharp
-public void Delete()
-```
-
-### See Also
-
-* class [EmbeddedFileCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum ImageDeleteAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImageDeleteAction enum. Action which performed with image object when image is removed from collection. If image object is removed
+title: "ImageDeleteAction Enum"
+linktitle: "ImageDeleteAction"
+articleTitle: "ImageDeleteAction"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ImageDeleteAction enum. Action which performed with image object when image is removed from collection. If image object is removed"
 type: docs
-weight: 6010
-url: /net/aspose.pdf/imagedeleteaction/
+weight: 1490
+url: "/net/aspose.pdf/imagedeleteaction/"
+product_version: "26.9.0"
 ---
 ## ImageDeleteAction enumeration
 
@@ -25,7 +28,6 @@ public enum ImageDeleteAction
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

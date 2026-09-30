@@ -1,10 +1,13 @@
 ---
-title: SetCharWidthBoundingBox.SetCharWidthBoundingBox
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidthBoundingBox constructor. Initializes SetCharWidthBoundingBox operator
+title: "SetCharWidthBoundingBox.SetCharWidthBoundingBox"
+linktitle: "SetCharWidthBoundingBox"
+articleTitle: "SetCharWidthBoundingBox"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetCharWidthBoundingBox constructor. Initializes SetCharWidthBoundingBox operator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/setcharwidthboundingbox/setcharwidthboundingbox/
+url: "/net/aspose.pdf.operators/setcharwidthboundingbox/setcharwidthboundingbox/"
+product_version: "26.9.0"
 ---
 ## SetCharWidthBoundingBox constructor
 
@@ -25,8 +28,7 @@ public SetCharWidthBoundingBox(double wx, double wy, double llx, double lly, dou
 
 ### See Also
 
-* class [SetCharWidthBoundingBox](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

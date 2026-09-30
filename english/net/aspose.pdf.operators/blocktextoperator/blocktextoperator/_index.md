@@ -1,10 +1,13 @@
 ---
-title: BlockTextOperator.BlockTextOperator
-second_title: Aspose.PDF for .NET API Reference
-description: BlockTextOperator constructor. Initializes operator
+title: "BlockTextOperator.BlockTextOperator"
+linktitle: "BlockTextOperator"
+articleTitle: "BlockTextOperator"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BlockTextOperator constructor. Initializes operator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/blocktextoperator/blocktextoperator/
+url: "/net/aspose.pdf.operators/blocktextoperator/blocktextoperator/"
+product_version: "26.9.0"
 ---
 ## BlockTextOperator() {#constructor}
 
@@ -16,13 +19,13 @@ public BlockTextOperator()
 
 ### See Also
 
-* class [BlockTextOperator](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [BlockTextOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BlockTextOperator(TextProperties) {#constructor_1}
+## BlockTextOperator([TextProperties](../../../aspose.pdf.facades/textproperties/)) {#constructor_1}
 
 Initializes BlockTextOperator which accepts TextProperties.
 
@@ -36,9 +39,8 @@ public BlockTextOperator(TextProperties textProperties)
 
 ### See Also
 
-* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
-* class [BlockTextOperator](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
+* class [BlockTextOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

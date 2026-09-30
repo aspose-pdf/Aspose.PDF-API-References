@@ -1,10 +1,13 @@
 ---
-title: Cells.RemoveRange
-second_title: Aspose.PDF for .NET API Reference
-description: Cells method. Remove cell set from collection
+title: "Cells.RemoveRange"
+linktitle: "RemoveRange"
+articleTitle: "RemoveRange"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Cells method. Remove cell set from collection."
 type: docs
-weight: 90
-url: /net/aspose.pdf/cells/removerange/
+weight: 70
+url: "/net/aspose.pdf/cells/removerange/"
+product_version: "26.9.0"
 ---
 ## Cells.RemoveRange method
 
@@ -21,8 +24,7 @@ public void RemoveRange(int index, int count)
 
 ### See Also
 
-* class [Cells](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

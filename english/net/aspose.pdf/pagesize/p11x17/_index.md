@@ -1,10 +1,13 @@
 ---
-title: PageSize.P11x17
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize property. 11x17 inches format
+title: "PageSize.P11x17"
+linktitle: "P11x17"
+articleTitle: "P11x17"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSize property. 11x17 inches format."
 type: docs
-weight: 100
-url: /net/aspose.pdf/pagesize/p11x17/
+weight: 160
+url: "/net/aspose.pdf/pagesize/p11x17/"
+product_version: "26.9.0"
 ---
 ## PageSize.P11x17 property
 
@@ -16,8 +19,7 @@ public static PageSize P11x17 { get; }
 
 ### See Also
 
-* class [PageSize](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

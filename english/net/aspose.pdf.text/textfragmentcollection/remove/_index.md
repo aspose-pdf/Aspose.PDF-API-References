@@ -1,10 +1,13 @@
 ---
-title: TextFragmentCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentCollection method. Deletes specified item from the collection and also removes it from the document
+title: "TextFragmentCollection.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentCollection method. Deletes specified item from the collection and also removes it from the document."
 type: docs
-weight: 110
-url: /net/aspose.pdf.text/textfragmentcollection/remove/
+weight: 60
+url: "/net/aspose.pdf.text/textfragmentcollection/remove/"
+product_version: "26.9.0"
 ---
 ## TextFragmentCollection.Remove method
 
@@ -24,9 +27,8 @@ true if item was deleted from collection; otherwise, false.
 
 ### See Also
 
-* class [TextFragment](../../textfragment/)
-* class [TextFragmentCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

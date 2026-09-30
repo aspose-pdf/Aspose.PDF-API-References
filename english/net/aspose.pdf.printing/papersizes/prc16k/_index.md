@@ -1,10 +1,13 @@
 ---
-title: PaperSizes.Prc16K
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. 16K paper 146 mm by 215 mm
+title: "PaperSizes.Prc16K"
+linktitle: "Prc16K"
+articleTitle: "Prc16K"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. 16K paper (146 mm by 215 mm)."
 type: docs
-weight: 800
-url: /net/aspose.pdf.printing/papersizes/prc16k/
+weight: 910
+url: "/net/aspose.pdf.printing/papersizes/prc16k/"
+product_version: "26.9.0"
 ---
 ## PaperSizes.Prc16K field
 
@@ -16,9 +19,8 @@ public static readonly PaperSize Prc16K;
 
 ### See Also
 
-* class [PaperSize](../../papersize/)
-* class [PaperSizes](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

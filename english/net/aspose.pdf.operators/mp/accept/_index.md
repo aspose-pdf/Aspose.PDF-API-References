@@ -1,10 +1,13 @@
 ---
-title: MP.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: MP method. Accepts visitor object to process operator
+title: "MP.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MP method. Accepts visitor object to process operator."
 type: docs
-weight: 30
-url: /net/aspose.pdf.operators/mp/accept/
+weight: 20
+url: "/net/aspose.pdf.operators/mp/accept/"
+product_version: "26.9.0"
 ---
 ## MP.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* class [MP](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [MP](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PDF3DCrossSectionArray.Count
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSectionArray property. Gets the cross section count
+title: "PDF3DCrossSectionArray.Count"
+linktitle: "Count"
+articleTitle: "Count"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCrossSectionArray property. Gets the cross section count."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/pdf3dcrosssectionarray/count/
+weight: 50
+url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/count/"
+product_version: "26.9.0"
 ---
 ## PDF3DCrossSectionArray.Count property
 
@@ -20,8 +23,7 @@ The cross section count.
 
 ### See Also
 
-* class [PDF3DCrossSectionArray](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

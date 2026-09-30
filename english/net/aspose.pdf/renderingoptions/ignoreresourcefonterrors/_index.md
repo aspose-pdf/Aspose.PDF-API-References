@@ -1,14 +1,19 @@
 ---
-title: RenderingOptions.IgnoreResourceFontErrors
-second_title: Aspose.PDF for .NET API Reference
-description: RenderingOptions property. Gets or sets indication that errors related to absence of font will be ignored. true  means that errors of absence of font will be ignored. Text segments that refer to incorrect resources will be skipped during processing. false by default
+title: "RenderingOptions.IgnoreResourceFontErrors"
+linktitle: "IgnoreResourceFontErrors"
+articleTitle: "IgnoreResourceFontErrors"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RenderingOptions property. Gets or sets indication that errors related to absence of font will be ignored. true - means that errors of absence of font will b..."
 type: docs
-weight: 70
-url: /net/aspose.pdf/renderingoptions/ignoreresourcefonterrors/
+weight: 130
+url: "/net/aspose.pdf/renderingoptions/ignoreresourcefonterrors/"
+product_version: "26.9.0"
 ---
 ## RenderingOptions.IgnoreResourceFontErrors property
 
-Gets or sets indication that errors related to absence of font will be ignored. true - means that errors of absence of font will be ignored. Text segments that refer to incorrect resources will be skipped during processing. false by default
+Gets or sets indication that errors related to absence of font will be ignored.
+ true - means that errors of absence of font will be ignored. Text segments that refer to incorrect resources will be skipped during processing.
+ false by default
 
 ```csharp
 public bool IgnoreResourceFontErrors { get; set; }
@@ -16,8 +21,7 @@ public bool IgnoreResourceFontErrors { get; set; }
 
 ### See Also
 
-* class [RenderingOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

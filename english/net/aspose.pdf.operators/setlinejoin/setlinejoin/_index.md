@@ -1,10 +1,13 @@
 ---
-title: SetLineJoin.SetLineJoin
-second_title: Aspose.PDF for .NET API Reference
-description: SetLineJoin constructor. Initializes operator
+title: "SetLineJoin.SetLineJoin"
+linktitle: "SetLineJoin"
+articleTitle: "SetLineJoin"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetLineJoin constructor. Initializes operator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/setlinejoin/setlinejoin/
+url: "/net/aspose.pdf.operators/setlinejoin/setlinejoin/"
+product_version: "26.9.0"
 ---
 ## SetLineJoin() {#constructor}
 
@@ -16,23 +19,28 @@ public SetLineJoin()
 
 ### See Also
 
-* class [SetLineJoin](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [SetLineJoin](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SetLineJoin(LineJoin) {#constructor_1}
+## SetLineJoin([LineJoin](../../../aspose.pdf.operators/linejoin/)) {#constructor_1}
+
+Initializes a new instance of the SetLineJoin class.
 
 ```csharp
 public SetLineJoin(LineJoin join)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| join | LineJoin |  |
+
 ### See Also
 
-* enum [LineJoin](../../linejoin/)
-* class [SetLineJoin](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [LineJoin](../../../aspose.pdf.operators/linejoin/)
+* class [SetLineJoin](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

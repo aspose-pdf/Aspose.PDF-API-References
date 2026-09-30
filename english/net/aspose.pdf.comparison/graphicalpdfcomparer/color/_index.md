@@ -1,14 +1,18 @@
 ---
-title: GraphicalPdfComparer.Color
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicalPdfComparer property. Gets and sets the change flag color. The default color is red
+title: "GraphicalPdfComparer.Color"
+linktitle: "Color"
+articleTitle: "Color"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicalPdfComparer property. Gets and sets the change flag color. The default color is red."
 type: docs
-weight: 20
-url: /net/aspose.pdf.comparison/graphicalpdfcomparer/color/
+weight: 90
+url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/color/"
+product_version: "26.9.0"
 ---
 ## GraphicalPdfComparer.Color property
 
-Gets and sets the change flag color. The default color is red.
+Gets and sets the change flag color.
+ The default color is red.
 
 ```csharp
 public Color Color { get; set; }
@@ -16,9 +20,8 @@ public Color Color { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
-* class [GraphicalPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

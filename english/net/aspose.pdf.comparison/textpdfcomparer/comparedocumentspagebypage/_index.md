@@ -1,12 +1,15 @@
 ---
-title: TextPdfComparer.CompareDocumentsPageByPage
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer method. Compares two documents page by page
+title: "TextPdfComparer.CompareDocumentsPageByPage"
+linktitle: "CompareDocumentsPageByPage"
+articleTitle: "CompareDocumentsPageByPage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextPdfComparer method. Compares two documents page by page."
 type: docs
-weight: 40
-url: /net/aspose.pdf.comparison/textpdfcomparer/comparedocumentspagebypage/
+weight: 20
+url: "/net/aspose.pdf.comparison/textpdfcomparer/comparedocumentspagebypage/"
+product_version: "26.9.0"
 ---
-## CompareDocumentsPageByPage(Document, Document, ComparisonOptions) {#comparedocumentspagebypage}
+## CompareDocumentsPageByPage([Document](../../../aspose.pdf/document/), [Document](../../../aspose.pdf/document/), [ComparisonOptions](../../../aspose.pdf.comparison/comparisonoptions/)) {#comparedocumentspagebypage}
 
 Compares two documents page by page.
 
@@ -27,16 +30,15 @@ List of changes by page.
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [Document](../../../aspose.pdf/document/)
-* class [ComparisonOptions](../../comparisonoptions/)
-* class [TextPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ComparisonOptions](../../../aspose.pdf.comparison/comparisonoptions/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CompareDocumentsPageByPage(Document, Document, ComparisonOptions, string) {#comparedocumentspagebypage_1}
+## CompareDocumentsPageByPage([Document](../../../aspose.pdf/document/), [Document](../../../aspose.pdf/document/), [ComparisonOptions](../../../aspose.pdf.comparison/comparisonoptions/), string) {#comparedocumentspagebypage_1}
 
 Compares two documents page by page. The result is saved in a PDF file.
 
@@ -58,11 +60,9 @@ List of changes by page.
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [Document](../../../aspose.pdf/document/)
-* class [ComparisonOptions](../../comparisonoptions/)
-* class [TextPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [ComparisonOptions](../../../aspose.pdf.comparison/comparisonoptions/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

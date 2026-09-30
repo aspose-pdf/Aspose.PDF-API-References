@@ -1,10 +1,13 @@
 ---
-title: Page.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: Page property. Gets collection of page properties
+title: "Page.Actions"
+linktitle: "Actions"
+articleTitle: "Actions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets collection of page properties."
 type: docs
-weight: 10
-url: /net/aspose.pdf/page/actions/
+weight: 630
+url: "/net/aspose.pdf/page/actions/"
+product_version: "26.9.0"
 ---
 ## Page.Actions property
 
@@ -16,9 +19,8 @@ public PageActionCollection Actions { get; }
 
 ### See Also
 
-* class [PageActionCollection](../../pageactioncollection/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageActionCollection](../../../aspose.pdf/pageactioncollection/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

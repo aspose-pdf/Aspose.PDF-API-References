@@ -1,10 +1,13 @@
 ---
-title: StructureTypeCategory.BLSEs
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeCategory field. Blocklevel structure elements BLSEs describe the overall layout of content on the page proceeding in the blockprogression direction
+title: "StructureTypeCategory.BLSEs"
+linktitle: "BLSEs"
+articleTitle: "BLSEs"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeCategory field. Block-level structure elements (BLSEs) describe the overall layout of content on the page, proceeding in the block-progression d..."
 type: docs
-weight: 10
-url: /net/aspose.pdf.logicalstructure/structuretypecategory/blses/
+weight: 40
+url: "/net/aspose.pdf.logicalstructure/structuretypecategory/blses/"
+product_version: "26.9.0"
 ---
 ## StructureTypeCategory.BLSEs field
 
@@ -16,8 +19,7 @@ public static readonly StructureTypeCategory BLSEs;
 
 ### See Also
 
-* class [StructureTypeCategory](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureTypeCategory](../../../aspose.pdf.logicalstructure/structuretypecategory/)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

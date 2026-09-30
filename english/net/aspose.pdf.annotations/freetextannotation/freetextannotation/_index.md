@@ -1,12 +1,15 @@
 ---
-title: FreeTextAnnotation.FreeTextAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation constructor. Constructor to use with Generator
+title: "FreeTextAnnotation.FreeTextAnnotation"
+linktitle: "FreeTextAnnotation"
+articleTitle: "FreeTextAnnotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FreeTextAnnotation constructor. Constructor to use with Generator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/freetextannotation/freetextannotation/
+url: "/net/aspose.pdf.annotations/freetextannotation/freetextannotation/"
+product_version: "26.9.0"
 ---
-## FreeTextAnnotation(Document, DefaultAppearance) {#constructor}
+## FreeTextAnnotation([Document](../../../aspose.pdf/document/), [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)) {#constructor}
 
 Constructor to use with Generator.
 
@@ -21,15 +24,15 @@ public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [DefaultAppearance](../../defaultappearance/)
-* class [FreeTextAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FreeTextAnnotation(Page, Rectangle, DefaultAppearance) {#constructor_1}
+## FreeTextAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)) {#constructor_1}
 
 Creates new FreeText annotation on the specified page.
 
@@ -45,11 +48,10 @@ public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearanc
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [DefaultAppearance](../../defaultappearance/)
-* class [FreeTextAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: IOpenAIClient.CreateThreadAndRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Creates a thread and a run within it asynchronously
+title: "IOpenAIClient.CreateThreadAndRunAsync"
+linktitle: "CreateThreadAndRunAsync"
+articleTitle: "CreateThreadAndRunAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Creates a thread and a run within it asynchronously."
 type: docs
-weight: 60
-url: /net/aspose.pdf.ai/iopenaiclient/createthreadandrunasync/
+weight: 150
+url: "/net/aspose.pdf.ai/iopenaiclient/createthreadandrunasync/"
+product_version: "26.9.0"
 ---
 ## IOpenAIClient.CreateThreadAndRunAsync method
 
@@ -26,10 +29,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [RunResponse](../../runresponse/)
-* class [RunThreadCreateRequest](../../runthreadcreaterequest/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RunThreadCreateRequest](../../../aspose.pdf.ai/runthreadcreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

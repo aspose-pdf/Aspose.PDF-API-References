@@ -1,10 +1,13 @@
 ---
-title: ET.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: ET method. Produces text code of operator
+title: "ET.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ET method. Produces text code of operator."
 type: docs
 weight: 30
-url: /net/aspose.pdf.operators/et/tostring/
+url: "/net/aspose.pdf.operators/et/tostring/"
+product_version: "26.9.0"
 ---
 ## ET.ToString method
 
@@ -20,8 +23,7 @@ Text representation of operator.
 
 ### See Also
 
-* class [ET](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ET](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

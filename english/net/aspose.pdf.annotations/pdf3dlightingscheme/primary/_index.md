@@ -1,10 +1,13 @@
 ---
-title: PDF3DLightingScheme.Primary
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DLightingScheme field. The Primary lighting scheme
+title: "PDF3DLightingScheme.Primary"
+linktitle: "Primary"
+articleTitle: "Primary"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DLightingScheme field. The \"Primary\" lighting scheme."
 type: docs
-weight: 110
-url: /net/aspose.pdf.annotations/pdf3dlightingscheme/primary/
+weight: 100
+url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/primary/"
+product_version: "26.9.0"
 ---
 ## PDF3DLightingScheme.Primary field
 
@@ -16,8 +19,7 @@ public static PDF3DLightingScheme Primary;
 
 ### See Also
 
-* class [PDF3DLightingScheme](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DLightingScheme](../../../aspose.pdf.annotations/pdf3dlightingscheme/)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

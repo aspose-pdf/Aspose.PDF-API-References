@@ -1,10 +1,13 @@
 ---
-title: Document.PrintScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Document property. Gets or sets the page scaling option that shall be selected when a print dialog is displayed for this document
+title: "Document.PrintScaling"
+linktitle: "PrintScaling"
+articleTitle: "PrintScaling"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets or sets the page scaling option that shall be selected when a print dialog is displayed for this document."
 type: docs
-weight: 530
-url: /net/aspose.pdf/document/printscaling/
+weight: 1420
+url: "/net/aspose.pdf/document/printscaling/"
+product_version: "26.9.0"
 ---
 ## Document.PrintScaling property
 
@@ -16,9 +19,8 @@ public PrintScaling PrintScaling { get; set; }
 
 ### See Also
 
-* enum [PrintScaling](../../printscaling/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [PrintScaling](../../../aspose.pdf/printscaling/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

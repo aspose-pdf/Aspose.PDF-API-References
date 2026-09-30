@@ -1,10 +1,13 @@
 ---
-title: FormFieldFacade.CheckBoxStyleStar
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade field. Defines a star check box style
+title: "FormFieldFacade.CheckBoxStyleStar"
+linktitle: "CheckBoxStyleStar"
+articleTitle: "CheckBoxStyleStar"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Defines a star check box style."
 type: docs
-weight: 440
-url: /net/aspose.pdf.facades/formfieldfacade/checkboxstylestar/
+weight: 430
+url: "/net/aspose.pdf.facades/formfieldfacade/checkboxstylestar/"
+product_version: "26.9.0"
 ---
 ## FormFieldFacade.CheckBoxStyleStar field
 
@@ -16,8 +19,7 @@ public const int CheckBoxStyleStar;
 
 ### See Also
 
-* class [FormFieldFacade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

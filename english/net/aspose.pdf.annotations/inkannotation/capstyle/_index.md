@@ -1,10 +1,13 @@
 ---
-title: InkAnnotation.CapStyle
-second_title: Aspose.PDF for .NET API Reference
-description: InkAnnotation property. Style of ink annotation line endings
+title: "InkAnnotation.CapStyle"
+linktitle: "CapStyle"
+articleTitle: "CapStyle"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "InkAnnotation property. Style of ink annotation line endings."
 type: docs
-weight: 30
-url: /net/aspose.pdf.annotations/inkannotation/capstyle/
+weight: 50
+url: "/net/aspose.pdf.annotations/inkannotation/capstyle/"
+product_version: "26.9.0"
 ---
 ## InkAnnotation.CapStyle property
 
@@ -16,9 +19,8 @@ public CapStyle CapStyle { get; set; }
 
 ### See Also
 
-* enum [CapStyle](../../capstyle/)
-* class [InkAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [CapStyle](../../../aspose.pdf.annotations/capstyle/)
+* class [InkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum ValidationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.ValidationStatus enum. Represents the validation status of a certificate validation
+title: "ValidationStatus Enum"
+linktitle: "ValidationStatus"
+articleTitle: "ValidationStatus"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.ValidationStatus enum. Represents the validation status of a certificate validation."
 type: docs
-weight: 10470
-url: /net/aspose.pdf.security/validationstatus/
+weight: 220
+url: "/net/aspose.pdf.security/validationstatus/"
+product_version: "26.9.0"
 ---
 ## ValidationStatus enumeration
 
@@ -24,11 +27,13 @@ public enum ValidationStatus
 
 ## Remarks
 
-This enumeration defines the possible outcomes of certificate validation: - Valid: Indicates that the certificate has been successfully validated. - Invalid: Indicates that the certificate validation failed. - Undefined: Indicates that the validation process was inconclusive or not performed.
+This enumeration defines the possible outcomes of certificate validation:
+ - Valid: Indicates that the certificate has been successfully validated.
+ - Invalid: Indicates that the certificate validation failed.
+ - Undefined: Indicates that the validation process was inconclusive or not performed.
 
 ### See Also
 
-* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
 

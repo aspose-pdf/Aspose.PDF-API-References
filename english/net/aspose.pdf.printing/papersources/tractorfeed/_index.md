@@ -1,10 +1,13 @@
 ---
-title: PaperSources.TractorFeed
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources field. Represents a tractor feed continuous paper source
+title: "PaperSources.TractorFeed"
+linktitle: "TractorFeed"
+articleTitle: "TractorFeed"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSources field. Represents a tractor feed continuous paper source."
 type: docs
-weight: 120
-url: /net/aspose.pdf.printing/papersources/tractorfeed/
+weight: 80
+url: "/net/aspose.pdf.printing/papersources/tractorfeed/"
+product_version: "26.9.0"
 ---
 ## PaperSources.TractorFeed field
 
@@ -16,9 +19,8 @@ public static readonly PaperSource TractorFeed;
 
 ### See Also
 
-* class [PaperSource](../../papersource/)
-* class [PaperSources](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

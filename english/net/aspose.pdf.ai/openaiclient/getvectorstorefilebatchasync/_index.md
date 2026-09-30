@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.GetVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Retrieves details of a specific vector store file batch asynchronously
+title: "OpenAIClient.GetVectorStoreFileBatchAsync"
+linktitle: "GetVectorStoreFileBatchAsync"
+articleTitle: "GetVectorStoreFileBatchAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Retrieves details of a specific vector store file batch asynchronously."
 type: docs
-weight: 360
-url: /net/aspose.pdf.ai/openaiclient/getvectorstorefilebatchasync/
+weight: 20
+url: "/net/aspose.pdf.ai/openaiclient/getvectorstorefilebatchasync/"
+product_version: "26.9.0"
 ---
 ## OpenAIClient.GetVectorStoreFileBatchAsync method
 
@@ -29,14 +32,12 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Thrown when the vector store Id is null or empty. |
-| [AIClientException](../../aiclientexception/) | Thrown when the vector store file batch Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the vector store Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the vector store file batch Id is null or empty. |
 
 ### See Also
 
-* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: IIndexBitmapConverter.Get1BppImage
-second_title: Aspose.PDF for .NET API Reference
-description: IIndexBitmapConverter method. Returns 1Bpp bitmap representation
+title: "IIndexBitmapConverter.Get1BppImage"
+linktitle: "Get1BppImage"
+articleTitle: "Get1BppImage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IIndexBitmapConverter method. Returns 1Bpp bitmap representation"
 type: docs
 weight: 10
-url: /net/aspose.pdf/iindexbitmapconverter/get1bppimage/
+url: "/net/aspose.pdf/iindexbitmapconverter/get1bppimage/"
+product_version: "26.9.0"
 ---
 ## IIndexBitmapConverter.Get1BppImage method
 
@@ -24,8 +27,7 @@ Bitmap in 1 bpp image format.
 
 ### See Also
 
-* interface [IIndexBitmapConverter](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IIndexBitmapConverter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

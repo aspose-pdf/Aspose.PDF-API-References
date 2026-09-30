@@ -1,10 +1,13 @@
 ---
-title: XForm.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: XForm property. Gets operators of the form
+title: "XForm.Contents"
+linktitle: "Contents"
+articleTitle: "Contents"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XForm property. Gets operators of the form."
 type: docs
-weight: 30
-url: /net/aspose.pdf/xform/contents/
+weight: 100
+url: "/net/aspose.pdf/xform/contents/"
+product_version: "26.9.0"
 ---
 ## XForm.Contents property
 
@@ -16,9 +19,8 @@ public OperatorCollection Contents { get; }
 
 ### See Also
 
-* class [OperatorCollection](../../operatorcollection/)
-* class [XForm](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OperatorCollection](../../../aspose.pdf/operatorcollection/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

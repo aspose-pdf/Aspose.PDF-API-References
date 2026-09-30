@@ -1,10 +1,13 @@
 ---
-title: CurveTo2.CurveTo2
-second_title: Aspose.PDF for .NET API Reference
-description: CurveTo2 constructor. Initializes curve operator
+title: "CurveTo2.CurveTo2"
+linktitle: "CurveTo2"
+articleTitle: "CurveTo2"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CurveTo2 constructor. Initializes curve operator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/curveto2/curveto2/
+url: "/net/aspose.pdf.operators/curveto2/curveto2/"
+product_version: "26.9.0"
 ---
 ## CurveTo2 constructor
 
@@ -23,8 +26,7 @@ public CurveTo2(double x1, double y1, double x3, double y3)
 
 ### See Also
 
-* class [CurveTo2](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CurveTo2](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

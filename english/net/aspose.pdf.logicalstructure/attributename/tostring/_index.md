@@ -1,10 +1,13 @@
 ---
-title: AttributeName.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName method. Returns a string that represents the current object
+title: "AttributeName.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName method. Returns a string that represents the current object."
 type: docs
-weight: 700
-url: /net/aspose.pdf.logicalstructure/attributename/tostring/
+weight: 20
+url: "/net/aspose.pdf.logicalstructure/attributename/tostring/"
+product_version: "26.9.0"
 ---
 ## AttributeName.ToString method
 
@@ -20,8 +23,7 @@ String that represents the current object.
 
 ### See Also
 
-* class [AttributeName](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

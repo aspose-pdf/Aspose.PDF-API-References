@@ -1,10 +1,13 @@
 ---
-title: Point.Trivial
-second_title: Aspose.PDF for .NET API Reference
-description: Point property. Gets point with zero coordinates
+title: "Point.Trivial"
+linktitle: "Trivial"
+articleTitle: "Trivial"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Point property. Gets point with zero coordinates."
 type: docs
-weight: 20
-url: /net/aspose.pdf/point/trivial/
+weight: 70
+url: "/net/aspose.pdf/point/trivial/"
+product_version: "26.9.0"
 ---
 ## Point.Trivial property
 
@@ -16,8 +19,7 @@ public static Point Trivial { get; }
 
 ### See Also
 
-* class [Point](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Point](../../../aspose.pdf/point/)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

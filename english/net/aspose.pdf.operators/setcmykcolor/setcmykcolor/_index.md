@@ -1,10 +1,13 @@
 ---
-title: SetCMYKColor.SetCMYKColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetCMYKColor constructor. Initializes operator
+title: "SetCMYKColor.SetCMYKColor"
+linktitle: "SetCMYKColor"
+articleTitle: "SetCMYKColor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetCMYKColor constructor. Initializes operator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/setcmykcolor/setcmykcolor/
+url: "/net/aspose.pdf.operators/setcmykcolor/setcmykcolor/"
+product_version: "26.9.0"
 ---
 ## SetCMYKColor constructor
 
@@ -23,8 +26,7 @@ public SetCMYKColor(double c, double m, double y, double k)
 
 ### See Also
 
-* class [SetCMYKColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetCMYKColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

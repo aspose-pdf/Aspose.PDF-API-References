@@ -1,10 +1,13 @@
 ---
-title: HtmlFragment.HtmlFragment
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlFragment constructor. Initializes a new instance of the HtmlFragment class
+title: "HtmlFragment.HtmlFragment"
+linktitle: "HtmlFragment"
+articleTitle: "HtmlFragment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlFragment constructor. Initializes a new instance of the HtmlFragment class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/htmlfragment/htmlfragment/
+url: "/net/aspose.pdf/htmlfragment/htmlfragment/"
+product_version: "26.9.0"
 ---
 ## HtmlFragment constructor
 
@@ -20,8 +23,7 @@ public HtmlFragment(string text)
 
 ### See Also
 
-* class [HtmlFragment](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

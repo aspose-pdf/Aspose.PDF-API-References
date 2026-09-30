@@ -1,10 +1,13 @@
 ---
-title: CustomFontSubstitutionBase.CustomFontSubstitutionBase
-second_title: Aspose.PDF for .NET API Reference
-description: CustomFontSubstitutionBase constructor. The default constructor
+title: "CustomFontSubstitutionBase.CustomFontSubstitutionBase"
+linktitle: "CustomFontSubstitutionBase"
+articleTitle: "CustomFontSubstitutionBase"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CustomFontSubstitutionBase constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.text/customfontsubstitutionbase/customfontsubstitutionbase/
+url: "/net/aspose.pdf.text/customfontsubstitutionbase/customfontsubstitutionbase/"
+product_version: "26.9.0"
 ---
 ## CustomFontSubstitutionBase constructor
 
@@ -16,8 +19,7 @@ public CustomFontSubstitutionBase()
 
 ### See Also
 
-* class [CustomFontSubstitutionBase](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CustomFontSubstitutionBase](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PdfFileMend.PdfFileMend
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileMend constructor. Constructor
+title: "PdfFileMend.PdfFileMend"
+linktitle: "PdfFileMend"
+articleTitle: "PdfFileMend"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileMend constructor. Constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.facades/pdffilemend/pdffilemend/
+url: "/net/aspose.pdf.facades/pdffilemend/pdffilemend/"
+product_version: "26.9.0"
 ---
 ## PdfFileMend() {#constructor}
 
@@ -16,15 +19,15 @@ public PdfFileMend()
 
 ### See Also
 
-* class [PdfFileMend](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFileMend(Document) {#constructor_1}
+## PdfFileMend([Document](../../../aspose.pdf/document/)) {#constructor_1}
 
-Initializes new [`PdfFileMend`](../) object on base of the *document*.
+Initializes new [`PdfFileMend`](../../../aspose.pdf.facades/pdffilemend/) object on base of the *document*.
 
 ```csharp
 public PdfFileMend(Document document)
@@ -36,9 +39,8 @@ public PdfFileMend(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [PdfFileMend](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

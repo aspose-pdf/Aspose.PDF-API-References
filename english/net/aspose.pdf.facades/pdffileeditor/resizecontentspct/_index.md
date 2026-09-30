@@ -1,14 +1,19 @@
 ---
-title: PdfFileEditor.ResizeContentsPct
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Resizes contents of document pages. Shrinks contents of page and adds margins. New contents size is specified in percents
+title: "PdfFileEditor.ResizeContentsPct"
+linktitle: "ResizeContentsPct"
+articleTitle: "ResizeContentsPct"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Resizes contents of document pages. Shrinks contents of page and adds margins. New contents size is specified in percents."
 type: docs
-weight: 330
-url: /net/aspose.pdf.facades/pdffileeditor/resizecontentspct/
+weight: 890
+url: "/net/aspose.pdf.facades/pdffileeditor/resizecontentspct/"
+product_version: "26.9.0"
 ---
-## ResizeContentsPct(Stream, Stream, int[], double, double) {#resizecontentspct}
+## ResizeContentsPct(Stream, Stream, int[], double, double) {#resizecontentspct}
 
-Resizes contents of document pages. Shrinks contents of page and adds margins. New contents size is specified in percents.
+Resizes contents of document pages.
+ Shrinks contents of page and adds margins.
+ New contents size is specified in percents.
 
 ```csharp
 public bool ResizeContentsPct(Stream source, Stream destination, int[] pages, double newWidth, 
@@ -46,15 +51,17 @@ null,
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ResizeContentsPct(string, string, int[], double, double) {#resizecontentspct_1}
+## ResizeContentsPct(string, string, int[], double, double) {#resizecontentspct_1}
 
-Resizes contents of document pages. Shrinks contents of page and adds margins. New contents size is specified in percents.
+Resizes contents of document pages.
+ Shrinks contents of page and adds margins.
+ New contents size is specified in percents.
 
 ```csharp
 public bool ResizeContentsPct(string source, string destination, int[] pages, double newWidth, 
@@ -90,8 +97,7 @@ null,
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: IOpenAIClient.DeleteThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Deletes an existing thread asynchronously
+title: "IOpenAIClient.DeleteThreadAsync"
+linktitle: "DeleteThreadAsync"
+articleTitle: "DeleteThreadAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Deletes an existing thread asynchronously."
 type: docs
-weight: 150
-url: /net/aspose.pdf.ai/iopenaiclient/deletethreadasync/
+weight: 300
+url: "/net/aspose.pdf.ai/iopenaiclient/deletethreadasync/"
+product_version: "26.9.0"
 ---
 ## IOpenAIClient.DeleteThreadAsync method
 
@@ -28,13 +31,11 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Thrown when the thread Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread Id is null or empty. |
 
 ### See Also
 
-* class [DeleteStatusResponse](../../deletestatusresponse/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

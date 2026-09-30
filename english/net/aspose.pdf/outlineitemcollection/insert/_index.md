@@ -1,10 +1,13 @@
 ---
-title: OutlineItemCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection method. Inserts the outline item into collection at the specified place
+title: "OutlineItemCollection.Insert"
+linktitle: "Insert"
+articleTitle: "Insert"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection method. Inserts the outline item into collection at the specified place."
 type: docs
-weight: 280
-url: /net/aspose.pdf/outlineitemcollection/insert/
+weight: 70
+url: "/net/aspose.pdf/outlineitemcollection/insert/"
+product_version: "26.9.0"
 ---
 ## OutlineItemCollection.Insert method
 
@@ -21,8 +24,7 @@ public void Insert(int index, OutlineItemCollection outline)
 
 ### See Also
 
-* class [OutlineItemCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

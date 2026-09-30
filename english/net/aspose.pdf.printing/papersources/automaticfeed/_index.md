@@ -1,10 +1,13 @@
 ---
-title: PaperSources.AutomaticFeed
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources field. Represents an automatic feed paper source
+title: "PaperSources.AutomaticFeed"
+linktitle: "AutomaticFeed"
+articleTitle: "AutomaticFeed"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSources field. Represents an automatic feed paper source."
 type: docs
-weight: 10
-url: /net/aspose.pdf.printing/papersources/automaticfeed/
+weight: 70
+url: "/net/aspose.pdf.printing/papersources/automaticfeed/"
+product_version: "26.9.0"
 ---
 ## PaperSources.AutomaticFeed field
 
@@ -16,9 +19,8 @@ public static readonly PaperSource AutomaticFeed;
 
 ### See Also
 
-* class [PaperSource](../../papersource/)
-* class [PaperSources](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

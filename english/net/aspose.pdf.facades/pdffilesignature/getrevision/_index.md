@@ -1,10 +1,13 @@
 ---
-title: PdfFileSignature.GetRevision
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature method. Gets the revision of a signature
+title: "PdfFileSignature.GetRevision"
+linktitle: "GetRevision"
+articleTitle: "GetRevision"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Gets the revision of a signature."
 type: docs
-weight: 200
-url: /net/aspose.pdf.facades/pdffilesignature/getrevision/
+weight: 210
+url: "/net/aspose.pdf.facades/pdffilesignature/getrevision/"
+product_version: "26.9.0"
 ---
 ## PdfFileSignature.GetRevision method
 
@@ -24,9 +27,8 @@ Return the number of signature revision.
 
 ### See Also
 
-* class [SignatureName](../../signaturename/)
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

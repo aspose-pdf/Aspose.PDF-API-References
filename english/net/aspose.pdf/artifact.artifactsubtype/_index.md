@@ -1,10 +1,13 @@
 ---
-title: Enum Artifact.ArtifactSubtype
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ArtifactArtifactSubtype enum. Enumeration of possible artifacts subtype
+title: "Artifact.ArtifactSubtype Enum"
+linktitle: "Artifact.ArtifactSubtype"
+articleTitle: "Artifact.ArtifactSubtype"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Artifact.ArtifactSubtype enum. Enumeration of possible artifacts subtype."
 type: docs
-weight: 2880
-url: /net/aspose.pdf/artifact.artifactsubtype/
+weight: 60
+url: "/net/aspose.pdf/artifact.artifactsubtype/"
+product_version: "26.9.0"
 ---
 ## Artifact.ArtifactSubtype enumeration
 
@@ -27,8 +30,7 @@ public enum ArtifactSubtype
 
 ### See Also
 
-* class [Artifact](../artifact/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [Artifact](../artifact/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

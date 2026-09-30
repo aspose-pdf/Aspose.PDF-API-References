@@ -1,10 +1,13 @@
 ---
-title: XFA.Form
-second_title: Aspose.PDF for .NET API Reference
-description: XFA property. XFA Form Component of an XFA form
+title: "XFA.Form"
+linktitle: "Form"
+articleTitle: "Form"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFA property. XFA Form Component of an XFA form."
 type: docs
-weight: 40
-url: /net/aspose.pdf.forms/xfa/form/
+weight: 50
+url: "/net/aspose.pdf.forms/xfa/form/"
+product_version: "26.9.0"
 ---
 ## XFA.Form property
 
@@ -16,8 +19,7 @@ public XmlNode Form { get; }
 
 ### See Also
 
-* class [XFA](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

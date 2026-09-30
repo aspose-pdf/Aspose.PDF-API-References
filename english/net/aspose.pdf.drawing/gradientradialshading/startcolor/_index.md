@@ -1,10 +1,13 @@
 ---
-title: GradientRadialShading.StartColor
-second_title: Aspose.PDF for .NET API Reference
-description: GradientRadialShading property. Gets or sets start color
+title: "GradientRadialShading.StartColor"
+linktitle: "StartColor"
+articleTitle: "StartColor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GradientRadialShading property. Gets or sets start color."
 type: docs
-weight: 60
-url: /net/aspose.pdf.drawing/gradientradialshading/startcolor/
+weight: 70
+url: "/net/aspose.pdf.drawing/gradientradialshading/startcolor/"
+product_version: "26.9.0"
 ---
 ## GradientRadialShading.StartColor property
 
@@ -16,9 +19,8 @@ public Color StartColor { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
-* class [GradientRadialShading](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [GradientRadialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 

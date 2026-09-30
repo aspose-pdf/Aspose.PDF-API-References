@@ -1,10 +1,13 @@
 ---
-title: StructureTypeStandard.P
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard field. Paragraph A lowlevel division of text
+title: "StructureTypeStandard.P"
+linktitle: "P"
+articleTitle: "P"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (Paragraph) A low-level division of text."
 type: docs
-weight: 270
-url: /net/aspose.pdf.logicalstructure/structuretypestandard/p/
+weight: 170
+url: "/net/aspose.pdf.logicalstructure/structuretypestandard/p/"
+product_version: "26.9.0"
 ---
 ## StructureTypeStandard.P field
 
@@ -16,8 +19,7 @@ public static readonly StructureTypeStandard P;
 
 ### See Also
 
-* class [StructureTypeStandard](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

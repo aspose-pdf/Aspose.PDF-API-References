@@ -1,10 +1,13 @@
 ---
-title: AttributeKey.Checked
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey field. Checked attribute PrintField attribute owner
+title: "AttributeKey.Checked"
+linktitle: "Checked"
+articleTitle: "Checked"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. Checked attribute (PrintField attribute owner)."
 type: docs
-weight: 80
-url: /net/aspose.pdf.logicalstructure/attributekey/checked/
+weight: 390
+url: "/net/aspose.pdf.logicalstructure/attributekey/checked/"
+product_version: "26.9.0"
 ---
 ## AttributeKey.Checked field
 
@@ -16,8 +19,7 @@ public static readonly AttributeKey Checked;
 
 ### See Also
 
-* class [AttributeKey](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

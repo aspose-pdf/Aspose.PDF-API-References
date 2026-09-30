@@ -1,10 +1,13 @@
 ---
-title: ScreenAnnotation.ScreenAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: ScreenAnnotation constructor. Creates new Screen annotation on the specified page
+title: "ScreenAnnotation.ScreenAnnotation"
+linktitle: "ScreenAnnotation"
+articleTitle: "ScreenAnnotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ScreenAnnotation constructor. Creates new Screen annotation on the specified page."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/screenannotation/screenannotation/
+url: "/net/aspose.pdf.annotations/screenannotation/screenannotation/"
+product_version: "26.9.0"
 ---
 ## ScreenAnnotation constructor
 
@@ -22,10 +25,9 @@ public ScreenAnnotation(Page page, Rectangle rect, string mediaFile)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [ScreenAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [ScreenAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

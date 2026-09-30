@@ -1,10 +1,13 @@
 ---
-title: DocumentChunk.Metadata
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentChunk property. Gets the metadata associated with this chunk
+title: "DocumentChunk.Metadata"
+linktitle: "Metadata"
+articleTitle: "Metadata"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentChunk property. Gets the metadata associated with this chunk."
 type: docs
-weight: 70
-url: /net/aspose.pdf.ai/documentchunk/metadata/
+weight: 80
+url: "/net/aspose.pdf.ai/documentchunk/metadata/"
+product_version: "26.9.0"
 ---
 ## DocumentChunk.Metadata property
 
@@ -20,8 +23,7 @@ A dictionary containing key-value pairs of metadata.
 
 ### See Also
 
-* class [DocumentChunk](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentChunk](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

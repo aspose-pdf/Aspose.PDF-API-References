@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.WaitForVectorStoreToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Waits for a specific vector store to complete asynchronously
+title: "OpenAIClient.WaitForVectorStoreToCompleteAsync"
+linktitle: "WaitForVectorStoreToCompleteAsync"
+articleTitle: "WaitForVectorStoreToCompleteAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Waits for a specific vector store to complete asynchronously."
 type: docs
-weight: 510
-url: /net/aspose.pdf.ai/openaiclient/waitforvectorstoretocompleteasync/
+weight: 150
+url: "/net/aspose.pdf.ai/openaiclient/waitforvectorstoretocompleteasync/"
+product_version: "26.9.0"
 ---
 ## OpenAIClient.WaitForVectorStoreToCompleteAsync method
 
@@ -28,13 +31,11 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Thrown when the vector store Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the vector store Id is null or empty. |
 
 ### See Also
 
-* class [VectorStoreResponse](../../vectorstoreresponse/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

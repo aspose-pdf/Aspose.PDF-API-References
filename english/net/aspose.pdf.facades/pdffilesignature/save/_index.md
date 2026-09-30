@@ -1,32 +1,15 @@
 ---
-title: PdfFileSignature.Save
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature method. Saves the result PDF to file
+title: "PdfFileSignature.Save"
+linktitle: "Save"
+articleTitle: "Save"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Saves the result PDF to file."
 type: docs
-weight: 280
-url: /net/aspose.pdf.facades/pdffilesignature/save/
+weight: 50
+url: "/net/aspose.pdf.facades/pdffilesignature/save/"
+product_version: "26.9.0"
 ---
-## Save(string) {#save_2}
-
-Saves the result PDF to file.
-
-```csharp
-public override void Save(string outputFile)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputFile | String | Output pdf file. |
-
-### See Also
-
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Save(Stream) {#save_1}
+## Save(Stream) {#save}
 
 Saves the result PDF to stream.
 
@@ -40,8 +23,27 @@ public override void Save(Stream outputStream)
 
 ### See Also
 
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## Save(string) {#save_1}
+
+Saves the result PDF to file.
+
+```csharp
+public override void Save(string outputFile)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputFile | String | Output pdf file. |
+
+### See Also
+
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

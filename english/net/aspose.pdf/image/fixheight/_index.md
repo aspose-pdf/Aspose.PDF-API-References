@@ -1,10 +1,13 @@
 ---
-title: Image.FixHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Image property. Gets or sets the image height
+title: "Image.FixHeight"
+linktitle: "FixHeight"
+articleTitle: "FixHeight"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Image property. Gets or sets the image height."
 type: docs
-weight: 60
-url: /net/aspose.pdf/image/fixheight/
+weight: 80
+url: "/net/aspose.pdf/image/fixheight/"
+product_version: "26.9.0"
 ---
 ## Image.FixHeight property
 
@@ -16,8 +19,7 @@ public double FixHeight { get; set; }
 
 ### See Also
 
-* class [Image](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

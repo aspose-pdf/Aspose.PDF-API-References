@@ -1,10 +1,13 @@
 ---
-title: TextMarkupAnnotation.GetMarkedTextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: TextMarkupAnnotation method. Gets text under markup annotation as TextFragmentCollection
+title: "TextMarkupAnnotation.GetMarkedTextFragments"
+linktitle: "GetMarkedTextFragments"
+articleTitle: "GetMarkedTextFragments"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextMarkupAnnotation method. Gets text under markup annotation as TextFragmentCollection."
 type: docs
-weight: 40
-url: /net/aspose.pdf.annotations/textmarkupannotation/getmarkedtextfragments/
+weight: 30
+url: "/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtextfragments/"
+product_version: "26.9.0"
 ---
 ## TextMarkupAnnotation.GetMarkedTextFragments method
 
@@ -20,9 +23,8 @@ public TextFragmentCollection GetMarkedTextFragments()
 
 ### See Also
 
-* class [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
-* class [TextMarkupAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
+* class [TextMarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

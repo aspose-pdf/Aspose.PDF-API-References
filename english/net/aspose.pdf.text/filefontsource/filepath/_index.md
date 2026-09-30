@@ -1,10 +1,13 @@
 ---
-title: FileFontSource.FilePath
-second_title: Aspose.PDF for .NET API Reference
-description: FileFontSource property. Path to the font file
+title: "FileFontSource.FilePath"
+linktitle: "FilePath"
+articleTitle: "FilePath"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileFontSource property. Path to the font file."
 type: docs
-weight: 20
-url: /net/aspose.pdf.text/filefontsource/filepath/
+weight: 30
+url: "/net/aspose.pdf.text/filefontsource/filepath/"
+product_version: "26.9.0"
 ---
 ## FileFontSource.FilePath property
 
@@ -16,8 +19,7 @@ public string FilePath { get; set; }
 
 ### See Also
 
-* class [FileFontSource](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

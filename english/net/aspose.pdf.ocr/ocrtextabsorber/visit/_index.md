@@ -1,14 +1,17 @@
 ---
-title: OcrTextAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: OcrTextAbsorber method. Recognizes text on every page of the document joined by PageSeparator
+title: "OcrTextAbsorber.Visit"
+linktitle: "Visit"
+articleTitle: "Visit"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcrTextAbsorber method. Recognizes text on every page of the document, joined by PageSeparator."
 type: docs
-weight: 40
-url: /net/aspose.pdf.ocr/ocrtextabsorber/visit/
+weight: 30
+url: "/net/aspose.pdf.ocr/ocrtextabsorber/visit/"
+product_version: "26.9.0"
 ---
-## Visit(Document) {#visit}
+## Visit([Document](../../../aspose.pdf/document/)) {#visit}
 
-Recognizes text on every page of the document, joined by [`PageSeparator`](../../ocrtextrecognitionoptions/pageseparator/).
+Recognizes text on every page of the document, joined by `PageSeparator`.
 
 ```csharp
 public void Visit(Document document)
@@ -22,19 +25,19 @@ public void Visit(Document document)
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | Thrown when *document* is `null`. |
+| ArgumentNullException | Thrown when *document* is <see langword="null" />. |
 | [MissingOptionalDependencyException](../../../aspose.pdf/missingoptionaldependencyexception/) | Thrown when optional OCR implementation dependencies are not available. |
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [OcrTextAbsorber](../)
-* namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [OcrTextAbsorber](../)
+* namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(Page) {#visit_1}
+## Visit([Page](../../../aspose.pdf/page/)) {#visit_1}
 
 Recognizes text on the page.
 
@@ -50,14 +53,13 @@ public void Visit(Page page)
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | Thrown when *page* is `null`. |
+| ArgumentNullException | Thrown when *page* is <see langword="null" />. |
 | [MissingOptionalDependencyException](../../../aspose.pdf/missingoptionaldependencyexception/) | Thrown when optional OCR implementation dependencies are not available. |
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [OcrTextAbsorber](../)
-* namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [OcrTextAbsorber](../)
+* namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
+* assembly [Aspose.PDF](../../../)
 

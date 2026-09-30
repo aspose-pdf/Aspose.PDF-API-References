@@ -1,10 +1,13 @@
 ---
-title: Enum TableBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TableBroken enum. Enumerates the table broken
+title: "TableBroken Enum"
+linktitle: "TableBroken"
+articleTitle: "TableBroken"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.TableBroken enum. Enumerates the table broken."
 type: docs
-weight: 10690
-url: /net/aspose.pdf/tablebroken/
+weight: 2910
+url: "/net/aspose.pdf/tablebroken/"
+product_version: "26.9.0"
 ---
 ## TableBroken enumeration
 
@@ -25,7 +28,6 @@ public enum TableBroken
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

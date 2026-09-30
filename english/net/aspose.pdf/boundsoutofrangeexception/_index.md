@@ -1,10 +1,14 @@
 ---
-title: Class BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BoundsOutOfRangeException class. Represents an exception which occurs when an item doesnt fit within the given container dimensions
+title: "BoundsOutOfRangeException Class"
+linktitle: "BoundsOutOfRangeException"
+articleTitle: "BoundsOutOfRangeException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.BoundsOutOfRangeException class. Represents an exception which occurs when an item doesn't fit within the given container dimensions."
 type: docs
-weight: 3050
-url: /net/aspose.pdf/boundsoutofrangeexception/
+weight: 230
+url: "/net/aspose.pdf/boundsoutofrangeexception/"
+keywords: "BoundsOutOfRangeException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## BoundsOutOfRangeException class
 
@@ -18,14 +22,19 @@ public class BoundsOutOfRangeException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor)() | Initializes a new instance of the `BoundsOutOfRangeException` class. |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_1)(string) | Initializes a new instance of the `BoundsOutOfRangeException` class with a specified error message. |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_2)(string, double, double) | Initializes a new instance of the `BoundsOutOfRangeException` class with a specified error message and item dimensions. |
+| [BoundsOutOfRangeException](./boundsoutofrangeexception/#constructor)() | Initializes a new instance of the [`BoundsOutOfRangeException`](../../aspose.pdf/boundsoutofrangeexception/) class. |
+| [BoundsOutOfRangeException](./boundsoutofrangeexception/#constructor_1)(string) | Initializes a new instance of the [`BoundsOutOfRangeException`](../../aspose.pdf/boundsoutofrangeexception/) class with a specified error message. |
+| [BoundsOutOfRangeException](./boundsoutofrangeexception/#constructor_2)(string, double, double) | Initializes a new instance of the [`BoundsOutOfRangeException`](../../aspose.pdf/boundsoutofrangeexception/) class with a specified error message and item dimensions. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
 
 ### See Also
 
-* class [PdfException](../pdfexception/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

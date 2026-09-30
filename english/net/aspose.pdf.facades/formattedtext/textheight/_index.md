@@ -1,10 +1,13 @@
 ---
-title: FormattedText.TextHeight
-second_title: Aspose.PDF for .NET API Reference
-description: FormattedText property. Gets height of text
+title: "FormattedText.TextHeight"
+linktitle: "TextHeight"
+articleTitle: "TextHeight"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormattedText property. Gets height of text."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/formattedtext/textheight/
+weight: 180
+url: "/net/aspose.pdf.facades/formattedtext/textheight/"
+product_version: "26.9.0"
 ---
 ## FormattedText.TextHeight property
 
@@ -16,8 +19,7 @@ public float TextHeight { get; }
 
 ### See Also
 
-* class [FormattedText](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormattedText](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

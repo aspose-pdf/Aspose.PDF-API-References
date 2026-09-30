@@ -1,21 +1,34 @@
 ---
-title: Rectangle.CheckBounds
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle method. 
+title: "Rectangle.CheckBounds"
+linktitle: "CheckBounds"
+articleTitle: "CheckBounds"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method."
 type: docs
-weight: 70
-url: /net/aspose.pdf.drawing/rectangle/checkbounds/
+weight: 20
+url: "/net/aspose.pdf.drawing/rectangle/checkbounds/"
+product_version: "26.9.0"
 ---
 ## Rectangle.CheckBounds method
+
+
 
 ```csharp
 public override bool CheckBounds(double containerWidth, double containerHeight)
 ```
 
+| Parameter | Type | Description |
+| --- | --- | --- |
+| containerWidth | Double |  |
+| containerHeight | Double |  |
+
+### Return Value
+
+bool
+
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 

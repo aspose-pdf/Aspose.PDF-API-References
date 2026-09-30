@@ -1,10 +1,13 @@
 ---
-title: Form.ExportJson
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Exports the contents of all fields in the document into a JSON stream. Button field values are not exported
+title: "Form.ExportJson"
+linktitle: "ExportJson"
+articleTitle: "ExportJson"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Exports the contents of all fields in the document into a JSON stream. Button field values are not exported."
 type: docs
-weight: 80
-url: /net/aspose.pdf.facades/form/exportjson/
+weight: 290
+url: "/net/aspose.pdf.facades/form/exportjson/"
+product_version: "26.9.0"
 ---
 ## Form.ExportJson method
 
@@ -30,8 +33,7 @@ fs.Close();
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: DataResponse1.DataResponse
-second_title: Aspose.PDF for .NET API Reference
-description: DataResponse constructor. The default constructor
+title: "DataResponse<T>.DataResponse<T>"
+linktitle: "DataResponse<T>"
+articleTitle: "DataResponse<T>"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DataResponse constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/dataresponse-1/dataresponse/
+url: "/net/aspose.pdf.ai/dataresponse-1/dataresponse/"
+product_version: "26.9.0"
 ---
-## DataResponse&lt;T&gt; constructor
+## DataResponse constructor
 
 The default constructor.
 
@@ -16,8 +19,7 @@ public DataResponse()
 
 ### See Also
 
-* class [DataResponse&lt;T&gt;](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DataResponse<T>](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TextFragmentCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentCollection method. Determines whether the collection contains a specific value
+title: "TextFragmentCollection.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentCollection method. Determines whether the collection contains a specific value."
 type: docs
-weight: 80
-url: /net/aspose.pdf.text/textfragmentcollection/contains/
+weight: 50
+url: "/net/aspose.pdf.text/textfragmentcollection/contains/"
+product_version: "26.9.0"
 ---
 ## TextFragmentCollection.Contains method
 
@@ -24,9 +27,8 @@ true if item is found in the collection; otherwise, false.
 
 ### See Also
 
-* class [TextFragment](../../textfragment/)
-* class [TextFragmentCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

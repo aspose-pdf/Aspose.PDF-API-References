@@ -1,14 +1,17 @@
 ---
-title: Enum OcrLanguage
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Ocr.OcrLanguage enum. Language used by OcrTextAbsorber for recognition
+title: "OcrLanguage Enum"
+linktitle: "OcrLanguage"
+articleTitle: "OcrLanguage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Ocr.OcrLanguage enum. Language used by OcrTextAbsorber for recognition."
 type: docs
-weight: 8280
-url: /net/aspose.pdf.ocr/ocrlanguage/
+weight: 20
+url: "/net/aspose.pdf.ocr/ocrlanguage/"
+product_version: "26.9.0"
 ---
 ## OcrLanguage enumeration
 
-Language used by [`OcrTextAbsorber`](../ocrtextabsorber/) for recognition.
+Language used by [`OcrTextAbsorber`](../../../aspose.pdf.ocr/ocrtextabsorber/) for recognition.
 
 ```csharp
 public enum OcrLanguage
@@ -37,7 +40,6 @@ public enum OcrLanguage
 
 ### See Also
 
-* namespace [Aspose.Pdf.Ocr](../../aspose.pdf.ocr/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Ocr](../../aspose.pdf.ocr/)
+* assembly [Aspose.PDF](../../)
 

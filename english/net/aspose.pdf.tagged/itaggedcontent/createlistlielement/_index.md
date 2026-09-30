@@ -1,10 +1,13 @@
 ---
-title: ITaggedContent.CreateListLIElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent method. Creates ListLIElement
+title: "ITaggedContent.CreateListLIElement"
+linktitle: "CreateListLIElement"
+articleTitle: "CreateListLIElement"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Creates ListLIElement."
 type: docs
-weight: 200
-url: /net/aspose.pdf.tagged/itaggedcontent/createlistlielement/
+weight: 180
+url: "/net/aspose.pdf.tagged/itaggedcontent/createlistlielement/"
+product_version: "26.9.0"
 ---
 ## ITaggedContent.CreateListLIElement method
 
@@ -20,9 +23,8 @@ Created structure element.
 
 ### See Also
 
-* class [ListLIElement](../../../aspose.pdf.logicalstructure/listlielement/)
-* interface [ITaggedContent](../)
-* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ListLIElement](../../../aspose.pdf.logicalstructure/listlielement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
 

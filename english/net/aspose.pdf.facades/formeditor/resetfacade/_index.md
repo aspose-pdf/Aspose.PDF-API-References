@@ -1,10 +1,13 @@
 ---
-title: FormEditor.ResetFacade
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Reset all visual attribtues to empty value
+title: "FormEditor.ResetFacade"
+linktitle: "ResetFacade"
+articleTitle: "ResetFacade"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Reset all visual attribtues to empty value."
 type: docs
-weight: 240
-url: /net/aspose.pdf.facades/formeditor/resetfacade/
+weight: 140
+url: "/net/aspose.pdf.facades/formeditor/resetfacade/"
+product_version: "26.9.0"
 ---
 ## FormEditor.ResetFacade method
 
@@ -16,8 +19,7 @@ public void ResetFacade()
 
 ### See Also
 
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

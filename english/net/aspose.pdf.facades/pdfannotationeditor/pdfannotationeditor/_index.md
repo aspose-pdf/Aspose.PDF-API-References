@@ -1,14 +1,17 @@
 ---
-title: PdfAnnotationEditor.PdfAnnotationEditor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor constructor. Initializes new PdfAnnotationEditor object
+title: "PdfAnnotationEditor.PdfAnnotationEditor"
+linktitle: "PdfAnnotationEditor"
+articleTitle: "PdfAnnotationEditor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAnnotationEditor constructor. Initializes new PdfAnnotationEditor object."
 type: docs
 weight: 10
-url: /net/aspose.pdf.facades/pdfannotationeditor/pdfannotationeditor/
+url: "/net/aspose.pdf.facades/pdfannotationeditor/pdfannotationeditor/"
+product_version: "26.9.0"
 ---
 ## PdfAnnotationEditor() {#constructor}
 
-Initializes new [`PdfAnnotationEditor`](../) object.
+Initializes new [`PdfAnnotationEditor`](../../../aspose.pdf.facades/pdfannotationeditor/) object.
 
 ```csharp
 public PdfAnnotationEditor()
@@ -16,15 +19,15 @@ public PdfAnnotationEditor()
 
 ### See Also
 
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfAnnotationEditor(Document) {#constructor_1}
+## PdfAnnotationEditor([Document](../../../aspose.pdf/document/)) {#constructor_1}
 
-Initializes new [`PdfAnnotationEditor`](../) object on base of the *document*.
+Initializes new [`PdfAnnotationEditor`](../../../aspose.pdf.facades/pdfannotationeditor/) object on base of the *document*.
 
 ```csharp
 public PdfAnnotationEditor(Document document)
@@ -36,9 +39,8 @@ public PdfAnnotationEditor(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

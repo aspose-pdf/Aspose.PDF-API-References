@@ -1,14 +1,17 @@
 ---
-title: CosPdfDictionary.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary method. Determines whether the CosPdfDictionary contains a specific value
+title: "CosPdfDictionary.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfDictionary method. Determines whether the CosPdfDictionary contains a specific value."
 type: docs
-weight: 110
-url: /net/aspose.pdf.dataeditor/cospdfdictionary/contains/
+weight: 100
+url: "/net/aspose.pdf.dataeditor/cospdfdictionary/contains/"
+product_version: "26.9.0"
 ---
 ## CosPdfDictionary.Contains method
 
-Determines whether the [`CosPdfDictionary`](../) contains a specific value.
+Determines whether the [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/) contains a specific value.
 
 ```csharp
 public bool Contains(KeyValuePair<string, ICosPdfPrimitive> item)
@@ -20,13 +23,12 @@ public bool Contains(KeyValuePair<string, ICosPdfPrimitive> item)
 
 ### Return Value
 
-true if item is found in the [`CosPdfDictionary`](../); otherwise, false.
+true if item is found in the [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/); 
+ otherwise, false.
 
 ### See Also
 
-* interface [ICosPdfPrimitive](../../icospdfprimitive/)
-* class [CosPdfDictionary](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class ThreadMessageListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ThreadMessageListResponse class. Represents a list response containing thread message data
+title: "ThreadMessageListResponse Class"
+linktitle: "ThreadMessageListResponse"
+articleTitle: "ThreadMessageListResponse"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ThreadMessageListResponse class. Represents a list response containing thread message data."
 type: docs
 weight: 1230
-url: /net/aspose.pdf.ai/threadmessagelistresponse/
+url: "/net/aspose.pdf.ai/threadmessagelistresponse/"
+keywords: "ThreadMessageListResponse, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## ThreadMessageListResponse class
 
@@ -18,29 +22,27 @@ public class ThreadMessageListResponse : ListDataResponse<List<ThreadMessageResp
 
 | Name | Description |
 | --- | --- |
-| [ThreadMessageListResponse](threadmessagelistresponse/)() | The default constructor. |
+| [ThreadMessageListResponse](./threadmessagelistresponse/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Data](../../aspose.pdf.ai/dataresponse-1/data/) { get; set; } |  |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. |
-| [FirstId](../../aspose.pdf.ai/listdataresponse-1/firstid/) { get; set; } |  |
-| [HasMore](../../aspose.pdf.ai/listdataresponse-1/hasmore/) { get; set; } |  |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Gets or sets the HTTP response headers. |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Gets or sets the HTTP status code. |
-| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indicates if the response was successful. |
-| [LastId](../../aspose.pdf.ai/listdataresponse-1/lastid/) { get; set; } |  |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Gets the error reason phrase. |
+| [Data](../../aspose.pdf.ai/dataresponse-1/data/) { get; set; } | Gets or sets the data in the response. |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. |
+| [FirstId](../../aspose.pdf.ai/listdataresponse-1/firstid/) { get; set; } | Gets or sets the first ID in the list. |
+| [HasMore](../../aspose.pdf.ai/listdataresponse-1/hasmore/) { get; set; } | Gets or sets a value indicating whether there are more items in the list. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Gets or sets the HTTP response headers. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Gets or sets the HTTP status code. |
+| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indicates if the response was successful. |
+| [LastId](../../aspose.pdf.ai/listdataresponse-1/lastid/) { get; set; } | Gets or sets the last ID in the list. |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Gets the error reason phrase. |
 
 ### See Also
 
-* class [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
-* class [ThreadMessageResponse](../threadmessageresponse/)
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* class [ListDataResponse<T>](../listdataresponse-1/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

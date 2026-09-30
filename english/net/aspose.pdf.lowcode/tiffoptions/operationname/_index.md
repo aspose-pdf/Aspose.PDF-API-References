@@ -1,10 +1,13 @@
 ---
-title: TiffOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: TiffOptions property. Returns name of the operation
+title: "TiffOptions.OperationName"
+linktitle: "OperationName"
+articleTitle: "OperationName"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TiffOptions property. Returns name of the operation."
 type: docs
-weight: 60
-url: /net/aspose.pdf.lowcode/tiffoptions/operationname/
+weight: 20
+url: "/net/aspose.pdf.lowcode/tiffoptions/operationname/"
+product_version: "26.9.0"
 ---
 ## TiffOptions.OperationName property
 
@@ -16,8 +19,7 @@ public override string OperationName { get; }
 
 ### See Also
 
-* class [TiffOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TiffOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

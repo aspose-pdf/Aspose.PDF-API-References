@@ -1,10 +1,13 @@
 ---
-title: TextState.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: TextState constructor. Creates text state object
+title: "TextState.TextState"
+linktitle: "TextState"
+articleTitle: "TextState"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextState constructor. Creates text state object."
 type: docs
 weight: 10
-url: /net/aspose.pdf.text/textstate/textstate/
+url: "/net/aspose.pdf.text/textstate/textstate/"
+product_version: "26.9.0"
 ---
 ## TextState() {#constructor}
 
@@ -16,33 +19,13 @@ public TextState()
 
 ### See Also
 
-* class [TextState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextState(double) {#constructor_1}
-
-Creates text state object with font size specification.
-
-```csharp
-public TextState(double fontSize)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontSize | Double | Font size. |
-
-### See Also
-
-* class [TextState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TextState(Color) {#constructor_2}
+## TextState([Color](../../../aspose.pdf/color/)) {#constructor_1}
 
 Creates text state object with foreground color specification.
 
@@ -56,13 +39,54 @@ public TextState(Color foregroundColor)
 
 ### See Also
 
-* class [TextState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextState(Color, double) {#constructor_3}
+## TextState(double) {#constructor_2}
+
+Creates text state object with font size specification.
+
+```csharp
+public TextState(double fontSize)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fontSize | Double | Font size. |
+
+### See Also
+
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TextState(string) {#constructor_3}
+
+Creates text state object with font family specification.
+
+```csharp
+public TextState(string fontFamily)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fontFamily | String | Font family. |
+
+### See Also
+
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TextState([Color](../../../aspose.pdf/color/), double) {#constructor_4}
 
 Creates text state object with foreground color and font size specification.
 
@@ -77,33 +101,35 @@ public TextState(Color foregroundColor, double fontSize)
 
 ### See Also
 
-* class [TextState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextState(string) {#constructor_4}
+## TextState(string, double) {#constructor_5}
 
-Creates text state object with font family specification.
+Creates text state object with font family and font size specification.
 
 ```csharp
-public TextState(string fontFamily)
+public TextState(string fontFamily, double fontSize)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fontFamily | String | Font family. |
+| fontSize | Double | Font size. |
 
 ### See Also
 
-* class [TextState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextState(string, bool, bool) {#constructor_5}
+## TextState(string, bool, bool) {#constructor_6}
 
 Creates text state object with font family and font style specification.
 
@@ -119,29 +145,7 @@ public TextState(string fontFamily, bool bold, bool italic)
 
 ### See Also
 
-* class [TextState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TextState(string, double) {#constructor_6}
-
-Creates text state object with font family and font size specification.
-
-```csharp
-public TextState(string fontFamily, double fontSize)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontFamily | String | Font family. |
-| fontSize | Double | Font size. |
-
-### See Also
-
-* class [TextState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

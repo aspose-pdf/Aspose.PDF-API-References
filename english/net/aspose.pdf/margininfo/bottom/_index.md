@@ -1,10 +1,13 @@
 ---
-title: MarginInfo.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo property. Gets or sets a float value that indicates the bottom margin
+title: "MarginInfo.Bottom"
+linktitle: "Bottom"
+articleTitle: "Bottom"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarginInfo property. Gets or sets a float value that indicates the bottom margin."
 type: docs
-weight: 20
-url: /net/aspose.pdf/margininfo/bottom/
+weight: 70
+url: "/net/aspose.pdf/margininfo/bottom/"
+product_version: "26.9.0"
 ---
 ## MarginInfo.Bottom property
 
@@ -16,8 +19,7 @@ public double Bottom { get; set; }
 
 ### See Also
 
-* class [MarginInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

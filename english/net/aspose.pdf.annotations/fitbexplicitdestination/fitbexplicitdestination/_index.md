@@ -1,33 +1,15 @@
 ---
-title: FitBExplicitDestination.FitBExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: FitBExplicitDestination constructor. Creates local explicit destination
+title: "FitBExplicitDestination.FitBExplicitDestination"
+linktitle: "FitBExplicitDestination"
+articleTitle: "FitBExplicitDestination"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FitBExplicitDestination constructor. Creates local explicit destination."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/fitbexplicitdestination/fitbexplicitdestination/
+url: "/net/aspose.pdf.annotations/fitbexplicitdestination/fitbexplicitdestination/"
+product_version: "26.9.0"
 ---
-## FitBExplicitDestination(Page) {#constructor_1}
-
-Creates local explicit destination.
-
-```csharp
-public FitBExplicitDestination(Page page)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | The destination page object. |
-
-### See Also
-
-* class [Page](../../../aspose.pdf/page/)
-* class [FitBExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## FitBExplicitDestination(int) {#constructor_2}
+## FitBExplicitDestination(int) {#constructor}
 
 Creates remote explicit destination.
 
@@ -41,8 +23,28 @@ public FitBExplicitDestination(int pageNumber)
 
 ### See Also
 
-* class [FitBExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [FitBExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## FitBExplicitDestination([Page](../../../aspose.pdf/page/)) {#constructor_1}
+
+Creates local explicit destination.
+
+```csharp
+public FitBExplicitDestination(Page page)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | The destination page object. |
+
+### See Also
+
+* class [Page](../../../aspose.pdf/page/)
+* class [FitBExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

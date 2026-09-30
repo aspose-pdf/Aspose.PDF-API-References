@@ -1,10 +1,13 @@
 ---
-title: FolderFontSource.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: FolderFontSource method. Check if folder font source objects are equal
+title: "FolderFontSource.Equals"
+linktitle: "Equals"
+articleTitle: "Equals"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FolderFontSource method. Check if folder font source objects are equal."
 type: docs
-weight: 30
-url: /net/aspose.pdf.text/folderfontsource/equals/
+weight: 20
+url: "/net/aspose.pdf.text/folderfontsource/equals/"
+product_version: "26.9.0"
 ---
 ## FolderFontSource.Equals method
 
@@ -24,8 +27,7 @@ True if both objects are folder font sources targeted to the same folder.
 
 ### See Also
 
-* class [FolderFontSource](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FolderFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

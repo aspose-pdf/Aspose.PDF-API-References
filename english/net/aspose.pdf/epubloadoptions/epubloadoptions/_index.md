@@ -1,14 +1,18 @@
 ---
-title: EpubLoadOptions.EpubLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: EpubLoadOptions constructor. Creates default load options for converting EPUB file into pdf document. Default pdf page size  A4 300dpi 2480 X 3508
+title: "EpubLoadOptions.EpubLoadOptions"
+linktitle: "EpubLoadOptions"
+articleTitle: "EpubLoadOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EpubLoadOptions constructor. Creates default load options for converting EPUB file into pdf document. Default pdf page size - A4 300dpi 2480 X 3508."
 type: docs
 weight: 10
-url: /net/aspose.pdf/epubloadoptions/epubloadoptions/
+url: "/net/aspose.pdf/epubloadoptions/epubloadoptions/"
+product_version: "26.9.0"
 ---
 ## EpubLoadOptions() {#constructor}
 
-Creates default load options for converting EPUB file into pdf document. Default pdf page size - A4 300dpi 2480 X 3508.
+Creates default load options for converting EPUB file into pdf document. 
+ Default pdf page size - A4 300dpi 2480 X 3508.
 
 ```csharp
 public EpubLoadOptions()
@@ -16,9 +20,9 @@ public EpubLoadOptions()
 
 ### See Also
 
-* class [EpubLoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [EpubLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,8 +40,7 @@ public EpubLoadOptions(SizeF pageSize)
 
 ### See Also
 
-* class [EpubLoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [EpubLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

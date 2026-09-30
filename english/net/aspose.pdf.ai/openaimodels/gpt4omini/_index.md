@@ -1,10 +1,13 @@
 ---
-title: OpenAIModels.Gpt4OMini
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIModels property. Gets the identifier for the GPT4omini model
+title: "OpenAIModels.Gpt4OMini"
+linktitle: "Gpt4OMini"
+articleTitle: "Gpt4OMini"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIModels property. Gets the identifier for the GPT-4o-mini model."
 type: docs
-weight: 60
-url: /net/aspose.pdf.ai/openaimodels/gpt4omini/
+weight: 70
+url: "/net/aspose.pdf.ai/openaimodels/gpt4omini/"
+product_version: "26.9.0"
 ---
 ## OpenAIModels.Gpt4OMini property
 
@@ -16,8 +19,7 @@ public static string Gpt4OMini { get; }
 
 ### See Also
 
-* class [OpenAIModels](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIModels](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

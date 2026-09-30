@@ -1,10 +1,13 @@
 ---
-title: JavaScriptCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: JavaScriptCollection method. Removes JavaScript by its name
+title: "JavaScriptCollection.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "JavaScriptCollection method. Removes JavaScript by its name."
 type: docs
-weight: 30
-url: /net/aspose.pdf/javascriptcollection/remove/
+weight: 10
+url: "/net/aspose.pdf/javascriptcollection/remove/"
+product_version: "26.9.0"
 ---
 ## JavaScriptCollection.Remove method
 
@@ -24,8 +27,7 @@ True - if javascript removed; otherwise, false.
 
 ### See Also
 
-* class [JavaScriptCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [JavaScriptCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

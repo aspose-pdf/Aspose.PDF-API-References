@@ -1,10 +1,13 @@
 ---
-title: DateComponent.Format
-second_title: Aspose.PDF for .NET API Reference
-description: DateComponent property. Gets or sets the format for the date component
+title: "DateComponent.Format"
+linktitle: "Format"
+articleTitle: "Format"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DateComponent property. Gets or sets the format for the date component."
 type: docs
-weight: 20
-url: /net/aspose.pdf/datecomponent/format/
+weight: 30
+url: "/net/aspose.pdf/datecomponent/format/"
+product_version: "26.9.0"
 ---
 ## DateComponent.Format property
 
@@ -16,8 +19,7 @@ public int Format { get; set; }
 
 ### See Also
 
-* class [DateComponent](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DateComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

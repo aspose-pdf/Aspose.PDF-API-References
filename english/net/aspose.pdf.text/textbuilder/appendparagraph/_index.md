@@ -1,10 +1,13 @@
 ---
-title: TextBuilder.AppendParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: TextBuilder method. Appends text paragraph to Pdf page
+title: "TextBuilder.AppendParagraph"
+linktitle: "AppendParagraph"
+articleTitle: "AppendParagraph"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextBuilder method. Appends text paragraph to Pdf page."
 type: docs
-weight: 20
-url: /net/aspose.pdf.text/textbuilder/appendparagraph/
+weight: 30
+url: "/net/aspose.pdf.text/textbuilder/appendparagraph/"
+product_version: "26.9.0"
 ---
 ## TextBuilder.AppendParagraph method
 
@@ -29,7 +32,7 @@ Page page = (Page)doc.Pages[1];
 
 // create text paragraph
 TextParagraph paragraph = new TextParagraph();
-           
+
 // set the paragraph rectangle
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
@@ -51,9 +54,8 @@ doc.Save(outFile);
 
 ### See Also
 
-* class [TextParagraph](../../textparagraph/)
-* class [TextBuilder](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextParagraph](../../../aspose.pdf.text/textparagraph/)
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

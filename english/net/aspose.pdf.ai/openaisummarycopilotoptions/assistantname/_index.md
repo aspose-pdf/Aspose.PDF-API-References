@@ -1,10 +1,13 @@
 ---
-title: OpenAISummaryCopilotOptions.AssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions property. Gets or sets the name of the assistant
+title: "OpenAISummaryCopilotOptions.AssistantName"
+linktitle: "AssistantName"
+articleTitle: "AssistantName"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAISummaryCopilotOptions property. Gets or sets the name of the assistant."
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/openaisummarycopilotoptions/assistantname/
+weight: 210
+url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/assistantname/"
+product_version: "26.9.0"
 ---
 ## OpenAISummaryCopilotOptions.AssistantName property
 
@@ -16,8 +19,7 @@ public string AssistantName { get; set; }
 
 ### See Also
 
-* class [OpenAISummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PaperSizes.LetterRotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. Letter rotated paper 11 in. by 8.5 in
+title: "PaperSizes.LetterRotated"
+linktitle: "LetterRotated"
+articleTitle: "LetterRotated"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Letter rotated paper (11 in. by 8.5 in.)."
 type: docs
-weight: 690
-url: /net/aspose.pdf.printing/papersizes/letterrotated/
+weight: 730
+url: "/net/aspose.pdf.printing/papersizes/letterrotated/"
+product_version: "26.9.0"
 ---
 ## PaperSizes.LetterRotated field
 
@@ -16,9 +19,8 @@ public static readonly PaperSize LetterRotated;
 
 ### See Also
 
-* class [PaperSize](../../papersize/)
-* class [PaperSizes](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

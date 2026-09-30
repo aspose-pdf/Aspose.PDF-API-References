@@ -1,14 +1,17 @@
 ---
-title: PdfConverter.PdfConverter
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter constructor. Initializes new PdfConverter object
+title: "PdfConverter.PdfConverter"
+linktitle: "PdfConverter"
+articleTitle: "PdfConverter"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverter constructor. Initializes new PdfConverter object."
 type: docs
 weight: 10
-url: /net/aspose.pdf.facades/pdfconverter/pdfconverter/
+url: "/net/aspose.pdf.facades/pdfconverter/pdfconverter/"
+product_version: "26.9.0"
 ---
 ## PdfConverter() {#constructor}
 
-Initializes new [`PdfConverter`](../) object.
+Initializes new [`PdfConverter`](../../../aspose.pdf.facades/pdfconverter/) object.
 
 ```csharp
 public PdfConverter()
@@ -16,15 +19,15 @@ public PdfConverter()
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfConverter(Document) {#constructor_1}
+## PdfConverter([Document](../../../aspose.pdf/document/)) {#constructor_1}
 
-Initializes new [`PdfConverter`](../) object on base of the *document*.
+Initializes new [`PdfConverter`](../../../aspose.pdf.facades/pdfconverter/) object on base of the *document*.
 
 ```csharp
 public PdfConverter(Document document)
@@ -36,9 +39,8 @@ public PdfConverter(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

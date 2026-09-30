@@ -1,10 +1,13 @@
 ---
-title: FormFlattener.FormFlattener
-second_title: Aspose.PDF for .NET API Reference
-description: FormFlattener constructor. The default constructor
+title: "FormFlattener.FormFlattener"
+linktitle: "FormFlattener"
+articleTitle: "FormFlattener"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFlattener constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/formflattener/formflattener/
+url: "/net/aspose.pdf.lowcode/formflattener/formflattener/"
+product_version: "26.9.0"
 ---
 ## FormFlattener constructor
 
@@ -16,8 +19,7 @@ public FormFlattener()
 
 ### See Also
 
-* class [FormFlattener](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormFlattener](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

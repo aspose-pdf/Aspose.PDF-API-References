@@ -1,14 +1,27 @@
 ---
-title: DocSaveOptions.RelativeHorizontalProximity
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions property. In Pdf words may be innerly represented with operators that prints words by independently printing their letters or syllables. So to detect words sometimes we need detect groups of independent chars that are in fact words. This setting defines width of space between text elementsletters syllables that must be treated as distance between words during recognition of words in source PDF. presence of empty space at least with this width between letters means that textual elements pertain to different words. Its normed to font size  1.0 means 100 of supposed words font size. ATTENTIONIts used only in cases when source PDF contains specific rarely used fonts for which optimal value cannot be calculated from font. So in vast majority of cases this parameter changes nothing in result document
+title: "DocSaveOptions.RelativeHorizontalProximity"
+linktitle: "RelativeHorizontalProximity"
+articleTitle: "RelativeHorizontalProximity"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocSaveOptions property. In Pdf words may be innerly represented with operators that prints words by independently printing their letters or syllables. So, t..."
 type: docs
-weight: 120
-url: /net/aspose.pdf/docsaveoptions/relativehorizontalproximity/
+weight: 30
+url: "/net/aspose.pdf/docsaveoptions/relativehorizontalproximity/"
+product_version: "26.9.0"
 ---
 ## DocSaveOptions.RelativeHorizontalProximity property
 
-In Pdf words may be innerly represented with operators that prints words by independently printing their letters or syllables. So, to detect words sometimes we need detect groups of independent chars that are in fact words. This setting defines width of space between text elements(letters, syllables) that must be treated as distance between words during recognition of words in source PDF. (presence of empty space at least with this width between letters means that textual elements pertain to different words). It's normed to font size - 1.0 means 100% of supposed word's font size. ATTENTION!It's used only in cases when source PDF contains specific rarely used fonts for which optimal value cannot be calculated from font. So, in vast majority of cases this parameter changes nothing in result document.
+In Pdf words may be innerly represented with operators that prints words
+ by independently printing their letters or syllables. So, to detect words sometimes we need detect groups
+ of independent chars that are in fact words.
+ This setting defines width of space between text elements(letters, syllables) 
+ that must be treated as distance between words during recognition of words in source PDF.
+ (presence of empty space at least with this width between letters means that 
+ textual elements pertain to different words).
+ It's normed to font size - 1.0 means 100% of supposed word's font size.
+ ATTENTION!It's used only in cases when source PDF contains specific rarely used fonts
+ for which optimal value cannot be calculated from font. 
+ So, in vast majority of cases this parameter changes nothing in result document.
 
 ```csharp
 public float RelativeHorizontalProximity { get; set; }
@@ -16,8 +29,7 @@ public float RelativeHorizontalProximity { get; set; }
 
 ### See Also
 
-* class [DocSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

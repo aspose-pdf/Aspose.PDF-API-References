@@ -1,10 +1,13 @@
 ---
-title: PdfFileInfo.Save
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo method. Saves the PDF document to the specified file
+title: "PdfFileInfo.Save"
+linktitle: "Save"
+articleTitle: "Save"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Saves the PDF document to the specified file."
 type: docs
-weight: 300
-url: /net/aspose.pdf.facades/pdffileinfo/save/
+weight: 200
+url: "/net/aspose.pdf.facades/pdffileinfo/save/"
+product_version: "26.9.0"
 ---
 ## Save(Stream) {#save}
 
@@ -20,9 +23,9 @@ public override void Save(Stream destStream)
 
 ### See Also
 
-* class [PdfFileInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,8 +43,7 @@ public override void Save(string destFile)
 
 ### See Also
 
-* class [PdfFileInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

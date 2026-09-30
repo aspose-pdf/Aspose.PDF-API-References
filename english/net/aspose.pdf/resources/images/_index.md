@@ -1,10 +1,13 @@
 ---
-title: Resources.Images
-second_title: Aspose.PDF for .NET API Reference
-description: Resources property. Gets Images images collection
+title: "Resources.Images"
+linktitle: "Images"
+articleTitle: "Images"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Resources property. Gets Images images collection"
 type: docs
-weight: 30
-url: /net/aspose.pdf/resources/images/
+weight: 50
+url: "/net/aspose.pdf/resources/images/"
+product_version: "26.9.0"
 ---
 ## Resources.Images property
 
@@ -16,9 +19,8 @@ public XImageCollection Images { get; }
 
 ### See Also
 
-* class [XImageCollection](../../ximagecollection/)
-* class [Resources](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XImageCollection](../../../aspose.pdf/ximagecollection/)
+* class [Resources](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

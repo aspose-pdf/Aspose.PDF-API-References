@@ -1,10 +1,13 @@
 ---
-title: FontCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection method. Copies the entire collection to a compatible onedimensional Array starting at the specified index of the target array
+title: "FontCollection.CopyTo"
+linktitle: "CopyTo"
+articleTitle: "CopyTo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontCollection method. Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array"
 type: docs
-weight: 80
-url: /net/aspose.pdf.text/fontcollection/copyto/
+weight: 20
+url: "/net/aspose.pdf.text/fontcollection/copyto/"
+product_version: "26.9.0"
 ---
 ## FontCollection.CopyTo method
 
@@ -21,9 +24,8 @@ public void CopyTo(Font[] array, int index)
 
 ### See Also
 
-* class [Font](../../font/)
-* class [FontCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Font](../../../aspose.pdf.text/font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

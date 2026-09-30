@@ -1,10 +1,13 @@
 ---
-title: AttributeKey.TextAlign
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey field. TextAlign attribute Layout attribute owner
+title: "AttributeKey.TextAlign"
+linktitle: "TextAlign"
+articleTitle: "TextAlign"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. TextAlign attribute (Layout attribute owner)."
 type: docs
-weight: 340
-url: /net/aspose.pdf.logicalstructure/attributekey/textalign/
+weight: 180
+url: "/net/aspose.pdf.logicalstructure/attributekey/textalign/"
+product_version: "26.9.0"
 ---
 ## AttributeKey.TextAlign field
 
@@ -16,8 +19,7 @@ public static readonly AttributeKey TextAlign;
 
 ### See Also
 
-* class [AttributeKey](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

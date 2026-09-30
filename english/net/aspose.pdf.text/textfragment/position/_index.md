@@ -1,14 +1,17 @@
 ---
-title: TextFragment.Position
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment property. Gets or sets text position for text represented with TextFragment object
+title: "TextFragment.Position"
+linktitle: "Position"
+articleTitle: "Position"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment property. Gets or sets text position for text, represented with TextFragment object."
 type: docs
-weight: 90
-url: /net/aspose.pdf.text/textfragment/position/
+weight: 150
+url: "/net/aspose.pdf.text/textfragment/position/"
+product_version: "26.9.0"
 ---
 ## TextFragment.Position property
 
-Gets or sets text position for text, represented with [`TextFragment`](../) object.
+Gets or sets text position for text, represented with [`TextFragment`](../../../aspose.pdf.text/textfragment/) object.
 
 ```csharp
 public Position Position { get; set; }
@@ -16,7 +19,7 @@ public Position Position { get; set; }
 
 ## Examples
 
-The example demonstrates how to view placement of a text, represented by [`TextFragment`](../) object.
+The example demonstrates how to view placement of a text, represented by [`TextFragment`](../../../aspose.pdf.text/textfragment/) object.
 
 ```csharp
 // Open document
@@ -34,17 +37,15 @@ TextFragment firstOccurrence = absorber.TextFragments[1];
 Console.Out.WriteLine(string.Format("fragment text: {0}", firstOccurrence.Text));
 Console.Out.WriteLine(string.Format("fragment X indent: {0}", firstOccurrence.Position.XIndent));
 Console.Out.WriteLine(string.Format("fragment Y indent: {0}", firstOccurrence.Position.YIndent));
-
 ```
 
 ### See Also
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber/)
-* class [Document](../../../aspose.pdf/document/)
-* class [TextSegment](../../textsegment/)
-* class [Position](../../position/)
-* class [TextFragment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* [TextFragmentAbsorber](../textfragmentabsorber/)
+* [Document](../document/)
+* [TextSegment](../textsegment/)
+* class [Position](../../../aspose.pdf.text/position/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

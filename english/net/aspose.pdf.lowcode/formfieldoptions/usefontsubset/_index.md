@@ -1,10 +1,13 @@
 ---
-title: FormFieldOptions.UseFontSubset
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions property. Gets/sets the value to determine whether created/modified field is use font subset or not if will be set
+title: "FormFieldOptions.UseFontSubset"
+linktitle: "UseFontSubset"
+articleTitle: "UseFontSubset"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldOptions property. Gets/sets the value to determine whether created/modified field is use font subset or not (if will be set)."
 type: docs
-weight: 180
-url: /net/aspose.pdf.lowcode/formfieldoptions/usefontsubset/
+weight: 20
+url: "/net/aspose.pdf.lowcode/formfieldoptions/usefontsubset/"
+product_version: "26.9.0"
 ---
 ## FormFieldOptions.UseFontSubset property
 
@@ -16,8 +19,7 @@ public bool? UseFontSubset { get; set; }
 
 ### See Also
 
-* class [FormFieldOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

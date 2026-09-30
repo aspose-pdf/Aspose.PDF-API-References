@@ -1,10 +1,13 @@
 ---
-title: Stamp.XIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp property. Horizontal stamp coordinate starting from the left
+title: "Stamp.XIndent"
+linktitle: "XIndent"
+articleTitle: "XIndent"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp property. Horizontal stamp coordinate, starting from the left."
 type: docs
-weight: 150
-url: /net/aspose.pdf/stamp/xindent/
+weight: 90
+url: "/net/aspose.pdf/stamp/xindent/"
+product_version: "26.9.0"
 ---
 ## Stamp.XIndent property
 
@@ -16,8 +19,7 @@ public virtual double XIndent { get; set; }
 
 ### See Also
 
-* class [Stamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

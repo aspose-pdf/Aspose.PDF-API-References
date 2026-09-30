@@ -1,10 +1,14 @@
 ---
-title: Class Timestamp
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.Timestamp class. Plugin that adds a timestamp to a digital signature using a timestamp server
+title: "Timestamp Class"
+linktitle: "Timestamp"
+articleTitle: "Timestamp"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.Timestamp class. Plugin that adds a timestamp to a digital signature using a timestamp server."
 type: docs
-weight: 8070
-url: /net/aspose.pdf.lowcode/timestamp/
+weight: 1020
+url: "/net/aspose.pdf.lowcode/timestamp/"
+keywords: "Timestamp, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## Timestamp class
 
@@ -18,19 +22,17 @@ public sealed class Timestamp : IDisposable, IPlugin
 
 | Name | Description |
 | --- | --- |
-| [Timestamp](timestamp/)() | The default constructor. |
+| [Timestamp](./timestamp/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.pdf.lowcode/timestamp/dispose/)() | Releases resources used by the plugin. |
-| [Process](../../aspose.pdf.lowcode/timestamp/process/)(IPluginOptions) | Processes the timestamp plugin with the supplied options. |
+| [Dispose](./dispose/)() | Releases resources used by the plugin. |
+| [Process](./process/)(IPluginOptions) | Processes the timestamp plugin with the supplied options. |
 
 ### See Also
 
-* interface [IPlugin](../iplugin/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

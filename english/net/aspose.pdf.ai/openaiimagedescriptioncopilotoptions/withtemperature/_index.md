@@ -1,10 +1,13 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithTemperature
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions method. Sets the temperature for the image description copilot options
+title: "OpenAIImageDescriptionCopilotOptions.WithTemperature"
+linktitle: "WithTemperature"
+articleTitle: "WithTemperature"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIImageDescriptionCopilotOptions method. Sets the temperature for the image description copilot options."
 type: docs
-weight: 160
-url: /net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withtemperature/
+weight: 50
+url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withtemperature/"
+product_version: "26.9.0"
 ---
 ## OpenAIImageDescriptionCopilotOptions.WithTemperature method
 
@@ -20,12 +23,11 @@ public OpenAIImageDescriptionCopilotOptions WithTemperature(double? temperature)
 
 ### Return Value
 
-The current instance of [`OpenAIImageDescriptionCopilotOptions`](../).
+The current instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
 
 ### See Also
 
-* class [OpenAIImageDescriptionCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PageSettings.Landscape
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettings property. Gets or sets a value indicating whether the page should be printed in landscape or portrait orientation
+title: "PageSettings.Landscape"
+linktitle: "Landscape"
+articleTitle: "Landscape"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSettings property. Gets or sets a value indicating whether the page should be printed in landscape or portrait orientation."
 type: docs
-weight: 50
-url: /net/aspose.pdf.printing/pagesettings/landscape/
+weight: 60
+url: "/net/aspose.pdf.printing/pagesettings/landscape/"
+product_version: "26.9.0"
 ---
 ## PageSettings.Landscape property
 
@@ -16,8 +19,7 @@ public bool Landscape { get; set; }
 
 ### See Also
 
-* class [PageSettings](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

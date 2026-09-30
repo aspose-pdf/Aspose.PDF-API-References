@@ -1,10 +1,13 @@
 ---
-title: IOpenAIClient.GetVectorStoreFilesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Retrieves a list of files within a specific vector store asynchronously
+title: "IOpenAIClient.GetVectorStoreFilesAsync"
+linktitle: "GetVectorStoreFilesAsync"
+articleTitle: "GetVectorStoreFilesAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Retrieves a list of files within a specific vector store asynchronously."
 type: docs
-weight: 340
-url: /net/aspose.pdf.ai/iopenaiclient/getvectorstorefilesasync/
+weight: 20
+url: "/net/aspose.pdf.ai/iopenaiclient/getvectorstorefilesasync/"
+product_version: "26.9.0"
 ---
 ## IOpenAIClient.GetVectorStoreFilesAsync method
 
@@ -30,14 +33,12 @@ A task that represents the asynchronous operation. The task result contains a li
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Thrown when the vector store Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the vector store Id is null or empty. |
 
 ### See Also
 
-* class [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
-* class [VectorStoreFileListQueryParameters](../../vectorstorefilelistqueryparameters/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [VectorStoreFileListQueryParameters](../../../aspose.pdf.ai/vectorstorefilelistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

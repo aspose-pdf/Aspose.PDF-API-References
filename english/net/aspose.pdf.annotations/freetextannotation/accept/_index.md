@@ -1,10 +1,13 @@
 ---
-title: FreeTextAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation method. Accepts visitor object to process the annotation
+title: "FreeTextAnnotation.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FreeTextAnnotation method. Accepts visitor object to process the annotation."
 type: docs
-weight: 140
-url: /net/aspose.pdf.annotations/freetextannotation/accept/
+weight: 30
+url: "/net/aspose.pdf.annotations/freetextannotation/accept/"
+product_version: "26.9.0"
 ---
 ## FreeTextAnnotation.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../annotationselector/)
-* class [FreeTextAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

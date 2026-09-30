@@ -1,12 +1,15 @@
 ---
-title: HtmlDiffOutputGenerator.GenerateOutput
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlDiffOutputGenerator method. Generates the output based on the differences between texts and saves it to a file
+title: "HtmlDiffOutputGenerator.GenerateOutput"
+linktitle: "GenerateOutput"
+articleTitle: "GenerateOutput"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlDiffOutputGenerator method. Generates the output based on the differences between texts and saves it to a file."
 type: docs
-weight: 60
-url: /net/aspose.pdf.comparison/htmldiffoutputgenerator/generateoutput/
+weight: 30
+url: "/net/aspose.pdf.comparison/htmldiffoutputgenerator/generateoutput/"
+product_version: "26.9.0"
 ---
-## GenerateOutput(List&lt;DiffOperation&gt;) {#generateoutput}
+## GenerateOutput(List<DiffOperation>) {#generateoutput}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -18,16 +21,43 @@ public string GenerateOutput(List<DiffOperation> diffrences)
 | --- | --- | --- |
 | diffrences | List`1 | The list of differences between texts. |
 
+### Return Value
+
+string
+
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [HtmlDiffOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
+* class [HtmlDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GenerateOutput(List&lt;DiffOperation&gt;, string) {#generateoutput_2}
+## GenerateOutput(List<List<DiffOperation>>) {#generateoutput_1}
+
+Generates the output based on the differences between texts and saves it to a file.
+
+```csharp
+public string GenerateOutput(List<List<DiffOperation>> diffrences)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| diffrences | List`1 | The list of differences between texts. |
+
+### Return Value
+
+string
+
+### See Also
+
+* class [HtmlDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## GenerateOutput(List<DiffOperation>, string) {#generateoutput_2}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -42,35 +72,13 @@ public void GenerateOutput(List<DiffOperation> diffrences, string targetFilePath
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [HtmlDiffOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
+* class [HtmlDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;) {#generateoutput_1}
-
-Generates the output based on the differences between texts and saves it to a file.
-
-```csharp
-public string GenerateOutput(List<List<DiffOperation>> diffrences)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| diffrences | List`1 | The list of differences between texts. |
-
-### See Also
-
-* class [DiffOperation](../../diffoperation/)
-* class [HtmlDiffOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;, string) {#generateoutput_3}
+## GenerateOutput(List<List<DiffOperation>>, string) {#generateoutput_3}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -85,9 +93,7 @@ public void GenerateOutput(List<List<DiffOperation>> diffrences, string targetFi
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [HtmlDiffOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HtmlDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

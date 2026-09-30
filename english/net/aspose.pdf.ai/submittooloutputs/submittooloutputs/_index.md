@@ -1,10 +1,13 @@
 ---
-title: SubmitToolOutputs.SubmitToolOutputs
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitToolOutputs constructor. The default constructor
+title: "SubmitToolOutputs.SubmitToolOutputs"
+linktitle: "SubmitToolOutputs"
+articleTitle: "SubmitToolOutputs"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SubmitToolOutputs constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/submittooloutputs/submittooloutputs/
+url: "/net/aspose.pdf.ai/submittooloutputs/submittooloutputs/"
+product_version: "26.9.0"
 ---
 ## SubmitToolOutputs constructor
 
@@ -16,8 +19,7 @@ public SubmitToolOutputs()
 
 ### See Also
 
-* class [SubmitToolOutputs](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SubmitToolOutputs](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

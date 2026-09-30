@@ -1,10 +1,13 @@
 ---
-title: Table.DefaultCellBorder
-second_title: Aspose.PDF for .NET API Reference
-description: Table property. Gets default cell border
+title: "Table.DefaultCellBorder"
+linktitle: "DefaultCellBorder"
+articleTitle: "DefaultCellBorder"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Table property. Gets default cell border;"
 type: docs
-weight: 100
-url: /net/aspose.pdf/table/defaultcellborder/
+weight: 190
+url: "/net/aspose.pdf/table/defaultcellborder/"
+product_version: "26.9.0"
 ---
 ## Table.DefaultCellBorder property
 
@@ -16,9 +19,8 @@ public BorderInfo DefaultCellBorder { get; set; }
 
 ### See Also
 
-* class [BorderInfo](../../borderinfo/)
-* class [Table](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

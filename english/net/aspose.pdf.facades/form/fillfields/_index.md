@@ -1,14 +1,20 @@
 ---
-title: Form.FillFields
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Fills the text box fields with a text values and save the document. Relevant for signed documents. Notice Only be applied to Text Box. Both the fields name and values are case sensitive
+title: "Form.FillFields"
+linktitle: "FillFields"
+articleTitle: "FillFields"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Fills the text box fields with a text values and save the document. Relevant for signed documents. Notice: Only be applied to Text Box. Both the..."
 type: docs
-weight: 140
-url: /net/aspose.pdf.facades/form/fillfields/
+weight: 90
+url: "/net/aspose.pdf.facades/form/fillfields/"
+product_version: "26.9.0"
 ---
 ## Form.FillFields method
 
-Fills the text box fields with a text values and save the document. Relevant for signed documents. Notice: Only be applied to Text Box. Both the fields' name and values are case sensitive.
+Fills the text box fields with a text values and save the document.
+ Relevant for signed documents.
+ Notice: Only be applied to Text Box.
+ Both the fields' name and values are case sensitive.
 
 ```csharp
 public bool FillFields(string[] fieldNames, string[] fieldValues, out Stream output)
@@ -34,8 +40,7 @@ form.FillFields(new string[] {"Field1"}, new string[] {"+"}, out stream);
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

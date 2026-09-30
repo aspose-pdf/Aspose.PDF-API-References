@@ -1,10 +1,13 @@
 ---
-title: Enum HtmlPageLayoutOption
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlPageLayoutOption enum. Specifies flags that together other options determine sizes and layouts of pages
+title: "HtmlPageLayoutOption Enum"
+linktitle: "HtmlPageLayoutOption"
+articleTitle: "HtmlPageLayoutOption"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlPageLayoutOption enum. Specifies flags that together other options determine sizes and layouts of pages."
 type: docs
-weight: 5690
-url: /net/aspose.pdf/htmlpagelayoutoption/
+weight: 1170
+url: "/net/aspose.pdf/htmlpagelayoutoption/"
+product_version: "26.9.0"
 ---
 ## HtmlPageLayoutOption enumeration
 
@@ -24,7 +27,6 @@ public enum HtmlPageLayoutOption
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

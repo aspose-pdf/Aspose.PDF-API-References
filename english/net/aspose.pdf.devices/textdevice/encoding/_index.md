@@ -1,10 +1,13 @@
 ---
-title: TextDevice.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: TextDevice property. Gets or sets encoding of extracted text
+title: "TextDevice.Encoding"
+linktitle: "Encoding"
+articleTitle: "Encoding"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextDevice property. Gets or sets encoding of extracted text."
 type: docs
-weight: 20
-url: /net/aspose.pdf.devices/textdevice/encoding/
+weight: 70
+url: "/net/aspose.pdf.devices/textdevice/encoding/"
+product_version: "26.9.0"
 ---
 ## TextDevice.Encoding property
 
@@ -34,8 +37,7 @@ extractedText = File.ReadAllText(outFile, Encoding.UTF8);
 
 ### See Also
 
-* class [TextDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

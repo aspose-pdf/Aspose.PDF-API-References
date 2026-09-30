@@ -1,14 +1,18 @@
 ---
-title: AutoFiller.ImportDataTable
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFiller method. Imports data of DataTable type. Every columns name of the dataTable must be the same as one field name of the template pdf in case sensitive
+title: "AutoFiller.ImportDataTable"
+linktitle: "ImportDataTable"
+articleTitle: "ImportDataTable"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AutoFiller method. Imports data of DataTable type. Every column's name of the dataTable must be the same as one field name of the template pdf in case sensit..."
 type: docs
-weight: 90
-url: /net/aspose.pdf.facades/autofiller/importdatatable/
+weight: 20
+url: "/net/aspose.pdf.facades/autofiller/importdatatable/"
+product_version: "26.9.0"
 ---
 ## AutoFiller.ImportDataTable method
 
-Imports data of DataTable type. Every column's name of the dataTable must be the same as one field name of the template pdf in case sensitive.
+Imports data of DataTable type. Every column's name of the dataTable must be the same as
+ one field name of the template pdf in case sensitive.
 
 ```csharp
 public void ImportDataTable(DataTable dataTable)
@@ -20,8 +24,7 @@ public void ImportDataTable(DataTable dataTable)
 
 ### See Also
 
-* class [AutoFiller](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

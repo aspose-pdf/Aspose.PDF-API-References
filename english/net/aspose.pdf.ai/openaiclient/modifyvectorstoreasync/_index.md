@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.ModifyVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Modifies an existing vector store asynchronously
+title: "OpenAIClient.ModifyVectorStoreAsync"
+linktitle: "ModifyVectorStoreAsync"
+articleTitle: "ModifyVectorStoreAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Modifies an existing vector store asynchronously."
 type: docs
-weight: 440
-url: /net/aspose.pdf.ai/openaiclient/modifyvectorstoreasync/
+weight: 130
+url: "/net/aspose.pdf.ai/openaiclient/modifyvectorstoreasync/"
+product_version: "26.9.0"
 ---
 ## OpenAIClient.ModifyVectorStoreAsync method
 
@@ -30,14 +33,12 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Thrown when the vector store Id is null or empty. |
+| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the vector store Id is null or empty. |
 
 ### See Also
 
-* class [VectorStoreResponse](../../vectorstoreresponse/)
-* class [VectorStoreModifyRequest](../../vectorstoremodifyrequest/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [VectorStoreModifyRequest](../../../aspose.pdf.ai/vectorstoremodifyrequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,17 @@
 ---
-title: TextFragmentAbsorber.RegexResults
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber property. Gets dictionary of search occurrences that are presented with System.Text.RegularExpressions.Regex class as key and TextFragment as value
+title: "TextFragmentAbsorber.RegexResults"
+linktitle: "RegexResults"
+articleTitle: "RegexResults"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber property. Gets dictionary of search occurrences that are presented with System.Text.RegularExpressions.Regex class as key and TextFragme..."
 type: docs
-weight: 60
-url: /net/aspose.pdf.text/textfragmentabsorber/regexresults/
+weight: 220
+url: "/net/aspose.pdf.text/textfragmentabsorber/regexresults/"
+product_version: "26.9.0"
 ---
 ## TextFragmentAbsorber.RegexResults property
 
-Gets dictionary of search occurrences that are presented with System.Text.RegularExpressions.Regex class as key and [`TextFragment`](../../textfragment/) as value.
+Gets dictionary of search occurrences that are presented with System.Text.RegularExpressions.Regex class as key and [`TextFragment`](../../../aspose.pdf.text/textfragment/) as value.
 
 ```csharp
 public Dictionary<Regex, TextFragmentCollection> RegexResults { get; }
@@ -36,9 +39,7 @@ var results = absorber.RegexResults;
 
 ### See Also
 
-* class [TextFragmentCollection](../../textfragmentcollection/)
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

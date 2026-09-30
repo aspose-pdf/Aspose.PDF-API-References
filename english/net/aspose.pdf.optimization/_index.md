@@ -1,12 +1,20 @@
 ---
-title: Aspose.Pdf.Optimization
-second_title: Aspose.PDF for .NET API Reference
-description: The Aspose.Pdf.Optimization is a namespace for classes for managing of document optimization process
+title: "Aspose.Pdf.Optimization"
+linktitle: "Aspose.Pdf.Optimization"
+articleTitle: "Aspose.Pdf.Optimization"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "The Aspose.Pdf.Optimization namespace provides classes."
 type: docs
-weight: 160
-url: /net/aspose.pdf.optimization/
+weight: 10
+url: "/net/aspose.pdf.optimization/"
+keywords: "Aspose.Pdf.Optimization, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
-The **Aspose.Pdf.Optimization** is a namespace for classes for managing of document optimization process.
+## Overview
+
+The **Aspose.Pdf.Optimization** namespace provides classes.
+
+Part of the [Aspose.PDF for .NET](../) API reference.
 
 ## Classes
 
@@ -14,6 +22,7 @@ The **Aspose.Pdf.Optimization** is a namespace for classes for managing of docum
 | --- | --- |
 | [ImageCompressionOptions](./imagecompressionoptions/) | Class contains set options for image compression. |
 | [OptimizationOptions](./optimizationoptions/) | Class which describes document optimization algorithm. Instance of this class may be used as parameter of OptimizeResources() method. |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -21,4 +30,13 @@ The **Aspose.Pdf.Optimization** is a namespace for classes for managing of docum
 | [ImageCompressionVersion](./imagecompressionversion/) | Describes versions of image compression algorithm. |
 | [ImageEncoding](./imageencoding/) | Image encoding types. |
 
+## FAQ
+
+### What classes does the Aspose.Pdf.Optimization namespace contain?
+
+[ImageCompressionOptions](./imagecompressionoptions/), [OptimizationOptions](./optimizationoptions/).
+
+### How many types are in the Aspose.Pdf.Optimization namespace?
+
+The Aspose.Pdf.Optimization namespace contains 4 types, listed above.
 

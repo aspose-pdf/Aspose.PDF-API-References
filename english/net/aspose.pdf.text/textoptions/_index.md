@@ -1,10 +1,14 @@
 ---
-title: Class TextOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextOptions class. Represents text processing options
+title: "TextOptions Class"
+linktitle: "TextOptions"
+articleTitle: "TextOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextOptions class. Represents text processing options"
 type: docs
-weight: 11380
-url: /net/aspose.pdf.text/textoptions/
+weight: 590
+url: "/net/aspose.pdf.text/textoptions/"
+keywords: "TextOptions, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## TextOptions class
 
@@ -16,7 +20,6 @@ public abstract class TextOptions
 
 ### See Also
 
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

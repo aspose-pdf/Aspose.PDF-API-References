@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.CreateLine
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates line annotation
+title: "PdfContentEditor.CreateLine"
+linktitle: "CreateLine"
+articleTitle: "CreateLine"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates line annotation."
 type: docs
-weight: 180
-url: /net/aspose.pdf.facades/pdfcontenteditor/createline/
+weight: 300
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createline/"
+product_version: "26.9.0"
 ---
 ## PdfContentEditor.CreateLine method
 
@@ -26,9 +29,12 @@ public void CreateLine(Rectangle rect, string contents, float x1, float y1, floa
 | page | Int32 | The number of original page where the annotation will be created. |
 | border | Int32 | The border width in points. If this value is 0 no border is drawn. Default value is 1. |
 | clr | Color | The color of line. |
-| borderStyle | String | The border style specifying the width and dash pattern to be used in drawing the line. This value can be: "S" (Solid), "D" (Dashed), "B" (Beveled), "I" (Inset), "U" (Underline). |
-| dashArray | Int32[] | A dash array defining a pattern of dashes and gaps to be used in drawing a dashed border. If it is used, borderSyle must be accordingly set to "D". |
-| LEArray | String[] | An array of two values respectively specifying the beginning and ending style of the drawing line. The values can be: "Square", "Circle", "Diamond", "OpenArrow", "ClosedArrow", "None", "Butt", "ROpenArrow", "RClosedArrow", "Slash". |
+| borderStyle | String | The border style specifying the width and dash pattern to be used in drawing the line.
+ This value can be: "S" (Solid), "D" (Dashed), "B" (Beveled), "I" (Inset), "U" (Underline). |
+| dashArray | Int32[] | A dash array defining a pattern of dashes and gaps to be used in drawing a dashed border.
+ If it is used, borderSyle must be accordingly set to "D". |
+| LEArray | String[] | An array of two values respectively specifying the beginning and ending style of the drawing line.
+ The values can be: "Square", "Circle", "Diamond", "OpenArrow", "ClosedArrow", "None", "Butt", "ROpenArrow", "RClosedArrow", "Slash". |
 
 ## Examples
 
@@ -42,8 +48,9 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Color](../../../aspose.pdf/color/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

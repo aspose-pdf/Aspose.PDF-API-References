@@ -1,12 +1,15 @@
 ---
-title: PdfXmpMetadata.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata method. Removes element with specified key
+title: "PdfXmpMetadata.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata method. Removes element with specified key."
 type: docs
-weight: 210
-url: /net/aspose.pdf.facades/pdfxmpmetadata/remove/
+weight: 90
+url: "/net/aspose.pdf.facades/pdfxmpmetadata/remove/"
+product_version: "26.9.0"
 ---
-## Remove(DefaultMetadataProperties) {#remove_2}
+## Remove([DefaultMetadataProperties](../../../aspose.pdf.facades/defaultmetadataproperties/)) {#remove}
 
 Removes element with specified key.
 
@@ -28,14 +31,38 @@ xmp.Remove(DefaultMetadataProperties.Nickname);
 
 ### See Also
 
-* enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* enum [DefaultMetadataProperties](../../../aspose.pdf.facades/defaultmetadataproperties/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Remove(string) {#remove_1}
+## Remove(KeyValuePair<string, XmpValue>) {#remove_1}
+
+Removes key/value pair from the collection.
+
+```csharp
+public bool Remove(KeyValuePair<string, XmpValue> item)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| item | KeyValuePair`2 | Key/value pair to be removed. |
+
+### Return Value
+
+true if pair was found and removed.
+
+### See Also
+
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Remove(string) {#remove_2}
 
 Removes key from the dictionary.
 
@@ -61,33 +88,7 @@ xmp.Remove("xmp:Nickname");
 
 ### See Also
 
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Remove(KeyValuePair&lt;string, XmpValue&gt;) {#remove}
-
-Removes key/value pair from the collection.
-
-```csharp
-public bool Remove(KeyValuePair<string, XmpValue> item)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | KeyValuePair`2 | Key/value pair to be removed. |
-
-### Return Value
-
-true if pair was found and removed.
-
-### See Also
-
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

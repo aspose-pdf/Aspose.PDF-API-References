@@ -1,10 +1,13 @@
 ---
-title: Enum TextFormattingOptions.LineSpacingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextFormattingOptionsLineSpacingMode enum. Defines line spacing specifics
+title: "TextFormattingOptions.LineSpacingMode Enum"
+linktitle: "TextFormattingOptions.LineSpacingMode"
+articleTitle: "TextFormattingOptions.LineSpacingMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextFormattingOptions.LineSpacingMode enum. Defines line spacing specifics"
 type: docs
-weight: 11320
-url: /net/aspose.pdf.text/textformattingoptions.linespacingmode/
+weight: 530
+url: "/net/aspose.pdf.text/textformattingoptions.linespacingmode/"
+product_version: "26.9.0"
 ---
 ## TextFormattingOptions.LineSpacingMode enumeration
 
@@ -23,8 +26,7 @@ public enum LineSpacingMode
 
 ### See Also
 
-* class [TextFormattingOptions](../textformattingoptions/)
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* class [TextFormattingOptions](../textformattingoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

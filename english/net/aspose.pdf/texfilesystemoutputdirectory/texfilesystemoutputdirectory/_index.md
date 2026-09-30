@@ -1,10 +1,13 @@
 ---
-title: TeXFileSystemOutputDirectory.TeXFileSystemOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFileSystemOutputDirectory constructor. Creates new instance
+title: "TeXFileSystemOutputDirectory.TeXFileSystemOutputDirectory"
+linktitle: "TeXFileSystemOutputDirectory"
+articleTitle: "TeXFileSystemOutputDirectory"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXFileSystemOutputDirectory constructor. Creates new instance."
 type: docs
 weight: 10
-url: /net/aspose.pdf/texfilesystemoutputdirectory/texfilesystemoutputdirectory/
+url: "/net/aspose.pdf/texfilesystemoutputdirectory/texfilesystemoutputdirectory/"
+product_version: "26.9.0"
 ---
 ## TeXFileSystemOutputDirectory constructor
 
@@ -20,8 +23,7 @@ public TeXFileSystemOutputDirectory(string basePath)
 
 ### See Also
 
-* class [TeXFileSystemOutputDirectory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TeXFileSystemOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

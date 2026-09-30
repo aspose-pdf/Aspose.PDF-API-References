@@ -1,10 +1,13 @@
 ---
-title: Color.BlanchedAlmond
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FFFFEBCD
+title: "Color.BlanchedAlmond"
+linktitle: "BlanchedAlmond"
+articleTitle: "BlanchedAlmond"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFFFEBCD."
 type: docs
-weight: 100
-url: /net/aspose.pdf/color/blanchedalmond/
+weight: 270
+url: "/net/aspose.pdf/color/blanchedalmond/"
+product_version: "26.9.0"
 ---
 ## Color.BlanchedAlmond property
 
@@ -20,8 +23,7 @@ A representing a system-defined color.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

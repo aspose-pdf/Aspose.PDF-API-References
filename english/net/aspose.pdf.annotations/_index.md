@@ -1,12 +1,20 @@
 ---
-title: Aspose.Pdf.Annotations
-second_title: Aspose.PDF for .NET API Reference
-description: The Aspose.Pdf.Annotations namespace provides classes for working with various types of actions destinations and other features of document which traditionally called as interactive providing means user can intercommunicate with it
+title: "Aspose.Pdf.Annotations"
+linktitle: "Aspose.Pdf.Annotations"
+articleTitle: "Aspose.Pdf.Annotations"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "The Aspose.Pdf.Annotations namespace provides classes."
 type: docs
-weight: 30
-url: /net/aspose.pdf.annotations/
+weight: 10
+url: "/net/aspose.pdf.annotations/"
+keywords: "Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
-The **Aspose.Pdf.Annotations** namespace provides classes for working with various types of actions, destinations and other features of document which traditionally called as interactive providing means user can intercommunicate with it.
+## Overview
+
+The **Aspose.Pdf.Annotations** namespace provides classes.
+
+Part of the [Aspose.PDF for .NET](../) API reference.
 
 ## Classes
 
@@ -55,6 +63,8 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [LinkAnnotation](./linkannotation/) | Represents either a hypertext link to a destination elsewhere in the document or an action to be performed. |
 | [MarkupAnnotation](./markupannotation/) | Abstract class representing markup annotation. |
 | [Measure](./measure/) | Class which describes Measure coordinate system. |
+| [Measure.NumberFormat](./measure.numberformat/) | Number format for measure. |
+| [Measure.NumberFormatList](./measure.numberformatlist/) | Represents list of number formats. |
 | [MediaClip](./mediaclip/) | Class describes media clip object of rendition. |
 | [MediaClipData](./mediaclipdata/) | Class describes media clip data. |
 | [MediaClipSection](./mediaclipsection/) | This class descibes Media clip section. |
@@ -62,7 +72,6 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [MovieAnnotation](./movieannotation/) | Represents a movie annotation that contains animated graphics and sound to be presented on the computer screen and through the speakers. When the annotation is activated, the movie is played. |
 | [NamedAction](./namedaction/) | Represents named actions that PDF viewer applications are expected to support. |
 | [NamedDestination](./nameddestination/) | Instead of being defined directly with the explicit syntax, a destination may be referred to indirectly by means of a name object or a byte string. |
-| [PageInformationAnnotation](./pageinformationannotation/) | Represents a Page Information annotation in a PDF document. This annotation contains the file name, page number, and the date and time of the annotation creation. |
 | [PDF3DAnnotation](./pdf3dannotation/) | Class PDF3DAnnotation. This class cannot be inherited. |
 | [PDF3DArtwork](./pdf3dartwork/) | Class PDF3DArtwork. |
 | [PDF3DContent](./pdf3dcontent/) | Class PDF3DContent. |
@@ -74,6 +83,7 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [PDF3DStream](./pdf3dstream/) | Class PDF3DStream. |
 | [PDF3DView](./pdf3dview/) | Class PDF3DView. |
 | [PDF3DViewArray](./pdf3dviewarray/) | Class PDF3DViewArray. |
+| [PageInformationAnnotation](./pageinformationannotation/) | Represents a Page Information annotation in a PDF document. This annotation contains the file name, page number, and the date and time of the annotation creation. |
 | [PdfAction](./pdfaction/) | Represents Action in PDF document |
 | [PdfActionCollection](./pdfactioncollection/) | Class describes list of actions. |
 | [PolyAnnotation](./polyannotation/) | Abstract base class for poly- annotations. |
@@ -104,14 +114,16 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [UnderlineAnnotation](./underlineannotation/) | Represents an underline annotation that appears as an underline in the text of the document. |
 | [WatermarkAnnotation](./watermarkannotation/) | Class describes Watermark annotation object. |
 | [WidgetAnnotation](./widgetannotation/) | Class representing widget annotation. |
-| [XfdfReader](./xfdfreader/) | Class which peroformes reading of XFDF format. |
 | [XYZExplicitDestination](./xyzexplicitdestination/) | Represents explicit destination that displays the page with the coordinates (left, top) positioned at the upper-left corner of the window and the contents of the page magnified by the factor zoom. A null value for any of the parameters left, top, or zoom specifies that the current value of that parameter is to be retained unchanged. A zoom value of 0 has the same meaning as a null value. |
+| [XfdfReader](./xfdfreader/) | Class which peroformes reading of XFDF format. |
+
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
 | [IAnnotationVisitor](./iannotationvisitor/) | Defines Visitor for visiting different document annotations. |
 | [IAppointment](./iappointment/) | Represents general interface for actions and destinations. |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -135,6 +147,7 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [LightingSchemeType](./lightingschemetype/) | Enum LightingSchemeType: set of lighting scheme types. |
 | [LineEnding](./lineending/) | Enumerates the line ending styles to be used in drawing the line. |
 | [LineIntent](./lineintent/) | Enumerates the intents of the line annotation. |
+| [Measure.NumberFormat.FractionStyle](./measure.numberformat.fractionstyle/) | Value which indicates in which manner fraction values are displayed. |
 | [PDF3DActivation](./pdf3dactivation/) | Enum PDF3DActivation: set of 3D annotation activation mode. |
 | [PolyIntent](./polyintent/) | Enumerates the intents of the polygon or polyline annotation. |
 | [PredefinedAction](./predefinedaction/) | Defines different actions which can be triggered from a PDF file. |
@@ -145,6 +158,8 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [RenditionOperation](./renditionoperation/) | The operation to perform when the action is triggered. |
 | [RenditionType](./renditiontype/) | Enumeration describes possible types of Rendition. |
 | [ReplyType](./replytype/) | Enumerates the kinds of the relationships (the "reply type") between the annotation and one specified by InReplyTo. |
+| [RichMediaAnnotation.ActivationEvent](./richmediaannotation.activationevent/) | Event which activates annotation. |
+| [RichMediaAnnotation.ContentType](./richmediaannotation.contenttype/) | Type of the multimedia. |
 | [RichTextFontStyles](./richtextfontstyles/) | Options for styling text fragments in RichText. |
 | [SoundEncoding](./soundencoding/) | The encoding format for the sample data. |
 | [SoundIcon](./soundicon/) | Enumerates the icons to be used in displaying the annotation. |
@@ -152,4 +167,13 @@ The **Aspose.Pdf.Annotations** namespace provides classes for working with vario
 | [StampIcon](./stampicon/) | Enumerates the icons to be used in displaying the annotation. |
 | [TextIcon](./texticon/) | Enumerates the icons to be used in displaying the annotation. |
 
+## FAQ
+
+### What classes does the Aspose.Pdf.Annotations namespace contain?
+
+[ActionCollection](./actioncollection/), [Annotation](./annotation/), [AnnotationActionCollection](./annotationactioncollection/), [AnnotationCollection](./annotationcollection/), [AnnotationSelector](./annotationselector/), and 91 more.
+
+### How many types are in the Aspose.Pdf.Annotations namespace?
+
+The Aspose.Pdf.Annotations namespace contains 136 types, listed above.
 

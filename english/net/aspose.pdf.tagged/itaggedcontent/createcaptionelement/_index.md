@@ -1,10 +1,13 @@
 ---
-title: ITaggedContent.CreateCaptionElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent method. Creates CaptionElement
+title: "ITaggedContent.CreateCaptionElement"
+linktitle: "CreateCaptionElement"
+articleTitle: "CreateCaptionElement"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Creates CaptionElement."
 type: docs
 weight: 80
-url: /net/aspose.pdf.tagged/itaggedcontent/createcaptionelement/
+url: "/net/aspose.pdf.tagged/itaggedcontent/createcaptionelement/"
+product_version: "26.9.0"
 ---
 ## ITaggedContent.CreateCaptionElement method
 
@@ -20,9 +23,8 @@ Created structure element.
 
 ### See Also
 
-* class [CaptionElement](../../../aspose.pdf.logicalstructure/captionelement/)
-* interface [ITaggedContent](../)
-* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CaptionElement](../../../aspose.pdf.logicalstructure/captionelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
 

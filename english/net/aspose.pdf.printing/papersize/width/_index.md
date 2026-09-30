@@ -1,10 +1,13 @@
 ---
-title: PaperSize.Width
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSize property. Gets or sets the width of the paper in hundredths of an inch
+title: "PaperSize.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSize property. Gets or sets the width of the paper, in hundredths of an inch."
 type: docs
-weight: 50
-url: /net/aspose.pdf.printing/papersize/width/
+weight: 70
+url: "/net/aspose.pdf.printing/papersize/width/"
+product_version: "26.9.0"
 ---
 ## PaperSize.Width property
 
@@ -16,8 +19,7 @@ public int Width { get; set; }
 
 ### See Also
 
-* class [PaperSize](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: FormImporterJsonOptions.Inputs
-second_title: Aspose.PDF for .NET API Reference
-description: FormImporterJsonOptions property. Gets the collection of input source pairs PDF source and corresponding JSON source
+title: "FormImporterJsonOptions.Inputs"
+linktitle: "Inputs"
+articleTitle: "Inputs"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormImporterJsonOptions property. Gets the collection of input source pairs (PDF source and corresponding JSON source)."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/formimporterjsonoptions/inputs/
+weight: 40
+url: "/net/aspose.pdf.lowcode/formimporterjsonoptions/inputs/"
+product_version: "26.9.0"
 ---
 ## FormImporterJsonOptions.Inputs property
 
@@ -16,9 +19,7 @@ public IReadOnlyList<FormJsonImportSource> Inputs { get; }
 
 ### See Also
 
-* class [FormJsonImportSource](../../formjsonimportsource/)
-* class [FormImporterJsonOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormImporterJsonOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

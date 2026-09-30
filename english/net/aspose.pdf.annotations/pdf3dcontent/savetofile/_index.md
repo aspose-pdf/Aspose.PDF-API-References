@@ -1,10 +1,13 @@
 ---
-title: PDF3DContent.SaveToFile
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DContent method. Saves 3D content to file
+title: "PDF3DContent.SaveToFile"
+linktitle: "SaveToFile"
+articleTitle: "SaveToFile"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DContent method. Saves 3D content to file."
 type: docs
-weight: 80
-url: /net/aspose.pdf.annotations/pdf3dcontent/savetofile/
+weight: 100
+url: "/net/aspose.pdf.annotations/pdf3dcontent/savetofile/"
+product_version: "26.9.0"
 ---
 ## PDF3DContent.SaveToFile method
 
@@ -26,8 +29,7 @@ public void SaveToFile(string filename)
 
 ### See Also
 
-* class [PDF3DContent](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

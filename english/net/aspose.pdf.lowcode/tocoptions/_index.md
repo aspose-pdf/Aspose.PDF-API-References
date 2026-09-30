@@ -1,14 +1,18 @@
 ---
-title: Class TocOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.TocOptions class. Represents options for add table of contents to document by TocGenerator plugin
+title: "TocOptions Class"
+linktitle: "TocOptions"
+articleTitle: "TocOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.TocOptions class. Represents options for add table of contents to document by TocGenerator plugin."
 type: docs
-weight: 8100
-url: /net/aspose.pdf.lowcode/tocoptions/
+weight: 1050
+url: "/net/aspose.pdf.lowcode/tocoptions/"
+keywords: "TocOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## TocOptions class
 
-Represents options for add table of contents to document by [`TocGenerator`](../tocgenerator/) plugin.
+Represents options for add table of contents to document by [`TocGenerator`](../../aspose.pdf.lowcode/tocgenerator/) plugin.
 
 ```csharp
 public sealed class TocOptions : PdfGeneratorOptions
@@ -18,14 +22,14 @@ public sealed class TocOptions : PdfGeneratorOptions
 
 | Name | Description |
 | --- | --- |
-| [TocOptions](tocoptions/)() | The default constructor. |
+| [TocOptions](./tocoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Inputs](../../aspose.pdf.lowcode/pdfgeneratoroptions/inputs/) { get; } | Returns PdfGenerator plugin data collection. |
-| [Outputs](../../aspose.pdf.lowcode/pdfgeneratoroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
+| [Inputs](../../aspose.pdf.lowcode/pdfgeneratoroptions/inputs/) { get; } | Returns PdfGenerator plugin data collection. |
+| [Outputs](../../aspose.pdf.lowcode/pdfgeneratoroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
@@ -36,8 +40,7 @@ public sealed class TocOptions : PdfGeneratorOptions
 
 ### See Also
 
-* class [PdfGeneratorOptions](../pdfgeneratoroptions/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfGeneratorOptions](../pdfgeneratoroptions/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

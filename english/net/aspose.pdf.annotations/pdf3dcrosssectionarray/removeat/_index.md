@@ -1,10 +1,13 @@
 ---
-title: PDF3DCrossSectionArray.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSectionArray method. Removes cross section from array at specified index
+title: "PDF3DCrossSectionArray.RemoveAt"
+linktitle: "RemoveAt"
+articleTitle: "RemoveAt"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCrossSectionArray method. Removes cross section from array at specified index."
 type: docs
-weight: 60
-url: /net/aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/
+weight: 30
+url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/"
+product_version: "26.9.0"
 ---
 ## PDF3DCrossSectionArray.RemoveAt method
 
@@ -26,8 +29,7 @@ public void RemoveAt(int index)
 
 ### See Also
 
-* class [PDF3DCrossSectionArray](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

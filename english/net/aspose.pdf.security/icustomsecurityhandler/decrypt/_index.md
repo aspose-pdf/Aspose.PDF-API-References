@@ -1,10 +1,13 @@
 ---
-title: ICustomSecurityHandler.Decrypt
-second_title: Aspose.PDF for .NET API Reference
-description: ICustomSecurityHandler method. Decrypt the data array
+title: "ICustomSecurityHandler.Decrypt"
+linktitle: "Decrypt"
+articleTitle: "Decrypt"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ICustomSecurityHandler method. Decrypt the data array."
 type: docs
 weight: 70
-url: /net/aspose.pdf.security/icustomsecurityhandler/decrypt/
+url: "/net/aspose.pdf.security/icustomsecurityhandler/decrypt/"
+product_version: "26.9.0"
 ---
 ## ICustomSecurityHandler.Decrypt method
 
@@ -27,8 +30,7 @@ The decrypted data.
 
 ### See Also
 
-* interface [ICustomSecurityHandler](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [ICustomSecurityHandler](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 

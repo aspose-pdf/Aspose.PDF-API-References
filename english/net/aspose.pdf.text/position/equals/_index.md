@@ -1,14 +1,17 @@
 ---
-title: Position.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Position method. Determines whether the specified object is equal to the current Position object
+title: "Position.Equals"
+linktitle: "Equals"
+articleTitle: "Equals"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Position method. Determines whether the specified object is equal to the current Position object."
 type: docs
-weight: 40
-url: /net/aspose.pdf.text/position/equals/
+weight: 30
+url: "/net/aspose.pdf.text/position/equals/"
+product_version: "26.9.0"
 ---
 ## Position.Equals method
 
-Determines whether the specified object is equal to the current [`Position`](../) object.
+Determines whether the specified object is equal to the current [`Position`](../../../aspose.pdf.text/position/) object.
 
 ```csharp
 public override bool Equals(object obj)
@@ -24,8 +27,7 @@ True in case objects are equal.
 
 ### See Also
 
-* class [Position](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Position](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

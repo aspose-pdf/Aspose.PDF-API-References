@@ -1,14 +1,17 @@
 ---
-title: PDF3DRenderMode.PDF3DRenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode constructor. Initializes a new instance of the PDF3DRenderMode class
+title: "PDF3DRenderMode.PDF3DRenderMode"
+linktitle: "PDF3DRenderMode"
+articleTitle: "PDF3DRenderMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode constructor. Initializes a new instance of the PDF3DRenderMode class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/pdf3drendermode/pdf3drendermode/
+url: "/net/aspose.pdf.annotations/pdf3drendermode/pdf3drendermode/"
+product_version: "26.9.0"
 ---
-## PDF3DRenderMode(RenderModeType) {#constructor}
+## PDF3DRenderMode([RenderModeType](../../../aspose.pdf.annotations/rendermodetype/)) {#constructor}
 
-Initializes a new instance of the [`PDF3DRenderMode`](../) class.
+Initializes a new instance of the [`PDF3DRenderMode`](../../../aspose.pdf.annotations/pdf3drendermode/) class.
 
 ```csharp
 public PDF3DRenderMode(RenderModeType subtype)
@@ -20,16 +23,16 @@ public PDF3DRenderMode(RenderModeType subtype)
 
 ### See Also
 
-* enum [RenderModeType](../../rendermodetype/)
-* class [PDF3DRenderMode](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* enum [RenderModeType](../../../aspose.pdf.annotations/rendermodetype/)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PDF3DRenderMode(string) {#constructor_1}
 
-Initializes a new instance of the [`PDF3DRenderMode`](../) class.
+Initializes a new instance of the [`PDF3DRenderMode`](../../../aspose.pdf.annotations/pdf3drendermode/) class.
 
 ```csharp
 public PDF3DRenderMode(string typeName)
@@ -47,8 +50,7 @@ public PDF3DRenderMode(string typeName)
 
 ### See Also
 
-* class [PDF3DRenderMode](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

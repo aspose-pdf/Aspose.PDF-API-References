@@ -1,10 +1,13 @@
 ---
-title: PdfXmpMetadata.GetXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata method. Get the XmpMetadata of the input pdf in a xml format
+title: "PdfXmpMetadata.GetXmpMetadata"
+linktitle: "GetXmpMetadata"
+articleTitle: "GetXmpMetadata"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata method. Get the XmpMetadata of the input pdf in a xml format."
 type: docs
-weight: 190
-url: /net/aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata/
+weight: 170
+url: "/net/aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata/"
+product_version: "26.9.0"
 ---
 ## GetXmpMetadata() {#getxmpmetadata}
 
@@ -28,9 +31,9 @@ byte[] data = pxm.GetXmpMetadata();
 
 ### See Also
 
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -60,8 +63,7 @@ byte[] data = pxm.GetXmpMetadata("dc:creator");
 
 ### See Also
 
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

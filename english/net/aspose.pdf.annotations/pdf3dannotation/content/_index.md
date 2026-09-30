@@ -1,10 +1,13 @@
 ---
-title: PDF3DAnnotation.Content
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DAnnotation property. Gets or sets the content
+title: "PDF3DAnnotation.Content"
+linktitle: "Content"
+articleTitle: "Content"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DAnnotation property. Gets or sets the content."
 type: docs
-weight: 30
-url: /net/aspose.pdf.annotations/pdf3dannotation/content/
+weight: 110
+url: "/net/aspose.pdf.annotations/pdf3dannotation/content/"
+product_version: "26.9.0"
 ---
 ## PDF3DAnnotation.Content property
 
@@ -20,9 +23,8 @@ The content.
 
 ### See Also
 
-* class [PDF3DContent](../../pdf3dcontent/)
-* class [PDF3DAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DContent](../../../aspose.pdf.annotations/pdf3dcontent/)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

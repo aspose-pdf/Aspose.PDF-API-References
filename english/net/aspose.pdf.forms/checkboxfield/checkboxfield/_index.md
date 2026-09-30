@@ -1,35 +1,36 @@
 ---
-title: CheckboxField.CheckboxField
-second_title: Aspose.PDF for .NET API Reference
-description: CheckboxField constructor. Constructor for CheckboxField class
+title: "CheckboxField.CheckboxField"
+linktitle: "CheckboxField"
+articleTitle: "CheckboxField"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CheckboxField constructor. Constructor for CheckboxField class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.forms/checkboxfield/checkboxfield/
+url: "/net/aspose.pdf.forms/checkboxfield/checkboxfield/"
+product_version: "26.9.0"
 ---
-## CheckboxField(Page, Rectangle) {#constructor_3}
+## CheckboxField([Document](../../../aspose.pdf/document/)) {#constructor}
 
-Constructor for CheckboxField class.
+Constructor to use with Generator.
 
 ```csharp
-public CheckboxField(Page page, Rectangle rect)
+public CheckboxField(Document doc)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | Page | Page where check box will be placed. |
-| rect | Rectangle | Position and size of the check box. |
+| doc | Document | Document where field will be created. |
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [CheckboxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CheckboxField(Document, Rectangle) {#constructor_2}
+## CheckboxField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
 
 Constructor for CheckboxField class.
 
@@ -44,31 +45,32 @@ public CheckboxField(Document doc, Rectangle rect)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [CheckboxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CheckboxField(Document) {#constructor_1}
+## CheckboxField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_2}
 
-Constructor to use with Generator.
+Constructor for CheckboxField class.
 
 ```csharp
-public CheckboxField(Document doc)
+public CheckboxField(Page page, Rectangle rect)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | Document | Document where field will be created. |
+| page | Page | Page where check box will be placed. |
+| rect | Rectangle | Position and size of the check box. |
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [CheckboxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

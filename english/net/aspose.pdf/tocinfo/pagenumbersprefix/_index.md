@@ -1,10 +1,13 @@
 ---
-title: TocInfo.PageNumbersPrefix
-second_title: Aspose.PDF for .NET API Reference
-description: TocInfo property. Gets or sets is prefix before page number
+title: "TocInfo.PageNumbersPrefix"
+linktitle: "PageNumbersPrefix"
+articleTitle: "PageNumbersPrefix"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TocInfo property. Gets or sets is prefix before page number."
 type: docs
-weight: 90
-url: /net/aspose.pdf/tocinfo/pagenumbersprefix/
+weight: 70
+url: "/net/aspose.pdf/tocinfo/pagenumbersprefix/"
+product_version: "26.9.0"
 ---
 ## TocInfo.PageNumbersPrefix property
 
@@ -16,8 +19,7 @@ public string PageNumbersPrefix { get; set; }
 
 ### See Also
 
-* class [TocInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

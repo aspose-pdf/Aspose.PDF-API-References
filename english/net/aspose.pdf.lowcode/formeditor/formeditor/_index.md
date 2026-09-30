@@ -1,10 +1,13 @@
 ---
-title: FormEditor.FormEditor
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor constructor. The default constructor
+title: "FormEditor.FormEditor"
+linktitle: "FormEditor"
+articleTitle: "FormEditor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/formeditor/formeditor/
+url: "/net/aspose.pdf.lowcode/formeditor/formeditor/"
+product_version: "26.9.0"
 ---
 ## FormEditor constructor
 
@@ -16,8 +19,7 @@ public FormEditor()
 
 ### See Also
 
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

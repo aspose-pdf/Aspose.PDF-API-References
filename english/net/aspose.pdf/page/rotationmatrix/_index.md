@@ -1,10 +1,13 @@
 ---
-title: Page.RotationMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Page property. Gets transofmation matrix for the page
+title: "Page.RotationMatrix"
+linktitle: "RotationMatrix"
+articleTitle: "RotationMatrix"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets transofmation matrix for the page."
 type: docs
-weight: 260
-url: /net/aspose.pdf/page/rotationmatrix/
+weight: 590
+url: "/net/aspose.pdf/page/rotationmatrix/"
+product_version: "26.9.0"
 ---
 ## Page.RotationMatrix property
 
@@ -16,9 +19,8 @@ public Matrix RotationMatrix { get; }
 
 ### See Also
 
-* class [Matrix](../../matrix/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

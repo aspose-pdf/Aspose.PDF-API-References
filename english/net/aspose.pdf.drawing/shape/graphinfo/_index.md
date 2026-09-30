@@ -1,14 +1,18 @@
 ---
-title: Shape.GraphInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Shape property. Gets or sets a GraphInfo object that indicates the graph infosuch as color line widthetc
+title: "Shape.GraphInfo"
+linktitle: "GraphInfo"
+articleTitle: "GraphInfo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Shape property. Gets or sets a GraphInfo object that indicates the graph info,such as color, line width,etc."
 type: docs
-weight: 10
-url: /net/aspose.pdf.drawing/shape/graphinfo/
+weight: 20
+url: "/net/aspose.pdf.drawing/shape/graphinfo/"
+product_version: "26.9.0"
 ---
 ## Shape.GraphInfo property
 
-Gets or sets a `GraphInfo` object that indicates the graph info,such as color, line width,etc.
+Gets or sets a `GraphInfo` object that indicates the graph info,such as color,
+ line width,etc.
 
 ```csharp
 public GraphInfo GraphInfo { get; set; }
@@ -16,9 +20,8 @@ public GraphInfo GraphInfo { get; set; }
 
 ### See Also
 
-* class [GraphInfo](../../../aspose.pdf/graphinfo/)
-* class [Shape](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [GraphInfo](../../../aspose.pdf/graphinfo/)
+* class [Shape](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 

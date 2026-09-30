@@ -1,10 +1,13 @@
 ---
-title: TextFormattingOptions.SubsequentLinesIndent
-second_title: Aspose.PDF for .NET API Reference
-description: TextFormattingOptions property. Gets or sets subsequent lines indent value
+title: "TextFormattingOptions.SubsequentLinesIndent"
+linktitle: "SubsequentLinesIndent"
+articleTitle: "SubsequentLinesIndent"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFormattingOptions property. Gets or sets subsequent lines indent value."
 type: docs
-weight: 50
-url: /net/aspose.pdf.text/textformattingoptions/subsequentlinesindent/
+weight: 60
+url: "/net/aspose.pdf.text/textformattingoptions/subsequentlinesindent/"
+product_version: "26.9.0"
 ---
 ## TextFormattingOptions.SubsequentLinesIndent property
 
@@ -16,8 +19,7 @@ public float SubsequentLinesIndent { get; set; }
 
 ### See Also
 
-* class [TextFormattingOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFormattingOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

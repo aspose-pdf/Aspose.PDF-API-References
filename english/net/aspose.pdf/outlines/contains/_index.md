@@ -1,10 +1,13 @@
 ---
-title: Outlines.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Outlines method. Always throws NotImplementedException
+title: "Outlines.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Outlines method. Always throws NotImplementedException."
 type: docs
-weight: 60
-url: /net/aspose.pdf/outlines/contains/
+weight: 30
+url: "/net/aspose.pdf/outlines/contains/"
+product_version: "26.9.0"
 ---
 ## Outlines.Contains method
 
@@ -22,11 +25,16 @@ public abstract bool Contains(OutlineItemCollection item)
 
 NotImplementedException
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| NotImplementedException | NotImplementedException |
+
 ### See Also
 
-* class [OutlineItemCollection](../../outlineitemcollection/)
-* class [Outlines](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

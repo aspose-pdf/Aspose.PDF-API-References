@@ -1,10 +1,13 @@
 ---
-title: SetLineJoin.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SetLineJoin method. Accepts visitor object to process operator
+title: "SetLineJoin.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetLineJoin method. Accepts visitor object to process operator."
 type: docs
 weight: 30
-url: /net/aspose.pdf.operators/setlinejoin/accept/
+url: "/net/aspose.pdf.operators/setlinejoin/accept/"
+product_version: "26.9.0"
 ---
 ## SetLineJoin.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* class [SetLineJoin](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [SetLineJoin](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

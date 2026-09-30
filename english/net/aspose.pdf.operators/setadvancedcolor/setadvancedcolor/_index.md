@@ -1,10 +1,13 @@
 ---
-title: SetAdvancedColor.SetAdvancedColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetAdvancedColor constructor. Initializes operator
+title: "SetAdvancedColor.SetAdvancedColor"
+linktitle: "SetAdvancedColor"
+articleTitle: "SetAdvancedColor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetAdvancedColor constructor. Initializes operator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/setadvancedcolor/setadvancedcolor/
+url: "/net/aspose.pdf.operators/setadvancedcolor/setadvancedcolor/"
+product_version: "26.9.0"
 ---
 ## SetAdvancedColor() {#constructor}
 
@@ -16,30 +19,9 @@ public SetAdvancedColor()
 
 ### See Also
 
-* class [SetAdvancedColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SetAdvancedColor(double, string) {#constructor_4}
-
-Constructor for scn operator.
-
-```csharp
-public SetAdvancedColor(double g, string patternName)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| g | Double | Color value. |
-| patternName | String | Pattern name. |
-
-### See Also
-
-* class [SetAdvancedColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [SetAdvancedColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -57,13 +39,75 @@ public SetAdvancedColor(double g)
 
 ### See Also
 
-* class [SetAdvancedColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [SetAdvancedColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SetAdvancedColor(double, double, double, string) {#constructor_3}
+## SetAdvancedColor(string) {#constructor_2}
+
+Constructor for scn operator.
+
+```csharp
+public SetAdvancedColor(string patternName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| patternName | String | Pattern name. |
+
+### See Also
+
+* class [SetAdvancedColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SetAdvancedColor(double, string) {#constructor_3}
+
+Constructor for scn operator.
+
+```csharp
+public SetAdvancedColor(double g, string patternName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| g | Double | Color value. |
+| patternName | String | Pattern name. |
+
+### See Also
+
+* class [SetAdvancedColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SetAdvancedColor(double[], string) {#constructor_4}
+
+Constructor for scn operator.
+
+```csharp
+public SetAdvancedColor(double[] colors, string patternName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| colors | Double[] | Color array. |
+| patternName | String | Pattern name. |
+
+### See Also
+
+* class [SetAdvancedColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SetAdvancedColor(double, double, double, string) {#constructor_5}
 
 Constructor for scn operator.
 
@@ -80,13 +124,13 @@ public SetAdvancedColor(double r, double g, double b, string patternName)
 
 ### See Also
 
-* class [SetAdvancedColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [SetAdvancedColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SetAdvancedColor(double, double, double, double, string) {#constructor_2}
+## SetAdvancedColor(double, double, double, double, string) {#constructor_6}
 
 Constructor for scn operator.
 
@@ -104,49 +148,7 @@ public SetAdvancedColor(double c, double m, double y, double k, string patternNa
 
 ### See Also
 
-* class [SetAdvancedColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SetAdvancedColor(string) {#constructor_6}
-
-Constructor for scn operator.
-
-```csharp
-public SetAdvancedColor(string patternName)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| patternName | String | Pattern name. |
-
-### See Also
-
-* class [SetAdvancedColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SetAdvancedColor(double[], string) {#constructor_5}
-
-Constructor for scn operator.
-
-```csharp
-public SetAdvancedColor(double[] colors, string patternName)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| patternName | Double[] | Pattern name. |
-| colors | String | Color array. |
-
-### See Also
-
-* class [SetAdvancedColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetAdvancedColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class Tiff
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.Tiff class. Represents Pdf to Tiff plugin
+title: "Tiff Class"
+linktitle: "Tiff"
+articleTitle: "Tiff"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.Tiff class. Represents Pdf to Tiff plugin."
 type: docs
-weight: 8050
-url: /net/aspose.pdf.lowcode/tiff/
+weight: 1000
+url: "/net/aspose.pdf.lowcode/tiff/"
+keywords: "Tiff, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## Tiff class
 
@@ -18,19 +22,18 @@ public sealed class Tiff : PdfToImage
 
 | Name | Description |
 | --- | --- |
-| [Tiff](tiff/)() | The default constructor. |
+| [Tiff](./tiff/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | [Dispose](../../aspose.pdf.lowcode/pdftoimage/dispose/)() | Implementation of . Actually, it is not necessary for . |
-| [Process](../../aspose.pdf.lowcode/pdftoimage/process/)(IPluginOptions) | Starts  processing with the specified parameters. |
+| [Process](../../aspose.pdf.lowcode/pdftoimage/process/)(IPluginOptions) | Starts processing with the specified parameters. |
 
 ### See Also
 
-* class [PdfToImage](../pdftoimage/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfToImage](../pdftoimage/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

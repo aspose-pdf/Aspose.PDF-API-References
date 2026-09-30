@@ -1,12 +1,15 @@
 ---
-title: InkAnnotation.InkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: InkAnnotation constructor. Constructor for Ink annotation for Generator
+title: "InkAnnotation.InkAnnotation"
+linktitle: "InkAnnotation"
+articleTitle: "InkAnnotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "InkAnnotation constructor. Constructor for Ink annotation for Generator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/inkannotation/inkannotation/
+url: "/net/aspose.pdf.annotations/inkannotation/inkannotation/"
+product_version: "26.9.0"
 ---
-## InkAnnotation(Document, IList&lt;Point[]&gt;) {#constructor}
+## InkAnnotation([Document](../../../aspose.pdf/document/), IList<Point[]>) {#constructor}
 
 Constructor for Ink annotation for Generator.
 
@@ -21,15 +24,14 @@ public InkAnnotation(Document document, IList<Point[]> inkList)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [Point](../../../aspose.pdf/point/)
-* class [InkAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [InkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## InkAnnotation(Page, Rectangle, IList&lt;Point[]&gt;) {#constructor_1}
+## InkAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), IList<Point[]>) {#constructor_1}
 
 Creates new Ink annotation on the specified page.
 
@@ -45,11 +47,9 @@ public InkAnnotation(Page page, Rectangle rect, IList<Point[]> inkList)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [Point](../../../aspose.pdf/point/)
-* class [InkAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [InkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

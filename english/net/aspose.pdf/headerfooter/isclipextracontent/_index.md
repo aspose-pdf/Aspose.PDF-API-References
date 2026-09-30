@@ -1,10 +1,13 @@
 ---
-title: HeaderFooter.IsClipExtraContent
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooter property. Gets or sets is clip extra content
+title: "HeaderFooter.IsClipExtraContent"
+linktitle: "IsClipExtraContent"
+articleTitle: "IsClipExtraContent"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HeaderFooter property. Gets or sets is clip extra content."
 type: docs
-weight: 20
-url: /net/aspose.pdf/headerfooter/isclipextracontent/
+weight: 30
+url: "/net/aspose.pdf/headerfooter/isclipextracontent/"
+product_version: "26.9.0"
 ---
 ## HeaderFooter.IsClipExtraContent property
 
@@ -16,8 +19,7 @@ public bool IsClipExtraContent { get; set; }
 
 ### See Also
 
-* class [HeaderFooter](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HeaderFooter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

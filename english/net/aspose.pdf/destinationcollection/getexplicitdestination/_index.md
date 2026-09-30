@@ -1,10 +1,13 @@
 ---
-title: DestinationCollection.GetExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection method. Returns the explicit destination by the name
+title: "DestinationCollection.GetExplicitDestination"
+linktitle: "GetExplicitDestination"
+articleTitle: "GetExplicitDestination"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DestinationCollection method. Returns the explicit destination by the name."
 type: docs
-weight: 90
-url: /net/aspose.pdf/destinationcollection/getexplicitdestination/
+weight: 20
+url: "/net/aspose.pdf/destinationcollection/getexplicitdestination/"
+product_version: "26.9.0"
 ---
 ## DestinationCollection.GetExplicitDestination method
 
@@ -25,9 +28,8 @@ The ExplicitDestination object for destination found; otherwise, null.
 
 ### See Also
 
-* class [ExplicitDestination](../../../aspose.pdf.annotations/explicitdestination/)
-* class [DestinationCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ExplicitDestination](../../../aspose.pdf.annotations/explicitdestination/)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

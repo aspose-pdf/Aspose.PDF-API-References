@@ -1,10 +1,13 @@
 ---
-title: TextState.Superscript
-second_title: Aspose.PDF for .NET API Reference
-description: TextState property. Gets or sets superscript of the text
+title: "TextState.Superscript"
+linktitle: "Superscript"
+articleTitle: "Superscript"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextState property. Gets or sets superscript of the text."
 type: docs
-weight: 170
-url: /net/aspose.pdf.text/textstate/superscript/
+weight: 160
+url: "/net/aspose.pdf.text/textstate/superscript/"
+product_version: "26.9.0"
 ---
 ## TextState.Superscript property
 
@@ -16,8 +19,7 @@ public virtual bool Superscript { get; set; }
 
 ### See Also
 
-* class [TextState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

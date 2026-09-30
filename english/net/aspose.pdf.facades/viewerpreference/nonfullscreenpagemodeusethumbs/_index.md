@@ -1,10 +1,13 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseThumbs
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference field. Thumbnail images visible
+title: "ViewerPreference.NonFullScreenPageModeUseThumbs"
+linktitle: "NonFullScreenPageModeUseThumbs"
+articleTitle: "NonFullScreenPageModeUseThumbs"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Thumbnail images visible"
 type: docs
-weight: 150
-url: /net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusethumbs/
+weight: 210
+url: "/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusethumbs/"
+product_version: "26.9.0"
 ---
 ## ViewerPreference.NonFullScreenPageModeUseThumbs field
 
@@ -16,8 +19,7 @@ public const int NonFullScreenPageModeUseThumbs;
 
 ### See Also
 
-* class [ViewerPreference](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

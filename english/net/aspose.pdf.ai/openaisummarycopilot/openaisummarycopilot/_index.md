@@ -1,14 +1,17 @@
 ---
-title: OpenAISummaryCopilot.OpenAISummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilot constructor. Initializes a new instance of the OpenAISummaryCopilot class
+title: "OpenAISummaryCopilot.OpenAISummaryCopilot"
+linktitle: "OpenAISummaryCopilot"
+articleTitle: "OpenAISummaryCopilot"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAISummaryCopilot constructor. Initializes a new instance of the OpenAISummaryCopilot class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/openaisummarycopilot/openaisummarycopilot/
+url: "/net/aspose.pdf.ai/openaisummarycopilot/openaisummarycopilot/"
+product_version: "26.9.0"
 ---
 ## OpenAISummaryCopilot constructor
 
-Initializes a new instance of the [`OpenAISummaryCopilot`](../) class.
+Initializes a new instance of the [`OpenAISummaryCopilot`](../../../aspose.pdf.ai/openaisummarycopilot/) class.
 
 ```csharp
 public OpenAISummaryCopilot(IOpenAIClient client, 
@@ -22,11 +25,8 @@ public OpenAISummaryCopilot(IOpenAIClient client,
 
 ### See Also
 
-* interface [IOpenAIClient](../../iopenaiclient/)
-* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* class [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
-* class [OpenAISummaryCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOpenAIClient](../../../aspose.pdf.ai/iopenaiclient/)
+* class [OpenAISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class ExportFieldsToJsonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ExportFieldsToJsonOptions class. Represents options for exporting form fields to Json format
+title: "ExportFieldsToJsonOptions Class"
+linktitle: "ExportFieldsToJsonOptions"
+articleTitle: "ExportFieldsToJsonOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ExportFieldsToJsonOptions class. Represents options for exporting form fields to Json format."
 type: docs
-weight: 4270
-url: /net/aspose.pdf/exportfieldstojsonoptions/
+weight: 810
+url: "/net/aspose.pdf/exportfieldstojsonoptions/"
+keywords: "ExportFieldsToJsonOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
 ## ExportFieldsToJsonOptions class
 
@@ -18,24 +22,23 @@ public class ExportFieldsToJsonOptions : ExportFieldsOptions
 
 | Name | Description |
 | --- | --- |
-| [ExportFieldsToJsonOptions](exportfieldstojsonoptions/)() | The default constructor. |
+| [ExportFieldsToJsonOptions](./exportfieldstojsonoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | Gets or sets a value indicating whether the password value should be exported. |
-| [FieldSelector](../../aspose.pdf/exportfieldsoptions/fieldselector/) { get; set; } | Gets or sets a delegate that determines whether a particular field should be exported. If the delegate is `null`, all fields are exported (the default behaviour). |
-| [WriteIndented](../../aspose.pdf/exportfieldstojsonoptions/writeindented/) { get; set; } | Gets or sets a value indicating whether the Json output should be indented. |
+| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | Gets or sets a value indicating whether the password value should be exported. |
+| [FieldSelector](../../aspose.pdf/exportfieldsoptions/fieldselector/) { get; set; } | Gets or sets a delegate that determines whether a particular field should be exported. If the delegate is `null`, all fields are exported (the default behaviour). |
+| [WriteIndented](./writeindented/) { get; set; } | Gets or sets a value indicating whether the Json output should be indented. |
 
 ## Remarks
 
-Inherits from [`ExportFieldsOptions`](../exportfieldsoptions/) and adds specific options for Json export.
+Inherits from [`ExportFieldsOptions`](../../aspose.pdf/exportfieldsoptions/) and adds specific options for Json export.
 
 ### See Also
 
-* class [ExportFieldsOptions](../exportfieldsoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [ExportFieldsOptions](../exportfieldsoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

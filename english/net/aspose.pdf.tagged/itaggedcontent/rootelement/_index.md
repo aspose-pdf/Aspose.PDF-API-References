@@ -1,10 +1,13 @@
 ---
-title: ITaggedContent.RootElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent property. Gets root StructureElement of logical structure of PDF document
+title: "ITaggedContent.RootElement"
+linktitle: "RootElement"
+articleTitle: "RootElement"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent property. Gets root StructureElement of logical structure of PDF document."
 type: docs
-weight: 10
-url: /net/aspose.pdf.tagged/itaggedcontent/rootelement/
+weight: 450
+url: "/net/aspose.pdf.tagged/itaggedcontent/rootelement/"
+product_version: "26.9.0"
 ---
 ## ITaggedContent.RootElement property
 
@@ -20,9 +23,8 @@ Root [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/
 
 ### See Also
 
-* class [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
-* interface [ITaggedContent](../)
-* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
 

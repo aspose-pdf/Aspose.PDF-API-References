@@ -1,10 +1,13 @@
 ---
-title: Interface IAppointment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.IAppointment interface. Represents general interface for actions and destinations
+title: "IAppointment Interface"
+linktitle: "IAppointment"
+articleTitle: "IAppointment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.IAppointment interface. Represents general interface for actions and destinations."
 type: docs
-weight: 1990
-url: /net/aspose.pdf.annotations/iappointment/
+weight: 520
+url: "/net/aspose.pdf.annotations/iappointment/"
+product_version: "26.9.0"
 ---
 ## IAppointment interface
 
@@ -18,11 +21,10 @@ public interface IAppointment
 
 | Name | Description |
 | --- | --- |
-| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Returns string representation |
+| [ToString](./tostring/)() | Returns string representation |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

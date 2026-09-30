@@ -1,10 +1,13 @@
 ---
-title: Form.GetSubmitFlags
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Returns the submit buttons submission flags
+title: "Form.GetSubmitFlags"
+linktitle: "GetSubmitFlags"
+articleTitle: "GetSubmitFlags"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Returns the submit button's submission flags"
 type: docs
-weight: 270
-url: /net/aspose.pdf.facades/form/getsubmitflags/
+weight: 340
+url: "/net/aspose.pdf.facades/form/getsubmitflags/"
+product_version: "26.9.0"
 ---
 ## Form.GetSubmitFlags method
 
@@ -28,14 +31,13 @@ Submission flags of the button.
 Aspose.Pdf.Facades.Form form = new Aspose.Pdf.Facades.Form("PdfForm.pdf");
 System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.SubmitFormFlag.Xfdf )!= 0 ? " XFDF" : " ");
 System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.SubmitFormFlag.Fdf )!= 0 ? " FDF" : " ");
-System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.SubmitFormFlag.Pdf )!= 0 ? " PDF" : " ");        
+System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.SubmitFormFlag.Pdf )!= 0 ? " PDF" : " ");
 ```
 
 ### See Also
 
-* enum [SubmitFormFlag](../../submitformflag/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [SubmitFormFlag](../../../aspose.pdf.facades/submitformflag/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

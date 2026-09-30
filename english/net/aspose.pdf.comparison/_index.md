@@ -1,12 +1,20 @@
 ---
-title: Aspose.Pdf.Comparison
-second_title: Aspose.PDF for .NET API Reference
-description: The Aspose.Pdf.Comparison namespace provides classes for the PDF comparison functionalities
+title: "Aspose.Pdf.Comparison"
+linktitle: "Aspose.Pdf.Comparison"
+articleTitle: "Aspose.Pdf.Comparison"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "The Aspose.Pdf.Comparison namespace provides classes."
 type: docs
-weight: 40
-url: /net/aspose.pdf.comparison/
+weight: 10
+url: "/net/aspose.pdf.comparison/"
+keywords: "Aspose.Pdf.Comparison, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9.0"
 ---
-The **Aspose.Pdf.Comparison** namespace provides classes for the PDF comparison functionalities.
+## Overview
+
+The **Aspose.Pdf.Comparison** namespace provides classes.
+
+Part of the [Aspose.PDF for .NET](../) API reference.
 
 ## Classes
 
@@ -30,12 +38,14 @@ The **Aspose.Pdf.Comparison** namespace provides classes for the PDF comparison 
 | [TextItemComparisonStatistics](./textitemcomparisonstatistics/) | Represents a text comparison ststistics class. |
 | [TextPdfComparer](./textpdfcomparer/) | Represents a class to comparison two PDF pages or PDF documents. |
 | [TextStyle](./textstyle/) | Represents a text style class. |
+
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
 | [IFileOutputGenerator](./ifileoutputgenerator/) | Represents an interface for generating output to a file of differences between texts. |
 | [IStringOutputGenerator](./istringoutputgenerator/) | Represents an interface for generating output to a string of differences between texts. |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -44,4 +54,13 @@ The **Aspose.Pdf.Comparison** namespace provides classes for the PDF comparison 
 | [EditOperationsOrder](./editoperationsorder/) | Specifies the order of edit operations. |
 | [Operation](./operation/) | Represents a difference operation type. |
 
+## FAQ
+
+### What classes does the Aspose.Pdf.Comparison namespace contain?
+
+[ComparisonOptions](./comparisonoptions/), [DiffOperation](./diffoperation/), [DocumentComparisonStatistics](./documentcomparisonstatistics/), [EditContainer](./editcontainer/), [GraphicalPdfComparer](./graphicalpdfcomparer/), and 13 more.
+
+### How many types are in the Aspose.Pdf.Comparison namespace?
+
+The Aspose.Pdf.Comparison namespace contains 23 types, listed above.
 

@@ -1,10 +1,13 @@
 ---
-title: Enum SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SaveFormat enum. Specifies format
+title: "SaveFormat Enum"
+linktitle: "SaveFormat"
+articleTitle: "SaveFormat"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.SaveFormat enum. Specifies format"
 type: docs
-weight: 10160
-url: /net/aspose.pdf/saveformat/
+weight: 2710
+url: "/net/aspose.pdf/saveformat/"
+product_version: "26.9.0"
 ---
 ## SaveFormat enumeration
 
@@ -18,8 +21,8 @@ public enum SaveFormat
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Pdf | `0` | means saving without change of format, i.e. as PDF use it please instead of 'SaveFormat.None', that is obsolete one |
-| None | `0` | means saving without change of format, i.e. as PDF It's obsolete one and will be deleted eventually, please use instead 'SaveFormat.Pdf' |
+| Pdf | `0` | means saving without change of format, i.e. as PDF
+ use it please instead of 'SaveFormat.None', that is obsolete one |
 | Doc | `1` | means saving in DOC format |
 | Xps | `2` | means saving in XPS format |
 | Html | `3` | means saving in HTML format |
@@ -39,7 +42,6 @@ public enum SaveFormat
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

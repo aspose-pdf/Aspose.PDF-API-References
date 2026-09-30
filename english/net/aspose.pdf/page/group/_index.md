@@ -1,10 +1,13 @@
 ---
-title: Page.Group
-second_title: Aspose.PDF for .NET API Reference
-description: Page property. Gets or sets a group attributes class specifying the attributes of the pages page group for use in the transparent imaging model
+title: "Page.Group"
+linktitle: "Group"
+articleTitle: "Group"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets or sets a group attributes class specifying the attributes of the page's page group for use in the transparent imaging model."
 type: docs
-weight: 140
-url: /net/aspose.pdf/page/group/
+weight: 490
+url: "/net/aspose.pdf/page/group/"
+product_version: "26.9.0"
 ---
 ## Page.Group property
 
@@ -16,9 +19,8 @@ public Group Group { get; set; }
 
 ### See Also
 
-* class [Group](../../group/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Group](../../../aspose.pdf/group/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

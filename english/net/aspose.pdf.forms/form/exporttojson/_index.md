@@ -1,12 +1,15 @@
 ---
-title: Form.ExportToJson
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Exports the PDF form fields to JSON format and writes the result to the provided stream
+title: "Form.ExportToJson"
+linktitle: "ExportToJson"
+articleTitle: "ExportToJson"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Exports the PDF form fields to JSON format and writes the result to the provided stream."
 type: docs
-weight: 260
-url: /net/aspose.pdf.forms/form/exporttojson/
+weight: 160
+url: "/net/aspose.pdf.forms/form/exporttojson/"
+product_version: "26.9.0"
 ---
-## ExportToJson(Stream, ExportFieldsToJsonOptions) {#exporttojson}
+## ExportToJson(Stream, [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)) {#exporttojson}
 
 Exports the PDF form fields to JSON format and writes the result to the provided stream.
 
@@ -35,15 +38,14 @@ fs.Close();
 
 ### See Also
 
-* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ExportToJson(string, ExportFieldsToJsonOptions) {#exporttojson_1}
+## ExportToJson(string, [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)) {#exporttojson_1}
 
 Exports the PDF form fields to JSON format and writes the result to the specified file.
 
@@ -71,10 +73,8 @@ document.Form..ExportFormFieldsToJson(jsonPath);
 
 ### See Also
 
-* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

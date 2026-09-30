@@ -1,10 +1,13 @@
 ---
-title: CdrLoadOptions.CdrLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: CdrLoadOptions constructor. The default constructor
+title: "CdrLoadOptions.CdrLoadOptions"
+linktitle: "CdrLoadOptions"
+articleTitle: "CdrLoadOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CdrLoadOptions constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf/cdrloadoptions/cdrloadoptions/
+url: "/net/aspose.pdf/cdrloadoptions/cdrloadoptions/"
+product_version: "26.9.0"
 ---
 ## CdrLoadOptions constructor
 
@@ -16,8 +19,7 @@ public CdrLoadOptions()
 
 ### See Also
 
-* class [CdrLoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CdrLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

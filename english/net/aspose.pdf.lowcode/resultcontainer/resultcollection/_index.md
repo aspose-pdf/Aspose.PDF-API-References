@@ -1,10 +1,13 @@
 ---
-title: ResultContainer.ResultCollection
-second_title: Aspose.PDF for .NET API Reference
-description: ResultContainer property. Gets collection of the operation results
+title: "ResultContainer.ResultCollection"
+linktitle: "ResultCollection"
+articleTitle: "ResultCollection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ResultContainer property. Gets collection of the operation results"
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/resultcontainer/resultcollection/
+url: "/net/aspose.pdf.lowcode/resultcontainer/resultcollection/"
+product_version: "26.9.0"
 ---
 ## ResultContainer.ResultCollection property
 
@@ -16,9 +19,7 @@ public List<IOperationResult> ResultCollection { get; }
 
 ### See Also
 
-* interface [IOperationResult](../../ioperationresult/)
-* class [ResultContainer](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ResultContainer](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: HtmlFragment.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlFragment property. Gets rectangle of the HtmlFragment
+title: "HtmlFragment.Rectangle"
+linktitle: "Rectangle"
+articleTitle: "Rectangle"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlFragment property. Gets rectangle of the HtmlFragment"
 type: docs
-weight: 50
-url: /net/aspose.pdf/htmlfragment/rectangle/
+weight: 30
+url: "/net/aspose.pdf/htmlfragment/rectangle/"
+product_version: "26.9.0"
 ---
 ## HtmlFragment.Rectangle property
 
@@ -16,8 +19,7 @@ public RectangleF Rectangle { get; }
 
 ### See Also
 
-* class [HtmlFragment](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

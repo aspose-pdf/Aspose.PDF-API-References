@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.CreatePolyLine
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates polyline annotation
+title: "PdfContentEditor.CreatePolyLine"
+linktitle: "CreatePolyLine"
+articleTitle: "CreatePolyLine"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates polyline annotation."
 type: docs
-weight: 240
-url: /net/aspose.pdf.facades/pdfcontenteditor/createpolyline/
+weight: 340
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createpolyline/"
+product_version: "26.9.0"
 ---
 ## PdfContentEditor.CreatePolyLine method
 
@@ -35,9 +38,9 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [LineInfo](../../lineinfo/)
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LineInfo](../../../aspose.pdf.facades/lineinfo/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

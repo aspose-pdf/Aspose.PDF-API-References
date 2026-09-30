@@ -1,14 +1,18 @@
 ---
-title: IOcrCopilot.GetTextRecognitionResultAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOcrCopilot method. Asynchronously retrieves text recognition results for the PDF documents and image files. The supported image types PNG .png JPEG .jpeg and .jpg WEBP .webp nonanimated GIF .gif
+title: "IOcrCopilot.GetTextRecognitionResultAsync"
+linktitle: "GetTextRecognitionResultAsync"
+articleTitle: "GetTextRecognitionResultAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOcrCopilot method. Asynchronously retrieves text recognition results for the PDF documents and image files. The supported image types: PNG (.png), JPEG (.jp..."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/iocrcopilot/gettextrecognitionresultasync/
+url: "/net/aspose.pdf.ai/iocrcopilot/gettextrecognitionresultasync/"
+product_version: "26.9.0"
 ---
 ## IOcrCopilot.GetTextRecognitionResultAsync method
 
-Asynchronously retrieves text recognition results for the PDF documents and image files. The supported image types: PNG (.png), JPEG (.jpeg and .jpg), WEBP (.webp), non-animated GIF (.gif).
+Asynchronously retrieves text recognition results for the PDF documents and image files.
+ The supported image types: PNG (.png), JPEG (.jpeg and .jpg), WEBP (.webp), non-animated GIF (.gif).
 
 ```csharp
 public Task<List<TextRecognitionResult>> GetTextRecognitionResultAsync(
@@ -21,13 +25,11 @@ public Task<List<TextRecognitionResult>> GetTextRecognitionResultAsync(
 
 ### Return Value
 
-A task that represents the asynchronous operation. The task result contains a list of [`TextRecognitionResult`](../../textrecognitionresult/).
+A task that represents the asynchronous operation. The task result contains a list of [`TextRecognitionResult`](../../../aspose.pdf.ai/textrecognitionresult/).
 
 ### See Also
 
-* class [TextRecognitionResult](../../textrecognitionresult/)
-* interface [IOcrCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOcrCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: MovieAnnotation.MovieAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: MovieAnnotation constructor. Constructor for using with Generator
+title: "MovieAnnotation.MovieAnnotation"
+linktitle: "MovieAnnotation"
+articleTitle: "MovieAnnotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MovieAnnotation constructor. Constructor for using with Generator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/movieannotation/movieannotation/
+url: "/net/aspose.pdf.annotations/movieannotation/movieannotation/"
+product_version: "26.9.0"
 ---
-## MovieAnnotation(Document, string) {#constructor}
+## MovieAnnotation([Document](../../../aspose.pdf/document/), string) {#constructor}
 
 Constructor for using with Generator.
 
@@ -21,14 +24,14 @@ public MovieAnnotation(Document document, string movieFile)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [MovieAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MovieAnnotation(Page, Rectangle, string) {#constructor_1}
+## MovieAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), string) {#constructor_1}
 
 Creates new Sound annotation on the specified page.
 
@@ -44,10 +47,9 @@ public MovieAnnotation(Page page, Rectangle rect, string movieFile)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [MovieAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

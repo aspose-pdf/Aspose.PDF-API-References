@@ -1,14 +1,17 @@
 ---
-title: TextFragmentState.Subscript
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState property. Gets or sets subscript of the text represented by the TextFragment object
+title: "TextFragmentState.Subscript"
+linktitle: "Subscript"
+articleTitle: "Subscript"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState property. Gets or sets subscript of the text, represented by the TextFragment object."
 type: docs
-weight: 190
-url: /net/aspose.pdf.text/textfragmentstate/subscript/
+weight: 110
+url: "/net/aspose.pdf.text/textfragmentstate/subscript/"
+product_version: "26.9.0"
 ---
 ## TextFragmentState.Subscript property
 
-Gets or sets subscript of the text, represented by the [`TextFragment`](../../textfragment/) object.
+Gets or sets subscript of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object.
 
 ```csharp
 public override bool Subscript { get; set; }
@@ -16,8 +19,7 @@ public override bool Subscript { get; set; }
 
 ### See Also
 
-* class [TextFragmentState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
