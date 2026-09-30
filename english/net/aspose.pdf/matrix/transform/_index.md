@@ -42,38 +42,7 @@ Aspose.Pdf.Rectangle r1 = m.Transform(r);
 
 ---
 
-## Transform(double, double, out double, out double) {#transform_1}
-
-Transforms coordinates using this matrix.
-
-```csharp
-public void Transform(double x, double y, out double x1, out double y1)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x | Double | X coordinate. |
-| y | Double | Y coordinate. |
-| x1 | Double& | Transformed X coordinate. |
-| y1 | Double& | Transformed Y coordinate. |
-
-## Examples
-
-```csharp
-Aspose.Pdf.Matrix m = new Aspose.Pdf.Matrix(new double[] { 1, 0, 0, 1, 10, 20 } );
-double x, y, x1, y1;
-m.Transform(double x, double y, out double x1, out double y1);
-```
-
-### See Also
-
-* class [Matrix](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Transform([Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#transform_2}
+## Transform([Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#transform_1}
 
 Transformes rectangle.
  If angle is not 90 * N degrees then bounding rectangle is returned.
@@ -101,6 +70,37 @@ Rectangle r1 = m.Transform(r1);
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Transform(double, double, out double, out double) {#transform_2}
+
+Transforms coordinates using this matrix.
+
+```csharp
+public void Transform(double x, double y, out double x1, out double y1)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | Double | X coordinate. |
+| y | Double | Y coordinate. |
+| x1 | Double& | Transformed X coordinate. |
+| y1 | Double& | Transformed Y coordinate. |
+
+## Examples
+
+```csharp
+Aspose.Pdf.Matrix m = new Aspose.Pdf.Matrix(new double[] { 1, 0, 0, 1, 10, 20 } );
+double x, y, x1, y1;
+m.Transform(double x, double y, out double x1, out double y1);
+```
+
+### See Also
+
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

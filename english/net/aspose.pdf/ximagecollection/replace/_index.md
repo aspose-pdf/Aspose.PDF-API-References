@@ -30,7 +30,29 @@ public void Replace(int index, Stream stream)
 
 ---
 
-## Replace(int, Stream, int, bool) {#replace_1}
+## Replace(int, Stream, int) {#replace_1}
+
+Replace image in collection with another image.
+
+```csharp
+public void Replace(int index, Stream stream, int quality)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | Int32 | Index of collection item which will be replaced in [1..images count] range. |
+| stream | Stream | Stream containing image data (in JPEG format). |
+| quality | Int32 | JPEG quality. |
+
+### See Also
+
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Replace(int, Stream, int, bool) {#replace_2}
 
 Replace image in collection with another image.
 
@@ -44,28 +66,6 @@ public void Replace(int index, Stream stream, int quality, bool isBlackAndWhite)
 | stream | Stream | Stream containing image data (in JPEG format). |
 | quality | Int32 | Quality of JPEG compression, in percent (valid vaues are 0..100). |
 | isBlackAndWhite | Boolean | If true, image is compressed with CCITT compression method which provides better compression for black nad white image. May be used only for black and white images. |
-
-### See Also
-
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Replace(int, Stream, int) {#replace_2}
-
-Replace image in collection with another image.
-
-```csharp
-public void Replace(int index, Stream stream, int quality)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | Int32 | Index of collection item which will be replaced in [1..images count] range. |
-| stream | Stream | Stream containing image data (in JPEG format). |
-| quality | Int32 | JPEG quality. |
 
 ### See Also
 

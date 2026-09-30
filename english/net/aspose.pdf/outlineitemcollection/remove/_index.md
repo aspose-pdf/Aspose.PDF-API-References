@@ -9,7 +9,27 @@ weight: 100
 url: "/net/aspose.pdf/outlineitemcollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove([OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)) {#remove}
+## Remove(int) {#remove}
+
+Remove item by index.
+
+```csharp
+public void Remove(int index)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | Int32 | Index of item to be deleted. |
+
+### See Also
+
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Remove([OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)) {#remove_1}
 
 Remove outline collection item.
 
@@ -28,26 +48,6 @@ True - if item removed; otherwise, false.
 ### See Also
 
 * class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Remove(int) {#remove_1}
-
-Remove item by index.
-
-```csharp
-public void Remove(int index)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | Int32 | Index of item to be deleted. |
-
-### See Also
-
-* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

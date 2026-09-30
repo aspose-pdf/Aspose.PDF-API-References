@@ -9,31 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.devices/documentdevice/process/"
 product_version: "26.9.0"
 ---
-## Process([Document](../../../aspose.pdf/document/), int, int, Stream) {#process}
-
-Each device represents some operation on the document, e.g. we can convert pdf document into another format.
-
-```csharp
-public abstract void Process(Document document, int fromPage, int toPage, Stream output)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | The document to process. |
-| fromPage | Int32 | Defines the page from which to start processing. |
-| toPage | Int32 | Defines the last page to process. |
-| output | Stream | Defines stream where the results of processing are stored. |
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [DocumentDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Process([Document](../../../aspose.pdf/document/), Stream) {#process_1}
+## Process([Document](../../../aspose.pdf/document/), Stream) {#process}
 
 Processes the whole document and saves results into stream.
 
@@ -55,7 +31,7 @@ public void Process(Document document, Stream output)
 
 ---
 
-## Process([Document](../../../aspose.pdf/document/), string) {#process_2}
+## Process([Document](../../../aspose.pdf/document/), string) {#process_1}
 
 Processes the whole document and saves results into file.
 
@@ -67,6 +43,30 @@ public void Process(Document document, string outputFileName)
 | --- | --- | --- |
 | document | Document | The document to process. |
 | outputFileName | String | Defines file where the results of processing are stored. |
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [DocumentDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Process([Document](../../../aspose.pdf/document/), int, int, Stream) {#process_2}
+
+Each device represents some operation on the document, e.g. we can convert pdf document into another format.
+
+```csharp
+public abstract void Process(Document document, int fromPage, int toPage, Stream output)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | The document to process. |
+| fromPage | Int32 | Defines the page from which to start processing. |
+| toPage | Int32 | Defines the last page to process. |
+| output | Stream | Defines stream where the results of processing are stored. |
 
 ### See Also
 

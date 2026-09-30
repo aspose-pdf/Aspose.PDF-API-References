@@ -9,7 +9,58 @@ weight: 20
 url: "/net/aspose.pdf.logicalstructure/mcrelement/tag/"
 product_version: "26.9.0"
 ---
-## Tag([BDC](../../../aspose.pdf.operators/bdc/)) {#tag}
+## Tag([Annotation](../../../aspose.pdf.annotations/annotation/)) {#tag}
+
+Bind a structure element to the Annotation.
+
+```csharp
+public override OBJRElement Tag(Annotation annotation)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| annotation | Annotation | Pdf annotation. |
+
+### Return Value
+
+[`OBJRElement`](../../../aspose.pdf.logicalstructure/objrelement/)Structure element.
+
+### See Also
+
+* class [OBJRElement](../../../aspose.pdf.logicalstructure/objrelement/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Tag([Artifact](../../../aspose.pdf/artifact/)) {#tag_1}
+
+Bind a structure element to the Artifact.
+
+```csharp
+public override MCRElement Tag(Artifact artifact)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| artifact | Artifact | Pdf artifact. |
+
+### Return Value
+
+[`MCRElement`](../../../aspose.pdf.logicalstructure/mcrelement/)Structure element.
+
+### See Also
+
+* class [MCRElement](../../../aspose.pdf.logicalstructure/mcrelement/)
+* class [Artifact](../../../aspose.pdf/artifact/)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Tag([BDC](../../../aspose.pdf.operators/bdc/)) {#tag_2}
 
 Bind a structure element to the content stream BDC operator.
 
@@ -34,7 +85,7 @@ public override MCRElement Tag(BDC bdc)
 
 ---
 
-## Tag([XForm](../../../aspose.pdf/xform/)) {#tag_1}
+## Tag([XForm](../../../aspose.pdf/xform/)) {#tag_3}
 
 Bind a structure element to the content stream XForm.
 
@@ -60,7 +111,7 @@ public override OBJRElement Tag(XForm form)
 
 ---
 
-## Tag([XImage](../../../aspose.pdf/ximage/)) {#tag_2}
+## Tag([XImage](../../../aspose.pdf/ximage/)) {#tag_4}
 
 Bind a structure element to the XImage.
 
@@ -80,57 +131,6 @@ public override OBJRElement Tag(XImage image)
 
 * class [OBJRElement](../../../aspose.pdf.logicalstructure/objrelement/)
 * class [XImage](../../../aspose.pdf/ximage/)
-* class [MCRElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Tag([Artifact](../../../aspose.pdf/artifact/)) {#tag_3}
-
-Bind a structure element to the Artifact.
-
-```csharp
-public override MCRElement Tag(Artifact artifact)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| artifact | Artifact | Pdf artifact. |
-
-### Return Value
-
-[`MCRElement`](../../../aspose.pdf.logicalstructure/mcrelement/)Structure element.
-
-### See Also
-
-* class [MCRElement](../../../aspose.pdf.logicalstructure/mcrelement/)
-* class [Artifact](../../../aspose.pdf/artifact/)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Tag([Annotation](../../../aspose.pdf.annotations/annotation/)) {#tag_4}
-
-Bind a structure element to the Annotation.
-
-```csharp
-public override OBJRElement Tag(Annotation annotation)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| annotation | Annotation | Pdf annotation. |
-
-### Return Value
-
-[`OBJRElement`](../../../aspose.pdf.logicalstructure/objrelement/)Structure element.
-
-### See Also
-
-* class [OBJRElement](../../../aspose.pdf.logicalstructure/objrelement/)
-* class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

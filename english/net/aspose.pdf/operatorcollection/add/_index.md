@@ -9,7 +9,40 @@ weight: 40
 url: "/net/aspose.pdf/operatorcollection/add/"
 product_version: "26.9.0"
 ---
-## Add([Operator](../../../aspose.pdf/operator/)) {#add}
+## Add(ICollection<Operator>) {#add}
+
+Adds to collection all operators from other collection.
+
+```csharp
+public void Add(ICollection<Operator> ops)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ops | ICollection`1 | collection whitch contains operators which will be added. |
+
+## Examples
+
+Example demonstrates how to add operator collection to the page contents.
+
+```csharp
+Document doc = new Document("input.pdf");
+OperatorCollection oc = doc.Pages[1].Contents;
+List<Operator> opList = new List<Operator>();
+opList.Add(new AOperator.q());
+opList.Add(new Operators.Q());
+oc.Add(opList);
+```
+
+### See Also
+
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Add([Operator](../../../aspose.pdf/operator/)) {#add_1}
 
 Adds new operator into collection.
 
@@ -40,7 +73,7 @@ doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.Q());
 
 ---
 
-## Add(Operator[]) {#add_1}
+## Add(Operator[]) {#add_2}
 
 Add operators at the end of the contents operators.
 
@@ -65,39 +98,6 @@ oc.Add(new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Operators.Q
 ### See Also
 
 * class [Operator](../../../aspose.pdf/operator/)
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Add(ICollection<Operator>) {#add_2}
-
-Adds to collection all operators from other collection.
-
-```csharp
-public void Add(ICollection<Operator> ops)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| ops | ICollection`1 | collection whitch contains operators which will be added. |
-
-## Examples
-
-Example demonstrates how to add operator collection to the page contents.
-
-```csharp
-Document doc = new Document("input.pdf");
-OperatorCollection oc = doc.Pages[1].Contents;
-List<Operator> opList = new List<Operator>();
-opList.Add(new AOperator.q());
-opList.Add(new Operators.Q());
-oc.Add(opList);
-```
-
-### See Also
-
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

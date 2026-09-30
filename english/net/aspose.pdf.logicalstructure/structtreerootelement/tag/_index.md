@@ -9,43 +9,17 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/structtreerootelement/tag/"
 product_version: "26.9.0"
 ---
-## Tag([BDC](../../../aspose.pdf.operators/bdc/)) {#tag}
+## Tag([Annotation](../../../aspose.pdf.annotations/annotation/)) {#tag}
 
-Bind a structure element to the content stream BDC operator.
+Bind a structure element to the Annotation.
 
 ```csharp
-public override MCRElement Tag(BDC bdc)
+public override OBJRElement Tag(Annotation annotation)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bdc | BDC | Content stream bdc operator. |
-
-### Return Value
-
-[`MCRElement`](../../../aspose.pdf.logicalstructure/mcrelement/)Structure element.
-
-### See Also
-
-* class [MCRElement](../../../aspose.pdf.logicalstructure/mcrelement/)
-* class [BDC](../../../aspose.pdf.operators/bdc/)
-* class [StructTreeRootElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Tag([XForm](../../../aspose.pdf/xform/)) {#tag_1}
-
-Bind a structure element to the content stream XForm.
-
-```csharp
-public override OBJRElement Tag(XForm form)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| form | XForm | Pdf form. |
+| annotation | Annotation | Pdf annotation. |
 
 ### Return Value
 
@@ -54,40 +28,14 @@ public override OBJRElement Tag(XForm form)
 ### See Also
 
 * class [OBJRElement](../../../aspose.pdf.logicalstructure/objrelement/)
-* class [XForm](../../../aspose.pdf/xform/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [StructTreeRootElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Tag([XImage](../../../aspose.pdf/ximage/)) {#tag_2}
-
-Bind a structure element to the XImage.
-
-```csharp
-public override OBJRElement Tag(XImage image)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | XImage | Pdf image. |
-
-### Return Value
-
-[`OBJRElement`](../../../aspose.pdf.logicalstructure/objrelement/)Structure element.
-
-### See Also
-
-* class [OBJRElement](../../../aspose.pdf.logicalstructure/objrelement/)
-* class [XImage](../../../aspose.pdf/ximage/)
-* class [StructTreeRootElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Tag([Artifact](../../../aspose.pdf/artifact/)) {#tag_3}
+## Tag([Artifact](../../../aspose.pdf/artifact/)) {#tag_1}
 
 Bind a structure element to the Artifact.
 
@@ -113,17 +61,43 @@ public override MCRElement Tag(Artifact artifact)
 
 ---
 
-## Tag([Annotation](../../../aspose.pdf.annotations/annotation/)) {#tag_4}
+## Tag([BDC](../../../aspose.pdf.operators/bdc/)) {#tag_2}
 
-Bind a structure element to the Annotation.
+Bind a structure element to the content stream BDC operator.
 
 ```csharp
-public override OBJRElement Tag(Annotation annotation)
+public override MCRElement Tag(BDC bdc)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotation | Annotation | Pdf annotation. |
+| bdc | BDC | Content stream bdc operator. |
+
+### Return Value
+
+[`MCRElement`](../../../aspose.pdf.logicalstructure/mcrelement/)Structure element.
+
+### See Also
+
+* class [MCRElement](../../../aspose.pdf.logicalstructure/mcrelement/)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* class [StructTreeRootElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Tag([XForm](../../../aspose.pdf/xform/)) {#tag_3}
+
+Bind a structure element to the content stream XForm.
+
+```csharp
+public override OBJRElement Tag(XForm form)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| form | XForm | Pdf form. |
 
 ### Return Value
 
@@ -132,7 +106,33 @@ public override OBJRElement Tag(Annotation annotation)
 ### See Also
 
 * class [OBJRElement](../../../aspose.pdf.logicalstructure/objrelement/)
-* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [StructTreeRootElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Tag([XImage](../../../aspose.pdf/ximage/)) {#tag_4}
+
+Bind a structure element to the XImage.
+
+```csharp
+public override OBJRElement Tag(XImage image)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| image | XImage | Pdf image. |
+
+### Return Value
+
+[`OBJRElement`](../../../aspose.pdf.logicalstructure/objrelement/)Structure element.
+
+### See Also
+
+* class [OBJRElement](../../../aspose.pdf.logicalstructure/objrelement/)
+* class [XImage](../../../aspose.pdf/ximage/)
 * class [StructTreeRootElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

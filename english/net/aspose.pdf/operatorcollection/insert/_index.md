@@ -9,7 +9,41 @@ weight: 60
 url: "/net/aspose.pdf/operatorcollection/insert/"
 product_version: "26.9.0"
 ---
-## Insert(int, [Operator](../../../aspose.pdf/operator/)) {#insert}
+## Insert(int, IList<Operator>) {#insert}
+
+Insert operators at the the given position.
+
+```csharp
+public void Insert(int at, IList<Operator> ops)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| at | Int32 | Index from which operators are being started to insert. |
+| ops | IList`1 | Array of operators to be inserted. |
+
+## Examples
+
+Example demonstrates how to insert operators to page contents.
+
+```csharp
+Document doc = new Document("input.pdf");
+OperatorCollection oc = doc.Pages[1].Contents;
+List<Operator> opList = new List<Operator>();
+opList.Add(new Operators.q());
+opList.Add(new Operators.Q());
+oc.Insert(1, opList);
+```
+
+### See Also
+
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Insert(int, [Operator](../../../aspose.pdf/operator/)) {#insert_1}
 
 Inserts operator into collection.
 
@@ -42,7 +76,7 @@ oc.Add(new Aspose.Pdf.Operators.Q());
 
 ---
 
-## Insert(int, Operator[]) {#insert_1}
+## Insert(int, Operator[]) {#insert_2}
 
 Insert operators at the the given position.
 
@@ -68,40 +102,6 @@ oc.Insert(1, new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Opera
 ### See Also
 
 * class [Operator](../../../aspose.pdf/operator/)
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Insert(int, IList<Operator>) {#insert_2}
-
-Insert operators at the the given position.
-
-```csharp
-public void Insert(int at, IList<Operator> ops)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| at | Int32 | Index from which operators are being started to insert. |
-| ops | IList`1 | Array of operators to be inserted. |
-
-## Examples
-
-Example demonstrates how to insert operators to page contents.
-
-```csharp
-Document doc = new Document("input.pdf");
-OperatorCollection oc = doc.Pages[1].Contents;
-List<Operator> opList = new List<Operator>();
-opList.Add(new Operators.q());
-opList.Add(new Operators.Q());
-oc.Insert(1, opList);
-```
-
-### See Also
-
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

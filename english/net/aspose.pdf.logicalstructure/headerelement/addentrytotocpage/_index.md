@@ -9,32 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.logicalstructure/headerelement/addentrytotocpage/"
 product_version: "26.9.0"
 ---
-## AddEntryToTocPage([Page](../../../aspose.pdf/page/), [TOCIElement](../../../aspose.pdf.logicalstructure/tocielement/)) {#addentrytotocpage}
-
-Creates a header on the specified Table of Contents (TOC) page and associates it with a TOCI element.
-
-This method ensures that the header is properly linked to a TOC page and a TOCI element, maintaining the document's logical hierarchy and supporting navigation in tagged PDF structures.
-
-```csharp
-public void AddEntryToTocPage(Page tocPage, TOCIElement tocEntry)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| tocPage | Page | The <see cref="T:Aspose.Pdf.Page" /> object representing the TOC page where the header should be created. |
-| tocEntry | TOCIElement | The <see cref="T:Aspose.Pdf.LogicalStructure.TOCIElement" /> serving as the TOC entry to associate with the header being created. |
-
-### See Also
-
-* class [Page](../../../aspose.pdf/page/)
-* class [TOCIElement](../../../aspose.pdf.logicalstructure/tocielement/)
-* class [HeaderElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## AddEntryToTocPage([Page](../../../aspose.pdf/page/), [ListLIElement](../../../aspose.pdf.logicalstructure/listlielement/)) {#addentrytotocpage_1}
+## AddEntryToTocPage([Page](../../../aspose.pdf/page/), [ListLIElement](../../../aspose.pdf.logicalstructure/listlielement/)) {#addentrytotocpage}
 
 Creates a header on the specified Table of Contents (TOC) page and associates it with a TOCI element.
 
@@ -59,6 +34,31 @@ public void AddEntryToTocPage(Page tocPage, ListLIElement tocEntry)
 
 * class [Page](../../../aspose.pdf/page/)
 * class [ListLIElement](../../../aspose.pdf.logicalstructure/listlielement/)
+* class [HeaderElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## AddEntryToTocPage([Page](../../../aspose.pdf/page/), [TOCIElement](../../../aspose.pdf.logicalstructure/tocielement/)) {#addentrytotocpage_1}
+
+Creates a header on the specified Table of Contents (TOC) page and associates it with a TOCI element.
+
+This method ensures that the header is properly linked to a TOC page and a TOCI element, maintaining the document's logical hierarchy and supporting navigation in tagged PDF structures.
+
+```csharp
+public void AddEntryToTocPage(Page tocPage, TOCIElement tocEntry)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| tocPage | Page | The <see cref="T:Aspose.Pdf.Page" /> object representing the TOC page where the header should be created. |
+| tocEntry | TOCIElement | The <see cref="T:Aspose.Pdf.LogicalStructure.TOCIElement" /> serving as the TOC entry to associate with the header being created. |
+
+### See Also
+
+* class [Page](../../../aspose.pdf/page/)
+* class [TOCIElement](../../../aspose.pdf.logicalstructure/tocielement/)
 * class [HeaderElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

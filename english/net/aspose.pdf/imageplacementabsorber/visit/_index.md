@@ -9,28 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/imageplacementabsorber/visit/"
 product_version: "26.9.0"
 ---
-## Visit([Page](../../../aspose.pdf/page/)) {#visit}
-
-Performs search on the specified page.
-
-```csharp
-public void Visit(Page page)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Pdf pocument page object. |
-
-### See Also
-
-* class [Page](../../../aspose.pdf/page/)
-* class [ImagePlacementAbsorber](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([Document](../../../aspose.pdf/document/)) {#visit_1}
+## Visit([Document](../../../aspose.pdf/document/)) {#visit}
 
 Performs search on the specified document.
 
@@ -45,6 +24,27 @@ public void Visit(Document pdf)
 ### See Also
 
 * class [Document](../../../aspose.pdf/document/)
+* class [ImagePlacementAbsorber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit([Page](../../../aspose.pdf/page/)) {#visit_1}
+
+Performs search on the specified page.
+
+```csharp
+public void Visit(Page page)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | Pdf pocument page object. |
+
+### See Also
+
+* class [Page](../../../aspose.pdf/page/)
 * class [ImagePlacementAbsorber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

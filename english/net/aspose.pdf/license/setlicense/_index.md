@@ -9,7 +9,29 @@ weight: 30
 url: "/net/aspose.pdf/license/setlicense/"
 product_version: "26.9.0"
 ---
-## SetLicense(string) {#setlicense}
+## SetLicense(Stream) {#setlicense}
+
+Licenses the component.
+
+Use this method to load a license from a stream.
+
+```csharp
+public void SetLicense(Stream stream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | A stream that contains the license. |
+
+### See Also
+
+* class [License](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SetLicense(string) {#setlicense_1}
 
 Licenses the component.
 
@@ -35,28 +57,6 @@ public void SetLicense(string licenseName)
 | --- | --- | --- |
 | licenseName | String | Can be a full or short file name or name of an embedded resource.
  Use an empty string to switch to evaluation mode. |
-
-### See Also
-
-* class [License](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SetLicense(Stream) {#setlicense_1}
-
-Licenses the component.
-
-Use this method to load a license from a stream.
-
-```csharp
-public void SetLicense(Stream stream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | A stream that contains the license. |
 
 ### See Also
 

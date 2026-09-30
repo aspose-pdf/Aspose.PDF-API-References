@@ -29,7 +29,28 @@ public void AppendLine(string line)
 
 ---
 
-## AppendLine(string, float) {#appendline_1}
+## AppendLine([TextFragment](../../../aspose.pdf.text/textfragment/)) {#appendline_1}
+
+Appends text line with text state parameters.
+
+```csharp
+public void AppendLine(TextFragment line)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| line | TextFragment | The new line's text. |
+
+### See Also
+
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## AppendLine(string, float) {#appendline_2}
 
 Appends text line.
 
@@ -51,7 +72,7 @@ public void AppendLine(string line, float lineSpacing)
 
 ---
 
-## AppendLine(string, [TextState](../../../aspose.pdf.text/textstate/)) {#appendline_2}
+## AppendLine(string, [TextState](../../../aspose.pdf.text/textstate/)) {#appendline_3}
 
 Appends text line with text state parameters.
 
@@ -73,7 +94,30 @@ public void AppendLine(string line, TextState textState)
 
 ---
 
-## AppendLine(string, [TextState](../../../aspose.pdf.text/textstate/), float) {#appendline_3}
+## AppendLine([TextFragment](../../../aspose.pdf.text/textfragment/), [TextState](../../../aspose.pdf.text/textstate/)) {#appendline_4}
+
+Appends text line with text state parameters.
+
+```csharp
+public void AppendLine(TextFragment line, TextState textState)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| line | TextFragment | The new line's text. |
+| textState | TextState | Text state of the new line. |
+
+### See Also
+
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## AppendLine(string, [TextState](../../../aspose.pdf.text/textstate/), float) {#appendline_5}
 
 Appends text line with text state parameters
 
@@ -90,50 +134,6 @@ public void AppendLine(string line, TextState textState, float lineSpacing)
 
 ### See Also
 
-* class [TextState](../../../aspose.pdf.text/textstate/)
-* class [TextParagraph](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## AppendLine([TextFragment](../../../aspose.pdf.text/textfragment/)) {#appendline_4}
-
-Appends text line with text state parameters.
-
-```csharp
-public void AppendLine(TextFragment line)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| line | TextFragment | The new line's text. |
-
-### See Also
-
-* class [TextFragment](../../../aspose.pdf.text/textfragment/)
-* class [TextParagraph](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## AppendLine([TextFragment](../../../aspose.pdf.text/textfragment/), [TextState](../../../aspose.pdf.text/textstate/)) {#appendline_5}
-
-Appends text line with text state parameters.
-
-```csharp
-public void AppendLine(TextFragment line, TextState textState)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| line | TextFragment | The new line's text. |
-| textState | TextState | Text state of the new line. |
-
-### See Also
-
-* class [TextFragment](../../../aspose.pdf.text/textfragment/)
 * class [TextState](../../../aspose.pdf.text/textstate/)
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)

@@ -9,35 +9,33 @@ weight: 60
 url: "/net/aspose.pdf.facades/form/fillfield/"
 product_version: "26.9.0"
 ---
-## FillField(string, string) {#fillfield}
+## FillField(string, bool) {#fillfield}
 
-Fills the field with a valid value according to a fully qualified field name.
- Before filling the fields, every field's names and its corresponding valid values must be known.
- Both the fields' name and values are case sensitive.
+Fills the check box field with a boolean value.
+ Notice: Only be applied to Check Box.
  Please note that Aspose.Pdf.Facades supports only full field names and does not work with partial 
  field names in contrast with Aspose.Pdf.Kit;
- For example if field has full name "Form.Subform.TextField" you should specify full name and not "TextField". 
+ For example if field has full name "Form.Subform.CheckBoxField" you should specify full name and not "CheckBoxField". 
  You can use FieldNames property to explore existing field names and search required field by its partial name.
 
 ```csharp
-public bool FillField(string fieldName, string fieldValue)
+public bool FillField(string fieldName, bool beChecked)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fieldName | String | The field's name to be filled. |
-| fieldValue | String | The field's value which must be a valid value for some fields. |
+| beChecked | Boolean | A boolean flag: true means to check the box, while false to uncheck it. |
 
 ### Return Value
 
-true if field is found and filled successfully.
+true if field was found and successfully filled.
 
 ## Examples
 
 ```csharp
-Form form = new Form(TestSettings.GetInputFile("PdfForm.pdf"));
-form.FillField("FirstName", "John");
-form.FillField("LastName",  "Smith");
+Form form = new Form("PdfForm.pdf");
+form.FillField("checkboxField", true);
 ```
 
 ### See Also
@@ -79,33 +77,35 @@ true if field was found and successfully filled.
 
 ---
 
-## FillField(string, bool) {#fillfield_2}
+## FillField(string, string) {#fillfield_2}
 
-Fills the check box field with a boolean value.
- Notice: Only be applied to Check Box.
+Fills the field with a valid value according to a fully qualified field name.
+ Before filling the fields, every field's names and its corresponding valid values must be known.
+ Both the fields' name and values are case sensitive.
  Please note that Aspose.Pdf.Facades supports only full field names and does not work with partial 
  field names in contrast with Aspose.Pdf.Kit;
- For example if field has full name "Form.Subform.CheckBoxField" you should specify full name and not "CheckBoxField". 
+ For example if field has full name "Form.Subform.TextField" you should specify full name and not "TextField". 
  You can use FieldNames property to explore existing field names and search required field by its partial name.
 
 ```csharp
-public bool FillField(string fieldName, bool beChecked)
+public bool FillField(string fieldName, string fieldValue)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fieldName | String | The field's name to be filled. |
-| beChecked | Boolean | A boolean flag: true means to check the box, while false to uncheck it. |
+| fieldValue | String | The field's value which must be a valid value for some fields. |
 
 ### Return Value
 
-true if field was found and successfully filled.
+true if field is found and filled successfully.
 
 ## Examples
 
 ```csharp
-Form form = new Form("PdfForm.pdf");
-form.FillField("checkboxField", true);
+Form form = new Form(TestSettings.GetInputFile("PdfForm.pdf"));
+form.FillField("FirstName", "John");
+form.FillField("LastName",  "Smith");
 ```
 
 ### See Also

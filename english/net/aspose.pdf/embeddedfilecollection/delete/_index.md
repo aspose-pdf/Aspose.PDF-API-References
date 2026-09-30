@@ -9,7 +9,23 @@ weight: 70
 url: "/net/aspose.pdf/embeddedfilecollection/delete/"
 product_version: "26.9.0"
 ---
-## Delete(string) {#delete}
+## Delete() {#delete}
+
+Remove all embedded files from document.
+
+```csharp
+public void Delete()
+```
+
+### See Also
+
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Delete(string) {#delete_1}
 
 Delete embedded file by name.
 
@@ -20,22 +36,6 @@ public void Delete(string name)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | name | String | Name of the embedded file which should be deleted. |
-
-### See Also
-
-* class [EmbeddedFileCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Delete() {#delete_1}
-
-Remove all embedded files from document.
-
-```csharp
-public void Delete()
-```
 
 ### See Also
 

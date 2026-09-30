@@ -9,47 +9,7 @@ weight: 250
 url: "/net/aspose.pdf/document/save/"
 product_version: "26.9.0"
 ---
-## Save(Stream) {#save}
-
-Stores document into stream.
-
-```csharp
-public void Save(Stream output)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| output | Stream | Stream where document shell be stored. |
-
-### See Also
-
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Save(string) {#save_1}
-
-Saves document into the specified file.
-
-```csharp
-public void Save(string outputFileName)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputFileName | String | Path to file where the document will be stored. |
-
-### See Also
-
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Save() {#save_2}
+## Save() {#save}
 
 Save document incrementally (i.e. using incremental update technique).
 
@@ -71,7 +31,7 @@ public void Save()
 
 ---
 
-## Save([SaveOptions](../../../aspose.pdf/saveoptions/)) {#save_3}
+## Save([SaveOptions](../../../aspose.pdf/saveoptions/)) {#save_1}
 
 Saves the document with save options.
 
@@ -92,29 +52,47 @@ public void Save(SaveOptions options)
 
 ---
 
-## Save(string, [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)) {#save_4}
+## Save(Stream) {#save_2}
 
-Saves the document with a new name along with a file format.
+Stores document into stream.
 
 ```csharp
-public void Save(string outputFileName, SaveFormat format)
+public void Save(Stream output)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFileName | String | Path to file where the document will be stored. |
-| format | SaveFormat | Format options. |
+| output | Stream | Stream where document shell be stored. |
 
 ### See Also
 
-* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Save(Stream, [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)) {#save_5}
+## Save(string) {#save_3}
+
+Saves document into the specified file.
+
+```csharp
+public void Save(string outputFileName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputFileName | String | Path to file where the document will be stored. |
+
+### See Also
+
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(Stream, [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)) {#save_4}
 
 Saves the document with a new name along with a file format.
 
@@ -142,29 +120,7 @@ public void Save(Stream outputStream, SaveFormat format)
 
 ---
 
-## Save(string, [SaveOptions](../../../aspose.pdf/saveoptions/)) {#save_6}
-
-Saves the document with a new name setting its save options.
-
-```csharp
-public void Save(string outputFileName, SaveOptions options)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputFileName | String | Path to file where the document will be stored. |
-| options | SaveOptions | Save options. |
-
-### See Also
-
-* class [SaveOptions](../../../aspose.pdf/saveoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Save(Stream, [SaveOptions](../../../aspose.pdf/saveoptions/)) {#save_7}
+## Save(Stream, [SaveOptions](../../../aspose.pdf/saveoptions/)) {#save_5}
 
 Saves the document to a stream with a save options.
 
@@ -182,6 +138,50 @@ public void Save(Stream outputStream, SaveOptions options)
 | exception | condition |
 | --- | --- |
 | ArgumentException | <see cref="T:System.ArgumentException" /> when <see cref="T:Aspose.Pdf.HtmlSaveOptions" /> is passed to a method. Save a document to the html stream is not supported. Please use method save to the file. |
+
+### See Also
+
+* class [SaveOptions](../../../aspose.pdf/saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(string, [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)) {#save_6}
+
+Saves the document with a new name along with a file format.
+
+```csharp
+public void Save(string outputFileName, SaveFormat format)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputFileName | String | Path to file where the document will be stored. |
+| format | SaveFormat | Format options. |
+
+### See Also
+
+* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(string, [SaveOptions](../../../aspose.pdf/saveoptions/)) {#save_7}
+
+Saves the document with a new name setting its save options.
+
+```csharp
+public void Save(string outputFileName, SaveOptions options)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputFileName | String | Path to file where the document will be stored. |
+| options | SaveOptions | Save options. |
 
 ### See Also
 

@@ -36,7 +36,37 @@ Returns `true` if the signature was processed correctly. Returns `false` if an e
 
 ---
 
-## TryVerifySignature([SignatureName](../../../aspose.pdf.facades/signaturename/), [ValidationOptions](../../../aspose.pdf.security/validationoptions/), out [ValidationResult](../../../aspose.pdf.security/validationresult/), out [VerificationResult](../../../aspose.pdf.security/verificationresult/)) {#tryverifysignature_1}
+## TryVerifySignature([SignatureName](../../../aspose.pdf.facades/signaturename/), X509Certificate2, out [VerificationResult](../../../aspose.pdf.security/verificationresult/)) {#tryverifysignature_1}
+
+Try to check the validity of a signature.
+ Verification is performed using the external public key certificate.
+
+```csharp
+public bool TryVerifySignature(SignatureName signName, X509Certificate2 publicKeyCertificate, 
+    out VerificationResult verificationResult)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| signName | SignatureName | The name of signature. |
+| publicKeyCertificate | X509Certificate2 | The public key certificate for verification. |
+| verificationResult | VerificationResult& | The result of verification. |
+
+### Return Value
+
+Returns `true` if the signature was processed correctly. Returns `false` if an error occurred during the verification process or the signature was corrupted or compromised.
+
+### See Also
+
+* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [VerificationResult](../../../aspose.pdf.security/verificationresult/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TryVerifySignature([SignatureName](../../../aspose.pdf.facades/signaturename/), [ValidationOptions](../../../aspose.pdf.security/validationoptions/), out [ValidationResult](../../../aspose.pdf.security/validationresult/), out [VerificationResult](../../../aspose.pdf.security/verificationresult/)) {#tryverifysignature_2}
 
 Try to check the validity of a signature.
 
@@ -71,7 +101,7 @@ Returns `true` if the signature was processed correctly. Returns `false` if an e
 
 ---
 
-## TryVerifySignature([SignatureName](../../../aspose.pdf.facades/signaturename/), X509Certificate2, [ValidationOptions](../../../aspose.pdf.security/validationoptions/), out [ValidationResult](../../../aspose.pdf.security/validationresult/), out [VerificationResult](../../../aspose.pdf.security/verificationresult/)) {#tryverifysignature_2}
+## TryVerifySignature([SignatureName](../../../aspose.pdf.facades/signaturename/), X509Certificate2, [ValidationOptions](../../../aspose.pdf.security/validationoptions/), out [ValidationResult](../../../aspose.pdf.security/validationresult/), out [VerificationResult](../../../aspose.pdf.security/verificationresult/)) {#tryverifysignature_3}
 
 Try to check the validity of a signature.
  Verification is performed using the external public key certificate.
@@ -102,36 +132,6 @@ Returns `true` if the signature was processed correctly. Returns `false` if an e
 * class [SignatureName](../../../aspose.pdf.facades/signaturename/)
 * class [ValidationOptions](../../../aspose.pdf.security/validationoptions/)
 * class [ValidationResult](../../../aspose.pdf.security/validationresult/)
-* class [VerificationResult](../../../aspose.pdf.security/verificationresult/)
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryVerifySignature([SignatureName](../../../aspose.pdf.facades/signaturename/), X509Certificate2, out [VerificationResult](../../../aspose.pdf.security/verificationresult/)) {#tryverifysignature_3}
-
-Try to check the validity of a signature.
- Verification is performed using the external public key certificate.
-
-```csharp
-public bool TryVerifySignature(SignatureName signName, X509Certificate2 publicKeyCertificate, 
-    out VerificationResult verificationResult)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| signName | SignatureName | The name of signature. |
-| publicKeyCertificate | X509Certificate2 | The public key certificate for verification. |
-| verificationResult | VerificationResult& | The result of verification. |
-
-### Return Value
-
-Returns `true` if the signature was processed correctly. Returns `false` if an error occurred during the verification process or the signature was corrupted or compromised.
-
-### See Also
-
-* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
 * class [VerificationResult](../../../aspose.pdf.security/verificationresult/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)

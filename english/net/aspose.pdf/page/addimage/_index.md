@@ -9,7 +9,29 @@ weight: 170
 url: "/net/aspose.pdf/page/addimage/"
 product_version: "26.9.0"
 ---
-## AddImage(Stream, [Rectangle](../../../aspose.pdf.drawing/rectangle/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), bool) {#addimage}
+## AddImage(string, [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#addimage}
+
+Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion.
+
+```csharp
+public void AddImage(string imagePath, Rectangle rectangle)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imagePath | String | The path to image. |
+| rectangle | Rectangle | The position of the image. |
+
+### See Also
+
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## AddImage(Stream, [Rectangle](../../../aspose.pdf.drawing/rectangle/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), bool) {#addimage_1}
 
 Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion.
 
@@ -34,7 +56,7 @@ public void AddImage(Stream imageStream, Rectangle imageRect, Rectangle bbox = n
 
 ---
 
-## AddImage(string, Stream, [Rectangle](../../../aspose.pdf.drawing/rectangle/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#addimage_1}
+## AddImage(string, Stream, [Rectangle](../../../aspose.pdf.drawing/rectangle/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#addimage_2}
 
 Adds searchable image onto the page and locates it in the middle of specified rectangle saving image's proportion.
 
@@ -58,7 +80,7 @@ public void AddImage(string hocr, Stream imageStream, Rectangle imageRect, Recta
 
 ---
 
-## AddImage(Stream, [Rectangle](../../../aspose.pdf.drawing/rectangle/), int, int, bool, [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#addimage_2}
+## AddImage(Stream, [Rectangle](../../../aspose.pdf.drawing/rectangle/), int, int, bool, [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#addimage_3}
 
 Adds image on page and places it depend on image rectangle position.
 
@@ -75,28 +97,6 @@ public void AddImage(Stream imageStream, Rectangle imageRect, int imageWidth, in
 | imageHeight | Int32 | The height of the image. |
 | saveImageProportions | Boolean | If the flag set to true than image placed in rectangle position; otherwise, the size of rectange is becoming equal to image size. |
 | bbox | Rectangle | The bbox of the image. |
-
-### See Also
-
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## AddImage(string, [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#addimage_3}
-
-Adds image onto the page and locates it in the middle of specified rectangle saving image's proportion.
-
-```csharp
-public void AddImage(string imagePath, Rectangle rectangle)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| imagePath | String | The path to image. |
-| rectangle | Rectangle | The position of the image. |
 
 ### See Also
 

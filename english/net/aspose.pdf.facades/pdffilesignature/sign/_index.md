@@ -9,23 +9,22 @@ weight: 70
 url: "/net/aspose.pdf.facades/pdffilesignature/sign/"
 product_version: "26.9.0"
 ---
-## Sign(int, string, string, string, bool, [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#sign}
+## Sign(string, [Signature](../../../aspose.pdf.lowcode/signature/)) {#sign}
 
-Make a signature on the pdf document.
+Sign the document with the given type signature which is placed in already presented signature field.
+ Before signing signature field must be empty, i.e. field must not contain signature dictionary.
+ Thus pdf document already has signature field, you should not supply the place to stamp the signature,
+ corresponding page and rectangle are taken from signature field which is found by signature name (see SigName parameter).
+ Such data as signature reason, contact and location must be provided by corresponding properties of the Signature object sig.
 
 ```csharp
-public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
-    Rectangle annotRect)
+public void Sign(string SigName, Signature sig)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | Int32 | The page number on which signature is made. |
-| SigReason | String | The reason of signature. |
-| SigContact | String | The contact of signature. |
-| SigLocation | String | The location of signature. |
-| visible | Boolean | The visiblity of signature. |
-| annotRect | Rectangle | The rect of signature. |
+| SigName | String | The name of the signature field. |
+| sig | Signature | The type of the signature, could be PKCS1 (Pkcs1Signature object), PKCS7 and PKCS7 detached (Pkcs7Signature object) |
 
 ## Examples
 
@@ -33,78 +32,30 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 [C#]
 string inFile = TestPath + "example1.pdf";
 string outFile = TestPath + "signature.pdf";
-PdfFileSignature pdfSign = new PdfFileSignature();
-pdfSign.BindPdf(inFile);
-System.Drawing.Rectangle rect = new System.Drawing.Rectangle(100, 100, 200, 200);
-pdfSign.SignatureAppearance = TestPath + "butterfly.jpg";
-pdfSign.SetCertificate("certificate.pfx", "password");
-pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect);
-pdfSign.Save(outFile);
-
-[Visual Basic]
-Dim pdfSign = new PdfFileSignature()
-pdfSign.BindPdf(inFile)
-Dim rect as System.Drawing.Rectangle = new System.Drawing.Rectangle(100, 100, 200, 200)
-pdfSign.SetCertificate("certificate.pfx", "password")
-pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect)
-pdfSign.SignatureAppearance = TestPath + "butterfly.jpg"
-pdfSign.Save(outFile)
-```
-
-### See Also
-
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Sign(int, string, string, string, bool, [Rectangle](../../../aspose.pdf.drawing/rectangle/), [Signature](../../../aspose.pdf.lowcode/signature/)) {#sign_1}
-
-Sign the document with the given type signature.
-
-```csharp
-public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
-    Rectangle annotRect, Signature sig)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Int32 | The page number on which signature is made. |
-| SigReason | String | The reason of signature. |
-| SigContact | String | The contact of signature. |
-| SigLocation | String | The location of signature. |
-| visible | Boolean | The visiblity of signature. |
-| annotRect | Rectangle | The rect of signature. |
-| sig | Signature | The type of the signature, could be PKCS1, PKCS7 and PKCS7Detached. |
-
-## Examples
-
-```csharp
-[C#]
-string inFile = TestPath + "example1.pdf";
-string outFile = TestPath + "signature.pdf";
+PKCS1 sig = new PKCS1("certificate.pfx", "password");
+sig.Reason = "Some reason";
+sig.Contact = "Smith";
+sig.Location = "New York";
 PdfFileSignature pdfSign = new PdfFileSignature(inFile, outFile);
-System.Drawing.Rectangle rect = new System.Drawing.Rectangle(100, 100, 200, 100);
 pdfSign.SignatureAppearance = TestPath + "butterfly.jpg";
-pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect, new PKCS1("certificate.pfx", "password"));
+pdfSign.Sign("Signature1", sig);
 pdfSign.Save();
 
 [Visual Basic]
 Dim inFile As String = TestPath & "example1.pdf"
 Dim outFile As String = TestPath & "signature.pdf"
 Dim sig As PKCS1 = new PKCS1("certificate.pfx", "password")
+sig.Reason = "Some reason"
+sig.Contact = "Smith"
+sig.Location = "New York"
 Dim pdfSign = new PdfFileSignature(inFile, outFile)
-Dim rect as System.Drawing.Rectangle = new System.Drawing.Rectangle(100, 100, 200, 100)
 pdfSign.SignatureAppearance = TestPath & "butterfly.jpg"
-pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect, sig)
+pdfSign.Sign("Signature1", sig)
 pdfSign.Save()
 ```
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [Signature](../../../aspose.pdf.lowcode/signature/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -112,7 +63,7 @@ pdfSign.Save()
 
 ---
 
-## Sign(int, bool, [Rectangle](../../../aspose.pdf.drawing/rectangle/), [Signature](../../../aspose.pdf.lowcode/signature/)) {#sign_2}
+## Sign(int, bool, [Rectangle](../../../aspose.pdf.drawing/rectangle/), [Signature](../../../aspose.pdf.lowcode/signature/)) {#sign_1}
 
 Sign the document with the given type signature.
 
@@ -168,7 +119,7 @@ pdfSign.Save()
 
 ---
 
-## Sign(string, string, string, string, [Signature](../../../aspose.pdf.lowcode/signature/)) {#sign_3}
+## Sign(string, string, string, string, [Signature](../../../aspose.pdf.lowcode/signature/)) {#sign_2}
 
 Sign the document with the given type signature which is placed in already presented signature field.
  Before signing signature field must be empty, i.e. field must not contain signature dictionary.
@@ -219,7 +170,110 @@ pdfSign.Save()
 
 ---
 
-## Sign(int, string, string, string, string, bool, [Rectangle](../../../aspose.pdf.drawing/rectangle/), [Signature](../../../aspose.pdf.lowcode/signature/)) {#sign_4}
+## Sign(int, string, string, string, bool, [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#sign_3}
+
+Make a signature on the pdf document.
+
+```csharp
+public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
+    Rectangle annotRect)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Int32 | The page number on which signature is made. |
+| SigReason | String | The reason of signature. |
+| SigContact | String | The contact of signature. |
+| SigLocation | String | The location of signature. |
+| visible | Boolean | The visiblity of signature. |
+| annotRect | Rectangle | The rect of signature. |
+
+## Examples
+
+```csharp
+[C#]
+string inFile = TestPath + "example1.pdf";
+string outFile = TestPath + "signature.pdf";
+PdfFileSignature pdfSign = new PdfFileSignature();
+pdfSign.BindPdf(inFile);
+System.Drawing.Rectangle rect = new System.Drawing.Rectangle(100, 100, 200, 200);
+pdfSign.SignatureAppearance = TestPath + "butterfly.jpg";
+pdfSign.SetCertificate("certificate.pfx", "password");
+pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect);
+pdfSign.Save(outFile);
+
+[Visual Basic]
+Dim pdfSign = new PdfFileSignature()
+pdfSign.BindPdf(inFile)
+Dim rect as System.Drawing.Rectangle = new System.Drawing.Rectangle(100, 100, 200, 200)
+pdfSign.SetCertificate("certificate.pfx", "password")
+pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect)
+pdfSign.SignatureAppearance = TestPath + "butterfly.jpg"
+pdfSign.Save(outFile)
+```
+
+### See Also
+
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Sign(int, string, string, string, bool, [Rectangle](../../../aspose.pdf.drawing/rectangle/), [Signature](../../../aspose.pdf.lowcode/signature/)) {#sign_4}
+
+Sign the document with the given type signature.
+
+```csharp
+public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
+    Rectangle annotRect, Signature sig)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Int32 | The page number on which signature is made. |
+| SigReason | String | The reason of signature. |
+| SigContact | String | The contact of signature. |
+| SigLocation | String | The location of signature. |
+| visible | Boolean | The visiblity of signature. |
+| annotRect | Rectangle | The rect of signature. |
+| sig | Signature | The type of the signature, could be PKCS1, PKCS7 and PKCS7Detached. |
+
+## Examples
+
+```csharp
+[C#]
+string inFile = TestPath + "example1.pdf";
+string outFile = TestPath + "signature.pdf";
+PdfFileSignature pdfSign = new PdfFileSignature(inFile, outFile);
+System.Drawing.Rectangle rect = new System.Drawing.Rectangle(100, 100, 200, 100);
+pdfSign.SignatureAppearance = TestPath + "butterfly.jpg";
+pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect, new PKCS1("certificate.pfx", "password"));
+pdfSign.Save();
+
+[Visual Basic]
+Dim inFile As String = TestPath & "example1.pdf"
+Dim outFile As String = TestPath & "signature.pdf"
+Dim sig As PKCS1 = new PKCS1("certificate.pfx", "password")
+Dim pdfSign = new PdfFileSignature(inFile, outFile)
+Dim rect as System.Drawing.Rectangle = new System.Drawing.Rectangle(100, 100, 200, 100)
+pdfSign.SignatureAppearance = TestPath & "butterfly.jpg"
+pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect, sig)
+pdfSign.Save()
+```
+
+### See Also
+
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Signature](../../../aspose.pdf.lowcode/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Sign(int, string, string, string, string, bool, [Rectangle](../../../aspose.pdf.drawing/rectangle/), [Signature](../../../aspose.pdf.lowcode/signature/)) {#sign_5}
 
 Sign the document with the given type signature which is placed in already presented signature field.
  Before signing pdf document should already has signature field, corresponding page and rectangle are taken from 
@@ -267,60 +321,6 @@ pdfSign.Save(outFile)
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [Signature](../../../aspose.pdf.lowcode/signature/)
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Sign(string, [Signature](../../../aspose.pdf.lowcode/signature/)) {#sign_5}
-
-Sign the document with the given type signature which is placed in already presented signature field.
- Before signing signature field must be empty, i.e. field must not contain signature dictionary.
- Thus pdf document already has signature field, you should not supply the place to stamp the signature,
- corresponding page and rectangle are taken from signature field which is found by signature name (see SigName parameter).
- Such data as signature reason, contact and location must be provided by corresponding properties of the Signature object sig.
-
-```csharp
-public void Sign(string SigName, Signature sig)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| SigName | String | The name of the signature field. |
-| sig | Signature | The type of the signature, could be PKCS1 (Pkcs1Signature object), PKCS7 and PKCS7 detached (Pkcs7Signature object) |
-
-## Examples
-
-```csharp
-[C#]
-string inFile = TestPath + "example1.pdf";
-string outFile = TestPath + "signature.pdf";
-PKCS1 sig = new PKCS1("certificate.pfx", "password");
-sig.Reason = "Some reason";
-sig.Contact = "Smith";
-sig.Location = "New York";
-PdfFileSignature pdfSign = new PdfFileSignature(inFile, outFile);
-pdfSign.SignatureAppearance = TestPath + "butterfly.jpg";
-pdfSign.Sign("Signature1", sig);
-pdfSign.Save();
-
-[Visual Basic]
-Dim inFile As String = TestPath & "example1.pdf"
-Dim outFile As String = TestPath & "signature.pdf"
-Dim sig As PKCS1 = new PKCS1("certificate.pfx", "password")
-sig.Reason = "Some reason"
-sig.Contact = "Smith"
-sig.Location = "New York"
-Dim pdfSign = new PdfFileSignature(inFile, outFile)
-pdfSign.SignatureAppearance = TestPath & "butterfly.jpg"
-pdfSign.Sign("Signature1", sig)
-pdfSign.Save()
-```
-
-### See Also
-
 * class [Signature](../../../aspose.pdf.lowcode/signature/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)

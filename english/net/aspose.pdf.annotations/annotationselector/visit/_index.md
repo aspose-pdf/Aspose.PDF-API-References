@@ -9,238 +9,50 @@ weight: 30
 url: "/net/aspose.pdf.annotations/annotationselector/visit/"
 product_version: "26.9.0"
 ---
-## Visit([LinkAnnotation](../../../aspose.pdf.annotations/linkannotation/)) {#visit}
+## Visit([BleedMarkAnnotation](../../../aspose.pdf.annotations/bleedmarkannotation/)) {#visit}
 
-Select link annotation if AnnotationSelector was initialized with LinkAnnotation object.
+Selects the *bleedMark* if the [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) was initialized with a
+ [`BleedMarkAnnotation`](../../../aspose.pdf.annotations/bleedmarkannotation/) object.
 
 ```csharp
-public void Visit(LinkAnnotation link)
+public void Visit(BleedMarkAnnotation bleedMark)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| link | LinkAnnotation | LinkAnnotation object for selecting. |
+| bleedMark | BleedMarkAnnotation | The <see cref="T:Aspose.Pdf.Annotations.BleedMarkAnnotation" /> object for selection. |
 
 ### See Also
 
-* class [LinkAnnotation](../../../aspose.pdf.annotations/linkannotation/)
+* class [BleedMarkAnnotation](../../../aspose.pdf.annotations/bleedmarkannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([FileAttachmentAnnotation](../../../aspose.pdf.annotations/fileattachmentannotation/)) {#visit_1}
+## Visit([CaretAnnotation](../../../aspose.pdf.annotations/caretannotation/)) {#visit_1}
 
-Select attachment annotation if AnnotationSelector was initialized with FileAttachmentAnnotation object.
+Select caret annotation if AnnotationSelector was initialized with CaretAnnotation object.
 
 ```csharp
-public void Visit(FileAttachmentAnnotation attachment)
+public void Visit(CaretAnnotation caret)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| attachment | FileAttachmentAnnotation | FileAttachmentAnnotation object for selecting. |
+| caret | CaretAnnotation | CaretAnnotation object for selecting. |
 
 ### See Also
 
-* class [FileAttachmentAnnotation](../../../aspose.pdf.annotations/fileattachmentannotation/)
+* class [CaretAnnotation](../../../aspose.pdf.annotations/caretannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([TextAnnotation](../../../aspose.pdf.annotations/textannotation/)) {#visit_2}
-
-Select text annotation if AnnotationSelector was initialized with TextAnnotation object.
-
-```csharp
-public void Visit(TextAnnotation text)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | TextAnnotation | TextAnnotation object for selecting. |
-
-### See Also
-
-* class [TextAnnotation](../../../aspose.pdf.annotations/textannotation/)
-* class [AnnotationSelector](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([RedactionAnnotation](../../../aspose.pdf.annotations/redactionannotation/)) {#visit_3}
-
-Select redact annotation if AnnotationSelector was initialized with RedactAnnotation object.
-
-```csharp
-public void Visit(RedactionAnnotation redact)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| redact | RedactionAnnotation | RedactAnnotation object for selecting. |
-
-### See Also
-
-* class [RedactionAnnotation](../../../aspose.pdf.annotations/redactionannotation/)
-* class [AnnotationSelector](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([FreeTextAnnotation](../../../aspose.pdf.annotations/freetextannotation/)) {#visit_4}
-
-Select freetext annotation if AnnotationSelector was initialized with FreeTextAnnotation object.
-
-```csharp
-public void Visit(FreeTextAnnotation freetext)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| freetext | FreeTextAnnotation | FreeTextAnnotation object for selecting. |
-
-### See Also
-
-* class [FreeTextAnnotation](../../../aspose.pdf.annotations/freetextannotation/)
-* class [AnnotationSelector](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([HighlightAnnotation](../../../aspose.pdf.annotations/highlightannotation/)) {#visit_5}
-
-Select attachment annotation if AnnotationSelector was initialized with FreeTextAnnotation object.
-
-```csharp
-public void Visit(HighlightAnnotation highlight)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| highlight | HighlightAnnotation | HighlightAnnotation object for selecting. |
-
-### See Also
-
-* class [HighlightAnnotation](../../../aspose.pdf.annotations/highlightannotation/)
-* class [AnnotationSelector](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([UnderlineAnnotation](../../../aspose.pdf.annotations/underlineannotation/)) {#visit_6}
-
-Select underline annotation if AnnotationSelector was initialized with UnderlineAnnotation object.
-
-```csharp
-public void Visit(UnderlineAnnotation underline)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| underline | UnderlineAnnotation | UnderlineAnnotation object for selecting. |
-
-### See Also
-
-* class [UnderlineAnnotation](../../../aspose.pdf.annotations/underlineannotation/)
-* class [AnnotationSelector](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([StrikeOutAnnotation](../../../aspose.pdf.annotations/strikeoutannotation/)) {#visit_7}
-
-Select strikeOut annotation if AnnotationSelector was initialized with StrikeOutAnnotation object.
-
-```csharp
-public void Visit(StrikeOutAnnotation strikeOut)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation object for selecting. |
-
-### See Also
-
-* class [StrikeOutAnnotation](../../../aspose.pdf.annotations/strikeoutannotation/)
-* class [AnnotationSelector](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SquigglyAnnotation](../../../aspose.pdf.annotations/squigglyannotation/)) {#visit_8}
-
-Select squiggly annotation if AnnotationSelector was initialized with SquigglyAnnotation object.
-
-```csharp
-public void Visit(SquigglyAnnotation squiggly)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| squiggly | SquigglyAnnotation | SquigglyAnnotation object for selecting. |
-
-### See Also
-
-* class [SquigglyAnnotation](../../../aspose.pdf.annotations/squigglyannotation/)
-* class [AnnotationSelector](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([PopupAnnotation](../../../aspose.pdf.annotations/popupannotation/)) {#visit_9}
-
-Select popup annotation if AnnotationSelector was initialized with PopupAnnotation object.
-
-```csharp
-public void Visit(PopupAnnotation popup)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| popup | PopupAnnotation | PopupAnnotation object for selecting. |
-
-### See Also
-
-* class [PopupAnnotation](../../../aspose.pdf.annotations/popupannotation/)
-* class [AnnotationSelector](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([LineAnnotation](../../../aspose.pdf.annotations/lineannotation/)) {#visit_10}
-
-Select line annotation if AnnotationSelector was initialized with LineAnnotation object.
-
-```csharp
-public void Visit(LineAnnotation line)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| line | LineAnnotation | LineAnnotation object for selecting. |
-
-### See Also
-
-* class [LineAnnotation](../../../aspose.pdf.annotations/lineannotation/)
-* class [AnnotationSelector](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([CircleAnnotation](../../../aspose.pdf.annotations/circleannotation/)) {#visit_11}
+## Visit([CircleAnnotation](../../../aspose.pdf.annotations/circleannotation/)) {#visit_2}
 
 Select circle annotation if AnnotationSelector was initialized with CircleAnnotation object.
 
@@ -261,28 +73,91 @@ public void Visit(CircleAnnotation circle)
 
 ---
 
-## Visit([SquareAnnotation](../../../aspose.pdf.annotations/squareannotation/)) {#visit_12}
+## Visit([ColorBarAnnotation](../../../aspose.pdf.annotations/colorbarannotation/)) {#visit_3}
 
-Select square annotation if AnnotationSelector was initialized with SquareAnnotation object.
+Select ColorBar annotation if AnnotationSelector was initialized with ColorBar object.
 
 ```csharp
-public void Visit(SquareAnnotation square)
+public void Visit(ColorBarAnnotation colorBar)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| square | SquareAnnotation | SquareAnnotation object for selecting. |
+| colorBar | ColorBarAnnotation | PDF3DAnnotation object for selecting. |
 
 ### See Also
 
-* class [SquareAnnotation](../../../aspose.pdf.annotations/squareannotation/)
+* class [ColorBarAnnotation](../../../aspose.pdf.annotations/colorbarannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([InkAnnotation](../../../aspose.pdf.annotations/inkannotation/)) {#visit_13}
+## Visit([FileAttachmentAnnotation](../../../aspose.pdf.annotations/fileattachmentannotation/)) {#visit_4}
+
+Select attachment annotation if AnnotationSelector was initialized with FileAttachmentAnnotation object.
+
+```csharp
+public void Visit(FileAttachmentAnnotation attachment)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| attachment | FileAttachmentAnnotation | FileAttachmentAnnotation object for selecting. |
+
+### See Also
+
+* class [FileAttachmentAnnotation](../../../aspose.pdf.annotations/fileattachmentannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit([FreeTextAnnotation](../../../aspose.pdf.annotations/freetextannotation/)) {#visit_5}
+
+Select freetext annotation if AnnotationSelector was initialized with FreeTextAnnotation object.
+
+```csharp
+public void Visit(FreeTextAnnotation freetext)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| freetext | FreeTextAnnotation | FreeTextAnnotation object for selecting. |
+
+### See Also
+
+* class [FreeTextAnnotation](../../../aspose.pdf.annotations/freetextannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit([HighlightAnnotation](../../../aspose.pdf.annotations/highlightannotation/)) {#visit_6}
+
+Select attachment annotation if AnnotationSelector was initialized with FreeTextAnnotation object.
+
+```csharp
+public void Visit(HighlightAnnotation highlight)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| highlight | HighlightAnnotation | HighlightAnnotation object for selecting. |
+
+### See Also
+
+* class [HighlightAnnotation](../../../aspose.pdf.annotations/highlightannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit([InkAnnotation](../../../aspose.pdf.annotations/inkannotation/)) {#visit_7}
 
 Select ink annotation if AnnotationSelector was initialized with InkAnnotation object.
 
@@ -297,6 +172,133 @@ public void Visit(InkAnnotation ink)
 ### See Also
 
 * class [InkAnnotation](../../../aspose.pdf.annotations/inkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit([LineAnnotation](../../../aspose.pdf.annotations/lineannotation/)) {#visit_8}
+
+Select line annotation if AnnotationSelector was initialized with LineAnnotation object.
+
+```csharp
+public void Visit(LineAnnotation line)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| line | LineAnnotation | LineAnnotation object for selecting. |
+
+### See Also
+
+* class [LineAnnotation](../../../aspose.pdf.annotations/lineannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit([LinkAnnotation](../../../aspose.pdf.annotations/linkannotation/)) {#visit_9}
+
+Select link annotation if AnnotationSelector was initialized with LinkAnnotation object.
+
+```csharp
+public void Visit(LinkAnnotation link)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| link | LinkAnnotation | LinkAnnotation object for selecting. |
+
+### See Also
+
+* class [LinkAnnotation](../../../aspose.pdf.annotations/linkannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit([MovieAnnotation](../../../aspose.pdf.annotations/movieannotation/)) {#visit_10}
+
+Select movie annotation if AnnotationSelector was initialized with MovieAnnotation object.
+
+```csharp
+public void Visit(MovieAnnotation movie)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| movie | MovieAnnotation | MovieAnnotation object for selecting. |
+
+### See Also
+
+* class [MovieAnnotation](../../../aspose.pdf.annotations/movieannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit([PageInformationAnnotation](../../../aspose.pdf.annotations/pageinformationannotation/)) {#visit_11}
+
+Selects the *pageInformation* if the [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) was initialized with a
+ [`PageInformationAnnotation`](../../../aspose.pdf.annotations/pageinformationannotation/) object.
+
+```csharp
+public void Visit(PageInformationAnnotation pageInformation)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageInformation | PageInformationAnnotation | The <see cref="T:Aspose.Pdf.Annotations.PageInformationAnnotation" /> object for selection. |
+
+### See Also
+
+* class [PageInformationAnnotation](../../../aspose.pdf.annotations/pageinformationannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit([PDF3DAnnotation](../../../aspose.pdf.annotations/pdf3dannotation/)) {#visit_12}
+
+Select PDF3D annotation if AnnotationSelector was initialized with PDF3DAnnotation object.
+
+```csharp
+public void Visit(PDF3DAnnotation pdf3D)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdf3D | PDF3DAnnotation | PDF3DAnnotation object for selecting. |
+
+### See Also
+
+* class [PDF3DAnnotation](../../../aspose.pdf.annotations/pdf3dannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit([PolygonAnnotation](../../../aspose.pdf.annotations/polygonannotation/)) {#visit_13}
+
+Select polygon annotation if AnnotationSelector was initialized with PolygonAnnotation object.
+
+```csharp
+public void Visit(PolygonAnnotation polygon)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| polygon | PolygonAnnotation | PolygonAnnotation object for selecting. |
+
+### See Also
+
+* class [PolygonAnnotation](../../../aspose.pdf.annotations/polygonannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -324,133 +326,71 @@ public void Visit(PolylineAnnotation polyline)
 
 ---
 
-## Visit([PolygonAnnotation](../../../aspose.pdf.annotations/polygonannotation/)) {#visit_15}
+## Visit([PopupAnnotation](../../../aspose.pdf.annotations/popupannotation/)) {#visit_15}
 
-Select polygon annotation if AnnotationSelector was initialized with PolygonAnnotation object.
+Select popup annotation if AnnotationSelector was initialized with PopupAnnotation object.
 
 ```csharp
-public void Visit(PolygonAnnotation polygon)
+public void Visit(PopupAnnotation popup)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | PolygonAnnotation object for selecting. |
+| popup | PopupAnnotation | PopupAnnotation object for selecting. |
 
 ### See Also
 
-* class [PolygonAnnotation](../../../aspose.pdf.annotations/polygonannotation/)
+* class [PopupAnnotation](../../../aspose.pdf.annotations/popupannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([CaretAnnotation](../../../aspose.pdf.annotations/caretannotation/)) {#visit_16}
+## Visit([RedactionAnnotation](../../../aspose.pdf.annotations/redactionannotation/)) {#visit_16}
 
-Select caret annotation if AnnotationSelector was initialized with CaretAnnotation object.
+Select redact annotation if AnnotationSelector was initialized with RedactAnnotation object.
 
 ```csharp
-public void Visit(CaretAnnotation caret)
+public void Visit(RedactionAnnotation redact)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| caret | CaretAnnotation | CaretAnnotation object for selecting. |
+| redact | RedactionAnnotation | RedactAnnotation object for selecting. |
 
 ### See Also
 
-* class [CaretAnnotation](../../../aspose.pdf.annotations/caretannotation/)
+* class [RedactionAnnotation](../../../aspose.pdf.annotations/redactionannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([StampAnnotation](../../../aspose.pdf.annotations/stampannotation/)) {#visit_17}
+## Visit([RegistrationMarkAnnotation](../../../aspose.pdf.annotations/registrationmarkannotation/)) {#visit_17}
 
-Select stamp annotation if AnnotationSelector was initialized with StampAnnotation object.
+Selects the *registrationMark* if the [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) was initialized with a
+ [`RegistrationMarkAnnotation`](../../../aspose.pdf.annotations/registrationmarkannotation/) object.
 
 ```csharp
-public void Visit(StampAnnotation stamp)
+public void Visit(RegistrationMarkAnnotation registrationMark)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stamp | StampAnnotation | StampAnnotation object for selecting. |
+| registrationMark | RegistrationMarkAnnotation | The <see cref="T:Aspose.Pdf.Annotations.RegistrationMarkAnnotation" /> object for selection. |
 
 ### See Also
 
-* class [StampAnnotation](../../../aspose.pdf.annotations/stampannotation/)
+* class [RegistrationMarkAnnotation](../../../aspose.pdf.annotations/registrationmarkannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)) {#visit_18}
-
-Select widget annotation if AnnotationSelector was initialized with WidgetAnnotation object.
-
-```csharp
-public void Visit(WidgetAnnotation widget)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| widget | WidgetAnnotation | WidgetAnnotation object for selecting. |
-
-### See Also
-
-* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* class [AnnotationSelector](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([WatermarkAnnotation](../../../aspose.pdf.annotations/watermarkannotation/)) {#visit_19}
-
-Select watermark annotation if AnnotationSelector was initialized with WatermarkAnnotation object.
-
-```csharp
-public void Visit(WatermarkAnnotation watermark)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| watermark | WatermarkAnnotation | WatermarkAnnotation for selecting. |
-
-### See Also
-
-* class [WatermarkAnnotation](../../../aspose.pdf.annotations/watermarkannotation/)
-* class [AnnotationSelector](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([MovieAnnotation](../../../aspose.pdf.annotations/movieannotation/)) {#visit_20}
-
-Select movie annotation if AnnotationSelector was initialized with MovieAnnotation object.
-
-```csharp
-public void Visit(MovieAnnotation movie)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| movie | MovieAnnotation | MovieAnnotation object for selecting. |
-
-### See Also
-
-* class [MovieAnnotation](../../../aspose.pdf.annotations/movieannotation/)
-* class [AnnotationSelector](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([RichMediaAnnotation](../../../aspose.pdf.annotations/richmediaannotation/)) {#visit_21}
+## Visit([RichMediaAnnotation](../../../aspose.pdf.annotations/richmediaannotation/)) {#visit_18}
 
 Select movie annotation if AnnotationSelector was initialized with RichMedia annotation object.
 
@@ -471,7 +411,7 @@ public void Visit(RichMediaAnnotation richMedia)
 
 ---
 
-## Visit([ScreenAnnotation](../../../aspose.pdf.annotations/screenannotation/)) {#visit_22}
+## Visit([ScreenAnnotation](../../../aspose.pdf.annotations/screenannotation/)) {#visit_19}
 
 Select screen annotation if AnnotationSelector was initialized with ScreenAnnotation object.
 
@@ -492,42 +432,105 @@ public void Visit(ScreenAnnotation screen)
 
 ---
 
-## Visit([PDF3DAnnotation](../../../aspose.pdf.annotations/pdf3dannotation/)) {#visit_23}
+## Visit([SquareAnnotation](../../../aspose.pdf.annotations/squareannotation/)) {#visit_20}
 
-Select PDF3D annotation if AnnotationSelector was initialized with PDF3DAnnotation object.
+Select square annotation if AnnotationSelector was initialized with SquareAnnotation object.
 
 ```csharp
-public void Visit(PDF3DAnnotation pdf3D)
+public void Visit(SquareAnnotation square)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdf3D | PDF3DAnnotation | PDF3DAnnotation object for selecting. |
+| square | SquareAnnotation | SquareAnnotation object for selecting. |
 
 ### See Also
 
-* class [PDF3DAnnotation](../../../aspose.pdf.annotations/pdf3dannotation/)
+* class [SquareAnnotation](../../../aspose.pdf.annotations/squareannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([ColorBarAnnotation](../../../aspose.pdf.annotations/colorbarannotation/)) {#visit_24}
+## Visit([SquigglyAnnotation](../../../aspose.pdf.annotations/squigglyannotation/)) {#visit_21}
 
-Select ColorBar annotation if AnnotationSelector was initialized with ColorBar object.
+Select squiggly annotation if AnnotationSelector was initialized with SquigglyAnnotation object.
 
 ```csharp
-public void Visit(ColorBarAnnotation colorBar)
+public void Visit(SquigglyAnnotation squiggly)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| colorBar | ColorBarAnnotation | PDF3DAnnotation object for selecting. |
+| squiggly | SquigglyAnnotation | SquigglyAnnotation object for selecting. |
 
 ### See Also
 
-* class [ColorBarAnnotation](../../../aspose.pdf.annotations/colorbarannotation/)
+* class [SquigglyAnnotation](../../../aspose.pdf.annotations/squigglyannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit([StampAnnotation](../../../aspose.pdf.annotations/stampannotation/)) {#visit_22}
+
+Select stamp annotation if AnnotationSelector was initialized with StampAnnotation object.
+
+```csharp
+public void Visit(StampAnnotation stamp)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stamp | StampAnnotation | StampAnnotation object for selecting. |
+
+### See Also
+
+* class [StampAnnotation](../../../aspose.pdf.annotations/stampannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit([StrikeOutAnnotation](../../../aspose.pdf.annotations/strikeoutannotation/)) {#visit_23}
+
+Select strikeOut annotation if AnnotationSelector was initialized with StrikeOutAnnotation object.
+
+```csharp
+public void Visit(StrikeOutAnnotation strikeOut)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation object for selecting. |
+
+### See Also
+
+* class [StrikeOutAnnotation](../../../aspose.pdf.annotations/strikeoutannotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit([TextAnnotation](../../../aspose.pdf.annotations/textannotation/)) {#visit_24}
+
+Select text annotation if AnnotationSelector was initialized with TextAnnotation object.
+
+```csharp
+public void Visit(TextAnnotation text)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | TextAnnotation | TextAnnotation object for selecting. |
+
+### See Also
+
+* class [TextAnnotation](../../../aspose.pdf.annotations/textannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -555,66 +558,63 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 ---
 
-## Visit([BleedMarkAnnotation](../../../aspose.pdf.annotations/bleedmarkannotation/)) {#visit_26}
+## Visit([UnderlineAnnotation](../../../aspose.pdf.annotations/underlineannotation/)) {#visit_26}
 
-Selects the *bleedMark* if the [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) was initialized with a
- [`BleedMarkAnnotation`](../../../aspose.pdf.annotations/bleedmarkannotation/) object.
+Select underline annotation if AnnotationSelector was initialized with UnderlineAnnotation object.
 
 ```csharp
-public void Visit(BleedMarkAnnotation bleedMark)
+public void Visit(UnderlineAnnotation underline)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bleedMark | BleedMarkAnnotation | The <see cref="T:Aspose.Pdf.Annotations.BleedMarkAnnotation" /> object for selection. |
+| underline | UnderlineAnnotation | UnderlineAnnotation object for selecting. |
 
 ### See Also
 
-* class [BleedMarkAnnotation](../../../aspose.pdf.annotations/bleedmarkannotation/)
+* class [UnderlineAnnotation](../../../aspose.pdf.annotations/underlineannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([RegistrationMarkAnnotation](../../../aspose.pdf.annotations/registrationmarkannotation/)) {#visit_27}
+## Visit([WatermarkAnnotation](../../../aspose.pdf.annotations/watermarkannotation/)) {#visit_27}
 
-Selects the *registrationMark* if the [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) was initialized with a
- [`RegistrationMarkAnnotation`](../../../aspose.pdf.annotations/registrationmarkannotation/) object.
+Select watermark annotation if AnnotationSelector was initialized with WatermarkAnnotation object.
 
 ```csharp
-public void Visit(RegistrationMarkAnnotation registrationMark)
+public void Visit(WatermarkAnnotation watermark)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| registrationMark | RegistrationMarkAnnotation | The <see cref="T:Aspose.Pdf.Annotations.RegistrationMarkAnnotation" /> object for selection. |
+| watermark | WatermarkAnnotation | WatermarkAnnotation for selecting. |
 
 ### See Also
 
-* class [RegistrationMarkAnnotation](../../../aspose.pdf.annotations/registrationmarkannotation/)
+* class [WatermarkAnnotation](../../../aspose.pdf.annotations/watermarkannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([PageInformationAnnotation](../../../aspose.pdf.annotations/pageinformationannotation/)) {#visit_28}
+## Visit([WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)) {#visit_28}
 
-Selects the *pageInformation* if the [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) was initialized with a
- [`PageInformationAnnotation`](../../../aspose.pdf.annotations/pageinformationannotation/) object.
+Select widget annotation if AnnotationSelector was initialized with WidgetAnnotation object.
 
 ```csharp
-public void Visit(PageInformationAnnotation pageInformation)
+public void Visit(WidgetAnnotation widget)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageInformation | PageInformationAnnotation | The <see cref="T:Aspose.Pdf.Annotations.PageInformationAnnotation" /> object for selection. |
+| widget | WidgetAnnotation | WidgetAnnotation object for selecting. |
 
 ### See Also
 
-* class [PageInformationAnnotation](../../../aspose.pdf.annotations/pageinformationannotation/)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

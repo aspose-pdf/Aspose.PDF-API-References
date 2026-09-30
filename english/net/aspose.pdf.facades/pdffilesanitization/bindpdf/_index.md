@@ -9,20 +9,21 @@ weight: 40
 url: "/net/aspose.pdf.facades/pdffilesanitization/bindpdf/"
 product_version: "26.9.0"
 ---
-## BindPdf(string) {#bindpdf}
+## BindPdf([Document](../../../aspose.pdf/document/)) {#bindpdf}
 
-Binds a Pdf file for Sanitize.
+Initializes the facade.
 
 ```csharp
-public override void BindPdf(string inputFile)
+public override void BindPdf(Document srcDoc)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | String | The pdf file to be edited. |
+| srcDoc | Document | The Aspose.Pdf.Document object. |
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -49,21 +50,20 @@ public override void BindPdf(Stream inputStream)
 
 ---
 
-## BindPdf([Document](../../../aspose.pdf/document/)) {#bindpdf_2}
+## BindPdf(string) {#bindpdf_2}
 
-Initializes the facade.
+Binds a Pdf file for Sanitize.
 
 ```csharp
-public override void BindPdf(Document srcDoc)
+public override void BindPdf(string inputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcDoc | Document | The Aspose.Pdf.Document object. |
+| inputFile | String | The pdf file to be edited. |
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
 * class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

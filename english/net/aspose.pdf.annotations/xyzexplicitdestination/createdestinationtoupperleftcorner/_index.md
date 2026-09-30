@@ -9,18 +9,17 @@ weight: 40
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/"
 product_version: "26.9.0"
 ---
-## CreateDestinationToUpperLeftCorner([Page](../../../aspose.pdf/page/), double) {#createdestinationtoupperleftcorner}
+## CreateDestinationToUpperLeftCorner([Page](../../../aspose.pdf/page/)) {#createdestinationtoupperleftcorner}
 
-Create destionation to upper left corner of the specifed page.
+Create destination to specified page.
 
 ```csharp
-public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page page, double zoom)
+public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page page)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | Page | Destination page. |
-| zoom | Double | Zoom factor. |
 
 ### Return Value
 
@@ -35,17 +34,18 @@ Destination object.
 
 ---
 
-## CreateDestinationToUpperLeftCorner([Page](../../../aspose.pdf/page/)) {#createdestinationtoupperleftcorner_1}
+## CreateDestinationToUpperLeftCorner([Page](../../../aspose.pdf/page/), double) {#createdestinationtoupperleftcorner_1}
 
-Create destination to specified page.
+Create destionation to upper left corner of the specifed page.
 
 ```csharp
-public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page page)
+public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page page, double zoom)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | Page | Destination page. |
+| zoom | Double | Zoom factor. |
 
 ### Return Value
 

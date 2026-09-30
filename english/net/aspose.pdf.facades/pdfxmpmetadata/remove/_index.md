@@ -38,7 +38,31 @@ xmp.Remove(DefaultMetadataProperties.Nickname);
 
 ---
 
-## Remove(string) {#remove_1}
+## Remove(KeyValuePair<string, XmpValue>) {#remove_1}
+
+Removes key/value pair from the collection.
+
+```csharp
+public bool Remove(KeyValuePair<string, XmpValue> item)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| item | KeyValuePair`2 | Key/value pair to be removed. |
+
+### Return Value
+
+true if pair was found and removed.
+
+### See Also
+
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Remove(string) {#remove_2}
 
 Removes key from the dictionary.
 
@@ -61,30 +85,6 @@ PdfXmpMetadata xmp = new PdfXmpMetadata();
 xmp.BindPdf("input.pdf");
 xmp.Remove("xmp:Nickname");
 ```
-
-### See Also
-
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Remove(KeyValuePair<string, XmpValue>) {#remove_2}
-
-Removes key/value pair from the collection.
-
-```csharp
-public bool Remove(KeyValuePair<string, XmpValue> item)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | KeyValuePair`2 | Key/value pair to be removed. |
-
-### Return Value
-
-true if pair was found and removed.
 
 ### See Also
 

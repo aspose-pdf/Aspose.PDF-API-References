@@ -51,48 +51,7 @@ End Using
 
 ---
 
-## PrintDocuments(params string[]) {#printdocuments_1}
-
-Prints multiple PDF documents using default printer and page settings.
-
-This method allows printing multiple PDF documents in a single print job. 
- Ensure that the provided file paths are valid and accessible.
-
-```csharp
-public static void PrintDocuments(params string[] filePaths)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filePaths | String[] | An array of file paths representing the PDF documents to be printed. |
-
-## Examples
-
-```csharp
-[C#]
-var path1 = dataDir + "PrintDocument.pdf";
-var path2 = dataDir + "Print-PageRange.pdf";
-var path3 = dataDir + "35925_1_3.xps";
-
-Aspose.Pdf.Facades.PdfViewer.PrintDocuments(path1, path2, path3);
-
-[VisualBasic]
-Dim path1 As String = dataDir & "PrintDocument.pdf"
-Dim path2 As String = dataDir & "Print-PageRange.pdf"
-Dim path3 As String = dataDir & "35925_1_3.xps"
-
-Aspose.Pdf.Facades.PdfViewer.PrintDocuments(path1, path2, path3)
-```
-
-### See Also
-
-* class [PdfViewer](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## PrintDocuments(params Stream[]) {#printdocuments_2}
+## PrintDocuments(params Stream[]) {#printdocuments_1}
 
 Prints multiple PDF documents from the provided streams using default printer and page settings.
 
@@ -124,6 +83,47 @@ Using stream1 As Stream = File.OpenRead(dataDir & "PrintDocument.pdf"),
       stream3 As Stream = File.OpenRead(dataDir & "35925_1_3.xps")
     Aspose.Pdf.Facades.PdfViewer.PrintDocuments(stream1, stream2, stream3)
 End Using
+```
+
+### See Also
+
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PrintDocuments(params string[]) {#printdocuments_2}
+
+Prints multiple PDF documents using default printer and page settings.
+
+This method allows printing multiple PDF documents in a single print job. 
+ Ensure that the provided file paths are valid and accessible.
+
+```csharp
+public static void PrintDocuments(params string[] filePaths)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filePaths | String[] | An array of file paths representing the PDF documents to be printed. |
+
+## Examples
+
+```csharp
+[C#]
+var path1 = dataDir + "PrintDocument.pdf";
+var path2 = dataDir + "Print-PageRange.pdf";
+var path3 = dataDir + "35925_1_3.xps";
+
+Aspose.Pdf.Facades.PdfViewer.PrintDocuments(path1, path2, path3);
+
+[VisualBasic]
+Dim path1 As String = dataDir & "PrintDocument.pdf"
+Dim path2 As String = dataDir & "Print-PageRange.pdf"
+Dim path3 As String = dataDir & "35925_1_3.xps"
+
+Aspose.Pdf.Facades.PdfViewer.PrintDocuments(path1, path2, path3)
 ```
 
 ### See Also
@@ -186,58 +186,7 @@ End Using
 
 ---
 
-## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), params string[]) {#printdocuments_4}
-
-Prints multiple PDF documents using the specified printer settings.
-
-This method allows printing multiple PDF documents in a single print job. 
- Ensure that the provided file paths are valid and accessible.
-
-```csharp
-public static void PrintDocuments(PrinterSettings printerSettings, params string[] filePaths)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| printerSettings | PrinterSettings | The <see cref="T:Aspose.Pdf.Printing.PrinterSettings" /> object containing printer configuration details. |
-| filePaths | String[] | An array of file paths representing the PDF documents to be printed. |
-
-## Examples
-
-```csharp
-[C#]
-var path1 = dataDir + "PrintDocument.pdf";
-var path2 = dataDir + "Print-PageRange.pdf";
-var path3 = dataDir + "35925_1_3.xps";
-
-var printDocument = new PrintDocument();
-Aspose.Pdf.Printing.PrinterSettings printerSettings = new Aspose.Pdf.Printing.PrinterSettings();
-printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName;
-
-Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, path1, path2, path3);
-
-[VisualBasic]
-Dim path1 As String = dataDir & "PrintDocument.pdf"
-Dim path2 As String = dataDir & "Print-PageRange.pdf"
-Dim path3 As String = dataDir & "35925_1_3.xps"
-
-Dim printDocument As New PrintDocument()
-Dim printerSettings As New Aspose.Pdf.Printing.PrinterSettings()
-printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName
-
-Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, path1, path2, path3)
-```
-
-### See Also
-
-* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* class [PdfViewer](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), params Stream[]) {#printdocuments_5}
+## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), params Stream[]) {#printdocuments_4}
 
 Prints multiple PDF documents from the provided streams using the specified printer settings.
 
@@ -278,6 +227,57 @@ Using stream1 As Stream = File.OpenRead(dataDir & "PrintDocument.pdf"),
 
     Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, stream1, stream2, stream3)
 End Using
+```
+
+### See Also
+
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), params string[]) {#printdocuments_5}
+
+Prints multiple PDF documents using the specified printer settings.
+
+This method allows printing multiple PDF documents in a single print job. 
+ Ensure that the provided file paths are valid and accessible.
+
+```csharp
+public static void PrintDocuments(PrinterSettings printerSettings, params string[] filePaths)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| printerSettings | PrinterSettings | The <see cref="T:Aspose.Pdf.Printing.PrinterSettings" /> object containing printer configuration details. |
+| filePaths | String[] | An array of file paths representing the PDF documents to be printed. |
+
+## Examples
+
+```csharp
+[C#]
+var path1 = dataDir + "PrintDocument.pdf";
+var path2 = dataDir + "Print-PageRange.pdf";
+var path3 = dataDir + "35925_1_3.xps";
+
+var printDocument = new PrintDocument();
+Aspose.Pdf.Printing.PrinterSettings printerSettings = new Aspose.Pdf.Printing.PrinterSettings();
+printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName;
+
+Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, path1, path2, path3);
+
+[VisualBasic]
+Dim path1 As String = dataDir & "PrintDocument.pdf"
+Dim path2 As String = dataDir & "Print-PageRange.pdf"
+Dim path3 As String = dataDir & "35925_1_3.xps"
+
+Dim printDocument As New PrintDocument()
+Dim printerSettings As New Aspose.Pdf.Printing.PrinterSettings()
+printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName
+
+Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, path1, path2, path3)
 ```
 
 ### See Also
@@ -352,69 +352,7 @@ End Using
 
 ---
 
-## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), [PageSettings](../../../aspose.pdf.printing/pagesettings/), params string[]) {#printdocuments_7}
-
-Prints multiple PDF documents using the specified printer and page settings.
-
-This method allows printing multiple PDF documents in a single print job. 
- Ensure that the provided file paths are valid and accessible.
-
-```csharp
-public static void PrintDocuments(PrinterSettings printerSettings, PageSettings pageSettings, 
-    params string[] filePaths)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| printerSettings | PrinterSettings | The <see cref="T:Aspose.Pdf.Printing.PrinterSettings" /> object containing printer configuration details. |
-| pageSettings | PageSettings | The <see cref="T:Aspose.Pdf.Printing.PageSettings" /> object specifying page layout and settings. |
-| filePaths | String[] | An array of file paths representing the PDF documents to be printed. |
-
-## Examples
-
-```csharp
-[C#]
-var path1 = dataDir + "PrintDocument.pdf";
-var path2 = dataDir + "Print-PageRange.pdf";
-var path3 = dataDir + "35925_1_3.xps";
-
-var printDocument = new PrintDocument();
-Aspose.Pdf.Printing.PrinterSettings printerSettings = new Aspose.Pdf.Printing.PrinterSettings();
-printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName;
-
-Aspose.Pdf.Printing.PageSettings pageSettings = new Aspose.Pdf.Printing.PageSettings();
-pageSettings.PaperSize = Aspose.Pdf.Printing.PaperSizes.A4;
-pageSettings.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
-
-Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, path1, path2, path3);
-
-[VisualBasic]
-Dim path1 As String = dataDir & "PrintDocument.pdf"
-Dim path2 As String = dataDir & "Print-PageRange.pdf"
-Dim path3 As String = dataDir & "35925_1_3.xps"
-
-Dim printDocument As New PrintDocument()
-Dim printerSettings As New Aspose.Pdf.Printing.PrinterSettings()
-printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName
-
-Dim pageSettings As New Aspose.Pdf.Printing.PageSettings()
-pageSettings.PaperSize = Aspose.Pdf.Printing.PaperSizes.A4
-pageSettings.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
-
-Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, path1, path2, path3)
-```
-
-### See Also
-
-* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
-* class [PdfViewer](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), [PageSettings](../../../aspose.pdf.printing/pagesettings/), params Stream[]) {#printdocuments_8}
+## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), [PageSettings](../../../aspose.pdf.printing/pagesettings/), params Stream[]) {#printdocuments_7}
 
 Prints multiple PDF documents from the provided streams using the specified printer and page settings.
 
@@ -465,6 +403,68 @@ Using stream1 As Stream = File.OpenRead(dataDir & "PrintDocument.pdf"),
 
     Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, stream1, stream2, stream3)
 End Using
+```
+
+### See Also
+
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), [PageSettings](../../../aspose.pdf.printing/pagesettings/), params string[]) {#printdocuments_8}
+
+Prints multiple PDF documents using the specified printer and page settings.
+
+This method allows printing multiple PDF documents in a single print job. 
+ Ensure that the provided file paths are valid and accessible.
+
+```csharp
+public static void PrintDocuments(PrinterSettings printerSettings, PageSettings pageSettings, 
+    params string[] filePaths)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| printerSettings | PrinterSettings | The <see cref="T:Aspose.Pdf.Printing.PrinterSettings" /> object containing printer configuration details. |
+| pageSettings | PageSettings | The <see cref="T:Aspose.Pdf.Printing.PageSettings" /> object specifying page layout and settings. |
+| filePaths | String[] | An array of file paths representing the PDF documents to be printed. |
+
+## Examples
+
+```csharp
+[C#]
+var path1 = dataDir + "PrintDocument.pdf";
+var path2 = dataDir + "Print-PageRange.pdf";
+var path3 = dataDir + "35925_1_3.xps";
+
+var printDocument = new PrintDocument();
+Aspose.Pdf.Printing.PrinterSettings printerSettings = new Aspose.Pdf.Printing.PrinterSettings();
+printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName;
+
+Aspose.Pdf.Printing.PageSettings pageSettings = new Aspose.Pdf.Printing.PageSettings();
+pageSettings.PaperSize = Aspose.Pdf.Printing.PaperSizes.A4;
+pageSettings.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
+
+Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, path1, path2, path3);
+
+[VisualBasic]
+Dim path1 As String = dataDir & "PrintDocument.pdf"
+Dim path2 As String = dataDir & "Print-PageRange.pdf"
+Dim path3 As String = dataDir & "35925_1_3.xps"
+
+Dim printDocument As New PrintDocument()
+Dim printerSettings As New Aspose.Pdf.Printing.PrinterSettings()
+printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName
+
+Dim pageSettings As New Aspose.Pdf.Printing.PageSettings()
+pageSettings.PaperSize = Aspose.Pdf.Printing.PaperSizes.A4
+pageSettings.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
+
+Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, path1, path2, path3)
 ```
 
 ### See Also

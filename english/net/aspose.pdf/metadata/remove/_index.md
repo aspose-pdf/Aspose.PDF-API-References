@@ -9,31 +9,7 @@ weight: 110
 url: "/net/aspose.pdf/metadata/remove/"
 product_version: "26.9.0"
 ---
-## Remove(string) {#remove}
-
-Removes entry from metadata.
-
-```csharp
-public bool Remove(string key)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | String | The key of entry to remove. |
-
-### Return Value
-
-True - if key removed; otherwise, false.
-
-### See Also
-
-* class [Metadata](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Remove(KeyValuePair<string, XmpValue>) {#remove_1}
+## Remove(KeyValuePair<string, XmpValue>) {#remove}
 
 Removes key/value pair from the colleciton.
 
@@ -48,6 +24,30 @@ public bool Remove(KeyValuePair<string, XmpValue> item)
 ### Return Value
 
 true if pair was found and removed.
+
+### See Also
+
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Remove(string) {#remove_1}
+
+Removes entry from metadata.
+
+```csharp
+public bool Remove(string key)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | String | The key of entry to remove. |
+
+### Return Value
+
+True - if key removed; otherwise, false.
 
 ### See Also
 

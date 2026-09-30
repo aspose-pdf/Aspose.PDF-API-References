@@ -9,7 +9,28 @@ weight: 30
 url: "/net/aspose.pdf.annotations/appearancedictionary/copyto/"
 product_version: "26.9.0"
 ---
-## CopyTo(XForm[], int) {#copyto}
+## CopyTo(KeyValuePair<string, XForm>[], int) {#copyto}
+
+
+
+```csharp
+public void CopyTo(KeyValuePair<string, XForm>[] array, int arrayIndex)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| array | KeyValuePair`2[] |  |
+| arrayIndex | Int32 |  |
+
+### See Also
+
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## CopyTo(XForm[], int) {#copyto_1}
 
 Copies the elements of the dictionary to an Array, starting at a particular Array index.
 
@@ -25,27 +46,6 @@ public void CopyTo(XForm[] array, int index)
 ### See Also
 
 * class [XForm](../../../aspose.pdf/xform/)
-* class [AppearanceDictionary](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## CopyTo(KeyValuePair<string, XForm>[], int) {#copyto_1}
-
-
-
-```csharp
-public void CopyTo(KeyValuePair<string, XForm>[] array, int arrayIndex)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | KeyValuePair`2[] |  |
-| arrayIndex | Int32 |  |
-
-### See Also
-
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

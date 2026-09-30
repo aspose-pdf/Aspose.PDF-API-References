@@ -34,33 +34,7 @@ Document object
 
 ---
 
-## OpenStream(Stream, string) {#openstream_1}
-
-Initialize and return new Document instance from the *input* stream.
-
-```csharp
-public Document OpenStream(Stream input, string password)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | Stream | Input stream object, corresponding pdf is password protected. |
-| password | String | User or owner password. |
-
-### Return Value
-
-Document object
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [ComHelper](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## OpenStream(Stream, bool) {#openstream_2}
+## OpenStream(Stream, bool) {#openstream_1}
 
 Initialize and return new Document instance from the *input* stream.
 
@@ -86,34 +60,7 @@ Document object
 
 ---
 
-## OpenStream(Stream, string, bool) {#openstream_3}
-
-Initialize and return new Document instance from the *input* stream.
-
-```csharp
-public Document OpenStream(Stream input, string password, bool isManagedStream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | Stream | Stream with pdf document. |
-| password | String | User or owner password. |
-| isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
-
-### Return Value
-
-Document object
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [ComHelper](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## OpenStream(Stream, [LoadOptions](../../../aspose.pdf/loadoptions/)) {#openstream_4}
+## OpenStream(Stream, [LoadOptions](../../../aspose.pdf/loadoptions/)) {#openstream_2}
 
 Open and return an existing document from a stream providing necessary converting to get pdf document.
 
@@ -134,6 +81,59 @@ Document object
 
 * class [Document](../../../aspose.pdf/document/)
 * class [LoadOptions](../../../aspose.pdf/loadoptions/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## OpenStream(Stream, string) {#openstream_3}
+
+Initialize and return new Document instance from the *input* stream.
+
+```csharp
+public Document OpenStream(Stream input, string password)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Stream | Input stream object, corresponding pdf is password protected. |
+| password | String | User or owner password. |
+
+### Return Value
+
+Document object
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## OpenStream(Stream, string, bool) {#openstream_4}
+
+Initialize and return new Document instance from the *input* stream.
+
+```csharp
+public Document OpenStream(Stream input, string password, bool isManagedStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Stream | Stream with pdf document. |
+| password | String | User or owner password. |
+| isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
+
+### Return Value
+
+Document object
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
 * class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

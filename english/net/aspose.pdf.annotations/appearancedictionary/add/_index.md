@@ -9,7 +9,27 @@ weight: 40
 url: "/net/aspose.pdf.annotations/appearancedictionary/add/"
 product_version: "26.9.0"
 ---
-## Add(string, [XForm](../../../aspose.pdf/xform/)) {#add}
+## Add(KeyValuePair<string, XForm>) {#add}
+
+Adds pair with key and value into the dictionary.
+
+```csharp
+public void Add(KeyValuePair<string, XForm> item)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| item | KeyValuePair`2 | Item to be added. |
+
+### See Also
+
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Add(string, [XForm](../../../aspose.pdf/xform/)) {#add_1}
 
 Add X form for specifed key.
 
@@ -25,26 +45,6 @@ public void Add(string key, XForm value)
 ### See Also
 
 * class [XForm](../../../aspose.pdf/xform/)
-* class [AppearanceDictionary](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Add(KeyValuePair<string, XForm>) {#add_1}
-
-Adds pair with key and value into the dictionary.
-
-```csharp
-public void Add(KeyValuePair<string, XForm> item)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | KeyValuePair`2 | Item to be added. |
-
-### See Also
-
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

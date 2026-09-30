@@ -9,32 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/pagecollection/add/"
 product_version: "26.9.0"
 ---
-## Add([Page](../../../aspose.pdf/page/)) {#add}
-
-Adds page to collection.
-
-```csharp
-public Page Add(Page entity)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| entity | Page | Page which should be added. |
-
-### Return Value
-
-Added page.
-
-### See Also
-
-* class [Page](../../../aspose.pdf/page/)
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Add() {#add_1}
+## Add() {#add}
 
 Adds an empty page.
  If the document already contains pages with varying sizes,
@@ -58,7 +33,7 @@ Added page.
 
 ---
 
-## Add(ICollection<Page>) {#add_2}
+## Add(ICollection<Page>) {#add_1}
 
 Adds to collection all pages from list.
 
@@ -72,6 +47,31 @@ public void Add(ICollection<Page> pages)
 
 ### See Also
 
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Add([Page](../../../aspose.pdf/page/)) {#add_2}
+
+Adds page to collection.
+
+```csharp
+public Page Add(Page entity)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| entity | Page | Page which should be added. |
+
+### Return Value
+
+Added page.
+
+### See Also
+
+* class [Page](../../../aspose.pdf/page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

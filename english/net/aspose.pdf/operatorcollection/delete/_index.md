@@ -9,7 +9,39 @@ weight: 50
 url: "/net/aspose.pdf/operatorcollection/delete/"
 product_version: "26.9.0"
 ---
-## Delete(int) {#delete}
+## Delete(IList<Operator>) {#delete}
+
+Deletes operators from collection.
+
+```csharp
+public void Delete(IList<Operator> list)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| list | IList`1 | The list of operators to delete |
+
+## Examples
+
+Example demonstrates how to remove operator from page contents.
+
+```csharp
+Document doc = new Document("input.pdf");
+OperatorCollection oc = doc.Pages[1].Contents;
+List<Operator> opList = new List<Operator>();
+opList.Add(oc[1]);
+oc.Delete(opList);
+```
+
+### See Also
+
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Delete(int) {#delete_1}
 
 Deletes operator from collection.
 
@@ -39,7 +71,7 @@ oc.Delete(3);
 
 ---
 
-## Delete(Operator[]) {#delete_1}
+## Delete(Operator[]) {#delete_2}
 
 Deletes operators from collection.
 
@@ -64,38 +96,6 @@ oc.Delete(new Operator[] { oc[1] } );
 ### See Also
 
 * class [Operator](../../../aspose.pdf/operator/)
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Delete(IList<Operator>) {#delete_2}
-
-Deletes operators from collection.
-
-```csharp
-public void Delete(IList<Operator> list)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| list | IList`1 | The list of operators to delete |
-
-## Examples
-
-Example demonstrates how to remove operator from page contents.
-
-```csharp
-Document doc = new Document("input.pdf");
-OperatorCollection oc = doc.Pages[1].Contents;
-List<Operator> opList = new List<Operator>();
-opList.Add(oc[1]);
-oc.Delete(opList);
-```
-
-### See Also
-
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

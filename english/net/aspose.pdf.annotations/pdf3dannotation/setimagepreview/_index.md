@@ -9,27 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.annotations/pdf3dannotation/setimagepreview/"
 product_version: "26.9.0"
 ---
-## SetImagePreview(string) {#setimagepreview}
-
-Sets the image preview.
-
-```csharp
-public void SetImagePreview(string filename)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filename | String | The image preview filename. |
-
-### See Also
-
-* class [PDF3DAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SetImagePreview(Stream) {#setimagepreview_1}
+## SetImagePreview(Stream) {#setimagepreview}
 
 Sets the image preview.
 
@@ -40,6 +20,26 @@ public void SetImagePreview(Stream image)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | image | Stream | The image stream. |
+
+### See Also
+
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SetImagePreview(string) {#setimagepreview_1}
+
+Sets the image preview.
+
+```csharp
+public void SetImagePreview(string filename)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | String | The image preview filename. |
 
 ### See Also
 

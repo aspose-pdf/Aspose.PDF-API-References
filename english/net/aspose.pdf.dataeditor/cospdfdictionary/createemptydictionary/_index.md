@@ -9,38 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/createemptydictionary/"
 product_version: "26.9.0"
 ---
-## CreateEmptyDictionary([Page](../../../aspose.pdf/page/)) {#createemptydictionary}
-
-Creates an empty dictionary that will be attached to the page.
-
-```csharp
-public static CosPdfDictionary CreateEmptyDictionary(Page page)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Result dictionary will be attached to this page. |
-
-### Return Value
-
-An empty dictionary.
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | The page is null. |
-
-### See Also
-
-* class [CosPdfDictionary](../../../aspose.pdf.dataeditor/cospdfdictionary/)
-* class [Page](../../../aspose.pdf/page/)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## CreateEmptyDictionary([Document](../../../aspose.pdf/document/)) {#createemptydictionary_1}
+## CreateEmptyDictionary([Document](../../../aspose.pdf/document/)) {#createemptydictionary}
 
 Creates an empty dictionary that will be attached to the document.
 
@@ -66,6 +35,37 @@ An empty dictionary.
 
 * class [CosPdfDictionary](../../../aspose.pdf.dataeditor/cospdfdictionary/)
 * class [Document](../../../aspose.pdf/document/)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## CreateEmptyDictionary([Page](../../../aspose.pdf/page/)) {#createemptydictionary_1}
+
+Creates an empty dictionary that will be attached to the page.
+
+```csharp
+public static CosPdfDictionary CreateEmptyDictionary(Page page)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | Result dictionary will be attached to this page. |
+
+### Return Value
+
+An empty dictionary.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | The page is null. |
+
+### See Also
+
+* class [CosPdfDictionary](../../../aspose.pdf.dataeditor/cospdfdictionary/)
+* class [Page](../../../aspose.pdf/page/)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 

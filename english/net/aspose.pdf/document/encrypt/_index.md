@@ -64,7 +64,35 @@ public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege
 
 ---
 
-## Encrypt(string, string, [Permissions](../../../aspose.pdf/permissions/), [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)) {#encrypt_2}
+## Encrypt(string, string, [Permissions](../../../aspose.pdf/permissions/), [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)) {#encrypt_2}
+
+Encrypts the document.
+
+This method prepares for encryption. To encrypt a document, you need to call the Save method to save it.
+
+```csharp
+public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
+    CryptoAlgorithm cryptoAlgorithm)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| userPassword | String | User password. |
+| ownerPassword | String | Owner password. |
+| permissions | Permissions | Document permissions, see <see cref="P:Aspose.Pdf.Document.Permissions" /> for details. |
+| cryptoAlgorithm | CryptoAlgorithm | Cryptographic algorithm, see <see cref="P:Aspose.Pdf.Document.CryptoAlgorithm" /> for details. |
+
+### See Also
+
+* enum [Permissions](../../../aspose.pdf/permissions/)
+* enum [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Encrypt(string, string, [Permissions](../../../aspose.pdf/permissions/), [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)) {#encrypt_3}
 
 Encrypts the document.
 
@@ -92,7 +120,7 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 
 ---
 
-## Encrypt(string, string, [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/), [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/), bool) {#encrypt_3}
+## Encrypt(string, string, [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/), [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/), bool) {#encrypt_4}
 
 Encrypts the document.
 
@@ -114,34 +142,6 @@ public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege
 ### See Also
 
 * class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* enum [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Encrypt(string, string, [Permissions](../../../aspose.pdf/permissions/), [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)) {#encrypt_4}
-
-Encrypts the document.
-
-This method prepares for encryption. To encrypt a document, you need to call the Save method to save it.
-
-```csharp
-public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
-    CryptoAlgorithm cryptoAlgorithm)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| userPassword | String | User password. |
-| ownerPassword | String | Owner password. |
-| permissions | Permissions | Document permissions, see <see cref="P:Aspose.Pdf.Document.Permissions" /> for details. |
-| cryptoAlgorithm | CryptoAlgorithm | Cryptographic algorithm, see <see cref="P:Aspose.Pdf.Document.CryptoAlgorithm" /> for details. |
-
-### See Also
-
-* enum [Permissions](../../../aspose.pdf/permissions/)
 * enum [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)

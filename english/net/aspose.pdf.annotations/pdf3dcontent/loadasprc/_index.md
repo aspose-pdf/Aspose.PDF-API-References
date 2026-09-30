@@ -9,17 +9,17 @@ weight: 40
 url: "/net/aspose.pdf.annotations/pdf3dcontent/loadasprc/"
 product_version: "26.9.0"
 ---
-## LoadAsPRC(string) {#loadasprc}
+## LoadAsPRC(byte[]) {#loadasprc}
 
-Loads 3D content with the specified filename as PRC format.
+Loads 3D content from byte array as PRC format.
 
 ```csharp
-public void LoadAsPRC(string filename)
+public void LoadAsPRC(byte[] stream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | String | The filename. |
+| stream | Byte[] | The stream. |
 
 ### See Also
 
@@ -49,17 +49,17 @@ public void LoadAsPRC(Stream stream)
 
 ---
 
-## LoadAsPRC(byte[]) {#loadasprc_2}
+## LoadAsPRC(string) {#loadasprc_2}
 
-Loads 3D content from byte array as PRC format.
+Loads 3D content with the specified filename as PRC format.
 
 ```csharp
-public void LoadAsPRC(byte[] stream)
+public void LoadAsPRC(string filename)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | Byte[] | The stream. |
+| filename | String | The filename. |
 
 ### See Also
 

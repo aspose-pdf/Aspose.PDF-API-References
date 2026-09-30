@@ -9,65 +9,7 @@ weight: 470
 url: "/net/aspose.pdf.facades/pdfcontenteditor/replacetext/"
 product_version: "26.9.0"
 ---
-## ReplaceText(string, int, string, [TextState](../../../aspose.pdf.text/textstate/)) {#replacetext}
-
-Replaces text in the PDF file on the specified page. [`TextState`](../../../aspose.pdf.text/textstate/) object (font family, color) can be specified to replaced text.
-
-```csharp
-public bool ReplaceText(string srcString, int thePage, string destString, TextState textState)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| srcString | String | The string to be replaced. |
-| thePage | Int32 | Page number (0 means "all pages"). |
-| destString | String | The replaced string. |
-| textState | TextState | Text state (Text Color, Font etc). |
-
-### Return Value
-
-Returns true if replacement was made.
-
-## Examples
-
-The example demonstrates how to replace text on the first page of the PDF document and set [`TextState`](../../../aspose.pdf.text/textstate/) text properties for the new text.
-
-```csharp
-// open document
-Document doc = new Document(inFile);
-
-// Create font and mark it to be embedded
-Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
-font.IsEmbedded = true;
-
-// create PdfContentEditor object to edit text
-PdfContentEditor editor = new PdfContentEditor();
-editor.BindPdf(doc);
-
-// create textState object
-TextState textState = new TextState();
-textState.Font = font;
-textState.FontSize = 17;
-textState.FontStyle = FontStyle.Bold | FontStyle.Italic;
-textState.ForegroundColor = Color.Red;
-
-// change text with specified font
-editor.ReplaceText("hello world", 1, "hi world", textState);
-
-// save document
-doc.Save(outFile);
-```
-
-### See Also
-
-* class [TextState](../../../aspose.pdf.text/textstate/)
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## ReplaceText(string, string) {#replacetext_1}
+## ReplaceText(string, string) {#replacetext}
 
 Replaces text in the PDF file.
 
@@ -111,7 +53,7 @@ doc.Save(outFile);
 
 ---
 
-## ReplaceText(string, int, string) {#replacetext_2}
+## ReplaceText(string, int, string) {#replacetext_1}
 
 Replaces text in the PDF file on the specified page.
 
@@ -143,6 +85,55 @@ editor.BindPdf(doc);
 
 // change text 
 editor.ReplaceText("hello world", 1, "hi world");
+
+// save document
+doc.Save(outFile);
+```
+
+### See Also
+
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ReplaceText(string, string, int) {#replacetext_2}
+
+Replaces text in the PDF file and sets font size.
+
+```csharp
+public bool ReplaceText(string srcString, string destString, int fontSize)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| srcString | String | String to be replaced. |
+| destString | String | Replacing string. |
+| fontSize | Int32 | Font size. |
+
+### Return Value
+
+Returns true if replacement was made.
+
+## Examples
+
+The example demonstrates how to replace text and set font size for the new text.
+
+```csharp
+// open document
+Document doc = new Document(inFile);
+
+// Create font and mark it to be embedded
+Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
+font.IsEmbedded = true;
+
+// create PdfContentEditor object to edit text
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf(doc);
+
+// change text with specified font
+editor.ReplaceText("hello world", "hi world", 14);
 
 // save document
 doc.Save(outFile);
@@ -211,19 +202,20 @@ doc.Save(outFile);
 
 ---
 
-## ReplaceText(string, string, int) {#replacetext_4}
+## ReplaceText(string, int, string, [TextState](../../../aspose.pdf.text/textstate/)) {#replacetext_4}
 
-Replaces text in the PDF file and sets font size.
+Replaces text in the PDF file on the specified page. [`TextState`](../../../aspose.pdf.text/textstate/) object (font family, color) can be specified to replaced text.
 
 ```csharp
-public bool ReplaceText(string srcString, string destString, int fontSize)
+public bool ReplaceText(string srcString, int thePage, string destString, TextState textState)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcString | String | String to be replaced. |
-| destString | String | Replacing string. |
-| fontSize | Int32 | Font size. |
+| srcString | String | The string to be replaced. |
+| thePage | Int32 | Page number (0 means "all pages"). |
+| destString | String | The replaced string. |
+| textState | TextState | Text state (Text Color, Font etc). |
 
 ### Return Value
 
@@ -231,7 +223,7 @@ Returns true if replacement was made.
 
 ## Examples
 
-The example demonstrates how to replace text and set font size for the new text.
+The example demonstrates how to replace text on the first page of the PDF document and set [`TextState`](../../../aspose.pdf.text/textstate/) text properties for the new text.
 
 ```csharp
 // open document
@@ -245,8 +237,15 @@ font.IsEmbedded = true;
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
+// create textState object
+TextState textState = new TextState();
+textState.Font = font;
+textState.FontSize = 17;
+textState.FontStyle = FontStyle.Bold | FontStyle.Italic;
+textState.ForegroundColor = Color.Red;
+
 // change text with specified font
-editor.ReplaceText("hello world", "hi world", 14);
+editor.ReplaceText("hello world", 1, "hi world", textState);
 
 // save document
 doc.Save(outFile);
@@ -254,6 +253,7 @@ doc.Save(outFile);
 
 ### See Also
 
+* class [TextState](../../../aspose.pdf.text/textstate/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,31 @@ weight: 110
 url: "/net/aspose.pdf.facades/pdfextractor/getnextimage/"
 product_version: "26.9.0"
 ---
-## GetNextImage(string) {#getnextimage}
+## GetNextImage(Stream) {#getnextimage}
+
+Retrieve next image from PDF file and stores it into stream.
+
+```csharp
+public bool GetNextImage(Stream outputStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputStream | Stream | Stream where image data will be saved |
+
+### Return Value
+
+True in case the image is successfully extracted.
+
+### See Also
+
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## GetNextImage(string) {#getnextimage_1}
 
 Retrieves next image from PDF document. Note: ExtractImage must be called before using of this method.
 
@@ -46,32 +70,6 @@ while (extractor.HasNextImage())
 
 ---
 
-## GetNextImage(string, [ImageFormat](../../../aspose.pdf.drawing/imageformat/)) {#getnextimage_1}
-
-Retrieves next image from PDF document with given image format. Note: ExtractImage must be called before using of this method.
-
-```csharp
-public bool GetNextImage(string outputFile, ImageFormat format)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputFile | String | File where image will be stored |
-| format | ImageFormat | The format of the image. |
-
-### Return Value
-
-True is image is successfully extracted
-
-### See Also
-
-* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## GetNextImage(Stream, [ImageFormat](../../../aspose.pdf.drawing/imageformat/)) {#getnextimage_2}
 
 Retrieve next image from PDF file and stores it into stream with given image format.
@@ -98,24 +96,26 @@ True in case the image is successfully extracted.
 
 ---
 
-## GetNextImage(Stream) {#getnextimage_3}
+## GetNextImage(string, [ImageFormat](../../../aspose.pdf.drawing/imageformat/)) {#getnextimage_3}
 
-Retrieve next image from PDF file and stores it into stream.
+Retrieves next image from PDF document with given image format. Note: ExtractImage must be called before using of this method.
 
 ```csharp
-public bool GetNextImage(Stream outputStream)
+public bool GetNextImage(string outputFile, ImageFormat format)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStream | Stream | Stream where image data will be saved |
+| outputFile | String | File where image will be stored |
+| format | ImageFormat | The format of the image. |
 
 ### Return Value
 
-True in case the image is successfully extracted.
+True is image is successfully extracted
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

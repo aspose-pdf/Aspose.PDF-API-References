@@ -9,32 +9,7 @@ weight: 110
 url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/withdocument/"
 product_version: "26.9.0"
 ---
-## WithDocument([TextDocument](../../../aspose.pdf.ai/textdocument/)) {#withdocument}
-
-Adds a text document to the document collection for the summary copilot options.
-
-```csharp
-public LlamaSummaryCopilotOptions WithDocument(TextDocument textDocument)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| textDocument | TextDocument | The text document to add. |
-
-### Return Value
-
-The current instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
-
-### See Also
-
-* class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
-* class [TextDocument](../../../aspose.pdf.ai/textdocument/)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## WithDocument([PdfDocument](../../../aspose.pdf.ai/pdfdocument/)) {#withdocument_1}
+## WithDocument([PdfDocument](../../../aspose.pdf.ai/pdfdocument/)) {#withdocument}
 
 Adds a PDF document to the document collection for the summary copilot options.
 
@@ -59,7 +34,7 @@ The current instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/ll
 
 ---
 
-## WithDocument(string) {#withdocument_2}
+## WithDocument(string) {#withdocument_1}
 
 Adds a document path to the document collection for the summary copilot options.
 
@@ -78,6 +53,31 @@ The current instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/ll
 ### See Also
 
 * class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## WithDocument([TextDocument](../../../aspose.pdf.ai/textdocument/)) {#withdocument_2}
+
+Adds a text document to the document collection for the summary copilot options.
+
+```csharp
+public LlamaSummaryCopilotOptions WithDocument(TextDocument textDocument)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| textDocument | TextDocument | The text document to add. |
+
+### Return Value
+
+The current instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
+
+### See Also
+
+* class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
+* class [TextDocument](../../../aspose.pdf.ai/textdocument/)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

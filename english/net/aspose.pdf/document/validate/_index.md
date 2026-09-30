@@ -9,18 +9,17 @@ weight: 380
 url: "/net/aspose.pdf/document/validate/"
 product_version: "26.9.0"
 ---
-## Validate(string, [PdfFormat](../../../aspose.pdf/pdfformat/)) {#validate}
+## Validate([PdfFormatConversionOptions](../../../aspose.pdf/pdfformatconversionoptions/)) {#validate}
 
 Validate document into the specified file.
 
 ```csharp
-public bool Validate(string outputLogFileName, PdfFormat format)
+public bool Validate(PdfFormatConversionOptions options)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputLogFileName | String | Path to file where the comments will be stored. |
-| format | PdfFormat | The pdf format. |
+| options | PdfFormatConversionOptions | set of options for convert PDF document |
 
 ### Return Value
 
@@ -28,7 +27,7 @@ The operation result
 
 ### See Also
 
-* enum [PdfFormat](../../../aspose.pdf/pdfformat/)
+* class [PdfFormatConversionOptions](../../../aspose.pdf/pdfformatconversionoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -61,17 +60,18 @@ The operation result
 
 ---
 
-## Validate([PdfFormatConversionOptions](../../../aspose.pdf/pdfformatconversionoptions/)) {#validate_2}
+## Validate(string, [PdfFormat](../../../aspose.pdf/pdfformat/)) {#validate_2}
 
 Validate document into the specified file.
 
 ```csharp
-public bool Validate(PdfFormatConversionOptions options)
+public bool Validate(string outputLogFileName, PdfFormat format)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | PdfFormatConversionOptions | set of options for convert PDF document |
+| outputLogFileName | String | Path to file where the comments will be stored. |
+| format | PdfFormat | The pdf format. |
 
 ### Return Value
 
@@ -79,7 +79,7 @@ The operation result
 
 ### See Also
 
-* class [PdfFormatConversionOptions](../../../aspose.pdf/pdfformatconversionoptions/)
+* enum [PdfFormat](../../../aspose.pdf/pdfformat/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,27 @@ weight: 130
 url: "/net/aspose.pdf.text/textfragmentabsorber/applyforallfragments/"
 product_version: "26.9.0"
 ---
-## ApplyForAllFragments([Font](../../../aspose.pdf.text/font/)) {#applyforallfragments}
+## ApplyForAllFragments(float) {#applyforallfragments}
+
+Applies font size for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
+
+```csharp
+public void ApplyForAllFragments(float fontSize)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fontSize | Single | Font size of the text. |
+
+### See Also
+
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ApplyForAllFragments([Font](../../../aspose.pdf.text/font/)) {#applyforallfragments_1}
 
 Applies font for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
 
@@ -24,26 +44,6 @@ public void ApplyForAllFragments(Font font)
 ### See Also
 
 * class [Font](../../../aspose.pdf.text/font/)
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## ApplyForAllFragments(float) {#applyforallfragments_1}
-
-Applies font size for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
-
-```csharp
-public void ApplyForAllFragments(float fontSize)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontSize | Single | Font size of the text. |
-
-### See Also
-
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

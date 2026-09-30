@@ -9,17 +9,18 @@ weight: 20
 url: "/net/aspose.pdf.ai/openaichatcopilot/getresponseasync/"
 product_version: "26.9.0"
 ---
-## GetResponseAsync(string, CancellationToken?) {#getresponseasync}
+## GetResponseAsync(List<string>, CancellationToken?) {#getresponseasync}
 
 
 
 ```csharp
-public Task<string> GetResponseAsync(string message, CancellationToken? cancellationToken = default)
+public Task<string> GetResponseAsync(List<string> messages, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | String |  |
+| messages | List`1 |  |
 | cancellationToken | Nullable`1 |  |
 
 ### Return Value
@@ -34,18 +35,17 @@ public Task<string> GetResponseAsync(string message, CancellationToken? cancella
 
 ---
 
-## GetResponseAsync(List<string>, CancellationToken?) {#getresponseasync_1}
+## GetResponseAsync(string, CancellationToken?) {#getresponseasync_1}
 
 
 
 ```csharp
-public Task<string> GetResponseAsync(List<string> messages, 
-    CancellationToken? cancellationToken = default)
+public Task<string> GetResponseAsync(string message, CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| messages | List`1 |  |
+| message | String |  |
 | cancellationToken | Nullable`1 |  |
 
 ### Return Value

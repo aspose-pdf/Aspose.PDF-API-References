@@ -34,7 +34,34 @@ Document object
 
 ---
 
-## OpenFile(string, string) {#openfile_1}
+## OpenFile(string, [LoadOptions](../../../aspose.pdf/loadoptions/)) {#openfile_1}
+
+Open an existing document from a file providing necessary converting oprions to get pdf document.
+
+```csharp
+public Document OpenFile(string filename, LoadOptions options)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | String | Input file to convert into pdf document. |
+| options | LoadOptions | Represents properties for converting *filename* into pdf document. |
+
+### Return Value
+
+Document object
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [LoadOptions](../../../aspose.pdf/loadoptions/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## OpenFile(string, string) {#openfile_2}
 
 Initialize and return new instance of the [`Document`](../../../aspose.pdf/document/) class for working with encrypted document.
 
@@ -60,7 +87,7 @@ Document object
 
 ---
 
-## OpenFile(string, string, bool) {#openfile_2}
+## OpenFile(string, string, bool) {#openfile_3}
 
 Initialize new instance of the [`Document`](../../../aspose.pdf/document/) class for working with encrypted document.
 
@@ -81,33 +108,6 @@ Document object
 ### See Also
 
 * class [Document](../../../aspose.pdf/document/)
-* class [ComHelper](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## OpenFile(string, [LoadOptions](../../../aspose.pdf/loadoptions/)) {#openfile_3}
-
-Open an existing document from a file providing necessary converting oprions to get pdf document.
-
-```csharp
-public Document OpenFile(string filename, LoadOptions options)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filename | String | Input file to convert into pdf document. |
-| options | LoadOptions | Represents properties for converting *filename* into pdf document. |
-
-### Return Value
-
-Document object
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [LoadOptions](../../../aspose.pdf/loadoptions/)
 * class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -9,18 +9,18 @@ weight: 850
 url: "/net/aspose.pdf.facades/pdffileeditor/splittobulks/"
 product_version: "26.9.0"
 ---
-## SplitToBulks(string, int[][]) {#splittobulks}
+## SplitToBulks(Stream, int[][]) {#splittobulks}
 
 Splits the Pdf file into several documents.The documents can be single-page or multi-pages.
 
 ```csharp
-public MemoryStream[] SplitToBulks(string inputFile, int[][] numberOfPage)
+public MemoryStream[] SplitToBulks(Stream inputStream, int[][] numberOfPage)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | String | Input PDF file. |
-| numberOfPage | Int32[][] | Array which contains array of double elements, which is start and end pages of document. |
+| inputStream | Stream | Input PDF stream. |
+| numberOfPage | Int32[][] | The start page and the end page of each document. |
 
 ### Return Value
 
@@ -34,18 +34,18 @@ Output PDF streams, each stream buffers a PDF document.
 
 ---
 
-## SplitToBulks(Stream, int[][]) {#splittobulks_1}
+## SplitToBulks(string, int[][]) {#splittobulks_1}
 
 Splits the Pdf file into several documents.The documents can be single-page or multi-pages.
 
 ```csharp
-public MemoryStream[] SplitToBulks(Stream inputStream, int[][] numberOfPage)
+public MemoryStream[] SplitToBulks(string inputFile, int[][] numberOfPage)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | Input PDF stream. |
-| numberOfPage | Int32[][] | The start page and the end page of each document. |
+| inputFile | String | Input PDF file. |
+| numberOfPage | Int32[][] | Array which contains array of double elements, which is start and end pages of document. |
 
 ### Return Value
 

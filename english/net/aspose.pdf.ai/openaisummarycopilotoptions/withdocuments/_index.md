@@ -34,31 +34,7 @@ The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/o
 
 ---
 
-## WithDocuments(List<TextDocument>) {#withdocuments_1}
-
-Adds multiple text documents to the document collection for the summary copilot options.
-
-```csharp
-public OpenAISummaryCopilotOptions WithDocuments(List<TextDocument> textDocuments)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| textDocuments | List`1 | The list of text documents to add. |
-
-### Return Value
-
-The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
-
-### See Also
-
-* class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## WithDocuments(List<PdfDocument>) {#withdocuments_2}
+## WithDocuments(List<PdfDocument>) {#withdocuments_1}
 
 Adds multiple PDF documents to the document collection for the summary copilot options.
 
@@ -82,7 +58,7 @@ The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/o
 
 ---
 
-## WithDocuments(List<string>) {#withdocuments_3}
+## WithDocuments(List<string>) {#withdocuments_2}
 
 Adds multiple document paths to the document collection for the summary copilot options.
 
@@ -93,6 +69,30 @@ public OpenAISummaryCopilotOptions WithDocuments(List<string> filePaths)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | filePaths | List`1 | The list of file paths to add. |
+
+### Return Value
+
+The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
+
+### See Also
+
+* class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## WithDocuments(List<TextDocument>) {#withdocuments_3}
+
+Adds multiple text documents to the document collection for the summary copilot options.
+
+```csharp
+public OpenAISummaryCopilotOptions WithDocuments(List<TextDocument> textDocuments)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| textDocuments | List`1 | The list of text documents to add. |
 
 ### Return Value
 

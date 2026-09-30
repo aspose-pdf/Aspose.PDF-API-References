@@ -9,7 +9,28 @@ weight: 170
 url: "/net/aspose.pdf.text/textfragmentabsorber/removealltext/"
 product_version: "26.9.0"
 ---
-## RemoveAllText([Page](../../../aspose.pdf/page/)) {#removealltext}
+## RemoveAllText([Document](../../../aspose.pdf/document/)) {#removealltext}
+
+Removes all text from the document.
+
+```csharp
+public void RemoveAllText(Document document)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | PDF document object. |
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## RemoveAllText([Page](../../../aspose.pdf/page/)) {#removealltext_1}
 
 Removes all text from the specified page.
 
@@ -30,7 +51,7 @@ public void RemoveAllText(Page page)
 
 ---
 
-## RemoveAllText([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#removealltext_1}
+## RemoveAllText([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#removealltext_2}
 
 Removes text inside the specified rectangle from the specified page.
 
@@ -47,27 +68,6 @@ public void RemoveAllText(Page page, Rectangle rect)
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## RemoveAllText([Document](../../../aspose.pdf/document/)) {#removealltext_2}
-
-Removes all text from the document.
-
-```csharp
-public void RemoveAllText(Document document)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | PDF document object. |
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

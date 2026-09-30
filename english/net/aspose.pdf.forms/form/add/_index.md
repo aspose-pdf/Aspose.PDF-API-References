@@ -9,7 +9,28 @@ weight: 60
 url: "/net/aspose.pdf.forms/form/add/"
 product_version: "26.9.0"
 ---
-## Add([Field](../../../aspose.pdf.forms/field/), int) {#add}
+## Add([Field](../../../aspose.pdf.forms/field/)) {#add}
+
+Adds field on the form.
+
+```csharp
+public void Add(Field field)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| field | Field | Field which must be added. |
+
+### See Also
+
+* class [Field](../../../aspose.pdf.forms/field/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Add([Field](../../../aspose.pdf.forms/field/), int) {#add_1}
 
 Adds field on the form.
 
@@ -21,27 +42,6 @@ public void Add(Field field, int pageNumber)
 | --- | --- | --- |
 | field | Field | Field which must be added. |
 | pageNumber | Int32 | Page index where added field will be placed. |
-
-### See Also
-
-* class [Field](../../../aspose.pdf.forms/field/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Add([Field](../../../aspose.pdf.forms/field/)) {#add_1}
-
-Adds field on the form.
-
-```csharp
-public void Add(Field field)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| field | Field | Field which must be added. |
 
 ### See Also
 

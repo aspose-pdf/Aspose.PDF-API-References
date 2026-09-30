@@ -9,31 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.annotations/appearancedictionary/remove/"
 product_version: "26.9.0"
 ---
-## Remove(string) {#remove}
-
-Removes key from the dictionary.
-
-```csharp
-public bool Remove(string key)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | String | Key to be removed from the dictionary. |
-
-### Return Value
-
-true if key was successfully removed.
-
-### See Also
-
-* class [AppearanceDictionary](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Remove(KeyValuePair<string, XForm>) {#remove_1}
+## Remove(KeyValuePair<string, XForm>) {#remove}
 
 Removes key/value pair from the collection.
 
@@ -48,6 +24,30 @@ public bool Remove(KeyValuePair<string, XForm> item)
 ### Return Value
 
 true if pair was found and removed.
+
+### See Also
+
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Remove(string) {#remove_1}
+
+Removes key from the dictionary.
+
+```csharp
+public bool Remove(string key)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | String | Key to be removed from the dictionary. |
+
+### Return Value
+
+true if key was successfully removed.
 
 ### See Also
 

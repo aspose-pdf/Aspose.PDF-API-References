@@ -9,31 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.comparison/diffoperation/equals/"
 product_version: "26.9.0"
 ---
-## Equals(object) {#equals}
-
-
-
-```csharp
-public override bool Equals(object other)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| other | Object |  |
-
-### Return Value
-
-bool
-
-### See Also
-
-* class [DiffOperation](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Equals([DiffOperation](../../../aspose.pdf.comparison/diffoperation/)) {#equals_1}
+## Equals([DiffOperation](../../../aspose.pdf.comparison/diffoperation/)) {#equals}
 
 
 
@@ -52,6 +28,30 @@ bool
 ### See Also
 
 * class [DiffOperation](../../../aspose.pdf.comparison/diffoperation/)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Equals(object) {#equals_1}
+
+
+
+```csharp
+public override bool Equals(object other)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| other | Object |  |
+
+### Return Value
+
+bool
+
+### See Also
+
+* class [DiffOperation](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 

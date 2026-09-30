@@ -9,7 +9,28 @@ weight: 30
 url: "/net/aspose.pdf.forms/signaturefield/sign/"
 product_version: "26.9.0"
 ---
-## Sign([Signature](../../../aspose.pdf.lowcode/signature/), Stream, string) {#sign}
+## Sign([Signature](../../../aspose.pdf.lowcode/signature/)) {#sign}
+
+Sign the document using this signature field.
+
+```csharp
+public void Sign(Signature signature)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| signature | Signature | Signature object, see <see cref="T:Aspose.Pdf.Forms.PKCS1" />, <see cref="T:Aspose.Pdf.Forms.PKCS7" /> and <see cref="T:Aspose.Pdf.Forms.PKCS7Detached" />. |
+
+### See Also
+
+* class [Signature](../../../aspose.pdf.lowcode/signature/)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Sign([Signature](../../../aspose.pdf.lowcode/signature/), Stream, string) {#sign_1}
 
 Signs the document using this signature field.
 
@@ -22,27 +43,6 @@ public void Sign(Signature signature, Stream pfx, string pass)
 | signature | Signature | Signature object, see <see cref="T:Aspose.Pdf.Forms.PKCS1" />, <see cref="T:Aspose.Pdf.Forms.PKCS7" />, <see cref="T:Aspose.Pdf.Forms.PKCS7Detached" />. |
 | pfx | Stream | Stream with certificate. |
 | pass | String | Password to access private in the *pfx*. |
-
-### See Also
-
-* class [Signature](../../../aspose.pdf.lowcode/signature/)
-* class [SignatureField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Sign([Signature](../../../aspose.pdf.lowcode/signature/)) {#sign_1}
-
-Sign the document using this signature field.
-
-```csharp
-public void Sign(Signature signature)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| signature | Signature | Signature object, see <see cref="T:Aspose.Pdf.Forms.PKCS1" />, <see cref="T:Aspose.Pdf.Forms.PKCS7" /> and <see cref="T:Aspose.Pdf.Forms.PKCS7Detached" />. |
 
 ### See Also
 

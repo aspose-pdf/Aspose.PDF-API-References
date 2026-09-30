@@ -9,27 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.annotations/annotationcollection/delete/"
 product_version: "26.9.0"
 ---
-## Delete(int) {#delete}
-
-Deletes annotation from the collection by index.
-
-```csharp
-public void Delete(int index)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | Int32 | Index of annotation which shall be deleted. |
-
-### See Also
-
-* class [AnnotationCollection](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Delete() {#delete_1}
+## Delete() {#delete}
 
 Deletes all annotations from the collection.
 
@@ -45,7 +25,7 @@ public void Delete()
 
 ---
 
-## Delete([Annotation](../../../aspose.pdf.annotations/annotation/)) {#delete_2}
+## Delete([Annotation](../../../aspose.pdf.annotations/annotation/)) {#delete_1}
 
 Deletes specified annotation from the collection.
 
@@ -60,6 +40,26 @@ public void Delete(Annotation annotation)
 ### See Also
 
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Delete(int) {#delete_2}
+
+Deletes annotation from the collection by index.
+
+```csharp
+public void Delete(int index)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | Int32 | Index of annotation which shall be deleted. |
+
+### See Also
+
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

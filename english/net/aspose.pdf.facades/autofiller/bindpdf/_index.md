@@ -9,20 +9,21 @@ weight: 50
 url: "/net/aspose.pdf.facades/autofiller/bindpdf/"
 product_version: "26.9.0"
 ---
-## BindPdf(string) {#bindpdf}
+## BindPdf([Document](../../../aspose.pdf/document/)) {#bindpdf}
 
-Binds a Pdf file.
+Binds a Pdf document.
 
 ```csharp
-public void BindPdf(string srcFile)
+public void BindPdf(Document srcDoc)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFile | String | Pdf file name. |
+| srcDoc | Document | Pdf document. |
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [AutoFiller](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -49,21 +50,20 @@ public void BindPdf(Stream srcStream)
 
 ---
 
-## BindPdf([Document](../../../aspose.pdf/document/)) {#bindpdf_2}
+## BindPdf(string) {#bindpdf_2}
 
-Binds a Pdf document.
+Binds a Pdf file.
 
 ```csharp
-public void BindPdf(Document srcDoc)
+public void BindPdf(string srcFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcDoc | Document | Pdf document. |
+| srcFile | String | Pdf file name. |
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
 * class [AutoFiller](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
