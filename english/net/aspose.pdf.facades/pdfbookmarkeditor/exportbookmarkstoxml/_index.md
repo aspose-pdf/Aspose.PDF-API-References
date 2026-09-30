@@ -21,6 +21,14 @@ public void ExportBookmarksToXML(string xmlFile)
 | --- | --- | --- |
 | xmlFile | String | The output XML file. |
 
+## Examples
+
+```csharp
+PdfBookmarkEditor editor = new PdfBookmarkEditor();
+editor.BindPdf("example.pdf");
+editor.ExportBookmarksToXML("bookmarks.xml");
+```
+
 ### See Also
 
 * class [PdfBookmarkEditor](../)

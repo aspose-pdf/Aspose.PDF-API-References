@@ -22,6 +22,13 @@ public void AddFooter(FormattedText formattedText, float bottomMargin)
 | formattedText | FormattedText | FormattedText object which contains text of the footer and text properties. |
 | bottomMargin | Single | Margin at the top of page. |
 
+## Examples
+
+```csharp
+PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
+stamp.AddFooter(new FormattedText("Foot of the page"), 10);
+```
+
 ### See Also
 
 * class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
@@ -47,6 +54,13 @@ public void AddFooter(FormattedText formattedText, float bottomMargin, float lef
 | leftMargin | Single | Margin at the left side of the page. |
 | rightMargin | Single | Margin at the right side of the page. |
 
+## Examples
+
+```csharp
+PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
+stamp.AddFooter(new FormattedText("Foot of the page"), 10, 50, 50);
+```
+
 ### See Also
 
 * class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
@@ -68,6 +82,15 @@ public void AddFooter(string imageFile, float bottomMargin)
 | --- | --- | --- |
 | imageFile | String | Image file name and path. |
 | bottomMargin | Single | Margin at the bottom of the page. |
+
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+Stream input = new FileStream(TestSettings.GetInputFile("test.jpg"), FileMode.Open, FileAccess.Read);
+fileStamp.AddFooter("image.jpg", 50);
+fileStamp.Close();
+```
 
 ### See Also
 
@@ -92,6 +115,15 @@ public void AddFooter(string imageFile, float bottomMargin, float leftMargin, fl
 | leftMargin | Single | Margin at the left side of the page. |
 | rightMargin | Single | Margin at the right side of the page. |
 
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+Stream input = new FileStream(TestSettings.GetInputFile("test.jpg"), FileMode.Open, FileAccess.Read);
+fileStamp.AddFooter("image.jpg", 50, 100, 100);
+fileStamp.Close();
+```
+
 ### See Also
 
 * class [PdfFileStamp](../)
@@ -112,6 +144,15 @@ public void AddFooter(Stream imageStream, float bottomMargin)
 | --- | --- | --- |
 | imageStream | Stream | Stream contains image data. |
 | bottomMargin | Single | Margin at the bottom of the page. |
+
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+Stream input = new FileStream(TestSettings.GetInputFile("test.jpg"), FileMode.Open, FileAccess.Read);
+fileStamp.AddFooter(new FileStream("image.jpg", FileMode.Open, FileAccess.Read), 50);
+fileStamp.Close();
+```
 
 ### See Also
 
@@ -135,6 +176,15 @@ public void AddFooter(Stream imageStream, float bottomMargin, float leftMargin, 
 | bottomMargin | Single | Margin at the bottom of the page. |
 | leftMargin | Single | Margin at the left side of the page. |
 | rightMargin | Single | Margin at the right side of the page. |
+
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", output.pdf");
+Stream input = new FileStream(TestSettings.GetInputFile("test.jpg"), FileMode.Open, FileAccess.Read);
+fileStamp.AddFooter(new FileStream("image.jpg", FileMode.Open, FileAccess.Read), 50, 50, 50);
+fileStamp.Close();
+```
 
 ### See Also
 

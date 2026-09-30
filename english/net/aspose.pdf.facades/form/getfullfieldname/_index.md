@@ -25,6 +25,13 @@ public string GetFullFieldName(string fieldName)
 
 The full field name.
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+Console.WriteLine("Full field name is : " + form.GetFullFieldName("textField"));
+```
+
 ### See Also
 
 * class [Form](../)

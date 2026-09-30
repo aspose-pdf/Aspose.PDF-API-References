@@ -21,6 +21,16 @@ public int GetPages()
 
 Number of pages.
 
+## Examples
+
+The following example demonstrates using of GetPages() method:
+
+```csharp
+PdfPageEditor editor = new PdfPageEditor();
+editor.BindPdf("sample.pdf");
+Console.WriteLine("Document has: " + editor.GetPages());
+```
+
 ### See Also
 
 * class [PdfPageEditor](../)

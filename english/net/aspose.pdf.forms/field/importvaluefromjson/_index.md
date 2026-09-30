@@ -25,6 +25,17 @@ public bool ImportValueFromJson(Stream inputJsonStream)
 
 True if the field was found in JSON stream; otherwise - false
 
+## Examples
+
+```csharp
+Document document = new Document("PdfDoc.pdf");
+FileStream fs = new FileStream("import.json", FileMode.Open, FileAccess.Read);
+Field field = document.Form.Fields[0];
+field.ImportValueFromJson(fs);
+fs.Close();
+document.Save();
+```
+
 ### See Also
 
 * class [Field](../)
@@ -49,6 +60,17 @@ public bool ImportValueFromJson(Stream inputJsonStream, string fieldFullNameInJS
 ### Return Value
 
 True if the field was found in json file; otherwise - false
+
+## Examples
+
+```csharp
+Document document = new Document("PdfDoc.pdf");
+FileStream fs = new FileStream("import.json", FileMode.Open, FileAccess.Read);
+Field field = document.Form.Fields[0];
+field.ImportValueFromJson(fs, "GroupName.AnotherFieldName");
+fs.Close();
+document.Save();
+```
 
 ### See Also
 

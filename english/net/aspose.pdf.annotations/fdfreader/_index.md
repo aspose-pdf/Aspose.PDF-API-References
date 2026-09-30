@@ -18,6 +18,16 @@ Class which performes reading of FDF format.
 public sealed class FdfReader
 ```
 
+## Examples
+
+```csharp
+Document doc = new Document("example.pdf");
+Stream fdfStream = File.OpenRead("file.fdf");
+FdfReader.ReadAnnotations(fdfStream, doc);
+fdfStream.Close();
+doc.Save("example_out.pdf");
+```
+
 ## Methods
 
 | Name | Description |

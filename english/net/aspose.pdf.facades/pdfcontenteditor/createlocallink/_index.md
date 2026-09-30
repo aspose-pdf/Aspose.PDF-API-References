@@ -26,6 +26,17 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color
 | clr | Color | The colour of rectangle for active click. |
 | actionName | Enum[] | The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateLocalLink(new System.Drawing.Rectangle(0, 0, 100, 100),
+    2, 1, System.Drawing.Color.Red,
+    new Enum[] { PredefinedAction.FirstPage, PredefinedAction.PrintDialog });
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
@@ -51,6 +62,16 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color
 | originalPage | Int32 | The number of original page where rectangle bound with local link will be created. |
 | clr | Color | The colour of rectangle for active click. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateLocalLink(new System.Drawing.Rectangle(0, 0, 100, 100),
+    2, 1, System.Drawing.Color.Red });
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
@@ -74,6 +95,15 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage)
 | rect | Rectangle | The rectangle for active click. |
 | desPage | Int32 | The destination page. |
 | originalPage | Int32 | The number of original page where rectangle bound with local link will be created. |
+
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateLocalLink(new System.Drawing.Rectangle(0, 0, 100, 100), 2, 1});
+editor.Save("example_out.pdf");
+```
 
 ### See Also
 

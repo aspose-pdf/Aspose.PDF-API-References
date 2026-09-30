@@ -22,6 +22,15 @@ public void CreateBookmarkOfPage(string bookmarkName, int pageNumber)
 | bookmarkName | String | The specified bookmark name. |
 | pageNumber | Int32 | The specified desination page. |
 
+## Examples
+
+```csharp
+PdfBookmarkEditor editor = new PdfBookmarkEditor();
+editor.BindPdf("example.pdf");
+editor.CreateBookmarkOfPage("bookmark for page 1", 1);
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [PdfBookmarkEditor](../)
@@ -42,6 +51,15 @@ public void CreateBookmarkOfPage(string[] bookmarkName, int[] pageNumber)
 | --- | --- | --- |
 | bookmarkName | String[] | Bookmarks title array. |
 | pageNumber | Int32[] | Bookmarks desination page array. |
+
+## Examples
+
+```csharp
+PdfBookmarkEditor editor = new PdfBookmarkEditor();
+editor.BindPdf("example.pdf");
+editor.CreateBookmarkOfPage("bookmark for page 1", 1);
+editor.Save("example_out.pdf");
+```
 
 ### See Also
 

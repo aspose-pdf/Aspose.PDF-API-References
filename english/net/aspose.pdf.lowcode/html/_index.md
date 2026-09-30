@@ -18,6 +18,36 @@ Represents [`Html`](../../aspose.pdf.lowcode/html/) plugin.
 public sealed class Html : IDisposable, IPlugin
 ```
 
+## Examples
+
+The example demonstrates how to convert PDF to HTML document.
+
+```csharp
+// create Html
+var converter = new Html();
+// create PdfToHtmlOptions object to set output data type as file with embedded resources
+var opt = new PdfToHtmlOptions(PdfToHtmlOptions.SaveDataType.FileWithEmbeddedResources);
+// add input file path
+opt.AddInput(new FileDataSource(inputPath));
+// set output file path
+opt.AddOutput(new FileDataSource(outputPath));
+converter.Process(opt);
+```
+
+The example demonstrates how to convert HTML to PDF document.
+
+```csharp
+// create Html
+var converter = new Html();
+// create HtmlToPdfOptions
+var opt = new HtmlToPdfOptions();
+// add input file path
+opt.AddInput(new FileDataSource(inputPath));
+// set output file path
+opt.AddOutput(new FileDataSource(outputPath));
+converter.Process(opt);
+```
+
 ## Constructors
 
 | Name | Description |

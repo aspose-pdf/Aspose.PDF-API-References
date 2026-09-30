@@ -45,12 +45,12 @@ This sample shows how to produce Pdf stream from CGM stream.
 
 ```csharp
 string inputFile = "myImage.cgm";
- string outputFile = "myPdf.pdf";
- using (FileStream inputStream = File.OpenRead(inputFile))
- using (FileStream outputStream = File.Create(outputFile))
- {
- PdfProducer.Produce(inputStream, ImportFormat.Cgm, outputStream);
- }
+string outputFile = "myPdf.pdf";
+using (FileStream inputStream = File.OpenRead(inputFile))
+using (FileStream outputStream = File.Create(outputFile))
+{
+    PdfProducer.Produce(inputStream, ImportFormat.Cgm, outputStream);
+}
 ```
 
 ### See Also
@@ -98,11 +98,11 @@ This sample shows how to produce Pdf stream from CGM file.
 
 ```csharp
 string inputFile = "myImage.cgm";
- string outputFile = "myPdf.pdf";
- using (FileStream outputStream = File.Create(outputFile))
- {
- PdfProducer.Produce(inputFile, ImportFormat.Cgm, outputStream);
- }
+string outputFile = "myPdf.pdf";
+using (FileStream outputStream = File.Create(outputFile))
+{
+    PdfProducer.Produce(inputFile, ImportFormat.Cgm, outputStream);
+}
 ```
 
 ### See Also
@@ -151,12 +151,12 @@ This sample shows how to produce Pdf file from CGM stream.
 
 ```csharp
 string inputFile = "myImage.cgm";
- string outputFile = "myPdf.pdf";
- using (FileStream inputStream = File.OpenRead(inputFile))
- using (FileStream outputStream = File.Create(outputFile))
- {
- PdfProducer.Produce(inputStream, ImportFormat.Cgm, outputStream);
- }
+string outputFile = "myPdf.pdf";
+using (FileStream inputStream = File.OpenRead(inputFile))
+using (FileStream outputStream = File.Create(outputFile))
+{
+    PdfProducer.Produce(inputStream, ImportFormat.Cgm, outputStream);
+}
 ```
 
 ### See Also
@@ -200,8 +200,8 @@ This sample shows how to produce Pdf file from CGM file.
 
 ```csharp
 string inputFile = "myImage.cgm";
- string outputFile = "myPdf.pdf";
- PdfProducer.Produce(inputFile, ImportFormat.Cgm, outputFile);
+string outputFile = "myPdf.pdf";
+PdfProducer.Produce(inputFile, ImportFormat.Cgm, outputFile);
 ```
 
 ### See Also
@@ -250,12 +250,12 @@ This sample shows how to produce Pdf stream from CGM file.
 
 ```csharp
 string inputFile = "myImage.cgm";
- string outputFile = "myPdf.pdf";
- ImportOptions importOptions = new CgmImportOptions();
- using (FileStream outputStream = File.Create(outputFile))
- {
- PdfProducer.Produce(inputFile, importOptions, outputStream);
- }
+string outputFile = "myPdf.pdf";
+ImportOptions importOptions = new CgmImportOptions();
+using (FileStream outputStream = File.Create(outputFile))
+{
+    PdfProducer.Produce(inputFile, importOptions, outputStream);
+}
 ```
 
 ### See Also
@@ -304,12 +304,12 @@ This sample shows how to produce Pdf file from CGM stream.
 
 ```csharp
 string inputFile = "myImage.cgm";
- string outputFile = "myPdf.pdf";
- ImportOptions importOptions = new CgmImportOptions();
- using (FileStream inputStream = File.OpenRead(inputFile))
- {
- PdfProducer.Produce(inputStream, importOptions, outputFile);
- }
+string outputFile = "myPdf.pdf";
+ImportOptions importOptions = new CgmImportOptions();
+using (FileStream inputStream = File.OpenRead(inputFile))
+{
+    PdfProducer.Produce(inputStream, importOptions, outputFile);
+}
 ```
 
 ### See Also
@@ -354,9 +354,9 @@ This sample shows how to produce Pdf file from CGM file.
 
 ```csharp
 string inputFile = "myImage.cgm";
- string outputFile = "myPdf.pdf";
- ImportOptions importOptions = new CgmImportOptions();
- PdfProducer.Produce(inputStream, importOptions, outputStream);
+string outputFile = "myPdf.pdf";
+ImportOptions importOptions = new CgmImportOptions();
+PdfProducer.Produce(inputStream, importOptions, outputStream);
 ```
 
 ### See Also
@@ -405,13 +405,13 @@ This sample shows how to produce Pdf stream from CGM stream.
 
 ```csharp
 string inputFile = "myImage.cgm";
- string outputFile = "myPdf.pdf";
- ImportOptions importOptions = new CgmImportOptions();
- using (FileStream inputStream = File.OpenRead(inputFile))
- using (FileStream outputStream = File.Create(outputFile))
- {
- PdfProducer.Produce(inputStream, importOptions, outputStream);
- }
+string outputFile = "myPdf.pdf";
+ImportOptions importOptions = new CgmImportOptions();
+using (FileStream inputStream = File.OpenRead(inputFile))
+using (FileStream outputStream = File.Create(outputFile))
+{
+    PdfProducer.Produce(inputStream, importOptions, outputStream);
+}
 ```
 
 ### See Also

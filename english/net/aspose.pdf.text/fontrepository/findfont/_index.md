@@ -25,6 +25,30 @@ public static Font FindFont(string fontName)
 
 Font object.
 
+## Examples
+
+The example demonstrates how to find font and replace the font of text of first page.
+
+```csharp
+// Find font
+Font font = FontRepository.FindFont("Arial");
+
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+// Accept the absorber for first page
+doc.Pages[1].Accept(absorber);
+
+// Change font of the first text occurrence
+absorber.TextFragments[1].TextState.Font = font;
+
+// Save document
+doc.Save(@"D:\Tests\output.pdf");
+```
+
 ### See Also
 
 * class [Font](../../../aspose.pdf.text/font/)
@@ -51,6 +75,30 @@ public static Font FindFont(string fontName, bool ignoreCase)
 
 Font object.
 
+## Examples
+
+The example demonstrates how to find font and replace the font of text of first page.
+
+```csharp
+// Find font
+Font font = FontRepository.FindFont("Arial");
+
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+// Accept the absorber for first page
+doc.Pages[1].Accept(absorber);
+
+// Change font of the first text occurrence
+absorber.TextFragments[1].TextState.Font = font;
+
+// Save document
+doc.Save(@"D:\Tests\output.pdf");
+```
+
 ### See Also
 
 * class [Font](../../../aspose.pdf.text/font/)
@@ -76,6 +124,30 @@ public static Font FindFont(string fontFamilyName, FontStyles stl)
 ### Return Value
 
 Font object corresponding to search request parameters.
+
+## Examples
+
+The example demonstrates how to find font and replace the font of text of first page.
+
+```csharp
+// Find font
+Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
+
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Create TextFragmentAbsorber object to find all "hello world" text occurences
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+// Accept the absorber for first page
+doc.Pages[1].Accept(absorber);
+
+// Change font of the first text occurence
+absorber.TextFragments[1].TextState.Font = font;
+
+// Save document
+doc.Save(@"D:\Tests\output.pdf");
+```
 
 ### See Also
 
@@ -105,6 +177,30 @@ public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCa
 ### Return Value
 
 Font object corresponding to search request parameters.
+
+## Examples
+
+The example demonstrates how to find font and replace the font of text of first page.
+
+```csharp
+// Find font
+Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
+
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Create TextFragmentAbsorber object to find all "hello world" text occurences
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+// Accept the absorber for first page
+doc.Pages[1].Accept(absorber);
+
+// Change font of the first text occurence
+absorber.TextFragments[1].TextState.Font = font;
+
+// Save document
+doc.Save(@"D:\Tests\output.pdf");
+```
 
 ### See Also
 

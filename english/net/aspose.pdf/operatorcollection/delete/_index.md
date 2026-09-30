@@ -21,6 +21,16 @@ public void Delete(int index)
 | --- | --- | --- |
 | index | Int32 | Index of operator which must be deleted. Operators numbering starts from 1. |
 
+## Examples
+
+Example demonstrates how to delete operator by its index.
+
+```csharp
+Document doc = new Document("input.pdf");
+OperatorCollection oc = doc.Pages[1].Contents;
+oc.Delete(3);
+```
+
 ### See Also
 
 * class [OperatorCollection](../)
@@ -40,6 +50,16 @@ public void Delete(Operator[] ops)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | ops | Operator[] | Array of operators to delete |
+
+## Examples
+
+Example demonstrates how to remove operator from page contents.
+
+```csharp
+Document doc = new Document("input.pdf");
+OperatorCollection oc = doc.Pages[1].Contents;
+oc.Delete(new Operator[] { oc[1] } );
+```
 
 ### See Also
 
@@ -61,6 +81,18 @@ public void Delete(IList<Operator> list)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | list | IList`1 | The list of operators to delete |
+
+## Examples
+
+Example demonstrates how to remove operator from page contents.
+
+```csharp
+Document doc = new Document("input.pdf");
+OperatorCollection oc = doc.Pages[1].Contents;
+List<Operator> opList = new List<Operator>();
+opList.Add(oc[1]);
+oc.Delete(opList);
+```
 
 ### See Also
 

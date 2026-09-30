@@ -22,6 +22,14 @@ public void AddPageNumber(string formatString)
 | --- | --- | --- |
 | formatString | String | Text of page number |
 
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+fileStamp.AddPageNumber("Page #");
+fileStamp.Close();
+```
+
 ### See Also
 
 * class [PdfFileStamp](../)
@@ -42,6 +50,14 @@ public void AddPageNumber(FormattedText formattedText)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | formattedText | FormattedText | Format string for page number representes as FormattedText. |
+
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+fileStamp.AddPageNumber(new FormattedText("Page #"));
+fileStamp.Close();
+```
 
 ### See Also
 
@@ -74,6 +90,14 @@ public void AddPageNumber(string formatString, int position, float leftMargin, f
 | topMargin | Single | Margin on the top edge of the page. |
 | bottomMargin | Single | Margin on the bottom edge of the page. |
 
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+fileStamp.AddPageNumber("Page #", PdfFileStamp.PosBottomLeft, 100, 100, 200, 200);
+fileStamp.Close();
+```
+
 ### See Also
 
 * class [PdfFileStamp](../)
@@ -95,6 +119,14 @@ public void AddPageNumber(string formatString, float x, float y)
 | formatString | String | Format string. Format string can contain # sign which will be replaced with page number. |
 | x | Single | X coordinate of page number. |
 | y | Single | Y coordinate of page number. |
+
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+fileStamp.AddPageNumber(new FormattedText("Page  #"), 123, 357);
+fileStamp.Close();
+```
 
 ### See Also
 
@@ -126,6 +158,14 @@ public void AddPageNumber(FormattedText formattedText, int position, float leftM
 | topMargin | Single | Margin on the top edge of the page. |
 | bottomMargin | Single | Margin on the bottom edge of the page. |
 
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+fileStamp.AddPageNumber(new FormattedText("Page #"), PdfFileStamp.PosBottomLeft, 100, 100, 200, 200);
+fileStamp.Close();
+```
+
 ### See Also
 
 * class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
@@ -149,6 +189,14 @@ public void AddPageNumber(FormattedText formattedText, float x, float y)
  Format string can contain # sign which will be replaced with page number. |
 | x | Single | X coordinate of page number. |
 | y | Single | Y coordinate of page number. |
+
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+fileStamp.AddPageNumber(new FormattedText("Page  #"), 123, 357);
+fileStamp.Close();
+```
 
 ### See Also
 
@@ -176,6 +224,14 @@ public void AddPageNumber(string formatString, int position)
  PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, 
  PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
 
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+fileStamp.AddPageNumber("Page #", PdfFileStamp.PosUpperRight);
+fileStamp.Close();
+```
+
 ### See Also
 
 * class [PdfFileStamp](../)
@@ -201,6 +257,14 @@ public void AddPageNumber(FormattedText formattedText, int position)
  You can use the following constants: 
  PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, 
  PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
+
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+fileStamp.AddPageNumber("Page #", PdfFileStamp.PosUpperRight);
+fileStamp.Close();
+```
 
 ### See Also
 

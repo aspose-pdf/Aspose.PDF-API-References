@@ -17,6 +17,15 @@ Gets or sets flag specifying whether document's window title bar should display 
 public bool DisplayDocTitle { get; set; }
 ```
 
+## Examples
+
+Example demonstrates how to get DisplayDocTitle flag:
+
+```csharp
+Document document = new Document("sample.pdf");
+bool value = document.DisplayDocTitle;
+```
+
 ### See Also
 
 * class [Document](../)

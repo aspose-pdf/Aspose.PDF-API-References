@@ -29,6 +29,13 @@ public void AddSubmitBtn(string fieldName, int page, string label, string url, f
 | urx | Single | Abscissa of the upper-right corner. |
 | ury | Single | Ordinate of the upper-right corner. |
 
+## Examples
+
+```csharp
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_AddSubmitBtn.pdf");
+formEditor.AddSubmitBtn("submit", 1, "Submit", "www.check.com", 10, 200, 70, 270);
+```
+
 ### See Also
 
 * class [FormEditor](../)

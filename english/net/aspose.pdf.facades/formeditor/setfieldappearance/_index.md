@@ -26,6 +26,14 @@ public bool SetFieldAppearance(string fieldName, AnnotationFlags flags)
 
 true if flags were updated successfully.
 
+## Examples
+
+```csharp
+FormEditor formEditor = new FormEditor("PdfForm1.pdf", "FormEditor_SetFieldAppearance.pdf");
+formEditor.SetFieldAppearance("Name", AnnotationFlags.Hidden);
+formEditor.SetFieldAppearance("Phone", AnnotationFlags.NoView | AnnotationFlags.Print);
+```
+
 ### See Also
 
 * enum [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)

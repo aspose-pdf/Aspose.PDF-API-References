@@ -17,6 +17,15 @@ Deletes all bookmarks of the PDF document.
 public void DeleteBookmarks()
 ```
 
+## Examples
+
+```csharp
+PdfBookmarkEditor editor = new PdfBookmarkEditor();
+editor.BindPdf("example.pdf");
+editor.DeleteBookmarks();
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [PdfBookmarkEditor](../)
@@ -36,6 +45,15 @@ public void DeleteBookmarks(string title)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | title | String | The title of bookmark deleted. |
+
+## Examples
+
+```csharp
+PdfBookmarkEditor editor = new PdfBookmarkEditor();
+editor.BindPdf("example.pdf");
+editor.DeleteBookmarks("existing bookmark title");
+editor.Save("example_out.pdf");
+```
 
 ### See Also
 

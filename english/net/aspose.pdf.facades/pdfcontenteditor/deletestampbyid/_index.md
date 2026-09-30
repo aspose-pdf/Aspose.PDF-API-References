@@ -22,6 +22,15 @@ public void DeleteStampById(int pageNumber, int stampId)
 | pageNumber | Int32 | Page number where stamp will be deleted. |
 | stampId | Int32 | Identifier of stanp which should be deleted. |
 
+## Examples
+
+```csharp
+PdfContentEditor contentEditor = new PdfContentEditor();
+contentEditor.BindPdf("file.pdf");
+contentEditor.DeleteStampById(1, 100);
+contentEditor.Save("outfile.pdf");
+```
+
 ### See Also
 
 * class [PdfContentEditor](../)
@@ -41,6 +50,15 @@ public void DeleteStampById(int stampId)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stampId | Int32 | Identifier of stamp which should be deleted. |
+
+## Examples
+
+```csharp
+PdfContentEditor contentEditor = new PdfContentEditor();
+contentEditor.BindPdf("file.pdf");
+contentEditor.DeleteStampById(100);
+contentEditor.Save("outfile.pdf");
+```
 
 ### See Also
 

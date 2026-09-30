@@ -17,6 +17,33 @@ Gets collection of search occurrences that are presented with [`TextFragment`](.
 public TextFragmentCollection TextFragments { get; set; }
 ```
 
+## Examples
+
+The example demonstrates how to find text on the first PDF document page and replace all search occurrences with new text.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Find font that will be used to change document text font
+Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
+
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+// Accept the absorber for first page
+doc.Pages[1].Accept(absorber);
+
+// Change text of all search occurrences
+foreach (TextFragment textFragment in absorber.TextFragments)
+{
+    textFragment.Text = "hi world";
+}
+
+// Save document
+doc.Save(@"D:\Tests\output.pdf");
+```
+
 ### See Also
 
 * class [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)

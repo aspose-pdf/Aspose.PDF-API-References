@@ -25,6 +25,13 @@ public string GetField(string fieldName)
 
 The field's value.
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+Console.WriteLine("Field value = " + form.GetField("Field1"));
+```
+
 ### See Also
 
 * class [Form](../)

@@ -22,6 +22,14 @@ public void RenameField(string fieldName, string newFieldName)
 | fieldName | String | the old field name |
 | newFieldName | String | the new field name |
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf", "PdfFormUpdated.pdf");
+form.RenameField("field", "field1");
+form.Save();
+```
+
 ### See Also
 
 * class [Form](../)

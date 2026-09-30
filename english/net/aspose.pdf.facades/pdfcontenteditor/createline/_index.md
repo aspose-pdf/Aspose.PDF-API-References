@@ -36,6 +36,16 @@ public void CreateLine(Rectangle rect, string contents, float x1, float y1, floa
 | LEArray | String[] | An array of two values respectively specifying the beginning and ending style of the drawing line.
  The values can be: "Square", "Circle", "Diamond", "OpenArrow", "ClosedArrow", "None", "Butt", "ROpenArrow", "RClosedArrow", "Slash". |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateLine(new System.Drawing.Rectangle(0, 0, 100, 100), "Welcome to Aspose", 0, 0, 100, 100,
+    1, 1, System.Drawing.Color.Red, "D", new int[] {2, 3}, new string[] {"OpenArrow", "ClosedArrow"});
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

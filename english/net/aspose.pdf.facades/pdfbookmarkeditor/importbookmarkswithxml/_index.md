@@ -21,6 +21,15 @@ public void ImportBookmarksWithXML(string xmlFile)
 | --- | --- | --- |
 | xmlFile | String | The XML file containing bookmarks list. |
 
+## Examples
+
+```csharp
+PdfBookmarkEditor editor = new PdfBookmarkEditor();
+editor.BindPdf("example.pdf");
+editor.ImportBookmarksWithXML("bookmarks.xml");
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [PdfBookmarkEditor](../)

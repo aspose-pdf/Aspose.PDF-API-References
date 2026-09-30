@@ -18,6 +18,16 @@ Class which peroformes reading of XFDF format.
 public sealed class XfdfReader
 ```
 
+## Examples
+
+```csharp
+Document doc = new Document("example.pdf");
+Stream xfdfStream = File.OpenRead("file.xfdf");
+XfdfReader.ReadAnnotations(xfdfStream, doc);
+xfdfStream.Close();
+doc.Save("example_out.pdf");
+```
+
 ## Constructors
 
 | Name | Description |

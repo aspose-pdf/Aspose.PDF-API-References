@@ -35,13 +35,13 @@ True for success.
 ```csharp
 [C#]
  string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
- string outFile = "D:\\output.pdf"; //The TestPath may be re-assigned.
- PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile); 
+ string outFile = "D:\\output.pdf";	//The TestPath may be re-assigned.
+ PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
  fileSecurity.ChangePassword("owner","newuser","newowner");
- 
- [Visual Basic]
- Dim inFile As String = ".D:\\input.pdf" 'The TestPath may be re-assigned.'
- Dim outFile As String = "D:\\output.pdf" 'The TestPath may be re-assigned.'
+
+[Visual Basic]
+ Dim inFile As String = ".D:\\input.pdf"  'The TestPath may be re-assigned.'
+ Dim outFile As String = "D:\\output.pdf"  'The TestPath may be re-assigned.'
  Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
  fileSecurity.ChangePassword("owner","newuser","newowner")
 ```
@@ -82,16 +82,16 @@ True for success.
 
 ```csharp
 [C#]
- string inFile = ".D:\\input.pdf"; //The TestPath may be re-assigned.
- string outFile = "D:\\output.pdf"; //The TestPath may be re-assigned.
- PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile); 
- fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256);
- 
- [Visual Basic] 
- Dim inFile As String = ".D:\\input.pdf" 'The TestPath may be re-assigned.'
- Dim outFile As String = "D:\\output.pdf" 'The TestPath may be re-assigned.'
- Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
- fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256)
+string inFile = ".D:\\input.pdf"; //The TestPath may be re-assigned.
+string outFile = "D:\\output.pdf";	//The TestPath may be re-assigned.
+PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);	
+fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256);
+
+[Visual Basic] 
+Dim inFile As String =  ".D:\\input.pdf"  'The TestPath may be re-assigned.'
+Dim outFile As String =  "D:\\output.pdf"  'The TestPath may be re-assigned.'
+Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile) 
+fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256)
 ```
 
 ### See Also
@@ -136,16 +136,16 @@ True for success.
 
 ```csharp
 [C#]
- string inFile = ".D:\\input.pdf"; //The TestPath may be re-assigned.
- string outFile = "D:\\output.pdf"; //The TestPath may be re-assigned.
- PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile); 
- fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256,Algorithm.AES);
- 
- [Visual Basic] 
- Dim inFile As String = ".D:\\input.pdf" 'The TestPath may be re-assigned.'
- Dim outFile As String = "D:\\output.pdf" 'The TestPath may be re-assigned.'
- Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
- fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
+string inFile = ".D:\\input.pdf"; //The TestPath may be re-assigned.
+string outFile = "D:\\output.pdf";	//The TestPath may be re-assigned.
+PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);	
+fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256,Algorithm.AES);
+
+[Visual Basic] 
+Dim inFile As String =  ".D:\\input.pdf"  'The TestPath may be re-assigned.'
+Dim outFile As String =  "D:\\output.pdf"  'The TestPath may be re-assigned.'
+Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile) 
+fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
 ```
 
 ### See Also

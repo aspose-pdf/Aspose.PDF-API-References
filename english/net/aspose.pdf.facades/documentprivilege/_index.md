@@ -26,43 +26,43 @@ public sealed class DocumentPrivilege : IComparable<object>
 ## Examples
 
 ```csharp
-[C#] 
- //Way1: Using predefined privilege directly.
- DocumentPrivilege privilege = DocumentPrivilege.Print;
- 
- //Way2: Based on a predefined privilege and change some specifical permissions.
- DocumentPrivilege privilege = DocumentPrivilege.AllowAll;
- privilege.AllowPrint = false;
- privilege.AllowModifyContents = false;
- 
- //Way3: Based on a predefined privilege and change some specifical Adobe Professional permissions combination.
- DocumentPrivilege privilege = DocumentPrivilege.ForbidAll;
- privilege.ChangeAllowLevel = 1;
- privilege.PrintAllowLevel = 2;
- 
- //Way4: Mixes the way2 and way3
- DocumentPrivilege privilege = DocumentPrivilege.ForbidAll;
- privilege.ChangeAllowLevel = 1;
- privilege.AllowPrint = true;
- 
- [Visual Basic]
- 'Way1: Using predefined privilege directly.
- Dim privilege As DocumentPrivilege = DocumentPrivilege.Print 
- 
- 'Way2: Based on a predefined privilege and change some specifical permissions.
- Dim privilege As DocumentPrivilege = DocumentPrivilege.AllowAll 
- privilege.AllowPrint = False
- privilege.AllowModifyContents = False
- 
- 'Way3: Based on a predefined privilege and change some specifical Adobe Professional permissions combination.
- Dim privilege As DocumentPrivilege = DocumentPrivilege.ForbidAll 
- privilege.ChangeAllowLevel = 1
- privilege.PrintAllowLevel = 2
- 
- 'Way4: Mixes the way2 and way3
- Dim privilege As DocumentPrivilege = DocumentPrivilege.ForbidAll 
- privilege.ChangeAllowLevel = 1
- privilege.AllowPrint = True
+[C#]	
+//Way1: Using predefined privilege directly.
+DocumentPrivilege privilege = DocumentPrivilege.Print;
+
+//Way2: Based on a predefined privilege and change some specifical permissions.
+DocumentPrivilege privilege = DocumentPrivilege.AllowAll;
+privilege.AllowPrint = false;
+privilege.AllowModifyContents = false;
+
+//Way3: Based on a predefined privilege and change some specifical Adobe Professional permissions combination.
+DocumentPrivilege privilege = DocumentPrivilege.ForbidAll;
+privilege.ChangeAllowLevel = 1;
+privilege.PrintAllowLevel = 2;
+
+//Way4: Mixes the way2 and way3
+DocumentPrivilege privilege = DocumentPrivilege.ForbidAll;
+privilege.ChangeAllowLevel = 1;
+privilege.AllowPrint = true;
+
+[Visual Basic]
+'Way1: Using predefined privilege directly.
+Dim privilege As DocumentPrivilege =  DocumentPrivilege.Print 
+
+'Way2: Based on a predefined privilege and change some specifical permissions.
+Dim privilege As DocumentPrivilege =  DocumentPrivilege.AllowAll 
+privilege.AllowPrint = False
+privilege.AllowModifyContents = False
+
+'Way3: Based on a predefined privilege and change some specifical Adobe Professional permissions combination.
+Dim privilege As DocumentPrivilege =  DocumentPrivilege.ForbidAll 
+privilege.ChangeAllowLevel = 1
+privilege.PrintAllowLevel = 2
+
+'Way4: Mixes the way2 and way3
+Dim privilege As DocumentPrivilege =  DocumentPrivilege.ForbidAll 
+privilege.ChangeAllowLevel = 1
+privilege.AllowPrint = True
 ```
 
 ## Properties

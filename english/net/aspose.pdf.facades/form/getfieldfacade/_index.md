@@ -29,6 +29,14 @@ public FormFieldFacade GetFieldFacade(string fieldName)
 
 FormFieldFacade object
 
+## Examples
+
+```csharp
+Aspose.Pdf.Facades.Form form = new Aspose.Pdf.Facades.Form("form.pdf");
+FormFieldFacade field = form.GetFieldFacade("field1");
+Console.WriteLine("Color of field border: " + field.BorderColor);
+```
+
 ### See Also
 
 * class [FormFieldFacade](../../../aspose.pdf.facades/formfieldfacade/)

@@ -18,6 +18,25 @@ Represents font collection.
 public sealed class FontCollection : ICollection<Font>
 ```
 
+## Examples
+
+The example demonstrates how to make all font declared on page as embedded.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// ensure all fonts declared on page resources are embedded
+// note that if fonts are declared on form resources they are not accessible from page resources
+foreach(Aspose.Pdf.Txt.Font font in doc.Pages[1].Resources.Fonts)
+{
+    if(!font.IsEmbedded)
+        font.IsEmbedded = true;
+}
+
+doc.Save(@"D:\Tests\input.pdf");
+```
+
 ## Properties
 
 | Name | Description |

@@ -25,6 +25,16 @@ public FieldType GetFieldType(string fieldName)
 
 Element of FileType enumeration corresponding to field type.
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+if (form.GetFieldType("textField") == FieldType.Text)
+{
+   Console.WriteLine("Type of field is text");
+}
+```
+
 ### See Also
 
 * enum [FieldType](../../../aspose.pdf.facades/fieldtype/)

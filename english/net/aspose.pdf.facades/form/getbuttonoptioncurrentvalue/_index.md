@@ -25,6 +25,13 @@ public string GetButtonOptionCurrentValue(string fieldName)
 
 String value for the current radio group optino. See also `GetButtonOptionValues`
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+Console.WriteLine(form.GetButtonOptionCurrentValue("btnField"));
+```
+
 ### See Also
 
 * class [Form](../)

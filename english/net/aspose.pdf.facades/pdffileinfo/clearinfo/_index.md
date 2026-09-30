@@ -17,6 +17,8 @@ Clears all meta information of PDF document.
 public void ClearInfo()
 ```
 
+## Examples
+
 ### See Also
 
 * class [PdfFileInfo](../)

@@ -22,6 +22,12 @@ public static void ExportBookmarksToHtml(string inPdfFile, string outHtmlFile)
 | inPdfFile | String | Input PDF file which bookmarks will be exported. |
 | outHtmlFile | String | Output HTML file |
 
+## Examples
+
+```csharp
+PdfBookmarkEditor.ExtractBookmarksToHTML("example.pdf", "bookmarks.html");
+```
+
 ### See Also
 
 * class [PdfBookmarkEditor](../)

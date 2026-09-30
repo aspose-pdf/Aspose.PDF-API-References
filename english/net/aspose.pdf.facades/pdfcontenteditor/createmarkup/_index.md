@@ -25,6 +25,16 @@ public void CreateMarkup(Rectangle rect, string contents, int type, int page, Co
 | page | Int32 | The number of original page where the annotation will be created. |
 | clr | Color | The color of markup. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateMarkup(new System.Drawing.Rectangle(0, 0, 100, 100),
+    "Welcome to Aspose", 0, 1, System.Drawing.Color.Red);
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

@@ -21,6 +21,18 @@ public int ExtractTextMode { get; set; }
 
 0 is pure text mode and 1 is raw ordering mode. Default is 0.
 
+## Examples
+
+The example demonstrates the `ExtractTextMode` property usage in text extraction scenario.
+
+```csharp
+PdfExtractor extractor = new PdfExtractor();
+extractor.BindPdf(@"D:\Text\text.pdf");
+extractor.ExtractTextMode = 1;
+extractor.ExtractText();
+extractor.GetText(@"D:\Text\text.txt");
+```
+
 ### See Also
 
 * class [PdfExtractor](../)

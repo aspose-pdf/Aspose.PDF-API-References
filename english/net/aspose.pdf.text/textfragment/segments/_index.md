@@ -21,6 +21,29 @@ In a few words, [`TextSegment`](../../../aspose.pdf.text/textsegment/) objects a
 public TextSegmentCollection Segments { get; set; }
 ```
 
+## Examples
+
+The example demonstrates how to navigate all [`TextSegment`](../../../aspose.pdf.text/textsegment/) objects inside [`TextFragment`](../../../aspose.pdf.text/textfragment/).
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+// Accept the absorber for first page
+doc.Pages[1].Accept(absorber);
+
+// Navigate all text segments and out their text and placement info
+foreach (TextSegment segment in absorber.TextFragments[1].Segments)
+{
+    Console.Out.WriteLine(string.Format("segment text: {0}", segment.Text));
+    Console.Out.WriteLine(string.Format("segment X indent: {0}", segment.Position.XIndent));
+    Console.Out.WriteLine(string.Format("segment Y indent: {0}", segment.Position.YIndent));
+}
+```
+
 ### See Also
 
 * [TextFragmentAbsorber](../textfragmentabsorber/)

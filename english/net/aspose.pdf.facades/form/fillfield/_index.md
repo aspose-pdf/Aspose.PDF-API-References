@@ -32,6 +32,14 @@ public bool FillField(string fieldName, string fieldValue)
 
 true if field is found and filled successfully.
 
+## Examples
+
+```csharp
+Form form = new Form(TestSettings.GetInputFile("PdfForm.pdf"));
+form.FillField("FirstName", "John");
+form.FillField("LastName",  "Smith");
+```
+
 ### See Also
 
 * class [Form](../)
@@ -93,6 +101,13 @@ public bool FillField(string fieldName, bool beChecked)
 
 true if field was found and successfully filled.
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+form.FillField("checkboxField", true);
+```
+
 ### See Also
 
 * class [Form](../)
@@ -113,6 +128,14 @@ public void FillField(string fieldName, string[] fieldValues)
 | --- | --- | --- |
 | fieldName | String | The fully qualified field name. |
 | fieldValues | String[] | A string array which contains several items to be selected. |
+
+## Examples
+
+```csharp
+Form form = new Aspose.Pdf.Facades.Form("PdfForm.pdf", "Form_Updated.pdf");
+form.FillField("ListBox1", new String[] { "Three", "One" });
+form.Save();
+```
 
 ### See Also
 

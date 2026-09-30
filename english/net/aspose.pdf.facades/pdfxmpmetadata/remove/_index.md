@@ -21,6 +21,14 @@ public void Remove(DefaultMetadataProperties key)
 | --- | --- | --- |
 | key | DefaultMetadataProperties | Key of the element which will be deleted. |
 
+## Examples
+
+```csharp
+PdfXmpMetadata xmp = new PdfXmpMetadata();
+xmp.BindPdf("input.pdf");
+xmp.Remove(DefaultMetadataProperties.Nickname);
+```
+
 ### See Also
 
 * enum [DefaultMetadataProperties](../../../aspose.pdf.facades/defaultmetadataproperties/)
@@ -45,6 +53,14 @@ public bool Remove(string key)
 ### Return Value
 
 True - if key removed; otherwise, false.
+
+## Examples
+
+```csharp
+PdfXmpMetadata xmp = new PdfXmpMetadata();
+xmp.BindPdf("input.pdf");
+xmp.Remove("xmp:Nickname");
+```
 
 ### See Also
 

@@ -24,6 +24,14 @@ public void CopyInnerField(string fieldName, string newFieldName, int pageNum)
 | newFieldName | String | The new fully qualified field name. If null, it will be set as fieldName + "~". |
 | pageNum | Int32 | The number of page to hold the new field. If -1, new field will be copid to the same page as old one hosted. |
 
+## Examples
+
+```csharp
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_out.pdf");
+//Creates copy of text field on psecond page.
+formEditor.CopyInnerField("textField", "textFieldCopy", 2);
+```
+
 ### See Also
 
 * class [FormEditor](../)
@@ -49,6 +57,14 @@ public void CopyInnerField(string fieldName, string newFieldName, int pageNum, f
 | pageNum | Int32 | The number of page to hold the new field. If -1, new field will be copid to the same page as old one hosted. |
 | abscissa | Single | The abscissa of the new field. If -1, the abscissa will be equaled to the original one. |
 | ordinate | Single | The ordinate of the new field. If -1, the ordinate will be equaled to the original one. |
+
+## Examples
+
+```csharp
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_out.pdf");
+//Creates copy of text field on psecond page.
+formEditor.CopyInnerField("textField", "textFieldCopy", 2, 100, 200);
+```
 
 ### See Also
 

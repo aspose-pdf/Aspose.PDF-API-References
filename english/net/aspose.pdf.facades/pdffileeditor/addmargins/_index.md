@@ -33,6 +33,26 @@ public bool AddMargins(Stream source, Stream destination, int[] pages, double le
 
 true if operation was successful.
 
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+Stream src = new Stream("input.pdf", FileMode.Open);
+Stream dest = new Stream("output.pdf", FileMode.Create);
+fileEditor.AddMargins(src, dest, 
+    //process pages 1, 2, 3
+    new int[] { 1, 2, 3}, 
+    //left margin is 10 units
+    10, 
+    //right margin is 5 units
+    5, 
+    //top margin is 5 units
+    5, 
+    //bottom margin is 5 units
+    5);
+    dest.Close();
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -64,6 +84,23 @@ public bool AddMargins(string source, string destination, int[] pages, double le
 ### Return Value
 
 true if resize was successful.
+
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+fileEditor.AddMargins("input.pdf", "output.pdf", 
+    //process pages 1, 2, 3
+    new int[] { 1, 2, 3}, 
+    //left margin is 10 units
+    10, 
+    //right margin is 5 units
+    5, 
+    //top margin is 5 units
+    5, 
+    //bottom margin is 5 units
+    5);
+```
 
 ### See Also
 

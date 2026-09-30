@@ -31,6 +31,13 @@ public bool Insert(string inputFile, int insertLocation, string portFile, int st
 
 True for success, or false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.Insert("file1.pdf", 1, "file2.pdf", 2, 6, "out.pdf");
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -61,6 +68,16 @@ public bool Insert(Stream inputStream, int insertLocation, Stream portStream, in
 
 True for success, or false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream insertedStream = new FileStream("file2.pdf", FileMode.Open, FileAccess.Read);
+Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
+pfe.Insert(sourceStream, 1, insertedStream, 2, 6, outStream);
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -90,6 +107,13 @@ public bool Insert(string inputFile, int insertLocation, string portFile, int[] 
 
 True for success, or false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.Insert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "out.pdf");
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -118,6 +142,16 @@ public bool Insert(Stream inputStream, int insertLocation, Stream portStream, in
 ### Return Value
 
 True if operation was succeeded.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream insertedStream = new FileStream("file2.pdf", FileMode.Open, FileAccess.Read);
+Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
+pfe.Insert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5}, outStream);
+```
 
 ### See Also
 

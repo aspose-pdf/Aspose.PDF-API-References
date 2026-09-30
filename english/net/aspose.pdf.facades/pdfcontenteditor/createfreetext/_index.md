@@ -23,6 +23,15 @@ public void CreateFreeText(Rectangle rect, string contents, int page)
 | contents | String | The contents of the annotation. |
 | page | Int32 | The number of original page where the text annotation will be created. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateFreeText(new System.Drawing.Rectangle(0, 0, 100, 100), "Welcome to Aspose", 1);
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

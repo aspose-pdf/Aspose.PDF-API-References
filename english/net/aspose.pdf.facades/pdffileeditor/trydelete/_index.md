@@ -30,6 +30,13 @@ public bool TryDelete(string inputFile, int[] pageNumber, string outputFile)
 
 true if operation completed successfully; otherwise, false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+bool result = pfe.TryDelete("input.pdf", new int[] { 2, 3 }, "out.pdf");
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -58,6 +65,15 @@ public bool TryDelete(Stream inputStream, int[] pageNumber, Stream outputStream)
 ### Return Value
 
 True for success, or false.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream intputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
+Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
+bool result = pfe.TryDelete(inputStream, new int[] { 2, 3 }, outputStream);
+```
 
 ### See Also
 

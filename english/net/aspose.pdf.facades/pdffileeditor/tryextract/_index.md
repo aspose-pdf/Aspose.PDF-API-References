@@ -31,6 +31,13 @@ public bool TryExtract(string inputFile, int startPage, int endPage, string outp
 
 True for success, or false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+bool result = pfe.TryExtract("input.pdf", 3, 7, "output.pdf");
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -60,6 +67,13 @@ public bool TryExtract(string inputFile, int[] pageNumber, string outputFile)
 
 true if operation completed successfully; otherwise, false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+bool result = pfe.TryExtract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -88,6 +102,15 @@ public bool TryExtract(Stream inputStream, int[] pageNumber, Stream outputStream
 ### Return Value
 
 True for success, or false.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
+bool result = pfe.TryExtract(sourceStream, new int[] { 3, 5, 8 }, outStream);
+```
 
 ### See Also
 

@@ -21,6 +21,16 @@ public void ChangeViewerPreference(int viewerAttribution)
 | --- | --- | --- |
 | viewerAttribution | Int32 | The view attribution defined in the ViewerPreference class. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.ChangeViewerPreference(ViewerPreference.HideMenubar);
+editor.ChangeViewerPreference(ViewerPreference.PageModeUseNone);
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [PdfContentEditor](../)

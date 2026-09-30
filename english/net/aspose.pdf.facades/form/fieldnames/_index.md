@@ -17,6 +17,17 @@ Gets list of field names on the form.
 public string[] FieldNames { get; }
 ```
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+string[] fields = form.FieldNames;
+foreach(string field in fields)
+{
+  Console.WriteLine(field);
+}
+```
+
 ### See Also
 
 * class [Form](../)

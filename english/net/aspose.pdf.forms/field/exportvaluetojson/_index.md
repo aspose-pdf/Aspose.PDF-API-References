@@ -22,6 +22,16 @@ public void ExportValueToJson(Stream outputJsonStream, bool indented = true)
 | outputJsonStream | Stream | The output JSON stream where the field data will be written. |
 | indented | Boolean | Optional. Specifies whether the JSON output should be indented for better readability. The default value is true. |
 
+## Examples
+
+```csharp
+Document document = new Document("PdfDoc.pdf");
+FileStream fs = new FileStream("export.json", FileMode.Create, FileAccess.Write);
+Field field = document.Form.Fields[0];
+field.ExportValueToJson(fs);
+fs.Close();
+```
+
 ### See Also
 
 * class [Field](../)

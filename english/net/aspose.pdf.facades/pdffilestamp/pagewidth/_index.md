@@ -17,6 +17,14 @@ Gets width of first page in input file.
 public float PageWidth { get; }
 ```
 
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+Console.WriteLine("Width = " + fileStamp.PageWidth);
+fileStamp.Close();
+```
+
 ### See Also
 
 * class [PdfFileStamp](../)

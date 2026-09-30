@@ -23,6 +23,15 @@ public void ReplaceImage(int pageNumber, int index, string imageFile)
 | index | Int32 | The index of the image object must be replaced. |
 | imageFile | String | The image file will be used for replacing. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.ReplaceImage(1, 1, "image.jpg");
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [PdfContentEditor](../)

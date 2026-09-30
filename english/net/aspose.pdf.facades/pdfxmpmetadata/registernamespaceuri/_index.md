@@ -22,6 +22,13 @@ public void RegisterNamespaceURI(string prefix, string namespaceURI)
 | prefix | String | The prefix. |
 | namespaceURI | String | The namespace URI. |
 
+## Examples
+
+```csharp
+PdfXmpMetadata xmp = new PdfXmpMetadata("input.pdf");
+xmp.RegisterNamespaceURI("xmp", "http://ns.adobe.com/xap/1.0/");
+```
+
 ### See Also
 
 * class [PdfXmpMetadata](../)

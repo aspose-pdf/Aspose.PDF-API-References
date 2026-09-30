@@ -26,6 +26,17 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage, Color cl
 | clr | Color | The colour of rectangle for active click. |
 | actionName | Enum[] | The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100),
+    "http://www.aspose.com", 1, System.Drawing.Color.Red,
+    new Enum[] { PredefinedAction.FirstPage, PredefinedAction.PrintDialog });
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
@@ -51,6 +62,16 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage, Color cl
 | originalPage | Int32 | The number of original page where rectangle bound with web link will be created. |
 | clr | Color | The colour of rectangle for active click. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100),
+    "http://www.aspose.com", 1, System.Drawing.Color.Red });
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
@@ -74,6 +95,15 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage)
 | rect | Rectangle | The rectangle for active click. |
 | url | String | The web link destination. |
 | originalPage | Int32 | The number of original page where rectangle bound with web link will be created. |
+
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateWebLink(new System.Drawing.Rectangle(0, 0, 100, 100), "http://www.aspose.com", 1 });
+editor.Save("example_out.pdf");
+```
 
 ### See Also
 

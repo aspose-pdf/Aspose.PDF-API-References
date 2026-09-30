@@ -18,6 +18,14 @@ Closes opened files and saves changes.
 public override void Close()
 ```
 
+## Examples
+
+```csharp
+PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
+//do some work... 
+stamp.Close();
+```
+
 ### See Also
 
 * class [PdfFileStamp](../)

@@ -27,6 +27,17 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 | clr | Color | The colour of rectangle for active click. |
 | actionName | Enum[] | The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100),
+    "another_example.pdf", 1, 1, System.Drawing.Color.Red,
+    new Enum[] { PredefinedAction.FirstPage, PredefinedAction.PrintDialog });
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
@@ -54,6 +65,16 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 | destinationPage | Int32 | The destination page. |
 | clr | Color | The colour of rectangle for active click. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100),
+    "another_example.pdf", 1, 1, System.Drawing.Color.Red });
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
@@ -79,6 +100,15 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 | remotePdf | String | The PDF document which page will be opened. |
 | originalPage | Int32 | The number of original page where rectangle bound with link will be created. |
 | destinationPage | Int32 | The destination page. |
+
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100), "another_example.pdf", 1, 1 });
+editor.Save("example_out.pdf");
+```
 
 ### See Also
 

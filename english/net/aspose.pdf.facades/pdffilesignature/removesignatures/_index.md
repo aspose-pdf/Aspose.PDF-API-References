@@ -21,16 +21,16 @@ public void RemoveSignatures()
 
 ```csharp
 [C#]
- string inFile = TestPath + "example1.pdf";
- var pdfSign = new PdfFileSignature();
- pdfSign.BindPdf(inFile); 
- pdfSign.RemoveSignatures();
- pdfSign.Save(TestPath + "signed_removed.pdf");
- [Visual Basic]
- Dim pdfSign as PdfFileSignature = new PdfFileSignature
- pdfSign.BindPdf(inFile)
- pdfSign.RemoveSignatures()
- pdfSign.Save(TestPath + "signed_removed.pdf")
+string inFile = TestPath + "example1.pdf";
+var pdfSign = new PdfFileSignature();
+pdfSign.BindPdf(inFile); 
+pdfSign.RemoveSignatures();
+pdfSign.Save(TestPath + "signed_removed.pdf");
+[Visual Basic]
+Dim pdfSign as PdfFileSignature = new PdfFileSignature
+pdfSign.BindPdf(inFile)
+pdfSign.RemoveSignatures()
+pdfSign.Save(TestPath + "signed_removed.pdf")
 ```
 
 ### See Also

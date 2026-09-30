@@ -17,6 +17,15 @@ Flattens all annotations in the document.
 public void FlatteningAnnotations()
 ```
 
+## Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+editor.FlatteningAnnotations();
+editor.Save(example_out.pdf");
+```
+
 ### See Also
 
 * class [PdfAnnotationEditor](../)
@@ -58,6 +67,16 @@ public void FlatteningAnnotations(int start, int end, AnnotationType[] annotType
 | start | Int32 | The start page. |
 | end | Int32 | Then end page. |
 | annotType | AnnotationType[] | The annotation types should be flattened. |
+
+## Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+AnnotationType[] annotTypes ={AnnotationType.Line, AnnotationType.FreeText};
+editor.FlatteningAnnotations(1, 2, annotTypes);
+editor.Save("example_out.pdf");
+```
 
 ### See Also
 

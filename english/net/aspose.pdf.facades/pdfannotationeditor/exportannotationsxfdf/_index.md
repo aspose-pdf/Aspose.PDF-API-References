@@ -24,6 +24,18 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, st
 | end | Int32 | End page to which the annotations of the document will be exported. |
 | annotTypes | String[] | The array of annotation types need be exported. |
 
+## Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+string[] annotTypes = new string[] {"Text", "Highlight"};
+using (Stream stream = File.Create("example.xfdf"))
+{
+    editor.ExportAnnotationsXfdf(stream, 1, 2, annotTypes);
+}
+```
+
 ### See Also
 
 * class [PdfAnnotationEditor](../)
@@ -47,6 +59,18 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end,
 | start | Int32 | Start page from which the annotations of the document will be exported. |
 | end | Int32 | End page to which the annotations of the document will be exported. |
 | annotTypes | AnnotationType[] | The array of annotation types need be exported. |
+
+## Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+AnnotationType[] annotTypes = new AnnotationType[] {AnnotationType.Text, AnnotationType.Highlight};
+using (Stream stream = File.Create("example.xfdf"))
+{
+    editor.ExportAnnotationsXfdf(stream, 1, 2, annotTypes);
+}
+```
 
 ### See Also
 

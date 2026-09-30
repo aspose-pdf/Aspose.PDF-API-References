@@ -17,6 +17,24 @@ Gets or sets text extraction options.
 public TextExtractionOptions ExtractionOptions { get; set; }
 ```
 
+## Examples
+
+The example demonstrates how to extracted text in raw order.
+
+```csharp
+Document doc = new Document(inFile);
+string extractedText;
+
+// create text device
+TextDevice device = new TextDevice(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Raw));
+
+// convert the page and save text to the stream
+device.Process(doc.Pages[1], outFile);
+
+// use the extracted text
+extractedText = File.ReadAllText(outFile, Encoding.Unicode);
+```
+
 ### See Also
 
 * class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)

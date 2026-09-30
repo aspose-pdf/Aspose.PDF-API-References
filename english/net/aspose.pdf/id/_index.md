@@ -18,6 +18,14 @@ Represents file identifier structure.
 public class Id
 ```
 
+## Examples
+
+```csharp
+Document doc = new Document("example.pdf");
+string original = doc.Id.Original;
+string modified = doc.Id.Modified;
+```
+
 ## Properties
 
 | Name | Description |

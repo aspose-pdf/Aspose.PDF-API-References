@@ -18,6 +18,35 @@ Represents characteristics of an image placed to Pdf document page.
 public sealed class ImagePlacement
 ```
 
+## Examples
+
+The example demonstrates how to find images on the first PDF document page and get images as bitmaps with visible dimensions.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Create ImagePlacementAbsorber object to perform image placement search
+ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
+
+// Accept the absorber for first page
+doc.Pages[1].Accept(abs);
+
+// Retrieve images with visible dimensions
+foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
+{
+    Bitmap scaledImage;
+    using (MemoryStream imageStream = new MemoryStream())
+    {
+        // Retrieve image from resources
+        imagePlacement.Image.Save(imageStream, ImageFormat.Png);
+        Bitmap resourceImage = (Bitmap) Bitmap.FromStream(imageStream);
+        // Create new bitmap with actual dimensions
+        scaledImage = new Bitmap(resourceImage, (int)imagePlacement.Rectangle.Width, (int)imagePlacement.Rectangle.Height);
+    }
+}
+```
+
 ## Properties
 
 | Name | Description |

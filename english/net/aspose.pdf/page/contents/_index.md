@@ -18,6 +18,19 @@ Gets collection of operators in the content stream of the page.
 public OperatorCollection Contents { get; }
 ```
 
+## Examples
+
+Example is demonstrates how to scan operators stream of page.
+
+```csharp
+Document document = new Document("sample.pdf");
+Operators contents = document.Pages[1].Contents;
+foreach(Operator op in contents)
+{
+    Console.WriteLine(op);
+}
+```
+
 ### See Also
 
 * class [OperatorCollection](../../../aspose.pdf/operatorcollection/)

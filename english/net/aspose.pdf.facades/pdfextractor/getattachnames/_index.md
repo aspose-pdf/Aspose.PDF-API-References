@@ -21,6 +21,19 @@ public IList<string> GetAttachNames()
 
 List of attachments
 
+## Examples
+
+Example demonstrates how to extract attachment names form PDF file.
+
+```csharp
+PdfExtractor extractor = new PdfExtractor();
+extractor.BindPdf(TestSettings.GetInputFile("sample.pdf"));
+extractor.ExtractAttachment();
+IList attachments = extractor.GetAttachNames();
+foreach (string name in attachments)
+	Console.WriteLine(name);
+```
+
 ### See Also
 
 * class [PdfExtractor](../)

@@ -17,6 +17,15 @@ Gets or sets art box of the page.
 public Rectangle ArtBox { get; set; }
 ```
 
+## Examples
+
+Example demonstrates how to get art box of the page:
+
+```csharp
+Document document = new Document("sample.pdf");
+Rectangle artBox = document.Pages[1].ArtBox;
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

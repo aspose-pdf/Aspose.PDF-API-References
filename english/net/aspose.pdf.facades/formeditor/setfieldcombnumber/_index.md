@@ -28,6 +28,13 @@ public bool SetFieldCombNumber(string fieldName, int combNumber)
 
 If success, return true;else false.
 
+## Examples
+
+```csharp
+FormEditor formEditor = new FormEditor("PdfWithAcroForm.pdf", "FormEditor_SetFieldComb.pdf"));
+formEditor.SetFieldCombNumber("textCombField", 5);
+```
+
 ### See Also
 
 * class [FormEditor](../)

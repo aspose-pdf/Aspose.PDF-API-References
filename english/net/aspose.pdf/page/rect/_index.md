@@ -20,6 +20,16 @@ Gets or sets rectangle of the page.
 public Rectangle Rect { get; set; }
 ```
 
+## Examples
+
+Example demonstrates how to get page rectangle:
+
+```csharp
+Document document = new Document("sample.pdf");
+Page page = document.Pages[1];
+Rectangle pageRect = page.Rect;
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

@@ -21,6 +21,16 @@ public int GetViewerPreference()
 
 Returns set of ViewerPrefernece flags
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+int prefValue = editor.GetViewerPreference();
+if ((prefValue & ViewerPreference.PageModeUseOutline) != 0)
+{ // ... }
+```
+
 ### See Also
 
 * class [PdfContentEditor](../)

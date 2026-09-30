@@ -27,6 +27,16 @@ public void CreateSquareCircle(Rectangle rect, string contents, Color clr, bool 
 | page | Int32 | The number of original page where the annotation will be created. |
 | borderWidth | Int32 | The border width of square or circle. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateSquareCircle(new System.Drawing.Rectangle(0, 0, 100, 100),
+    "Welcome to Aspose", System.Drawing.Color.Red, false, 1, 5);
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

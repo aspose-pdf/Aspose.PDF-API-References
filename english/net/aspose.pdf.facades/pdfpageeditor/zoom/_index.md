@@ -24,6 +24,16 @@ Get or sets zoom coefficient. Value 1.0 corresponds to 100%.
 public float Zoom { get; set; }
 ```
 
+## Examples
+
+The following example demonstrates how to change zoom of the document pages.
+
+```csharp
+PdfPageEditor editor = new PdfPageEditor();
+editor.BindPdf("sample.pdf");
+editor.Zoom = 0.5f;
+```
+
 ### See Also
 
 * class [PdfPageEditor](../)

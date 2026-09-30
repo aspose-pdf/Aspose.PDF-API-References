@@ -21,6 +21,15 @@ public void ImportXml(Stream inputXmlStream)
 | --- | --- | --- |
 | inputXmlStream | Stream | Stream from which XML for import is read. |
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf", "Form_Imported.pdf");
+FileStream fs = new FileStream(TestSettings.GetInputFile("import.xml"), FileMode.Open, FileAccess.Read);
+form.ImportXml(fs);
+form.Save();
+```
+
 ### See Also
 
 * class [Form](../)

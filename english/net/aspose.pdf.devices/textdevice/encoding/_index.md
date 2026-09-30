@@ -17,6 +17,24 @@ Gets or sets encoding of extracted text.
 public Encoding Encoding { get; set; }
 ```
 
+## Examples
+
+The example demonstrates how to represent extracted text in UTF-8 encoding.
+
+```csharp
+Document doc = new Document(inFile);
+string extractedText;
+
+// create text device
+TextDevice device = new TextDevice(Encoding.UTF8);
+
+// convert the page and save text to the stream
+device.Process(doc.Pages[1], outFile);
+
+// use the extracted text
+extractedText = File.ReadAllText(outFile, Encoding.UTF8);
+```
+
 ### See Also
 
 * class [TextDevice](../)

@@ -20,6 +20,13 @@ Format of the suffix which is added to field name to make it unique when forms a
 public string UniqueSuffix { get; set; }
 ```
 
+## Examples
+
+```csharp
+PdfFileEditor ed = new PdfFileEditor();
+ed.UniqueSuffix = "_%NUM%";
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)

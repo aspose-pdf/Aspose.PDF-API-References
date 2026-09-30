@@ -18,6 +18,24 @@ Represents [`Merger`](../../aspose.pdf.lowcode/merger/) plugin.
 public sealed class Merger : IPlugin
 ```
 
+## Examples
+
+The example demonstrates how to merge two PDF documents.
+
+```csharp
+// create Merger
+var merger = new Merger();
+// create MergeOptions object to set instructions
+var opt = new MergeOptions();
+// add input file paths
+opt.AddInput(new FileDataSource(inputPath1));
+opt.AddInput(new FileDataSource(inputPath2));
+// set output file path
+opt.AddOutput(new FileDataSource(outputPath));
+// perform the process
+merger.Process(opt);
+```
+
 ## Constructors
 
 | Name | Description |

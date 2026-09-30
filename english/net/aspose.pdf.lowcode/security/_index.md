@@ -18,6 +18,38 @@ Represents [`Security`](../../aspose.pdf.lowcode/security/) plugin.
 public sealed class Security : IPlugin
 ```
 
+## Examples
+
+The example demonstrates how to encrypt PDF document.
+
+```csharp
+// create Security 
+var plugin = new Security();
+// create EncryptionOptions object to set instructions
+var opt = new EncryptionOptions("123456", "qwerty", DocumentPrivilege.ForbidAll));
+// add input file path
+opt.AddInput(new FileDataSource(inputPath));
+// set output file path
+opt.AddOutput(new FileDataSource(outputPath));
+// perform the process
+plugin.Process(opt);
+```
+
+The example demonstrates how to decrypt PDF document.
+
+```csharp
+// create Security 
+var plugin = new Security();
+// create DecryptionOptions object to set instructions
+var opt = new DecryptionOptions("123456"));
+// add input file path
+opt.AddInput(new FileDataSource(inputPath));
+// set output file path
+opt.AddOutput(new FileDataSource(outputPath));
+// perform the process
+plugin.Process(opt);
+```
+
 ## Constructors
 
 | Name | Description |

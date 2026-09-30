@@ -31,24 +31,24 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 ```csharp
 [C#]
- string inFile = TestPath + "example1.pdf";
- string outFile = TestPath + "signature.pdf";
- PdfFileSignature pdfSign = new PdfFileSignature();
- pdfSign.BindPdf(inFile);
- System.Drawing.Rectangle rect = new System.Drawing.Rectangle(100, 100, 200, 200);
- pdfSign.SignatureAppearance = TestPath + "butterfly.jpg";
- pdfSign.SetCertificate("certificate.pfx", "password");
- pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect);
- pdfSign.Save(outFile);
- 
- [Visual Basic]
- Dim pdfSign = new PdfFileSignature()
- pdfSign.BindPdf(inFile)
- Dim rect as System.Drawing.Rectangle = new System.Drawing.Rectangle(100, 100, 200, 200)
- pdfSign.SetCertificate("certificate.pfx", "password")
- pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect)
- pdfSign.SignatureAppearance = TestPath + "butterfly.jpg"
- pdfSign.Save(outFile)
+string inFile = TestPath + "example1.pdf";
+string outFile = TestPath + "signature.pdf";
+PdfFileSignature pdfSign = new PdfFileSignature();
+pdfSign.BindPdf(inFile);
+System.Drawing.Rectangle rect = new System.Drawing.Rectangle(100, 100, 200, 200);
+pdfSign.SignatureAppearance = TestPath + "butterfly.jpg";
+pdfSign.SetCertificate("certificate.pfx", "password");
+pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect);
+pdfSign.Save(outFile);
+
+[Visual Basic]
+Dim pdfSign = new PdfFileSignature()
+pdfSign.BindPdf(inFile)
+Dim rect as System.Drawing.Rectangle = new System.Drawing.Rectangle(100, 100, 200, 200)
+pdfSign.SetCertificate("certificate.pfx", "password")
+pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect)
+pdfSign.SignatureAppearance = TestPath + "butterfly.jpg"
+pdfSign.Save(outFile)
 ```
 
 ### See Also
@@ -83,23 +83,23 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 ```csharp
 [C#]
- string inFile = TestPath + "example1.pdf";
- string outFile = TestPath + "signature.pdf";
- PdfFileSignature pdfSign = new PdfFileSignature(inFile, outFile);
- System.Drawing.Rectangle rect = new System.Drawing.Rectangle(100, 100, 200, 100);
- pdfSign.SignatureAppearance = TestPath + "butterfly.jpg";
- pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect, new PKCS1("certificate.pfx", "password"));
- pdfSign.Save();
- 
- [Visual Basic]
- Dim inFile As String = TestPath & "example1.pdf"
- Dim outFile As String = TestPath & "signature.pdf"
- Dim sig As PKCS1 = new PKCS1("certificate.pfx", "password")
- Dim pdfSign = new PdfFileSignature(inFile, outFile)
- Dim rect as System.Drawing.Rectangle = new System.Drawing.Rectangle(100, 100, 200, 100)
- pdfSign.SignatureAppearance = TestPath & "butterfly.jpg"
- pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect, sig)
- pdfSign.Save()
+string inFile = TestPath + "example1.pdf";
+string outFile = TestPath + "signature.pdf";
+PdfFileSignature pdfSign = new PdfFileSignature(inFile, outFile);
+System.Drawing.Rectangle rect = new System.Drawing.Rectangle(100, 100, 200, 100);
+pdfSign.SignatureAppearance = TestPath + "butterfly.jpg";
+pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect, new PKCS1("certificate.pfx", "password"));
+pdfSign.Save();
+
+[Visual Basic]
+Dim inFile As String = TestPath & "example1.pdf"
+Dim outFile As String = TestPath & "signature.pdf"
+Dim sig As PKCS1 = new PKCS1("certificate.pfx", "password")
+Dim pdfSign = new PdfFileSignature(inFile, outFile)
+Dim rect as System.Drawing.Rectangle = new System.Drawing.Rectangle(100, 100, 200, 100)
+pdfSign.SignatureAppearance = TestPath & "butterfly.jpg"
+pdfSign.Sign(2, "Allen", "success", "ChangSha", true, rect, sig)
+pdfSign.Save()
 ```
 
 ### See Also
@@ -132,30 +132,30 @@ public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
 
 ```csharp
 [C#]
- string inFile = TestPath + "example1.pdf";
- string outFile = TestPath + "signature.pdf";
- PKCS1 sig = new PKCS1("certificate.pfx", "password");
- sig.Reason = "Some reason";
- sig.Contact = "Smith";
- sig.Location = "New York";
- PdfFileSignature pdfSign = new PdfFileSignature(inFile, outFile);
- System.Drawing.Rectangle rect = new System.Drawing.Rectangle(100, 100, 200, 100);
- pdfSign.SignatureAppearance = TestPath + "butterfly.jpg";
- pdfSign.Sign(2, true, rect, sig);
- pdfSign.Save();
- 
- [Visual Basic]
- Dim inFile As String = TestPath & "example1.pdf"
- Dim outFile As String = TestPath & "signature.pdf"
- Dim sig As PKCS1 = new PKCS1("certificate.pfx", "password")
- sig.Reason = "Some reason"
- sig.Contact = "Smith"
- sig.Location = "New York"
- Dim pdfSign = new PdfFileSignature(inFile, outFile)
- Dim rect as System.Drawing.Rectangle = new System.Drawing.Rectangle(100, 100, 200, 100)
- pdfSign.SignatureAppearance = TestPath & "butterfly.jpg"
- pdfSign.Sign(2, true, rect, sig)
- pdfSign.Save()
+string inFile = TestPath + "example1.pdf";
+string outFile = TestPath + "signature.pdf";
+PKCS1 sig = new PKCS1("certificate.pfx", "password");
+sig.Reason = "Some reason";
+sig.Contact = "Smith";
+sig.Location = "New York";
+PdfFileSignature pdfSign = new PdfFileSignature(inFile, outFile);
+System.Drawing.Rectangle rect = new System.Drawing.Rectangle(100, 100, 200, 100);
+pdfSign.SignatureAppearance = TestPath + "butterfly.jpg";
+pdfSign.Sign(2, true, rect, sig);
+pdfSign.Save();
+
+[Visual Basic]
+Dim inFile As String = TestPath & "example1.pdf"
+Dim outFile As String = TestPath & "signature.pdf"
+Dim sig As PKCS1 = new PKCS1("certificate.pfx", "password")
+sig.Reason = "Some reason"
+sig.Contact = "Smith"
+sig.Location = "New York"
+Dim pdfSign = new PdfFileSignature(inFile, outFile)
+Dim rect as System.Drawing.Rectangle = new System.Drawing.Rectangle(100, 100, 200, 100)
+pdfSign.SignatureAppearance = TestPath & "butterfly.jpg"
+pdfSign.Sign(2, true, rect, sig)
+pdfSign.Save()
 ```
 
 ### See Also
@@ -192,22 +192,22 @@ public void Sign(string SigName, string SigReason, string SigContact, string Sig
 
 ```csharp
 [C#]
- string inFile = TestPath + "example1.pdf";
- string outFile = TestPath + "signature.pdf";
- PKCS1 sig = new PKCS1("certificate.pfx", "password");
- PdfFileSignature pdfSign = new PdfFileSignature(inFile, outFile);
- pdfSign.SignatureAppearance = TestPath + "butterfly.jpg";
- pdfSign.Sign("Signature1", "Allen", "success", "ChangSha", sig);
- pdfSign.Save();
- 
- [Visual Basic]
- Dim inFile As String = TestPath & "example1.pdf"
- Dim outFile As String = TestPath & "signature.pdf"
- Dim sig As PKCS1 = new PKCS1("certificate.pfx", "password")
- Dim pdfSign = new PdfFileSignature(inFile, outFile)
- pdfSign.SignatureAppearance = TestPath & "butterfly.jpg"
- pdfSign.Sign("Signature1", "Allen", "success", "ChangSha", sig)
- pdfSign.Save()
+string inFile = TestPath + "example1.pdf";
+string outFile = TestPath + "signature.pdf";
+PKCS1 sig = new PKCS1("certificate.pfx", "password");
+PdfFileSignature pdfSign = new PdfFileSignature(inFile, outFile);
+pdfSign.SignatureAppearance = TestPath + "butterfly.jpg";
+pdfSign.Sign("Signature1", "Allen", "success", "ChangSha", sig);
+pdfSign.Save();
+
+[Visual Basic]
+Dim inFile As String = TestPath & "example1.pdf"
+Dim outFile As String = TestPath & "signature.pdf"
+Dim sig As PKCS1 = new PKCS1("certificate.pfx", "password")
+Dim pdfSign = new PdfFileSignature(inFile, outFile)
+pdfSign.SignatureAppearance = TestPath & "butterfly.jpg"
+pdfSign.Sign("Signature1", "Allen", "success", "ChangSha", sig)
+pdfSign.Save()
 ```
 
 ### See Also
@@ -245,23 +245,23 @@ public void Sign(int page, string SigName, string SigReason, string SigContact, 
 
 ```csharp
 [C#]
- string inFile = TestPath + "blankWithSignature.pdf";
- string outFile = TestPath + "signature.pdf";
- PKCS7 sig = new PKCS7("certificate.pfx", "password");
- PdfFileSignature pdfSign = new PdfFileSignature(inFile);
- System.Drawing.Rectangle rect = new System.Drawing.Rectangle(100, 100, 100, 100);
- pdfSign.SignatureAppearance = TestPath + "butterfly.jpg"
- pdfSign.Sign(1, "Signature1", "ReasonToTest", "ContactMe", "SomeLocation", true, rect, sig); 
- pdfSign.Save(outFile); 
- 
- [Visual Basic]
- Dim inFile As String = TestPath & "blankWithSignature.pdf"
- Dim outFile As String = TestPath & "signature.pdf"
- Dim sig As PKCS7 = new PKCS7("certificate.pfx", "password")
- Dim pdfSign = new PdfFileSignature(inFile, outFile)
- pdfSign.SignatureAppearance = TestPath & "butterfly.jpg"
- pdfSign.Sign("Signature1", "ReasonToTest", "ContactMe", "SomeLocation", true, rect, sig)
- pdfSign.Save(outFile)
+string inFile = TestPath + "blankWithSignature.pdf";
+string outFile = TestPath + "signature.pdf";
+PKCS7 sig = new PKCS7("certificate.pfx", "password");
+PdfFileSignature pdfSign = new PdfFileSignature(inFile);
+System.Drawing.Rectangle rect = new System.Drawing.Rectangle(100, 100, 100, 100);
+pdfSign.SignatureAppearance = TestPath + "butterfly.jpg"
+pdfSign.Sign(1, "Signature1", "ReasonToTest", "ContactMe", "SomeLocation", true, rect, sig);                
+pdfSign.Save(outFile);                
+
+[Visual Basic]
+Dim inFile As String = TestPath & "blankWithSignature.pdf"
+Dim outFile As String = TestPath & "signature.pdf"
+Dim sig As PKCS7 = new PKCS7("certificate.pfx", "password")
+Dim pdfSign = new PdfFileSignature(inFile, outFile)
+pdfSign.SignatureAppearance = TestPath & "butterfly.jpg"
+pdfSign.Sign("Signature1",  "ReasonToTest", "ContactMe", "SomeLocation", true, rect, sig)
+pdfSign.Save(outFile)
 ```
 
 ### See Also
@@ -295,28 +295,28 @@ public void Sign(string SigName, Signature sig)
 
 ```csharp
 [C#]
- string inFile = TestPath + "example1.pdf";
- string outFile = TestPath + "signature.pdf";
- PKCS1 sig = new PKCS1("certificate.pfx", "password");
- sig.Reason = "Some reason";
- sig.Contact = "Smith";
- sig.Location = "New York";
- PdfFileSignature pdfSign = new PdfFileSignature(inFile, outFile);
- pdfSign.SignatureAppearance = TestPath + "butterfly.jpg";
- pdfSign.Sign("Signature1", sig);
- pdfSign.Save();
- 
- [Visual Basic]
- Dim inFile As String = TestPath & "example1.pdf"
- Dim outFile As String = TestPath & "signature.pdf"
- Dim sig As PKCS1 = new PKCS1("certificate.pfx", "password")
- sig.Reason = "Some reason"
- sig.Contact = "Smith"
- sig.Location = "New York"
- Dim pdfSign = new PdfFileSignature(inFile, outFile)
- pdfSign.SignatureAppearance = TestPath & "butterfly.jpg"
- pdfSign.Sign("Signature1", sig)
- pdfSign.Save()
+string inFile = TestPath + "example1.pdf";
+string outFile = TestPath + "signature.pdf";
+PKCS1 sig = new PKCS1("certificate.pfx", "password");
+sig.Reason = "Some reason";
+sig.Contact = "Smith";
+sig.Location = "New York";
+PdfFileSignature pdfSign = new PdfFileSignature(inFile, outFile);
+pdfSign.SignatureAppearance = TestPath + "butterfly.jpg";
+pdfSign.Sign("Signature1", sig);
+pdfSign.Save();
+
+[Visual Basic]
+Dim inFile As String = TestPath & "example1.pdf"
+Dim outFile As String = TestPath & "signature.pdf"
+Dim sig As PKCS1 = new PKCS1("certificate.pfx", "password")
+sig.Reason = "Some reason"
+sig.Contact = "Smith"
+sig.Location = "New York"
+Dim pdfSign = new PdfFileSignature(inFile, outFile)
+pdfSign.SignatureAppearance = TestPath & "butterfly.jpg"
+pdfSign.Sign("Signature1", sig)
+pdfSign.Save()
 ```
 
 ### See Also

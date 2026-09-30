@@ -18,6 +18,12 @@ Date field with calendar view.
 public class DateField : TextBoxField
 ```
 
+## Examples
+
+DateField dateField = new DateField(page, rect);
+ doc.Form.Add(dateField);
+ dateField.Init(page);
+
 ## Constructors
 
 | Name | Description |

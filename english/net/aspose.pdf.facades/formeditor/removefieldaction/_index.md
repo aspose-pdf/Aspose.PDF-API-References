@@ -21,6 +21,13 @@ public void RemoveFieldAction(string fieldName)
 | --- | --- | --- |
 | fieldName | String | Name of the field. |
 
+## Examples
+
+```csharp
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_RemoveFieldAction.pdf");
+formEditor.RemoveFieldAction("btnSubmit");
+```
+
 ### See Also
 
 * class [FormEditor](../)

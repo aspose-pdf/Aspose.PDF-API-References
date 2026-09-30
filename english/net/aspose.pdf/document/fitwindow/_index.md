@@ -17,6 +17,15 @@ Gets or sets flag specifying whether document window must be resized to fit the 
 public bool FitWindow { get; set; }
 ```
 
+## Examples
+
+Example demonstrates how to get FitWindow flag:
+
+```csharp
+Document document = new Document("sample.pdf");
+bool value = document.FitWindow;
+```
+
 ### See Also
 
 * class [Document](../)

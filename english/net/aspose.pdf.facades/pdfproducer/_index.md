@@ -37,16 +37,16 @@ This sample shows how to produce Pdf file from CGM file.
 
 ```csharp
 string inputFile = "myImage.cgm";
- string outputFile = "myPdf.pdf";
- try
- {
- PdfProducer.Produce(inputFile, ImportFormat.Cgm, outputFile);
- // Success produced pdf file.
- }
- catch (InvalidCgmFileFormatException e)
- {
- // Do something...
- }
+string outputFile = "myPdf.pdf";
+try
+{
+    PdfProducer.Produce(inputFile, ImportFormat.Cgm, outputFile);
+    // Success produced pdf file.
+}
+catch (InvalidCgmFileFormatException e)
+{
+    //  Do something...
+}
 ```
 
 ## Methods

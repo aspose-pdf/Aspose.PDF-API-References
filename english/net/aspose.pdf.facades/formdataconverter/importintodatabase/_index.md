@@ -22,6 +22,23 @@ public void ImportIntoDataBase(string connectString, DataType dbType)
 | connectString | String | Connection string of database. |
 | dbType | DataType | Type of database connection: OLEDB or ODBC. |
 
+## Examples
+
+```csharp
+FormDataConverter fc = new FormDataConverter();
+DataTable table = new DataTable();
+table.TableName = "test";
+table.Columns.Add("TEXT_VALUE");
+table.Columns.Add("INT_VALUE");
+fc.Table = table;
+DataRow row = table.NewRow();
+row["TEXT_VALUE"] = "AAA";
+row["INT_VALUE"] = "123";
+table.Rows.Add(row);
+string connection = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=ConverterDatabase.mdb";
+fc.ImportIntoDataBase(connection, DataType.OLEDB);
+```
+
 ### See Also
 
 * enum [DataType](../../../aspose.pdf.lowcode/datatype/)

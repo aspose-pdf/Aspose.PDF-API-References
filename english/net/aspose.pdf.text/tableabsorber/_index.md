@@ -19,6 +19,30 @@ Represents an absorber object of table elements.
 public class TableAbsorber
 ```
 
+## Examples
+
+The example demonstrates how to find table on the first PDF document page and replace the text in a table cell.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Create TableAbsorber object to find tables
+TableAbsorber absorber = new TableAbsorber();
+
+// Visit first page with absorber
+absorber.Visit(pdfDocument.Pages[1]);
+
+// Get access to first table on page, their first cell and text fragments in it
+TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
+
+// Change text of the first text fragment in the cell
+fragment.Text = "hi world";
+
+// Save document
+doc.Save(@"D:\Tests\output.pdf");
+```
+
 ## Constructors
 
 | Name | Description |

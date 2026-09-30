@@ -17,6 +17,15 @@ Gets or sets media box of the page.
 public Rectangle MediaBox { get; set; }
 ```
 
+## Examples
+
+Example demonstrates how to get media box of the page:
+
+```csharp
+Document document = new Document("sample.pdf");
+Rectangle mediaBox = document.Pages[1].MediaBox;
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

@@ -22,6 +22,15 @@ public void DeleteStamp(int pageNumber, int[] index)
 | pageNumber | Int32 | Page number where stamp will be deleted. |
 | index | Int32[] | Stamp indexes. |
 
+## Examples
+
+```csharp
+PdfContentEditor contentEditor = new PdfContentEditor();
+contentEditor.BindPdf("file.pdf");
+contentEditor.DeleteStamp(1, new int[] { 2, 3, 5} );
+contentEditor.Save("outfile.pdf");
+```
+
 ### See Also
 
 * class [PdfContentEditor](../)

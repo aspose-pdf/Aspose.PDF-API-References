@@ -18,6 +18,18 @@ Suppresses update for `Contents` and all `Contents`
 public void SuppressUpdate()
 ```
 
+## Examples
+
+```csharp
+va.SuppressUpdate();
+foreach (var el in graphicAbsorber.Elements)
+{
+    var pos = el.Position;
+    el.Position = new Point(pos.X - 100, pos.Y);
+}
+va.ResumeUpdate();
+```
+
 ### See Also
 
 * [SuppressUpdate](../suppressupdate/)

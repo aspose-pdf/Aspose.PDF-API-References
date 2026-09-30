@@ -21,6 +21,24 @@ public void GetNextPageText(string outputFile)
 | --- | --- | --- |
 | outputFile | String | The file path and name to save the text. |
 
+## Examples
+
+The example demonstrates the GetNextPageText method usage in text extraction scenario.
+
+```csharp
+PdfExtractor extractor = new PdfExtractor();
+extractor.BindPdf(TestPath + @"Aspose.Pdf.Kit.Pdf");
+extractor.ExtractText(Encoding.Unicode);
+String prefix = TestPath + @"Aspose.Pdf.Kit";
+String suffix = ".txt";
+int pageCount = 1;
+while (extractor.HasNextPageText())
+{
+    extractor.GetNextPageText(prefix + pageCount + suffix);
+    pageCount++;
+}
+```
+
 ### See Also
 
 * class [PdfExtractor](../)
@@ -40,6 +58,26 @@ public void GetNextPageText(Stream outputStream)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | The stream to save the text. |
+
+## Examples
+
+The example demonstrates the `GetNextPageText` method usage in text extraction scenario.
+
+```csharp
+PdfExtractor extractor = new PdfExtractor();
+extractor.BindPdf(TestPath + @"Aspose.Pdf.Kit.Pdf");
+extractor.ExtractText(Encoding.Unicode);
+String prefix = TestPath + @"Aspose.Pdf.Kit";
+String suffix = ".txt";
+int pageCount = 1;
+while (extractor.HasNextPageText())
+{
+    FileStream fs = new FileStream(prefix + pageCount + suffix, FileMode.Create);
+    extractor.GetNextPageText(prefix + pageCount + suffix);
+    fs.Close();
+    pageCount++;
+}
+```
 
 ### See Also
 

@@ -21,6 +21,15 @@ public void ImportAnnotationsFromFdf(string fdfFile)
 | --- | --- | --- |
 | fdfFile | String | The input FDF file. |
 
+## Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+editor.ImportAnnotationsFromFdf("annots.fdf");
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [PdfAnnotationEditor](../)

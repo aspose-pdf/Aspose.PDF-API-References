@@ -21,6 +21,13 @@ public Matrix Reverse()
 
 Reverse matrix.
 
+## Examples
+
+```csharp
+Matrix m = Matrix.Rotation(Math.PI / 2);
+Matrix m1 = m.Reverse();
+```
+
 ### See Also
 
 * class [Matrix](../../../aspose.pdf/matrix/)

@@ -17,6 +17,13 @@ Constructor for PdfXmpMetadata.
 public PdfXmpMetadata()
 ```
 
+## Examples
+
+```csharp
+PdfXmlMetadata xmp = new PdfXmpMetadata();
+xmp.BindPdf("input.pdf");
+```
+
 ### See Also
 
 * class [PdfXmpMetadata](../)

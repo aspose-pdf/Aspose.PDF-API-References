@@ -26,6 +26,13 @@ public bool SetSubmitFlag(string fieldName, SubmitFormFlag submitFormFlag)
 
 true if field was found and submit flag was successfully set.
 
+## Examples
+
+```csharp
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetSubmitFlag.pdf");
+formEditor.SetSubmitFlag("btnSubmit", SubmitFormFlag.Fdf);
+```
+
 ### See Also
 
 * enum [SubmitFormFlag](../../../aspose.pdf.facades/submitformflag/)

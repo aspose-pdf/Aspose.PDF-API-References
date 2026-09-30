@@ -28,6 +28,16 @@ public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool
 | actionType | String | The action type. The value can be: "GoToR", "Launch", "GoTo", "URI". |
 | destination | String | The local destination or remote destination or URL. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateBookmarksAction("bookmark title",
+    System.Drawing.Color.Red, true, true, null, "GoTo", 1/*page number*/);
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)

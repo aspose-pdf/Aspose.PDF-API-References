@@ -25,6 +25,13 @@ public int GetFieldLimit(string fieldName)
 
 Return the limitation number of characters a text field can be filled. It not set, return 0.
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+Console.WriteLine(form.GetFieldLimit("textfieldBox"));
+```
+
 ### See Also
 
 * class [Form](../)

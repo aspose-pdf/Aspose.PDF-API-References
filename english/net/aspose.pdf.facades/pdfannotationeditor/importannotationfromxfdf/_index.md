@@ -22,6 +22,16 @@ public void ImportAnnotationFromXfdf(string xfdfFile, AnnotationType[] annotType
 | xfdfFile | String | The input XFDF file. |
 | annotType | AnnotationType[] | The annotations array to be imported. |
 
+## Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+AnnotationType[] annotTypes = {AnnotationType.Highlight, AnnotationType.Text};
+editor.ImportAnnotationFromXfdf("annots.xfdf", annotTypes);
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
@@ -43,6 +53,16 @@ public void ImportAnnotationFromXfdf(Stream xfdfStream, AnnotationType[] annotTy
 | --- | --- | --- |
 | xfdfStream | Stream | The input XFDF data stream. |
 | annotType | AnnotationType[] | The array of annotation types to be imported. |
+
+## Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+AnnotationType[] annotTypes ={ AnnotationType.Highlight, AnnotationType.Line };
+editor.ImportAnnotationFromXfdf(File.OpenRead("annots.xfdf"), annotTypes);
+editor.Save("example_out.pdf");
+```
 
 ### See Also
 

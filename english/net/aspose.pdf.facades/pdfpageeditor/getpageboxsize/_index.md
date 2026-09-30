@@ -26,6 +26,16 @@ public Rectangle GetPageBoxSize(int page, string pageBoxName)
 
 Rectangle which contains requested box.
 
+## Examples
+
+The following example demonstrates how to get media box of the 1st page:
+
+```csharp
+PdfPageEditor editor = new PdfPageEditor();
+editor.BindPdf("sample.pdf");
+System.Drawing.Rectangle rect = editor.GetBoxSize(1, "media");
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

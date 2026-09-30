@@ -17,6 +17,17 @@ Gets all form submit button names.
 public string[] FormSubmitButtonNames { get; }
 ```
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+string[] submits = form.FormSubmitButtonNames;
+foreach(string btn in submits)
+{
+  Console.WriteLine(btn);
+}
+```
+
 ### See Also
 
 * class [Form](../)

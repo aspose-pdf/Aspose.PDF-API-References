@@ -21,6 +21,24 @@ public bool HasNextPageText()
 
 Can get more texts or not, true is can, or false.
 
+## Examples
+
+The example demonstrates the `HasNextPageText` property usage in text extraction scenario.
+
+```csharp
+PdfExtractor extractor = new PdfExtractor();
+extractor.BindPdf(TestPath + @"Aspose.Pdf.Kit.Pdf");
+extractor.ExtractText(Encoding.Unicode);
+String prefix = TestPath + @"Aspose.Pdf.Kit";
+String suffix = ".txt";
+int pageCount = 1;
+while (extractor.HasNextPageText())
+{
+    extractor.GetNextPageText(prefix + pageCount + suffix);
+    pageCount++;
+}
+```
+
 ### See Also
 
 * class [PdfExtractor](../)

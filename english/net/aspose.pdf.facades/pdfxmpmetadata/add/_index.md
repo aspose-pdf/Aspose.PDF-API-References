@@ -22,6 +22,15 @@ public void Add(DefaultMetadataProperties key, XmpValue value)
 | key | DefaultMetadataProperties | The key name. |
 | value | XmpValue | Value which will be added. |
 
+## Examples
+
+```csharp
+PdfXmpMetadata xmp = new PdfXmpMetadata();
+xmp.BindPdf("input.pdf");
+xmp.Add(DefaultMetadataProperties.Nickname, "name1");
+xmp.Save(TestSettings.GetOutputFile("XMP_AddedValue.pdf"));
+```
+
 ### See Also
 
 * enum [DefaultMetadataProperties](../../../aspose.pdf.facades/defaultmetadataproperties/)
@@ -69,6 +78,14 @@ public void Add(string key, XmpValue value)
 | --- | --- | --- |
 | key | String | Key of new element. |
 | value | XmpValue | Value of the element. |
+
+## Examples
+
+```csharp
+PdfXmpMetadata xmp = new PdfXmpMetadata();
+xmp.BindPdf("input.pdf");
+xmp.Add("xmp:Nickname", "Nickname1");
+```
 
 ### See Also
 

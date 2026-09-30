@@ -24,6 +24,17 @@ public void CreateCustomActionLink(Rectangle rect, int originalPage, Color color
 | color | Color | The colour of rectangle for active click. |
 | actionName | Enum[] | The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateCustomActionLink(new System.Drawing.Rectangle(0, 0, 100, 100),
+    1, System.Drawing.Color.Red,
+    new Enum[] { PredefinedAction.FirstPage, PredefinedAction.PrintDialog });
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

@@ -32,6 +32,23 @@ public bool ResizeContentsPct(Stream source, Stream destination, int[] pages, do
 
 true if resized sucessfully.
 
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+Stream src = new Stream("input.pdf", FileMode.Open);
+Stream dest = new Stream("output.pdf", FileMode.Create);
+fileEditor.ResizePct(src, dest, 
+//resize all pages of document
+null, 
+//new contents width = 60% of initial size
+60, 
+//new contents height = 60% of initial size
+60);
+// Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
+// The same for top and bottom margins.
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -62,6 +79,21 @@ public bool ResizeContentsPct(string source, string destination, int[] pages, do
 ### Return Value
 
 true if resize was successful.
+
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+fileEditor.ResizePct("input.pdf", "output.pdf",
+//resize all pages of document
+null, 
+//new contents width = 60% of initial size
+60, 
+//new contents height = 60% of initial size
+60);
+// Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
+// The same for top and bottom margins.
+```
 
 ### See Also
 

@@ -17,6 +17,15 @@ Gets or sets flag specifying whether user interface elements should be hidden wh
 public bool HideWindowUI { get; set; }
 ```
 
+## Examples
+
+Example demonstrates how to get HideWindowUI flag:
+
+```csharp
+Document document = new Document("sample.pdf");
+bool value = document.HideWindowUI;
+```
+
 ### See Also
 
 * class [Document](../)

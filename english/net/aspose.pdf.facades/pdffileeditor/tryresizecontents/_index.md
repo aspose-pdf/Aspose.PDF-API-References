@@ -32,6 +32,30 @@ public bool TryResizeContents(Stream source, Stream destination, int[] pages,
 
 Returns true if success.
 
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+Stream src = new Stream("input.pdf", FileMode.Open);
+Stream dest = new Stream("output.pdf", FileMode.Create);
+PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
+    //left margin = 10% of page width
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    null,
+    //right margin is 10% of page 
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //top margin = 10% of height
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents height is calculated automatically (similar to width)
+    null,
+    //bottom margin is 10%
+    PdfFileEditor.ContentsResizeValue.Percents(10)
+       );
+bool result = fileEditor.TryResizeContents(src, dest, new int[] { 1, 2, 3 }, parameters);
+dest.Close();
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -66,6 +90,22 @@ public bool TryResizeContents(Stream source, Stream destination, int[] pages, do
 
 true if operation completed successfully; otherwise, false.
 
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+Stream src = new Stream("input.pdf", FileMode.Open);
+Stream dest = new Stream("output.pdf", FileMode.Create);
+bool result = fileEditor.TryResizeContents(src, dest, 
+//resize all pages of document
+null, 
+//new contents width = 200
+200, 
+//new contents height = 300
+300);
+// rest area of page will be empty
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -96,6 +136,27 @@ public bool TryResizeContents(string source, string destination, int[] pages,
 ### Return Value
 
 true if resize was successful.
+
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
+    //left margin = 10% of page width
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    null,
+    //right margin is 10% of page 
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //top margin = 10% of height
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents height is calculated automatically (similar to width)
+    null,
+    //bottom margin is 10%
+    PdfFileEditor.ContentsResizeValue.Percents(10)
+       );
+bool result = fileEditor.TryResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3}, parameters);
+```
 
 ### See Also
 

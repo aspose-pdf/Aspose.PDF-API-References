@@ -18,6 +18,24 @@ Represents Aspose.PDF TableGenerator plugin.
 public sealed class TableGenerator : IDisposable, IPlugin
 ```
 
+## Examples
+
+The example demonstrates how to add table to PDF file.
+
+```csharp
+// create TableGenerator
+var generator = new TableGenerator();
+// create TableOptions object to set instructions
+var opt = new TableOptions();
+// add input file paths
+opt.AddInput(new FileDataSource(inputPath1));
+opt.AddInput(new FileDataSource(inputPath2));
+// set output file path
+opt.AddOutput(new FileDataSource(outputPath));
+// perform extraction process
+generator.Process(opt);
+```
+
 ## Constructors
 
 | Name | Description |

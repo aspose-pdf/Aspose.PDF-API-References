@@ -23,6 +23,15 @@ public void MovePosition(float moveX, float moveY)
 | moveX | Single | X-coordinate. |
 | moveY | Single | Y-coordinate. |
 
+## Examples
+
+```csharp
+PdfPageEditor editor = new PdfPageEditor();
+editor.BindPdf("input.pdf");
+editor.MovePosition(-100, 60);
+editor.Save("moved.pdf");
+```
+
 ### See Also
 
 * class [PdfPageEditor](../)

@@ -21,6 +21,24 @@ public virtual void Visit(Page page)
 | --- | --- | --- |
 | page | Page | Pdf pocument page object. |
 
+## Examples
+
+The example demonstrates how to extract text on the first PDF document page.
+
+```csharp
+// open document
+Document doc = new Document(inFile);
+
+// create TextAbsorber object to extract text
+TextAbsorber absorber = new TextAbsorber();
+
+// accept the absorber for all document's pages
+absorber.Visit(doc.Pages[1]);
+
+// get the extracted text
+string extractedText = absorber.Text;
+```
+
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
@@ -42,6 +60,24 @@ public virtual void Visit(XForm form)
 | --- | --- | --- |
 | form | XForm | Pdf form object. |
 
+## Examples
+
+The example demonstrates how to extract text on the first PDF document page.
+
+```csharp
+// open document
+Document doc = new Document(inFile);
+
+// create TextAbsorber object to extract text
+TextAbsorber absorber = new TextAbsorber();
+
+// accept the absorber for all document's pages
+absorber.Visit(doc.Pages[1].Resources.Forms["Xform1"]);
+
+// get the extracted text
+string extractedText = absorber.Text;
+```
+
 ### See Also
 
 * class [XForm](../../../aspose.pdf/xform/)
@@ -62,6 +98,24 @@ public virtual void Visit(Document pdf)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pdf | Document | Pdf pocument object. |
+
+## Examples
+
+The example demonstrates how to extract text on PDF document.
+
+```csharp
+// open document
+Document doc = new Document(inFile);
+
+// create TextAbsorber object to extract text
+TextAbsorber absorber = new TextAbsorber();
+
+// accept the absorber for all document's pages
+absorber.Visit(doc);
+
+// get the extracted text
+string extractedText = absorber.Text;
+```
 
 ### See Also
 

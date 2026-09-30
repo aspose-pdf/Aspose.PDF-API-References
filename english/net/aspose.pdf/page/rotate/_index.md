@@ -17,6 +17,15 @@ Gets or sets rotation of the page.
 public Rotation Rotate { get; set; }
 ```
 
+## Examples
+
+Example demonstrates how to determine page rotation.
+
+```csharp
+Document document = new Document("sample.pdf");
+Console.WriteLine(document.Pages[1].Rotate);
+```
+
 ### See Also
 
 * enum [Rotation](../../../aspose.pdf/rotation/)

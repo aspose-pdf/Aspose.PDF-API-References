@@ -26,6 +26,14 @@ public bool SetFieldAttribute(string fieldName, PropertyFlag flag)
 
 true if attribute was set successfully.
 
+## Examples
+
+```csharp
+FormEditor formEditor = new FormEditor("PdfForm.pdf",  "PdfForm_SetFieldAttribute.pdf");
+formEditor.SetFieldAttribute("listboxField", PropertyFlag.ReadOnly);
+formEditor.SetFieldAttribute("textField", PropertyFlag.NoExport);
+```
+
 ### See Also
 
 * enum [PropertyFlag](../../../aspose.pdf.facades/propertyflag/)

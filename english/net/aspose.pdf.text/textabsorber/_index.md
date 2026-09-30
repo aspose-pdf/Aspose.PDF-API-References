@@ -19,6 +19,24 @@ Represents an absorber object of a text.
 public class TextAbsorber
 ```
 
+## Examples
+
+The example demonstrates how to extract text on the first PDF document page.
+
+```csharp
+// open document
+Document doc = new Document(inFile);
+
+// create TextAbsorber object to extract text
+TextAbsorber absorber = new TextAbsorber();
+
+// accept the absorber for first page
+doc.Pages[1].Accept(absorber);
+
+// get the extracted text
+string extractedText = absorber.Text;
+```
+
 ## Constructors
 
 | Name | Description |

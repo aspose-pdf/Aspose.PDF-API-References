@@ -25,6 +25,17 @@ public PageSize GetPageSize(int page)
 
 Result is instance of PageSize. Use Width and Height properties of the returned object to get page width and height.
 
+## Examples
+
+The following example demonstrates using of GetPageSize method:
+
+```csharp
+PdfPageEditor editor = new PdfPageEditor();
+editor.BindPdf("sample.pdf");
+PageSize size = editor.GetPageSize(1);
+Console.WriteLine("Size of 1st page : " + size.Width + " x " + size.Height);
+```
+
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)

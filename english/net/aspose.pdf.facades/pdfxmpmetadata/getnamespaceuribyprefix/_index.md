@@ -25,6 +25,13 @@ public string GetNamespaceURIByPrefix(string prefix)
 
 Namespace URI.
 
+## Examples
+
+```csharp
+PdfXmpMetadata xmp = new PdfXmpMetadata("input.pdf");
+Console.WriteLine(xmp.GetNamespaceURIByPrefix("xmp"));
+```
+
 ### See Also
 
 * class [PdfXmpMetadata](../)

@@ -25,6 +25,13 @@ public bool Single2Multiple(string fieldName)
 
 If success, return true;else false.
 
+## Examples
+
+```csharp
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
+formEditor.Single2Multiple("textField");
+```
+
 ### See Also
 
 * class [FormEditor](../)

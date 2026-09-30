@@ -21,6 +21,15 @@ public void ImportAnnotationsFromXfdf(string xfdfFile)
 | --- | --- | --- |
 | xfdfFile | String | The input XFDF file. |
 
+## Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+editor.ImportAnnotationsFromXfdf("annots.xfdf");
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [PdfAnnotationEditor](../)
@@ -40,6 +49,15 @@ public void ImportAnnotationsFromXfdf(Stream xfdfStream)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | xfdfStream | Stream | The input XFDF data stream. |
+
+## Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+editor.ImportAnnotationsFromXfdf(File.OpenRead("annots.xfdf"));
+editor.Save("example_out.pdf");
+```
 
 ### See Also
 

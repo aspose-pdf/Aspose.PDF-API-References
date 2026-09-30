@@ -17,6 +17,15 @@ Gets or sets flag specifying whether position of the document's window will be c
 public bool CenterWindow { get; set; }
 ```
 
+## Examples
+
+Example demonstrates how to get CenterWindow flag:
+
+```csharp
+Document document = new Document("sample.pdf");
+bool value = document.CenterWindow;
+```
+
 ### See Also
 
 * class [Document](../)

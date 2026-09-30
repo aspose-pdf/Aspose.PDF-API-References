@@ -30,6 +30,13 @@ public bool TryConcatenate(string firstInputFile, string secInputFile, string ou
 
 true if operation completed successfully; otherwise, false.
 
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+bool result = fileEditor.TryConcatenate("file1.pdf", "file2.pdf", "outfile.pdf");
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -87,6 +94,13 @@ public bool TryConcatenate(string[] inputFiles, string outputFile)
 
 true if operation completed successfully; otherwise, false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+bool result = pfe.TryConcatenate(new string[] { "src1.pdf", "src2.pdf" }, "dest.pdf");
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -114,6 +128,16 @@ public bool TryConcatenate(Stream[] inputStream, Stream outputStream)
 ### Return Value
 
 true if operation completed successfully; otherwise, false.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream stream1 = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream stream2 = new FileStream("file2.pdf", FileMode.Open, FileAccess.Read);
+Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Write);
+bool result = pfe.TryConcatenate(new Stream[] { stream1, stream2 } , outstream);
+```
 
 ### See Also
 
@@ -148,6 +172,13 @@ public bool TryConcatenate(string firstInputFile, string secInputFile, string bl
 
 true if operation completed successfully; otherwise, false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+bool result = pfe.TryConcatenate("src1.pdf", "src2.pdf", "blank.pdf", "dest.pdf");
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -180,6 +211,17 @@ public bool TryConcatenate(Stream firstInputStream, Stream secInputStream, Strea
 ### Return Value
 
 true if operation completed successfully; otherwise, false.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream stream1 = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream stream2 = new FileStream("file2.pdf", FileMode.Open, FileAccess.Read);
+Stream blank = new FileStream("blank.pdf", FileMode.Open, FileAccess.Read);
+Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Write);
+bool result = pfe.TryConcatenate(new Stream[] { stream1, stream2, blank } , outstream);
+```
 
 ### See Also
 

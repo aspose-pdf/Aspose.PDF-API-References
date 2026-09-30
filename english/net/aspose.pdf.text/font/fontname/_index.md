@@ -17,6 +17,24 @@ Gets font name of the [`Font`](../../../aspose.pdf.text/font/) object.
 public string FontName { get; }
 ```
 
+## Examples
+
+The example demonstrates how to search text on first page and view font name of a first text occurrence.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+// Accept the absorber for first page
+doc.Pages[1].Accept(absorber);
+
+// View font name of first text occurrence
+Console.Out.WriteLine(absorber.TextFragments[1].TextState.Font.FontName);
+```
+
 ### See Also
 
 * [TextFragmentAbsorber](../textfragmentabsorber/)

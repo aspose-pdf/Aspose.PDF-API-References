@@ -17,6 +17,19 @@ Extract images from PDF file.
 public void ExtractImage()
 ```
 
+## Examples
+
+```csharp
+PdfExtractor extractor = new PdfExtractor();
+extractor.BindPdf("sample.pdf");
+extractor.ExtractImage();
+int i = 1;
+while (extractor.HasNextImage())
+{
+    extractor.GetNextImage("image-" + i +".pdf");
+}
+```
+
 ### See Also
 
 * class [PdfExtractor](../)

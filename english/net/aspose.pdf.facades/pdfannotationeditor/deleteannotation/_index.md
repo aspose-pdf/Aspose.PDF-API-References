@@ -21,6 +21,15 @@ public void DeleteAnnotation(string annotName)
 | --- | --- | --- |
 | annotName | String | The annotation name |
 
+## Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+editor.DeleteAnnotation("4cfa69cd-9bff-49e0-9005-e22a77cebf38");
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [PdfAnnotationEditor](../)

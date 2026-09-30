@@ -18,6 +18,23 @@ Represents [`Optimizer`](../../aspose.pdf.lowcode/optimizer/) plugin.
 public sealed class Optimizer : IPlugin
 ```
 
+## Examples
+
+The example demonstrates how to optimize PDF document.
+
+```csharp
+// create Optimizer
+var optimizer = new Optimizer();
+// create OptimizeOptions object to set instructions
+var opt = new OptimizeOptions();
+// add input file paths
+opt.AddInput(new FileDataSource(inputPath));
+// set output file path
+opt.AddOutput(new FileDataSource(outputPath));
+// perform the process
+optimizer.Process(opt);
+```
+
 ## Constructors
 
 | Name | Description |

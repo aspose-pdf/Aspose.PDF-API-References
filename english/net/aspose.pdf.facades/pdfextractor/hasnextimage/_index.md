@@ -21,6 +21,19 @@ public bool HasNextImage()
 
 Trues if more images are accessible
 
+## Examples
+
+```csharp
+PdfExtractor extractor = new PdfExtractor();
+extractor.BindPdf("sample.pdf");
+extractor.ExtractImage();
+int i = 1;
+while (extractor.HasNextImage())
+{
+    extractor.GetNextImage("image-" + i +".pdf");
+}
+```
+
 ### See Also
 
 * class [PdfExtractor](../)

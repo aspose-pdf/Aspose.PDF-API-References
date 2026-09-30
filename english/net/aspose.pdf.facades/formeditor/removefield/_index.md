@@ -21,6 +21,14 @@ public void RemoveField(string fieldName)
 | --- | --- | --- |
 | fieldName | String | Name of the field which must be removed. |
 
+## Examples
+
+```csharp
+FormEditr formEditor = new FormEditor("PdfForm.pdf", "FormEditor_RemoveField.pdf");
+formEditor.RemoveField("listboxField");
+formEditor.RemoveField("textField");
+```
+
 ### See Also
 
 * class [FormEditor](../)

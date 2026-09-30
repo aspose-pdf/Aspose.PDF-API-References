@@ -18,6 +18,31 @@ Represents fragment of Pdf text.
 public class TextFragment : BaseParagraph
 ```
 
+## Examples
+
+The example demonstrates how to find text on the first PDF document page and replace the text and it's font.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Find font that will be used to change document text font
+Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
+
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+// Accept the absorber for first page
+doc.Pages[1].Accept(absorber);
+
+// Change text and font of the first text occurrence
+absorber.TextFragments[1].Text = "hi world";
+absorber.TextFragments[1].TextState.Font = font;
+
+// Save document
+doc.Save(@"D:\Tests\output.pdf");
+```
+
 ## Constructors
 
 | Name | Description |

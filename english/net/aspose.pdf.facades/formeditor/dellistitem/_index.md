@@ -22,6 +22,13 @@ public void DelListItem(string fieldName, string itemName)
 | fieldName | String | Name of the field. |
 | itemName | String | Name of the item which must be deleted. |
 
+## Examples
+
+```csharp
+formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_DelListItem.pdf");
+formEditor.DelListItem("listboxField", "item2");
+```
+
 ### See Also
 
 * class [FormEditor](../)

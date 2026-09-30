@@ -29,6 +29,13 @@ public bool TryMakeBooklet(string inputFile, string outputFile)
 
 true if operation completed successfully; otherwise, false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf");
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -56,6 +63,15 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream)
 ### Return Value
 
 true if operation completed successfully; otherwise, false.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream inputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
+Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
+bool result = pfe.TryMakeBooklet(inputStream, outputStream);
+```
 
 ### See Also
 
@@ -86,6 +102,13 @@ public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSiz
 
 True if operation is succeeded.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", PageSize.A4);
+```
+
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
@@ -115,6 +138,15 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pag
 ### Return Value
 
 true if operation completed successfully; otherwise, false.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream inputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
+Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
+bool result = pfe.TryMakeBooklet(inputStream, outputStream, PageSize.A4);
+```
 
 ### See Also
 
@@ -147,6 +179,13 @@ public bool TryMakeBooklet(string inputFile, string outputFile, int[] leftPages,
 
 true if operation completed successfully; otherwise, false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -177,6 +216,15 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, int[] leftPa
 ### Return Value
 
 true if operation completed successfully; otherwise, false.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream inputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
+Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
+bool result = pfe.TryMakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
+```
 
 ### See Also
 
@@ -210,6 +258,13 @@ public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSiz
 
 true if operation completed successfully; otherwise, false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+bool result = pfe.TryMakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
+```
+
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
@@ -242,6 +297,15 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pag
 ### Return Value
 
 true if operation completed successfully; otherwise, false.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream inputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
+Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
+bool result = pfe.TryMakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, new int[] 1, 3, 5, 7 });
+```
 
 ### See Also
 

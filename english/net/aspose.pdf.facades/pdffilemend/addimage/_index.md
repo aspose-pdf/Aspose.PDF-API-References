@@ -31,6 +31,17 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 
 True if success false otherwise.
 
+## Examples
+
+```csharp
+PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
+using (Stream stream = File.OpenRead("picture.jpg"))
+{
+    mendor.AddImage(stream, 1, 10, 10, 100, 100);
+}
+mendor.Close();
+```
+
 ### See Also
 
 * class [PdfFileMend](../)
@@ -61,6 +72,17 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 ### Return Value
 
 True if success false otherwise.
+
+## Examples
+
+```csharp
+PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
+using (Stream stream = File.OpenRead("picture.jpg"))
+{
+    mendor.AddImage(stream, 1, 10, 10, 100, 100, new CompositingParameters(BlendMode.Multiply);
+}
+mendor.Close();
+```
 
 ### See Also
 
@@ -93,6 +115,17 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 
 True if success false otherwise.
 
+## Examples
+
+```csharp
+PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
+using (Stream stream = File.OpenRead("picture.jpg"))
+{
+    mendor.AddImage(stream, new int[]{1, 2}, 10, 10, 100, 100);
+}
+mendor.Close();
+```
+
 ### See Also
 
 * class [PdfFileMend](../)
@@ -123,6 +156,17 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 ### Return Value
 
 True if success false otherwise.
+
+## Examples
+
+```csharp
+PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
+using (Stream stream = File.OpenRead("picture.jpg"))
+{
+    mendor.AddImage(stream, new int[]{1, 2}, 10, 10, 100, 100, new CompositingParameters(BlendMode.Multiply);
+}
+mendor.Close();
+```
 
 ### See Also
 
@@ -155,6 +199,14 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 
 True if success false otherwise.
 
+## Examples
+
+```csharp
+PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
+mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100);
+mendor.Close();
+```
+
 ### See Also
 
 * class [PdfFileMend](../)
@@ -185,6 +237,14 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 ### Return Value
 
 True if success false otherwise.
+
+## Examples
+
+```csharp
+PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
+mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100, new CompositingParameters(BlendMode.Multiply));
+mendor.Close();
+```
 
 ### See Also
 
@@ -217,6 +277,14 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 
 True if success false otherwise.
 
+## Examples
+
+```csharp
+PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
+mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100);
+mendor.Close();
+```
+
 ### See Also
 
 * class [PdfFileMend](../)
@@ -247,6 +315,14 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 ### Return Value
 
 True if success false otherwise.
+
+## Examples
+
+```csharp
+PdfFileMend mendor = new PdfFileMend("example.pdf", "out_example.pdf");
+mendor.AddImage("picture.jpg", 1, 10, 10, 100, 100, new CompositingParameters(BlendMode.Multiply));
+mendor.Close();
+```
 
 ### See Also
 

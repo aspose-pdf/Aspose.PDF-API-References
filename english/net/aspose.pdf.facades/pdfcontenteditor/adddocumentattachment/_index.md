@@ -22,6 +22,15 @@ public void AddDocumentAttachment(string fileAttachmentPath, string description)
 | fileAttachmentPath | String | The path of the file will be attached. |
 | description | String | The description information. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.AddDocumentAttachment("attachment_file.pdf", "description of attachment_file");
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [PdfContentEditor](../)
@@ -44,6 +53,18 @@ public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttach
 | fileAttachmentStream | Stream | The stream of the file will be attached. |
 | fileAttachmentName | String | The attachment name. |
 | description | String | The description information. |
+
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.pdf"))
+{
+    editor.AddDocumentAttachment(attStream, "attachment_file.pdf", "description of attachment_file");
+    editor.Save("example_out.pdf");
+}
+```
 
 ### See Also
 

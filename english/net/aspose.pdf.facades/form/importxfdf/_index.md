@@ -21,6 +21,16 @@ public void ImportXfdf(Stream inputXfdfStream)
 | --- | --- | --- |
 | inputXfdfStream | Stream | The input xfdf(xml) stream. |
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf", "Form_ImportXfdf.pdf");
+Stream fs = new FileStream("export_old.xfdf", FileMode.Open, FileAccess.Read);
+form.ImportXfdf(fs);
+fs.Close();
+form.Save();
+```
+
 ### See Also
 
 * class [Form](../)

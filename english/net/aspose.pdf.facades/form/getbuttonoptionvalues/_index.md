@@ -26,6 +26,15 @@ public Dictionary<string, string> GetButtonOptionValues(string fieldName)
 
 Hash table of option values keyed by form item name
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+Hashtable values = form.GetButtonOptionValues("Color");
+Console.WriteLine(values["White"].ToString());
+Console.WriteLine(values["Black"].ToString());
+```
+
 ### See Also
 
 * class [Form](../)

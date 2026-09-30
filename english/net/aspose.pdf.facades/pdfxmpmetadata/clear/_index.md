@@ -17,6 +17,14 @@ Removes all elements from the object.
 public void Clear()
 ```
 
+## Examples
+
+```csharp
+PdfXmpMetadata xmp = new PdfXmpMetadata();
+xmp.BindPdf("input.pdf");
+xmp.Clear();
+```
+
 ### See Also
 
 * class [PdfXmpMetadata](../)

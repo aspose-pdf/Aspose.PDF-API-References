@@ -17,6 +17,15 @@ Gets or sets bleed box of the page.
 public Rectangle BleedBox { get; set; }
 ```
 
+## Examples
+
+Example demonstrates how to get bleed box of the page:
+
+```csharp
+Document document = new Document("sample.pdf");
+Rectangle bleedBox = document.Pages[1].BleedBox;
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

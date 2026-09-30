@@ -26,6 +26,13 @@ public bool SetSubmitUrl(string fieldName, string url)
 
 true if URL for button was successfully set.
 
+## Examples
+
+```csharp
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetSubmitUrl.pdf");
+formEditor.SetSubmitUrl("btnSubmit", "www.mysite.com");
+```
+
 ### See Also
 
 * class [FormEditor](../)

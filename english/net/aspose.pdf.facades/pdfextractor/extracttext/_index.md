@@ -17,6 +17,19 @@ Extracts text from a Pdf document using Unicode encoding.
 public void ExtractText()
 ```
 
+## Examples
+
+First example demonstrates how to extract all the text from PDF file.
+ 
+ Second example demonstrates how to extract each page's text into one txt file.
+
+```csharp
+PdfExtractor extractor = new PdfExtractor();
+extractor.BindPdf(@"D:\Text\text.pdf");
+extractor.ExtractText();
+extractor.GetText(@"D:\Text\text.txt");
+```
+
 ### See Also
 
 * class [PdfExtractor](../)
@@ -36,6 +49,19 @@ public void ExtractText(Encoding encoding)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | encoding | Encoding | The encoding of the extracted text. |
+
+## Examples
+
+First example demonstrates how to extract all the text from PDF file.
+ 
+ Second example demonstrates how to extract each page's text into one txt file.
+
+```csharp
+PdfExtractor extractor = new PdfExtractor();
+extractor.BindPdf(@"D:\Text\text.pdf");
+extractor.ExtractText(Encoding.Unicode);
+extractor.GetText(@"D:\Text\text.txt");
+```
 
 ### See Also
 

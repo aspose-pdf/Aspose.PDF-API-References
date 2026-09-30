@@ -19,6 +19,32 @@ Represents an absorber object of image placement objects.
 public sealed class ImagePlacementAbsorber
 ```
 
+## Examples
+
+The example demonstrates how to find images on the first PDF document page and get the image placement properties.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Create ImagePlacementAbsorber object to perform image placement search
+ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
+
+// Accept the absorber for first page
+doc.Pages[1].Accept(abs);
+
+// Display image placement properties for all placements
+foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
+{     
+    Console.Out.WriteLine("image width:" + imagePlacement.Rectangle.Width);
+    Console.Out.WriteLine("image height:" + imagePlacement.Rectangle.Height);
+    Console.Out.WriteLine("image LLX:" + imagePlacement.Rectangle.LLX);
+    Console.Out.WriteLine("image LLY:" + imagePlacement.Rectangle.LLY);
+    Console.Out.WriteLine("image horizontal resolution:" + imagePlacement.Resolution.X);
+    Console.Out.WriteLine("image vertical resolution:" + imagePlacement.Resolution.Y);
+}
+```
+
 ## Constructors
 
 | Name | Description |

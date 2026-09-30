@@ -21,6 +21,14 @@ public void ImportFdf(Stream inputFdfStream)
 | --- | --- | --- |
 | inputFdfStream | Stream | The input fdf stream. |
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf", "PdfForm_imported.pdf");
+form.ImportFdf(new FileStream("data.fdf", FileMode.Open, FileAccess.Read));
+form.Save();
+```
+
 ### See Also
 
 * class [Form](../)

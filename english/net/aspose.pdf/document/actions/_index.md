@@ -17,6 +17,16 @@ Gets document actions. This property is instance of DocumentActions class which 
 public DocumentActionCollection Actions { get; }
 ```
 
+## Examples
+
+This example demonstrates how to obtain after open action of the document:
+
+```csharp
+Aspose.Pdf.Document document = new Aspose.Pdf.Document("d:\\work\\aspose\\aspose.pdf.kit.net.new\\trunk\\testdata\\Aspose.Pdf\\PdfWithOpenAction.pdf");
+Aspose.Pdf.Annotations.DocumentActionCollection actions = document.Actions;
+Aspose.Pdf.Annotations.PdfAction afterSavingAction = actions.AfterSaving;
+```
+
 ### See Also
 
 * class [DocumentActionCollection](../../../aspose.pdf.annotations/documentactioncollection/)

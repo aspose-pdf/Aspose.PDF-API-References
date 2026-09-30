@@ -18,6 +18,15 @@ Gets or sets starting number for first page in input file. Next pages will be nu
 public int StartingNumber { get; set; }
 ```
 
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+fileStamp.StartingNumber = 100;
+fileStamp.AddPageNumber("Page #");
+fileStamp.Close();
+```
+
 ### See Also
 
 * class [PdfFileStamp](../)

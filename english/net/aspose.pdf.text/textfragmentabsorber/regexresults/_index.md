@@ -17,6 +17,26 @@ Gets dictionary of search occurrences that are presented with System.Text.Regula
 public Dictionary<Regex, TextFragmentCollection> RegexResults { get; }
 ```
 
+## Examples
+
+The example demonstrates how to find text with array of regular expressions on the first PDF document page.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+var regexes = new Regex[]
+{
+new Regex( @"expression1", RegexOptions.IgnoreCase),
+new Regex( @"expression2", RegexOptions.IgnoreCase),
+};
+// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+TextFragmentAbsorber absorber = new TextFragmentAbsorber(regexes, new TextSearchOptions(true));
+doc.Pages[1].Accept(absorber);
+// Get results
+var results = absorber.RegexResults;
+```
+
 ### See Also
 
 * class [TextFragmentAbsorber](../)

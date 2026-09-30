@@ -28,6 +28,13 @@ public bool MakeNUp(string inputFile, string outputFile, int x, int y)
 
 boolean - True for success, or false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.MakeNUp("input.pdf", "output.pdf", 3, 3);
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -54,6 +61,15 @@ public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y)
 ### Return Value
 
 boolean - True for success, or false.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream inputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
+Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
+pfe.MakeNUp(inputStream, outputStream, 3, 3);
+```
 
 ### See Also
 
@@ -82,6 +98,15 @@ public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y, PageS
 ### Return Value
 
 True if operation was succeeded.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream inputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
+Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
+pfe.MakeNUp(inputStream, outputStream, 3, 3, PageSize.A4);
+```
 
 ### See Also
 
@@ -112,6 +137,13 @@ public bool MakeNUp(string firstInputFile, string secondInputFile, string output
 
 boolean - True for success, or false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.MakeNUp("input1.pdf", "input2.pdf", "output.pdf");
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -137,6 +169,16 @@ public bool MakeNUp(Stream firstInputStream, Stream secondInputStream, Stream ou
 ### Return Value
 
 boolean - True for success, or false.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream input1 = new FileStream("input1.pdf", FileMode.Open, FileAccess.Read);
+Stream input2 = new FileStream("input2.pdf", FileMode.Open, FileAccess.Read);
+Stream output = new FileStream("output.pdf");
+pfe.MakeNUp(input1, input2, output);
+```
 
 ### See Also
 
@@ -167,6 +209,13 @@ public bool MakeNUp(string[] inputFiles, string outputFile, bool isSidewise)
 
 boolean - True for success, or false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.MakeNUp(new string[] { "input1.pdf", "input2.pdf", "input3.pdf" }, "output.pdf", false);
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -196,6 +245,17 @@ public bool MakeNUp(Stream[] inputStreams, Stream outputStream, bool isSidewise)
 
 boolean - True for success, or false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream stream1 = new FileStream("input1.pdf", FileMode.Open, FileAccess.Read);
+Stream stream2 = new FileStream("input2.pdf", FileMode.Open, FileAccess.Read);
+Stream stream3 = new FileStream("input3.pdf", FileMode.Open, FileAccess.Read);
+Stream output = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
+pfe.MakeNUp(new Stream[] { stream1, stream2, stream3 }, output, false);
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -223,6 +283,13 @@ public bool MakeNUp(string inputFile, string outputFile, int x, int y, PageSize 
 ### Return Value
 
 boolean - True for success, or false.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.MakeNUp("input.pdf", "output.pdf", 3, 3, PageSize.A4);
+```
 
 ### See Also
 

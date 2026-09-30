@@ -28,6 +28,13 @@ public bool Extract(string inputFile, int startPage, int endPage, string outputF
 
 True for success, or false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.Extract("input.pdf", 3, 7, "output.pdf");
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -53,6 +60,13 @@ public bool Extract(string inputFile, int[] pageNumber, string outputFile)
 ### Return Value
 
 True if operation was succeeded.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.Extract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
+```
 
 ### See Also
 
@@ -81,6 +95,15 @@ public bool Extract(Stream inputStream, int startPage, int endPage, Stream outpu
 
 True for success, or false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
+pfe.Extract(sourceStream, 1, 3, 6, outStream);
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -106,6 +129,15 @@ public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
 ### Return Value
 
 True for success, or false.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
+pfe.Extract(sourceStream, new int[] { 3, 5, 8 }, outStream);
+```
 
 ### See Also
 

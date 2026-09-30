@@ -25,6 +25,16 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(Stream stream)
 
 A collection of [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) indicating the result of the import operation for each form field.
 
+## Examples
+
+```csharp
+Document document = new Document("PdfDoc.pdf");
+FileStream fs = new FileStream("import.json", FileMode.Open, FileAccess.Read);
+document.Form.ImportFormFieldsFromJson(fs);
+fs.Close();
+document.Save();
+```
+
 ### See Also
 
 * class [Form](../)
@@ -48,6 +58,15 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(string fileName)
 ### Return Value
 
 A collection of [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) indicating the result of the import operation for each form field.
+
+## Examples
+
+```csharp
+Document document = new Document("PdfDoc.pdf");
+string jsonPath = "import.json";
+document.Form.ImportFormFieldsFromJson(jsonPath);
+document.Save();
+```
 
 ### See Also
 

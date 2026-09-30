@@ -25,6 +25,13 @@ public string GetRichText(string fieldName)
 
 Return a string containing formatting information of the Rich Text field.
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+Console.WriteLine(form.GetRichText("txtDescriptionRTF"));
+```
+
 ### See Also
 
 * class [Form](../)

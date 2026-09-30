@@ -18,6 +18,20 @@ Gets page resources. Resources object contains collections of images, forms and 
 public Resources Resources { get; }
 ```
 
+## Examples
+
+Example demonstrates scan through page images:
+
+```csharp
+Document document = new Document("sample.pdf");
+DocumentActions actions = document.Actions;
+Resources resources = document.Pages[1].Resources;
+foreach(XImage image in resources.Images)
+{
+  Console.WriteLine(image.Width + ":" + image.Height);
+}
+```
+
 ### See Also
 
 * class [Resources](../../../aspose.pdf/resources/)

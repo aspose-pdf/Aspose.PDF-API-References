@@ -18,6 +18,24 @@ Represents Aspose.PDF TocGenerator plugin.
 public sealed class TocGenerator : IDisposable, IPlugin
 ```
 
+## Examples
+
+The example demonstrates how to add TOC to PDF file.
+
+```csharp
+// create TocGenerator
+var generator = new TocGenerator();
+// create TocOptions object to set instructions
+var opt = new TocOptions();
+// add input file paths
+opt.AddInput(new FileDataSource(inputPath1));
+opt.AddInput(new FileDataSource(inputPath2));
+// set output file path
+opt.AddOutput(new FileDataSource(outputPath));
+// perform extraction process
+generator.Process(opt);
+```
+
 ## Constructors
 
 | Name | Description |

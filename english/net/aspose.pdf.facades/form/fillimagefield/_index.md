@@ -23,6 +23,14 @@ public void FillImageField(string fieldName, string imageFileName)
 | fieldName | String | The fully qualified field name of the image button field. |
 | imageFileName | String | The path of the image file, relative and absolute are both ok. |
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf", "PdfForm_filled.pdf");
+form.FillImageField("fieldName", "file.jpg");
+form.Save();
+```
+
 ### See Also
 
 * class [Form](../)
@@ -44,6 +52,13 @@ public void FillImageField(string fieldName, Stream imageStream)
 | --- | --- | --- |
 | fieldName | String | The fully qualified field name. |
 | imageStream | Stream | The image's stream. |
+
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf", "PdfForm_filled.pdf");
+form.FillImageField("fieldName", new FileStream("file.jpg", FileMode.Open, FileAccess.Read));
+```
 
 ### See Also
 

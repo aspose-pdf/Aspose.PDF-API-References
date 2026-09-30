@@ -68,29 +68,29 @@ public void GetNextImage(string outputFile, ImageFormat format)
 
 ```csharp
 [C#]
- PdfConverter converter = new PdfConverter();
- converter.BindPdf(@"D:\Test\test.pdf");
- converter.DoConvert();
- String prefix = @"D:\Test\";
- String suffix = ".png";
- int imageCount = 1;
- while (converter.HasNextImage())
- {
- converter.GetNextImage(prefix + imageCount + suffix, ImageFormat.Png);
- imageCount++;
- }
- 
- [Visual Basic]
- Dim converter As PdfConverter = New PdfConverter() 
- converter.BindPdf("D:\Test\test.pdf")
- converter.DoConvert()
- Dim prefix As String = "D:\Test\" 
- Dim suffix As String = ".png" 
- Dim imageCount As Integer = 1 
- While converter.HasNextImage()
- converter.GetNextImage(prefix + imageCount + suffix, ImageFormat.Png)
- imageCount = imageCount + 1
- End While
+PdfConverter converter = new PdfConverter();
+converter.BindPdf(@"D:\Test\test.pdf");
+converter.DoConvert();
+String prefix = @"D:\Test\";
+String suffix = ".png";
+int imageCount = 1;
+while (converter.HasNextImage())
+{
+	converter.GetNextImage(prefix + imageCount + suffix, ImageFormat.Png);
+	imageCount++;
+}
+
+[Visual Basic]
+Dim converter As PdfConverter =  New PdfConverter() 
+converter.BindPdf("D:\Test\test.pdf")
+converter.DoConvert()
+Dim prefix As String =  "D:\Test\" 
+Dim suffix As String =  ".png" 
+Dim imageCount As Integer =  1 
+While converter.HasNextImage()
+	converter.GetNextImage(prefix + imageCount + suffix, ImageFormat.Png)
+	imageCount = imageCount + 1
+End While
 ```
 
 ### See Also
@@ -235,29 +235,29 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 
 ```csharp
 [C#]
- PdfConverter converter = new PdfConverter();
- converter.BindPdf(@"D:\Test\test.pdf");
- converter.DoConvert();
- String prefix = @"D:\Test\";
- String suffix = ".jpg";
- int imageCount = 1;
- while (converter.HasNextImage())
- {
- converter.GetNextImage(prefix + imageCount + suffix, ImageFormat.Jpeg, 800, 1000, 50);
- imageCount++;
- }
- 
- [Visual Basic]
- Dim converter As PdfConverter = New PdfConverter() 
- converter.BindPdf("D:\Test\test.pdf")
- converter.DoConvert()
- Dim prefix As String = "D:\Test\" 
- Dim suffix As String = ".jpg" 
- Dim imageCount As Integer = 1 
- While converter.HasNextImage()
- converter.GetNextImage(prefix + imageCount + suffix, ImageFormat.Jpeg, 800, 1000, 50)
- imageCount = imageCount + 1
- End While
+PdfConverter converter = new PdfConverter();
+converter.BindPdf(@"D:\Test\test.pdf");
+converter.DoConvert();
+String prefix = @"D:\Test\";
+String suffix = ".jpg";
+int imageCount = 1;
+while (converter.HasNextImage())
+{
+	converter.GetNextImage(prefix + imageCount + suffix, ImageFormat.Jpeg, 800, 1000, 50);
+	imageCount++;
+}
+
+[Visual Basic]
+Dim converter As PdfConverter =  New PdfConverter() 
+converter.BindPdf("D:\Test\test.pdf")
+converter.DoConvert()
+Dim prefix As String =  "D:\Test\" 
+Dim suffix As String =  ".jpg" 
+Dim imageCount As Integer =  1 
+While converter.HasNextImage()
+	converter.GetNextImage(prefix + imageCount + suffix, ImageFormat.Jpeg, 800, 1000, 50)
+	imageCount = imageCount + 1
+End While
 ```
 
 ### See Also
@@ -316,33 +316,33 @@ public void GetNextImage(string outputFile, ImageFormat format, double imageWidt
 
 ```csharp
 [C#]
- PdfConverter converter = new PdfConverter();
- converter.BindPdf(@"D:\Test\test.pdf");
- converter.DoConvert();
- String prefix = @"D:\Test\";
- String suffix = ".jpg";
- int imageCount = 1;
- float pixelX=800f;
- float pixelY=600f;
- while (converter.HasNextImage())
- {
- converter.GetNextImage(prefix + imageCount + suffix, ImageFormat.Jpeg, pixelX, pixelY, 50);
- imageCount++;
- }
- 
- [Visual Basic]
- Dim converter As PdfConverter = New PdfConverter() 
- converter.BindPdf("D:\Test\test.pdf")
- converter.DoConvert()
- Dim prefix As String = "D:\Test\" 
- Dim suffix As String = ".jpg" 
- Dim pixelX As float =800
- Dim pixelY As float=600
- Dim imageCount As Integer = 1 
- While converter.HasNextImage()
- converter.GetNextImage(prefix + imageCount + suffix, ImageFormat.Jpeg, pixelX, pixelY, 50)
- imageCount = imageCount + 1
- End While
+PdfConverter converter = new PdfConverter();
+converter.BindPdf(@"D:\Test\test.pdf");
+converter.DoConvert();
+String prefix = @"D:\Test\";
+String suffix = ".jpg";
+int imageCount = 1;
+float pixelX=800f;
+float pixelY=600f;
+while (converter.HasNextImage())
+{
+	converter.GetNextImage(prefix + imageCount + suffix, ImageFormat.Jpeg, pixelX, pixelY, 50);
+	imageCount++;
+}
+
+[Visual Basic]
+Dim converter As PdfConverter =  New PdfConverter() 
+converter.BindPdf("D:\Test\test.pdf")
+converter.DoConvert()
+Dim prefix As String =  "D:\Test\" 
+Dim suffix As String =  ".jpg" 
+Dim pixelX As float =800
+Dim pixelY As float=600
+Dim imageCount As Integer =  1 
+While converter.HasNextImage()
+	converter.GetNextImage(prefix + imageCount + suffix, ImageFormat.Jpeg, pixelX, pixelY, 50)
+	imageCount = imageCount + 1
+End While
 ```
 
 ### See Also
@@ -399,29 +399,29 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 
 ```csharp
 [C#]
- PdfConverter converter = new PdfConverter();
- converter.BindPdf(@"D:\Test\test.pdf");
- converter.DoConvert();
- String prefix = @"D:\Test\";
- String suffix = ".jpg";
- int imageCount = 1;
- while (converter.HasNextImage())
- {
- converter.GetNextImage(prefix + imageCount + suffix, ImageFormat.Jpeg, 800, 1000);
- imageCount++;
- }
- 
- [Visual Basic]
- Dim converter As PdfConverter = New PdfConverter() 
- converter.BindPdf("D:\Test\test.pdf")
- converter.DoConvert()
- Dim prefix As String = "D:\Test\" 
- Dim suffix As String = ".jpg" 
- Dim imageCount As Integer = 1 
- While converter.HasNextImage()
- converter.GetNextImage(prefix + imageCount + suffix, ImageFormat.Jpeg, 800, 1000)
- imageCount = imageCount + 1
- End While
+PdfConverter converter = new PdfConverter();
+converter.BindPdf(@"D:\Test\test.pdf");
+converter.DoConvert();
+String prefix = @"D:\Test\";
+String suffix = ".jpg";
+int imageCount = 1;
+while (converter.HasNextImage())
+{
+	converter.GetNextImage(prefix + imageCount + suffix, ImageFormat.Jpeg, 800, 1000);
+	imageCount++;
+}
+
+[Visual Basic]
+Dim converter As PdfConverter =  New PdfConverter() 
+converter.BindPdf("D:\Test\test.pdf")
+converter.DoConvert()
+Dim prefix As String =  "D:\Test\" 
+Dim suffix As String =  ".jpg" 
+Dim imageCount As Integer =  1 
+While converter.HasNextImage()
+	converter.GetNextImage(prefix + imageCount + suffix, ImageFormat.Jpeg, 800, 1000)
+	imageCount = imageCount + 1
+End While
 ```
 
 ### See Also

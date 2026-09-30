@@ -27,6 +27,15 @@ public IEnumerable<FieldSerializationResult> ExportToJson(Stream stream,
 
 A collection of [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) indicating the result of the export operation for each form field.
 
+## Examples
+
+```csharp
+Document document = new Document("PdfDoc.pdf");
+FileStream fs = new FileStream("export.json", FileMode.Create, FileAccess.Write);
+document.Form.ExportFormFieldsToJson(fs);
+fs.Close();
+```
+
 ### See Also
 
 * class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
@@ -53,6 +62,14 @@ public IEnumerable<FieldSerializationResult> ExportToJson(string fileName,
 ### Return Value
 
 A collection of [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) indicating the result of the export operation for each form field.
+
+## Examples
+
+```csharp
+Document document = new Document("PdfDoc.pdf");
+string jsonPath = "export.json";
+document.Form..ExportFormFieldsToJson(jsonPath);
+```
 
 ### See Also
 

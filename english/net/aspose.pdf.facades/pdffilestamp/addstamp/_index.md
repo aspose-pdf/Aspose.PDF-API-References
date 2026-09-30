@@ -21,6 +21,20 @@ public void AddStamp(Stamp stamp)
 | --- | --- | --- |
 | stamp | Stamp | Stamp object which. |
 
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+Stamp stamp = new Aspose.Pdf.Facades.Stamp();
+stamp.SetOrigin(140, 400);
+stamp.SetImageSize(50, 50);
+stamp.Opacity = 0.8f;
+stamp.IsBackground = true;
+stamp.BindImage("image.jpg");
+fileStamp.AddStamp(stamp);
+fileStamp.Close();
+```
+
 ### See Also
 
 * class [Stamp](../../../aspose.pdf.facades/stamp/)

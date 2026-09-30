@@ -18,6 +18,42 @@ Provides methods to set metered key.
 public class Metered
 ```
 
+## Examples
+
+In this example, an attempt will be made to set metered public and private key.
+
+```csharp
+[C#]
+
+var metered = new Metered();
+metered.SetMeteredKey("PublicKey", "PrivateKey");
+```
+
+Shows how to activate a Metered license and track credit/consumption.
+
+```csharp
+[C#]
+
+// Set metered public and private keys
+var metered = new Aspose.Pdf.Metered();
+metered.SetMeteredKey("PublicKey", "PrivateKey");
+//Get current Consumption Credit and Quantity
+var wasCredit = Metered.GetConsumptionCredit();
+var wasQuantity = Metered.GetConsumptionQuantity();
+//Operate using Aspose.Pdf
+var doc = new Document();
+doc.Pages.Add();
+doc.Save(dataDir + "example.pdf");
+//Little wait to be sure the transaction completed
+System.Threading.Thread.Sleep(10000);
+//Get current Consumption Credit and Quantity
+var nowCredit = Metered.GetConsumptionCredit();
+var nowQuantity = Metered.GetConsumptionQuantity();
+//Show Info
+Console.WriteLine("Credit: was={0} now={1} difference={2}", wasCredit, nowCredit, nowCredit - wasCredit);
+Console.WriteLine("Quantity: was={0} now={1} difference={2}", wasQuantity, nowQuantity, nowQuantity - wasQuantity);
+```
+
 ## Constructors
 
 | Name | Description |

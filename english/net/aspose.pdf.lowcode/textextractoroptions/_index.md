@@ -18,6 +18,28 @@ Represents text extraction options for the [TextExtractor](../textextractor/) pl
 public sealed class TextExtractorOptions : PdfExtractorOptions
 ```
 
+## Examples
+
+The example demonstrates how to extract text content of PDF document.
+
+```csharp
+// create TextExtractor object to extract PDF contents
+using (TextExtractor extractor = new TextExtractor())
+{
+    // create TextExtractorOptions object to set TextFormattingMode (Pure,  or Raw - default)
+    extractorOptions = new TextExtractorOptions(TextExtractorOptions.TextFormattingMode.Pure);
+
+    // add input file path to data sources
+    extractorOptions.AddInput(new FileDataSource(inputPath));
+
+    // perform extraction process
+    ResultContainer resultContainer = extractor.Process(extractorOptions);
+
+    // get the extracted text from the ResultContainer object
+    string textExtracted = resultContainer.ResultCollection[0].ToString();
+}
+```
+
 ## Constructors
 
 | Name | Description |

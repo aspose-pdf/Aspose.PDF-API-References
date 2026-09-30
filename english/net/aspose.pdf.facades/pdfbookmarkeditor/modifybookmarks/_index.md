@@ -22,6 +22,15 @@ public void ModifyBookmarks(string sTitle, string dTitle)
 | sTitle | String | Source bookmark title. |
 | dTitle | String | Modified bookmark title. |
 
+## Examples
+
+```csharp
+PdfBookmarkEditor editor = new PdfBookmarkEditor();
+editor.BindPdf("example.pdf");
+editor.ModifyBookmarks("existing bookmark title", "new bookmark title");
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [PdfBookmarkEditor](../)

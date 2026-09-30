@@ -18,6 +18,23 @@ Represents [`Signature`](../../aspose.pdf.lowcode/signature/) plugin.
 public sealed class Signature : IPlugin
 ```
 
+## Examples
+
+The example demonstrates how to sign PDF document.
+
+```csharp
+// create Signature
+var plugin = new Signature();
+// create SignOptions object to set instructions
+var opt = new SignOptions(inputPfx, inputPfxPassword);
+// add input file path
+opt.AddInput(new FileDataSource(inputPath));
+// set output file path
+opt.AddOutput(new FileDataSource(outputPath));
+// perform the process
+plugin.Process(opt);
+```
+
 ## Constructors
 
 | Name | Description |

@@ -21,6 +21,15 @@ public void DeleteStampByIds(int[] stampIds)
 | --- | --- | --- |
 | stampIds | Int32[] | Array of stamp IDs. |
 
+## Examples
+
+```csharp
+PdfContentEditor contentEditor = new PdfContentEditor();
+contentEditor.BindPdf("file.pdf");
+contentEditor.DeleteStampByIds(new int[] { 102, 103 } );
+contentEditor.Save("outfile.pdf");
+```
+
 ### See Also
 
 * class [PdfContentEditor](../)
@@ -41,6 +50,15 @@ public void DeleteStampByIds(int pageNumber, int[] stampIds)
 | --- | --- | --- |
 | pageNumber | Int32 | Page number where stamps will be deleted. |
 | stampIds | Int32[] | Array of stamp IDs. |
+
+## Examples
+
+```csharp
+PdfContentEditor contentEditor = new PdfContentEditor();
+contentEditor.BindPdf("file.pdf");
+contentEditor.DeleteStampByIds(1, new int[] { 100, 101 } );
+contentEditor.Save("outfile.pdf");
+```
 
 ### See Also
 

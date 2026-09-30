@@ -18,6 +18,28 @@ Represents ImageExtractor plugin.
 public class ImageExtractor : PdfExtractor
 ```
 
+## Examples
+
+The example demonstrates how to extract images from PDF document.
+
+```csharp
+// create ImageExtractor object to extract images
+using (ImageExtractor extractor = new ImageExtractor())
+{
+    // create ImageExtractorOptions
+    imageExtractorOptions = new ImageExtractorOptions();
+
+    // add input file path to data sources
+    imageExtractor.AddDataSource(new FileDataSource(inputPath));
+
+    // perform extraction process
+    ResultContainer resultContainer = extractor.Process(imageExtractorOptions);
+
+    // get the image from the ResultContainer object
+    var imageExtracted = resultContainer.ResultCollection[0].ToFile();
+}
+```
+
 ## Constructors
 
 | Name | Description |

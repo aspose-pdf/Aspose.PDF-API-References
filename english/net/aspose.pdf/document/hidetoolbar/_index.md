@@ -17,6 +17,15 @@ Gets or sets flag specifying whether toolbar should be hidden when document is a
 public bool HideToolBar { get; set; }
 ```
 
+## Examples
+
+Example demonstrates how to get HideToolBar flag:
+
+```csharp
+Document document = new Document("sample.pdf");
+bool value = document.HideToolBar;
+```
+
 ### See Also
 
 * class [Document](../)

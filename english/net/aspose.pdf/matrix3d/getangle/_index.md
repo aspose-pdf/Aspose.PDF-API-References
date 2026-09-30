@@ -25,6 +25,13 @@ public static double GetAngle(Rotation rotation)
 
 Angle value.
 
+## Examples
+
+```csharp
+double angle = Matrix.GetAngle(Rotation.on90);
+Matrix m = Matrix.Rotation(angle);
+```
+
 ### See Also
 
 * enum [Rotation](../../../aspose.pdf/rotation/)

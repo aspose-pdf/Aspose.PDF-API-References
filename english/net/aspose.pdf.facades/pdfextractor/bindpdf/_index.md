@@ -21,6 +21,13 @@ public override void BindPdf(string inputFile)
 | --- | --- | --- |
 | inputFile | String | PDF file to bind |
 
+## Examples
+
+```csharp
+PdfExtractor ext = new PdfExtractor();
+ext.BindPdf("sample.pdf");
+```
+
 ### See Also
 
 * class [PdfExtractor](../)
@@ -40,6 +47,14 @@ public override void BindPdf(Stream inputStream)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Stream containing PDF document data |
+
+## Examples
+
+```csharp
+PdfExtractor ext = new PdfExtractor();
+Stream stream = new FileStream("sample.pdf", FileMode.Open, FileAccess.Read);
+ext.BindPdf(stream);
+```
 
 ### See Also
 

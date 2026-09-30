@@ -17,6 +17,12 @@ Constructor for FormEditor.
 public FormEditor()
 ```
 
+## Examples
+
+```csharp
+FormEditor formEditor = new FormEditor();
+```
+
 ### See Also
 
 * class [FormEditor](../)

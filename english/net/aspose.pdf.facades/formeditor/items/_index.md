@@ -22,6 +22,15 @@ Sets items which will be added t onewly created list box or combo box.
 public string[] Items { get; set; }
 ```
 
+## Examples
+
+```csharp
+formEditor = new Aspose.Pdf.Facades.FormEditor("input.pdf", "output.pdf");
+formEditor.Items = new string[] { "AAA", "BBB", "CCC" };
+formEditor.AddField(FieldType.ListBox, "AddedListBoxField", "BBB", 1, 10, 30, 110, 130);
+formEditor.Save();
+```
+
 ### See Also
 
 * class [FormEditor](../)

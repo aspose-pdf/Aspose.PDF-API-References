@@ -18,6 +18,17 @@ Gets or sets background status. If true stamp will be placed as background of th
 public bool IsBackground { get; set; }
 ```
 
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+Stamp stamp = new Stamp();
+stamp.BindLogo(new FormattedText("STAMP"));
+stamp.IsBackground = true;
+fileStamp.AddStamp(stamp);
+fileStamp.Close();
+```
+
 ### See Also
 
 * class [Stamp](../)

@@ -18,6 +18,22 @@ Represents [`XlsConverter`](../../aspose.pdf.lowcode/xlsconverter/) plugin.
 public sealed class XlsConverter : IDisposable, IPlugin
 ```
 
+## Examples
+
+The example demonstrates how to convert PDF to XLSX document.
+
+```csharp
+// create XlsConverter converter
+var converter = new XlsConverter();
+// create PdfToXLSOptions 
+var opt = new PdfToXLSOptions();
+// add input file path
+opt.AddInput(new FileDataSource(inputPath));
+// set output file path
+opt.AddOutput(new FileDataSource(outputPath));
+converter.Process(opt);
+```
+
 ## Constructors
 
 | Name | Description |

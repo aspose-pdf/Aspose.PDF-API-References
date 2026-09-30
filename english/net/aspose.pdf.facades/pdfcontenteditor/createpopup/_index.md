@@ -24,6 +24,15 @@ public void CreatePopup(Rectangle rect, string contents, bool open, int page)
 | open | Boolean | A flag specifying whether the pop-up annotation should initially be displayed open. |
 | page | Int32 | The number of original page where the annotation will be created. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreatePopup(new System.Drawing.Rectangle(0, 0, 100, 100), "Welcome to Aspose", true, 1);
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

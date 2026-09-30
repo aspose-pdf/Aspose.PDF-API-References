@@ -27,19 +27,19 @@ public static void PrintDocuments(params Document[] documents)
 
 ```csharp
 [C#]
- using (Aspose.Pdf.Document document1 = new Aspose.Pdf.Document(dataDir + "PrintDocument.pdf"),
- document2 = new Aspose.Pdf.Document(dataDir + "Print-PageRange.pdf"),
- document3 = new Aspose.Pdf.Document(dataDir + "35925_1_3.xps", new Aspose.Pdf.XpsLoadOptions()))
- {
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(document1, document2, document3);
- }
- 
- [VisualBasic]
- Using document1 As New Aspose.Pdf.Document(dataDir & "PrintDocument.pdf"),
- document2 As New Aspose.Pdf.Document(dataDir & "Print-PageRange.pdf"),
- document3 As New Aspose.Pdf.Document(dataDir & "35925_1_3.xps", New Aspose.Pdf.XpsLoadOptions())
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(document1, document2, document3)
- End Using
+using (Aspose.Pdf.Document document1 = new Aspose.Pdf.Document(dataDir + "PrintDocument.pdf"),
+                           document2 = new Aspose.Pdf.Document(dataDir + "Print-PageRange.pdf"),
+                           document3 = new Aspose.Pdf.Document(dataDir + "35925_1_3.xps", new Aspose.Pdf.XpsLoadOptions()))
+{
+    Aspose.Pdf.Facades.PdfViewer.PrintDocuments(document1, document2, document3);
+}
+
+[VisualBasic]
+Using document1 As New Aspose.Pdf.Document(dataDir & "PrintDocument.pdf"),
+      document2 As New Aspose.Pdf.Document(dataDir & "Print-PageRange.pdf"),
+      document3 As New Aspose.Pdf.Document(dataDir & "35925_1_3.xps", New Aspose.Pdf.XpsLoadOptions())
+     Aspose.Pdf.Facades.PdfViewer.PrintDocuments(document1, document2, document3)
+End Using
 ```
 
 ### See Also
@@ -70,18 +70,18 @@ public static void PrintDocuments(params string[] filePaths)
 
 ```csharp
 [C#]
- var path1 = dataDir + "PrintDocument.pdf";
- var path2 = dataDir + "Print-PageRange.pdf";
- var path3 = dataDir + "35925_1_3.xps";
- 
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(path1, path2, path3);
- 
- [VisualBasic]
- Dim path1 As String = dataDir & "PrintDocument.pdf"
- Dim path2 As String = dataDir & "Print-PageRange.pdf"
- Dim path3 As String = dataDir & "35925_1_3.xps"
- 
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(path1, path2, path3)
+var path1 = dataDir + "PrintDocument.pdf";
+var path2 = dataDir + "Print-PageRange.pdf";
+var path3 = dataDir + "35925_1_3.xps";
+
+Aspose.Pdf.Facades.PdfViewer.PrintDocuments(path1, path2, path3);
+
+[VisualBasic]
+Dim path1 As String = dataDir & "PrintDocument.pdf"
+Dim path2 As String = dataDir & "Print-PageRange.pdf"
+Dim path3 As String = dataDir & "35925_1_3.xps"
+
+Aspose.Pdf.Facades.PdfViewer.PrintDocuments(path1, path2, path3)
 ```
 
 ### See Also
@@ -111,19 +111,19 @@ public static void PrintDocuments(params Stream[] documentStreams)
 
 ```csharp
 [C#]
- using (Stream stream1 = File.OpenRead(dataDir + "PrintDocument.pdf"),
- stream2 = File.OpenRead(dataDir + "Print-PageRange.pdf"),
- stream3 = File.OpenRead(dataDir + "35925_1_3.xps"))
- {
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(stream1, stream2, stream3);
- }
- 
- [VisualBasic]
- Using stream1 As Stream = File.OpenRead(dataDir & "PrintDocument.pdf"),
- stream2 As Stream = File.OpenRead(dataDir & "Print-PageRange.pdf"),
- stream3 As Stream = File.OpenRead(dataDir & "35925_1_3.xps")
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(stream1, stream2, stream3)
- End Using
+using (Stream stream1 = File.OpenRead(dataDir + "PrintDocument.pdf"),
+              stream2 = File.OpenRead(dataDir + "Print-PageRange.pdf"),
+              stream3 = File.OpenRead(dataDir + "35925_1_3.xps"))
+{
+    Aspose.Pdf.Facades.PdfViewer.PrintDocuments(stream1, stream2, stream3);
+}
+
+[VisualBasic]
+Using stream1 As Stream = File.OpenRead(dataDir & "PrintDocument.pdf"),
+      stream2 As Stream = File.OpenRead(dataDir & "Print-PageRange.pdf"),
+      stream3 As Stream = File.OpenRead(dataDir & "35925_1_3.xps")
+    Aspose.Pdf.Facades.PdfViewer.PrintDocuments(stream1, stream2, stream3)
+End Using
 ```
 
 ### See Also
@@ -153,27 +153,27 @@ public static void PrintDocuments(PrinterSettings printerSettings, params Docume
 
 ```csharp
 [C#]
- using (Aspose.Pdf.Document document1 = new Aspose.Pdf.Document(dataDir + "PrintDocument.pdf"),
- document2 = new Aspose.Pdf.Document(dataDir + "Print-PageRange.pdf"),
- document3 = new Aspose.Pdf.Document(dataDir + "35925_1_3.xps", new Aspose.Pdf.XpsLoadOptions()))
- {
- var printDocument = new PrintDocument();
- Aspose.Pdf.Printing.PrinterSettings printerSettings = new Aspose.Pdf.Printing.PrinterSettings();
- printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName;
- 
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, document1, document2, document3);
- }
- 
- [VisualBasic]
- Using document1 As New Aspose.Pdf.Document(dataDir & "PrintDocument.pdf"),
- document2 As New Aspose.Pdf.Document(dataDir & "Print-PageRange.pdf"),
- document3 As New Aspose.Pdf.Document(dataDir & "35925_1_3.xps", New Aspose.Pdf.XpsLoadOptions())
- Dim printDocument As New PrintDocument()
- Dim printerSettings As New Aspose.Pdf.Printing.PrinterSettings()
- printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName
- 
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, document1, document2, document3)
- End Using
+using (Aspose.Pdf.Document document1 = new Aspose.Pdf.Document(dataDir + "PrintDocument.pdf"),
+                           document2 = new Aspose.Pdf.Document(dataDir + "Print-PageRange.pdf"),
+                           document3 = new Aspose.Pdf.Document(dataDir + "35925_1_3.xps", new Aspose.Pdf.XpsLoadOptions()))
+{
+    var printDocument = new PrintDocument();
+    Aspose.Pdf.Printing.PrinterSettings printerSettings = new Aspose.Pdf.Printing.PrinterSettings();
+    printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName;
+
+    Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, document1, document2, document3);
+}
+
+[VisualBasic]
+Using document1 As New Aspose.Pdf.Document(dataDir & "PrintDocument.pdf"),
+      document2 As New Aspose.Pdf.Document(dataDir & "Print-PageRange.pdf"),
+      document3 As New Aspose.Pdf.Document(dataDir & "35925_1_3.xps", New Aspose.Pdf.XpsLoadOptions())
+     Dim printDocument As New PrintDocument()
+     Dim printerSettings As New Aspose.Pdf.Printing.PrinterSettings()
+     printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName
+
+     Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, document1, document2, document3)
+End Using
 ```
 
 ### See Also
@@ -206,26 +206,26 @@ public static void PrintDocuments(PrinterSettings printerSettings, params string
 
 ```csharp
 [C#]
- var path1 = dataDir + "PrintDocument.pdf";
- var path2 = dataDir + "Print-PageRange.pdf";
- var path3 = dataDir + "35925_1_3.xps";
- 
- var printDocument = new PrintDocument();
- Aspose.Pdf.Printing.PrinterSettings printerSettings = new Aspose.Pdf.Printing.PrinterSettings();
- printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName;
- 
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, path1, path2, path3);
- 
- [VisualBasic]
- Dim path1 As String = dataDir & "PrintDocument.pdf"
- Dim path2 As String = dataDir & "Print-PageRange.pdf"
- Dim path3 As String = dataDir & "35925_1_3.xps"
- 
- Dim printDocument As New PrintDocument()
- Dim printerSettings As New Aspose.Pdf.Printing.PrinterSettings()
- printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName
- 
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, path1, path2, path3)
+var path1 = dataDir + "PrintDocument.pdf";
+var path2 = dataDir + "Print-PageRange.pdf";
+var path3 = dataDir + "35925_1_3.xps";
+
+var printDocument = new PrintDocument();
+Aspose.Pdf.Printing.PrinterSettings printerSettings = new Aspose.Pdf.Printing.PrinterSettings();
+printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName;
+
+Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, path1, path2, path3);
+
+[VisualBasic]
+Dim path1 As String = dataDir & "PrintDocument.pdf"
+Dim path2 As String = dataDir & "Print-PageRange.pdf"
+Dim path3 As String = dataDir & "35925_1_3.xps"
+
+Dim printDocument As New PrintDocument()
+Dim printerSettings As New Aspose.Pdf.Printing.PrinterSettings()
+printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName
+
+Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, path1, path2, path3)
 ```
 
 ### See Also
@@ -257,27 +257,27 @@ public static void PrintDocuments(PrinterSettings printerSettings, params Stream
 
 ```csharp
 [C#]
- using (Stream stream1 = File.OpenRead(dataDir + "PrintDocument.pdf"),
- stream2 = File.OpenRead(dataDir + "Print-PageRange.pdf"),
- stream3 = File.OpenRead(dataDir + "35925_1_3.xps"))
- {
- var printDocument = new PrintDocument();
- Aspose.Pdf.Printing.PrinterSettings printerSettings = new Aspose.Pdf.Printing.PrinterSettings();
- printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName;
- 
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, stream1, stream2, stream3);
- }
- 
- [VisualBasic]
- Using stream1 As Stream = File.OpenRead(dataDir & "PrintDocument.pdf"),
- stream2 As Stream = File.OpenRead(dataDir & "Print-PageRange.pdf"),
- stream3 As Stream = File.OpenRead(dataDir & "35925_1_3.xps")
- Dim printDocument As New PrintDocument()
- Dim printerSettings As New Aspose.Pdf.Printing.PrinterSettings()
- printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName
- 
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, stream1, stream2, stream3)
- End Using
+using (Stream stream1 = File.OpenRead(dataDir + "PrintDocument.pdf"),
+              stream2 = File.OpenRead(dataDir + "Print-PageRange.pdf"),
+              stream3 = File.OpenRead(dataDir + "35925_1_3.xps"))
+{
+    var printDocument = new PrintDocument();
+    Aspose.Pdf.Printing.PrinterSettings printerSettings = new Aspose.Pdf.Printing.PrinterSettings();
+    printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName;
+
+    Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, stream1, stream2, stream3);
+}
+
+[VisualBasic]
+Using stream1 As Stream = File.OpenRead(dataDir & "PrintDocument.pdf"),
+      stream2 As Stream = File.OpenRead(dataDir & "Print-PageRange.pdf"),
+      stream3 As Stream = File.OpenRead(dataDir & "35925_1_3.xps")
+    Dim printDocument As New PrintDocument()
+    Dim printerSettings As New Aspose.Pdf.Printing.PrinterSettings()
+    printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName
+
+    Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, stream1, stream2, stream3)
+End Using
 ```
 
 ### See Also
@@ -310,35 +310,35 @@ public static void PrintDocuments(PrinterSettings printerSettings, PageSettings 
 
 ```csharp
 [C#]
- using (Aspose.Pdf.Document document1 = new Aspose.Pdf.Document(dataDir + "PrintDocument.pdf"),
- document2 = new Aspose.Pdf.Document(dataDir + "Print-PageRange.pdf"),
- document3 = new Aspose.Pdf.Document(dataDir + "35925_1_3.xps", new Aspose.Pdf.XpsLoadOptions()))
- {
- var printDocument = new PrintDocument();
- Aspose.Pdf.Printing.PrinterSettings printerSettings = new Aspose.Pdf.Printing.PrinterSettings();
- printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName;
- 
- Aspose.Pdf.Printing.PageSettings pageSettings = new Aspose.Pdf.Printing.PageSettings();
- pageSettings.PaperSize = Aspose.Pdf.Printing.PaperSizes.A4;
- pageSettings.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
- 
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, document1, document2, document3);
- }
- 
- [VisualBasic]
- Using document1 As New Aspose.Pdf.Document(dataDir & "PrintDocument.pdf"),
- document2 As New Aspose.Pdf.Document(dataDir & "Print-PageRange.pdf"),
- document3 As New Aspose.Pdf.Document(dataDir & "35925_1_3.xps", New Aspose.Pdf.XpsLoadOptions())
- Dim printDocument As New PrintDocument()
- Dim printerSettings As New Aspose.Pdf.Printing.PrinterSettings()
- printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName
- 
- Dim pageSettings As New Aspose.Pdf.Printing.PageSettings()
- pageSettings.PaperSize = Aspose.Pdf.Printing.PaperSizes.A4
- pageSettings.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
- 
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, document1, document2, document3)
- End Using
+using (Aspose.Pdf.Document document1 = new Aspose.Pdf.Document(dataDir + "PrintDocument.pdf"),
+                           document2 = new Aspose.Pdf.Document(dataDir + "Print-PageRange.pdf"),
+                           document3 = new Aspose.Pdf.Document(dataDir + "35925_1_3.xps", new Aspose.Pdf.XpsLoadOptions()))
+{
+    var printDocument = new PrintDocument();
+    Aspose.Pdf.Printing.PrinterSettings printerSettings = new Aspose.Pdf.Printing.PrinterSettings();
+    printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName;
+
+    Aspose.Pdf.Printing.PageSettings pageSettings = new Aspose.Pdf.Printing.PageSettings();
+    pageSettings.PaperSize = Aspose.Pdf.Printing.PaperSizes.A4;
+    pageSettings.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
+
+    Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, document1, document2, document3);
+}
+
+[VisualBasic]
+Using document1 As New Aspose.Pdf.Document(dataDir & "PrintDocument.pdf"),
+      document2 As New Aspose.Pdf.Document(dataDir & "Print-PageRange.pdf"),
+      document3 As New Aspose.Pdf.Document(dataDir & "35925_1_3.xps", New Aspose.Pdf.XpsLoadOptions())
+     Dim printDocument As New PrintDocument()
+     Dim printerSettings As New Aspose.Pdf.Printing.PrinterSettings()
+     printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName
+
+     Dim pageSettings As New Aspose.Pdf.Printing.PageSettings()
+     pageSettings.PaperSize = Aspose.Pdf.Printing.PaperSizes.A4
+     pageSettings.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
+
+     Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, document1, document2, document3)
+End Using
 ```
 
 ### See Also
@@ -374,34 +374,34 @@ public static void PrintDocuments(PrinterSettings printerSettings, PageSettings 
 
 ```csharp
 [C#]
- var path1 = dataDir + "PrintDocument.pdf";
- var path2 = dataDir + "Print-PageRange.pdf";
- var path3 = dataDir + "35925_1_3.xps";
- 
- var printDocument = new PrintDocument();
- Aspose.Pdf.Printing.PrinterSettings printerSettings = new Aspose.Pdf.Printing.PrinterSettings();
- printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName;
- 
- Aspose.Pdf.Printing.PageSettings pageSettings = new Aspose.Pdf.Printing.PageSettings();
- pageSettings.PaperSize = Aspose.Pdf.Printing.PaperSizes.A4;
- pageSettings.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
- 
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, path1, path2, path3);
- 
- [VisualBasic]
- Dim path1 As String = dataDir & "PrintDocument.pdf"
- Dim path2 As String = dataDir & "Print-PageRange.pdf"
- Dim path3 As String = dataDir & "35925_1_3.xps"
- 
- Dim printDocument As New PrintDocument()
- Dim printerSettings As New Aspose.Pdf.Printing.PrinterSettings()
- printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName
- 
- Dim pageSettings As New Aspose.Pdf.Printing.PageSettings()
- pageSettings.PaperSize = Aspose.Pdf.Printing.PaperSizes.A4
- pageSettings.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
- 
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, path1, path2, path3)
+var path1 = dataDir + "PrintDocument.pdf";
+var path2 = dataDir + "Print-PageRange.pdf";
+var path3 = dataDir + "35925_1_3.xps";
+
+var printDocument = new PrintDocument();
+Aspose.Pdf.Printing.PrinterSettings printerSettings = new Aspose.Pdf.Printing.PrinterSettings();
+printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName;
+
+Aspose.Pdf.Printing.PageSettings pageSettings = new Aspose.Pdf.Printing.PageSettings();
+pageSettings.PaperSize = Aspose.Pdf.Printing.PaperSizes.A4;
+pageSettings.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
+
+Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, path1, path2, path3);
+
+[VisualBasic]
+Dim path1 As String = dataDir & "PrintDocument.pdf"
+Dim path2 As String = dataDir & "Print-PageRange.pdf"
+Dim path3 As String = dataDir & "35925_1_3.xps"
+
+Dim printDocument As New PrintDocument()
+Dim printerSettings As New Aspose.Pdf.Printing.PrinterSettings()
+printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName
+
+Dim pageSettings As New Aspose.Pdf.Printing.PageSettings()
+pageSettings.PaperSize = Aspose.Pdf.Printing.PaperSizes.A4
+pageSettings.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
+
+Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, path1, path2, path3)
 ```
 
 ### See Also
@@ -436,35 +436,35 @@ public static void PrintDocuments(PrinterSettings printerSettings, PageSettings 
 
 ```csharp
 [C#]
- using (Stream stream1 = File.OpenRead(dataDir + "PrintDocument.pdf"),
- stream2 = File.OpenRead(dataDir + "Print-PageRange.pdf"),
- stream3 = File.OpenRead(dataDir + "35925_1_3.xps"))
- {
- var printDocument = new PrintDocument();
- Aspose.Pdf.Printing.PrinterSettings printerSettings = new Aspose.Pdf.Printing.PrinterSettings();
- printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName;
- 
- Aspose.Pdf.Printing.PageSettings pageSettings = new Aspose.Pdf.Printing.PageSettings();
- pageSettings.PaperSize = Aspose.Pdf.Printing.PaperSizes.A4;
- pageSettings.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
- 
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, stream1, stream2, stream3);
- }
- 
- [VisualBasic]
- Using stream1 As Stream = File.OpenRead(dataDir & "PrintDocument.pdf"),
- stream2 As Stream = File.OpenRead(dataDir & "Print-PageRange.pdf"),
- stream3 As Stream = File.OpenRead(dataDir & "35925_1_3.xps")
- Dim printDocument As New PrintDocument()
- Dim printerSettings As New Aspose.Pdf.Printing.PrinterSettings()
- printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName
- 
- Dim pageSettings As New Aspose.Pdf.Printing.PageSettings()
- pageSettings.PaperSize = Aspose.Pdf.Printing.PaperSizes.A4
- pageSettings.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
- 
- Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, stream1, stream2, stream3)
- End Using
+using (Stream stream1 = File.OpenRead(dataDir + "PrintDocument.pdf"),
+              stream2 = File.OpenRead(dataDir + "Print-PageRange.pdf"),
+              stream3 = File.OpenRead(dataDir + "35925_1_3.xps"))
+{
+    var printDocument = new PrintDocument();
+    Aspose.Pdf.Printing.PrinterSettings printerSettings = new Aspose.Pdf.Printing.PrinterSettings();
+    printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName;
+
+    Aspose.Pdf.Printing.PageSettings pageSettings = new Aspose.Pdf.Printing.PageSettings();
+    pageSettings.PaperSize = Aspose.Pdf.Printing.PaperSizes.A4;
+    pageSettings.Margins = new Aspose.Pdf.Devices.Margins(0, 0, 0, 0);
+
+    Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, stream1, stream2, stream3);
+}
+
+[VisualBasic]
+Using stream1 As Stream = File.OpenRead(dataDir & "PrintDocument.pdf"),
+      stream2 As Stream = File.OpenRead(dataDir & "Print-PageRange.pdf"),
+      stream3 As Stream = File.OpenRead(dataDir & "35925_1_3.xps")
+    Dim printDocument As New PrintDocument()
+    Dim printerSettings As New Aspose.Pdf.Printing.PrinterSettings()
+    printerSettings.PrinterName = printDocument.PrinterSettings.PrinterName
+
+    Dim pageSettings As New Aspose.Pdf.Printing.PageSettings()
+    pageSettings.PaperSize = Aspose.Pdf.Printing.PaperSizes.A4
+    pageSettings.Margins = New Aspose.Pdf.Devices.Margins(0, 0, 0, 0)
+
+    Aspose.Pdf.Facades.PdfViewer.PrintDocuments(printerSettings, pageSettings, stream1, stream2, stream3)
+End Using
 ```
 
 ### See Also

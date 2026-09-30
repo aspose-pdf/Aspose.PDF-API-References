@@ -17,6 +17,19 @@ Sets visual attributes of the field.
 public FormFieldFacade Facade { get; set; }
 ```
 
+## Examples
+
+```csharp
+FormEditor fe = new FormEditor("PdfForm.pdf", "PdfForm_DecorateField_text.pdf");
+fe.Facade = new FormFieldFacade();
+fe.Facade.BackgroundColor = System.Drawing.Color.Red;
+fe.Facade.TextColor = System.Drawing.Color.Blue;
+fe.Facade.BorderColor = System.Drawing.Color.Green;
+fe.Facade.Alignment = FormFieldFacade.AlignCenter;
+fe.DecorateField("textField");
+fe.Save();
+```
+
 ### See Also
 
 * class [FormFieldFacade](../../../aspose.pdf.facades/formfieldfacade/)

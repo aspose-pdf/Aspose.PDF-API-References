@@ -21,6 +21,16 @@ public void ImportJson(Stream inputJsonStream)
 | --- | --- | --- |
 | inputJsonStream | Stream | The input JSON stream containing the field data to be imported into the document fields. |
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf", "Form_ImportJson.pdf");
+Stream fs = new FileStream("export_old.json", FileMode.Open, FileAccess.Read);
+form.ImportJson(fs);
+fs.Close();
+form.Save();
+```
+
 ### See Also
 
 * class [Form](../)

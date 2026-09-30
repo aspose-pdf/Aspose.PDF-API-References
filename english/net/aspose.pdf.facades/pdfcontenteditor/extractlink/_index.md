@@ -21,6 +21,19 @@ public IList<Annotation> ExtractLink()
 
 The collection of Link objects
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+IList links = editor.ExtractLink();
+foreach (object obj in links)
+{
+    Link link = (Link)obj;
+    // work with Link instance
+}
+```
+
 ### See Also
 
 * class [PdfContentEditor](../)

@@ -17,6 +17,30 @@ Gets or sets phrase that the [`TextFragmentAbsorber`](../../../aspose.pdf.text/t
 public string Phrase { get; set; }
 ```
 
+## Examples
+
+The example demonstrates how to perform search text several times and perform text replacements.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Create TextFragmentAbsorber object to find all "hello" text occurrences
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello");
+
+doc.Pages[1].Accept(absorber);
+absorber.TextFragments[1].Text = "Hi";
+
+// search another word and replace it
+absorber.Phrase = "world";
+
+doc.Pages[1].Accept(absorber);
+absorber.TextFragments[1].Text = "John";
+
+// Save document
+doc.Save(@"D:\Tests\output.pdf");
+```
+
 ### See Also
 
 * class [TextFragmentAbsorber](../)

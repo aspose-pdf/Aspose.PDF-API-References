@@ -30,6 +30,21 @@ Array of encountered problems when concatenation was performed. For every corrup
 public CorruptedItem[] CorruptedItems { get; }
 ```
 
+## Examples
+
+```csharp
+//concatenate documents and show information about corrupted documents
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.CorruptedFileAction = PdfFileEditor.ConcatenateCorruptedFileActions.ConcatenateIgnoringCorrupted;
+if (pfe.CorruptedItems.Length >0)
+{
+  foreach(PdfFileEditor.CorruptedItem item in pfe.CorruptedItems)
+  {
+     Console.WriteLine(item.Index + " reason: " + item.Exception);
+  }
+}
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)

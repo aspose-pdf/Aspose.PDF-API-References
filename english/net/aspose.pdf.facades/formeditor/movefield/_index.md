@@ -29,6 +29,13 @@ public bool MoveField(string fieldName, float llx, float lly, float urx, float u
 
 true if field position was changed successfully.
 
+## Examples
+
+```csharp
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_MoveField.pdf");
+formEditor.MoveField("textField", 20.5f, 20.3f, 120.6f, 40.8f);
+```
+
 ### See Also
 
 * class [FormEditor](../)

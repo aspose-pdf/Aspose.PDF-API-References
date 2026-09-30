@@ -22,6 +22,15 @@ public void DeleteImage(int pageNumber, int[] index)
 | pageNumber | Int32 | The number of page on which images must be deleted. |
 | index | Int32[] | An array repsents images' indexes. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.DeleteImage(1, new int[] {1, 2});
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [PdfContentEditor](../)
@@ -36,6 +45,15 @@ Deletes all images from PDF document.
 
 ```csharp
 public void DeleteImage()
+```
+
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.DeleteImage();
+editor.Save("example_out.pdf");
 ```
 
 ### See Also

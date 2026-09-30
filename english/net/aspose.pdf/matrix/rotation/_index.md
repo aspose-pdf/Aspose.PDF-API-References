@@ -25,6 +25,12 @@ public static Matrix Rotation(double alpha)
 
 Transformation matrix.
 
+## Examples
+
+```csharp
+Matrix m = Matrix.Rotation(Math.PI / 2);
+```
+
 ### See Also
 
 * class [Matrix](../../../aspose.pdf/matrix/)

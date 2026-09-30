@@ -22,6 +22,15 @@ public void AddDocumentAdditionalAction(string eventType, string code)
 | eventType | String | The document event types. |
 | code | String | The code of JavaScript. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.AddDocumentAdditionalAction(PdfContentEditor.DocumentClose, "app.alert('Good-bye!');");
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [PdfContentEditor](../)

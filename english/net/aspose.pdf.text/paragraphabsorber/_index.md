@@ -20,6 +20,38 @@ Represents an absorber object of page structure objects such as sections and par
 public class ParagraphAbsorber
 ```
 
+## Examples
+
+The example demonstrates how to find first text segment of each paragraph on the first PDF document page and highlight it.
+
+```csharp
+// Open document
+Document doc = new Document("input.pdf");
+
+// Create ParagraphAbsorber object
+ParagraphAbsorber absorber = new ParagraphAbsorber();
+
+// Accept the absorber for first page
+absorber.Visit(doc.Pages[1]);
+
+// Get markup object of first page
+PageMarkup markup = absorber.PageMarkups[0];
+
+// Loop through structure elements of the page text to find first text fragment of each paragraph
+foreach (MarkupSection section in markup.Sections)
+{
+    foreach (MarkupParagraph paragraph in section.Paragraphs)
+    {
+        TextFragment fragment = paragraph.Fragments[0];
+        // Update text properties
+        fragment.TextState.BackgroundColor = Color.LightBlue;
+    }
+}
+
+// Save document
+doc.Save(GetOutputPath("output.pdf"));
+```
+
 ## Constructors
 
 | Name | Description |

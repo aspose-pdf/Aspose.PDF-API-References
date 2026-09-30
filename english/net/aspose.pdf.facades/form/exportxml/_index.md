@@ -22,6 +22,15 @@ public void ExportXml(Stream outputXmlStream)
 | --- | --- | --- |
 | outputXmlStream | Stream | Output Xml stream. |
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf"));
+FileStream fs = new FileStream("export.xml", FileMode.Create, FileAccess.Write);
+form.ExportXml(fs);
+fs.Close();
+```
+
 ### See Also
 
 * class [Form](../)

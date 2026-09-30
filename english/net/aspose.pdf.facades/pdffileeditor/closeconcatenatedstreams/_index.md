@@ -17,6 +17,13 @@ If set to true, streams are closed after operation.
 public bool CloseConcatenatedStreams { get; set; }
 ```
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.CloseConcatenatedStreams = true;
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)

@@ -17,6 +17,15 @@ Removes all operators from list.
 public override void Clear()
 ```
 
+## Examples
+
+Example demonstrates how to clear page contents.
+
+```csharp
+Document doc = new Document("input.pdf");
+doc.Pages[1].Clear();
+```
+
 ### See Also
 
 * class [OperatorCollection](../)

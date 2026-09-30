@@ -26,6 +26,13 @@ public bool SetFieldLimit(string fieldName, int fieldLimit)
 
 true if field limit was successfully set.
 
+## Examples
+
+```csharp
+FormEditor formEditor = new FormEditor("PdfForm.pdf", "FormEditor_SetFieldLimit.pdf");
+formEditor.SetFieldLimit("textField", 15);
+```
+
 ### See Also
 
 * class [FormEditor](../)

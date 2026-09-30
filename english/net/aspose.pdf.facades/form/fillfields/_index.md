@@ -30,6 +30,14 @@ public bool FillFields(string[] fieldNames, string[] fieldValues, out Stream out
 
 true if fields was found and successfully filled.
 
+## Examples
+
+```csharp
+var form = new Form(dataDir + "SignedPdfForm.pdf");
+Stream stream; 
+form.FillFields(new string[] {"Field1"}, new string[] {"+"}, out stream);
+```
+
 ### See Also
 
 * class [Form](../)

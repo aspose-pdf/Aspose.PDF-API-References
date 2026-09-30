@@ -17,6 +17,15 @@ Gets or sets trim box of the page.
 public Rectangle TrimBox { get; set; }
 ```
 
+## Examples
+
+Example demonstrates how to get trim box of the page:
+
+```csharp
+Document document = new Document("sample.pdf");
+Rectangle trimBox = document.Pages[1].TrimBox;
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

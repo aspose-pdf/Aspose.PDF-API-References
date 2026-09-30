@@ -17,6 +17,15 @@ Removes open action from the document. This operation is useful when concatenati
 public void RemoveDocumentOpenAction()
 ```
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.RemoveDocumentOpenAction();
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [PdfContentEditor](../)

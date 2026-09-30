@@ -34,6 +34,17 @@ public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, i
 
 True for success, or false.
 
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+Stream instream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
+Stream stream1 = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream stream2 = new FileStream("file2.pdf", FileMode.Open, FileAccess.Read);
+Stream outstream = new FileStream("outfile.pdf", FileMode.Create, FileAccess.Write);
+bool result = fileEditor.TryAppend(instream, new Stream[] { stream1, stream2}, 3, 5, outstream);
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -66,6 +77,13 @@ public bool TryAppend(string inputFile, string[] portFiles, int startPage, int e
 ### Return Value
 
 true if operation completed successfully; otherwise, false.
+
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+bool result = fileEditor.TryAppend("input.pdf", new string[] { "file1.pdf", "file2.pdf"}, 3, 5, "outfile.pdf");
+```
 
 ### See Also
 

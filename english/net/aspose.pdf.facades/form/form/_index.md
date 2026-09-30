@@ -20,6 +20,13 @@ Construtcor of Form without parameters.
 public Form()
 ```
 
+## Examples
+
+```csharp
+Form form = new Aspose.Pdf.Facades.Form();
+form.SrcFileName = "file.pdf";
+```
+
 ### See Also
 
 * class [Form](../)
@@ -61,6 +68,12 @@ public Form(Stream srcStream)
 | --- | --- | --- |
 | srcStream | Stream | source stream. |
 
+## Examples
+
+```csharp
+Form form = new Form(new FileStream("PdfForm.pdf", FileMode.Open, FileAccess.Read));
+```
+
 ### See Also
 
 * class [Form](../)
@@ -80,6 +93,12 @@ public Form(string srcFileName)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | srcFileName | String | Source file path. |
+
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+```
 
 ### See Also
 

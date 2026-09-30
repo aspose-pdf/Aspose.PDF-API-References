@@ -25,16 +25,16 @@ public void SaveAsTIFF(string outputFile)
 
 ```csharp
 [C#]
- PdfConverter converter = new PdfConverter();
- converter.BindPdf(@"D:\Test\test.pdf");
- converter.DoConvert();
- converter.SaveAsTIFF(@"D:\Test\test.tiff"); 
- 
- [Visual Basic]
- Dim converter As PdfConverter = New PdfConverter() 
- converter.BindPdf("D:\Test\test.pdf")
- converter.DoConvert()
- converter.SaveAsTIFF(@"D:\Test\test.tiff")
+PdfConverter converter = new PdfConverter();
+converter.BindPdf(@"D:\Test\test.pdf");
+converter.DoConvert();
+converter.SaveAsTIFF(@"D:\Test\test.tiff");	
+
+[Visual Basic]
+Dim converter As PdfConverter =  New PdfConverter() 
+converter.BindPdf("D:\Test\test.pdf")
+converter.DoConvert()
+converter.SaveAsTIFF(@"D:\Test\test.tiff")
 ```
 
 ### See Also
@@ -62,15 +62,15 @@ public void SaveAsTIFF(string outputFile, CompressionType compressionType)
 
 ```csharp
 [C#]
- PdfConverter converter = new PdfConverter();
- converter.BindPdf(@"D:\Test\test.pdf");
- converter.DoConvert();
- converter.SaveAsTIFF(@"D:\Test\test.tiff");
- [Visual Basic]
- Dim converter As PdfConverter = New PdfConverter()
- converter.BindPdf("D:\Test\test.pdf")
- converter.DoConvert()
- converter.SaveAsTIFF(@"D:\Test\test.tiff")
+PdfConverter converter = new PdfConverter();
+converter.BindPdf(@"D:\Test\test.pdf");
+converter.DoConvert();
+converter.SaveAsTIFF(@"D:\Test\test.tiff");
+[Visual Basic]
+Dim converter As PdfConverter =  New PdfConverter()
+converter.BindPdf("D:\Test\test.pdf")
+converter.DoConvert()
+converter.SaveAsTIFF(@"D:\Test\test.tiff")
 ```
 
 ### See Also

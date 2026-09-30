@@ -17,6 +17,28 @@ Gets or sets text position for text, represented with [`TextFragment`](../../../
 public Position Position { get; set; }
 ```
 
+## Examples
+
+The example demonstrates how to view placement of a text, represented by [`TextFragment`](../../../aspose.pdf.text/textfragment/) object.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+// Accept the absorber for first page
+doc.Pages[1].Accept(absorber);
+
+// View text and placement info of first text occurrence
+TextFragment firstOccurrence = absorber.TextFragments[1];
+
+Console.Out.WriteLine(string.Format("fragment text: {0}", firstOccurrence.Text));
+Console.Out.WriteLine(string.Format("fragment X indent: {0}", firstOccurrence.Position.XIndent));
+Console.Out.WriteLine(string.Format("fragment Y indent: {0}", firstOccurrence.Position.YIndent));
+```
+
 ### See Also
 
 * [TextFragmentAbsorber](../textfragmentabsorber/)

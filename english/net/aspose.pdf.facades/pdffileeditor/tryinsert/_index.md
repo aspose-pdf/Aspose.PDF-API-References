@@ -33,6 +33,13 @@ public bool TryInsert(string inputFile, int insertLocation, string portFile, int
 
 True for success, or false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+bool result = pfe.TryInsert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "out.pdf");
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -64,6 +71,16 @@ public bool TryInsert(Stream inputStream, int insertLocation, Stream portStream,
 ### Return Value
 
 true if operation completed successfully; otherwise, false.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream insertedStream = new FileStream("file2.pdf", FileMode.Open, FileAccess.Read);
+Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
+bool result = pfe.TryInsert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5}, outStream);
+```
 
 ### See Also
 

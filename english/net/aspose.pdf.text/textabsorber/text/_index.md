@@ -17,6 +17,24 @@ Gets extracted text that the [`TextAbsorber`](../../../aspose.pdf.text/textabsor
 public virtual string Text { get; }
 ```
 
+## Examples
+
+The example demonstrates how to extract text from all pages of the PDF document.
+
+```csharp
+// open document
+Document doc = new Document(inFile);
+
+// create TextAbsorber object to extract text
+TextAbsorber absorber = new TextAbsorber();
+
+// accept the absorber for all document's pages
+doc.Pages.Accept(absorber);
+
+// get the extracted text
+string extractedText = absorber.Text;
+```
+
 ### See Also
 
 * class [TextAbsorber](../)

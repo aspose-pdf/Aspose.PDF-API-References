@@ -28,6 +28,16 @@ public void CreateText(Rectangle rect, string title, string contents, bool open,
  This value can be: "Comment", "Key", "Note", "Help", "NewParagraph", "Paragraph", "Insert" |
 | page | Int32 | The number of original page where the text annotation will be created. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateText(new System.Drawing.Rectangle(0, 0, 100, 100),
+    "Welcome to Aspose", "You are welcome to Aspose!", true, "Key", 1);
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

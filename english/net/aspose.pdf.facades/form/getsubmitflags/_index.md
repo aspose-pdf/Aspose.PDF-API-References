@@ -25,6 +25,15 @@ public SubmitFormFlag GetSubmitFlags(string fieldName)
 
 Submission flags of the button.
 
+## Examples
+
+```csharp
+Aspose.Pdf.Facades.Form form = new Aspose.Pdf.Facades.Form("PdfForm.pdf");
+System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.SubmitFormFlag.Xfdf )!= 0 ? " XFDF" : " ");
+System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.SubmitFormFlag.Fdf )!= 0 ? " FDF" : " ");
+System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.SubmitFormFlag.Pdf )!= 0 ? " PDF" : " ");
+```
+
 ### See Also
 
 * enum [SubmitFormFlag](../../../aspose.pdf.facades/submitformflag/)

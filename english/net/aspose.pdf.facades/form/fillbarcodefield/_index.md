@@ -26,6 +26,13 @@ public bool FillBarcodeField(string fieldName, string data)
 
 If filling succeed, return true; otherwise, false.
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+form.FillBarcodeField("textField", "42207252");
+```
+
 ### See Also
 
 * class [Form](../)

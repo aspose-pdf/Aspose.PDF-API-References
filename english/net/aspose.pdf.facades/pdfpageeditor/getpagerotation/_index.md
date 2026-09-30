@@ -25,6 +25,17 @@ public int GetPageRotation(int page)
 
 Page rotation in degrees.
 
+## Examples
+
+The following example demonstrates how to get page rotation:
+
+```csharp
+PdfPageEditor editor = new PdfPageEditor();
+editor.BindPdf("sample.pdf");
+int rotation = editor.GetPageSize(1);
+Console.WriteLine("Rotation of 1st page : " + rotation + " degrees");
+```
+
 ### See Also
 
 * class [PdfPageEditor](../)

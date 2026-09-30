@@ -22,6 +22,14 @@ Constructor of the PdfFileStamp.
 public PdfFileStamp()
 ```
 
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp();
+fileStamp.InputFile = "input.pdf";
+fileStamp.OutputFile = "output.pdf";
+```
+
 ### See Also
 
 * class [PdfFileStamp](../)

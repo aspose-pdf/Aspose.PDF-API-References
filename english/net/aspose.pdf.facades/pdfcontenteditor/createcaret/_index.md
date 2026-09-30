@@ -27,6 +27,18 @@ public void CreateCaret(int page, Rectangle annotRect, Rectangle caretRect, stri
 | annotContents | String | The contents of the annotation. |
 | color | Color | The color of the annotation. |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateCaret(1,
+    new System.Drawing.Rectangle(50, 50, 100, 100),
+    new System.Drawing.Rectangle(60, 60, 70, 70),
+    "None", "Welcome to Aspose", System.Drawing.Color.Red);
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

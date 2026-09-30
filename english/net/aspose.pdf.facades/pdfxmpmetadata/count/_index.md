@@ -17,6 +17,14 @@ Gets count if items in the collection.
 public int Count { get; }
 ```
 
+## Examples
+
+```csharp
+PdfXmpMetadata pxm = new PdfXmpMetadata();
+pxm.BindPdf("PdfFile.pdf");
+Console.WriteLine("Count = " + pxm.Count);
+```
+
 ### See Also
 
 * class [PdfXmpMetadata](../)

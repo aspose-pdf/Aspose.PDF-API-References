@@ -17,6 +17,13 @@ Flattens all the fields.
 public void FlattenAllFields()
 ```
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+form.FlattenAllFields();
+```
+
 ### See Also
 
 * class [Form](../)

@@ -32,6 +32,14 @@ public bool AddField(FieldType fieldType, string fieldName, int pageNum, float l
 
 true if field was successfully added.
 
+## Examples
+
+```csharp
+FormEditor formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_Text.pdf");
+formEditor.AddField(FieldType.Text, "AddedTextField",  1, 10, 30, 110, 46);
+formEditor.Save();
+```
+
 ### See Also
 
 * enum [FieldType](../../../aspose.pdf.facades/fieldtype/)
@@ -64,6 +72,16 @@ public bool AddField(FieldType fieldType, string fieldName, string initValue, in
 ### Return Value
 
 true if field was successfully added.
+
+## Examples
+
+```csharp
+FormEditor formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_Text.pdf");
+formEditor.AddField(FieldType.Text, "AddedTextField", "Text Value", 1, 10, 30, 110, 46);
+formEditor.Items = new string[] { "Item1", "Item2", Item3" };
+formEditor.AddField(FieldType.Radio, "RadioButtonField", 1, 265, 695, 365, 720);
+formEditor.Save();
+```
 
 ### See Also
 

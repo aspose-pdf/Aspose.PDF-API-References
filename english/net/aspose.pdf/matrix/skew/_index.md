@@ -26,6 +26,12 @@ public static Matrix Skew(double alpha, double beta)
 
 Transformation matrix.
 
+## Examples
+
+```csharp
+Matrix m = Matrix.Skew(Math.PI / 2, Math.PI / 2);
+```
+
 ### See Also
 
 * class [Matrix](../../../aspose.pdf/matrix/)

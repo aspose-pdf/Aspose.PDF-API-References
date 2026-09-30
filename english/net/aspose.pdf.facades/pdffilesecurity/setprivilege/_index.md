@@ -31,16 +31,16 @@ True for success.
 
 ```csharp
 [C#]
- string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
- string outFile = "D:\\output.pdf"; //The TestPath may be re-assigned.
- PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile); 
- fileSecurity.SetPrivilege(DocumentPrivilege.Print);
- 
- [Visual Basic]
- Dim inFile As String = "D:\\input.pdf" 'The TestPath may be re-assigned.'
- Dim outFile As String = "D:\\output.pdf" 'The TestPath may be re-assigned.'
- Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
- fileSecurity.SetPrivilege(DocumentPrivilege.Print)
+string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
+string outFile = "D:\\output.pdf"; //The TestPath may be re-assigned.
+PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
+fileSecurity.SetPrivilege(DocumentPrivilege.Print);
+
+[Visual Basic]
+Dim inFile As String =  "D:\\input.pdf"  'The TestPath may be re-assigned.'
+Dim outFile As String =  "D:\\output.pdf"  'The TestPath may be re-assigned.'
+Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
+fileSecurity.SetPrivilege(DocumentPrivilege.Print)
 ```
 
 ### See Also
@@ -75,16 +75,16 @@ True for success.
 
 ```csharp
 [C#]
- string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
- string outFile = "D:\\output.pdf"; //The TestPath may be re-assigned.
- PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile); 
- fileSecurity.SetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print);
- 
- [Visual Basic]
- Dim inFile As String = "D:\\input.pdf" 'The TestPath may be re-assigned.'
- Dim outFile As String = "D:\\output.pdf" 'The TestPath may be re-assigned.'
- Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
- fileSecurity.SetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
+string inFile = "D:\\input.pdf"; //The TestPath may be re-assigned.
+string outFile = "D:\\output.pdf"; //The TestPath may be re-assigned.
+PdfFileSecurity fileSecurity = new PdfFileSecurity(inFile,outFile);		
+fileSecurity.SetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print);
+
+[Visual Basic]
+Dim inFile As String =  "D:\\input.pdf"  'The TestPath may be re-assigned.'
+Dim outFile As String =  "D:\\output.pdf"  'The TestPath may be re-assigned.'
+Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
+fileSecurity.SetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
 ```
 
 ### See Also

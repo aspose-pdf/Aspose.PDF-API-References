@@ -30,6 +30,13 @@ public bool TrySplitFromFirst(string inputFile, int location, string outputFile)
 
 True for success, or false.
 
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+bool result = pfe.TrySplitFromFirst("input.pdf", 5, "out.pdf");
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -59,6 +66,15 @@ public bool TrySplitFromFirst(Stream inputStream, int location, Stream outputStr
 ### Return Value
 
 True for success, or false.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+Stream sourceStream = new FileStream("file1.pdf", FileMode.Open, FileAccess.Read);
+Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
+pfe.TrySplitFromFirst(sourceStream, 5, outStream);
+```
 
 ### See Also
 

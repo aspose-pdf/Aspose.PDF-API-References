@@ -23,6 +23,13 @@ public void FlattenField(string fieldName)
 | --- | --- | --- |
 | fieldName | String | The name of the field to be flattened. |
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+form.FlattenField("textField");
+```
+
 ### See Also
 
 * class [Form](../)

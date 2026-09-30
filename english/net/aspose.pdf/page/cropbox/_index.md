@@ -17,6 +17,15 @@ Gets or sets crop box of the page.
 public Rectangle CropBox { get; set; }
 ```
 
+## Examples
+
+Example demonstrates how to get crop box of the page:
+
+```csharp
+Document document = new Document("sample.pdf");
+Rectangle cropBox = document.Pages[1].CropBox;
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)

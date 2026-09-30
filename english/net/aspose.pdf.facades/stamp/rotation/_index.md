@@ -17,6 +17,17 @@ Gets or sets rotation of the stamp in degrees.
 public float Rotation { get; set; }
 ```
 
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+Stamp stamp = new Stamp();
+stamp.BindLogo(new FormattedText("STAMP"));
+stamp.Rotation = 90;
+fileStamp.AddStamp(stamp);
+fileStamp.Close();
+```
+
 ### See Also
 
 * class [Stamp](../)

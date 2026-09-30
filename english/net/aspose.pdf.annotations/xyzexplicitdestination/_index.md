@@ -18,6 +18,16 @@ Represents explicit destination that displays the page with the coordinates (lef
 public sealed class XYZExplicitDestination : ExplicitDestination
 ```
 
+## Examples
+
+```csharp
+Document doc = new Document("example.pdf");
+XYZExplicitDestination dest = (XYZExplicitDestination)doc.Outlines[1].Destination;
+string left = dest.Left;
+string top = dest.Top;
+string zoom = dest.Zoom;
+```
+
 ## Constructors
 
 | Name | Description |

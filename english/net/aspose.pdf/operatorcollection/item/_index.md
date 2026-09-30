@@ -25,6 +25,16 @@ public override Operator this[int index] { get; set; }
 
 Operator from requested index
 
+## Examples
+
+Example demonstrates how to get operator of page contents by index.
+
+```csharp
+Document doc = new Document("input.pdf");
+OperatorCollection oc = doc.Pages[1].Contents;
+Operator first = oc[1];
+```
+
 ### See Also
 
 * class [Operator](../../../aspose.pdf/operator/)

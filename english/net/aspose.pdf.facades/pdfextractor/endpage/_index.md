@@ -23,6 +23,16 @@ Gets or sets end page in the page range where extracting operation will be perfo
 public int EndPage { get; set; }
 ```
 
+## Examples
+
+```csharp
+PdfExtractor ext = new PdfExtractor();
+ext.BindBdf("sample.pdf");
+ext.StartPage = 2;
+ext.EndPage = 3;
+ext.ExtractText();
+```
+
 ### See Also
 
 * class [PdfExtractor](../)

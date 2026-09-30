@@ -17,6 +17,15 @@ Deletes all attachments in PDF document.
 public void DeleteAttachments()
 ```
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.DeleteAttachments();
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [PdfContentEditor](../)

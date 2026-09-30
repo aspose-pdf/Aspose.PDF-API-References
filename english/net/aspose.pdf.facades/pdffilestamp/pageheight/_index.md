@@ -17,6 +17,14 @@ Gets height of first page in souorce file.
 public float PageHeight { get; }
 ```
 
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+Console.WriteLine("Height = " + fileStamp.PageHeight);
+fileStamp.Close();
+```
+
 ### See Also
 
 * class [PdfFileStamp](../)

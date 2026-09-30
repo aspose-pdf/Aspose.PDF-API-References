@@ -27,6 +27,15 @@ public IList<Annotation> ExtractAnnotations(int start, int end, string[] annotTy
 
 Annotations list.
 
+## Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+string[] annotTypes = new string[] {"Text", "Highlight"};
+IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
+```
+
 ### See Also
 
 * class [PdfAnnotationEditor](../)
@@ -52,6 +61,15 @@ public IList<Annotation> ExtractAnnotations(int start, int end, AnnotationType[]
 ### Return Value
 
 Annotations list.
+
+## Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+AnnotationType[] annotTypes = new AnnotationType[] {AnnotationType.Text, AnnotationType.Highlight};
+IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
+```
 
 ### See Also
 

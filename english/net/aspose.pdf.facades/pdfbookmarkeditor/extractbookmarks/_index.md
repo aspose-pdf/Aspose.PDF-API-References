@@ -21,6 +21,16 @@ public Bookmarks ExtractBookmarks()
 
 The bookmarks collection of all bookmarks that exist in the document.
 
+## Examples
+
+```csharp
+PdfBookmarkEditor editor = new PdfBookmarkEditor();
+editor.BindPdf("example.pdf");
+Bookmarks bms = editor.ExtractBookmarks();
+foreach(Bookmark bm in bms)
+    Console.WriteLine(bm.Title);
+```
+
 ### See Also
 
 * class [Bookmarks](../../../aspose.pdf.facades/bookmarks/)
@@ -71,6 +81,16 @@ public Bookmarks ExtractBookmarks(string title)
 
 Bookmark collection has items with the same title.
 
+## Examples
+
+```csharp
+PdfBookmarkEditor editor = new PdfBookmarkEditor();
+editor.BindPdf("example.pdf");
+Bookmarks bms = editor.ExtractBookmarks("Title");
+foreach(Bookmark bm in bms)
+    Console.WriteLine(bm.Title);
+```
+
 ### See Also
 
 * class [Bookmarks](../../../aspose.pdf.facades/bookmarks/)
@@ -95,6 +115,18 @@ public Bookmarks ExtractBookmarks(Bookmark bookmark)
 ### Return Value
 
 Bookmark collection with child bookmarks.
+
+## Examples
+
+```csharp
+PdfBookmarkEditor editor = new PdfBookmarkEditor();
+editor.BindPdf("example.pdf");
+Bookmark bookmark = new Bookmark();
+bookmark.Title = "Title";
+Bookmarks bms = editor.ExtractBookmarks(bookmark);
+foreach(Bookmark bm in bms)
+    Console.WriteLine(bm.Title);
+```
 
 ### See Also
 

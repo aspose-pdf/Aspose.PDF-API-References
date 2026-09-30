@@ -18,6 +18,18 @@ Gets or sets array with numbers of pages which will be affected by stamp.
 public int[] Pages { get; set; }
 ```
 
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+Stamp stamp = new Aspose.Pdf.Facades.Stamp();
+stamp.BindLogo(new FormattedText(text));
+//put stamp only on 1st, 4th and 6th page.
+stamp.Pages = new int[] { 1, 4, 6 };
+fileStamp.AddStamp(stamp);
+fileStamp.Close();
+```
+
 ### See Also
 
 * class [Stamp](../)

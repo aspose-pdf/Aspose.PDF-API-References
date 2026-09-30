@@ -21,6 +21,17 @@ public override void Save(string outputFile)
 | --- | --- | --- |
 | outputFile | String | Path to file where document will be saved. |
 
+## Examples
+
+The following sample demonstrates how to save changed PDF document
+
+```csharp
+PdfPageEditor editor = new PdfPageEditor();
+editor.BindPdf("sample.pdf");
+editor.Zoom = 0.5f;
+editor.Save("newdocument.pdf");
+```
+
 ### See Also
 
 * class [PdfPageEditor](../)
@@ -40,6 +51,17 @@ public override void Save(Stream outputStream)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | Stream where changed PDF document will be saved. |
+
+## Examples
+
+The following sample demonstrates how to save changed PDF document into stream.
+
+```csharp
+PdfPageEditor editor = new PdfPageEditor();
+editor.BindPdf("sample.pdf");
+editor.Zoom = 0.5f;
+editor.Save("newdocument.pdf");
+```
 
 ### See Also
 

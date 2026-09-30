@@ -24,6 +24,30 @@ Provides a way to change following properties of the text:
 public TextFragmentState TextState { get; }
 ```
 
+## Examples
+
+The example demonstrates how to change text color and font size of the text with `TextState` object.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+// Accept the absorber for first page
+doc.Pages[1].Accept(absorber);
+
+// Change foreground color of the first text occurrence
+absorber.TextFragments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawing.Color.Red);
+
+// Change font size of the first text occurrence
+absorber.TextFragments[1].TextState.FontSize = 15;
+
+// Save document
+doc.Save(@"D:\Tests\output.pdf");
+```
+
 ### See Also
 
 * [TextFragmentAbsorber](../textfragmentabsorber/)

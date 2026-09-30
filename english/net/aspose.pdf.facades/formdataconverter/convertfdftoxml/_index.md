@@ -22,6 +22,16 @@ public static void ConvertFdfToXml(Stream sourceFdf, Stream destXml)
 | sourceFdf | Stream | Stream which contains FDF to convert. |
 | destXml | Stream | Source where reuslt XML will be placed. |
 
+## Examples
+
+```csharp
+src = new FileStream("test.fdf", FileMode.Open);
+dest = new FileStream("converted_fdf.xml", FileMode.Create);
+FormDataConverter.ConvertFdfToXml(src, dest);
+src.Close();
+dest.Close();
+```
+
 ### See Also
 
 * class [FormDataConverter](../)

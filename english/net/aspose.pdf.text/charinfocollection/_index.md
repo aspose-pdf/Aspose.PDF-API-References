@@ -18,6 +18,41 @@ Represents [CharInfo](../charinfo/) objects collection.
 public sealed class CharInfoCollection : ICollection<CharInfo>
 ```
 
+## Examples
+
+The example demonstrates how to iterate throught all the characters and retrieve the charact
+
+```csharp
+//open document
+Document pdfDocument = new Document(inFile);
+//create TextFragmentAbsorber object to collect all the text objects of the page
+TextFragmentAbsorber textFragmentAbsorber = new TextFragmentAbsorber();
+//accept the absorber for all the pages
+pdfDocument.Pages[1].Accept(textFragmentAbsorber);
+//get the extracted text fragments
+TextFragmentCollection textFragmentCollection = textFragmentAbsorber.TextFragments;
+
+//loop through the fragments
+foreach (TextFragment textFragment in textFragmentCollection)
+{
+    //loop through the segments
+    foreach (TextSegment textSegment in textFragment.Segments)
+    {
+        //loop through the characters
+        for (int i = 1; i <= textSegment.Text.Length; i++)
+        {
+            CharInfo charInfo = textSegment.Characters[i];
+
+            // print character position and rectangle info
+            Console.WriteLine("XIndent : {0} ", charInfo.Position.XIndent);
+            Console.WriteLine("YIndent : {0} ", charInfo.Position.YIndent);
+            Console.WriteLine("Width : {0} ", charInfo.Rectangle.Width);
+            Console.WriteLine("Height : {0} ", charInfo.Rectangle.Height);
+        }
+    }
+}
+```
+
 ## Properties
 
 | Name | Description |

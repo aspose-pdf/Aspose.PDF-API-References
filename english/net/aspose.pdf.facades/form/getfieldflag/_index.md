@@ -25,6 +25,16 @@ public PropertyFlag GetFieldFlag(string fieldName)
 
 Property flag (ReadOnly/ Required/NoExport
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+if (form.GetFieldFlag("textField") == PropertyFlag.ReadOnly)
+{
+   Console.WriteLine("Field is read-only");
+}
+```
+
 ### See Also
 
 * enum [PropertyFlag](../../../aspose.pdf.facades/propertyflag/)

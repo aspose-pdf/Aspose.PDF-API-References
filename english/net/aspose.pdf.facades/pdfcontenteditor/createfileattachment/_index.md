@@ -27,6 +27,16 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
 | name | String | The name of an icon will be used in displaying the annotation.
  This value can be: "Graph", "PushPin", "Paperclip", "Tag". |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
+    "Welcome to Aspose", "attachment_file.pdf", 1, "Graph");
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
@@ -54,6 +64,16 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
 | name | String | The name of an icon will be used in displaying the annotation.
  This value can be: "Graph", "PushPin", "Paperclip", "Tag". |
 | opacity | Double | Icon's opacity from 0 to 1: 0 - completely transparant, 1 - completely opaque. |
+
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
+    "Welcome to Aspose", "attachment_file.pdf", 1, "Graph", 0.5);
+editor.Save("example_out.pdf");
+```
 
 ### See Also
 
@@ -83,6 +103,19 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
 | name | String | The name of an icon will be used in displaying the annotation.
  This value can be: "Graph", "PushPin", "Paperclip", "Tag". |
 
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.pdf"))
+{
+    editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
+        "Welcome to Aspose", attStream, "attachment_file.pdf", 1, "Graph");
+    editor.Save("example_out.pdf");
+}
+```
+
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
@@ -111,6 +144,19 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
 | name | String | The name of an icon will be used in displaying the annotation.
  This value can be: "Graph", "PushPin", "Paperclip", "Tag". |
 | opacity | Double | Icon's opacity from 0 to 1: 0 - completely transparant, 1 - completely opaque. |
+
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.pdf"))
+{
+    editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
+        "Welcome to Aspose", attStream, "attachment_file.pdf", 1, "Graph", 0.5);
+    editor.Save("example_out.pdf");
+}
+```
 
 ### See Also
 

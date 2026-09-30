@@ -17,6 +17,15 @@ Gets or sets action performed at document opening.
 public IAppointment OpenAction { get; set; }
 ```
 
+## Examples
+
+Example demonstrates how to get CenterWindow flag:
+
+```csharp
+Document document = new Document("sample.pdf");
+IAppointment value = document.OpenAction;
+```
+
 ### See Also
 
 * interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)

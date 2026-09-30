@@ -25,6 +25,16 @@ public bool Contains(string key)
 
 True - if the dictionary contains the specified key; otherwise, false.
 
+## Examples
+
+```csharp
+PdfXmpMetadata xmp = new PdfXmpMetadata();
+xmp.BindPdf("input.pdf");
+xmp.Add("xmp:Nickname", "Nickname1");
+if (!xmp.Contains("xmp:Nickname"))
+  Console.WriteLine("Key does not exists");
+```
+
 ### See Also
 
 * class [PdfXmpMetadata](../)

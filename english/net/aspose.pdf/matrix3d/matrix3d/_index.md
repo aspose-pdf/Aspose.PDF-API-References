@@ -19,6 +19,12 @@ Constructor
 public Matrix3D()
 ```
 
+## Examples
+
+```csharp
+Matrix3D m = new Matrix3D();
+```
+
 ### See Also
 
 * class [Matrix3D](../)
@@ -40,6 +46,13 @@ public Matrix3D(double[] matrix3DArray)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | matrix3DArray | Double[] | Matrix data array. |
+
+## Examples
+
+```csharp
+double[] c = new double[] { 1, 0, 0, 1, 10, 20, 1, 0, 0, 17, 40, 13 };
+Matrix3D m = new Matrix3D(c);
+```
 
 ### See Also
 
@@ -93,6 +106,12 @@ public Matrix3D(double a, double b, double c, double d, double e, double f, doub
 | tx | Double | TX matrix value. |
 | ty | Double | TY matrix value. |
 | tz | Double | TZ matrix value. |
+
+## Examples
+
+```csharp
+Matrix m = new Matrix(1, 0, 0, 1, 3, 3);
+```
 
 ### See Also
 

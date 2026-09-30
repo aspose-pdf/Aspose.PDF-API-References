@@ -29,6 +29,30 @@ public bool ResizeContents(Stream source, Stream destination, int[] pages,
 
 Returns true if success.
 
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+Stream src = new Stream("input.pdf", FileMode.Open);
+Stream dest = new Stream("output.pdf", FileMode.Create);
+PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
+    //left margin = 10% of page width
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    null,
+    //right margin is 10% of page 
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //top margin = 10% of height
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents height is calculated automatically (similar to width)
+    null,
+    //bottom margin is 10%
+    PdfFileEditor.ContentsResizeValue.Percents(10)
+       );
+fileEditor.ResizeContents(src, dest, new int[] { 1, 2,.3}, parameters);
+dest.Close();
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -59,6 +83,22 @@ public bool ResizeContents(Stream source, Stream destination, int[] pages, doubl
 ### Return Value
 
 True if resize was successful.
+
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+Stream src = new Stream("input.pdf", FileMode.Open);
+Stream dest = new Stream("output.pdf", FileMode.Create);
+fileEditor.ResizeContents(src, dest, 
+//resize all pages of document
+null, 
+//new contents width = 200
+200, 
+//new contents height = 300
+300);
+// rest area of page will be empty
+```
 
 ### See Also
 
@@ -91,6 +131,20 @@ public bool ResizeContents(string source, string destination, int[] pages, doubl
 
 true if resize was successful.
 
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+fileEditor.ResizeContents("input.pdf", "output.pdf", 
+//resize all pages of document
+null, 
+//new contents width = 200
+200, 
+//new contents height = 300
+300);
+// rest area of page will be empty
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -119,6 +173,27 @@ public bool ResizeContents(string source, string destination, int[] pages,
 
 true if resize was successful.
 
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
+    //left margin = 10% of page width
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    null,
+    //right margin is 10% of page 
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //top margin = 10% of height
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents height is calculated automatically (similar to width)
+    null,
+    //bottom margin is 10%
+    PdfFileEditor.ContentsResizeValue.Percents(10)
+       );
+fileEditor.ResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3 }, parameters);
+```
+
 ### See Also
 
 * class [PdfFileEditor](../)
@@ -141,6 +216,29 @@ public void ResizeContents(Document source, int[] pages, ContentsResizeParameter
 | pages | Int32[] | List of page indexes. |
 | parameters | ContentsResizeParameters | Resize parameters. |
 
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+Document doc = new Document("input.pdf");
+PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
+    //left margin = 10% of page width
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    null,
+    //right margin is 10% of page 
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //top margin = 10% of height
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents height is calculated automatically (similar to width)
+    null,
+    //bottom margin is 10%
+    PdfFileEditor.ContentsResizeValue.Percents(10)
+       );
+fileEditor.ResizeContents(doc, new int[] { 1, 2, 3 }, parameters);
+doc.Save("output.pdf");
+```
+
 ### See Also
 
 * class [Document](../../../aspose.pdf/document/)
@@ -162,6 +260,29 @@ public void ResizeContents(Document source, ContentsResizeParameters parameters)
 | --- | --- | --- |
 | source | Document | Source document. |
 | parameters | ContentsResizeParameters | Resize parameters. |
+
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+Document doc = new Document("input.pdf");
+PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
+    //left margin = 10% of page width
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    null,
+    //right margin is 10% of page 
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //top margin = 10% of height
+    PdfFileEditor.ContentsResizeValue.Percents(10),
+    //new contents height is calculated automatically (similar to width)
+    null,
+    //bottom margin is 10%
+    PdfFileEditor.ContentsResizeValue.Percents(10)
+       );
+fileEditor.ResizeContents(doc, parameters);
+doc.Save("output.pdf");
+```
 
 ### See Also
 

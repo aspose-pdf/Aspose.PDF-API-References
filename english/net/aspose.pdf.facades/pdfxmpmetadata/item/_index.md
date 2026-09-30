@@ -25,6 +25,14 @@ public XmpValue this[string key] { get; set; }
 
 Object by key
 
+## Examples
+
+```csharp
+PdfXmpMetadata pxm = new PdfXmpMetadata();
+pxm.BindPdf("PdfFile.pdf");
+Console.WriteLine(pxm["xmp:Nickname"]);
+```
+
 ### See Also
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
@@ -49,6 +57,14 @@ public XmpValue this[DefaultMetadataProperties key] { get; set; }
 ### Return Value
 
 Value from XMP metadata.
+
+## Examples
+
+```csharp
+PdfXmpMetadata pxm = new PdfXmpMetadata();
+pxm.BindPdf("PdfFile.pdf");
+Console.WriteLine(pxm[DefaultMetadataProperties.CreatorTool]);
+```
 
 ### See Also
 

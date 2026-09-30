@@ -21,6 +21,33 @@ public override void Visit(Page page)
 | --- | --- | --- |
 | page | Page | PDF document page object. |
 
+## Examples
+
+The example demonstrates how to find text on the first PDF document page and replace the text.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Find font that will be used to change document text font
+Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
+
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+// Accept the absorber for first page
+absorber.Visit(doc.Pages[1]);
+
+// Change text of all search occurrences
+foreach (TextFragment textFragment in absorber.TextFragments)
+{
+    textFragment.Text = "hi world";
+}
+
+// Save document
+doc.Save(@"D:\Tests\output.pdf");
+```
+
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
@@ -41,6 +68,30 @@ public override void Visit(Document pdf)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pdf | Document | PDF document object. |
+
+## Examples
+
+The example demonstrates how to find text on PDF document and replace text of all search occurrences.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Find font that will be used to change document text font
+Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
+
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+// Accept the absorber for first page
+absorber.Visit(doc);
+
+// Change text of the first text occurrence
+absorber.TextFragments[1].Text = "hi world";
+
+// Save document
+doc.Save(@"D:\Tests\output.pdf");
+```
 
 ### See Also
 

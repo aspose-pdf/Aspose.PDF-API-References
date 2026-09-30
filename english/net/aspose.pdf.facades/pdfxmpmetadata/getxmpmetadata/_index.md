@@ -21,6 +21,14 @@ public byte[] GetXmpMetadata()
 
 The bytes of the XmpMetadata.
 
+## Examples
+
+```csharp
+PdfXmpMetadata pxm = new PdfXmpMetadata();
+pxm.BindPdf("PdfFile.pdf");
+byte[] data = pxm.GetXmpMetadata();
+```
+
 ### See Also
 
 * class [PdfXmpMetadata](../)
@@ -44,6 +52,14 @@ public byte[] GetXmpMetadata(string name)
 ### Return Value
 
 Bytes of metadata.
+
+## Examples
+
+```csharp
+PdfXmpMetadata pxm = new PdfXmpMetadata();
+pxm.BindPdf("PdfFile.pdf");
+byte[] data = pxm.GetXmpMetadata("dc:creator");
+```
 
 ### See Also
 

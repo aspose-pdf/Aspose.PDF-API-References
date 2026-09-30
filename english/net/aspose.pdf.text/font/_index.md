@@ -18,6 +18,32 @@ Represents font object.
 public sealed class Font
 ```
 
+## Examples
+
+The example demonstrates how to search text on first page and change font of a first search occurrence.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
+
+// Accept the absorber for first page
+doc.Pages[1].Accept(absorber);
+
+// Create font and mark it to be embedded
+Font font = FontRepository.FindFont("Arial");
+font.IsEmbedded = true;
+
+// Change font of the first text occurrence
+absorber.TextFragments[1].TextState.Font = font;
+
+
+// Save document
+doc.Save(@"D:\Tests\output.pdf");
+```
+
 ## Properties
 
 | Name | Description |

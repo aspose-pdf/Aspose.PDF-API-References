@@ -21,6 +21,18 @@ public void DecorateField(string fieldName)
 | --- | --- | --- |
 | fieldName | String | The fully qualified field name. |
 
+## Examples
+
+```csharp
+FormEditor fe = new FormEditor("PdfWithAcroForm.pdf", "FormEditor_DecorateField_text.pdf");
+fe.Facade = new FormFieldFacade();
+fe.Facade.BackgroundColor = System.Drawing.Color.Red;
+fe.Facade.TextColor = System.Drawing.Color.Blue;
+fe.Facade.BorderColor = System.Drawing.Color.Green;
+fe.Facade.Alignment = FormFieldFacade.AlignCenter;
+fe.DecorateField("textField");
+```
+
 ### See Also
 
 * class [FormEditor](../)
@@ -41,6 +53,19 @@ public void DecorateField(FieldType fieldType)
 | --- | --- | --- |
 | fieldType | FieldType | Type of fields which will be decorated. |
 
+## Examples
+
+```csharp
+FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_DecorateField.pdf");
+fe.Facade = new FormFieldFacade();
+fe.Facade.BackgroundColor = System.Drawing.Color.Red;
+fe.Facade.TextColor = System.Drawing.Color.Blue;
+fe.Facade.BorderColor = System.Drawing.Color.Green;
+fe.Facade.Alignment = FormFieldFacade.AlignRight;
+//decorate all text fields.
+fe.DecorateField(FieldType.Text);
+```
+
 ### See Also
 
 * enum [FieldType](../../../aspose.pdf.facades/fieldtype/)
@@ -56,6 +81,19 @@ Changes visual attributes of all fields in the PDF document.
 
 ```csharp
 public void DecorateField()
+```
+
+## Examples
+
+```csharp
+FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_DecorateField.pdf");
+fe.Facade = new FormFieldFacade();
+fe.Facade.BackgroundColor = System.Drawing.Color.Red;
+fe.Facade.TextColor = System.Drawing.Color.Blue;
+fe.Facade.BorderColor = System.Drawing.Color.Green;
+fe.Facade.Alignment = FormFieldFacade.AlignRight;
+//decorate all fields.
+fe.DecorateField();
 ```
 
 ### See Also

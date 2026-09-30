@@ -24,6 +24,15 @@ public void ModifyAnnotationsAuthor(int start, int end, string srcAuthor, string
 | srcAuthor | String | The author that must be modified. |
 | desAuthor | String | The new author. |
 
+## Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+editor.ModifyAnnotationsAuthor(1, 2, "PREV AUTHOR", "NEW AUTHOR");
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [PdfAnnotationEditor](../)

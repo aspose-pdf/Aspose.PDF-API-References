@@ -27,6 +27,13 @@ public bool SetFieldAlignment(string fieldName, int alignment)
 
 true if true if field was found and alignment was set.
 
+## Examples
+
+```csharp
+FormEditor fe = new FormEditor("PdfStaticForm.pdf", "VerticalAlign.pdf");
+fe.SetFieldAlignment("form1[0].TextField[0]", FormFieldFacade.AlignLeft);
+```
+
 ### See Also
 
 * class [FormEditor](../)

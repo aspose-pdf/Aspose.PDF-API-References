@@ -20,23 +20,23 @@ public void PrintDocumentWithSetup()
 ## Examples
 
 ```csharp
-[C#]
- PdfViewer viewer = new PdfViewer();
- viewer.BindPdf(@"d:\test.pdf");
- viewer.AutoResize = true; //print the file with adjusted size
- viewer.AutoRotate = true; //print the file with adjusted rotation
- viewer.PrintPageDialog = false; //do not produce the page number dialog when printing
- viewer.PrintDocumentWithSetup();
- viewer.Close();
- 
- [VisualBasic]
- Dim viewer As New PdfViewer()
- viewer.BindPdf(@"d:\test.pdf")
- viewer.AutoResize = True 'print the file with adjusted size
- viewer.AutoRotate = True 'print the file with adjusted rotation
- viewer.PrintPageDialog = False 'do not produce the page number dialog when printing
- viewer.PrintDocumentWithSetup()
- viewer.Close()
+ [C#]
+PdfViewer viewer = new PdfViewer();
+viewer.BindPdf(@"d:\test.pdf");
+viewer.AutoResize = true;         //print the file with adjusted size
+viewer.AutoRotate = true;         //print the file with adjusted rotation
+viewer.PrintPageDialog = false;   //do not produce the page number dialog when printing
+viewer.PrintDocumentWithSetup();
+viewer.Close();
+
+[VisualBasic]
+Dim viewer As New PdfViewer()
+viewer.BindPdf(@"d:\test.pdf")
+viewer.AutoResize = True          'print the file with adjusted size
+viewer.AutoRotate = True          'print the file with adjusted rotation
+viewer.PrintPageDialog = False    'do not produce the page number dialog when printing
+viewer.PrintDocumentWithSetup()
+viewer.Close()
 ```
 
 ### See Also

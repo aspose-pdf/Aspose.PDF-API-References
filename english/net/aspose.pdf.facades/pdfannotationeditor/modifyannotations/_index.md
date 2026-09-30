@@ -24,6 +24,22 @@ public void ModifyAnnotations(int start, int end, Annotation annotation)
 | end | Int32 | The end page number. |
 | annotation | Annotation | The annotation object contains new properties. |
 
+## Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+TextAnnotation annot = new TextAnnotation();
+annot.Modified = DateTime.Now;
+annot.Title = "NEW AUTHOR";
+annot.Contents = "NEW CONTENTS";
+annot.Color = Color.Red;
+annot.Subject = "NEW SUBJECT";
+annot.Open = true;
+editor.ModifyAnnotations(1, 2, annot);
+editor.Save("example_out.pdf");
+```
+
 ### See Also
 
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)

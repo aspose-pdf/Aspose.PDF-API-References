@@ -21,6 +21,16 @@ public void BindImage(string imageFile)
 | --- | --- | --- |
 | imageFile | String | Image file name and path. |
 
+## Examples
+
+```csharp
+PdfFileStamp fileStamp = new PdfFileStamp("input.pdf", "output.pdf");
+Stamp stamp = new Stamp();
+stamp.BindImage("image.jpg");
+fileStamp.AddStamp(stamp);
+fileStamp.Close();
+```
+
 ### See Also
 
 * class [Stamp](../)

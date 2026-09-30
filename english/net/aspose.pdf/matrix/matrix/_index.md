@@ -19,6 +19,12 @@ Constructor
 public Matrix()
 ```
 
+## Examples
+
+```csharp
+Matrix m = new Matrix();
+```
+
 ### See Also
 
 * class [Matrix](../)
@@ -40,6 +46,13 @@ public Matrix(double[] matrixArray)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | matrixArray | Double[] | Matrix data array. |
+
+## Examples
+
+```csharp
+double[] c = new double[] { 1, 0, 0, 1, 10, 20 };
+Matrix m = new Matrix(c);
+```
 
 ### See Also
 
@@ -108,6 +121,12 @@ public Matrix(double a, double b, double c, double d, double e, double f)
 | d | Double | D matrix value. |
 | e | Double | E matrix value. |
 | f | Double | F matrix value. |
+
+## Examples
+
+```csharp
+Matrix m = new Matrix(1, 0, 0, 1, 3, 3);
+```
 
 ### See Also
 

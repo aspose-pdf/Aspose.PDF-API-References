@@ -19,6 +19,23 @@ Represents rubber stamp annotation.
 public sealed class StampAnnotation : MarkupAnnotation
 ```
 
+## Examples
+
+Next code snippet demonstrates how to add 2 stamps into the first pdf document page.
+ Input document comes from inFile and changes are saved into the outFile.
+ The first stamp has icon NotForPublicRelease and the second comes with image from rubber.jpg.
+
+```csharp
+ Document document = new Document(inFile);
+ StampAnnotation stamp1 = new StampAnnotation(StampIcon.NotForPublicRelease);
+	stamp1.Rect = new Rectangle(100, 100, 120, 120)
+	document.Pages[1].Annotations.Add(stamp1);
+ StampAnnotation stamp2 = new StampAnnotation(new FileStream("rubber.jpg", FileMode.Open));
+	stamp2.Rect = new Rectangle(200, 200, 220, 220)
+	document.Pages[1].Annotations.Add(stamp2);
+ document.Save(outFile);
+```
+
 ## Constructors
 
 | Name | Description |

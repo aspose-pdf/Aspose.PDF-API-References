@@ -20,6 +20,17 @@ Start delated updates. Use this feature if you need make several changes to the 
 public void BeginUpdates()
 ```
 
+## Examples
+
+```csharp
+Artifact art = doc.Pages[1].Artifacts[1];
+art.BeginUpdates();
+art.Opacity = 0.3f;
+art.Position = new Point(10,10);
+art.Rotation = 30;
+art.SaveUpdates();
+```
+
 ### See Also
 
 * class [Artifact](../)

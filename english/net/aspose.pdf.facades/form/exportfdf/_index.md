@@ -21,6 +21,15 @@ public void ExportFdf(Stream outputFdfStream)
 | --- | --- | --- |
 | outputFdfStream | Stream | The output fdf stream. |
 
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+Stream stream = new FileStream("export.fdf", FileMode.Create, FileAccess.Write);
+form.ExportFdf(stream);
+stream.Close();
+```
+
 ### See Also
 
 * class [Form](../)
