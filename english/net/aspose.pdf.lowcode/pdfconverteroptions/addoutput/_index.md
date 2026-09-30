@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.lowcode/pdfconverteroptions/addoutput/"
 product_version: "26.9.0"
 ---
-## AddOutput([IDataSource](../../../aspose.pdf.lowcode/idatasource/)) {#addoutput}
+## PdfConverterOptions.AddOutput method
 
 Adds new data source to the PdfToXLSXConverterOptions plugin data collection.
 
@@ -29,6 +29,7 @@ public void AddOutput(IDataSource saveDataSource)
 
 ### See Also
 
+* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
 * class [PdfConverterOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

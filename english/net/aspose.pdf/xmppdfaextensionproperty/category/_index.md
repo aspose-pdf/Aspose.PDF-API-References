@@ -19,7 +19,7 @@ public XmpPdfAExtensionCategoryType Category { get; }
 
 ### See Also
 
-* class [XmpPdfAExtensionCategoryType](../../../aspose.pdf/xmppdfaextensioncategorytype/)
+* enum [XmpPdfAExtensionCategoryType](../../../aspose.pdf/xmppdfaextensioncategorytype/)
 * class [XmpPdfAExtensionProperty](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

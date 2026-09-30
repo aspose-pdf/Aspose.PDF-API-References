@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf/xmpfield/toarray/"
 product_version: "26.9.0"
 ---
-## ToArray() {#toarray}
+## XmpField.ToArray method
 
 Gets value as an array.
 
@@ -18,8 +18,6 @@ public XmpValue[] ToArray()
 ```
 
 ### Return Value
-
-[XmpValue](../../../aspose.pdf/xmpvalue/)[]
 
 The array.
 

@@ -14,17 +14,19 @@ product_version: "26.9.0"
 Updates boundsCheckMode parameter for initialized collection.
 
 ```csharp
-public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode, double containerWidth, double containerHeight)
+public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode, double containerWidth, 
+    double containerHeight)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | boundsCheckMode | BoundsCheckMode | The bounds check mode. |
-| containerWidth | double | The container width. |
-| containerHeight | double | The container height. |
+| containerWidth | Double | The container width. |
+| containerHeight | Double | The container height. |
 
 ### See Also
 
+* enum [BoundsCheckMode](../../../aspose.pdf/boundscheckmode/)
 * class [BoundsCheckableList<T>](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -45,6 +47,7 @@ public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode)
 
 ### See Also
 
+* enum [BoundsCheckMode](../../../aspose.pdf/boundscheckmode/)
 * class [BoundsCheckableList<T>](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

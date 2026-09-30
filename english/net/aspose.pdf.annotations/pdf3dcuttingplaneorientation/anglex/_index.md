@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the angle to X axis.
 
 ```csharp
-public Nullable<double> AngleX { get; set; }
+public double? AngleX { get; set; }
 ```
 
 ### Property Value

@@ -5,7 +5,7 @@ articleTitle: "Count"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "AppearanceDictionary property. Gets the number of elements contained in the dictionary."
 type: docs
-weight: 190
+weight: 180
 url: "/net/aspose.pdf.annotations/appearancedictionary/count/"
 product_version: "26.9.0"
 ---

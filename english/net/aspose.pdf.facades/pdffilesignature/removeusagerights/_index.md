@@ -5,11 +5,11 @@ articleTitle: "RemoveUsageRights"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileSignature method. Removes the usage rights entry."
 type: docs
-weight: 320
+weight: 230
 url: "/net/aspose.pdf.facades/pdffilesignature/removeusagerights/"
 product_version: "26.9.0"
 ---
-## RemoveUsageRights() {#removeusagerights}
+## PdfFileSignature.RemoveUsageRights method
 
 Removes the usage rights entry.
 

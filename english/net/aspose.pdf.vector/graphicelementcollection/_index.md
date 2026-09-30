@@ -15,14 +15,14 @@ product_version: "26.9.0"
 Represents [`GraphicElement`](../../aspose.pdf.vector/graphicelement/) collection.
 
 ```csharp
-public sealed class GraphicElementCollection : IEnumerable
+public sealed class GraphicElementCollection : ICollection<GraphicElement>
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [GraphicElementCollection](./graphicelementcollection/#constructor) | Initializes the new collection. |
+| [GraphicElementCollection](./graphicelementcollection/)() | Initializes the new collection. |
 
 ## Properties
 
@@ -35,13 +35,13 @@ public sealed class GraphicElementCollection : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*GraphicElement*) | Adds a new [`GraphicElement`](../../aspose.pdf.vector/graphicelement/) to the collection. |
-| [Clear](./clear/) | Clears the collection. |
-| [Contains](./contains/)(*GraphicElement*) | Determines whether an element is in the collection. |
-| [CopyTo](./copyto/)(*GraphicElement[], int*) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array. |
-| [GetEnumerator](./getenumerator/) | Returns an enumerator for the entire collection. |
-| [Remove](./remove/)(*GraphicElement*) | Deletes the [`GraphicElement`](../../aspose.pdf.vector/graphicelement/) element. |
-| [ToString](./tostring/) | Gets a string representation of this collection. |
+| [Add](./add/)(GraphicElement) | Adds a new [`GraphicElement`](../../aspose.pdf.vector/graphicelement/) to the collection. All items in the collection must have the same `Parent`. |
+| [Clear](./clear/)() | Clears the collection. |
+| [Contains](./contains/)(GraphicElement) | Determines whether an element is in the collection. |
+| [CopyTo](./copyto/)(GraphicElement[], int) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array. |
+| [GetEnumerator](./getenumerator/)() | Returns an enumerator for the entire collection. |
+| [Remove](./remove/)(GraphicElement) | Deletes the [`GraphicElement`](../../aspose.pdf.vector/graphicelement/) element. |
+| override [ToString](./tostring/)() | Gets a string representation of this collection. |
 
 ### See Also
 

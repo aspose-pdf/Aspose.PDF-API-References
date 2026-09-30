@@ -9,23 +9,22 @@ weight: 200
 url: "/net/aspose.pdf.ai/iopenaiclient/waitforruntocompleteasync/"
 product_version: "26.9.0"
 ---
-## WaitForRunToCompleteAsync(string, string, Nullable<CancellationToken>) {#waitforruntocompleteasync}
+## IOpenAIClient.WaitForRunToCompleteAsync method
 
 Waits for a run to complete within a thread asynchronously.
 
 ```csharp
-public Task<RunResponse> WaitForRunToCompleteAsync(string threadId, string runId, Nullable<CancellationToken> cancellationToken)
+public Task<RunResponse> WaitForRunToCompleteAsync(string threadId, string runId, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threadId | string | The ID of the thread containing the run. |
-| runId | string | The ID of the run to monitor until completion. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| threadId | String | The ID of the thread containing the run. |
+| runId | String | The ID of the run to monitor until completion. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[RunResponse](../../../aspose.pdf.ai/runresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the final status of the run.
 

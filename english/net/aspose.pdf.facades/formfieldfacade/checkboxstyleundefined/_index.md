@@ -5,7 +5,7 @@ articleTitle: "CheckBoxStyleUndefined"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormFieldFacade field. Defines an undefined check box style."
 type: docs
-weight: 470
+weight: 450
 url: "/net/aspose.pdf.facades/formfieldfacade/checkboxstyleundefined/"
 product_version: "26.9.0"
 ---

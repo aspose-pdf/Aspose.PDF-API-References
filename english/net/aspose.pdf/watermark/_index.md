@@ -5,7 +5,7 @@ articleTitle: "Watermark"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Watermark class. Represents a watermark of the page."
 type: docs
-weight: 3160
+weight: 3120
 url: "/net/aspose.pdf/watermark/"
 keywords: "Watermark, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,8 +22,8 @@ public class Watermark
 
 | Name | Description |
 | --- | --- |
-| [Watermark](./watermark/#constructor)(*[Image](../../aspose.pdf/image/)*) | Initializes a watermark object with an image. |
-| [Watermark](./watermark/#constructor_1)(*[Image](../../aspose.pdf/image/), [Rectangle](../../aspose.pdf.drawing/rectangle/)*) | Initializes a watermark object with an image and it's position on a page. |
+| [Watermark](./watermark/#constructor)(Image) | Initializes a watermark object with an image. |
+| [Watermark](./watermark/#constructor_1)(Image, Rectangle) | Initializes a watermark object with an image and it's position on a page. |
 
 ## Properties
 

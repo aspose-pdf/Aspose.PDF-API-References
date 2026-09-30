@@ -9,21 +9,19 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/elementlist/item/"
 product_version: "26.9.0"
 ---
-## Item(int) {#item}
+## ElementList.Item method
 
 Retrieves a element at the given index.
 
 ```csharp
-public Element Item(int index)
+public abstract Element Item(int index)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | The index into the list of elements. |
+| index | Int32 | The index into the list of elements. |
 
 ### Return Value
-
-[Element](../../../aspose.pdf.structure/element/)
 
 The [`Element`](../../../aspose.pdf.structure/element/) with the specified index in the collection. If *index* is greater than or equal to the number of elements in the list, this returns null.
 

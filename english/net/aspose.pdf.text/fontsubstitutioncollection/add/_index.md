@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/add/"
 product_version: "26.9.0"
 ---
-## Add([FontSubstitution](../../../aspose.pdf.text/fontsubstitution/)) {#add}
+## FontSubstitutionCollection.Add method
 
 Adds new font substitution object to the collection.
 
@@ -23,6 +23,7 @@ public void Add(FontSubstitution fontSubstitution)
 
 ### See Also
 
+* class [FontSubstitution](../../../aspose.pdf.text/fontsubstitution/)
 * class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.facades/pdfpageeditor/moveposition/"
 product_version: "26.9.0"
 ---
-## MovePosition(float, float) {#moveposition}
+## PdfPageEditor.MovePosition method
 
 Moves the origin from (0, 0) to the point that appointted. 
  The origin is left-bottom and the unit is point(1 inch = 72 points).
@@ -20,8 +20,8 @@ public void MovePosition(float moveX, float moveY)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| moveX | float | X-coordinate. |
-| moveY | float | Y-coordinate. |
+| moveX | Single | X-coordinate. |
+| moveY | Single | Y-coordinate. |
 
 ### See Also
 

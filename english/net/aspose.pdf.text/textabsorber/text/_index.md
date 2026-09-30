@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets extracted text that the [`TextAbsorber`](../../../aspose.pdf.text/textabsorber/) extracts on the PDF document or page.
 
 ```csharp
-public string Text { get; }
+public virtual string Text { get; }
 ```
 
 ### See Also

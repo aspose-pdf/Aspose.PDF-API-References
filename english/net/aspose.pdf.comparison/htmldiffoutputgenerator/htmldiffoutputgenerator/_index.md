@@ -39,6 +39,7 @@ public HtmlDiffOutputGenerator(OutputTextStyle textStyle)
 
 ### See Also
 
+* class [OutputTextStyle](../../../aspose.pdf.comparison/outputtextstyle/)
 * class [HtmlDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

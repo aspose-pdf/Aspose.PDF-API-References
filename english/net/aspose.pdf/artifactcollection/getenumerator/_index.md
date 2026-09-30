@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/artifactcollection/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## ArtifactCollection.GetEnumerator method
 
 Gets enumerator for the collection.
 
@@ -18,8 +18,6 @@ public IEnumerator<Artifact> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[Artifact](../../../aspose.pdf/artifact/)>
 
 Enumerator object.
 

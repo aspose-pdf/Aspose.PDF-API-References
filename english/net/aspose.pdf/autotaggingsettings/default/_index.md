@@ -18,13 +18,12 @@ The default settings enable auto-tagging and use the automatic strategy for head
  requiring automatic tagging of PDF content.
 
 ```csharp
-public AutoTaggingSettings Default { get; }
+public static AutoTaggingSettings Default { get; }
 ```
 
 ### See Also
 
 * class [AutoTaggingSettings](../../../aspose.pdf/autotaggingsettings/)
-* class [AutoTaggingSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

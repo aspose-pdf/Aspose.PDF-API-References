@@ -9,17 +9,17 @@ weight: 10
 url: "/net/aspose.pdf.ai/llamaclient.builder/builder/"
 product_version: "26.9.0"
 ---
-## LlamaClient.Builder(string) {#constructor}
+## Builder constructor
 
 Initializes a new instance of the `Builder` class with the API key.
 
 ```csharp
-public LlamaClient.Builder(string apiKey)
+public Builder(string apiKey)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| apiKey | string | The API key to use for the client. |
+| apiKey | String | The API key to use for the client. |
 
 ### See Also
 

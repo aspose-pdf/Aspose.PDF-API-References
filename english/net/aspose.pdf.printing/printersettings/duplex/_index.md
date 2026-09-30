@@ -19,7 +19,7 @@ public Duplex Duplex { get; set; }
 
 ### See Also
 
-* class [Duplex](../../../aspose.pdf.printing/duplex/)
+* enum [Duplex](../../../aspose.pdf.printing/duplex/)
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

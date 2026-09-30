@@ -22,24 +22,24 @@ public class SetGray : SetColorOperator
 
 | Name | Description |
 | --- | --- |
-| [SetGray](./setgray/#constructor)(*double*) | Initializes operator. |
+| [SetGray](./setgray/)(double) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Gray](./gray/) { get; set; } | Gets or sets the level of gray value. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. *(Inherited from Operator)* |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Accept](./accept/)(*IOperatorSelector*) | Accepts visitor object to process operator. |
-| [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(*Operator*) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc). *(Inherited from Operator)* |
-| [ToString](./tostring/) | Returns string representation of operator. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(*Operator*) | Compares this instance with the given object. *(Inherited from Operator)* |
-| [getColor](./getcolor/) | Returns color specified by operator. |
+| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [ToString](./tostring/)() | Returns string representation of operator. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
+| override [getColor](./getcolor/)() | Returns color specified by operator. |
 
 ### See Also
 

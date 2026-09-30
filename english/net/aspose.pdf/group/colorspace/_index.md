@@ -19,7 +19,7 @@ public ColorSpace ColorSpace { get; set; }
 
 ### See Also
 
-* class [ColorSpace](../../../aspose.pdf/colorspace/)
+* enum [ColorSpace](../../../aspose.pdf/colorspace/)
 * class [Group](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 320
 url: "/net/aspose.pdf/page/asbytearray/"
 product_version: "26.9.0"
 ---
-## AsByteArray([Resolution](../../../aspose.pdf.devices/resolution/)) {#asbytearray}
+## Page.AsByteArray method
 
 Converts current page as bitmap and than returns array of bytes.
 
@@ -23,12 +23,11 @@ public byte[] AsByteArray(Resolution resolution)
 
 ### Return Value
 
-byte[]
-
 Converted array of image bytes.
 
 ### See Also
 
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

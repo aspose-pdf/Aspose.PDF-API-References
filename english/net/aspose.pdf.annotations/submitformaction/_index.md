@@ -22,29 +22,29 @@ public sealed class SubmitFormAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [SubmitFormAction](./submitformaction/#constructor) | Initializes SubmitFormAction object. |
+| [SubmitFormAction](./submitformaction/)() | Initializes SubmitFormAction object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Flags](./flags/) { get; set; } | Gets or sets flagas of submit action. |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. *(Inherited from PdfAction)* |
+| [Flags](./flags/) { get; set; } | Gets or sets flagas of submit action |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 | [Url](./url/) { get; set; } | Destination URL. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/) | Gets string for ECMAScript Action. *(Inherited from PdfAction)* |
-| [ToString](../../aspose.pdf.annotations/iappointment/tostring/) | Returns string representation. *(Inherited from IAppointment)* |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Returns string representation |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
 | const [CanonicalFormat](./canonicalformat/) | If set, any submitted field values representing dates shall be converted to the standard format. |
-| const [EmbedForm](./embedform/) | If set, the F entry of the submitted FDF shall be a file specification containing an. |
+| const [EmbedForm](./embedform/) | If set, the F entry of the submitted FDF shall be a file specification containing an embedded file stream representing the PDF file from which the FDF is being submitted. |
 | const [ExclFKey](./exclfkey/) | If set, the submitted FDF shall exclude the F entry. |
 | const [ExclNonUserAnnots](./exclnonuserannots/) | If set, it shall include only those markup annotations whose T entry matches the name of the current user. |
 | const [Exclude](./exclude/) | If clear, the Fields array specifies which fields to include in the submission. |

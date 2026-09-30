@@ -22,14 +22,14 @@ public class PdfDocument
 
 | Name | Description |
 | --- | --- |
-| [PdfDocument](./pdfdocument/#constructor) | The default constructor. |
+| [PdfDocument](./pdfdocument/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Document](./document/) { get; set; } | Gets or sets the the PDF document. |
-| [Name](./name/) { get; set; } | Gets or sets the name of the PDF document. |
+| [Name](./name/) { get; set; } | Gets or sets the name of the PDF document. Generates new GUID if the name is not set. |
 
 ### See Also
 

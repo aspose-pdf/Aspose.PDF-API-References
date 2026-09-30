@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the maximum number of tokens to generate in the completion.
 
 ```csharp
-public Nullable<int> MaxCompletionTokens { get; set; }
+public int? MaxCompletionTokens { get; set; }
 ```
 
 ### See Also

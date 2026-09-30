@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.annotations/pdf3dviewarray/removeall/"
 product_version: "26.9.0"
 ---
-## RemoveAll() {#removeall}
+## PDF3DViewArray.RemoveAll method
 
 Removes all views.
 

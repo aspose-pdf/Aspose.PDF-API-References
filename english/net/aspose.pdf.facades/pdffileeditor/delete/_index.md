@@ -19,13 +19,11 @@ public bool Delete(string inputFile, int[] pageNumber, string outputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Input file path. |
-| pageNumber | int[] | Index of page out of the input file. |
-| outputFile | string | Output file path. |
+| inputFile | String | Input file path. |
+| pageNumber | Int32[] | Index of page out of the input file. |
+| outputFile | String | Output file path. |
 
 ### Return Value
-
-bool
 
 True if operation was succeeded.
 
@@ -48,12 +46,10 @@ public bool Delete(Stream inputStream, int[] pageNumber, Stream outputStream)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Input file Stream. |
-| pageNumber | int[] | Index of page out of the input file. |
+| pageNumber | Int32[] | Index of page out of the input file. |
 | outputStream | Stream | Output file stream. |
 
 ### Return Value
-
-bool
 
 True for success, or false.
 

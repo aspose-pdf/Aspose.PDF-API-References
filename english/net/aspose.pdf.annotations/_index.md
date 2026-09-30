@@ -20,7 +20,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 
 | Class | Description |
 | --- | --- |
-| [ActionCollection](./actioncollection/) | Collection of actions. |
+| [ActionCollection](./actioncollection/) | Collection of actions |
 | [Annotation](./annotation/) | Class representing annotation object. |
 | [AnnotationActionCollection](./annotationactioncollection/) | Represents the collection of annotation actions. |
 | [AnnotationCollection](./annotationcollection/) | Class representing annotation collection. |
@@ -29,25 +29,25 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [BleedMarkAnnotation](./bleedmarkannotation/) | Represents a Bleed Mark annotation. |
 | [Border](./border/) | Class representing characteristics of annotation border. |
 | [CaretAnnotation](./caretannotation/) | Class representing Caret annotation. |
-| [Characteristics](./characteristics/) | Represents annotation characteristics. |
+| [Characteristics](./characteristics/) | Represents annotation characteristics |
 | [CircleAnnotation](./circleannotation/) | Class representing Circle annotation. |
-| [ColorBarAnnotation](./colorbarannotation/) | Class representing ColorBarAnnotation annotation. |
+| [ColorBarAnnotation](./colorbarannotation/) | Class representing ColorBarAnnotation annotation. Property Color ignored, instead used ColorsOfCMYK color. On creation, the ratio of width and height determines the orientation of the annotation - horizontal or vertical. Next, it checks that the annotation rectangle is outside the TrimBox, and if not, then it is shifted to the nearest location outside the TrimBox, taking into account the orientation of the annotation. It is possible to reduce the width (height) so that the annotation fits outside the TrimBox. If there is no space for the layout, the width/height can be set to zero (in this case, the annotation is present on the page, but not displayed). |
 | [CommonFigureAnnotation](./commonfigureannotation/) | Abstract class representing common figure annotation. |
 | [CornerPrinterMarkAnnotation](./cornerprintermarkannotation/) | Represents annotation types that are placed in the corners of the printed page. |
 | [CustomExplicitDestination](./customexplicitdestination/) | Represents custom explicit destination. |
 | [Dash](./dash/) | Class representing line dash pattern. |
 | [DefaultAppearance](./defaultappearance/) | Describes default appearance of field (font, text size and color). |
-| [DocumentActionCollection](./documentactioncollection/) | Class describes actions performed on some actions with document. |
+| [DocumentActionCollection](./documentactioncollection/) | Class describes actions performed on some actions with document |
 | [ExplicitDestination](./explicitdestination/) | Represents the base class for explicit destinations in PDF document. |
 | [FdfReader](./fdfreader/) | Class which performes reading of FDF format. |
 | [FileAttachmentAnnotation](./fileattachmentannotation/) | Class describes file attachment annotation. |
-| [FitBExplicitDestination](./fitbexplicitdestination/) | Represents explicit destination that displays the page with its contents magnified just enough to fit its bounding box entirely within the window both horizontally and vertically. If the required horizontal and vertical magnification factors are different, use the smaller of the two, centering the... |
-| [FitBHExplicitDestination](./fitbhexplicitdestination/) | Represents explicit destination that displays the page with the vertical coordinate top positioned at the top edge of the window and the contents of the page magnified just enough to fit the entire width of its bounding box within the window. A null value for top specifies that the current value of... |
-| [FitBVExplicitDestination](./fitbvexplicitdestination/) | Represents explicit destination that displays the page with the horizontal coordinate left positioned at the left edge of the window and the contents of the page magnified just enough to fit the entire height of its bounding box within the window. A null value for left specifies that the current... |
-| [FitExplicitDestination](./fitexplicitdestination/) | Represents explicit destination that displays the page with its contents magnified just enough to fit the entire page within the window both horizontally and vertically. If the required horizontal and vertical magnification factors are different, use the smaller of the two, centering the page... |
-| [FitHExplicitDestination](./fithexplicitdestination/) | Represents explicit destination that displays the page with the vertical coordinate top positioned at the top edge of the window and the contents of the page magnified just enough to fit the entire width of the page within the window. A null value for top specifies that the current value of that... |
-| [FitRExplicitDestination](./fitrexplicitdestination/) | Represents explicit destination that displays the page with its contents magnified just enough to fit the rectangle specified by the coordinates left, bottom, right, and topentirely within the window both horizontally and vertically. If the required horizontal and vertical magnification factors are... |
-| [FitVExplicitDestination](./fitvexplicitdestination/) | Represents explicit destination that displays the page with the horizontal coordinate left positioned at the left edge of the window and the contents of the page magnified just enough to fit the entire height of the page within the window. A null value for left specifies that the current value of... |
+| [FitBExplicitDestination](./fitbexplicitdestination/) | Represents explicit destination that displays the page with its contents magnified just enough to fit its bounding box entirely within the window both horizontally and vertically. If the required horizontal and vertical magnification factors are different, use the smaller of the two, centering the bounding box within the window in the other dimension. |
+| [FitBHExplicitDestination](./fitbhexplicitdestination/) | Represents explicit destination that displays the page with the vertical coordinate top positioned at the top edge of the window and the contents of the page magnified just enough to fit the entire width of its bounding box within the window. A null value for top specifies that the current value of that parameter is to be retained unchanged. |
+| [FitBVExplicitDestination](./fitbvexplicitdestination/) | Represents explicit destination that displays the page with the horizontal coordinate left positioned at the left edge of the window and the contents of the page magnified just enough to fit the entire height of its bounding box within the window. A null value for left specifies that the current value of that parameter is to be retained unchanged. |
+| [FitExplicitDestination](./fitexplicitdestination/) | Represents explicit destination that displays the page with its contents magnified just enough to fit the entire page within the window both horizontally and vertically. If the required horizontal and vertical magnification factors are different, use the smaller of the two, centering the page within the window in the other dimension. |
+| [FitHExplicitDestination](./fithexplicitdestination/) | Represents explicit destination that displays the page with the vertical coordinate top positioned at the top edge of the window and the contents of the page magnified just enough to fit the entire width of the page within the window. A null value for top specifies that the current value of that parameter is to be retained unchanged. |
+| [FitRExplicitDestination](./fitrexplicitdestination/) | Represents explicit destination that displays the page with its contents magnified just enough to fit the rectangle specified by the coordinates left, bottom, right, and topentirely within the window both horizontally and vertically. If the required horizontal and vertical magnification factors are different, use the smaller of the two, centering the rectangle within the window in the other dimension. A null value for any of the parameters may result in unpredictable behavior. |
+| [FitVExplicitDestination](./fitvexplicitdestination/) | Represents explicit destination that displays the page with the horizontal coordinate left positioned at the left edge of the window and the contents of the page magnified just enough to fit the entire height of the page within the window. A null value for left specifies that the current value of that parameter is to be retained unchanged. |
 | [FixedPrint](./fixedprint/) | Represent Fixed print data of Watermark Annotation. |
 | [FreeTextAnnotation](./freetextannotation/) | Represents a free text annotation that displays text directly on the page. Unlike an ordinary text annotation, a free text annotation has no open or closed state; instead of being displayed in a pop-up window, the text is always visible. |
 | [GoToAction](./gotoaction/) | Represents a go-to action that changes the view to a specified destination (page, location, and magnification factor). |
@@ -83,8 +83,8 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [PDF3DStream](./pdf3dstream/) | Class PDF3DStream. |
 | [PDF3DView](./pdf3dview/) | Class PDF3DView. |
 | [PDF3DViewArray](./pdf3dviewarray/) | Class PDF3DViewArray. |
-| [PageInformationAnnotation](./pageinformationannotation/) | Represents a Page Information annotation in a PDF document. This annotation contains the file name,. |
-| [PdfAction](./pdfaction/) | Represents Action in PDF document. |
+| [PageInformationAnnotation](./pageinformationannotation/) | Represents a Page Information annotation in a PDF document. This annotation contains the file name, page number, and the date and time of the annotation creation. |
+| [PdfAction](./pdfaction/) | Represents Action in PDF document |
 | [PdfActionCollection](./pdfactioncollection/) | Class describes list of actions. |
 | [PolyAnnotation](./polyannotation/) | Abstract base class for poly- annotations. |
 | [PolygonAnnotation](./polygonannotation/) | Class representing polygon annotation. |
@@ -101,20 +101,20 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [SelectorRendition](./selectorrendition/) | Class describes selector rendition. |
 | [SoundAnnotation](./soundannotation/) | Represents a sound annotation that contains sound recorded from the computer's microphone or imported from a file. |
 | [SoundData](./sounddata/) | Represents a sound data defining the sound to be played when the annotation is activated. |
-| [SoundSampleData](./soundsampledata/) | Represents additional entries specific to a sound object (Section 9.2 PDF1-7). |
+| [SoundSampleData](./soundsampledata/) | Represents additional entries specific to a sound object (Section 9.2 PDF1-7) |
 | [SquareAnnotation](./squareannotation/) | Class representing square annotation. |
 | [SquigglyAnnotation](./squigglyannotation/) | Represents the squiggly annotation that appears as a jagged underline in the text of a document. |
-| [StampAnnotation](./stampannotation/) | Represents rubber stamp annotation. |
+| [StampAnnotation](./stampannotation/) | Represents rubber stamp annotation. This type of annotation displays text or graphics intended to look as if they were stamped on the page with a rubber stamp. |
 | [StrikeOutAnnotation](./strikeoutannotation/) | Represents a strikeout annotation that appears as a strikeout in the text of the document. |
 | [SubmitFormAction](./submitformaction/) | Class which describes submit-form action. |
 | [TextAnnotation](./textannotation/) | Represents a text annotation that is a 'sticky note' attached to a point in the PDF document. |
 | [TextMarkupAnnotation](./textmarkupannotation/) | Abstract base class for text markup annotations. |
-| [TextStyle](./textstyle/) | Class represents style of text in annotation. |
+| [TextStyle](./textstyle/) | Class represents style of text in annotation |
 | [TrimMarkAnnotation](./trimmarkannotation/) | Represents a Trim Mark annotation. |
 | [UnderlineAnnotation](./underlineannotation/) | Represents an underline annotation that appears as an underline in the text of the document. |
 | [WatermarkAnnotation](./watermarkannotation/) | Class describes Watermark annotation object. |
 | [WidgetAnnotation](./widgetannotation/) | Class representing widget annotation. |
-| [XYZExplicitDestination](./xyzexplicitdestination/) | Represents explicit destination that displays the page with the coordinates (left, top) positioned at the upper-left corner of the window and the contents of the page magnified by the factor zoom. A null value for any of the parameters left, top, or zoom specifies that the current value of that... |
+| [XYZExplicitDestination](./xyzexplicitdestination/) | Represents explicit destination that displays the page with the coordinates (left, top) positioned at the upper-left corner of the window and the contents of the page magnified by the factor zoom. A null value for any of the parameters left, top, or zoom specifies that the current value of that parameter is to be retained unchanged. A zoom value of 0 has the same meaning as a null value. |
 | [XfdfReader](./xfdfreader/) | Class which peroformes reading of XFDF format. |
 
 ## Interfaces
@@ -154,7 +154,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [PrinterMarkCornerPosition](./printermarkcornerposition/) | Represents a position of a mark in a corner of a page. |
 | [PrinterMarkSidePosition](./printermarksideposition/) | Represents a position of a registration mark on a page. |
 | [PrinterMarksKind](./printermarkskind/) | Specifies the types of printer's marks to be added to a document. |
-| [RenderModeType](./rendermodetype/) | Enum RenderModeType: set of render mode types. |
+| [RenderModeType](./rendermodetype/) | Enum RenderModeType: set of render mode types |
 | [RenditionOperation](./renditionoperation/) | The operation to perform when the action is triggered. |
 | [RenditionType](./renditiontype/) | Enumeration describes possible types of Rendition. |
 | [ReplyType](./replytype/) | Enumerates the kinds of the relationships (the "reply type") between the annotation and one specified by InReplyTo. |
@@ -165,7 +165,6 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [SoundIcon](./soundicon/) | Enumerates the icons to be used in displaying the annotation. |
 | [SoundSampleDataEncodingFormat](./soundsampledataencodingformat/) | The encoding format for the sound sample data. |
 | [StampIcon](./stampicon/) | Enumerates the icons to be used in displaying the annotation. |
-| [TextAlignment](./textalignment/) | Alignment of text in annotation. |
 | [TextIcon](./texticon/) | Enumerates the icons to be used in displaying the annotation. |
 
 ## FAQ
@@ -176,5 +175,5 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 
 ### How many types are in the Aspose.Pdf.Annotations namespace?
 
-The Aspose.Pdf.Annotations namespace contains 137 types, listed above.
+The Aspose.Pdf.Annotations namespace contains 136 types, listed above.
 

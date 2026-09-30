@@ -9,7 +9,7 @@ weight: 330
 url: "/net/aspose.pdf.tagged/itaggedcontent/createcodeelement/"
 product_version: "26.9.0"
 ---
-## CreateCodeElement() {#createcodeelement}
+## ITaggedContent.CreateCodeElement method
 
 Creates [`CodeElement`](../../../aspose.pdf.logicalstructure/codeelement/).
 
@@ -18,8 +18,6 @@ public CodeElement CreateCodeElement()
 ```
 
 ### Return Value
-
-[CodeElement](../../../aspose.pdf.logicalstructure/codeelement/)
 
 Created structure element.
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/documentcollection/documentcollection/"
 product_version: "26.9.0"
 ---
-## DocumentCollection() {#constructor}
+## DocumentCollection constructor
 
 The default constructor.
 

@@ -5,7 +5,7 @@ articleTitle: "LoadFormat"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.LoadFormat enum. Specifies load format."
 type: docs
-weight: 1780
+weight: 1740
 url: "/net/aspose.pdf/loadformat/"
 product_version: "26.9.0"
 ---

@@ -5,7 +5,7 @@ articleTitle: "Bookmark"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.Bookmark class. Represents a bookmark."
 type: docs
-weight: 80
+weight: 70
 url: "/net/aspose.pdf.facades/bookmark/"
 keywords: "Bookmark, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,15 +22,14 @@ public sealed class Bookmark
 
 | Name | Description |
 | --- | --- |
-| [Bookmark](./bookmark/#constructor) | The default constructor. |
+| [Bookmark](./bookmark/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Action](./action/) { get; set; } | Gets or sets the action bound with the bookmark. |
+| [Action](./action/) { get; set; } | Gets or sets the action bound with the bookmark. If PageNumber is presented the action can not be specified. The action type includes: "GoTo", "GoToR", "Launch", "Named". |
 | [BoldFlag](./boldflag/) { get; set; } | Gets or sets the bold flag of bookmark's title. |
-| [ChildItem](./childitem/) { get; set; } | Gets or sets bookmark's children. |
 | [ChildItems](./childitems/) { get; set; } | Gets or sets bookmark's children. |
 | [CustomAcorbatViewerMenuActionName](./customacorbatviewermenuactionname/) { get; set; } | The action name corresponding to execute a menu item in Acrobat viewer. |
 | [Destination](./destination/) { get; set; } | Gets or sets bookmark's destination page. Required if action is set as string.Empty. |

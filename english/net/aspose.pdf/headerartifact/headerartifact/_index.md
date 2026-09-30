@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/headerartifact/headerartifact/"
 product_version: "26.9.0"
 ---
-## HeaderArtifact() {#constructor}
+## HeaderArtifact constructor
 
 Creates Header Artifact instance.
 

@@ -19,7 +19,7 @@ public void Delete(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of XForm which must be deleted |
+| index | Int32 | Index of XForm which must be deleted |
 
 ### See Also
 
@@ -55,7 +55,7 @@ public void Delete(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Name of XForm to be deleted. |
+| name | String | Name of XForm to be deleted. |
 
 ### See Also
 

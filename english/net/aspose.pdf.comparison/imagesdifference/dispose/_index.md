@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.comparison/imagesdifference/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## ImagesDifference.Dispose method
 
 Performs any necessary clean up operations before the object is destroyed.
 

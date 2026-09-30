@@ -9,17 +9,15 @@ weight: 30
 url: "/net/aspose.pdf/metered/getconsumptionquantity/"
 product_version: "26.9.0"
 ---
-## GetConsumptionQuantity() {#getconsumptionquantity}
+## Metered.GetConsumptionQuantity method
 
 Gets consumption file size.
 
 ```csharp
-public Decimal GetConsumptionQuantity()
+public static decimal GetConsumptionQuantity()
 ```
 
 ### Return Value
-
-Decimal
 
 Consumption quantity.
 

@@ -22,7 +22,7 @@ public sealed class StartEndPageEventArgs : EventArgs
 
 | Name | Description |
 | --- | --- |
-| [StartEndPageEventArgs](./startendpageeventargs/#constructor)(*int, int, int, int*) | Initializes a new instance of the [`StartEndPageEventArgs`](../../aspose.pdf.printing/startendpageeventargs/) class. |
+| [StartEndPageEventArgs](./startendpageeventargs/)(int, int, int, int) | Initializes a new instance of the [`StartEndPageEventArgs`](../../aspose.pdf.printing/startendpageeventargs/) class. |
 
 ## Fields
 

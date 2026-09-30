@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.logicalstructure/tableelement/createtfoot/"
 product_version: "26.9.0"
 ---
-## CreateTFoot() {#createtfoot}
+## TableElement.CreateTFoot method
 
 Creates [`TableTFootElement`](../../../aspose.pdf.logicalstructure/tabletfootelement/) and added it to current table.
 
@@ -18,8 +18,6 @@ public TableTFootElement CreateTFoot()
 ```
 
 ### Return Value
-
-[TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
 
 Created structure element.
 

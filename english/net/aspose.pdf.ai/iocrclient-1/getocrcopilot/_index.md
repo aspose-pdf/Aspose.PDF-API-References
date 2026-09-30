@@ -9,27 +9,25 @@ weight: 10
 url: "/net/aspose.pdf.ai/iocrclient-1/getocrcopilot/"
 product_version: "26.9.0"
 ---
-## GetOcrCopilot(IOcrCopilotOptions<T0>) {#getocrcopilot}
+## IOcrClient<TOptions>.GetOcrCopilot method
 
 Gets an instance of [`IOcrCopilot`](../../../aspose.pdf.ai/iocrcopilot/) with the specified options.
 
 ```csharp
-public IOcrCopilot GetOcrCopilot(IOcrCopilotOptions<T0> options)
+public IOcrCopilot GetOcrCopilot(IOcrCopilotOptions<TOptions> options)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | IOcrCopilotOptions<T0> | The options for the OCR copilot. |
+| options | IOcrCopilotOptions`1 | The options for the OCR copilot. |
 
 ### Return Value
-
-[IOcrCopilot](../../../aspose.pdf.ai/iocrcopilot/)
 
 An instance of [`IOcrCopilot`](../../../aspose.pdf.ai/iocrcopilot/).
 
 ### See Also
 
-* class [IOcrCopilot](../../../aspose.pdf.ai/iocrcopilot/)
+* interface [IOcrCopilot](../../../aspose.pdf.ai/iocrcopilot/)
 * interface [IOcrClient<TOptions>](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

@@ -23,6 +23,7 @@ public void Delete(Field field)
 
 ### See Also
 
+* class [Field](../../../aspose.pdf.forms/field/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
@@ -39,7 +40,7 @@ public void Delete(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | Name of the filed which must be deleted. |
+| fieldName | String | Name of the filed which must be deleted. |
 
 ### See Also
 

@@ -22,9 +22,8 @@ public sealed class FitRExplicitDestination : ExplicitDestination
 
 | Name | Description |
 | --- | --- |
-| [FitRExplicitDestination](./fitrexplicitdestination/#constructor)(*[Page](../../aspose.pdf/page/), double, double, double, double*) | Creates local explicit destination. |
-| [FitRExplicitDestination](./fitrexplicitdestination/#constructor_1)(*int, double, double, double, double*) | Creates remote explicit destination. |
-| [FitRExplicitDestination](./fitrexplicitdestination/#constructor_2)(*[Document](../../aspose.pdf/document/), int, double, double, double, double*) | Creates remote explicit destination. |
+| [FitRExplicitDestination](./fitrexplicitdestination/#constructor)(int, double, double, double, double) | Creates remote explicit destination. |
+| [FitRExplicitDestination](./fitrexplicitdestination/#constructor_1)(Page, double, double, double, double) | Creates local explicit destination. |
 
 ## Properties
 
@@ -32,8 +31,8 @@ public sealed class FitRExplicitDestination : ExplicitDestination
 | --- | --- |
 | [Bottom](./bottom/) { get; } | Gets bottom vertical coordinate of visible rectangle. |
 | [Left](./left/) { get; } | Gets left horizontal coordinate of visible rectangle. |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Gets the destination page object. *(Inherited from ExplicitDestination)* |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Gets the destination page number. *(Inherited from ExplicitDestination)* |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Gets the destination page object |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Gets the destination page number |
 | [Right](./right/) { get; } | Gets right horizontal coordinate of visible rectangle. |
 | [Top](./top/) { get; } | Gets top vertical coordinate of visible rectangle. |
 
@@ -41,9 +40,8 @@ public sealed class FitRExplicitDestination : ExplicitDestination
 
 | Name | Description |
 | --- | --- |
-| [CreateDestination](../../aspose.pdf.annotations/explicitdestination/createdestination/)(*Page, ExplicitDestinationType, double[]*) | Creates instances of ExplicitDestination descendant classes. *(Inherited from ExplicitDestination)* |
-| [CreateDestination](../../aspose.pdf.annotations/explicitdestination/createdestination/)(*Document, int, ExplicitDestinationType, double[]*) | Creates instances of ExplicitDestination descendant classes. *(Inherited from ExplicitDestination)* |
-| [ToString](./tostring/) | Converts the object state into string value. Example: "1 FitR 100 200 300 400". |
+| static [CreateDestination](../../aspose.pdf.annotations/explicitdestination/createdestination/)(Page, ExplicitDestinationType, params double[]) | Creates instances of ExplicitDestination descendant classes. |
+| override [ToString](./tostring/)() | Converts the object state into string value. Example: "1 FitR 100 200 300 400". |
 
 ### See Also
 

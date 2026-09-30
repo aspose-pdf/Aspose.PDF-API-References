@@ -20,7 +20,7 @@ public TabOrder TabOrder { get; set; }
 
 ### See Also
 
-* class [TabOrder](../../../aspose.pdf/taborder/)
+* enum [TabOrder](../../../aspose.pdf/taborder/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

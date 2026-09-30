@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/formflattenselectedfieldsoptions/formflattenselectedfieldsoptions/"
 product_version: "26.9.0"
 ---
-## FormFlattenSelectedFieldsOptions([SelectField](../../../aspose.pdf.lowcode/selectfield/)) {#constructor}
+## FormFlattenSelectedFieldsOptions constructor
 
 Initializes new instance of the [`FormFlattenSelectedFieldsOptions`](../../../aspose.pdf.lowcode/formflattenselectedfieldsoptions/) object.
 
@@ -23,6 +23,7 @@ public FormFlattenSelectedFieldsOptions(SelectField selectField)
 
 ### See Also
 
+* delegate [SelectField](../../../aspose.pdf.lowcode/selectfield/)
 * class [FormFlattenSelectedFieldsOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

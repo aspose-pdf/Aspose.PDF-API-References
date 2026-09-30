@@ -22,13 +22,13 @@ public sealed class FormEditor : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [FormEditor](./formeditor/#constructor) | The default constructor. |
+| [FormEditor](./formeditor/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(*IPluginOptions*) | Starts the FormEditor processing with the specified parameters. |
+| [Process](./process/)(IPluginOptions) | Starts the FormEditor processing with the specified parameters. |
 
 ### See Also
 

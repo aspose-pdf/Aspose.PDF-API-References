@@ -19,7 +19,7 @@ public Subset Subset { get; set; }
 
 ### See Also
 
-* class [Subset](../../../aspose.pdf/subset/)
+* enum [Subset](../../../aspose.pdf/subset/)
 * class [PaginationArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

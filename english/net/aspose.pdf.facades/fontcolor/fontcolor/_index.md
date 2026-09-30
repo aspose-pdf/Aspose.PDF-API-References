@@ -35,9 +35,9 @@ public FontColor(int r, int g, int b)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| r | int | Red component. |
-| g | int | Green component. |
-| b | int | Blue component. |
+| r | Int32 | Red component. |
+| g | Int32 | Green component. |
+| b | Int32 | Blue component. |
 
 ### See Also
 

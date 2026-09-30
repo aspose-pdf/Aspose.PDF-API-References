@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/cospdfdictionary/"
 product_version: "26.9.0"
 ---
-## CosPdfDictionary([Resources](../../../aspose.pdf/resources/)) {#constructor}
+## CosPdfDictionary constructor
 
 Creates a dictionary from resources.
 
@@ -29,6 +29,7 @@ public CosPdfDictionary(Resources resources)
 
 ### See Also
 
+* class [Resources](../../../aspose.pdf/resources/)
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)

@@ -5,11 +5,11 @@ articleTitle: "DelListItem"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormEditor method. Delete item from the list field."
 type: docs
-weight: 340
+weight: 290
 url: "/net/aspose.pdf.facades/formeditor/dellistitem/"
 product_version: "26.9.0"
 ---
-## DelListItem(string, string) {#dellistitem}
+## FormEditor.DelListItem method
 
 Delete item from the list field.
 
@@ -19,8 +19,8 @@ public void DelListItem(string fieldName, string itemName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | Name of the field. |
-| itemName | string | Name of the item which must be deleted. |
+| fieldName | String | Name of the field. |
+| itemName | String | Name of the item which must be deleted. |
 
 ### See Also
 

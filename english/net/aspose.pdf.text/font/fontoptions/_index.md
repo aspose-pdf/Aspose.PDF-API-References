@@ -19,7 +19,7 @@ public IFontOptions FontOptions { get; }
 
 ### See Also
 
-* class [IFontOptions](../../../aspose.pdf.text/ifontoptions/)
+* interface [IFontOptions](../../../aspose.pdf.text/ifontoptions/)
 * class [Font](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

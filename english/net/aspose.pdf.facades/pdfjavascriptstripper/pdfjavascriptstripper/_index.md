@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.facades/pdfjavascriptstripper/pdfjavascriptstripper/"
 product_version: "26.9.0"
 ---
-## PdfJavaScriptStripper() {#constructor}
+## PdfJavaScriptStripper constructor
 
 The default constructor.
 

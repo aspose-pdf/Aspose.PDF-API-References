@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/paragraphs/add/"
 product_version: "26.9.0"
 ---
-## Add([BaseParagraph](../../../aspose.pdf/baseparagraph/)) {#add}
+## Paragraphs.Add method
 
 Add paragraph to collection.
 
@@ -23,6 +23,7 @@ public void Add(BaseParagraph paragraph)
 
 ### See Also
 
+* class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

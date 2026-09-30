@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.text/systemfontsource/systemfontsource/"
 product_version: "26.9.0"
 ---
-## SystemFontSource() {#constructor}
+## SystemFontSource constructor
 
 The default constructor.
 

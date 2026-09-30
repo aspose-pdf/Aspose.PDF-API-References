@@ -21,7 +21,7 @@ public CollectionFieldSubtype Subtype { get; }
 
 ### See Also
 
-* class [CollectionFieldSubtype](../../../aspose.pdf/collectionfieldsubtype/)
+* enum [CollectionFieldSubtype](../../../aspose.pdf/collectionfieldsubtype/)
 * class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

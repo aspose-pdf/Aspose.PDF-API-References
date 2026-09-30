@@ -14,8 +14,12 @@ product_version: "26.9.0"
 When overridden in a derived class, gets a value indicating whether the current stream supports reading.
 
 ```csharp
-public bool CanRead { get; }
+public override bool CanRead { get; }
 ```
+
+### Return Value
+
+true if the stream supports reading; otherwise, false.
 
 ### See Also
 

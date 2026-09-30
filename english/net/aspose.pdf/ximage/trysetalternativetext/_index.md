@@ -9,7 +9,7 @@ weight: 140
 url: "/net/aspose.pdf/ximage/trysetalternativetext/"
 product_version: "26.9.0"
 ---
-## TrySetAlternativeText(string, [Page](../../../aspose.pdf/page/)) {#trysetalternativetext}
+## XImage.TrySetAlternativeText method
 
 Sets alternative text for an XImage on the page.
 
@@ -24,17 +24,16 @@ public bool TrySetAlternativeText(string alternativeText, Page page)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| alternativeText | string | The alternative text to be specified. |
+| alternativeText | String | The alternative text to be specified. |
 | page | Page | Page where XImage is located. |
 
 ### Return Value
-
-bool
 
 True if alternativeText for XImage is set. False if alternativeText for XImage not set.
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

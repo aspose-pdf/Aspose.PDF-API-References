@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.comparison/imagesdifference/differencetoimage/"
 product_version: "26.9.0"
 ---
-## DifferenceToImage([Color](../../../aspose.pdf/color/), [Color](../../../aspose.pdf/color/)) {#differencetoimage}
+## ImagesDifference.DifferenceToImage method
 
 Converts the difference array to a bitmap image using the specified colors.
 
@@ -24,12 +24,11 @@ public Bitmap DifferenceToImage(Color color, Color backgroundColor)
 
 ### Return Value
 
-Bitmap
-
 A bitmap image representing the difference array.
 
 ### See Also
 
+* class [Color](../../../aspose.pdf/color/)
 * class [ImagesDifference](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

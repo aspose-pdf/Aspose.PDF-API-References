@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.optimization/optimizationoptions/optimizationoptions/"
 product_version: "26.9.0"
 ---
-## OptimizationOptions() {#constructor}
+## OptimizationOptions constructor
 
 The default constructor.
 

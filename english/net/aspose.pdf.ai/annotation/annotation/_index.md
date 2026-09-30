@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/annotation/annotation/"
 product_version: "26.9.0"
 ---
-## Annotation() {#constructor}
+## Annotation constructor
 
 The default constructor.
 

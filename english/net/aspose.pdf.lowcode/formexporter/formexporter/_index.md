@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/formexporter/formexporter/"
 product_version: "26.9.0"
 ---
-## FormExporter() {#constructor}
+## FormExporter constructor
 
 The default constructor.
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/vectorstorefileresponse/vectorstorefileresponse/"
 product_version: "26.9.0"
 ---
-## VectorStoreFileResponse() {#constructor}
+## VectorStoreFileResponse constructor
 
 The default constructor.
 

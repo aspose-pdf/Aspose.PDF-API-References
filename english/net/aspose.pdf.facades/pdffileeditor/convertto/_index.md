@@ -5,7 +5,7 @@ articleTitle: "ConvertTo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileEditor property. Sets PDF file format. Result file will be saved in specified file format. If this property is not specified then file will be save in..."
 type: docs
-weight: 1140
+weight: 1130
 url: "/net/aspose.pdf.facades/pdffileeditor/convertto/"
 product_version: "26.9.0"
 ---
@@ -20,7 +20,7 @@ public PdfFormat ConvertTo { set; }
 
 ### See Also
 
-* class [PdfFormat](../../../aspose.pdf/pdfformat/)
+* enum [PdfFormat](../../../aspose.pdf/pdfformat/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

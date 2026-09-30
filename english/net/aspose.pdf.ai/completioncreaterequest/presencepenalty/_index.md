@@ -15,7 +15,7 @@ Gets or sets number between -2.0 and 2.0. Positive values penalize new tokens ba
  the model's likelihood to talk about new topics.
 
 ```csharp
-public Nullable<double> PresencePenalty { get; set; }
+public double? PresencePenalty { get; set; }
 ```
 
 ### See Also

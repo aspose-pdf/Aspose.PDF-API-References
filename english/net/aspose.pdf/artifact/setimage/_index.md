@@ -39,7 +39,7 @@ public void SetImage(string imageName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageName | string | Name of image file. |
+| imageName | String | Name of image file. |
 
 ### See Also
 

@@ -5,7 +5,7 @@ articleTitle: "Fixup"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Fixup enum. This enum represents an type of Fixup."
 type: docs
-weight: 920
+weight: 910
 url: "/net/aspose.pdf/fixup/"
 product_version: "26.9.0"
 ---

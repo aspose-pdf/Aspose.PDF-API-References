@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/withmetadata/"
 product_version: "26.9.0"
 ---
-## WithMetadata(Dictionary<string, string>) {#withmetadata}
+## ThreadMessageCreateRequest.WithMetadata method
 
 Sets the metadata for the thread message request.
 
@@ -19,18 +19,15 @@ public ThreadMessageCreateRequest WithMetadata(Dictionary<string, string> metada
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| metadata | Dictionary<string, string> | The dictionary of metadata to set. |
+| metadata | Dictionary`2 | The dictionary of metadata to set. |
 
 ### Return Value
-
-[ThreadMessageCreateRequest](../../../aspose.pdf.ai/threadmessagecreaterequest/)
 
 The current instance of [`ThreadMessageCreateRequest`](../../../aspose.pdf.ai/threadmessagecreaterequest/).
 
 ### See Also
 
 * class [ThreadMessageCreateRequest](../../../aspose.pdf.ai/threadmessagecreaterequest/)
-* class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

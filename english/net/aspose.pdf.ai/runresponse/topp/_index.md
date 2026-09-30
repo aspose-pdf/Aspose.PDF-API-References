@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the nucleus sampling value used for this run. If not set, defaults to 1.
 
 ```csharp
-public Nullable<double> TopP { get; set; }
+public double? TopP { get; set; }
 ```
 
 ### See Also

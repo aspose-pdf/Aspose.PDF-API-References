@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Saves the PDF document to the specified file.
 
 ```csharp
-public void Save(string destFile)
+public virtual void Save(string destFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| destFile | string | The destination file. |
+| destFile | String | The destination file. |
 
 ### See Also
 
@@ -34,7 +34,7 @@ public void Save(string destFile)
 Saves the PDF document to the specified stream.
 
 ```csharp
-public void Save(Stream destStream)
+public virtual void Save(Stream destStream)
 ```
 
 | Parameter | Type | Description |

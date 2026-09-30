@@ -5,7 +5,7 @@ articleTitle: "IIndexBitmapConverter"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.IIndexBitmapConverter interface. This interface declared for customization algorithms of quantization. Users can implement their own realization o..."
 type: docs
-weight: 1400
+weight: 1390
 url: "/net/aspose.pdf/iindexbitmapconverter/"
 product_version: "26.9.0"
 ---
@@ -22,9 +22,9 @@ public interface IIndexBitmapConverter
 
 | Name | Description |
 | --- | --- |
-| [Get1BppImage](./get1bppimage/)(*Bitmap*) | Returns 1Bpp bitmap representation. |
-| [Get4BppImage](./get4bppimage/)(*Bitmap*) | Returns 4Bpp bitmap representation. |
-| [Get8BppImage](./get8bppimage/)(*Bitmap*) | Returns 8Bpp bitmap representation. |
+| [Get1BppImage](./get1bppimage/)(Bitmap) | Returns 1Bpp bitmap representation |
+| [Get4BppImage](./get4bppimage/)(Bitmap) | Returns 4Bpp bitmap representation |
+| [Get8BppImage](./get8bppimage/)(Bitmap) | Returns 8Bpp bitmap representation |
 
 ### See Also
 

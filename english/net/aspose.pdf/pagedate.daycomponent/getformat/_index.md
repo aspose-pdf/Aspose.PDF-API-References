@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/pagedate.daycomponent/getformat/"
 product_version: "26.9.0"
 ---
-## GetFormat() {#getformat}
+## PageDate.DayComponent.GetFormat method
 
 Gets the format string for the day component.
 
@@ -18,8 +18,6 @@ public string GetFormat()
 ```
 
 ### Return Value
-
-string
 
 A string representing the day format.
 

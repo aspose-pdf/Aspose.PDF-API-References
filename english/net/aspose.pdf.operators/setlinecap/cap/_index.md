@@ -19,7 +19,7 @@ public LineCap Cap { get; set; }
 
 ### See Also
 
-* class [LineCap](../../../aspose.pdf.operators/linecap/)
+* enum [LineCap](../../../aspose.pdf.operators/linecap/)
 * class [SetLineCap](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

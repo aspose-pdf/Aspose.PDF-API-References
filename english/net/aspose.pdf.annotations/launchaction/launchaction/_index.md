@@ -19,7 +19,7 @@ public LaunchAction(string file)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| file | string | The file to be launched. |
+| file | String | The file to be launched. |
 
 ### See Also
 
@@ -40,10 +40,11 @@ public LaunchAction(Document document, string file)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | Document | Document where action will be created. |
-| file | string | The file to be launched. |
+| file | String | The file to be launched. |
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [LaunchAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

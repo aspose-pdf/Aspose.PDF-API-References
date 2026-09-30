@@ -19,7 +19,7 @@ public IconCaptionPosition ICPosition { get; set; }
 
 ### See Also
 
-* class [IconCaptionPosition](../../../aspose.pdf.forms/iconcaptionposition/)
+* enum [IconCaptionPosition](../../../aspose.pdf.forms/iconcaptionposition/)
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

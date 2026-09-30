@@ -9,14 +9,14 @@ weight: 80
 url: "/net/aspose.pdf.text/textstate/applychangesfrom/"
 product_version: "26.9.0"
 ---
-## ApplyChangesFrom([TextState](../../../aspose.pdf.text/textstate/)) {#applychangesfrom}
+## TextState.ApplyChangesFrom method
 
 Applies settings from another textState.
 
 Only those properties will be copied that were changed explicitly.
 
 ```csharp
-public void ApplyChangesFrom(TextState textState)
+public virtual void ApplyChangesFrom(TextState textState)
 ```
 
 | Parameter | Type | Description |
@@ -25,7 +25,7 @@ public void ApplyChangesFrom(TextState textState)
 
 ### See Also
 
-* class [TextState](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 

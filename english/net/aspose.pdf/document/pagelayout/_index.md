@@ -19,7 +19,7 @@ public PageLayout PageLayout { get; set; }
 
 ### See Also
 
-* class [PageLayout](../../../aspose.pdf/pagelayout/)
+* enum [PageLayout](../../../aspose.pdf/pagelayout/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

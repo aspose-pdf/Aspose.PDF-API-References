@@ -5,7 +5,7 @@ articleTitle: "ParagraphPositioningMode"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.ParagraphPositioningMode enum. Specifies variant for determining the location of the element on the page."
 type: docs
-weight: 2340
+weight: 2300
 url: "/net/aspose.pdf/paragraphpositioningmode/"
 product_version: "26.9.0"
 ---

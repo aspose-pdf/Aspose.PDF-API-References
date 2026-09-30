@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets character spacing of the text.
 
 ```csharp
-public float CharacterSpacing { get; set; }
+public virtual float CharacterSpacing { get; set; }
 ```
 
 ### See Also

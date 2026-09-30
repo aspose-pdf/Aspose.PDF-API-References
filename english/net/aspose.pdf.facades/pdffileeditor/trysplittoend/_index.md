@@ -22,13 +22,11 @@ public bool TrySplitToEnd(string inputFile, int location, string outputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Source Pdf file. |
-| location | int | The splitting position. |
-| outputFile | string | Output Pdf file path. |
+| inputFile | String | Source Pdf file. |
+| location | Int32 | The splitting position. |
+| outputFile | String | Output Pdf file path. |
 
 ### Return Value
-
-bool
 
 True for success, or false.
 
@@ -55,12 +53,10 @@ public bool TrySplitToEnd(Stream inputStream, int location, Stream outputStream)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Source Pdf file Stream. |
-| location | int | The splitting position. |
+| location | Int32 | The splitting position. |
 | outputStream | Stream | Output Pdf file Stream. |
 
 ### Return Value
-
-bool
 
 True for success, or false.
 

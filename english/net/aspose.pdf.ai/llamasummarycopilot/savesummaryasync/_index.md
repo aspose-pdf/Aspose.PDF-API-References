@@ -9,18 +9,18 @@ weight: 20
 url: "/net/aspose.pdf.ai/llamasummarycopilot/savesummaryasync/"
 product_version: "26.9.0"
 ---
-## SaveSummaryAsync(string, Nullable<CancellationToken>) {#savesummaryasync}
+## SaveSummaryAsync(string, CancellationToken?) {#savesummaryasync}
 
 
 
 ```csharp
-public Task SaveSummaryAsync(string outputFileName, Nullable<CancellationToken> cancellationToken)
+public Task SaveSummaryAsync(string outputFileName, CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFileName | string |  |
-| cancellationToken | Nullable<CancellationToken> |  |
+| outputFileName | String |  |
+| cancellationToken | Nullable`1 |  |
 
 ### Return Value
 
@@ -34,19 +34,20 @@ public Task SaveSummaryAsync(string outputFileName, Nullable<CancellationToken> 
 
 ---
 
-## SaveSummaryAsync(string, [SaveFormat](../../../aspose.pdf.lowcode/saveformat/), Nullable<CancellationToken>) {#savesummaryasync_1}
+## SaveSummaryAsync(string, [SaveFormat](../../../aspose.pdf.lowcode/saveformat/), CancellationToken?) {#savesummaryasync_1}
 
 
 
 ```csharp
-public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat, Nullable<CancellationToken> cancellationToken)
+public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFileName | string |  |
+| outputFileName | String |  |
 | saveFormat | SaveFormat |  |
-| cancellationToken | Nullable<CancellationToken> |  |
+| cancellationToken | Nullable`1 |  |
 
 ### Return Value
 
@@ -54,6 +55,7 @@ public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat, Nulla
 
 ### See Also
 
+* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
 * class [LlamaSummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

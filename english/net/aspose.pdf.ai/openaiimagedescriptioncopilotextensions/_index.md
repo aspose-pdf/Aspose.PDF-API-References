@@ -22,7 +22,7 @@ public static class OpenAIImageDescriptionCopilotExtensions
 
 | Name | Description |
 | --- | --- |
-| [AddPdfImageDescriptionsAsync](./addpdfimagedescriptionsasync/)(*IImageDescriptionCopilot, string, Nullable<CancellationToken>*) | Asynchronously adds image descriptions to a PDF file and saves new documents to a specified folders. |
+| static [AddPdfImageDescriptionsAsync](./addpdfimagedescriptionsasync/)(this IImageDescriptionCopilot, string, CancellationToken?) | Asynchronously adds image descriptions to a PDF file and saves new documents to a specified folders. |
 
 ### See Also
 

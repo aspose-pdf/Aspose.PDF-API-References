@@ -17,6 +17,10 @@ Indicates whether the result is an object.
 public bool IsObject { get; }
 ```
 
+### Return Value
+
+`true` if the result is an object; otherwise `false`.
+
 ### See Also
 
 * class [ObjectResult](../)

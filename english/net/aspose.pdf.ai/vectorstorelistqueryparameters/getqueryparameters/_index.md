@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.ai/vectorstorelistqueryparameters/getqueryparameters/"
 product_version: "26.9.0"
 ---
-## GetQueryParameters() {#getqueryparameters}
+## VectorStoreListQueryParameters.GetQueryParameters method
 
 Gets the query parameters for listing vector stores.
 
@@ -18,8 +18,6 @@ public string GetQueryParameters()
 ```
 
 ### Return Value
-
-string
 
 The query parameters string.
 

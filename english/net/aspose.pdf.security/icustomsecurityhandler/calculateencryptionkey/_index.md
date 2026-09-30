@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.security/icustomsecurityhandler/calculateencryptionkey/"
 product_version: "26.9.0"
 ---
-## CalculateEncryptionKey(string) {#calculateencryptionkey}
+## ICustomSecurityHandler.CalculateEncryptionKey method
 
 Calculate the EncryptionKey. Generally the key is calculated based on the UserKey.
  You can use values from EncryptionParams, which contains the current parameters at the time of the call.
@@ -21,11 +21,9 @@ public byte[] CalculateEncryptionKey(string password)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| password | string | Password entered by the user. |
+| password | String | Password entered by the user. |
 
 ### Return Value
-
-byte[]
 
 The array of encryption key.
 

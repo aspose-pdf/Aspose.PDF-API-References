@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/xmppdfaextensionobject/getxml/"
 product_version: "26.9.0"
 ---
-## GetXml(XmlDocument) {#getxml}
+## XmpPdfAExtensionObject.GetXml method
 
 Returns the list of xml elements that represent object in xml tree.
 
 ```csharp
-public List<XmlElement> GetXml(XmlDocument xmlDocument)
+public abstract List<XmlElement> GetXml(XmlDocument xmlDocument)
 ```
 
 | Parameter | Type | Description |
@@ -22,8 +22,6 @@ public List<XmlElement> GetXml(XmlDocument xmlDocument)
 | xmlDocument | XmlDocument | The source xml document. |
 
 ### Return Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<XmlElement>
 
 &gt;The list of xml elements.
 

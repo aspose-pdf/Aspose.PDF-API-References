@@ -9,21 +9,19 @@ weight: 10
 url: "/net/aspose.pdf/xmpfield/equals/"
 product_version: "26.9.0"
 ---
-## Equals(object) {#equals}
+## XmpField.Equals method
 
 Indicates whether this instance and a specified object are equal.
 
 ```csharp
-public bool Equals(object obj)
+public override bool Equals(object obj)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | object | Another object to compare to. |
+| obj | Object | Another object to compare to. |
 
 ### Return Value
-
-bool
 
 true if obj and this instance are the same type and represent the same value; otherwise, false.
 

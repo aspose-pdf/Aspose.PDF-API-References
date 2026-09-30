@@ -23,13 +23,13 @@ public class HeaderElementTextConflictException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [HeaderElementTextConflictException](./headerelementtextconflictexception/#constructor)(*string*) | Initializes a new instance of the HeaderElementTextConflictException class. |
+| [HeaderElementTextConflictException](./headerelementtextconflictexception/)(string) | Initializes a new instance of the HeaderElementTextConflictException class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(*CrashReportOptions*) | Forms crash report based on Exception HTML format. *(Inherited from PdfException)* |
+| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
 
 ### See Also
 

@@ -39,6 +39,7 @@ public TextPlaceOperator(TextProperties textProperties)
 
 ### See Also
 
+* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
 * class [TextPlaceOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

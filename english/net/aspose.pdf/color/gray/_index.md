@@ -14,13 +14,16 @@ product_version: "26.9.0"
 Gets a system-defined color that has an ARGB value of \c \#FF808080.
 
 ```csharp
-public Color Gray { get; }
+public static Color Gray { get; }
 ```
+
+### Return Value
+
+A strcture representing a system-defined color.
 
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)
-* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

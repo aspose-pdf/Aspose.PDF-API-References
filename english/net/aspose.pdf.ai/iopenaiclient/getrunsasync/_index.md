@@ -9,23 +9,22 @@ weight: 160
 url: "/net/aspose.pdf.ai/iopenaiclient/getrunsasync/"
 product_version: "26.9.0"
 ---
-## GetRunsAsync(string, [RunListQueryParameters](../../../aspose.pdf.ai/runlistqueryparameters/), Nullable<CancellationToken>) {#getrunsasync}
+## IOpenAIClient.GetRunsAsync method
 
 Retrieves a list of runs for a specified thread asynchronously.
 
 ```csharp
-public Task<RunListResponse> GetRunsAsync(string threadId, RunListQueryParameters queryParameters, Nullable<CancellationToken> cancellationToken)
+public Task<RunListResponse> GetRunsAsync(string threadId, 
+    RunListQueryParameters queryParameters = null, CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threadId | string | The ID of the thread to retrieve runs from. |
+| threadId | String | The ID of the thread to retrieve runs from. |
 | queryParameters | RunListQueryParameters | Optional query parameters to filter the list of runs. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[RunListResponse](../../../aspose.pdf.ai/runlistresponse/)>
 
 A task that represents the asynchronous operation. The task result contains a list of runs.
 
@@ -37,6 +36,7 @@ A task that represents the asynchronous operation. The task result contains a li
 
 ### See Also
 
+* class [RunListQueryParameters](../../../aspose.pdf.ai/runlistqueryparameters/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

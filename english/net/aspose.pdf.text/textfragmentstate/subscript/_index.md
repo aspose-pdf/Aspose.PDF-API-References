@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets subscript of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object.
 
 ```csharp
-public bool Subscript { get; set; }
+public override bool Subscript { get; set; }
 ```
 
 ### See Also

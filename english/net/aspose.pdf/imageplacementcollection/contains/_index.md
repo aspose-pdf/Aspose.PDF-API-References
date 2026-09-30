@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf/imageplacementcollection/contains/"
 product_version: "26.9.0"
 ---
-## Contains([ImagePlacement](../../../aspose.pdf/imageplacement/)) {#contains}
+## ImagePlacementCollection.Contains method
 
 Determines whether the collection contains a specific value.
 
@@ -23,12 +23,11 @@ public bool Contains(ImagePlacement item)
 
 ### Return Value
 
-bool
-
 true if item is found in the collection; otherwise, false.
 
 ### See Also
 
+* class [ImagePlacement](../../../aspose.pdf/imageplacement/)
 * class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

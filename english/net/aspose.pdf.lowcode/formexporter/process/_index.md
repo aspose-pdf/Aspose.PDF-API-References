@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.lowcode/formexporter/process/"
 product_version: "26.9.0"
 ---
-## Process([IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)) {#process}
+## FormExporter.Process method
 
 Starts the FormExporter processing with the specified options.
 
@@ -23,8 +23,6 @@ public ResultContainer Process(IPluginOptions options)
 
 ### Return Value
 
-[ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
-
 A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) containing the result of the operation.
 
 ### Exceptions
@@ -37,6 +35,7 @@ A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) containing t
 ### See Also
 
 * class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
+* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
 * class [FormExporter](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

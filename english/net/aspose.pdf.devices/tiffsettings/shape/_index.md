@@ -25,7 +25,7 @@ The type of the shape.
 
 ### See Also
 
-* class [ShapeType](../../../aspose.pdf.devices/shapetype/)
+* enum [ShapeType](../../../aspose.pdf.devices/shapetype/)
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

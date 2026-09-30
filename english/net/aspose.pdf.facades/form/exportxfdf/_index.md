@@ -5,11 +5,11 @@ articleTitle: "ExportXfdf"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Exports the content of the fields of the pdf into the xml stream. The button field's value will not be exported."
 type: docs
-weight: 350
+weight: 280
 url: "/net/aspose.pdf.facades/form/exportxfdf/"
 product_version: "26.9.0"
 ---
-## ExportXfdf(Stream) {#exportxfdf}
+## Form.ExportXfdf method
 
 Exports the content of the fields of the pdf into the xml stream.
  The button field's value will not be exported.

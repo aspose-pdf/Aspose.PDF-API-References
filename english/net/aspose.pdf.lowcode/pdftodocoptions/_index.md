@@ -22,25 +22,25 @@ public sealed class PdfToDocOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfToDocOptions](./pdftodocoptions/#constructor) | Initializes new instance of the [`PdfToDocOptions`](../../aspose.pdf.lowcode/pdftodocoptions/) object with default options. |
-| [PdfToDocOptions](./pdftodocoptions/#constructor_1)(*[SaveFormat](../../aspose.pdf.lowcode/saveformat/), [ConversionMode](../../aspose.pdf.lowcode/conversionmode/)*) | Initializes a new instance of the [`PdfToDocOptions`](../../aspose.pdf.lowcode/pdftodocoptions/) object for the specified format and mode. |
+| [PdfToDocOptions](./pdftodocoptions/#constructor)() | Initializes new instance of the [`PdfToDocOptions`](../../aspose.pdf.lowcode/pdftodocoptions/) object with default options. |
+| [PdfToDocOptions](./pdftodocoptions/#constructor_1)(SaveFormat, ConversionMode) | Initializes a new instance of the [`PdfToDocOptions`](../../aspose.pdf.lowcode/pdftodocoptions/) object for the specified format and mode. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [ConversionMode](./conversionmode/) { get; set; } | Allows to control how a PDF document is converted into a word processing document. |
-| [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. *(Inherited from PdfConverterOptions)* |
-| [OperationName](./operationname/) { get; } | Gets name of the operation. |
-| [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. *(Inherited from PdfConverterOptions)* |
+| [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
+| override [OperationName](./operationname/) { get; } | Gets name of the operation. |
+| [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 | [SaveFormat](./saveformat/) { get; set; } | Save format of the output document. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.lowcode/pdfconverteroptions/addinput/)(*IDataSource*) | Adds new data source to the PdfConverter plugin data collection. *(Inherited from PdfConverterOptions)* |
-| [AddOutput](../../aspose.pdf.lowcode/pdfconverteroptions/addoutput/)(*IDataSource*) | Adds new data source to the PdfToXLSXConverterOptions plugin data collection. *(Inherited from PdfConverterOptions)* |
+| [AddInput](../../aspose.pdf.lowcode/pdfconverteroptions/addinput/)(IDataSource) | Adds new data source to the PdfConverter plugin data collection. |
+| [AddOutput](../../aspose.pdf.lowcode/pdfconverteroptions/addoutput/)(IDataSource) | Adds new data source to the PdfToXLSXConverterOptions plugin data collection. |
 
 ### See Also
 

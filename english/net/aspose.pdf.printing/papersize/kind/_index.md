@@ -19,7 +19,7 @@ public PaperKind Kind { get; }
 
 ### See Also
 
-* class [PaperKind](../../../aspose.pdf.printing/paperkind/)
+* enum [PaperKind](../../../aspose.pdf.printing/paperkind/)
 * class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

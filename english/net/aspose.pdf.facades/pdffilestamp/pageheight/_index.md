@@ -5,7 +5,7 @@ articleTitle: "PageHeight"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileStamp property. Gets height of first page in souorce file."
 type: docs
-weight: 410
+weight: 310
 url: "/net/aspose.pdf.facades/pdffilestamp/pageheight/"
 product_version: "26.9.0"
 ---

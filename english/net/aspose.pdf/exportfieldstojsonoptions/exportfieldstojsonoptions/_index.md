@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/exportfieldstojsonoptions/exportfieldstojsonoptions/"
 product_version: "26.9.0"
 ---
-## ExportFieldsToJsonOptions() {#constructor}
+## ExportFieldsToJsonOptions constructor
 
 The default constructor.
 

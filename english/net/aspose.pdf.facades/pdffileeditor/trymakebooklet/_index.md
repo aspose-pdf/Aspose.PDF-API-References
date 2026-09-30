@@ -22,12 +22,10 @@ public bool TryMakeBooklet(string inputFile, string outputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Input pdf file path and name. |
-| outputFile | string | Output pdf file path and name. |
+| inputFile | String | Input pdf file path and name. |
+| outputFile | String | Output pdf file path and name. |
 
 ### Return Value
-
-bool
 
 true if operation completed successfully; otherwise, false.
 
@@ -57,8 +55,6 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream)
 
 ### Return Value
 
-bool
-
 true if operation completed successfully; otherwise, false.
 
 ### See Also
@@ -82,18 +78,17 @@ public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSiz
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Input pdf file path and name. |
-| outputFile | string | Output pdf file path and name. |
+| inputFile | String | Input pdf file path and name. |
+| outputFile | String | Output pdf file path and name. |
 | pageSize | PageSize | The page size of the output pdf file. |
 
 ### Return Value
-
-bool
 
 True if operation is succeeded.
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -119,12 +114,11 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pag
 
 ### Return Value
 
-bool
-
 true if operation completed successfully; otherwise, false.
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -144,14 +138,12 @@ public bool TryMakeBooklet(string inputFile, string outputFile, int[] leftPages,
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | The input file. |
-| outputFile | string | Output pdf file path and name. |
-| leftPages | int[] | The left pages of the booklet. |
-| rightPages | int[] | The right pages of the booklet. |
+| inputFile | String | The input file. |
+| outputFile | String | Output pdf file path and name. |
+| leftPages | Int32[] | The left pages of the booklet. |
+| rightPages | Int32[] | The right pages of the booklet. |
 
 ### Return Value
-
-bool
 
 true if operation completed successfully; otherwise, false.
 
@@ -171,19 +163,18 @@ The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBook
  method does not throw an exception if the operation fails.
 
 ```csharp
-public bool TryMakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages, int[] rightPages)
+public bool TryMakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages, 
+    int[] rightPages)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | The input stream. |
 | outputStream | Stream | output pdf stream. |
-| leftPages | int[] | The left pages. |
-| rightPages | int[] | The right pages. |
+| leftPages | Int32[] | The left pages. |
+| rightPages | Int32[] | The right pages. |
 
 ### Return Value
-
-bool
 
 true if operation completed successfully; otherwise, false.
 
@@ -203,25 +194,25 @@ The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBook
  method does not throw an exception if the operation fails.
 
 ```csharp
-public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, int[] rightPages)
+public bool TryMakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, 
+    int[] rightPages)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | The input file. |
-| outputFile | string | Output pdf file path and name. |
+| inputFile | String | The input file. |
+| outputFile | String | Output pdf file path and name. |
 | pageSize | PageSize | The page size of the output pdf file. |
-| leftPages | int[] | The left pages. |
-| rightPages | int[] | The right pages. |
+| leftPages | Int32[] | The left pages. |
+| rightPages | Int32[] | The right pages. |
 
 ### Return Value
-
-bool
 
 true if operation completed successfully; otherwise, false.
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -236,7 +227,8 @@ The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBook
  method does not throw an exception if the operation fails.
 
 ```csharp
-public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize, int[] leftPages, int[] rightPages)
+public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize, 
+    int[] leftPages, int[] rightPages)
 ```
 
 | Parameter | Type | Description |
@@ -244,17 +236,16 @@ public bool TryMakeBooklet(Stream inputStream, Stream outputStream, PageSize pag
 | inputStream | Stream | The input stream. |
 | outputStream | Stream | output pdf stream. |
 | pageSize | PageSize | The page size of the output pdf file. |
-| leftPages | int[] | The left pages. |
-| rightPages | int[] | The right pages. |
+| leftPages | Int32[] | The left pages. |
+| rightPages | Int32[] | The right pages. |
 
 ### Return Value
-
-bool
 
 true if operation completed successfully; otherwise, false.
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -5,7 +5,7 @@ articleTitle: "Border"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Graph property. Gets or sets the border."
 type: docs
-weight: 50
+weight: 40
 url: "/net/aspose.pdf.drawing/graph/border/"
 product_version: "26.9.0"
 ---

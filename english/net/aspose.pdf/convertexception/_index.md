@@ -22,14 +22,14 @@ public sealed class ConvertException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [ConvertException](./convertexception/#constructor)(*string*) | Initializes a new instance of the [`ConvertException`](../../aspose.pdf/convertexception/) class. |
-| [ConvertException](./convertexception/#constructor_1)(*string, Exception*) | Initializes a new instance of the [`ConvertException`](../../aspose.pdf/convertexception/) class. |
+| [ConvertException](./convertexception/#constructor)(string) | Initializes a new instance of the [`ConvertException`](../../aspose.pdf/convertexception/) class. |
+| [ConvertException](./convertexception/#constructor_1)(string, Exception) | Initializes a new instance of the [`ConvertException`](../../aspose.pdf/convertexception/) class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(*CrashReportOptions*) | Forms crash report based on Exception HTML format. *(Inherited from PdfException)* |
+| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
 
 ### See Also
 

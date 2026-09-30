@@ -16,7 +16,7 @@ Get and set the file size limit for loading an entire file into memory.
  The default value is 210 Mb.
 
 ```csharp
-public int FileSizeLimitToMemoryLoading { get; set; }
+public static int FileSizeLimitToMemoryLoading { get; set; }
 ```
 
 ### See Also

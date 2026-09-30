@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.structure/elementcollection/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## ElementCollection.GetEnumerator method
 
 Returns an enumerator that iterates through the collection.
 
@@ -18,8 +18,6 @@ public IEnumerator<Element> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[Element](../../../aspose.pdf.structure/element/)>
 
 Enumerator of elements.
 

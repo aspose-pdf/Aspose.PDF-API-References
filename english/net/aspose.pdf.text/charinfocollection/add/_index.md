@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.text/charinfocollection/add/"
 product_version: "26.9.0"
 ---
-## Add([CharInfo](../../../aspose.pdf.text/charinfo/)) {#add}
+## CharInfoCollection.Add method
 
 Collection is read-only, throws NotImplementedException.
 
@@ -29,6 +29,7 @@ public void Add(CharInfo item)
 
 ### See Also
 
+* class [CharInfo](../../../aspose.pdf.text/charinfo/)
 * class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

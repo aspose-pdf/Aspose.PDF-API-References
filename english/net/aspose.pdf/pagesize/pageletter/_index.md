@@ -14,13 +14,12 @@ product_version: "26.9.0"
 Letter size (279x216 mm).
 
 ```csharp
-public PageSize PageLetter { get; }
+public static PageSize PageLetter { get; }
 ```
 
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

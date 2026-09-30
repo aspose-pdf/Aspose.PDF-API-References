@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/formimporter/formimporter/"
 product_version: "26.9.0"
 ---
-## FormImporter() {#constructor}
+## FormImporter constructor
 
 The default constructor.
 

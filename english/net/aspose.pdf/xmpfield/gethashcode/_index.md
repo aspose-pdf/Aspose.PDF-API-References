@@ -9,17 +9,15 @@ weight: 20
 url: "/net/aspose.pdf/xmpfield/gethashcode/"
 product_version: "26.9.0"
 ---
-## GetHashCode() {#gethashcode}
+## XmpField.GetHashCode method
 
 Returns a hash code for this instance.
 
 ```csharp
-public int GetHashCode()
+public override int GetHashCode()
 ```
 
 ### Return Value
-
-int
 
 A hash code for this instance, suitable for use in hashing algorithms and data structures like a hash table.
 

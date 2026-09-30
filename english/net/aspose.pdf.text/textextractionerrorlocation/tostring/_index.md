@@ -9,17 +9,15 @@ weight: 10
 url: "/net/aspose.pdf.text/textextractionerrorlocation/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## TextExtractionErrorLocation.ToString method
 
 Returns string representation.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String representation.
 

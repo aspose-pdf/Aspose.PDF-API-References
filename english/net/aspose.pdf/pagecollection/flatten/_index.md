@@ -9,7 +9,7 @@ weight: 230
 url: "/net/aspose.pdf/pagecollection/flatten/"
 product_version: "26.9.0"
 ---
-## Flatten() {#flatten}
+## PageCollection.Flatten method
 
 Removes all fields located on the pages and place their values instead.
 

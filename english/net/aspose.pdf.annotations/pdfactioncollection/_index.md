@@ -15,7 +15,7 @@ product_version: "26.9.0"
 Class describes list of actions.
 
 ```csharp
-public class PdfActionCollection : IEnumerable
+public class PdfActionCollection : IEnumerable<PdfAction>
 ```
 
 ## Properties
@@ -29,9 +29,9 @@ public class PdfActionCollection : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*PdfAction*) | Add action to action list. |
-| [Delete](./delete/)(*int*) | Remove action by index. |
-| [GetEnumerator](./getenumerator/) | Gets enumerator. |
+| [Add](./add/)(PdfAction) | Add action to action list. |
+| [Delete](./delete/)(int) | Remove action by index. |
+| [GetEnumerator](./getenumerator/)() | Gets enumerator. |
 
 ### See Also
 

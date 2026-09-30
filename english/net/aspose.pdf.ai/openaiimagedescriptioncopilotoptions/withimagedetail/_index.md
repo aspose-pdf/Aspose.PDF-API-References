@@ -9,7 +9,7 @@ weight: 170
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withimagedetail/"
 product_version: "26.9.0"
 ---
-## WithImageDetail(string) {#withimagedetail}
+## OpenAIImageDescriptionCopilotOptions.WithImageDetail method
 
 Sets the image detail level.
 
@@ -19,18 +19,15 @@ public OpenAIImageDescriptionCopilotOptions WithImageDetail(string imageDetail)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageDetail | string | The detail level to set ("low" or "high"). |
+| imageDetail | String | The detail level to set ("low" or "high"). |
 
 ### Return Value
-
-[OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
 
 The current instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
 
 ### See Also
 
 * class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
-* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

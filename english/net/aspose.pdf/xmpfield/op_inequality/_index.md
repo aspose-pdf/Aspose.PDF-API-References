@@ -9,12 +9,12 @@ weight: 40
 url: "/net/aspose.pdf/xmpfield/op_inequality/"
 product_version: "26.9.0"
 ---
-## op_Inequality([XmpField](../../../aspose.pdf/xmpfield/), [XmpField](../../../aspose.pdf/xmpfield/)) {#op_inequality}
+## XmpField Inequality operator
 
 Implements the operator !=.
 
 ```csharp
-public bool op_Inequality(XmpField field1, XmpField field2)
+public static bool operator !=(XmpField field1, XmpField field2)
 ```
 
 | Parameter | Type | Description |
@@ -24,13 +24,11 @@ public bool op_Inequality(XmpField field1, XmpField field2)
 
 ### Return Value
 
-bool
-
 The result of the operator.
 
 ### See Also
 
-* class [XmpField](../)
+* class [XmpField](../../../aspose.pdf/xmpfield/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

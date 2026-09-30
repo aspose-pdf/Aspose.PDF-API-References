@@ -9,7 +9,7 @@ weight: 130
 url: "/net/aspose.pdf/ximagecollection/copyto/"
 product_version: "26.9.0"
 ---
-## CopyTo(XImage[], int) {#copyto}
+## XImageCollection.CopyTo method
 
 Copies array of images into collection.
 
@@ -20,10 +20,11 @@ public void CopyTo(XImage[] array, int index)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | array | XImage[] | Array to be copied. |
-| index | int | Index where images will be copied into collection. |
+| index | Int32 | Index where images will be copied into collection. |
 
 ### See Also
 
+* class [XImage](../../../aspose.pdf/ximage/)
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

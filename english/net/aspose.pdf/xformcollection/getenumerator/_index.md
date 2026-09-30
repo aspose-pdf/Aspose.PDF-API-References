@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf/xformcollection/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## XFormCollection.GetEnumerator method
 
 Returns collection enumerator.
 
@@ -18,8 +18,6 @@ public IEnumerator<XForm> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[XForm](../../../aspose.pdf/xform/)>
 
 Enumerator for collection
 

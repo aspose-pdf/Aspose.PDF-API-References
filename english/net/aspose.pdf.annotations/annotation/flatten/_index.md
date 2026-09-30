@@ -9,13 +9,13 @@ weight: 30
 url: "/net/aspose.pdf.annotations/annotation/flatten/"
 product_version: "26.9.0"
 ---
-## Flatten() {#flatten}
+## Annotation.Flatten method
 
 Places annotation contents directly on the page,
  annotation object will be removed.
 
 ```csharp
-public void Flatten()
+public virtual void Flatten()
 ```
 
 ### See Also

@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf/xformcollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## XFormCollection.Clear method
 
 Clears all items from the collection.
 

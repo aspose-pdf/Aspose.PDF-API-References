@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.lowcode/html/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## Html.Dispose method
 
 Implementation of IDisposable.
 

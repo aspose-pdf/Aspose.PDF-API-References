@@ -25,7 +25,7 @@ public sealed class FormImporterJsonOptions : IPluginOptions
 
 | Name | Description |
 | --- | --- |
-| [FormImporterJsonOptions](./formimporterjsonoptions/#constructor) | The default constructor. |
+| [FormImporterJsonOptions](./formimporterjsonoptions/)() | The default constructor. |
 
 ## Properties
 
@@ -38,8 +38,8 @@ public sealed class FormImporterJsonOptions : IPluginOptions
 
 | Name | Description |
 | --- | --- |
-| [AddInput](./addinput/)(*IDataSource, IDataSource*) | Adds a new pair of input sources – the PDF document and the JSON file. |
-| [AddOutput](./addoutput/)(*IDataSource*) | Adds a new output target. |
+| [AddInput](./addinput/)(IDataSource, IDataSource) | Adds a new pair of input sources – the PDF document and the JSON file. |
+| [AddOutput](./addoutput/)(IDataSource) | Adds a new output target. |
 
 ### See Also
 

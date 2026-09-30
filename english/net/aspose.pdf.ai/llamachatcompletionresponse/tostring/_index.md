@@ -9,12 +9,12 @@ weight: 20
 url: "/net/aspose.pdf.ai/llamachatcompletionresponse/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## LlamaChatCompletionResponse.ToString method
 
 Returns a string representation of the first choice.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value

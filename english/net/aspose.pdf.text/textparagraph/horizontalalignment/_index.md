@@ -21,7 +21,7 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 
 ### See Also
 
-* class [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
+* enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

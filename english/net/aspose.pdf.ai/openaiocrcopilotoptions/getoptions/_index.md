@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/getoptions/"
 product_version: "26.9.0"
 ---
-## GetOptions() {#getoptions}
+## OpenAIOcrCopilotOptions.GetOptions method
 
 Gets the current [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
@@ -19,14 +19,11 @@ public OpenAIOcrCopilotOptions GetOptions()
 
 ### Return Value
 
-[OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
-
 The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
 ### See Also
 
 * class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
-* class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

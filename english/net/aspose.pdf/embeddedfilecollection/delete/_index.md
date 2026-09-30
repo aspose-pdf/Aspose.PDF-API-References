@@ -19,7 +19,7 @@ public void Delete(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Name of the embedded file which should be deleted. |
+| name | String | Name of the embedded file which should be deleted. |
 
 ### See Also
 

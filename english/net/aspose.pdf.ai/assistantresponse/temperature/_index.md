@@ -16,7 +16,7 @@ Gets or sets what sampling temperature to use, between 0 and 2. Higher values li
  deterministic.
 
 ```csharp
-public Nullable<double> Temperature { get; set; }
+public double? Temperature { get; set; }
 ```
 
 ### See Also

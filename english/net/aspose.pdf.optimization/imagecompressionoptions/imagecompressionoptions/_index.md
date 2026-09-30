@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.optimization/imagecompressionoptions/imagecompressionoptions/"
 product_version: "26.9.0"
 ---
-## ImageCompressionOptions() {#constructor}
+## ImageCompressionOptions constructor
 
 The default constructor.
 

@@ -19,7 +19,7 @@ public ExtendedBoolean NewWindow { get; set; }
 
 ### See Also
 
-* class [ExtendedBoolean](../../../aspose.pdf/extendedboolean/)
+* enum [ExtendedBoolean](../../../aspose.pdf/extendedboolean/)
 * class [FileHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

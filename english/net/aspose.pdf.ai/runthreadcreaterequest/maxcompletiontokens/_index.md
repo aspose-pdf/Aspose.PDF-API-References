@@ -16,7 +16,7 @@ Gets or sets the maximum number of completion tokens that may be used over the c
  If the run exceeds the number of completion tokens specified, the run will end with status incomplete. See incomplete_details for more info.
 
 ```csharp
-public Nullable<int> MaxCompletionTokens { get; set; }
+public int? MaxCompletionTokens { get; set; }
 ```
 
 ### See Also

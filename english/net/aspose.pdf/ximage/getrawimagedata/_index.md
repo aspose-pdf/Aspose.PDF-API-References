@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf/ximage/getrawimagedata/"
 product_version: "26.9.0"
 ---
-## GetRawImageData() {#getrawimagedata}
+## XImage.GetRawImageData method
 
 Retrieves the raw image data from the source image.
 
@@ -18,8 +18,6 @@ public MemoryStream GetRawImageData()
 ```
 
 ### Return Value
-
-MemoryStream
 
 A `MemoryStream` containing the original image data.
 

@@ -22,16 +22,16 @@ public class Tool
 
 | Name | Description |
 | --- | --- |
-| [Tool](./tool/#constructor) | Initializes a new instance of the [`Tool`](../../aspose.pdf.ai/tool/) class. |
-| [Tool](./tool/#constructor_1)(*string*) | Initializes a new instance of the [`Tool`](../../aspose.pdf.ai/tool/) class with the specified tool type. |
-| [Tool](./tool/#constructor_2)(*[Function](../../aspose.pdf.ai/function/)*) | Initializes a new instance of the [`Tool`](../../aspose.pdf.ai/tool/) class with the specified function. |
+| [Tool](./tool/#constructor)() | Initializes a new instance of the [`Tool`](../../aspose.pdf.ai/tool/) class. |
+| [Tool](./tool/#constructor_1)(Function) | Initializes a new instance of the [`Tool`](../../aspose.pdf.ai/tool/) class with the specified function. |
+| [Tool](./tool/#constructor_2)(string) | Initializes a new instance of the [`Tool`](../../aspose.pdf.ai/tool/) class with the specified tool type. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CodeInterpreter](./codeinterpreter/) { get; } | Gets a tool instance representing a code interpreter. |
-| [FileSearch](./filesearch/) { get; } | Gets a tool instance representing a file search tool. |
+| static [CodeInterpreter](./codeinterpreter/) { get; } | Gets a tool instance representing a code interpreter. |
+| static [FileSearch](./filesearch/) { get; } | Gets a tool instance representing a file search tool. |
 | [ToolFunction](./toolfunction/) { get; set; } | Gets or sets the function that the model can call. |
 | [ToolType](./tooltype/) { get; set; } | Gets or sets the type of the tool. Currently, only function is supported. |
 
@@ -39,7 +39,7 @@ public class Tool
 
 | Name | Description |
 | --- | --- |
-| [Function](./function/)(*Function*) | Creates a new tool instance with the specified function. |
+| static [Function](./function/)(Function) | Creates a new tool instance with the specified function. |
 
 ### See Also
 

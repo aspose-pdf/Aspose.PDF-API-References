@@ -9,7 +9,7 @@ weight: 130
 url: "/net/aspose.pdf/rectangle/containsline/"
 product_version: "26.9.0"
 ---
-## ContainsLine(double, double, double, double) {#containsline}
+## Rectangle.ContainsLine method
 
 Determines whether the rectangle contains a line represented by two points.
 
@@ -19,14 +19,12 @@ public bool ContainsLine(double x1, double y1, double x2, double y2)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x1 | double | The X coordinate of the start point of the line. |
-| y1 | double | The Y coordinate of the start point of the line. |
-| x2 | double | The X coordinate of the end point of the line. |
-| y2 | double | The Y coordinate of the end point of the line. |
+| x1 | Double | The X coordinate of the start point of the line. |
+| y1 | Double | The Y coordinate of the start point of the line. |
+| x2 | Double | The X coordinate of the end point of the line. |
+| y2 | Double | The Y coordinate of the end point of the line. |
 
 ### Return Value
-
-bool
 
 `true` if the rectangle contains the line; otherwise, `false`.
 

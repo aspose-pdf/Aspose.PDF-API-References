@@ -23,28 +23,28 @@ public sealed class FontRepository
 
 | Name | Description |
 | --- | --- |
-| [FontRepository](./fontrepository/#constructor) | The default constructor. |
+| [FontRepository](./fontrepository/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Sources](./sources/) { get; } | Gets font sources collection. |
-| [Substitutions](./substitutions/) { get; } | Gets font substitution strategies collection. |
+| static [Sources](./sources/) { get; } | Gets font sources collection. |
+| static [Substitutions](./substitutions/) { get; } | Gets font substitution strategies collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [FindFont](./findfont/)(*string*) | Searches and returns font with specified font name. |
-| [FindFont](./findfont/)(*string, bool*) | Searches and returns font with specified font name ignoring or honoring case sensitivity. |
-| [FindFont](./findfont/)(*string, FontStyles*) | Searches and returns font with specified font name and font style. |
-| [FindFont](./findfont/)(*string, FontStyles, bool*) | Searches and returns font with specified font name and font style. |
-| [LoadFonts](./loadfonts/) | Loads system installed fonts and standard Pdf fonts. This method was designed to speed up font loading process. |
-| [OpenFont](./openfont/)(*string*) | Opens font with specified font file path. |
-| [OpenFont](./openfont/)(*Stream, FontTypes*) | Opens font with specified font stream. |
-| [OpenFont](./openfont/)(*string, string*) | Opens font with specified font file path and metrics file path. |
-| [ReloadFonts](./reloadfonts/) | Reloads all fonts specified by property `Sources`. |
+| static [FindFont](./findfont/)(string) | Searches and returns font with specified font name. |
+| static [FindFont](./findfont/)(string, bool) | Searches and returns font with specified font name ignoring or honoring case sensitivity. |
+| static [FindFont](./findfont/)(string, FontStyles) | Searches and returns font with specified font name and font style. |
+| static [FindFont](./findfont/)(string, FontStyles, bool) | Searches and returns font with specified font name and font style ignoring or honoring case sensitivity. |
+| static [LoadFonts](./loadfonts/)() | Loads system installed fonts and standard Pdf fonts. This method was designed to speed up font loading process. By default fonts are loaded on first request for any font. Use of this method loads system and standard Pdf fonts immediately before any Pdf document was open. |
+| static [OpenFont](./openfont/)(string) | Opens font with specified font file path. |
+| static [OpenFont](./openfont/)(Stream, FontTypes) | Opens font with specified font stream. |
+| static [OpenFont](./openfont/)(string, string) | Opens font with specified font file path and metrics file path. |
+| static [ReloadFonts](./reloadfonts/)() | Reloads all fonts specified by property `Sources` |
 
 ### See Also
 

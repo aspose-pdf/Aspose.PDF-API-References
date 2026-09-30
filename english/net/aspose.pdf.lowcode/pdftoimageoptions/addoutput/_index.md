@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.lowcode/pdftoimageoptions/addoutput/"
 product_version: "26.9.0"
 ---
-## AddOutput([IDataSource](../../../aspose.pdf.lowcode/idatasource/)) {#addoutput}
+## PdfToImageOptions.AddOutput method
 
 Sets new save data source. Can only be a . If you want save images into memory streams, pass null as parameter.
 
@@ -24,6 +24,7 @@ public void AddOutput(IDataSource saveDataSource)
 ### See Also
 
 * [FileDataSource](../filedatasource/)
+* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
 * class [PdfToImageOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

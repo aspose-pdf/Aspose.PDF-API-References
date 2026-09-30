@@ -9,12 +9,12 @@ weight: 20
 url: "/net/aspose.pdf.flow/structurerecognitionvisitor/startdocument/"
 product_version: "26.9.0"
 ---
-## StartDocument() {#startdocument}
+## StructureRecognitionVisitor.StartDocument method
 
 Called when the document traversal starts.
 
 ```csharp
-public void StartDocument()
+public virtual void StartDocument()
 ```
 
 ### See Also

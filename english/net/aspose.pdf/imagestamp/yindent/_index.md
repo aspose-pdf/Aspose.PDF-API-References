@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets and sets vertical stamp coordinate, starting from the bottom.
 
 ```csharp
-public double YIndent { get; set; }
+public override double YIndent { get; set; }
 ```
 
 ### See Also

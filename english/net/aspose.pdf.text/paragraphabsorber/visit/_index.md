@@ -23,6 +23,7 @@ public void Visit(Document doc)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -43,6 +44,7 @@ public void Visit(Page page)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

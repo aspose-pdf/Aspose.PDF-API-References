@@ -9,17 +9,15 @@ weight: 30
 url: "/net/aspose.pdf.operators/bmc/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## BMC.ToString method
 
 Returns text representation of operator.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 Text representation of operator.
 

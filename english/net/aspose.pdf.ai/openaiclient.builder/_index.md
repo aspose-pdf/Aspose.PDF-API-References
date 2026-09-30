@@ -22,17 +22,17 @@ public class Builder
 
 | Name | Description |
 | --- | --- |
-| [OpenAIClient.Builder](./builder/#constructor)(*string*) | Initializes a new instance of the `Builder` class with the API key. |
+| [Builder](./builder/)(string) | Initializes a new instance of the `Builder` class with the API key. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Build](./build/) | Builds and returns an instance of [`OpenAIClient`](../../aspose.pdf.ai/openaiclient/) with the configured options. |
-| [WithApiVersion](./withapiversion/)(*string*) | Sets the API version for the client. |
-| [WithBaseDomain](./withbasedomain/)(*string*) | Sets the base domain for the client. |
-| [WithOrganization](./withorganization/)(*string*) | Sets the organization ID for the client. |
-| [WithProject](./withproject/)(*string*) | Sets the project ID for the client. |
+| [Build](./build/)() | Builds and returns an instance of [`OpenAIClient`](../../aspose.pdf.ai/openaiclient/) with the configured options. |
+| [WithApiVersion](./withapiversion/)(string) | Sets the API version for the client. |
+| [WithBaseDomain](./withbasedomain/)(string) | Sets the base domain for the client. |
+| [WithOrganization](./withorganization/)(string) | Sets the organization ID for the client. |
+| [WithProject](./withproject/)(string) | Sets the project ID for the client. |
 
 ### See Also
 

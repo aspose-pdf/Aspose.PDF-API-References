@@ -22,8 +22,8 @@ public static class PageSettingsExtensions
 
 | Name | Description |
 | --- | --- |
-| [ToAsposePageSettings](./toasposepagesettings/)(*PageSettings*) | Converts Windows-specific System.Drawing.Printing.PageSettings to [`PageSettings`](../../aspose.pdf.printing/pagesettings/). |
-| [ToNativePageSettings](./tonativepagesettings/)(*PageSettings*) | Converts [`PageSettings`](../../aspose.pdf.printing/pagesettings/) to Windows-specific System.Drawing.Printing.PageSettings. |
+| static [ToAsposePageSettings](./toasposepagesettings/)(this PageSettings) | Converts Windows-specific System.Drawing.Printing.PageSettings to [`PageSettings`](../../aspose.pdf.printing/pagesettings/). |
+| static [ToNativePageSettings](./tonativepagesettings/)(this PageSettings) | Converts [`PageSettings`](../../aspose.pdf.printing/pagesettings/) to Windows-specific System.Drawing.Printing.PageSettings. |
 
 ### See Also
 

@@ -5,11 +5,11 @@ articleTitle: "Close"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "AutoFiller method. Closes the object and output streams."
 type: docs
-weight: 90
+weight: 80
 url: "/net/aspose.pdf.facades/autofiller/close/"
 product_version: "26.9.0"
 ---
-## Close() {#close}
+## AutoFiller.Close method
 
 Closes the object and output streams.
 

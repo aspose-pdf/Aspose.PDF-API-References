@@ -19,7 +19,7 @@ public LineJoin Join { get; set; }
 
 ### See Also
 
-* class [LineJoin](../../../aspose.pdf.operators/linejoin/)
+* enum [LineJoin](../../../aspose.pdf.operators/linejoin/)
 * class [SetLineJoin](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

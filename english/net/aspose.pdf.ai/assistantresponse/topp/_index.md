@@ -17,7 +17,7 @@ Gets or sets an alternative to sampling with temperature, called nucleus samplin
  We generally recommend altering this or temperature but not both.
 
 ```csharp
-public Nullable<double> TopP { get; set; }
+public double? TopP { get; set; }
 ```
 
 ### See Also

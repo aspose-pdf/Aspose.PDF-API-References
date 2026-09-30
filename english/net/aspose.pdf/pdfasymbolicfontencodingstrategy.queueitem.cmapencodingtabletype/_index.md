@@ -5,7 +5,7 @@ articleTitle: "PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType enum. Declares set of some known encoding subtables"
 type: docs
-weight: 2420
+weight: 2380
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/"
 product_version: "26.9.0"
 ---
@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Declares set of some known encoding subtables
 
 ```csharp
-public enum CMapEncodingTableType
+public enum CMapEncodingTableType : short
 ```
 
 ### Values

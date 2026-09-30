@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/widgetannotation/widgetannotation/"
 product_version: "26.9.0"
 ---
-## WidgetAnnotation([Document](../../../aspose.pdf/document/)) {#constructor}
+## WidgetAnnotation constructor
 
 Create annotation (used for Generator)
 
@@ -23,6 +23,7 @@ public WidgetAnnotation(Document doc)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -15,22 +15,22 @@ product_version: "26.9.0"
 Represents table that exist on the page
 
 ```csharp
-public class AbsorbedTable : ITableElement
+public class AbsorbedTable : IComparable<AbsorbedTable>, ITableElement
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [PageNum](./pagenum/) { get; } | Gets number of the page containing this table. |
-| [Rectangle](./rectangle/) { get; } | Gets rectangle that describes position of the table on page. |
-| [RowList](./rowlist/) { get; } | Gets readonly IList containing rows of the table. |
+| [PageNum](./pagenum/) { get; } | Gets number of the page containing this table |
+| [Rectangle](./rectangle/) { get; } | Gets rectangle that describes position of the table on page |
+| [RowList](./rowlist/) { get; } | Gets readonly IList containing rows of the table |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CompareTo](./compareto/)(*AbsorbedTable*) | Compares the current AbsorbedTable object with another AbsorbedTable object and returns an integer that indicates whether the current object precedes, follows, or occurs in the same position in the sort order as the other object. |
+| [CompareTo](./compareto/)(AbsorbedTable) | Compares the current AbsorbedTable object with another AbsorbedTable object and returns an integer that indicates whether the current object precedes, follows, or occurs in the same position in the sort order as the other object. |
 
 ### See Also
 

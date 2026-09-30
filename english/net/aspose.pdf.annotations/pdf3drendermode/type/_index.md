@@ -23,7 +23,7 @@ The type.
 
 ### See Also
 
-* class [RenderModeType](../../../aspose.pdf.annotations/rendermodetype/)
+* enum [RenderModeType](../../../aspose.pdf.annotations/rendermodetype/)
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

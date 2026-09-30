@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf.annotations/printermarkskindextensions/hasflagfast/"
 product_version: "26.9.0"
 ---
-## HasFlagFast([PrinterMarksKind](../../../aspose.pdf.annotations/printermarkskind/), [PrinterMarksKind](../../../aspose.pdf.annotations/printermarkskind/)) {#hasflagfast}
+## PrinterMarksKindExtensions.HasFlagFast method
 
 Determines whether the current value includes a specified flag.
 
 ```csharp
-public bool HasFlagFast(PrinterMarksKind value, PrinterMarksKind flag)
+public static bool HasFlagFast(this PrinterMarksKind value, PrinterMarksKind flag)
 ```
 
 | Parameter | Type | Description |
@@ -24,12 +24,11 @@ public bool HasFlagFast(PrinterMarksKind value, PrinterMarksKind flag)
 
 ### Return Value
 
-bool
-
  if the flag is included in the current value; otherwise, .
 
 ### See Also
 
+* enum [PrinterMarksKind](../../../aspose.pdf.annotations/printermarkskind/)
 * class [PrinterMarksKindExtensions](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

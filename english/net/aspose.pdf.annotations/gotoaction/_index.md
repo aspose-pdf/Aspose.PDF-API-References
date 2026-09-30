@@ -22,26 +22,24 @@ public class GoToAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [GoToAction](./gotoaction/#constructor) | Constructor. |
-| [GoToAction](./gotoaction/#constructor_1)(*int*) | Constructor for GoToAction class. |
-| [GoToAction](./gotoaction/#constructor_2)(*[Page](../../aspose.pdf/page/)*) | Constructor for GoToAction class. |
-| [GoToAction](./gotoaction/#constructor_3)(*[ExplicitDestination](../../aspose.pdf.annotations/explicitdestination/)*) | Constructor. |
-| [GoToAction](./gotoaction/#constructor_4)(*[Document](../../aspose.pdf/document/), string*) | Action which linked with Named Destination. |
-| [GoToAction](./gotoaction/#constructor_5)(*[Page](../../aspose.pdf/page/), [ExplicitDestinationType](../../aspose.pdf.annotations/explicitdestinationtype/), double[]*) | Constructor for GoToAction class. |
+| [GoToAction](./gotoaction/#constructor)(ExplicitDestination) | Constructor. |
+| [GoToAction](./gotoaction/#constructor_1)(Page) | Constructor for GoToAction class. |
+| [GoToAction](./gotoaction/#constructor_2)(Document, string) | Action which linked with Named Destination. |
+| [GoToAction](./gotoaction/#constructor_3)(Page, ExplicitDestinationType, params double[]) | Constructor for GoToAction class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Destination](./destination/) { get; set; } | Gets or sets the destination to jump to. |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. *(Inherited from PdfAction)* |
+| virtual [Destination](./destination/) { get; set; } | Gets or sets the destination to jump to. |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/) | Gets string for ECMAScript Action. *(Inherited from PdfAction)* |
-| [ToString](../../aspose.pdf.annotations/iappointment/tostring/) | Returns string representation. *(Inherited from IAppointment)* |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Returns string representation |
 
 ### See Also
 

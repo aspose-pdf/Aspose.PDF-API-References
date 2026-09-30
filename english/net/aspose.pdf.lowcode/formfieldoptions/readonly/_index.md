@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets/sets the value to determine whether created/modified field is read only or not (if will be set).
 
 ```csharp
-public Nullable<bool> ReadOnly { get; set; }
+public bool? ReadOnly { get; set; }
 ```
 
 ### See Also

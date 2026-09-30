@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf/artifact/settextandstate/"
 product_version: "26.9.0"
 ---
-## SetTextAndState(string, [TextState](../../../aspose.pdf.text/textstate/)) {#settextandstate}
+## Artifact.SetTextAndState method
 
 Set text and text properties of the artifact.
 
@@ -19,11 +19,12 @@ public void SetTextAndState(string text, TextState textState)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string | Text string. |
+| text | String | Text string. |
 | textState | TextState | Text state. |
 
 ### See Also
 
+* class [TextState](../../../aspose.pdf.text/textstate/)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

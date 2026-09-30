@@ -20,7 +20,7 @@ public ComparisonMode ComparisonMode { get; set; }
 
 ### See Also
 
-* class [ComparisonMode](../../../aspose.pdf.comparison/comparisonmode/)
+* enum [ComparisonMode](../../../aspose.pdf.comparison/comparisonmode/)
 * class [SideBySideComparisonOptions](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

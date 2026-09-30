@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/pdftoxlsoptions/pdftoxlsoptions/"
 product_version: "26.9.0"
 ---
-## PdfToXlsOptions() {#constructor}
+## PdfToXlsOptions constructor
 
 The default constructor.
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.security/encryptionparameters/encryptionparameters/"
 product_version: "26.9.0"
 ---
-## EncryptionParameters() {#constructor}
+## EncryptionParameters constructor
 
 The default constructor.
 

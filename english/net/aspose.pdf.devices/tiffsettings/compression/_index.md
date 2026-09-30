@@ -25,7 +25,7 @@ The type of the compression.
 
 ### See Also
 
-* class [CompressionType](../../../aspose.pdf.devices/compressiontype/)
+* enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

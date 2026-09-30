@@ -20,7 +20,7 @@ This property intentionally has no `[VectorStoreVector]` attribute because
  this property as the vector field with the appropriate dimension count.
 
 ```csharp
-public Nullable<ReadOnlyMemory<float>> Embedding { get; set; }
+public ReadOnlyMemory<float>? Embedding { get; set; }
 ```
 
 ### Property Value

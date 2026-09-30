@@ -39,6 +39,7 @@ public BlockTextOperator(TextProperties textProperties)
 
 ### See Also
 
+* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
 * class [BlockTextOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

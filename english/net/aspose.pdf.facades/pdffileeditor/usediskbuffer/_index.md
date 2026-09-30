@@ -5,7 +5,7 @@ articleTitle: "UseDiskBuffer"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileEditor property. If this option used then destination document will be saved on disk periodically and further concatenation will appllied to it as inc..."
 type: docs
-weight: 1210
+weight: 1200
 url: "/net/aspose.pdf.facades/pdffileeditor/usediskbuffer/"
 product_version: "26.9.0"
 ---

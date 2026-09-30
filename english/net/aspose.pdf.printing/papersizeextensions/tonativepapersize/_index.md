@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf.printing/papersizeextensions/tonativepapersize/"
 product_version: "26.9.0"
 ---
-## ToNativePaperSize([PaperSize](../../../aspose.pdf.printing/papersize/)) {#tonativepapersize}
+## PaperSizeExtensions.ToNativePaperSize method
 
 Converts [`PaperSize`](../../../aspose.pdf.printing/papersize/) to Windows-specific System.Drawing.Printing.PaperSize.
 
 ```csharp
-public PaperSize ToNativePaperSize(PaperSize paperSize)
+public static PaperSize ToNativePaperSize(this PaperSize paperSize)
 ```
 
 | Parameter | Type | Description |
@@ -22,8 +22,6 @@ public PaperSize ToNativePaperSize(PaperSize paperSize)
 | paperSize | PaperSize | Paper size to convert. |
 
 ### Return Value
-
-[PaperSize](../../../aspose.pdf.printing/papersize/)
 
 Windows paper size.
 

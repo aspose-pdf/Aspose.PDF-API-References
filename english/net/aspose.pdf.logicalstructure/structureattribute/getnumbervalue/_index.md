@@ -9,17 +9,15 @@ weight: 40
 url: "/net/aspose.pdf.logicalstructure/structureattribute/getnumbervalue/"
 product_version: "26.9.0"
 ---
-## GetNumberValue() {#getnumbervalue}
+## StructureAttribute.GetNumberValue method
 
 Gets Value Number.
 
 ```csharp
-public Nullable<double> GetNumberValue()
+public double? GetNumberValue()
 ```
 
 ### Return Value
-
-Nullable<double>
 
 Value Number.
 

@@ -5,7 +5,7 @@ articleTitle: "PrinterJobName"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfViewer property. Gets or sets name of document in printer queue when document is printed. Default value is file name."
 type: docs
-weight: 450
+weight: 410
 url: "/net/aspose.pdf.facades/pdfviewer/printerjobname/"
 product_version: "26.9.0"
 ---

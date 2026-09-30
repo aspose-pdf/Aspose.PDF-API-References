@@ -31,15 +31,15 @@ public interface ICustomSecurityHandler
 
 | Name | Description |
 | --- | --- |
-| [CalculateEncryptionKey](./calculateencryptionkey/)(*string*) | Calculate the EncryptionKey. Generally the key is calculated based on the UserKey. |
-| [Decrypt](./decrypt/)(*byte[], int, int, byte[]*) | Decrypt the data array. |
-| [Encrypt](./encrypt/)(*byte[], int, int, byte[]*) | Encrypt the data array. |
-| [EncryptPermissions](./encryptpermissions/)(*int*) | Encrypt the document's permissions field. The result will be written to the Perms encryption dictionary field. |
-| [GetOwnerKey](./getownerkey/)(*string, string*) | Creates an encoded array based on passwords that will be written to the O field of the encryption dictionary. |
-| [GetUserKey](./getuserkey/)(*string*) | Creates an encoded array based on the user's password. |
-| [Initialize](./initialize/)(*EncryptionParameters*) | Called to initialize the current instance for encryption. |
-| [IsOwnerPassword](./isownerpassword/)(*string*) | Check if the password is the document owner's password. |
-| [IsUserPassword](./isuserpassword/)(*string*) | Check if the password belongs to the user (password for opening the document). |
+| [CalculateEncryptionKey](./calculateencryptionkey/)(string) | Calculate the EncryptionKey. Generally the key is calculated based on the UserKey. You can use values from EncryptionParams, which contains the current parameters at the time of the call. This value is passed as the key argument in `Encrypt` and `Decrypt`. |
+| [Decrypt](./decrypt/)(byte[], int, int, byte[]) | Decrypt the data array. |
+| [Encrypt](./encrypt/)(byte[], int, int, byte[]) | Encrypt the data array. |
+| [EncryptPermissions](./encryptpermissions/)(int) | Encrypt the document's permissions field. The result will be written to the Perms encryption dictionary field. When opening a document, the value can be obtained in [`EncryptionParameters`](../../aspose.pdf.security/encryptionparameters/) via the Perms field. Allows you to check if the document permissions have changed. |
+| [GetOwnerKey](./getownerkey/)(string, string) | Creates an encoded array based on passwords that will be written to the O field of the encryption dictionary. Should only rely on the arguments passed. The user password can be calculated from this field using the owner password. Called during encryption to prepare it and populate the encryption dictionary. The value will be available in `CalculateEncryptionKey` to get the key from the UserKey. The passwords specified by the user when calling document encryption will be passed. Passwords may not be specified or only one may be specified. |
+| [GetUserKey](./getuserkey/)(string) | Creates an encoded array based on the user's password. This value is typically used to check if the password belongs to the user or owner, and to get the encryption key. Called during encryption to prepare it and populate the encryption dict. The user-specified password is passed as an argument when calling document encryption. |
+| [Initialize](./initialize/)(EncryptionParameters) | Called to initialize the current instance for encryption. Note that when encrypting, it will be filled with the data of the transferred properties [`ICustomSecurityHandler`](../../aspose.pdf.security/icustomsecurityhandler/), and when opening the document from the encryption dictionary. If the method is called during new encryption, then `UserKey` and `OwnerKey` will be null. |
+| [IsOwnerPassword](./isownerpassword/)(string) | Check if the password is the document owner's password. The method is called after Initialize. The method call is used in the PDF API. |
+| [IsUserPassword](./isuserpassword/)(string) | Check if the password belongs to the user (password for opening the document). The method is called after Initialize. The method call is used in the PDF API. |
 
 ### See Also
 

@@ -19,7 +19,7 @@ public SoundIcon Icon { get; set; }
 
 ### See Also
 
-* class [SoundIcon](../../../aspose.pdf.annotations/soundicon/)
+* enum [SoundIcon](../../../aspose.pdf.annotations/soundicon/)
 * class [SoundAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

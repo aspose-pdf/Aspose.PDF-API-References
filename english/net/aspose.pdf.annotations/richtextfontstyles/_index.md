@@ -14,6 +14,7 @@ product_version: "26.9.0"
 Options for styling text fragments in RichText.
 
 ```csharp
+[Flags]
 public enum RichTextFontStyles
 ```
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/stringresult/tofile/"
 product_version: "26.9.0"
 ---
-## ToFile() {#tofile}
+## StringResult.ToFile method
 
 Tries to convert the result to a file.
 
@@ -18,8 +18,6 @@ public string ToFile()
 ```
 
 ### Return Value
-
-string
 
 A string representing the path to the output file if the result is file; otherwise `null`.
 

@@ -5,7 +5,7 @@ articleTitle: "LettersPositioningMethod"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "HtmlSaveOptions field. Sets mode of positioning of letters in words in result HTML"
 type: docs
-weight: 350
+weight: 340
 url: "/net/aspose.pdf/htmlsaveoptions/letterspositioningmethod/"
 product_version: "26.9.0"
 ---

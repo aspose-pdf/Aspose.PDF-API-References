@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Gets or sets rendering mode of the text.
 
 ```csharp
-public TextRenderingMode RenderingMode { get; set; }
+public override TextRenderingMode RenderingMode { get; set; }
 ```
 
 ### See Also
 
-* class [TextRenderingMode](../../../aspose.pdf.text/textrenderingmode/)
+* enum [TextRenderingMode](../../../aspose.pdf.text/textrenderingmode/)
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

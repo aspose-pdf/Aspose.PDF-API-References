@@ -14,7 +14,7 @@ product_version: "26.9.0"
 
 
 ```csharp
-public Rectangle Rectangle { get; }
+public override Rectangle Rectangle { get; }
 ```
 
 ### See Also

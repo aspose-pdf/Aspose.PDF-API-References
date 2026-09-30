@@ -5,7 +5,7 @@ articleTitle: "HorizontalAlignment"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.HorizontalAlignment enum. Describes horizontal alignment."
 type: docs
-weight: 1130
+weight: 1120
 url: "/net/aspose.pdf/horizontalalignment/"
 product_version: "26.9.0"
 ---

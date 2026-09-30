@@ -23,7 +23,7 @@ Produce the PDF stream using specified import format.
  }
 
 ```csharp
-public void Produce(Stream inputStream, ImportFormat format, Stream outputStream)
+public static void Produce(Stream inputStream, ImportFormat format, Stream outputStream)
 ```
 
 | Parameter | Type | Description |
@@ -55,6 +55,7 @@ string inputFile = "myImage.cgm";
 
 ### See Also
 
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -74,12 +75,12 @@ Produce the PDF stream using specified import format.
  }
 
 ```csharp
-public void Produce(string inputFileName, ImportFormat format, Stream outputStream)
+public static void Produce(string inputFileName, ImportFormat format, Stream outputStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFileName | string | Input file name. |
+| inputFileName | String | Input file name. |
 | format | ImportFormat | Import format. |
 | outputStream | Stream | Output PDF stream. |
 
@@ -106,6 +107,7 @@ string inputFile = "myImage.cgm";
 
 ### See Also
 
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -126,14 +128,14 @@ Produce the PDF file using specified import format.
  }
 
 ```csharp
-public void Produce(Stream inputStream, ImportFormat format, string outputFileName)
+public static void Produce(Stream inputStream, ImportFormat format, string outputFileName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Input stream. |
 | format | ImportFormat | Import format. |
-| outputFileName | string | Output PDF file |
+| outputFileName | String | Output PDF file |
 
 ### Exceptions
 
@@ -159,6 +161,7 @@ string inputFile = "myImage.cgm";
 
 ### See Also
 
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -175,14 +178,14 @@ Produce the PDF file using specified import format.
  PdfProducer.Produce(inputFile, ImportFormat.Cgm, outputFile);
 
 ```csharp
-public void Produce(string inputFileName, ImportFormat format, string outputFileName)
+public static void Produce(string inputFileName, ImportFormat format, string outputFileName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFileName | string | Input file name. |
+| inputFileName | String | Input file name. |
 | format | ImportFormat | Import format. |
-| outputFileName | string | Output PDF file |
+| outputFileName | String | Output PDF file |
 
 ### Exceptions
 
@@ -203,6 +206,7 @@ string inputFile = "myImage.cgm";
 
 ### See Also
 
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [PdfProducer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -223,12 +227,12 @@ Produce the PDF stream using specified import option.
  }
 
 ```csharp
-public void Produce(string inputFileName, ImportOptions options, Stream outputStream)
+public static void Produce(string inputFileName, ImportOptions options, Stream outputStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFileName | string | Input file name. |
+| inputFileName | String | Input file name. |
 | options | ImportOptions | Import option. |
 | outputStream | Stream | Output PDF stream. |
 
@@ -256,6 +260,7 @@ string inputFile = "myImage.cgm";
 
 ### See Also
 
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -276,14 +281,14 @@ Produce the PDF file using specified import option.
  }
 
 ```csharp
-public void Produce(Stream inputStream, ImportOptions options, string outputFileName)
+public static void Produce(Stream inputStream, ImportOptions options, string outputFileName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Input stream. |
 | options | ImportOptions | Import option. |
-| outputFileName | string | Output PDF file. |
+| outputFileName | String | Output PDF file. |
 
 ### Exceptions
 
@@ -309,6 +314,7 @@ string inputFile = "myImage.cgm";
 
 ### See Also
 
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -326,14 +332,14 @@ Produce the PDF file using specified import option.
  PdfProducer.Produce(inputStream, importOptions, outputStream);
 
 ```csharp
-public void Produce(string inputFileName, ImportOptions options, string outputFileName)
+public static void Produce(string inputFileName, ImportOptions options, string outputFileName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFileName | string | Input file name. |
+| inputFileName | String | Input file name. |
 | options | ImportOptions | Import option. |
-| outputFileName | string | Output PDF stream. |
+| outputFileName | String | Output PDF stream. |
 
 ### Exceptions
 
@@ -355,6 +361,7 @@ string inputFile = "myImage.cgm";
 
 ### See Also
 
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -376,7 +383,7 @@ Produce the PDF file using specified import option.
  }
 
 ```csharp
-public void Produce(Stream inputStream, ImportOptions options, Stream outputStream)
+public static void Produce(Stream inputStream, ImportOptions options, Stream outputStream)
 ```
 
 | Parameter | Type | Description |
@@ -409,6 +416,7 @@ string inputFile = "myImage.cgm";
 
 ### See Also
 
+* class [ImportOptions](../../../aspose.pdf/importoptions/)
 * class [PdfProducer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

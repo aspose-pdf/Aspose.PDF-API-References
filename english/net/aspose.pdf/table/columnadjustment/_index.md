@@ -19,7 +19,7 @@ public ColumnAdjustment ColumnAdjustment { get; set; }
 
 ### See Also
 
-* class [ColumnAdjustment](../../../aspose.pdf/columnadjustment/)
+* enum [ColumnAdjustment](../../../aspose.pdf/columnadjustment/)
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

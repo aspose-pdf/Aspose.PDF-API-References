@@ -22,7 +22,7 @@ public class Attachment
 
 | Name | Description |
 | --- | --- |
-| [Attachment](./attachment/#constructor) | The default constructor. |
+| [Attachment](./attachment/)() | The default constructor. |
 
 ## Properties
 

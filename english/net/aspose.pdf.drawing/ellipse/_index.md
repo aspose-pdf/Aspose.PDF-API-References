@@ -22,24 +22,24 @@ public sealed class Ellipse : Shape
 
 | Name | Description |
 | --- | --- |
-| [Ellipse](./ellipse/#constructor)(*double, double, double, double*) | Initializes a new instance of the [`Ellipse`](../../aspose.pdf.drawing/ellipse/) class. |
+| [Ellipse](./ellipse/)(double, double, double, double) | Initializes a new instance of the [`Ellipse`](../../aspose.pdf.drawing/ellipse/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Bottom](./bottom/) { get; set; } | Gets or sets a float value that indicates the bottom position of the ellipse. |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Gets or sets a `GraphInfo` object that indicates the graph info,such as color,. *(Inherited from Shape)* |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Gets or sets a `GraphInfo` object that indicates the graph info,such as color, line width,etc. |
 | [Height](./height/) { get; set; } | Gets or sets a float value that indicates the height of the ellipse. |
 | [Left](./left/) { get; set; } | Gets or sets a float value that indicates the left position of the ellipse. |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape. *(Inherited from Shape)* |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape |
 | [Width](./width/) { get; set; } | Gets or sets a float value that indicates the width of the ellipse. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CheckBounds](./checkbounds/)(*double, double*) |  |
+| override [CheckBounds](./checkbounds/)(double, double) |  |
 
 ### See Also
 

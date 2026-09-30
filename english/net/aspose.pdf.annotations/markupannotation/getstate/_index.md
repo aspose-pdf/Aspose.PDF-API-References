@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.annotations/markupannotation/getstate/"
 product_version: "26.9.0"
 ---
-## GetState() {#getstate}
+## MarkupAnnotation.GetState method
 
 Gets the state of the annotation.
  Note, the state stored in other text annotation which has state and statemodel keys.
@@ -20,13 +20,11 @@ public AnnotationState GetState()
 
 ### Return Value
 
-[AnnotationState](../../../aspose.pdf.annotations/annotationstate/)
-
 Annotation state.
 
 ### See Also
 
-* class [AnnotationState](../../../aspose.pdf.annotations/annotationstate/)
+* enum [AnnotationState](../../../aspose.pdf.annotations/annotationstate/)
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

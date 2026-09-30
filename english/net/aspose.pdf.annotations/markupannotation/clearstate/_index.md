@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.annotations/markupannotation/clearstate/"
 product_version: "26.9.0"
 ---
-## ClearState() {#clearstate}
+## MarkupAnnotation.ClearState method
 
 Clears state and state model for the annotation.
  For example, clears the review status for an annotation.

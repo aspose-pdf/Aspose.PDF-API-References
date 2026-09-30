@@ -19,7 +19,7 @@ public TableBroken Broken { get; set; }
 
 ### See Also
 
-* class [TableBroken](../../../aspose.pdf/tablebroken/)
+* enum [TableBroken](../../../aspose.pdf/tablebroken/)
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

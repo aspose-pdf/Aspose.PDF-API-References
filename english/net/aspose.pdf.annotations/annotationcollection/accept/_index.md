@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf.annotations/annotationcollection/accept/"
 product_version: "26.9.0"
 ---
-## Accept([AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)) {#accept}
+## AnnotationCollection.Accept method
 
 Accepts visitor to process annotation.
 
@@ -23,6 +23,7 @@ public void Accept(AnnotationSelector visitor)
 
 ### See Also
 
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

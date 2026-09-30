@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.lowcode/signature/process/"
 product_version: "26.9.0"
 ---
-## Process([IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)) {#process}
+## Signature.Process method
 
 Starts the [`Signature`](../../../aspose.pdf.lowcode/signature/) processing with the specified parameters.
 
@@ -23,8 +23,6 @@ public ResultContainer Process(IPluginOptions options)
 
 ### Return Value
 
-[ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
-
 An ResultContainer object containg the result of the operation.
 
 ### Exceptions
@@ -36,6 +34,7 @@ An ResultContainer object containg the result of the operation.
 ### See Also
 
 * class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
+* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
 * class [Signature](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

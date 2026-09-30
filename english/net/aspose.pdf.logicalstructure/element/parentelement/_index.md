@@ -24,7 +24,6 @@ Parent element.
 ### See Also
 
 * class [Element](../../../aspose.pdf.structure/element/)
-* class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

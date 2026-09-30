@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/streamsavetarget/streamsavetarget/"
 product_version: "26.9.0"
 ---
-## StreamSaveTarget(Stream) {#constructor}
+## StreamSaveTarget constructor
 
 Initializes new stream save target.
 

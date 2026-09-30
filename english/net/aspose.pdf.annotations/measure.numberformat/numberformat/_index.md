@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf.annotations/measure.numberformat/numberformat/"
 product_version: "26.9.0"
 ---
-## Measure.NumberFormat([Measure](../../../aspose.pdf.annotations/measure/)) {#constructor}
+## NumberFormat constructor
 
 Constructor for NumberFormat class.
 
 ```csharp
-public Measure.NumberFormat(Measure measure)
+public NumberFormat(Measure measure)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public Measure.NumberFormat(Measure measure)
 
 ### See Also
 
+* class [Measure](../../../aspose.pdf.annotations/measure/)
 * class [Measure.NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

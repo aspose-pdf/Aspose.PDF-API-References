@@ -5,7 +5,7 @@ articleTitle: "HeaderFooterSettings"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.HeaderFooterSettings class. Represents the settings for header and footer artifacts."
 type: docs
-weight: 1070
+weight: 1060
 url: "/net/aspose.pdf/headerfootersettings/"
 keywords: "HeaderFooterSettings, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public sealed class HeaderFooterSettings
 
 | Name | Description |
 | --- | --- |
-| [HeaderFooterSettings](./headerfootersettings/#constructor) | The default constructor. |
+| [HeaderFooterSettings](./headerfootersettings/)() | The default constructor. |
 
 ## Properties
 
@@ -31,6 +31,12 @@ public sealed class HeaderFooterSettings
 | [Footer](./footer/) { get; set; } | Gets or sets the footer settings. |
 | [Header](./header/) { get; set; } | Gets or sets the header settings. |
 | [PageRange](./pagerange/) { get; set; } | Gets or sets the range of pages for the header and footer settings. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| class [HorizontalAlignment](../../aspose.pdf/headerfootersettings.horizontalalignment) | Represents horizontal alignment settings for header and footer. |
 
 ### See Also
 

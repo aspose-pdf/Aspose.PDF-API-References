@@ -9,12 +9,12 @@ weight: 30
 url: "/net/aspose.pdf/xform/createnewform/"
 product_version: "26.9.0"
 ---
-## CreateNewForm([Page](../../../aspose.pdf/page/), [Document](../../../aspose.pdf/document/)) {#createnewform}
+## XForm.CreateNewForm method
 
 Creates XForm which duplicates contents of the page.
 
 ```csharp
-public XForm CreateNewForm(Page source, Document document)
+public static XForm CreateNewForm(Page source, Document document)
 ```
 
 | Parameter | Type | Description |
@@ -24,14 +24,13 @@ public XForm CreateNewForm(Page source, Document document)
 
 ### Return Value
 
-[XForm](../../../aspose.pdf/xform/)
-
 Newly created XForm.
 
 ### See Also
 
 * class [XForm](../../../aspose.pdf/xform/)
-* class [XForm](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Document](../../../aspose.pdf/document/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

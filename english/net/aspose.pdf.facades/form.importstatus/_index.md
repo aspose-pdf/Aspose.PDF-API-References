@@ -5,7 +5,7 @@ articleTitle: "Form.ImportStatus"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.Form.ImportStatus enum. Status of imported field"
 type: docs
-weight: 200
+weight: 190
 url: "/net/aspose.pdf.facades/form.importstatus/"
 product_version: "26.9.0"
 ---

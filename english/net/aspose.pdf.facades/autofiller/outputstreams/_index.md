@@ -5,7 +5,7 @@ articleTitle: "OutputStreams"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "AutoFiller property. Gets or sets the many Output Streams. One of four output modes."
 type: docs
-weight: 130
+weight: 110
 url: "/net/aspose.pdf.facades/autofiller/outputstreams/"
 product_version: "26.9.0"
 ---

@@ -20,13 +20,13 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 
 | Class | Description |
 | --- | --- |
-| [StructureRecognitionVisitor](./structurerecognitionvisitor/) | Base class for a custom document structure recognition visitor. |
+| [StructureRecognitionVisitor](./structurerecognitionvisitor/) | Base class for a custom document structure recognition visitor |
 
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
-| [IStructureRecognitionVisitor](./istructurerecognitionvisitor/) | Base interface for a custom document structure recognition visitor. |
+| [IStructureRecognitionVisitor](./istructurerecognitionvisitor/) | Base interface for a custom document structure recognition visitor |
 
 ## FAQ
 

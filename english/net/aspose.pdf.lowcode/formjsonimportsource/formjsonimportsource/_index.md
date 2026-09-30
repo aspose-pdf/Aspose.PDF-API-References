@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/formjsonimportsource/formjsonimportsource/"
 product_version: "26.9.0"
 ---
-## FormJsonImportSource([IDataSource](../../../aspose.pdf.lowcode/idatasource/), [IDataSource](../../../aspose.pdf.lowcode/idatasource/)) {#constructor}
+## FormJsonImportSource constructor
 
 Initializes a new instance of the [`FormJsonImportSource`](../../../aspose.pdf.lowcode/formjsonimportsource/) class.
 
@@ -24,6 +24,7 @@ public FormJsonImportSource(IDataSource pdfSource, IDataSource jsonSource)
 
 ### See Also
 
+* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
 * class [FormJsonImportSource](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

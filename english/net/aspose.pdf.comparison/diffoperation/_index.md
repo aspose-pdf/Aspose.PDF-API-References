@@ -15,24 +15,24 @@ product_version: "26.9.0"
 Represents a class of diff operation.
 
 ```csharp
-public class DiffOperation
+public class DiffOperation : IEquatable<DiffOperation>
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Operation](./operation/) { get; set; } | Gets and sets operation type. |
-| [Text](./text/) { get; set; } | Get and set operation text. |
+| [Operation](./operation/) { get; } | Gets and sets operation type. |
+| [Text](./text/) { get; } | Get and set operation text. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Equals](./equals/)(*object*) |  |
-| [Equals](./equals/)(*DiffOperation*) |  |
-| [GetHashCode](./gethashcode/) |  |
-| [ToString](./tostring/) |  |
+| [Equals](./equals/)(DiffOperation) |  |
+| override [Equals](./equals/)(object) |  |
+| override [GetHashCode](./gethashcode/)() |  |
+| override [ToString](./tostring/)() |  |
 
 ### See Also
 

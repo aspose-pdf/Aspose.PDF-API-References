@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/epubsaveoptions/epubsaveoptions/"
 product_version: "26.9.0"
 ---
-## EpubSaveOptions() {#constructor}
+## EpubSaveOptions constructor
 
 The default constructor.
 

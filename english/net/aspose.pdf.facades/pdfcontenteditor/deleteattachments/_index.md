@@ -9,7 +9,7 @@ weight: 290
 url: "/net/aspose.pdf.facades/pdfcontenteditor/deleteattachments/"
 product_version: "26.9.0"
 ---
-## DeleteAttachments() {#deleteattachments}
+## PdfContentEditor.DeleteAttachments method
 
 Deletes all attachments in PDF document.
 

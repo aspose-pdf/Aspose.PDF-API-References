@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the maximum number of prompt tokens that may be used over the course of the run.
 
 ```csharp
-public Nullable<int> MaxPromptTokens { get; set; }
+public int? MaxPromptTokens { get; set; }
 ```
 
 ### See Also

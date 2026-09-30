@@ -22,19 +22,19 @@ public sealed class TextSegment
 
 | Name | Description |
 | --- | --- |
-| [TextSegment](./textsegment/#constructor) | Creates TextSegment object. |
-| [TextSegment](./textsegment/#constructor_1)(*string*) | Creates TextSegment object. |
+| [TextSegment](./textsegment/#constructor)() | Creates TextSegment object. |
+| [TextSegment](./textsegment/#constructor_1)(string) | Creates TextSegment object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BaselinePosition](./baselineposition/) { get; set; } | Gets text position for text, represented with [`TextSegment`](../../aspose.pdf.text/textsegment/) object. |
+| [BaselinePosition](./baselineposition/) { get; set; } | Gets text position for text, represented with [`TextSegment`](../../aspose.pdf.text/textsegment/) object. The YIndent of the Position structure represents baseline coordinate of the text segment. |
 | [Characters](./characters/) { get; } | Gets collection of CharInfo objects that represent information on characters in the text segment. |
 | [EndCharIndex](./endcharindex/) { get; } | Gets ending character index of current segment in the show text operator (Tj, TJ) segment. |
 | [Hyperlink](./hyperlink/) { get; set; } | Gets or sets the segment hyperlink(for pdf generator). |
 | [Position](./position/) { get; set; } | Gets text position for text, represented with [`TextSegment`](../../aspose.pdf.text/textsegment/) object. |
-| [Rectangle](./rectangle/) { get; } | Gets rectangle of the TextSegment. |
+| [Rectangle](./rectangle/) { get; } | Gets rectangle of the TextSegment |
 | [StartCharIndex](./startcharindex/) { get; } | Gets starting character index of current segment in the show text operator (Tj, TJ) segment. |
 | [Text](./text/) { get; set; } | Gets or sets `String` text object that the [`TextSegment`](../../aspose.pdf.text/textsegment/) object represents. |
 | [TextEditOptions](./texteditoptions/) { get; set; } | Gets or sets text edit options. The options define special behavior when requested symbol cannot be written with font. |
@@ -44,7 +44,7 @@ public sealed class TextSegment
 
 | Name | Description |
 | --- | --- |
-| [MyHtmlEncode](./myhtmlencode/)(*string*) | Encodes string as html. |
+| static [MyHtmlEncode](./myhtmlencode/)(string) | Encodes string as html. |
 
 ## Remarks
 

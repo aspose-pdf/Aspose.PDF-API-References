@@ -16,7 +16,7 @@ Gets or sets line spacing of the text.
 Can be null. Use null to inherit `LineSpacing` property from parent structure element.
 
 ```csharp
-public Nullable<float> LineSpacing { get; set; }
+public float? LineSpacing { get; set; }
 ```
 
 ### See Also

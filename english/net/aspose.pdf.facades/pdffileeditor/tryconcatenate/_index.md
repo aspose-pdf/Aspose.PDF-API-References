@@ -22,13 +22,11 @@ public bool TryConcatenate(string firstInputFile, string secInputFile, string ou
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| firstInputFile | string | First file to concatenate. |
-| secInputFile | string | Second file to concatenate. |
-| outputFile | string | Output file. |
+| firstInputFile | String | First file to concatenate. |
+| secInputFile | String | Second file to concatenate. |
+| outputFile | String | Output file. |
 
 ### Return Value
-
-bool
 
 true if operation completed successfully; otherwise, false.
 
@@ -58,12 +56,11 @@ public bool TryConcatenate(Document[] src, Document dest)
 
 ### Return Value
 
-bool
-
 true if operation completed successfully; otherwise, false.
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -83,12 +80,10 @@ public bool TryConcatenate(string[] inputFiles, string outputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFiles | string[] | Array of files to concatenate. |
-| outputFile | string | Name of output file. |
+| inputFiles | String[] | Array of files to concatenate. |
+| outputFile | String | Name of output file. |
 
 ### Return Value
-
-bool
 
 true if operation completed successfully; otherwise, false.
 
@@ -118,8 +113,6 @@ public bool TryConcatenate(Stream[] inputStream, Stream outputStream)
 
 ### Return Value
 
-bool
-
 true if operation completed successfully; otherwise, false.
 
 ### See Also
@@ -140,19 +133,18 @@ The TryConcatenate method is like the Concatenate
  method, except the TryConcatenate method does not throw an exception if the operation fails.
 
 ```csharp
-public bool TryConcatenate(string firstInputFile, string secInputFile, string blankPageFile, string outputFile)
+public bool TryConcatenate(string firstInputFile, string secInputFile, string blankPageFile, 
+    string outputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| firstInputFile | string | First file. |
-| secInputFile | string | Second file. |
-| blankPageFile | string | PDF file with blank page. |
-| outputFile | string | Result file. |
+| firstInputFile | String | First file. |
+| secInputFile | String | Second file. |
+| blankPageFile | String | PDF file with blank page. |
+| outputFile | String | Result file. |
 
 ### Return Value
-
-bool
 
 true if operation completed successfully; otherwise, false.
 
@@ -174,7 +166,8 @@ The TryConcatenate method is like the Concatenate
  method, except the TryConcatenate method does not throw an exception if the operation fails.
 
 ```csharp
-public bool TryConcatenate(Stream firstInputStream, Stream secInputStream, Stream blankPageStream, Stream outputStream)
+public bool TryConcatenate(Stream firstInputStream, Stream secInputStream, Stream blankPageStream, 
+    Stream outputStream)
 ```
 
 | Parameter | Type | Description |
@@ -185,8 +178,6 @@ public bool TryConcatenate(Stream firstInputStream, Stream secInputStream, Strea
 | outputStream | Stream | Output Pdf Stream. |
 
 ### Return Value
-
-bool
 
 true if operation completed successfully; otherwise, false.
 

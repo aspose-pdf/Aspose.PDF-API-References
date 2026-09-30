@@ -21,30 +21,30 @@ public interface IAnnotationVisitor
 
 | Name | Description |
 | --- | --- |
-| [Visit](./visit/)(*LinkAnnotation*) | Visit/select link annotation. |
-| [Visit](./visit/)(*FileAttachmentAnnotation*) | Visit/select attachment annotation. |
-| [Visit](./visit/)(*TextAnnotation*) | Visit/select text annotation. |
-| [Visit](./visit/)(*FreeTextAnnotation*) | Visit/select freetext annotation. |
-| [Visit](./visit/)(*HighlightAnnotation*) | Visit/select highlight annotation. |
-| [Visit](./visit/)(*UnderlineAnnotation*) | Visit/select underline annotation. |
-| [Visit](./visit/)(*StrikeOutAnnotation*) | Visit/select strikeOut annotation. |
-| [Visit](./visit/)(*SquigglyAnnotation*) | Visit/select squiggly annotation. |
-| [Visit](./visit/)(*PopupAnnotation*) | Visit/select popup annotation. |
-| [Visit](./visit/)(*LineAnnotation*) | Visit/select line annotation. |
-| [Visit](./visit/)(*CircleAnnotation*) | Visit/select circle annotation. |
-| [Visit](./visit/)(*SquareAnnotation*) | Visit/select square annotation. |
-| [Visit](./visit/)(*InkAnnotation*) | Visit/select ink annotation. |
-| [Visit](./visit/)(*PolylineAnnotation*) | Visit/select polyline annotation. |
-| [Visit](./visit/)(*PolygonAnnotation*) | Visit/select polygon annotation. |
-| [Visit](./visit/)(*CaretAnnotation*) | Visit/select caret annotation. |
-| [Visit](./visit/)(*StampAnnotation*) | Visit/select stamp annotation. |
-| [Visit](./visit/)(*WidgetAnnotation*) | Visit/select widget annotation. |
-| [Visit](./visit/)(*MovieAnnotation*) | Visit/select movie annotation. |
-| [Visit](./visit/)(*ScreenAnnotation*) | Visit/select screen annotation. |
-| [Visit](./visit/)(*TrimMarkAnnotation*) | Visit/select a trim mark annotation. |
-| [Visit](./visit/)(*BleedMarkAnnotation*) | Visit/select a bleed mark annotation. |
-| [Visit](./visit/)(*RegistrationMarkAnnotation*) | Visit/select a registration mark annotation. |
-| [Visit](./visit/)(*PageInformationAnnotation*) | Visit/select a page information annotation. |
+| [Visit](./visit/)(BleedMarkAnnotation) | Visit/select a bleed mark annotation. |
+| [Visit](./visit/)(CaretAnnotation) | Visit/select caret annotation. |
+| [Visit](./visit/)(CircleAnnotation) | Visit/select circle annotation. |
+| [Visit](./visit/)(FileAttachmentAnnotation) | Visit/select attachment annotation. |
+| [Visit](./visit/)(FreeTextAnnotation) | Visit/select freetext annotation. |
+| [Visit](./visit/)(HighlightAnnotation) | Visit/select highlight annotation. |
+| [Visit](./visit/)(InkAnnotation) | Visit/select ink annotation. |
+| [Visit](./visit/)(LineAnnotation) | Visit/select line annotation. |
+| [Visit](./visit/)(LinkAnnotation) | Visit/select link annotation. |
+| [Visit](./visit/)(MovieAnnotation) | Visit/select movie annotation. |
+| [Visit](./visit/)(PageInformationAnnotation) | Visit/select a page information annotation. |
+| [Visit](./visit/)(PolygonAnnotation) | Visit/select polygon annotation. |
+| [Visit](./visit/)(PolylineAnnotation) | Visit/select polyline annotation. |
+| [Visit](./visit/)(PopupAnnotation) | Visit/select popup annotation. |
+| [Visit](./visit/)(RegistrationMarkAnnotation) | Visit/select a registration mark annotation. |
+| [Visit](./visit/)(ScreenAnnotation) | Visit/select screen annotation. |
+| [Visit](./visit/)(SquareAnnotation) | Visit/select square annotation. |
+| [Visit](./visit/)(SquigglyAnnotation) | Visit/select squiggly annotation. |
+| [Visit](./visit/)(StampAnnotation) | Visit/select stamp annotation. |
+| [Visit](./visit/)(StrikeOutAnnotation) | Visit/select strikeOut annotation. |
+| [Visit](./visit/)(TextAnnotation) | Visit/select text annotation. |
+| [Visit](./visit/)(TrimMarkAnnotation) | Visit/select a trim mark annotation. |
+| [Visit](./visit/)(UnderlineAnnotation) | Visit/select underline annotation. |
+| [Visit](./visit/)(WidgetAnnotation) | Visit/select widget annotation. |
 
 ### See Also
 

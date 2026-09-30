@@ -5,7 +5,7 @@ articleTitle: "Matrix3D"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Matrix3D class. Class represents transformation matrix."
 type: docs
-weight: 1880
+weight: 1840
 url: "/net/aspose.pdf/matrix3d/"
 keywords: "Matrix3D, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,10 +22,10 @@ public sealed class Matrix3D
 
 | Name | Description |
 | --- | --- |
-| [Matrix3D](./matrix3d/#constructor) | Constructor. |
-| [Matrix3D](./matrix3d/#constructor_1)(*double[]*) | Constructor. |
-| [Matrix3D](./matrix3d/#constructor_2)(*[Matrix3D](../../aspose.pdf/matrix3d/)*) | Constructor. |
-| [Matrix3D](./matrix3d/#constructor_3)(*double, double, double, double, double, double, double, double, double, double, double, double*) | Initializes transformation matrix with specified coefficients. |
+| [Matrix3D](./matrix3d/#constructor)() | Constructor creates standard 1 to 1 matrix: [ A B C D E F G H I Tx Ty Tz] = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0 , 0] |
+| [Matrix3D](./matrix3d/#constructor_1)(double[]) | Constructor accepts a matrix with following array representation: [ A B C D E F G H I Tx Ty Tz] |
+| [Matrix3D](./matrix3d/#constructor_2)(Matrix3D) | Constructor accepts a matrix to create a copy |
+| [Matrix3D](./matrix3d/#constructor_3)(double, double, double, double, double, double, double, double, double, double, double, double) | Initializes transformation matrix with specified coefficients. |
 
 ## Properties
 
@@ -48,11 +48,11 @@ public sealed class Matrix3D
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*Matrix3D*) | Adds matrix to other matrix. |
-| [Equals](./equals/)(*object*) | Compares matrix against other object. |
-| [GetAngle](./getangle/)(*Rotation*) | Translates rotation into angle (degrees). |
-| [GetHashCode](./gethashcode/) | Hash-code for object. |
-| [ToString](./tostring/) | Returns text representation of the matrix. |
+| [Add](./add/)(Matrix3D) | Adds matrix to other matrix. |
+| override [Equals](./equals/)(object) | Compares matrix against other object. |
+| static [GetAngle](./getangle/)(Rotation) | Translates rotation into angle (degrees) |
+| override [GetHashCode](./gethashcode/)() | Hash-code for object. |
+| override [ToString](./tostring/)() | Returns text representation of the matrix. |
 
 ### See Also
 

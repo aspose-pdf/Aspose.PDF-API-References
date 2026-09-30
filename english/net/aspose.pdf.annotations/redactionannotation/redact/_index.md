@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.annotations/redactionannotation/redact/"
 product_version: "26.9.0"
 ---
-## Redact() {#redact}
+## RedactionAnnotation.Redact method
 
 Flattens annotation and redacts page contents (i.e. removes text and image under redacted annotation)
 

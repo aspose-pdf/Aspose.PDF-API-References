@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf/paragraphs/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## Paragraphs.Clone method
 
 Clones a new `Clone` object.
 
@@ -18,8 +18,6 @@ public object Clone()
 ```
 
 ### Return Value
-
-object
 
 The new `Clone` object.
 

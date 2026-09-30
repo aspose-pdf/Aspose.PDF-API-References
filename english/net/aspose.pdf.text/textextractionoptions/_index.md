@@ -22,14 +22,20 @@ public sealed class TextExtractionOptions : TextOptions
 
 | Name | Description |
 | --- | --- |
-| [TextExtractionOptions](./textextractionoptions/#constructor)(*TextFormattingMode*) | Initializes a new instance of the TextExtractionOptions class. |
+| [TextExtractionOptions](./textextractionoptions/)(TextFormattingMode) | Initializes new instance of the [`TextExtractionOptions`](../../aspose.pdf.text/textextractionoptions/) object for the specified text formatting mode. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [FormattingMode](./formattingmode/) { get; set; } | Gets formatting mode. |
-| [ScaleFactor](./scalefactor/) { get; set; } | Gets or sets factor that will be applied to scale font size during extraction in pure mode. |
+| [ScaleFactor](./scalefactor/) { get; set; } | Gets or sets factor that will be applied to scale font size during extraction in pure mode. Setting of less value leads to more spaces in the extracted text. Default value is 1 - no scaling; Setting value to zero allows algorithm choose scaling automatically. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| enum [TextFormattingMode](../../aspose.pdf.text/textextractionoptions.textformattingmode) | Defines different modes which can be used while converting pdf document into text. See `!:TextDevice` class. |
 
 ### See Also
 

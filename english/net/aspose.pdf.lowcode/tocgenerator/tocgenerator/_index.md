@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/tocgenerator/tocgenerator/"
 product_version: "26.9.0"
 ---
-## TocGenerator() {#constructor}
+## TocGenerator constructor
 
 The default constructor.
 

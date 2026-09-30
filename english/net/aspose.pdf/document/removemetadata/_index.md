@@ -9,7 +9,7 @@ weight: 350
 url: "/net/aspose.pdf/document/removemetadata/"
 product_version: "26.9.0"
 ---
-## RemoveMetadata() {#removemetadata}
+## Document.RemoveMetadata method
 
 Removes metadata from the document.
 

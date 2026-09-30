@@ -22,21 +22,21 @@ public sealed class FormExporterValuesToCsvOptions : FormExporterOptions
 
 | Name | Description |
 | --- | --- |
-| [FormExporterValuesToCsvOptions](./formexportervaluestocsvoptions/#constructor)(*[SelectField](../../aspose.pdf.lowcode/selectfield/), char*) | Initializes a new instance of the [`FormExporterValuesToCsvOptions`](../../aspose.pdf.lowcode/formexportervaluestocsvoptions/) object,. |
+| [FormExporterValuesToCsvOptions](./formexportervaluestocsvoptions/)(SelectField, char) | Initializes a new instance of the [`FormExporterValuesToCsvOptions`](../../aspose.pdf.lowcode/formexportervaluestocsvoptions/) object, in which the fields whose data will be exported and the separator for the exported data are specified. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Inputs](../../aspose.pdf.lowcode/formoptions/inputs/) { get; } | Returns Form.... plugins data collection. *(Inherited from FormOptions)* |
-| [Outputs](../../aspose.pdf.lowcode/formoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. *(Inherited from FormOptions)* |
+| [Inputs](../../aspose.pdf.lowcode/formoptions/inputs/) { get; } | Returns Form.... plugins data collection. |
+| [Outputs](../../aspose.pdf.lowcode/formoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.lowcode/formoptions/addinput/)(*IDataSource*) | Adds new data source to the Form... plugins data collection. *(Inherited from FormOptions)* |
-| [AddOutput](../../aspose.pdf.lowcode/formoptions/addoutput/)(*IDataSource*) | Adds new data source to the Form... plugins data collection. *(Inherited from FormOptions)* |
+| [AddInput](../../aspose.pdf.lowcode/formoptions/addinput/)(IDataSource) | Adds new data source to the Form... plugins data collection. |
+| [AddOutput](../../aspose.pdf.lowcode/formoptions/addoutput/)(IDataSource) | Adds new data source to the Form... plugins data collection. |
 
 ### See Also
 

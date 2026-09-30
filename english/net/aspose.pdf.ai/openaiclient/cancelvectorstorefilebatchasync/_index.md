@@ -9,23 +9,22 @@ weight: 30
 url: "/net/aspose.pdf.ai/openaiclient/cancelvectorstorefilebatchasync/"
 product_version: "26.9.0"
 ---
-## CancelVectorStoreFileBatchAsync(string, string, Nullable<CancellationToken>) {#cancelvectorstorefilebatchasync}
+## OpenAIClient.CancelVectorStoreFileBatchAsync method
 
 Cancels a specific vector store file batch asynchronously.
 
 ```csharp
-public Task<VectorStoreFileBatchResponse> CancelVectorStoreFileBatchAsync(string vectorStoreId, string fileBatchId, Nullable<CancellationToken> cancellationToken)
+public Task<VectorStoreFileBatchResponse> CancelVectorStoreFileBatchAsync(string vectorStoreId, 
+    string fileBatchId, CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| vectorStoreId | string | The ID of the vector store containing the file batch to cancel. |
-| fileBatchId | string | The ID of the file batch to cancel. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| vectorStoreId | String | The ID of the vector store containing the file batch to cancel. |
+| fileBatchId | String | The ID of the file batch to cancel. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[VectorStoreFileBatchResponse](../../../aspose.pdf.ai/vectorstorefilebatchresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the response from canceling the file batch.
 

@@ -22,28 +22,29 @@ public sealed class MCRElement : Element
 
 | Name | Description |
 | --- | --- |
-| [ActualText](../../aspose.pdf.structure/element/actualtext/) { get; set; } | (Optional; PDF 1.4) Text that is an exact replacement for the structure element and its children. *(Inherited from Element)* |
-| [Alt](../../aspose.pdf.structure/element/alt/) { get; set; } | (Optional) An alternate description of the structure element and its children in. *(Inherited from Element)* |
-| [Children](../../aspose.pdf.structure/element/children/) { get; } | Gets child elements collection. *(Inherited from Element)* |
-| [E](../../aspose.pdf.structure/element/e/) { get; set; } | (Optional; PDF 1.5) The expanded form of an abbreviation. *(Inherited from Element)* |
-| [Lang](../../aspose.pdf.structure/element/lang/) { get; set; } | (Optional; PDF 1.4) A language specifying the natural language for all text. *(Inherited from Element)* |
+| [ChildElements](../../aspose.pdf.logicalstructure/element/childelements/) { get; } | Gets children collection of [`Element`](../../aspose.pdf.structure/element/) objects. |
 | [MCID](./mcid/) { get; } | Gets MCID of marked-content reference object. |
+| [ParentElement](../../aspose.pdf.logicalstructure/element/parentelement/) { get; } | Get parent element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Remove](../../aspose.pdf.structure/element/remove/) | Remove element. *(Inherited from Element)* |
-| [Tag](./tag/)(*BDC*) | Bind a structure element to the content stream BDC operator. |
-| [Tag](./tag/)(*XForm*) | Bind a structure element to the content stream XForm. |
-| [Tag](./tag/)(*XImage*) | Bind a structure element to the XImage. |
-| [Tag](./tag/)(*Artifact*) | Bind a structure element to the Artifact. |
-| [Tag](./tag/)(*Annotation*) | Bind a structure element to the Annotation. |
-| [ToString](./tostring/) | Returns a string that represents the current object. |
+| [AppendChild](../../aspose.pdf.logicalstructure/element/appendchild/)(Element, bool) | Append [`Element`](../../aspose.pdf.structure/element/) to collection of children. |
+| [ClearChilds](../../aspose.pdf.logicalstructure/element/clearchilds/)() | Clear all childs. |
+| [FindElements](../../aspose.pdf.logicalstructure/element/findelements/)(bool) | Find Elements of a given type |
+| [InsertChild](../../aspose.pdf.logicalstructure/element/insertchild/)(Element, int, bool) | Insert [`Element`](../../aspose.pdf.structure/element/) to collection of children at specified index. |
+| [RemoveChild](../../aspose.pdf.logicalstructure/element/removechild/)(int) | Remove child at. |
+| override [Tag](./tag/)(Annotation) | Bind a structure element to the Annotation. |
+| override [Tag](./tag/)(Artifact) | Bind a structure element to the Artifact. |
+| override [Tag](./tag/)(BDC) | Bind a structure element to the content stream BDC operator. |
+| override [Tag](./tag/)(XForm) | Bind a structure element to the content stream XForm. |
+| override [Tag](./tag/)(XImage) | Bind a structure element to the XImage. |
+| override [ToString](./tostring/)() | Returns a string that represents the current object. |
 
 ### See Also
 
-* class [Element](../../aspose.pdf.structure/element/)
+* class [Element](../element/)
 * namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)
 

@@ -9,7 +9,7 @@ weight: 110
 url: "/net/aspose.pdf/boundscheckablelist-1/removeat/"
 product_version: "26.9.0"
 ---
-## RemoveAt(int) {#removeat}
+## BoundsCheckableList<T>.RemoveAt method
 
 Removes the element at the specified index of the System.Collections.Generic.List.
 
@@ -19,7 +19,7 @@ public void RemoveAt(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | The zero-based index of the element to remove. |
+| index | Int32 | The zero-based index of the element to remove. |
 
 ### Exceptions
 

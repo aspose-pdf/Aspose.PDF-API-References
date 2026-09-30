@@ -9,7 +9,7 @@ weight: 110
 url: "/net/aspose.pdf/ximage/getnameincollection/"
 product_version: "26.9.0"
 ---
-## GetNameInCollection() {#getnameincollection}
+## XImage.GetNameInCollection method
 
 Returns the name of the image in its collection.
 
@@ -18,8 +18,6 @@ public string GetNameInCollection()
 ```
 
 ### Return Value
-
-string
 
 Image key (name).
 

@@ -9,7 +9,7 @@ weight: 350
 url: "/net/aspose.pdf.tagged/itaggedcontent/createannotelement/"
 product_version: "26.9.0"
 ---
-## CreateAnnotElement() {#createannotelement}
+## ITaggedContent.CreateAnnotElement method
 
 Creates [`AnnotElement`](../../../aspose.pdf.logicalstructure/annotelement/).
 
@@ -18,8 +18,6 @@ public AnnotElement CreateAnnotElement()
 ```
 
 ### Return Value
-
-[AnnotElement](../../../aspose.pdf.logicalstructure/annotelement/)
 
 Created structure element.
 

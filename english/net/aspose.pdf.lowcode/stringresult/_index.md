@@ -32,9 +32,9 @@ public sealed class StringResult : IOperationResult
 
 | Name | Description |
 | --- | --- |
-| [ToFile](./tofile/) | Tries to convert the result to a file. |
-| [ToStream](./tostream/) | Tries to convert the result to a stream object. |
-| [ToString](./tostring/) | Tries to convert the result to a string. |
+| [ToFile](./tofile/)() | Tries to convert the result to a file. |
+| [ToStream](./tostream/)() | Tries to convert the result to a stream object. |
+| override [ToString](./tostring/)() | Tries to convert the result to a string. |
 
 ### See Also
 

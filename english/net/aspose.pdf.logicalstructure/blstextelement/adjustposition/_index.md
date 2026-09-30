@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.logicalstructure/blstextelement/adjustposition/"
 product_version: "26.9.0"
 ---
-## AdjustPosition([PositionSettings](../../../aspose.pdf.tagged/positionsettings/)) {#adjustposition}
+## BLSTextElement.AdjustPosition method
 
 
 
@@ -23,6 +23,7 @@ public void AdjustPosition(PositionSettings positionSettings)
 
 ### See Also
 
+* class [PositionSettings](../../../aspose.pdf.tagged/positionsettings/)
 * class [BLSTextElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

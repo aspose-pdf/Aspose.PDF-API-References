@@ -14,11 +14,12 @@ product_version: "26.9.0"
 Gets/sets the value to determine property Highlighting for created/modified field (if will be set).
 
 ```csharp
-public Nullable<HighlightingMode> Highlighting;
+public HighlightingMode? Highlighting;
 ```
 
 ### See Also
 
+* enum [HighlightingMode](../../../aspose.pdf.annotations/highlightingmode/)
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

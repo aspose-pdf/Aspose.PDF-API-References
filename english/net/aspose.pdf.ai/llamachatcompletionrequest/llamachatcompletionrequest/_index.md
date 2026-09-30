@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/llamachatcompletionrequest/llamachatcompletionrequest/"
 product_version: "26.9.0"
 ---
-## LlamaChatCompletionRequest() {#constructor}
+## LlamaChatCompletionRequest constructor
 
 The default constructor.
 

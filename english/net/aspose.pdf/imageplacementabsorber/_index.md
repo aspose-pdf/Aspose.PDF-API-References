@@ -5,7 +5,7 @@ articleTitle: "ImagePlacementAbsorber"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.ImagePlacementAbsorber class. Represents an absorber object of image placement objects. Performs search of image usages and provides access to sea..."
 type: docs
-weight: 1540
+weight: 1530
 url: "/net/aspose.pdf/imageplacementabsorber/"
 keywords: "ImagePlacementAbsorber, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -23,21 +23,21 @@ public sealed class ImagePlacementAbsorber
 
 | Name | Description |
 | --- | --- |
-| [ImagePlacementAbsorber](./imageplacementabsorber/#constructor) | The default constructor. |
+| [ImagePlacementAbsorber](./imageplacementabsorber/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [ImagePlacements](./imageplacements/) { get; } | Gets collection of image placement occurrences that are presented with [`ImagePlacement`](../../aspose.pdf/imageplacement/) objects. |
-| [IsReadOnlyMode](./isreadonlymode/) { get; set; } | Gets/sets read only mode for parsing operations collection. It may help against out of memory. |
+| [IsReadOnlyMode](./isreadonlymode/) { get; set; } | Gets/sets read only mode for parsing operations collection. It may help against out of memory exceptions. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Visit](./visit/)(*Page*) | Performs search on the specified page. |
-| [Visit](./visit/)(*Document*) | Performs search on the specified document. |
+| [Visit](./visit/)(Document) | Performs search on the specified document. |
+| [Visit](./visit/)(Page) | Performs search on the specified page. |
 
 ## Remarks
 

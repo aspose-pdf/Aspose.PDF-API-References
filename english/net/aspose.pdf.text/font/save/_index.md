@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.text/font/save/"
 product_version: "26.9.0"
 ---
-## Save(Stream) {#save}
+## Font.Save method
 
 Saves the font into the stream.
  Note that the font is saved to intermediate TTF format intended to be used in a converted copy of the original document only.

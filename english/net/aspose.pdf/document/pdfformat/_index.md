@@ -19,7 +19,7 @@ public PdfFormat PdfFormat { get; }
 
 ### See Also
 
-* class [PdfFormat](../../../aspose.pdf/pdfformat/)
+* enum [PdfFormat](../../../aspose.pdf/pdfformat/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

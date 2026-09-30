@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets text of operator.
 
 ```csharp
-public string Text { get; }
+public override string Text { get; }
 ```
 
 ### See Also

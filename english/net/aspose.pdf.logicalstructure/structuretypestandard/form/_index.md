@@ -20,7 +20,6 @@ public static readonly StructureTypeStandard Form;
 ### See Also
 
 * class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
-* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

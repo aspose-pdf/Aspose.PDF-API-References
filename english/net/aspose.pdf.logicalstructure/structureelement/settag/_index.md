@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf.logicalstructure/structureelement/settag/"
 product_version: "26.9.0"
 ---
-## SetTag(string) {#settag}
+## StructureElement.SetTag method
 
 Sets custom tag for structure element.
 
@@ -19,7 +19,7 @@ public void SetTag(string newTag)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newTag | string | Tag name |
+| newTag | String | Tag name |
 
 ### See Also
 

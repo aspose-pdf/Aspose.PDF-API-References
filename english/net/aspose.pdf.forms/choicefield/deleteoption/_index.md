@@ -9,17 +9,17 @@ weight: 60
 url: "/net/aspose.pdf.forms/choicefield/deleteoption/"
 product_version: "26.9.0"
 ---
-## DeleteOption(string) {#deleteoption}
+## ChoiceField.DeleteOption method
 
 Deletes option by its name.
 
 ```csharp
-public void DeleteOption(string optionName)
+public virtual void DeleteOption(string optionName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| optionName | string | Name of the option which must be deleted. |
+| optionName | String | Name of the option which must be deleted. |
 
 ### See Also
 

@@ -19,11 +19,9 @@ public bool Contains(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | The key of entry to find. |
+| key | String | The key of entry to find. |
 
 ### Return Value
-
-bool
 
 True if key is contained in the metadata.
 
@@ -45,11 +43,9 @@ public bool Contains(KeyValuePair<string, XmpValue> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair<string, XmpValue> | Key-value pair. |
+| item | KeyValuePair`2 | Key-value pair. |
 
 ### Return Value
-
-bool
 
 true if this pauir was found.
 

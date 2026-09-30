@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.flow/istructurerecognitionvisitor/visitsectionend/"
 product_version: "26.9.0"
 ---
-## VisitSectionEnd([MarginInfo](../../../aspose.pdf/margininfo/)) {#visitsectionend}
+## IStructureRecognitionVisitor.VisitSectionEnd method
 
 Visits the end of a recognized section in the document.
 
@@ -23,6 +23,7 @@ public void VisitSectionEnd(MarginInfo marginInfo)
 
 ### See Also
 
+* class [MarginInfo](../../../aspose.pdf/margininfo/)
 * interface [IStructureRecognitionVisitor](../)
 * namespace [Aspose.Pdf.Flow](../../../aspose.pdf.flow/)
 * assembly [Aspose.PDF](../../../)

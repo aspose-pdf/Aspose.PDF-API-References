@@ -5,7 +5,7 @@ articleTitle: "PdfFileEditor.ContentsResizeValue"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.PdfFileEditor.ContentsResizeValue class. Value of margin or content size specified in percents of default space units. This class is used ..."
 type: docs
-weight: 380
+weight: 370
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/"
 keywords: "PdfFileEditor.ContentsResizeValue, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -23,7 +23,7 @@ public class ContentsResizeValue
 
 | Name | Description |
 | --- | --- |
-| [IsPercent](./ispercent/) { get; } | Gets true if value is expressed in percents;. |
+| [IsPercent](./ispercent/) { get; } | Gets true if value is expressed in percents; False if value is expressed in default units. |
 | [PercentValue](./percentvalue/) { set; } | Sets value in percents of page size. |
 | [UnitValue](./unitvalue/) { set; } | Sets value in default space units. |
 | [Value](./value/) { get; } | Gets specified value. Use Unit property to get value units. |
@@ -32,9 +32,9 @@ public class ContentsResizeValue
 
 | Name | Description |
 | --- | --- |
-| [Auto](./auto/) | Initializes automatically calculated value. |
-| [Percents](./percents/)(*double*) | Initializes value in percents. |
-| [Units](./units/)(*double*) | Initializes value in default space units. |
+| static [Auto](./auto/)() | Initializes automatically calculated value. |
+| static [Percents](./percents/)(double) | Initializes value in percents. |
+| static [Units](./units/)(double) | Initializes value in default space units. |
 
 ### See Also
 

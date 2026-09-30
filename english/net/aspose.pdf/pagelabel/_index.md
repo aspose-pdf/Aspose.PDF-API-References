@@ -5,7 +5,7 @@ articleTitle: "PageLabel"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.PageLabel class. Class representing Page Label range."
 type: docs
-weight: 2230
+weight: 2190
 url: "/net/aspose.pdf/pagelabel/"
 keywords: "PageLabel, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public class PageLabel
 
 | Name | Description |
 | --- | --- |
-| [PageLabel](./pagelabel/#constructor) | Constructor for page label. |
+| [PageLabel](./pagelabel/)() | Constructor for page label. |
 
 ## Properties
 

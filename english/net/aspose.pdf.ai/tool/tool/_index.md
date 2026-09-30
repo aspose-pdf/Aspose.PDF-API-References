@@ -25,27 +25,7 @@ public Tool()
 
 ---
 
-## Tool(string) {#constructor_1}
-
-Initializes a new instance of the [`Tool`](../../../aspose.pdf.ai/tool/) class with the specified tool type.
-
-```csharp
-public Tool(string toolType)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| toolType | string | The type of the tool. |
-
-### See Also
-
-* class [Tool](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Tool([Function](../../../aspose.pdf.ai/function/)) {#constructor_2}
+## Tool([Function](../../../aspose.pdf.ai/function/)) {#constructor_1}
 
 Initializes a new instance of the [`Tool`](../../../aspose.pdf.ai/tool/) class with the specified function.
 
@@ -56,6 +36,27 @@ public Tool(Function function)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | function | Function | The function that the model can call. |
+
+### See Also
+
+* class [Function](../../../aspose.pdf.ai/function/)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Tool(string) {#constructor_2}
+
+Initializes a new instance of the [`Tool`](../../../aspose.pdf.ai/tool/) class with the specified tool type.
+
+```csharp
+public Tool(string toolType)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| toolType | String | The type of the tool. |
 
 ### See Also
 

@@ -19,7 +19,7 @@ public AIClientException(string message)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | string | The error message that describes the exception. |
+| message | String | The error message that describes the exception. |
 
 ### See Also
 
@@ -40,7 +40,7 @@ public AIClientException(string message, Exception innerException)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | string | The error message that describes the exception. |
+| message | String | The error message that describes the exception. |
 | innerException | Exception | The exception that is the cause of the current exception. |
 
 ### See Also

@@ -22,17 +22,17 @@ public class ComparisonOptions
 
 | Name | Description |
 | --- | --- |
-| [ComparisonOptions](./comparisonoptions/#constructor) | The default constructor. |
+| [ComparisonOptions](./comparisonoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [EditOperationsOrder](./editoperationsorder/) { get; set; } | Gets and sets the edit operations order. |
-| [ExcludeAreas1](./excludeareas1/) { get; set; } | Get and set the exclude areas. Used for the first page or document in the comparison method. |
-| [ExcludeAreas2](./excludeareas2/) { get; set; } | Get and set the exclude areas. Used for the second page or document in the comparison method. |
-| [ExcludeTables](./excludetables/) { get; set; } | Get and set the option that determines whether tables are excluded from comparison. |
-| [ExtractionArea](./extractionarea/) { get; set; } | Get and set the rectangular area in which the text of pages will be compared. |
+| [ExcludeAreas1](./excludeareas1/) { get; set; } | Get and set the exclude areas. Used for the first page or document in the comparison method. This option can be setted along with `ExcludeTables`. This option can't be setted along with `ExtractionArea` option. |
+| [ExcludeAreas2](./excludeareas2/) { get; set; } | Get and set the exclude areas. Used for the second page or document in the comparison method. This option can be setted along with `ExcludeTables`. This option can't be setted along with `ExtractionArea` option. |
+| [ExcludeTables](./excludetables/) { get; set; } | Get and set the option that determines whether tables are excluded from comparison. This option cannot be set together with `ExtractionArea` option. The default value is `false`. |
+| [ExtractionArea](./extractionarea/) { get; set; } | Get and set the rectangular area in which the text of pages will be compared. This option can't be setted along with `ExcludeTables`, `ExcludeAreas1` and `ExcludeAreas2` options. |
 
 ### See Also
 

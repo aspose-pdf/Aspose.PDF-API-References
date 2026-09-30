@@ -25,7 +25,52 @@ public JpegDevice()
 
 ---
 
-## JpegDevice([Resolution](../../../aspose.pdf.devices/resolution/)) {#constructor_1}
+## JpegDevice(int) {#constructor_1}
+
+Initializes a new instance of the [`JpegDevice`](../../../aspose.pdf.devices/jpegdevice/) class.
+
+```csharp
+public JpegDevice(int quality)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| quality | Int32 | Specifies the level of compression for an image. 
+ The range of useful values for the quality is from 0 to 100. 
+ The lower the number specified, the higher the compression and therefore the lower the quality of the image. 
+ Zero would give you the lowest quality image and 100 the highest. |
+
+### See Also
+
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## JpegDevice([PageSize](../../../aspose.pdf/pagesize/)) {#constructor_2}
+
+Initializes a new instance of the [`JpegDevice`](../../../aspose.pdf.devices/jpegdevice/) class with provided page size, 
+ default resolution (=150) and maximum quality.
+
+```csharp
+public JpegDevice(PageSize pageSize)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageSize | PageSize | Page size of the output image. |
+
+### See Also
+
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## JpegDevice([Resolution](../../../aspose.pdf.devices/resolution/)) {#constructor_3}
 
 Initializes a new instance of the [`JpegDevice`](../../../aspose.pdf.devices/jpegdevice/) class.
  
@@ -41,81 +86,14 @@ public JpegDevice(Resolution resolution)
 
 ### See Also
 
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [JpegDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## JpegDevice(int) {#constructor_2}
-
-Initializes a new instance of the [`JpegDevice`](../../../aspose.pdf.devices/jpegdevice/) class.
-
-```csharp
-public JpegDevice(int quality)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| quality | int | Specifies the level of compression for an image. 
- The range of useful values for the quality is from 0 to 100. 
- The lower the number specified, the higher the compression and therefore the lower the quality of the image. 
- Zero would give you the lowest quality image and 100 the highest. |
-
-### See Also
-
-* class [JpegDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## JpegDevice([PageSize](../../../aspose.pdf/pagesize/)) {#constructor_3}
-
-Initializes a new instance of the [`JpegDevice`](../../../aspose.pdf.devices/jpegdevice/) class with provided page size, 
- default resolution (=150) and maximum quality.
-
-```csharp
-public JpegDevice(PageSize pageSize)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | PageSize | Page size of the output image. |
-
-### See Also
-
-* class [JpegDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## JpegDevice([Resolution](../../../aspose.pdf.devices/resolution/), int) {#constructor_4}
-
-Initializes a new instance of the [`JpegDevice`](../../../aspose.pdf.devices/jpegdevice/) class.
-
-```csharp
-public JpegDevice(Resolution resolution, int quality)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resolution | Resolution | Resolution for the result image file, see <see cref="T:Aspose.Pdf.Devices.Resolution" /> class. |
-| quality | int | Specifies the level of compression for an image. 
- The range of useful values for the quality is from 0 to 100. 
- The lower the number specified, the higher the compression and therefore the lower the quality of the image. 
- Zero would give you the lowest quality image and 100 the highest. |
-
-### See Also
-
-* class [JpegDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## JpegDevice(int, int) {#constructor_5}
+## JpegDevice(int, int) {#constructor_4}
 
 Initializes a new instance of the [`JpegDevice`](../../../aspose.pdf.devices/jpegdevice/) class with provided image dimensions, 
  default resolution (=150) and maximum quality.
@@ -126,8 +104,8 @@ public JpegDevice(int width, int height)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
+| width | Int32 | Image output width. |
+| height | Int32 | Image output height. |
 
 ### See Also
 
@@ -137,7 +115,7 @@ public JpegDevice(int width, int height)
 
 ---
 
-## JpegDevice([PageSize](../../../aspose.pdf/pagesize/), [Resolution](../../../aspose.pdf.devices/resolution/)) {#constructor_6}
+## JpegDevice([PageSize](../../../aspose.pdf/pagesize/), [Resolution](../../../aspose.pdf.devices/resolution/)) {#constructor_5}
 
 Initializes a new instance of the [`JpegDevice`](../../../aspose.pdf.devices/jpegdevice/) class with provided page size, 
  resolution and maximum quality.
@@ -153,6 +131,33 @@ public JpegDevice(PageSize pageSize, Resolution resolution)
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## JpegDevice([Resolution](../../../aspose.pdf.devices/resolution/), int) {#constructor_6}
+
+Initializes a new instance of the [`JpegDevice`](../../../aspose.pdf.devices/jpegdevice/) class.
+
+```csharp
+public JpegDevice(Resolution resolution, int quality)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| resolution | Resolution | Resolution for the result image file, see <see cref="T:Aspose.Pdf.Devices.Resolution" /> class. |
+| quality | Int32 | Specifies the level of compression for an image. 
+ The range of useful values for the quality is from 0 to 100. 
+ The lower the number specified, the higher the compression and therefore the lower the quality of the image. 
+ Zero would give you the lowest quality image and 100 the highest. |
+
+### See Also
+
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [JpegDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
@@ -170,12 +175,13 @@ public JpegDevice(int width, int height, Resolution resolution)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
+| width | Int32 | Image output width. |
+| height | Int32 | Image output height. |
 | resolution | Resolution | Resolution for the result image file, see <see cref="T:Aspose.Pdf.Devices.Resolution" /> class. |
 
 ### See Also
 
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [JpegDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
@@ -195,13 +201,15 @@ public JpegDevice(PageSize pageSize, Resolution resolution, int quality)
 | --- | --- | --- |
 | pageSize | PageSize | Page size of the output image. |
 | resolution | Resolution | Resolution for the result image file, see <see cref="T:Aspose.Pdf.Devices.Resolution" /> class. |
-| quality | int | Specifies the level of compression for an image. 
+| quality | Int32 | Specifies the level of compression for an image. 
  The range of useful values for the quality is from 0 to 100. 
  The lower the number specified, the higher the compression and therefore the lower the quality of the image. 
  Zero would give you the lowest quality image and 100 the highest. |
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [JpegDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
@@ -219,16 +227,17 @@ public JpegDevice(int width, int height, Resolution resolution, int quality)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
+| width | Int32 | Image output width. |
+| height | Int32 | Image output height. |
 | resolution | Resolution | Resolution for the result image file, see <see cref="T:Aspose.Pdf.Devices.Resolution" /> class. |
-| quality | int | Specifies the level of compression for an image. 
+| quality | Int32 | Specifies the level of compression for an image. 
  The range of useful values for the quality is from 0 to 100. 
  The lower the number specified, the higher the compression and therefore the lower the quality of the image. 
  Zero would give you the lowest quality image and 100 the highest. |
 
 ### See Also
 
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [JpegDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

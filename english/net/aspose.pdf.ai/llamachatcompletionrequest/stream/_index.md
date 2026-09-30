@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Sets or gets whether to stream the response.
 
 ```csharp
-public Nullable<bool> Stream { get; set; }
+public bool? Stream { get; set; }
 ```
 
 ### See Also

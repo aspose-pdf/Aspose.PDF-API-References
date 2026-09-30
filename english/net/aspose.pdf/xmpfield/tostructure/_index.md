@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf/xmpfield/tostructure/"
 product_version: "26.9.0"
 ---
-## ToStructure() {#tostructure}
+## XmpField.ToStructure method
 
 Gets value as a structure.
 
@@ -19,14 +19,11 @@ public XmpField[] ToStructure()
 
 ### Return Value
 
-[XmpField](../../../aspose.pdf/xmpfield/)[]
-
 The tructure.
 
 ### See Also
 
 * class [XmpField](../../../aspose.pdf/xmpfield/)
-* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

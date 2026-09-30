@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/threadmessagelistqueryparameters/threadmessagelistqueryparameters/"
 product_version: "26.9.0"
 ---
-## ThreadMessageListQueryParameters() {#constructor}
+## ThreadMessageListQueryParameters constructor
 
 The default constructor.
 

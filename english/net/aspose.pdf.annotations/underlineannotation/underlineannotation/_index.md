@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/underlineannotation/underlineannotation/"
 product_version: "26.9.0"
 ---
-## UnderlineAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
+## UnderlineAnnotation constructor
 
 Creates new Underline annotation on the specified page.
 
@@ -24,6 +24,8 @@ public UnderlineAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [UnderlineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

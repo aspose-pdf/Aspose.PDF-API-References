@@ -39,6 +39,7 @@ public Cell(Rectangle rect)
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

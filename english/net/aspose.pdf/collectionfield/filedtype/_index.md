@@ -20,7 +20,7 @@ public FieldValueType FiledType { get; }
 
 ### See Also
 
-* class [FieldValueType](../../../aspose.pdf/fieldvaluetype/)
+* enum [FieldValueType](../../../aspose.pdf/fieldvaluetype/)
 * class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

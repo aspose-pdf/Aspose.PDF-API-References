@@ -5,7 +5,7 @@ articleTitle: "MinimalLineWidth"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "HtmlSaveOptions property. This attribute sets minimal width of graphic path line. If thickness of line is less than 1px Adobe Acrobat rounds it to this value..."
 type: docs
-weight: 220
+weight: 210
 url: "/net/aspose.pdf/htmlsaveoptions/minimallinewidth/"
 product_version: "26.9.0"
 ---

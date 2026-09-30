@@ -5,7 +5,7 @@ articleTitle: "ReturnAction"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.ReturnAction enum. Enum represented a program workflow action in case of invoking the Warning method."
 type: docs
-weight: 2680
+weight: 2640
 url: "/net/aspose.pdf/returnaction/"
 product_version: "26.9.0"
 ---

@@ -22,7 +22,7 @@ public class FileSaveTarget : ISaveTarget
 
 | Name | Description |
 | --- | --- |
-| [FileSaveTarget](./filesavetarget/#constructor)(*string*) | Initializes new file save target with specified path. |
+| [FileSaveTarget](./filesavetarget/)(string) | Initializes new file save target with specified path. |
 
 ## Properties
 

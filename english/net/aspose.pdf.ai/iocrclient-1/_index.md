@@ -9,12 +9,12 @@ weight: 560
 url: "/net/aspose.pdf.ai/iocrclient-1/"
 product_version: "26.9.0"
 ---
-## IOcrClient<TOptions> interface
+## IOcrClient&lt;TOptions&gt; interface
 
 Represents an interface for a OCR client with specific options.
 
 ```csharp
-public interface IOcrClient<TOptions><TOptions>
+public interface IOcrClient<in TOptions> : IAIClient
 ```
 
 ## Type Parameters
@@ -27,7 +27,7 @@ public interface IOcrClient<TOptions><TOptions>
 
 | Name | Description |
 | --- | --- |
-| [GetOcrCopilot](./getocrcopilot/)(*IOcrCopilotOptions<T0>*) | Gets an instance of [`IOcrCopilot`](../../aspose.pdf.ai/iocrcopilot/) with the specified options. |
+| [GetOcrCopilot](./getocrcopilot/)(IOcrCopilotOptions<TOptions>) | Gets an instance of [`IOcrCopilot`](../../aspose.pdf.ai/iocrcopilot/) with the specified options. |
 
 ### See Also
 

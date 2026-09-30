@@ -22,23 +22,23 @@ public class CurveTo1 : Operator
 
 | Name | Description |
 | --- | --- |
-| [CurveTo1](./curveto1/#constructor)(*double, double, double, double*) | Initializes curve operator. |
+| [CurveTo1](./curveto1/)(double, double, double, double) | Initializes curve operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. *(Inherited from Operator)* |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
 | [Points](./points/) { get; } | Points of the curve. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Accept](./accept/)(*IOperatorSelector*) | Accepts operator selector. |
-| [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(*Operator*) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc). *(Inherited from Operator)* |
-| [ToString](../../aspose.pdf/operator/tostring/) | Returns text of operator and its parameters. *(Inherited from Operator)* |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(*Operator*) | Compares this instance with the given object. *(Inherited from Operator)* |
+| override [Accept](./accept/)(IOperatorSelector) | Accepts operator selector. |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 

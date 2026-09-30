@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf.ai/filecontentresponse-1/filecontentresponse/"
 product_version: "26.9.0"
 ---
-## FileContentResponse<T>() {#constructor}
+## FileContentResponse constructor
 
 The default constructor.
 
 ```csharp
-public FileContentResponse<T>()
+public FileContentResponse()
 ```
 
 ### See Also

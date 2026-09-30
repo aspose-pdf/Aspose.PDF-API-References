@@ -23,6 +23,7 @@ public CaretAnnotation(Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [CaretAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -44,6 +45,8 @@ public CaretAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [CaretAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

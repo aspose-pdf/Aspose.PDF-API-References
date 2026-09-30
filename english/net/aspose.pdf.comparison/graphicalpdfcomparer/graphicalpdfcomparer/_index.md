@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/graphicalpdfcomparer/"
 product_version: "26.9.0"
 ---
-## GraphicalPdfComparer() {#constructor}
+## GraphicalPdfComparer constructor
 
 The default constructor.
 

@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withmodel/"
 product_version: "26.9.0"
 ---
-## WithModel(string) {#withmodel}
+## OpenAIOcrCopilotOptions.WithModel method
 
 Sets the model.
 
@@ -19,18 +19,15 @@ public OpenAIOcrCopilotOptions WithModel(string model)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| model | string | The model to set. |
+| model | String | The model to set. |
 
 ### Return Value
-
-[OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
 
 The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
 ### See Also
 
 * class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
-* class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

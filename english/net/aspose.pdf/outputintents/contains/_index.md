@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/outputintents/contains/"
 product_version: "26.9.0"
 ---
-## Contains([OutputIntent](../../../aspose.pdf/outputintent/)) {#contains}
+## OutputIntents.Contains method
 
 Determines whether the collection contains a specific output intent.
 
@@ -23,12 +23,11 @@ public bool Contains(OutputIntent item)
 
 ### Return Value
 
-bool
-
  if *item* is found in the collection; otherwise, .
 
 ### See Also
 
+* class [OutputIntent](../../../aspose.pdf/outputintent/)
 * class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

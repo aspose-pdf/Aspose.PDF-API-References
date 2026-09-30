@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets/sets the value to determine whether created CheckboxField is checked or not (if will be set).
 
 ```csharp
-public Nullable<bool> Checked { get; set; }
+public bool? Checked { get; set; }
 ```
 
 ### See Also

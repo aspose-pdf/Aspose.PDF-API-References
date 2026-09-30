@@ -25,6 +25,9 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [PDF3DArtwork](../../../aspose.pdf.annotations/pdf3dartwork/)
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -36,7 +39,8 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork)
 Initializes a new instance of the [`PDF3DAnnotation`](../../../aspose.pdf.annotations/pdf3dannotation/) class.
 
 ```csharp
-public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork, PDF3DActivation activation)
+public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork, 
+    PDF3DActivation activation)
 ```
 
 | Parameter | Type | Description |
@@ -54,6 +58,10 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork, PDF
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [PDF3DArtwork](../../../aspose.pdf.annotations/pdf3dartwork/)
+* enum [PDF3DActivation](../../../aspose.pdf.annotations/pdf3dactivation/)
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

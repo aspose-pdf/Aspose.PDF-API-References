@@ -9,17 +9,15 @@ weight: 10
 url: "/net/aspose.pdf.annotations/customexplicitdestination/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## CustomExplicitDestination.ToString method
 
 Converts to page number.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 Page number.
 

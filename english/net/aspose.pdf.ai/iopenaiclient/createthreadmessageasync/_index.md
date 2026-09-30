@@ -9,23 +9,22 @@ weight: 70
 url: "/net/aspose.pdf.ai/iopenaiclient/createthreadmessageasync/"
 product_version: "26.9.0"
 ---
-## CreateThreadMessageAsync(string, [ThreadMessageCreateRequest](../../../aspose.pdf.ai/threadmessagecreaterequest/), Nullable<CancellationToken>) {#createthreadmessageasync}
+## IOpenAIClient.CreateThreadMessageAsync method
 
 Creates a new message within a thread asynchronously.
 
 ```csharp
-public Task<ThreadMessageResponse> CreateThreadMessageAsync(string threadId, ThreadMessageCreateRequest threadMessageRequest, Nullable<CancellationToken> cancellationToken)
+public Task<ThreadMessageResponse> CreateThreadMessageAsync(string threadId, 
+    ThreadMessageCreateRequest threadMessageRequest, CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threadId | string | The ID of the thread where the message will be created. |
+| threadId | String | The ID of the thread where the message will be created. |
 | threadMessageRequest | ThreadMessageCreateRequest | The request details for creating the message. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[ThreadMessageResponse](../../../aspose.pdf.ai/threadmessageresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the response from the message creation.
 
@@ -37,6 +36,7 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
+* class [ThreadMessageCreateRequest](../../../aspose.pdf.ai/threadmessagecreaterequest/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

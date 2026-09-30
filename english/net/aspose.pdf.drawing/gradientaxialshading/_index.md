@@ -22,8 +22,8 @@ public class GradientAxialShading : PatternColorSpace
 
 | Name | Description |
 | --- | --- |
-| [GradientAxialShading](./gradientaxialshading/#constructor) | Initializes a new instance of the [`GradientAxialShading`](../../aspose.pdf.drawing/gradientaxialshading/) class. |
-| [GradientAxialShading](./gradientaxialshading/#constructor_1)(*[Color](../../aspose.pdf/color/), [Color](../../aspose.pdf/color/)*) | Initializes a new instance of the [`GradientAxialShading`](../../aspose.pdf.drawing/gradientaxialshading/) class. |
+| [GradientAxialShading](./gradientaxialshading/#constructor)() | Initializes a new instance of the [`GradientAxialShading`](../../aspose.pdf.drawing/gradientaxialshading/) class. |
+| [GradientAxialShading](./gradientaxialshading/#constructor_1)(Color, Color) | Initializes a new instance of the [`GradientAxialShading`](../../aspose.pdf.drawing/gradientaxialshading/) class. |
 
 ## Properties
 

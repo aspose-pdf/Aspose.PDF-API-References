@@ -19,7 +19,7 @@ public ScalingReason ScalingReason { get; set; }
 
 ### See Also
 
-* class [ScalingReason](../../../aspose.pdf.forms/scalingreason/)
+* enum [ScalingReason](../../../aspose.pdf.forms/scalingreason/)
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

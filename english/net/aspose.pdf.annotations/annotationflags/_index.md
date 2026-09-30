@@ -14,6 +14,7 @@ product_version: "26.9.0"
 A set of flags specifying various characteristics of the annotation.
 
 ```csharp
+[Flags]
 public enum AnnotationFlags
 ```
 

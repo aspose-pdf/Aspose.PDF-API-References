@@ -35,7 +35,7 @@ public sealed class TextExtractionErrorLocation
 
 | Name | Description |
 | --- | --- |
-| [ToString](./tostring/) | Returns string representation. |
+| override [ToString](./tostring/)() | Returns string representation. |
 
 ### See Also
 

@@ -19,7 +19,7 @@ public TextIcon Icon { get; set; }
 
 ### See Also
 
-* class [TextIcon](../../../aspose.pdf.annotations/texticon/)
+* enum [TextIcon](../../../aspose.pdf.annotations/texticon/)
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

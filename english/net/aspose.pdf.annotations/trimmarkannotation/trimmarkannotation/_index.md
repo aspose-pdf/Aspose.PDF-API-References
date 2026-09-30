@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/trimmarkannotation/trimmarkannotation/"
 product_version: "26.9.0"
 ---
-## TrimMarkAnnotation([Page](../../../aspose.pdf/page/), [PrinterMarkCornerPosition](../../../aspose.pdf.annotations/printermarkcornerposition/)) {#constructor}
+## TrimMarkAnnotation constructor
 
 Initializes a new instance of the [`TrimMarkAnnotation`](../../../aspose.pdf.annotations/trimmarkannotation/) class.
 
@@ -26,6 +26,8 @@ public TrimMarkAnnotation(Page page, PrinterMarkCornerPosition position)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* enum [PrinterMarkCornerPosition](../../../aspose.pdf.annotations/printermarkcornerposition/)
 * class [TrimMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

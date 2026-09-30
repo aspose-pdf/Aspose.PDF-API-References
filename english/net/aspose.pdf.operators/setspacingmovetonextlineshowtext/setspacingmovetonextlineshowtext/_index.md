@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/setspacingmovetonextlineshowtext/"
 product_version: "26.9.0"
 ---
-## SetSpacingMoveToNextLineShowText(double, double, string) {#constructor}
+## SetSpacingMoveToNextLineShowText constructor
 
 Initializes operator.
 
@@ -19,9 +19,9 @@ public SetSpacingMoveToNextLineShowText(double aw, double ac, string text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| aw | double | Word spacing. |
-| ac | double | Character spacing. |
-| text | string | Text value. |
+| aw | Double | Word spacing. |
+| ac | Double | Character spacing. |
+| text | String | Text value. |
 
 ### See Also
 

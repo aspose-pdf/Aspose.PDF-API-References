@@ -9,12 +9,12 @@ weight: 580
 url: "/net/aspose.pdf.ai/iocrcopilotoptions-1/"
 product_version: "26.9.0"
 ---
-## IOcrCopilotOptions<TOptions> interface
+## IOcrCopilotOptions&lt;TOptions&gt; interface
 
 Represents an interface for chat copilot options with a specific type.
 
 ```csharp
-public interface IOcrCopilotOptions<TOptions><TOptions>
+public interface IOcrCopilotOptions<out TOptions>
 ```
 
 ## Type Parameters

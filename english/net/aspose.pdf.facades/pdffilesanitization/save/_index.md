@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Saves the result PDF to file.
 
 ```csharp
-public void Save(string outputFile)
+public override void Save(string outputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | output pdf file |
+| outputFile | String | output pdf file |
 
 ### See Also
 
@@ -34,7 +34,7 @@ public void Save(string outputFile)
 Saves the result PDF to stream.
 
 ```csharp
-public void Save(Stream outputStream)
+public override void Save(Stream outputStream)
 ```
 
 | Parameter | Type | Description |

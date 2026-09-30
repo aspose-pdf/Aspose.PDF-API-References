@@ -22,14 +22,14 @@ public sealed class SimpleFontSubstitution : FontSubstitution
 
 | Name | Description |
 | --- | --- |
-| [SimpleFontSubstitution](./simplefontsubstitution/#constructor)(*string, string, bool*) | Initializes a new instance of [`SimpleFontSubstitution`](../../aspose.pdf.text/simplefontsubstitution/) class. |
+| [SimpleFontSubstitution](./simplefontsubstitution/)(string, string, bool) | Initializes a new instance of [`SimpleFontSubstitution`](../../aspose.pdf.text/simplefontsubstitution/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [OriginalFontName](./originalfontname/) { get; } | Gets original font name that should be substituted with `SubstitutionFontName`. |
-| [SubstitutionFontName](./substitutionfontname/) { get; } | Gets font name that should substitute the `OriginalFontName`. |
+| [OriginalFontName](./originalfontname/) { get; } | Gets original font name that should be substituted with `SubstitutionFontName` |
+| [SubstitutionFontName](./substitutionfontname/) { get; } | Gets font name that should substitute the `OriginalFontName` |
 
 ### See Also
 

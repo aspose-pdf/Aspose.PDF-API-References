@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/psloadoptions/psloadoptions/"
 product_version: "26.9.0"
 ---
-## PsLoadOptions() {#constructor}
+## PsLoadOptions constructor
 
 The default constructor.
 

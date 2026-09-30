@@ -22,10 +22,10 @@ public sealed class VerificationResult
 
 | Name | Description |
 | --- | --- |
-| [IsCompromised](./iscompromised/) { get; } | Indicates whether the digital signature structure is likely compromised. |
-| [Message](./message/) { get; } | Gets the message associated with the verification result. The property value provides additional details. |
-| [State](./state/) { get; } | Represents the verification state of a digital signature in a PDF file. |
-| [VerificationException](./verificationexception/) { get; } | Gets the exception associated with the verification process if presents. |
+| [IsCompromised](./iscompromised/) { get; } | Indicates whether the digital signature structure is likely compromised. This means a change to bypass signature checking by PDF tools. See `Message` for more details. |
+| [Message](./message/) { get; } | Gets the message associated with the verification result. The property value provides additional details about the verification outcome, such as error descriptions or success messages. |
+| [State](./state/) { get; } | Represents the verification state of a digital signature in a PDF file. Indicates whether the signature is valid, invalid, or undefined. |
+| [VerificationException](./verificationexception/) { get; } | Gets the exception associated with the verification process if presents. This property provides details about errors or issues encountered during the verification of a digital signature in a PDF file. |
 
 ### See Also
 

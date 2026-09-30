@@ -5,7 +5,7 @@ articleTitle: "PartialName"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Field property. Gets or sets partial name of the field."
 type: docs
-weight: 120
+weight: 110
 url: "/net/aspose.pdf.forms/field/partialname/"
 product_version: "26.9.0"
 ---

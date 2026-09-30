@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/closepatheofillstroke/closepatheofillstroke/"
 product_version: "26.9.0"
 ---
-## ClosePathEOFillStroke() {#constructor}
+## ClosePathEOFillStroke constructor
 
 Initializes operator.
 

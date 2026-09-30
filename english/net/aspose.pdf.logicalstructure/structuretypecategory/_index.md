@@ -22,8 +22,8 @@ public sealed class StructureTypeCategory
 
 | Name | Description |
 | --- | --- |
-| [ToString](./tostring/) | Returns a string that represents the current object. |
-| [op_Explicit](./op_explicit/)(*string*) |  |
+| override [ToString](./tostring/)() | Returns a string that represents the current object. |
+| [explicit operator](./op_explicit/) | Performs an explicit conversion from `String` to [`StructureTypeCategory`](../../aspose.pdf.logicalstructure/structuretypecategory/). |
 
 ## Fields
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/pdfconverteroptions/addinput/"
 product_version: "26.9.0"
 ---
-## AddInput([IDataSource](../../../aspose.pdf.lowcode/idatasource/)) {#addinput}
+## PdfConverterOptions.AddInput method
 
 Adds new data source to the PdfConverter plugin data collection.
 
@@ -23,6 +23,7 @@ public void AddInput(IDataSource dataSource)
 
 ### See Also
 
+* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
 * class [PdfConverterOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

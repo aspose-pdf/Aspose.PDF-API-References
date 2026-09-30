@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/xlsconverter/xlsconverter/"
 product_version: "26.9.0"
 ---
-## XlsConverter() {#constructor}
+## XlsConverter constructor
 
 The default constructor.
 

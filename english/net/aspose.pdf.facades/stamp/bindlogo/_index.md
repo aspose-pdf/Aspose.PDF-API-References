@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.facades/stamp/bindlogo/"
 product_version: "26.9.0"
 ---
-## BindLogo([FormattedText](../../../aspose.pdf.facades/formattedtext/)) {#bindlogo}
+## Stamp.BindLogo method
 
 Sets text as stamp.
 
@@ -23,6 +23,7 @@ public void BindLogo(FormattedText formattedText)
 
 ### See Also
 
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

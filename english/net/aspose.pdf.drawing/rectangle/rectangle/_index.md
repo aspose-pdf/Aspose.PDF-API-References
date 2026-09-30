@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.drawing/rectangle/rectangle/"
 product_version: "26.9.0"
 ---
-## Rectangle(float, float, float, float) {#constructor}
+## Rectangle constructor
 
 Initializes a new instance of the [`Rectangle`](../../../aspose.pdf.drawing/rectangle/) class.
 
@@ -19,10 +19,10 @@ public Rectangle(float left, float bottom, float width, float height)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| left | float | The left position of the rectangle. |
-| bottom | float | The bottom position of the rectangle. |
-| width | float | The width of the rectangle. |
-| height | float | The height of the rectangle. |
+| left | Single | The left position of the rectangle. |
+| bottom | Single | The bottom position of the rectangle. |
+| width | Single | The width of the rectangle. |
+| height | Single | The height of the rectangle. |
 
 ### See Also
 

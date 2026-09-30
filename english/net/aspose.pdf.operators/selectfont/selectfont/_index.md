@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/selectfont/selectfont/"
 product_version: "26.9.0"
 ---
-## SelectFont(string, double) {#constructor}
+## SelectFont constructor
 
 Initializes operator.
 
@@ -19,8 +19,8 @@ public SelectFont(string resName, double size)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| resName | string | The name of font resource, e.g. F1, F2 etc. |
-| size | double | Size of the font. |
+| resName | String | The name of font resource, e.g. F1, F2 etc. |
+| size | Double | Size of the font. |
 
 ### See Also
 

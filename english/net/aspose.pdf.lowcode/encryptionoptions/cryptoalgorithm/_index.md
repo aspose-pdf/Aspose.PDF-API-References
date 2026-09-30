@@ -19,7 +19,7 @@ public CryptoAlgorithm CryptoAlgorithm { get; set; }
 
 ### See Also
 
-* class [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
+* enum [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
 * class [EncryptionOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/batesnartifact/batesnartifact/"
 product_version: "26.9.0"
 ---
-## BatesNArtifact() {#constructor}
+## BatesNArtifact constructor
 
 Initializes a new instance of the [`BatesNArtifact`](../../../aspose.pdf/batesnartifact/) class.
  This constructor is internal and creates a header artifact instance with default values.

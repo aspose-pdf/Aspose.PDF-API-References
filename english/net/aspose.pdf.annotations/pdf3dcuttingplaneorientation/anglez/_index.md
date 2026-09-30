@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the angle to Z axis.
 
 ```csharp
-public Nullable<double> AngleZ { get; set; }
+public double? AngleZ { get; set; }
 ```
 
 ### Property Value

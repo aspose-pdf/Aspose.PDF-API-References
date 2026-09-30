@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/xmppdfaextensionschema/contains/"
 product_version: "26.9.0"
 ---
-## Contains([XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)) {#contains}
+## XmpPdfAExtensionSchema.Contains method
 
 Determines whether obj exists in schema.
 
@@ -23,12 +23,11 @@ public bool Contains(XmpPdfAExtensionObject obj)
 
 ### Return Value
 
-bool
-
 True - object exists in schema; otherwise, false.
 
 ### See Also
 
+* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

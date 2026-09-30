@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.flow/istructurerecognitionvisitor/visittable/"
 product_version: "26.9.0"
 ---
-## VisitTable([Table](../../../aspose.pdf/table/)) {#visittable}
+## IStructureRecognitionVisitor.VisitTable method
 
 Visits a recognized table in the document structure.
 
@@ -23,6 +23,7 @@ public void VisitTable(Table table)
 
 ### See Also
 
+* class [Table](../../../aspose.pdf/table/)
 * interface [IStructureRecognitionVisitor](../)
 * namespace [Aspose.Pdf.Flow](../../../aspose.pdf.flow/)
 * assembly [Aspose.PDF](../../../)

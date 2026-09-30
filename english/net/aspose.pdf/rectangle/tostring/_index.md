@@ -9,17 +9,15 @@ weight: 50
 url: "/net/aspose.pdf/rectangle/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## Rectangle.ToString method
 
 Gets rectangle string representation.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String has format llx,lly,urx,ury.
 

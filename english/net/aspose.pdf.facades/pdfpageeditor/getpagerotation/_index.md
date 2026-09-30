@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.facades/pdfpageeditor/getpagerotation/"
 product_version: "26.9.0"
 ---
-## GetPageRotation(int) {#getpagerotation}
+## PdfPageEditor.GetPageRotation method
 
 Returns the rotation of specified page.
 
@@ -19,11 +19,9 @@ public int GetPageRotation(int page)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | int | Page index. Document pages are numbered from 1. |
+| page | Int32 | Page index. Document pages are numbered from 1. |
 
 ### Return Value
-
-int
 
 Page rotation in degrees.
 

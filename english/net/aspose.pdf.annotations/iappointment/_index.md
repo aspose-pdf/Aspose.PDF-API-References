@@ -21,7 +21,7 @@ public interface IAppointment
 
 | Name | Description |
 | --- | --- |
-| [ToString](./tostring/)() | Returns string representation. |
+| [ToString](./tostring/)() | Returns string representation |
 
 ### See Also
 

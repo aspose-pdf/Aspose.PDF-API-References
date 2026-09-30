@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/lineto/lineto/"
 product_version: "26.9.0"
 ---
-## LineTo(double, double) {#constructor}
+## LineTo constructor
 
 Initializes line operator.
 
@@ -19,8 +19,8 @@ public LineTo(double x, double y)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | double | X coordinate. |
-| y | double | Y coordinate. |
+| x | Double | X coordinate. |
+| y | Double | Y coordinate. |
 
 ### See Also
 

@@ -9,12 +9,12 @@ weight: 70
 url: "/net/aspose.pdf.devices/gifdevice/process/"
 product_version: "26.9.0"
 ---
-## Process([Page](../../../aspose.pdf/page/), Stream) {#process}
+## GifDevice.Process method
 
 Converts the page into gif and saves it in the output stream.
 
 ```csharp
-public void Process(Page page, Stream output)
+public override void Process(Page page, Stream output)
 ```
 
 | Parameter | Type | Description |
@@ -24,6 +24,7 @@ public void Process(Page page, Stream output)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [GifDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

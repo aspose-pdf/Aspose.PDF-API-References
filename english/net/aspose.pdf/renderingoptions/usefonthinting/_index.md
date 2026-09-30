@@ -5,7 +5,7 @@ articleTitle: "UseFontHinting"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "RenderingOptions property. Usage of this flag turn on font hinting mechanism. Font hinting is the use of mathematical instructions to adjust the display of a..."
 type: docs
-weight: 90
+weight: 80
 url: "/net/aspose.pdf/renderingoptions/usefonthinting/"
 product_version: "26.9.0"
 ---

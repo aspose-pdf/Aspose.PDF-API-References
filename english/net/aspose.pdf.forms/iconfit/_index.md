@@ -24,7 +24,7 @@ public sealed class IconFit
 | --- | --- |
 | [LeftoverBottom](./leftoverbottom/) { get; set; } | Gets or sets space to allocate at the bottom of the icon. |
 | [LeftoverLeft](./leftoverleft/) { get; set; } | Gets or sets space to allocate at the left of the icon. |
-| [ScalingMode](./scalingmode/) { get; set; } | The type of scaling that shall be used. ///. |
+| [ScalingMode](./scalingmode/) { get; set; } | The type of scaling that shall be used. /// |
 | [ScalingReason](./scalingreason/) { get; set; } | Gets or sets scaling reason. |
 | [SpreadOnBorder](./spreadonborder/) { get; set; } | If true, indicates that the button appearance shall be scaled to fit fully within the bounds of the annotation without taking into consideration the line width of the border. |
 
@@ -32,10 +32,10 @@ public sealed class IconFit
 
 | Name | Description |
 | --- | --- |
-| [NameToScalingMode](./nametoscalingmode/)(*string*) | Converts scaling mode name into ScalingMode object. |
-| [NameToScalingReason](./nametoscalingreason/)(*string*) | Converts name of scaling reason into ScalingReason object. |
-| [ScalingModeToName](./scalingmodetoname/)(*ScalingMode*) | Converts scaling mode object into name. |
-| [ScalingReasonToName](./scalingreasontoname/)(*ScalingReason*) | Converts scaling reason obejct to name. |
+| static [NameToScalingMode](./nametoscalingmode/)(string) | Converts scaling mode name into ScalingMode object. |
+| static [NameToScalingReason](./nametoscalingreason/)(string) | Converts name of scaling reason into ScalingReason object. |
+| static [ScalingModeToName](./scalingmodetoname/)(ScalingMode) | Converts scaling mode object into name. |
+| static [ScalingReasonToName](./scalingreasontoname/)(ScalingReason) | Converts scaling reason obejct to name. |
 
 ### See Also
 

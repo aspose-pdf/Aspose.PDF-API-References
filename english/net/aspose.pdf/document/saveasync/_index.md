@@ -24,8 +24,6 @@ public Task SaveAsync(Stream output, CancellationToken cancellationToken)
 
 ### Return Value
 
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
-
 Asynchronous task.
 
 ### See Also
@@ -46,12 +44,10 @@ public Task SaveAsync(string outputFileName, CancellationToken cancellationToken
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFileName | string | Path to file where the document will be stored. |
+| outputFileName | String | Path to file where the document will be stored. |
 | cancellationToken | CancellationToken | Caclellation token. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
 
 Asynchronous task.
 
@@ -83,8 +79,6 @@ public Task SaveAsync(CancellationToken cancellationToken)
 
 ### Return Value
 
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
-
 Asynchronous task.
 
 ### See Also
@@ -110,12 +104,11 @@ public Task SaveAsync(SaveOptions options, CancellationToken cancellationToken)
 
 ### Return Value
 
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
-
 Asynchronous task.
 
 ### See Also
 
+* class [SaveOptions](../../../aspose.pdf/saveoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -132,18 +125,17 @@ public Task SaveAsync(string outputFileName, SaveFormat format, CancellationToke
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFileName | string | Path to file where the document will be stored. |
+| outputFileName | String | Path to file where the document will be stored. |
 | format | SaveFormat | Format options. |
 | cancellationToken | CancellationToken | Caclellation token. |
 
 ### Return Value
 
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
-
 Asynchronous task.
 
 ### See Also
 
+* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -166,8 +158,6 @@ public Task SaveAsync(Stream outputStream, SaveFormat format, CancellationToken 
 
 ### Return Value
 
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
-
 Asynchronous task.
 
 ### Exceptions
@@ -178,6 +168,7 @@ Asynchronous task.
 
 ### See Also
 
+* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -189,23 +180,23 @@ Asynchronous task.
 Saves the document with a new name setting its save options.
 
 ```csharp
-public Task SaveAsync(string outputFileName, SaveOptions options, CancellationToken cancellationToken)
+public Task SaveAsync(string outputFileName, SaveOptions options, 
+    CancellationToken cancellationToken)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFileName | string | Path to file where the document will be stored. |
+| outputFileName | String | Path to file where the document will be stored. |
 | options | SaveOptions | Save options. |
 | cancellationToken | CancellationToken | Caclellation token. |
 
 ### Return Value
 
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
-
 Asynchronous task.
 
 ### See Also
 
+* class [SaveOptions](../../../aspose.pdf/saveoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -228,8 +219,6 @@ public Task SaveAsync(Stream outputStream, SaveOptions options, CancellationToke
 
 ### Return Value
 
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
-
 Asynchronous task.
 
 ### Exceptions
@@ -240,6 +229,7 @@ Asynchronous task.
 
 ### See Also
 
+* class [SaveOptions](../../../aspose.pdf/saveoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

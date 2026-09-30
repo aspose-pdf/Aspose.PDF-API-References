@@ -9,7 +9,7 @@ weight: 290
 url: "/net/aspose.pdf/page/makegrayscale/"
 product_version: "26.9.0"
 ---
-## MakeGrayscale() {#makegrayscale}
+## Page.MakeGrayscale method
 
 Converts the page to grayscale.
 

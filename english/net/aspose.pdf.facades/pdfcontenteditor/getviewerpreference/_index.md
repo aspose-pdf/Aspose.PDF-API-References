@@ -9,7 +9,7 @@ weight: 430
 url: "/net/aspose.pdf.facades/pdfcontenteditor/getviewerpreference/"
 product_version: "26.9.0"
 ---
-## GetViewerPreference() {#getviewerpreference}
+## PdfContentEditor.GetViewerPreference method
 
 Returns the view preference.
 
@@ -18,8 +18,6 @@ public int GetViewerPreference()
 ```
 
 ### Return Value
-
-int
 
 Returns set of ViewerPrefernece flags
 

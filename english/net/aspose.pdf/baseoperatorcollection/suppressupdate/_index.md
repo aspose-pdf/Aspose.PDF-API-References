@@ -9,13 +9,13 @@ weight: 30
 url: "/net/aspose.pdf/baseoperatorcollection/suppressupdate/"
 product_version: "26.9.0"
 ---
-## SuppressUpdate() {#suppressupdate}
+## BaseOperatorCollection.SuppressUpdate method
 
 Suppresses update contents data.
  The contents stream is not updated until ResumeUpdate is called.
 
 ```csharp
-public void SuppressUpdate()
+public abstract void SuppressUpdate()
 ```
 
 ### See Also

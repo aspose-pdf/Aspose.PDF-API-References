@@ -22,13 +22,11 @@ public bool TrySplitFromFirst(string inputFile, int location, string outputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Source Pdf file. |
-| location | int | The splitting point. |
-| outputFile | string | Output Pdf file. |
+| inputFile | String | Source Pdf file. |
+| location | Int32 | The splitting point. |
+| outputFile | String | Output Pdf file. |
 
 ### Return Value
-
-bool
 
 True for success, or false.
 
@@ -55,12 +53,10 @@ public bool TrySplitFromFirst(Stream inputStream, int location, Stream outputStr
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Source Pdf file Stream. |
-| location | int | The splitting point. |
+| location | Int32 | The splitting point. |
 | outputStream | Stream | Output file Stream. |
 
 ### Return Value
-
-bool
 
 True for success, or false.
 

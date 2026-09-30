@@ -9,7 +9,7 @@ weight: 420
 url: "/net/aspose.pdf.tagged/itaggedcontent/save/"
 product_version: "26.9.0"
 ---
-## Save() {#save}
+## ITaggedContent.Save method
 
 Saves the current state of the tagged content to the associated PDF document.
 

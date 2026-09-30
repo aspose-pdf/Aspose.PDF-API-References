@@ -25,7 +25,29 @@ public EmfDevice()
 
 ---
 
-## EmfDevice([Resolution](../../../aspose.pdf.devices/resolution/)) {#constructor_1}
+## EmfDevice([PageSize](../../../aspose.pdf/pagesize/)) {#constructor_1}
+
+Initializes a new instance of the [`EmfDevice`](../../../aspose.pdf.devices/emfdevice/) class with provided page size, 
+ and default resolution for the raster image written to emf (=150)
+
+```csharp
+public EmfDevice(PageSize pageSize)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageSize | PageSize | Page size of the output image. |
+
+### See Also
+
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [EmfDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## EmfDevice([Resolution](../../../aspose.pdf.devices/resolution/)) {#constructor_2}
 
 Initializes a new instance of the [`EmfDevice`](../../../aspose.pdf.devices/emfdevice/) class.
  
@@ -41,27 +63,7 @@ public EmfDevice(Resolution resolution)
 
 ### See Also
 
-* class [EmfDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## EmfDevice([PageSize](../../../aspose.pdf/pagesize/)) {#constructor_2}
-
-Initializes a new instance of the [`EmfDevice`](../../../aspose.pdf.devices/emfdevice/) class with provided page size, 
- and default resolution for the raster image written to emf (=150)
-
-```csharp
-public EmfDevice(PageSize pageSize)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | PageSize | Page size of the output image. |
-
-### See Also
-
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [EmfDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
@@ -79,8 +81,8 @@ public EmfDevice(int width, int height)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
+| width | Int32 | Image output width. |
+| height | Int32 | Image output height. |
 
 ### See Also
 
@@ -106,6 +108,8 @@ public EmfDevice(PageSize pageSize, Resolution resolution)
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [EmfDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
@@ -123,12 +127,13 @@ public EmfDevice(int width, int height, Resolution resolution)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
+| width | Int32 | Image output width. |
+| height | Int32 | Image output height. |
 | resolution | Resolution | Resolution for the for the raster image written to emf, see <see cref="T:Aspose.Pdf.Devices.Resolution" /> class. |
 
 ### See Also
 
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [EmfDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

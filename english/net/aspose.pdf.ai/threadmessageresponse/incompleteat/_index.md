@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the Unix timestamp (in seconds) for when the message was marked as incomplete.
 
 ```csharp
-public Nullable<long> IncompleteAt { get; set; }
+public long? IncompleteAt { get; set; }
 ```
 
 ### See Also

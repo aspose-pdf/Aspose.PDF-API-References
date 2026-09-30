@@ -16,7 +16,7 @@ Gets or sets the maximum number of prompt tokens that may be used over the cours
  If the run exceeds the number of prompt tokens specified, the run will end with status incomplete. See incomplete_details for more info.
 
 ```csharp
-public Nullable<int> MaxPromptTokens { get; set; }
+public int? MaxPromptTokens { get; set; }
 ```
 
 ### See Also

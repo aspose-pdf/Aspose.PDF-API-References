@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/operator/valueequals/"
 product_version: "26.9.0"
 ---
-## ValueEquals([Operator](../../../aspose.pdf/operator/)) {#valueequals}
+## Operator.ValueEquals method
 
 Compares this instance with the given object.
 
@@ -23,13 +23,11 @@ public bool ValueEquals(Operator op)
 
 ### Return Value
 
-bool
-
 True if objects are equal, otherwise false.
 
 ### See Also
 
-* class [Operator](../)
+* class [Operator](../../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

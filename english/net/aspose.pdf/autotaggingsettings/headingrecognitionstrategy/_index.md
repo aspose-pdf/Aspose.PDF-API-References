@@ -24,7 +24,7 @@ public HeadingRecognitionStrategy HeadingRecognitionStrategy { get; set; }
 
 ### See Also
 
-* class [HeadingRecognitionStrategy](../../../aspose.pdf/headingrecognitionstrategy/)
+* enum [HeadingRecognitionStrategy](../../../aspose.pdf/headingrecognitionstrategy/)
 * class [AutoTaggingSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

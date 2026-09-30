@@ -22,7 +22,7 @@ public sealed class Rectangle : Shape
 
 | Name | Description |
 | --- | --- |
-| [Rectangle](./rectangle/#constructor)(*float, float, float, float*) | Initializes a new instance of the [`Rectangle`](../../aspose.pdf.drawing/rectangle/) class. |
+| [Rectangle](./rectangle/)(float, float, float, float) | Initializes a new instance of the [`Rectangle`](../../aspose.pdf.drawing/rectangle/) class. |
 
 ## Properties
 
@@ -38,7 +38,7 @@ public sealed class Rectangle : Shape
 
 | Name | Description |
 | --- | --- |
-| [CheckBounds](./checkbounds/)(*double, double*) |  |
+| override [CheckBounds](./checkbounds/)(double, double) |  |
 
 ### See Also
 

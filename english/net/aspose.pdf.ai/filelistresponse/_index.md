@@ -15,23 +15,32 @@ product_version: "26.9.0"
 Represents a file list response containing a list of file responses.
 
 ```csharp
-public class FileListResponse
+public class FileListResponse : DataResponse<List<FileResponse>>
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [FileListResponse](./filelistresponse/#constructor) | The default constructor. |
+| [FileListResponse](./filelistresponse/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
+| [Data](../../aspose.pdf.ai/dataresponse-1/data/) { get; set; } | Gets or sets the data in the response. |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Gets or sets the HTTP response headers. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Gets or sets the HTTP status code. |
+| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indicates if the response was successful. |
 | [Object](./object/) { get; set; } | Gets or sets the object type, which is always list. |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Gets the error reason phrase. |
 
 ### See Also
 
+* class [DataResponse<T>](../dataresponse-1/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
 

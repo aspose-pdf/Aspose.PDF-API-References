@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/registernamespaceuri/"
 product_version: "26.9.0"
 ---
-## RegisterNamespaceURI(string, string) {#registernamespaceuri}
+## PdfXmpMetadata.RegisterNamespaceURI method
 
 Registers the namespace URI.
 
@@ -19,8 +19,8 @@ public void RegisterNamespaceURI(string prefix, string namespaceURI)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| prefix | string | The prefix. |
-| namespaceURI | string | The namespace URI. |
+| prefix | String | The prefix. |
+| namespaceURI | String | The namespace URI. |
 
 ### See Also
 

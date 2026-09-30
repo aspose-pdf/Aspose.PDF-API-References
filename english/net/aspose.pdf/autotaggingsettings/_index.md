@@ -22,13 +22,13 @@ public sealed class AutoTaggingSettings
 
 | Name | Description |
 | --- | --- |
-| [AutoTaggingSettings](./autotaggingsettings/#constructor) | The default constructor. |
+| [AutoTaggingSettings](./autotaggingsettings/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Default](./default/) { get; } | Gets the default settings for auto-tagging functionality in PDF documents. |
+| static [Default](./default/) { get; } | Gets the default settings for auto-tagging functionality in PDF documents. |
 | [EnableAutoTagging](./enableautotagging/) { get; set; } | Gets or sets a value indicating whether the auto-tagging functionality is enabled. |
 | [HeadingLevels](./headinglevels/) { get; set; } | Gets or sets the heading levels used for determining the structure of headings in a PDF document. |
 | [HeadingRecognitionStrategy](./headingrecognitionstrategy/) { get; set; } | Gets or sets the strategy used for recognizing headings in the document during auto-tagging. |

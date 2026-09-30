@@ -35,9 +35,9 @@ public sealed class XFA
 
 | Name | Description |
 | --- | --- |
-| [GetFieldTemplate](./getfieldtemplate/)(*string*) | Returns XML node of XFA field tempalte. |
-| [GetFieldTemplates](./getfieldtemplates/) | Returns list of all field templates on XFA form. |
-| [SetFieldImage](./setfieldimage/)(*string, Stream*) | Sets image for XFA field. |
+| [GetFieldTemplate](./getfieldtemplate/)(string) | Returns XML node of XFA field tempalte. |
+| [GetFieldTemplates](./getfieldtemplates/)() | Returns list of all field templates on XFA form. |
+| [SetFieldImage](./setfieldimage/)(string, Stream) | Sets image for XFA field. |
 
 ### See Also
 

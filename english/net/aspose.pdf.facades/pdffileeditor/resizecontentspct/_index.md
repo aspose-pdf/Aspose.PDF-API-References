@@ -16,20 +16,19 @@ Resizes contents of document pages.
  New contents size is specified in percents.
 
 ```csharp
-public bool ResizeContentsPct(Stream source, Stream destination, int[] pages, double newWidth, double newHeight)
+public bool ResizeContentsPct(Stream source, Stream destination, int[] pages, double newWidth, 
+    double newHeight)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | source | Stream | Stream which contains source document. |
 | destination | Stream | Stream where resultant document will be saved. |
-| pages | int[] | Array of page indexes. If null then all document pages will be processed. |
-| newWidth | double | New width of page contents in percents. |
-| newHeight | double | New height of page contents in percetns. |
+| pages | Int32[] | Array of page indexes. If null then all document pages will be processed. |
+| newWidth | Double | New width of page contents in percents. |
+| newHeight | Double | New height of page contents in percetns. |
 
 ### Return Value
-
-bool
 
 true if resized sucessfully.
 
@@ -48,20 +47,19 @@ Resizes contents of document pages.
  New contents size is specified in percents.
 
 ```csharp
-public bool ResizeContentsPct(string source, string destination, int[] pages, double newWidth, double newHeight)
+public bool ResizeContentsPct(string source, string destination, int[] pages, double newWidth, 
+    double newHeight)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| source | string | Path to source document. |
-| destination | string | Path where resultant document will be saved. |
-| pages | int[] | Array of page indexes. If null then all document pages will be processed. |
-| newWidth | double | New width of page contents in percents. |
-| newHeight | double | New height of page contents in percetns. |
+| source | String | Path to source document. |
+| destination | String | Path where resultant document will be saved. |
+| pages | Int32[] | Array of page indexes. If null then all document pages will be processed. |
+| newWidth | Double | New width of page contents in percents. |
+| newHeight | Double | New height of page contents in percetns. |
 
 ### Return Value
-
-bool
 
 true if resize was successful.
 

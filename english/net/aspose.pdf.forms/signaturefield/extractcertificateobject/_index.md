@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf.forms/signaturefield/extractcertificateobject/"
 product_version: "26.9.0"
 ---
-## ExtractCertificateObject() {#extractcertificateobject}
+## SignatureField.ExtractCertificateObject method
 
 Extracts the single X.509 certificate object.
 
@@ -18,8 +18,6 @@ public X509Certificate2 ExtractCertificateObject()
 ```
 
 ### Return Value
-
-X509Certificate2
 
 If certificate was found returns X.509 single certificate; otherwise, null.
 

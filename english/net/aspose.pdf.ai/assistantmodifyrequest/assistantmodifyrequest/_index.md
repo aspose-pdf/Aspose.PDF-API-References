@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/assistantmodifyrequest/assistantmodifyrequest/"
 product_version: "26.9.0"
 ---
-## AssistantModifyRequest() {#constructor}
+## AssistantModifyRequest constructor
 
 The default constructor.
 

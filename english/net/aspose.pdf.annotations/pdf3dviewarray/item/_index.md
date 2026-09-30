@@ -9,13 +9,21 @@ weight: 50
 url: "/net/aspose.pdf.annotations/pdf3dviewarray/item/"
 product_version: "26.9.0"
 ---
-## PDF3DViewArray.Item property
+## PDF3DViewArray indexer
 
 Gets or sets the [`PDF3DView`](../../../aspose.pdf.annotations/pdf3dview/) to view array at the specified index.
 
 ```csharp
-public PDF3DView Item { get; set; }
+public PDF3DView this[int index] { get; set; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | The index. |
+
+### Return Value
+
+PDF3DView.
 
 ### See Also
 

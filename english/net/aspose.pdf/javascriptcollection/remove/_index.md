@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/javascriptcollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove(string) {#remove}
+## JavaScriptCollection.Remove method
 
 Removes JavaScript by its name.
 
@@ -19,11 +19,9 @@ public bool Remove(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | Key value. |
+| key | String | Key value. |
 
 ### Return Value
-
-bool
 
 True - if javascript removed; otherwise, false.
 

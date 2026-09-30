@@ -19,7 +19,7 @@ public void BindPdf(string srcFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFile | string | The path of input PDF document. |
+| srcFile | String | The path of input PDF document. |
 
 ### See Also
 
@@ -63,6 +63,7 @@ public void BindPdf(Document srcDoc)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * interface [IFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

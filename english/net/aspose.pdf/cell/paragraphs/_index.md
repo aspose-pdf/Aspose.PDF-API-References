@@ -5,7 +5,7 @@ articleTitle: "Paragraphs"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Cell property. Gets or sets the cell's formatted text."
 type: docs
-weight: 130
+weight: 120
 url: "/net/aspose.pdf/cell/paragraphs/"
 product_version: "26.9.0"
 ---

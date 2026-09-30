@@ -35,7 +35,7 @@ public TabStop(float position)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| position | float | The position of the tab stop. |
+| position | Single | The position of the tab stop. |
 
 ### See Also
 

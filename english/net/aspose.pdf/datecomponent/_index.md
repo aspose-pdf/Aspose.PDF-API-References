@@ -22,7 +22,7 @@ public class DateComponent
 
 | Name | Description |
 | --- | --- |
-| [DateComponent](./datecomponent/#constructor) | The default constructor. |
+| [DateComponent](./datecomponent/)() | The default constructor. |
 
 ## Properties
 
@@ -34,7 +34,7 @@ public class DateComponent
 
 | Name | Description |
 | --- | --- |
-| [GetFormat](./getformat/)(*char*) | Returns a string composed of a specified character repeated based on the format. |
+| [GetFormat](./getformat/)(char) | Returns a string composed of a specified character repeated based on the format. |
 
 ### See Also
 

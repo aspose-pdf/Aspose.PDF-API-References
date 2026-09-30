@@ -5,7 +5,7 @@ articleTitle: "ReplaceTextStrategy.NoCharacterAction"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.ReplaceTextStrategy.NoCharacterAction enum. Action to perform if font does not contain required character"
 type: docs
-weight: 570
+weight: 560
 url: "/net/aspose.pdf.facades/replacetextstrategy.nocharacteraction/"
 product_version: "26.9.0"
 ---

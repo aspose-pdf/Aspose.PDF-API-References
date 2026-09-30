@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/tocpagehasnotitleexception/tocpagehasnotitleexception/"
 product_version: "26.9.0"
 ---
-## TOCpageHasNoTitleException(string) {#constructor}
+## TOCpageHasNoTitleException constructor
 
 Initializes a new instance of the TOCpageHasNoTitleException class.
 
@@ -19,7 +19,7 @@ public TOCpageHasNoTitleException(string message)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | string |  |
+| message | String |  |
 
 ### See Also
 

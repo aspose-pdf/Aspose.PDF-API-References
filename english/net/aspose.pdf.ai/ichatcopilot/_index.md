@@ -14,21 +14,21 @@ product_version: "26.9.0"
 Represents a chat copilot for interacting with documents via AI models.
 
 ```csharp
-public interface IChatCopilot
+public interface IChatCopilot : IAICopilot
 ```
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [DeleteContextAsync](./deletecontextasync/)(*Nullable<CancellationToken>*) | Asynchronously deletes the context. |
-| [GetResponseAsync](./getresponseasync/)(*string, Nullable<CancellationToken>*) | Asynchronously gets a response for the given message. |
-| [GetResponseAsync](./getresponseasync/)(*List<string>, Nullable<CancellationToken>*) | Asynchronously gets a response for the given list of messages. |
-| [SaveContextAsync](./savecontextasync/)(*string, Nullable<CancellationToken>*) | Asynchronously saves the context to a JSON file. |
-| [SaveResponseAsync](./saveresponseasync/)(*string, string, Nullable<CancellationToken>*) | Asynchronously saves the response for the given message to a PDF file. |
-| [SaveResponseAsync](./saveresponseasync/)(*List<string>, string, Nullable<CancellationToken>*) | Asynchronously saves the responses for the given list of messages to a PDF file. |
-| [SaveResponseAsync](./saveresponseasync/)(*string, string, SaveFormat, Nullable<CancellationToken>*) | Asynchronously saves the response for the given message to a file with specified format. |
-| [SaveResponseAsync](./saveresponseasync/)(*List<string>, string, SaveFormat, Nullable<CancellationToken>*) | Asynchronously saves the responses for the given list of messages to a file with specified format. |
+| [DeleteContextAsync](./deletecontextasync/)(CancellationToken?) | Asynchronously deletes the context. |
+| [GetResponseAsync](./getresponseasync/)(List<string>, CancellationToken?) | Asynchronously gets a response for the given list of messages. |
+| [GetResponseAsync](./getresponseasync/)(string, CancellationToken?) | Asynchronously gets a response for the given message. |
+| [SaveContextAsync](./savecontextasync/)(string, CancellationToken?) | Asynchronously saves the context to a JSON file. |
+| [SaveResponseAsync](./saveresponseasync/)(List<string>, string, CancellationToken?) | Asynchronously saves the responses for the given list of messages to a PDF file. |
+| [SaveResponseAsync](./saveresponseasync/)(string, string, CancellationToken?) | Asynchronously saves the response for the given message to a PDF file. |
+| [SaveResponseAsync](./saveresponseasync/)(List<string>, string, SaveFormat, CancellationToken?) | Asynchronously saves the responses for the given list of messages to a file with specified format. |
+| [SaveResponseAsync](./saveresponseasync/)(string, string, SaveFormat, CancellationToken?) | Asynchronously saves the response for the given message to a file with specified format. |
 
 ### See Also
 

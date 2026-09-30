@@ -19,7 +19,7 @@ public Justification Justify { get; set; }
 
 ### See Also
 
-* class [Justification](../../../aspose.pdf.annotations/justification/)
+* enum [Justification](../../../aspose.pdf.annotations/justification/)
 * class [RichTextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

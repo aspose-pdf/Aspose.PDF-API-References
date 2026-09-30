@@ -14,13 +14,12 @@ product_version: "26.9.0"
 B5 size (250x176 mm).
 
 ```csharp
-public PageSize B5 { get; }
+public static PageSize B5 { get; }
 ```
 
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

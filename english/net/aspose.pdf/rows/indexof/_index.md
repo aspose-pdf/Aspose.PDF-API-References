@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf/rows/indexof/"
 product_version: "26.9.0"
 ---
-## IndexOf([Row](../../../aspose.pdf/row/)) {#indexof}
+## Rows.IndexOf method
 
 Returns index of row in collection.
 
@@ -23,12 +23,11 @@ public int IndexOf(Row row)
 
 ### Return Value
 
-int
-
 The row index
 
 ### See Also
 
+* class [Row](../../../aspose.pdf/row/)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

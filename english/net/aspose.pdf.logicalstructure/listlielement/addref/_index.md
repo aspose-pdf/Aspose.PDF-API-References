@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/listlielement/addref/"
 product_version: "26.9.0"
 ---
-## AddRef([StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)) {#addref}
+## ListLIElement.AddRef method
 
 Adds a reference to the specified [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) within this Table of Contents Item (TOCI) element.
  This is typically used when `ListLIElement` serves as a TOC header in nested tables of contents.
@@ -27,6 +27,7 @@ public void AddRef(StructureElement referencedStructureElement)
 
 ### See Also
 
+* class [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
 * class [ListLIElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

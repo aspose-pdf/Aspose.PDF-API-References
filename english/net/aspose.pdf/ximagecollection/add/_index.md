@@ -23,12 +23,11 @@ public string Add(XImage image)
 
 ### Return Value
 
-string
-
 Name of the added image.
 
 ### See Also
 
+* class [XImage](../../../aspose.pdf/ximage/)
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -48,8 +47,6 @@ public string Add(Stream image)
 | image | Stream | Stream containing image data (in JPEG format). |
 
 ### Return Value
-
-string
 
 Name of the added image.
 
@@ -75,12 +72,11 @@ public string Add(BitmapInfo bitmapInfo)
 
 ### Return Value
 
-string
-
 Name of the added image.
 
 ### See Also
 
+* class [BitmapInfo](../../../aspose.pdf/bitmapinfo/)
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -102,12 +98,11 @@ public string Add(Stream image, ImageFilterType filterType)
 
 ### Return Value
 
-string
-
 Name of the added image.
 
 ### See Also
 
+* enum [ImageFilterType](../../../aspose.pdf/imagefiltertype/)
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -129,12 +124,12 @@ public string Add(BitmapInfo bitmapInfo, ImageFilterType filterType)
 
 ### Return Value
 
-string
-
 Name of the added image.
 
 ### See Also
 
+* class [BitmapInfo](../../../aspose.pdf/bitmapinfo/)
+* enum [ImageFilterType](../../../aspose.pdf/imagefiltertype/)
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -152,7 +147,7 @@ public void Add(Stream image, int quality)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | image | Stream | Stream containing image data (in JPEG format). |
-| quality | int | JPEG quality. |
+| quality | Int32 | JPEG quality. |
 
 ### See Also
 

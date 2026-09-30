@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/headerfootersettings/headerfootersettings/"
 product_version: "26.9.0"
 ---
-## HeaderFooterSettings() {#constructor}
+## HeaderFooterSettings constructor
 
 The default constructor.
 

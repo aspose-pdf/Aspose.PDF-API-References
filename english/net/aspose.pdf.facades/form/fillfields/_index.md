@@ -3,29 +3,32 @@ title: "Form.FillFields"
 linktitle: "FillFields"
 articleTitle: "FillFields"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Form method."
+description: "Form method. Fills the text box fields with a text values and save the document. Relevant for signed documents. Notice: Only be applied to Text Box. Both the..."
 type: docs
-weight: 150
+weight: 90
 url: "/net/aspose.pdf.facades/form/fillfields/"
 product_version: "26.9.0"
 ---
-## FillFields(string[], string[], Stream) {#fillfields}
+## Form.FillFields method
 
-
+Fills the text box fields with a text values and save the document.
+ Relevant for signed documents.
+ Notice: Only be applied to Text Box.
+ Both the fields' name and values are case sensitive.
 
 ```csharp
-public bool FillFields(string[] fieldNames, string[] fieldValues, Stream output)
+public bool FillFields(string[] fieldNames, string[] fieldValues, out Stream output)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldNames | string[] |  |
-| fieldValues | string[] |  |
-| output | Stream |  |
+| fieldNames | String[] | Names of fields. |
+| fieldValues | String[] | New values of the fields. |
+| output | Stream& | Stream where document will be saved. |
 
 ### Return Value
 
-bool
+true if fields was found and successfully filled.
 
 ### See Also
 

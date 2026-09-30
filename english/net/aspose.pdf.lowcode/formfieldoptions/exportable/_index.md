@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets/sets the value to determine whether created/modified field is exportable or not (if will be set).
 
 ```csharp
-public Nullable<bool> Exportable { get; set; }
+public bool? Exportable { get; set; }
 ```
 
 ### See Also

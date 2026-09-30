@@ -23,7 +23,7 @@ The data source for the log output.
 
 ### See Also
 
-* class [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
+* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

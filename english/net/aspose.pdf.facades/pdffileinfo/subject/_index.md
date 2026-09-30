@@ -5,7 +5,7 @@ articleTitle: "Subject"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileInfo property. Gets or sets the Subject information of PDF document."
 type: docs
-weight: 400
+weight: 370
 url: "/net/aspose.pdf.facades/pdffileinfo/subject/"
 product_version: "26.9.0"
 ---

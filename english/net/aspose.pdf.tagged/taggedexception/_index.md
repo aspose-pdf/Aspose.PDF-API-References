@@ -22,13 +22,13 @@ public class TaggedException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [TaggedException](./taggedexception/#constructor) | Initializes a new instance of the [`TaggedException`](../../aspose.pdf.tagged/taggedexception/) class. |
+| [TaggedException](./taggedexception/)() | Initializes a new instance of the [`TaggedException`](../../aspose.pdf.tagged/taggedexception/) class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(*CrashReportOptions*) | Forms crash report based on Exception HTML format. *(Inherited from PdfException)* |
+| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
 
 ### See Also
 

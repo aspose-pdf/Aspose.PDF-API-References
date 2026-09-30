@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/lasterror/lasterror/"
 product_version: "26.9.0"
 ---
-## LastError() {#constructor}
+## LastError constructor
 
 The default constructor.
 

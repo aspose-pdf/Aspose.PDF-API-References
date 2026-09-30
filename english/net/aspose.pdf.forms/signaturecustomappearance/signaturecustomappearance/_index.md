@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.forms/signaturecustomappearance/signaturecustomappearance/"
 product_version: "26.9.0"
 ---
-## SignatureCustomAppearance() {#constructor}
+## SignatureCustomAppearance constructor
 
 The default constructor.
 

@@ -9,18 +9,18 @@ weight: 10
 url: "/net/aspose.pdf.drawing/shape/checkbounds/"
 product_version: "26.9.0"
 ---
-## CheckBounds(double, double) {#checkbounds}
+## Shape.CheckBounds method
 
 
 
 ```csharp
-public bool CheckBounds(double containerWidth, double containerHeight)
+public virtual bool CheckBounds(double containerWidth, double containerHeight)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| containerWidth | double |  |
-| containerHeight | double |  |
+| containerWidth | Double |  |
+| containerHeight | Double |  |
 
 ### Return Value
 

@@ -21,7 +21,7 @@ public FileEncoding Encoding { get; set; }
 
 ### See Also
 
-* class [FileEncoding](../../../aspose.pdf/fileencoding/)
+* enum [FileEncoding](../../../aspose.pdf/fileencoding/)
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

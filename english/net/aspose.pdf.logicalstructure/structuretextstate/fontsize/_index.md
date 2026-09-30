@@ -16,7 +16,7 @@ Gets or sets font size of the text.
 Can be null. Use null to inherit `FontSize` property from parent structure element.
 
 ```csharp
-public Nullable<float> FontSize { get; set; }
+public float? FontSize { get; set; }
 ```
 
 ### See Also

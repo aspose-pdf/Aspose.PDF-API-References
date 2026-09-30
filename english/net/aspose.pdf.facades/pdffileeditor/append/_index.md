@@ -15,20 +15,19 @@ Appends pages, which are chosen from array of documents in portStreams.
  The result document includes firstInputFile and all portStreams documents pages in the range startPage to endPage.
 
 ```csharp
-public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int endPage, Stream outputStream)
+public bool Append(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
+    Stream outputStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Input Pdf stream. |
 | portStreams | Stream[] | Documents to copy pages from. |
-| startPage | int | Page starts in portStreams documents. |
-| endPage | int | Page ends in portStreams documents . |
+| startPage | Int32 | Page starts in portStreams documents. |
+| endPage | Int32 | Page ends in portStreams documents . |
 | outputStream | Stream | Output Pdf stream. |
 
 ### Return Value
-
-bool
 
 True for success, or false.
 
@@ -46,20 +45,19 @@ Appends pages, which are chosen from portFiles documents.
  The result document includes firstInputFile and all portFiles documents pages in the range startPage to endPage.
 
 ```csharp
-public bool Append(string inputFile, string[] portFiles, int startPage, int endPage, string outputFile)
+public bool Append(string inputFile, string[] portFiles, int startPage, int endPage, 
+    string outputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Input Pdf file. |
-| portFiles | string[] | Documents to copy pages from. |
-| startPage | int | Page starts in portFiles documents. |
-| endPage | int | Page ends in portFiles documents . |
-| outputFile | string | Output Pdf document. |
+| inputFile | String | Input Pdf file. |
+| portFiles | String[] | Documents to copy pages from. |
+| startPage | Int32 | Page starts in portFiles documents. |
+| endPage | Int32 | Page ends in portFiles documents . |
+| outputFile | String | Output Pdf document. |
 
 ### Return Value
-
-bool
 
 True if operation was succeeded.
 
@@ -81,15 +79,13 @@ public bool Append(string inputFile, string portFile, int startPage, int endPage
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Input Pdf file. |
-| portFile | string | Pages from Pdf file. |
-| startPage | int | Page starts in portFile. |
-| endPage | int | Page ends in portFile. |
-| outputFile | string | Output Pdf document. |
+| inputFile | String | Input Pdf file. |
+| portFile | String | Pages from Pdf file. |
+| startPage | Int32 | Page starts in portFile. |
+| endPage | Int32 | Page ends in portFile. |
+| outputFile | String | Output Pdf document. |
 
 ### Return Value
-
-bool
 
 True if operation was succeeded.
 
@@ -106,20 +102,19 @@ True if operation was succeeded.
 Appends pages,which are chosen from portStream within the range from startPage to endPage, in portStream at the end of firstInputStream.
 
 ```csharp
-public bool Append(Stream inputStream, Stream portStream, int startPage, int endPage, Stream outputStream)
+public bool Append(Stream inputStream, Stream portStream, int startPage, int endPage, 
+    Stream outputStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Input file Stream. |
 | portStream | Stream | Pages from Pdf file Stream. |
-| startPage | int | Page starts in portFile Stream. |
-| endPage | int | Page ends in portFile Stream. |
+| startPage | Int32 | Page starts in portFile Stream. |
+| endPage | Int32 | Page ends in portFile Stream. |
 | outputStream | Stream | Output Pdf file Stream. |
 
 ### Return Value
-
-bool
 
 True for success, or false.
 

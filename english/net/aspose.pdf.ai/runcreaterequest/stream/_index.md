@@ -16,7 +16,7 @@ Gets or sets if to use streaming.
  terminating when the Run enters a terminal state with a data: [DONE] message.
 
 ```csharp
-public Nullable<bool> Stream { get; set; }
+public bool? Stream { get; set; }
 ```
 
 ### See Also

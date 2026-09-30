@@ -14,24 +14,26 @@ product_version: "26.9.0"
 Convert document and save errors into the specified file.
 
 ```csharp
-public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorAction action, ConvertTransparencyAction transparencyAction)
+public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorAction action, 
+    ConvertTransparencyAction transparencyAction)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputLogFileName | string | Path to file where the comments will be stored. |
+| outputLogFileName | String | Path to file where the comments will be stored. |
 | format | PdfFormat | The pdf format. |
 | action | ConvertErrorAction | Action for objects that can not be converted |
 | transparencyAction | ConvertTransparencyAction | Action for image masked objects |
 
 ### Return Value
 
-bool
-
 The operation result
 
 ### See Also
 
+* enum [PdfFormat](../../../aspose.pdf/pdfformat/)
+* enum [ConvertErrorAction](../../../aspose.pdf/converterroraction/)
+* enum [ConvertTransparencyAction](../../../aspose.pdf/converttransparencyaction/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -43,7 +45,8 @@ The operation result
 Convert document and save errors into the specified file.
 
 ```csharp
-public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction action, ConvertTransparencyAction transparencyAction)
+public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction action, 
+    ConvertTransparencyAction transparencyAction)
 ```
 
 | Parameter | Type | Description |
@@ -55,12 +58,13 @@ public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction
 
 ### Return Value
 
-bool
-
 The operation result
 
 ### See Also
 
+* enum [PdfFormat](../../../aspose.pdf/pdfformat/)
+* enum [ConvertErrorAction](../../../aspose.pdf/converterroraction/)
+* enum [ConvertTransparencyAction](../../../aspose.pdf/converttransparencyaction/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -77,18 +81,18 @@ public bool Convert(string outputLogFileName, PdfFormat format, ConvertErrorActi
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputLogFileName | string | Path to file where the comments will be stored. |
+| outputLogFileName | String | Path to file where the comments will be stored. |
 | format | PdfFormat | The pdf format. |
 | action | ConvertErrorAction | Action for objects that can not be converted |
 
 ### Return Value
 
-bool
-
 The operation result
 
 ### See Also
 
+* enum [PdfFormat](../../../aspose.pdf/pdfformat/)
+* enum [ConvertErrorAction](../../../aspose.pdf/converterroraction/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -109,12 +113,11 @@ public bool Convert(PdfFormatConversionOptions options)
 
 ### Return Value
 
-bool
-
 The operation result
 
 ### See Also
 
+* class [PdfFormatConversionOptions](../../../aspose.pdf/pdfformatconversionoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -123,20 +126,20 @@ The operation result
 
 ## Convert(CallBackGetHocrWithPage, bool) {#convert_4}
 
-
+Recognize images inside the document and add hocr strings over it.
 
 ```csharp
-public bool Convert(CallBackGetHocrWithPage callback, bool flattenImages)
+public bool Convert(CallBackGetHocrWithPage callback, bool flattenImages = false)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| callback | CallBackGetHocrWithPage |  |
-| flattenImages | bool |  |
+| callback | CallBackGetHocrWithPage | Action for images that will be processed by hocr recognize. |
+| flattenImages | Boolean | Text in pdf images can be painted using the mechanics of masks, in which case the images must be flattened. |
 
 ### Return Value
 
-bool
+The operation result. If there are no images in the document returns `!:false`.
 
 ### See Also
 
@@ -148,20 +151,20 @@ bool
 
 ## Convert(CallBackGetHocr, bool) {#convert_5}
 
-
+Recognize images inside the document and add hocr strings over it.
 
 ```csharp
-public bool Convert(CallBackGetHocr callback, bool flattenImages)
+public bool Convert(CallBackGetHocr callback, bool flattenImages = false)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| callback | CallBackGetHocr |  |
-| flattenImages | bool |  |
+| callback | CallBackGetHocr | Action for images that will be processed by hocr recognize. |
+| flattenImages | Boolean | Text in pdf images can be painted using the mechanics of masks, in which case the images must be flattened. |
 
 ### Return Value
 
-bool
+The operation result. If there are no images in the document returns `!:false`.
 
 ### See Also
 
@@ -187,12 +190,12 @@ public bool Convert(Stream outputLogStream, PdfFormat format, ConvertErrorAction
 
 ### Return Value
 
-bool
-
 The operation result
 
 ### See Also
 
+* enum [PdfFormat](../../../aspose.pdf/pdfformat/)
+* enum [ConvertErrorAction](../../../aspose.pdf/converterroraction/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -204,24 +207,24 @@ The operation result
 Convert document by applying the Fixup.
 
 ```csharp
-public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation, object[] parameters)
+public bool Convert(Fixup fixup, Stream outputLog, bool onlyValidation = false, 
+    object[] parameters = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fixup | Fixup | The Fixup type. |
 | outputLog | Stream | The log of process. |
-| onlyValidation | bool | Only document validation. |
-| parameters | object[] | Properties for Fixup that can not be set. |
+| onlyValidation | Boolean | Only document validation. |
+| parameters | Object[] | Properties for Fixup that can not be set. |
 
 ### Return Value
-
-bool
 
 The operation result.
 
 ### See Also
 
+* enum [Fixup](../../../aspose.pdf/fixup/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -233,24 +236,24 @@ The operation result.
 Convert document by applying the Fixup.
 
 ```csharp
-public bool Convert(Fixup fixup, string outputLog, bool onlyValidation, object[] parameters)
+public bool Convert(Fixup fixup, string outputLog, bool onlyValidation = false, 
+    object[] parameters = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fixup | Fixup | The Fixup type. |
-| outputLog | string | The log of process. |
-| onlyValidation | bool | Only document validation. |
-| parameters | object[] | Properties for Fixup that can not be set. |
+| outputLog | String | The log of process. |
+| onlyValidation | Boolean | Only document validation. |
+| parameters | Object[] | Properties for Fixup that can not be set. |
 
 ### Return Value
-
-bool
 
 The operation result.
 
 ### See Also
 
+* enum [Fixup](../../../aspose.pdf/fixup/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -262,18 +265,21 @@ The operation result.
 Converts source file in source format into destination file in destination format.
 
 ```csharp
-public void Convert(string srcFileName, LoadOptions loadOptions, string dstFileName, SaveOptions saveOptions)
+public static void Convert(string srcFileName, LoadOptions loadOptions, string dstFileName, 
+    SaveOptions saveOptions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFileName | string | The source file name. |
+| srcFileName | String | The source file name. |
 | loadOptions | LoadOptions | The source file format. |
-| dstFileName | string | The destination file name. |
+| dstFileName | String | The destination file name. |
 | saveOptions | SaveOptions | The destination file format. |
 
 ### See Also
 
+* class [LoadOptions](../../../aspose.pdf/loadoptions/)
+* class [SaveOptions](../../../aspose.pdf/saveoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -285,18 +291,21 @@ public void Convert(string srcFileName, LoadOptions loadOptions, string dstFileN
 Converts stream in source format into destination file in destination format.
 
 ```csharp
-public void Convert(Stream srcStream, LoadOptions loadOptions, string dstFileName, SaveOptions saveOptions)
+public static void Convert(Stream srcStream, LoadOptions loadOptions, string dstFileName, 
+    SaveOptions saveOptions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | srcStream | Stream | The source stream. |
 | loadOptions | LoadOptions | The source stream format. |
-| dstFileName | string | The destination file name. |
+| dstFileName | String | The destination file name. |
 | saveOptions | SaveOptions | The destination file format. |
 
 ### See Also
 
+* class [LoadOptions](../../../aspose.pdf/loadoptions/)
+* class [SaveOptions](../../../aspose.pdf/saveoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -308,18 +317,21 @@ public void Convert(Stream srcStream, LoadOptions loadOptions, string dstFileNam
 Converts source file in source format into stream in destination format.
 
 ```csharp
-public void Convert(string srcFileName, LoadOptions loadOptions, Stream dstStream, SaveOptions saveOptions)
+public static void Convert(string srcFileName, LoadOptions loadOptions, Stream dstStream, 
+    SaveOptions saveOptions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFileName | string | The source file name. |
+| srcFileName | String | The source file name. |
 | loadOptions | LoadOptions | The source file format. |
 | dstStream | Stream | The destination stream. |
 | saveOptions | SaveOptions | The destination stream format. |
 
 ### See Also
 
+* class [LoadOptions](../../../aspose.pdf/loadoptions/)
+* class [SaveOptions](../../../aspose.pdf/saveoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -331,7 +343,8 @@ public void Convert(string srcFileName, LoadOptions loadOptions, Stream dstStrea
 Converts stream in source format into stream in destination format.
 
 ```csharp
-public void Convert(Stream srcStream, LoadOptions loadOptions, Stream dstStream, SaveOptions saveOptions)
+public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dstStream, 
+    SaveOptions saveOptions)
 ```
 
 | Parameter | Type | Description |
@@ -343,6 +356,8 @@ public void Convert(Stream srcStream, LoadOptions loadOptions, Stream dstStream,
 
 ### See Also
 
+* class [LoadOptions](../../../aspose.pdf/loadoptions/)
+* class [SaveOptions](../../../aspose.pdf/saveoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

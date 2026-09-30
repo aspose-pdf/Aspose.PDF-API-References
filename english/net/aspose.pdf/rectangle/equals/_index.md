@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf/rectangle/equals/"
 product_version: "26.9.0"
 ---
-## Equals([Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#equals}
+## Rectangle.Equals method
 
 Check if rectangles are equal i.e. have same position and sizes.
 
@@ -23,13 +23,11 @@ public bool Equals(Rectangle other)
 
 ### Return Value
 
-bool
-
 True if rectangles are eqals, false otherwise.
 
 ### See Also
 
-* class [Rectangle](../)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

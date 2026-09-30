@@ -9,7 +9,7 @@ weight: 590
 url: "/net/aspose.pdf.facades/pdfcontenteditor/movestampbyid/"
 product_version: "26.9.0"
 ---
-## MoveStampById(int, int, double, double) {#movestampbyid}
+## PdfContentEditor.MoveStampById method
 
 Changes position of the stamp on page.
 
@@ -19,10 +19,10 @@ public void MoveStampById(int pageNumber, int stampId, double x, double y)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | int | Numer of page. |
-| stampId | int | Identifier of stamp which should be moved. |
-| x | double | New stamp horizontal pozition on the page. |
-| y | double | New stamp vertical position on the page. |
+| pageNumber | Int32 | Numer of page. |
+| stampId | Int32 | Identifier of stamp which should be moved. |
+| x | Double | New stamp horizontal pozition on the page. |
+| y | Double | New stamp vertical position on the page. |
 
 ### See Also
 

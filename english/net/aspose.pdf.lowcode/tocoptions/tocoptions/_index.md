@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/tocoptions/tocoptions/"
 product_version: "26.9.0"
 ---
-## TocOptions() {#constructor}
+## TocOptions constructor
 
 The default constructor.
 

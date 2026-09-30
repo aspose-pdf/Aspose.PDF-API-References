@@ -5,11 +5,11 @@ articleTitle: "FlattenField"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Flattens a specified field with the fully qualified field name. Any other field will remain unchangable. If the fieldName is invalid, all the fi..."
 type: docs
-weight: 260
+weight: 190
 url: "/net/aspose.pdf.facades/form/flattenfield/"
 product_version: "26.9.0"
 ---
-## FlattenField(string) {#flattenfield}
+## Form.FlattenField method
 
 Flattens a specified field with the fully qualified field name.
  Any other field will remain unchangable. If the fieldName is invalid, 
@@ -21,7 +21,7 @@ public void FlattenField(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | The name of the field to be flattened. |
+| fieldName | String | The name of the field to be flattened. |
 
 ### See Also
 

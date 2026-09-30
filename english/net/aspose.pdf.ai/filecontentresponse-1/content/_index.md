@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the file content.
 
 ```csharp
-public T0 Content { get; set; }
+public T Content { get; set; }
 ```
 
 ### See Also

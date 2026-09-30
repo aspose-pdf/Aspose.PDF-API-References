@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.annotations/richmediaannotation/addcustomdata/"
 product_version: "26.9.0"
 ---
-## AddCustomData(string, Stream) {#addcustomdata}
+## RichMediaAnnotation.AddCustomData method
 
 Add custom named data (for example required for flash script).
 
@@ -19,7 +19,7 @@ public void AddCustomData(string name, Stream data)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Name of the data. |
+| name | String | Name of the data. |
 | data | Stream | Data. |
 
 ### See Also

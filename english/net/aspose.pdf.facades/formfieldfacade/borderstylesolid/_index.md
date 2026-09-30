@@ -5,7 +5,7 @@ articleTitle: "BorderStyleSolid"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormFieldFacade field. Defines a solid border style."
 type: docs
-weight: 270
+weight: 250
 url: "/net/aspose.pdf.facades/formfieldfacade/borderstylesolid/"
 product_version: "26.9.0"
 ---

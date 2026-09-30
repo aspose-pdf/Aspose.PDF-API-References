@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/metadata/getnamespaceuribyprefix/"
 product_version: "26.9.0"
 ---
-## GetNamespaceUriByPrefix(string) {#getnamespaceuribyprefix}
+## Metadata.GetNamespaceUriByPrefix method
 
 Returns namespace URI by prefix.
 
@@ -19,11 +19,9 @@ public string GetNamespaceUriByPrefix(string prefix)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| prefix | string | The value of prefix. |
+| prefix | String | The value of prefix. |
 
 ### Return Value
-
-string
 
 The value of namespace URI.
 

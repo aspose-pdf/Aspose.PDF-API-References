@@ -5,7 +5,7 @@ articleTitle: "SvgSaveOptions.SvgExternalImageType"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.SvgSaveOptions.SvgExternalImageType enum. enumerates possible types of image files that can be saved as external resources during during Pdf to SV..."
 type: docs
-weight: 2910
+weight: 2870
 url: "/net/aspose.pdf/svgsaveoptions.svgexternalimagetype/"
 product_version: "26.9.0"
 ---

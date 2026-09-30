@@ -22,7 +22,7 @@ public class ResultContainer
 
 | Name | Description |
 | --- | --- |
-| [ResultCollection](./resultcollection/) { get; } | Gets collection of the operation results. |
+| [ResultCollection](./resultcollection/) { get; } | Gets collection of the operation results |
 
 ### See Also
 

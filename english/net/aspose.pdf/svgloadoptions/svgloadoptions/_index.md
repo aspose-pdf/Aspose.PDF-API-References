@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/svgloadoptions/svgloadoptions/"
 product_version: "26.9.0"
 ---
-## SvgLoadOptions() {#constructor}
+## SvgLoadOptions constructor
 
 The default constructor.
 

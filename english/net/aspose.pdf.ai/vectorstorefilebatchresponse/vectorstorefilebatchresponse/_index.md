@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/vectorstorefilebatchresponse/vectorstorefilebatchresponse/"
 product_version: "26.9.0"
 ---
-## VectorStoreFileBatchResponse() {#constructor}
+## VectorStoreFileBatchResponse constructor
 
 The default constructor.
 

@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets index of selected option. This property allows to change selection.
 
 ```csharp
-public int Selected { get; set; }
+public virtual int Selected { get; set; }
 ```
 
 ### See Also

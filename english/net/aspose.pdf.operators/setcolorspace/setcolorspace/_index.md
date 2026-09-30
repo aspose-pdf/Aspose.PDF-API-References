@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/setcolorspace/setcolorspace/"
 product_version: "26.9.0"
 ---
-## SetColorSpace(string) {#constructor}
+## SetColorSpace constructor
 
 Initializes operator.
 
@@ -19,7 +19,7 @@ public SetColorSpace(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Color space name. |
+| name | String | Color space name. |
 
 ### See Also
 

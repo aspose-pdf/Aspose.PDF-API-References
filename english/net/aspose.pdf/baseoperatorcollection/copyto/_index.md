@@ -9,21 +9,22 @@ weight: 20
 url: "/net/aspose.pdf/baseoperatorcollection/copyto/"
 product_version: "26.9.0"
 ---
-## CopyTo(Operator[], int) {#copyto}
+## BaseOperatorCollection.CopyTo method
 
 Copies operators into operators list.
 
 ```csharp
-public void CopyTo(Operator[] array, int index)
+public abstract void CopyTo(Operator[] array, int index)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | array | Operator[] | Array with operators which must to be copied. This array must be Object[] or Operator[]. |
-| index | int | Starting index from which operators will be copied |
+| index | Int32 | Starting index from which operators will be copied |
 
 ### See Also
 
+* class [Operator](../../../aspose.pdf/operator/)
 * class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

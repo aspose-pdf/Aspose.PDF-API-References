@@ -9,17 +9,17 @@ weight: 10
 url: "/net/aspose.pdf/resources.extgstatevalue/extgstatevalue/"
 product_version: "26.9.0"
 ---
-## Resources.ExtGStateValue(string) {#constructor}
+## ExtGStateValue constructor
 
 Initializes a new instance of the Resources.ExtGStateValue class.
 
 ```csharp
-public Resources.ExtGStateValue(string name)
+public ExtGStateValue(string name)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string |  |
+| name | String |  |
 
 ### See Also
 

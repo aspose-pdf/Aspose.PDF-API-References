@@ -17,7 +17,7 @@ Gets or sets the Seed value.
  Determinism is not guaranteed, and you should refer to the system_fingerprint response parameter to monitor changes in the backend.
 
 ```csharp
-public Nullable<int> Seed { get; set; }
+public int? Seed { get; set; }
 ```
 
 ### See Also

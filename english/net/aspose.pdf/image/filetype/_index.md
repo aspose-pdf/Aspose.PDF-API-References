@@ -19,7 +19,7 @@ public ImageFileType FileType { get; set; }
 
 ### See Also
 
-* class [ImageFileType](../../../aspose.pdf/imagefiletype/)
+* enum [ImageFileType](../../../aspose.pdf/imagefiletype/)
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

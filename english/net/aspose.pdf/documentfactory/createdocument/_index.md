@@ -24,13 +24,12 @@ public Document CreateDocument(Stream input, LoadOptions options)
 
 ### Return Value
 
-[Document](../../../aspose.pdf/document/)
-
 Created document.
 
 ### See Also
 
 * class [Document](../../../aspose.pdf/document/)
+* class [LoadOptions](../../../aspose.pdf/loadoptions/)
 * class [DocumentFactory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -46,8 +45,6 @@ public Document CreateDocument()
 ```
 
 ### Return Value
-
-[Document](../../../aspose.pdf/document/)
 
 Created document.
 
@@ -74,8 +71,6 @@ public Document CreateDocument(Stream input)
 
 ### Return Value
 
-[Document](../../../aspose.pdf/document/)
-
 Created document.
 
 ### See Also
@@ -98,11 +93,9 @@ public Document CreateDocument(Stream input, string password)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | input | Stream | Source stream. |
-| password | string | Passowrd for access to document. |
+| password | String | Passowrd for access to document. |
 
 ### Return Value
-
-[Document](../../../aspose.pdf/document/)
 
 Created document.
 
@@ -125,11 +118,9 @@ public Document CreateDocument(string fileName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | string | Name of PDF file. |
+| fileName | String | Name of PDF file. |
 
 ### Return Value
-
-[Document](../../../aspose.pdf/document/)
 
 Created document.
 

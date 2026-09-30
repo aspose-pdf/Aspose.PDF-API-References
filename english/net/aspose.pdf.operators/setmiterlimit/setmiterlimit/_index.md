@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/setmiterlimit/setmiterlimit/"
 product_version: "26.9.0"
 ---
-## SetMiterLimit(double) {#constructor}
+## SetMiterLimit constructor
 
 Initializes operator.
 
@@ -19,7 +19,7 @@ public SetMiterLimit(double miterLimit)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| miterLimit | double | Mitel limit. |
+| miterLimit | Double | Mitel limit. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/assistantcreaterequest/assistantcreaterequest/"
 product_version: "26.9.0"
 ---
-## AssistantCreateRequest() {#constructor}
+## AssistantCreateRequest constructor
 
 The default constructor.
 

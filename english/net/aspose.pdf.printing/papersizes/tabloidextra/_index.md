@@ -13,6 +13,8 @@ product_version: "26.9.0"
 
 Tabloid extra paper (11.69 in. by 18 in.).
 
+This value is specific to the PostScript driver and is used only by Linotronic printers in order to conserve paper.
+
 ```csharp
 public static readonly PaperSize TabloidExtra;
 ```

@@ -22,14 +22,14 @@ public class AICopilotException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [AICopilotException](./aicopilotexception/#constructor)(*string*) | Initializes a new instance of the [`AICopilotException`](../../aspose.pdf.ai/aicopilotexception/) class with a specified error message. |
-| [AICopilotException](./aicopilotexception/#constructor_1)(*string, Exception*) | Initializes a new instance of the [`AICopilotException`](../../aspose.pdf.ai/aicopilotexception/) class with a specified error message. |
+| [AICopilotException](./aicopilotexception/#constructor)(string) | Initializes a new instance of the [`AICopilotException`](../../aspose.pdf.ai/aicopilotexception/) class with a specified error message. |
+| [AICopilotException](./aicopilotexception/#constructor_1)(string, Exception) | Initializes a new instance of the [`AICopilotException`](../../aspose.pdf.ai/aicopilotexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(*CrashReportOptions*) | Forms crash report based on Exception HTML format. *(Inherited from PdfException)* |
+| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
 
 ### See Also
 

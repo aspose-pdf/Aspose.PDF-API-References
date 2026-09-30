@@ -24,7 +24,7 @@ The action for converting images with soft masks.
 
 ### See Also
 
-* class [ConvertSoftMaskAction](../../../aspose.pdf/convertsoftmaskaction/)
+* enum [ConvertSoftMaskAction](../../../aspose.pdf/convertsoftmaskaction/)
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

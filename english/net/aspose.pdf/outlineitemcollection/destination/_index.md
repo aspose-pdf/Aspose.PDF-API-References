@@ -19,7 +19,7 @@ public IAppointment Destination { get; set; }
 
 ### See Also
 
-* class [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -9,17 +9,15 @@ weight: 30
 url: "/net/aspose.pdf/floatingbox/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## FloatingBox.Clone method
 
 Clones a new [`FloatingBox`](../../../aspose.pdf/floatingbox/) object. Paragraphs in the floating box are not cloned.
 
 ```csharp
-public object Clone()
+public override object Clone()
 ```
 
 ### Return Value
-
-object
 
 The new [`FloatingBox`](../../../aspose.pdf/floatingbox/) object.
 

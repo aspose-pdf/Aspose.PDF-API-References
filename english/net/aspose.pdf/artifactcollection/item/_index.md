@@ -9,13 +9,21 @@ weight: 110
 url: "/net/aspose.pdf/artifactcollection/item/"
 product_version: "26.9.0"
 ---
-## ArtifactCollection.Item property
+## ArtifactCollection indexer
 
 Gets artifact by index. Index is started from 1.
 
 ```csharp
-public Artifact Item { get; }
+public Artifact this[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Index of the artifact. |
+
+### Return Value
+
+Artifact on the page.
 
 ### See Also
 

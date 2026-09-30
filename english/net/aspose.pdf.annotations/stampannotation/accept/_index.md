@@ -9,12 +9,12 @@ weight: 30
 url: "/net/aspose.pdf.annotations/stampannotation/accept/"
 product_version: "26.9.0"
 ---
-## Accept([AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)) {#accept}
+## StampAnnotation.Accept method
 
 Acepts [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) visitor when browsing annotation collection.
 
 ```csharp
-public void Accept(AnnotationSelector visitor)
+public override void Accept(AnnotationSelector visitor)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void Accept(AnnotationSelector visitor)
 
 ### See Also
 
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

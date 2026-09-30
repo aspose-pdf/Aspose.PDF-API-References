@@ -25,6 +25,7 @@ public TextBuilder(Page page)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [TextBuilder](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -48,6 +49,8 @@ public TextBuilder(Page page, BaseOperatorCollection operatorCollection)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [BaseOperatorCollection](../../../aspose.pdf/baseoperatorcollection/)
 * class [TextBuilder](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

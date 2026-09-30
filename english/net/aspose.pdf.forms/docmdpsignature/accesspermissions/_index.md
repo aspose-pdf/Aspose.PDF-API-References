@@ -19,7 +19,7 @@ public DocMDPAccessPermissions AccessPermissions { get; }
 
 ### See Also
 
-* class [DocMDPAccessPermissions](../../../aspose.pdf.forms/docmdpaccesspermissions/)
+* enum [DocMDPAccessPermissions](../../../aspose.pdf.forms/docmdpaccesspermissions/)
 * class [DocMDPSignature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

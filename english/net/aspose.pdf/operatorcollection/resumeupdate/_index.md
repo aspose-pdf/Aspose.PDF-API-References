@@ -21,7 +21,7 @@ public void ResumeUpdate(bool updateAll)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| updateAll | bool | If true, all operators in the collection marked as updated. |
+| updateAll | Boolean | If true, all operators in the collection marked as updated. |
 
 ### See Also
 
@@ -37,7 +37,7 @@ Resumes document update.
  Updates contents stream in case there are any pending changes.
 
 ```csharp
-public void ResumeUpdate()
+public override void ResumeUpdate()
 ```
 
 ### See Also

@@ -9,7 +9,7 @@ weight: 310
 url: "/net/aspose.pdf.tagged/itaggedcontent/createreferenceelement/"
 product_version: "26.9.0"
 ---
-## CreateReferenceElement() {#createreferenceelement}
+## ITaggedContent.CreateReferenceElement method
 
 Creates [`ReferenceElement`](../../../aspose.pdf.logicalstructure/referenceelement/).
 
@@ -18,8 +18,6 @@ public ReferenceElement CreateReferenceElement()
 ```
 
 ### Return Value
-
-[ReferenceElement](../../../aspose.pdf.logicalstructure/referenceelement/)
 
 Created structure element.
 

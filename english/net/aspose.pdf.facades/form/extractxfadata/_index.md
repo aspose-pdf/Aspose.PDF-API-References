@@ -5,11 +5,11 @@ articleTitle: "ExtractXfaData"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Extracts XFA data packet"
 type: docs
-weight: 320
+weight: 250
 url: "/net/aspose.pdf.facades/form/extractxfadata/"
 product_version: "26.9.0"
 ---
-## ExtractXfaData(Stream) {#extractxfadata}
+## Form.ExtractXfaData method
 
 Extracts XFA data packet
 

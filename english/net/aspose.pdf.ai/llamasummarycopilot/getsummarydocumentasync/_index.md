@@ -9,17 +9,17 @@ weight: 40
 url: "/net/aspose.pdf.ai/llamasummarycopilot/getsummarydocumentasync/"
 product_version: "26.9.0"
 ---
-## GetSummaryDocumentAsync(Nullable<CancellationToken>) {#getsummarydocumentasync}
+## GetSummaryDocumentAsync(CancellationToken?) {#getsummarydocumentasync}
 
 
 
 ```csharp
-public Task<Document> GetSummaryDocumentAsync(Nullable<CancellationToken> cancellationToken)
+public Task<Document> GetSummaryDocumentAsync(CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cancellationToken | Nullable<CancellationToken> |  |
+| cancellationToken | Nullable`1 |  |
 
 ### Return Value
 
@@ -33,18 +33,19 @@ public Task<Document> GetSummaryDocumentAsync(Nullable<CancellationToken> cancel
 
 ---
 
-## GetSummaryDocumentAsync([PageInfo](../../../aspose.pdf/pageinfo/), Nullable<CancellationToken>) {#getsummarydocumentasync_1}
+## GetSummaryDocumentAsync([PageInfo](../../../aspose.pdf/pageinfo/), CancellationToken?) {#getsummarydocumentasync_1}
 
 
 
 ```csharp
-public Task<Document> GetSummaryDocumentAsync(PageInfo pageInfo, Nullable<CancellationToken> cancellationToken)
+public Task<Document> GetSummaryDocumentAsync(PageInfo pageInfo, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageInfo | PageInfo |  |
-| cancellationToken | Nullable<CancellationToken> |  |
+| cancellationToken | Nullable`1 |  |
 
 ### Return Value
 
@@ -52,6 +53,7 @@ public Task<Document> GetSummaryDocumentAsync(PageInfo pageInfo, Nullable<Cancel
 
 ### See Also
 
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
 * class [LlamaSummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

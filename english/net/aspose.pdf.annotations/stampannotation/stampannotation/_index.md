@@ -23,6 +23,7 @@ public StampAnnotation(Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -44,6 +45,8 @@ public StampAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

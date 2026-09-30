@@ -15,14 +15,14 @@ product_version: "26.9.0"
 Represents the OCR result for a single page of a document or a single image file.
 
 ```csharp
-public class OcrDetail
+public class OcrDetail : IComparable<OcrDetail>
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [OcrDetail](./ocrdetail/#constructor) | The default constructor. |
+| [OcrDetail](./ocrdetail/)() | The default constructor. |
 
 ## Properties
 
@@ -30,7 +30,7 @@ public class OcrDetail
 | --- | --- |
 | [ErrorMessage](./errormessage/) { get; set; } | An error message describing why OCR failed for this page, if Success is false. Null otherwise. |
 | [ExtractedText](./extractedtext/) { get; set; } | The extracted text content from the page. Null if Success is false or no text was found. |
-| [PageNumber](./pagenumber/) { get; set; } | The 1-based page number within the source document. |
+| [PageNumber](./pagenumber/) { get; set; } | The 1-based page number within the source document. For single-page images, this will always be 1. |
 | [Success](./success/) { get; set; } | Indicates whether the OCR extraction for this specific page was successful. |
 | [Usage](./usage/) { get; set; } | Gets or sets the usage statistics. |
 
@@ -38,7 +38,7 @@ public class OcrDetail
 
 | Name | Description |
 | --- | --- |
-| [CompareTo](./compareto/)(*OcrDetail*) | Compares the current OcrDetail instance with another OcrDetail object based on their PageNumber property. |
+| [CompareTo](./compareto/)(OcrDetail) | Compares the current OcrDetail instance with another OcrDetail object based on their PageNumber property. |
 
 ### See Also
 

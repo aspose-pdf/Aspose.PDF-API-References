@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/getprefixbynamespaceuri/"
 product_version: "26.9.0"
 ---
-## GetPrefixByNamespaceURI(string) {#getprefixbynamespaceuri}
+## PdfXmpMetadata.GetPrefixByNamespaceURI method
 
 Gets the prefix by namespace URI.
 
@@ -19,11 +19,9 @@ public string GetPrefixByNamespaceURI(string namespaceURI)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| namespaceURI | string | Namespace URI. |
+| namespaceURI | String | Namespace URI. |
 
 ### Return Value
-
-string
 
 The prefix value.
 

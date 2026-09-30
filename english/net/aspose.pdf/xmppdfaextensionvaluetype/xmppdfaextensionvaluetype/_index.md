@@ -9,20 +9,21 @@ weight: 10
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/xmppdfaextensionvaluetype/"
 product_version: "26.9.0"
 ---
-## XmpPdfAExtensionValueType(string, string, string, string) {#constructor}
+## XmpPdfAExtensionValueType constructor
 
 Initializes new object.
 
 ```csharp
-public XmpPdfAExtensionValueType(string type, string namespaceUri, string prefix, string description)
+public XmpPdfAExtensionValueType(string type, string namespaceUri, string prefix, 
+    string description)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | string | The value type. |
-| namespaceUri | string | The namespace URI. |
-| prefix | string | The prefix. |
-| description | string | The description. |
+| type | String | The value type. |
+| namespaceUri | String | The namespace URI. |
+| prefix | String | The prefix. |
+| description | String | The description. |
 
 ### See Also
 

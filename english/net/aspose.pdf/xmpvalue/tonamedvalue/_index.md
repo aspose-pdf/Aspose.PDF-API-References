@@ -9,7 +9,7 @@ weight: 140
 url: "/net/aspose.pdf/xmpvalue/tonamedvalue/"
 product_version: "26.9.0"
 ---
-## ToNamedValue() {#tonamedvalue}
+## XmpValue.ToNamedValue method
 
 Returns XMP value as named value.
 
@@ -18,8 +18,6 @@ public KeyValuePair<string, XmpValue> ToNamedValue()
 ```
 
 ### Return Value
-
-KeyValuePair<string, [XmpValue](../../../aspose.pdf/xmpvalue/)>
 
 Named value.
 

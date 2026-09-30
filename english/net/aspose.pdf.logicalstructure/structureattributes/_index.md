@@ -28,8 +28,8 @@ public class StructureAttributes
 
 | Name | Description |
 | --- | --- |
-| [GetAttribute](./getattribute/)(*AttributeKey*) | Gets StructureAttribute by AttributeKey. |
-| [SetAttribute](./setattribute/)(*StructureAttribute*) | Sets StructureAttribute into StructureAttributes. |
+| [GetAttribute](./getattribute/)(AttributeKey) | Gets StructureAttribute by AttributeKey. |
+| [SetAttribute](./setattribute/)(StructureAttribute) | Sets StructureAttribute into StructureAttributes. |
 
 ### See Also
 

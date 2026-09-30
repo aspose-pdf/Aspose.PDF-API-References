@@ -19,7 +19,7 @@ public HighlightingMode Highlighting { get; set; }
 
 ### See Also
 
-* class [HighlightingMode](../../../aspose.pdf.annotations/highlightingmode/)
+* enum [HighlightingMode](../../../aspose.pdf.annotations/highlightingmode/)
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

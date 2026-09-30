@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/xmppdfaextensionschemadescription/getxml/"
 product_version: "26.9.0"
 ---
-## GetXml(XmlDocument) {#getxml}
+## XmpPdfAExtensionSchemaDescription.GetXml method
 
 Returns the list of xml elements that represent schema description in xml tree.
 
@@ -22,8 +22,6 @@ public List<XmlElement> GetXml(XmlDocument xmlDocument)
 | xmlDocument | XmlDocument | The source xml document. |
 
 ### Return Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<XmlElement>
 
 The list of xml elements.
 

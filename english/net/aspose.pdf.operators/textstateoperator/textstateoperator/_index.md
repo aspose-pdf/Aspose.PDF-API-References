@@ -39,6 +39,7 @@ public TextStateOperator(TextProperties textProperties)
 
 ### See Also
 
+* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
 * class [TextStateOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

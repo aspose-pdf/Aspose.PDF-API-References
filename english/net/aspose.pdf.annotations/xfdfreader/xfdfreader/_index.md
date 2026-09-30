@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/xfdfreader/xfdfreader/"
 product_version: "26.9.0"
 ---
-## XfdfReader() {#constructor}
+## XfdfReader constructor
 
 The default constructor.
 

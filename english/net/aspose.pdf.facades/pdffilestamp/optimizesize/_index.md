@@ -5,7 +5,7 @@ articleTitle: "OptimizeSize"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileStamp property. Gets or sets optimization flag. Equal resource streams in resultant file are merged into one PDF object if this flag set. This allows ..."
 type: docs
-weight: 330
+weight: 270
 url: "/net/aspose.pdf.facades/pdffilestamp/optimizesize/"
 product_version: "26.9.0"
 ---

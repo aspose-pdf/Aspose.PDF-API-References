@@ -5,11 +5,11 @@ articleTitle: "TryEncryptFile"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileSecurity method. Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access. The user password and the owner p..."
 type: docs
-weight: 80
+weight: 40
 url: "/net/aspose.pdf.facades/pdffilesecurity/tryencryptfile/"
 product_version: "26.9.0"
 ---
-## TryEncryptFile(string, string, [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/), [KeySize](../../../aspose.pdf.facades/keysize/)) {#tryencryptfile}
+## PdfFileSecurity.TryEncryptFile method
 
 Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access.
  The user password and the owner password can be null or empty. The owner password will be replaced 
@@ -17,19 +17,18 @@ Encrypts Pdf file with userpassword and ownerpassword and sets the document's pr
  Does not throw an exception if process failed.
 
 ```csharp
-public bool TryEncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, KeySize keySize)
+public bool TryEncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
+    KeySize keySize)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| userPassword | string | User password. |
-| ownerPassword | string | Owner password. |
+| userPassword | String | User password. |
+| ownerPassword | String | Owner password. |
 | privilege | DocumentPrivilege | Set privilege. |
 | keySize | KeySize | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
 
 ### Return Value
-
-bool
 
 True for success, or false.
 
@@ -51,6 +50,8 @@ True for success, or false.
 
 ### See Also
 
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* enum [KeySize](../../../aspose.pdf.facades/keysize/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

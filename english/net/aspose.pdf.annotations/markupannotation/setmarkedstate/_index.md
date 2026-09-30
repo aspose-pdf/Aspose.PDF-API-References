@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.annotations/markupannotation/setmarkedstate/"
 product_version: "26.9.0"
 ---
-## SetMarkedState(bool) {#setmarkedstate}
+## MarkupAnnotation.SetMarkedState method
 
 Sets Marked and Unmarked state for the annotation.
  Note, the state stored in other text annotation which has state and statemodel keys.
@@ -20,7 +20,7 @@ public void SetMarkedState(bool marked)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| marked | bool | True if sets Marked state, and false if sets Unmarked state. |
+| marked | Boolean | True if sets Marked state, and false if sets Unmarked state. |
 
 ### See Also
 

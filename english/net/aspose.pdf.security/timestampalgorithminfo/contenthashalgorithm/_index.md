@@ -19,7 +19,7 @@ public readonly DigestHashAlgorithm ContentHashAlgorithm;
 
 ### See Also
 
-* class [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
 * class [TimestampAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)

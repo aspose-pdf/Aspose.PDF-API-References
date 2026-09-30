@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf/imageplacementcollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## ImagePlacementCollection.Clear method
 
 Clears all items from the collection.
 

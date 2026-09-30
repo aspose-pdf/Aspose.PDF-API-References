@@ -9,12 +9,13 @@ weight: 620
 url: "/net/aspose.pdf.ai/istringorobject-1/"
 product_version: "26.9.0"
 ---
-## IStringOrObject<T> interface
+## IStringOrObject&lt;T&gt; interface
 
 Represents an object that can be either a string value or an object value.
 
 ```csharp
-public interface IStringOrObject<T><T>
+public interface IStringOrObject<T>
+    where T : class
 ```
 
 ## Type Parameters

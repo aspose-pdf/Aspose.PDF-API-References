@@ -25,28 +25,7 @@ public ButtonField()
 
 ---
 
-## ButtonField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
-
-ButtonField constructor.
-
-```csharp
-public ButtonField(Page page, Rectangle rect)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Page where button will be placed. |
-| rect | Rectangle | Rectangle where button is placed on the page. |
-
-### See Also
-
-* class [ButtonField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## ButtonField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_2}
+## ButtonField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
 
 ButtonField constructore.
 
@@ -61,6 +40,31 @@ public ButtonField(Document doc, Rectangle rect)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ButtonField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_2}
+
+ButtonField constructor.
+
+```csharp
+public ButtonField(Page page, Rectangle rect)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | Page where button will be placed. |
+| rect | Rectangle | Rectangle where button is placed on the page. |
+
+### See Also
+
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

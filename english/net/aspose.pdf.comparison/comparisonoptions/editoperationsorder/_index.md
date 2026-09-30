@@ -19,7 +19,7 @@ public EditOperationsOrder EditOperationsOrder { get; set; }
 
 ### See Also
 
-* class [EditOperationsOrder](../../../aspose.pdf.comparison/editoperationsorder/)
+* enum [EditOperationsOrder](../../../aspose.pdf.comparison/editoperationsorder/)
 * class [ComparisonOptions](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

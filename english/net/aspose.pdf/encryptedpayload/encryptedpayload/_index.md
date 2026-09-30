@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/encryptedpayload/encryptedpayload/"
 product_version: "26.9.0"
 ---
-## EncryptedPayload([FileSpecification](../../../aspose.pdf/filespecification/)) {#constructor}
+## EncryptedPayload constructor
 
 Initialize Encrypted payload instance.
 
@@ -23,6 +23,7 @@ public EncryptedPayload(FileSpecification fileSpecification)
 
 ### See Also
 
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
 * class [EncryptedPayload](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

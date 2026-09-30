@@ -22,8 +22,8 @@ public class SetRGBColorStroke : SetColorOperator
 
 | Name | Description |
 | --- | --- |
-| [SetRGBColorStroke](./setrgbcolorstroke/#constructor)(*[Color](../../aspose.pdf/color/)*) | Initializes operator with color. |
-| [SetRGBColorStroke](./setrgbcolorstroke/#constructor_1)(*double, double, double*) | Initializes operator. |
+| [SetRGBColorStroke](./setrgbcolorstroke/#constructor)(Color) | Initializes operator with color. |
+| [SetRGBColorStroke](./setrgbcolorstroke/#constructor_1)(double, double, double) | Initializes operator. |
 
 ## Properties
 
@@ -31,18 +31,18 @@ public class SetRGBColorStroke : SetColorOperator
 | --- | --- |
 | [B](./b/) { get; set; } | Gets or sets the blue component. |
 | [G](./g/) { get; set; } | Gets or sets the green component. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. *(Inherited from Operator)* |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
 | [R](./r/) { get; set; } | Gets or sets the red component. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Accept](./accept/)(*IOperatorSelector*) | Accepts visitor object to process operator. |
-| [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(*Operator*) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc). *(Inherited from Operator)* |
-| [ToString](./tostring/) | Returns text representation of operator. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(*Operator*) | Compares this instance with the given object. *(Inherited from Operator)* |
-| [getColor](./getcolor/) | Returns color specified by operator. |
+| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [ToString](./tostring/)() | Returns text representation of operator. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
+| override [getColor](./getcolor/)() | Returns color specified by operator. |
 
 ### See Also
 

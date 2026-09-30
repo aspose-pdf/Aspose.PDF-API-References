@@ -9,12 +9,12 @@ weight: 20
 url: "/net/aspose.pdf.printing/papersourceextensions/toasposepapersource/"
 product_version: "26.9.0"
 ---
-## ToAsposePaperSource([PaperSource](../../../aspose.pdf.printing/papersource/)) {#toasposepapersource}
+## PaperSourceExtensions.ToAsposePaperSource method
 
 Converts Windows-specific System.Drawing.Printing.PaperSource to [`PaperSource`](../../../aspose.pdf.printing/papersource/).
 
 ```csharp
-public PaperSource ToAsposePaperSource(PaperSource nativeSource)
+public static PaperSource ToAsposePaperSource(this PaperSource nativeSource)
 ```
 
 | Parameter | Type | Description |
@@ -22,8 +22,6 @@ public PaperSource ToAsposePaperSource(PaperSource nativeSource)
 | nativeSource | PaperSource | Windows paper source to convert. |
 
 ### Return Value
-
-[PaperSource](../../../aspose.pdf.printing/papersource/)
 
 Converted paper source.
 

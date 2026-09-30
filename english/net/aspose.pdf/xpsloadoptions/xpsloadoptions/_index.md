@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/xpsloadoptions/xpsloadoptions/"
 product_version: "26.9.0"
 ---
-## XpsLoadOptions() {#constructor}
+## XpsLoadOptions constructor
 
 The default constructor.
 

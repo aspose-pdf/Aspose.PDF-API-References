@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/saveoptions.margininfo/margininfo/"
 product_version: "26.9.0"
 ---
-## SaveOptions.MarginInfo() {#constructor}
+## MarginInfo() {#constructor}
 
 Creates instance of MarginInfo
 
 ```csharp
-public SaveOptions.MarginInfo()
+public MarginInfo()
 ```
 
 ### See Also
@@ -25,17 +25,19 @@ public SaveOptions.MarginInfo()
 
 ---
 
-## SaveOptions.MarginInfo(MarginPartStyle) {#constructor_1}
+## MarginInfo(MarginPartStyle) {#constructor_1}
 
-Initializes a new instance of the SaveOptions.MarginInfo class.
+Creates instance of MarginInfo class and initializes
+ all elements of page margin(Top, Left, Right, Bottom)
+ with attributes copied from supplied margin style
 
 ```csharp
-public SaveOptions.MarginInfo(MarginPartStyle commonMargin)
+public MarginInfo(MarginPartStyle commonMargin)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| commonMargin | MarginPartStyle |  |
+| commonMargin | MarginPartStyle | style of margin parts that will be used for all elements of margin(left, right, top, bottom) |
 
 ### See Also
 

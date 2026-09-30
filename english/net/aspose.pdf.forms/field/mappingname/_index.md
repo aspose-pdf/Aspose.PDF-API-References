@@ -5,7 +5,7 @@ articleTitle: "MappingName"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Field property. Gets or sets mapping name of the field that shall be used when exporting interactive form field data from the document."
 type: docs
-weight: 140
+weight: 130
 url: "/net/aspose.pdf.forms/field/mappingname/"
 product_version: "26.9.0"
 ---

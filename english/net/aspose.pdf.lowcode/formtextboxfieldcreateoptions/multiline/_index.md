@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets/sets the value to determine whether created TextBoxField is multiline or not (if will be set).
 
 ```csharp
-public Nullable<bool> Multiline { get; set; }
+public bool? Multiline { get; set; }
 ```
 
 ### See Also

@@ -19,7 +19,7 @@ public void GetNextPageText(string outputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file path and name to save the text. |
+| outputFile | String | The file path and name to save the text. |
 
 ### See Also
 

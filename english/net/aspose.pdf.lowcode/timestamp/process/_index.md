@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.lowcode/timestamp/process/"
 product_version: "26.9.0"
 ---
-## Process([IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)) {#process}
+## Timestamp.Process method
 
 Processes the timestamp plugin with the supplied options.
 
@@ -23,8 +23,6 @@ public ResultContainer Process(IPluginOptions options)
 
 ### Return Value
 
-[ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
-
 A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) with the operation results.
 
 ### Exceptions
@@ -37,6 +35,7 @@ A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) with the ope
 ### See Also
 
 * class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
+* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
 * class [Timestamp](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

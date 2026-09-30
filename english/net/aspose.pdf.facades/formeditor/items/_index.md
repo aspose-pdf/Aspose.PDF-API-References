@@ -5,7 +5,7 @@ articleTitle: "Items"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormEditor property. Sets items which will be added t onewly created list box or combo box. formEditor = new Aspose.Pdf.Facades.FormEditor(\"input.pdf\", \"outp..."
 type: docs
-weight: 460
+weight: 370
 url: "/net/aspose.pdf.facades/formeditor/items/"
 product_version: "26.9.0"
 ---

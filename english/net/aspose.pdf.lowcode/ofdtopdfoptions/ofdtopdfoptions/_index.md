@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/ofdtopdfoptions/ofdtopdfoptions/"
 product_version: "26.9.0"
 ---
-## OfdToPdfOptions() {#constructor}
+## OfdToPdfOptions constructor
 
 The default constructor.
 

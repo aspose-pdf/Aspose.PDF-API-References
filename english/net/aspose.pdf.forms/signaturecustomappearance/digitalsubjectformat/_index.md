@@ -25,7 +25,7 @@ public SubjectNameElements[] DigitalSubjectFormat { get; set; }
 
 ### See Also
 
-* class [SubjectNameElements](../../../aspose.pdf.forms/subjectnameelements/)
+* enum [SubjectNameElements](../../../aspose.pdf.forms/subjectnameelements/)
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

@@ -5,7 +5,7 @@ articleTitle: "PageIndex"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Field property. Gets index of page which contains this field."
 type: docs
-weight: 230
+weight: 220
 url: "/net/aspose.pdf.forms/field/pageindex/"
 product_version: "26.9.0"
 ---
@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets index of page which contains this field.
 
 ```csharp
-public int PageIndex { get; }
+public override int PageIndex { get; }
 ```
 
 ### See Also

@@ -9,7 +9,7 @@ weight: 160
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withassistantname/"
 product_version: "26.9.0"
 ---
-## WithAssistantName(string) {#withassistantname}
+## OpenAIImageDescriptionCopilotOptions.WithAssistantName method
 
 Sets the assistant name for the image description copilot options.
 
@@ -19,18 +19,15 @@ public OpenAIImageDescriptionCopilotOptions WithAssistantName(string assistantNa
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| assistantName | string | The assistant name to set. |
+| assistantName | String | The assistant name to set. |
 
 ### Return Value
-
-[OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
 
 The current instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
 
 ### See Also
 
 * class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
-* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

@@ -15,7 +15,7 @@ Text with the specified size or less will be ignored during conversion.
  We do not remove this text, we ignore it and do not transfer it to the output file
 
 ```csharp
-public Nullable<float> IgnoredTextFontSize { get; set; }
+public float? IgnoredTextFontSize { get; set; }
 ```
 
 ### See Also

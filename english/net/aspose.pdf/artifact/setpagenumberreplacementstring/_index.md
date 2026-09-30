@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf/artifact/setpagenumberreplacementstring/"
 product_version: "26.9.0"
 ---
-## SetPageNumberReplacementString(string) {#setpagenumberreplacementstring}
+## Artifact.SetPageNumberReplacementString method
 
 Sets what string will be replaced with the page number.
  The default value is #.
@@ -20,7 +20,7 @@ public void SetPageNumberReplacementString(string value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | string | String value that should be replaced with the page number. |
+| value | String | String value that should be replaced with the page number. |
 
 ### See Also
 

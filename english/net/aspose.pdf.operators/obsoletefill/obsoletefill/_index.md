@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/obsoletefill/obsoletefill/"
 product_version: "26.9.0"
 ---
-## ObsoleteFill() {#constructor}
+## ObsoleteFill constructor
 
 Initializes operator.
 

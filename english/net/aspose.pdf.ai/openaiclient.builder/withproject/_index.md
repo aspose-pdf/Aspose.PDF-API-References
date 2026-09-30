@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.ai/openaiclient.builder/withproject/"
 product_version: "26.9.0"
 ---
-## WithProject(string) {#withproject}
+## OpenAIClient.Builder.WithProject method
 
 Sets the project ID for the client.
 
@@ -19,11 +19,9 @@ public Builder WithProject(string projectId)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| projectId | string | The project ID to set. |
+| projectId | String | The project ID to set. |
 
 ### Return Value
-
-Builder
 
 The current instance of `Builder`.
 

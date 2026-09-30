@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/et/et/"
 product_version: "26.9.0"
 ---
-## ET() {#constructor}
+## ET constructor
 
 Initializes operator.
 

@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/getdifference/"
 product_version: "26.9.0"
 ---
-## GetDifference([Page](../../../aspose.pdf/page/), [Page](../../../aspose.pdf/page/)) {#getdifference}
+## GraphicalPdfComparer.GetDifference method
 
 Gets differences between pages images.
  The result contains an image of the first page compared and an array of differences.
@@ -25,8 +25,6 @@ public ImagesDifference GetDifference(Page page1, Page page2)
 
 ### Return Value
 
-[ImagesDifference](../../../aspose.pdf.comparison/imagesdifference/)
-
 The [`ImagesDifference`](../../../aspose.pdf.comparison/imagesdifference/) instance.
 
 ### Exceptions
@@ -38,6 +36,7 @@ The [`ImagesDifference`](../../../aspose.pdf.comparison/imagesdifference/) insta
 ### See Also
 
 * class [ImagesDifference](../../../aspose.pdf.comparison/imagesdifference/)
+* class [Page](../../../aspose.pdf/page/)
 * class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

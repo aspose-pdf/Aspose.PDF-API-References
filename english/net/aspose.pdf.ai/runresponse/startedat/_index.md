@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the Unix timestamp (in seconds) for when the run was started.
 
 ```csharp
-public Nullable<long> StartedAt { get; set; }
+public long? StartedAt { get; set; }
 ```
 
 ### See Also

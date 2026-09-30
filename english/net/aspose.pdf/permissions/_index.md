@@ -5,7 +5,7 @@ articleTitle: "Permissions"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Permissions enum. This enum represents user's permissions for a pdf."
 type: docs
-weight: 2540
+weight: 2500
 url: "/net/aspose.pdf/permissions/"
 product_version: "26.9.0"
 ---
@@ -14,6 +14,7 @@ product_version: "26.9.0"
 This enum represents user's permissions for a pdf.
 
 ```csharp
+[Flags]
 public enum Permissions
 ```
 

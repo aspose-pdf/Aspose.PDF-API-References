@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.logicalstructure/structureattribute/getnamevalue/"
 product_version: "26.9.0"
 ---
-## GetNameValue() {#getnamevalue}
+## StructureAttribute.GetNameValue method
 
 Gets Value Name.
 
@@ -18,8 +18,6 @@ public AttributeName GetNameValue()
 ```
 
 ### Return Value
-
-[AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
 
 Value Name.
 

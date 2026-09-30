@@ -19,7 +19,7 @@ public PrintScaling PrintScaling { get; set; }
 
 ### See Also
 
-* class [PrintScaling](../../../aspose.pdf/printscaling/)
+* enum [PrintScaling](../../../aspose.pdf/printscaling/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

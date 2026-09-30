@@ -19,7 +19,7 @@ public FreeTextIntent Intent { get; set; }
 
 ### See Also
 
-* class [FreeTextIntent](../../../aspose.pdf.annotations/freetextintent/)
+* enum [FreeTextIntent](../../../aspose.pdf.annotations/freetextintent/)
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

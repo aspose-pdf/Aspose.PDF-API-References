@@ -5,7 +5,7 @@ articleTitle: "PdfVersion"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.PdfVersion enum. This enum represents version of pdf file."
 type: docs
-weight: 2510
+weight: 2470
 url: "/net/aspose.pdf/pdfversion/"
 product_version: "26.9.0"
 ---

@@ -5,7 +5,7 @@ articleTitle: "AutoRotateMode"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfViewer property. Gets or sets a AutoRotateMode value that indicates direction of rotation"
 type: docs
-weight: 520
+weight: 480
 url: "/net/aspose.pdf.facades/pdfviewer/autorotatemode/"
 product_version: "26.9.0"
 ---
@@ -19,7 +19,7 @@ public AutoRotateMode AutoRotateMode { get; set; }
 
 ### See Also
 
-* class [AutoRotateMode](../../../aspose.pdf.facades/autorotatemode/)
+* enum [AutoRotateMode](../../../aspose.pdf.facades/autorotatemode/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

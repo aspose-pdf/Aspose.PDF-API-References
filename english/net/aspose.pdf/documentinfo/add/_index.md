@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/documentinfo/add/"
 product_version: "26.9.0"
 ---
-## Add(string, string) {#add}
+## DocumentInfo.Add method
 
 Adds an element with the specified key and value into the collection.
 
@@ -19,8 +19,8 @@ public void Add(string key, string value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | The key of the element to add. |
-| value | string | The value of the element to add. The value can be null. |
+| key | String | The key of the element to add. |
+| value | String | The value of the element to add. The value can be null. |
 
 ### See Also
 

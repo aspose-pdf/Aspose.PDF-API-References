@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/annotation/getrectangle/"
 product_version: "26.9.0"
 ---
-## GetRectangle(bool) {#getrectangle}
+## Annotation.GetRectangle method
 
 Returns rectangle of annotation taking into consideration page rotation.
 
@@ -19,11 +19,9 @@ public Rectangle GetRectangle(bool considerRotation)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| considerRotation | bool | If true, page rotation is takein into consideration. |
+| considerRotation | Boolean | If true, page rotation is takein into consideration. |
 
 ### Return Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
 
 True - if rectangle found; otherwise, false.
 

@@ -5,7 +5,7 @@ articleTitle: "Page.BeforePageGenerate"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Procedure for customize header and footer."
 type: docs
-weight: 2120
+weight: 2080
 url: "/net/aspose.pdf/page.beforepagegenerate/"
 product_version: "26.9.0"
 ---
@@ -14,8 +14,12 @@ product_version: "26.9.0"
 Procedure for customize header and footer.
 
 ```csharp
-public delegate void BeforePageGenerate()
+public delegate void BeforePageGenerate(Page page);
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | The current page. |
 
 ### See Also
 

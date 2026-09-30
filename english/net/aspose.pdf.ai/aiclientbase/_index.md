@@ -31,7 +31,7 @@ public abstract class AIClientBase : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/) | Disposes of the resources used by the [`AIClientBase`](../../aspose.pdf.ai/aiclientbase/). |
+| [Dispose](./dispose/)() | Disposes of the resources used by the [`AIClientBase`](../../aspose.pdf.ai/aiclientbase/). |
 
 ### See Also
 

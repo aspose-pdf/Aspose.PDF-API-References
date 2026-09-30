@@ -19,8 +19,8 @@ public void BindPdf(string pdfFile, int pageNumber)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdfFile | string | Path to PDF file. |
-| pageNumber | int | Number of page in PDF file |
+| pdfFile | String | Path to PDF file. |
+| pageNumber | Int32 | Number of page in PDF file |
 
 ### See Also
 
@@ -41,7 +41,7 @@ public void BindPdf(Stream pdfStream, int pageNumber)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pdfStream | Stream | Stream which contains PDF document. |
-| pageNumber | int | Page index of the document whihc will be used as stamp. |
+| pageNumber | Int32 | Page index of the document whihc will be used as stamp. |
 
 ### See Also
 

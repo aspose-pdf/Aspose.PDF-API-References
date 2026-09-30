@@ -19,7 +19,7 @@ public Permissions Permissions { get; }
 
 ### See Also
 
-* class [Permissions](../../../aspose.pdf/permissions/)
+* enum [Permissions](../../../aspose.pdf/permissions/)
 * class [EncryptionParameters](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)

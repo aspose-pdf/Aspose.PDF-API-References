@@ -9,17 +9,18 @@ weight: 20
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilot/getimagedescriptionsasync/"
 product_version: "26.9.0"
 ---
-## GetImageDescriptionsAsync(Nullable<CancellationToken>) {#getimagedescriptionsasync}
+## OpenAIImageDescriptionCopilot.GetImageDescriptionsAsync method
 
 
 
 ```csharp
-public Task<List<ImageDescriptionResult>> GetImageDescriptionsAsync(Nullable<CancellationToken> cancellationToken)
+public Task<List<ImageDescriptionResult>> GetImageDescriptionsAsync(
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cancellationToken | Nullable<CancellationToken> |  |
+| cancellationToken | Nullable`1 |  |
 
 ### Return Value
 

@@ -22,8 +22,8 @@ public static class PaperSourceExtensions
 
 | Name | Description |
 | --- | --- |
-| [ToAsposePaperSource](./toasposepapersource/)(*PaperSource*) | Converts Windows-specific System.Drawing.Printing.PaperSource to [`PaperSource`](../../aspose.pdf.printing/papersource/). |
-| [ToNativePaperSource](./tonativepapersource/)(*PaperSource*) | Converts [`PaperSource`](../../aspose.pdf.printing/papersource/) to Windows-specific System.Drawing.Printing.PaperSource. |
+| static [ToAsposePaperSource](./toasposepapersource/)(this PaperSource) | Converts Windows-specific System.Drawing.Printing.PaperSource to [`PaperSource`](../../aspose.pdf.printing/papersource/). |
+| static [ToNativePaperSource](./tonativepapersource/)(this PaperSource) | Converts [`PaperSource`](../../aspose.pdf.printing/papersource/) to Windows-specific System.Drawing.Printing.PaperSource. |
 
 ### See Also
 

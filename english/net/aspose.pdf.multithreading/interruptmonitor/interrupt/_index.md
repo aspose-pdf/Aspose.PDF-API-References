@@ -9,12 +9,12 @@ weight: 20
 url: "/net/aspose.pdf.multithreading/interruptmonitor/interrupt/"
 product_version: "26.9.0"
 ---
-## Interrupt() {#interrupt}
+## InterruptMonitor.Interrupt method
 
 Sends a request to interrupt operations.
 
 ```csharp
-public void Interrupt()
+public virtual void Interrupt()
 ```
 
 ### See Also

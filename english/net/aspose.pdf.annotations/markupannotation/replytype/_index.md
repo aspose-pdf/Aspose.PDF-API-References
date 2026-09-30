@@ -20,7 +20,7 @@ public ReplyType ReplyType { get; set; }
 
 ### See Also
 
-* class [ReplyType](../../../aspose.pdf.annotations/replytype/)
+* enum [ReplyType](../../../aspose.pdf.annotations/replytype/)
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

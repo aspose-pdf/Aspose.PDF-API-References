@@ -29,9 +29,9 @@ public class PDF3DViewArray
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*PDF3DView*) | Adds the specified view. |
-| [RemoveAll](./removeall/) | Removes all views. |
-| [RemoveAt](./removeat/)(*int*) | Removes view from views array at specified index. |
+| [Add](./add/)(PDF3DView) | Adds the specified view. |
+| [RemoveAll](./removeall/)() | Removes all views. |
+| [RemoveAt](./removeat/)(int) | Removes view from views array at specified index. |
 
 ### See Also
 

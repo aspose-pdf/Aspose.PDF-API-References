@@ -35,7 +35,7 @@ public void ExtractAttachment(string attachmentFileName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| attachmentFileName | string | Name of attachment to extract |
+| attachmentFileName | String | Name of attachment to extract |
 
 ### See Also
 

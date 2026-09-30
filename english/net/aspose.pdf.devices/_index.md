@@ -21,7 +21,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | Class | Description |
 | --- | --- |
 | [BmpDevice](./bmpdevice/) | Represents image device that helps to save pdf document pages into bmp. |
-| [Device](./device/) | Abstract class for all types of devices. Device is used to represent pdf document in some format. |
+| [Device](./device/) | Abstract class for all types of devices. Device is used to represent pdf document in some format. For example, document page can be represented as image or text. |
 | [DicomDevice](./dicomdevice/) | Represents image device that helps to save pdf document pages into Dicom format. |
 | [DocumentDevice](./documentdevice/) | Abstract class for all devices which is used to process the whole pdf document. |
 | [EmfDevice](./emfdevice/) | Represents image device that helps to save pdf document pages into emf. |

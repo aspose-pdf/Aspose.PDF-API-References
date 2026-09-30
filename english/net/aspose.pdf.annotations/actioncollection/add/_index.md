@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/actioncollection/add/"
 product_version: "26.9.0"
 ---
-## Add([PdfAction](../../../aspose.pdf.annotations/pdfaction/)) {#add}
+## ActionCollection.Add method
 
 Adds new action into colleciton.
 
@@ -23,6 +23,7 @@ public void Add(PdfAction action)
 
 ### See Also
 
+* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
 * class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

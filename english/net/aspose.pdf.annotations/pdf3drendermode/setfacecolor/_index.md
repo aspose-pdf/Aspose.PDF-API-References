@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.annotations/pdf3drendermode/setfacecolor/"
 product_version: "26.9.0"
 ---
-## SetFaceColor([Color](../../../aspose.pdf/color/)) {#setfacecolor}
+## PDF3DRenderMode.SetFaceColor method
 
 Sets the color of the face.
 
@@ -23,14 +23,12 @@ public PDF3DRenderMode SetFaceColor(Color color)
 
 ### Return Value
 
-[PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
-
 PDF3DRenderMode.
 
 ### See Also
 
 * class [PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
-* class [PDF3DRenderMode](../)
+* class [Color](../../../aspose.pdf/color/)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

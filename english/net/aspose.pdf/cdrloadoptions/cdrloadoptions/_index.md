@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/cdrloadoptions/cdrloadoptions/"
 product_version: "26.9.0"
 ---
-## CdrLoadOptions() {#constructor}
+## CdrLoadOptions constructor
 
 The default constructor.
 

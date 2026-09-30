@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.facades/bookmarks/bookmarks/"
 product_version: "26.9.0"
 ---
-## Bookmarks() {#constructor}
+## Bookmarks constructor
 
 The default constructor.
 

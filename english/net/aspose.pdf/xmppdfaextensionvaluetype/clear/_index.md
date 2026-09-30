@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## XmpPdfAExtensionValueType.Clear method
 
 Clears all fields.
 

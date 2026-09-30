@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/bmc/bmc/"
 product_version: "26.9.0"
 ---
-## BMC(string) {#constructor}
+## BMC constructor
 
 Initializes operator.
 
@@ -19,7 +19,7 @@ public BMC(string tag)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tag | string | Marked content tag. |
+| tag | String | Marked content tag. |
 
 ### See Also
 

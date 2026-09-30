@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.annotations/annotationcollection/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## AnnotationCollection.GetEnumerator method
 
 Returns collection enumerator.
 
@@ -18,8 +18,6 @@ public IEnumerator<Annotation> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[Annotation](../../../aspose.pdf.annotations/annotation/)>
 
 Enumerator object
 

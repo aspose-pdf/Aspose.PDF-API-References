@@ -5,7 +5,7 @@ articleTitle: "BLINDH"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfPageEditor field. Vertical Blinds"
 type: docs
-weight: 280
+weight: 260
 url: "/net/aspose.pdf.facades/pdfpageeditor/blindh/"
 product_version: "26.9.0"
 ---

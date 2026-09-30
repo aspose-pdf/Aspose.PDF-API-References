@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.logicalstructure/structureelement/generateid/"
 product_version: "26.9.0"
 ---
-## GenerateId() {#generateid}
+## StructureElement.GenerateId method
 
 Generate ID for structure element.
 

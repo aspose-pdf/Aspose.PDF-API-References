@@ -22,7 +22,7 @@ public class RunStepDetails
 
 | Name | Description |
 | --- | --- |
-| [RunStepDetails](./runstepdetails/#constructor) | The default constructor. |
+| [RunStepDetails](./runstepdetails/)() | The default constructor. |
 
 ## Properties
 

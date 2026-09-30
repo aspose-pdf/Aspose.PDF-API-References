@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/structureattribute/structureattribute/"
 product_version: "26.9.0"
 ---
-## StructureAttribute([AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)) {#constructor}
+## StructureAttribute constructor
 
 Initializes a new instance of the StructureAttribute.
 
@@ -23,6 +23,7 @@ public StructureAttribute(AttributeKey attributeKey)
 
 ### See Also
 
+* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
 * class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

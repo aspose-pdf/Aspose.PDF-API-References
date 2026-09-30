@@ -5,11 +5,11 @@ articleTitle: "SetFieldCombNumber"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormEditor method. Sets number of combs for a regular single-line text field (the field is automatically divided into as many equally spaced positions, or co..."
 type: docs
-weight: 140
+weight: 90
 url: "/net/aspose.pdf.facades/formeditor/setfieldcombnumber/"
 product_version: "26.9.0"
 ---
-## SetFieldCombNumber(string, int) {#setfieldcombnumber}
+## FormEditor.SetFieldCombNumber method
 
 Sets number of combs for a regular single-line text field (the field is 
  automatically divided into as many equally spaced positions, or combs, 
@@ -21,12 +21,10 @@ public bool SetFieldCombNumber(string fieldName, int combNumber)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | The qualified field name. |
-| combNumber | int | The number of combs to divide the field into. |
+| fieldName | String | The qualified field name. |
+| combNumber | Int32 | The number of combs to divide the field into. |
 
 ### Return Value
-
-bool
 
 If success, return true;else false.
 

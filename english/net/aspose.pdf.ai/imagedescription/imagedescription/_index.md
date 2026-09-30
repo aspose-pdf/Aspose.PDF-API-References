@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/imagedescription/imagedescription/"
 product_version: "26.9.0"
 ---
-## ImageDescription() {#constructor}
+## ImageDescription constructor
 
 The default constructor.
 

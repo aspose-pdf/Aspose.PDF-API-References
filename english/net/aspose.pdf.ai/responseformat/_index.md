@@ -15,14 +15,14 @@ product_version: "26.9.0"
 Represents the format of a response, which can be either a string value or an object value.
 
 ```csharp
-public class ResponseFormat
+public class ResponseFormat : IStringOrObject<ObjectType>
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [ResponseFormat](./responseformat/#constructor) | The default constructor. |
+| [ResponseFormat](./responseformat/)() | The default constructor. |
 
 ## Properties
 
@@ -32,6 +32,12 @@ public class ResponseFormat
 | [IsStringValue](./isstringvalue/) { get; } | Gets a value indicating whether the response format is a string value. |
 | [ObjectValue](./objectvalue/) { get; set; } | Gets or sets the object value of the response format. |
 | [StringValue](./stringvalue/) { get; set; } | Gets or sets the string value of the response format. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| class [ObjectType](../../aspose.pdf.ai/responseformat.objecttype) | Represents an object value in the response format. |
 
 ### See Also
 

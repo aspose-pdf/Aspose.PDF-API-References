@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/addrange/"
 product_version: "26.9.0"
 ---
-## AddRange(XmpPdfAExtensionField[]) {#addrange}
+## XmpPdfAExtensionValueType.AddRange method
 
 Adds the range of fields.
 
@@ -23,6 +23,7 @@ public void AddRange(XmpPdfAExtensionField[] fields)
 
 ### See Also
 
+* class [XmpPdfAExtensionField](../../../aspose.pdf/xmppdfaextensionfield/)
 * class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -5,7 +5,7 @@ articleTitle: "Width"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Cell property. Gets or sets the column width."
 type: docs
-weight: 180
+weight: 170
 url: "/net/aspose.pdf/cell/width/"
 product_version: "26.9.0"
 ---

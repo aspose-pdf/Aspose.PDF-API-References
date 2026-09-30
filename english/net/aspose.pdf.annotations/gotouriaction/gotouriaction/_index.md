@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/gotouriaction/gotouriaction/"
 product_version: "26.9.0"
 ---
-## GoToURIAction(string) {#constructor}
+## GoToURIAction constructor
 
 Creates an instance of [`GoToURIAction`](../../../aspose.pdf.annotations/gotouriaction/) class.
 
@@ -19,7 +19,7 @@ public GoToURIAction(string uri)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| uri | string | The uniform resource identifier to resolve. |
+| uri | String | The uniform resource identifier to resolve. |
 
 ### See Also
 

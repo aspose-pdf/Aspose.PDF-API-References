@@ -19,7 +19,7 @@ public PrinterMarkCornerPosition Position { get; set; }
 
 ### See Also
 
-* class [PrinterMarkCornerPosition](../../../aspose.pdf.annotations/printermarkcornerposition/)
+* enum [PrinterMarkCornerPosition](../../../aspose.pdf.annotations/printermarkcornerposition/)
 * class [CornerPrinterMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

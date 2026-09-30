@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/all/"
 product_version: "26.9.0"
 ---
-## All() {#all}
+## HiddenDataSanitizationOptions.All method
 
 Creates a new instance of the [`HiddenDataSanitizationOptions`](../../../aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/) class with all options set for sanitization.
  This includes enabling the removal of annotations, JavaScript, metadata, attachments, search index, private information,
@@ -18,19 +18,16 @@ Creates a new instance of the [`HiddenDataSanitizationOptions`](../../../aspose.
  after obtaining the instance, as they are not active by default.
 
 ```csharp
-public HiddenDataSanitizationOptions All()
+public static HiddenDataSanitizationOptions All()
 ```
 
 ### Return Value
-
-[HiddenDataSanitizationOptions](../../../aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/)
 
 A [`HiddenDataSanitizationOptions`](../../../aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/) instance with all sanitization options preconfigured.
 
 ### See Also
 
 * class [HiddenDataSanitizationOptions](../../../aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/)
-* class [HiddenDataSanitizationOptions](../)
 * namespace [Aspose.Pdf.Security.HiddenDataSanitization](../../../aspose.pdf.security.hiddendatasanitization/)
 * assembly [Aspose.PDF](../../../)
 

@@ -9,22 +9,20 @@ weight: 20
 url: "/net/aspose.pdf.ai/documentchunk/getvectordefinition/"
 product_version: "26.9.0"
 ---
-## GetVectorDefinition(int) {#getvectordefinition}
+## DocumentChunk.GetVectorDefinition method
 
 Returns a `VectorStoreCollectionDefinition` describing the schema
  of [`DocumentChunk`](../../../aspose.pdf.ai/documentchunk/) for use with a vector store collection.
 
 ```csharp
-public VectorStoreCollectionDefinition GetVectorDefinition(int dimensions)
+public static VectorStoreCollectionDefinition GetVectorDefinition(int dimensions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| dimensions | int | The number of dimensions of the embedding vector produced by the embedding model. |
+| dimensions | Int32 | The number of dimensions of the embedding vector produced by the embedding model. |
 
 ### Return Value
-
-VectorStoreCollectionDefinition
 
 A `VectorStoreCollectionDefinition` that maps all relevant
  [`DocumentChunk`](../../../aspose.pdf.ai/documentchunk/) properties to their vector store roles.

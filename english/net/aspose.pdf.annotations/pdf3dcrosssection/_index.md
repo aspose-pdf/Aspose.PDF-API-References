@@ -22,7 +22,7 @@ public class PDF3DCrossSection
 
 | Name | Description |
 | --- | --- |
-| [PDF3DCrossSection](./pdf3dcrosssection/#constructor)(*[Document](../../aspose.pdf/document/)*) | Initializes a new instance of the [`PDF3DCrossSection`](../../aspose.pdf.annotations/pdf3dcrosssection/) class. |
+| [PDF3DCrossSection](./pdf3dcrosssection/)(Document) | Initializes a new instance of the [`PDF3DCrossSection`](../../aspose.pdf.annotations/pdf3dcrosssection/) class. |
 
 ## Properties
 

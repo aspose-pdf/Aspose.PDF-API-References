@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/document.idocumentfontutilities/getallfonts/"
 product_version: "26.9.0"
 ---
-## GetAllFonts() {#getallfonts}
+## Document.IDocumentFontUtilities.GetAllFonts method
 
 Returns all fonts from document
 
@@ -18,8 +18,6 @@ public Font[] GetAllFonts()
 ```
 
 ### Return Value
-
-[Font](../../../aspose.pdf.text/font/)[]
 
 fonts
 

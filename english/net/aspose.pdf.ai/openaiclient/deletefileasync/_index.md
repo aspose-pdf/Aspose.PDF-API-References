@@ -9,22 +9,21 @@ weight: 270
 url: "/net/aspose.pdf.ai/openaiclient/deletefileasync/"
 product_version: "26.9.0"
 ---
-## DeleteFileAsync(string, Nullable<CancellationToken>) {#deletefileasync}
+## OpenAIClient.DeleteFileAsync method
 
 Deletes a specific file asynchronously.
 
 ```csharp
-public Task<DeleteStatusResponse> DeleteFileAsync(string fileId, Nullable<CancellationToken> cancellationToken)
+public Task<DeleteStatusResponse> DeleteFileAsync(string fileId, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileId | string | The ID of the file to delete. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| fileId | String | The ID of the file to delete. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[DeleteStatusResponse](../../../aspose.pdf.ai/deletestatusresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the status of the delete operation.
 

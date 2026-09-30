@@ -20,7 +20,6 @@ public static PDF3DRenderMode TransparentWareFrame;
 ### See Also
 
 * class [PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
-* class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

@@ -14,13 +14,12 @@ product_version: "26.9.0"
 Legal size (356x216 mm).
 
 ```csharp
-public PageSize PageLegal { get; }
+public static PageSize PageLegal { get; }
 ```
 
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

@@ -22,24 +22,24 @@ public class MoveTo : Operator
 
 | Name | Description |
 | --- | --- |
-| [MoveTo](./moveto/#constructor)(*double, double*) | Inintalizes new `m` (move to) operator. |
+| [MoveTo](./moveto/)(double, double) | Inintalizes new `m` (move to) operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. *(Inherited from Operator)* |
-| [X](./x/) { get; set; } | X coordinate. |
-| [Y](./y/) { get; set; } | Y coordinate. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
+| [X](./x/) { get; set; } | X coordinate |
+| [Y](./y/) { get; set; } | Y coordinate |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Accept](./accept/)(*IOperatorSelector*) | Accepts visitor object to process operator. |
-| [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(*Operator*) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc). *(Inherited from Operator)* |
-| [ToString](./tostring/) | Returns text representation of the operator. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(*Operator*) | Compares this instance with the given object. *(Inherited from Operator)* |
+| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [ToString](./tostring/)() | Returns text representation of the operator. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 

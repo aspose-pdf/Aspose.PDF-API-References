@@ -5,11 +5,11 @@ articleTitle: "ImportDataTable"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "AutoFiller method. Imports data of DataTable type. Every column's name of the dataTable must be the same as one field name of the template pdf in case sensit..."
 type: docs
-weight: 30
+weight: 20
 url: "/net/aspose.pdf.facades/autofiller/importdatatable/"
 product_version: "26.9.0"
 ---
-## ImportDataTable(DataTable) {#importdatatable}
+## AutoFiller.ImportDataTable method
 
 Imports data of DataTable type. Every column's name of the dataTable must be the same as
  one field name of the template pdf in case sensitive.

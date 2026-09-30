@@ -9,7 +9,7 @@ weight: 640
 url: "/net/aspose.pdf.facades/pdfcontenteditor/getstamps/"
 product_version: "26.9.0"
 ---
-## GetStamps(int) {#getstamps}
+## PdfContentEditor.GetStamps method
 
 Returns array of stamps on the page.
 
@@ -19,11 +19,9 @@ public StampInfo[] GetStamps(int pageNumber)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | int | Page number where stamps will be searched. |
+| pageNumber | Int32 | Page number where stamps will be searched. |
 
 ### Return Value
-
-[StampInfo](../../../aspose.pdf.facades/stampinfo/)[]
 
 Array of stamps.
 

@@ -29,8 +29,8 @@ public abstract class PdfGeneratorOptions : IPluginOptions
 
 | Name | Description |
 | --- | --- |
-| [AddInput](./addinput/)(*IDataSource*) | Adds new data source to the PdfGenerator plugin data collection. |
-| [AddOutput](./addoutput/)(*IDataSource*) | Adds new data source to the PdfGenerator plugin data collection. |
+| [AddInput](./addinput/)(IDataSource) | Adds new data source to the PdfGenerator plugin data collection. |
+| [AddOutput](./addoutput/)(IDataSource) | Adds new data source to the PdfGenerator plugin data collection. |
 
 ### See Also
 

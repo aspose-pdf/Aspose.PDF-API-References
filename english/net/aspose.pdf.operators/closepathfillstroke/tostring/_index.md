@@ -9,17 +9,15 @@ weight: 30
 url: "/net/aspose.pdf.operators/closepathfillstroke/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## ClosePathFillStroke.ToString method
 
 Returns string representation of operator.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String representation
 

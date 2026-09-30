@@ -9,7 +9,7 @@ weight: 110
 url: "/net/aspose.pdf.facades/pdffileinfo/getdocumentprivilege/"
 product_version: "26.9.0"
 ---
-## GetDocumentPrivilege() {#getdocumentprivilege}
+## PdfFileInfo.GetDocumentPrivilege method
 
 Gets the PDF document privilege settings.
 
@@ -18,8 +18,6 @@ public DocumentPrivilege GetDocumentPrivilege()
 ```
 
 ### Return Value
-
-[DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
 
 The PDF document privilege settings.
 

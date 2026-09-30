@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf.vector/graphicelementcollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove([GraphicElement](../../../aspose.pdf.vector/graphicelement/)) {#remove}
+## GraphicElementCollection.Remove method
 
 Deletes the [`GraphicElement`](../../../aspose.pdf.vector/graphicelement/) element.
 
@@ -23,12 +23,11 @@ public bool Remove(GraphicElement item)
 
 ### Return Value
 
-bool
-
 True - if element found; otherwise, false.
 
 ### See Also
 
+* class [GraphicElement](../../../aspose.pdf.vector/graphicelement/)
 * class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

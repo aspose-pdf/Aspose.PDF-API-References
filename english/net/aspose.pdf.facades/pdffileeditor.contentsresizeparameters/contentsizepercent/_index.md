@@ -9,23 +9,21 @@ weight: 60
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent/"
 product_version: "26.9.0"
 ---
-## ContentSizePercent(double, double) {#contentsizepercent}
+## PdfFileEditor.ContentsResizeParameters.ContentSizePercent method
 
 Creates resize parameters with specified contents size in percents of initial page size.
  Margins are caculated automatically.
 
 ```csharp
-public ContentsResizeParameters ContentSizePercent(double width, double height)
+public static ContentsResizeParameters ContentSizePercent(double width, double height)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | double | New content width in percents. |
-| height | double | New contents height in percents. |
+| width | Double | New content width in percents. |
+| height | Double | New contents height in percents. |
 
 ### Return Value
-
-ContentsResizeParameters
 
 New resize parameters.
 

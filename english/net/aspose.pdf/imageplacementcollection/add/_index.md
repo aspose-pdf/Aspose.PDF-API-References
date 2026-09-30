@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/imageplacementcollection/add/"
 product_version: "26.9.0"
 ---
-## Add([ImagePlacement](../../../aspose.pdf/imageplacement/)) {#add}
+## ImagePlacementCollection.Add method
 
 Adds the text fragment element at the specified index.
 
@@ -23,6 +23,7 @@ public void Add(ImagePlacement fragment)
 
 ### See Also
 
+* class [ImagePlacement](../../../aspose.pdf/imageplacement/)
 * class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

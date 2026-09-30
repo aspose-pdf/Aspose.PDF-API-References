@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.comparison/outputtextstyle/outputtextstyle/"
 product_version: "26.9.0"
 ---
-## OutputTextStyle() {#constructor}
+## OutputTextStyle constructor
 
 The default constructor.
 

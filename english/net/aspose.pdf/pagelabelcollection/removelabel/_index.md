@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/pagelabelcollection/removelabel/"
 product_version: "26.9.0"
 ---
-## RemoveLabel(int) {#removelabel}
+## PageLabelCollection.RemoveLabel method
 
 Remove label by page index (page index is started from 0).
 
@@ -19,11 +19,9 @@ public bool RemoveLabel(int pageIndex)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageIndex | int | Index of page where label must be deleted. |
+| pageIndex | Int32 | Index of page where label must be deleted. |
 
 ### Return Value
-
-bool
 
 true if operation was executed successfully.
 

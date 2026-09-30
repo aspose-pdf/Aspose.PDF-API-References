@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.security/unsignedcontentabsorber/trygetcontent/"
 product_version: "26.9.0"
 ---
-## TryGetContent() {#trygetcontent}
+## UnsignedContentAbsorber.TryGetContent method
 
 Attempt to retrieve the unsigned content from the associated document.
 
@@ -18,8 +18,6 @@ public Result TryGetContent()
 ```
 
 ### Return Value
-
-Result
 
 A `Result` object containing details
  about the unsigned content, the coverage of digital signatures, the operation's

@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.tagged/itaggedcontent/createartelement/"
 product_version: "26.9.0"
 ---
-## CreateArtElement() {#createartelement}
+## ITaggedContent.CreateArtElement method
 
 Creates [`ArtElement`](../../../aspose.pdf.logicalstructure/artelement/).
 
@@ -18,8 +18,6 @@ public ArtElement CreateArtElement()
 ```
 
 ### Return Value
-
-[ArtElement](../../../aspose.pdf.logicalstructure/artelement/)
 
 Created structure element.
 

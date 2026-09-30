@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.text/textsegmentcollection/contains/"
 product_version: "26.9.0"
 ---
-## Contains([TextSegment](../../../aspose.pdf.text/textsegment/)) {#contains}
+## TextSegmentCollection.Contains method
 
 Determines whether the collection contains a specific value.
 
@@ -23,12 +23,11 @@ public bool Contains(TextSegment item)
 
 ### Return Value
 
-bool
-
 true if item is found in the collection; otherwise, false.
 
 ### See Also
 
+* class [TextSegment](../../../aspose.pdf.text/textsegment/)
 * class [TextSegmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

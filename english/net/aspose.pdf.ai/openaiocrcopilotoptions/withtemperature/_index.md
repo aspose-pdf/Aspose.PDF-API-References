@@ -9,28 +9,25 @@ weight: 50
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withtemperature/"
 product_version: "26.9.0"
 ---
-## WithTemperature(Nullable<double>) {#withtemperature}
+## OpenAIOcrCopilotOptions.WithTemperature method
 
 Sets the temperature.
 
 ```csharp
-public OpenAIOcrCopilotOptions WithTemperature(Nullable<double> temperature)
+public OpenAIOcrCopilotOptions WithTemperature(double? temperature)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| temperature | Nullable<double> | The temperature to set. |
+| temperature | Nullable`1 | The temperature to set. |
 
 ### Return Value
-
-[OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
 
 The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
 ### See Also
 
 * class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
-* class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizer/hiddendatasanitizer/"
 product_version: "26.9.0"
 ---
-## HiddenDataSanitizer([HiddenDataSanitizationOptions](../../../aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/)) {#constructor}
+## HiddenDataSanitizer constructor
 
 Provides functionality to sanitize hidden data from a PDF document, ensuring that sensitive or unnecessary
  information such as metadata, annotations, JavaScripts, or private content is removed or transformed.
@@ -24,6 +24,7 @@ public HiddenDataSanitizer(HiddenDataSanitizationOptions options)
 
 ### See Also
 
+* class [HiddenDataSanitizationOptions](../../../aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/)
 * class [HiddenDataSanitizer](../)
 * namespace [Aspose.Pdf.Security.HiddenDataSanitization](../../../aspose.pdf.security.hiddendatasanitization/)
 * assembly [Aspose.PDF](../../../)

@@ -19,17 +19,16 @@ public bool Validate(string outputLogFileName, PdfFormat format)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputLogFileName | string | Path to file where the comments will be stored. |
+| outputLogFileName | String | Path to file where the comments will be stored. |
 | format | PdfFormat | The pdf format. |
 
 ### Return Value
-
-bool
 
 The operation result
 
 ### See Also
 
+* enum [PdfFormat](../../../aspose.pdf/pdfformat/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -51,12 +50,11 @@ public bool Validate(Stream outputLogStream, PdfFormat format)
 
 ### Return Value
 
-bool
-
 The operation result
 
 ### See Also
 
+* enum [PdfFormat](../../../aspose.pdf/pdfformat/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -77,12 +75,11 @@ public bool Validate(PdfFormatConversionOptions options)
 
 ### Return Value
 
-bool
-
 The operation result
 
 ### See Also
 
+* class [PdfFormatConversionOptions](../../../aspose.pdf/pdfformatconversionoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

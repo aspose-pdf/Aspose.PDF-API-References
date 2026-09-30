@@ -9,7 +9,7 @@ weight: 240
 url: "/net/aspose.pdf.facades/pdfviewer/getdefaultpagesettings/"
 product_version: "26.9.0"
 ---
-## GetDefaultPageSettings() {#getdefaultpagesettings}
+## PdfViewer.GetDefaultPageSettings method
 
 Gets the default page settings.
 
@@ -18,8 +18,6 @@ public PageSettings GetDefaultPageSettings()
 ```
 
 ### Return Value
-
-[PageSettings](../../../aspose.pdf.printing/pagesettings/)
 
 Page settings object.
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/cells/cells/"
 product_version: "26.9.0"
 ---
-## Cells() {#constructor}
+## Cells constructor
 
 The default constructor.
 

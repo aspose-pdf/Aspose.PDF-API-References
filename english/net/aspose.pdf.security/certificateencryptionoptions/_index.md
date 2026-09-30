@@ -23,10 +23,10 @@ public class CertificateEncryptionOptions
 
 | Name | Description |
 | --- | --- |
-| [CertificateEncryptionOptions](./certificateencryptionoptions/#constructor)(*string, string, string*) | Creates an instance of [`CertificateEncryptionOptions`](../../aspose.pdf.security/certificateencryptionoptions/) class. |
-| [CertificateEncryptionOptions](./certificateencryptionoptions/#constructor_1)(*string, StoreName, StoreLocation*) | Creates an instance of [`CertificateEncryptionOptions`](../../aspose.pdf.security/certificateencryptionoptions/) class. |
-| [CertificateEncryptionOptions](./certificateencryptionoptions/#constructor_2)(*X509Certificate2, StoreName, StoreLocation*) | Creates an instance of [`CertificateEncryptionOptions`](../../aspose.pdf.security/certificateencryptionoptions/) class. |
-| [CertificateEncryptionOptions](./certificateencryptionoptions/#constructor_3)(*X509Certificate2, string, string*) | Creates an instance of [`CertificateEncryptionOptions`](../../aspose.pdf.security/certificateencryptionoptions/) class. |
+| [CertificateEncryptionOptions](./certificateencryptionoptions/#constructor)(string, StoreName, StoreLocation) | Creates an instance of [`CertificateEncryptionOptions`](../../aspose.pdf.security/certificateencryptionoptions/) class. |
+| [CertificateEncryptionOptions](./certificateencryptionoptions/#constructor_1)(string, string, string) | Creates an instance of [`CertificateEncryptionOptions`](../../aspose.pdf.security/certificateencryptionoptions/) class. |
+| [CertificateEncryptionOptions](./certificateencryptionoptions/#constructor_2)(X509Certificate2, StoreName, StoreLocation) | Creates an instance of [`CertificateEncryptionOptions`](../../aspose.pdf.security/certificateencryptionoptions/) class. |
+| [CertificateEncryptionOptions](./certificateencryptionoptions/#constructor_3)(X509Certificate2, string, string) | Creates an instance of [`CertificateEncryptionOptions`](../../aspose.pdf.security/certificateencryptionoptions/) class. |
 
 ### See Also
 

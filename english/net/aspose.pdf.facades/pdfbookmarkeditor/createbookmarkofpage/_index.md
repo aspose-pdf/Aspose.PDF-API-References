@@ -19,8 +19,8 @@ public void CreateBookmarkOfPage(string bookmarkName, int pageNumber)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bookmarkName | string | The specified bookmark name. |
-| pageNumber | int | The specified desination page. |
+| bookmarkName | String | The specified bookmark name. |
+| pageNumber | Int32 | The specified desination page. |
 
 ### See Also
 
@@ -40,8 +40,8 @@ public void CreateBookmarkOfPage(string[] bookmarkName, int[] pageNumber)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bookmarkName | string[] | Bookmarks title array. |
-| pageNumber | int[] | Bookmarks desination page array. |
+| bookmarkName | String[] | Bookmarks title array. |
+| pageNumber | Int32[] | Bookmarks desination page array. |
 
 ### See Also
 

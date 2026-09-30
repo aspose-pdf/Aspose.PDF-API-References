@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf.annotations/actioncollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove([PdfAction](../../../aspose.pdf.annotations/pdfaction/)) {#remove}
+## ActionCollection.Remove method
 
 Removes item from collection.
 
@@ -23,12 +23,11 @@ public bool Remove(PdfAction item)
 
 ### Return Value
 
-bool
-
 Not implemented.
 
 ### See Also
 
+* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
 * class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

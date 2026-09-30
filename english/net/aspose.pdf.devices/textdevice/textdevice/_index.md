@@ -25,27 +25,7 @@ public TextDevice()
 
 ---
 
-## TextDevice([TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)) {#constructor_1}
-
-Initializes a new instance of the [`TextDevice`](../../../aspose.pdf.devices/textdevice/) with text extraction options.
-
-```csharp
-public TextDevice(TextExtractionOptions extractionOptions)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| extractionOptions | TextExtractionOptions | Text extraction options. |
-
-### See Also
-
-* class [TextDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TextDevice(Encoding) {#constructor_2}
+## TextDevice(Encoding) {#constructor_1}
 
 Initializes a new instance of the [`TextDevice`](../../../aspose.pdf.devices/textdevice/) for the specified encoding.
 
@@ -59,6 +39,27 @@ public TextDevice(Encoding encoding)
 
 ### See Also
 
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TextDevice([TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)) {#constructor_2}
+
+Initializes a new instance of the [`TextDevice`](../../../aspose.pdf.devices/textdevice/) with text extraction options.
+
+```csharp
+public TextDevice(TextExtractionOptions extractionOptions)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| extractionOptions | TextExtractionOptions | Text extraction options. |
+
+### See Also
+
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
 * class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
@@ -80,6 +81,7 @@ public TextDevice(TextExtractionOptions extractionOptions, Encoding encoding)
 
 ### See Also
 
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
 * class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

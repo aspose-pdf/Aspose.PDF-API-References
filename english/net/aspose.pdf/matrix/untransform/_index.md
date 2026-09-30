@@ -3,26 +3,28 @@ title: "Matrix.UnTransform"
 linktitle: "UnTransform"
 articleTitle: "UnTransform"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Matrix method."
+description: "Matrix method. Transforms back x1 and y1 and returns x and y before the matrix transformation using the following formula: x = (D x1 - C y1 + C F) / (A D - C..."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/matrix/untransform/"
 product_version: "26.9.0"
 ---
-## UnTransform(double, double, double, double) {#untransform}
+## Matrix.UnTransform method
 
-
+Transforms back x1 and y1 and returns x and y before the matrix transformation using the following formula:
+ x = (D * x1 - C * y1 + C * F) / (A * D - C * B)
+ y = (A * y1 - B * x1 + B * E) / (A * D - C * B).
 
 ```csharp
-public void UnTransform(double x1, double y1, double x, double y)
+public void UnTransform(double x1, double y1, out double x, out double y)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x1 | double |  |
-| y1 | double |  |
-| x | double |  |
-| y | double |  |
+| x1 | Double | Input X coordinate |
+| y1 | Double | Input Y coordinate |
+| x | Double& | Output X coordinate |
+| y | Double& | Output Y coordinate |
 
 ### See Also
 

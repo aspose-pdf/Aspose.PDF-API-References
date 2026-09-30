@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Returns readonly IList containing tables that were found
 
 ```csharp
-public IList<AbsorbedTable> TableList { get; }
+public virtual IList<AbsorbedTable> TableList { get; }
 ```
 
 ### See Also

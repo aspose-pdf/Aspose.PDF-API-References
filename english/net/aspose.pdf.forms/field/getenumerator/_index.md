@@ -5,11 +5,11 @@ articleTitle: "GetEnumerator"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Field method. Returns enumerator of contained fields."
 type: docs
-weight: 50
+weight: 40
 url: "/net/aspose.pdf.forms/field/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## Field.GetEnumerator method
 
 Returns enumerator of contained fields.
 
@@ -18,8 +18,6 @@ public IEnumerator<WidgetAnnotation> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)>
 
 Enumerator.
 

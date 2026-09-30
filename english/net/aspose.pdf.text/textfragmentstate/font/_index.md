@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets font of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object
 
 ```csharp
-public Font Font { get; set; }
+public override Font Font { get; set; }
 ```
 
 ### See Also

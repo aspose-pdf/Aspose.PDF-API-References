@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf/imageplacementcollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove([ImagePlacement](../../../aspose.pdf/imageplacement/)) {#remove}
+## ImagePlacementCollection.Remove method
 
 Deletes specified item from collection
 
@@ -23,12 +23,11 @@ public bool Remove(ImagePlacement item)
 
 ### Return Value
 
-bool
-
 true if item was deleted; otherwise, false.
 
 ### See Also
 
+* class [ImagePlacement](../../../aspose.pdf/imageplacement/)
 * class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -35,8 +35,8 @@ public FloatingBox(float width, float height)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | float | The width of the box. |
-| height | float | The height of the box. |
+| width | Single | The width of the box. |
+| height | Single | The height of the box. |
 
 ### See Also
 

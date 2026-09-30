@@ -19,7 +19,7 @@ public RenditionOperation RenditionOperation { get; set; }
 
 ### See Also
 
-* class [RenditionOperation](../../../aspose.pdf.annotations/renditionoperation/)
+* enum [RenditionOperation](../../../aspose.pdf.annotations/renditionoperation/)
 * class [RenditionAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

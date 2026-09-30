@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/submittooloutputs/submittooloutputs/"
 product_version: "26.9.0"
 ---
-## SubmitToolOutputs() {#constructor}
+## SubmitToolOutputs constructor
 
 The default constructor.
 

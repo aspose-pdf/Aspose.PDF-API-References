@@ -9,27 +9,28 @@ weight: 10
 url: "/net/aspose.pdf.ai/illamaclient/createcompletionasync/"
 product_version: "26.9.0"
 ---
-## CreateCompletionAsync([LlamaChatCompletionRequest](../../../aspose.pdf.ai/llamachatcompletionrequest/), Nullable<CancellationToken>) {#createcompletionasync}
+## ILlamaClient.CreateCompletionAsync method
 
 Creates a chat completion request in the Llama service.
 
 ```csharp
-public Task<LlamaChatCompletionResponse> CreateCompletionAsync(LlamaChatCompletionRequest chatCompletionRequest, Nullable<CancellationToken> cancellationToken)
+public Task<LlamaChatCompletionResponse> CreateCompletionAsync(
+    LlamaChatCompletionRequest chatCompletionRequest, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | chatCompletionRequest | LlamaChatCompletionRequest | The chat completion request. |
-| cancellationToken | Nullable<CancellationToken> | The cancellation token. |
+| cancellationToken | Nullable`1 | The cancellation token. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[LlamaChatCompletionResponse](../../../aspose.pdf.ai/llamachatcompletionresponse/)>
 
 The chat completion response.
 
 ### See Also
 
+* class [LlamaChatCompletionRequest](../../../aspose.pdf.ai/llamachatcompletionrequest/)
 * interface [ILlamaClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

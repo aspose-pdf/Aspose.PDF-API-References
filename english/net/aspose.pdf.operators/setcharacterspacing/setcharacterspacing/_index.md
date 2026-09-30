@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/setcharacterspacing/setcharacterspacing/"
 product_version: "26.9.0"
 ---
-## SetCharacterSpacing(double) {#constructor}
+## SetCharacterSpacing constructor
 
 Initializes operator.
 
@@ -19,7 +19,7 @@ public SetCharacterSpacing(double charSpacing)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| charSpacing | double | Character spacing. |
+| charSpacing | Double | Character spacing. |
 
 ### See Also
 

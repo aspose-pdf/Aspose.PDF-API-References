@@ -3,27 +3,27 @@ title: "Document.IsRepairNeeded"
 linktitle: "IsRepairNeeded"
 articleTitle: "IsRepairNeeded"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Document method."
+description: "Document method. Checks if document requires Repair method call."
 type: docs
 weight: 880
 url: "/net/aspose.pdf/document/isrepairneeded/"
 product_version: "26.9.0"
 ---
-## IsRepairNeeded(RepairOptions) {#isrepairneeded}
+## Document.IsRepairNeeded method
 
-
+Checks if document requires Repair method call.
 
 ```csharp
-public bool IsRepairNeeded(RepairOptions options)
+public bool IsRepairNeeded(out RepairOptions options)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | RepairOptions |  |
+| options | RepairOptions& | Filled RepairOptions recommended to be used in Repair method |
 
 ### Return Value
 
-bool
+Returns filled options to be used in Repair method
 
 ### See Also
 

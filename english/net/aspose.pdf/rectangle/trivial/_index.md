@@ -14,13 +14,12 @@ product_version: "26.9.0"
 Initializes trivial rectangle i.e. rectangle with zero position and size.
 
 ```csharp
-public Rectangle Trivial { get; }
+public static Rectangle Trivial { get; }
 ```
 
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

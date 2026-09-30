@@ -9,17 +9,15 @@ weight: 80
 url: "/net/aspose.pdf.operators/setcolor/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## SetColor.ToString method
 
 Returns string representation of color.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String representation of color.
 

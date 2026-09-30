@@ -5,7 +5,7 @@ articleTitle: "PdfFormatConversionOptions.SegmentAlignStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.PdfFormatConversionOptions.SegmentAlignStrategy enum. Describes strategies used to align document text segments. Now only strategy to restore segm..."
 type: docs
-weight: 2480
+weight: 2440
 url: "/net/aspose.pdf/pdfformatconversionoptions.segmentalignstrategy/"
 product_version: "26.9.0"
 ---
@@ -16,7 +16,7 @@ Describes strategies used to align document text segments.
  In future another strategies could be added.
 
 ```csharp
-public enum SegmentAlignStrategy
+public enum SegmentAlignStrategy : byte
 ```
 
 ### Values

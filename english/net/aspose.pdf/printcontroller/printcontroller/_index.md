@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/printcontroller/printcontroller/"
 product_version: "26.9.0"
 ---
-## PrintController() {#constructor}
+## PrintController constructor
 
 The default constructor.
 

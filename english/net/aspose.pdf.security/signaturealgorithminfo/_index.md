@@ -29,7 +29,7 @@ public abstract class SignatureAlgorithmInfo
 
 | Name | Description |
 | --- | --- |
-| [ToString](./tostring/) | Converts the current information object to its string representation. |
+| override [ToString](./tostring/)() | Converts the current information object to its string representation. |
 
 ## Fields
 
@@ -37,7 +37,7 @@ public abstract class SignatureAlgorithmInfo
 | --- | --- |
 | readonly [AlgorithmType](./algorithmtype/) | Gets the type of the signature algorithm used for signing the PDF document. |
 | readonly [CryptographicStandard](./cryptographicstandard/) | Gets the cryptographic standard used for signing the PDF document. |
-| readonly [DigestHashAlgorithm](./digesthashalgorithm/) | Gets the digest hash algorithm used for the signature. |
+| readonly [DigestHashAlgorithm](./digesthashalgorithm/) | Gets the digest hash algorithm used for the signature. For a timestamp, this is the digest hash algorithm with which the hash of the document content is signed. |
 
 ### See Also
 

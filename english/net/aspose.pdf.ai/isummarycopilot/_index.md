@@ -14,18 +14,18 @@ product_version: "26.9.0"
 Represents a summary copilot for generating summaries for documents using AI models.
 
 ```csharp
-public interface ISummaryCopilot
+public interface ISummaryCopilot : IAICopilot
 ```
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetSummaryAsync](./getsummaryasync/)(*Nullable<CancellationToken>*) | Asynchronously gets a summary. |
-| [GetSummaryDocumentAsync](./getsummarydocumentasync/)(*Nullable<CancellationToken>*) | Asynchronously gets a summary PDF document. |
-| [GetSummaryDocumentAsync](./getsummarydocumentasync/)(*PageInfo, Nullable<CancellationToken>*) | Asynchronously gets a summary PDF document for the specified page information. |
-| [SaveSummaryAsync](./savesummaryasync/)(*string, Nullable<CancellationToken>*) | Asynchronously saves the summary to a PDF file. |
-| [SaveSummaryAsync](./savesummaryasync/)(*string, SaveFormat, Nullable<CancellationToken>*) | Asynchronously saves the summary to a file with specified format. |
+| [GetSummaryAsync](./getsummaryasync/)(CancellationToken?) | Asynchronously gets a summary. |
+| [GetSummaryDocumentAsync](./getsummarydocumentasync/)(CancellationToken?) | Asynchronously gets a summary PDF document. |
+| [GetSummaryDocumentAsync](./getsummarydocumentasync/)(PageInfo, CancellationToken?) | Asynchronously gets a summary PDF document for the specified page information. |
+| [SaveSummaryAsync](./savesummaryasync/)(string, CancellationToken?) | Asynchronously saves the summary to a PDF file. |
+| [SaveSummaryAsync](./savesummaryasync/)(string, SaveFormat, CancellationToken?) | Asynchronously saves the summary to a file with specified format. |
 
 ### See Also
 

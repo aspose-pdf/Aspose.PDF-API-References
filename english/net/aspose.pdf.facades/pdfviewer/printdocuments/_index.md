@@ -9,14 +9,14 @@ weight: 90
 url: "/net/aspose.pdf.facades/pdfviewer/printdocuments/"
 product_version: "26.9.0"
 ---
-## PrintDocuments(Document[]) {#printdocuments}
+## PrintDocuments(params Document[]) {#printdocuments}
 
 Prints multiple PDF documents using default printer and page settings.
 
 This method allows printing multiple PDF documents in a single print job.
 
 ```csharp
-public void PrintDocuments(Document[] documents)
+public static void PrintDocuments(params Document[] documents)
 ```
 
 | Parameter | Type | Description |
@@ -44,13 +44,14 @@ public void PrintDocuments(Document[] documents)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## PrintDocuments(string[]) {#printdocuments_1}
+## PrintDocuments(params string[]) {#printdocuments_1}
 
 Prints multiple PDF documents using default printer and page settings.
 
@@ -58,12 +59,12 @@ This method allows printing multiple PDF documents in a single print job.
  Ensure that the provided file paths are valid and accessible.
 
 ```csharp
-public void PrintDocuments(string[] filePaths)
+public static void PrintDocuments(params string[] filePaths)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filePaths | string[] | An array of file paths representing the PDF documents to be printed. |
+| filePaths | String[] | An array of file paths representing the PDF documents to be printed. |
 
 ## Examples
 
@@ -91,7 +92,7 @@ public void PrintDocuments(string[] filePaths)
 
 ---
 
-## PrintDocuments(Stream[]) {#printdocuments_2}
+## PrintDocuments(params Stream[]) {#printdocuments_2}
 
 Prints multiple PDF documents from the provided streams using default printer and page settings.
 
@@ -99,7 +100,7 @@ This method allows printing multiple PDF documents in a single operation.
  Ensure that the provided streams are valid and accessible during the printing process.
 
 ```csharp
-public void PrintDocuments(Stream[] documentStreams)
+public static void PrintDocuments(params Stream[] documentStreams)
 ```
 
 | Parameter | Type | Description |
@@ -133,14 +134,14 @@ public void PrintDocuments(Stream[] documentStreams)
 
 ---
 
-## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), Document[]) {#printdocuments_3}
+## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), params Document[]) {#printdocuments_3}
 
 Prints multiple PDF documents using the specified printer settings.
 
 This method allows printing multiple PDF documents with custom printer settings.
 
 ```csharp
-public void PrintDocuments(PrinterSettings printerSettings, Document[] documents)
+public static void PrintDocuments(PrinterSettings printerSettings, params Document[] documents)
 ```
 
 | Parameter | Type | Description |
@@ -177,13 +178,15 @@ public void PrintDocuments(PrinterSettings printerSettings, Document[] documents
 
 ### See Also
 
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [Document](../../../aspose.pdf/document/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), string[]) {#printdocuments_4}
+## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), params string[]) {#printdocuments_4}
 
 Prints multiple PDF documents using the specified printer settings.
 
@@ -191,13 +194,13 @@ This method allows printing multiple PDF documents in a single print job.
  Ensure that the provided file paths are valid and accessible.
 
 ```csharp
-public void PrintDocuments(PrinterSettings printerSettings, string[] filePaths)
+public static void PrintDocuments(PrinterSettings printerSettings, params string[] filePaths)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | printerSettings | PrinterSettings | The <see cref="T:Aspose.Pdf.Printing.PrinterSettings" /> object containing printer configuration details. |
-| filePaths | string[] | An array of file paths representing the PDF documents to be printed. |
+| filePaths | String[] | An array of file paths representing the PDF documents to be printed. |
 
 ## Examples
 
@@ -227,13 +230,14 @@ public void PrintDocuments(PrinterSettings printerSettings, string[] filePaths)
 
 ### See Also
 
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), Stream[]) {#printdocuments_5}
+## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), params Stream[]) {#printdocuments_5}
 
 Prints multiple PDF documents from the provided streams using the specified printer settings.
 
@@ -241,7 +245,7 @@ This method allows printing multiple PDF documents in a single operation.
  Ensure that the provided streams are valid and accessible during the printing process.
 
 ```csharp
-public void PrintDocuments(PrinterSettings printerSettings, Stream[] documentStreams)
+public static void PrintDocuments(PrinterSettings printerSettings, params Stream[] documentStreams)
 ```
 
 | Parameter | Type | Description |
@@ -278,20 +282,22 @@ public void PrintDocuments(PrinterSettings printerSettings, Stream[] documentStr
 
 ### See Also
 
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), [PageSettings](../../../aspose.pdf.printing/pagesettings/), Document[]) {#printdocuments_6}
+## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), [PageSettings](../../../aspose.pdf.printing/pagesettings/), params Document[]) {#printdocuments_6}
 
 Prints multiple PDF documents using the specified printer and page settings.
 
 This method allows printing multiple PDF documents with custom printer and page settings.
 
 ```csharp
-public void PrintDocuments(PrinterSettings printerSettings, PageSettings pageSettings, Document[] documents)
+public static void PrintDocuments(PrinterSettings printerSettings, PageSettings pageSettings, 
+    params Document[] documents)
 ```
 
 | Parameter | Type | Description |
@@ -337,13 +343,16 @@ public void PrintDocuments(PrinterSettings printerSettings, PageSettings pageSet
 
 ### See Also
 
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [Document](../../../aspose.pdf/document/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), [PageSettings](../../../aspose.pdf.printing/pagesettings/), string[]) {#printdocuments_7}
+## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), [PageSettings](../../../aspose.pdf.printing/pagesettings/), params string[]) {#printdocuments_7}
 
 Prints multiple PDF documents using the specified printer and page settings.
 
@@ -351,14 +360,15 @@ This method allows printing multiple PDF documents in a single print job.
  Ensure that the provided file paths are valid and accessible.
 
 ```csharp
-public void PrintDocuments(PrinterSettings printerSettings, PageSettings pageSettings, string[] filePaths)
+public static void PrintDocuments(PrinterSettings printerSettings, PageSettings pageSettings, 
+    params string[] filePaths)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | printerSettings | PrinterSettings | The <see cref="T:Aspose.Pdf.Printing.PrinterSettings" /> object containing printer configuration details. |
 | pageSettings | PageSettings | The <see cref="T:Aspose.Pdf.Printing.PageSettings" /> object specifying page layout and settings. |
-| filePaths | string[] | An array of file paths representing the PDF documents to be printed. |
+| filePaths | String[] | An array of file paths representing the PDF documents to be printed. |
 
 ## Examples
 
@@ -396,13 +406,15 @@ public void PrintDocuments(PrinterSettings printerSettings, PageSettings pageSet
 
 ### See Also
 
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), [PageSettings](../../../aspose.pdf.printing/pagesettings/), Stream[]) {#printdocuments_8}
+## PrintDocuments([PrinterSettings](../../../aspose.pdf.printing/printersettings/), [PageSettings](../../../aspose.pdf.printing/pagesettings/), params Stream[]) {#printdocuments_8}
 
 Prints multiple PDF documents from the provided streams using the specified printer and page settings.
 
@@ -410,7 +422,8 @@ This method allows printing multiple PDF documents in a single operation.
  Ensure that the provided streams are valid and accessible during the printing process.
 
 ```csharp
-public void PrintDocuments(PrinterSettings printerSettings, PageSettings pageSettings, Stream[] documentStreams)
+public static void PrintDocuments(PrinterSettings printerSettings, PageSettings pageSettings, 
+    params Stream[] documentStreams)
 ```
 
 | Parameter | Type | Description |
@@ -456,6 +469,8 @@ public void PrintDocuments(PrinterSettings printerSettings, PageSettings pageSet
 
 ### See Also
 
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/remove/"
 product_version: "26.9.0"
 ---
-## Remove([XmpPdfAExtensionField](../../../aspose.pdf/xmppdfaextensionfield/)) {#remove}
+## XmpPdfAExtensionValueType.Remove method
 
 Removes the field from the list of fields.
 
@@ -23,6 +23,7 @@ public void Remove(XmpPdfAExtensionField field)
 
 ### See Also
 
+* class [XmpPdfAExtensionField](../../../aspose.pdf/xmppdfaextensionfield/)
 * class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

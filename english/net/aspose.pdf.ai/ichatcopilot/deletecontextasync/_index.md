@@ -9,21 +9,19 @@ weight: 80
 url: "/net/aspose.pdf.ai/ichatcopilot/deletecontextasync/"
 product_version: "26.9.0"
 ---
-## DeleteContextAsync(Nullable<CancellationToken>) {#deletecontextasync}
+## IChatCopilot.DeleteContextAsync method
 
 Asynchronously deletes the context.
 
 ```csharp
-public Task DeleteContextAsync(Nullable<CancellationToken> cancellationToken)
+public Task DeleteContextAsync(CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cancellationToken | Nullable<CancellationToken> | The cancellation token (optional). |
+| cancellationToken | Nullable`1 | The cancellation token (optional). |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
 
 A task representing the asynchronous operation.
 

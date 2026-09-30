@@ -14,7 +14,7 @@ product_version: "26.9.0"
 The Llama 13b chat model.
 
 ```csharp
-public string Llama13BChat { get; }
+public static string Llama13BChat { get; }
 ```
 
 ### See Also

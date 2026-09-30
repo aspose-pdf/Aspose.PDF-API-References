@@ -16,25 +16,26 @@ Compares two pages. The result is saved in a PDF document in which the first pag
  Deletions are noted on the page on the left, and insertions are noted on the page on the right.
 
 ```csharp
-public SideBySidePagesComparisonResult Compare(Page page1, Page page2, string targetPdfPath, SideBySideComparisonOptions options)
+public static SideBySidePagesComparisonResult Compare(Page page1, Page page2, string targetPdfPath, 
+    SideBySideComparisonOptions options)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page1 | Page | The first page to compare. |
 | page2 | Page | The first page to compare. |
-| targetPdfPath | string | The path to PDF-file to save a comparison result. |
+| targetPdfPath | String | The path to PDF-file to save a comparison result. |
 | options | SideBySideComparisonOptions | The comparison options. |
 
 ### Return Value
-
-[SideBySidePagesComparisonResult](../../../aspose.pdf.comparison/sidebysidepagescomparisonresult/)
 
 The comparison result.
 
 ### See Also
 
 * class [SideBySidePagesComparisonResult](../../../aspose.pdf.comparison/sidebysidepagescomparisonresult/)
+* class [Page](../../../aspose.pdf/page/)
+* class [SideBySideComparisonOptions](../../../aspose.pdf.comparison/sidebysidecomparisonoptions/)
 * class [SideBySidePdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
@@ -49,25 +50,26 @@ Compares two documents. The pages are compared one by one. The pages of the comp
  Deletions are noted on the page on the left, and insertions are noted on the page on the right.
 
 ```csharp
-public SideBySideDocsComparisonResult Compare(Document document1, Document document2, string targetPdfPath, SideBySideComparisonOptions options)
+public static SideBySideDocsComparisonResult Compare(Document document1, Document document2, 
+    string targetPdfPath, SideBySideComparisonOptions options)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document1 | Document | The first document to compare. |
 | document2 | Document | The second document to compare. |
-| targetPdfPath | string | The path to PDF-file to save a comparison result. |
+| targetPdfPath | String | The path to PDF-file to save a comparison result. |
 | options | SideBySideComparisonOptions | The comparison options. |
 
 ### Return Value
-
-[SideBySideDocsComparisonResult](../../../aspose.pdf.comparison/sidebysidedocscomparisonresult/)
 
 The comparison result.
 
 ### See Also
 
 * class [SideBySideDocsComparisonResult](../../../aspose.pdf.comparison/sidebysidedocscomparisonresult/)
+* class [Document](../../../aspose.pdf/document/)
+* class [SideBySideComparisonOptions](../../../aspose.pdf.comparison/sidebysidecomparisonoptions/)
 * class [SideBySidePdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
@@ -81,7 +83,8 @@ Compares two pages. The result is saved in a PDF document in which the first pag
  Deletions are noted on the page on the left, and insertions are noted on the page on the right.
 
 ```csharp
-public SideBySidePagesComparisonResult Compare(Page page1, Page page2, Stream targetStream, SideBySideComparisonOptions options)
+public static SideBySidePagesComparisonResult Compare(Page page1, Page page2, Stream targetStream, 
+    SideBySideComparisonOptions options)
 ```
 
 | Parameter | Type | Description |
@@ -93,13 +96,13 @@ public SideBySidePagesComparisonResult Compare(Page page1, Page page2, Stream ta
 
 ### Return Value
 
-[SideBySidePagesComparisonResult](../../../aspose.pdf.comparison/sidebysidepagescomparisonresult/)
-
 The comparison result.
 
 ### See Also
 
 * class [SideBySidePagesComparisonResult](../../../aspose.pdf.comparison/sidebysidepagescomparisonresult/)
+* class [Page](../../../aspose.pdf/page/)
+* class [SideBySideComparisonOptions](../../../aspose.pdf.comparison/sidebysidecomparisonoptions/)
 * class [SideBySidePdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
@@ -114,7 +117,8 @@ Compares two documents. The pages are compared one by one. The pages of the comp
  Deletions are noted on the page on the left, and insertions are noted on the page on the right.
 
 ```csharp
-public SideBySideDocsComparisonResult Compare(Document document1, Document document2, Stream targetStream, SideBySideComparisonOptions options)
+public static SideBySideDocsComparisonResult Compare(Document document1, Document document2, 
+    Stream targetStream, SideBySideComparisonOptions options)
 ```
 
 | Parameter | Type | Description |
@@ -126,13 +130,13 @@ public SideBySideDocsComparisonResult Compare(Document document1, Document docum
 
 ### Return Value
 
-[SideBySideDocsComparisonResult](../../../aspose.pdf.comparison/sidebysidedocscomparisonresult/)
-
 The comparison result.
 
 ### See Also
 
 * class [SideBySideDocsComparisonResult](../../../aspose.pdf.comparison/sidebysidedocscomparisonresult/)
+* class [Document](../../../aspose.pdf/document/)
+* class [SideBySideComparisonOptions](../../../aspose.pdf.comparison/sidebysidecomparisonoptions/)
 * class [SideBySidePdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

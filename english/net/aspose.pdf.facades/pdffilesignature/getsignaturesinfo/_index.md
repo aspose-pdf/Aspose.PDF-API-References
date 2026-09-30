@@ -5,11 +5,11 @@ articleTitle: "GetSignaturesInfo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileSignature method. Retrieves information about all signatures algorithm present in the PDF document."
 type: docs
-weight: 590
+weight: 400
 url: "/net/aspose.pdf.facades/pdffilesignature/getsignaturesinfo/"
 product_version: "26.9.0"
 ---
-## GetSignaturesInfo() {#getsignaturesinfo}
+## PdfFileSignature.GetSignaturesInfo method
 
 Retrieves information about all signatures algorithm present in the PDF document.
 
@@ -18,8 +18,6 @@ public List<SignatureAlgorithmInfo> GetSignaturesInfo()
 ```
 
 ### Return Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)>
 
 A list of [`SignatureAlgorithmInfo`](../../../aspose.pdf.security/signaturealgorithminfo/) instances containing information about each signature.
 

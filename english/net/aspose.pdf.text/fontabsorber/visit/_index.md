@@ -14,17 +14,18 @@ product_version: "26.9.0"
 Performs search in the specified range of pages of the document.
 
 ```csharp
-public void Visit(Document pdf, int startPage, int pageCount)
+public virtual void Visit(Document pdf, int startPage, int pageCount)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pdf | Document | Pdf pocument object. |
-| startPage | int | Pdf pocument start page. |
-| pageCount | int | Pdf document page count |
+| startPage | Int32 | Pdf pocument start page. |
+| pageCount | Int32 | Pdf document page count |
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [FontAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -36,7 +37,7 @@ public void Visit(Document pdf, int startPage, int pageCount)
 Performs search on the specified document.
 
 ```csharp
-public void Visit(Document pdf)
+public virtual void Visit(Document pdf)
 ```
 
 | Parameter | Type | Description |
@@ -45,6 +46,7 @@ public void Visit(Document pdf)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [FontAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

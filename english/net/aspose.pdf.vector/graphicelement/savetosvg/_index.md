@@ -19,8 +19,6 @@ public string SaveToSvg()
 
 ### Return Value
 
-string
-
 The SVG-string.
 
 ### See Also
@@ -41,7 +39,7 @@ public void SaveToSvg(string svgFilePath)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| svgFilePath | string | The file path to save svg-image. |
+| svgFilePath | String | The file path to save svg-image. |
 
 ### See Also
 

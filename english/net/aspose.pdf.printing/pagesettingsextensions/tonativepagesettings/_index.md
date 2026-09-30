@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf.printing/pagesettingsextensions/tonativepagesettings/"
 product_version: "26.9.0"
 ---
-## ToNativePageSettings([PageSettings](../../../aspose.pdf.printing/pagesettings/)) {#tonativepagesettings}
+## PageSettingsExtensions.ToNativePageSettings method
 
 Converts [`PageSettings`](../../../aspose.pdf.printing/pagesettings/) to Windows-specific System.Drawing.Printing.PageSettings.
 
 ```csharp
-public PageSettings ToNativePageSettings(PageSettings pageSettings)
+public static PageSettings ToNativePageSettings(this PageSettings pageSettings)
 ```
 
 | Parameter | Type | Description |
@@ -22,8 +22,6 @@ public PageSettings ToNativePageSettings(PageSettings pageSettings)
 | pageSettings | PageSettings | Page settings to convert. |
 
 ### Return Value
-
-[PageSettings](../../../aspose.pdf.printing/pagesettings/)
 
 Windows page settings.
 

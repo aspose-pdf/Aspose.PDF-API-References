@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/markdownsaveoptions/markdownsaveoptions/"
 product_version: "26.9.0"
 ---
-## MarkdownSaveOptions() {#constructor}
+## MarkdownSaveOptions constructor
 
 The default constructor.
 

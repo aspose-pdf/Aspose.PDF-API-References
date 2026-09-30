@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/pagenumber.pageindex/pageindex/"
 product_version: "26.9.0"
 ---
-## PageNumber.PageIndex() {#constructor}
+## PageIndex constructor
 
 The default constructor.
 
 ```csharp
-public PageNumber.PageIndex()
+public PageIndex()
 ```
 
 ### See Also

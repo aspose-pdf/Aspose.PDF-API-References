@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf/page/hasvectorgraphics/"
 product_version: "26.9.0"
 ---
-## HasVectorGraphics() {#hasvectorgraphics}
+## Page.HasVectorGraphics method
 
 Detect of the presence of vector graphics, if it is present on the page.
 
@@ -18,8 +18,6 @@ public bool HasVectorGraphics()
 ```
 
 ### Return Value
-
-bool
 
 True if the page contains path construction operators; otherwise, False.
 

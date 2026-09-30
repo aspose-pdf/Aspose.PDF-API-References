@@ -22,17 +22,17 @@ public class PdfOutputGenerator : IFileOutputGenerator
 
 | Name | Description |
 | --- | --- |
-| [PdfOutputGenerator](./pdfoutputgenerator/#constructor) | Cteates an instance of [`PdfOutputGenerator`](../../aspose.pdf.comparison/pdfoutputgenerator/) class. |
-| [PdfOutputGenerator](./pdfoutputgenerator/#constructor_1)(*[PageInfo](../../aspose.pdf/pageinfo/)*) | Cteates an instance of [`PdfOutputGenerator`](../../aspose.pdf.comparison/pdfoutputgenerator/) class. |
-| [PdfOutputGenerator](./pdfoutputgenerator/#constructor_2)(*[OutputTextStyle](../../aspose.pdf.comparison/outputtextstyle/)*) | Cteates an instance of [`PdfOutputGenerator`](../../aspose.pdf.comparison/pdfoutputgenerator/) class. |
-| [PdfOutputGenerator](./pdfoutputgenerator/#constructor_3)(*[OutputTextStyle](../../aspose.pdf.comparison/outputtextstyle/), [PageInfo](../../aspose.pdf/pageinfo/)*) | Cteates an instance of [`PdfOutputGenerator`](../../aspose.pdf.comparison/pdfoutputgenerator/) class. |
+| [PdfOutputGenerator](./pdfoutputgenerator/#constructor)() | Cteates an instance of [`PdfOutputGenerator`](../../aspose.pdf.comparison/pdfoutputgenerator/) class. |
+| [PdfOutputGenerator](./pdfoutputgenerator/#constructor_1)(OutputTextStyle) | Cteates an instance of [`PdfOutputGenerator`](../../aspose.pdf.comparison/pdfoutputgenerator/) class. |
+| [PdfOutputGenerator](./pdfoutputgenerator/#constructor_2)(PageInfo) | Cteates an instance of [`PdfOutputGenerator`](../../aspose.pdf.comparison/pdfoutputgenerator/) class. |
+| [PdfOutputGenerator](./pdfoutputgenerator/#constructor_3)(OutputTextStyle, PageInfo) | Cteates an instance of [`PdfOutputGenerator`](../../aspose.pdf.comparison/pdfoutputgenerator/) class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GenerateOutput](./generateoutput/)(*List<DiffOperation>, string*) | Generates the output based on the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(*List<List<DiffOperation>>, string*) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(List<DiffOperation>, string) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(List<List<DiffOperation>>, string) | Generates the output based on the differences between texts and saves it to a file. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.forms/field/field/"
 product_version: "26.9.0"
 ---
-## Field([Document](../../../aspose.pdf/document/)) {#constructor}
+## Field constructor
 
 Creates field for use in Generator.
 
@@ -23,6 +23,7 @@ public Field(Document doc)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

@@ -76,14 +76,14 @@ Represents a chat copilot for interacting with documents via AI models.
  await chatCopilot.DeleteContextAsync();
 
 ```csharp
-public class OpenAIChatCopilot : IChatCopilot, IAICopilot
+public class OpenAIChatCopilot : IChatCopilot
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [OpenAIChatCopilot](./openaichatcopilot/#constructor)(*[IOpenAIClient](../../aspose.pdf.ai/iopenaiclient/), IChatCopilotOptions<OpenAIChatCopilotOptions>*) | Initializes a new instance of the [`OpenAIChatCopilot`](../../aspose.pdf.ai/openaichatcopilot/) class with the specified client and options. |
+| [OpenAIChatCopilot](./openaichatcopilot/)(IOpenAIClient, IChatCopilotOptions<OpenAIChatCopilotOptions>) | Initializes a new instance of the [`OpenAIChatCopilot`](../../aspose.pdf.ai/openaichatcopilot/) class with the specified client and options. |
 
 ## Properties
 
@@ -95,14 +95,14 @@ public class OpenAIChatCopilot : IChatCopilot, IAICopilot
 
 | Name | Description |
 | --- | --- |
-| [DeleteContextAsync](./deletecontextasync/)(*Nullable<CancellationToken>*) |  |
-| [GetResponseAsync](./getresponseasync/)(*string, Nullable<CancellationToken>*) |  |
-| [GetResponseAsync](./getresponseasync/)(*List<string>, Nullable<CancellationToken>*) |  |
-| [SaveContextAsync](./savecontextasync/)(*string, Nullable<CancellationToken>*) |  |
-| [SaveResponseAsync](./saveresponseasync/)(*string, string, Nullable<CancellationToken>*) |  |
-| [SaveResponseAsync](./saveresponseasync/)(*List<string>, string, Nullable<CancellationToken>*) |  |
-| [SaveResponseAsync](./saveresponseasync/)(*string, string, SaveFormat, Nullable<CancellationToken>*) |  |
-| [SaveResponseAsync](./saveresponseasync/)(*List<string>, string, SaveFormat, Nullable<CancellationToken>*) |  |
+| [DeleteContextAsync](./deletecontextasync/)(CancellationToken?) |  |
+| [GetResponseAsync](./getresponseasync/)(List<string>, CancellationToken?) |  |
+| [GetResponseAsync](./getresponseasync/)(string, CancellationToken?) |  |
+| [SaveContextAsync](./savecontextasync/)(string, CancellationToken?) |  |
+| [SaveResponseAsync](./saveresponseasync/)(List<string>, string, CancellationToken?) |  |
+| [SaveResponseAsync](./saveresponseasync/)(string, string, CancellationToken?) |  |
+| [SaveResponseAsync](./saveresponseasync/)(List<string>, string, SaveFormat, CancellationToken?) |  |
+| [SaveResponseAsync](./saveresponseasync/)(string, string, SaveFormat, CancellationToken?) |  |
 
 ### See Also
 

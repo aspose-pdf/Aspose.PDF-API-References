@@ -19,7 +19,7 @@ public Detail Detail { get; set; }
 
 ### See Also
 
-* class [Detail](../../../aspose.pdf.ai/detail/)
+* enum [Detail](../../../aspose.pdf.ai/detail/)
 * class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

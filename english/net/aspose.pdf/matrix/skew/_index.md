@@ -9,29 +9,26 @@ weight: 100
 url: "/net/aspose.pdf/matrix/skew/"
 product_version: "26.9.0"
 ---
-## Skew(double, double) {#skew}
+## Matrix.Skew method
 
 Creates matrix for given rotation angle.
 
 ```csharp
-public Matrix Skew(double alpha, double beta)
+public static Matrix Skew(double alpha, double beta)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| alpha | double | Skew x angle in radians. |
-| beta | double | Skew y angle in radians. |
+| alpha | Double | Skew x angle in radians. |
+| beta | Double | Skew y angle in radians. |
 
 ### Return Value
-
-[Matrix](../../../aspose.pdf/matrix/)
 
 Transformation matrix.
 
 ### See Also
 
 * class [Matrix](../../../aspose.pdf/matrix/)
-* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

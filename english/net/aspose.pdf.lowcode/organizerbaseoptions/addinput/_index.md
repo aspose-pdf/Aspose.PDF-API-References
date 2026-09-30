@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/organizerbaseoptions/addinput/"
 product_version: "26.9.0"
 ---
-## AddInput([IDataSource](../../../aspose.pdf.lowcode/idatasource/)) {#addinput}
+## OrganizerBaseOptions.AddInput method
 
 Adds new data source to the PdfOrganizer plugin data collection.
 
@@ -23,6 +23,7 @@ public void AddInput(IDataSource dataSource)
 
 ### See Also
 
+* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
 * class [OrganizerBaseOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

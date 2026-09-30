@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets underline for the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object
 
 ```csharp
-public bool Underline { get; set; }
+public virtual bool Underline { get; set; }
 ```
 
 ### See Also

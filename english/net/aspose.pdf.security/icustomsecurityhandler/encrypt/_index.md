@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.security/icustomsecurityhandler/encrypt/"
 product_version: "26.9.0"
 ---
-## Encrypt(byte[], int, int, byte[]) {#encrypt}
+## ICustomSecurityHandler.Encrypt method
 
 Encrypt the data array.
 
@@ -19,14 +19,12 @@ public byte[] Encrypt(byte[] data, int objectNumber, int generation, byte[] key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| data | byte[] | Data to encrypt. |
-| objectNumber | int | Number of the object containing the encrypted data. |
-| generation | int | Generation of the object. |
-| key | byte[] | Key obtained by the CalculateEncryptionKey method |
+| data | Byte[] | Data to encrypt. |
+| objectNumber | Int32 | Number of the object containing the encrypted data. |
+| generation | Int32 | Generation of the object. |
+| key | Byte[] | Key obtained by the CalculateEncryptionKey method |
 
 ### Return Value
-
-byte[]
 
 The encrypted data.
 

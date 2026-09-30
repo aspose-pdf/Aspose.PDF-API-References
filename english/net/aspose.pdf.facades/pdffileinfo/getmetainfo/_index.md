@@ -9,7 +9,7 @@ weight: 120
 url: "/net/aspose.pdf.facades/pdffileinfo/getmetainfo/"
 product_version: "26.9.0"
 ---
-## GetMetaInfo(string) {#getmetainfo}
+## PdfFileInfo.GetMetaInfo method
 
 Gets customized information of PDF document with property name. If there is no property match the name it will return a blank string.
 
@@ -19,11 +19,9 @@ public string GetMetaInfo(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Custom meta property key. |
+| name | String | Custom meta property key. |
 
 ### Return Value
-
-string
 
 Custom meta property value.
 

@@ -5,7 +5,7 @@ articleTitle: "BlendingColorSpace"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.BlendingColorSpace enum. Class represents blending color space."
 type: docs
-weight: 70
+weight: 60
 url: "/net/aspose.pdf.facades/blendingcolorspace/"
 product_version: "26.9.0"
 ---

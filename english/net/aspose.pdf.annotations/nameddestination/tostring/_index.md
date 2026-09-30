@@ -9,17 +9,15 @@ weight: 20
 url: "/net/aspose.pdf.annotations/nameddestination/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## NamedDestination.ToString method
 
 Converts destination to string value.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String value.
 

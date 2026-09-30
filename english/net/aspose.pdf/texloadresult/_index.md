@@ -5,7 +5,7 @@ articleTitle: "TeXLoadResult"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.TeXLoadResult enum. Results for TeX load and compiling."
 type: docs
-weight: 3000
+weight: 2960
 url: "/net/aspose.pdf/texloadresult/"
 product_version: "26.9.0"
 ---

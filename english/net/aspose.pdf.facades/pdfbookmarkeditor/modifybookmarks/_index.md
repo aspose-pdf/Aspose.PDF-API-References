@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks/"
 product_version: "26.9.0"
 ---
-## ModifyBookmarks(string, string) {#modifybookmarks}
+## PdfBookmarkEditor.ModifyBookmarks method
 
 Modifys bookmark title according to the specified bookmark title.
 
@@ -19,8 +19,8 @@ public void ModifyBookmarks(string sTitle, string dTitle)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sTitle | string | Source bookmark title. |
-| dTitle | string | Modified bookmark title. |
+| sTitle | String | Source bookmark title. |
+| dTitle | String | Modified bookmark title. |
 
 ### See Also
 

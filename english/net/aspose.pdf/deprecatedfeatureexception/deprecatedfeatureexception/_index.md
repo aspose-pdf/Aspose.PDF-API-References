@@ -35,7 +35,7 @@ public DeprecatedFeatureException(string message)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | string | Exception message. |
+| message | String | Exception message. |
 
 ### See Also
 

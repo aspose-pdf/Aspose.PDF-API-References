@@ -22,21 +22,21 @@ public class ComHelper
 
 | Name | Description |
 | --- | --- |
-| [ComHelper](./comhelper/#constructor) | The default constructor. |
+| [ComHelper](./comhelper/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [OpenFile](./openfile/)(*string*) | Just create and return Document using *filename*. The same as `#ctor`. |
-| [OpenFile](./openfile/)(*string, string*) | Initialize and return new instance of the [`Document`](../../aspose.pdf/document/) class for working with encrypted document. |
-| [OpenFile](./openfile/)(*string, LoadOptions*) | Open an existing document from a file providing necessary converting oprions to get pdf document. |
-| [OpenFile](./openfile/)(*string, string, bool*) | Initialize new instance of the [`Document`](../../aspose.pdf/document/) class for working with encrypted document. |
-| [OpenStream](./openstream/)(*Stream*) | Initialize and return new Document instance from the *input* stream. |
-| [OpenStream](./openstream/)(*Stream, string*) | Initialize and return new Document instance from the *input* stream. |
-| [OpenStream](./openstream/)(*Stream, bool*) | Initialize and return new Document instance from the *input* stream. |
-| [OpenStream](./openstream/)(*Stream, LoadOptions*) | Open and return an existing document from a stream providing necessary converting to get pdf document. |
-| [OpenStream](./openstream/)(*Stream, string, bool*) | Initialize and return new Document instance from the *input* stream. |
+| [OpenFile](./openfile/)(string) | Just create and return Document using *filename*. The same as [`Document`](../../aspose.pdf/document/). |
+| [OpenFile](./openfile/)(string, LoadOptions) | Open an existing document from a file providing necessary converting oprions to get pdf document. |
+| [OpenFile](./openfile/)(string, string) | Initialize and return new instance of the [`Document`](../../aspose.pdf/document/) class for working with encrypted document. |
+| [OpenFile](./openfile/)(string, string, bool) | Initialize new instance of the [`Document`](../../aspose.pdf/document/) class for working with encrypted document. |
+| [OpenStream](./openstream/)(Stream) | Initialize and return new Document instance from the *input* stream. |
+| [OpenStream](./openstream/)(Stream, bool) | Initialize and return new Document instance from the *input* stream. |
+| [OpenStream](./openstream/)(Stream, LoadOptions) | Open and return an existing document from a stream providing necessary converting to get pdf document. |
+| [OpenStream](./openstream/)(Stream, string) | Initialize and return new Document instance from the *input* stream. |
+| [OpenStream](./openstream/)(Stream, string, bool) | Initialize and return new Document instance from the *input* stream. |
 
 ## Remarks
 

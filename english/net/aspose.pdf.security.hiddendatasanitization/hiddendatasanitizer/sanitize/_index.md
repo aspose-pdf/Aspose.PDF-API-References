@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizer/sanitize/"
 product_version: "26.9.0"
 ---
-## Sanitize([Document](../../../aspose.pdf/document/)) {#sanitize}
+## HiddenDataSanitizer.Sanitize method
 
 Sanitizes a given PDF document by removing or transforming hidden data.
 
@@ -23,6 +23,7 @@ public void Sanitize(Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [HiddenDataSanitizer](../)
 * namespace [Aspose.Pdf.Security.HiddenDataSanitization](../../../aspose.pdf.security.hiddendatasanitization/)
 * assembly [Aspose.PDF](../../../)

@@ -22,7 +22,7 @@ public class VectorStoreFileBatchCreateRequest
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreFileBatchCreateRequest](./vectorstorefilebatchcreaterequest/#constructor) | The default constructor. |
+| [VectorStoreFileBatchCreateRequest](./vectorstorefilebatchcreaterequest/)() | The default constructor. |
 
 ## Properties
 

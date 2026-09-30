@@ -19,7 +19,7 @@ public TabLeaderType LeaderType { get; set; }
 
 ### See Also
 
-* class [TabLeaderType](../../../aspose.pdf.text/tableadertype/)
+* enum [TabLeaderType](../../../aspose.pdf.text/tableadertype/)
 * class [TabStop](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

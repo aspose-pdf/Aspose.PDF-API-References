@@ -21,11 +21,12 @@ public PDF3DView(Document doc, PDF3DView view, string viewName)
 | --- | --- | --- |
 | doc | Document | The document. |
 | view | PDF3DView | The view. |
-| viewName | string | Name of the view. |
+| viewName | String | Name of the view. |
 
 ### See Also
 
-* class [PDF3DView](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DView](../../../aspose.pdf.annotations/pdf3dview/)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -43,11 +44,13 @@ public PDF3DView(Document doc, Matrix3D cameraPosition, double cameraOrbit, stri
 | --- | --- | --- |
 | doc | Document | The document. |
 | cameraPosition | Matrix3D | The camera position. |
-| cameraOrbit | double | The camera orbit. |
-| viewName | string | Name of the view. |
+| cameraOrbit | Double | The camera orbit. |
+| viewName | String | Name of the view. |
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
+* class [Matrix3D](../../../aspose.pdf/matrix3d/)
 * class [PDF3DView](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -5,7 +5,7 @@ articleTitle: "ConcatenationPacketSize"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileEditor property. Number of documents concatenated before new incremental update was made during concatenation when UseDiskBuffer is set to true."
 type: docs
-weight: 1220
+weight: 1210
 url: "/net/aspose.pdf.facades/pdffileeditor/concatenationpacketsize/"
 product_version: "26.9.0"
 ---

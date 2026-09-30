@@ -5,7 +5,7 @@ articleTitle: "Facade"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.Facade class. Base facade class."
 type: docs
-weight: 140
+weight: 130
 url: "/net/aspose.pdf.facades/facade/"
 keywords: "Facade, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -15,7 +15,7 @@ product_version: "26.9.0"
 Base facade class.
 
 ```csharp
-public abstract class Facade : IFacade, IDisposable
+public abstract class Facade : IFacade
 ```
 
 ## Properties
@@ -28,11 +28,11 @@ public abstract class Facade : IFacade, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [BindPdf](./bindpdf/)(*string*) | Initializes the facade. |
-| [BindPdf](./bindpdf/)(*Stream*) | Initializes the facade. |
-| [BindPdf](./bindpdf/)(*Document*) | Initializes the facade. |
-| [Close](./close/) | Disposes Aspose.Pdf.Document bound with a facade. |
-| [Dispose](./dispose/) | Disposes the facade. |
+| virtual [BindPdf](./bindpdf/)(Document) | Initializes the facade. |
+| virtual [BindPdf](./bindpdf/)(Stream) | Initializes the facade. |
+| virtual [BindPdf](./bindpdf/)(string) | Initializes the facade. |
+| virtual [Close](./close/)() | Disposes Aspose.Pdf.Document bound with a facade. |
+| [Dispose](./dispose/)() | Disposes the facade. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/fontembeddingoptions/fontembeddingoptions/"
 product_version: "26.9.0"
 ---
-## FontEmbeddingOptions() {#constructor}
+## FontEmbeddingOptions constructor
 
 The default constructor.
 

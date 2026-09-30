@@ -22,15 +22,15 @@ public sealed class BuildVersionInfo
 
 | Name | Description |
 | --- | --- |
-| [BuildVersionInfo](./buildversioninfo/#constructor) | The default constructor. |
+| [BuildVersionInfo](./buildversioninfo/)() | The default constructor. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| const [AssemblyVersion](./assemblyversion/) | Assembly Version. |
-| const [FileVersion](./fileversion/) | File Version. |
-| const [Product](./product/) | Product Name. |
+| const [AssemblyVersion](./assemblyversion/) | Assembly Version |
+| const [FileVersion](./fileversion/) | File Version |
+| const [Product](./product/) | Product Name |
 
 ### See Also
 

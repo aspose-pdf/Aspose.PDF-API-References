@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the data in the response.
 
 ```csharp
-public T0 Data { get; set; }
+public T Data { get; set; }
 ```
 
 ### See Also

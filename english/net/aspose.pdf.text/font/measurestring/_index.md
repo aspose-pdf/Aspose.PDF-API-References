@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.text/font/measurestring/"
 product_version: "26.9.0"
 ---
-## MeasureString(string, float) {#measurestring}
+## Font.MeasureString method
 
 Measures the string.
 
@@ -19,12 +19,10 @@ public double MeasureString(string str, float fontSize)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| str | string | The string. |
-| fontSize | float | Font size. |
+| str | String | The string. |
+| fontSize | Single | Font size. |
 
 ### Return Value
-
-double
 
 Width of the string represented with this font and the specified size.
 

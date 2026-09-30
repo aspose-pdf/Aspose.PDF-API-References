@@ -9,7 +9,30 @@ weight: 10
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/xyzexplicitdestination/"
 product_version: "26.9.0"
 ---
-## XYZExplicitDestination([Page](../../../aspose.pdf/page/), double, double, double) {#constructor}
+## XYZExplicitDestination(int, double, double, double) {#constructor}
+
+Creates remote explicit destination.
+
+```csharp
+public XYZExplicitDestination(int pageNumber, double left, double top, double zoom)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageNumber | Int32 | The destination page number of remote document. |
+| left | Double | Left horizontal coordinate of the upper-left corner of the window. |
+| top | Double | Top vertical coordinate of the upper-left corner of the window. |
+| zoom | Double | Zoom factor. |
+
+### See Also
+
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## XYZExplicitDestination([Page](../../../aspose.pdf/page/), double, double, double) {#constructor_1}
 
 Creates local explicit destination.
 
@@ -20,61 +43,13 @@ public XYZExplicitDestination(Page page, double left, double top, double zoom)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | Page | The destination page object. |
-| left | double | Left horizontal coordinate of the upper-left corner of the window. |
-| top | double | Top vertical coordinate of the upper-left corner of the window. |
-| zoom | double | Zoom factor. |
+| left | Double | Left horizontal coordinate of the upper-left corner of the window. |
+| top | Double | Top vertical coordinate of the upper-left corner of the window. |
+| zoom | Double | Zoom factor. |
 
 ### See Also
 
-* class [XYZExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## XYZExplicitDestination(int, double, double, double) {#constructor_1}
-
-Creates remote explicit destination.
-
-```csharp
-public XYZExplicitDestination(int pageNumber, double left, double top, double zoom)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageNumber | int | The destination page number of remote document. |
-| left | double | Left horizontal coordinate of the upper-left corner of the window. |
-| top | double | Top vertical coordinate of the upper-left corner of the window. |
-| zoom | double | Zoom factor. |
-
-### See Also
-
-* class [XYZExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## XYZExplicitDestination([Document](../../../aspose.pdf/document/), int, double, double, double) {#constructor_2}
-
-> **Deprecated.** Use constructor without Document argument.
-
-Creates remote explicit destination.
-
-```csharp
-public XYZExplicitDestination(Document document, int pageNumber, double left, double top, double zoom)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | The parent document that contains this object. |
-| pageNumber | int | The destination page number of remote document. |
-| left | double | Left horizontal coordinate of the upper-left corner of the window. |
-| top | double | Top vertical coordinate of the upper-left corner of the window. |
-| zoom | double | Zoom factor. |
-
-### See Also
-
+* class [Page](../../../aspose.pdf/page/)
 * class [XYZExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

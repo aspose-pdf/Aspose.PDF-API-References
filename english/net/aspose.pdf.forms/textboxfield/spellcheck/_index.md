@@ -5,7 +5,7 @@ articleTitle: "SpellCheck"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "TextBoxField property. Gets or sets spellcheck flag for field. If true field shall be spell checked."
 type: docs
-weight: 90
+weight: 80
 url: "/net/aspose.pdf.forms/textboxfield/spellcheck/"
 product_version: "26.9.0"
 ---

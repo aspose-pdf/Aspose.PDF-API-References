@@ -15,22 +15,21 @@ Resizes page contents and add specifed margins.
  Margins are specified in default space units.
 
 ```csharp
-public bool AddMargins(Stream source, Stream destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)
+public bool AddMargins(Stream source, Stream destination, int[] pages, double leftMargin, 
+    double rightMargin, double topMargin, double bottomMargin)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | source | Stream | Stream which contains source document. |
 | destination | Stream | Stream where resultant document will be saved. |
-| pages | int[] | Array of page indexes. If null then all document pages will be processed. |
-| leftMargin | double | Left margin. |
-| rightMargin | double | Right margin. |
-| topMargin | double | Top margin. |
-| bottomMargin | double | Bottom margin. |
+| pages | Int32[] | Array of page indexes. If null then all document pages will be processed. |
+| leftMargin | Double | Left margin. |
+| rightMargin | Double | Right margin. |
+| topMargin | Double | Top margin. |
+| bottomMargin | Double | Bottom margin. |
 
 ### Return Value
-
-bool
 
 true if operation was successful.
 
@@ -48,22 +47,21 @@ Resizes page contents and add specifed margins.
  Margins are specified in default space units.
 
 ```csharp
-public bool AddMargins(string source, string destination, int[] pages, double leftMargin, double rightMargin, double topMargin, double bottomMargin)
+public bool AddMargins(string source, string destination, int[] pages, double leftMargin, 
+    double rightMargin, double topMargin, double bottomMargin)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| source | string | Path to source document. |
-| destination | string | Path where resultant document will be saved. |
-| pages | int[] | Array of page indexes. If null then all document pages will be processed. |
-| leftMargin | double | Left margin. |
-| rightMargin | double | Right margin. |
-| topMargin | double | Top margin. |
-| bottomMargin | double | Bottom margin. |
+| source | String | Path to source document. |
+| destination | String | Path where resultant document will be saved. |
+| pages | Int32[] | Array of page indexes. If null then all document pages will be processed. |
+| leftMargin | Double | Left margin. |
+| rightMargin | Double | Right margin. |
+| topMargin | Double | Top margin. |
+| bottomMargin | Double | Bottom margin. |
 
 ### Return Value
-
-bool
 
 true if resize was successful.
 

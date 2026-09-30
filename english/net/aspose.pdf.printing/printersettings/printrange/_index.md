@@ -19,7 +19,7 @@ public PrintRange PrintRange { get; set; }
 
 ### See Also
 
-* class [PrintRange](../../../aspose.pdf.printing/printrange/)
+* enum [PrintRange](../../../aspose.pdf.printing/printrange/)
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

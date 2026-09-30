@@ -9,12 +9,12 @@ weight: 30
 url: "/net/aspose.pdf.comparison/diffoperation/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## DiffOperation.ToString method
 
 
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value

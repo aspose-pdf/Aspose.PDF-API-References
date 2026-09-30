@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf/pagecollection/copyto/"
 product_version: "26.9.0"
 ---
-## CopyTo(Page[], int) {#copyto}
+## PageCollection.CopyTo method
 
 Copyies pages into document.
 
@@ -20,10 +20,11 @@ public void CopyTo(Page[] array, int index)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | array | Page[] | Array containing Pages object to insert into document. It must be Object[] or Page[]. |
-| index | int | Starting index where pages will be inserted |
+| index | Int32 | Starting index where pages will be inserted |
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

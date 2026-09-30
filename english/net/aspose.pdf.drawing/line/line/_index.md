@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.drawing/line/line/"
 product_version: "26.9.0"
 ---
-## Line(float[]) {#constructor}
+## Line constructor
 
 Initializes a new instance of the [`Line`](../../../aspose.pdf.drawing/line/) class.
 
@@ -19,7 +19,7 @@ public Line(float[] positionArray)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| positionArray | float[] | The line position array. |
+| positionArray | Single[] | The line position array. |
 
 ### See Also
 

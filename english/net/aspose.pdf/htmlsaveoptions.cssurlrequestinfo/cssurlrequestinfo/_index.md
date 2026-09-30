@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/cssurlrequestinfo/"
 product_version: "26.9.0"
 ---
-## HtmlSaveOptions.CssUrlRequestInfo() {#constructor}
+## CssUrlRequestInfo constructor
 
 The default constructor.
 
 ```csharp
-public HtmlSaveOptions.CssUrlRequestInfo()
+public CssUrlRequestInfo()
 ```
 
 ### See Also

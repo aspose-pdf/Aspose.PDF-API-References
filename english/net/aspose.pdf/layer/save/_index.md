@@ -19,7 +19,7 @@ public void Save(string outputPath)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputPath | string | The file path where the PDF document will be saved. |
+| outputPath | String | The file path where the PDF document will be saved. |
 
 ### See Also
 

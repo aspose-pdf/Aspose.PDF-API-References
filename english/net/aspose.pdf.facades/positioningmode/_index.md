@@ -5,7 +5,7 @@ articleTitle: "PositioningMode"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.PositioningMode enum. Defines positioning mode. Possible values include Legacy (backward compatibility) and Current (updated text position..."
 type: docs
-weight: 540
+weight: 530
 url: "/net/aspose.pdf.facades/positioningmode/"
 product_version: "26.9.0"
 ---

@@ -5,7 +5,7 @@ articleTitle: "EpubLoadOptions"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.EpubLoadOptions class. Contains options for loading/importing EPUB file into pdf document."
 type: docs
-weight: 760
+weight: 750
 url: "/net/aspose.pdf/epubloadoptions/"
 keywords: "EpubLoadOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,26 +22,26 @@ public sealed class EpubLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [EpubLoadOptions](./epubloadoptions/#constructor) | Creates default load options for converting EPUB file into pdf document. |
-| [EpubLoadOptions](./epubloadoptions/#constructor_1)(*SizeF*) | Creates load options with specified page size. |
+| [EpubLoadOptions](./epubloadoptions/#constructor)() | Creates default load options for converting EPUB file into pdf document. Default pdf page size - A4 300dpi 2480 X 3508. |
+| [EpubLoadOptions](./epubloadoptions/#constructor_1)(SizeF) | Creates load options with specified page size. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [CustomCss](./customcss/) { get; set; } | Gets or sets the custom Css to apply when opening the Epub document. |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. *(Inherited from LoadOptions)* |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../../aspose.pdf/loadoptions/) describes. *(Inherited from LoadOptions)* |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When , allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default . |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../../aspose.pdf/loadoptions/) describes. |
 | [Margin](./margin/) { get; set; } | Gets reference on object that represent marging info. |
 | [PageSize](./pagesize/) { get; } | Gets or sets output page size for import. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. *(Inherited from LoadOptions)* |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [MarginsAreaUsageMode](./marginsareausagemode/) | Represents mode of usage of margins area - defines treatement. |
-| [PageSizeAdjustmentMode](./pagesizeadjustmentmode/) | ATTENTION! The feature implemented but did not put yet to public API since blocker issue in. |
+| [MarginsAreaUsageMode](./marginsareausagemode/) | Represents mode of usage of margins area - defines treatement of instructions (if any) of CSS of imported document related to usage of margins. |
+| [PageSizeAdjustmentMode](./pagesizeadjustmentmode/) | ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. |
 
 ### See Also
 

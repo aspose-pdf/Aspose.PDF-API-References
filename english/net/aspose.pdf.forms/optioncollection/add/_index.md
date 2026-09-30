@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.forms/optioncollection/add/"
 product_version: "26.9.0"
 ---
-## Add([Option](../../../aspose.pdf.forms/option/)) {#add}
+## OptionCollection.Add method
 
 Adds item in collection, throws NotImplementedException.
 
@@ -29,6 +29,7 @@ public void Add(Option item)
 
 ### See Also
 
+* class [Option](../../../aspose.pdf.forms/option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

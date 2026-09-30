@@ -35,7 +35,7 @@ public BoundsOutOfRangeException(string message)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | string | The error message that explains the reason for the exception. |
+| message | String | The error message that explains the reason for the exception. |
 
 ### See Also
 
@@ -55,9 +55,9 @@ public BoundsOutOfRangeException(string message, double containerWidth, double c
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | string | The error message that explains the reason for the exception. |
-| containerWidth | double | The width of the container. |
-| containerHeight | double | The height of the container. |
+| message | String | The error message that explains the reason for the exception. |
+| containerWidth | Double | The width of the container. |
+| containerHeight | Double | The height of the container. |
 
 ### See Also
 

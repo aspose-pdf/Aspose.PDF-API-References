@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the object value.
 
 ```csharp
-public T0 ObjectValue { get; set; }
+public T ObjectValue { get; set; }
 ```
 
 ### See Also

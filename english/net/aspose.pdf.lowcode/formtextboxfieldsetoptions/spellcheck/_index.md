@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets/sets the value to determine property SpellCheck for modified field (if will be set).
 
 ```csharp
-public Nullable<bool> SpellCheck { get; set; }
+public bool? SpellCheck { get; set; }
 ```
 
 ### See Also

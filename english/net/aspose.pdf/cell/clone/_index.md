@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/cell/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## Cell.Clone method
 
 Clone the cell.
 
@@ -18,8 +18,6 @@ public object Clone()
 ```
 
 ### Return Value
-
-object
 
 The cloned object
 

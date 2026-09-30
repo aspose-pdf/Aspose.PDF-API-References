@@ -22,7 +22,7 @@ public class Logprobs
 
 | Name | Description |
 | --- | --- |
-| [Logprobs](./logprobs/#constructor) | The default constructor. |
+| [Logprobs](./logprobs/)() | The default constructor. |
 
 ## Properties
 

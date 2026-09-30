@@ -5,7 +5,7 @@ articleTitle: "SvgSaveOptions.EmbeddedImagesSavingStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "To property of such type You can assign delegate created from custom method that implements processing of external saving of image that was extracted from SV..."
 type: docs
-weight: 2900
+weight: 2860
 url: "/net/aspose.pdf/svgsaveoptions.embeddedimagessavingstrategy/"
 product_version: "26.9.0"
 ---
@@ -25,8 +25,16 @@ To property of such type You can assign delegate created from custom method that
  represents information about saved image that can be use in custom code must return string that represents URL of image that will be put into SVG
 
 ```csharp
-public delegate void EmbeddedImagesSavingStrategy()
+public delegate string EmbeddedImagesSavingStrategy(SvgImageSavingInfo imageSavingInfo);
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| imageSavingInfo | SvgImageSavingInfo | represents information about saved image that can be use in custom code |
+
+### Return Value
+
+must return string that represents URL of image that will be put into SVG
 
 ### See Also
 

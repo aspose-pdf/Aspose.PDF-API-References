@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/setwordspacing/setwordspacing/"
 product_version: "26.9.0"
 ---
-## SetWordSpacing(double) {#constructor}
+## SetWordSpacing constructor
 
 Initializes operator.
 
@@ -19,7 +19,7 @@ public SetWordSpacing(double wordSpacing)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| wordSpacing | double | Word spacing. |
+| wordSpacing | Double | Word spacing. |
 
 ### See Also
 

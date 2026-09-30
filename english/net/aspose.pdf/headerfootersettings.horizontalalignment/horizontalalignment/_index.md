@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/headerfootersettings.horizontalalignment/horizontalalignment/"
 product_version: "26.9.0"
 ---
-## HeaderFooterSettings.HorizontalAlignment() {#constructor}
+## HorizontalAlignment constructor
 
 The default constructor.
 
 ```csharp
-public HeaderFooterSettings.HorizontalAlignment()
+public HorizontalAlignment()
 ```
 
 ### See Also

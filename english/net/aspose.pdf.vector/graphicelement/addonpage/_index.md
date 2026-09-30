@@ -9,13 +9,13 @@ weight: 20
 url: "/net/aspose.pdf.vector/graphicelement/addonpage/"
 product_version: "26.9.0"
 ---
-## AddOnPage([Page](../../../aspose.pdf/page/)) {#addonpage}
+## GraphicElement.AddOnPage method
 
 Adds current element on the page.
  If there are many elements to add better use `AddGraphics`.
 
 ```csharp
-public void AddOnPage(Page destination)
+public virtual void AddOnPage(Page destination)
 ```
 
 | Parameter | Type | Description |
@@ -24,6 +24,7 @@ public void AddOnPage(Page destination)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 860
 url: "/net/aspose.pdf/document/getobjectbyid/"
 product_version: "26.9.0"
 ---
-## GetObjectById(string) {#getobjectbyid}
+## Document.GetObjectById method
 
 Gets a object with specified ID in the document.
 
@@ -19,11 +19,9 @@ public object GetObjectById(string id)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | string | The object id. |
+| id | String | The object id. |
 
 ### Return Value
-
-object
 
 The object with specified id. Null if the id is not found.
 

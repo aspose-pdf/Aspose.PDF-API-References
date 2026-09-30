@@ -17,6 +17,10 @@ Returns string representation of warning message.
 public string WarningMessage { get; }
 ```
 
+### Return Value
+
+the warning message
+
 ### See Also
 
 * class [WarningInfo](../)

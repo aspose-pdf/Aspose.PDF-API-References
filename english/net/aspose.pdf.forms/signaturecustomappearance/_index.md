@@ -22,7 +22,7 @@ public sealed class SignatureCustomAppearance
 
 | Name | Description |
 | --- | --- |
-| [SignatureCustomAppearance](./signaturecustomappearance/#constructor) | The default constructor. |
+| [SignatureCustomAppearance](./signaturecustomappearance/)() | The default constructor. |
 
 ## Properties
 
@@ -35,11 +35,11 @@ public sealed class SignatureCustomAppearance
 | [DateTimeFormat](./datetimeformat/) { get; set; } | Gets/sets datetime format. Default value: "yyyy.MM.dd HH:mm:ss". |
 | [DateTimeLocalFormat](./datetimelocalformat/) { get; set; } | Gets/sets datetime local format. Default value: "yyyy.MM.dd HH:mm:ss zzz". |
 | [DigitalSignedLabel](./digitalsignedlabel/) { get; set; } | Gets/sets digital signed label. Default value: "Digitally signed by". |
-| [DigitalSubjectFormat](./digitalsubjectformat/) { get; set; } | Gets/sets format for order of elements in Subject string. |
+| [DigitalSubjectFormat](./digitalsubjectformat/) { get; set; } | Gets/sets format for order of elements in Subject string. Result examples: C=UK, CN=Org, O=Organization or CN=Org, C=UK, O=Organization or O=Organization |
 | [FontFamilyName](./fontfamilyname/) { get; set; } | Gets/sets font family name. It should be existed in the document. Default value: Arial. |
 | [FontSize](./fontsize/) { get; set; } | Gets/sets font size. Default value: 10. |
 | [ForegroundColor](./foregroundcolor/) { get; set; } | Gets/sets foreground color (color of text). Default value: Blue. |
-| [IsForegroundImage](./isforegroundimage/) { get; set; } | Gets or sets a value indicating whether the image in the signature appearance is drawn as a foreground image. |
+| [IsForegroundImage](./isforegroundimage/) { get; set; } | Gets or sets a value indicating whether the image in the signature appearance is drawn as a foreground image. Default value: false. |
 | [LocationLabel](./locationlabel/) { get; set; } | Gets/sets location label. Default value: "Location". |
 | [ReasonLabel](./reasonlabel/) { get; set; } | Gets/sets reason label. Default value: "Reason". |
 | [Rotation](./rotation/) { get; set; } | Gets or sets signature rotation. |

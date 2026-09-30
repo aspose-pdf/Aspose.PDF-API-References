@@ -19,7 +19,7 @@ public LineIntent Intent { get; set; }
 
 ### See Also
 
-* class [LineIntent](../../../aspose.pdf.annotations/lineintent/)
+* enum [LineIntent](../../../aspose.pdf.annotations/lineintent/)
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

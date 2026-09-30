@@ -9,7 +9,7 @@ weight: 110
 url: "/net/aspose.pdf/rectangle/isintersect/"
 product_version: "26.9.0"
 ---
-## IsIntersect([Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#isintersect}
+## Rectangle.IsIntersect method
 
 Determines whether this rectangle intersects with other rectangle.
 
@@ -23,13 +23,11 @@ public bool IsIntersect(Rectangle otherRect)
 
 ### Return Value
 
-bool
-
 True if this rectangle intersects with specified rectangle. Otherwise false.
 
 ### See Also
 
-* class [Rectangle](../)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

@@ -39,6 +39,7 @@ public void CreateBookmarks(Bookmark bookmark)
 
 ### See Also
 
+* class [Bookmark](../../../aspose.pdf.facades/bookmark/)
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -56,11 +57,12 @@ public void CreateBookmarks(Color color, bool boldFlag, bool italicFlag)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | color | Color | The color of title. |
-| boldFlag | bool | The flag of bold attribution. |
-| italicFlag | bool | The flag of italic attribution. |
+| boldFlag | Boolean | The flag of bold attribution. |
+| italicFlag | Boolean | The flag of italic attribution. |
 
 ### See Also
 
+* class [Color](../../../aspose.pdf/color/)
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

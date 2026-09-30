@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Creates an empty dictionary that will be attached to the page.
 
 ```csharp
-public CosPdfDictionary CreateEmptyDictionary(Page page)
+public static CosPdfDictionary CreateEmptyDictionary(Page page)
 ```
 
 | Parameter | Type | Description |
@@ -22,8 +22,6 @@ public CosPdfDictionary CreateEmptyDictionary(Page page)
 | page | Page | Result dictionary will be attached to this page. |
 
 ### Return Value
-
-[CosPdfDictionary](../../../aspose.pdf.dataeditor/cospdfdictionary/)
 
 An empty dictionary.
 
@@ -36,7 +34,7 @@ An empty dictionary.
 ### See Also
 
 * class [CosPdfDictionary](../../../aspose.pdf.dataeditor/cospdfdictionary/)
-* class [CosPdfDictionary](../)
+* class [Page](../../../aspose.pdf/page/)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 
@@ -47,7 +45,7 @@ An empty dictionary.
 Creates an empty dictionary that will be attached to the document.
 
 ```csharp
-public CosPdfDictionary CreateEmptyDictionary(Document document)
+public static CosPdfDictionary CreateEmptyDictionary(Document document)
 ```
 
 | Parameter | Type | Description |
@@ -55,8 +53,6 @@ public CosPdfDictionary CreateEmptyDictionary(Document document)
 | document | Document | Result dictionary will be attached to this document. |
 
 ### Return Value
-
-[CosPdfDictionary](../../../aspose.pdf.dataeditor/cospdfdictionary/)
 
 An empty dictionary.
 
@@ -69,7 +65,7 @@ An empty dictionary.
 ### See Also
 
 * class [CosPdfDictionary](../../../aspose.pdf.dataeditor/cospdfdictionary/)
-* class [CosPdfDictionary](../)
+* class [Document](../../../aspose.pdf/document/)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 

@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf.tagged/itaggedcontent/createtocielement/"
 product_version: "26.9.0"
 ---
-## CreateTOCIElement() {#createtocielement}
+## ITaggedContent.CreateTOCIElement method
 
 Creates [`TOCIElement`](../../../aspose.pdf.logicalstructure/tocielement/).
 
@@ -18,8 +18,6 @@ public TOCIElement CreateTOCIElement()
 ```
 
 ### Return Value
-
-[TOCIElement](../../../aspose.pdf.logicalstructure/tocielement/)
 
 Created structure element.
 

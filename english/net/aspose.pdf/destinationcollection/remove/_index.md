@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf/destinationcollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove(KeyValuePair<string, object>) {#remove}
+## DestinationCollection.Remove method
 
 Removes the specified item.
  Collection is read-only. Always throws NotSupportedException exception.
@@ -20,7 +20,7 @@ public bool Remove(KeyValuePair<string, object> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair<string, object> | The item. |
+| item | KeyValuePair`2 | The item. |
 
 ### Return Value
 

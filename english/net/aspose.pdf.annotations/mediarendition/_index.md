@@ -23,8 +23,8 @@ public sealed class MediaRendition : Rendition
 | Name | Description |
 | --- | --- |
 | [MediaClip](./mediaclip/) { get; } | Gets or sets media clip obkects associated with rendition. |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Text string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions. *(Inherited from Rendition)* |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Gets rendition type. *(Inherited from Rendition)* |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Text string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions. |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Gets rendition type. |
 
 ### See Also
 

@@ -9,12 +9,12 @@ weight: 40
 url: "/net/aspose.pdf.annotations/lineannotation/changeafterresize/"
 product_version: "26.9.0"
 ---
-## ChangeAfterResize([Matrix](../../../aspose.pdf/matrix/)) {#changeafterresize}
+## LineAnnotation.ChangeAfterResize method
 
 Updates the Starting and Ending points, according to the matrix transform.
 
 ```csharp
-public void ChangeAfterResize(Matrix transform)
+public override void ChangeAfterResize(Matrix transform)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void ChangeAfterResize(Matrix transform)
 
 ### See Also
 
+* class [Matrix](../../../aspose.pdf/matrix/)
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

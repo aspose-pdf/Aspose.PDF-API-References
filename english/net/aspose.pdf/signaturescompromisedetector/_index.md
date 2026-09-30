@@ -5,7 +5,7 @@ articleTitle: "SignaturesCompromiseDetector"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.SignaturesCompromiseDetector class. Represents a class for checking compromising signatures of the document."
 type: docs
-weight: 2840
+weight: 2800
 url: "/net/aspose.pdf/signaturescompromisedetector/"
 keywords: "SignaturesCompromiseDetector, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,13 +22,13 @@ public sealed class SignaturesCompromiseDetector
 
 | Name | Description |
 | --- | --- |
-| [SignaturesCompromiseDetector](./signaturescompromisedetector/#constructor)(*[Document](../../aspose.pdf/document/)*) | Creates an instance of [`SignaturesCompromiseDetector`](../../aspose.pdf/signaturescompromisedetector/) class. |
+| [SignaturesCompromiseDetector](./signaturescompromisedetector/)(Document) | Creates an instance of [`SignaturesCompromiseDetector`](../../aspose.pdf/signaturescompromisedetector/) class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Check](./check/)(*CompromiseCheckResult*) |  |
+| [Check](./check/)(out CompromiseCheckResult) | Check the digital signatures of the document for compromise. |
 
 ## Remarks
 

@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.vector/graphicelementcollection/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## GraphicElementCollection.GetEnumerator method
 
 Returns an enumerator for the entire collection.
 
@@ -18,8 +18,6 @@ public IEnumerator<GraphicElement> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[GraphicElement](../../../aspose.pdf.vector/graphicelement/)>
 
 Enumerator object.
 

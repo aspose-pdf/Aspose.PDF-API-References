@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.text/position/position/"
 product_version: "26.9.0"
 ---
-## Position(double, double) {#constructor}
+## Position constructor
 
 Initializes a new instance of [`Position`](../../../aspose.pdf.text/position/) class
 
@@ -19,8 +19,8 @@ public Position(double xIndent, double yIndent)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xIndent | double | X coordinate value. |
-| yIndent | double | Y coordinate value. |
+| xIndent | Double | X coordinate value. |
+| yIndent | Double | Y coordinate value. |
 
 ### See Also
 

@@ -9,12 +9,12 @@ weight: 20
 url: "/net/aspose.pdf/printcontroller/onstartpage/"
 product_version: "26.9.0"
 ---
-## OnStartPage(PrintDocument, PrintPageEventArgs) {#onstartpage}
+## PrintController.OnStartPage method
 
 Fires on page start printing.
 
 ```csharp
-public Graphics OnStartPage(PrintDocument document, PrintPageEventArgs e)
+public override Graphics OnStartPage(PrintDocument document, PrintPageEventArgs e)
 ```
 
 | Parameter | Type | Description |
@@ -23,8 +23,6 @@ public Graphics OnStartPage(PrintDocument document, PrintPageEventArgs e)
 | e | PrintPageEventArgs | Event arguments. |
 
 ### Return Value
-
-Graphics
 
 Graphics object with printed page.
 

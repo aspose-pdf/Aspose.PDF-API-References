@@ -5,7 +5,7 @@ articleTitle: "IgnoreResourceFontErrors"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "RenderingOptions property. Gets or sets indication that errors related to absence of font will be ignored. true - means that errors of absence of font will b..."
 type: docs
-weight: 150
+weight: 130
 url: "/net/aspose.pdf/renderingoptions/ignoreresourcefonterrors/"
 product_version: "26.9.0"
 ---

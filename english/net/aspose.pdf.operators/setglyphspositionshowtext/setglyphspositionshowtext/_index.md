@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/setglyphspositionshowtext/setglyphspositionshowtext/"
 product_version: "26.9.0"
 ---
-## SetGlyphsPositionShowText(IEnumerable<GlyphPosition>) {#constructor}
+## SetGlyphsPositionShowText constructor
 
 Constructor for TJ operator.
 
@@ -19,7 +19,7 @@ public SetGlyphsPositionShowText(IEnumerable<GlyphPosition> glyphPositions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| glyphPositions | IEnumerable<GlyphPosition> | List of Glyph Positions. |
+| glyphPositions | IEnumerable`1 | List of Glyph Positions. |
 
 ### See Also
 

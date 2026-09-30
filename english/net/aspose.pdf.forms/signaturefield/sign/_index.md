@@ -21,10 +21,11 @@ public void Sign(Signature signature, Stream pfx, string pass)
 | --- | --- | --- |
 | signature | Signature | Signature object, see <see cref="T:Aspose.Pdf.Forms.PKCS1" />, <see cref="T:Aspose.Pdf.Forms.PKCS7" />, <see cref="T:Aspose.Pdf.Forms.PKCS7Detached" />. |
 | pfx | Stream | Stream with certificate. |
-| pass | string | Password to access private in the *pfx*. |
+| pass | String | Password to access private in the *pfx*. |
 
 ### See Also
 
+* class [Signature](../../../aspose.pdf.lowcode/signature/)
 * class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
@@ -45,6 +46,7 @@ public void Sign(Signature signature)
 
 ### See Also
 
+* class [Signature](../../../aspose.pdf.lowcode/signature/)
 * class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

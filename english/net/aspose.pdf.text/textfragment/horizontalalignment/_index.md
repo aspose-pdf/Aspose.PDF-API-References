@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Gets or sets a horizontal alignment of text fragment.
 
 ```csharp
-public HorizontalAlignment HorizontalAlignment { get; set; }
+public override HorizontalAlignment HorizontalAlignment { get; set; }
 ```
 
 ### See Also
 
-* class [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
+* enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

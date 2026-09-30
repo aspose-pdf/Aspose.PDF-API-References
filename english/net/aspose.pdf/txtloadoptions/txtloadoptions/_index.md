@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/txtloadoptions/txtloadoptions/"
 product_version: "26.9.0"
 ---
-## TxtLoadOptions() {#constructor}
+## TxtLoadOptions constructor
 
 The default constructor.
 

@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf/page/isblank/"
 product_version: "26.9.0"
 ---
-## IsBlank(double) {#isblank}
+## Page.IsBlank method
 
 Gets the flag whether page is blank or not.
 
@@ -22,11 +22,9 @@ public bool IsBlank(double fillThresholdFactor)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fillThresholdFactor | double | The fill threshold value that manages the sensitivity of detection. Should be in range [0..1). |
+| fillThresholdFactor | Double | The fill threshold value that manages the sensitivity of detection. Should be in range [0..1). |
 
 ### Return Value
-
-bool
 
 True - if page is blank; otherwise, false.
 

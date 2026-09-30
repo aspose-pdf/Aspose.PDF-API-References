@@ -9,12 +9,12 @@ weight: 30
 url: "/net/aspose.pdf/outlines/contains/"
 product_version: "26.9.0"
 ---
-## Contains([OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)) {#contains}
+## Outlines.Contains method
 
 Always throws NotImplementedException.
 
 ```csharp
-public bool Contains(OutlineItemCollection item)
+public abstract bool Contains(OutlineItemCollection item)
 ```
 
 | Parameter | Type | Description |
@@ -22,8 +22,6 @@ public bool Contains(OutlineItemCollection item)
 | item | OutlineItemCollection | The object to locate in the collection |
 
 ### Return Value
-
-bool
 
 NotImplementedException
 
@@ -35,6 +33,7 @@ NotImplementedException
 
 ### See Also
 
+* class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
 * class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

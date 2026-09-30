@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.ai/openaiclient.builder/withapiversion/"
 product_version: "26.9.0"
 ---
-## WithApiVersion(string) {#withapiversion}
+## OpenAIClient.Builder.WithApiVersion method
 
 Sets the API version for the client.
 
@@ -19,11 +19,9 @@ public Builder WithApiVersion(string apiVersion)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| apiVersion | string | The API version to set. |
+| apiVersion | String | The API version to set. |
 
 ### Return Value
-
-Builder
 
 The current instance of `Builder`.
 

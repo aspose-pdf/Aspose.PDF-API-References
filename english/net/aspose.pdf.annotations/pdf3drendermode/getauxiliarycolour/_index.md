@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.annotations/pdf3drendermode/getauxiliarycolour/"
 product_version: "26.9.0"
 ---
-## GetAuxiliaryColour() {#getauxiliarycolour}
+## PDF3DRenderMode.GetAuxiliaryColour method
 
 Gets the auxiliary colour.
 
@@ -18,8 +18,6 @@ public Color GetAuxiliaryColour()
 ```
 
 ### Return Value
-
-[Color](../../../aspose.pdf/color/)
 
 Color.
 

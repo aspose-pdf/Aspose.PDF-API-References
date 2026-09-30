@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Bind a structure element to the content stream BDC operator.
 
 ```csharp
-public MCRElement Tag(BDC bdc)
+public abstract MCRElement Tag(BDC bdc)
 ```
 
 | Parameter | Type | Description |
@@ -23,13 +23,12 @@ public MCRElement Tag(BDC bdc)
 
 ### Return Value
 
-[MCRElement](../../../aspose.pdf.logicalstructure/mcrelement/)
-
 [`MCRElement`](../../../aspose.pdf.logicalstructure/mcrelement/)Structure element.
 
 ### See Also
 
 * class [MCRElement](../../../aspose.pdf.logicalstructure/mcrelement/)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
 * class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
@@ -41,7 +40,7 @@ public MCRElement Tag(BDC bdc)
 Bind a structure element to the content stream XForm.
 
 ```csharp
-public OBJRElement Tag(XForm form)
+public abstract OBJRElement Tag(XForm form)
 ```
 
 | Parameter | Type | Description |
@@ -50,13 +49,12 @@ public OBJRElement Tag(XForm form)
 
 ### Return Value
 
-[OBJRElement](../../../aspose.pdf.logicalstructure/objrelement/)
-
 [`OBJRElement`](../../../aspose.pdf.logicalstructure/objrelement/)Structure element.
 
 ### See Also
 
 * class [OBJRElement](../../../aspose.pdf.logicalstructure/objrelement/)
+* class [XForm](../../../aspose.pdf/xform/)
 * class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
@@ -68,7 +66,7 @@ public OBJRElement Tag(XForm form)
 Bind a structure element to the XImage.
 
 ```csharp
-public OBJRElement Tag(XImage image)
+public abstract OBJRElement Tag(XImage image)
 ```
 
 | Parameter | Type | Description |
@@ -77,13 +75,12 @@ public OBJRElement Tag(XImage image)
 
 ### Return Value
 
-[OBJRElement](../../../aspose.pdf.logicalstructure/objrelement/)
-
 [`OBJRElement`](../../../aspose.pdf.logicalstructure/objrelement/)Structure element.
 
 ### See Also
 
 * class [OBJRElement](../../../aspose.pdf.logicalstructure/objrelement/)
+* class [XImage](../../../aspose.pdf/ximage/)
 * class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
@@ -95,7 +92,7 @@ public OBJRElement Tag(XImage image)
 Bind a structure element to the Artifact.
 
 ```csharp
-public MCRElement Tag(Artifact artifact)
+public abstract MCRElement Tag(Artifact artifact)
 ```
 
 | Parameter | Type | Description |
@@ -104,13 +101,12 @@ public MCRElement Tag(Artifact artifact)
 
 ### Return Value
 
-[MCRElement](../../../aspose.pdf.logicalstructure/mcrelement/)
-
 [`MCRElement`](../../../aspose.pdf.logicalstructure/mcrelement/)Structure element.
 
 ### See Also
 
 * class [MCRElement](../../../aspose.pdf.logicalstructure/mcrelement/)
+* class [Artifact](../../../aspose.pdf/artifact/)
 * class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
@@ -122,7 +118,7 @@ public MCRElement Tag(Artifact artifact)
 Bind a structure element to the Annotation.
 
 ```csharp
-public OBJRElement Tag(Annotation annotation)
+public abstract OBJRElement Tag(Annotation annotation)
 ```
 
 | Parameter | Type | Description |
@@ -131,13 +127,12 @@ public OBJRElement Tag(Annotation annotation)
 
 ### Return Value
 
-[OBJRElement](../../../aspose.pdf.logicalstructure/objrelement/)
-
 [`OBJRElement`](../../../aspose.pdf.logicalstructure/objrelement/)Structure element.
 
 ### See Also
 
 * class [OBJRElement](../../../aspose.pdf.logicalstructure/objrelement/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf.forms/optioncollection/contains/"
 product_version: "26.9.0"
 ---
-## Contains([Option](../../../aspose.pdf.forms/option/)) {#contains}
+## OptionCollection.Contains method
 
 Checks if item exists in collection, throws NotImplementedException.
 
@@ -23,8 +23,6 @@ public bool Contains(Option item)
 
 ### Return Value
 
-bool
-
 Throws NotImplementedException
 
 ### Exceptions
@@ -36,6 +34,7 @@ Throws NotImplementedException
 
 ### See Also
 
+* class [Option](../../../aspose.pdf.forms/option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/jpegoptions/jpegoptions/"
 product_version: "26.9.0"
 ---
-## JpegOptions() {#constructor}
+## JpegOptions constructor
 
 The default constructor.
 

@@ -9,7 +9,7 @@ weight: 150
 url: "/net/aspose.pdf.facades/pdfextractor/getattachnames/"
 product_version: "26.9.0"
 ---
-## GetAttachNames() {#getattachnames}
+## PdfExtractor.GetAttachNames method
 
 Returns list of attachments in PDF file. Note: ExtractAttachments must be called before using this method.
 
@@ -18,8 +18,6 @@ public IList<string> GetAttachNames()
 ```
 
 ### Return Value
-
-[IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)<string>
 
 List of attachments
 

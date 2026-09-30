@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/layer/layer/"
 product_version: "26.9.0"
 ---
-## Layer(string, string) {#constructor}
+## Layer constructor
 
 Initializes a new instance of the [`Layer`](../../../aspose.pdf/layer/) class.
 
@@ -19,8 +19,8 @@ public Layer(string id, string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | string | The layer id |
-| name | string | The layer name |
+| id | String | The layer id |
+| name | String | The layer name |
 
 ### See Also
 

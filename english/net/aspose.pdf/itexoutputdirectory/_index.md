@@ -5,7 +5,7 @@ articleTitle: "ITeXOutputDirectory"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.ITeXOutputDirectory interface. Interface of generalized TeX output directory."
 type: docs
-weight: 1460
+weight: 1450
 url: "/net/aspose.pdf/itexoutputdirectory/"
 product_version: "26.9.0"
 ---
@@ -14,14 +14,14 @@ product_version: "26.9.0"
 Interface of generalized TeX output directory.
 
 ```csharp
-public interface ITeXOutputDirectory
+public interface ITeXOutputDirectory : ITeXInputDirectory
 ```
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetOutputFile](./getoutputfile/)(*string, string*) |  |
+| [GetOutputFile](./getoutputfile/)(string, out string) | Returns the stream to write to. |
 
 ### See Also
 

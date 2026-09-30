@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.forms/field/recalculate/"
 product_version: "26.9.0"
 ---
-## Recalculate() {#recalculate}
+## Field.Recalculate method
 
 Recaculates all calculated fields on the form.
 
@@ -18,8 +18,6 @@ public bool Recalculate()
 ```
 
 ### Return Value
-
-bool
 
 true if field value was changed during recalculation.
 

@@ -19,7 +19,7 @@ public PolyIntent Intent { get; set; }
 
 ### See Also
 
-* class [PolyIntent](../../../aspose.pdf.annotations/polyintent/)
+* enum [PolyIntent](../../../aspose.pdf.annotations/polyintent/)
 * class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

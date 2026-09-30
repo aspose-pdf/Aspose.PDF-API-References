@@ -13,6 +13,8 @@ product_version: "26.9.0"
 
 A4 extra paper (236 mm by 322 mm).
 
+This value is specific to the PostScript driver and is used only by Linotronic printers to help save paper.
+
 ```csharp
 public static readonly PaperSize A4Extra;
 ```

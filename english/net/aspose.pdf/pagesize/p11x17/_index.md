@@ -14,13 +14,12 @@ product_version: "26.9.0"
 11x17 inches format.
 
 ```csharp
-public PageSize P11x17 { get; }
+public static PageSize P11x17 { get; }
 ```
 
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

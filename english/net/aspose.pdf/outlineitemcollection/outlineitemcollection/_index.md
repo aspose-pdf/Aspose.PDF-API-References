@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/outlineitemcollection/outlineitemcollection/"
 product_version: "26.9.0"
 ---
-## OutlineItemCollection([OutlineCollection](../../../aspose.pdf/outlinecollection/)) {#constructor}
+## OutlineItemCollection constructor
 
 Initializes outline item instance using root hierarchy object.
 
@@ -23,6 +23,7 @@ public OutlineItemCollection(OutlineCollection outlines)
 
 ### See Also
 
+* class [OutlineCollection](../../../aspose.pdf/outlinecollection/)
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

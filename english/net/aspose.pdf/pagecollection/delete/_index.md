@@ -19,7 +19,7 @@ public void Delete(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Number of page that will be deleted. Pages numbers start from 1. |
+| index | Int32 | Number of page that will be deleted. Pages numbers start from 1. |
 
 ### See Also
 
@@ -55,7 +55,7 @@ public void Delete(int[] pages)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pages | int[] | Array of pages to be deleted. |
+| pages | Int32[] | Array of pages to be deleted. |
 
 ### See Also
 

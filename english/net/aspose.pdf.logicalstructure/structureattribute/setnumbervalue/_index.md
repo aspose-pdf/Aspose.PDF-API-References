@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf.logicalstructure/structureattribute/setnumbervalue/"
 product_version: "26.9.0"
 ---
-## SetNumberValue(double) {#setnumbervalue}
+## StructureAttribute.SetNumberValue method
 
 Sets Value Number.
 
@@ -19,7 +19,7 @@ public void SetNumberValue(double number)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| number | double | Value Number. |
+| number | Double | Value Number. |
 
 ### See Also
 

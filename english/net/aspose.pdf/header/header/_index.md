@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/header/header/"
 product_version: "26.9.0"
 ---
-## Header() {#constructor}
+## Header constructor
 
 The default constructor.
 

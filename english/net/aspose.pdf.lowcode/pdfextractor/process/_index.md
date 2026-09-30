@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/pdfextractor/process/"
 product_version: "26.9.0"
 ---
-## Process([IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)) {#process}
+## PdfExtractor.Process method
 
 Starts PdfExtractor processing with the specified parameters.
 
@@ -23,13 +23,12 @@ public ResultContainer Process(IPluginOptions pdfExtractorOptions)
 
 ### Return Value
 
-[ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
-
 A ResultContainer object containing the result of the extraction.
 
 ### See Also
 
 * class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
+* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

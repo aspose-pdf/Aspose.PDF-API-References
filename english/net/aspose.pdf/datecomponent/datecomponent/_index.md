@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/datecomponent/datecomponent/"
 product_version: "26.9.0"
 ---
-## DateComponent() {#constructor}
+## DateComponent constructor
 
 The default constructor.
 

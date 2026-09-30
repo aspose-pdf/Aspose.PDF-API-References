@@ -15,32 +15,32 @@ product_version: "26.9.0"
 Represents base class for operator collection.
 
 ```csharp
-public abstract class BaseOperatorCollection : IEnumerable
+public abstract class BaseOperatorCollection : ICollection<Operator>
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Gets count of operators in the collection. |
-| [IsFastTextExtractionMode](./isfasttextextractionmode/) { get; } | Indicates wheather collection is limited to fast text extraction. |
-| [IsReadOnly](./isreadonly/) { get; } | Returns true if collection is read only. |
-| [Item](./item/) { get; set; } | Gets operator by its index. |
+| abstract [Count](./count/) { get; } | Gets count of operators in the collection. |
+| abstract [IsFastTextExtractionMode](./isfasttextextractionmode/) { get; } | Indicates wheather collection is limited to fast text extraction |
+| abstract [IsReadOnly](./isreadonly/) { get; } | Returns true if collection is read only. |
+| abstract [Item](./item/) { get; set; } | Gets operator by its index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*Operator*) | Adds new operator into collection. |
-| [CancelUpdate](./cancelupdate/) | Cancels last update. |
-| [Clear](./clear/) | Clears collection. |
-| [Contains](./contains/)(*Operator*) | Checks if operator exists in collection. |
-| [CopyTo](./copyto/)(*Operator[], int*) | Copies operators into operators list. |
-| [GetEnumerator](./getenumerator/) | Returns enumerator for collection. |
-| [Insert](./insert/)(*int, Operator*) | Inserts operator into collection. |
-| [Remove](./remove/)(*Operator*) | Removes operator from collection. |
-| [ResumeUpdate](./resumeupdate/) | Resumes document update. |
-| [SuppressUpdate](./suppressupdate/) | Suppresses update contents data. |
+| abstract [Add](./add/)(Operator) | Adds new operator into collection. |
+| abstract [CancelUpdate](./cancelupdate/)() | Cancels last update. This method may be called when the change should not raise contents update. |
+| abstract [Clear](./clear/)() | Clears collection. |
+| abstract [Contains](./contains/)(Operator) | Checks if operator exists in collection. |
+| abstract [CopyTo](./copyto/)(Operator[], int) | Copies operators into operators list. |
+| abstract [GetEnumerator](./getenumerator/)() | Returns enumerator for collection |
+| abstract [Insert](./insert/)(int, Operator) | Inserts operator into collection. |
+| abstract [Remove](./remove/)(Operator) | Removes operator from collection. |
+| abstract [ResumeUpdate](./resumeupdate/)() | Resumes document update. Updates contents stream in case there are any pending changes. |
+| abstract [SuppressUpdate](./suppressupdate/)() | Suppresses update contents data. The contents stream is not updated until ResumeUpdate is called. |
 
 ### See Also
 

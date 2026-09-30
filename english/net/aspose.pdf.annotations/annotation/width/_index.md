@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets width of the annotation.
 
 ```csharp
-public double Width { get; set; }
+public virtual double Width { get; set; }
 ```
 
 ### See Also

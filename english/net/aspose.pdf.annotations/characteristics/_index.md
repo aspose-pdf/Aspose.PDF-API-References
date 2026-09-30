@@ -22,7 +22,7 @@ public sealed class Characteristics
 
 | Name | Description |
 | --- | --- |
-| [Background](./background/) { get; set; } | Gets or sets color of the background. |
+| [Background](./background/) { get; set; } | Gets or sets color of the background |
 | [Border](./border/) { get; set; } | Gets or sets color of the border. |
 | [Rotate](./rotate/) { get; set; } | Gets or sets rotation of the annotation. |
 

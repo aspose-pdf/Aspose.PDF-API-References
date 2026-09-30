@@ -5,7 +5,7 @@ articleTitle: "HtmlSaveOptions.CssSavingStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "You can assign to this property custom strategy that implements processing or/and saving of one CSS's part that was created during conversion of PDF to HTML ..."
 type: docs
-weight: 1220
+weight: 1210
 url: "/net/aspose.pdf/htmlsaveoptions.csssavingstrategy/"
 product_version: "26.9.0"
 ---
@@ -17,8 +17,12 @@ You can assign to this property custom strategy that implements processing
  must be done in that custom code
 
 ```csharp
-public delegate void CssSavingStrategy()
+public delegate void CssSavingStrategy(CssSavingInfo partSavingInfo);
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| partSavingInfo | CssSavingInfo | represents set of data that can be used for saving of supplied CSS part |
 
 ### See Also
 

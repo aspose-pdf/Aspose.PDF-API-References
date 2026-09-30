@@ -35,7 +35,7 @@ public HeadingLevels(double threshold)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threshold | double | The threshold value to compare font sizes.
+| threshold | Double | The threshold value to compare font sizes.
  Within the threshold, the header levels are the same.
  The threshold default value is 0.01. |
 

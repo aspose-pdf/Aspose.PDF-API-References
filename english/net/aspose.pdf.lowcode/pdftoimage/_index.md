@@ -15,15 +15,15 @@ product_version: "26.9.0"
 Represents PDF to image plugin.
 
 ```csharp
-public abstract class PdfToImage : IPlugin, IDisposable
+public abstract class PdfToImage : IDisposable, IPlugin
 ```
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/) | Implementation of . Actually, it is not necessary for . |
-| [Process](./process/)(*IPluginOptions*) | Starts processing with the specified parameters. |
+| [Dispose](./dispose/)() | Implementation of . Actually, it is not necessary for . |
+| [Process](./process/)(IPluginOptions) | Starts processing with the specified parameters. |
 
 ## Remarks
 

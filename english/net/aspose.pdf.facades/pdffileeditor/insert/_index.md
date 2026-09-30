@@ -14,21 +14,20 @@ product_version: "26.9.0"
 Inserts pages from an other file into the Pdf file at a position.
 
 ```csharp
-public bool Insert(string inputFile, int insertLocation, string portFile, int startPage, int endPage, string outputFile)
+public bool Insert(string inputFile, int insertLocation, string portFile, int startPage, 
+    int endPage, string outputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Input Pdf file. |
-| insertLocation | int | Position in input file. |
-| portFile | string | The porting Pdf file. |
-| startPage | int | Start position in portFile. |
-| endPage | int | End position in portFile. |
-| outputFile | string | Output Pdf file. |
+| inputFile | String | Input Pdf file. |
+| insertLocation | Int32 | Position in input file. |
+| portFile | String | The porting Pdf file. |
+| startPage | Int32 | Start position in portFile. |
+| endPage | Int32 | End position in portFile. |
+| outputFile | String | Output Pdf file. |
 
 ### Return Value
-
-bool
 
 True for success, or false.
 
@@ -45,21 +44,20 @@ True for success, or false.
 Inserts pages from an other file into the input Pdf file.
 
 ```csharp
-public bool Insert(Stream inputStream, int insertLocation, Stream portStream, int startPage, int endPage, Stream outputStream)
+public bool Insert(Stream inputStream, int insertLocation, Stream portStream, int startPage, 
+    int endPage, Stream outputStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Input Stream of Pdf file. |
-| insertLocation | int | Insert position in input file. |
+| insertLocation | Int32 | Insert position in input file. |
 | portStream | Stream | Stream of Pdf file for pages. |
-| startPage | int | From which page to start. |
-| endPage | int | To which page to end. |
+| startPage | Int32 | From which page to start. |
+| endPage | Int32 | To which page to end. |
 | outputStream | Stream | Output Stream. |
 
 ### Return Value
-
-bool
 
 True for success, or false.
 
@@ -76,20 +74,19 @@ True for success, or false.
 Inserts pages from an other file into the input Pdf file.
 
 ```csharp
-public bool Insert(string inputFile, int insertLocation, string portFile, int[] pageNumber, string outputFile)
+public bool Insert(string inputFile, int insertLocation, string portFile, int[] pageNumber, 
+    string outputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Input Pdf file. |
-| insertLocation | int | Insert position in input file. |
-| portFile | string | Pages from the Pdf file. |
-| pageNumber | int[] | The page number of the ported in portFile. |
-| outputFile | string | Output Pdf file. |
+| inputFile | String | Input Pdf file. |
+| insertLocation | Int32 | Insert position in input file. |
+| portFile | String | Pages from the Pdf file. |
+| pageNumber | Int32[] | The page number of the ported in portFile. |
+| outputFile | String | Output Pdf file. |
 
 ### Return Value
-
-bool
 
 True for success, or false.
 
@@ -106,20 +103,19 @@ True for success, or false.
 Inserts pages from an other file into the input Pdf file.
 
 ```csharp
-public bool Insert(Stream inputStream, int insertLocation, Stream portStream, int[] pageNumber, Stream outputStream)
+public bool Insert(Stream inputStream, int insertLocation, Stream portStream, int[] pageNumber, 
+    Stream outputStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Input Stream of Pdf file. |
-| insertLocation | int | Insert position in input file. |
+| insertLocation | Int32 | Insert position in input file. |
 | portStream | Stream | Stream of Pdf file for pages. |
-| pageNumber | int[] | The page number of the ported in portFile. |
+| pageNumber | Int32[] | The page number of the ported in portFile. |
 | outputStream | Stream | Output Stream. |
 
 ### Return Value
-
-bool
 
 True if operation was succeeded.
 

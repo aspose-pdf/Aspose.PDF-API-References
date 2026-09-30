@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/ei/ei/"
 product_version: "26.9.0"
 ---
-## EI() {#constructor}
+## EI constructor
 
 Initializes operator.
 

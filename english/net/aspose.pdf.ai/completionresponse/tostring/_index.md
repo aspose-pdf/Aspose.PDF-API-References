@@ -9,12 +9,12 @@ weight: 20
 url: "/net/aspose.pdf.ai/completionresponse/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## CompletionResponse.ToString method
 
 Returns the content of the first choice as a string.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value

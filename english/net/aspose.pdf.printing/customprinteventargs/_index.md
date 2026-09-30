@@ -22,7 +22,7 @@ public class CustomPrintEventArgs : EventArgs
 
 | Name | Description |
 | --- | --- |
-| [CustomPrintEventArgs](./customprinteventargs/#constructor)(*string, [PrinterSettings](../../aspose.pdf.printing/printersettings/), [PageSettings](../../aspose.pdf.printing/pagesettings/)*) | Initializes [`CustomPrintEventArgs`](../../aspose.pdf.printing/customprinteventargs/) with the given printer and page settings. |
+| [CustomPrintEventArgs](./customprinteventargs/)(string, PrinterSettings, PageSettings) | Initializes [`CustomPrintEventArgs`](../../aspose.pdf.printing/customprinteventargs/) with the given printer and page settings. |
 
 ## Fields
 

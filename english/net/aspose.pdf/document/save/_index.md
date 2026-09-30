@@ -39,7 +39,7 @@ public void Save(string outputFileName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFileName | string | Path to file where the document will be stored. |
+| outputFileName | String | Path to file where the document will be stored. |
 
 ### See Also
 
@@ -85,6 +85,7 @@ public void Save(SaveOptions options)
 
 ### See Also
 
+* class [SaveOptions](../../../aspose.pdf/saveoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -101,11 +102,12 @@ public void Save(string outputFileName, SaveFormat format)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFileName | string | Path to file where the document will be stored. |
+| outputFileName | String | Path to file where the document will be stored. |
 | format | SaveFormat | Format options. |
 
 ### See Also
 
+* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -133,6 +135,7 @@ public void Save(Stream outputStream, SaveFormat format)
 
 ### See Also
 
+* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -149,11 +152,12 @@ public void Save(string outputFileName, SaveOptions options)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFileName | string | Path to file where the document will be stored. |
+| outputFileName | String | Path to file where the document will be stored. |
 | options | SaveOptions | Save options. |
 
 ### See Also
 
+* class [SaveOptions](../../../aspose.pdf/saveoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -181,6 +185,7 @@ public void Save(Stream outputStream, SaveOptions options)
 
 ### See Also
 
+* class [SaveOptions](../../../aspose.pdf/saveoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

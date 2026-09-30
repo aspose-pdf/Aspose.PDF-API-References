@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/aiclientbase/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## AIClientBase.Dispose method
 
 Disposes of the resources used by the [`AIClientBase`](../../../aspose.pdf.ai/aiclientbase/).
 

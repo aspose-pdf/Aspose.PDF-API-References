@@ -14,25 +14,22 @@ product_version: "26.9.0"
 Gets valid pdf Color object from RGB color components.
 
 ```csharp
-public Color FromArgb(int r, int g, int b)
+public static Color FromArgb(int r, int g, int b)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| r | int | The Red color component (value 0 - 255). |
-| g | int | The Green color component (value 0 - 255). |
-| b | int | The Blue color component (value 0 - 255). |
+| r | Int32 | The Red color component (value 0 - 255). |
+| g | Int32 | The Green color component (value 0 - 255). |
+| b | Int32 | The Blue color component (value 0 - 255). |
 
 ### Return Value
-
-[Color](../../../aspose.pdf/color/)
 
 Color object with each component value in [0..255] range.
 
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)
-* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -43,26 +40,23 @@ Color object with each component value in [0..255] range.
 Gets valid pdf Color object from RGB color components.
 
 ```csharp
-public Color FromArgb(int a, int r, int g, int b)
+public static Color FromArgb(int a, int r, int g, int b)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | int | The alpha component value (value 0 - 255). |
-| r | int | The Red color component (value 0 - 255). |
-| g | int | The Green color component (value 0 - 255). |
-| b | int | The Blue color component (value 0 - 255). |
+| a | Int32 | The alpha component value (value 0 - 255). |
+| r | Int32 | The Red color component (value 0 - 255). |
+| g | Int32 | The Green color component (value 0 - 255). |
+| b | Int32 | The Blue color component (value 0 - 255). |
 
 ### Return Value
-
-[Color](../../../aspose.pdf/color/)
 
 Color object with each component value in [0..255] range.
 
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)
-* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/containskey/"
 product_version: "26.9.0"
 ---
-## ContainsKey(string) {#containskey}
+## DictionaryEditor.ContainsKey method
 
 Determines whether the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/) contains an element with the specified key.
 
@@ -19,11 +19,9 @@ public bool ContainsKey(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | The key to locate in the <see cref="T:Aspose.Pdf.DataEditor.DictionaryEditor" />. |
+| key | String | The key to locate in the <see cref="T:Aspose.Pdf.DataEditor.DictionaryEditor" />. |
 
 ### Return Value
-
-bool
 
 true if the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/) contains an editable element with the key; otherwise, false.
 

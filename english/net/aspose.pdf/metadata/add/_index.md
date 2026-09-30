@@ -19,11 +19,12 @@ public void Add(string key, XmpValue value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | The key to add. |
+| key | String | The key to add. |
 | value | XmpValue | Value which will be added. |
 
 ### See Also
 
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -40,8 +41,8 @@ public void Add(string key, object value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | The key to add. |
-| value | object | Value which will be added. |
+| key | String | The key to add. |
+| value | Object | Value which will be added. |
 
 ### See Also
 
@@ -61,11 +62,12 @@ public void Add(string prefix, XmpPdfAExtensionObject value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| prefix | string | The prefix of extension. |
+| prefix | String | The prefix of extension. |
 | value | XmpPdfAExtensionObject | Value which will be added. |
 
 ### See Also
 
+* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -82,7 +84,7 @@ public void Add(KeyValuePair<string, XmpValue> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair<string, XmpValue> | Item to be added. |
+| item | KeyValuePair`2 | Item to be added. |
 
 ### See Also
 

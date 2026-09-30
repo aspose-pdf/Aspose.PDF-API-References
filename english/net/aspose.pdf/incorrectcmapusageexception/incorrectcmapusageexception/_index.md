@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/incorrectcmapusageexception/incorrectcmapusageexception/"
 product_version: "26.9.0"
 ---
-## IncorrectCMapUsageException(string) {#constructor}
+## IncorrectCMapUsageException constructor
 
 Initializes a new instance of the [`IncorrectCMapUsageException`](../../../aspose.pdf/incorrectcmapusageexception/) class.
 
@@ -19,7 +19,7 @@ public IncorrectCMapUsageException(string message)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | string | The message. |
+| message | String | The message. |
 
 ### See Also
 

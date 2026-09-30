@@ -9,17 +9,15 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/tablerowcollectionelement/createtr/"
 product_version: "26.9.0"
 ---
-## CreateTR() {#createtr}
+## TableRowCollectionElement.CreateTR method
 
 Creates [`TableTRElement`](../../../aspose.pdf.logicalstructure/tabletrelement/) and added it to current table.
 
 ```csharp
-public TableTRElement CreateTR()
+public virtual TableTRElement CreateTR()
 ```
 
 ### Return Value
-
-[TableTRElement](../../../aspose.pdf.logicalstructure/tabletrelement/)
 
 Created structure element.
 

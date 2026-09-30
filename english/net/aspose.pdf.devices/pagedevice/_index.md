@@ -22,8 +22,8 @@ public abstract class PageDevice : Device
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(*Page, Stream*) | Perfoms some operation on the given page, e.g. converts page into graphic image. |
-| [Process](./process/)(*Page, string*) | Perfoms some operation on the given page and saves results into the file. |
+| abstract [Process](./process/)(Page, Stream) | Perfoms some operation on the given page, e.g. converts page into graphic image. |
+| [Process](./process/)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
 
 ### See Also
 

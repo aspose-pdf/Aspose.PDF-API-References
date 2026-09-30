@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/assistantlistresponse/assistantlistresponse/"
 product_version: "26.9.0"
 ---
-## AssistantListResponse() {#constructor}
+## AssistantListResponse constructor
 
 The default constructor.
 

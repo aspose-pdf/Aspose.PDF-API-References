@@ -5,7 +5,7 @@ articleTitle: "Save"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileSignature method. Saves the result PDF to file."
 type: docs
-weight: 80
+weight: 50
 url: "/net/aspose.pdf.facades/pdffilesignature/save/"
 product_version: "26.9.0"
 ---
@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Saves the result PDF to file.
 
 ```csharp
-public void Save(string outputFile)
+public override void Save(string outputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | Output pdf file. |
+| outputFile | String | Output pdf file. |
 
 ### See Also
 
@@ -34,30 +34,12 @@ public void Save(string outputFile)
 Saves the result PDF to stream.
 
 ```csharp
-public void Save(Stream outputStream)
+public override void Save(Stream outputStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | Output pdf stream. |
-
-### See Also
-
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Save() {#save_2}
-
-> **Deprecated.** Please, use Save method with parameter.
-
-Save signed pdf file. Output filename must be provided before with the help of coresponding PdfFileSignature constructor.
-
-```csharp
-public void Save()
-```
 
 ### See Also
 

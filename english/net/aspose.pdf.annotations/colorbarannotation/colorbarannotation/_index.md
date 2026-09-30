@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf.annotations/colorbarannotation/colorbarannotation/"
 product_version: "26.9.0"
 ---
-## ColorBarAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), [ColorsOfCMYK](../../../aspose.pdf.annotations/colorsofcmyk/)) {#constructor}
+## ColorBarAnnotation constructor
 
 Creates new ColorBar annotation on the specified page.
 
 ```csharp
-public ColorBarAnnotation(Page page, Rectangle rect, ColorsOfCMYK colorOfCMYK)
+public ColorBarAnnotation(Page page, Rectangle rect, ColorsOfCMYK colorOfCMYK = ColorsOfCMYK.Black)
 ```
 
 | Parameter | Type | Description |
@@ -25,6 +25,9 @@ public ColorBarAnnotation(Page page, Rectangle rect, ColorsOfCMYK colorOfCMYK)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* enum [ColorsOfCMYK](../../../aspose.pdf.annotations/colorsofcmyk/)
 * class [ColorBarAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

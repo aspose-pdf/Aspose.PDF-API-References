@@ -14,19 +14,22 @@ product_version: "26.9.0"
 Creates a rubber stamp annotation.
 
 ```csharp
-public void CreateRubberStamp(int page, Rectangle annotRect, string icon, string annotContents, Color color)
+public void CreateRubberStamp(int page, Rectangle annotRect, string icon, string annotContents, 
+    Color color)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | int | The number of original page where the annotation will be created. |
+| page | Int32 | The number of original page where the annotation will be created. |
 | annotRect | Rectangle | The annotation rectangle defining the location of the annotation on the page. |
-| icon | string | An icon is to be used in displaying the annotation. Default value: 'Draft'. |
-| annotContents | string | The contents of the annotation. |
+| icon | String | An icon is to be used in displaying the annotation. Default value: 'Draft'. |
+| annotContents | String | The contents of the annotation. |
 | color | Color | The color of the annotation. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Color](../../../aspose.pdf/color/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -38,19 +41,22 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string icon, string
 Creates a rubber stamp annotation.
 
 ```csharp
-public void CreateRubberStamp(int page, Rectangle annotRect, string annotContents, Color color, string appearanceFile)
+public void CreateRubberStamp(int page, Rectangle annotRect, string annotContents, Color color, 
+    string appearanceFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | int | The number of original page where the annotation will be created. |
+| page | Int32 | The number of original page where the annotation will be created. |
 | annotRect | Rectangle | The annotation rectangle defining the location of the annotation on the page. |
-| annotContents | string | The contents of the annotation. |
+| annotContents | String | The contents of the annotation. |
 | color | Color | The colour of the annotation. |
-| appearanceFile | string | The path of appearance file. |
+| appearanceFile | String | The path of appearance file. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Color](../../../aspose.pdf/color/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -62,19 +68,22 @@ public void CreateRubberStamp(int page, Rectangle annotRect, string annotContent
 Creates a rubber stamp annotation.
 
 ```csharp
-public void CreateRubberStamp(int page, Rectangle annotRect, string annotContents, Color color, Stream appearanceStream)
+public void CreateRubberStamp(int page, Rectangle annotRect, string annotContents, Color color, 
+    Stream appearanceStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | int | The number of original page where the annotation will be created. |
+| page | Int32 | The number of original page where the annotation will be created. |
 | annotRect | Rectangle | The annotation rectangle defining the location of the annotation on the page. |
-| annotContents | string | The contents of the annotation. |
+| annotContents | String | The contents of the annotation. |
 | color | Color | The colour of the annotation. |
 | appearanceStream | Stream | The stream of appearance file. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Color](../../../aspose.pdf/color/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

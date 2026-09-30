@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.text/tabstops/tabstops/"
 product_version: "26.9.0"
 ---
-## TabStops() {#constructor}
+## TabStops constructor
 
 The default constructor.
 

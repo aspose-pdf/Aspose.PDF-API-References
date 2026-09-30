@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/sethorizontaltextscaling/sethorizontaltextscaling/"
 product_version: "26.9.0"
 ---
-## SetHorizontalTextScaling(double) {#constructor}
+## SetHorizontalTextScaling constructor
 
 Initializes operator.
 
@@ -19,7 +19,7 @@ public SetHorizontalTextScaling(double horizintalScaling)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| horizintalScaling | double | Horizontal scaling. |
+| horizintalScaling | Double | Horizontal scaling. |
 
 ### See Also
 

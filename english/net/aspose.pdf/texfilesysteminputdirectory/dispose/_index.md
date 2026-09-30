@@ -9,12 +9,12 @@ weight: 30
 url: "/net/aspose.pdf/texfilesysteminputdirectory/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## TeXFileSystemInputDirectory.Dispose method
 
 Disposes the instance.
 
 ```csharp
-public void Dispose()
+public virtual void Dispose()
 ```
 
 ### See Also

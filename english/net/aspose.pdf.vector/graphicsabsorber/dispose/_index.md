@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.vector/graphicsabsorber/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## GraphicsAbsorber.Dispose method
 
 Releases all resources used by the [`GraphicsAbsorber`](../../../aspose.pdf.vector/graphicsabsorber/) class.
 

@@ -9,7 +9,7 @@ weight: 160
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/copyto/"
 product_version: "26.9.0"
 ---
-## CopyTo(KeyValuePair<string, XmpValue>[], int) {#copyto}
+## PdfXmpMetadata.CopyTo method
 
 
 
@@ -19,8 +19,8 @@ public void CopyTo(KeyValuePair<string, XmpValue>[] array, int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| array | KeyValuePair<string, XmpValue>[] |  |
-| index | int |  |
+| array | KeyValuePair`2[] |  |
+| index | Int32 |  |
 
 ### See Also
 

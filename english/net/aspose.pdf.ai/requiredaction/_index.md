@@ -22,7 +22,7 @@ public class RequiredAction
 
 | Name | Description |
 | --- | --- |
-| [RequiredAction](./requiredaction/#constructor) | The default constructor. |
+| [RequiredAction](./requiredaction/)() | The default constructor. |
 
 ## Properties
 

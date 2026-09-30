@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets array of the selected items in the multiselect list. For single-select list returns array with single item.
 
 ```csharp
-public int[] SelectedItems { set; }
+public override int[] SelectedItems { set; }
 ```
 
 ### See Also

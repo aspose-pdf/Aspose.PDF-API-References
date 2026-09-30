@@ -24,9 +24,9 @@ public abstract class Signature
 
 | Name | Description |
 | --- | --- |
-| [Signature](./signature/#constructor) | Inititalizes new instance of the [`Signature`](../../aspose.pdf.lowcode/signature/) class. |
-| [Signature](./signature/#constructor_1)(*string, string*) | Inititalizes new instance of the [`Signature`](../../aspose.pdf.lowcode/signature/) class. |
-| [Signature](./signature/#constructor_2)(*Stream, string*) | Inititalizes new instance of the [`Signature`](../../aspose.pdf.lowcode/signature/) class. |
+| [Signature](./signature/#constructor)() | Inititalizes new instance of the [`Signature`](../../aspose.pdf.lowcode/signature/) class. |
+| [Signature](./signature/#constructor_1)(Stream, string) | Inititalizes new instance of the [`Signature`](../../aspose.pdf.lowcode/signature/) class. |
+| [Signature](./signature/#constructor_2)(string, string) | Inititalizes new instance of the [`Signature`](../../aspose.pdf.lowcode/signature/) class. |
 
 ## Properties
 
@@ -34,8 +34,8 @@ public abstract class Signature
 | --- | --- |
 | [Authority](./authority/) { get; set; } | The name of the person or authority signing the document. |
 | [AvoidEstimatingSignatureLength](./avoidestimatingsignaturelength/) { get; set; } | Gets and sets an option means whether to avoid estimating the length of a signature. |
-| [ByteRange](./byterange/) { get; } | An array of pairs of integers (starting byte offset, length in bytes). |
-| [ContactInfo](./contactinfo/) { get; set; } | Information provided by the signer to enable a recipient to contact the signer. |
+| [ByteRange](./byterange/) { get; } | An array of pairs of integers (starting byte offset, length in bytes) that shall describe the exact byte range for the digest calculation. |
+| [ContactInfo](./contactinfo/) { get; set; } | Information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number. |
 | [CustomAppearance](./customappearance/) { get; set; } | Gets/sets the custom appearance. |
 | [CustomSignHash](./customsignhash/) { get; set; } | The delegate for custom sign the document hash. |
 | [Date](./date/) { get; set; } | The time of signing. |
@@ -43,7 +43,7 @@ public abstract class Signature
 | [Location](./location/) { get; set; } | The CPU host name or physical location of the signing. |
 | [OcspSettings](./ocspsettings/) { get; set; } | Gets/sets ocsp settings. |
 | [Reason](./reason/) { get; set; } | The reason for the signing, such as (I agree, Pip B.). |
-| [ShowProperties](./showproperties/) { get; set; } | Force to show/hide signature properties. |
+| [ShowProperties](./showproperties/) { get; set; } | Force to show/hide signature properties. In case ShowProperties is true signature field has predefined format of appearance (strings to represent): ------------------------------------------- Digitally signed by {certificate subject} Date: {signature.Date} Reason: {signature.Reason} Location: {signature.Location} ------------------------------------------- where {X} is placeholder for X value. Also signature can have image, in this case listed strings are placed over image. ShowProperties is true by default. |
 | [TimestampSettings](./timestampsettings/) { get; set; } | Gets/sets timestamp settings. |
 | [UseLtv](./useltv/) { get; set; } | Gets/sets ltv validation flag. |
 
@@ -51,13 +51,13 @@ public abstract class Signature
 
 | Name | Description |
 | --- | --- |
-| [GetSignatureAlgorithmInfo](./getsignaturealgorithminfo/) | Retrieves information about the signature algorithm used in the signature. |
-| [TryVerify](./tryverify/)(*VerificationResult*) |  |
-| [TryVerify](./tryverify/)(*ValidationOptions, ValidationResult, VerificationResult*) |  |
-| [TryVerify](./tryverify/)(*X509Certificate2, ValidationOptions, ValidationResult, VerificationResult*) |  |
-| [Verify](./verify/) | Verify the document regarding this signature and return true if document is valid. |
-| [Verify](./verify/)(*ValidationOptions, ValidationResult*) |  |
-| [Verify](./verify/)(*X509Certificate2, ValidationOptions, ValidationResult*) |  |
+| [GetSignatureAlgorithmInfo](./getsignaturealgorithminfo/)() | Retrieves information about the signature algorithm used in the signature. |
+| [TryVerify](./tryverify/)(out VerificationResult) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [TryVerify](./tryverify/)(ValidationOptions, out ValidationResult, out VerificationResult) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [TryVerify](./tryverify/)(X509Certificate2, ValidationOptions, out ValidationResult, out VerificationResult) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. Verification is performed using the external public key certificate. |
+| [Verify](./verify/)() | Verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [Verify](./verify/)(ValidationOptions, out ValidationResult) | Verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [Verify](./verify/)(X509Certificate2, ValidationOptions, out ValidationResult) | Verify the document regarding this signature and return true if document is valid or otherwise false. Verification is performed using the external public key certificate. |
 
 ### See Also
 

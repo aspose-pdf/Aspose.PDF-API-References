@@ -17,6 +17,10 @@ Indicates whether the result is a path to an output file.
 public bool IsFile { get; }
 ```
 
+### Return Value
+
+`true` if the result is a file; otherwise `false`.
+
 ### See Also
 
 * class [ObjectResult](../)

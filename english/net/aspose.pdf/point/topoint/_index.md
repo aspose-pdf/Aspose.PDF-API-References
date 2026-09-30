@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/point/topoint/"
 product_version: "26.9.0"
 ---
-## ToPoint() {#topoint}
+## Point.ToPoint method
 
 Converts point into System.Drawing.PointF object.
 
@@ -18,8 +18,6 @@ public PointF ToPoint()
 ```
 
 ### Return Value
-
-PointF
 
 PointF structure.
 

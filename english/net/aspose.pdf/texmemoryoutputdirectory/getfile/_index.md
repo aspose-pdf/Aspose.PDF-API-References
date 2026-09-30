@@ -3,29 +3,30 @@ title: "TeXMemoryOutputDirectory.GetFile"
 linktitle: "GetFile"
 articleTitle: "GetFile"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TeXMemoryOutputDirectory method."
+description: "TeXMemoryOutputDirectory method. Returns the stream to read from."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/texmemoryoutputdirectory/getfile/"
 product_version: "26.9.0"
 ---
-## GetFile(string, string, bool) {#getfile}
+## TeXMemoryOutputDirectory.GetFile method
 
-
+Returns the stream to read from.
 
 ```csharp
-public Stream GetFile(string fileName, string fullName, bool searchSubdirectories)
+public Stream GetFile(string fileName, out string fullName, bool searchSubdirectories = false)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | string |  |
-| fullName | string |  |
-| searchSubdirectories | bool |  |
+| fileName | String | The file name. |
+| fullName | String& | The full file name. |
+| searchSubdirectories | Boolean | Indicates whether to look for a file in subdirectories.
+ In this implementation has no effect. |
 
 ### Return Value
 
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
+The stream.
 
 ### See Also
 

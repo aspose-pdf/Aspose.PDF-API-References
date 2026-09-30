@@ -40,6 +40,8 @@ public PdfToDocOptions(SaveFormat format, ConversionMode mode)
 
 ### See Also
 
+* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
+* enum [ConversionMode](../../../aspose.pdf.lowcode/conversionmode/)
 * class [PdfToDocOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

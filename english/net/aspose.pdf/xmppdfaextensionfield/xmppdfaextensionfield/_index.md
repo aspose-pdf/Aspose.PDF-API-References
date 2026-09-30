@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/xmppdfaextensionfield/xmppdfaextensionfield/"
 product_version: "26.9.0"
 ---
-## XmpPdfAExtensionField(string, string, string, string) {#constructor}
+## XmpPdfAExtensionField constructor
 
 Initializes object.
 
@@ -19,10 +19,10 @@ public XmpPdfAExtensionField(string name, string value, string valueType, string
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | The field name. |
-| value | string | The field value. |
-| valueType | string | The field value type. |
-| description | string | The field description. |
+| name | String | The field name. |
+| value | String | The field value. |
+| valueType | String | The field value type. |
+| description | String | The field description. |
 
 ### See Also
 

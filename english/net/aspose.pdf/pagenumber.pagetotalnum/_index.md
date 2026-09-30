@@ -5,7 +5,7 @@ articleTitle: "PageNumber.PageTotalNum"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.PageNumber.PageTotalNum class. Represents the total number of pages component in the page number format."
 type: docs
-weight: 2290
+weight: 2250
 url: "/net/aspose.pdf/pagenumber.pagetotalnum/"
 keywords: "PageNumber.PageTotalNum, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public sealed class PageTotalNum
 
 | Name | Description |
 | --- | --- |
-| [PageNumber.PageTotalNum](./pagetotalnum/#constructor) | The default constructor. |
+| [PageTotalNum](./pagetotalnum/)() | The default constructor. |
 
 ### See Also
 

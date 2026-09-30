@@ -22,23 +22,23 @@ public class TextStateOperator : TextOperator
 
 | Name | Description |
 | --- | --- |
-| [TextStateOperator](./textstateoperator/#constructor) | Initializes TextStateOperator. |
-| [TextStateOperator](./textstateoperator/#constructor_1)(*[TextProperties](../../aspose.pdf.facades/textproperties/)*) | Initializes TextStateoperator which allows to pass TextProperties. |
+| [TextStateOperator](./textstateoperator/#constructor)() | Initializes TextStateOperator. |
+| [TextStateOperator](./textstateoperator/#constructor_1)(TextProperties) | Initializes TextStateoperator which allows to pass TextProperties. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. *(Inherited from Operator)* |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Accept](../../aspose.pdf.operators/textoperator/accept/)(*IOperatorSelector*) | Accepts visitor object to process operator. *(Inherited from TextOperator)* |
-| [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(*Operator*) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc). *(Inherited from Operator)* |
-| [ToString](../../aspose.pdf/operator/tostring/) | Returns text of operator and its parameters. *(Inherited from Operator)* |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(*Operator*) | Compares this instance with the given object. *(Inherited from Operator)* |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 

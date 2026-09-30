@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/border/border/"
 product_version: "26.9.0"
 ---
-## Border([Annotation](../../../aspose.pdf.annotations/annotation/)) {#constructor}
+## Border constructor
 
 Constructor for border object.
 
@@ -23,6 +23,7 @@ public Border(Annotation parent)
 
 ### See Also
 
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

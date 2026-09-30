@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/comparepagestoimage/"
 product_version: "26.9.0"
 ---
-## ComparePagesToImage([Page](../../../aspose.pdf/page/), [Page](../../../aspose.pdf/page/), string) {#comparepagestoimage}
+## GraphicalPdfComparer.ComparePagesToImage method
 
 Compares pages graphically. The comparison result is placed in a image.
 
@@ -21,7 +21,7 @@ public void ComparePagesToImage(Page page1, Page page2, string resultImagePath)
 | --- | --- | --- |
 | page1 | Page | The first page to compare. |
 | page2 | Page | The second page to compare. |
-| resultImagePath | string | The path to target image file. |
+| resultImagePath | String | The path to target image file. |
 
 ### Exceptions
 
@@ -33,6 +33,7 @@ public void ComparePagesToImage(Page page1, Page page2, string resultImagePath)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

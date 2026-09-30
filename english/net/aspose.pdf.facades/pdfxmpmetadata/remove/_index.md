@@ -23,6 +23,7 @@ public void Remove(DefaultMetadataProperties key)
 
 ### See Also
 
+* enum [DefaultMetadataProperties](../../../aspose.pdf.facades/defaultmetadataproperties/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -39,11 +40,9 @@ public bool Remove(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | Key which will be removed. |
+| key | String | Key which will be removed. |
 
 ### Return Value
-
-bool
 
 True - if key removed; otherwise, false.
 
@@ -65,11 +64,9 @@ public bool Remove(KeyValuePair<string, XmpValue> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair<string, XmpValue> | Key/value pair to be removed. |
+| item | KeyValuePair`2 | Key/value pair to be removed. |
 
 ### Return Value
-
-bool
 
 true if pair was found and removed.
 

@@ -19,13 +19,11 @@ public bool Concatenate(string firstInputFile, string secInputFile, string outpu
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| firstInputFile | string | First file to concatenate. |
-| secInputFile | string | Second file to concatenate. |
-| outputFile | string | Output file. |
+| firstInputFile | String | First file to concatenate. |
+| secInputFile | String | Second file to concatenate. |
+| outputFile | String | Output file. |
 
 ### Return Value
-
-bool
 
 True if operation was succeeded.
 
@@ -53,8 +51,6 @@ public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream o
 
 ### Return Value
 
-bool
-
 True if operation was succeeded.
 
 ### See Also
@@ -80,12 +76,11 @@ public bool Concatenate(Document[] src, Document dest)
 
 ### Return Value
 
-bool
-
 True if concatenation is successful.
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -102,12 +97,10 @@ public bool Concatenate(string[] inputFiles, string outputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFiles | string[] | Array of files to concatenate. |
-| outputFile | string | Name of output file. |
+| inputFiles | String[] | Array of files to concatenate. |
+| outputFile | String | Name of output file. |
 
 ### Return Value
-
-bool
 
 True if operation was succeeded.
 
@@ -134,8 +127,6 @@ public bool Concatenate(Stream[] inputStream, Stream outputStream)
 
 ### Return Value
 
-bool
-
 True if operation was succeeded.
 
 ### See Also
@@ -153,19 +144,18 @@ Merges two Pdf documents into a new Pdf document with pages in alternate ways an
  Merging the two Pdf document will produce the result document with pages:p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage.
 
 ```csharp
-public bool Concatenate(string firstInputFile, string secInputFile, string blankPageFile, string outputFile)
+public bool Concatenate(string firstInputFile, string secInputFile, string blankPageFile, 
+    string outputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| firstInputFile | string | First file. |
-| secInputFile | string | Second file. |
-| blankPageFile | string | PDF file with blank page. |
-| outputFile | string | Result file. |
+| firstInputFile | String | First file. |
+| secInputFile | String | Second file. |
+| blankPageFile | String | PDF file with blank page. |
+| outputFile | String | Result file. |
 
 ### Return Value
-
-bool
 
 True if operation was succeeded.
 
@@ -184,7 +174,8 @@ Merges two Pdf documents into a new Pdf document with pages in alternate ways an
  Merging the two Pdf document will produce the result document with pages:p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage.
 
 ```csharp
-public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream blankPageStream, Stream outputStream)
+public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream blankPageStream, 
+    Stream outputStream)
 ```
 
 | Parameter | Type | Description |
@@ -195,8 +186,6 @@ public bool Concatenate(Stream firstInputStream, Stream secInputStream, Stream b
 | outputStream | Stream | Output Pdf Stream. |
 
 ### Return Value
-
-bool
 
 True if operation was succeeded.
 

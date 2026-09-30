@@ -9,12 +9,12 @@ weight: 130
 url: "/net/aspose.pdf/color/op_inequality/"
 product_version: "26.9.0"
 ---
-## op_Inequality([Color](../../../aspose.pdf/color/), [Color](../../../aspose.pdf/color/)) {#op_inequality}
+## Color Inequality operator
 
 Returns true if two Colors are not equal.
 
 ```csharp
-public bool op_Inequality(Color x, Color y)
+public static bool operator !=(Color x, Color y)
 ```
 
 | Parameter | Type | Description |
@@ -24,13 +24,11 @@ public bool op_Inequality(Color x, Color y)
 
 ### Return Value
 
-bool
-
 True in case Color objects are not equal.
 
 ### See Also
 
-* class [Color](../)
+* class [Color](../../../aspose.pdf/color/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

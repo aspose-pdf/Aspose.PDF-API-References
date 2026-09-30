@@ -5,7 +5,7 @@ articleTitle: "XfdfReader"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Annotations.XfdfReader class. Class which peroformes reading of XFDF format."
 type: docs
-weight: 1380
+weight: 1370
 url: "/net/aspose.pdf.annotations/xfdfreader/"
 keywords: "XfdfReader, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,15 +22,15 @@ public sealed class XfdfReader
 
 | Name | Description |
 | --- | --- |
-| [XfdfReader](./xfdfreader/#constructor) | The default constructor. |
+| [XfdfReader](./xfdfreader/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetElements](./getelements/)(*XmlReader*) | Parses XFDF file and returns information as hashtable. |
-| [ReadAnnotations](./readannotations/)(*Stream, Document*) | Import annotations from XFDF file and put them into document. |
-| [ReadFields](./readfields/)(*Stream, Document*) | Import field values from XFDF file. |
+| static [GetElements](./getelements/)(XmlReader) | Parses XFDF file and returns information as hashtable. |
+| static [ReadAnnotations](./readannotations/)(Stream, Document) | Import annotations from XFDF file and put them into document. |
+| static [ReadFields](./readfields/)(Stream, Document) | Import field values from XFDF file. |
 
 ### See Also
 

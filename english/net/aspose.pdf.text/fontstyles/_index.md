@@ -14,6 +14,7 @@ product_version: "26.9.0"
 Specifies style information applied to text.
 
 ```csharp
+[Flags]
 public enum FontStyles
 ```
 

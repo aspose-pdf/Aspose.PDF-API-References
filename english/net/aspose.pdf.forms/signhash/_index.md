@@ -14,8 +14,17 @@ product_version: "26.9.0"
 Delegate for custom sign the document hash.
 
 ```csharp
-public delegate void SignHash()
+public delegate byte[] SignHash(byte[] hash, DigestHashAlgorithm digestHashAlgorithm);
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| hash | Byte[] | Input hash of the document. |
+| digestHashAlgorithm | DigestHashAlgorithm | The digest algorithm used to create the hash. The value will never be equal to <see cref="F:Aspose.Pdf.DigestHashAlgorithm.Auto" />. |
+
+### Return Value
+
+Output signature.
 
 ### See Also
 

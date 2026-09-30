@@ -18,12 +18,12 @@ HorizontalAlignment.None is equal to HorizontalAlignment.Left.
  Note that TextFragmentState.VerticalAlignment property works in new document generation scenarios only.
 
 ```csharp
-public HorizontalAlignment HorizontalAlignment { get; set; }
+public override HorizontalAlignment HorizontalAlignment { get; set; }
 ```
 
 ### See Also
 
-* class [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
+* enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

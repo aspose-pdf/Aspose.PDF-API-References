@@ -22,23 +22,23 @@ public sealed class Circle : Shape
 
 | Name | Description |
 | --- | --- |
-| [Circle](./circle/#constructor)(*float, float, float*) | Initializes a new instance of the [`Circle`](../../aspose.pdf.drawing/circle/) class. |
+| [Circle](./circle/)(float, float, float) | Initializes a new instance of the [`Circle`](../../aspose.pdf.drawing/circle/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Gets or sets a `GraphInfo` object that indicates the graph info,such as color,. *(Inherited from Shape)* |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Gets or sets a `GraphInfo` object that indicates the graph info,such as color, line width,etc. |
 | [PosX](./posx/) { get; set; } | Gets or sets a float value that indicates the x-coordinate of the center of the circle. |
 | [PosY](./posy/) { get; set; } | Gets or sets a float value that indicates the y-coordinate of the center of the circle. |
 | [Radius](./radius/) { get; set; } | Gets or sets a float value that indicates the radius of the circle. |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape. *(Inherited from Shape)* |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CheckBounds](./checkbounds/)(*double, double*) |  |
+| override [CheckBounds](./checkbounds/)(double, double) |  |
 
 ### See Also
 

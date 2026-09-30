@@ -19,7 +19,7 @@ public Direction Direction { get; set; }
 
 ### See Also
 
-* class [Direction](../../../aspose.pdf/direction/)
+* enum [Direction](../../../aspose.pdf/direction/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

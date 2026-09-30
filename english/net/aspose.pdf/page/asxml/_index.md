@@ -9,7 +9,7 @@ weight: 330
 url: "/net/aspose.pdf/page/asxml/"
 product_version: "26.9.0"
 ---
-## AsXml() {#asxml}
+## Page.AsXml method
 
 Converts current page as xml in utf8 encoding.
 
@@ -18,8 +18,6 @@ public string AsXml()
 ```
 
 ### Return Value
-
-string
 
 Converted xml string.
 

@@ -5,7 +5,7 @@ articleTitle: "HtmlSaveOptions.LettersPositioningMethods"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.HtmlSaveOptions.LettersPositioningMethods enum. It enumerates possible modes of positioning of letters in words in result HTML"
 type: docs
-weight: 1330
+weight: 1320
 url: "/net/aspose.pdf/htmlsaveoptions.letterspositioningmethods/"
 product_version: "26.9.0"
 ---

@@ -9,12 +9,12 @@ weight: 30
 url: "/net/aspose.pdf.annotations/redactionannotation/accept/"
 product_version: "26.9.0"
 ---
-## Accept([AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)) {#accept}
+## RedactionAnnotation.Accept method
 
 Accepts visitor object to process the annotation.
 
 ```csharp
-public void Accept(AnnotationSelector visitor)
+public override void Accept(AnnotationSelector visitor)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void Accept(AnnotationSelector visitor)
 
 ### See Also
 
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

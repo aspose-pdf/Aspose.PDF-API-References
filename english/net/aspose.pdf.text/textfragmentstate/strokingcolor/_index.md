@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets color stroking operations of [`TextFragment`](../../../aspose.pdf.text/textfragment/) rendering (stroke text, rectangle border)
 
 ```csharp
-public Color StrokingColor { get; set; }
+public override Color StrokingColor { get; set; }
 ```
 
 ### See Also

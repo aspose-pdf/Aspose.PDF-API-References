@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/submitformaction/submitformaction/"
 product_version: "26.9.0"
 ---
-## SubmitFormAction() {#constructor}
+## SubmitFormAction constructor
 
 Initializes SubmitFormAction object.
 

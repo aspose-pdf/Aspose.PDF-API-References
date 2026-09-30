@@ -5,7 +5,7 @@ articleTitle: "ActiveState"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "CheckboxField property. Gets or sets current annotation appearance state."
 type: docs
-weight: 110
+weight: 100
 url: "/net/aspose.pdf.forms/checkboxfield/activestate/"
 product_version: "26.9.0"
 ---
@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets current annotation appearance state.
 
 ```csharp
-public string ActiveState { get; set; }
+public override string ActiveState { get; set; }
 ```
 
 ### See Also

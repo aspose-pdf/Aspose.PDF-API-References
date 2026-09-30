@@ -9,21 +9,19 @@ weight: 20
 url: "/net/aspose.pdf.text/memoryfontsource/equals/"
 product_version: "26.9.0"
 ---
-## Equals(object) {#equals}
+## MemoryFontSource.Equals method
 
 Check if font file source objects are equal.
 
 ```csharp
-public bool Equals(object obj)
+public override bool Equals(object obj)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | object | Font file source object which will be compared. |
+| obj | Object | Font file source object which will be compared. |
 
 ### Return Value
-
-bool
 
 True if both objects are font file sources targeted to the same file.
 

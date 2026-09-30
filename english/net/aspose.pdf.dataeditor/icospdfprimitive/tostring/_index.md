@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.dataeditor/icospdfprimitive/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## ICosPdfPrimitive.ToString method
 
 `String` representation of instance [`ICosPdfPrimitive`](../../../aspose.pdf.dataeditor/icospdfprimitive/).
 
@@ -18,8 +18,6 @@ public string ToString()
 ```
 
 ### Return Value
-
-string
 
 Value of `String` representation of instance [`ICosPdfPrimitive`](../../../aspose.pdf.dataeditor/icospdfprimitive/).
 

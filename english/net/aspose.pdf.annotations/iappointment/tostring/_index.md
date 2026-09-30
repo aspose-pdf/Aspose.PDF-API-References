@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/iappointment/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## IAppointment.ToString method
 
 Returns string representation
 
@@ -18,8 +18,6 @@ public string ToString()
 ```
 
 ### Return Value
-
-string
 
 String representation.
 

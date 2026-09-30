@@ -5,16 +5,16 @@ articleTitle: "Close"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileInfo method. Deinitializes the instance."
 type: docs
-weight: 250
+weight: 240
 url: "/net/aspose.pdf.facades/pdffileinfo/close/"
 product_version: "26.9.0"
 ---
-## Close() {#close}
+## PdfFileInfo.Close method
 
 Deinitializes the instance.
 
 ```csharp
-public void Close()
+public override void Close()
 ```
 
 ### See Also

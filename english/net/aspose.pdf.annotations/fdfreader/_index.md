@@ -22,7 +22,7 @@ public sealed class FdfReader
 
 | Name | Description |
 | --- | --- |
-| [ReadAnnotations](./readannotations/)(*Stream, Document*) | Import annotations from FDF file and put them into document. |
+| static [ReadAnnotations](./readannotations/)(Stream, Document) | Import annotations from FDF file and put them into document. |
 
 ### See Also
 

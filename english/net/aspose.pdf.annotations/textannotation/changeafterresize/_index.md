@@ -9,12 +9,12 @@ weight: 40
 url: "/net/aspose.pdf.annotations/textannotation/changeafterresize/"
 product_version: "26.9.0"
 ---
-## ChangeAfterResize([Matrix](../../../aspose.pdf/matrix/)) {#changeafterresize}
+## TextAnnotation.ChangeAfterResize method
 
 Overrides the definition in the base class with an empty body.
 
 ```csharp
-public void ChangeAfterResize(Matrix transform)
+public override void ChangeAfterResize(Matrix transform)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void ChangeAfterResize(Matrix transform)
 
 ### See Also
 
+* class [Matrix](../../../aspose.pdf/matrix/)
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

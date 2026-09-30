@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.logicalstructure/structureelement/setid/"
 product_version: "26.9.0"
 ---
-## SetId(string) {#setid}
+## StructureElement.SetId method
 
 Sets ID for structure element.
 
@@ -19,7 +19,7 @@ public void SetId(string id)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | string | ID value for structure element |
+| id | String | ID value for structure element |
 
 ### See Also
 

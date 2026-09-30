@@ -19,7 +19,7 @@ public SignaturesCoverage Coverage { get; }
 
 ### See Also
 
-* class [SignaturesCoverage](../../../aspose.pdf.signatures/signaturescoverage/)
+* enum [SignaturesCoverage](../../../aspose.pdf.signatures/signaturescoverage/)
 * class [UnsignedContentAbsorber.Result](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)

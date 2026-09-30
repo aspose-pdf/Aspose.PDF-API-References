@@ -5,7 +5,7 @@ articleTitle: "Scrollable"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "TextBoxField property. Gets or sets scrollable flag of field. If true field can be scrolled."
 type: docs
-weight: 100
+weight: 90
 url: "/net/aspose.pdf.forms/textboxfield/scrollable/"
 product_version: "26.9.0"
 ---

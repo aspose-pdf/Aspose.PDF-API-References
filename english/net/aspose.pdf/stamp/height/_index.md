@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Desired height of the stamp on the page.
 
 ```csharp
-public double Height { get; set; }
+public virtual double Height { get; set; }
 ```
 
 ### See Also

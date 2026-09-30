@@ -9,7 +9,7 @@ weight: 150
 url: "/net/aspose.pdf.facades/pdffileinfo/getpagewidth/"
 product_version: "26.9.0"
 ---
-## GetPageWidth(int) {#getpagewidth}
+## PdfFileInfo.GetPageWidth method
 
 Gets the width of the specified page.
 
@@ -19,11 +19,9 @@ public float GetPageWidth(int pageNum)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNum | int | Page number. |
+| pageNum | Int32 | Page number. |
 
 ### Return Value
-
-float
 
 The width of the page.
 

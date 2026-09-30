@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.ai/openaiclient.builder/withorganization/"
 product_version: "26.9.0"
 ---
-## WithOrganization(string) {#withorganization}
+## OpenAIClient.Builder.WithOrganization method
 
 Sets the organization ID for the client.
 
@@ -19,11 +19,9 @@ public Builder WithOrganization(string organizationId)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| organizationId | string | The organization ID to set. |
+| organizationId | String | The organization ID to set. |
 
 ### Return Value
-
-Builder
 
 The current instance of `Builder`.
 

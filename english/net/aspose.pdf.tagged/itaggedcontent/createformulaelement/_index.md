@@ -9,7 +9,7 @@ weight: 390
 url: "/net/aspose.pdf.tagged/itaggedcontent/createformulaelement/"
 product_version: "26.9.0"
 ---
-## CreateFormulaElement() {#createformulaelement}
+## ITaggedContent.CreateFormulaElement method
 
 Creates [`FormulaElement`](../../../aspose.pdf.logicalstructure/formulaelement/).
 
@@ -18,8 +18,6 @@ public FormulaElement CreateFormulaElement()
 ```
 
 ### Return Value
-
-[FormulaElement](../../../aspose.pdf.logicalstructure/formulaelement/)
 
 Created structure element.
 

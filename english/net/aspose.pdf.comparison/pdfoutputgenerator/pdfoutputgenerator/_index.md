@@ -25,27 +25,7 @@ public PdfOutputGenerator()
 
 ---
 
-## PdfOutputGenerator([PageInfo](../../../aspose.pdf/pageinfo/)) {#constructor_1}
-
-Cteates an instance of [`PdfOutputGenerator`](../../../aspose.pdf.comparison/pdfoutputgenerator/) class.
-
-```csharp
-public PdfOutputGenerator(PageInfo pageInfo)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageInfo | PageInfo | The page size and margins settings. |
-
-### See Also
-
-* class [PdfOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## PdfOutputGenerator([OutputTextStyle](../../../aspose.pdf.comparison/outputtextstyle/)) {#constructor_2}
+## PdfOutputGenerator([OutputTextStyle](../../../aspose.pdf.comparison/outputtextstyle/)) {#constructor_1}
 
 Cteates an instance of [`PdfOutputGenerator`](../../../aspose.pdf.comparison/pdfoutputgenerator/) class.
 
@@ -59,6 +39,28 @@ public PdfOutputGenerator(OutputTextStyle textStyle)
 
 ### See Also
 
+* class [OutputTextStyle](../../../aspose.pdf.comparison/outputtextstyle/)
+* class [PdfOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfOutputGenerator([PageInfo](../../../aspose.pdf/pageinfo/)) {#constructor_2}
+
+Cteates an instance of [`PdfOutputGenerator`](../../../aspose.pdf.comparison/pdfoutputgenerator/) class.
+
+```csharp
+public PdfOutputGenerator(PageInfo pageInfo)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageInfo | PageInfo | The page size and margins settings. |
+
+### See Also
+
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
 * class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
@@ -80,6 +82,8 @@ public PdfOutputGenerator(OutputTextStyle textStyle, PageInfo pageInfo)
 
 ### See Also
 
+* class [OutputTextStyle](../../../aspose.pdf.comparison/outputtextstyle/)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
 * class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

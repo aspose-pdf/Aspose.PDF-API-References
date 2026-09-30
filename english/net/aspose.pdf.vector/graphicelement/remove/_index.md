@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.vector/graphicelement/remove/"
 product_version: "26.9.0"
 ---
-## Remove() {#remove}
+## GraphicElement.Remove method
 
 Removes current element from the page.
  If there are many elements to remove better use `DeleteGraphics`.

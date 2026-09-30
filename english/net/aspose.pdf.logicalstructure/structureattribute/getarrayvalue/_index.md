@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.logicalstructure/structureattribute/getarrayvalue/"
 product_version: "26.9.0"
 ---
-## GetArrayValue() {#getarrayvalue}
+## StructureAttribute.GetArrayValue method
 
 Gets Value Name Array.
 
@@ -18,8 +18,6 @@ public AttributeName[] GetArrayValue()
 ```
 
 ### Return Value
-
-[AttributeName](../../../aspose.pdf.logicalstructure/attributename/)[]
 
 Value Name Array.
 

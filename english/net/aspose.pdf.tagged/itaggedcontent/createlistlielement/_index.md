@@ -9,7 +9,7 @@ weight: 180
 url: "/net/aspose.pdf.tagged/itaggedcontent/createlistlielement/"
 product_version: "26.9.0"
 ---
-## CreateListLIElement() {#createlistlielement}
+## ITaggedContent.CreateListLIElement method
 
 Creates [`ListLIElement`](../../../aspose.pdf.logicalstructure/listlielement/).
 
@@ -18,8 +18,6 @@ public ListLIElement CreateListLIElement()
 ```
 
 ### Return Value
-
-[ListLIElement](../../../aspose.pdf.logicalstructure/listlielement/)
 
 Created structure element.
 

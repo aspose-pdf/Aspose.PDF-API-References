@@ -19,7 +19,7 @@ public StampType StampType { get; }
 
 ### See Also
 
-* class [StampType](../../../aspose.pdf.facades/stamptype/)
+* enum [StampType](../../../aspose.pdf.facades/stamptype/)
 * class [StampInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

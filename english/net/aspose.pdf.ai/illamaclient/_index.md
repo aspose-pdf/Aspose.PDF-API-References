@@ -21,7 +21,7 @@ public interface ILlamaClient
 
 | Name | Description |
 | --- | --- |
-| [CreateCompletionAsync](./createcompletionasync/)(*LlamaChatCompletionRequest, Nullable<CancellationToken>*) | Creates a chat completion request in the Llama service. |
+| [CreateCompletionAsync](./createcompletionasync/)(LlamaChatCompletionRequest, CancellationToken?) | Creates a chat completion request in the Llama service. |
 
 ### See Also
 

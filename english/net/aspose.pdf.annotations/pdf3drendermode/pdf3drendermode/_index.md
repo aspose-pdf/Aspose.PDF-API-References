@@ -23,6 +23,7 @@ public PDF3DRenderMode(RenderModeType subtype)
 
 ### See Also
 
+* enum [RenderModeType](../../../aspose.pdf.annotations/rendermodetype/)
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -39,7 +40,7 @@ public PDF3DRenderMode(string typeName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| typeName | string | Name of the type. |
+| typeName | String | Name of the type. |
 
 ### Exceptions
 

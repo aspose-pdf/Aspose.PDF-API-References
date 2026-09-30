@@ -14,16 +14,14 @@ product_version: "26.9.0"
 Gets comparison statistics.
 
 ```csharp
-public TextItemComparisonStatistics CreateComparisonStatistics(List<DiffOperation> diffs)
+public static TextItemComparisonStatistics CreateComparisonStatistics(List<DiffOperation> diffs)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffs | List<DiffOperation> | The list of changes. |
+| diffs | List`1 | The list of changes. |
 
 ### Return Value
-
-[TextItemComparisonStatistics](../../../aspose.pdf.comparison/textitemcomparisonstatistics/)
 
 The statistics.
 
@@ -41,16 +39,15 @@ The statistics.
 Gets documents comparison statistics.
 
 ```csharp
-public DocumentComparisonStatistics CreateComparisonStatistics(List<List<DiffOperation>> diffs)
+public static DocumentComparisonStatistics CreateComparisonStatistics(
+    List<List<DiffOperation>> diffs)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffs | List<List<DiffOperation>> | The list of changes. |
+| diffs | List`1 | The list of changes. |
 
 ### Return Value
-
-[DocumentComparisonStatistics](../../../aspose.pdf.comparison/documentcomparisonstatistics/)
 
 The statistics.
 

@@ -22,7 +22,7 @@ public class ThreadModifyRequest
 
 | Name | Description |
 | --- | --- |
-| [ThreadModifyRequest](./threadmodifyrequest/#constructor) | The default constructor. |
+| [ThreadModifyRequest](./threadmodifyrequest/)() | The default constructor. |
 
 ## Properties
 

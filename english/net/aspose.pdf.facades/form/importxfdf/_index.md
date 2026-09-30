@@ -5,11 +5,11 @@ articleTitle: "ImportXfdf"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Imports the content of the fields from the xfdf(xml) file and put them into the new pdf."
 type: docs
-weight: 340
+weight: 270
 url: "/net/aspose.pdf.facades/form/importxfdf/"
 product_version: "26.9.0"
 ---
-## ImportXfdf(Stream) {#importxfdf}
+## Form.ImportXfdf method
 
 Imports the content of the fields from the xfdf(xml) file and put them into the new pdf.
 

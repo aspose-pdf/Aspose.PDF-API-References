@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/texloadoptions/texloadoptions/"
 product_version: "26.9.0"
 ---
-## TeXLoadOptions() {#constructor}
+## TeXLoadOptions constructor
 
 The default constructor.
 

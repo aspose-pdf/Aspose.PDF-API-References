@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/cgmimportoptions/cgmimportoptions/"
 product_version: "26.9.0"
 ---
-## CgmImportOptions() {#constructor}
+## CgmImportOptions constructor
 
 The default constructor.
 

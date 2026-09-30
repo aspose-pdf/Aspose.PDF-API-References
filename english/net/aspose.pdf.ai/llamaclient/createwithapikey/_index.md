@@ -9,21 +9,19 @@ weight: 20
 url: "/net/aspose.pdf.ai/llamaclient/createwithapikey/"
 product_version: "26.9.0"
 ---
-## CreateWithApiKey(string) {#createwithapikey}
+## LlamaClient.CreateWithApiKey method
 
 Creates a new instance of `Builder` with the provided API key.
 
 ```csharp
-public Builder CreateWithApiKey(string apiKey)
+public static Builder CreateWithApiKey(string apiKey)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| apiKey | string | The API key to use for the client. |
+| apiKey | String | The API key to use for the client. |
 
 ### Return Value
-
-Builder
 
 An instance of `Builder`.
 

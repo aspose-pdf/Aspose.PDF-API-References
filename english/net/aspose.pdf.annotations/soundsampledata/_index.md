@@ -22,10 +22,10 @@ public class SoundSampleData
 
 | Name | Description |
 | --- | --- |
-| [SoundSampleData](./soundsampledata/#constructor)(*long*) | Initializes new sound sample data. |
-| [SoundSampleData](./soundsampledata/#constructor_1)(*long, int*) | Initializes new sound sample data. |
-| [SoundSampleData](./soundsampledata/#constructor_2)(*long, int, int*) | Initializes new sound sample data. |
-| [SoundSampleData](./soundsampledata/#constructor_3)(*long, int, int, [SoundSampleDataEncodingFormat](../../aspose.pdf.annotations/soundsampledataencodingformat/)*) | Initializes new sound sample data. |
+| [SoundSampleData](./soundsampledata/#constructor)(long) | Initializes new sound sample data. |
+| [SoundSampleData](./soundsampledata/#constructor_1)(long, int) | Initializes new sound sample data. |
+| [SoundSampleData](./soundsampledata/#constructor_2)(long, int, int) | Initializes new sound sample data. |
+| [SoundSampleData](./soundsampledata/#constructor_3)(long, int, int, SoundSampleDataEncodingFormat) | Initializes new sound sample data. |
 
 ## Properties
 

@@ -9,17 +9,15 @@ weight: 30
 url: "/net/aspose.pdf/image/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## Image.Clone method
 
 Clone the image.
 
 ```csharp
-public object Clone()
+public override object Clone()
 ```
 
 ### Return Value
-
-object
 
 The cloned object
 

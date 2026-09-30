@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets a list of token log probabilities.
 
 ```csharp
-public List<Nullable<double>> TokenLogprobs { get; set; }
+public List<double?> TokenLogprobs { get; set; }
 ```
 
 ### See Also

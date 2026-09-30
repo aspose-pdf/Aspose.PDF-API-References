@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf.forms/form/removefieldappearance/"
 product_version: "26.9.0"
 ---
-## RemoveFieldAppearance([Field](../../../aspose.pdf.forms/field/), int) {#removefieldappearance}
+## Form.RemoveFieldAppearance method
 
 Removes appearance of the field at specified index. 
  If only one child appearance left, method embeds it into the field.
@@ -21,10 +21,11 @@ public void RemoveFieldAppearance(Field field, int appearanceIndex)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | field | Field | Field with appearances. |
-| appearanceIndex | int | Appearances index. |
+| appearanceIndex | Int32 | Appearances index. |
 
 ### See Also
 
+* class [Field](../../../aspose.pdf.forms/field/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

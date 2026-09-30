@@ -23,14 +23,12 @@ public LlamaSummaryCopilotOptions WithDocument(TextDocument textDocument)
 
 ### Return Value
 
-[LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
-
 The current instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
 
 ### See Also
 
 * class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
-* class [LlamaSummaryCopilotOptions](../)
+* class [TextDocument](../../../aspose.pdf.ai/textdocument/)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -50,14 +48,12 @@ public LlamaSummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 ### Return Value
 
-[LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
-
 The current instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
 
 ### See Also
 
 * class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
-* class [LlamaSummaryCopilotOptions](../)
+* class [PdfDocument](../../../aspose.pdf.ai/pdfdocument/)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -73,18 +69,15 @@ public LlamaSummaryCopilotOptions WithDocument(string filePath)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filePath | string | The file path of the document to add. |
+| filePath | String | The file path of the document to add. |
 
 ### Return Value
-
-[LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
 
 The current instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
 
 ### See Also
 
 * class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
-* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

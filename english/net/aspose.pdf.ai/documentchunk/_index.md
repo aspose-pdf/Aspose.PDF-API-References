@@ -22,14 +22,14 @@ public sealed class DocumentChunk
 
 | Name | Description |
 | --- | --- |
-| [DocumentChunk](./documentchunk/#constructor)(*string, string, int, string*) | Initializes a new instance of the [`DocumentChunk`](../../aspose.pdf.ai/documentchunk/) class. |
+| [DocumentChunk](./documentchunk/)(string, string, int, string) | Initializes a new instance of the [`DocumentChunk`](../../aspose.pdf.ai/documentchunk/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Content](./content/) { get; } | Gets the text content of the chunk. |
-| [Context](./context/) { get; } | Gets the structural context of this chunk, typically the header path. |
+| [Context](./context/) { get; } | Gets the structural context of this chunk, typically the header path indicating where this chunk appears in the document hierarchy. |
 | [Embedding](./embedding/) { get; set; } | Gets or sets the embedding vector for this chunk. |
 | [Id](./id/) { get; } | Gets the unique identifier of the chunk. |
 | [Index](./index/) { get; } | Gets the zero-based index of the chunk within the document. |
@@ -39,7 +39,7 @@ public sealed class DocumentChunk
 
 | Name | Description |
 | --- | --- |
-| [GetVectorDefinition](./getvectordefinition/)(*int*) | Returns a `VectorStoreCollectionDefinition` describing the schema. |
+| static [GetVectorDefinition](./getvectordefinition/)(int) | Returns a `VectorStoreCollectionDefinition` describing the schema of [`DocumentChunk`](../../aspose.pdf.ai/documentchunk/) for use with a vector store collection. |
 
 ## Remarks
 

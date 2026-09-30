@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf/metadata/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## Metadata.Clear method
 
 Clears metadata.
 

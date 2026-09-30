@@ -24,6 +24,8 @@ public PDF3DArtwork(Document doc, PDF3DContent content)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DContent](../../../aspose.pdf.annotations/pdf3dcontent/)
 * class [PDF3DArtwork](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -35,7 +37,8 @@ public PDF3DArtwork(Document doc, PDF3DContent content)
 Initializes a new instance of the [`PDF3DArtwork`](../../../aspose.pdf.annotations/pdf3dartwork/) class.
 
 ```csharp
-public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme lightingScheme, PDF3DRenderMode renderMode)
+public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme lightingScheme, 
+    PDF3DRenderMode renderMode)
 ```
 
 | Parameter | Type | Description |
@@ -47,6 +50,10 @@ public PDF3DArtwork(Document doc, PDF3DContent content, PDF3DLightingScheme ligh
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DContent](../../../aspose.pdf.annotations/pdf3dcontent/)
+* class [PDF3DLightingScheme](../../../aspose.pdf.annotations/pdf3dlightingscheme/)
+* class [PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
 * class [PDF3DArtwork](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

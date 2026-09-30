@@ -19,7 +19,7 @@ public ImportFormat ImportFormat { get; }
 
 ### See Also
 
-* class [ImportFormat](../../../aspose.pdf/importformat/)
+* enum [ImportFormat](../../../aspose.pdf/importformat/)
 * class [ImportOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

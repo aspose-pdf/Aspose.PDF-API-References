@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/pptxsaveoptions/pptxsaveoptions/"
 product_version: "26.9.0"
 ---
-## PptxSaveOptions() {#constructor}
+## PptxSaveOptions constructor
 
 The default constructor.
 

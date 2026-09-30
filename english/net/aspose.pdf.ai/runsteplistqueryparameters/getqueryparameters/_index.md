@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.ai/runsteplistqueryparameters/getqueryparameters/"
 product_version: "26.9.0"
 ---
-## GetQueryParameters() {#getqueryparameters}
+## RunStepListQueryParameters.GetQueryParameters method
 
 Gets the query parameters for listing run steps.
 
@@ -18,8 +18,6 @@ public string GetQueryParameters()
 ```
 
 ### Return Value
-
-string
 
 The query parameters string.
 

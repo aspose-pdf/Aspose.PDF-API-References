@@ -15,21 +15,21 @@ product_version: "26.9.0"
 Represents the [`Ofd`](../../aspose.pdf.lowcode/ofd/) plugin.
 
 ```csharp
-public sealed class Ofd : IPlugin, IDisposable
+public sealed class Ofd : IDisposable, IPlugin
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [Ofd](./ofd/#constructor) | The default constructor. |
+| [Ofd](./ofd/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/) | Implementation of IDisposable. |
-| [Process](./process/)(*IPluginOptions*) | Starts the [`Ofd`](../../aspose.pdf.lowcode/ofd/) processing with the specified parameters. |
+| [Dispose](./dispose/)() | Implementation of IDisposable. |
+| [Process](./process/)(IPluginOptions) | Starts the [`Ofd`](../../aspose.pdf.lowcode/ofd/) processing with the specified parameters. |
 
 ### See Also
 

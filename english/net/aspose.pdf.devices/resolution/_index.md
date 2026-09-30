@@ -22,8 +22,8 @@ public sealed class Resolution
 
 | Name | Description |
 | --- | --- |
-| [Resolution](./resolution/#constructor)(*int*) | Initializes a new instance of the [`Resolution`](../../aspose.pdf.devices/resolution/) class. |
-| [Resolution](./resolution/#constructor_1)(*int, int*) | Initializes a new instance of the [`Resolution`](../../aspose.pdf.devices/resolution/) class. |
+| [Resolution](./resolution/#constructor)(int) | Initializes a new instance of the [`Resolution`](../../aspose.pdf.devices/resolution/) class. |
+| [Resolution](./resolution/#constructor_1)(int, int) | Initializes a new instance of the [`Resolution`](../../aspose.pdf.devices/resolution/) class. |
 
 ## Properties
 

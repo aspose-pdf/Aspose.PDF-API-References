@@ -23,6 +23,7 @@ public SetRGBColor(Color color)
 
 ### See Also
 
+* class [Color](../../../aspose.pdf/color/)
 * class [SetRGBColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
@@ -39,9 +40,9 @@ public SetRGBColor(double r, double g, double b)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| r | double | The level of red from 0.0 to 1.0 |
-| g | double | The level of green from 0.0 to 1.0 |
-| b | double | The level of blue from 0.0 to 1.0 |
+| r | Double | The level of red from 0.0 to 1.0 |
+| g | Double | The level of green from 0.0 to 1.0 |
+| b | Double | The level of blue from 0.0 to 1.0 |
 
 ### See Also
 

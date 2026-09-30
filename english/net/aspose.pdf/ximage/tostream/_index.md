@@ -9,7 +9,7 @@ weight: 120
 url: "/net/aspose.pdf/ximage/tostream/"
 product_version: "26.9.0"
 ---
-## ToStream() {#tostream}
+## XImage.ToStream method
 
 Returns the original image stream.
 
@@ -18,8 +18,6 @@ public Stream ToStream()
 ```
 
 ### Return Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
 
 The original image stream.
 

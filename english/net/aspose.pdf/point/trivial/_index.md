@@ -14,13 +14,12 @@ product_version: "26.9.0"
 Gets point with zero coordinates.
 
 ```csharp
-public Point Trivial { get; }
+public static Point Trivial { get; }
 ```
 
 ### See Also
 
 * class [Point](../../../aspose.pdf/point/)
-* class [Point](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

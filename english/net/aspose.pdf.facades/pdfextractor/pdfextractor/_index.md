@@ -39,6 +39,7 @@ public PdfExtractor(Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -23,8 +23,6 @@ public Document OpenStream(Stream input)
 
 ### Return Value
 
-[Document](../../../aspose.pdf/document/)
-
 Document object
 
 ### See Also
@@ -47,11 +45,9 @@ public Document OpenStream(Stream input, string password)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | input | Stream | Input stream object, corresponding pdf is password protected. |
-| password | string | User or owner password. |
+| password | String | User or owner password. |
 
 ### Return Value
-
-[Document](../../../aspose.pdf/document/)
 
 Document object
 
@@ -75,11 +71,9 @@ public Document OpenStream(Stream input, bool isManagedStream)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | input | Stream | Stream with pdf document. |
-| isManagedStream | bool | if set to `true` inner stream is closed before exit; otherwise, is not. |
+| isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
 
 ### Return Value
-
-[Document](../../../aspose.pdf/document/)
 
 Document object
 
@@ -103,12 +97,10 @@ public Document OpenStream(Stream input, string password, bool isManagedStream)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | input | Stream | Stream with pdf document. |
-| password | string | User or owner password. |
-| isManagedStream | bool | if set to `true` inner stream is closed before exit; otherwise, is not. |
+| password | String | User or owner password. |
+| isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
 
 ### Return Value
-
-[Document](../../../aspose.pdf/document/)
 
 Document object
 
@@ -136,13 +128,12 @@ public Document OpenStream(Stream input, LoadOptions options)
 
 ### Return Value
 
-[Document](../../../aspose.pdf/document/)
-
 Document object
 
 ### See Also
 
 * class [Document](../../../aspose.pdf/document/)
+* class [LoadOptions](../../../aspose.pdf/loadoptions/)
 * class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

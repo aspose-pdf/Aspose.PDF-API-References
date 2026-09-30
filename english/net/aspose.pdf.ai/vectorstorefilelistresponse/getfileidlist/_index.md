@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.ai/vectorstorefilelistresponse/getfileidlist/"
 product_version: "26.9.0"
 ---
-## GetFileIdList() {#getfileidlist}
+## VectorStoreFileListResponse.GetFileIdList method
 
 Gets the list of file IDs from the vector store.
 
@@ -18,8 +18,6 @@ public List<string> GetFileIdList()
 ```
 
 ### Return Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
 
 The list of file IDs.
 

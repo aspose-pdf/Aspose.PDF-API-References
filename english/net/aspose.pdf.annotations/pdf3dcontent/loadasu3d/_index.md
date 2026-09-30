@@ -19,7 +19,7 @@ public void LoadAsU3D(string filename)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | The filename. |
+| filename | String | The filename. |
 
 ### See Also
 
@@ -59,7 +59,7 @@ public void LoadAsU3D(byte[] stream)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | byte[] | The stream. |
+| stream | Byte[] | The stream. |
 
 ### See Also
 

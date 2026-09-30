@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/documentinfo/documentinfo/"
 product_version: "26.9.0"
 ---
-## DocumentInfo([Document](../../../aspose.pdf/document/)) {#constructor}
+## DocumentInfo constructor
 
 Initialize DocumentInfo instance.
 
@@ -23,6 +23,7 @@ public DocumentInfo(Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

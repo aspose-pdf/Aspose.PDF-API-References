@@ -19,7 +19,7 @@ public HtmlMediaType HtmlMediaType { get; set; }
 
 ### See Also
 
-* class [HtmlMediaType](../../../aspose.pdf/htmlmediatype/)
+* enum [HtmlMediaType](../../../aspose.pdf/htmlmediatype/)
 * class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

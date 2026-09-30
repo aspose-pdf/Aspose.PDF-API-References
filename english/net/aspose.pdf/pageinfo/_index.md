@@ -5,7 +5,7 @@ articleTitle: "PageInfo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.PageInfo class. Represents the page information."
 type: docs
-weight: 2220
+weight: 2180
 url: "/net/aspose.pdf/pageinfo/"
 keywords: "PageInfo, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public sealed class PageInfo : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [PageInfo](./pageinfo/#constructor) | The default constructor. |
+| [PageInfo](./pageinfo/)() | The default constructor. |
 
 ## Properties
 
@@ -40,7 +40,7 @@ public sealed class PageInfo : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Clone](./clone/) | Clone page info. |
+| [Clone](./clone/)() | Clone page info. |
 
 ### See Also
 

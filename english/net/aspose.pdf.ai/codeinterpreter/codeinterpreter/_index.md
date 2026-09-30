@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/codeinterpreter/codeinterpreter/"
 product_version: "26.9.0"
 ---
-## CodeInterpreter() {#constructor}
+## CodeInterpreter constructor
 
 The default constructor.
 

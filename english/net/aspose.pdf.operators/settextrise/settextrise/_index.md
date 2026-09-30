@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/settextrise/settextrise/"
 product_version: "26.9.0"
 ---
-## SetTextRise(double) {#constructor}
+## SetTextRise constructor
 
 Initializes operator.
 
@@ -19,7 +19,7 @@ public SetTextRise(double textRise)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textRise | double | Text rise. |
+| textRise | Double | Text rise. |
 
 ### See Also
 

@@ -9,28 +9,25 @@ weight: 80
 url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/withmaxcompletiontokens/"
 product_version: "26.9.0"
 ---
-## WithMaxCompletionTokens(Nullable<int>) {#withmaxcompletiontokens}
+## OpenAISummaryCopilotOptions.WithMaxCompletionTokens method
 
 Sets the max completion tokens for the summary copilot options.
 
 ```csharp
-public OpenAISummaryCopilotOptions WithMaxCompletionTokens(Nullable<int> maxCompletionTokens)
+public OpenAISummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| maxCompletionTokens | Nullable<int> | The max completion tokens to set. |
+| maxCompletionTokens | Nullable`1 | The max completion tokens to set. |
 
 ### Return Value
-
-[OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
 
 The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
 
 ### See Also
 
 * class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
-* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

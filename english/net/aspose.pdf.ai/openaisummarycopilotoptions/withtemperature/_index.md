@@ -9,28 +9,25 @@ weight: 50
 url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/withtemperature/"
 product_version: "26.9.0"
 ---
-## WithTemperature(Nullable<double>) {#withtemperature}
+## OpenAISummaryCopilotOptions.WithTemperature method
 
 Sets the temperature for the summary copilot options.
 
 ```csharp
-public OpenAISummaryCopilotOptions WithTemperature(Nullable<double> temperature)
+public OpenAISummaryCopilotOptions WithTemperature(double? temperature)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| temperature | Nullable<double> | The temperature to set. |
+| temperature | Nullable`1 | The temperature to set. |
 
 ### Return Value
-
-[OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
 
 The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
 
 ### See Also
 
 * class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
-* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

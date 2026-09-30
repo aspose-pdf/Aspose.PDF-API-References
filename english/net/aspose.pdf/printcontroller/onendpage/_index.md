@@ -9,12 +9,12 @@ weight: 40
 url: "/net/aspose.pdf/printcontroller/onendpage/"
 product_version: "26.9.0"
 ---
-## OnEndPage(PrintDocument, PrintPageEventArgs) {#onendpage}
+## PrintController.OnEndPage method
 
 Fires on page end printing.
 
 ```csharp
-public void OnEndPage(PrintDocument document, PrintPageEventArgs e)
+public override void OnEndPage(PrintDocument document, PrintPageEventArgs e)
 ```
 
 | Parameter | Type | Description |

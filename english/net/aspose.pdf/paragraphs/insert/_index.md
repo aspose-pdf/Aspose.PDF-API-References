@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf/paragraphs/insert/"
 product_version: "26.9.0"
 ---
-## Insert(int, [BaseParagraph](../../../aspose.pdf/baseparagraph/)) {#insert}
+## Paragraphs.Insert method
 
 Insert paragraph to collection.
 
@@ -19,11 +19,12 @@ public void Insert(int index, BaseParagraph paragraph)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | The index for paragraph. |
+| index | Int32 | The index for paragraph. |
 | paragraph | BaseParagraph | The paragraph. |
 
 ### See Also
 
+* class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

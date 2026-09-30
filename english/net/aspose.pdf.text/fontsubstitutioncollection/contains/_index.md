@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/contains/"
 product_version: "26.9.0"
 ---
-## Contains([FontSubstitution](../../../aspose.pdf.text/fontsubstitution/)) {#contains}
+## FontSubstitutionCollection.Contains method
 
 Determines whether an element is in the collection.
 
@@ -23,12 +23,11 @@ public bool Contains(FontSubstitution item)
 
 ### Return Value
 
-bool
-
 True - if element found; otherwise, false.
 
 ### See Also
 
+* class [FontSubstitution](../../../aspose.pdf.text/fontsubstitution/)
 * class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

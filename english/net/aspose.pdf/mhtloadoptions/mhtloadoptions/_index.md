@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/mhtloadoptions/mhtloadoptions/"
 product_version: "26.9.0"
 ---
-## MhtLoadOptions() {#constructor}
+## MhtLoadOptions constructor
 
 The default constructor.
 

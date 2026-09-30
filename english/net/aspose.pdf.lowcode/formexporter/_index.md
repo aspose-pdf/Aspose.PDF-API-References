@@ -22,13 +22,13 @@ public sealed class FormExporter : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [FormExporter](./formexporter/#constructor) | The default constructor. |
+| [FormExporter](./formexporter/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(*IPluginOptions*) | Starts the FormExporter processing with the specified options. |
+| [Process](./process/)(IPluginOptions) | Starts the FormExporter processing with the specified options. |
 
 ### See Also
 

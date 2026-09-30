@@ -5,7 +5,7 @@ articleTitle: "PreventGlyphsGrouping"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "HtmlSaveOptions property. This attribute switch on the mode when text glyphs will not be grouped into words and strings This mode allows to keep maximum prec..."
 type: docs
-weight: 230
+weight: 220
 url: "/net/aspose.pdf/htmlsaveoptions/preventglyphsgrouping/"
 product_version: "26.9.0"
 ---

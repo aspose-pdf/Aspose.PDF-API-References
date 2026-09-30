@@ -9,17 +9,15 @@ weight: 30
 url: "/net/aspose.pdf/point/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## Point.ToString method
 
 Return string represention current point.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String, representing current poit.
 

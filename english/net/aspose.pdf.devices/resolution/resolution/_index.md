@@ -19,7 +19,7 @@ public Resolution(int value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | Value which represents the horizontal and vertical resolution. |
+| value | Int32 | Value which represents the horizontal and vertical resolution. |
 
 ### See Also
 
@@ -39,8 +39,8 @@ public Resolution(int valueX, int valueY)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| valueX | int | Horizontal resolution. |
-| valueY | int | Vertical resolution. |
+| valueX | Int32 | Horizontal resolution. |
+| valueY | Int32 | Vertical resolution. |
 
 ### See Also
 

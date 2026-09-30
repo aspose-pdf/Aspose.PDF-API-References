@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets array of color components.
 
 ```csharp
-public double[] Color { get; }
+public virtual double[] Color { get; }
 ```
 
 ### See Also

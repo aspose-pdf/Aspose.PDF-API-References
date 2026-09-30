@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/filesearch/filesearch/"
 product_version: "26.9.0"
 ---
-## FileSearch() {#constructor}
+## FileSearch constructor
 
 The default constructor.
 

@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets text which operator out on the page.
 
 ```csharp
-public string Text { get; set; }
+public virtual string Text { get; set; }
 ```
 
 ### See Also

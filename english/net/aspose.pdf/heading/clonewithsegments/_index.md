@@ -9,17 +9,15 @@ weight: 30
 url: "/net/aspose.pdf/heading/clonewithsegments/"
 product_version: "26.9.0"
 ---
-## CloneWithSegments() {#clonewithsegments}
+## Heading.CloneWithSegments method
 
 Clone the heading with all segments.
 
 ```csharp
-public object CloneWithSegments()
+public override object CloneWithSegments()
 ```
 
 ### Return Value
-
-object
 
 The cloned object
 

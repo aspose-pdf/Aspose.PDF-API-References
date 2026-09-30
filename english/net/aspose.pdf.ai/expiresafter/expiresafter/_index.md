@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/expiresafter/expiresafter/"
 product_version: "26.9.0"
 ---
-## ExpiresAfter() {#constructor}
+## ExpiresAfter constructor
 
 The default constructor.
 

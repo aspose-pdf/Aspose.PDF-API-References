@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Always throws NotImplementedException
 
 ```csharp
-public bool Remove(OutlineItemCollection item)
+public override bool Remove(OutlineItemCollection item)
 ```
 
 | Parameter | Type | Description |
@@ -22,8 +22,6 @@ public bool Remove(OutlineItemCollection item)
 | item | OutlineItemCollection | The object to locate in the collection |
 
 ### Return Value
-
-bool
 
 NotImplementedException
 
@@ -36,6 +34,7 @@ NotImplementedException
 
 ### See Also
 
+* class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
 * class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -52,7 +51,7 @@ public void Remove(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of the item to be removed. |
+| index | Int32 | Index of the item to be removed. |
 
 ### See Also
 

@@ -9,18 +9,18 @@ weight: 80
 url: "/net/aspose.pdf.ai/openaichatcopilot/savecontextasync/"
 product_version: "26.9.0"
 ---
-## SaveContextAsync(string, Nullable<CancellationToken>) {#savecontextasync}
+## OpenAIChatCopilot.SaveContextAsync method
 
 
 
 ```csharp
-public Task SaveContextAsync(string jsonFilePath, Nullable<CancellationToken> cancellationToken)
+public Task SaveContextAsync(string jsonFilePath, CancellationToken? cancellationToken)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| jsonFilePath | string |  |
-| cancellationToken | Nullable<CancellationToken> |  |
+| jsonFilePath | String |  |
+| cancellationToken | Nullable`1 |  |
 
 ### Return Value
 

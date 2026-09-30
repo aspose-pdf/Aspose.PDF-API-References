@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/queueitem/"
 product_version: "26.9.0"
 ---
-## PdfASymbolicFontEncodingStrategy.QueueItem() {#constructor}
+## QueueItem() {#constructor}
 
 Constructor, specifies mac subtable(1,0) by default
 
 ```csharp
-public PdfASymbolicFontEncodingStrategy.QueueItem()
+public QueueItem()
 ```
 
 ### See Also
@@ -25,38 +25,38 @@ public PdfASymbolicFontEncodingStrategy.QueueItem()
 
 ---
 
-## PdfASymbolicFontEncodingStrategy.QueueItem(CMapEncodingTableType) {#constructor_1}
-
-Initializes a new instance of the PdfASymbolicFontEncodingStrategy.QueueItem class.
-
-```csharp
-public PdfASymbolicFontEncodingStrategy.QueueItem(CMapEncodingTableType cmapTable)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| cmapTable | CMapEncodingTableType |  |
-
-### See Also
-
-* class [PdfASymbolicFontEncodingStrategy.QueueItem](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## PdfASymbolicFontEncodingStrategy.QueueItem(ushort, ushort) {#constructor_2}
+## QueueItem(CMapEncodingTableType) {#constructor_1}
 
 Constructor
 
 ```csharp
-public PdfASymbolicFontEncodingStrategy.QueueItem(ushort platformID, ushort platformSpecificID)
+public QueueItem(CMapEncodingTableType cmapTable)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| platformID | ushort | Platform identifier for encoding subtable |
-| platformSpecificID | ushort | Platform-specific encoding identifier for encoding subtable |
+| cmapTable | CMapEncodingTableType | encoding subtable |
+
+### See Also
+
+* class [PdfASymbolicFontEncodingStrategy.QueueItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## QueueItem(ushort, ushort) {#constructor_2}
+
+Constructor
+
+```csharp
+public QueueItem(ushort platformID, ushort platformSpecificID)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| platformID | UInt16 | Platform identifier for encoding subtable |
+| platformSpecificID | UInt16 | Platform-specific encoding identifier for encoding subtable |
 
 ### See Also
 

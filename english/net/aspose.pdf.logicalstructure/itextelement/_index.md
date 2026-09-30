@@ -27,7 +27,7 @@ public interface ITextElement
 
 | Name | Description |
 | --- | --- |
-| [SetText](./settext/)(*string*) | Appends text content to current text element. |
+| [SetText](./settext/)(string) | Appends text content to current text element. |
 
 ### See Also
 

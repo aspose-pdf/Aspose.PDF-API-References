@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/stamp/setstampid/"
 product_version: "26.9.0"
 ---
-## setStampId(int) {#setstampid}
+## Stamp.setStampId method
 
 Sets stamp Id.
 
@@ -19,7 +19,7 @@ public void setStampId(int value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | New value of Stamp ID. |
+| value | Int32 | New value of Stamp ID. |
 
 ### See Also
 

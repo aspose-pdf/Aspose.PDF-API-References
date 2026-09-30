@@ -9,13 +9,13 @@ weight: 100
 url: "/net/aspose.pdf/baseoperatorcollection/cancelupdate/"
 product_version: "26.9.0"
 ---
-## CancelUpdate() {#cancelupdate}
+## BaseOperatorCollection.CancelUpdate method
 
 Cancels last update.
  This method may be called when the change should not raise contents update.
 
 ```csharp
-public void CancelUpdate()
+public abstract void CancelUpdate()
 ```
 
 ### See Also

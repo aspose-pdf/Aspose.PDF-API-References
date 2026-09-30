@@ -19,7 +19,7 @@ public ImageFilterType FilterType { get; }
 
 ### See Also
 
-* class [ImageFilterType](../../../aspose.pdf/imagefiltertype/)
+* enum [ImageFilterType](../../../aspose.pdf/imagefiltertype/)
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -5,11 +5,11 @@ articleTitle: "SetFieldLimit"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormEditor method. Sets maximum character count of the text field."
 type: docs
-weight: 130
+weight: 80
 url: "/net/aspose.pdf.facades/formeditor/setfieldlimit/"
 product_version: "26.9.0"
 ---
-## SetFieldLimit(string, int) {#setfieldlimit}
+## FormEditor.SetFieldLimit method
 
 Sets maximum character count of the text field.
 
@@ -19,12 +19,10 @@ public bool SetFieldLimit(string fieldName, int fieldLimit)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | Name of the text field. |
-| fieldLimit | int | New value of limit for the field. |
+| fieldName | String | Name of the text field. |
+| fieldLimit | Int32 | New value of limit for the field. |
 
 ### Return Value
-
-bool
 
 true if field limit was successfully set.
 

@@ -9,7 +9,7 @@ weight: 190
 url: "/net/aspose.pdf.ai/openaiclient/getchatcopilot/"
 product_version: "26.9.0"
 ---
-## GetChatCopilot(IChatCopilotOptions<OpenAIChatCopilotOptions>) {#getchatcopilot}
+## OpenAIClient.GetChatCopilot method
 
 Gets an instance of [`IChatCopilot`](../../../aspose.pdf.ai/ichatcopilot/) with the specified options.
 
@@ -19,17 +19,15 @@ public IChatCopilot GetChatCopilot(IChatCopilotOptions<OpenAIChatCopilotOptions>
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | IChatCopilotOptions<OpenAIChatCopilotOptions> | The options for the chat copilot. |
+| options | IChatCopilotOptions`1 | The options for the chat copilot. |
 
 ### Return Value
-
-[IChatCopilot](../../../aspose.pdf.ai/ichatcopilot/)
 
 An instance of [`IChatCopilot`](../../../aspose.pdf.ai/ichatcopilot/).
 
 ### See Also
 
-* class [IChatCopilot](../../../aspose.pdf.ai/ichatcopilot/)
+* interface [IChatCopilot](../../../aspose.pdf.ai/ichatcopilot/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

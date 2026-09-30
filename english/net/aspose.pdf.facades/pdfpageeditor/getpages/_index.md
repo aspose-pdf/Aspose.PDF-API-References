@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.facades/pdfpageeditor/getpages/"
 product_version: "26.9.0"
 ---
-## GetPages() {#getpages}
+## PdfPageEditor.GetPages method
 
 Returns total number of pages.
 
@@ -18,8 +18,6 @@ public int GetPages()
 ```
 
 ### Return Value
-
-int
 
 Number of pages.
 

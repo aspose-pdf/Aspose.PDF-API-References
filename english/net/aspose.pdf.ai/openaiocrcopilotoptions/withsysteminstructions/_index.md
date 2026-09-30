@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withsysteminstructions/"
 product_version: "26.9.0"
 ---
-## WithSystemInstructions(string) {#withsysteminstructions}
+## OpenAIOcrCopilotOptions.WithSystemInstructions method
 
 Sets the instructions for the ocr copilot options.
 
@@ -19,18 +19,15 @@ public OpenAIOcrCopilotOptions WithSystemInstructions(string text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string | The instructions to set. |
+| text | String | The instructions to set. |
 
 ### Return Value
-
-[OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
 
 The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
 ### See Also
 
 * class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
-* class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

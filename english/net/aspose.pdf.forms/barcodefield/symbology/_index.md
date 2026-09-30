@@ -20,7 +20,7 @@ public Symbology Symbology { get; }
 
 ### See Also
 
-* class [Symbology](../../../aspose.pdf.forms/symbology/)
+* enum [Symbology](../../../aspose.pdf.forms/symbology/)
 * class [BarcodeField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

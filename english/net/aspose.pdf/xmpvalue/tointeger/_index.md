@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf/xmpvalue/tointeger/"
 product_version: "26.9.0"
 ---
-## ToInteger() {#tointeger}
+## XmpValue.ToInteger method
 
 Converts to integer.
 
@@ -18,8 +18,6 @@ public int ToInteger()
 ```
 
 ### Return Value
-
-int
 
 Integer value.
 

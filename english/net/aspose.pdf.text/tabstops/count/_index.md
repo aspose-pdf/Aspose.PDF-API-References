@@ -18,6 +18,10 @@ Initializes a new instance of the [`TabStop`](../../../aspose.pdf.text/tabstop/)
 public int Count { get; }
 ```
 
+### Return Value
+
+The new [`TabStop`](../../../aspose.pdf.text/tabstop/) object.
+
 ### See Also
 
 * class [TabStops](../)

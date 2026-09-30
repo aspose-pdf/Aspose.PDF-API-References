@@ -35,10 +35,10 @@ public MarginInfo(double left, double bottom, double right, double top)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| left | double | Left margin. |
-| bottom | double | Bottom margin |
-| right | double | Right margin. |
-| top | double | Top margin. |
+| left | Double | Left margin. |
+| bottom | Double | Bottom margin |
+| right | Double | Right margin. |
+| top | Double | Top margin. |
 
 ### See Also
 

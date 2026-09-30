@@ -9,18 +9,18 @@ weight: 10
 url: "/net/aspose.pdf/artifact/artifact/"
 product_version: "26.9.0"
 ---
-## Artifact(string, string) {#constructor}
+## Artifact(ArtifactType, ArtifactSubtype) {#constructor}
 
 Constructor of artifact with specified type and subtype
 
 ```csharp
-public Artifact(string type, string subType)
+public Artifact(ArtifactType type, ArtifactSubtype subType)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | string | Name of artifact type. |
-| subType | string | NAme of artifact subtype. |
+| type | ArtifactType | Artifact type. |
+| subType | ArtifactSubtype | Artifact subtype. |
 
 ### See Also
 
@@ -30,18 +30,18 @@ public Artifact(string type, string subType)
 
 ---
 
-## Artifact(ArtifactType, ArtifactSubtype) {#constructor_1}
+## Artifact(string, string) {#constructor_1}
 
-Initializes a new instance of the Artifact class.
+Constructor of artifact with specified type and subtype
 
 ```csharp
-public Artifact(ArtifactType type, ArtifactSubtype subType)
+public Artifact(string type, string subType)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | ArtifactType |  |
-| subType | ArtifactSubtype |  |
+| type | String | Name of artifact type. |
+| subType | String | NAme of artifact subtype. |
 
 ### See Also
 

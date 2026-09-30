@@ -9,25 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.forms/checkboxfield/checkboxfield/"
 product_version: "26.9.0"
 ---
-## CheckboxField() {#constructor}
-
-> **Deprecated.** For full field functionality, a binding to the document is required - use CheckboxField(Document doc)
-
-Create instance of CheckboxField.
-
-```csharp
-public CheckboxField()
-```
-
-### See Also
-
-* class [CheckboxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## CheckboxField([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## CheckboxField([Document](../../../aspose.pdf/document/)) {#constructor}
 
 Constructor to use with Generator.
 
@@ -41,6 +23,30 @@ public CheckboxField(Document doc)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## CheckboxField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
+
+Constructor for CheckboxField class.
+
+```csharp
+public CheckboxField(Document doc, Rectangle rect)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | Document where will be new field created. |
+| rect | Rectangle | Rectangle where new field will be created. |
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
@@ -62,27 +68,8 @@ public CheckboxField(Page page, Rectangle rect)
 
 ### See Also
 
-* class [CheckboxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## CheckboxField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_3}
-
-Constructor for CheckboxField class.
-
-```csharp
-public CheckboxField(Document doc, Rectangle rect)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Document where will be new field created. |
-| rect | Rectangle | Rectangle where new field will be created. |
-
-### See Also
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

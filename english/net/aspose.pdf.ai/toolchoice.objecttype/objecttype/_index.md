@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf.ai/toolchoice.objecttype/objecttype/"
 product_version: "26.9.0"
 ---
-## ToolChoice.ObjectType() {#constructor}
+## ObjectType constructor
 
 The default constructor.
 
 ```csharp
-public ToolChoice.ObjectType()
+public ObjectType()
 ```
 
 ### See Also

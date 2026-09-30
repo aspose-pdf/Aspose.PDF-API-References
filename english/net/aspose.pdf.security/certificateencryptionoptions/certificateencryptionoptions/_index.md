@@ -9,19 +9,20 @@ weight: 10
 url: "/net/aspose.pdf.security/certificateencryptionoptions/certificateencryptionoptions/"
 product_version: "26.9.0"
 ---
-## CertificateEncryptionOptions(string, string, string) {#constructor}
+## CertificateEncryptionOptions(string, StoreName, StoreLocation) {#constructor}
 
 Creates an instance of [`CertificateEncryptionOptions`](../../../aspose.pdf.security/certificateencryptionoptions/) class.
 
 ```csharp
-public CertificateEncryptionOptions(string publicCertificatePath, string pfxPath, string pfxPassword)
+public CertificateEncryptionOptions(string publicCertificatePath, StoreName storeName = 5, 
+    StoreLocation storeLocation = 1)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| publicCertificatePath | string | The public certificate file path. |
-| pfxPath | string | The p12 archive file path. |
-| pfxPassword | string | The p12 archive file password. |
+| publicCertificatePath | String | The public certificate file path. |
+| storeName | StoreName | The store name to get a private key certificate. |
+| storeLocation | StoreLocation | The store location to get a private key certificate. |
 
 ### See Also
 
@@ -31,19 +32,20 @@ public CertificateEncryptionOptions(string publicCertificatePath, string pfxPath
 
 ---
 
-## CertificateEncryptionOptions(string, StoreName, StoreLocation) {#constructor_1}
+## CertificateEncryptionOptions(string, string, string) {#constructor_1}
 
 Creates an instance of [`CertificateEncryptionOptions`](../../../aspose.pdf.security/certificateencryptionoptions/) class.
 
 ```csharp
-public CertificateEncryptionOptions(string publicCertificatePath, StoreName storeName, StoreLocation storeLocation)
+public CertificateEncryptionOptions(string publicCertificatePath, string pfxPath, 
+    string pfxPassword)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| publicCertificatePath | string | The public certificate file path. |
-| storeName | StoreName | The store name to get a private key certificate. |
-| storeLocation | StoreLocation | The store location to get a private key certificate. |
+| publicCertificatePath | String | The public certificate file path. |
+| pfxPath | String | The p12 archive file path. |
+| pfxPassword | String | The p12 archive file password. |
 
 ### See Also
 
@@ -58,7 +60,8 @@ public CertificateEncryptionOptions(string publicCertificatePath, StoreName stor
 Creates an instance of [`CertificateEncryptionOptions`](../../../aspose.pdf.security/certificateencryptionoptions/) class.
 
 ```csharp
-public CertificateEncryptionOptions(X509Certificate2 publicCertificate, StoreName storeName, StoreLocation storeLocation)
+public CertificateEncryptionOptions(X509Certificate2 publicCertificate, StoreName storeName = 5, 
+    StoreLocation storeLocation = 1)
 ```
 
 | Parameter | Type | Description |
@@ -80,14 +83,15 @@ public CertificateEncryptionOptions(X509Certificate2 publicCertificate, StoreNam
 Creates an instance of [`CertificateEncryptionOptions`](../../../aspose.pdf.security/certificateencryptionoptions/) class.
 
 ```csharp
-public CertificateEncryptionOptions(X509Certificate2 publicCertificate, string pfxPath, string pfxPassword)
+public CertificateEncryptionOptions(X509Certificate2 publicCertificate, string pfxPath, 
+    string pfxPassword)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | publicCertificate | X509Certificate2 | The public certificate. |
-| pfxPath | string | The p12 archive file path. |
-| pfxPassword | string | The p12 archive file password. |
+| pfxPath | String | The p12 archive file path. |
+| pfxPassword | String | The p12 archive file password. |
 
 ### See Also
 

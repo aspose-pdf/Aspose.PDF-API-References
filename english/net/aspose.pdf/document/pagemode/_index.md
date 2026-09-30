@@ -19,7 +19,7 @@ public PageMode PageMode { get; set; }
 
 ### See Also
 
-* class [PageMode](../../../aspose.pdf/pagemode/)
+* enum [PageMode](../../../aspose.pdf/pagemode/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

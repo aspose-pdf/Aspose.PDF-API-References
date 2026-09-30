@@ -9,13 +9,21 @@ weight: 50
 url: "/net/aspose.pdf.annotations/measure.numberformatlist/item/"
 product_version: "26.9.0"
 ---
-## Measure.NumberFormatList.Item property
+## NumberFormatList indexer
 
 Gets or sets number format in list by its index.
 
 ```csharp
-public NumberFormat Item { get; set; }
+public NumberFormat this[int index] { get; set; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Index of the item to be retreived. |
+
+### Return Value
+
+Retreived measure item.
 
 ### See Also
 

@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets the identifier for the GPT-3.5 Turbo model.
 
 ```csharp
-public string Gpt35Turbo { get; }
+public static string Gpt35Turbo { get; }
 ```
 
 ### See Also

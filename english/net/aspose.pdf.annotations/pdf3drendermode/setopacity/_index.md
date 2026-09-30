@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf.annotations/pdf3drendermode/setopacity/"
 product_version: "26.9.0"
 ---
-## SetOpacity(double) {#setopacity}
+## PDF3DRenderMode.SetOpacity method
 
 Sets the opacity.
 
@@ -19,18 +19,15 @@ public PDF3DRenderMode SetOpacity(double opacity)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| opacity | double | The opacity. |
+| opacity | Double | The opacity. |
 
 ### Return Value
-
-[PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
 
 PDF3DRenderMode.
 
 ### See Also
 
 * class [PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
-* class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

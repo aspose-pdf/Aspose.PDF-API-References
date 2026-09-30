@@ -25,17 +25,17 @@ public PdfASymbolicFontEncodingStrategy()
 
 ---
 
-## PdfASymbolicFontEncodingStrategy(Queue<QueueItem>) {#constructor_1}
+## PdfASymbolicFontEncodingStrategy(CMapEncodingTableType) {#constructor_1}
 
-Initializes a new instance of the PdfASymbolicFontEncodingStrategy class.
+Constructor
 
 ```csharp
-public PdfASymbolicFontEncodingStrategy(Queue<QueueItem> priorityQueue)
+public PdfASymbolicFontEncodingStrategy(CMapEncodingTableType preferredEncodingTable)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| priorityQueue | Queue<QueueItem> |  |
+| preferredEncodingTable | CMapEncodingTableType | encoding subtable which will be used in precedence to mac subtable(1,0) |
 
 ### See Also
 
@@ -45,17 +45,17 @@ public PdfASymbolicFontEncodingStrategy(Queue<QueueItem> priorityQueue)
 
 ---
 
-## PdfASymbolicFontEncodingStrategy(CMapEncodingTableType) {#constructor_2}
+## PdfASymbolicFontEncodingStrategy(Queue<QueueItem>) {#constructor_2}
 
-Initializes a new instance of the PdfASymbolicFontEncodingStrategy class.
+Constructor
 
 ```csharp
-public PdfASymbolicFontEncodingStrategy(CMapEncodingTableType preferredEncodingTable)
+public PdfASymbolicFontEncodingStrategy(Queue<QueueItem> priorityQueue)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| preferredEncodingTable | CMapEncodingTableType |  |
+| priorityQueue | Queue`1 | queue of encoding subtables to iterate |
 
 ### See Also
 

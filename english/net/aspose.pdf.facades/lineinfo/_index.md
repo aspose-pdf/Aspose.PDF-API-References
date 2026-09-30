@@ -5,7 +5,7 @@ articleTitle: "LineInfo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.LineInfo class. Represents the information of line."
 type: docs
-weight: 290
+weight: 280
 url: "/net/aspose.pdf.facades/lineinfo/"
 keywords: "LineInfo, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public sealed class LineInfo
 
 | Name | Description |
 | --- | --- |
-| [LineInfo](./lineinfo/#constructor) | The default constructor. |
+| [LineInfo](./lineinfo/)() | The default constructor. |
 
 ## Properties
 

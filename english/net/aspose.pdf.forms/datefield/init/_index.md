@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.forms/datefield/init/"
 product_version: "26.9.0"
 ---
-## Init([Page](../../../aspose.pdf/page/)) {#init}
+## DateField.Init method
 
 Initializes the JS Action.
 
@@ -23,6 +23,7 @@ public void Init(Page page)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

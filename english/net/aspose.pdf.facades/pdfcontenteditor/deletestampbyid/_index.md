@@ -19,8 +19,8 @@ public void DeleteStampById(int pageNumber, int stampId)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | int | Page number where stamp will be deleted. |
-| stampId | int | Identifier of stanp which should be deleted. |
+| pageNumber | Int32 | Page number where stamp will be deleted. |
+| stampId | Int32 | Identifier of stanp which should be deleted. |
 
 ### See Also
 
@@ -40,7 +40,7 @@ public void DeleteStampById(int stampId)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stampId | int | Identifier of stamp which should be deleted. |
+| stampId | Int32 | Identifier of stamp which should be deleted. |
 
 ### See Also
 

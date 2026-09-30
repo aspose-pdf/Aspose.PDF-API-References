@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/signaturescompromisedetector/signaturescompromisedetector/"
 product_version: "26.9.0"
 ---
-## SignaturesCompromiseDetector([Document](../../../aspose.pdf/document/)) {#constructor}
+## SignaturesCompromiseDetector constructor
 
 Creates an instance of [`SignaturesCompromiseDetector`](../../../aspose.pdf/signaturescompromisedetector/) class.
 
@@ -23,6 +23,7 @@ public SignaturesCompromiseDetector(Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [SignaturesCompromiseDetector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

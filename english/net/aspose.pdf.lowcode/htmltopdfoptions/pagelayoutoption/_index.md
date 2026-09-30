@@ -19,7 +19,7 @@ public HtmlPageLayoutOption PageLayoutOption { get; set; }
 
 ### See Also
 
-* class [HtmlPageLayoutOption](../../../aspose.pdf/htmlpagelayoutoption/)
+* enum [HtmlPageLayoutOption](../../../aspose.pdf/htmlpagelayoutoption/)
 * class [HtmlToPdfOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

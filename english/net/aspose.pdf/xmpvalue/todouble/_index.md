@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf/xmpvalue/todouble/"
 product_version: "26.9.0"
 ---
-## ToDouble() {#todouble}
+## XmpValue.ToDouble method
 
 Converts to double.
 
@@ -18,8 +18,6 @@ public double ToDouble()
 ```
 
 ### Return Value
-
-double
 
 Double value.
 

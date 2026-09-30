@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the sampling temperature to use for the model.
 
 ```csharp
-public Nullable<double> Temperature { get; set; }
+public double? Temperature { get; set; }
 ```
 
 ### See Also

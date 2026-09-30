@@ -9,7 +9,7 @@ weight: 280
 url: "/net/aspose.pdf/page/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## Page.Dispose method
 
 Frees up memory
 

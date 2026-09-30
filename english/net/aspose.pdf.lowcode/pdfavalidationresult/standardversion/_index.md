@@ -19,7 +19,7 @@ public readonly PdfAStandardVersion StandardVersion;
 
 ### See Also
 
-* class [PdfAStandardVersion](../../../aspose.pdf.lowcode/pdfastandardversion/)
+* enum [PdfAStandardVersion](../../../aspose.pdf.lowcode/pdfastandardversion/)
 * class [PdfAValidationResult](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

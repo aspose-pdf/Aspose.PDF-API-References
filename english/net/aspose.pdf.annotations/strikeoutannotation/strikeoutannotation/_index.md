@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/strikeoutannotation/strikeoutannotation/"
 product_version: "26.9.0"
 ---
-## StrikeOutAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
+## StrikeOutAnnotation constructor
 
 Creates new StrikeOut annotation on the specified page.
 
@@ -24,6 +24,8 @@ public StrikeOutAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [StrikeOutAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

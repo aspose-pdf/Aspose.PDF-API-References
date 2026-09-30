@@ -9,19 +9,19 @@ weight: 110
 url: "/net/aspose.pdf/optimizedmemorystream/write/"
 product_version: "26.9.0"
 ---
-## Write(byte[], int, int) {#write}
+## OptimizedMemoryStream.Write method
 
 When overridden in a derived class, writes a sequence of bytes to the current stream and advances the current position within this stream by the number of bytes written.
 
 ```csharp
-public void Write(byte[] buffer, int offset, int count)
+public override void Write(byte[] buffer, int offset, int count)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| buffer | byte[] | An array of bytes. This method copies *count* bytes from *buffer* to the current stream. |
-| offset | int | The zero-based byte offset in *buffer* at which to begin copying bytes to the current stream. |
-| count | int | The number of bytes to be written to the current stream. |
+| buffer | Byte[] | An array of bytes. This method copies *count* bytes from *buffer* to the current stream. |
+| offset | Int32 | The zero-based byte offset in *buffer* at which to begin copying bytes to the current stream. |
+| count | Int32 | The number of bytes to be written to the current stream. |
 
 ### See Also
 

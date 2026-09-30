@@ -19,7 +19,7 @@ Note that the value is not preserved as a text characteristic within the documen
  The property is used by runtime in context of current generation/modification process.
 
 ```csharp
-public Color BackgroundColor { get; set; }
+public virtual Color BackgroundColor { get; set; }
 ```
 
 ### See Also

@@ -24,7 +24,7 @@ The action to be taken when an object in a document structure cannot be converte
 
 ### See Also
 
-* class [ConvertErrorAction](../../../aspose.pdf/converterroraction/)
+* enum [ConvertErrorAction](../../../aspose.pdf/converterroraction/)
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 130
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## CosPdfDictionary.GetEnumerator method
 
 Returns an enumerator that iterates through the collection.
 
@@ -18,8 +18,6 @@ public IEnumerator<KeyValuePair<string, ICosPdfPrimitive>> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<KeyValuePair<string, [ICosPdfPrimitive](../../../aspose.pdf.dataeditor/icospdfprimitive/)>>
 
 An enumerator that can be used to iterate through the collection.
 

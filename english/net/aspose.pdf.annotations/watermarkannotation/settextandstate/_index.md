@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.annotations/watermarkannotation/settextandstate/"
 product_version: "26.9.0"
 ---
-## SetTextAndState(string[], [TextState](../../../aspose.pdf.text/textstate/)) {#settextandstate}
+## WatermarkAnnotation.SetTextAndState method
 
 Set text of the annotation.
 
@@ -19,11 +19,12 @@ public void SetTextAndState(string[] text, TextState textState)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string[] | Text value. |
+| text | String[] | Text value. |
 | textState | TextState | Text state. |
 
 ### See Also
 
+* class [TextState](../../../aspose.pdf.text/textstate/)
 * class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

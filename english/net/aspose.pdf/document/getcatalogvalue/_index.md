@@ -9,7 +9,7 @@ weight: 830
 url: "/net/aspose.pdf/document/getcatalogvalue/"
 product_version: "26.9.0"
 ---
-## GetCatalogValue(string) {#getcatalogvalue}
+## Document.GetCatalogValue method
 
 Returns item value from catalog dictionary.
 
@@ -19,11 +19,9 @@ public object GetCatalogValue(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | The key of item. |
+| key | String | The key of item. |
 
 ### Return Value
-
-object
 
 Item value - if key was successfully found; otherwise, null.
 

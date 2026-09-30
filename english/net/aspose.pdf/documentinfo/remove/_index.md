@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf/documentinfo/remove/"
 product_version: "26.9.0"
 ---
-## Remove(string) {#remove}
+## DocumentInfo.Remove method
 
 Removes the element with the specified key from the collection.
 
@@ -19,7 +19,7 @@ public void Remove(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | The key of the element to remove. |
+| key | String | The key of the element to remove. |
 
 ### See Also
 

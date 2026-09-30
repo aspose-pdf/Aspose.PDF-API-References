@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Adds new option with specified name.
 
 ```csharp
-public void AddOption(string optionName)
+public virtual void AddOption(string optionName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| optionName | string | Name of the new option. |
+| optionName | String | Name of the new option. |
 
 ### See Also
 
@@ -34,13 +34,13 @@ public void AddOption(string optionName)
 Adds new option with specified export value and name.
 
 ```csharp
-public void AddOption(string export, string name)
+public virtual void AddOption(string export, string name)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| export | string | Export value. |
-| name | string | Name of the new option. |
+| export | String | Export value. |
+| name | String | Name of the new option. |
 
 ### See Also
 

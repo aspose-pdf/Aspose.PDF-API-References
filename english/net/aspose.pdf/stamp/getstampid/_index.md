@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/stamp/getstampid/"
 product_version: "26.9.0"
 ---
-## getStampId() {#getstampid}
+## Stamp.getStampId method
 
 Returns stamp ID.
 
@@ -18,8 +18,6 @@ public int getStampId()
 ```
 
 ### Return Value
-
-int
 
 Identifier of the stamp.
 

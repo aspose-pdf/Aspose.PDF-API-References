@@ -9,7 +9,7 @@ weight: 110
 url: "/net/aspose.pdf.annotations/annotationcollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove([Annotation](../../../aspose.pdf.annotations/annotation/)) {#remove}
+## AnnotationCollection.Remove method
 
 Deletes specified annotation from the collection.
 
@@ -23,12 +23,11 @@ public bool Remove(Annotation annotation)
 
 ### Return Value
 
-bool
-
 True - if annotation removed; otherwise, false.
 
 ### See Also
 
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -22,8 +22,8 @@ public static class PrinterResolutionExtensions
 
 | Name | Description |
 | --- | --- |
-| [ToAsposePrinterResolution](./toasposeprinterresolution/)(*PrinterResolution*) | Converts Windows-specific System.Drawing.Printing.PrinterResolution [`PrinterResolution`](../../aspose.pdf.printing/printerresolution/). |
-| [ToNativePrinterResolution](./tonativeprinterresolution/)(*PrinterResolution*) | Converts [`PrinterResolution`](../../aspose.pdf.printing/printerresolution/) to Windows-specific System.Drawing.Printing.PrinterResolution. |
+| static [ToAsposePrinterResolution](./toasposeprinterresolution/)(this PrinterResolution) | Converts Windows-specific System.Drawing.Printing.PrinterResolution [`PrinterResolution`](../../aspose.pdf.printing/printerresolution/). |
+| static [ToNativePrinterResolution](./tonativeprinterresolution/)(this PrinterResolution) | Converts [`PrinterResolution`](../../aspose.pdf.printing/printerresolution/) to Windows-specific System.Drawing.Printing.PrinterResolution. |
 
 ### See Also
 

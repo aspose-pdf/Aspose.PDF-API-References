@@ -9,14 +9,14 @@ weight: 10
 url: "/net/aspose.pdf/pagecollectionextensions/updatepagination/"
 product_version: "26.9.0"
 ---
-## UpdatePagination([PageCollection](../../../aspose.pdf/pagecollection/)) {#updatepagination}
+## PageCollectionExtensions.UpdatePagination method
 
 Updates the header and footer page numbers and dates for all pages.
  This will work if the document has at least one pagination artifact with special settings data.
  All pages in the collection will be updated with the source artifact according to its settings.
 
 ```csharp
-public void UpdatePagination(PageCollection pageCollection)
+public static void UpdatePagination(this PageCollection pageCollection)
 ```
 
 | Parameter | Type | Description |
@@ -25,6 +25,7 @@ public void UpdatePagination(PageCollection pageCollection)
 
 ### See Also
 
+* class [PageCollection](../../../aspose.pdf/pagecollection/)
 * class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

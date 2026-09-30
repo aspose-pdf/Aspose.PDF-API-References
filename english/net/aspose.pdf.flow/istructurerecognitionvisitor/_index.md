@@ -23,9 +23,9 @@ public interface IStructureRecognitionVisitor
 | --- | --- |
 | [EndDocument](./enddocument/)() | Signals the end of document processing. |
 | [StartDocument](./startdocument/)() | Called when the document traversal starts. |
-| [VisitParagraph](./visitparagraph/)(*BaseParagraph*) | Called when a paragraph node is visited. |
-| [VisitSectionEnd](./visitsectionend/)(*MarginInfo*) | Visits the end of a recognized section in the document. |
-| [VisitTable](./visittable/)(*Table*) | Visits a recognized table in the document structure. |
+| [VisitParagraph](./visitparagraph/)(BaseParagraph) | Called when a paragraph node is visited. |
+| [VisitSectionEnd](./visitsectionend/)(MarginInfo) | Visits the end of a recognized section in the document. |
+| [VisitTable](./visittable/)(Table) | Visits a recognized table in the document structure. |
 
 ### See Also
 

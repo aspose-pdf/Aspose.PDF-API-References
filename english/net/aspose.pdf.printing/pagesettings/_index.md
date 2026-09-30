@@ -22,8 +22,8 @@ public class PageSettings
 
 | Name | Description |
 | --- | --- |
-| [PageSettings](./pagesettings/#constructor) | Initializes a new instance of the [`PageSettings`](../../aspose.pdf.printing/pagesettings/) class using the default printer. |
-| [PageSettings](./pagesettings/#constructor_1)(*[PrinterSettings](../../aspose.pdf.printing/printersettings/)*) | Initializes a new instance of the [`PageSettings`](../../aspose.pdf.printing/pagesettings/) class using the specified printer. |
+| [PageSettings](./pagesettings/#constructor)() | Initializes a new instance of the [`PageSettings`](../../aspose.pdf.printing/pagesettings/) class using the default printer. |
+| [PageSettings](./pagesettings/#constructor_1)(PrinterSettings) | Initializes a new instance of the [`PageSettings`](../../aspose.pdf.printing/pagesettings/) class using the specified printer. |
 
 ## Properties
 
@@ -43,7 +43,7 @@ public class PageSettings
 
 | Name | Description |
 | --- | --- |
-| [ToString](./tostring/) | Provides some interesting information about the PageSettings in String form. |
+| override [ToString](./tostring/)() | Provides some interesting information about the PageSettings in String form. |
 
 ### See Also
 

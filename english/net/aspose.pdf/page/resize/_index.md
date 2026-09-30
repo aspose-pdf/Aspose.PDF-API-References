@@ -9,7 +9,7 @@ weight: 340
 url: "/net/aspose.pdf/page/resize/"
 product_version: "26.9.0"
 ---
-## Resize([PageSize](../../../aspose.pdf/pagesize/)) {#resize}
+## Page.Resize method
 
 Resizes the page.
 
@@ -23,6 +23,7 @@ public void Resize(PageSize targetSize)
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

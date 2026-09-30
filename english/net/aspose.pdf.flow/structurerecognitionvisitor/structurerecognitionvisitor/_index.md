@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.flow/structurerecognitionvisitor/structurerecognitionvisitor/"
 product_version: "26.9.0"
 ---
-## StructureRecognitionVisitor() {#constructor}
+## StructureRecognitionVisitor constructor
 
 The default constructor.
 

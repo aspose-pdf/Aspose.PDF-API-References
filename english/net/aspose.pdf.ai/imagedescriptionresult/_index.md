@@ -22,7 +22,7 @@ public class ImageDescriptionResult
 
 | Name | Description |
 | --- | --- |
-| [ImageDescriptionResult](./imagedescriptionresult/#constructor) | The default constructor. |
+| [ImageDescriptionResult](./imagedescriptionresult/)() | The default constructor. |
 
 ## Properties
 

@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf/xformcollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove([XForm](../../../aspose.pdf/xform/)) {#remove}
+## XFormCollection.Remove method
 
 Deletes specified item from collection.
 
@@ -23,12 +23,11 @@ public bool Remove(XForm item)
 
 ### Return Value
 
-bool
-
 true if item was deleted from collection; otherwise, false.
 
 ### See Also
 
+* class [XForm](../../../aspose.pdf/xform/)
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

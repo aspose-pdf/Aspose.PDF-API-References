@@ -37,7 +37,7 @@ public ParagraphAbsorber(int sectionsSearchDepth)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sectionsSearchDepth | int | Number of sequential searches for more fine elements of structure that will be performed. |
+| sectionsSearchDepth | Int32 | Number of sequential searches for more fine elements of structure that will be performed. |
 
 ### See Also
 
@@ -62,6 +62,7 @@ public ParagraphAbsorber(ParagraphAbsorberOptions paragraphAbsorberOptions)
 
 ### See Also
 
+* class [ParagraphAbsorberOptions](../../../aspose.pdf.text/paragraphabsorberoptions/)
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -79,11 +80,12 @@ public ParagraphAbsorber(int sectionsSearchDepth, ParagraphAbsorberOptions parag
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sectionsSearchDepth | int | Number of sequential searches for more fine elements of structure that will be performed. |
+| sectionsSearchDepth | Int32 | Number of sequential searches for more fine elements of structure that will be performed. |
 | paragraphAbsorberOptions | ParagraphAbsorberOptions | The ParagraphAbsorberOptions. |
 
 ### See Also
 
+* class [ParagraphAbsorberOptions](../../../aspose.pdf.text/paragraphabsorberoptions/)
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

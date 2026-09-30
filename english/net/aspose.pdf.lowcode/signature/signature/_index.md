@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/signature/signature/"
 product_version: "26.9.0"
 ---
-## Signature() {#constructor}
+## Signature constructor
 
 The default constructor.
 

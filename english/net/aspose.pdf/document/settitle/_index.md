@@ -9,7 +9,7 @@ weight: 230
 url: "/net/aspose.pdf/document/settitle/"
 product_version: "26.9.0"
 ---
-## SetTitle(string) {#settitle}
+## Document.SetTitle method
 
 Set Title for Pdf Document
 
@@ -19,7 +19,7 @@ public void SetTitle(string title)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| title | string | Document's title |
+| title | String | Document's title |
 
 ### See Also
 

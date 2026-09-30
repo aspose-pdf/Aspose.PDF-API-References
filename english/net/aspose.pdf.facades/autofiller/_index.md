@@ -5,7 +5,7 @@ articleTitle: "AutoFiller"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.AutoFiller class. Represents a class to receive data from database or other datasource, fills them into the designed fields of the templat..."
 type: docs
-weight: 40
+weight: 30
 url: "/net/aspose.pdf.facades/autofiller/"
 keywords: "AutoFiller, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -18,7 +18,7 @@ Represents a class to receive data from database or other datasource, fills them
  It can recieve literal data contained in a System.Data.DataTable.
 
 ```csharp
-public sealed class AutoFiller : ISaveableFacade, IFacade, IDisposable
+public sealed class AutoFiller : ISaveableFacade
 ```
 
 ## Examples
@@ -168,34 +168,29 @@ public sealed class AutoFiller : ISaveableFacade, IFacade, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [AutoFiller](./autofiller/#constructor) | The default constructor. |
+| [AutoFiller](./autofiller/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BasicFileName](./basicfilename/) { get; set; } | Gets or sets the basic file name if many small files will be generated. The generated file will be like "BasicFileName0","BasicFileName1",... |
-| [GeneratingPath](./generatingpath/) { get; set; } | Gets or sets the Generating Path of the small pdf files if many small pdf files to be generated. It works with another property `BasicFileName`BasicFileName. |
-| [InputFileName](./inputfilename/) { get; set; } | Gets or sets the input template file. One of two input modes. |
-| [InputStream](./inputstream/) { get; set; } | Gets or sets the input template stream. One of two input modes. |
-| [OutputFileName](./outputfilename/) { get; set; } | Gets or sets the one big merged output file. One of the four output modes. |
-| [OutputStream](./outputstream/) { get; set; } | Gets or sets the OutputStream. One of four output modes. Its classical use case is Response.OutputStream. |
+| [BasicFileName](./basicfilename/) { get; set; } | Gets or sets the basic file name if many small files will be generated. The generated file will be like "BasicFileName0","BasicFileName1",... It works with another property `GeneratingPath`GeneratingPath. |
+| [GeneratingPath](./generatingpath/) { get; set; } | Gets or sets the Generating Path of the small pdf files if many small pdf files to be generated. It works with another property `BasicFileName`BasicFileName. One of the four output modes. |
 | [OutputStreams](./outputstreams/) { get; set; } | Gets or sets the many Output Streams. One of four output modes. |
-| [UnFlattenFields](./unflattenfields/) { set; } | Sets the fields which will not be flattened. |
+| [UnFlattenFields](./unflattenfields/) { set; } | Sets the fields which will not be flattened. If this property is not set, all the fields will be flattened. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [BindPdf](./bindpdf/)(*string*) | Binds a Pdf file. |
-| [BindPdf](./bindpdf/)(*Stream*) | Binds a Pdf file. |
-| [BindPdf](./bindpdf/)(*Document*) | Binds a Pdf document. |
-| [Close](./close/) | Closes the object and output streams. |
-| [Dispose](./dispose/) | Closes the object and output streams. |
-| [ImportDataTable](./importdatatable/)(*DataTable*) | Imports data of DataTable type. Every column's name of the dataTable must be the same as. |
-| [Save](./save/) | Saves all the pdfs. |
-| [Save](./save/)(*string*) | Saves all the pdfs. |
-| [Save](./save/)(*Stream*) | Saves all the pdfs. |
+| [BindPdf](./bindpdf/)(Document) | Binds a Pdf document. |
+| [BindPdf](./bindpdf/)(Stream) | Binds a Pdf file. |
+| [BindPdf](./bindpdf/)(string) | Binds a Pdf file. |
+| [Close](./close/)() | Closes the object and output streams. |
+| [Dispose](./dispose/)() | Closes the object and output streams. |
+| [ImportDataTable](./importdatatable/)(DataTable) | Imports data of DataTable type. Every column's name of the dataTable must be the same as one field name of the template pdf in case sensitive. |
+| [Save](./save/)(Stream) | Saves all the pdfs. |
+| [Save](./save/)(string) | Saves all the pdfs. |
 
 ### See Also
 

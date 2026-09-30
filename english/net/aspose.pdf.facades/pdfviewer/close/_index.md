@@ -5,11 +5,11 @@ articleTitle: "Close"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfViewer method. Closes the facade."
 type: docs
-weight: 340
+weight: 310
 url: "/net/aspose.pdf.facades/pdfviewer/close/"
 product_version: "26.9.0"
 ---
-## Close() {#close}
+## PdfViewer.Close method
 
 Closes the facade.
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.tagged/positionsettings/positionsettings/"
 product_version: "26.9.0"
 ---
-## PositionSettings() {#constructor}
+## PositionSettings constructor
 
 The default constructor.
 

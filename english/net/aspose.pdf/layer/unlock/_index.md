@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf/layer/unlock/"
 product_version: "26.9.0"
 ---
-## Unlock() {#unlock}
+## Layer.Unlock method
 
 Unlocks the layer.
 

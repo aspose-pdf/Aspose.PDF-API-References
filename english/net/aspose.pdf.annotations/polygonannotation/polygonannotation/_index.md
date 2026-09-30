@@ -24,6 +24,8 @@ public PolygonAnnotation(Document document, Point[] vertices)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
+* class [Point](../../../aspose.pdf/point/)
 * class [PolygonAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -46,6 +48,9 @@ public PolygonAnnotation(Page page, Rectangle rect, Point[] vertices)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Point](../../../aspose.pdf/point/)
 * class [PolygonAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

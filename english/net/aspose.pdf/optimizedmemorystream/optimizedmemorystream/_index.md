@@ -25,27 +25,7 @@ public OptimizedMemoryStream()
 
 ---
 
-## OptimizedMemoryStream(int) {#constructor_1}
-
-Initializes a new instance of the [`OptimizedMemoryStream`](../../../aspose.pdf/optimizedmemorystream/) class.
-
-```csharp
-public OptimizedMemoryStream(int bufferSize)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| bufferSize | int | Size of the underlying buffers. |
-
-### See Also
-
-* class [OptimizedMemoryStream](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## OptimizedMemoryStream(byte[]) {#constructor_2}
+## OptimizedMemoryStream(byte[]) {#constructor_1}
 
 Initializes a new instance of the [`OptimizedMemoryStream`](../../../aspose.pdf/optimizedmemorystream/) class based on the specified byte array.
 
@@ -55,7 +35,27 @@ public OptimizedMemoryStream(byte[] buffer)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| buffer | byte[] | The array of unsigned bytes from which to create the current stream. |
+| buffer | Byte[] | The array of unsigned bytes from which to create the current stream. |
+
+### See Also
+
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## OptimizedMemoryStream(int) {#constructor_2}
+
+Initializes a new instance of the [`OptimizedMemoryStream`](../../../aspose.pdf/optimizedmemorystream/) class.
+
+```csharp
+public OptimizedMemoryStream(int bufferSize)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bufferSize | Int32 | Size of the underlying buffers. |
 
 ### See Also
 
@@ -75,8 +75,8 @@ public OptimizedMemoryStream(int bufferSize, byte[] buffer)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bufferSize | int | Size of the underlying buffers. |
-| buffer | byte[] | The array of unsigned bytes from which to create the current stream. |
+| bufferSize | Int32 | Size of the underlying buffers. |
+| buffer | Byte[] | The array of unsigned bytes from which to create the current stream. |
 
 ### See Also
 

@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Gets and sets operation type.
 
 ```csharp
-public Operation Operation { get; set; }
+public Operation Operation { get; }
 ```
 
 ### See Also
 
-* class [Operation](../../../aspose.pdf.comparison/operation/)
+* enum [Operation](../../../aspose.pdf.comparison/operation/)
 * class [DiffOperation](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

@@ -31,8 +31,8 @@ public sealed class StreamResult : IOperationResult
 
 | Name | Description |
 | --- | --- |
-| [ToFile](./tofile/) | Tries to convert the result to a file. |
-| [ToStream](./tostream/) | Tries to convert the result to a stream object. |
+| [ToFile](./tofile/)() | Tries to convert the result to a file. |
+| [ToStream](./tostream/)() | Tries to convert the result to a stream object. |
 
 ### See Also
 

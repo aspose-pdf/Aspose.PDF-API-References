@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.printing/printerresolution/printerresolution/"
 product_version: "26.9.0"
 ---
-## PrinterResolution() {#constructor}
+## PrinterResolution constructor
 
 Initializes a new instance of the [`PrinterResolution`](../../../aspose.pdf.printing/printerresolution/) class with default properties.
 

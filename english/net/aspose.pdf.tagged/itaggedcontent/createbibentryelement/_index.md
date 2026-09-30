@@ -9,7 +9,7 @@ weight: 320
 url: "/net/aspose.pdf.tagged/itaggedcontent/createbibentryelement/"
 product_version: "26.9.0"
 ---
-## CreateBibEntryElement() {#createbibentryelement}
+## ITaggedContent.CreateBibEntryElement method
 
 Creates [`BibEntryElement`](../../../aspose.pdf.logicalstructure/bibentryelement/).
 
@@ -18,8 +18,6 @@ public BibEntryElement CreateBibEntryElement()
 ```
 
 ### Return Value
-
-[BibEntryElement](../../../aspose.pdf.logicalstructure/bibentryelement/)
 
 Created structure element.
 

@@ -35,7 +35,7 @@ public SetColor(double g)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| g | double | Color value. |
+| g | Double | Color value. |
 
 ### See Also
 
@@ -55,7 +55,7 @@ public SetColor(double[] color)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| color | double[] | Array of color components. |
+| color | Double[] | Array of color components. |
 
 ### See Also
 
@@ -75,9 +75,9 @@ public SetColor(double r, double g, double b)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| r | double | Red component. |
-| g | double | Green component. |
-| b | double | Blue component. |
+| r | Double | Red component. |
+| g | Double | Green component. |
+| b | Double | Blue component. |
 
 ### See Also
 
@@ -97,10 +97,10 @@ public SetColor(double c, double m, double y, double k)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| c | double | Cyan component. |
-| m | double | Magenta component. |
-| y | double | Yellow component. |
-| k | double | Black component. |
+| c | Double | Cyan component. |
+| m | Double | Magenta component. |
+| y | Double | Yellow component. |
+| k | Double | Black component. |
 
 ### See Also
 

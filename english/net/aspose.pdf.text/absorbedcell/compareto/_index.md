@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.text/absorbedcell/compareto/"
 product_version: "26.9.0"
 ---
-## CompareTo([AbsorbedCell](../../../aspose.pdf.text/absorbedcell/)) {#compareto}
+## AbsorbedCell.CompareTo method
 
 Compares the current AbsorbedCell object with another AbsorbedCell object and returns an integer that indicates
  whether the current object precedes, follows, or occurs in the same position in the sort order as the other object.
@@ -24,8 +24,6 @@ public int CompareTo(AbsorbedCell other)
 
 ### Return Value
 
-int
-
 A value that indicates the relative order of the objects being compared. The return value has the following meanings:
  -1: This object precedes the other object in the sort order.
  0: This object occurs in the same position in the sort order as the other object.
@@ -33,7 +31,7 @@ A value that indicates the relative order of the objects being compared. The ret
 
 ### See Also
 
-* class [AbsorbedCell](../)
+* class [AbsorbedCell](../../../aspose.pdf.text/absorbedcell/)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 

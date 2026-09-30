@@ -22,7 +22,7 @@ public sealed class ChunkingOptions
 
 | Name | Description |
 | --- | --- |
-| [ChunkingOptions](./chunkingoptions/#constructor) | The default constructor. |
+| [ChunkingOptions](./chunkingoptions/)() | The default constructor. |
 
 ## Properties
 
@@ -35,7 +35,7 @@ public sealed class ChunkingOptions
 
 | Name | Description |
 | --- | --- |
-| [Validate](./validate/) | Validates the current options configuration. |
+| [Validate](./validate/)() | Validates the current options configuration. |
 
 ## Fields
 

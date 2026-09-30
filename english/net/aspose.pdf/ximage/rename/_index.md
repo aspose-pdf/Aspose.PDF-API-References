@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/ximage/rename/"
 product_version: "26.9.0"
 ---
-## Rename(string) {#rename}
+## XImage.Rename method
 
 Renames image and replaces all references to the image with the new name
 
@@ -19,7 +19,7 @@ public void Rename(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | New image name. |
+| name | String | New image name. |
 
 ### See Also
 

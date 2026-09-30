@@ -22,7 +22,7 @@ public class PrinterSettings
 
 | Name | Description |
 | --- | --- |
-| [PrinterSettings](./printersettings/#constructor) | The default constructor. |
+| [PrinterSettings](./printersettings/)() | The default constructor. |
 
 ## Properties
 
@@ -46,7 +46,7 @@ public class PrinterSettings
 
 | Name | Description |
 | --- | --- |
-| [ToString](./tostring/) | Provides some interesting information about the PrinterSettings in String form. |
+| override [ToString](./tostring/)() | Provides some interesting information about the PrinterSettings in String form. |
 
 ### See Also
 

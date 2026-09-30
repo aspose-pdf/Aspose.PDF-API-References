@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/outputintent/outputintent/"
 product_version: "26.9.0"
 ---
-## OutputIntent(string) {#constructor}
+## OutputIntent constructor
 
 Initializes a new instance of the [`OutputIntent`](../../../aspose.pdf/outputintent/) class with the specified output condition identifier.
 
@@ -19,7 +19,7 @@ public OutputIntent(string outputConditionIdentifier)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputConditionIdentifier | string | The text that identifies the intended output device or production condition in human- or machine-readable form. |
+| outputConditionIdentifier | String | The text that identifies the intended output device or production condition in human- or machine-readable form. |
 
 ### See Also
 

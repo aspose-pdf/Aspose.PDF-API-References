@@ -5,7 +5,7 @@ articleTitle: "Point3D"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Point3D class. Represent point with fractional coordinates."
 type: docs
-weight: 2560
+weight: 2520
 url: "/net/aspose.pdf/point3d/"
 keywords: "Point3D, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,13 +22,13 @@ public sealed class Point3D
 
 | Name | Description |
 | --- | --- |
-| [Point3D](./point3d/#constructor)(*double, double, double*) | Initializes new instance of the [`Point3D`](../../aspose.pdf/point3d/). |
+| [Point3D](./point3d/)(double, double, double) | Initializes new instance of the [`Point3D`](../../aspose.pdf/point3d/). |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Trivial](./trivial/) { get; } | Gets point with zero coordinates. |
+| static [Trivial](./trivial/) { get; } | Gets point with zero coordinates. |
 | [X](./x/) { get; set; } | X coordinate value. |
 | [Y](./y/) { get; set; } | Y coordinate value. |
 | [Z](./z/) { get; set; } | Z coordinate value. |
@@ -37,7 +37,7 @@ public sealed class Point3D
 
 | Name | Description |
 | --- | --- |
-| [ToString](./tostring/) | Returns the string representation of the object. |
+| override [ToString](./tostring/)() | Returns the string representation of the object. |
 
 ### See Also
 

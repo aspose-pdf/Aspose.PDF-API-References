@@ -20,7 +20,7 @@ public VerticalAlignment ArtifactVerticalAlignment { get; set; }
 
 ### See Also
 
-* class [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
+* enum [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

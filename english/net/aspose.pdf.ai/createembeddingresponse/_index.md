@@ -22,7 +22,7 @@ public class CreateEmbeddingResponse
 
 | Name | Description |
 | --- | --- |
-| [CreateEmbeddingResponse](./createembeddingresponse/#constructor) | The default constructor. |
+| [CreateEmbeddingResponse](./createembeddingresponse/)() | The default constructor. |
 
 ## Properties
 

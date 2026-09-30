@@ -19,7 +19,7 @@ public ConvertSoftMaskAction ConvertSoftMaskAction { get; set; }
 
 ### See Also
 
-* class [ConvertSoftMaskAction](../../../aspose.pdf/convertsoftmaskaction/)
+* enum [ConvertSoftMaskAction](../../../aspose.pdf/convertsoftmaskaction/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

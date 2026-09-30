@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf/destinationcollection/copyto/"
 product_version: "26.9.0"
 ---
-## CopyTo(KeyValuePair<string, object>[], int) {#copyto}
+## DestinationCollection.CopyTo method
 
 
 
@@ -19,8 +19,8 @@ public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| array | KeyValuePair<string, object>[] |  |
-| arrayIndex | int |  |
+| array | KeyValuePair`2[] |  |
+| arrayIndex | Int32 |  |
 
 ### See Also
 

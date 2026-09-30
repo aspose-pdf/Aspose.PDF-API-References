@@ -23,6 +23,7 @@ public void Add(FileSpecification file)
 
 ### See Also
 
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -39,11 +40,12 @@ public void Add(string key, FileSpecification file)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | Key in the embedded files. |
+| key | String | Key in the embedded files. |
 | file | FileSpecification | File specification. |
 
 ### See Also
 
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 140
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## PdfXmpMetadata.GetEnumerator method
 
 Gets enumerator object of the dictionary.
 
@@ -18,8 +18,6 @@ public IEnumerator<KeyValuePair<string, XmpValue>> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<KeyValuePair<string, [XmpValue](../../../aspose.pdf/xmpvalue/)>>
 
 The enumerator object.
 

@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/graphinfo/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## GraphInfo.Clone method
 
 Clone the graphics info.
 
@@ -18,8 +18,6 @@ public object Clone()
 ```
 
 ### Return Value
-
-object
 
 The cloned object
 

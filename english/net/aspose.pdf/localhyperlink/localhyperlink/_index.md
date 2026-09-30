@@ -39,6 +39,7 @@ public LocalHyperlink(BaseParagraph target)
 
 ### See Also
 
+* class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
 * class [LocalHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

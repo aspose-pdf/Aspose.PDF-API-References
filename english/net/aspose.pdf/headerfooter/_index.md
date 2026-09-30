@@ -5,7 +5,7 @@ articleTitle: "HeaderFooter"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.HeaderFooter class. Class represents header or footer pdf page."
 type: docs
-weight: 1050
+weight: 1040
 url: "/net/aspose.pdf/headerfooter/"
 keywords: "HeaderFooter, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public sealed class HeaderFooter : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [HeaderFooter](./headerfooter/#constructor) | The default constructor. |
+| [HeaderFooter](./headerfooter/)() | The default constructor. |
 
 ## Properties
 
@@ -36,7 +36,7 @@ public sealed class HeaderFooter : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Clone](./clone/) | Clones a new object. |
+| [Clone](./clone/)() | Clones a new object. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf/page/deletegraphics/"
 product_version: "26.9.0"
 ---
-## DeleteGraphics([GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)) {#deletegraphics}
+## Page.DeleteGraphics method
 
 Deletes graphics from the page.
  Works faster than deleting elements one by one with `Remove` method.
@@ -24,6 +24,7 @@ public void DeleteGraphics(GraphicElementCollection elementsToDelete)
 
 ### See Also
 
+* class [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

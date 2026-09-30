@@ -19,9 +19,9 @@ public void SaveAsTIFFClassF(string outputFile, int imageWidth, int imageHeight)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The stream to save the TIFF image. |
-| imageWidth | int | The image width, the unit is pixel. |
-| imageHeight | int | The image height, the unit is pixel. |
+| outputFile | String | The stream to save the TIFF image. |
+| imageWidth | Int32 | The image width, the unit is pixel. |
+| imageHeight | Int32 | The image height, the unit is pixel. |
 
 ## Examples
 
@@ -57,11 +57,12 @@ public void SaveAsTIFFClassF(string outputFile, PageSize pageSize)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The stream to save the TIFF image. |
+| outputFile | String | The stream to save the TIFF image. |
 | pageSize | PageSize | The page size of the image. |
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -79,8 +80,8 @@ public void SaveAsTIFFClassF(Stream outputStream, int imageWidth, int imageHeigh
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | The stream to save the TIFF image. |
-| imageWidth | int | The image width, the unit is pixel. |
-| imageHeight | int | The image height, the unit is pixel. |
+| imageWidth | Int32 | The image width, the unit is pixel. |
+| imageHeight | Int32 | The image height, the unit is pixel. |
 
 ### See Also
 
@@ -105,6 +106,7 @@ public void SaveAsTIFFClassF(Stream outputStream, PageSize pageSize)
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -121,7 +123,7 @@ public void SaveAsTIFFClassF(string outputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The stream to save the TIFF image. |
+| outputFile | String | The stream to save the TIFF image. |
 
 ## Examples
 

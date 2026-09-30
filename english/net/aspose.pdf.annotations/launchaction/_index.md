@@ -22,8 +22,8 @@ public sealed class LaunchAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [LaunchAction](./launchaction/#constructor)(*string*) | Creates a launch action. |
-| [LaunchAction](./launchaction/#constructor_1)(*[Document](../../aspose.pdf/document/), string*) | Creates a launch action. |
+| [LaunchAction](./launchaction/#constructor)(string) | Creates a launch action. |
+| [LaunchAction](./launchaction/#constructor_1)(Document, string) | Creates a launch action. |
 
 ## Properties
 
@@ -31,14 +31,14 @@ public sealed class LaunchAction : PdfAction
 | --- | --- |
 | [File](./file/) { get; set; } | Gets or sets the application to be launched or the document to be opened or printed. |
 | [NewWindow](./newwindow/) { get; set; } | Gets or sets a flag specifying whether to open the destination document in a new window (affect PDF documents only). |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. *(Inherited from PdfAction)* |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/) | Gets string for ECMAScript Action. *(Inherited from PdfAction)* |
-| [ToString](../../aspose.pdf.annotations/iappointment/tostring/) | Returns string representation. *(Inherited from IAppointment)* |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Returns string representation |
 
 ### See Also
 

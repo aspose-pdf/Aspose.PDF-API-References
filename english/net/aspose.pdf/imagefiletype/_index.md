@@ -5,7 +5,7 @@ articleTitle: "ImageFileType"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.ImageFileType enum. Enumerates the image file types."
 type: docs
-weight: 1510
+weight: 1500
 url: "/net/aspose.pdf/imagefiletype/"
 product_version: "26.9.0"
 ---

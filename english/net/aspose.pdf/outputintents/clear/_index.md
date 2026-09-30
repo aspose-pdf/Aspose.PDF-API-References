@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/outputintents/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## OutputIntents.Clear method
 
 Removes all output intents from the collection.
 

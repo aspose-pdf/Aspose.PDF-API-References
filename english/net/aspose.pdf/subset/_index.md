@@ -5,7 +5,7 @@ articleTitle: "Subset"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Subset enum. Represents the subset of pages to which a pagination artifact can apply."
 type: docs
-weight: 2860
+weight: 2820
 url: "/net/aspose.pdf/subset/"
 product_version: "26.9.0"
 ---

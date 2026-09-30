@@ -5,7 +5,7 @@ articleTitle: "PosBottomLeft"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileStamp field. Bottom left position."
 type: docs
-weight: 510
+weight: 410
 url: "/net/aspose.pdf.facades/pdffilestamp/posbottomleft/"
 product_version: "26.9.0"
 ---

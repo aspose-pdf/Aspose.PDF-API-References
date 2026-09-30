@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/center/center/"
 product_version: "26.9.0"
 ---
-## Center() {#constructor}
+## Center constructor
 
 The default constructor.
 

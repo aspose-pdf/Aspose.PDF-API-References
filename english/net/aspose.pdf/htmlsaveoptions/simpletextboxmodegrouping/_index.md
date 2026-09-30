@@ -5,7 +5,7 @@ articleTitle: "SimpleTextboxModeGrouping"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "HtmlSaveOptions property. This attribute specifies a sequential grouping of glyphs and words into strings For example tags and words has different order in c..."
 type: docs
-weight: 240
+weight: 230
 url: "/net/aspose.pdf/htmlsaveoptions/simpletextboxmodegrouping/"
 product_version: "26.9.0"
 ---

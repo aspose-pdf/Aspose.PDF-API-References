@@ -41,7 +41,7 @@ public sealed class AnnotationActionCollection : BaseActionCollection
 
 | Name | Description |
 | --- | --- |
-| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/) | Removes all actions of the annotation. *(Inherited from BaseActionCollection)* |
+| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | Removes all actions of the annotation. |
 
 ### See Also
 

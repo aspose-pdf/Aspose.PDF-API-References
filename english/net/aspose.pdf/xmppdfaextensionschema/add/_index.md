@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/xmppdfaextensionschema/add/"
 product_version: "26.9.0"
 ---
-## Add([XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)) {#add}
+## XmpPdfAExtensionSchema.Add method
 
 Adds new object into schema.
 
@@ -23,6 +23,7 @@ public void Add(XmpPdfAExtensionObject obj)
 
 ### See Also
 
+* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

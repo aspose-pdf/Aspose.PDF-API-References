@@ -5,7 +5,7 @@ articleTitle: "PosSidesLeft"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileStamp field. Left position."
 type: docs
-weight: 520
+weight: 420
 url: "/net/aspose.pdf.facades/pdffilestamp/possidesleft/"
 product_version: "26.9.0"
 ---

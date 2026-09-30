@@ -14,8 +14,12 @@ product_version: "26.9.0"
 When overridden in a derived class, gets a value indicating whether the current stream supports writing.
 
 ```csharp
-public bool CanWrite { get; }
+public override bool CanWrite { get; }
 ```
+
+### Return Value
+
+true if the stream supports writing; otherwise, false.
 
 ### See Also
 

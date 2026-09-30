@@ -9,7 +9,7 @@ weight: 670
 url: "/net/aspose.pdf/document/optimize/"
 product_version: "26.9.0"
 ---
-## Optimize() {#optimize}
+## Document.Optimize method
 
 Linearize the document in order to
  - open the first page as quickly as possible;

@@ -9,21 +9,19 @@ weight: 90
 url: "/net/aspose.pdf.comparison/textpdfcomparer/assemblysourcepagetext/"
 product_version: "26.9.0"
 ---
-## AssemblySourcePageText(List<DiffOperation>) {#assemblysourcepagetext}
+## TextPdfComparer.AssemblySourcePageText method
 
 Restores the original text from the list of changes.
 
 ```csharp
-public string AssemblySourcePageText(List<DiffOperation> diffs)
+public static string AssemblySourcePageText(List<DiffOperation> diffs)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffs | List<DiffOperation> | The list of changes. |
+| diffs | List`1 | The list of changes. |
 
 ### Return Value
-
-string
 
 Original text.
 

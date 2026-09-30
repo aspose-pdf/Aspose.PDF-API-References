@@ -36,7 +36,7 @@ public ToUnicodeProcessingRules(bool removeSpaces)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| removeSpaces | bool | A boolean value indicating whether to remove spaces from CMap names. |
+| removeSpaces | Boolean | A boolean value indicating whether to remove spaces from CMap names. |
 
 ### See Also
 
@@ -56,8 +56,8 @@ public ToUnicodeProcessingRules(bool removeSpaces, bool mapNonLinkedUnicodesOnSp
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| removeSpaces | bool | Indicates whether spaces should be removed from CMap names. |
-| mapNonLinkedUnicodesOnSpace | bool | Indicates whether non-linked Unicode symbols should be mapped to spaces. |
+| removeSpaces | Boolean | Indicates whether spaces should be removed from CMap names. |
+| mapNonLinkedUnicodesOnSpace | Boolean | Indicates whether non-linked Unicode symbols should be mapped to spaces. |
 
 ### See Also
 

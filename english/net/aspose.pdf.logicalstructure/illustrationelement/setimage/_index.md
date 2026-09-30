@@ -14,13 +14,13 @@ product_version: "26.9.0"
 Appends image to current illustration element.
 
 ```csharp
-public void SetImage(string imageSrc, double imageResolution)
+public virtual void SetImage(string imageSrc, double imageResolution = 300m)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageSrc | string | Image source. |
-| imageResolution | double | (Optional) Image Resolution. Default: 300 DPI. |
+| imageSrc | String | Image source. |
+| imageResolution | Double | (Optional) Image Resolution. Default: 300 DPI. |
 
 ### See Also
 
@@ -35,14 +35,14 @@ public void SetImage(string imageSrc, double imageResolution)
 Appends image to current illustration element.
 
 ```csharp
-public void SetImage(string imageSrc, double imageWidth, double imageHeight)
+public virtual void SetImage(string imageSrc, double imageWidth, double imageHeight)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageSrc | string | Image source. |
-| imageWidth | double | Image width. |
-| imageHeight | double | Image height. |
+| imageSrc | String | Image source. |
+| imageWidth | Double | Image width. |
+| imageHeight | Double | Image height. |
 
 ### See Also
 

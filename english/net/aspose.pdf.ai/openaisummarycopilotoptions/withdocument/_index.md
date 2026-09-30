@@ -23,14 +23,12 @@ public OpenAISummaryCopilotOptions WithDocument(TextDocument textDocument)
 
 ### Return Value
 
-[OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
-
 The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
 
 ### See Also
 
 * class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
-* class [OpenAISummaryCopilotOptions](../)
+* class [TextDocument](../../../aspose.pdf.ai/textdocument/)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -50,14 +48,12 @@ public OpenAISummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 ### Return Value
 
-[OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
-
 The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
 
 ### See Also
 
 * class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
-* class [OpenAISummaryCopilotOptions](../)
+* class [PdfDocument](../../../aspose.pdf.ai/pdfdocument/)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -73,18 +69,15 @@ public OpenAISummaryCopilotOptions WithDocument(string filePath)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filePath | string | The file path of the document to add. |
+| filePath | String | The file path of the document to add. |
 
 ### Return Value
-
-[OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
 
 The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
 
 ### See Also
 
 * class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
-* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

@@ -9,13 +9,21 @@ weight: 230
 url: "/net/aspose.pdf/metadata/item/"
 product_version: "26.9.0"
 ---
-## Metadata.Item property
+## Metadata indexer
 
 Gets or sets data from metadata.
 
 ```csharp
-public XmpValue Item { get; set; }
+public XmpValue this[string key] { get; set; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| key | The key name. |
+
+### Return Value
+
+Metadata object.
 
 ### See Also
 

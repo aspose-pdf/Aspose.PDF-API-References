@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/emc/emc/"
 product_version: "26.9.0"
 ---
-## EMC() {#constructor}
+## EMC constructor
 
 Initializes operator.
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/messagecontentresponse/messagecontentresponse/"
 product_version: "26.9.0"
 ---
-## MessageContentResponse() {#constructor}
+## MessageContentResponse constructor
 
 The default constructor.
 

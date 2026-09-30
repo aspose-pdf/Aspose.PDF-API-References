@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/messagecreation/messagecreation/"
 product_version: "26.9.0"
 ---
-## MessageCreation() {#constructor}
+## MessageCreation constructor
 
 The default constructor.
 

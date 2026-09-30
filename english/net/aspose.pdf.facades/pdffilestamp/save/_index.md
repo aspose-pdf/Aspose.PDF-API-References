@@ -5,7 +5,7 @@ articleTitle: "Save"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileStamp method. Saves result into specified file."
 type: docs
-weight: 100
+weight: 40
 url: "/net/aspose.pdf.facades/pdffilestamp/save/"
 product_version: "26.9.0"
 ---
@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Saves result into specified file.
 
 ```csharp
-public void Save(string destFile)
+public override void Save(string destFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| destFile | string | Path to file where document will be saved. |
+| destFile | String | Path to file where document will be saved. |
 
 ### See Also
 
@@ -34,7 +34,7 @@ public void Save(string destFile)
 Saves document into specified stream.
 
 ```csharp
-public void Save(Stream destStream)
+public override void Save(Stream destStream)
 ```
 
 | Parameter | Type | Description |

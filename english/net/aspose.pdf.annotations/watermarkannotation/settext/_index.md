@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.annotations/watermarkannotation/settext/"
 product_version: "26.9.0"
 ---
-## SetText([FormattedText](../../../aspose.pdf.facades/formattedtext/)) {#settext}
+## WatermarkAnnotation.SetText method
 
 Set text of the annotation.
 
@@ -23,6 +23,7 @@ public void SetText(FormattedText text)
 
 ### See Also
 
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

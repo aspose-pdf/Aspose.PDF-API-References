@@ -9,7 +9,7 @@ weight: 200
 url: "/net/aspose.pdf.tagged/itaggedcontent/createlistlbodyelement/"
 product_version: "26.9.0"
 ---
-## CreateListLBodyElement() {#createlistlbodyelement}
+## ITaggedContent.CreateListLBodyElement method
 
 Creates [`ListLBodyElement`](../../../aspose.pdf.logicalstructure/listlbodyelement/).
 
@@ -18,8 +18,6 @@ public ListLBodyElement CreateListLBodyElement()
 ```
 
 ### Return Value
-
-[ListLBodyElement](../../../aspose.pdf.logicalstructure/listlbodyelement/)
 
 Created structure element.
 

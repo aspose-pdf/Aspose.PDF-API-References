@@ -5,7 +5,7 @@ articleTitle: "ImportBookmarksWithXML"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfBookmarkEditor method. Imports bookmarks to the document from XML file."
 type: docs
-weight: 180
+weight: 170
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml/"
 product_version: "26.9.0"
 ---
@@ -19,7 +19,7 @@ public void ImportBookmarksWithXML(string xmlFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xmlFile | string | The XML file containing bookmarks list. |
+| xmlFile | String | The XML file containing bookmarks list. |
 
 ### See Also
 

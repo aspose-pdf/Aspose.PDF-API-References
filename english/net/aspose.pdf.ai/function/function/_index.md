@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/function/function/"
 product_version: "26.9.0"
 ---
-## Function() {#constructor}
+## Function constructor
 
 The default constructor.
 

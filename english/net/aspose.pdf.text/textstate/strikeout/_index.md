@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets strikeout for the text, represented by the [`TextSegment`](../../../aspose.pdf.text/textsegment/) object
 
 ```csharp
-public bool StrikeOut { get; set; }
+public virtual bool StrikeOut { get; set; }
 ```
 
 ### See Also

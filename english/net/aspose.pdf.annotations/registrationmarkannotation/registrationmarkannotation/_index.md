@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/registrationmarkannotation/registrationmarkannotation/"
 product_version: "26.9.0"
 ---
-## RegistrationMarkAnnotation([Page](../../../aspose.pdf/page/), [PrinterMarkSidePosition](../../../aspose.pdf.annotations/printermarksideposition/)) {#constructor}
+## RegistrationMarkAnnotation constructor
 
 Initializes a new instance of the [`RegistrationMarkAnnotation`](../../../aspose.pdf.annotations/registrationmarkannotation/) class on the given page in the given location.
 
@@ -24,6 +24,8 @@ public RegistrationMarkAnnotation(Page page, PrinterMarkSidePosition position)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* enum [PrinterMarkSidePosition](../../../aspose.pdf.annotations/printermarksideposition/)
 * class [RegistrationMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

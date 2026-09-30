@@ -19,11 +19,12 @@ public void AddOption(string optionName, Rectangle rect)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| optionName | string | Name of new option. |
+| optionName | String | Name of new option. |
 | rect | Rectangle | New item rectangle. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
@@ -35,12 +36,12 @@ public void AddOption(string optionName, Rectangle rect)
 Add option to radion button.
 
 ```csharp
-public void AddOption(string optionName)
+public override void AddOption(string optionName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| optionName | string | Name of the option which will be added. |
+| optionName | String | Name of the option which will be added. |
 
 ### See Also
 

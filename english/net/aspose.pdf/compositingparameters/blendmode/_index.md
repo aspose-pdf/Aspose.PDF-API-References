@@ -19,7 +19,7 @@ public BlendMode BlendMode { get; }
 
 ### See Also
 
-* class [BlendMode](../../../aspose.pdf/blendmode/)
+* enum [BlendMode](../../../aspose.pdf/blendmode/)
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

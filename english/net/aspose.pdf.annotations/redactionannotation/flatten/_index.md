@@ -9,12 +9,12 @@ weight: 40
 url: "/net/aspose.pdf.annotations/redactionannotation/flatten/"
 product_version: "26.9.0"
 ---
-## Flatten() {#flatten}
+## RedactionAnnotation.Flatten method
 
 Flattens annotation i.e. removes annotation and adds its
 
 ```csharp
-public void Flatten()
+public override void Flatten()
 ```
 
 ### See Also

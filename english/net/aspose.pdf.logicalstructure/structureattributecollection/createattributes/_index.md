@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.logicalstructure/structureattributecollection/createattributes/"
 product_version: "26.9.0"
 ---
-## CreateAttributes([AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)) {#createattributes}
+## StructureAttributeCollection.CreateAttributes method
 
 Create and return [`StructureAttributes`](../../../aspose.pdf.logicalstructure/structureattributes/) of structure element by standard attribute owner.
 
@@ -23,13 +23,12 @@ public StructureAttributes CreateAttributes(AttributeOwnerStandard ownerStandard
 
 ### Return Value
 
-[StructureAttributes](../../../aspose.pdf.logicalstructure/structureattributes/)
-
 [`StructureAttributes`](../../../aspose.pdf.logicalstructure/structureattributes/) of structure element. Structure Attributes will be created if it needed.
 
 ### See Also
 
 * class [StructureAttributes](../../../aspose.pdf.logicalstructure/structureattributes/)
+* class [AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
 * class [StructureAttributeCollection](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

@@ -5,11 +5,11 @@ articleTitle: "GetTotalRevision"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileSignature method. Gets the toltal revision."
 type: docs
-weight: 310
+weight: 220
 url: "/net/aspose.pdf.facades/pdffilesignature/gettotalrevision/"
 product_version: "26.9.0"
 ---
-## GetTotalRevision() {#gettotalrevision}
+## PdfFileSignature.GetTotalRevision method
 
 Gets the toltal revision.
 
@@ -18,8 +18,6 @@ public int GetTotalRevision()
 ```
 
 ### Return Value
-
-int
 
 Return the total number of signature revision.
 

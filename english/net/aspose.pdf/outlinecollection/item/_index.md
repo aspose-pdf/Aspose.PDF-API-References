@@ -9,13 +9,17 @@ weight: 170
 url: "/net/aspose.pdf/outlinecollection/item/"
 product_version: "26.9.0"
 ---
-## OutlineCollection.Item property
+## OutlineCollection indexer
 
 Gets outline item from collection by index.
 
 ```csharp
-public OutlineItemCollection Item { get; }
+public OutlineItemCollection this[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Index of requested item. |
 
 ### See Also
 

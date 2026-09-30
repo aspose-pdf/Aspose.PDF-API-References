@@ -9,24 +9,23 @@ weight: 310
 url: "/net/aspose.pdf.ai/iopenaiclient/uploadfileasync/"
 product_version: "26.9.0"
 ---
-## UploadFileAsync(string, string, byte[], Nullable<CancellationToken>) {#uploadfileasync}
+## IOpenAIClient.UploadFileAsync method
 
 Uploads a file asynchronously to the OpenAI server.
 
 ```csharp
-public Task<FileResponse> UploadFileAsync(string purpose, string fileName, byte[] fileBytes, Nullable<CancellationToken> cancellationToken)
+public Task<FileResponse> UploadFileAsync(string purpose, string fileName, byte[] fileBytes, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| purpose | string | The purpose of the file upload, typically describing how the file will be used. |
-| fileName | string | The name of the file to upload. |
-| fileBytes | byte[] | The byte array containing the file data. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| purpose | String | The purpose of the file upload, typically describing how the file will be used. |
+| fileName | String | The name of the file to upload. |
+| fileBytes | Byte[] | The byte array containing the file data. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[FileResponse](../../../aspose.pdf.ai/fileresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the response from the file upload.
 

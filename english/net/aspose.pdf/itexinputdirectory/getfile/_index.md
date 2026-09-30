@@ -3,29 +3,29 @@ title: "ITeXInputDirectory.GetFile"
 linktitle: "GetFile"
 articleTitle: "GetFile"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "ITeXInputDirectory method."
+description: "ITeXInputDirectory method. Returns the stream to read from or to write to."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/itexinputdirectory/getfile/"
 product_version: "26.9.0"
 ---
-## GetFile(string, string, bool) {#getfile}
+## ITeXInputDirectory.GetFile method
 
-
+Returns the stream to read from or to write to.
 
 ```csharp
-public Stream GetFile(string fileName, string fullName, bool searchSubdirectories)
+public Stream GetFile(string fileName, out string fullName, bool searchSubdirectories = false)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | string |  |
-| fullName | string |  |
-| searchSubdirectories | bool |  |
+| fileName | String | The file name. |
+| fullName | String& | The full file name. |
+| searchSubdirectories | Boolean | Indicates whether to look for a file in subdirectories. |
 
 ### Return Value
 
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
+The stream.
 
 ### See Also
 

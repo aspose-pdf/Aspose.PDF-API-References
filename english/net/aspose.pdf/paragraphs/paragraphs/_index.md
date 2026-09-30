@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/paragraphs/paragraphs/"
 product_version: "26.9.0"
 ---
-## Paragraphs() {#constructor}
+## Paragraphs constructor
 
 The default constructor.
 

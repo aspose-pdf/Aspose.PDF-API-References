@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.annotations/pdf3dviewarray/removeat/"
 product_version: "26.9.0"
 ---
-## RemoveAt(int) {#removeat}
+## PDF3DViewArray.RemoveAt method
 
 Removes view from views array at specified index.
 
@@ -19,7 +19,7 @@ public void RemoveAt(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | The view index. |
+| index | Int32 | The view index. |
 
 ### Exceptions
 

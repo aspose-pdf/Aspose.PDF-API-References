@@ -22,8 +22,8 @@ public sealed class TextFormattingOptions : TextOptions
 
 | Name | Description |
 | --- | --- |
-| [TextFormattingOptions](./textformattingoptions/#constructor) | Initializes new instance of the [`TextFormattingOptions`](../../aspose.pdf.text/textformattingoptions/) object with undefined word wrap mode. |
-| [TextFormattingOptions](./textformattingoptions/#constructor_1)(*[WordWrapMode](../../aspose.pdf.facades/wordwrapmode/)*) | Initializes a new instance of the TextFormattingOptions class. |
+| [TextFormattingOptions](./textformattingoptions/#constructor)() | Initializes new instance of the [`TextFormattingOptions`](../../aspose.pdf.text/textformattingoptions/) object with undefined word wrap mode. |
+| [TextFormattingOptions](./textformattingoptions/#constructor_1)(WordWrapMode) | Initializes new instance of the [`TextFormattingOptions`](../../aspose.pdf.text/textformattingoptions/) object for the specified word wrap mode. |
 
 ## Properties
 
@@ -31,9 +31,16 @@ public sealed class TextFormattingOptions : TextOptions
 | --- | --- |
 | [FirstLineIndent](./firstlineindent/) { get; set; } | Gets or sets first line indent value. |
 | [HyphenSymbol](./hyphensymbol/) { get; set; } | Gets or sets hyphen symbol that is used in hyphenation process. |
-| [LineSpacing](./linespacing/) { get; set; } | Gets or sets line spacing mode. |
+| [LineSpacing](./linespacing/) { get; set; } | Gets or sets line spacing mode. Default value is LineSpacingMode.FontSize |
 | [SubsequentLinesIndent](./subsequentlinesindent/) { get; set; } | Gets or sets subsequent lines indent value. |
-| [WrapMode](./wrapmode/) { get; set; } | Gets or sets word wrap mode. |
+| [WrapMode](./wrapmode/) { get; set; } | Gets or sets word wrap mode. Default value is WordWrapMode.NoWrap |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| enum [LineSpacingMode](../../aspose.pdf.text/textformattingoptions.linespacingmode) | Defines line spacing specifics |
+| enum [WordWrapMode](../../aspose.pdf.text/textformattingoptions.wordwrapmode) | Defines word wrapping strategies |
 
 ### See Also
 

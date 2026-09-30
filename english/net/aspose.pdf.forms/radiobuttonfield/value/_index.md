@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets value of field.
 
 ```csharp
-public string Value { get; set; }
+public override string Value { get; set; }
 ```
 
 ### See Also

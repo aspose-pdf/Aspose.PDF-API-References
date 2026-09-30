@@ -14,23 +14,20 @@ product_version: "26.9.0"
 Creates matrix for given rotation angle.
 
 ```csharp
-public Matrix Rotation(double alpha)
+public static Matrix Rotation(double alpha)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| alpha | double | Rotation angle in radians. |
+| alpha | Double | Rotation angle in radians. |
 
 ### Return Value
-
-[Matrix](../../../aspose.pdf/matrix/)
 
 Transformation matrix.
 
 ### See Also
 
 * class [Matrix](../../../aspose.pdf/matrix/)
-* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,7 +38,7 @@ Transformation matrix.
 Creates matrix for given rotation.
 
 ```csharp
-public Matrix Rotation(Rotation rotation)
+public static Matrix Rotation(Rotation rotation)
 ```
 
 | Parameter | Type | Description |
@@ -50,14 +47,12 @@ public Matrix Rotation(Rotation rotation)
 
 ### Return Value
 
-[Matrix](../../../aspose.pdf/matrix/)
-
 Matrix with rotation.
 
 ### See Also
 
 * class [Matrix](../../../aspose.pdf/matrix/)
-* class [Matrix](../)
+* enum [Rotation](../../../aspose.pdf/rotation/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

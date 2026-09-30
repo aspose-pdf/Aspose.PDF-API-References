@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/add/"
 product_version: "26.9.0"
 ---
-## Add([PDF3DCrossSection](../../../aspose.pdf.annotations/pdf3dcrosssection/)) {#add}
+## PDF3DCrossSectionArray.Add method
 
 Adds the specified cross section to views array .
 
@@ -23,6 +23,7 @@ public void Add(PDF3DCrossSection crossSection)
 
 ### See Also
 
+* class [PDF3DCrossSection](../../../aspose.pdf.annotations/pdf3dcrosssection/)
 * class [PDF3DCrossSectionArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/completionfunction/completionfunction/"
 product_version: "26.9.0"
 ---
-## CompletionFunction() {#constructor}
+## CompletionFunction constructor
 
 The default constructor.
 

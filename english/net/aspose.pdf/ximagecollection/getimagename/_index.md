@@ -9,7 +9,7 @@ weight: 170
 url: "/net/aspose.pdf/ximagecollection/getimagename/"
 product_version: "26.9.0"
 ---
-## GetImageName([XImage](../../../aspose.pdf/ximage/)) {#getimagename}
+## XImageCollection.GetImageName method
 
 Returns name in images list which is key of the given image.
 
@@ -23,12 +23,11 @@ public string GetImageName(XImage image)
 
 ### Return Value
 
-string
-
 Name (key) of the found image; null if images was not found.
 
 ### See Also
 
+* class [XImage](../../../aspose.pdf/ximage/)
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

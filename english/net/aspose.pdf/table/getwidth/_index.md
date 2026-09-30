@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/table/getwidth/"
 product_version: "26.9.0"
 ---
-## GetWidth() {#getwidth}
+## Table.GetWidth method
 
 Get width.
 
@@ -18,8 +18,6 @@ public double GetWidth()
 ```
 
 ### Return Value
-
-double
 
 The table width
 

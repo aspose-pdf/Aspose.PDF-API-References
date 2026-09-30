@@ -9,13 +9,17 @@ weight: 120
 url: "/net/aspose.pdf/paragraphs/item/"
 product_version: "26.9.0"
 ---
-## Paragraphs.Item property
+## Paragraphs indexer
 
 Gets or sets paragraph from or to collection.
 
 ```csharp
-public BaseParagraph Item { get; set; }
+public BaseParagraph this[int index] { get; set; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | The paragraph index. |
 
 ### See Also
 

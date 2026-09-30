@@ -20,7 +20,7 @@ public LineEnding StartingStyle { get; set; }
 
 ### See Also
 
-* class [LineEnding](../../../aspose.pdf.annotations/lineending/)
+* enum [LineEnding](../../../aspose.pdf.annotations/lineending/)
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

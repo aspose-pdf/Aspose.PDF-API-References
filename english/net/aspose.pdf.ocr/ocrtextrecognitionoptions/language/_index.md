@@ -19,7 +19,7 @@ public OcrLanguage Language { get; set; }
 
 ### See Also
 
-* class [OcrLanguage](../../../aspose.pdf.ocr/ocrlanguage/)
+* enum [OcrLanguage](../../../aspose.pdf.ocr/ocrlanguage/)
 * class [OcrTextRecognitionOptions](../)
 * namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
 * assembly [Aspose.PDF](../../../)

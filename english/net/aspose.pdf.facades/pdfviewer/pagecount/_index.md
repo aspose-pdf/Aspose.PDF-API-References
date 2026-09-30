@@ -5,7 +5,7 @@ articleTitle: "PageCount"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfViewer property. Gets page count of the current Pdf file."
 type: docs
-weight: 410
+weight: 370
 url: "/net/aspose.pdf.facades/pdfviewer/pagecount/"
 product_version: "26.9.0"
 ---
@@ -16,6 +16,10 @@ Gets page count of the current Pdf file.
 ```csharp
 public int PageCount { get; }
 ```
+
+### Return Value
+
+return page count.
 
 ### See Also
 

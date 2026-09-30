@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/collectionschema/hasname/"
 product_version: "26.9.0"
 ---
-## HasName(string) {#hasname}
+## CollectionSchema.HasName method
 
 Determines whether the specified name exists in the schema.
 
@@ -19,11 +19,9 @@ public bool HasName(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | The name to check. |
+| name | String | The name to check. |
 
 ### Return Value
-
-bool
 
 `true` if the specified name exists in the schema; otherwise, `false`.
 

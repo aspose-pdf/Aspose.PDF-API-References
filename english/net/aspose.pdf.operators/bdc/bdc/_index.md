@@ -19,7 +19,7 @@ public BDC(string tag)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tag | string | Tag value. |
+| tag | String | Tag value. |
 
 ### See Also
 
@@ -39,11 +39,12 @@ public BDC(string tag, BDCProperties properties)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tag | string |  |
+| tag | String |  |
 | properties | BDCProperties |  |
 
 ### See Also
 
+* class [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
 * class [BDC](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

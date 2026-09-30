@@ -9,24 +9,23 @@ weight: 230
 url: "/net/aspose.pdf.ai/openaiclient/getrunstepasync/"
 product_version: "26.9.0"
 ---
-## GetRunStepAsync(string, string, string, Nullable<CancellationToken>) {#getrunstepasync}
+## OpenAIClient.GetRunStepAsync method
 
 Retrieves details of a specific step within a run asynchronously.
 
 ```csharp
-public Task<RunStepResponse> GetRunStepAsync(string threadId, string runId, string runStepId, Nullable<CancellationToken> cancellationToken)
+public Task<RunStepResponse> GetRunStepAsync(string threadId, string runId, string runStepId, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threadId | string | The ID of the thread containing the run. |
-| runId | string | The ID of the run containing the step. |
-| runStepId | string | The ID of the run step to retrieve. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| threadId | String | The ID of the thread containing the run. |
+| runId | String | The ID of the run containing the step. |
+| runStepId | String | The ID of the run step to retrieve. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[RunStepResponse](../../../aspose.pdf.ai/runstepresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the details of the run step.
 

@@ -9,12 +9,12 @@ weight: 40
 url: "/net/aspose.pdf.facades/facade/close/"
 product_version: "26.9.0"
 ---
-## Close() {#close}
+## Facade.Close method
 
 Disposes Aspose.Pdf.Document bound with a facade.
 
 ```csharp
-public void Close()
+public virtual void Close()
 ```
 
 ### See Also

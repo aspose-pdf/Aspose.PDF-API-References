@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the model to use for the assistant.
 
 ```csharp
-public string Model { get; set; }
+public virtual string Model { get; set; }
 ```
 
 ### See Also

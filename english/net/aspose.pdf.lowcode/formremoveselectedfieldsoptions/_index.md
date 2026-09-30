@@ -22,21 +22,21 @@ public sealed class FormRemoveSelectedFieldsOptions : FormEditorRemoveOptions
 
 | Name | Description |
 | --- | --- |
-| [FormRemoveSelectedFieldsOptions](./formremoveselectedfieldsoptions/#constructor)(*[SelectField](../../aspose.pdf.lowcode/selectfield/)*) | Initializes new instance of the [`FormEditorRemoveOptions`](../../aspose.pdf.lowcode/formeditorremoveoptions/) object. |
+| [FormRemoveSelectedFieldsOptions](./formremoveselectedfieldsoptions/)(SelectField) | Initializes new instance of the [`FormEditorRemoveOptions`](../../aspose.pdf.lowcode/formeditorremoveoptions/) object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Inputs](../../aspose.pdf.lowcode/formoptions/inputs/) { get; } | Returns Form.... plugins data collection. *(Inherited from FormOptions)* |
-| [Outputs](../../aspose.pdf.lowcode/formoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. *(Inherited from FormOptions)* |
+| [Inputs](../../aspose.pdf.lowcode/formoptions/inputs/) { get; } | Returns Form.... plugins data collection. |
+| [Outputs](../../aspose.pdf.lowcode/formoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.lowcode/formoptions/addinput/)(*IDataSource*) | Adds new data source to the Form... plugins data collection. *(Inherited from FormOptions)* |
-| [AddOutput](../../aspose.pdf.lowcode/formoptions/addoutput/)(*IDataSource*) | Adds new data source to the Form... plugins data collection. *(Inherited from FormOptions)* |
+| [AddInput](../../aspose.pdf.lowcode/formoptions/addinput/)(IDataSource) | Adds new data source to the Form... plugins data collection. |
+| [AddOutput](../../aspose.pdf.lowcode/formoptions/addoutput/)(IDataSource) | Adds new data source to the Form... plugins data collection. |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public abstract class OpenAIAssistantCopilotOptionsBase : OpenAICopilotOptionsBa
 | --- | --- |
 | [DocumentCollection](./documentcollection/) { get; set; } | Gets or sets the collection of documents to be processed. |
 | [MaxCompletionTokens](./maxcompletiontokens/) { get; set; } | Gets or sets the maximum number of completion tokens that may be used over the course of the run. |
-| [Model](../../aspose.pdf.ai/openaicopilotoptionsbase/model/) { get; set; } | Gets or sets the model to use for the assistant. *(Inherited from OpenAICopilotOptionsBase)* |
+| [Model](../../aspose.pdf.ai/openaicopilotoptionsbase/model/) { get; set; } | Gets or sets the model to use for the assistant. |
 | [SystemInstructions](./systeminstructions/) { get; set; } | Gets or sets the file path for the text file containing assistant system instructions. |
 | [Temperature](./temperature/) { get; set; } | Gets or sets the sampling temperature to use for the model. |
 | [TopP](./topp/) { get; set; } | Gets or sets the top-p value for nucleus sampling. |

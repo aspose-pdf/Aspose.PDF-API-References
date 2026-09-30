@@ -9,7 +9,7 @@ weight: 130
 url: "/net/aspose.pdf.facades/pdffileinfo/getpageheight/"
 product_version: "26.9.0"
 ---
-## GetPageHeight(int) {#getpageheight}
+## PdfFileInfo.GetPageHeight method
 
 Gets the height of the specified page.
 
@@ -19,11 +19,9 @@ public float GetPageHeight(int pageNum)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNum | int | Page number. |
+| pageNum | Int32 | Page number. |
 
 ### Return Value
-
-float
 
 The height of the page.
 

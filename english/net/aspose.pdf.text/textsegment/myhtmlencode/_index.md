@@ -9,21 +9,19 @@ weight: 30
 url: "/net/aspose.pdf.text/textsegment/myhtmlencode/"
 product_version: "26.9.0"
 ---
-## MyHtmlEncode(string) {#myhtmlencode}
+## TextSegment.MyHtmlEncode method
 
 Encodes string as html.
 
 ```csharp
-public string MyHtmlEncode(string value)
+public static string MyHtmlEncode(string value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | string | String value to encode. |
+| value | String | String value to encode. |
 
 ### Return Value
-
-string
 
 Html encoded string.
 

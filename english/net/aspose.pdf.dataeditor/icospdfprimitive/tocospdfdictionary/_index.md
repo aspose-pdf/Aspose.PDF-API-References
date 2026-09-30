@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.dataeditor/icospdfprimitive/tocospdfdictionary/"
 product_version: "26.9.0"
 ---
-## ToCosPdfDictionary() {#tocospdfdictionary}
+## ICosPdfPrimitive.ToCosPdfDictionary method
 
 Tries cast this instance to [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/).
 
@@ -18,8 +18,6 @@ public CosPdfDictionary ToCosPdfDictionary()
 ```
 
 ### Return Value
-
-[CosPdfDictionary](../../../aspose.pdf.dataeditor/cospdfdictionary/)
 
 null if instance is not [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/) else [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/).
 

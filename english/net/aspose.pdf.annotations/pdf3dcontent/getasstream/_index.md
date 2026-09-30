@@ -9,7 +9,7 @@ weight: 110
 url: "/net/aspose.pdf.annotations/pdf3dcontent/getasstream/"
 product_version: "26.9.0"
 ---
-## GetAsStream() {#getasstream}
+## PDF3DContent.GetAsStream method
 
 Gets 3D content as stream.
 
@@ -18,8 +18,6 @@ public Stream GetAsStream()
 ```
 
 ### Return Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
 
 Stream.
 

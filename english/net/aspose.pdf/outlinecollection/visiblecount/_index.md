@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Count is the sum of the number of visible descendent outline items at all levels. Note: please don't confuse with Count which is number if items in collection.
 
 ```csharp
-public int VisibleCount { get; }
+public override int VisibleCount { get; }
 ```
 
 ### See Also

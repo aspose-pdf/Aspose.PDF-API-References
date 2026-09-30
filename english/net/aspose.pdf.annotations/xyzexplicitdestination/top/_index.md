@@ -5,7 +5,7 @@ articleTitle: "Top"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "XYZExplicitDestination property. Gets top vertical coordinate of the upper-left corner of the window."
 type: docs
-weight: 90
+weight: 80
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/top/"
 product_version: "26.9.0"
 ---

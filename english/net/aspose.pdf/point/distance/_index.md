@@ -9,12 +9,12 @@ weight: 40
 url: "/net/aspose.pdf/point/distance/"
 product_version: "26.9.0"
 ---
-## Distance([Point](../../../aspose.pdf/point/), [Point](../../../aspose.pdf/point/)) {#distance}
+## Point.Distance method
 
 Calculates distance between two points.
 
 ```csharp
-public double Distance(Point point1, Point point2)
+public static double Distance(Point point1, Point point2)
 ```
 
 | Parameter | Type | Description |
@@ -24,13 +24,11 @@ public double Distance(Point point1, Point point2)
 
 ### Return Value
 
-double
-
 Distance between two points.
 
 ### See Also
 
-* class [Point](../)
+* class [Point](../../../aspose.pdf/point/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

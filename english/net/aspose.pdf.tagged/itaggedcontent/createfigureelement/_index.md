@@ -9,7 +9,7 @@ weight: 380
 url: "/net/aspose.pdf.tagged/itaggedcontent/createfigureelement/"
 product_version: "26.9.0"
 ---
-## CreateFigureElement() {#createfigureelement}
+## ITaggedContent.CreateFigureElement method
 
 Creates [`FigureElement`](../../../aspose.pdf.structure/figureelement/).
 
@@ -18,8 +18,6 @@ public FigureElement CreateFigureElement()
 ```
 
 ### Return Value
-
-[FigureElement](../../../aspose.pdf.structure/figureelement/)
 
 Created structure element.
 

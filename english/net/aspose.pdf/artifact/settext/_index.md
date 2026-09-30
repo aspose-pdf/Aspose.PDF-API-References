@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/artifact/settext/"
 product_version: "26.9.0"
 ---
-## SetText([FormattedText](../../../aspose.pdf.facades/formattedtext/)) {#settext}
+## Artifact.SetText method
 
 Sets text of the artifact.
 
@@ -23,6 +23,7 @@ public void SetText(FormattedText formattedText)
 
 ### See Also
 
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

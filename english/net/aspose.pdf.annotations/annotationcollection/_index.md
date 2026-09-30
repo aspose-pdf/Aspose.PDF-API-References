@@ -15,7 +15,7 @@ product_version: "26.9.0"
 Class representing annotation collection.
 
 ```csharp
-public sealed class AnnotationCollection : IEnumerable
+public sealed class AnnotationCollection : ICollection<Annotation>
 ```
 
 ## Properties
@@ -32,18 +32,18 @@ public sealed class AnnotationCollection : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [Accept](./accept/)(*AnnotationSelector*) | Accepts visitor to process annotation. |
-| [Add](./add/)(*Annotation*) | Adds annotation to the collection. |
-| [Add](./add/)(*Annotation, bool*) | Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly. |
-| [Clear](./clear/) | Deletes all annotations from the collection. |
-| [Contains](./contains/)(*Annotation*) | Checks if specified annotation belong to collection. |
-| [CopyTo](./copyto/)(*Annotation[], int*) | Copies array of annotations into collection. |
-| [Delete](./delete/) | Deletes all annotations from the collection. |
-| [Delete](./delete/)(*int*) | Deletes annotation from the collection by index. |
-| [Delete](./delete/)(*Annotation*) | Deletes specified annotation from the collection. |
-| [FindByName](./findbyname/)(*string*) | Returns annotation by its name. |
-| [GetEnumerator](./getenumerator/) | Returns collection enumerator. |
-| [Remove](./remove/)(*Annotation*) | Deletes specified annotation from the collection. |
+| [Accept](./accept/)(AnnotationSelector) | Accepts visitor to process annotation. |
+| [Add](./add/)(Annotation) | Adds annotation to the collection. |
+| [Add](./add/)(Annotation, bool) | Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly. |
+| [Clear](./clear/)() | Deletes all annotations from the collection. |
+| [Contains](./contains/)(Annotation) | Checks if specified annotation belong to collection. |
+| [CopyTo](./copyto/)(Annotation[], int) | Copies array of annotations into collection. |
+| [Delete](./delete/)() | Deletes all annotations from the collection. |
+| [Delete](./delete/)(Annotation) | Deletes specified annotation from the collection. |
+| [Delete](./delete/)(int) | Deletes annotation from the collection by index. |
+| [FindByName](./findbyname/)(string) | Returns annotation by its name. |
+| [GetEnumerator](./getenumerator/)() | Returns collection enumerator. |
+| [Remove](./remove/)(Annotation) | Deletes specified annotation from the collection. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 230
 url: "/net/aspose.pdf.tagged/itaggedcontent/createtabletbodyelement/"
 product_version: "26.9.0"
 ---
-## CreateTableTBodyElement() {#createtabletbodyelement}
+## ITaggedContent.CreateTableTBodyElement method
 
 Creates [`TableTHeadElement`](../../../aspose.pdf.logicalstructure/tabletheadelement/).
 
@@ -18,8 +18,6 @@ public TableTBodyElement CreateTableTBodyElement()
 ```
 
 ### Return Value
-
-[TableTBodyElement](../../../aspose.pdf.logicalstructure/tabletbodyelement/)
 
 Created structure element.
 

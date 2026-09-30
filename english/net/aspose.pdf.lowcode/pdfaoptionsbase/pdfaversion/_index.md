@@ -28,7 +28,7 @@ The version of the PDF/A standard. This can be one of the values from the [`PdfA
 
 ### See Also
 
-* class [PdfAStandardVersion](../../../aspose.pdf.lowcode/pdfastandardversion/)
+* enum [PdfAStandardVersion](../../../aspose.pdf.lowcode/pdfastandardversion/)
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

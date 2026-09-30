@@ -9,17 +9,15 @@ weight: 40
 url: "/net/aspose.pdf/boundscheckablelist-1/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## BoundsCheckableList<T>.GetEnumerator method
 
 Returns an enumerator that iterates through the System.Collections.Generic.List.
 
 ```csharp
-public IEnumerator<T0> GetEnumerator()
+public IEnumerator<T> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<T0>
 
 A Enumerator for the System.Collections.Generic.List.
 

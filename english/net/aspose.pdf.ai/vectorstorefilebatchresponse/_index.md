@@ -22,23 +22,23 @@ public class VectorStoreFileBatchResponse : BaseResponse
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreFileBatchResponse](./vectorstorefilebatchresponse/#constructor) | The default constructor. |
+| [VectorStoreFileBatchResponse](./vectorstorefilebatchresponse/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [CreatedAt](./createdat/) { get; set; } | Gets or sets the Unix timestamp (in seconds) for when the vector store files batch was created. |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. *(Inherited from BaseResponse)* |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. *(Inherited from BaseResponse)* |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. *(Inherited from BaseResponse)* |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. |
 | [FileCounts](./filecounts/) { get; set; } | Gets or sets the number of files that have been processed. |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Gets or sets the HTTP response headers. *(Inherited from BaseResponse)* |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Gets or sets the HTTP status code. *(Inherited from BaseResponse)* |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Gets or sets the HTTP response headers. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Gets or sets the HTTP status code. |
 | [Id](./id/) { get; set; } | Gets or sets the identifier, which can be referenced in API endpoints. |
-| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indicates if the response was successful. *(Inherited from BaseResponse)* |
+| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indicates if the response was successful. |
 | [Object](./object/) { get; set; } | Gets or sets the object type, which is always vector_store.file_batch. |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Gets the error reason phrase. *(Inherited from BaseResponse)* |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Gets the error reason phrase. |
 | [Status](./status/) { get; set; } | Gets or sets the status of the vector store file batch. |
 | [VectorStoreId](./vectorstoreid/) { get; set; } | Gets or sets the ID of the vector store that the File is attached to. |
 

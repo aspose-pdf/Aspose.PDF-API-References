@@ -5,7 +5,7 @@ articleTitle: "AnnotationType"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "InkAnnotation property. Gets type of annotation."
 type: docs
-weight: 80
+weight: 70
 url: "/net/aspose.pdf.annotations/inkannotation/annotationtype/"
 product_version: "26.9.0"
 ---
@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Gets type of annotation.
 
 ```csharp
-public AnnotationType AnnotationType { get; }
+public override AnnotationType AnnotationType { get; }
 ```
 
 ### See Also
 
-* class [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

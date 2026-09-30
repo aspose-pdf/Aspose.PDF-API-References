@@ -5,21 +5,19 @@ articleTitle: "Clone"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Graph method. Clone the graph."
 type: docs
-weight: 30
+weight: 20
 url: "/net/aspose.pdf.drawing/graph/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## Graph.Clone method
 
 Clone the graph.
 
 ```csharp
-public object Clone()
+public override object Clone()
 ```
 
 ### Return Value
-
-object
 
 The cloned object
 

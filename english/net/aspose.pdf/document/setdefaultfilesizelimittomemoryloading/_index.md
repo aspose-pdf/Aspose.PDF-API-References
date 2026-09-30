@@ -9,12 +9,12 @@ weight: 1060
 url: "/net/aspose.pdf/document/setdefaultfilesizelimittomemoryloading/"
 product_version: "26.9.0"
 ---
-## SetDefaultFileSizeLimitToMemoryLoading() {#setdefaultfilesizelimittomemoryloading}
+## Document.SetDefaultFileSizeLimitToMemoryLoading method
 
 Sets the file size limit for loading an entire file into memory to default value equals 210 Mb.
 
 ```csharp
-public void SetDefaultFileSizeLimitToMemoryLoading()
+public static void SetDefaultFileSizeLimitToMemoryLoading()
 ```
 
 ### See Also

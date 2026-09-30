@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.lowcode/pdftoimage/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## PdfToImage.Dispose method
 
 Implementation of . Actually, it is not necessary for .
 

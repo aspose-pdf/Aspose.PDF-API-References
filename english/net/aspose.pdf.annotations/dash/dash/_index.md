@@ -19,7 +19,7 @@ public Dash(int[] pattern)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pattern | int[] | A dash array (of two values minimum) defining a pattern of dashes and gaps that shall be used in drawing a dashed border. |
+| pattern | Int32[] | A dash array (of two values minimum) defining a pattern of dashes and gaps that shall be used in drawing a dashed border. |
 
 ### See Also
 
@@ -39,8 +39,8 @@ public Dash(int on, int off)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| on | int | Length of the dash. |
-| off | int | Length of the gap. |
+| on | Int32 | Length of the dash. |
+| off | Int32 | Length of the gap. |
 
 ### See Also
 

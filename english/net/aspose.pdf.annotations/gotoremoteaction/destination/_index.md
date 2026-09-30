@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Gets or sets the destination to jump to.
 
 ```csharp
-public IAppointment Destination { get; set; }
+public override IAppointment Destination { get; set; }
 ```
 
 ### See Also
 
-* class [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
 * class [GoToRemoteAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 220
 url: "/net/aspose.pdf/operatorcollection/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## OperatorCollection.Dispose method
 
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 

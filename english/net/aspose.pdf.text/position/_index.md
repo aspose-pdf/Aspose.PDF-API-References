@@ -22,21 +22,21 @@ public sealed class Position
 
 | Name | Description |
 | --- | --- |
-| [Position](./position/#constructor)(*double, double*) | Initializes a new instance of [`Position`](../../aspose.pdf.text/position/) class. |
+| [Position](./position/)(double, double) | Initializes a new instance of [`Position`](../../aspose.pdf.text/position/) class |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [XIndent](./xindent/) { get; set; } | Gets the X coordinate of the object. |
-| [YIndent](./yindent/) { get; set; } | Gets the Y coordinate of the object. |
+| [XIndent](./xindent/) { get; set; } | Gets the X coordinate of the object |
+| [YIndent](./yindent/) { get; set; } | Gets the Y coordinate of the object |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Equals](./equals/)(*object*) | Determines whether the specified object is equal to the current [`Position`](../../aspose.pdf.text/position/) object. |
-| [ToString](./tostring/) | Gets string representation for the current [`Position`](../../aspose.pdf.text/position/) object. |
+| override [Equals](./equals/)(object) | Determines whether the specified object is equal to the current [`Position`](../../aspose.pdf.text/position/) object. |
+| override [ToString](./tostring/)() | Gets string representation for the current [`Position`](../../aspose.pdf.text/position/) object. |
 
 ### See Also
 

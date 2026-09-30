@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.forms/optioncollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## OptionCollection.Clear method
 
 Removes all items from collection.
 

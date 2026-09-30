@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/outputintents/add/"
 product_version: "26.9.0"
 ---
-## Add([OutputIntent](../../../aspose.pdf/outputintent/)) {#add}
+## OutputIntents.Add method
 
 Adds an output intent to the collection.
 
@@ -30,6 +30,7 @@ public void Add(OutputIntent item)
 
 ### See Also
 
+* class [OutputIntent](../../../aspose.pdf/outputintent/)
 * class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets a list of the most likely tokens and their log probability, at each token position.
 
 ```csharp
-public List<Dictionary<string, Nullable<double>>> TopLogprobs { get; set; }
+public List<Dictionary<string, double?>> TopLogprobs { get; set; }
 ```
 
 ### See Also

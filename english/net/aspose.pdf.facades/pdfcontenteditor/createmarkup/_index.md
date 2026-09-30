@@ -9,7 +9,7 @@ weight: 210
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createmarkup/"
 product_version: "26.9.0"
 ---
-## CreateMarkup([Rectangle](../../../aspose.pdf.drawing/rectangle/), string, int, int, [Color](../../../aspose.pdf/color/)) {#createmarkup}
+## PdfContentEditor.CreateMarkup method
 
 Creates markup annotation it PDF document.
 
@@ -20,13 +20,15 @@ public void CreateMarkup(Rectangle rect, string contents, int type, int page, Co
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | Rectangle | The rectangle defining the location of the annotation on the page. |
-| contents | string | The contents of the annotation. |
-| type | int | The type of markup annotation. Can be 0 (Highlight), 1 (Underline), 2 (StrikeOut), 3 (Squiggly). |
-| page | int | The number of original page where the annotation will be created. |
+| contents | String | The contents of the annotation. |
+| type | Int32 | The type of markup annotation. Can be 0 (Highlight), 1 (Underline), 2 (StrikeOut), 3 (Squiggly). |
+| page | Int32 | The number of original page where the annotation will be created. |
 | clr | Color | The color of markup. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Color](../../../aspose.pdf/color/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

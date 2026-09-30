@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.text/tableabsorber/remove/"
 product_version: "26.9.0"
 ---
-## Remove([AbsorbedTable](../../../aspose.pdf.text/absorbedtable/)) {#remove}
+## TableAbsorber.Remove method
 
 Removes an [`AbsorbedTable`](../../../aspose.pdf.text/absorbedtable/) from the page.
 
@@ -25,6 +25,7 @@ public void Remove(AbsorbedTable table)
 
 ### See Also
 
+* class [AbsorbedTable](../../../aspose.pdf.text/absorbedtable/)
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

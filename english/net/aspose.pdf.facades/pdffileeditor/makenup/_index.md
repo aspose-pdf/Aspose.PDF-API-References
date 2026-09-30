@@ -19,14 +19,12 @@ public bool MakeNUp(string inputFile, string outputFile, int x, int y)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Input pdf file path and name. |
-| outputFile | string | Output pdf file path and name. |
-| x | int | Number of columns. |
-| y | int | Number of rows. |
+| inputFile | String | Input pdf file path and name. |
+| outputFile | String | Output pdf file path and name. |
+| x | Int32 | Number of columns. |
+| y | Int32 | Number of rows. |
 
 ### Return Value
-
-bool
 
 boolean - True for success, or false.
 
@@ -50,12 +48,10 @@ public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y)
 | --- | --- | --- |
 | inputStream | Stream | Input pdf stream. |
 | outputStream | Stream | Output pdf stream. |
-| x | int | Number of columns. |
-| y | int | Number of rows. |
+| x | Int32 | Number of columns. |
+| y | Int32 | Number of rows. |
 
 ### Return Value
-
-bool
 
 boolean - True for success, or false.
 
@@ -79,18 +75,17 @@ public bool MakeNUp(Stream inputStream, Stream outputStream, int x, int y, PageS
 | --- | --- | --- |
 | inputStream | Stream | Input pdf stream. |
 | outputStream | Stream | Output pdf stream. |
-| x | int | Number of columns. |
-| y | int | Number of rows. |
+| x | Int32 | Number of columns. |
+| y | Int32 | Number of rows. |
 | pageSize | PageSize | The page size of the output pdf file. |
 
 ### Return Value
-
-bool
 
 True if operation was succeeded.
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -109,13 +104,11 @@ public bool MakeNUp(string firstInputFile, string secondInputFile, string output
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| firstInputFile | string | first input file. |
-| secondInputFile | string | second input file. |
-| outputFile | string | Output pdf file path and name. |
+| firstInputFile | String | first input file. |
+| secondInputFile | String | second input file. |
+| outputFile | String | Output pdf file path and name. |
 
 ### Return Value
-
-bool
 
 boolean - True for success, or false.
 
@@ -143,8 +136,6 @@ public bool MakeNUp(Stream firstInputStream, Stream secondInputStream, Stream ou
 
 ### Return Value
 
-bool
-
 boolean - True for success, or false.
 
 ### See Also
@@ -168,13 +159,11 @@ public bool MakeNUp(string[] inputFiles, string outputFile, bool isSidewise)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFiles | string[] | Input Pdf files. |
-| outputFile | string | Output pdf file path and name. |
-| isSidewise | bool | Piled up way, true for horizontally and false for vertically. |
+| inputFiles | String[] | Input Pdf files. |
+| outputFile | String | Output pdf file path and name. |
+| isSidewise | Boolean | Piled up way, true for horizontally and false for vertically. |
 
 ### Return Value
-
-bool
 
 boolean - True for success, or false.
 
@@ -201,11 +190,9 @@ public bool MakeNUp(Stream[] inputStreams, Stream outputStream, bool isSidewise)
 | --- | --- | --- |
 | inputStreams | Stream[] | Input Pdf streams. |
 | outputStream | Stream | Output pdf stream. |
-| isSidewise | bool | Piled up way, true for horizontally and false for vertically. |
+| isSidewise | Boolean | Piled up way, true for horizontally and false for vertically. |
 
 ### Return Value
-
-bool
 
 boolean - True for success, or false.
 
@@ -227,20 +214,19 @@ public bool MakeNUp(string inputFile, string outputFile, int x, int y, PageSize 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Input pdf file path and name. |
-| outputFile | string | Output pdf file path and name. |
-| x | int | Number of columns. |
-| y | int | Number of rows. |
+| inputFile | String | Input pdf file path and name. |
+| outputFile | String | Output pdf file path and name. |
+| x | Int32 | Number of columns. |
+| y | Int32 | Number of rows. |
 | pageSize | PageSize | The page size of the output pdf file. |
 
 ### Return Value
-
-bool
 
 boolean - True for success, or false.
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

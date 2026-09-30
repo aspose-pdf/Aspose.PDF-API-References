@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf.logicalstructure/structureattribute/setarrayvalue/"
 product_version: "26.9.0"
 ---
-## SetArrayValue(AttributeName[]) {#setarrayvalue}
+## StructureAttribute.SetArrayValue method
 
 Sets Value Name Array.
 
@@ -23,6 +23,7 @@ public void SetArrayValue(AttributeName[] array)
 
 ### See Also
 
+* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
 * class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

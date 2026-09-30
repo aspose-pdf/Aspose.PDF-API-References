@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.text/charinfocollection/contains/"
 product_version: "26.9.0"
 ---
-## Contains([CharInfo](../../../aspose.pdf.text/charinfo/)) {#contains}
+## CharInfoCollection.Contains method
 
 Determines whether the collection contains a specific value.
 
@@ -23,12 +23,11 @@ public bool Contains(CharInfo item)
 
 ### Return Value
 
-bool
-
 true if item is found in the collection; otherwise, false.
 
 ### See Also
 
+* class [CharInfo](../../../aspose.pdf.text/charinfo/)
 * class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

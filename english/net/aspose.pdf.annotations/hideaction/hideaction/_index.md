@@ -23,33 +23,14 @@ public HideAction(Annotation annotation)
 
 ### See Also
 
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [HideAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## HideAction(string) {#constructor_1}
-
-Initializes a new instance of the [`HideAction`](../../../aspose.pdf.annotations/hideaction/) class for the specified field name.
-
-```csharp
-public HideAction(string fieldName)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | string | A text string giving the fully qualified field name of an interactive form field. |
-
-### See Also
-
-* class [HideAction](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## HideAction(Annotation[]) {#constructor_2}
+## HideAction(Annotation[]) {#constructor_1}
 
 Initializes a new instance of the [`HideAction`](../../../aspose.pdf.annotations/hideaction/) class for the specified annotations.
 
@@ -60,6 +41,27 @@ public HideAction(Annotation[] annotations)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | annotations | Annotation[] | An array of annotations to be hidden. |
+
+### See Also
+
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## HideAction(string) {#constructor_2}
+
+Initializes a new instance of the [`HideAction`](../../../aspose.pdf.annotations/hideaction/) class for the specified field name.
+
+```csharp
+public HideAction(string fieldName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fieldName | String | A text string giving the fully qualified field name of an interactive form field. |
 
 ### See Also
 
@@ -79,7 +81,7 @@ public HideAction(string[] names)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| names | string[] | An array of strings giving the fully qualified field names of an interactive form fields. |
+| names | String[] | An array of strings giving the fully qualified field names of an interactive form fields. |
 
 ### See Also
 
@@ -100,38 +102,18 @@ public HideAction(Annotation annotation, bool isHidden)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | annotation | Annotation | An annotation to be hidden or shown. |
-| isHidden | bool | A flag indicating whether to hide the annotation (true) or show it (false). |
+| isHidden | Boolean | A flag indicating whether to hide the annotation (true) or show it (false). |
 
 ### See Also
 
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [HideAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## HideAction(string, bool) {#constructor_5}
-
-Initializes a new instance of the [`HideAction`](../../../aspose.pdf.annotations/hideaction/) class for the specified field name and invisibility flag.
-
-```csharp
-public HideAction(string fieldName, bool isHidden)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | string | A text string giving the fully qualified field name of an interactive form field. |
-| isHidden | bool | A flag indicating whether to hide the field (true) or show it (false). |
-
-### See Also
-
-* class [HideAction](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## HideAction(Annotation[], bool) {#constructor_6}
+## HideAction(Annotation[], bool) {#constructor_5}
 
 Initializes a new instance of the [`HideAction`](../../../aspose.pdf.annotations/hideaction/) class for the specified annotations and for invisibility flag.
 
@@ -142,7 +124,29 @@ public HideAction(Annotation[] annotations, bool isHidden)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | annotations | Annotation[] | An array of annotations to be hidden or shown. |
-| isHidden | bool | A flag indicating whether to hide the annotations (true) or show it (false). |
+| isHidden | Boolean | A flag indicating whether to hide the annotations (true) or show it (false). |
+
+### See Also
+
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## HideAction(string, bool) {#constructor_6}
+
+Initializes a new instance of the [`HideAction`](../../../aspose.pdf.annotations/hideaction/) class for the specified field name and invisibility flag.
+
+```csharp
+public HideAction(string fieldName, bool isHidden)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fieldName | String | A text string giving the fully qualified field name of an interactive form field. |
+| isHidden | Boolean | A flag indicating whether to hide the field (true) or show it (false). |
 
 ### See Also
 
@@ -162,8 +166,8 @@ public HideAction(string[] names, bool isHidden)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| names | string[] | An array of strings giving the fully qualified field names of an interactive form fields. |
-| isHidden | bool | A flag indicating whether to hide the fields (true) or show it (false). |
+| names | String[] | An array of strings giving the fully qualified field names of an interactive form fields. |
+| isHidden | Boolean | A flag indicating whether to hide the fields (true) or show it (false). |
 
 ### See Also
 

@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets foreground color of the text.
 
 ```csharp
-public Color StrokingColor { get; set; }
+public virtual Color StrokingColor { get; set; }
 ```
 
 ### See Also

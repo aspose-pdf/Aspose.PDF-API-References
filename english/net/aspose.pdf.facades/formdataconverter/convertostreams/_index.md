@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf.facades/formdataconverter/convertostreams/"
 product_version: "26.9.0"
 ---
-## ConverToStreams(Stream[], [DataType](../../../aspose.pdf.lowcode/datatype/)) {#convertostreams}
+## FormDataConverter.ConverToStreams method
 
 This method is obsolete. Please use ConvertToStreams() instead.
 
@@ -24,6 +24,7 @@ public void ConverToStreams(Stream[] destStream, DataType destType)
 
 ### See Also
 
+* enum [DataType](../../../aspose.pdf.lowcode/datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

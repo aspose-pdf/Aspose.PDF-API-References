@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf/xformcollection/getformname/"
 product_version: "26.9.0"
 ---
-## GetFormName([XForm](../../../aspose.pdf/xform/)) {#getformname}
+## XFormCollection.GetFormName method
 
 Returns name of the form in this form collection.
 
@@ -23,12 +23,11 @@ public string GetFormName(XForm form)
 
 ### Return Value
 
-string
-
 Form name in the collection; Null if form is not contained in the collection.
 
 ### See Also
 
+* class [XForm](../../../aspose.pdf/xform/)
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

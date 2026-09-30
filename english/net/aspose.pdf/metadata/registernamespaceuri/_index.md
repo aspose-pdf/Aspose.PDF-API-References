@@ -19,8 +19,8 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| prefix | string | The value of prefix. |
-| namespaceUri | string | The value of namespace URI. |
+| prefix | String | The value of prefix. |
+| namespaceUri | String | The value of namespace URI. |
 
 ### See Also
 
@@ -40,9 +40,9 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri, string sche
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| prefix | string | The value of prefix. |
-| namespaceUri | string | The value of namespace URI. |
-| schemaDescription | string | The value of schema description. |
+| prefix | String | The value of prefix. |
+| namespaceUri | String | The value of namespace URI. |
+| schemaDescription | String | The value of schema description. |
 
 ### See Also
 

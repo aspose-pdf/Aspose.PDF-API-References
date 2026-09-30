@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/iindexbitmapconverter/get8bppimage/"
 product_version: "26.9.0"
 ---
-## Get8BppImage(Bitmap) {#get8bppimage}
+## IIndexBitmapConverter.Get8BppImage method
 
 Returns 8Bpp bitmap representation
 
@@ -22,8 +22,6 @@ public Bitmap Get8BppImage(Bitmap src)
 | src | Bitmap | Source bitmap. |
 
 ### Return Value
-
-Bitmap
 
 Bitmap in 8 bpp image format.
 

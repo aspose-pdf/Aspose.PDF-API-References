@@ -25,47 +25,7 @@ public TiffDevice()
 
 ---
 
-## TiffDevice([Resolution](../../../aspose.pdf.devices/resolution/)) {#constructor_1}
-
-Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
-
-```csharp
-public TiffDevice(Resolution resolution)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resolution | Resolution | Resolution for the result image file. |
-
-### See Also
-
-* class [TiffDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TiffDevice([TiffSettings](../../../aspose.pdf.devices/tiffsettings/)) {#constructor_2}
-
-Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
-
-```csharp
-public TiffDevice(TiffSettings settings)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| settings | TiffSettings | Tiff settings, see <see cref="T:Aspose.Pdf.Devices.TiffSettings" /> class. |
-
-### See Also
-
-* class [TiffDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TiffDevice([PageSize](../../../aspose.pdf/pagesize/)) {#constructor_3}
+## TiffDevice([PageSize](../../../aspose.pdf/pagesize/)) {#constructor_1}
 
 Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
 
@@ -79,24 +39,67 @@ public TiffDevice(PageSize pageSize)
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## TiffDevice([Resolution](../../../aspose.pdf.devices/resolution/), [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)) {#constructor_4}
+## TiffDevice([Resolution](../../../aspose.pdf.devices/resolution/)) {#constructor_2}
 
 Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
 
 ```csharp
-public TiffDevice(Resolution resolution, TiffSettings settings)
+public TiffDevice(Resolution resolution)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| resolution | Resolution | Resolution for the output image. |
+| resolution | Resolution | Resolution for the result image file. |
+
+### See Also
+
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TiffDevice([TiffSettings](../../../aspose.pdf.devices/tiffsettings/)) {#constructor_3}
+
+Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
+
+```csharp
+public TiffDevice(TiffSettings settings)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
 | settings | TiffSettings | Tiff settings, see <see cref="T:Aspose.Pdf.Devices.TiffSettings" /> class. |
+
+### See Also
+
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TiffDevice(int, int) {#constructor_4}
+
+Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
+
+```csharp
+public TiffDevice(int width, int height)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| width | Int32 | Image output width. |
+| height | Int32 | Image output height. |
 
 ### See Also
 
@@ -106,28 +109,7 @@ public TiffDevice(Resolution resolution, TiffSettings settings)
 
 ---
 
-## TiffDevice([TiffSettings](../../../aspose.pdf.devices/tiffsettings/), [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)) {#constructor_5}
-
-Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
-
-```csharp
-public TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| settings | TiffSettings | Tiff settings, see <see cref="T:Aspose.Pdf.Devices.TiffSettings" /> class. |
-| converter | IIndexBitmapConverter | External converter |
-
-### See Also
-
-* class [TiffDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TiffDevice([PageSize](../../../aspose.pdf/pagesize/), [Resolution](../../../aspose.pdf.devices/resolution/)) {#constructor_6}
+## TiffDevice([PageSize](../../../aspose.pdf/pagesize/), [Resolution](../../../aspose.pdf.devices/resolution/)) {#constructor_5}
 
 Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
 
@@ -142,13 +124,15 @@ public TiffDevice(PageSize pageSize, Resolution resolution)
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## TiffDevice([PageSize](../../../aspose.pdf/pagesize/), [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)) {#constructor_7}
+## TiffDevice([PageSize](../../../aspose.pdf/pagesize/), [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)) {#constructor_6}
 
 Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
 
@@ -163,56 +147,107 @@ public TiffDevice(PageSize pageSize, TiffSettings settings)
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## TiffDevice(int, int) {#constructor_8}
+## TiffDevice([Resolution](../../../aspose.pdf.devices/resolution/), [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)) {#constructor_7}
 
 Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
 
 ```csharp
-public TiffDevice(int width, int height)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
-
-### See Also
-
-* class [TiffDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TiffDevice([Resolution](../../../aspose.pdf.devices/resolution/), [TiffSettings](../../../aspose.pdf.devices/tiffsettings/), [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)) {#constructor_9}
-
-Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
-
-```csharp
-public TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter)
+public TiffDevice(Resolution resolution, TiffSettings settings)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | resolution | Resolution | Resolution for the output image. |
 | settings | TiffSettings | Tiff settings, see <see cref="T:Aspose.Pdf.Devices.TiffSettings" /> class. |
-| converter | IIndexBitmapConverter | External converter |
 
 ### See Also
 
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## TiffDevice([PageSize](../../../aspose.pdf/pagesize/), [Resolution](../../../aspose.pdf.devices/resolution/), [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)) {#constructor_10}
+## TiffDevice([TiffSettings](../../../aspose.pdf.devices/tiffsettings/), [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)) {#constructor_8}
+
+Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
+
+```csharp
+public TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| settings | TiffSettings | Tiff settings, see <see cref="T:Aspose.Pdf.Devices.TiffSettings" /> class. |
+| converter | IIndexBitmapConverter | External converter |
+
+### See Also
+
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TiffDevice(int, int, [Resolution](../../../aspose.pdf.devices/resolution/)) {#constructor_9}
+
+Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
+
+```csharp
+public TiffDevice(int width, int height, Resolution resolution)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| width | Int32 | Image output width. |
+| height | Int32 | Image output height. |
+| resolution | Resolution | Resolution for the output image. |
+
+### See Also
+
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TiffDevice(int, int, [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)) {#constructor_10}
+
+Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
+
+```csharp
+public TiffDevice(int width, int height, TiffSettings settings)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| width | Int32 | Image output width. |
+| height | Int32 | Image output height. |
+| settings | TiffSettings | Tiff settings, see <see cref="T:Aspose.Pdf.Devices.TiffSettings" /> class. |
+
+### See Also
+
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TiffDevice([PageSize](../../../aspose.pdf/pagesize/), [Resolution](../../../aspose.pdf.devices/resolution/), [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)) {#constructor_11}
 
 Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
 
@@ -228,57 +263,16 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## TiffDevice(int, int, [Resolution](../../../aspose.pdf.devices/resolution/)) {#constructor_11}
-
-Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
-
-```csharp
-public TiffDevice(int width, int height, Resolution resolution)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
-| resolution | Resolution | Resolution for the output image. |
-
-### See Also
-
-* class [TiffDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TiffDevice(int, int, [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)) {#constructor_12}
-
-Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
-
-```csharp
-public TiffDevice(int width, int height, TiffSettings settings)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
-| settings | TiffSettings | Tiff settings, see <see cref="T:Aspose.Pdf.Devices.TiffSettings" /> class. |
-
-### See Also
-
-* class [TiffDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TiffDevice([PageSize](../../../aspose.pdf/pagesize/), [TiffSettings](../../../aspose.pdf.devices/tiffsettings/), [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)) {#constructor_13}
+## TiffDevice([PageSize](../../../aspose.pdf/pagesize/), [TiffSettings](../../../aspose.pdf.devices/tiffsettings/), [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)) {#constructor_12}
 
 Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
 
@@ -294,6 +288,34 @@ public TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverte
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TiffDevice([Resolution](../../../aspose.pdf.devices/resolution/), [TiffSettings](../../../aspose.pdf.devices/tiffsettings/), [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)) {#constructor_13}
+
+Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
+
+```csharp
+public TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| resolution | Resolution | Resolution for the output image. |
+| settings | TiffSettings | Tiff settings, see <see cref="T:Aspose.Pdf.Devices.TiffSettings" /> class. |
+| converter | IIndexBitmapConverter | External converter |
+
+### See Also
+
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
@@ -310,25 +332,53 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
+| width | Int32 | Image output width. |
+| height | Int32 | Image output height. |
 | resolution | Resolution | Resolution for the output image. |
 | settings | TiffSettings | Tiff settings, see <see cref="T:Aspose.Pdf.Devices.TiffSettings" /> class. |
 
 ### See Also
 
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## TiffDevice([PageSize](../../../aspose.pdf/pagesize/), [Resolution](../../../aspose.pdf.devices/resolution/), [TiffSettings](../../../aspose.pdf.devices/tiffsettings/), [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)) {#constructor_15}
+## TiffDevice(int, int, [TiffSettings](../../../aspose.pdf.devices/tiffsettings/), [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)) {#constructor_15}
 
 Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
 
 ```csharp
-public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter)
+public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConverter converter)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| width | Int32 | Image output width. |
+| height | Int32 | Image output height. |
+| settings | TiffSettings | Tiff settings, see <see cref="T:Aspose.Pdf.Devices.TiffSettings" /> class. |
+| converter | IIndexBitmapConverter | External converter |
+
+### See Also
+
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TiffDevice([PageSize](../../../aspose.pdf/pagesize/), [Resolution](../../../aspose.pdf.devices/resolution/), [TiffSettings](../../../aspose.pdf.devices/tiffsettings/), [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)) {#constructor_16}
+
+Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
+
+```csharp
+public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings settings, 
+    IIndexBitmapConverter converter)
 ```
 
 | Parameter | Type | Description |
@@ -340,29 +390,10 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 
 ### See Also
 
-* class [TiffDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TiffDevice(int, int, [TiffSettings](../../../aspose.pdf.devices/tiffsettings/), [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)) {#constructor_16}
-
-Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
-
-```csharp
-public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConverter converter)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
-| settings | TiffSettings | Tiff settings, see <see cref="T:Aspose.Pdf.Devices.TiffSettings" /> class. |
-| converter | IIndexBitmapConverter | External converter |
-
-### See Also
-
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
@@ -374,19 +405,23 @@ public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConv
 Initializes a new instance of the [`TiffDevice`](../../../aspose.pdf.devices/tiffdevice/) class.
 
 ```csharp
-public TiffDevice(int width, int height, Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter)
+public TiffDevice(int width, int height, Resolution resolution, TiffSettings settings, 
+    IIndexBitmapConverter converter)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
+| width | Int32 | Image output width. |
+| height | Int32 | Image output height. |
 | resolution | Resolution | Resolution for the output image. |
 | settings | TiffSettings | Tiff settings, see <see cref="T:Aspose.Pdf.Devices.TiffSettings" /> class. |
 | converter | IIndexBitmapConverter | External converter |
 
 ### See Also
 
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

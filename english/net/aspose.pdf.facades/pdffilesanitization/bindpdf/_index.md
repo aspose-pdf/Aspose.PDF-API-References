@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Binds a Pdf file for Sanitize.
 
 ```csharp
-public void BindPdf(string inputFile)
+public override void BindPdf(string inputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | The pdf file to be edited. |
+| inputFile | String | The pdf file to be edited. |
 
 ### See Also
 
@@ -34,7 +34,7 @@ public void BindPdf(string inputFile)
 Binds a Pdf stream for Sanitize.
 
 ```csharp
-public void BindPdf(Stream inputStream)
+public override void BindPdf(Stream inputStream)
 ```
 
 | Parameter | Type | Description |
@@ -54,7 +54,7 @@ public void BindPdf(Stream inputStream)
 Initializes the facade.
 
 ```csharp
-public void BindPdf(Document srcDoc)
+public override void BindPdf(Document srcDoc)
 ```
 
 | Parameter | Type | Description |
@@ -63,6 +63,7 @@ public void BindPdf(Document srcDoc)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

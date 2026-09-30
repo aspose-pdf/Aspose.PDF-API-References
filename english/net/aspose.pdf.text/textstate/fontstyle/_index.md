@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Sets font style of the text.
 
 ```csharp
-public FontStyles FontStyle { get; set; }
+public virtual FontStyles FontStyle { get; set; }
 ```
 
 ### See Also
 
-* class [FontStyles](../../../aspose.pdf.text/fontstyles/)
+* enum [FontStyles](../../../aspose.pdf.text/fontstyles/)
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

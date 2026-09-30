@@ -5,7 +5,7 @@ articleTitle: "SetPrivilege"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileSecurity method. Sets Pdf file security with empty user/owner passwords. The owner password will be added by a random string. Throws an exception if p..."
 type: docs
-weight: 120
+weight: 80
 url: "/net/aspose.pdf.facades/pdffilesecurity/setprivilege/"
 product_version: "26.9.0"
 ---
@@ -24,8 +24,6 @@ public bool SetPrivilege(DocumentPrivilege privilege)
 | privilege | DocumentPrivilege | Set privilege. |
 
 ### Return Value
-
-bool
 
 True for success.
 
@@ -47,6 +45,7 @@ True for success.
 
 ### See Also
 
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -64,13 +63,11 @@ public bool SetPrivilege(string userPassword, string ownerPassword, DocumentPriv
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| userPassword | string | Original user password. |
-| ownerPassword | string | Original owner password. |
+| userPassword | String | Original user password. |
+| ownerPassword | String | Original owner password. |
 | privilege | DocumentPrivilege | Set privilege. |
 
 ### Return Value
-
-bool
 
 True for success.
 
@@ -92,6 +89,7 @@ True for success.
 
 ### See Also
 
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 940
 url: "/net/aspose.pdf/document/getxmpmetadata/"
 product_version: "26.9.0"
 ---
-## GetXmpMetadata(Stream) {#getxmpmetadata}
+## Document.GetXmpMetadata method
 
 Get XMP metadata from document.
 

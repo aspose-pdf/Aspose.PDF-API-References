@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets word spacing of the text.
 
 ```csharp
-public float WordSpacing { get; set; }
+public override float WordSpacing { get; set; }
 ```
 
 ### See Also

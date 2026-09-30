@@ -43,6 +43,7 @@ public TextAbsorber(TextExtractionOptions extractionOptions)
 
 ### See Also
 
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
 * class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -65,6 +66,7 @@ public TextAbsorber(TextSearchOptions textSearchOptions)
 
 ### See Also
 
+* class [TextSearchOptions](../../../aspose.pdf.text/textsearchoptions/)
 * class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -88,6 +90,8 @@ public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions t
 
 ### See Also
 
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextSearchOptions](../../../aspose.pdf.text/textsearchoptions/)
 * class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

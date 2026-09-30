@@ -35,7 +35,7 @@ public FileHyperlink(string path)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| path | string | Path to file. |
+| path | String | Path to file. |
 
 ### See Also
 

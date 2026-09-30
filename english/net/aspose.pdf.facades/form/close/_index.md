@@ -5,16 +5,16 @@ articleTitle: "Close"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Closes opened files without any changes."
 type: docs
-weight: 240
+weight: 170
 url: "/net/aspose.pdf.facades/form/close/"
 product_version: "26.9.0"
 ---
-## Close() {#close}
+## Form.Close method
 
 Closes opened files without any changes.
 
 ```csharp
-public void Close()
+public override void Close()
 ```
 
 ### See Also

@@ -19,7 +19,7 @@ public void AddNewLineText(string newLineText)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newLineText | string | Text of new added line. |
+| newLineText | String | Text of new added line. |
 
 ### See Also
 
@@ -39,8 +39,8 @@ public void AddNewLineText(string newLineText, float lineSpacing)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newLineText | string | Text of new added line. |
-| lineSpacing | float | Spacing of the line. |
+| newLineText | String | Text of new added line. |
+| lineSpacing | Single | Spacing of the line. |
 
 ### See Also
 

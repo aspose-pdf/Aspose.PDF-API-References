@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets/sets the value to determine whether created/modified field is update appearance on convert or not (if will be set).
 
 ```csharp
-public Nullable<bool> UpdateAppearanceOnConvert { get; set; }
+public bool? UpdateAppearanceOnConvert { get; set; }
 ```
 
 ### See Also

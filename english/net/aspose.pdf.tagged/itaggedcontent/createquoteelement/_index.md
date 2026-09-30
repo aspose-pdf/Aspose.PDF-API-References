@@ -9,7 +9,7 @@ weight: 290
 url: "/net/aspose.pdf.tagged/itaggedcontent/createquoteelement/"
 product_version: "26.9.0"
 ---
-## CreateQuoteElement() {#createquoteelement}
+## ITaggedContent.CreateQuoteElement method
 
 Creates [`QuoteElement`](../../../aspose.pdf.logicalstructure/quoteelement/).
 
@@ -18,8 +18,6 @@ public QuoteElement CreateQuoteElement()
 ```
 
 ### Return Value
-
-[QuoteElement](../../../aspose.pdf.logicalstructure/quoteelement/)
 
 Created structure element.
 

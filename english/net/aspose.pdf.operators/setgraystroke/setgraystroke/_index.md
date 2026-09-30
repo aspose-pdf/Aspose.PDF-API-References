@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/setgraystroke/setgraystroke/"
 product_version: "26.9.0"
 ---
-## SetGrayStroke(double) {#constructor}
+## SetGrayStroke constructor
 
 Initializes operator with the specified color.
 
@@ -19,7 +19,7 @@ public SetGrayStroke(double gray)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| gray | double | The level of gray value. |
+| gray | Double | The level of gray value. |
 
 ### See Also
 

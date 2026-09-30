@@ -22,13 +22,13 @@ public class Embedding
 
 | Name | Description |
 | --- | --- |
-| [Embedding](./embedding/#constructor) | The default constructor. |
+| [Embedding](./embedding/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [EmbeddingList](./embeddinglist/) { get; set; } | Gets or sets the embedding vector, which is a list of floats. |
+| [EmbeddingList](./embeddinglist/) { get; set; } | Gets or sets the embedding vector, which is a list of floats. The length of vector depends on the model as listed in the embedding guide. |
 | [Index](./index/) { get; set; } | Gets or sets the index of the embedding in the list of embeddings. |
 | [Object](./object/) { get; set; } | Gets or sets the object type, which is always "embedding". |
 

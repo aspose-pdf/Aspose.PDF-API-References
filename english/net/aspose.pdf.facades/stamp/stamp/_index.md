@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.facades/stamp/stamp/"
 product_version: "26.9.0"
 ---
-## Stamp() {#constructor}
+## Stamp constructor
 
 The default constructor.
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/apsloadoptions/apsloadoptions/"
 product_version: "26.9.0"
 ---
-## ApsLoadOptions() {#constructor}
+## ApsLoadOptions constructor
 
 The default constructor.
 

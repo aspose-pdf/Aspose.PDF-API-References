@@ -40,6 +40,7 @@ public GradientRadialShading(Color startColor, Color endColor)
 
 ### See Also
 
+* class [Color](../../../aspose.pdf/color/)
 * class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)

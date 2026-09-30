@@ -19,7 +19,7 @@ public readonly CryptographicStandard CryptographicStandard;
 
 ### See Also
 
-* class [CryptographicStandard](../../../aspose.pdf.security/cryptographicstandard/)
+* enum [CryptographicStandard](../../../aspose.pdf.security/cryptographicstandard/)
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)

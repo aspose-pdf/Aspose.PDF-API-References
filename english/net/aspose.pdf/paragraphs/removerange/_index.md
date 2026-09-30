@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf/paragraphs/removerange/"
 product_version: "26.9.0"
 ---
-## RemoveRange(int, int) {#removerange}
+## Paragraphs.RemoveRange method
 
 Remove paragraphs range.
 
@@ -19,8 +19,8 @@ public void RemoveRange(int index, int count)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | The first paragraph index. |
-| count | int | The paragraphs count. |
+| index | Int32 | The first paragraph index. |
+| count | Int32 | The paragraphs count. |
 
 ### See Also
 

@@ -5,11 +5,11 @@ articleTitle: "ModifyAnnotationsAuthor"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfAnnotationEditor method. Modifies the author of annotations on the specified page range."
 type: docs
-weight: 150
+weight: 120
 url: "/net/aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor/"
 product_version: "26.9.0"
 ---
-## ModifyAnnotationsAuthor(int, int, string, string) {#modifyannotationsauthor}
+## PdfAnnotationEditor.ModifyAnnotationsAuthor method
 
 Modifies the author of annotations on the specified page range.
 
@@ -19,10 +19,10 @@ public void ModifyAnnotationsAuthor(int start, int end, string srcAuthor, string
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| start | int | The start page number. |
-| end | int | The end page number. |
-| srcAuthor | string | The author that must be modified. |
-| desAuthor | string | The new author. |
+| start | Int32 | The start page number. |
+| end | Int32 | The end page number. |
+| srcAuthor | String | The author that must be modified. |
+| desAuthor | String | The new author. |
 
 ### See Also
 

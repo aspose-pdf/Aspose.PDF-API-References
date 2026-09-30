@@ -9,24 +9,24 @@ weight: 40
 url: "/net/aspose.pdf.ai/openaiclient/getvectorstorefilebatchfilesasync/"
 product_version: "26.9.0"
 ---
-## GetVectorStoreFileBatchFilesAsync(string, string, [VectorStoreFileBatchFileListQueryParameters](../../../aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/), Nullable<CancellationToken>) {#getvectorstorefilebatchfilesasync}
+## OpenAIClient.GetVectorStoreFileBatchFilesAsync method
 
 Retrieves a list of files within a specific vector store file batch asynchronously.
 
 ```csharp
-public Task<VectorStoreFileListResponse> GetVectorStoreFileBatchFilesAsync(string vectorStoreId, string fileBatchId, VectorStoreFileBatchFileListQueryParameters queryParameters, Nullable<CancellationToken> cancellationToken)
+public Task<VectorStoreFileListResponse> GetVectorStoreFileBatchFilesAsync(string vectorStoreId, 
+    string fileBatchId, VectorStoreFileBatchFileListQueryParameters queryParameters = null, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| vectorStoreId | string | The ID of the vector store containing the file batch. |
-| fileBatchId | string | The ID of the file batch to retrieve files from. |
+| vectorStoreId | String | The ID of the vector store containing the file batch. |
+| fileBatchId | String | The ID of the file batch to retrieve files from. |
 | queryParameters | VectorStoreFileBatchFileListQueryParameters | Optional query parameters to filter the list of files. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[VectorStoreFileListResponse](../../../aspose.pdf.ai/vectorstorefilelistresponse/)>
 
 A task that represents the asynchronous operation. The task result contains a list of files within the file batch.
 
@@ -39,6 +39,7 @@ A task that represents the asynchronous operation. The task result contains a li
 
 ### See Also
 
+* class [VectorStoreFileBatchFileListQueryParameters](../../../aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

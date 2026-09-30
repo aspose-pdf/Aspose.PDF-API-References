@@ -9,17 +9,15 @@ weight: 20
 url: "/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/"
 product_version: "26.9.0"
 ---
-## ToCosPdfName() {#tocospdfname}
+## CosPdfPrimitive.ToCosPdfName method
 
 Tries cast this instance to [`CosPdfName`](../../../aspose.pdf.dataeditor/cospdfname/).
 
 ```csharp
-public CosPdfName ToCosPdfName()
+public virtual CosPdfName ToCosPdfName()
 ```
 
 ### Return Value
-
-[CosPdfName](../../../aspose.pdf.dataeditor/cospdfname/)
 
 null if instance is not [`CosPdfName`](../../../aspose.pdf.dataeditor/cospdfname/) else [`CosPdfName`](../../../aspose.pdf.dataeditor/cospdfname/).
 

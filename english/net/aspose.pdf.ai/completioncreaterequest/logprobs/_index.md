@@ -15,7 +15,7 @@ Gets or sets whether to return log probabilities of the output tokens or not.
  If true, returns the log probabilities of each output token returned in the content of the message.
 
 ```csharp
-public Nullable<bool> Logprobs { get; set; }
+public bool? Logprobs { get; set; }
 ```
 
 ### See Also

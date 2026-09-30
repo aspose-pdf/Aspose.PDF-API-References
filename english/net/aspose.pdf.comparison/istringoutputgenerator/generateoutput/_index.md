@@ -19,11 +19,9 @@ public string GenerateOutput(List<DiffOperation> diffrences)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffrences | List<DiffOperation> | The list of differences between texts. |
+| diffrences | List`1 | The list of differences between texts. |
 
 ### Return Value
-
-string
 
 Text representation of output.
 
@@ -45,11 +43,9 @@ public string GenerateOutput(List<List<DiffOperation>> diffrences)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffrences | List<List<DiffOperation>> | The list of differences between texts. |
+| diffrences | List`1 | The list of differences between texts. |
 
 ### Return Value
-
-string
 
 Text representation of output.
 

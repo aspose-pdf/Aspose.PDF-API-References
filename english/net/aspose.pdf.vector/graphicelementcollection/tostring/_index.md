@@ -9,17 +9,15 @@ weight: 80
 url: "/net/aspose.pdf.vector/graphicelementcollection/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## GraphicElementCollection.ToString method
 
 Gets a string representation of this collection.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 The string.
 

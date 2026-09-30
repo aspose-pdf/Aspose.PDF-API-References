@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/getqueryparameters/"
 product_version: "26.9.0"
 ---
-## GetQueryParameters() {#getqueryparameters}
+## VectorStoreFileBatchFileListQueryParameters.GetQueryParameters method
 
 Gets the query parameters for listing store file batch files.
 
@@ -18,8 +18,6 @@ public string GetQueryParameters()
 ```
 
 ### Return Value
-
-string
 
 The query parameters string.
 

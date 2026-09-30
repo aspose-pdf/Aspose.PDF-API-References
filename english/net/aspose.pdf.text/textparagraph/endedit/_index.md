@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.text/textparagraph/endedit/"
 product_version: "26.9.0"
 ---
-## EndEdit() {#endedit}
+## TextParagraph.EndEdit method
 
 Ends the editing of the TextParagraph.
 

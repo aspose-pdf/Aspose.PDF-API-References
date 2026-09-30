@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/pdfaction/getecmascriptstring/"
 product_version: "26.9.0"
 ---
-## GetECMAScriptString() {#getecmascriptstring}
+## PdfAction.GetECMAScriptString method
 
 Gets string for ECMAScript Action.
 
@@ -18,8 +18,6 @@ public string GetECMAScriptString()
 ```
 
 ### Return Value
-
-string
 
 Return string for JS entry for ECMAScript Action or null else.
 

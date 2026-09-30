@@ -25,7 +25,28 @@ public TextFragment()
 
 ---
 
-## TextFragment([TabStops](../../../aspose.pdf.text/tabstops/)) {#constructor_1}
+## TextFragment(string) {#constructor_1}
+
+Creates [`TextFragment`](../../../aspose.pdf.text/textfragment/) object with single [`TextSegment`](../../../aspose.pdf.text/textsegment/) object inside. 
+ Specifies text string inside the segment.
+
+```csharp
+public TextFragment(string text)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | String | Text fragment's text. |
+
+### See Also
+
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TextFragment([TabStops](../../../aspose.pdf.text/tabstops/)) {#constructor_2}
 
 Initializes new instance of the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object with predefined [`TabStops`](../../../aspose.pdf.text/tabstops/) positions.
 
@@ -39,27 +60,7 @@ public TextFragment(TabStops tabStops)
 
 ### See Also
 
-* class [TextFragment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TextFragment(string) {#constructor_2}
-
-Creates [`TextFragment`](../../../aspose.pdf.text/textfragment/) object with single [`TextSegment`](../../../aspose.pdf.text/textsegment/) object inside. 
- Specifies text string inside the segment.
-
-```csharp
-public TextFragment(string text)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | string | Text fragment's text. |
-
-### See Also
-
+* class [TabStops](../../../aspose.pdf.text/tabstops/)
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -76,11 +77,12 @@ public TextFragment(string text, TabStops tabStops)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string | Text fragment's text. |
+| text | String | Text fragment's text. |
 | tabStops | TabStops | Tabulation positions |
 
 ### See Also
 
+* class [TabStops](../../../aspose.pdf.text/tabstops/)
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

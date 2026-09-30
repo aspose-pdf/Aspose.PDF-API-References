@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/bx/bx/"
 product_version: "26.9.0"
 ---
-## BX() {#constructor}
+## BX constructor
 
 Initializes operator.
 

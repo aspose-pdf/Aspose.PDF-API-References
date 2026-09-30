@@ -19,19 +19,18 @@ public bool ReplaceText(string srcString, int thePage, string destString, TextSt
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcString | string | The string to be replaced. |
-| thePage | int | Page number (0 means "all pages"). |
-| destString | string | The replaced string. |
+| srcString | String | The string to be replaced. |
+| thePage | Int32 | Page number (0 means "all pages"). |
+| destString | String | The replaced string. |
 | textState | TextState | Text state (Text Color, Font etc). |
 
 ### Return Value
-
-bool
 
 Returns true if replacement was made.
 
 ### See Also
 
+* class [TextState](../../../aspose.pdf.text/textstate/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -48,12 +47,10 @@ public bool ReplaceText(string srcString, string destString)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcString | string | The string to be replaced. |
-| destString | string | Replacing string. |
+| srcString | String | The string to be replaced. |
+| destString | String | Replacing string. |
 
 ### Return Value
-
-bool
 
 Returns true if replacement was made.
 
@@ -75,13 +72,11 @@ public bool ReplaceText(string srcString, int thePage, string destString)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcString | string | The sting to be replaced. |
-| thePage | int | Page number (0 for all pages) |
-| destString | string | Replacing string. |
+| srcString | String | The sting to be replaced. |
+| thePage | Int32 | Page number (0 for all pages) |
+| destString | String | Replacing string. |
 
 ### Return Value
-
-bool
 
 Returns true if replacement was made.
 
@@ -103,18 +98,17 @@ public bool ReplaceText(string srcString, string destString, TextState textState
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcString | string | String to be replaced |
-| destString | string | Replacing string |
+| srcString | String | String to be replaced |
+| destString | String | Replacing string |
 | textState | TextState | Text state (Text Color, Font etc) |
 
 ### Return Value
-
-bool
 
 Returns true if replacement was made.
 
 ### See Also
 
+* class [TextState](../../../aspose.pdf.text/textstate/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -131,13 +125,11 @@ public bool ReplaceText(string srcString, string destString, int fontSize)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcString | string | String to be replaced. |
-| destString | string | Replacing string. |
-| fontSize | int | Font size. |
+| srcString | String | String to be replaced. |
+| destString | String | Replacing string. |
+| fontSize | Int32 | Font size. |
 
 ### Return Value
-
-bool
 
 Returns true if replacement was made.
 

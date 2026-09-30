@@ -9,7 +9,7 @@ weight: 120
 url: "/net/aspose.pdf.annotations/pdf3dcontent/getasbytearray/"
 product_version: "26.9.0"
 ---
-## GetAsByteArray() {#getasbytearray}
+## PDF3DContent.GetAsByteArray method
 
 Gets 3D content as byte array.
 
@@ -18,8 +18,6 @@ public byte[] GetAsByteArray()
 ```
 
 ### Return Value
-
-byte[]
 
 System.Byte[].
 

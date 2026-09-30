@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/tableelement/createthead/"
 product_version: "26.9.0"
 ---
-## CreateTHead() {#createthead}
+## TableElement.CreateTHead method
 
 Creates [`TableTHeadElement`](../../../aspose.pdf.logicalstructure/tabletheadelement/) and added it to current table.
 
@@ -18,8 +18,6 @@ public TableTHeadElement CreateTHead()
 ```
 
 ### Return Value
-
-[TableTHeadElement](../../../aspose.pdf.logicalstructure/tabletheadelement/)
 
 Created structure element.
 

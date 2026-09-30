@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf/artifact/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## Artifact.Dispose method
 
 Dispose the artifact.
 

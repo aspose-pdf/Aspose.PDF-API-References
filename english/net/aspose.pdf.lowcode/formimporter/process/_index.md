@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.lowcode/formimporter/process/"
 product_version: "26.9.0"
 ---
-## Process([IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)) {#process}
+## FormImporter.Process method
 
 Starts the import processing with the specified options.
 
@@ -23,8 +23,6 @@ public ResultContainer Process(IPluginOptions options)
 
 ### Return Value
 
-[ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
-
 A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) with the import results.
 
 ### Exceptions
@@ -37,6 +35,7 @@ A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) with the imp
 ### See Also
 
 * class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
+* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
 * class [FormImporter](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

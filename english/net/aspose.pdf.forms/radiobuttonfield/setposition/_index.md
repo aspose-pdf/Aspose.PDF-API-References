@@ -9,12 +9,12 @@ weight: 60
 url: "/net/aspose.pdf.forms/radiobuttonfield/setposition/"
 product_version: "26.9.0"
 ---
-## SetPosition([Point](../../../aspose.pdf/point/)) {#setposition}
+## RadioButtonField.SetPosition method
 
 Move all subitems of radio button to specified positins on the page.
 
 ```csharp
-public void SetPosition(Point point)
+public override void SetPosition(Point point)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void SetPosition(Point point)
 
 ### See Also
 
+* class [Point](../../../aspose.pdf/point/)
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

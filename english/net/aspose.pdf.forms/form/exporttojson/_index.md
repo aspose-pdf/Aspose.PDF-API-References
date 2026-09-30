@@ -14,7 +14,8 @@ product_version: "26.9.0"
 Exports the PDF form fields to JSON format and writes the result to the provided stream.
 
 ```csharp
-public IEnumerable<FieldSerializationResult> ExportToJson(Stream stream, ExportFieldsToJsonOptions options)
+public IEnumerable<FieldSerializationResult> ExportToJson(Stream stream, 
+    ExportFieldsToJsonOptions options = null)
 ```
 
 | Parameter | Type | Description |
@@ -24,12 +25,11 @@ public IEnumerable<FieldSerializationResult> ExportToJson(Stream stream, ExportF
 
 ### Return Value
 
-[IEnumerable](https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1)<[FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)>
-
 A collection of [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) indicating the result of the export operation for each form field.
 
 ### See Also
 
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
@@ -41,22 +41,22 @@ A collection of [`FieldSerializationResult`](../../../aspose.pdf/fieldserializat
 Exports the PDF form fields to JSON format and writes the result to the specified file.
 
 ```csharp
-public IEnumerable<FieldSerializationResult> ExportToJson(string fileName, ExportFieldsToJsonOptions options)
+public IEnumerable<FieldSerializationResult> ExportToJson(string fileName, 
+    ExportFieldsToJsonOptions options = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | string | The name of the file to write the JSON output to. |
+| fileName | String | The name of the file to write the JSON output to. |
 | options | ExportFieldsToJsonOptions | Optional settings for exporting the form fields to JSON. |
 
 ### Return Value
-
-[IEnumerable](https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1)<[FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)>
 
 A collection of [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) indicating the result of the export operation for each form field.
 
 ### See Also
 
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

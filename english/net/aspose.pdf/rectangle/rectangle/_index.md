@@ -9,21 +9,21 @@ weight: 10
 url: "/net/aspose.pdf/rectangle/rectangle/"
 product_version: "26.9.0"
 ---
-## Rectangle(double, double, double, double, bool) {#constructor}
+## Rectangle constructor
 
 Constructor of Rectangle.
 
 ```csharp
-public Rectangle(double llx, double lly, double urx, double ury, bool normalizeCoordinates)
+public Rectangle(double llx, double lly, double urx, double ury, bool normalizeCoordinates = true)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| llx | double | X of lower left corner. |
-| lly | double | Y of lower left corner. |
-| urx | double | X of upper right corner. |
-| ury | double | Y of upper right corner. |
-| normalizeCoordinates | bool | Normalize coordinates of rectangle. |
+| llx | Double | X of lower left corner. |
+| lly | Double | Y of lower left corner. |
+| urx | Double | X of upper right corner. |
+| ury | Double | Y of upper right corner. |
+| normalizeCoordinates | Boolean | Normalize coordinates of rectangle. |
 
 ### See Also
 

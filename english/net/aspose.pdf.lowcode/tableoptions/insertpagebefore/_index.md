@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.lowcode/tableoptions/insertpagebefore/"
 product_version: "26.9.0"
 ---
-## InsertPageBefore(int) {#insertpagebefore}
+## TableOptions.InsertPageBefore method
 
 Insert page before specified page.
 
@@ -19,18 +19,15 @@ public TableOptions InsertPageBefore(int page)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | int | Page number to insert table after. |
+| page | Int32 | Page number to insert table after. |
 
 ### Return Value
-
-[TableOptions](../../../aspose.pdf.lowcode/tableoptions/)
 
 Instance of current [`TableOptions`](../../../aspose.pdf.lowcode/tableoptions/).
 
 ### See Also
 
 * class [TableOptions](../../../aspose.pdf.lowcode/tableoptions/)
-* class [TableOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)
 

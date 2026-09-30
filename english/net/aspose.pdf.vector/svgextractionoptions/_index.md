@@ -22,19 +22,19 @@ public class SvgExtractionOptions
 
 | Name | Description |
 | --- | --- |
-| [SvgExtractionOptions](./svgextractionoptions/#constructor) | The default constructor. |
+| [SvgExtractionOptions](./svgextractionoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AutoGrouping](./autogrouping/) { get; set; } | Gets and sets the option to automatically group subpaths into images. |
+| [AutoGrouping](./autogrouping/) { get; set; } | Gets and sets the option to automatically group subpaths into images. This option excludes the `GroupStrength` option. |
 | [ExtractEverySubPathToSvg](./extracteverysubpathtosvg/) { get; set; } | Gets and sets opttion to extracts every subpath from a PDF document to separate SVG images. |
 | [ExtractionAreaBound](./extractionareabound/) { get; set; } | Gets and sets the bounding rectangle that defines the extraction area for SVG extraction. |
-| [GroupStrength](./groupstrength/) { get; set; } | Gets and sets an option The strength of grouping subpaths into images. Allows you to configure the degree of grouping of subpaths. |
-| [MinStrokeWidth](./minstrokewidth/) { get; set; } | Gets or sets the minimum stroke width that will be used in the resulting SVG. |
-| [StrictExtractionAreaBoundCheck](./strictextractionareaboundcheck/) { get; set; } | Gets and sets an option to define strictly checks whether subpaths are within the specified rectangle in `ExtractionAreaBound`. |
-| [UnpackPageContentXForm](./unpackpagecontentxform/) { get; set; } | Gets and sets a flag that determines whether XFrom found on pages should be unpacked or not. |
+| [GroupStrength](./groupstrength/) { get; set; } | Gets and sets an option The strength of grouping subpaths into images. Allows you to configure the degree of grouping of subpaths. The value ranges is from 0 to 1. A value of 0 corresponds to the `ExtractEverySubPathToSvg` option being enabled. A value of 1 will create single image for all vector paths on the page. The option has an effect when `AutoGrouping` is false. The default value is `0.8`. |
+| [MinStrokeWidth](./minstrokewidth/) { get; set; } | Gets or sets the minimum stroke width that will be used in the resulting SVG. If the PDF use a thinner stroke width, it will be replaced with this width. The default value is 0.5. |
+| [StrictExtractionAreaBoundCheck](./strictextractionareaboundcheck/) { get; set; } | Gets and sets an option to define strictly checks whether subpaths are within the specified rectangle in `ExtractionAreaBound`. If set to false, then subpaths that are not completely included in `ExtractionAreaBound` will be extracted. The default value is `True`. |
+| [UnpackPageContentXForm](./unpackpagecontentxform/) { get; set; } | Gets and sets a flag that determines whether XFrom found on pages should be unpacked or not. XFrom elements can end up in different SVG files. Only XForms that are rendered by Do statements from the page content are unpacked. Nested XForms are not unpacked. |
 | [UnpackXFormPredicate](./unpackxformpredicate/) { get; set; } | Gets and sets option to unpack only the XForm corresponding to the specified predicate. |
 
 ### See Also

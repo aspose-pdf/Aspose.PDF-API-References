@@ -9,12 +9,12 @@ weight: 210
 url: "/net/aspose.pdf/operatorcollection/contains/"
 product_version: "26.9.0"
 ---
-## Contains([Operator](../../../aspose.pdf/operator/)) {#contains}
+## OperatorCollection.Contains method
 
 Returns true if the collection contains given operator.
 
 ```csharp
-public bool Contains(Operator op)
+public override bool Contains(Operator op)
 ```
 
 | Parameter | Type | Description |
@@ -23,12 +23,11 @@ public bool Contains(Operator op)
 
 ### Return Value
 
-bool
-
 True - if operator found; otherwise, false.
 
 ### See Also
 
+* class [Operator](../../../aspose.pdf/operator/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

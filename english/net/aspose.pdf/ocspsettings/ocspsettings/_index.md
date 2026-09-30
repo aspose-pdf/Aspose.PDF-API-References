@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/ocspsettings/ocspsettings/"
 product_version: "26.9.0"
 ---
-## OcspSettings(string) {#constructor}
+## OcspSettings constructor
 
 Initializes a new instance of the [`OcspSettings`](../../../aspose.pdf/ocspsettings/) class.
 
@@ -19,7 +19,7 @@ public OcspSettings(string serverUrl)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| serverUrl | string | The ocsp server url. |
+| serverUrl | String | The ocsp server url. |
 
 ### See Also
 

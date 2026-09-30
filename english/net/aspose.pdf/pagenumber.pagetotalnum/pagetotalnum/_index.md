@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/pagenumber.pagetotalnum/pagetotalnum/"
 product_version: "26.9.0"
 ---
-## PageNumber.PageTotalNum() {#constructor}
+## PageTotalNum constructor
 
 The default constructor.
 
 ```csharp
-public PageNumber.PageTotalNum()
+public PageTotalNum()
 ```
 
 ### See Also

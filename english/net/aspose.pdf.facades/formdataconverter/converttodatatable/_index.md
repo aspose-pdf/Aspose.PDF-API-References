@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.facades/formdataconverter/converttodatatable/"
 product_version: "26.9.0"
 ---
-## ConvertToDataTable(Stream[], [DataType](../../../aspose.pdf.lowcode/datatype/)) {#converttodatatable}
+## FormDataConverter.ConvertToDataTable method
 
 Convert files of strems into table.
 
@@ -24,6 +24,7 @@ public void ConvertToDataTable(Stream[] sourceStreams, DataType sourceType)
 
 ### See Also
 
+* enum [DataType](../../../aspose.pdf.lowcode/datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

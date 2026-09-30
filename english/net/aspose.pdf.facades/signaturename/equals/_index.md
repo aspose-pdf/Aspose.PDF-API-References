@@ -9,21 +9,19 @@ weight: 20
 url: "/net/aspose.pdf.facades/signaturename/equals/"
 product_version: "26.9.0"
 ---
-## Equals(object) {#equals}
+## SignatureName.Equals method
 
 Determines whether this instance and a specified object are equal.
 
 ```csharp
-public bool Equals(object obj)
+public override bool Equals(object obj)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | object | The object to compare with the current instance. |
+| obj | Object | The object to compare with the current instance. |
 
 ### Return Value
-
-bool
 
 True if the specified object is equal to the current instance; otherwise, false.
 

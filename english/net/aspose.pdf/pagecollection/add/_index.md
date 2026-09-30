@@ -23,8 +23,6 @@ public Page Add(Page entity)
 
 ### Return Value
 
-[Page](../../../aspose.pdf/page/)
-
 Added page.
 
 ### See Also
@@ -49,8 +47,6 @@ public Page Add()
 
 ### Return Value
 
-[Page](../../../aspose.pdf/page/)
-
 Added page.
 
 ### See Also
@@ -72,7 +68,7 @@ public void Add(ICollection<Page> pages)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pages | ICollection<Page> | List which contains all pages which must be added. |
+| pages | ICollection`1 | List which contains all pages which must be added. |
 
 ### See Also
 
@@ -96,6 +92,7 @@ public void Add(Page[] pages)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

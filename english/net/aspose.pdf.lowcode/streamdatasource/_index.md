@@ -22,7 +22,7 @@ public sealed class StreamDataSource : IDataSource
 
 | Name | Description |
 | --- | --- |
-| [StreamDataSource](./streamdatasource/#constructor)(*Stream*) | Initializes new stream data source with the specified stream object. |
+| [StreamDataSource](./streamdatasource/)(Stream) | Initializes new stream data source with the specified stream object. |
 
 ## Properties
 

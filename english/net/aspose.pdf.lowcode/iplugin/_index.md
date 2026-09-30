@@ -21,7 +21,7 @@ public interface IPlugin
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(*IPluginOptions*) | Charges a plugin to process with defined options. |
+| [Process](./process/)(IPluginOptions) | Charges a plugin to process with defined options |
 
 ### See Also
 

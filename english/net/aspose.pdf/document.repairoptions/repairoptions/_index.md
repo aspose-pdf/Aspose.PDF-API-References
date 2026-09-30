@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/document.repairoptions/repairoptions/"
 product_version: "26.9.0"
 ---
-## Document.RepairOptions() {#constructor}
+## RepairOptions constructor
 
 The default constructor.
 
 ```csharp
-public Document.RepairOptions()
+public RepairOptions()
 ```
 
 ### See Also

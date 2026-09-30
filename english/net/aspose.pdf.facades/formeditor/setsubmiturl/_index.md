@@ -5,11 +5,11 @@ articleTitle: "SetSubmitUrl"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormEditor method. Sets URL of the button."
 type: docs
-weight: 120
+weight: 70
 url: "/net/aspose.pdf.facades/formeditor/setsubmiturl/"
 product_version: "26.9.0"
 ---
-## SetSubmitUrl(string, string) {#setsubmiturl}
+## FormEditor.SetSubmitUrl method
 
 Sets URL of the button.
 
@@ -19,12 +19,10 @@ public bool SetSubmitUrl(string fieldName, string url)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | Submit button name. |
-| url | string | Fully qualified URL. |
+| fieldName | String | Submit button name. |
+| url | String | Fully qualified URL. |
 
 ### Return Value
-
-bool
 
 true if URL for button was successfully set.
 

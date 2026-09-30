@@ -9,7 +9,7 @@ weight: 120
 url: "/net/aspose.pdf.annotations/annotationcollection/findbyname/"
 product_version: "26.9.0"
 ---
-## FindByName(string) {#findbyname}
+## AnnotationCollection.FindByName method
 
 Returns annotation by its name.
 
@@ -19,11 +19,9 @@ public Annotation FindByName(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Name of the annotation |
+| name | String | Name of the annotation |
 
 ### Return Value
-
-[Annotation](../../../aspose.pdf.annotations/annotation/)
 
 Annotation object if found; otherwise, null.
 

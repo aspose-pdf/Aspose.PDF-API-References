@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf/xmppdfaextensionschema/remove/"
 product_version: "26.9.0"
 ---
-## Remove([XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)) {#remove}
+## XmpPdfAExtensionSchema.Remove method
 
 Removes the object from schema.
 
@@ -23,6 +23,7 @@ public void Remove(XmpPdfAExtensionObject obj)
 
 ### See Also
 
+* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -22,14 +22,14 @@ public sealed class HiddenDataSanitizer
 
 | Name | Description |
 | --- | --- |
-| [HiddenDataSanitizer](./hiddendatasanitizer/#constructor)(*[HiddenDataSanitizationOptions](../../aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/)*) | Provides functionality to sanitize hidden data from a PDF document, ensuring that sensitive or unnecessary. |
+| [HiddenDataSanitizer](./hiddendatasanitizer/)(HiddenDataSanitizationOptions) | Provides functionality to sanitize hidden data from a PDF document, ensuring that sensitive or unnecessary information such as metadata, annotations, JavaScripts, or private content is removed or transformed. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Sanitize](./sanitize/)(*Document*) | Sanitizes a given PDF document by removing or transforming hidden data. |
-| [SanitizeAllToImages](./sanitizealltoimages/)(*Document, int*) | Replaces page content with images and removes other hidden data. |
+| [Sanitize](./sanitize/)(Document) | Sanitizes a given PDF document by removing or transforming hidden data. |
+| static [SanitizeAllToImages](./sanitizealltoimages/)(Document, int) | Replaces page content with images and removes other hidden data. Allows you to remove hidden text with a background color, as well as text hidden under images. Also completely removes all interactive elements. The document is converted to images as is, and then cleared of any remaining hidden data. If you need to clear first and then convert, use the main class method. |
 
 ### See Also
 

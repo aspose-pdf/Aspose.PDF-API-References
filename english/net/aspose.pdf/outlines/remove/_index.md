@@ -9,12 +9,12 @@ weight: 60
 url: "/net/aspose.pdf/outlines/remove/"
 product_version: "26.9.0"
 ---
-## Remove([OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)) {#remove}
+## Outlines.Remove method
 
 Remove outline collection item.
 
 ```csharp
-public bool Remove(OutlineItemCollection item)
+public abstract bool Remove(OutlineItemCollection item)
 ```
 
 | Parameter | Type | Description |
@@ -23,12 +23,11 @@ public bool Remove(OutlineItemCollection item)
 
 ### Return Value
 
-bool
-
 True - if item removed; otherwise, false.
 
 ### See Also
 
+* class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
 * class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

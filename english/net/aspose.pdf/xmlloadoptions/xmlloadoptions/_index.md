@@ -25,27 +25,7 @@ public XmlLoadOptions()
 
 ---
 
-## XmlLoadOptions(string) {#constructor_1}
-
-Creates [`XmlLoadOptions`](../../../aspose.pdf/xmlloadoptions/) object with xsl data.
-
-```csharp
-public XmlLoadOptions(string xslFile)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| xslFile | string | Xsl file to convert xml document into pdf document. |
-
-### See Also
-
-* class [XmlLoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## XmlLoadOptions(Stream) {#constructor_2}
+## XmlLoadOptions(Stream) {#constructor_1}
 
 Creates [`XmlLoadOptions`](../../../aspose.pdf/xmlloadoptions/) object with xsl data.
 
@@ -56,6 +36,26 @@ public XmlLoadOptions(Stream xslStream)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | xslStream | Stream | Xsl stream to convert xml document into pdf document. |
+
+### See Also
+
+* class [XmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## XmlLoadOptions(string) {#constructor_2}
+
+Creates [`XmlLoadOptions`](../../../aspose.pdf/xmlloadoptions/) object with xsl data.
+
+```csharp
+public XmlLoadOptions(string xslFile)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| xslFile | String | Xsl file to convert xml document into pdf document. |
 
 ### See Also
 

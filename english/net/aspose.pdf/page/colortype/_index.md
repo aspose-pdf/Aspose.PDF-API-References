@@ -20,7 +20,7 @@ public ColorType ColorType { get; }
 
 ### See Also
 
-* class [ColorType](../../../aspose.pdf/colortype/)
+* enum [ColorType](../../../aspose.pdf/colortype/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

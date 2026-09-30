@@ -15,7 +15,7 @@ Gets or sets a limit on the number of objects to be returned. Limit can range be
  the default is 20.
 
 ```csharp
-public Nullable<int> Limit { get; set; }
+public int? Limit { get; set; }
 ```
 
 ### See Also

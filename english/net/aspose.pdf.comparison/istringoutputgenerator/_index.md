@@ -21,8 +21,8 @@ public interface IStringOutputGenerator
 
 | Name | Description |
 | --- | --- |
-| [GenerateOutput](./generateoutput/)(*List<DiffOperation>*) | Generates the output based on the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(*List<List<DiffOperation>>*) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(List<DiffOperation>) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(List<List<DiffOperation>>) | Generates the output based on the differences between texts and saves it to a file. |
 
 ### See Also
 

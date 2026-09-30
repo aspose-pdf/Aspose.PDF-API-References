@@ -45,6 +45,7 @@ public OcrTextAbsorber(OcrTextRecognitionOptions options)
 
 ### See Also
 
+* class [OcrTextRecognitionOptions](../../../aspose.pdf.ocr/ocrtextrecognitionoptions/)
 * class [OcrTextAbsorber](../)
 * namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
 * assembly [Aspose.PDF](../../../)

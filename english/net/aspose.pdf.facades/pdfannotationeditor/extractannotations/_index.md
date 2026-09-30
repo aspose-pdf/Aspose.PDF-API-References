@@ -5,7 +5,7 @@ articleTitle: "ExtractAnnotations"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfAnnotationEditor method. Gets the list of annotations of the specified types."
 type: docs
-weight: 250
+weight: 220
 url: "/net/aspose.pdf.facades/pdfannotationeditor/extractannotations/"
 product_version: "26.9.0"
 ---
@@ -19,13 +19,11 @@ public IList<Annotation> ExtractAnnotations(int start, int end, string[] annotTy
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| start | int | Start page from which the annotations will be selected. |
-| end | int | End page to which the annotations will be selected. |
-| annotTypes | string[] | The array of needed annotation types. |
+| start | Int32 | Start page from which the annotations will be selected. |
+| end | Int32 | End page to which the annotations will be selected. |
+| annotTypes | String[] | The array of needed annotation types. |
 
 ### Return Value
-
-[IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)<[Annotation](../../../aspose.pdf.annotations/annotation/)>
 
 Annotations list.
 
@@ -47,18 +45,17 @@ public IList<Annotation> ExtractAnnotations(int start, int end, AnnotationType[]
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| start | int | Start page from which the annotations will be selected. |
-| end | int | End page to which the annotations will be selected. |
+| start | Int32 | Start page from which the annotations will be selected. |
+| end | Int32 | End page to which the annotations will be selected. |
 | annotTypes | AnnotationType[] | The array of needed annotation types. |
 
 ### Return Value
-
-[IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)<[Annotation](../../../aspose.pdf.annotations/annotation/)>
 
 Annotations list.
 
 ### See Also
 
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

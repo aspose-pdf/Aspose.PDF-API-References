@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/decryptionoptions/decryptionoptions/"
 product_version: "26.9.0"
 ---
-## DecryptionOptions(string) {#constructor}
+## DecryptionOptions constructor
 
 Initializes new instance of the [`DecryptionOptions`](../../../aspose.pdf.lowcode/decryptionoptions/) object with default options.
 
@@ -19,7 +19,7 @@ public DecryptionOptions(string ownerPassword)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ownerPassword | string | Owner password. |
+| ownerPassword | String | Owner password. |
 
 ### See Also
 

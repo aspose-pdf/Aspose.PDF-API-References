@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/createembeddingresponse/createembeddingresponse/"
 product_version: "26.9.0"
 ---
-## CreateEmbeddingResponse() {#constructor}
+## CreateEmbeddingResponse constructor
 
 The default constructor.
 

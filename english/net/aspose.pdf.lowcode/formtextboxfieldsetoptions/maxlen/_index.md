@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets/sets the value to determine property MaxLen for modified field (if will be set).
 
 ```csharp
-public Nullable<int> MaxLen { get; set; }
+public int? MaxLen { get; set; }
 ```
 
 ### See Also

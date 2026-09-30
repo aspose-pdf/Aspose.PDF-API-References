@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.text/charinfocollection/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## CharInfoCollection.GetEnumerator method
 
 Returns an enumerator for the entire collection.
 
@@ -18,8 +18,6 @@ public IEnumerator<CharInfo> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[CharInfo](../../../aspose.pdf.text/charinfo/)>
 
 Enumerator object.
 

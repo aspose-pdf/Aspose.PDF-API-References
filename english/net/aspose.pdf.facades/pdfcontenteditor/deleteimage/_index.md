@@ -19,8 +19,8 @@ public void DeleteImage(int pageNumber, int[] index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | int | The number of page on which images must be deleted. |
-| index | int[] | An array repsents images' indexes. |
+| pageNumber | Int32 | The number of page on which images must be deleted. |
+| index | Int32[] | An array repsents images' indexes. |
 
 ### See Also
 

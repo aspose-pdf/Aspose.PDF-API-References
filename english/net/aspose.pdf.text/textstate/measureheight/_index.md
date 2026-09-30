@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf.text/textstate/measureheight/"
 product_version: "26.9.0"
 ---
-## MeasureHeight(char) {#measureheight}
+## TextState.MeasureHeight method
 
 Measures character height.
 
@@ -19,11 +19,9 @@ public double MeasureHeight(char character)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| character | char | Character to measure. |
+| character | Char | Character to measure. |
 
 ### Return Value
-
-double
 
 Height of the character if we could get it from font; otherwise 0.
 

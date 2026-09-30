@@ -19,7 +19,7 @@ public FileIcon Icon { get; set; }
 
 ### See Also
 
-* class [FileIcon](../../../aspose.pdf.annotations/fileicon/)
+* enum [FileIcon](../../../aspose.pdf.annotations/fileicon/)
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -14,20 +14,23 @@ product_version: "26.9.0"
 Creates a link to another PDF document page.
 
 ```csharp
-public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, int destinationPage, Color clr, Enum[] actionName)
+public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
+    int destinationPage, Color clr, Enum[] actionName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | Rectangle | The rectangle for active click. |
-| remotePdf | string | The PDF document which page will be opened. |
-| originalPage | int | The number of original page where rectangle bound with link will be created. |
-| destinationPage | int | The destination page. |
+| remotePdf | String | The PDF document which page will be opened. |
+| originalPage | Int32 | The number of original page where rectangle bound with link will be created. |
+| destinationPage | Int32 | The destination page. |
 | clr | Color | The colour of rectangle for active click. |
 | actionName | Enum[] | The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Color](../../../aspose.pdf/color/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -39,19 +42,22 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 Creates a link to another PDF document page.
 
 ```csharp
-public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, int destinationPage, Color clr)
+public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
+    int destinationPage, Color clr)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | Rectangle | The rectangle for active click. |
-| remotePdf | string | The PDF document which page will be opened. |
-| originalPage | int | The number of original page where rectangle bound with link will be created. |
-| destinationPage | int | The destination page. |
+| remotePdf | String | The PDF document which page will be opened. |
+| originalPage | Int32 | The number of original page where rectangle bound with link will be created. |
+| destinationPage | Int32 | The destination page. |
 | clr | Color | The colour of rectangle for active click. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Color](../../../aspose.pdf/color/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -63,18 +69,20 @@ public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int original
 Creates a link to another PDF document page.
 
 ```csharp
-public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, int destinationPage)
+public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
+    int destinationPage)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | Rectangle | The rectangle for active click. |
-| remotePdf | string | The PDF document which page will be opened. |
-| originalPage | int | The number of original page where rectangle bound with link will be created. |
-| destinationPage | int | The destination page. |
+| remotePdf | String | The PDF document which page will be opened. |
+| originalPage | Int32 | The number of original page where rectangle bound with link will be created. |
+| destinationPage | Int32 | The destination page. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -5,7 +5,7 @@ articleTitle: "LicenseInfo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.LicenseInfo class. Represents a license information."
 type: docs
-weight: 1760
+weight: 1720
 url: "/net/aspose.pdf/licenseinfo/"
 keywords: "LicenseInfo, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"

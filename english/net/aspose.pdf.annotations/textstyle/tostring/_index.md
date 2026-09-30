@@ -9,17 +9,15 @@ weight: 10
 url: "/net/aspose.pdf.annotations/textstyle/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## TextStyle.ToString method
 
 String representation of TextStyle.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String representation.
 

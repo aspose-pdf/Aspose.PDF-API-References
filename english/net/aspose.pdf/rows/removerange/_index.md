@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf/rows/removerange/"
 product_version: "26.9.0"
 ---
-## RemoveRange(int, int) {#removerange}
+## Rows.RemoveRange method
 
 Remove row set from collection.
 
@@ -19,8 +19,8 @@ public void RemoveRange(int index, int count)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | The collection index. |
-| count | int | The rows count. |
+| index | Int32 | The collection index. |
+| count | Int32 | The rows count. |
 
 ### See Also
 

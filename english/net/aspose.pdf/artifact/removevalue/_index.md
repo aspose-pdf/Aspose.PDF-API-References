@@ -9,7 +9,7 @@ weight: 130
 url: "/net/aspose.pdf/artifact/removevalue/"
 product_version: "26.9.0"
 ---
-## RemoveValue(string) {#removevalue}
+## Artifact.RemoveValue method
 
 Remove custom value from the artifact.
 
@@ -19,7 +19,7 @@ public void RemoveValue(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Name of custom value to be removed. |
+| name | String | Name of custom value to be removed. |
 
 ### See Also
 

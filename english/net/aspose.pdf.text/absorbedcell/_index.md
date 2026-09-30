@@ -15,7 +15,7 @@ product_version: "26.9.0"
 Represents cell of table that exist on the page
 
 ```csharp
-public class AbsorbedCell : ITableElement
+public class AbsorbedCell : IComparable<AbsorbedCell>, ITableElement
 ```
 
 ## Properties
@@ -24,14 +24,14 @@ public class AbsorbedCell : ITableElement
 | --- | --- |
 | [BorderInfo](./borderinfo/) { get; } | Return the border information for the cell when the FlowEngine.TableAbsorber.UseFlowEngine property is set to true. |
 | [ColSpan](./colspan/) { get; } | Return the number of columns the cell should span when TableAbsorber.UseFlowEngine property is set to true. |
-| [Rectangle](./rectangle/) { get; } | Gets rectangle that describes position of the cell on page. |
-| [TextFragments](./textfragments/) { get; } | Gets collection of [`TextFragment`](../../aspose.pdf.text/textfragment/) objects that describes text containing in the cell. |
+| [Rectangle](./rectangle/) { get; } | Gets rectangle that describes position of the cell on page |
+| [TextFragments](./textfragments/) { get; } | Gets collection of [`TextFragment`](../../aspose.pdf.text/textfragment/) objects that describes text containing in the cell |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CompareTo](./compareto/)(*AbsorbedCell*) | Compares the current AbsorbedCell object with another AbsorbedCell object and returns an integer that indicates. |
+| [CompareTo](./compareto/)(AbsorbedCell) | Compares the current AbsorbedCell object with another AbsorbedCell object and returns an integer that indicates whether the current object precedes, follows, or occurs in the same position in the sort order as the other object. |
 
 ### See Also
 

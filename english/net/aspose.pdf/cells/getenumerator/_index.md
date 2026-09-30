@@ -5,11 +5,11 @@ articleTitle: "GetEnumerator"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Cells method. Gets collection's enumerator."
 type: docs
-weight: 110
+weight: 100
 url: "/net/aspose.pdf/cells/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## Cells.GetEnumerator method
 
 Gets collection's enumerator.
 
@@ -18,8 +18,6 @@ public IEnumerator<Cell> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[Cell](../../../aspose.pdf/cell/)>
 
 Enumerator object.
 

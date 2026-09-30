@@ -22,7 +22,7 @@ public sealed class FolderFontSource : FontSource
 
 | Name | Description |
 | --- | --- |
-| [FolderFontSource](./folderfontsource/#constructor)(*string*) | Initializes a new instance of [`FolderFontSource`](../../aspose.pdf.text/folderfontsource/) class. |
+| [FolderFontSource](./folderfontsource/)(string) | Initializes a new instance of [`FolderFontSource`](../../aspose.pdf.text/folderfontsource/) class. |
 
 ## Properties
 
@@ -34,7 +34,7 @@ public sealed class FolderFontSource : FontSource
 
 | Name | Description |
 | --- | --- |
-| [Equals](./equals/)(*object*) | Check if folder font source objects are equal. |
+| override [Equals](./equals/)(object) | Check if folder font source objects are equal. |
 
 ### See Also
 

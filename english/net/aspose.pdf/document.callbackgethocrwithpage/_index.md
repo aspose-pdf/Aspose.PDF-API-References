@@ -14,8 +14,17 @@ product_version: "26.9.0"
 
 
 ```csharp
-public delegate void CallBackGetHocrWithPage()
+public delegate string CallBackGetHocrWithPage(Image img, Page page);
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| img | Image | The hocr image. |
+| page | Page | Page that is being processed. |
+
+### Return Value
+
+The hocr text.
 
 ### See Also
 

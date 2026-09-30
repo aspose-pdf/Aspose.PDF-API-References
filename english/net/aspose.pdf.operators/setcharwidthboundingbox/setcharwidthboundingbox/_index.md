@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/setcharwidthboundingbox/setcharwidthboundingbox/"
 product_version: "26.9.0"
 ---
-## SetCharWidthBoundingBox(double, double, double, double, double, double) {#constructor}
+## SetCharWidthBoundingBox constructor
 
 Initializes SetCharWidthBoundingBox operator.
 
@@ -19,12 +19,12 @@ public SetCharWidthBoundingBox(double wx, double wy, double llx, double lly, dou
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| wx | double | Denotes the horizontal displacement in the glyph coordinate. |
-| wy | double | Denotes the vertical displacement in the glyph coordinate. Shall be 0. |
-| llx | double | Denotes X coordinate of the lower-left corner. |
-| lly | double | Denotes Y coordinate of the lower-left corner. |
-| urx | double | Denotes X coordinate of upper-right corner. |
-| ury | double | Denotes Y coordinate of upper-right corner. |
+| wx | Double | Denotes the horizontal displacement in the glyph coordinate. |
+| wy | Double | Denotes the vertical displacement in the glyph coordinate. Shall be 0. |
+| llx | Double | Denotes X coordinate of the lower-left corner. |
+| lly | Double | Denotes Y coordinate of the lower-left corner. |
+| urx | Double | Denotes X coordinate of upper-right corner. |
+| ury | Double | Denotes Y coordinate of upper-right corner. |
 
 ### See Also
 

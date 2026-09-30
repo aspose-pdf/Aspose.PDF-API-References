@@ -19,11 +19,9 @@ public Option get(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Option index. Index should be in range [1..n] where n is options count. |
+| index | Int32 | Option index. Index should be in range [1..n] where n is options count. |
 
 ### Return Value
-
-[Option](../../../aspose.pdf.forms/option/)
 
 Retreived option.
 
@@ -46,11 +44,9 @@ public Option get(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Option name. |
+| name | String | Option name. |
 
 ### Return Value
-
-[Option](../../../aspose.pdf.forms/option/)
 
 Retreived option.
 

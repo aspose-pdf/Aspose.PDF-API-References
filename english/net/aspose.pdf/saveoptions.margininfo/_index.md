@@ -5,7 +5,7 @@ articleTitle: "SaveOptions.MarginInfo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.SaveOptions.MarginInfo class. Instance of this class represents information about page margin That can be drown on some result document."
 type: docs
-weight: 2800
+weight: 2760
 url: "/net/aspose.pdf/saveoptions.margininfo/"
 keywords: "SaveOptions.MarginInfo, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -23,17 +23,17 @@ public class MarginInfo
 
 | Name | Description |
 | --- | --- |
-| [SaveOptions.MarginInfo](./margininfo/#constructor) | Creates instance of MarginInfo. |
-| [SaveOptions.MarginInfo](./margininfo/#constructor_1)(*MarginPartStyle*) | Initializes a new instance of the SaveOptions.MarginInfo class. |
+| [MarginInfo](./margininfo/#constructor)() | Creates instance of MarginInfo |
+| [MarginInfo](./margininfo/#constructor_1)(MarginPartStyle) | Creates instance of MarginInfo class and initializes all elements of page margin(Top, Left, Right, Bottom) with attributes copied from supplied margin style |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [BottomMarginIfAny](./bottommarginifany/) | Represents bottom page margin(if any). |
-| [LeftMarginIfAny](./leftmarginifany/) | Represents left page margin(if any). |
-| [RightMarginIfAny](./rightmarginifany/) | Represents right page margin(if any). |
-| [TopMarginIfAny](./topmarginifany/) | Represents top page margin(if any). |
+| [BottomMarginIfAny](./bottommarginifany/) | Represents bottom page margin(if any) |
+| [LeftMarginIfAny](./leftmarginifany/) | Represents left page margin(if any) |
+| [RightMarginIfAny](./rightmarginifany/) | Represents right page margin(if any) |
+| [TopMarginIfAny](./topmarginifany/) | Represents top page margin(if any) |
 
 ### See Also
 

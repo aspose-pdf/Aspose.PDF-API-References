@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Gets annotation type.
 
 ```csharp
-public AnnotationType AnnotationType { get; }
+public override AnnotationType AnnotationType { get; }
 ```
 
 ### See Also
 
-* class [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

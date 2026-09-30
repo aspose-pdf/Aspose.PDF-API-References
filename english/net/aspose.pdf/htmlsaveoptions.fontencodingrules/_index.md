@@ -5,7 +5,7 @@ articleTitle: "HtmlSaveOptions.FontEncodingRules"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.HtmlSaveOptions.FontEncodingRules enum. This enumeration defines rules which tune encoding logic"
 type: docs
-weight: 1250
+weight: 1240
 url: "/net/aspose.pdf/htmlsaveoptions.fontencodingrules/"
 product_version: "26.9.0"
 ---
@@ -14,7 +14,7 @@ product_version: "26.9.0"
 This enumeration defines rules which tune encoding logic
 
 ```csharp
-public enum FontEncodingRules
+public enum FontEncodingRules : byte
 ```
 
 ### Values

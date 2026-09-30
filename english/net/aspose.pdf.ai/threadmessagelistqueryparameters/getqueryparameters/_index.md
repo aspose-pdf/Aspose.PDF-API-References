@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.ai/threadmessagelistqueryparameters/getqueryparameters/"
 product_version: "26.9.0"
 ---
-## GetQueryParameters() {#getqueryparameters}
+## ThreadMessageListQueryParameters.GetQueryParameters method
 
 Gets the query parameters for listing thread messages.
 
@@ -18,8 +18,6 @@ public string GetQueryParameters()
 ```
 
 ### Return Value
-
-string
 
 The query parameters string.
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/gsave/gsave/"
 product_version: "26.9.0"
 ---
-## GSave() {#constructor}
+## GSave constructor
 
 Initializes q operator.
 

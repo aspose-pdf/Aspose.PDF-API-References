@@ -5,25 +5,23 @@ articleTitle: "GetSignatureNames"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileSignature method. Gets the names of all not empty signatures."
 type: docs
-weight: 200
+weight: 160
 url: "/net/aspose.pdf.facades/pdffilesignature/getsignaturenames/"
 product_version: "26.9.0"
 ---
-## GetSignatureNames(bool) {#getsignaturenames}
+## PdfFileSignature.GetSignatureNames method
 
 Gets the names of all not empty signatures.
 
 ```csharp
-public IList<SignatureName> GetSignatureNames(bool onlyActive)
+public IList<SignatureName> GetSignatureNames(bool onlyActive = true)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| onlyActive | bool | if true, return only active signatures; otherwise, return all signatures. |
+| onlyActive | Boolean | if true, return only active signatures; otherwise, return all signatures. |
 
 ### Return Value
-
-[IList](https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1)<[SignatureName](../../../aspose.pdf.facades/signaturename/)>
 
 Return an IList&lt;SignatureName&gt;.
 

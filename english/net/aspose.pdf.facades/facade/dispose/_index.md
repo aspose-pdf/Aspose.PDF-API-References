@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.facades/facade/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## Facade.Dispose method
 
 Disposes the facade.
 

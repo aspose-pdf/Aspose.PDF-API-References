@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/outlinecollection/add/"
 product_version: "26.9.0"
 ---
-## Add([OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)) {#add}
+## OutlineCollection.Add method
 
 Adds outline item to collection.
 
 ```csharp
-public void Add(OutlineItemCollection outline)
+public override void Add(OutlineItemCollection outline)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void Add(OutlineItemCollection outline)
 
 ### See Also
 
+* class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
 * class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

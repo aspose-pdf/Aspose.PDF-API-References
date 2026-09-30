@@ -5,7 +5,7 @@ articleTitle: "INBOX"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfPageEditor field. Inward Box"
 type: docs
-weight: 290
+weight: 270
 url: "/net/aspose.pdf.facades/pdfpageeditor/inbox/"
 product_version: "26.9.0"
 ---

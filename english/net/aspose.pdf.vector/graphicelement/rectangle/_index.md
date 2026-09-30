@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets the bounding rectangle of the [`GraphicElement`](../../../aspose.pdf.vector/graphicelement/).
 
 ```csharp
-public Rectangle Rectangle { get; }
+public abstract Rectangle Rectangle { get; }
 ```
 
 ### See Also

@@ -23,6 +23,7 @@ public ConcatenateMatrix(Matrix m)
 
 ### See Also
 
+* class [Matrix](../../../aspose.pdf/matrix/)
 * class [ConcatenateMatrix](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
@@ -39,12 +40,12 @@ public ConcatenateMatrix(double a, double b, double c, double d, double e, doubl
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | double | A coefficient |
-| b | double | B coefficient |
-| c | double | C coefficient |
-| d | double | D coefficient |
-| e | double | E coefficient |
-| f | double | F coefficient |
+| a | Double | A coefficient |
+| b | Double | B coefficient |
+| c | Double | C coefficient |
+| d | Double | D coefficient |
+| e | Double | E coefficient |
+| f | Double | F coefficient |
 
 ### See Also
 

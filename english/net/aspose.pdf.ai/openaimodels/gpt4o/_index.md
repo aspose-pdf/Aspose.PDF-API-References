@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets the identifier for the GPT-4o model.
 
 ```csharp
-public string Gpt4O { get; }
+public static string Gpt4O { get; }
 ```
 
 ### See Also

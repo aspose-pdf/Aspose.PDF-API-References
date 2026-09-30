@@ -15,7 +15,7 @@ Gets or sets how many chat completion choices to generate for each input message
  tokens across all of the choices. Keep n as 1 to minimize costs.
 
 ```csharp
-public Nullable<int> NumberOfChoices { get; set; }
+public int? NumberOfChoices { get; set; }
 ```
 
 ### See Also

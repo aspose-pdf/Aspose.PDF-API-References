@@ -21,8 +21,8 @@ public interface IDocumentFontUtilities
 
 | Name | Description |
 | --- | --- |
-| [GetAllFonts](./getallfonts/)() | Returns all fonts from document. |
-| [SubsetFonts](./subsetfonts/)(*FontSubsetStrategy*) | Subsets all fonts in document. |
+| [GetAllFonts](./getallfonts/)() | Returns all fonts from document |
+| [SubsetFonts](./subsetfonts/)(FontSubsetStrategy) | Subsets all fonts in document |
 
 ### See Also
 

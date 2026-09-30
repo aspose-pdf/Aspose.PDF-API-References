@@ -22,7 +22,7 @@ public class Usage
 
 | Name | Description |
 | --- | --- |
-| [Usage](./usage/#constructor) | The default constructor. |
+| [Usage](./usage/)() | The default constructor. |
 
 ## Properties
 

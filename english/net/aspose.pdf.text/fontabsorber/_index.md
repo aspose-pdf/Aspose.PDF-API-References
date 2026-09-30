@@ -23,7 +23,7 @@ public class FontAbsorber
 
 | Name | Description |
 | --- | --- |
-| [FontAbsorber](./fontabsorber/#constructor) | The default constructor. |
+| [FontAbsorber](./fontabsorber/)() | The default constructor. |
 
 ## Properties
 
@@ -35,8 +35,8 @@ public class FontAbsorber
 
 | Name | Description |
 | --- | --- |
-| [Visit](./visit/)(*Document*) | Performs search on the specified document. |
-| [Visit](./visit/)(*Document, int, int*) | Performs search in the specified range of pages of the document. |
+| virtual [Visit](./visit/)(Document) | Performs search on the specified document. |
+| virtual [Visit](./visit/)(Document, int, int) | Performs search in the specified range of pages of the document. |
 
 ### See Also
 

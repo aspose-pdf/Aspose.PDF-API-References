@@ -5,7 +5,7 @@ articleTitle: "PdfASymbolicFontEncodingStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.PdfASymbolicFontEncodingStrategy class. This class describes rules which can be used to tune process of copying encoding data for cases when TrueT..."
 type: docs
-weight: 2400
+weight: 2360
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy/"
 keywords: "PdfASymbolicFontEncodingStrategy, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -64,16 +64,22 @@ public class PdfASymbolicFontEncodingStrategy
 
 | Name | Description |
 | --- | --- |
-| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/#constructor) | Constructor. Sets default subtable (mac 1,0). |
-| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/#constructor_1)(*Queue<QueueItem>*) | Initializes a new instance of the PdfASymbolicFontEncodingStrategy class. |
-| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/#constructor_2)(*CMapEncodingTableType*) | Initializes a new instance of the PdfASymbolicFontEncodingStrategy class. |
+| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/#constructor)() | Constructor. Sets default subtable (mac 1,0) |
+| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/#constructor_1)(CMapEncodingTableType) | Constructor |
+| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/#constructor_2)(Queue<QueueItem>) | Constructor |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [CmapEncodingTablesPriorityQueue](./cmapencodingtablespriorityqueue/) { get; set; } | Specifies queue of encoding subtables to process. |
-| [PreferredCmapEncodingTable](./preferredcmapencodingtable/) { get; set; } | Specifies subtable which will be used in precedence to mac subtable(1,0). Value 'MacTable' from. |
+| [PreferredCmapEncodingTable](./preferredcmapencodingtable/) { get; set; } | Specifies subtable which will be used in precedence to mac subtable(1,0). Value 'MacTable' from enumeration `CMapEncodingTableType` has no sense in this case. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| class [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem) | Specifies encoding subtable. Each encoding subtable has unique combination of parameters (PlatformID, PlatformSpecificId). Enumeration `CMapEncodingTableType` and property `CMapEncodingTable` were implemented to make easier set of encoding subtable needed. |
 
 ### See Also
 

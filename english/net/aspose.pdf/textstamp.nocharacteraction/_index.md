@@ -5,7 +5,7 @@ articleTitle: "TextStamp.NoCharacterAction"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.TextStamp.NoCharacterAction enum. Action to perform if font does not contain required character."
 type: docs
-weight: 3040
+weight: 3000
 url: "/net/aspose.pdf/textstamp.nocharacteraction/"
 product_version: "26.9.0"
 ---

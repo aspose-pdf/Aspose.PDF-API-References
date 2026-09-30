@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/crashreportoptions/crashreportoptions/"
 product_version: "26.9.0"
 ---
-## CrashReportOptions(Exception) {#constructor}
+## CrashReportOptions constructor
 
 Creates CrashReportOptions with default parameters.
 

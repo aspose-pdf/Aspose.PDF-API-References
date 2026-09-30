@@ -5,7 +5,7 @@ articleTitle: "TextProperties"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.TextProperties class. Represents text properties such as: text size, color, style etc."
 type: docs
-weight: 650
+weight: 640
 url: "/net/aspose.pdf.facades/textproperties/"
 keywords: "TextProperties, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public sealed class TextProperties
 
 | Name | Description |
 | --- | --- |
-| [TextProperties](./textproperties/#constructor)(*double*) | Creates [`TextProperties`](../../aspose.pdf.facades/textproperties/) object for the specified text size. |
+| [TextProperties](./textproperties/)(double) | Creates [`TextProperties`](../../aspose.pdf.facades/textproperties/) object for the specified text size |
 
 ## Properties
 

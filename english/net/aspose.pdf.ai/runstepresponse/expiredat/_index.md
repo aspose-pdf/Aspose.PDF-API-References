@@ -15,7 +15,7 @@ Gets or sets the Unix timestamp (in seconds) for when the run step expired. A st
  parent run is expired.
 
 ```csharp
-public Nullable<long> ExpiredAt { get; set; }
+public long? ExpiredAt { get; set; }
 ```
 
 ### See Also

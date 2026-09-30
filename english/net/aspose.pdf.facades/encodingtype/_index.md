@@ -5,7 +5,7 @@ articleTitle: "EncodingType"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.EncodingType enum. Enumerates encoding types of the text using."
 type: docs
-weight: 130
+weight: 120
 url: "/net/aspose.pdf.facades/encodingtype/"
 product_version: "26.9.0"
 ---

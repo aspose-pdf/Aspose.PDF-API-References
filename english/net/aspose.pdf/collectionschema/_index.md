@@ -29,8 +29,8 @@ public class CollectionSchema
 
 | Name | Description |
 | --- | --- |
-| [GetCollectionField](./getcollectionfield/)(*string*) | Gets a collection field by name. |
-| [HasName](./hasname/)(*string*) | Determines whether the specified name exists in the schema. |
+| [GetCollectionField](./getcollectionfield/)(string) | Gets a collection field by name. |
+| [HasName](./hasname/)(string) | Determines whether the specified name exists in the schema. |
 
 ### See Also
 

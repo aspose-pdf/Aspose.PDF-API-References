@@ -9,18 +9,18 @@ weight: 50
 url: "/net/aspose.pdf/collectionitem/trygetdatetimevalue/"
 product_version: "26.9.0"
 ---
-## TryGetDateTimeValue(string, Value<DateTime>) {#trygetdatetimevalue}
+## CollectionItem.TryGetDateTimeValue method
 
 
 
 ```csharp
-public bool TryGetDateTimeValue(string name, Value<DateTime> value)
+public bool TryGetDateTimeValue(string name, out Value<DateTime> value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string |  |
-| value | Value<DateTime> |  |
+| name | String |  |
+| value | Value`1& |  |
 
 ### Return Value
 

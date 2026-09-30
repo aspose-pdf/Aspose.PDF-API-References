@@ -20,7 +20,6 @@ public static readonly AttributeOwnerStandard Oeb_100;
 ### See Also
 
 * class [AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
-* class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

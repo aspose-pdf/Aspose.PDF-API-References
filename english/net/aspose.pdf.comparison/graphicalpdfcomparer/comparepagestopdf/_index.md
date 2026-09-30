@@ -21,7 +21,7 @@ public void ComparePagesToPdf(Page page1, Page page2, string resultPdfPath)
 | --- | --- | --- |
 | page1 | Page | The first page. |
 | page2 | Page | The second page. |
-| resultPdfPath | string | The path to target pdf file. |
+| resultPdfPath | String | The path to target pdf file. |
 
 ### Exceptions
 
@@ -32,6 +32,7 @@ public void ComparePagesToPdf(Page page1, Page page2, string resultPdfPath)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
@@ -60,6 +61,8 @@ public void ComparePagesToPdf(Page page1, Page page2, Document pdfDocument)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Document](../../../aspose.pdf/document/)
 * class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

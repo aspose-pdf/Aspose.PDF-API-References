@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Sets background color of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object
 
 ```csharp
-public Color BackgroundColor { get; set; }
+public override Color BackgroundColor { get; set; }
 ```
 
 ### See Also

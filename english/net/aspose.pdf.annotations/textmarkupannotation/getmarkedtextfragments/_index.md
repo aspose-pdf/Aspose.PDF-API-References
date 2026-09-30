@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtextfragments/"
 product_version: "26.9.0"
 ---
-## GetMarkedTextFragments() {#getmarkedtextfragments}
+## TextMarkupAnnotation.GetMarkedTextFragments method
 
 Gets text under markup annotation as [`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/).
 
@@ -18,8 +18,6 @@ public TextFragmentCollection GetMarkedTextFragments()
 ```
 
 ### Return Value
-
-[TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
 
 [`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/) containing [`TextFragment`](../../../aspose.pdf.text/textfragment/)s that is under markup annotation.
 

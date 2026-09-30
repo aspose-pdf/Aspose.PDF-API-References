@@ -22,7 +22,7 @@ public class StreamSaveTarget : ISaveTarget
 
 | Name | Description |
 | --- | --- |
-| [StreamSaveTarget](./streamsavetarget/#constructor)(*Stream*) | Initializes new stream save target. |
+| [StreamSaveTarget](./streamsavetarget/)(Stream) | Initializes new stream save target. |
 
 ## Properties
 

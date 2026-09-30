@@ -17,6 +17,10 @@ Value is unsupported/unknown and raw XML code is provided.
 public bool IsRaw { get; }
 ```
 
+### Return Value
+
+True if value returned as raw data.
+
 ### See Also
 
 * class [XmpValue](../)

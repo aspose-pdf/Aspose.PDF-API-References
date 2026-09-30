@@ -30,6 +30,7 @@ public void Visit(Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [OcrTextAbsorber](../)
 * namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
 * assembly [Aspose.PDF](../../../)
@@ -57,6 +58,7 @@ public void Visit(Page page)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [OcrTextAbsorber](../)
 * namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
 * assembly [Aspose.PDF](../../../)

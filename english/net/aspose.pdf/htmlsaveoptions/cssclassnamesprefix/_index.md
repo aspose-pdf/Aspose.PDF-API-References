@@ -5,7 +5,7 @@ articleTitle: "CssClassNamesPrefix"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "HtmlSaveOptions field. When PDFtoHTML converter generates result CSSs, CSS class names (something like \".stl_01 {}\" ... \".stl_NN {}) are generated and used i..."
 type: docs
-weight: 430
+weight: 420
 url: "/net/aspose.pdf/htmlsaveoptions/cssclassnamesprefix/"
 product_version: "26.9.0"
 ---

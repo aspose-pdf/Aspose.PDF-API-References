@@ -9,23 +9,26 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/encryptionoptions/encryptionoptions/"
 product_version: "26.9.0"
 ---
-## EncryptionOptions(string, string, [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/), [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)) {#constructor}
+## EncryptionOptions constructor
 
 Initializes new instance of the [`EncryptionOptions`](../../../aspose.pdf.lowcode/encryptionoptions/) object with default options.
 
 ```csharp
-public EncryptionOptions(string ownerPassword, string userPassword, DocumentPrivilege documentPrivilege, CryptoAlgorithm cryptoAlgorithm)
+public EncryptionOptions(string ownerPassword, string userPassword, 
+    DocumentPrivilege documentPrivilege, CryptoAlgorithm cryptoAlgorithm = CryptoAlgorithm.AESx256)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ownerPassword | string | Owner password. |
-| userPassword | string | User password. |
+| ownerPassword | String | Owner password. |
+| userPassword | String | User password. |
 | documentPrivilege | DocumentPrivilege | Document permissions. |
 | cryptoAlgorithm | CryptoAlgorithm | Cryptographic algorithm. |
 
 ### See Also
 
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* enum [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
 * class [EncryptionOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

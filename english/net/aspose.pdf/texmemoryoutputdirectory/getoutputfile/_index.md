@@ -3,28 +3,28 @@ title: "TeXMemoryOutputDirectory.GetOutputFile"
 linktitle: "GetOutputFile"
 articleTitle: "GetOutputFile"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TeXMemoryOutputDirectory method."
+description: "TeXMemoryOutputDirectory method. Returns the stream to write to."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/texmemoryoutputdirectory/getoutputfile/"
 product_version: "26.9.0"
 ---
-## GetOutputFile(string, string) {#getoutputfile}
+## TeXMemoryOutputDirectory.GetOutputFile method
 
-
+Returns the stream to write to.
 
 ```csharp
-public Stream GetOutputFile(string fileName, string fullName)
+public Stream GetOutputFile(string fileName, out string fullName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | string |  |
-| fullName | string |  |
+| fileName | String | The file name. |
+| fullName | String& | The full file name. |
 
 ### Return Value
 
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
+The stream.
 
 ### See Also
 

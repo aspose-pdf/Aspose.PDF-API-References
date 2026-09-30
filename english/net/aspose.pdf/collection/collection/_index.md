@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/collection/collection/"
 product_version: "26.9.0"
 ---
-## Collection() {#constructor}
+## Collection constructor
 
 Initializes new Collection object.
 

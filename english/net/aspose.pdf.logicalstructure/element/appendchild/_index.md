@@ -9,22 +9,20 @@ weight: 20
 url: "/net/aspose.pdf.logicalstructure/element/appendchild/"
 product_version: "26.9.0"
 ---
-## AppendChild([Element](../../../aspose.pdf.structure/element/), bool) {#appendchild}
+## Element.AppendChild method
 
 Append [`Element`](../../../aspose.pdf.structure/element/) to collection of children.
 
 ```csharp
-public Element AppendChild(Element element, bool checkIfCanBeAppended)
+public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | element | Element | <see cref="T:/Aspose.Pdf.LogicalStructure.Element" /> object to add. |
-| checkIfCanBeAppended | bool | Check if can be appended. |
+| checkIfCanBeAppended | Boolean | Check if can be appended. |
 
 ### Return Value
-
-[Element](../../../aspose.pdf.structure/element/)
 
 [`Element`](../../../aspose.pdf.structure/element/) which has been added.
 
@@ -37,7 +35,6 @@ public Element AppendChild(Element element, bool checkIfCanBeAppended)
 ### See Also
 
 * class [Element](../../../aspose.pdf.structure/element/)
-* class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

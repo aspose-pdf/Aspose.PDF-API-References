@@ -9,7 +9,7 @@ weight: 120
 url: "/net/aspose.pdf.logicalstructure/structureattribute/setcolorvalue/"
 product_version: "26.9.0"
 ---
-## SetColorValue([Color](../../../aspose.pdf/color/)) {#setcolorvalue}
+## StructureAttribute.SetColorValue method
 
 Sets Value Color.
 
@@ -23,6 +23,7 @@ public void SetColorValue(Color color)
 
 ### See Also
 
+* class [Color](../../../aspose.pdf/color/)
 * class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

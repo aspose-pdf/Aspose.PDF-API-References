@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/ofdloadoptions/ofdloadoptions/"
 product_version: "26.9.0"
 ---
-## OfdLoadOptions() {#constructor}
+## OfdLoadOptions constructor
 
 The default constructor.
 

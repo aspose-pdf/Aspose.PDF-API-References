@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## DictionaryEditor.Clear method
 
 Removes all items from the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/).
 

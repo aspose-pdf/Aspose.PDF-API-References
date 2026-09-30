@@ -19,12 +19,10 @@ public bool MakeBooklet(string inputFile, string outputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Input pdf file path and name. |
-| outputFile | string | Output pdf file path and name. |
+| inputFile | String | Input pdf file path and name. |
+| outputFile | String | Output pdf file path and name. |
 
 ### Return Value
-
-bool
 
 boolean - True for success, or false.
 
@@ -51,8 +49,6 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream)
 
 ### Return Value
 
-bool
-
 True if operation was succeeded.
 
 ### See Also
@@ -73,18 +69,17 @@ public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Input pdf file path and name. |
-| outputFile | string | Output pdf file path and name. |
+| inputFile | String | Input pdf file path and name. |
+| outputFile | String | Output pdf file path and name. |
 | pageSize | PageSize | The page size of the output pdf file. |
 
 ### Return Value
-
-bool
 
 True if operation is succeeded.
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -107,12 +102,11 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 
 ### Return Value
 
-bool
-
 True if operation was succeeded.
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -129,14 +123,12 @@ public bool MakeBooklet(string inputFile, string outputFile, int[] leftPages, in
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | The input file. |
-| outputFile | string | Output pdf file path and name. |
-| leftPages | int[] | The left pages of the booklet. |
-| rightPages | int[] | The right pages of the booklet. |
+| inputFile | String | The input file. |
+| outputFile | String | Output pdf file path and name. |
+| leftPages | Int32[] | The left pages of the booklet. |
+| rightPages | Int32[] | The right pages of the booklet. |
 
 ### Return Value
-
-bool
 
 boolean - True for success, or false.
 
@@ -160,12 +152,10 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages
 | --- | --- | --- |
 | inputStream | Stream | The input stream. |
 | outputStream | Stream | output pdf stream. |
-| leftPages | int[] | The left pages. |
-| rightPages | int[] | The right pages. |
+| leftPages | Int32[] | The left pages. |
+| rightPages | Int32[] | The right pages. |
 
 ### Return Value
-
-bool
 
 boolean - True for success, or false.
 
@@ -182,25 +172,25 @@ boolean - True for success, or false.
 Makes customized booklet from the firstInputFile to outputFile.
 
 ```csharp
-public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, int[] rightPages)
+public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, 
+    int[] rightPages)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | The input file. |
-| outputFile | string | Output pdf file path and name. |
+| inputFile | String | The input file. |
+| outputFile | String | Output pdf file path and name. |
 | pageSize | PageSize | The page size of the output pdf file. |
-| leftPages | int[] | The left pages. |
-| rightPages | int[] | The right pages. |
+| leftPages | Int32[] | The left pages. |
+| rightPages | Int32[] | The right pages. |
 
 ### Return Value
-
-bool
 
 boolean - True for success, or false.
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -212,7 +202,8 @@ boolean - True for success, or false.
 Makes booklet from the firstInputStream to outputStream.
 
 ```csharp
-public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize, int[] leftPages, int[] rightPages)
+public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize, 
+    int[] leftPages, int[] rightPages)
 ```
 
 | Parameter | Type | Description |
@@ -220,17 +211,16 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 | inputStream | Stream | The input stream. |
 | outputStream | Stream | output pdf stream. |
 | pageSize | PageSize | The page size of the output pdf file. |
-| leftPages | int[] | The left pages. |
-| rightPages | int[] | The right pages. |
+| leftPages | Int32[] | The left pages. |
+| rightPages | Int32[] | The right pages. |
 
 ### Return Value
-
-bool
 
 boolean - True for success, or false.
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

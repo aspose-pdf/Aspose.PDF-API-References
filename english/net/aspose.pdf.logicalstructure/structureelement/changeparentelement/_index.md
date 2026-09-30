@@ -9,22 +9,23 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/structureelement/changeparentelement/"
 product_version: "26.9.0"
 ---
-## ChangeParentElement([StructureElement](../../../aspose.pdf.logicalstructure/structureelement/), bool) {#changeparentelement}
+## StructureElement.ChangeParentElement method
 
 Change parent element for current structure element
 
 ```csharp
-public void ChangeParentElement(StructureElement newParentElement, bool checkIfParentCanBeChanged)
+public void ChangeParentElement(StructureElement newParentElement, 
+    bool checkIfParentCanBeChanged = true)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | newParentElement | StructureElement | New parent structure element |
-| checkIfParentCanBeChanged | bool | Check if parent be changed. |
+| checkIfParentCanBeChanged | Boolean | Check if parent be changed. |
 
 ### See Also
 
-* class [StructureElement](../)
+* class [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

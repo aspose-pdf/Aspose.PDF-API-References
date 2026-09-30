@@ -9,7 +9,7 @@ weight: 960
 url: "/net/aspose.pdf/document/check/"
 product_version: "26.9.0"
 ---
-## Check(bool) {#check}
+## Document.Check method
 
 Validates document.
 
@@ -19,11 +19,9 @@ public bool Check(bool doRepair)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doRepair | bool | If true found issues will be repaired. |
+| doRepair | Boolean | If true found issues will be repaired. |
 
 ### Return Value
-
-bool
 
 True - if document repaired; otherwise, false.
 

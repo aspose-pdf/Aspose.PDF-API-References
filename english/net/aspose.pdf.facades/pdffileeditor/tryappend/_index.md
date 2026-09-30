@@ -18,20 +18,19 @@ The TryAppend method is like the Append method, except the TryAppend
  method does not throw an exception if the operation fails.
 
 ```csharp
-public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, int endPage, Stream outputStream)
+public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
+    Stream outputStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Input Pdf stream. |
 | portStreams | Stream[] | Documents to copy pages from. |
-| startPage | int | Page starts in portStreams documents. |
-| endPage | int | Page ends in portStreams documents . |
+| startPage | Int32 | Page starts in portStreams documents. |
+| endPage | Int32 | Page ends in portStreams documents . |
 | outputStream | Stream | Output Pdf stream. |
 
 ### Return Value
-
-bool
 
 True for success, or false.
 
@@ -52,20 +51,19 @@ The TryAppend method is like the Append method, except the TryAppend
  method does not throw an exception if the operation fails.
 
 ```csharp
-public bool TryAppend(string inputFile, string[] portFiles, int startPage, int endPage, string outputFile)
+public bool TryAppend(string inputFile, string[] portFiles, int startPage, int endPage, 
+    string outputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Input Pdf file. |
-| portFiles | string[] | Documents to copy pages from. |
-| startPage | int | Page starts in portFiles documents. |
-| endPage | int | Page ends in portFiles documents . |
-| outputFile | string | Output Pdf document. |
+| inputFile | String | Input Pdf file. |
+| portFiles | String[] | Documents to copy pages from. |
+| startPage | Int32 | Page starts in portFiles documents. |
+| endPage | Int32 | Page ends in portFiles documents . |
+| outputFile | String | Output Pdf document. |
 
 ### Return Value
-
-bool
 
 true if operation completed successfully; otherwise, false.
 

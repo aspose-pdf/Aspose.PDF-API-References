@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/fillstroke/fillstroke/"
 product_version: "26.9.0"
 ---
-## FillStroke() {#constructor}
+## FillStroke constructor
 
 Initializes operator.
 

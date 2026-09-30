@@ -9,23 +9,23 @@ weight: 130
 url: "/net/aspose.pdf.ai/openaiclient/modifyvectorstoreasync/"
 product_version: "26.9.0"
 ---
-## ModifyVectorStoreAsync(string, [VectorStoreModifyRequest](../../../aspose.pdf.ai/vectorstoremodifyrequest/), Nullable<CancellationToken>) {#modifyvectorstoreasync}
+## OpenAIClient.ModifyVectorStoreAsync method
 
 Modifies an existing vector store asynchronously.
 
 ```csharp
-public Task<VectorStoreResponse> ModifyVectorStoreAsync(string vectorStoreId, VectorStoreModifyRequest vectorStoreModifyRequest, Nullable<CancellationToken> cancellationToken)
+public Task<VectorStoreResponse> ModifyVectorStoreAsync(string vectorStoreId, 
+    VectorStoreModifyRequest vectorStoreModifyRequest, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| vectorStoreId | string | The ID of the vector store to modify. |
+| vectorStoreId | String | The ID of the vector store to modify. |
 | vectorStoreModifyRequest | VectorStoreModifyRequest | The request object containing modification details. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[VectorStoreResponse](../../../aspose.pdf.ai/vectorstoreresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the response from the vector store modification.
 
@@ -37,6 +37,7 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
+* class [VectorStoreModifyRequest](../../../aspose.pdf.ai/vectorstoremodifyrequest/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

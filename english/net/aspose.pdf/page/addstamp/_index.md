@@ -9,7 +9,7 @@ weight: 160
 url: "/net/aspose.pdf/page/addstamp/"
 product_version: "26.9.0"
 ---
-## AddStamp([Stamp](../../../aspose.pdf.facades/stamp/)) {#addstamp}
+## Page.AddStamp method
 
 Put stamp into page. Stamp can be page number, image or simple text, e.g. some logo.
 
@@ -25,6 +25,7 @@ public void AddStamp(Stamp stamp)
 
 ### See Also
 
+* class [Stamp](../../../aspose.pdf.facades/stamp/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

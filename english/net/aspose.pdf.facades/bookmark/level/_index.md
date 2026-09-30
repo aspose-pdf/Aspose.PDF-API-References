@@ -5,7 +5,7 @@ articleTitle: "Level"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Bookmark property. Gets or sets bookmark's hierarchy level."
 type: docs
-weight: 90
+weight: 80
 url: "/net/aspose.pdf.facades/bookmark/level/"
 product_version: "26.9.0"
 ---

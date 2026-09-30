@@ -23,6 +23,7 @@ public void Rotate(Rotation angle)
 
 ### See Also
 
+* enum [Rotation](../../../aspose.pdf/rotation/)
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -39,7 +40,7 @@ public void Rotate(int angle)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| angle | int | Angle of rotation in degrees between 0 and 360. |
+| angle | Int32 | Angle of rotation in degrees between 0 and 360. |
 
 ### See Also
 

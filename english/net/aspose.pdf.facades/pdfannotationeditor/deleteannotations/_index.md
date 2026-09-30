@@ -5,7 +5,7 @@ articleTitle: "DeleteAnnotations"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfAnnotationEditor method. Deletes all annotations in the document."
 type: docs
-weight: 190
+weight: 160
 url: "/net/aspose.pdf.facades/pdfannotationeditor/deleteannotations/"
 product_version: "26.9.0"
 ---
@@ -35,7 +35,7 @@ public void DeleteAnnotations(string annotType)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotType | string | The type of annotation will be deleted. |
+| annotType | String | The type of annotation will be deleted. |
 
 ### See Also
 

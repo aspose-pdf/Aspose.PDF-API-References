@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf/outputintents/remove/"
 product_version: "26.9.0"
 ---
-## Remove([OutputIntent](../../../aspose.pdf/outputintent/)) {#remove}
+## OutputIntents.Remove method
 
 Removes the first occurrence of a specific output intent from the collection.
 
@@ -23,13 +23,12 @@ public bool Remove(OutputIntent item)
 
 ### Return Value
 
-bool
-
  if *item* was successfully removed from the collection;
   if *item* was not found in the original collection.
 
 ### See Also
 
+* class [OutputIntent](../../../aspose.pdf/outputintent/)
 * class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

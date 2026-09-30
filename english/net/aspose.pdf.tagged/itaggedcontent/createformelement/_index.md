@@ -9,7 +9,7 @@ weight: 400
 url: "/net/aspose.pdf.tagged/itaggedcontent/createformelement/"
 product_version: "26.9.0"
 ---
-## CreateFormElement() {#createformelement}
+## ITaggedContent.CreateFormElement method
 
 Creates [`FormElement`](../../../aspose.pdf.logicalstructure/formelement/).
 
@@ -18,8 +18,6 @@ public FormElement CreateFormElement()
 ```
 
 ### Return Value
-
-[FormElement](../../../aspose.pdf.logicalstructure/formelement/)
 
 Created structure element.
 

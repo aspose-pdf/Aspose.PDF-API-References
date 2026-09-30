@@ -15,23 +15,23 @@ product_version: "26.9.0"
 Represents a class for displaying the results of comparing PDF documents or pages in JSON format.
 
 ```csharp
-public class JsonDiffOutputGenerator : IStringOutputGenerator, IFileOutputGenerator
+public class JsonDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenerator
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [JsonDiffOutputGenerator](./jsondiffoutputgenerator/#constructor) | The default constructor. |
+| [JsonDiffOutputGenerator](./jsondiffoutputgenerator/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GenerateOutput](./generateoutput/)(*List<DiffOperation>*) | Generates the output of the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(*List<List<DiffOperation>>*) | Generates the output of the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(*List<DiffOperation>, string*) | Generates the output of the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(*List<List<DiffOperation>>, string*) | Generates the output of the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(List<DiffOperation>) | Generates the output of the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(List<List<DiffOperation>>) | Generates the output of the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(List<DiffOperation>, string) | Generates the output of the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(List<List<DiffOperation>>, string) | Generates the output of the differences between texts and saves it to a file. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.lowcode/pdfaconverter/process/"
 product_version: "26.9.0"
 ---
-## Process([IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)) {#process}
+## PdfAConverter.Process method
 
 Begins a PDF/A conversion or validation process with given options.
 
@@ -24,13 +24,12 @@ public ResultContainer Process(IPluginOptions options)
 
 ### Return Value
 
-[ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
-
 A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) object containing the result of the processing.
 
 ### See Also
 
 * class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
+* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
 * class [PdfAConverter](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

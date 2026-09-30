@@ -14,11 +14,12 @@ product_version: "26.9.0"
 Gets/sets the value to determine property Flags for created/modified field (if will be set).
 
 ```csharp
-public Nullable<AnnotationFlags> Flags { get; set; }
+public AnnotationFlags? Flags { get; set; }
 ```
 
 ### See Also
 
+* enum [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

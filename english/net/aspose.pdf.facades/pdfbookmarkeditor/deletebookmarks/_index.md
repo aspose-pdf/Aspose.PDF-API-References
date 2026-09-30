@@ -35,7 +35,7 @@ public void DeleteBookmarks(string title)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| title | string | The title of bookmark deleted. |
+| title | String | The title of bookmark deleted. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/dp/dp/"
 product_version: "26.9.0"
 ---
-## DP(string) {#constructor}
+## DP constructor
 
 Initializes operator.
 
@@ -19,7 +19,7 @@ public DP(string tag)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tag | string | Tag value. |
+| tag | String | Tag value. |
 
 ### See Also
 

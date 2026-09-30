@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Initializes new rectangle from given instance of System.Drawing.Rectangle.
 
 ```csharp
-public Rectangle FromRect(Rectangle src)
+public static Rectangle FromRect(Rectangle src)
 ```
 
 | Parameter | Type | Description |
@@ -23,14 +23,11 @@ public Rectangle FromRect(Rectangle src)
 
 ### Return Value
 
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 New rectangle.
 
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,7 +38,7 @@ New rectangle.
 Initializes new rectangle from given instance of System.Drawing.Rectangle.
 
 ```csharp
-public Rectangle FromRect(RectangleF src)
+public static Rectangle FromRect(RectangleF src)
 ```
 
 | Parameter | Type | Description |
@@ -50,14 +47,11 @@ public Rectangle FromRect(RectangleF src)
 
 ### Return Value
 
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 New rectangle.
 
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

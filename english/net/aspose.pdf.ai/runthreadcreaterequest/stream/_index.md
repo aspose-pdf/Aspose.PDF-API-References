@@ -15,7 +15,7 @@ Gets or sets if to use streaming.
  If true, returns a stream of events that happen during the Run as server-sent events, terminating when the Run enters a terminal state with a data: [DONE] message.
 
 ```csharp
-public Nullable<bool> Stream { get; set; }
+public bool? Stream { get; set; }
 ```
 
 ### See Also

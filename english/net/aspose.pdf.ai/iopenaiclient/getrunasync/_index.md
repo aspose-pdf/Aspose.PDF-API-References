@@ -9,23 +9,22 @@ weight: 170
 url: "/net/aspose.pdf.ai/iopenaiclient/getrunasync/"
 product_version: "26.9.0"
 ---
-## GetRunAsync(string, string, Nullable<CancellationToken>) {#getrunasync}
+## IOpenAIClient.GetRunAsync method
 
 Retrieves details of a specific run within a thread asynchronously.
 
 ```csharp
-public Task<RunResponse> GetRunAsync(string threadId, string runId, Nullable<CancellationToken> cancellationToken)
+public Task<RunResponse> GetRunAsync(string threadId, string runId, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threadId | string | The ID of the thread containing the run. |
-| runId | string | The ID of the run to retrieve. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| threadId | String | The ID of the thread containing the run. |
+| runId | String | The ID of the run to retrieve. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[RunResponse](../../../aspose.pdf.ai/runresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the details of the run.
 

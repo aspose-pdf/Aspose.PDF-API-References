@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf.annotations/textmarkupannotation/changeafterresize/"
 product_version: "26.9.0"
 ---
-## ChangeAfterResize([Matrix](../../../aspose.pdf/matrix/)) {#changeafterresize}
+## TextMarkupAnnotation.ChangeAfterResize method
 
 Updates the QuadPoints, according to the matrix transform.
 
 ```csharp
-public void ChangeAfterResize(Matrix transform)
+public override void ChangeAfterResize(Matrix transform)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void ChangeAfterResize(Matrix transform)
 
 ### See Also
 
+* class [Matrix](../../../aspose.pdf/matrix/)
 * class [TextMarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

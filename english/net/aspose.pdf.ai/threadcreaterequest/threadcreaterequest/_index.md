@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/threadcreaterequest/threadcreaterequest/"
 product_version: "26.9.0"
 ---
-## ThreadCreateRequest() {#constructor}
+## ThreadCreateRequest constructor
 
 The default constructor.
 

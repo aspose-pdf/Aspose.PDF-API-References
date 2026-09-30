@@ -9,17 +9,15 @@ weight: 40
 url: "/net/aspose.pdf/metered/getconsumptioncredit/"
 product_version: "26.9.0"
 ---
-## GetConsumptionCredit() {#getconsumptioncredit}
+## Metered.GetConsumptionCredit method
 
 Gets consumption credit.
 
 ```csharp
-public Decimal GetConsumptionCredit()
+public static decimal GetConsumptionCredit()
 ```
 
 ### Return Value
-
-Decimal
 
 Consumption quantity.
 

@@ -16,7 +16,7 @@ Gets or sets a value that alternative to sampling with temperature, called nucle
  We generally recommend altering this or temperature but not both.
 
 ```csharp
-public Nullable<double> TopP { get; set; }
+public double? TopP { get; set; }
 ```
 
 ### See Also

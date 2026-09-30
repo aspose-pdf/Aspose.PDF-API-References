@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets font substitution strategies collection.
 
 ```csharp
-public FontSubstitutionCollection Substitutions { get; }
+public static FontSubstitutionCollection Substitutions { get; }
 ```
 
 ### See Also

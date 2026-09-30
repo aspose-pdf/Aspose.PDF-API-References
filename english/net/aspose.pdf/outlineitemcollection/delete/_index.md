@@ -35,7 +35,7 @@ public void Delete(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Title of outline entry will be deleted. |
+| name | String | Title of outline entry will be deleted. |
 
 ### See Also
 

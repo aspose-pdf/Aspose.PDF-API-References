@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/djvuloadoptions/djvuloadoptions/"
 product_version: "26.9.0"
 ---
-## DjvuLoadOptions() {#constructor}
+## DjvuLoadOptions constructor
 
 The default constructor.
 

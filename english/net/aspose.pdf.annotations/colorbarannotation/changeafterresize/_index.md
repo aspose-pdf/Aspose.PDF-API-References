@@ -9,12 +9,12 @@ weight: 30
 url: "/net/aspose.pdf.annotations/colorbarannotation/changeafterresize/"
 product_version: "26.9.0"
 ---
-## ChangeAfterResize([Matrix](../../../aspose.pdf/matrix/)) {#changeafterresize}
+## ColorBarAnnotation.ChangeAfterResize method
 
 Update parameters and appearance, according to the matrix transform and moving outside of TrimBox if nesseary.
 
 ```csharp
-public void ChangeAfterResize(Matrix transform)
+public override void ChangeAfterResize(Matrix transform)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void ChangeAfterResize(Matrix transform)
 
 ### See Also
 
+* class [Matrix](../../../aspose.pdf/matrix/)
 * class [ColorBarAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

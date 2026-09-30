@@ -5,7 +5,7 @@ articleTitle: "SaveOptions.HtmlBorderLineType"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.SaveOptions.HtmlBorderLineType enum. Represents line types that can be used in result document for drawing borders or another lines"
 type: docs
-weight: 2790
+weight: 2750
 url: "/net/aspose.pdf/saveoptions.htmlborderlinetype/"
 product_version: "26.9.0"
 ---

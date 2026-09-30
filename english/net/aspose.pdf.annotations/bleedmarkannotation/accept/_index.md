@@ -9,12 +9,12 @@ weight: 20
 url: "/net/aspose.pdf.annotations/bleedmarkannotation/accept/"
 product_version: "26.9.0"
 ---
-## Accept([AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)) {#accept}
+## BleedMarkAnnotation.Accept method
 
 Accepts visitor for annotation processing.
 
 ```csharp
-public void Accept(AnnotationSelector visitor)
+public override void Accept(AnnotationSelector visitor)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void Accept(AnnotationSelector visitor)
 
 ### See Also
 
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
 * class [BleedMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

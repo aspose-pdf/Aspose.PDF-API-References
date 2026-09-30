@@ -19,7 +19,7 @@ public SoundEncoding Encoding { get; set; }
 
 ### See Also
 
-* class [SoundEncoding](../../../aspose.pdf.annotations/soundencoding/)
+* enum [SoundEncoding](../../../aspose.pdf.annotations/soundencoding/)
 * class [SoundData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

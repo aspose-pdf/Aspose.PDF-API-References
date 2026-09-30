@@ -22,7 +22,7 @@ public class ObjectType
 
 | Name | Description |
 | --- | --- |
-| [ToolChoice.ObjectType](./objecttype/#constructor) | The default constructor. |
+| [ObjectType](./objecttype/)() | The default constructor. |
 
 ## Properties
 

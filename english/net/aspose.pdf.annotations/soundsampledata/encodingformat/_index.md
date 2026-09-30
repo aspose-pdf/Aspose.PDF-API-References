@@ -19,7 +19,7 @@ public SoundSampleDataEncodingFormat EncodingFormat { get; set; }
 
 ### See Also
 
-* class [SoundSampleDataEncodingFormat](../../../aspose.pdf.annotations/soundsampledataencodingformat/)
+* enum [SoundSampleDataEncodingFormat](../../../aspose.pdf.annotations/soundsampledataencodingformat/)
 * class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

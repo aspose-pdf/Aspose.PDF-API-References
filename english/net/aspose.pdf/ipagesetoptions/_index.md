@@ -5,7 +5,7 @@ articleTitle: "IPageSetOptions"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.IPageSetOptions interface. Defines conversion options related to a set of pages to convert."
 type: docs
-weight: 1430
+weight: 1420
 url: "/net/aspose.pdf/ipagesetoptions/"
 product_version: "26.9.0"
 ---

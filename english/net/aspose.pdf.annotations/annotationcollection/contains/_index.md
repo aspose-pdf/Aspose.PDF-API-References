@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf.annotations/annotationcollection/contains/"
 product_version: "26.9.0"
 ---
-## Contains([Annotation](../../../aspose.pdf.annotations/annotation/)) {#contains}
+## AnnotationCollection.Contains method
 
 Checks if specified annotation belong to collection.
 
@@ -23,12 +23,11 @@ public bool Contains(Annotation annotation)
 
 ### Return Value
 
-bool
-
 True - if annotation found; otherwise, false.
 
 ### See Also
 
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

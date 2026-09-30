@@ -19,7 +19,7 @@ public AnnotationFlags Flags { get; set; }
 
 ### See Also
 
-* class [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
+* enum [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

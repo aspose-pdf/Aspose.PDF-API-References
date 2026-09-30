@@ -9,17 +9,15 @@ weight: 50
 url: "/net/aspose.pdf/matrix3d/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## Matrix3D.ToString method
 
 Returns text representation of the matrix.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String representation for the matrix
 

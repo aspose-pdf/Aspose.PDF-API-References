@@ -5,7 +5,7 @@ articleTitle: "Height"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "TextStamp property. Desired height of the stamp on the page."
 type: docs
-weight: 180
+weight: 170
 url: "/net/aspose.pdf/textstamp/height/"
 product_version: "26.9.0"
 ---
@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Desired height of the stamp on the page.
 
 ```csharp
-public double Height { get; set; }
+public override double Height { get; set; }
 ```
 
 ### See Also

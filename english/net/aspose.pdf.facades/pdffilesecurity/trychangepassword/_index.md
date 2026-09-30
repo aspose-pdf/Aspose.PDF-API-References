@@ -5,7 +5,7 @@ articleTitle: "TryChangePassword"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileSecurity method. Changes the user password and owner password by owner password, keeps the original security settings. The new user password and the n..."
 type: docs
-weight: 160
+weight: 120
 url: "/net/aspose.pdf.facades/pdffilesecurity/trychangepassword/"
 product_version: "26.9.0"
 ---
@@ -22,13 +22,11 @@ public bool TryChangePassword(string ownerPassword, string newUserPassword, stri
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ownerPassword | string | Original Owner password. |
-| newUserPassword | string | New User password. |
-| newOwnerPassword | string | New Owner password. |
+| ownerPassword | String | Original Owner password. |
+| newUserPassword | String | New User password. |
+| newOwnerPassword | String | New Owner password. |
 
 ### Return Value
-
-bool
 
 True for success,or false.
 
@@ -64,20 +62,19 @@ Changes the user password and password by owner password, allows to reset Pdf do
  Does not throw an exception if process failed.
 
 ```csharp
-public bool TryChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword, DocumentPrivilege privilege, KeySize keySize)
+public bool TryChangePassword(string ownerPassword, string newUserPassword, 
+    string newOwnerPassword, DocumentPrivilege privilege, KeySize keySize)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ownerPassword | string | Original owner password. |
-| newUserPassword | string | New User password. |
-| newOwnerPassword | string | New Owner password. |
+| ownerPassword | String | Original owner password. |
+| newUserPassword | String | New User password. |
+| newOwnerPassword | String | New Owner password. |
 | privilege | DocumentPrivilege | Reset security. |
 | keySize | KeySize | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
 
 ### Return Value
-
-bool
 
 True for success, or false.
 
@@ -99,6 +96,8 @@ True for success, or false.
 
 ### See Also
 
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* enum [KeySize](../../../aspose.pdf.facades/keysize/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -116,21 +115,20 @@ Changes the user password and password by owner password, allows to reset Pdf do
  Does not throw an exception if process failed.
 
 ```csharp
-public bool TryChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword, DocumentPrivilege privilege, KeySize keySize, Algorithm cipher)
+public bool TryChangePassword(string ownerPassword, string newUserPassword, 
+    string newOwnerPassword, DocumentPrivilege privilege, KeySize keySize, Algorithm cipher)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ownerPassword | string | Original owner password. |
-| newUserPassword | string | New User password. |
-| newOwnerPassword | string | New Owner password. |
+| ownerPassword | String | Original owner password. |
+| newUserPassword | String | New User password. |
+| newOwnerPassword | String | New Owner password. |
 | privilege | DocumentPrivilege | Reset security. |
 | keySize | KeySize | KeySize.x40 for 40 bits encryption, KeySize.x128 for 128 bits encryption and KeySize.x256 for 256 bits encryption. |
 | cipher | Algorithm | Algorithm.AES to encrypt using AES algorithm or Algorithm.RC4 for RC4 encryption. |
 
 ### Return Value
-
-bool
 
 True for success, or false.
 
@@ -152,6 +150,9 @@ True for success, or false.
 
 ### See Also
 
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* enum [KeySize](../../../aspose.pdf.facades/keysize/)
+* enum [Algorithm](../../../aspose.pdf.facades/algorithm/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

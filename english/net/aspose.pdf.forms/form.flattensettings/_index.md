@@ -22,16 +22,16 @@ public class FlattenSettings
 
 | Name | Description |
 | --- | --- |
-| [Form.FlattenSettings](./flattensettings/#constructor) | The default constructor. |
+| [FlattenSettings](./flattensettings/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ApplyRedactions](./applyredactions/) { get; set; } | If true, redaction specified Redaction annotation will be applied. |
+| [ApplyRedactions](./applyredactions/) { get; set; } | If true, redaction specified Redaction annotation will be applied |
 | [CallEvents](./callevents/) { get; set; } | If set, formatting and other JavaScript events will be called. True by default. |
 | [HideButtons](./hidebuttons/) { get; set; } | If set, buttons will be removed from flattened document. False by default. |
-| [UpdateAppearances](./updateappearances/) { get; set; } | If set, all field appearances will be regenerated before flattening. This option may help if field is incorrectly flattened. |
+| [UpdateAppearances](./updateappearances/) { get; set; } | If set, all field appearances will be regenerated before flattening. This option may help if field is incorrectly flattened. This option may decrease performance. By default set to false. |
 
 ### See Also
 

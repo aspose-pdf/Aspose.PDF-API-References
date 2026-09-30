@@ -5,7 +5,7 @@ articleTitle: "HtmlSaveOptions.RasterImagesSavingModes"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.HtmlSaveOptions.RasterImagesSavingModes enum. Converted PDF can contain raster images(.png, .jpeg etc.) This enum defines methods of how raster im..."
 type: docs
-weight: 1350
+weight: 1340
 url: "/net/aspose.pdf/htmlsaveoptions.rasterimagessavingmodes/"
 product_version: "26.9.0"
 ---

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/createfinetuningjobrequest/createfinetuningjobrequest/"
 product_version: "26.9.0"
 ---
-## CreateFineTuningJobRequest() {#constructor}
+## CreateFineTuningJobRequest constructor
 
 The default constructor.
 

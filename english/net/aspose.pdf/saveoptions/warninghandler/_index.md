@@ -21,7 +21,7 @@ public IWarningCallback WarningHandler { get; set; }
 
 ### See Also
 
-* class [IWarningCallback](../../../aspose.pdf/iwarningcallback/)
+* interface [IWarningCallback](../../../aspose.pdf/iwarningcallback/)
 * class [SaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -22,7 +22,7 @@ public class CompletionFunction
 
 | Name | Description |
 | --- | --- |
-| [CompletionFunction](./completionfunction/#constructor) | The default constructor. |
+| [CompletionFunction](./completionfunction/)() | The default constructor. |
 
 ## Properties
 

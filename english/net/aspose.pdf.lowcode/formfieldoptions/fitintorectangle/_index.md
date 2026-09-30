@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets/sets the value to determine whether created/modified field is fit into rectangle or not (if will be set).
 
 ```csharp
-public Nullable<bool> FitIntoRectangle { get; set; }
+public bool? FitIntoRectangle { get; set; }
 ```
 
 ### See Also

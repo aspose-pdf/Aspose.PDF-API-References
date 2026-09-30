@@ -20,10 +20,11 @@ public void Add(Field field, int pageNumber)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | field | Field | Field which must be added. |
-| pageNumber | int | Page index where added field will be placed. |
+| pageNumber | Int32 | Page index where added field will be placed. |
 
 ### See Also
 
+* class [Field](../../../aspose.pdf.forms/field/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
@@ -44,6 +45,7 @@ public void Add(Field field)
 
 ### See Also
 
+* class [Field](../../../aspose.pdf.forms/field/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
@@ -61,12 +63,10 @@ public Field Add(Field field, string partialName, int pageNumber)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | field | Field | Field name. |
-| partialName | string | Name of field on the form. |
-| pageNumber | int | Page number where field will be added. |
+| partialName | String | Name of field on the form. |
+| pageNumber | Int32 | Page number where field will be added. |
 
 ### Return Value
-
-[Field](../../../aspose.pdf.forms/field/)
 
 Added field returned. If copy of the field was created it will be returned.
 

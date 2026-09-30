@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/richmediaannotation/richmediaannotation/"
 product_version: "26.9.0"
 ---
-## RichMediaAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
+## RichMediaAnnotation constructor
 
 Initializes RichMediaAnnotation.
 
@@ -24,6 +24,8 @@ public RichMediaAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

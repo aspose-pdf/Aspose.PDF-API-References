@@ -44,6 +44,7 @@ public void Save(Stream stream, ImageFormat format)
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -61,7 +62,7 @@ public void Save(Stream stream, int resolution)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Stream where image data will be saved. |
-| resolution | int | Image resolution |
+| resolution | Int32 | Image resolution |
 
 ### See Also
 
@@ -83,10 +84,11 @@ public void Save(Stream stream, ImageFormat format, int resolution)
 | --- | --- | --- |
 | stream | Stream | Stream where image will be saved |
 | format | ImageFormat | Format which will be used for image enconding. <see cref="T:System.Drawing.Imaging.ImageFormat" /> |
-| resolution | int | Image resolution |
+| resolution | Int32 | Image resolution |
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

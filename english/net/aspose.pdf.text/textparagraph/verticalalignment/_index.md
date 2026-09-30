@@ -21,7 +21,7 @@ public VerticalAlignment VerticalAlignment { get; set; }
 
 ### See Also
 
-* class [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
+* enum [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

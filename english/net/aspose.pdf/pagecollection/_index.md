@@ -5,7 +5,7 @@ articleTitle: "PageCollection"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.PageCollection class. Collection of PDF document pages."
 type: docs
-weight: 2140
+weight: 2100
 url: "/net/aspose.pdf/pagecollection/"
 keywords: "PageCollection, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -15,7 +15,7 @@ product_version: "26.9.0"
 [Collection](../collection/) of PDF document pages.
 
 ```csharp
-public sealed class PageCollection : IEnumerable
+public sealed class PageCollection : ICollection<Page>
 ```
 
 ## Properties
@@ -32,32 +32,32 @@ public sealed class PageCollection : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [Accept](./accept/)(*AnnotationSelector*) | Accepts [`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector/) visitor object that provides functionality to work with annotations. |
-| [Accept](./accept/)(*ImagePlacementAbsorber*) | Accepts [`ImagePlacementAbsorber`](../../aspose.pdf/imageplacementabsorber/) visitor object that provides functionality to work with image placement objects. |
-| [Accept](./accept/)(*TextFragmentAbsorber*) | Accepts [`TextFragmentAbsorber`](../../aspose.pdf.text/textfragmentabsorber/) visitor object that provides functionality to work with text objects. |
-| [Accept](./accept/)(*TextAbsorber*) | Accepts [`TextAbsorber`](../../aspose.pdf.text/textabsorber/) visitor object that provides functionality to work with text objects. |
-| [Accept](./accept/)(*OcrTextAbsorber*) | Accepts an [`OcrTextAbsorber`](../../aspose.pdf.ocr/ocrtextabsorber/) that extracts plain text from these pages using OCR. |
-| [Add](./add/) | Adds an empty page. |
-| [Add](./add/)(*Page*) | Adds page to collection. |
-| [Add](./add/)(*ICollection<Page>*) | Adds to collection all pages from list. |
-| [Add](./add/)(*Page[]*) | Adds to collection all pages from array. |
-| [BeginUpdate](./beginupdate/) | Updates when group changes begin. Stops page cache recalculation on each operation. |
-| [Clear](./clear/) | Clear page collection. |
-| [Contains](./contains/)(*Page*) | Determines whether this instance contains the object. |
-| [CopyTo](./copyto/)(*Page[], int*) | Copyies pages into document. |
-| [Delete](./delete/) | Deletes all pages from collection. |
-| [Delete](./delete/)(*int*) | Delete specified page. |
-| [Delete](./delete/)(*int[]*) | Delete pages specified which numbers are specified in array. |
-| [EndUpdate](./endupdate/) | Updates when group changes are complete. Restores page cache recalculations on each operation. |
-| [Flatten](./flatten/) | Removes all fields located on the pages and place their values instead. |
-| [FreeMemory](./freememory/) | Clears cached data. |
-| [GetEnumerator](./getenumerator/) | Returns enumerator of pages. |
-| [IndexOf](./indexof/)(*Page*) | Returns index of the specified page. |
-| [Insert](./insert/)(*int*) | Insert an empty page into the collection at the specified position. |
-| [Insert](./insert/)(*int, Page*) | Inserts page into page collection at specified place. |
-| [Insert](./insert/)(*int, ICollection<Page>*) | Inserts pages from the collection into document. |
-| [Insert](./insert/)(*int, Page[]*) | Inserts pages of the array into document. |
-| [Remove](./remove/)(*Page*) | Removes the specified item, throws NotSupportedException. |
+| [Accept](./accept/)(AnnotationSelector) | Accepts [`AnnotationSelector`](../../aspose.pdf.annotations/annotationselector/) visitor object that provides functionality to work with annotations. |
+| [Accept](./accept/)(ImagePlacementAbsorber) | Accepts [`ImagePlacementAbsorber`](../../aspose.pdf/imageplacementabsorber/) visitor object that provides functionality to work with image placement objects. |
+| [Accept](./accept/)(OcrTextAbsorber) | Accepts an [`OcrTextAbsorber`](../../aspose.pdf.ocr/ocrtextabsorber/) that extracts plain text from these pages using OCR. |
+| [Accept](./accept/)(TextAbsorber) | Accepts [`TextAbsorber`](../../aspose.pdf.text/textabsorber/) visitor object that provides functionality to work with text objects. |
+| [Accept](./accept/)(TextFragmentAbsorber) | Accepts [`TextFragmentAbsorber`](../../aspose.pdf.text/textfragmentabsorber/) visitor object that provides functionality to work with text objects. |
+| [Add](./add/)() | Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used. |
+| [Add](./add/)(ICollection<Page>) | Adds to collection all pages from list. |
+| [Add](./add/)(Page) | Adds page to collection. |
+| [Add](./add/)(Page[]) | Adds to collection all pages from array. |
+| [BeginUpdate](./beginupdate/)() | Updates when group changes begin. Stops page cache recalculation on each operation. We recommend calling the BeginUpdate/EndUpdate methods in a try-finally block. |
+| [Clear](./clear/)() | Clear page collection. |
+| [Contains](./contains/)(Page) | Determines whether this instance contains the object. |
+| [CopyTo](./copyto/)(Page[], int) | Copyies pages into document. |
+| [Delete](./delete/)() | Deletes all pages from collection. |
+| [Delete](./delete/)(int) | Delete specified page. |
+| [Delete](./delete/)(int[]) | Delete pages specified which numbers are specified in array. |
+| [EndUpdate](./endupdate/)() | Updates when group changes are complete. Restores page cache recalculations on each operation. We recommend calling the BeginUpdate/EndUpdate methods in a try-finally block. |
+| [Flatten](./flatten/)() | Removes all fields located on the pages and place their values instead. |
+| [FreeMemory](./freememory/)() | Clears cached data |
+| [GetEnumerator](./getenumerator/)() | Returns enumerator of pages. |
+| [IndexOf](./indexof/)(Page) | Returns index of the specified page. |
+| [Insert](./insert/)(int) | Insert an empty page into the collection at the specified position. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used. |
+| [Insert](./insert/)(int, ICollection<Page>) | Inserts pages from the collection into document. |
+| [Insert](./insert/)(int, Page) | Inserts page into page collection at specified place. |
+| [Insert](./insert/)(int, Page[]) | Inserts pages of the array into document. |
+| [Remove](./remove/)(Page) | Removes the specified item, throws NotSupportedException. |
 
 ### See Also
 

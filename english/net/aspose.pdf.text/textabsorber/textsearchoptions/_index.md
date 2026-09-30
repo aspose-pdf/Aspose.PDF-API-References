@@ -17,7 +17,7 @@ Allows to define rectangle which delimits the extracted text.
  By default the rectangle is empty. That means page boundaries only defines the text extraction region.
 
 ```csharp
-public TextSearchOptions TextSearchOptions { get; set; }
+public virtual TextSearchOptions TextSearchOptions { get; set; }
 ```
 
 ### See Also

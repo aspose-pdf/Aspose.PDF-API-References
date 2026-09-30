@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf/page/calculatecontentbbox/"
 product_version: "26.9.0"
 ---
-## CalculateContentBBox() {#calculatecontentbbox}
+## Page.CalculateContentBBox method
 
 Calculates bbox value - rectangle containing contents without visible margins.
 
@@ -18,8 +18,6 @@ public Rectangle CalculateContentBBox()
 ```
 
 ### Return Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
 
 Bbox value - rectangle containing contents without visible margins
 

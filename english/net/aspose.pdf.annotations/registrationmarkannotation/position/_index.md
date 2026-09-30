@@ -19,7 +19,7 @@ public PrinterMarkSidePosition Position { get; set; }
 
 ### See Also
 
-* class [PrinterMarkSidePosition](../../../aspose.pdf.annotations/printermarksideposition/)
+* enum [PrinterMarkSidePosition](../../../aspose.pdf.annotations/printermarksideposition/)
 * class [RegistrationMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

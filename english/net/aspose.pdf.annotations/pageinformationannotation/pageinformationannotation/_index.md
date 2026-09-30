@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/pageinformationannotation/pageinformationannotation/"
 product_version: "26.9.0"
 ---
-## PageInformationAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
+## PageInformationAnnotation constructor
 
 Initializes a new instance of the [`PageInformationAnnotation`](../../../aspose.pdf.annotations/pageinformationannotation/) class on the given page in the given location.
 
@@ -24,6 +24,8 @@ public PageInformationAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [PageInformationAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

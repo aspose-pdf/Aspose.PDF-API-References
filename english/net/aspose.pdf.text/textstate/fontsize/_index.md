@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets font size of the text.
 
 ```csharp
-public float FontSize { get; set; }
+public virtual float FontSize { get; set; }
 ```
 
 ### See Also

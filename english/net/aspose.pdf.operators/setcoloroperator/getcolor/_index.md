@@ -9,17 +9,15 @@ weight: 10
 url: "/net/aspose.pdf.operators/setcoloroperator/getcolor/"
 product_version: "26.9.0"
 ---
-## getColor() {#getcolor}
+## SetColorOperator.getColor method
 
 Retirns color specified by the operator.
 
 ```csharp
-public Color getColor()
+public abstract Color getColor()
 ```
 
 ### Return Value
-
-[Color](../../../aspose.pdf/color/)
 
 Color specified by operator.
 

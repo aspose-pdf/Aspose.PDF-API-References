@@ -23,7 +23,7 @@ The [`HtmlDocumentType`](../../../aspose.pdf/htmldocumenttype/).
 
 ### See Also
 
-* class [HtmlDocumentType](../../../aspose.pdf/htmldocumenttype/)
+* enum [HtmlDocumentType](../../../aspose.pdf/htmldocumenttype/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

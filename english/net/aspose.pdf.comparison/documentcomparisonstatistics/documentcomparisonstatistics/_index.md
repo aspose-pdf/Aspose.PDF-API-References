@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.comparison/documentcomparisonstatistics/documentcomparisonstatistics/"
 product_version: "26.9.0"
 ---
-## DocumentComparisonStatistics() {#constructor}
+## DocumentComparisonStatistics constructor
 
 The default constructor.
 

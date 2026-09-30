@@ -9,22 +9,21 @@ weight: 150
 url: "/net/aspose.pdf.ai/openaiclient/waitforvectorstoretocompleteasync/"
 product_version: "26.9.0"
 ---
-## WaitForVectorStoreToCompleteAsync(string, Nullable<CancellationToken>) {#waitforvectorstoretocompleteasync}
+## OpenAIClient.WaitForVectorStoreToCompleteAsync method
 
 Waits for a specific vector store to complete asynchronously.
 
 ```csharp
-public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vectorStoreId, Nullable<CancellationToken> cancellationToken)
+public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vectorStoreId, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| vectorStoreId | string | The ID of the vector store to monitor until completion. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| vectorStoreId | String | The ID of the vector store to monitor until completion. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[VectorStoreResponse](../../../aspose.pdf.ai/vectorstoreresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the final status of the vector store.
 

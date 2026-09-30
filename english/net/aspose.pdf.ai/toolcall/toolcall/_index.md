@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/toolcall/toolcall/"
 product_version: "26.9.0"
 ---
-## ToolCall() {#constructor}
+## ToolCall constructor
 
 The default constructor.
 

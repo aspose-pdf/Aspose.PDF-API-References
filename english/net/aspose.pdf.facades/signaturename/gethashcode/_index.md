@@ -9,17 +9,15 @@ weight: 30
 url: "/net/aspose.pdf.facades/signaturename/gethashcode/"
 product_version: "26.9.0"
 ---
-## GetHashCode() {#gethashcode}
+## SignatureName.GetHashCode method
 
 Returns a hash code for this instance based on the FullName property.
 
 ```csharp
-public int GetHashCode()
+public override int GetHashCode()
 ```
 
 ### Return Value
-
-int
 
 An integer representing the hash code of the FullName property.
 

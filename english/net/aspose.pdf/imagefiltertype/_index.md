@@ -5,7 +5,7 @@ articleTitle: "ImageFilterType"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.ImageFilterType enum. Enumeration representing image filter type."
 type: docs
-weight: 1520
+weight: 1510
 url: "/net/aspose.pdf/imagefiltertype/"
 product_version: "26.9.0"
 ---

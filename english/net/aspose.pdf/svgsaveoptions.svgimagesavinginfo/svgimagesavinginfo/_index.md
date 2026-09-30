@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/svgsaveoptions.svgimagesavinginfo/svgimagesavinginfo/"
 product_version: "26.9.0"
 ---
-## SvgSaveOptions.SvgImageSavingInfo() {#constructor}
+## SvgImageSavingInfo constructor
 
 The default constructor.
 
 ```csharp
-public SvgSaveOptions.SvgImageSavingInfo()
+public SvgImageSavingInfo()
 ```
 
 ### See Also

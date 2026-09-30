@@ -9,12 +9,12 @@ weight: 650
 url: "/net/aspose.pdf.ai/isummarycopilotoptions-1/"
 product_version: "26.9.0"
 ---
-## ISummaryCopilotOptions<TOptions> interface
+## ISummaryCopilotOptions&lt;TOptions&gt; interface
 
 Represents an interface for summary copilot options with a specific type.
 
 ```csharp
-public interface ISummaryCopilotOptions<TOptions><TOptions>
+public interface ISummaryCopilotOptions<out TOptions>
 ```
 
 ## Type Parameters

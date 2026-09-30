@@ -22,14 +22,14 @@ public class FileSearch
 
 | Name | Description |
 | --- | --- |
-| [FileSearch](./filesearch/#constructor) | The default constructor. |
+| [FileSearch](./filesearch/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreIds](./vectorstoreids/) { get; set; } | Gets or sets the ID of the vector store attached to this assistant. There can be a maximum. |
-| [VectorStores](./vectorstores/) { get; set; } | Gets or sets the helper to create a vector store with file_ids and attach it to this thread. |
+| [VectorStoreIds](./vectorstoreids/) { get; set; } | Gets or sets the ID of the vector store attached to this assistant. There can be a maximum of 1 vector store attached to the assistant. |
+| [VectorStores](./vectorstores/) { get; set; } | Gets or sets the helper to create a vector store with file_ids and attach it to this thread. There can be a maximum of 1 vector store attached to the thread. |
 
 ### See Also
 

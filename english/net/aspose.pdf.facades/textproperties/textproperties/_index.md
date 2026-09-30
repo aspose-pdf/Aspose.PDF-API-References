@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.facades/textproperties/textproperties/"
 product_version: "26.9.0"
 ---
-## TextProperties(double) {#constructor}
+## TextProperties constructor
 
 Creates [`TextProperties`](../../../aspose.pdf.facades/textproperties/) object for the specified text size
 
@@ -19,7 +19,7 @@ public TextProperties(double textSize)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textSize | double | Text size value. |
+| textSize | Double | Text size value. |
 
 ### See Also
 

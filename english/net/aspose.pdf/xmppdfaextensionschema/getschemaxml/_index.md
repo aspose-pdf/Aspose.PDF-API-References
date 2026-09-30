@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf/xmppdfaextensionschema/getschemaxml/"
 product_version: "26.9.0"
 ---
-## GetSchemaXml(XmlDocument) {#getschemaxml}
+## XmpPdfAExtensionSchema.GetSchemaXml method
 
 Returns the xml element (tag - li) that represents schema in xml tree.
 
@@ -22,8 +22,6 @@ public XmlElement GetSchemaXml(XmlDocument xmlDocument)
 | xmlDocument | XmlDocument | The source xml document. |
 
 ### Return Value
-
-XmlElement
 
 The xml element.
 

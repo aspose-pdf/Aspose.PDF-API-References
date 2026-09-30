@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.flow/istructurerecognitionvisitor/startdocument/"
 product_version: "26.9.0"
 ---
-## StartDocument() {#startdocument}
+## IStructureRecognitionVisitor.StartDocument method
 
 Called when the document traversal starts.
 

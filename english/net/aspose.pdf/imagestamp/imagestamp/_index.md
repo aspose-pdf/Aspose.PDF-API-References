@@ -39,7 +39,7 @@ public ImageStamp(string fileName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | string | Name of the file which contains image. |
+| fileName | String | Name of the file which contains image. |
 
 ### See Also
 

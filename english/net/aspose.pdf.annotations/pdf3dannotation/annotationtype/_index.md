@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets type of annotation.
 
 ```csharp
-public AnnotationType AnnotationType { get; }
+public override AnnotationType AnnotationType { get; }
 ```
 
 ### Property Value
@@ -23,7 +23,7 @@ The type of the annotation.
 
 ### See Also
 
-* class [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

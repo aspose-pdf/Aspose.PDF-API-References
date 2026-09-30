@@ -19,7 +19,7 @@ public ScalingMode ScalingMode { get; set; }
 
 ### See Also
 
-* class [ScalingMode](../../../aspose.pdf.forms/scalingmode/)
+* enum [ScalingMode](../../../aspose.pdf.forms/scalingmode/)
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

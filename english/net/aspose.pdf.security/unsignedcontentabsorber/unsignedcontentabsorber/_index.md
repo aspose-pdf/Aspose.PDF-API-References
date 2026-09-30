@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.security/unsignedcontentabsorber/unsignedcontentabsorber/"
 product_version: "26.9.0"
 ---
-## UnsignedContentAbsorber([PdfFileSignature](../../../aspose.pdf.facades/pdffilesignature/)) {#constructor}
+## UnsignedContentAbsorber constructor
 
 Represents a class used for processing unsigned content.
 
@@ -23,6 +23,7 @@ public UnsignedContentAbsorber(PdfFileSignature signature)
 
 ### See Also
 
+* class [PdfFileSignature](../../../aspose.pdf.facades/pdffilesignature/)
 * class [UnsignedContentAbsorber](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)

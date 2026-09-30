@@ -40,7 +40,7 @@ public interface ITaggedContent
 | [CreateFormElement](./createformelement/)() | Creates [`FormElement`](../../aspose.pdf.logicalstructure/formelement/). |
 | [CreateFormulaElement](./createformulaelement/)() | Creates [`FormulaElement`](../../aspose.pdf.logicalstructure/formulaelement/). |
 | [CreateHeaderElement](./createheaderelement/)() | Creates [`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement/). |
-| [CreateHeaderElement](./createheaderelement/)(*int*) | Creates [`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement/) with level. |
+| [CreateHeaderElement](./createheaderelement/)(int) | Creates [`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement/) with level. |
 | [CreateIndexElement](./createindexelement/)() | Creates [`IndexElement`](../../aspose.pdf.logicalstructure/indexelement/). |
 | [CreateLinkElement](./createlinkelement/)() | Creates [`LinkElement`](../../aspose.pdf.logicalstructure/linkelement/). |
 | [CreateListElement](./createlistelement/)() | Creates [`ListElement`](../../aspose.pdf.logicalstructure/listelement/). |
@@ -67,10 +67,10 @@ public interface ITaggedContent
 | [CreateTableTHeadElement](./createtabletheadelement/)() | Creates [`TableTHeadElement`](../../aspose.pdf.logicalstructure/tabletheadelement/). |
 | [CreateTableTRElement](./createtabletrelement/)() | Creates [`TableTRElement`](../../aspose.pdf.logicalstructure/tabletrelement/). |
 | [CreateWarichuElement](./createwarichuelement/)() | Creates [`WarichuElement`](../../aspose.pdf.logicalstructure/warichuelement/). |
-| [PreSave](./presave/)() | Prepares the tagged content of the document for saving. |
+| [PreSave](./presave/)() | Prepares the tagged content of the document for saving. This method performs necessary pre-save operations, ensuring that the structure tree and other tagged content elements are properly configured before the document is saved. |
 | [Save](./save/)() | Saves the current state of the tagged content to the associated PDF document. |
-| [SetLanguage](./setlanguage/)(*string*) | Sets natural language for pdf document. |
-| [SetTitle](./settitle/)(*string*) | Sets title for PDF document. |
+| [SetLanguage](./setlanguage/)(string) | Sets natural language for pdf document. |
+| [SetTitle](./settitle/)(string) | Sets title for PDF document. |
 
 ### See Also
 

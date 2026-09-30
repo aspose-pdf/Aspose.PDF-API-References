@@ -22,8 +22,8 @@ public sealed class PaperSource
 
 | Name | Description |
 | --- | --- |
-| [PaperSource](./papersource/#constructor) | Initializes a new instance of the [`PaperSource`](../../aspose.pdf.printing/papersource/) class with default properties. |
-| [PaperSource](./papersource/#constructor_1)(*[PaperSourceKind](../../aspose.pdf.printing/papersourcekind/), string*) | Initializes a new instance of the [`PaperSource`](../../aspose.pdf.printing/papersource/) class with the specified kind and name. |
+| [PaperSource](./papersource/#constructor)() | Initializes a new instance of the [`PaperSource`](../../aspose.pdf.printing/papersource/) class with default properties. |
+| [PaperSource](./papersource/#constructor_1)(PaperSourceKind, string) | Initializes a new instance of the [`PaperSource`](../../aspose.pdf.printing/papersource/) class with the specified kind and name. |
 
 ## Properties
 
@@ -37,7 +37,7 @@ public sealed class PaperSource
 
 | Name | Description |
 | --- | --- |
-| [ToString](./tostring/) | Provides some interesting information about the PaperSource in String form. |
+| override [ToString](./tostring/)() | Provides some interesting information about the PaperSource in String form. |
 
 ### See Also
 

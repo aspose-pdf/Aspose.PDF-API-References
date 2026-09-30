@@ -9,12 +9,12 @@ weight: 110
 url: "/net/aspose.pdf.facades/pdffilesanitization/close/"
 product_version: "26.9.0"
 ---
-## Close() {#close}
+## PdfFileSanitization.Close method
 
 Closes the facade.
 
 ```csharp
-public void Close()
+public override void Close()
 ```
 
 ### See Also

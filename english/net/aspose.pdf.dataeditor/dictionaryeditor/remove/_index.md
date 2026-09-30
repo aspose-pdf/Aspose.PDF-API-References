@@ -19,11 +19,9 @@ public bool Remove(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | The key of the element to remove. |
+| key | String | The key of the element to remove. |
 
 ### Return Value
-
-bool
 
 True if the element is successfully removed; otherwise, false. 
  This method also returns false if key was not found in the original dictionary or key the key is not editable
@@ -46,11 +44,9 @@ public bool Remove(KeyValuePair<string, ICosPdfPrimitive> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair<string, ICosPdfPrimitive> | The object to remove from the <see cref="T:Aspose.Pdf.DataEditor.DictionaryEditor" />. |
+| item | KeyValuePair`2 | The object to remove from the <see cref="T:Aspose.Pdf.DataEditor.DictionaryEditor" />. |
 
 ### Return Value
-
-bool
 
 true if item was successfully removed from the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/);
  otherwise, false. This method also returns false if item is not found in the

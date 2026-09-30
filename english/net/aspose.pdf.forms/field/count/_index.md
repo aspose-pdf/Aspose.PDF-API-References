@@ -5,7 +5,7 @@ articleTitle: "Count"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Field property. Gets number of subfields in this field. (For example number of items in radio button field)."
 type: docs
-weight: 170
+weight: 160
 url: "/net/aspose.pdf.forms/field/count/"
 product_version: "26.9.0"
 ---

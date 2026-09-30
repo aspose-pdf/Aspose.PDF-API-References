@@ -19,7 +19,7 @@ public void GetAttachment(string outputPath)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputPath | string | Directory path where attachment(s) will be stored.
+| outputPath | String | Directory path where attachment(s) will be stored.
  Null or empty string means attachment(s) will be placed in the application directory. |
 
 ### See Also
@@ -39,8 +39,6 @@ public MemoryStream[] GetAttachment()
 ```
 
 ### Return Value
-
-MemoryStream[]
 
 The stream array of the attachment file in the pdf document.
 

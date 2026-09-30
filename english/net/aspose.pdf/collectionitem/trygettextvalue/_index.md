@@ -9,18 +9,18 @@ weight: 40
 url: "/net/aspose.pdf/collectionitem/trygettextvalue/"
 product_version: "26.9.0"
 ---
-## TryGetTextValue(string, Value<string>) {#trygettextvalue}
+## CollectionItem.TryGetTextValue method
 
 
 
 ```csharp
-public bool TryGetTextValue(string name, Value<string> value)
+public bool TryGetTextValue(string name, out Value<string> value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string |  |
-| value | Value<string> |  |
+| name | String |  |
+| value | Value`1& |  |
 
 ### Return Value
 

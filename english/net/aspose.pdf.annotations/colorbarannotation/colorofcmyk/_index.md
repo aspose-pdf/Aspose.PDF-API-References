@@ -19,7 +19,7 @@ public ColorsOfCMYK ColorOfCMYK { get; set; }
 
 ### See Also
 
-* class [ColorsOfCMYK](../../../aspose.pdf.annotations/colorsofcmyk/)
+* enum [ColorsOfCMYK](../../../aspose.pdf.annotations/colorsofcmyk/)
 * class [ColorBarAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

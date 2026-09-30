@@ -9,12 +9,12 @@ weight: 630
 url: "/net/aspose.pdf.ai/isummaryclient-1/"
 product_version: "26.9.0"
 ---
-## ISummaryClient<TOptions> interface
+## ISummaryClient&lt;TOptions&gt; interface
 
 Represents an interface for a summary client with specific options.
 
 ```csharp
-public interface ISummaryClient<TOptions><TOptions>
+public interface ISummaryClient<in TOptions> : IAIClient
 ```
 
 ## Type Parameters
@@ -27,7 +27,7 @@ public interface ISummaryClient<TOptions><TOptions>
 
 | Name | Description |
 | --- | --- |
-| [GetSummaryCopilot](./getsummarycopilot/)(*ISummaryCopilotOptions<T0>*) | Gets an instance of [`ISummaryCopilot`](../../aspose.pdf.ai/isummarycopilot/) with the specified options. |
+| [GetSummaryCopilot](./getsummarycopilot/)(ISummaryCopilotOptions<TOptions>) | Gets an instance of [`ISummaryCopilot`](../../aspose.pdf.ai/isummarycopilot/) with the specified options. |
 
 ### See Also
 

@@ -5,7 +5,7 @@ articleTitle: "BorderStyleInset"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormFieldFacade field. Defines an inseted border style."
 type: docs
-weight: 300
+weight: 280
 url: "/net/aspose.pdf.facades/formfieldfacade/borderstyleinset/"
 product_version: "26.9.0"
 ---

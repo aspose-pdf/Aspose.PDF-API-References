@@ -22,13 +22,13 @@ public sealed class SystemFontsSubstitution : FontSubstitution
 
 | Name | Description |
 | --- | --- |
-| [SystemFontsSubstitution](./systemfontssubstitution/#constructor)(*[SubstitutionFontCategories](../../aspose.pdf.text/substitutionfontcategories/)*) | Initializes a new instance of [`SystemFontsSubstitution`](../../aspose.pdf.text/systemfontssubstitution/) class. |
+| [SystemFontsSubstitution](./systemfontssubstitution/)(SubstitutionFontCategories) | Initializes a new instance of [`SystemFontsSubstitution`](../../aspose.pdf.text/systemfontssubstitution/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DefaultFont](./defaultfont/) { get; set; } | Gets or sets default substitution font. |
+| [DefaultFont](./defaultfont/) { get; set; } | Gets or sets default substitution font. The font is used when no other valid substitution were found but initial font belongs to target substitution category (`FontCategories`). |
 | [FontCategories](./fontcategories/) { get; set; } | Gets or sets substitution font categories that should be substituted with system fonts. |
 
 ### See Also

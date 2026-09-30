@@ -5,29 +5,11 @@ articleTitle: "Save"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "AutoFiller method. Saves all the pdfs."
 type: docs
-weight: 20
+weight: 30
 url: "/net/aspose.pdf.facades/autofiller/save/"
 product_version: "26.9.0"
 ---
-## Save() {#save}
-
-> **Deprecated.** Use Save(destination) method for saving facade results.
-
-Saves all the pdfs.
-
-```csharp
-public void Save()
-```
-
-### See Also
-
-* class [AutoFiller](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Save(string) {#save_1}
+## Save(string) {#save}
 
 Saves all the pdfs.
 
@@ -37,7 +19,7 @@ public void Save(string destFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| destFile | string | Output file name. |
+| destFile | String | Output file name. |
 
 ### See Also
 
@@ -47,7 +29,7 @@ public void Save(string destFile)
 
 ---
 
-## Save(Stream) {#save_2}
+## Save(Stream) {#save_1}
 
 Saves all the pdfs.
 

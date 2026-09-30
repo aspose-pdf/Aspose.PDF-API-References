@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets current annotation appearance state.
 
 ```csharp
-public string ActiveState { get; set; }
+public virtual string ActiveState { get; set; }
 ```
 
 ### See Also

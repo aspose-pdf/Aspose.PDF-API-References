@@ -9,13 +9,21 @@ weight: 60
 url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/item/"
 product_version: "26.9.0"
 ---
-## PDF3DCrossSectionArray.Item property
+## PDF3DCrossSectionArray indexer
 
 Gets or sets the [`PDF3DCrossSection`](../../../aspose.pdf.annotations/pdf3dcrosssection/) at the specified index.
 
 ```csharp
-public PDF3DCrossSection Item { get; set; }
+public PDF3DCrossSection this[int index] { get; set; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | The index. |
+
+### Return Value
+
+Cross section.
 
 ### See Also
 

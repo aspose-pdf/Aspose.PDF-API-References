@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets superscript of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object.
 
 ```csharp
-public bool Superscript { get; set; }
+public override bool Superscript { get; set; }
 ```
 
 ### See Also

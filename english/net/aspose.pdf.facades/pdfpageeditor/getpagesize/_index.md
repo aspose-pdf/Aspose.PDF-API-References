@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.facades/pdfpageeditor/getpagesize/"
 product_version: "26.9.0"
 ---
-## GetPageSize(int) {#getpagesize}
+## PdfPageEditor.GetPageSize method
 
 Returns the page size of the specified page.
 
@@ -19,11 +19,9 @@ public PageSize GetPageSize(int page)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | int | Page index. Document pages are numbered from 1. |
+| page | Int32 | Page index. Document pages are numbered from 1. |
 
 ### Return Value
-
-[PageSize](../../../aspose.pdf/pagesize/)
 
 Result is instance of PageSize. Use Width and Height properties of the returned object to get page width and height.
 

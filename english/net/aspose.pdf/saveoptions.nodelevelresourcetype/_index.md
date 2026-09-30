@@ -5,7 +5,7 @@ articleTitle: "SaveOptions.NodeLevelResourceType"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.SaveOptions.NodeLevelResourceType enum. enumerates possible types of saved external resources"
 type: docs
-weight: 2820
+weight: 2780
 url: "/net/aspose.pdf/saveoptions.nodelevelresourcetype/"
 product_version: "26.9.0"
 ---

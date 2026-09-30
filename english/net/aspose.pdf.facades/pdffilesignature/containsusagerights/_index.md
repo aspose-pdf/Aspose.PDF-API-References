@@ -5,11 +5,11 @@ articleTitle: "ContainsUsageRights"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileSignature method. Checks if the pdf has a usage rights or not."
 type: docs
-weight: 250
+weight: 190
 url: "/net/aspose.pdf.facades/pdffilesignature/containsusagerights/"
 product_version: "26.9.0"
 ---
-## ContainsUsageRights() {#containsusagerights}
+## PdfFileSignature.ContainsUsageRights method
 
 Checks if the pdf has a usage rights or not.
 
@@ -18,8 +18,6 @@ public bool ContainsUsageRights()
 ```
 
 ### Return Value
-
-bool
 
 Returns a result of bool type.
 

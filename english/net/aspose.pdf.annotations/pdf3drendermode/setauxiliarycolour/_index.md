@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.annotations/pdf3drendermode/setauxiliarycolour/"
 product_version: "26.9.0"
 ---
-## SetAuxiliaryColour([Color](../../../aspose.pdf/color/)) {#setauxiliarycolour}
+## PDF3DRenderMode.SetAuxiliaryColour method
 
 Sets the auxiliary colour.
 
@@ -23,14 +23,12 @@ public PDF3DRenderMode SetAuxiliaryColour(Color color)
 
 ### Return Value
 
-[PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
-
 PDF3DRenderMode.
 
 ### See Also
 
 * class [PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
-* class [PDF3DRenderMode](../)
+* class [Color](../../../aspose.pdf/color/)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

@@ -9,17 +9,15 @@ weight: 20
 url: "/net/aspose.pdf/point3d/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## Point3D.ToString method
 
 Returns the string representation of the object.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 The string value
 

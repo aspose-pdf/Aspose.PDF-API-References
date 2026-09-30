@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.lowcode/tableoptions/addtable/"
 product_version: "26.9.0"
 ---
-## AddTable() {#addtable}
+## TableOptions.AddTable method
 
 Adding table to document.
 
@@ -18,8 +18,6 @@ public TableBuilder AddTable()
 ```
 
 ### Return Value
-
-[TableBuilder](../../../aspose.pdf.lowcode/tablebuilder/)
 
 New instance of [`TableBuilder`](../../../aspose.pdf.lowcode/tablebuilder/).
 

@@ -9,17 +9,15 @@ weight: 40
 url: "/net/aspose.pdf.operators/setgray/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## SetGray.ToString method
 
 Returns string representation of operator.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String representation of operator.
 

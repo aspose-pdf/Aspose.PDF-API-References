@@ -22,7 +22,7 @@ public class ThreadMessageResponse : BaseResponse, IStatus
 
 | Name | Description |
 | --- | --- |
-| [ThreadMessageResponse](./threadmessageresponse/#constructor) | The default constructor. |
+| [ThreadMessageResponse](./threadmessageresponse/)() | The default constructor. |
 
 ## Properties
 
@@ -33,21 +33,21 @@ public class ThreadMessageResponse : BaseResponse, IStatus
 | [CompletedAt](./completedat/) { get; set; } | Gets or sets the Unix timestamp (in seconds) for when the message was completed. |
 | [Content](./content/) { get; set; } | Gets or sets the content of the message in an array of text and/or images. |
 | [CreatedAt](./createdat/) { get; set; } | Gets or sets the Unix timestamp (in seconds) for when the message was created. |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. *(Inherited from BaseResponse)* |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. *(Inherited from BaseResponse)* |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. *(Inherited from BaseResponse)* |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Gets or sets the HTTP response headers. *(Inherited from BaseResponse)* |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Gets or sets the HTTP status code. *(Inherited from BaseResponse)* |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Gets or sets the HTTP response headers. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Gets or sets the HTTP status code. |
 | [Id](./id/) { get; set; } | Gets or sets the identifier, which can be referenced in API endpoints. |
 | [IncompleteAt](./incompleteat/) { get; set; } | Gets or sets the Unix timestamp (in seconds) for when the message was marked as incomplete. |
 | [IncompleteDetails](./incompletedetails/) { get; set; } | Gets or sets an incomplete message, details about why the message is incomplete. |
-| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indicates if the response was successful. *(Inherited from BaseResponse)* |
-| [Metadata](./metadata/) { get; set; } | Gets or sets a set of 16 key-value pairs that can be attached to an object. |
+| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indicates if the response was successful. |
+| [Metadata](./metadata/) { get; set; } | Gets or sets a set of 16 key-value pairs that can be attached to an object. This can be useful for storing additional information about the object in a structured format. Keys can be a maximum of 64 characters long and values can be a maximum of 512 characters long. |
 | [Object](./object/) { get; set; } | Gets or sets the object type, which is always "thread.message". |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Gets the error reason phrase. *(Inherited from BaseResponse)* |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Gets the error reason phrase. |
 | [Role](./role/) { get; set; } | Gets or sets the entity that produced the message. One of "user" or "assistant". |
-| [RunId](./runid/) { get; set; } | Gets or sets the ID of the run associated with the creation of this message. |
-| [Status](./status/) { get; set; } | Gets or sets the status of the message. One of queued , in_progress , requires_action ,. |
+| [RunId](./runid/) { get; set; } | Gets or sets the ID of the run associated with the creation of this message. Value is null when messages are created manually. |
+| [Status](./status/) { get; set; } | Gets or sets the status of the message. One of queued , in_progress , requires_action , or completed . |
 | [ThreadId](./threadid/) { get; set; } | Gets or sets the ID of the thread to which this message belongs. |
 
 ### See Also

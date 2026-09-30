@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/bleedmarkannotation/bleedmarkannotation/"
 product_version: "26.9.0"
 ---
-## BleedMarkAnnotation([Page](../../../aspose.pdf/page/), [PrinterMarkCornerPosition](../../../aspose.pdf.annotations/printermarkcornerposition/)) {#constructor}
+## BleedMarkAnnotation constructor
 
 Initializes a new instance of the [`BleedMarkAnnotation`](../../../aspose.pdf.annotations/bleedmarkannotation/) class.
 
@@ -26,6 +26,8 @@ public BleedMarkAnnotation(Page page, PrinterMarkCornerPosition position)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* enum [PrinterMarkCornerPosition](../../../aspose.pdf.annotations/printermarkcornerposition/)
 * class [BleedMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

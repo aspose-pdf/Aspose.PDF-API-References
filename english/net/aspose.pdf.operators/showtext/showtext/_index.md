@@ -35,7 +35,7 @@ public ShowText(string text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string | argument of the operator. |
+| text | String | argument of the operator. |
 
 ### See Also
 
@@ -55,8 +55,8 @@ public ShowText(int index, string text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of operator in operators list. |
-| text | string | argument of the operator. |
+| index | Int32 | Index of operator in operators list. |
+| text | String | argument of the operator. |
 
 ### See Also
 
@@ -76,11 +76,12 @@ public ShowText(string text, Font font)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string | text to add. |
+| text | String | text to add. |
 | font | Font | font that is used to draw the text. |
 
 ### See Also
 
+* class [Font](../../../aspose.pdf.text/font/)
 * class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

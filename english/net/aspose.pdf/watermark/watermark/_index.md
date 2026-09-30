@@ -23,6 +23,7 @@ public Watermark(Image image)
 
 ### See Also
 
+* class [Image](../../../aspose.pdf/image/)
 * class [Watermark](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -44,6 +45,8 @@ public Watermark(Image image, Rectangle rect)
 
 ### See Also
 
+* class [Image](../../../aspose.pdf/image/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [Watermark](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

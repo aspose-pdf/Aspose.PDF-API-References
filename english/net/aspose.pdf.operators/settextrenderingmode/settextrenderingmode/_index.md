@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/settextrenderingmode/settextrenderingmode/"
 product_version: "26.9.0"
 ---
-## SetTextRenderingMode() {#constructor}
+## SetTextRenderingMode constructor
 
 Initializes operator.
 

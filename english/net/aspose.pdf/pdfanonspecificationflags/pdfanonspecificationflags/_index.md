@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/pdfanonspecificationflags/pdfanonspecificationflags/"
 product_version: "26.9.0"
 ---
-## PdfANonSpecificationFlags() {#constructor}
+## PdfANonSpecificationFlags constructor
 
 The default constructor.
 

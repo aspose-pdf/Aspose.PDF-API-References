@@ -5,7 +5,7 @@ articleTitle: "PdfFormatConversionOptions.RemoveFontsStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.PdfFormatConversionOptions.RemoveFontsStrategy enum. Some documens have large size after converison into PDF/A format. To reduce file size for the..."
 type: docs
-weight: 2470
+weight: 2430
 url: "/net/aspose.pdf/pdfformatconversionoptions.removefontsstrategy/"
 product_version: "26.9.0"
 ---
@@ -17,7 +17,8 @@ Some documens have large size after converison into PDF/A format. To reduce file
  Every strategy from this enumeration has sense only when flag `OptimizeFileSize` is set.
 
 ```csharp
-public enum RemoveFontsStrategy
+[Flags]
+public enum RemoveFontsStrategy : byte
 ```
 
 ### Values

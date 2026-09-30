@@ -22,7 +22,7 @@ public sealed class OcrTextRecognitionOptions
 
 | Name | Description |
 | --- | --- |
-| [OcrTextRecognitionOptions](./ocrtextrecognitionoptions/#constructor) | The default constructor. |
+| [OcrTextRecognitionOptions](./ocrtextrecognitionoptions/)() | The default constructor. |
 
 ## Properties
 

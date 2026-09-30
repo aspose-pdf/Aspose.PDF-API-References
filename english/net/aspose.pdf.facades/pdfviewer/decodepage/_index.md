@@ -9,7 +9,7 @@ weight: 190
 url: "/net/aspose.pdf.facades/pdfviewer/decodepage/"
 product_version: "26.9.0"
 ---
-## DecodePage(int) {#decodepage}
+## PdfViewer.DecodePage method
 
 Decodes a page of one Pdf file.
 
@@ -19,11 +19,9 @@ public Bitmap DecodePage(int pageNumber)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | int | The page number of one Pdf file which must be between 1 and PageCount. |
+| pageNumber | Int32 | The page number of one Pdf file which must be between 1 and PageCount. |
 
 ### Return Value
-
-Bitmap
 
 return the Pdf page image.
 

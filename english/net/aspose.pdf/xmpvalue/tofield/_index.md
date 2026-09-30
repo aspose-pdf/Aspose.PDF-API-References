@@ -9,7 +9,7 @@ weight: 130
 url: "/net/aspose.pdf/xmpvalue/tofield/"
 product_version: "26.9.0"
 ---
-## ToField() {#tofield}
+## XmpValue.ToField method
 
 Returns XMP value as XMP field.
 
@@ -18,8 +18,6 @@ public XmpField ToField()
 ```
 
 ### Return Value
-
-[XmpField](../../../aspose.pdf/xmpfield/)
 
 Field value.
 

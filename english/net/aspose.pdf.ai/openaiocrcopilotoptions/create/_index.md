@@ -14,19 +14,16 @@ product_version: "26.9.0"
 Creates a new instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
 ```csharp
-public OpenAIOcrCopilotOptions Create()
+public static OpenAIOcrCopilotOptions Create()
 ```
 
 ### Return Value
-
-[OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
 
 A new instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
 ### See Also
 
 * class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
-* class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,23 +34,20 @@ A new instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrco
 Creates an instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/) and configures it using the provided delegate.
 
 ```csharp
-public OpenAIOcrCopilotOptions Create(Action<OpenAIOcrCopilotOptions> config)
+public static OpenAIOcrCopilotOptions Create(Action<OpenAIOcrCopilotOptions> config)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| config | Action<OpenAIOcrCopilotOptions> | The delegate to configure the options. |
+| config | Action`1 | The delegate to configure the options. |
 
 ### Return Value
-
-[OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
 
 The configured instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
 ### See Also
 
 * class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
-* class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

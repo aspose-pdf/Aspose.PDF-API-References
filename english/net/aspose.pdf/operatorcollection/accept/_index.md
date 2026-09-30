@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/operatorcollection/accept/"
 product_version: "26.9.0"
 ---
-## Accept([IOperatorSelector](../../../aspose.pdf/ioperatorselector/)) {#accept}
+## OperatorCollection.Accept method
 
 Accepts IOperatorSelector visitor object to process operators.
 
@@ -23,6 +23,7 @@ public void Accept(IOperatorSelector visitor)
 
 ### See Also
 
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

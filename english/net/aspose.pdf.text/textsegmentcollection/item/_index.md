@@ -9,13 +9,21 @@ weight: 110
 url: "/net/aspose.pdf.text/textsegmentcollection/item/"
 product_version: "26.9.0"
 ---
-## TextSegmentCollection.Item property
+## TextSegmentCollection indexer
 
 Gets the text segment element at the specified index.
 
 ```csharp
-public TextSegment Item { get; }
+public TextSegment this[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Index within the collection. |
+
+### Return Value
+
+TextSegment object.
 
 ### See Also
 

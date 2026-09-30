@@ -5,7 +5,7 @@ articleTitle: "CustomCssSavingStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "HtmlSaveOptions field. This field can contain saving strategy that must be used (if present) during conversion of Pdf to Html for handling of saving of CSSes..."
 type: docs
-weight: 380
+weight: 370
 url: "/net/aspose.pdf/htmlsaveoptions/customcsssavingstrategy/"
 product_version: "26.9.0"
 ---

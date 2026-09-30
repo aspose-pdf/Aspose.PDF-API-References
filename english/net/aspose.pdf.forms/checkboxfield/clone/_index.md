@@ -5,21 +5,19 @@ articleTitle: "Clone"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "CheckboxField method. Clone the checkbox."
 type: docs
-weight: 50
+weight: 40
 url: "/net/aspose.pdf.forms/checkboxfield/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## CheckboxField.Clone method
 
 Clone the checkbox.
 
 ```csharp
-public object Clone()
+public override object Clone()
 ```
 
 ### Return Value
-
-object
 
 The cloned object
 

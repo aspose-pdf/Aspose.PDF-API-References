@@ -22,7 +22,7 @@ public sealed class ImagesDifference : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Difference](./difference/) { get; } | Gets the difference array. |
+| [Difference](./difference/) { get; } | Gets the difference array. This array is similar to the original image data array obtained as a result of the LockBits method. |
 | [Height](./height/) { get; } | The height of difference. |
 | [SourceImage](./sourceimage/) { get; } | Gets the image of first compared page. The image has a pixel format is 24bpp. |
 | [Stride](./stride/) { get; } | The stride of difference image data. |
@@ -31,9 +31,9 @@ public sealed class ImagesDifference : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [DifferenceToImage](./differencetoimage/)(*Color, Color*) | Converts the difference array to a bitmap image using the specified colors. |
-| [Dispose](./dispose/) | Performs any necessary clean up operations before the object is destroyed. |
-| [GetDestinationImage](./getdestinationimage/) | Returns a new bitmap representing the destination image by applying the difference array to the source image. |
+| [DifferenceToImage](./differencetoimage/)(Color, Color) | Converts the difference array to a bitmap image using the specified colors. |
+| [Dispose](./dispose/)() | Performs any necessary clean up operations before the object is destroyed. |
+| [GetDestinationImage](./getdestinationimage/)() | Returns a new bitmap representing the destination image by applying the difference array to the source image. |
 
 ### See Also
 

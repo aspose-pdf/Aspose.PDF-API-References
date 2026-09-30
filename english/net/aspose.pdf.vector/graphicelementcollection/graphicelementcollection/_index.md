@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.vector/graphicelementcollection/graphicelementcollection/"
 product_version: "26.9.0"
 ---
-## GraphicElementCollection() {#constructor}
+## GraphicElementCollection constructor
 
 Initializes the new collection.
 

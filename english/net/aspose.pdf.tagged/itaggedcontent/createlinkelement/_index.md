@@ -9,7 +9,7 @@ weight: 340
 url: "/net/aspose.pdf.tagged/itaggedcontent/createlinkelement/"
 product_version: "26.9.0"
 ---
-## CreateLinkElement() {#createlinkelement}
+## ITaggedContent.CreateLinkElement method
 
 Creates [`LinkElement`](../../../aspose.pdf.logicalstructure/linkelement/).
 
@@ -18,8 +18,6 @@ public LinkElement CreateLinkElement()
 ```
 
 ### Return Value
-
-[LinkElement](../../../aspose.pdf.logicalstructure/linkelement/)
 
 Created structure element.
 

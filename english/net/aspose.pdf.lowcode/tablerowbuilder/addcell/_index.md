@@ -9,17 +9,15 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/tablerowbuilder/addcell/"
 product_version: "26.9.0"
 ---
-## AddCell() {#addcell}
+## TableRowBuilder.AddCell method
 
 Add cell to table row.
 
 ```csharp
-public TableCellBuilder AddCell()
+public virtual TableCellBuilder AddCell()
 ```
 
 ### Return Value
-
-[TableCellBuilder](../../../aspose.pdf.lowcode/tablecellbuilder/)
 
 Instance of created [`TableCellBuilder`](../../../aspose.pdf.lowcode/tablecellbuilder/).
 

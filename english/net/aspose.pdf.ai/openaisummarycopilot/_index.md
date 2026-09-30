@@ -50,14 +50,14 @@ Provides functionality for getting document summaries using AI models.
  await summaryCopilot.SaveSummaryAsync("outputPath", SaveFormat.DocX);
 
 ```csharp
-public class OpenAISummaryCopilot : ISummaryCopilot, IAICopilot
+public class OpenAISummaryCopilot : ISummaryCopilot
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [OpenAISummaryCopilot](./openaisummarycopilot/#constructor)(*[IOpenAIClient](../../aspose.pdf.ai/iopenaiclient/), ISummaryCopilotOptions<OpenAISummaryCopilotOptions>*) | Initializes a new instance of the [`OpenAISummaryCopilot`](../../aspose.pdf.ai/openaisummarycopilot/) class. |
+| [OpenAISummaryCopilot](./openaisummarycopilot/)(IOpenAIClient, ISummaryCopilotOptions<OpenAISummaryCopilotOptions>) | Initializes a new instance of the [`OpenAISummaryCopilot`](../../aspose.pdf.ai/openaisummarycopilot/) class. |
 
 ## Properties
 
@@ -69,11 +69,11 @@ public class OpenAISummaryCopilot : ISummaryCopilot, IAICopilot
 
 | Name | Description |
 | --- | --- |
-| [GetSummaryAsync](./getsummaryasync/)(*Nullable<CancellationToken>*) |  |
-| [GetSummaryDocumentAsync](./getsummarydocumentasync/)(*Nullable<CancellationToken>*) |  |
-| [GetSummaryDocumentAsync](./getsummarydocumentasync/)(*PageInfo, Nullable<CancellationToken>*) |  |
-| [SaveSummaryAsync](./savesummaryasync/)(*string, Nullable<CancellationToken>*) |  |
-| [SaveSummaryAsync](./savesummaryasync/)(*string, SaveFormat, Nullable<CancellationToken>*) |  |
+| [GetSummaryAsync](./getsummaryasync/)(CancellationToken?) |  |
+| [GetSummaryDocumentAsync](./getsummarydocumentasync/)(CancellationToken?) |  |
+| [GetSummaryDocumentAsync](./getsummarydocumentasync/)(PageInfo, CancellationToken?) |  |
+| [SaveSummaryAsync](./savesummaryasync/)(string, CancellationToken?) |  |
+| [SaveSummaryAsync](./savesummaryasync/)(string, SaveFormat, CancellationToken?) |  |
 
 ### See Also
 

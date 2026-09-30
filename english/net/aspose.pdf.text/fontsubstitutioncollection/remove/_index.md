@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove([FontSubstitution](../../../aspose.pdf.text/fontsubstitution/)) {#remove}
+## FontSubstitutionCollection.Remove method
 
 Deletes the font substitution element.
 
@@ -23,12 +23,11 @@ public bool Remove(FontSubstitution item)
 
 ### Return Value
 
-bool
-
 True - if element removed; otherwise, false.
 
 ### See Also
 
+* class [FontSubstitution](../../../aspose.pdf.text/fontsubstitution/)
 * class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

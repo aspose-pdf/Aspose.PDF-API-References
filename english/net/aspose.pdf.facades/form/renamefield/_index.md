@@ -5,11 +5,11 @@ articleTitle: "RenameField"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Renames a field. Either AcroForm field or XFA field is OK."
 type: docs
-weight: 390
+weight: 320
 url: "/net/aspose.pdf.facades/form/renamefield/"
 product_version: "26.9.0"
 ---
-## RenameField(string, string) {#renamefield}
+## Form.RenameField method
 
 Renames a field. Either AcroForm field or XFA field is OK.
 
@@ -19,8 +19,8 @@ public void RenameField(string fieldName, string newFieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | the old field name |
-| newFieldName | string | the new field name |
+| fieldName | String | the old field name |
+| newFieldName | String | the new field name |
 
 ### See Also
 

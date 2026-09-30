@@ -9,24 +9,23 @@ weight: 180
 url: "/net/aspose.pdf.ai/iopenaiclient/modifyrunasync/"
 product_version: "26.9.0"
 ---
-## ModifyRunAsync(string, string, [RunModifyRequest](../../../aspose.pdf.ai/runmodifyrequest/), Nullable<CancellationToken>) {#modifyrunasync}
+## IOpenAIClient.ModifyRunAsync method
 
 Modifies an existing run within a thread asynchronously.
 
 ```csharp
-public Task<RunResponse> ModifyRunAsync(string threadId, string runId, RunModifyRequest assistantModifyRequest, Nullable<CancellationToken> cancellationToken)
+public Task<RunResponse> ModifyRunAsync(string threadId, string runId, 
+    RunModifyRequest assistantModifyRequest, CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threadId | string | The ID of the thread containing the run. |
-| runId | string | The ID of the run to modify. |
+| threadId | String | The ID of the thread containing the run. |
+| runId | String | The ID of the run to modify. |
 | assistantModifyRequest | RunModifyRequest | The request details for modifying the run. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[RunResponse](../../../aspose.pdf.ai/runresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the response from the run modification.
 
@@ -39,6 +38,7 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
+* class [RunModifyRequest](../../../aspose.pdf.ai/runmodifyrequest/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

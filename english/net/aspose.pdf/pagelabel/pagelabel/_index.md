@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/pagelabel/pagelabel/"
 product_version: "26.9.0"
 ---
-## PageLabel() {#constructor}
+## PageLabel constructor
 
 Constructor for page label.
 

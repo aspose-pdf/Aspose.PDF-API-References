@@ -22,16 +22,16 @@ public sealed class TextBuilder
 
 | Name | Description |
 | --- | --- |
-| [TextBuilder](./textbuilder/#constructor)(*[Page](../../aspose.pdf/page/)*) | Initializes a new instance of [`TextBuilder`](../../aspose.pdf.text/textbuilder/) class for the Pdf page. |
-| [TextBuilder](./textbuilder/#constructor_1)(*[Page](../../aspose.pdf/page/), [BaseOperatorCollection](../../aspose.pdf/baseoperatorcollection/)*) | Initializes a new instance of [`TextBuilder`](../../aspose.pdf.text/textbuilder/) class for the Pdf page. |
+| [TextBuilder](./textbuilder/#constructor)(Page) | Initializes a new instance of [`TextBuilder`](../../aspose.pdf.text/textbuilder/) class for the Pdf page. |
+| [TextBuilder](./textbuilder/#constructor_1)(Page, BaseOperatorCollection) | Initializes a new instance of [`TextBuilder`](../../aspose.pdf.text/textbuilder/) class for the Pdf page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AppendParagraph](./appendparagraph/)(*TextParagraph*) | Appends text paragraph to Pdf page. |
-| [AppendText](./appendtext/)(*TextFragment*) | Appends text fragment to Pdf page. |
-| [AppendText](./appendtext/)(*List<TextFragment>*) | Appends list of text fragments to Pdf page. |
+| [AppendParagraph](./appendparagraph/)(TextParagraph) | Appends text paragraph to Pdf page. |
+| [AppendText](./appendtext/)(List<TextFragment>) | Appends list of text fragments to Pdf page. |
+| [AppendText](./appendtext/)(TextFragment) | Appends text fragment to Pdf page |
 
 ### See Also
 

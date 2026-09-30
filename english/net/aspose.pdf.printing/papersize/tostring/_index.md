@@ -9,17 +9,15 @@ weight: 30
 url: "/net/aspose.pdf.printing/papersize/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## PaperSize.ToString method
 
 Provides some interesting information about the PaperSize in String form.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String representing PaperSize.
 

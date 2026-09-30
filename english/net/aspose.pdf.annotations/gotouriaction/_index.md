@@ -22,21 +22,21 @@ public sealed class GoToURIAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [GoToURIAction](./gotouriaction/#constructor)(*string*) | Creates an instance of [`GoToURIAction`](../../aspose.pdf.annotations/gotouriaction/) class. |
+| [GoToURIAction](./gotouriaction/)(string) | Creates an instance of [`GoToURIAction`](../../aspose.pdf.annotations/gotouriaction/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. *(Inherited from PdfAction)* |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 | [URI](./uri/) { get; set; } | Gets or sets the uniform resource identifier to resolve. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/) | Gets string for ECMAScript Action. *(Inherited from PdfAction)* |
-| [ToString](../../aspose.pdf.annotations/iappointment/tostring/) | Returns string representation. *(Inherited from IAppointment)* |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Returns string representation |
 
 ### See Also
 

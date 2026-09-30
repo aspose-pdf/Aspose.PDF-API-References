@@ -5,7 +5,7 @@ articleTitle: "HeaderArtifact"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.HeaderArtifact class. Class describes Heaader artifact. This artifacgt may be used to set heading of the page."
 type: docs
-weight: 1040
+weight: 1030
 url: "/net/aspose.pdf/headerartifact/"
 keywords: "HeaderArtifact, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,50 +22,50 @@ public class HeaderArtifact : Artifact
 
 | Name | Description |
 | --- | --- |
-| [HeaderArtifact](./headerartifact/#constructor) | Creates Header Artifact instance. |
+| [HeaderArtifact](./headerartifact/)() | Creates Header Artifact instance. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ArtifactHorizontalAlignment](../../aspose.pdf/artifact/artifacthorizontalalignment/) { get; set; } | Horizontal alignment of artifact. *(Inherited from Artifact)* |
-| [ArtifactVerticalAlignment](../../aspose.pdf/artifact/artifactverticalalignment/) { get; set; } | Vertical alignment of artifact. *(Inherited from Artifact)* |
-| [BottomMargin](../../aspose.pdf/artifact/bottommargin/) { get; set; } | Bottom margin of artifact. *(Inherited from Artifact)* |
-| [Contents](../../aspose.pdf/artifact/contents/) { get; } | Gets collection of artifact internal operators. *(Inherited from Artifact)* |
-| [CustomSubtype](../../aspose.pdf/artifact/customsubtype/) { get; set; } | Gets name of artifact subtype. May be used if artifact subtype is not standard subtype. *(Inherited from Artifact)* |
-| [CustomType](../../aspose.pdf/artifact/customtype/) { get; set; } | Gets name of artifact type. May be used if artifact type is non standard. *(Inherited from Artifact)* |
-| [Form](../../aspose.pdf/artifact/form/) { get; } | Gets XForm of the artifact (if XForm is used). *(Inherited from Artifact)* |
-| [Image](../../aspose.pdf/artifact/image/) { get; } | Gets image of the artifact (if presents). *(Inherited from Artifact)* |
-| [IsBackground](../../aspose.pdf/artifact/isbackground/) { get; set; } | If true Artifact is placed behind page contents. *(Inherited from Artifact)* |
-| [LeftMargin](../../aspose.pdf/artifact/leftmargin/) { get; set; } | Left margin of artifact. *(Inherited from Artifact)* |
-| [Lines](../../aspose.pdf/artifact/lines/) { get; } | Lines of multiline text artifact. *(Inherited from Artifact)* |
-| [Opacity](../../aspose.pdf/artifact/opacity/) { get; set; } | Gets or sets opacity of the artifact. Possible values are in range 0..1. *(Inherited from Artifact)* |
-| [Position](../../aspose.pdf/artifact/position/) { get; set; } | Gets or sets artifact position. *(Inherited from Artifact)* |
-| [Rectangle](../../aspose.pdf/artifact/rectangle/) { get; } | Gets rectangle of the artifact. *(Inherited from Artifact)* |
-| [RightMargin](../../aspose.pdf/artifact/rightmargin/) { get; set; } | Right margin of artifact. *(Inherited from Artifact)* |
-| [Rotation](../../aspose.pdf/artifact/rotation/) { get; set; } | Gets or sets artifact rotation angle. *(Inherited from Artifact)* |
-| [Subtype](../../aspose.pdf/artifact/subtype/) { get; set; } | Gets artifact subtype. If artifact has non-standard subtype, name of the subtype may be read via CustomSubtype. *(Inherited from Artifact)* |
-| [Text](../../aspose.pdf/artifact/text/) { get; set; } | Gets text of the artifact. *(Inherited from Artifact)* |
-| [TextState](../../aspose.pdf/artifact/textstate/) { get; set; } | Text state for artifact text. *(Inherited from Artifact)* |
-| [TopMargin](../../aspose.pdf/artifact/topmargin/) { get; set; } | Top margin of artifact. *(Inherited from Artifact)* |
-| [Type](../../aspose.pdf/artifact/type/) { get; set; } | Gets artifact type. *(Inherited from Artifact)* |
+| [ArtifactHorizontalAlignment](../../aspose.pdf/artifact/artifacthorizontalalignment/) { get; set; } | Horizontal alignment of artifact. If position is specified explicitly (in Position property) this value is ignored. |
+| [ArtifactVerticalAlignment](../../aspose.pdf/artifact/artifactverticalalignment/) { get; set; } | Vertical alignment of artifact. If position is specified explicitly (in Position property) this value is ignored. |
+| [BottomMargin](../../aspose.pdf/artifact/bottommargin/) { get; set; } | Bottom margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
+| [Contents](../../aspose.pdf/artifact/contents/) { get; } | Gets collection of artifact internal operators. |
+| [CustomSubtype](../../aspose.pdf/artifact/customsubtype/) { get; set; } | Gets name of artifact subtype. May be used if artifact subtype is not standard subtype. |
+| [CustomType](../../aspose.pdf/artifact/customtype/) { get; set; } | Gets name of artifact type. May be used if artifact type is non standard. |
+| [Form](../../aspose.pdf/artifact/form/) { get; } | Gets XForm of the artifact (if XForm is used). |
+| [Image](../../aspose.pdf/artifact/image/) { get; } | Gets image of the artifact (if presents). |
+| [IsBackground](../../aspose.pdf/artifact/isbackground/) { get; set; } | If true Artifact is placed behind page contents. |
+| [LeftMargin](../../aspose.pdf/artifact/leftmargin/) { get; set; } | Left margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
+| [Lines](../../aspose.pdf/artifact/lines/) { get; } | Lines of multiline text artifact. |
+| [Opacity](../../aspose.pdf/artifact/opacity/) { get; set; } | Gets or sets opacity of the artifact. Possible values are in range 0..1. |
+| [Position](../../aspose.pdf/artifact/position/) { get; set; } | Gets or sets artifact position. If this property is specified, then margins and alignments are ignored. |
+| [Rectangle](../../aspose.pdf/artifact/rectangle/) { get; } | Gets rectangle of the artifact. |
+| [RightMargin](../../aspose.pdf/artifact/rightmargin/) { get; set; } | Right margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
+| [Rotation](../../aspose.pdf/artifact/rotation/) { get; set; } | Gets or sets artifact rotation angle. |
+| [Subtype](../../aspose.pdf/artifact/subtype/) { get; set; } | Gets artifact subtype. If artifact has non-standard subtype, name of the subtype may be read via CustomSubtype. |
+| [Text](../../aspose.pdf/artifact/text/) { get; set; } | Gets text of the artifact. |
+| [TextState](../../aspose.pdf/artifact/textstate/) { get; set; } | Text state for artifact text. |
+| [TopMargin](../../aspose.pdf/artifact/topmargin/) { get; set; } | Top margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
+| [Type](../../aspose.pdf/artifact/type/) { get; set; } | Gets artifact type. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [BeginUpdates](../../aspose.pdf/artifact/beginupdates/) | Start delated updates. Use this feature if you need make several changes to the same artifact to improve performance. *(Inherited from Artifact)* |
-| [Dispose](../../aspose.pdf/artifact/dispose/) | Dispose the artifact. *(Inherited from Artifact)* |
-| [GetValue](../../aspose.pdf/artifact/getvalue/)(*string*) | Gets custom value of artifact. *(Inherited from Artifact)* |
-| [RemoveValue](../../aspose.pdf/artifact/removevalue/)(*string*) | Remove custom value from the artifact. *(Inherited from Artifact)* |
-| [SaveUpdates](../../aspose.pdf/artifact/saveupdates/) | Saves all updates in artifact which were made after BeginUpdates() call. *(Inherited from Artifact)* |
-| [SetImage](../../aspose.pdf/artifact/setimage/)(*Stream*) | Sets image of the artifact. *(Inherited from Artifact)* |
-| [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate/)(*string[], TextState*) | Set text and text properties of the artifact. Allows to specify multiple lines. *(Inherited from Artifact)* |
-| [SetPageNumberReplacementString](../../aspose.pdf/artifact/setpagenumberreplacementstring/)(*string*) | Sets what string will be replaced with the page number. *(Inherited from Artifact)* |
-| [SetPdfPage](../../aspose.pdf/artifact/setpdfpage/)(*Page*) | Sets PDF page which is placed on the document page as artifact. *(Inherited from Artifact)* |
-| [SetText](../../aspose.pdf/artifact/settext/)(*FormattedText*) | Sets text of the artifact. *(Inherited from Artifact)* |
-| [SetTextAndState](../../aspose.pdf/artifact/settextandstate/)(*string, TextState*) | Set text and text properties of the artifact. *(Inherited from Artifact)* |
-| [SetValue](../../aspose.pdf/artifact/setvalue/)(*string, string*) | Sets custom value of artifact. *(Inherited from Artifact)* |
+| [BeginUpdates](../../aspose.pdf/artifact/beginupdates/)() | Start delated updates. Use this feature if you need make several changes to the same artifact to improve performance. Usually artifact operators are changed anytime when artifact property was changed. This causes changing of page contents everytime when artifact was changed. To avoid this effect put all artifact updates between StartUpdates/SaveUpdates calls. This allows to change page contents only once. |
+| [Dispose](../../aspose.pdf/artifact/dispose/)() | Dispose the artifact. |
+| [GetValue](../../aspose.pdf/artifact/getvalue/)(string) | Gets custom value of artifact. |
+| [RemoveValue](../../aspose.pdf/artifact/removevalue/)(string) | Remove custom value from the artifact. |
+| [SaveUpdates](../../aspose.pdf/artifact/saveupdates/)() | Saves all updates in artifact which were made after BeginUpdates() call. |
+| [SetImage](../../aspose.pdf/artifact/setimage/)(Stream) | Sets image of the artifact. |
+| [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate/)(string[], TextState) | Set text and text properties of the artifact. Allows to specify multiple lines. |
+| [SetPageNumberReplacementString](../../aspose.pdf/artifact/setpagenumberreplacementstring/)(string) | Sets what string will be replaced with the page number. The default value is #. |
+| [SetPdfPage](../../aspose.pdf/artifact/setpdfpage/)(Page) | Sets PDF page which is placed on the document page as artifact. |
+| [SetText](../../aspose.pdf/artifact/settext/)(FormattedText) | Sets text of the artifact. |
+| [SetTextAndState](../../aspose.pdf/artifact/settextandstate/)(string, TextState) | Set text and text properties of the artifact. |
+| [SetValue](../../aspose.pdf/artifact/setvalue/)(string, string) | Sets custom value of artifact. |
 
 ### See Also
 

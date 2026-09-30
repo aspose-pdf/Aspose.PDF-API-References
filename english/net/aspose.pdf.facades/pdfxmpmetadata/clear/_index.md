@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## PdfXmpMetadata.Clear method
 
 Removes all elements from the object.
 

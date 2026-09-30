@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.text/fontsourcecollection/delete/"
 product_version: "26.9.0"
 ---
-## Delete([FontSource](../../../aspose.pdf.text/fontsource/)) {#delete}
+## FontSourceCollection.Delete method
 
 Deletes the font source element.
 
@@ -23,6 +23,7 @@ public void Delete(FontSource fontSource)
 
 ### See Also
 
+* class [FontSource](../../../aspose.pdf.text/fontsource/)
 * class [FontSourceCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

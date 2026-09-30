@@ -21,7 +21,7 @@ public SignHash CustomSignHash { get; set; }
 
 ### See Also
 
-* class [SignHash](../../../aspose.pdf.forms/signhash/)
+* delegate [SignHash](../../../aspose.pdf.forms/signhash/)
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

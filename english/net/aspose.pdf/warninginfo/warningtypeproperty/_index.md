@@ -17,9 +17,13 @@ Returns warning type.
 public WarningType WarningTypeProperty { get; }
 ```
 
+### Return Value
+
+the warning type
+
 ### See Also
 
-* class [WarningType](../../../aspose.pdf/warningtype/)
+* enum [WarningType](../../../aspose.pdf/warningtype/)
 * class [WarningInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

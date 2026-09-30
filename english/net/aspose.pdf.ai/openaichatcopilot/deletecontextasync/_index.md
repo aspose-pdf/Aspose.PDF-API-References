@@ -9,17 +9,17 @@ weight: 90
 url: "/net/aspose.pdf.ai/openaichatcopilot/deletecontextasync/"
 product_version: "26.9.0"
 ---
-## DeleteContextAsync(Nullable<CancellationToken>) {#deletecontextasync}
+## OpenAIChatCopilot.DeleteContextAsync method
 
 
 
 ```csharp
-public Task DeleteContextAsync(Nullable<CancellationToken> cancellationToken)
+public Task DeleteContextAsync(CancellationToken? cancellationToken)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cancellationToken | Nullable<CancellationToken> |  |
+| cancellationToken | Nullable`1 |  |
 
 ### Return Value
 

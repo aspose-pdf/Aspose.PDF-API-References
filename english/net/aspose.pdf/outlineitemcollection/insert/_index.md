@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf/outlineitemcollection/insert/"
 product_version: "26.9.0"
 ---
-## Insert(int, [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)) {#insert}
+## OutlineItemCollection.Insert method
 
 Inserts the outline item into collection at the specified place.
 
@@ -19,12 +19,12 @@ public void Insert(int index, OutlineItemCollection outline)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | The index specifying place for inserting. |
+| index | Int32 | The index specifying place for inserting. |
 | outline | OutlineItemCollection | The outline item should be inserted. |
 
 ### See Also
 
-* class [OutlineItemCollection](../)
+* class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

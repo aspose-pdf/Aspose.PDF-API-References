@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf.tagged/itaggedcontent/createcaptionelement/"
 product_version: "26.9.0"
 ---
-## CreateCaptionElement() {#createcaptionelement}
+## ITaggedContent.CreateCaptionElement method
 
 Creates [`CaptionElement`](../../../aspose.pdf.logicalstructure/captionelement/).
 
@@ -18,8 +18,6 @@ public CaptionElement CreateCaptionElement()
 ```
 
 ### Return Value
-
-[CaptionElement](../../../aspose.pdf.logicalstructure/captionelement/)
 
 Created structure element.
 

@@ -21,11 +21,12 @@ public void SetReviewState(AnnotationState state, string userName)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | state | AnnotationState | Status for assignment. |
-| userName | string | The username that appears in the comments header.
+| userName | String | The username that appears in the comments header.
  The name can be the same as the name in the Title of the target annotation or different if the status is set by another user. |
 
 ### See Also
 
+* enum [AnnotationState](../../../aspose.pdf.annotations/annotationstate/)
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -48,6 +49,7 @@ public void SetReviewState(AnnotationState state)
 
 ### See Also
 
+* enum [AnnotationState](../../../aspose.pdf.annotations/annotationstate/)
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -22,7 +22,7 @@ public class Error
 
 | Name | Description |
 | --- | --- |
-| [Error](./error/#constructor) | The default constructor. |
+| [Error](./error/)() | The default constructor. |
 
 ## Properties
 

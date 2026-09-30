@@ -9,17 +9,17 @@ weight: 110
 url: "/net/aspose.pdf.logicalstructure/structureattribute/setarraynumbervalue/"
 product_version: "26.9.0"
 ---
-## SetArrayNumberValue(Nullable<double>[]) {#setarraynumbervalue}
+## StructureAttribute.SetArrayNumberValue method
 
 
 
 ```csharp
-public void SetArrayNumberValue(Nullable<double>[] arrayNumber)
+public void SetArrayNumberValue(double?[] arrayNumber)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| arrayNumber | Nullable<double>[] |  |
+| arrayNumber | Nullable`1[] |  |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 280
 url: "/net/aspose.pdf.tagged/itaggedcontent/createspanelement/"
 product_version: "26.9.0"
 ---
-## CreateSpanElement() {#createspanelement}
+## ITaggedContent.CreateSpanElement method
 
 Creates [`SpanElement`](../../../aspose.pdf.logicalstructure/spanelement/).
 
@@ -18,8 +18,6 @@ public SpanElement CreateSpanElement()
 ```
 
 ### Return Value
-
-[SpanElement](../../../aspose.pdf.logicalstructure/spanelement/)
 
 Created structure element.
 

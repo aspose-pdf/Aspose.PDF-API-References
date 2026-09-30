@@ -23,14 +23,12 @@ public OpenAIOcrCopilotOptions WithDocuments(DocumentCollection documentCollecti
 
 ### Return Value
 
-[OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
-
 The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
 ### See Also
 
 * class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
-* class [OpenAIOcrCopilotOptions](../)
+* class [DocumentCollection](../../../aspose.pdf.ai/documentcollection/)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -46,18 +44,15 @@ public OpenAIOcrCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdfDocuments | List<PdfDocument> | The list of PDF documents to add. |
+| pdfDocuments | List`1 | The list of PDF documents to add. |
 
 ### Return Value
-
-[OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
 
 The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
 ### See Also
 
 * class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
-* class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -73,18 +68,15 @@ public OpenAIOcrCopilotOptions WithDocuments(List<string> filePaths)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filePaths | List<string> | The list of file paths to add. |
+| filePaths | List`1 | The list of file paths to add. |
 
 ### Return Value
-
-[OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
 
 The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
 
 ### See Also
 
 * class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
-* class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

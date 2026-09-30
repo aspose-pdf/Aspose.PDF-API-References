@@ -22,7 +22,7 @@ public static class CancellationTokenExtensions
 
 | Name | Description |
 | --- | --- |
-| [NoneIfNull](./noneifnull/)(*Nullable<CancellationToken>*) | Returns CancellationToken.None if the input CancellationToken is null; otherwise, returns the input CancellationToken. |
+| static [NoneIfNull](./noneifnull/)(this CancellationToken?) | Returns CancellationToken.None if the input CancellationToken is null; otherwise, returns the input CancellationToken. |
 
 ### See Also
 

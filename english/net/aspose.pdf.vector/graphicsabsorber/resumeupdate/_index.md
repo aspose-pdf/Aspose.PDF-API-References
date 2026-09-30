@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.vector/graphicsabsorber/resumeupdate/"
 product_version: "26.9.0"
 ---
-## ResumeUpdate() {#resumeupdate}
+## GraphicsAbsorber.ResumeUpdate method
 
 Resume update for `Contents` and all `Contents` 
  Was made for performance increase, see also .

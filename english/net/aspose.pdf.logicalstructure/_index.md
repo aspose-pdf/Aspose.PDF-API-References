@@ -41,7 +41,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [FormulaElement](./formulaelement/) | Represents Formula structure element in logical structure. |
 | [GroupingElement](./groupingelement/) | Represents a base class for grouping structure elements in logical structure. |
 | [HeaderElement](./headerelement/) | Represents Header structure element in logical structure. |
-| [HeaderElementTextConflictException](./headerelementtextconflictexception/) | Represents an exception that is thrown when the header element's text is set manually. |
+| [HeaderElementTextConflictException](./headerelementtextconflictexception/) | Represents an exception that is thrown when the header element's text is set manually while it is already bound to a Table of Contents (TOC) title, causing a conflict. |
 | [ILSElement](./ilselement/) | Represents a base class for inline-level structure elements in logical structure. |
 | [ILSTextElement](./ilstextelement/) | Represents a base class for inline-level text structure elements in logical structure. |
 | [IllustrationElement](./illustrationelement/) | Represents a base class for illustration structure elements in logical structure. |
@@ -73,7 +73,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [StructureAttributeCollection](./structureattributecollection/) | Represents collection of attributes of structure elements. |
 | [StructureAttributes](./structureattributes/) | Represents attributes of structure element for standard attribute owners. |
 | [StructureElement](./structureelement/) | Represents a base class for structure elements in logical structure. |
-| [StructureTextState](./structuretextstate/) | Represents text state settings for Text Structure Elements and TaggedContent (ITextElement, ITaggedContent). |
+| [StructureTextState](./structuretextstate/) | Represents text state settings for Text Structure Elements and TaggedContent (ITextElement, ITaggedContent) |
 | [StructureTypeCategory](./structuretypecategory/) | Represents Categories of Standard Structure Types. |
 | [StructureTypeStandard](./structuretypestandard/) | Represents Standard Structure Types. |
 | [TOCElement](./tocelement/) | Represents TOC structure element in logical structure. |

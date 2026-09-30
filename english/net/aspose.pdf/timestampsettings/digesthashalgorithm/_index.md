@@ -19,7 +19,7 @@ public DigestHashAlgorithm DigestHashAlgorithm { get; set; }
 
 ### See Also
 
-* class [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
 * class [TimestampSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

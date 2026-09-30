@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/vectorstoremodifyrequest/vectorstoremodifyrequest/"
 product_version: "26.9.0"
 ---
-## VectorStoreModifyRequest() {#constructor}
+## VectorStoreModifyRequest constructor
 
 The default constructor.
 

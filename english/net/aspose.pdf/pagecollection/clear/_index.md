@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/pagecollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## PageCollection.Clear method
 
 Clear page collection.
 

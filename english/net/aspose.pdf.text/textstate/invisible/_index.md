@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the invisibility of text. This basically reflects the `RenderingMode` state, except for some special cases (like clipping).
 
 ```csharp
-public bool Invisible { get; set; }
+public virtual bool Invisible { get; set; }
 ```
 
 ### See Also

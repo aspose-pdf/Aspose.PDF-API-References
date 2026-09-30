@@ -22,25 +22,31 @@ public sealed class PdfToXlsOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfToXlsOptions](./pdftoxlsoptions/#constructor) | The default constructor. |
+| [PdfToXlsOptions](./pdftoxlsoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Format](./format/) { get; set; } | Output format. |
-| [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. *(Inherited from PdfConverterOptions)* |
-| [InsertBlankColumnAtFirst](./insertblankcolumnatfirst/) { get; set; } | Set true if you need inserting of blank column as the first column of worksheet. |
-| [MinimizeTheNumberOfWorksheets](./minimizethenumberofworksheets/) { get; set; } | Set true if you need to minimize the number of worksheets in resultant workbook. |
-| [OperationName](./operationname/) { get; } | Gets name of the operation. |
-| [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. *(Inherited from PdfConverterOptions)* |
+| [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
+| [InsertBlankColumnAtFirst](./insertblankcolumnatfirst/) { get; set; } | Set true if you need inserting of blank column as the first column of worksheet. Default value is false; it means that blank column will not be inserted. |
+| [MinimizeTheNumberOfWorksheets](./minimizethenumberofworksheets/) { get; set; } | Set true if you need to minimize the number of worksheets in resultant workbook. Default value is false; it means save of each PDF page as separated worksheet. |
+| override [OperationName](./operationname/) { get; } | Gets name of the operation. |
+| [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.lowcode/pdfconverteroptions/addinput/)(*IDataSource*) | Adds new data source to the PdfConverter plugin data collection. *(Inherited from PdfConverterOptions)* |
-| [AddOutput](../../aspose.pdf.lowcode/pdfconverteroptions/addoutput/)(*IDataSource*) | Adds new data source to the PdfToXLSXConverterOptions plugin data collection. *(Inherited from PdfConverterOptions)* |
+| [AddInput](../../aspose.pdf.lowcode/pdfconverteroptions/addinput/)(IDataSource) | Adds new data source to the PdfConverter plugin data collection. |
+| [AddOutput](../../aspose.pdf.lowcode/pdfconverteroptions/addoutput/)(IDataSource) | Adds new data source to the PdfToXLSXConverterOptions plugin data collection. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| enum [ExcelFormat](../../aspose.pdf.lowcode/pdftoxlsoptions.excelformat) | Allows to specify .xlsx, .xls/xml or csv file format. Default value is XLSX. |
 
 ### See Also
 

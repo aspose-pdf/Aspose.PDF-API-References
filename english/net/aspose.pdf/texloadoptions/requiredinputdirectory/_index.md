@@ -21,7 +21,7 @@ public ITeXInputDirectory RequiredInputDirectory { get; set; }
 
 ### See Also
 
-* class [ITeXInputDirectory](../../../aspose.pdf/itexinputdirectory/)
+* interface [ITeXInputDirectory](../../../aspose.pdf/itexinputdirectory/)
 * class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

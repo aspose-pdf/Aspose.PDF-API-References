@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/iqueryparameters/getqueryparameters/"
 product_version: "26.9.0"
 ---
-## GetQueryParameters() {#getqueryparameters}
+## IQueryParameters.GetQueryParameters method
 
 Gets the query parameters as a string.
 
@@ -18,8 +18,6 @@ public string GetQueryParameters()
 ```
 
 ### Return Value
-
-string
 
 The query parameters as a string.
 

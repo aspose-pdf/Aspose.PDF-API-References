@@ -9,17 +9,15 @@ weight: 20
 url: "/net/aspose.pdf/htmlfragment/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## HtmlFragment.Clone method
 
 Clones html fragment.
 
 ```csharp
-public object Clone()
+public override object Clone()
 ```
 
 ### Return Value
-
-object
 
 Cloned html fragment object.
 

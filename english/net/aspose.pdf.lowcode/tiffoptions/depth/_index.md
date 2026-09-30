@@ -25,7 +25,7 @@ The color depth.
 
 ### See Also
 
-* class [ColorDepth](../../../aspose.pdf.devices/colordepth/)
+* enum [ColorDepth](../../../aspose.pdf.devices/colordepth/)
 * class [TiffOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

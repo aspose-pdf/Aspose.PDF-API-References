@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf.security/icustomsecurityhandler/isuserpassword/"
 product_version: "26.9.0"
 ---
-## IsUserPassword(string) {#isuserpassword}
+## ICustomSecurityHandler.IsUserPassword method
 
 Check if the password belongs to the user (password for opening the document).
  The method is called after Initialize. The method call is used in the PDF API.
@@ -20,11 +20,9 @@ public bool IsUserPassword(string password)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| password | string | The password. |
+| password | String | The password. |
 
 ### Return Value
-
-bool
 
 True, if it is a password for opening the document.
 

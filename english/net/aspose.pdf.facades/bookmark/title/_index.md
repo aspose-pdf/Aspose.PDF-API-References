@@ -5,7 +5,7 @@ articleTitle: "Title"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Bookmark property. Gets or sets bookmark's title."
 type: docs
-weight: 180
+weight: 170
 url: "/net/aspose.pdf.facades/bookmark/title/"
 product_version: "26.9.0"
 ---

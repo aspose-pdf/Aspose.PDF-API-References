@@ -5,7 +5,7 @@ articleTitle: "HasEditPassword"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileInfo property. Returns true if password is needed to modify permissions or document security property. Pay attention that this property can be read on..."
 type: docs
-weight: 440
+weight: 410
 url: "/net/aspose.pdf.facades/pdffileinfo/haseditpassword/"
 product_version: "26.9.0"
 ---

@@ -5,7 +5,7 @@ articleTitle: "Operator"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Operator class. Abstract class representing operator."
 type: docs
-weight: 2010
+weight: 1970
 url: "/net/aspose.pdf/operator/"
 keywords: "Operator, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -28,10 +28,10 @@ public abstract class Operator
 
 | Name | Description |
 | --- | --- |
-| [Accept](./accept/)(*IOperatorSelector*) | Accepts visitor IOperatorSelector which provides operators processing. |
-| [IsTextShowOperator](./istextshowoperator/)(*Operator*) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc). |
-| [ToString](./tostring/) | Returns text of operator and its parameters. |
-| [ValueEquals](./valueequals/)(*Operator*) | Compares this instance with the given object. |
+| abstract [Accept](./accept/)(IOperatorSelector) | Accepts visitor IOperatorSelector which provides operators processing. |
+| static [IsTextShowOperator](./istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [ToString](./tostring/)() | Returns text of operator and its parameters. |
+| [ValueEquals](./valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 

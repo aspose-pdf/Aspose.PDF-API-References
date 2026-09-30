@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/license/clearlicense/"
 product_version: "26.9.0"
 ---
-## ClearLicense() {#clearlicense}
+## License.ClearLicense method
 
 Clears the current license.
 

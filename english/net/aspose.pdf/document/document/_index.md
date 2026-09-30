@@ -25,7 +25,28 @@ public Document()
 
 ---
 
-## Document(Stream) {#constructor_1}
+## Document([PdfVersion](../../../aspose.pdf/pdfversion/)) {#constructor_1}
+
+Initializes empty document by version.
+
+```csharp
+public Document(PdfVersion version)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| version | PdfVersion | The PDF version. |
+
+### See Also
+
+* enum [PdfVersion](../../../aspose.pdf/pdfversion/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream) {#constructor_2}
 
 Initialize new Document instance from the *input* stream.
 
@@ -45,7 +66,7 @@ public Document(Stream input)
 
 ---
 
-## Document(string) {#constructor_2}
+## Document(string) {#constructor_3}
 
 Just init Document using *filename*. The same as `#ctor`.
 
@@ -55,27 +76,7 @@ public Document(string filename)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | The name of the pdf document file. |
-
-### See Also
-
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Document([PdfVersion](../../../aspose.pdf/pdfversion/)) {#constructor_3}
-
-Initializes empty document by version.
-
-```csharp
-public Document(PdfVersion version)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| version | PdfVersion | The PDF version. |
+| filename | String | The name of the pdf document file. |
 
 ### See Also
 
@@ -96,7 +97,7 @@ public Document(Stream input, bool isManagedStream)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | input | Stream | Stream with pdf document. |
-| isManagedStream | bool | if set to `true` inner stream is closed before exit; otherwise, is not. |
+| isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
 
 ### See Also
 
@@ -106,28 +107,7 @@ public Document(Stream input, bool isManagedStream)
 
 ---
 
-## Document(Stream, string) {#constructor_5}
-
-Initialize new Document instance from the *input* stream.
-
-```csharp
-public Document(Stream input, string password)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | Stream | Input stream object, corresponding pdf is password protected. |
-| password | string | User or owner password. |
-
-### See Also
-
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Document(Stream, [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)) {#constructor_6}
+## Document(Stream, [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)) {#constructor_5}
 
 Initialize new Document instance from the *input* stream.
 
@@ -142,24 +122,47 @@ public Document(Stream input, CertificateEncryptionOptions certOptions)
 
 ### See Also
 
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)) {#constructor_7}
+## Document(Stream, [LoadOptions](../../../aspose.pdf/loadoptions/)) {#constructor_6}
 
-Initializes new instance of the [`Document`](../../../aspose.pdf/document/) class for working with encrypted document.
+Opens an existing document from a stream providing necessary converting to get pdf document.
 
 ```csharp
-public Document(string filename, CertificateEncryptionOptions certOptions)
+public Document(Stream input, LoadOptions options)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | Document file name. |
-| certOptions | CertificateEncryptionOptions | The certificate encryption options. |
+| input | Stream | Input stream to convert into pdf document. |
+| options | LoadOptions | Represents properties for converting *input* into pdf document. |
+
+### See Also
+
+* class [LoadOptions](../../../aspose.pdf/loadoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, string) {#constructor_7}
+
+Initialize new Document instance from the *input* stream.
+
+```csharp
+public Document(Stream input, string password)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Stream | Input stream object, corresponding pdf is password protected. |
+| password | String | User or owner password. |
 
 ### See Also
 
@@ -179,8 +182,8 @@ public Document(string filename, bool isManagedStream)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | The name of the pdf document file. |
-| isManagedStream | bool | If set to `true` inner stream is closed before exit; otherwise, is not. |
+| filename | String | The name of the pdf document file. |
+| isManagedStream | Boolean | If set to `true` inner stream is closed before exit; otherwise, is not. |
 
 ### See Also
 
@@ -190,21 +193,22 @@ public Document(string filename, bool isManagedStream)
 
 ---
 
-## Document(string, string) {#constructor_9}
+## Document(string, [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)) {#constructor_9}
 
 Initializes new instance of the [`Document`](../../../aspose.pdf/document/) class for working with encrypted document.
 
 ```csharp
-public Document(string filename, string password)
+public Document(string filename, CertificateEncryptionOptions certOptions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | Document file name. |
-| password | string | User or owner password. |
+| filename | String | Document file name. |
+| certOptions | CertificateEncryptionOptions | The certificate encryption options. |
 
 ### See Also
 
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -221,29 +225,30 @@ public Document(string filename, LoadOptions options)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | Input file to convert into pdf document. |
+| filename | String | Input file to convert into pdf document. |
 | options | LoadOptions | Represents properties for converting *filename* into pdf document. |
 
 ### See Also
 
+* class [LoadOptions](../../../aspose.pdf/loadoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, [LoadOptions](../../../aspose.pdf/loadoptions/)) {#constructor_11}
+## Document(string, string) {#constructor_11}
 
-Opens an existing document from a stream providing necessary converting to get pdf document.
+Initializes new instance of the [`Document`](../../../aspose.pdf/document/) class for working with encrypted document.
 
 ```csharp
-public Document(Stream input, LoadOptions options)
+public Document(string filename, string password)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | Stream | Input stream to convert into pdf document. |
-| options | LoadOptions | Represents properties for converting *input* into pdf document. |
+| filename | String | Document file name. |
+| password | String | User or owner password. |
 
 ### See Also
 
@@ -265,29 +270,30 @@ public Document(Stream input, CertificateEncryptionOptions certOptions, bool isM
 | --- | --- | --- |
 | input | Stream | Stream with pdf document. |
 | certOptions | CertificateEncryptionOptions | The certificate encryption options. |
-| isManagedStream | bool | If set to `true` inner stream is closed before exit; otherwise, is not. |
+| isManagedStream | Boolean | If set to `true` inner stream is closed before exit; otherwise, is not. |
 
 ### See Also
 
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/), bool) {#constructor_13}
+## Document(Stream, string, bool) {#constructor_13}
 
-Initializes new instance of the [`Document`](../../../aspose.pdf/document/) class for working with encrypted document.
+Initialize new Document instance from the *input* stream.
 
 ```csharp
-public Document(string filename, CertificateEncryptionOptions certOptions, bool isManagedStream)
+public Document(Stream input, string password, bool isManagedStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | Document file name. |
-| certOptions | CertificateEncryptionOptions | The certificate encryption options. |
-| isManagedStream | bool | if set to `true` inner stream is closed before exit; otherwise, is not. |
+| input | Stream | Stream with pdf document. |
+| password | String | User or owner password. |
+| isManagedStream | Boolean | If set to `true` inner stream is closed before exit; otherwise, is not. |
 
 ### See Also
 
@@ -308,62 +314,42 @@ public Document(Stream input, string password, ICustomSecurityHandler customSecu
 | Parameter | Type | Description |
 | --- | --- | --- |
 | input | Stream | Input stream object, corresponding pdf is password protected. |
-| password | string | User or owner password. |
+| password | String | User or owner password. |
 | customSecurityHandler | ICustomSecurityHandler | The custom security handler. |
 
 ### See Also
 
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, string, bool) {#constructor_15}
-
-Initialize new Document instance from the *input* stream.
-
-```csharp
-public Document(Stream input, string password, bool isManagedStream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | Stream | Stream with pdf document. |
-| password | string | User or owner password. |
-| isManagedStream | bool | If set to `true` inner stream is closed before exit; otherwise, is not. |
-
-### See Also
-
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Document(string, string, [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)) {#constructor_16}
+## Document(string, [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/), bool) {#constructor_15}
 
 Initializes new instance of the [`Document`](../../../aspose.pdf/document/) class for working with encrypted document.
 
 ```csharp
-public Document(string filename, string password, ICustomSecurityHandler customSecurityHandler)
+public Document(string filename, CertificateEncryptionOptions certOptions, bool isManagedStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | Document file name. |
-| password | string | User or owner password. |
-| customSecurityHandler | ICustomSecurityHandler | The custom security handler. |
+| filename | String | Document file name. |
+| certOptions | CertificateEncryptionOptions | The certificate encryption options. |
+| isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
 
 ### See Also
 
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, string, bool) {#constructor_17}
+## Document(string, string, bool) {#constructor_16}
 
 Initializes new instance of the [`Document`](../../../aspose.pdf/document/) class for working with encrypted document.
 
@@ -373,12 +359,35 @@ public Document(string filename, string password, bool isManagedStream)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | Document file name. |
-| password | string | User or owner password. |
-| isManagedStream | bool | if set to `true` inner stream is closed before exit; otherwise, is not. |
+| filename | String | Document file name. |
+| password | String | User or owner password. |
+| isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
 
 ### See Also
 
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, string, [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)) {#constructor_17}
+
+Initializes new instance of the [`Document`](../../../aspose.pdf/document/) class for working with encrypted document.
+
+```csharp
+public Document(string filename, string password, ICustomSecurityHandler customSecurityHandler)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filename | String | Document file name. |
+| password | String | User or owner password. |
+| customSecurityHandler | ICustomSecurityHandler | The custom security handler. |
+
+### See Also
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -390,18 +399,20 @@ public Document(string filename, string password, bool isManagedStream)
 Initialize new Document instance from the *input* stream.
 
 ```csharp
-public Document(Stream input, string password, bool isManagedStream, ICustomSecurityHandler customSecurityHandler)
+public Document(Stream input, string password, bool isManagedStream, 
+    ICustomSecurityHandler customSecurityHandler)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | input | Stream | Stream with pdf document. |
-| password | string | User or owner password. |
-| isManagedStream | bool | If set to `true` inner stream is closed before exit; otherwise, is not. |
+| password | String | User or owner password. |
+| isManagedStream | Boolean | If set to `true` inner stream is closed before exit; otherwise, is not. |
 | customSecurityHandler | ICustomSecurityHandler | The custom security handler. |
 
 ### See Also
 
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -413,18 +424,20 @@ public Document(Stream input, string password, bool isManagedStream, ICustomSecu
 Initializes new instance of the [`Document`](../../../aspose.pdf/document/) class for working with encrypted document.
 
 ```csharp
-public Document(string filename, string password, bool isManagedStream, ICustomSecurityHandler customSecurityHandler)
+public Document(string filename, string password, bool isManagedStream, 
+    ICustomSecurityHandler customSecurityHandler)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | Document file name. |
-| password | string | User or owner password. |
-| isManagedStream | bool | if set to `true` inner stream is closed before exit; otherwise, is not. |
+| filename | String | Document file name. |
+| password | String | User or owner password. |
+| isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
 | customSecurityHandler | ICustomSecurityHandler | The custom security handler. |
 
 ### See Also
 
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

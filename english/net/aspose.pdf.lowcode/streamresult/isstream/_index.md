@@ -17,6 +17,10 @@ Indicates whether the result is a path to an output file.
 public bool IsStream { get; }
 ```
 
+### Return Value
+
+`true` if the result is a stream object; otherwise `false`.
+
 ### See Also
 
 * class [StreamResult](../)

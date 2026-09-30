@@ -9,23 +9,22 @@ weight: 70
 url: "/net/aspose.pdf.ai/openaiclient/getvectorstorefileasync/"
 product_version: "26.9.0"
 ---
-## GetVectorStoreFileAsync(string, string, Nullable<CancellationToken>) {#getvectorstorefileasync}
+## OpenAIClient.GetVectorStoreFileAsync method
 
 Retrieves details of a specific file within a vector store asynchronously.
 
 ```csharp
-public Task<VectorStoreFileResponse> GetVectorStoreFileAsync(string vectorStoreId, string fileId, Nullable<CancellationToken> cancellationToken)
+public Task<VectorStoreFileResponse> GetVectorStoreFileAsync(string vectorStoreId, string fileId, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| vectorStoreId | string | The ID of the vector store containing the file. |
-| fileId | string | The ID of the file to retrieve. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| vectorStoreId | String | The ID of the vector store containing the file. |
+| fileId | String | The ID of the file to retrieve. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[VectorStoreFileResponse](../../../aspose.pdf.ai/vectorstorefileresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the details of the file.
 

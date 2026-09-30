@@ -14,16 +14,17 @@ product_version: "26.9.0"
 Inserts operator into collection.
 
 ```csharp
-public void Insert(int index, Operator op)
+public override void Insert(int index, Operator op)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index where new operator must be added |
+| index | Int32 | Index where new operator must be added |
 | op | Operator | Operator which will be insterted |
 
 ### See Also
 
+* class [Operator](../../../aspose.pdf/operator/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -40,11 +41,12 @@ public void Insert(int at, Operator[] ops)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| at | int | Index from which operators are being started to insert. |
+| at | Int32 | Index from which operators are being started to insert. |
 | ops | Operator[] | Array of operators to be inserted. Each operator can have any index (by default -1) because their indices adjusted automatically starting from *at*. |
 
 ### See Also
 
+* class [Operator](../../../aspose.pdf/operator/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -61,8 +63,8 @@ public void Insert(int at, IList<Operator> ops)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| at | int | Index from which operators are being started to insert. |
-| ops | IList<Operator> | Array of operators to be inserted. |
+| at | Int32 | Index from which operators are being started to insert. |
+| ops | IList`1 | Array of operators to be inserted. |
 
 ### See Also
 

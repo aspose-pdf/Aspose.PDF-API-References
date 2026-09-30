@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the Unix timestamp (in seconds) for when the assistant was created.
 
 ```csharp
-public Nullable<long> CreatedAt { get; set; }
+public long? CreatedAt { get; set; }
 ```
 
 ### See Also

@@ -9,23 +9,22 @@ weight: 190
 url: "/net/aspose.pdf.ai/iopenaiclient/cancelrunasync/"
 product_version: "26.9.0"
 ---
-## CancelRunAsync(string, string, Nullable<CancellationToken>) {#cancelrunasync}
+## IOpenAIClient.CancelRunAsync method
 
 Cancels an existing run within a thread asynchronously.
 
 ```csharp
-public Task<RunResponse> CancelRunAsync(string threadId, string runId, Nullable<CancellationToken> cancellationToken)
+public Task<RunResponse> CancelRunAsync(string threadId, string runId, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threadId | string | The ID of the thread containing the run to cancel. |
-| runId | string | The ID of the run to cancel. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| threadId | String | The ID of the thread containing the run to cancel. |
+| runId | String | The ID of the run to cancel. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[RunResponse](../../../aspose.pdf.ai/runresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the response from the run cancellation.
 

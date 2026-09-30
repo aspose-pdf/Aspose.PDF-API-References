@@ -39,7 +39,7 @@ public Matrix(double[] matrixArray)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| matrixArray | double[] | Matrix data array. |
+| matrixArray | Double[] | Matrix data array. |
 
 ### See Also
 
@@ -61,7 +61,7 @@ public Matrix(float[] matrixArray)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| matrixArray | float[] | Matrix data array. |
+| matrixArray | Single[] | Matrix data array. |
 
 ### See Also
 
@@ -86,7 +86,7 @@ public Matrix(Matrix matrix)
 
 ### See Also
 
-* class [Matrix](../)
+* class [Matrix](../../../aspose.pdf/matrix/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -102,12 +102,12 @@ public Matrix(double a, double b, double c, double d, double e, double f)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | double | A matrix value. |
-| b | double | B matrix value. |
-| c | double | C matrix value. |
-| d | double | D matrix value. |
-| e | double | E matrix value. |
-| f | double | F matrix value. |
+| a | Double | A matrix value. |
+| b | Double | B matrix value. |
+| c | Double | C matrix value. |
+| d | Double | D matrix value. |
+| e | Double | E matrix value. |
+| f | Double | F matrix value. |
 
 ### See Also
 

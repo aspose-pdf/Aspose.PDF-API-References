@@ -20,7 +20,6 @@ public static readonly AttributeKey BlockAlign;
 ### See Also
 
 * class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
-* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

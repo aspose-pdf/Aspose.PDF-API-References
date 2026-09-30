@@ -19,11 +19,9 @@ public Resources GetResources(bool allowCreate)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| allowCreate | bool | If For does not have resources and allowCreate is true, Resources will be automatically created for the form. |
+| allowCreate | Boolean | If For does not have resources and allowCreate is true, Resources will be automatically created for the form. |
 
 ### Return Value
-
-[Resources](../../../aspose.pdf/resources/)
 
 Resources.
 
@@ -45,8 +43,6 @@ public Resources GetResources()
 ```
 
 ### Return Value
-
-[Resources](../../../aspose.pdf/resources/)
 
 Resources object
 

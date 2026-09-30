@@ -9,17 +9,15 @@ weight: 60
 url: "/net/aspose.pdf/metered/ismeteredlicensed/"
 product_version: "26.9.0"
 ---
-## IsMeteredLicensed() {#ismeteredlicensed}
+## Metered.IsMeteredLicensed method
 
 Check whether metered is licensed.
 
 ```csharp
-public bool IsMeteredLicensed()
+public static bool IsMeteredLicensed()
 ```
 
 ### Return Value
-
-bool
 
 True or false
 

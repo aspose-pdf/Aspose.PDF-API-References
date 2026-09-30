@@ -9,21 +9,19 @@ weight: 70
 url: "/net/aspose.pdf/matrix/equals/"
 product_version: "26.9.0"
 ---
-## Equals(object) {#equals}
+## Matrix.Equals method
 
 Compares matrix agains other object.
 
 ```csharp
-public bool Equals(object obj)
+public override bool Equals(object obj)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | object | Object to compare. |
+| obj | Object | Object to compare. |
 
 ### Return Value
-
-bool
 
 Returns true is other object is Matrix and all matrix member are equal to correspondim members of the matrix
 

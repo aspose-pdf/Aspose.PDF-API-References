@@ -21,7 +21,7 @@ public interface IAdjustPosition
 
 | Name | Description |
 | --- | --- |
-| [AdjustPosition](./adjustposition/)(*PositionSettings*) | Adjust position. |
+| [AdjustPosition](./adjustposition/)(PositionSettings) | Adjust position. |
 
 ### See Also
 

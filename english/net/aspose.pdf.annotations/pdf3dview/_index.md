@@ -22,8 +22,8 @@ public class PDF3DView
 
 | Name | Description |
 | --- | --- |
-| [PDF3DView](./pdf3dview/#constructor)(*[Document](../../aspose.pdf/document/), [PDF3DView](../../aspose.pdf.annotations/pdf3dview/), string*) | Initializes a new instance of the [`PDF3DView`](../../aspose.pdf.annotations/pdf3dview/) class. |
-| [PDF3DView](./pdf3dview/#constructor_1)(*[Document](../../aspose.pdf/document/), [Matrix3D](../../aspose.pdf/matrix3d/), double, string*) | Initializes a new instance of the [`PDF3DView`](../../aspose.pdf.annotations/pdf3dview/) class. |
+| [PDF3DView](./pdf3dview/#constructor)(Document, PDF3DView, string) | Initializes a new instance of the [`PDF3DView`](../../aspose.pdf.annotations/pdf3dview/) class. |
+| [PDF3DView](./pdf3dview/#constructor_1)(Document, Matrix3D, double, string) | Initializes a new instance of the [`PDF3DView`](../../aspose.pdf.annotations/pdf3dview/) class. |
 
 ## Properties
 

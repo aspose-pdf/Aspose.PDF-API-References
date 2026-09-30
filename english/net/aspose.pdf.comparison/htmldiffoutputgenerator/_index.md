@@ -16,33 +16,33 @@ Represents a class for generating html representation of texts differences.
  Deleted line breaks are indicated by paragraph mark.
 
 ```csharp
-public class HtmlDiffOutputGenerator : IStringOutputGenerator, IFileOutputGenerator
+public class HtmlDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenerator
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [HtmlDiffOutputGenerator](./htmldiffoutputgenerator/#constructor) | Creates an instance of [`HtmlDiffOutputGenerator`](../../aspose.pdf.comparison/htmldiffoutputgenerator/) class. |
-| [HtmlDiffOutputGenerator](./htmldiffoutputgenerator/#constructor_1)(*[OutputTextStyle](../../aspose.pdf.comparison/outputtextstyle/)*) | Creates an instance of [`HtmlDiffOutputGenerator`](../../aspose.pdf.comparison/htmldiffoutputgenerator/) class. |
+| [HtmlDiffOutputGenerator](./htmldiffoutputgenerator/#constructor)() | Creates an instance of [`HtmlDiffOutputGenerator`](../../aspose.pdf.comparison/htmldiffoutputgenerator/) class. |
+| [HtmlDiffOutputGenerator](./htmldiffoutputgenerator/#constructor_1)(OutputTextStyle) | Creates an instance of [`HtmlDiffOutputGenerator`](../../aspose.pdf.comparison/htmldiffoutputgenerator/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DeleteStyle](./deletestyle/) { get; set; } | Gets and sets the CSS-style string for Delete operation. |
-| [EqualStyle](./equalstyle/) { get; set; } | Gets and sets the CSS-style string for Equal operation. |
-| [InsertStyle](./insertstyle/) { get; set; } | Gets and sets the CSS-style string for Insert operation. |
-| [StrikethroughDeleted](./strikethroughdeleted/) { get; set; } | Get or set text-decoration: line-through style for the delete operation. |
+| [DeleteStyle](./deletestyle/) { get; set; } | Gets and sets the CSS-style string for Delete operation. Example: color: #003300; background-color: #ccff66; |
+| [EqualStyle](./equalstyle/) { get; set; } | Gets and sets the CSS-style string for Equal operation. Example: color: #003300; background-color: #ccff66; |
+| [InsertStyle](./insertstyle/) { get; set; } | Gets and sets the CSS-style string for Insert operation. Example: color: #003300; background-color: #ccff66; |
+| [StrikethroughDeleted](./strikethroughdeleted/) { get; set; } | Get or set text-decoration: line-through style for the delete operation. Default value is `False`. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GenerateOutput](./generateoutput/)(*List<DiffOperation>*) | Generates the output based on the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(*List<List<DiffOperation>>*) | Generates the output based on the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(*List<DiffOperation>, string*) | Generates the output based on the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(*List<List<DiffOperation>>, string*) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(List<DiffOperation>) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(List<List<DiffOperation>>) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(List<DiffOperation>, string) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(List<List<DiffOperation>>, string) | Generates the output based on the differences between texts and saves it to a file. |
 
 ### See Also
 

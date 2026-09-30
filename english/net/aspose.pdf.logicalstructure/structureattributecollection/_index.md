@@ -22,8 +22,8 @@ public class StructureAttributeCollection
 
 | Name | Description |
 | --- | --- |
-| [CreateAttributes](./createattributes/)(*AttributeOwnerStandard*) | Create and return [`StructureAttributes`](../../aspose.pdf.logicalstructure/structureattributes/) of structure element by standard attribute owner. |
-| [GetAttributes](./getattributes/)(*AttributeOwnerStandard*) | Return [`StructureAttributes`](../../aspose.pdf.logicalstructure/structureattributes/) of structure element by standard attribute owner. |
+| [CreateAttributes](./createattributes/)(AttributeOwnerStandard) | Create and return [`StructureAttributes`](../../aspose.pdf.logicalstructure/structureattributes/) of structure element by standard attribute owner. |
+| [GetAttributes](./getattributes/)(AttributeOwnerStandard) | Return [`StructureAttributes`](../../aspose.pdf.logicalstructure/structureattributes/) of structure element by standard attribute owner. |
 
 ### See Also
 

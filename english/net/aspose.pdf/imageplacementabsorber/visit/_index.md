@@ -23,6 +23,7 @@ public void Visit(Page page)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [ImagePlacementAbsorber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -43,6 +44,7 @@ public void Visit(Document pdf)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [ImagePlacementAbsorber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

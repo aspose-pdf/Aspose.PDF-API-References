@@ -28,8 +28,8 @@ public abstract class PdfAction : IAppointment
 
 | Name | Description |
 | --- | --- |
-| [GetECMAScriptString](./getecmascriptstring/) | Gets string for ECMAScript Action. |
-| [ToString](../../aspose.pdf.annotations/iappointment/tostring/) | Returns string representation. *(Inherited from IAppointment)* |
+| [GetECMAScriptString](./getecmascriptstring/)() | Gets string for ECMAScript Action. |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Returns string representation |
 
 ### See Also
 

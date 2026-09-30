@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf.facades/pdfextractor/hasnextimage/"
 product_version: "26.9.0"
 ---
-## HasNextImage() {#hasnextimage}
+## PdfExtractor.HasNextImage method
 
 Checks if more images are accessible in PDF document. Note: ExtractImage must be called before using of this method.
 
@@ -18,8 +18,6 @@ public bool HasNextImage()
 ```
 
 ### Return Value
-
-bool
 
 Trues if more images are accessible
 

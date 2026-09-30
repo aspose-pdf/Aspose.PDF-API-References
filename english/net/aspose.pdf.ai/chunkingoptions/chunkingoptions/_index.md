@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/chunkingoptions/chunkingoptions/"
 product_version: "26.9.0"
 ---
-## ChunkingOptions() {#constructor}
+## ChunkingOptions constructor
 
 The default constructor.
 

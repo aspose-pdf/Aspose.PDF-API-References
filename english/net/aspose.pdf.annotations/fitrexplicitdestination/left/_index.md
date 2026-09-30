@@ -5,7 +5,7 @@ articleTitle: "Left"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FitRExplicitDestination property. Gets left horizontal coordinate of visible rectangle."
 type: docs
-weight: 50
+weight: 40
 url: "/net/aspose.pdf.annotations/fitrexplicitdestination/left/"
 product_version: "26.9.0"
 ---

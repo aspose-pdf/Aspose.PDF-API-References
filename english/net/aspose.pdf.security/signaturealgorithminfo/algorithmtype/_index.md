@@ -19,7 +19,7 @@ public readonly SignatureAlgorithmType AlgorithmType;
 
 ### See Also
 
-* class [SignatureAlgorithmType](../../../aspose.pdf.security/signaturealgorithmtype/)
+* enum [SignatureAlgorithmType](../../../aspose.pdf.security/signaturealgorithmtype/)
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)

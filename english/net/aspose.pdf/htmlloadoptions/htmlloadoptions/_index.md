@@ -35,7 +35,7 @@ public HtmlLoadOptions(string basePath)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| basePath | string | The base path/url for the html file. |
+| basePath | String | The base path/url for the html file. |
 
 ### See Also
 

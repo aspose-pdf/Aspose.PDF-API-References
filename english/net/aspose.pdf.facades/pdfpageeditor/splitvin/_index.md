@@ -5,7 +5,7 @@ articleTitle: "SPLITVIN"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfPageEditor field. In Vertical Split"
 type: docs
-weight: 250
+weight: 230
 url: "/net/aspose.pdf.facades/pdfpageeditor/splitvin/"
 product_version: "26.9.0"
 ---

@@ -9,18 +9,18 @@ weight: 70
 url: "/net/aspose.pdf/boundscheckablelist-1/copyto/"
 product_version: "26.9.0"
 ---
-## CopyTo(T0[], int) {#copyto}
+## BoundsCheckableList<T>.CopyTo method
 
 
 
 ```csharp
-public void CopyTo(T0[] array, int arrayIndex)
+public void CopyTo(T[] array, int arrayIndex)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| array | T0[] |  |
-| arrayIndex | int |  |
+| array | T[] |  |
+| arrayIndex | Int32 |  |
 
 ### See Also
 

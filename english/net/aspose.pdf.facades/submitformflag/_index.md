@@ -5,7 +5,7 @@ articleTitle: "SubmitFormFlag"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.SubmitFormFlag enum. Enumeration of possible submit form flags."
 type: docs
-weight: 640
+weight: 630
 url: "/net/aspose.pdf.facades/submitformflag/"
 product_version: "26.9.0"
 ---
@@ -14,6 +14,7 @@ product_version: "26.9.0"
 Enumeration of possible submit form flags.
 
 ```csharp
+[Flags]
 public enum SubmitFormFlag
 ```
 

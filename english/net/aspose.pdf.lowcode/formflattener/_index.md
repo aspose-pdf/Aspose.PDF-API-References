@@ -22,13 +22,13 @@ public sealed class FormFlattener : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [FormFlattener](./formflattener/#constructor) | The default constructor. |
+| [FormFlattener](./formflattener/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(*IPluginOptions*) | Starts the FormFlattener processing with the specified parameters. |
+| [Process](./process/)(IPluginOptions) | Starts the FormFlattener processing with the specified parameters. |
 
 ### See Also
 

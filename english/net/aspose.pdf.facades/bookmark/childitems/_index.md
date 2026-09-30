@@ -5,7 +5,7 @@ articleTitle: "ChildItems"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Bookmark property. Gets or sets bookmark's children."
 type: docs
-weight: 50
+weight: 40
 url: "/net/aspose.pdf.facades/bookmark/childitems/"
 product_version: "26.9.0"
 ---

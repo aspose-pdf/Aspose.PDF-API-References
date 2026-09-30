@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf/optimizedmemorystream/toarray/"
 product_version: "26.9.0"
 ---
-## ToArray() {#toarray}
+## OptimizedMemoryStream.ToArray method
 
 Converts the current stream to a byte array.
 
@@ -18,8 +18,6 @@ public byte[] ToArray()
 ```
 
 ### Return Value
-
-byte[]
 
 An array of bytes
 

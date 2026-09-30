@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf/xmppdfaextensionschema/getvaluesxml/"
 product_version: "26.9.0"
 ---
-## GetValuesXml(XmlDocument, XmlElement) {#getvaluesxml}
+## XmpPdfAExtensionSchema.GetValuesXml method
 
 Gets the values of properties as xml tree representation.
 

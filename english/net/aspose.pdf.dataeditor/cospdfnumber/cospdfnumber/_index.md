@@ -35,7 +35,7 @@ public CosPdfNumber(double value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | The number. |
+| value | Double | The number. |
 
 ### See Also
 

@@ -25,7 +25,28 @@ public ImageDevice()
 
 ---
 
-## ImageDevice([Resolution](../../../aspose.pdf.devices/resolution/)) {#constructor_1}
+## ImageDevice([PageSize](../../../aspose.pdf/pagesize/)) {#constructor_1}
+
+Initializes a new instance of the [`JpegDevice`](../../../aspose.pdf.devices/jpegdevice/) class with provided image dimensions and default resolution (=150).
+
+```csharp
+public ImageDevice(PageSize pageSize)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageSize | PageSize | Page size of the output image. |
+
+### See Also
+
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [ImageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ImageDevice([Resolution](../../../aspose.pdf.devices/resolution/)) {#constructor_2}
 
 Abstract initializer for [`ImageDevice`](../../../aspose.pdf.devices/imagedevice/) descendants.
  
@@ -41,26 +62,7 @@ public ImageDevice(Resolution resolution)
 
 ### See Also
 
-* class [ImageDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## ImageDevice([PageSize](../../../aspose.pdf/pagesize/)) {#constructor_2}
-
-Initializes a new instance of the [`JpegDevice`](../../../aspose.pdf.devices/jpegdevice/) class with provided image dimensions and default resolution (=150).
-
-```csharp
-public ImageDevice(PageSize pageSize)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | PageSize | Page size of the output image. |
-
-### See Also
-
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
@@ -77,8 +79,8 @@ public ImageDevice(int width, int height)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
+| width | Int32 | Image output width. |
+| height | Int32 | Image output height. |
 
 ### See Also
 
@@ -103,6 +105,8 @@ public ImageDevice(PageSize pageSize, Resolution resolution)
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
@@ -119,12 +123,13 @@ public ImageDevice(int width, int height, Resolution resolution)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
+| width | Int32 | Image output width. |
+| height | Int32 | Image output height. |
 | resolution | Resolution | Resolution for the result image file, see <see cref="P:Aspose.Pdf.Devices.ImageDevice.Resolution" /> class. |
 
 ### See Also
 
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/imageplacement/replace/"
 product_version: "26.9.0"
 ---
-## Replace(Stream) {#replace}
+## ImagePlacement.Replace method
 
 Replace image in collection with another image.
 

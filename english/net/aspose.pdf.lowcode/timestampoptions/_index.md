@@ -22,19 +22,19 @@ public sealed class TimestampOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [TimestampOptions](./timestampoptions/#constructor) | Creates a new instance with default values. Used to sing TSA with a PFX file. |
-| [TimestampOptions](./timestampoptions/#constructor_1)(*string, string*) | Creates a new instance with a PFX file path and password. |
-| [TimestampOptions](./timestampoptions/#constructor_2)(*Stream, string*) | Creates a new instance with a PFX stream and password. |
+| [TimestampOptions](./timestampoptions/#constructor)() | Creates a new instance with default values. Used to sing TSA with a PFX file. |
+| [TimestampOptions](./timestampoptions/#constructor_1)(Stream, string) | Creates a new instance with a PFX stream and password. |
+| [TimestampOptions](./timestampoptions/#constructor_2)(string, string) | Creates a new instance with a PFX file path and password. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [BasicAuthCredentials](./basicauthcredentials/) { get; set; } | Gets or sets the basic authentication credentials, Username and password are combined into a string "username:password". |
-| [DigestHashAlgorithm](./digesthashalgorithm/) { get; set; } | Digest hash algorithm to use for the timestamp. |
-| [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. *(Inherited from PdfConverterOptions)* |
-| [OperationName](./operationname/) { get; } |  |
-| [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. *(Inherited from PdfConverterOptions)* |
+| [DigestHashAlgorithm](./digesthashalgorithm/) { get; set; } | Digest hash algorithm to use for the timestamp. Defaults to Sha256. |
+| [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
+| override [OperationName](./operationname/) { get; } |  |
+| [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 | [PageNumber](./pagenumber/) { get; set; } | Page number on which the timestamped signature will be applied. |
 | [Rectangle](./rectangle/) { get; set; } | Rectangle defining the annotation area (ignored when Visible is false). |
 | [ServerUrl](./serverurl/) { get; set; } | URL of the timestamp server. |
@@ -47,8 +47,8 @@ public sealed class TimestampOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.lowcode/pdfconverteroptions/addinput/)(*IDataSource*) | Adds new data source to the PdfConverter plugin data collection. *(Inherited from PdfConverterOptions)* |
-| [AddOutput](../../aspose.pdf.lowcode/pdfconverteroptions/addoutput/)(*IDataSource*) | Adds new data source to the PdfToXLSXConverterOptions plugin data collection. *(Inherited from PdfConverterOptions)* |
+| [AddInput](../../aspose.pdf.lowcode/pdfconverteroptions/addinput/)(IDataSource) | Adds new data source to the PdfConverter plugin data collection. |
+| [AddOutput](../../aspose.pdf.lowcode/pdfconverteroptions/addoutput/)(IDataSource) | Adds new data source to the PdfToXLSXConverterOptions plugin data collection. |
 
 ### See Also
 

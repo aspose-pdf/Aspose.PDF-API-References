@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/pdfavalidateoptions/pdfavalidateoptions/"
 product_version: "26.9.0"
 ---
-## PdfAValidateOptions() {#constructor}
+## PdfAValidateOptions constructor
 
 The default constructor.
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/documentfactory/documentfactory/"
 product_version: "26.9.0"
 ---
-## DocumentFactory() {#constructor}
+## DocumentFactory constructor
 
 The default constructor.
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/runresponse/runresponse/"
 product_version: "26.9.0"
 ---
-## RunResponse() {#constructor}
+## RunResponse constructor
 
 The default constructor.
 

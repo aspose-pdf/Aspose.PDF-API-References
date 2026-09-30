@@ -14,13 +14,12 @@ product_version: "26.9.0"
 A6 size (148x105 mm).
 
 ```csharp
-public PageSize A6 { get; }
+public static PageSize A6 { get; }
 ```
 
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

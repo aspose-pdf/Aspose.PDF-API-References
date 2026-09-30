@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/fill/fill/"
 product_version: "26.9.0"
 ---
-## Fill() {#constructor}
+## Fill constructor
 
 Initilizes new f operator.
 

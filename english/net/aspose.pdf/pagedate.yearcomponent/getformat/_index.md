@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/pagedate.yearcomponent/getformat/"
 product_version: "26.9.0"
 ---
-## GetFormat() {#getformat}
+## PageDate.YearComponent.GetFormat method
 
 Gets the format string for the year component.
 
@@ -18,8 +18,6 @@ public string GetFormat()
 ```
 
 ### Return Value
-
-string
 
 A string representing the year format.
 

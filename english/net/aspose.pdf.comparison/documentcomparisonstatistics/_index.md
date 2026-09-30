@@ -22,18 +22,18 @@ public class DocumentComparisonStatistics : TextItemComparisonStatistics
 
 | Name | Description |
 | --- | --- |
-| [DocumentComparisonStatistics](./documentcomparisonstatistics/#constructor) | The default constructor. |
+| [DocumentComparisonStatistics](./documentcomparisonstatistics/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DeleteOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/) { get; } | Gets and sets the number of delete operations. *(Inherited from TextItemComparisonStatistics)* |
-| [DeletedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deletedcharacterscount/) { get; } | Gets and sets the number of deleted characters. *(Inherited from TextItemComparisonStatistics)* |
-| [InsertOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertoperationscount/) { get; } | Gets and sets the number of insert operations. *(Inherited from TextItemComparisonStatistics)* |
-| [InsertedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertedcharacterscount/) { get; } | Gets and sets the number of inseted characters. *(Inherited from TextItemComparisonStatistics)* |
+| [DeleteOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/) { get; } | Gets and sets the number of delete operations. |
+| [DeletedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deletedcharacterscount/) { get; } | Gets and sets the number of deleted characters. |
+| [InsertOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertoperationscount/) { get; } | Gets and sets the number of insert operations. |
+| [InsertedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertedcharacterscount/) { get; } | Gets and sets the number of inseted characters. |
 | [PagesStatistics](./pagesstatistics/) { get; } | Gets and sets the list of pages statistics. |
-| [TotalCharacters](../../aspose.pdf.comparison/textitemcomparisonstatistics/totalcharacters/) { get; } | Gets and sets the total number of characters. *(Inherited from TextItemComparisonStatistics)* |
+| [TotalCharacters](../../aspose.pdf.comparison/textitemcomparisonstatistics/totalcharacters/) { get; } | Gets and sets the total number of characters. |
 
 ### See Also
 

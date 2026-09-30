@@ -5,7 +5,7 @@ articleTitle: "BindPdf"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileSignature method. Binds a Pdf file for editing."
 type: docs
-weight: 60
+weight: 30
 url: "/net/aspose.pdf.facades/pdffilesignature/bindpdf/"
 product_version: "26.9.0"
 ---
@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Binds a Pdf file for editing.
 
 ```csharp
-public void BindPdf(string inputFile)
+public override void BindPdf(string inputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | The pdf file to be edited. |
+| inputFile | String | The pdf file to be edited. |
 
 ### See Also
 
@@ -34,7 +34,7 @@ public void BindPdf(string inputFile)
 Binds a Pdf stream for editing.
 
 ```csharp
-public void BindPdf(Stream inputStream)
+public override void BindPdf(Stream inputStream)
 ```
 
 | Parameter | Type | Description |

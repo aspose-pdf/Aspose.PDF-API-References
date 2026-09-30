@@ -5,7 +5,7 @@ articleTitle: "Left"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "XYZExplicitDestination property. Gets left horizontal coordinate of the upper-left corner of the window."
 type: docs
-weight: 80
+weight: 70
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/left/"
 product_version: "26.9.0"
 ---

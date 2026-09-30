@@ -29,8 +29,8 @@ public abstract class FormOptions : IPluginOptions
 
 | Name | Description |
 | --- | --- |
-| [AddInput](./addinput/)(*IDataSource*) | Adds new data source to the Form... plugins data collection. |
-| [AddOutput](./addoutput/)(*IDataSource*) | Adds new data source to the Form... plugins data collection. |
+| [AddInput](./addinput/)(IDataSource) | Adds new data source to the Form... plugins data collection. |
+| [AddOutput](./addoutput/)(IDataSource) | Adds new data source to the Form... plugins data collection. |
 
 ### See Also
 

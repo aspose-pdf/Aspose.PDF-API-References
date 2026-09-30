@@ -16,7 +16,7 @@ product_version: "26.9.0"
  of accessibility to users with disabilities or for other purposes.
 
 ```csharp
-public string Alt { get; set; }
+public virtual string Alt { get; set; }
 ```
 
 ### See Also

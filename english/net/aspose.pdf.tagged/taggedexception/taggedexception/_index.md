@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.tagged/taggedexception/taggedexception/"
 product_version: "26.9.0"
 ---
-## TaggedException() {#constructor}
+## TaggedException constructor
 
 Initializes a new instance of the [`TaggedException`](../../../aspose.pdf.tagged/taggedexception/) class.
 

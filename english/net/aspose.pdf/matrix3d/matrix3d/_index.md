@@ -39,7 +39,7 @@ public Matrix3D(double[] matrix3DArray)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| matrix3DArray | double[] | Matrix data array. |
+| matrix3DArray | Double[] | Matrix data array. |
 
 ### See Also
 
@@ -64,7 +64,7 @@ public Matrix3D(Matrix3D matrix)
 
 ### See Also
 
-* class [Matrix3D](../)
+* class [Matrix3D](../../../aspose.pdf/matrix3d/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -75,23 +75,24 @@ public Matrix3D(Matrix3D matrix)
 Initializes transformation matrix with specified coefficients.
 
 ```csharp
-public Matrix3D(double a, double b, double c, double d, double e, double f, double g, double h, double i, double tx, double ty, double tz)
+public Matrix3D(double a, double b, double c, double d, double e, double f, double g, double h, 
+    double i, double tx, double ty, double tz)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| a | double | A matrix value. |
-| b | double | B matrix value. |
-| c | double | C matrix value. |
-| d | double | D matrix value. |
-| e | double | E matrix value. |
-| f | double | F matrix value. |
-| g | double | G matrix value. |
-| h | double | H matrix value. |
-| i | double | I matrix value. |
-| tx | double | TX matrix value. |
-| ty | double | TY matrix value. |
-| tz | double | TZ matrix value. |
+| a | Double | A matrix value. |
+| b | Double | B matrix value. |
+| c | Double | C matrix value. |
+| d | Double | D matrix value. |
+| e | Double | E matrix value. |
+| f | Double | F matrix value. |
+| g | Double | G matrix value. |
+| h | Double | H matrix value. |
+| i | Double | I matrix value. |
+| tx | Double | TX matrix value. |
+| ty | Double | TY matrix value. |
+| tz | Double | TZ matrix value. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/iwarningcallback/warning/"
 product_version: "26.9.0"
 ---
-## Warning([WarningInfo](../../../aspose.pdf/warninginfo/)) {#warning}
+## IWarningCallback.Warning method
 
 The callback method for some program notifications.
 
@@ -23,13 +23,12 @@ public ReturnAction Warning(WarningInfo warning)
 
 ### Return Value
 
-[ReturnAction](../../../aspose.pdf/returnaction/)
-
 the result of further program workflow
 
 ### See Also
 
-* class [ReturnAction](../../../aspose.pdf/returnaction/)
+* enum [ReturnAction](../../../aspose.pdf/returnaction/)
+* class [WarningInfo](../../../aspose.pdf/warninginfo/)
 * interface [IWarningCallback](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

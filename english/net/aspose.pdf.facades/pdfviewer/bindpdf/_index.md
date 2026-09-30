@@ -5,7 +5,7 @@ articleTitle: "BindPdf"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfViewer method. Initializes the facade."
 type: docs
-weight: 290
+weight: 260
 url: "/net/aspose.pdf.facades/pdfviewer/bindpdf/"
 product_version: "26.9.0"
 ---
@@ -19,7 +19,7 @@ public void BindPdf(string srcFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFile | string | The PDF file. |
+| srcFile | String | The PDF file. |
 
 ### See Also
 
@@ -63,6 +63,7 @@ public void BindPdf(Document srcDoc)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

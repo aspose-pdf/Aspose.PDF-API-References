@@ -9,21 +9,19 @@ weight: 90
 url: "/net/aspose.pdf/boundscheckablelist-1/indexof/"
 product_version: "26.9.0"
 ---
-## IndexOf(T0) {#indexof}
+## BoundsCheckableList<T>.IndexOf method
 
 Searches for the specified object and returns the zero-based index of the first occurrence within the entire System.Collections.Generic.List.
 
 ```csharp
-public int IndexOf(T0 item)
+public int IndexOf(T item)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | T0 | The object to locate in the System.Collections.Generic.List. The value can be null for reference types. |
+| item | T | The object to locate in the System.Collections.Generic.List. The value can be null for reference types. |
 
 ### Return Value
-
-int
 
 The zero-based index of the first occurrence of *item*item within the entire System.Collections.Generic.List, if found; otherwise, –1.
 

@@ -9,13 +9,17 @@ weight: 180
 url: "/net/aspose.pdf/documentinfo/item/"
 product_version: "26.9.0"
 ---
-## DocumentInfo.Item property
+## DocumentInfo indexer
 
 Gets or sets the value associated with the specified key.
 
 ```csharp
-public string Item { get; set; }
+public string this[string key] { get; set; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| key | The key whose value to get or set. |
 
 ### See Also
 

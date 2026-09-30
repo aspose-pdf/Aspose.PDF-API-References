@@ -5,7 +5,7 @@ articleTitle: "IsWordWrapped"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Cell property. Gets or sets the cell's text word wrapped."
 type: docs
-weight: 140
+weight: 130
 url: "/net/aspose.pdf/cell/iswordwrapped/"
 product_version: "26.9.0"
 ---

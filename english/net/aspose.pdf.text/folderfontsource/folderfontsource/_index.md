@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.text/folderfontsource/folderfontsource/"
 product_version: "26.9.0"
 ---
-## FolderFontSource(string) {#constructor}
+## FolderFontSource constructor
 
 Initializes a new instance of [`FolderFontSource`](../../../aspose.pdf.text/folderfontsource/) class.
 
@@ -19,7 +19,7 @@ public FolderFontSource(string folderPath)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| folderPath | string | Path to the folder. |
+| folderPath | String | Path to the folder. |
 
 ### See Also
 

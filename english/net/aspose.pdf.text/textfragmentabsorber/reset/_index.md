@@ -9,7 +9,7 @@ weight: 160
 url: "/net/aspose.pdf.text/textfragmentabsorber/reset/"
 product_version: "26.9.0"
 ---
-## Reset() {#reset}
+## TextFragmentAbsorber.Reset method
 
 Clears TextFragments collection of this [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) object.
 

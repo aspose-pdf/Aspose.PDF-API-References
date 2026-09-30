@@ -19,7 +19,7 @@ public ICustomSecurityHandler CustomSecurityHandler { get; }
 
 ### See Also
 
-* class [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

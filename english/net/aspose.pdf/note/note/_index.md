@@ -35,7 +35,7 @@ public Note(string content)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| content | string | The note content. |
+| content | String | The note content. |
 
 ### See Also
 

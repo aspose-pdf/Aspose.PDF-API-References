@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.text/textfragmentcollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## TextFragmentCollection.Clear method
 
 Clears all items from the collection.
 

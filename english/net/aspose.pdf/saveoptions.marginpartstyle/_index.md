@@ -5,7 +5,7 @@ articleTitle: "SaveOptions.MarginPartStyle"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.SaveOptions.MarginPartStyle class. Represents information of one part of margin(top, botom, left side or right side)"
 type: docs
-weight: 2810
+weight: 2770
 url: "/net/aspose.pdf/saveoptions.marginpartstyle/"
 keywords: "SaveOptions.MarginPartStyle, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,8 +22,8 @@ public class MarginPartStyle
 
 | Name | Description |
 | --- | --- |
-| [SaveOptions.MarginPartStyle](./marginpartstyle/#constructor)(*int*) | Creates instance of MarginPartStyle class. |
-| [SaveOptions.MarginPartStyle](./marginpartstyle/#constructor_1)(*bool*) | Creates instance of MarginPartStyle class. |
+| [MarginPartStyle](./marginpartstyle/#constructor)(bool) | Creates instance of MarginPartStyle class and initializes its value in points |
+| [MarginPartStyle](./marginpartstyle/#constructor_1)(int) | Creates instance of MarginPartStyle class and set its value in points |
 
 ## Properties
 

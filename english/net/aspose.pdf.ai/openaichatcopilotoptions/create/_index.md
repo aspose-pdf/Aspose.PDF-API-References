@@ -14,19 +14,16 @@ product_version: "26.9.0"
 Creates a new instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
 
 ```csharp
-public OpenAIChatCopilotOptions Create()
+public static OpenAIChatCopilotOptions Create()
 ```
 
 ### Return Value
-
-[OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
 
 A new instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
 
 ### See Also
 
 * class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
-* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,23 +34,20 @@ A new instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichat
 Creates an instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/) and configures it using the provided delegate.
 
 ```csharp
-public OpenAIChatCopilotOptions Create(Action<OpenAIChatCopilotOptions> config)
+public static OpenAIChatCopilotOptions Create(Action<OpenAIChatCopilotOptions> config)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| config | Action<OpenAIChatCopilotOptions> | The delegate to configure the options. |
+| config | Action`1 | The delegate to configure the options. |
 
 ### Return Value
-
-[OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
 
 The configured instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
 
 ### See Also
 
 * class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
-* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

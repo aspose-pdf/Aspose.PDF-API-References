@@ -22,13 +22,19 @@ public class CustomFontSubstitutionBase : FontSubstitution
 
 | Name | Description |
 | --- | --- |
-| [CustomFontSubstitutionBase](./customfontsubstitutionbase/#constructor) | The default constructor. |
+| [CustomFontSubstitutionBase](./customfontsubstitutionbase/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [TrySubstitute](./trysubstitute/)(*OriginalFontSpecification, Font*) |  |
+| virtual [TrySubstitute](./trysubstitute/)(OriginalFontSpecification, out Font) | Substitutes original font with another font. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| class [OriginalFontSpecification](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification) | Represents original font specification. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.printing/printersettings/printersettings/"
 product_version: "26.9.0"
 ---
-## PrinterSettings() {#constructor}
+## PrinterSettings constructor
 
 The default constructor.
 

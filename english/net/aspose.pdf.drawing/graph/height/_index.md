@@ -5,7 +5,7 @@ articleTitle: "Height"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Graph property. Gets or sets a float value that indicates the graph height. The unit is point."
 type: docs
-weight: 120
+weight: 110
 url: "/net/aspose.pdf.drawing/graph/height/"
 product_version: "26.9.0"
 ---

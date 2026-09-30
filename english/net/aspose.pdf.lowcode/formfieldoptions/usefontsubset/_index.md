@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets/sets the value to determine whether created/modified field is use font subset or not (if will be set).
 
 ```csharp
-public Nullable<bool> UseFontSubset { get; set; }
+public bool? UseFontSubset { get; set; }
 ```
 
 ### See Also

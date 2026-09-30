@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Sets font style of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object
 
 ```csharp
-public FontStyles FontStyle { get; set; }
+public override FontStyles FontStyle { get; set; }
 ```
 
 ### See Also
 
-* class [FontStyles](../../../aspose.pdf.text/fontstyles/)
+* enum [FontStyles](../../../aspose.pdf.text/fontstyles/)
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

@@ -22,13 +22,13 @@ public sealed class FormImporter : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [FormImporter](./formimporter/#constructor) | The default constructor. |
+| [FormImporter](./formimporter/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(*IPluginOptions*) | Starts the import processing with the specified options. |
+| [Process](./process/)(IPluginOptions) | Starts the import processing with the specified options. |
 
 ### See Also
 

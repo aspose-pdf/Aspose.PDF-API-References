@@ -22,8 +22,8 @@ public class PDF3DCuttingPlaneOrientation
 
 | Name | Description |
 | --- | --- |
-| [PDF3DCuttingPlaneOrientation](./pdf3dcuttingplaneorientation/#constructor) | Initializes a new instance of the [`PDF3DCuttingPlaneOrientation`](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/) class. |
-| [PDF3DCuttingPlaneOrientation](./pdf3dcuttingplaneorientation/#constructor_1)(*Nullable<double>, Nullable<double>, Nullable<double>*) | Initializes a new instance of the [`PDF3DCuttingPlaneOrientation`](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/) class. |
+| [PDF3DCuttingPlaneOrientation](./pdf3dcuttingplaneorientation/#constructor)() | Initializes a new instance of the [`PDF3DCuttingPlaneOrientation`](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/) class. |
+| [PDF3DCuttingPlaneOrientation](./pdf3dcuttingplaneorientation/#constructor_1)(double?, double?, double?) | Initializes a new instance of the [`PDF3DCuttingPlaneOrientation`](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/) class. |
 
 ## Properties
 
@@ -37,7 +37,7 @@ public class PDF3DCuttingPlaneOrientation
 
 | Name | Description |
 | --- | --- |
-| [ToString](./tostring/) | Returns a `String` that represents this instance. |
+| override [ToString](./tostring/)() | Returns a `String` that represents this instance. |
 
 ### See Also
 

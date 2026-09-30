@@ -14,13 +14,12 @@ product_version: "26.9.0"
 Allows copying file.
 
 ```csharp
-public DocumentPrivilege Copy { get; }
+public static DocumentPrivilege Copy { get; }
 ```
 
 ### See Also
 
 * class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

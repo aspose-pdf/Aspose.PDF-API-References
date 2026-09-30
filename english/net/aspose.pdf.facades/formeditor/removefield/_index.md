@@ -5,11 +5,11 @@ articleTitle: "RemoveField"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormEditor method. Remove field from the form."
 type: docs
-weight: 180
+weight: 130
 url: "/net/aspose.pdf.facades/formeditor/removefield/"
 product_version: "26.9.0"
 ---
-## RemoveField(string) {#removefield}
+## FormEditor.RemoveField method
 
 Remove field from the form.
 
@@ -19,7 +19,7 @@ public void RemoveField(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | Name of the field which must be removed. |
+| fieldName | String | Name of the field which must be removed. |
 
 ### See Also
 

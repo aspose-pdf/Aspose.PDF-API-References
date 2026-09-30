@@ -5,7 +5,7 @@ articleTitle: "XmpPdfAExtensionSchemaDescription"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.XmpPdfAExtensionSchemaDescription class. Represents the description of XMP extension schema which is provided by PDF/A-1."
 type: docs
-weight: 3330
+weight: 3290
 url: "/net/aspose.pdf/xmppdfaextensionschemadescription/"
 keywords: "XmpPdfAExtensionSchemaDescription, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public class XmpPdfAExtensionSchemaDescription
 
 | Name | Description |
 | --- | --- |
-| [XmpPdfAExtensionSchemaDescription](./xmppdfaextensionschemadescription/#constructor)(*string, string, string*) | Initializes new object. |
+| [XmpPdfAExtensionSchemaDescription](./xmppdfaextensionschemadescription/)(string, string, string) | Initializes new object. |
 
 ## Properties
 
@@ -36,7 +36,7 @@ public class XmpPdfAExtensionSchemaDescription
 
 | Name | Description |
 | --- | --- |
-| [GetXml](./getxml/)(*XmlDocument*) | Returns the list of xml elements that represent schema description in xml tree. |
+| [GetXml](./getxml/)(XmlDocument) | Returns the list of xml elements that represent schema description in xml tree. |
 
 ### See Also
 

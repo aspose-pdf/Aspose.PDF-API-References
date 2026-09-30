@@ -9,7 +9,7 @@ weight: 240
 url: "/net/aspose.pdf.facades/pdfconverter/hasnextimage/"
 product_version: "26.9.0"
 ---
-## HasNextImage() {#hasnextimage}
+## PdfConverter.HasNextImage method
 
 Indicates whether the pdf file has more images or not.
 
@@ -18,8 +18,6 @@ public bool HasNextImage()
 ```
 
 ### Return Value
-
-bool
 
 Can get more images or not, true if can, or false.
 

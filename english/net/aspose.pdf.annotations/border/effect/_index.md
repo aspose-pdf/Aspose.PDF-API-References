@@ -19,7 +19,7 @@ public BorderEffect Effect { get; set; }
 
 ### See Also
 
-* class [BorderEffect](../../../aspose.pdf.annotations/bordereffect/)
+* enum [BorderEffect](../../../aspose.pdf.annotations/bordereffect/)
 * class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -5,7 +5,7 @@ articleTitle: "HtmlSaveOptions.HtmlPageMarkupSavingStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Result of conversion can contain one or several HTML-pages ( that also can reference external files like images or fonts) You can assign to this property del..."
 type: docs
-weight: 1310
+weight: 1300
 url: "/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavingstrategy/"
 product_version: "26.9.0"
 ---
@@ -24,8 +24,12 @@ Result of conversion can contain one or several HTML-pages ( that also can refer
  as if there was no any external custom saving code .
 
 ```csharp
-public delegate void HtmlPageMarkupSavingStrategy()
+public delegate void HtmlPageMarkupSavingStrategy(HtmlPageMarkupSavingInfo htmlSavingInfo);
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| htmlSavingInfo | HtmlPageMarkupSavingInfo | represents data that can be used for saving or processing of supplied HTML page |
 
 ### See Also
 

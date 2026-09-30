@@ -5,7 +5,7 @@ articleTitle: "Zoom"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "XYZExplicitDestination property. Gets zoom factor."
 type: docs
-weight: 100
+weight: 90
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/zoom/"
 product_version: "26.9.0"
 ---

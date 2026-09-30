@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf.annotations/actioncollection/contains/"
 product_version: "26.9.0"
 ---
-## Contains([PdfAction](../../../aspose.pdf.annotations/pdfaction/)) {#contains}
+## ActionCollection.Contains method
 
 Returns true if give item presents in the collection.
 
@@ -23,12 +23,11 @@ public bool Contains(PdfAction item)
 
 ### Return Value
 
-bool
-
 Not implemented.
 
 ### See Also
 
+* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
 * class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

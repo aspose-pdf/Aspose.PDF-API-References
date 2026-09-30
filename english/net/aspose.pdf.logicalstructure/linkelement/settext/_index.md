@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/linkelement/settext/"
 product_version: "26.9.0"
 ---
-## SetText(string) {#settext}
+## LinkElement.SetText method
 
 
 
@@ -19,7 +19,7 @@ public void SetText(string text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string |  |
+| text | String |  |
 
 ### See Also
 

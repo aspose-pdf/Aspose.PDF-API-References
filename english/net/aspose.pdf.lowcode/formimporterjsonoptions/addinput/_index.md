@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.lowcode/formimporterjsonoptions/addinput/"
 product_version: "26.9.0"
 ---
-## AddInput([IDataSource](../../../aspose.pdf.lowcode/idatasource/), [IDataSource](../../../aspose.pdf.lowcode/idatasource/)) {#addinput}
+## FormImporterJsonOptions.AddInput method
 
 Adds a new pair of input sources – the PDF document and the JSON file.
 
@@ -24,6 +24,7 @@ public void AddInput(IDataSource pdfSource, IDataSource jsonSource)
 
 ### See Also
 
+* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
 * class [FormImporterJsonOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

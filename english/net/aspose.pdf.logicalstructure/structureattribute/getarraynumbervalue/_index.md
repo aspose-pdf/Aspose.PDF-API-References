@@ -9,17 +9,15 @@ weight: 60
 url: "/net/aspose.pdf.logicalstructure/structureattribute/getarraynumbervalue/"
 product_version: "26.9.0"
 ---
-## GetArrayNumberValue() {#getarraynumbervalue}
+## StructureAttribute.GetArrayNumberValue method
 
 Gets Value Number Array.
 
 ```csharp
-public Nullable<double>[] GetArrayNumberValue()
+public double?[] GetArrayNumberValue()
 ```
 
 ### Return Value
-
-Nullable<double>[]
 
 Value Number Array.
 

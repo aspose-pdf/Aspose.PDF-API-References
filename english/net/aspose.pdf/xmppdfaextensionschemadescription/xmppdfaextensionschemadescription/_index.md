@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/xmppdfaextensionschemadescription/xmppdfaextensionschemadescription/"
 product_version: "26.9.0"
 ---
-## XmpPdfAExtensionSchemaDescription(string, string, string) {#constructor}
+## XmpPdfAExtensionSchemaDescription constructor
 
 Initializes new object.
 
@@ -19,9 +19,9 @@ public XmpPdfAExtensionSchemaDescription(string prefix, string namespaceURI, str
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| prefix | string | The prefix. |
-| namespaceURI | string | The namespace URI. |
-| description | string | The optional desciption. |
+| prefix | String | The prefix. |
+| namespaceURI | String | The namespace URI. |
+| description | String | The optional desciption. |
 
 ### See Also
 

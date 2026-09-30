@@ -9,17 +9,15 @@ weight: 80
 url: "/net/aspose.pdf.operators/setadvancedcolor/getcolor/"
 product_version: "26.9.0"
 ---
-## getColor() {#getcolor}
+## SetAdvancedColor.getColor method
 
 Returns color specified by operator.
 
 ```csharp
-public Color getColor()
+public override Color getColor()
 ```
 
 ### Return Value
-
-[Color](../../../aspose.pdf/color/)
 
 Color set by operator.
 

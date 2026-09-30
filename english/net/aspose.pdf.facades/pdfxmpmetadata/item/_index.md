@@ -3,23 +3,57 @@ title: "PdfXmpMetadata.Item"
 linktitle: "Item"
 articleTitle: "Item"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "PdfXmpMetadata property. Gets value of XMP metadata by key."
+description: "PdfXmpMetadata property. Gets or sets value by key."
 type: docs
-weight: 330
+weight: 270
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/item/"
 product_version: "26.9.0"
 ---
-## PdfXmpMetadata.Item property
+## PdfXmpMetadata indexer (1 of 2)
 
-Gets value of XMP metadata by key.
+Gets or sets value by key.
 
 ```csharp
-public XmpValue Item { get; set; }
+public XmpValue this[string key] { get; set; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| key | The key name to get/set. |
+
+### Return Value
+
+Object by key
 
 ### See Also
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfXmpMetadata indexer (2 of 2)
+
+Gets value of XMP metadata by key.
+
+```csharp
+public XmpValue this[DefaultMetadataProperties key] { get; set; }
+```
+
+| Parameter | Description |
+| --- | --- |
+| key | Key of the value. |
+
+### Return Value
+
+Value from XMP metadata.
+
+### See Also
+
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* enum [DefaultMetadataProperties](../../../aspose.pdf.facades/defaultmetadataproperties/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

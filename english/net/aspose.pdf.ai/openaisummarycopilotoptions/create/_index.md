@@ -14,19 +14,16 @@ product_version: "26.9.0"
 Creates a new instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
 
 ```csharp
-public OpenAISummaryCopilotOptions Create()
+public static OpenAISummaryCopilotOptions Create()
 ```
 
 ### Return Value
-
-[OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
 
 A new instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
 
 ### See Also
 
 * class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
-* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,23 +34,20 @@ A new instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openais
 Creates an instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/) and configures it using the provided delegate.
 
 ```csharp
-public OpenAISummaryCopilotOptions Create(Action<OpenAISummaryCopilotOptions> config)
+public static OpenAISummaryCopilotOptions Create(Action<OpenAISummaryCopilotOptions> config)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| config | Action<OpenAISummaryCopilotOptions> | The delegate to configure the options. |
+| config | Action`1 | The delegate to configure the options. |
 
 ### Return Value
-
-[OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
 
 The configured instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
 
 ### See Also
 
 * class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
-* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

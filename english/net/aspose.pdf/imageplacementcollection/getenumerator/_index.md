@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/imageplacementcollection/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## ImagePlacementCollection.GetEnumerator method
 
 Returns an enumerator for the entire collection.
 
@@ -18,8 +18,6 @@ public IEnumerator<ImagePlacement> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[ImagePlacement](../../../aspose.pdf/imageplacement/)>
 
 Enumerator object.
 

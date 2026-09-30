@@ -9,18 +9,19 @@ weight: 30
 url: "/net/aspose.pdf.ai/aicopilotfactory/createimagedescriptioncopilot/"
 product_version: "26.9.0"
 ---
-## CreateImageDescriptionCopilot(IImageDescriptionClient<T0>, IImageDescriptionCopilotOptions<T0>) {#createimagedescriptioncopilot}
+## AICopilotFactory.CreateImageDescriptionCopilot&lt;TOptions&gt; method
 
 Creates an image description copilot based on the client and options.
 
 ```csharp
-public IImageDescriptionCopilot CreateImageDescriptionCopilot(IImageDescriptionClient<T0> client, IImageDescriptionCopilotOptions<T0> options)
+public static IImageDescriptionCopilot CreateImageDescriptionCopilot<TOptions>(
+    IImageDescriptionClient<TOptions> client, IImageDescriptionCopilotOptions<TOptions> options)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| client | IImageDescriptionClient<T0> |  |
-| options | IImageDescriptionCopilotOptions<T0> |  |
+| client | IImageDescriptionClient`1 |  |
+| options | IImageDescriptionCopilotOptions`1 |  |
 
 ### Return Value
 
@@ -28,7 +29,7 @@ public IImageDescriptionCopilot CreateImageDescriptionCopilot(IImageDescriptionC
 
 ### See Also
 
-* class [IImageDescriptionCopilot](../../../aspose.pdf.ai/iimagedescriptioncopilot/)
+* interface [IImageDescriptionCopilot](../../../aspose.pdf.ai/iimagedescriptioncopilot/)
 * class [AICopilotFactory](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

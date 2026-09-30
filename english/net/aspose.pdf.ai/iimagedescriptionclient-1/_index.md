@@ -9,12 +9,12 @@ weight: 520
 url: "/net/aspose.pdf.ai/iimagedescriptionclient-1/"
 product_version: "26.9.0"
 ---
-## IImageDescriptionClient<TOptions> interface
+## IImageDescriptionClient&lt;TOptions&gt; interface
 
 Represents an interface for an image description client with specific options.
 
 ```csharp
-public interface IImageDescriptionClient<TOptions><TOptions>
+public interface IImageDescriptionClient<in TOptions> : IAIClient
 ```
 
 ## Type Parameters
@@ -27,7 +27,7 @@ public interface IImageDescriptionClient<TOptions><TOptions>
 
 | Name | Description |
 | --- | --- |
-| [GetImageDescriptionCopilot](./getimagedescriptioncopilot/)(*IImageDescriptionCopilotOptions<T0>*) | Gets an instance of [`IImageDescriptionCopilot`](../../aspose.pdf.ai/iimagedescriptioncopilot/) with the specified options. |
+| [GetImageDescriptionCopilot](./getimagedescriptioncopilot/)(IImageDescriptionCopilotOptions<TOptions>) | Gets an instance of [`IImageDescriptionCopilot`](../../aspose.pdf.ai/iimagedescriptioncopilot/) with the specified options. |
 
 ### See Also
 

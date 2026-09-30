@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.text/tabstops/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## TabStops.Clone method
 
 Clones a new [`TabStops`](../../../aspose.pdf.text/tabstops/) objects.
 
@@ -18,8 +18,6 @@ public object Clone()
 ```
 
 ### Return Value
-
-object
 
 The new [`TabStops`](../../../aspose.pdf.text/tabstops/) object.
 

@@ -22,13 +22,13 @@ public sealed class SystemFontSource : FontSource
 
 | Name | Description |
 | --- | --- |
-| [SystemFontSource](./systemfontsource/#constructor) | The default constructor. |
+| [SystemFontSource](./systemfontsource/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Equals](./equals/)(*object*) | Check if system font source objects are equal. |
+| override [Equals](./equals/)(object) | Check if system font source objects are equal. |
 
 ### See Also
 

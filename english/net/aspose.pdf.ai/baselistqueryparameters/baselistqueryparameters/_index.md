@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/baselistqueryparameters/baselistqueryparameters/"
 product_version: "26.9.0"
 ---
-## BaseListQueryParameters() {#constructor}
+## BaseListQueryParameters constructor
 
 The default constructor.
 

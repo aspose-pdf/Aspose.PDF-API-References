@@ -15,7 +15,7 @@ product_version: "26.9.0"
 Collection of base logical structure elements.
 
 ```csharp
-public class ElementCollection : IEnumerable
+public class ElementCollection : IEnumerable<Element>
 ```
 
 ## Properties
@@ -29,8 +29,8 @@ public class ElementCollection : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [GetEnumerator](./getenumerator/) | Returns an enumerator that iterates through the collection. |
-| [Remove](./remove/)(*Element*) | Remove item from collection. |
+| [GetEnumerator](./getenumerator/)() | Returns an enumerator that iterates through the collection. |
+| [Remove](./remove/)(Element) | Remove item from collection. |
 
 ### See Also
 

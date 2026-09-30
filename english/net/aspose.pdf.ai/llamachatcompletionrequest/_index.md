@@ -22,7 +22,7 @@ public class LlamaChatCompletionRequest
 
 | Name | Description |
 | --- | --- |
-| [LlamaChatCompletionRequest](./llamachatcompletionrequest/#constructor) | The default constructor. |
+| [LlamaChatCompletionRequest](./llamachatcompletionrequest/)() | The default constructor. |
 
 ## Properties
 
@@ -30,13 +30,13 @@ public class LlamaChatCompletionRequest
 | --- | --- |
 | [FrequencyPenalty](./frequencypenalty/) { get; set; } | Sets or gets the frequency penalty to use during sampling. |
 | [LogitBias](./logitbias/) { get; set; } | Sets or gets the logit bias to use during sampling. |
-| [MaxTokens](./maxtokens/) { get; set; } | Sets or gets the maximum number of tokens to generate in the chat completion. |
+| [MaxTokens](./maxtokens/) { get; set; } | Sets or gets the maximum number of tokens to generate in the chat completion. Default value is null, means infinity. |
 | [Messages](./messages/) { get; set; } | Sets or gets a list of messages comprising the conversation. |
 | [Model](./model/) { get; set; } | Sets or gets ID of the model to use. |
 | [NumberOfChoices](./numberofchoices/) { get; set; } | Sets or gets how many chat completion choices to generate for each input message. |
 | [PresencePenalty](./presencepenalty/) { get; set; } | Sets or gets the presence penalty to use during sampling. |
 | [Stream](./stream/) { get; set; } | Sets or gets whether to stream the response. |
-| [Temperature](./temperature/) { get; set; } | Sets or gets the sampling temperature to use, between 0 and 2. |
+| [Temperature](./temperature/) { get; set; } | Sets or gets the sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic. Default value is 1. |
 
 ### See Also
 

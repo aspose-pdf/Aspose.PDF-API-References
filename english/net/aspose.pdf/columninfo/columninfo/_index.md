@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/columninfo/columninfo/"
 product_version: "26.9.0"
 ---
-## ColumnInfo() {#constructor}
+## ColumnInfo constructor
 
 The default constructor.
 

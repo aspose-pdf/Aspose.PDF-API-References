@@ -5,7 +5,7 @@ articleTitle: "Save"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileInfo method. Saves the PDF document to the specified file."
 type: docs
-weight: 210
+weight: 200
 url: "/net/aspose.pdf.facades/pdffileinfo/save/"
 product_version: "26.9.0"
 ---
@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Saves the PDF document to the specified file.
 
 ```csharp
-public void Save(Stream destStream)
+public override void Save(Stream destStream)
 ```
 
 | Parameter | Type | Description |
@@ -34,12 +34,12 @@ public void Save(Stream destStream)
 Saves the PDF document to the specified file.
 
 ```csharp
-public void Save(string destFile)
+public override void Save(string destFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| destFile | string | The destination file. |
+| destFile | String | The destination file. |
 
 ### See Also
 

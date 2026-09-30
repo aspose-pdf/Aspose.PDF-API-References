@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.annotations/richmediaannotation/setposter/"
 product_version: "26.9.0"
 ---
-## SetPoster(Stream) {#setposter}
+## RichMediaAnnotation.SetPoster method
 
 Set poster of the annotation.
 

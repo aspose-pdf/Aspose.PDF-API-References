@@ -36,7 +36,7 @@ public Do(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Name of invoked XObject. |
+| name | String | Name of invoked XObject. |
 
 ### See Also
 

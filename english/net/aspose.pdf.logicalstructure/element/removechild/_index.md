@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.logicalstructure/element/removechild/"
 product_version: "26.9.0"
 ---
-## RemoveChild(int) {#removechild}
+## Element.RemoveChild method
 
 Remove child at.
 
@@ -19,7 +19,7 @@ public void RemoveChild(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Child element index. |
+| index | Int32 | Child element index. |
 
 ### See Also
 

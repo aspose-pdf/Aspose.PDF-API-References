@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/margininfo/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## MarginInfo.Clone method
 
 Clones a new [`MarginInfo`](../../../aspose.pdf/margininfo/) object.
 
@@ -18,8 +18,6 @@ public object Clone()
 ```
 
 ### Return Value
-
-object
 
 The new object.
 

@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/pageinfo/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## PageInfo.Clone method
 
 Clone page info.
 
@@ -18,8 +18,6 @@ public object Clone()
 ```
 
 ### Return Value
-
-object
 
 The cloned object
 

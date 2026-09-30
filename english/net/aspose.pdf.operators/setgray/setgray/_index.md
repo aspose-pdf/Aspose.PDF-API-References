@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/setgray/setgray/"
 product_version: "26.9.0"
 ---
-## SetGray(double) {#constructor}
+## SetGray constructor
 
 Initializes operator.
 
@@ -19,7 +19,7 @@ public SetGray(double gray)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| gray | double | The level of gray value. |
+| gray | Double | The level of gray value. |
 
 ### See Also
 

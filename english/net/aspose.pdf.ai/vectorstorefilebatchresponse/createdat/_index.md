@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the Unix timestamp (in seconds) for when the vector store files batch was created.
 
 ```csharp
-public Nullable<int> CreatedAt { get; set; }
+public int? CreatedAt { get; set; }
 ```
 
 ### See Also

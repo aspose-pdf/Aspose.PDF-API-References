@@ -9,7 +9,7 @@ weight: 370
 url: "/net/aspose.pdf.tagged/itaggedcontent/createwarichuelement/"
 product_version: "26.9.0"
 ---
-## CreateWarichuElement() {#createwarichuelement}
+## ITaggedContent.CreateWarichuElement method
 
 Creates [`WarichuElement`](../../../aspose.pdf.logicalstructure/warichuelement/).
 
@@ -18,8 +18,6 @@ public WarichuElement CreateWarichuElement()
 ```
 
 ### Return Value
-
-[WarichuElement](../../../aspose.pdf.logicalstructure/warichuelement/)
 
 Created structure element.
 

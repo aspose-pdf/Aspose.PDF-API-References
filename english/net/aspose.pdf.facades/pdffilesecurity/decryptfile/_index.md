@@ -5,11 +5,11 @@ articleTitle: "DecryptFile"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileSecurity method. Decrypts an encrypted Pdf document by owner password. If the document hasn't owner password, it is allow to use user password. Throws..."
 type: docs
-weight: 100
+weight: 60
 url: "/net/aspose.pdf.facades/pdffilesecurity/decryptfile/"
 product_version: "26.9.0"
 ---
-## DecryptFile(string) {#decryptfile}
+## PdfFileSecurity.DecryptFile method
 
 Decrypts an encrypted Pdf document by owner password. 
  If the document hasn't owner password, it is allow to use user password.
@@ -21,11 +21,9 @@ public bool DecryptFile(string ownerPassword)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ownerPassword | string | Owner password. |
+| ownerPassword | String | Owner password. |
 
 ### Return Value
-
-bool
 
 True for success.
 

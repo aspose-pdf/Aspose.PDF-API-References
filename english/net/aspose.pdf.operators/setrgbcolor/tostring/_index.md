@@ -9,17 +9,15 @@ weight: 50
 url: "/net/aspose.pdf.operators/setrgbcolor/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## SetRGBColor.ToString method
 
 Returns text representation of the operator.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 Text representation of operator.
 

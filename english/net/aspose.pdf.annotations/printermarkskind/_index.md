@@ -14,6 +14,7 @@ product_version: "26.9.0"
 Specifies the types of printer's marks to be added to a document.
 
 ```csharp
+[Flags]
 public enum PrinterMarksKind
 ```
 

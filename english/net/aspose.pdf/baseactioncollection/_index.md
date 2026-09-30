@@ -22,7 +22,7 @@ public abstract class BaseActionCollection
 
 | Name | Description |
 | --- | --- |
-| [RemoveActions](./removeactions/) | Removes all actions of the annotation. |
+| [RemoveActions](./removeactions/)() | Removes all actions of the annotation. |
 
 ### See Also
 

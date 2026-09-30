@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf/destinationcollection/contains/"
 product_version: "26.9.0"
 ---
-## Contains(KeyValuePair<string, object>) {#contains}
+## DestinationCollection.Contains method
 
 Determines whether this instance contains the object.
 
@@ -19,11 +19,9 @@ public bool Contains(KeyValuePair<string, object> value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | KeyValuePair<string, object> | The value. |
+| value | KeyValuePair`2 | The value. |
 
 ### Return Value
-
-bool
 
 `true` if [contains] [the specified value]; otherwise, `false`.
 

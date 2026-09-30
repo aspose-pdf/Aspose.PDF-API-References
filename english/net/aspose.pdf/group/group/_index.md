@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/group/group/"
 product_version: "26.9.0"
 ---
-## Group([Page](../../../aspose.pdf/page/)) {#constructor}
+## Group constructor
 
 The constructor.
 
@@ -23,6 +23,7 @@ public Group(Page page)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [Group](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

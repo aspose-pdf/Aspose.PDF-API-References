@@ -22,24 +22,24 @@ public class TextShowOperator : TextOperator
 
 | Name | Description |
 | --- | --- |
-| [TextShowOperator](./textshowoperator/#constructor) | Initializes TextShowOperator. |
-| [TextShowOperator](./textshowoperator/#constructor_1)(*[TextProperties](../../aspose.pdf.facades/textproperties/)*) | Initializes TextShowOperator which allows to pass TextProperties. |
+| [TextShowOperator](./textshowoperator/#constructor)() | Initializes TextShowOperator. |
+| [TextShowOperator](./textshowoperator/#constructor_1)(TextProperties) | Initializes TextShowOperator which allows to pass TextProperties. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. *(Inherited from Operator)* |
-| [Text](./text/) { get; set; } | Gets text which operator out on the page. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
+| virtual [Text](./text/) { get; set; } | Gets text which operator out on the page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Accept](../../aspose.pdf.operators/textoperator/accept/)(*IOperatorSelector*) | Accepts visitor object to process operator. *(Inherited from TextOperator)* |
-| [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(*Operator*) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc). *(Inherited from Operator)* |
-| [ToString](../../aspose.pdf/operator/tostring/) | Returns text of operator and its parameters. *(Inherited from Operator)* |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(*Operator*) | Compares this instance with the given object. *(Inherited from Operator)* |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 

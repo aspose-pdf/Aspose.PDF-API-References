@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf/filespecification/setvalue/"
 product_version: "26.9.0"
 ---
-## SetValue(string, string) {#setvalue}
+## FileSpecification.SetValue method
 
 Sets application-specific parameter.
 
@@ -19,8 +19,8 @@ public void SetValue(string key, string value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | Parameter name. |
-| value | string | New parameter value. |
+| key | String | Parameter name. |
+| value | String | New parameter value. |
 
 ### See Also
 

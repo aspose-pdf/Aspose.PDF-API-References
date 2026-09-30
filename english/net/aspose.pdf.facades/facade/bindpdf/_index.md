@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Initializes the facade.
 
 ```csharp
-public void BindPdf(string srcFile)
+public virtual void BindPdf(string srcFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFile | string | The PDF file. |
+| srcFile | String | The PDF file. |
 
 ### See Also
 
@@ -34,7 +34,7 @@ public void BindPdf(string srcFile)
 Initializes the facade.
 
 ```csharp
-public void BindPdf(Stream srcStream)
+public virtual void BindPdf(Stream srcStream)
 ```
 
 | Parameter | Type | Description |
@@ -54,7 +54,7 @@ public void BindPdf(Stream srcStream)
 Initializes the facade.
 
 ```csharp
-public void BindPdf(Document srcDoc)
+public virtual void BindPdf(Document srcDoc)
 ```
 
 | Parameter | Type | Description |
@@ -63,6 +63,7 @@ public void BindPdf(Document srcDoc)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [Facade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

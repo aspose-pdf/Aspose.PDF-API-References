@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the fragment hyperlink(for pdf generator).
 
 ```csharp
-public Hyperlink Hyperlink { get; set; }
+public virtual Hyperlink Hyperlink { get; set; }
 ```
 
 ### See Also

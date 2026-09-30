@@ -42,34 +42,14 @@ public PKCS7(TimestampSettings timestampSettings)
 
 ### See Also
 
+* class [TimestampSettings](../../../aspose.pdf/timestampsettings/)
 * class [PKCS7](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## PKCS7(string, string) {#constructor_2}
-
-Initializes new instance of the [`PKCS7`](../../../aspose.pdf.forms/pkcs7/) class.
-
-```csharp
-public PKCS7(string pfx, string password)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pfx | string | Pfx file which contains certificate for signing. |
-| password | string | Password for certificate. |
-
-### See Also
-
-* class [PKCS7](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## PKCS7(Stream, string) {#constructor_3}
+## PKCS7(Stream, string) {#constructor_2}
 
 Initializes new instance of the [`PKCS7`](../../../aspose.pdf.forms/pkcs7/) class.
 
@@ -80,7 +60,28 @@ public PKCS7(Stream pfx, string password)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pfx | Stream | Stream with certificate data organized as pfx. |
-| password | string | Password to get access to the private key in the certificate. |
+| password | String | Password to get access to the private key in the certificate. |
+
+### See Also
+
+* class [PKCS7](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PKCS7(string, string) {#constructor_3}
+
+Initializes new instance of the [`PKCS7`](../../../aspose.pdf.forms/pkcs7/) class.
+
+```csharp
+public PKCS7(string pfx, string password)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pfx | String | Pfx file which contains certificate for signing. |
+| password | String | Password for certificate. |
 
 ### See Also
 

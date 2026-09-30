@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf/page/trysavevectorgraphics/"
 product_version: "26.9.0"
 ---
-## TrySaveVectorGraphics(string) {#trysavevectorgraphics}
+## Page.TrySaveVectorGraphics method
 
 Tries to save vector graphics if they are present on the page. The save format is SVG.
 
@@ -19,11 +19,9 @@ public bool TrySaveVectorGraphics(string pathToSave)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pathToSave | string | Output file |
+| pathToSave | String | Output file |
 
 ### Return Value
-
-bool
 
 True if the page contains path construction operators; otherwise, False.
 

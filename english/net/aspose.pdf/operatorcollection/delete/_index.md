@@ -19,7 +19,7 @@ public void Delete(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of operator which must be deleted. Operators numbering starts from 1. |
+| index | Int32 | Index of operator which must be deleted. Operators numbering starts from 1. |
 
 ### See Also
 
@@ -43,6 +43,7 @@ public void Delete(Operator[] ops)
 
 ### See Also
 
+* class [Operator](../../../aspose.pdf/operator/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -59,7 +60,7 @@ public void Delete(IList<Operator> list)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| list | IList<Operator> | The list of operators to delete |
+| list | IList`1 | The list of operators to delete |
 
 ### See Also
 

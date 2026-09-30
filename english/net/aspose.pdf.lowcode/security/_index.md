@@ -22,13 +22,13 @@ public sealed class Security : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [Security](./security/#constructor) | The default constructor. |
+| [Security](./security/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(*IPluginOptions*) | Starts the [`Security`](../../aspose.pdf.lowcode/security/) processing with the specified parameters. |
+| [Process](./process/)(IPluginOptions) | Starts the [`Security`](../../aspose.pdf.lowcode/security/) processing with the specified parameters. |
 
 ### See Also
 

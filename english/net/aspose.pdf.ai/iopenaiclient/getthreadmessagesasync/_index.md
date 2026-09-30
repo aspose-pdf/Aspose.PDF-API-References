@@ -9,23 +9,23 @@ weight: 80
 url: "/net/aspose.pdf.ai/iopenaiclient/getthreadmessagesasync/"
 product_version: "26.9.0"
 ---
-## GetThreadMessagesAsync(string, [ThreadMessageListQueryParameters](../../../aspose.pdf.ai/threadmessagelistqueryparameters/), Nullable<CancellationToken>) {#getthreadmessagesasync}
+## IOpenAIClient.GetThreadMessagesAsync method
 
 Retrieves a list of messages for a specific thread asynchronously.
 
 ```csharp
-public Task<ThreadMessageListResponse> GetThreadMessagesAsync(string threadId, ThreadMessageListQueryParameters queryParameters, Nullable<CancellationToken> cancellationToken)
+public Task<ThreadMessageListResponse> GetThreadMessagesAsync(string threadId, 
+    ThreadMessageListQueryParameters queryParameters = null, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threadId | string | The ID of the thread to retrieve messages from. |
+| threadId | String | The ID of the thread to retrieve messages from. |
 | queryParameters | ThreadMessageListQueryParameters | Optional query parameters to filter the list of messages. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[ThreadMessageListResponse](../../../aspose.pdf.ai/threadmessagelistresponse/)>
 
 A task that represents the asynchronous operation. The task result contains a list of thread messages.
 
@@ -37,6 +37,7 @@ A task that represents the asynchronous operation. The task result contains a li
 
 ### See Also
 
+* class [ThreadMessageListQueryParameters](../../../aspose.pdf.ai/threadmessagelistqueryparameters/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

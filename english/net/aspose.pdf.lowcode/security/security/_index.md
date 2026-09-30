@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/security/security/"
 product_version: "26.9.0"
 ---
-## Security() {#constructor}
+## Security constructor
 
 The default constructor.
 

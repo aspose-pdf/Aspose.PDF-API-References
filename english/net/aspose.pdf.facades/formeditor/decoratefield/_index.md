@@ -5,7 +5,7 @@ articleTitle: "DecorateField"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormEditor method. Changes visual attributes of the specified field."
 type: docs
-weight: 260
+weight: 210
 url: "/net/aspose.pdf.facades/formeditor/decoratefield/"
 product_version: "26.9.0"
 ---
@@ -19,7 +19,7 @@ public void DecorateField(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | The fully qualified field name. |
+| fieldName | String | The fully qualified field name. |
 
 ### See Also
 
@@ -43,6 +43,7 @@ public void DecorateField(FieldType fieldType)
 
 ### See Also
 
+* enum [FieldType](../../../aspose.pdf.facades/fieldtype/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

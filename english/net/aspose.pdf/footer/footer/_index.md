@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/footer/footer/"
 product_version: "26.9.0"
 ---
-## Footer() {#constructor}
+## Footer constructor
 
 The default constructor.
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/structureattributes/getattribute/"
 product_version: "26.9.0"
 ---
-## GetAttribute([AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)) {#getattribute}
+## StructureAttributes.GetAttribute method
 
 Gets StructureAttribute by AttributeKey.
 
@@ -23,13 +23,12 @@ public StructureAttribute GetAttribute(AttributeKey key)
 
 ### Return Value
 
-[StructureAttribute](../../../aspose.pdf.logicalstructure/structureattribute/)
-
 StructureAttribute
 
 ### See Also
 
 * class [StructureAttribute](../../../aspose.pdf.logicalstructure/structureattribute/)
+* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
 * class [StructureAttributes](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

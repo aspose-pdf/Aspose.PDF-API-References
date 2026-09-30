@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf.forms/optioncollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove([Option](../../../aspose.pdf.forms/option/)) {#remove}
+## OptionCollection.Remove method
 
 Removes item from collection, throws NotImplementedException.
 
@@ -23,8 +23,6 @@ public bool Remove(Option item)
 
 ### Return Value
 
-bool
-
 Throws NotImplementedException
 
 ### Exceptions
@@ -36,6 +34,7 @@ Throws NotImplementedException
 
 ### See Also
 
+* class [Option](../../../aspose.pdf.forms/option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

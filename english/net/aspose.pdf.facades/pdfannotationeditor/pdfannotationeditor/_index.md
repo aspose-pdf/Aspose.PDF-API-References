@@ -39,6 +39,7 @@ public PdfAnnotationEditor(Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

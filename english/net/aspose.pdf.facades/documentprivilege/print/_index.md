@@ -14,13 +14,12 @@ product_version: "26.9.0"
 Allows printing file.
 
 ```csharp
-public DocumentPrivilege Print { get; }
+public static DocumentPrivilege Print { get; }
 ```
 
 ### See Also
 
 * class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

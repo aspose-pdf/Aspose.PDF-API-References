@@ -25,7 +25,27 @@ public HtmlSaveOptions()
 
 ---
 
-## HtmlSaveOptions([HtmlDocumentType](../../../aspose.pdf/htmldocumenttype/)) {#constructor_1}
+## HtmlSaveOptions(bool) {#constructor_1}
+
+Initializes a new instance of the [`HtmlSaveOptions`](../../../aspose.pdf/htmlsaveoptions/) class.
+
+```csharp
+public HtmlSaveOptions(bool fixedLayout)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fixedLayout | Boolean | if set to `true` HTML is created as fixed layout. |
+
+### See Also
+
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## HtmlSaveOptions([HtmlDocumentType](../../../aspose.pdf/htmldocumenttype/)) {#constructor_2}
 
 Initializes a new instance of the [`HtmlSaveOptions`](../../../aspose.pdf/htmlsaveoptions/) class.
 
@@ -39,26 +59,7 @@ public HtmlSaveOptions(HtmlDocumentType documentType)
 
 ### See Also
 
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## HtmlSaveOptions(bool) {#constructor_2}
-
-Initializes a new instance of the [`HtmlSaveOptions`](../../../aspose.pdf/htmlsaveoptions/) class.
-
-```csharp
-public HtmlSaveOptions(bool fixedLayout)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fixedLayout | bool | if set to `true` HTML is created as fixed layout. |
-
-### See Also
-
+* enum [HtmlDocumentType](../../../aspose.pdf/htmldocumenttype/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -76,10 +77,11 @@ public HtmlSaveOptions(HtmlDocumentType documentType, bool fixedLayout)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | documentType | HtmlDocumentType | The <see cref="T:Aspose.Pdf.HtmlDocumentType" />. |
-| fixedLayout | bool | if set to `true` HTML is created as fixed layout. |
+| fixedLayout | Boolean | if set to `true` HTML is created as fixed layout. |
 
 ### See Also
 
+* enum [HtmlDocumentType](../../../aspose.pdf/htmldocumenttype/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

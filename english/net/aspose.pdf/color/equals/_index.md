@@ -9,21 +9,19 @@ weight: 110
 url: "/net/aspose.pdf/color/equals/"
 product_version: "26.9.0"
 ---
-## Equals(object) {#equals}
+## Color.Equals method
 
 Returns true if two Colors are equal.
 
 ```csharp
-public bool Equals(object obj)
+public override bool Equals(object obj)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | object | Object to compare. |
+| obj | Object | Object to compare. |
 
 ### Return Value
-
-bool
 
 True in case Color objects are equal.
 

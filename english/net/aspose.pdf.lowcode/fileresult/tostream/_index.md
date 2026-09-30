@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.lowcode/fileresult/tostream/"
 product_version: "26.9.0"
 ---
-## ToStream() {#tostream}
+## FileResult.ToStream method
 
 Tries to convert the result to a stream object.
 
@@ -18,8 +18,6 @@ public Stream ToStream()
 ```
 
 ### Return Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
 
 A stream object representing the output data if the result is stream; otherwise `null`.
 

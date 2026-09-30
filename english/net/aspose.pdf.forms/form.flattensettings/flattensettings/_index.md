@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf.forms/form.flattensettings/flattensettings/"
 product_version: "26.9.0"
 ---
-## Form.FlattenSettings() {#constructor}
+## FlattenSettings constructor
 
 The default constructor.
 
 ```csharp
-public Form.FlattenSettings()
+public FlattenSettings()
 ```
 
 ### See Also

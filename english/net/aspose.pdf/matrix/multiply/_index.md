@@ -9,7 +9,7 @@ weight: 140
 url: "/net/aspose.pdf/matrix/multiply/"
 product_version: "26.9.0"
 ---
-## Multiply([Matrix](../../../aspose.pdf/matrix/)) {#multiply}
+## Matrix.Multiply method
 
 Multiplies the matrix by other matrix.
 
@@ -23,14 +23,11 @@ public Matrix Multiply(Matrix other)
 
 ### Return Value
 
-[Matrix](../../../aspose.pdf/matrix/)
-
 Result of multiplication.
 
 ### See Also
 
 * class [Matrix](../../../aspose.pdf/matrix/)
-* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

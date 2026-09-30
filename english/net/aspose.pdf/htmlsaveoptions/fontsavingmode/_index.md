@@ -5,7 +5,7 @@ articleTitle: "FontSavingMode"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "HtmlSaveOptions field. Defines font saving mode that will be used during saving of PDF to desirable format"
 type: docs
-weight: 320
+weight: 310
 url: "/net/aspose.pdf/htmlsaveoptions/fontsavingmode/"
 product_version: "26.9.0"
 ---

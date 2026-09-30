@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/squigglyannotation/squigglyannotation/"
 product_version: "26.9.0"
 ---
-## SquigglyAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
+## SquigglyAnnotation constructor
 
 Creates new Squiggly annotation on the specified page.
 
@@ -24,6 +24,8 @@ public SquigglyAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [SquigglyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

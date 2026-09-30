@@ -5,7 +5,7 @@ articleTitle: "ReplaceTextStrategy.Scope"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.ReplaceTextStrategy.Scope enum. Scope where replace text operation is applied REPLACE_FIRST by default"
 type: docs
-weight: 580
+weight: 570
 url: "/net/aspose.pdf.facades/replacetextstrategy.scope/"
 product_version: "26.9.0"
 ---

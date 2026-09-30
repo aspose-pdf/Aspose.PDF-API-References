@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.logicalstructure/element/clearchilds/"
 product_version: "26.9.0"
 ---
-## ClearChilds() {#clearchilds}
+## Element.ClearChilds method
 
 Clear all childs.
 

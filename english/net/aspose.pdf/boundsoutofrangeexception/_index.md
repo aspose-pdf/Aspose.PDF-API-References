@@ -22,15 +22,15 @@ public class BoundsOutOfRangeException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [BoundsOutOfRangeException](./boundsoutofrangeexception/#constructor) | Initializes a new instance of the [`BoundsOutOfRangeException`](../../aspose.pdf/boundsoutofrangeexception/) class. |
-| [BoundsOutOfRangeException](./boundsoutofrangeexception/#constructor_1)(*string*) | Initializes a new instance of the [`BoundsOutOfRangeException`](../../aspose.pdf/boundsoutofrangeexception/) class with a specified error message. |
-| [BoundsOutOfRangeException](./boundsoutofrangeexception/#constructor_2)(*string, double, double*) | Initializes a new instance of the [`BoundsOutOfRangeException`](../../aspose.pdf/boundsoutofrangeexception/) class with a specified error message and item dimensions. |
+| [BoundsOutOfRangeException](./boundsoutofrangeexception/#constructor)() | Initializes a new instance of the [`BoundsOutOfRangeException`](../../aspose.pdf/boundsoutofrangeexception/) class. |
+| [BoundsOutOfRangeException](./boundsoutofrangeexception/#constructor_1)(string) | Initializes a new instance of the [`BoundsOutOfRangeException`](../../aspose.pdf/boundsoutofrangeexception/) class with a specified error message. |
+| [BoundsOutOfRangeException](./boundsoutofrangeexception/#constructor_2)(string, double, double) | Initializes a new instance of the [`BoundsOutOfRangeException`](../../aspose.pdf/boundsoutofrangeexception/) class with a specified error message and item dimensions. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(*CrashReportOptions*) | Forms crash report based on Exception HTML format. *(Inherited from PdfException)* |
+| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
 
 ### See Also
 

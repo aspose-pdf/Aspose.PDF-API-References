@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/embeddedfilecollection/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## EmbeddedFileCollection.GetEnumerator method
 
 Returns colleciton enumerator.
 
@@ -18,8 +18,6 @@ public IEnumerator<FileSpecification> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[FileSpecification](../../../aspose.pdf/filespecification/)>
 
 Enumerator of colleciton.
 

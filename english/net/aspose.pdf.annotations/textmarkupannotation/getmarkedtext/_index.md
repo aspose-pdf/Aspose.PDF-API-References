@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtext/"
 product_version: "26.9.0"
 ---
-## GetMarkedText() {#getmarkedtext}
+## TextMarkupAnnotation.GetMarkedText method
 
 Gets text under markup annotation as string.
 
@@ -18,8 +18,6 @@ public string GetMarkedText()
 ```
 
 ### Return Value
-
-string
 
 String containing text that is under markup annotation.
 

@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.tagged/itaggedcontent/createpartelement/"
 product_version: "26.9.0"
 ---
-## CreatePartElement() {#createpartelement}
+## ITaggedContent.CreatePartElement method
 
 Creates [`PartElement`](../../../aspose.pdf.logicalstructure/partelement/).
 
@@ -18,8 +18,6 @@ public PartElement CreatePartElement()
 ```
 
 ### Return Value
-
-[PartElement](../../../aspose.pdf.logicalstructure/partelement/)
 
 Created structure element.
 

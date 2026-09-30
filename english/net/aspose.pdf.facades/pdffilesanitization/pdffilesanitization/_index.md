@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.facades/pdffilesanitization/pdffilesanitization/"
 product_version: "26.9.0"
 ---
-## PdfFileSanitization() {#constructor}
+## PdfFileSanitization constructor
 
 The default constructor.
 

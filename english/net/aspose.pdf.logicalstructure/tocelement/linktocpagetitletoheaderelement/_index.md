@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/tocelement/linktocpagetitletoheaderelement/"
 product_version: "26.9.0"
 ---
-## LinkTocPageTitleToHeaderElement([Page](../../../aspose.pdf/page/), [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)) {#linktocpagetitletoheaderelement}
+## TOCElement.LinkTocPageTitleToHeaderElement method
 
 Links the Table of Contents (TOC) page title to a header element for document structure.
 
@@ -30,6 +30,8 @@ public void LinkTocPageTitleToHeaderElement(Page tocPage, HeaderElement tocTitle
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
 * class [TOCElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/tablecellbuilder/addparagraph/"
 product_version: "26.9.0"
 ---
-## AddParagraph(BaseParagraph[]) {#addparagraph}
+## TableCellBuilder.AddParagraph method
 
 Add paragraphs to table cell.
 
 ```csharp
-public TableCellBuilder AddParagraph(BaseParagraph[] paragraph)
+public TableCellBuilder AddParagraph(params BaseParagraph[] paragraph)
 ```
 
 | Parameter | Type | Description |
@@ -23,14 +23,12 @@ public TableCellBuilder AddParagraph(BaseParagraph[] paragraph)
 
 ### Return Value
 
-[TableCellBuilder](../../../aspose.pdf.lowcode/tablecellbuilder/)
-
 Instance of current [`TableCellBuilder`](../../../aspose.pdf.lowcode/tablecellbuilder/).
 
 ### See Also
 
 * class [TableCellBuilder](../../../aspose.pdf.lowcode/tablecellbuilder/)
-* class [TableCellBuilder](../)
+* class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)
 

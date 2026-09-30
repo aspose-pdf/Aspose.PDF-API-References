@@ -23,14 +23,12 @@ public OpenAIImageDescriptionCopilotOptions WithDocuments(DocumentCollection doc
 
 ### Return Value
 
-[OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
-
 The current instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
 
 ### See Also
 
 * class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
-* class [OpenAIImageDescriptionCopilotOptions](../)
+* class [DocumentCollection](../../../aspose.pdf.ai/documentcollection/)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -46,18 +44,15 @@ public OpenAIImageDescriptionCopilotOptions WithDocuments(List<PdfDocument> pdfD
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdfDocuments | List<PdfDocument> | The list of PDF documents to add. |
+| pdfDocuments | List`1 | The list of PDF documents to add. |
 
 ### Return Value
-
-[OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
 
 The current instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
 
 ### See Also
 
 * class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
-* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -73,18 +68,15 @@ public OpenAIImageDescriptionCopilotOptions WithDocuments(List<string> filePaths
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filePaths | List<string> | The list of file paths to add. |
+| filePaths | List`1 | The list of file paths to add. |
 
 ### Return Value
-
-[OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
 
 The current instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
 
 ### See Also
 
 * class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
-* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

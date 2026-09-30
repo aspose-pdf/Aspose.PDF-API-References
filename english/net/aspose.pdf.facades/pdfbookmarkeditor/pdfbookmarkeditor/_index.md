@@ -39,6 +39,7 @@ public PdfBookmarkEditor(Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

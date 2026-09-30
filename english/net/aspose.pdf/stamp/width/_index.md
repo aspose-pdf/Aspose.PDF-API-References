@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Desired width of the stamp on the page.
 
 ```csharp
-public double Width { get; set; }
+public virtual double Width { get; set; }
 ```
 
 ### See Also

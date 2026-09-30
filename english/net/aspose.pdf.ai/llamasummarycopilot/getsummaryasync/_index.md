@@ -9,17 +9,17 @@ weight: 60
 url: "/net/aspose.pdf.ai/llamasummarycopilot/getsummaryasync/"
 product_version: "26.9.0"
 ---
-## GetSummaryAsync(Nullable<CancellationToken>) {#getsummaryasync}
+## LlamaSummaryCopilot.GetSummaryAsync method
 
 
 
 ```csharp
-public Task<string> GetSummaryAsync(Nullable<CancellationToken> cancellationToken)
+public Task<string> GetSummaryAsync(CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cancellationToken | Nullable<CancellationToken> |  |
+| cancellationToken | Nullable`1 |  |
 
 ### Return Value
 

@@ -15,21 +15,21 @@ product_version: "26.9.0"
 Represents [`Html`](../../aspose.pdf.lowcode/html/) plugin.
 
 ```csharp
-public sealed class Html : IPlugin, IDisposable
+public sealed class Html : IDisposable, IPlugin
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [Html](./html/#constructor) | The default constructor. |
+| [Html](./html/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/) | Implementation of IDisposable. |
-| [Process](./process/)(*IPluginOptions*) | Starts the [`Html`](../../aspose.pdf.lowcode/html/) processing with the specified parameters. |
+| [Dispose](./dispose/)() | Implementation of IDisposable. |
+| [Process](./process/)(IPluginOptions) | Starts the [`Html`](../../aspose.pdf.lowcode/html/) processing with the specified parameters. |
 
 ### See Also
 

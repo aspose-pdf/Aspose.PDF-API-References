@@ -22,24 +22,24 @@ public sealed class FormExporterToJsonOptions : FormExporterOptions
 
 | Name | Description |
 | --- | --- |
-| [FormExporterToJsonOptions](./formexportertojsonoptions/#constructor) | The default constructor. |
-| [FormExporterToJsonOptions](./formexportertojsonoptions/#constructor_1)(*[SelectField](../../aspose.pdf.lowcode/selectfield/)*) | Initializes a new instance of the [`FormExporterValuesToCsvOptions`](../../aspose.pdf.lowcode/formexportervaluestocsvoptions/) object,. |
+| [FormExporterToJsonOptions](./formexportertojsonoptions/#constructor)() | The default constructor. |
+| [FormExporterToJsonOptions](./formexportertojsonoptions/#constructor_1)(SelectField) | Initializes a new instance of the [`FormExporterValuesToCsvOptions`](../../aspose.pdf.lowcode/formexportervaluestocsvoptions/) object, in which the fields whose data will be exported and the separator for the exported data are specified. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [ExportPasswordValue](./exportpasswordvalue/) { get; set; } | Gets or sets a value indicating whether the password value should be exported. |
-| [Inputs](../../aspose.pdf.lowcode/formoptions/inputs/) { get; } | Returns Form.... plugins data collection. *(Inherited from FormOptions)* |
-| [Outputs](../../aspose.pdf.lowcode/formoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. *(Inherited from FormOptions)* |
+| [Inputs](../../aspose.pdf.lowcode/formoptions/inputs/) { get; } | Returns Form.... plugins data collection. |
+| [Outputs](../../aspose.pdf.lowcode/formoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 | [WriteIndented](./writeindented/) { get; set; } | Gets or sets a value indicating whether the Json output should be indented. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.lowcode/formoptions/addinput/)(*IDataSource*) | Adds new data source to the Form... plugins data collection. *(Inherited from FormOptions)* |
-| [AddOutput](../../aspose.pdf.lowcode/formoptions/addoutput/)(*IDataSource*) | Adds new data source to the Form... plugins data collection. *(Inherited from FormOptions)* |
+| [AddInput](../../aspose.pdf.lowcode/formoptions/addinput/)(IDataSource) | Adds new data source to the Form... plugins data collection. |
+| [AddOutput](../../aspose.pdf.lowcode/formoptions/addoutput/)(IDataSource) | Adds new data source to the Form... plugins data collection. |
 
 ### See Also
 

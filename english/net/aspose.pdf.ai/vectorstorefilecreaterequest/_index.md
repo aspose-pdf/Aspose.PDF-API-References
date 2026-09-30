@@ -22,7 +22,7 @@ public class VectorStoreFileCreateRequest
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreFileCreateRequest](./vectorstorefilecreaterequest/#constructor) | The default constructor. |
+| [VectorStoreFileCreateRequest](./vectorstorefilecreaterequest/)() | The default constructor. |
 
 ## Properties
 

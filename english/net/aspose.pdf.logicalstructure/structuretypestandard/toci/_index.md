@@ -43,7 +43,6 @@ public static readonly StructureTypeStandard TOCI;
 ### See Also
 
 * class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
-* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

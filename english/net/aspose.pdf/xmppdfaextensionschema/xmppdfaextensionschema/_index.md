@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/xmppdfaextensionschema/xmppdfaextensionschema/"
 product_version: "26.9.0"
 ---
-## XmpPdfAExtensionSchema([XmpPdfAExtensionSchemaDescription](../../../aspose.pdf/xmppdfaextensionschemadescription/)) {#constructor}
+## XmpPdfAExtensionSchema constructor
 
 Initializes new object.
 
@@ -23,6 +23,7 @@ public XmpPdfAExtensionSchema(XmpPdfAExtensionSchemaDescription description)
 
 ### See Also
 
+* class [XmpPdfAExtensionSchemaDescription](../../../aspose.pdf/xmppdfaextensionschemadescription/)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

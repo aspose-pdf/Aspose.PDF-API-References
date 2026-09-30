@@ -19,11 +19,9 @@ public string GenerateOutput(List<DiffOperation> diffrences)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffrences | List<DiffOperation> | The list of differences between texts. |
+| diffrences | List`1 | The list of differences between texts. |
 
 ### Return Value
-
-string
 
 Markown text.
 
@@ -45,8 +43,8 @@ public void GenerateOutput(List<DiffOperation> diffrences, string targetFilePath
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffrences | List<DiffOperation> | The list of differences between texts. |
-| targetFilePath | string | The path of the target file to save the output. |
+| diffrences | List`1 | The list of differences between texts. |
+| targetFilePath | String | The path of the target file to save the output. |
 
 ### See Also
 
@@ -66,11 +64,9 @@ public string GenerateOutput(List<List<DiffOperation>> diffrences)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffrences | List<List<DiffOperation>> | The list of differences between texts. |
+| diffrences | List`1 | The list of differences between texts. |
 
 ### Return Value
-
-string
 
 Markown text.
 
@@ -92,8 +88,8 @@ public void GenerateOutput(List<List<DiffOperation>> diffrences, string targetFi
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffrences | List<List<DiffOperation>> | The list of differences between texts. |
-| targetFilePath | string | The path of the target file to save the output. |
+| diffrences | List`1 | The list of differences between texts. |
+| targetFilePath | String | The path of the target file to save the output. |
 
 ### See Also
 

@@ -5,7 +5,7 @@ articleTitle: "PosUpperLeft"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileStamp field. Upper let position."
 type: docs
-weight: 530
+weight: 430
 url: "/net/aspose.pdf.facades/pdffilestamp/posupperleft/"
 product_version: "26.9.0"
 ---

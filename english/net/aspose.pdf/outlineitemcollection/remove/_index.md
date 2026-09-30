@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Remove outline collection item.
 
 ```csharp
-public bool Remove(OutlineItemCollection item)
+public override bool Remove(OutlineItemCollection item)
 ```
 
 | Parameter | Type | Description |
@@ -23,13 +23,11 @@ public bool Remove(OutlineItemCollection item)
 
 ### Return Value
 
-bool
-
 True - if item removed; otherwise, false.
 
 ### See Also
 
-* class [OutlineItemCollection](../)
+* class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -45,7 +43,7 @@ public void Remove(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of item to be deleted. |
+| index | Int32 | Index of item to be deleted. |
 
 ### See Also
 

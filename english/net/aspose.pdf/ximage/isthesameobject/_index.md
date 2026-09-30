@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf/ximage/isthesameobject/"
 product_version: "26.9.0"
 ---
-## IsTheSameObject([XImage](../../../aspose.pdf/ximage/)) {#isthesameobject}
+## XImage.IsTheSameObject method
 
 Returns true if both images references to the same object.
 
@@ -23,13 +23,11 @@ public bool IsTheSameObject(XImage image)
 
 ### Return Value
 
-bool
-
 Boolean value which is true if images references to the same object.
 
 ### See Also
 
-* class [XImage](../)
+* class [XImage](../../../aspose.pdf/ximage/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

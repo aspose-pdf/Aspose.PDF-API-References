@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Saves changed document into file.
 
 ```csharp
-public void Save(string outputFile)
+public override void Save(string outputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | Path to file where document will be saved. |
+| outputFile | String | Path to file where document will be saved. |
 
 ### See Also
 
@@ -34,7 +34,7 @@ public void Save(string outputFile)
 Saves changed document into stream.
 
 ```csharp
-public void Save(Stream outputStream)
+public override void Save(Stream outputStream)
 ```
 
 | Parameter | Type | Description |

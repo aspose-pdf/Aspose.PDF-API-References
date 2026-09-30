@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/compressoptions/compressoptions/"
 product_version: "26.9.0"
 ---
-## CompressOptions() {#constructor}
+## CompressOptions constructor
 
 The default constructor.
 

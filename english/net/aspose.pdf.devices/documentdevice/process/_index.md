@@ -14,18 +14,19 @@ product_version: "26.9.0"
 Each device represents some operation on the document, e.g. we can convert pdf document into another format.
 
 ```csharp
-public void Process(Document document, int fromPage, int toPage, Stream output)
+public abstract void Process(Document document, int fromPage, int toPage, Stream output)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | Document | The document to process. |
-| fromPage | int | Defines the page from which to start processing. |
-| toPage | int | Defines the last page to process. |
+| fromPage | Int32 | Defines the page from which to start processing. |
+| toPage | Int32 | Defines the last page to process. |
 | output | Stream | Defines stream where the results of processing are stored. |
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [DocumentDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
@@ -47,6 +48,7 @@ public void Process(Document document, Stream output)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [DocumentDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
@@ -64,10 +66,11 @@ public void Process(Document document, string outputFileName)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | Document | The document to process. |
-| outputFileName | string | Defines file where the results of processing are stored. |
+| outputFileName | String | Defines file where the results of processing are stored. |
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [DocumentDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
@@ -85,12 +88,13 @@ public void Process(Document document, int fromPage, int toPage, string outputFi
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | Document | The document to process. |
-| fromPage | int | The first page to start processing. |
-| toPage | int | The last page of processing. |
-| outputFileName | string | Defines file where the results of processing are stored. |
+| fromPage | Int32 | The first page to start processing. |
+| toPage | Int32 | The last page of processing. |
+| outputFileName | String | Defines file where the results of processing are stored. |
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [DocumentDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

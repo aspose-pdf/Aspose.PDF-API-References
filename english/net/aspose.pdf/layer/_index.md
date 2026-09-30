@@ -5,7 +5,7 @@ articleTitle: "Layer"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Layer class. Represents a layer within a PDF page."
 type: docs
-weight: 1720
+weight: 1680
 url: "/net/aspose.pdf/layer/"
 keywords: "Layer, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public class Layer
 
 | Name | Description |
 | --- | --- |
-| [Layer](./layer/#constructor)(*string, string*) | Initializes a new instance of the [`Layer`](../../aspose.pdf/layer/) class. |
+| [Layer](./layer/)(string, string) | Initializes a new instance of the [`Layer`](../../aspose.pdf/layer/) class. |
 
 ## Properties
 
@@ -38,12 +38,12 @@ public class Layer
 
 | Name | Description |
 | --- | --- |
-| [Delete](./delete/) | Deletes the current layer from the PDF document. |
-| [Flatten](./flatten/)(*bool*) | Flattens the specified layer. |
-| [Lock](./lock/) | Locks the layer. |
-| [Save](./save/)(*string*) | Saves the current layer to a PDF document. |
-| [Save](./save/)(*Stream*) | Saves the current layer to a PDF document. |
-| [Unlock](./unlock/) | Unlocks the layer. |
+| [Delete](./delete/)() | Deletes the current layer from the PDF document. |
+| [Flatten](./flatten/)(bool) | Flattens the specified layer. |
+| [Lock](./lock/)() | Locks the layer. |
+| [Save](./save/)(Stream) | Saves the current layer to a PDF document. |
+| [Save](./save/)(string) | Saves the current layer to a PDF document. |
+| [Unlock](./unlock/)() | Unlocks the layer. |
 
 ### See Also
 

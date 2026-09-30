@@ -19,7 +19,7 @@ public void Save(string destFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| destFile | string | The path of output PDF document. |
+| destFile | String | The path of output PDF document. |
 
 ### See Also
 

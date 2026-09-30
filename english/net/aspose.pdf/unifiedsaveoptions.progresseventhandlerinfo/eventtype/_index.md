@@ -19,7 +19,7 @@ public ProgressEventType EventType;
 
 ### See Also
 
-* class [ProgressEventType](../../../aspose.pdf/progresseventtype/)
+* enum [ProgressEventType](../../../aspose.pdf/progresseventtype/)
 * class [UnifiedSaveOptions.ProgressEventHandlerInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

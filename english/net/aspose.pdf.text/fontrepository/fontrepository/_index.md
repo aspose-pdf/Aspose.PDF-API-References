@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.text/fontrepository/fontrepository/"
 product_version: "26.9.0"
 ---
-## FontRepository() {#constructor}
+## FontRepository constructor
 
 The default constructor.
 

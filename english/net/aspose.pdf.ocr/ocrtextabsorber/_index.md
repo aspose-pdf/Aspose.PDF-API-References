@@ -22,8 +22,8 @@ public sealed class OcrTextAbsorber
 
 | Name | Description |
 | --- | --- |
-| [OcrTextAbsorber](./ocrtextabsorber/#constructor) | Initializes a new instance with default options. |
-| [OcrTextAbsorber](./ocrtextabsorber/#constructor_1)(*[OcrTextRecognitionOptions](../../aspose.pdf.ocr/ocrtextrecognitionoptions/)*) | Initializes a new instance with the specified options. |
+| [OcrTextAbsorber](./ocrtextabsorber/#constructor)() | Initializes a new instance with default options. |
+| [OcrTextAbsorber](./ocrtextabsorber/#constructor_1)(OcrTextRecognitionOptions) | Initializes a new instance with the specified options. |
 
 ## Properties
 
@@ -36,8 +36,8 @@ public sealed class OcrTextAbsorber
 
 | Name | Description |
 | --- | --- |
-| [Visit](./visit/)(*Document*) | Recognizes text on every page of the document, joined by `PageSeparator`. |
-| [Visit](./visit/)(*Page*) | Recognizes text on the page. |
+| [Visit](./visit/)(Document) | Recognizes text on every page of the document, joined by `PageSeparator`. |
+| [Visit](./visit/)(Page) | Recognizes text on the page. |
 
 ### See Also
 

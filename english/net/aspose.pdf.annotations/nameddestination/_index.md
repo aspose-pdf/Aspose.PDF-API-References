@@ -22,7 +22,7 @@ public sealed class NamedDestination : IAppointment
 
 | Name | Description |
 | --- | --- |
-| [NamedDestination](./nameddestination/#constructor)(*[Document](../../aspose.pdf/document/), string*) | Create named destination. |
+| [NamedDestination](./nameddestination/)(Document, string) | Create named destination. |
 
 ## Properties
 
@@ -34,7 +34,7 @@ public sealed class NamedDestination : IAppointment
 
 | Name | Description |
 | --- | --- |
-| [ToString](./tostring/) | Converts destination to string value. |
+| override [ToString](./tostring/)() | Converts destination to string value. |
 
 ### See Also
 

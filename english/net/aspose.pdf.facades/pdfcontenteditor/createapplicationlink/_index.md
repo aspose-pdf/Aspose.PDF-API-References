@@ -14,19 +14,22 @@ product_version: "26.9.0"
 Creates a link to launch an application in PDF document.
 
 ```csharp
-public void CreateApplicationLink(Rectangle rect, string application, int page, Color clr, Enum[] actionName)
+public void CreateApplicationLink(Rectangle rect, string application, int page, Color clr, 
+    Enum[] actionName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | Rectangle | The rectangle for active click. |
-| application | string | The path of application to be launched. |
-| page | int | The number of original page where rectangle bound with link will be created. |
+| application | String | The path of application to be launched. |
+| page | Int32 | The number of original page where rectangle bound with link will be created. |
 | clr | Color | The colour of rectangle for active click. |
 | actionName | Enum[] | The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Color](../../../aspose.pdf/color/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -44,12 +47,14 @@ public void CreateApplicationLink(Rectangle rect, string application, int page, 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | Rectangle | The rectangle for active click. |
-| application | string | The path of application to be launched. |
-| page | int | The number of original page where rectangle bound with link will be created. |
+| application | String | The path of application to be launched. |
+| page | Int32 | The number of original page where rectangle bound with link will be created. |
 | clr | Color | The colour of rectangle for active click. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Color](../../../aspose.pdf/color/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -67,11 +72,12 @@ public void CreateApplicationLink(Rectangle rect, string application, int page)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | Rectangle | The rectangle for active click. |
-| application | string | The path of application to be launched. |
-| page | int | The number of original page where rectangle bound with link will be created. |
+| application | String | The path of application to be launched. |
+| page | Int32 | The number of original page where rectangle bound with link will be created. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

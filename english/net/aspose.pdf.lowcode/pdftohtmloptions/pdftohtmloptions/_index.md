@@ -27,7 +27,7 @@ public PdfToHtmlOptions()
 
 ## PdfToHtmlOptions(SaveDataType) {#constructor_1}
 
-Initializes a new instance of the PdfToHtmlOptions class.
+Initializes a new instance of the [`PdfToHtmlOptions`](../../../aspose.pdf.lowcode/pdftohtmloptions/) object for the specified output data type.
 
 ```csharp
 public PdfToHtmlOptions(SaveDataType outputDataType)
@@ -35,7 +35,7 @@ public PdfToHtmlOptions(SaveDataType outputDataType)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputDataType | SaveDataType |  |
+| outputDataType | SaveDataType | Output data type. |
 
 ### See Also
 

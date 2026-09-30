@@ -19,7 +19,7 @@ public SubstitutionFontCategories FontCategories { get; set; }
 
 ### See Also
 
-* class [SubstitutionFontCategories](../../../aspose.pdf.text/substitutionfontcategories/)
+* enum [SubstitutionFontCategories](../../../aspose.pdf.text/substitutionfontcategories/)
 * class [SystemFontsSubstitution](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

@@ -5,7 +5,7 @@ articleTitle: "FitIntoRectangle"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Field property. If true then font size will reduced to fit text to specified rectangle."
 type: docs
-weight: 260
+weight: 250
 url: "/net/aspose.pdf.forms/field/fitintorectangle/"
 product_version: "26.9.0"
 ---
@@ -14,7 +14,7 @@ product_version: "26.9.0"
 If true then font size will reduced to fit text to specified rectangle.
 
 ```csharp
-public bool FitIntoRectangle { get; set; }
+public static bool FitIntoRectangle { get; set; }
 ```
 
 ### See Also

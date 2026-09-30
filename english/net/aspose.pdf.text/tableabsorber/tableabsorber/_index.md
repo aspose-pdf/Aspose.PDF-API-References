@@ -43,6 +43,7 @@ public TableAbsorber(TextSearchOptions textSearchOptions)
 
 ### See Also
 
+* class [TextSearchOptions](../../../aspose.pdf.text/textsearchoptions/)
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

@@ -95,7 +95,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [OpenAIImageDescriptionCopilotExtensions](./openaiimagedescriptioncopilotextensions/) | Provides extension methods for OpenAIImageDescriptionCopilot class. |
 | [OpenAIImageDescriptionCopilotOptions](./openaiimagedescriptioncopilotoptions/) | Represents the options for configuring the OpenAICopilot. |
 | [OpenAIModels](./openaimodels/) | Contains the available OpenAI model identifiers. |
-| [OpenAIOcrCopilot](./openaiocrcopilot/) | Provides OCR capabilities to extract text from PDF documents and images. |
+| [OpenAIOcrCopilot](./openaiocrcopilot/) | Provides OCR capabilities to extract text from PDF documents and images. The supported image types: PNG (.png), JPEG (.jpeg and .jpg), WEBP (.webp), non-animated GIF (.gif). |
 | [OpenAIOcrCopilotOptions](./openaiocrcopilotoptions/) | Represents the options for configuring the OpenAIOcrCopilot. |
 | [OpenAISummaryCopilot](./openaisummarycopilot/) | Provides functionality for getting document summaries using AI models. |
 | [OpenAISummaryCopilotOptions](./openaisummarycopilotoptions/) | Represents the options for configuring the OpenAICopilot. |
@@ -129,7 +129,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [ToolCall](./toolcall/) | Represents a tool call within a message. |
 | [ToolChoice](./toolchoice/) | Represents the ToolChoice, which can be either a string value or an object value. |
 | [ToolChoice.ObjectType](./toolchoice.objecttype/) | Represents an object value in the ToolChoice. |
-| [ToolResources](./toolresources/) | Represents a set of resources that are used by the assistant's tools. The resources are specific to. |
+| [ToolResources](./toolresources/) | Represents a set of resources that are used by the assistant's tools. The resources are specific to the type of tool. For example, the code_interpreter tool requires a list of file IDs, while the file_search tool requires a list of vector store IDs. |
 | [TruncationStrategy](./truncationstrategy/) | Represents the truncation strategy that controls for how a thread will be truncated prior to the run. |
 | [Usage](./usage/) | Represents usage statistics for a request. |
 | [VectorStore](./vectorstore/) | A helper to create a vector store with file_ids and attach it to this thread. There can be a maximum of 1 vector store attached to the thread. |

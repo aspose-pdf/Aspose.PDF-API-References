@@ -19,8 +19,6 @@ public Bookmarks ExtractBookmarks()
 
 ### Return Value
 
-[Bookmarks](../../../aspose.pdf.facades/bookmarks/)
-
 The bookmarks collection of all bookmarks that exist in the document.
 
 ### See Also
@@ -42,11 +40,9 @@ public Bookmarks ExtractBookmarks(bool upperLevel)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| upperLevel | bool | If true, extracts only upper level bookmarks. Else, extracts all bookmarks recursively. |
+| upperLevel | Boolean | If true, extracts only upper level bookmarks. Else, extracts all bookmarks recursively. |
 
 ### Return Value
-
-[Bookmarks](../../../aspose.pdf.facades/bookmarks/)
 
 List of extracted bookmarks.
 
@@ -69,11 +65,9 @@ public Bookmarks ExtractBookmarks(string title)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| title | string | Extracted item title. |
+| title | String | Extracted item title. |
 
 ### Return Value
-
-[Bookmarks](../../../aspose.pdf.facades/bookmarks/)
 
 Bookmark collection has items with the same title.
 
@@ -100,13 +94,12 @@ public Bookmarks ExtractBookmarks(Bookmark bookmark)
 
 ### Return Value
 
-[Bookmarks](../../../aspose.pdf.facades/bookmarks/)
-
 Bookmark collection with child bookmarks.
 
 ### See Also
 
 * class [Bookmarks](../../../aspose.pdf.facades/bookmarks/)
+* class [Bookmark](../../../aspose.pdf.facades/bookmark/)
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

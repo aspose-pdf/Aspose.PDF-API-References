@@ -9,7 +9,7 @@ weight: 180
 url: "/net/aspose.pdf/ximagecollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## XImageCollection.Clear method
 
 Clears all items from the collection.
 

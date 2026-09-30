@@ -9,7 +9,7 @@ weight: 260
 url: "/net/aspose.pdf/pagecollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove([Page](../../../aspose.pdf/page/)) {#remove}
+## PageCollection.Remove method
 
 Removes the specified item, throws NotSupportedException.
 
@@ -23,8 +23,6 @@ public bool Remove(Page item)
 
 ### Return Value
 
-bool
-
 NotSupportedException
 
 ### Exceptions
@@ -36,6 +34,7 @@ NotSupportedException
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

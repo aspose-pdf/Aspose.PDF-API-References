@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf/printcontroller/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## PrintController.Dispose method
 
 Dispose.
 

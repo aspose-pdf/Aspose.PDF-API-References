@@ -9,21 +9,19 @@ weight: 540
 url: "/net/aspose.pdf.facades/pdfconverter/mergeimagesastiff/"
 product_version: "26.9.0"
 ---
-## MergeImagesAsTiff(List<Stream>) {#mergeimagesastiff}
+## PdfConverter.MergeImagesAsTiff method
 
 Merges list of tiff streams as one multiple frames tiff stream.
 
 ```csharp
-public Stream MergeImagesAsTiff(List<Stream> inputImagesStreams)
+public static Stream MergeImagesAsTiff(List<Stream> inputImagesStreams)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputImagesStreams | List<Stream> | The list of tiff streams. |
+| inputImagesStreams | List`1 | The list of tiff streams. |
 
 ### Return Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
 
 Multiple frames tiff stream.
 

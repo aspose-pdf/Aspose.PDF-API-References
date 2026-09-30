@@ -22,8 +22,8 @@ public class PDF3DRenderMode
 
 | Name | Description |
 | --- | --- |
-| [PDF3DRenderMode](./pdf3drendermode/#constructor)(*[RenderModeType](../../aspose.pdf.annotations/rendermodetype/)*) | Initializes a new instance of the [`PDF3DRenderMode`](../../aspose.pdf.annotations/pdf3drendermode/) class. |
-| [PDF3DRenderMode](./pdf3drendermode/#constructor_1)(*string*) | Initializes a new instance of the [`PDF3DRenderMode`](../../aspose.pdf.annotations/pdf3drendermode/) class. |
+| [PDF3DRenderMode](./pdf3drendermode/#constructor)(RenderModeType) | Initializes a new instance of the [`PDF3DRenderMode`](../../aspose.pdf.annotations/pdf3drendermode/) class. |
+| [PDF3DRenderMode](./pdf3drendermode/#constructor_1)(string) | Initializes a new instance of the [`PDF3DRenderMode`](../../aspose.pdf.annotations/pdf3drendermode/) class. |
 
 ## Properties
 
@@ -35,14 +35,14 @@ public class PDF3DRenderMode
 
 | Name | Description |
 | --- | --- |
-| [GetAuxiliaryColour](./getauxiliarycolour/) | Gets the auxiliary colour. |
-| [GetCreaseValue](./getcreasevalue/) | Gets the crease value. |
-| [GetFaceColor](./getfacecolor/) | Gets the color of the face. |
-| [GetOpacity](./getopacity/) | Gets the opacity. |
-| [SetAuxiliaryColour](./setauxiliarycolour/)(*Color*) | Sets the auxiliary colour. |
-| [SetCreaseValue](./setcreasevalue/)(*double*) | Sets the crease value. |
-| [SetFaceColor](./setfacecolor/)(*Color*) | Sets the color of the face. |
-| [SetOpacity](./setopacity/)(*double*) | Sets the opacity. |
+| [GetAuxiliaryColour](./getauxiliarycolour/)() | Gets the auxiliary colour. |
+| [GetCreaseValue](./getcreasevalue/)() | Gets the crease value. |
+| [GetFaceColor](./getfacecolor/)() | Gets the color of the face. |
+| [GetOpacity](./getopacity/)() | Gets the opacity. |
+| [SetAuxiliaryColour](./setauxiliarycolour/)(Color) | Sets the auxiliary colour. |
+| [SetCreaseValue](./setcreasevalue/)(double) | Sets the crease value. |
+| [SetFaceColor](./setfacecolor/)(Color) | Sets the color of the face. |
+| [SetOpacity](./setopacity/)(double) | Sets the opacity. |
 
 ## Fields
 

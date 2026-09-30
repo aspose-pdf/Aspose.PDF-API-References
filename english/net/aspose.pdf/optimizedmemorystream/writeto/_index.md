@@ -9,7 +9,7 @@ weight: 130
 url: "/net/aspose.pdf/optimizedmemorystream/writeto/"
 product_version: "26.9.0"
 ---
-## WriteTo(Stream) {#writeto}
+## OptimizedMemoryStream.WriteTo method
 
 Writes to the specified stream.
 

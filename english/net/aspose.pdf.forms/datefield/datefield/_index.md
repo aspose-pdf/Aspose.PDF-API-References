@@ -39,34 +39,14 @@ public DateField(Document doc)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## DateField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_2}
-
-Initializes a new instance of the [`DateField`](../../../aspose.pdf.forms/datefield/)
-
-```csharp
-public DateField(Page page, Rectangle rect)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Page needed for create. |
-| rect | Rectangle | Rectangle where the text field will be placed on the page. |
-
-### See Also
-
-* class [DateField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## DateField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_3}
+## DateField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_2}
 
 Initializes a new instance of the [`DateField`](../../../aspose.pdf.forms/datefield/)
 
@@ -81,6 +61,31 @@ public DateField(Document doc, Rectangle rect)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## DateField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_3}
+
+Initializes a new instance of the [`DateField`](../../../aspose.pdf.forms/datefield/)
+
+```csharp
+public DateField(Page page, Rectangle rect)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | Page needed for create. |
+| rect | Rectangle | Rectangle where the text field will be placed on the page. |
+
+### See Also
+
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

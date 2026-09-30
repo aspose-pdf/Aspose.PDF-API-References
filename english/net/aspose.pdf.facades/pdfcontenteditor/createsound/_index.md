@@ -9,7 +9,7 @@ weight: 520
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createsound/"
 product_version: "26.9.0"
 ---
-## CreateSound([Rectangle](../../../aspose.pdf.drawing/rectangle/), string, string, int, string) {#createsound}
+## PdfContentEditor.CreateSound method
 
 Creates Sound Annotations.
 
@@ -20,13 +20,14 @@ public void CreateSound(Rectangle rect, string filePath, string name, int page, 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | Rectangle | The annotation rectangle defining the location of the annotation on the page. |
-| filePath | string | The file path of sound file. |
-| name | string | The name of an icon to be used in displaying the annotation,include:Speaker and Mic. |
-| page | int | The page in which the Sound annotation is created. |
-| rate | string | The sampling rate, in samples per second. |
+| filePath | String | The file path of sound file. |
+| name | String | The name of an icon to be used in displaying the annotation,include:Speaker and Mic. |
+| page | Int32 | The page in which the Sound annotation is created. |
+| rate | String | The sampling rate, in samples per second. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

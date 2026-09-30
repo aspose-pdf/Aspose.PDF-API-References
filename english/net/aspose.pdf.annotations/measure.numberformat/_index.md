@@ -22,13 +22,13 @@ public class NumberFormat
 
 | Name | Description |
 | --- | --- |
-| [Measure.NumberFormat](./numberformat/#constructor)(*[Measure](../../aspose.pdf.annotations/measure/)*) | Constructor for NumberFormat class. |
+| [NumberFormat](./numberformat/)(Measure) | Constructor for NumberFormat class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AfterText](./aftertext/) { get; set; } | Text that shall be concatenated after the label. |
+| [AfterText](./aftertext/) { get; set; } | Text that shall be concatenated after the label |
 | [BeforeText](./beforetext/) { get; set; } | Text that shall be concatenated to the left of the label. |
 | [ConvresionFactor](./convresionfactor/) { get; set; } | The conversion factor used to multiply a value in partial units of the previous number format array element to obtain a value in the units of this number format. |
 | [Denominator](./denominator/) { get; set; } | If FractionDisplayment is ShowAsFraction, this value is denominator of the fraction. Default value is 16. |
@@ -38,6 +38,12 @@ public class NumberFormat
 | [Precision](./precision/) { get; set; } | If FractionDisplayment is ShowAsDecimal, this value is precision of fractional value; It shall me multiple of 10. Default is 100. |
 | [ThousandsSeparator](./thousandsseparator/) { get; set; } | Text that shall be used between orders of thousands in display of numerical values. An empty string indicates that no text shall be added. Default is comma. |
 | [UnitLabel](./unitlabel/) { get; set; } | A text string specifying a label for displaying the units. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| enum [FractionStyle](../../aspose.pdf.annotations/measure.numberformat.fractionstyle) | Value which indicates in which manner fraction values are displayed. |
 
 ### See Also
 

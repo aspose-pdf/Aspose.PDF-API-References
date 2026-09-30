@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets licensed state of the system. Returns true is system works in licensed mode and false otherwise.
 
 ```csharp
-public bool IsLicensed { get; }
+public static bool IsLicensed { get; }
 ```
 
 ### See Also

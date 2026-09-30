@@ -5,7 +5,7 @@ articleTitle: "PosUpperMiddle"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileStamp field. Upper middle position."
 type: docs
-weight: 500
+weight: 400
 url: "/net/aspose.pdf.facades/pdffilestamp/posuppermiddle/"
 product_version: "26.9.0"
 ---

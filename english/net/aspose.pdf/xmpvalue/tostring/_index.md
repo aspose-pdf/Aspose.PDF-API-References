@@ -14,12 +14,10 @@ product_version: "26.9.0"
 Returns string representation of XmpValue.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String representation.
 
@@ -44,8 +42,6 @@ public string ToString(IFormatProvider formatProvider)
 | formatProvider | IFormatProvider | Format provider. |
 
 ### Return Value
-
-string
 
 String representation.
 

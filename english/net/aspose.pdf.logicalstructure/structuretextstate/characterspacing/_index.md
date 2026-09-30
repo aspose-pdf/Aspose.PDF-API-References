@@ -16,7 +16,7 @@ Gets or sets character spacing of the text.
 Can be null. Use null to inherit `CharacterSpacing` property from parent structure element.
 
 ```csharp
-public Nullable<float> CharacterSpacing { get; set; }
+public float? CharacterSpacing { get; set; }
 ```
 
 ### See Also

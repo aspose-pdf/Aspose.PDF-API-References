@@ -39,6 +39,7 @@ public BorderInfo(BorderSide borderSide)
 
 ### See Also
 
+* enum [BorderSide](../../../aspose.pdf/borderside/)
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -60,6 +61,8 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 
 ### See Also
 
+* enum [BorderSide](../../../aspose.pdf/borderside/)
+* class [Color](../../../aspose.pdf/color/)
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -77,10 +80,11 @@ public BorderInfo(BorderSide borderSide, float borderWidth)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | borderSide | BorderSide | Indicates the border sides info. For example: (BorderSide.Left | BorderSide.Top). |
-| borderWidth | float | The width of the border. |
+| borderWidth | Single | The width of the border. |
 
 ### See Also
 
+* enum [BorderSide](../../../aspose.pdf/borderside/)
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -102,6 +106,8 @@ public BorderInfo(BorderSide borderSide, GraphInfo info)
 
 ### See Also
 
+* enum [BorderSide](../../../aspose.pdf/borderside/)
+* class [GraphInfo](../../../aspose.pdf/graphinfo/)
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -119,11 +125,13 @@ public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | borderSide | BorderSide | Indicates the border sides info. For example: (BorderSide.Left | BorderSide.Top). |
-| borderWidth | float | The width of the border. |
+| borderWidth | Single | The width of the border. |
 | borderColor | Color | The border color. |
 
 ### See Also
 
+* enum [BorderSide](../../../aspose.pdf/borderside/)
+* class [Color](../../../aspose.pdf/color/)
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

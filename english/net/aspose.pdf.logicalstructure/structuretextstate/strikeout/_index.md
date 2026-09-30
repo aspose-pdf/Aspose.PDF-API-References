@@ -16,7 +16,7 @@ Gets or sets strikeout for the text.
 Can be null. Use null to inherit `StrikeOut` property from parent structure element.
 
 ```csharp
-public Nullable<bool> StrikeOut { get; set; }
+public bool? StrikeOut { get; set; }
 ```
 
 ### See Also

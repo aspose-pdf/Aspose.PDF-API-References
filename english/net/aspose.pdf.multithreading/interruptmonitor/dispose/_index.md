@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.multithreading/interruptmonitor/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## InterruptMonitor.Dispose method
 
 Disposes used resources.
 

@@ -9,30 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.forms/field/copyto/"
 product_version: "26.9.0"
 ---
-## CopyTo(Field[], int) {#copyto}
-
-> **Deprecated.** Use CopyTo(WidgetAnnotation[], index) instead.
-
-Copies subfields of this field into array starting from specified index.
-
-```csharp
-public void CopyTo(Field[] array, int index)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | Field[] | Array where field must be copied. |
-| index | int | Starting index where fields will be copied. |
-
-### See Also
-
-* class [Field](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## CopyTo(WidgetAnnotation[], int) {#copyto_1}
+## Field.CopyTo method
 
 Copies subfields of this field into array starting from specified index.
 
@@ -43,10 +20,11 @@ public void CopyTo(WidgetAnnotation[] array, int index)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | array | WidgetAnnotation[] | Array where field must be copied. |
-| index | int | Starting index where fields will be copied. |
+| index | Int32 | Starting index where fields will be copied. |
 
 ### See Also
 
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

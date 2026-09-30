@@ -9,17 +9,17 @@ weight: 10
 url: "/net/aspose.pdf/loadoptions.resourceloadingresult/resourceloadingresult/"
 product_version: "26.9.0"
 ---
-## LoadOptions.ResourceLoadingResult(byte[]) {#constructor}
+## ResourceLoadingResult constructor
 
 Creates instance of loading result
 
 ```csharp
-public LoadOptions.ResourceLoadingResult(byte[] data)
+public ResourceLoadingResult(byte[] data)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| data | byte[] | reult of custom loading must be allways provided, it can be zero-length array if it's impossible to get any result |
+| data | Byte[] | reult of custom loading must be allways provided, it can be zero-length array if it's impossible to get any result |
 
 ### See Also
 

@@ -3,15 +3,15 @@ title: "TextExtractionOptions.TextExtractionOptions"
 linktitle: "TextExtractionOptions"
 articleTitle: "TextExtractionOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextExtractionOptions constructor. Initializes a new instance of the TextExtractionOptions class."
+description: "TextExtractionOptions constructor. Initializes new instance of the TextExtractionOptions object for the specified text formatting mode."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textextractionoptions/textextractionoptions/"
 product_version: "26.9.0"
 ---
-## TextExtractionOptions(TextFormattingMode) {#constructor}
+## TextExtractionOptions constructor
 
-Initializes a new instance of the TextExtractionOptions class.
+Initializes new instance of the [`TextExtractionOptions`](../../../aspose.pdf.text/textextractionoptions/) object for the specified text formatting mode.
 
 ```csharp
 public TextExtractionOptions(TextFormattingMode formattingMode)
@@ -19,7 +19,7 @@ public TextExtractionOptions(TextFormattingMode formattingMode)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formattingMode | TextFormattingMode |  |
+| formattingMode | TextFormattingMode | Text formatting mode value. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/contains/"
 product_version: "26.9.0"
 ---
-## Contains(KeyValuePair<string, ICosPdfPrimitive>) {#contains}
+## CosPdfDictionary.Contains method
 
 Determines whether the [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/) contains a specific value.
 
@@ -19,11 +19,9 @@ public bool Contains(KeyValuePair<string, ICosPdfPrimitive> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair<string, ICosPdfPrimitive> | The desired object. |
+| item | KeyValuePair`2 | The desired object. |
 
 ### Return Value
-
-bool
 
 true if item is found in the [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/); 
  otherwise, false.

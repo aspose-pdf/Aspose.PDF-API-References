@@ -19,23 +19,23 @@ Represents a class for generating markdown representation of texts differences.
  Deleted line breaks are indicated by - paragraph mark.
 
 ```csharp
-public class MarkdownDiffOutputGenerator : IStringOutputGenerator, IFileOutputGenerator
+public class MarkdownDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenerator
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [MarkdownDiffOutputGenerator](./markdowndiffoutputgenerator/#constructor) | The default constructor. |
+| [MarkdownDiffOutputGenerator](./markdowndiffoutputgenerator/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GenerateOutput](./generateoutput/)(*List<DiffOperation>*) | Generates the output based on the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(*List<List<DiffOperation>>*) | Generates the output based on the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(*List<DiffOperation>, string*) | Generates the output based on the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(*List<List<DiffOperation>>, string*) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(List<DiffOperation>) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(List<List<DiffOperation>>) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(List<DiffOperation>, string) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](./generateoutput/)(List<List<DiffOperation>>, string) | Generates the output based on the differences between texts and saves it to a file. |
 
 ### See Also
 

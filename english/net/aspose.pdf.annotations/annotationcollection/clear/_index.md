@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf.annotations/annotationcollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## AnnotationCollection.Clear method
 
 Deletes all annotations from the collection.
 

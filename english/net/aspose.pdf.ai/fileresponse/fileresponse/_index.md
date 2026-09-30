@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/fileresponse/fileresponse/"
 product_version: "26.9.0"
 ---
-## FileResponse() {#constructor}
+## FileResponse constructor
 
 The default constructor.
 

@@ -14,19 +14,16 @@ product_version: "26.9.0"
 Creates a new instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
 
 ```csharp
-public OpenAIImageDescriptionCopilotOptions Create()
+public static OpenAIImageDescriptionCopilotOptions Create()
 ```
 
 ### Return Value
-
-[OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
 
 A new instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
 
 ### See Also
 
 * class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
-* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,23 +34,21 @@ A new instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.a
 Creates an instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/) and configures it using the provided delegate.
 
 ```csharp
-public OpenAIImageDescriptionCopilotOptions Create(Action<OpenAIImageDescriptionCopilotOptions> config)
+public static OpenAIImageDescriptionCopilotOptions Create(
+    Action<OpenAIImageDescriptionCopilotOptions> config)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| config | Action<OpenAIImageDescriptionCopilotOptions> | The delegate to configure the options. |
+| config | Action`1 | The delegate to configure the options. |
 
 ### Return Value
-
-[OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
 
 The configured instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
 
 ### See Also
 
 * class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
-* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

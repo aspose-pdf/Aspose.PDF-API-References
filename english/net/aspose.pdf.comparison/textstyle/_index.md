@@ -22,7 +22,7 @@ public class TextStyle
 
 | Name | Description |
 | --- | --- |
-| [TextStyle](./textstyle/#constructor) | The default constructor. |
+| [TextStyle](./textstyle/)() | The default constructor. |
 
 ## Properties
 

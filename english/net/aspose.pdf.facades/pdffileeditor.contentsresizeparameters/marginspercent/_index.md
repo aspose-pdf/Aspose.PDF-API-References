@@ -9,24 +9,23 @@ weight: 40
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/marginspercent/"
 product_version: "26.9.0"
 ---
-## MarginsPercent(double, double, double, double) {#marginspercent}
+## PdfFileEditor.ContentsResizeParameters.MarginsPercent method
 
 Creates resize parameters. Margins are specified in percents of initial page size.
 
 ```csharp
-public ContentsResizeParameters MarginsPercent(double left, double right, double top, double bottom)
+public static ContentsResizeParameters MarginsPercent(double left, double right, double top, 
+    double bottom)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| left | double | Left margin (in percents of page width). |
-| right | double | Right margin (in percents of page height). |
-| top | double | Top margin (in percents of page height). |
-| bottom | double | Bottom margin (in percents of page height). |
+| left | Double | Left margin (in percents of page width). |
+| right | Double | Right margin (in percents of page height). |
+| top | Double | Top margin (in percents of page height). |
+| bottom | Double | Bottom margin (in percents of page height). |
 
 ### Return Value
-
-ContentsResizeParameters
 
 Returns new resize parameters.
 

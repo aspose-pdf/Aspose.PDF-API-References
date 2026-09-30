@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf/layer/delete/"
 product_version: "26.9.0"
 ---
-## Delete() {#delete}
+## Layer.Delete method
 
 Deletes the current layer from the PDF document.
 

@@ -9,28 +9,25 @@ weight: 90
 url: "/net/aspose.pdf/color/fromgray/"
 product_version: "26.9.0"
 ---
-## FromGray(double) {#fromgray}
+## Color.FromGray method
 
 Gets valid pdf Color object from Gray color component.
 
 ```csharp
-public Color FromGray(double g)
+public static Color FromGray(double g)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| g | double | The Gray color component (value 0 - 1). |
+| g | Double | The Gray color component (value 0 - 1). |
 
 ### Return Value
-
-[Color](../../../aspose.pdf/color/)
 
 Color object with each component value in [0..1] range.
 
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)
-* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

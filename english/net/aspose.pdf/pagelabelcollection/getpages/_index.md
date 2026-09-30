@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf/pagelabelcollection/getpages/"
 product_version: "26.9.0"
 ---
-## GetPages() {#getpages}
+## PageLabelCollection.GetPages method
 
 Gets page indexes in collection.
 
@@ -18,8 +18,6 @@ public int[] GetPages()
 ```
 
 ### Return Value
-
-int[]
 
 Array of integers which contains indexes of the pages.
 

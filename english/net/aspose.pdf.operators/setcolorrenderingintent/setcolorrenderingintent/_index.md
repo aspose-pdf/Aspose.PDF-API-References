@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/setcolorrenderingintent/setcolorrenderingintent/"
 product_version: "26.9.0"
 ---
-## SetColorRenderingIntent(string) {#constructor}
+## SetColorRenderingIntent constructor
 
 Set Color Rendering Intent operator constructor.
 
@@ -19,7 +19,7 @@ public SetColorRenderingIntent(string intentName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| intentName | string | Color Rendering Intent. |
+| intentName | String | Color Rendering Intent. |
 
 ### See Also
 

@@ -14,12 +14,12 @@ product_version: "26.9.0"
 
 
 ```csharp
-public bool Equals(object other)
+public override bool Equals(object other)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| other | object |  |
+| other | Object |  |
 
 ### Return Value
 
@@ -51,7 +51,7 @@ bool
 
 ### See Also
 
-* class [DiffOperation](../)
+* class [DiffOperation](../../../aspose.pdf.comparison/diffoperation/)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 

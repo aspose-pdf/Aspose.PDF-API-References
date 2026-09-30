@@ -9,7 +9,7 @@ weight: 160
 url: "/net/aspose.pdf/xmpvalue/todictionary/"
 product_version: "26.9.0"
 ---
-## ToDictionary() {#todictionary}
+## XmpValue.ToDictionary method
 
 Returns dictionary which contains named values.
 
@@ -18,8 +18,6 @@ public Dictionary<string, XmpValue> ToDictionary()
 ```
 
 ### Return Value
-
-Dictionary<string, [XmpValue](../../../aspose.pdf/xmpvalue/)>
 
 Dictionary value.
 

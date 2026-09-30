@@ -9,24 +9,21 @@ weight: 140
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/tocospdfdictionary/"
 product_version: "26.9.0"
 ---
-## ToCosPdfDictionary() {#tocospdfdictionary}
+## CosPdfDictionary.ToCosPdfDictionary method
 
 Tries cast this instance to [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/).
 
 ```csharp
-public CosPdfDictionary ToCosPdfDictionary()
+public override CosPdfDictionary ToCosPdfDictionary()
 ```
 
 ### Return Value
-
-[CosPdfDictionary](../../../aspose.pdf.dataeditor/cospdfdictionary/)
 
 null if instance is not [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/) else [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/).
 
 ### See Also
 
 * class [CosPdfDictionary](../../../aspose.pdf.dataeditor/cospdfdictionary/)
-* class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 

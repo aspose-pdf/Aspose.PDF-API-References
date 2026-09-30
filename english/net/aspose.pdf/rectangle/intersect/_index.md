@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf/rectangle/intersect/"
 product_version: "26.9.0"
 ---
-## Intersect([Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#intersect}
+## Rectangle.Intersect method
 
 Intersects to rectangles.
 
@@ -23,14 +23,11 @@ public Rectangle Intersect(Rectangle otherRect)
 
 ### Return Value
 
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 Intersection of rectangles; null if rectangles are not intersected.
 
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

@@ -5,7 +5,7 @@ articleTitle: "NamedDestinationCollection"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.NamedDestinationCollection class. Class represents the collection of all destinations (a name tree mapping name strings to destinations (see 12.3...."
 type: docs
-weight: 1950
+weight: 1910
 url: "/net/aspose.pdf/nameddestinationcollection/"
 keywords: "NamedDestinationCollection, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -30,8 +30,8 @@ public class NamedDestinationCollection : INamedDestinationCollection
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*string, IAppointment*) | Add new named destination. |
-| [Remove](./remove/)(*string*) | Delete named destination. |
+| [Add](./add/)(string, IAppointment) | Add new named destination. |
+| [Remove](./remove/)(string) | Delete named destination. |
 
 ### See Also
 

@@ -22,15 +22,15 @@ public class MessageContentResponse : MessageContentBase
 
 | Name | Description |
 | --- | --- |
-| [MessageContentResponse](./messagecontentresponse/#constructor) | The default constructor. |
+| [MessageContentResponse](./messagecontentresponse/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | Gets or sets an image File in the content of a message. *(Inherited from MessageContentBase)* |
-| [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | Gets or sets an image URL in the content of a message. *(Inherited from MessageContentBase)* |
-| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | Gets or sets the type of content. *(Inherited from MessageContentBase)* |
+| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | Gets or sets an image File in the content of a message. |
+| [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | Gets or sets an image URL in the content of a message. |
+| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | Gets or sets the type of content. |
 | [Text](./text/) { get; set; } | Gets or sets the text content that is part of a message. |
 
 ### See Also

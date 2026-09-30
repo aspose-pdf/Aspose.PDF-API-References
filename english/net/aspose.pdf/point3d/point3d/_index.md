@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/point3d/point3d/"
 product_version: "26.9.0"
 ---
-## Point3D(double, double, double) {#constructor}
+## Point3D constructor
 
 Initializes new instance of the [`Point3D`](../../../aspose.pdf/point3d/).
 
@@ -19,9 +19,9 @@ public Point3D(double x, double y, double z)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | double | x coordinate value. |
-| y | double | y coordinate value. |
-| z | double | z coordinate value. |
+| x | Double | x coordinate value. |
+| y | Double | y coordinate value. |
+| z | Double | z coordinate value. |
 
 ### See Also
 

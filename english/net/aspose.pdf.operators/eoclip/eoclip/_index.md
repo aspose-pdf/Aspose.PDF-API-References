@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/eoclip/eoclip/"
 product_version: "26.9.0"
 ---
-## EOClip() {#constructor}
+## EOClip constructor
 
 Initializes operator.
 

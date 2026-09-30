@@ -5,7 +5,7 @@ articleTitle: "Image"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Image class. Represents image."
 type: docs
-weight: 1490
+weight: 1480
 url: "/net/aspose.pdf/image/"
 keywords: "Image, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public sealed class Image : BaseParagraph
 
 | Name | Description |
 | --- | --- |
-| [Image](./image/#constructor) | The default constructor. |
+| [Image](./image/)() | The default constructor. |
 
 ## Properties
 
@@ -34,27 +34,27 @@ public sealed class Image : BaseParagraph
 | [FileType](./filetype/) { get; set; } | Gets or sets the image file type. |
 | [FixHeight](./fixheight/) { get; set; } | Gets or sets the image height. |
 | [FixWidth](./fixwidth/) { get; set; } | Gets or sets the image width. |
-| [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment/) { get; set; } | Gets or sets a horizontal alignment of paragraph. *(Inherited from BaseParagraph)* |
-| [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Gets or sets the fragment hyperlink(for pdf generator). *(Inherited from BaseParagraph)* |
+| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment/) { get; set; } | Gets or sets a horizontal alignment of paragraph |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Gets or sets the fragment hyperlink(for pdf generator). |
 | [ImageScale](./imagescale/) { get; set; } | Gets or sets the image scale. |
 | [ImageStream](./imagestream/) { get; set; } | Gets or sets the image stream. |
-| [IsApplyResolution](./isapplyresolution/) { get; set; } | Gets or sets a bool value that indicates whether the image use resolution during generation. |
-| [IsBlackWhite](./isblackwhite/) { get; set; } | Gets or sets a bool value that indicates whether the image is forced to be black-and-white. If TIFF. |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Gets or sets a bool value that indicates whether this paragraph will be at next column. *(Inherited from BaseParagraph)* |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Gets or sets a paragraph is inline. *(Inherited from BaseParagraph)* |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Gets or sets a bool value that force this paragraph generates at new page. *(Inherited from BaseParagraph)* |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Gets or sets a bool value that indicates whether current paragraph remains in the same page along with next paragraph. *(Inherited from BaseParagraph)* |
-| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Gets or sets a outer margin for paragraph (for pdf generation). *(Inherited from BaseParagraph)* |
+| [IsApplyResolution](./isapplyresolution/) { get; set; } | Gets or sets a bool value that indicates whether the image use resolution during generation |
+| [IsBlackWhite](./isblackwhite/) { get; set; } | Gets or sets a bool value that indicates whether the image is forced to be black-and-white. If TIFF image of CCITT subformat is used, this property must be set to true. |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Gets or sets a bool value that indicates whether this paragraph will be at next column. Default is false.(for pdf generation) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Gets or sets a paragraph is inline. Default is false.(for pdf generation) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Gets or sets a bool value that force this paragraph generates at new page. Default is false.(for pdf generation) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Gets or sets a bool value that indicates whether current paragraph remains in the same page along with next paragraph. Default is false.(for pdf generation) |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Gets or sets a outer margin for paragraph (for pdf generation) |
 | [Title](./title/) { get; set; } | Gets or sets a string value that indicates the title of the image. |
-| [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Gets or sets a vertical alignment of paragraph. *(Inherited from BaseParagraph)* |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Gets or sets a int value that indicates the Z-order of the graph. A graph with larger ZIndex. *(Inherited from BaseParagraph)* |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Gets or sets a vertical alignment of paragraph |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Gets or sets a int value that indicates the Z-order of the graph. A graph with larger ZIndex will be placed over the graph with smaller ZIndex. ZIndex can be negative. Graph with negative ZIndex will be placed behind the text in the page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](./clone/) | Clone the image. |
-| [GetMimeType](./getmimetype/)(*Image*) | Returns mime type for image. |
+| override [Clone](./clone/)() | Clone the image. |
+| static [GetMimeType](./getmimetype/)(Image) | Returns mime type for image. |
 
 ### See Also
 

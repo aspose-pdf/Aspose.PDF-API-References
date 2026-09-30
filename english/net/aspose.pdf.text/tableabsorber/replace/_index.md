@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.text/tableabsorber/replace/"
 product_version: "26.9.0"
 ---
-## Replace([Page](../../../aspose.pdf/page/), [AbsorbedTable](../../../aspose.pdf.text/absorbedtable/), [Table](../../../aspose.pdf/table/)) {#replace}
+## TableAbsorber.Replace method
 
 Replaces an [`AbsorbedTable`](../../../aspose.pdf.text/absorbedtable/) with [`Table`](../../../aspose.pdf/table/) on the page.
 
@@ -27,6 +27,9 @@ public void Replace(Page page, AbsorbedTable oldTable, Table newTable)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [AbsorbedTable](../../../aspose.pdf.text/absorbedtable/)
+* class [Table](../../../aspose.pdf/table/)
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

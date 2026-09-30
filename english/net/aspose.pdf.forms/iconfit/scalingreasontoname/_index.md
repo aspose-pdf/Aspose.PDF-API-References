@@ -9,12 +9,12 @@ weight: 20
 url: "/net/aspose.pdf.forms/iconfit/scalingreasontoname/"
 product_version: "26.9.0"
 ---
-## ScalingReasonToName([ScalingReason](../../../aspose.pdf.forms/scalingreason/)) {#scalingreasontoname}
+## IconFit.ScalingReasonToName method
 
 Converts scaling reason obejct to name.
 
 ```csharp
-public string ScalingReasonToName(ScalingReason reason)
+public static string ScalingReasonToName(ScalingReason reason)
 ```
 
 | Parameter | Type | Description |
@@ -23,12 +23,11 @@ public string ScalingReasonToName(ScalingReason reason)
 
 ### Return Value
 
-string
-
 Name of scaling reasong.
 
 ### See Also
 
+* enum [ScalingReason](../../../aspose.pdf.forms/scalingreason/)
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

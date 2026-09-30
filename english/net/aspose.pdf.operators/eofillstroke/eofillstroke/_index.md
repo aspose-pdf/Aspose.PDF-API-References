@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/eofillstroke/eofillstroke/"
 product_version: "26.9.0"
 ---
-## EOFillStroke() {#constructor}
+## EOFillStroke constructor
 
 Initializes operator.
 

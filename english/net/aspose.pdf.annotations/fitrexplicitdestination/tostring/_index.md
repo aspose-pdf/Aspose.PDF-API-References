@@ -5,21 +5,19 @@ articleTitle: "ToString"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FitRExplicitDestination method. Converts the object state into string value. Example: \"1 FitR 100 200 300 400\"."
 type: docs
-weight: 40
+weight: 30
 url: "/net/aspose.pdf.annotations/fitrexplicitdestination/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## FitRExplicitDestination.ToString method
 
 Converts the object state into string value. Example: "1 FitR 100 200 300 400".
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String value representing object state.
 

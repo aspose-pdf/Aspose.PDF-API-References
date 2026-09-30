@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf.facades/pdffilesanitization/trimbottom/"
 product_version: "26.9.0"
 ---
-## TrimBottom() {#trimbottom}
+## PdfFileSanitization.TrimBottom method
 
 Removes data after last %%EOF.
 

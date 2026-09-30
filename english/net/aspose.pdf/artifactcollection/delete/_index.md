@@ -23,6 +23,7 @@ public void Delete(Artifact artifact)
 
 ### See Also
 
+* class [Artifact](../../../aspose.pdf/artifact/)
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -39,7 +40,7 @@ public void Delete(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of artifact to delete. |
+| index | Int32 | Index of artifact to delete. |
 
 ### See Also
 

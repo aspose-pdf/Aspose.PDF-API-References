@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets/sets MCID value.
 
 ```csharp
-public Nullable<int> MCID { get; }
+public int? MCID { get; }
 ```
 
 ### See Also

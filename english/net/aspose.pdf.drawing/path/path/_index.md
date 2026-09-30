@@ -39,6 +39,7 @@ public Path(Shape[] shapes)
 
 ### See Also
 
+* class [Shape](../../../aspose.pdf.drawing/shape/)
 * class [Path](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)

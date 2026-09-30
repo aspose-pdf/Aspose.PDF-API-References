@@ -17,6 +17,10 @@ Gets the path to the file of current save target.
 public string Path { get; }
 ```
 
+### Return Value
+
+A string representing the path to the output file.
+
 ### See Also
 
 * class [FileSaveTarget](../)

@@ -9,21 +9,19 @@ weight: 20
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/units/"
 product_version: "26.9.0"
 ---
-## Units(double) {#units}
+## PdfFileEditor.ContentsResizeValue.Units method
 
 Initializes value in default space units.
 
 ```csharp
-public ContentsResizeValue Units(double value)
+public static ContentsResizeValue Units(double value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | Value in units. |
+| value | Double | Value in units. |
 
 ### Return Value
-
-ContentsResizeValue
 
 New value instance.
 

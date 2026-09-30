@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Gets or sets a vertical alignment of text fragment.
 
 ```csharp
-public VerticalAlignment VerticalAlignment { get; set; }
+public override VerticalAlignment VerticalAlignment { get; set; }
 ```
 
 ### See Also
 
-* class [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
+* enum [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

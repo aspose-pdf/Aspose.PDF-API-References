@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/pagerange/pagerange/"
 product_version: "26.9.0"
 ---
-## PageRange() {#constructor}
+## PageRange constructor
 
 The default constructor.
 

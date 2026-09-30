@@ -9,7 +9,7 @@ weight: 210
 url: "/net/aspose.pdf/document/removepdfacompliance/"
 product_version: "26.9.0"
 ---
-## RemovePdfaCompliance() {#removepdfacompliance}
+## Document.RemovePdfaCompliance method
 
 Remove pdfa compliance from the document
 

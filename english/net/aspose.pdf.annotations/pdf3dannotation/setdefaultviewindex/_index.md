@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.annotations/pdf3dannotation/setdefaultviewindex/"
 product_version: "26.9.0"
 ---
-## SetDefaultViewIndex(int) {#setdefaultviewindex}
+## PDF3DAnnotation.SetDefaultViewIndex method
 
 Sets the index of the default view.
 
@@ -19,7 +19,7 @@ public void SetDefaultViewIndex(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | The default view index. |
+| index | Int32 | The default view index. |
 
 ### See Also
 

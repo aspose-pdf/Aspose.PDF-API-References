@@ -9,12 +9,12 @@ weight: 40
 url: "/net/aspose.pdf.ai/tool/function/"
 product_version: "26.9.0"
 ---
-## Function([Function](../../../aspose.pdf.ai/function/)) {#function}
+## Tool.Function method
 
 Creates a new tool instance with the specified function.
 
 ```csharp
-public Tool Function(Function function)
+public static Tool Function(Function function)
 ```
 
 | Parameter | Type | Description |
@@ -23,14 +23,12 @@ public Tool Function(Function function)
 
 ### Return Value
 
-[Tool](../../../aspose.pdf.ai/tool/)
-
 A new tool instance with the specified function.
 
 ### See Also
 
 * class [Tool](../../../aspose.pdf.ai/tool/)
-* class [Tool](../)
+* class [Function](../../../aspose.pdf.ai/function/)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

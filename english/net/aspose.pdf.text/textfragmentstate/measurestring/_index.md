@@ -9,21 +9,19 @@ weight: 20
 url: "/net/aspose.pdf.text/textfragmentstate/measurestring/"
 product_version: "26.9.0"
 ---
-## MeasureString(string) {#measurestring}
+## TextFragmentState.MeasureString method
 
 Measures the string.
 
 ```csharp
-public double MeasureString(string str)
+public override double MeasureString(string str)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| str | string | The string. |
+| str | String | The string. |
 
 ### Return Value
-
-double
 
 Width of the string.
 

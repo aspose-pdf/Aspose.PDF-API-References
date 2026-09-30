@@ -20,7 +20,6 @@ public static readonly AttributeName Role_rb;
 ### See Also
 
 * class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
-* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

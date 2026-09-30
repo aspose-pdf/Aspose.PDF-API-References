@@ -22,7 +22,7 @@ public class SubmitToolOutputs
 
 | Name | Description |
 | --- | --- |
-| [SubmitToolOutputs](./submittooloutputs/#constructor) | The default constructor. |
+| [SubmitToolOutputs](./submittooloutputs/)() | The default constructor. |
 
 ## Properties
 

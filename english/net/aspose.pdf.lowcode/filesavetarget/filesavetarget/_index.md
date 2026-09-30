@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/filesavetarget/filesavetarget/"
 product_version: "26.9.0"
 ---
-## FileSaveTarget(string) {#constructor}
+## FileSaveTarget constructor
 
 Initializes new file save target with specified path.
 
@@ -19,7 +19,7 @@ public FileSaveTarget(string path)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| path | string | A string representing the path to the output file. |
+| path | String | A string representing the path to the output file. |
 
 ### See Also
 

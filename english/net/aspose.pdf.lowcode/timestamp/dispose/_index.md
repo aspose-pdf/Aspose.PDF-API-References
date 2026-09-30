@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.lowcode/timestamp/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## Timestamp.Dispose method
 
 Releases resources used by the plugin.
 

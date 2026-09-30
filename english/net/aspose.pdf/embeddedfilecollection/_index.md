@@ -5,7 +5,7 @@ articleTitle: "EmbeddedFileCollection"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.EmbeddedFileCollection class. Class representing embedded files collection."
 type: docs
-weight: 720
+weight: 710
 url: "/net/aspose.pdf/embeddedfilecollection/"
 keywords: "EmbeddedFileCollection, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -15,7 +15,7 @@ product_version: "26.9.0"
 Class representing embedded files collection.
 
 ```csharp
-public class EmbeddedFileCollection : IEnumerable
+public class EmbeddedFileCollection : ICollection<FileSpecification>
 ```
 
 ## Properties
@@ -24,8 +24,7 @@ public class EmbeddedFileCollection : IEnumerable
 | --- | --- |
 | [Count](./count/) { get; } | Gets number of embedded files in collection. |
 | [IsSynchronized](./issynchronized/) { get; } | Gets a value indicating whether access to this collection is synchronized (thread safe). |
-| [Item](./item/) { get; } | Gets embedded file by its index. |
-| [Item](./item/) { get; } | Gets embedded file by its name. |
+| [Item](./item/) { get; } | Gets embedded file by its index. (2 indexers) |
 | [Keys](./keys/) { get; } | Returns list of file attachment keys. |
 | [SyncRoot](./syncroot/) { get; } | Gets an object that can be used to synchronize access to this collection. |
 
@@ -33,14 +32,14 @@ public class EmbeddedFileCollection : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*FileSpecification*) | Adds embedded file specification into collection. |
-| [Add](./add/)(*string, FileSpecification*) | Adds file to embedded files with the specified key. |
-| [CopyTo](./copyto/)(*FileSpecification[], int*) | Copies array of FileSpecification object into colleciton. |
-| [Delete](./delete/) | Remove all embedded files from document. |
-| [Delete](./delete/)(*string*) | Delete embedded file by name. |
-| [DeleteByKey](./deletebykey/)(*string*) | Deletes file from the collection by its key in the collection. |
-| [FindByName](./findbyname/)(*string*) | Returns embedded file by its name. |
-| [GetEnumerator](./getenumerator/) | Returns colleciton enumerator. |
+| [Add](./add/)(FileSpecification) | Adds embedded file specification into collection. |
+| [Add](./add/)(string, FileSpecification) | Adds file to embedded files with the specified key. |
+| [CopyTo](./copyto/)(FileSpecification[], int) | Copies array of FileSpecification object into colleciton. |
+| [Delete](./delete/)() | Remove all embedded files from document. |
+| [Delete](./delete/)(string) | Delete embedded file by name. |
+| [DeleteByKey](./deletebykey/)(string) | Deletes file from the collection by its key in the collection. |
+| [FindByName](./findbyname/)(string) | Returns embedded file by its name. |
+| [GetEnumerator](./getenumerator/)() | Returns colleciton enumerator. |
 
 ### See Also
 

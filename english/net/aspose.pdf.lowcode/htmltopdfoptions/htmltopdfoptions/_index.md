@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/htmltopdfoptions/htmltopdfoptions/"
 product_version: "26.9.0"
 ---
-## HtmlToPdfOptions() {#constructor}
+## HtmlToPdfOptions constructor
 
 The default constructor.
 

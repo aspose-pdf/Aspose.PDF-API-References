@@ -22,7 +22,7 @@ public class IncompleteDetails
 
 | Name | Description |
 | --- | --- |
-| [IncompleteDetails](./incompletedetails/#constructor) | The default constructor. |
+| [IncompleteDetails](./incompletedetails/)() | The default constructor. |
 
 ## Properties
 

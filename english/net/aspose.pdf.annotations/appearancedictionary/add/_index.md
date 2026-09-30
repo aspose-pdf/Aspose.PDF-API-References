@@ -3,36 +3,13 @@ title: "AppearanceDictionary.Add"
 linktitle: "Add"
 articleTitle: "Add"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "AppearanceDictionary method. Adds an element with the provided key and value."
+description: "AppearanceDictionary method. Add X form for specifed key."
 type: docs
-weight: 20
+weight: 40
 url: "/net/aspose.pdf.annotations/appearancedictionary/add/"
 product_version: "26.9.0"
 ---
-## Add(object, object) {#add}
-
-> **Deprecated.** This method overload should not be used. Please use Add(string key, XForm value) method overload instead.
-
-Adds an element with the provided key and value.
-
-```csharp
-public void Add(object key, object value)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | object | Element key. |
-| value | object | Element value. |
-
-### See Also
-
-* class [AppearanceDictionary](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Add(string, [XForm](../../../aspose.pdf/xform/)) {#add_1}
+## Add(string, [XForm](../../../aspose.pdf/xform/)) {#add}
 
 Add X form for specifed key.
 
@@ -42,18 +19,19 @@ public void Add(string key, XForm value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | Element key. |
+| key | String | Element key. |
 | value | XForm | XForm object value. |
 
 ### See Also
 
+* class [XForm](../../../aspose.pdf/xform/)
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(KeyValuePair<string, XForm>) {#add_2}
+## Add(KeyValuePair<string, XForm>) {#add_1}
 
 Adds pair with key and value into the dictionary.
 
@@ -63,7 +41,7 @@ public void Add(KeyValuePair<string, XForm> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair<string, XForm> | Item to be added. |
+| item | KeyValuePair`2 | Item to be added. |
 
 ### See Also
 

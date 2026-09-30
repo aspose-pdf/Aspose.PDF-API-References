@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf/color/torgb/"
 product_version: "26.9.0"
 ---
-## ToRgb() {#torgb}
+## Color.ToRgb method
 
 Converts color into rgb.
 
@@ -19,14 +19,11 @@ public Color ToRgb()
 
 ### Return Value
 
-[Color](../../../aspose.pdf/color/)
-
 Rgb color value.
 
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)
-* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

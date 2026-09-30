@@ -9,7 +9,7 @@ weight: 340
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createpolyline/"
 product_version: "26.9.0"
 ---
-## CreatePolyLine([LineInfo](../../../aspose.pdf.facades/lineinfo/), int, [Rectangle](../../../aspose.pdf.drawing/rectangle/), string) {#createpolyline}
+## PdfContentEditor.CreatePolyLine method
 
 Creates polyline annotation.
 
@@ -20,12 +20,14 @@ public void CreatePolyLine(LineInfo lineInfo, int page, Rectangle annotRect, str
 | Parameter | Type | Description |
 | --- | --- | --- |
 | lineInfo | LineInfo | The instance of LineInfo class. |
-| page | int | The number of original page where the annotation will be created. |
+| page | Int32 | The number of original page where the annotation will be created. |
 | annotRect | Rectangle | The annotation rectangle defining the location of the annotation on the page. |
-| annotContents | string | The contents of the annotation. |
+| annotContents | String | The contents of the annotation. |
 
 ### See Also
 
+* class [LineInfo](../../../aspose.pdf.facades/lineinfo/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

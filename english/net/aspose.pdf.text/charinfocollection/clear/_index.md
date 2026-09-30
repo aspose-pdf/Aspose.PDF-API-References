@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.text/charinfocollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## CharInfoCollection.Clear method
 
 Collection is read-only. Always throws NotImplementedException.
 

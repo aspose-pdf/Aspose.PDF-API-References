@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/pagelabelcollection/getlabel/"
 product_version: "26.9.0"
 ---
-## GetLabel(int) {#getlabel}
+## PageLabelCollection.GetLabel method
 
 Gets page label by page index (page index is started from 0).
 
@@ -19,11 +19,9 @@ public PageLabel GetLabel(int pageIndex)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageIndex | int | Index of the page. |
+| pageIndex | Int32 | Index of the page. |
 
 ### Return Value
-
-[PageLabel](../../../aspose.pdf/pagelabel/)
 
 Page label for specified page index or null if page label does not exist.
 

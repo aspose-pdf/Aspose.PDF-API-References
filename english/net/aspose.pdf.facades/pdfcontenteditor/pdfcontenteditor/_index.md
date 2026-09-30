@@ -39,6 +39,7 @@ public PdfContentEditor(Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

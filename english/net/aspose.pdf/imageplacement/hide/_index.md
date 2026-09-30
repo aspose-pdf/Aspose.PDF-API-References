@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/imageplacement/hide/"
 product_version: "26.9.0"
 ---
-## Hide() {#hide}
+## ImagePlacement.Hide method
 
 Delete image from the page.
 

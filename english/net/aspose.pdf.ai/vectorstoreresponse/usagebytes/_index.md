@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the total number of bytes used by the files in the vector store.
 
 ```csharp
-public Nullable<int> UsageBytes { get; set; }
+public int? UsageBytes { get; set; }
 ```
 
 ### See Also

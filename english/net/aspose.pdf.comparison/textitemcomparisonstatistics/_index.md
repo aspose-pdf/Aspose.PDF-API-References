@@ -22,7 +22,7 @@ public class TextItemComparisonStatistics
 
 | Name | Description |
 | --- | --- |
-| [TextItemComparisonStatistics](./textitemcomparisonstatistics/#constructor) | The default constructor. |
+| [TextItemComparisonStatistics](./textitemcomparisonstatistics/)() | The default constructor. |
 
 ## Properties
 

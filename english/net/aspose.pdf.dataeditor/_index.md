@@ -32,7 +32,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 
 | Interface | Description |
 | --- | --- |
-| [ICosPdfPrimitive](./icospdfprimitive/) | Interface for work with PDF data entity. |
+| [ICosPdfPrimitive](./icospdfprimitive/) | Interface for work with PDF data entity |
 
 ## FAQ
 

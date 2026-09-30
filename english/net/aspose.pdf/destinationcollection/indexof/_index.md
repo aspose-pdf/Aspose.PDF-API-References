@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf/destinationcollection/indexof/"
 product_version: "26.9.0"
 ---
-## IndexOf(KeyValuePair<string, object>) {#indexof}
+## DestinationCollection.IndexOf method
 
 Returns the index of destination in collection.
 
@@ -19,11 +19,9 @@ public int IndexOf(KeyValuePair<string, object> value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | KeyValuePair<string, object> | The value to find. |
+| value | KeyValuePair`2 | The value to find. |
 
 ### Return Value
-
-int
 
 The index of destination in collection.
 

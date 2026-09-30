@@ -22,12 +22,12 @@ public sealed class BorderInfo : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [BorderInfo](./borderinfo/#constructor) | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
-| [BorderInfo](./borderinfo/#constructor_1)(*[BorderSide](../../aspose.pdf/borderside/)*) | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
-| [BorderInfo](./borderinfo/#constructor_2)(*[BorderSide](../../aspose.pdf/borderside/), [Color](../../aspose.pdf/color/)*) | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
-| [BorderInfo](./borderinfo/#constructor_3)(*[BorderSide](../../aspose.pdf/borderside/), float*) | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
-| [BorderInfo](./borderinfo/#constructor_4)(*[BorderSide](../../aspose.pdf/borderside/), [GraphInfo](../../aspose.pdf/graphinfo/)*) | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
-| [BorderInfo](./borderinfo/#constructor_5)(*[BorderSide](../../aspose.pdf/borderside/), float, [Color](../../aspose.pdf/color/)*) | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
+| [BorderInfo](./borderinfo/#constructor)() | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
+| [BorderInfo](./borderinfo/#constructor_1)(BorderSide) | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
+| [BorderInfo](./borderinfo/#constructor_2)(BorderSide, Color) | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
+| [BorderInfo](./borderinfo/#constructor_3)(BorderSide, float) | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
+| [BorderInfo](./borderinfo/#constructor_4)(BorderSide, GraphInfo) | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
+| [BorderInfo](./borderinfo/#constructor_5)(BorderSide, float, Color) | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
 
 ## Properties
 
@@ -36,14 +36,14 @@ public sealed class BorderInfo : ICloneable
 | [Bottom](./bottom/) { get; set; } | Gets or sets a object that indicates bottom of the border. |
 | [Left](./left/) { get; set; } | Gets or sets a object that indicates left of the border. |
 | [Right](./right/) { get; set; } | Gets or sets a object that indicates right of the border. |
-| [RoundedBorderRadius](./roundedborderradius/) { get; set; } | Gets or sets a rouded border radius. |
+| [RoundedBorderRadius](./roundedborderradius/) { get; set; } | Gets or sets a rouded border radius |
 | [Top](./top/) { get; set; } | Gets or sets a object that indicates the top border. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](./clone/) | Clones a new BorderInfo object. |
+| [Clone](./clone/)() | Clones a new BorderInfo object. |
 
 ### See Also
 

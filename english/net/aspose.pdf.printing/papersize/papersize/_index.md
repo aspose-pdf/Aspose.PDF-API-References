@@ -35,9 +35,9 @@ public PaperSize(string name, int width, int height)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | The name of the paper. |
-| width | int | The width of the paper, in hundredths of an inch. |
-| height | int | The height of the paper, in hundredths of an inch. |
+| name | String | The name of the paper. |
+| width | Int32 | The width of the paper, in hundredths of an inch. |
+| height | Int32 | The height of the paper, in hundredths of an inch. |
 
 ### See Also
 

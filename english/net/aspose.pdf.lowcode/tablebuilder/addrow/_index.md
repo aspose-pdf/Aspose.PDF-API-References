@@ -9,17 +9,15 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/tablebuilder/addrow/"
 product_version: "26.9.0"
 ---
-## AddRow() {#addrow}
+## TableBuilder.AddRow method
 
 Add new row to table.
 
 ```csharp
-public TableRowBuilder AddRow()
+public virtual TableRowBuilder AddRow()
 ```
 
 ### Return Value
-
-[TableRowBuilder](../../../aspose.pdf.lowcode/tablerowbuilder/)
 
 Instance of current [`TableRowBuilder`](../../../aspose.pdf.lowcode/tablerowbuilder/).
 

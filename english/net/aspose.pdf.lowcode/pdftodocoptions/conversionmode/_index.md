@@ -26,7 +26,7 @@ public ConversionMode ConversionMode { get; set; }
 
 ### See Also
 
-* class [ConversionMode](../../../aspose.pdf.lowcode/conversionmode/)
+* enum [ConversionMode](../../../aspose.pdf.lowcode/conversionmode/)
 * class [PdfToDocOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

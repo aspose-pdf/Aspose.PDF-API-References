@@ -23,6 +23,7 @@ public void Visit(LinkAnnotation link)
 
 ### See Also
 
+* class [LinkAnnotation](../../../aspose.pdf.annotations/linkannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -43,6 +44,7 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 ### See Also
 
+* class [FileAttachmentAnnotation](../../../aspose.pdf.annotations/fileattachmentannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -63,6 +65,7 @@ public void Visit(TextAnnotation text)
 
 ### See Also
 
+* class [TextAnnotation](../../../aspose.pdf.annotations/textannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -83,6 +86,7 @@ public void Visit(RedactionAnnotation redact)
 
 ### See Also
 
+* class [RedactionAnnotation](../../../aspose.pdf.annotations/redactionannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -103,6 +107,7 @@ public void Visit(FreeTextAnnotation freetext)
 
 ### See Also
 
+* class [FreeTextAnnotation](../../../aspose.pdf.annotations/freetextannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -123,6 +128,7 @@ public void Visit(HighlightAnnotation highlight)
 
 ### See Also
 
+* class [HighlightAnnotation](../../../aspose.pdf.annotations/highlightannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -143,6 +149,7 @@ public void Visit(UnderlineAnnotation underline)
 
 ### See Also
 
+* class [UnderlineAnnotation](../../../aspose.pdf.annotations/underlineannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -163,6 +170,7 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 ### See Also
 
+* class [StrikeOutAnnotation](../../../aspose.pdf.annotations/strikeoutannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -183,6 +191,7 @@ public void Visit(SquigglyAnnotation squiggly)
 
 ### See Also
 
+* class [SquigglyAnnotation](../../../aspose.pdf.annotations/squigglyannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -203,6 +212,7 @@ public void Visit(PopupAnnotation popup)
 
 ### See Also
 
+* class [PopupAnnotation](../../../aspose.pdf.annotations/popupannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -223,6 +233,7 @@ public void Visit(LineAnnotation line)
 
 ### See Also
 
+* class [LineAnnotation](../../../aspose.pdf.annotations/lineannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -243,6 +254,7 @@ public void Visit(CircleAnnotation circle)
 
 ### See Also
 
+* class [CircleAnnotation](../../../aspose.pdf.annotations/circleannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -263,6 +275,7 @@ public void Visit(SquareAnnotation square)
 
 ### See Also
 
+* class [SquareAnnotation](../../../aspose.pdf.annotations/squareannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -283,6 +296,7 @@ public void Visit(InkAnnotation ink)
 
 ### See Also
 
+* class [InkAnnotation](../../../aspose.pdf.annotations/inkannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -303,6 +317,7 @@ public void Visit(PolylineAnnotation polyline)
 
 ### See Also
 
+* class [PolylineAnnotation](../../../aspose.pdf.annotations/polylineannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -323,6 +338,7 @@ public void Visit(PolygonAnnotation polygon)
 
 ### See Also
 
+* class [PolygonAnnotation](../../../aspose.pdf.annotations/polygonannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -343,6 +359,7 @@ public void Visit(CaretAnnotation caret)
 
 ### See Also
 
+* class [CaretAnnotation](../../../aspose.pdf.annotations/caretannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -363,6 +380,7 @@ public void Visit(StampAnnotation stamp)
 
 ### See Also
 
+* class [StampAnnotation](../../../aspose.pdf.annotations/stampannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -383,6 +401,7 @@ public void Visit(WidgetAnnotation widget)
 
 ### See Also
 
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -403,6 +422,7 @@ public void Visit(WatermarkAnnotation watermark)
 
 ### See Also
 
+* class [WatermarkAnnotation](../../../aspose.pdf.annotations/watermarkannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -423,6 +443,7 @@ public void Visit(MovieAnnotation movie)
 
 ### See Also
 
+* class [MovieAnnotation](../../../aspose.pdf.annotations/movieannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -443,6 +464,7 @@ public void Visit(RichMediaAnnotation richMedia)
 
 ### See Also
 
+* class [RichMediaAnnotation](../../../aspose.pdf.annotations/richmediaannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -463,6 +485,7 @@ public void Visit(ScreenAnnotation screen)
 
 ### See Also
 
+* class [ScreenAnnotation](../../../aspose.pdf.annotations/screenannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -483,6 +506,7 @@ public void Visit(PDF3DAnnotation pdf3D)
 
 ### See Also
 
+* class [PDF3DAnnotation](../../../aspose.pdf.annotations/pdf3dannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -503,6 +527,7 @@ public void Visit(ColorBarAnnotation colorBar)
 
 ### See Also
 
+* class [ColorBarAnnotation](../../../aspose.pdf.annotations/colorbarannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -523,6 +548,7 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 ### See Also
 
+* class [TrimMarkAnnotation](../../../aspose.pdf.annotations/trimmarkannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -544,6 +570,7 @@ public void Visit(BleedMarkAnnotation bleedMark)
 
 ### See Also
 
+* class [BleedMarkAnnotation](../../../aspose.pdf.annotations/bleedmarkannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -565,6 +592,7 @@ public void Visit(RegistrationMarkAnnotation registrationMark)
 
 ### See Also
 
+* class [RegistrationMarkAnnotation](../../../aspose.pdf.annotations/registrationmarkannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -586,6 +614,7 @@ public void Visit(PageInformationAnnotation pageInformation)
 
 ### See Also
 
+* class [PageInformationAnnotation](../../../aspose.pdf.annotations/pageinformationannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

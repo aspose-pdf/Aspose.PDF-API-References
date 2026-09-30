@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets the number of elements in the ElementList.
 
 ```csharp
-public int Count { get; }
+public abstract int Count { get; }
 ```
 
 ### See Also

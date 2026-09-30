@@ -16,7 +16,7 @@ Gets or sets a number between -2.0 and 2.0.
  decreasing the model's likelihood to repeat the same line verbatim.
 
 ```csharp
-public Nullable<double> FrequencyPenalty { get; set; }
+public double? FrequencyPenalty { get; set; }
 ```
 
 ### See Also

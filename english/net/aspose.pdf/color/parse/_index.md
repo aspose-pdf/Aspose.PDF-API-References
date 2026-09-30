@@ -9,28 +9,25 @@ weight: 20
 url: "/net/aspose.pdf/color/parse/"
 product_version: "26.9.0"
 ---
-## Parse(string) {#parse}
+## Color.Parse method
 
 Extracts color components from the string.
 
 ```csharp
-public Color Parse(string value)
+public static Color Parse(string value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | string | String value with color component values. |
+| value | String | String value with color component values. |
 
 ### Return Value
-
-[Color](../../../aspose.pdf/color/)
 
 Color object.
 
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)
-* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

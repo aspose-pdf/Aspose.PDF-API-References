@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/structureattributecollection/getattributes/"
 product_version: "26.9.0"
 ---
-## GetAttributes([AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)) {#getattributes}
+## StructureAttributeCollection.GetAttributes method
 
 Return [`StructureAttributes`](../../../aspose.pdf.logicalstructure/structureattributes/) of structure element by standard attribute owner.
 
@@ -23,13 +23,12 @@ public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
 
 ### Return Value
 
-[StructureAttributes](../../../aspose.pdf.logicalstructure/structureattributes/)
-
 [`StructureAttributes`](../../../aspose.pdf.logicalstructure/structureattributes/) of structure element. Return null if not found.
 
 ### See Also
 
 * class [StructureAttributes](../../../aspose.pdf.logicalstructure/structureattributes/)
+* class [AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
 * class [StructureAttributeCollection](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

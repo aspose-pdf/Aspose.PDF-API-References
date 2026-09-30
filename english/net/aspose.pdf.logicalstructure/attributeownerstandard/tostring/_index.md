@@ -9,17 +9,15 @@ weight: 20
 url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## AttributeOwnerStandard.ToString method
 
 Returns a string that represents the current object.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String that represents the current object.
 

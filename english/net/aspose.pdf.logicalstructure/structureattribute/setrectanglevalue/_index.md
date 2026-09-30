@@ -9,7 +9,7 @@ weight: 130
 url: "/net/aspose.pdf.logicalstructure/structureattribute/setrectanglevalue/"
 product_version: "26.9.0"
 ---
-## SetRectangleValue([Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#setrectanglevalue}
+## StructureAttribute.SetRectangleValue method
 
 Sets Value Rectangle.
 
@@ -23,6 +23,7 @@ public void SetRectangleValue(Rectangle rectangle)
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

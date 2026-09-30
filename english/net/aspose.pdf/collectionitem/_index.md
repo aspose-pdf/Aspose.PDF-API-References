@@ -30,11 +30,17 @@ public class CollectionItem
 
 | Name | Description |
 | --- | --- |
-| [HasName](./hasname/)(*string*) | Checks if the given name exists in the collection item. |
-| [TryGetDateTimeValue](./trygetdatetimevalue/)(*string, Value<DateTime>*) |  |
-| [TryGetDoubleValue](./trygetdoublevalue/)(*string, Value<double>*) |  |
-| [TryGetIntValue](./trygetintvalue/)(*string, Value<int>*) |  |
-| [TryGetTextValue](./trygettextvalue/)(*string, Value<string>*) |  |
+| [HasName](./hasname/)(string) | Checks if the given name exists in the collection item. |
+| [TryGetDateTimeValue](./trygetdatetimevalue/)(string, out Value<DateTime>) |  |
+| [TryGetDoubleValue](./trygetdoublevalue/)(string, out Value<double>) |  |
+| [TryGetIntValue](./trygetintvalue/)(string, out Value<int>) |  |
+| [TryGetTextValue](./trygettextvalue/)(string, out Value<string>) |  |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| class [Value<T>](../../aspose.pdf/collectionitem.value-1) | Represents a class for a value of colection item. |
 
 ### See Also
 

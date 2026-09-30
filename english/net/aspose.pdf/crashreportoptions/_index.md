@@ -22,7 +22,7 @@ public class CrashReportOptions
 
 | Name | Description |
 | --- | --- |
-| [CrashReportOptions](./crashreportoptions/#constructor)(*Exception*) | Creates CrashReportOptions with default parameters. |
+| [CrashReportOptions](./crashreportoptions/)(Exception) | Creates CrashReportOptions with default parameters. |
 
 ## Properties
 
@@ -30,10 +30,10 @@ public class CrashReportOptions
 | --- | --- |
 | [ApplicationTitle](./applicationtitle/) { get; } | Name of library where exception occured. |
 | [CrashReportDirectory](./crashreportdirectory/) { get; set; } | Output directory for crash report. By default is set to current directory. |
-| [CrashReportFilename](./crashreportfilename/) { get; set; } | Filename for crash report. By default is auto-generated in format. |
-| [CrashReportPath](./crashreportpath/) { get; } | Full path of crash report file. |
-| [CustomMessage](./custommessage/) { get; set; } | Custom message to include into the report. It can be something like. |
-| [Exception](./exception/) { get; } | Exception that crash report will be based on. |
+| [CrashReportFilename](./crashreportfilename/) { get; set; } | Filename for crash report. By default is auto-generated in format CrashReport_&lt;date&gt;_&lt;ticks&gt;.html" |
+| [CrashReportPath](./crashreportpath/) { get; } | Full path of crash report file |
+| [CustomMessage](./custommessage/) { get; set; } | Custom message to include into the report. It can be something like value of variables or other details you want to send. |
+| [Exception](./exception/) { get; } | Exception that crash report will be based on |
 | [LibraryVersion](./libraryversion/) { get; } | Version of library used. |
 
 ### See Also

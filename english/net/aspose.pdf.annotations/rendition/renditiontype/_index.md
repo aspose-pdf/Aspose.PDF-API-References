@@ -19,7 +19,7 @@ public RenditionType RenditionType { get; }
 
 ### See Also
 
-* class [RenditionType](../../../aspose.pdf.annotations/renditiontype/)
+* enum [RenditionType](../../../aspose.pdf.annotations/renditiontype/)
 * class [Rendition](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

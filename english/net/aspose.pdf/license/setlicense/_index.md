@@ -33,7 +33,7 @@ public void SetLicense(string licenseName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| licenseName | string | Can be a full or short file name or name of an embedded resource.
+| licenseName | String | Can be a full or short file name or name of an embedded resource.
  Use an empty string to switch to evaluation mode. |
 
 ### See Also

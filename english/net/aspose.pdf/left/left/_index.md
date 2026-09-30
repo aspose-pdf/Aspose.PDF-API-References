@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/left/left/"
 product_version: "26.9.0"
 ---
-## Left() {#constructor}
+## Left constructor
 
 The default constructor.
 

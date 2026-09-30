@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/pngoptions/pngoptions/"
 product_version: "26.9.0"
 ---
-## PngOptions() {#constructor}
+## PngOptions constructor
 
 The default constructor.
 

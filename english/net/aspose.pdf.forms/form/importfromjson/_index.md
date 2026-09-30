@@ -23,8 +23,6 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(Stream stream)
 
 ### Return Value
 
-[IEnumerable](https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1)<[FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)>
-
 A collection of [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) indicating the result of the import operation for each form field.
 
 ### See Also
@@ -45,11 +43,9 @@ public IEnumerable<FieldSerializationResult> ImportFromJson(string fileName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | string | The name of the file to read the JSON input from. |
+| fileName | String | The name of the file to read the JSON input from. |
 
 ### Return Value
-
-[IEnumerable](https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1)<[FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)>
 
 A collection of [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) indicating the result of the import operation for each form field.
 

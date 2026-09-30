@@ -9,12 +9,12 @@ weight: 40
 url: "/net/aspose.pdf.annotations/xfdfreader/getelements/"
 product_version: "26.9.0"
 ---
-## GetElements(XmlReader) {#getelements}
+## XfdfReader.GetElements method
 
 Parses XFDF file and returns information as hashtable.
 
 ```csharp
-public Dictionary<string, string> GetElements(XmlReader reader)
+public static Dictionary<string, string> GetElements(XmlReader reader)
 ```
 
 | Parameter | Type | Description |
@@ -22,8 +22,6 @@ public Dictionary<string, string> GetElements(XmlReader reader)
 | reader | XmlReader | XmlReader for the source file. |
 
 ### Return Value
-
-Dictionary<string, string>
 
 Hashtable with information parsed from XFDF file.
 

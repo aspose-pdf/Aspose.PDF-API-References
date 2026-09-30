@@ -16,11 +16,12 @@ Gets security settings if document is encrypted.
  or CryptoAlgorithm will be null for other .net versions.
 
 ```csharp
-public Nullable<CryptoAlgorithm> CryptoAlgorithm { get; }
+public CryptoAlgorithm? CryptoAlgorithm { get; }
 ```
 
 ### See Also
 
+* enum [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

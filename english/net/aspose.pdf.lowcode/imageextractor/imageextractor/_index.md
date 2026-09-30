@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/imageextractor/imageextractor/"
 product_version: "26.9.0"
 ---
-## ImageExtractor() {#constructor}
+## ImageExtractor constructor
 
 The default constructor.
 

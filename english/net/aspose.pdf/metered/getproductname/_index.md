@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf/metered/getproductname/"
 product_version: "26.9.0"
 ---
-## GetProductName() {#getproductname}
+## Metered.GetProductName method
 
 Get the Product Name.
 
@@ -18,8 +18,6 @@ public string GetProductName()
 ```
 
 ### Return Value
-
-string
 
 Product Name
 

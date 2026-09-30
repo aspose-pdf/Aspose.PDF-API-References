@@ -5,11 +5,11 @@ articleTitle: "GetFieldFacade"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Returns FrofmFieldFacade object containing all appearance attributes. Aspose.Pdf.Facades.Form form = new Aspose.Pdf.Facades.Form(\"form.pdf\"); Fo..."
 type: docs
-weight: 110
+weight: 50
 url: "/net/aspose.pdf.facades/form/getfieldfacade/"
 product_version: "26.9.0"
 ---
-## GetFieldFacade(string) {#getfieldfacade}
+## Form.GetFieldFacade method
 
 Returns FrofmFieldFacade object containing all appearance attributes.
  
@@ -23,11 +23,9 @@ public FormFieldFacade GetFieldFacade(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | Name of field to read. |
+| fieldName | String | Name of field to read. |
 
 ### Return Value
-
-[FormFieldFacade](../../../aspose.pdf.facades/formfieldfacade/)
 
 FormFieldFacade object
 

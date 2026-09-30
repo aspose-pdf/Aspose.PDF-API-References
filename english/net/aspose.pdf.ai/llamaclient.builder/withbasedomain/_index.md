@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.ai/llamaclient.builder/withbasedomain/"
 product_version: "26.9.0"
 ---
-## WithBaseDomain(string) {#withbasedomain}
+## LlamaClient.Builder.WithBaseDomain method
 
 Sets the base domain for the client.
 
@@ -19,11 +19,9 @@ public Builder WithBaseDomain(string baseDomain)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| baseDomain | string | The base domain to set. |
+| baseDomain | String | The base domain to set. |
 
 ### Return Value
-
-Builder
 
 The current instance of `Builder`.
 

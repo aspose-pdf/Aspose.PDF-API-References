@@ -9,12 +9,12 @@ weight: 90
 url: "/net/aspose.pdf/baseoperatorcollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## BaseOperatorCollection.Clear method
 
 Clears collection.
 
 ```csharp
-public void Clear()
+public abstract void Clear()
 ```
 
 ### See Also

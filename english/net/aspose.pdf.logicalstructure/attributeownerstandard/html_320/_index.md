@@ -20,7 +20,6 @@ public static readonly AttributeOwnerStandard Html_320;
 ### See Also
 
 * class [AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
-* class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

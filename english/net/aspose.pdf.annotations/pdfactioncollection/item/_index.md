@@ -9,13 +9,21 @@ weight: 50
 url: "/net/aspose.pdf.annotations/pdfactioncollection/item/"
 product_version: "26.9.0"
 ---
-## PdfActionCollection.Item property
+## PdfActionCollection indexer
 
 Gets action by its index.
 
 ```csharp
-public PdfAction Item { get; }
+public PdfAction this[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Action index value. |
+
+### Return Value
+
+Action index if found; otherwise, throws IndexOutOfRangeException
 
 ### See Also
 

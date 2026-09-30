@@ -22,11 +22,11 @@ public class TableBuilder
 
 | Name | Description |
 | --- | --- |
-| [AddRow](./addrow/) | Add new row to table. |
-| [AddTable](./addtable/) | Add new table to document. |
-| [InsertPageAfter](./insertpageafter/)(*int*) | Insert page after specified page. |
-| [InsertPageBefore](./insertpagebefore/)(*int*) | Insert page before specified page. |
-| [op_Implicit](./op_implicit/)(*TableBuilder*) |  |
+| virtual [AddRow](./addrow/)() | Add new row to table. |
+| [AddTable](./addtable/)() | Add new table to document. |
+| [InsertPageAfter](./insertpageafter/)(int) | Insert page after specified page. |
+| [InsertPageBefore](./insertpagebefore/)(int) | Insert page before specified page. |
+| [implicit operator](./op_implicit/) | Converts builder [`TableBuilder`](../../aspose.pdf.lowcode/tablebuilder/) to options [`TableOptions`](../../aspose.pdf.lowcode/tableoptions/) |
 
 ### See Also
 

@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf.ai/responseformat.objecttype/objecttype/"
 product_version: "26.9.0"
 ---
-## ResponseFormat.ObjectType() {#constructor}
+## ObjectType constructor
 
 The default constructor.
 
 ```csharp
-public ResponseFormat.ObjectType()
+public ObjectType()
 ```
 
 ### See Also

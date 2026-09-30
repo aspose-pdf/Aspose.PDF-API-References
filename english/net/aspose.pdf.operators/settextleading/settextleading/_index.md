@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/settextleading/settextleading/"
 product_version: "26.9.0"
 ---
-## SetTextLeading(double) {#constructor}
+## SetTextLeading constructor
 
 Initializes text leading operator.
 
@@ -19,7 +19,7 @@ public SetTextLeading(double leading)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| leading | double | Text leading. |
+| leading | Double | Text leading. |
 
 ### See Also
 

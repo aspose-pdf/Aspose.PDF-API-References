@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets font of the text.
 
 ```csharp
-public Font Font { get; set; }
+public virtual Font Font { get; set; }
 ```
 
 ### See Also

@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf.devices/imagedevice/getbitmap/"
 product_version: "26.9.0"
 ---
-## GetBitmap([Page](../../../aspose.pdf/page/)) {#getbitmap}
+## ImageDevice.GetBitmap method
 
 Converts the page into `Bitmap`.
 
@@ -27,6 +27,7 @@ Bitmap
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

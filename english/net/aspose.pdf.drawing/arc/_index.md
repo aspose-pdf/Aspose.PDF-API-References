@@ -22,7 +22,7 @@ public sealed class Arc : Shape
 
 | Name | Description |
 | --- | --- |
-| [Arc](./arc/#constructor)(*float, float, float, float, float*) | Initializes a new instance of the [`Arc`](../../aspose.pdf.drawing/arc/) class. |
+| [Arc](./arc/)(float, float, float, float, float) | Initializes a new instance of the [`Arc`](../../aspose.pdf.drawing/arc/) class. |
 
 ## Properties
 
@@ -30,17 +30,17 @@ public sealed class Arc : Shape
 | --- | --- |
 | [Alpha](./alpha/) { get; set; } | Gets or sets a float value that indicates the beginning angle degree of the arc. |
 | [Beta](./beta/) { get; set; } | Gets or sets a float value that indicates the ending angle degree of the arc. |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Gets or sets a `GraphInfo` object that indicates the graph info,such as color,. *(Inherited from Shape)* |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Gets or sets a `GraphInfo` object that indicates the graph info,such as color, line width,etc. |
 | [PosX](./posx/) { get; set; } | Gets or sets a float value that indicates the x-coordinate of the center of the arc. |
 | [PosY](./posy/) { get; set; } | Gets or sets a float value that indicates the y-coordinate of the center of the arc. |
 | [Radius](./radius/) { get; set; } | Gets or sets a float value that indicates the radius of the arc. |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape. *(Inherited from Shape)* |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CheckBounds](./checkbounds/)(*double, double*) |  |
+| override [CheckBounds](./checkbounds/)(double, double) |  |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.tagged/itaggedcontent/createsectelement/"
 product_version: "26.9.0"
 ---
-## CreateSectElement() {#createsectelement}
+## ITaggedContent.CreateSectElement method
 
 Creates [`SectElement`](../../../aspose.pdf.logicalstructure/sectelement/).
 
@@ -18,8 +18,6 @@ public SectElement CreateSectElement()
 ```
 
 ### Return Value
-
-[SectElement](../../../aspose.pdf.logicalstructure/sectelement/)
 
 Created structure element.
 

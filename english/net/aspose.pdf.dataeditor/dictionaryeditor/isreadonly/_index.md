@@ -17,6 +17,10 @@ Gets a value indicating whether the [`DictionaryEditor`](../../../aspose.pdf.dat
 public bool IsReadOnly { get; }
 ```
 
+### Return Value
+
+true if the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/) is read-only; otherwise, false.
+
 ### See Also
 
 * class [DictionaryEditor](../)

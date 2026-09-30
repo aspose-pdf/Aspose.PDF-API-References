@@ -17,20 +17,19 @@ The TryInsert method is like the Insert method, except the TryInsert
  method does not throw an exception if the operation fails.
 
 ```csharp
-public bool TryInsert(string inputFile, int insertLocation, string portFile, int[] pageNumber, string outputFile)
+public bool TryInsert(string inputFile, int insertLocation, string portFile, int[] pageNumber, 
+    string outputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Input Pdf file. |
-| insertLocation | int | Insert position in input file. |
-| portFile | string | Pages from the Pdf file. |
-| pageNumber | int[] | The page number of the ported in portFile. |
-| outputFile | string | Output Pdf file. |
+| inputFile | String | Input Pdf file. |
+| insertLocation | Int32 | Insert position in input file. |
+| portFile | String | Pages from the Pdf file. |
+| pageNumber | Int32[] | The page number of the ported in portFile. |
+| outputFile | String | Output Pdf file. |
 
 ### Return Value
-
-bool
 
 True for success, or false.
 
@@ -50,20 +49,19 @@ The TryInsert method is like the Insert method, except the TryInsert
  method does not throw an exception if the operation fails.
 
 ```csharp
-public bool TryInsert(Stream inputStream, int insertLocation, Stream portStream, int[] pageNumber, Stream outputStream)
+public bool TryInsert(Stream inputStream, int insertLocation, Stream portStream, int[] pageNumber, 
+    Stream outputStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Input Stream of Pdf file. |
-| insertLocation | int | Insert position in input file. |
+| insertLocation | Int32 | Insert position in input file. |
 | portStream | Stream | Stream of Pdf file for pages. |
-| pageNumber | int[] | The page number of the ported in portFile. |
+| pageNumber | Int32[] | The page number of the ported in portFile. |
 | outputStream | Stream | Output Stream. |
 
 ### Return Value
-
-bool
 
 true if operation completed successfully; otherwise, false.
 

@@ -14,14 +14,14 @@ product_version: "26.9.0"
 Represents an image description copilot for extracting image descriptions using AI models.
 
 ```csharp
-public interface IImageDescriptionCopilot
+public interface IImageDescriptionCopilot : IAICopilot
 ```
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetImageDescriptionsAsync](./getimagedescriptionsasync/)(*Nullable<CancellationToken>*) | Asynchronously gets image descriptions for images from a PDF document. |
+| [GetImageDescriptionsAsync](./getimagedescriptionsasync/)(CancellationToken?) | Asynchronously gets image descriptions for images from a PDF document. |
 
 ### See Also
 

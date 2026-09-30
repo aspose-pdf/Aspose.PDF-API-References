@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/right/right/"
 product_version: "26.9.0"
 ---
-## Right() {#constructor}
+## Right constructor
 
 The default constructor.
 

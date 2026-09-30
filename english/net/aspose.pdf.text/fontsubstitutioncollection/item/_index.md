@@ -9,13 +9,21 @@ weight: 100
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/item/"
 product_version: "26.9.0"
 ---
-## FontSubstitutionCollection.Item property
+## FontSubstitutionCollection indexer
 
 Gets the font element at the specified index.
 
 ```csharp
-public FontSubstitution Item { get; }
+public FontSubstitution this[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Index within the collection. |
+
+### Return Value
+
+FontSubstitution object.
 
 ### See Also
 

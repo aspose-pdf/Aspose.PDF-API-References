@@ -22,13 +22,13 @@ public class ExpiresAfter
 
 | Name | Description |
 | --- | --- |
-| [ExpiresAfter](./expiresafter/#constructor) | The default constructor. |
+| [ExpiresAfter](./expiresafter/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Anchor](./anchor/) { get; set; } | Gets or sets the anchor timestamp after which the expiration policy applies. |
+| [Anchor](./anchor/) { get; set; } | Gets or sets the anchor timestamp after which the expiration policy applies. Supported anchors: last_active_at. |
 | [Days](./days/) { get; set; } | Gets or sets the number of days after the anchor time that the vector store will expire. |
 
 ### See Also

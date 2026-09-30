@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf/rows/remove/"
 product_version: "26.9.0"
 ---
-## Remove([Row](../../../aspose.pdf/row/)) {#remove}
+## Rows.Remove method
 
 Remove row from collection.
 
@@ -23,6 +23,7 @@ public void Remove(Row row)
 
 ### See Also
 
+* class [Row](../../../aspose.pdf/row/)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/pagenumber/getpagenumberstring/"
 product_version: "26.9.0"
 ---
-## GetPageNumberString(int, int) {#getpagenumberstring}
+## PageNumber.GetPageNumberString method
 
 Returns a formatted string representing the page number based on the current settings.
 
@@ -19,12 +19,10 @@ public string GetPageNumberString(int pageNumber, int count)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | int | The current page number. |
-| count | int | The total number of pages. |
+| pageNumber | Int32 | The current page number. |
+| count | Int32 | The total number of pages. |
 
 ### Return Value
-
-string
 
 A formatted page number string.
 

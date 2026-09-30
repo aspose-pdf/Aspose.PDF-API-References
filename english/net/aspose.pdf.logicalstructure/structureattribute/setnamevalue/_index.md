@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf.logicalstructure/structureattribute/setnamevalue/"
 product_version: "26.9.0"
 ---
-## SetNameValue([AttributeName](../../../aspose.pdf.logicalstructure/attributename/)) {#setnamevalue}
+## StructureAttribute.SetNameValue method
 
 Sets Value Name.
 
@@ -23,6 +23,7 @@ public void SetNameValue(AttributeName name)
 
 ### See Also
 
+* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
 * class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

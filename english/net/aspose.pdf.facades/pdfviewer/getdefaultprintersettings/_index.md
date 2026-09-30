@@ -9,7 +9,7 @@ weight: 250
 url: "/net/aspose.pdf.facades/pdfviewer/getdefaultprintersettings/"
 product_version: "26.9.0"
 ---
-## GetDefaultPrinterSettings() {#getdefaultprintersettings}
+## PdfViewer.GetDefaultPrinterSettings method
 
 Gets the default printer settings.
 
@@ -18,8 +18,6 @@ public PrinterSettings GetDefaultPrinterSettings()
 ```
 
 ### Return Value
-
-[PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 
 Printer settings object.
 

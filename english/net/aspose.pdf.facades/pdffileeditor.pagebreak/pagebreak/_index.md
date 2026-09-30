@@ -9,18 +9,18 @@ weight: 10
 url: "/net/aspose.pdf.facades/pdffileeditor.pagebreak/pagebreak/"
 product_version: "26.9.0"
 ---
-## PdfFileEditor.PageBreak(int, double) {#constructor}
+## PageBreak constructor
 
 Constructor to create PageBreak object.
 
 ```csharp
-public PdfFileEditor.PageBreak(int pageNumber, double position)
+public PageBreak(int pageNumber, double position)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | int | Number of page where page break is placed. |
-| position | double | Vertical position of page break. |
+| pageNumber | Int32 | Number of page where page break is placed. |
+| position | Double | Vertical position of page break. |
 
 ### See Also
 

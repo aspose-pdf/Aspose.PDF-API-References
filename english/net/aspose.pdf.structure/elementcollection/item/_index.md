@@ -9,13 +9,21 @@ weight: 40
 url: "/net/aspose.pdf.structure/elementcollection/item/"
 product_version: "26.9.0"
 ---
-## ElementCollection.Item property
+## ElementCollection indexer
 
 Gets Element by index.
 
 ```csharp
-public Element Item { get; }
+public Element this[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Index of element. |
+
+### Return Value
+
+Retreived element.
 
 ### See Also
 

@@ -9,17 +9,17 @@ weight: 120
 url: "/net/aspose.pdf/optimizedmemorystream/writebyte/"
 product_version: "26.9.0"
 ---
-## WriteByte(byte) {#writebyte}
+## OptimizedMemoryStream.WriteByte method
 
 Writes a byte to the current position in the stream and advances the position within the stream by one byte.
 
 ```csharp
-public void WriteByte(byte value)
+public override void WriteByte(byte value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | byte | The byte to write to the stream. |
+| value | Byte | The byte to write to the stream. |
 
 ### See Also
 

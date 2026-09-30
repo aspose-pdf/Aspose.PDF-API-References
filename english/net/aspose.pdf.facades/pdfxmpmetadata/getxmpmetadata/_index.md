@@ -19,8 +19,6 @@ public byte[] GetXmpMetadata()
 
 ### Return Value
 
-byte[]
-
 The bytes of the XmpMetadata.
 
 ### See Also
@@ -41,11 +39,9 @@ public byte[] GetXmpMetadata(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Metadata name. |
+| name | String | Metadata name. |
 
 ### Return Value
-
-byte[]
 
 Bytes of metadata.
 

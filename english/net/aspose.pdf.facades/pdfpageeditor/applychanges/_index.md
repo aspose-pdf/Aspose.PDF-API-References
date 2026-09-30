@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf.facades/pdfpageeditor/applychanges/"
 product_version: "26.9.0"
 ---
-## ApplyChanges() {#applychanges}
+## PdfPageEditor.ApplyChanges method
 
 Apply changes made to the document pages.
 

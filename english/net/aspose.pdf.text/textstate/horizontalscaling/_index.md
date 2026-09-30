@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets horizontal scaling of the text.
 
 ```csharp
-public float HorizontalScaling { get; set; }
+public virtual float HorizontalScaling { get; set; }
 ```
 
 ### See Also

@@ -15,21 +15,21 @@ product_version: "26.9.0"
 Plugin that adds a timestamp to a digital signature using a timestamp server.
 
 ```csharp
-public sealed class Timestamp : IPlugin, IDisposable
+public sealed class Timestamp : IDisposable, IPlugin
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [Timestamp](./timestamp/#constructor) | The default constructor. |
+| [Timestamp](./timestamp/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/) | Releases resources used by the plugin. |
-| [Process](./process/)(*IPluginOptions*) | Processes the timestamp plugin with the supplied options. |
+| [Dispose](./dispose/)() | Releases resources used by the plugin. |
+| [Process](./process/)(IPluginOptions) | Processes the timestamp plugin with the supplied options. |
 
 ### See Also
 

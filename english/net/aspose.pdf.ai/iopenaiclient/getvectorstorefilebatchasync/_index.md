@@ -9,23 +9,22 @@ weight: 240
 url: "/net/aspose.pdf.ai/iopenaiclient/getvectorstorefilebatchasync/"
 product_version: "26.9.0"
 ---
-## GetVectorStoreFileBatchAsync(string, string, Nullable<CancellationToken>) {#getvectorstorefilebatchasync}
+## IOpenAIClient.GetVectorStoreFileBatchAsync method
 
 Retrieves details of a specific vector store file batch asynchronously.
 
 ```csharp
-public Task<VectorStoreFileBatchResponse> GetVectorStoreFileBatchAsync(string vectorStoreId, string fileBatchId, Nullable<CancellationToken> cancellationToken)
+public Task<VectorStoreFileBatchResponse> GetVectorStoreFileBatchAsync(string vectorStoreId, 
+    string fileBatchId, CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| vectorStoreId | string | The ID of the vector store containing the file batch. |
-| fileBatchId | string | The ID of the file batch to retrieve. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| vectorStoreId | String | The ID of the vector store containing the file batch. |
+| fileBatchId | String | The ID of the file batch to retrieve. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[VectorStoreFileBatchResponse](../../../aspose.pdf.ai/vectorstorefilebatchresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the details of the file batch.
 

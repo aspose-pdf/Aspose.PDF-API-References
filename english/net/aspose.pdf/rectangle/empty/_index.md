@@ -14,13 +14,12 @@ product_version: "26.9.0"
 Empty rectangle
 
 ```csharp
-public Rectangle Empty { get; }
+public static Rectangle Empty { get; }
 ```
 
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

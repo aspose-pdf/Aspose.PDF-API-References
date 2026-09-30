@@ -9,7 +9,7 @@ weight: 120
 url: "/net/aspose.pdf/artifact/setvalue/"
 product_version: "26.9.0"
 ---
-## SetValue(string, string) {#setvalue}
+## Artifact.SetValue method
 
 Sets custom value of artifact.
 
@@ -19,8 +19,8 @@ public void SetValue(string name, string value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Name of custom value. |
-| value | string | Custom value in the artifact. |
+| name | String | Name of custom value. |
+| value | String | Custom value in the artifact. |
 
 ### See Also
 

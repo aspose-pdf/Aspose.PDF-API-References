@@ -22,24 +22,24 @@ public sealed class ResizeOptions : OrganizerBaseOptions
 
 | Name | Description |
 | --- | --- |
-| [ResizeOptions](./resizeoptions/#constructor) | The default constructor. |
+| [ResizeOptions](./resizeoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeinputstreams/) { get; set; } | Close input streams after operation completed. *(Inherited from OrganizerBaseOptions)* |
-| [CloseOutputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. *(Inherited from OrganizerBaseOptions)* |
-| [Inputs](../../aspose.pdf.lowcode/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. *(Inherited from OrganizerBaseOptions)* |
-| [Outputs](../../aspose.pdf.lowcode/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. *(Inherited from OrganizerBaseOptions)* |
+| [CloseInputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeinputstreams/) { get; set; } | Close input streams after operation completed. |
+| [CloseOutputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
+| [Inputs](../../aspose.pdf.lowcode/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. |
+| [Outputs](../../aspose.pdf.lowcode/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 | [PageSize](./pagesize/) { get; set; } | Gets or sets new page size. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.lowcode/organizerbaseoptions/addinput/)(*IDataSource*) | Adds new data source to the PdfOrganizer plugin data collection. *(Inherited from OrganizerBaseOptions)* |
-| [AddOutput](../../aspose.pdf.lowcode/organizerbaseoptions/addoutput/)(*IDataSource*) | Adds new data source to the PdfOrganizer plugin data collection. *(Inherited from OrganizerBaseOptions)* |
+| [AddInput](../../aspose.pdf.lowcode/organizerbaseoptions/addinput/)(IDataSource) | Adds new data source to the PdfOrganizer plugin data collection. |
+| [AddOutput](../../aspose.pdf.lowcode/organizerbaseoptions/addoutput/)(IDataSource) | Adds new data source to the PdfOrganizer plugin data collection. |
 
 ### See Also
 

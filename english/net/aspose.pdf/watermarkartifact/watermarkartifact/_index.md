@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/watermarkartifact/watermarkartifact/"
 product_version: "26.9.0"
 ---
-## WatermarkArtifact() {#constructor}
+## WatermarkArtifact constructor
 
 Creates instance of Watermark artifact.
 

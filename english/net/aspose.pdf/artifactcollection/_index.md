@@ -15,7 +15,7 @@ product_version: "26.9.0"
 Class represents artifact collection.
 
 ```csharp
-public class ArtifactCollection : IEnumerable
+public class ArtifactCollection : ICollection<Artifact>
 ```
 
 ## Properties
@@ -32,13 +32,13 @@ public class ArtifactCollection : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*Artifact*) | Adds artifacts to the collection. |
-| [CopyTo](./copyto/)(*Artifact[], int*) | Copies colection into an array. |
-| [Delete](./delete/)(*Artifact*) | Deletes specified artifact. |
-| [Delete](./delete/)(*int*) | Deletes artifact by its index. |
-| [FindByValue](./findbyvalue/)(*string, string*) | Finds artifacts by custom value. |
-| [GetEnumerator](./getenumerator/) | Gets enumerator for the collection. |
-| [Update](./update/)(*Artifact*) | Update artifact inside the collection. |
+| [Add](./add/)(Artifact) | Adds artifacts to the collection. |
+| [CopyTo](./copyto/)(Artifact[], int) | Copies colection into an array. |
+| [Delete](./delete/)(Artifact) | Deletes specified artifact. |
+| [Delete](./delete/)(int) | Deletes artifact by its index. |
+| [FindByValue](./findbyvalue/)(string, string) | Finds artifacts by custom value. |
+| [GetEnumerator](./getenumerator/)() | Gets enumerator for the collection. |
+| [Update](./update/)(Artifact) | Update artifact inside the collection. |
 
 ### See Also
 

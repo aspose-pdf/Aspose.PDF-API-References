@@ -22,8 +22,8 @@ public sealed class Cell : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Cell](./cell/#constructor) | Initializes a new instance of the Cell class. |
-| [Cell](./cell/#constructor_1)(*[Rectangle](../../aspose.pdf.drawing/rectangle/)*) | Initializes a new instance of the Cell class. |
+| [Cell](./cell/#constructor)() | Initializes a new instance of the Cell class. |
+| [Cell](./cell/#constructor_1)(Rectangle) | Initializes a new instance of the Cell class. |
 
 ## Properties
 
@@ -31,8 +31,7 @@ public sealed class Cell : ICloneable
 | --- | --- |
 | [Alignment](./alignment/) { get; set; } | Gets or sets the alignment. |
 | [BackgroundColor](./backgroundcolor/) { get; set; } | Gets or sets the background color. |
-| [BackgroundImage](./backgroundimage/) { get; set; } | Gets or sets the background image. |
-| [BackgroundImageFile](./backgroundimagefile/) { get; set; } | Gets or sets the background image file. |
+| [BackgroundImage](./backgroundimage/) { get; set; } | Gets or sets the background image |
 | [Border](./border/) { get; set; } | Gets or sets the border. |
 | [ColSpan](./colspan/) { get; set; } | Gets or sets the column span. |
 | [DefaultCellTextState](./defaultcelltextstate/) { get; set; } | Gets or sets the default cell text state. |
@@ -49,7 +48,7 @@ public sealed class Cell : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Clone](./clone/) | Clone the cell. |
+| [Clone](./clone/)() | Clone the cell. |
 
 ### See Also
 

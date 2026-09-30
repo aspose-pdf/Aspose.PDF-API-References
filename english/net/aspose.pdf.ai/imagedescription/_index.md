@@ -22,7 +22,7 @@ public class ImageDescription
 
 | Name | Description |
 | --- | --- |
-| [ImageDescription](./imagedescription/#constructor) | The default constructor. |
+| [ImageDescription](./imagedescription/)() | The default constructor. |
 
 ## Properties
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/pdfsaveoptions/pdfsaveoptions/"
 product_version: "26.9.0"
 ---
-## PdfSaveOptions() {#constructor}
+## PdfSaveOptions constructor
 
 The default constructor.
 

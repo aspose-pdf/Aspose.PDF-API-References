@@ -25,27 +25,7 @@ public TextState()
 
 ---
 
-## TextState(double) {#constructor_1}
-
-Creates text state object with font size specification.
-
-```csharp
-public TextState(double fontSize)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontSize | double | Font size. |
-
-### See Also
-
-* class [TextState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TextState([Color](../../../aspose.pdf/color/)) {#constructor_2}
+## TextState([Color](../../../aspose.pdf/color/)) {#constructor_1}
 
 Creates text state object with foreground color specification.
 
@@ -56,6 +36,27 @@ public TextState(Color foregroundColor)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | foregroundColor | Color | Foreground color. |
+
+### See Also
+
+* class [Color](../../../aspose.pdf/color/)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TextState(double) {#constructor_2}
+
+Creates text state object with font size specification.
+
+```csharp
+public TextState(double fontSize)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fontSize | Double | Font size. |
 
 ### See Also
 
@@ -75,7 +76,7 @@ public TextState(string fontFamily)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontFamily | string | Font family. |
+| fontFamily | String | Font family. |
 
 ### See Also
 
@@ -96,10 +97,11 @@ public TextState(Color foregroundColor, double fontSize)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | foregroundColor | Color | Foreground color. |
-| fontSize | double | Font size. |
+| fontSize | Double | Font size. |
 
 ### See Also
 
+* class [Color](../../../aspose.pdf/color/)
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -116,8 +118,8 @@ public TextState(string fontFamily, double fontSize)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontFamily | string | Font family. |
-| fontSize | double | Font size. |
+| fontFamily | String | Font family. |
+| fontSize | Double | Font size. |
 
 ### See Also
 
@@ -137,9 +139,9 @@ public TextState(string fontFamily, bool bold, bool italic)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontFamily | string | Font family. |
-| bold | bool | Bold font style. |
-| italic | bool | Italic font style. |
+| fontFamily | String | Font family. |
+| bold | Boolean | Bold font style. |
+| italic | Boolean | Italic font style. |
 
 ### See Also
 

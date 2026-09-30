@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.text/textfragmentcollection/add/"
 product_version: "26.9.0"
 ---
-## Add([TextFragment](../../../aspose.pdf.text/textfragment/)) {#add}
+## TextFragmentCollection.Add method
 
 Adds the text fragment element at the specified index.
 
@@ -23,6 +23,7 @@ public void Add(TextFragment fragment)
 
 ### See Also
 
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
 * class [TextFragmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

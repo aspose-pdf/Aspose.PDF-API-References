@@ -19,7 +19,7 @@ public void MergeLayers(string newLayerName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newLayerName | string | The name of the new layer after merging. |
+| newLayerName | String | The name of the new layer after merging. |
 
 ### See Also
 
@@ -39,8 +39,8 @@ public void MergeLayers(string newLayerName, string newOptionalContentGroupId)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newLayerName | string | The name of the new layer after merging. |
-| newOptionalContentGroupId | string | The optional content group Id for the merged layer. |
+| newLayerName | String | The name of the new layer after merging. |
+| newOptionalContentGroupId | String | The optional content group Id for the merged layer. |
 
 ### See Also
 

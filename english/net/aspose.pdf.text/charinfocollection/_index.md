@@ -15,7 +15,7 @@ product_version: "26.9.0"
 Represents [CharInfo](../charinfo/) objects collection.
 
 ```csharp
-public sealed class CharInfoCollection : IEnumerable
+public sealed class CharInfoCollection : ICollection<CharInfo>
 ```
 
 ## Properties
@@ -23,7 +23,7 @@ public sealed class CharInfoCollection : IEnumerable
 | Name | Description |
 | --- | --- |
 | [Count](./count/) { get; } | Gets the number of [`CharInfo`](../../aspose.pdf.text/charinfo/) object elements actually contained in the collection. |
-| [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether collection is read-only. |
+| [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether collection is read-only |
 | [IsSynchronized](./issynchronized/) { get; } | Gets a value indicating whether access to the collection is synchronized (thread safe). |
 | [Item](./item/) { get; } | Gets the CharInfo element at the specified index. |
 | [SyncRoot](./syncroot/) { get; } | Gets an object that can be used to synchronize access to the collection. |
@@ -32,12 +32,12 @@ public sealed class CharInfoCollection : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*CharInfo*) | Collection is read-only, throws NotImplementedException. |
-| [Clear](./clear/) | Collection is read-only. Always throws NotImplementedException. |
-| [Contains](./contains/)(*CharInfo*) | Determines whether the collection contains a specific value. |
-| [CopyTo](./copyto/)(*CharInfo[], int*) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array. |
-| [GetEnumerator](./getenumerator/) | Returns an enumerator for the entire collection. |
-| [Remove](./remove/)(*CharInfo*) | Collection is read-only, throws NotImplementedException. |
+| [Add](./add/)(CharInfo) | Collection is read-only, throws NotImplementedException. |
+| [Clear](./clear/)() | Collection is read-only. Always throws NotImplementedException. |
+| [Contains](./contains/)(CharInfo) | Determines whether the collection contains a specific value. |
+| [CopyTo](./copyto/)(CharInfo[], int) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array |
+| [GetEnumerator](./getenumerator/)() | Returns an enumerator for the entire collection. |
+| [Remove](./remove/)(CharInfo) | Collection is read-only, throws NotImplementedException. |
 
 ## Remarks
 

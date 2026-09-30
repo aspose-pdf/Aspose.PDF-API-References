@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf/destinationcollection/add/"
 product_version: "26.9.0"
 ---
-## Add(KeyValuePair<string, object>) {#add}
+## DestinationCollection.Add method
 
 Adds the specified item.
  Collection is read-only. Always throws NotSupportedException exception.
@@ -20,7 +20,7 @@ public void Add(KeyValuePair<string, object> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair<string, object> | The item. |
+| item | KeyValuePair`2 | The item. |
 
 ### Exceptions
 

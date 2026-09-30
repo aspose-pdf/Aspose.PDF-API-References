@@ -5,7 +5,7 @@ articleTitle: "Opi"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Opi class. Represents The Open Prepress Interface (OPI) is a mechanism for creating low-resolution placeholders, or proxies, for such high-resolut..."
 type: docs
-weight: 2040
+weight: 2000
 url: "/net/aspose.pdf/opi/"
 keywords: "Opi, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -23,7 +23,7 @@ public sealed class Opi
 
 | Name | Description |
 | --- | --- |
-| [Opi](./opi/#constructor)(*[XForm](../../aspose.pdf/xform/)*) | The constructor. |
+| [Opi](./opi/)(XForm) | The constructor. |
 
 ## Properties
 

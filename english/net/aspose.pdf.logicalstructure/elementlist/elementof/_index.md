@@ -9,13 +9,21 @@ weight: 40
 url: "/net/aspose.pdf.logicalstructure/elementlist/elementof/"
 product_version: "26.9.0"
 ---
-## ElementList.ElementOf property
+## ElementList indexer
 
 Gets an element at the given index.
 
 ```csharp
-public Element ElementOf { get; }
+public virtual Element ElementOf[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | The index into the list of elements. |
+
+### Return Value
+
+The [`Element`](../../../aspose.pdf.structure/element/) with the specified index in the collection. If index is greater than or equal to the number of elements in the list, this returns null.
 
 ### See Also
 

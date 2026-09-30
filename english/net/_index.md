@@ -47,9 +47,9 @@ _Updated for Aspose.PDF for .NET 26.9.0_
 
 ### Which namespace should I start with?
 
-[Aspose.Pdf](./aspose.pdf/) is a good starting point -- it's the largest namespace in this reference, covering 338 types.
+[Aspose.Pdf](./aspose.pdf/) is a good starting point -- it's the largest namespace in this reference, covering 334 types.
 
 ### How large is the Aspose.PDF for .NET API reference?
 
-This reference covers 26 namespaces and 1202 types, browsable in the namespace listing above.
+This reference covers 26 namespaces and 1195 types, browsable in the namespace listing above.
 

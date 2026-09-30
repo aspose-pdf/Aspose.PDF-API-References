@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.lowcode/formimporterjsonoptions/addoutput/"
 product_version: "26.9.0"
 ---
-## AddOutput([IDataSource](../../../aspose.pdf.lowcode/idatasource/)) {#addoutput}
+## FormImporterJsonOptions.AddOutput method
 
 Adds a new output target.
 
@@ -23,6 +23,7 @@ public void AddOutput(IDataSource saveDataSource)
 
 ### See Also
 
+* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
 * class [FormImporterJsonOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

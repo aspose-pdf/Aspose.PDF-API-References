@@ -9,17 +9,15 @@ weight: 20
 url: "/net/aspose.pdf/heading/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## Heading.Clone method
 
 Clone the heading.
 
 ```csharp
-public object Clone()
+public override object Clone()
 ```
 
 ### Return Value
-
-object
 
 The cloned object
 

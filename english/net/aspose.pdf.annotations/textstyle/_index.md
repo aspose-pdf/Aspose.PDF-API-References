@@ -5,7 +5,7 @@ articleTitle: "TextStyle"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Annotations.TextStyle class. Class represents style of text in annotation"
 type: docs
-weight: 1320
+weight: 1310
 url: "/net/aspose.pdf.annotations/textstyle/"
 keywords: "TextStyle, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,6 @@ public class TextStyle
 
 | Name | Description |
 | --- | --- |
-| [Alignment](./alignment/) { get; set; } | Gets or sets horizontal alignment of the text. |
 | [Color](./color/) { get; set; } | Color of the text. |
 | [FontName](./fontname/) { get; set; } | Name of the font. |
 | [FontSize](./fontsize/) { get; set; } | Fonst size. |
@@ -32,7 +31,7 @@ public class TextStyle
 
 | Name | Description |
 | --- | --- |
-| [ToString](./tostring/) | String representation of TextStyle. |
+| override [ToString](./tostring/)() | String representation of TextStyle. |
 
 ### See Also
 

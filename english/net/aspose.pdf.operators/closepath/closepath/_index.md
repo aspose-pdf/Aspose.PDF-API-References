@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/closepath/closepath/"
 product_version: "26.9.0"
 ---
-## ClosePath() {#constructor}
+## ClosePath constructor
 
 Initializes operator.
 

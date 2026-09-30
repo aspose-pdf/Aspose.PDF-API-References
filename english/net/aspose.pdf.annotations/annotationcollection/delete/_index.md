@@ -19,7 +19,7 @@ public void Delete(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of annotation which shall be deleted. |
+| index | Int32 | Index of annotation which shall be deleted. |
 
 ### See Also
 
@@ -59,6 +59,7 @@ public void Delete(Annotation annotation)
 
 ### See Also
 
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

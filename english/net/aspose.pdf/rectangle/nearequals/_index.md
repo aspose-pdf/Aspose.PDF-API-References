@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf/rectangle/nearequals/"
 product_version: "26.9.0"
 ---
-## NearEquals([Rectangle](../../../aspose.pdf.drawing/rectangle/), double) {#nearequals}
+## Rectangle.NearEquals method
 
 Check if rectangles are near equal i.e. have near same (up to delta) position and sizes.
 
@@ -20,17 +20,15 @@ public bool NearEquals(Rectangle other, double delta)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | other | Rectangle | Rectangle which will be compared. |
-| delta | double | Value of comparation tollerance. |
+| delta | Double | Value of comparation tollerance. |
 
 ### Return Value
-
-bool
 
 True if rectangles are eqals, false otherwise.
 
 ### See Also
 
-* class [Rectangle](../)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

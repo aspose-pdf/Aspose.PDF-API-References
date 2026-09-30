@@ -30,7 +30,6 @@ public class StructureTextState
 | [ForegroundColor](./foregroundcolor/) { get; set; } | Gets or sets foreground color of the text. |
 | [HorizontalScaling](./horizontalscaling/) { get; set; } | Gets or sets horizontal scaling of the text. |
 | [LineSpacing](./linespacing/) { get; set; } | Gets or sets line spacing of the text. |
-| [MarginInfo](./margininfo/) { get; set; } | Gets or sets margin for block structure element. |
 | [StrikeOut](./strikeout/) { get; set; } | Gets or sets strikeout for the text. |
 | [Subscript](./subscript/) { get; set; } | Gets or sets subscript of the text. |
 | [Superscript](./superscript/) { get; set; } | Gets or sets superscript of the text. |

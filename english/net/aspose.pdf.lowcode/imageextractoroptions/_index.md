@@ -22,20 +22,20 @@ public sealed class ImageExtractorOptions : PdfExtractorOptions
 
 | Name | Description |
 | --- | --- |
-| [ImageExtractorOptions](./imageextractoroptions/#constructor) | The default constructor. |
+| [ImageExtractorOptions](./imageextractoroptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Inputs](../../aspose.pdf.lowcode/pdfextractoroptions/inputs/) { get; } | Returns PdfExtractor plugin data collection. *(Inherited from PdfExtractorOptions)* |
-| [OperationName](./operationname/) { get; } | Returns name of the operation. |
+| [Inputs](../../aspose.pdf.lowcode/pdfextractoroptions/inputs/) { get; } | Returns PdfExtractor plugin data collection. |
+| override [OperationName](./operationname/) { get; } | Returns name of the operation. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.lowcode/pdfextractoroptions/addinput/)(*IDataSource*) | Adds new data source to the PdfExtractor plugin data collection. *(Inherited from PdfExtractorOptions)* |
+| [AddInput](../../aspose.pdf.lowcode/pdfextractoroptions/addinput/)(IDataSource) | Adds new data source to the PdfExtractor plugin data collection. |
 
 ## Remarks
 

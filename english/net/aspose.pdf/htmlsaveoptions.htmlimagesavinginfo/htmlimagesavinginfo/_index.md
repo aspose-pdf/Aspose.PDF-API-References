@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/htmlimagesavinginfo/"
 product_version: "26.9.0"
 ---
-## HtmlSaveOptions.HtmlImageSavingInfo() {#constructor}
+## HtmlImageSavingInfo constructor
 
 The default constructor.
 
 ```csharp
-public HtmlSaveOptions.HtmlImageSavingInfo()
+public HtmlImageSavingInfo()
 ```
 
 ### See Also

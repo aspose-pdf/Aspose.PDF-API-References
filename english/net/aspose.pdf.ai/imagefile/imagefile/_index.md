@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/imagefile/imagefile/"
 product_version: "26.9.0"
 ---
-## ImageFile() {#constructor}
+## ImageFile constructor
 
 The default constructor.
 

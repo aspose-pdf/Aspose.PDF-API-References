@@ -17,6 +17,10 @@ Indicates whether the result is a string.
 public bool IsString { get; }
 ```
 
+### Return Value
+
+`true` if the result is a string; otherwise `false`.
+
 ### See Also
 
 * class [StreamResult](../)

@@ -75,13 +75,13 @@ The example demonstrates how to convert the PDF document in a PDF/A format (PDF/
 
 | Name | Description |
 | --- | --- |
-| [PdfAConverter](./pdfaconverter/#constructor) | The default constructor. |
+| [PdfAConverter](./pdfaconverter/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(*IPluginOptions*) | Begins a PDF/A conversion or validation process with given options. |
+| [Process](./process/)(IPluginOptions) | Begins a PDF/A conversion or validation process with given options. |
 
 ### See Also
 

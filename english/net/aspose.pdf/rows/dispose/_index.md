@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf/rows/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## Rows.Dispose method
 
 Dispose.
 

@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/pagedate.monthcomponent/getformat/"
 product_version: "26.9.0"
 ---
-## GetFormat() {#getformat}
+## PageDate.MonthComponent.GetFormat method
 
 Gets the format string for the month component.
 
@@ -18,8 +18,6 @@ public string GetFormat()
 ```
 
 ### Return Value
-
-string
 
 A string representing the month format.
 

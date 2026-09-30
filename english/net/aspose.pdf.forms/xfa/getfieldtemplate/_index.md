@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.forms/xfa/getfieldtemplate/"
 product_version: "26.9.0"
 ---
-## GetFieldTemplate(string) {#getfieldtemplate}
+## XFA.GetFieldTemplate method
 
 Returns XML node of XFA field tempalte.
 
@@ -19,11 +19,9 @@ public XmlNode GetFieldTemplate(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | Path of the field which template must be found. |
+| fieldName | String | Path of the field which template must be found. |
 
 ### Return Value
-
-XmlNode
 
 XL node with field template.
 

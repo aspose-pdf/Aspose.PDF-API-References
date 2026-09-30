@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.ai/openaiclient.builder/build/"
 product_version: "26.9.0"
 ---
-## Build() {#build}
+## OpenAIClient.Builder.Build method
 
 Builds and returns an instance of [`OpenAIClient`](../../../aspose.pdf.ai/openaiclient/) with the configured options.
 
@@ -18,8 +18,6 @@ public OpenAIClient Build()
 ```
 
 ### Return Value
-
-[OpenAIClient](../../../aspose.pdf.ai/openaiclient/)
 
 An instance of [`OpenAIClient`](../../../aspose.pdf.ai/openaiclient/).
 

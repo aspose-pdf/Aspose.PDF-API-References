@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/javascriptaction/javascriptaction/"
 product_version: "26.9.0"
 ---
-## JavascriptAction(string) {#constructor}
+## JavascriptAction constructor
 
 Constructor.
 
@@ -19,7 +19,7 @@ public JavascriptAction(string javaScript)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| javaScript | string | JavaScript code. |
+| javaScript | String | JavaScript code. |
 
 ### See Also
 

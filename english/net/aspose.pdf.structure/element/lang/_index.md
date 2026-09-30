@@ -16,7 +16,7 @@ product_version: "26.9.0"
  elements or marked content.
 
 ```csharp
-public string Lang { get; set; }
+public virtual string Lang { get; set; }
 ```
 
 ### See Also

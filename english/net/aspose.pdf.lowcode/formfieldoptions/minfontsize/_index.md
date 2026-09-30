@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets/sets the value to determine property MinFontSize for created/modified field (if will be set).
 
 ```csharp
-public Nullable<double> MinFontSize { get; set; }
+public double? MinFontSize { get; set; }
 ```
 
 ### See Also

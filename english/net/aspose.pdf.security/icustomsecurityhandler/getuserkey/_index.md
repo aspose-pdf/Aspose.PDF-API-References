@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.security/icustomsecurityhandler/getuserkey/"
 product_version: "26.9.0"
 ---
-## GetUserKey(string) {#getuserkey}
+## ICustomSecurityHandler.GetUserKey method
 
 Creates an encoded array based on the user's password.
  This value is typically used to check if the password belongs to the user or owner, and to get the encryption key.
@@ -22,11 +22,9 @@ public byte[] GetUserKey(string userPassword)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| userPassword | string | The user password. |
+| userPassword | String | The user password. |
 
 ### Return Value
-
-byte[]
 
 The array of user key.
 

@@ -9,7 +9,7 @@ weight: 240
 url: "/net/aspose.pdf/document/processparagraphs/"
 product_version: "26.9.0"
 ---
-## ProcessParagraphs() {#processparagraphs}
+## Document.ProcessParagraphs method
 
 Process paragraphs for generator.
 

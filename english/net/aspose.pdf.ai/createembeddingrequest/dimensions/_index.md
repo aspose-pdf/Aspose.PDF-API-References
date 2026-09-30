@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the number of dimensions the resulting output embeddings should have. Only supported in text-embedding-3 and later models.
 
 ```csharp
-public Nullable<int> Dimensions { get; set; }
+public int? Dimensions { get; set; }
 ```
 
 ### See Also

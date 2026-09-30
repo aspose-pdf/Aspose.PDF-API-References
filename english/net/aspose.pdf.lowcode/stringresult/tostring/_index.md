@@ -9,17 +9,15 @@ weight: 30
 url: "/net/aspose.pdf.lowcode/stringresult/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## StringResult.ToString method
 
 Tries to convert the result to a string.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 A string representing the text content if the result is string; otherwise returns base.ToString().
 

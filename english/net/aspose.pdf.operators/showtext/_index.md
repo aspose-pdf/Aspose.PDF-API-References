@@ -22,26 +22,26 @@ public class ShowText : TextShowOperator
 
 | Name | Description |
 | --- | --- |
-| [ShowText](./showtext/#constructor) | Initializes Tj operator. |
-| [ShowText](./showtext/#constructor_1)(*string*) | Initializes Tj operator. |
-| [ShowText](./showtext/#constructor_2)(*int, string*) | Initializes Tj opearor. |
-| [ShowText](./showtext/#constructor_3)(*string, [Font](../../aspose.pdf.text/font/)*) | Initializes Tj opearor. |
+| [ShowText](./showtext/#constructor)() | Initializes Tj operator. |
+| [ShowText](./showtext/#constructor_1)(string) | Initializes Tj operator. |
+| [ShowText](./showtext/#constructor_2)(int, string) | Initializes Tj opearor. |
+| [ShowText](./showtext/#constructor_3)(string, Font) | Initializes Tj opearor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. *(Inherited from Operator)* |
-| [Text](./text/) { get; set; } | Text of operator. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
+| override [Text](./text/) { get; set; } | Text of operator. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Accept](./accept/)(*IOperatorSelector*) | Accepts visitor object to process operator. |
-| [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(*Operator*) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc). *(Inherited from Operator)* |
-| [ToString](./tostring/) | Produces text code of operator. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(*Operator*) | Compares this instance with the given object. *(Inherited from Operator)* |
+| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [ToString](./tostring/)() | Produces text code of operator. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 

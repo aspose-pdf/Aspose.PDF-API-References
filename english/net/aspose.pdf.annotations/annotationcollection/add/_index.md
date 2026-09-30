@@ -20,10 +20,11 @@ public void Add(Annotation annotation, bool considerRotation)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | annotation | Annotation | Annotation which shall be added. |
-| considerRotation | bool | If true and if page is rotated then annotation position will be recaculated accroding to page rotation. |
+| considerRotation | Boolean | If true and if page is rotated then annotation position will be recaculated accroding to page rotation. |
 
 ### See Also
 
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -44,6 +45,7 @@ public void Add(Annotation annotation)
 
 ### See Also
 
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

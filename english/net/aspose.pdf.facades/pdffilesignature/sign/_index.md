@@ -5,7 +5,7 @@ articleTitle: "Sign"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileSignature method. Make a signature on the pdf document."
 type: docs
-weight: 100
+weight: 70
 url: "/net/aspose.pdf.facades/pdffilesignature/sign/"
 product_version: "26.9.0"
 ---
@@ -14,16 +14,17 @@ product_version: "26.9.0"
 Make a signature on the pdf document.
 
 ```csharp
-public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, Rectangle annotRect)
+public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
+    Rectangle annotRect)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | int | The page number on which signature is made. |
-| SigReason | string | The reason of signature. |
-| SigContact | string | The contact of signature. |
-| SigLocation | string | The location of signature. |
-| visible | bool | The visiblity of signature. |
+| page | Int32 | The page number on which signature is made. |
+| SigReason | String | The reason of signature. |
+| SigContact | String | The contact of signature. |
+| SigLocation | String | The location of signature. |
+| visible | Boolean | The visiblity of signature. |
 | annotRect | Rectangle | The rect of signature. |
 
 ## Examples
@@ -52,6 +53,7 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -63,16 +65,17 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 Sign the document with the given type signature.
 
 ```csharp
-public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, Rectangle annotRect, Signature sig)
+public void Sign(int page, string SigReason, string SigContact, string SigLocation, bool visible, 
+    Rectangle annotRect, Signature sig)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | int | The page number on which signature is made. |
-| SigReason | string | The reason of signature. |
-| SigContact | string | The contact of signature. |
-| SigLocation | string | The location of signature. |
-| visible | bool | The visiblity of signature. |
+| page | Int32 | The page number on which signature is made. |
+| SigReason | String | The reason of signature. |
+| SigContact | String | The contact of signature. |
+| SigLocation | String | The location of signature. |
+| visible | Boolean | The visiblity of signature. |
 | annotRect | Rectangle | The rect of signature. |
 | sig | Signature | The type of the signature, could be PKCS1, PKCS7 and PKCS7Detached. |
 
@@ -101,6 +104,8 @@ public void Sign(int page, string SigReason, string SigContact, string SigLocati
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Signature](../../../aspose.pdf.lowcode/signature/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -117,8 +122,8 @@ public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | int | The page number on which signature is made. |
-| visible | bool | The visiblity of signature. |
+| page | Int32 | The page number on which signature is made. |
+| visible | Boolean | The visiblity of signature. |
 | annotRect | Rectangle | The rect of signature. |
 | sig | Signature | The type of the signature, could be PKCS1, PKCS7 and PKCS7Detached.
  Such data as signature reason, contact and location must be already present in this object (see corresponding properties). |
@@ -155,6 +160,8 @@ public void Sign(int page, bool visible, Rectangle annotRect, Signature sig)
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Signature](../../../aspose.pdf.lowcode/signature/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -169,15 +176,16 @@ Sign the document with the given type signature which is placed in already prese
  corresponding page and rectangle are taken from signature field which is found by signature name (see SigName parameter).
 
 ```csharp
-public void Sign(string SigName, string SigReason, string SigContact, string SigLocation, Signature sig)
+public void Sign(string SigName, string SigReason, string SigContact, string SigLocation, 
+    Signature sig)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| SigName | string | The name of the signature field. |
-| SigReason | string | The reason of signature. |
-| SigContact | string | The contact of signature. |
-| SigLocation | string | The location of signature. |
+| SigName | String | The name of the signature field. |
+| SigReason | String | The reason of signature. |
+| SigContact | String | The contact of signature. |
+| SigLocation | String | The location of signature. |
 | sig | Signature | The type of the signature, could be PKCS1, PKCS7 and PKCS7Detached. |
 
 ## Examples
@@ -204,6 +212,7 @@ public void Sign(string SigName, string SigReason, string SigContact, string Sig
 
 ### See Also
 
+* class [Signature](../../../aspose.pdf.lowcode/signature/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -217,17 +226,18 @@ Sign the document with the given type signature which is placed in already prese
  signature field which is found by signature name (see SigName parameter).
 
 ```csharp
-public void Sign(int page, string SigName, string SigReason, string SigContact, string SigLocation, bool visible, Rectangle annotRect, Signature sig)
+public void Sign(int page, string SigName, string SigReason, string SigContact, string SigLocation, 
+    bool visible, Rectangle annotRect, Signature sig)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | int | The page number on which signature is made. |
-| SigName | string | The name of the signature field. |
-| SigReason | string | The reason of signature. |
-| SigContact | string | The contact of signature. |
-| SigLocation | string | The location of signature. |
-| visible | bool | The visiblity of signature. |
+| page | Int32 | The page number on which signature is made. |
+| SigName | String | The name of the signature field. |
+| SigReason | String | The reason of signature. |
+| SigContact | String | The contact of signature. |
+| SigLocation | String | The location of signature. |
+| visible | Boolean | The visiblity of signature. |
 | annotRect | Rectangle | The rect of signature. |
 | sig | Signature | The type of the signature, could be PKCS1, PKCS7 and PKCS7Detached. |
 
@@ -256,6 +266,8 @@ public void Sign(int page, string SigName, string SigReason, string SigContact, 
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Signature](../../../aspose.pdf.lowcode/signature/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -276,7 +288,7 @@ public void Sign(string SigName, Signature sig)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| SigName | string | The name of the signature field. |
+| SigName | String | The name of the signature field. |
 | sig | Signature | The type of the signature, could be PKCS1 (Pkcs1Signature object), PKCS7 and PKCS7 detached (Pkcs7Signature object) |
 
 ## Examples
@@ -309,6 +321,7 @@ public void Sign(string SigName, Signature sig)
 
 ### See Also
 
+* class [Signature](../../../aspose.pdf.lowcode/signature/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

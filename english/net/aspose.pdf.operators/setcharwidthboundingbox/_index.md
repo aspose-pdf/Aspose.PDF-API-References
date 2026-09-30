@@ -22,13 +22,13 @@ public class SetCharWidthBoundingBox : Operator
 
 | Name | Description |
 | --- | --- |
-| [SetCharWidthBoundingBox](./setcharwidthboundingbox/#constructor)(*double, double, double, double, double, double*) | Initializes SetCharWidthBoundingBox operator. |
+| [SetCharWidthBoundingBox](./setcharwidthboundingbox/)(double, double, double, double, double, double) | Initializes SetCharWidthBoundingBox operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. *(Inherited from Operator)* |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
 | [Llx](./llx/) { get; } | Lower-left horizontal coordinate of bounding rectangle. |
 | [Lly](./lly/) { get; } | Lower-left vertical coordinate of bounding rectangle. |
 | [Urx](./urx/) { get; } | Upper-right horizontal coordinate of bounding rectangle. |
@@ -40,10 +40,10 @@ public class SetCharWidthBoundingBox : Operator
 
 | Name | Description |
 | --- | --- |
-| [Accept](./accept/)(*IOperatorSelector*) | Accepts visitor object to process operator. |
-| [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(*Operator*) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc). *(Inherited from Operator)* |
-| [ToString](./tostring/) | Returns text representation of operator. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(*Operator*) | Compares this instance with the given object. *(Inherited from Operator)* |
+| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [ToString](./tostring/)() | Returns text representation of operator. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/logprobs/logprobs/"
 product_version: "26.9.0"
 ---
-## Logprobs() {#constructor}
+## Logprobs constructor
 
 The default constructor.
 

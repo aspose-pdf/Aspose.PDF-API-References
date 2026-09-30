@@ -22,21 +22,21 @@ public sealed class JavascriptAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [JavascriptAction](./javascriptaction/#constructor)(*string*) | Constructor. |
+| [JavascriptAction](./javascriptaction/)(string) | Constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. *(Inherited from PdfAction)* |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 | [Script](./script/) { get; set; } | Gets or sets javascript code. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/) | Gets string for ECMAScript Action. *(Inherited from PdfAction)* |
-| [ToString](../../aspose.pdf.annotations/iappointment/tostring/) | Returns string representation. *(Inherited from IAppointment)* |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Returns string representation |
 
 ### See Also
 

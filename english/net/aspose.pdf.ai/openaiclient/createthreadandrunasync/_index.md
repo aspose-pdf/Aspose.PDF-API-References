@@ -9,27 +9,27 @@ weight: 460
 url: "/net/aspose.pdf.ai/openaiclient/createthreadandrunasync/"
 product_version: "26.9.0"
 ---
-## CreateThreadAndRunAsync([RunThreadCreateRequest](../../../aspose.pdf.ai/runthreadcreaterequest/), Nullable<CancellationToken>) {#createthreadandrunasync}
+## OpenAIClient.CreateThreadAndRunAsync method
 
 Creates a thread and a run within it asynchronously.
 
 ```csharp
-public Task<RunResponse> CreateThreadAndRunAsync(RunThreadCreateRequest runCreateRequest, Nullable<CancellationToken> cancellationToken)
+public Task<RunResponse> CreateThreadAndRunAsync(RunThreadCreateRequest runCreateRequest, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | runCreateRequest | RunThreadCreateRequest | The request details for creating the thread and run. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[RunResponse](../../../aspose.pdf.ai/runresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the response from the thread and run creation.
 
 ### See Also
 
+* class [RunThreadCreateRequest](../../../aspose.pdf.ai/runthreadcreaterequest/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

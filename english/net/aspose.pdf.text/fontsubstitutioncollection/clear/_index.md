@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## FontSubstitutionCollection.Clear method
 
 Clears the font substitution collection.
 

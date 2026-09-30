@@ -9,7 +9,7 @@ weight: 140
 url: "/net/aspose.pdf.tagged/itaggedcontent/createparagraphelement/"
 product_version: "26.9.0"
 ---
-## CreateParagraphElement() {#createparagraphelement}
+## ITaggedContent.CreateParagraphElement method
 
 Creates [`ParagraphElement`](../../../aspose.pdf.logicalstructure/paragraphelement/).
 
@@ -18,8 +18,6 @@ public ParagraphElement CreateParagraphElement()
 ```
 
 ### Return Value
-
-[ParagraphElement](../../../aspose.pdf.logicalstructure/paragraphelement/)
 
 Created structure element.
 

@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf/artifact/setpdfpage/"
 product_version: "26.9.0"
 ---
-## SetPdfPage([Page](../../../aspose.pdf/page/)) {#setpdfpage}
+## Artifact.SetPdfPage method
 
 Sets PDF page which is placed on the document page as artifact.
 
@@ -23,6 +23,7 @@ public void SetPdfPage(Page page)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

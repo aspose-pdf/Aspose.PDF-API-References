@@ -9,22 +9,21 @@ weight: 330
 url: "/net/aspose.pdf.ai/iopenaiclient/getfileasync/"
 product_version: "26.9.0"
 ---
-## GetFileAsync(string, Nullable<CancellationToken>) {#getfileasync}
+## IOpenAIClient.GetFileAsync method
 
 Retrieves details of a specific file asynchronously.
 
 ```csharp
-public Task<FileResponse> GetFileAsync(string fileId, Nullable<CancellationToken> cancellationToken)
+public Task<FileResponse> GetFileAsync(string fileId, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileId | string | The ID of the file to retrieve. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| fileId | String | The ID of the file to retrieve. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[FileResponse](../../../aspose.pdf.ai/fileresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the details of the file.
 

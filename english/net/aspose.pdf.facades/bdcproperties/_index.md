@@ -5,7 +5,7 @@ articleTitle: "BDCProperties"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.BDCProperties class. BDC operator properties."
 type: docs
-weight: 60
+weight: 50
 url: "/net/aspose.pdf.facades/bdcproperties/"
 keywords: "BDCProperties, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,8 +22,8 @@ public class BDCProperties
 
 | Name | Description |
 | --- | --- |
-| [BDCProperties](./bdcproperties/#constructor)(*string, string*) | Constructor for properties of BDC operator. |
-| [BDCProperties](./bdcproperties/#constructor_1)(*Nullable<int>, string, string*) | Constructor for properties of BDC operator. |
+| [BDCProperties](./bdcproperties/#constructor)(string, string) | Constructor for properties of BDC operator. |
+| [BDCProperties](./bdcproperties/#constructor_1)(int?, string, string) | Constructor for properties of BDC operator. |
 
 ## Properties
 

@@ -22,14 +22,14 @@ public class ImageExtractor : PdfExtractor
 
 | Name | Description |
 | --- | --- |
-| [ImageExtractor](./imageextractor/#constructor) | The default constructor. |
+| [ImageExtractor](./imageextractor/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.pdf.lowcode/pdfextractor/dispose/) | Implementation of IDisposable. Actually, it is not necessary for PdfExtractor. *(Inherited from PdfExtractor)* |
-| [Process](../../aspose.pdf.lowcode/pdfextractor/process/)(*IPluginOptions*) | Starts PdfExtractor processing with the specified parameters. *(Inherited from PdfExtractor)* |
+| [Dispose](../../aspose.pdf.lowcode/pdfextractor/dispose/)() | Implementation of IDisposable. Actually, it is not necessary for PdfExtractor. |
+| [Process](../../aspose.pdf.lowcode/pdfextractor/process/)(IPluginOptions) | Starts PdfExtractor processing with the specified parameters. |
 
 ## Remarks
 

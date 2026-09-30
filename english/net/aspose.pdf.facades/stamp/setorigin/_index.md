@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf.facades/stamp/setorigin/"
 product_version: "26.9.0"
 ---
-## SetOrigin(float, float) {#setorigin}
+## Stamp.SetOrigin method
 
 Sets position on page where stamp will be placed.
 
@@ -19,8 +19,8 @@ public void SetOrigin(float originX, float originY)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| originX | float | X coordinate of the stamp. |
-| originY | float | Y coordinate of the stamp. |
+| originX | Single | X coordinate of the stamp. |
+| originY | Single | Y coordinate of the stamp. |
 
 ### See Also
 

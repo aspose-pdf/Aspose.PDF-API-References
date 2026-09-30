@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf.forms/signaturefield/extractcertificate/"
 product_version: "26.9.0"
 ---
-## ExtractCertificate() {#extractcertificate}
+## SignatureField.ExtractCertificate method
 
 Extracts the single X.509 certificate in DER format as a stream.
 
@@ -18,8 +18,6 @@ public Stream ExtractCertificate()
 ```
 
 ### Return Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
 
 If certificate was found returns X.509 single certificate; otherwise, null.
 

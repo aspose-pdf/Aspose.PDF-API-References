@@ -14,13 +14,12 @@ product_version: "26.9.0"
 A4 size (297x210 mm).
 
 ```csharp
-public PageSize A4 { get; }
+public static PageSize A4 { get; }
 ```
 
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

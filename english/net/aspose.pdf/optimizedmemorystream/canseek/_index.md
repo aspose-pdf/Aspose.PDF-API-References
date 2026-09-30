@@ -14,8 +14,12 @@ product_version: "26.9.0"
 When overridden in a derived class, gets a value indicating whether the current stream supports seeking.
 
 ```csharp
-public bool CanSeek { get; }
+public override bool CanSeek { get; }
 ```
+
+### Return Value
+
+true if the stream supports seeking; otherwise, false.
 
 ### See Also
 

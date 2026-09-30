@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets superscript of the text.
 
 ```csharp
-public bool Superscript { get; set; }
+public virtual bool Superscript { get; set; }
 ```
 
 ### See Also

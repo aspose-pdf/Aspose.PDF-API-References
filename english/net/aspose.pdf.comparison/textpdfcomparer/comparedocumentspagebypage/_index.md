@@ -14,7 +14,8 @@ product_version: "26.9.0"
 Compares two documents page by page.
 
 ```csharp
-public List<List<DiffOperation>> CompareDocumentsPageByPage(Document document1, Document document2, ComparisonOptions options)
+public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document document1, 
+    Document document2, ComparisonOptions options)
 ```
 
 | Parameter | Type | Description |
@@ -25,12 +26,12 @@ public List<List<DiffOperation>> CompareDocumentsPageByPage(Document document1, 
 
 ### Return Value
 
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[DiffOperation](../../../aspose.pdf.comparison/diffoperation/)>>
-
 List of changes by page.
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
+* class [ComparisonOptions](../../../aspose.pdf.comparison/comparisonoptions/)
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
@@ -42,7 +43,8 @@ List of changes by page.
 Compares two documents page by page. The result is saved in a PDF file.
 
 ```csharp
-public List<List<DiffOperation>> CompareDocumentsPageByPage(Document document1, Document document2, ComparisonOptions options, string resultPdfDocumentPath)
+public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document document1, 
+    Document document2, ComparisonOptions options, string resultPdfDocumentPath)
 ```
 
 | Parameter | Type | Description |
@@ -50,16 +52,16 @@ public List<List<DiffOperation>> CompareDocumentsPageByPage(Document document1, 
 | document1 | Document | First document.. |
 | document2 | Document | Second document. |
 | options | ComparisonOptions | Comparison options. |
-| resultPdfDocumentPath | string | Path to the pdf file to save the comparison results. |
+| resultPdfDocumentPath | String | Path to the pdf file to save the comparison results. |
 
 ### Return Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[DiffOperation](../../../aspose.pdf.comparison/diffoperation/)>>
 
 List of changes by page.
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
+* class [ComparisonOptions](../../../aspose.pdf.comparison/comparisonoptions/)
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

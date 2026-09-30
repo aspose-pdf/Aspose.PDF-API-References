@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/merger/merger/"
 product_version: "26.9.0"
 ---
-## Merger() {#constructor}
+## Merger constructor
 
 The default constructor.
 

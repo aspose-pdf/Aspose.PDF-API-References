@@ -22,13 +22,13 @@ public sealed class Signature : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [Signature](./signature/#constructor) | The default constructor. |
+| [Signature](./signature/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(*IPluginOptions*) | Starts the [`Signature`](../../aspose.pdf.lowcode/signature/) processing with the specified parameters. |
+| [Process](./process/)(IPluginOptions) | Starts the [`Signature`](../../aspose.pdf.lowcode/signature/) processing with the specified parameters. |
 
 ### See Also
 

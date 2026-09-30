@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Sets or gets how many chat completion choices to generate for each input message.
 
 ```csharp
-public Nullable<int> NumberOfChoices { get; set; }
+public int? NumberOfChoices { get; set; }
 ```
 
 ### See Also

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/commonfigureannotation/commonfigureannotation/"
 product_version: "26.9.0"
 ---
-## CommonFigureAnnotation([Document](../../../aspose.pdf/document/)) {#constructor}
+## CommonFigureAnnotation constructor
 
 Constructor for using in Generator.
 
@@ -23,6 +23,7 @@ public CommonFigureAnnotation(Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [CommonFigureAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

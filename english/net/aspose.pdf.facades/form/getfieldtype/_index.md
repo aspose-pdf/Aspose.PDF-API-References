@@ -5,11 +5,11 @@ articleTitle: "GetFieldType"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Returns type of field."
 type: docs
-weight: 420
+weight: 350
 url: "/net/aspose.pdf.facades/form/getfieldtype/"
 product_version: "26.9.0"
 ---
-## GetFieldType(string) {#getfieldtype}
+## Form.GetFieldType method
 
 Returns type of field.
 
@@ -19,17 +19,15 @@ public FieldType GetFieldType(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | Field name. |
+| fieldName | String | Field name. |
 
 ### Return Value
-
-[FieldType](../../../aspose.pdf.facades/fieldtype/)
 
 Element of FileType enumeration corresponding to field type.
 
 ### See Also
 
-* class [FieldType](../../../aspose.pdf.facades/fieldtype/)
+* enum [FieldType](../../../aspose.pdf.facades/fieldtype/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.text/customfontsubstitutionbase/customfontsubstitutionbase/"
 product_version: "26.9.0"
 ---
-## CustomFontSubstitutionBase() {#constructor}
+## CustomFontSubstitutionBase constructor
 
 The default constructor.
 

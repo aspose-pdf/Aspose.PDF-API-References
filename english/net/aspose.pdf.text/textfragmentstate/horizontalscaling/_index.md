@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets horizontal scaling of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object.
 
 ```csharp
-public float HorizontalScaling { get; set; }
+public override float HorizontalScaling { get; set; }
 ```
 
 ### See Also

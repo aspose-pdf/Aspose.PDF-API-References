@@ -9,7 +9,7 @@ weight: 1070
 url: "/net/aspose.pdf/document/hasincrementalupdate/"
 product_version: "26.9.0"
 ---
-## HasIncrementalUpdate() {#hasincrementalupdate}
+## Document.HasIncrementalUpdate method
 
 Checks if the current PDF document has been saved with incremental updates.
 
@@ -18,8 +18,6 @@ public bool HasIncrementalUpdate()
 ```
 
 ### Return Value
-
-bool
 
 `true` if the PDF document has incremental updates; otherwise, `false`.
 

@@ -22,14 +22,14 @@ public class SetCMYKColor : SetColorOperator
 
 | Name | Description |
 | --- | --- |
-| [SetCMYKColor](./setcmykcolor/#constructor)(*double, double, double, double*) | Initializes operator. |
+| [SetCMYKColor](./setcmykcolor/)(double, double, double, double) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [C](./c/) { get; set; } | Gets or sets the cyan component. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. *(Inherited from Operator)* |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
 | [K](./k/) { get; set; } | Gets or sets the black component. |
 | [M](./m/) { get; set; } | Gets or sets the magenta component. |
 | [Y](./y/) { get; set; } | Gets or sets the yellow component. |
@@ -38,11 +38,11 @@ public class SetCMYKColor : SetColorOperator
 
 | Name | Description |
 | --- | --- |
-| [Accept](./accept/)(*IOperatorSelector*) | Accepts visitor object to process operator. |
-| [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(*Operator*) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc). *(Inherited from Operator)* |
-| [ToString](../../aspose.pdf/operator/tostring/) | Returns text of operator and its parameters. *(Inherited from Operator)* |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(*Operator*) | Compares this instance with the given object. *(Inherited from Operator)* |
-| [getColor](./getcolor/) | Returns color. |
+| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
+| override [getColor](./getcolor/)() | Returns color. |
 
 ### See Also
 

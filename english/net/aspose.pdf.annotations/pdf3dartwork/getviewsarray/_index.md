@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.annotations/pdf3dartwork/getviewsarray/"
 product_version: "26.9.0"
 ---
-## GetViewsArray() {#getviewsarray}
+## PDF3DArtwork.GetViewsArray method
 
 Gets the views array.
 
@@ -18,8 +18,6 @@ public PDF3DView[] GetViewsArray()
 ```
 
 ### Return Value
-
-[PDF3DView](../../../aspose.pdf.annotations/pdf3dview/)[]
 
 Array of views.
 

@@ -15,7 +15,7 @@ product_version: "26.9.0"
 Represents font substitution strategies collection.
 
 ```csharp
-public sealed class FontSubstitutionCollection : IEnumerable
+public sealed class FontSubstitutionCollection : ICollection<FontSubstitution>
 ```
 
 ## Properties
@@ -31,12 +31,12 @@ public sealed class FontSubstitutionCollection : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*FontSubstitution*) | Adds new font substitution object to the collection. |
-| [Clear](./clear/) | Clears the font substitution collection. |
-| [Contains](./contains/)(*FontSubstitution*) | Determines whether an element is in the collection. |
-| [CopyTo](./copyto/)(*FontSubstitution[], int*) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array. |
-| [GetEnumerator](./getenumerator/) | Returns an enumerator for the entire collection. |
-| [Remove](./remove/)(*FontSubstitution*) | Deletes the font substitution element. |
+| [Add](./add/)(FontSubstitution) | Adds new font substitution object to the collection. |
+| [Clear](./clear/)() | Clears the font substitution collection. |
+| [Contains](./contains/)(FontSubstitution) | Determines whether an element is in the collection. |
+| [CopyTo](./copyto/)(FontSubstitution[], int) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array |
+| [GetEnumerator](./getenumerator/)() | Returns an enumerator for the entire collection. |
+| [Remove](./remove/)(FontSubstitution) | Deletes the font substitution element. |
 
 ### See Also
 

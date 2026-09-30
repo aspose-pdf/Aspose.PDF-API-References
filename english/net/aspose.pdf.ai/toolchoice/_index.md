@@ -15,14 +15,14 @@ product_version: "26.9.0"
 Represents the ToolChoice, which can be either a string value or an object value.
 
 ```csharp
-public class ToolChoice
+public class ToolChoice : IStringOrObject<ObjectType>
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [ToolChoice](./toolchoice/#constructor) | The default constructor. |
+| [ToolChoice](./toolchoice/)() | The default constructor. |
 
 ## Properties
 
@@ -32,6 +32,12 @@ public class ToolChoice
 | [IsStringValue](./isstringvalue/) { get; } | Gets a value indicating whether the ToolChoice is a string value. |
 | [ObjectValue](./objectvalue/) { get; set; } | Gets or sets the object value of the ToolChoice. |
 | [StringValue](./stringvalue/) { get; set; } | Gets or sets the string value of the ToolChoice. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| class [ObjectType](../../aspose.pdf.ai/toolchoice.objecttype) | Represents an object value in the ToolChoice. |
 
 ### See Also
 

@@ -19,7 +19,7 @@ public TeXFragment(string text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string | The fragment text |
+| text | String | The fragment text |
 
 ### See Also
 
@@ -39,8 +39,8 @@ public TeXFragment(string text, bool removeIndents)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string | The fragment text |
-| removeIndents | bool | Determines whether not to make indents while typesetting LaTeX fragment |
+| text | String | The fragment text |
+| removeIndents | Boolean | Determines whether not to make indents while typesetting LaTeX fragment |
 
 ### See Also
 

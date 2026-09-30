@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.vector/graphicsabsorber/graphicsabsorber/"
 product_version: "26.9.0"
 ---
-## GraphicsAbsorber() {#constructor}
+## GraphicsAbsorber constructor
 
 The default constructor.
 

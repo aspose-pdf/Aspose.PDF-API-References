@@ -22,14 +22,14 @@ public class VectorStoreModifyRequest
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreModifyRequest](./vectorstoremodifyrequest/#constructor) | The default constructor. |
+| [VectorStoreModifyRequest](./vectorstoremodifyrequest/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [ExpiresAfter](./expiresafter/) { get; set; } | Gets or sets the expiration policy for a vector store. |
-| [Metadata](./metadata/) { get; set; } | Gets or sets a set of 16 key-value pairs that can be attached to an object. This can be useful for storing. |
+| [Metadata](./metadata/) { get; set; } | Gets or sets a set of 16 key-value pairs that can be attached to an object. This can be useful for storing additional information about the object in a structured format. Keys can be a maximum of 64 characters long and values can be a maximum of 512 characters long. |
 | [Name](./name/) { get; set; } | Gets or sets the name of the vector store. |
 
 ### See Also

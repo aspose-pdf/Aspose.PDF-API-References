@@ -5,7 +5,7 @@ articleTitle: "AnalyzeFonts"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "RenderingOptions property. Replaces fonts as necessary to ensure all characters in the text can be displayed. The font substitution algorithm follows these s..."
 type: docs
-weight: 160
+weight: 140
 url: "/net/aspose.pdf/renderingoptions/analyzefonts/"
 product_version: "26.9.0"
 ---

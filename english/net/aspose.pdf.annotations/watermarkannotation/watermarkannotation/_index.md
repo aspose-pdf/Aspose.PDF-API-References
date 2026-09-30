@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/watermarkannotation/watermarkannotation/"
 product_version: "26.9.0"
 ---
-## WatermarkAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
+## WatermarkAnnotation constructor
 
 Constructor for Watermark annotation class.
 
@@ -24,6 +24,8 @@ public WatermarkAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -5,7 +5,7 @@ articleTitle: "PrintController"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.PrintController class. Represents print controller."
 type: docs
-weight: 2580
+weight: 2540
 url: "/net/aspose.pdf/printcontroller/"
 keywords: "PrintController, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public sealed class PrintController : PrintController, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [PrintController](./printcontroller/#constructor) | The default constructor. |
+| [PrintController](./printcontroller/)() | The default constructor. |
 
 ## Properties
 
@@ -34,11 +34,11 @@ public sealed class PrintController : PrintController, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/) | Dispose. |
-| [OnEndPage](./onendpage/)(*PrintDocument, PrintPageEventArgs*) | Fires on page end printing. |
-| [OnEndPrint](./onendprint/)(*PrintDocument, PrintEventArgs*) | Fires on page start printing. |
-| [OnStartPage](./onstartpage/)(*PrintDocument, PrintPageEventArgs*) | Fires on page start printing. |
-| [OnStartPrint](./onstartprint/)(*PrintDocument, PrintEventArgs*) | Fires on page start printing. |
+| [Dispose](./dispose/)() | Dispose. |
+| override [OnEndPage](./onendpage/)(PrintDocument, PrintPageEventArgs) | Fires on page end printing. |
+| override [OnEndPrint](./onendprint/)(PrintDocument, PrintEventArgs) | Fires on page start printing. |
+| override [OnStartPage](./onstartpage/)(PrintDocument, PrintPageEventArgs) | Fires on page start printing. |
+| override [OnStartPrint](./onstartprint/)(PrintDocument, PrintEventArgs) | Fires on page start printing. |
 
 ### See Also
 

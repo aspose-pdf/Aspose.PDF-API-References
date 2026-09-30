@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf.annotations/pdf3drendermode/getcreasevalue/"
 product_version: "26.9.0"
 ---
-## GetCreaseValue() {#getcreasevalue}
+## PDF3DRenderMode.GetCreaseValue method
 
 Gets the crease value.
 
@@ -18,8 +18,6 @@ public double GetCreaseValue()
 ```
 
 ### Return Value
-
-double
 
 System.Double.
 

@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Performs search on the specified page.
 
 ```csharp
-public void Visit(Page page)
+public override void Visit(Page page)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void Visit(Page page)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -34,7 +35,7 @@ public void Visit(Page page)
 Performs search on the specified document.
 
 ```csharp
-public void Visit(Document pdf)
+public override void Visit(Document pdf)
 ```
 
 | Parameter | Type | Description |
@@ -43,6 +44,7 @@ public void Visit(Document pdf)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -63,6 +65,7 @@ public void Visit(XForm xForm)
 
 ### See Also
 
+* class [XForm](../../../aspose.pdf/xform/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/table/table/"
 product_version: "26.9.0"
 ---
-## Table() {#constructor}
+## Table constructor
 
 The default constructor.
 

@@ -23,25 +23,25 @@ public class TableAbsorber
 
 | Name | Description |
 | --- | --- |
-| [TableAbsorber](./tableabsorber/#constructor) | Initializes a new instance of the [`TableAbsorber`](../../aspose.pdf.text/tableabsorber/). |
-| [TableAbsorber](./tableabsorber/#constructor_1)(*[TextSearchOptions](../../aspose.pdf.text/textsearchoptions/)*) | Initializes a new instance of the [`TableAbsorber`](../../aspose.pdf.text/tableabsorber/) with text search options. |
+| [TableAbsorber](./tableabsorber/#constructor)() | Initializes a new instance of the [`TableAbsorber`](../../aspose.pdf.text/tableabsorber/). |
+| [TableAbsorber](./tableabsorber/#constructor_1)(TextSearchOptions) | Initializes a new instance of the [`TableAbsorber`](../../aspose.pdf.text/tableabsorber/) with text search options. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [TableList](./tablelist/) { get; } | Returns readonly IList containing tables that were found. |
-| [TextSearchOptions](./textsearchoptions/) { get; set; } | Gets or sets text search options. |
-| [UseFlowEngine](./useflowengine/) { get; set; } | * Enable an alternative table recognition engine that is superior in numerous scenarios and is capable of. |
+| virtual [TableList](./tablelist/) { get; } | Returns readonly IList containing tables that were found |
+| virtual [TextSearchOptions](./textsearchoptions/) { get; set; } | Gets or sets text search options. |
+| [UseFlowEngine](./useflowengine/) { get; set; } | * Enable an alternative table recognition engine that is superior in numerous scenarios and is capable of recognizing tables without borders. Doesn't support editing tables and getting text styles yet. Default value is false; |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Remove](./remove/)(*AbsorbedTable*) | Removes an [`AbsorbedTable`](../../aspose.pdf.text/absorbedtable/) from the page. |
-| [Replace](./replace/)(*Page, AbsorbedTable, Table*) | Replaces an [`AbsorbedTable`](../../aspose.pdf.text/absorbedtable/) with [`Table`](../../aspose.pdf/table/) on the page. |
-| [Visit](./visit/)(*Page*) | Extracts tables on the specified page. |
-| [Visit](./visit/)(*Document*) | Extracts tables in the specified document. |
+| [Remove](./remove/)(AbsorbedTable) | Removes an [`AbsorbedTable`](../../aspose.pdf.text/absorbedtable/) from the page. |
+| [Replace](./replace/)(Page, AbsorbedTable, Table) | Replaces an [`AbsorbedTable`](../../aspose.pdf.text/absorbedtable/) with [`Table`](../../aspose.pdf/table/) on the page. |
+| [Visit](./visit/)(Document) | Extracts tables in the specified document. |
+| virtual [Visit](./visit/)(Page) | Extracts tables on the specified page |
 
 ### See Also
 

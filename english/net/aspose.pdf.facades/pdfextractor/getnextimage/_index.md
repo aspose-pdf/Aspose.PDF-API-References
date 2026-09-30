@@ -19,11 +19,9 @@ public bool GetNextImage(string outputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | File where image will be stored |
+| outputFile | String | File where image will be stored |
 
 ### Return Value
-
-bool
 
 True is image is successfully extracted
 
@@ -45,17 +43,16 @@ public bool GetNextImage(string outputFile, ImageFormat format)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | File where image will be stored |
+| outputFile | String | File where image will be stored |
 | format | ImageFormat | The format of the image. |
 
 ### Return Value
-
-bool
 
 True is image is successfully extracted
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -77,12 +74,11 @@ public bool GetNextImage(Stream outputStream, ImageFormat format)
 
 ### Return Value
 
-bool
-
 True in case the image is successfully extracted.
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -102,8 +98,6 @@ public bool GetNextImage(Stream outputStream)
 | outputStream | Stream | Stream where image data will be saved |
 
 ### Return Value
-
-bool
 
 True in case the image is successfully extracted.
 

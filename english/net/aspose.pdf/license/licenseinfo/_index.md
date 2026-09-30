@@ -5,7 +5,7 @@ articleTitle: "LicenseInfo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "License property. Gets the current license information."
 type: docs
-weight: 60
+weight: 50
 url: "/net/aspose.pdf/license/licenseinfo/"
 product_version: "26.9.0"
 ---

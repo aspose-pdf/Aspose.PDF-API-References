@@ -22,17 +22,17 @@ public sealed class CgmLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [CgmLoadOptions](./cgmloadoptions/#constructor) | Creates default load options for converting CGM file into pdf document. |
-| [CgmLoadOptions](./cgmloadoptions/#constructor_1)(*SizeF*) | Creates load options with defined `!:pageSize`. |
+| [CgmLoadOptions](./cgmloadoptions/#constructor)() | Creates default load options for converting CGM file into pdf document. Default pdf page size - A4 300dpi 2480 X 3508. |
+| [CgmLoadOptions](./cgmloadoptions/#constructor_1)(SizeF) | Creates load options with defined `!:pageSize`. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. *(Inherited from LoadOptions)* |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../../aspose.pdf/loadoptions/) describes. *(Inherited from LoadOptions)* |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When , allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default . |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../../aspose.pdf/loadoptions/) describes. |
 | [PageSize](./pagesize/) { get; } | Gets or sets output page size for import. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. *(Inherited from LoadOptions)* |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
 ### See Also
 

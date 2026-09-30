@@ -9,12 +9,12 @@ weight: 40
 url: "/net/aspose.pdf.forms/iconfit/scalingmodetoname/"
 product_version: "26.9.0"
 ---
-## ScalingModeToName([ScalingMode](../../../aspose.pdf.forms/scalingmode/)) {#scalingmodetoname}
+## IconFit.ScalingModeToName method
 
 Converts scaling mode object into name.
 
 ```csharp
-public string ScalingModeToName(ScalingMode mode)
+public static string ScalingModeToName(ScalingMode mode)
 ```
 
 | Parameter | Type | Description |
@@ -23,12 +23,11 @@ public string ScalingModeToName(ScalingMode mode)
 
 ### Return Value
 
-string
-
 Scaling mode name.
 
 ### See Also
 
+* enum [ScalingMode](../../../aspose.pdf.forms/scalingmode/)
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

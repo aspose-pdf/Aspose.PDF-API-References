@@ -22,14 +22,14 @@ public class AIClientException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [AIClientException](./aiclientexception/#constructor)(*string*) | Initializes a new instance of the [`AIClientException`](../../aspose.pdf.ai/aiclientexception/) class with a specified error message. |
-| [AIClientException](./aiclientexception/#constructor_1)(*string, Exception*) | Initializes a new instance of the [`AIClientException`](../../aspose.pdf.ai/aiclientexception/) class with a specified error message. |
+| [AIClientException](./aiclientexception/#constructor)(string) | Initializes a new instance of the [`AIClientException`](../../aspose.pdf.ai/aiclientexception/) class with a specified error message. |
+| [AIClientException](./aiclientexception/#constructor_1)(string, Exception) | Initializes a new instance of the [`AIClientException`](../../aspose.pdf.ai/aiclientexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(*CrashReportOptions*) | Forms crash report based on Exception HTML format. *(Inherited from PdfException)* |
+| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
 
 ### See Also
 

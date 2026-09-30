@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.annotations/actioncollection/copyto/"
 product_version: "26.9.0"
 ---
-## CopyTo(PdfAction[], int) {#copyto}
+## ActionCollection.CopyTo method
 
 Copies actions array into collection.
 
@@ -20,10 +20,11 @@ public void CopyTo(PdfAction[] array, int index)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | array | PdfAction[] | Array of actions which must be copied into collection. |
-| index | int | Index starting from which array will be copied. |
+| index | Int32 | Index starting from which array will be copied. |
 
 ### See Also
 
+* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
 * class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

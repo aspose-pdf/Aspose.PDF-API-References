@@ -5,7 +5,7 @@ articleTitle: "FileParams"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.FileParams class. Defines an embedded file parameter dictionary that shall contain additional file-specific information."
 type: docs
-weight: 900
+weight: 890
 url: "/net/aspose.pdf/fileparams/"
 keywords: "FileParams, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,13 +22,13 @@ public sealed class FileParams
 
 | Name | Description |
 | --- | --- |
-| [FileParams](./fileparams/#constructor)(*[FileSpecification](../../aspose.pdf/filespecification/)*) | Constructor for FileParams class. |
+| [FileParams](./fileparams/)(FileSpecification) | Constructor for FileParams class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CheckSum](./checksum/) { get; } | A 16-byte string that is the checksum of the bytes of the uncompressed embedded file. |
+| [CheckSum](./checksum/) { get; } | A 16-byte string that is the checksum of the bytes of the uncompressed embedded file. The checksum is calculated by applying the standard MD5 message-digest algorithm to the bytes of the embedded file stream. |
 | [CreationDate](./creationdate/) { get; set; } | The date and time when the embedded file was created. |
 | [ModDate](./moddate/) { get; set; } | The date and time when the embedded file was last modified. |
 | [Size](./size/) { get; } | The size of the uncompressed embedded file, in bytes. |

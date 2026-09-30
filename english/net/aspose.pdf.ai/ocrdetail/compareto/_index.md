@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.ai/ocrdetail/compareto/"
 product_version: "26.9.0"
 ---
-## CompareTo([OcrDetail](../../../aspose.pdf.ai/ocrdetail/)) {#compareto}
+## OcrDetail.CompareTo method
 
 Compares the current OcrDetail instance with another OcrDetail object based on their PageNumber property.
 
@@ -27,7 +27,7 @@ int
 
 ### See Also
 
-* class [OcrDetail](../)
+* class [OcrDetail](../../../aspose.pdf.ai/ocrdetail/)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf.facades/pdffilesanitization/rebuildxrefandtrailer/"
 product_version: "26.9.0"
 ---
-## RebuildXrefAndTrailer() {#rebuildxrefandtrailer}
+## PdfFileSanitization.RebuildXrefAndTrailer method
 
 Removes old xref with trailer and creates a new xref with trailer.
 

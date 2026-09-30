@@ -15,7 +15,7 @@ Gets or sets an alternative to sampling with temperature, called nucleus samplin
  of the tokens with top_p probability mass. So 0.1 means only the tokens comprising the top 10% probability mass are considered.
 
 ```csharp
-public Nullable<double> TopP { get; set; }
+public double? TopP { get; set; }
 ```
 
 ### See Also

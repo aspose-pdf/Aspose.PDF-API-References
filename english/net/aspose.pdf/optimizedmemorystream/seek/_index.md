@@ -9,22 +9,20 @@ weight: 70
 url: "/net/aspose.pdf/optimizedmemorystream/seek/"
 product_version: "26.9.0"
 ---
-## Seek(long, SeekOrigin) {#seek}
+## OptimizedMemoryStream.Seek method
 
 When overridden in a derived class, sets the position within the current stream.
 
 ```csharp
-public long Seek(long offset, SeekOrigin origin)
+public override long Seek(long offset, SeekOrigin origin)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| offset | long | A byte offset relative to the *origin* parameter. |
+| offset | Int64 | A byte offset relative to the *origin* parameter. |
 | origin | SeekOrigin | A value of type <see cref="T:System.IO.SeekOrigin" /> indicating the reference point used to obtain the new position. |
 
 ### Return Value
-
-long
 
 The new position within the current stream.
 

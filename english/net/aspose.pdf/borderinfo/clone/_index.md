@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf/borderinfo/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## BorderInfo.Clone method
 
 Clones a new BorderInfo object.
 
@@ -18,8 +18,6 @@ public object Clone()
 ```
 
 ### Return Value
-
-object
 
 The new BorderInfo object.
 

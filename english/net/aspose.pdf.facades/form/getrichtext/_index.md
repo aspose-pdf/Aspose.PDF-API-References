@@ -5,11 +5,11 @@ articleTitle: "GetRichText"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Get a Rich Text field's value, including the formattinf information of every character."
 type: docs
-weight: 400
+weight: 330
 url: "/net/aspose.pdf.facades/form/getrichtext/"
 product_version: "26.9.0"
 ---
-## GetRichText(string) {#getrichtext}
+## Form.GetRichText method
 
 Get a Rich Text field's value, including the formattinf information of every character.
 
@@ -19,11 +19,9 @@ public string GetRichText(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | The fully qualified field name of the Rich Text field. |
+| fieldName | String | The fully qualified field name of the Rich Text field. |
 
 ### Return Value
-
-string
 
 Return a string containing formatting information of the Rich Text field.
 

@@ -20,7 +20,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 
 | Class | Description |
 | --- | --- |
-| [XfaParserOptions](./xfaparseroptions/) | class to handle related data incapsulation. |
+| [XfaParserOptions](./xfaparseroptions/) | class to handle related data incapsulation |
 
 ## FAQ
 

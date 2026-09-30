@@ -19,7 +19,7 @@ public void GetText(string outputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file path and name to save the text. |
+| outputFile | String | The file path and name to save the text. |
 
 ### See Also
 
@@ -60,7 +60,7 @@ public void GetText(Stream outputStream, bool filterNotAscii)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | The stream to save the text. |
-| filterNotAscii | bool | If this parameter is true all Not ASCII symbols will be removed |
+| filterNotAscii | Boolean | If this parameter is true all Not ASCII symbols will be removed |
 
 ### See Also
 

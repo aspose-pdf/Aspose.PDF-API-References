@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Binds a Pdf file for converting.
 
 ```csharp
-public void BindPdf(string inputFile)
+public override void BindPdf(string inputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | The pdf file. |
+| inputFile | String | The pdf file. |
 
 ### See Also
 
@@ -34,7 +34,7 @@ public void BindPdf(string inputFile)
 Binds a Pdf Stream for convert.
 
 ```csharp
-public void BindPdf(Stream inputStream)
+public override void BindPdf(Stream inputStream)
 ```
 
 | Parameter | Type | Description |
@@ -57,7 +57,7 @@ This method initializes the [`PdfConverter`](../../../aspose.pdf.facades/pdfconv
  It also processes dynamic XFA forms within the document, if present.
 
 ```csharp
-public void BindPdf(Document srcDoc)
+public override void BindPdf(Document srcDoc)
 ```
 
 | Parameter | Type | Description |
@@ -66,6 +66,7 @@ public void BindPdf(Document srcDoc)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

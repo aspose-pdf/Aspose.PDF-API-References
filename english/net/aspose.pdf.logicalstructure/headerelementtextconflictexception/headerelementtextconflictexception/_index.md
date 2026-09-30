@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/headerelementtextconflictexception/headerelementtextconflictexception/"
 product_version: "26.9.0"
 ---
-## HeaderElementTextConflictException(string) {#constructor}
+## HeaderElementTextConflictException constructor
 
 Initializes a new instance of the HeaderElementTextConflictException class.
 
@@ -19,7 +19,7 @@ public HeaderElementTextConflictException(string message)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | string |  |
+| message | String |  |
 
 ### See Also
 

@@ -5,7 +5,7 @@ articleTitle: "AddPageNumber"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileStamp method. Add page number to file. Page number text may contain # sign which will be replaced with number of the page. Page number is placed in th..."
 type: docs
-weight: 130
+weight: 70
 url: "/net/aspose.pdf.facades/pdffilestamp/addpagenumber/"
 product_version: "26.9.0"
 ---
@@ -20,7 +20,7 @@ public void AddPageNumber(string formatString)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formatString | string | Text of page number |
+| formatString | String | Text of page number |
 
 ### See Also
 
@@ -45,6 +45,7 @@ public void AddPageNumber(FormattedText formattedText)
 
 ### See Also
 
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -56,21 +57,22 @@ public void AddPageNumber(FormattedText formattedText)
 Adds page number to the pages of document.
 
 ```csharp
-public void AddPageNumber(string formatString, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)
+public void AddPageNumber(string formatString, int position, float leftMargin, float rightMargin, 
+    float topMargin, float bottomMargin)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formatString | string | Format string for page number. |
-| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 
+| formatString | String | Format string for page number. |
+| position | Int32 | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 
  3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left.
  You can use the following constants: 
  PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, 
  PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
-| leftMargin | float | Margin on the left edge of the page. |
-| rightMargin | float | Margin on the right edge of the page. |
-| topMargin | float | Margin on the top edge of the page. |
-| bottomMargin | float | Margin on the bottom edge of the page. |
+| leftMargin | Single | Margin on the left edge of the page. |
+| rightMargin | Single | Margin on the right edge of the page. |
+| topMargin | Single | Margin on the top edge of the page. |
+| bottomMargin | Single | Margin on the bottom edge of the page. |
 
 ### See Also
 
@@ -90,9 +92,9 @@ public void AddPageNumber(string formatString, float x, float y)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formatString | string | Format string. Format string can contain # sign which will be replaced with page number. |
-| x | float | X coordinate of page number. |
-| y | float | Y coordinate of page number. |
+| formatString | String | Format string. Format string can contain # sign which will be replaced with page number. |
+| x | Single | X coordinate of page number. |
+| y | Single | Y coordinate of page number. |
 
 ### See Also
 
@@ -107,24 +109,26 @@ public void AddPageNumber(string formatString, float x, float y)
 Adds page number to the pages of document.
 
 ```csharp
-public void AddPageNumber(FormattedText formattedText, int position, float leftMargin, float rightMargin, float topMargin, float bottomMargin)
+public void AddPageNumber(FormattedText formattedText, int position, float leftMargin, 
+    float rightMargin, float topMargin, float bottomMargin)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | formattedText | FormattedText | FormattedText object which represents page number format and properties iof the text. |
-| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 
+| position | Int32 | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 
  3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left.
  You can use the following constants: 
  PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, 
  PosUpperMiddle, PosBottomLeft = 5, PosSidesLeft, PosUpperLeft |
-| leftMargin | float | Margin on the left edge of the page. |
-| rightMargin | float | Margin on the right edge of the page. |
-| topMargin | float | Margin on the top edge of the page. |
-| bottomMargin | float | Margin on the bottom edge of the page. |
+| leftMargin | Single | Margin on the left edge of the page. |
+| rightMargin | Single | Margin on the right edge of the page. |
+| topMargin | Single | Margin on the top edge of the page. |
+| bottomMargin | Single | Margin on the bottom edge of the page. |
 
 ### See Also
 
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -143,11 +147,12 @@ public void AddPageNumber(FormattedText formattedText, float x, float y)
 | --- | --- | --- |
 | formattedText | FormattedText | Formatted text which represents page number format and properties of the text.
  Format string can contain # sign which will be replaced with page number. |
-| x | float | X coordinate of page number. |
-| y | float | Y coordinate of page number. |
+| x | Single | X coordinate of page number. |
+| y | Single | Y coordinate of page number. |
 
 ### See Also
 
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -164,8 +169,8 @@ public void AddPageNumber(string formatString, int position)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formatString | string | Format of the page number. This text may contain # which will be replaced with page number. |
-| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 
+| formatString | String | Format of the page number. This text may contain # which will be replaced with page number. |
+| position | Int32 | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 
  3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left.
  You can use the following constants: 
  PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, 
@@ -191,7 +196,7 @@ public void AddPageNumber(FormattedText formattedText, int position)
 | --- | --- | --- |
 | formattedText | FormattedText | FormattedText object which contains format of the page number and text properties. 
  This text may contain # which will be replaced with page number. |
-| position | int | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 
+| position | Int32 | Position where page number will be placed on the page. 0-bottom middle, 1-bottom right, 2-upper right, 
  3 - sides right, 4 - upper middle,5 - bottom left,6 - sides left,7 - upper left.
  You can use the following constants: 
  PosBottomMiddle = 0, PosBottomRight = 1, PosUpperRight = 2, PosSidesRight = 3, 
@@ -199,6 +204,7 @@ public void AddPageNumber(FormattedText formattedText, int position)
 
 ### See Also
 
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

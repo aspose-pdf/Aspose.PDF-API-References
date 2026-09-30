@@ -5,7 +5,7 @@ articleTitle: "HtmlSaveOptions.ResourceSavingStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "To this property You can assign delegate created from custom method that implements processing of external resource(Font or Image) that was extracted from PD..."
 type: docs
-weight: 1360
+weight: 1350
 url: "/net/aspose.pdf/htmlsaveoptions.resourcesavingstrategy/"
 product_version: "26.9.0"
 ---
@@ -25,8 +25,16 @@ To this property You can assign delegate created from custom method that impleme
  must be done in converter itself as if there was no any external custom code .
 
 ```csharp
-public delegate void ResourceSavingStrategy()
+public delegate string ResourceSavingStrategy(ResourceSavingInfo resourceSavingInfo);
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| resourceSavingInfo | ResourceSavingInfo | represents set of data for saving of resource |
+
+### Return Value
+
+must return URL to saved resource that will be used during generation of HTML
 
 ### See Also
 

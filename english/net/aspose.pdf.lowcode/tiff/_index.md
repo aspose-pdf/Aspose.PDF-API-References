@@ -22,14 +22,14 @@ public sealed class Tiff : PdfToImage
 
 | Name | Description |
 | --- | --- |
-| [Tiff](./tiff/#constructor) | The default constructor. |
+| [Tiff](./tiff/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.pdf.lowcode/pdftoimage/dispose/) | Implementation of . Actually, it is not necessary for . *(Inherited from PdfToImage)* |
-| [Process](../../aspose.pdf.lowcode/pdftoimage/process/)(*IPluginOptions*) | Starts processing with the specified parameters. *(Inherited from PdfToImage)* |
+| [Dispose](../../aspose.pdf.lowcode/pdftoimage/dispose/)() | Implementation of . Actually, it is not necessary for . |
+| [Process](../../aspose.pdf.lowcode/pdftoimage/process/)(IPluginOptions) | Starts processing with the specified parameters. |
 
 ### See Also
 

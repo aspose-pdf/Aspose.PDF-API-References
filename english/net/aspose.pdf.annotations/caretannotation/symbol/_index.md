@@ -19,7 +19,7 @@ public CaretSymbol Symbol { get; set; }
 
 ### See Also
 
-* class [CaretSymbol](../../../aspose.pdf.annotations/caretsymbol/)
+* enum [CaretSymbol](../../../aspose.pdf.annotations/caretsymbol/)
 * class [CaretAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

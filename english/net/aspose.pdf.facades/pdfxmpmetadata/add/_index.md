@@ -24,6 +24,8 @@ public void Add(DefaultMetadataProperties key, XmpValue value)
 
 ### See Also
 
+* enum [DefaultMetadataProperties](../../../aspose.pdf.facades/defaultmetadataproperties/)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -35,18 +37,20 @@ public void Add(DefaultMetadataProperties key, XmpValue value)
 Adds extension field into metadata.
 
 ```csharp
-public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespacePrefix, string namespaceUri, string schemaDescription)
+public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespacePrefix, 
+    string namespaceUri, string schemaDescription)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | xmpPdfAExtensionObject | XmpPdfAExtensionObject | The pdf extension object to add. |
-| namespacePrefix | string | The prefix of schema. |
-| namespaceUri | string | The namespace uri of schema. |
-| schemaDescription | string | The optional description of schema. |
+| namespacePrefix | String | The prefix of schema. |
+| namespaceUri | String | The namespace uri of schema. |
+| schemaDescription | String | The optional description of schema. |
 
 ### See Also
 
+* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -63,11 +67,12 @@ public void Add(string key, XmpValue value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | Key of new element. |
+| key | String | Key of new element. |
 | value | XmpValue | Value of the element. |
 
 ### See Also
 
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -84,8 +89,8 @@ public void Add(string key, object value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | Key of new element. |
-| value | object | Value of the element. |
+| key | String | Key of new element. |
+| value | Object | Value of the element. |
 
 ### See Also
 
@@ -105,7 +110,7 @@ public void Add(KeyValuePair<string, XmpValue> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair<string, XmpValue> | Item to be added. |
+| item | KeyValuePair`2 | Item to be added. |
 
 ### See Also
 

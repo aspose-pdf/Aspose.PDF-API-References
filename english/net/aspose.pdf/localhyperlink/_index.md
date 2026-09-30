@@ -5,7 +5,7 @@ articleTitle: "LocalHyperlink"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.LocalHyperlink class. Represents local hyperlink object."
 type: docs
-weight: 1840
+weight: 1800
 url: "/net/aspose.pdf/localhyperlink/"
 keywords: "LocalHyperlink, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,8 +22,8 @@ public sealed class LocalHyperlink : Hyperlink
 
 | Name | Description |
 | --- | --- |
-| [LocalHyperlink](./localhyperlink/#constructor) | Initializes a new instance of the [`LocalHyperlink`](../../aspose.pdf/localhyperlink/) class. |
-| [LocalHyperlink](./localhyperlink/#constructor_1)(*[BaseParagraph](../../aspose.pdf/baseparagraph/)*) | Initializes a new instance of the [`LocalHyperlink`](../../aspose.pdf/localhyperlink/) class. |
+| [LocalHyperlink](./localhyperlink/#constructor)() | Initializes a new instance of the [`LocalHyperlink`](../../aspose.pdf/localhyperlink/) class. |
+| [LocalHyperlink](./localhyperlink/#constructor_1)(BaseParagraph) | Initializes a new instance of the [`LocalHyperlink`](../../aspose.pdf/localhyperlink/) class. |
 
 ## Properties
 

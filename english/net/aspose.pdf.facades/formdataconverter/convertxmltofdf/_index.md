@@ -9,12 +9,12 @@ weight: 20
 url: "/net/aspose.pdf.facades/formdataconverter/convertxmltofdf/"
 product_version: "26.9.0"
 ---
-## ConvertXmlToFdf(Stream, Stream) {#convertxmltofdf}
+## FormDataConverter.ConvertXmlToFdf method
 
 Convert XML import/export form data file into FDF format.
 
 ```csharp
-public void ConvertXmlToFdf(Stream sourceXml, Stream destFdf)
+public static void ConvertXmlToFdf(Stream sourceXml, Stream destFdf)
 ```
 
 | Parameter | Type | Description |

@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Perfoms some operation on the given page, e.g. converts page into graphic image.
 
 ```csharp
-public void Process(Page page, Stream output)
+public abstract void Process(Page page, Stream output)
 ```
 
 | Parameter | Type | Description |
@@ -24,6 +24,7 @@ public void Process(Page page, Stream output)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [PageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
@@ -41,10 +42,11 @@ public void Process(Page page, string outputFileName)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | Page | The page to process. |
-| outputFileName | string | This file contains the results of processing. |
+| outputFileName | String | This file contains the results of processing. |
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [PageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

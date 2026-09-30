@@ -9,7 +9,7 @@ weight: 170
 url: "/net/aspose.pdf.facades/formattedtext/setcjkfontstyle/"
 product_version: "26.9.0"
 ---
-## SetCjkFontStyle() {#setcjkfontstyle}
+## FormattedText.SetCjkFontStyle method
 
 Changes FormattedText font style for CJK (Chinese, Japanese, or Korean) font.
 

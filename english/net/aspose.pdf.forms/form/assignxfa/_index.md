@@ -9,7 +9,7 @@ weight: 110
 url: "/net/aspose.pdf.forms/form/assignxfa/"
 product_version: "26.9.0"
 ---
-## AssignXfa(XmlDocument) {#assignxfa}
+## Form.AssignXfa method
 
 Sets XFA of the form to specified value.
 

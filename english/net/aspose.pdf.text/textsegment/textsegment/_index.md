@@ -35,7 +35,7 @@ public TextSegment(string text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string | Text segment's text. |
+| text | String | Text segment's text. |
 
 ### See Also
 

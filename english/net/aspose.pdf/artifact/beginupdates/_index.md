@@ -9,7 +9,7 @@ weight: 140
 url: "/net/aspose.pdf/artifact/beginupdates/"
 product_version: "26.9.0"
 ---
-## BeginUpdates() {#beginupdates}
+## Artifact.BeginUpdates method
 
 Start delated updates. Use this feature if you need make several changes to the same artifact to improve performance. 
  Usually artifact operators are changed anytime when artifact property was changed. This causes changing of page contents

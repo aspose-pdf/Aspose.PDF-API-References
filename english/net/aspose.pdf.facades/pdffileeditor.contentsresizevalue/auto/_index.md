@@ -9,17 +9,15 @@ weight: 30
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/auto/"
 product_version: "26.9.0"
 ---
-## Auto() {#auto}
+## PdfFileEditor.ContentsResizeValue.Auto method
 
 Initializes automatically calculated value.
 
 ```csharp
-public ContentsResizeValue Auto()
+public static ContentsResizeValue Auto()
 ```
 
 ### Return Value
-
-ContentsResizeValue
 
 New value instance.
 

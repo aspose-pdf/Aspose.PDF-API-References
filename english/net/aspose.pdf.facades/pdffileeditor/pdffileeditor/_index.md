@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.facades/pdffileeditor/pdffileeditor/"
 product_version: "26.9.0"
 ---
-## PdfFileEditor() {#constructor}
+## PdfFileEditor constructor
 
 The default constructor.
 

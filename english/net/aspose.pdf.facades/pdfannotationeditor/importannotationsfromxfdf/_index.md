@@ -19,7 +19,7 @@ public void ImportAnnotationsFromXfdf(string xfdfFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xfdfFile | string | The input XFDF file. |
+| xfdfFile | String | The input XFDF file. |
 
 ### See Also
 

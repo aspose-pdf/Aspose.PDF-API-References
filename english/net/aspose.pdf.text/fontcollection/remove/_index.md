@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.text/fontcollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove([Font](../../../aspose.pdf.text/font/)) {#remove}
+## FontCollection.Remove method
 
 Deletes specified item from collection.
 
@@ -23,12 +23,11 @@ public bool Remove(Font item)
 
 ### Return Value
 
-bool
-
 true if item was deleted from collection; otherwise, false.
 
 ### See Also
 
+* class [Font](../../../aspose.pdf.text/font/)
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

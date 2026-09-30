@@ -15,28 +15,28 @@ product_version: "26.9.0"
 Represents information about interruption.
 
 ```csharp
-public class InterruptMonitor : IInterruptMonitor, IDisposable
+public class InterruptMonitor : IInterruptMonitor
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [InterruptMonitor](./interruptmonitor/#constructor) | The default constructor. |
+| [InterruptMonitor](./interruptmonitor/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CancellationToken](./cancellationtoken/) { get; } | Monitor's cancellation token used for process interruption. |
-| [ThreadLocalInstance](./threadlocalinstance/) { get; set; } | Gets or sets the IInterruptMonitor instance which is unique for each thread. |
+| [CancellationToken](./cancellationtoken/) { get; } | Monitor's cancellation token used for process interruption. By default each IInterruptMonitor generates its own cancellationSource. |
+| static [ThreadLocalInstance](./threadlocalinstance/) { get; set; } | Gets or sets the IInterruptMonitor instance which is unique for each thread. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/) | Disposes used resources. |
-| [Interrupt](./interrupt/) | Sends a request to interrupt operations. |
+| [Dispose](./dispose/)() | Disposes used resources. |
+| virtual [Interrupt](./interrupt/)() | Sends a request to interrupt operations. |
 
 ### See Also
 

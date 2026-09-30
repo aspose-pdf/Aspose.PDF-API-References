@@ -20,7 +20,7 @@ public BlendingColorSpace BlendingSpace { get; set; }
 
 ### See Also
 
-* class [BlendingColorSpace](../../../aspose.pdf.facades/blendingcolorspace/)
+* enum [BlendingColorSpace](../../../aspose.pdf.facades/blendingcolorspace/)
 * class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

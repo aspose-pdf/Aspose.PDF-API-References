@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf/destinationcollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## DestinationCollection.Clear method
 
 Collection is read-only. Always throws NotSupportedException exception.
 

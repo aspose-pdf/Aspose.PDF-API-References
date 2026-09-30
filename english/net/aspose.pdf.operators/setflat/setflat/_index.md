@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/setflat/setflat/"
 product_version: "26.9.0"
 ---
-## SetFlat(double) {#constructor}
+## SetFlat constructor
 
 Initializes operator.
 
@@ -19,7 +19,7 @@ public SetFlat(double flatness)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| flatness | double | The value of flatness. |
+| flatness | Double | The value of flatness. |
 
 ### See Also
 

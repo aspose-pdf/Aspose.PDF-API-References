@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.forms/datefield/addimage/"
 product_version: "26.9.0"
 ---
-## AddImage([Image](../../../aspose.pdf/image/)) {#addimage}
+## DateField.AddImage method
 
 Image adding denied for this field.
 
@@ -29,6 +29,7 @@ public void AddImage(Image image)
 
 ### See Also
 
+* class [Image](../../../aspose.pdf/image/)
 * class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

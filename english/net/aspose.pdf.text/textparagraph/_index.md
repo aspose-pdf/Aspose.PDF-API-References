@@ -22,13 +22,13 @@ public sealed class TextParagraph
 
 | Name | Description |
 | --- | --- |
-| [TextParagraph](./textparagraph/#constructor) | The default constructor. |
+| [TextParagraph](./textparagraph/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FirstLineIndent](./firstlineindent/) { get; set; } | Gets or sets subsequent lines indent value. |
+| [FirstLineIndent](./firstlineindent/) { get; set; } | Gets or sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value. |
 | [FormattingOptions](./formattingoptions/) { get; set; } | Gets or sets formatting options. |
 | [HorizontalAlignment](./horizontalalignment/) { get; set; } | Gets or sets horizontal alignment for the text inside paragrph's `Rectangle`. |
 | [Justify](./justify/) { get; set; } | Gets or sets value whether text is justified. |
@@ -36,7 +36,7 @@ public sealed class TextParagraph
 | [Position](./position/) { get; set; } | Gets or sets position of the paragraph. |
 | [Rectangle](./rectangle/) { get; set; } | Gets or sets rectangle of the paragraph. |
 | [Rotation](./rotation/) { get; set; } | Gets or sets rotation angle in degrees. |
-| [SubsequentLinesIndent](./subsequentlinesindent/) { get; set; } | Gets or sets subsequent lines indent value. |
+| [SubsequentLinesIndent](./subsequentlinesindent/) { get; set; } | Gets or sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value. |
 | [TextRectangle](./textrectangle/) { get; } | Gets rectangle of the text placed to the paragraph. |
 | [VerticalAlignment](./verticalalignment/) { get; set; } | Gets or sets vertical alignment for the text inside paragrph's `Rectangle`. |
 
@@ -44,15 +44,15 @@ public sealed class TextParagraph
 
 | Name | Description |
 | --- | --- |
-| [AppendLine](./appendline/)(*string*) | Appends text line. |
-| [AppendLine](./appendline/)(*TextFragment*) | Appends text line with text state parameters. |
-| [AppendLine](./appendline/)(*string, float*) | Appends text line. |
-| [AppendLine](./appendline/)(*string, TextState*) | Appends text line with text state parameters. |
-| [AppendLine](./appendline/)(*TextFragment, TextState*) | Appends text line with text state parameters. |
-| [AppendLine](./appendline/)(*string, TextState, float*) | Appends text line with text state parameters. |
-| [AppendLine](./appendline/)(*TextFragment, TextState, float*) | Appends text line with text state parameters. |
-| [BeginEdit](./beginedit/) | Begins the editing of the TextParagraph. |
-| [EndEdit](./endedit/) | Ends the editing of the TextParagraph. |
+| [AppendLine](./appendline/)(string) | Appends text line |
+| [AppendLine](./appendline/)(TextFragment) | Appends text line with text state parameters. |
+| [AppendLine](./appendline/)(string, float) | Appends text line. |
+| [AppendLine](./appendline/)(string, TextState) | Appends text line with text state parameters. |
+| [AppendLine](./appendline/)(TextFragment, TextState) | Appends text line with text state parameters. |
+| [AppendLine](./appendline/)(string, TextState, float) | Appends text line with text state parameters |
+| [AppendLine](./appendline/)(TextFragment, TextState, float) | Appends text line with text state parameters |
+| [BeginEdit](./beginedit/)() | Begins the editing of the TextParagraph. |
+| [EndEdit](./endedit/)() | Ends the editing of the TextParagraph. |
 
 ### See Also
 

@@ -19,7 +19,7 @@ public CosPdfString(string value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | string | The value. |
+| value | String | The value. |
 
 ### See Also
 
@@ -39,8 +39,8 @@ public CosPdfString(string value, bool isHexadecimal)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | string | The string. |
-| isHexadecimal | bool | if set to `true` [is hexadecimal]. |
+| value | String | The string. |
+| isHexadecimal | Boolean | if set to `true` [is hexadecimal]. |
 
 ### See Also
 

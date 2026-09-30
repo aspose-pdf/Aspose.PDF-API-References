@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/rectangle/torect/"
 product_version: "26.9.0"
 ---
-## ToRect() {#torect}
+## Rectangle.ToRect method
 
 Converts rectangle to instance of System.Drawing.Rectangle. Floating-point positions and size are truncated.
 
@@ -19,14 +19,11 @@ public Rectangle ToRect()
 
 ### Return Value
 
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 Result of conversion.
 
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

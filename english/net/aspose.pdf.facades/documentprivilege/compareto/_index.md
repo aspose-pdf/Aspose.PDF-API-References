@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.facades/documentprivilege/compareto/"
 product_version: "26.9.0"
 ---
-## CompareTo(object) {#compareto}
+## DocumentPrivilege.CompareTo method
 
 Compares two [`DocumentPrivilege`](../../../aspose.pdf.facades/documentprivilege/) objects.
  
@@ -23,11 +23,9 @@ public int CompareTo(object obj)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | object | The object to compare with. |
+| obj | Object | The object to compare with. |
 
 ### Return Value
-
-int
 
 A signed integer that indicates the relative values of this instance and value. Less than zero this instance is less than value. 
  Zero this instance is equal to value. Greater than zero this instance is greater than value.

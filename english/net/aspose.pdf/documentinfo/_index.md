@@ -5,7 +5,7 @@ articleTitle: "DocumentInfo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.DocumentInfo class. Represents meta information of PDF document."
 type: docs
-weight: 710
+weight: 700
 url: "/net/aspose.pdf/documentinfo/"
 keywords: "DocumentInfo, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -15,14 +15,14 @@ product_version: "26.9.0"
 Represents meta information of PDF document.
 
 ```csharp
-public sealed class DocumentInfo
+public sealed class DocumentInfo : Dictionary<string, string>
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [DocumentInfo](./documentinfo/#constructor)(*[Document](../../aspose.pdf/document/)*) | Initialize DocumentInfo instance. |
+| [DocumentInfo](./documentinfo/)(Document) | Initialize DocumentInfo instance. |
 
 ## Properties
 
@@ -45,11 +45,11 @@ public sealed class DocumentInfo
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*string, string*) | Adds an element with the specified key and value into the collection. |
-| [Clear](./clear/) | Clears the document info. |
-| [ClearCustomData](./clearcustomdata/) | Clears custom data only, leaves all other predefined values (Title, Author, etc.). |
-| [IsPredefinedKey](./ispredefinedkey/)(*string*) | Determines if the key is predefined (Title, Author, etc.), not custom. |
-| [Remove](./remove/)(*string*) | Removes the element with the specified key from the collection. |
+| [Add](./add/)(string, string) | Adds an element with the specified key and value into the collection. |
+| [Clear](./clear/)() | Clears the document info. |
+| [ClearCustomData](./clearcustomdata/)() | Clears custom data only, leaves all other predefined values (Title, Author, etc.). |
+| static [IsPredefinedKey](./ispredefinedkey/)(string) | Determines if the key is predefined (Title, Author, etc.), not custom. |
+| [Remove](./remove/)(string) | Removes the element with the specified key from the collection. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.lowcode/organizerbaseoptions/addoutput/"
 product_version: "26.9.0"
 ---
-## AddOutput([IDataSource](../../../aspose.pdf.lowcode/idatasource/)) {#addoutput}
+## OrganizerBaseOptions.AddOutput method
 
 Adds new data source to the PdfOrganizer plugin data collection.
 
@@ -29,6 +29,7 @@ public void AddOutput(IDataSource saveDataSource)
 
 ### See Also
 
+* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
 * class [OrganizerBaseOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

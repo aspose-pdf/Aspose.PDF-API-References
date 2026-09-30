@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Returns operation name.
 
 ```csharp
-public string OperationName { get; }
+public virtual string OperationName { get; }
 ```
 
 ### See Also

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.multithreading/iinterruptmonitor/interrupt/"
 product_version: "26.9.0"
 ---
-## Interrupt() {#interrupt}
+## IInterruptMonitor.Interrupt method
 
 Sends a request to interrupt operations.
 

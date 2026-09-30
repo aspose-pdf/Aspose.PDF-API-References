@@ -15,21 +15,21 @@ product_version: "26.9.0"
 Represents Aspose.PDF TableGenerator plugin.
 
 ```csharp
-public sealed class TableGenerator : IPlugin, IDisposable
+public sealed class TableGenerator : IDisposable, IPlugin
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [TableGenerator](./tablegenerator/#constructor) | The default constructor. |
+| [TableGenerator](./tablegenerator/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/) | Implementation of IDisposable. In fact, it is not necessary for TableGenerator. |
-| [Process](./process/)(*IPluginOptions*) | Starts the PdfGenerator processing with the specified parameters. |
+| [Dispose](./dispose/)() | Implementation of IDisposable. In fact, it is not necessary for TableGenerator. |
+| [Process](./process/)(IPluginOptions) | Starts the PdfGenerator processing with the specified parameters. |
 
 ### See Also
 

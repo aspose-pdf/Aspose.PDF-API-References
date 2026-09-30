@@ -22,7 +22,7 @@ public class FileCounts
 
 | Name | Description |
 | --- | --- |
-| [FileCounts](./filecounts/#constructor) | The default constructor. |
+| [FileCounts](./filecounts/)() | The default constructor. |
 
 ## Properties
 

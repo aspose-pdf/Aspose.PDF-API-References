@@ -19,7 +19,7 @@ public SoundSampleData(long samplingRate)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| samplingRate | long | The sampling rate. |
+| samplingRate | Int64 | The sampling rate. |
 
 ### See Also
 
@@ -39,8 +39,8 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| samplingRate | long | The sampling rate. |
-| numberOfSoundChannels | int | The number of sound channels. |
+| samplingRate | Int64 | The sampling rate. |
+| numberOfSoundChannels | Int32 | The number of sound channels. |
 
 ### See Also
 
@@ -60,9 +60,9 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| samplingRate | long | The sampling rate. |
-| numberOfSoundChannels | int | The number of sound channels. |
-| bitsPerChannel | int | The number of bits per sample value per channel. |
+| samplingRate | Int64 | The sampling rate. |
+| numberOfSoundChannels | Int32 | The number of sound channels. |
+| bitsPerChannel | Int32 | The number of bits per sample value per channel. |
 
 ### See Also
 
@@ -77,18 +77,20 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 Initializes new sound sample data.
 
 ```csharp
-public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel, SoundSampleDataEncodingFormat soundSampleDataEncodingFormat)
+public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel, 
+    SoundSampleDataEncodingFormat soundSampleDataEncodingFormat)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| samplingRate | long | The sampling rate. |
-| numberOfSoundChannels | int | The number of sound channels. |
-| bitsPerChannel | int | The number of bits per sample value per channel. |
+| samplingRate | Int64 | The sampling rate. |
+| numberOfSoundChannels | Int32 | The number of sound channels. |
+| bitsPerChannel | Int32 | The number of bits per sample value per channel. |
 | soundSampleDataEncodingFormat | SoundSampleDataEncodingFormat | The encoding format for the sample data. |
 
 ### See Also
 
+* enum [SoundSampleDataEncodingFormat](../../../aspose.pdf.annotations/soundsampledataencodingformat/)
 * class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -19,7 +19,7 @@ public DefaultState DefaultState { get; set; }
 
 ### See Also
 
-* class [DefaultState](../../../aspose.pdf/defaultstate/)
+* enum [DefaultState](../../../aspose.pdf/defaultstate/)
 * class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

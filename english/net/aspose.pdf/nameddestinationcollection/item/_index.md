@@ -9,17 +9,25 @@ weight: 30
 url: "/net/aspose.pdf/nameddestinationcollection/item/"
 product_version: "26.9.0"
 ---
-## NamedDestinationCollection.Item property
+## NamedDestinationCollection indexer
 
 Gets or sets appointment by its name.
 
 ```csharp
-public IAppointment Item { get; set; }
+public IAppointment this[string name] { get; set; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| name | Name of the appointment. |
+
+### Return Value
+
+Appoitnemt
 
 ### See Also
 
-* class [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
 * class [NamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

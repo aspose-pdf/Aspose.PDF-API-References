@@ -9,7 +9,7 @@ weight: 150
 url: "/net/aspose.pdf.forms/form/getfieldsinrect/"
 product_version: "26.9.0"
 ---
-## GetFieldsInRect([Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#getfieldsinrect}
+## Form.GetFieldsInRect method
 
 Returns fields inside of specified rectangle.
 
@@ -23,13 +23,12 @@ public Field[] GetFieldsInRect(Rectangle rect)
 
 ### Return Value
 
-[Field](../../../aspose.pdf.forms/field/)[]
-
 Array with found fields.
 
 ### See Also
 
 * class [Field](../../../aspose.pdf.forms/field/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

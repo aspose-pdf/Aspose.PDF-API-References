@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf.security/icustomsecurityhandler/decrypt/"
 product_version: "26.9.0"
 ---
-## Decrypt(byte[], int, int, byte[]) {#decrypt}
+## ICustomSecurityHandler.Decrypt method
 
 Decrypt the data array.
 
@@ -19,14 +19,12 @@ public byte[] Decrypt(byte[] data, int objectNumber, int generation, byte[] key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| data | byte[] | Data to decrypt. |
-| objectNumber | int | Number of the object containing the encrypted data. |
-| generation | int | Generation of the object. |
-| key | byte[] | Key obtained by the CalculateEncryptionKey method |
+| data | Byte[] | Data to decrypt. |
+| objectNumber | Int32 | Number of the object containing the encrypted data. |
+| generation | Int32 | Generation of the object. |
+| key | Byte[] | Key obtained by the CalculateEncryptionKey method |
 
 ### Return Value
-
-byte[]
 
 The decrypted data.
 

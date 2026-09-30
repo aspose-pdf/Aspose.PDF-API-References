@@ -5,7 +5,7 @@ articleTitle: "PdfFormatConversionOptions.PuaProcessingStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.PdfFormatConversionOptions.PuaProcessingStrategy enum. Some PDF documents have special unicode symbols, which are belonged to Private Use Area (PU..."
 type: docs
-weight: 2460
+weight: 2420
 url: "/net/aspose.pdf/pdfformatconversionoptions.puaprocessingstrategy/"
 product_version: "26.9.0"
 ---

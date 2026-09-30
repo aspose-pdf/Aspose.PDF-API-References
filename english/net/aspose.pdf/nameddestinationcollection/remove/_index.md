@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/nameddestinationcollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove(string) {#remove}
+## NamedDestinationCollection.Remove method
 
 Delete named destination.
 
@@ -19,7 +19,7 @@ public void Remove(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Name of the destination to delete. |
+| name | String | Name of the destination to delete. |
 
 ### See Also
 

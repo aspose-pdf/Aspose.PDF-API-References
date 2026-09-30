@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/point/point/"
 product_version: "26.9.0"
 ---
-## Point(double, double) {#constructor}
+## Point constructor
 
 Initializes new instance of the [`Point`](../../../aspose.pdf/point/).
 
@@ -19,8 +19,8 @@ public Point(double x, double y)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | double | x coordinate value. |
-| y | double | y coordinate value. |
+| x | Double | x coordinate value. |
+| y | Double | y coordinate value. |
 
 ### See Also
 

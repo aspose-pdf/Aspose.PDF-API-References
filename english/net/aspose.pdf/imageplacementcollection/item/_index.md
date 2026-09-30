@@ -9,13 +9,21 @@ weight: 110
 url: "/net/aspose.pdf/imageplacementcollection/item/"
 product_version: "26.9.0"
 ---
-## ImagePlacementCollection.Item property
+## ImagePlacementCollection indexer
 
 Gets the text fragment element at the specified index.
 
 ```csharp
-public ImagePlacement Item { get; }
+public ImagePlacement this[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Index of image placement. |
+
+### Return Value
+
+ImagePlacement object.
 
 ### See Also
 

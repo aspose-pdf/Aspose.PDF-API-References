@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/filedatasource/filedatasource/"
 product_version: "26.9.0"
 ---
-## FileDataSource(string) {#constructor}
+## FileDataSource constructor
 
 Initializes new file data source with the specified path.
 
@@ -19,7 +19,7 @@ public FileDataSource(string path)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| path | string | A string representing the path to the source file. |
+| path | String | A string representing the path to the source file. |
 
 ### See Also
 

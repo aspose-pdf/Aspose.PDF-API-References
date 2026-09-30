@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.security/icustomsecurityhandler/encryptpermissions/"
 product_version: "26.9.0"
 ---
-## EncryptPermissions(int) {#encryptpermissions}
+## ICustomSecurityHandler.EncryptPermissions method
 
 Encrypt the document's permissions field. The result will be written to the Perms encryption dictionary field.
  When opening a document, the value can be obtained in [`EncryptionParameters`](../../../aspose.pdf.security/encryptionparameters/) via the Perms field.
@@ -21,11 +21,9 @@ public byte[] EncryptPermissions(int permissions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| permissions | int | The document permissions in integer representation. |
+| permissions | Int32 | The document permissions in integer representation. |
 
 ### Return Value
-
-byte[]
 
 The encrypted array.
 

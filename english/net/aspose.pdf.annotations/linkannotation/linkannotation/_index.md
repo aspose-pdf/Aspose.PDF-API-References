@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/linkannotation/linkannotation/"
 product_version: "26.9.0"
 ---
-## LinkAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
+## LinkAnnotation constructor
 
 Creates new Link annotation on the specified page.
 
@@ -24,6 +24,8 @@ public LinkAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

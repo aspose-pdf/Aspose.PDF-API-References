@@ -5,7 +5,7 @@ articleTitle: "PdfFileEditor.ConcatenateCorruptedFileAction"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.PdfFileEditor.ConcatenateCorruptedFileAction enum. Action performed when corrupted file was met in concatenation process."
 type: docs
-weight: 360
+weight: 350
 url: "/net/aspose.pdf.facades/pdffileeditor.concatenatecorruptedfileaction/"
 product_version: "26.9.0"
 ---

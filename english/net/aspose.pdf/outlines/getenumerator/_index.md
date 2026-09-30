@@ -9,17 +9,15 @@ weight: 50
 url: "/net/aspose.pdf/outlines/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## Outlines.GetEnumerator method
 
 Returns an enumerator that iterates through the collection.
 
 ```csharp
-public IEnumerator<OutlineItemCollection> GetEnumerator()
+public abstract IEnumerator<OutlineItemCollection> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)>
 
 An System.Collections.IEnumerator object that can be used to iterate through the collection.
 

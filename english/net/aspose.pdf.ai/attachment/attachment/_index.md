@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/attachment/attachment/"
 product_version: "26.9.0"
 ---
-## Attachment() {#constructor}
+## Attachment constructor
 
 The default constructor.
 

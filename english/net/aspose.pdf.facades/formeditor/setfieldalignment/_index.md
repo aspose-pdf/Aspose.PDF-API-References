@@ -5,11 +5,11 @@ articleTitle: "SetFieldAlignment"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormEditor method. Set the alignment style of a text field."
 type: docs
-weight: 380
+weight: 330
 url: "/net/aspose.pdf.facades/formeditor/setfieldalignment/"
 product_version: "26.9.0"
 ---
-## SetFieldAlignment(string, int) {#setfieldalignment}
+## FormEditor.SetFieldAlignment method
 
 Set the alignment style of a text field.
 
@@ -19,13 +19,11 @@ public bool SetFieldAlignment(string fieldName, int alignment)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | The qualified field name. |
-| alignment | int | The alignment style definition, including FormFieldFacade.AlignLeft,
+| fieldName | String | The qualified field name. |
+| alignment | Int32 | The alignment style definition, including FormFieldFacade.AlignLeft,
  FormFieldFacade.AlignCenter and FormFieldFacade.AlignRight. |
 
 ### Return Value
-
-bool
 
 true if true if field was found and alignment was set.
 

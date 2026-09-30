@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.facades/viewerpreference/viewerpreference/"
 product_version: "26.9.0"
 ---
-## ViewerPreference() {#constructor}
+## ViewerPreference constructor
 
 The default constructor.
 

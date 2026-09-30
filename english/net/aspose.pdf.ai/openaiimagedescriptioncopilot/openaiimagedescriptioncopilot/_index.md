@@ -9,21 +9,23 @@ weight: 10
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilot/openaiimagedescriptioncopilot/"
 product_version: "26.9.0"
 ---
-## OpenAIImageDescriptionCopilot([IOpenAIClient](../../../aspose.pdf.ai/iopenaiclient/), IImageDescriptionCopilotOptions<OpenAIImageDescriptionCopilotOptions>) {#constructor}
+## OpenAIImageDescriptionCopilot constructor
 
 Initializes a new instance of the [`OpenAIImageDescriptionCopilot`](../../../aspose.pdf.ai/openaiimagedescriptioncopilot/) class.
 
 ```csharp
-public OpenAIImageDescriptionCopilot(IOpenAIClient client, IImageDescriptionCopilotOptions<OpenAIImageDescriptionCopilotOptions> options)
+public OpenAIImageDescriptionCopilot(IOpenAIClient client, 
+    IImageDescriptionCopilotOptions<OpenAIImageDescriptionCopilotOptions> options)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | client | IOpenAIClient | The OpenAI client instance. |
-| options | IImageDescriptionCopilotOptions<OpenAIImageDescriptionCopilotOptions> | The OpenAI Image Description Copilot options. |
+| options | IImageDescriptionCopilotOptions`1 | The OpenAI Image Description Copilot options. |
 
 ### See Also
 
+* interface [IOpenAIClient](../../../aspose.pdf.ai/iopenaiclient/)
 * class [OpenAIImageDescriptionCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

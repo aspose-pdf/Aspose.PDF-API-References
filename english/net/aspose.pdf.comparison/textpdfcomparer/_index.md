@@ -22,21 +22,21 @@ public class TextPdfComparer
 
 | Name | Description |
 | --- | --- |
-| [TextPdfComparer](./textpdfcomparer/#constructor) | The default constructor. |
+| [TextPdfComparer](./textpdfcomparer/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AssemblyDestinationPageText](./assemblydestinationpagetext/)(*List<DiffOperation>*) | Restores changed text from the list of changes. |
-| [AssemblySourcePageText](./assemblysourcepagetext/)(*List<DiffOperation>*) | Restores the original text from the list of changes. |
-| [CompareDocumentsPageByPage](./comparedocumentspagebypage/)(*Document, Document, ComparisonOptions*) | Compares two documents page by page. |
-| [CompareDocumentsPageByPage](./comparedocumentspagebypage/)(*Document, Document, ComparisonOptions, string*) | Compares two documents page by page. The result is saved in a PDF file. |
-| [CompareFlatDocuments](./compareflatdocuments/)(*Document, Document, ComparisonOptions*) | Compares two documents page by page. |
-| [CompareFlatDocuments](./compareflatdocuments/)(*Document, Document, ComparisonOptions, string*) | Compares two documents page by page. The result is saved in a PDF file. |
-| [ComparePages](./comparepages/)(*Page, Page, ComparisonOptions*) | Compares document pages. |
-| [CreateComparisonStatistics](./createcomparisonstatistics/)(*List<DiffOperation>*) | Gets comparison statistics. |
-| [CreateComparisonStatistics](./createcomparisonstatistics/)(*List<List<DiffOperation>>*) | Gets documents comparison statistics. |
+| static [AssemblyDestinationPageText](./assemblydestinationpagetext/)(List<DiffOperation>) | Restores changed text from the list of changes. |
+| static [AssemblySourcePageText](./assemblysourcepagetext/)(List<DiffOperation>) | Restores the original text from the list of changes. |
+| static [CompareDocumentsPageByPage](./comparedocumentspagebypage/)(Document, Document, ComparisonOptions) | Compares two documents page by page. |
+| static [CompareDocumentsPageByPage](./comparedocumentspagebypage/)(Document, Document, ComparisonOptions, string) | Compares two documents page by page. The result is saved in a PDF file. |
+| static [CompareFlatDocuments](./compareflatdocuments/)(Document, Document, ComparisonOptions) | Compares two documents page by page. The documents are compared as a whole. Before comparing text, the texts of document pages are combined into one text. |
+| static [CompareFlatDocuments](./compareflatdocuments/)(Document, Document, ComparisonOptions, string) | Compares two documents page by page. The result is saved in a PDF file. The documents are compared as a whole. Before comparing text, the texts of document pages are combined into one text. |
+| static [ComparePages](./comparepages/)(Page, Page, ComparisonOptions) | Compares document pages. |
+| static [CreateComparisonStatistics](./createcomparisonstatistics/)(List<DiffOperation>) | Gets comparison statistics. |
+| static [CreateComparisonStatistics](./createcomparisonstatistics/)(List<List<DiffOperation>>) | Gets documents comparison statistics. |
 
 ### See Also
 

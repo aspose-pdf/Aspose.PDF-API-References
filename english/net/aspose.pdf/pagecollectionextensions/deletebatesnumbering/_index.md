@@ -9,12 +9,12 @@ weight: 50
 url: "/net/aspose.pdf/pagecollectionextensions/deletebatesnumbering/"
 product_version: "26.9.0"
 ---
-## DeleteBatesNumbering([PageCollection](../../../aspose.pdf/pagecollection/)) {#deletebatesnumbering}
+## PageCollectionExtensions.DeleteBatesNumbering method
 
 Deletes all Bates numbering artifacts from each page in the given page collection.
 
 ```csharp
-public void DeleteBatesNumbering(PageCollection pageCollection)
+public static void DeleteBatesNumbering(this PageCollection pageCollection)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void DeleteBatesNumbering(PageCollection pageCollection)
 
 ### See Also
 
+* class [PageCollection](../../../aspose.pdf/pagecollection/)
 * class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

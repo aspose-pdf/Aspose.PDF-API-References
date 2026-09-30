@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.text/charinfocollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove([CharInfo](../../../aspose.pdf.text/charinfo/)) {#remove}
+## CharInfoCollection.Remove method
 
 Collection is read-only, throws NotImplementedException.
 
@@ -23,8 +23,6 @@ public bool Remove(CharInfo item)
 
 ### Return Value
 
-bool
-
 NotImplementedException
 
 ### Exceptions
@@ -36,6 +34,7 @@ NotImplementedException
 
 ### See Also
 
+* class [CharInfo](../../../aspose.pdf.text/charinfo/)
 * class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

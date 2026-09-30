@@ -5,7 +5,7 @@ articleTitle: "XmpPdfAExtensionField"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.XmpPdfAExtensionField class. This schema describes a field in a structured type. It is very similar to the PDF/A Property Value Type schema, but d..."
 type: docs
-weight: 3290
+weight: 3250
 url: "/net/aspose.pdf/xmppdfaextensionfield/"
 keywords: "XmpPdfAExtensionField, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -25,22 +25,22 @@ public class XmpPdfAExtensionField : XmpPdfAExtensionObject
 
 | Name | Description |
 | --- | --- |
-| [XmpPdfAExtensionField](./xmppdfaextensionfield/#constructor)(*string, string, string, string*) | Initializes object. |
+| [XmpPdfAExtensionField](./xmppdfaextensionfield/)(string, string, string, string) | Initializes object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Gets the description. *(Inherited from XmpPdfAExtensionObject)* |
+| [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Gets the description. |
 | [Name](./name/) { get; } | Field name. Field names must be valid XML element names. |
-| [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Gets or sets the value. *(Inherited from XmpPdfAExtensionObject)* |
-| [ValueType](./valuetype/) { get; } | Field value type, drawn from XMP Specification 2004, or an embedded PDF/A value type extension. |
+| [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Gets or sets the value. |
+| [ValueType](./valuetype/) { get; } | Field value type, drawn from XMP Specification 2004, or an embedded PDF/A value type extension schema. Predefined XMP type names or names of custom types. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetXml](./getxml/)(*XmlDocument*) | Returns the list of xml elements that represent field in xml tree. |
+| override [GetXml](./getxml/)(XmlDocument) | Returns the list of xml elements that represent field in xml tree. |
 
 ### See Also
 

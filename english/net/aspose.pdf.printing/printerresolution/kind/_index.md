@@ -19,7 +19,7 @@ public PrinterResolutionKind Kind { get; set; }
 
 ### See Also
 
-* class [PrinterResolutionKind](../../../aspose.pdf.printing/printerresolutionkind/)
+* enum [PrinterResolutionKind](../../../aspose.pdf.printing/printerresolutionkind/)
 * class [PrinterResolution](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

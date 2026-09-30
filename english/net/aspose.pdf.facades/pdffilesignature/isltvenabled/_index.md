@@ -5,7 +5,7 @@ articleTitle: "IsLtvEnabled"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileSignature property. Gets the LTV enabled flag."
 type: docs
-weight: 700
+weight: 480
 url: "/net/aspose.pdf.facades/pdffilesignature/isltvenabled/"
 product_version: "26.9.0"
 ---

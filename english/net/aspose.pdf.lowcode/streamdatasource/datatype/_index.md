@@ -19,7 +19,7 @@ public DataType DataType { get; }
 
 ### See Also
 
-* class [DataType](../../../aspose.pdf.lowcode/datatype/)
+* enum [DataType](../../../aspose.pdf.lowcode/datatype/)
 * class [StreamDataSource](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

@@ -9,24 +9,21 @@ weight: 20
 url: "/net/aspose.pdf.lowcode/tablerowbuilder/addrow/"
 product_version: "26.9.0"
 ---
-## AddRow() {#addrow}
+## TableRowBuilder.AddRow method
 
 Overriding AddRow.
 
 ```csharp
-public TableRowBuilder AddRow()
+public override TableRowBuilder AddRow()
 ```
 
 ### Return Value
-
-[TableRowBuilder](../../../aspose.pdf.lowcode/tablerowbuilder/)
 
 Instance of current [`TableRowBuilder`](../../../aspose.pdf.lowcode/tablerowbuilder/).
 
 ### See Also
 
 * class [TableRowBuilder](../../../aspose.pdf.lowcode/tablerowbuilder/)
-* class [TableRowBuilder](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)
 

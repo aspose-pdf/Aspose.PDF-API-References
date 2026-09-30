@@ -36,7 +36,7 @@ public MissingOptionalDependencyException(string message)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | string | The message that describes the error. |
+| message | String | The message that describes the error. |
 
 ### See Also
 
@@ -57,7 +57,7 @@ public MissingOptionalDependencyException(string message, Exception innerExcepti
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | string | The message that describes the error. |
+| message | String | The message that describes the error. |
 | innerException | Exception | The exception that caused the current exception. |
 
 ### See Also

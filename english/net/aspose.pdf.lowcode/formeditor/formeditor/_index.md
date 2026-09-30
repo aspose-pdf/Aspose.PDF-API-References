@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/formeditor/formeditor/"
 product_version: "26.9.0"
 ---
-## FormEditor() {#constructor}
+## FormEditor constructor
 
 The default constructor.
 

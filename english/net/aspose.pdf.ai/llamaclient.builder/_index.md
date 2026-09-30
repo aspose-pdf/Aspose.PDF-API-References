@@ -22,14 +22,14 @@ public class Builder
 
 | Name | Description |
 | --- | --- |
-| [LlamaClient.Builder](./builder/#constructor)(*string*) | Initializes a new instance of the `Builder` class with the API key. |
+| [Builder](./builder/)(string) | Initializes a new instance of the `Builder` class with the API key. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Build](./build/) | Builds and returns an instance of [`LlamaClient`](../../aspose.pdf.ai/llamaclient/) with the configured options. |
-| [WithBaseDomain](./withbasedomain/)(*string*) | Sets the base domain for the client. |
+| [Build](./build/)() | Builds and returns an instance of [`LlamaClient`](../../aspose.pdf.ai/llamaclient/) with the configured options. |
+| [WithBaseDomain](./withbasedomain/)(string) | Sets the base domain for the client. |
 
 ### See Also
 

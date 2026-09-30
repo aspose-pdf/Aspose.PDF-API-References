@@ -5,7 +5,7 @@ articleTitle: "Resolution"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfViewer property. Gets or sets resolution during viewing and printing. The higher resolution, the slower speed. The default value is 150."
 type: docs
-weight: 530
+weight: 490
 url: "/net/aspose.pdf.facades/pdfviewer/resolution/"
 product_version: "26.9.0"
 ---

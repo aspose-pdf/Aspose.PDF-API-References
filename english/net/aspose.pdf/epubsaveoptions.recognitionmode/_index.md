@@ -5,7 +5,7 @@ articleTitle: "EpubSaveOptions.RecognitionMode"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.EpubSaveOptions.RecognitionMode enum. When PDF file (that usually has fixed layout) is being converted, the conversion engine tries to perform gro..."
 type: docs
-weight: 780
+weight: 770
 url: "/net/aspose.pdf/epubsaveoptions.recognitionmode/"
 product_version: "26.9.0"
 ---

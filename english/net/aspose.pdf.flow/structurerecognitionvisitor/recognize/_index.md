@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Start recognition of document
 
 ```csharp
-public void Recognize(Document document)
+public virtual void Recognize(Document document)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void Recognize(Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [StructureRecognitionVisitor](../)
 * namespace [Aspose.Pdf.Flow](../../../aspose.pdf.flow/)
 * assembly [Aspose.PDF](../../../)
@@ -34,7 +35,7 @@ public void Recognize(Document document)
 Start recognition of page
 
 ```csharp
-public void Recognize(Page page)
+public virtual void Recognize(Page page)
 ```
 
 | Parameter | Type | Description |
@@ -43,6 +44,7 @@ public void Recognize(Page page)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [StructureRecognitionVisitor](../)
 * namespace [Aspose.Pdf.Flow](../../../aspose.pdf.flow/)
 * assembly [Aspose.PDF](../../../)

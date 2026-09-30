@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf.tagged/itaggedcontent/createblockquoteelement/"
 product_version: "26.9.0"
 ---
-## CreateBlockQuoteElement() {#createblockquoteelement}
+## ITaggedContent.CreateBlockQuoteElement method
 
 Creates [`BlockQuoteElement`](../../../aspose.pdf.logicalstructure/blockquoteelement/).
 
@@ -18,8 +18,6 @@ public BlockQuoteElement CreateBlockQuoteElement()
 ```
 
 ### Return Value
-
-[BlockQuoteElement](../../../aspose.pdf.logicalstructure/blockquoteelement/)
 
 Created structure element.
 

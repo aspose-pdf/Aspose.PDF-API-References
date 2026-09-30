@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets/sets the value to determine property Checked for modified field (if will be set).
 
 ```csharp
-public Nullable<bool> Checked { get; set; }
+public bool? Checked { get; set; }
 ```
 
 ### See Also

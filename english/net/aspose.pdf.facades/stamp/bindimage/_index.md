@@ -19,7 +19,7 @@ public void BindImage(string imageFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageFile | string | Image file name and path. |
+| imageFile | String | Image file name and path. |
 
 ### See Also
 

@@ -5,7 +5,7 @@ articleTitle: "BasicFileName"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "AutoFiller property. Gets or sets the basic file name if many small files will be generated. The generated file will be like \"BasicFileName0\",\"BasicFileName1..."
 type: docs
-weight: 180
+weight: 130
 url: "/net/aspose.pdf.facades/autofiller/basicfilename/"
 product_version: "26.9.0"
 ---

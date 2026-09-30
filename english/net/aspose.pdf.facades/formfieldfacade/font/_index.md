@@ -19,7 +19,7 @@ public FontStyle Font { get; set; }
 
 ### See Also
 
-* class [FontStyle](../../../aspose.pdf.facades/fontstyle/)
+* enum [FontStyle](../../../aspose.pdf.facades/fontstyle/)
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

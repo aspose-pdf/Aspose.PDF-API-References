@@ -3,23 +3,23 @@ title: "TextEditOptions.TextEditOptions"
 linktitle: "TextEditOptions"
 articleTitle: "TextEditOptions"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "TextEditOptions constructor. Initializes a new instance of the TextEditOptions class."
+description: "TextEditOptions constructor. Initializes new instance of the TextEditOptions object for the specified no-character behavior mode."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/texteditoptions/texteditoptions/"
 product_version: "26.9.0"
 ---
-## TextEditOptions(NoCharacterAction) {#constructor}
+## TextEditOptions(bool) {#constructor}
 
-Initializes a new instance of the TextEditOptions class.
+Initializes new instance of the [`TextEditOptions`](../../../aspose.pdf.text/texteditoptions/) object for the specified language transformation permission.
 
 ```csharp
-public TextEditOptions(NoCharacterAction noCharacterBehavior)
+public TextEditOptions(bool allowLanguageTransformation)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| noCharacterBehavior | NoCharacterAction |  |
+| allowLanguageTransformation | Boolean | Allows language transformation if set to true. |
 
 ### See Also
 
@@ -31,7 +31,7 @@ public TextEditOptions(NoCharacterAction noCharacterBehavior)
 
 ## TextEditOptions(FontReplace) {#constructor_1}
 
-Initializes a new instance of the TextEditOptions class.
+Initializes new instance of the [`TextEditOptions`](../../../aspose.pdf.text/texteditoptions/) object for the specified font replacement behavior mode.
 
 ```csharp
 public TextEditOptions(FontReplace fontReplaceBehavior)
@@ -39,7 +39,7 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontReplaceBehavior | FontReplace |  |
+| fontReplaceBehavior | FontReplace | Font replace behavior object. |
 
 ### See Also
 
@@ -49,29 +49,9 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 
 ---
 
-## TextEditOptions(bool) {#constructor_2}
+## TextEditOptions(LanguageTransformation) {#constructor_2}
 
-Initializes new instance of the [`TextEditOptions`](../../../aspose.pdf.text/texteditoptions/) object for the specified language transformation permission.
-
-```csharp
-public TextEditOptions(bool allowLanguageTransformation)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| allowLanguageTransformation | bool | Allows language transformation if set to true. |
-
-### See Also
-
-* class [TextEditOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TextEditOptions(LanguageTransformation) {#constructor_3}
-
-Initializes a new instance of the TextEditOptions class.
+Initializes new instance of the [`TextEditOptions`](../../../aspose.pdf.text/texteditoptions/) object for the specified language transformation behavior mode.
 
 ```csharp
 public TextEditOptions(LanguageTransformation languageTransformationBehavior)
@@ -79,7 +59,27 @@ public TextEditOptions(LanguageTransformation languageTransformationBehavior)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| languageTransformationBehavior | LanguageTransformation |  |
+| languageTransformationBehavior | LanguageTransformation | language transformation behavior object. |
+
+### See Also
+
+* class [TextEditOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TextEditOptions(NoCharacterAction) {#constructor_3}
+
+Initializes new instance of the [`TextEditOptions`](../../../aspose.pdf.text/texteditoptions/) object for the specified no-character behavior mode.
+
+```csharp
+public TextEditOptions(NoCharacterAction noCharacterBehavior)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| noCharacterBehavior | NoCharacterAction | No-character behavior mode object. |
 
 ### See Also
 

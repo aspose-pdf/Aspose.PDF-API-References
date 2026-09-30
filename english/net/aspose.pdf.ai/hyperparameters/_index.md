@@ -22,7 +22,7 @@ public class Hyperparameters
 
 | Name | Description |
 | --- | --- |
-| [Hyperparameters](./hyperparameters/#constructor) | The default constructor. |
+| [Hyperparameters](./hyperparameters/)() | The default constructor. |
 
 ## Properties
 

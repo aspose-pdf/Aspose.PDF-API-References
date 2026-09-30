@@ -44,6 +44,7 @@ public void Save(Stream stream, ImageFormat format)
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

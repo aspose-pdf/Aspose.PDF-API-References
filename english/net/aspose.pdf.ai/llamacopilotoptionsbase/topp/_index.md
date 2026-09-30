@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the top-p value for nucleus sampling.
 
 ```csharp
-public Nullable<double> TopP { get; set; }
+public double? TopP { get; set; }
 ```
 
 ### See Also

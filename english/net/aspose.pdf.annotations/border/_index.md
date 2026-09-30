@@ -22,7 +22,7 @@ public sealed class Border
 
 | Name | Description |
 | --- | --- |
-| [Border](./border/#constructor)(*[Annotation](../../aspose.pdf.annotations/annotation/)*) | Constructor for border object. |
+| [Border](./border/)(Annotation) | Constructor for border object. |
 
 ## Properties
 

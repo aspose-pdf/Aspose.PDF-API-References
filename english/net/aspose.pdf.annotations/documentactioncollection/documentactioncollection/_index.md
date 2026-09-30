@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/documentactioncollection/documentactioncollection/"
 product_version: "26.9.0"
 ---
-## DocumentActionCollection([Document](../../../aspose.pdf/document/)) {#constructor}
+## DocumentActionCollection constructor
 
 Constructor for DocumentActionCollection. Constructs DocumentActionCollection objects from Pdf.Kit.Engine Document object.
 
@@ -23,6 +23,7 @@ public DocumentActionCollection(Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [DocumentActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

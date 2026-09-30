@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf.annotations/pdf3dannotation/clearimagepreview/"
 product_version: "26.9.0"
 ---
-## ClearImagePreview() {#clearimagepreview}
+## PDF3DAnnotation.ClearImagePreview method
 
 Clears the image preview.
 

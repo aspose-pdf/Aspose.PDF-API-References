@@ -22,8 +22,8 @@ public class PDF3DContent
 
 | Name | Description |
 | --- | --- |
-| [PDF3DContent](./pdf3dcontent/#constructor) | Initializes a new instance of the [`PDF3DContent`](../../aspose.pdf.annotations/pdf3dcontent/) class. |
-| [PDF3DContent](./pdf3dcontent/#constructor_1)(*string*) | Initializes a new instance of the [`PDF3DContent`](../../aspose.pdf.annotations/pdf3dcontent/) class. |
+| [PDF3DContent](./pdf3dcontent/#constructor)() | Initializes a new instance of the [`PDF3DContent`](../../aspose.pdf.annotations/pdf3dcontent/) class. |
+| [PDF3DContent](./pdf3dcontent/#constructor_1)(string) | Initializes a new instance of the [`PDF3DContent`](../../aspose.pdf.annotations/pdf3dcontent/) class. |
 
 ## Properties
 
@@ -35,16 +35,16 @@ public class PDF3DContent
 
 | Name | Description |
 | --- | --- |
-| [GetAsByteArray](./getasbytearray/) | Gets 3D content as byte array. |
-| [GetAsStream](./getasstream/) | Gets 3D content as stream. |
-| [Load](./load/)(*string*) | Loads 3D content with the specified filename. |
-| [LoadAsPRC](./loadasprc/)(*string*) | Loads 3D content with the specified filename as PRC format. |
-| [LoadAsPRC](./loadasprc/)(*Stream*) | Loads 3D content from stream as PRC format. |
-| [LoadAsPRC](./loadasprc/)(*byte[]*) | Loads 3D content from byte array as PRC format. |
-| [LoadAsU3D](./loadasu3d/)(*string*) | Loads 3D content with the specified filename as U3D format. |
-| [LoadAsU3D](./loadasu3d/)(*Stream*) | Loads 3D content from stream as U3D format. |
-| [LoadAsU3D](./loadasu3d/)(*byte[]*) | Loads 3D content from byte array as U3D format. |
-| [SaveToFile](./savetofile/)(*string*) | Saves 3D content to file. |
+| [GetAsByteArray](./getasbytearray/)() | Gets 3D content as byte array. |
+| [GetAsStream](./getasstream/)() | Gets 3D content as stream. |
+| [Load](./load/)(string) | Loads 3D content with the specified filename. |
+| [LoadAsPRC](./loadasprc/)(byte[]) | Loads 3D content from byte array as PRC format. |
+| [LoadAsPRC](./loadasprc/)(Stream) | Loads 3D content from stream as PRC format. |
+| [LoadAsPRC](./loadasprc/)(string) | Loads 3D content with the specified filename as PRC format. |
+| [LoadAsU3D](./loadasu3d/)(byte[]) | Loads 3D content from byte array as U3D format. |
+| [LoadAsU3D](./loadasu3d/)(Stream) | Loads 3D content from stream as U3D format. |
+| [LoadAsU3D](./loadasu3d/)(string) | Loads 3D content with the specified filename as U3D format. |
+| [SaveToFile](./savetofile/)(string) | Saves 3D content to file. |
 
 ### See Also
 

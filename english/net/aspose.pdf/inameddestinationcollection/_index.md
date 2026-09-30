@@ -5,7 +5,7 @@ articleTitle: "INamedDestinationCollection"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.INamedDestinationCollection interface. Collection of Named Destinations."
 type: docs
-weight: 1410
+weight: 1400
 url: "/net/aspose.pdf/inameddestinationcollection/"
 product_version: "26.9.0"
 ---
@@ -29,8 +29,8 @@ public interface INamedDestinationCollection
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*string, IAppointment*) | Adds new named destination. |
-| [Remove](./remove/)(*string*) | Removes destination by its name. |
+| [Add](./add/)(string, IAppointment) | Adds new named destination. |
+| [Remove](./remove/)(string) | Removes destination by its name. |
 
 ### See Also
 

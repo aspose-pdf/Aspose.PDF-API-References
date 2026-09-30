@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/destinationcollection/getexplicitdestination/"
 product_version: "26.9.0"
 ---
-## GetExplicitDestination(string, bool) {#getexplicitdestination}
+## DestinationCollection.GetExplicitDestination method
 
 Returns the explicit destination by the name.
 
@@ -19,12 +19,10 @@ public ExplicitDestination GetExplicitDestination(string destinameName, bool use
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| destinameName | string | The name of destination. |
-| useCache | bool | Determines whether cached version of collection is used or not. |
+| destinameName | String | The name of destination. |
+| useCache | Boolean | Determines whether cached version of collection is used or not. |
 
 ### Return Value
-
-[ExplicitDestination](../../../aspose.pdf.annotations/explicitdestination/)
 
 The ExplicitDestination object for destination found; otherwise, null.
 

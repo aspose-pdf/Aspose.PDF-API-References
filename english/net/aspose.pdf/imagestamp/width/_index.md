@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets image width. Setting this property allos to scal image horizontally.
 
 ```csharp
-public double Width { get; set; }
+public override double Width { get; set; }
 ```
 
 ### See Also

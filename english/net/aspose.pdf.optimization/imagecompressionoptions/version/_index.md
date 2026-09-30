@@ -19,7 +19,7 @@ public ImageCompressionVersion Version { get; set; }
 
 ### See Also
 
-* class [ImageCompressionVersion](../../../aspose.pdf.optimization/imagecompressionversion/)
+* enum [ImageCompressionVersion](../../../aspose.pdf.optimization/imagecompressionversion/)
 * class [ImageCompressionOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)

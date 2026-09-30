@@ -19,7 +19,7 @@ public SaveFormat SaveFormat { get; set; }
 
 ### See Also
 
-* class [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
+* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
 * class [PdfToDocOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

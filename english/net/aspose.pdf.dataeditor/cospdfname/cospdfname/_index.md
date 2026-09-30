@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.dataeditor/cospdfname/cospdfname/"
 product_version: "26.9.0"
 ---
-## CosPdfName(string) {#constructor}
+## CosPdfName constructor
 
 Initializes a new instance of the [`CosPdfName`](../../../aspose.pdf.dataeditor/cospdfname/) class.
 
@@ -19,7 +19,7 @@ public CosPdfName(string value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | string | The name. |
+| value | String | The name. |
 
 ### See Also
 

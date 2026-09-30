@@ -22,14 +22,14 @@ public class TruncationStrategy
 
 | Name | Description |
 | --- | --- |
-| [TruncationStrategy](./truncationstrategy/#constructor) | The default constructor. |
+| [TruncationStrategy](./truncationstrategy/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [LastMessages](./lastmessages/) { get; set; } | Gets or sets the number of most recent messages from the thread when constructing the context for the run. |
-| [StrategyType](./strategytype/) { get; set; } | Gets or sets the truncation strategy to use for the thread. |
+| [StrategyType](./strategytype/) { get; set; } | Gets or sets the truncation strategy to use for the thread. The default is auto. If set to last_messages, the thread will be truncated to the n most recent messages in the thread. When set to auto, messages in the middle of the thread will be dropped to fit the context length of the model, max_prompt_tokens. |
 
 ### See Also
 

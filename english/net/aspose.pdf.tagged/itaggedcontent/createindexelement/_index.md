@@ -9,7 +9,7 @@ weight: 110
 url: "/net/aspose.pdf.tagged/itaggedcontent/createindexelement/"
 product_version: "26.9.0"
 ---
-## CreateIndexElement() {#createindexelement}
+## ITaggedContent.CreateIndexElement method
 
 Creates [`IndexElement`](../../../aspose.pdf.logicalstructure/indexelement/).
 
@@ -18,8 +18,6 @@ public IndexElement CreateIndexElement()
 ```
 
 ### Return Value
-
-[IndexElement](../../../aspose.pdf.logicalstructure/indexelement/)
 
 Created structure element.
 

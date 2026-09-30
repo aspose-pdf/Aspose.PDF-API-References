@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/grestore/grestore/"
 product_version: "26.9.0"
 ---
-## GRestore() {#constructor}
+## GRestore constructor
 
 Initializes Q operator.
 

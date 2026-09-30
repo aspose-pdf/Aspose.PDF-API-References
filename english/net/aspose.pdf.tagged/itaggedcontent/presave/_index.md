@@ -9,7 +9,7 @@ weight: 410
 url: "/net/aspose.pdf.tagged/itaggedcontent/presave/"
 product_version: "26.9.0"
 ---
-## PreSave() {#presave}
+## ITaggedContent.PreSave method
 
 Prepares the tagged content of the document for saving.
  This method performs necessary pre-save operations, ensuring that the

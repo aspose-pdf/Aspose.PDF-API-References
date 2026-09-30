@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf/paragraphs/remove/"
 product_version: "26.9.0"
 ---
-## Remove([BaseParagraph](../../../aspose.pdf/baseparagraph/)) {#remove}
+## Paragraphs.Remove method
 
 Remove paragraph from collection.
 
@@ -23,6 +23,7 @@ public void Remove(BaseParagraph paragraph)
 
 ### See Also
 
+* class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

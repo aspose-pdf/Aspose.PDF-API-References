@@ -5,7 +5,7 @@ articleTitle: "GraphInfo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.GraphInfo class. Represents graphics info."
 type: docs
-weight: 1010
+weight: 1000
 url: "/net/aspose.pdf/graphinfo/"
 keywords: "GraphInfo, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public sealed class GraphInfo : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [GraphInfo](./graphinfo/#constructor) | The default constructor. |
+| [GraphInfo](./graphinfo/)() | The default constructor. |
 
 ## Properties
 
@@ -34,7 +34,7 @@ public sealed class GraphInfo : ICloneable
 | [FillColor](./fillcolor/) { get; set; } | Gets or sets a `Color` object that indicates the fill color of the graph. |
 | [IsDoubled](./isdoubled/) { get; set; } | Gets or sets is border doubled. |
 | [LineWidth](./linewidth/) { get; set; } | Gets or sets a float value that indicates the line width of the graph. |
-| [RotationAngle](./rotationangle/) { get; set; } | Gets or sets a float value that indicates the rotation angle of the coordinate system. |
+| [RotationAngle](./rotationangle/) { get; set; } | Gets or sets a float value that indicates the rotation angle of the coordinate system when transforming a coordinate system. |
 | [ScalingRateX](./scalingratex/) { get; set; } | Gets or sets a float value that indicates the scaling rate of the x-coordinate when transforming a coordinate system. |
 | [ScalingRateY](./scalingratey/) { get; set; } | Gets or sets a float value that indicates the scaling rate of the y-coordinate when transforming a coordinate system. |
 | [SkewAngleX](./skewanglex/) { get; set; } | Gets or sets a float value that indicates the skew angle of the x-coordinate when transforming a coordinate system. |
@@ -46,7 +46,7 @@ public sealed class GraphInfo : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Clone](./clone/) | Clone the graphics info. |
+| [Clone](./clone/)() | Clone the graphics info. |
 
 ### See Also
 

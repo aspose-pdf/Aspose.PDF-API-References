@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.forms/optioncollection/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## OptionCollection.GetEnumerator method
 
 Returns enumerator for options in collection.
 
@@ -18,8 +18,6 @@ public IEnumerator<Option> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[Option](../../../aspose.pdf.forms/option/)>
 
 Options enumerator.
 

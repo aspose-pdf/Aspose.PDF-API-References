@@ -9,12 +9,12 @@ weight: 80
 url: "/net/aspose.pdf/optimizedmemorystream/flush/"
 product_version: "26.9.0"
 ---
-## Flush() {#flush}
+## OptimizedMemoryStream.Flush method
 
 The function overrided.
 
 ```csharp
-public void Flush()
+public override void Flush()
 ```
 
 ### See Also

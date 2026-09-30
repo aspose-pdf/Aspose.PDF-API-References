@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.annotations/actioncollection/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## ActionCollection.GetEnumerator method
 
 Returns enumerator for collection.
 
@@ -18,8 +18,6 @@ public IEnumerator<PdfAction> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[PdfAction](../../../aspose.pdf.annotations/pdfaction/)>
 
 Collection enumerator.
 

@@ -23,6 +23,7 @@ public void Accept(AnnotationSelector visitor)
 
 ### See Also
 
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -43,6 +44,7 @@ public void Accept(ImagePlacementAbsorber visitor)
 
 ### See Also
 
+* class [ImagePlacementAbsorber](../../../aspose.pdf/imageplacementabsorber/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -63,6 +65,7 @@ public void Accept(TextFragmentAbsorber visitor)
 
 ### See Also
 
+* class [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -83,6 +86,7 @@ public void Accept(TextAbsorber visitor)
 
 ### See Also
 
+* class [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -109,6 +113,7 @@ public void Accept(OcrTextAbsorber visitor)
 
 ### See Also
 
+* class [OcrTextAbsorber](../../../aspose.pdf.ocr/ocrtextabsorber/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

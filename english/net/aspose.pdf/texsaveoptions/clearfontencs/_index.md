@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/texsaveoptions/clearfontencs/"
 product_version: "26.9.0"
 ---
-## ClearFontEncs() {#clearfontencs}
+## TeXSaveOptions.ClearFontEncs method
 
 Clears the font encoding list
 

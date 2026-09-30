@@ -5,7 +5,7 @@ articleTitle: "NumberingStyle"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.NumberingStyle enum. Enumeration of supported page numbering style for PageLabel class."
 type: docs
-weight: 1970
+weight: 1930
 url: "/net/aspose.pdf/numberingstyle/"
 product_version: "26.9.0"
 ---

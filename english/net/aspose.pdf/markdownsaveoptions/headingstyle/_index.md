@@ -19,7 +19,7 @@ public HeadingStyle HeadingStyle { get; set; }
 
 ### See Also
 
-* class [HeadingStyle](../../../aspose.pdf/headingstyle/)
+* enum [HeadingStyle](../../../aspose.pdf/headingstyle/)
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -42,6 +42,7 @@ public void OptimizeResources(OptimizationOptions strategy)
 
 ### See Also
 
+* class [OptimizationOptions](../../../aspose.pdf.optimization/optimizationoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

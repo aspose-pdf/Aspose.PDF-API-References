@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/excelsaveoptions/excelsaveoptions/"
 product_version: "26.9.0"
 ---
-## ExcelSaveOptions() {#constructor}
+## ExcelSaveOptions constructor
 
 The default constructor.
 

@@ -9,7 +9,7 @@ weight: 850
 url: "/net/aspose.pdf/document/savexml/"
 product_version: "26.9.0"
 ---
-## SaveXml(string) {#savexml}
+## Document.SaveXml method
 
 Save document to XML.
 
@@ -19,7 +19,7 @@ public void SaveXml(string file)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| file | string | The document model xml file |
+| file | String | The document model xml file |
 
 ### See Also
 

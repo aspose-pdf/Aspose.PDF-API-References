@@ -23,7 +23,7 @@ The type of the field.
 
 ### See Also
 
-* class [XmpFieldType](../../../aspose.pdf/xmpfieldtype/)
+* enum [XmpFieldType](../../../aspose.pdf/xmpfieldtype/)
 * class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets a collection item value.
 
 ```csharp
-public T0 Data { get; }
+public T Data { get; }
 ```
 
 ### See Also

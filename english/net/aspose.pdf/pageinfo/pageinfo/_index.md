@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/pageinfo/pageinfo/"
 product_version: "26.9.0"
 ---
-## PageInfo() {#constructor}
+## PageInfo constructor
 
 The default constructor.
 

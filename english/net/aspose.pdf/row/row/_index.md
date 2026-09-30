@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/row/row/"
 product_version: "26.9.0"
 ---
-## Row() {#constructor}
+## Row constructor
 
 The default constructor.
 

@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf/filespecification/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## FileSpecification.Dispose method
 
 Dispose contents.
 

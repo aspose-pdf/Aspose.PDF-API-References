@@ -19,7 +19,7 @@ public ConvertTransparencyAction TransparencyAction { get; set; }
 
 ### See Also
 
-* class [ConvertTransparencyAction](../../../aspose.pdf/converttransparencyaction/)
+* enum [ConvertTransparencyAction](../../../aspose.pdf/converttransparencyaction/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

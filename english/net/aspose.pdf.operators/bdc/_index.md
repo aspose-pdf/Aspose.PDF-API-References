@@ -22,25 +22,25 @@ public class BDC : Operator
 
 | Name | Description |
 | --- | --- |
-| [BDC](./bdc/#constructor)(*string*) | Initializes operator. |
-| [BDC](./bdc/#constructor_1)(*string, [BDCProperties](../../aspose.pdf.facades/bdcproperties/)*) | Initializes a new instance of the BDC class. |
+| [BDC](./bdc/#constructor)(string) | Initializes operator. |
+| [BDC](./bdc/#constructor_1)(string, BDCProperties) | Initializes a new instance of the BDC class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. *(Inherited from Operator)* |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
 | [Properties](./properties/) { get; } |  |
-| [Tag](./tag/) { get; set; } | Gets or sets marked content tag. |
+| [Tag](./tag/) { get; set; } | Gets or sets marked content tag |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Accept](./accept/)(*IOperatorSelector*) | Accepts visitor object to process operator. |
-| [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(*Operator*) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc). *(Inherited from Operator)* |
-| [ToString](./tostring/) | Returns text representation of operator. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(*Operator*) | Compares this instance with the given object. *(Inherited from Operator)* |
+| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [ToString](./tostring/)() | Returns text representation of operator. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/texfilesysteminputdirectory/texfilesysteminputdirectory/"
 product_version: "26.9.0"
 ---
-## TeXFileSystemInputDirectory(string) {#constructor}
+## TeXFileSystemInputDirectory constructor
 
 Creates new instance.
 
@@ -19,7 +19,7 @@ public TeXFileSystemInputDirectory(string basePath)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| basePath | string | The base path of the directory. |
+| basePath | String | The base path of the directory. |
 
 ### See Also
 

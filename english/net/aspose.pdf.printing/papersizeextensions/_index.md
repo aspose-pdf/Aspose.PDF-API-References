@@ -22,8 +22,8 @@ public static class PaperSizeExtensions
 
 | Name | Description |
 | --- | --- |
-| [ToAsposePaperSize](./toasposepapersize/)(*PaperSize*) | Converts Windows-specific System.Drawing.Printing.PaperSize to [`PaperSize`](../../aspose.pdf.printing/papersize/). |
-| [ToNativePaperSize](./tonativepapersize/)(*PaperSize*) | Converts [`PaperSize`](../../aspose.pdf.printing/papersize/) to Windows-specific System.Drawing.Printing.PaperSize. |
+| static [ToAsposePaperSize](./toasposepapersize/)(this PaperSize) | Converts Windows-specific System.Drawing.Printing.PaperSize to [`PaperSize`](../../aspose.pdf.printing/papersize/). |
+| static [ToNativePaperSize](./tonativepapersize/)(this PaperSize) | Converts [`PaperSize`](../../aspose.pdf.printing/papersize/) to Windows-specific System.Drawing.Printing.PaperSize. |
 
 ### See Also
 

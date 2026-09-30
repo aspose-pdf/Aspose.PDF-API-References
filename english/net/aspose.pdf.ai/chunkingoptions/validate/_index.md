@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.ai/chunkingoptions/validate/"
 product_version: "26.9.0"
 ---
-## Validate() {#validate}
+## ChunkingOptions.Validate method
 
 Validates the current options configuration.
 

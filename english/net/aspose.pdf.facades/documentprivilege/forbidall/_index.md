@@ -14,13 +14,12 @@ product_version: "26.9.0"
 All Forbidded.
 
 ```csharp
-public DocumentPrivilege ForbidAll { get; }
+public static DocumentPrivilege ForbidAll { get; }
 ```
 
 ### See Also
 
 * class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

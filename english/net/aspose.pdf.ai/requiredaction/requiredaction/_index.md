@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/requiredaction/requiredaction/"
 product_version: "26.9.0"
 ---
-## RequiredAction() {#constructor}
+## RequiredAction constructor
 
 The default constructor.
 

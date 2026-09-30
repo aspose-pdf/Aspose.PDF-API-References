@@ -5,7 +5,7 @@ articleTitle: "RemoteFile"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Bookmark property. Gets or sets the file (path) which is required for \"GoToR\" action of bookmark."
 type: docs
-weight: 170
+weight: 160
 url: "/net/aspose.pdf.facades/bookmark/remotefile/"
 product_version: "26.9.0"
 ---

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/tocinfo/tocinfo/"
 product_version: "26.9.0"
 ---
-## TocInfo() {#constructor}
+## TocInfo constructor
 
 Initializes a new instance of the [`TocInfo`](../../../aspose.pdf/tocinfo/) class.
 

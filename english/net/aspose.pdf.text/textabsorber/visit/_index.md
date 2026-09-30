@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Extracts text on the specified page
 
 ```csharp
-public void Visit(Page page)
+public virtual void Visit(Page page)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void Visit(Page page)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -34,7 +35,7 @@ public void Visit(Page page)
 Extracts text on the specified XForm.
 
 ```csharp
-public void Visit(XForm form)
+public virtual void Visit(XForm form)
 ```
 
 | Parameter | Type | Description |
@@ -43,6 +44,7 @@ public void Visit(XForm form)
 
 ### See Also
 
+* class [XForm](../../../aspose.pdf/xform/)
 * class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -54,7 +56,7 @@ public void Visit(XForm form)
 Extracts text on the specified document
 
 ```csharp
-public void Visit(Document pdf)
+public virtual void Visit(Document pdf)
 ```
 
 | Parameter | Type | Description |
@@ -63,6 +65,7 @@ public void Visit(Document pdf)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

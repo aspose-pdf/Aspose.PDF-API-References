@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf/layer/flatten/"
 product_version: "26.9.0"
 ---
-## Flatten(bool) {#flatten}
+## Layer.Flatten method
 
 Flattens the specified layer.
 
@@ -21,7 +21,7 @@ public void Flatten(bool cleanupContentStream)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cleanupContentStream | bool | Specifies whether to remove optional content group markers from the content stream. |
+| cleanupContentStream | Boolean | Specifies whether to remove optional content group markers from the content stream. |
 
 ### See Also
 

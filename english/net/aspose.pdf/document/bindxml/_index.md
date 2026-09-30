@@ -19,7 +19,7 @@ public void BindXml(string file)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| file | string | The xml file |
+| file | String | The xml file |
 
 ### See Also
 
@@ -39,8 +39,8 @@ public void BindXml(string xmlFile, string xslFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xmlFile | string | The xml file. |
-| xslFile | string | The xsl file if XSLT is used. |
+| xmlFile | String | The xml file. |
+| xslFile | String | The xsl file if XSLT is used. |
 
 ### See Also
 

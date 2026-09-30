@@ -9,7 +9,7 @@ weight: 260
 url: "/net/aspose.pdf.tagged/itaggedcontent/createtablethelement/"
 product_version: "26.9.0"
 ---
-## CreateTableTHElement() {#createtablethelement}
+## ITaggedContent.CreateTableTHElement method
 
 Creates [`TableTHElement`](../../../aspose.pdf.logicalstructure/tablethelement/).
 
@@ -18,8 +18,6 @@ public TableTHElement CreateTableTHElement()
 ```
 
 ### Return Value
-
-[TableTHElement](../../../aspose.pdf.logicalstructure/tablethelement/)
 
 Created structure element.
 

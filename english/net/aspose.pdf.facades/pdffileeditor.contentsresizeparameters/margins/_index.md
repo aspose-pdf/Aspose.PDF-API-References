@@ -9,24 +9,22 @@ weight: 30
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/margins/"
 product_version: "26.9.0"
 ---
-## Margins(double, double, double, double) {#margins}
+## PdfFileEditor.ContentsResizeParameters.Margins method
 
 Creates resize parameters with specifed margins value. Contents size is automatically calculated.
 
 ```csharp
-public ContentsResizeParameters Margins(double left, double right, double top, double bottom)
+public static ContentsResizeParameters Margins(double left, double right, double top, double bottom)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| left | double | Left margin. |
-| right | double | Right margin. |
-| top | double | Top margin. |
-| bottom | double | Bottom margin. |
+| left | Double | Left margin. |
+| right | Double | Right margin. |
+| top | Double | Top margin. |
+| bottom | Double | Bottom margin. |
 
 ### Return Value
-
-ContentsResizeParameters
 
 Created resize parameters.
 

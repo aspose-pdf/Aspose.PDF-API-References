@@ -22,10 +22,10 @@ public abstract class DocumentDevice : PageDevice
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(*Document, Stream*) | Processes the whole document and saves results into stream. |
-| [Process](./process/)(*Document, string*) | Processes the whole document and saves results into file. |
-| [Process](./process/)(*Document, int, int, Stream*) | Each device represents some operation on the document, e.g. we can convert pdf document into another format. |
-| [Process](./process/)(*Document, int, int, string*) | Processes certain pages of the document and saves results into file. |
+| [Process](./process/)(Document, Stream) | Processes the whole document and saves results into stream. |
+| [Process](./process/)(Document, string) | Processes the whole document and saves results into file. |
+| abstract [Process](./process/)(Document, int, int, Stream) | Each device represents some operation on the document, e.g. we can convert pdf document into another format. |
+| [Process](./process/)(Document, int, int, string) | Processes certain pages of the document and saves results into file. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf/paragraphs/insertrange/"
 product_version: "26.9.0"
 ---
-## InsertRange(int, IEnumerable<BaseParagraph>) {#insertrange}
+## Paragraphs.InsertRange method
 
 Inserts the elements of a collection into the list at the specified index.
 
@@ -19,8 +19,8 @@ public void InsertRange(int index, IEnumerable<BaseParagraph> collection)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index value. |
-| collection | IEnumerable<BaseParagraph> | Collection. |
+| index | Int32 | Index value. |
+| collection | IEnumerable`1 | Collection. |
 
 ### See Also
 

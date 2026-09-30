@@ -9,14 +9,14 @@ weight: 40
 url: "/net/aspose.pdf.text/textfragmentstate/applychangesfrom/"
 product_version: "26.9.0"
 ---
-## ApplyChangesFrom([TextState](../../../aspose.pdf.text/textstate/)) {#applychangesfrom}
+## TextFragmentState.ApplyChangesFrom method
 
 Applies settings from another textState.
 
 Only those properties will be copied that were changed explicitly.
 
 ```csharp
-public void ApplyChangesFrom(TextState textState)
+public override void ApplyChangesFrom(TextState textState)
 ```
 
 | Parameter | Type | Description |
@@ -25,6 +25,7 @@ public void ApplyChangesFrom(TextState textState)
 
 ### See Also
 
+* class [TextState](../../../aspose.pdf.text/textstate/)
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

@@ -5,7 +5,7 @@ articleTitle: "XmpPdfAExtensionSchema"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.XmpPdfAExtensionSchema class. Describes the XMP extension schema which is provided by PDF/A-1."
 type: docs
-weight: 3320
+weight: 3280
 url: "/net/aspose.pdf/xmppdfaextensionschema/"
 keywords: "XmpPdfAExtensionSchema, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public class XmpPdfAExtensionSchema
 
 | Name | Description |
 | --- | --- |
-| [XmpPdfAExtensionSchema](./xmppdfaextensionschema/#constructor)(*[XmpPdfAExtensionSchemaDescription](../../aspose.pdf/xmppdfaextensionschemadescription/)*) | Initializes new object. |
+| [XmpPdfAExtensionSchema](./xmppdfaextensionschema/)(XmpPdfAExtensionSchemaDescription) | Initializes new object. |
 
 ## Properties
 
@@ -35,12 +35,12 @@ public class XmpPdfAExtensionSchema
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*XmpPdfAExtensionObject*) | Adds new object into schema. |
-| [Contains](./contains/)(*XmpPdfAExtensionObject*) | Determines whether obj exists in schema. |
-| [GetProperty](./getproperty/)(*string*) | Returns PDF/A property by its name. |
-| [GetSchemaXml](./getschemaxml/)(*XmlDocument*) | Returns the xml element (tag - li) that represents schema in xml tree. |
-| [GetValuesXml](./getvaluesxml/)(*XmlDocument, XmlElement*) | Gets the values of properties as xml tree representation. |
-| [Remove](./remove/)(*XmpPdfAExtensionObject*) | Removes the object from schema. |
+| [Add](./add/)(XmpPdfAExtensionObject) | Adds new object into schema. |
+| [Contains](./contains/)(XmpPdfAExtensionObject) | Determines whether obj exists in schema. |
+| [GetProperty](./getproperty/)(string) | Returns PDF/A property by its name. |
+| [GetSchemaXml](./getschemaxml/)(XmlDocument) | Returns the xml element (tag - li) that represents schema in xml tree. |
+| [GetValuesXml](./getvaluesxml/)(XmlDocument, XmlElement) | Gets the values of properties as xml tree representation. |
+| [Remove](./remove/)(XmpPdfAExtensionObject) | Removes the object from schema. |
 
 ## Fields
 

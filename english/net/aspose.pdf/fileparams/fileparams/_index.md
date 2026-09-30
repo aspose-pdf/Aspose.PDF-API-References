@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/fileparams/fileparams/"
 product_version: "26.9.0"
 ---
-## FileParams([FileSpecification](../../../aspose.pdf/filespecification/)) {#constructor}
+## FileParams constructor
 
 Constructor for FileParams class.
 
@@ -23,6 +23,7 @@ public FileParams(FileSpecification spec)
 
 ### See Also
 
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
 * class [FileParams](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

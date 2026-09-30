@@ -9,17 +9,15 @@ weight: 70
 url: "/net/aspose.pdf.text/textfragment/clonewithsegments/"
 product_version: "26.9.0"
 ---
-## CloneWithSegments() {#clonewithsegments}
+## TextFragment.CloneWithSegments method
 
 Clone the fragment with all segments.
 
 ```csharp
-public object CloneWithSegments()
+public virtual object CloneWithSegments()
 ```
 
 ### Return Value
-
-object
 
 The cloned object
 

@@ -22,8 +22,8 @@ public class GradientRadialShading : PatternColorSpace
 
 | Name | Description |
 | --- | --- |
-| [GradientRadialShading](./gradientradialshading/#constructor) | Initializes a new instance of the [`GradientRadialShading`](../../aspose.pdf.drawing/gradientradialshading/) class. |
-| [GradientRadialShading](./gradientradialshading/#constructor_1)(*[Color](../../aspose.pdf/color/), [Color](../../aspose.pdf/color/)*) | Initializes a new instance of the [`GradientRadialShading`](../../aspose.pdf.drawing/gradientradialshading/) class. |
+| [GradientRadialShading](./gradientradialshading/#constructor)() | Initializes a new instance of the [`GradientRadialShading`](../../aspose.pdf.drawing/gradientradialshading/) class. |
+| [GradientRadialShading](./gradientradialshading/#constructor_1)(Color, Color) | Initializes a new instance of the [`GradientRadialShading`](../../aspose.pdf.drawing/gradientradialshading/) class. |
 
 ## Properties
 

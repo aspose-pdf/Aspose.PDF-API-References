@@ -19,8 +19,6 @@ public Cell Add()
 
 ### Return Value
 
-[Cell](../../../aspose.pdf/cell/)
-
 The new cell
 
 ### See Also
@@ -42,18 +40,17 @@ public Cell Add(string text, TextState ts)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string | The text for cell. |
+| text | String | The text for cell. |
 | ts | TextState | The text state. |
 
 ### Return Value
-
-[Cell](../../../aspose.pdf/cell/)
 
 The new cell
 
 ### See Also
 
 * class [Cell](../../../aspose.pdf/cell/)
+* class [TextState](../../../aspose.pdf.text/textstate/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -70,11 +67,9 @@ public Cell Add(string text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string | The text for cell. |
+| text | String | The text for cell. |
 
 ### Return Value
-
-[Cell](../../../aspose.pdf/cell/)
 
 The new cell
 
@@ -101,13 +96,12 @@ public Cell Add(TextFragment textFragment)
 
 ### Return Value
 
-[Cell](../../../aspose.pdf/cell/)
-
 The new cell
 
 ### See Also
 
 * class [Cell](../../../aspose.pdf/cell/)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -128,6 +122,7 @@ public void Add(Cell cell)
 
 ### See Also
 
+* class [Cell](../../../aspose.pdf/cell/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -5,7 +5,7 @@ articleTitle: "AutoAdjustFontSizePrecision"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "TextStamp property. Automatically adjust font size precision. Default value: 0.1;"
 type: docs
-weight: 210
+weight: 200
 url: "/net/aspose.pdf/textstamp/autoadjustfontsizeprecision/"
 product_version: "26.9.0"
 ---

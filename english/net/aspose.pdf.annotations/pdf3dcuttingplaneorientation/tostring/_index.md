@@ -9,17 +9,15 @@ weight: 30
 url: "/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## PDF3DCuttingPlaneOrientation.ToString method
 
 Returns a `String` that represents this instance.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 A `String` that represents this instance.
 

@@ -5,7 +5,7 @@ articleTitle: "Multiline"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "TextBoxField property. Gets or sets multiline flag of the field. If Multiline is true field can contain multiple lines of text."
 type: docs
-weight: 80
+weight: 70
 url: "/net/aspose.pdf.forms/textboxfield/multiline/"
 product_version: "26.9.0"
 ---

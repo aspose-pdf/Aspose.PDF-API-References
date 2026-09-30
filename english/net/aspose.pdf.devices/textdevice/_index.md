@@ -22,10 +22,10 @@ public sealed class TextDevice : PageDevice
 
 | Name | Description |
 | --- | --- |
-| [TextDevice](./textdevice/#constructor) | Initializes a new instance of the [`TextDevice`](../../aspose.pdf.devices/textdevice/) with the Raw text formatting mode and Unicode text encoding. |
-| [TextDevice](./textdevice/#constructor_1)(*[TextExtractionOptions](../../aspose.pdf.text/textextractionoptions/)*) | Initializes a new instance of the [`TextDevice`](../../aspose.pdf.devices/textdevice/) with text extraction options. |
-| [TextDevice](./textdevice/#constructor_2)(*Encoding*) | Initializes a new instance of the [`TextDevice`](../../aspose.pdf.devices/textdevice/) for the specified encoding. |
-| [TextDevice](./textdevice/#constructor_3)(*[TextExtractionOptions](../../aspose.pdf.text/textextractionoptions/), Encoding*) | Initializes a new instance of the [`TextDevice`](../../aspose.pdf.devices/textdevice/) for the specified encoding with text extraction options. |
+| [TextDevice](./textdevice/#constructor)() | Initializes a new instance of the [`TextDevice`](../../aspose.pdf.devices/textdevice/) with the Raw text formatting mode and Unicode text encoding. |
+| [TextDevice](./textdevice/#constructor_1)(Encoding) | Initializes a new instance of the [`TextDevice`](../../aspose.pdf.devices/textdevice/) for the specified encoding. |
+| [TextDevice](./textdevice/#constructor_2)(TextExtractionOptions) | Initializes a new instance of the [`TextDevice`](../../aspose.pdf.devices/textdevice/) with text extraction options. |
+| [TextDevice](./textdevice/#constructor_3)(TextExtractionOptions, Encoding) | Initializes a new instance of the [`TextDevice`](../../aspose.pdf.devices/textdevice/) for the specified encoding with text extraction options. |
 
 ## Properties
 
@@ -38,7 +38,7 @@ public sealed class TextDevice : PageDevice
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(*Page, Stream*) | Convert page and save it as text stream. |
+| override [Process](./process/)(Page, Stream) | Convert page and save it as text stream. |
 
 ## Remarks
 

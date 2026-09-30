@@ -15,7 +15,7 @@ product_version: "26.9.0"
 Represents font collection.
 
 ```csharp
-public sealed class FontCollection : IEnumerable
+public sealed class FontCollection : ICollection<Font>
 ```
 
 ## Properties
@@ -23,22 +23,21 @@ public sealed class FontCollection : IEnumerable
 | Name | Description |
 | --- | --- |
 | [Count](./count/) { get; } | Gets the number of [`Font`](../../aspose.pdf.text/font/) object elements actually contained in the collection. |
-| [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether collection is read-only. |
+| [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether collection is read-only |
 | [IsSynchronized](./issynchronized/) { get; } | Gets a value indicating whether access to the collection is synchronized (thread safe). |
-| [Item](./item/) { get; } | Gets the font element at the specified index. |
-| [Item](./item/) { get; } | Gets font from the collection by font name. |
+| [Item](./item/) { get; } | Gets the font element at the specified index. (2 indexers) |
 | [SyncRoot](./syncroot/) { get; } | Gets an object that can be used to synchronize access to the collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*Font, string*) |  |
-| [Contains](./contains/)(*string*) | Checks if font exists in font collection. |
-| [Contains](./contains/)(*Font*) | Determines whether the collection contains a specific value. |
-| [CopyTo](./copyto/)(*Font[], int*) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array. |
-| [GetEnumerator](./getenumerator/) | Returns an enumerator for the entire collection. |
-| [Remove](./remove/)(*Font*) | Deletes specified item from collection. |
+| [Add](./add/)(Font, out string) | Adds new font to font resources and returns automatically assigned name of font resource. |
+| [Contains](./contains/)(Font) | Determines whether the collection contains a specific value. |
+| [Contains](./contains/)(string) | Checks if font exists in font collection. |
+| [CopyTo](./copyto/)(Font[], int) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array |
+| [GetEnumerator](./getenumerator/)() | Returns an enumerator for the entire collection. |
+| [Remove](./remove/)(Font) | Deletes specified item from collection. |
 
 ## Remarks
 

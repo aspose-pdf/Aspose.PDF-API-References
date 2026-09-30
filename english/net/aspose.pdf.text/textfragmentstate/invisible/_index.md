@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets invisibility of the text.
 
 ```csharp
-public bool Invisible { get; set; }
+public override bool Invisible { get; set; }
 ```
 
 ### See Also

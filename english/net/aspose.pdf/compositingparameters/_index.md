@@ -22,9 +22,9 @@ public sealed class CompositingParameters
 
 | Name | Description |
 | --- | --- |
-| [CompositingParameters](./compositingparameters/#constructor)(*[BlendMode](../../aspose.pdf/blendmode/)*) | Initializes new instance of the [`CompositingParameters`](../../aspose.pdf/compositingparameters/) object. |
-| [CompositingParameters](./compositingparameters/#constructor_1)(*[BlendMode](../../aspose.pdf/blendmode/), [ImageFilterType](../../aspose.pdf/imagefiltertype/)*) | Initializes new instance of the [`CompositingParameters`](../../aspose.pdf/compositingparameters/) object. |
-| [CompositingParameters](./compositingparameters/#constructor_2)(*[BlendMode](../../aspose.pdf/blendmode/), [ImageFilterType](../../aspose.pdf/imagefiltertype/), bool*) | Initializes new instance of the [`CompositingParameters`](../../aspose.pdf/compositingparameters/) object. |
+| [CompositingParameters](./compositingparameters/#constructor)(BlendMode) | Initializes new instance of the [`CompositingParameters`](../../aspose.pdf/compositingparameters/) object. |
+| [CompositingParameters](./compositingparameters/#constructor_1)(BlendMode, ImageFilterType) | Initializes new instance of the [`CompositingParameters`](../../aspose.pdf/compositingparameters/) object. |
+| [CompositingParameters](./compositingparameters/#constructor_2)(BlendMode, ImageFilterType, bool) | Initializes new instance of the [`CompositingParameters`](../../aspose.pdf/compositingparameters/) object. |
 
 ## Properties
 

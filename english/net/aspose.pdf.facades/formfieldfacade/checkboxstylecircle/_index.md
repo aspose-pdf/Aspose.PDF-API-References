@@ -5,7 +5,7 @@ articleTitle: "CheckBoxStyleCircle"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormFieldFacade field. Defines a circle check box style."
 type: docs
-weight: 410
+weight: 390
 url: "/net/aspose.pdf.facades/formfieldfacade/checkboxstylecircle/"
 product_version: "26.9.0"
 ---

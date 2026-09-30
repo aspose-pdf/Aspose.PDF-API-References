@@ -22,13 +22,13 @@ public class Splitter : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [Splitter](./splitter/#constructor) | The default constructor. |
+| [Splitter](./splitter/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(*IPluginOptions*) | Starts the [`Splitter`](../../aspose.pdf.lowcode/splitter/) processing with the specified parameters. |
+| [Process](./process/)(IPluginOptions) | Starts the [`Splitter`](../../aspose.pdf.lowcode/splitter/) processing with the specified parameters. |
 
 ### See Also
 

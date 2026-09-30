@@ -9,12 +9,12 @@ weight: 130
 url: "/net/aspose.pdf/operatorcollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## OperatorCollection.Clear method
 
 Removes all operators from list.
 
 ```csharp
-public void Clear()
+public override void Clear()
 ```
 
 ### See Also

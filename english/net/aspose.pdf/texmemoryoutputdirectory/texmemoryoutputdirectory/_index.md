@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/texmemoryoutputdirectory/texmemoryoutputdirectory/"
 product_version: "26.9.0"
 ---
-## TeXMemoryOutputDirectory() {#constructor}
+## TeXMemoryOutputDirectory constructor
 
 The default constructor.
 

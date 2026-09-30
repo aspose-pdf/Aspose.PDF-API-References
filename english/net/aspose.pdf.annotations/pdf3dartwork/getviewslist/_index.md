@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.annotations/pdf3dartwork/getviewslist/"
 product_version: "26.9.0"
 ---
-## GetViewsList() {#getviewslist}
+## PDF3DArtwork.GetViewsList method
 
 Get the views as list.
 
@@ -18,8 +18,6 @@ public ReadOnlyCollection<PDF3DView> GetViewsList()
 ```
 
 ### Return Value
-
-ReadOnlyCollection<[PDF3DView](../../../aspose.pdf.annotations/pdf3dview/)>
 
 ReadOnlyCollection&lt;PDF3DView&gt;.
 

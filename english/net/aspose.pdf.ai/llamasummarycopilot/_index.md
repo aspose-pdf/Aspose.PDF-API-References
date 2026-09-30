@@ -50,14 +50,14 @@ Provides functionality for getting document summaries using AI models.
  await summaryCopilot.SaveSummaryAsync("outputPath", SaveFormat.DocX);
 
 ```csharp
-public class LlamaSummaryCopilot : ISummaryCopilot, IAICopilot
+public class LlamaSummaryCopilot : ISummaryCopilot
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [LlamaSummaryCopilot](./llamasummarycopilot/#constructor)(*[ILlamaClient](../../aspose.pdf.ai/illamaclient/), ISummaryCopilotOptions<LlamaSummaryCopilotOptions>*) | Initializes a new instance of the [`LlamaSummaryCopilot`](../../aspose.pdf.ai/llamasummarycopilot/) class. |
+| [LlamaSummaryCopilot](./llamasummarycopilot/)(ILlamaClient, ISummaryCopilotOptions<LlamaSummaryCopilotOptions>) | Initializes a new instance of the [`LlamaSummaryCopilot`](../../aspose.pdf.ai/llamasummarycopilot/) class. |
 
 ## Properties
 
@@ -69,11 +69,11 @@ public class LlamaSummaryCopilot : ISummaryCopilot, IAICopilot
 
 | Name | Description |
 | --- | --- |
-| [GetSummaryAsync](./getsummaryasync/)(*Nullable<CancellationToken>*) |  |
-| [GetSummaryDocumentAsync](./getsummarydocumentasync/)(*Nullable<CancellationToken>*) |  |
-| [GetSummaryDocumentAsync](./getsummarydocumentasync/)(*PageInfo, Nullable<CancellationToken>*) |  |
-| [SaveSummaryAsync](./savesummaryasync/)(*string, Nullable<CancellationToken>*) |  |
-| [SaveSummaryAsync](./savesummaryasync/)(*string, SaveFormat, Nullable<CancellationToken>*) |  |
+| [GetSummaryAsync](./getsummaryasync/)(CancellationToken?) |  |
+| [GetSummaryDocumentAsync](./getsummarydocumentasync/)(CancellationToken?) |  |
+| [GetSummaryDocumentAsync](./getsummarydocumentasync/)(PageInfo, CancellationToken?) |  |
+| [SaveSummaryAsync](./savesummaryasync/)(string, CancellationToken?) |  |
+| [SaveSummaryAsync](./savesummaryasync/)(string, SaveFormat, CancellationToken?) |  |
 
 ### See Also
 

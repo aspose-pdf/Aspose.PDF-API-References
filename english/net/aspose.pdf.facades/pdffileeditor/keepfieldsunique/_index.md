@@ -5,7 +5,7 @@ articleTitle: "KeepFieldsUnique"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileEditor property. If true then field names will be made unique when forms are concatenated. Suffixes will be added to field names, suffix template may ..."
 type: docs
-weight: 1180
+weight: 1170
 url: "/net/aspose.pdf.facades/pdffileeditor/keepfieldsunique/"
 product_version: "26.9.0"
 ---

@@ -9,23 +9,22 @@ weight: 110
 url: "/net/aspose.pdf.ai/iopenaiclient/deletethreadmessageasync/"
 product_version: "26.9.0"
 ---
-## DeleteThreadMessageAsync(string, string, Nullable<CancellationToken>) {#deletethreadmessageasync}
+## IOpenAIClient.DeleteThreadMessageAsync method
 
 Deletes a message within a thread asynchronously.
 
 ```csharp
-public Task<DeleteStatusResponse> DeleteThreadMessageAsync(string threadId, string threadMessageId, Nullable<CancellationToken> cancellationToken)
+public Task<DeleteStatusResponse> DeleteThreadMessageAsync(string threadId, string threadMessageId, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threadId | string | The ID of the thread containing the message to delete. |
-| threadMessageId | string | The ID of the message to delete. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| threadId | String | The ID of the thread containing the message to delete. |
+| threadMessageId | String | The ID of the message to delete. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[DeleteStatusResponse](../../../aspose.pdf.ai/deletestatusresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the status of the delete operation.
 

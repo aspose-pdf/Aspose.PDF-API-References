@@ -9,7 +9,7 @@ weight: 200
 url: "/net/aspose.pdf.forms/form/makeformannotationsindependent/"
 product_version: "26.9.0"
 ---
-## MakeFormAnnotationsIndependent([Page](../../../aspose.pdf/page/)) {#makeformannotationsindependent}
+## Form.MakeFormAnnotationsIndependent method
 
 Makes form fields annotations independent.
 
@@ -23,6 +23,7 @@ public void MakeFormAnnotationsIndependent(Page page)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

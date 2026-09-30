@@ -9,13 +9,21 @@ weight: 90
 url: "/net/aspose.pdf/outputintents/item/"
 product_version: "26.9.0"
 ---
-## OutputIntents.Item property
+## OutputIntents indexer
 
 Gets the output intent at the specified *index*.
 
 ```csharp
-public OutputIntent Item { get; }
+public OutputIntent this[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | The zero-based index of the output intent to get. |
+
+### Return Value
+
+The output intent at the specified *index*.
 
 ### See Also
 

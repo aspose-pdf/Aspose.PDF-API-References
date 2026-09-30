@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets text extraction options.
 
 ```csharp
-public TextExtractionOptions ExtractionOptions { get; set; }
+public override TextExtractionOptions ExtractionOptions { get; set; }
 ```
 
 ### See Also

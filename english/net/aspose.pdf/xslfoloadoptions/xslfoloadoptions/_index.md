@@ -25,27 +25,7 @@ public XslFoLoadOptions()
 
 ---
 
-## XslFoLoadOptions(string) {#constructor_1}
-
-Creates [`XslFoLoadOptions`](../../../aspose.pdf/xslfoloadoptions/) object with xsl data.
-
-```csharp
-public XslFoLoadOptions(string xslFile)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| xslFile | string | Xsl file to convert XSL-FO document into pdf document. |
-
-### See Also
-
-* class [XslFoLoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## XslFoLoadOptions(Stream) {#constructor_2}
+## XslFoLoadOptions(Stream) {#constructor_1}
 
 Creates [`XslFoLoadOptions`](../../../aspose.pdf/xslfoloadoptions/) object with xsl data.
 
@@ -56,6 +36,26 @@ public XslFoLoadOptions(Stream xslStream)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | xslStream | Stream | Xsl stream to convert XSL-FO document into pdf document. |
+
+### See Also
+
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## XslFoLoadOptions(string) {#constructor_2}
+
+Creates [`XslFoLoadOptions`](../../../aspose.pdf/xslfoloadoptions/) object with xsl data.
+
+```csharp
+public XslFoLoadOptions(string xslFile)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| xslFile | String | Xsl file to convert XSL-FO document into pdf document. |
 
 ### See Also
 

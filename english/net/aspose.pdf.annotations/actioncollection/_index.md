@@ -15,7 +15,7 @@ product_version: "26.9.0"
 Collection of actions
 
 ```csharp
-public sealed class ActionCollection : IEnumerable
+public sealed class ActionCollection : ICollection<PdfAction>
 ```
 
 ## Properties
@@ -32,14 +32,14 @@ public sealed class ActionCollection : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*PdfAction*) | Adds new action into colleciton. |
-| [Clear](./clear/) | Clear collection. |
-| [Contains](./contains/)(*PdfAction*) | Returns true if give item presents in the collection. |
-| [CopyTo](./copyto/)(*PdfAction[], int*) | Copies actions array into collection. |
-| [Delete](./delete/) | Delete all actions. |
-| [Delete](./delete/)(*int*) | Removes action from collection by index. |
-| [GetEnumerator](./getenumerator/) | Returns enumerator for collection. |
-| [Remove](./remove/)(*PdfAction*) | Removes item from collection. |
+| [Add](./add/)(PdfAction) | Adds new action into colleciton. |
+| [Clear](./clear/)() | Clear collection. |
+| [Contains](./contains/)(PdfAction) | Returns true if give item presents in the collection. |
+| [CopyTo](./copyto/)(PdfAction[], int) | Copies actions array into collection. |
+| [Delete](./delete/)() | Delete all actions. |
+| [Delete](./delete/)(int) | Removes action from collection by index. |
+| [GetEnumerator](./getenumerator/)() | Returns enumerator for collection. |
+| [Remove](./remove/)(PdfAction) | Removes item from collection. |
 
 ### See Also
 

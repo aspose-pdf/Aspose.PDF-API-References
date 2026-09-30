@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.vector/graphicsabsorber/suppressupdate/"
 product_version: "26.9.0"
 ---
-## SuppressUpdate() {#suppressupdate}
+## GraphicsAbsorber.SuppressUpdate method
 
 Suppresses update for `Contents` and all `Contents` 
  Was made for performance increase, see also .

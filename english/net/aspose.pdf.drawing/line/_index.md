@@ -22,21 +22,21 @@ public sealed class Line : Shape
 
 | Name | Description |
 | --- | --- |
-| [Line](./line/#constructor)(*float[]*) | Initializes a new instance of the [`Line`](../../aspose.pdf.drawing/line/) class. |
+| [Line](./line/)(float[]) | Initializes a new instance of the [`Line`](../../aspose.pdf.drawing/line/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Gets or sets a `GraphInfo` object that indicates the graph info,such as color,. *(Inherited from Shape)* |
-| [PositionArray](./positionarray/) { get; set; } | Gets or sets a `PositionArray` object that indicates the position array.The array is. |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape. *(Inherited from Shape)* |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Gets or sets a `GraphInfo` object that indicates the graph info,such as color, line width,etc. |
+| [PositionArray](./positionarray/) { get; set; } | Gets or sets a `PositionArray` object that indicates the position array.The array is composed by coordinates of each control point of the line. directly. |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CheckBounds](./checkbounds/)(*double, double*) |  |
+| override [CheckBounds](./checkbounds/)(double, double) |  |
 
 ### See Also
 

@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets valid pdf Color object from System.Drawing.Color value.
 
 ```csharp
-public Color FromRgb(Color color)
+public static Color FromRgb(Color color)
 ```
 
 | Parameter | Type | Description |
@@ -23,14 +23,11 @@ public Color FromRgb(Color color)
 
 ### Return Value
 
-[Color](../../../aspose.pdf/color/)
-
 Color object with each component value in [0..1] range.
 
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)
-* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,25 +38,22 @@ Color object with each component value in [0..1] range.
 Gets valid pdf Color object from RGB color components.
 
 ```csharp
-public Color FromRgb(double r, double g, double b)
+public static Color FromRgb(double r, double g, double b)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| r | double | The Red color component (value 0 - 1). |
-| g | double | The Green color component (value 0 - 1). |
-| b | double | The Blue color component (value 0 - 1). |
+| r | Double | The Red color component (value 0 - 1). |
+| g | Double | The Green color component (value 0 - 1). |
+| b | Double | The Blue color component (value 0 - 1). |
 
 ### Return Value
-
-[Color](../../../aspose.pdf/color/)
 
 Color object with each component value in [0..1] range.
 
 ### See Also
 
 * class [Color](../../../aspose.pdf/color/)
-* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

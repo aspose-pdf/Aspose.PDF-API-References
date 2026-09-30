@@ -5,7 +5,7 @@ articleTitle: "PrintDuplex"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.PrintDuplex enum. The paper handling option to use when printing the file from the print dialog.."
 type: docs
-weight: 2590
+weight: 2550
 url: "/net/aspose.pdf/printduplex/"
 product_version: "26.9.0"
 ---

@@ -39,6 +39,7 @@ public OperatorSelector(Operator op)
 
 ### See Also
 
+* class [Operator](../../../aspose.pdf/operator/)
 * class [OperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

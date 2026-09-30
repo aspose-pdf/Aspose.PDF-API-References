@@ -5,7 +5,7 @@ articleTitle: "BindPdf"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "AutoFiller method. Binds a Pdf file."
 type: docs
-weight: 60
+weight: 50
 url: "/net/aspose.pdf.facades/autofiller/bindpdf/"
 product_version: "26.9.0"
 ---
@@ -19,7 +19,7 @@ public void BindPdf(string srcFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFile | string | Pdf file name. |
+| srcFile | String | Pdf file name. |
 
 ### See Also
 
@@ -63,6 +63,7 @@ public void BindPdf(Document srcDoc)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [AutoFiller](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

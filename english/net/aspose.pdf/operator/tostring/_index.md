@@ -9,17 +9,15 @@ weight: 20
 url: "/net/aspose.pdf/operator/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## Operator.ToString method
 
 Returns text of operator and its parameters.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 Operator text
 

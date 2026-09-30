@@ -9,27 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/invalidpdffileformatexception/invalidpdffileformatexception/"
 product_version: "26.9.0"
 ---
-## InvalidPdfFileFormatException(string) {#constructor}
-
-Initializes a new instance of the [`InvalidPdfFileFormatException`](../../../aspose.pdf/invalidpdffileformatexception/) class.
-
-```csharp
-public InvalidPdfFileFormatException(string message)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| message | string | The message. |
-
-### See Also
-
-* class [InvalidPdfFileFormatException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## InvalidPdfFileFormatException(Exception) {#constructor_1}
+## InvalidPdfFileFormatException(Exception) {#constructor}
 
 Initializes a new instance of the [`InvalidPdfFileFormatException`](../../../aspose.pdf/invalidpdffileformatexception/) class with a reference to the inner exception that is the cause of this exception.
 
@@ -49,6 +29,26 @@ public InvalidPdfFileFormatException(Exception innerException)
 
 ---
 
+## InvalidPdfFileFormatException(string) {#constructor_1}
+
+Initializes a new instance of the [`InvalidPdfFileFormatException`](../../../aspose.pdf/invalidpdffileformatexception/) class.
+
+```csharp
+public InvalidPdfFileFormatException(string message)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| message | String | The message. |
+
+### See Also
+
+* class [InvalidPdfFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## InvalidPdfFileFormatException(string, Exception) {#constructor_2}
 
 Initializes a new instance of the [`InvalidPdfFileFormatException`](../../../aspose.pdf/invalidpdffileformatexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception.
@@ -59,7 +59,7 @@ public InvalidPdfFileFormatException(string message, Exception innerException)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | string | The error message that explains the reason for the exception. |
+| message | String | The error message that explains the reason for the exception. |
 | innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 
 ### See Also

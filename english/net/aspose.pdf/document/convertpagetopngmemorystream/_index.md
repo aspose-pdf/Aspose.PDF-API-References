@@ -9,7 +9,7 @@ weight: 430
 url: "/net/aspose.pdf/document/convertpagetopngmemorystream/"
 product_version: "26.9.0"
 ---
-## ConvertPageToPNGMemoryStream([Page](../../../aspose.pdf/page/)) {#convertpagetopngmemorystream}
+## Document.ConvertPageToPNGMemoryStream method
 
 Convert page to PNG for DSR, OMR, OCR image stream.
 
@@ -23,12 +23,11 @@ public MemoryStream ConvertPageToPNGMemoryStream(Page page)
 
 ### Return Value
 
-MemoryStream
-
 Image stream.
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

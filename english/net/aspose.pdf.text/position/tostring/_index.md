@@ -9,17 +9,15 @@ weight: 20
 url: "/net/aspose.pdf.text/position/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## Position.ToString method
 
 Gets string representation for the current [`Position`](../../../aspose.pdf.text/position/) object.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String representration of the Position object.
 

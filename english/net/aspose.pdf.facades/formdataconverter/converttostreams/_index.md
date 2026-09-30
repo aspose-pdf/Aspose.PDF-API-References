@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf.facades/formdataconverter/converttostreams/"
 product_version: "26.9.0"
 ---
-## ConvertToStreams(Stream[], [DataType](../../../aspose.pdf.lowcode/datatype/)) {#converttostreams}
+## FormDataConverter.ConvertToStreams method
 
 Convert data in table into streams.
 
@@ -24,6 +24,7 @@ public void ConvertToStreams(Stream[] destStream, DataType destType)
 
 ### See Also
 
+* enum [DataType](../../../aspose.pdf.lowcode/datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

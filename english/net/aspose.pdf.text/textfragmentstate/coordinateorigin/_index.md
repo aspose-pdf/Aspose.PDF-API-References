@@ -19,12 +19,12 @@ Gets or sets text CoordinateOrigin.
  In this case, CoordinateOrigin BaseLine can be selected for better text rendering.
 
 ```csharp
-public CoordinateOrigin CoordinateOrigin { get; set; }
+public override CoordinateOrigin CoordinateOrigin { get; set; }
 ```
 
 ### See Also
 
-* class [CoordinateOrigin](../../../aspose.pdf.text/coordinateorigin/)
+* enum [CoordinateOrigin](../../../aspose.pdf.text/coordinateorigin/)
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

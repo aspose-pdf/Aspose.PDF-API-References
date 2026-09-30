@@ -9,12 +9,12 @@ weight: 20
 url: "/net/aspose.pdf.annotations/xfdfreader/readannotations/"
 product_version: "26.9.0"
 ---
-## ReadAnnotations(Stream, [Document](../../../aspose.pdf/document/)) {#readannotations}
+## XfdfReader.ReadAnnotations method
 
 Import annotations from XFDF file and put them into document.
 
 ```csharp
-public void ReadAnnotations(Stream stream, Document document)
+public static void ReadAnnotations(Stream stream, Document document)
 ```
 
 | Parameter | Type | Description |
@@ -24,6 +24,7 @@ public void ReadAnnotations(Stream stream, Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [XfdfReader](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

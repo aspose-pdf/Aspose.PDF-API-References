@@ -9,12 +9,12 @@ weight: 140
 url: "/net/aspose.pdf/page/rotationtoint/"
 product_version: "26.9.0"
 ---
-## RotationToInt([Rotation](../../../aspose.pdf/rotation/)) {#rotationtoint}
+## Page.RotationToInt method
 
 Translates rotation enumeration member into integer value.
 
 ```csharp
-public int RotationToInt(Rotation rotation)
+public static int RotationToInt(Rotation rotation)
 ```
 
 | Parameter | Type | Description |
@@ -23,12 +23,11 @@ public int RotationToInt(Rotation rotation)
 
 ### Return Value
 
-int
-
 Corresponding integer value
 
 ### See Also
 
+* enum [Rotation](../../../aspose.pdf/rotation/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -9,17 +9,15 @@ weight: 30
 url: "/net/aspose.pdf.printing/papersource/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## PaperSource.ToString method
 
 Provides some interesting information about the PaperSource in String form.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String representing PaperSource.
 

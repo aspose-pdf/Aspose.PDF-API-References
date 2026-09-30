@@ -5,7 +5,7 @@ articleTitle: "Color"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "TextStyle property. Color of the text."
 type: docs
-weight: 60
+weight: 50
 url: "/net/aspose.pdf.annotations/textstyle/color/"
 product_version: "26.9.0"
 ---

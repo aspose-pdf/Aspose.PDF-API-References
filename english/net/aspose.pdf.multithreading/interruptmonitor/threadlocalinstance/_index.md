@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Gets or sets the IInterruptMonitor instance which is unique for each thread.
 
 ```csharp
-public IInterruptMonitor ThreadLocalInstance { get; set; }
+public static IInterruptMonitor ThreadLocalInstance { get; set; }
 ```
 
 ### See Also
 
-* class [IInterruptMonitor](../../../aspose.pdf.multithreading/iinterruptmonitor/)
+* interface [IInterruptMonitor](../../../aspose.pdf.multithreading/iinterruptmonitor/)
 * class [InterruptMonitor](../)
 * namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../../)

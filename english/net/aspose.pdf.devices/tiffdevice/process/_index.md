@@ -14,18 +14,19 @@ product_version: "26.9.0"
 Converts certain document pages into tiff and save it in the output stream.
 
 ```csharp
-public void Process(Document document, int fromPage, int toPage, Stream output)
+public override void Process(Document document, int fromPage, int toPage, Stream output)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | Document | The document to convert. |
-| fromPage | int | Defines page number from which converting will start. |
-| toPage | int | Defines page number which will end the converting. |
+| fromPage | Int32 | Defines page number from which converting will start. |
+| toPage | Int32 | Defines page number which will end the converting. |
 | output | Stream | Output stream with tiff image. |
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
@@ -37,7 +38,7 @@ public void Process(Document document, int fromPage, int toPage, Stream output)
 
 
 ```csharp
-public void Process(Page page, Stream output)
+public override void Process(Page page, Stream output)
 ```
 
 | Parameter | Type | Description |
@@ -47,6 +48,7 @@ public void Process(Page page, Stream output)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

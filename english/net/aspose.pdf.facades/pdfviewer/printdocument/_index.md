@@ -9,7 +9,7 @@ weight: 230
 url: "/net/aspose.pdf.facades/pdfviewer/printdocument/"
 product_version: "26.9.0"
 ---
-## PrintDocument() {#printdocument}
+## PdfViewer.PrintDocument method
 
 Prints the Pdf document using default printer.
 

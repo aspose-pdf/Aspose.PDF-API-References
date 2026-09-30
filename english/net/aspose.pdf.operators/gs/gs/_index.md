@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/gs/gs/"
 product_version: "26.9.0"
 ---
-## GS(string) {#constructor}
+## GS constructor
 
 Initializes gs operator.
 
@@ -19,7 +19,7 @@ public GS(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Name of graphic state. |
+| name | String | Name of graphic state. |
 
 ### See Also
 

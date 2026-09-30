@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/formremoveselectedfieldsoptions/formremoveselectedfieldsoptions/"
 product_version: "26.9.0"
 ---
-## FormRemoveSelectedFieldsOptions([SelectField](../../../aspose.pdf.lowcode/selectfield/)) {#constructor}
+## FormRemoveSelectedFieldsOptions constructor
 
 Initializes new instance of the [`FormEditorRemoveOptions`](../../../aspose.pdf.lowcode/formeditorremoveoptions/) object.
 
@@ -23,6 +23,7 @@ public FormRemoveSelectedFieldsOptions(SelectField selectField)
 
 ### See Also
 
+* delegate [SelectField](../../../aspose.pdf.lowcode/selectfield/)
 * class [FormRemoveSelectedFieldsOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

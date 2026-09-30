@@ -9,22 +9,20 @@ weight: 70
 url: "/net/aspose.pdf.ai/ichatcopilot/savecontextasync/"
 product_version: "26.9.0"
 ---
-## SaveContextAsync(string, Nullable<CancellationToken>) {#savecontextasync}
+## IChatCopilot.SaveContextAsync method
 
 Asynchronously saves the context to a JSON file.
 
 ```csharp
-public Task SaveContextAsync(string jsonFilePath, Nullable<CancellationToken> cancellationToken)
+public Task SaveContextAsync(string jsonFilePath, CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| jsonFilePath | string | The file path to save the context JSON. |
-| cancellationToken | Nullable<CancellationToken> | The cancellation token (optional). |
+| jsonFilePath | String | The file path to save the context JSON. |
+| cancellationToken | Nullable`1 | The cancellation token (optional). |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
 
 A task representing the asynchronous operation.
 

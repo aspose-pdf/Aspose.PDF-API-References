@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/document.idocumentfontutilities/subsetfonts/"
 product_version: "26.9.0"
 ---
-## SubsetFonts([FontSubsetStrategy](../../../aspose.pdf/fontsubsetstrategy/)) {#subsetfonts}
+## Document.IDocumentFontUtilities.SubsetFonts method
 
 Subsets all fonts in document
 
@@ -23,6 +23,7 @@ public void SubsetFonts(FontSubsetStrategy subsetStrategy)
 
 ### See Also
 
+* enum [FontSubsetStrategy](../../../aspose.pdf/fontsubsetstrategy/)
 * interface [Document.IDocumentFontUtilities](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/shfill/shfill/"
 product_version: "26.9.0"
 ---
-## ShFill(string) {#constructor}
+## ShFill constructor
 
 Initializes operator.
 
@@ -19,7 +19,7 @@ public ShFill(string shadingName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| shadingName | string | Shading name. |
+| shadingName | String | Shading name. |
 
 ### See Also
 

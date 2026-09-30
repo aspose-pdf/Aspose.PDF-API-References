@@ -22,7 +22,7 @@ public sealed class MemoryFontSource : FontSource, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [MemoryFontSource](./memoryfontsource/#constructor)(*byte[]*) | Initializes a new instance of [`MemoryFontSource`](../../aspose.pdf.text/memoryfontsource/) class. |
+| [MemoryFontSource](./memoryfontsource/)(byte[]) | Initializes a new instance of [`MemoryFontSource`](../../aspose.pdf.text/memoryfontsource/) class. |
 
 ## Properties
 
@@ -34,8 +34,8 @@ public sealed class MemoryFontSource : FontSource, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/) | Releases internal resources. |
-| [Equals](./equals/)(*object*) | Check if font file source objects are equal. |
+| [Dispose](./dispose/)() | Releases internal resources. |
+| override [Equals](./equals/)(object) | Check if font file source objects are equal. |
 
 ### See Also
 

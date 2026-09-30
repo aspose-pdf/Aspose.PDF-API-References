@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/htmlfragment/htmlfragment/"
 product_version: "26.9.0"
 ---
-## HtmlFragment(string) {#constructor}
+## HtmlFragment constructor
 
 Initializes a new instance of the HtmlFragment class.
 
@@ -19,7 +19,7 @@ public HtmlFragment(string text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string | The fragment text |
+| text | String | The fragment text |
 
 ### See Also
 

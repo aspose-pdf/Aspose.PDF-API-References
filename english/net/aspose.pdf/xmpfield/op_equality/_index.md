@@ -9,12 +9,12 @@ weight: 30
 url: "/net/aspose.pdf/xmpfield/op_equality/"
 product_version: "26.9.0"
 ---
-## op_Equality([XmpField](../../../aspose.pdf/xmpfield/), [XmpField](../../../aspose.pdf/xmpfield/)) {#op_equality}
+## XmpField Equality operator
 
 Implements the operator ==.
 
 ```csharp
-public bool op_Equality(XmpField field1, XmpField field2)
+public static bool operator ==(XmpField field1, XmpField field2)
 ```
 
 | Parameter | Type | Description |
@@ -24,13 +24,11 @@ public bool op_Equality(XmpField field1, XmpField field2)
 
 ### Return Value
 
-bool
-
 The result of the operator.
 
 ### See Also
 
-* class [XmpField](../)
+* class [XmpField](../../../aspose.pdf/xmpfield/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

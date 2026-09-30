@@ -9,7 +9,7 @@ weight: 530
 url: "/net/aspose.pdf.facades/pdfcontenteditor/deletestamp/"
 product_version: "26.9.0"
 ---
-## DeleteStamp(int, int[]) {#deletestamp}
+## PdfContentEditor.DeleteStamp method
 
 Deletes multiple stamps on the specified page by stamp indexes.
 
@@ -19,8 +19,8 @@ public void DeleteStamp(int pageNumber, int[] index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | int | Page number where stamp will be deleted. |
-| index | int[] | Stamp indexes. |
+| pageNumber | Int32 | Page number where stamp will be deleted. |
+| index | Int32[] | Stamp indexes. |
 
 ### See Also
 

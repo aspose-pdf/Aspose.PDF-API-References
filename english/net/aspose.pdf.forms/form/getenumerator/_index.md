@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.forms/form/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## Form.GetEnumerator method
 
 Gets enumeration of form fields.
 
@@ -18,8 +18,6 @@ public IEnumerator<WidgetAnnotation> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)>
 
 Field enumerator.
 

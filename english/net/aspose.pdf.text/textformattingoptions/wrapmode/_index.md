@@ -20,7 +20,7 @@ public WordWrapMode WrapMode { get; set; }
 
 ### See Also
 
-* class [WordWrapMode](../../../aspose.pdf.facades/wordwrapmode/)
+* enum [WordWrapMode](../../../aspose.pdf.facades/wordwrapmode/)
 * class [TextFormattingOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

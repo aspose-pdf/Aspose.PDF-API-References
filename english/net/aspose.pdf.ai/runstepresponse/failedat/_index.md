@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the Unix timestamp (in seconds) for when the run step failed.
 
 ```csharp
-public Nullable<long> FailedAt { get; set; }
+public long? FailedAt { get; set; }
 ```
 
 ### See Also

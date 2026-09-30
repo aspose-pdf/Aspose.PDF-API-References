@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/resources/getextgstates/"
 product_version: "26.9.0"
 ---
-## GetExtGStates() {#getextgstates}
+## Resources.GetExtGStates method
 
 Gets all ExGStates from resources.
 
@@ -18,8 +18,6 @@ public Dictionary<string, ExtGStateValue> GetExtGStates()
 ```
 
 ### Return Value
-
-Dictionary<string, ExtGStateValue>
 
 Returns dictionary with ExGStates names keys.
 

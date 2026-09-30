@@ -9,7 +9,7 @@ weight: 170
 url: "/net/aspose.pdf.facades/pdffileinfo/getpageyoffset/"
 product_version: "26.9.0"
 ---
-## GetPageYOffset(int) {#getpageyoffset}
+## PdfFileInfo.GetPageYOffset method
 
 Gets the vertical offset of the specified page display area.
 
@@ -19,11 +19,9 @@ public float GetPageYOffset(int pageNum)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNum | int | Page number. |
+| pageNum | Int32 | Page number. |
 
 ### Return Value
-
-float
 
 The vertical offset of the page display area.
 

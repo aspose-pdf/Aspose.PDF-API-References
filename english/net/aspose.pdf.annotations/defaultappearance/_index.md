@@ -22,9 +22,9 @@ public sealed class DefaultAppearance
 
 | Name | Description |
 | --- | --- |
-| [DefaultAppearance](./defaultappearance/#constructor) | Constructor of DefaultAppearance. |
-| [DefaultAppearance](./defaultappearance/#constructor_1)(*string, double, [Color](../../aspose.pdf/color/)*) | Constructor of DefaultAppearance. |
-| [DefaultAppearance](./defaultappearance/#constructor_2)(*[Font](../../aspose.pdf.text/font/), double, [Color](../../aspose.pdf/color/)*) | Constructor of Default Appearance. Previously created font may be specified as default font. |
+| [DefaultAppearance](./defaultappearance/#constructor)() | Constructor of DefaultAppearance. |
+| [DefaultAppearance](./defaultappearance/#constructor_1)(Font, double, Color) | Constructor of Default Appearance. Previously created font may be specified as default font. |
+| [DefaultAppearance](./defaultappearance/#constructor_2)(string, double, Color) | Constructor of DefaultAppearance. |
 
 ## Properties
 

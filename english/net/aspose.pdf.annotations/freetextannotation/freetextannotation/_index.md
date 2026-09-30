@@ -24,6 +24,8 @@ public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
+* class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -46,6 +48,9 @@ public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearanc
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

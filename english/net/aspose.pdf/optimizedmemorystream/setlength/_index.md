@@ -9,17 +9,17 @@ weight: 90
 url: "/net/aspose.pdf/optimizedmemorystream/setlength/"
 product_version: "26.9.0"
 ---
-## SetLength(long) {#setlength}
+## OptimizedMemoryStream.SetLength method
 
 When overridden in a derived class, sets the length of the current stream.
 
 ```csharp
-public void SetLength(long value)
+public override void SetLength(long value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | long | The desired length of the current stream in bytes. |
+| value | Int64 | The desired length of the current stream in bytes. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.dataeditor/cospdfboolean/cospdfboolean/"
 product_version: "26.9.0"
 ---
-## CosPdfBoolean(bool) {#constructor}
+## CosPdfBoolean constructor
 
 Initializes a new instance of the `PdfBoolean` class.
 
@@ -19,7 +19,7 @@ public CosPdfBoolean(bool value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | bool | if set to `true` [value]. |
+| value | Boolean | if set to `true` [value]. |
 
 ### See Also
 

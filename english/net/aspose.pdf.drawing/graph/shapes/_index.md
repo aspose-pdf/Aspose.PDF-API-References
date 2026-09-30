@@ -5,7 +5,7 @@ articleTitle: "Shapes"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Graph property. Gets or sets a Shapes collection that indicates all shapes in the graph."
 type: docs
-weight: 90
+weight: 80
 url: "/net/aspose.pdf.drawing/graph/shapes/"
 product_version: "26.9.0"
 ---

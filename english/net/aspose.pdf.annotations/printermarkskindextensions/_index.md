@@ -22,7 +22,7 @@ public static class PrinterMarksKindExtensions
 
 | Name | Description |
 | --- | --- |
-| [HasFlagFast](./hasflagfast/)(*PrinterMarksKind, PrinterMarksKind*) | Determines whether the current value includes a specified flag. |
+| static [HasFlagFast](./hasflagfast/)(this PrinterMarksKind, PrinterMarksKind) | Determines whether the current value includes a specified flag. |
 
 ### See Also
 

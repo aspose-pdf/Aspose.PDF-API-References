@@ -9,17 +9,15 @@ weight: 20
 url: "/net/aspose.pdf.logicalstructure/elementlist/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## ElementList.GetEnumerator method
 
 Gets an enumerator that iterates through the collection of elements.
 
 ```csharp
-public IEnumerator<Element> GetEnumerator()
+public abstract IEnumerator<Element> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[Element](../../../aspose.pdf.structure/element/)>
 
 An enumerator used to iterate through the collection of elements.
 

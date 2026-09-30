@@ -9,21 +9,19 @@ weight: 10
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/percents/"
 product_version: "26.9.0"
 ---
-## Percents(double) {#percents}
+## PdfFileEditor.ContentsResizeValue.Percents method
 
 Initializes value in percents.
 
 ```csharp
-public ContentsResizeValue Percents(double value)
+public static ContentsResizeValue Percents(double value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | Value in percents. |
+| value | Double | Value in percents. |
 
 ### Return Value
-
-ContentsResizeValue
 
 New value instance.
 

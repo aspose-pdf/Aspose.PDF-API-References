@@ -24,7 +24,7 @@ public abstract class PdfToImageOptions : IPluginOptions
 | --- | --- |
 | [ConversionMode](./conversionmode/) { get; } | Gets image conversion mode. |
 | [Inputs](./inputs/) { get; } | Returns [`PdfToImage`](../../aspose.pdf.lowcode/pdftoimage/) plugin data collection. |
-| [OperationName](./operationname/) { get; } | Returns operation name. |
+| virtual [OperationName](./operationname/) { get; } | Returns operation name. |
 | [OutputResolution](./outputresolution/) { get; set; } | Gets or sets the resolution value of the resulting images. |
 | [Outputs](./outputs/) { get; } |  |
 | [PageList](./pagelist/) { get; set; } | Gets or sets a list of pages for the process. |
@@ -33,8 +33,14 @@ public abstract class PdfToImageOptions : IPluginOptions
 
 | Name | Description |
 | --- | --- |
-| [AddInput](./addinput/)(*IDataSource*) | Adds new data source to the [`PdfToImage`](../../aspose.pdf.lowcode/pdftoimage/) plugin data collection. |
-| [AddOutput](./addoutput/)(*IDataSource*) | Sets new save data source. Can only be a . If you want save images into memory streams, pass null as parameter. |
+| [AddInput](./addinput/)(IDataSource) | Adds new data source to the [`PdfToImage`](../../aspose.pdf.lowcode/pdftoimage/) plugin data collection. |
+| [AddOutput](./addoutput/)(IDataSource) | Sets new save data source. Can only be a . If you want save images into memory streams, pass null as parameter. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| enum [ImageConversionMode](../../aspose.pdf.lowcode/pdftoimageoptions.imageconversionmode) | Defines different modes which can be used while converting from PDF document to Jpeg image. See [`JpegOptions`](../../aspose.pdf.lowcode/jpegoptions/) class. |
 
 ## Remarks
 

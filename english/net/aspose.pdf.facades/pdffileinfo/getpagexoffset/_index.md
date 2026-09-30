@@ -9,7 +9,7 @@ weight: 160
 url: "/net/aspose.pdf.facades/pdffileinfo/getpagexoffset/"
 product_version: "26.9.0"
 ---
-## GetPageXOffset(int) {#getpagexoffset}
+## PdfFileInfo.GetPageXOffset method
 
 Gets the horizontal offset of the specified page display area.
 
@@ -19,11 +19,9 @@ public float GetPageXOffset(int pageNum)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNum | int | Page number. |
+| pageNum | Int32 | Page number. |
 
 ### Return Value
-
-float
 
 The horizontal offset from the left side of the page.
 

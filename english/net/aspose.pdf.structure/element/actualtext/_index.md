@@ -17,7 +17,7 @@ product_version: "26.9.0"
  with disabilities or for other purposes.
 
 ```csharp
-public string ActualText { get; set; }
+public virtual string ActualText { get; set; }
 ```
 
 ### See Also

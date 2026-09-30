@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/hiddendatasanitizationoptions/"
 product_version: "26.9.0"
 ---
-## HiddenDataSanitizationOptions() {#constructor}
+## HiddenDataSanitizationOptions constructor
 
 The default constructor.
 

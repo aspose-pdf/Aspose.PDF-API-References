@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf/table/setcolumntextstate/"
 product_version: "26.9.0"
 ---
-## SetColumnTextState(int, [TextState](../../../aspose.pdf.text/textstate/)) {#setcolumntextstate}
+## Table.SetColumnTextState method
 
 Set height.
 
@@ -19,11 +19,12 @@ public void SetColumnTextState(int colNumber, TextState textState)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| colNumber | int | The column number. |
+| colNumber | Int32 | The column number. |
 | textState | TextState | The text state for column. |
 
 ### See Also
 
+* class [TextState](../../../aspose.pdf.text/textstate/)
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

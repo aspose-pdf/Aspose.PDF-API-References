@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/setdash/setdash/"
 product_version: "26.9.0"
 ---
-## SetDash(int[], int) {#constructor}
+## SetDash constructor
 
 Creates set dash pattern operator.
 
@@ -19,8 +19,8 @@ public SetDash(int[] pattern, int phase)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pattern | int[] | Array which defines dash pattern. |
-| phase | int | Dash phase. |
+| pattern | Int32[] | Array which defines dash pattern. |
+| phase | Int32 | Dash phase. |
 
 ### See Also
 

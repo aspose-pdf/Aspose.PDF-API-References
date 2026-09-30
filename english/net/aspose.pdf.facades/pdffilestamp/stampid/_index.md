@@ -5,7 +5,7 @@ articleTitle: "StampId"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileStamp property. Stamp ID of next added stamp (incluiding page headers/hooters/page numbers)."
 type: docs
-weight: 450
+weight: 350
 url: "/net/aspose.pdf.facades/pdffilestamp/stampid/"
 product_version: "26.9.0"
 ---

@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Indicates wheather collection is limited to fast text extraction
 
 ```csharp
-public bool IsFastTextExtractionMode { get; }
+public override bool IsFastTextExtractionMode { get; }
 ```
 
 ### See Also

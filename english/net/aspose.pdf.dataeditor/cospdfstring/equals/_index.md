@@ -9,21 +9,19 @@ weight: 60
 url: "/net/aspose.pdf.dataeditor/cospdfstring/equals/"
 product_version: "26.9.0"
 ---
-## Equals(object) {#equals}
+## CosPdfString.Equals method
 
 Determines that the specified object is equal to the current object.
 
 ```csharp
-public bool Equals(object obj)
+public override bool Equals(object obj)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | object | The object to compare with current object. |
+| obj | Object | The object to compare with current object. |
 
 ### Return Value
-
-bool
 
 True if specified object is equal to the current object; otherwise, false.
 

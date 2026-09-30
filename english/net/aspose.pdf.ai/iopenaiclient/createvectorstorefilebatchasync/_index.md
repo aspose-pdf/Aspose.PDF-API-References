@@ -9,23 +9,23 @@ weight: 230
 url: "/net/aspose.pdf.ai/iopenaiclient/createvectorstorefilebatchasync/"
 product_version: "26.9.0"
 ---
-## CreateVectorStoreFileBatchAsync(string, [VectorStoreFileBatchCreateRequest](../../../aspose.pdf.ai/vectorstorefilebatchcreaterequest/), Nullable<CancellationToken>) {#createvectorstorefilebatchasync}
+## IOpenAIClient.CreateVectorStoreFileBatchAsync method
 
 Creates a new vector store file batch asynchronously.
 
 ```csharp
-public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string vectorStoreId, VectorStoreFileBatchCreateRequest vectorStoreFileCreateRequest, Nullable<CancellationToken> cancellationToken)
+public Task<VectorStoreFileBatchResponse> CreateVectorStoreFileBatchAsync(string vectorStoreId, 
+    VectorStoreFileBatchCreateRequest vectorStoreFileCreateRequest, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| vectorStoreId | string | The ID of the vector store where the file batch will be created. |
+| vectorStoreId | String | The ID of the vector store where the file batch will be created. |
 | vectorStoreFileCreateRequest | VectorStoreFileBatchCreateRequest | The request object containing details for creating the file batch. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[VectorStoreFileBatchResponse](../../../aspose.pdf.ai/vectorstorefilebatchresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the response from the file batch creation.
 
@@ -37,6 +37,7 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
+* class [VectorStoreFileBatchCreateRequest](../../../aspose.pdf.ai/vectorstorefilebatchcreaterequest/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

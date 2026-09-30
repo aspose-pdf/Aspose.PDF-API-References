@@ -9,7 +9,7 @@ weight: 190
 url: "/net/aspose.pdf.devices/tiffdevice/binarizebradley/"
 product_version: "26.9.0"
 ---
-## BinarizeBradley(Stream, Stream, double) {#binarizebradley}
+## TiffDevice.BinarizeBradley method
 
 Do Bradley binarization for input stream.
 
@@ -21,7 +21,7 @@ public void BinarizeBradley(Stream inputImageStream, Stream outputImageStream, d
 | --- | --- | --- |
 | inputImageStream | Stream | The input image stream. |
 | outputImageStream | Stream | The output image stream. |
-| threshold | double | The threshold value between 0.0 and 1.0. |
+| threshold | Double | The threshold value between 0.0 and 1.0. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf/artifact/setlinesandstate/"
 product_version: "26.9.0"
 ---
-## SetLinesAndState(string[], [TextState](../../../aspose.pdf.text/textstate/)) {#setlinesandstate}
+## Artifact.SetLinesAndState method
 
 Set text and text properties of the artifact. Allows to specify multiple lines.
 
@@ -19,11 +19,12 @@ public void SetLinesAndState(string[] text, TextState textState)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string[] | Array of text string. |
+| text | String[] | Array of text string. |
 | textState | TextState | Text properties. |
 
 ### See Also
 
+* class [TextState](../../../aspose.pdf.text/textstate/)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

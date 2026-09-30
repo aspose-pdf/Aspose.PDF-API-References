@@ -22,7 +22,7 @@ public class PrinterResolution
 
 | Name | Description |
 | --- | --- |
-| [PrinterResolution](./printerresolution/#constructor) | Initializes a new instance of the [`PrinterResolution`](../../aspose.pdf.printing/printerresolution/) class with default properties. |
+| [PrinterResolution](./printerresolution/)() | Initializes a new instance of the [`PrinterResolution`](../../aspose.pdf.printing/printerresolution/) class with default properties. |
 
 ## Properties
 
@@ -36,7 +36,7 @@ public class PrinterResolution
 
 | Name | Description |
 | --- | --- |
-| [ToString](./tostring/) | Provides some interesting information about the PrinterResolution in String form. |
+| override [ToString](./tostring/)() | Provides some interesting information about the PrinterResolution in String form. |
 
 ### See Also
 

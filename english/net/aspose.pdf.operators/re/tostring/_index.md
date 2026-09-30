@@ -9,17 +9,15 @@ weight: 40
 url: "/net/aspose.pdf.operators/re/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## Re.ToString method
 
 Returns text representation of the operator.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 Text representation of the operator.
 

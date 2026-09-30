@@ -14,13 +14,12 @@ product_version: "26.9.0"
 Gets a tool instance representing a file search tool.
 
 ```csharp
-public Tool FileSearch { get; }
+public static Tool FileSearch { get; }
 ```
 
 ### See Also
 
 * class [Tool](../../../aspose.pdf.ai/tool/)
-* class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

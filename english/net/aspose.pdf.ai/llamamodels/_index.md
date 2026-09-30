@@ -22,7 +22,7 @@ public static class LlamaModels
 
 | Name | Description |
 | --- | --- |
-| [Llama13BChat](./llama13bchat/) { get; } | The Llama 13b chat model. |
+| static [Llama13BChat](./llama13bchat/) { get; } | The Llama 13b chat model. |
 
 ### See Also
 

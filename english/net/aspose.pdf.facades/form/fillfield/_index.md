@@ -5,7 +5,7 @@ articleTitle: "FillField"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Fills the field with a valid value according to a fully qualified field name. Before filling the fields, every field's names and its correspondi..."
 type: docs
-weight: 120
+weight: 60
 url: "/net/aspose.pdf.facades/form/fillfield/"
 product_version: "26.9.0"
 ---
@@ -25,12 +25,10 @@ public bool FillField(string fieldName, string fieldValue)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | The field's name to be filled. |
-| fieldValue | string | The field's value which must be a valid value for some fields. |
+| fieldName | String | The field's name to be filled. |
+| fieldValue | String | The field's value which must be a valid value for some fields. |
 
 ### Return Value
-
-bool
 
 true if field is found and filled successfully.
 
@@ -58,12 +56,10 @@ public bool FillField(string fieldName, int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | Name of field to be filled. |
-| index | int | Index of chosen item. |
+| fieldName | String | Name of field to be filled. |
+| index | Int32 | Index of chosen item. |
 
 ### Return Value
-
-bool
 
 true if field was found and successfully filled.
 
@@ -90,12 +86,10 @@ public bool FillField(string fieldName, bool beChecked)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | The field's name to be filled. |
-| beChecked | bool | A boolean flag: true means to check the box, while false to uncheck it. |
+| fieldName | String | The field's name to be filled. |
+| beChecked | Boolean | A boolean flag: true means to check the box, while false to uncheck it. |
 
 ### Return Value
-
-bool
 
 true if field was found and successfully filled.
 
@@ -117,8 +111,8 @@ public void FillField(string fieldName, string[] fieldValues)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | The fully qualified field name. |
-| fieldValues | string[] | A string array which contains several items to be selected. |
+| fieldName | String | The fully qualified field name. |
+| fieldValues | String[] | A string array which contains several items to be selected. |
 
 ### See Also
 
@@ -138,13 +132,11 @@ public bool FillField(string fieldName, string value, bool fitFontSize)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | Name of field |
-| value | string | New value of the field |
-| fitFontSize | bool | If true, the font size in the edit boxes will be fitted. |
+| fieldName | String | Name of field |
+| value | String | New value of the field |
+| fitFontSize | Boolean | If true, the font size in the edit boxes will be fitted. |
 
 ### Return Value
-
-bool
 
 true if field was found and successfully filled.
 

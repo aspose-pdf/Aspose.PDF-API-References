@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.tagged/itaggedcontent/setlanguage/"
 product_version: "26.9.0"
 ---
-## SetLanguage(string) {#setlanguage}
+## ITaggedContent.SetLanguage method
 
 Sets natural language for pdf document.
  
@@ -21,7 +21,7 @@ public void SetLanguage(string lang)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| lang | string | A language identifier shall either be the empty text string, to indicate that the language is unknown, or a Language-Tag as defined in RFC 3066, Tags for the Identification of Languages. |
+| lang | String | A language identifier shall either be the empty text string, to indicate that the language is unknown, or a Language-Tag as defined in RFC 3066, Tags for the Identification of Languages. |
 
 ### See Also
 

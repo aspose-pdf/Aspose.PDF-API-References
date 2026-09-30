@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/addinput/"
 product_version: "26.9.0"
 ---
-## AddInput([IDataSource](../../../aspose.pdf.lowcode/idatasource/)) {#addinput}
+## PdfAOptionsBase.AddInput method
 
 Adds new data source to the collection
 
@@ -23,6 +23,7 @@ public void AddInput(IDataSource dataSource)
 
 ### See Also
 
+* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

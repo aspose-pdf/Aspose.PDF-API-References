@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets/sets the value to determine whether created ComboBoxField is editable or not (if will be set).
 
 ```csharp
-public Nullable<bool> Editable { get; set; }
+public bool? Editable { get; set; }
 ```
 
 ### See Also

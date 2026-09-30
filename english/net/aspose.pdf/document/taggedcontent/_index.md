@@ -63,7 +63,7 @@ The example demonstrates how to use tagged content for creating new document wit
 
 ### See Also
 
-* class [ITaggedContent](../../../aspose.pdf.tagged/itaggedcontent/)
+* interface [ITaggedContent](../../../aspose.pdf.tagged/itaggedcontent/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

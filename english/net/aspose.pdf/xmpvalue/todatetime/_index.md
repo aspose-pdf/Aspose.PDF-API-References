@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf/xmpvalue/todatetime/"
 product_version: "26.9.0"
 ---
-## ToDateTime() {#todatetime}
+## XmpValue.ToDateTime method
 
 Converts to date time.
 
@@ -18,8 +18,6 @@ public DateTime ToDateTime()
 ```
 
 ### Return Value
-
-DateTime
 
 DateTime value.
 

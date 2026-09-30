@@ -9,12 +9,12 @@ weight: 30
 url: "/net/aspose.pdf.annotations/xfdfreader/readfields/"
 product_version: "26.9.0"
 ---
-## ReadFields(Stream, [Document](../../../aspose.pdf/document/)) {#readfields}
+## XfdfReader.ReadFields method
 
 Import field values from XFDF file.
 
 ```csharp
-public void ReadFields(Stream stream, Document document)
+public static void ReadFields(Stream stream, Document document)
 ```
 
 | Parameter | Type | Description |
@@ -24,6 +24,7 @@ public void ReadFields(Stream stream, Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [XfdfReader](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

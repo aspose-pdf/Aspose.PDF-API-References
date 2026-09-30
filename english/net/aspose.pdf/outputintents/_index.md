@@ -5,7 +5,7 @@ articleTitle: "OutputIntents"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.OutputIntents class. Represents the collection of OutputIntent."
 type: docs
-weight: 2100
+weight: 2060
 url: "/net/aspose.pdf/outputintents/"
 keywords: "OutputIntents, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -15,7 +15,7 @@ product_version: "26.9.0"
 Represents the collection of [`OutputIntent`](../../aspose.pdf/outputintent/).
 
 ```csharp
-public sealed class OutputIntents : IEnumerable
+public sealed class OutputIntents : ICollection<OutputIntent>
 ```
 
 ## Properties
@@ -30,12 +30,12 @@ public sealed class OutputIntents : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*OutputIntent*) | Adds an output intent to the collection. |
-| [Clear](./clear/) | Removes all output intents from the collection. |
-| [Contains](./contains/)(*OutputIntent*) | Determines whether the collection contains a specific output intent. |
-| [CopyTo](./copyto/)(*OutputIntent[], int*) | Copies the elements of the collection to the *array*,starting. |
-| [GetEnumerator](./getenumerator/) | Returns an enumerator that iterates through the collection. |
-| [Remove](./remove/)(*OutputIntent*) | Removes the first occurrence of a specific output intent from the collection. |
+| [Add](./add/)(OutputIntent) | Adds an output intent to the collection. |
+| [Clear](./clear/)() | Removes all output intents from the collection. |
+| [Contains](./contains/)(OutputIntent) | Determines whether the collection contains a specific output intent. |
+| [CopyTo](./copyto/)(OutputIntent[], int) | Copies the elements of the collection to the *array*,starting at the particular *arrayIndex* into the array. |
+| [GetEnumerator](./getenumerator/)() | Returns an enumerator that iterates through the collection. |
+| [Remove](./remove/)(OutputIntent) | Removes the first occurrence of a specific output intent from the collection. |
 
 ### See Also
 

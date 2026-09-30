@@ -23,15 +23,15 @@ public abstract class PdfConverterOptions : IPluginOptions
 | Name | Description |
 | --- | --- |
 | [Inputs](./inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
-| [OperationName](./operationname/) { get; } | Returns operation name. |
+| abstract [OperationName](./operationname/) { get; } | Returns operation name. |
 | [Outputs](./outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddInput](./addinput/)(*IDataSource*) | Adds new data source to the PdfConverter plugin data collection. |
-| [AddOutput](./addoutput/)(*IDataSource*) | Adds new data source to the PdfToXLSXConverterOptions plugin data collection. |
+| [AddInput](./addinput/)(IDataSource) | Adds new data source to the PdfConverter plugin data collection. |
+| [AddOutput](./addoutput/)(IDataSource) | Adds new data source to the PdfToXLSXConverterOptions plugin data collection. |
 
 ### See Also
 

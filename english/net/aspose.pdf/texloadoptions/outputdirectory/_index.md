@@ -19,7 +19,7 @@ public ITeXOutputDirectory OutputDirectory { get; set; }
 
 ### See Also
 
-* class [ITeXOutputDirectory](../../../aspose.pdf/itexoutputdirectory/)
+* interface [ITeXOutputDirectory](../../../aspose.pdf/itexoutputdirectory/)
 * class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

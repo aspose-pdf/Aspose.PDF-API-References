@@ -22,19 +22,19 @@ public class StructureRecognitionVisitor : IStructureRecognitionVisitor
 
 | Name | Description |
 | --- | --- |
-| [StructureRecognitionVisitor](./structurerecognitionvisitor/#constructor) | The default constructor. |
+| [StructureRecognitionVisitor](./structurerecognitionvisitor/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [EndDocument](./enddocument/) | Signals the end of document processing. |
-| [Recognize](./recognize/)(*Document*) | Start recognition of document. |
-| [Recognize](./recognize/)(*Page*) | Start recognition of page. |
-| [StartDocument](./startdocument/) | Called when the document traversal starts. |
-| [VisitParagraph](./visitparagraph/)(*BaseParagraph*) | Called when a paragraph node is visited. |
-| [VisitSectionEnd](./visitsectionend/)(*MarginInfo*) | Visits the end of a recognized section in the document. |
-| [VisitTable](./visittable/)(*Table*) | Visits a recognized table in the document structure. |
+| virtual [EndDocument](./enddocument/)() | Signals the end of document processing. |
+| virtual [Recognize](./recognize/)(Document) | Start recognition of document |
+| virtual [Recognize](./recognize/)(Page) | Start recognition of page |
+| virtual [StartDocument](./startdocument/)() | Called when the document traversal starts. |
+| virtual [VisitParagraph](./visitparagraph/)(BaseParagraph) | Called when a paragraph node is visited. |
+| virtual [VisitSectionEnd](./visitsectionend/)(MarginInfo) | Visits the end of a recognized section in the document. |
+| virtual [VisitTable](./visittable/)(Table) | Visits a recognized table in the document structure. |
 
 ### See Also
 

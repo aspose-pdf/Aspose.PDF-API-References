@@ -9,12 +9,12 @@ weight: 650
 url: "/net/aspose.pdf.facades/pdfcontenteditor/close/"
 product_version: "26.9.0"
 ---
-## Close() {#close}
+## PdfContentEditor.Close method
 
 Closes opened document.
 
 ```csharp
-public void Close()
+public override void Close()
 ```
 
 ### See Also

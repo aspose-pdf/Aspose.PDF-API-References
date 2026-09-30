@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf/rows/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## Rows.GetEnumerator method
 
 Gets collection's enumerator
 
@@ -18,8 +18,6 @@ public IEnumerator<Row> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[Row](../../../aspose.pdf/row/)>
 
 Enumerator object.
 

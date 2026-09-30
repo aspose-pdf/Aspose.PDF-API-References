@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf/page/getpagerect/"
 product_version: "26.9.0"
 ---
-## GetPageRect(bool) {#getpagerect}
+## Page.GetPageRect method
 
 Returns rectangle of the page according to its CropBox (or MediaBox if CropBox null).
 
@@ -19,11 +19,9 @@ public Rectangle GetPageRect(bool considerRotation)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| considerRotation | bool | If true then rotation of the page will be considered in rect calculation. |
+| considerRotation | Boolean | If true then rotation of the page will be considered in rect calculation. |
 
 ### Return Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
 
 Rectangle of the page.
 

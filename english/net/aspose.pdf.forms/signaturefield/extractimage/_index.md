@@ -19,8 +19,6 @@ public Stream ExtractImage()
 
 ### Return Value
 
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 If image was successfully found than returns jpeg encoded stream object; otherwise, null.
 
 ### See Also
@@ -45,12 +43,11 @@ public Stream ExtractImage(ImageFormat format)
 
 ### Return Value
 
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
-
 If image was successfully found than returns encodedstream object; otherwise, null.
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

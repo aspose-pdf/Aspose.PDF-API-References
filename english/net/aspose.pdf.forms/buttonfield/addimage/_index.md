@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.forms/buttonfield/addimage/"
 product_version: "26.9.0"
 ---
-## AddImage([Image](../../../aspose.pdf/image/)) {#addimage}
+## ButtonField.AddImage method
 
 Adds image into the field resources and draws it.
 
@@ -23,6 +23,7 @@ public void AddImage(Image image)
 
 ### See Also
 
+* class [Image](../../../aspose.pdf/image/)
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

@@ -9,33 +9,35 @@ weight: 30
 url: "/net/aspose.pdf/pagecollectionextensions/addbatesnumbering/"
 product_version: "26.9.0"
 ---
-## AddBatesNumbering([PageCollection](../../../aspose.pdf/pagecollection/), Action<BatesNArtifact>) {#addbatesnumbering}
+## AddBatesNumbering(this [PageCollection](../../../aspose.pdf/pagecollection/), Action<BatesNArtifact>) {#addbatesnumbering}
 
 Adds Bates numbering to each page in the given page collection using the specified action to configure the BatesNArtifact.
 
 ```csharp
-public void AddBatesNumbering(PageCollection pageCollection, Action<BatesNArtifact> action)
+public static void AddBatesNumbering(this PageCollection pageCollection, 
+    Action<BatesNArtifact> action)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageCollection | PageCollection | The collection of pages to which the Bates numbering will be added. |
-| action | Action<BatesNArtifact> | An action to configure the BatesNArtifact before adding it to each page. |
+| action | Action`1 | An action to configure the BatesNArtifact before adding it to each page. |
 
 ### See Also
 
+* class [PageCollection](../../../aspose.pdf/pagecollection/)
 * class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddBatesNumbering([PageCollection](../../../aspose.pdf/pagecollection/), [BatesNArtifact](../../../aspose.pdf/batesnartifact/)) {#addbatesnumbering_1}
+## AddBatesNumbering(this [PageCollection](../../../aspose.pdf/pagecollection/), [BatesNArtifact](../../../aspose.pdf/batesnartifact/)) {#addbatesnumbering_1}
 
 Adds the specified Bates numbering artifact to each page in the given page collection.
 
 ```csharp
-public void AddBatesNumbering(PageCollection pageCollection, BatesNArtifact artifact)
+public static void AddBatesNumbering(this PageCollection pageCollection, BatesNArtifact artifact)
 ```
 
 | Parameter | Type | Description |
@@ -45,6 +47,8 @@ public void AddBatesNumbering(PageCollection pageCollection, BatesNArtifact arti
 
 ### See Also
 
+* class [PageCollection](../../../aspose.pdf/pagecollection/)
+* class [BatesNArtifact](../../../aspose.pdf/batesnartifact/)
 * class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

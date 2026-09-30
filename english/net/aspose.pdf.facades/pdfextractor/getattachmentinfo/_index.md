@@ -9,7 +9,7 @@ weight: 240
 url: "/net/aspose.pdf.facades/pdfextractor/getattachmentinfo/"
 product_version: "26.9.0"
 ---
-## GetAttachmentInfo() {#getattachmentinfo}
+## PdfExtractor.GetAttachmentInfo method
 
 Gets the list of attachments.
 
@@ -18,8 +18,6 @@ public List<FileSpecification> GetAttachmentInfo()
 ```
 
 ### Return Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[FileSpecification](../../../aspose.pdf/filespecification/)>
 
 Returns a List&lt;FileSpecificatio&gt;&gt;.
 

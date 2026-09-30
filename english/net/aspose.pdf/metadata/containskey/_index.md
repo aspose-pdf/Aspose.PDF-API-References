@@ -9,7 +9,7 @@ weight: 130
 url: "/net/aspose.pdf/metadata/containskey/"
 product_version: "26.9.0"
 ---
-## ContainsKey(string) {#containskey}
+## Metadata.ContainsKey method
 
 Determines does this dictionary contasins specified key.
 
@@ -19,11 +19,9 @@ public bool ContainsKey(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | Key to search in the dictionary. |
+| key | String | Key to search in the dictionary. |
 
 ### Return Value
-
-bool
 
 true if key is found.
 

@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets foreground color of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object
 
 ```csharp
-public Color ForegroundColor { get; set; }
+public override Color ForegroundColor { get; set; }
 ```
 
 ### See Also

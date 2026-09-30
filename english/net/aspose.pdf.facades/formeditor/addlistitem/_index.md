@@ -5,7 +5,7 @@ articleTitle: "AddListItem"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormEditor method. Adds new item to the list box."
 type: docs
-weight: 320
+weight: 270
 url: "/net/aspose.pdf.facades/formeditor/addlistitem/"
 product_version: "26.9.0"
 ---
@@ -19,8 +19,8 @@ public void AddListItem(string fieldName, string itemName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | Name of the field ot which new item will be added. |
-| itemName | string | Name if new item. |
+| fieldName | String | Name of the field ot which new item will be added. |
+| itemName | String | Name if new item. |
 
 ### See Also
 
@@ -40,8 +40,8 @@ public void AddListItem(string fieldName, string[] exportName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | Name of field to which items will be added. |
-| exportName | string[] | A string array denoting a new list item with Export Value, i.e. (Item Label, Export Value). |
+| fieldName | String | Name of field to which items will be added. |
+| exportName | String[] | A string array denoting a new list item with Export Value, i.e. (Item Label, Export Value). |
 
 ### See Also
 

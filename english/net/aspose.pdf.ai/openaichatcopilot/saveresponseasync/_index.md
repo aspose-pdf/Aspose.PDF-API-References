@@ -9,19 +9,20 @@ weight: 40
 url: "/net/aspose.pdf.ai/openaichatcopilot/saveresponseasync/"
 product_version: "26.9.0"
 ---
-## SaveResponseAsync(string, string, Nullable<CancellationToken>) {#saveresponseasync}
+## SaveResponseAsync(string, string, CancellationToken?) {#saveresponseasync}
 
 
 
 ```csharp
-public Task SaveResponseAsync(string message, string outputFileName, Nullable<CancellationToken> cancellationToken)
+public Task SaveResponseAsync(string message, string outputFileName, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | string |  |
-| outputFileName | string |  |
-| cancellationToken | Nullable<CancellationToken> |  |
+| message | String |  |
+| outputFileName | String |  |
+| cancellationToken | Nullable`1 |  |
 
 ### Return Value
 
@@ -35,20 +36,49 @@ public Task SaveResponseAsync(string message, string outputFileName, Nullable<Ca
 
 ---
 
-## SaveResponseAsync(string, string, [SaveFormat](../../../aspose.pdf.lowcode/saveformat/), Nullable<CancellationToken>) {#saveresponseasync_1}
+## SaveResponseAsync(string, string, [SaveFormat](../../../aspose.pdf.lowcode/saveformat/), CancellationToken?) {#saveresponseasync_1}
 
 
 
 ```csharp
-public Task SaveResponseAsync(string message, string outputFileName, SaveFormat saveFormat, Nullable<CancellationToken> cancellationToken)
+public Task SaveResponseAsync(string message, string outputFileName, SaveFormat saveFormat, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | string |  |
-| outputFileName | string |  |
+| message | String |  |
+| outputFileName | String |  |
 | saveFormat | SaveFormat |  |
-| cancellationToken | Nullable<CancellationToken> |  |
+| cancellationToken | Nullable`1 |  |
+
+### Return Value
+
+[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
+
+### See Also
+
+* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
+* class [OpenAIChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SaveResponseAsync(List<string>, string, CancellationToken?) {#saveresponseasync_2}
+
+
+
+```csharp
+public Task SaveResponseAsync(List<string> messages, string outputFileName, 
+    CancellationToken? cancellationToken = default)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| messages | List`1 |  |
+| outputFileName | String |  |
+| cancellationToken | Nullable`1 |  |
 
 ### Return Value
 
@@ -62,46 +92,21 @@ public Task SaveResponseAsync(string message, string outputFileName, SaveFormat 
 
 ---
 
-## SaveResponseAsync(List<string>, string, Nullable<CancellationToken>) {#saveresponseasync_2}
+## SaveResponseAsync(List<string>, string, [SaveFormat](../../../aspose.pdf.lowcode/saveformat/), CancellationToken?) {#saveresponseasync_3}
 
 
 
 ```csharp
-public Task SaveResponseAsync(List<string> messages, string outputFileName, Nullable<CancellationToken> cancellationToken)
+public Task SaveResponseAsync(List<string> messages, string outputFileName, SaveFormat saveFormat, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| messages | List<string> |  |
-| outputFileName | string |  |
-| cancellationToken | Nullable<CancellationToken> |  |
-
-### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
-
-### See Also
-
-* class [OpenAIChatCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SaveResponseAsync(List<string>, string, [SaveFormat](../../../aspose.pdf.lowcode/saveformat/), Nullable<CancellationToken>) {#saveresponseasync_3}
-
-
-
-```csharp
-public Task SaveResponseAsync(List<string> messages, string outputFileName, SaveFormat saveFormat, Nullable<CancellationToken> cancellationToken)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| messages | List<string> |  |
-| outputFileName | string |  |
+| messages | List`1 |  |
+| outputFileName | String |  |
 | saveFormat | SaveFormat |  |
-| cancellationToken | Nullable<CancellationToken> |  |
+| cancellationToken | Nullable`1 |  |
 
 ### Return Value
 
@@ -109,6 +114,7 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName, Save
 
 ### See Also
 
+* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
 * class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

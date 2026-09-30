@@ -35,7 +35,7 @@ public WebHyperlink(string url)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| url | string | Web url for hyperlink. |
+| url | String | Web url for hyperlink. |
 
 ### See Also
 

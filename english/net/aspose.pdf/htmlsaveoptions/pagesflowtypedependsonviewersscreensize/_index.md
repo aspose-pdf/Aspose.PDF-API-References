@@ -5,7 +5,7 @@ articleTitle: "PagesFlowTypeDependsOnViewersScreenSize"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "HtmlSaveOptions field. If attribute 'SplitOnPages=false', than whole HTML representing all input PDF pages will be put into one big result HTML file. This fl..."
 type: docs
-weight: 490
+weight: 480
 url: "/net/aspose.pdf/htmlsaveoptions/pagesflowtypedependsonviewersscreensize/"
 product_version: "26.9.0"
 ---

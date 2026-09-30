@@ -9,7 +9,7 @@ weight: 190
 url: "/net/aspose.pdf.facades/pdfextractor/hasnextpagetext/"
 product_version: "26.9.0"
 ---
-## HasNextPageText() {#hasnextpagetext}
+## PdfExtractor.HasNextPageText method
 
 Indicates that whether can get more texts or not.
 
@@ -18,8 +18,6 @@ public bool HasNextPageText()
 ```
 
 ### Return Value
-
-bool
 
 Can get more texts or not, true is can, or false.
 

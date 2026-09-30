@@ -19,7 +19,7 @@ public IDataSource JsonSource { get; }
 
 ### See Also
 
-* class [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
+* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
 * class [FormJsonImportSource](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

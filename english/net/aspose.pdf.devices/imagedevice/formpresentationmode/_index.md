@@ -19,7 +19,7 @@ public FormPresentationMode FormPresentationMode { get; set; }
 
 ### See Also
 
-* class [FormPresentationMode](../../../aspose.pdf.devices/formpresentationmode/)
+* enum [FormPresentationMode](../../../aspose.pdf.devices/formpresentationmode/)
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

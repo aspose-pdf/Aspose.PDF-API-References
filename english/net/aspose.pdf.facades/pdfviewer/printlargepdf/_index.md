@@ -23,7 +23,7 @@ public void PrintLargePdf(string filePath)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filePath | string | The path of Pdf file. |
+| filePath | String | The path of Pdf file. |
 
 ## Examples
 
@@ -111,7 +111,7 @@ public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filePath | string | The path of Pdf file. |
+| filePath | String | The path of Pdf file. |
 | printerSettings | PrinterSettings | The printer settings. |
 
 ## Examples
@@ -142,6 +142,7 @@ public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
 
 ### See Also
 
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -193,6 +194,7 @@ public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
 
 ### See Also
 
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -209,12 +211,13 @@ This method integrates the opening and the printing of the file and you don't ne
  call the BindPdf() explicitly.
 
 ```csharp
-public void PrintLargePdf(string filePath, PageSettings pageSettings, PrinterSettings printerSettings)
+public void PrintLargePdf(string filePath, PageSettings pageSettings, 
+    PrinterSettings printerSettings)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filePath | string | The path of Pdf file. |
+| filePath | String | The path of Pdf file. |
 | pageSettings | PageSettings | The page settings. |
 | printerSettings | PrinterSettings | The printer settings. |
 
@@ -252,6 +255,8 @@ public void PrintLargePdf(string filePath, PageSettings pageSettings, PrinterSet
 
 ### See Also
 
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -268,7 +273,8 @@ This method integrates the opening and the printing of the file and you don't ne
  call the BindPdf() explicitly.
 
 ```csharp
-public void PrintLargePdf(Stream inputStream, PageSettings pageSettings, PrinterSettings printerSettings)
+public void PrintLargePdf(Stream inputStream, PageSettings pageSettings, 
+    PrinterSettings printerSettings)
 ```
 
 | Parameter | Type | Description |
@@ -311,6 +317,8 @@ public void PrintLargePdf(Stream inputStream, PageSettings pageSettings, Printer
 
 ### See Also
 
+* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf.annotations/pdf3drendermode/getopacity/"
 product_version: "26.9.0"
 ---
-## GetOpacity() {#getopacity}
+## PDF3DRenderMode.GetOpacity method
 
 Gets the opacity.
 
@@ -18,8 +18,6 @@ public double GetOpacity()
 ```
 
 ### Return Value
-
-double
 
 System.Double.
 

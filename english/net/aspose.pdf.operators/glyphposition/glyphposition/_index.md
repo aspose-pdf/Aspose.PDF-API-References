@@ -19,7 +19,7 @@ public GlyphPosition(string text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string | Text calue. |
+| text | String | Text calue. |
 
 ### See Also
 
@@ -39,8 +39,8 @@ public GlyphPosition(string text, double position)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string | Text value. |
-| position | double | Position value. |
+| text | String | Text value. |
+| position | Double | Position value. |
 
 ### See Also
 

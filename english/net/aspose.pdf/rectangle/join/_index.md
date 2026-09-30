@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf/rectangle/join/"
 product_version: "26.9.0"
 ---
-## Join([Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#join}
+## Rectangle.Join method
 
 Joins rectangles.
 
@@ -23,14 +23,11 @@ public Rectangle Join(Rectangle otherRect)
 
 ### Return Value
 
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
-
 Described rectangle.
 
 ### See Also
 
 * class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

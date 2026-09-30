@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets collection of choice options.
 
 ```csharp
-public OptionCollection Options { get; }
+public virtual OptionCollection Options { get; }
 ```
 
 ### See Also

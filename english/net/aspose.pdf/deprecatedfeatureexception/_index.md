@@ -22,14 +22,14 @@ public sealed class DeprecatedFeatureException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [DeprecatedFeatureException](./deprecatedfeatureexception/#constructor) | Initializes a new instance of the [`DeprecatedFeatureException`](../../aspose.pdf/deprecatedfeatureexception/) class. |
-| [DeprecatedFeatureException](./deprecatedfeatureexception/#constructor_1)(*string*) | Constructor. |
+| [DeprecatedFeatureException](./deprecatedfeatureexception/#constructor)() | Initializes a new instance of the [`DeprecatedFeatureException`](../../aspose.pdf/deprecatedfeatureexception/) class. |
+| [DeprecatedFeatureException](./deprecatedfeatureexception/#constructor_1)(string) | Constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(*CrashReportOptions*) | Forms crash report based on Exception HTML format. *(Inherited from PdfException)* |
+| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
 
 ### See Also
 

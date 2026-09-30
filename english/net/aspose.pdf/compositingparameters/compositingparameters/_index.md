@@ -23,6 +23,7 @@ public CompositingParameters(BlendMode blendMode)
 
 ### See Also
 
+* enum [BlendMode](../../../aspose.pdf/blendmode/)
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -44,6 +45,8 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
 
 ### See Also
 
+* enum [BlendMode](../../../aspose.pdf/blendmode/)
+* enum [ImageFilterType](../../../aspose.pdf/imagefiltertype/)
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -62,10 +65,12 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bo
 | --- | --- | --- |
 | blendMode | BlendMode | Blend mode of current graphics state. |
 | filterType | ImageFilterType | The image filter type. |
-| isMasked | bool | The adding mask flag. |
+| isMasked | Boolean | The adding mask flag. |
 
 ### See Also
 
+* enum [BlendMode](../../../aspose.pdf/blendmode/)
+* enum [ImageFilterType](../../../aspose.pdf/imagefiltertype/)
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

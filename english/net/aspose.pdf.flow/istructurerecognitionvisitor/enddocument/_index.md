@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.flow/istructurerecognitionvisitor/enddocument/"
 product_version: "26.9.0"
 ---
-## EndDocument() {#enddocument}
+## IStructureRecognitionVisitor.EndDocument method
 
 Signals the end of document processing.
 

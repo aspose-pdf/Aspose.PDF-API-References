@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/"
 product_version: "26.9.0"
 ---
-## RemoveAt(int) {#removeat}
+## PDF3DCrossSectionArray.RemoveAt method
 
 Removes cross section from array at specified index.
 
@@ -19,7 +19,7 @@ public void RemoveAt(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | The index of removed cross section in array. |
+| index | Int32 | The index of removed cross section in array. |
 
 ### Exceptions
 

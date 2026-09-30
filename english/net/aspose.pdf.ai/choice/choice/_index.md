@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/choice/choice/"
 product_version: "26.9.0"
 ---
-## Choice() {#constructor}
+## Choice constructor
 
 The default constructor.
 

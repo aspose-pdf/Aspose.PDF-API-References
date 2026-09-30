@@ -20,8 +20,6 @@ public TabStop Add()
 
 ### Return Value
 
-[TabStop](../../../aspose.pdf.text/tabstop/)
-
 The new [`TabStop`](../../../aspose.pdf.text/tabstop/) object.
 
 ### See Also
@@ -44,11 +42,9 @@ public TabStop Add(float position)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| position | float | The position of the tab stop. |
+| position | Single | The position of the tab stop. |
 
 ### Return Value
-
-[TabStop](../../../aspose.pdf.text/tabstop/)
 
 The new [`TabStop`](../../../aspose.pdf.text/tabstop/) object.
 
@@ -75,6 +71,7 @@ public void Add(TabStop tabStop)
 
 ### See Also
 
+* class [TabStop](../../../aspose.pdf.text/tabstop/)
 * class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -92,18 +89,17 @@ public TabStop Add(float position, TabLeaderType leaderType)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| position | float | The position of the tab stop. |
+| position | Single | The position of the tab stop. |
 | leaderType | TabLeaderType | The leader type of the tab stop. |
 
 ### Return Value
-
-[TabStop](../../../aspose.pdf.text/tabstop/)
 
 The new [`TabStop`](../../../aspose.pdf.text/tabstop/) object.
 
 ### See Also
 
 * class [TabStop](../../../aspose.pdf.text/tabstop/)
+* enum [TabLeaderType](../../../aspose.pdf.text/tableadertype/)
 * class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

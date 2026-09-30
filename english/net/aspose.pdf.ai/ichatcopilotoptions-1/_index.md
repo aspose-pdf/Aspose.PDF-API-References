@@ -9,12 +9,12 @@ weight: 500
 url: "/net/aspose.pdf.ai/ichatcopilotoptions-1/"
 product_version: "26.9.0"
 ---
-## IChatCopilotOptions<TOptions> interface
+## IChatCopilotOptions&lt;TOptions&gt; interface
 
 Represents an interface for chat copilot options with a specific type.
 
 ```csharp
-public interface IChatCopilotOptions<TOptions><TOptions>
+public interface IChatCopilotOptions<out TOptions>
 ```
 
 ## Type Parameters

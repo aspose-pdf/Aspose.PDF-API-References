@@ -20,7 +20,7 @@ public VerificationState State { get; }
 
 ### See Also
 
-* class [VerificationState](../../../aspose.pdf.security/verificationstate/)
+* enum [VerificationState](../../../aspose.pdf.security/verificationstate/)
 * class [VerificationResult](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)

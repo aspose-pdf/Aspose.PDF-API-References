@@ -5,7 +5,7 @@ articleTitle: "SaveFormat"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.SaveFormat enum. Specifies format"
 type: docs
-weight: 2750
+weight: 2710
 url: "/net/aspose.pdf/saveformat/"
 product_version: "26.9.0"
 ---
@@ -23,9 +23,6 @@ public enum SaveFormat
 | --- | --- | --- |
 | Pdf | `0` | means saving without change of format, i.e. as PDF
  use it please instead of 'SaveFormat.None', that is obsolete one |
-| None | `0` | means saving without change of format, i.e. as PDF
- It's obsolete one and will be deleted eventually,
- please use instead 'SaveFormat.Pdf' |
 | Doc | `1` | means saving in DOC format |
 | Xps | `2` | means saving in XPS format |
 | Html | `3` | means saving in HTML format |

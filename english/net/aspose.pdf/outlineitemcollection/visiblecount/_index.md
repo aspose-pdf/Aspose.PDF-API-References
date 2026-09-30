@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets the total number of outline items at all levels in the document outline hierarchy.
 
 ```csharp
-public int VisibleCount { get; }
+public override int VisibleCount { get; }
 ```
 
 ### See Also

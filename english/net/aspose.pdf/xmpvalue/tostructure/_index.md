@@ -9,7 +9,7 @@ weight: 120
 url: "/net/aspose.pdf/xmpvalue/tostructure/"
 product_version: "26.9.0"
 ---
-## ToStructure() {#tostructure}
+## XmpValue.ToStructure method
 
 Returns XMP value as structure (set of fields).
 
@@ -18,8 +18,6 @@ public XmpField[] ToStructure()
 ```
 
 ### Return Value
-
-[XmpField](../../../aspose.pdf/xmpfield/)[]
 
 Structure value.
 

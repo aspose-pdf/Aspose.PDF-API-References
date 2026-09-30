@@ -19,7 +19,7 @@ public BorderStyle Style { get; set; }
 
 ### See Also
 
-* class [BorderStyle](../../../aspose.pdf.annotations/borderstyle/)
+* enum [BorderStyle](../../../aspose.pdf.annotations/borderstyle/)
 * class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf/embeddedfilecollection/deletebykey/"
 product_version: "26.9.0"
 ---
-## DeleteByKey(string) {#deletebykey}
+## EmbeddedFileCollection.DeleteByKey method
 
 Deletes file from the collection by its key in the collection.
 
@@ -19,7 +19,7 @@ public void DeleteByKey(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | Key name. |
+| key | String | Key name. |
 
 ### See Also
 

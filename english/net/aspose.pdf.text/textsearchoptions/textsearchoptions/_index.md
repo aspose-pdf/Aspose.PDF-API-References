@@ -20,7 +20,7 @@ public TextSearchOptions(bool isRegularExpressionUsed)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| isRegularExpressionUsed | bool | Value that indicates that regularexpression is used. |
+| isRegularExpressionUsed | Boolean | Value that indicates that regularexpression is used. |
 
 ### See Also
 
@@ -45,6 +45,7 @@ public TextSearchOptions(Rectangle rectangle)
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -63,10 +64,11 @@ public TextSearchOptions(Rectangle rectangle, bool isRegularExpressionUsed)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rectangle | Rectangle | Rectangle that includes the extracted text. |
-| isRegularExpressionUsed | bool | Value that indicates that regularexpression is used. |
+| isRegularExpressionUsed | Boolean | Value that indicates that regularexpression is used. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

@@ -9,28 +9,28 @@ weight: 470
 url: "/net/aspose.pdf.ai/iopenaiclient/runandgetassistantresponseasync/"
 product_version: "26.9.0"
 ---
-## RunAndGetAssistantResponseAsync(string, [RunCreateRequest](../../../aspose.pdf.ai/runcreaterequest/), Nullable<CancellationToken>) {#runandgetassistantresponseasync}
+## IOpenAIClient.RunAndGetAssistantResponseAsync method
 
 Runs the assistant with the specified threadId and runCreateRequest, and asynchronously gets the assistant response.
 
 ```csharp
-public Task<string> RunAndGetAssistantResponseAsync(string threadId, RunCreateRequest runCreateRequest, Nullable<CancellationToken> cancellationToken)
+public Task<string> RunAndGetAssistantResponseAsync(string threadId, 
+    RunCreateRequest runCreateRequest, CancellationToken? cancellationToken)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threadId | string | The ID of the thread. |
+| threadId | String | The ID of the thread. |
 | runCreateRequest | RunCreateRequest | The run creation request. |
-| cancellationToken | Nullable<CancellationToken> | The cancellation token (optional). |
+| cancellationToken | Nullable`1 | The cancellation token (optional). |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<string>
 
 A task representing the asynchronous operation with the assistant response string.
 
 ### See Also
 
+* class [RunCreateRequest](../../../aspose.pdf.ai/runcreaterequest/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

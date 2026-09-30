@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.text/textsegmentcollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove([TextSegment](../../../aspose.pdf.text/textsegment/)) {#remove}
+## TextSegmentCollection.Remove method
 
 Deletes specified item from collection.
 
@@ -23,12 +23,11 @@ public bool Remove(TextSegment item)
 
 ### Return Value
 
-bool
-
 true if item was deleted from collection; otherwise, false.
 
 ### See Also
 
+* class [TextSegment](../../../aspose.pdf.text/textsegment/)
 * class [TextSegmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

@@ -23,7 +23,7 @@ public ExtractImageMode ExtractImageMode { get; set; }
 
 ### See Also
 
-* class [ExtractImageMode](../../../aspose.pdf/extractimagemode/)
+* enum [ExtractImageMode](../../../aspose.pdf/extractimagemode/)
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

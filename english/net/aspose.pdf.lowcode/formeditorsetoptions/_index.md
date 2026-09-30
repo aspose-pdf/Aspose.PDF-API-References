@@ -22,21 +22,21 @@ public sealed class FormEditorSetOptions : FormEditorOptions
 
 | Name | Description |
 | --- | --- |
-| [FormEditorSetOptions](./formeditorsetoptions/#constructor)(*[SelectField](../../aspose.pdf.lowcode/selectfield/), [FormFieldSetOptions](../../aspose.pdf.lowcode/formfieldsetoptions/)*) | Initializes a new instance of the [`FormEditorSetOptions`](../../aspose.pdf.lowcode/formeditorsetoptions/) object,. |
+| [FormEditorSetOptions](./formeditorsetoptions/)(SelectField, FormFieldSetOptions) | Initializes a new instance of the [`FormEditorSetOptions`](../../aspose.pdf.lowcode/formeditorsetoptions/) object, in which the values assigned to the properties of the field are specified. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Inputs](../../aspose.pdf.lowcode/formoptions/inputs/) { get; } | Returns Form.... plugins data collection. *(Inherited from FormOptions)* |
-| [Outputs](../../aspose.pdf.lowcode/formoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. *(Inherited from FormOptions)* |
+| [Inputs](../../aspose.pdf.lowcode/formoptions/inputs/) { get; } | Returns Form.... plugins data collection. |
+| [Outputs](../../aspose.pdf.lowcode/formoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.lowcode/formoptions/addinput/)(*IDataSource*) | Adds new data source to the Form... plugins data collection. *(Inherited from FormOptions)* |
-| [AddOutput](../../aspose.pdf.lowcode/formoptions/addoutput/)(*IDataSource*) | Adds new data source to the Form... plugins data collection. *(Inherited from FormOptions)* |
+| [AddInput](../../aspose.pdf.lowcode/formoptions/addinput/)(IDataSource) | Adds new data source to the Form... plugins data collection. |
+| [AddOutput](../../aspose.pdf.lowcode/formoptions/addoutput/)(IDataSource) | Adds new data source to the Form... plugins data collection. |
 
 ### See Also
 

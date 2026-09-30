@@ -5,7 +5,7 @@ articleTitle: "Note"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Note class. This class represents generator paragraph note."
 type: docs
-weight: 1960
+weight: 1920
 url: "/net/aspose.pdf/note/"
 keywords: "Note, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,8 +22,8 @@ public sealed class Note
 
 | Name | Description |
 | --- | --- |
-| [Note](./note/#constructor) | Initializes a new instance of the [`Note`](../../aspose.pdf/note/) class. |
-| [Note](./note/#constructor_1)(*string*) | Initializes a new instance of the [`Note`](../../aspose.pdf/note/) class. |
+| [Note](./note/#constructor)() | Initializes a new instance of the [`Note`](../../aspose.pdf/note/) class. |
+| [Note](./note/#constructor_1)(string) | Initializes a new instance of the [`Note`](../../aspose.pdf/note/) class. |
 
 ## Properties
 

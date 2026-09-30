@@ -5,7 +5,7 @@ articleTitle: "Paragraphs"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Paragraphs class. This class represents paragraph collection."
 type: docs
-weight: 2350
+weight: 2310
 url: "/net/aspose.pdf/paragraphs/"
 keywords: "Paragraphs, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -15,14 +15,14 @@ product_version: "26.9.0"
 This class represents paragraph collection.
 
 ```csharp
-public class Paragraphs : IEnumerable, ICloneable
+public class Paragraphs : ICloneable, IEnumerable<BaseParagraph>
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [Paragraphs](./paragraphs/#constructor) | The default constructor. |
+| [Paragraphs](./paragraphs/)() | The default constructor. |
 
 ## Properties
 
@@ -35,15 +35,15 @@ public class Paragraphs : IEnumerable, ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*BaseParagraph*) | Add paragraph to collection. |
-| [Clear](./clear/) | Clear paragraphs. |
-| [Clone](./clone/) | Clones a new `Clone` object. |
-| [GetEnumerator](./getenumerator/) | Gets the enumerator. |
-| [GetRange](./getrange/)(*int, int*) | Remove paragraphs range. |
-| [Insert](./insert/)(*int, BaseParagraph*) | Insert paragraph to collection. |
-| [InsertRange](./insertrange/)(*int, IEnumerable<BaseParagraph>*) | Inserts the elements of a collection into the list at the specified index. |
-| [Remove](./remove/)(*BaseParagraph*) | Remove paragraph from collection. |
-| [RemoveRange](./removerange/)(*int, int*) | Remove paragraphs range. |
+| [Add](./add/)(BaseParagraph) | Add paragraph to collection. |
+| [Clear](./clear/)() | Clear paragraphs. |
+| [Clone](./clone/)() | Clones a new `Clone` object. |
+| [GetEnumerator](./getenumerator/)() | Gets the enumerator. |
+| [GetRange](./getrange/)(int, int) | Remove paragraphs range. |
+| [Insert](./insert/)(int, BaseParagraph) | Insert paragraph to collection. |
+| [InsertRange](./insertrange/)(int, IEnumerable<BaseParagraph>) | Inserts the elements of a collection into the list at the specified index. |
+| [Remove](./remove/)(BaseParagraph) | Remove paragraph from collection. |
+| [RemoveRange](./removerange/)(int, int) | Remove paragraphs range. |
 
 ### See Also
 

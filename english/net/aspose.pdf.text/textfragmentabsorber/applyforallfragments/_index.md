@@ -23,6 +23,7 @@ public void ApplyForAllFragments(Font font)
 
 ### See Also
 
+* class [Font](../../../aspose.pdf.text/font/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -39,7 +40,7 @@ public void ApplyForAllFragments(float fontSize)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontSize | float | Font size of the text. |
+| fontSize | Single | Font size of the text. |
 
 ### See Also
 
@@ -60,10 +61,11 @@ public void ApplyForAllFragments(Font font, float fontSize)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | font | Font | <see cref="T:Aspose.Pdf.Text.Font" />of the text. |
-| fontSize | float | Font size of the text. |
+| fontSize | Single | Font size of the text. |
 
 ### See Also
 
+* class [Font](../../../aspose.pdf.text/font/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

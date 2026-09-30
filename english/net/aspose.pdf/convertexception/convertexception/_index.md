@@ -19,7 +19,7 @@ public ConvertException(string message)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | string | The message. |
+| message | String | The message. |
 
 ### See Also
 
@@ -39,7 +39,7 @@ public ConvertException(string message, Exception innerException)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | string | The message. |
+| message | String | The message. |
 | innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 
 ### See Also

@@ -9,7 +9,7 @@ weight: 190
 url: "/net/aspose.pdf/ximagecollection/contains/"
 product_version: "26.9.0"
 ---
-## Contains([XImage](../../../aspose.pdf/ximage/)) {#contains}
+## XImageCollection.Contains method
 
 Determines whether the collection contains a specific value.
 
@@ -23,12 +23,11 @@ public bool Contains(XImage item)
 
 ### Return Value
 
-bool
-
 true if item is found in the collection; otherwise, false.
 
 ### See Also
 
+* class [XImage](../../../aspose.pdf/ximage/)
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

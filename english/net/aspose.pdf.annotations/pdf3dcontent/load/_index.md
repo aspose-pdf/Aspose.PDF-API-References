@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.annotations/pdf3dcontent/load/"
 product_version: "26.9.0"
 ---
-## Load(string) {#load}
+## PDF3DContent.Load method
 
 Loads 3D content with the specified filename.
 
@@ -19,7 +19,7 @@ public void Load(string filename)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | The filename. |
+| filename | String | The filename. |
 
 ### Exceptions
 

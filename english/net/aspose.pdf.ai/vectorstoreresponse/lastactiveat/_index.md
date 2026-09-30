@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the Unix timestamp (in seconds) for when the vector store was last active.
 
 ```csharp
-public Nullable<long> LastActiveAt { get; set; }
+public long? LastActiveAt { get; set; }
 ```
 
 ### See Also

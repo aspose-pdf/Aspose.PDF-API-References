@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf/outputintents/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## OutputIntents.GetEnumerator method
 
 Returns an enumerator that iterates through the collection.
 
@@ -18,8 +18,6 @@ public IEnumerator<OutputIntent> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[OutputIntent](../../../aspose.pdf/outputintent/)>
 
 An enumerator that can be used to iterate through the collection.
 

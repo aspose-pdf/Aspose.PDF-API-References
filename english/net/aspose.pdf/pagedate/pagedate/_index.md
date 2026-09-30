@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/pagedate/pagedate/"
 product_version: "26.9.0"
 ---
-## PageDate() {#constructor}
+## PageDate constructor
 
 The default constructor.
 

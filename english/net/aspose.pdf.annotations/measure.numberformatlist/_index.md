@@ -22,7 +22,7 @@ public class NumberFormatList
 
 | Name | Description |
 | --- | --- |
-| [Measure.NumberFormatList](./numberformatlist/#constructor)(*[Measure](../../aspose.pdf.annotations/measure/)*) | Constructor for NumberFormatList. |
+| [NumberFormatList](./numberformatlist/)(Measure) | Constructor for NumberFormatList. |
 
 ## Properties
 
@@ -35,9 +35,9 @@ public class NumberFormatList
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*NumberFormat*) |  |
-| [Insert](./insert/)(*int, NumberFormat*) |  |
-| [RemoveAt](./removeat/)(*int*) | Removes number format from list. |
+| [Add](./add/)(NumberFormat) | Adds number format to list. |
+| [Insert](./insert/)(int, NumberFormat) | Inserts number format into list. |
+| [RemoveAt](./removeat/)(int) | Removes number format from list. |
 
 ### See Also
 

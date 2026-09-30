@@ -15,7 +15,7 @@ Gets the relative order of the field name in the user interface.
  Fields shall be sorted by the interactive PDF processor in ascending order.
 
 ```csharp
-public Nullable<int> O { get; }
+public int? O { get; }
 ```
 
 ### See Also

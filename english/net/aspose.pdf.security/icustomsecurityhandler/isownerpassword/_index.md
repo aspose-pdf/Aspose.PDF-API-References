@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf.security/icustomsecurityhandler/isownerpassword/"
 product_version: "26.9.0"
 ---
-## IsOwnerPassword(string) {#isownerpassword}
+## ICustomSecurityHandler.IsOwnerPassword method
 
 Check if the password is the document owner's password.
  The method is called after Initialize. The method call is used in the PDF API.
@@ -20,11 +20,9 @@ public bool IsOwnerPassword(string password)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| password | string | The password. |
+| password | String | The password. |
 
 ### Return Value
-
-bool
 
 True, if it is an owner password.
 

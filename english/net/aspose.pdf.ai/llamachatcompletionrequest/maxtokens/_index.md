@@ -15,7 +15,7 @@ Sets or gets the maximum number of tokens to generate in the chat completion.
  Default value is null, means infinity.
 
 ```csharp
-public Nullable<int> MaxTokens { get; set; }
+public int? MaxTokens { get; set; }
 ```
 
 ### See Also

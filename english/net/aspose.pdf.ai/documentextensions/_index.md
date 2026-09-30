@@ -22,8 +22,8 @@ public static class DocumentExtensions
 
 | Name | Description |
 | --- | --- |
-| [GetChunksAsync](./getchunksasync/)(*Document, ChunkingOptions, string, MarkdownSaveOptions, CancellationToken*) |  |
-| [IngestAsync](./ingestasync/)(*Document, ChunkingOptions, string, IEmbeddingGenerator<string, Embedding<float>>, VectorStoreCollection<string, DocumentChunk>, MarkdownSaveOptions, CancellationToken*) |  |
+| static [GetChunksAsync](./getchunksasync/)(this Document, ChunkingOptions, string, MarkdownSaveOptions, CancellationToken) |  |
+| static [IngestAsync](./ingestasync/)(this Document, ChunkingOptions, string, IEmbeddingGenerator<string, Embedding<float>>, VectorStoreCollection<string, DocumentChunk>, MarkdownSaveOptions, CancellationToken) |  |
 
 ### See Also
 

@@ -5,7 +5,7 @@ articleTitle: "PageRange"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.PageRange class. Represents the range of pages for header and footer settings."
 type: docs
-weight: 2310
+weight: 2270
 url: "/net/aspose.pdf/pagerange/"
 keywords: "PageRange, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public sealed class PageRange
 
 | Name | Description |
 | --- | --- |
-| [PageRange](./pagerange/#constructor) | The default constructor. |
+| [PageRange](./pagerange/)() | The default constructor. |
 
 ## Properties
 

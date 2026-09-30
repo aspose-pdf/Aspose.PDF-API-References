@@ -9,18 +9,18 @@ weight: 20
 url: "/net/aspose.pdf/collectionitem/trygetintvalue/"
 product_version: "26.9.0"
 ---
-## TryGetIntValue(string, Value<int>) {#trygetintvalue}
+## CollectionItem.TryGetIntValue method
 
 
 
 ```csharp
-public bool TryGetIntValue(string name, Value<int> value)
+public bool TryGetIntValue(string name, out Value<int> value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string |  |
-| value | Value<int> |  |
+| name | String |  |
+| value | Value`1& |  |
 
 ### Return Value
 

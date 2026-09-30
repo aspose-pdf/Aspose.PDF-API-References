@@ -22,7 +22,7 @@ public class BitmapInfo
 
 | Name | Description |
 | --- | --- |
-| [BitmapInfo](./bitmapinfo/#constructor)(*byte[], int, int, PixelFormat*) | Initializes a new instance of the BitmapInfo class. |
+| [BitmapInfo](./bitmapinfo/)(byte[], int, int, PixelFormat) | Creates a new instance of the class. |
 
 ## Properties
 
@@ -32,6 +32,12 @@ public class BitmapInfo
 | [Height](./height/) { get; } | Gets the height of the bitmap. |
 | [PixelBytes](./pixelbytes/) { get; } | Gets the array of pixels. |
 | [Width](./width/) { get; } | Gets the width of the bitmap. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| enum [PixelFormat](../../aspose.pdf/bitmapinfo.pixelformat) | Bitmap pixel format. |
 
 ### See Also
 

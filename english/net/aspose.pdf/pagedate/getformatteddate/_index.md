@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/pagedate/getformatteddate/"
 product_version: "26.9.0"
 ---
-## GetFormattedDate() {#getformatteddate}
+## PageDate.GetFormattedDate method
 
 Returns the formatted date string based on the current date format.
 
@@ -18,8 +18,6 @@ public string GetFormattedDate()
 ```
 
 ### Return Value
-
-string
 
 A formatted date string.
 

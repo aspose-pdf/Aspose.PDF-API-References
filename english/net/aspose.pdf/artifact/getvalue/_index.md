@@ -9,7 +9,7 @@ weight: 110
 url: "/net/aspose.pdf/artifact/getvalue/"
 product_version: "26.9.0"
 ---
-## GetValue(string) {#getvalue}
+## Artifact.GetValue method
 
 Gets custom value of artifact.
 
@@ -19,11 +19,9 @@ public string GetValue(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Name of value. |
+| name | String | Name of value. |
 
 ### Return Value
-
-string
 
 Value, or null if value does not exists.
 

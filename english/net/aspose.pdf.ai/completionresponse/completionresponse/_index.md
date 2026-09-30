@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/completionresponse/completionresponse/"
 product_version: "26.9.0"
 ---
-## CompletionResponse() {#constructor}
+## CompletionResponse constructor
 
 The default constructor.
 

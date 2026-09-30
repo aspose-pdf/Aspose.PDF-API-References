@@ -9,33 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/dictionaryeditor/"
 product_version: "26.9.0"
 ---
-## DictionaryEditor([Page](../../../aspose.pdf/page/)) {#constructor}
-
-Initializes a new instance of the DictionaryEditor class.
-
-```csharp
-public DictionaryEditor(Page page)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | A page with a dictionary for work. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | The page is null or page structure is broken. |
-
-### See Also
-
-* class [DictionaryEditor](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## DictionaryEditor([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## DictionaryEditor([Document](../../../aspose.pdf/document/)) {#constructor}
 
 Initializes a new instance of the DictionaryEditor class.
 
@@ -55,6 +29,34 @@ public DictionaryEditor(Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## DictionaryEditor([Page](../../../aspose.pdf/page/)) {#constructor_1}
+
+Initializes a new instance of the DictionaryEditor class.
+
+```csharp
+public DictionaryEditor(Page page)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | A page with a dictionary for work. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | The page is null or page structure is broken. |
+
+### See Also
+
+* class [Page](../../../aspose.pdf/page/)
 * class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
@@ -81,6 +83,7 @@ public DictionaryEditor(Resources resources)
 
 ### See Also
 
+* class [Resources](../../../aspose.pdf/resources/)
 * class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)

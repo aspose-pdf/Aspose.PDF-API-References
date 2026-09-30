@@ -5,7 +5,7 @@ articleTitle: "InterpolationHighQuality"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "RenderingOptions property. Gets or sets hiqh quality mode for interpolation."
 type: docs
-weight: 110
+weight: 90
 url: "/net/aspose.pdf/renderingoptions/interpolationhighquality/"
 product_version: "26.9.0"
 ---

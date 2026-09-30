@@ -22,7 +22,7 @@ public class ThreadMessageCreateRequest
 
 | Name | Description |
 | --- | --- |
-| [ThreadMessageCreateRequest](./threadmessagecreaterequest/#constructor) | The default constructor. |
+| [ThreadMessageCreateRequest](./threadmessagecreaterequest/)() | The default constructor. |
 
 ## Properties
 
@@ -30,19 +30,19 @@ public class ThreadMessageCreateRequest
 | --- | --- |
 | [Attachments](./attachments/) { get; set; } | Gets or sets a list of files attached to the message. |
 | [Content](./content/) { get; set; } | Gets or sets the content of the message. Can be a string or an array of content parts. |
-| [Metadata](./metadata/) { get; set; } | Gets or sets a set of 16 key-value pairs that can be attached to an object. |
-| [Role](./role/) { get; set; } | Gets or sets the role of the entity creating the message. |
+| [Metadata](./metadata/) { get; set; } | Gets or sets a set of 16 key-value pairs that can be attached to an object. This can be useful for storing additional information about the object in a structured format. Keys can be a maximum of 64 characters long and values can be a maximum of 512 characters long. |
+| [Role](./role/) { get; set; } | Gets or sets the role of the entity creating the message. Allowed values include: "user", "assistant". |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [FromAssistant](./fromassistant/) | Creates a new [`ThreadMessageCreateRequest`](../../aspose.pdf.ai/threadmessagecreaterequest/) with the role set to Assistant. |
-| [FromUser](./fromuser/) | Creates a new [`ThreadMessageCreateRequest`](../../aspose.pdf.ai/threadmessagecreaterequest/) with the role set to User. |
-| [WithAttachments](./withattachments/)(*List<Attachment>*) | Sets the attachments for the thread message request. |
-| [WithContent](./withcontent/)(*MessageContentRequest*) | Adds a message content to the thread message request. |
-| [WithContents](./withcontents/)(*List<MessageContentRequest>*) | Sets the message contents for the thread message request. |
-| [WithMetadata](./withmetadata/)(*Dictionary<string, string>*) | Sets the metadata for the thread message request. |
+| static [FromAssistant](./fromassistant/)() | Creates a new [`ThreadMessageCreateRequest`](../../aspose.pdf.ai/threadmessagecreaterequest/) with the role set to Assistant. |
+| static [FromUser](./fromuser/)() | Creates a new [`ThreadMessageCreateRequest`](../../aspose.pdf.ai/threadmessagecreaterequest/) with the role set to User. |
+| [WithAttachments](./withattachments/)(List<Attachment>) | Sets the attachments for the thread message request. |
+| [WithContent](./withcontent/)(MessageContentRequest) | Adds a message content to the thread message request. |
+| [WithContents](./withcontents/)(List<MessageContentRequest>) | Sets the message contents for the thread message request. |
+| [WithMetadata](./withmetadata/)(Dictionary<string, string>) | Sets the metadata for the thread message request. |
 
 ### See Also
 

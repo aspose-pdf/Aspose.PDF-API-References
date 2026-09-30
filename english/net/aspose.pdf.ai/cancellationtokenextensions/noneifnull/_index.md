@@ -9,21 +9,19 @@ weight: 10
 url: "/net/aspose.pdf.ai/cancellationtokenextensions/noneifnull/"
 product_version: "26.9.0"
 ---
-## NoneIfNull(Nullable<CancellationToken>) {#noneifnull}
+## CancellationTokenExtensions.NoneIfNull method
 
 Returns CancellationToken.None if the input CancellationToken is null; otherwise, returns the input CancellationToken.
 
 ```csharp
-public CancellationToken NoneIfNull(Nullable<CancellationToken> cancellationToken)
+public static CancellationToken NoneIfNull(this CancellationToken? cancellationToken)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cancellationToken | Nullable<CancellationToken> | The input CancellationToken (nullable). |
+| cancellationToken | Nullable`1 | The input CancellationToken (nullable). |
 
 ### Return Value
-
-[CancellationToken](https://learn.microsoft.com/dotnet/api/system.threading.cancellationtoken)
 
 The CancellationToken value based on the input.
 

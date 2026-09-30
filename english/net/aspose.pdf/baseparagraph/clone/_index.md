@@ -9,18 +9,16 @@ weight: 10
 url: "/net/aspose.pdf/baseparagraph/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## BaseParagraph.Clone method
 
 Clones this instance.
  Virtual method. Always return null.
 
 ```csharp
-public object Clone()
+public virtual object Clone()
 ```
 
 ### Return Value
-
-object
 
 Null.
 

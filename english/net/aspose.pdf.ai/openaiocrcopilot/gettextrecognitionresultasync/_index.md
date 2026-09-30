@@ -9,17 +9,18 @@ weight: 20
 url: "/net/aspose.pdf.ai/openaiocrcopilot/gettextrecognitionresultasync/"
 product_version: "26.9.0"
 ---
-## GetTextRecognitionResultAsync(Nullable<CancellationToken>) {#gettextrecognitionresultasync}
+## OpenAIOcrCopilot.GetTextRecognitionResultAsync method
 
 
 
 ```csharp
-public Task<List<TextRecognitionResult>> GetTextRecognitionResultAsync(Nullable<CancellationToken> cancellationToken)
+public Task<List<TextRecognitionResult>> GetTextRecognitionResultAsync(
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cancellationToken | Nullable<CancellationToken> |  |
+| cancellationToken | Nullable`1 |  |
 
 ### Return Value
 

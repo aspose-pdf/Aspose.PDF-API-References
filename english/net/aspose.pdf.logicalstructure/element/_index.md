@@ -29,17 +29,17 @@ public abstract class Element
 
 | Name | Description |
 | --- | --- |
-| [AppendChild](./appendchild/)(*Element, bool*) | Append [`Element`](../../aspose.pdf.structure/element/) to collection of children. |
-| [ClearChilds](./clearchilds/) | Clear all childs. |
-| [FindElements](./findelements/)(*bool*) | Find Elements of a given type. |
-| [InsertChild](./insertchild/)(*Element, int, bool*) | Insert [`Element`](../../aspose.pdf.structure/element/) to collection of children at specified index. |
-| [RemoveChild](./removechild/)(*int*) | Remove child at. |
-| [Tag](./tag/)(*BDC*) | Bind a structure element to the content stream BDC operator. |
-| [Tag](./tag/)(*XForm*) | Bind a structure element to the content stream XForm. |
-| [Tag](./tag/)(*XImage*) | Bind a structure element to the XImage. |
-| [Tag](./tag/)(*Artifact*) | Bind a structure element to the Artifact. |
-| [Tag](./tag/)(*Annotation*) | Bind a structure element to the Annotation. |
-| [ToString](./tostring/) | Returns a string that represents the current object. |
+| [AppendChild](./appendchild/)(Element, bool) | Append [`Element`](../../aspose.pdf.structure/element/) to collection of children. |
+| [ClearChilds](./clearchilds/)() | Clear all childs. |
+| [FindElements](./findelements/)(bool) | Find Elements of a given type |
+| [InsertChild](./insertchild/)(Element, int, bool) | Insert [`Element`](../../aspose.pdf.structure/element/) to collection of children at specified index. |
+| [RemoveChild](./removechild/)(int) | Remove child at. |
+| abstract [Tag](./tag/)(Annotation) | Bind a structure element to the Annotation. |
+| abstract [Tag](./tag/)(Artifact) | Bind a structure element to the Artifact. |
+| abstract [Tag](./tag/)(BDC) | Bind a structure element to the content stream BDC operator. |
+| abstract [Tag](./tag/)(XForm) | Bind a structure element to the content stream XForm. |
+| abstract [Tag](./tag/)(XImage) | Bind a structure element to the XImage. |
+| override [ToString](./tostring/)() | Returns a string that represents the current object. |
 
 ### See Also
 

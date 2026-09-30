@@ -9,7 +9,7 @@ weight: 400
 url: "/net/aspose.pdf.facades/pdfcontenteditor/adddocumentadditionalaction/"
 product_version: "26.9.0"
 ---
-## AddDocumentAdditionalAction(string, string) {#adddocumentadditionalaction}
+## PdfContentEditor.AddDocumentAdditionalAction method
 
 Adds additional action for document event.
 
@@ -19,8 +19,8 @@ public void AddDocumentAdditionalAction(string eventType, string code)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| eventType | string | The document event types. |
-| code | string | The code of JavaScript. |
+| eventType | String | The document event types. |
+| code | String | The code of JavaScript. |
 
 ### See Also
 

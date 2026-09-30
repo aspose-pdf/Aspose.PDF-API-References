@@ -9,7 +9,7 @@ weight: 130
 url: "/net/aspose.pdf.tagged/itaggedcontent/createprivateelement/"
 product_version: "26.9.0"
 ---
-## CreatePrivateElement() {#createprivateelement}
+## ITaggedContent.CreatePrivateElement method
 
 Creates [`PrivateElement`](../../../aspose.pdf.logicalstructure/privateelement/).
 
@@ -18,8 +18,6 @@ public PrivateElement CreatePrivateElement()
 ```
 
 ### Return Value
-
-[PrivateElement](../../../aspose.pdf.logicalstructure/privateelement/)
 
 Created structure element.
 

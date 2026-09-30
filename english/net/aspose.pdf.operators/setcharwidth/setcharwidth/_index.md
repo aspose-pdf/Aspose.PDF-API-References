@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/setcharwidth/setcharwidth/"
 product_version: "26.9.0"
 ---
-## SetCharWidth(double, double) {#constructor}
+## SetCharWidth constructor
 
 Constructor.
 
@@ -19,8 +19,8 @@ public SetCharWidth(double wx, double wy)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| wx | double | Horizontal displacement of glyph. |
-| wy | double | Vertical displacement of glyph. |
+| wx | Double | Horizontal displacement of glyph. |
+| wy | Double | Vertical displacement of glyph. |
 
 ### See Also
 

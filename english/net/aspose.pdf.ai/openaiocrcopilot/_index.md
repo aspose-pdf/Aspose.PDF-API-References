@@ -40,14 +40,14 @@ Provides OCR capabilities to extract text from PDF documents and images.
  string text = textRecognitions[0].OcrDetails[0].ExtractedText;
 
 ```csharp
-public class OpenAIOcrCopilot : IOcrCopilot, IAICopilot
+public class OpenAIOcrCopilot : IOcrCopilot
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [OpenAIOcrCopilot](./openaiocrcopilot/#constructor)(*[IOpenAIClient](../../aspose.pdf.ai/iopenaiclient/), IOcrCopilotOptions<OpenAIOcrCopilotOptions>*) | Initializes a new instance of the [`OpenAIOcrCopilot`](../../aspose.pdf.ai/openaiocrcopilot/) class. |
+| [OpenAIOcrCopilot](./openaiocrcopilot/)(IOpenAIClient, IOcrCopilotOptions<OpenAIOcrCopilotOptions>) | Initializes a new instance of the [`OpenAIOcrCopilot`](../../aspose.pdf.ai/openaiocrcopilot/) class. |
 
 ## Properties
 
@@ -59,7 +59,7 @@ public class OpenAIOcrCopilot : IOcrCopilot, IAICopilot
 
 | Name | Description |
 | --- | --- |
-| [GetTextRecognitionResultAsync](./gettextrecognitionresultasync/)(*Nullable<CancellationToken>*) |  |
+| [GetTextRecognitionResultAsync](./gettextrecognitionresultasync/)(CancellationToken?) |  |
 
 ### See Also
 

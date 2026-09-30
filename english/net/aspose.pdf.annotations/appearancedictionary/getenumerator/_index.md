@@ -5,11 +5,11 @@ articleTitle: "GetEnumerator"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "AppearanceDictionary method. Returns an IDictionaryEnumerator object for the dictionary."
 type: docs
-weight: 30
+weight: 20
 url: "/net/aspose.pdf.annotations/appearancedictionary/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## AppearanceDictionary.GetEnumerator method
 
 Returns an IDictionaryEnumerator object for the dictionary.
 
@@ -18,8 +18,6 @@ public IEnumerator<KeyValuePair<string, XForm>> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<KeyValuePair<string, [XForm](../../../aspose.pdf/xform/)>>
 
 Enumerator of the dictionary.
 

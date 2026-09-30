@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf/artifactcollection/findbyvalue/"
 product_version: "26.9.0"
 ---
-## FindByValue(string, string) {#findbyvalue}
+## ArtifactCollection.FindByValue method
 
 Finds artifacts by custom value.
 
@@ -19,12 +19,10 @@ public List<Artifact> FindByValue(string name, string expectedValue)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Name of custom value. |
-| expectedValue | string | Value to find. |
+| name | String | Name of custom value. |
+| expectedValue | String | Value to find. |
 
 ### Return Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<[Artifact](../../../aspose.pdf/artifact/)>
 
 List of found artifacts.
 

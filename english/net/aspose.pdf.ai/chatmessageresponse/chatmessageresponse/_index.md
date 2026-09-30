@@ -35,8 +35,8 @@ public ChatMessageResponse(string role, string content)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| role | string | The role of the author of this message. |
-| content | string | The contents of the message. |
+| role | String | The role of the author of this message. |
+| content | String | The contents of the message. |
 
 ### See Also
 

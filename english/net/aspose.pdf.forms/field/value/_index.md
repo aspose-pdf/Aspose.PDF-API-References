@@ -5,7 +5,7 @@ articleTitle: "Value"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Field property. Gets or sets value of the field."
 type: docs
-weight: 150
+weight: 140
 url: "/net/aspose.pdf.forms/field/value/"
 product_version: "26.9.0"
 ---
@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets value of the field.
 
 ```csharp
-public string Value { get; set; }
+public virtual string Value { get; set; }
 ```
 
 ### See Also

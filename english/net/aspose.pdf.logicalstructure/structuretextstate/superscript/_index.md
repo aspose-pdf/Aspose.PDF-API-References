@@ -16,7 +16,7 @@ Gets or sets superscript of the text.
 Can be null. Use null to inherit `Superscript` property from parent structure element.
 
 ```csharp
-public Nullable<bool> Superscript { get; set; }
+public bool? Superscript { get; set; }
 ```
 
 ### See Also

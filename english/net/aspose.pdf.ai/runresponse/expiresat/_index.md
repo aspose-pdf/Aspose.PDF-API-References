@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the Unix timestamp (in seconds) for when the run will expire.
 
 ```csharp
-public Nullable<long> ExpiresAt { get; set; }
+public long? ExpiresAt { get; set; }
 ```
 
 ### See Also

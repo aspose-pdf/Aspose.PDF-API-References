@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Sets the fragment hyperlink
 
 ```csharp
-public Hyperlink Hyperlink { set; }
+public override Hyperlink Hyperlink { set; }
 ```
 
 ### See Also

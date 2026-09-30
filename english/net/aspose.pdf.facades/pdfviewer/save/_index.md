@@ -5,7 +5,7 @@ articleTitle: "Save"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfViewer method. Saves the result PDF document to file."
 type: docs
-weight: 320
+weight: 290
 url: "/net/aspose.pdf.facades/pdfviewer/save/"
 product_version: "26.9.0"
 ---
@@ -19,7 +19,7 @@ public void Save(string destFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| destFile | string | The path of output PDF document. |
+| destFile | String | The path of output PDF document. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 320
 url: "/net/aspose.pdf.facades/pdfcontenteditor/drawcurve/"
 product_version: "26.9.0"
 ---
-## DrawCurve([LineInfo](../../../aspose.pdf.facades/lineinfo/), int, [Rectangle](../../../aspose.pdf.drawing/rectangle/), string) {#drawcurve}
+## PdfContentEditor.DrawCurve method
 
 Creates curve annotation.
 
@@ -20,12 +20,14 @@ public void DrawCurve(LineInfo lineInfo, int page, Rectangle annotRect, string a
 | Parameter | Type | Description |
 | --- | --- | --- |
 | lineInfo | LineInfo | The instance of LineInfo class. |
-| page | int | The number of original page where the annotation will be created. |
+| page | Int32 | The number of original page where the annotation will be created. |
 | annotRect | Rectangle | The annotation rectangle defining the location of the annotation on the page. |
-| annotContents | string | The contents of the annotation. |
+| annotContents | String | The contents of the annotation. |
 
 ### See Also
 
+* class [LineInfo](../../../aspose.pdf.facades/lineinfo/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

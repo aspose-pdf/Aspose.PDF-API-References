@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/warninginfo/warninginfo/"
 product_version: "26.9.0"
 ---
-## WarningInfo([WarningType](../../../aspose.pdf/warningtype/), string) {#constructor}
+## WarningInfo constructor
 
 Constructs instance for gathering information.
 
@@ -20,10 +20,11 @@ public WarningInfo(WarningType type, string message)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | type | WarningType | the warning type to set |
-| message | string | the warning message to set |
+| message | String | the warning message to set |
 
 ### See Also
 
+* enum [WarningType](../../../aspose.pdf/warningtype/)
 * class [WarningInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

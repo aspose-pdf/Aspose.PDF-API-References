@@ -19,7 +19,7 @@ public void Add(string key, ICosPdfPrimitive value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | Key. |
+| key | String | Key. |
 | value | ICosPdfPrimitive | Value. |
 
 ### Exceptions
@@ -30,6 +30,7 @@ public void Add(string key, ICosPdfPrimitive value)
 
 ### See Also
 
+* interface [ICosPdfPrimitive](../../../aspose.pdf.dataeditor/icospdfprimitive/)
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
@@ -46,7 +47,7 @@ public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair<string, ICosPdfPrimitive> | The pair with a key and a value. |
+| item | KeyValuePair`2 | The pair with a key and a value. |
 
 ### Exceptions
 

@@ -22,7 +22,7 @@ public sealed class DocMDPSignature
 
 | Name | Description |
 | --- | --- |
-| [DocMDPSignature](./docmdpsignature/#constructor)(*[Signature](../../aspose.pdf.lowcode/signature/), [DocMDPAccessPermissions](../../aspose.pdf.forms/docmdpaccesspermissions/)*) | Initializes a new instance of the [`DocMDPSignature`](../../aspose.pdf.forms/docmdpsignature/) class. |
+| [DocMDPSignature](./docmdpsignature/)(Signature, DocMDPAccessPermissions) | Initializes a new instance of the [`DocMDPSignature`](../../aspose.pdf.forms/docmdpsignature/) class. |
 
 ## Properties
 

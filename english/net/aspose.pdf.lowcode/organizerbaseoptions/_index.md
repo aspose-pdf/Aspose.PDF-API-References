@@ -31,8 +31,8 @@ public class OrganizerBaseOptions : IPluginOptions
 
 | Name | Description |
 | --- | --- |
-| [AddInput](./addinput/)(*IDataSource*) | Adds new data source to the PdfOrganizer plugin data collection. |
-| [AddOutput](./addoutput/)(*IDataSource*) | Adds new data source to the PdfOrganizer plugin data collection. |
+| [AddInput](./addinput/)(IDataSource) | Adds new data source to the PdfOrganizer plugin data collection. |
+| [AddOutput](./addoutput/)(IDataSource) | Adds new data source to the PdfOrganizer plugin data collection. |
 
 ### See Also
 

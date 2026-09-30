@@ -22,8 +22,8 @@ public class PaperSize
 
 | Name | Description |
 | --- | --- |
-| [PaperSize](./papersize/#constructor) | Initializes a new instance of the [`PaperSize`](../../aspose.pdf.printing/papersize/) class with default properties. |
-| [PaperSize](./papersize/#constructor_1)(*string, int, int*) | Initializes a new instance of the [`PaperSize`](../../aspose.pdf.printing/papersize/) class. |
+| [PaperSize](./papersize/#constructor)() | Initializes a new instance of the [`PaperSize`](../../aspose.pdf.printing/papersize/) class with default properties. |
+| [PaperSize](./papersize/#constructor_1)(string, int, int) | Initializes a new instance of the [`PaperSize`](../../aspose.pdf.printing/papersize/) class. |
 
 ## Properties
 
@@ -38,7 +38,7 @@ public class PaperSize
 
 | Name | Description |
 | --- | --- |
-| [ToString](./tostring/) | Provides some interesting information about the PaperSize in String form. |
+| override [ToString](./tostring/)() | Provides some interesting information about the PaperSize in String form. |
 
 ### See Also
 

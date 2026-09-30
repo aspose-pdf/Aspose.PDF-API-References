@@ -22,7 +22,7 @@ public class Annotation
 
 | Name | Description |
 | --- | --- |
-| [Annotation](./annotation/#constructor) | The default constructor. |
+| [Annotation](./annotation/)() | The default constructor. |
 
 ## Properties
 
@@ -30,7 +30,7 @@ public class Annotation
 | --- | --- |
 | [AnnotationType](./annotationtype/) { get; set; } | Gets or sets the type of the annotation. |
 | [EndIndex](./endindex/) { get; set; } | Gets or sets the ending index of the text in the message content that needs to be replaced. |
-| [FileCitation](./filecitation/) { get; set; } | Gets or sets file citations are created by the file_search tool and define references to a. |
+| [FileCitation](./filecitation/) { get; set; } | Gets or sets file citations are created by the file_search tool and define references to a specific file that was uploaded and used by the Assistant to generate the response. |
 | [StartIndex](./startindex/) { get; set; } | Gets or sets the starting index of the text in the message content that needs to be replaced. |
 | [Text](./text/) { get; set; } | Gets or sets the text in the message content that needs to be replaced. |
 

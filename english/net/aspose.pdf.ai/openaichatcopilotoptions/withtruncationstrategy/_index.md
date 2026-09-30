@@ -9,7 +9,7 @@ weight: 180
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withtruncationstrategy/"
 product_version: "26.9.0"
 ---
-## WithTruncationStrategy([TruncationStrategy](../../../aspose.pdf.ai/truncationstrategy/)) {#withtruncationstrategy}
+## OpenAIChatCopilotOptions.WithTruncationStrategy method
 
 Sets the truncation strategy for the chat copilot options.
 
@@ -23,14 +23,12 @@ public OpenAIChatCopilotOptions WithTruncationStrategy(TruncationStrategy trunca
 
 ### Return Value
 
-[OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
-
 The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
 
 ### See Also
 
 * class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
-* class [OpenAIChatCopilotOptions](../)
+* class [TruncationStrategy](../../../aspose.pdf.ai/truncationstrategy/)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

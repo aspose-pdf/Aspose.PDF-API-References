@@ -5,7 +5,7 @@ articleTitle: "MarginInfo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.MarginInfo class. This class represents a margin for different objects."
 type: docs
-weight: 1850
+weight: 1810
 url: "/net/aspose.pdf/margininfo/"
 keywords: "MarginInfo, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,8 +22,8 @@ public sealed class MarginInfo : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [MarginInfo](./margininfo/#constructor) | Initializes a new instance of the [`MarginInfo`](../../aspose.pdf/margininfo/) class. |
-| [MarginInfo](./margininfo/#constructor_1)(*double, double, double, double*) | Constructor of Rectangle. |
+| [MarginInfo](./margininfo/#constructor)() | Initializes a new instance of the [`MarginInfo`](../../aspose.pdf/margininfo/) class. |
+| [MarginInfo](./margininfo/#constructor_1)(double, double, double, double) | Constructor of Rectangle. |
 
 ## Properties
 
@@ -38,7 +38,7 @@ public sealed class MarginInfo : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [Clone](./clone/) | Clones a new [`MarginInfo`](../../aspose.pdf/margininfo/) object. |
+| [Clone](./clone/)() | Clones a new [`MarginInfo`](../../aspose.pdf/margininfo/) object. |
 
 ### See Also
 

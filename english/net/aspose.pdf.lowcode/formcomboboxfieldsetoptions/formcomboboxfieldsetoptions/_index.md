@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/formcomboboxfieldsetoptions/formcomboboxfieldsetoptions/"
 product_version: "26.9.0"
 ---
-## FormComboBoxFieldSetOptions() {#constructor}
+## FormComboBoxFieldSetOptions constructor
 
 The default constructor.
 

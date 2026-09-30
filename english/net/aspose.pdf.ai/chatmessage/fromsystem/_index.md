@@ -9,28 +9,25 @@ weight: 40
 url: "/net/aspose.pdf.ai/chatmessage/fromsystem/"
 product_version: "26.9.0"
 ---
-## FromSystem(string) {#fromsystem}
+## ChatMessage.FromSystem method
 
 Creates a new ChatMessage object representing a system message.
 
 ```csharp
-public ChatMessage FromSystem(string content)
+public static ChatMessage FromSystem(string content)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| content | string | The contents of the message. |
+| content | String | The contents of the message. |
 
 ### Return Value
-
-[ChatMessage](../../../aspose.pdf.ai/chatmessage/)
 
 A new [`ChatMessage`](../../../aspose.pdf.ai/chatmessage/) object with the specified content and the System role.
 
 ### See Also
 
 * class [ChatMessage](../../../aspose.pdf.ai/chatmessage/)
-* class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

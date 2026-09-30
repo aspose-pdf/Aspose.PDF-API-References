@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets font size of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object
 
 ```csharp
-public float FontSize { get; set; }
+public override float FontSize { get; set; }
 ```
 
 ### See Also

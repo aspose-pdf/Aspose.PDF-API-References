@@ -14,14 +14,14 @@ product_version: "26.9.0"
 Represents an OCR copilot for processing scanned PDFs and images via AI models.
 
 ```csharp
-public interface IOcrCopilot
+public interface IOcrCopilot : IAICopilot
 ```
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetTextRecognitionResultAsync](./gettextrecognitionresultasync/)(*Nullable<CancellationToken>*) | Asynchronously retrieves text recognition results for the PDF documents and image files. |
+| [GetTextRecognitionResultAsync](./gettextrecognitionresultasync/)(CancellationToken?) | Asynchronously retrieves text recognition results for the PDF documents and image files. The supported image types: PNG (.png), JPEG (.jpeg and .jpg), WEBP (.webp), non-animated GIF (.gif). |
 
 ### See Also
 

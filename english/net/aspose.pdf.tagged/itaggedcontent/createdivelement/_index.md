@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.tagged/itaggedcontent/createdivelement/"
 product_version: "26.9.0"
 ---
-## CreateDivElement() {#createdivelement}
+## ITaggedContent.CreateDivElement method
 
 Creates [`DivElement`](../../../aspose.pdf.logicalstructure/divelement/).
 
@@ -18,8 +18,6 @@ public DivElement CreateDivElement()
 ```
 
 ### Return Value
-
-[DivElement](../../../aspose.pdf.logicalstructure/divelement/)
 
 Created structure element.
 

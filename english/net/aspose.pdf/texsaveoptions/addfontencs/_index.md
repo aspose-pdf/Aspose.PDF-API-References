@@ -9,17 +9,17 @@ weight: 20
 url: "/net/aspose.pdf/texsaveoptions/addfontencs/"
 product_version: "26.9.0"
 ---
-## AddFontEncs(string[]) {#addfontencs}
+## TeXSaveOptions.AddFontEncs method
 
 Adds a font ancoding to the font encoding list
 
 ```csharp
-public void AddFontEncs(string[] fontEncs)
+public void AddFontEncs(params string[] fontEncs)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontEncs | string[] | The font encs. |
+| fontEncs | String[] | The font encs. |
 
 ### See Also
 

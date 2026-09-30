@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/bt/bt/"
 product_version: "26.9.0"
 ---
-## BT() {#constructor}
+## BT constructor
 
 Initializes operator.
 

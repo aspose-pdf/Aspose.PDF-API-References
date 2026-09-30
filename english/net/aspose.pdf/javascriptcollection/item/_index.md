@@ -9,13 +9,21 @@ weight: 30
 url: "/net/aspose.pdf/javascriptcollection/item/"
 product_version: "26.9.0"
 ---
-## JavaScriptCollection.Item property
+## JavaScriptCollection indexer
 
 Gets or sets JavaScript from collection by its key.
 
 ```csharp
-public string Item { get; set; }
+public string this[string key] { get; set; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| key | Key value. |
+
+### Return Value
+
+Javascript collection.
 
 ### See Also
 

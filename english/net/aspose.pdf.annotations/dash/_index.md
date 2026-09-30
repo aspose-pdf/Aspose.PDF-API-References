@@ -22,8 +22,8 @@ public sealed class Dash
 
 | Name | Description |
 | --- | --- |
-| [Dash](./dash/#constructor)(*int[]*) | Constructor for Dash. Defines a pattern of dashes and gaps that shall be used in drawing a dashed border. |
-| [Dash](./dash/#constructor_1)(*int, int*) | Constructor for Dash. Defines dashed border with specified dash and gap, which are unchanged for the entire dashed border. |
+| [Dash](./dash/#constructor)(int[]) | Constructor for Dash. Defines a pattern of dashes and gaps that shall be used in drawing a dashed border. |
+| [Dash](./dash/#constructor_1)(int, int) | Constructor for Dash. Defines dashed border with specified dash and gap, which are unchanged for the entire dashed border. |
 
 ## Properties
 

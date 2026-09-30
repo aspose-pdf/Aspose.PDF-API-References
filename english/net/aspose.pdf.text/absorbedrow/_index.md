@@ -15,21 +15,21 @@ product_version: "26.9.0"
 Represents row of table that exist on the page
 
 ```csharp
-public class AbsorbedRow : ITableElement
+public class AbsorbedRow : IComparable<AbsorbedRow>, ITableElement
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CellList](./celllist/) { get; } | Gets readonly IList containing cells of the row. |
-| [Rectangle](./rectangle/) { get; } | Gets rectangle that describes position of the row on page. |
+| [CellList](./celllist/) { get; } | Gets readonly IList containing cells of the row |
+| [Rectangle](./rectangle/) { get; } | Gets rectangle that describes position of the row on page |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CompareTo](./compareto/)(*AbsorbedRow*) | Compares the current AbsorbedRow object with another AbsorbedRow object and returns an integer that indicates whether the current object precedes, follows, or occurs in the same position in the sort order as the other object. |
+| [CompareTo](./compareto/)(AbsorbedRow) | Compares the current AbsorbedRow object with another AbsorbedRow object and returns an integer that indicates whether the current object precedes, follows, or occurs in the same position in the sort order as the other object. |
 
 ### See Also
 

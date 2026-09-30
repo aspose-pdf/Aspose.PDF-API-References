@@ -19,7 +19,7 @@ public void SaveAsTIFF(string outputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file to save the TIFF image. |
+| outputFile | String | The file to save the TIFF image. |
 
 ## Examples
 
@@ -55,7 +55,7 @@ public void SaveAsTIFF(string outputFile, CompressionType compressionType)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The output file. |
+| outputFile | String | The output file. |
 | compressionType | CompressionType | Type of the compression. |
 
 ## Examples
@@ -75,6 +75,7 @@ public void SaveAsTIFF(string outputFile, CompressionType compressionType)
 
 ### See Also
 
+* enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -91,9 +92,9 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file name to save the TIFF image |
-| imageWidth | int | The image width, the unit is pixel. |
-| imageHeight | int | The image height, the unit is pixel. |
+| outputFile | String | The file name to save the TIFF image |
+| imageWidth | Int32 | The image width, the unit is pixel. |
+| imageHeight | Int32 | The image height, the unit is pixel. |
 
 ### See Also
 
@@ -113,11 +114,12 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file name to save the TIFF image |
+| outputFile | String | The file name to save the TIFF image |
 | pageSize | PageSize | The page size of the image. |
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -134,12 +136,14 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize, TiffSettings settin
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file name to save the TIFF image |
+| outputFile | String | The file name to save the TIFF image |
 | pageSize | PageSize | The page size of the image. |
 | settings | TiffSettings | Settings object that defines TIFF parameters. |
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -151,18 +155,20 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize, TiffSettings settin
 Converts each pages of a pdf document to images with dimensions, and saves images to a single TIFF file.
 
 ```csharp
-public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, CompressionType compressionType)
+public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, 
+    CompressionType compressionType)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file name to save the TIFF image |
-| imageWidth | int | The image width, the unit is pixel. |
-| imageHeight | int | The image height, the unit is pixel. |
+| outputFile | String | The file name to save the TIFF image |
+| imageWidth | Int32 | The image width, the unit is pixel. |
+| imageHeight | Int32 | The image height, the unit is pixel. |
 | compressionType | CompressionType | Type of the compression. |
 
 ### See Also
 
+* enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -179,13 +185,14 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file name to save the TIFF image |
-| imageWidth | int | The image width, the unit is pixel. |
-| imageHeight | int | The image height, the unit is pixel. |
+| outputFile | String | The file name to save the TIFF image |
+| imageWidth | Int32 | The image width, the unit is pixel. |
+| imageHeight | Int32 | The image height, the unit is pixel. |
 | settings | TiffSettings | Settings object that defines TIFF parameters. |
 
 ### See Also
 
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -197,19 +204,22 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 Converts each pages of a pdf document to images with dimensions, and saves images to a single TIFF file.
 
 ```csharp
-public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffSettings settings, IIndexBitmapConverter converter)
+public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffSettings settings, 
+    IIndexBitmapConverter converter)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file name to save the TIFF image |
-| imageWidth | int | The image width, the unit is pixel. |
-| imageHeight | int | The image height, the unit is pixel. |
+| outputFile | String | The file name to save the TIFF image |
+| imageWidth | Int32 | The image width, the unit is pixel. |
+| imageHeight | Int32 | The image height, the unit is pixel. |
 | settings | TiffSettings | Settings object that defines TIFF parameters. |
 | converter | IIndexBitmapConverter | External converter |
 
 ### See Also
 
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -251,6 +261,7 @@ public void SaveAsTIFF(Stream outputStream, CompressionType compressionType)
 
 ### See Also
 
+* enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -272,6 +283,7 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize)
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -294,6 +306,8 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize, TiffSettings sett
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -311,8 +325,8 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | The stream to save the TIFF image. |
-| imageWidth | int | The image width, the unit is pixel. |
-| imageHeight | int | The image height, the unit is pixel. |
+| imageWidth | Int32 | The image width, the unit is pixel. |
+| imageHeight | Int32 | The image height, the unit is pixel. |
 
 ### See Also
 
@@ -327,18 +341,20 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
 Converts each pages of a pdf document to images with dimensions, and saves images to a single TIFF stream.
 
 ```csharp
-public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, CompressionType compressionType)
+public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, 
+    CompressionType compressionType)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | The stream to save the TIFF image. |
-| imageWidth | int | The image width, the unit is pixel. |
-| imageHeight | int | The image height, the unit is pixel. |
+| imageWidth | Int32 | The image width, the unit is pixel. |
+| imageHeight | Int32 | The image height, the unit is pixel. |
 | compressionType | CompressionType | Type of the compression. |
 
 ### See Also
 
+* enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -356,12 +372,13 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | The stream to save the TIFF image. |
-| imageWidth | int | The image width, the unit is pixel. |
-| imageHeight | int | The image height, the unit is pixel. |
+| imageWidth | Int32 | The image width, the unit is pixel. |
+| imageHeight | Int32 | The image height, the unit is pixel. |
 | settings | TiffSettings | Settings object that defines TIFF parameters. |
 
 ### See Also
 
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -373,19 +390,22 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 Converts each pages of a pdf document to images with dimensions, and saves images to a single TIFF stream.
 
 ```csharp
-public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, TiffSettings settings, IIndexBitmapConverter converter)
+public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, TiffSettings settings, 
+    IIndexBitmapConverter converter)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | The stream to save the TIFF image. |
-| imageWidth | int | The image width, the unit is pixel. |
-| imageHeight | int | The image height, the unit is pixel. |
+| imageWidth | Int32 | The image width, the unit is pixel. |
+| imageHeight | Int32 | The image height, the unit is pixel. |
 | settings | TiffSettings | Settings object that defines TIFF parameters. |
 | converter | IIndexBitmapConverter | External converter |
 
 ### See Also
 
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -402,11 +422,12 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file name to save the TIFF image |
+| outputFile | String | The file name to save the TIFF image |
 | settings | TiffSettings | Settings object that defines TIFF parameters. |
 
 ### See Also
 
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -423,12 +444,14 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings, IIndexBitmapCon
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file name to save the TIFF image |
+| outputFile | String | The file name to save the TIFF image |
 | settings | TiffSettings | Settings object that defines TIFF parameters. |
 | converter | IIndexBitmapConverter | External converter |
 
 ### See Also
 
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -450,6 +473,7 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings)
 
 ### See Also
 
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -472,6 +496,8 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings, IIndexBitmapC
 
 ### See Also
 
+* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

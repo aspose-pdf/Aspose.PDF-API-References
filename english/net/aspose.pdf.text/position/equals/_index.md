@@ -9,21 +9,19 @@ weight: 30
 url: "/net/aspose.pdf.text/position/equals/"
 product_version: "26.9.0"
 ---
-## Equals(object) {#equals}
+## Position.Equals method
 
 Determines whether the specified object is equal to the current [`Position`](../../../aspose.pdf.text/position/) object.
 
 ```csharp
-public bool Equals(object obj)
+public override bool Equals(object obj)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | object | Object that is checked for equality. |
+| obj | Object | Object that is checked for equality. |
 
 ### Return Value
-
-bool
 
 True in case objects are equal.
 

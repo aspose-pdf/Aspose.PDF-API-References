@@ -9,7 +9,7 @@ weight: 800
 url: "/net/aspose.pdf/document/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## Document.Dispose method
 
 Closes all resources used by this document.
 

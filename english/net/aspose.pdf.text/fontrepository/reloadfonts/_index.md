@@ -9,12 +9,12 @@ weight: 100
 url: "/net/aspose.pdf.text/fontrepository/reloadfonts/"
 product_version: "26.9.0"
 ---
-## ReloadFonts() {#reloadfonts}
+## FontRepository.ReloadFonts method
 
 Reloads all fonts specified by property `Sources`
 
 ```csharp
-public void ReloadFonts()
+public static void ReloadFonts()
 ```
 
 ### See Also

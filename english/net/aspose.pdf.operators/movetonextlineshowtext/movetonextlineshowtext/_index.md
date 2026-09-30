@@ -35,7 +35,7 @@ public MoveToNextLineShowText(string text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string | The text. |
+| text | String | The text. |
 
 ### See Also
 

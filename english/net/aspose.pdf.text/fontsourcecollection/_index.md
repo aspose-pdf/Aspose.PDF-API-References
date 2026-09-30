@@ -15,7 +15,7 @@ product_version: "26.9.0"
 Represents font sources collection.
 
 ```csharp
-public sealed class FontSourceCollection : IEnumerable
+public sealed class FontSourceCollection : ICollection<FontSource>
 ```
 
 ## Properties
@@ -31,13 +31,13 @@ public sealed class FontSourceCollection : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*FontSource*) | Adds new font source object to the collection. |
-| [Clear](./clear/) | Clears the font source collection. |
-| [Contains](./contains/)(*FontSource*) | Determines whether an element is in the collection. |
-| [CopyTo](./copyto/)(*FontSource[], int*) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array. |
-| [Delete](./delete/)(*FontSource*) | Deletes the font source element. |
-| [GetEnumerator](./getenumerator/) | Returns an enumerator for the entire collection. |
-| [Remove](./remove/)(*FontSource*) | Deletes the font source element. |
+| [Add](./add/)(FontSource) | Adds new font source object to the collection. |
+| [Clear](./clear/)() | Clears the font source collection. |
+| [Contains](./contains/)(FontSource) | Determines whether an element is in the collection. |
+| [CopyTo](./copyto/)(FontSource[], int) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array |
+| [Delete](./delete/)(FontSource) | Deletes the font source element. |
+| [GetEnumerator](./getenumerator/)() | Returns an enumerator for the entire collection. |
+| [Remove](./remove/)(FontSource) | Deletes the font source element. |
 
 ### See Also
 

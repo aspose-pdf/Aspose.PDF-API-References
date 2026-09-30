@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.text/textfragmentstate/isfitrectangle/"
 product_version: "26.9.0"
 ---
-## IsFitRectangle(string, [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#isfitrectangle}
+## TextFragmentState.IsFitRectangle method
 
 Checks if input string could be placed inside defined rectangle.
 
@@ -19,17 +19,16 @@ public bool IsFitRectangle(string str, Rectangle rect)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| str | string | String to check. |
+| str | String | String to check. |
 | rect | Rectangle | Rectangle to check. |
 
 ### Return Value
-
-bool
 
 True if string fit rectangle; otherwise false.
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

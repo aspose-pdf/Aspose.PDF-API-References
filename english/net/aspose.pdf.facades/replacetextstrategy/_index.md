@@ -5,7 +5,7 @@ articleTitle: "ReplaceTextStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.ReplaceTextStrategy class. This class contains parameters which define PdfContentEditor behavior when ReplaceText operation is performed."
 type: docs
-weight: 560
+weight: 550
 url: "/net/aspose.pdf.facades/replacetextstrategy/"
 keywords: "ReplaceTextStrategy, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,15 +22,22 @@ public sealed class ReplaceTextStrategy
 
 | Name | Description |
 | --- | --- |
-| [ReplaceTextStrategy](./replacetextstrategy/#constructor) | The default constructor. |
+| [ReplaceTextStrategy](./replacetextstrategy/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [IsRegularExpressionUsed](./isregularexpressionused/) { get; set; } | If false, string to find is a simple text. If true, string to find is regular expression. |
-| [NoCharacterBehavior](./nocharacterbehavior/) { get; set; } | Action which is performed when no approppriate font found for changed text. |
+| [NoCharacterBehavior](./nocharacterbehavior/) { get; set; } | Action which is performed when no approppriate font found for changed text (Throw exception / Substitute other font / Replace anyway). |
 | [ReplaceScope](./replacescope/) { get; set; } | Scope of the replacement operation (replace first occurence or replace all occurences). |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| enum [NoCharacterAction](../../aspose.pdf.facades/replacetextstrategy.nocharacteraction) | Action to perform if font does not contain required character |
+| enum [Scope](../../aspose.pdf.facades/replacetextstrategy.scope) | Scope where replace text operation is applied REPLACE_FIRST by default |
 
 ### See Also
 

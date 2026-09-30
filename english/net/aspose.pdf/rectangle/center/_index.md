@@ -9,7 +9,7 @@ weight: 150
 url: "/net/aspose.pdf/rectangle/center/"
 product_version: "26.9.0"
 ---
-## Center() {#center}
+## Rectangle.Center method
 
 Returncs coordinates of center of the rectangle.
 
@@ -18,8 +18,6 @@ public Point Center()
 ```
 
 ### Return Value
-
-[Point](../../../aspose.pdf/point/)
 
 Point which is center of the rectangle.
 

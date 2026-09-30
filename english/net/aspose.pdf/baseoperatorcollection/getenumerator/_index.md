@@ -9,17 +9,15 @@ weight: 10
 url: "/net/aspose.pdf/baseoperatorcollection/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## BaseOperatorCollection.GetEnumerator method
 
 Returns enumerator for collection
 
 ```csharp
-public IEnumerator<Operator> GetEnumerator()
+public abstract IEnumerator<Operator> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[Operator](../../../aspose.pdf/operator/)>
 
 Collection enumerator
 

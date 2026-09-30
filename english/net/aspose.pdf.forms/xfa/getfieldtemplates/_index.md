@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.forms/xfa/getfieldtemplates/"
 product_version: "26.9.0"
 ---
-## GetFieldTemplates() {#getfieldtemplates}
+## XFA.GetFieldTemplates method
 
 Returns list of all field templates on XFA form.
 
@@ -18,8 +18,6 @@ public XmlNodeList GetFieldTemplates()
 ```
 
 ### Return Value
-
-XmlNodeList
 
 List of field templates.
 

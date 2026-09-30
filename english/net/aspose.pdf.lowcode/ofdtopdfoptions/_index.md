@@ -22,23 +22,23 @@ public class OfdToPdfOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [OfdToPdfOptions](./ofdtopdfoptions/#constructor) | The default constructor. |
+| [OfdToPdfOptions](./ofdtopdfoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. *(Inherited from PdfConverterOptions)* |
+| [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
 | [OfdLoadOptions](./ofdloadoptions/) { get; set; } | Gets or sets the OFD load options. |
-| [OperationName](./operationname/) { get; } | Gets the name of the operation. |
-| [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. *(Inherited from PdfConverterOptions)* |
+| override [OperationName](./operationname/) { get; } | Gets the name of the operation. |
+| [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.lowcode/pdfconverteroptions/addinput/)(*IDataSource*) | Adds new data source to the PdfConverter plugin data collection. *(Inherited from PdfConverterOptions)* |
-| [AddOutput](../../aspose.pdf.lowcode/pdfconverteroptions/addoutput/)(*IDataSource*) | Adds new data source to the PdfToXLSXConverterOptions plugin data collection. *(Inherited from PdfConverterOptions)* |
+| [AddInput](../../aspose.pdf.lowcode/pdfconverteroptions/addinput/)(IDataSource) | Adds new data source to the PdfConverter plugin data collection. |
+| [AddOutput](../../aspose.pdf.lowcode/pdfconverteroptions/addoutput/)(IDataSource) | Adds new data source to the PdfToXLSXConverterOptions plugin data collection. |
 
 ### See Also
 

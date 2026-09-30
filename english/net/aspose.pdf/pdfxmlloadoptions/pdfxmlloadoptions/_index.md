@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/pdfxmlloadoptions/pdfxmlloadoptions/"
 product_version: "26.9.0"
 ---
-## PdfXmlLoadOptions() {#constructor}
+## PdfXmlLoadOptions constructor
 
 The default constructor.
 

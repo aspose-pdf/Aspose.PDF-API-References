@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Returns name of the operation.
 
 ```csharp
-public string OperationName { get; }
+public override string OperationName { get; }
 ```
 
 ### See Also

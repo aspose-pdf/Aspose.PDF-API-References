@@ -5,7 +5,7 @@ articleTitle: "IsEncrypted"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileInfo property. Checkes whether the PDF document is encrypted."
 type: docs
-weight: 270
+weight: 260
 url: "/net/aspose.pdf.facades/pdffileinfo/isencrypted/"
 product_version: "26.9.0"
 ---

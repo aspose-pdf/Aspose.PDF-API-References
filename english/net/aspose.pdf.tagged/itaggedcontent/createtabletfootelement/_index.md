@@ -9,7 +9,7 @@ weight: 240
 url: "/net/aspose.pdf.tagged/itaggedcontent/createtabletfootelement/"
 product_version: "26.9.0"
 ---
-## CreateTableTFootElement() {#createtabletfootelement}
+## ITaggedContent.CreateTableTFootElement method
 
 Creates [`TableTFootElement`](../../../aspose.pdf.logicalstructure/tabletfootelement/).
 
@@ -18,8 +18,6 @@ public TableTFootElement CreateTableTFootElement()
 ```
 
 ### Return Value
-
-[TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
 
 Created structure element.
 

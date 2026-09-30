@@ -22,8 +22,8 @@ public class PDF3DLightingScheme
 
 | Name | Description |
 | --- | --- |
-| [PDF3DLightingScheme](./pdf3dlightingscheme/#constructor)(*[LightingSchemeType](../../aspose.pdf.annotations/lightingschemetype/)*) | Initializes a new instance of the [`PDF3DLightingScheme`](../../aspose.pdf.annotations/pdf3dlightingscheme/) class. |
-| [PDF3DLightingScheme](./pdf3dlightingscheme/#constructor_1)(*string*) | Initializes a new instance of the [`PDF3DLightingScheme`](../../aspose.pdf.annotations/pdf3dlightingscheme/) class. |
+| [PDF3DLightingScheme](./pdf3dlightingscheme/#constructor)(LightingSchemeType) | Initializes a new instance of the [`PDF3DLightingScheme`](../../aspose.pdf.annotations/pdf3dlightingscheme/) class. |
+| [PDF3DLightingScheme](./pdf3dlightingscheme/#constructor_1)(string) | Initializes a new instance of the [`PDF3DLightingScheme`](../../aspose.pdf.annotations/pdf3dlightingscheme/) class. |
 
 ## Properties
 

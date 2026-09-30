@@ -16,7 +16,7 @@ Gets or sets text search options.
 Allows to define several options that will be used during search text containing in tables.
 
 ```csharp
-public TextSearchOptions TextSearchOptions { get; set; }
+public virtual TextSearchOptions TextSearchOptions { get; set; }
 ```
 
 ### See Also

@@ -35,7 +35,7 @@ public FileSpecification(string file)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| file | string | File path. |
+| file | String | File path. |
 
 ### See Also
 
@@ -56,7 +56,7 @@ public FileSpecification(Stream stream, string name)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Stream containing data file. |
-| name | string | File specification. |
+| name | String | File specification. |
 
 ### See Also
 
@@ -66,28 +66,7 @@ public FileSpecification(Stream stream, string name)
 
 ---
 
-## FileSpecification(string, string) {#constructor_3}
-
-Constructor for FileSpecification.
-
-```csharp
-public FileSpecification(string file, string description)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| file | string | File path. |
-| description | string | File description. |
-
-### See Also
-
-* class [FileSpecification](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## FileSpecification(string, [Annotation](../../../aspose.pdf.annotations/annotation/)) {#constructor_4}
+## FileSpecification(string, [Annotation](../../../aspose.pdf.annotations/annotation/)) {#constructor_3}
 
 Constructor for FileSpecification.
 
@@ -97,8 +76,30 @@ public FileSpecification(string fileName, Annotation annot)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | string | File path. |
+| fileName | String | File path. |
 | annot | Annotation | The annotation. |
+
+### See Also
+
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## FileSpecification(string, string) {#constructor_4}
+
+Constructor for FileSpecification.
+
+```csharp
+public FileSpecification(string file, string description)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| file | String | File path. |
+| description | String | File description. |
 
 ### See Also
 
@@ -119,8 +120,8 @@ public FileSpecification(Stream stream, string name, string description)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Stream to be used in the document. |
-| name | string | A file specification string. |
-| description | string | File description. |
+| name | String | A file specification string. |
+| description | String | File description. |
 
 ### See Also
 

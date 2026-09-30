@@ -19,11 +19,9 @@ public bool Remove(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | The key of entry to remove. |
+| key | String | The key of entry to remove. |
 
 ### Return Value
-
-bool
 
 True - if key removed; otherwise, false.
 
@@ -45,11 +43,9 @@ public bool Remove(KeyValuePair<string, XmpValue> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair<string, XmpValue> | Key/value pair to be removed. |
+| item | KeyValuePair`2 | Key/value pair to be removed. |
 
 ### Return Value
-
-bool
 
 true if pair was found and removed.
 

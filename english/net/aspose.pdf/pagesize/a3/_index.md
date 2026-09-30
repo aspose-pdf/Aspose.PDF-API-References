@@ -14,13 +14,12 @@ product_version: "26.9.0"
 A3 size (420x297 mm).
 
 ```csharp
-public PageSize A3 { get; }
+public static PageSize A3 { get; }
 ```
 
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

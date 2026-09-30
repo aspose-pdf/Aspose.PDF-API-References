@@ -35,7 +35,7 @@ public SetAdvancedColor(double g)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| g | double | Color value. |
+| g | Double | Color value. |
 
 ### See Also
 
@@ -55,7 +55,7 @@ public SetAdvancedColor(string patternName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| patternName | string | Pattern name. |
+| patternName | String | Pattern name. |
 
 ### See Also
 
@@ -75,8 +75,8 @@ public SetAdvancedColor(double g, string patternName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| g | double | Color value. |
-| patternName | string | Pattern name. |
+| g | Double | Color value. |
+| patternName | String | Pattern name. |
 
 ### See Also
 
@@ -96,8 +96,8 @@ public SetAdvancedColor(double[] colors, string patternName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| colors | double[] | Color array. |
-| patternName | string | Pattern name. |
+| colors | Double[] | Color array. |
+| patternName | String | Pattern name. |
 
 ### See Also
 
@@ -117,10 +117,10 @@ public SetAdvancedColor(double r, double g, double b, string patternName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| r | double | Red component of the color. |
-| g | double | Green component of the color. |
-| b | double | Blue component of the color. |
-| patternName | string | Pattern name. |
+| r | Double | Red component of the color. |
+| g | Double | Green component of the color. |
+| b | Double | Blue component of the color. |
+| patternName | String | Pattern name. |
 
 ### See Also
 
@@ -140,11 +140,11 @@ public SetAdvancedColor(double c, double m, double y, double k, string patternNa
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| c | double | Cyan component of the color. |
-| m | double | Magenta component of the color. |
-| y | double | Yellow component of the color. |
-| k | double | Black component of the color. |
-| patternName | string | Pattern name. |
+| c | Double | Cyan component of the color. |
+| m | Double | Magenta component of the color. |
+| y | Double | Yellow component of the color. |
+| k | Double | Black component of the color. |
+| patternName | String | Pattern name. |
 
 ### See Also
 

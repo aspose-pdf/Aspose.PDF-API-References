@@ -9,7 +9,7 @@ weight: 110
 url: "/net/aspose.pdf/page/getresources/"
 product_version: "26.9.0"
 ---
-## GetResources() {#getresources}
+## Page.GetResources method
 
 Retrieves the resources associated with the page.
 
@@ -18,8 +18,6 @@ public Resources GetResources()
 ```
 
 ### Return Value
-
-[Resources](../../../aspose.pdf/resources/)
 
 A `Resources` object representing the resources of the page.
 

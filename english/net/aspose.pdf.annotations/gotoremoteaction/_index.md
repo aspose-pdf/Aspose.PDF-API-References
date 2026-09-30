@@ -22,24 +22,24 @@ public sealed class GoToRemoteAction : GoToAction
 
 | Name | Description |
 | --- | --- |
-| [GoToRemoteAction](./gotoremoteaction/#constructor)(*string, int*) | Initializes GoToRemoteAction object. |
-| [GoToRemoteAction](./gotoremoteaction/#constructor_1)(*string, [ExplicitDestination](../../aspose.pdf.annotations/explicitdestination/)*) | Initializes GoToRemoteAction object. |
+| [GoToRemoteAction](./gotoremoteaction/#constructor)(string, ExplicitDestination) | Initializes GoToRemoteAction object. |
+| [GoToRemoteAction](./gotoremoteaction/#constructor_1)(string, int) | Initializes GoToRemoteAction object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Destination](./destination/) { get; set; } | Gets or sets the destination to jump to. |
+| override [Destination](./destination/) { get; set; } | Gets or sets the destination to jump to. |
 | [File](./file/) { get; set; } | Gets or sets the specification of the file in which the destination is located. |
 | [NewWindow](./newwindow/) { get; set; } | Gets or sets a flag specifying whether to open the destination document in a new window. |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. *(Inherited from PdfAction)* |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/) | Gets string for ECMAScript Action. *(Inherited from PdfAction)* |
-| [ToString](../../aspose.pdf.annotations/iappointment/tostring/) | Returns string representation. *(Inherited from IAppointment)* |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Returns string representation |
 
 ### See Also
 

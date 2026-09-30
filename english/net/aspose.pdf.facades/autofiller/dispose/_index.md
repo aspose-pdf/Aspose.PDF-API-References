@@ -5,11 +5,11 @@ articleTitle: "Dispose"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "AutoFiller method. Closes the object and output streams."
 type: docs
-weight: 100
+weight: 90
 url: "/net/aspose.pdf.facades/autofiller/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## AutoFiller.Dispose method
 
 Closes the object and output streams.
 

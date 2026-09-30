@@ -22,14 +22,14 @@ public sealed class Center : HeaderFooterData
 
 | Name | Description |
 | --- | --- |
-| [Center](./center/#constructor) | The default constructor. |
+| [Center](./center/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Gets or sets the date settings. *(Inherited from HeaderFooterData)* |
-| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Gets or sets the page number settings. *(Inherited from HeaderFooterData)* |
+| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Gets or sets the date settings. |
+| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Gets or sets the page number settings. |
 
 ### See Also
 

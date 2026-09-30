@@ -9,17 +9,17 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/headerelement/settext/"
 product_version: "26.9.0"
 ---
-## SetText(string) {#settext}
+## HeaderElement.SetText method
 
 
 
 ```csharp
-public void SetText(string text)
+public override void SetText(string text)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string |  |
+| text | String |  |
 
 ### See Also
 

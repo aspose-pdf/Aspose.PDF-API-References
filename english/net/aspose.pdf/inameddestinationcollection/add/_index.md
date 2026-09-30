@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/inameddestinationcollection/add/"
 product_version: "26.9.0"
 ---
-## Add(string, [IAppointment](../../../aspose.pdf.annotations/iappointment/)) {#add}
+## INamedDestinationCollection.Add method
 
 Adds new named destination.
 
@@ -19,11 +19,12 @@ public void Add(string name, IAppointment appointment)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Name value. |
+| name | String | Name value. |
 | appointment | IAppointment | Appointment object. |
 
 ### See Also
 
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
 * interface [INamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

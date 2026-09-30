@@ -9,7 +9,7 @@ weight: 170
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withassistantname/"
 product_version: "26.9.0"
 ---
-## WithAssistantName(string) {#withassistantname}
+## OpenAIChatCopilotOptions.WithAssistantName method
 
 Sets the assistant name for the chat copilot options.
 
@@ -19,18 +19,15 @@ public OpenAIChatCopilotOptions WithAssistantName(string assistantName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| assistantName | string | The assistant name to set. |
+| assistantName | String | The assistant name to set. |
 
 ### Return Value
-
-[OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
 
 The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
 
 ### See Also
 
 * class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
-* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

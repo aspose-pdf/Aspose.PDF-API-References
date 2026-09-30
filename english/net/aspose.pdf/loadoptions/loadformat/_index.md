@@ -19,7 +19,7 @@ public LoadFormat LoadFormat { get; }
 
 ### See Also
 
-* class [LoadFormat](../../../aspose.pdf/loadformat/)
+* enum [LoadFormat](../../../aspose.pdf/loadformat/)
 * class [LoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

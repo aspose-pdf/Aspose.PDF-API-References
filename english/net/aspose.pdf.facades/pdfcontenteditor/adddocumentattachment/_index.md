@@ -19,8 +19,8 @@ public void AddDocumentAttachment(string fileAttachmentPath, string description)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileAttachmentPath | string | The path of the file will be attached. |
-| description | string | The description information. |
+| fileAttachmentPath | String | The path of the file will be attached. |
+| description | String | The description information. |
 
 ### See Also
 
@@ -35,14 +35,15 @@ public void AddDocumentAttachment(string fileAttachmentPath, string description)
 Adds document attachment with no annotation.
 
 ```csharp
-public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttachmentName, string description)
+public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttachmentName, 
+    string description)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fileAttachmentStream | Stream | The stream of the file will be attached. |
-| fileAttachmentName | string | The attachment name. |
-| description | string | The description information. |
+| fileAttachmentName | String | The attachment name. |
+| description | String | The description information. |
 
 ### See Also
 

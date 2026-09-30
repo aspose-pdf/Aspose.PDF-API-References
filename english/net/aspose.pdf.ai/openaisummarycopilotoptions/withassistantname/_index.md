@@ -9,7 +9,7 @@ weight: 180
 url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/withassistantname/"
 product_version: "26.9.0"
 ---
-## WithAssistantName(string) {#withassistantname}
+## OpenAISummaryCopilotOptions.WithAssistantName method
 
 Sets the assistant name for the summary copilot options.
 
@@ -19,18 +19,15 @@ public OpenAISummaryCopilotOptions WithAssistantName(string assistantName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| assistantName | string | The assistant name to set. |
+| assistantName | String | The assistant name to set. |
 
 ### Return Value
-
-[OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
 
 The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
 
 ### See Also
 
 * class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
-* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

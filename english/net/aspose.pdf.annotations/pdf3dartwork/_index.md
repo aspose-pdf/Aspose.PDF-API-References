@@ -22,8 +22,8 @@ public class PDF3DArtwork
 
 | Name | Description |
 | --- | --- |
-| [PDF3DArtwork](./pdf3dartwork/#constructor)(*[Document](../../aspose.pdf/document/), [PDF3DContent](../../aspose.pdf.annotations/pdf3dcontent/)*) | Initializes a new instance of the [`PDF3DArtwork`](../../aspose.pdf.annotations/pdf3dartwork/) class. |
-| [PDF3DArtwork](./pdf3dartwork/#constructor_1)(*[Document](../../aspose.pdf/document/), [PDF3DContent](../../aspose.pdf.annotations/pdf3dcontent/), [PDF3DLightingScheme](../../aspose.pdf.annotations/pdf3dlightingscheme/), [PDF3DRenderMode](../../aspose.pdf.annotations/pdf3drendermode/)*) | Initializes a new instance of the [`PDF3DArtwork`](../../aspose.pdf.annotations/pdf3dartwork/) class. |
+| [PDF3DArtwork](./pdf3dartwork/#constructor)(Document, PDF3DContent) | Initializes a new instance of the [`PDF3DArtwork`](../../aspose.pdf.annotations/pdf3dartwork/) class. |
+| [PDF3DArtwork](./pdf3dartwork/#constructor_1)(Document, PDF3DContent, PDF3DLightingScheme, PDF3DRenderMode) | Initializes a new instance of the [`PDF3DArtwork`](../../aspose.pdf.annotations/pdf3dartwork/) class. |
 
 ## Properties
 
@@ -37,8 +37,8 @@ public class PDF3DArtwork
 
 | Name | Description |
 | --- | --- |
-| [GetViewsArray](./getviewsarray/) | Gets the views array. |
-| [GetViewsList](./getviewslist/) | Get the views as list. |
+| [GetViewsArray](./getviewsarray/)() | Gets the views array. |
+| [GetViewsList](./getviewslist/)() | Get the views as list. |
 
 ### See Also
 

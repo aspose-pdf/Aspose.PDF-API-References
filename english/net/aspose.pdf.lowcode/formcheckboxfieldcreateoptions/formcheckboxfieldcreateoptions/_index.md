@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/formcheckboxfieldcreateoptions/formcheckboxfieldcreateoptions/"
 product_version: "26.9.0"
 ---
-## FormCheckBoxFieldCreateOptions(int, [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
+## FormCheckBoxFieldCreateOptions constructor
 
 Initializes a new instance of the [`FormCheckBoxFieldCreateOptions`](../../../aspose.pdf.lowcode/formcheckboxfieldcreateoptions/) object, that containing parameters for created and added CheckBoxField.
 
@@ -19,11 +19,12 @@ public FormCheckBoxFieldCreateOptions(int pageNum, Rectangle rect)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNum | int | Page number on which the added CheckBoxField will be located. |
+| pageNum | Int32 | Page number on which the added CheckBoxField will be located. |
 | rect | Rectangle | Sets CheckBoxField rectangle. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [FormCheckBoxFieldCreateOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

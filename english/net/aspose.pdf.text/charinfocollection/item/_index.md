@@ -9,13 +9,21 @@ weight: 110
 url: "/net/aspose.pdf.text/charinfocollection/item/"
 product_version: "26.9.0"
 ---
-## CharInfoCollection.Item property
+## CharInfoCollection indexer
 
 Gets the CharInfo element at the specified index.
 
 ```csharp
-public CharInfo Item { get; }
+public CharInfo this[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Index within the collection. |
+
+### Return Value
+
+CharInfo object.
 
 ### See Also
 

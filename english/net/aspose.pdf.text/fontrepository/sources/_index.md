@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets font sources collection.
 
 ```csharp
-public FontSourceCollection Sources { get; }
+public static FontSourceCollection Sources { get; }
 ```
 
 ### See Also

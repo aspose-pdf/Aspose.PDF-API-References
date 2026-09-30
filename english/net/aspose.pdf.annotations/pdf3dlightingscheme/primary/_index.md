@@ -20,7 +20,6 @@ public static PDF3DLightingScheme Primary;
 ### See Also
 
 * class [PDF3DLightingScheme](../../../aspose.pdf.annotations/pdf3dlightingscheme/)
-* class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

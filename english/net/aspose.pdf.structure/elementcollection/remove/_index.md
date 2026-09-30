@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.structure/elementcollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove([Element](../../../aspose.pdf.structure/element/)) {#remove}
+## ElementCollection.Remove method
 
 Remove item from collection.
 
@@ -23,12 +23,11 @@ public bool Remove(Element item)
 
 ### Return Value
 
-bool
-
 True if element was removed.
 
 ### See Also
 
+* class [Element](../../../aspose.pdf.structure/element/)
 * class [ElementCollection](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)

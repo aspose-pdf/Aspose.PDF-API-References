@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.security/icustomsecurityhandler/getownerkey/"
 product_version: "26.9.0"
 ---
-## GetOwnerKey(string, string) {#getownerkey}
+## ICustomSecurityHandler.GetOwnerKey method
 
 Creates an encoded array based on passwords that will be written to the O field of the encryption dictionary.
  Should only rely on the arguments passed. The user password can be calculated from this field using the owner password.
@@ -24,12 +24,10 @@ public byte[] GetOwnerKey(string userPassword, string ownerPassword)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| userPassword | string | The user password. |
-| ownerPassword | string | The owner password. |
+| userPassword | String | The user password. |
+| ownerPassword | String | The owner password. |
 
 ### Return Value
-
-byte[]
 
 The array of owner key.
 

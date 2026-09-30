@@ -19,8 +19,6 @@ public HeaderElement CreateHeaderElement()
 
 ### Return Value
 
-[HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
-
 Created structure element.
 
 ### See Also
@@ -42,11 +40,9 @@ public HeaderElement CreateHeaderElement(int level)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| level | int | The level of Header. Must be 1, 2, 3, 4, 5 or 6. |
+| level | Int32 | The level of Header. Must be 1, 2, 3, 4, 5 or 6. |
 
 ### Return Value
-
-[HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
 
 Created structure element.
 

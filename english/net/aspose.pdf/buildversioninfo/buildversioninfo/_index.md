@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/buildversioninfo/buildversioninfo/"
 product_version: "26.9.0"
 ---
-## BuildVersionInfo() {#constructor}
+## BuildVersionInfo constructor
 
 The default constructor.
 

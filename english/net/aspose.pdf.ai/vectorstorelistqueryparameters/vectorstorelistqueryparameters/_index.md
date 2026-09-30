@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/vectorstorelistqueryparameters/vectorstorelistqueryparameters/"
 product_version: "26.9.0"
 ---
-## VectorStoreListQueryParameters() {#constructor}
+## VectorStoreListQueryParameters constructor
 
 The default constructor.
 

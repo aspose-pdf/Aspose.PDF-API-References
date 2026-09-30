@@ -9,12 +9,12 @@ weight: 70
 url: "/net/aspose.pdf/baseoperatorcollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove([Operator](../../../aspose.pdf/operator/)) {#remove}
+## BaseOperatorCollection.Remove method
 
 Removes operator from collection.
 
 ```csharp
-public bool Remove(Operator item)
+public abstract bool Remove(Operator item)
 ```
 
 | Parameter | Type | Description |
@@ -23,12 +23,11 @@ public bool Remove(Operator item)
 
 ### Return Value
 
-bool
-
 True - if item removed; otherwise, false.
 
 ### See Also
 
+* class [Operator](../../../aspose.pdf/operator/)
 * class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

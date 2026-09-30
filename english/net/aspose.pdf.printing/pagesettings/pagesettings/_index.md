@@ -45,6 +45,7 @@ public PageSettings(PrinterSettings printerSettings)
 
 ### See Also
 
+* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

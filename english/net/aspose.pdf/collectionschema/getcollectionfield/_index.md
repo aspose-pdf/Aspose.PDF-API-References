@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/collectionschema/getcollectionfield/"
 product_version: "26.9.0"
 ---
-## GetCollectionField(string) {#getcollectionfield}
+## CollectionSchema.GetCollectionField method
 
 Gets a collection field by name.
 
@@ -19,7 +19,7 @@ public CollectionField GetCollectionField(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | The field name |
+| name | String | The field name |
 
 ### Return Value
 

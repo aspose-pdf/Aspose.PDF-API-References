@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the number of most recent messages from the thread when constructing the context for the run.
 
 ```csharp
-public Nullable<int> LastMessages { get; set; }
+public int? LastMessages { get; set; }
 ```
 
 ### See Also

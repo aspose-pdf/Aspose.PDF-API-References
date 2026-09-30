@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/datecomponent/getformat/"
 product_version: "26.9.0"
 ---
-## GetFormat(char) {#getformat}
+## DateComponent.GetFormat method
 
 Returns a string composed of a specified character repeated based on the format.
 
@@ -19,11 +19,9 @@ public string GetFormat(char ch)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ch | char | The character to repeat. |
+| ch | Char | The character to repeat. |
 
 ### Return Value
-
-string
 
 A string consisting of the character repeated.
 

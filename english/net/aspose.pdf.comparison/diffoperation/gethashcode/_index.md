@@ -9,12 +9,12 @@ weight: 40
 url: "/net/aspose.pdf.comparison/diffoperation/gethashcode/"
 product_version: "26.9.0"
 ---
-## GetHashCode() {#gethashcode}
+## DiffOperation.GetHashCode method
 
 
 
 ```csharp
-public int GetHashCode()
+public override int GetHashCode()
 ```
 
 ### Return Value

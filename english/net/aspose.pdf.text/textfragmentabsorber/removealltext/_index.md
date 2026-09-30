@@ -23,6 +23,7 @@ public void RemoveAllText(Page page)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -44,6 +45,8 @@ public void RemoveAllText(Page page, Rectangle rect)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -64,6 +67,7 @@ public void RemoveAllText(Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

@@ -22,8 +22,8 @@ public sealed class CosPdfString : CosPdfPrimitive
 
 | Name | Description |
 | --- | --- |
-| [CosPdfString](./cospdfstring/#constructor)(*string*) | Initializes a new instance of the [`CosPdfString`](../../aspose.pdf.dataeditor/cospdfstring/) class. |
-| [CosPdfString](./cospdfstring/#constructor_1)(*string, bool*) | Initializes a new instance of the [`CosPdfString`](../../aspose.pdf.dataeditor/cospdfstring/) class. |
+| [CosPdfString](./cospdfstring/#constructor)(string) | Initializes a new instance of the [`CosPdfString`](../../aspose.pdf.dataeditor/cospdfstring/) class. |
+| [CosPdfString](./cospdfstring/#constructor_1)(string, bool) | Initializes a new instance of the [`CosPdfString`](../../aspose.pdf.dataeditor/cospdfstring/) class. |
 
 ## Properties
 
@@ -36,14 +36,14 @@ public sealed class CosPdfString : CosPdfPrimitive
 
 | Name | Description |
 | --- | --- |
-| [Equals](./equals/)(*object*) | Determines that the specified object is equal to the current object. |
-| [GetHashCode](./gethashcode/) | Get hashcode for current object. |
-| [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/) | Tries cast this instance to [`CosPdfBoolean`](../../aspose.pdf.dataeditor/cospdfboolean/). *(Inherited from CosPdfPrimitive)* |
-| [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/) | Tries cast this instance to [`CosPdfDictionary`](../../aspose.pdf.dataeditor/cospdfdictionary/). *(Inherited from CosPdfPrimitive)* |
-| [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/) | Tries cast this instance to [`CosPdfName`](../../aspose.pdf.dataeditor/cospdfname/). *(Inherited from CosPdfPrimitive)* |
-| [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/) | Tries cast this instance to [`CosPdfNumber`](../../aspose.pdf.dataeditor/cospdfnumber/). *(Inherited from CosPdfPrimitive)* |
-| [ToCosPdfString](./tocospdfstring/) | Tries cast this instance to [`CosPdfString`](../../aspose.pdf.dataeditor/cospdfstring/). |
-| [ToString](./tostring/) | Returns a `String` that represents the current [`CosPdfString`](../../aspose.pdf.dataeditor/cospdfstring/). |
+| override [Equals](./equals/)(object) | Determines that the specified object is equal to the current object. |
+| override [GetHashCode](./gethashcode/)() | Get hashcode for current object. |
+| virtual [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/)() | Tries cast this instance to [`CosPdfBoolean`](../../aspose.pdf.dataeditor/cospdfboolean/). |
+| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | Tries cast this instance to [`CosPdfDictionary`](../../aspose.pdf.dataeditor/cospdfdictionary/). |
+| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | Tries cast this instance to [`CosPdfName`](../../aspose.pdf.dataeditor/cospdfname/). |
+| virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | Tries cast this instance to [`CosPdfNumber`](../../aspose.pdf.dataeditor/cospdfnumber/). |
+| override [ToCosPdfString](./tocospdfstring/)() | Tries cast this instance to [`CosPdfString`](../../aspose.pdf.dataeditor/cospdfstring/). |
+| override [ToString](./tostring/)() | Returns a `String` that represents the current [`CosPdfString`](../../aspose.pdf.dataeditor/cospdfstring/). |
 
 ### See Also
 

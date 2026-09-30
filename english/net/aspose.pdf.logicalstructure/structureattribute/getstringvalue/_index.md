@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.logicalstructure/structureattribute/getstringvalue/"
 product_version: "26.9.0"
 ---
-## GetStringValue() {#getstringvalue}
+## StructureAttribute.GetStringValue method
 
 Gets Value String.
 
@@ -18,8 +18,6 @@ public string GetStringValue()
 ```
 
 ### Return Value
-
-string
 
 Value String.
 

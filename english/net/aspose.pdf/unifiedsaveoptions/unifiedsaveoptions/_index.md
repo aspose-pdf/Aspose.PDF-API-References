@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/unifiedsaveoptions/unifiedsaveoptions/"
 product_version: "26.9.0"
 ---
-## UnifiedSaveOptions() {#constructor}
+## UnifiedSaveOptions constructor
 
 The default constructor.
 

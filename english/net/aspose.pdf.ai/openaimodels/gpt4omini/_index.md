@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets the identifier for the GPT-4o-mini model.
 
 ```csharp
-public string Gpt4OMini { get; }
+public static string Gpt4OMini { get; }
 ```
 
 ### See Also

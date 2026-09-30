@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf/pagecollection/indexof/"
 product_version: "26.9.0"
 ---
-## IndexOf([Page](../../../aspose.pdf/page/)) {#indexof}
+## PageCollection.IndexOf method
 
 Returns index of the specified page.
 
@@ -26,12 +26,11 @@ public int IndexOf(Page entity)
 
 ### Return Value
 
-int
-
 Index of the page in collection.
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

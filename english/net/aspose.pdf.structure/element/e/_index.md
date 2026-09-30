@@ -14,7 +14,7 @@ product_version: "26.9.0"
 (Optional; PDF 1.5) The expanded form of an abbreviation.
 
 ```csharp
-public string E { get; set; }
+public virtual string E { get; set; }
 ```
 
 ### See Also

@@ -22,7 +22,7 @@ public class OutputTextStyle
 
 | Name | Description |
 | --- | --- |
-| [OutputTextStyle](./outputtextstyle/#constructor) | The default constructor. |
+| [OutputTextStyle](./outputtextstyle/)() | The default constructor. |
 
 ## Properties
 
@@ -31,7 +31,7 @@ public class OutputTextStyle
 | [DeletedStyle](./deletedstyle/) { get; set; } | Get and set a text style for deleted text. |
 | [EqualStyle](./equalstyle/) { get; set; } | Get and set a text style for non changed text. |
 | [InsertedStyle](./insertedstyle/) { get; set; } | Get and set a text style for inserted text. |
-| [StrikethroughDeleted](./strikethroughdeleted/) { get; set; } | Get or set text-decoration: line-through style for the delete operation. |
+| [StrikethroughDeleted](./strikethroughdeleted/) { get; set; } | Get or set text-decoration: line-through style for the delete operation. Default value is `False`. |
 
 ### See Also
 

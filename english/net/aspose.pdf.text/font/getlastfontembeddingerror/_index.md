@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.text/font/getlastfontembeddingerror/"
 product_version: "26.9.0"
 ---
-## GetLastFontEmbeddingError() {#getlastfontembeddingerror}
+## Font.GetLastFontEmbeddingError method
 
 An objective of this method - to return description of error if an attempt
  to embed font was failed. If there are no error cases it returns empty string.
@@ -19,8 +19,6 @@ public string GetLastFontEmbeddingError()
 ```
 
 ### Return Value
-
-string
 
 Error description
 

@@ -50,14 +50,14 @@ Provides image processing functionality for OpenAICopilot class.
  await copilot.AddPdfImageDescriptionsAsync("DocumentsOutputDirectory");
 
 ```csharp
-public class OpenAIImageDescriptionCopilot : IImageDescriptionCopilot, IAICopilot
+public class OpenAIImageDescriptionCopilot : IImageDescriptionCopilot
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [OpenAIImageDescriptionCopilot](./openaiimagedescriptioncopilot/#constructor)(*[IOpenAIClient](../../aspose.pdf.ai/iopenaiclient/), IImageDescriptionCopilotOptions<OpenAIImageDescriptionCopilotOptions>*) | Initializes a new instance of the [`OpenAIImageDescriptionCopilot`](../../aspose.pdf.ai/openaiimagedescriptioncopilot/) class. |
+| [OpenAIImageDescriptionCopilot](./openaiimagedescriptioncopilot/)(IOpenAIClient, IImageDescriptionCopilotOptions<OpenAIImageDescriptionCopilotOptions>) | Initializes a new instance of the [`OpenAIImageDescriptionCopilot`](../../aspose.pdf.ai/openaiimagedescriptioncopilot/) class. |
 
 ## Properties
 
@@ -69,7 +69,7 @@ public class OpenAIImageDescriptionCopilot : IImageDescriptionCopilot, IAICopilo
 
 | Name | Description |
 | --- | --- |
-| [GetImageDescriptionsAsync](./getimagedescriptionsasync/)(*Nullable<CancellationToken>*) |  |
+| [GetImageDescriptionsAsync](./getimagedescriptionsasync/)(CancellationToken?) |  |
 
 ### See Also
 

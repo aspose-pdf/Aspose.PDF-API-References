@@ -5,7 +5,7 @@ articleTitle: "PdfANonSpecificationFlags"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.PdfANonSpecificationFlags class. This class holds flags to control PDF/A conversion for cases when source PDF document doesn't correspond to PDF s..."
 type: docs
-weight: 2390
+weight: 2350
 url: "/net/aspose.pdf/pdfanonspecificationflags/"
 keywords: "PdfANonSpecificationFlags, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -25,13 +25,13 @@ public class PdfANonSpecificationFlags
 
 | Name | Description |
 | --- | --- |
-| [PdfANonSpecificationFlags](./pdfanonspecificationflags/#constructor) | The default constructor. |
+| [PdfANonSpecificationFlags](./pdfanonspecificationflags/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CheckDifferentNamesInFontDictionaries](./checkdifferentnamesinfontdictionaries/) { get; set; } | Some PDF documents contain fonts which have different names in internal data. |
+| [CheckDifferentNamesInFontDictionaries](./checkdifferentnamesinfontdictionaries/) { get; set; } | Some PDF documents contain fonts which have different names in internal data. Use of this flag enforces special processing logic for cases when fields BaseFont and FontDescriptor.FontName are different. |
 
 ### See Also
 

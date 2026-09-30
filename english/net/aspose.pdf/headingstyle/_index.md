@@ -5,7 +5,7 @@ articleTitle: "HeadingStyle"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.HeadingStyle enum. Defines the available serialization styles for headings. For specification see CommonMark - ATX headings, respectively CommonMa..."
 type: docs
-weight: 1120
+weight: 1110
 url: "/net/aspose.pdf/headingstyle/"
 product_version: "26.9.0"
 ---

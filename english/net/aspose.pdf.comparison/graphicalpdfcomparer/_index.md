@@ -24,26 +24,26 @@ public class GraphicalPdfComparer
 
 | Name | Description |
 | --- | --- |
-| [GraphicalPdfComparer](./graphicalpdfcomparer/#constructor) | The default constructor. |
+| [GraphicalPdfComparer](./graphicalpdfcomparer/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Color](./color/) { get; set; } | Gets and sets the change flag color. |
-| [Resolution](./resolution/) { get; set; } | Gets and sets the resolution of the resulting images. |
-| [Threshold](./threshold/) { get; set; } | Gets and sets the threshold value in percentage. |
+| [Color](./color/) { get; set; } | Gets and sets the change flag color. The default color is red. |
+| [Resolution](./resolution/) { get; set; } | Gets and sets the resolution of the resulting images. The default value is 150dpi. |
+| [Threshold](./threshold/) { get; set; } | Gets and sets the threshold value in percentage. This value allows you to ignore small changes if they are not significant to you. The default value is 0%. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CompareDocumentsToImages](./comparedocumentstoimages/)(*Document, Document, string, string, ImageFormat*) | Compares documents graphically. The comparison result is placed in images. |
-| [CompareDocumentsToPdf](./comparedocumentstopdf/)(*Document, Document, string*) | Compares documents graphically. The comparison result is placed in a PDF document. |
-| [ComparePagesToImage](./comparepagestoimage/)(*Page, Page, string*) | Compares pages graphically. The comparison result is placed in a image. |
-| [ComparePagesToPdf](./comparepagestopdf/)(*Page, Page, string*) | Compares pages graphically. The comparison result is placed in a PDF document. |
-| [ComparePagesToPdf](./comparepagestopdf/)(*Page, Page, Document*) | Compares pages graphically. The comparison result is placed in a PDF document. |
-| [GetDifference](./getdifference/)(*Page, Page*) | Gets differences between pages images. |
+| [CompareDocumentsToImages](./comparedocumentstoimages/)(Document, Document, string, string, ImageFormat) | Compares documents graphically. The comparison result is placed in images. |
+| [CompareDocumentsToPdf](./comparedocumentstopdf/)(Document, Document, string) | Compares documents graphically. The comparison result is placed in a PDF document. |
+| [ComparePagesToImage](./comparepagestoimage/)(Page, Page, string) | Compares pages graphically. The comparison result is placed in a image. |
+| [ComparePagesToPdf](./comparepagestopdf/)(Page, Page, Document) | Compares pages graphically. The comparison result is placed in a PDF document. |
+| [ComparePagesToPdf](./comparepagestopdf/)(Page, Page, string) | Compares pages graphically. The comparison result is placed in a PDF document. |
+| [GetDifference](./getdifference/)(Page, Page) | Gets differences between pages images. The result contains an image of the first page compared and an array of differences. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/autotaggingsettings/autotaggingsettings/"
 product_version: "26.9.0"
 ---
-## AutoTaggingSettings() {#constructor}
+## AutoTaggingSettings constructor
 
 The default constructor.
 

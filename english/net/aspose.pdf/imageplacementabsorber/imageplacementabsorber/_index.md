@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/imageplacementabsorber/imageplacementabsorber/"
 product_version: "26.9.0"
 ---
-## ImagePlacementAbsorber() {#constructor}
+## ImagePlacementAbsorber constructor
 
 The default constructor.
 

@@ -5,11 +5,11 @@ articleTitle: "GetFullFieldName"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Gets the full field name according to its short field name."
 type: docs
-weight: 190
+weight: 130
 url: "/net/aspose.pdf.facades/form/getfullfieldname/"
 product_version: "26.9.0"
 ---
-## GetFullFieldName(string) {#getfullfieldname}
+## Form.GetFullFieldName method
 
 Gets the full field name according to its short field name.
 
@@ -19,11 +19,9 @@ public string GetFullFieldName(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | The fully qualified field name. |
+| fieldName | String | The fully qualified field name. |
 
 ### Return Value
-
-string
 
 The full field name.
 

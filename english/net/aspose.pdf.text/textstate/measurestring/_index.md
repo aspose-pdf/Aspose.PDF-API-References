@@ -9,21 +9,19 @@ weight: 90
 url: "/net/aspose.pdf.text/textstate/measurestring/"
 product_version: "26.9.0"
 ---
-## MeasureString(string) {#measurestring}
+## TextState.MeasureString method
 
 Measures the string.
 
 ```csharp
-public double MeasureString(string str)
+public virtual double MeasureString(string str)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| str | string | The string. |
+| str | String | The string. |
 
 ### Return Value
-
-double
 
 Width of the string represented with this text state.
 

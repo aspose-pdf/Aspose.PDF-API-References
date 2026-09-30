@@ -22,7 +22,7 @@ public class PdfQueryPageSettingsEventArgs : CancelEventArgs
 
 | Name | Description |
 | --- | --- |
-| [PdfQueryPageSettingsEventArgs](./pdfquerypagesettingseventargs/#constructor)(*[PageSettings](../../aspose.pdf.printing/pagesettings/)*) | Initializes a new instance of the [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/) class. |
+| [PdfQueryPageSettingsEventArgs](./pdfquerypagesettingseventargs/)(PageSettings) | Initializes a new instance of the [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/) class. |
 
 ## Properties
 

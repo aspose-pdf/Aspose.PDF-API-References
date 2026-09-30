@@ -22,13 +22,13 @@ public class CodeInterpreter
 
 | Name | Description |
 | --- | --- |
-| [CodeInterpreter](./codeinterpreter/#constructor) | The default constructor. |
+| [CodeInterpreter](./codeinterpreter/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FileIds](./fileids/) { get; set; } | Gets or sets a list of file IDs made available to the code_interpreter tool. There can be a. |
+| [FileIds](./fileids/) { get; set; } | Gets or sets a list of file IDs made available to the code_interpreter tool. There can be a maximum of 20 files associated with the tool. |
 
 ### See Also
 

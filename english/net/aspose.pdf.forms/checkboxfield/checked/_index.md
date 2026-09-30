@@ -5,7 +5,7 @@ articleTitle: "Checked"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "CheckboxField property. Gets or sets state of check box."
 type: docs
-weight: 120
+weight: 110
 url: "/net/aspose.pdf.forms/checkboxfield/checked/"
 product_version: "26.9.0"
 ---

@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.annotations/measure.numberformatlist/removeat/"
 product_version: "26.9.0"
 ---
-## RemoveAt(int) {#removeat}
+## Measure.NumberFormatList.RemoveAt method
 
 Removes number format from list.
 
@@ -19,7 +19,7 @@ public void RemoveAt(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of item to be removed. |
+| index | Int32 | Index of item to be removed. |
 
 ### See Also
 

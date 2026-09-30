@@ -22,8 +22,8 @@ public class GlyphPosition
 
 | Name | Description |
 | --- | --- |
-| [GlyphPosition](./glyphposition/#constructor)(*string*) | Constructor for Glyph Position. |
-| [GlyphPosition](./glyphposition/#constructor_1)(*string, double*) | Constructs glyph position. |
+| [GlyphPosition](./glyphposition/#constructor)(string) | Constructor for Glyph Position. |
+| [GlyphPosition](./glyphposition/#constructor_1)(string, double) | Constructs glyph position. |
 
 ## Properties
 

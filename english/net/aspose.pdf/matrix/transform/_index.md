@@ -23,8 +23,6 @@ public Point Transform(Point p)
 
 ### Return Value
 
-[Point](../../../aspose.pdf/point/)
-
 Transformation result.
 
 ### See Also
@@ -36,20 +34,20 @@ Transformation result.
 
 ---
 
-## Transform(double, double, double, double) {#transform_1}
+## Transform(double, double, out double, out double) {#transform_1}
 
-
+Transforms coordinates using this matrix.
 
 ```csharp
-public void Transform(double x, double y, double x1, double y1)
+public void Transform(double x, double y, out double x1, out double y1)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | double |  |
-| y | double |  |
-| x1 | double |  |
-| y1 | double |  |
+| x | Double | X coordinate. |
+| y | Double | Y coordinate. |
+| x1 | Double& | Transformed X coordinate. |
+| y1 | Double& | Transformed Y coordinate. |
 
 ### See Also
 
@@ -73,8 +71,6 @@ public Rectangle Transform(Rectangle rect)
 | rect | Rectangle | Rectangle to be transformed. |
 
 ### Return Value
-
-[Rectangle](../../../aspose.pdf.drawing/rectangle/)
 
 Transformed rectangle.
 

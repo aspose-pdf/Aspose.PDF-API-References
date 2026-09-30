@@ -22,8 +22,8 @@ public static class PrinterSettingsExtensions
 
 | Name | Description |
 | --- | --- |
-| [ToAsposePrinterSettings](./toasposeprintersettings/)(*PrinterSettings*) | Converts Windows-specific System.Drawing.Printing.PrinterSettings to [`PrinterSettings`](../../aspose.pdf.printing/printersettings/). |
-| [ToNativePrinterSettings](./tonativeprintersettings/)(*PrinterSettings*) | Converts [`PrinterSettings`](../../aspose.pdf.printing/printersettings/) to Windows-specific System.Drawing.Printing.PrinterSettings. |
+| static [ToAsposePrinterSettings](./toasposeprintersettings/)(this PrinterSettings) | Converts Windows-specific System.Drawing.Printing.PrinterSettings to [`PrinterSettings`](../../aspose.pdf.printing/printersettings/). |
+| static [ToNativePrinterSettings](./tonativeprintersettings/)(this PrinterSettings) | Converts [`PrinterSettings`](../../aspose.pdf.printing/printersettings/) to Windows-specific System.Drawing.Printing.PrinterSettings. |
 
 ### See Also
 

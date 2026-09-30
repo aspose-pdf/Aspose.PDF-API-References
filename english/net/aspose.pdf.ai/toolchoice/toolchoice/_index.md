@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/toolchoice/toolchoice/"
 product_version: "26.9.0"
 ---
-## ToolChoice() {#constructor}
+## ToolChoice constructor
 
 The default constructor.
 

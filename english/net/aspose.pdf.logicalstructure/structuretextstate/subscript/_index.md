@@ -16,7 +16,7 @@ Gets or sets subscript of the text.
 Can be null. Use null to inherit `Subscript` property from parent structure element.
 
 ```csharp
-public Nullable<bool> Subscript { get; set; }
+public bool? Subscript { get; set; }
 ```
 
 ### See Also

@@ -5,7 +5,7 @@ articleTitle: "Resources.ExtGStateValue"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Resources.ExtGStateValue class. Represents ExtGStates with some values."
 type: docs
-weight: 2670
+weight: 2630
 url: "/net/aspose.pdf/resources.extgstatevalue/"
 keywords: "Resources.ExtGStateValue, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,15 +22,14 @@ public class ExtGStateValue
 
 | Name | Description |
 | --- | --- |
-| [Resources.ExtGStateValue](./extgstatevalue/#constructor)(*string*) | Initializes a new instance of the Resources.ExtGStateValue class. |
+| [ExtGStateValue](./extgstatevalue/)(string) | Initializes a new instance of the Resources.ExtGStateValue class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CA](./ca/) { get; } |  |
+| [CA](./ca/) { get; } | (2 indexers) |
 | [Name](./name/) { get; } |  |
-| [ca](./ca/) { get; } |  |
 
 ### See Also
 

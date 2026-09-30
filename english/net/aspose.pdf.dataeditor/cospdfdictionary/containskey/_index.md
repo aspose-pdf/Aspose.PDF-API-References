@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/containskey/"
 product_version: "26.9.0"
 ---
-## ContainsKey(string) {#containskey}
+## CosPdfDictionary.ContainsKey method
 
 Determines whether the [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/) contains an element with the specified key.
 
@@ -19,11 +19,9 @@ public bool ContainsKey(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | The key to locate in the <see cref="T:Aspose.Pdf.DataEditor.CosPdfDictionary" />. |
+| key | String | The key to locate in the <see cref="T:Aspose.Pdf.DataEditor.CosPdfDictionary" />. |
 
 ### Return Value
-
-bool
 
 true if the [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/) contains an editable element with the key; otherwise, false.
 

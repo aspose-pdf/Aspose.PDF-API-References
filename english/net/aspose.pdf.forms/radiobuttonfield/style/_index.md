@@ -19,7 +19,7 @@ public BoxStyle Style { get; set; }
 
 ### See Also
 
-* class [BoxStyle](../../../aspose.pdf.forms/boxstyle/)
+* enum [BoxStyle](../../../aspose.pdf.forms/boxstyle/)
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

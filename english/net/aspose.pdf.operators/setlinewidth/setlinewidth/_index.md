@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/setlinewidth/setlinewidth/"
 product_version: "26.9.0"
 ---
-## SetLineWidth(double) {#constructor}
+## SetLineWidth constructor
 
 Initializes operator with width value.
 
@@ -19,7 +19,7 @@ public SetLineWidth(double width)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | double | Line width. |
+| width | Double | Line width. |
 
 ### See Also
 

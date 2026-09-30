@@ -25,27 +25,7 @@ public PageNumberStamp()
 
 ---
 
-## PageNumberStamp(string) {#constructor_1}
-
-Initializes a new instance of the [`PageNumberStamp`](../../../aspose.pdf/pagenumberstamp/) class.
-
-```csharp
-public PageNumberStamp(string format)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| format | string | String value used for stamping. See <see cref="P:Aspose.Pdf.PageNumberStamp.Format" /> property for details. |
-
-### See Also
-
-* class [PageNumberStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## PageNumberStamp([FormattedText](../../../aspose.pdf.facades/formattedtext/)) {#constructor_2}
+## PageNumberStamp([FormattedText](../../../aspose.pdf.facades/formattedtext/)) {#constructor_1}
 
 Creates PageNumberStamp by formatted text.
 
@@ -56,6 +36,27 @@ public PageNumberStamp(FormattedText formattedText)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | formattedText | FormattedText | Formatted text which used to create Page Number Stamp. |
+
+### See Also
+
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PageNumberStamp(string) {#constructor_2}
+
+Initializes a new instance of the [`PageNumberStamp`](../../../aspose.pdf/pagenumberstamp/) class.
+
+```csharp
+public PageNumberStamp(string format)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| format | String | String value used for stamping. See <see cref="P:Aspose.Pdf.PageNumberStamp.Format" /> property for details. |
 
 ### See Also
 

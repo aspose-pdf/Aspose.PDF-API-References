@@ -9,7 +9,7 @@ weight: 110
 url: "/net/aspose.pdf/xmpvalue/toraw/"
 product_version: "26.9.0"
 ---
-## ToRaw() {#toraw}
+## XmpValue.ToRaw method
 
 Raw XML code for unknown/unsupported values.
 
@@ -18,8 +18,6 @@ public XmlNode ToRaw()
 ```
 
 ### Return Value
-
-XmlNode
 
 XML node for this value.
 

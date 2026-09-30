@@ -19,7 +19,7 @@ public ConvertErrorAction ErrorAction { get; set; }
 
 ### See Also
 
-* class [ConvertErrorAction](../../../aspose.pdf/converterroraction/)
+* enum [ConvertErrorAction](../../../aspose.pdf/converterroraction/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

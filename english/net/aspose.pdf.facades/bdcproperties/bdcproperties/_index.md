@@ -14,13 +14,13 @@ product_version: "26.9.0"
 Constructor for properties of BDC operator.
 
 ```csharp
-public BDCProperties(string lang, string expansionText)
+public BDCProperties(string lang = null, string expansionText = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| lang | string | Lang tag. |
-| expansionText | string | Expansion text. |
+| lang | String | Lang tag. |
+| expansionText | String | Expansion text. |
 
 ### See Also
 
@@ -30,19 +30,19 @@ public BDCProperties(string lang, string expansionText)
 
 ---
 
-## BDCProperties(Nullable<int>, string, string) {#constructor_1}
+## BDCProperties(int?, string, string) {#constructor_1}
 
 Constructor for properties of BDC operator.
 
 ```csharp
-public BDCProperties(Nullable<int> mcid, string lang, string expansionText)
+public BDCProperties(int? mcid, string lang = null, string expansionText = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| mcid | Nullable<int> | MCID. |
-| lang | string | Lang tag. |
-| expansionText | string | Expansion text. |
+| mcid | Nullable`1 | MCID. |
+| lang | String | Lang tag. |
+| expansionText | String | Expansion text. |
 
 ### See Also
 

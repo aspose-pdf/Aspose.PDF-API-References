@@ -9,17 +9,15 @@ weight: 50
 url: "/net/aspose.pdf.dataeditor/cospdfnumber/gethashcode/"
 product_version: "26.9.0"
 ---
-## GetHashCode() {#gethashcode}
+## CosPdfNumber.GetHashCode method
 
 Get hashcode for current object.
 
 ```csharp
-public int GetHashCode()
+public override int GetHashCode()
 ```
 
 ### Return Value
-
-int
 
 A hash code for current object.
 

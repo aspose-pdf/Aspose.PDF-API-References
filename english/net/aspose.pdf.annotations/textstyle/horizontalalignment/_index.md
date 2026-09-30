@@ -5,7 +5,7 @@ articleTitle: "HorizontalAlignment"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "TextStyle property. Text alignment. Valid values are: Left, Center, Rigth."
 type: docs
-weight: 50
+weight: 40
 url: "/net/aspose.pdf.annotations/textstyle/horizontalalignment/"
 product_version: "26.9.0"
 ---
@@ -19,7 +19,7 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 
 ### See Also
 
-* class [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
+* enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
 * class [TextStyle](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

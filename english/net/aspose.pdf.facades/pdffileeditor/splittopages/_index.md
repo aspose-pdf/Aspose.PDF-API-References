@@ -19,11 +19,9 @@ public MemoryStream[] SplitToPages(string inputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Input PDF file name. |
+| inputFile | String | Input PDF file name. |
 
 ### Return Value
-
-MemoryStream[]
 
 Output PDF streams, each stream buffers a single-page PDF document.
 
@@ -49,8 +47,6 @@ public MemoryStream[] SplitToPages(Stream inputStream)
 
 ### Return Value
 
-MemoryStream[]
-
 Array of memory streams which contain pages of the document.
 
 ### See Also
@@ -71,8 +67,8 @@ public void SplitToPages(string inputFile, string fileNameTemplate)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Input file name. |
-| fileNameTemplate | string | Template of resultant file name. Must contain %NUM% which is replaced with page number. For example, if c:/dir/page%NUM%.pdf is specified, resultant files will have the following names: c:/dir/page1.pdf, c:/dir/page2.pdf etc. |
+| inputFile | String | Input file name. |
+| fileNameTemplate | String | Template of resultant file name. Must contain %NUM% which is replaced with page number. For example, if c:/dir/page%NUM%.pdf is specified, resultant files will have the following names: c:/dir/page1.pdf, c:/dir/page2.pdf etc. |
 
 ### See Also
 
@@ -93,7 +89,7 @@ public void SplitToPages(Stream inputStream, string fileNameTemplate)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Stream of the soruce document. |
-| fileNameTemplate | string | Template of resultant file name. Must contain %NUM% which is replaced with page number. For example, if c:/dir/page%NUM%.pdf is specified, resultant files will have the following names: c:/dir/page1.pdf, c:/dir/page2.pdf etc. |
+| fileNameTemplate | String | Template of resultant file name. Must contain %NUM% which is replaced with page number. For example, if c:/dir/page%NUM%.pdf is specified, resultant files will have the following names: c:/dir/page1.pdf, c:/dir/page2.pdf etc. |
 
 ### See Also
 

@@ -9,17 +9,15 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/mcrelement/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## MCRElement.ToString method
 
 Returns a string that represents the current object.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String that represents the current object.
 

@@ -16,7 +16,7 @@ Gets or sets horizontal scaling of the text.
 Can be null. Use null to inherit `HorizontalScaling` property from parent structure element.
 
 ```csharp
-public Nullable<float> HorizontalScaling { get; set; }
+public float? HorizontalScaling { get; set; }
 ```
 
 ### See Also

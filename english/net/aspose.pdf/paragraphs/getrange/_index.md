@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/paragraphs/getrange/"
 product_version: "26.9.0"
 ---
-## GetRange(int, int) {#getrange}
+## Paragraphs.GetRange method
 
 Remove paragraphs range.
 
@@ -19,19 +19,16 @@ public Paragraphs GetRange(int index, int count)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | The first paragraph index. |
-| count | int | The paragraphs count. |
+| index | Int32 | The first paragraph index. |
+| count | Int32 | The paragraphs count. |
 
 ### Return Value
-
-[Paragraphs](../../../aspose.pdf/paragraphs/)
 
 The paragraphs collection
 
 ### See Also
 
 * class [Paragraphs](../../../aspose.pdf/paragraphs/)
-* class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

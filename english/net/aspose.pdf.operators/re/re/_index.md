@@ -35,10 +35,10 @@ public Re(double x, double y, double width, double height)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | double | The x-coordinate of the bottom-left corner of the rectangle. |
-| y | double | The y-coordinate of the bottom-left corner of the rectangle. |
-| width | double | The width of the rectangle. |
-| height | double | The height of the rectangle. |
+| x | Double | The x-coordinate of the bottom-left corner of the rectangle. |
+| y | Double | The y-coordinate of the bottom-left corner of the rectangle. |
+| width | Double | The width of the rectangle. |
+| height | Double | The height of the rectangle. |
 
 ### See Also
 

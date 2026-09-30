@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.lowcode/tablegenerator/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## TableGenerator.Dispose method
 
 Implementation of IDisposable. In fact, it is not necessary for TableGenerator.
 

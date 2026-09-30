@@ -24,7 +24,7 @@ public ValidationStatus Status { get; }
 
 ### See Also
 
-* class [ValidationStatus](../../../aspose.pdf.security/validationstatus/)
+* enum [ValidationStatus](../../../aspose.pdf.security/validationstatus/)
 * class [ValidationResult](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)

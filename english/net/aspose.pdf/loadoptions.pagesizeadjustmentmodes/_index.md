@@ -5,7 +5,7 @@ articleTitle: "LoadOptions.PageSizeAdjustmentModes"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.LoadOptions.PageSizeAdjustmentModes enum. ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED laye..."
 type: docs
-weight: 1810
+weight: 1770
 url: "/net/aspose.pdf/loadoptions.pagesizeadjustmentmodes/"
 product_version: "26.9.0"
 ---

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.structure/element/remove/"
 product_version: "26.9.0"
 ---
-## Remove() {#remove}
+## Element.Remove method
 
 Remove element.
 

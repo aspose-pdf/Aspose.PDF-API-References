@@ -9,13 +9,21 @@ weight: 110
 url: "/net/aspose.pdf.text/textfragmentcollection/item/"
 product_version: "26.9.0"
 ---
-## TextFragmentCollection.Item property
+## TextFragmentCollection indexer
 
 Gets the text fragment element at the specified index.
 
 ```csharp
-public TextFragment Item { get; }
+public TextFragment this[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Index within the collection. |
+
+### Return Value
+
+TextFragment object.
 
 ### See Also
 

@@ -19,7 +19,7 @@ public ParagraphPositioningMode PositioningMode { get; set; }
 
 ### See Also
 
-* class [ParagraphPositioningMode](../../../aspose.pdf/paragraphpositioningmode/)
+* enum [ParagraphPositioningMode](../../../aspose.pdf/paragraphpositioningmode/)
 * class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

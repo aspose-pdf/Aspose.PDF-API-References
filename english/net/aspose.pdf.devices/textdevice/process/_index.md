@@ -9,12 +9,12 @@ weight: 50
 url: "/net/aspose.pdf.devices/textdevice/process/"
 product_version: "26.9.0"
 ---
-## Process([Page](../../../aspose.pdf/page/), Stream) {#process}
+## TextDevice.Process method
 
 Convert page and save it as text stream.
 
 ```csharp
-public void Process(Page page, Stream output)
+public override void Process(Page page, Stream output)
 ```
 
 | Parameter | Type | Description |
@@ -24,6 +24,7 @@ public void Process(Page page, Stream output)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

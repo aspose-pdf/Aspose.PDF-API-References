@@ -5,11 +5,11 @@ articleTitle: "GetSubmitFlags"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Returns the submit button's submission flags"
 type: docs
-weight: 410
+weight: 340
 url: "/net/aspose.pdf.facades/form/getsubmitflags/"
 product_version: "26.9.0"
 ---
-## GetSubmitFlags(string) {#getsubmitflags}
+## Form.GetSubmitFlags method
 
 Returns the submit button's submission flags
 
@@ -19,17 +19,15 @@ public SubmitFormFlag GetSubmitFlags(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | The qualified field name. |
+| fieldName | String | The qualified field name. |
 
 ### Return Value
-
-[SubmitFormFlag](../../../aspose.pdf.facades/submitformflag/)
 
 Submission flags of the button.
 
 ### See Also
 
-* class [SubmitFormFlag](../../../aspose.pdf.facades/submitformflag/)
+* enum [SubmitFormFlag](../../../aspose.pdf.facades/submitformflag/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

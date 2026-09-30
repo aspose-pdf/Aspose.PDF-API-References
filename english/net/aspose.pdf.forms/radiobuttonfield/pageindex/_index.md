@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets index of page which contains this RadioButton field.
 
 ```csharp
-public int PageIndex { get; }
+public override int PageIndex { get; }
 ```
 
 ### See Also

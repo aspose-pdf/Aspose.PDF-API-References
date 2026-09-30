@@ -5,7 +5,7 @@ articleTitle: "NumberingStyle"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileStamp property. Gets or sets pabge numbering style. Possible values: NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase,..."
 type: docs
-weight: 440
+weight: 340
 url: "/net/aspose.pdf.facades/pdffilestamp/numberingstyle/"
 product_version: "26.9.0"
 ---
@@ -19,7 +19,7 @@ public NumberingStyle NumberingStyle { get; set; }
 
 ### See Also
 
-* class [NumberingStyle](../../../aspose.pdf/numberingstyle/)
+* enum [NumberingStyle](../../../aspose.pdf/numberingstyle/)
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -9,17 +9,15 @@ weight: 60
 url: "/net/aspose.pdf.text/textfragment/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## TextFragment.Clone method
 
 Clone the fragment.
 
 ```csharp
-public object Clone()
+public override object Clone()
 ```
 
 ### Return Value
-
-object
 
 The cloned object
 

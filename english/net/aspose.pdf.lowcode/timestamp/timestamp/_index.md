@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/timestamp/timestamp/"
 product_version: "26.9.0"
 ---
-## Timestamp() {#constructor}
+## Timestamp constructor
 
 The default constructor.
 

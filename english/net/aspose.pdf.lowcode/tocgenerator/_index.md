@@ -15,21 +15,21 @@ product_version: "26.9.0"
 Represents Aspose.PDF TocGenerator plugin.
 
 ```csharp
-public sealed class TocGenerator : IPlugin, IDisposable
+public sealed class TocGenerator : IDisposable, IPlugin
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [TocGenerator](./tocgenerator/#constructor) | The default constructor. |
+| [TocGenerator](./tocgenerator/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/) | Implementation of IDisposable. In fact, it is not necessary for TocGenerator. |
-| [Process](./process/)(*IPluginOptions*) | Starts the PdfGenerator processing with the specified parameters. |
+| [Dispose](./dispose/)() | Implementation of IDisposable. In fact, it is not necessary for TocGenerator. |
+| [Process](./process/)(IPluginOptions) | Starts the PdfGenerator processing with the specified parameters. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 410
 url: "/net/aspose.pdf.facades/pdfcontenteditor/removedocumentopenaction/"
 product_version: "26.9.0"
 ---
-## RemoveDocumentOpenAction() {#removedocumentopenaction}
+## PdfContentEditor.RemoveDocumentOpenAction method
 
 Removes open action from the document. This operation is useful when concatenating multiple documents that use explicit 'GoTo' action on startup.
 

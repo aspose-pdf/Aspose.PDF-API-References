@@ -23,7 +23,7 @@ public sealed class RenditionAction : PdfAction
 | Name | Description |
 | --- | --- |
 | [JavaScript](./javascript/) { get; set; } | Gets or sets JavaScript code associated with the action. |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. *(Inherited from PdfAction)* |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 | [Rendition](./rendition/) { get; } | Gets or sets rendition associated with the action. |
 | [RenditionOperation](./renditionoperation/) { get; set; } | The operation to perform when the action is triggered. |
 
@@ -31,8 +31,8 @@ public sealed class RenditionAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/) | Gets string for ECMAScript Action. *(Inherited from PdfAction)* |
-| [ToString](../../aspose.pdf.annotations/iappointment/tostring/) | Returns string representation. *(Inherited from IAppointment)* |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Returns string representation |
 
 ### See Also
 

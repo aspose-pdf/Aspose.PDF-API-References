@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/comhelper/comhelper/"
 product_version: "26.9.0"
 ---
-## ComHelper() {#constructor}
+## ComHelper constructor
 
 The default constructor.
 

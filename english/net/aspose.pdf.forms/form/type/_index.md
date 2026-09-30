@@ -19,7 +19,7 @@ public FormType Type { get; set; }
 
 ### See Also
 
-* class [FormType](../../../aspose.pdf.forms/formtype/)
+* enum [FormType](../../../aspose.pdf.forms/formtype/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

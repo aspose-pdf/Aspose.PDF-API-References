@@ -9,27 +9,25 @@ weight: 10
 url: "/net/aspose.pdf.ai/isummaryclient-1/getsummarycopilot/"
 product_version: "26.9.0"
 ---
-## GetSummaryCopilot(ISummaryCopilotOptions<T0>) {#getsummarycopilot}
+## ISummaryClient<TOptions>.GetSummaryCopilot method
 
 Gets an instance of [`ISummaryCopilot`](../../../aspose.pdf.ai/isummarycopilot/) with the specified options.
 
 ```csharp
-public ISummaryCopilot GetSummaryCopilot(ISummaryCopilotOptions<T0> options)
+public ISummaryCopilot GetSummaryCopilot(ISummaryCopilotOptions<TOptions> options)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | ISummaryCopilotOptions<T0> | The options for the summary copilot. |
+| options | ISummaryCopilotOptions`1 | The options for the summary copilot. |
 
 ### Return Value
-
-[ISummaryCopilot](../../../aspose.pdf.ai/isummarycopilot/)
 
 An instance of [`ISummaryCopilot`](../../../aspose.pdf.ai/isummarycopilot/).
 
 ### See Also
 
-* class [ISummaryCopilot](../../../aspose.pdf.ai/isummarycopilot/)
+* interface [ISummaryCopilot](../../../aspose.pdf.ai/isummarycopilot/)
 * interface [ISummaryClient<TOptions>](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

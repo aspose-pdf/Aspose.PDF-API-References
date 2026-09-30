@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.drawing/circle/circle/"
 product_version: "26.9.0"
 ---
-## Circle(float, float, float) {#constructor}
+## Circle constructor
 
 Initializes a new instance of the [`Circle`](../../../aspose.pdf.drawing/circle/) class.
 
@@ -19,9 +19,9 @@ public Circle(float posX, float posY, float radius)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| posX | float | The x-coordinate of the center of the circle. |
-| posY | float | The y-coordinate of the center of the circle. |
-| radius | float | The radius of the circle. |
+| posX | Single | The x-coordinate of the center of the circle. |
+| posY | Single | The y-coordinate of the center of the circle. |
+| radius | Single | The radius of the circle. |
 
 ### See Also
 

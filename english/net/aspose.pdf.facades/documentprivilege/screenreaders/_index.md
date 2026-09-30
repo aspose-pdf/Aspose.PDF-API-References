@@ -14,13 +14,12 @@ product_version: "26.9.0"
 Allows to reader on screen only.
 
 ```csharp
-public DocumentPrivilege ScreenReaders { get; }
+public static DocumentPrivilege ScreenReaders { get; }
 ```
 
 ### See Also
 
 * class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

@@ -22,14 +22,14 @@ public abstract class Shape : IBoundsCheckableItem
 
 | Name | Description |
 | --- | --- |
-| [GraphInfo](./graphinfo/) { get; set; } | Gets or sets a `GraphInfo` object that indicates the graph info,such as color,. |
-| [Text](./text/) { get; set; } | Gets or sets a text for shape. |
+| [GraphInfo](./graphinfo/) { get; set; } | Gets or sets a `GraphInfo` object that indicates the graph info,such as color, line width,etc. |
+| [Text](./text/) { get; set; } | Gets or sets a text for shape |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CheckBounds](./checkbounds/)(*double, double*) |  |
+| virtual [CheckBounds](./checkbounds/)(double, double) |  |
 
 ### See Also
 

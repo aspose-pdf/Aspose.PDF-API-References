@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Sets or gets the presence penalty to use during sampling.
 
 ```csharp
-public Nullable<float> PresencePenalty { get; set; }
+public float? PresencePenalty { get; set; }
 ```
 
 ### See Also

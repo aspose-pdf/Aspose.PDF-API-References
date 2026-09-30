@@ -9,21 +9,19 @@ weight: 10
 url: "/net/aspose.pdf.ai/isummarycopilot/getsummaryasync/"
 product_version: "26.9.0"
 ---
-## GetSummaryAsync(Nullable<CancellationToken>) {#getsummaryasync}
+## ISummaryCopilot.GetSummaryAsync method
 
 Asynchronously gets a summary.
 
 ```csharp
-public Task<string> GetSummaryAsync(Nullable<CancellationToken> cancellationToken)
+public Task<string> GetSummaryAsync(CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cancellationToken | Nullable<CancellationToken> | The cancellation token (optional). |
+| cancellationToken | Nullable`1 | The cancellation token (optional). |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<string>
 
 A task representing the asynchronous operation with the summary string.
 

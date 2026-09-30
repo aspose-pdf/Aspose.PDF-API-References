@@ -22,7 +22,7 @@ public class SetSpacingMoveToNextLineShowText : TextShowOperator
 
 | Name | Description |
 | --- | --- |
-| [SetSpacingMoveToNextLineShowText](./setspacingmovetonextlineshowtext/#constructor)(*double, double, string*) | Initializes operator. |
+| [SetSpacingMoveToNextLineShowText](./setspacingmovetonextlineshowtext/)(double, double, string) | Initializes operator. |
 
 ## Properties
 
@@ -30,17 +30,17 @@ public class SetSpacingMoveToNextLineShowText : TextShowOperator
 | --- | --- |
 | [Ac](./ac/) { get; } | Get character spacing. |
 | [Aw](./aw/) { get; } | Gets word spacing. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. *(Inherited from Operator)* |
-| [Text](./text/) { get; } | Gets text of operator. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
+| override [Text](./text/) { get; } | Gets text of operator. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Accept](./accept/)(*IOperatorSelector*) | Accepts visitor object to process operator. |
-| [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(*Operator*) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc). *(Inherited from Operator)* |
-| [ToString](../../aspose.pdf/operator/tostring/) | Returns text of operator and its parameters. *(Inherited from Operator)* |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(*Operator*) | Compares this instance with the given object. *(Inherited from Operator)* |
+| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 

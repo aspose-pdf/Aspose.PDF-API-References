@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.text/fontabsorber/fontabsorber/"
 product_version: "26.9.0"
 ---
-## FontAbsorber() {#constructor}
+## FontAbsorber constructor
 
 The default constructor.
 

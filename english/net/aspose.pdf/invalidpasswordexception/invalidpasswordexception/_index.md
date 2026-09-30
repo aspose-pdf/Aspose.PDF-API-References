@@ -9,27 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/invalidpasswordexception/invalidpasswordexception/"
 product_version: "26.9.0"
 ---
-## InvalidPasswordException(string) {#constructor}
-
-Initializes a new instance of the [`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception/) class.
-
-```csharp
-public InvalidPasswordException(string message)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| message | string | The message. |
-
-### See Also
-
-* class [InvalidPasswordException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## InvalidPasswordException(Exception) {#constructor_1}
+## InvalidPasswordException(Exception) {#constructor}
 
 Initializes a new instance of the [`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception/) class with a reference to the inner exception that is the cause of this exception.
 
@@ -49,6 +29,26 @@ public InvalidPasswordException(Exception innerException)
 
 ---
 
+## InvalidPasswordException(string) {#constructor_1}
+
+Initializes a new instance of the [`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception/) class.
+
+```csharp
+public InvalidPasswordException(string message)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| message | String | The message. |
+
+### See Also
+
+* class [InvalidPasswordException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
 ## InvalidPasswordException(string, Exception) {#constructor_2}
 
 Initializes a new instance of the [`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception.
@@ -59,7 +59,7 @@ public InvalidPasswordException(string message, Exception innerException)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| message | string | The error message that explains the reason for the exception. |
+| message | String | The error message that explains the reason for the exception. |
 | innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 
 ### See Also

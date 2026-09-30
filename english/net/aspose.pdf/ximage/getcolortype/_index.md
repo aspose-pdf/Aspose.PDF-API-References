@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf/ximage/getcolortype/"
 product_version: "26.9.0"
 ---
-## GetColorType() {#getcolortype}
+## XImage.GetColorType method
 
 Returns color type of image.
 
@@ -19,13 +19,11 @@ public ColorType GetColorType()
 
 ### Return Value
 
-[ColorType](../../../aspose.pdf/colortype/)
-
 The color type value.
 
 ### See Also
 
-* class [ColorType](../../../aspose.pdf/colortype/)
+* enum [ColorType](../../../aspose.pdf/colortype/)
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

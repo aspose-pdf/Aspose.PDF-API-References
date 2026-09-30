@@ -19,7 +19,7 @@ public AFRelationship AFRelationship { get; set; }
 
 ### See Also
 
-* class [AFRelationship](../../../aspose.pdf/afrelationship/)
+* enum [AFRelationship](../../../aspose.pdf/afrelationship/)
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

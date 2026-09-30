@@ -9,23 +9,22 @@ weight: 120
 url: "/net/aspose.pdf.ai/iopenaiclient/waitforthreadmessagetocompleteasync/"
 product_version: "26.9.0"
 ---
-## WaitForThreadMessageToCompleteAsync(string, string, Nullable<CancellationToken>) {#waitforthreadmessagetocompleteasync}
+## IOpenAIClient.WaitForThreadMessageToCompleteAsync method
 
 Waits for a specific thread message to complete asynchronously.
 
 ```csharp
-public Task<ThreadMessageResponse> WaitForThreadMessageToCompleteAsync(string threadId, string threadMessageId, Nullable<CancellationToken> cancellationToken)
+public Task<ThreadMessageResponse> WaitForThreadMessageToCompleteAsync(string threadId, 
+    string threadMessageId, CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threadId | string | The ID of the thread containing the message. |
-| threadMessageId | string | The ID of the message to monitor until completion. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| threadId | String | The ID of the thread containing the message. |
+| threadMessageId | String | The ID of the message to monitor until completion. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[ThreadMessageResponse](../../../aspose.pdf.ai/threadmessageresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the final status of the message.
 

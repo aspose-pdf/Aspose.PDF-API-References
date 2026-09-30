@@ -19,7 +19,7 @@ public BorderCornerStyle CornerStyle { get; set; }
 
 ### See Also
 
-* class [BorderCornerStyle](../../../aspose.pdf/bordercornerstyle/)
+* enum [BorderCornerStyle](../../../aspose.pdf/bordercornerstyle/)
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

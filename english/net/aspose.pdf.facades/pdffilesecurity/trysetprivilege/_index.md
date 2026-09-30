@@ -5,11 +5,11 @@ articleTitle: "TrySetPrivilege"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileSecurity method. Sets Pdf file security with original password. Does not throw an exception if process failed."
 type: docs
-weight: 140
+weight: 100
 url: "/net/aspose.pdf.facades/pdffilesecurity/trysetprivilege/"
 product_version: "26.9.0"
 ---
-## TrySetPrivilege(string, string, [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)) {#trysetprivilege}
+## PdfFileSecurity.TrySetPrivilege method
 
 Sets Pdf file security with original password.
  Does not throw an exception if process failed.
@@ -20,13 +20,11 @@ public bool TrySetPrivilege(string userPassword, string ownerPassword, DocumentP
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| userPassword | string | Original user password. |
-| ownerPassword | string | Original owner password. |
+| userPassword | String | Original user password. |
+| ownerPassword | String | Original owner password. |
 | privilege | DocumentPrivilege | Set privilege. |
 
 ### Return Value
-
-bool
 
 True for success, or false.
 
@@ -48,6 +46,7 @@ True for success, or false.
 
 ### See Also
 
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

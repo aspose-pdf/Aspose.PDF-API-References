@@ -22,12 +22,12 @@ public abstract class ImageDevice : PageDevice
 
 | Name | Description |
 | --- | --- |
-| [ImageDevice](./imagedevice/#constructor) | Abstract initializer for [`ImageDevice`](../../aspose.pdf.devices/imagedevice/) descendants, set resolution to 150x150. |
-| [ImageDevice](./imagedevice/#constructor_1)(*[Resolution](../../aspose.pdf.devices/resolution/)*) | Abstract initializer for [`ImageDevice`](../../aspose.pdf.devices/imagedevice/) descendants. |
-| [ImageDevice](./imagedevice/#constructor_2)(*[PageSize](../../aspose.pdf/pagesize/)*) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with provided image dimensions and default resolution (=150). |
-| [ImageDevice](./imagedevice/#constructor_3)(*int, int*) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with provided image dimensions and default resolution (=150). |
-| [ImageDevice](./imagedevice/#constructor_4)(*[PageSize](../../aspose.pdf/pagesize/), [Resolution](../../aspose.pdf.devices/resolution/)*) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with provided image dimensions and resolution. |
-| [ImageDevice](./imagedevice/#constructor_5)(*int, int, [Resolution](../../aspose.pdf.devices/resolution/)*) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with provided image dimensions and resolution. |
+| [ImageDevice](./imagedevice/#constructor)() | Abstract initializer for [`ImageDevice`](../../aspose.pdf.devices/imagedevice/) descendants, set resolution to 150x150. |
+| [ImageDevice](./imagedevice/#constructor_1)(PageSize) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with provided image dimensions and default resolution (=150). |
+| [ImageDevice](./imagedevice/#constructor_2)(Resolution) | Abstract initializer for [`ImageDevice`](../../aspose.pdf.devices/imagedevice/) descendants. |
+| [ImageDevice](./imagedevice/#constructor_3)(int, int) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with provided image dimensions and default resolution (=150). |
+| [ImageDevice](./imagedevice/#constructor_4)(PageSize, Resolution) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with provided image dimensions and resolution. |
+| [ImageDevice](./imagedevice/#constructor_5)(int, int, Resolution) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with provided image dimensions and resolution. |
 
 ## Properties
 
@@ -44,8 +44,8 @@ public abstract class ImageDevice : PageDevice
 
 | Name | Description |
 | --- | --- |
-| [GetBitmap](./getbitmap/)(*Page*) | Converts the page into `Bitmap`. |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(*Page, Stream*) | Perfoms some operation on the given page, e.g. converts page into graphic image. *(Inherited from PageDevice)* |
+| [GetBitmap](./getbitmap/)(Page) | Converts the page into `Bitmap`. |
+| abstract [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, Stream) | Perfoms some operation on the given page, e.g. converts page into graphic image. |
 
 ### See Also
 

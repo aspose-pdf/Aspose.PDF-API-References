@@ -23,6 +23,7 @@ public void AppendText(TextFragment textFragment)
 
 ### See Also
 
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
 * class [TextBuilder](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -39,7 +40,7 @@ public void AppendText(List<TextFragment> textFragments)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textFragments | List<TextFragment> | Collection of text fragments |
+| textFragments | List`1 | Collection of text fragments |
 
 ### See Also
 

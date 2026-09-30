@@ -9,7 +9,7 @@ weight: 190
 url: "/net/aspose.pdf/rectangle/topoints/"
 product_version: "26.9.0"
 ---
-## ToPoints() {#topoints}
+## Rectangle.ToPoints method
 
 Converts rectangle into array of points ("QuadPoints").
 
@@ -18,8 +18,6 @@ public Point[] ToPoints()
 ```
 
 ### Return Value
-
-[Point](../../../aspose.pdf/point/)[]
 
 Array of points.
 

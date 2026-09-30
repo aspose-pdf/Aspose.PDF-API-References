@@ -21,7 +21,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | Class | Description |
 | --- | --- |
 | [ImageCompressionOptions](./imagecompressionoptions/) | Class contains set options for image compression. |
-| [OptimizationOptions](./optimizationoptions/) | Class which describes document optimization algorithm. |
+| [OptimizationOptions](./optimizationoptions/) | Class which describes document optimization algorithm. Instance of this class may be used as parameter of OptimizeResources() method. |
 
 ## Enumeration
 

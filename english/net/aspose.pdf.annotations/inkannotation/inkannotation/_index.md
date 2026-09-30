@@ -20,41 +20,18 @@ public InkAnnotation(Document document, IList<Point[]> inkList)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | Document | Document where ink annotation will be created. |
-| inkList | IList<Point[]> | An array of Point[] arrays, each representing a stroked path. |
+| inkList | IList`1 | An array of Point[] arrays, each representing a stroked path. |
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## InkAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), IList) {#constructor_1}
-
-> **Deprecated.** InkAnnotation constructor #ctor(Page page, Rectangle rect, IList inkList) should be used instead.
-
-Creates new Ink annotation on the specified page.
-
-```csharp
-public InkAnnotation(Page page, Rectangle rect, IList inkList)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | The document's page where annotation should be created. |
-| rect | Rectangle | The annotation rectangle, defining the location of the annotation on the page. |
-| inkList | IList | An array of Point[] arrays, each representing a stroked path. |
-
-### See Also
-
-* class [InkAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## InkAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), IList<Point[]>) {#constructor_2}
+## InkAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), IList<Point[]>) {#constructor_1}
 
 Creates new Ink annotation on the specified page.
 
@@ -66,10 +43,12 @@ public InkAnnotation(Page page, Rectangle rect, IList<Point[]> inkList)
 | --- | --- | --- |
 | page | Page | The document's page where annotation should be created. |
 | rect | Rectangle | The annotation rectangle, defining the location of the annotation on the page. |
-| inkList | IList<Point[]> | An array of Point[] arrays, each representing a stroked path. |
+| inkList | IList`1 | An array of Point[] arrays, each representing a stroked path. |
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

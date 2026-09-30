@@ -25,28 +25,7 @@ public NumberField()
 
 ---
 
-## NumberField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
-
-Initializes a new instance of the [`NumberField`](../../../aspose.pdf.forms/numberfield/) class.
-
-```csharp
-public NumberField(Page page, Rectangle rect)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Page where text field is placed. |
-| rect | Rectangle | Rectangle where the field will be placed on the page. |
-
-### See Also
-
-* class [NumberField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## NumberField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_2}
+## NumberField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
 
 Initializes a new instance of the [`NumberField`](../../../aspose.pdf.forms/numberfield/) class.
 
@@ -61,6 +40,31 @@ public NumberField(Document doc, Rectangle rect)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [NumberField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## NumberField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_2}
+
+Initializes a new instance of the [`NumberField`](../../../aspose.pdf.forms/numberfield/) class.
+
+```csharp
+public NumberField(Page page, Rectangle rect)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | Page where text field is placed. |
+| rect | Rectangle | Rectangle where the field will be placed on the page. |
+
+### See Also
+
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [NumberField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

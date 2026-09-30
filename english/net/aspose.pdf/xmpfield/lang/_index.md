@@ -14,13 +14,12 @@ product_version: "26.9.0"
 Gets xml:lang qualifier.
 
 ```csharp
-public XmpField Lang { get; }
+public static XmpField Lang { get; }
 ```
 
 ### See Also
 
 * class [XmpField](../../../aspose.pdf/xmpfield/)
-* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

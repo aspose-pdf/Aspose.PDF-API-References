@@ -19,7 +19,7 @@ public PaperSourceKind Kind { get; set; }
 
 ### See Also
 
-* class [PaperSourceKind](../../../aspose.pdf.printing/papersourcekind/)
+* enum [PaperSourceKind](../../../aspose.pdf.printing/papersourcekind/)
 * class [PaperSource](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

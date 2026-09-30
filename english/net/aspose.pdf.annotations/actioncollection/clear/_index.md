@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf.annotations/actioncollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## ActionCollection.Clear method
 
 Clear collection.
 

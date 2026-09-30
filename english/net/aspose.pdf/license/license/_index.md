@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/license/license/"
 product_version: "26.9.0"
 ---
-## License() {#constructor}
+## License constructor
 
 The default constructor.
 

@@ -20,14 +20,14 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 
 | Class | Description |
 | --- | --- |
-| [BDC](./bdc/) | class representing BDC operator (Begin marked-content sequence). |
+| [BDC](./bdc/) | class representing BDC operator (Begin marked-content sequence) |
 | [BI](./bi/) | Class representing BI operator (Begin inline image obect). |
 | [BMC](./bmc/) | Class representing BMC operator (Begin marked-content sequence). |
 | [BT](./bt/) | Class representing BT operator (Begin of text block). |
 | [BX](./bx/) | Class representing BX operator (begin compatibility section). |
 | [BasicSetColorAndPatternOperator](./basicsetcolorandpatternoperator/) | Base operator for all Set Color operators. |
 | [BasicSetColorOperator](./basicsetcoloroperator/) | Base class for set color operators. |
-| [BlockTextOperator](./blocktextoperator/) | Abstract base class for text block operators i.e. Begin and End text operators (BT/ET). |
+| [BlockTextOperator](./blocktextoperator/) | Abstract base class for text block operators i.e. Begin and End text operators (BT/ET) |
 | [Clip](./clip/) | Class representing W operator (set clipping path using non-zero winding rule). |
 | [ClosePath](./closepath/) | Class representing h operator (close path). |
 | [ClosePathEOFillStroke](./closepatheofillstroke/) | Class representing b* operator (close, fill and stroke path using even-odd rule). |
@@ -48,11 +48,11 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [EX](./ex/) | Class representing EX operator (End of compatibility section). |
 | [EndPath](./endpath/) | Class representing n operator (end path without filling or stroking). |
 | [Fill](./fill/) | Class representing f operator (fill path with nonzero winding number rule). |
-| [FillStroke](./fillstroke/) | Class representing B operator (fill and stroke path using nonzero winding rule). |
+| [FillStroke](./fillstroke/) | Class representing B operator (fill and stroke path using nonzero winding rule) |
 | [GRestore](./grestore/) | Class representing Q operator (restore graphics state). |
 | [GS](./gs/) | Class representing gs operator (set parameters from graphic state parameter dictionary). |
 | [GSave](./gsave/) | Class representing q operator (save graphics state). |
-| [GlyphPosition](./glyphposition/) | Class describes text and position to use with operator TJ (set glyph with position). |
+| [GlyphPosition](./glyphposition/) | Class describes text and position to use with operator TJ (set glyph with position) |
 | [ID](./id/) | Class representing ID operator (Begin inline image data). |
 | [LineTo](./lineto/) | Class representing l operator (add line to the path). |
 | [MP](./mp/) | Class representing MP operator (define marked-content point). |
@@ -74,7 +74,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [SetColor](./setcolor/) | Represents class for sc operator (set color for non-stroking operations). |
 | [SetColorOperator](./setcoloroperator/) | Class representing set color operation. |
 | [SetColorRenderingIntent](./setcolorrenderingintent/) | Class representing ri operator (set color rendering intent). |
-| [SetColorSpace](./setcolorspace/) | Class representing cs operator (set colorspace for non-stroking operations). |
+| [SetColorSpace](./setcolorspace/) | Class representing cs operator (set colorspace for non-stroking operations) |
 | [SetColorSpaceStroke](./setcolorspacestroke/) | Class representing CS operator (set color for stroking operations). |
 | [SetColorStroke](./setcolorstroke/) | Class representing SC operator set color for stroking color operators. |
 | [SetDash](./setdash/) | Class representing d operator (set line dash pattern). |

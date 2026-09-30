@@ -19,7 +19,7 @@ public PageCoordinateType CoordinateType { get; set; }
 
 ### See Also
 
-* class [PageCoordinateType](../../../aspose.pdf/pagecoordinatetype/)
+* enum [PageCoordinateType](../../../aspose.pdf/pagecoordinatetype/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

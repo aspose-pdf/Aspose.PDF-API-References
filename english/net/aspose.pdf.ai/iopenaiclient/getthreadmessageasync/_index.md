@@ -9,23 +9,22 @@ weight: 90
 url: "/net/aspose.pdf.ai/iopenaiclient/getthreadmessageasync/"
 product_version: "26.9.0"
 ---
-## GetThreadMessageAsync(string, string, Nullable<CancellationToken>) {#getthreadmessageasync}
+## IOpenAIClient.GetThreadMessageAsync method
 
 Retrieves details of a specific message within a thread asynchronously.
 
 ```csharp
-public Task<ThreadMessageResponse> GetThreadMessageAsync(string threadId, string threadMessageId, Nullable<CancellationToken> cancellationToken)
+public Task<ThreadMessageResponse> GetThreadMessageAsync(string threadId, string threadMessageId, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threadId | string | The ID of the thread containing the message. |
-| threadMessageId | string | The ID of the message to retrieve. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| threadId | String | The ID of the thread containing the message. |
+| threadMessageId | String | The ID of the message to retrieve. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[ThreadMessageResponse](../../../aspose.pdf.ai/threadmessageresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the details of the thread message.
 

@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets a value indicating whether the collection is read-only.
 
 ```csharp
-public bool IsReadOnly { get; }
+public override bool IsReadOnly { get; }
 ```
 
 ### See Also

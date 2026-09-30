@@ -22,21 +22,21 @@ public sealed class NamedAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [NamedAction](./namedaction/#constructor)(*[PredefinedAction](../../aspose.pdf.annotations/predefinedaction/)*) | Constructor for Named Action class. |
+| [NamedAction](./namedaction/)(PredefinedAction) | Constructor for Named Action class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Name](./name/) { get; set; } | Gets or sets the action to be performed. |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. *(Inherited from PdfAction)* |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/) | Gets string for ECMAScript Action. *(Inherited from PdfAction)* |
-| [ToString](../../aspose.pdf.annotations/iappointment/tostring/) | Returns string representation. *(Inherited from IAppointment)* |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Returns string representation |
 
 ### See Also
 

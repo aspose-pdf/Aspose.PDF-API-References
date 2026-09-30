@@ -19,7 +19,7 @@ public void ExportAnnotationsToXfdf(string fileName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | string | XFDF file name |
+| fileName | String | XFDF file name |
 
 ### See Also
 

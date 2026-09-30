@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/saveoptions.borderpartstyle/borderpartstyle/"
 product_version: "26.9.0"
 ---
-## SaveOptions.BorderPartStyle() {#constructor}
+## BorderPartStyle constructor
 
 The default constructor.
 
 ```csharp
-public SaveOptions.BorderPartStyle()
+public BorderPartStyle()
 ```
 
 ### See Also

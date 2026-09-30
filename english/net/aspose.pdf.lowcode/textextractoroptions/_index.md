@@ -22,22 +22,28 @@ public sealed class TextExtractorOptions : PdfExtractorOptions
 
 | Name | Description |
 | --- | --- |
-| [TextExtractorOptions](./textextractoroptions/#constructor) | Initializes a new instance of the [`TextExtractorOptions`](../../aspose.pdf.lowcode/textextractoroptions/) object with 'Raw' (default) text formatting mode. |
-| [TextExtractorOptions](./textextractoroptions/#constructor_1)(*TextFormattingMode*) | Initializes a new instance of the TextExtractorOptions class. |
+| [TextExtractorOptions](./textextractoroptions/#constructor)() | Initializes a new instance of the [`TextExtractorOptions`](../../aspose.pdf.lowcode/textextractoroptions/) object with 'Raw' (default) text formatting mode. |
+| [TextExtractorOptions](./textextractoroptions/#constructor_1)(TextFormattingMode) | Initializes a new instance of the [`TextExtractorOptions`](../../aspose.pdf.lowcode/textextractoroptions/) object for the specified text formatting mode. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [FormattingMode](./formattingmode/) { get; } | Gets formatting mode. |
-| [Inputs](../../aspose.pdf.lowcode/pdfextractoroptions/inputs/) { get; } | Returns PdfExtractor plugin data collection. *(Inherited from PdfExtractorOptions)* |
-| [OperationName](./operationname/) { get; } | Returns name of the operation. |
+| [Inputs](../../aspose.pdf.lowcode/pdfextractoroptions/inputs/) { get; } | Returns PdfExtractor plugin data collection. |
+| override [OperationName](./operationname/) { get; } | Returns name of the operation. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.lowcode/pdfextractoroptions/addinput/)(*IDataSource*) | Adds new data source to the PdfExtractor plugin data collection. *(Inherited from PdfExtractorOptions)* |
+| [AddInput](../../aspose.pdf.lowcode/pdfextractoroptions/addinput/)(IDataSource) | Adds new data source to the PdfExtractor plugin data collection. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| enum [TextFormattingMode](../../aspose.pdf.lowcode/textextractoroptions.textformattingmode) | Defines different modes which can be used while converting a PDF document into text. See [`TextExtractorOptions`](../../aspose.pdf.lowcode/textextractoroptions/) class. |
 
 ## Remarks
 

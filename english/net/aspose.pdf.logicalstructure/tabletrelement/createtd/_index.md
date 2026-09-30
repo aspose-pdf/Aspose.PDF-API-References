@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.logicalstructure/tabletrelement/createtd/"
 product_version: "26.9.0"
 ---
-## CreateTD() {#createtd}
+## TableTRElement.CreateTD method
 
 Creates [`TableTHElement`](../../../aspose.pdf.logicalstructure/tablethelement/) and added it to current table.
 
@@ -18,8 +18,6 @@ public TableTDElement CreateTD()
 ```
 
 ### Return Value
-
-[TableTDElement](../../../aspose.pdf.logicalstructure/tabletdelement/)
 
 Created structure element.
 

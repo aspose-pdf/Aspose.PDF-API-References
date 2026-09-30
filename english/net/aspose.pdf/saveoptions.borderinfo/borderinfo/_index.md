@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/saveoptions.borderinfo/borderinfo/"
 product_version: "26.9.0"
 ---
-## SaveOptions.BorderInfo() {#constructor}
+## BorderInfo() {#constructor}
 
 Creates instance of BorderInfo class
 
 ```csharp
-public SaveOptions.BorderInfo()
+public BorderInfo()
 ```
 
 ### See Also
@@ -25,17 +25,19 @@ public SaveOptions.BorderInfo()
 
 ---
 
-## SaveOptions.BorderInfo(BorderPartStyle) {#constructor_1}
+## BorderInfo(BorderPartStyle) {#constructor_1}
 
-Initializes a new instance of the SaveOptions.BorderInfo class.
+Creates instance of BorderInfo class and initializes
+ all elements of border(Top, Left, Right, Bottom)
+ with attributes copied from supplied border style
 
 ```csharp
-public SaveOptions.BorderInfo(BorderPartStyle commonStyle)
+public BorderInfo(BorderPartStyle commonStyle)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| commonStyle | BorderPartStyle |  |
+| commonStyle | BorderPartStyle | style of border parts that will be used for all elements of border(left, right, top, bottom) |
 
 ### See Also
 

@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the timeout for Regex operations across the library. The default value is 1000 ms.
 
 ```csharp
-public TimeSpan MatchTimeout { get; set; }
+public static TimeSpan MatchTimeout { get; set; }
 ```
 
 ### Property Value

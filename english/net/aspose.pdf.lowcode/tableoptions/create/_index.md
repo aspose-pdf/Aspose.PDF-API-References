@@ -9,24 +9,21 @@ weight: 50
 url: "/net/aspose.pdf.lowcode/tableoptions/create/"
 product_version: "26.9.0"
 ---
-## Create() {#create}
+## TableOptions.Create method
 
 Create instance of [`TableOptions`](../../../aspose.pdf.lowcode/tableoptions/).
 
 ```csharp
-public TableOptions Create()
+public static TableOptions Create()
 ```
 
 ### Return Value
-
-[TableOptions](../../../aspose.pdf.lowcode/tableoptions/)
 
 New instance of [`TableOptions`](../../../aspose.pdf.lowcode/tableoptions/).
 
 ### See Also
 
 * class [TableOptions](../../../aspose.pdf.lowcode/tableoptions/)
-* class [TableOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/tablegenerator/tablegenerator/"
 product_version: "26.9.0"
 ---
-## TableGenerator() {#constructor}
+## TableGenerator constructor
 
 The default constructor.
 

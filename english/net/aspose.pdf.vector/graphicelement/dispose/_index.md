@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.vector/graphicelement/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## GraphicElement.Dispose method
 
 Releases all resources used by the [`GraphicElement`](../../../aspose.pdf.vector/graphicelement/) class.
 

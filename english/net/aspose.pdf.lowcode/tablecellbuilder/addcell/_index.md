@@ -9,24 +9,21 @@ weight: 20
 url: "/net/aspose.pdf.lowcode/tablecellbuilder/addcell/"
 product_version: "26.9.0"
 ---
-## AddCell() {#addcell}
+## TableCellBuilder.AddCell method
 
 Add cell to table.
 
 ```csharp
-public TableCellBuilder AddCell()
+public override TableCellBuilder AddCell()
 ```
 
 ### Return Value
-
-[TableCellBuilder](../../../aspose.pdf.lowcode/tablecellbuilder/)
 
 Instance of current [`TableCellBuilder`](../../../aspose.pdf.lowcode/tablecellbuilder/).
 
 ### See Also
 
 * class [TableCellBuilder](../../../aspose.pdf.lowcode/tablecellbuilder/)
-* class [TableCellBuilder](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)
 

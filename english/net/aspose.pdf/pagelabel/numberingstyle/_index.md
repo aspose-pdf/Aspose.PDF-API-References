@@ -19,7 +19,7 @@ public NumberingStyle NumberingStyle { get; set; }
 
 ### See Also
 
-* class [NumberingStyle](../../../aspose.pdf/numberingstyle/)
+* enum [NumberingStyle](../../../aspose.pdf/numberingstyle/)
 * class [PageLabel](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

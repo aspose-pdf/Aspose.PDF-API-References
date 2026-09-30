@@ -5,7 +5,7 @@ articleTitle: "TimestampSettings"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.TimestampSettings class. Represents the ocsp settings using during signing process."
 type: docs
-weight: 3050
+weight: 3010
 url: "/net/aspose.pdf/timestampsettings/"
 keywords: "TimestampSettings, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public class TimestampSettings
 
 | Name | Description |
 | --- | --- |
-| [TimestampSettings](./timestampsettings/#constructor)(*string, string, [DigestHashAlgorithm](../../aspose.pdf/digesthashalgorithm/)*) | Initializes a new instance of the [`TimestampSettings`](../../aspose.pdf/timestampsettings/) class. |
+| [TimestampSettings](./timestampsettings/)(string, string, DigestHashAlgorithm) | Initializes a new instance of the [`TimestampSettings`](../../aspose.pdf/timestampsettings/) class. |
 
 ## Properties
 

@@ -14,8 +14,16 @@ product_version: "26.9.0"
 
 
 ```csharp
-public delegate void SelectField()
+public delegate bool SelectField(Field field);
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| field | Field |  |
+
+### Return Value
+
+bool
 
 ### See Also
 

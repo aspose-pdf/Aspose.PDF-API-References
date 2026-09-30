@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/endpath/endpath/"
 product_version: "26.9.0"
 ---
-## EndPath() {#constructor}
+## EndPath constructor
 
 Initializes operator.
 

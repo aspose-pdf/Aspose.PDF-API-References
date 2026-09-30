@@ -22,16 +22,16 @@ public sealed class ValidationOptions
 
 | Name | Description |
 | --- | --- |
-| [ValidationOptions](./validationoptions/#constructor) | The default constructor. |
+| [ValidationOptions](./validationoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CheckCertificateChain](./checkcertificatechain/) { get; set; } | Gets or sets a value indicating whether the certificate chain. |
-| [RequestTimeout](./requesttimeout/) { get; set; } | Gets or sets the timeout duration, in milliseconds, for network-related operations during the validation process. |
+| [CheckCertificateChain](./checkcertificatechain/) { get; set; } | Gets or sets a value indicating whether the certificate chain should be checked during the validation process. |
+| [RequestTimeout](./requesttimeout/) { get; set; } | Gets or sets the timeout duration, in milliseconds, for network-related operations during the validation process. The RequestTimeout property defines the maximum time the system should wait for a network response when accessing online resources, such as revocation status or OCSP servers. |
 | [ValidationMethod](./validationmethod/) { get; set; } | Gets or sets the method used to validate a certificate. |
-| [ValidationMode](./validationmode/) { get; set; } | Gets or sets the mode of validation for digital signatures in a PDF document. |
+| [ValidationMode](./validationmode/) { get; set; } | Gets or sets the mode of validation for digital signatures in a PDF document. The ValidationMode property determines the strictness of the validation process. |
 
 ### See Also
 

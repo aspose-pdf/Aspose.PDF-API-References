@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf.ai/dataresponse-1/dataresponse/"
 product_version: "26.9.0"
 ---
-## DataResponse<T>() {#constructor}
+## DataResponse constructor
 
 The default constructor.
 
 ```csharp
-public DataResponse<T>()
+public DataResponse()
 ```
 
 ### See Also

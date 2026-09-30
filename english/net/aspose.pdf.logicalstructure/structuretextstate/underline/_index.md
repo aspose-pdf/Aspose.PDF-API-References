@@ -16,7 +16,7 @@ Gets or sets underline for the text.
 Can be null. Use null to inherit `Underline` property from parent structure element.
 
 ```csharp
-public Nullable<bool> Underline { get; set; }
+public bool? Underline { get; set; }
 ```
 
 ### See Also

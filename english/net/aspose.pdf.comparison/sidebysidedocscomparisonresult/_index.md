@@ -22,14 +22,14 @@ public class SideBySideDocsComparisonResult
 
 | Name | Description |
 | --- | --- |
-| [SideBySideDocsComparisonResult](./sidebysidedocscomparisonresult/#constructor)(*bool, List<List<EditContainer>>, List<List<EditContainer>>, List<List<DiffOperation>>*) | Creates an instance of [`SideBySideDocsComparisonResult`](../../aspose.pdf.comparison/sidebysidedocscomparisonresult/) class. |
+| [SideBySideDocsComparisonResult](./sidebysidedocscomparisonresult/)(bool, List<List<EditContainer>>, List<List<EditContainer>>, List<List<DiffOperation>>) | Creates an instance of [`SideBySideDocsComparisonResult`](../../aspose.pdf.comparison/sidebysidedocscomparisonresult/) class |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [FirstDocChanges](./firstdocchanges/) { get; } | Get a list of changes to the pages of the first document. |
-| [FullChanges](./fullchanges/) { get; } | Get a complete list of changes to the pages of the document. |
+| [FullChanges](./fullchanges/) { get; } | Get a complete list of changes to the pages of the document. Each index in the list represents the two pages of the document that are being compared, and the list of change operations represents the list of changes to those pages. |
 | [HasChanges](./haschanges/) { get; } | Gets the value indicates whether there are any changes between the compared documents. |
 | [SecondDocChanges](./seconddocchanges/) { get; } | Get a list of changes to the pages of the second document. |
 

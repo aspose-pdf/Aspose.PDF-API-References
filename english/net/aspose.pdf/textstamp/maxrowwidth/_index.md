@@ -5,7 +5,7 @@ articleTitle: "MaxRowWidth"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "TextStamp property. Max row height for WordWrap option."
 type: docs
-weight: 190
+weight: 180
 url: "/net/aspose.pdf/textstamp/maxrowwidth/"
 product_version: "26.9.0"
 ---

@@ -15,7 +15,7 @@ Gets or sets the position in the current coordinate space.
  If `Parent` is not `!:null` then the element have xForm coordinate space.
 
 ```csharp
-public Point Position { get; set; }
+public virtual Point Position { get; set; }
 ```
 
 ### See Also

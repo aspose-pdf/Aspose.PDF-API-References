@@ -19,11 +19,9 @@ public Document OpenFile(string filename)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | The name of the pdf document file. |
+| filename | String | The name of the pdf document file. |
 
 ### Return Value
-
-[Document](../../../aspose.pdf/document/)
 
 Document object
 
@@ -46,12 +44,10 @@ public Document OpenFile(string filename, string password)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | Document file name. |
-| password | string | User or owner password. |
+| filename | String | Document file name. |
+| password | String | User or owner password. |
 
 ### Return Value
-
-[Document](../../../aspose.pdf/document/)
 
 Document object
 
@@ -74,13 +70,11 @@ public Document OpenFile(string filename, string password, bool isManagedStream)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | Document file name. |
-| password | string | User or owner password. |
-| isManagedStream | bool | if set to `true` inner stream is closed before exit; otherwise, is not. |
+| filename | String | Document file name. |
+| password | String | User or owner password. |
+| isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
 
 ### Return Value
-
-[Document](../../../aspose.pdf/document/)
 
 Document object
 
@@ -103,18 +97,17 @@ public Document OpenFile(string filename, LoadOptions options)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | Input file to convert into pdf document. |
+| filename | String | Input file to convert into pdf document. |
 | options | LoadOptions | Represents properties for converting *filename* into pdf document. |
 
 ### Return Value
-
-[Document](../../../aspose.pdf/document/)
 
 Document object
 
 ### See Also
 
 * class [Document](../../../aspose.pdf/document/)
+* class [LoadOptions](../../../aspose.pdf/loadoptions/)
 * class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

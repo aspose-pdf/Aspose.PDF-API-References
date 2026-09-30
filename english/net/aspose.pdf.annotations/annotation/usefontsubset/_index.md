@@ -14,7 +14,7 @@ product_version: "26.9.0"
 If this property set to true, fonts will be added to document as subsets. Default value is true.
 
 ```csharp
-public bool UseFontSubset { get; set; }
+public static bool UseFontSubset { get; set; }
 ```
 
 ### See Also

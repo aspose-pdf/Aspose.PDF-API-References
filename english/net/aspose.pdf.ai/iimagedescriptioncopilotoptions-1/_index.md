@@ -9,12 +9,12 @@ weight: 540
 url: "/net/aspose.pdf.ai/iimagedescriptioncopilotoptions-1/"
 product_version: "26.9.0"
 ---
-## IImageDescriptionCopilotOptions<TOptions> interface
+## IImageDescriptionCopilotOptions&lt;TOptions&gt; interface
 
 Represents an interface for image description copilot options with a specific type.
 
 ```csharp
-public interface IImageDescriptionCopilotOptions<TOptions><TOptions>
+public interface IImageDescriptionCopilotOptions<out TOptions>
 ```
 
 ## Type Parameters

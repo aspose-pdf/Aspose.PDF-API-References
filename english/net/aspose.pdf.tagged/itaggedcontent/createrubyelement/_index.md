@@ -9,7 +9,7 @@ weight: 360
 url: "/net/aspose.pdf.tagged/itaggedcontent/createrubyelement/"
 product_version: "26.9.0"
 ---
-## CreateRubyElement() {#createrubyelement}
+## ITaggedContent.CreateRubyElement method
 
 Creates [`RubyElement`](../../../aspose.pdf.logicalstructure/rubyelement/).
 
@@ -18,8 +18,6 @@ public RubyElement CreateRubyElement()
 ```
 
 ### Return Value
-
-[RubyElement](../../../aspose.pdf.logicalstructure/rubyelement/)
 
 Created structure element.
 

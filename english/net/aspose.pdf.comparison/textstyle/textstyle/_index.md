@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.comparison/textstyle/textstyle/"
 product_version: "26.9.0"
 ---
-## TextStyle() {#constructor}
+## TextStyle constructor
 
 The default constructor.
 

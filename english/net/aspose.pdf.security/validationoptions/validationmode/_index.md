@@ -20,7 +20,7 @@ public ValidationMode ValidationMode { get; set; }
 
 ### See Also
 
-* class [ValidationMode](../../../aspose.pdf.security/validationmode/)
+* enum [ValidationMode](../../../aspose.pdf.security/validationmode/)
 * class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)

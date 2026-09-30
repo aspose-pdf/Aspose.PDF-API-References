@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf/pagecollection/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## PageCollection.GetEnumerator method
 
 Returns enumerator of pages.
 
@@ -18,8 +18,6 @@ public IEnumerator<Page> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[Page](../../../aspose.pdf/page/)>
 
 Enumerator of pages
 

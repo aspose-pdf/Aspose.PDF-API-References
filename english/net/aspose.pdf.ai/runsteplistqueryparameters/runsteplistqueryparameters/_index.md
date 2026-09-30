@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/runsteplistqueryparameters/runsteplistqueryparameters/"
 product_version: "26.9.0"
 ---
-## RunStepListQueryParameters() {#constructor}
+## RunStepListQueryParameters constructor
 
 The default constructor.
 

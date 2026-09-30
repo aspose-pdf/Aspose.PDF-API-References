@@ -3,19 +3,52 @@ title: "Field.Item"
 linktitle: "Item"
 articleTitle: "Item"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "Field property. Gets subfield contained in this field by index."
+description: "Field property. Gets subfield contained in this field by name of the subfield."
 type: docs
-weight: 210
+weight: 190
 url: "/net/aspose.pdf.forms/field/item/"
 product_version: "26.9.0"
 ---
-## Field.Item property
+## Field indexer (1 of 2)
+
+Gets subfield contained in this field by name of the subfield.
+
+```csharp
+public WidgetAnnotation this[string name] { get; }
+```
+
+| Parameter | Description |
+| --- | --- |
+| name | Contained subfield name. |
+
+### Return Value
+
+Field instance.
+
+### See Also
+
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Field indexer (2 of 2)
 
 Gets subfield contained in this field by index.
 
 ```csharp
-public WidgetAnnotation Item { get; }
+public WidgetAnnotation this[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Index of the reuqested subfield. |
+
+### Return Value
+
+Field instance.
 
 ### See Also
 

@@ -9,18 +9,19 @@ weight: 10
 url: "/net/aspose.pdf.ai/aicopilotfactory/createsummarycopilot/"
 product_version: "26.9.0"
 ---
-## CreateSummaryCopilot(ISummaryClient<T0>, ISummaryCopilotOptions<T0>) {#createsummarycopilot}
+## AICopilotFactory.CreateSummaryCopilot&lt;TOptions&gt; method
 
 Creates a summary copilot based on the client and options.
 
 ```csharp
-public ISummaryCopilot CreateSummaryCopilot(ISummaryClient<T0> client, ISummaryCopilotOptions<T0> options)
+public static ISummaryCopilot CreateSummaryCopilot<TOptions>(ISummaryClient<TOptions> client, 
+    ISummaryCopilotOptions<TOptions> options)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| client | ISummaryClient<T0> |  |
-| options | ISummaryCopilotOptions<T0> |  |
+| client | ISummaryClient`1 |  |
+| options | ISummaryCopilotOptions`1 |  |
 
 ### Return Value
 
@@ -28,7 +29,7 @@ public ISummaryCopilot CreateSummaryCopilot(ISummaryClient<T0> client, ISummaryC
 
 ### See Also
 
-* class [ISummaryCopilot](../../../aspose.pdf.ai/isummarycopilot/)
+* interface [ISummaryCopilot](../../../aspose.pdf.ai/isummarycopilot/)
 * class [AICopilotFactory](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

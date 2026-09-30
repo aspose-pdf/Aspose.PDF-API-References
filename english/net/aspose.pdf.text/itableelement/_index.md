@@ -21,7 +21,7 @@ public interface ITableElement
 
 | Name | Description |
 | --- | --- |
-| [Rectangle](./rectangle/) { get; } | Gets rectangle that describes position of table element on the page. |
+| [Rectangle](./rectangle/) { get; } | Gets rectangle that describes position of table element on the page |
 
 ### See Also
 

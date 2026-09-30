@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/rotateoptions/rotateoptions/"
 product_version: "26.9.0"
 ---
-## RotateOptions() {#constructor}
+## RotateOptions constructor
 
 The default constructor.
 

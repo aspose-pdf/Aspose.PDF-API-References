@@ -9,7 +9,7 @@ weight: 120
 url: "/net/aspose.pdf.tagged/itaggedcontent/createnonstructelement/"
 product_version: "26.9.0"
 ---
-## CreateNonStructElement() {#createnonstructelement}
+## ITaggedContent.CreateNonStructElement method
 
 Creates [`NonStructElement`](../../../aspose.pdf.logicalstructure/nonstructelement/).
 
@@ -18,8 +18,6 @@ public NonStructElement CreateNonStructElement()
 ```
 
 ### Return Value
-
-[NonStructElement](../../../aspose.pdf.logicalstructure/nonstructelement/)
 
 Created structure element.
 

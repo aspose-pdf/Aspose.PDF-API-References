@@ -9,7 +9,7 @@ weight: 580
 url: "/net/aspose.pdf.facades/pdfcontenteditor/showstampbyid/"
 product_version: "26.9.0"
 ---
-## ShowStampById(int, int) {#showstampbyid}
+## PdfContentEditor.ShowStampById method
 
 Shows stamp which was hidden by HiddenStampById.
 
@@ -19,8 +19,8 @@ public void ShowStampById(int pageNumber, int stampId)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | int | Number of the page. |
-| stampId | int | Identifier of stamp which should be shown. |
+| pageNumber | Int32 | Number of the page. |
+| stampId | Int32 | Identifier of stamp which should be shown. |
 
 ### See Also
 

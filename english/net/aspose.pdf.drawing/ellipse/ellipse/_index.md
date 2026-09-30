@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.drawing/ellipse/ellipse/"
 product_version: "26.9.0"
 ---
-## Ellipse(double, double, double, double) {#constructor}
+## Ellipse constructor
 
 Initializes a new instance of the [`Ellipse`](../../../aspose.pdf.drawing/ellipse/) class.
 
@@ -19,10 +19,10 @@ public Ellipse(double left, double bottom, double width, double height)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| left | double | The left position of the ellipse. |
-| bottom | double | The bottom position of the ellipse. |
-| width | double | The width of the ellipse. |
-| height | double | The height of the ellipse. |
+| left | Double | The left position of the ellipse. |
+| bottom | Double | The bottom position of the ellipse. |
+| width | Double | The width of the ellipse. |
+| height | Double | The height of the ellipse. |
 
 ### See Also
 

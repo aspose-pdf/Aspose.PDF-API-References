@@ -22,7 +22,7 @@ public sealed class HtmlToPdfOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [HtmlToPdfOptions](./htmltopdfoptions/#constructor) | The default constructor. |
+| [HtmlToPdfOptions](./htmltopdfoptions/)() | The default constructor. |
 
 ## Properties
 
@@ -30,10 +30,10 @@ public sealed class HtmlToPdfOptions : PdfConverterOptions
 | --- | --- |
 | [BasePath](./basepath/) { get; set; } | The base path/url for the html file. |
 | [HtmlMediaType](./htmlmediatype/) { get; set; } | Gets or sets possible media types used during rendering. |
-| [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. *(Inherited from PdfConverterOptions)* |
+| [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
 | [IsRenderToSinglePage](./isrendertosinglepage/) { get; set; } | Gets or sets rendering all document to single page. |
-| [OperationName](./operationname/) { get; } | Gets name of the operation. |
-| [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. *(Inherited from PdfConverterOptions)* |
+| override [OperationName](./operationname/) { get; } | Gets name of the operation. |
+| [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 | [PageInfo](./pageinfo/) { get; set; } | Gets or sets document page info. |
 | [PageLayoutOption](./pagelayoutoption/) { get; set; } | Gets or sets layout option. |
 
@@ -41,8 +41,8 @@ public sealed class HtmlToPdfOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.lowcode/pdfconverteroptions/addinput/)(*IDataSource*) | Adds new data source to the PdfConverter plugin data collection. *(Inherited from PdfConverterOptions)* |
-| [AddOutput](../../aspose.pdf.lowcode/pdfconverteroptions/addoutput/)(*IDataSource*) | Adds new data source to the PdfToXLSXConverterOptions plugin data collection. *(Inherited from PdfConverterOptions)* |
+| [AddInput](../../aspose.pdf.lowcode/pdfconverteroptions/addinput/)(IDataSource) | Adds new data source to the PdfConverter plugin data collection. |
+| [AddOutput](../../aspose.pdf.lowcode/pdfconverteroptions/addoutput/)(IDataSource) | Adds new data source to the PdfToXLSXConverterOptions plugin data collection. |
 
 ### See Also
 

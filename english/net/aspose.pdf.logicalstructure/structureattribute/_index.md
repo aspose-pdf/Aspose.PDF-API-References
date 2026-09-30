@@ -22,7 +22,7 @@ public class StructureAttribute
 
 | Name | Description |
 | --- | --- |
-| [StructureAttribute](./structureattribute/#constructor)(*[AttributeKey](../../aspose.pdf.logicalstructure/attributekey/)*) | Initializes a new instance of the StructureAttribute. |
+| [StructureAttribute](./structureattribute/)(AttributeKey) | Initializes a new instance of the StructureAttribute. |
 
 ## Properties
 
@@ -35,19 +35,19 @@ public class StructureAttribute
 
 | Name | Description |
 | --- | --- |
-| [GetArrayNumberValue](./getarraynumbervalue/) | Gets Value Number Array. |
-| [GetArrayValue](./getarrayvalue/) | Gets Value Name Array. |
-| [GetNameValue](./getnamevalue/) | Gets Value Name. |
-| [GetNumberValue](./getnumbervalue/) | Gets Value Number. |
-| [GetStringValue](./getstringvalue/) | Gets Value String. |
-| [SetArrayNumberValue](./setarraynumbervalue/)(*Nullable<double>[]*) |  |
-| [SetArrayValue](./setarrayvalue/)(*AttributeName[]*) | Sets Value Name Array. |
-| [SetColorValue](./setcolorvalue/)(*Color*) | Sets Value Color. |
-| [SetNameValue](./setnamevalue/)(*AttributeName*) | Sets Value Name. |
-| [SetNumberValue](./setnumbervalue/)(*double*) | Sets Value Number. |
-| [SetRectangleValue](./setrectanglevalue/)(*Rectangle*) | Sets Value Rectangle. |
-| [SetStringValue](./setstringvalue/)(*string*) | Sets Value String. |
-| [ToString](./tostring/) |  |
+| [GetArrayNumberValue](./getarraynumbervalue/)() | Gets Value Number Array. |
+| [GetArrayValue](./getarrayvalue/)() | Gets Value Name Array. |
+| [GetNameValue](./getnamevalue/)() | Gets Value Name. |
+| [GetNumberValue](./getnumbervalue/)() | Gets Value Number. |
+| [GetStringValue](./getstringvalue/)() | Gets Value String. |
+| [SetArrayNumberValue](./setarraynumbervalue/)(double?[]) |  |
+| [SetArrayValue](./setarrayvalue/)(AttributeName[]) | Sets Value Name Array. |
+| [SetColorValue](./setcolorvalue/)(Color) | Sets Value Color. |
+| [SetNameValue](./setnamevalue/)(AttributeName) | Sets Value Name. |
+| [SetNumberValue](./setnumbervalue/)(double) | Sets Value Number. |
+| [SetRectangleValue](./setrectanglevalue/)(Rectangle) | Sets Value Rectangle. |
+| [SetStringValue](./setstringvalue/)(string) | Sets Value String. |
+| override [ToString](./tostring/)() |  |
 
 ### See Also
 

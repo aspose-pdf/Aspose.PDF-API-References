@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/truncationstrategy/truncationstrategy/"
 product_version: "26.9.0"
 ---
-## TruncationStrategy() {#constructor}
+## TruncationStrategy constructor
 
 The default constructor.
 

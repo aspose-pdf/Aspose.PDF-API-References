@@ -9,12 +9,12 @@ weight: 400
 url: "/net/aspose.pdf.facades/pdfconverter/close/"
 product_version: "26.9.0"
 ---
-## Close() {#close}
+## PdfConverter.Close method
 
 Close the instance of PdfConverter and release the resources.
 
 ```csharp
-public void Close()
+public override void Close()
 ```
 
 ### See Also

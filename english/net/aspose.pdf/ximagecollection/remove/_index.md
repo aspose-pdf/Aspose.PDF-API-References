@@ -9,7 +9,7 @@ weight: 200
 url: "/net/aspose.pdf/ximagecollection/remove/"
 product_version: "26.9.0"
 ---
-## Remove([XImage](../../../aspose.pdf/ximage/)) {#remove}
+## XImageCollection.Remove method
 
 Removes item from collection, throws NotImplementedException.
 
@@ -23,8 +23,6 @@ public bool Remove(XImage item)
 
 ### Return Value
 
-bool
-
 NotImplementedException
 
 ### Exceptions
@@ -36,6 +34,7 @@ NotImplementedException
 
 ### See Also
 
+* class [XImage](../../../aspose.pdf/ximage/)
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

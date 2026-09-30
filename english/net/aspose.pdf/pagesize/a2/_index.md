@@ -14,13 +14,12 @@ product_version: "26.9.0"
 A2 size (594x420 mm).
 
 ```csharp
-public PageSize A2 { get; }
+public static PageSize A2 { get; }
 ```
 
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

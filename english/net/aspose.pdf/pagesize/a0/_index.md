@@ -14,13 +14,12 @@ product_version: "26.9.0"
 A0 size (1189x840 mm).
 
 ```csharp
-public PageSize A0 { get; }
+public static PageSize A0 { get; }
 ```
 
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

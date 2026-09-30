@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/vectorstorefilecreaterequest/vectorstorefilecreaterequest/"
 product_version: "26.9.0"
 ---
-## VectorStoreFileCreateRequest() {#constructor}
+## VectorStoreFileCreateRequest constructor
 
 The default constructor.
 

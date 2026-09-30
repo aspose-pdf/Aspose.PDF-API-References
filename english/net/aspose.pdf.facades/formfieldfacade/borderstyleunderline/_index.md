@@ -5,7 +5,7 @@ articleTitle: "BorderStyleUnderline"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormFieldFacade field. Defines an underlined border style."
 type: docs
-weight: 310
+weight: 290
 url: "/net/aspose.pdf.facades/formfieldfacade/borderstyleunderline/"
 product_version: "26.9.0"
 ---

@@ -22,7 +22,7 @@ public class LlamaChatCompletionResponse : BaseResponse
 
 | Name | Description |
 | --- | --- |
-| [LlamaChatCompletionResponse](./llamachatcompletionresponse/#constructor) | The default constructor. |
+| [LlamaChatCompletionResponse](./llamachatcompletionresponse/)() | The default constructor. |
 
 ## Properties
 
@@ -30,16 +30,16 @@ public class LlamaChatCompletionResponse : BaseResponse
 | --- | --- |
 | [Choices](./choices/) { get; set; } | Gets or sets a list of chat completion choices. Can be more than one if n is greater than 1. |
 | [Created](./created/) { get; set; } | Gets or sets the Unix timestamp (in seconds) of when the chat completion was created. |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. *(Inherited from BaseResponse)* |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. *(Inherited from BaseResponse)* |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. *(Inherited from BaseResponse)* |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Gets or sets the HTTP response headers. *(Inherited from BaseResponse)* |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Gets or sets the HTTP status code. *(Inherited from BaseResponse)* |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Gets or sets the HTTP response headers. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Gets or sets the HTTP status code. |
 | [Id](./id/) { get; set; } | Gets or sets a unique identifier for the chat completion. |
-| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indicates if the response was successful. *(Inherited from BaseResponse)* |
+| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indicates if the response was successful. |
 | [Model](./model/) { get; set; } | Gets or sets the model used for the chat completion. |
 | [Object](./object/) { get; set; } | Gets or sets the object type, which is always chat.completion. |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Gets the error reason phrase. *(Inherited from BaseResponse)* |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Gets the error reason phrase. |
 | [SystemFingerprint](./systemfingerprint/) { get; set; } | Gets or sets the fingerprint that represents the backend configuration that the model runs with. |
 | [Usage](./usage/) { get; set; } | Gets or sets usage statistics for the completion request. |
 
@@ -47,7 +47,7 @@ public class LlamaChatCompletionResponse : BaseResponse
 
 | Name | Description |
 | --- | --- |
-| [ToString](./tostring/) | Returns a string representation of the first choice. |
+| override [ToString](./tostring/)() | Returns a string representation of the first choice. |
 
 ### See Also
 

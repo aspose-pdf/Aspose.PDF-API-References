@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.logicalstructure/tableelement/createtbody/"
 product_version: "26.9.0"
 ---
-## CreateTBody() {#createtbody}
+## TableElement.CreateTBody method
 
 Creates [`TableTHeadElement`](../../../aspose.pdf.logicalstructure/tabletheadelement/) and added it to current table.
 
@@ -18,8 +18,6 @@ public TableTBodyElement CreateTBody()
 ```
 
 ### Return Value
-
-[TableTBodyElement](../../../aspose.pdf.logicalstructure/tabletbodyelement/)
 
 Created structure element.
 

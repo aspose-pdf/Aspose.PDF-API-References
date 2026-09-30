@@ -5,7 +5,7 @@ articleTitle: "CopyOuterField"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormEditor method. Copies an existing field from one PDF document to another document with original page number and ordinates. Notice: Only for AcroForm fiel..."
 type: docs
-weight: 230
+weight: 180
 url: "/net/aspose.pdf.facades/formeditor/copyouterfield/"
 product_version: "26.9.0"
 ---
@@ -20,8 +20,8 @@ public void CopyOuterField(string srcFileName, string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFileName | string | The name of PDF document which containes the field to be copied. |
-| fieldName | string | The original fully qualified field name. |
+| srcFileName | String | The name of PDF document which containes the field to be copied. |
+| fieldName | String | The original fully qualified field name. |
 
 ### See Also
 
@@ -42,9 +42,9 @@ public void CopyOuterField(string srcFileName, string fieldName, int pageNum)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFileName | string | The name of PDF document which containes the field to be copied. |
-| fieldName | string | The original fully qualified field name. |
-| pageNum | int | The number of page to hold the new field. If -1, new field will be copid to the same page as old one hosted. |
+| srcFileName | String | The name of PDF document which containes the field to be copied. |
+| fieldName | String | The original fully qualified field name. |
+| pageNum | Int32 | The number of page to hold the new field. If -1, new field will be copid to the same page as old one hosted. |
 
 ### See Also
 
@@ -60,16 +60,17 @@ Copies an existing field from one PDF document to another document with specifie
  Notice: Only for AcroForm fields (excluding radio box).
 
 ```csharp
-public void CopyOuterField(string srcFileName, string fieldName, int pageNum, float abscissa, float ordinate)
+public void CopyOuterField(string srcFileName, string fieldName, int pageNum, float abscissa, 
+    float ordinate)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFileName | string | The name of PDF document which containes the field to be copied. |
-| fieldName | string | The original fully qualified field name. |
-| pageNum | int | The number of page to hold the new field. If -1, new field will be copid to the same page as old one hosted. |
-| abscissa | float | The abscissa of the new field. If -1, the abscissa will be equaled to the original one. |
-| ordinate | float | The ordinate of the new field. If -1, the ordinate will be equaled to the original one. |
+| srcFileName | String | The name of PDF document which containes the field to be copied. |
+| fieldName | String | The original fully qualified field name. |
+| pageNum | Int32 | The number of page to hold the new field. If -1, new field will be copid to the same page as old one hosted. |
+| abscissa | Single | The abscissa of the new field. If -1, the abscissa will be equaled to the original one. |
+| ordinate | Single | The ordinate of the new field. If -1, the ordinate will be equaled to the original one. |
 
 ### See Also
 

@@ -5,7 +5,7 @@ articleTitle: "PageMode"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.PageMode enum. Class descibes used components of the document page."
 type: docs
-weight: 2260
+weight: 2220
 url: "/net/aspose.pdf/pagemode/"
 product_version: "26.9.0"
 ---

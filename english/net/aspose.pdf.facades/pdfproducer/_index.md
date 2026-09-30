@@ -5,7 +5,7 @@ articleTitle: "PdfProducer"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.PdfProducer class. Represents a class to produce PDF from other formats. This sample shows how to produce Pdf file from CGM file. string i..."
 type: docs
-weight: 500
+weight: 490
 url: "/net/aspose.pdf.facades/pdfproducer/"
 keywords: "PdfProducer, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -53,14 +53,14 @@ string inputFile = "myImage.cgm";
 
 | Name | Description |
 | --- | --- |
-| [Produce](./produce/)(*Stream, ImportFormat, Stream*) | Produce the PDF stream using specified import format. |
-| [Produce](./produce/)(*string, ImportFormat, Stream*) | Produce the PDF stream using specified import format. |
-| [Produce](./produce/)(*Stream, ImportFormat, string*) | Produce the PDF file using specified import format. |
-| [Produce](./produce/)(*string, ImportFormat, string*) | Produce the PDF file using specified import format. |
-| [Produce](./produce/)(*string, ImportOptions, Stream*) | Produce the PDF stream using specified import option. |
-| [Produce](./produce/)(*Stream, ImportOptions, string*) | Produce the PDF file using specified import option. |
-| [Produce](./produce/)(*string, ImportOptions, string*) | Produce the PDF file using specified import option. |
-| [Produce](./produce/)(*Stream, ImportOptions, Stream*) | Produce the PDF file using specified import option. |
+| static [Produce](./produce/)(Stream, ImportFormat, Stream) | Produce the PDF stream using specified import format. This sample shows how to produce Pdf stream from CGM stream. |
+| static [Produce](./produce/)(Stream, ImportFormat, string) | Produce the PDF file using specified import format. This sample shows how to produce Pdf file from CGM stream. |
+| static [Produce](./produce/)(Stream, ImportOptions, Stream) | Produce the PDF file using specified import option. This sample shows how to produce Pdf stream from CGM stream. |
+| static [Produce](./produce/)(Stream, ImportOptions, string) | Produce the PDF file using specified import option. This sample shows how to produce Pdf file from CGM stream. |
+| static [Produce](./produce/)(string, ImportFormat, Stream) | Produce the PDF stream using specified import format. This sample shows how to produce Pdf stream from CGM file. |
+| static [Produce](./produce/)(string, ImportFormat, string) | Produce the PDF file using specified import format. This sample shows how to produce Pdf file from CGM file. |
+| static [Produce](./produce/)(string, ImportOptions, Stream) | Produce the PDF stream using specified import option. This sample shows how to produce Pdf stream from CGM file. |
+| static [Produce](./produce/)(string, ImportOptions, string) | Produce the PDF file using specified import option. This sample shows how to produce Pdf file from CGM file. |
 
 ### See Also
 

@@ -22,7 +22,7 @@ public class PDF3DCrossSectionArray
 
 | Name | Description |
 | --- | --- |
-| [PDF3DCrossSectionArray](./pdf3dcrosssectionarray/#constructor)(*[Document](../../aspose.pdf/document/)*) | Initializes a new instance of the [`PDF3DCrossSectionArray`](../../aspose.pdf.annotations/pdf3dcrosssectionarray/) class. |
+| [PDF3DCrossSectionArray](./pdf3dcrosssectionarray/)(Document) | Initializes a new instance of the [`PDF3DCrossSectionArray`](../../aspose.pdf.annotations/pdf3dcrosssectionarray/) class. |
 
 ## Properties
 
@@ -35,9 +35,9 @@ public class PDF3DCrossSectionArray
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*PDF3DCrossSection*) | Adds the specified cross section to views array . |
-| [RemoveAll](./removeall/) | Removes all cross section from array. |
-| [RemoveAt](./removeat/)(*int*) | Removes cross section from array at specified index. |
+| [Add](./add/)(PDF3DCrossSection) | Adds the specified cross section to views array . |
+| [RemoveAll](./removeall/)() | Removes all cross section from array. |
+| [RemoveAt](./removeat/)(int) | Removes cross section from array at specified index. |
 
 ### See Also
 

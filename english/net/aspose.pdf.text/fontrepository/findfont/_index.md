@@ -14,16 +14,14 @@ product_version: "26.9.0"
 Searches and returns font with specified font name.
 
 ```csharp
-public Font FindFont(string fontName)
+public static Font FindFont(string fontName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontName | string | Font name. |
+| fontName | String | Font name. |
 
 ### Return Value
-
-[Font](../../../aspose.pdf.text/font/)
 
 Font object.
 
@@ -41,17 +39,15 @@ Font object.
 Searches and returns font with specified font name ignoring or honoring case sensitivity.
 
 ```csharp
-public Font FindFont(string fontName, bool ignoreCase)
+public static Font FindFont(string fontName, bool ignoreCase)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontName | string | Font name. |
-| ignoreCase | bool | case sensitivity |
+| fontName | String | Font name. |
+| ignoreCase | Boolean | case sensitivity |
 
 ### Return Value
-
-[Font](../../../aspose.pdf.text/font/)
 
 Font object.
 
@@ -69,23 +65,22 @@ Font object.
 Searches and returns font with specified font name and font style.
 
 ```csharp
-public Font FindFont(string fontFamilyName, FontStyles stl)
+public static Font FindFont(string fontFamilyName, FontStyles stl)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontFamilyName | string | Font family name. |
+| fontFamilyName | String | Font family name. |
 | stl | FontStyles | Font style value. |
 
 ### Return Value
-
-[Font](../../../aspose.pdf.text/font/)
 
 Font object corresponding to search request parameters.
 
 ### See Also
 
 * class [Font](../../../aspose.pdf.text/font/)
+* enum [FontStyles](../../../aspose.pdf.text/fontstyles/)
 * class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -98,24 +93,23 @@ Searches and returns font with specified font name and font style
  ignoring or honoring case sensitivity.
 
 ```csharp
-public Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCase)
+public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCase)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontFamilyName | string | Font family name. |
+| fontFamilyName | String | Font family name. |
 | stl | FontStyles | Font style value. |
-| ignoreCase | bool | case sensitivity |
+| ignoreCase | Boolean | case sensitivity |
 
 ### Return Value
-
-[Font](../../../aspose.pdf.text/font/)
 
 Font object corresponding to search request parameters.
 
 ### See Also
 
 * class [Font](../../../aspose.pdf.text/font/)
+* enum [FontStyles](../../../aspose.pdf.text/fontstyles/)
 * class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

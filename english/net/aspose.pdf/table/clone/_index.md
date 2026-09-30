@@ -9,17 +9,15 @@ weight: 100
 url: "/net/aspose.pdf/table/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## Table.Clone method
 
 Clone the table.
 
 ```csharp
-public object Clone()
+public override object Clone()
 ```
 
 ### Return Value
-
-object
 
 The cloned object
 

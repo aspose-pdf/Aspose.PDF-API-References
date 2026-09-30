@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/textextractor/textextractor/"
 product_version: "26.9.0"
 ---
-## TextExtractor() {#constructor}
+## TextExtractor constructor
 
 The default constructor.
 

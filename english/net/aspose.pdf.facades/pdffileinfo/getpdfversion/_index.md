@@ -9,7 +9,7 @@ weight: 180
 url: "/net/aspose.pdf.facades/pdffileinfo/getpdfversion/"
 product_version: "26.9.0"
 ---
-## GetPdfVersion() {#getpdfversion}
+## PdfFileInfo.GetPdfVersion method
 
 Gets the version info of PDF document.
 
@@ -18,8 +18,6 @@ public string GetPdfVersion()
 ```
 
 ### Return Value
-
-string
 
 The version string.
 

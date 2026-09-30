@@ -21,10 +21,12 @@ public SoundAnnotation(Page page, Rectangle rect, string soundFile)
 | --- | --- | --- |
 | page | Page | The document's page where annotation should be created. |
 | rect | Rectangle | The annotation rectangle, defining the location of the annotation on the page. |
-| soundFile | string | A sound file defining the sound to be played when the annotation is activated. |
+| soundFile | String | A sound file defining the sound to be played when the annotation is activated. |
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [SoundAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -43,11 +45,14 @@ public SoundAnnotation(Page page, Rectangle rect, string soundFile, SoundSampleD
 | --- | --- | --- |
 | page | Page | The document's page where annotation should be created. |
 | rect | Rectangle | The annotation rectangle, defining the location of the annotation on the page. |
-| soundFile | string | A sound file defining the sound to be played when the annotation is activated. |
+| soundFile | String | A sound file defining the sound to be played when the annotation is activated. |
 | soundSampleData | SoundSampleData | A sound sample data contains extra of sound parameters such as sampling rate, bits per sample and so on. |
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [SoundSampleData](../../../aspose.pdf.annotations/soundsampledata/)
 * class [SoundAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

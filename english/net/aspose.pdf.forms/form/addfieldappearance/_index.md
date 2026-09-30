@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf.forms/form/addfieldappearance/"
 product_version: "26.9.0"
 ---
-## AddFieldAppearance([Field](../../../aspose.pdf.forms/field/), int, [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#addfieldappearance}
+## Form.AddFieldAppearance method
 
 Adds additional appearance of the field to specified page of the document in the specified location.
 
@@ -20,11 +20,13 @@ public void AddFieldAppearance(Field field, int pageNumber, Rectangle rect)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | field | Field | Field which appearance should be added on form. |
-| pageNumber | int | Number of the page where field must be placed. |
+| pageNumber | Int32 | Number of the page where field must be placed. |
 | rect | Rectangle | Rectangle where field will be placed. |
 
 ### See Also
 
+* class [Field](../../../aspose.pdf.forms/field/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

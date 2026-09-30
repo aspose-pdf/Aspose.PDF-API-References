@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Sets or gets the frequency penalty to use during sampling.
 
 ```csharp
-public Nullable<float> FrequencyPenalty { get; set; }
+public float? FrequencyPenalty { get; set; }
 ```
 
 ### See Also

@@ -20,12 +20,10 @@ public string Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filte
 | Parameter | Type | Description |
 | --- | --- | --- |
 | absorber | GraphicsAbsorber | The GraphicsAbsorber object that contains the graphic elements. |
-| filter | Predicate<GraphicElement> | A predicate function used to filter the graphic elements. |
+| filter | Predicate`1 | A predicate function used to filter the graphic elements. |
 | page | Page | The page where the absorber gets graphic elements. |
 
 ### Return Value
-
-string
 
 The string with SVG content.
 
@@ -37,6 +35,8 @@ The string with SVG content.
 
 ### See Also
 
+* class [GraphicsAbsorber](../../../aspose.pdf.vector/graphicsabsorber/)
+* class [Page](../../../aspose.pdf/page/)
 * class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
@@ -48,15 +48,16 @@ The string with SVG content.
 Exracts svg image to file from graphic elements represents by `!:absorber` with a predicate filter.
 
 ```csharp
-public void Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter, Page page, string svgFilePath)
+public void Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter, Page page, 
+    string svgFilePath)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | absorber | GraphicsAbsorber | The GraphicsAbsorber object that contains the graphic elements. |
-| filter | Predicate<GraphicElement> | A predicate function used to filter the graphic elements. |
+| filter | Predicate`1 | A predicate function used to filter the graphic elements. |
 | page | Page | The page where the absorber gets graphic elements. |
-| svgFilePath | string | The target SVG file path. |
+| svgFilePath | String | The target SVG file path. |
 
 ### Exceptions
 
@@ -66,6 +67,8 @@ public void Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter,
 
 ### See Also
 
+* class [GraphicsAbsorber](../../../aspose.pdf.vector/graphicsabsorber/)
+* class [Page](../../../aspose.pdf/page/)
 * class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
@@ -83,12 +86,10 @@ public string Extract(IEnumerable<GraphicElement> elements, Page page)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| elements | IEnumerable<GraphicElement> | The graphic elements to convert. |
+| elements | IEnumerable`1 | The graphic elements to convert. |
 | page | Page | The page where the absorber gets graphic elements. |
 
 ### Return Value
-
-string
 
 The string with SVG content.
 
@@ -100,6 +101,7 @@ The string with SVG content.
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
@@ -117,9 +119,9 @@ public void Extract(IEnumerable<GraphicElement> elements, Page page, string svgF
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| elements | IEnumerable<GraphicElement> | The graphic elements to convert. |
+| elements | IEnumerable`1 | The graphic elements to convert. |
 | page | Page | The page where the absorber gets graphic elements. |
-| svgFilePath | string | The target SVG file path. |
+| svgFilePath | String | The target SVG file path. |
 
 ### Exceptions
 
@@ -129,6 +131,7 @@ public void Extract(IEnumerable<GraphicElement> elements, Page page, string svgF
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
@@ -149,8 +152,6 @@ public List<string> Extract(Page page)
 
 ### Return Value
 
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<string>
-
 The list of SVG content strings.
 
 ### Exceptions
@@ -161,6 +162,7 @@ The list of SVG content strings.
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
@@ -178,7 +180,7 @@ public void Extract(Page page, string directory)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | Page | The page to extract. |
-| directory | string | The target directory to place SVG images. |
+| directory | String | The target directory to place SVG images. |
 
 ### Exceptions
 
@@ -188,6 +190,7 @@ public void Extract(Page page, string directory)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

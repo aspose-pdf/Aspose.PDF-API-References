@@ -9,13 +9,17 @@ weight: 110
 url: "/net/aspose.pdf/rows/item/"
 product_version: "26.9.0"
 ---
-## Rows.Item property
+## Rows indexer
 
 Gets or sets row.
 
 ```csharp
-public Row Item { get; set; }
+public Row this[int index] { get; set; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | The row index. |
 
 ### See Also
 

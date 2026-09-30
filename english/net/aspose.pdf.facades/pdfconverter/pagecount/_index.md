@@ -5,7 +5,7 @@ articleTitle: "PageCount"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfConverter property. Gets the page count."
 type: docs
-weight: 640
+weight: 630
 url: "/net/aspose.pdf.facades/pdfconverter/pagecount/"
 product_version: "26.9.0"
 ---

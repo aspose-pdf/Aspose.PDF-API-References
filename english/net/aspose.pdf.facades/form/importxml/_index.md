@@ -5,7 +5,7 @@ articleTitle: "ImportXml"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Imports the content of the fields from the xml file and put them into the new pdf."
 type: docs
-weight: 300
+weight: 230
 url: "/net/aspose.pdf.facades/form/importxml/"
 product_version: "26.9.0"
 ---
@@ -40,7 +40,7 @@ public void ImportXml(Stream inputXmlStream, bool IgnoreFormTemplateChanges)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputXmlStream | Stream | The input xml stream. |
-| IgnoreFormTemplateChanges | bool | If this parameter is true then all changes of the XFA form template will not be saved |
+| IgnoreFormTemplateChanges | Boolean | If this parameter is true then all changes of the XFA form template will not be saved |
 
 ### See Also
 

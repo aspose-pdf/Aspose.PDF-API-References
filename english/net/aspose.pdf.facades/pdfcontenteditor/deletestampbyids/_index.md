@@ -19,7 +19,7 @@ public void DeleteStampByIds(int[] stampIds)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stampIds | int[] | Array of stamp IDs. |
+| stampIds | Int32[] | Array of stamp IDs. |
 
 ### See Also
 
@@ -39,8 +39,8 @@ public void DeleteStampByIds(int pageNumber, int[] stampIds)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | int | Page number where stamps will be deleted. |
-| stampIds | int[] | Array of stamp IDs. |
+| pageNumber | Int32 | Page number where stamps will be deleted. |
+| stampIds | Int32[] | Array of stamp IDs. |
 
 ### See Also
 

@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Adds new operator into collection.
 
 ```csharp
-public void Add(Operator op)
+public override void Add(Operator op)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void Add(Operator op)
 
 ### See Also
 
+* class [Operator](../../../aspose.pdf/operator/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -43,6 +44,7 @@ public void Add(Operator[] ops)
 
 ### See Also
 
+* class [Operator](../../../aspose.pdf/operator/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -59,7 +61,7 @@ public void Add(ICollection<Operator> ops)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ops | ICollection<Operator> | collection whitch contains operators which will be added. |
+| ops | ICollection`1 | collection whitch contains operators which will be added. |
 
 ### See Also
 

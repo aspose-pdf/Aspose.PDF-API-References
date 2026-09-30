@@ -17,9 +17,13 @@ Type of the save target (stream).
 public DataType SaveTarget { get; }
 ```
 
+### Return Value
+
+A [`DataType`](../../../aspose.pdf.lowcode/datatype/) object representing output data.
+
 ### See Also
 
-* class [DataType](../../../aspose.pdf.lowcode/datatype/)
+* enum [DataType](../../../aspose.pdf.lowcode/datatype/)
 * class [StreamSaveTarget](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

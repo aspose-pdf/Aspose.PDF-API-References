@@ -5,11 +5,11 @@ articleTitle: "ContainsSignature"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileSignature method. Checks if the pdf has a digital signature or not."
 type: docs
-weight: 240
+weight: 180
 url: "/net/aspose.pdf.facades/pdffilesignature/containssignature/"
 product_version: "26.9.0"
 ---
-## ContainsSignature() {#containssignature}
+## PdfFileSignature.ContainsSignature method
 
 Checks if the pdf has a digital signature or not.
 
@@ -18,8 +18,6 @@ public bool ContainsSignature()
 ```
 
 ### Return Value
-
-bool
 
 Return a result of bool type.
 

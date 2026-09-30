@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf/matrix3d/add/"
 product_version: "26.9.0"
 ---
-## Add([Matrix3D](../../../aspose.pdf/matrix3d/)) {#add}
+## Matrix3D.Add method
 
 Adds matrix to other matrix.
 
@@ -23,14 +23,11 @@ public Matrix3D Add(Matrix3D other)
 
 ### Return Value
 
-[Matrix3D](../../../aspose.pdf/matrix3d/)
-
 Result of matrix add.
 
 ### See Also
 
 * class [Matrix3D](../../../aspose.pdf/matrix3d/)
-* class [Matrix3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

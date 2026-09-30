@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/pagedate.monthcomponent/monthcomponent/"
 product_version: "26.9.0"
 ---
-## PageDate.MonthComponent() {#constructor}
+## MonthComponent constructor
 
 The default constructor.
 
 ```csharp
-public PageDate.MonthComponent()
+public MonthComponent()
 ```
 
 ### See Also

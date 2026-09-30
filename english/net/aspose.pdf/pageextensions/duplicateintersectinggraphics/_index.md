@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/pageextensions/duplicateintersectinggraphics/"
 product_version: "26.9.0"
 ---
-## DuplicateIntersectingGraphics([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), double, double) {#duplicateintersectinggraphics}
+## PageExtensions.DuplicateIntersectingGraphics method
 
 Finds all vector graphic elements that intersect with the specified region
  and creates their copies with offset from original positions.
@@ -20,18 +20,21 @@ This method works only with vector graphics (lines, shapes, Bezier curves, etc.)
  The original elements remain unchanged.
 
 ```csharp
-public void DuplicateIntersectingGraphics(Page page, Rectangle region, double deltaX, double deltaY)
+public static void DuplicateIntersectingGraphics(this Page page, Rectangle region, double deltaX, 
+    double deltaY)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | Page | The page where graphic elements are searched and copied to. |
 | region | Rectangle | The rectangular region to search for intersecting elements. |
-| deltaX | double | Offset along the X axis for copied elements. |
-| deltaY | double | Offset along the Y axis for copied elements. |
+| deltaX | Double | Offset along the X axis for copied elements. |
+| deltaY | Double | Offset along the Y axis for copied elements. |
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [PageExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

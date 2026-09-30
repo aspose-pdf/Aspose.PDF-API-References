@@ -35,7 +35,7 @@ public SetAdvancedColorStroke(double g)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| g | double | Gray color value. |
+| g | Double | Gray color value. |
 
 ### See Also
 
@@ -55,8 +55,8 @@ public SetAdvancedColorStroke(double g, string patternName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| g | double | Gray color value. |
-| patternName | string | Name of the pattern. |
+| g | Double | Gray color value. |
+| patternName | String | Name of the pattern. |
 
 ### See Also
 
@@ -76,8 +76,8 @@ public SetAdvancedColorStroke(double[] colors, string patternName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| colors | double[] | Color array. |
-| patternName | string | Pattern name. |
+| colors | Double[] | Color array. |
+| patternName | String | Pattern name. |
 
 ### See Also
 
@@ -97,10 +97,10 @@ public SetAdvancedColorStroke(double r, double g, double b, string patternName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| r | double | Red component of the color/ |
-| g | double | Green component of the color. |
-| b | double | Blue component of the color. |
-| patternName | string | Name of the pattern. |
+| r | Double | Red component of the color/ |
+| g | Double | Green component of the color. |
+| b | Double | Blue component of the color. |
+| patternName | String | Name of the pattern. |
 
 ### See Also
 
@@ -120,11 +120,11 @@ public SetAdvancedColorStroke(double c, double m, double y, double k, string pat
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| c | double | Cyan component of the color. |
-| m | double | Magenta component of the color. |
-| y | double | Yellow component of the color. |
-| k | double | Black component of the color |
-| patternName | string | Name of the pattern. |
+| c | Double | Cyan component of the color. |
+| m | Double | Magenta component of the color. |
+| y | Double | Yellow component of the color. |
+| k | Double | Black component of the color |
+| patternName | String | Name of the pattern. |
 
 ### See Also
 

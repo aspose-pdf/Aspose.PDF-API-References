@@ -19,7 +19,7 @@ public void AppendLine(string line)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| line | string | The new line's text. |
+| line | String | The new line's text. |
 
 ### See Also
 
@@ -39,8 +39,8 @@ public void AppendLine(string line, float lineSpacing)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| line | string | The new line's text. |
-| lineSpacing | float | Additional spacing (0.0 is default and corresponds to default text line height).
+| line | String | The new line's text. |
+| lineSpacing | Single | Additional spacing (0.0 is default and corresponds to default text line height).
  The spacing value is added to default line spacing for the particular line, so you may specify 12.0 to get empty row AFTER a text line drawn with 12pt font. |
 
 ### See Also
@@ -61,11 +61,12 @@ public void AppendLine(string line, TextState textState)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| line | string | The new line's text. |
+| line | String | The new line's text. |
 | textState | TextState | Text state of the new line. |
 
 ### See Also
 
+* class [TextState](../../../aspose.pdf.text/textstate/)
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -82,13 +83,14 @@ public void AppendLine(string line, TextState textState, float lineSpacing)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| line | string | The new line's text. |
+| line | String | The new line's text. |
 | textState | TextState | Text state of the new line. |
-| lineSpacing | float | Additional spacing (0.0 is default and corresponds to default text line height).
+| lineSpacing | Single | Additional spacing (0.0 is default and corresponds to default text line height).
  The spacing value is added to default line spacing for the particular line, so you may specify 12.0 to get empty row AFTER a text line drawn with 12pt font. |
 
 ### See Also
 
+* class [TextState](../../../aspose.pdf.text/textstate/)
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -109,6 +111,7 @@ public void AppendLine(TextFragment line)
 
 ### See Also
 
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -130,6 +133,8 @@ public void AppendLine(TextFragment line, TextState textState)
 
 ### See Also
 
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [TextState](../../../aspose.pdf.text/textstate/)
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -148,11 +153,13 @@ public void AppendLine(TextFragment line, TextState textState, float lineSpacing
 | --- | --- | --- |
 | line | TextFragment | The new line's text. |
 | textState | TextState | Text state of the new line. |
-| lineSpacing | float | Additional spacing (0.0 is default and corresponds to default text line height).
+| lineSpacing | Single | Additional spacing (0.0 is default and corresponds to default text line height).
  The spacing value is added to default line spacing for the particular line, so you may specify 12.0 to get empty row AFTER a text line drawn with 12pt font. |
 
 ### See Also
 
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [TextState](../../../aspose.pdf.text/textstate/)
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

@@ -17,7 +17,7 @@ Sets or gets the sampling temperature to use, between 0 and 2.
  Default value is 1.
 
 ```csharp
-public Nullable<double> Temperature { get; set; }
+public double? Temperature { get; set; }
 ```
 
 ### See Also

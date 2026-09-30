@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/movetextpositionsetleading/movetextpositionsetleading/"
 product_version: "26.9.0"
 ---
-## MoveTextPositionSetLeading(double, double) {#constructor}
+## MoveTextPositionSetLeading constructor
 
 Initializes operator.
 
@@ -19,8 +19,8 @@ public MoveTextPositionSetLeading(double x, double y)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | double | X coordinate of text position. |
-| y | double | Y coordinate of text position. |
+| x | Double | X coordinate of text position. |
+| y | Double | Y coordinate of text position. |
 
 ### See Also
 

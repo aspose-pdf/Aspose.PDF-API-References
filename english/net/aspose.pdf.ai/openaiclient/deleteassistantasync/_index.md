@@ -9,22 +9,21 @@ weight: 430
 url: "/net/aspose.pdf.ai/openaiclient/deleteassistantasync/"
 product_version: "26.9.0"
 ---
-## DeleteAssistantAsync(string, Nullable<CancellationToken>) {#deleteassistantasync}
+## OpenAIClient.DeleteAssistantAsync method
 
 Deletes an existing assistant asynchronously.
 
 ```csharp
-public Task<DeleteStatusResponse> DeleteAssistantAsync(string assistantId, Nullable<CancellationToken> cancellationToken)
+public Task<DeleteStatusResponse> DeleteAssistantAsync(string assistantId, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| assistantId | string | The ID of the assistant to delete. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| assistantId | String | The ID of the assistant to delete. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[DeleteStatusResponse](../../../aspose.pdf.ai/deletestatusresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the status of the delete operation.
 

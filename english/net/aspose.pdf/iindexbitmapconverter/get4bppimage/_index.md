@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/iindexbitmapconverter/get4bppimage/"
 product_version: "26.9.0"
 ---
-## Get4BppImage(Bitmap) {#get4bppimage}
+## IIndexBitmapConverter.Get4BppImage method
 
 Returns 4Bpp bitmap representation
 
@@ -22,8 +22,6 @@ public Bitmap Get4BppImage(Bitmap src)
 | src | Bitmap | Source bitmap. |
 
 ### Return Value
-
-Bitmap
 
 Bitmap in 4 bpp image format.
 

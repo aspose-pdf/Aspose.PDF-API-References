@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.annotations/richmediaannotation/setcontent/"
 product_version: "26.9.0"
 ---
-## SetContent(string, Stream) {#setcontent}
+## RichMediaAnnotation.SetContent method
 
 Set content stream.
 
@@ -19,7 +19,7 @@ public void SetContent(string fileName, Stream audio)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | string | Name of the stream. |
+| fileName | String | Name of the stream. |
 | audio | Stream | Data stream. |
 
 ### See Also

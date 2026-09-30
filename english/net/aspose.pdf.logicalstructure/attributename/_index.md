@@ -29,8 +29,8 @@ public sealed class AttributeName
 
 | Name | Description |
 | --- | --- |
-| [FromNameAttributeKey](./fromnameattributekey/)(*string, AttributeKey*) | Gets attribute name for attribute key. |
-| [ToString](./tostring/) | Returns a string that represents the current object. |
+| static [FromNameAttributeKey](./fromnameattributekey/)(string, AttributeKey) | Gets attribute name for attribute key. |
+| override [ToString](./tostring/)() | Returns a string that represents the current object. |
 
 ## Fields
 
@@ -38,8 +38,8 @@ public sealed class AttributeName
 | --- | --- |
 | static readonly [BlockAlign_After](./blockalign_after/) | Attribute BlockAlign: After - After edge of the last child's allocation rectangle aligned with that of the table cell's content rectangle. |
 | static readonly [BlockAlign_Before](./blockalign_before/) | Attribute BlockAlign: Before - Before edge of the first child's allocation rectangle aligned with that of the table cell's content rectangle. |
-| static readonly [BlockAlign_Justify](./blockalign_justify/) | Attribute BlockAlign: Justify - Children aligned with both the before and after edges of the table cell's content rectangle. The first child shall be placed as described for Before and the last child as described for After, with equal spacing between the children. If there is only one child, it... |
-| static readonly [BlockAlign_Middle](./blockalign_middle/) | Attribute BlockAlign: Middle- Children centered within the table cell. The distance between the before edge of the first child's allocation rectangle and that of the table cell's content rectangle shall be the same as the distance between the after edge of the last child's allocation rectangle and... |
+| static readonly [BlockAlign_Justify](./blockalign_justify/) | Attribute BlockAlign: Justify - Children aligned with both the before and after edges of the table cell's content rectangle. The first child shall be placed as described for Before and the last child as described for After, with equal spacing between the children. If there is only one child, it shall be aligned with the before edge only, as for Before. |
+| static readonly [BlockAlign_Middle](./blockalign_middle/) | Attribute BlockAlign: Middle- Children centered within the table cell. The distance between the before edge of the first child's allocation rectangle and that of the table cell's content rectangle shall be the same as the distance between the after edge of the last child's allocation rectangle and that of the table cell's content rectangle. |
 | static readonly [BorderStyle_Dashed](./borderstyle_dashed/) | Attribute BorderStyle: Dashed - The border is a series of short line segments. |
 | static readonly [BorderStyle_Dotted](./borderstyle_dotted/) | Attribute BorderStyle: Dotted - The border is a series of dots. |
 | static readonly [BorderStyle_Double](./borderstyle_double/) | Attribute BorderStyle: Double - The border is two solid lines. The sum of the two lines and the space between them equals the value of BorderThickness. |
@@ -79,7 +79,7 @@ public sealed class AttributeName
 | static readonly [Role_rb](./role_rb/) | Attribute Role: rb - Radio button. |
 | static readonly [Role_tv](./role_tv/) | Attribute Role: tv - Text-value field. |
 | static readonly [RubyAlign_Center](./rubyalign_center/) | Attribute RubyAlign: Center - The content shall be centered in the inline-progression direction. |
-| static readonly [RubyAlign_Distribute](./rubyalign_distribute/) | Attribute RubyAlign: Distribute - The content shall be expanded to fill the available width in the inline-progression direction. However, space shall also be inserted at the start edge and end edge of the text. The spacing shall be distributed using a 1:2:1 (start:infix:end) ratio. It shall be... |
+| static readonly [RubyAlign_Distribute](./rubyalign_distribute/) | Attribute RubyAlign: Distribute - The content shall be expanded to fill the available width in the inline-progression direction. However, space shall also be inserted at the start edge and end edge of the text. The spacing shall be distributed using a 1:2:1 (start:infix:end) ratio. It shall be changed to a 0:1:1 ratio if the ruby appears at the start of a text line or to a 1:1:0 ratio if the ruby appears at the end of the text line. |
 | static readonly [RubyAlign_End](./rubyalign_end/) | Attribute RubyAlign: End - The content shall be aligned on the end edge in the inline-progression direction. |
 | static readonly [RubyAlign_Justify](./rubyalign_justify/) | Attribute RubyAlign: Justify - The content shall be expanded to fill the available width in the inline-progression direction. |
 | static readonly [RubyAlign_Start](./rubyalign_start/) | Attribute RubyAlign: Start - The content shall be aligned on the start edge in the inline-progression direction. |

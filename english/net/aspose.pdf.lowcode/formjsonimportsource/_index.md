@@ -23,7 +23,7 @@ public sealed class FormJsonImportSource
 
 | Name | Description |
 | --- | --- |
-| [FormJsonImportSource](./formjsonimportsource/#constructor)(*[IDataSource](../../aspose.pdf.lowcode/idatasource/), [IDataSource](../../aspose.pdf.lowcode/idatasource/)*) | Initializes a new instance of the [`FormJsonImportSource`](../../aspose.pdf.lowcode/formjsonimportsource/) class. |
+| [FormJsonImportSource](./formjsonimportsource/)(IDataSource, IDataSource) | Initializes a new instance of the [`FormJsonImportSource`](../../aspose.pdf.lowcode/formjsonimportsource/) class. |
 
 ## Properties
 

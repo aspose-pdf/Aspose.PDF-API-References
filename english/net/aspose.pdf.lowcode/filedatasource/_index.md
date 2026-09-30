@@ -22,7 +22,7 @@ public sealed class FileDataSource : IDataSource
 
 | Name | Description |
 | --- | --- |
-| [FileDataSource](./filedatasource/#constructor)(*string*) | Initializes new file data source with the specified path. |
+| [FileDataSource](./filedatasource/)(string) | Initializes new file data source with the specified path. |
 
 ## Properties
 

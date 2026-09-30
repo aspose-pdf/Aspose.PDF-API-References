@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Horizontal stamp coordinate, starting from the left.
 
 ```csharp
-public double XIndent { get; set; }
+public virtual double XIndent { get; set; }
 ```
 
 ### See Also

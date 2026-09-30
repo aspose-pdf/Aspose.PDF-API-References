@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/formeditoraddoptions/formeditoraddoptions/"
 product_version: "26.9.0"
 ---
-## FormEditorAddOptions(List<FormFieldCreateOptions>) {#constructor}
+## FormEditorAddOptions constructor
 
 Initializes a new instance of the `!:PdfFormAddFieldsOptions` object.
 
@@ -19,7 +19,7 @@ public FormEditorAddOptions(List<FormFieldCreateOptions> fieldsCreateOptions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldsCreateOptions | List<FormFieldCreateOptions> | List of FormFieldCreateOptions children that set the options for each added field. 
+| fieldsCreateOptions | List`1 | List of FormFieldCreateOptions children that set the options for each added field. 
  Each element of the list corresponds to one field to be added. |
 
 ### See Also

@@ -19,7 +19,7 @@ public CaptionPosition CaptionPosition { get; set; }
 
 ### See Also
 
-* class [CaptionPosition](../../../aspose.pdf.annotations/captionposition/)
+* enum [CaptionPosition](../../../aspose.pdf.annotations/captionposition/)
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

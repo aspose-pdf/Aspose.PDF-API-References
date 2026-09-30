@@ -9,13 +9,21 @@ weight: 170
 url: "/net/aspose.pdf.annotations/annotationcollection/item/"
 product_version: "26.9.0"
 ---
-## AnnotationCollection.Item property
+## AnnotationCollection indexer
 
 The index of the element to get.
 
 ```csharp
-public Annotation Item { get; }
+public Annotation this[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | The index value started from one. |
+
+### Return Value
+
+Annotation object
 
 ### See Also
 

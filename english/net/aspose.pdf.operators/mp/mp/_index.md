@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/mp/mp/"
 product_version: "26.9.0"
 ---
-## MP(string) {#constructor}
+## MP constructor
 
 Initializes operator.
 
@@ -19,7 +19,7 @@ public MP(string tag)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tag | string | Marked content tag. |
+| tag | String | Marked content tag. |
 
 ### See Also
 

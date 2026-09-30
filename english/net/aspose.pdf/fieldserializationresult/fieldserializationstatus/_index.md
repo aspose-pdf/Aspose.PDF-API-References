@@ -23,7 +23,7 @@ The serialization status of the form field.
 
 ### See Also
 
-* class [FieldSerializationStatus](../../../aspose.pdf/fieldserializationstatus/)
+* enum [FieldSerializationStatus](../../../aspose.pdf/fieldserializationstatus/)
 * class [FieldSerializationResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

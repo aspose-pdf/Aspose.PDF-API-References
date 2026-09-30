@@ -9,7 +9,7 @@ weight: 100
 url: "/net/aspose.pdf.annotations/pdf3dcontent/savetofile/"
 product_version: "26.9.0"
 ---
-## SaveToFile(string) {#savetofile}
+## PDF3DContent.SaveToFile method
 
 Saves 3D content to file.
 
@@ -19,7 +19,7 @@ public void SaveToFile(string filename)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | The file name. |
+| filename | String | The file name. |
 
 ### Exceptions
 

@@ -9,13 +9,17 @@ weight: 160
 url: "/net/aspose.pdf/boundscheckablelist-1/item/"
 product_version: "26.9.0"
 ---
-## BoundsCheckableList<T>.Item property
+## BoundsCheckableList<T> indexer
 
 Gets or sets paragraph from or to collection.
 
 ```csharp
-public T0 Item { get; set; }
+public T this[int index] { get; set; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | The paragraph index. |
 
 ### See Also
 

@@ -35,10 +35,10 @@ public Margins(int left, int right, int top, int bottom)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| left | int | The left coordinate. |
-| right | int | The right coordinate. |
-| top | int | The top coordinate. |
-| bottom | int | The bottom coordinate. |
+| left | Int32 | The left coordinate. |
+| right | Int32 | The right coordinate. |
+| top | Int32 | The top coordinate. |
+| bottom | Int32 | The bottom coordinate. |
 
 ### See Also
 

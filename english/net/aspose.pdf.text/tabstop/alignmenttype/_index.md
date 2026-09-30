@@ -19,7 +19,7 @@ public TabAlignmentType AlignmentType { get; set; }
 
 ### See Also
 
-* class [TabAlignmentType](../../../aspose.pdf.text/tabalignmenttype/)
+* enum [TabAlignmentType](../../../aspose.pdf.text/tabalignmenttype/)
 * class [TabStop](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

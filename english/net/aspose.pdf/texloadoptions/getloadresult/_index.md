@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/texloadoptions/getloadresult/"
 product_version: "26.9.0"
 ---
-## GetLoadResult() {#getloadresult}
+## TeXLoadOptions.GetLoadResult method
 
 Gets result for TeX load and compiling - did everything go smoothly or were there any comments/errors.
 
@@ -23,7 +23,7 @@ public TeXLoadResult GetLoadResult()
 
 ### See Also
 
-* class [TeXLoadResult](../../../aspose.pdf/texloadresult/)
+* enum [TeXLoadResult](../../../aspose.pdf/texloadresult/)
 * class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

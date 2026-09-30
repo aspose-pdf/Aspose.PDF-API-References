@@ -28,8 +28,8 @@ public sealed class AttributeOwnerStandard
 
 | Name | Description |
 | --- | --- |
-| [ToString](./tostring/) | Returns a string that represents the current object. |
-| [op_Explicit](./op_explicit/)(*string*) |  |
+| override [ToString](./tostring/)() | Returns a string that represents the current object. |
+| [explicit operator](./op_explicit/) | Performs an explicit conversion from `String` to [`AttributeOwnerStandard`](../../aspose.pdf.logicalstructure/attributeownerstandard/). |
 
 ## Fields
 

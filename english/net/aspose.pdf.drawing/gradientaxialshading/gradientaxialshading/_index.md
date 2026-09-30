@@ -40,6 +40,7 @@ public GradientAxialShading(Color startColor, Color endColor)
 
 ### See Also
 
+* class [Color](../../../aspose.pdf/color/)
 * class [GradientAxialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)

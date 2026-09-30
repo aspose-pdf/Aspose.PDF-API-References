@@ -16,7 +16,7 @@ Gets or sets word spacing of the text.
 Can be null. Use null to inherit `WordSpacing` property from parent structure element.
 
 ```csharp
-public Nullable<float> WordSpacing { get; set; }
+public float? WordSpacing { get; set; }
 ```
 
 ### See Also

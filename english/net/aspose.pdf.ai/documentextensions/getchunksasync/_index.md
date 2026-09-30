@@ -9,19 +9,21 @@ weight: 10
 url: "/net/aspose.pdf.ai/documentextensions/getchunksasync/"
 product_version: "26.9.0"
 ---
-## GetChunksAsync([Document](../../../aspose.pdf/document/), [ChunkingOptions](../../../aspose.pdf.ai/chunkingoptions/), string, [MarkdownSaveOptions](../../../aspose.pdf/markdownsaveoptions/), CancellationToken) {#getchunksasync}
+## DocumentExtensions.GetChunksAsync method
 
 
 
 ```csharp
-public Task<IReadOnlyList<DocumentChunk>> GetChunksAsync(Document document, ChunkingOptions options, string sourceId, MarkdownSaveOptions markdownSaveOptions, CancellationToken cancellationToken)
+public static Task<IReadOnlyList<DocumentChunk>> GetChunksAsync(this Document document, 
+    ChunkingOptions options, string sourceId = null, 
+    MarkdownSaveOptions markdownSaveOptions = null, CancellationToken cancellationToken = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | Document |  |
 | options | ChunkingOptions |  |
-| sourceId | string |  |
+| sourceId | String |  |
 | markdownSaveOptions | MarkdownSaveOptions |  |
 | cancellationToken | CancellationToken |  |
 
@@ -31,6 +33,9 @@ public Task<IReadOnlyList<DocumentChunk>> GetChunksAsync(Document document, Chun
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
+* class [ChunkingOptions](../../../aspose.pdf.ai/chunkingoptions/)
+* class [MarkdownSaveOptions](../../../aspose.pdf/markdownsaveoptions/)
 * class [DocumentExtensions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

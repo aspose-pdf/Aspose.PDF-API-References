@@ -9,7 +9,7 @@ weight: 580
 url: "/net/aspose.pdf/document/flattentransparency/"
 product_version: "26.9.0"
 ---
-## FlattenTransparency() {#flattentransparency}
+## Document.FlattenTransparency method
 
 Replaces transparent content with non-transparent raster and vector graphics.
 

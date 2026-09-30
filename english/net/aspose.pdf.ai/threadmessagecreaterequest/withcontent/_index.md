@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/withcontent/"
 product_version: "26.9.0"
 ---
-## WithContent([MessageContentRequest](../../../aspose.pdf.ai/messagecontentrequest/)) {#withcontent}
+## ThreadMessageCreateRequest.WithContent method
 
 Adds a message content to the thread message request.
 
@@ -23,14 +23,12 @@ public ThreadMessageCreateRequest WithContent(MessageContentRequest content)
 
 ### Return Value
 
-[ThreadMessageCreateRequest](../../../aspose.pdf.ai/threadmessagecreaterequest/)
-
 The current instance of [`ThreadMessageCreateRequest`](../../../aspose.pdf.ai/threadmessagecreaterequest/).
 
 ### See Also
 
 * class [ThreadMessageCreateRequest](../../../aspose.pdf.ai/threadmessagecreaterequest/)
-* class [ThreadMessageCreateRequest](../)
+* class [MessageContentRequest](../../../aspose.pdf.ai/messagecontentrequest/)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

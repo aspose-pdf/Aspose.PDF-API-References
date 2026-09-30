@@ -19,6 +19,7 @@ Determines action that will be done after replace of text fragment to more short
  Default value is ShiftRestOfLine.
 
 ```csharp
+[Flags]
 public enum ReplaceAdjustment
 ```
 

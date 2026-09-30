@@ -26,6 +26,8 @@ public void AddEntryToTocPage(Page tocPage, TOCIElement tocEntry)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [TOCIElement](../../../aspose.pdf.logicalstructure/tocielement/)
 * class [HeaderElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
@@ -55,6 +57,8 @@ public void AddEntryToTocPage(Page tocPage, ListLIElement tocEntry)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [ListLIElement](../../../aspose.pdf.logicalstructure/listlielement/)
 * class [HeaderElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

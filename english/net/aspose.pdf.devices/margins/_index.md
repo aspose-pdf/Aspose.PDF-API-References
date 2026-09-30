@@ -22,8 +22,8 @@ public sealed class Margins
 
 | Name | Description |
 | --- | --- |
-| [Margins](./margins/#constructor) | Initializes a new instance of the [`Margins`](../../aspose.pdf.devices/margins/) class. |
-| [Margins](./margins/#constructor_1)(*int, int, int, int*) | Initializes a new instance of the [`Margins`](../../aspose.pdf.devices/margins/) class. |
+| [Margins](./margins/#constructor)() | Initializes a new instance of the [`Margins`](../../aspose.pdf.devices/margins/) class. |
+| [Margins](./margins/#constructor_1)(int, int, int, int) | Initializes a new instance of the [`Margins`](../../aspose.pdf.devices/margins/) class. |
 
 ## Properties
 

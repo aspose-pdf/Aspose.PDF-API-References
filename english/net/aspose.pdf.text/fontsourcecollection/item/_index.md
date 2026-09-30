@@ -9,13 +9,21 @@ weight: 110
 url: "/net/aspose.pdf.text/fontsourcecollection/item/"
 product_version: "26.9.0"
 ---
-## FontSourceCollection.Item property
+## FontSourceCollection indexer
 
 Gets the font element at the specified index.
 
 ```csharp
-public FontSource Item { get; }
+public FontSource this[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Index within the collection. |
+
+### Return Value
+
+Font source object.
 
 ### See Also
 

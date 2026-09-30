@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.text/textbuilder/appendparagraph/"
 product_version: "26.9.0"
 ---
-## AppendParagraph([TextParagraph](../../../aspose.pdf.text/textparagraph/)) {#appendparagraph}
+## TextBuilder.AppendParagraph method
 
 Appends text paragraph to Pdf page.
 
@@ -23,6 +23,7 @@ public void AppendParagraph(TextParagraph textParagraph)
 
 ### See Also
 
+* class [TextParagraph](../../../aspose.pdf.text/textparagraph/)
 * class [TextBuilder](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

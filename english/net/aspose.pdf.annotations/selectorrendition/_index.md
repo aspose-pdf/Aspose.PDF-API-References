@@ -22,8 +22,8 @@ public sealed class SelectorRendition : Rendition
 
 | Name | Description |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Text string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions. *(Inherited from Rendition)* |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Gets rendition type. *(Inherited from Rendition)* |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Text string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions. |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Gets rendition type. |
 | [Renditions](./renditions/) { get; } | Gets array of renditions. |
 
 ### See Also

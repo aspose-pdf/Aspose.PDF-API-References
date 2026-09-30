@@ -5,17 +5,21 @@ articleTitle: "Item"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Cells property. Gets or sets cells."
 type: docs
-weight: 140
+weight: 130
 url: "/net/aspose.pdf/cells/item/"
 product_version: "26.9.0"
 ---
-## Cells.Item property
+## Cells indexer
 
 Gets or sets cells.
 
 ```csharp
-public Cell Item { get; set; }
+public Cell this[int index] { get; set; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | The cell index. |
 
 ### See Also
 

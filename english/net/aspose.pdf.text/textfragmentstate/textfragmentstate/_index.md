@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.text/textfragmentstate/textfragmentstate/"
 product_version: "26.9.0"
 ---
-## TextFragmentState([TextFragment](../../../aspose.pdf.text/textfragment/)) {#constructor}
+## TextFragmentState constructor
 
 Initializes new instance of the [`TextFragmentState`](../../../aspose.pdf.text/textfragmentstate/) object with specified [`TextFragment`](../../../aspose.pdf.text/textfragment/) object.
  This [`TextFragmentState`](../../../aspose.pdf.text/textfragmentstate/) initialization is not supported.
@@ -25,6 +25,7 @@ public TextFragmentState(TextFragment fragment)
 
 ### See Also
 
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

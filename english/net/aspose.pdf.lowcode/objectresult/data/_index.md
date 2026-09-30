@@ -17,6 +17,10 @@ Gets raw data.
 public object Data { get; }
 ```
 
+### Return Value
+
+An `object` representing output data.
+
 ### See Also
 
 * class [ObjectResult](../)

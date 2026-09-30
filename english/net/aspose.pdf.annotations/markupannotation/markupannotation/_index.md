@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/markupannotation/markupannotation/"
 product_version: "26.9.0"
 ---
-## MarkupAnnotation([Document](../../../aspose.pdf/document/)) {#constructor}
+## MarkupAnnotation constructor
 
 Constructor for markup annotation.
 
@@ -23,6 +23,7 @@ public MarkupAnnotation(Document document)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

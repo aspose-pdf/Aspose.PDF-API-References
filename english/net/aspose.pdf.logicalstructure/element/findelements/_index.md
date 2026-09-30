@@ -9,21 +9,19 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/element/findelements/"
 product_version: "26.9.0"
 ---
-## FindElements(bool) {#findelements}
+## Element.FindElements&lt;T&gt; method
 
 Find Elements of a given type
 
 ```csharp
-public List<T0> FindElements(bool recursiveSearch)
+public List<T> FindElements<T>(bool recursiveSearch = false)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| recursiveSearch | bool | (Optional) Recursive Search (default false, search only from direct children) |
+| recursiveSearch | Boolean | (Optional) Recursive Search (default false, search only from direct children) |
 
 ### Return Value
-
-[List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)<T0>
 
 List of found Elements
 

@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf.facades/pdffilesanitization/recover/"
 product_version: "26.9.0"
 ---
-## Recover() {#recover}
+## PdfFileSanitization.Recover method
 
 Recovers document.
  Use properties to customize.

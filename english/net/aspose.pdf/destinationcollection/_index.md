@@ -15,7 +15,7 @@ product_version: "26.9.0"
 Class represents the collection of all destinations (a name tree mapping name strings to destinations (see 12.3.2.3, "Named Destinations") and (see 7.7.4, "Name Dictionary")) in the pdf document.
 
 ```csharp
-public sealed class DestinationCollection : IEnumerable
+public sealed class DestinationCollection : ICollection<KeyValuePair<string, object>>
 ```
 
 ## Properties
@@ -30,15 +30,15 @@ public sealed class DestinationCollection : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*KeyValuePair<string, object>*) | Adds the specified item. |
-| [Clear](./clear/) | Collection is read-only. Always throws NotSupportedException exception. |
-| [Contains](./contains/)(*KeyValuePair<string, object>*) | Determines whether this instance contains the object. |
-| [CopyTo](./copyto/)(*KeyValuePair<string, object>[], int*) |  |
-| [GetEnumerator](./getenumerator/) | Returns the enumerator. |
-| [GetExplicitDestination](./getexplicitdestination/)(*string, bool*) | Returns the explicit destination by the name. |
-| [GetPageNumber](./getpagenumber/)(*string, bool*) | Returns the page number of destination by the name. |
-| [IndexOf](./indexof/)(*KeyValuePair<string, object>*) | Returns the index of destination in collection. |
-| [Remove](./remove/)(*KeyValuePair<string, object>*) | Removes the specified item. |
+| [Add](./add/)(KeyValuePair<string, object>) | Adds the specified item. Collection is read-only. Always throws NotSupportedException exception. |
+| [Clear](./clear/)() | Collection is read-only. Always throws NotSupportedException exception. |
+| [Contains](./contains/)(KeyValuePair<string, object>) | Determines whether this instance contains the object. |
+| [CopyTo](./copyto/)(KeyValuePair<string, object>[], int) |  |
+| [GetEnumerator](./getenumerator/)() | Returns the enumerator. |
+| [GetExplicitDestination](./getexplicitdestination/)(string, bool) | Returns the explicit destination by the name. |
+| [GetPageNumber](./getpagenumber/)(string, bool) | Returns the page number of destination by the name. |
+| [IndexOf](./indexof/)(KeyValuePair<string, object>) | Returns the index of destination in collection. |
+| [Remove](./remove/)(KeyValuePair<string, object>) | Removes the specified item. Collection is read-only. Always throws NotSupportedException exception. |
 
 ### See Also
 

@@ -5,7 +5,7 @@ articleTitle: "Destination"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Bookmark property. Gets or sets bookmark's destination page. Required if action is set as string.Empty."
 type: docs
-weight: 70
+weight: 60
 url: "/net/aspose.pdf.facades/bookmark/destination/"
 product_version: "26.9.0"
 ---

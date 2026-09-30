@@ -9,12 +9,12 @@ weight: 70
 url: "/net/aspose.pdf/matrix3d/getangle/"
 product_version: "26.9.0"
 ---
-## GetAngle([Rotation](../../../aspose.pdf/rotation/)) {#getangle}
+## Matrix3D.GetAngle method
 
 Translates rotation into angle (degrees)
 
 ```csharp
-public double GetAngle(Rotation rotation)
+public static double GetAngle(Rotation rotation)
 ```
 
 | Parameter | Type | Description |
@@ -23,12 +23,11 @@ public double GetAngle(Rotation rotation)
 
 ### Return Value
 
-double
-
 Angle value.
 
 ### See Also
 
+* enum [Rotation](../../../aspose.pdf/rotation/)
 * class [Matrix3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

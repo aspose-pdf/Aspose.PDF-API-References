@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromfdf/"
 product_version: "26.9.0"
 ---
-## ImportAnnotationsFromFdf(string) {#importannotationsfromfdf}
+## PdfAnnotationEditor.ImportAnnotationsFromFdf method
 
 Imports all annotations from FDF file.
 
@@ -19,7 +19,7 @@ public void ImportAnnotationsFromFdf(string fdfFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fdfFile | string | The input FDF file. |
+| fdfFile | String | The input FDF file. |
 
 ### See Also
 

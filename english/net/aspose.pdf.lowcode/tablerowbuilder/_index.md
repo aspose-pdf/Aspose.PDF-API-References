@@ -22,12 +22,11 @@ public class TableRowBuilder : TableBuilder
 
 | Name | Description |
 | --- | --- |
-| [AddCell](./addcell/) | Add cell to table row. |
-| [AddRow](./addrow/) | Overriding AddRow. |
-| [AddTable](../../aspose.pdf.lowcode/tablebuilder/addtable/) | Add new table to document. *(Inherited from TableBuilder)* |
-| [InsertPageAfter](../../aspose.pdf.lowcode/tablebuilder/insertpageafter/)(*int*) | Insert page after specified page. *(Inherited from TableBuilder)* |
-| [InsertPageBefore](../../aspose.pdf.lowcode/tablebuilder/insertpagebefore/)(*int*) | Insert page before specified page. *(Inherited from TableBuilder)* |
-| [op_Implicit](../../aspose.pdf.lowcode/tablebuilder/op_implicit/)(*TableBuilder*) | *(Inherited from TableBuilder)* |
+| virtual [AddCell](./addcell/)() | Add cell to table row. |
+| override [AddRow](./addrow/)() | Overriding AddRow. |
+| [AddTable](../../aspose.pdf.lowcode/tablebuilder/addtable/)() | Add new table to document. |
+| [InsertPageAfter](../../aspose.pdf.lowcode/tablebuilder/insertpageafter/)(int) | Insert page after specified page. |
+| [InsertPageBefore](../../aspose.pdf.lowcode/tablebuilder/insertpagebefore/)(int) | Insert page before specified page. |
 
 ### See Also
 

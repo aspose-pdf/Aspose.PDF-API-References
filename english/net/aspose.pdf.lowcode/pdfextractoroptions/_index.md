@@ -23,13 +23,13 @@ public abstract class PdfExtractorOptions : IPluginOptions
 | Name | Description |
 | --- | --- |
 | [Inputs](./inputs/) { get; } | Returns PdfExtractor plugin data collection. |
-| [OperationName](./operationname/) { get; } | Returns operation name. |
+| virtual [OperationName](./operationname/) { get; } | Returns operation name |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddInput](./addinput/)(*IDataSource*) | Adds new data source to the PdfExtractor plugin data collection. |
+| [AddInput](./addinput/)(IDataSource) | Adds new data source to the PdfExtractor plugin data collection. |
 
 ## Remarks
 

@@ -5,7 +5,7 @@ articleTitle: "AddImage"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileMend method. Adds image to the specified page of PDF document at specified coordinates."
 type: docs
-weight: 70
+weight: 30
 url: "/net/aspose.pdf.facades/pdffilemend/addimage/"
 product_version: "26.9.0"
 ---
@@ -14,21 +14,20 @@ product_version: "26.9.0"
 Adds image to the specified page of PDF document at specified coordinates.
 
 ```csharp
-public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
+public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lowerLeftY, 
+    float upperRightX, float upperRightY)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | imageStream | Stream | Input image stream. |
-| pageNum | int | The number of page that will receive the image. |
-| lowerLeftX | float | The lower left x of image rectangle. |
-| lowerLeftY | float | The lower left y of image rectangle. |
-| upperRightX | float | The upper right x of image rectangle. |
-| upperRightY | float | The upper right y of image rectangle. |
+| pageNum | Int32 | The number of page that will receive the image. |
+| lowerLeftX | Single | The lower left x of image rectangle. |
+| lowerLeftY | Single | The lower left y of image rectangle. |
+| upperRightX | Single | The upper right x of image rectangle. |
+| upperRightY | Single | The upper right y of image rectangle. |
 
 ### Return Value
-
-bool
 
 True if success false otherwise.
 
@@ -45,27 +44,27 @@ True if success false otherwise.
 Adds image to the specified page of PDF document at specified coordinates.
 
 ```csharp
-public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY, CompositingParameters compositingParameters)
+public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lowerLeftY, 
+    float upperRightX, float upperRightY, CompositingParameters compositingParameters)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | imageStream | Stream | Input image stream. |
-| pageNum | int | The number of page that will receive the image. |
-| lowerLeftX | float | The lower left x of image rectangle. |
-| lowerLeftY | float | The lower left y of image rectangle. |
-| upperRightX | float | The upper right x of image rectangle. |
-| upperRightY | float | The upper right y of image rectangle. |
+| pageNum | Int32 | The number of page that will receive the image. |
+| lowerLeftX | Single | The lower left x of image rectangle. |
+| lowerLeftY | Single | The lower left y of image rectangle. |
+| upperRightX | Single | The upper right x of image rectangle. |
+| upperRightY | Single | The upper right y of image rectangle. |
 | compositingParameters | CompositingParameters | The graphics compositing parameters for the image. |
 
 ### Return Value
-
-bool
 
 True if success false otherwise.
 
 ### See Also
 
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -77,21 +76,20 @@ True if success false otherwise.
 Adds image to the specified pages of PDF document at specified coordinates.
 
 ```csharp
-public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
+public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float lowerLeftY, 
+    float upperRightX, float upperRightY)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | imageStream | Stream | Input image stream. |
-| pageNums | int[] | The numbers of pages that will receive the image. |
-| lowerLeftX | float | The lower left x of image rectangle. |
-| lowerLeftY | float | The lower left y of image rectangle. |
-| upperRightX | float | The upper right x of image rectangle. |
-| upperRightY | float | The upper right y of image rectangle. |
+| pageNums | Int32[] | The numbers of pages that will receive the image. |
+| lowerLeftX | Single | The lower left x of image rectangle. |
+| lowerLeftY | Single | The lower left y of image rectangle. |
+| upperRightX | Single | The upper right x of image rectangle. |
+| upperRightY | Single | The upper right y of image rectangle. |
 
 ### Return Value
-
-bool
 
 True if success false otherwise.
 
@@ -108,27 +106,27 @@ True if success false otherwise.
 Adds image to the specified pages of PDF document at specified coordinates.
 
 ```csharp
-public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY, CompositingParameters compositingParameters)
+public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float lowerLeftY, 
+    float upperRightX, float upperRightY, CompositingParameters compositingParameters)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | imageStream | Stream | Input image stream. |
-| pageNums | int[] | The numbers of pages that will receive the image. |
-| lowerLeftX | float | The lower left x of image rectangle. |
-| lowerLeftY | float | The lower left y of image rectangle. |
-| upperRightX | float | The upper right x of image rectangle. |
-| upperRightY | float | The upper right y of image rectangle. |
+| pageNums | Int32[] | The numbers of pages that will receive the image. |
+| lowerLeftX | Single | The lower left x of image rectangle. |
+| lowerLeftY | Single | The lower left y of image rectangle. |
+| upperRightX | Single | The upper right x of image rectangle. |
+| upperRightY | Single | The upper right y of image rectangle. |
 | compositingParameters | CompositingParameters | The graphics compositing parameters for the images. |
 
 ### Return Value
-
-bool
 
 True if success false otherwise.
 
 ### See Also
 
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -140,21 +138,20 @@ True if success false otherwise.
 Adds image to the specified page of PDF document at specified coordinates.
 
 ```csharp
-public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
+public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowerLeftY, 
+    float upperRightX, float upperRightY)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageName | string | The path of input image file. |
-| pageNum | int | The number of page that will receive the image. |
-| lowerLeftX | float | The lower left x of image rectangle. |
-| lowerLeftY | float | The lower left y of image rectangle. |
-| upperRightX | float | The upper right x of image rectangle. |
-| upperRightY | float | The upper right y of image rectangle. |
+| imageName | String | The path of input image file. |
+| pageNum | Int32 | The number of page that will receive the image. |
+| lowerLeftX | Single | The lower left x of image rectangle. |
+| lowerLeftY | Single | The lower left y of image rectangle. |
+| upperRightX | Single | The upper right x of image rectangle. |
+| upperRightY | Single | The upper right y of image rectangle. |
 
 ### Return Value
-
-bool
 
 True if success false otherwise.
 
@@ -171,27 +168,27 @@ True if success false otherwise.
 Adds image to the specified page of PDF document at specified coordinates.
 
 ```csharp
-public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY, CompositingParameters compositingParameters)
+public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowerLeftY, 
+    float upperRightX, float upperRightY, CompositingParameters compositingParameters)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageName | string | The path of input image file. |
-| pageNum | int | The number of page that will receive the image. |
-| lowerLeftX | float | The lower left x of image rectangle. |
-| lowerLeftY | float | The lower left y of image rectangle. |
-| upperRightX | float | The upper right x of image rectangle. |
-| upperRightY | float | The upper right y of image rectangle. |
+| imageName | String | The path of input image file. |
+| pageNum | Int32 | The number of page that will receive the image. |
+| lowerLeftX | Single | The lower left x of image rectangle. |
+| lowerLeftY | Single | The lower left y of image rectangle. |
+| upperRightX | Single | The upper right x of image rectangle. |
+| upperRightY | Single | The upper right y of image rectangle. |
 | compositingParameters | CompositingParameters | The graphics compositing parameters for the images. |
 
 ### Return Value
-
-bool
 
 True if success false otherwise.
 
 ### See Also
 
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -203,21 +200,20 @@ True if success false otherwise.
 Adds image to the specified pages of PDF document at specified coordinates.
 
 ```csharp
-public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
+public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float lowerLeftY, 
+    float upperRightX, float upperRightY)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageName | string | The path of input image file. |
-| pageNums | int[] | The numbers of pages that will receive the image. |
-| lowerLeftX | float | The lower left x of image rectangle. |
-| lowerLeftY | float | The lower left y of image rectangle. |
-| upperRightX | float | The upper right x of image rectangle. |
-| upperRightY | float | The upper right y of image rectangle. |
+| imageName | String | The path of input image file. |
+| pageNums | Int32[] | The numbers of pages that will receive the image. |
+| lowerLeftX | Single | The lower left x of image rectangle. |
+| lowerLeftY | Single | The lower left y of image rectangle. |
+| upperRightX | Single | The upper right x of image rectangle. |
+| upperRightY | Single | The upper right y of image rectangle. |
 
 ### Return Value
-
-bool
 
 True if success false otherwise.
 
@@ -234,27 +230,27 @@ True if success false otherwise.
 Adds image to the specified pages of PDF document at specified coordinates.
 
 ```csharp
-public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY, CompositingParameters compositingParameters)
+public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float lowerLeftY, 
+    float upperRightX, float upperRightY, CompositingParameters compositingParameters)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageName | string | The path of input image file. |
-| pageNums | int[] | The numbers of pages that will receive the image. |
-| lowerLeftX | float | The lower left x of image rectangle. |
-| lowerLeftY | float | The lower left y of image rectangle. |
-| upperRightX | float | The upper right x of image rectangle. |
-| upperRightY | float | The upper right y of image rectangle. |
+| imageName | String | The path of input image file. |
+| pageNums | Int32[] | The numbers of pages that will receive the image. |
+| lowerLeftX | Single | The lower left x of image rectangle. |
+| lowerLeftY | Single | The lower left y of image rectangle. |
+| upperRightX | Single | The upper right x of image rectangle. |
+| upperRightY | Single | The upper right y of image rectangle. |
 | compositingParameters | CompositingParameters | The graphics compositing parameters for the images. |
 
 ### Return Value
-
-bool
 
 True if success false otherwise.
 
 ### See Also
 
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

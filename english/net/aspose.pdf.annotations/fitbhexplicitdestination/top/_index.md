@@ -5,7 +5,7 @@ articleTitle: "Top"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FitBHExplicitDestination property. Gets the vertical coordinate top positioned at the top edge of the window."
 type: docs
-weight: 50
+weight: 40
 url: "/net/aspose.pdf.annotations/fitbhexplicitdestination/top/"
 product_version: "26.9.0"
 ---

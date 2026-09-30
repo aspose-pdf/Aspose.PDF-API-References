@@ -20,10 +20,11 @@ public MovieAnnotation(Document document, string movieFile)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | Document | Document where movie annotation will be created. |
-| movieFile | string | Name of movie file. |
+| movieFile | String | Name of movie file. |
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [MovieAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -42,10 +43,12 @@ public MovieAnnotation(Page page, Rectangle rect, string movieFile)
 | --- | --- | --- |
 | page | Page | The document's page where annotation should be created. |
 | rect | Rectangle | The annotation rectangle, defining the location of the annotation on the page. |
-| movieFile | string | A movie file to be played when the annotation is activated. |
+| movieFile | String | A movie file to be played when the annotation is activated. |
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [MovieAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

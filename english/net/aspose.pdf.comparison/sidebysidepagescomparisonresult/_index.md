@@ -22,7 +22,7 @@ public class SideBySidePagesComparisonResult
 
 | Name | Description |
 | --- | --- |
-| [SideBySidePagesComparisonResult](./sidebysidepagescomparisonresult/#constructor)(*bool, List<EditContainer>, List<EditContainer>, List<DiffOperation>*) | Creates an instance of [`SideBySidePagesComparisonResult`](../../aspose.pdf.comparison/sidebysidepagescomparisonresult/) class. |
+| [SideBySidePagesComparisonResult](./sidebysidepagescomparisonresult/)(bool, List<EditContainer>, List<EditContainer>, List<DiffOperation>) | Creates an instance of [`SideBySidePagesComparisonResult`](../../aspose.pdf.comparison/sidebysidepagescomparisonresult/) class |
 
 ## Properties
 

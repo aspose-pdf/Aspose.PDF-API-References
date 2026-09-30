@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/pagesize/pagesize/"
 product_version: "26.9.0"
 ---
-## PageSize(float, float) {#constructor}
+## PageSize constructor
 
 Constructor for PageSize.
 
@@ -19,8 +19,8 @@ public PageSize(float x, float y)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x | float | Width of the page. |
-| y | float | Height of the page. |
+| x | Single | Width of the page. |
+| y | Single | Height of the page. |
 
 ### See Also
 

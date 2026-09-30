@@ -9,7 +9,7 @@ weight: 200
 url: "/net/aspose.pdf/rectangle/moveby/"
 product_version: "26.9.0"
 ---
-## MoveBy(double, double) {#moveby}
+## Rectangle.MoveBy method
 
 Shift rectangle by the specified deltas.
 
@@ -19,8 +19,8 @@ public void MoveBy(double dx, double dy)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| dx | double | Value of shift by X axis. |
-| dy | double | Value of shift by Y axis. |
+| dx | Double | Value of shift by X axis. |
+| dy | Double | Value of shift by Y axis. |
 
 ### See Also
 

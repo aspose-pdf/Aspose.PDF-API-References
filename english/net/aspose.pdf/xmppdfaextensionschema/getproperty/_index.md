@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf/xmppdfaextensionschema/getproperty/"
 product_version: "26.9.0"
 ---
-## GetProperty(string) {#getproperty}
+## XmpPdfAExtensionSchema.GetProperty method
 
 Returns PDF/A property by its name.
 
@@ -19,11 +19,9 @@ public XmpPdfAExtensionProperty GetProperty(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Property name. |
+| name | String | Property name. |
 
 ### Return Value
-
-[XmpPdfAExtensionProperty](../../../aspose.pdf/xmppdfaextensionproperty/)
 
 The property.
 

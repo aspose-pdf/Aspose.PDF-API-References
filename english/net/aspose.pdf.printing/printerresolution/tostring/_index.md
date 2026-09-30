@@ -9,17 +9,15 @@ weight: 20
 url: "/net/aspose.pdf.printing/printerresolution/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## PrinterResolution.ToString method
 
 Provides some interesting information about the PrinterResolution in String form.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 String representing PrinterResolution.
 

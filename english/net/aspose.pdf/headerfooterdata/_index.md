@@ -5,7 +5,7 @@ articleTitle: "HeaderFooterData"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.HeaderFooterData class. Represents the pagination data for header and footer."
 type: docs
-weight: 1060
+weight: 1050
 url: "/net/aspose.pdf/headerfooterdata/"
 keywords: "HeaderFooterData, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public class HeaderFooterData
 
 | Name | Description |
 | --- | --- |
-| [HeaderFooterData](./headerfooterdata/#constructor) | The default constructor. |
+| [HeaderFooterData](./headerfooterdata/)() | The default constructor. |
 
 ## Properties
 

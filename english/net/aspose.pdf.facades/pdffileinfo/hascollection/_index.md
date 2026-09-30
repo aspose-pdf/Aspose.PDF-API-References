@@ -5,7 +5,7 @@ articleTitle: "HasCollection"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileInfo property. Returns true if the current input file is a 'Portfolio' file containing collection of PDF files in it."
 type: docs
-weight: 320
+weight: 310
 url: "/net/aspose.pdf.facades/pdffileinfo/hascollection/"
 product_version: "26.9.0"
 ---

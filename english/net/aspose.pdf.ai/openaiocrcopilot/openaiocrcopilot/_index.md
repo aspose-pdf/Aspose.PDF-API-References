@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/openaiocrcopilot/openaiocrcopilot/"
 product_version: "26.9.0"
 ---
-## OpenAIOcrCopilot([IOpenAIClient](../../../aspose.pdf.ai/iopenaiclient/), IOcrCopilotOptions<OpenAIOcrCopilotOptions>) {#constructor}
+## OpenAIOcrCopilot constructor
 
 Initializes a new instance of the [`OpenAIOcrCopilot`](../../../aspose.pdf.ai/openaiocrcopilot/) class.
 
@@ -20,10 +20,11 @@ public OpenAIOcrCopilot(IOpenAIClient client, IOcrCopilotOptions<OpenAIOcrCopilo
 | Parameter | Type | Description |
 | --- | --- | --- |
 | client | IOpenAIClient | The OpenAI client used for OCR operations. |
-| options | IOcrCopilotOptions<OpenAIOcrCopilotOptions> | The options used to configure the OCR copilot. |
+| options | IOcrCopilotOptions`1 | The options used to configure the OCR copilot. |
 
 ### See Also
 
+* interface [IOpenAIClient](../../../aspose.pdf.ai/iopenaiclient/)
 * class [OpenAIOcrCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

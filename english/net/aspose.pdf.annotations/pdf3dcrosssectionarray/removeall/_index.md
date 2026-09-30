@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/"
 product_version: "26.9.0"
 ---
-## RemoveAll() {#removeall}
+## PDF3DCrossSectionArray.RemoveAll method
 
 Removes all cross section from array.
 

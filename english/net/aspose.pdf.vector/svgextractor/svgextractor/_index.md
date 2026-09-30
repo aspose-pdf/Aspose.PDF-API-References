@@ -39,6 +39,7 @@ public SvgExtractor(SvgExtractionOptions options)
 
 ### See Also
 
+* class [SvgExtractionOptions](../../../aspose.pdf.vector/svgextractionoptions/)
 * class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

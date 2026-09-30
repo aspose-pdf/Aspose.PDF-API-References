@@ -5,7 +5,7 @@ articleTitle: "UseZOrder"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "HtmlSaveOptions property. If attribute UseZORder set to true, graphics and text are added to resultant HTML document accordingly Z-order in original PDF docu..."
 type: docs
-weight: 200
+weight: 190
 url: "/net/aspose.pdf/htmlsaveoptions/usezorder/"
 product_version: "26.9.0"
 ---

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/id/id/"
 product_version: "26.9.0"
 ---
-## ID() {#constructor}
+## ID constructor
 
 Initializes operator.
 

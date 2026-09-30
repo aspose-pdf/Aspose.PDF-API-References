@@ -24,6 +24,7 @@ public void SendTo(PageDevice device, Stream output)
 
 ### See Also
 
+* class [PageDevice](../../../aspose.pdf.devices/pagedevice/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -41,10 +42,11 @@ public void SendTo(PageDevice device, string outputFileName)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | device | PageDevice | The device to process page. |
-| outputFileName | string | File which is used with device to save its output. |
+| outputFileName | String | File which is used with device to save its output. |
 
 ### See Also
 
+* class [PageDevice](../../../aspose.pdf.devices/pagedevice/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -5,7 +5,7 @@ articleTitle: "FontEmbeddingOptions"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.FontEmbeddingOptions class. PDF/A standard requires, that all fonts must be embedded into document. This class includes flags for cases when it's ..."
 type: docs
-weight: 950
+weight: 940
 url: "/net/aspose.pdf/fontembeddingoptions/"
 keywords: "FontEmbeddingOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -24,13 +24,13 @@ public class FontEmbeddingOptions
 
 | Name | Description |
 | --- | --- |
-| [FontEmbeddingOptions](./fontembeddingoptions/#constructor) | The default constructor. |
+| [FontEmbeddingOptions](./fontembeddingoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [UseDefaultSubstitution](./usedefaultsubstitution/) { get; set; } | Indicates whether to substitute non-embedded font using default font substitution strategy. |
+| [UseDefaultSubstitution](./usedefaultsubstitution/) { get; set; } | Indicates whether to substitute non-embedded font using default font substitution strategy. Default value: . |
 
 ### See Also
 

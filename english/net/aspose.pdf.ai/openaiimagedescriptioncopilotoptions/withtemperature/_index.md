@@ -9,28 +9,25 @@ weight: 50
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withtemperature/"
 product_version: "26.9.0"
 ---
-## WithTemperature(Nullable<double>) {#withtemperature}
+## OpenAIImageDescriptionCopilotOptions.WithTemperature method
 
 Sets the temperature for the image description copilot options.
 
 ```csharp
-public OpenAIImageDescriptionCopilotOptions WithTemperature(Nullable<double> temperature)
+public OpenAIImageDescriptionCopilotOptions WithTemperature(double? temperature)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| temperature | Nullable<double> | The temperature to set. |
+| temperature | Nullable`1 | The temperature to set. |
 
 ### Return Value
-
-[OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
 
 The current instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
 
 ### See Also
 
 * class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
-* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

@@ -17,6 +17,10 @@ Gets a value indicating whether the [`CosPdfDictionary`](../../../aspose.pdf.dat
 public bool IsReadOnly { get; }
 ```
 
+### Return Value
+
+true if the [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/) is read-only; otherwise, false.
+
 ### See Also
 
 * class [CosPdfDictionary](../)

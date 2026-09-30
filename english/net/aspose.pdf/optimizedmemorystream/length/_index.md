@@ -14,8 +14,12 @@ product_version: "26.9.0"
 When overridden in a derived class, gets the length in bytes of the stream.
 
 ```csharp
-public long Length { get; }
+public override long Length { get; }
 ```
+
+### Return Value
+
+A long value representing the length of the stream in bytes.
 
 ### See Also
 

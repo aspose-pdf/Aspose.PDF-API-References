@@ -5,7 +5,7 @@ articleTitle: "UseIntermidiateImage"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfViewer property. Gets/sets the using of conversion of pdf page into intermidiate png file during printing in file mode. Use it when the size of output fil..."
 type: docs
-weight: 380
+weight: 340
 url: "/net/aspose.pdf.facades/pdfviewer/useintermidiateimage/"
 product_version: "26.9.0"
 ---

@@ -9,12 +9,12 @@ weight: 60
 url: "/net/aspose.pdf/outlinecollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## OutlineCollection.Clear method
 
 Clears all items from the collection.
 
 ```csharp
-public void Clear()
+public override void Clear()
 ```
 
 ### See Also

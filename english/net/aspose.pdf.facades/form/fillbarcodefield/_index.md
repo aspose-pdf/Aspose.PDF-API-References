@@ -5,11 +5,11 @@ articleTitle: "FillBarcodeField"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Form method. Fill a barcode field according to its fully qualified field name."
 type: docs
-weight: 270
+weight: 200
 url: "/net/aspose.pdf.facades/form/fillbarcodefield/"
 product_version: "26.9.0"
 ---
-## FillBarcodeField(string, string) {#fillbarcodefield}
+## Form.FillBarcodeField method
 
 Fill a barcode field according to its fully qualified field name.
 
@@ -19,12 +19,10 @@ public bool FillBarcodeField(string fieldName, string data)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | The fully qualified field name. |
-| data | string | The new barcode value. |
+| fieldName | String | The fully qualified field name. |
+| data | String | The new barcode value. |
 
 ### Return Value
-
-bool
 
 If filling succeed, return true; otherwise, false.
 

@@ -9,21 +9,24 @@ weight: 20
 url: "/net/aspose.pdf.ai/documentextensions/ingestasync/"
 product_version: "26.9.0"
 ---
-## IngestAsync([Document](../../../aspose.pdf/document/), [ChunkingOptions](../../../aspose.pdf.ai/chunkingoptions/), string, IEmbeddingGenerator<string, Embedding<float>>, VectorStoreCollection<string, DocumentChunk>, [MarkdownSaveOptions](../../../aspose.pdf/markdownsaveoptions/), CancellationToken) {#ingestasync}
+## DocumentExtensions.IngestAsync method
 
 
 
 ```csharp
-public Task IngestAsync(Document document, ChunkingOptions options, string sourceId, IEmbeddingGenerator<string, Embedding<float>> embeddingGenerator, VectorStoreCollection<string, DocumentChunk> vectorCollection, MarkdownSaveOptions markdownSaveOptions, CancellationToken cancellationToken)
+public static Task IngestAsync(this Document document, ChunkingOptions options, string sourceId, 
+    IEmbeddingGenerator<string, Embedding<float>> embeddingGenerator, 
+    VectorStoreCollection<string, DocumentChunk> vectorCollection, 
+    MarkdownSaveOptions markdownSaveOptions = null, CancellationToken cancellationToken = null)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | document | Document |  |
 | options | ChunkingOptions |  |
-| sourceId | string |  |
-| embeddingGenerator | IEmbeddingGenerator<string, Embedding<float>> |  |
-| vectorCollection | VectorStoreCollection<string, DocumentChunk> |  |
+| sourceId | String |  |
+| embeddingGenerator | IEmbeddingGenerator`2 |  |
+| vectorCollection | VectorStoreCollection`2 |  |
 | markdownSaveOptions | MarkdownSaveOptions |  |
 | cancellationToken | CancellationToken |  |
 
@@ -33,6 +36,9 @@ public Task IngestAsync(Document document, ChunkingOptions options, string sourc
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
+* class [ChunkingOptions](../../../aspose.pdf.ai/chunkingoptions/)
+* class [MarkdownSaveOptions](../../../aspose.pdf/markdownsaveoptions/)
 * class [DocumentExtensions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

@@ -19,7 +19,7 @@ public Rotation Rotation { get; set; }
 
 ### See Also
 
-* class [Rotation](../../../aspose.pdf/rotation/)
+* enum [Rotation](../../../aspose.pdf/rotation/)
 * class [RotateOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

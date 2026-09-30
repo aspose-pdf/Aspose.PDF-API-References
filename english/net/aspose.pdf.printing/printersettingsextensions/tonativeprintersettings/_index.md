@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf.printing/printersettingsextensions/tonativeprintersettings/"
 product_version: "26.9.0"
 ---
-## ToNativePrinterSettings([PrinterSettings](../../../aspose.pdf.printing/printersettings/)) {#tonativeprintersettings}
+## PrinterSettingsExtensions.ToNativePrinterSettings method
 
 Converts [`PrinterSettings`](../../../aspose.pdf.printing/printersettings/) to Windows-specific System.Drawing.Printing.PrinterSettings.
 
 ```csharp
-public PrinterSettings ToNativePrinterSettings(PrinterSettings printerSettings)
+public static PrinterSettings ToNativePrinterSettings(this PrinterSettings printerSettings)
 ```
 
 | Parameter | Type | Description |
@@ -22,8 +22,6 @@ public PrinterSettings ToNativePrinterSettings(PrinterSettings printerSettings)
 | printerSettings | PrinterSettings | Printer settings to convert. |
 
 ### Return Value
-
-[PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 
 Windows printer settings.
 

@@ -5,7 +5,7 @@ articleTitle: "FileHyperlink"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.FileHyperlink class. Represents file hyperlink object."
 type: docs
-weight: 890
+weight: 880
 url: "/net/aspose.pdf/filehyperlink/"
 keywords: "FileHyperlink, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,8 +22,8 @@ public sealed class FileHyperlink : Hyperlink
 
 | Name | Description |
 | --- | --- |
-| [FileHyperlink](./filehyperlink/#constructor) | Initializes a new instance of the [`FileHyperlink`](../../aspose.pdf/filehyperlink/) class. |
-| [FileHyperlink](./filehyperlink/#constructor_1)(*string*) | Initializes a new instance of the [`FileHyperlink`](../../aspose.pdf/filehyperlink/) class. |
+| [FileHyperlink](./filehyperlink/#constructor)() | Initializes a new instance of the [`FileHyperlink`](../../aspose.pdf/filehyperlink/) class. |
+| [FileHyperlink](./filehyperlink/#constructor_1)(string) | Initializes a new instance of the [`FileHyperlink`](../../aspose.pdf/filehyperlink/) class. |
 
 ## Properties
 

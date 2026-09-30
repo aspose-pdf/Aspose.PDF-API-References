@@ -5,7 +5,7 @@ articleTitle: "Style"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "CheckboxField property. Gets or sets style of check box."
 type: docs
-weight: 100
+weight: 90
 url: "/net/aspose.pdf.forms/checkboxfield/style/"
 product_version: "26.9.0"
 ---
@@ -19,7 +19,7 @@ public BoxStyle Style { get; set; }
 
 ### See Also
 
-* class [BoxStyle](../../../aspose.pdf.forms/boxstyle/)
+* enum [BoxStyle](../../../aspose.pdf.forms/boxstyle/)
 * class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

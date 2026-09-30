@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/documentextensions/splitsharedimages/"
 product_version: "26.9.0"
 ---
-## SplitSharedImages([Document](../../../aspose.pdf/document/), [Page](../../../aspose.pdf/page/), [Page](../../../aspose.pdf/page/)) {#splitsharedimages}
+## DocumentExtensions.SplitSharedImages method
 
 For Images in Resources if two pages checks for common XImages and for similar cases splits them, by creating duplicate XImages.
 
 ```csharp
-public void SplitSharedImages(Document doc, Page page_1, Page page_2)
+public static void SplitSharedImages(this Document doc, Page page_1, Page page_2)
 ```
 
 | Parameter | Type | Description |
@@ -25,6 +25,8 @@ public void SplitSharedImages(Document doc, Page page_1, Page page_2)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
+* class [Page](../../../aspose.pdf/page/)
 * class [DocumentExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

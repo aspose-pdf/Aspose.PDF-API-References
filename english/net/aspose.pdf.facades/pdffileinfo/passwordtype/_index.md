@@ -5,7 +5,7 @@ articleTitle: "PasswordType"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileInfo property. Returns the type of password which was passed for creating PdfFileInfo instance. See possible values in PasswordType. Pay attention tha..."
 type: docs
-weight: 420
+weight: 390
 url: "/net/aspose.pdf.facades/pdffileinfo/passwordtype/"
 product_version: "26.9.0"
 ---
@@ -20,7 +20,7 @@ public PasswordType PasswordType { get; }
 
 ### See Also
 
-* class [PasswordType](../../../aspose.pdf/passwordtype/)
+* enum [PasswordType](../../../aspose.pdf/passwordtype/)
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

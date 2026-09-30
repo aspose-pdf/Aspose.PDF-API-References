@@ -9,13 +9,21 @@ weight: 110
 url: "/net/aspose.pdf/baseoperatorcollection/item/"
 product_version: "26.9.0"
 ---
-## BaseOperatorCollection.Item property
+## BaseOperatorCollection indexer
 
 Gets operator by its index.
 
 ```csharp
-public Operator Item { get; set; }
+public abstract Operator this[int index] { get; set; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Index of operator. Numbering is starts from 1. |
+
+### Return Value
+
+Operator from requested index
 
 ### See Also
 

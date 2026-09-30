@@ -22,7 +22,7 @@ public class OpenAIContext
 
 | Name | Description |
 | --- | --- |
-| [OpenAIContext](./openaicontext/#constructor) | The default constructor. |
+| [OpenAIContext](./openaicontext/)() | The default constructor. |
 
 ## Properties
 

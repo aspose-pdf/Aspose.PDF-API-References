@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.text/fontcollection/copyto/"
 product_version: "26.9.0"
 ---
-## CopyTo(Font[], int) {#copyto}
+## FontCollection.CopyTo method
 
 Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array
 
@@ -20,10 +20,11 @@ public void CopyTo(Font[] array, int index)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | array | Font[] | Array of objects which will be copied. |
-| index | int | Starting index from which copying will be started. |
+| index | Int32 | Starting index from which copying will be started. |
 
 ### See Also
 
+* class [Font](../../../aspose.pdf.text/font/)
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

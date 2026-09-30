@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/pdf3dviewarray/add/"
 product_version: "26.9.0"
 ---
-## Add([PDF3DView](../../../aspose.pdf.annotations/pdf3dview/)) {#add}
+## PDF3DViewArray.Add method
 
 Adds the specified view.
 
@@ -29,6 +29,7 @@ public void Add(PDF3DView view)
 
 ### See Also
 
+* class [PDF3DView](../../../aspose.pdf.annotations/pdf3dview/)
 * class [PDF3DViewArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

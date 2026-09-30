@@ -23,6 +23,7 @@ public PDF3DLightingScheme(LightingSchemeType type)
 
 ### See Also
 
+* enum [LightingSchemeType](../../../aspose.pdf.annotations/lightingschemetype/)
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -39,7 +40,7 @@ public PDF3DLightingScheme(string typeName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| typeName | string | Name of the lighting scheme type. |
+| typeName | String | Name of the lighting scheme type. |
 
 ### Exceptions
 

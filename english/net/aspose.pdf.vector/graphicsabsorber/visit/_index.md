@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.vector/graphicsabsorber/visit/"
 product_version: "26.9.0"
 ---
-## Visit([Page](../../../aspose.pdf/page/)) {#visit}
+## GraphicsAbsorber.Visit method
 
 Performs search on the specified page.
 
@@ -23,6 +23,7 @@ public void Visit(Page page)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [GraphicsAbsorber](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

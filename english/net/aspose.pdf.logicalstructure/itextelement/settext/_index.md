@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/itextelement/settext/"
 product_version: "26.9.0"
 ---
-## SetText(string) {#settext}
+## ITextElement.SetText method
 
 Appends text content to current text element.
 
@@ -19,7 +19,7 @@ public void SetText(string text)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | string | Text content |
+| text | String | Text content |
 
 ### See Also
 

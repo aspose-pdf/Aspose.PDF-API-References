@@ -5,39 +5,11 @@ articleTitle: "VerifySignature"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileSignature method. Checks the validity of a signature."
 type: docs
-weight: 490
+weight: 320
 url: "/net/aspose.pdf.facades/pdffilesignature/verifysignature/"
 product_version: "26.9.0"
 ---
-## VerifySignature(string) {#verifysignature}
-
-> **Deprecated.** Use VerifySignature(SignatureName) method instead.
-
-Checks the validity of a signature.
-
-```csharp
-public bool VerifySignature(string signName)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| signName | string | The name of signature. |
-
-### Return Value
-
-bool
-
-Return a result of bool type.
-
-### See Also
-
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## VerifySignature([SignatureName](../../../aspose.pdf.facades/signaturename/)) {#verifysignature_1}
+## VerifySignature([SignatureName](../../../aspose.pdf.facades/signaturename/)) {#verifysignature}
 
 Checks the validity of a signature.
 
@@ -51,100 +23,86 @@ public bool VerifySignature(SignatureName signName)
 
 ### Return Value
 
-bool
+Return a result of bool type.
+
+### See Also
+
+* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## VerifySignature([SignatureName](../../../aspose.pdf.facades/signaturename/), [ValidationOptions](../../../aspose.pdf.security/validationoptions/), out [ValidationResult](../../../aspose.pdf.security/validationresult/)) {#verifysignature_1}
+
+Checks the validity of a signature.
+
+This method allows you to check the signing certificate using OCSP and/or CRL (certificate revocation list) for revocation.
+ This method does not check the certificate chain and its validity, but it does check whether the end certificate has been revoked.
+
+```csharp
+public bool VerifySignature(SignatureName signName, ValidationOptions options, 
+    out ValidationResult validationResult)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| signName | SignatureName | The name of signature. |
+| options | ValidationOptions | The verification options. |
+| validationResult | ValidationResult& | The certificate validation result. |
+
+### Return Value
 
 Return a result of bool type.
 
 ### See Also
 
+* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [ValidationOptions](../../../aspose.pdf.security/validationoptions/)
+* class [ValidationResult](../../../aspose.pdf.security/validationresult/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## VerifySignature(string, [ValidationOptions](../../../aspose.pdf.security/validationoptions/), [ValidationResult](../../../aspose.pdf.security/validationresult/)) {#verifysignature_2}
+## VerifySignature([SignatureName](../../../aspose.pdf.facades/signaturename/), X509Certificate2, [ValidationOptions](../../../aspose.pdf.security/validationoptions/), out [ValidationResult](../../../aspose.pdf.security/validationresult/)) {#verifysignature_2}
 
-> **Deprecated.** Use VerifySignature(SignatureName, ValidationOptions, out ValidationResult) method instead.
+Checks the validity of a signature.
+ Verification is performed using the external public key certificate.
 
-
+This method allows you to check the signing certificate using OCSP and/or CRL (certificate revocation list) for revocation.
+ This method does not check the certificate chain and its validity, but it does check whether the end certificate has been revoked.
 
 ```csharp
-public bool VerifySignature(string signName, ValidationOptions options, ValidationResult validationResult)
+public bool VerifySignature(SignatureName signName, X509Certificate2 publicKeyCertificate, 
+    ValidationOptions options, out ValidationResult validationResult)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | string |  |
-| options | ValidationOptions |  |
-| validationResult | ValidationResult |  |
+| signName | SignatureName | The name of signature. |
+| publicKeyCertificate | X509Certificate2 | The public key certificate for verification. |
+| options | ValidationOptions | The verification options. |
+| validationResult | ValidationResult& | The certificate validation result. |
 
 ### Return Value
 
-bool
+Return a result of bool type.
 
 ### See Also
 
+* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [ValidationOptions](../../../aspose.pdf.security/validationoptions/)
+* class [ValidationResult](../../../aspose.pdf.security/validationresult/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## VerifySignature([SignatureName](../../../aspose.pdf.facades/signaturename/), [ValidationOptions](../../../aspose.pdf.security/validationoptions/), [ValidationResult](../../../aspose.pdf.security/validationresult/)) {#verifysignature_3}
-
-
-
-```csharp
-public bool VerifySignature(SignatureName signName, ValidationOptions options, ValidationResult validationResult)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| signName | SignatureName |  |
-| options | ValidationOptions |  |
-| validationResult | ValidationResult |  |
-
-### Return Value
-
-bool
-
-### See Also
-
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## VerifySignature([SignatureName](../../../aspose.pdf.facades/signaturename/), X509Certificate2, [ValidationOptions](../../../aspose.pdf.security/validationoptions/), [ValidationResult](../../../aspose.pdf.security/validationresult/)) {#verifysignature_4}
-
-
-
-```csharp
-public bool VerifySignature(SignatureName signName, X509Certificate2 publicKeyCertificate, ValidationOptions options, ValidationResult validationResult)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| signName | SignatureName |  |
-| publicKeyCertificate | X509Certificate2 |  |
-| options | ValidationOptions |  |
-| validationResult | ValidationResult |  |
-
-### Return Value
-
-bool
-
-### See Also
-
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## VerifySignature([SignatureName](../../../aspose.pdf.facades/signaturename/), X509Certificate2) {#verifysignature_5}
+## VerifySignature([SignatureName](../../../aspose.pdf.facades/signaturename/), X509Certificate2) {#verifysignature_3}
 
 Checks the validity of a signature.
  Verification is performed using the external public key certificate.
@@ -160,12 +118,11 @@ public bool VerifySignature(SignatureName signName, X509Certificate2 publicKeyCe
 
 ### Return Value
 
-bool
-
 Return a result of bool type.
 
 ### See Also
 
+* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

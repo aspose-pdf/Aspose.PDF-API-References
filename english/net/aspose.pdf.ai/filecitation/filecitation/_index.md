@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/filecitation/filecitation/"
 product_version: "26.9.0"
 ---
-## FileCitation() {#constructor}
+## FileCitation constructor
 
 The default constructor.
 

@@ -19,11 +19,9 @@ public bool Contains(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | Key which will be checked. |
+| key | String | Key which will be checked. |
 
 ### Return Value
-
-bool
 
 True - if the dictionary contains the specified key; otherwise, false.
 
@@ -49,12 +47,11 @@ public bool Contains(DefaultMetadataProperties property)
 
 ### Return Value
 
-bool
-
 True - if the dictionary contains the specified property; otherwise, false.
 
 ### See Also
 
+* enum [DefaultMetadataProperties](../../../aspose.pdf.facades/defaultmetadataproperties/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -71,11 +68,9 @@ public bool Contains(KeyValuePair<string, XmpValue> item)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | KeyValuePair<string, XmpValue> | Key-value pair. |
+| item | KeyValuePair`2 | Key-value pair. |
 
 ### Return Value
-
-bool
 
 true if this pauir was found.
 

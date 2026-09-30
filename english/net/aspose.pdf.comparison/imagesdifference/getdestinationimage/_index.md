@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.comparison/imagesdifference/getdestinationimage/"
 product_version: "26.9.0"
 ---
-## GetDestinationImage() {#getdestinationimage}
+## ImagesDifference.GetDestinationImage method
 
 Returns a new bitmap representing the destination image by applying the difference array to the source image.
 
@@ -18,8 +18,6 @@ public Bitmap GetDestinationImage()
 ```
 
 ### Return Value
-
-Bitmap
 
 A destination image.
 

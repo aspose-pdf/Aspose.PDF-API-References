@@ -9,13 +9,13 @@ weight: 40
 url: "/net/aspose.pdf/baseoperatorcollection/resumeupdate/"
 product_version: "26.9.0"
 ---
-## ResumeUpdate() {#resumeupdate}
+## BaseOperatorCollection.ResumeUpdate method
 
 Resumes document update.
  Updates contents stream in case there are any pending changes.
 
 ```csharp
-public void ResumeUpdate()
+public abstract void ResumeUpdate()
 ```
 
 ### See Also

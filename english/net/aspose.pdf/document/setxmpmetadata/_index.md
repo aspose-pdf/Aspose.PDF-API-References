@@ -9,7 +9,7 @@ weight: 950
 url: "/net/aspose.pdf/document/setxmpmetadata/"
 product_version: "26.9.0"
 ---
-## SetXmpMetadata(Stream) {#setxmpmetadata}
+## Document.SetXmpMetadata method
 
 Set XMP metadata of document.
 

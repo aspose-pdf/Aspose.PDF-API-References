@@ -14,7 +14,7 @@ product_version: "26.9.0"
 
 
 ```csharp
-public Point Position { set; }
+public override Point Position { set; }
 ```
 
 ### See Also

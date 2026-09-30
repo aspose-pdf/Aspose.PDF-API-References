@@ -36,8 +36,8 @@ public ThumbnailDevice(int width, int height)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| width | int | Thumbnail image output width. |
-| height | int | Thumbnail image output height. |
+| width | Int32 | Thumbnail image output width. |
+| height | Int32 | Thumbnail image output height. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf/ximage/addstencilmask/"
 product_version: "26.9.0"
 ---
-## AddStencilMask(Stream) {#addstencilmask}
+## XImage.AddStencilMask method
 
 Adds a stencil mask to the XImage.
 

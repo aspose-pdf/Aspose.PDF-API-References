@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/metered/metered/"
 product_version: "26.9.0"
 ---
-## Metered() {#constructor}
+## Metered constructor
 
 The default constructor.
 

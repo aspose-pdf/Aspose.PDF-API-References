@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/tabletrelement/createth/"
 product_version: "26.9.0"
 ---
-## CreateTH() {#createth}
+## TableTRElement.CreateTH method
 
 Creates [`TableTHElement`](../../../aspose.pdf.logicalstructure/tablethelement/) and added it to current table.
 
@@ -18,8 +18,6 @@ public TableTHElement CreateTH()
 ```
 
 ### Return Value
-
-[TableTHElement](../../../aspose.pdf.logicalstructure/tablethelement/)
 
 Created structure element.
 

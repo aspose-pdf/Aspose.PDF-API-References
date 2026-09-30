@@ -15,15 +15,15 @@ product_version: "26.9.0"
 Represents base functionality to extract text, images, and other types of content that may occur on the pages of PDF documents.
 
 ```csharp
-public abstract class PdfExtractor : IPlugin, IDisposable
+public abstract class PdfExtractor : IDisposable, IPlugin
 ```
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/) | Implementation of IDisposable. Actually, it is not necessary for PdfExtractor. |
-| [Process](./process/)(*IPluginOptions*) | Starts PdfExtractor processing with the specified parameters. |
+| [Dispose](./dispose/)() | Implementation of IDisposable. Actually, it is not necessary for PdfExtractor. |
+| [Process](./process/)(IPluginOptions) | Starts PdfExtractor processing with the specified parameters. |
 
 ## Remarks
 

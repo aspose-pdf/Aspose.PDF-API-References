@@ -19,8 +19,6 @@ public Row Add()
 
 ### Return Value
 
-[Row](../../../aspose.pdf/row/)
-
 The new row
 
 ### See Also
@@ -46,6 +44,7 @@ public void Add(Row row)
 
 ### See Also
 
+* class [Row](../../../aspose.pdf/row/)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

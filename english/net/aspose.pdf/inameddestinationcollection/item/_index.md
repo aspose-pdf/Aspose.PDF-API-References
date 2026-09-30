@@ -9,17 +9,25 @@ weight: 30
 url: "/net/aspose.pdf/inameddestinationcollection/item/"
 product_version: "26.9.0"
 ---
-## INamedDestinationCollection.Item property
+## INamedDestinationCollection indexer
 
 Gets or sets destination by its name.
 
 ```csharp
-public IAppointment Item { get; set; }
+public IAppointment this[string name] { get; set; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| name | Name value. |
+
+### Return Value
+
+Destination object.
 
 ### See Also
 
-* class [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
 * interface [INamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/runmodifyrequest/runmodifyrequest/"
 product_version: "26.9.0"
 ---
-## RunModifyRequest() {#constructor}
+## RunModifyRequest constructor
 
 The default constructor.
 

@@ -9,12 +9,12 @@ weight: 50
 url: "/net/aspose.pdf/pdfexception/generatecrashreport/"
 product_version: "26.9.0"
 ---
-## GenerateCrashReport([CrashReportOptions](../../../aspose.pdf/crashreportoptions/)) {#generatecrashreport}
+## PdfException.GenerateCrashReport method
 
 Forms crash report based on Exception HTML format
 
 ```csharp
-public void GenerateCrashReport(CrashReportOptions options)
+public static void GenerateCrashReport(CrashReportOptions options)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void GenerateCrashReport(CrashReportOptions options)
 
 ### See Also
 
+* class [CrashReportOptions](../../../aspose.pdf/crashreportoptions/)
 * class [PdfException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

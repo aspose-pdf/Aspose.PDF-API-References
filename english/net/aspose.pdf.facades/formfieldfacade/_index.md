@@ -5,7 +5,7 @@ articleTitle: "FormFieldFacade"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.FormFieldFacade class. Class for representing field properties."
 type: docs
-weight: 230
+weight: 220
 url: "/net/aspose.pdf.facades/formfieldfacade/"
 keywords: "FormFieldFacade, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,14 +22,13 @@ public sealed class FormFieldFacade
 
 | Name | Description |
 | --- | --- |
-| [FormFieldFacade](./formfieldfacade/#constructor) | The default constructor. |
+| [FormFieldFacade](./formfieldfacade/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Alignment](./alignment/) { get; set; } | The alignment of a field text, default is left alignment. |
-| [BackgroudColor](./backgroudcolor/) { get; set; } | Obsolete property. Use BackgroundColor. |
 | [BackgroundColor](./backgroundcolor/) { get; set; } | The color of a field background, default is white. |
 | [BorderColor](./bordercolor/) { get; set; } | The color of a field border. |
 | [BorderStyle](./borderstyle/) { get; set; } | The style of a field border. |
@@ -38,7 +37,7 @@ public sealed class FormFieldFacade
 | [ButtonStyle](./buttonstyle/) { get; set; } | The style of check box or radio box field, defined by FormFieldFacade.CheckBoxStyle*. |
 | [Caption](./caption/) { get; set; } | The normal caption of form field. |
 | [CustomFont](./customfont/) { get; set; } | Gets or sets name of the font when this is non-standart (other then 14 standard fonts). |
-| [ExportItems](./exportitems/) { get; set; } | The options for adding a list/combo/radio box. |
+| [ExportItems](./exportitems/) { get; set; } | The options for adding a list/combo/radio box |
 | [Font](./font/) { get; set; } | The font type of a field text. |
 | [FontSize](./fontsize/) { get; set; } | The size of a field text. |
 | [Items](./items/) { get; set; } | An array of string, each representing an option of a combo box/list/radio box field. |
@@ -52,7 +51,7 @@ public sealed class FormFieldFacade
 
 | Name | Description |
 | --- | --- |
-| [Reset](./reset/) | Reset all visual attribtues to empty value. |
+| [Reset](./reset/)() | Reset all visual attribtues to empty value. |
 
 ## Fields
 
@@ -76,7 +75,6 @@ public sealed class FormFieldFacade
 | const [BorderWidthThick](./borderwidththick/) | Defines a thick border width. |
 | const [BorderWidthThin](./borderwidththin/) | Defines a thin border width. |
 | const [BorderWidthUndefined](./borderwidthundefined/) | Undefined border width. |
-| const [BorderWidthUndified](./borderwidthundified/) | Undefined border width. |
 | const [CheckBoxStyleCheck](./checkboxstylecheck/) | Defines the shape of a check box field when it checked. |
 | const [CheckBoxStyleCircle](./checkboxstylecircle/) | Defines a circle check box style. |
 | const [CheckBoxStyleCross](./checkboxstylecross/) | Defines a cross check box style. |

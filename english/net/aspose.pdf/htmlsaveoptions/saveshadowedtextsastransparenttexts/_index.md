@@ -5,7 +5,7 @@ articleTitle: "SaveShadowedTextsAsTransparentTexts"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "HtmlSaveOptions field. Pdf can contain texts that are shadowed by another elements (f.e. by images) but can be selected to clipboard in Acrobat Reader (usual..."
 type: docs
-weight: 310
+weight: 300
 url: "/net/aspose.pdf/htmlsaveoptions/saveshadowedtextsastransparenttexts/"
 product_version: "26.9.0"
 ---

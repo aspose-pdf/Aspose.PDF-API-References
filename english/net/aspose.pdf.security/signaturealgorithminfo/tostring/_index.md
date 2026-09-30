@@ -9,17 +9,15 @@ weight: 10
 url: "/net/aspose.pdf.security/signaturealgorithminfo/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## SignatureAlgorithmInfo.ToString method
 
 Converts the current information object to its string representation.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 A string that represents the current information object.
 

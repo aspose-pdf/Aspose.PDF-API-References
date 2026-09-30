@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.logicalstructure/tocielement/addref/"
 product_version: "26.9.0"
 ---
-## AddRef([StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)) {#addref}
+## TOCIElement.AddRef method
 
 Adds a reference to the specified structure element within the Table of Contents Item (TOCI) element.
 
@@ -26,6 +26,7 @@ public void AddRef(StructureElement referencedStructureElement)
 
 ### See Also
 
+* class [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
 * class [TOCIElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

@@ -9,12 +9,12 @@ weight: 30
 url: "/net/aspose.pdf.flow/structurerecognitionvisitor/enddocument/"
 product_version: "26.9.0"
 ---
-## EndDocument() {#enddocument}
+## StructureRecognitionVisitor.EndDocument method
 
 Signals the end of document processing.
 
 ```csharp
-public void EndDocument()
+public virtual void EndDocument()
 ```
 
 ### See Also

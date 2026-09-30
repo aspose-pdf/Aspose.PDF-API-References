@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/ofd/ofd/"
 product_version: "26.9.0"
 ---
-## Ofd() {#constructor}
+## Ofd constructor
 
 The default constructor.
 

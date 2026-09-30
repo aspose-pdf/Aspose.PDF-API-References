@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.text/textfragmentcollection/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## TextFragmentCollection.GetEnumerator method
 
 Returns an enumerator for the entire collection.
 
@@ -18,8 +18,6 @@ public IEnumerator<TextFragment> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[TextFragment](../../../aspose.pdf.text/textfragment/)>
 
 Enumerator object.
 

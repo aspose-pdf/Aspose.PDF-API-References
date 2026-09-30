@@ -9,7 +9,7 @@ weight: 180
 url: "/net/aspose.pdf/rectangle/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## Rectangle.Clone method
 
 Clones the Rectangle object.
 
@@ -18,8 +18,6 @@ public object Clone()
 ```
 
 ### Return Value
-
-object
 
 Clone object.
 

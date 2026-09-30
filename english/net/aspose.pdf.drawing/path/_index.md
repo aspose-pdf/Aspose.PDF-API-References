@@ -22,22 +22,22 @@ public sealed class Path : Shape
 
 | Name | Description |
 | --- | --- |
-| [Path](./path/#constructor) | Initializes a new instance of the [`Path`](../../aspose.pdf.drawing/path/) class. |
-| [Path](./path/#constructor_1)(*Shape[]*) | Initializes a new instance of the [`Path`](../../aspose.pdf.drawing/path/) class. |
+| [Path](./path/#constructor)() | Initializes a new instance of the [`Path`](../../aspose.pdf.drawing/path/) class. |
+| [Path](./path/#constructor_1)(Shape[]) | Initializes a new instance of the [`Path`](../../aspose.pdf.drawing/path/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Gets or sets a `GraphInfo` object that indicates the graph info,such as color,. *(Inherited from Shape)* |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Gets or sets a `GraphInfo` object that indicates the graph info,such as color, line width,etc. |
 | [Shapes](./shapes/) { get; } | Gets or sets shapes collection. |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape. *(Inherited from Shape)* |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CheckBounds](./checkbounds/)(*double, double*) |  |
+| override [CheckBounds](./checkbounds/)(double, double) |  |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/iindexbitmapconverter/get1bppimage/"
 product_version: "26.9.0"
 ---
-## Get1BppImage(Bitmap) {#get1bppimage}
+## IIndexBitmapConverter.Get1BppImage method
 
 Returns 1Bpp bitmap representation
 
@@ -22,8 +22,6 @@ public Bitmap Get1BppImage(Bitmap src)
 | src | Bitmap | Source bitmap. |
 
 ### Return Value
-
-Bitmap
 
 Bitmap in 1 bpp image format.
 

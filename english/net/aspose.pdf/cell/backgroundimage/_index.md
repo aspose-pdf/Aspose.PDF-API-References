@@ -5,7 +5,7 @@ articleTitle: "BackgroundImage"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Cell property. Gets or sets the background image"
 type: docs
-weight: 90
+weight: 80
 url: "/net/aspose.pdf/cell/backgroundimage/"
 product_version: "26.9.0"
 ---

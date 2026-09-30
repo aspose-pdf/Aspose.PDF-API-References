@@ -14,13 +14,12 @@ product_version: "26.9.0"
 Ledger size (432x279 mm).
 
 ```csharp
-public PageSize PageLedger { get; }
+public static PageSize PageLedger { get; }
 ```
 
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

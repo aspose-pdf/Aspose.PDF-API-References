@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/metered/setmeteredkey/"
 product_version: "26.9.0"
 ---
-## SetMeteredKey(string, string) {#setmeteredkey}
+## Metered.SetMeteredKey method
 
 Sets metered public and private key.
  If you purchase metered license, when start application, this API should be called, normally, this is enough. 
@@ -22,8 +22,8 @@ public void SetMeteredKey(string publicKey, string privateKey)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| publicKey | string | public key |
-| privateKey | string | private key |
+| publicKey | String | public key |
+| privateKey | String | private key |
 
 ### See Also
 

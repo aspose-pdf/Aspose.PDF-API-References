@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.text/filefontsource/filefontsource/"
 product_version: "26.9.0"
 ---
-## FileFontSource(string) {#constructor}
+## FileFontSource constructor
 
 Initializes a new instance of [`FileFontSource`](../../../aspose.pdf.text/filefontsource/) class.
 
@@ -19,7 +19,7 @@ public FileFontSource(string filePath)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filePath | string | Path to the font file. |
+| filePath | String | Path to the font file. |
 
 ### See Also
 

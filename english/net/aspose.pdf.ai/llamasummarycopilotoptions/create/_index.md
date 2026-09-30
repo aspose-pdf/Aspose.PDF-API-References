@@ -14,19 +14,16 @@ product_version: "26.9.0"
 Creates a new instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
 
 ```csharp
-public LlamaSummaryCopilotOptions Create()
+public static LlamaSummaryCopilotOptions Create()
 ```
 
 ### Return Value
-
-[LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
 
 A new instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
 
 ### See Also
 
 * class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
-* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,23 +34,20 @@ A new instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasum
 Creates an instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/) and configures it using the provided delegate.
 
 ```csharp
-public LlamaSummaryCopilotOptions Create(Action<LlamaSummaryCopilotOptions> config)
+public static LlamaSummaryCopilotOptions Create(Action<LlamaSummaryCopilotOptions> config)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| config | Action<LlamaSummaryCopilotOptions> | The delegate to configure the options. |
+| config | Action`1 | The delegate to configure the options. |
 
 ### Return Value
-
-[LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
 
 The configured instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
 
 ### See Also
 
 * class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
-* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

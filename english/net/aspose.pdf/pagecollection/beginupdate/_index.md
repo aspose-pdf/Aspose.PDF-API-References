@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf/pagecollection/beginupdate/"
 product_version: "26.9.0"
 ---
-## BeginUpdate() {#beginupdate}
+## PageCollection.BeginUpdate method
 
 Updates when group changes begin. Stops page cache recalculation on each operation.
  We recommend calling the BeginUpdate/EndUpdate methods in a try-finally block.

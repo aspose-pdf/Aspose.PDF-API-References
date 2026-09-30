@@ -19,7 +19,7 @@ public ImageEncoding Encoding { get; set; }
 
 ### See Also
 
-* class [ImageEncoding](../../../aspose.pdf.optimization/imageencoding/)
+* enum [ImageEncoding](../../../aspose.pdf.optimization/imageencoding/)
 * class [ImageCompressionOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)

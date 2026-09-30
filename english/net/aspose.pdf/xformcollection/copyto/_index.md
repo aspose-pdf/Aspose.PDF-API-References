@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf/xformcollection/copyto/"
 product_version: "26.9.0"
 ---
-## CopyTo(XForm[], int) {#copyto}
+## XFormCollection.CopyTo method
 
 Copies XFormCollection into collection.
 
@@ -20,10 +20,11 @@ public void CopyTo(XForm[] array, int index)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | array | XForm[] | Array of XForm to be copied |
-| index | int | Index where XFormCollection will be copied |
+| index | Int32 | Index where XFormCollection will be copied |
 
 ### See Also
 
+* class [XForm](../../../aspose.pdf/xform/)
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

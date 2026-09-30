@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.tagged/iadjustposition/adjustposition/"
 product_version: "26.9.0"
 ---
-## AdjustPosition([PositionSettings](../../../aspose.pdf.tagged/positionsettings/)) {#adjustposition}
+## IAdjustPosition.AdjustPosition method
 
 Adjust position.
 
@@ -23,6 +23,7 @@ public void AdjustPosition(PositionSettings positionSettings)
 
 ### See Also
 
+* class [PositionSettings](../../../aspose.pdf.tagged/positionsettings/)
 * interface [IAdjustPosition](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)

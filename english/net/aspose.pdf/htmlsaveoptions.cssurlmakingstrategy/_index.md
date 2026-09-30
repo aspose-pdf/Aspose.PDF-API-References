@@ -5,7 +5,7 @@ articleTitle: "HtmlSaveOptions.CssUrlMakingStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "You can assign to this property delegate created from custom method that implements creation of URL of CSS referenced in generated HTML document. F.e. if You..."
 type: docs
-weight: 1230
+weight: 1220
 url: "/net/aspose.pdf/htmlsaveoptions.cssurlmakingstrategy/"
 product_version: "26.9.0"
 ---
@@ -16,8 +16,16 @@ You can assign to this property delegate created from custom method that impleme
  Then such custom strategy must return "otherPage.ASPX?CssID=zjjkklj"
 
 ```csharp
-public delegate void CssUrlMakingStrategy()
+public delegate string CssUrlMakingStrategy(CssUrlRequestInfo cssUrlRequestInfo);
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| cssUrlRequestInfo | CssUrlRequestInfo | represents set of data that can be used for generation of CSS' URL |
+
+### Return Value
+
+must return string that represents CSS's URL or URL's template
 
 ### See Also
 

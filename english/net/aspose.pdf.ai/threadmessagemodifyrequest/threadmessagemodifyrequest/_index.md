@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/threadmessagemodifyrequest/threadmessagemodifyrequest/"
 product_version: "26.9.0"
 ---
-## ThreadMessageModifyRequest() {#constructor}
+## ThreadMessageModifyRequest constructor
 
 The default constructor.
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/backgroundartifact/backgroundartifact/"
 product_version: "26.9.0"
 ---
-## BackgroundArtifact() {#constructor}
+## BackgroundArtifact constructor
 
 Initializes BackgroundArtifact object.
 

@@ -25,28 +25,7 @@ public TimestampOptions()
 
 ---
 
-## TimestampOptions(string, string) {#constructor_1}
-
-Creates a new instance with a PFX file path and password.
-
-```csharp
-public TimestampOptions(string pfxPath, string password)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pfxPath | string | Path to the PFX file. |
-| password | string | Password for the PFX file. |
-
-### See Also
-
-* class [TimestampOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TimestampOptions(Stream, string) {#constructor_2}
+## TimestampOptions(Stream, string) {#constructor_1}
 
 Creates a new instance with a PFX stream and password.
 
@@ -57,7 +36,28 @@ public TimestampOptions(Stream pfxStream, string password)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pfxStream | Stream | Stream containing the PFX data. |
-| password | string | Password for the PFX. |
+| password | String | Password for the PFX. |
+
+### See Also
+
+* class [TimestampOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TimestampOptions(string, string) {#constructor_2}
+
+Creates a new instance with a PFX file path and password.
+
+```csharp
+public TimestampOptions(string pfxPath, string password)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pfxPath | String | Path to the PFX file. |
+| password | String | Password for the PFX file. |
 
 ### See Also
 

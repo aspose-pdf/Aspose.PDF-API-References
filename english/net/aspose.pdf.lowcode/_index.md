@@ -48,8 +48,8 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [FormFlattener](./formflattener/) | Represents FormFlattener plugin. |
 | [FormFlattenerOptions](./formflatteneroptions/) | Base class for option classes for flatten fields (not annotations) in document by FormFlattener plugin. |
 | [FormImporter](./formimporter/) | Plugin that imports form field values from a JSON source into a PDF document. |
-| [FormImporterJsonOptions](./formimporterjsonoptions/) | Options for importing form field values from JSON. |
-| [FormJsonImportSource](./formjsonimportsource/) | Holds a pair of data sources that belong together for an import operation:. |
+| [FormImporterJsonOptions](./formimporterjsonoptions/) | Options for importing form field values from JSON. This class directly implements the required plugin option interfaces and holds a collection of input source pairs (PDF + JSON) and a collection of output targets where the resulting PDFs will be saved. |
+| [FormJsonImportSource](./formjsonimportsource/) | Holds a pair of data sources that belong together for an import operation: the source PDF document and the JSON file that contains the field values. |
 | [FormOptions](./formoptions/) | Represents options for a family Form.... plugins. |
 | [FormRemoveAllFieldsOptions](./formremoveallfieldsoptions/) | Represents options for remove all fields in document by [`FormEditor`](../aspose.pdf.lowcode/formeditor/) plugin. |
 | [FormRemoveSelectedFieldsOptions](./formremoveselectedfieldsoptions/) | Represents options for remove selected fields in document by [`FormEditor`](../aspose.pdf.lowcode/formeditor/) plugin. |
@@ -71,7 +71,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [OrganizerBaseOptions](./organizerbaseoptions/) | Represents base options for plugins. |
 | [PdfAConvertOptions](./pdfaconvertoptions/) | Represents options for converting PDF documents to PDF/A format with the [`PdfAConverter`](../aspose.pdf.lowcode/pdfaconverter/) plugin. |
 | [PdfAConverter](./pdfaconverter/) | Represents a plugin for handling the conversion of PDF documents in a PDF/A format and for validation of the PDF/A conformance. |
-| [PdfAOptionsBase](./pdfaoptionsbase/) | Represents the base class for the [`PdfAConverter`](../aspose.pdf.lowcode/pdfaconverter/) plugin options. |
+| [PdfAOptionsBase](./pdfaoptionsbase/) | Represents the base class for the [`PdfAConverter`](../aspose.pdf.lowcode/pdfaconverter/) plugin options. This class provides properties and methods for configuring the PDF/A conversion and validation process. |
 | [PdfAValidateOptions](./pdfavalidateoptions/) | Represents options for validating PDF/A compliance of PDF documents with the [`PdfAConverter`](../aspose.pdf.lowcode/pdfaconverter/) plugin. |
 | [PdfAValidationResult](./pdfavalidationresult/) | Represents the result of a PDF/A validation process. |
 | [PdfConverterOptions](./pdfconverteroptions/) | Represents options for Pdf converter plugins. |
@@ -131,7 +131,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [PdfAStandardVersion](./pdfastandardversion/) | Specifies the PDF/A standard version for a PDF document. |
 | [PdfToHtmlOptions.SaveDataType](./pdftohtmloptions.savedatatype/) | Defines output type of HTML file. |
 | [PdfToImageOptions.ImageConversionMode](./pdftoimageoptions.imageconversionmode/) | Defines different modes which can be used while converting from PDF document to Jpeg image. See [`JpegOptions`](../aspose.pdf.lowcode/jpegoptions/) class. |
-| [PdfToXlsOptions.ExcelFormat](./pdftoxlsoptions.excelformat/) | Allows to specify .xlsx, .xls/xml or csv file format. |
+| [PdfToXlsOptions.ExcelFormat](./pdftoxlsoptions.excelformat/) | Allows to specify .xlsx, .xls/xml or csv file format. Default value is XLSX. |
 | [SaveFormat](./saveformat/) | Allows to specify .doc or .docx file format. |
 | [TextExtractorOptions.TextFormattingMode](./textextractoroptions.textformattingmode/) | Defines different modes which can be used while converting a PDF document into text. See [`TextExtractorOptions`](../aspose.pdf.lowcode/textextractoroptions/) class. |
 

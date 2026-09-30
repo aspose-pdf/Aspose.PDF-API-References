@@ -14,14 +14,14 @@ product_version: "26.9.0"
 Represents information about interruption.
 
 ```csharp
-public interface IInterruptMonitor
+public interface IInterruptMonitor : IDisposable
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CancellationToken](./cancellationtoken/) { get; } | Monitor's cancellation token used for process interruption. |
+| [CancellationToken](./cancellationtoken/) { get; } | Monitor's cancellation token used for process interruption. By default each IInterruptMonitor generates its own cancellationSource |
 
 ## Methods
 

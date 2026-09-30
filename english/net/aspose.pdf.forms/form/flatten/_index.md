@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.forms/form/flatten/"
 product_version: "26.9.0"
 ---
-## Flatten() {#flatten}
+## Form.Flatten method
 
 Removes all form fields and place their values directly on the page.
 

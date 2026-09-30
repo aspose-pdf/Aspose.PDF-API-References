@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf.annotations/pdf3dannotation/getimagepreview/"
 product_version: "26.9.0"
 ---
-## GetImagePreview() {#getimagepreview}
+## PDF3DAnnotation.GetImagePreview method
 
 Gets the image preview.
 
@@ -18,8 +18,6 @@ public Stream GetImagePreview()
 ```
 
 ### Return Value
-
-[Stream](https://learn.microsoft.com/dotnet/api/system.io.stream)
 
 Image preview as stream.
 

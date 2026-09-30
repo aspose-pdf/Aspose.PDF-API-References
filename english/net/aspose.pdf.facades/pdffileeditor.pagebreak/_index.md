@@ -5,7 +5,7 @@ articleTitle: "PdfFileEditor.PageBreak"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.PdfFileEditor.PageBreak class. Data of page break position."
 type: docs
-weight: 400
+weight: 390
 url: "/net/aspose.pdf.facades/pdffileeditor.pagebreak/"
 keywords: "PdfFileEditor.PageBreak, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,7 +22,7 @@ public class PageBreak
 
 | Name | Description |
 | --- | --- |
-| [PdfFileEditor.PageBreak](./pagebreak/#constructor)(*int, double*) | Constructor to create PageBreak object. |
+| [PageBreak](./pagebreak/)(int, double) | Constructor to create PageBreak object. |
 
 ## Properties
 

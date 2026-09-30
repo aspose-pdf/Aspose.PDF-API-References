@@ -22,7 +22,7 @@ public sealed class FileFontSource : FontSource
 
 | Name | Description |
 | --- | --- |
-| [FileFontSource](./filefontsource/#constructor)(*string*) | Initializes a new instance of [`FileFontSource`](../../aspose.pdf.text/filefontsource/) class. |
+| [FileFontSource](./filefontsource/)(string) | Initializes a new instance of [`FileFontSource`](../../aspose.pdf.text/filefontsource/) class. |
 
 ## Properties
 
@@ -34,7 +34,7 @@ public sealed class FileFontSource : FontSource
 
 | Name | Description |
 | --- | --- |
-| [Equals](./equals/)(*object*) | Check if font file source objects are equal. |
+| override [Equals](./equals/)(object) | Check if font file source objects are equal. |
 
 ### See Also
 

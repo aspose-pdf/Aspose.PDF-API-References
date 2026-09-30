@@ -5,7 +5,7 @@ articleTitle: "LoadOptions.ResourceLoadingStrategy"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Sometimes it's necessary to avoid usage of internal loader of external resources(like images or CSSes) and supply custom method, that will get requested reso..."
 type: docs
-weight: 1830
+weight: 1790
 url: "/net/aspose.pdf/loadoptions.resourceloadingstrategy/"
 product_version: "26.9.0"
 ---
@@ -18,8 +18,16 @@ Sometimes it's necessary to avoid usage of internal loader of external resources
  This delegate defines signature of such custom method.
 
 ```csharp
-public delegate void ResourceLoadingStrategy()
+public delegate ResourceLoadingResult ResourceLoadingStrategy(string resourceURI);
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| resourceURI | String | Resource URI. |
+
+### Return Value
+
+ResourceLoadingResult object.
 
 ### See Also
 

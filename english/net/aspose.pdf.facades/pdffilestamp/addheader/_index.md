@@ -5,7 +5,7 @@ articleTitle: "AddHeader"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileStamp method. Adds header to the page."
 type: docs
-weight: 190
+weight: 130
 url: "/net/aspose.pdf.facades/pdffilestamp/addheader/"
 product_version: "26.9.0"
 ---
@@ -20,10 +20,11 @@ public void AddHeader(FormattedText formattedText, float topMargin)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | formattedText | FormattedText | Text for header and properties of the text. |
-| topMargin | float | Margin on the top of page. |
+| topMargin | Single | Margin on the top of page. |
 
 ### See Also
 
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -35,18 +36,20 @@ public void AddHeader(FormattedText formattedText, float topMargin)
 Adds header to the pages of file.
 
 ```csharp
-public void AddHeader(FormattedText formattedText, float topMargin, float leftMargin, float rightMargin)
+public void AddHeader(FormattedText formattedText, float topMargin, float leftMargin, 
+    float rightMargin)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | formattedText | FormattedText | Formatted text object which contains page text and its properties. |
-| topMargin | float | Margin on the top of the page. |
-| leftMargin | float | Margin on the left of the page. |
-| rightMargin | float | Margin on the right of the page. |
+| topMargin | Single | Margin on the top of the page. |
+| leftMargin | Single | Margin on the left of the page. |
+| rightMargin | Single | Margin on the right of the page. |
 
 ### See Also
 
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -63,8 +66,8 @@ public void AddHeader(string imageFile, float topMargin)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageFile | string | Path to the image file. |
-| topMargin | float | Margin at top of the page. |
+| imageFile | String | Path to the image file. |
+| topMargin | Single | Margin at top of the page. |
 
 ### See Also
 
@@ -84,10 +87,10 @@ public void AddHeader(string imageFile, float topMargin, float leftMargin, float
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageFile | string | Path to the image file. |
-| topMargin | float | Margin at top of the page. |
-| leftMargin | float | Margin at left side of the page. |
-| rightMargin | float | Margin at right side of the page. |
+| imageFile | String | Path to the image file. |
+| topMargin | Single | Margin at top of the page. |
+| leftMargin | Single | Margin at left side of the page. |
+| rightMargin | Single | Margin at right side of the page. |
 
 ### See Also
 
@@ -108,7 +111,7 @@ public void AddHeader(Stream imageStream, float topMargin)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | imageStream | Stream | Stream of the image. |
-| topMargin | float | Margin at top of the page. |
+| topMargin | Single | Margin at top of the page. |
 
 ### See Also
 
@@ -129,9 +132,9 @@ public void AddHeader(Stream inputStream, float topMargin, float leftMargin, flo
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Stream which contains image data. |
-| topMargin | float | Margin at top of the page. |
-| leftMargin | float | Margin at left side of the page. |
-| rightMargin | float | Margin at right side of the page. |
+| topMargin | Single | Margin at top of the page. |
+| leftMargin | Single | Margin at left side of the page. |
+| rightMargin | Single | Margin at right side of the page. |
 
 ### See Also
 

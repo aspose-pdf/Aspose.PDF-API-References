@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.text/textsegmentcollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## TextSegmentCollection.Clear method
 
 Clears all items from the collection.
 

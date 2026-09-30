@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.vector/graphicelementcollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## GraphicElementCollection.Clear method
 
 Clears the collection.
 

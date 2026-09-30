@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets character spacing of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object.
 
 ```csharp
-public float CharacterSpacing { get; set; }
+public override float CharacterSpacing { get; set; }
 ```
 
 ### See Also

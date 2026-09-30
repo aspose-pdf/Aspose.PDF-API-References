@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.lowcode/tocgenerator/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## TocGenerator.Dispose method
 
 Implementation of IDisposable. In fact, it is not necessary for TocGenerator.
 

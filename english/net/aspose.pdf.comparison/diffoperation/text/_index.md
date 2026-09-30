@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Get and set operation text.
 
 ```csharp
-public string Text { get; set; }
+public string Text { get; }
 ```
 
 ### See Also

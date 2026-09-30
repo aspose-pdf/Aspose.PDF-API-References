@@ -17,6 +17,10 @@ Gets the number of elements contained in the System.Collections.Generic.List.
 public int Count { get; }
 ```
 
+### Return Value
+
+The number of elements contained in the System.Collections.Generic.List.
+
 ### See Also
 
 * class [BoundsCheckableList<T>](../)

@@ -22,7 +22,7 @@ public class PDF3DStream
 
 | Name | Description |
 | --- | --- |
-| [PDF3DStream](./pdf3dstream/#constructor)(*[Document](../../aspose.pdf/document/), [PDF3DArtwork](../../aspose.pdf.annotations/pdf3dartwork/)*) | Initializes a new instance of the [`PDF3DStream`](../../aspose.pdf.annotations/pdf3dstream/) class. |
+| [PDF3DStream](./pdf3dstream/)(Document, PDF3DArtwork) | Initializes a new instance of the [`PDF3DStream`](../../aspose.pdf.annotations/pdf3dstream/) class. |
 
 ## Properties
 

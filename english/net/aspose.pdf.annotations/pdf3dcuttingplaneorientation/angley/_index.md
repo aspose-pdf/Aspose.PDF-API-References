@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets the angle to Y axis.
 
 ```csharp
-public Nullable<double> AngleY { get; set; }
+public double? AngleY { get; set; }
 ```
 
 ### Property Value

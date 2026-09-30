@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.xfaconverter/xfaparseroptions/xfaparseroptions/"
 product_version: "26.9.0"
 ---
-## XfaParserOptions(SizeF) {#constructor}
+## XfaParserOptions constructor
 
 Initializes a new instance of the [`XfaParserOptions`](../../../aspose.pdf.xfaconverter/xfaparseroptions/) class.
 

@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/pagedate.daycomponent/daycomponent/"
 product_version: "26.9.0"
 ---
-## PageDate.DayComponent() {#constructor}
+## DayComponent constructor
 
 The default constructor.
 
 ```csharp
-public PageDate.DayComponent()
+public DayComponent()
 ```
 
 ### See Also

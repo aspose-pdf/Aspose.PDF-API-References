@@ -5,7 +5,7 @@ articleTitle: "AddText"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileMend method. Not implemented."
 type: docs
-weight: 150
+weight: 110
 url: "/net/aspose.pdf.facades/pdffilemend/addtext/"
 product_version: "26.9.0"
 ---
@@ -20,18 +20,17 @@ public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float low
 | Parameter | Type | Description |
 | --- | --- | --- |
 | text | FormattedText | FormattedText object. |
-| pageNum | int | Page number. |
-| lowerLeftX | float | Lower left X coordinate. |
-| lowerLeftY | float | Lower left Y coordinate. |
+| pageNum | Int32 | Page number. |
+| lowerLeftX | Single | Lower left X coordinate. |
+| lowerLeftY | Single | Lower left Y coordinate. |
 
 ### Return Value
-
-bool
 
 True in case text was successfully added.
 
 ### See Also
 
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -43,26 +42,26 @@ True in case text was successfully added.
 Not implemented.
 
 ```csharp
-public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
+public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float lowerLeftY, 
+    float upperRightX, float upperRightY)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | text | FormattedText | FormattedText object. |
-| pageNum | int | Page number. |
-| lowerLeftX | float | Lower left X coordinate. |
-| lowerLeftY | float | Lower left Y coordinate. |
-| upperRightX | float | Upper right X coordinate. |
-| upperRightY | float | Upper right Y coordinate. |
+| pageNum | Int32 | Page number. |
+| lowerLeftX | Single | Lower left X coordinate. |
+| lowerLeftY | Single | Lower left Y coordinate. |
+| upperRightX | Single | Upper right X coordinate. |
+| upperRightY | Single | Upper right Y coordinate. |
 
 ### Return Value
-
-bool
 
 True in case text was successfully added.
 
 ### See Also
 
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -74,26 +73,26 @@ True in case text was successfully added.
 Not implemented.
 
 ```csharp
-public bool AddText(FormattedText text, int[] pageNums, float lowerLeftX, float lowerLeftY, float upperRightX, float upperRightY)
+public bool AddText(FormattedText text, int[] pageNums, float lowerLeftX, float lowerLeftY, 
+    float upperRightX, float upperRightY)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | text | FormattedText | FormattedText object. |
-| pageNums | int[] | Page numbers array. |
-| lowerLeftX | float | Lower left X coordinate. |
-| lowerLeftY | float | Lower left Y coordinate. |
-| upperRightX | float | Upper right X coordinate. |
-| upperRightY | float | Upper right Y coordinate. |
+| pageNums | Int32[] | Page numbers array. |
+| lowerLeftX | Single | Lower left X coordinate. |
+| lowerLeftY | Single | Lower left Y coordinate. |
+| upperRightX | Single | Upper right X coordinate. |
+| upperRightY | Single | Upper right Y coordinate. |
 
 ### Return Value
-
-bool
 
 True in case text was successfully added.
 
 ### See Also
 
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

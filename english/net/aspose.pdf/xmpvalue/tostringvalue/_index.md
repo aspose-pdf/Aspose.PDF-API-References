@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf/xmpvalue/tostringvalue/"
 product_version: "26.9.0"
 ---
-## ToStringValue() {#tostringvalue}
+## XmpValue.ToStringValue method
 
 Converts to string.
 
@@ -18,8 +18,6 @@ public string ToStringValue()
 ```
 
 ### Return Value
-
-string
 
 String value.
 

@@ -9,7 +9,7 @@ weight: 660
 url: "/net/aspose.pdf/document/decrypt/"
 product_version: "26.9.0"
 ---
-## Decrypt() {#decrypt}
+## Document.Decrypt method
 
 Decrypts the document. Call then Save to obtain decrypted version of the document.
 

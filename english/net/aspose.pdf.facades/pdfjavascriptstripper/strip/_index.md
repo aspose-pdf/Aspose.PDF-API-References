@@ -19,12 +19,10 @@ public bool Strip(string inputFile, string outputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | File containig the document. |
-| outputFile | string | File where document will be stored. |
+| inputFile | String | File containig the document. |
+| outputFile | String | File where document will be stored. |
 
 ### Return Value
-
-bool
 
 true if JavaScript was stripped successfully.
 
@@ -50,8 +48,6 @@ public bool Strip(Stream inStream, Stream outStream)
 | outStream | Stream | Stream where the document will be stored. |
 
 ### Return Value
-
-bool
 
 true if JavaScript was stripped successfully.
 

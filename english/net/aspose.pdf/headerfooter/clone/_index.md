@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/headerfooter/clone/"
 product_version: "26.9.0"
 ---
-## Clone() {#clone}
+## HeaderFooter.Clone method
 
 Clones a new object.
 
@@ -18,8 +18,6 @@ public object Clone()
 ```
 
 ### Return Value
-
-object
 
 The new object.
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.text/memoryfontsource/memoryfontsource/"
 product_version: "26.9.0"
 ---
-## MemoryFontSource(byte[]) {#constructor}
+## MemoryFontSource constructor
 
 Initializes a new instance of [`MemoryFontSource`](../../../aspose.pdf.text/memoryfontsource/) class.
 
@@ -19,7 +19,7 @@ public MemoryFontSource(byte[] fontBytes)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontBytes | byte[] | Font file byte array. |
+| fontBytes | Byte[] | Font file byte array. |
 
 ### See Also
 

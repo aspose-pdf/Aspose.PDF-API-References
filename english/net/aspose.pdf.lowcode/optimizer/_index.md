@@ -22,13 +22,13 @@ public sealed class Optimizer : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [Optimizer](./optimizer/#constructor) | The default constructor. |
+| [Optimizer](./optimizer/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(*IPluginOptions*) | Starts the [`Optimizer`](../../aspose.pdf.lowcode/optimizer/) processing with the specified parameters. |
+| [Process](./process/)(IPluginOptions) | Starts the [`Optimizer`](../../aspose.pdf.lowcode/optimizer/) processing with the specified parameters. |
 
 ### See Also
 

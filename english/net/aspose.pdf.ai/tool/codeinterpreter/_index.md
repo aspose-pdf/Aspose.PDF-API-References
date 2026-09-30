@@ -14,13 +14,12 @@ product_version: "26.9.0"
 Gets a tool instance representing a code interpreter.
 
 ```csharp
-public Tool CodeInterpreter { get; }
+public static Tool CodeInterpreter { get; }
 ```
 
 ### See Also
 
 * class [Tool](../../../aspose.pdf.ai/tool/)
-* class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

@@ -9,13 +9,21 @@ weight: 310
 url: "/net/aspose.pdf/pagecollection/item/"
 product_version: "26.9.0"
 ---
-## PageCollection.Item property
+## PageCollection indexer
 
 Gets page by index.
 
 ```csharp
-public Page Item { get; }
+public Page this[int index] { get; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Index of page. |
+
+### Return Value
+
+Retreived page.
 
 ### See Also
 

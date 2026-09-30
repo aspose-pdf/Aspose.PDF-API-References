@@ -22,13 +22,13 @@ public sealed class Merger : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [Merger](./merger/#constructor) | The default constructor. |
+| [Merger](./merger/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(*IPluginOptions*) | Starts the [`Merger`](../../aspose.pdf.lowcode/merger/) processing with the specified parameters. |
+| [Process](./process/)(IPluginOptions) | Starts the [`Merger`](../../aspose.pdf.lowcode/merger/) processing with the specified parameters. |
 
 ### See Also
 

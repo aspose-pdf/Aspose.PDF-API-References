@@ -9,13 +9,13 @@ weight: 40
 url: "/net/aspose.pdf/page/addgraphics/"
 product_version: "26.9.0"
 ---
-## AddGraphics([GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#addgraphics}
+## Page.AddGraphics method
 
 Adds graphics to the page.
  Works faster than adding elements one by one with `AddOnPage` method.
 
 ```csharp
-public void AddGraphics(GraphicElementCollection elements, Rectangle rectangle)
+public void AddGraphics(GraphicElementCollection elements, Rectangle rectangle = null)
 ```
 
 | Parameter | Type | Description |
@@ -27,6 +27,8 @@ public void AddGraphics(GraphicElementCollection elements, Rectangle rectangle)
 ### See Also
 
 * [Position](../position/)
+* class [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

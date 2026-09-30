@@ -9,13 +9,21 @@ weight: 90
 url: "/net/aspose.pdf.text/tabstops/item/"
 product_version: "26.9.0"
 ---
-## TabStops.Item property
+## TabStops indexer
 
 Gets or sets a [`TabStop`](../../../aspose.pdf.text/tabstop/) object from the collection according to TabStop index.
 
 ```csharp
-public TabStop Item { get; set; }
+public TabStop this[int index] { get; set; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| index | Zero-based index of element in <see cref="T:Aspose.Pdf.Text.TabStops" /> collection. |
+
+### Return Value
+
+[`TabStop`](../../../aspose.pdf.text/tabstop/) object.
 
 ### See Also
 

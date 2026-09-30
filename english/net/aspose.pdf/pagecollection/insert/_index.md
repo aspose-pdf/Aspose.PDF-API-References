@@ -22,11 +22,9 @@ public Page Insert(int pageNumber)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | int | Position of the new page. |
+| pageNumber | Int32 | Position of the new page. |
 
 ### Return Value
-
-[Page](../../../aspose.pdf/page/)
 
 Inserted page.
 
@@ -49,12 +47,10 @@ public Page Insert(int pageNumber, Page entity)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | int | Required page index in collection. |
+| pageNumber | Int32 | Required page index in collection. |
 | entity | Page | Page to be inserted. |
 
 ### Return Value
-
-[Page](../../../aspose.pdf/page/)
 
 Inserted page.
 
@@ -77,8 +73,8 @@ public void Insert(int pageNumber, ICollection<Page> pages)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | int | Starting position of the new pages. |
-| pages | ICollection<Page> | Pages collection. |
+| pageNumber | Int32 | Starting position of the new pages. |
+| pages | ICollection`1 | Pages collection. |
 
 ### See Also
 
@@ -98,11 +94,12 @@ public void Insert(int pageNumber, Page[] pages)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageNumber | int | Starting number of the new pages. |
+| pageNumber | Int32 | Starting number of the new pages. |
 | pages | Page[] | Array of pages which will be inserted. |
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

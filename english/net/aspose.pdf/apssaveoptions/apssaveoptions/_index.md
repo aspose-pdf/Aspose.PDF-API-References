@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/apssaveoptions/apssaveoptions/"
 product_version: "26.9.0"
 ---
-## ApsSaveOptions() {#constructor}
+## ApsSaveOptions constructor
 
 The default constructor.
 

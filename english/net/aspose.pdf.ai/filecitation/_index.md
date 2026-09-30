@@ -22,7 +22,7 @@ public class FileCitation
 
 | Name | Description |
 | --- | --- |
-| [FileCitation](./filecitation/#constructor) | The default constructor. |
+| [FileCitation](./filecitation/)() | The default constructor. |
 
 ## Properties
 

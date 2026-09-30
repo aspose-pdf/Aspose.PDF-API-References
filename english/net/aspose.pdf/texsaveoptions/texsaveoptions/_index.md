@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/texsaveoptions/texsaveoptions/"
 product_version: "26.9.0"
 ---
-## TeXSaveOptions() {#constructor}
+## TeXSaveOptions constructor
 
 The default constructor.
 

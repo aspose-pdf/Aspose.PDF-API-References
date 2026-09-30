@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.text/memoryfontsource/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## MemoryFontSource.Dispose method
 
 Releases internal resources.
 

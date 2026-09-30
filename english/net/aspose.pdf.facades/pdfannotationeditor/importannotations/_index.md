@@ -5,7 +5,7 @@ articleTitle: "ImportAnnotations"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfAnnotationEditor method. Imports the specified annotations into document from array of another PDF documents."
 type: docs
-weight: 100
+weight: 80
 url: "/net/aspose.pdf.facades/pdfannotationeditor/importannotations/"
 product_version: "26.9.0"
 ---
@@ -19,11 +19,12 @@ public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotFile | string[] | The array of paths of PDF documents that contain source annotations. |
+| annotFile | String[] | The array of paths of PDF documents that contain source annotations. |
 | annotType | AnnotationType[] | The array of annotation types to be imported. |
 
 ### See Also
 
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -40,7 +41,7 @@ public void ImportAnnotations(string[] annotFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotFile | string[] | The array of paths of PDF documents that contain source annotations. |
+| annotFile | String[] | The array of paths of PDF documents that contain source annotations. |
 
 ### See Also
 
@@ -65,6 +66,7 @@ public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotTy
 
 ### See Also
 
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

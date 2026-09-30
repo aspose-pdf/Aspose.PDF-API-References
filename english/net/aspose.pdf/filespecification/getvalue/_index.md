@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf/filespecification/getvalue/"
 product_version: "26.9.0"
 ---
-## GetValue(string) {#getvalue}
+## FileSpecification.GetValue method
 
 Gets application-specific parameter.
 
@@ -19,11 +19,9 @@ public string GetValue(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | Parameter name. |
+| key | String | Parameter name. |
 
 ### Return Value
-
-string
 
 Value - if parameter found; otherwise, null.
 

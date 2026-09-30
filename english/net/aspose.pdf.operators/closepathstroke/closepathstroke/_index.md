@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/closepathstroke/closepathstroke/"
 product_version: "26.9.0"
 ---
-## ClosePathStroke() {#constructor}
+## ClosePathStroke constructor
 
 Initializes operator.
 

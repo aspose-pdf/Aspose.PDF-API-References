@@ -19,7 +19,7 @@ public TabLeaderType LineDash { get; set; }
 
 ### See Also
 
-* class [TabLeaderType](../../../aspose.pdf.text/tableadertype/)
+* enum [TabLeaderType](../../../aspose.pdf.text/tableadertype/)
 * class [LevelFormat](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

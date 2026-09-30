@@ -9,21 +9,19 @@ weight: 20
 url: "/net/aspose.pdf.text/folderfontsource/equals/"
 product_version: "26.9.0"
 ---
-## Equals(object) {#equals}
+## FolderFontSource.Equals method
 
 Check if folder font source objects are equal.
 
 ```csharp
-public bool Equals(object obj)
+public override bool Equals(object obj)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | object | Folder font source object which will be compared. |
+| obj | Object | Folder font source object which will be compared. |
 
 ### Return Value
-
-bool
 
 True if both objects are folder font sources targeted to the same folder.
 

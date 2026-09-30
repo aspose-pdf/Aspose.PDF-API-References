@@ -36,10 +36,11 @@ public PaperSource(PaperSourceKind kind, string name)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | kind | PaperSourceKind | The kind of the paper source. |
-| name | string | The name of the paper source. |
+| name | String | The name of the paper source. |
 
 ### See Also
 
+* enum [PaperSourceKind](../../../aspose.pdf.printing/papersourcekind/)
 * class [PaperSource](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

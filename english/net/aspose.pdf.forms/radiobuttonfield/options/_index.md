@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets collection of options of the radio button.
 
 ```csharp
-public OptionCollection Options { get; }
+public override OptionCollection Options { get; }
 ```
 
 ### See Also

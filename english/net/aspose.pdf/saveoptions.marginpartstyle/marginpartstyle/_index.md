@@ -9,18 +9,18 @@ weight: 10
 url: "/net/aspose.pdf/saveoptions.marginpartstyle/marginpartstyle/"
 product_version: "26.9.0"
 ---
-## SaveOptions.MarginPartStyle(int) {#constructor}
+## MarginPartStyle(bool) {#constructor}
 
 Creates instance of MarginPartStyle class
- and set its value in points
+ and initializes its value in points
 
 ```csharp
-public SaveOptions.MarginPartStyle(int valueInPoints)
+public MarginPartStyle(bool isAuto)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| valueInPoints | int | Integer value in points |
+| isAuto | Boolean | Mark margin auto |
 
 ### See Also
 
@@ -30,18 +30,18 @@ public SaveOptions.MarginPartStyle(int valueInPoints)
 
 ---
 
-## SaveOptions.MarginPartStyle(bool) {#constructor_1}
+## MarginPartStyle(int) {#constructor_1}
 
 Creates instance of MarginPartStyle class
- and initializes its value in points
+ and set its value in points
 
 ```csharp
-public SaveOptions.MarginPartStyle(bool isAuto)
+public MarginPartStyle(int valueInPoints)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| isAuto | bool | Mark margin auto |
+| valueInPoints | Int32 | Integer value in points |
 
 ### See Also
 

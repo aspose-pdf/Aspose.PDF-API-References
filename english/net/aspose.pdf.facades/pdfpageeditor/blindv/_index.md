@@ -5,7 +5,7 @@ articleTitle: "BLINDV"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfPageEditor field. Vertical Blinds"
 type: docs
-weight: 270
+weight: 250
 url: "/net/aspose.pdf.facades/pdfpageeditor/blindv/"
 product_version: "26.9.0"
 ---

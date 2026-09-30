@@ -9,17 +9,15 @@ weight: 20
 url: "/net/aspose.pdf.operators/grestore/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## GRestore.ToString method
 
 Returns text of the operator.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 Text representation of the operator.
 

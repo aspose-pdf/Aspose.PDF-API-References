@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.text/systemfontssubstitution/systemfontssubstitution/"
 product_version: "26.9.0"
 ---
-## SystemFontsSubstitution([SubstitutionFontCategories](../../../aspose.pdf.text/substitutionfontcategories/)) {#constructor}
+## SystemFontsSubstitution constructor
 
 Initializes a new instance of [`SystemFontsSubstitution`](../../../aspose.pdf.text/systemfontssubstitution/) class.
 
@@ -23,6 +23,7 @@ public SystemFontsSubstitution(SubstitutionFontCategories fontCategories)
 
 ### See Also
 
+* enum [SubstitutionFontCategories](../../../aspose.pdf.text/substitutionfontcategories/)
 * class [SystemFontsSubstitution](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

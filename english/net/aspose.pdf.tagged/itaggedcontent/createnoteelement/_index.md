@@ -9,7 +9,7 @@ weight: 300
 url: "/net/aspose.pdf.tagged/itaggedcontent/createnoteelement/"
 product_version: "26.9.0"
 ---
-## CreateNoteElement() {#createnoteelement}
+## ITaggedContent.CreateNoteElement method
 
 Creates [`NoteElement`](../../../aspose.pdf.logicalstructure/noteelement/).
 
@@ -18,8 +18,6 @@ public NoteElement CreateNoteElement()
 ```
 
 ### Return Value
-
-[NoteElement](../../../aspose.pdf.logicalstructure/noteelement/)
 
 Created structure element.
 

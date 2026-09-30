@@ -9,17 +9,15 @@ weight: 60
 url: "/net/aspose.pdf.operators/showtext/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## ShowText.ToString method
 
 Produces text code of operator.
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 Text representation of operator.
 

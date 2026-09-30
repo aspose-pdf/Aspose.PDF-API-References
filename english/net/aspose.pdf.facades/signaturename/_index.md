@@ -5,7 +5,7 @@ articleTitle: "SignatureName"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.SignatureName class. Represents a class for a signature name."
 type: docs
-weight: 600
+weight: 590
 url: "/net/aspose.pdf.facades/signaturename/"
 keywords: "SignatureName, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -28,9 +28,9 @@ public sealed class SignatureName
 
 | Name | Description |
 | --- | --- |
-| [Equals](./equals/)(*object*) | Determines whether this instance and a specified object are equal. |
-| [GetHashCode](./gethashcode/) | Returns a hash code for this instance based on the FullName property. |
-| [ToString](./tostring/) | Returns a string representation of the [`SignatureName`](../../aspose.pdf.facades/signaturename/) instance, primarily using its name. |
+| override [Equals](./equals/)(object) | Determines whether this instance and a specified object are equal. |
+| override [GetHashCode](./gethashcode/)() | Returns a hash code for this instance based on the FullName property. |
+| override [ToString](./tostring/)() | Returns a string representation of the [`SignatureName`](../../aspose.pdf.facades/signaturename/) instance, primarily using its name. |
 
 ## Fields
 

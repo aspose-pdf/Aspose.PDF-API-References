@@ -5,11 +5,11 @@ articleTitle: "SetSubmitFlag"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "FormEditor method. Set submit flag of submit button."
 type: docs
-weight: 110
+weight: 60
 url: "/net/aspose.pdf.facades/formeditor/setsubmitflag/"
 product_version: "26.9.0"
 ---
-## SetSubmitFlag(string, [SubmitFormFlag](../../../aspose.pdf.facades/submitformflag/)) {#setsubmitflag}
+## FormEditor.SetSubmitFlag method
 
 Set submit flag of submit button.
 
@@ -19,17 +19,16 @@ public bool SetSubmitFlag(string fieldName, SubmitFormFlag submitFormFlag)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | Name of submit button. |
+| fieldName | String | Name of submit button. |
 | submitFormFlag | SubmitFormFlag | Submit flag. |
 
 ### Return Value
-
-bool
 
 true if field was found and submit flag was successfully set.
 
 ### See Also
 
+* enum [SubmitFormFlag](../../../aspose.pdf.facades/submitformflag/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

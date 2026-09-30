@@ -9,12 +9,12 @@ weight: 90
 url: "/net/aspose.pdf.facades/pdffileinfo/bindpdf/"
 product_version: "26.9.0"
 ---
-## BindPdf([Document](../../../aspose.pdf/document/)) {#bindpdf}
+## PdfFileInfo.BindPdf method
 
 Initializes the facade.
 
 ```csharp
-public void BindPdf(Document srcDoc)
+public override void BindPdf(Document srcDoc)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void BindPdf(Document srcDoc)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

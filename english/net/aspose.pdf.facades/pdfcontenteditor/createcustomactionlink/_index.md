@@ -9,7 +9,7 @@ weight: 140
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createcustomactionlink/"
 product_version: "26.9.0"
 ---
-## CreateCustomActionLink([Rectangle](../../../aspose.pdf.drawing/rectangle/), int, [Color](../../../aspose.pdf/color/), Enum[]) {#createcustomactionlink}
+## PdfContentEditor.CreateCustomActionLink method
 
 Creates a link to custom actions in PDF document.
 
@@ -20,12 +20,14 @@ public void CreateCustomActionLink(Rectangle rect, int originalPage, Color color
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | Rectangle | The rectangle for active click. |
-| originalPage | int | The number of original page where rectangle bound with link will be created. |
+| originalPage | Int32 | The number of original page where rectangle bound with link will be created. |
 | color | Color | The colour of rectangle for active click. |
 | actionName | Enum[] | The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Color](../../../aspose.pdf/color/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -5,7 +5,7 @@ articleTitle: "ConvertMarkedContentToLayers"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "HtmlSaveOptions property. If attribute ConvertMarkedContentToLayers set to true then an all elements inside a PDF marked content (layer) will be put into an ..."
 type: docs
-weight: 210
+weight: 200
 url: "/net/aspose.pdf/htmlsaveoptions/convertmarkedcontenttolayers/"
 product_version: "26.9.0"
 ---

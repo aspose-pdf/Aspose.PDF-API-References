@@ -22,13 +22,13 @@ public class TOCpageHasNoTitleException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [TOCpageHasNoTitleException](./tocpagehasnotitleexception/#constructor)(*string*) | Initializes a new instance of the TOCpageHasNoTitleException class. |
+| [TOCpageHasNoTitleException](./tocpagehasnotitleexception/)(string) | Initializes a new instance of the TOCpageHasNoTitleException class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(*CrashReportOptions*) | Forms crash report based on Exception HTML format. *(Inherited from PdfException)* |
+| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
 
 ### See Also
 

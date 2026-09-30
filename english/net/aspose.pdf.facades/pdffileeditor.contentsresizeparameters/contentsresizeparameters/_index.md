@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsresizeparameters/"
 product_version: "26.9.0"
 ---
-## PdfFileEditor.ContentsResizeParameters() {#constructor}
+## ContentsResizeParameters() {#constructor}
 
 Creates resize parameters where al values are set to "auto". Later margins and contents size may be specified if required.
 
 ```csharp
-public PdfFileEditor.ContentsResizeParameters()
+public ContentsResizeParameters()
 ```
 
 ### See Also
@@ -25,22 +25,24 @@ public PdfFileEditor.ContentsResizeParameters()
 
 ---
 
-## PdfFileEditor.ContentsResizeParameters(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) {#constructor_1}
+## ContentsResizeParameters(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) {#constructor_1}
 
-Initializes a new instance of the PdfFileEditor.ContentsResizeParameters class.
+Creates resize parameters with specified margin values and contents size.
 
 ```csharp
-public PdfFileEditor.ContentsResizeParameters(ContentsResizeValue leftMargin, ContentsResizeValue contentsWidth, ContentsResizeValue rightMargin, ContentsResizeValue topMargin, ContentsResizeValue contentsHeight, ContentsResizeValue bottomMargin)
+public ContentsResizeParameters(ContentsResizeValue leftMargin, ContentsResizeValue contentsWidth, 
+    ContentsResizeValue rightMargin, ContentsResizeValue topMargin, 
+    ContentsResizeValue contentsHeight, ContentsResizeValue bottomMargin)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| leftMargin | ContentsResizeValue |  |
-| contentsWidth | ContentsResizeValue |  |
-| rightMargin | ContentsResizeValue |  |
-| topMargin | ContentsResizeValue |  |
-| contentsHeight | ContentsResizeValue |  |
-| bottomMargin | ContentsResizeValue |  |
+| leftMargin | ContentsResizeValue | Left margin value. |
+| contentsWidth | ContentsResizeValue | Contents width. |
+| rightMargin | ContentsResizeValue | Right margin. |
+| topMargin | ContentsResizeValue | Top margin. |
+| contentsHeight | ContentsResizeValue | Contents height. |
+| bottomMargin | ContentsResizeValue | Bottom margin. |
 
 ### See Also
 

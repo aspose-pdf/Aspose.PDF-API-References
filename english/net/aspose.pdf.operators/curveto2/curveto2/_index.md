@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/curveto2/curveto2/"
 product_version: "26.9.0"
 ---
-## CurveTo2(double, double, double, double) {#constructor}
+## CurveTo2 constructor
 
 Initializes curve operator.
 
@@ -19,10 +19,10 @@ public CurveTo2(double x1, double y1, double x3, double y3)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| x1 | double | Abscissa of second point. |
-| y1 | double | Ordinate of second point. |
-| x3 | double | Abscissa of third point. |
-| y3 | double | Ordinate of third point. |
+| x1 | Double | Abscissa of second point. |
+| y1 | Double | Ordinate of second point. |
+| x3 | Double | Abscissa of third point. |
+| y3 | Double | Ordinate of third point. |
 
 ### See Also
 

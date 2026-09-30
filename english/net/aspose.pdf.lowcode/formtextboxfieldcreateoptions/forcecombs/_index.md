@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets/sets the value to determine whether created TextBoxField is forcecombs or not (if will be set).
 
 ```csharp
-public Nullable<bool> ForceCombs { get; set; }
+public bool? ForceCombs { get; set; }
 ```
 
 ### See Also

@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/destinationcollection/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## DestinationCollection.GetEnumerator method
 
 Returns the enumerator.
 
@@ -18,8 +18,6 @@ public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<KeyValuePair<string, object>>
 
 The enumerator.
 

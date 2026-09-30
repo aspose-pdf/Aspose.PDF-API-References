@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/collectionitem/hasname/"
 product_version: "26.9.0"
 ---
-## HasName(string) {#hasname}
+## CollectionItem.HasName method
 
 Checks if the given name exists in the collection item.
 
@@ -19,11 +19,9 @@ public bool HasName(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | The name to check. |
+| name | String | The name to check. |
 
 ### Return Value
-
-bool
 
 True if the name exists in the collection item, otherwise false.
 

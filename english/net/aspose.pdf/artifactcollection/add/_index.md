@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/artifactcollection/add/"
 product_version: "26.9.0"
 ---
-## Add([Artifact](../../../aspose.pdf/artifact/)) {#add}
+## ArtifactCollection.Add method
 
 Adds artifacts to the collection.
 
@@ -23,6 +23,7 @@ public void Add(Artifact artifact)
 
 ### See Also
 
+* class [Artifact](../../../aspose.pdf/artifact/)
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

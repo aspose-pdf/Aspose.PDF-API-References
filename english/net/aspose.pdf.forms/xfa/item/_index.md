@@ -9,13 +9,23 @@ weight: 90
 url: "/net/aspose.pdf.forms/xfa/item/"
 product_version: "26.9.0"
 ---
-## XFA.Item property
+## XFA indexer
 
 Gets of sets data node value according *path*.
 
 ```csharp
-public string Item { get; set; }
+public string this[string path] { get; set; }
 ```
+
+| Parameter | Description |
+| --- | --- |
+| path | Data node path, e.g. form1[0].Subform1[0].Subform2[0].Subform3[0].TextField[0]. 
+ Be sure to include indices even if data contains only single occurences of each nodes, 
+ i.e. write node1[0].node2[0]... instead of node1.node2... |
+
+### Return Value
+
+Data node value.
 
 ### See Also
 

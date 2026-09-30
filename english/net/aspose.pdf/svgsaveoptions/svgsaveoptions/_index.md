@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/svgsaveoptions/svgsaveoptions/"
 product_version: "26.9.0"
 ---
-## SvgSaveOptions() {#constructor}
+## SvgSaveOptions constructor
 
 The default constructor.
 

@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.lowcode/optimizer/optimizer/"
 product_version: "26.9.0"
 ---
-## Optimizer() {#constructor}
+## Optimizer constructor
 
 The default constructor.
 

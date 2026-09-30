@@ -22,15 +22,15 @@ public class Re : Operator
 
 | Name | Description |
 | --- | --- |
-| [Re](./re/#constructor) | Initializes operator. |
-| [Re](./re/#constructor_1)(*double, double, double, double*) | Initializes operator. |
+| [Re](./re/#constructor)() | Initializes operator. |
+| [Re](./re/#constructor_1)(double, double, double, double) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Height](./height/) { get; set; } | Height of the rectangle. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. *(Inherited from Operator)* |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
 | [Width](./width/) { get; set; } | Width of the rectangle. |
 | [X](./x/) { get; set; } | X coordinate of most left side of rectangle. |
 | [Y](./y/) { get; set; } | Y corrdinate of bottom side of rectangle. |
@@ -39,10 +39,10 @@ public class Re : Operator
 
 | Name | Description |
 | --- | --- |
-| [Accept](./accept/)(*IOperatorSelector*) | Accepts visitor object to process operator. |
-| [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(*Operator*) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc). *(Inherited from Operator)* |
-| [ToString](./tostring/) | Returns text representation of the operator. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(*Operator*) | Compares this instance with the given object. *(Inherited from Operator)* |
+| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [ToString](./tostring/)() | Returns text representation of the operator. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 

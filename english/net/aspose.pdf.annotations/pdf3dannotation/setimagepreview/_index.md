@@ -19,7 +19,7 @@ public void SetImagePreview(string filename)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | The image preview filename. |
+| filename | String | The image preview filename. |
 
 ### See Also
 

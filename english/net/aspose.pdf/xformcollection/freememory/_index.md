@@ -9,7 +9,7 @@ weight: 110
 url: "/net/aspose.pdf/xformcollection/freememory/"
 product_version: "26.9.0"
 ---
-## FreeMemory() {#freememory}
+## XFormCollection.FreeMemory method
 
 Clears cached data, frees memory etc.
 

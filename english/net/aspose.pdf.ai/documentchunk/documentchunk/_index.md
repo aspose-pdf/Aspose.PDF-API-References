@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/documentchunk/documentchunk/"
 product_version: "26.9.0"
 ---
-## DocumentChunk(string, string, int, string) {#constructor}
+## DocumentChunk constructor
 
 Initializes a new instance of the [`DocumentChunk`](../../../aspose.pdf.ai/documentchunk/) class.
 
@@ -19,10 +19,10 @@ public DocumentChunk(string id, string content, int index, string context)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | string | The unique identifier of the chunk. |
-| content | string | The text content of the chunk. |
-| index | int | The zero-based index of the chunk within the document. |
-| context | string | The structural context of the chunk (e.g. header path), or null if not available. |
+| id | String | The unique identifier of the chunk. |
+| content | String | The text content of the chunk. |
+| index | Int32 | The zero-based index of the chunk within the document. |
+| context | String | The structural context of the chunk (e.g. header path), or null if not available. |
 
 ### Exceptions
 

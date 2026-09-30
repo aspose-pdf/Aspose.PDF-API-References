@@ -14,19 +14,22 @@ product_version: "26.9.0"
 Creates a local link in PDF document.
 
 ```csharp
-public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color clr, Enum[] actionName)
+public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color clr, 
+    Enum[] actionName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | Rectangle | The rectangle for active click. |
-| desPage | int | The destination page. |
-| originalPage | int | The number of original page where rectangle bound with local link will be created. |
+| desPage | Int32 | The destination page. |
+| originalPage | Int32 | The number of original page where rectangle bound with local link will be created. |
 | clr | Color | The colour of rectangle for active click. |
 | actionName | Enum[] | The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Color](../../../aspose.pdf/color/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -44,12 +47,14 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | Rectangle | The rectangle for active click. |
-| desPage | int | The destination page. |
-| originalPage | int | The number of original page where rectangle bound with local link will be created. |
+| desPage | Int32 | The destination page. |
+| originalPage | Int32 | The number of original page where rectangle bound with local link will be created. |
 | clr | Color | The colour of rectangle for active click. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Color](../../../aspose.pdf/color/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -67,11 +72,12 @@ public void CreateLocalLink(Rectangle rect, int desPage, int originalPage)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | Rectangle | The rectangle for active click. |
-| desPage | int | The destination page. |
-| originalPage | int | The number of original page where rectangle bound with local link will be created. |
+| desPage | Int32 | The destination page. |
+| originalPage | Int32 | The number of original page where rectangle bound with local link will be created. |
 
 ### See Also
 
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

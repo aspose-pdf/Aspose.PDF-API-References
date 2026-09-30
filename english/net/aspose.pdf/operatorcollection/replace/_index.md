@@ -9,7 +9,7 @@ weight: 70
 url: "/net/aspose.pdf/operatorcollection/replace/"
 product_version: "26.9.0"
 ---
-## Replace(IList<Operator>) {#replace}
+## OperatorCollection.Replace method
 
 Replace operators in collection with other operators.
 
@@ -19,7 +19,7 @@ public void Replace(IList<Operator> operators)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| operators | IList<Operator> | Operators list which will replace operators currently contained in the collection. Eash operator from the list must have correct index in range [1..N] where N is count of operators in the collection |
+| operators | IList`1 | Operators list which will replace operators currently contained in the collection. Eash operator from the list must have correct index in range [1..N] where N is count of operators in the collection |
 
 ### See Also
 

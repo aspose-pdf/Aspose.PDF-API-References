@@ -9,12 +9,12 @@ weight: 120
 url: "/net/aspose.pdf/color/op_equality/"
 product_version: "26.9.0"
 ---
-## op_Equality([Color](../../../aspose.pdf/color/), [Color](../../../aspose.pdf/color/)) {#op_equality}
+## Color Equality operator
 
 Returns true if two Colors are equal.
 
 ```csharp
-public bool op_Equality(Color x, Color y)
+public static bool operator ==(Color x, Color y)
 ```
 
 | Parameter | Type | Description |
@@ -24,13 +24,11 @@ public bool op_Equality(Color x, Color y)
 
 ### Return Value
 
-bool
-
 True in case Color objects are equal.
 
 ### See Also
 
-* class [Color](../)
+* class [Color](../../../aspose.pdf/color/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

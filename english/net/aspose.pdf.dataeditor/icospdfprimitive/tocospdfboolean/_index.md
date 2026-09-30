@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.dataeditor/icospdfprimitive/tocospdfboolean/"
 product_version: "26.9.0"
 ---
-## ToCosPdfBoolean() {#tocospdfboolean}
+## ICosPdfPrimitive.ToCosPdfBoolean method
 
 Tries cast this instance to [`CosPdfBoolean`](../../../aspose.pdf.dataeditor/cospdfboolean/).
 
@@ -18,8 +18,6 @@ public CosPdfBoolean ToCosPdfBoolean()
 ```
 
 ### Return Value
-
-[CosPdfBoolean](../../../aspose.pdf.dataeditor/cospdfboolean/)
 
 null if instance is not [`CosPdfBoolean`](../../../aspose.pdf.dataeditor/cospdfboolean/) else [`CosPdfBoolean`](../../../aspose.pdf.dataeditor/cospdfboolean/).
 

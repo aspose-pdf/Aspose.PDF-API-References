@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.lowcode/pdfaconvertoptions/addoutput/"
 product_version: "26.9.0"
 ---
-## AddOutput([IDataSource](../../../aspose.pdf.lowcode/idatasource/)) {#addoutput}
+## PdfAConvertOptions.AddOutput method
 
 Adds new result save target.
 
@@ -23,6 +23,7 @@ public void AddOutput(IDataSource dataSource)
 
 ### See Also
 
+* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
 * class [PdfAConvertOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

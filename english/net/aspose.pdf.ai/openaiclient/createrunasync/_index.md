@@ -9,23 +9,22 @@ weight: 450
 url: "/net/aspose.pdf.ai/openaiclient/createrunasync/"
 product_version: "26.9.0"
 ---
-## CreateRunAsync(string, [RunCreateRequest](../../../aspose.pdf.ai/runcreaterequest/), Nullable<CancellationToken>) {#createrunasync}
+## OpenAIClient.CreateRunAsync method
 
 Creates a run within a specified thread asynchronously.
 
 ```csharp
-public Task<RunResponse> CreateRunAsync(string threadId, RunCreateRequest runCreateRequest, Nullable<CancellationToken> cancellationToken)
+public Task<RunResponse> CreateRunAsync(string threadId, RunCreateRequest runCreateRequest, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threadId | string | The ID of the thread where the run will be created. |
+| threadId | String | The ID of the thread where the run will be created. |
 | runCreateRequest | RunCreateRequest | The request details for creating the run. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[RunResponse](../../../aspose.pdf.ai/runresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the response from the run creation.
 
@@ -37,6 +36,7 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
+* class [RunCreateRequest](../../../aspose.pdf.ai/runcreaterequest/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

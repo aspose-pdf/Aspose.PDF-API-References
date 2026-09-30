@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/fileattachmentannotation/fileattachmentannotation/"
 product_version: "26.9.0"
 ---
-## FileAttachmentAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), [FileSpecification](../../../aspose.pdf/filespecification/)) {#constructor}
+## FileAttachmentAnnotation constructor
 
 Creates new FileAttachment annotation on the specified page.
 
@@ -25,6 +25,9 @@ public FileAttachmentAnnotation(Page page, Rectangle rect, FileSpecification fil
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

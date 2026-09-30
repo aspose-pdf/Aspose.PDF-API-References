@@ -24,7 +24,7 @@ public sealed class MarkupSection
 | --- | --- |
 | [Fragments](./fragments/) { get; } | Collection of not empty [`TextFragment`](../../aspose.pdf.text/textfragment/) objects that are inside the section. |
 | [Paragraphs](./paragraphs/) { get; } | Collection of [`MarkupParagraph`](../../aspose.pdf.text/markupparagraph/) objects that are inside the section. |
-| [Rectangle](./rectangle/) { get; } | Section rectangle. |
+| [Rectangle](./rectangle/) { get; } | Section rectangle |
 
 ### See Also
 

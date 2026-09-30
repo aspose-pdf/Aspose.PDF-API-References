@@ -9,17 +9,17 @@ weight: 30
 url: "/net/aspose.pdf/boundscheckablelist-1/add/"
 product_version: "26.9.0"
 ---
-## Add(T0) {#add}
+## BoundsCheckableList<T>.Add method
 
 Adds an object to the end of the System.Collections.Generic.List depending on "boundsCheckMode" parameter.
 
 ```csharp
-public void Add(T0 item)
+public void Add(T item)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | T0 | The object to be added to the end of the System.Collections.Generic.List. The value can be "null" for reference types. |
+| item | T | The object to be added to the end of the System.Collections.Generic.List. The value can be "null" for reference types. |
 
 ### See Also
 

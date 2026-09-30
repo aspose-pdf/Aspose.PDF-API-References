@@ -9,17 +9,15 @@ weight: 20
 url: "/net/aspose.pdf.operators/setcmykcolorstroke/getcolor/"
 product_version: "26.9.0"
 ---
-## getColor() {#getcolor}
+## SetCMYKColorStroke.getColor method
 
 Returns the RGB color
 
 ```csharp
-public Color getColor()
+public override Color getColor()
 ```
 
 ### Return Value
-
-[Color](../../../aspose.pdf/color/)
 
 Color specified by operator.
 

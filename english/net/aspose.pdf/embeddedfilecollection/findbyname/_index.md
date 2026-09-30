@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf/embeddedfilecollection/findbyname/"
 product_version: "26.9.0"
 ---
-## FindByName(string) {#findbyname}
+## EmbeddedFileCollection.FindByName method
 
 Returns embedded file by its name.
 
@@ -19,11 +19,9 @@ public FileSpecification FindByName(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Name of the file. |
+| name | String | Name of the file. |
 
 ### Return Value
-
-[FileSpecification](../../../aspose.pdf/filespecification/)
 
 File specification object if found; otherwise, null.
 

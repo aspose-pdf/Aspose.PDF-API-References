@@ -23,7 +23,7 @@ The lighting scheme type.
 
 ### See Also
 
-* class [LightingSchemeType](../../../aspose.pdf.annotations/lightingschemetype/)
+* enum [LightingSchemeType](../../../aspose.pdf.annotations/lightingschemetype/)
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

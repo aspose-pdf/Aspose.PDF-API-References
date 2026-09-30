@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/xformcollection/add/"
 product_version: "26.9.0"
 ---
-## Add([XForm](../../../aspose.pdf/xform/)) {#add}
+## XFormCollection.Add method
 
 Adds new XForm into collection.
 
@@ -23,6 +23,7 @@ public void Add(XForm item)
 
 ### See Also
 
+* class [XForm](../../../aspose.pdf/xform/)
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets subscript of the text.
 
 ```csharp
-public bool Subscript { get; set; }
+public virtual bool Subscript { get; set; }
 ```
 
 ### See Also

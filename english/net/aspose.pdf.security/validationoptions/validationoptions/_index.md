@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.security/validationoptions/validationoptions/"
 product_version: "26.9.0"
 ---
-## ValidationOptions() {#constructor}
+## ValidationOptions constructor
 
 The default constructor.
 

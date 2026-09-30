@@ -5,7 +5,7 @@ articleTitle: "TitleColor"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Bookmark property. Gets or sets the color of bookmark's title."
 type: docs
-weight: 190
+weight: 180
 url: "/net/aspose.pdf.facades/bookmark/titlecolor/"
 product_version: "26.9.0"
 ---

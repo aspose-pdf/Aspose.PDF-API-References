@@ -23,12 +23,11 @@ public bool HasField(Field field)
 
 ### Return Value
 
-bool
-
 `true` if the specified field name added to Form; otherwise, `false`.
 
 ### See Also
 
+* class [Field](../../../aspose.pdf.forms/field/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
@@ -45,11 +44,9 @@ public bool HasField(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | <see cref="P:Aspose.Pdf.Forms.Field.PartialName" /> or <see cref="P:Aspose.Pdf.Annotations.Annotation.FullName" /> of the field. |
+| fieldName | String | <see cref="P:Aspose.Pdf.Forms.Field.PartialName" /> or <see cref="P:Aspose.Pdf.Annotations.Annotation.FullName" /> of the field. |
 
 ### Return Value
-
-bool
 
  if the specified field name added to Form; otherwise, .
 
@@ -71,13 +68,11 @@ public bool HasField(string fieldName, bool searchChildren)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | string | <see cref="P:Aspose.Pdf.Forms.Field.PartialName" /> or <see cref="P:Aspose.Pdf.Annotations.Annotation.FullName" /> of the field. |
-| searchChildren | bool | When set to <see langword="true" /> the whole hierarchy of form fields would be searched for the requested *fieldName*
+| fieldName | String | <see cref="P:Aspose.Pdf.Forms.Field.PartialName" /> or <see cref="P:Aspose.Pdf.Annotations.Annotation.FullName" /> of the field. |
+| searchChildren | Boolean | When set to <see langword="true" /> the whole hierarchy of form fields would be searched for the requested *fieldName*
  (note that in this case the <see cref="P:Aspose.Pdf.Annotations.Annotation.FullName" /> of the required field should be passed as *fieldName*). |
 
 ### Return Value
-
-bool
 
  if the specified field name added to Form; otherwise, .
 

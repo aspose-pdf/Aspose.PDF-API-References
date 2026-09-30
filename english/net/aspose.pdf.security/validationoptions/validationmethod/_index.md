@@ -19,7 +19,7 @@ public ValidationMethod ValidationMethod { get; set; }
 
 ### See Also
 
-* class [ValidationMethod](../../../aspose.pdf.security/validationmethod/)
+* enum [ValidationMethod](../../../aspose.pdf.security/validationmethod/)
 * class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)

@@ -24,10 +24,10 @@ public class ParagraphAbsorber
 
 | Name | Description |
 | --- | --- |
-| [ParagraphAbsorber](./paragraphabsorber/#constructor) | Initializes a new instance of the [`ParagraphAbsorber`](../../aspose.pdf.text/paragraphabsorber/) that performs search for sections/paragraphs of the document or page. |
-| [ParagraphAbsorber](./paragraphabsorber/#constructor_1)(*int*) | Initializes a new instance of the [`ParagraphAbsorber`](../../aspose.pdf.text/paragraphabsorber/) that performs search for sections/paragraphs of the document or page. |
-| [ParagraphAbsorber](./paragraphabsorber/#constructor_2)(*[ParagraphAbsorberOptions](../../aspose.pdf.text/paragraphabsorberoptions/)*) | Initializes a new instance of the [`ParagraphAbsorber`](../../aspose.pdf.text/paragraphabsorber/) that performs search for sections/paragraphs of the document or page. |
-| [ParagraphAbsorber](./paragraphabsorber/#constructor_3)(*int, [ParagraphAbsorberOptions](../../aspose.pdf.text/paragraphabsorberoptions/)*) | Initializes a new instance of the [`ParagraphAbsorber`](../../aspose.pdf.text/paragraphabsorber/) that performs search for sections/paragraphs of the document or page. |
+| [ParagraphAbsorber](./paragraphabsorber/#constructor)() | Initializes a new instance of the [`ParagraphAbsorber`](../../aspose.pdf.text/paragraphabsorber/) that performs search for sections/paragraphs of the document or page. |
+| [ParagraphAbsorber](./paragraphabsorber/#constructor_1)(int) | Initializes a new instance of the [`ParagraphAbsorber`](../../aspose.pdf.text/paragraphabsorber/) that performs search for sections/paragraphs of the document or page. |
+| [ParagraphAbsorber](./paragraphabsorber/#constructor_2)(ParagraphAbsorberOptions) | Initializes a new instance of the [`ParagraphAbsorber`](../../aspose.pdf.text/paragraphabsorber/) that performs search for sections/paragraphs of the document or page with the specified parameters. |
+| [ParagraphAbsorber](./paragraphabsorber/#constructor_3)(int, ParagraphAbsorberOptions) | Initializes a new instance of the [`ParagraphAbsorber`](../../aspose.pdf.text/paragraphabsorber/) that performs search for sections/paragraphs of the document or page with the specified parameters. |
 
 ## Properties
 
@@ -36,15 +36,15 @@ public class ParagraphAbsorber
 | [IsMulticolumnParagraphsAllowed](./ismulticolumnparagraphsallowed/) { get; set; } | Gets or sets value that indicates whether starting text lines of a next section may be treated as continuation of the last paragraph of a previous section. |
 | [PageMarkups](./pagemarkups/) { get; } | Gets collection of [`PageMarkup`](../../aspose.pdf.text/pagemarkup/) that were absorbed. |
 | [ParagraphAbsorberOptions](./paragraphabsorberoptions/) { get; set; } | Gets or sets the ParagraphAbsorberOptions. |
-| [SectionsSearchDepth](./sectionssearchdepth/) { get; set; } | Gets or sets value that instructs how many times sequential searches for more fine elements of structure will be performed. |
+| [SectionsSearchDepth](./sectionssearchdepth/) { get; set; } | Gets or sets value that instructs how many times sequential searches for more fine elements of structure will be performed. Default search depth is 3. It means three searches for horizontally divided sections (headers, paragraphs etc) and three searches for vertically divided ones (columns). |
 | [TextReplaceOptions](./textreplaceoptions/) { get; set; } | Gets or sets the TextReplaceOptions. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Visit](./visit/)(*Document*) | Performs search for sections and paragraphs on the specified [`Document`](../../aspose.pdf/document/). |
-| [Visit](./visit/)(*Page*) | Performs search on the specified [`Page`](../../aspose.pdf/page/). |
+| [Visit](./visit/)(Document) | Performs search for sections and paragraphs on the specified [`Document`](../../aspose.pdf/document/). |
+| [Visit](./visit/)(Page) | Performs search on the specified [`Page`](../../aspose.pdf/page/). |
 
 ## Remarks
 

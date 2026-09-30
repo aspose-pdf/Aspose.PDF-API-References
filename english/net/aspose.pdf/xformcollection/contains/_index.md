@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf/xformcollection/contains/"
 product_version: "26.9.0"
 ---
-## Contains([XForm](../../../aspose.pdf/xform/)) {#contains}
+## XFormCollection.Contains method
 
 Determines whether the collection contains a specific value.
 
@@ -23,12 +23,11 @@ public bool Contains(XForm item)
 
 ### Return Value
 
-bool
-
 true if item is found in the collection; otherwise, false.
 
 ### See Also
 
+* class [XForm](../../../aspose.pdf/xform/)
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

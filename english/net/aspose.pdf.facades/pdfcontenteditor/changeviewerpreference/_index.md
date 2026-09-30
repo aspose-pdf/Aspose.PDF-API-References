@@ -9,7 +9,7 @@ weight: 420
 url: "/net/aspose.pdf.facades/pdfcontenteditor/changeviewerpreference/"
 product_version: "26.9.0"
 ---
-## ChangeViewerPreference(int) {#changeviewerpreference}
+## PdfContentEditor.ChangeViewerPreference method
 
 Changes the view preference.
 
@@ -19,7 +19,7 @@ public void ChangeViewerPreference(int viewerAttribution)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| viewerAttribution | int | The view attribution defined in the ViewerPreference class. |
+| viewerAttribution | Int32 | The view attribution defined in the ViewerPreference class. |
 
 ### See Also
 

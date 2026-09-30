@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf/documentinfo/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## DocumentInfo.Clear method
 
 Clears the document info.
 

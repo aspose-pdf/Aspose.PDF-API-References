@@ -9,12 +9,12 @@ weight: 480
 url: "/net/aspose.pdf.ai/ichatclient-1/"
 product_version: "26.9.0"
 ---
-## IChatClient<TOptions> interface
+## IChatClient&lt;TOptions&gt; interface
 
 Represents an interface for a chat client with specific options.
 
 ```csharp
-public interface IChatClient<TOptions><TOptions>
+public interface IChatClient<in TOptions> : IAIClient
 ```
 
 ## Type Parameters
@@ -27,7 +27,7 @@ public interface IChatClient<TOptions><TOptions>
 
 | Name | Description |
 | --- | --- |
-| [GetChatCopilot](./getchatcopilot/)(*IChatCopilotOptions<T0>*) | Gets an instance of [`IChatCopilot`](../../aspose.pdf.ai/ichatcopilot/) with the specified options. |
+| [GetChatCopilot](./getchatcopilot/)(IChatCopilotOptions<TOptions>) | Gets an instance of [`IChatCopilot`](../../aspose.pdf.ai/ichatcopilot/) with the specified options. |
 
 ### See Also
 

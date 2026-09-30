@@ -22,7 +22,7 @@ public sealed class DocumentActionCollection
 
 | Name | Description |
 | --- | --- |
-| [DocumentActionCollection](./documentactioncollection/#constructor)(*[Document](../../aspose.pdf/document/)*) | Constructor for DocumentActionCollection. Constructs DocumentActionCollection objects from Pdf.Kit.Engine Document object. |
+| [DocumentActionCollection](./documentactioncollection/)(Document) | Constructor for DocumentActionCollection. Constructs DocumentActionCollection objects from Pdf.Kit.Engine Document object. |
 
 ## Properties
 

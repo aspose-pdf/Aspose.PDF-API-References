@@ -9,7 +9,7 @@ weight: 200
 url: "/net/aspose.pdf.facades/pdfviewer/printdocumentwithsetup/"
 product_version: "26.9.0"
 ---
-## PrintDocumentWithSetup() {#printdocumentwithsetup}
+## PdfViewer.PrintDocumentWithSetup method
 
 Prints the Pdf document with a setup dialog. Choose a printer using the dialog.
 

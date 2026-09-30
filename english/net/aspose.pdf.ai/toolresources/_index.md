@@ -24,7 +24,7 @@ public class ToolResources
 
 | Name | Description |
 | --- | --- |
-| [ToolResources](./toolresources/#constructor) | The default constructor. |
+| [ToolResources](./toolresources/)() | The default constructor. |
 
 ## Properties
 

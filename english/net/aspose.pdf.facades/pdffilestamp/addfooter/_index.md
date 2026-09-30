@@ -5,7 +5,7 @@ articleTitle: "AddFooter"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfFileStamp method. Adds footer to the pages of the document."
 type: docs
-weight: 250
+weight: 190
 url: "/net/aspose.pdf.facades/pdffilestamp/addfooter/"
 product_version: "26.9.0"
 ---
@@ -20,10 +20,11 @@ public void AddFooter(FormattedText formattedText, float bottomMargin)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | formattedText | FormattedText | FormattedText object which contains text of the footer and text properties. |
-| bottomMargin | float | Margin at the top of page. |
+| bottomMargin | Single | Margin at the top of page. |
 
 ### See Also
 
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -35,18 +36,20 @@ public void AddFooter(FormattedText formattedText, float bottomMargin)
 Adds footer to the pages of the document.
 
 ```csharp
-public void AddFooter(FormattedText formattedText, float bottomMargin, float leftMargin, float rightMargin)
+public void AddFooter(FormattedText formattedText, float bottomMargin, float leftMargin, 
+    float rightMargin)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | formattedText | FormattedText | FormattedText object which contains footer text and text properties. |
-| bottomMargin | float | Margin at the bottom of the page. |
-| leftMargin | float | Margin at the left side of the page. |
-| rightMargin | float | Margin at the right side of the page. |
+| bottomMargin | Single | Margin at the bottom of the page. |
+| leftMargin | Single | Margin at the left side of the page. |
+| rightMargin | Single | Margin at the right side of the page. |
 
 ### See Also
 
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -63,8 +66,8 @@ public void AddFooter(string imageFile, float bottomMargin)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageFile | string | Image file name and path. |
-| bottomMargin | float | Margin at the bottom of the page. |
+| imageFile | String | Image file name and path. |
+| bottomMargin | Single | Margin at the bottom of the page. |
 
 ### See Also
 
@@ -84,10 +87,10 @@ public void AddFooter(string imageFile, float bottomMargin, float leftMargin, fl
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageFile | string | Iamge file name and path. |
-| bottomMargin | float | Margin at the bottom of the page. |
-| leftMargin | float | Margin at the left side of the page. |
-| rightMargin | float | Margin at the right side of the page. |
+| imageFile | String | Iamge file name and path. |
+| bottomMargin | Single | Margin at the bottom of the page. |
+| leftMargin | Single | Margin at the left side of the page. |
+| rightMargin | Single | Margin at the right side of the page. |
 
 ### See Also
 
@@ -108,7 +111,7 @@ public void AddFooter(Stream imageStream, float bottomMargin)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | imageStream | Stream | Stream contains image data. |
-| bottomMargin | float | Margin at the bottom of the page. |
+| bottomMargin | Single | Margin at the bottom of the page. |
 
 ### See Also
 
@@ -129,9 +132,9 @@ public void AddFooter(Stream imageStream, float bottomMargin, float leftMargin, 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | imageStream | Stream | Stream contains image data. |
-| bottomMargin | float | Margin at the bottom of the page. |
-| leftMargin | float | Margin at the left side of the page. |
-| rightMargin | float | Margin at the right side of the page. |
+| bottomMargin | Single | Margin at the bottom of the page. |
+| leftMargin | Single | Margin at the left side of the page. |
+| rightMargin | Single | Margin at the right side of the page. |
 
 ### See Also
 

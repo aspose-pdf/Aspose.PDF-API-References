@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf.ai/llamaclient.builder/build/"
 product_version: "26.9.0"
 ---
-## Build() {#build}
+## LlamaClient.Builder.Build method
 
 Builds and returns an instance of [`LlamaClient`](../../../aspose.pdf.ai/llamaclient/) with the configured options.
 
@@ -18,8 +18,6 @@ public LlamaClient Build()
 ```
 
 ### Return Value
-
-[LlamaClient](../../../aspose.pdf.ai/llamaclient/)
 
 An instance of [`LlamaClient`](../../../aspose.pdf.ai/llamaclient/).
 

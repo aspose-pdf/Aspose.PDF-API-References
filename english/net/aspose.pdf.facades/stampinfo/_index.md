@@ -5,7 +5,7 @@ articleTitle: "StampInfo"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.Facades.StampInfo class. Class representing stamp information."
 type: docs
-weight: 620
+weight: 610
 url: "/net/aspose.pdf.facades/stampinfo/"
 keywords: "StampInfo, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"

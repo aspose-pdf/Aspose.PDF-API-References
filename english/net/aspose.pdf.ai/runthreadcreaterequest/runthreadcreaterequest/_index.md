@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/runthreadcreaterequest/runthreadcreaterequest/"
 product_version: "26.9.0"
 ---
-## RunThreadCreateRequest() {#constructor}
+## RunThreadCreateRequest constructor
 
 The default constructor.
 

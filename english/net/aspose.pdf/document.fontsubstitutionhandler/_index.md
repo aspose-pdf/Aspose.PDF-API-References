@@ -14,8 +14,13 @@ product_version: "26.9.0"
 Represents the method that will handle FontSubstitution event.
 
 ```csharp
-public delegate void FontSubstitutionHandler()
+public delegate void FontSubstitutionHandler(Font oldFont, Font newFont);
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| oldFont | Font | original font |
+| newFont | Font | new font |
 
 ### See Also
 

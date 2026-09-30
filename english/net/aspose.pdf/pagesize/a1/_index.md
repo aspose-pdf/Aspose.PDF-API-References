@@ -14,13 +14,12 @@ product_version: "26.9.0"
 A1 size (840x594 mm).
 
 ```csharp
-public PageSize A1 { get; }
+public static PageSize A1 { get; }
 ```
 
 ### See Also
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

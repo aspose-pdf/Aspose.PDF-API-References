@@ -19,7 +19,7 @@ public StampIcon Icon { get; set; }
 
 ### See Also
 
-* class [StampIcon](../../../aspose.pdf.annotations/stampicon/)
+* enum [StampIcon](../../../aspose.pdf.annotations/stampicon/)
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -9,28 +9,29 @@ weight: 10
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotextensions/addpdfimagedescriptionsasync/"
 product_version: "26.9.0"
 ---
-## AddPdfImageDescriptionsAsync([IImageDescriptionCopilot](../../../aspose.pdf.ai/iimagedescriptioncopilot/), string, Nullable<CancellationToken>) {#addpdfimagedescriptionsasync}
+## OpenAIImageDescriptionCopilotExtensions.AddPdfImageDescriptionsAsync method
 
 Asynchronously adds image descriptions to a PDF file and saves new documents to a specified folders.
 
 ```csharp
-public Task AddPdfImageDescriptionsAsync(IImageDescriptionCopilot imageDescriptionCopilot, string outputDirectory, Nullable<CancellationToken> cancellationToken)
+public static Task AddPdfImageDescriptionsAsync(
+    this IImageDescriptionCopilot imageDescriptionCopilot, string outputDirectory, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | imageDescriptionCopilot | IImageDescriptionCopilot | The image description copilot. |
-| outputDirectory | string | The output directory where to save the output PDF files. |
-| cancellationToken | Nullable<CancellationToken> | The cancellation token (optional). |
+| outputDirectory | String | The output directory where to save the output PDF files. |
+| cancellationToken | Nullable`1 | The cancellation token (optional). |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
 
 A task representing the asynchronous operation.
 
 ### See Also
 
+* interface [IImageDescriptionCopilot](../../../aspose.pdf.ai/iimagedescriptioncopilot/)
 * class [OpenAIImageDescriptionCopilotExtensions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

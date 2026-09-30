@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf/paragraphs/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## Paragraphs.GetEnumerator method
 
 Gets the enumerator.
 
@@ -18,8 +18,6 @@ public IEnumerator<BaseParagraph> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[BaseParagraph](../../../aspose.pdf/baseparagraph/)>
 
 Enumerator object.
 

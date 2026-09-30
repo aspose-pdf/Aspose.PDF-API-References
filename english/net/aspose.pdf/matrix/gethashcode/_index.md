@@ -9,17 +9,15 @@ weight: 210
 url: "/net/aspose.pdf/matrix/gethashcode/"
 product_version: "26.9.0"
 ---
-## GetHashCode() {#gethashcode}
+## Matrix.GetHashCode method
 
 Hash-code for object.
 
 ```csharp
-public int GetHashCode()
+public override int GetHashCode()
 ```
 
 ### Return Value
-
-int
 
 Hash-code.
 

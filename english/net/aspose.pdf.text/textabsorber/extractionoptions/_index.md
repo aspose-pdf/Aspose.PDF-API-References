@@ -17,7 +17,7 @@ Allows to define text formatting mode [`TextExtractionOptions`](../../../aspose.
  The default mode is `Pure`
 
 ```csharp
-public TextExtractionOptions ExtractionOptions { get; set; }
+public virtual TextExtractionOptions ExtractionOptions { get; set; }
 ```
 
 ### See Also

@@ -9,12 +9,12 @@ weight: 20
 url: "/net/aspose.pdf/image/getmimetype/"
 product_version: "26.9.0"
 ---
-## GetMimeType([Image](../../../aspose.pdf/image/)) {#getmimetype}
+## Image.GetMimeType method
 
 Returns mime type for image.
 
 ```csharp
-public string GetMimeType(Image i)
+public static string GetMimeType(Image i)
 ```
 
 | Parameter | Type | Description |
@@ -23,13 +23,11 @@ public string GetMimeType(Image i)
 
 ### Return Value
 
-string
-
 Mime type as string if found; otherwise, "image/unknown" value.
 
 ### See Also
 
-* class [Image](../)
+* class [Image](../../../aspose.pdf/image/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

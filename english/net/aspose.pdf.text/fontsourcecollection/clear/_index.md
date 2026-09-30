@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.text/fontsourcecollection/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## FontSourceCollection.Clear method
 
 Clears the font source collection.
 

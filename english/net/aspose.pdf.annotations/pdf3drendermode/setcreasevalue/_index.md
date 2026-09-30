@@ -9,7 +9,7 @@ weight: 90
 url: "/net/aspose.pdf.annotations/pdf3drendermode/setcreasevalue/"
 product_version: "26.9.0"
 ---
-## SetCreaseValue(double) {#setcreasevalue}
+## PDF3DRenderMode.SetCreaseValue method
 
 Sets the crease value.
 
@@ -19,18 +19,15 @@ public PDF3DRenderMode SetCreaseValue(double creaseValue)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| creaseValue | double | The crease value. |
+| creaseValue | Double | The crease value. |
 
 ### Return Value
-
-[PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
 
 PDF3DRenderMode.
 
 ### See Also
 
 * class [PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
-* class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

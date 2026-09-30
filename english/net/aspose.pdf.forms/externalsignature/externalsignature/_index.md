@@ -31,7 +31,77 @@ public ExternalSignature(X509Certificate2 certificate)
 
 ---
 
-## ExternalSignature(X509Certificate2, [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)) {#constructor_1}
+## ExternalSignature(string, bool) {#constructor_1}
+
+Creates a PKCS#7 signature using a X509Certificate2 as base64 string.
+
+For detached set to false the digest algorithm will always be `SHA1`.
+ Otherwise, the digest algorithm will be automatically selected based on the certificate key data( see `Auto` ).
+
+```csharp
+public ExternalSignature(string base64, bool detached)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| base64 | String | X509Certificate2 as base64 string. |
+| detached | Boolean | True if the signature should be detached, otherwise false. |
+
+### See Also
+
+* class [ExternalSignature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ExternalSignature(string, [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)) {#constructor_2}
+
+Creates a PKCS#7 `(detached)` signature using a X509Certificate2 as base64 string.
+
+```csharp
+public ExternalSignature(string base64, DigestHashAlgorithm digestHashAlgorithm)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| base64 | String | X509Certificate2 as base64 string. |
+| digestHashAlgorithm | DigestHashAlgorithm | The digest algorithm to sign a document. |
+
+### See Also
+
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* class [ExternalSignature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ExternalSignature(X509Certificate2, bool) {#constructor_3}
+
+Creates a detached PKCS#7 signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys.
+
+For detached set to false the digest algorithm will always be `SHA1`.
+ Otherwise, the digest algorithm will be automatically selected based on the certificate key data( see `Auto` ).
+
+```csharp
+public ExternalSignature(X509Certificate2 certificate, bool detached)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| certificate | X509Certificate2 | The certificate with the private key. |
+| detached | Boolean | True if the signature should be detached, otherwise false. |
+
+### See Also
+
+* class [ExternalSignature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ExternalSignature(X509Certificate2, [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)) {#constructor_4}
 
 Creates a detached PKCS#7 `(detached)` signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys.
 
@@ -46,75 +116,7 @@ public ExternalSignature(X509Certificate2 certificate, DigestHashAlgorithm diges
 
 ### See Also
 
-* class [ExternalSignature](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## ExternalSignature(X509Certificate2, bool) {#constructor_2}
-
-Creates a detached PKCS#7 signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys.
-
-For detached set to false the digest algorithm will always be `SHA1`.
- Otherwise, the digest algorithm will be automatically selected based on the certificate key data( see `Auto` ).
-
-```csharp
-public ExternalSignature(X509Certificate2 certificate, bool detached)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| certificate | X509Certificate2 | The certificate with the private key. |
-| detached | bool | True if the signature should be detached, otherwise false. |
-
-### See Also
-
-* class [ExternalSignature](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## ExternalSignature(string, bool) {#constructor_3}
-
-Creates a PKCS#7 signature using a X509Certificate2 as base64 string.
-
-For detached set to false the digest algorithm will always be `SHA1`.
- Otherwise, the digest algorithm will be automatically selected based on the certificate key data( see `Auto` ).
-
-```csharp
-public ExternalSignature(string base64, bool detached)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| base64 | string | X509Certificate2 as base64 string. |
-| detached | bool | True if the signature should be detached, otherwise false. |
-
-### See Also
-
-* class [ExternalSignature](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## ExternalSignature(string, [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)) {#constructor_4}
-
-Creates a PKCS#7 `(detached)` signature using a X509Certificate2 as base64 string.
-
-```csharp
-public ExternalSignature(string base64, DigestHashAlgorithm digestHashAlgorithm)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| base64 | string | X509Certificate2 as base64 string. |
-| digestHashAlgorithm | DigestHashAlgorithm | The digest algorithm to sign a document. |
-
-### See Also
-
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
 * class [ExternalSignature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

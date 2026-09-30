@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.ai/toolresources/toolresources/"
 product_version: "26.9.0"
 ---
-## ToolResources() {#constructor}
+## ToolResources constructor
 
 The default constructor.
 

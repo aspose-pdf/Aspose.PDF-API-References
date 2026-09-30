@@ -35,7 +35,7 @@ public PDF3DContent(string filename)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | string | The filename. |
+| filename | String | The filename. |
 
 ### Exceptions
 

@@ -5,7 +5,7 @@ articleTitle: "ImagePlacementCollection"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.ImagePlacementCollection class. Represents an image placements collection"
 type: docs
-weight: 1550
+weight: 1540
 url: "/net/aspose.pdf/imageplacementcollection/"
 keywords: "ImagePlacementCollection, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -15,7 +15,7 @@ product_version: "26.9.0"
 Represents an image placements collection
 
 ```csharp
-public sealed class ImagePlacementCollection : IEnumerable
+public sealed class ImagePlacementCollection : ICollection<ImagePlacement>
 ```
 
 ## Properties
@@ -32,12 +32,12 @@ public sealed class ImagePlacementCollection : IEnumerable
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(*ImagePlacement*) | Adds the text fragment element at the specified index. |
-| [Clear](./clear/) | Clears all items from the collection. |
-| [Contains](./contains/)(*ImagePlacement*) | Determines whether the collection contains a specific value. |
-| [CopyTo](./copyto/)(*ImagePlacement[], int*) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array. |
-| [GetEnumerator](./getenumerator/) | Returns an enumerator for the entire collection. |
-| [Remove](./remove/)(*ImagePlacement*) | Deletes specified item from collection. |
+| [Add](./add/)(ImagePlacement) | Adds the text fragment element at the specified index. |
+| [Clear](./clear/)() | Clears all items from the collection. |
+| [Contains](./contains/)(ImagePlacement) | Determines whether the collection contains a specific value. |
+| [CopyTo](./copyto/)(ImagePlacement[], int) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array |
+| [GetEnumerator](./getenumerator/)() | Returns an enumerator for the entire collection. |
+| [Remove](./remove/)(ImagePlacement) | Deletes specified item from collection |
 
 ### See Also
 

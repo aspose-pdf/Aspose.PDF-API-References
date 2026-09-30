@@ -9,7 +9,7 @@ weight: 20
 url: "/net/aspose.pdf.tagged/itaggedcontent/settitle/"
 product_version: "26.9.0"
 ---
-## SetTitle(string) {#settitle}
+## ITaggedContent.SetTitle method
 
 Sets title for PDF document.
 
@@ -19,7 +19,7 @@ public void SetTitle(string title)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| title | string | The title of PDF document. |
+| title | String | The title of PDF document. |
 
 ### See Also
 

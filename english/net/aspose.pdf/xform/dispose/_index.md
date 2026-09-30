@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf/xform/dispose/"
 product_version: "26.9.0"
 ---
-## Dispose() {#dispose}
+## XForm.Dispose method
 
 Frees up memory
 

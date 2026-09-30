@@ -9,12 +9,12 @@ weight: 40
 url: "/net/aspose.pdf/operator/istextshowoperator/"
 product_version: "26.9.0"
 ---
-## IsTextShowOperator([Operator](../../../aspose.pdf/operator/)) {#istextshowoperator}
+## Operator.IsTextShowOperator method
 
 Determines if the operator is operator which responsible for text output (Tj, TJ, etc)
 
 ```csharp
-public bool IsTextShowOperator(Operator op)
+public static bool IsTextShowOperator(Operator op)
 ```
 
 | Parameter | Type | Description |
@@ -23,13 +23,11 @@ public bool IsTextShowOperator(Operator op)
 
 ### Return Value
 
-bool
-
 True if this is text output operator
 
 ### See Also
 
-* class [Operator](../)
+* class [Operator](../../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

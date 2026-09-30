@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/boundscheckablelist-1/boundscheckablelist/"
 product_version: "26.9.0"
 ---
-## BoundsCheckableList<T>() {#constructor}
+## BoundsCheckableList() {#constructor}
 
 Initializes a new instance of the BoundsCheckableList class.
 
 ```csharp
-public BoundsCheckableList<T>()
+public BoundsCheckableList()
 ```
 
 ### See Also
@@ -25,22 +25,24 @@ public BoundsCheckableList<T>()
 
 ---
 
-## BoundsCheckableList<T>([BoundsCheckMode](../../../aspose.pdf/boundscheckmode/), double, double) {#constructor_1}
+## BoundsCheckableList([BoundsCheckMode](../../../aspose.pdf/boundscheckmode/), double, double) {#constructor_1}
 
 Initializes a new instance of the BoundsCheckableList class.
 
 ```csharp
-public BoundsCheckableList<T>(BoundsCheckMode boundsCheckMode, double containerWidth, double containerHeight)
+public BoundsCheckableList(BoundsCheckMode boundsCheckMode, double containerWidth, 
+    double containerHeight)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | boundsCheckMode | BoundsCheckMode | The bounds cCheck mode. |
-| containerWidth | double | The container width. |
-| containerHeight | double | The container height. |
+| containerWidth | Double | The container width. |
+| containerHeight | Double | The container height. |
 
 ### See Also
 
+* enum [BoundsCheckMode](../../../aspose.pdf/boundscheckmode/)
 * class [BoundsCheckableList<T>](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

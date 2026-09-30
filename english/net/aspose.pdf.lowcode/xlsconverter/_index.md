@@ -15,21 +15,21 @@ product_version: "26.9.0"
 Represents [`XlsConverter`](../../aspose.pdf.lowcode/xlsconverter/) plugin.
 
 ```csharp
-public sealed class XlsConverter : IPlugin, IDisposable
+public sealed class XlsConverter : IDisposable, IPlugin
 ```
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [XlsConverter](./xlsconverter/#constructor) | The default constructor. |
+| [XlsConverter](./xlsconverter/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/) | Implementation of IDisposable. |
-| [Process](./process/)(*IPluginOptions*) | Starts the PdfToExcel processing with the specified parameters. |
+| [Dispose](./dispose/)() | Implementation of IDisposable. |
+| [Process](./process/)(IPluginOptions) | Starts the PdfToExcel processing with the specified parameters. |
 
 ### See Also
 

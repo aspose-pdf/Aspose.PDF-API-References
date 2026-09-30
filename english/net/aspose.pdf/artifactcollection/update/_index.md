@@ -9,7 +9,7 @@ weight: 60
 url: "/net/aspose.pdf/artifactcollection/update/"
 product_version: "26.9.0"
 ---
-## Update([Artifact](../../../aspose.pdf/artifact/)) {#update}
+## ArtifactCollection.Update method
 
 Update artifact inside the collection.
 
@@ -23,6 +23,7 @@ public void Update(Artifact artifact)
 
 ### See Also
 
+* class [Artifact](../../../aspose.pdf/artifact/)
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

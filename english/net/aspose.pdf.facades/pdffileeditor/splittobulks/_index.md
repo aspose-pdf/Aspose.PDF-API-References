@@ -19,12 +19,10 @@ public MemoryStream[] SplitToBulks(string inputFile, int[][] numberOfPage)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | Input PDF file. |
-| numberOfPage | int[][] | Array which contains array of double elements, which is start and end pages of document. |
+| inputFile | String | Input PDF file. |
+| numberOfPage | Int32[][] | Array which contains array of double elements, which is start and end pages of document. |
 
 ### Return Value
-
-MemoryStream[]
 
 Output PDF streams, each stream buffers a PDF document.
 
@@ -47,11 +45,9 @@ public MemoryStream[] SplitToBulks(Stream inputStream, int[][] numberOfPage)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Input PDF stream. |
-| numberOfPage | int[][] | The start page and the end page of each document. |
+| numberOfPage | Int32[][] | The start page and the end page of each document. |
 
 ### Return Value
-
-MemoryStream[]
 
 Output PDF streams, each stream buffers a PDF document.
 

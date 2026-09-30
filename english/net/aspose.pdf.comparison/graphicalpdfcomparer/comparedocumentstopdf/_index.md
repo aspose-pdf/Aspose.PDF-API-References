@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstopdf/"
 product_version: "26.9.0"
 ---
-## CompareDocumentsToPdf([Document](../../../aspose.pdf/document/), [Document](../../../aspose.pdf/document/), string) {#comparedocumentstopdf}
+## GraphicalPdfComparer.CompareDocumentsToPdf method
 
 Compares documents graphically. The comparison result is placed in a PDF document.
 
@@ -21,7 +21,7 @@ public void CompareDocumentsToPdf(Document document1, Document document2, string
 | --- | --- | --- |
 | document1 | Document | The first document to compare. |
 | document2 | Document | The second document to compare. |
-| resultPdfPath | string | The target pdf file path. |
+| resultPdfPath | String | The target pdf file path. |
 
 ### Exceptions
 
@@ -32,6 +32,7 @@ public void CompareDocumentsToPdf(Document document1, Document document2, string
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

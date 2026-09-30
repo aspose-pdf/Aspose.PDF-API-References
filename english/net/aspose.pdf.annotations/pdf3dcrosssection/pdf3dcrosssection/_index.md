@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.annotations/pdf3dcrosssection/pdf3dcrosssection/"
 product_version: "26.9.0"
 ---
-## PDF3DCrossSection([Document](../../../aspose.pdf/document/)) {#constructor}
+## PDF3DCrossSection constructor
 
 Initializes a new instance of the [`PDF3DCrossSection`](../../../aspose.pdf.annotations/pdf3dcrosssection/) class.
 
@@ -23,6 +23,7 @@ public PDF3DCrossSection(Document doc)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

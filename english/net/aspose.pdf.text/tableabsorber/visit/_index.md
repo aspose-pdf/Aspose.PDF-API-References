@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Extracts tables on the specified page
 
 ```csharp
-public void Visit(Page page)
+public virtual void Visit(Page page)
 ```
 
 | Parameter | Type | Description |
@@ -23,6 +23,7 @@ public void Visit(Page page)
 
 ### See Also
 
+* class [Page](../../../aspose.pdf/page/)
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -43,6 +44,7 @@ public void Visit(Document pdf)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

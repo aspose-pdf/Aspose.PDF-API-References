@@ -9,12 +9,12 @@ weight: 10
 url: "/net/aspose.pdf/document.mergeoptions/mergeoptions/"
 product_version: "26.9.0"
 ---
-## Document.MergeOptions() {#constructor}
+## MergeOptions constructor
 
 The default constructor.
 
 ```csharp
-public Document.MergeOptions()
+public MergeOptions()
 ```
 
 ### See Also

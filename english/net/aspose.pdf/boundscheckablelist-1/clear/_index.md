@@ -9,7 +9,7 @@ weight: 50
 url: "/net/aspose.pdf/boundscheckablelist-1/clear/"
 product_version: "26.9.0"
 ---
-## Clear() {#clear}
+## BoundsCheckableList<T>.Clear method
 
 Removes all elements from the System.Collections.Generic.List.
 

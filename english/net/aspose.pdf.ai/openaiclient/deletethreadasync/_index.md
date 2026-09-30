@@ -9,22 +9,21 @@ weight: 380
 url: "/net/aspose.pdf.ai/openaiclient/deletethreadasync/"
 product_version: "26.9.0"
 ---
-## DeleteThreadAsync(string, Nullable<CancellationToken>) {#deletethreadasync}
+## OpenAIClient.DeleteThreadAsync method
 
 Deletes an existing thread asynchronously.
 
 ```csharp
-public Task<DeleteStatusResponse> DeleteThreadAsync(string threadId, Nullable<CancellationToken> cancellationToken)
+public Task<DeleteStatusResponse> DeleteThreadAsync(string threadId, 
+    CancellationToken? cancellationToken = default)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threadId | string | The ID of the thread to delete. |
-| cancellationToken | Nullable<CancellationToken> | A token to cancel the operation. |
+| threadId | String | The ID of the thread to delete. |
+| cancellationToken | Nullable`1 | A token to cancel the operation. |
 
 ### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[DeleteStatusResponse](../../../aspose.pdf.ai/deletestatusresponse/)>
 
 A task that represents the asynchronous operation. The task result contains the status of the delete operation.
 

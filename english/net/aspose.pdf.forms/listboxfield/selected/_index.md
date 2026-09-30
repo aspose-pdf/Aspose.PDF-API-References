@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets index of the selected item. Items are numbered from 1.
 
 ```csharp
-public int Selected { set; }
+public override int Selected { set; }
 ```
 
 ### See Also

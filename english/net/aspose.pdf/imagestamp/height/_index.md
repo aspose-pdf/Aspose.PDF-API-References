@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets image height. Setting this image allows to scale image vertically.
 
 ```csharp
-public double Height { get; set; }
+public override double Height { get; set; }
 ```
 
 ### See Also

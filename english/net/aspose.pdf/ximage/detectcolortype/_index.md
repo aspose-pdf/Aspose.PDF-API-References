@@ -9,12 +9,12 @@ weight: 90
 url: "/net/aspose.pdf/ximage/detectcolortype/"
 product_version: "26.9.0"
 ---
-## DetectColorType(Bitmap) {#detectcolortype}
+## XImage.DetectColorType method
 
 
 
 ```csharp
-public ColorType DetectColorType(Bitmap bmp)
+public static ColorType DetectColorType(Bitmap bmp)
 ```
 
 | Parameter | Type | Description |
@@ -23,13 +23,11 @@ public ColorType DetectColorType(Bitmap bmp)
 
 ### Return Value
 
-[ColorType](../../../aspose.pdf/colortype/)
-
 Color type.
 
 ### See Also
 
-* class [ColorType](../../../aspose.pdf/colortype/)
+* enum [ColorType](../../../aspose.pdf/colortype/)
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

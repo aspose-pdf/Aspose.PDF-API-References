@@ -19,11 +19,9 @@ public bool Contains(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Font name. |
+| name | String | Font name. |
 
 ### Return Value
-
-bool
 
 True in case collection contains the font with specified name.
 
@@ -49,12 +47,11 @@ public bool Contains(Font item)
 
 ### Return Value
 
-bool
-
 true if item is found in the collection; otherwise, false.
 
 ### See Also
 
+* class [Font](../../../aspose.pdf.text/font/)
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

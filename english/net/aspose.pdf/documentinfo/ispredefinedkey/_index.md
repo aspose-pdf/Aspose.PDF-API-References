@@ -9,21 +9,19 @@ weight: 60
 url: "/net/aspose.pdf/documentinfo/ispredefinedkey/"
 product_version: "26.9.0"
 ---
-## IsPredefinedKey(string) {#ispredefinedkey}
+## DocumentInfo.IsPredefinedKey method
 
 Determines if the key is predefined (Title, Author, etc.), not custom.
 
 ```csharp
-public bool IsPredefinedKey(string key)
+public static bool IsPredefinedKey(string key)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | string | Selected key |
+| key | String | Selected key |
 
 ### Return Value
-
-bool
 
 True in case the key is predefined.
 

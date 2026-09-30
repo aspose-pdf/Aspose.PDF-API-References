@@ -9,17 +9,15 @@ weight: 40
 url: "/net/aspose.pdf.dataeditor/cospdfnumber/tostring/"
 product_version: "26.9.0"
 ---
-## ToString() {#tostring}
+## CosPdfNumber.ToString method
 
 Returns a `String` that represents the current [`CosPdfNumber`](../../../aspose.pdf.dataeditor/cospdfnumber/).
 
 ```csharp
-public string ToString()
+public override string ToString()
 ```
 
 ### Return Value
-
-string
 
 A `String` that represents the current [`CosPdfNumber`](../../../aspose.pdf.dataeditor/cospdfnumber/).
 

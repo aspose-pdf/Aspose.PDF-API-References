@@ -15,22 +15,22 @@ product_version: "26.9.0"
 Represents an ordered collection of elements.
 
 ```csharp
-public abstract class ElementList : IEnumerable
+public abstract class ElementList : IEnumerable<Element>
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Gets the number of elements in the ElementList. |
-| [ElementOf](./elementof/) { get; } | Gets an element at the given index. |
+| abstract [Count](./count/) { get; } | Gets the number of elements in the ElementList. |
+| virtual [ElementOf](./elementof/) { get; } | Gets an element at the given index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetEnumerator](./getenumerator/) | Gets an enumerator that iterates through the collection of elements. |
-| [Item](./item/)(*int*) | Retrieves a element at the given index. |
+| abstract [GetEnumerator](./getenumerator/)() | Gets an enumerator that iterates through the collection of elements. |
+| abstract [Item](./item/)(int) | Retrieves a element at the given index. |
 
 ### See Also
 

@@ -9,7 +9,7 @@ weight: 80
 url: "/net/aspose.pdf.facades/pdffilesanitization/trimtop/"
 product_version: "26.9.0"
 ---
-## TrimTop() {#trimtop}
+## PdfFileSanitization.TrimTop method
 
 Removes data before %PDF.
 

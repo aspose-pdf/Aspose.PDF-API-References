@@ -15,41 +15,42 @@ product_version: "26.9.0"
 Represents the options for configuring the OpenAICopilot.
 
 ```csharp
-public class LlamaSummaryCopilotOptions : LlamaCopilotOptionsBase
+public class LlamaSummaryCopilotOptions : LlamaCopilotOptionsBase, 
+    ISummaryCopilotOptions<LlamaSummaryCopilotOptions>
 ```
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DocumentCollection](../../aspose.pdf.ai/llamacopilotoptionsbase/documentcollection/) { get; set; } | Gets or sets the collection of documents to be processed. *(Inherited from LlamaCopilotOptionsBase)* |
-| [MaxCompletionTokens](../../aspose.pdf.ai/llamacopilotoptionsbase/maxcompletiontokens/) { get; set; } | Gets or sets the maximum number of completion tokens that may be used over the course of the run. *(Inherited from LlamaCopilotOptionsBase)* |
-| [Model](../../aspose.pdf.ai/llamacopilotoptionsbase/model/) { get; set; } | Gets or sets the model to use for the assistant. *(Inherited from LlamaCopilotOptionsBase)* |
+| [DocumentCollection](../../aspose.pdf.ai/llamacopilotoptionsbase/documentcollection/) { get; set; } | Gets or sets the collection of documents to be processed. |
+| [MaxCompletionTokens](../../aspose.pdf.ai/llamacopilotoptionsbase/maxcompletiontokens/) { get; set; } | Gets or sets the maximum number of completion tokens that may be used over the course of the run. |
+| virtual [Model](../../aspose.pdf.ai/llamacopilotoptionsbase/model/) { get; set; } | Gets or sets the model to use for the assistant. |
 | [SummaryPrompt](./summaryprompt/) { get; set; } | Gets or sets the prompt to instruct the model to provide a document summary. |
-| [SystemInstructions](../../aspose.pdf.ai/llamacopilotoptionsbase/systeminstructions/) { get; set; } | Gets or sets the file path for the text file containing assistant system instructions. *(Inherited from LlamaCopilotOptionsBase)* |
-| [Temperature](../../aspose.pdf.ai/llamacopilotoptionsbase/temperature/) { get; set; } | Gets or sets the sampling temperature to use for the model. *(Inherited from LlamaCopilotOptionsBase)* |
-| [TopP](../../aspose.pdf.ai/llamacopilotoptionsbase/topp/) { get; set; } | Gets or sets the top-p value for nucleus sampling. *(Inherited from LlamaCopilotOptionsBase)* |
+| [SystemInstructions](../../aspose.pdf.ai/llamacopilotoptionsbase/systeminstructions/) { get; set; } | Gets or sets the file path for the text file containing assistant system instructions. |
+| [Temperature](../../aspose.pdf.ai/llamacopilotoptionsbase/temperature/) { get; set; } | Gets or sets the sampling temperature to use for the model. |
+| [TopP](../../aspose.pdf.ai/llamacopilotoptionsbase/topp/) { get; set; } | Gets or sets the top-p value for nucleus sampling. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Create](./create/) | Creates a new instance of [`LlamaSummaryCopilotOptions`](../../aspose.pdf.ai/llamasummarycopilotoptions/). |
-| [Create](./create/)(*Action<LlamaSummaryCopilotOptions>*) | Creates an instance of [`LlamaSummaryCopilotOptions`](../../aspose.pdf.ai/llamasummarycopilotoptions/) and configures it using the provided delegate. |
-| [GetOptions](./getoptions/) | Gets the current [`LlamaSummaryCopilotOptions`](../../aspose.pdf.ai/llamasummarycopilotoptions/). |
-| [WithDocument](./withdocument/)(*TextDocument*) | Adds a text document to the document collection for the summary copilot options. |
-| [WithDocument](./withdocument/)(*PdfDocument*) | Adds a PDF document to the document collection for the summary copilot options. |
-| [WithDocument](./withdocument/)(*string*) | Adds a document path to the document collection for the summary copilot options. |
-| [WithDocuments](./withdocuments/)(*DocumentCollection*) | Sets the document collection for the summary copilot options. |
-| [WithDocuments](./withdocuments/)(*List<TextDocument>*) | Adds multiple text documents to the document collection for the summary copilot options. |
-| [WithDocuments](./withdocuments/)(*List<PdfDocument>*) | Adds multiple PDF documents to the document collection for the summary copilot options. |
-| [WithDocuments](./withdocuments/)(*List<string>*) | Adds multiple document paths to the document collection for the summary copilot options. |
-| [WithInstructions](./withinstructions/)(*string*) | Sets the instructions for the summary copilot options. |
-| [WithMaxCompletionTokens](./withmaxcompletiontokens/)(*Nullable<int>*) | Sets the max completion tokens for the summary copilot options. |
-| [WithModel](./withmodel/)(*string*) | Sets the model for the summary copilot options. |
-| [WithSummaryPrompt](./withsummaryprompt/)(*string*) | Sets the summary prompt for the summary copilot options. |
-| [WithTemperature](./withtemperature/)(*Nullable<double>*) | Sets the temperature for the summary copilot options. |
-| [WithTopP](./withtopp/)(*Nullable<double>*) | Sets the top P value for the summary copilot options. |
+| static [Create](./create/)() | Creates a new instance of [`LlamaSummaryCopilotOptions`](../../aspose.pdf.ai/llamasummarycopilotoptions/). |
+| static [Create](./create/)(Action<LlamaSummaryCopilotOptions>) | Creates an instance of [`LlamaSummaryCopilotOptions`](../../aspose.pdf.ai/llamasummarycopilotoptions/) and configures it using the provided delegate. |
+| [GetOptions](./getoptions/)() | Gets the current [`LlamaSummaryCopilotOptions`](../../aspose.pdf.ai/llamasummarycopilotoptions/). |
+| [WithDocument](./withdocument/)(PdfDocument) | Adds a PDF document to the document collection for the summary copilot options. |
+| [WithDocument](./withdocument/)(string) | Adds a document path to the document collection for the summary copilot options. |
+| [WithDocument](./withdocument/)(TextDocument) | Adds a text document to the document collection for the summary copilot options. |
+| [WithDocuments](./withdocuments/)(DocumentCollection) | Sets the document collection for the summary copilot options. |
+| [WithDocuments](./withdocuments/)(List<PdfDocument>) | Adds multiple PDF documents to the document collection for the summary copilot options. |
+| [WithDocuments](./withdocuments/)(List<string>) | Adds multiple document paths to the document collection for the summary copilot options. |
+| [WithDocuments](./withdocuments/)(List<TextDocument>) | Adds multiple text documents to the document collection for the summary copilot options. |
+| [WithInstructions](./withinstructions/)(string) | Sets the instructions for the summary copilot options. |
+| [WithMaxCompletionTokens](./withmaxcompletiontokens/)(int?) | Sets the max completion tokens for the summary copilot options. |
+| [WithModel](./withmodel/)(string) | Sets the model for the summary copilot options. |
+| [WithSummaryPrompt](./withsummaryprompt/)(string) | Sets the summary prompt for the summary copilot options. |
+| [WithTemperature](./withtemperature/)(double?) | Sets the temperature for the summary copilot options. |
+| [WithTopP](./withtopp/)(double?) | Sets the top P value for the summary copilot options. |
 
 ### See Also
 

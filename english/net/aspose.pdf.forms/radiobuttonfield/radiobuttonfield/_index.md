@@ -9,27 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.forms/radiobuttonfield/radiobuttonfield/"
 product_version: "26.9.0"
 ---
-## RadioButtonField([Page](../../../aspose.pdf/page/)) {#constructor}
-
-Constructor for RadiouttonField
-
-```csharp
-public RadioButtonField(Page page)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | Page | Page where radio button will be placed. |
-
-### See Also
-
-* class [RadioButtonField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## RadioButtonField([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## RadioButtonField([Document](../../../aspose.pdf/document/)) {#constructor}
 
 Constructor for RadioButtonField.
 
@@ -43,6 +23,28 @@ public RadioButtonField(Document doc)
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## RadioButtonField([Page](../../../aspose.pdf/page/)) {#constructor_1}
+
+Constructor for RadiouttonField
+
+```csharp
+public RadioButtonField(Page page)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| page | Page | Page where radio button will be placed. |
+
+### See Also
+
+* class [Page](../../../aspose.pdf/page/)
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

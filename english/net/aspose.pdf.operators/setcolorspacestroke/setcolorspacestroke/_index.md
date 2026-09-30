@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/setcolorspacestroke/setcolorspacestroke/"
 product_version: "26.9.0"
 ---
-## SetColorSpaceStroke(string) {#constructor}
+## SetColorSpaceStroke constructor
 
 Initializes operator.
 
@@ -19,7 +19,7 @@ public SetColorSpaceStroke(string name)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | string | Color space name. |
+| name | String | Color space name. |
 
 ### See Also
 

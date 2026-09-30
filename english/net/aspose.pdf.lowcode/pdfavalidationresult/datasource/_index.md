@@ -19,7 +19,7 @@ public readonly IDataSource DataSource;
 
 ### See Also
 
-* class [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
+* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
 * class [PdfAValidationResult](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

@@ -9,7 +9,7 @@ weight: 40
 url: "/net/aspose.pdf.forms/signature/getsignaturealgorithminfo/"
 product_version: "26.9.0"
 ---
-## GetSignatureAlgorithmInfo() {#getsignaturealgorithminfo}
+## Signature.GetSignatureAlgorithmInfo method
 
 Retrieves information about the signature algorithm used in the signature.
 
@@ -18,8 +18,6 @@ public SignatureAlgorithmInfo GetSignatureAlgorithmInfo()
 ```
 
 ### Return Value
-
-[SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)
 
 An instance of [`SignatureAlgorithmInfo`](../../../aspose.pdf.security/signaturealgorithminfo/) that contains details
  about the signature algorithm.

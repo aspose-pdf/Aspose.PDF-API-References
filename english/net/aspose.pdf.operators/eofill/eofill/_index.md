@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.operators/eofill/eofill/"
 product_version: "26.9.0"
 ---
-## EOFill() {#constructor}
+## EOFill constructor
 
 Initializes operator.
 

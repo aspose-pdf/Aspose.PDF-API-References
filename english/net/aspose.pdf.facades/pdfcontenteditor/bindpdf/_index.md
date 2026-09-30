@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Binds a PDF file for editing.
 
 ```csharp
-public void BindPdf(string inputFile)
+public override void BindPdf(string inputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | string | A PDF file to be edited. |
+| inputFile | String | A PDF file to be edited. |
 
 ### See Also
 
@@ -34,7 +34,7 @@ public void BindPdf(string inputFile)
 Binds a PDF stream for editing.
 
 ```csharp
-public void BindPdf(Stream inputStream)
+public override void BindPdf(Stream inputStream)
 ```
 
 | Parameter | Type | Description |

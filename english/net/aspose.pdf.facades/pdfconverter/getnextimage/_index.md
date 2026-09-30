@@ -19,7 +19,7 @@ public void GetNextImage(string outputFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file path and name to save the image. |
+| outputFile | String | The file path and name to save the image. |
 
 ### See Also
 
@@ -39,11 +39,12 @@ public void GetNextImage(string outputFile, PageSize pageSize)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file path and name to save the image. |
+| outputFile | String | The file path and name to save the image. |
 | pageSize | PageSize | The page size of the image. |
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -60,7 +61,7 @@ public void GetNextImage(string outputFile, ImageFormat format)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file path and name to save the image. |
+| outputFile | String | The file path and name to save the image. |
 | format | ImageFormat | The format of the image. |
 
 ## Examples
@@ -94,6 +95,7 @@ public void GetNextImage(string outputFile, ImageFormat format)
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -110,12 +112,14 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file path and name to save the image. |
+| outputFile | String | The file path and name to save the image. |
 | pageSize | PageSize | The page size of the image. |
 | format | ImageFormat | The format of the image. |
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -157,6 +161,7 @@ public void GetNextImage(Stream outputStream, PageSize pageSize)
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -178,6 +183,7 @@ public void GetNextImage(Stream outputStream, ImageFormat format)
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -200,6 +206,8 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -211,16 +219,17 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 Saves image to file with the given image format, dimensions and quality.
 
 ```csharp
-public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, int imageHeight, int quality)
+public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, int imageHeight, 
+    int quality)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file path and name to save the image. |
+| outputFile | String | The file path and name to save the image. |
 | format | ImageFormat | The format of the image. |
-| imageWidth | int | The image width, the unit is pixel. |
-| imageHeight | int | The image height, the unit is pixel. |
-| quality | int | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
+| imageWidth | Int32 | The image width, the unit is pixel. |
+| imageHeight | Int32 | The image height, the unit is pixel. |
+| quality | Int32 | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
 
 ## Examples
 
@@ -253,6 +262,7 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -264,19 +274,21 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 Saves image to stream with the givin image format, dimensions and quality.
 
 ```csharp
-public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight, int quality)
+public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight, 
+    int quality)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | The stream to save the image. |
 | format | ImageFormat | The format of the image. |
-| imageWidth | int | The image width, the unit is pixel. |
-| imageHeight | int | The image height, the unit is pixel. |
-| quality | int | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
+| imageWidth | Int32 | The image width, the unit is pixel. |
+| imageHeight | Int32 | The image height, the unit is pixel. |
+| quality | Int32 | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -288,16 +300,17 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 Saves image to file with the givin image format, image size, and quality.
 
 ```csharp
-public void GetNextImage(string outputFile, ImageFormat format, double imageWidth, double imageHeight, int quality)
+public void GetNextImage(string outputFile, ImageFormat format, double imageWidth, 
+    double imageHeight, int quality)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file path and name to save the image. |
+| outputFile | String | The file path and name to save the image. |
 | format | ImageFormat | The format of the image. |
-| imageWidth | double | The image width, the unit is pixels. |
-| imageHeight | double | The image height, the unit is pixels.. |
-| quality | int | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
+| imageWidth | Double | The image width, the unit is pixels. |
+| imageHeight | Double | The image height, the unit is pixels.. |
+| quality | Int32 | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
 
 ## Examples
 
@@ -334,6 +347,7 @@ public void GetNextImage(string outputFile, ImageFormat format, double imageWidt
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -345,19 +359,21 @@ public void GetNextImage(string outputFile, ImageFormat format, double imageWidt
 Saves image to stream with the givin image format, size and quality.
 
 ```csharp
-public void GetNextImage(Stream outputStream, ImageFormat format, double imageWidth, double imageHeight, int quality)
+public void GetNextImage(Stream outputStream, ImageFormat format, double imageWidth, 
+    double imageHeight, int quality)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | The stream to save the image. |
 | format | ImageFormat | The format of the image. |
-| imageWidth | double | The image width, the unit is pixel. |
-| imageHeight | double | The image height, the unit is pixel. |
-| quality | int | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
+| imageWidth | Double | The image width, the unit is pixel. |
+| imageHeight | Double | The image height, the unit is pixel. |
+| quality | Int32 | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -374,10 +390,10 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file path and name to save the image. |
+| outputFile | String | The file path and name to save the image. |
 | format | ImageFormat | The format of the image. |
-| imageWidth | int | The image width, the unit is pixel. |
-| imageHeight | int | The image height, the unit is pixel. |
+| imageWidth | Int32 | The image width, the unit is pixel. |
+| imageHeight | Int32 | The image height, the unit is pixel. |
 
 ## Examples
 
@@ -410,6 +426,7 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -428,11 +445,12 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 | --- | --- | --- |
 | outputStream | Stream | The stream to save the image. |
 | format | ImageFormat | The format of the image. |
-| imageWidth | int | The image width, the unit is pixel. |
-| imageHeight | int | The image height, the unit is pixel. |
+| imageWidth | Int32 | The image width, the unit is pixel. |
+| imageHeight | Int32 | The image height, the unit is pixel. |
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -451,10 +469,11 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int quality)
 | --- | --- | --- |
 | outputStream | Stream | The stream to save the image. |
 | format | ImageFormat | The format of the image. |
-| quality | int | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
+| quality | Int32 | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -474,10 +493,12 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 | outputStream | Stream | The stream to save the image. |
 | pageSize | PageSize | The page size of the image. |
 | format | ImageFormat | The format of the image. |
-| quality | int | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
+| quality | Int32 | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -494,12 +515,13 @@ public void GetNextImage(string outputFile, ImageFormat format, int quality)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file path and name to save the image. |
+| outputFile | String | The file path and name to save the image. |
 | format | ImageFormat | The format of the image. |
-| quality | int | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
+| quality | Int32 | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
 
 ### See Also
 
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -516,13 +538,15 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | string | The file path and name to save the image. |
+| outputFile | String | The file path and name to save the image. |
 | pageSize | PageSize | The page size of the image. |
 | format | ImageFormat | The format of the image. |
-| quality | int | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
+| quality | Int32 | The Jpeg file's quality (0~100), 0 is lowest and 100 is highest |
 
 ### See Also
 
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

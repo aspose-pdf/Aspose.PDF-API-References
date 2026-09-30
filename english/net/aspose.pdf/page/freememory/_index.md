@@ -9,7 +9,7 @@ weight: 300
 url: "/net/aspose.pdf/page/freememory/"
 product_version: "26.9.0"
 ---
-## FreeMemory() {#freememory}
+## Page.FreeMemory method
 
 Clears cached data
 

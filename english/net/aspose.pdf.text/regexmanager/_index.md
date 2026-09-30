@@ -22,7 +22,7 @@ public static class RegexManager
 
 | Name | Description |
 | --- | --- |
-| [MatchTimeout](./matchtimeout/) { get; set; } | Gets or sets the timeout for Regex operations across the library. The default value is 1000 ms. |
+| static [MatchTimeout](./matchtimeout/) { get; set; } | Gets or sets the timeout for Regex operations across the library. The default value is 1000 ms. |
 
 ### See Also
 

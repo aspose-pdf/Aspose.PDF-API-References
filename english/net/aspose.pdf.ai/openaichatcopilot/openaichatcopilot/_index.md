@@ -9,21 +9,23 @@ weight: 10
 url: "/net/aspose.pdf.ai/openaichatcopilot/openaichatcopilot/"
 product_version: "26.9.0"
 ---
-## OpenAIChatCopilot([IOpenAIClient](../../../aspose.pdf.ai/iopenaiclient/), IChatCopilotOptions<OpenAIChatCopilotOptions>) {#constructor}
+## OpenAIChatCopilot constructor
 
 Initializes a new instance of the [`OpenAIChatCopilot`](../../../aspose.pdf.ai/openaichatcopilot/) class with the specified client and options.
 
 ```csharp
-public OpenAIChatCopilot(IOpenAIClient client, IChatCopilotOptions<OpenAIChatCopilotOptions> options)
+public OpenAIChatCopilot(IOpenAIClient client, 
+    IChatCopilotOptions<OpenAIChatCopilotOptions> options)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | client | IOpenAIClient | The OpenAI client used for communication. |
-| options | IChatCopilotOptions<OpenAIChatCopilotOptions> | The chat copilot options. |
+| options | IChatCopilotOptions`1 | The chat copilot options. |
 
 ### See Also
 
+* interface [IOpenAIClient](../../../aspose.pdf.ai/iopenaiclient/)
 * class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

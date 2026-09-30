@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf/heading/heading/"
 product_version: "26.9.0"
 ---
-## Heading(int) {#constructor}
+## Heading constructor
 
 Initializes a new instance of the Cell class.
 
@@ -19,7 +19,7 @@ public Heading(int level)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| level | int | The headings level. |
+| level | Int32 | The headings level. |
 
 ### See Also
 

@@ -17,6 +17,10 @@ Gets the stream of current save target.
 public Stream Data { get; }
 ```
 
+### Return Value
+
+A stream object representing output data.
+
 ### See Also
 
 * class [StreamSaveTarget](../)

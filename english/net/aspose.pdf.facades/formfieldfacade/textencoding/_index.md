@@ -19,7 +19,7 @@ public EncodingType TextEncoding { get; set; }
 
 ### See Also
 
-* class [EncodingType](../../../aspose.pdf.facades/encodingtype/)
+* enum [EncodingType](../../../aspose.pdf.facades/encodingtype/)
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

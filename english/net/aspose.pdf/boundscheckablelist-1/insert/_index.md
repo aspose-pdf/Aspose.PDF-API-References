@@ -9,18 +9,18 @@ weight: 100
 url: "/net/aspose.pdf/boundscheckablelist-1/insert/"
 product_version: "26.9.0"
 ---
-## Insert(int, T0) {#insert}
+## BoundsCheckableList<T>.Insert method
 
 Inserts an element into the System.Collections.Generic.List at the specified index.
 
 ```csharp
-public void Insert(int index, T0 item)
+public void Insert(int index, T item)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | The zero-based index at which item should be inserted. |
-| item | T0 | The object to insert. The value can be null for reference types. |
+| index | Int32 | The zero-based index at which item should be inserted. |
+| item | T | The object to insert. The value can be null for reference types. |
 
 ### Exceptions
 

@@ -5,7 +5,7 @@ articleTitle: "MdLoadOptions"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "Aspose.Pdf.MdLoadOptions class. Load options for Markdown format conversion."
 type: docs
-weight: 1890
+weight: 1850
 url: "/net/aspose.pdf/mdloadoptions/"
 keywords: "MdLoadOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
 product_version: "26.9.0"
@@ -22,17 +22,17 @@ public class MdLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [MdLoadOptions](./mdloadoptions/#constructor) | The default constructor. |
+| [MdLoadOptions](./mdloadoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. *(Inherited from LoadOptions)* |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When , allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default . |
 | [IsPriorityCssPageRule](./isprioritycsspagerule/) { get; set; } | Gets or sets the flag that specifies that @page rules defined in css will override values defined in PageInfo. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../../aspose.pdf/loadoptions/) describes. *(Inherited from LoadOptions)* |
-| [PageInfo](./pageinfo/) { get; set; } | Gets or sets document page info. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. *(Inherited from LoadOptions)* |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../../aspose.pdf/loadoptions/) describes. |
+| [PageInfo](./pageinfo/) { get; set; } | Gets or sets document page info |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
 ### See Also
 

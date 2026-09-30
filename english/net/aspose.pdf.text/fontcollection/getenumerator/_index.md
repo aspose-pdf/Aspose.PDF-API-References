@@ -9,7 +9,7 @@ weight: 10
 url: "/net/aspose.pdf.text/fontcollection/getenumerator/"
 product_version: "26.9.0"
 ---
-## GetEnumerator() {#getenumerator}
+## FontCollection.GetEnumerator method
 
 Returns an enumerator for the entire collection.
 
@@ -18,8 +18,6 @@ public IEnumerator<Font> GetEnumerator()
 ```
 
 ### Return Value
-
-IEnumerator<[Font](../../../aspose.pdf.text/font/)>
 
 Enumerator object.
 

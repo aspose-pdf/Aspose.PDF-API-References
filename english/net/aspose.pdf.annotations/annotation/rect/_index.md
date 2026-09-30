@@ -14,7 +14,7 @@ product_version: "26.9.0"
 Gets or sets annotation rectangle.
 
 ```csharp
-public Rectangle Rect { get; set; }
+public virtual Rectangle Rect { get; set; }
 ```
 
 ### See Also

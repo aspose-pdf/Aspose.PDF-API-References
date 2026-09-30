@@ -19,7 +19,7 @@ public EmphasisStyle EmphasisStyle { get; set; }
 
 ### See Also
 
-* class [EmphasisStyle](../../../aspose.pdf/emphasisstyle/)
+* enum [EmphasisStyle](../../../aspose.pdf/emphasisstyle/)
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -22,25 +22,23 @@ public sealed class FitHExplicitDestination : ExplicitDestination
 
 | Name | Description |
 | --- | --- |
-| [FitHExplicitDestination](./fithexplicitdestination/#constructor)(*[Page](../../aspose.pdf/page/), double*) | Creates local explicit destination. |
-| [FitHExplicitDestination](./fithexplicitdestination/#constructor_1)(*int, double*) | Creates remote explicit destination. |
-| [FitHExplicitDestination](./fithexplicitdestination/#constructor_2)(*[Document](../../aspose.pdf/document/), int, double*) | Creates remote explicit destination. |
+| [FitHExplicitDestination](./fithexplicitdestination/#constructor)(int, double) | Creates remote explicit destination. |
+| [FitHExplicitDestination](./fithexplicitdestination/#constructor_1)(Page, double) | Creates local explicit destination. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Gets the destination page object. *(Inherited from ExplicitDestination)* |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Gets the destination page number. *(Inherited from ExplicitDestination)* |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Gets the destination page object |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Gets the destination page number |
 | [Top](./top/) { get; } | Gets the vertical coordinate top positioned at the top edge of the window. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CreateDestination](../../aspose.pdf.annotations/explicitdestination/createdestination/)(*Page, ExplicitDestinationType, double[]*) | Creates instances of ExplicitDestination descendant classes. *(Inherited from ExplicitDestination)* |
-| [CreateDestination](../../aspose.pdf.annotations/explicitdestination/createdestination/)(*Document, int, ExplicitDestinationType, double[]*) | Creates instances of ExplicitDestination descendant classes. *(Inherited from ExplicitDestination)* |
-| [ToString](./tostring/) | Converts the object state into string value. Example: "1 FitH 100". |
+| static [CreateDestination](../../aspose.pdf.annotations/explicitdestination/createdestination/)(Page, ExplicitDestinationType, params double[]) | Creates instances of ExplicitDestination descendant classes. |
+| override [ToString](./tostring/)() | Converts the object state into string value. Example: "1 FitH 100". |
 
 ### See Also
 

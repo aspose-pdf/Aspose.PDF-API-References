@@ -14,12 +14,12 @@ product_version: "26.9.0"
 Gets or sets a vertical alignment of paragraph
 
 ```csharp
-public VerticalAlignment VerticalAlignment { get; set; }
+public virtual VerticalAlignment VerticalAlignment { get; set; }
 ```
 
 ### See Also
 
-* class [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
+* enum [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

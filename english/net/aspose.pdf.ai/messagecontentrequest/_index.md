@@ -22,24 +22,24 @@ public class MessageContentRequest : MessageContentBase
 
 | Name | Description |
 | --- | --- |
-| [MessageContentRequest](./messagecontentrequest/#constructor) | The default constructor. |
+| [MessageContentRequest](./messagecontentrequest/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | Gets or sets an image File in the content of a message. *(Inherited from MessageContentBase)* |
-| [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | Gets or sets an image URL in the content of a message. *(Inherited from MessageContentBase)* |
-| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | Gets or sets the type of content. *(Inherited from MessageContentBase)* |
+| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | Gets or sets an image File in the content of a message. |
+| [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | Gets or sets an image URL in the content of a message. |
+| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | Gets or sets the type of content. |
 | [Text](./text/) { get; set; } | Gets or sets the text content that is part of a message. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CreateImageFileContent](./createimagefilecontent/)(*string, string*) | Creates an image file content for a message. |
-| [CreateImageUrlContent](./createimageurlcontent/)(*string, string*) | Creates an image URL content for a message. |
-| [CreateTextContent](./createtextcontent/)(*string*) | Creates a text content for a message. |
+| static [CreateImageFileContent](./createimagefilecontent/)(string, string) | Creates an image file content for a message. |
+| static [CreateImageUrlContent](./createimageurlcontent/)(string, string) | Creates an image URL content for a message. |
+| static [CreateTextContent](./createtextcontent/)(string) | Creates a text content for a message. |
 
 ### See Also
 

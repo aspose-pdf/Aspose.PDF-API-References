@@ -9,7 +9,7 @@ weight: 180
 url: "/net/aspose.pdf.facades/pdfviewer/decodeallpages/"
 product_version: "26.9.0"
 ---
-## DecodeAllPages() {#decodeallpages}
+## PdfViewer.DecodeAllPages method
 
 Get pages of current pdf file.
 
@@ -18,8 +18,6 @@ public Bitmap[] DecodeAllPages()
 ```
 
 ### Return Value
-
-Bitmap[]
 
 return the array of Pdf page images.
 

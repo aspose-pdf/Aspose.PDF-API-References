@@ -5,7 +5,7 @@ articleTitle: "Value"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "TextStamp property. Gets or sets string value which is used as stamp on the page."
 type: docs
-weight: 110
+weight: 100
 url: "/net/aspose.pdf/textstamp/value/"
 product_version: "26.9.0"
 ---

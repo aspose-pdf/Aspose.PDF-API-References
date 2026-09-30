@@ -9,7 +9,7 @@ weight: 30
 url: "/net/aspose.pdf/headinglevels/addlevels/"
 product_version: "26.9.0"
 ---
-## AddLevels(ICollection<double>) {#addlevels}
+## HeadingLevels.AddLevels method
 
 Adds heading levels.
  Font size collection should be sorted by decreasing size.
@@ -20,7 +20,7 @@ public void AddLevels(ICollection<double> fontSizes)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontSizes | ICollection<double> | Values should be sorted in decreasing order. |
+| fontSizes | ICollection`1 | Values should be sorted in decreasing order. |
 
 ### Exceptions
 

@@ -5,7 +5,7 @@ articleTitle: "ExportBookmarksToXML"
 second_title: "Aspose.PDF for .NET API Reference"
 description: "PdfBookmarkEditor method. Exports bookmarks to XML file."
 type: docs
-weight: 160
+weight: 150
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml/"
 product_version: "26.9.0"
 ---
@@ -19,7 +19,7 @@ public void ExportBookmarksToXML(string xmlFile)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xmlFile | string | The output XML file. |
+| xmlFile | String | The output XML file. |
 
 ### See Also
 
