@@ -7,7 +7,7 @@ description: "BasicSetColorOperator property. Gets magenta component of CMYK col
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/basicsetcoloroperator/m/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BasicSetColorOperator.M property
 

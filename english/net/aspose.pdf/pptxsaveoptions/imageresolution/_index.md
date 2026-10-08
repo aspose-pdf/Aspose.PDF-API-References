@@ -7,7 +7,7 @@ description: "PptxSaveOptions property. Gets or sets the image resolution (dpi).
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pptxsaveoptions/imageresolution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PptxSaveOptions.ImageResolution property
 

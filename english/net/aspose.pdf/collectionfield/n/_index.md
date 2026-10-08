@@ -7,7 +7,7 @@ description: "CollectionField property. Gets the textual field name that shall b
 type: docs
 weight: 30
 url: "/net/aspose.pdf/collectionfield/n/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionField.N property
 

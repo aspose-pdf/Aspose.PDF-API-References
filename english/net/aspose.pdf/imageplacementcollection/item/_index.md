@@ -7,7 +7,7 @@ description: "ImagePlacementCollection property. Gets the text fragment element 
 type: docs
 weight: 110
 url: "/net/aspose.pdf/imageplacementcollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagePlacementCollection indexer
 
@@ -27,7 +27,7 @@ ImagePlacement object.
 
 ### See Also
 
-* class [ImagePlacement](../../../aspose.pdf/imageplacement/)
+* class [ImagePlacement](../../imageplacement/)
 * class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

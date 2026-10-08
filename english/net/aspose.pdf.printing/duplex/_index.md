@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Printing.Duplex enum. Specifies the printer's duplex se
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/duplex/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Duplex enumeration
 

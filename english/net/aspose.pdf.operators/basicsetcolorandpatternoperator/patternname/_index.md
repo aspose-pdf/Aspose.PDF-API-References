@@ -7,7 +7,7 @@ description: "BasicSetColorAndPatternOperator property. Gets Pattern Name."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/basicsetcolorandpatternoperator/patternname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BasicSetColorAndPatternOperator.PatternName property
 

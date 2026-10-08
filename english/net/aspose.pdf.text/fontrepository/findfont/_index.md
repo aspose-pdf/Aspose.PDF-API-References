@@ -7,7 +7,7 @@ description: "FontRepository method. Searches and returns font with specified fo
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/fontrepository/findfont/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FindFont(string) {#findfont}
 
@@ -51,7 +51,7 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ### See Also
 
-* class [Font](../../../aspose.pdf.text/font/)
+* class [Font](../../font/)
 * class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -101,14 +101,14 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ### See Also
 
-* class [Font](../../../aspose.pdf.text/font/)
+* class [Font](../../font/)
 * class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## FindFont(string, [FontStyles](../../../aspose.pdf.text/fontstyles/)) {#findfont_2}
+## FindFont(string, FontStyles) {#findfont_2}
 
 Searches and returns font with specified font name and font style.
 
@@ -151,15 +151,15 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ### See Also
 
-* class [Font](../../../aspose.pdf.text/font/)
-* enum [FontStyles](../../../aspose.pdf.text/fontstyles/)
+* class [Font](../../font/)
+* enum [FontStyles](../../fontstyles/)
 * class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## FindFont(string, [FontStyles](../../../aspose.pdf.text/fontstyles/), bool) {#findfont_3}
+## FindFont(string, FontStyles, bool) {#findfont_3}
 
 Searches and returns font with specified font name and font style 
  ignoring or honoring case sensitivity.
@@ -204,8 +204,8 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ### See Also
 
-* class [Font](../../../aspose.pdf.text/font/)
-* enum [FontStyles](../../../aspose.pdf.text/fontstyles/)
+* class [Font](../../font/)
+* enum [FontStyles](../../fontstyles/)
 * class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

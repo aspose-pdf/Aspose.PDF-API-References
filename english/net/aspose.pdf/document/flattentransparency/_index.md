@@ -7,7 +7,7 @@ description: "Document method. Replaces transparent content with non-transparent
 type: docs
 weight: 580
 url: "/net/aspose.pdf/document/flattentransparency/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.FlattenTransparency method
 

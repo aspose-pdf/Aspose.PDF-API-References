@@ -7,7 +7,7 @@ description: "Artifact property. Lines of multiline text artifact."
 type: docs
 weight: 340
 url: "/net/aspose.pdf/artifact/lines/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.Lines property
 

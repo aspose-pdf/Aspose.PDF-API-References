@@ -7,7 +7,7 @@ description: "OcspSettings property. Gets and sets the ocsp server url."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/ocspsettings/serverurl/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OcspSettings.ServerUrl property
 

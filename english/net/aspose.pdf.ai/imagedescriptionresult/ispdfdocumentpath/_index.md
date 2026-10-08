@@ -7,7 +7,7 @@ description: "ImageDescriptionResult property. Gets a value indicating whether t
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/imagedescriptionresult/ispdfdocumentpath/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageDescriptionResult.IsPdfDocumentPath property
 

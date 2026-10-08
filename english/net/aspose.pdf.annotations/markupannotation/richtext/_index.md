@@ -7,7 +7,7 @@ description: "MarkupAnnotation property. Gets or sets a rich text string to be d
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/markupannotation/richtext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupAnnotation.RichText property
 

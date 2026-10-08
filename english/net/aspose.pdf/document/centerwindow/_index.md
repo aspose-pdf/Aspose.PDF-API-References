@@ -7,7 +7,7 @@ description: "Document property. Gets or sets flag specifying whether position o
 type: docs
 weight: 1300
 url: "/net/aspose.pdf/document/centerwindow/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.CenterWindow property
 

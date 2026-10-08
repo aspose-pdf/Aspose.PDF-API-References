@@ -7,7 +7,7 @@ description: "ActionCollection property. Returns true if collection is readonly.
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/actioncollection/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ActionCollection.IsReadOnly property
 

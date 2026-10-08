@@ -7,7 +7,7 @@ description: "HideAction property. Gets or sets status of the annotation(s) to h
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/hideaction/ishidden/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HideAction.IsHidden property
 

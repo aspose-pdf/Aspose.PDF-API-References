@@ -7,7 +7,7 @@ description: "PaperSizes field. SuperB/SuperB/A3 paper (305 mm by 487 mm)."
 type: docs
 weight: 560
 url: "/net/aspose.pdf.printing/papersizes/bplus/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.BPlus field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize BPlus;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

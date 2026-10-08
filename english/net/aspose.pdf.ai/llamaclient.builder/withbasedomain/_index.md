@@ -7,7 +7,7 @@ description: "Builder method. Sets the base domain for the client."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/llamaclient.builder/withbasedomain/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaClient.Builder.WithBaseDomain method
 
@@ -23,11 +23,11 @@ public Builder WithBaseDomain(string baseDomain)
 
 ### Return Value
 
-The current instance of `Builder`.
+The current instance of [`Builder`](../../llamaclient.builder/).
 
 ### See Also
 
-* class [LlamaClient.Builder](../)
+* class [Builder](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

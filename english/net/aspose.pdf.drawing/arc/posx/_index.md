@@ -7,7 +7,7 @@ description: "Arc property. Gets or sets a float value that indicates the x-coor
 type: docs
 weight: 30
 url: "/net/aspose.pdf.drawing/arc/posx/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Arc.PosX property
 

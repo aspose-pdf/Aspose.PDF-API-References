@@ -7,7 +7,7 @@ description: "LinkAnnotation property. An action to be performed when the link a
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/linkannotation/action/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LinkAnnotation.Action property
 
@@ -19,7 +19,7 @@ public PdfAction Action { get; set; }
 
 ### See Also
 
-* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [PdfAction](../../pdfaction/)
 * class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

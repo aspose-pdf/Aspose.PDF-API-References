@@ -7,7 +7,7 @@ description: "HtmlSaveOptions property. Gets or sets resolution for image render
 type: docs
 weight: 120
 url: "/net/aspose.pdf/htmlsaveoptions/imageresolution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.ImageResolution property
 

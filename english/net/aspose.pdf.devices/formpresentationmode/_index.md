@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Devices.FormPresentationMode enum. Used to specify the 
 type: docs
 weight: 90
 url: "/net/aspose.pdf.devices/formpresentationmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormPresentationMode enumeration
 

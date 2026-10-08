@@ -7,7 +7,7 @@ description: "Margins property. Gets or sets the bottom."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.devices/margins/bottom/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Margins.Bottom property
 

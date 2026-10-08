@@ -7,7 +7,7 @@ description: "PageCollection method. Updates when group changes are complete. Re
 type: docs
 weight: 70
 url: "/net/aspose.pdf/pagecollection/endupdate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollection.EndUpdate method
 

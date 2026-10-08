@@ -7,7 +7,7 @@ description: "FormImporterJsonOptions property. Gets the collection of input sou
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/formimporterjsonoptions/inputs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormImporterJsonOptions.Inputs property
 
@@ -19,6 +19,7 @@ public IReadOnlyList<FormJsonImportSource> Inputs { get; }
 
 ### See Also
 
+* class [FormJsonImportSource](../../formjsonimportsource/)
 * class [FormImporterJsonOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

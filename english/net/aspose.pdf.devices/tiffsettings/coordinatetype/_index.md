@@ -7,7 +7,7 @@ description: "TiffSettings property. Get or sets the page coordinate type (Media
 type: docs
 weight: 160
 url: "/net/aspose.pdf.devices/tiffsettings/coordinatetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TiffSettings.CoordinateType property
 

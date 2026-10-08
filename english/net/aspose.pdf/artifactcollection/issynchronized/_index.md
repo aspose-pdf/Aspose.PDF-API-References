@@ -7,7 +7,7 @@ description: "ArtifactCollection property. Is this object synchronized."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/artifactcollection/issynchronized/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ArtifactCollection.IsSynchronized property
 

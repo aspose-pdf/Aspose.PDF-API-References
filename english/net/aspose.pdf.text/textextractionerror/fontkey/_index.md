@@ -7,7 +7,7 @@ description: "TextExtractionError property. Key (PDF name) of the Font object th
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/textextractionerror/fontkey/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextExtractionError.FontKey property
 

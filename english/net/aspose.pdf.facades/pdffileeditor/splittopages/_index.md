@@ -7,33 +7,9 @@ description: "PdfFileEditor method. Splits the PDF file into single-page documen
 type: docs
 weight: 810
 url: "/net/aspose.pdf.facades/pdffileeditor/splittopages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## SplitToPages(Stream) {#splittopages}
-
-Splits the Pdf file into single-page documents.
-
-```csharp
-public MemoryStream[] SplitToPages(Stream inputStream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | Stream | Input Pdf stream. |
-
-### Return Value
-
-Array of memory streams which contain pages of the document.
-
-### See Also
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SplitToPages(string) {#splittopages_1}
+## SplitToPages(string) {#splittopages}
 
 Splits the PDF file into single-page documents.
 
@@ -57,18 +33,21 @@ Output PDF streams, each stream buffers a single-page PDF document.
 
 ---
 
-## SplitToPages(Stream, string) {#splittopages_2}
+## SplitToPages(Stream) {#splittopages_1}
 
-Split the Pdf file into single-page documents and saves it into specified path. Path is specifield by field name temaplate.
+Splits the Pdf file into single-page documents.
 
 ```csharp
-public void SplitToPages(Stream inputStream, string fileNameTemplate)
+public MemoryStream[] SplitToPages(Stream inputStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | Stream of the soruce document. |
-| fileNameTemplate | String | Template of resultant file name. Must contain %NUM% which is replaced with page number. For example, if c:/dir/page%NUM%.pdf is specified, resultant files will have the following names: c:/dir/page1.pdf, c:/dir/page2.pdf etc. |
+| inputStream | Stream | Input Pdf stream. |
+
+### Return Value
+
+Array of memory streams which contain pages of the document.
 
 ### See Also
 
@@ -78,7 +57,7 @@ public void SplitToPages(Stream inputStream, string fileNameTemplate)
 
 ---
 
-## SplitToPages(string, string) {#splittopages_3}
+## SplitToPages(string, string) {#splittopages_2}
 
 Split the Pdf file into single-page documents and saves it into specified path. Path is specifield by field name temaplate.
 
@@ -89,6 +68,27 @@ public void SplitToPages(string inputFile, string fileNameTemplate)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | inputFile | String | Input file name. |
+| fileNameTemplate | String | Template of resultant file name. Must contain %NUM% which is replaced with page number. For example, if c:/dir/page%NUM%.pdf is specified, resultant files will have the following names: c:/dir/page1.pdf, c:/dir/page2.pdf etc. |
+
+### See Also
+
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SplitToPages(Stream, string) {#splittopages_3}
+
+Split the Pdf file into single-page documents and saves it into specified path. Path is specifield by field name temaplate.
+
+```csharp
+public void SplitToPages(Stream inputStream, string fileNameTemplate)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputStream | Stream | Stream of the soruce document. |
 | fileNameTemplate | String | Template of resultant file name. Must contain %NUM% which is replaced with page number. For example, if c:/dir/page%NUM%.pdf is specified, resultant files will have the following names: c:/dir/page1.pdf, c:/dir/page2.pdf etc. |
 
 ### See Also

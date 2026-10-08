@@ -7,7 +7,7 @@ description: "Metered method. Check whether metered is licensed."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/metered/ismeteredlicensed/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metered.IsMeteredLicensed method
 

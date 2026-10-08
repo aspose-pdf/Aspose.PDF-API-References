@@ -7,7 +7,7 @@ description: "OpenAIChatCopilotOptions method. Sets the file path for the contex
 type: docs
 weight: 210
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withcontextbackupjsonpath/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIChatCopilotOptions.WithContextBackupJsonPath method
 
@@ -23,11 +23,11 @@ public OpenAIChatCopilotOptions WithContextBackupJsonPath(string filePath)
 
 ### Return Value
 
-The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
+The current instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

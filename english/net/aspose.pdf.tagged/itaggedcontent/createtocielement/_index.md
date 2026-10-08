@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates TOCIElement."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.tagged/itaggedcontent/createtocielement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateTOCIElement method
 

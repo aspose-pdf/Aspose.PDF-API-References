@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Security.CryptographicStandard enum. Represents the ava
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security/cryptographicstandard/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CryptographicStandard enumeration
 

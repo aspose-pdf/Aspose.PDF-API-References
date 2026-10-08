@@ -8,7 +8,7 @@ type: docs
 weight: 40
 url: "/net/aspose.pdf/apssaveoptions/"
 keywords: "ApsSaveOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ApsSaveOptions class
 
@@ -22,7 +22,7 @@ public class ApsSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [ApsSaveOptions](./apssaveoptions/)() | The default constructor. |
+| [ApsSaveOptions](apssaveoptions/)() | The default constructor. |
 
 ## Properties
 

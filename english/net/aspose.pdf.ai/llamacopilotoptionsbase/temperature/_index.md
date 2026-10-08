@@ -7,7 +7,7 @@ description: "LlamaCopilotOptionsBase property. Gets or sets the sampling temper
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/llamacopilotoptionsbase/temperature/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaCopilotOptionsBase.Temperature property
 

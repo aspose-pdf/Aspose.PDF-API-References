@@ -7,7 +7,7 @@ description: "Result property. Gets an unsigned content."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/unsignedcontentabsorber.result/unsignedcontent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnsignedContentAbsorber.Result.UnsignedContent property
 
@@ -19,7 +19,8 @@ public UnsignedContent UnsignedContent { get; }
 
 ### See Also
 
-* class [UnsignedContentAbsorber.Result](../)
+* class [UnsignedContent](../../unsignedcontentabsorber.unsignedcontent/)
+* class [Result](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
 

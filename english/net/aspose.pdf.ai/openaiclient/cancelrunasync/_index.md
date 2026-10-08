@@ -7,7 +7,7 @@ description: "OpenAIClient method. Cancels an existing run within a thread async
 type: docs
 weight: 500
 url: "/net/aspose.pdf.ai/openaiclient/cancelrunasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIClient.CancelRunAsync method
 
@@ -32,11 +32,12 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread Id is null or empty. |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the run Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the thread Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the run Id is null or empty. |
 
 ### See Also
 
+* class [RunResponse](../../runresponse/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

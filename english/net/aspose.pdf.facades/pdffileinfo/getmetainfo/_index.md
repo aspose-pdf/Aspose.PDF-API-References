@@ -7,7 +7,7 @@ description: "PdfFileInfo method. Gets customized information of PDF document wi
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/pdffileinfo/getmetainfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.GetMetaInfo method
 

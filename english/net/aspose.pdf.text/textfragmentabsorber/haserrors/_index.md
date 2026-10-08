@@ -7,7 +7,7 @@ description: "TextFragmentAbsorber property. Value indicates whether errors were
 type: docs
 weight: 270
 url: "/net/aspose.pdf.text/textfragmentabsorber/haserrors/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentAbsorber.HasErrors property
 

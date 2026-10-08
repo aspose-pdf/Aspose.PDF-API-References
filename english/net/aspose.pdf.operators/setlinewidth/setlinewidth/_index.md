@@ -7,7 +7,7 @@ description: "SetLineWidth constructor. Initializes operator with width value."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setlinewidth/setlinewidth/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetLineWidth constructor
 

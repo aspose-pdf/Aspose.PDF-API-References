@@ -7,7 +7,7 @@ description: "TableAbsorber property. Enable an alternative table recognition en
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/tableabsorber/useflowengine/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableAbsorber.UseFlowEngine property
 

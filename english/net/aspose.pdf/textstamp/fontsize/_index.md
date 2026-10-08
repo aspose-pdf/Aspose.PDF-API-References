@@ -7,7 +7,7 @@ description: "TextStamp property. Actual font size after the stamp has been plac
 type: docs
 weight: 150
 url: "/net/aspose.pdf/textstamp/fontsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStamp.FontSize property
 

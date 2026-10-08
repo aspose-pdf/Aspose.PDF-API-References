@@ -7,7 +7,7 @@ description: "CompletionResponse constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/completionresponse/completionresponse/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionResponse constructor
 

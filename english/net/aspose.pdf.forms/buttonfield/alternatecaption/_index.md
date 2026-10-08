@@ -7,7 +7,7 @@ description: "ButtonField property. Gets or sets alternate caption of the button
 type: docs
 weight: 70
 url: "/net/aspose.pdf.forms/buttonfield/alternatecaption/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ButtonField.AlternateCaption property
 

@@ -7,7 +7,7 @@ description: "RunModifyRequest property. Set of 16 key-value pairs that can be a
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/runmodifyrequest/metadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunModifyRequest.Metadata property
 

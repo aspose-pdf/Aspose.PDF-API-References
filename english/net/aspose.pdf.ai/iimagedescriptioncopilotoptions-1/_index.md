@@ -7,7 +7,7 @@ description: "Aspose.Pdf.AI.IImageDescriptionCopilotOptions interface. Represent
 type: docs
 weight: 540
 url: "/net/aspose.pdf.ai/iimagedescriptioncopilotoptions-1/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IImageDescriptionCopilotOptions&lt;TOptions&gt; interface
 
@@ -17,17 +17,15 @@ Represents an interface for image description copilot options with a specific ty
 public interface IImageDescriptionCopilotOptions<out TOptions>
 ```
 
-## Type Parameters
-
-| Name | Description |
+| Parameter | Description |
 | --- | --- |
-| TOptions |  |
+| TOptions | The type of options for the image description copilot. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetOptions](./getoptions/)() | Gets the options of type *TOptions*. |
+| [GetOptions](../../aspose.pdf.ai/iimagedescriptioncopilotoptions-1/getoptions/)() | Gets the options of type *TOptions*. |
 
 ### See Also
 

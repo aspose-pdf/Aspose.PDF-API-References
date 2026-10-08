@@ -7,21 +7,23 @@ description: "Signature property. The delegate for custom sign the document hash
 type: docs
 weight: 230
 url: "/net/aspose.pdf.forms/signature/customsignhash/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Signature.CustomSignHash property
 
 The delegate for custom sign the document hash.
 
-`The algorithm with which you sign the hash in the delegate must match the type of the certificate's private key.`
-
 ```csharp
 public SignHash CustomSignHash { get; set; }
 ```
 
+## Remarks
+
+`The algorithm with which you sign the hash in the delegate must match the type of the certificate's private key.`
+
 ### See Also
 
-* delegate [SignHash](../../../aspose.pdf.forms/signhash/)
+* delegate [SignHash](../../signhash/)
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

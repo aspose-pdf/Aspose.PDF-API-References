@@ -8,7 +8,7 @@ type: docs
 weight: 510
 url: "/net/aspose.pdf/datecomponent/"
 keywords: "DateComponent, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DateComponent class
 
@@ -22,19 +22,19 @@ public class DateComponent
 
 | Name | Description |
 | --- | --- |
-| [DateComponent](./datecomponent/)() | The default constructor. |
+| [DateComponent](datecomponent/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Format](./format/) { get; set; } | Gets or sets the format for the date component. |
+| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | Gets or sets the format for the date component. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetFormat](./getformat/)(char) | Returns a string composed of a specified character repeated based on the format. |
+| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Returns a string composed of a specified character repeated based on the format. |
 
 ### See Also
 

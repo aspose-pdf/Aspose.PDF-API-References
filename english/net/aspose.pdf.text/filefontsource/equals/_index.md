@@ -7,7 +7,7 @@ description: "FileFontSource method. Check if font file source objects are equal
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/filefontsource/equals/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileFontSource.Equals method
 

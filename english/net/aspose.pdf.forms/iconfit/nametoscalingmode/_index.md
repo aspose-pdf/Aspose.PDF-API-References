@@ -7,7 +7,7 @@ description: "IconFit method. Converts scaling mode name into ScalingMode object
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/iconfit/nametoscalingmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IconFit.NameToScalingMode method
 
@@ -27,7 +27,7 @@ Scaling mode object.
 
 ### See Also
 
-* enum [ScalingMode](../../../aspose.pdf.forms/scalingmode/)
+* enum [ScalingMode](../../scalingmode/)
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

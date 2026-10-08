@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Closes the facade."
 type: docs
 weight: 460
 url: "/net/aspose.pdf.facades/pdffilesignature/close/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.Close method
 

@@ -7,7 +7,7 @@ description: "MoveTextPosition method. Accepts visitor object to process operato
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/movetextposition/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MoveTextPosition.Accept method
 

@@ -7,7 +7,7 @@ description: "OpenAIAssistantCopilotOptionsBase property. Gets or sets the top-p
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/topp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIAssistantCopilotOptionsBase.TopP property
 

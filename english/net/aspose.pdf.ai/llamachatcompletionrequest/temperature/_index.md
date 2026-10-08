@@ -7,7 +7,7 @@ description: "LlamaChatCompletionRequest property. Sets or gets the sampling tem
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/llamachatcompletionrequest/temperature/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaChatCompletionRequest.Temperature property
 

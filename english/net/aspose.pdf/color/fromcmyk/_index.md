@@ -7,7 +7,7 @@ description: "Color method. Gets valid pdf Color object from CMYK color componen
 type: docs
 weight: 100
 url: "/net/aspose.pdf/color/fromcmyk/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Color.FromCmyk method
 
@@ -30,7 +30,7 @@ Color object with each component value in [0..1] range.
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

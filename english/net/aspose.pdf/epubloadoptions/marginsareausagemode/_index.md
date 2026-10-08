@@ -7,7 +7,7 @@ description: "EpubLoadOptions field. Represents mode of usage of margins area - 
 type: docs
 weight: 60
 url: "/net/aspose.pdf/epubloadoptions/marginsareausagemode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EpubLoadOptions.MarginsAreaUsageMode field
 
@@ -21,6 +21,7 @@ public MarginsAreaUsageModes MarginsAreaUsageMode;
 
 ### See Also
 
+* enum [MarginsAreaUsageModes](../../loadoptions.marginsareausagemodes/)
 * class [EpubLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "PdfFileInfo property. Gets the Producer information of PDF documen
 type: docs
 weight: 360
 url: "/net/aspose.pdf.facades/pdffileinfo/producer/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.Producer property
 

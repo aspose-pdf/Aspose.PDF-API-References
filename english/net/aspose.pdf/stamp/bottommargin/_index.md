@@ -7,7 +7,7 @@ description: "Stamp property. Gets or sets bottom margin of stamp."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/stamp/bottommargin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.BottomMargin property
 

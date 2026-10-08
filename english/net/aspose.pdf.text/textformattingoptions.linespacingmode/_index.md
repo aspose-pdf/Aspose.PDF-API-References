@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Text.TextFormattingOptions.LineSpacingMode enum. Define
 type: docs
 weight: 530
 url: "/net/aspose.pdf.text/textformattingoptions.linespacingmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFormattingOptions.LineSpacingMode enumeration
 

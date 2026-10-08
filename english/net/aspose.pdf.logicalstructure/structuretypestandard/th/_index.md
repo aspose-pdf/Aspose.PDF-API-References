@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Table header cell) A table cell cont
 type: docs
 weight: 340
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/th/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.TH field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard TH;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

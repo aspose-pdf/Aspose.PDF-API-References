@@ -7,7 +7,7 @@ description: "FormImportResult property. Status of field import."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/form.formimportresult/status/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.FormImportResult.Status property
 
@@ -19,7 +19,8 @@ public ImportStatus Status { get; }
 
 ### See Also
 
-* class [Form.FormImportResult](../)
+* enum [ImportStatus](../../form.importstatus/)
+* class [FormImportResult](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute checked: Neutral - The state of a r
 type: docs
 weight: 670
 url: "/net/aspose.pdf.logicalstructure/attributename/checked_neutral/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.Checked_neutral field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName Checked_neutral;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

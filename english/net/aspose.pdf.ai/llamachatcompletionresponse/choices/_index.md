@@ -7,7 +7,7 @@ description: "LlamaChatCompletionResponse property. Gets or sets a list of chat 
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/llamachatcompletionresponse/choices/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaChatCompletionResponse.Choices property
 
@@ -19,6 +19,7 @@ public List<Choice> Choices { get; set; }
 
 ### See Also
 
+* class [Choice](../../choice/)
 * class [LlamaChatCompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

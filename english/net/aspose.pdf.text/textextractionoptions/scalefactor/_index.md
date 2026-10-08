@@ -7,7 +7,7 @@ description: "TextExtractionOptions property. Gets or sets factor that will be a
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/textextractionoptions/scalefactor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextExtractionOptions.ScaleFactor property
 

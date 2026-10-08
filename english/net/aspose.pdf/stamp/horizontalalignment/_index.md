@@ -7,7 +7,7 @@ description: "Stamp property. Gets or sets Horizontal alignment of stamp on the 
 type: docs
 weight: 110
 url: "/net/aspose.pdf/stamp/horizontalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.HorizontalAlignment property
 
@@ -19,7 +19,7 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 
 ### See Also
 
-* enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
+* enum [HorizontalAlignment](../../horizontalalignment/)
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Artifact property. Left margin of artifact. If position is specifi
 type: docs
 weight: 250
 url: "/net/aspose.pdf/artifact/leftmargin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.LeftMargin property
 

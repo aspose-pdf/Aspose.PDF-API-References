@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. Defines font saving mode that will be used 
 type: docs
 weight: 310
 url: "/net/aspose.pdf/htmlsaveoptions/fontsavingmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.FontSavingMode field
 
@@ -19,6 +19,7 @@ public FontSavingModes FontSavingMode;
 
 ### See Also
 
+* enum [FontSavingModes](../../htmlsaveoptions.fontsavingmodes/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

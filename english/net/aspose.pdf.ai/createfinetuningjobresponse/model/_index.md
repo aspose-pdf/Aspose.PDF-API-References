@@ -7,7 +7,7 @@ description: "CreateFineTuningJobResponse property. Gets or sets the model used 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/createfinetuningjobresponse/model/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateFineTuningJobResponse.Model property
 

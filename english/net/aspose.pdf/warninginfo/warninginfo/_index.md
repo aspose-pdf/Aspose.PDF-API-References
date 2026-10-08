@@ -7,7 +7,7 @@ description: "WarningInfo constructor. Constructs instance for gathering informa
 type: docs
 weight: 10
 url: "/net/aspose.pdf/warninginfo/warninginfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WarningInfo constructor
 
@@ -24,7 +24,7 @@ public WarningInfo(WarningType type, string message)
 
 ### See Also
 
-* enum [WarningType](../../../aspose.pdf/warningtype/)
+* enum [WarningType](../../warningtype/)
 * class [WarningInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

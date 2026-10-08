@@ -7,7 +7,7 @@ description: "ToolCall property. Gets or sets the type of the tool. Currently, o
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/toolcall/tooltype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ToolCall.ToolType property
 

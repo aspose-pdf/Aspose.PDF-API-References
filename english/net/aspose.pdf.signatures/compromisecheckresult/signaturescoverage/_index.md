@@ -7,7 +7,7 @@ description: "CompromiseCheckResult property. Gets the coverage state of digital
 type: docs
 weight: 20
 url: "/net/aspose.pdf.signatures/compromisecheckresult/signaturescoverage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompromiseCheckResult.SignaturesCoverage property
 
@@ -20,7 +20,7 @@ public SignaturesCoverage SignaturesCoverage { get; }
 
 ### See Also
 
-* enum [SignaturesCoverage](../../../aspose.pdf.signatures/signaturescoverage/)
+* enum [SignaturesCoverage](../../signaturescoverage/)
 * class [CompromiseCheckResult](../)
 * namespace [Aspose.Pdf.Signatures](../../../aspose.pdf.signatures/)
 * assembly [Aspose.PDF](../../../)

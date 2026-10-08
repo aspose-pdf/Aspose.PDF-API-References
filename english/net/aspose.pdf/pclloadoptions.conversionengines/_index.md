@@ -7,7 +7,7 @@ description: "Aspose.Pdf.PclLoadOptions.ConversionEngines enum. Enumerates conve
 type: docs
 weight: 2340
 url: "/net/aspose.pdf/pclloadoptions.conversionengines/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PclLoadOptions.ConversionEngines enumeration
 
@@ -22,8 +22,7 @@ public enum ConversionEngines
 | Name | Value | Description |
 | --- | --- | --- |
 | LegacyEngine | `0` | Legacy conversion engine is conversion engine thay was used for a while and is used by default. |
-| NewEngine | `1` | New conversion engine is currently in A-testing state. We open it into public API to get some feedback. 
- It's currently recommended to use it only when old conversion engine cannot convert document for some reasons. |
+| NewEngine | `1` | New conversion engine is currently in A-testing state. We open it into public API to get some feedback. It's currently recommended to use it only when old conversion engine cannot convert document for some reasons. |
 
 ### See Also
 

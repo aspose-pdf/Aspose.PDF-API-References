@@ -7,7 +7,7 @@ description: "OptimizedMemoryStream method. The function overrided."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/optimizedmemorystream/flush/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizedMemoryStream.Flush method
 

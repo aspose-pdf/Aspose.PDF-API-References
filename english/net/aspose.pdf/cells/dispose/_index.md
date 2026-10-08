@@ -7,7 +7,7 @@ description: "Cells method. Dispose method"
 type: docs
 weight: 110
 url: "/net/aspose.pdf/cells/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Cells.Dispose method
 

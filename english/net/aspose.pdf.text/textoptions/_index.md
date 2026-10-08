@@ -8,7 +8,7 @@ type: docs
 weight: 590
 url: "/net/aspose.pdf.text/textoptions/"
 keywords: "TextOptions, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextOptions class
 

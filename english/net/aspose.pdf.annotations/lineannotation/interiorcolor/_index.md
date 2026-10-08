@@ -7,7 +7,7 @@ description: "LineAnnotation property. Gets or sets interior color of the annota
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/lineannotation/interiorcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineAnnotation.InteriorColor property
 

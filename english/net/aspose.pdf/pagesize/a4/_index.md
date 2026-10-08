@@ -7,7 +7,7 @@ description: "PageSize property. A4 size (297x210 mm)."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/pagesize/a4/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageSize.A4 property
 
@@ -19,7 +19,7 @@ public static PageSize A4 { get; }
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

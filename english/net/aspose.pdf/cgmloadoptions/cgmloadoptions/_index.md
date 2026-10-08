@@ -7,7 +7,7 @@ description: "CgmLoadOptions constructor. Creates default load options for conve
 type: docs
 weight: 10
 url: "/net/aspose.pdf/cgmloadoptions/cgmloadoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CgmLoadOptions() {#constructor}
 

@@ -7,7 +7,7 @@ description: "XmpValue property. Returns true if value is string."
 type: docs
 weight: 290
 url: "/net/aspose.pdf/xmpvalue/isstring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpValue.IsString property
 

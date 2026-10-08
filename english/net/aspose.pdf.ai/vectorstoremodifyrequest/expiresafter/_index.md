@@ -7,7 +7,7 @@ description: "VectorStoreModifyRequest property. Gets or sets the expiration pol
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/vectorstoremodifyrequest/expiresafter/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreModifyRequest.ExpiresAfter property
 
@@ -19,7 +19,7 @@ public ExpiresAfter ExpiresAfter { get; set; }
 
 ### See Also
 
-* class [ExpiresAfter](../../../aspose.pdf.ai/expiresafter/)
+* class [ExpiresAfter](../../expiresafter/)
 * class [VectorStoreModifyRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

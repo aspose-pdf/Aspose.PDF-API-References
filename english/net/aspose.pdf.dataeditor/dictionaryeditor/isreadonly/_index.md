@@ -7,11 +7,11 @@ description: "DictionaryEditor property. Gets a value indicating whether the Dic
 type: docs
 weight: 180
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DictionaryEditor.IsReadOnly property
 
-Gets a value indicating whether the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/) is read-only.
+Gets a value indicating whether the [`DictionaryEditor`](../) is read-only.
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -19,7 +19,7 @@ public bool IsReadOnly { get; }
 
 ### Return Value
 
-true if the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/) is read-only; otherwise, false.
+true if the [`DictionaryEditor`](../) is read-only; otherwise, false.
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "TextFragmentState property. Gets or sets formatting options. Setti
 type: docs
 weight: 240
 url: "/net/aspose.pdf.text/textfragmentstate/formattingoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentState.FormattingOptions property
 
@@ -20,7 +20,7 @@ public TextFormattingOptions FormattingOptions { get; set; }
 
 ### See Also
 
-* class [TextFormattingOptions](../../../aspose.pdf.text/textformattingoptions/)
+* class [TextFormattingOptions](../../textformattingoptions/)
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

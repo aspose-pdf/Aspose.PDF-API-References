@@ -7,7 +7,7 @@ description: "OpenAIClient method. Waits for a specific vector store to complete
 type: docs
 weight: 150
 url: "/net/aspose.pdf.ai/openaiclient/waitforvectorstoretocompleteasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIClient.WaitForVectorStoreToCompleteAsync method
 
@@ -31,10 +31,11 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the vector store Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the vector store Id is null or empty. |
 
 ### See Also
 
+* class [VectorStoreResponse](../../vectorstoreresponse/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

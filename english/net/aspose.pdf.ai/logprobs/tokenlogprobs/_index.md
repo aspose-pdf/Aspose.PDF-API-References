@@ -7,7 +7,7 @@ description: "Logprobs property. Gets or sets a list of token log probabilities.
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/logprobs/tokenlogprobs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Logprobs.TokenLogprobs property
 

@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates ArtElement."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.tagged/itaggedcontent/createartelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateArtElement method
 

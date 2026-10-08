@@ -7,7 +7,7 @@ description: "OpenAIChatCopilotOptions property. Gets or sets the file path for 
 type: docs
 weight: 260
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/contextbackupjsonpath/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIChatCopilotOptions.ContextBackupJsonPath property
 

@@ -7,7 +7,7 @@ description: "RunStepDetails constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/runstepdetails/runstepdetails/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunStepDetails constructor
 

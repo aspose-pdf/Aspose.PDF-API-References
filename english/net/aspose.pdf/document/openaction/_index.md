@@ -7,7 +7,7 @@ description: "Document property. Gets or sets action performed at document openi
 type: docs
 weight: 1250
 url: "/net/aspose.pdf/document/openaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.OpenAction property
 

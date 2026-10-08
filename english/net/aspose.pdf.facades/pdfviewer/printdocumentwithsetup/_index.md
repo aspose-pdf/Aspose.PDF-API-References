@@ -7,7 +7,7 @@ description: "PdfViewer method. Prints the Pdf document with a setup dialog. Cho
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/pdfviewer/printdocumentwithsetup/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.PrintDocumentWithSetup method
 

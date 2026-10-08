@@ -7,7 +7,7 @@ description: "FormImporterJsonOptions property. Gets the collection of output ta
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/formimporterjsonoptions/outputs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormImporterJsonOptions.Outputs property
 
@@ -19,6 +19,7 @@ public List<IDataSource> Outputs { get; }
 
 ### See Also
 
+* interface [IDataSource](../../idatasource/)
 * class [FormImporterJsonOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

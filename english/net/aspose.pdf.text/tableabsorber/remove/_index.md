@@ -7,13 +7,11 @@ description: "TableAbsorber method. Removes an AbsorbedTable from the page."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/tableabsorber/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableAbsorber.Remove method
 
-Removes an [`AbsorbedTable`](../../../aspose.pdf.text/absorbedtable/) from the page.
-
-Please take into account it changes TableList collection. In case removing/replacing tables in loop please use copy of TableList collection.
+Removes an [`AbsorbedTable`](../../absorbedtable/) from the page.
 
 ```csharp
 public void Remove(AbsorbedTable table)
@@ -21,11 +19,15 @@ public void Remove(AbsorbedTable table)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| table | AbsorbedTable | <see cref="T:Aspose.Pdf.Text.AbsorbedTable" /> to remove. |
+| table | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable/) to remove. |
+
+## Remarks
+
+Please take into account it changes TableList collection. In case removing/replacing tables in loop please use copy of TableList collection.
 
 ### See Also
 
-* class [AbsorbedTable](../../../aspose.pdf.text/absorbedtable/)
+* class [AbsorbedTable](../../absorbedtable/)
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

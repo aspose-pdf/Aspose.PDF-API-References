@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Checks if the pdf has a usage rights or n
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/pdffilesignature/containsusagerights/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.ContainsUsageRights method
 

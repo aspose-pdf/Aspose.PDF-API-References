@@ -7,7 +7,7 @@ description: "OpenAIImageDescriptionCopilotOptions property. Gets or sets the ma
 type: docs
 weight: 210
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/maxprompttokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIImageDescriptionCopilotOptions.MaxPromptTokens property
 

@@ -8,7 +8,7 @@ type: docs
 weight: 2270
 url: "/net/aspose.pdf/pagerange/"
 keywords: "PageRange, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageRange class
 
@@ -22,16 +22,16 @@ public sealed class PageRange
 
 | Name | Description |
 | --- | --- |
-| [PageRange](./pagerange/)() | The default constructor. |
+| [PageRange](pagerange/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [End](./end/) { get; set; } | Gets or sets the ending page number. |
-| [Even](./even/) { get; set; } | Gets or sets the setting for even pages. |
-| [Odd](./odd/) { get; set; } | Gets or sets the setting for odd pages. |
-| [Start](./start/) { get; set; } | Gets or sets the starting page number. |
+| [End](../../aspose.pdf/pagerange/end/) { get; set; } | Gets or sets the ending page number. |
+| [Even](../../aspose.pdf/pagerange/even/) { get; set; } | Gets or sets the setting for even pages. |
+| [Odd](../../aspose.pdf/pagerange/odd/) { get; set; } | Gets or sets the setting for odd pages. |
+| [Start](../../aspose.pdf/pagerange/start/) { get; set; } | Gets or sets the starting page number. |
 
 ### See Also
 

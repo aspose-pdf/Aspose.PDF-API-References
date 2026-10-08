@@ -7,11 +7,11 @@ description: "TableElement method. Creates TableTHeadElement and added it to cur
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/tableelement/createthead/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableElement.CreateTHead method
 
-Creates [`TableTHeadElement`](../../../aspose.pdf.logicalstructure/tabletheadelement/) and added it to current table.
+Creates [`TableTHeadElement`](../../tabletheadelement/) and added it to current table.
 
 ```csharp
 public TableTHeadElement CreateTHead()
@@ -23,7 +23,7 @@ Created structure element.
 
 ### See Also
 
-* class [TableTHeadElement](../../../aspose.pdf.logicalstructure/tabletheadelement/)
+* class [TableTHeadElement](../../tabletheadelement/)
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

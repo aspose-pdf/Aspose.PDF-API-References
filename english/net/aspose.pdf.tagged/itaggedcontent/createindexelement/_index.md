@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates IndexElement."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.tagged/itaggedcontent/createindexelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateIndexElement method
 

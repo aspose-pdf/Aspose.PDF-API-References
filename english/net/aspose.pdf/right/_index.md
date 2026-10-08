@@ -8,7 +8,7 @@ type: docs
 weight: 2660
 url: "/net/aspose.pdf/right/"
 keywords: "Right, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Right class
 
@@ -22,7 +22,7 @@ public sealed class Right : HeaderFooterData
 
 | Name | Description |
 | --- | --- |
-| [Right](./right/)() | The default constructor. |
+| [Right](right/)() | The default constructor. |
 
 ## Properties
 

@@ -7,9 +7,9 @@ description: "IStringOutputGenerator method. Generates the output based on the d
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/istringoutputgenerator/generateoutput/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## GenerateOutput(List<DiffOperation>) {#generateoutput}
+## GenerateOutput(List&lt;DiffOperation&gt;) {#generateoutput}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -27,13 +27,14 @@ Text representation of output.
 
 ### See Also
 
+* class [DiffOperation](../../diffoperation/)
 * interface [IStringOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## GenerateOutput(List<List<DiffOperation>>) {#generateoutput_1}
+## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;) {#generateoutput_1}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -51,6 +52,7 @@ Text representation of output.
 
 ### See Also
 
+* class [DiffOperation](../../diffoperation/)
 * interface [IStringOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

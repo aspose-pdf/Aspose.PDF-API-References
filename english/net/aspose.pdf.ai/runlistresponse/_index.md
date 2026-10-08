@@ -8,7 +8,7 @@ type: docs
 weight: 1080
 url: "/net/aspose.pdf.ai/runlistresponse/"
 keywords: "RunListResponse, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunListResponse class
 
@@ -22,7 +22,7 @@ public class RunListResponse : ListDataResponse<List<RunResponse>>
 
 | Name | Description |
 | --- | --- |
-| [RunListResponse](./runlistresponse/)() | The default constructor. |
+| [RunListResponse](runlistresponse/)() | The default constructor. |
 
 ## Properties
 
@@ -42,7 +42,8 @@ public class RunListResponse : ListDataResponse<List<RunResponse>>
 
 ### See Also
 
-* class [ListDataResponse<T>](../listdataresponse-1/)
+* class [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
+* class [RunResponse](../runresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
 

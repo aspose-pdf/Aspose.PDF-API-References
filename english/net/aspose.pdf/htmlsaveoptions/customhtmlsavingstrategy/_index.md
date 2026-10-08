@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. Result of conversion can contain one or sev
 type: docs
 weight: 380
 url: "/net/aspose.pdf/htmlsaveoptions/customhtmlsavingstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.CustomHtmlSavingStrategy field
 
@@ -30,6 +30,7 @@ public HtmlPageMarkupSavingStrategy CustomHtmlSavingStrategy;
 
 ### See Also
 
+* delegate [HtmlPageMarkupSavingStrategy](../../htmlsaveoptions.htmlpagemarkupsavingstrategy/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

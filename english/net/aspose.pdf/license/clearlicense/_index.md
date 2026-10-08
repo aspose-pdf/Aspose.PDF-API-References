@@ -7,7 +7,7 @@ description: "License method. Clears the current license."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/license/clearlicense/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## License.ClearLicense method
 

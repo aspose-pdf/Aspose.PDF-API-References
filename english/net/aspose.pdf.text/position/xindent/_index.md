@@ -7,7 +7,7 @@ description: "Position property. Gets the X coordinate of the object"
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/position/xindent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Position.XIndent property
 

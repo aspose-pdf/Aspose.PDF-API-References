@@ -8,7 +8,7 @@ type: docs
 weight: 40
 url: "/net/aspose.pdf.security/dsaalgorithminfo/"
 keywords: "DsaAlgorithmInfo, Aspose.Pdf.Security, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DsaAlgorithmInfo class
 

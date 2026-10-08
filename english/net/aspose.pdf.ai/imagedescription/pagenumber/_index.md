@@ -7,7 +7,7 @@ description: "ImageDescription property. Gets or sets the page number where the 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/imagedescription/pagenumber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageDescription.PageNumber property
 

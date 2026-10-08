@@ -7,7 +7,7 @@ description: "AttributeOwnerStandard field. XML-1.0.0 attribute owner."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/xml_100/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeOwnerStandard.Xml_100 field
 
@@ -19,7 +19,7 @@ public static readonly AttributeOwnerStandard Xml_100;
 
 ### See Also
 
-* class [AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
+* class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

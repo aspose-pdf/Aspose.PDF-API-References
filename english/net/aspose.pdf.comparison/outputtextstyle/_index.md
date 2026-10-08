@@ -8,7 +8,7 @@ type: docs
 weight: 160
 url: "/net/aspose.pdf.comparison/outputtextstyle/"
 keywords: "OutputTextStyle, Aspose.Pdf.Comparison, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputTextStyle class
 
@@ -22,16 +22,16 @@ public class OutputTextStyle
 
 | Name | Description |
 | --- | --- |
-| [OutputTextStyle](./outputtextstyle/)() | The default constructor. |
+| [OutputTextStyle](outputtextstyle/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DeletedStyle](./deletedstyle/) { get; set; } | Get and set a text style for deleted text. |
-| [EqualStyle](./equalstyle/) { get; set; } | Get and set a text style for non changed text. |
-| [InsertedStyle](./insertedstyle/) { get; set; } | Get and set a text style for inserted text. |
-| [StrikethroughDeleted](./strikethroughdeleted/) { get; set; } | Get or set text-decoration: line-through style for the delete operation. Default value is `False`. |
+| [DeletedStyle](../../aspose.pdf.comparison/outputtextstyle/deletedstyle/) { get; set; } | Get and set a text style for deleted text. |
+| [EqualStyle](../../aspose.pdf.comparison/outputtextstyle/equalstyle/) { get; set; } | Get and set a text style for non changed text. |
+| [InsertedStyle](../../aspose.pdf.comparison/outputtextstyle/insertedstyle/) { get; set; } | Get and set a text style for inserted text. |
+| [StrikethroughDeleted](../../aspose.pdf.comparison/outputtextstyle/strikethroughdeleted/) { get; set; } | Get or set text-decoration: line-through style for the delete operation. Default value is `False`. |
 
 ### See Also
 

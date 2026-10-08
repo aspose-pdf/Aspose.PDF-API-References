@@ -7,7 +7,7 @@ description: "ImageDevice property. Gets image output width."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.devices/imagedevice/width/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageDevice.Width property
 

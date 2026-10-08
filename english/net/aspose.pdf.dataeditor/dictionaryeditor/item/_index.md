@@ -7,7 +7,7 @@ description: "DictionaryEditor property. Gets or sets the element with the speci
 type: docs
 weight: 190
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DictionaryEditor indexer
 
@@ -25,9 +25,17 @@ public ICosPdfPrimitive this[string key] { get; set; }
 
 The element with the specified key.
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | The key is null. |
+| KeyNotFoundException | The property is retrieved and key is not found. |
+| ArgumentException | Throw exception if key can't be edited/set. |
+
 ### See Also
 
-* interface [ICosPdfPrimitive](../../../aspose.pdf.dataeditor/icospdfprimitive/)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
 * class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)

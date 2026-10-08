@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionField property. Field value type, drawn from XMP S
 type: docs
 weight: 40
 url: "/net/aspose.pdf/xmppdfaextensionfield/valuetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionField.ValueType property
 

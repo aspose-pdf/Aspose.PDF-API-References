@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates NoteElement."
 type: docs
 weight: 300
 url: "/net/aspose.pdf.tagged/itaggedcontent/createnoteelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateNoteElement method
 

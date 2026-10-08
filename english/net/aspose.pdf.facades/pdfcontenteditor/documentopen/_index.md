@@ -7,7 +7,7 @@ description: "PdfContentEditor field. A document event type. Opens a document."
 type: docs
 weight: 700
 url: "/net/aspose.pdf.facades/pdfcontenteditor/documentopen/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.DocumentOpen field
 

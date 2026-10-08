@@ -7,11 +7,11 @@ description: "ThreadMessageCreateRequest method. Creates a new ThreadMessageCrea
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/fromuser/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadMessageCreateRequest.FromUser method
 
-Creates a new [`ThreadMessageCreateRequest`](../../../aspose.pdf.ai/threadmessagecreaterequest/) with the role set to User.
+Creates a new [`ThreadMessageCreateRequest`](../) with the role set to User.
 
 ```csharp
 public static ThreadMessageCreateRequest FromUser()
@@ -19,11 +19,11 @@ public static ThreadMessageCreateRequest FromUser()
 
 ### Return Value
 
-A new instance of [`ThreadMessageCreateRequest`](../../../aspose.pdf.ai/threadmessagecreaterequest/) with the role set to User.
+A new instance of [`ThreadMessageCreateRequest`](../) with the role set to User.
 
 ### See Also
 
-* class [ThreadMessageCreateRequest](../../../aspose.pdf.ai/threadmessagecreaterequest/)
+* class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

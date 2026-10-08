@@ -8,7 +8,7 @@ type: docs
 weight: 2050
 url: "/net/aspose.pdf/outputintent/"
 keywords: "OutputIntent, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputIntent class
 
@@ -23,17 +23,17 @@ public sealed class OutputIntent
 
 | Name | Description |
 | --- | --- |
-| [OutputIntent](./outputintent/)(string) | Initializes a new instance of the [`OutputIntent`](../../aspose.pdf/outputintent/) class with the specified output condition identifier. |
+| [OutputIntent](outputintent/)(string) | Initializes a new instance of the `OutputIntent` class with the specified output condition identifier. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Info](./info/) { get; set; } | Gets or sets a human-readable text that contains additional information or comments about the intended target device or production condition. |
-| [OutputCondition](./outputcondition/) { get; set; } | Gets or sets a text that concisely identifies the intended output device or production condition in human-readable form. |
-| [OutputConditionIdentifier](./outputconditionidentifier/) { get; set; } | Gets or sets a text that identifies the intended output device or production condition in human- or machine-readable form. |
-| [RegistryName](./registryname/) { get; set; } | Gets or sets a text that identifies the registry in which the condition designated by `OutputConditionIdentifier` is defined. |
-| [Subtype](./subtype/) { get; } | Gets the output intent subtype. |
+| [Info](../../aspose.pdf/outputintent/info/) { get; set; } | Gets or sets a human-readable text that contains additional information or comments about the intended target device or production condition. |
+| [OutputCondition](../../aspose.pdf/outputintent/outputcondition/) { get; set; } | Gets or sets a text that concisely identifies the intended output device or production condition in human-readable form. |
+| [OutputConditionIdentifier](../../aspose.pdf/outputintent/outputconditionidentifier/) { get; set; } | Gets or sets a text that identifies the intended output device or production condition in human- or machine-readable form. |
+| [RegistryName](../../aspose.pdf/outputintent/registryname/) { get; set; } | Gets or sets a text that identifies the registry in which the condition designated by [`OutputConditionIdentifier`](./outputconditionidentifier/) is defined. |
+| [Subtype](../../aspose.pdf/outputintent/subtype/) { get; } | Gets the output intent subtype. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "StructureAttributes property. Gets standard attribute owner."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/structureattributes/owner/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureAttributes.Owner property
 
@@ -23,7 +23,7 @@ Standard attribute owner.
 
 ### See Also
 
-* class [AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
 * class [StructureAttributes](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

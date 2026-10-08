@@ -8,7 +8,7 @@ type: docs
 weight: 2980
 url: "/net/aspose.pdf/texsaveoptions/"
 keywords: "TeXSaveOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXSaveOptions class
 
@@ -22,7 +22,7 @@ public class TeXSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [TeXSaveOptions](./texsaveoptions/)() | The default constructor. |
+| [TeXSaveOptions](texsaveoptions/)() | The default constructor. |
 
 ## Properties
 
@@ -31,8 +31,8 @@ public class TeXSaveOptions : UnifiedSaveOptions
 | [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Gets or sets boolean value which indicates if will font glyphs be cached while preparing aps pages. Improves performance of conversion pdf to other formats but increases memory consumption. |
 | [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
 | [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | This atrribute turned on functionality for extracting image or text for PDF documents with OCR sublayer. |
-| [OutDirectoryPath](./outdirectorypath/) { get; set; } | Property for `_outDirectoryPath` parameter. |
-| [PagesCount](./pagescount/) { get; } | Returns the number of pages after conversion. |
+| [OutDirectoryPath](../../aspose.pdf/texsaveoptions/outdirectorypath/) { get; set; } | Property for _outDirectoryPath parameter. |
+| [PagesCount](../../aspose.pdf/texsaveoptions/pagescount/) { get; } | Returns the number of pages after conversion. |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format of data save. |
 | [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
 
@@ -40,8 +40,8 @@ public class TeXSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [AddFontEncs](./addfontencs/)(params string[]) | Adds a font ancoding to the font encoding list |
-| [ClearFontEncs](./clearfontencs/)() | Clears the font encoding list |
+| [AddFontEncs](../../aspose.pdf/texsaveoptions/addfontencs/)(params string[]) | Adds a font ancoding to the font encoding list |
+| [ClearFontEncs](../../aspose.pdf/texsaveoptions/clearfontencs/)() | Clears the font encoding list |
 
 ## Fields
 

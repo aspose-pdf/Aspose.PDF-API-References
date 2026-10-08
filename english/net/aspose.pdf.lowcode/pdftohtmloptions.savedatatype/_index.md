@@ -7,7 +7,7 @@ description: "Aspose.Pdf.LowCode.PdfToHtmlOptions.SaveDataType enum. Defines out
 type: docs
 weight: 700
 url: "/net/aspose.pdf.lowcode/pdftohtmloptions.savedatatype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfToHtmlOptions.SaveDataType enumeration
 

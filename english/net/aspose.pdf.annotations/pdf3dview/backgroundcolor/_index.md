@@ -7,7 +7,7 @@ description: "PDF3DView property. Gets or sets the color of the back ground of v
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/pdf3dview/backgroundcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DView.BackGroundColor property
 

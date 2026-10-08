@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute BlockAlign: Justify - Children alig
 type: docs
 weight: 320
 url: "/net/aspose.pdf.logicalstructure/attributename/blockalign_justify/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.BlockAlign_Justify field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName BlockAlign_Justify;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

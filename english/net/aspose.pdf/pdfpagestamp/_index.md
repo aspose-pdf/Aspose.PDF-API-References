@@ -8,7 +8,7 @@ type: docs
 weight: 2450
 url: "/net/aspose.pdf/pdfpagestamp/"
 keywords: "PdfPageStamp, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageStamp class
 
@@ -22,9 +22,9 @@ public sealed class PdfPageStamp : Stamp
 
 | Name | Description |
 | --- | --- |
-| [PdfPageStamp](./pdfpagestamp/#constructor)(Page) | Constructor of PdfPageStamp. |
-| [PdfPageStamp](./pdfpagestamp/#constructor_1)(Stream, int) | Creates Pdf page stamp from specifed page in the document from the stream. |
-| [PdfPageStamp](./pdfpagestamp/#constructor_2)(string, int) | Creates Pdf page stamp from specifed page of the document in specified file. |
+| [PdfPageStamp](pdfpagestamp/#constructor)(Page) | Constructor of PdfPageStamp. |
+| [PdfPageStamp](pdfpagestamp/#constructor_1)(string, int) | Creates Pdf page stamp from specifed page of the document in specified file. |
+| [PdfPageStamp](pdfpagestamp/#constructor_2)(Stream, int) | Creates Pdf page stamp from specifed page in the document from the stream. |
 
 ## Properties
 
@@ -38,9 +38,9 @@ public sealed class PdfPageStamp : Stamp
 | [Opacity](../../aspose.pdf/stamp/opacity/) { get; set; } | Gets or sets a value to indicate the stamp opacity. The value is from 0.0 to 1.0. By default the value is 1.0. |
 | [OutlineOpacity](../../aspose.pdf/stamp/outlineopacity/) { get; set; } | Gets or sets a value to indicate the stamp outline opacity. The value is from 0.0 to 1.0. By default the value is 1.0. |
 | [OutlineWidth](../../aspose.pdf/stamp/outlinewidth/) { get; set; } | Gets or sets a value of the stamp outline width. By default the value is 1.0. |
-| [PdfPage](./pdfpage/) { get; set; } | Gets or sets page which will be used as stamp. |
+| [PdfPage](../../aspose.pdf/pdfpagestamp/pdfpage/) { get; set; } | Gets or sets page which will be used as stamp. |
 | [RightMargin](../../aspose.pdf/stamp/rightmargin/) { get; set; } | Gets or sets right margin of stamp. |
-| [Rotate](../../aspose.pdf/stamp/rotate/) { get; set; } | Sets or gets the rotation of stamp content according [`Rotation`](../../aspose.pdf/rotation/) values. Note. This property is for set angles which are multiples of 90 degrees (0, 90, 180, 270 degrees). To set arbitrary angle use RotateAngle property. If angle set by ArbitraryAngle is not multiple of 90 then Rotate property returns Rotation.None. |
+| [Rotate](../../aspose.pdf/stamp/rotate/) { get; set; } | Sets or gets the rotation of stamp content according [`Rotation`](../rotation/) values. Note. This property is for set angles which are multiples of 90 degrees (0, 90, 180, 270 degrees). To set arbitrary angle use RotateAngle property. If angle set by ArbitraryAngle is not multiple of 90 then Rotate property returns Rotation.None. |
 | [RotateAngle](../../aspose.pdf/stamp/rotateangle/) { get; set; } | Gets or sets rotate angle of stamp in degrees. This property allows to set arbitrary rotate angle. |
 | [TopMargin](../../aspose.pdf/stamp/topmargin/) { get; set; } | Gets or sets top margin of stamp. |
 | [VerticalAlignment](../../aspose.pdf/stamp/verticalalignment/) { get; set; } | Gets or sets vertical alignment of stamp on page. |
@@ -55,7 +55,7 @@ public sealed class PdfPageStamp : Stamp
 
 | Name | Description |
 | --- | --- |
-| override [Put](./put/)(Page) | Put stamp on the specified page. |
+| override [Put](../../aspose.pdf/pdfpagestamp/put/)(Page) | Put stamp on the specified page. |
 | [getStampId](../../aspose.pdf/stamp/getstampid/)() | Returns stamp ID. |
 | [setStampId](../../aspose.pdf/stamp/setstampid/)(int) | Sets stamp Id. |
 

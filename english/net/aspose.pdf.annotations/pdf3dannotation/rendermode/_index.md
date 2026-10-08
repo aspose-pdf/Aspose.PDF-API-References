@@ -7,7 +7,7 @@ description: "PDF3DAnnotation property. Gets the render mode."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/pdf3dannotation/rendermode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DAnnotation.RenderMode property
 
@@ -23,7 +23,7 @@ The render mode.
 
 ### See Also
 
-* class [PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
+* class [PDF3DRenderMode](../../pdf3drendermode/)
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

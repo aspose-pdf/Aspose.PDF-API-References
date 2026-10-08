@@ -8,7 +8,7 @@ type: docs
 weight: 780
 url: "/net/aspose.pdf.ai/llamamodels/"
 keywords: "LlamaModels, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaModels class
 
@@ -22,7 +22,7 @@ public static class LlamaModels
 
 | Name | Description |
 | --- | --- |
-| static [Llama13BChat](./llama13bchat/) { get; } | The Llama 13b chat model. |
+| static [Llama13BChat](../../aspose.pdf.ai/llamamodels/llama13bchat/) { get; } | The Llama 13b chat model. |
 
 ### See Also
 

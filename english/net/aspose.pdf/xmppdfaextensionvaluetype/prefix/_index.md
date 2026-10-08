@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionValueType property. Gets the prefix."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/prefix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionValueType.Prefix property
 

@@ -7,7 +7,7 @@ description: "PrinterResolution property. Gets the printer resolution in the hor
 type: docs
 weight: 40
 url: "/net/aspose.pdf.printing/printerresolution/x/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterResolution.X property
 

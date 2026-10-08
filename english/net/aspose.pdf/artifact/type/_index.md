@@ -7,7 +7,7 @@ description: "Artifact property. Gets artifact type."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/artifact/type/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.Type property
 
@@ -19,6 +19,7 @@ public ArtifactType Type { get; set; }
 
 ### See Also
 
+* enum [ArtifactType](../../artifact.artifacttype/)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

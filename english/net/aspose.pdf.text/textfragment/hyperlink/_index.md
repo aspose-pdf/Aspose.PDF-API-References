@@ -7,7 +7,7 @@ description: "TextFragment property. Sets the fragment hyperlink"
 type: docs
 weight: 120
 url: "/net/aspose.pdf.text/textfragment/hyperlink/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragment.Hyperlink property
 

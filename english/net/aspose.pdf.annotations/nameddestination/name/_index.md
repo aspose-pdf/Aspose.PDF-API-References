@@ -7,7 +7,7 @@ description: "NamedDestination property. Gets the name of named destination."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/nameddestination/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## NamedDestination.Name property
 

@@ -7,7 +7,7 @@ description: "Document property. Gets collection of document."
 type: docs
 weight: 1230
 url: "/net/aspose.pdf/document/collection/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.Collection property
 
@@ -19,7 +19,7 @@ public Collection Collection { get; set; }
 
 ### See Also
 
-* class [Collection](../../../aspose.pdf/collection/)
+* class [Collection](../../collection/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

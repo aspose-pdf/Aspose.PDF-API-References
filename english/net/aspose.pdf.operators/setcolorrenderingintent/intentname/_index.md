@@ -7,7 +7,7 @@ description: "SetColorRenderingIntent property. Gets or sets color rendering int
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setcolorrenderingintent/intentname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColorRenderingIntent.IntentName property
 

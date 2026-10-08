@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.FileIcon enum. An icon to be used in displa
 type: docs
 weight: 340
 url: "/net/aspose.pdf.annotations/fileicon/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileIcon enumeration
 

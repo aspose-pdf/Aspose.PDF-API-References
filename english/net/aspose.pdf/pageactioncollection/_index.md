@@ -8,7 +8,7 @@ type: docs
 weight: 2090
 url: "/net/aspose.pdf/pageactioncollection/"
 keywords: "PageActionCollection, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageActionCollection class
 
@@ -22,8 +22,8 @@ public class PageActionCollection : BaseActionCollection
 
 | Name | Description |
 | --- | --- |
-| [OnClose](./onclose/) { get; set; } | An action that shall be performed when the page is closed. |
-| [OnOpen](./onopen/) { get; set; } | An action that shall be performed when the page is opened. |
+| [OnClose](../../aspose.pdf/pageactioncollection/onclose/) { get; set; } | An action that shall be performed when the page is closed. |
+| [OnOpen](../../aspose.pdf/pageactioncollection/onopen/) { get; set; } | An action that shall be performed when the page is opened. |
 
 ## Methods
 

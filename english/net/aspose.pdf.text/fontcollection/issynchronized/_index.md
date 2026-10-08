@@ -7,7 +7,7 @@ description: "FontCollection property. Gets a value indicating whether access to
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/fontcollection/issynchronized/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontCollection.IsSynchronized property
 

@@ -7,7 +7,7 @@ description: "ContentsResizeValue property. Sets value in default space units."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/unitvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeValue.UnitValue property
 
@@ -19,7 +19,7 @@ public double UnitValue { set; }
 
 ### See Also
 
-* class [PdfFileEditor.ContentsResizeValue](../)
+* class [ContentsResizeValue](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

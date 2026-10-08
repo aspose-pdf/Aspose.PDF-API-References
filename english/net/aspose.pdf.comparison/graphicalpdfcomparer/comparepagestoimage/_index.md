@@ -7,7 +7,7 @@ description: "GraphicalPdfComparer method. Compares pages graphically. The compa
 type: docs
 weight: 60
 url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/comparepagestoimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicalPdfComparer.ComparePagesToImage method
 
@@ -27,9 +27,7 @@ public void ComparePagesToImage(Page page1, Page page2, string resultImagePath)
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | If the pages being compared are of different sizes.
- If resultImagePath is null or empty string.
- There is unknown saving image format. |
+| ArgumentException | If the pages being compared are of different sizes. If resultImagePath is null or empty string. There is unknown saving image format. |
 
 ### See Also
 

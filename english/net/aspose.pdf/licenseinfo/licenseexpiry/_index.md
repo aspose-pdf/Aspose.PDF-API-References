@@ -7,7 +7,7 @@ description: "LicenseInfo property. Gets the license expiry date."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/licenseinfo/licenseexpiry/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LicenseInfo.LicenseExpiry property
 

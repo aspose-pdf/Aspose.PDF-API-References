@@ -7,7 +7,7 @@ description: "Aspose.Pdf.PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncoding
 type: docs
 weight: 2380
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType enumeration
 

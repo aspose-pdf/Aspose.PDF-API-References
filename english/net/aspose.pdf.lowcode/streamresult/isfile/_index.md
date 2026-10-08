@@ -7,7 +7,7 @@ description: "StreamResult property. Indicates whether the result is a path to a
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/streamresult/isfile/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StreamResult.IsFile property
 

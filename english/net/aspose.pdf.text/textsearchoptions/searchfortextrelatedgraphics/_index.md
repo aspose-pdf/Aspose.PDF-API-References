@@ -7,7 +7,7 @@ description: "TextSearchOptions property. Gets or sets value that permits search
 type: docs
 weight: 110
 url: "/net/aspose.pdf.text/textsearchoptions/searchfortextrelatedgraphics/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSearchOptions.SearchForTextRelatedGraphics property
 

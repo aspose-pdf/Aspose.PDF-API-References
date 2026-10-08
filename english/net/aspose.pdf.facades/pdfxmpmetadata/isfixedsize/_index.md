@@ -7,7 +7,7 @@ description: "PdfXmpMetadata property. Returns true is collection has fixed size
 type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/isfixedsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata.IsFixedSize property
 

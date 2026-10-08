@@ -7,7 +7,7 @@ description: "PdfAnnotationEditor method. Exports annotations to stream."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.facades/pdfannotationeditor/exportannotationstoxfdf/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAnnotationEditor.ExportAnnotationsToXfdf method
 

@@ -7,7 +7,7 @@ description: "FileSpecification property. Gets a collection item of the file spe
 type: docs
 weight: 130
 url: "/net/aspose.pdf/filespecification/collectionitem/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSpecification.CollectionItem property
 
@@ -19,7 +19,7 @@ public CollectionItem CollectionItem { get; }
 
 ### See Also
 
-* class [CollectionItem](../../../aspose.pdf/collectionitem/)
+* class [CollectionItem](../../collectionitem/)
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

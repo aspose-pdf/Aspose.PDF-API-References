@@ -7,7 +7,7 @@ description: "CompletionCreateRequest property. Gets or sets how many chat compl
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/completioncreaterequest/numberofchoices/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionCreateRequest.NumberOfChoices property
 

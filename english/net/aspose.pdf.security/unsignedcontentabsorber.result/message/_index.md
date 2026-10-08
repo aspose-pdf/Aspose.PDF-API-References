@@ -7,7 +7,7 @@ description: "Result property. Gets a message describing the outcome of the oper
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security/unsignedcontentabsorber.result/message/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnsignedContentAbsorber.Result.Message property
 
@@ -19,7 +19,7 @@ public string Message { get; }
 
 ### See Also
 
-* class [UnsignedContentAbsorber.Result](../)
+* class [Result](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
 

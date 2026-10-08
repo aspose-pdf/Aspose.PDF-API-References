@@ -7,7 +7,7 @@ description: "ShowText method. Produces text code of operator."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.operators/showtext/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ShowText.ToString method
 

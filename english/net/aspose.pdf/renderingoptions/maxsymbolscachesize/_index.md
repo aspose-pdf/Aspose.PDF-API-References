@@ -7,7 +7,7 @@ description: "RenderingOptions property. Maximum count of symbols in symbol cach
 type: docs
 weight: 110
 url: "/net/aspose.pdf/renderingoptions/maxsymbolscachesize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenderingOptions.MaxSymbolsCacheSize property
 

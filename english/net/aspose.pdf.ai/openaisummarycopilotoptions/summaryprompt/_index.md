@@ -7,7 +7,7 @@ description: "OpenAISummaryCopilotOptions property. Gets or sets the prompt to i
 type: docs
 weight: 200
 url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/summaryprompt/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAISummaryCopilotOptions.SummaryPrompt property
 

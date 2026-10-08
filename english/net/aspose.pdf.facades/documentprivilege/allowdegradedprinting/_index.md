@@ -7,18 +7,20 @@ description: "DocumentPrivilege property. Sets the permission which allow degrad
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/documentprivilege/allowdegradedprinting/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.AllowDegradedPrinting property
 
 Sets the permission which allow degraded printing or not. 
  true is allow and false is forbidden.
 
-When set, printing will be limited to a low-level representation of the appearance, possibly of degraded quality.
-
 ```csharp
 public bool AllowDegradedPrinting { get; set; }
 ```
+
+## Remarks
+
+When set, printing will be limited to a low-level representation of the appearance, possibly of degraded quality.
 
 ### See Also
 

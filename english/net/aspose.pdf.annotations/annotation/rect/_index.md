@@ -7,7 +7,7 @@ description: "Annotation property. Gets or sets annotation rectangle."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/annotation/rect/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.Rect property
 
@@ -19,7 +19,7 @@ public virtual Rectangle Rect { get; set; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

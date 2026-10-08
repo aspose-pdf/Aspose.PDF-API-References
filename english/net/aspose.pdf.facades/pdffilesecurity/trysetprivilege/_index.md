@@ -7,7 +7,7 @@ description: "PdfFileSecurity method. Sets Pdf file security with original passw
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/pdffilesecurity/trysetprivilege/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSecurity.TrySetPrivilege method
 
@@ -46,7 +46,7 @@ Dim result As Boolean = fileSecurity.TrySetPrivilege(userPassword, ownerPassword
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../../documentprivilege/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -7,11 +7,11 @@ description: "TextFragmentAbsorber property. Gets extracted text that the TextAb
 type: docs
 weight: 290
 url: "/net/aspose.pdf.text/textfragmentabsorber/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentAbsorber.Text property
 
-Gets extracted text that the [`TextAbsorber`](../../../aspose.pdf.text/textabsorber/) extracts on the PDF document or page.
+Gets extracted text that the [`TextAbsorber`](../../textabsorber/) extracts on the PDF document or page.
 
 ```csharp
 public override string Text { get; }

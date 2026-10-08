@@ -8,7 +8,7 @@ type: docs
 weight: 100
 url: "/net/aspose.pdf.lowcode/filesavetarget/"
 keywords: "FileSaveTarget, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSaveTarget class
 
@@ -22,17 +22,18 @@ public class FileSaveTarget : ISaveTarget
 
 | Name | Description |
 | --- | --- |
-| [FileSaveTarget](./filesavetarget/)(string) | Initializes new file save target with specified path. |
+| [FileSaveTarget](filesavetarget/)(string) | Initializes new file save target with specified path. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Path](./path/) { get; } | Gets the path to the file of current save target. |
-| [SaveTarget](./savetarget/) { get; } | Type of the save target (file). |
+| [Path](../../aspose.pdf.lowcode/filesavetarget/path/) { get; } | Gets the path to the file of current save target. |
+| [SaveTarget](../../aspose.pdf.lowcode/filesavetarget/savetarget/) { get; } | Type of the save target (file). |
 
 ### See Also
 
+* interface [ISaveTarget](../isavetarget/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

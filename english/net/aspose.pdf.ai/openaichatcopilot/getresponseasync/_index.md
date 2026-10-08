@@ -7,25 +7,15 @@ description: "OpenAIChatCopilot method."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/openaichatcopilot/getresponseasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## GetResponseAsync(List<string>, CancellationToken?) {#getresponseasync}
+## GetResponseAsync(string, CancellationToken?) {#getresponseasync}
 
 
 
 ```csharp
-public Task<string> GetResponseAsync(List<string> messages, 
-    CancellationToken? cancellationToken = default)
+public Task<string> GetResponseAsync(string message, CancellationToken? cancellationToken = default)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| messages | List`1 |  |
-| cancellationToken | Nullable`1 |  |
-
-### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<string>
 
 ### See Also
 
@@ -35,22 +25,14 @@ public Task<string> GetResponseAsync(List<string> messages,
 
 ---
 
-## GetResponseAsync(string, CancellationToken?) {#getresponseasync_1}
+## GetResponseAsync(List&lt;string&gt;, CancellationToken?) {#getresponseasync_1}
 
 
 
 ```csharp
-public Task<string> GetResponseAsync(string message, CancellationToken? cancellationToken = default)
+public Task<string> GetResponseAsync(List<string> messages, 
+    CancellationToken? cancellationToken = default)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| message | String |  |
-| cancellationToken | Nullable`1 |  |
-
-### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<string>
 
 ### See Also
 

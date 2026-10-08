@@ -7,7 +7,7 @@ description: "OutlineItemCollection property. Gets or sets italic flag for the t
 type: docs
 weight: 160
 url: "/net/aspose.pdf/outlineitemcollection/italic/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.Italic property
 

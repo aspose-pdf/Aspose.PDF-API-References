@@ -8,7 +8,7 @@ type: docs
 weight: 840
 url: "/net/aspose.pdf.ai/messagecontentresponse/"
 keywords: "MessageContentResponse, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MessageContentResponse class
 
@@ -22,7 +22,7 @@ public class MessageContentResponse : MessageContentBase
 
 | Name | Description |
 | --- | --- |
-| [MessageContentResponse](./messagecontentresponse/)() | The default constructor. |
+| [MessageContentResponse](messagecontentresponse/)() | The default constructor. |
 
 ## Properties
 
@@ -31,7 +31,7 @@ public class MessageContentResponse : MessageContentBase
 | [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | Gets or sets an image File in the content of a message. |
 | [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | Gets or sets an image URL in the content of a message. |
 | [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | Gets or sets the type of content. |
-| [Text](./text/) { get; set; } | Gets or sets the text content that is part of a message. |
+| [Text](../../aspose.pdf.ai/messagecontentresponse/text/) { get; set; } | Gets or sets the text content that is part of a message. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "Table method. Set height."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/table/setcolumntextstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.SetColumnTextState method
 

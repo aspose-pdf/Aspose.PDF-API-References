@@ -7,7 +7,7 @@ description: "PdfConverter method. Merges list of image streams as one image str
 type: docs
 weight: 530
 url: "/net/aspose.pdf.facades/pdfconverter/mergeimages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfConverter.MergeImages method
 
@@ -33,7 +33,7 @@ Image stream encoded as output image format.
 ### See Also
 
 * enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
-* enum [ImageMergeMode](../../../aspose.pdf.facades/imagemergemode/)
+* enum [ImageMergeMode](../../imagemergemode/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

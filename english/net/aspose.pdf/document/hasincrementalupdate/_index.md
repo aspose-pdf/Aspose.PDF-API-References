@@ -7,7 +7,7 @@ description: "Document method. Checks if the current PDF document has been saved
 type: docs
 weight: 1070
 url: "/net/aspose.pdf/document/hasincrementalupdate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.HasIncrementalUpdate method
 

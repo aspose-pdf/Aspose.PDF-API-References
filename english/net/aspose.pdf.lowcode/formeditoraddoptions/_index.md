@@ -8,11 +8,11 @@ type: docs
 weight: 160
 url: "/net/aspose.pdf.lowcode/formeditoraddoptions/"
 keywords: "FormEditorAddOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditorAddOptions class
 
-Represents options for add Fields to document by [`FormEditor`](../../aspose.pdf.lowcode/formeditor/) plugin.
+Represents options for add Fields to document by [`FormEditor`](../formeditor/) plugin.
 
 ```csharp
 public sealed class FormEditorAddOptions : FormEditorOptions
@@ -22,7 +22,7 @@ public sealed class FormEditorAddOptions : FormEditorOptions
 
 | Name | Description |
 | --- | --- |
-| [FormEditorAddOptions](./formeditoraddoptions/)(List<FormFieldCreateOptions>) | Initializes a new instance of the `!:PdfFormAddFieldsOptions` object. |
+| [FormEditorAddOptions](formeditoraddoptions/)(List&lt;FormFieldCreateOptions&gt;) | Initializes a new instance of the `!:PdfFormAddFieldsOptions` object. |
 
 ## Properties
 

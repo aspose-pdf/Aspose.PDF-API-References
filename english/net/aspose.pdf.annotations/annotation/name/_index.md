@@ -7,7 +7,7 @@ description: "Annotation property. Gets or sets annotation name on the page."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/annotation/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.Name property
 

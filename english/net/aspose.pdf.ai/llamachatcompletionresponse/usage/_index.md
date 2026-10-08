@@ -7,7 +7,7 @@ description: "LlamaChatCompletionResponse property. Gets or sets usage statistic
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/llamachatcompletionresponse/usage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaChatCompletionResponse.Usage property
 
@@ -19,7 +19,7 @@ public Usage Usage { get; set; }
 
 ### See Also
 
-* class [Usage](../../../aspose.pdf.ai/usage/)
+* class [Usage](../../usage/)
 * class [LlamaChatCompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

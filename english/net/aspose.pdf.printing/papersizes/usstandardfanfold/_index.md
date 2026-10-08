@@ -7,7 +7,7 @@ description: "PaperSizes field. US standard fanfold (14.875 in. by 11 in.)."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.printing/papersizes/usstandardfanfold/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.USStandardFanfold field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize USStandardFanfold;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "StructureElement property. Gets the ID for structure element."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.logicalstructure/structureelement/id/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureElement.ID property
 

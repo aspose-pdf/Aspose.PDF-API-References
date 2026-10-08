@@ -7,7 +7,7 @@ description: "SelectFont property. Name of font."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/selectfont/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SelectFont.Name property
 

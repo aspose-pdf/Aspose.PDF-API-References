@@ -7,7 +7,7 @@ description: "BaseOperatorCollection method. Copies operators into operators lis
 type: docs
 weight: 20
 url: "/net/aspose.pdf/baseoperatorcollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseOperatorCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public abstract void CopyTo(Operator[] array, int index)
 
 ### See Also
 
-* class [Operator](../../../aspose.pdf/operator/)
+* class [Operator](../../operator/)
 * class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "PdfFileSanitization method. Closes the facade."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/pdffilesanitization/close/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSanitization.Close method
 

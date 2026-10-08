@@ -7,7 +7,7 @@ description: "PageDate property. Gets or sets the day component of the date. The
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pagedate/day/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageDate.Day property
 
@@ -20,6 +20,7 @@ public DayComponent Day { get; set; }
 
 ### See Also
 
+* class [DayComponent](../../pagedate.daycomponent/)
 * class [PageDate](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

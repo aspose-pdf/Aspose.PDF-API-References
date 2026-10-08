@@ -7,7 +7,7 @@ description: "RunStepResponse property. Gets or sets the status of the run step,
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/runstepresponse/status/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunStepResponse.Status property
 

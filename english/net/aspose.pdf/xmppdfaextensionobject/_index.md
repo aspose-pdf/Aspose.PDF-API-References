@@ -8,7 +8,7 @@ type: docs
 weight: 3260
 url: "/net/aspose.pdf/xmppdfaextensionobject/"
 keywords: "XmpPdfAExtensionObject, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionObject class
 
@@ -22,14 +22,14 @@ public abstract class XmpPdfAExtensionObject
 
 | Name | Description |
 | --- | --- |
-| [Description](./description/) { get; } | Gets the description. |
-| [Value](./value/) { get; set; } | Gets or sets the value. |
+| [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Gets the description. |
+| [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Gets or sets the value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [GetXml](./getxml/)(XmlDocument) | Returns the list of xml elements that represent object in xml tree. |
+| abstract [GetXml](../../aspose.pdf/xmppdfaextensionobject/getxml/)(XmlDocument) | Returns the list of xml elements that represent object in xml tree. |
 
 ### See Also
 

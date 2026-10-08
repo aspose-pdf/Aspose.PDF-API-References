@@ -8,11 +8,11 @@ type: docs
 weight: 840
 url: "/net/aspose.pdf.lowcode/signoptions/"
 keywords: "SignOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignOptions class
 
-Represents Sign Options for [`Signature`](../../aspose.pdf.lowcode/signature/) plugin.
+Represents Sign Options for [`Signature`](../signature/) plugin.
 
 ```csharp
 public sealed class SignOptions : OrganizerBaseOptions
@@ -22,8 +22,8 @@ public sealed class SignOptions : OrganizerBaseOptions
 
 | Name | Description |
 | --- | --- |
-| [SignOptions](./signoptions/#constructor)(Stream, string) | Initializes new instance of the [`SignOptions`](../../aspose.pdf.lowcode/signoptions/) object with default options. |
-| [SignOptions](./signoptions/#constructor_1)(string, string) | Initializes new instance of the [`SignOptions`](../../aspose.pdf.lowcode/signoptions/) object with default options. |
+| [SignOptions](signoptions/#constructor)(string, string) | Initializes new instance of the `SignOptions` object with default options. |
+| [SignOptions](signoptions/#constructor_1)(Stream, string) | Initializes new instance of the `SignOptions` object with default options. |
 
 ## Properties
 
@@ -31,15 +31,15 @@ public sealed class SignOptions : OrganizerBaseOptions
 | --- | --- |
 | [CloseInputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeinputstreams/) { get; set; } | Close input streams after operation completed. |
 | [CloseOutputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
-| [Contact](./contact/) { get; set; } | The contact of signature. |
+| [Contact](../../aspose.pdf.lowcode/signoptions/contact/) { get; set; } | The contact of signature. |
 | [Inputs](../../aspose.pdf.lowcode/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. |
-| [Location](./location/) { get; set; } | The location of signature. |
-| [Name](./name/) { get; set; } | The name of existing signature field. Null to create a new field. |
+| [Location](../../aspose.pdf.lowcode/signoptions/location/) { get; set; } | The location of signature. |
+| [Name](../../aspose.pdf.lowcode/signoptions/name/) { get; set; } | The name of existing signature field. Null to create a new field. |
 | [Outputs](../../aspose.pdf.lowcode/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
-| [PageNumber](./pagenumber/) { get; set; } | The page number on which signature is made. |
-| [Reason](./reason/) { get; set; } | The reason of signature. |
-| [Rectangle](./rectangle/) { get; set; } | The rect of signature. |
-| [Visible](./visible/) { get; set; } | The visiblity of signature. |
+| [PageNumber](../../aspose.pdf.lowcode/signoptions/pagenumber/) { get; set; } | The page number on which signature is made. |
+| [Reason](../../aspose.pdf.lowcode/signoptions/reason/) { get; set; } | The reason of signature. |
+| [Rectangle](../../aspose.pdf.lowcode/signoptions/rectangle/) { get; set; } | The rect of signature. |
+| [Visible](../../aspose.pdf.lowcode/signoptions/visible/) { get; set; } | The visiblity of signature. |
 
 ## Methods
 

@@ -7,7 +7,7 @@ description: "XFormCollection property. Returns XForm by index."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/xformcollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFormCollection indexer (1 of 2)
 
@@ -27,7 +27,7 @@ Retrieved XForm.
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
+* class [XForm](../../xform/)
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -52,7 +52,7 @@ Retrieved XForm.
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
+* class [XForm](../../xform/)
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

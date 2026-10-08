@@ -7,7 +7,7 @@ description: "PdfPageEditor field. The old page dissolves"
 type: docs
 weight: 330
 url: "/net/aspose.pdf.facades/pdfpageeditor/dissolve/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.DISSOLVE field
 

@@ -7,7 +7,7 @@ description: "PdfFileInfo property. Gets or sets the Creator information of PDF 
 type: docs
 weight: 300
 url: "/net/aspose.pdf.facades/pdffileinfo/creator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.Creator property
 

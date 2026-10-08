@@ -7,11 +7,11 @@ description: "Merger method. Starts the Merger processing with the specified par
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/merger/process/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Merger.Process method
 
-Starts the [`Merger`](../../../aspose.pdf.lowcode/merger/) processing with the specified parameters.
+Starts the [`Merger`](../) processing with the specified parameters.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -19,7 +19,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | IPluginOptions | An options object containg instructions for the <see cref="T:Aspose.Pdf.LowCode.Merger" />. |
+| options | IPluginOptions | An options object containg instructions for the `Merger`. |
 
 ### Return Value
 
@@ -33,8 +33,8 @@ An ResultContainer object containg the result of the operation.
 
 ### See Also
 
-* class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
-* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
 * class [Merger](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

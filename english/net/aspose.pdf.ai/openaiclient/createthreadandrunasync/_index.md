@@ -7,7 +7,7 @@ description: "OpenAIClient method. Creates a thread and a run within it asynchro
 type: docs
 weight: 460
 url: "/net/aspose.pdf.ai/openaiclient/createthreadandrunasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIClient.CreateThreadAndRunAsync method
 
@@ -29,7 +29,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [RunThreadCreateRequest](../../../aspose.pdf.ai/runthreadcreaterequest/)
+* class [RunResponse](../../runresponse/)
+* class [RunThreadCreateRequest](../../runthreadcreaterequest/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

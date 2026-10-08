@@ -7,7 +7,7 @@ description: "Paragraphs method. Insert paragraph to collection."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/paragraphs/insert/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Paragraphs.Insert method
 
@@ -24,7 +24,7 @@ public void Insert(int index, BaseParagraph paragraph)
 
 ### See Also
 
-* class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
+* class [BaseParagraph](../../baseparagraph/)
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

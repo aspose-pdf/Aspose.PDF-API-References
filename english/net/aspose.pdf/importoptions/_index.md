@@ -8,7 +8,7 @@ type: docs
 weight: 1570
 url: "/net/aspose.pdf/importoptions/"
 keywords: "ImportOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImportOptions class
 
@@ -22,7 +22,7 @@ public abstract class ImportOptions
 
 | Name | Description |
 | --- | --- |
-| [ImportFormat](./importformat/) { get; } | Import format. |
+| [ImportFormat](../../aspose.pdf/importoptions/importformat/) { get; } | Import format. |
 
 ### See Also
 

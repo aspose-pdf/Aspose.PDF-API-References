@@ -7,7 +7,7 @@ description: "FileSpecification method. Gets the file name using the available f
 type: docs
 weight: 100
 url: "/net/aspose.pdf/filespecification/getfilename/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSpecification.GetFileName method
 

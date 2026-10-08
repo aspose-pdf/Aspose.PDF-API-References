@@ -7,7 +7,7 @@ description: "Aspose.Pdf.HtmlSaveOptions.ImageParentTypes enum. Enumerates possi
 type: docs
 weight: 1310
 url: "/net/aspose.pdf/htmlsaveoptions.imageparenttypes/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.ImageParentTypes enumeration
 

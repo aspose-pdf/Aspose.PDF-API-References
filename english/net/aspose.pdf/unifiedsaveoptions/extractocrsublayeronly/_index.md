@@ -7,7 +7,7 @@ description: "UnifiedSaveOptions property. This atrribute turned on functionalit
 type: docs
 weight: 20
 url: "/net/aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnifiedSaveOptions.ExtractOcrSublayerOnly property
 

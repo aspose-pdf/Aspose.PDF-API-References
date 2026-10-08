@@ -8,7 +8,7 @@ type: docs
 weight: 2330
 url: "/net/aspose.pdf/pclloadoptions/"
 keywords: "PclLoadOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PclLoadOptions class
 
@@ -22,24 +22,24 @@ public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
 
 | Name | Description |
 | --- | --- |
-| [PclLoadOptions](./pclloadoptions/)() | The default constructor. |
+| [PclLoadOptions](pclloadoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BatchSize](./batchsize/) { get; set; } | Defines batch size if batched conversion is applicable to source and destination formats pair. |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When , allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default . |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../../aspose.pdf/loadoptions/) describes. |
+| [BatchSize](../../aspose.pdf/pclloadoptions/batchsize/) { get; set; } | Defines batch size if batched conversion is applicable to source and destination formats pair. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When `true`, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../loadoptions/) describes. |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [ConversionEngine](./conversionengine/) | Defines conversion engine that will be used for conversion |
-| [Exceptions](./exceptions/) | List of conversion errors. |
-| [SupressErrors](./supresserrors/) | Gets or sets boolean value which indicates will PCL conversion errors should be supressed. |
+| [ConversionEngine](../../aspose.pdf/pclloadoptions/conversionengine/) | Defines conversion engine that will be used for conversion |
+| [Exceptions](../../aspose.pdf/pclloadoptions/exceptions/) | List of conversion errors. |
+| [SupressErrors](../../aspose.pdf/pclloadoptions/supresserrors/) | Gets or sets boolean value which indicates will PCL conversion errors should be supressed. |
 
 ## Other Members
 
@@ -50,6 +50,7 @@ public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
 ### See Also
 
 * class [LoadOptions](../loadoptions/)
+* interface [IPipelineOptions](../ipipelineoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
 

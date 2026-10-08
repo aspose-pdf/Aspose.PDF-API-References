@@ -7,14 +7,11 @@ description: "PdfAOptionsBase property. Gets the options to process fonts that c
 type: docs
 weight: 140
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/fontembeddingoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAOptionsBase.FontEmbeddingOptions property
 
 Gets the options to process fonts that cannot be embedded into the document.
-
-The PDF/A standard requires that all fonts must be embedded into the document. 
- This property provides options for handling cases when it's not possible to embed some fonts because they are absent on the destination PC.
 
 ```csharp
 public FontEmbeddingOptions FontEmbeddingOptions { get; }
@@ -23,6 +20,11 @@ public FontEmbeddingOptions FontEmbeddingOptions { get; }
 ### Property Value
 
 The font embedding options.
+
+## Remarks
+
+The PDF/A standard requires that all fonts must be embedded into the document. 
+ This property provides options for handling cases when it's not possible to embed some fonts because they are absent on the destination PC.
 
 ### See Also
 

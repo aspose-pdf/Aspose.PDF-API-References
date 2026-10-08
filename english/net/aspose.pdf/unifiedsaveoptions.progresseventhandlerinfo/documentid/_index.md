@@ -7,7 +7,7 @@ description: "ProgressEventHandlerInfo field. The unique document ID."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/documentid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId field
 
@@ -19,7 +19,7 @@ public Guid DocumentId;
 
 ### See Also
 
-* class [UnifiedSaveOptions.ProgressEventHandlerInfo](../)
+* class [ProgressEventHandlerInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

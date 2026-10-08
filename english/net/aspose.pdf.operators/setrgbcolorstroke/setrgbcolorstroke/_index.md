@@ -7,30 +7,9 @@ description: "SetRGBColorStroke constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setrgbcolorstroke/setrgbcolorstroke/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## SetRGBColorStroke([Color](../../../aspose.pdf/color/)) {#constructor}
-
-Initializes operator with color.
-
-```csharp
-public SetRGBColorStroke(Color color)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| color | Color | Operator color. |
-
-### See Also
-
-* class [Color](../../../aspose.pdf/color/)
-* class [SetRGBColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SetRGBColorStroke(double, double, double) {#constructor_1}
+## SetRGBColorStroke(double, double, double) {#constructor}
 
 Initializes operator.
 
@@ -43,6 +22,26 @@ public SetRGBColorStroke(double r, double g, double b)
 | r | Double | The level of red from 0.0 to 1.0 |
 | g | Double | The level of green from 0.0 to 1.0 |
 | b | Double | The level of blue from 0.0 to 1.0 |
+
+### See Also
+
+* class [SetRGBColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SetRGBColorStroke(Color) {#constructor_1}
+
+Initializes operator with color.
+
+```csharp
+public SetRGBColorStroke(Color color)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| color | Color | Operator color. |
 
 ### See Also
 

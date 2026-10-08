@@ -7,7 +7,7 @@ description: "MarkupAnnotation property. Gets or sets a text label that shall be
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/markupannotation/title/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupAnnotation.Title property
 

@@ -7,7 +7,7 @@ description: "Matrix constructor. Constructor creates stanrard 1 to 1 matrix: [ 
 type: docs
 weight: 10
 url: "/net/aspose.pdf/matrix/matrix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix() {#constructor}
 
@@ -84,7 +84,7 @@ public Matrix(float[] matrixArray)
 
 ---
 
-## Matrix([Matrix](../../../aspose.pdf/matrix/)) {#constructor_3}
+## Matrix(Matrix) {#constructor_3}
 
 Constructor
  accepts a matrix to create a copy
@@ -99,7 +99,7 @@ public Matrix(Matrix matrix)
 
 ### See Also
 
-* class [Matrix](../../../aspose.pdf/matrix/)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

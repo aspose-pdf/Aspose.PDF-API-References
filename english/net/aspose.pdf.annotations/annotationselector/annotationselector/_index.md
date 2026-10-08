@@ -7,7 +7,7 @@ description: "AnnotationSelector constructor. Initializes new instance of the An
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/annotationselector/annotationselector/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AnnotationSelector() {#constructor}
 
@@ -25,9 +25,9 @@ public AnnotationSelector()
 
 ---
 
-## AnnotationSelector([Annotation](../../../aspose.pdf.annotations/annotation/)) {#constructor_1}
+## AnnotationSelector(Annotation) {#constructor_1}
 
-Initializes new [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) object.
+Initializes new [`AnnotationSelector`](../) object.
 
 ```csharp
 public AnnotationSelector(Annotation annotation)
@@ -35,12 +35,11 @@ public AnnotationSelector(Annotation annotation)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotation | Annotation | Annotation to be selected. 
- This object only describes some characteristics we want found annotations to have, e.g. the type of annotation. |
+| annotation | Annotation | Annotation to be selected. This object only describes some characteristics we want found annotations to have, e.g. the type of annotation. |
 
 ### See Also
 
-* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [Annotation](../../annotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

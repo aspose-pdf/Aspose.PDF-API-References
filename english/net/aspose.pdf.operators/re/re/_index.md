@@ -7,7 +7,7 @@ description: "Re constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/re/re/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Re() {#constructor}
 

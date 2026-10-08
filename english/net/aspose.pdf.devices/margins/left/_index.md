@@ -7,7 +7,7 @@ description: "Margins property. Gets or sets the left."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.devices/margins/left/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Margins.Left property
 

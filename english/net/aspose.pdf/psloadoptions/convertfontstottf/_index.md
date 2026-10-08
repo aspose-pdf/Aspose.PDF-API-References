@@ -7,7 +7,7 @@ description: "PsLoadOptions property. Specifies whether to save non-TrueType fon
 type: docs
 weight: 30
 url: "/net/aspose.pdf/psloadoptions/convertfontstottf/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PsLoadOptions.ConvertFontsToTTF property
 

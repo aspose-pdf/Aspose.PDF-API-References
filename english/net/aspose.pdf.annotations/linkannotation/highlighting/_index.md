@@ -7,7 +7,7 @@ description: "LinkAnnotation property. The visual effect to be used when the mou
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/linkannotation/highlighting/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LinkAnnotation.Highlighting property
 
@@ -19,7 +19,7 @@ public HighlightingMode Highlighting { get; set; }
 
 ### See Also
 
-* enum [HighlightingMode](../../../aspose.pdf.annotations/highlightingmode/)
+* enum [HighlightingMode](../../highlightingmode/)
 * class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

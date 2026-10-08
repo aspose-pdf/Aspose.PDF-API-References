@@ -7,7 +7,7 @@ description: "SetTextRise constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/settextrise/settextrise/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetTextRise constructor
 

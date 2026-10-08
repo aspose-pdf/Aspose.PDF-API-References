@@ -8,11 +8,11 @@ type: docs
 weight: 580
 url: "/net/aspose.pdf.lowcode/pdfaconvertoptions/"
 keywords: "PdfAConvertOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAConvertOptions class
 
-Represents options for converting PDF documents to PDF/A format with the [`PdfAConverter`](../../aspose.pdf.lowcode/pdfaconverter/) plugin.
+Represents options for converting PDF documents to PDF/A format with the [`PdfAConverter`](../pdfaconverter/) plugin.
 
 ```csharp
 public sealed class PdfAConvertOptions : PdfAOptionsBase
@@ -22,7 +22,7 @@ public sealed class PdfAConvertOptions : PdfAOptionsBase
 
 | Name | Description |
 | --- | --- |
-| [PdfAConvertOptions](./pdfaconvertoptions/)() | The default constructor. |
+| [PdfAConvertOptions](pdfaconvertoptions/)() | The default constructor. |
 
 ## Properties
 
@@ -38,7 +38,7 @@ public sealed class PdfAConvertOptions : PdfAOptionsBase
 | [LogOutputSource](../../aspose.pdf.lowcode/pdfaoptionsbase/logoutputsource/) { get; set; } | Gets or sets the data source for the log output. |
 | [NonSpecificationFlags](../../aspose.pdf.lowcode/pdfaoptionsbase/nonspecificationflags/) { get; } | Gets the flags that control the PDF/A conversion for cases when the source PDF document doesn't correspond to the PDF specification. |
 | [OptimizeFileSize](../../aspose.pdf.lowcode/pdfaoptionsbase/optimizefilesize/) { get; set; } | Gets or sets a value indicating whether to try to reduce the file size during the PDF/A conversion process. |
-| [Outputs](./outputs/) { get; } | Gets the collection of added targets (file or stream data sources) for saving operation results. |
+| [Outputs](../../aspose.pdf.lowcode/pdfaconvertoptions/outputs/) { get; } | Gets the collection of added targets (file or stream data sources) for saving operation results. |
 | [PdfAVersion](../../aspose.pdf.lowcode/pdfaoptionsbase/pdfaversion/) { get; set; } | Gets or sets the version of the PDF/A standard to be used for validation or conversion. |
 | [PuaSymbolsProcessingStrategy](../../aspose.pdf.lowcode/pdfaoptionsbase/puasymbolsprocessingstrategy/) { get; set; } | Gets or sets the strategy for processing Private Use Area (PUA) symbols in the PDF document. |
 | [SoftMaskAction](../../aspose.pdf.lowcode/pdfaoptionsbase/softmaskaction/) { get; set; } | Gets or sets the action to be taken during the conversion of images with soft masks. |
@@ -50,7 +50,7 @@ public sealed class PdfAConvertOptions : PdfAOptionsBase
 | Name | Description |
 | --- | --- |
 | [AddInput](../../aspose.pdf.lowcode/pdfaoptionsbase/addinput/)(IDataSource) | Adds new data source to the collection |
-| [AddOutput](./addoutput/)(IDataSource) | Adds new result save target. |
+| [AddOutput](../../aspose.pdf.lowcode/pdfaconvertoptions/addoutput/)(IDataSource) | Adds new result save target. |
 
 ### See Also
 

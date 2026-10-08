@@ -7,7 +7,7 @@ description: "LaunchAction property. Gets or sets a flag specifying whether to o
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/launchaction/newwindow/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LaunchAction.NewWindow property
 

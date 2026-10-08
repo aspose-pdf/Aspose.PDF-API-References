@@ -7,7 +7,7 @@ description: "Metadata property. Gets collection synchronization object."
 type: docs
 weight: 260
 url: "/net/aspose.pdf/metadata/syncroot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metadata.SyncRoot property
 

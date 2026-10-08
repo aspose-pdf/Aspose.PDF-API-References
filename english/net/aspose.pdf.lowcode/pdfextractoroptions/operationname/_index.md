@@ -7,7 +7,7 @@ description: "PdfExtractorOptions property. Returns operation name"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/pdfextractoroptions/operationname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractorOptions.OperationName property
 

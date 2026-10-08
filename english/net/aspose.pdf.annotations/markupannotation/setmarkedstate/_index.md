@@ -7,7 +7,7 @@ description: "MarkupAnnotation method. Sets Marked and Unmarked state for the an
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/markupannotation/setmarkedstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupAnnotation.SetMarkedState method
 

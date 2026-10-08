@@ -8,7 +8,7 @@ type: docs
 weight: 1030
 url: "/net/aspose.pdf.ai/requiredaction/"
 keywords: "RequiredAction, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RequiredAction class
 
@@ -22,14 +22,14 @@ public class RequiredAction
 
 | Name | Description |
 | --- | --- |
-| [RequiredAction](./requiredaction/)() | The default constructor. |
+| [RequiredAction](requiredaction/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [RequiredActionType](./requiredactiontype/) { get; set; } | Gets or sets the type of action that is required. |
-| [SubmitToolOutputs](./submittooloutputs/) { get; set; } | Gets or sets details on the tool outputs needed for this run to continue. |
+| [RequiredActionType](../../aspose.pdf.ai/requiredaction/requiredactiontype/) { get; set; } | Gets or sets the type of action that is required. |
+| [SubmitToolOutputs](../../aspose.pdf.ai/requiredaction/submittooloutputs/) { get; set; } | Gets or sets details on the tool outputs needed for this run to continue. |
 
 ### See Also
 

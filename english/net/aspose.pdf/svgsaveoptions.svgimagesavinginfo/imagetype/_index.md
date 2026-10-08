@@ -7,7 +7,7 @@ description: "SvgImageSavingInfo field. represent type os saved image referenced
 type: docs
 weight: 20
 url: "/net/aspose.pdf/svgsaveoptions.svgimagesavinginfo/imagetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SvgSaveOptions.SvgImageSavingInfo.ImageType field
 
@@ -21,7 +21,8 @@ public SvgExternalImageType ImageType;
 
 ### See Also
 
-* class [SvgSaveOptions.SvgImageSavingInfo](../)
+* enum [SvgExternalImageType](../../svgsaveoptions.svgexternalimagetype/)
+* class [SvgImageSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

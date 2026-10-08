@@ -7,7 +7,7 @@ description: "ImagePlacementCollection method. Returns an enumerator for the ent
 type: docs
 weight: 20
 url: "/net/aspose.pdf/imageplacementcollection/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagePlacementCollection.GetEnumerator method
 
@@ -23,6 +23,7 @@ Enumerator object.
 
 ### See Also
 
+* class [ImagePlacement](../../imageplacement/)
 * class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

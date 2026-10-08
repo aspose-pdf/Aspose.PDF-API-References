@@ -7,7 +7,7 @@ description: "SignOptions property. The contact of signature."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.lowcode/signoptions/contact/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignOptions.Contact property
 

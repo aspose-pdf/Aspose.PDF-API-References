@@ -7,7 +7,7 @@ description: "SetHorizontalTextScaling property. Gets or sets the horizontal sca
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/sethorizontaltextscaling/horizontalscaling/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetHorizontalTextScaling.HorizontalScaling property
 

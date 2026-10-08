@@ -7,7 +7,7 @@ description: "LocalHyperlink property. Gets or sets the target paragraph."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/localhyperlink/target/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LocalHyperlink.Target property
 
@@ -19,7 +19,7 @@ public BaseParagraph Target { get; set; }
 
 ### See Also
 
-* class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
+* class [BaseParagraph](../../baseparagraph/)
 * class [LocalHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

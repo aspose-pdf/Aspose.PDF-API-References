@@ -7,7 +7,7 @@ description: "AnnotationCollection method. Copies array of annotations into coll
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/annotationcollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AnnotationCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public void CopyTo(Annotation[] array, int index)
 
 ### See Also
 
-* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [Annotation](../../annotation/)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

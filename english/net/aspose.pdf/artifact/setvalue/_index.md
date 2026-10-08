@@ -7,7 +7,7 @@ description: "Artifact method. Sets custom value of artifact."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/artifact/setvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.SetValue method
 

@@ -7,7 +7,7 @@ description: "GSave method. Returns text of the operator."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/gsave/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GSave.ToString method
 

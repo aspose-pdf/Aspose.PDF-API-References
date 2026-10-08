@@ -7,7 +7,7 @@ description: "PolyAnnotation property. Gets or sets an array of points represent
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/polyannotation/vertices/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PolyAnnotation.Vertices property
 

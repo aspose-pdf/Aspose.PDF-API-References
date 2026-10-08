@@ -7,7 +7,7 @@ description: "INamedDestinationCollection property. Returns count of the destina
 type: docs
 weight: 40
 url: "/net/aspose.pdf/inameddestinationcollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## INamedDestinationCollection.Count property
 

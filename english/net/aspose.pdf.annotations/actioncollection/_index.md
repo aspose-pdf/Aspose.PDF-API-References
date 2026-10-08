@@ -8,7 +8,7 @@ type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/actioncollection/"
 keywords: "ActionCollection, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ActionCollection class
 
@@ -22,27 +22,28 @@ public sealed class ActionCollection : ICollection<PdfAction>
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Count of actions on the collection. |
-| [IsReadOnly](./isreadonly/) { get; } | Returns true if collection is readonly. |
-| [IsSynchronized](./issynchronized/) { get; } | Returns true if object is synchronized. |
-| [Item](./item/) { get; } | Gets action by its index. |
-| [SyncRoot](./syncroot/) { get; } | Gets synchronization object. |
+| [Count](../../aspose.pdf.annotations/actioncollection/count/) { get; } | Count of actions on the collection. |
+| [IsReadOnly](../../aspose.pdf.annotations/actioncollection/isreadonly/) { get; } | Returns true if collection is readonly. |
+| [IsSynchronized](../../aspose.pdf.annotations/actioncollection/issynchronized/) { get; } | Returns true if object is synchronized. |
+| [Item](../../aspose.pdf.annotations/actioncollection/item/) { get; } | Gets action by its index. |
+| [SyncRoot](../../aspose.pdf.annotations/actioncollection/syncroot/) { get; } | Gets synchronization object. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(PdfAction) | Adds new action into colleciton. |
-| [Clear](./clear/)() | Clear collection. |
-| [Contains](./contains/)(PdfAction) | Returns true if give item presents in the collection. |
-| [CopyTo](./copyto/)(PdfAction[], int) | Copies actions array into collection. |
-| [Delete](./delete/)() | Delete all actions. |
-| [Delete](./delete/)(int) | Removes action from collection by index. |
-| [GetEnumerator](./getenumerator/)() | Returns enumerator for collection. |
-| [Remove](./remove/)(PdfAction) | Removes item from collection. |
+| [Add](../../aspose.pdf.annotations/actioncollection/add/)(PdfAction) | Adds new action into colleciton. |
+| [Clear](../../aspose.pdf.annotations/actioncollection/clear/)() | Clear collection. |
+| [Contains](../../aspose.pdf.annotations/actioncollection/contains/)(PdfAction) | Returns true if give item presents in the collection. |
+| [CopyTo](../../aspose.pdf.annotations/actioncollection/copyto/)(PdfAction[], int) | Copies actions array into collection. |
+| [Delete](../../aspose.pdf.annotations/actioncollection/delete/#delete)(int) | Removes action from collection by index. |
+| [Delete](../../aspose.pdf.annotations/actioncollection/delete/#delete_1)() | Delete all actions. |
+| [GetEnumerator](../../aspose.pdf.annotations/actioncollection/getenumerator/)() | Returns enumerator for collection. |
+| [Remove](../../aspose.pdf.annotations/actioncollection/remove/)(PdfAction) | Removes item from collection. |
 
 ### See Also
 
+* class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
 

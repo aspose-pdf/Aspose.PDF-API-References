@@ -7,7 +7,7 @@ description: "OpenAISummaryCopilot method."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/openaisummarycopilot/getsummaryasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAISummaryCopilot.GetSummaryAsync method
 
@@ -16,14 +16,6 @@ product_version: "26.9.0"
 ```csharp
 public Task<string> GetSummaryAsync(CancellationToken? cancellationToken = default)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| cancellationToken | Nullable`1 |  |
-
-### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<string>
 
 ### See Also
 

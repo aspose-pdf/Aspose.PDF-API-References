@@ -8,7 +8,7 @@ type: docs
 weight: 30
 url: "/net/aspose.pdf.structure/elementcollection/"
 keywords: "ElementCollection, Aspose.Pdf.Structure, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ElementCollection class
 
@@ -22,18 +22,19 @@ public class ElementCollection : IEnumerable<Element>
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Count of elements. |
-| [Item](./item/) { get; } | Gets Element by index. |
+| [Count](../../aspose.pdf.structure/elementcollection/count/) { get; } | Count of elements. |
+| [Item](../../aspose.pdf.structure/elementcollection/item/) { get; } | Gets Element by index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetEnumerator](./getenumerator/)() | Returns an enumerator that iterates through the collection. |
-| [Remove](./remove/)(Element) | Remove item from collection. |
+| [GetEnumerator](../../aspose.pdf.structure/elementcollection/getenumerator/)() | Returns an enumerator that iterates through the collection. |
+| [Remove](../../aspose.pdf.structure/elementcollection/remove/)(Element) | Remove item from collection. |
 
 ### See Also
 
+* class [Element](../element/)
 * namespace [Aspose.Pdf.Structure](../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../)
 

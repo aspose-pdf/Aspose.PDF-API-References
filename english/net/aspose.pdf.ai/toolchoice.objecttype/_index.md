@@ -8,7 +8,7 @@ type: docs
 weight: 1310
 url: "/net/aspose.pdf.ai/toolchoice.objecttype/"
 keywords: "ToolChoice.ObjectType, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ToolChoice.ObjectType class
 
@@ -22,14 +22,14 @@ public class ObjectType
 
 | Name | Description |
 | --- | --- |
-| [ObjectType](./objecttype/)() | The default constructor. |
+| [ObjectType](objecttype/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Function](./function/) { get; set; } | Gets or sets the function to call. |
-| [ToolType](./tooltype/) { get; set; } | Gets or sets the type of the tool. Currently, only function is supported. |
+| [Function](../../aspose.pdf.ai/toolchoice.objecttype/function/) { get; set; } | Gets or sets the function to call. |
+| [ToolType](../../aspose.pdf.ai/toolchoice.objecttype/tooltype/) { get; set; } | Gets or sets the type of the tool. Currently, only function is supported. |
 
 ### See Also
 

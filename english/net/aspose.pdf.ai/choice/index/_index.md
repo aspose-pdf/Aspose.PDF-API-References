@@ -7,7 +7,7 @@ description: "Choice property. Gets or sets the index of the choice in the list 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/choice/index/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Choice.Index property
 

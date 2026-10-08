@@ -8,7 +8,7 @@ type: docs
 weight: 350
 url: "/net/aspose.pdf.ai/embedding/"
 keywords: "Embedding, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Embedding class
 
@@ -22,15 +22,15 @@ public class Embedding
 
 | Name | Description |
 | --- | --- |
-| [Embedding](./embedding/)() | The default constructor. |
+| [Embedding](embedding/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [EmbeddingList](./embeddinglist/) { get; set; } | Gets or sets the embedding vector, which is a list of floats. The length of vector depends on the model as listed in the embedding guide. |
-| [Index](./index/) { get; set; } | Gets or sets the index of the embedding in the list of embeddings. |
-| [Object](./object/) { get; set; } | Gets or sets the object type, which is always "embedding". |
+| [EmbeddingList](../../aspose.pdf.ai/embedding/embeddinglist/) { get; set; } | Gets or sets the embedding vector, which is a list of floats. The length of vector depends on the model as listed in the embedding guide. |
+| [Index](../../aspose.pdf.ai/embedding/index/) { get; set; } | Gets or sets the index of the embedding in the list of embeddings. |
+| [Object](../../aspose.pdf.ai/embedding/object/) { get; set; } | Gets or sets the object type, which is always "embedding". |
 
 ### See Also
 

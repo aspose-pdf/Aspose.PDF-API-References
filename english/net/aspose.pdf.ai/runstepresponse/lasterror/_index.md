@@ -7,7 +7,7 @@ description: "RunStepResponse property. Gets or sets the last error associated w
 type: docs
 weight: 110
 url: "/net/aspose.pdf.ai/runstepresponse/lasterror/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunStepResponse.LastError property
 
@@ -19,7 +19,7 @@ public LastError LastError { get; set; }
 
 ### See Also
 
-* class [LastError](../../../aspose.pdf.ai/lasterror/)
+* class [LastError](../../lasterror/)
 * class [RunStepResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

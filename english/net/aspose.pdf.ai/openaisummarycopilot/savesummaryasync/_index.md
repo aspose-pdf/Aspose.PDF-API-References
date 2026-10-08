@@ -7,7 +7,7 @@ description: "OpenAISummaryCopilot method."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/openaisummarycopilot/savesummaryasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveSummaryAsync(string, CancellationToken?) {#savesummaryasync}
 
@@ -17,15 +17,6 @@ product_version: "26.9.0"
 public Task SaveSummaryAsync(string outputFileName, CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputFileName | String |  |
-| cancellationToken | Nullable`1 |  |
-
-### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
-
 ### See Also
 
 * class [OpenAISummaryCopilot](../)
@@ -34,7 +25,7 @@ public Task SaveSummaryAsync(string outputFileName, CancellationToken? cancellat
 
 ---
 
-## SaveSummaryAsync(string, [SaveFormat](../../../aspose.pdf.lowcode/saveformat/), CancellationToken?) {#savesummaryasync_1}
+## SaveSummaryAsync(string, SaveFormat, CancellationToken?) {#savesummaryasync_1}
 
 
 
@@ -43,19 +34,9 @@ public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat,
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputFileName | String |  |
-| saveFormat | SaveFormat |  |
-| cancellationToken | Nullable`1 |  |
-
-### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
-
 ### See Also
 
-* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
+* enum [SaveFormat](../../../aspose.pdf/saveformat/)
 * class [OpenAISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

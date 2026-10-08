@@ -7,7 +7,7 @@ description: "PdfExtractor property. Set or gets resolution for extracted images
 type: docs
 weight: 310
 url: "/net/aspose.pdf.facades/pdfextractor/resolution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractor.Resolution property
 

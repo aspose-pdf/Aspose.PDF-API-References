@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Fixup enum. This enum represents an type of Fixup."
 type: docs
 weight: 910
 url: "/net/aspose.pdf/fixup/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Fixup enumeration
 

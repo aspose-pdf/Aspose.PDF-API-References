@@ -7,7 +7,7 @@ description: "TextFragmentCollection property. Gets a value indicating whether c
 type: docs
 weight: 100
 url: "/net/aspose.pdf.text/textfragmentcollection/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentCollection.IsReadOnly property
 

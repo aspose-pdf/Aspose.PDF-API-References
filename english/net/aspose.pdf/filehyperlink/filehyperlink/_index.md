@@ -7,11 +7,11 @@ description: "FileHyperlink constructor. Initializes a new instance of the FileH
 type: docs
 weight: 10
 url: "/net/aspose.pdf/filehyperlink/filehyperlink/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileHyperlink() {#constructor}
 
-Initializes a new instance of the [`FileHyperlink`](../../../aspose.pdf/filehyperlink/) class.
+Initializes a new instance of the [`FileHyperlink`](../) class.
 
 ```csharp
 public FileHyperlink()
@@ -27,7 +27,7 @@ public FileHyperlink()
 
 ## FileHyperlink(string) {#constructor_1}
 
-Initializes a new instance of the [`FileHyperlink`](../../../aspose.pdf/filehyperlink/) class.
+Initializes a new instance of the [`FileHyperlink`](../) class.
 
 ```csharp
 public FileHyperlink(string path)

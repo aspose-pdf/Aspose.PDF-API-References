@@ -7,7 +7,7 @@ description: "SetTextLeading method. Produces text code of operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/settextleading/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetTextLeading.ToString method
 

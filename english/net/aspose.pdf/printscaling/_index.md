@@ -7,7 +7,7 @@ description: "Aspose.Pdf.PrintScaling enum. The page scaling option that shall b
 type: docs
 weight: 2560
 url: "/net/aspose.pdf/printscaling/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrintScaling enumeration
 

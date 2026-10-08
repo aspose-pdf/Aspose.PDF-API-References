@@ -7,7 +7,7 @@ description: "Stamp property. Gets or sets background status. If true stamp will
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/stamp/isbackground/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.IsBackground property
 

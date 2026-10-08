@@ -7,7 +7,7 @@ description: "PdfFileSecurity method. Decrypts an encrypted Pdf document by owne
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/pdffilesecurity/trydecryptfile/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSecurity.TryDecryptFile method
 

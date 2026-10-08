@@ -7,7 +7,7 @@ description: "OperatorCollection method. Removes all operators from list."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/operatorcollection/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OperatorCollection.Clear method
 

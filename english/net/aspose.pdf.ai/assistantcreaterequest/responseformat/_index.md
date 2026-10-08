@@ -7,7 +7,7 @@ description: "AssistantCreateRequest property. Gets or sets the format that the 
 type: docs
 weight: 110
 url: "/net/aspose.pdf.ai/assistantcreaterequest/responseformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantCreateRequest.ResponseFormat property
 
@@ -27,7 +27,7 @@ public ResponseFormat ResponseFormat { get; set; }
 
 ### See Also
 
-* class [ResponseFormat](../../../aspose.pdf.ai/responseformat/)
+* class [ResponseFormat](../../responseformat/)
 * class [AssistantCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

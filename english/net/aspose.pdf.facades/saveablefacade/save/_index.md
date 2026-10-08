@@ -7,29 +7,9 @@ description: "SaveableFacade method. Saves the PDF document to the specified fil
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/saveablefacade/save/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Save(Stream) {#save}
-
-Saves the PDF document to the specified stream.
-
-```csharp
-public virtual void Save(Stream destStream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| destStream | Stream | The destination stream. |
-
-### See Also
-
-* class [SaveableFacade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Save(string) {#save_1}
+## Save(string) {#save}
 
 Saves the PDF document to the specified file.
 
@@ -40,6 +20,26 @@ public virtual void Save(string destFile)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | destFile | String | The destination file. |
+
+### See Also
+
+* class [SaveableFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(Stream) {#save_1}
+
+Saves the PDF document to the specified stream.
+
+```csharp
+public virtual void Save(Stream destStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| destStream | Stream | The destination stream. |
 
 ### See Also
 

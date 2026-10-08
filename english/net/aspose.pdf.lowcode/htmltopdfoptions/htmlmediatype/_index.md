@@ -7,7 +7,7 @@ description: "HtmlToPdfOptions property. Gets or sets possible media types used 
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/htmltopdfoptions/htmlmediatype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlToPdfOptions.HtmlMediaType property
 

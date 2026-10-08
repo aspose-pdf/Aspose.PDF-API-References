@@ -7,7 +7,7 @@ description: "ImageStamp property. Gets image stream used for stamping."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/imagestamp/image/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageStamp.Image property
 

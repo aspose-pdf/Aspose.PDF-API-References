@@ -7,7 +7,7 @@ description: "Opi constructor. The constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/opi/opi/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Opi constructor
 
@@ -23,7 +23,7 @@ public Opi(XForm xform)
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
+* class [XForm](../../xform/)
 * class [Opi](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

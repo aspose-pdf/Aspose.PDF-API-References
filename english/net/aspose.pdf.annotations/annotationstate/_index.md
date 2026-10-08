@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.AnnotationState enum. The enumeration of st
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/annotationstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AnnotationState enumeration
 

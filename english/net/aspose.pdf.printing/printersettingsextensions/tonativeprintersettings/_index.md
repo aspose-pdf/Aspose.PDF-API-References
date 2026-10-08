@@ -7,11 +7,11 @@ description: "PrinterSettingsExtensions method. Converts PrinterSettings to Wind
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/printersettingsextensions/tonativeprintersettings/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterSettingsExtensions.ToNativePrinterSettings method
 
-Converts [`PrinterSettings`](../../../aspose.pdf.printing/printersettings/) to Windows-specific System.Drawing.Printing.PrinterSettings.
+Converts [`PrinterSettings`](../../printersettings/) to Windows-specific System.Drawing.Printing.PrinterSettings.
 
 ```csharp
 public static PrinterSettings ToNativePrinterSettings(this PrinterSettings printerSettings)
@@ -27,7 +27,7 @@ Windows printer settings.
 
 ### See Also
 
-* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PrinterSettings](../../printersettings/)
 * class [PrinterSettingsExtensions](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Document property. Gets or sets the page scaling option that shall
 type: docs
 weight: 1420
 url: "/net/aspose.pdf/document/printscaling/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.PrintScaling property
 
@@ -19,7 +19,7 @@ public PrintScaling PrintScaling { get; set; }
 
 ### See Also
 
-* enum [PrintScaling](../../../aspose.pdf/printscaling/)
+* enum [PrintScaling](../../printscaling/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

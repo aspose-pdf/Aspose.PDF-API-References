@@ -7,7 +7,7 @@ description: "SetSpacingMoveToNextLineShowText property. Gets text of operator."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetSpacingMoveToNextLineShowText.Text property
 

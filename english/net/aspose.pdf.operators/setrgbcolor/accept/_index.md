@@ -7,7 +7,7 @@ description: "SetRGBColor method. Accepts visitor object to process operator."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/setrgbcolor/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetRGBColor.Accept method
 

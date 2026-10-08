@@ -7,36 +7,9 @@ description: "OpenAIChatCopilot method."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/openaichatcopilot/saveresponseasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## SaveResponseAsync(List<string>, string, CancellationToken?) {#saveresponseasync}
-
-
-
-```csharp
-public Task SaveResponseAsync(List<string> messages, string outputFileName, 
-    CancellationToken? cancellationToken = default)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| messages | List`1 |  |
-| outputFileName | String |  |
-| cancellationToken | Nullable`1 |  |
-
-### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
-
-### See Also
-
-* class [OpenAIChatCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SaveResponseAsync(string, string, CancellationToken?) {#saveresponseasync_1}
+## SaveResponseAsync(string, string, CancellationToken?) {#saveresponseasync}
 
 
 
@@ -45,16 +18,6 @@ public Task SaveResponseAsync(string message, string outputFileName,
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| message | String |  |
-| outputFileName | String |  |
-| cancellationToken | Nullable`1 |  |
-
-### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
-
 ### See Also
 
 * class [OpenAIChatCopilot](../)
@@ -63,36 +26,7 @@ public Task SaveResponseAsync(string message, string outputFileName,
 
 ---
 
-## SaveResponseAsync(List<string>, string, [SaveFormat](../../../aspose.pdf.lowcode/saveformat/), CancellationToken?) {#saveresponseasync_2}
-
-
-
-```csharp
-public Task SaveResponseAsync(List<string> messages, string outputFileName, SaveFormat saveFormat, 
-    CancellationToken? cancellationToken = default)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| messages | List`1 |  |
-| outputFileName | String |  |
-| saveFormat | SaveFormat |  |
-| cancellationToken | Nullable`1 |  |
-
-### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
-
-### See Also
-
-* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
-* class [OpenAIChatCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SaveResponseAsync(string, string, [SaveFormat](../../../aspose.pdf.lowcode/saveformat/), CancellationToken?) {#saveresponseasync_3}
+## SaveResponseAsync(string, string, SaveFormat, CancellationToken?) {#saveresponseasync_1}
 
 
 
@@ -101,20 +35,44 @@ public Task SaveResponseAsync(string message, string outputFileName, SaveFormat 
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| message | String |  |
-| outputFileName | String |  |
-| saveFormat | SaveFormat |  |
-| cancellationToken | Nullable`1 |  |
+### See Also
 
-### Return Value
+* enum [SaveFormat](../../../aspose.pdf/saveformat/)
+* class [OpenAIChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
+---
+
+## SaveResponseAsync(List&lt;string&gt;, string, CancellationToken?) {#saveresponseasync_2}
+
+
+
+```csharp
+public Task SaveResponseAsync(List<string> messages, string outputFileName, 
+    CancellationToken? cancellationToken = default)
+```
 
 ### See Also
 
-* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
+* class [OpenAIChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SaveResponseAsync(List&lt;string&gt;, string, SaveFormat, CancellationToken?) {#saveresponseasync_3}
+
+
+
+```csharp
+public Task SaveResponseAsync(List<string> messages, string outputFileName, SaveFormat saveFormat, 
+    CancellationToken? cancellationToken = default)
+```
+
+### See Also
+
+* enum [SaveFormat](../../../aspose.pdf/saveformat/)
 * class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

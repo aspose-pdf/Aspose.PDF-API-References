@@ -7,7 +7,7 @@ description: "RichTextBoxField property. Gets or sets default style string of th
 type: docs
 weight: 20
 url: "/net/aspose.pdf.forms/richtextboxfield/style/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RichTextBoxField.Style property
 

@@ -8,7 +8,7 @@ type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/assistantlistqueryparameters/"
 keywords: "AssistantListQueryParameters, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantListQueryParameters class
 
@@ -22,7 +22,7 @@ public class AssistantListQueryParameters : BaseListQueryParameters, IQueryParam
 
 | Name | Description |
 | --- | --- |
-| [AssistantListQueryParameters](./assistantlistqueryparameters/)() | The default constructor. |
+| [AssistantListQueryParameters](assistantlistqueryparameters/)() | The default constructor. |
 
 ## Properties
 
@@ -37,11 +37,12 @@ public class AssistantListQueryParameters : BaseListQueryParameters, IQueryParam
 
 | Name | Description |
 | --- | --- |
-| [GetQueryParameters](./getqueryparameters/)() | Gets the query parameters for listing assistants. |
+| [GetQueryParameters](../../aspose.pdf.ai/assistantlistqueryparameters/getqueryparameters/)() | Gets the query parameters for listing assistants. |
 
 ### See Also
 
 * class [BaseListQueryParameters](../baselistqueryparameters/)
+* interface [IQueryParameters](../iqueryparameters/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
 

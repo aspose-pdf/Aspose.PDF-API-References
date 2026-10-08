@@ -7,7 +7,7 @@ description: "ThreadMessageListQueryParameters property. Filter messages by the 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/threadmessagelistqueryparameters/runid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadMessageListQueryParameters.RunId property
 

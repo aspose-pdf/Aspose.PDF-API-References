@@ -7,7 +7,7 @@ description: "StampInfo property. Gets image of stamp. May be null if stamp does
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/stampinfo/image/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StampInfo.Image property
 
@@ -19,7 +19,6 @@ public Image Image { get; }
 
 ### See Also
 
-* class [Image](../../../aspose.pdf/image/)
 * class [StampInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

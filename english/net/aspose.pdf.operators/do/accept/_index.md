@@ -7,7 +7,7 @@ description: "Do method. Accepts visitor object to process operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/do/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Do.Accept method
 

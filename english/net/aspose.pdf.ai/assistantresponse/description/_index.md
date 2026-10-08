@@ -7,7 +7,7 @@ description: "AssistantResponse property. Gets or sets the description of the as
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/assistantresponse/description/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantResponse.Description property
 

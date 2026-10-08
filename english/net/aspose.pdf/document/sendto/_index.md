@@ -7,9 +7,9 @@ description: "Document method. Sends the whole document to the document device f
 type: docs
 weight: 310
 url: "/net/aspose.pdf/document/sendto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## SendTo([DocumentDevice](../../../aspose.pdf.devices/documentdevice/), Stream) {#sendto}
+## SendTo(DocumentDevice, Stream) {#sendto}
 
 Sends the whole document to the document device for processing.
 
@@ -31,29 +31,7 @@ public void SendTo(DocumentDevice device, Stream output)
 
 ---
 
-## SendTo([DocumentDevice](../../../aspose.pdf.devices/documentdevice/), string) {#sendto_1}
-
-Sends the whole document to the document device for processing.
-
-```csharp
-public void SendTo(DocumentDevice device, string outputFileName)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| device | DocumentDevice | Document device which is used to process the document. |
-| outputFileName | String | Output file name with the results of processing. |
-
-### See Also
-
-* class [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SendTo([DocumentDevice](../../../aspose.pdf.devices/documentdevice/), int, int, Stream) {#sendto_2}
+## SendTo(DocumentDevice, int, int, Stream) {#sendto_1}
 
 Sends the certain pages of the document to the document device for processing.
 
@@ -77,7 +55,29 @@ public void SendTo(DocumentDevice device, int fromPage, int toPage, Stream outpu
 
 ---
 
-## SendTo([DocumentDevice](../../../aspose.pdf.devices/documentdevice/), int, int, string) {#sendto_3}
+## SendTo(DocumentDevice, string) {#sendto_2}
+
+Sends the whole document to the document device for processing.
+
+```csharp
+public void SendTo(DocumentDevice device, string outputFileName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| device | DocumentDevice | Document device which is used to process the document. |
+| outputFileName | String | Output file name with the results of processing. |
+
+### See Also
+
+* class [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SendTo(DocumentDevice, int, int, string) {#sendto_3}
 
 Sends the whole document to the document device for processing.
 

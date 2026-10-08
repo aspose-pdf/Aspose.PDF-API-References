@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Set certificate file and password for sig
 type: docs
 weight: 450
 url: "/net/aspose.pdf.facades/pdffilesignature/setcertificate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.SetCertificate method
 

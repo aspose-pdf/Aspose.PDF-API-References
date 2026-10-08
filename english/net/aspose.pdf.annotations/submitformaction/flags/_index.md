@@ -7,7 +7,7 @@ description: "SubmitFormAction property. Gets or sets flagas of submit action"
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/submitformaction/flags/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SubmitFormAction.Flags property
 

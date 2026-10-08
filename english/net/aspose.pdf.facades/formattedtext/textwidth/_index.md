@@ -7,7 +7,7 @@ description: "FormattedText property. Gets width of text."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/formattedtext/textwidth/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormattedText.TextWidth property
 

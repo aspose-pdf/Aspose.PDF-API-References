@@ -7,7 +7,7 @@ description: "PdfFileEditor property. If true then logical structure of the file
 type: docs
 weight: 1050
 url: "/net/aspose.pdf.facades/pdffileeditor/copylogicalstructure/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.CopyLogicalStructure property
 

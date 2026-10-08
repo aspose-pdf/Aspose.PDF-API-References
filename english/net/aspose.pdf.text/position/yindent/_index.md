@@ -7,7 +7,7 @@ description: "Position property. Gets the Y coordinate of the object"
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/position/yindent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Position.YIndent property
 

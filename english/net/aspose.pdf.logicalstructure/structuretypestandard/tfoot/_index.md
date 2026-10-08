@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Table footer row group; PDF 1.5) A g
 type: docs
 weight: 320
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/tfoot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.TFoot field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard TFoot;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

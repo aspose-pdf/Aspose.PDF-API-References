@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Multithreading.IInterruptMonitor interface. Represents 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.multithreading/iinterruptmonitor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IInterruptMonitor interface
 
@@ -21,13 +21,13 @@ public interface IInterruptMonitor : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [CancellationToken](./cancellationtoken/) { get; } | Monitor's cancellation token used for process interruption. By default each IInterruptMonitor generates its own cancellationSource |
+| [CancellationToken](../../aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/) { get; } | Monitor's cancellation token used for process interruption. By default each IInterruptMonitor generates its own cancellationSource |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Interrupt](./interrupt/)() | Sends a request to interrupt operations. |
+| [Interrupt](../../aspose.pdf.multithreading/iinterruptmonitor/interrupt/)() | Sends a request to interrupt operations. |
 
 ### See Also
 

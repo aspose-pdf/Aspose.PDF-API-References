@@ -7,7 +7,7 @@ description: "TeXFileSystemOutputDirectory method. Returns the stream to write t
 type: docs
 weight: 20
 url: "/net/aspose.pdf/texfilesystemoutputdirectory/getoutputfile/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXFileSystemOutputDirectory.GetOutputFile method
 

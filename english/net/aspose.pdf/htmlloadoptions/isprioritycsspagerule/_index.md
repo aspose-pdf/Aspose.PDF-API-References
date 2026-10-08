@@ -7,7 +7,7 @@ description: "HtmlLoadOptions property. Gets or sets the flag that specifies tha
 type: docs
 weight: 90
 url: "/net/aspose.pdf/htmlloadoptions/isprioritycsspagerule/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlLoadOptions.IsPriorityCssPageRule property
 

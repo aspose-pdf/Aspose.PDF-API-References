@@ -7,7 +7,7 @@ description: "GraphicElementCollection constructor. Initializes the new collecti
 type: docs
 weight: 10
 url: "/net/aspose.pdf.vector/graphicelementcollection/graphicelementcollection/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicElementCollection constructor
 

@@ -7,7 +7,7 @@ description: "OutlineItemCollection property. Check if outline item representing
 type: docs
 weight: 220
 url: "/net/aspose.pdf/outlineitemcollection/hasnext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.HasNext property
 

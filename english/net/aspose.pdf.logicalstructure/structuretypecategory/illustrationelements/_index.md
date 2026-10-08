@@ -7,7 +7,7 @@ description: "StructureTypeCategory field. Illustration elements are compact seq
 type: docs
 weight: 60
 url: "/net/aspose.pdf.logicalstructure/structuretypecategory/illustrationelements/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeCategory.IllustrationElements field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeCategory IllustrationElements;
 
 ### See Also
 
-* class [StructureTypeCategory](../../../aspose.pdf.logicalstructure/structuretypecategory/)
+* class [StructureTypeCategory](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

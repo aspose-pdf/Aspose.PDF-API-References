@@ -7,7 +7,7 @@ description: "Heading property. Gets or sets style."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/heading/style/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Heading.Style property
 
@@ -19,7 +19,7 @@ public NumberingStyle Style { get; set; }
 
 ### See Also
 
-* enum [NumberingStyle](../../../aspose.pdf/numberingstyle/)
+* enum [NumberingStyle](../../numberingstyle/)
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

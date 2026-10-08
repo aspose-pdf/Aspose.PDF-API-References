@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Comparison.Operation enum. Represents a difference oper
 type: docs
 weight: 150
 url: "/net/aspose.pdf.comparison/operation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Operation enumeration
 

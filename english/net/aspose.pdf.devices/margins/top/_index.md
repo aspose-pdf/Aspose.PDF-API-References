@@ -7,7 +7,7 @@ description: "Margins property. Gets or sets the top."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.devices/margins/top/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Margins.Top property
 

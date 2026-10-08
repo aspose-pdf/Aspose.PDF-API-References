@@ -7,7 +7,7 @@ description: "FormEditor method. Sets URL of the button."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/formeditor/setsubmiturl/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.SetSubmitUrl method
 

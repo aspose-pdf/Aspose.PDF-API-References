@@ -7,7 +7,7 @@ description: "TableElement property. Gets or sets the table background color."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.logicalstructure/tableelement/backgroundcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableElement.BackgroundColor property
 

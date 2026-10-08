@@ -7,7 +7,7 @@ description: "OpenAIClient method. Retrieves a list of steps for a specific run 
 type: docs
 weight: 220
 url: "/net/aspose.pdf.ai/openaiclient/getrunstepsasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIClient.GetRunStepsAsync method
 
@@ -34,12 +34,13 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread Id is null or empty. |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the run Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the thread Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the run Id is null or empty. |
 
 ### See Also
 
-* class [RunStepListQueryParameters](../../../aspose.pdf.ai/runsteplistqueryparameters/)
+* class [RunStepListResponse](../../runsteplistresponse/)
+* class [RunStepListQueryParameters](../../runsteplistqueryparameters/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

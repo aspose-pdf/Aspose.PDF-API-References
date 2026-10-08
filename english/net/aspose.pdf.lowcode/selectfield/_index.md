@@ -7,7 +7,7 @@ description: ""
 type: docs
 weight: 830
 url: "/net/aspose.pdf.lowcode/selectfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SelectField delegate
 
@@ -17,16 +17,9 @@ product_version: "26.9.0"
 public delegate bool SelectField(Field field);
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| field | Field |  |
-
-### Return Value
-
-bool
-
 ### See Also
 
+* class [Field](../../aspose.pdf.forms/field/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

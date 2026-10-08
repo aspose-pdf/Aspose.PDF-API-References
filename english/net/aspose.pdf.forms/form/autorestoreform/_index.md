@@ -7,7 +7,7 @@ description: "Form property. If set, absent form fields will be automatically cr
 type: docs
 weight: 240
 url: "/net/aspose.pdf.forms/form/autorestoreform/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.AutoRestoreForm property
 

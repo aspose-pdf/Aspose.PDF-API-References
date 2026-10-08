@@ -7,7 +7,7 @@ description: "HorizontalAlignment property. Gets or sets the left alignment sett
 type: docs
 weight: 20
 url: "/net/aspose.pdf/headerfootersettings.horizontalalignment/left/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HeaderFooterSettings.HorizontalAlignment.Left property
 
@@ -19,8 +19,8 @@ public Left Left { get; set; }
 
 ### See Also
 
-* class [Left](../../../aspose.pdf/left/)
-* class [HeaderFooterSettings.HorizontalAlignment](../)
+* class [Left](../../left/)
+* class [HorizontalAlignment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

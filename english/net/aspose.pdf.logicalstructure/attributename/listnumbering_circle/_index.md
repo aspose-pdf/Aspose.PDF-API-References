@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute ListNumbering: Circle - Open circul
 type: docs
 weight: 540
 url: "/net/aspose.pdf.logicalstructure/attributename/listnumbering_circle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.ListNumbering_Circle field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName ListNumbering_Circle;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

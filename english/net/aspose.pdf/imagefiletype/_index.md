@@ -7,7 +7,7 @@ description: "Aspose.Pdf.ImageFileType enum. Enumerates the image file types."
 type: docs
 weight: 1500
 url: "/net/aspose.pdf/imagefiletype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageFileType enumeration
 

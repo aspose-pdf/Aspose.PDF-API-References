@@ -7,11 +7,11 @@ description: "Paragraphs method. Clones a new Clone object."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/paragraphs/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Paragraphs.Clone method
 
-Clones a new `Clone` object.
+Clones a new [`Clone`](../clone/) object.
 
 ```csharp
 public object Clone()
@@ -19,7 +19,7 @@ public object Clone()
 
 ### Return Value
 
-The new `Clone` object.
+The new [`Clone`](../clone/) object.
 
 ### See Also
 

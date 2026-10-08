@@ -7,11 +7,11 @@ description: "XslFoLoadOptions constructor. Creates XslFoLoadOptions object with
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xslfoloadoptions/xslfoloadoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XslFoLoadOptions() {#constructor}
 
-Creates [`XslFoLoadOptions`](../../../aspose.pdf/xslfoloadoptions/) object without xsl data.
+Creates [`XslFoLoadOptions`](../) object without xsl data.
 
 ```csharp
 public XslFoLoadOptions()
@@ -25,17 +25,17 @@ public XslFoLoadOptions()
 
 ---
 
-## XslFoLoadOptions(Stream) {#constructor_1}
+## XslFoLoadOptions(string) {#constructor_1}
 
-Creates [`XslFoLoadOptions`](../../../aspose.pdf/xslfoloadoptions/) object with xsl data.
+Creates [`XslFoLoadOptions`](../) object with xsl data.
 
 ```csharp
-public XslFoLoadOptions(Stream xslStream)
+public XslFoLoadOptions(string xslFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xslStream | Stream | Xsl stream to convert XSL-FO document into pdf document. |
+| xslFile | String | Xsl file to convert XSL-FO document into pdf document. |
 
 ### See Also
 
@@ -45,17 +45,17 @@ public XslFoLoadOptions(Stream xslStream)
 
 ---
 
-## XslFoLoadOptions(string) {#constructor_2}
+## XslFoLoadOptions(Stream) {#constructor_2}
 
-Creates [`XslFoLoadOptions`](../../../aspose.pdf/xslfoloadoptions/) object with xsl data.
+Creates [`XslFoLoadOptions`](../) object with xsl data.
 
 ```csharp
-public XslFoLoadOptions(string xslFile)
+public XslFoLoadOptions(Stream xslStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xslFile | String | Xsl file to convert XSL-FO document into pdf document. |
+| xslStream | Stream | Xsl stream to convert XSL-FO document into pdf document. |
 
 ### See Also
 

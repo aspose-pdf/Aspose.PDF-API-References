@@ -7,7 +7,7 @@ description: "XImage method. Returns true if both images references to the same 
 type: docs
 weight: 100
 url: "/net/aspose.pdf/ximage/isthesameobject/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImage.IsTheSameObject method
 
@@ -27,7 +27,7 @@ Boolean value which is true if images references to the same object.
 
 ### See Also
 
-* class [XImage](../../../aspose.pdf/ximage/)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

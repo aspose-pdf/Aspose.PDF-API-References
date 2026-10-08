@@ -7,7 +7,7 @@ description: "TextSegment method. Encodes string as html."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/textsegment/myhtmlencode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSegment.MyHtmlEncode method
 

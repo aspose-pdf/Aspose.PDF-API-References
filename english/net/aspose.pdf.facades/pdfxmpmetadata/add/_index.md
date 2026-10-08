@@ -7,29 +7,9 @@ description: "PdfXmpMetadata method. Adds value to XMP metadata."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Add(KeyValuePair<string, XmpValue>) {#add}
-
-Adds pair with key and value into the dictionary.
-
-```csharp
-public void Add(KeyValuePair<string, XmpValue> item)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | KeyValuePair`2 | Item to be added. |
-
-### See Also
-
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Add([DefaultMetadataProperties](../../../aspose.pdf.facades/defaultmetadataproperties/), [XmpValue](../../../aspose.pdf/xmpvalue/)) {#add_1}
+## Add(DefaultMetadataProperties, XmpValue) {#add}
 
 Adds value to XMP metadata.
 
@@ -53,7 +33,7 @@ xmp.Save(TestSettings.GetOutputFile("XMP_AddedValue.pdf"));
 
 ### See Also
 
-* enum [DefaultMetadataProperties](../../../aspose.pdf.facades/defaultmetadataproperties/)
+* enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -61,28 +41,32 @@ xmp.Save(TestSettings.GetOutputFile("XMP_AddedValue.pdf"));
 
 ---
 
-## Add(string, object) {#add_2}
+## Add(XmpPdfAExtensionObject, string, string, string) {#add_1}
 
-Adds new element to the dictionary object.
+Adds extension field into metadata.
 
 ```csharp
-public void Add(string key, object value)
+public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespacePrefix, 
+    string namespaceUri, string schemaDescription)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | Key of new element. |
-| value | Object | Value of the element. |
+| xmpPdfAExtensionObject | XmpPdfAExtensionObject | The pdf extension object to add. |
+| namespacePrefix | String | The prefix of schema. |
+| namespaceUri | String | The namespace uri of schema. |
+| schemaDescription | String | The optional description of schema. |
 
 ### See Also
 
+* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(string, [XmpValue](../../../aspose.pdf/xmpvalue/)) {#add_3}
+## Add(string, XmpValue) {#add_2}
 
 Adds new element to the dictionary object.
 
@@ -112,25 +96,42 @@ xmp.Add("xmp:Nickname", "Nickname1");
 
 ---
 
-## Add([XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/), string, string, string) {#add_4}
+## Add(string, object) {#add_3}
 
-Adds extension field into metadata.
+Adds new element to the dictionary object.
 
 ```csharp
-public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespacePrefix, 
-    string namespaceUri, string schemaDescription)
+public void Add(string key, object value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xmpPdfAExtensionObject | XmpPdfAExtensionObject | The pdf extension object to add. |
-| namespacePrefix | String | The prefix of schema. |
-| namespaceUri | String | The namespace uri of schema. |
-| schemaDescription | String | The optional description of schema. |
+| key | String | Key of new element. |
+| value | Object | Value of the element. |
 
 ### See Also
 
-* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add_4}
+
+Adds pair with key and value into the dictionary.
+
+```csharp
+public void Add(KeyValuePair<string, XmpValue> item)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| item | KeyValuePair`2 | Item to be added. |
+
+### See Also
+
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

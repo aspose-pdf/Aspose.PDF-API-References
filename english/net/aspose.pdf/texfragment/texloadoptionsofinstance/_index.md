@@ -7,7 +7,7 @@ description: "TeXFragment property. Gets or sets TeXLoadOptions that will be use
 type: docs
 weight: 40
 url: "/net/aspose.pdf/texfragment/texloadoptionsofinstance/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXFragment.TeXLoadOptionsOfInstance property
 
@@ -22,7 +22,7 @@ public TeXLoadOptions TeXLoadOptionsOfInstance { get; set; }
 
 ### See Also
 
-* class [TeXLoadOptions](../../../aspose.pdf/texloadoptions/)
+* class [TeXLoadOptions](../../texloadoptions/)
 * class [TeXFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "PsLoadOptions property. Gets or sets fonts folders paths."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/psloadoptions/fontsfolders/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PsLoadOptions.FontsFolders property
 

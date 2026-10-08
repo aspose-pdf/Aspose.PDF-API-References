@@ -7,7 +7,7 @@ description: "UnderlineAnnotation constructor. Creates new Underline annotation 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/underlineannotation/underlineannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnderlineAnnotation constructor
 
@@ -25,7 +25,7 @@ public UnderlineAnnotation(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [UnderlineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

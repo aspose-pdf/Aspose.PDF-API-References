@@ -7,7 +7,7 @@ description: "ImageCompressionOptions property. If this flag set to true and Com
 type: docs
 weight: 30
 url: "/net/aspose.pdf.optimization/imagecompressionoptions/resizeimages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageCompressionOptions.ResizeImages property
 

@@ -7,7 +7,7 @@ description: "LlamaChatCompletionRequest property. Sets or gets how many chat co
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/llamachatcompletionrequest/numberofchoices/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaChatCompletionRequest.NumberOfChoices property
 

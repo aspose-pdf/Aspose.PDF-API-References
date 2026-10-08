@@ -7,17 +7,19 @@ description: "TextFragment property. Gets form object that contains the TextFrag
 type: docs
 weight: 190
 url: "/net/aspose.pdf.text/textfragment/form/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragment.Form property
 
 Gets form object that contains the TextFragment
 
-The value can be null in case the TextFragment object doesn't belong to a form.
-
 ```csharp
 public XForm Form { get; }
 ```
+
+## Remarks
+
+The value can be null in case the TextFragment object doesn't belong to a form.
 
 ### See Also
 

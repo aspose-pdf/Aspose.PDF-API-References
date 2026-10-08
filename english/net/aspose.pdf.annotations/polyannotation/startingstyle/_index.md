@@ -7,7 +7,7 @@ description: "PolyAnnotation property. Gets or sets the style of first line endi
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/polyannotation/startingstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PolyAnnotation.StartingStyle property
 
@@ -19,7 +19,7 @@ public LineEnding StartingStyle { get; set; }
 
 ### See Also
 
-* enum [LineEnding](../../../aspose.pdf.annotations/lineending/)
+* enum [LineEnding](../../lineending/)
 * class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

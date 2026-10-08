@@ -7,7 +7,7 @@ description: "ArtifactCollection property. Gets synchronization object of the co
 type: docs
 weight: 100
 url: "/net/aspose.pdf/artifactcollection/syncroot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ArtifactCollection.SyncRoot property
 

@@ -7,7 +7,7 @@ description: "Re property. X coordinate of most left side of rectangle."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/re/x/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Re.X property
 

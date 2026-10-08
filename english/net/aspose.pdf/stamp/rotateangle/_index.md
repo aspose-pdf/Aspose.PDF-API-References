@@ -7,7 +7,7 @@ description: "Stamp property. Gets or sets rotate angle of stamp in degrees. Thi
 type: docs
 weight: 220
 url: "/net/aspose.pdf/stamp/rotateangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.RotateAngle property
 

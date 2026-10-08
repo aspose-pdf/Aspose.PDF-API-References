@@ -7,7 +7,7 @@ description: "ActionCollection method. Copies actions array into collection."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/actioncollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ActionCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public void CopyTo(PdfAction[] array, int index)
 
 ### See Also
 
-* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [PdfAction](../../pdfaction/)
 * class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

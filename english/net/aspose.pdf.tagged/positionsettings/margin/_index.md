@@ -7,7 +7,7 @@ description: "PositionSettings property. Gets or sets a outer margin for paragra
 type: docs
 weight: 30
 url: "/net/aspose.pdf.tagged/positionsettings/margin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PositionSettings.Margin property
 

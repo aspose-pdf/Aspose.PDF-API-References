@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute BlockAlign: After - After edge of t
 type: docs
 weight: 310
 url: "/net/aspose.pdf.logicalstructure/attributename/blockalign_after/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.BlockAlign_After field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName BlockAlign_After;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

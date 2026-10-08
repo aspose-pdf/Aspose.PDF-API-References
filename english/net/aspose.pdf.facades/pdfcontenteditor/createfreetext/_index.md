@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Creates free text annotation in PDF docum
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createfreetext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreateFreeText method
 
@@ -34,7 +34,6 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

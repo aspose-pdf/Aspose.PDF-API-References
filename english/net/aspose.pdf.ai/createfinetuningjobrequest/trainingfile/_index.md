@@ -7,7 +7,7 @@ description: "CreateFineTuningJobRequest property. Gets or sets the ID of an upl
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/createfinetuningjobrequest/trainingfile/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateFineTuningJobRequest.TrainingFile property
 

@@ -7,7 +7,7 @@ description: "AssistantListQueryParameters method. Gets the query parameters for
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/assistantlistqueryparameters/getqueryparameters/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantListQueryParameters.GetQueryParameters method
 

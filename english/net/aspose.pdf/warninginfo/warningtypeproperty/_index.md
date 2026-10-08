@@ -7,7 +7,7 @@ description: "WarningInfo property. Returns warning type."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/warninginfo/warningtypeproperty/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WarningInfo.WarningTypeProperty property
 
@@ -23,7 +23,7 @@ the warning type
 
 ### See Also
 
-* enum [WarningType](../../../aspose.pdf/warningtype/)
+* enum [WarningType](../../warningtype/)
 * class [WarningInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "ContentsResizeParameters property. Gets or sets left margin on the
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/leftmargin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeParameters.LeftMargin property
 
@@ -19,7 +19,8 @@ public ContentsResizeValue LeftMargin { get; set; }
 
 ### See Also
 
-* class [PdfFileEditor.ContentsResizeParameters](../)
+* class [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
+* class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

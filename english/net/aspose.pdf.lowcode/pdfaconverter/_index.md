@@ -8,7 +8,7 @@ type: docs
 weight: 590
 url: "/net/aspose.pdf.lowcode/pdfaconverter/"
 keywords: "PdfAConverter, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAConverter class
 
@@ -75,16 +75,17 @@ plugin.Process(options);
 
 | Name | Description |
 | --- | --- |
-| [PdfAConverter](./pdfaconverter/)() | The default constructor. |
+| [PdfAConverter](pdfaconverter/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(IPluginOptions) | Begins a PDF/A conversion or validation process with given options. |
+| [Process](../../aspose.pdf.lowcode/pdfaconverter/process/)(IPluginOptions) | Begins a PDF/A conversion or validation process with given options. |
 
 ### See Also
 
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

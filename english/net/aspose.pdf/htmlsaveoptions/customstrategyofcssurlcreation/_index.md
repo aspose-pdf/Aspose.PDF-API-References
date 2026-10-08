@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. This field can contain custom method that r
 type: docs
 weight: 390
 url: "/net/aspose.pdf/htmlsaveoptions/customstrategyofcssurlcreation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.CustomStrategyOfCssUrlCreation field
 
@@ -30,6 +30,7 @@ public CssUrlMakingStrategy CustomStrategyOfCssUrlCreation;
 
 ### See Also
 
+* delegate [CssUrlMakingStrategy](../../htmlsaveoptions.cssurlmakingstrategy/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

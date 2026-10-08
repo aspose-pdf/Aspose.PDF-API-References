@@ -7,7 +7,7 @@ description: "OutputIntents method. Returns an enumerator that iterates through 
 type: docs
 weight: 50
 url: "/net/aspose.pdf/outputintents/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputIntents.GetEnumerator method
 
@@ -23,6 +23,7 @@ An enumerator that can be used to iterate through the collection.
 
 ### See Also
 
+* class [OutputIntent](../../outputintent/)
 * class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

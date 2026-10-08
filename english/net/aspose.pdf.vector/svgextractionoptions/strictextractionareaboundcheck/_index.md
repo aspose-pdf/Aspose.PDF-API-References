@@ -7,12 +7,12 @@ description: "SvgExtractionOptions property. Gets and sets an option to define s
 type: docs
 weight: 60
 url: "/net/aspose.pdf.vector/svgextractionoptions/strictextractionareaboundcheck/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SvgExtractionOptions.StrictExtractionAreaBoundCheck property
 
-Gets and sets an option to define strictly checks whether subpaths are within the specified rectangle in `ExtractionAreaBound`.
- If set to false, then subpaths that are not completely included in `ExtractionAreaBound` will be extracted.
+Gets and sets an option to define strictly checks whether subpaths are within the specified rectangle in [`ExtractionAreaBound`](../extractionareabound/).
+ If set to false, then subpaths that are not completely included in [`ExtractionAreaBound`](../extractionareabound/) will be extracted.
  The default value is `True`.
 
 ```csharp

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Facades.ImageMergeMode enum. Represents modes for mergi
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/imagemergemode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageMergeMode enumeration
 

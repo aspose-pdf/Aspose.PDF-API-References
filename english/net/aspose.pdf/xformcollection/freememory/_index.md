@@ -7,7 +7,7 @@ description: "XFormCollection method. Clears cached data, frees memory etc."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/xformcollection/freememory/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFormCollection.FreeMemory method
 

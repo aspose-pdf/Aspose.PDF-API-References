@@ -7,7 +7,7 @@ description: "SetCharacterSpacing property. Gets or sets the character spacing."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setcharacterspacing/charspacing/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCharacterSpacing.CharSpacing property
 

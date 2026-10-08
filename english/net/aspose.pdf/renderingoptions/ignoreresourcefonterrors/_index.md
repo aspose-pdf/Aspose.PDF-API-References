@@ -7,7 +7,7 @@ description: "RenderingOptions property. Gets or sets indication that errors rel
 type: docs
 weight: 130
 url: "/net/aspose.pdf/renderingoptions/ignoreresourcefonterrors/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenderingOptions.IgnoreResourceFontErrors property
 

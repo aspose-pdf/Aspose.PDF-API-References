@@ -7,7 +7,7 @@ description: "Rectangle method. Returncs coordinates of center of the rectangle.
 type: docs
 weight: 150
 url: "/net/aspose.pdf/rectangle/center/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.Center method
 
@@ -23,7 +23,7 @@ Point which is center of the rectangle.
 
 ### See Also
 
-* class [Point](../../../aspose.pdf/point/)
+* class [Point](../../point/)
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

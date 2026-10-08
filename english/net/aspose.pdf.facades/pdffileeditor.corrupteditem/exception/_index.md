@@ -7,7 +7,7 @@ description: "CorruptedItem property. Exception thrown for this file which indic
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/pdffileeditor.corrupteditem/exception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.CorruptedItem.Exception property
 
@@ -19,7 +19,7 @@ public Exception Exception { get; }
 
 ### See Also
 
-* class [PdfFileEditor.CorruptedItem](../)
+* class [CorruptedItem](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

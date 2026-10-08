@@ -7,7 +7,7 @@ description: "Curve property. Gets or sets a float position array."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.drawing/curve/positionarray/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Curve.PositionArray property
 

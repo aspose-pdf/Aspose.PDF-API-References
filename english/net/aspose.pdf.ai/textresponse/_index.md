@@ -8,7 +8,7 @@ type: docs
 weight: 1190
 url: "/net/aspose.pdf.ai/textresponse/"
 keywords: "TextResponse, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextResponse class
 
@@ -22,14 +22,14 @@ public class TextResponse
 
 | Name | Description |
 | --- | --- |
-| [TextResponse](./textresponse/)() | The default constructor. |
+| [TextResponse](textresponse/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Annotations](./annotations/) { get; set; } | Gets or sets a list of annotations for the message. |
-| [Value](./value/) { get; set; } | Gets or sets the text of the message. |
+| [Annotations](../../aspose.pdf.ai/textresponse/annotations/) { get; set; } | Gets or sets a list of annotations for the message. |
+| [Value](../../aspose.pdf.ai/textresponse/value/) { get; set; } | Gets or sets the text of the message. |
 
 ### See Also
 

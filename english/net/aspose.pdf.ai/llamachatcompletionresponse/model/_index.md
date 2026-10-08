@@ -7,7 +7,7 @@ description: "LlamaChatCompletionResponse property. Gets or sets the model used 
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/llamachatcompletionresponse/model/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaChatCompletionResponse.Model property
 

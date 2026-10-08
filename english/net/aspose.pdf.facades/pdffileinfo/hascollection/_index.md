@@ -7,7 +7,7 @@ description: "PdfFileInfo property. Returns true if the current input file is a 
 type: docs
 weight: 310
 url: "/net/aspose.pdf.facades/pdffileinfo/hascollection/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.HasCollection property
 

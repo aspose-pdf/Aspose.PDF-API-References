@@ -7,7 +7,7 @@ description: "You can assign to this property custom strategy that implements pr
 type: docs
 weight: 1210
 url: "/net/aspose.pdf/htmlsaveoptions.csssavingstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.CssSavingStrategy delegate
 
@@ -26,6 +26,7 @@ public delegate void CssSavingStrategy(CssSavingInfo partSavingInfo);
 
 ### See Also
 
+* class [CssSavingInfo](../htmlsaveoptions.csssavinginfo/)
 * class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)

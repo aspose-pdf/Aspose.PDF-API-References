@@ -7,7 +7,7 @@ description: "BasicSetColorOperator property. Gets red component of color"
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/basicsetcoloroperator/r/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BasicSetColorOperator.R property
 

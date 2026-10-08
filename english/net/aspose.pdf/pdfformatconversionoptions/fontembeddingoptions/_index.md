@@ -7,7 +7,7 @@ description: "PdfFormatConversionOptions property. Options for cases when it's n
 type: docs
 weight: 220
 url: "/net/aspose.pdf/pdfformatconversionoptions/fontembeddingoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.FontEmbeddingOptions property
 
@@ -19,7 +19,7 @@ public FontEmbeddingOptions FontEmbeddingOptions { get; }
 
 ### See Also
 
-* class [FontEmbeddingOptions](../../../aspose.pdf/fontembeddingoptions/)
+* class [FontEmbeddingOptions](../../fontembeddingoptions/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

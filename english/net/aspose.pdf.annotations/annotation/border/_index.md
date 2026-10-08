@@ -7,11 +7,11 @@ description: "Annotation property. Gets or sets annotation border characteristic
 type: docs
 weight: 170
 url: "/net/aspose.pdf.annotations/annotation/border/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.Border property
 
-Gets or sets annotation border characteristics. `Border`
+Gets or sets annotation border characteristics. [`Border`](../border/)
 
 ```csharp
 public Border Border { get; set; }
@@ -19,7 +19,7 @@ public Border Border { get; set; }
 
 ### See Also
 
-* class [Border](../../../aspose.pdf.annotations/border/)
+* class [Border](../../border/)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

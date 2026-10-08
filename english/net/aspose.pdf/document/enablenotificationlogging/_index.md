@@ -7,7 +7,7 @@ description: "Document property. Gets or sets a value indicating whether to enab
 type: docs
 weight: 1620
 url: "/net/aspose.pdf/document/enablenotificationlogging/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.EnableNotificationLogging property
 

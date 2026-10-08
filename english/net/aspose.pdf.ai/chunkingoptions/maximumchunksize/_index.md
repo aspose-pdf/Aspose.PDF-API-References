@@ -7,7 +7,7 @@ description: "ChunkingOptions field. The maximum allowed chunk size."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/chunkingoptions/maximumchunksize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChunkingOptions.MaximumChunkSize field
 

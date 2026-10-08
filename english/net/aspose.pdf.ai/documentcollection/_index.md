@@ -8,7 +8,7 @@ type: docs
 weight: 330
 url: "/net/aspose.pdf.ai/documentcollection/"
 keywords: "DocumentCollection, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentCollection class
 
@@ -22,15 +22,15 @@ public class DocumentCollection
 
 | Name | Description |
 | --- | --- |
-| [DocumentCollection](./documentcollection/)() | The default constructor. |
+| [DocumentCollection](documentcollection/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DocumentPaths](./documentpaths/) { get; set; } | Gets or sets the collection of document paths to be processed. |
-| [PdfDocuments](./pdfdocuments/) { get; set; } | Gets or sets the collection of PDF documents to be processed. |
-| [TextDocuments](./textdocuments/) { get; set; } | Gets or sets the collection of text documents to be processed. |
+| [DocumentPaths](../../aspose.pdf.ai/documentcollection/documentpaths/) { get; set; } | Gets or sets the collection of document paths to be processed. |
+| [PdfDocuments](../../aspose.pdf.ai/documentcollection/pdfdocuments/) { get; set; } | Gets or sets the collection of PDF documents to be processed. |
+| [TextDocuments](../../aspose.pdf.ai/documentcollection/textdocuments/) { get; set; } | Gets or sets the collection of text documents to be processed. |
 
 ### See Also
 

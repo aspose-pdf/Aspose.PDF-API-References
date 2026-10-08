@@ -8,7 +8,7 @@ type: docs
 weight: 110
 url: "/net/aspose.pdf.text/folderfontsource/"
 keywords: "FolderFontSource, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FolderFontSource class
 
@@ -22,19 +22,19 @@ public sealed class FolderFontSource : FontSource
 
 | Name | Description |
 | --- | --- |
-| [FolderFontSource](./folderfontsource/)(string) | Initializes a new instance of [`FolderFontSource`](../../aspose.pdf.text/folderfontsource/) class. |
+| [FolderFontSource](folderfontsource/)(string) | Initializes a new instance of `FolderFontSource` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FolderPath](./folderpath/) { get; set; } | Path to the folder that contains font files. |
+| [FolderPath](../../aspose.pdf.text/folderfontsource/folderpath/) { get; set; } | Path to the folder that contains font files. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](./equals/)(object) | Check if folder font source objects are equal. |
+| override [Equals](../../aspose.pdf.text/folderfontsource/equals/)(object) | Check if folder font source objects are equal. |
 
 ### See Also
 

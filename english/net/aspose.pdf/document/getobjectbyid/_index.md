@@ -7,7 +7,7 @@ description: "Document method. Gets a object with specified ID in the document."
 type: docs
 weight: 860
 url: "/net/aspose.pdf/document/getobjectbyid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.GetObjectById method
 

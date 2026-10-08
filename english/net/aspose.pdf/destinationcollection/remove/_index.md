@@ -7,7 +7,7 @@ description: "DestinationCollection method. Removes the specified item. Collecti
 type: docs
 weight: 90
 url: "/net/aspose.pdf/destinationcollection/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DestinationCollection.Remove method
 
@@ -21,10 +21,6 @@ public bool Remove(KeyValuePair<string, object> item)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | item | KeyValuePair`2 | The item. |
-
-### Return Value
-
-bool
 
 ### Exceptions
 

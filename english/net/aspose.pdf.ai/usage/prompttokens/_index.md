@@ -7,7 +7,7 @@ description: "Usage property. Gets or sets number of tokens in the prompt."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/usage/prompttokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Usage.PromptTokens property
 

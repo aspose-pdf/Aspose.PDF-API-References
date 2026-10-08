@@ -7,7 +7,7 @@ description: "DocumentInfo method. Removes the element with the specified key fr
 type: docs
 weight: 40
 url: "/net/aspose.pdf/documentinfo/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentInfo.Remove method
 

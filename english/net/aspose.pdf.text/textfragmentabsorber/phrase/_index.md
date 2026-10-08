@@ -7,11 +7,11 @@ description: "TextFragmentAbsorber property. Gets or sets phrase that the TextFr
 type: docs
 weight: 230
 url: "/net/aspose.pdf.text/textfragmentabsorber/phrase/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentAbsorber.Phrase property
 
-Gets or sets phrase that the [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) searches on the PDF document or page.
+Gets or sets phrase that the [`TextFragmentAbsorber`](../) searches on the PDF document or page.
 
 ```csharp
 public string Phrase { get; set; }

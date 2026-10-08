@@ -1,5 +1,5 @@
 ---
-title: "LlamaClient.Builder.LlamaClient.Builder"
+title: "LlamaClient.Builder.Builder"
 linktitle: "LlamaClient.Builder"
 articleTitle: "LlamaClient.Builder"
 second_title: "Aspose.PDF for .NET API Reference"
@@ -7,11 +7,11 @@ description: "Builder constructor. Initializes a new instance of the Builder cla
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/llamaclient.builder/builder/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Builder constructor
 
-Initializes a new instance of the `Builder` class with the API key.
+Initializes a new instance of the [`Builder`](../../llamaclient.builder/) class with the API key.
 
 ```csharp
 public Builder(string apiKey)
@@ -23,7 +23,7 @@ public Builder(string apiKey)
 
 ### See Also
 
-* class [LlamaClient.Builder](../)
+* class [Builder](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

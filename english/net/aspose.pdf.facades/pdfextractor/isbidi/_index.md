@@ -7,7 +7,7 @@ description: "PdfExtractor property. Is true when text has hebriew or arabic sym
 type: docs
 weight: 300
 url: "/net/aspose.pdf.facades/pdfextractor/isbidi/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractor.IsBidi property
 

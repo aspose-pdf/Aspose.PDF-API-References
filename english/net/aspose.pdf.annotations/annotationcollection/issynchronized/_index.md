@@ -7,7 +7,7 @@ description: "AnnotationCollection property. Gets a value indicating whether acc
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/annotationcollection/issynchronized/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AnnotationCollection.IsSynchronized property
 

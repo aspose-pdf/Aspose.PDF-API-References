@@ -8,7 +8,7 @@ type: docs
 weight: 1300
 url: "/net/aspose.pdf.ai/toolchoice/"
 keywords: "ToolChoice, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ToolChoice class
 
@@ -22,16 +22,16 @@ public class ToolChoice : IStringOrObject<ObjectType>
 
 | Name | Description |
 | --- | --- |
-| [ToolChoice](./toolchoice/)() | The default constructor. |
+| [ToolChoice](toolchoice/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [IsObjectValue](./isobjectvalue/) { get; } | Gets a value indicating whether the ToolChoice is an object value. |
-| [IsStringValue](./isstringvalue/) { get; } | Gets a value indicating whether the ToolChoice is a string value. |
-| [ObjectValue](./objectvalue/) { get; set; } | Gets or sets the object value of the ToolChoice. |
-| [StringValue](./stringvalue/) { get; set; } | Gets or sets the string value of the ToolChoice. |
+| [IsObjectValue](../../aspose.pdf.ai/toolchoice/isobjectvalue/) { get; } | Gets a value indicating whether the ToolChoice is an object value. |
+| [IsStringValue](../../aspose.pdf.ai/toolchoice/isstringvalue/) { get; } | Gets a value indicating whether the ToolChoice is a string value. |
+| [ObjectValue](../../aspose.pdf.ai/toolchoice/objectvalue/) { get; set; } | Gets or sets the object value of the ToolChoice. |
+| [StringValue](../../aspose.pdf.ai/toolchoice/stringvalue/) { get; set; } | Gets or sets the string value of the ToolChoice. |
 
 ## Other Members
 
@@ -41,6 +41,8 @@ public class ToolChoice : IStringOrObject<ObjectType>
 
 ### See Also
 
+* interface [IStringOrObject&lt;T&gt;](../istringorobject-1/)
+* class [ObjectType](../toolchoice.objecttype/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
 

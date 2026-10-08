@@ -7,7 +7,7 @@ description: "PageNumber property. Gets or sets the delimiter used in the page n
 type: docs
 weight: 60
 url: "/net/aspose.pdf/pagenumber/delimiter/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageNumber.Delimiter property
 

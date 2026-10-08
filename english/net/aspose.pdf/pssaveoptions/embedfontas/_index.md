@@ -7,7 +7,7 @@ description: "PsSaveOptions property. Gets/sets type in which fonts must be embe
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pssaveoptions/embedfontas/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PsSaveOptions.EmbedFontAs property
 

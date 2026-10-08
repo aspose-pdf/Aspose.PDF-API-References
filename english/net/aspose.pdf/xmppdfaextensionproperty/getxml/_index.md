@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionProperty method. Returns the list of xml elements 
 type: docs
 weight: 20
 url: "/net/aspose.pdf/xmppdfaextensionproperty/getxml/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionProperty.GetXml method
 

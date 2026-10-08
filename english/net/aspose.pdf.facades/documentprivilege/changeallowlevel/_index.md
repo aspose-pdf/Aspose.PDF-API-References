@@ -7,7 +7,7 @@ description: "DocumentPrivilege property. Gets and sets the change level of docu
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/documentprivilege/changeallowlevel/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.ChangeAllowLevel property
 
@@ -18,11 +18,13 @@ Gets and sets the change level of document's privilege. Just as the Adobe Profes
  3: Commenting, filling in form fields, and signing existing signature fields.
  4: Any except extracting pages.
 
-If the property has a value of -1, then the level is undefined.
-
 ```csharp
 public int ChangeAllowLevel { get; set; }
 ```
+
+## Remarks
+
+If the property has a value of -1, then the level is undefined.
 
 ### See Also
 

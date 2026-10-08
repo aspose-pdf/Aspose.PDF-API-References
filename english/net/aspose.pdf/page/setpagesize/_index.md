@@ -7,7 +7,7 @@ description: "Page method. Sets page size for page."
 type: docs
 weight: 270
 url: "/net/aspose.pdf/page/setpagesize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.SetPageSize method
 

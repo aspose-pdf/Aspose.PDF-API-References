@@ -7,7 +7,7 @@ description: "Form method. Exports the content of the fields of the pdf into the
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/form/exportxml/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.ExportXml method
 

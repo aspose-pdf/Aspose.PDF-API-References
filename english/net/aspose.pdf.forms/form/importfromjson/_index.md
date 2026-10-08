@@ -7,7 +7,7 @@ description: "Form method. Imports the PDF form fields from JSON format provided
 type: docs
 weight: 180
 url: "/net/aspose.pdf.forms/form/importfromjson/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImportFromJson(Stream) {#importfromjson}
 
@@ -37,6 +37,7 @@ document.Save();
 
 ### See Also
 
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
@@ -70,6 +71,7 @@ document.Save();
 
 ### See Also
 
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

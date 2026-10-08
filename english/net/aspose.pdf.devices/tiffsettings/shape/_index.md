@@ -7,13 +7,11 @@ description: "TiffSettings property. Gets or sets the type of the shape."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.devices/tiffsettings/shape/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TiffSettings.Shape property
 
 Gets or sets the type of the shape.
-
-Default value is ShapeType.None
 
 ```csharp
 public ShapeType Shape { get; set; }
@@ -23,9 +21,13 @@ public ShapeType Shape { get; set; }
 
 The type of the shape.
 
+## Remarks
+
+Default value is ShapeType.None
+
 ### See Also
 
-* enum [ShapeType](../../../aspose.pdf.devices/shapetype/)
+* enum [ShapeType](../../shapetype/)
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

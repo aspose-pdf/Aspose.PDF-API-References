@@ -7,7 +7,7 @@ description: "ToolChoice property. Gets or sets the object value of the ToolChoi
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/toolchoice/objectvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ToolChoice.ObjectValue property
 
@@ -19,6 +19,7 @@ public ObjectType ObjectValue { get; set; }
 
 ### See Also
 
+* class [ObjectType](../../toolchoice.objecttype/)
 * class [ToolChoice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

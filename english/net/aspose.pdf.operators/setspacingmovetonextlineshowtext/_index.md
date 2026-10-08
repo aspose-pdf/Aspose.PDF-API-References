@@ -8,7 +8,7 @@ type: docs
 weight: 730
 url: "/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/"
 keywords: "SetSpacingMoveToNextLineShowText, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetSpacingMoveToNextLineShowText class
 
@@ -22,23 +22,22 @@ public class SetSpacingMoveToNextLineShowText : TextShowOperator
 
 | Name | Description |
 | --- | --- |
-| [SetSpacingMoveToNextLineShowText](./setspacingmovetonextlineshowtext/)(double, double, string) | Initializes operator. |
+| [SetSpacingMoveToNextLineShowText](setspacingmovetonextlineshowtext/)(double, double, string) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Ac](./ac/) { get; } | Get character spacing. |
-| [Aw](./aw/) { get; } | Gets word spacing. |
+| [Ac](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/ac/) { get; } | Get character spacing. |
+| [Aw](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/aw/) { get; } | Gets word spacing. |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| override [Text](./text/) { get; } | Gets text of operator. |
+| override [Text](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/text/) { get; } | Gets text of operator. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [Accept](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 

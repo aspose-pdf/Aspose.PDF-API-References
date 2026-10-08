@@ -8,11 +8,11 @@ type: docs
 weight: 40
 url: "/net/aspose.pdf.vector/graphicstate/"
 keywords: "GraphicState, Aspose.Pdf.Vector, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicState class
 
-Represents graphic state of the current [`GraphicElement`](../../aspose.pdf.vector/graphicelement/).
+Represents graphic state of the current [`GraphicElement`](../graphicelement/).
 
 ```csharp
 public class GraphicState
@@ -22,9 +22,9 @@ public class GraphicState
 
 | Name | Description |
 | --- | --- |
-| [ClipsAndMatrices](./clipsandmatrices/) { get; } | Gets the operators representing clips and concatenation matrices. |
-| [ColorsAndStyles](./colorsandstyles/) { get; } | Gets the operators representing colorspaces, colors and line styles. |
-| [Matrix](./matrix/) { get; set; } | Gets the current transformation matrix. |
+| [ClipsAndMatrices](../../aspose.pdf.vector/graphicstate/clipsandmatrices/) { get; } | Gets the operators representing clips and concatenation matrices. |
+| [ColorsAndStyles](../../aspose.pdf.vector/graphicstate/colorsandstyles/) { get; } | Gets the operators representing colorspaces, colors and line styles. |
+| [Matrix](../../aspose.pdf.vector/graphicstate/matrix/) { get; set; } | Gets the current transformation matrix. |
 
 ### See Also
 

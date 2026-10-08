@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates FormulaElement."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.tagged/itaggedcontent/createformulaelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateFormulaElement method
 

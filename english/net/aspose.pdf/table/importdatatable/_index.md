@@ -7,7 +7,7 @@ description: "Table method. Imports data from System.Data.DataTable into Aspose.
 type: docs
 weight: 60
 url: "/net/aspose.pdf/table/importdatatable/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImportDataTable(DataTable, bool, int, int) {#importdatatable}
 
@@ -45,9 +45,8 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| importedDataTable | DataTable | The <see cref="T:System.Data.DataTable" /> object to be imported. |
-| isColumnNamesShown | Boolean | Specifies whether the column names of the source datatable will be 
- imported as first row. |
+| importedDataTable | DataTable | The DataTable object to be imported. |
+| isColumnNamesShown | Boolean | Specifies whether the column names of the source datatable will be imported as first row. |
 | firstFilledRow | Int32 | specifies zero based number of first row in target table from which import will start, if row with such number(and some previous rows) are absent in target table, they will be created first |
 | firstFilledColumn | Byte | specifies number of first target column in target table , column must be present in target table before start of import |
 | maxRows | Int32 | Maximum amount of rows to be imported from source table. |
@@ -74,11 +73,10 @@ public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList,
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| importedDataTable | DataTable | The <see cref="T:System.Data.DataTable" /> object to be imported. |
-| sourceRowList | Int32[] | The array of numbers of rows in source <see cref="T:System.Data.DataTable" /> object that must be imported. List must be not null and must contain only numbers of existing rows, otherwise exception will be thrown. |
-| sourceColumnList | Int32[] | The array of numbers of columns in source <see cref="T:System.Data.DataTable" /> object that must be imported. List must be not null and must contain only numbers of existing columns, otherwise exception will be thrown. |
-| firstFilledRow | Int32 | The zero based row number of the first cell in targer table from which import will start.
- If target table does not contain that row, it (and all previous if necessary) will be created |
+| importedDataTable | DataTable | The DataTable object to be imported. |
+| sourceRowList | Int32[] | The array of numbers of rows in source DataTable object that must be imported. List must be not null and must contain only numbers of existing rows, otherwise exception will be thrown. |
+| sourceColumnList | Int32[] | The array of numbers of columns in source DataTable object that must be imported. List must be not null and must contain only numbers of existing columns, otherwise exception will be thrown. |
+| firstFilledRow | Int32 | The zero based row number of the first cell in targer table from which import will start. If target table does not contain that row, it (and all previous if necessary) will be created |
 | firstFilledColumn | Int32 | The zero based column number of the first cell in targer table from which import will start. The target table must contain that column befor import starts, otherwise exception will be thrown. |
 | showColumnNamesAsFirstRow | Boolean | Specifies whether the column names of source datatable will be imported as first row. |
 | isHtmlSupported | Boolean | Specifies whether the text is html string. |

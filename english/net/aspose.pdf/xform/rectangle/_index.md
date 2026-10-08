@@ -7,7 +7,7 @@ description: "XForm property. Gets or sets rectangel of the form."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/xform/rectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XForm.Rectangle property
 
@@ -19,7 +19,7 @@ public Rectangle Rectangle { get; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../rectangle/)
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

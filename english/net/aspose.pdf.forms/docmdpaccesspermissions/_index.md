@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Forms.DocMDPAccessPermissions enum. The access permissi
 type: docs
 weight: 90
 url: "/net/aspose.pdf.forms/docmdpaccesspermissions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocMDPAccessPermissions enumeration
 

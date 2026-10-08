@@ -7,11 +7,11 @@ description: "PdfBookmarkEditor constructor. Initializes new PdfBookmarkEditor o
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/pdfbookmarkeditor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfBookmarkEditor() {#constructor}
 
-Initializes new [`PdfBookmarkEditor`](../../../aspose.pdf.facades/pdfbookmarkeditor/) object.
+Initializes new [`PdfBookmarkEditor`](../) object.
 
 ```csharp
 public PdfBookmarkEditor()
@@ -25,9 +25,9 @@ public PdfBookmarkEditor()
 
 ---
 
-## PdfBookmarkEditor([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## PdfBookmarkEditor(Document) {#constructor_1}
 
-Initializes new [`PdfBookmarkEditor`](../../../aspose.pdf.facades/pdfbookmarkeditor/) object on base of the *document*.
+Initializes new [`PdfBookmarkEditor`](../) object on base of the *document*.
 
 ```csharp
 public PdfBookmarkEditor(Document document)

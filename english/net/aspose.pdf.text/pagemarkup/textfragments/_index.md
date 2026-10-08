@@ -7,20 +7,23 @@ description: "PageMarkup property. Gets collection of TextFragment that was foun
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/pagemarkup/textfragments/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageMarkup.TextFragments property
 
-Gets collection of [`TextFragment`](../../../aspose.pdf.text/textfragment/) that was found on the page.
-
-The [`TextFragment`](../../../aspose.pdf.text/textfragment/) object provides access to the search occurrence text, text properties, and allows to edit text and change the text state (font, font size, color etc).
+Gets collection of [`TextFragment`](../../textfragment/) that was found on the page.
 
 ```csharp
 public List<TextFragment> TextFragments { get; }
 ```
 
+## Remarks
+
+The [`TextFragment`](../../textfragment/) object provides access to the search occurrence text, text properties, and allows to edit text and change the text state (font, font size, color etc).
+
 ### See Also
 
+* class [TextFragment](../../textfragment/)
 * class [PageMarkup](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

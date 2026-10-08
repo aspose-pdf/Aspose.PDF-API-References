@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Facades.WordWrapMode enum. Defines word wrapping strate
 type: docs
 weight: 660
 url: "/net/aspose.pdf.facades/wordwrapmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WordWrapMode enumeration
 
@@ -22,9 +22,7 @@ public enum WordWrapMode
 | Name | Value | Description |
 | --- | --- | --- |
 | Default | `0` | Default algorithm (allows breaking words in the middle) |
-| ByWords | `1` | Word wrapping only wraps complete words.
- If the complete word cannot be wrapped, attempts
- to wrap word in the middle |
+| ByWords | `1` | Word wrapping only wraps complete words. If the complete word cannot be wrapped, attempts to wrap word in the middle |
 
 ### See Also
 

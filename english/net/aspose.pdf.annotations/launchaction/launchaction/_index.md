@@ -7,7 +7,7 @@ description: "LaunchAction constructor. Creates a launch action."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/launchaction/launchaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LaunchAction(string) {#constructor}
 
@@ -29,7 +29,7 @@ public LaunchAction(string file)
 
 ---
 
-## LaunchAction([Document](../../../aspose.pdf/document/), string) {#constructor_1}
+## LaunchAction(Document, string) {#constructor_1}
 
 Creates a launch action.
 

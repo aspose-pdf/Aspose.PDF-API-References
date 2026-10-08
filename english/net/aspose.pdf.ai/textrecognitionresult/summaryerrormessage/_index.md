@@ -7,7 +7,7 @@ description: "TextRecognitionResult property. A consolidated error message if Ov
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/textrecognitionresult/summaryerrormessage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextRecognitionResult.SummaryErrorMessage property
 

@@ -7,7 +7,7 @@ description: "AssistantResponse property. Gets or sets the Unix timestamp (in se
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/assistantresponse/createdat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantResponse.CreatedAt property
 

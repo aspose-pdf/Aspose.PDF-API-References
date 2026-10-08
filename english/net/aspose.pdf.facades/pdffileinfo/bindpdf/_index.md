@@ -7,7 +7,7 @@ description: "PdfFileInfo method. Initializes the facade."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/pdffileinfo/bindpdf/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.BindPdf method
 

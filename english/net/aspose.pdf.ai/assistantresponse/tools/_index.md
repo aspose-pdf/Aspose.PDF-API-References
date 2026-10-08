@@ -7,7 +7,7 @@ description: "AssistantResponse property. Gets or sets a list of tool enabled on
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/assistantresponse/tools/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantResponse.Tools property
 
@@ -20,6 +20,7 @@ public List<Tool> Tools { get; set; }
 
 ### See Also
 
+* class [Tool](../../tool/)
 * class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

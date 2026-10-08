@@ -7,7 +7,7 @@ description: "Element method. Remove element."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.structure/element/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Element.Remove method
 

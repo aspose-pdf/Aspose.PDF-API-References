@@ -7,7 +7,7 @@ description: "PaperSources field. Represent the large capacity bin of the printe
 type: docs
 weight: 110
 url: "/net/aspose.pdf.printing/papersources/largecapacity/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSources.LargeCapacity field
 
@@ -19,7 +19,7 @@ public static readonly PaperSource LargeCapacity;
 
 ### See Also
 
-* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSource](../../papersource/)
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

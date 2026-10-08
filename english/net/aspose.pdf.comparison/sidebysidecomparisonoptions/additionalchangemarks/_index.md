@@ -7,7 +7,7 @@ description: "SideBySideComparisonOptions property. Get and set the property tha
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/sidebysidecomparisonoptions/additionalchangemarks/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SideBySideComparisonOptions.AdditionalChangeMarks property
 

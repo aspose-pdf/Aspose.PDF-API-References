@@ -7,7 +7,7 @@ description: "TextFragmentCollection method. Clears all items from the collectio
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/textfragmentcollection/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentCollection.Clear method
 

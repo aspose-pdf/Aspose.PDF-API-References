@@ -7,7 +7,7 @@ description: "Bookmark property. Gets or sets the type of display bookmark's des
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/bookmark/pagedisplay/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Bookmark.PageDisplay property
 

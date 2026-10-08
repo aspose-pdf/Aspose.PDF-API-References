@@ -7,7 +7,7 @@ description: "Outlines property. Gets a value indicating whether the collection 
 type: docs
 weight: 80
 url: "/net/aspose.pdf/outlines/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Outlines.IsReadOnly property
 

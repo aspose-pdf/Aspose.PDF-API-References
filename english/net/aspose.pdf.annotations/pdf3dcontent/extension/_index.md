@@ -7,7 +7,7 @@ description: "PDF3DContent property. Gets the extension ."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/pdf3dcontent/extension/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DContent.Extension property
 

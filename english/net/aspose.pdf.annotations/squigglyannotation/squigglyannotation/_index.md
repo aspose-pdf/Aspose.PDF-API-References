@@ -7,7 +7,7 @@ description: "SquigglyAnnotation constructor. Creates new Squiggly annotation on
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/squigglyannotation/squigglyannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SquigglyAnnotation constructor
 
@@ -25,7 +25,7 @@ public SquigglyAnnotation(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [SquigglyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

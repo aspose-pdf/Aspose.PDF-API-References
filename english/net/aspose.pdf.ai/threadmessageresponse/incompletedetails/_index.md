@@ -7,7 +7,7 @@ description: "ThreadMessageResponse property. Gets or sets an incomplete message
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/threadmessageresponse/incompletedetails/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadMessageResponse.IncompleteDetails property
 
@@ -19,7 +19,7 @@ public IncompleteDetails IncompleteDetails { get; set; }
 
 ### See Also
 
-* class [IncompleteDetails](../../../aspose.pdf.ai/incompletedetails/)
+* class [IncompleteDetails](../../incompletedetails/)
 * class [ThreadMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

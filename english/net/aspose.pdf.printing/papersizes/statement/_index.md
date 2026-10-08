@@ -7,7 +7,7 @@ description: "PaperSizes field. Statement paper (5.5 in. by 8.5 in.)."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.printing/papersizes/statement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.Statement field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize Statement;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

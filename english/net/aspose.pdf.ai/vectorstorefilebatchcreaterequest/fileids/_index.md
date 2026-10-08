@@ -7,7 +7,7 @@ description: "VectorStoreFileBatchCreateRequest property. Gets or sets s list of
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/vectorstorefilebatchcreaterequest/fileids/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileBatchCreateRequest.FileIds property
 

@@ -7,7 +7,7 @@ description: "PDF3DRenderMode field. The \"SolidWireFrame\" render mode."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/pdf3drendermode/solidwireframe/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DRenderMode.SolidWireframe field
 
@@ -19,7 +19,7 @@ public static PDF3DRenderMode SolidWireframe;
 
 ### See Also
 
-* class [PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
+* class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

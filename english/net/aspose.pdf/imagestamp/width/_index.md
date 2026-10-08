@@ -7,7 +7,7 @@ description: "ImageStamp property. Gets or sets image width. Setting this proper
 type: docs
 weight: 50
 url: "/net/aspose.pdf/imagestamp/width/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageStamp.Width property
 

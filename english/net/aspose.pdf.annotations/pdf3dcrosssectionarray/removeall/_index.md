@@ -7,7 +7,7 @@ description: "PDF3DCrossSectionArray method. Removes all cross section from arra
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DCrossSectionArray.RemoveAll method
 

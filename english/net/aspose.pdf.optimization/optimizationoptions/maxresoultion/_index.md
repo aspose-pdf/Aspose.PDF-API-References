@@ -7,7 +7,7 @@ description: "OptimizationOptions property. Specifies maximum resolution of imag
 type: docs
 weight: 100
 url: "/net/aspose.pdf.optimization/optimizationoptions/maxresoultion/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizationOptions.MaxResoultion property
 

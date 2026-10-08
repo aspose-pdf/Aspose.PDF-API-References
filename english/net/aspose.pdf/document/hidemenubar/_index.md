@@ -7,7 +7,7 @@ description: "Document property. Gets or sets flag specifying whether menu bar s
 type: docs
 weight: 1270
 url: "/net/aspose.pdf/document/hidemenubar/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.HideMenubar property
 

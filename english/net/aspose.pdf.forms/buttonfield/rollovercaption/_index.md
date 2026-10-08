@@ -7,7 +7,7 @@ description: "ButtonField property. Gets or sets rollover caption of button whic
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/buttonfield/rollovercaption/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ButtonField.RolloverCaption property
 

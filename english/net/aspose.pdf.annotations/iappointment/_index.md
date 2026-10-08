@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.IAppointment interface. Represents general 
 type: docs
 weight: 520
 url: "/net/aspose.pdf.annotations/iappointment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IAppointment interface
 
@@ -21,7 +21,7 @@ public interface IAppointment
 
 | Name | Description |
 | --- | --- |
-| [ToString](./tostring/)() | Returns string representation |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Returns string representation |
 
 ### See Also
 

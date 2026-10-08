@@ -7,7 +7,7 @@ description: "ChatMessage property. Gets or sets an optional name for the partic
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/chatmessage/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChatMessage.Name property
 

@@ -8,7 +8,7 @@ type: docs
 weight: 260
 url: "/net/aspose.pdf.operators/et/"
 keywords: "ET, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ET class
 
@@ -22,7 +22,7 @@ public class ET : BlockTextOperator
 
 | Name | Description |
 | --- | --- |
-| [ET](./et/)() | Initializes operator. |
+| [ET](et/)() | Initializes operator. |
 
 ## Properties
 
@@ -34,9 +34,8 @@ public class ET : BlockTextOperator
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Produces text code of operator. |
+| override [Accept](../../aspose.pdf.operators/et/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/et/tostring/)() | Produces text code of operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also

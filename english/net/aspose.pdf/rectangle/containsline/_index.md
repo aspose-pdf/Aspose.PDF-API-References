@@ -7,7 +7,7 @@ description: "Rectangle method. Determines whether the rectangle contains a line
 type: docs
 weight: 130
 url: "/net/aspose.pdf/rectangle/containsline/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.ContainsLine method
 

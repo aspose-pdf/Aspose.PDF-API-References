@@ -7,7 +7,7 @@ description: "PdfXmpMetadata property. Gets or sets value by key."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata indexer (1 of 2)
 
@@ -69,7 +69,7 @@ Console.WriteLine(pxm[DefaultMetadataProperties.CreatorTool]);
 ### See Also
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
-* enum [DefaultMetadataProperties](../../../aspose.pdf.facades/defaultmetadataproperties/)
+* enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

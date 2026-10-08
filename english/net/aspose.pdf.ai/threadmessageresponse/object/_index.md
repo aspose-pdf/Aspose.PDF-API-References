@@ -7,7 +7,7 @@ description: "ThreadMessageResponse property. Gets or sets the object type, whic
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/threadmessageresponse/object/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadMessageResponse.Object property
 

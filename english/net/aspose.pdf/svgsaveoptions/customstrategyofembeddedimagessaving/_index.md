@@ -7,7 +7,7 @@ description: "SvgSaveOptions field. This field can contain saving strategy that 
 type: docs
 weight: 20
 url: "/net/aspose.pdf/svgsaveoptions/customstrategyofembeddedimagessaving/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SvgSaveOptions.CustomStrategyOfEmbeddedImagesSaving field
 
@@ -29,6 +29,7 @@ public EmbeddedImagesSavingStrategy CustomStrategyOfEmbeddedImagesSaving;
 
 ### See Also
 
+* delegate [EmbeddedImagesSavingStrategy](../../svgsaveoptions.embeddedimagessavingstrategy/)
 * class [SvgSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

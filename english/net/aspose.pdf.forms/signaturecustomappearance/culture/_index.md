@@ -7,7 +7,7 @@ description: "SignatureCustomAppearance property. Gets/sets culture info value. 
 type: docs
 weight: 190
 url: "/net/aspose.pdf.forms/signaturecustomappearance/culture/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureCustomAppearance.Culture property
 

@@ -7,7 +7,7 @@ description: "SetGlyphsPositionShowText property. Gets text from operator argume
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/setglyphspositionshowtext/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetGlyphsPositionShowText.Text property
 

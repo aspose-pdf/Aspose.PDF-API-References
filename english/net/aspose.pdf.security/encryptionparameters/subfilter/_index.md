@@ -7,7 +7,7 @@ description: "EncryptionParameters property. Gets the sub-filter name."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security/encryptionparameters/subfilter/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EncryptionParameters.SubFilter property
 

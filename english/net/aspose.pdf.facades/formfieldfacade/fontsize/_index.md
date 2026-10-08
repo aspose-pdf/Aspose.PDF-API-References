@@ -7,7 +7,7 @@ description: "FormFieldFacade property. The size of a field text."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/formfieldfacade/fontsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.FontSize property
 

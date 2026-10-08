@@ -7,7 +7,7 @@ description: "Page property. Gets or sets layers collection."
 type: docs
 weight: 390
 url: "/net/aspose.pdf/page/layers/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Layers property
 
@@ -23,6 +23,7 @@ The layers collection.
 
 ### See Also
 
+* class [Layer](../../layer/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

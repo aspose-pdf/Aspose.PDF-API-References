@@ -7,7 +7,7 @@ description: "RunResponse property. Gets or sets the instructions that the assis
 type: docs
 weight: 170
 url: "/net/aspose.pdf.ai/runresponse/instructions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunResponse.Instructions property
 

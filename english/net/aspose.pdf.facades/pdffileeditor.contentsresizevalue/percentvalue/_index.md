@@ -7,7 +7,7 @@ description: "ContentsResizeValue property. Sets value in percents of page size.
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/percentvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeValue.PercentValue property
 
@@ -19,7 +19,7 @@ public double PercentValue { set; }
 
 ### See Also
 
-* class [PdfFileEditor.ContentsResizeValue](../)
+* class [ContentsResizeValue](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "BackgroundArtifact property. Gets or sets bacground image of backg
 type: docs
 weight: 30
 url: "/net/aspose.pdf/backgroundartifact/backgroundimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BackgroundArtifact.BackgroundImage property
 

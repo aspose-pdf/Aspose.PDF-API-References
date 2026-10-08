@@ -7,7 +7,7 @@ description: "Document property. Gets licensed state of the system. Returns true
 type: docs
 weight: 1110
 url: "/net/aspose.pdf/document/islicensed/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.IsLicensed property
 

@@ -8,7 +8,7 @@ type: docs
 weight: 30
 url: "/net/aspose.pdf.text/absorbedrow/"
 keywords: "AbsorbedRow, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AbsorbedRow class
 
@@ -22,17 +22,18 @@ public class AbsorbedRow : IComparable<AbsorbedRow>, ITableElement
 
 | Name | Description |
 | --- | --- |
-| [CellList](./celllist/) { get; } | Gets readonly IList containing cells of the row |
-| [Rectangle](./rectangle/) { get; } | Gets rectangle that describes position of the row on page |
+| [CellList](../../aspose.pdf.text/absorbedrow/celllist/) { get; } | Gets readonly IList containing cells of the row |
+| [Rectangle](../../aspose.pdf.text/absorbedrow/rectangle/) { get; } | Gets rectangle that describes position of the row on page |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CompareTo](./compareto/)(AbsorbedRow) | Compares the current AbsorbedRow object with another AbsorbedRow object and returns an integer that indicates whether the current object precedes, follows, or occurs in the same position in the sort order as the other object. |
+| [CompareTo](../../aspose.pdf.text/absorbedrow/compareto/)(AbsorbedRow) | Compares the current AbsorbedRow object with another AbsorbedRow object and returns an integer that indicates whether the current object precedes, follows, or occurs in the same position in the sort order as the other object. |
 
 ### See Also
 
+* interface [ITableElement](../itableelement/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
 

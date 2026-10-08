@@ -7,7 +7,7 @@ description: "Page property. Sets color type of the pages based on information g
 type: docs
 weight: 440
 url: "/net/aspose.pdf/page/colortype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.ColorType property
 
@@ -20,7 +20,7 @@ public ColorType ColorType { get; }
 
 ### See Also
 
-* enum [ColorType](../../../aspose.pdf/colortype/)
+* enum [ColorType](../../colortype/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

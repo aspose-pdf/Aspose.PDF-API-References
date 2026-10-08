@@ -7,7 +7,7 @@ description: "CollectionItem method."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/collectionitem/trygetdatetimevalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionItem.TryGetDateTimeValue method
 
@@ -16,15 +16,6 @@ product_version: "26.9.0"
 ```csharp
 public bool TryGetDateTimeValue(string name, out Value<DateTime> value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String |  |
-| value | Value`1& |  |
-
-### Return Value
-
-bool
 
 ### See Also
 

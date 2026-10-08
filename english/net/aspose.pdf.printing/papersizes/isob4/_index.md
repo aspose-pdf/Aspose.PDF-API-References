@@ -7,7 +7,7 @@ description: "PaperSizes field. ISO B4 (250 mm by 353 mm)."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.printing/papersizes/isob4/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.IsoB4 field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize IsoB4;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

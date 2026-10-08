@@ -7,9 +7,9 @@ description: "Form method. Delete field from the form."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/form/delete/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Delete([Field](../../../aspose.pdf.forms/field/)) {#delete}
+## Delete(Field) {#delete}
 
 Delete field from the form.
 
@@ -23,7 +23,7 @@ public void Delete(Field field)
 
 ### See Also
 
-* class [Field](../../../aspose.pdf.forms/field/)
+* class [Field](../../field/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

@@ -8,11 +8,11 @@ type: docs
 weight: 500
 url: "/net/aspose.pdf.lowcode/mergeoptions/"
 keywords: "MergeOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MergeOptions class
 
-Represents Merge options for [`Merger`](../../aspose.pdf.lowcode/merger/) plugin.
+Represents Merge options for [`Merger`](../merger/) plugin.
 
 ```csharp
 public sealed class MergeOptions : OrganizerBaseOptions
@@ -22,7 +22,7 @@ public sealed class MergeOptions : OrganizerBaseOptions
 
 | Name | Description |
 | --- | --- |
-| [MergeOptions](./mergeoptions/)() | The default constructor. |
+| [MergeOptions](mergeoptions/)() | The default constructor. |
 
 ## Properties
 

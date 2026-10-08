@@ -8,7 +8,7 @@ type: docs
 weight: 200
 url: "/net/aspose.pdf.comparison/sidebysidepagescomparisonresult/"
 keywords: "SideBySidePagesComparisonResult, Aspose.Pdf.Comparison, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SideBySidePagesComparisonResult class
 
@@ -22,16 +22,16 @@ public class SideBySidePagesComparisonResult
 
 | Name | Description |
 | --- | --- |
-| [SideBySidePagesComparisonResult](./sidebysidepagescomparisonresult/)(bool, List<EditContainer>, List<EditContainer>, List<DiffOperation>) | Creates an instance of [`SideBySidePagesComparisonResult`](../../aspose.pdf.comparison/sidebysidepagescomparisonresult/) class |
+| [SideBySidePagesComparisonResult](sidebysidepagescomparisonresult/)(bool, List&lt;EditContainer&gt;, List&lt;EditContainer&gt;, List&lt;DiffOperation&gt;) | Creates an instance of `SideBySidePagesComparisonResult` class |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FirstPageChanges](./firstpagechanges/) { get; } | Get a list of changes to the pages of the first page. |
-| [FullChanges](./fullchanges/) { get; } | Get a complete list of changes of the pages. |
-| [HasChanges](./haschanges/) { get; } | Gets the value indicates whether there are any changes between the compared pages. |
-| [SecondPageChanges](./secondpagechanges/) { get; } | Get a list of changes to the pages of the second page. |
+| [FirstPageChanges](../../aspose.pdf.comparison/sidebysidepagescomparisonresult/firstpagechanges/) { get; } | Get a list of changes to the pages of the first page. |
+| [FullChanges](../../aspose.pdf.comparison/sidebysidepagescomparisonresult/fullchanges/) { get; } | Get a complete list of changes of the pages. |
+| [HasChanges](../../aspose.pdf.comparison/sidebysidepagescomparisonresult/haschanges/) { get; } | Gets the value indicates whether there are any changes between the compared pages. |
+| [SecondPageChanges](../../aspose.pdf.comparison/sidebysidepagescomparisonresult/secondpagechanges/) { get; } | Get a list of changes to the pages of the second page. |
 
 ### See Also
 

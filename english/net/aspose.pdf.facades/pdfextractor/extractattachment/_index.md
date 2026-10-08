@@ -7,7 +7,7 @@ description: "PdfExtractor method. Extracts attachments from a Pdf document."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/pdfextractor/extractattachment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExtractAttachment() {#extractattachment}
 

@@ -7,7 +7,7 @@ description: "TextFragment method. Clone the fragment."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/textfragment/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragment.Clone method
 

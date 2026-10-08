@@ -7,7 +7,7 @@ description: "PdfFileStamp field. Bottom right position."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.facades/pdffilestamp/posbottomright/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileStamp.PosBottomRight field
 

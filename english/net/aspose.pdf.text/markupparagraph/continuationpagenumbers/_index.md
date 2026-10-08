@@ -7,7 +7,7 @@ description: "MarkupParagraph property. List of page numbers on which the paragr
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/markupparagraph/continuationpagenumbers/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupParagraph.ContinuationPageNumbers property
 

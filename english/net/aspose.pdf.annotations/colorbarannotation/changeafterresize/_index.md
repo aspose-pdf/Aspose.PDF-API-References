@@ -7,7 +7,7 @@ description: "ColorBarAnnotation method. Update parameters and appearance, accor
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/colorbarannotation/changeafterresize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ColorBarAnnotation.ChangeAfterResize method
 

@@ -7,7 +7,7 @@ description: "SetWordSpacing property. Gets or sets the word spacing."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setwordspacing/wordspacing/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetWordSpacing.WordSpacing property
 

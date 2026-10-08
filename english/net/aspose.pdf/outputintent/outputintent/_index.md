@@ -7,11 +7,11 @@ description: "OutputIntent constructor. Initializes a new instance of the Output
 type: docs
 weight: 10
 url: "/net/aspose.pdf/outputintent/outputintent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputIntent constructor
 
-Initializes a new instance of the [`OutputIntent`](../../../aspose.pdf/outputintent/) class with the specified output condition identifier.
+Initializes a new instance of the [`OutputIntent`](../) class with the specified output condition identifier.
 
 ```csharp
 public OutputIntent(string outputConditionIdentifier)

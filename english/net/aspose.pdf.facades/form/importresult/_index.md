@@ -7,7 +7,7 @@ description: "Form property. Result of last import operation. Array of objects w
 type: docs
 weight: 420
 url: "/net/aspose.pdf.facades/form/importresult/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.ImportResult property
 
@@ -19,6 +19,7 @@ public FormImportResult[] ImportResult { get; }
 
 ### See Also
 
+* class [FormImportResult](../../form.formimportresult/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

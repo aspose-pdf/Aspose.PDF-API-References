@@ -7,7 +7,7 @@ description: "Document property. Gets the ID."
 type: docs
 weight: 1530
 url: "/net/aspose.pdf/document/id/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.Id property
 
@@ -19,7 +19,7 @@ public Id Id { get; }
 
 ### See Also
 
-* class [Id](../../../aspose.pdf/id/)
+* class [Id](../../id/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

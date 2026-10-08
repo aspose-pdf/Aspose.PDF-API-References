@@ -7,12 +7,12 @@ description: "BarcodeField property. Specifies which barcode or glyph technology
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/barcodefield/symbology/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BarcodeField.Symbology property
 
 Specifies which barcode or glyph technology is to be used on this annotation,
- see `Symbology` for details.
+ see [`Symbology`](../symbology/) for details.
 
 ```csharp
 public Symbology Symbology { get; }
@@ -20,7 +20,7 @@ public Symbology Symbology { get; }
 
 ### See Also
 
-* enum [Symbology](../../../aspose.pdf.forms/symbology/)
+* enum [Symbology](../../symbology/)
 * class [BarcodeField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

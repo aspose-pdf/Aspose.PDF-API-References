@@ -7,7 +7,7 @@ description: "LlamaCopilotOptionsBase property. Gets or sets the model to use fo
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/llamacopilotoptionsbase/model/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaCopilotOptionsBase.Model property
 

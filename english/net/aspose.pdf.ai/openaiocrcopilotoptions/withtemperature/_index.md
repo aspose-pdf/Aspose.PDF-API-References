@@ -7,7 +7,7 @@ description: "OpenAIOcrCopilotOptions method. Sets the temperature."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withtemperature/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIOcrCopilotOptions.WithTemperature method
 
@@ -23,11 +23,11 @@ public OpenAIOcrCopilotOptions WithTemperature(double? temperature)
 
 ### Return Value
 
-The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
+The current instance of [`OpenAIOcrCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+* class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

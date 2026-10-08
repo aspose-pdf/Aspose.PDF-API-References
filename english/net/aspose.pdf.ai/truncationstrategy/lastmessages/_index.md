@@ -7,7 +7,7 @@ description: "TruncationStrategy property. Gets or sets the number of most recen
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/truncationstrategy/lastmessages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TruncationStrategy.LastMessages property
 

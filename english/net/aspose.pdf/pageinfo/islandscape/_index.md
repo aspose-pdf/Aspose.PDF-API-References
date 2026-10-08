@@ -7,7 +7,7 @@ description: "PageInfo property. Gets or sets is page landscaped."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/pageinfo/islandscape/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageInfo.IsLandscape property
 

@@ -7,7 +7,7 @@ description: "Measure property. A factor that shall be used to convert the large
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/measure/xyfactor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.XYFactor property
 

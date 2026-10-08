@@ -7,7 +7,7 @@ description: "RedactionAnnotation property. An array of 8xN numbers specifying t
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/redactionannotation/quadpoint/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RedactionAnnotation.QuadPoint property
 

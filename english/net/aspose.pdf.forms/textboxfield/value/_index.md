@@ -7,7 +7,7 @@ description: "TextBoxField property. Gets or sets value of the field."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.forms/textboxfield/value/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextBoxField.Value property
 

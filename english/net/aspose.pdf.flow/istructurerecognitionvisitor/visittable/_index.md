@@ -7,7 +7,7 @@ description: "IStructureRecognitionVisitor method. Visits a recognized table in 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.flow/istructurerecognitionvisitor/visittable/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IStructureRecognitionVisitor.VisitTable method
 

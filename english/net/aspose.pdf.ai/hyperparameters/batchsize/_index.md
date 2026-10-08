@@ -7,7 +7,7 @@ description: "Hyperparameters property. Gets or sets number of examples in each 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/hyperparameters/batchsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Hyperparameters.BatchSize property
 

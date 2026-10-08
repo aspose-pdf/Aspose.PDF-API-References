@@ -7,7 +7,7 @@ description: "ImagePlacementCollection method. Adds the text fragment element at
 type: docs
 weight: 10
 url: "/net/aspose.pdf/imageplacementcollection/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagePlacementCollection.Add method
 
@@ -23,7 +23,7 @@ public void Add(ImagePlacement fragment)
 
 ### See Also
 
-* class [ImagePlacement](../../../aspose.pdf/imageplacement/)
+* class [ImagePlacement](../../imageplacement/)
 * class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

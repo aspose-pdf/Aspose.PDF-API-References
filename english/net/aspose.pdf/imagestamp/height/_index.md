@@ -7,7 +7,7 @@ description: "ImageStamp property. Gets or sets image height. Setting this image
 type: docs
 weight: 60
 url: "/net/aspose.pdf/imagestamp/height/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageStamp.Height property
 

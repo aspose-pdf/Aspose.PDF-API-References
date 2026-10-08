@@ -7,7 +7,7 @@ description: "XmpValue property. Value is unsupported/unknown and raw XML code i
 type: docs
 weight: 350
 url: "/net/aspose.pdf/xmpvalue/israw/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpValue.IsRaw property
 

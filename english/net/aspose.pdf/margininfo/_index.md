@@ -8,7 +8,7 @@ type: docs
 weight: 1810
 url: "/net/aspose.pdf/margininfo/"
 keywords: "MarginInfo, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarginInfo class
 
@@ -22,23 +22,23 @@ public sealed class MarginInfo : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [MarginInfo](./margininfo/#constructor)() | Initializes a new instance of the [`MarginInfo`](../../aspose.pdf/margininfo/) class. |
-| [MarginInfo](./margininfo/#constructor_1)(double, double, double, double) | Constructor of Rectangle. |
+| [MarginInfo](margininfo/#constructor)() | Initializes a new instance of the `MarginInfo` class. |
+| [MarginInfo](margininfo/#constructor_1)(double, double, double, double) | Constructor of Rectangle. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Bottom](./bottom/) { get; set; } | Gets or sets a float value that indicates the bottom margin. |
-| [Left](./left/) { get; set; } | Gets or sets a float value that indicates the left margin. |
-| [Right](./right/) { get; set; } | Gets or sets a float value that indicates the right margin. |
-| [Top](./top/) { get; set; } | Gets or sets a float value that indicates the top margin. |
+| [Bottom](../../aspose.pdf/margininfo/bottom/) { get; set; } | Gets or sets a float value that indicates the bottom margin. |
+| [Left](../../aspose.pdf/margininfo/left/) { get; set; } | Gets or sets a float value that indicates the left margin. |
+| [Right](../../aspose.pdf/margininfo/right/) { get; set; } | Gets or sets a float value that indicates the right margin. |
+| [Top](../../aspose.pdf/margininfo/top/) { get; set; } | Gets or sets a float value that indicates the top margin. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](./clone/)() | Clones a new [`MarginInfo`](../../aspose.pdf/margininfo/) object. |
+| [Clone](../../aspose.pdf/margininfo/clone/)() | Clones a new `MarginInfo` object. |
 
 ### See Also
 

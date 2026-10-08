@@ -7,7 +7,7 @@ description: "FontCollection property. Gets the font element at the specified in
 type: docs
 weight: 110
 url: "/net/aspose.pdf.text/fontcollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontCollection indexer (1 of 2)
 
@@ -27,7 +27,7 @@ Font object.
 
 ### See Also
 
-* class [Font](../../../aspose.pdf.text/font/)
+* class [Font](../../font/)
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
@@ -53,7 +53,7 @@ Found font.
 
 ### See Also
 
-* class [Font](../../../aspose.pdf.text/font/)
+* class [Font](../../font/)
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

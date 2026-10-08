@@ -7,7 +7,7 @@ description: "SideBySideDocsComparisonResult property. Get a list of changes to 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/sidebysidedocscomparisonresult/firstdocchanges/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SideBySideDocsComparisonResult.FirstDocChanges property
 
@@ -19,6 +19,7 @@ public List<List<EditContainer>> FirstDocChanges { get; }
 
 ### See Also
 
+* class [EditContainer](../../editcontainer/)
 * class [SideBySideDocsComparisonResult](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

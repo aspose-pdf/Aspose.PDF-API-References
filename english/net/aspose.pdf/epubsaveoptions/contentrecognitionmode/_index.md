@@ -7,7 +7,7 @@ description: "EpubSaveOptions field. When PDF file (that usually has fixed layou
 type: docs
 weight: 30
 url: "/net/aspose.pdf/epubsaveoptions/contentrecognitionmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EpubSaveOptions.ContentRecognitionMode field
 
@@ -23,6 +23,7 @@ public RecognitionMode ContentRecognitionMode;
 
 ### See Also
 
+* enum [RecognitionMode](../../epubsaveoptions.recognitionmode/)
 * class [EpubSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

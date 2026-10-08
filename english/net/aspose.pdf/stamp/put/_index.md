@@ -7,7 +7,7 @@ description: "Stamp method. Adds stamp on the page."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/stamp/put/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.Put method
 
@@ -23,7 +23,7 @@ public abstract void Put(Page page)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

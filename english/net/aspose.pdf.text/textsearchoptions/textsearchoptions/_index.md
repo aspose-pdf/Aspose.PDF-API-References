@@ -7,11 +7,11 @@ description: "TextSearchOptions constructor. Initializes new instance of the Tex
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textsearchoptions/textsearchoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSearchOptions(bool) {#constructor}
 
-Initializes new instance of the [`TextSearchOptions`](../../../aspose.pdf.text/textsearchoptions/) object.
+Initializes new instance of the [`TextSearchOptions`](../) object.
  Specifies regular expression usage mode.
 
 ```csharp
@@ -30,9 +30,9 @@ public TextSearchOptions(bool isRegularExpressionUsed)
 
 ---
 
-## TextSearchOptions([Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
+## TextSearchOptions(Rectangle) {#constructor_1}
 
-Initializes new instance of the [`TextSearchOptions`](../../../aspose.pdf.text/textsearchoptions/) object.
+Initializes new instance of the [`TextSearchOptions`](../) object.
  Specifies rectangle that delimits the searched text.
 
 ```csharp
@@ -45,16 +45,16 @@ public TextSearchOptions(Rectangle rectangle)
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextSearchOptions([Rectangle](../../../aspose.pdf.drawing/rectangle/), bool) {#constructor_2}
+## TextSearchOptions(Rectangle, bool) {#constructor_2}
 
-Initializes new instance of the [`TextSearchOptions`](../../../aspose.pdf.text/textsearchoptions/) object.
+Initializes new instance of the [`TextSearchOptions`](../) object.
  Specifies rectangle that delimits the searched text and regular expression usage mode.
 
 ```csharp
@@ -68,7 +68,7 @@ public TextSearchOptions(Rectangle rectangle, bool isRegularExpressionUsed)
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

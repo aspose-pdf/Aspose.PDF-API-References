@@ -8,7 +8,7 @@ type: docs
 weight: 750
 url: "/net/aspose.pdf.annotations/nameddestination/"
 keywords: "NamedDestination, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## NamedDestination class
 
@@ -22,22 +22,23 @@ public sealed class NamedDestination : IAppointment
 
 | Name | Description |
 | --- | --- |
-| [NamedDestination](./nameddestination/)(Document, string) | Create named destination. |
+| [NamedDestination](nameddestination/)(Document, string) | Create named destination. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Name](./name/) { get; } | Gets the name of named destination. |
+| [Name](../../aspose.pdf.annotations/nameddestination/name/) { get; } | Gets the name of named destination. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](./tostring/)() | Converts destination to string value. |
+| override [ToString](../../aspose.pdf.annotations/nameddestination/tostring/)() | Converts destination to string value. |
 
 ### See Also
 
+* interface [IAppointment](../iappointment/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
 

@@ -7,7 +7,7 @@ description: "FormDataConverter property. ImportIntoDatabase will create table i
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/formdataconverter/createmissingtable/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormDataConverter.CreateMissingTable property
 

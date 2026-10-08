@@ -8,7 +8,7 @@ type: docs
 weight: 670
 url: "/net/aspose.pdf.lowcode/pdfgeneratoroptions/"
 keywords: "PdfGeneratorOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfGeneratorOptions class
 
@@ -22,18 +22,19 @@ public abstract class PdfGeneratorOptions : IPluginOptions
 
 | Name | Description |
 | --- | --- |
-| [Inputs](./inputs/) { get; } | Returns PdfGenerator plugin data collection. |
-| [Outputs](./outputs/) { get; } | Gets collection of added targets for saving operation results. |
+| [Inputs](../../aspose.pdf.lowcode/pdfgeneratoroptions/inputs/) { get; } | Returns PdfGenerator plugin data collection. |
+| [Outputs](../../aspose.pdf.lowcode/pdfgeneratoroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddInput](./addinput/)(IDataSource) | Adds new data source to the PdfGenerator plugin data collection. |
-| [AddOutput](./addoutput/)(IDataSource) | Adds new data source to the PdfGenerator plugin data collection. |
+| [AddInput](../../aspose.pdf.lowcode/pdfgeneratoroptions/addinput/)(IDataSource) | Adds new data source to the PdfGenerator plugin data collection. |
+| [AddOutput](../../aspose.pdf.lowcode/pdfgeneratoroptions/addoutput/)(IDataSource) | Adds new data source to the PdfGenerator plugin data collection. |
 
 ### See Also
 
+* interface [IPluginOptions](../ipluginoptions/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

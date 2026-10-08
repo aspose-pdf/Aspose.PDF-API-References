@@ -7,7 +7,7 @@ description: "PdfFormatConversionOptions property. Action for image masked objec
 type: docs
 weight: 130
 url: "/net/aspose.pdf/pdfformatconversionoptions/transparencyaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.TransparencyAction property
 
@@ -19,7 +19,7 @@ public ConvertTransparencyAction TransparencyAction { get; set; }
 
 ### See Also
 
-* enum [ConvertTransparencyAction](../../../aspose.pdf/converttransparencyaction/)
+* enum [ConvertTransparencyAction](../../converttransparencyaction/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

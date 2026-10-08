@@ -7,7 +7,7 @@ description: "Image method. Clone the image."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/image/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Image.Clone method
 

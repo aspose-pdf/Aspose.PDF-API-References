@@ -7,7 +7,7 @@ description: "ImagePlacement property. Gets compositing parameters of graphics s
 type: docs
 weight: 120
 url: "/net/aspose.pdf/imageplacement/compositingparameters/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagePlacement.CompositingParameters property
 
@@ -19,7 +19,7 @@ public CompositingParameters CompositingParameters { get; }
 
 ### See Also
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [CompositingParameters](../../compositingparameters/)
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

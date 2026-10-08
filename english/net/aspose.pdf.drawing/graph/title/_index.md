@@ -7,7 +7,7 @@ description: "Graph property. Gets or sets a string value that indicates the tit
 type: docs
 weight: 90
 url: "/net/aspose.pdf.drawing/graph/title/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Graph.Title property
 

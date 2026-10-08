@@ -7,7 +7,7 @@ description: "Page method. Converts current page as bitmap and than returns arra
 type: docs
 weight: 320
 url: "/net/aspose.pdf/page/asbytearray/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.AsByteArray method
 

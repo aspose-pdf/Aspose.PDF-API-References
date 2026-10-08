@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionSchema constructor. Initializes new object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xmppdfaextensionschema/xmppdfaextensionschema/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchema constructor
 
@@ -23,7 +23,7 @@ public XmpPdfAExtensionSchema(XmpPdfAExtensionSchemaDescription description)
 
 ### See Also
 
-* class [XmpPdfAExtensionSchemaDescription](../../../aspose.pdf/xmppdfaextensionschemadescription/)
+* class [XmpPdfAExtensionSchemaDescription](../../xmppdfaextensionschemadescription/)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

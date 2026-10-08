@@ -7,7 +7,7 @@ description: "DocumentPrivilege property. Allows modifying annotations of file."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/documentprivilege/modifyannotations/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.ModifyAnnotations property
 
@@ -19,7 +19,7 @@ public static DocumentPrivilege ModifyAnnotations { get; }
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

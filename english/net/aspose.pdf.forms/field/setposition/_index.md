@@ -7,7 +7,7 @@ description: "Field method. Set position of the field."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/field/setposition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Field.SetPosition method
 

@@ -7,7 +7,7 @@ description: "OutlineItemCollection method. Adds outline item to collection."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/outlineitemcollection/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.Add method
 
@@ -23,7 +23,7 @@ public override void Add(OutlineItemCollection outline)
 
 ### See Also
 
-* class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

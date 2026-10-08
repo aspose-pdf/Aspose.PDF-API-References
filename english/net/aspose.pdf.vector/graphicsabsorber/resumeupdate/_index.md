@@ -7,11 +7,11 @@ description: "GraphicsAbsorber method. Resume update for Contents and all Conten
 type: docs
 weight: 40
 url: "/net/aspose.pdf.vector/graphicsabsorber/resumeupdate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicsAbsorber.ResumeUpdate method
 
-Resume update for `Contents` and all `Contents` 
+Resume update for [`Contents`](../../../aspose.pdf/page/contents/) and all [`Contents`](../../../aspose.pdf/xform/contents/) 
  Was made for performance increase, see also .
 
 ```csharp

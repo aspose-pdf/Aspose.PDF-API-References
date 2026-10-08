@@ -7,7 +7,7 @@ description: "EmbeddedFileCollection method. Copies array of FileSpecification o
 type: docs
 weight: 10
 url: "/net/aspose.pdf/embeddedfilecollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EmbeddedFileCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public void CopyTo(FileSpecification[] array, int index)
 
 ### See Also
 
-* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [FileSpecification](../../filespecification/)
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

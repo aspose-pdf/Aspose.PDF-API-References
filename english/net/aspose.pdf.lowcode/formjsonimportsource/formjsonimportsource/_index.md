@@ -7,11 +7,11 @@ description: "FormJsonImportSource constructor. Initializes a new instance of th
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formjsonimportsource/formjsonimportsource/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormJsonImportSource constructor
 
-Initializes a new instance of the [`FormJsonImportSource`](../../../aspose.pdf.lowcode/formjsonimportsource/) class.
+Initializes a new instance of the [`FormJsonImportSource`](../) class.
 
 ```csharp
 public FormJsonImportSource(IDataSource pdfSource, IDataSource jsonSource)
@@ -24,7 +24,7 @@ public FormJsonImportSource(IDataSource pdfSource, IDataSource jsonSource)
 
 ### See Also
 
-* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
+* interface [IDataSource](../../idatasource/)
 * class [FormJsonImportSource](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

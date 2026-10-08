@@ -7,7 +7,7 @@ description: "PopupAnnotation property. Gets or sets a flag specifying whether t
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/popupannotation/open/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PopupAnnotation.Open property
 

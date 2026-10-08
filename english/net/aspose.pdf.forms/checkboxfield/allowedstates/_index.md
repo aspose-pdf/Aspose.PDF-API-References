@@ -7,7 +7,7 @@ description: "CheckboxField property. Returns list of allowed states."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/checkboxfield/allowedstates/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CheckboxField.AllowedStates property
 

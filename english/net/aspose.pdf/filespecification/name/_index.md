@@ -7,7 +7,7 @@ description: "FileSpecification property. Gets or sets file specification name."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/filespecification/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSpecification.Name property
 

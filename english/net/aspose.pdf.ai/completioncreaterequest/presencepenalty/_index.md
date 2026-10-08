@@ -7,7 +7,7 @@ description: "CompletionCreateRequest property. Gets or sets number between -2.0
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/completioncreaterequest/presencepenalty/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionCreateRequest.PresencePenalty property
 

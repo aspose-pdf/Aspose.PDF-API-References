@@ -7,9 +7,9 @@ description: "WidgetAnnotation method. Exports the specified PDF form field to J
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/widgetannotation/exporttojson/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## ExportToJson(Stream, [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)) {#exporttojson}
+## ExportToJson(Stream, ExportFieldsToJsonOptions) {#exporttojson}
 
 Exports the specified PDF form field to JSON format and writes the result to the provided stream.
 
@@ -39,6 +39,7 @@ fs.Close();
 
 ### See Also
 
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
 * class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -46,7 +47,7 @@ fs.Close();
 
 ---
 
-## ExportToJson(string, [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)) {#exporttojson_1}
+## ExportToJson(string, ExportFieldsToJsonOptions) {#exporttojson_1}
 
 Exports the specified PDF form field to JSON format and writes the result to the specified file.
 
@@ -75,6 +76,7 @@ annotation.ExportToJson(jsonPath);
 
 ### See Also
 
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
 * class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)

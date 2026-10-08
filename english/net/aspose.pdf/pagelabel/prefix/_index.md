@@ -7,7 +7,7 @@ description: "PageLabel property. Gets or sets page number prefix."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pagelabel/prefix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageLabel.Prefix property
 

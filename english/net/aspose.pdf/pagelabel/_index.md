@@ -8,7 +8,7 @@ type: docs
 weight: 2190
 url: "/net/aspose.pdf/pagelabel/"
 keywords: "PageLabel, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageLabel class
 
@@ -22,15 +22,15 @@ public class PageLabel
 
 | Name | Description |
 | --- | --- |
-| [PageLabel](./pagelabel/)() | Constructor for page label. |
+| [PageLabel](pagelabel/)() | Constructor for page label. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [NumberingStyle](./numberingstyle/) { get; set; } | Gets or sets numbering style. |
-| [Prefix](./prefix/) { get; set; } | Gets or sets page number prefix. |
-| [StartingValue](./startingvalue/) { get; set; } | Gets or sets starting value of the page numbering range. |
+| [NumberingStyle](../../aspose.pdf/pagelabel/numberingstyle/) { get; set; } | Gets or sets numbering style. |
+| [Prefix](../../aspose.pdf/pagelabel/prefix/) { get; set; } | Gets or sets page number prefix. |
+| [StartingValue](../../aspose.pdf/pagelabel/startingvalue/) { get; set; } | Gets or sets starting value of the page numbering range. |
 
 ### See Also
 

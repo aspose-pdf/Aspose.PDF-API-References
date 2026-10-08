@@ -7,7 +7,7 @@ description: "EncryptionParameters property. Gets the key length."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.security/encryptionparameters/keylength/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EncryptionParameters.KeyLength property
 

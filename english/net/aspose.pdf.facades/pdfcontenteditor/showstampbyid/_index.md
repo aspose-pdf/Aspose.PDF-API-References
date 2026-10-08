@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Shows stamp which was hidden by HiddenSta
 type: docs
 weight: 580
 url: "/net/aspose.pdf.facades/pdfcontenteditor/showstampbyid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.ShowStampById method
 

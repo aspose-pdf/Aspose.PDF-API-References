@@ -7,7 +7,7 @@ description: "PdfXmpMetadata method. Determines does this dictionary contasins s
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/containskey/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata.ContainsKey method
 

@@ -7,7 +7,7 @@ description: "XImage property. Gets image filter type."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/ximage/filtertype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImage.FilterType property
 
@@ -19,7 +19,7 @@ public ImageFilterType FilterType { get; }
 
 ### See Also
 
-* enum [ImageFilterType](../../../aspose.pdf/imagefiltertype/)
+* enum [ImageFilterType](../../imagefiltertype/)
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

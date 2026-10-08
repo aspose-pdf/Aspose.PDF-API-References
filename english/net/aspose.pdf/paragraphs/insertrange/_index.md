@@ -7,7 +7,7 @@ description: "Paragraphs method. Inserts the elements of a collection into the l
 type: docs
 weight: 80
 url: "/net/aspose.pdf/paragraphs/insertrange/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Paragraphs.InsertRange method
 
@@ -24,6 +24,7 @@ public void InsertRange(int index, IEnumerable<BaseParagraph> collection)
 
 ### See Also
 
+* class [BaseParagraph](../../baseparagraph/)
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

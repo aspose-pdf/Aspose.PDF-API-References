@@ -7,11 +7,11 @@ description: "CharInfoCollection property. Gets the number of CharInfo object el
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/charinfocollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CharInfoCollection.Count property
 
-Gets the number of [`CharInfo`](../../../aspose.pdf.text/charinfo/) object elements actually contained in the collection.
+Gets the number of [`CharInfo`](../../charinfo/) object elements actually contained in the collection.
 
 ```csharp
 public int Count { get; }

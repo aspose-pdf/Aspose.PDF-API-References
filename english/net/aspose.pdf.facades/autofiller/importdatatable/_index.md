@@ -7,7 +7,7 @@ description: "AutoFiller method. Imports data of DataTable type. Every column's 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/autofiller/importdatatable/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AutoFiller.ImportDataTable method
 

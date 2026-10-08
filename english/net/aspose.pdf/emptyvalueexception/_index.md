@@ -8,7 +8,7 @@ type: docs
 weight: 730
 url: "/net/aspose.pdf/emptyvalueexception/"
 keywords: "EmptyValueException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EmptyValueException class
 
@@ -22,14 +22,8 @@ public class EmptyValueException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [EmptyValueException](./emptyvalueexception/#constructor)() | Initializes a new instance of the [`EmptyValueException`](../../aspose.pdf/emptyvalueexception/) class. |
-| [EmptyValueException](./emptyvalueexception/#constructor_1)(string) | Constructor. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
+| [EmptyValueException](emptyvalueexception/#constructor)() | Initializes a new instance of the `EmptyValueException` class. |
+| [EmptyValueException](emptyvalueexception/#constructor_1)(string) | Constructor. |
 
 ### See Also
 

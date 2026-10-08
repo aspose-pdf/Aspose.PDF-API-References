@@ -7,7 +7,7 @@ description: "ImageDescriptionResult property. Gets or sets the file name."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/imagedescriptionresult/filepath/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageDescriptionResult.FilePath property
 

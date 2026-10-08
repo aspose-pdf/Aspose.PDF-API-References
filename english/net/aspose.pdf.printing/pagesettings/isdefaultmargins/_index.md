@@ -7,7 +7,7 @@ description: "PageSettings property."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.printing/pagesettings/isdefaultmargins/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageSettings.IsDefaultMargins property
 

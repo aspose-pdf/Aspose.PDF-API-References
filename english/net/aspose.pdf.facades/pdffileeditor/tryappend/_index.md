@@ -7,15 +7,12 @@ description: "PdfFileEditor method. Appends pages, which are chosen from array o
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/pdffileeditor/tryappend/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TryAppend(Stream, Stream[], int, int, Stream) {#tryappend}
 
 Appends pages, which are chosen from array of documents in portStreams.
  The result document includes firstInputFile and all portStreams documents pages in the range startPage to endPage.
-
-The TryAppend method is like the Append method, except the TryAppend 
- method does not throw an exception if the operation fails.
 
 ```csharp
 public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, int endPage, 
@@ -33,6 +30,11 @@ public bool TryAppend(Stream inputStream, Stream[] portStreams, int startPage, i
 ### Return Value
 
 True for success, or false.
+
+## Remarks
+
+The TryAppend method is like the Append method, except the TryAppend 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -58,9 +60,6 @@ bool result = fileEditor.TryAppend(instream, new Stream[] { stream1, stream2}, 3
 Appends pages, which are chosen from portFiles documents. 
  The result document includes firstInputFile and all portFiles documents pages in the range startPage to endPage.
 
-The TryAppend method is like the Append method, except the TryAppend 
- method does not throw an exception if the operation fails.
-
 ```csharp
 public bool TryAppend(string inputFile, string[] portFiles, int startPage, int endPage, 
     string outputFile)
@@ -77,6 +76,11 @@ public bool TryAppend(string inputFile, string[] portFiles, int startPage, int e
 ### Return Value
 
 true if operation completed successfully; otherwise, false.
+
+## Remarks
+
+The TryAppend method is like the Append method, except the TryAppend 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 

@@ -7,7 +7,7 @@ description: "Page property. Gets or sets background image for page (for generat
 type: docs
 weight: 360
 url: "/net/aspose.pdf/page/backgroundimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.BackgroundImage property
 
@@ -19,7 +19,7 @@ public Image BackgroundImage { get; set; }
 
 ### See Also
 
-* class [Image](../../../aspose.pdf/image/)
+* class [Image](../../image/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Page method. Retrieves the resources associated with the page."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/page/getresources/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.GetResources method
 
@@ -19,11 +19,11 @@ public Resources GetResources()
 
 ### Return Value
 
-A `Resources` object representing the resources of the page.
+A [`Resources`](../resources/) object representing the resources of the page.
 
 ### See Also
 
-* class [Resources](../../../aspose.pdf/resources/)
+* class [Resources](../../resources/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

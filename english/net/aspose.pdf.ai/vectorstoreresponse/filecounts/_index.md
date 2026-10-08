@@ -7,7 +7,7 @@ description: "VectorStoreResponse property. Gets or sets the number of files tha
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/vectorstoreresponse/filecounts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreResponse.FileCounts property
 
@@ -19,7 +19,7 @@ public FileCounts FileCounts { get; set; }
 
 ### See Also
 
-* class [FileCounts](../../../aspose.pdf.ai/filecounts/)
+* class [FileCounts](../../filecounts/)
 * class [VectorStoreResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

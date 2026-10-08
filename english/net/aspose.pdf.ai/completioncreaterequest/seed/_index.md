@@ -7,7 +7,7 @@ description: "CompletionCreateRequest property. Gets or sets the Seed value. Thi
 type: docs
 weight: 110
 url: "/net/aspose.pdf.ai/completioncreaterequest/seed/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionCreateRequest.Seed property
 

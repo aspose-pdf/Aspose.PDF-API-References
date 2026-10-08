@@ -7,7 +7,7 @@ description: "Aspose.Pdf.ContentDisposition enum. MIME protocol Content-Disposit
 type: docs
 weight: 440
 url: "/net/aspose.pdf/contentdisposition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ContentDisposition enumeration
 

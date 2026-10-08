@@ -7,7 +7,7 @@ description: "SignOptions property. The visiblity of signature."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/signoptions/visible/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignOptions.Visible property
 

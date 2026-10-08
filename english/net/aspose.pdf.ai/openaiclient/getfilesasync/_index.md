@@ -7,7 +7,7 @@ description: "OpenAIClient method. Retrieves a list of files asynchronously base
 type: docs
 weight: 250
 url: "/net/aspose.pdf.ai/openaiclient/getfilesasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIClient.GetFilesAsync method
 
@@ -29,6 +29,7 @@ A task that represents the asynchronous operation. The task result contains a li
 
 ### See Also
 
+* class [FileListResponse](../../filelistresponse/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

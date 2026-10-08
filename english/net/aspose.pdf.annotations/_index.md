@@ -3,16 +3,17 @@ title: "Aspose.Pdf.Annotations"
 linktitle: "Aspose.Pdf.Annotations"
 articleTitle: "Aspose.Pdf.Annotations"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The Aspose.Pdf.Annotations namespace provides classes."
+description: "The Aspose.Pdf.Annotations namespace provides classes for working with various types of actions, destinations and other features of document which traditiona..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/"
 keywords: "Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Overview
 
-The **Aspose.Pdf.Annotations** namespace provides classes.
+The **Aspose.Pdf.Annotations** namespace provides classes for working with various types of actions, destinations and other features of document 
+ which traditionally called as interactive providing means user can intercommunicate with it.
 
 Part of the [Aspose.PDF for .NET](../) API reference.
 
@@ -63,8 +64,6 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [LinkAnnotation](./linkannotation/) | Represents either a hypertext link to a destination elsewhere in the document or an action to be performed. |
 | [MarkupAnnotation](./markupannotation/) | Abstract class representing markup annotation. |
 | [Measure](./measure/) | Class which describes Measure coordinate system. |
-| [Measure.NumberFormat](./measure.numberformat/) | Number format for measure. |
-| [Measure.NumberFormatList](./measure.numberformatlist/) | Represents list of number formats. |
 | [MediaClip](./mediaclip/) | Class describes media clip object of rendition. |
 | [MediaClipData](./mediaclipdata/) | Class describes media clip data. |
 | [MediaClipSection](./mediaclipsection/) | This class descibes Media clip section. |
@@ -147,7 +146,6 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [LightingSchemeType](./lightingschemetype/) | Enum LightingSchemeType: set of lighting scheme types. |
 | [LineEnding](./lineending/) | Enumerates the line ending styles to be used in drawing the line. |
 | [LineIntent](./lineintent/) | Enumerates the intents of the line annotation. |
-| [Measure.NumberFormat.FractionStyle](./measure.numberformat.fractionstyle/) | Value which indicates in which manner fraction values are displayed. |
 | [PDF3DActivation](./pdf3dactivation/) | Enum PDF3DActivation: set of 3D annotation activation mode. |
 | [PolyIntent](./polyintent/) | Enumerates the intents of the polygon or polyline annotation. |
 | [PredefinedAction](./predefinedaction/) | Defines different actions which can be triggered from a PDF file. |
@@ -158,22 +156,10 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [RenditionOperation](./renditionoperation/) | The operation to perform when the action is triggered. |
 | [RenditionType](./renditiontype/) | Enumeration describes possible types of Rendition. |
 | [ReplyType](./replytype/) | Enumerates the kinds of the relationships (the "reply type") between the annotation and one specified by InReplyTo. |
-| [RichMediaAnnotation.ActivationEvent](./richmediaannotation.activationevent/) | Event which activates annotation. |
-| [RichMediaAnnotation.ContentType](./richmediaannotation.contenttype/) | Type of the multimedia. |
 | [RichTextFontStyles](./richtextfontstyles/) | Options for styling text fragments in RichText. |
 | [SoundEncoding](./soundencoding/) | The encoding format for the sample data. |
 | [SoundIcon](./soundicon/) | Enumerates the icons to be used in displaying the annotation. |
 | [SoundSampleDataEncodingFormat](./soundsampledataencodingformat/) | The encoding format for the sound sample data. |
 | [StampIcon](./stampicon/) | Enumerates the icons to be used in displaying the annotation. |
 | [TextIcon](./texticon/) | Enumerates the icons to be used in displaying the annotation. |
-
-## FAQ
-
-### What classes does the Aspose.Pdf.Annotations namespace contain?
-
-[ActionCollection](./actioncollection/), [Annotation](./annotation/), [AnnotationActionCollection](./annotationactioncollection/), [AnnotationCollection](./annotationcollection/), [AnnotationSelector](./annotationselector/), and 91 more.
-
-### How many types are in the Aspose.Pdf.Annotations namespace?
-
-The Aspose.Pdf.Annotations namespace contains 136 types, listed above.
 

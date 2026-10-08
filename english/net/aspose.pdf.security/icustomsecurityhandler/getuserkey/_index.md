@@ -7,7 +7,7 @@ description: "ICustomSecurityHandler method. Creates an encoded array based on t
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security/icustomsecurityhandler/getuserkey/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ICustomSecurityHandler.GetUserKey method
 

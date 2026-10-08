@@ -7,7 +7,7 @@ description: "VectorStore property. Gets or sets a set of 16 key-value pairs tha
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/vectorstore/metadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStore.Metadata property
 

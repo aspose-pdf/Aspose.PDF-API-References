@@ -7,7 +7,7 @@ description: "Row property. Gets is row can be broken between two pages"
 type: docs
 weight: 100
 url: "/net/aspose.pdf/row/isrowbroken/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Row.IsRowBroken property
 

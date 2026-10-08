@@ -7,7 +7,7 @@ description: "BaseOperatorCollection method. Resumes document update. Updates co
 type: docs
 weight: 40
 url: "/net/aspose.pdf/baseoperatorcollection/resumeupdate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseOperatorCollection.ResumeUpdate method
 

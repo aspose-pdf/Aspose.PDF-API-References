@@ -7,7 +7,7 @@ description: "Stamp property. Gets or sets vertical alignment of stamp on page."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/stamp/verticalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.VerticalAlignment property
 
@@ -19,7 +19,7 @@ public VerticalAlignment VerticalAlignment { get; set; }
 
 ### See Also
 
-* enum [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
+* enum [VerticalAlignment](../../verticalalignment/)
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

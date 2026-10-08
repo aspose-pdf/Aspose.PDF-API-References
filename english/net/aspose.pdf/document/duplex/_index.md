@@ -7,7 +7,7 @@ description: "Document property. Gets or sets print duplex mode handling option 
 type: docs
 weight: 1410
 url: "/net/aspose.pdf/document/duplex/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.Duplex property
 
@@ -19,7 +19,7 @@ public PrintDuplex Duplex { get; set; }
 
 ### See Also
 
-* enum [PrintDuplex](../../../aspose.pdf/printduplex/)
+* enum [PrintDuplex](../../printduplex/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

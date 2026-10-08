@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionObject property. Gets or sets the value."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/xmppdfaextensionobject/value/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionObject.Value property
 

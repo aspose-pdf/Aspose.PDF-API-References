@@ -7,7 +7,7 @@ description: "Point property. Gets point with zero coordinates."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/point/trivial/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Point.Trivial property
 
@@ -19,7 +19,7 @@ public static Point Trivial { get; }
 
 ### See Also
 
-* class [Point](../../../aspose.pdf/point/)
+* class [Point](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

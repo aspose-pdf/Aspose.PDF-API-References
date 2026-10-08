@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Annotation; PDF 1.5) An association 
 type: docs
 weight: 430
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/annot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.Annot field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard Annot;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

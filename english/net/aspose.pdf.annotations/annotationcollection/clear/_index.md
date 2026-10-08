@@ -7,7 +7,7 @@ description: "AnnotationCollection method. Deletes all annotations from the coll
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/annotationcollection/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AnnotationCollection.Clear method
 

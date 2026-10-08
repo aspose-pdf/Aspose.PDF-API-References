@@ -7,7 +7,7 @@ description: "PdfFileInfo property. Gets or sets the Author information of PDF d
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/pdffileinfo/author/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.Author property
 

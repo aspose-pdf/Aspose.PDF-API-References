@@ -7,7 +7,7 @@ description: "ImageDescription property. Gets or sets the name of the image."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/imagedescription/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageDescription.Name property
 

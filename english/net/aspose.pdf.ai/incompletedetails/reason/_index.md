@@ -7,7 +7,7 @@ description: "IncompleteDetails property. Gets or sets the reason why the messag
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/incompletedetails/reason/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IncompleteDetails.Reason property
 

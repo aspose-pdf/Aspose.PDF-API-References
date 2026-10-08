@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.PrinterMarksKind enum. Specifies the types 
 type: docs
 weight: 1000
 url: "/net/aspose.pdf.annotations/printermarkskind/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterMarksKind enumeration
 
@@ -27,8 +27,8 @@ public enum PrinterMarksKind
 | BleedMarks | `2` | Specifies that bleed marks are to be added. |
 | RegistrationMarks | `4` | Specifies that registration marks are to be added. |
 | ColorBars | `8` | Specifies that color bars are to be added. |
-| PageInformation | `16` | Specifies that page information is to be added. |
-| All | `31` | Specifies that all types of printer's marks are to be added. |
+| PageInformation | `10` | Specifies that page information is to be added. |
+| All | `1F` | Specifies that all types of printer's marks are to be added. |
 
 ## Remarks
 

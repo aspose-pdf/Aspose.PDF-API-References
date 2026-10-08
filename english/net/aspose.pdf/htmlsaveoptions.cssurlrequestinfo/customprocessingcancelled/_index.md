@@ -7,7 +7,7 @@ description: "CssUrlRequestInfo field. Should be set by custom code if it cannot
 type: docs
 weight: 20
 url: "/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/customprocessingcancelled/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.CssUrlRequestInfo.CustomProcessingCancelled field
 
@@ -21,7 +21,7 @@ public bool CustomProcessingCancelled;
 
 ### See Also
 
-* class [HtmlSaveOptions.CssUrlRequestInfo](../)
+* class [CssUrlRequestInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

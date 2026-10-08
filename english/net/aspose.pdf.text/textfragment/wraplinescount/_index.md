@@ -7,7 +7,7 @@ description: "TextFragment property. Gets or sets wrap lines count for this para
 type: docs
 weight: 200
 url: "/net/aspose.pdf.text/textfragment/wraplinescount/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragment.WrapLinesCount property
 

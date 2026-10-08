@@ -7,7 +7,7 @@ description: "SoundAnnotation property. Gets or sets an icon to be used in displ
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/soundannotation/icon/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SoundAnnotation.Icon property
 
@@ -19,7 +19,7 @@ public SoundIcon Icon { get; set; }
 
 ### See Also
 
-* enum [SoundIcon](../../../aspose.pdf.annotations/soundicon/)
+* enum [SoundIcon](../../soundicon/)
 * class [SoundAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

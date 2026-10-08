@@ -7,7 +7,7 @@ description: "ImageStamp property. Gets and sets vertical stamp coordinate, star
 type: docs
 weight: 80
 url: "/net/aspose.pdf/imagestamp/yindent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageStamp.YIndent property
 

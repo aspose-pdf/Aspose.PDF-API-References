@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute WritingMode: TbRl - Inline progress
 type: docs
 weight: 120
 url: "/net/aspose.pdf.logicalstructure/attributename/writingmode_tbrl/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.WritingMode_TbRl field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName WritingMode_TbRl;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

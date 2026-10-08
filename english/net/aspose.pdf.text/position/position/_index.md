@@ -7,11 +7,11 @@ description: "Position constructor. Initializes a new instance of Position class
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/position/position/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Position constructor
 
-Initializes a new instance of [`Position`](../../../aspose.pdf.text/position/) class
+Initializes a new instance of [`Position`](../) class
 
 ```csharp
 public Position(double xIndent, double yIndent)

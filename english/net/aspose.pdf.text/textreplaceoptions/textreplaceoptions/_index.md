@@ -7,31 +7,11 @@ description: "TextReplaceOptions constructor. Initializes new instance of the Te
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textreplaceoptions/textreplaceoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## TextReplaceOptions(ReplaceAdjustment) {#constructor}
+## TextReplaceOptions(Scope) {#constructor}
 
-Initializes new instance of the [`TextReplaceOptions`](../../../aspose.pdf.text/textreplaceoptions/) object for the specified after replace action.
-
-```csharp
-public TextReplaceOptions(ReplaceAdjustment adjustment)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| adjustment | ReplaceAdjustment | ReplaceAdjustment object. |
-
-### See Also
-
-* class [TextReplaceOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TextReplaceOptions(Scope) {#constructor_1}
-
-Initializes new instance of the [`TextReplaceOptions`](../../../aspose.pdf.text/textreplaceoptions/) object for the specified scope.
+Initializes new instance of the [`TextReplaceOptions`](../) object for the specified scope.
 
 ```csharp
 public TextReplaceOptions(Scope scope)
@@ -43,6 +23,28 @@ public TextReplaceOptions(Scope scope)
 
 ### See Also
 
+* enum [Scope](../../textreplaceoptions.scope/)
+* class [TextReplaceOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TextReplaceOptions(ReplaceAdjustment) {#constructor_1}
+
+Initializes new instance of the [`TextReplaceOptions`](../) object for the specified after replace action.
+
+```csharp
+public TextReplaceOptions(ReplaceAdjustment adjustment)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| adjustment | ReplaceAdjustment | ReplaceAdjustment object. |
+
+### See Also
+
+* enum [ReplaceAdjustment](../../textreplaceoptions.replaceadjustment/)
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

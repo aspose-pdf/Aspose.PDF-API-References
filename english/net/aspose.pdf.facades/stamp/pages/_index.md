@@ -7,7 +7,7 @@ description: "Stamp property. Gets or sets array with numbers of pages which wil
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/stamp/pages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.Pages property
 

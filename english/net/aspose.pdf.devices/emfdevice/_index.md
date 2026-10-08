@@ -8,7 +8,7 @@ type: docs
 weight: 80
 url: "/net/aspose.pdf.devices/emfdevice/"
 keywords: "EmfDevice, Aspose.Pdf.Devices, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EmfDevice class
 
@@ -22,12 +22,12 @@ public sealed class EmfDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [EmfDevice](./emfdevice/#constructor)() | Initializes a new instance of the [`EmfDevice`](../../aspose.pdf.devices/emfdevice/) class with default resolution of raster image written to emf. |
-| [EmfDevice](./emfdevice/#constructor_1)(PageSize) | Initializes a new instance of the [`EmfDevice`](../../aspose.pdf.devices/emfdevice/) class with provided page size, and default resolution for the raster image written to emf (=150) |
-| [EmfDevice](./emfdevice/#constructor_2)(Resolution) | Initializes a new instance of the [`EmfDevice`](../../aspose.pdf.devices/emfdevice/) class. |
-| [EmfDevice](./emfdevice/#constructor_3)(int, int) | Initializes a new instance of the [`EmfDevice`](../../aspose.pdf.devices/emfdevice/) class with provided image dimensions, and default resolution for the raster image written to emf (=150) |
-| [EmfDevice](./emfdevice/#constructor_4)(PageSize, Resolution) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with provided page size, and resolution for the raster image written to emf. |
-| [EmfDevice](./emfdevice/#constructor_5)(int, int, Resolution) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with provided image dimensions, and resolution for the raster image written to emf. |
+| [EmfDevice](emfdevice/#constructor)() | Initializes a new instance of the `EmfDevice` class with default resolution of raster image written to emf. |
+| [EmfDevice](emfdevice/#constructor_1)(Resolution) | Initializes a new instance of the `EmfDevice` class. Resolution for the raster image written to emf, see [`Resolution`](../resolution/) class. |
+| [EmfDevice](emfdevice/#constructor_2)(int, int) | Initializes a new instance of the `EmfDevice` class with provided image dimensions, and default resolution for the raster image written to emf (=150) |
+| [EmfDevice](emfdevice/#constructor_3)(PageSize) | Initializes a new instance of the `EmfDevice` class with provided page size, and default resolution for the raster image written to emf (=150) |
+| [EmfDevice](emfdevice/#constructor_4)(int, int, Resolution) | Initializes a new instance of the [`JpegDevice`](../jpegdevice/) class with provided image dimensions, and resolution for the raster image written to emf. |
+| [EmfDevice](emfdevice/#constructor_5)(PageSize, Resolution) | Initializes a new instance of the [`JpegDevice`](../jpegdevice/) class with provided page size, and resolution for the raster image written to emf. |
 
 ## Properties
 
@@ -44,8 +44,9 @@ public sealed class EmfDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Converts the page into `Bitmap`. |
-| override [Process](./process/)(Page, Stream) | Converts the page into emf and saves it in the output stream. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Converts the page into Bitmap. |
+| override [Process](../../aspose.pdf.devices/emfdevice/process/)(Page, Stream) | Converts the page into emf and saves it in the output stream. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
 
 ### See Also
 

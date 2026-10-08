@@ -7,7 +7,7 @@ description: "PdfAction method. Gets string for ECMAScript Action."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdfaction/getecmascriptstring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAction.GetECMAScriptString method
 

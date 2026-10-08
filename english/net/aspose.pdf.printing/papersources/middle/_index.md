@@ -7,7 +7,7 @@ description: "PaperSources field. Represents the middle bin of the printer."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/papersources/middle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSources.Middle field
 
@@ -19,7 +19,7 @@ public static readonly PaperSource Middle;
 
 ### See Also
 
-* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSource](../../papersource/)
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

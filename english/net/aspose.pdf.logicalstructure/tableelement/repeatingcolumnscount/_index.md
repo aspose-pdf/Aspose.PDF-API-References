@@ -7,7 +7,7 @@ description: "TableElement property. Gets or sets the maximum columns count for 
 type: docs
 weight: 200
 url: "/net/aspose.pdf.logicalstructure/tableelement/repeatingcolumnscount/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableElement.RepeatingColumnsCount property
 

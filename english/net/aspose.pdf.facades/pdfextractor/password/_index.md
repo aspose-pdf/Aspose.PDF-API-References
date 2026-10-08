@@ -7,7 +7,7 @@ description: "PdfExtractor property. Gets or sets input file's password."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.facades/pdfextractor/password/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractor.Password property
 

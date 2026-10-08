@@ -7,7 +7,7 @@ description: "PdfFormatConversionOptions property. Gets or sets whether to pass 
 type: docs
 weight: 270
 url: "/net/aspose.pdf/pdfformatconversionoptions/istransferinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.IsTransferInfo property
 

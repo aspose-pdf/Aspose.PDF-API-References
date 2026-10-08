@@ -7,11 +7,17 @@ description: "TextFragment property. Gets or sets text state for the text that T
 type: docs
 weight: 130
 url: "/net/aspose.pdf.text/textfragment/textstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragment.TextState property
 
-Gets or sets text state for the text that [`TextFragment`](../../../aspose.pdf.text/textfragment/) object represents.
+Gets or sets text state for the text that [`TextFragment`](../) object represents.
+
+```csharp
+public TextFragmentState TextState { get; }
+```
+
+## Remarks
 
 Provides a way to change following properties of the text:
  Font
@@ -19,10 +25,6 @@ Provides a way to change following properties of the text:
  FontStyle
  ForegroundColor
  BackgroundColor
-
-```csharp
-public TextFragmentState TextState { get; }
-```
 
 ## Examples
 
@@ -52,7 +54,7 @@ doc.Save(@"D:\Tests\output.pdf");
 
 * [TextFragmentAbsorber](../textfragmentabsorber/)
 * [Document](../document/)
-* class [TextFragmentState](../../../aspose.pdf.text/textfragmentstate/)
+* class [TextFragmentState](../../textfragmentstate/)
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

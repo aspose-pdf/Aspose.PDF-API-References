@@ -8,7 +8,7 @@ type: docs
 weight: 2250
 url: "/net/aspose.pdf/pagenumber.pagetotalnum/"
 keywords: "PageNumber.PageTotalNum, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageNumber.PageTotalNum class
 
@@ -22,7 +22,7 @@ public sealed class PageTotalNum
 
 | Name | Description |
 | --- | --- |
-| [PageTotalNum](./pagetotalnum/)() | The default constructor. |
+| [PageTotalNum](pagetotalnum/)() | The default constructor. |
 
 ### See Also
 

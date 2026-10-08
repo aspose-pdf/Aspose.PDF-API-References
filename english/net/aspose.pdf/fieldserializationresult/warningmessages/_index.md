@@ -7,7 +7,7 @@ description: "FieldSerializationResult property. Gets the warning messages assoc
 type: docs
 weight: 30
 url: "/net/aspose.pdf/fieldserializationresult/warningmessages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FieldSerializationResult.WarningMessages property
 

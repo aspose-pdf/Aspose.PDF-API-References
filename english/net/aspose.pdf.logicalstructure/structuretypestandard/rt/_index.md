@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Ruby annotation text) The smaller-si
 type: docs
 weight: 460
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/rt/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.RT field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard RT;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

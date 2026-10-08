@@ -7,7 +7,7 @@ description: "TextExtractionErrorLocation property. Text showing operator that c
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/textextractionerrorlocation/operatorstring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextExtractionErrorLocation.OperatorString property
 

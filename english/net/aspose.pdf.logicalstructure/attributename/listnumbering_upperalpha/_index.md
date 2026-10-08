@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute ListNumbering: UpperAlpha - Upperca
 type: docs
 weight: 590
 url: "/net/aspose.pdf.logicalstructure/attributename/listnumbering_upperalpha/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.ListNumbering_UpperAlpha field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName ListNumbering_UpperAlpha;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

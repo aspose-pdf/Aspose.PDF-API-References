@@ -7,7 +7,7 @@ description: "TextSegment property. Gets ending character index of current segme
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/textsegment/endcharindex/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSegment.EndCharIndex property
 

@@ -7,7 +7,7 @@ description: "TextDevice method. Convert page and save it as text stream."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.devices/textdevice/process/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextDevice.Process method
 

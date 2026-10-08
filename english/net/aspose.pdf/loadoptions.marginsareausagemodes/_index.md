@@ -7,7 +7,7 @@ description: "Aspose.Pdf.LoadOptions.MarginsAreaUsageModes enum. Represents mode
 type: docs
 weight: 1760
 url: "/net/aspose.pdf/loadoptions.marginsareausagemodes/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LoadOptions.MarginsAreaUsageModes enumeration
 
@@ -23,12 +23,8 @@ public enum MarginsAreaUsageModes
 
 | Name | Value | Description |
 | --- | --- | --- |
-| PutContentOnMarginAreaIfNecessary | `0` | In this mode converter obeyes format of imported document (f.e. CSS of imported HTML)
- in usage of margins area.So, if format of imported document requires usage 
- of margins area for rendering , converter will allow that |
-| NeverPutContentOnMarginArea | `1` | This mode strictly forbids usage of margins area,
- so, converter will never use area of margins for rendering,
- even if CSS or format of source document allows or requirs that |
+| PutContentOnMarginAreaIfNecessary | `0` | In this mode converter obeyes format of imported document (f.e. CSS of imported HTML) in usage of margins area.So, if format of imported document requires usage of margins area for rendering , converter will allow that |
+| NeverPutContentOnMarginArea | `1` | This mode strictly forbids usage of margins area, so, converter will never use area of margins for rendering, even if CSS or format of source document allows or requirs that |
 
 ### See Also
 

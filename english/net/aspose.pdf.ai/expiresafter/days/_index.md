@@ -7,7 +7,7 @@ description: "ExpiresAfter property. Gets or sets the number of days after the a
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/expiresafter/days/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExpiresAfter.Days property
 

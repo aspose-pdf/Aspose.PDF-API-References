@@ -7,7 +7,7 @@ description: "TableElement property. Gets the style for repeating rows."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.logicalstructure/tableelement/repeatingrowsstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableElement.RepeatingRowsStyle property
 

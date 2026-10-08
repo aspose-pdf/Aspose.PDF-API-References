@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Artifact.ArtifactSubtype enum. Enumeration of possible 
 type: docs
 weight: 60
 url: "/net/aspose.pdf/artifact.artifactsubtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.ArtifactSubtype enumeration
 

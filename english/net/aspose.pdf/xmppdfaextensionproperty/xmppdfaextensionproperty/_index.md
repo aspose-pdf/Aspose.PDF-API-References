@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionProperty constructor. Initializes new object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xmppdfaextensionproperty/xmppdfaextensionproperty/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionProperty constructor
 
@@ -28,7 +28,7 @@ public XmpPdfAExtensionProperty(string name, string value, string valueType,
 
 ### See Also
 
-* enum [XmpPdfAExtensionCategoryType](../../../aspose.pdf/xmppdfaextensioncategorytype/)
+* enum [XmpPdfAExtensionCategoryType](../../xmppdfaextensioncategorytype/)
 * class [XmpPdfAExtensionProperty](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

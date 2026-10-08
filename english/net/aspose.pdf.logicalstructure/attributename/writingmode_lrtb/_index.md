@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute WritingMode: LrTb - Inline progress
 type: docs
 weight: 100
 url: "/net/aspose.pdf.logicalstructure/attributename/writingmode_lrtb/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.WritingMode_LrTb field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName WritingMode_LrTb;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

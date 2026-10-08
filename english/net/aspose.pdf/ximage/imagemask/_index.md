@@ -7,7 +7,7 @@ description: "XImage property. Gets a flag indicating whether the image shall be
 type: docs
 weight: 210
 url: "/net/aspose.pdf/ximage/imagemask/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImage.ImageMask property
 

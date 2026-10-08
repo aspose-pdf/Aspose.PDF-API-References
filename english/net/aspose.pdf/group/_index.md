@@ -8,7 +8,7 @@ type: docs
 weight: 1010
 url: "/net/aspose.pdf/group/"
 keywords: "Group, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Group class
 
@@ -22,13 +22,13 @@ public sealed class Group
 
 | Name | Description |
 | --- | --- |
-| [Group](./group/)(Page) | The constructor. |
+| [Group](group/)(Page) | The constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ColorSpace](./colorspace/) { get; set; } | The group color space. |
+| [ColorSpace](../../aspose.pdf/group/colorspace/) { get; set; } | The group color space. |
 
 ### See Also
 

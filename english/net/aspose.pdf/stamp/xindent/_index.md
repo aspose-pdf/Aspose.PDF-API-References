@@ -7,7 +7,7 @@ description: "Stamp property. Horizontal stamp coordinate, starting from the lef
 type: docs
 weight: 90
 url: "/net/aspose.pdf/stamp/xindent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.XIndent property
 

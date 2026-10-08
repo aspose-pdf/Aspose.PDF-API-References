@@ -7,7 +7,7 @@ description: "YearComponent method. Gets the format string for the year componen
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagedate.yearcomponent/getformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageDate.YearComponent.GetFormat method
 
@@ -23,7 +23,7 @@ A string representing the year format.
 
 ### See Also
 
-* class [PageDate.YearComponent](../)
+* class [YearComponent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

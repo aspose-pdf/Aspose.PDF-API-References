@@ -7,7 +7,7 @@ description: "HiddenDataSanitizationOptions property. Gets or sets the option to
 type: docs
 weight: 50
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/imagedpi/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HiddenDataSanitizationOptions.ImageDpi property
 

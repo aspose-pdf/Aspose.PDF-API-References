@@ -8,7 +8,7 @@ type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/form.formimportresult/"
 keywords: "Form.FormImportResult, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.FormImportResult class
 
@@ -22,8 +22,8 @@ public class FormImportResult
 
 | Name | Description |
 | --- | --- |
-| [FieldName](./fieldname/) { get; } | Full name of the field. |
-| [Status](./status/) { get; } | Status of field import. |
+| [FieldName](../../aspose.pdf.facades/form.formimportresult/fieldname/) { get; } | Full name of the field. |
+| [Status](../../aspose.pdf.facades/form.formimportresult/status/) { get; } | Status of field import. |
 
 ### See Also
 

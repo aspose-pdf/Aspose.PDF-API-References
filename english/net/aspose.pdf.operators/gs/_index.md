@@ -8,7 +8,7 @@ type: docs
 weight: 320
 url: "/net/aspose.pdf.operators/gs/"
 keywords: "GS, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GS class
 
@@ -22,22 +22,21 @@ public class GS : Operator
 
 | Name | Description |
 | --- | --- |
-| [GS](./gs/)(string) | Initializes gs operator. |
+| [GS](gs/)(string) | Initializes gs operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [Name](./name/) { get; set; } | Gets or sets name of graphic state resource. |
+| [Name](../../aspose.pdf.operators/gs/name/) { get; set; } | Gets or sets name of graphic state resource. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Returns string representation of operator. |
+| override [Accept](../../aspose.pdf.operators/gs/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/gs/tostring/)() | Returns string representation of operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also

@@ -7,7 +7,7 @@ description: "PdfActionCollection property. Gets action by its index."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/pdfactioncollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfActionCollection indexer
 
@@ -27,7 +27,7 @@ Action index if found; otherwise, throws IndexOutOfRangeException
 
 ### See Also
 
-* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [PdfAction](../../pdfaction/)
 * class [PdfActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

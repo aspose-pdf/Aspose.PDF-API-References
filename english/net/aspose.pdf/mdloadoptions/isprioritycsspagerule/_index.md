@@ -7,7 +7,7 @@ description: "MdLoadOptions property. Gets or sets the flag that specifies that 
 type: docs
 weight: 30
 url: "/net/aspose.pdf/mdloadoptions/isprioritycsspagerule/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MdLoadOptions.IsPriorityCssPageRule property
 

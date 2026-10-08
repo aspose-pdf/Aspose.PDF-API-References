@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionField constructor. Initializes object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xmppdfaextensionfield/xmppdfaextensionfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionField constructor
 

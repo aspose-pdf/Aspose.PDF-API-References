@@ -7,7 +7,7 @@ description: "DiffOperation property. Gets and sets operation type."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.comparison/diffoperation/operation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DiffOperation.Operation property
 
@@ -19,7 +19,7 @@ public Operation Operation { get; }
 
 ### See Also
 
-* enum [Operation](../../../aspose.pdf.comparison/operation/)
+* enum [Operation](../../operation/)
 * class [DiffOperation](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

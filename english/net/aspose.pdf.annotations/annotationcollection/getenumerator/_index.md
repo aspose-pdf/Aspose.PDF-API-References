@@ -7,7 +7,7 @@ description: "AnnotationCollection method. Returns collection enumerator."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/annotationcollection/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AnnotationCollection.GetEnumerator method
 
@@ -23,6 +23,7 @@ Enumerator object
 
 ### See Also
 
+* class [Annotation](../../annotation/)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

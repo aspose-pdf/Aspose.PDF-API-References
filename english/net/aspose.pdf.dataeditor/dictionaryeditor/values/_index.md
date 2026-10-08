@@ -7,11 +7,11 @@ description: "DictionaryEditor property. Gets an ICollection containing the valu
 type: docs
 weight: 160
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/values/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DictionaryEditor.Values property
 
-Gets an `ICollection` containing the values in the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/).
+Gets an `ICollection` containing the values in the [`DictionaryEditor`](../).
 
 ```csharp
 public ICollection<ICosPdfPrimitive> Values { get; }
@@ -19,6 +19,7 @@ public ICollection<ICosPdfPrimitive> Values { get; }
 
 ### See Also
 
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
 * class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)

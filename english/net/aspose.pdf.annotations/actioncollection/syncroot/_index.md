@@ -7,7 +7,7 @@ description: "ActionCollection property. Gets synchronization object."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/actioncollection/syncroot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ActionCollection.SyncRoot property
 

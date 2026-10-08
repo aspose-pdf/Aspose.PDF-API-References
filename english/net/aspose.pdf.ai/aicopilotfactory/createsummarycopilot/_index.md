@@ -7,7 +7,7 @@ description: "AICopilotFactory method. Creates a summary copilot based on the cl
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/aicopilotfactory/createsummarycopilot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AICopilotFactory.CreateSummaryCopilot&lt;TOptions&gt; method
 
@@ -18,18 +18,11 @@ public static ISummaryCopilot CreateSummaryCopilot<TOptions>(ISummaryClient<TOpt
     ISummaryCopilotOptions<TOptions> options)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| client | ISummaryClient`1 |  |
-| options | ISummaryCopilotOptions`1 |  |
-
-### Return Value
-
-[ISummaryCopilot](../../../aspose.pdf.ai/isummarycopilot/)
-
 ### See Also
 
-* interface [ISummaryCopilot](../../../aspose.pdf.ai/isummarycopilot/)
+* interface [ISummaryCopilot](../../isummarycopilot/)
+* interface [ISummaryClient&lt;TOptions&gt;](../../isummaryclient-1/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
 * class [AICopilotFactory](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

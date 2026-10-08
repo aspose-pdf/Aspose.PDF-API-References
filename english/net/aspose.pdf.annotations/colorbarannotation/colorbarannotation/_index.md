@@ -7,7 +7,7 @@ description: "ColorBarAnnotation constructor. Creates new ColorBar annotation on
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/colorbarannotation/colorbarannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ColorBarAnnotation constructor
 
@@ -26,8 +26,8 @@ public ColorBarAnnotation(Page page, Rectangle rect, ColorsOfCMYK colorOfCMYK = 
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* enum [ColorsOfCMYK](../../../aspose.pdf.annotations/colorsofcmyk/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* enum [ColorsOfCMYK](../../colorsofcmyk/)
 * class [ColorBarAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

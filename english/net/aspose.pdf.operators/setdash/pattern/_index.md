@@ -7,7 +7,7 @@ description: "SetDash property. Dash pattern. Array's elements shall be numbers 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/setdash/pattern/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetDash.Pattern property
 

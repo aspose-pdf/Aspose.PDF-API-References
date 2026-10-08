@@ -7,7 +7,7 @@ description: "TextSegmentCollection method. Adds the text segment element at the
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textsegmentcollection/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSegmentCollection.Add method
 
@@ -23,7 +23,7 @@ public void Add(TextSegment segment)
 
 ### See Also
 
-* class [TextSegment](../../../aspose.pdf.text/textsegment/)
+* class [TextSegment](../../textsegment/)
 * class [TextSegmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

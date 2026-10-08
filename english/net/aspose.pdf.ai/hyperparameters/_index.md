@@ -8,7 +8,7 @@ type: docs
 weight: 450
 url: "/net/aspose.pdf.ai/hyperparameters/"
 keywords: "Hyperparameters, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Hyperparameters class
 
@@ -22,13 +22,13 @@ public class Hyperparameters
 
 | Name | Description |
 | --- | --- |
-| [Hyperparameters](./hyperparameters/)() | The default constructor. |
+| [Hyperparameters](hyperparameters/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BatchSize](./batchsize/) { get; set; } | Gets or sets number of examples in each batch. |
+| [BatchSize](../../aspose.pdf.ai/hyperparameters/batchsize/) { get; set; } | Gets or sets number of examples in each batch. |
 
 ### See Also
 

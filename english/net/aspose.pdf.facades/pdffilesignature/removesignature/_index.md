@@ -7,9 +7,9 @@ description: "PdfFileSignature method. Remove the signature according to the nam
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/pdffilesignature/removesignature/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## RemoveSignature([SignatureName](../../../aspose.pdf.facades/signaturename/)) {#removesignature}
+## RemoveSignature(SignatureName) {#removesignature}
 
 Remove the signature according to the name of the signature.
 
@@ -47,14 +47,14 @@ pdfSign.Save(TestPath + "signed_removed.pdf")
 
 ### See Also
 
-* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## RemoveSignature([SignatureName](../../../aspose.pdf.facades/signaturename/), bool) {#removesignature_1}
+## RemoveSignature(SignatureName, bool) {#removesignature_1}
 
 Removes the signature according to the name of the signature.
 
@@ -93,7 +93,7 @@ pdfSign.Save(TestPath + "signed_removed.pdf")
 
 ### See Also
 
-* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

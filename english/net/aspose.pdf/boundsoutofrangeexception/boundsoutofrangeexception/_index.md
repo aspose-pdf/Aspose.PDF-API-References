@@ -7,11 +7,11 @@ description: "BoundsOutOfRangeException constructor. Initializes a new instance 
 type: docs
 weight: 10
 url: "/net/aspose.pdf/boundsoutofrangeexception/boundsoutofrangeexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BoundsOutOfRangeException() {#constructor}
 
-Initializes a new instance of the [`BoundsOutOfRangeException`](../../../aspose.pdf/boundsoutofrangeexception/) class.
+Initializes a new instance of the [`BoundsOutOfRangeException`](../) class.
 
 ```csharp
 public BoundsOutOfRangeException()
@@ -27,7 +27,7 @@ public BoundsOutOfRangeException()
 
 ## BoundsOutOfRangeException(string) {#constructor_1}
 
-Initializes a new instance of the [`BoundsOutOfRangeException`](../../../aspose.pdf/boundsoutofrangeexception/) class with a specified error message.
+Initializes a new instance of the [`BoundsOutOfRangeException`](../) class with a specified error message.
 
 ```csharp
 public BoundsOutOfRangeException(string message)
@@ -47,7 +47,7 @@ public BoundsOutOfRangeException(string message)
 
 ## BoundsOutOfRangeException(string, double, double) {#constructor_2}
 
-Initializes a new instance of the [`BoundsOutOfRangeException`](../../../aspose.pdf/boundsoutofrangeexception/) class with a specified error message and item dimensions.
+Initializes a new instance of the [`BoundsOutOfRangeException`](../) class with a specified error message and item dimensions.
 
 ```csharp
 public BoundsOutOfRangeException(string message, double containerWidth, double containerHeight)

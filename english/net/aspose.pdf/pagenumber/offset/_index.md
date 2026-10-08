@@ -7,7 +7,7 @@ description: "PageNumber property. Gets or sets the offset to be added to the pa
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pagenumber/offset/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageNumber.Offset property
 

@@ -7,7 +7,7 @@ description: "PageNumber method. Returns a formatted string representing the pag
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagenumber/getpagenumberstring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageNumber.GetPageNumberString method
 

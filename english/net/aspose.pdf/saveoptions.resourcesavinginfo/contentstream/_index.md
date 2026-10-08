@@ -7,7 +7,7 @@ description: "ResourceSavingInfo field. Set by converter. Represents binary cont
 type: docs
 weight: 30
 url: "/net/aspose.pdf/saveoptions.resourcesavinginfo/contentstream/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.ResourceSavingInfo.ContentStream field
 
@@ -20,7 +20,7 @@ public Stream ContentStream;
 
 ### See Also
 
-* class [SaveOptions.ResourceSavingInfo](../)
+* class [ResourceSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "AbsorbedTable property. Gets number of the page containing this ta
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/absorbedtable/pagenum/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AbsorbedTable.PageNum property
 

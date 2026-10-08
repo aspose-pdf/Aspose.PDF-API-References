@@ -7,7 +7,7 @@ description: "FormEditor constructor. Constructor for FormEditor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/formeditor/formeditor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor() {#constructor}
 
@@ -31,9 +31,9 @@ FormEditor formEditor = new FormEditor();
 
 ---
 
-## FormEditor([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## FormEditor(Document) {#constructor_1}
 
-Initializes new [`FormEditor`](../../../aspose.pdf.lowcode/formeditor/) object on base of the *document*.
+Initializes new [`FormEditor`](../) object on base of the *document*.
 
 ```csharp
 public FormEditor(Document document)

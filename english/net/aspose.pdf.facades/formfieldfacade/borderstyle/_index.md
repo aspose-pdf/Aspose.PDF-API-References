@@ -7,7 +7,7 @@ description: "FormFieldFacade property. The style of a field border."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/formfieldfacade/borderstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.BorderStyle property
 

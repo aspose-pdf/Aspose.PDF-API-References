@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute Height: Auto - The element's height
 type: docs
 weight: 280
 url: "/net/aspose.pdf.logicalstructure/attributename/height_auto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.Height_Auto field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName Height_Auto;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Creates caret annotation."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createcaret/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreateCaret method
 
@@ -41,8 +41,6 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [Color](../../../aspose.pdf/color/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

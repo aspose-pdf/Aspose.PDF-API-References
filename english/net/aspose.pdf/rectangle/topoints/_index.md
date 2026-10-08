@@ -7,7 +7,7 @@ description: "Rectangle method. Converts rectangle into array of points (\"QuadP
 type: docs
 weight: 190
 url: "/net/aspose.pdf/rectangle/topoints/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.ToPoints method
 
@@ -23,7 +23,7 @@ Array of points.
 
 ### See Also
 
-* class [Point](../../../aspose.pdf/point/)
+* class [Point](../../point/)
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

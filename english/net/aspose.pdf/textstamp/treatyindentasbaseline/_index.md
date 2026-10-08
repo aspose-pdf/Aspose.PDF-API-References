@@ -7,7 +7,7 @@ description: "TextStamp property. Defines coordinate origin for placing text. If
 type: docs
 weight: 60
 url: "/net/aspose.pdf/textstamp/treatyindentasbaseline/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStamp.TreatYIndentAsBaseLine property
 

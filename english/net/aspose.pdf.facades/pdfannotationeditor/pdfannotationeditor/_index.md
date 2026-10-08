@@ -7,11 +7,11 @@ description: "PdfAnnotationEditor constructor. Initializes new PdfAnnotationEdit
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfannotationeditor/pdfannotationeditor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAnnotationEditor() {#constructor}
 
-Initializes new [`PdfAnnotationEditor`](../../../aspose.pdf.facades/pdfannotationeditor/) object.
+Initializes new [`PdfAnnotationEditor`](../) object.
 
 ```csharp
 public PdfAnnotationEditor()
@@ -25,9 +25,9 @@ public PdfAnnotationEditor()
 
 ---
 
-## PdfAnnotationEditor([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## PdfAnnotationEditor(Document) {#constructor_1}
 
-Initializes new [`PdfAnnotationEditor`](../../../aspose.pdf.facades/pdfannotationeditor/) object on base of the *document*.
+Initializes new [`PdfAnnotationEditor`](../) object on base of the *document*.
 
 ```csharp
 public PdfAnnotationEditor(Document document)

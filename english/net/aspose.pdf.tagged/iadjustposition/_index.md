@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Tagged.IAdjustPosition interface. Interface for positio
 type: docs
 weight: 20
 url: "/net/aspose.pdf.tagged/iadjustposition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IAdjustPosition interface
 
@@ -21,7 +21,7 @@ public interface IAdjustPosition
 
 | Name | Description |
 | --- | --- |
-| [AdjustPosition](./adjustposition/)(PositionSettings) | Adjust position. |
+| [AdjustPosition](../../aspose.pdf.tagged/iadjustposition/adjustposition/)(PositionSettings) | Adjust position. |
 
 ### See Also
 

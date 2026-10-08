@@ -7,7 +7,7 @@ description: "FormImportResult property. Full name of the field."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/form.formimportresult/fieldname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.FormImportResult.FieldName property
 
@@ -19,7 +19,7 @@ public string FieldName { get; }
 
 ### See Also
 
-* class [Form.FormImportResult](../)
+* class [FormImportResult](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

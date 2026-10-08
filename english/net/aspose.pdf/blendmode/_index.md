@@ -7,7 +7,7 @@ description: "Aspose.Pdf.BlendMode enum. The blend modes enumeration."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/blendmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BlendMode enumeration
 

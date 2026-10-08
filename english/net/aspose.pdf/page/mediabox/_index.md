@@ -7,7 +7,7 @@ description: "Page property. Gets or sets media box of the page."
 type: docs
 weight: 570
 url: "/net/aspose.pdf/page/mediabox/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.MediaBox property
 
@@ -28,7 +28,7 @@ Rectangle mediaBox = document.Pages[1].MediaBox;
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../rectangle/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

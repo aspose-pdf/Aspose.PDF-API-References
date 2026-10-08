@@ -7,7 +7,7 @@ description: "FormFieldFacade property. The style of check box or radio box fiel
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/formfieldfacade/buttonstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.ButtonStyle property
 

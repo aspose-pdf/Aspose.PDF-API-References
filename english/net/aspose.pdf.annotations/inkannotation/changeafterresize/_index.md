@@ -7,7 +7,7 @@ description: "InkAnnotation method. Updates the points in InkList, according to 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/inkannotation/changeafterresize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## InkAnnotation.ChangeAfterResize method
 

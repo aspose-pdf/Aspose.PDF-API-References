@@ -7,7 +7,7 @@ description: "Aspose.Pdf.TeXLoadResult enum. Results for TeX load and compiling.
 type: docs
 weight: 2960
 url: "/net/aspose.pdf/texloadresult/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXLoadResult enumeration
 

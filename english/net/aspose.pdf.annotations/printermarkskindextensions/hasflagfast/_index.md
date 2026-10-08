@@ -7,7 +7,7 @@ description: "PrinterMarksKindExtensions method. Determines whether the current 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/printermarkskindextensions/hasflagfast/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterMarksKindExtensions.HasFlagFast method
 
@@ -19,16 +19,16 @@ public static bool HasFlagFast(this PrinterMarksKind value, PrinterMarksKind fla
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | PrinterMarksKind | The current value of the <see cref="T:Aspose.Pdf.Annotations.PrinterMarksKind" /> enumeration. |
+| value | PrinterMarksKind | The current value of the [`PrinterMarksKind`](../../printermarkskind/) enumeration. |
 | flag | PrinterMarksKind | The flag to check. |
 
 ### Return Value
 
- if the flag is included in the current value; otherwise, .
+`true` if the flag is included in the current value; otherwise, `false`.
 
 ### See Also
 
-* enum [PrinterMarksKind](../../../aspose.pdf.annotations/printermarkskind/)
+* enum [PrinterMarksKind](../../printermarkskind/)
 * class [PrinterMarksKindExtensions](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

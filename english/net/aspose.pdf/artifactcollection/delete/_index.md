@@ -7,9 +7,9 @@ description: "ArtifactCollection method. Deletes specified artifact."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/artifactcollection/delete/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Delete([Artifact](../../../aspose.pdf/artifact/)) {#delete}
+## Delete(Artifact) {#delete}
 
 Deletes specified artifact.
 
@@ -23,7 +23,7 @@ public void Delete(Artifact artifact)
 
 ### See Also
 
-* class [Artifact](../../../aspose.pdf/artifact/)
+* class [Artifact](../../artifact/)
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

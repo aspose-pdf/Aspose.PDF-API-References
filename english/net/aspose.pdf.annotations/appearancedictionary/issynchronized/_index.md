@@ -7,7 +7,7 @@ description: "AppearanceDictionary property. Gets a value indicating whether acc
 type: docs
 weight: 160
 url: "/net/aspose.pdf.annotations/appearancedictionary/issynchronized/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AppearanceDictionary.IsSynchronized property
 

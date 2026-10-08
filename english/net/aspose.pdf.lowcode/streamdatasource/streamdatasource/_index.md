@@ -7,7 +7,7 @@ description: "StreamDataSource constructor. Initializes new stream data source w
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/streamdatasource/streamdatasource/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StreamDataSource constructor
 

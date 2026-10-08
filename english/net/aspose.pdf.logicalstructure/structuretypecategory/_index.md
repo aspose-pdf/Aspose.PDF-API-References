@@ -8,7 +8,7 @@ type: docs
 weight: 570
 url: "/net/aspose.pdf.logicalstructure/structuretypecategory/"
 keywords: "StructureTypeCategory, Aspose.Pdf.LogicalStructure, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeCategory class
 
@@ -22,17 +22,17 @@ public sealed class StructureTypeCategory
 
 | Name | Description |
 | --- | --- |
-| override [ToString](./tostring/)() | Returns a string that represents the current object. |
-| [explicit operator](./op_explicit/) | Performs an explicit conversion from `String` to [`StructureTypeCategory`](../../aspose.pdf.logicalstructure/structuretypecategory/). |
+| override [ToString](../../aspose.pdf.logicalstructure/structuretypecategory/tostring/)() | Returns a string that represents the current object. |
+| [explicit operator](../../aspose.pdf.logicalstructure/structuretypecategory/op_explicit/) | Performs an explicit conversion from String to `StructureTypeCategory`. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [BLSEs](./blses/) | Block-level structure elements (BLSEs) describe the overall layout of content on the page, proceeding in the block-progression direction. |
-| static readonly [GroupingElements](./groupingelements/) | Grouping elements group other elements into sequences or hierarchies but hold no content directly and have no direct effect on layout. |
-| static readonly [ILSEs](./ilses/) | Inline-level structure elements (ILSEs) describe the layout of content within a BLSE, proceeding in the inline-progression direction. |
-| static readonly [IllustrationElements](./illustrationelements/) | Illustration elements are compact sequences of content, in page content order, that are considered to be unitary objects with respect to page layout. An illustration can be treated as either a BLSE or an ILSE. |
+| static readonly [BLSEs](../../aspose.pdf.logicalstructure/structuretypecategory/blses/) | Block-level structure elements (BLSEs) describe the overall layout of content on the page, proceeding in the block-progression direction. |
+| static readonly [GroupingElements](../../aspose.pdf.logicalstructure/structuretypecategory/groupingelements/) | Grouping elements group other elements into sequences or hierarchies but hold no content directly and have no direct effect on layout. |
+| static readonly [ILSEs](../../aspose.pdf.logicalstructure/structuretypecategory/ilses/) | Inline-level structure elements (ILSEs) describe the layout of content within a BLSE, proceeding in the inline-progression direction. |
+| static readonly [IllustrationElements](../../aspose.pdf.logicalstructure/structuretypecategory/illustrationelements/) | Illustration elements are compact sequences of content, in page content order, that are considered to be unitary objects with respect to page layout. An illustration can be treated as either a BLSE or an ILSE. |
 
 ### See Also
 

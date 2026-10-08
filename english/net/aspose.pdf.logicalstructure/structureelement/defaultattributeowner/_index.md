@@ -7,11 +7,11 @@ description: "StructureElement property. Gets AttributeOwnerStandard object."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.logicalstructure/structureelement/defaultattributeowner/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureElement.DefaultAttributeOwner property
 
-Gets [`AttributeOwnerStandard`](../../../aspose.pdf.logicalstructure/attributeownerstandard/) object.
+Gets [`AttributeOwnerStandard`](../../attributeownerstandard/) object.
 
 ```csharp
 public AttributeOwnerStandard DefaultAttributeOwner { get; }
@@ -19,11 +19,11 @@ public AttributeOwnerStandard DefaultAttributeOwner { get; }
 
 ### Property Value
 
-[`AttributeOwnerStandard`](../../../aspose.pdf.logicalstructure/attributeownerstandard/) object.
+[`AttributeOwnerStandard`](../../attributeownerstandard/) object.
 
 ### See Also
 
-* class [AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

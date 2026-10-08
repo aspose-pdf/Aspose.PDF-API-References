@@ -7,7 +7,7 @@ description: "FlattenSettings property. If set, buttons will be removed from fla
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/form.flattensettings/hidebuttons/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.FlattenSettings.HideButtons property
 
@@ -19,7 +19,7 @@ public bool HideButtons { get; set; }
 
 ### See Also
 
-* class [Form.FlattenSettings](../)
+* class [FlattenSettings](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 

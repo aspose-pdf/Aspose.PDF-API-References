@@ -7,7 +7,7 @@ description: "PdfPageEditor constructor. Constructor for PdfPageEditor class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfpageeditor/pdfpageeditor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor() {#constructor}
 
@@ -25,7 +25,7 @@ public PdfPageEditor()
 
 ---
 
-## PdfPageEditor([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## PdfPageEditor(Document) {#constructor_1}
 
 Constructor for PdfPageEditor class.
 

@@ -7,31 +7,13 @@ description: "TableAbsorber constructor. Initializes a new instance of the Table
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/tableabsorber/tableabsorber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## TableAbsorber() {#constructor}
+## TableAbsorber(TextSearchOptions) {#constructor}
 
-Initializes a new instance of the [`TableAbsorber`](../../../aspose.pdf.text/tableabsorber/).
+Initializes a new instance of the [`TableAbsorber`](../) with text search options.
 
-Performs searching for tables and provides access to the tables via `TableList` object.
-
-```csharp
-public TableAbsorber()
-```
-
-### See Also
-
-* class [TableAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TableAbsorber([TextSearchOptions](../../../aspose.pdf.text/textsearchoptions/)) {#constructor_1}
-
-Initializes a new instance of the [`TableAbsorber`](../../../aspose.pdf.text/tableabsorber/) with text search options.
-
-Performs searching for tables and provides access to the tables via `TableList` object.
+Performs searching for tables and provides access to the tables via [`TableList`](../tablelist/) object.
 
 ```csharp
 public TableAbsorber(TextSearchOptions textSearchOptions)
@@ -43,7 +25,25 @@ public TableAbsorber(TextSearchOptions textSearchOptions)
 
 ### See Also
 
-* class [TextSearchOptions](../../../aspose.pdf.text/textsearchoptions/)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TableAbsorber() {#constructor_1}
+
+Initializes a new instance of the [`TableAbsorber`](../).
+
+Performs searching for tables and provides access to the tables via [`TableList`](../tablelist/) object.
+
+```csharp
+public TableAbsorber()
+```
+
+### See Also
+
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

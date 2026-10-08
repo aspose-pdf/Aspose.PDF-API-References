@@ -8,7 +8,7 @@ type: docs
 weight: 720
 url: "/net/aspose.pdf.annotations/mediarendition/"
 keywords: "MediaRendition, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MediaRendition class
 
@@ -22,7 +22,7 @@ public sealed class MediaRendition : Rendition
 
 | Name | Description |
 | --- | --- |
-| [MediaClip](./mediaclip/) { get; } | Gets or sets media clip obkects associated with rendition. |
+| [MediaClip](../../aspose.pdf.annotations/mediarendition/mediaclip/) { get; } | Gets or sets media clip obkects associated with rendition. |
 | [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Text string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions. |
 | [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Gets rendition type. |
 

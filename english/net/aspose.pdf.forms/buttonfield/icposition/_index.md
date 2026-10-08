@@ -7,7 +7,7 @@ description: "ButtonField property. Gets or sets icon caption position."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.forms/buttonfield/icposition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ButtonField.ICPosition property
 
@@ -19,7 +19,7 @@ public IconCaptionPosition ICPosition { get; set; }
 
 ### See Also
 
-* enum [IconCaptionPosition](../../../aspose.pdf.forms/iconcaptionposition/)
+* enum [IconCaptionPosition](../../iconcaptionposition/)
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

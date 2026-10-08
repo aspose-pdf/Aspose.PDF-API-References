@@ -7,7 +7,7 @@ description: "Cell property. Gets or sets the cell's formatted text."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/cell/paragraphs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Cell.Paragraphs property
 
@@ -19,7 +19,7 @@ public Paragraphs Paragraphs { get; set; }
 
 ### See Also
 
-* class [Paragraphs](../../../aspose.pdf/paragraphs/)
+* class [Paragraphs](../../paragraphs/)
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

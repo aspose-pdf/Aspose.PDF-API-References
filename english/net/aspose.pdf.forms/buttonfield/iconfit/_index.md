@@ -7,7 +7,7 @@ description: "ButtonField property. Gets icon fit object specifying how the widg
 type: docs
 weight: 110
 url: "/net/aspose.pdf.forms/buttonfield/iconfit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ButtonField.IconFit property
 
@@ -19,7 +19,7 @@ public IconFit IconFit { get; }
 
 ### See Also
 
-* class [IconFit](../../../aspose.pdf.forms/iconfit/)
+* class [IconFit](../../iconfit/)
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

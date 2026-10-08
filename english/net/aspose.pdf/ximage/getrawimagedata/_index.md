@@ -7,7 +7,7 @@ description: "XImage method. Retrieves the raw image data from the source image.
 type: docs
 weight: 40
 url: "/net/aspose.pdf/ximage/getrawimagedata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImage.GetRawImageData method
 

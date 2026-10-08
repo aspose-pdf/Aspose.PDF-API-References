@@ -7,7 +7,7 @@ description: "PaperSources field. Represents a tractor feed continuous paper sou
 type: docs
 weight: 80
 url: "/net/aspose.pdf.printing/papersources/tractorfeed/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSources.TractorFeed field
 
@@ -19,7 +19,7 @@ public static readonly PaperSource TractorFeed;
 
 ### See Also
 
-* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSource](../../papersource/)
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

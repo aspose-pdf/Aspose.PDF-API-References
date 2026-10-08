@@ -8,7 +8,7 @@ type: docs
 weight: 3010
 url: "/net/aspose.pdf/timestampsettings/"
 keywords: "TimestampSettings, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TimestampSettings class
 
@@ -22,15 +22,15 @@ public class TimestampSettings
 
 | Name | Description |
 | --- | --- |
-| [TimestampSettings](./timestampsettings/)(string, string, DigestHashAlgorithm) | Initializes a new instance of the [`TimestampSettings`](../../aspose.pdf/timestampsettings/) class. |
+| [TimestampSettings](timestampsettings/)(string, string, DigestHashAlgorithm) | Initializes a new instance of the `TimestampSettings` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BasicAuthCredentials](./basicauthcredentials/) { get; set; } | Gets/sets the basic authentication credentials, Username and password are combined into a string "username:password". |
-| [DigestHashAlgorithm](./digesthashalgorithm/) { get; set; } | Gets/sets the digest algorithm for internal hash functions. |
-| [ServerUrl](./serverurl/) { get; set; } | Gets/sets the timestamp server url. |
+| [BasicAuthCredentials](../../aspose.pdf/timestampsettings/basicauthcredentials/) { get; set; } | Gets/sets the basic authentication credentials, Username and password are combined into a string "username:password". |
+| [DigestHashAlgorithm](../../aspose.pdf/timestampsettings/digesthashalgorithm/) { get; set; } | Gets/sets the digest algorithm for internal hash functions. |
+| [ServerUrl](../../aspose.pdf/timestampsettings/serverurl/) { get; set; } | Gets/sets the timestamp server url. |
 
 ### See Also
 

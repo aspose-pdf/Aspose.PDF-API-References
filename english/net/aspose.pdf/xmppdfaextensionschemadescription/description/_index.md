@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionSchemaDescription property. Gets the optional desc
 type: docs
 weight: 50
 url: "/net/aspose.pdf/xmppdfaextensionschemadescription/description/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchemaDescription.Description property
 

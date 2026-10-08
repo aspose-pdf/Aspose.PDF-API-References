@@ -7,7 +7,7 @@ description: "RequiredAction property. Gets or sets the type of action that is r
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/requiredaction/requiredactiontype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RequiredAction.RequiredActionType property
 

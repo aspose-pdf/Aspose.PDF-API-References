@@ -8,11 +8,11 @@ type: docs
 weight: 30
 url: "/net/aspose.pdf.vector/graphicelementcollection/"
 keywords: "GraphicElementCollection, Aspose.Pdf.Vector, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicElementCollection class
 
-Represents [`GraphicElement`](../../aspose.pdf.vector/graphicelement/) collection.
+Represents [`GraphicElement`](../graphicelement/) collection.
 
 ```csharp
 public sealed class GraphicElementCollection : ICollection<GraphicElement>
@@ -22,29 +22,30 @@ public sealed class GraphicElementCollection : ICollection<GraphicElement>
 
 | Name | Description |
 | --- | --- |
-| [GraphicElementCollection](./graphicelementcollection/)() | Initializes the new collection. |
+| [GraphicElementCollection](graphicelementcollection/)() | Initializes the new collection. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Gets the number of [`GraphicElement`](../../aspose.pdf.vector/graphicelement/) object elements actually contained in the collection. |
-| [Item](./item/) { get; } | Gets the [`GraphicElement`](../../aspose.pdf.vector/graphicelement/) element at the specified index. |
+| [Count](../../aspose.pdf.vector/graphicelementcollection/count/) { get; } | Gets the number of [`GraphicElement`](../graphicelement/) object elements actually contained in the collection. |
+| [Item](../../aspose.pdf.vector/graphicelementcollection/item/) { get; } | Gets the [`GraphicElement`](../graphicelement/) element at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(GraphicElement) | Adds a new [`GraphicElement`](../../aspose.pdf.vector/graphicelement/) to the collection. All items in the collection must have the same `Parent`. |
-| [Clear](./clear/)() | Clears the collection. |
-| [Contains](./contains/)(GraphicElement) | Determines whether an element is in the collection. |
-| [CopyTo](./copyto/)(GraphicElement[], int) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array. |
-| [GetEnumerator](./getenumerator/)() | Returns an enumerator for the entire collection. |
-| [Remove](./remove/)(GraphicElement) | Deletes the [`GraphicElement`](../../aspose.pdf.vector/graphicelement/) element. |
-| override [ToString](./tostring/)() | Gets a string representation of this collection. |
+| [Add](../../aspose.pdf.vector/graphicelementcollection/add/)(GraphicElement) | Adds a new [`GraphicElement`](../graphicelement/) to the collection. All items in the collection must have the same [`Parent`](../graphicelement/parent/). |
+| [Clear](../../aspose.pdf.vector/graphicelementcollection/clear/)() | Clears the collection. |
+| [Contains](../../aspose.pdf.vector/graphicelementcollection/contains/)(GraphicElement) | Determines whether an element is in the collection. |
+| [CopyTo](../../aspose.pdf.vector/graphicelementcollection/copyto/)(GraphicElement[], int) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array. |
+| [GetEnumerator](../../aspose.pdf.vector/graphicelementcollection/getenumerator/)() | Returns an enumerator for the entire collection. |
+| [Remove](../../aspose.pdf.vector/graphicelementcollection/remove/)(GraphicElement) | Deletes the [`GraphicElement`](../graphicelement/) element. |
+| override [ToString](../../aspose.pdf.vector/graphicelementcollection/tostring/)() | Gets a string representation of this collection. |
 
 ### See Also
 
+* class [GraphicElement](../graphicelement/)
 * namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../)
 

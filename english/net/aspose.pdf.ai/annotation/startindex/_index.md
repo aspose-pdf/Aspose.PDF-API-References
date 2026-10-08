@@ -7,7 +7,7 @@ description: "Annotation property. Gets or sets the starting index of the text i
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/annotation/startindex/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.StartIndex property
 

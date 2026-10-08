@@ -7,7 +7,7 @@ description: "SetSpacingMoveToNextLineShowText method. Accepts visitor object to
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetSpacingMoveToNextLineShowText.Accept method
 

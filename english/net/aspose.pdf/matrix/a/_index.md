@@ -7,7 +7,7 @@ description: "Matrix property. A member of the transformation matrix."
 type: docs
 weight: 260
 url: "/net/aspose.pdf/matrix/a/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix.A property
 

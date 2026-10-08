@@ -7,7 +7,7 @@ description: "Document property. Gets or sets flag specifying whether document's
 type: docs
 weight: 1310
 url: "/net/aspose.pdf/document/displaydoctitle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.DisplayDocTitle property
 

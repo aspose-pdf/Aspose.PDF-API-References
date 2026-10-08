@@ -7,7 +7,7 @@ description: "OcrDetail property. The 1-based page number within the source docu
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/ocrdetail/pagenumber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OcrDetail.PageNumber property
 

@@ -7,18 +7,20 @@ description: "ValidationResult property. Represents the message associated with 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/validationresult/message/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ValidationResult.Message property
 
 Represents the message associated with the validation result.
 
-The Message property provides additional context or information about
- the state of the validation result.
-
 ```csharp
 public string Message { get; }
 ```
+
+## Remarks
+
+The Message property provides additional context or information about
+ the state of the validation result.
 
 ### See Also
 

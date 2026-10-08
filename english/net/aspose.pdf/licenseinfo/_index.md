@@ -8,7 +8,7 @@ type: docs
 weight: 1720
 url: "/net/aspose.pdf/licenseinfo/"
 keywords: "LicenseInfo, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LicenseInfo class
 
@@ -22,14 +22,14 @@ public class LicenseInfo
 
 | Name | Description |
 | --- | --- |
-| [EditionType](./editiontype/) { get; } | Gets the edition type of the license. |
-| [EmailTo](./emailto/) { get; } | Gets the email address used to license. |
-| [LicenseExpiry](./licenseexpiry/) { get; } | Gets the license expiry date. |
-| [LicenseNote](./licensenote/) { get; } | Gets the license note. |
-| [LicenseType](./licensetype/) { get; } | Gets the license type. |
-| [LicensedTo](./licensedto/) { get; } | Gets the information about the licensee. |
-| [Products](./products/) { get; } | Gets the list of licensed products. |
-| [SubscriptionExpiry](./subscriptionexpiry/) { get; } | Gets the assembly release date to which updates are possible. |
+| [EditionType](../../aspose.pdf/licenseinfo/editiontype/) { get; } | Gets the edition type of the license. |
+| [EmailTo](../../aspose.pdf/licenseinfo/emailto/) { get; } | Gets the email address used to license. |
+| [LicenseExpiry](../../aspose.pdf/licenseinfo/licenseexpiry/) { get; } | Gets the license expiry date. |
+| [LicenseNote](../../aspose.pdf/licenseinfo/licensenote/) { get; } | Gets the license note. |
+| [LicenseType](../../aspose.pdf/licenseinfo/licensetype/) { get; } | Gets the license type. |
+| [LicensedTo](../../aspose.pdf/licenseinfo/licensedto/) { get; } | Gets the information about the licensee. |
+| [Products](../../aspose.pdf/licenseinfo/products/) { get; } | Gets the list of licensed products. |
+| [SubscriptionExpiry](../../aspose.pdf/licenseinfo/subscriptionexpiry/) { get; } | Gets the assembly release date to which updates are possible. |
 
 ### See Also
 

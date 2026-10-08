@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. Sometimes specific reqirments to generation
 type: docs
 weight: 440
 url: "/net/aspose.pdf/htmlsaveoptions/htmlmarkupgenerationmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.HtmlMarkupGenerationMode field
 
@@ -21,6 +21,7 @@ public HtmlMarkupGenerationModes HtmlMarkupGenerationMode;
 
 ### See Also
 
+* enum [HtmlMarkupGenerationModes](../../htmlsaveoptions.htmlmarkupgenerationmodes/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

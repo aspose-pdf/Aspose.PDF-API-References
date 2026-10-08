@@ -7,7 +7,7 @@ description: "Aspose.Pdf.ConvertErrorAction enum. This class represents action f
 type: docs
 weight: 450
 url: "/net/aspose.pdf/converterroraction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ConvertErrorAction enumeration
 

@@ -7,7 +7,7 @@ description: "MarkdownSaveOptions property. Gets or sets the style of emphasis f
 type: docs
 weight: 80
 url: "/net/aspose.pdf/markdownsaveoptions/emphasisstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkdownSaveOptions.EmphasisStyle property
 
@@ -19,7 +19,7 @@ public EmphasisStyle EmphasisStyle { get; set; }
 
 ### See Also
 
-* enum [EmphasisStyle](../../../aspose.pdf/emphasisstyle/)
+* enum [EmphasisStyle](../../emphasisstyle/)
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

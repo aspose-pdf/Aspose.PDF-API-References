@@ -7,58 +7,9 @@ description: "LlamaSummaryCopilotOptions method. Adds a text document to the doc
 type: docs
 weight: 110
 url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/withdocument/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## WithDocument([PdfDocument](../../../aspose.pdf.ai/pdfdocument/)) {#withdocument}
-
-Adds a PDF document to the document collection for the summary copilot options.
-
-```csharp
-public LlamaSummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pdfDocument | PdfDocument | The PDF document to add. |
-
-### Return Value
-
-The current instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
-
-### See Also
-
-* class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
-* class [PdfDocument](../../../aspose.pdf.ai/pdfdocument/)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## WithDocument(string) {#withdocument_1}
-
-Adds a document path to the document collection for the summary copilot options.
-
-```csharp
-public LlamaSummaryCopilotOptions WithDocument(string filePath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filePath | String | The file path of the document to add. |
-
-### Return Value
-
-The current instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
-
-### See Also
-
-* class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## WithDocument([TextDocument](../../../aspose.pdf.ai/textdocument/)) {#withdocument_2}
+## WithDocument(TextDocument) {#withdocument}
 
 Adds a text document to the document collection for the summary copilot options.
 
@@ -72,12 +23,61 @@ public LlamaSummaryCopilotOptions WithDocument(TextDocument textDocument)
 
 ### Return Value
 
-The current instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
+The current instance of [`LlamaSummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
-* class [TextDocument](../../../aspose.pdf.ai/textdocument/)
+* class [LlamaSummaryCopilotOptions](../)
+* class [TextDocument](../../textdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## WithDocument(PdfDocument) {#withdocument_1}
+
+Adds a PDF document to the document collection for the summary copilot options.
+
+```csharp
+public LlamaSummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdfDocument | PdfDocument | The PDF document to add. |
+
+### Return Value
+
+The current instance of [`LlamaSummaryCopilotOptions`](../).
+
+### See Also
+
+* class [LlamaSummaryCopilotOptions](../)
+* class [PdfDocument](../../pdfdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## WithDocument(string) {#withdocument_2}
+
+Adds a document path to the document collection for the summary copilot options.
+
+```csharp
+public LlamaSummaryCopilotOptions WithDocument(string filePath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filePath | String | The file path of the document to add. |
+
+### Return Value
+
+The current instance of [`LlamaSummaryCopilotOptions`](../).
+
+### See Also
+
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "GraphInfo property. Retrieve the X coordinate of a vertical border
 type: docs
 weight: 30
 url: "/net/aspose.pdf/graphinfo/x/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphInfo.X property
 

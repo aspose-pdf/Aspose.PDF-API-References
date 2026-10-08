@@ -7,7 +7,7 @@ description: "SignOptions property. The rect of signature."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/signoptions/rectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignOptions.Rectangle property
 
@@ -19,7 +19,7 @@ public Rectangle Rectangle { get; set; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [SignOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

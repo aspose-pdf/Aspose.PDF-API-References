@@ -7,7 +7,7 @@ description: "Artifact property. Bottom margin of artifact. If position is speci
 type: docs
 weight: 270
 url: "/net/aspose.pdf/artifact/bottommargin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.BottomMargin property
 

@@ -7,7 +7,7 @@ description: "Measure property. A number format array for measurement of distanc
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/measure/distanceformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.DistanceFormat property
 
@@ -19,6 +19,7 @@ public NumberFormatList DistanceFormat { get; set; }
 
 ### See Also
 
+* class [NumberFormatList](../../measure.numberformatlist/)
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

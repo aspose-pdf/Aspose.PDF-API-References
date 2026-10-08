@@ -7,7 +7,7 @@ description: "PdfFileInfo property. Gets or sets the Title information of PDF do
 type: docs
 weight: 380
 url: "/net/aspose.pdf.facades/pdffileinfo/title/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.Title property
 

@@ -7,7 +7,7 @@ description: "TextFragmentState property. Gets or sets text CoordinateOrigin. If
 type: docs
 weight: 250
 url: "/net/aspose.pdf.text/textfragmentstate/coordinateorigin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentState.CoordinateOrigin property
 
@@ -24,7 +24,7 @@ public override CoordinateOrigin CoordinateOrigin { get; set; }
 
 ### See Also
 
-* enum [CoordinateOrigin](../../../aspose.pdf.text/coordinateorigin/)
+* enum [CoordinateOrigin](../../coordinateorigin/)
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

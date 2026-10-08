@@ -7,7 +7,7 @@ description: "TextParagraph property. Gets or sets subsequent lines indent value
 type: docs
 weight: 130
 url: "/net/aspose.pdf.text/textparagraph/firstlineindent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextParagraph.FirstLineIndent property
 

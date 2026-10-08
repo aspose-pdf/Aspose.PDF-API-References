@@ -7,7 +7,7 @@ description: "Aspose.Pdf.LowCode.PdfAStandardVersion enum. Specifies the PDF/A s
 type: docs
 weight: 610
 url: "/net/aspose.pdf.lowcode/pdfastandardversion/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAStandardVersion enumeration
 

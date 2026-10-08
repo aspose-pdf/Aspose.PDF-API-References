@@ -7,7 +7,7 @@ description: "Matrix3D property. Ty member of the transformation matrix."
 type: docs
 weight: 200
 url: "/net/aspose.pdf/matrix3d/ty/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix3D.Ty property
 

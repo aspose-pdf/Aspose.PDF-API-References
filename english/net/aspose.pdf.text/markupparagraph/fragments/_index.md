@@ -7,20 +7,23 @@ description: "MarkupParagraph property. Collection of not empty TextFragment obj
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/markupparagraph/fragments/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupParagraph.Fragments property
 
-Collection of not empty [`TextFragment`](../../../aspose.pdf.text/textfragment/) objects of the paragraph.
-
-The [`TextFragment`](../../../aspose.pdf.text/textfragment/) object provides access to the search occurrence text, text properties, and allows to edit text and change the text state (font, font size, color etc).
+Collection of not empty [`TextFragment`](../../textfragment/) objects of the paragraph.
 
 ```csharp
 public List<TextFragment> Fragments { get; }
 ```
 
+## Remarks
+
+The [`TextFragment`](../../textfragment/) object provides access to the search occurrence text, text properties, and allows to edit text and change the text state (font, font size, color etc).
+
 ### See Also
 
+* class [TextFragment](../../textfragment/)
 * class [MarkupParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

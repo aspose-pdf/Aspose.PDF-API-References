@@ -7,7 +7,7 @@ description: "CollectionSchema method. Gets a collection field by name."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/collectionschema/getcollectionfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionSchema.GetCollectionField method
 
@@ -21,13 +21,9 @@ public CollectionField GetCollectionField(string name)
 | --- | --- | --- |
 | name | String | The field name |
 
-### Return Value
-
-[CollectionField](../../../aspose.pdf/collectionfield/)
-
 ### See Also
 
-* class [CollectionField](../../../aspose.pdf/collectionfield/)
+* class [CollectionField](../../collectionfield/)
 * class [CollectionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

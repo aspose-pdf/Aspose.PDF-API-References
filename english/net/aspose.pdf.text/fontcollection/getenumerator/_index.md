@@ -7,7 +7,7 @@ description: "FontCollection method. Returns an enumerator for the entire collec
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/fontcollection/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontCollection.GetEnumerator method
 
@@ -23,6 +23,7 @@ Enumerator object.
 
 ### See Also
 
+* class [Font](../../font/)
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

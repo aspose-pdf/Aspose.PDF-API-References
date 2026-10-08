@@ -7,9 +7,9 @@ description: "OpenAIImageDescriptionCopilotOptions method. Adds a PDF document t
 type: docs
 weight: 120
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withdocument/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## WithDocument([PdfDocument](../../../aspose.pdf.ai/pdfdocument/)) {#withdocument}
+## WithDocument(PdfDocument) {#withdocument}
 
 Adds a PDF document to the document collection for the image description copilot options.
 
@@ -23,12 +23,12 @@ public OpenAIImageDescriptionCopilotOptions WithDocument(PdfDocument pdfDocument
 
 ### Return Value
 
-The current instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
+The current instance of [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
-* class [PdfDocument](../../../aspose.pdf.ai/pdfdocument/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* class [PdfDocument](../../pdfdocument/)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -48,11 +48,11 @@ public OpenAIImageDescriptionCopilotOptions WithDocument(string filePath)
 
 ### Return Value
 
-The current instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
+The current instance of [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

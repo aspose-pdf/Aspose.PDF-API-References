@@ -7,7 +7,7 @@ description: "OpenAIChatCopilotOptions property. Gets or sets the maximum number
 type: docs
 weight: 270
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/maxprompttokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIChatCopilotOptions.MaxPromptTokens property
 

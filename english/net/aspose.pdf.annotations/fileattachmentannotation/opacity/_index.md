@@ -7,7 +7,7 @@ description: "FileAttachmentAnnotation property. Gets or sets icon's opacity fro
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/fileattachmentannotation/opacity/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileAttachmentAnnotation.Opacity property
 

@@ -7,7 +7,7 @@ description: "PaperSources field. Represents the lower bin of the printer."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.printing/papersources/lower/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSources.Lower field
 
@@ -19,7 +19,7 @@ public static readonly PaperSource Lower;
 
 ### See Also
 
-* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSource](../../papersource/)
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

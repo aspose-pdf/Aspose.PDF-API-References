@@ -7,25 +7,9 @@ description: "PageCollection method. Delete specified page."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pagecollection/delete/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Delete() {#delete}
-
-Deletes all pages from collection.
-
-```csharp
-public void Delete()
-```
-
-### See Also
-
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Delete(int) {#delete_1}
+## Delete(int) {#delete}
 
 Delete specified page.
 
@@ -36,6 +20,22 @@ public void Delete(int index)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | Int32 | Number of page that will be deleted. Pages numbers start from 1. |
+
+### See Also
+
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Delete() {#delete_1}
+
+Deletes all pages from collection.
+
+```csharp
+public void Delete()
+```
 
 ### See Also
 

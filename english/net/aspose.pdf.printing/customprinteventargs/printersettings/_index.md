@@ -7,7 +7,7 @@ description: "CustomPrintEventArgs field. Gets information about the printer the
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/customprinteventargs/printersettings/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CustomPrintEventArgs.PrinterSettings field
 
@@ -19,7 +19,7 @@ public readonly PrinterSettings PrinterSettings;
 
 ### See Also
 
-* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PrinterSettings](../../printersettings/)
 * class [CustomPrintEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

@@ -8,7 +8,7 @@ type: docs
 weight: 50
 url: "/net/aspose.pdf.comparison/documentcomparisonstatistics/"
 keywords: "DocumentComparisonStatistics, Aspose.Pdf.Comparison, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentComparisonStatistics class
 
@@ -22,7 +22,7 @@ public class DocumentComparisonStatistics : TextItemComparisonStatistics
 
 | Name | Description |
 | --- | --- |
-| [DocumentComparisonStatistics](./documentcomparisonstatistics/)() | The default constructor. |
+| [DocumentComparisonStatistics](documentcomparisonstatistics/)() | The default constructor. |
 
 ## Properties
 
@@ -32,7 +32,7 @@ public class DocumentComparisonStatistics : TextItemComparisonStatistics
 | [DeletedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deletedcharacterscount/) { get; } | Gets and sets the number of deleted characters. |
 | [InsertOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertoperationscount/) { get; } | Gets and sets the number of insert operations. |
 | [InsertedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertedcharacterscount/) { get; } | Gets and sets the number of inseted characters. |
-| [PagesStatistics](./pagesstatistics/) { get; } | Gets and sets the list of pages statistics. |
+| [PagesStatistics](../../aspose.pdf.comparison/documentcomparisonstatistics/pagesstatistics/) { get; } | Gets and sets the list of pages statistics. |
 | [TotalCharacters](../../aspose.pdf.comparison/textitemcomparisonstatistics/totalcharacters/) { get; } | Gets and sets the total number of characters. |
 
 ### See Also

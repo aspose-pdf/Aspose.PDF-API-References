@@ -7,7 +7,7 @@ description: "Aspose.Pdf.ImageDeleteAction enum. Action which performed with ima
 type: docs
 weight: 1490
 url: "/net/aspose.pdf/imagedeleteaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageDeleteAction enumeration
 

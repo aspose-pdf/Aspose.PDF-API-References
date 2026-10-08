@@ -7,7 +7,7 @@ description: "PageSettings method. Provides some interesting information about t
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/pagesettings/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageSettings.ToString method
 

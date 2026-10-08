@@ -7,7 +7,7 @@ description: "Document property. Gets the is document pdfua compliant."
 type: docs
 weight: 1150
 url: "/net/aspose.pdf/document/ispdfuacompliant/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.IsPdfUaCompliant property
 

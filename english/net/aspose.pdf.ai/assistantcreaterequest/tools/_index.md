@@ -7,7 +7,7 @@ description: "AssistantCreateRequest property. Gets or sets a list of tool enabl
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/assistantcreaterequest/tools/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantCreateRequest.Tools property
 
@@ -20,6 +20,7 @@ public List<Tool> Tools { get; set; }
 
 ### See Also
 
+* class [Tool](../../tool/)
 * class [AssistantCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

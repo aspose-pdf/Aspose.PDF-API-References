@@ -7,11 +7,11 @@ description: "PdfFileInfo property. Uses strict validation rules via using IsPdf
 type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/pdffileinfo/usestrictvalidation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.UseStrictValidation property
 
-Uses strict validation rules via using `IsPdfFile` property.
+Uses strict validation rules via using [`IsPdfFile`](../ispdffile/) property.
 
 ```csharp
 public bool UseStrictValidation { get; set; }

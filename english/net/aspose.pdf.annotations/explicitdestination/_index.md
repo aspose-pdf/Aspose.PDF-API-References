@@ -8,7 +8,7 @@ type: docs
 weight: 300
 url: "/net/aspose.pdf.annotations/explicitdestination/"
 keywords: "ExplicitDestination, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExplicitDestination class
 
@@ -22,19 +22,20 @@ public abstract class ExplicitDestination : IAppointment
 
 | Name | Description |
 | --- | --- |
-| [Page](./page/) { get; } | Gets the destination page object |
-| [PageNumber](./pagenumber/) { get; } | Gets the destination page number |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Gets the destination page object |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Gets the destination page number |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [CreateDestination](./createdestination/)(int, ExplicitDestinationType, params double[]) | Creates instances of ExplicitDestination descendant classes. |
-| static [CreateDestination](./createdestination/)(Page, ExplicitDestinationType, params double[]) | Creates instances of ExplicitDestination descendant classes. |
-| abstract [ToString](./tostring/)() | Returns string representation of ExplicitDestination object. |
+| static [CreateDestination](../../aspose.pdf.annotations/explicitdestination/createdestination/#createdestination)(Page, ExplicitDestinationType, params double[]) | Creates instances of ExplicitDestination descendant classes. |
+| static [CreateDestination](../../aspose.pdf.annotations/explicitdestination/createdestination/#createdestination_1)(int, ExplicitDestinationType, params double[]) | Creates instances of ExplicitDestination descendant classes. |
+| abstract [ToString](../../aspose.pdf.annotations/explicitdestination/tostring/)() | Returns string representation of ExplicitDestination object. |
 
 ### See Also
 
+* interface [IAppointment](../iappointment/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
 

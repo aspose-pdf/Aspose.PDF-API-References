@@ -7,7 +7,7 @@ description: "FormExporterToJsonOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formexportertojsonoptions/formexportertojsonoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormExporterToJsonOptions() {#constructor}
 
@@ -25,9 +25,9 @@ public FormExporterToJsonOptions()
 
 ---
 
-## FormExporterToJsonOptions([SelectField](../../../aspose.pdf.lowcode/selectfield/)) {#constructor_1}
+## FormExporterToJsonOptions(SelectField) {#constructor_1}
 
-Initializes a new instance of the [`FormExporterValuesToCsvOptions`](../../../aspose.pdf.lowcode/formexportervaluestocsvoptions/) object, 
+Initializes a new instance of the [`FormExporterValuesToCsvOptions`](../../formexportervaluestocsvoptions/) object, 
  in which the fields whose data will be exported and the separator for the exported data are specified.
 
 ```csharp
@@ -40,7 +40,7 @@ public FormExporterToJsonOptions(SelectField selectField)
 
 ### See Also
 
-* delegate [SelectField](../../../aspose.pdf.lowcode/selectfield/)
+* delegate [SelectField](../../selectfield/)
 * class [FormExporterToJsonOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

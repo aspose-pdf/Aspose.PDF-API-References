@@ -7,7 +7,7 @@ description: "TextState property. Gets or sets character spacing of the text."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.text/textstate/characterspacing/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextState.CharacterSpacing property
 

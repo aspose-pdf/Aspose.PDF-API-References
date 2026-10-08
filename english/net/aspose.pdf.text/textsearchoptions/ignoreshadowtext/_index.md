@@ -7,7 +7,7 @@ description: "TextSearchOptions property. Gets or sets indication that text frag
 type: docs
 weight: 80
 url: "/net/aspose.pdf.text/textsearchoptions/ignoreshadowtext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSearchOptions.IgnoreShadowText property
 

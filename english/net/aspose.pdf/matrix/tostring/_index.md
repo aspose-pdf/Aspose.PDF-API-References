@@ -7,7 +7,7 @@ description: "Matrix method. Returns text reporesentation of the matrix."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/matrix/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix.ToString method
 

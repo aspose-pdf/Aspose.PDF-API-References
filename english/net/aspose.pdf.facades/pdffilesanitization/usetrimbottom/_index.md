@@ -7,7 +7,7 @@ description: "PdfFileSanitization property. Allows to remove data after pdf data
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/pdffilesanitization/usetrimbottom/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSanitization.UseTrimBottom property
 

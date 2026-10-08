@@ -7,7 +7,7 @@ description: "ImagePlacement method. Delete image from the page."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/imageplacement/hide/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagePlacement.Hide method
 

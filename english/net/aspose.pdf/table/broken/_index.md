@@ -7,7 +7,7 @@ description: "Table property. Gets or sets table vertial broken;"
 type: docs
 weight: 180
 url: "/net/aspose.pdf/table/broken/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.Broken property
 
@@ -19,7 +19,7 @@ public TableBroken Broken { get; set; }
 
 ### See Also
 
-* enum [TableBroken](../../../aspose.pdf/tablebroken/)
+* enum [TableBroken](../../tablebroken/)
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

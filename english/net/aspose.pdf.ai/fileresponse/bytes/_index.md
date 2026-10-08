@@ -7,7 +7,7 @@ description: "FileResponse property. Gets or sets the size of the file, in bytes
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/fileresponse/bytes/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileResponse.Bytes property
 

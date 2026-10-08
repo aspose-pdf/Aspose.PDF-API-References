@@ -7,7 +7,7 @@ description: "InterruptMonitor method. Sends a request to interrupt operations."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.multithreading/interruptmonitor/interrupt/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## InterruptMonitor.Interrupt method
 

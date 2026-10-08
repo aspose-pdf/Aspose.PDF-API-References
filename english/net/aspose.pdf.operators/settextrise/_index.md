@@ -8,7 +8,7 @@ type: docs
 weight: 770
 url: "/net/aspose.pdf.operators/settextrise/"
 keywords: "SetTextRise, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetTextRise class
 
@@ -22,21 +22,20 @@ public class SetTextRise : TextStateOperator
 
 | Name | Description |
 | --- | --- |
-| [SetTextRise](./settextrise/)(double) | Initializes operator. |
+| [SetTextRise](settextrise/)(double) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [TextRise](./textrise/) { get; set; } | Gets or sets the text rise. |
+| [TextRise](../../aspose.pdf.operators/settextrise/textrise/) { get; set; } | Gets or sets the text rise. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [Accept](../../aspose.pdf.operators/settextrise/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 

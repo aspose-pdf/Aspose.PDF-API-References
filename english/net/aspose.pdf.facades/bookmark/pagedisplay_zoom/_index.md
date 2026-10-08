@@ -7,7 +7,7 @@ description: "Bookmark property. Gets or sets the zoom factor of page display."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/bookmark/pagedisplay_zoom/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Bookmark.PageDisplay_Zoom property
 

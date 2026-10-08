@@ -7,7 +7,7 @@ description: "Document property. Gets or sets the background color of the docume
 type: docs
 weight: 1540
 url: "/net/aspose.pdf/document/background/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.Background property
 
@@ -19,7 +19,7 @@ public Color Background { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
+* class [Color](../../color/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

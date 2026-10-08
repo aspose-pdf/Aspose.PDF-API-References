@@ -7,7 +7,7 @@ description: "PdfViewer event. Adds/removes subscription on the last page printi
 type: docs
 weight: 550
 url: "/net/aspose.pdf.facades/pdfviewer/endprint/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.EndPrint event
 

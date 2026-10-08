@@ -7,7 +7,7 @@ description: "EncryptionParameters property. The document permissions."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.security/encryptionparameters/permissions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EncryptionParameters.Permissions property
 

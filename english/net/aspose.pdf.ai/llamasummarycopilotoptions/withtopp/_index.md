@@ -7,7 +7,7 @@ description: "LlamaSummaryCopilotOptions method. Sets the top P value for the su
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/withtopp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaSummaryCopilotOptions.WithTopP method
 
@@ -23,11 +23,11 @@ public LlamaSummaryCopilotOptions WithTopP(double? topP)
 
 ### Return Value
 
-The current instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
+The current instance of [`LlamaSummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

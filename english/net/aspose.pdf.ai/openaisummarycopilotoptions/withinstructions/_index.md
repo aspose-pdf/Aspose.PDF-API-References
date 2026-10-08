@@ -7,7 +7,7 @@ description: "OpenAISummaryCopilotOptions method. Sets the instructions for the 
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/withinstructions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAISummaryCopilotOptions.WithInstructions method
 
@@ -23,11 +23,11 @@ public OpenAISummaryCopilotOptions WithInstructions(string instructions)
 
 ### Return Value
 
-The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
+The current instance of [`OpenAISummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

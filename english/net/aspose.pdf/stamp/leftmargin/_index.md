@@ -7,7 +7,7 @@ description: "Stamp property. Gets or sets left margin of stamp."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/stamp/leftmargin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.LeftMargin property
 

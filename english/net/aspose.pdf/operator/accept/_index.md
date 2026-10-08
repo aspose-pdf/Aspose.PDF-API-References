@@ -7,7 +7,7 @@ description: "Operator method. Accepts visitor IOperatorSelector which provides 
 type: docs
 weight: 10
 url: "/net/aspose.pdf/operator/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Operator.Accept method
 
@@ -23,7 +23,7 @@ public abstract void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* interface [IOperatorSelector](../../ioperatorselector/)
 * class [Operator](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

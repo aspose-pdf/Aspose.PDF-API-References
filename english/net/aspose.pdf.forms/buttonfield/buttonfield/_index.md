@@ -7,7 +7,7 @@ description: "ButtonField constructor. Button field constructor for Generator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/buttonfield/buttonfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ButtonField() {#constructor}
 
@@ -25,30 +25,7 @@ public ButtonField()
 
 ---
 
-## ButtonField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
-
-ButtonField constructore.
-
-```csharp
-public ButtonField(Document doc, Rectangle rect)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Docuemtn where new field will be created. |
-| rect | Rectangle | Rectangle hwere button is placed on the page. |
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [ButtonField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## ButtonField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_2}
+## ButtonField(Page, Rectangle) {#constructor_1}
 
 ButtonField constructor.
 
@@ -64,7 +41,30 @@ public ButtonField(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ButtonField(Document, Rectangle) {#constructor_2}
+
+ButtonField constructore.
+
+```csharp
+public ButtonField(Document doc, Rectangle rect)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | Docuemtn where new field will be created. |
+| rect | Rectangle | Rectangle hwere button is placed on the page. |
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

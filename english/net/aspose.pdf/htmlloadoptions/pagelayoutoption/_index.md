@@ -7,7 +7,7 @@ description: "HtmlLoadOptions property. Gets or sets layout option."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/htmlloadoptions/pagelayoutoption/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlLoadOptions.PageLayoutOption property
 
@@ -19,7 +19,7 @@ public HtmlPageLayoutOption PageLayoutOption { get; set; }
 
 ### See Also
 
-* enum [HtmlPageLayoutOption](../../../aspose.pdf/htmlpagelayoutoption/)
+* enum [HtmlPageLayoutOption](../../htmlpagelayoutoption/)
 * class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,20 +7,20 @@ description: "PdfViewer property. Sets or gets a mode for PdfViewer to print as 
 type: docs
 weight: 360
 url: "/net/aspose.pdf.facades/pdfviewer/printasimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.PrintAsImage property
 
 Sets or gets a mode for PdfViewer to print as image.
 
-If true prints always as image (generates image that is printed)
- If false prints directly to device if all features are supported. In case document contains non-supported features the system may automatically decide to print as image.
- 
- Default falue is false.
-
 ```csharp
 public bool PrintAsImage { get; set; }
 ```
+
+## Remarks
+
+If true prints always as image (generates image that is printed)
+ If false prints directly to device if all features are supported. In case document contains non-supported features the system may automatically decide to print as image. Default falue is false.
 
 ### See Also
 

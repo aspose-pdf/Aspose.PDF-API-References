@@ -7,7 +7,7 @@ description: "XYZExplicitDestination property. Gets left horizontal coordinate o
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/left/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XYZExplicitDestination.Left property
 

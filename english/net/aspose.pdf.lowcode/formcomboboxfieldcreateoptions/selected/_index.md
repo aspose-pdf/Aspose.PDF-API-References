@@ -7,7 +7,7 @@ description: "FormComboBoxFieldCreateOptions property. Gets/sets the value to de
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/formcomboboxfieldcreateoptions/selected/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormComboBoxFieldCreateOptions.Selected property
 

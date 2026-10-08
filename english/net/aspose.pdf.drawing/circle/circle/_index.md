@@ -7,11 +7,11 @@ description: "Circle constructor. Initializes a new instance of the Circle class
 type: docs
 weight: 10
 url: "/net/aspose.pdf.drawing/circle/circle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Circle constructor
 
-Initializes a new instance of the [`Circle`](../../../aspose.pdf.drawing/circle/) class.
+Initializes a new instance of the [`Circle`](../) class.
 
 ```csharp
 public Circle(float posX, float posY, float radius)

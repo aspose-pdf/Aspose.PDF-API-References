@@ -7,7 +7,7 @@ description: "FontSubstitutionCollection method. Adds new font substitution obje
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontSubstitutionCollection.Add method
 
@@ -23,7 +23,7 @@ public void Add(FontSubstitution fontSubstitution)
 
 ### See Also
 
-* class [FontSubstitution](../../../aspose.pdf.text/fontsubstitution/)
+* class [FontSubstitution](../../fontsubstitution/)
 * class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

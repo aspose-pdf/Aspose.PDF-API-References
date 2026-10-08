@@ -7,7 +7,7 @@ description: "Signature method. Verify the document regarding this signature and
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/signature/verify/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Verify() {#verify}
 
@@ -30,7 +30,7 @@ true if document is valid.
 
 ---
 
-## Verify([ValidationOptions](../../../aspose.pdf.security/validationoptions/), out [ValidationResult](../../../aspose.pdf.security/validationresult/)) {#verify_1}
+## Verify(ValidationOptions, out ValidationResult) {#verify_1}
 
 Verify the document regarding this signature and return true if document is valid 
  or otherwise false.
@@ -58,7 +58,7 @@ true if document is valid.
 
 ---
 
-## Verify(X509Certificate2, [ValidationOptions](../../../aspose.pdf.security/validationoptions/), out [ValidationResult](../../../aspose.pdf.security/validationresult/)) {#verify_2}
+## Verify(X509Certificate2, ValidationOptions, out ValidationResult) {#verify_2}
 
 Verify the document regarding this signature and return true if document is valid 
  or otherwise false.

@@ -7,7 +7,7 @@ description: "EncryptedPayload property. Gets subtype."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/encryptedpayload/subtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EncryptedPayload.Subtype property
 

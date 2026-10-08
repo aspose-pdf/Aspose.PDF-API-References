@@ -7,7 +7,7 @@ description: "Element method. Returns a string that represents the current objec
 type: docs
 weight: 110
 url: "/net/aspose.pdf.logicalstructure/element/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Element.ToString method
 

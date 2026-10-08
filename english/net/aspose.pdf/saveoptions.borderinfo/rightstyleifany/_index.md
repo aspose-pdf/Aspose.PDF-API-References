@@ -7,7 +7,7 @@ description: "BorderInfo field. Represents right part(if any) of border"
 type: docs
 weight: 50
 url: "/net/aspose.pdf/saveoptions.borderinfo/rightstyleifany/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.BorderInfo.RightStyleIfAny field
 
@@ -19,7 +19,8 @@ public BorderPartStyle RightStyleIfAny;
 
 ### See Also
 
-* class [SaveOptions.BorderInfo](../)
+* class [BorderPartStyle](../../saveoptions.borderpartstyle/)
+* class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "OperatorCollection property. Indicates wheather collection is limi
 type: docs
 weight: 250
 url: "/net/aspose.pdf/operatorcollection/isfasttextextractionmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OperatorCollection.IsFastTextExtractionMode property
 

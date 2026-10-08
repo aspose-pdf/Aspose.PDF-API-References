@@ -7,7 +7,7 @@ description: "ToolResources property. Gets or sets the file search tool resource
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/toolresources/filesearch/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ToolResources.FileSearch property
 
@@ -19,7 +19,7 @@ public FileSearch FileSearch { get; set; }
 
 ### See Also
 
-* class [FileSearch](../../../aspose.pdf.ai/filesearch/)
+* class [FileSearch](../../filesearch/)
 * class [ToolResources](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

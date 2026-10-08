@@ -7,7 +7,7 @@ description: "XFormCollection method. Copies XFormCollection into collection."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/xformcollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFormCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public void CopyTo(XForm[] array, int index)
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
+* class [XForm](../../xform/)
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

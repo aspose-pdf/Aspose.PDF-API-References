@@ -7,7 +7,7 @@ description: "NumberFormatList method. Inserts number format into list."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/measure.numberformatlist/insert/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.NumberFormatList.Insert method
 
@@ -24,7 +24,8 @@ public void Insert(int index, NumberFormat value)
 
 ### See Also
 
-* class [Measure.NumberFormatList](../)
+* class [NumberFormat](../../measure.numberformat/)
+* class [NumberFormatList](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

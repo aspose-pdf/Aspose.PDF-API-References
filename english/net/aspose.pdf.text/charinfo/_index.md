@@ -8,7 +8,7 @@ type: docs
 weight: 50
 url: "/net/aspose.pdf.text/charinfo/"
 keywords: "CharInfo, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CharInfo class
 
@@ -23,8 +23,8 @@ public sealed class CharInfo
 
 | Name | Description |
 | --- | --- |
-| [Position](./position/) { get; } | Gets position of the character. |
-| [Rectangle](./rectangle/) { get; } | Gets rectangle of the character. |
+| [Position](../../aspose.pdf.text/charinfo/position/) { get; } | Gets position of the character. |
+| [Rectangle](../../aspose.pdf.text/charinfo/rectangle/) { get; } | Gets rectangle of the character. |
 
 ### See Also
 

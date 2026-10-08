@@ -7,7 +7,7 @@ description: "ExcelSaveOptions property. Set true for using uniform columns divi
 type: docs
 weight: 40
 url: "/net/aspose.pdf/excelsaveoptions/uniformworksheets/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExcelSaveOptions.UniformWorksheets property
 

@@ -7,38 +7,9 @@ description: "PdfAnnotationEditor method. Imports all annotations from XFDF file
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## ImportAnnotationsFromXfdf(Stream) {#importannotationsfromxfdf}
-
-Imports all annotations from XFDF data stream.
-
-```csharp
-public void ImportAnnotationsFromXfdf(Stream xfdfStream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| xfdfStream | Stream | The input XFDF data stream. |
-
-## Examples
-
-```csharp
-PdfAnnotationEditor editor = new PdfAnnotationEditor();
-editor.BindPdf("example.pdf");
-editor.ImportAnnotationsFromXfdf(File.OpenRead("annots.xfdf"));
-editor.Save("example_out.pdf");
-```
-
-### See Also
-
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf_1}
+## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf}
 
 Imports all annotations from XFDF file.
 
@@ -56,6 +27,35 @@ public void ImportAnnotationsFromXfdf(string xfdfFile)
 PdfAnnotationEditor editor = new PdfAnnotationEditor();
 editor.BindPdf("example.pdf");
 editor.ImportAnnotationsFromXfdf("annots.xfdf");
+editor.Save("example_out.pdf");
+```
+
+### See Also
+
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ImportAnnotationsFromXfdf(Stream) {#importannotationsfromxfdf_1}
+
+Imports all annotations from XFDF data stream.
+
+```csharp
+public void ImportAnnotationsFromXfdf(Stream xfdfStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| xfdfStream | Stream | The input XFDF data stream. |
+
+## Examples
+
+```csharp
+PdfAnnotationEditor editor = new PdfAnnotationEditor();
+editor.BindPdf("example.pdf");
+editor.ImportAnnotationsFromXfdf(File.OpenRead("annots.xfdf"));
 editor.Save("example_out.pdf");
 ```
 

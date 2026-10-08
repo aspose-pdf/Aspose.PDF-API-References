@@ -7,7 +7,7 @@ description: "BaseParagraph property. Gets or sets a horizontal alignment of par
 type: docs
 weight: 30
 url: "/net/aspose.pdf/baseparagraph/horizontalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseParagraph.HorizontalAlignment property
 
@@ -19,7 +19,7 @@ public virtual HorizontalAlignment HorizontalAlignment { get; set; }
 
 ### See Also
 
-* enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
+* enum [HorizontalAlignment](../../horizontalalignment/)
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

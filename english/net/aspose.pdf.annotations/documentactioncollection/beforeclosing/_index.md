@@ -7,7 +7,7 @@ description: "DocumentActionCollection property. Gets or sets action that will b
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/documentactioncollection/beforeclosing/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentActionCollection.BeforeClosing property
 
@@ -19,7 +19,7 @@ public PdfAction BeforeClosing { get; set; }
 
 ### See Also
 
-* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [PdfAction](../../pdfaction/)
 * class [DocumentActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "BaseParagraph property. Gets or sets a bool value that force this 
 type: docs
 weight: 70
 url: "/net/aspose.pdf/baseparagraph/isinnewpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseParagraph.IsInNewPage property
 

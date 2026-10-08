@@ -7,7 +7,7 @@ description: "Aspose.Pdf.DocSaveOptions.DocFormat enum. Allows to specify .doc o
 type: docs
 weight: 590
 url: "/net/aspose.pdf/docsaveoptions.docformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocSaveOptions.DocFormat enumeration
 

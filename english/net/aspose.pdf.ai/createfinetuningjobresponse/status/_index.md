@@ -7,7 +7,7 @@ description: "CreateFineTuningJobResponse property. Gets or sets the status of t
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/createfinetuningjobresponse/status/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateFineTuningJobResponse.Status property
 

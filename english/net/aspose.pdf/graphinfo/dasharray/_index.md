@@ -7,7 +7,7 @@ description: "GraphInfo property. Gets or sets a dash array."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/graphinfo/dasharray/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphInfo.DashArray property
 

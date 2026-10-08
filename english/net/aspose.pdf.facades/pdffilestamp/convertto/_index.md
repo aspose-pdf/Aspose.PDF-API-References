@@ -7,7 +7,7 @@ description: "PdfFileStamp property. Sets PDF file format. Result file will be s
 type: docs
 weight: 300
 url: "/net/aspose.pdf.facades/pdffilestamp/convertto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileStamp.ConvertTo property
 

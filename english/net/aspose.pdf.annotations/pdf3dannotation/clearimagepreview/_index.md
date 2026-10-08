@@ -7,7 +7,7 @@ description: "PDF3DAnnotation method. Clears the image preview."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/pdf3dannotation/clearimagepreview/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DAnnotation.ClearImagePreview method
 

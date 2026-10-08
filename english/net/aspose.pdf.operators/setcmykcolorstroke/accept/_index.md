@@ -7,7 +7,7 @@ description: "SetCMYKColorStroke method. Accepts visitor object to process opera
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setcmykcolorstroke/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCMYKColorStroke.Accept method
 

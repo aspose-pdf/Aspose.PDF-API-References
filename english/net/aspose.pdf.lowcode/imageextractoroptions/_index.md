@@ -8,7 +8,7 @@ type: docs
 weight: 470
 url: "/net/aspose.pdf.lowcode/imageextractoroptions/"
 keywords: "ImageExtractorOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageExtractorOptions class
 
@@ -22,14 +22,14 @@ public sealed class ImageExtractorOptions : PdfExtractorOptions
 
 | Name | Description |
 | --- | --- |
-| [ImageExtractorOptions](./imageextractoroptions/)() | The default constructor. |
+| [ImageExtractorOptions](imageextractoroptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Inputs](../../aspose.pdf.lowcode/pdfextractoroptions/inputs/) { get; } | Returns PdfExtractor plugin data collection. |
-| override [OperationName](./operationname/) { get; } | Returns name of the operation. |
+| override [OperationName](../../aspose.pdf.lowcode/imageextractoroptions/operationname/) { get; } | Returns name of the operation. |
 
 ## Methods
 

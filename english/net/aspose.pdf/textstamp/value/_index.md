@@ -7,7 +7,7 @@ description: "TextStamp property. Gets or sets string value which is used as sta
 type: docs
 weight: 100
 url: "/net/aspose.pdf/textstamp/value/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStamp.Value property
 

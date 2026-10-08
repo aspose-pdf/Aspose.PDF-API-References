@@ -7,7 +7,7 @@ description: "SoundSampleData field. Default value for SamplingRate."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/soundsampledata/defaultsamplingrate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SoundSampleData.DefaultSamplingRate field
 

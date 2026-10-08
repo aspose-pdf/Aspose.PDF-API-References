@@ -7,7 +7,7 @@ description: "Stamp property. Horizontal zooming factor of the stamp. Allows to 
 type: docs
 weight: 170
 url: "/net/aspose.pdf/stamp/zoomx/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.ZoomX property
 

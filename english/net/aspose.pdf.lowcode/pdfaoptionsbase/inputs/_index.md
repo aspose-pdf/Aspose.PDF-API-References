@@ -7,7 +7,7 @@ description: "PdfAOptionsBase property. Gets collection of data sources"
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/inputs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAOptionsBase.Inputs property
 
@@ -19,6 +19,7 @@ public List<IDataSource> Inputs { get; }
 
 ### See Also
 
+* interface [IDataSource](../../idatasource/)
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

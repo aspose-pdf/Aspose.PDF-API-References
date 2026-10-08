@@ -7,7 +7,7 @@ description: "PdfToImageOptions property."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/pdftoimageoptions/outputs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfToImageOptions.Outputs property
 
@@ -19,6 +19,7 @@ public List<IDataSource> Outputs { get; }
 
 ### See Also
 
+* interface [IDataSource](../../idatasource/)
 * class [PdfToImageOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

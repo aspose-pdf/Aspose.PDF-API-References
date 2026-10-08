@@ -7,7 +7,7 @@ description: "HtmlFragment property. Gets or sets HtmlLoadOptions that will be u
 type: docs
 weight: 70
 url: "/net/aspose.pdf/htmlfragment/htmlloadoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlFragment.HtmlLoadOptions property
 
@@ -22,7 +22,7 @@ public HtmlLoadOptions HtmlLoadOptions { get; set; }
 
 ### See Also
 
-* class [HtmlLoadOptions](../../../aspose.pdf/htmlloadoptions/)
+* class [HtmlLoadOptions](../../htmlloadoptions/)
 * class [HtmlFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

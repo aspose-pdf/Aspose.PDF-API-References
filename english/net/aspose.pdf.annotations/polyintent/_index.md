@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.PolyIntent enum. Enumerates the intents of 
 type: docs
 weight: 920
 url: "/net/aspose.pdf.annotations/polyintent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PolyIntent enumeration
 

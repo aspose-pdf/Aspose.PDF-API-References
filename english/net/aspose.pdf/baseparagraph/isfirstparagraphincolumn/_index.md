@@ -7,7 +7,7 @@ description: "BaseParagraph property. Gets or sets a bool value that indicates w
 type: docs
 weight: 50
 url: "/net/aspose.pdf/baseparagraph/isfirstparagraphincolumn/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseParagraph.IsFirstParagraphInColumn property
 

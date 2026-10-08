@@ -7,7 +7,7 @@ description: "AttributeKey field. GlyphOrientationVertical attribute (Layout att
 type: docs
 weight: 330
 url: "/net/aspose.pdf.logicalstructure/attributekey/glyphorientationvertical/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.GlyphOrientationVertical field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey GlyphOrientationVertical;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

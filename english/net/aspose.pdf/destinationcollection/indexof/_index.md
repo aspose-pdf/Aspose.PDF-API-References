@@ -7,7 +7,7 @@ description: "DestinationCollection method. Returns the index of destination in 
 type: docs
 weight: 40
 url: "/net/aspose.pdf/destinationcollection/indexof/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DestinationCollection.IndexOf method
 

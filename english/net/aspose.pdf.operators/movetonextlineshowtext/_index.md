@@ -8,7 +8,7 @@ type: docs
 weight: 440
 url: "/net/aspose.pdf.operators/movetonextlineshowtext/"
 keywords: "MoveToNextLineShowText, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MoveToNextLineShowText class
 
@@ -22,22 +22,21 @@ public class MoveToNextLineShowText : TextShowOperator
 
 | Name | Description |
 | --- | --- |
-| [MoveToNextLineShowText](./movetonextlineshowtext/#constructor)() | Initializes operator. |
-| [MoveToNextLineShowText](./movetonextlineshowtext/#constructor_1)(string) | Initializes operator. |
+| [MoveToNextLineShowText](movetonextlineshowtext/#constructor)() | Initializes operator. |
+| [MoveToNextLineShowText](movetonextlineshowtext/#constructor_1)(string) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| override [Text](./text/) { get; } | Gets operator text. |
+| override [Text](../../aspose.pdf.operators/movetonextlineshowtext/text/) { get; } | Gets operator text. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [Accept](../../aspose.pdf.operators/movetonextlineshowtext/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 

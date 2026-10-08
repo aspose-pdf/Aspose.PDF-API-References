@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute GlyphOrientationVertical: Auto - Sp
 type: docs
 weight: 510
 url: "/net/aspose.pdf.logicalstructure/attributename/glyphorientationvertical_auto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.GlyphOrientationVertical_Auto field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName GlyphOrientationVertical_Auto;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

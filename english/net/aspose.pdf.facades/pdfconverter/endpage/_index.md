@@ -7,7 +7,7 @@ description: "PdfConverter property. Gets or sets end position which you want to
 type: docs
 weight: 600
 url: "/net/aspose.pdf.facades/pdfconverter/endpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfConverter.EndPage property
 

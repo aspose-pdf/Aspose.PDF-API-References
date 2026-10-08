@@ -7,7 +7,7 @@ description: "SetLineCap property. Gets or sets line caps style."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setlinecap/cap/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetLineCap.Cap property
 
@@ -19,7 +19,7 @@ public LineCap Cap { get; set; }
 
 ### See Also
 
-* enum [LineCap](../../../aspose.pdf.operators/linecap/)
+* enum [LineCap](../../linecap/)
 * class [SetLineCap](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

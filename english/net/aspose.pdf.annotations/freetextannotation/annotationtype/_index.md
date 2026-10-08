@@ -7,7 +7,7 @@ description: "FreeTextAnnotation property. Gets type of annotation."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.annotations/freetextannotation/annotationtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FreeTextAnnotation.AnnotationType property
 
@@ -19,7 +19,7 @@ public override AnnotationType AnnotationType { get; }
 
 ### See Also
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* enum [AnnotationType](../../annotationtype/)
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

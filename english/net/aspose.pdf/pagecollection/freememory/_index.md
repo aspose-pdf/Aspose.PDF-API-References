@@ -7,7 +7,7 @@ description: "PageCollection method. Clears cached data"
 type: docs
 weight: 240
 url: "/net/aspose.pdf/pagecollection/freememory/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollection.FreeMemory method
 

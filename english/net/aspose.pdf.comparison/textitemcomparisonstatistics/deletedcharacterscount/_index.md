@@ -7,7 +7,7 @@ description: "TextItemComparisonStatistics property. Gets and sets the number of
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/textitemcomparisonstatistics/deletedcharacterscount/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextItemComparisonStatistics.DeletedCharactersCount property
 

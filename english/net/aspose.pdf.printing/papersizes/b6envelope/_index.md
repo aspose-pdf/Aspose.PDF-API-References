@@ -7,7 +7,7 @@ description: "PaperSizes field. B6 envelope (176 mm by 125 mm)."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.printing/papersizes/b6envelope/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.B6Envelope field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize B6Envelope;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

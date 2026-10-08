@@ -8,7 +8,7 @@ type: docs
 weight: 690
 url: "/net/aspose.pdf.annotations/mediaclip/"
 keywords: "MediaClip, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MediaClip class
 

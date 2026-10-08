@@ -7,7 +7,7 @@ description: "PolyAnnotation property. Gets or sets the interior color with whic
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/polyannotation/interiorcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PolyAnnotation.InteriorColor property
 

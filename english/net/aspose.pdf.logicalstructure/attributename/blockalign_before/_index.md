@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute BlockAlign: Before - Before edge of
 type: docs
 weight: 290
 url: "/net/aspose.pdf.logicalstructure/attributename/blockalign_before/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.BlockAlign_Before field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName BlockAlign_Before;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

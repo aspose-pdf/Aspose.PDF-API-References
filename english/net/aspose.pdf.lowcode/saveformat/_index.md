@@ -7,7 +7,7 @@ description: "Aspose.Pdf.LowCode.SaveFormat enum. Allows to specify .doc or .doc
 type: docs
 weight: 810
 url: "/net/aspose.pdf.lowcode/saveformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveFormat enumeration
 

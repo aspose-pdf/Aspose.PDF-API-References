@@ -7,7 +7,7 @@ description: "Element property. (Optional; PDF 1.4) Text that is an exact replac
 type: docs
 weight: 40
 url: "/net/aspose.pdf.structure/element/actualtext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Element.ActualText property
 

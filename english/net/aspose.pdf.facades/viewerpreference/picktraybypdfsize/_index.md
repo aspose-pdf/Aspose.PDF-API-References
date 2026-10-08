@@ -7,7 +7,7 @@ description: "ViewerPreference field. Use the PDF page size to select the input 
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/viewerpreference/picktraybypdfsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ViewerPreference.PickTrayByPDFSize field
 

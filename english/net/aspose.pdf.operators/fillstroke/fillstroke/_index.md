@@ -7,7 +7,7 @@ description: "FillStroke constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/fillstroke/fillstroke/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FillStroke constructor
 

@@ -7,7 +7,7 @@ description: "Facade property. Gets the document facade is working on."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/facade/document/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Facade.Document property
 

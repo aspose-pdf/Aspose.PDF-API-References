@@ -7,11 +7,11 @@ description: "PdfToImageOptions method. Adds new data source to the PdfToImage p
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/pdftoimageoptions/addinput/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfToImageOptions.AddInput method
 
-Adds new data source to the [`PdfToImage`](../../../aspose.pdf.lowcode/pdftoimage/) plugin data collection.
+Adds new data source to the [`PdfToImage`](../../pdftoimage/) plugin data collection.
 
 ```csharp
 public void AddInput(IDataSource dataSource)
@@ -23,7 +23,7 @@ public void AddInput(IDataSource dataSource)
 
 ### See Also
 
-* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
+* interface [IDataSource](../../idatasource/)
 * class [PdfToImageOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

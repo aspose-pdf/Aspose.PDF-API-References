@@ -7,7 +7,7 @@ description: "BDCProperties constructor. Constructor for properties of BDC opera
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/bdcproperties/bdcproperties/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BDCProperties(string, string) {#constructor}
 

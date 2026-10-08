@@ -7,36 +7,9 @@ description: "DictionaryEditor constructor. Initializes a new instance of the Di
 type: docs
 weight: 10
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/dictionaryeditor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## DictionaryEditor([Document](../../../aspose.pdf/document/)) {#constructor}
-
-Initializes a new instance of the DictionaryEditor class.
-
-```csharp
-public DictionaryEditor(Document document)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | A document with a dictionary for work. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | The document is null. |
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [DictionaryEditor](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## DictionaryEditor([Page](../../../aspose.pdf/page/)) {#constructor_1}
+## DictionaryEditor(Page) {#constructor}
 
 Initializes a new instance of the DictionaryEditor class.
 
@@ -63,7 +36,34 @@ public DictionaryEditor(Page page)
 
 ---
 
-## DictionaryEditor([Resources](../../../aspose.pdf/resources/)) {#constructor_2}
+## DictionaryEditor(Document) {#constructor_1}
+
+Initializes a new instance of the DictionaryEditor class.
+
+```csharp
+public DictionaryEditor(Document document)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | A document with a dictionary for work. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | The document is null. |
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## DictionaryEditor(Resources) {#constructor_2}
 
 Initializes a new instance of the DictionaryEditor class.
 

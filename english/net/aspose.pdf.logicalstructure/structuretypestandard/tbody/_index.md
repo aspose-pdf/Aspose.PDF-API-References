@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Table body row group; PDF 1.5) A gro
 type: docs
 weight: 310
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/tbody/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.TBody field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard TBody;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

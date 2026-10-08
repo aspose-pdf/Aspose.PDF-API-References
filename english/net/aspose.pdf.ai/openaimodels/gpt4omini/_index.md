@@ -7,7 +7,7 @@ description: "OpenAIModels property. Gets the identifier for the GPT-4o-mini mod
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/openaimodels/gpt4omini/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIModels.Gpt4OMini property
 

@@ -7,7 +7,7 @@ description: "LastError property. Gets or sets one of server_error, rate_limit_e
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/lasterror/code/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LastError.Code property
 

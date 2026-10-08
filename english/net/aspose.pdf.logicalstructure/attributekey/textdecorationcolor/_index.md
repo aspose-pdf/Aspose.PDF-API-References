@@ -7,7 +7,7 @@ description: "AttributeKey field. TextDecorationColor attribute (Layout attribut
 type: docs
 weight: 280
 url: "/net/aspose.pdf.logicalstructure/attributekey/textdecorationcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.TextDecorationColor field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey TextDecorationColor;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

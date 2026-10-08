@@ -7,7 +7,7 @@ description: "FormFieldFacade field. Defines a solid border style."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/formfieldfacade/borderstylesolid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.BorderStyleSolid field
 

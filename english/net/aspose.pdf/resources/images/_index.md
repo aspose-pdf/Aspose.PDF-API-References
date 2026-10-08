@@ -7,11 +7,11 @@ description: "Resources property. Gets Images images collection"
 type: docs
 weight: 50
 url: "/net/aspose.pdf/resources/images/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Resources.Images property
 
-Gets `Images` images collection
+Gets [`Images`](../images/) images collection
 
 ```csharp
 public XImageCollection Images { get; }
@@ -19,7 +19,7 @@ public XImageCollection Images { get; }
 
 ### See Also
 
-* class [XImageCollection](../../../aspose.pdf/ximagecollection/)
+* class [XImageCollection](../../ximagecollection/)
 * class [Resources](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

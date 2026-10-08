@@ -7,7 +7,7 @@ description: "HiddenDataSanitizationOptions property. Gets or sets the option to
 type: docs
 weight: 90
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/flattenlayers/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HiddenDataSanitizationOptions.FlattenLayers property
 

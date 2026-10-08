@@ -7,7 +7,7 @@ description: "Page property. Gets or sets page footer."
 type: docs
 weight: 400
 url: "/net/aspose.pdf/page/footer/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Footer property
 
@@ -23,7 +23,7 @@ The page footer.
 
 ### See Also
 
-* class [HeaderFooter](../../../aspose.pdf/headerfooter/)
+* class [HeaderFooter](../../headerfooter/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

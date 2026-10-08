@@ -7,7 +7,7 @@ description: "Page method. Detect of the presence of vector graphics, if it is p
 type: docs
 weight: 70
 url: "/net/aspose.pdf/page/hasvectorgraphics/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.HasVectorGraphics method
 

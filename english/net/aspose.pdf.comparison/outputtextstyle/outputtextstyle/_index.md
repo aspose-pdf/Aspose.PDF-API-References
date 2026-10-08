@@ -7,7 +7,7 @@ description: "OutputTextStyle constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/outputtextstyle/outputtextstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputTextStyle constructor
 

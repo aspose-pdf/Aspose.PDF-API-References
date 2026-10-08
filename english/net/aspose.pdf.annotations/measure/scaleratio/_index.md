@@ -7,7 +7,7 @@ description: "Measure property. A text string expressing the scale ratio of the 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/measure/scaleratio/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.ScaleRatio property
 

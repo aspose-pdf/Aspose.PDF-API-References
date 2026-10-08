@@ -7,7 +7,7 @@ description: "Rows property. The items count."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/rows/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rows.Count property
 

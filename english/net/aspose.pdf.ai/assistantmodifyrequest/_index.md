@@ -8,7 +8,7 @@ type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/assistantmodifyrequest/"
 keywords: "AssistantModifyRequest, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantModifyRequest class
 
@@ -22,7 +22,7 @@ public class AssistantModifyRequest : AssistantCreateRequest
 
 | Name | Description |
 | --- | --- |
-| [AssistantModifyRequest](./assistantmodifyrequest/)() | The default constructor. |
+| [AssistantModifyRequest](assistantmodifyrequest/)() | The default constructor. |
 
 ## Properties
 

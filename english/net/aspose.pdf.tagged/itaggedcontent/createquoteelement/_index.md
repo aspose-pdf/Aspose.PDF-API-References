@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates QuoteElement."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.tagged/itaggedcontent/createquoteelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateQuoteElement method
 

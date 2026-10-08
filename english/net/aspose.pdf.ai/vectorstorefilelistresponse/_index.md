@@ -8,7 +8,7 @@ type: docs
 weight: 1430
 url: "/net/aspose.pdf.ai/vectorstorefilelistresponse/"
 keywords: "VectorStoreFileListResponse, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileListResponse class
 
@@ -22,7 +22,7 @@ public class VectorStoreFileListResponse : ListDataResponse<List<VectorStoreFile
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreFileListResponse](./vectorstorefilelistresponse/)() | The default constructor. |
+| [VectorStoreFileListResponse](vectorstorefilelistresponse/)() | The default constructor. |
 
 ## Properties
 
@@ -44,11 +44,12 @@ public class VectorStoreFileListResponse : ListDataResponse<List<VectorStoreFile
 
 | Name | Description |
 | --- | --- |
-| [GetFileIdList](./getfileidlist/)() | Gets the list of file IDs from the vector store. |
+| [GetFileIdList](../../aspose.pdf.ai/vectorstorefilelistresponse/getfileidlist/)() | Gets the list of file IDs from the vector store. |
 
 ### See Also
 
-* class [ListDataResponse<T>](../listdataresponse-1/)
+* class [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
+* class [VectorStoreFileResponse](../vectorstorefileresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
 

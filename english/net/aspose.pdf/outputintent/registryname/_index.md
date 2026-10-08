@@ -7,12 +7,12 @@ description: "OutputIntent property. Gets or sets a text that identifies the reg
 type: docs
 weight: 50
 url: "/net/aspose.pdf/outputintent/registryname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputIntent.RegistryName property
 
 Gets or sets a text that identifies the registry in which the condition designated
- by `OutputConditionIdentifier` is defined.
+ by [`OutputConditionIdentifier`](../outputconditionidentifier/) is defined.
 
 ```csharp
 public string RegistryName { get; set; }

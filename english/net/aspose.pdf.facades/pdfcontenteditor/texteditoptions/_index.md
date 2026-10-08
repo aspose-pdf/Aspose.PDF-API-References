@@ -7,7 +7,7 @@ description: "PdfContentEditor property. Gets or sets text edit options."
 type: docs
 weight: 670
 url: "/net/aspose.pdf.facades/pdfcontenteditor/texteditoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.TextEditOptions property
 

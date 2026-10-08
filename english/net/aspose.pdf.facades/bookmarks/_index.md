@@ -8,11 +8,11 @@ type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/bookmarks/"
 keywords: "Bookmarks, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Bookmarks class
 
-Represents a collection of [`Bookmark`](../../aspose.pdf.facades/bookmark/) objects.
+Represents a collection of [`Bookmark`](../bookmark/) objects.
 
 ```csharp
 public sealed class Bookmarks : List<Bookmark>
@@ -22,10 +22,11 @@ public sealed class Bookmarks : List<Bookmark>
 
 | Name | Description |
 | --- | --- |
-| [Bookmarks](./bookmarks/)() | The default constructor. |
+| [Bookmarks](bookmarks/)() | The default constructor. |
 
 ### See Also
 
+* class [Bookmark](../bookmark/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
 

@@ -7,7 +7,7 @@ description: "SoundSampleData property. Gets or sets the sampling rate."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/soundsampledata/samplingrate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SoundSampleData.SamplingRate property
 

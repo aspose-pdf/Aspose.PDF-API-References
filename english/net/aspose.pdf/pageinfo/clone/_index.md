@@ -7,7 +7,7 @@ description: "PageInfo method. Clone page info."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pageinfo/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageInfo.Clone method
 

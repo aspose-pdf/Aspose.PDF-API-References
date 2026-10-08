@@ -7,7 +7,7 @@ description: "PaperSize property. Gets or sets the name of the type of paper."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.printing/papersize/papername/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSize.PaperName property
 

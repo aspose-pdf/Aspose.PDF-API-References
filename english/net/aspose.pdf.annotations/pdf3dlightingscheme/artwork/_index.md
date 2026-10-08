@@ -7,7 +7,7 @@ description: "PDF3DLightingScheme field. The \"Artwork\" lighting scheme."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/artwork/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DLightingScheme.Artwork field
 
@@ -19,7 +19,7 @@ public static PDF3DLightingScheme Artwork;
 
 ### See Also
 
-* class [PDF3DLightingScheme](../../../aspose.pdf.annotations/pdf3dlightingscheme/)
+* class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "TextParagraph property. Gets or sets position of the paragraph."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.text/textparagraph/position/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextParagraph.Position property
 
@@ -19,7 +19,7 @@ public Position Position { get; set; }
 
 ### See Also
 
-* class [Position](../../../aspose.pdf.text/position/)
+* class [Position](../../position/)
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

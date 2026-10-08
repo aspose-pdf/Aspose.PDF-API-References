@@ -7,7 +7,7 @@ description: "ParagraphAbsorber property. Gets or sets the TextReplaceOptions."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.text/paragraphabsorber/textreplaceoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ParagraphAbsorber.TextReplaceOptions property
 
@@ -19,7 +19,7 @@ public TextReplaceOptions TextReplaceOptions { get; set; }
 
 ### See Also
 
-* class [TextReplaceOptions](../../../aspose.pdf.text/textreplaceoptions/)
+* class [TextReplaceOptions](../../textreplaceoptions/)
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

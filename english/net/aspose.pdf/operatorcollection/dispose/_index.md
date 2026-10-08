@@ -7,7 +7,7 @@ description: "OperatorCollection method. Performs application-defined tasks asso
 type: docs
 weight: 220
 url: "/net/aspose.pdf/operatorcollection/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OperatorCollection.Dispose method
 

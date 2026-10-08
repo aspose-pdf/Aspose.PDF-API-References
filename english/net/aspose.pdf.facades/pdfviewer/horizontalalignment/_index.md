@@ -7,7 +7,7 @@ description: "PdfViewer property. Gets or sets a value that indicates horizontal
 type: docs
 weight: 450
 url: "/net/aspose.pdf.facades/pdfviewer/horizontalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.HorizontalAlignment property
 

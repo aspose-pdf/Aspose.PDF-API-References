@@ -7,11 +7,11 @@ description: "TextProperties property. Gets or sets a value that indicates wheth
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/textproperties/iscolorspecified/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextProperties.IsColorSpecified property
 
-Gets or sets a value that indicates whether the `Color` property is specified.
+Gets or sets a value that indicates whether the [`Color`](../color/) property is specified.
 
 ```csharp
 public bool IsColorSpecified { get; }

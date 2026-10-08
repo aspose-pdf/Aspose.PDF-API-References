@@ -7,7 +7,7 @@ description: "FileSpecification method. Dispose contents."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/filespecification/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSpecification.Dispose method
 

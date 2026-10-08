@@ -7,7 +7,7 @@ description: "Signature property. Force to show/hide signature properties. In ca
 type: docs
 weight: 240
 url: "/net/aspose.pdf.forms/signature/showproperties/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Signature.ShowProperties property
 

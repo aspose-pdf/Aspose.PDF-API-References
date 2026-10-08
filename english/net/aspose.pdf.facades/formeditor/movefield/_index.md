@@ -7,7 +7,7 @@ description: "FormEditor method. Set new position of field."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/formeditor/movefield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.MoveField method
 

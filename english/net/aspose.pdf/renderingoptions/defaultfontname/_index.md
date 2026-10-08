@@ -7,7 +7,7 @@ description: "RenderingOptions property. Gets/sets the default name of font used
 type: docs
 weight: 120
 url: "/net/aspose.pdf/renderingoptions/defaultfontname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenderingOptions.DefaultFontName property
 

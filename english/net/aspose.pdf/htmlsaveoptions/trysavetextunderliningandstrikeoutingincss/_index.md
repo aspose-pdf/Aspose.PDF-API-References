@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. PDF itself does not contain underlining mar
 type: docs
 weight: 490
 url: "/net/aspose.pdf/htmlsaveoptions/trysavetextunderliningandstrikeoutingincss/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.TrySaveTextUnderliningAndStrikeoutingInCss field
 

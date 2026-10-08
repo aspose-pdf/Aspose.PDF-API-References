@@ -7,7 +7,7 @@ description: "EncryptionParameters property. Gets the owner key(The \"O\" field 
 type: docs
 weight: 100
 url: "/net/aspose.pdf.security/encryptionparameters/ownerkey/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EncryptionParameters.OwnerKey property
 

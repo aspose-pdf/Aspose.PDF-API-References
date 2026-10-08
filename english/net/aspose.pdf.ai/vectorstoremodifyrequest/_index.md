@@ -8,7 +8,7 @@ type: docs
 weight: 1470
 url: "/net/aspose.pdf.ai/vectorstoremodifyrequest/"
 keywords: "VectorStoreModifyRequest, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreModifyRequest class
 
@@ -22,15 +22,15 @@ public class VectorStoreModifyRequest
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreModifyRequest](./vectorstoremodifyrequest/)() | The default constructor. |
+| [VectorStoreModifyRequest](vectorstoremodifyrequest/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ExpiresAfter](./expiresafter/) { get; set; } | Gets or sets the expiration policy for a vector store. |
-| [Metadata](./metadata/) { get; set; } | Gets or sets a set of 16 key-value pairs that can be attached to an object. This can be useful for storing additional information about the object in a structured format. Keys can be a maximum of 64 characters long and values can be a maximum of 512 characters long. |
-| [Name](./name/) { get; set; } | Gets or sets the name of the vector store. |
+| [ExpiresAfter](../../aspose.pdf.ai/vectorstoremodifyrequest/expiresafter/) { get; set; } | Gets or sets the expiration policy for a vector store. |
+| [Metadata](../../aspose.pdf.ai/vectorstoremodifyrequest/metadata/) { get; set; } | Gets or sets a set of 16 key-value pairs that can be attached to an object. This can be useful for storing additional information about the object in a structured format. Keys can be a maximum of 64 characters long and values can be a maximum of 512 characters long. |
+| [Name](../../aspose.pdf.ai/vectorstoremodifyrequest/name/) { get; set; } | Gets or sets the name of the vector store. |
 
 ### See Also
 

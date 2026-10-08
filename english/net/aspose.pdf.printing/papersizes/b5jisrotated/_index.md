@@ -7,7 +7,7 @@ description: "PaperSizes field. JIS B5 rotated paper (257 mm by 182 mm)."
 type: docs
 weight: 780
 url: "/net/aspose.pdf.printing/papersizes/b5jisrotated/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.B5JisRotated field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize B5JisRotated;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

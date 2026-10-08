@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.LineEnding enum. Enumerates the line ending
 type: docs
 weight: 610
 url: "/net/aspose.pdf.annotations/lineending/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineEnding enumeration
 

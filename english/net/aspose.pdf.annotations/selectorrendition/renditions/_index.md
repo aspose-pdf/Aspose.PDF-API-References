@@ -7,7 +7,7 @@ description: "SelectorRendition property. Gets array of renditions."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/selectorrendition/renditions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SelectorRendition.Renditions property
 
@@ -19,7 +19,7 @@ public Rendition[] Renditions { get; }
 
 ### See Also
 
-* class [Rendition](../../../aspose.pdf.annotations/rendition/)
+* class [Rendition](../../rendition/)
 * class [SelectorRendition](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

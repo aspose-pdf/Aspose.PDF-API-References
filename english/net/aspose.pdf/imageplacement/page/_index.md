@@ -7,7 +7,7 @@ description: "ImagePlacement property. Gets the page containing the image."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/imageplacement/page/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagePlacement.Page property
 
@@ -19,7 +19,7 @@ public Page Page { get; }
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

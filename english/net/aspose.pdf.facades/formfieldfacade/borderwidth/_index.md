@@ -7,7 +7,7 @@ description: "FormFieldFacade property. The width of a field border."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/formfieldfacade/borderwidth/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.BorderWidth property
 

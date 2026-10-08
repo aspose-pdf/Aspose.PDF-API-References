@@ -7,7 +7,7 @@ description: "FormFieldFacade property. The alignment of a field text, default i
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/formfieldfacade/alignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.Alignment property
 

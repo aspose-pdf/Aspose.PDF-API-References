@@ -7,7 +7,7 @@ description: "EmbeddedFileCollection property. Gets number of embedded files in 
 type: docs
 weight: 110
 url: "/net/aspose.pdf/embeddedfilecollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EmbeddedFileCollection.Count property
 

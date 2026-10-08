@@ -7,7 +7,7 @@ description: "WatermarkAnnotation property. Fuxed print object of Watermark anno
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/watermarkannotation/fixedprint/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WatermarkAnnotation.FixedPrint property
 
@@ -19,7 +19,7 @@ public FixedPrint FixedPrint { get; }
 
 ### See Also
 
-* class [FixedPrint](../../../aspose.pdf.annotations/fixedprint/)
+* class [FixedPrint](../../fixedprint/)
 * class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

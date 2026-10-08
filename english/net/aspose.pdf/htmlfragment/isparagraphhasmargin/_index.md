@@ -7,7 +7,7 @@ description: "HtmlFragment property. Gets or sets is paragraph has default margi
 type: docs
 weight: 40
 url: "/net/aspose.pdf/htmlfragment/isparagraphhasmargin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlFragment.IsParagraphHasMargin property
 

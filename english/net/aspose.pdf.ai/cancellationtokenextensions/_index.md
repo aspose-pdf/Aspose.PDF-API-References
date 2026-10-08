@@ -8,7 +8,7 @@ type: docs
 weight: 150
 url: "/net/aspose.pdf.ai/cancellationtokenextensions/"
 keywords: "CancellationTokenExtensions, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CancellationTokenExtensions class
 
@@ -22,7 +22,7 @@ public static class CancellationTokenExtensions
 
 | Name | Description |
 | --- | --- |
-| static [NoneIfNull](./noneifnull/)(this CancellationToken?) | Returns CancellationToken.None if the input CancellationToken is null; otherwise, returns the input CancellationToken. |
+| static [NoneIfNull](../../aspose.pdf.ai/cancellationtokenextensions/noneifnull/)(this CancellationToken?) | Returns CancellationToken.None if the input CancellationToken is null; otherwise, returns the input CancellationToken. |
 
 ### See Also
 

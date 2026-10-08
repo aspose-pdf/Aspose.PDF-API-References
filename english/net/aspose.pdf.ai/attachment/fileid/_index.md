@@ -7,7 +7,7 @@ description: "Attachment property. Gets or sets the ID of the File that is attac
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/attachment/fileid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Attachment.FileId property
 

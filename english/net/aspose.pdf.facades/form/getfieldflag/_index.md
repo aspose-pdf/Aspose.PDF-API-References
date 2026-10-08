@@ -7,7 +7,7 @@ description: "Form method. Returns flags of the field."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.facades/form/getfieldflag/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.GetFieldFlag method
 
@@ -37,7 +37,7 @@ if (form.GetFieldFlag("textField") == PropertyFlag.ReadOnly)
 
 ### See Also
 
-* enum [PropertyFlag](../../../aspose.pdf.facades/propertyflag/)
+* enum [PropertyFlag](../../propertyflag/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

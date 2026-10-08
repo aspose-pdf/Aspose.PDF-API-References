@@ -7,12 +7,12 @@ description: "VerificationResult property. Indicates whether the digital signatu
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/verificationresult/iscompromised/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VerificationResult.IsCompromised property
 
 Indicates whether the digital signature structure is likely compromised.
- This means a change to bypass signature checking by PDF tools. See `Message` for more details.
+ This means a change to bypass signature checking by PDF tools. See [`Message`](../message/) for more details.
 
 ```csharp
 public bool IsCompromised { get; }

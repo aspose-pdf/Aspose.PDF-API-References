@@ -7,7 +7,7 @@ description: "SetAdvancedColor method. Accepts visitor object to process operato
 type: docs
 weight: 90
 url: "/net/aspose.pdf.operators/setadvancedcolor/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetAdvancedColor.Accept method
 

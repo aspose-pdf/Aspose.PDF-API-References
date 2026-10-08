@@ -7,7 +7,7 @@ description: "ArtifactCollection method. Finds artifacts by custom value."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/artifactcollection/findbyvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ArtifactCollection.FindByValue method
 
@@ -28,6 +28,7 @@ List of found artifacts.
 
 ### See Also
 
+* class [Artifact](../../artifact/)
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

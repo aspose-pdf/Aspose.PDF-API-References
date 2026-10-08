@@ -7,7 +7,7 @@ description: "LlamaChatCompletionResponse method. Returns a string representatio
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/llamachatcompletionresponse/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaChatCompletionResponse.ToString method
 
@@ -16,10 +16,6 @@ Returns a string representation of the first choice.
 ```csharp
 public override string ToString()
 ```
-
-### Return Value
-
-string
 
 ### See Also
 

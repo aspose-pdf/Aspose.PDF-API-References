@@ -7,7 +7,7 @@ description: "TableElement property. Gets or sets the table top coordinate."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.logicalstructure/tableelement/top/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableElement.Top property
 

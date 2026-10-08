@@ -7,7 +7,7 @@ description: "TableElement property. Gets or sets table vertial broken;"
 type: docs
 weight: 90
 url: "/net/aspose.pdf.logicalstructure/tableelement/broken/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableElement.Broken property
 

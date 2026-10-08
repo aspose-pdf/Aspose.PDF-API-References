@@ -7,7 +7,7 @@ description: "OcrTextRecognitionOptions property. Gets or sets the string insert
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ocr/ocrtextrecognitionoptions/pageseparator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OcrTextRecognitionOptions.PageSeparator property
 
@@ -16,6 +16,12 @@ Gets or sets the string inserted between recognized texts of consecutive pages. 
 ```csharp
 public string PageSeparator { get; set; }
 ```
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | Thrown when the assigned value is `null`. |
 
 ### See Also
 

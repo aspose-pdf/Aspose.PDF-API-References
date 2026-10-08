@@ -8,7 +8,7 @@ type: docs
 weight: 280
 url: "/net/aspose.pdf.annotations/defaultappearance/"
 keywords: "DefaultAppearance, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DefaultAppearance class
 
@@ -22,20 +22,20 @@ public sealed class DefaultAppearance
 
 | Name | Description |
 | --- | --- |
-| [DefaultAppearance](./defaultappearance/#constructor)() | Constructor of DefaultAppearance. |
-| [DefaultAppearance](./defaultappearance/#constructor_1)(Font, double, Color) | Constructor of Default Appearance. Previously created font may be specified as default font. |
-| [DefaultAppearance](./defaultappearance/#constructor_2)(string, double, Color) | Constructor of DefaultAppearance. |
+| [DefaultAppearance](defaultappearance/#constructor)() | Constructor of DefaultAppearance. |
+| [DefaultAppearance](defaultappearance/#constructor_1)(string, double, Color) | Constructor of DefaultAppearance. |
+| [DefaultAppearance](defaultappearance/#constructor_2)(Font, double, Color) | Constructor of Default Appearance. Previously created font may be specified as default font. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Font](./font/) { get; } | Gets font specified as default for text. |
-| [FontName](./fontname/) { get; set; } | Gets font name in the default appearance. |
-| [FontResourceName](./fontresourcename/) { get; set; } | Gets font name in the default appearance. |
-| [FontSize](./fontsize/) { get; set; } | Gets font size in default apperance. |
-| [Text](./text/) { get; } | Gets the list of pdf operators which represent appearence. |
-| [TextColor](./textcolor/) { get; set; } | Gets or sets the color of text in the default appearance. |
+| [Font](../../aspose.pdf.annotations/defaultappearance/font/) { get; } | Gets font specified as default for text. |
+| [FontName](../../aspose.pdf.annotations/defaultappearance/fontname/) { get; set; } | Gets font name in the default appearance. |
+| [FontResourceName](../../aspose.pdf.annotations/defaultappearance/fontresourcename/) { get; set; } | Gets font name in the default appearance. |
+| [FontSize](../../aspose.pdf.annotations/defaultappearance/fontsize/) { get; set; } | Gets font size in default apperance. |
+| [Text](../../aspose.pdf.annotations/defaultappearance/text/) { get; } | Gets the list of pdf operators which represent appearence. |
+| [TextColor](../../aspose.pdf.annotations/defaultappearance/textcolor/) { get; set; } | Gets or sets the color of text in the default appearance. |
 
 ### See Also
 

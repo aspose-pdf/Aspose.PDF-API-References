@@ -7,7 +7,7 @@ description: "Matrix property. E member of the transformation matrix."
 type: docs
 weight: 300
 url: "/net/aspose.pdf/matrix/e/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix.E property
 

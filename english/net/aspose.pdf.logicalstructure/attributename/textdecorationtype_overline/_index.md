@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute TextDecorationType: Overline - A li
 type: docs
 weight: 400
 url: "/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_overline/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.TextDecorationType_Overline field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName TextDecorationType_Overline;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

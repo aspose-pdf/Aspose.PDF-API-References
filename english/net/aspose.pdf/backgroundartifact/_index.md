@@ -8,7 +8,7 @@ type: docs
 weight: 100
 url: "/net/aspose.pdf/backgroundartifact/"
 keywords: "BackgroundArtifact, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BackgroundArtifact class
 
@@ -22,7 +22,7 @@ public class BackgroundArtifact : Artifact
 
 | Name | Description |
 | --- | --- |
-| [BackgroundArtifact](./backgroundartifact/)() | Initializes BackgroundArtifact object. |
+| [BackgroundArtifact](backgroundartifact/)() | Initializes BackgroundArtifact object. |
 
 ## Properties
 
@@ -30,8 +30,8 @@ public class BackgroundArtifact : Artifact
 | --- | --- |
 | [ArtifactHorizontalAlignment](../../aspose.pdf/artifact/artifacthorizontalalignment/) { get; set; } | Horizontal alignment of artifact. If position is specified explicitly (in Position property) this value is ignored. |
 | [ArtifactVerticalAlignment](../../aspose.pdf/artifact/artifactverticalalignment/) { get; set; } | Vertical alignment of artifact. If position is specified explicitly (in Position property) this value is ignored. |
-| [BackgroundColor](./backgroundcolor/) { get; set; } | Gets or sets bacground color of background artifact |
-| [BackgroundImage](./backgroundimage/) { get; set; } | Gets or sets bacground image of background artifact |
+| [BackgroundColor](../../aspose.pdf/backgroundartifact/backgroundcolor/) { get; set; } | Gets or sets bacground color of background artifact |
+| [BackgroundImage](../../aspose.pdf/backgroundartifact/backgroundimage/) { get; set; } | Gets or sets bacground image of background artifact |
 | [BottomMargin](../../aspose.pdf/artifact/bottommargin/) { get; set; } | Bottom margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
 | [Contents](../../aspose.pdf/artifact/contents/) { get; } | Gets collection of artifact internal operators. |
 | [CustomSubtype](../../aspose.pdf/artifact/customsubtype/) { get; set; } | Gets name of artifact subtype. May be used if artifact subtype is not standard subtype. |
@@ -62,6 +62,7 @@ public class BackgroundArtifact : Artifact
 | [RemoveValue](../../aspose.pdf/artifact/removevalue/)(string) | Remove custom value from the artifact. |
 | [SaveUpdates](../../aspose.pdf/artifact/saveupdates/)() | Saves all updates in artifact which were made after BeginUpdates() call. |
 | [SetImage](../../aspose.pdf/artifact/setimage/)(Stream) | Sets image of the artifact. |
+| [SetImage](../../aspose.pdf/artifact/setimage/)(string) | Sets image of the artifact. |
 | [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate/)(string[], TextState) | Set text and text properties of the artifact. Allows to specify multiple lines. |
 | [SetPageNumberReplacementString](../../aspose.pdf/artifact/setpagenumberreplacementstring/)(string) | Sets what string will be replaced with the page number. The default value is #. |
 | [SetPdfPage](../../aspose.pdf/artifact/setpdfpage/)(Page) | Sets PDF page which is placed on the document page as artifact. |

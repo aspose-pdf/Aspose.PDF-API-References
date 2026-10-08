@@ -7,7 +7,7 @@ description: "SvgSaveOptions field. Specifies whether output will be created as 
 type: docs
 weight: 40
 url: "/net/aspose.pdf/svgsaveoptions/compressoutputtoziparchive/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SvgSaveOptions.CompressOutputToZipArchive field
 

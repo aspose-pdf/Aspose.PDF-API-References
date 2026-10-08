@@ -7,7 +7,7 @@ description: "ThreadCreateRequest property. Gets or sets a set of resources that
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/threadcreaterequest/toolresources/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadCreateRequest.ToolResources property
 
@@ -19,7 +19,7 @@ public ToolResources ToolResources { get; set; }
 
 ### See Also
 
-* class [ToolResources](../../../aspose.pdf.ai/toolresources/)
+* class [ToolResources](../../toolresources/)
 * class [ThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Document method. Removes all fields from the document and place th
 type: docs
 weight: 560
 url: "/net/aspose.pdf/document/flatten/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Flatten() {#flatten}
 
@@ -39,6 +39,7 @@ public void Flatten(FlattenSettings flattenSettings)
 
 ### See Also
 
+* class [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

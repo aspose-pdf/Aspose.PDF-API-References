@@ -7,15 +7,20 @@ description: "TimestampOptions constructor. Creates a new instance with a PFX fi
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/timestampoptions/timestampoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## TimestampOptions() {#constructor}
+## TimestampOptions(string, string) {#constructor}
 
-Creates a new instance with default values. Used to sing TSA with a PFX file.
+Creates a new instance with a PFX file path and password.
 
 ```csharp
-public TimestampOptions()
+public TimestampOptions(string pfxPath, string password)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pfxPath | String | Path to the PFX file. |
+| password | String | Password for the PFX file. |
 
 ### See Also
 
@@ -46,18 +51,13 @@ public TimestampOptions(Stream pfxStream, string password)
 
 ---
 
-## TimestampOptions(string, string) {#constructor_2}
+## TimestampOptions() {#constructor_2}
 
-Creates a new instance with a PFX file path and password.
+Creates a new instance with default values. Used to sing TSA with a PFX file.
 
 ```csharp
-public TimestampOptions(string pfxPath, string password)
+public TimestampOptions()
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pfxPath | String | Path to the PFX file. |
-| password | String | Password for the PFX file. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "TextStamp property. Automatically adjust font size precision. Defa
 type: docs
 weight: 200
 url: "/net/aspose.pdf/textstamp/autoadjustfontsizeprecision/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStamp.AutoAdjustFontSizePrecision property
 

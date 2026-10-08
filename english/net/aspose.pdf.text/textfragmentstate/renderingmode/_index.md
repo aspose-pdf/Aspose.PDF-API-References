@@ -7,7 +7,7 @@ description: "TextFragmentState property. Gets or sets rendering mode of the tex
 type: docs
 weight: 100
 url: "/net/aspose.pdf.text/textfragmentstate/renderingmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentState.RenderingMode property
 
@@ -19,7 +19,7 @@ public override TextRenderingMode RenderingMode { get; set; }
 
 ### See Also
 
-* enum [TextRenderingMode](../../../aspose.pdf.text/textrenderingmode/)
+* enum [TextRenderingMode](../../textrenderingmode/)
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

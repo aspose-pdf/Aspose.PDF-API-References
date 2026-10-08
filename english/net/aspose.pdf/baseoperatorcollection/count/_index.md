@@ -7,7 +7,7 @@ description: "BaseOperatorCollection property. Gets count of operators in the co
 type: docs
 weight: 120
 url: "/net/aspose.pdf/baseoperatorcollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseOperatorCollection.Count property
 

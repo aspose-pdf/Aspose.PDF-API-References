@@ -7,7 +7,7 @@ description: "XFormCollection method. Adds new XForm into collection."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xformcollection/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFormCollection.Add method
 
@@ -23,7 +23,7 @@ public void Add(XForm item)
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
+* class [XForm](../../xform/)
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

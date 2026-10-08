@@ -8,7 +8,7 @@ type: docs
 weight: 280
 url: "/net/aspose.pdf/center/"
 keywords: "Center, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Center class
 
@@ -22,7 +22,7 @@ public sealed class Center : HeaderFooterData
 
 | Name | Description |
 | --- | --- |
-| [Center](./center/)() | The default constructor. |
+| [Center](center/)() | The default constructor. |
 
 ## Properties
 

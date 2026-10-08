@@ -7,7 +7,7 @@ description: "TextSegment property. Gets or sets the segment hyperlink(for pdf g
 type: docs
 weight: 130
 url: "/net/aspose.pdf.text/textsegment/hyperlink/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSegment.Hyperlink property
 

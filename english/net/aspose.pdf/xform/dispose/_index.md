@@ -7,7 +7,7 @@ description: "XForm method. Frees up memory"
 type: docs
 weight: 40
 url: "/net/aspose.pdf/xform/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XForm.Dispose method
 

@@ -7,7 +7,7 @@ description: "GradientRadialShading property. Gets or sets starting circle radiu
 type: docs
 weight: 50
 url: "/net/aspose.pdf.drawing/gradientradialshading/startingradius/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GradientRadialShading.StartingRadius property
 

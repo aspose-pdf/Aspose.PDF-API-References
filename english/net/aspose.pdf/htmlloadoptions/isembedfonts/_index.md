@@ -7,7 +7,7 @@ description: "HtmlLoadOptions property. Gets or sets fonts embedding to result d
 type: docs
 weight: 40
 url: "/net/aspose.pdf/htmlloadoptions/isembedfonts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlLoadOptions.IsEmbedFonts property
 

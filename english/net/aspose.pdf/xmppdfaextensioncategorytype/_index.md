@@ -7,7 +7,7 @@ description: "Aspose.Pdf.XmpPdfAExtensionCategoryType enum. Property category: i
 type: docs
 weight: 3240
 url: "/net/aspose.pdf/xmppdfaextensioncategorytype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionCategoryType enumeration
 

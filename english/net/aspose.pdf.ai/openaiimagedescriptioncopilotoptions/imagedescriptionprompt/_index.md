@@ -7,7 +7,7 @@ description: "OpenAIImageDescriptionCopilotOptions property. Gets or sets the pr
 type: docs
 weight: 190
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/imagedescriptionprompt/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIImageDescriptionCopilotOptions.ImageDescriptionPrompt property
 

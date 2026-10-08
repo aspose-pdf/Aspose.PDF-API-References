@@ -7,7 +7,7 @@ description: "FormTextBoxFieldCreateOptions property. Gets/sets the value to det
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/formtextboxfieldcreateoptions/maxlen/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormTextBoxFieldCreateOptions.MaxLen property
 

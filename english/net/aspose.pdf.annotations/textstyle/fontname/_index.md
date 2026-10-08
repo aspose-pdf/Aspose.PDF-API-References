@@ -7,7 +7,7 @@ description: "TextStyle property. Name of the font."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/textstyle/fontname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStyle.FontName property
 

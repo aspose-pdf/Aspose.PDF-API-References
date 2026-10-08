@@ -7,7 +7,7 @@ description: "TeXLoadOptions property. Gets/set the name of the job."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/texloadoptions/jobname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXLoadOptions.JobName property
 

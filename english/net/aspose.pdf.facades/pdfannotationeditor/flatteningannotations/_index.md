@@ -7,7 +7,7 @@ description: "PdfAnnotationEditor method. Flattens all annotations in the docume
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/pdfannotationeditor/flatteningannotations/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FlatteningAnnotations() {#flatteningannotations}
 
@@ -48,6 +48,7 @@ public void FlatteningAnnotations(FlattenSettings flattenSettings)
 
 ### See Also
 
+* class [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

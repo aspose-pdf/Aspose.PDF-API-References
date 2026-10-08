@@ -7,7 +7,7 @@ description: "Cells method. Remove cell set from collection."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/cells/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Cells.Remove method
 
@@ -23,7 +23,7 @@ public void Remove(Cell cell)
 
 ### See Also
 
-* class [Cell](../../../aspose.pdf/cell/)
+* class [Cell](../../cell/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

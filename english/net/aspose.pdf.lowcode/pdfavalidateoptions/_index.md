@@ -8,11 +8,11 @@ type: docs
 weight: 620
 url: "/net/aspose.pdf.lowcode/pdfavalidateoptions/"
 keywords: "PdfAValidateOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAValidateOptions class
 
-Represents options for validating PDF/A compliance of PDF documents with the [`PdfAConverter`](../../aspose.pdf.lowcode/pdfaconverter/) plugin.
+Represents options for validating PDF/A compliance of PDF documents with the [`PdfAConverter`](../pdfaconverter/) plugin.
 
 ```csharp
 public sealed class PdfAValidateOptions : PdfAOptionsBase
@@ -22,7 +22,7 @@ public sealed class PdfAValidateOptions : PdfAOptionsBase
 
 | Name | Description |
 | --- | --- |
-| [PdfAValidateOptions](./pdfavalidateoptions/)() | The default constructor. |
+| [PdfAValidateOptions](pdfavalidateoptions/)() | The default constructor. |
 
 ## Properties
 

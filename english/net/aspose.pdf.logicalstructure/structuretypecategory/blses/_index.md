@@ -7,7 +7,7 @@ description: "StructureTypeCategory field. Block-level structure elements (BLSEs
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/structuretypecategory/blses/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeCategory.BLSEs field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeCategory BLSEs;
 
 ### See Also
 
-* class [StructureTypeCategory](../../../aspose.pdf.logicalstructure/structuretypecategory/)
+* class [StructureTypeCategory](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

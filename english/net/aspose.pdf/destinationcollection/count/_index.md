@@ -7,7 +7,7 @@ description: "DestinationCollection property. Gets the number of elements contai
 type: docs
 weight: 100
 url: "/net/aspose.pdf/destinationcollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DestinationCollection.Count property
 

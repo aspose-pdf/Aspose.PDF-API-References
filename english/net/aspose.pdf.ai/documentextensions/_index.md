@@ -8,7 +8,7 @@ type: docs
 weight: 340
 url: "/net/aspose.pdf.ai/documentextensions/"
 keywords: "DocumentExtensions, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentExtensions class
 
@@ -22,8 +22,8 @@ public static class DocumentExtensions
 
 | Name | Description |
 | --- | --- |
-| static [GetChunksAsync](./getchunksasync/)(this Document, ChunkingOptions, string, MarkdownSaveOptions, CancellationToken) |  |
-| static [IngestAsync](./ingestasync/)(this Document, ChunkingOptions, string, IEmbeddingGenerator<string, Embedding<float>>, VectorStoreCollection<string, DocumentChunk>, MarkdownSaveOptions, CancellationToken) |  |
+| static [GetChunksAsync](../../aspose.pdf.ai/documentextensions/getchunksasync/)(this Document, ChunkingOptions, string, MarkdownSaveOptions, CancellationToken) |  |
+| static [IngestAsync](../../aspose.pdf.ai/documentextensions/ingestasync/)(this Document, ChunkingOptions, string, IEmbeddingGenerator&lt;string, Embedding&lt;float&gt;&gt;, VectorStoreCollection&lt;string, DocumentChunk&gt;, MarkdownSaveOptions, CancellationToken) |  |
 
 ### See Also
 

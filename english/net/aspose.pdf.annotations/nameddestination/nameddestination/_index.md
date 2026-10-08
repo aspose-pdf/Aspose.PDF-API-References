@@ -7,7 +7,7 @@ description: "NamedDestination constructor. Create named destination."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/nameddestination/nameddestination/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## NamedDestination constructor
 

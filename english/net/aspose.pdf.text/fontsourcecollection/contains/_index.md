@@ -7,7 +7,7 @@ description: "FontSourceCollection method. Determines whether an element is in t
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/fontsourcecollection/contains/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontSourceCollection.Contains method
 
@@ -27,7 +27,7 @@ True - if element found; otherwise, false.
 
 ### See Also
 
-* class [FontSource](../../../aspose.pdf.text/fontsource/)
+* class [FontSource](../../fontsource/)
 * class [FontSourceCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Measure property. A number format array for measurement of change 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/measure/yformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.YFormat property
 
@@ -19,6 +19,7 @@ public NumberFormatList YFormat { get; set; }
 
 ### See Also
 
+* class [NumberFormatList](../../measure.numberformatlist/)
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

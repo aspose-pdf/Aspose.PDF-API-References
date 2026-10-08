@@ -7,25 +7,9 @@ description: "FileSpecification constructor. Constructor for FileSpecification"
 type: docs
 weight: 10
 url: "/net/aspose.pdf/filespecification/filespecification/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## FileSpecification() {#constructor}
-
-Create new empty file specification.
-
-```csharp
-public FileSpecification()
-```
-
-### See Also
-
-* class [FileSpecification](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## FileSpecification(string) {#constructor_1}
+## FileSpecification(string) {#constructor}
 
 Constructor for FileSpecification
 
@@ -45,7 +29,7 @@ public FileSpecification(string file)
 
 ---
 
-## FileSpecification(Stream, string) {#constructor_2}
+## FileSpecification(Stream, string) {#constructor_1}
 
 Constructor for file specification.
 
@@ -66,7 +50,50 @@ public FileSpecification(Stream stream, string name)
 
 ---
 
-## FileSpecification(string, [Annotation](../../../aspose.pdf.annotations/annotation/)) {#constructor_3}
+## FileSpecification(string, string) {#constructor_2}
+
+Constructor for FileSpecification.
+
+```csharp
+public FileSpecification(string file, string description)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| file | String | File path. |
+| description | String | File description. |
+
+### See Also
+
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## FileSpecification(Stream, string, string) {#constructor_3}
+
+Constructor for FileSpecification.
+
+```csharp
+public FileSpecification(Stream stream, string name, string description)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | Stream to be used in the document. |
+| name | String | A file specification string. |
+| description | String | File description. |
+
+### See Also
+
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## FileSpecification(string, Annotation) {#constructor_4}
 
 Constructor for FileSpecification.
 
@@ -88,40 +115,13 @@ public FileSpecification(string fileName, Annotation annot)
 
 ---
 
-## FileSpecification(string, string) {#constructor_4}
+## FileSpecification() {#constructor_5}
 
-Constructor for FileSpecification.
-
-```csharp
-public FileSpecification(string file, string description)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| file | String | File path. |
-| description | String | File description. |
-
-### See Also
-
-* class [FileSpecification](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## FileSpecification(Stream, string, string) {#constructor_5}
-
-Constructor for FileSpecification.
+Create new empty file specification.
 
 ```csharp
-public FileSpecification(Stream stream, string name, string description)
+public FileSpecification()
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Stream to be used in the document. |
-| name | String | A file specification string. |
-| description | String | File description. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Forms.SubjectNameElements enum. Enumeration describes e
 type: docs
 weight: 370
 url: "/net/aspose.pdf.forms/subjectnameelements/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SubjectNameElements enumeration
 

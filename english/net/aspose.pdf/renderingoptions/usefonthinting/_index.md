@@ -7,7 +7,7 @@ description: "RenderingOptions property. Usage of this flag turn on font hinting
 type: docs
 weight: 80
 url: "/net/aspose.pdf/renderingoptions/usefonthinting/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenderingOptions.UseFontHinting property
 

@@ -7,7 +7,7 @@ description: "PdfFormatConversionOptions property. This flag controls text align
 type: docs
 weight: 180
 url: "/net/aspose.pdf/pdfformatconversionoptions/aligntext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.AlignText property
 

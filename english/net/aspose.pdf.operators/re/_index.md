@@ -8,7 +8,7 @@ type: docs
 weight: 460
 url: "/net/aspose.pdf.operators/re/"
 keywords: "Re, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Re class
 
@@ -22,26 +22,25 @@ public class Re : Operator
 
 | Name | Description |
 | --- | --- |
-| [Re](./re/#constructor)() | Initializes operator. |
-| [Re](./re/#constructor_1)(double, double, double, double) | Initializes operator. |
+| [Re](re/#constructor)() | Initializes operator. |
+| [Re](re/#constructor_1)(double, double, double, double) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Height](./height/) { get; set; } | Height of the rectangle. |
+| [Height](../../aspose.pdf.operators/re/height/) { get; set; } | Height of the rectangle. |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [Width](./width/) { get; set; } | Width of the rectangle. |
-| [X](./x/) { get; set; } | X coordinate of most left side of rectangle. |
-| [Y](./y/) { get; set; } | Y corrdinate of bottom side of rectangle. |
+| [Width](../../aspose.pdf.operators/re/width/) { get; set; } | Width of the rectangle. |
+| [X](../../aspose.pdf.operators/re/x/) { get; set; } | X coordinate of most left side of rectangle. |
+| [Y](../../aspose.pdf.operators/re/y/) { get; set; } | Y corrdinate of bottom side of rectangle. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Returns text representation of the operator. |
+| override [Accept](../../aspose.pdf.operators/re/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/re/tostring/)() | Returns text representation of the operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also

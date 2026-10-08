@@ -7,7 +7,7 @@ description: "TabStop property. Gets or sets a float value that indicates the ta
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/tabstop/position/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TabStop.Position property
 

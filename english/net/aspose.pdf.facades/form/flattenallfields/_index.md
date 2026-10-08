@@ -7,7 +7,7 @@ description: "Form method. Flattens all the fields."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/form/flattenallfields/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.FlattenAllFields method
 

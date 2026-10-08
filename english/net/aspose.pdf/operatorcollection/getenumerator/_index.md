@@ -7,7 +7,7 @@ description: "OperatorCollection method. Returns enumerator for collection"
 type: docs
 weight: 20
 url: "/net/aspose.pdf/operatorcollection/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OperatorCollection.GetEnumerator method
 
@@ -23,6 +23,7 @@ Collection enumerator
 
 ### See Also
 
+* class [Operator](../../operator/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

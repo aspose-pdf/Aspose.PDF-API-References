@@ -7,7 +7,7 @@ description: "FormattedText method. Changes FormattedText font style for CJK (Ch
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/formattedtext/setcjkfontstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormattedText.SetCjkFontStyle method
 

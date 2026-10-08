@@ -7,11 +7,11 @@ description: "SideBySidePagesComparisonResult constructor. Creates an instance o
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/sidebysidepagescomparisonresult/sidebysidepagescomparisonresult/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SideBySidePagesComparisonResult constructor
 
-Creates an instance of [`SideBySidePagesComparisonResult`](../../../aspose.pdf.comparison/sidebysidepagescomparisonresult/) class
+Creates an instance of [`SideBySidePagesComparisonResult`](../) class
 
 ```csharp
 public SideBySidePagesComparisonResult(bool hasChanges, List<EditContainer> firstPageChanges, 
@@ -27,6 +27,8 @@ public SideBySidePagesComparisonResult(bool hasChanges, List<EditContainer> firs
 
 ### See Also
 
+* class [EditContainer](../../editcontainer/)
+* class [DiffOperation](../../diffoperation/)
 * class [SideBySidePagesComparisonResult](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

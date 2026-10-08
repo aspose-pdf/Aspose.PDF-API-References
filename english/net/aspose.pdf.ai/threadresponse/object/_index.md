@@ -7,7 +7,7 @@ description: "ThreadResponse property. Gets or sets the object type, which is al
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/threadresponse/object/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadResponse.Object property
 

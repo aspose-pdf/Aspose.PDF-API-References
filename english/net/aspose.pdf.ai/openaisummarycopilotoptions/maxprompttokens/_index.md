@@ -7,7 +7,7 @@ description: "OpenAISummaryCopilotOptions property. Gets or sets the maximum num
 type: docs
 weight: 190
 url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/maxprompttokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAISummaryCopilotOptions.MaxPromptTokens property
 

@@ -7,7 +7,7 @@ description: "TextBoxField property. Gets or sets text vertical alignment for an
 type: docs
 weight: 120
 url: "/net/aspose.pdf.forms/textboxfield/textverticalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextBoxField.TextVerticalAlignment property
 

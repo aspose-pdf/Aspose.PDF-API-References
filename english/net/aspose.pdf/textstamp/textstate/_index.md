@@ -7,11 +7,11 @@ description: "TextStamp property. Gets text properties of the stamp. See TextSta
 type: docs
 weight: 110
 url: "/net/aspose.pdf/textstamp/textstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStamp.TextState property
 
-Gets text properties of the stamp. See `TextState` for details.
+Gets text properties of the stamp. See [`TextState`](../textstate/) for details.
 
 ```csharp
 public TextState TextState { get; }

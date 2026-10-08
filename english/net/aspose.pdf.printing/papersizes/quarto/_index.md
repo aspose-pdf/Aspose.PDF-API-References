@@ -7,7 +7,7 @@ description: "PaperSizes field. Quarto paper (215 mm by 275 mm)."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.printing/papersizes/quarto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.Quarto field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize Quarto;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

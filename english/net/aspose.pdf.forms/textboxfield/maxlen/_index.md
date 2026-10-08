@@ -7,7 +7,7 @@ description: "TextBoxField property. Gets or sets maximum length of text in the 
 type: docs
 weight: 110
 url: "/net/aspose.pdf.forms/textboxfield/maxlen/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextBoxField.MaxLen property
 

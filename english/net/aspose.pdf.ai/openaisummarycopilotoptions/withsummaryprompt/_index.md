@@ -7,7 +7,7 @@ description: "OpenAISummaryCopilotOptions method. Sets the summary prompt for th
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/withsummaryprompt/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAISummaryCopilotOptions.WithSummaryPrompt method
 
@@ -23,11 +23,11 @@ public OpenAISummaryCopilotOptions WithSummaryPrompt(string summaryPrompt)
 
 ### Return Value
 
-The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
+The current instance of [`OpenAISummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,29 +7,9 @@ description: "PdfFileStamp method. Saves result into specified file."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/pdffilestamp/save/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Save(Stream) {#save}
-
-Saves document into specified stream.
-
-```csharp
-public override void Save(Stream destStream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| destStream | Stream | Stream where document will be saved. |
-
-### See Also
-
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Save(string) {#save_1}
+## Save(string) {#save}
 
 Saves result into specified file.
 
@@ -40,6 +20,26 @@ public override void Save(string destFile)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | destFile | String | Path to file where document will be saved. |
+
+### See Also
+
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(Stream) {#save_1}
+
+Saves document into specified stream.
+
+```csharp
+public override void Save(Stream destStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| destStream | Stream | Stream where document will be saved. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.ImportFormat enum. Specifies import format."
 type: docs
 weight: 1560
 url: "/net/aspose.pdf/importformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImportFormat enumeration
 

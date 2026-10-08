@@ -8,7 +8,7 @@ type: docs
 weight: 2540
 url: "/net/aspose.pdf/printcontroller/"
 keywords: "PrintController, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrintController class
 
@@ -22,23 +22,23 @@ public sealed class PrintController : PrintController, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [PrintController](./printcontroller/)() | The default constructor. |
+| [PrintController](printcontroller/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FileName](./filename/) { get; set; } | Gets or sets file name. |
+| [FileName](../../aspose.pdf/printcontroller/filename/) { get; set; } | Gets or sets file name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/)() | Dispose. |
-| override [OnEndPage](./onendpage/)(PrintDocument, PrintPageEventArgs) | Fires on page end printing. |
-| override [OnEndPrint](./onendprint/)(PrintDocument, PrintEventArgs) | Fires on page start printing. |
-| override [OnStartPage](./onstartpage/)(PrintDocument, PrintPageEventArgs) | Fires on page start printing. |
-| override [OnStartPrint](./onstartprint/)(PrintDocument, PrintEventArgs) | Fires on page start printing. |
+| [Dispose](../../aspose.pdf/printcontroller/dispose/)() | Dispose. |
+| override [OnEndPage](../../aspose.pdf/printcontroller/onendpage/)(PrintDocument, PrintPageEventArgs) | Fires on page end printing. |
+| override [OnEndPrint](../../aspose.pdf/printcontroller/onendprint/)(PrintDocument, PrintEventArgs) | Fires on page start printing. |
+| override [OnStartPage](../../aspose.pdf/printcontroller/onstartpage/)(PrintDocument, PrintPageEventArgs) | Fires on page start printing. |
+| override [OnStartPrint](../../aspose.pdf/printcontroller/onstartprint/)(PrintDocument, PrintEventArgs) | Fires on page start printing. |
 
 ### See Also
 

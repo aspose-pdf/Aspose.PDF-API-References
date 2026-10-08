@@ -7,7 +7,7 @@ description: "Annotation property. Flags of the annotation."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/annotation/flags/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.Flags property
 
@@ -19,7 +19,7 @@ public AnnotationFlags Flags { get; set; }
 
 ### See Also
 
-* enum [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
+* enum [AnnotationFlags](../../annotationflags/)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

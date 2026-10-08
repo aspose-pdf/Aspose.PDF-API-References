@@ -7,7 +7,7 @@ description: "Function property. Gets or sets the name of the function to call."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/function/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Function.Name property
 

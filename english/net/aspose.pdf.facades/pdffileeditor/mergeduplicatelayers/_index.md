@@ -7,7 +7,7 @@ description: "PdfFileEditor property. Optional contents of concatentated documen
 type: docs
 weight: 1030
 url: "/net/aspose.pdf.facades/pdffileeditor/mergeduplicatelayers/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.MergeDuplicateLayers property
 

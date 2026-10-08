@@ -7,7 +7,7 @@ description: "OutputTextStyle property. Get or set text-decoration: line-through
 type: docs
 weight: 50
 url: "/net/aspose.pdf.comparison/outputtextstyle/strikethroughdeleted/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputTextStyle.StrikethroughDeleted property
 

@@ -7,7 +7,7 @@ description: "TextFragment property. Gets or sets the paragraph foot note.(for p
 type: docs
 weight: 220
 url: "/net/aspose.pdf.text/textfragment/footnote/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragment.FootNote property
 

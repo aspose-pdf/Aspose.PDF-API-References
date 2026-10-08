@@ -7,7 +7,7 @@ description: "ThreadMessageCreateRequest method. Sets the metadata for the threa
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/withmetadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadMessageCreateRequest.WithMetadata method
 
@@ -23,11 +23,11 @@ public ThreadMessageCreateRequest WithMetadata(Dictionary<string, string> metada
 
 ### Return Value
 
-The current instance of [`ThreadMessageCreateRequest`](../../../aspose.pdf.ai/threadmessagecreaterequest/).
+The current instance of [`ThreadMessageCreateRequest`](../).
 
 ### See Also
 
-* class [ThreadMessageCreateRequest](../../../aspose.pdf.ai/threadmessagecreaterequest/)
+* class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "CreateChatCompletionChunkResponse property. Gets or sets a list of
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/createchatcompletionchunkresponse/choices/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateChatCompletionChunkResponse.Choices property
 
@@ -20,6 +20,7 @@ public List<Choice> Choices { get; set; }
 
 ### See Also
 
+* class [Choice](../../choice/)
 * class [CreateChatCompletionChunkResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

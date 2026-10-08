@@ -7,7 +7,7 @@ description: "WidgetAnnotation property. Gets annotation parent."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/widgetannotation/parent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WidgetAnnotation.Parent property
 

@@ -7,7 +7,7 @@ description: "RichMediaAnnotation property. Data of the Rich Media content."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/richmediaannotation/content/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RichMediaAnnotation.Content property
 

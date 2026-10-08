@@ -7,7 +7,7 @@ description: "TextStamp method. Adds textual stamp on the page."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/textstamp/put/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStamp.Put method
 
@@ -23,7 +23,7 @@ public override void Put(Page page)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

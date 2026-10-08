@@ -7,11 +7,11 @@ description: "TextState property. Gets or sets the invisibility of text. This ba
 type: docs
 weight: 180
 url: "/net/aspose.pdf.text/textstate/invisible/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextState.Invisible property
 
-Gets or sets the invisibility of text. This basically reflects the `RenderingMode` state, except for some special cases (like clipping).
+Gets or sets the invisibility of text. This basically reflects the [`RenderingMode`](../renderingmode/) state, except for some special cases (like clipping).
 
 ```csharp
 public virtual bool Invisible { get; set; }

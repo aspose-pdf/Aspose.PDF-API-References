@@ -7,7 +7,7 @@ description: "PageInfo property. Gets or sets page pure height without margins."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/pageinfo/pureheight/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageInfo.PureHeight property
 

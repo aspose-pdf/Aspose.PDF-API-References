@@ -7,7 +7,7 @@ description: "SideBySideDocsComparisonResult property. Gets the value indicates 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/sidebysidedocscomparisonresult/haschanges/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SideBySideDocsComparisonResult.HasChanges property
 

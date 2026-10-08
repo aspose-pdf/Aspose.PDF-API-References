@@ -7,7 +7,7 @@ description: "HtmlToPdfOptions property. Gets or sets document page info."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.lowcode/htmltopdfoptions/pageinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlToPdfOptions.PageInfo property
 

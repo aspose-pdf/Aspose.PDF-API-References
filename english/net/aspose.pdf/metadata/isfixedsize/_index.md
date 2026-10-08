@@ -7,7 +7,7 @@ description: "Metadata property. Checks if colleciton has fixed size."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/metadata/isfixedsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metadata.IsFixedSize property
 

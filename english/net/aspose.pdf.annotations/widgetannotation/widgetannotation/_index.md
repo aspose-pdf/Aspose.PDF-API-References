@@ -7,7 +7,7 @@ description: "WidgetAnnotation constructor. Create annotation (used for Generato
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/widgetannotation/widgetannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WidgetAnnotation constructor
 

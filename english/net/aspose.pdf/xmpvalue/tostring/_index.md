@@ -7,7 +7,7 @@ description: "XmpValue method. Returns string representation of XmpValue."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/xmpvalue/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ToString() {#tostring}
 

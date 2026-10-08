@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Returns array of stamps on the page."
 type: docs
 weight: 640
 url: "/net/aspose.pdf.facades/pdfcontenteditor/getstamps/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.GetStamps method
 
@@ -27,7 +27,7 @@ Array of stamps.
 
 ### See Also
 
-* class [StampInfo](../../../aspose.pdf.facades/stampinfo/)
+* class [StampInfo](../../stampinfo/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

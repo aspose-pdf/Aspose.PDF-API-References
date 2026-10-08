@@ -7,33 +7,9 @@ description: "FitRExplicitDestination constructor. Creates local explicit destin
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/fitrexplicitdestination/fitrexplicitdestination/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## FitRExplicitDestination(int, double, double, double, double) {#constructor}
-
-Creates remote explicit destination.
-
-```csharp
-public FitRExplicitDestination(int pageNumber, double left, double bottom, double right, double top)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageNumber | Int32 | The destination page number of remote document. |
-| left | Double | Left horizontal coordinate of visible rectangle. |
-| bottom | Double | Bottom vertical coordinate of visible rectangle. |
-| right | Double | Right horizontal coordinate of visible rectangle. |
-| top | Double | Top vertical coordinate of visible rectangle. |
-
-### See Also
-
-* class [FitRExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## FitRExplicitDestination([Page](../../../aspose.pdf/page/), double, double, double, double) {#constructor_1}
+## FitRExplicitDestination(Page, double, double, double, double) {#constructor}
 
 Creates local explicit destination.
 
@@ -52,6 +28,30 @@ public FitRExplicitDestination(Page page, double left, double bottom, double rig
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
+* class [FitRExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## FitRExplicitDestination(int, double, double, double, double) {#constructor_1}
+
+Creates remote explicit destination.
+
+```csharp
+public FitRExplicitDestination(int pageNumber, double left, double bottom, double right, double top)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageNumber | Int32 | The destination page number of remote document. |
+| left | Double | Left horizontal coordinate of visible rectangle. |
+| bottom | Double | Bottom vertical coordinate of visible rectangle. |
+| right | Double | Right horizontal coordinate of visible rectangle. |
+| top | Double | Top vertical coordinate of visible rectangle. |
+
+### See Also
+
 * class [FitRExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

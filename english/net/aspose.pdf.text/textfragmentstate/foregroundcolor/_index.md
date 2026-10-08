@@ -7,11 +7,11 @@ description: "TextFragmentState property. Gets or sets foreground color of the t
 type: docs
 weight: 150
 url: "/net/aspose.pdf.text/textfragmentstate/foregroundcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentState.ForegroundColor property
 
-Gets or sets foreground color of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object
+Gets or sets foreground color of the text, represented by the [`TextFragment`](../../textfragment/) object
 
 ```csharp
 public override Color ForegroundColor { get; set; }

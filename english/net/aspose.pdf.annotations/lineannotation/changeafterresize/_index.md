@@ -7,7 +7,7 @@ description: "LineAnnotation method. Updates the Starting and Ending points, acc
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/lineannotation/changeafterresize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineAnnotation.ChangeAfterResize method
 

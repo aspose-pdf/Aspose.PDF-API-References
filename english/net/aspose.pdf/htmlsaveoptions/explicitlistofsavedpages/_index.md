@@ -7,7 +7,7 @@ description: "HtmlSaveOptions property. With this property You can explicitely d
 type: docs
 weight: 100
 url: "/net/aspose.pdf/htmlsaveoptions/explicitlistofsavedpages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.ExplicitListOfSavedPages property
 

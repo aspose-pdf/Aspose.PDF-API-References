@@ -7,7 +7,7 @@ description: "Document property. Gets PDF format"
 type: docs
 weight: 1190
 url: "/net/aspose.pdf/document/pdfformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.PdfFormat property
 
@@ -19,7 +19,7 @@ public PdfFormat PdfFormat { get; }
 
 ### See Also
 
-* enum [PdfFormat](../../../aspose.pdf/pdfformat/)
+* enum [PdfFormat](../../pdfformat/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

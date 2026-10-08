@@ -7,7 +7,7 @@ description: "Re property. Y corrdinate of bottom side of rectangle."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.operators/re/y/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Re.Y property
 

@@ -7,7 +7,7 @@ description: "Document method. Linearize the document in order to - open the fir
 type: docs
 weight: 670
 url: "/net/aspose.pdf/document/optimize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.Optimize method
 

@@ -7,7 +7,7 @@ description: "BoundsCheckableList property. Gets the number of elements containe
 type: docs
 weight: 140
 url: "/net/aspose.pdf/boundscheckablelist-1/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BoundsCheckableList<T>.Count property
 
@@ -23,7 +23,7 @@ The number of elements contained in the System.Collections.Generic.List.
 
 ### See Also
 
-* class [BoundsCheckableList<T>](../)
+* class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

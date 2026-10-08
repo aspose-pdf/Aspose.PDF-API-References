@@ -7,17 +7,19 @@ description: "StructureTextState property. Gets or sets character spacing of the
 type: docs
 weight: 120
 url: "/net/aspose.pdf.logicalstructure/structuretextstate/characterspacing/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTextState.CharacterSpacing property
 
 Gets or sets character spacing of the text.
 
-Can be null. Use null to inherit `CharacterSpacing` property from parent structure element.
-
 ```csharp
 public float? CharacterSpacing { get; set; }
 ```
+
+## Remarks
+
+Can be null. Use null to inherit `CharacterSpacing` property from parent structure element.
 
 ### See Also
 

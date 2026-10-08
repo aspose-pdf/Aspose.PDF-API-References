@@ -7,7 +7,7 @@ description: "FreeTextAnnotation property. Gets or sets style of the text in app
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/freetextannotation/textstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FreeTextAnnotation.TextStyle property
 
@@ -19,7 +19,7 @@ public TextStyle TextStyle { get; set; }
 
 ### See Also
 
-* class [TextStyle](../../../aspose.pdf.comparison/textstyle/)
+* class [TextStyle](../../textstyle/)
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

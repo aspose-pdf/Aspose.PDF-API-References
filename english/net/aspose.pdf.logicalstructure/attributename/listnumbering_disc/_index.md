@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute ListNumbering: Disc - Solid circula
 type: docs
 weight: 530
 url: "/net/aspose.pdf.logicalstructure/attributename/listnumbering_disc/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.ListNumbering_Disc field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName ListNumbering_Disc;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

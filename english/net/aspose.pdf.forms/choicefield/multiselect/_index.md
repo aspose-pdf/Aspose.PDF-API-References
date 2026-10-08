@@ -7,7 +7,7 @@ description: "ChoiceField property. Gets or sets multiselection flag."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/choicefield/multiselect/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChoiceField.MultiSelect property
 

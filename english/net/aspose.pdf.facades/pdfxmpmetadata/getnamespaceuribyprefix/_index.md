@@ -7,7 +7,7 @@ description: "PdfXmpMetadata method. Gets namespace URI by prefix."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/getnamespaceuribyprefix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata.GetNamespaceURIByPrefix method
 

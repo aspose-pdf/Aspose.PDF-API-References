@@ -7,7 +7,7 @@ description: "PDF3DContent method. Loads 3D content with the specified filename.
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/pdf3dcontent/load/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DContent.Load method
 

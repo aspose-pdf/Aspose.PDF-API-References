@@ -7,7 +7,7 @@ description: "PageCollection property. Returns true of object is synchorinzed."
 type: docs
 weight: 280
 url: "/net/aspose.pdf/pagecollection/issynchronized/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollection.IsSynchronized property
 

@@ -7,7 +7,7 @@ description: "XFormCollection property. Returns true if object is synchronized."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/xformcollection/issynchronized/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFormCollection.IsSynchronized property
 

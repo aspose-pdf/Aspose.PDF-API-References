@@ -7,7 +7,7 @@ description: "TextSegment property. Gets collection of CharInfo objects that rep
 type: docs
 weight: 120
 url: "/net/aspose.pdf.text/textsegment/characters/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSegment.Characters property
 
@@ -19,7 +19,7 @@ public CharInfoCollection Characters { get; }
 
 ### See Also
 
-* class [CharInfoCollection](../../../aspose.pdf.text/charinfocollection/)
+* class [CharInfoCollection](../../charinfocollection/)
 * class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

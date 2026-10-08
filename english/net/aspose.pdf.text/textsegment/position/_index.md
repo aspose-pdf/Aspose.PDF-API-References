@@ -7,11 +7,11 @@ description: "TextSegment property. Gets text position for text, represented wit
 type: docs
 weight: 80
 url: "/net/aspose.pdf.text/textsegment/position/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSegment.Position property
 
-Gets text position for text, represented with [`TextSegment`](../../../aspose.pdf.text/textsegment/) object.
+Gets text position for text, represented with [`TextSegment`](../) object.
 
 ```csharp
 public Position Position { get; set; }
@@ -19,7 +19,7 @@ public Position Position { get; set; }
 
 ### See Also
 
-* class [Position](../../../aspose.pdf.text/position/)
+* class [Position](../../position/)
 * class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "ArtifactCollection method. Copies colection into an array."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/artifactcollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ArtifactCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public void CopyTo(Artifact[] dest, int index)
 
 ### See Also
 
-* class [Artifact](../../../aspose.pdf/artifact/)
+* class [Artifact](../../artifact/)
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

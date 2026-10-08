@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Gets the names of all empty signature fie
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/pdffilesignature/getblanksignaturenames/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.GetBlankSignatureNames method
 
@@ -23,6 +23,7 @@ Return an IList.
 
 ### See Also
 
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

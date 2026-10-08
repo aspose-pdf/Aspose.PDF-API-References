@@ -7,7 +7,7 @@ description: "BDCProperties property. Gets/sets MCID value."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/bdcproperties/mcid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BDCProperties.MCID property
 

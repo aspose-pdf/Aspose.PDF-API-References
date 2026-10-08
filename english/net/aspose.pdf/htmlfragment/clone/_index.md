@@ -7,7 +7,7 @@ description: "HtmlFragment method. Clones html fragment."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/htmlfragment/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlFragment.Clone method
 

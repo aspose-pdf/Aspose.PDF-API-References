@@ -7,7 +7,7 @@ description: "PdfFileInfo method. Gets the vertical offset of the specified page
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/pdffileinfo/getpageyoffset/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.GetPageYOffset method
 

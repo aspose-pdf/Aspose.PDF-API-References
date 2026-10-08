@@ -7,7 +7,7 @@ description: "CollectionField property. Gets a flag indicating whether the inter
 type: docs
 weight: 60
 url: "/net/aspose.pdf/collectionfield/e/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionField.E property
 

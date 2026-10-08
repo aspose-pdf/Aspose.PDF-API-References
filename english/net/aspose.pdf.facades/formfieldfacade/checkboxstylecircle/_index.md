@@ -7,7 +7,7 @@ description: "FormFieldFacade field. Defines a circle check box style."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.facades/formfieldfacade/checkboxstylecircle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.CheckBoxStyleCircle field
 

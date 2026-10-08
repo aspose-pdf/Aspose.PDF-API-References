@@ -7,7 +7,7 @@ description: "LinkElement property. Gets or Sets Hyperlink for Link Element."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/linkelement/hyperlink/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LinkElement.Hyperlink property
 

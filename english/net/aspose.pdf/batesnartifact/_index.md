@@ -8,7 +8,7 @@ type: docs
 weight: 140
 url: "/net/aspose.pdf/batesnartifact/"
 keywords: "BatesNArtifact, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BatesNArtifact class
 
@@ -22,7 +22,7 @@ public class BatesNArtifact : PaginationArtifact
 
 | Name | Description |
 | --- | --- |
-| [BatesNArtifact](./batesnartifact/)() | Initializes a new instance of the [`BatesNArtifact`](../../aspose.pdf/batesnartifact/) class. This constructor is internal and creates a header artifact instance with default values. |
+| [BatesNArtifact](batesnartifact/)() | Initializes a new instance of the `BatesNArtifact` class. This constructor is internal and creates a header artifact instance with default values. |
 
 ## Properties
 
@@ -40,18 +40,18 @@ public class BatesNArtifact : PaginationArtifact
 | [IsBackground](../../aspose.pdf/artifact/isbackground/) { get; set; } | If true Artifact is placed behind page contents. |
 | [LeftMargin](../../aspose.pdf/artifact/leftmargin/) { get; set; } | Left margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
 | [Lines](../../aspose.pdf/artifact/lines/) { get; } | Lines of multiline text artifact. |
-| [NumberOfDigits](./numberofdigits/) { get; set; } | Gets or sets the number of digits for Bates numbering. The value must be between 3 and 15 inclusive. If a value less than 3 is set, it will be adjusted to 3. If a value greater than 15 is set, it will be adjusted to 15. The default value is 6. |
+| [NumberOfDigits](../../aspose.pdf/batesnartifact/numberofdigits/) { get; set; } | Gets or sets the number of digits for Bates numbering. The value must be between 3 and 15 inclusive. If a value less than 3 is set, it will be adjusted to 3. If a value greater than 15 is set, it will be adjusted to 15. The default value is 6. |
 | [Opacity](../../aspose.pdf/artifact/opacity/) { get; set; } | Gets or sets opacity of the artifact. Possible values are in range 0..1. |
 | [Position](../../aspose.pdf/artifact/position/) { get; set; } | Gets or sets artifact position. If this property is specified, then margins and alignments are ignored. |
-| [Prefix](./prefix/) { get; set; } | Gets or sets the prefix to be added to the Bates number. |
+| [Prefix](../../aspose.pdf/batesnartifact/prefix/) { get; set; } | Gets or sets the prefix to be added to the Bates number. |
 | [Rectangle](../../aspose.pdf/artifact/rectangle/) { get; } | Gets rectangle of the artifact. |
 | [RightMargin](../../aspose.pdf/artifact/rightmargin/) { get; set; } | Right margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
 | [Rotation](../../aspose.pdf/artifact/rotation/) { get; set; } | Gets or sets artifact rotation angle. |
-| [StartNumber](./startnumber/) { get; set; } | Gets or sets the starting number for Bates numbering. The value must be greater than or equal to 1. If a value less than 1 is set, it will be adjusted to 1. |
+| [StartNumber](../../aspose.pdf/batesnartifact/startnumber/) { get; set; } | Gets or sets the starting number for Bates numbering. The value must be greater than or equal to 1. If a value less than 1 is set, it will be adjusted to 1. |
 | [StartPage](../../aspose.pdf/paginationartifact/startpage/) { get; set; } | Gets or sets the starting page number for the artifact. The value must be greater than or equal to 1. If a value less than 1 is set, it will be adjusted to 1. |
 | [Subset](../../aspose.pdf/paginationartifact/subset/) { get; set; } | Gets or sets the subset of pages to which the artifact applies (e.g., all pages, even pages, odd pages). |
 | [Subtype](../../aspose.pdf/artifact/subtype/) { get; set; } | Gets artifact subtype. If artifact has non-standard subtype, name of the subtype may be read via CustomSubtype. |
-| [Suffix](./suffix/) { get; set; } | Gets or sets the suffix to be added to the Bates number. |
+| [Suffix](../../aspose.pdf/batesnartifact/suffix/) { get; set; } | Gets or sets the suffix to be added to the Bates number. |
 | [Text](../../aspose.pdf/artifact/text/) { get; set; } | Gets text of the artifact. |
 | [TextState](../../aspose.pdf/artifact/textstate/) { get; set; } | Text state for artifact text. |
 | [TopMargin](../../aspose.pdf/artifact/topmargin/) { get; set; } | Top margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
@@ -67,6 +67,7 @@ public class BatesNArtifact : PaginationArtifact
 | [RemoveValue](../../aspose.pdf/artifact/removevalue/)(string) | Remove custom value from the artifact. |
 | [SaveUpdates](../../aspose.pdf/artifact/saveupdates/)() | Saves all updates in artifact which were made after BeginUpdates() call. |
 | [SetImage](../../aspose.pdf/artifact/setimage/)(Stream) | Sets image of the artifact. |
+| [SetImage](../../aspose.pdf/artifact/setimage/)(string) | Sets image of the artifact. |
 | [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate/)(string[], TextState) | Set text and text properties of the artifact. Allows to specify multiple lines. |
 | [SetPageNumberReplacementString](../../aspose.pdf/artifact/setpagenumberreplacementstring/)(string) | Sets what string will be replaced with the page number. The default value is #. |
 | [SetPdfPage](../../aspose.pdf/artifact/setpdfpage/)(Page) | Sets PDF page which is placed on the document page as artifact. |

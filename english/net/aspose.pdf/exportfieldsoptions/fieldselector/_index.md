@@ -7,7 +7,7 @@ description: "ExportFieldsOptions property. Gets or sets a delegate that determi
 type: docs
 weight: 20
 url: "/net/aspose.pdf/exportfieldsoptions/fieldselector/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExportFieldsOptions.FieldSelector property
 
@@ -20,6 +20,7 @@ public Predicate<Field> FieldSelector { get; set; }
 
 ### See Also
 
+* class [Field](../../../aspose.pdf.forms/field/)
 * class [ExportFieldsOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Resolution property. Gets or sets vertical image resolution."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.devices/resolution/y/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Resolution.Y property
 

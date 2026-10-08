@@ -7,7 +7,7 @@ description: "PdfToXlsOptions property. Set true if you need to minimize the num
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/pdftoxlsoptions/minimizethenumberofworksheets/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfToXlsOptions.MinimizeTheNumberOfWorksheets property
 

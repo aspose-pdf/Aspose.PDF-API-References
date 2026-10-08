@@ -7,7 +7,7 @@ description: "OpenAIClient method. Retrieves a list of files within a specific v
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/openaiclient/getvectorstorefilesasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIClient.GetVectorStoreFilesAsync method
 
@@ -33,11 +33,12 @@ A task that represents the asynchronous operation. The task result contains a li
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the vector store Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the vector store Id is null or empty. |
 
 ### See Also
 
-* class [VectorStoreFileListQueryParameters](../../../aspose.pdf.ai/vectorstorefilelistqueryparameters/)
+* class [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
+* class [VectorStoreFileListQueryParameters](../../vectorstorefilelistqueryparameters/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

@@ -7,27 +7,11 @@ description: "PKCS1 constructor. Initializes new instance of the PKCS1 class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/pkcs1/pkcs1/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## PKCS1() {#constructor}
+## PKCS1(Stream) {#constructor}
 
-Inititalizes new instance of the [`PKCS1`](../../../aspose.pdf.forms/pkcs1/) class.
-
-```csharp
-public PKCS1()
-```
-
-### See Also
-
-* class [PKCS1](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## PKCS1(Stream) {#constructor_1}
-
-Initializes new instance of the [`PKCS1`](../../../aspose.pdf.forms/pkcs1/) class.
+Initializes new instance of the [`PKCS1`](../) class.
 
 ```csharp
 public PKCS1(Stream image)
@@ -45,18 +29,13 @@ public PKCS1(Stream image)
 
 ---
 
-## PKCS1(Stream, string) {#constructor_2}
+## PKCS1() {#constructor_1}
 
-Inititalizes new instance of the [`PKCS1`](../../../aspose.pdf.forms/pkcs1/) class.
+Inititalizes new instance of the [`PKCS1`](../) class.
 
 ```csharp
-public PKCS1(Stream pfx, string password)
+public PKCS1()
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pfx | Stream | Stream with certificate data organized as pfx. |
-| password | String | Password to get access to the private key in the certificate. |
 
 ### See Also
 
@@ -66,9 +45,9 @@ public PKCS1(Stream pfx, string password)
 
 ---
 
-## PKCS1(string, string) {#constructor_3}
+## PKCS1(string, string) {#constructor_2}
 
-Inititalizes new instance of the [`PKCS1`](../../../aspose.pdf.forms/pkcs1/) class.
+Inititalizes new instance of the [`PKCS1`](../) class.
 
 ```csharp
 public PKCS1(string pfx, string password)
@@ -78,6 +57,27 @@ public PKCS1(string pfx, string password)
 | --- | --- | --- |
 | pfx | String | Pfx file which contains certificate for signing. |
 | password | String | Password for certificate. |
+
+### See Also
+
+* class [PKCS1](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PKCS1(Stream, string) {#constructor_3}
+
+Inititalizes new instance of the [`PKCS1`](../) class.
+
+```csharp
+public PKCS1(Stream pfx, string password)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pfx | Stream | Stream with certificate data organized as pfx. |
+| password | String | Password to get access to the private key in the certificate. |
 
 ### See Also
 

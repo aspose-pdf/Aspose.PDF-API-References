@@ -7,7 +7,7 @@ description: "XFA method. Returns XML node of XFA field tempalte."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/xfa/getfieldtemplate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFA.GetFieldTemplate method
 

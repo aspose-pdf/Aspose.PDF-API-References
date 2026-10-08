@@ -7,7 +7,7 @@ description: "DocSaveOptions property. Gets or sets conversion for Type3 fonts. 
 type: docs
 weight: 120
 url: "/net/aspose.pdf/docsaveoptions/converttype3fonts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocSaveOptions.ConvertType3Fonts property
 

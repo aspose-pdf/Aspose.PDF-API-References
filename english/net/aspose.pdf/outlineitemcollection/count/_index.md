@@ -7,7 +7,7 @@ description: "OutlineItemCollection property. Count of collection items. Please 
 type: docs
 weight: 290
 url: "/net/aspose.pdf/outlineitemcollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.Count property
 

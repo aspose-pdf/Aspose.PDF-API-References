@@ -7,7 +7,7 @@ description: "Aspose.Pdf.LowCode.DataType enum. Represents possible types of dat
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/datatype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DataType enumeration
 

@@ -7,7 +7,7 @@ description: "FormEditor property. Gets or sets size of radio button item size (
 type: docs
 weight: 420
 url: "/net/aspose.pdf.facades/formeditor/radiobuttonitemsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.RadioButtonItemSize property
 

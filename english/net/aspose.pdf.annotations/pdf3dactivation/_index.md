@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.PDF3DActivation enum. Enum PDF3DActivation:
 type: docs
 weight: 760
 url: "/net/aspose.pdf.annotations/pdf3dactivation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DActivation enumeration
 

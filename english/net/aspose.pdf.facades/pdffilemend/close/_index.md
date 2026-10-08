@@ -7,7 +7,7 @@ description: "PdfFileMend method. Closes PdfFileMend object."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/pdffilemend/close/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileMend.Close method
 

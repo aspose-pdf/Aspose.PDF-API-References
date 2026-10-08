@@ -7,7 +7,7 @@ description: "Document property. Gets encrypted status of the document. True if 
 type: docs
 weight: 1520
 url: "/net/aspose.pdf/document/isencrypted/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.IsEncrypted property
 

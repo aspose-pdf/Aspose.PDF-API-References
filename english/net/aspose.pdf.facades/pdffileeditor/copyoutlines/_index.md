@@ -7,7 +7,7 @@ description: "PdfFileEditor property. If true then outlines will be copied."
 type: docs
 weight: 1040
 url: "/net/aspose.pdf.facades/pdffileeditor/copyoutlines/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.CopyOutlines property
 

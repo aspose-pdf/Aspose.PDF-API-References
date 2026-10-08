@@ -7,7 +7,7 @@ description: "Page property. Gets or sets bleed box of the page."
 type: docs
 weight: 550
 url: "/net/aspose.pdf/page/bleedbox/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.BleedBox property
 
@@ -28,7 +28,7 @@ Rectangle bleedBox = document.Pages[1].BleedBox;
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../rectangle/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

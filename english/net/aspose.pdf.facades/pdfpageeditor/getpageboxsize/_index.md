@@ -7,7 +7,7 @@ description: "PdfPageEditor method. Returns size of specified box in document."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/pdfpageeditor/getpageboxsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.GetPageBoxSize method
 
@@ -38,7 +38,6 @@ System.Drawing.Rectangle rect = editor.GetBoxSize(1, "media");
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

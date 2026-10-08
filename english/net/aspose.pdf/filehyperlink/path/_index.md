@@ -7,7 +7,7 @@ description: "FileHyperlink property. Gets or sets the path to file."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/filehyperlink/path/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileHyperlink.Path property
 

@@ -7,7 +7,7 @@ description: "IPlugin method. Charges a plugin to process with defined options"
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/iplugin/process/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IPlugin.Process method
 
@@ -27,8 +27,8 @@ An ResultContainer object containing the result of the processing
 
 ### See Also
 
-* class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
-* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
 * interface [IPlugin](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

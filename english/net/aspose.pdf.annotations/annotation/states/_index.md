@@ -7,7 +7,7 @@ description: "Annotation property. Gets appearance dictionary of annotation."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.annotations/annotation/states/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.States property
 
@@ -19,7 +19,7 @@ public AppearanceDictionary States { get; }
 
 ### See Also
 
-* class [AppearanceDictionary](../../../aspose.pdf.annotations/appearancedictionary/)
+* class [AppearanceDictionary](../../appearancedictionary/)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

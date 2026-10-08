@@ -7,7 +7,7 @@ description: "RunThreadCreateRequest property. Gets or sets the tools that overr
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/runthreadcreaterequest/tools/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunThreadCreateRequest.Tools property
 
@@ -20,6 +20,7 @@ public List<Tool> Tools { get; set; }
 
 ### See Also
 
+* class [Tool](../../tool/)
 * class [RunThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

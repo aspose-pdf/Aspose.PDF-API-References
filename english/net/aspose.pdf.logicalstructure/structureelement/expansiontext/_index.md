@@ -7,7 +7,7 @@ description: "StructureElement property. Gets or sets the expansion text for str
 type: docs
 weight: 210
 url: "/net/aspose.pdf.logicalstructure/structureelement/expansiontext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureElement.ExpansionText property
 

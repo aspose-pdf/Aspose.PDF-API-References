@@ -8,11 +8,11 @@ type: docs
 weight: 120
 url: "/net/aspose.pdf.lowcode/formcheckboxfieldsetoptions/"
 keywords: "FormCheckBoxFieldSetOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormCheckBoxFieldSetOptions class
 
-Represents options for set properties in CheckboxField by [`FormEditor`](../../aspose.pdf.lowcode/formeditor/) plugin.
+Represents options for set properties in CheckboxField by [`FormEditor`](../formeditor/) plugin.
 
 ```csharp
 public class FormCheckBoxFieldSetOptions : FormFieldSetOptions
@@ -22,14 +22,14 @@ public class FormCheckBoxFieldSetOptions : FormFieldSetOptions
 
 | Name | Description |
 | --- | --- |
-| [FormCheckBoxFieldSetOptions](./formcheckboxfieldsetoptions/)() | The default constructor. |
+| [FormCheckBoxFieldSetOptions](formcheckboxfieldsetoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [AlternateName](../../aspose.pdf.lowcode/formfieldoptions/alternatename/) { get; set; } | Gets/sets the value to determine property AlternateName for created/modified field (if will be set). |
-| [Checked](./checked/) { get; set; } | Gets/sets the value to determine property Checked for modified field (if will be set). |
+| [Checked](../../aspose.pdf.lowcode/formcheckboxfieldsetoptions/checked/) { get; set; } | Gets/sets the value to determine property Checked for modified field (if will be set). |
 | [Color](../../aspose.pdf.lowcode/formfieldoptions/color/) { get; set; } | Gets/sets the value to determine property Color for created/modified field (if will be set). |
 | [Contents](../../aspose.pdf.lowcode/formfieldoptions/contents/) { get; set; } | Gets/sets the value to determine property Contents for created/modified field (if will be set). |
 | [DefaultAppearance](../../aspose.pdf.lowcode/formfieldoptions/defaultappearance/) { get; set; } | Gets/sets the value to determine property DefaultAppearance for created/modified field (if will be set). |
@@ -45,7 +45,7 @@ public class FormCheckBoxFieldSetOptions : FormFieldSetOptions
 | [ReadOnly](../../aspose.pdf.lowcode/formfieldoptions/readonly/) { get; set; } | Gets/sets the value to determine whether created/modified field is read only or not (if will be set). |
 | [Rect](../../aspose.pdf.lowcode/formfieldsetoptions/rect/) { get; set; } | Rectangle that be setted to field(s). |
 | [Required](../../aspose.pdf.lowcode/formfieldoptions/required/) { get; set; } | Gets/sets the value to determine whether created/modified field is required or not (if will be set). |
-| [Style](./style/) { get; set; } | Gets/sets the value to determine property BoxStyle for modified field (if will be set). |
+| [Style](../../aspose.pdf.lowcode/formcheckboxfieldsetoptions/style/) { get; set; } | Gets/sets the value to determine property BoxStyle for modified field (if will be set). |
 | [TextHorizontalAlignment](../../aspose.pdf.lowcode/formfieldoptions/texthorizontalalignment/) { get; set; } | Gets/sets the value to determine property TextHorizontalAlignment for created/modified field (if will be set). |
 | [UpdateAppearanceOnConvert](../../aspose.pdf.lowcode/formfieldoptions/updateappearanceonconvert/) { get; set; } | Gets/sets the value to determine whether created/modified field is update appearance on convert or not (if will be set). |
 | [UseFontSubset](../../aspose.pdf.lowcode/formfieldoptions/usefontsubset/) { get; set; } | Gets/sets the value to determine whether created/modified field is use font subset or not (if will be set). |

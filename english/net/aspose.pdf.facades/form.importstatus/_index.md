@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Facades.Form.ImportStatus enum. Status of imported fiel
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/form.importstatus/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.ImportStatus enumeration
 

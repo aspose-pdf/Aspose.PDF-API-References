@@ -7,7 +7,7 @@ description: "TeXMemoryOutputDirectory method. Disposes the instance."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/texmemoryoutputdirectory/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXMemoryOutputDirectory.Dispose method
 

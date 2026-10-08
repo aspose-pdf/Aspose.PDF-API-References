@@ -7,7 +7,7 @@ description: "VectorStoreFileBatchFileListQueryParameters property. Gets or sets
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/filter/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileBatchFileListQueryParameters.Filter property
 

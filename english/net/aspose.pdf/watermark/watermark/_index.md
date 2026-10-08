@@ -7,30 +7,9 @@ description: "Watermark constructor. Initializes a watermark object with an imag
 type: docs
 weight: 10
 url: "/net/aspose.pdf/watermark/watermark/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Watermark([Image](../../../aspose.pdf/image/)) {#constructor}
-
-Initializes a watermark object with an image.
-
-```csharp
-public Watermark(Image image)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | Image | Image of the watermark. |
-
-### See Also
-
-* class [Image](../../../aspose.pdf/image/)
-* class [Watermark](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Watermark([Image](../../../aspose.pdf/image/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
+## Watermark(Image, Rectangle) {#constructor}
 
 Initializes a watermark object with an image and it's position on a page.
 
@@ -45,8 +24,27 @@ public Watermark(Image image, Rectangle rect)
 
 ### See Also
 
-* class [Image](../../../aspose.pdf/image/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../rectangle/)
+* class [Watermark](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Watermark(Image) {#constructor_1}
+
+Initializes a watermark object with an image.
+
+```csharp
+public Watermark(Image image)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| image | Image | Image of the watermark. |
+
+### See Also
+
 * class [Watermark](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

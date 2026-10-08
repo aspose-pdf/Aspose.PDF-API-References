@@ -7,7 +7,7 @@ description: "HtmlPageMarkupSavingInfo field. Set by converter. If set SplitToPa
 type: docs
 weight: 40
 url: "/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/htmlhostpagenumber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.HtmlPageMarkupSavingInfo.HtmlHostPageNumber field
 
@@ -26,7 +26,7 @@ public int HtmlHostPageNumber;
 
 ### See Also
 
-* class [HtmlSaveOptions.HtmlPageMarkupSavingInfo](../)
+* class [HtmlPageMarkupSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "ImagePlacementCollection property. Gets an object that can be used
 type: docs
 weight: 80
 url: "/net/aspose.pdf/imageplacementcollection/syncroot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagePlacementCollection.SyncRoot property
 

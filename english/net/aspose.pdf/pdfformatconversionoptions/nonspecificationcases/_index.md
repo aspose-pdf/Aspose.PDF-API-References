@@ -7,7 +7,7 @@ description: "PdfFormatConversionOptions property. Holds flags to control PDF/A 
 type: docs
 weight: 160
 url: "/net/aspose.pdf/pdfformatconversionoptions/nonspecificationcases/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.NonSpecificationCases property
 
@@ -20,7 +20,7 @@ public PdfANonSpecificationFlags NonSpecificationCases { get; }
 
 ### See Also
 
-* class [PdfANonSpecificationFlags](../../../aspose.pdf/pdfanonspecificationflags/)
+* class [PdfANonSpecificationFlags](../../pdfanonspecificationflags/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

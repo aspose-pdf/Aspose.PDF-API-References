@@ -7,7 +7,7 @@ description: "RunResponse property. Gets or sets the nucleus sampling value used
 type: docs
 weight: 220
 url: "/net/aspose.pdf.ai/runresponse/topp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunResponse.TopP property
 

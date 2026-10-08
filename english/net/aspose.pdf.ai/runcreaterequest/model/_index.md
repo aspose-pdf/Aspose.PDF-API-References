@@ -7,7 +7,7 @@ description: "RunCreateRequest property. Gets or sets the ID of the Model to be 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/runcreaterequest/model/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunCreateRequest.Model property
 

@@ -7,7 +7,7 @@ description: "PdfFileEditor property. If this option used then destination docum
 type: docs
 weight: 1200
 url: "/net/aspose.pdf.facades/pdffileeditor/usediskbuffer/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.UseDiskBuffer property
 

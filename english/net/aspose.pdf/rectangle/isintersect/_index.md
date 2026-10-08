@@ -7,7 +7,7 @@ description: "Rectangle method. Determines whether this rectangle intersects wit
 type: docs
 weight: 110
 url: "/net/aspose.pdf/rectangle/isintersect/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.IsIntersect method
 
@@ -27,7 +27,7 @@ True if this rectangle intersects with specified rectangle. Otherwise false.
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

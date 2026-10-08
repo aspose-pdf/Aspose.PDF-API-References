@@ -7,7 +7,7 @@ description: "IStatus property. Gets or sets the status of the operation."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/istatus/status/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IStatus.Status property
 

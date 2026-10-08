@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute BorderStyle: Hidden - Same as None,
 type: docs
 weight: 140
 url: "/net/aspose.pdf.logicalstructure/attributename/borderstyle_hidden/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.BorderStyle_Hidden field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName BorderStyle_Hidden;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

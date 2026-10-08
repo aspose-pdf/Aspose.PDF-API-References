@@ -7,7 +7,7 @@ description: "OpenAISummaryCopilotOptions method. Sets the top P value for the s
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/withtopp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAISummaryCopilotOptions.WithTopP method
 
@@ -23,11 +23,11 @@ public OpenAISummaryCopilotOptions WithTopP(double? topP)
 
 ### Return Value
 
-The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
+The current instance of [`OpenAISummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "TextEditOptions property. Gets or sets value that permits usage of
 type: docs
 weight: 80
 url: "/net/aspose.pdf.text/texteditoptions/allowlanguagetransformation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextEditOptions.AllowLanguageTransformation property
 

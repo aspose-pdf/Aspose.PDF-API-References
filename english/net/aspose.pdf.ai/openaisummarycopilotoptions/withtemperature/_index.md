@@ -7,7 +7,7 @@ description: "OpenAISummaryCopilotOptions method. Sets the temperature for the s
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/withtemperature/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAISummaryCopilotOptions.WithTemperature method
 
@@ -23,11 +23,11 @@ public OpenAISummaryCopilotOptions WithTemperature(double? temperature)
 
 ### Return Value
 
-The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
+The current instance of [`OpenAISummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

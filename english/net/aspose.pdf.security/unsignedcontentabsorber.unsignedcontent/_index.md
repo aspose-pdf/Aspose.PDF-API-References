@@ -8,7 +8,7 @@ type: docs
 weight: 170
 url: "/net/aspose.pdf.security/unsignedcontentabsorber.unsignedcontent/"
 keywords: "UnsignedContentAbsorber.UnsignedContent, Aspose.Pdf.Security, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnsignedContentAbsorber.UnsignedContent class
 
@@ -24,10 +24,10 @@ public sealed class UnsignedContent
 
 | Name | Description |
 | --- | --- |
-| [Annotations](./annotations/) { get; } | Gets a dictionary of modified annotations that may have changed or added. |
-| [Forms](./forms/) { get; } | Gets form fields that have been incrementally changed or added. |
-| [Pages](./pages/) { get; } | Gets a list of pages whose content is unsigned or has been incrementally changed. |
-| [XForms](./xforms/) { get; } | Gets a dictionary of modified XForm objects that may have changed, although the page itself has not changed (not in the Pages list). |
+| [Annotations](../../aspose.pdf.security/unsignedcontentabsorber.unsignedcontent/annotations/) { get; } | Gets a dictionary of modified annotations that may have changed or added. |
+| [Forms](../../aspose.pdf.security/unsignedcontentabsorber.unsignedcontent/forms/) { get; } | Gets form fields that have been incrementally changed or added. |
+| [Pages](../../aspose.pdf.security/unsignedcontentabsorber.unsignedcontent/pages/) { get; } | Gets a list of pages whose content is unsigned or has been incrementally changed. |
+| [XForms](../../aspose.pdf.security/unsignedcontentabsorber.unsignedcontent/xforms/) { get; } | Gets a dictionary of modified XForm objects that may have changed, although the page itself has not changed (not in the Pages list). |
 
 ### See Also
 

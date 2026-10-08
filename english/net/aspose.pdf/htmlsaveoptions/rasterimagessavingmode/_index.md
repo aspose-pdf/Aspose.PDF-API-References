@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. Converted PDF can contain raster images Thi
 type: docs
 weight: 450
 url: "/net/aspose.pdf/htmlsaveoptions/rasterimagessavingmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.RasterImagesSavingMode field
 
@@ -21,6 +21,7 @@ public RasterImagesSavingModes RasterImagesSavingMode;
 
 ### See Also
 
+* enum [RasterImagesSavingModes](../../htmlsaveoptions.rasterimagessavingmodes/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "AssistantResponse property. Gets or sets an alternative to samplin
 type: docs
 weight: 130
 url: "/net/aspose.pdf.ai/assistantresponse/topp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantResponse.TopP property
 

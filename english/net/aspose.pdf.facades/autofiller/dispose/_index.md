@@ -7,7 +7,7 @@ description: "AutoFiller method. Closes the object and output streams."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/autofiller/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AutoFiller.Dispose method
 

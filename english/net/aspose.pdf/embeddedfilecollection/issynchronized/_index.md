@@ -7,7 +7,7 @@ description: "EmbeddedFileCollection property. Gets a value indicating whether a
 type: docs
 weight: 90
 url: "/net/aspose.pdf/embeddedfilecollection/issynchronized/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EmbeddedFileCollection.IsSynchronized property
 

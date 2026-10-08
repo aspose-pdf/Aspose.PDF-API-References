@@ -8,7 +8,7 @@ type: docs
 weight: 630
 url: "/net/aspose.pdf.lowcode/pdfavalidationresult/"
 keywords: "PdfAValidationResult, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAValidationResult class
 
@@ -22,9 +22,9 @@ public sealed class PdfAValidationResult
 
 | Name | Description |
 | --- | --- |
-| readonly [DataSource](./datasource/) | Gets the data source that was validated. |
-| readonly [IsValid](./isvalid/) | Gets a value indicating whether the validation was successful. |
-| readonly [StandardVersion](./standardversion/) | Gets the PDF/A standard version used for validation. |
+| readonly [DataSource](../../aspose.pdf.lowcode/pdfavalidationresult/datasource/) | Gets the data source that was validated. |
+| readonly [IsValid](../../aspose.pdf.lowcode/pdfavalidationresult/isvalid/) | Gets a value indicating whether the validation was successful. |
+| readonly [StandardVersion](../../aspose.pdf.lowcode/pdfavalidationresult/standardversion/) | Gets the PDF/A standard version used for validation. |
 
 ### See Also
 

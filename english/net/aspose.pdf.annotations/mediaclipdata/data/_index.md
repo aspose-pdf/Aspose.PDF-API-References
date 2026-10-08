@@ -7,7 +7,7 @@ description: "MediaClipData property. Return file specification which contains a
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/mediaclipdata/data/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MediaClipData.Data property
 

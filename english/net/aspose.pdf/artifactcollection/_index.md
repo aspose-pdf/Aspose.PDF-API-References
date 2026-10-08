@@ -8,7 +8,7 @@ type: docs
 weight: 80
 url: "/net/aspose.pdf/artifactcollection/"
 keywords: "ArtifactCollection, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ArtifactCollection class
 
@@ -22,26 +22,27 @@ public class ArtifactCollection : ICollection<Artifact>
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Gets count of artifacts in collection. |
-| [IsReadOnly](./isreadonly/) { get; } | Gets if collection is readonly. Always returns false. |
-| [IsSynchronized](./issynchronized/) { get; } | Is this object synchronized. |
-| [Item](./item/) { get; } | Gets artifact by index. Index is started from 1. |
-| [SyncRoot](./syncroot/) { get; } | Gets synchronization object of the collection. |
+| [Count](../../aspose.pdf/artifactcollection/count/) { get; } | Gets count of artifacts in collection. |
+| [IsReadOnly](../../aspose.pdf/artifactcollection/isreadonly/) { get; } | Gets if collection is readonly. Always returns false. |
+| [IsSynchronized](../../aspose.pdf/artifactcollection/issynchronized/) { get; } | Is this object synchronized. |
+| [Item](../../aspose.pdf/artifactcollection/item/) { get; } | Gets artifact by index. Index is started from 1. |
+| [SyncRoot](../../aspose.pdf/artifactcollection/syncroot/) { get; } | Gets synchronization object of the collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(Artifact) | Adds artifacts to the collection. |
-| [CopyTo](./copyto/)(Artifact[], int) | Copies colection into an array. |
-| [Delete](./delete/)(Artifact) | Deletes specified artifact. |
-| [Delete](./delete/)(int) | Deletes artifact by its index. |
-| [FindByValue](./findbyvalue/)(string, string) | Finds artifacts by custom value. |
-| [GetEnumerator](./getenumerator/)() | Gets enumerator for the collection. |
-| [Update](./update/)(Artifact) | Update artifact inside the collection. |
+| [Add](../../aspose.pdf/artifactcollection/add/)(Artifact) | Adds artifacts to the collection. |
+| [CopyTo](../../aspose.pdf/artifactcollection/copyto/)(Artifact[], int) | Copies colection into an array. |
+| [Delete](../../aspose.pdf/artifactcollection/delete/#delete)(Artifact) | Deletes specified artifact. |
+| [Delete](../../aspose.pdf/artifactcollection/delete/#delete_1)(int) | Deletes artifact by its index. |
+| [FindByValue](../../aspose.pdf/artifactcollection/findbyvalue/)(string, string) | Finds artifacts by custom value. |
+| [GetEnumerator](../../aspose.pdf/artifactcollection/getenumerator/)() | Gets enumerator for the collection. |
+| [Update](../../aspose.pdf/artifactcollection/update/)(Artifact) | Update artifact inside the collection. |
 
 ### See Also
 
+* class [Artifact](../artifact/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
 

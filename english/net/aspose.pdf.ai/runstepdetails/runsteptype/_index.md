@@ -7,7 +7,7 @@ description: "RunStepDetails property. Gets or sets the type of run step."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/runstepdetails/runsteptype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunStepDetails.RunStepType property
 

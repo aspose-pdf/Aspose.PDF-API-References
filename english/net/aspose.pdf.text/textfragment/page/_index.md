@@ -7,17 +7,19 @@ description: "TextFragment property. Gets page that contains the TextFragment"
 type: docs
 weight: 180
 url: "/net/aspose.pdf.text/textfragment/page/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragment.Page property
 
 Gets page that contains the TextFragment
 
-The value can be null in case the TextFragment object doesn't belong to any page.
-
 ```csharp
 public Page Page { get; }
 ```
+
+## Remarks
+
+The value can be null in case the TextFragment object doesn't belong to any page.
 
 ### See Also
 

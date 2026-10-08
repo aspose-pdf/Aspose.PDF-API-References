@@ -7,7 +7,7 @@ description: "XmpField method. Gets value as a structure."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/xmpfield/tostructure/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpField.ToStructure method
 
@@ -23,7 +23,7 @@ The tructure.
 
 ### See Also
 
-* class [XmpField](../../../aspose.pdf/xmpfield/)
+* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

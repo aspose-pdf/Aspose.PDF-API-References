@@ -7,7 +7,7 @@ description: ""
 type: docs
 weight: 620
 url: "/net/aspose.pdf/document.callbackgethocr/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.CallBackGetHocr delegate
 
@@ -27,6 +27,7 @@ The hocr text.
 
 ### See Also
 
+* class [Image](../image/)
 * class [Document](../document/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)

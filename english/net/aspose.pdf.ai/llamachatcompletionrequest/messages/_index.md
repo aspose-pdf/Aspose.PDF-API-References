@@ -7,7 +7,7 @@ description: "LlamaChatCompletionRequest property. Sets or gets a list of messag
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/llamachatcompletionrequest/messages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaChatCompletionRequest.Messages property
 
@@ -19,6 +19,7 @@ public List<ChatMessage> Messages { get; set; }
 
 ### See Also
 
+* class [ChatMessage](../../chatmessage/)
 * class [LlamaChatCompletionRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

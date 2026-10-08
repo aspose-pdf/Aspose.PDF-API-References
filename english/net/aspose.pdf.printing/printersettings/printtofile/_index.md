@@ -7,7 +7,7 @@ description: "PrinterSettings property. Indicates whether to print to a file ins
 type: docs
 weight: 120
 url: "/net/aspose.pdf.printing/printersettings/printtofile/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterSettings.PrintToFile property
 

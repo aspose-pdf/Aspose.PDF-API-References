@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Extracts signature's image."
 type: docs
 weight: 410
 url: "/net/aspose.pdf.facades/pdffilesignature/extractimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.ExtractImage method
 
@@ -27,7 +27,7 @@ If image was successfully found than returns stream object; otherwise, null.
 
 ### See Also
 
-* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

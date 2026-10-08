@@ -7,7 +7,7 @@ description: "VectorStoreResponse property. Gets or sets s set of 16 key-value p
 type: docs
 weight: 120
 url: "/net/aspose.pdf.ai/vectorstoreresponse/metadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreResponse.Metadata property
 

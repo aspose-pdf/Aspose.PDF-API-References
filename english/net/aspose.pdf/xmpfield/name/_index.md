@@ -7,7 +7,7 @@ description: "XmpField property. Gets the name."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/xmpfield/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpField.Name property
 

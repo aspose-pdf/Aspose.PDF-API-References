@@ -7,7 +7,7 @@ description: "Table property. Gets the style for repeating rows"
 type: docs
 weight: 140
 url: "/net/aspose.pdf/table/repeatingrowsstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.RepeatingRowsStyle property
 

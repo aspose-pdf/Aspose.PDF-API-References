@@ -7,7 +7,7 @@ description: "ColorBarAnnotation property. Gets or sets color (one of cyan, mage
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/colorbarannotation/colorofcmyk/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ColorBarAnnotation.ColorOfCMYK property
 
@@ -19,7 +19,7 @@ public ColorsOfCMYK ColorOfCMYK { get; set; }
 
 ### See Also
 
-* enum [ColorsOfCMYK](../../../aspose.pdf.annotations/colorsofcmyk/)
+* enum [ColorsOfCMYK](../../colorsofcmyk/)
 * class [ColorBarAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

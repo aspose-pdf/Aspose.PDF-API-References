@@ -7,7 +7,7 @@ description: "RenditionAction property. Gets or sets rendition associated with t
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/renditionaction/rendition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenditionAction.Rendition property
 
@@ -19,7 +19,7 @@ public Rendition Rendition { get; }
 
 ### See Also
 
-* class [Rendition](../../../aspose.pdf.annotations/rendition/)
+* class [Rendition](../../rendition/)
 * class [RenditionAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

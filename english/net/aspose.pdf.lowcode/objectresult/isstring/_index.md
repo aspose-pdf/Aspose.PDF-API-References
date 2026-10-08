@@ -7,7 +7,7 @@ description: "ObjectResult property. Indicates whether the result is a string."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.lowcode/objectresult/isstring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ObjectResult.IsString property
 

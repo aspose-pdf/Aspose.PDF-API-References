@@ -7,7 +7,7 @@ description: "Point3D property. Y coordinate value."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/point3d/y/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Point3D.Y property
 

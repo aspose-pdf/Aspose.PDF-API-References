@@ -7,7 +7,7 @@ description: "ChunkingOptions method. Validates the current options configuratio
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/chunkingoptions/validate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChunkingOptions.Validate method
 
@@ -21,8 +21,7 @@ public void Validate()
 
 | exception | condition |
 | --- | --- |
-| InvalidOperationException | Thrown when the configuration is invalid, such as when
- <see cref="P:Aspose.Pdf.AI.ChunkingOptions.OverlapSize" /> is greater than or equal to <see cref="P:Aspose.Pdf.AI.ChunkingOptions.MaxChunkSize" />. |
+| InvalidOperationException | Thrown when the configuration is invalid, such as when [`OverlapSize`](../overlapsize/) is greater than or equal to [`MaxChunkSize`](../maxchunksize/). |
 
 ### See Also
 

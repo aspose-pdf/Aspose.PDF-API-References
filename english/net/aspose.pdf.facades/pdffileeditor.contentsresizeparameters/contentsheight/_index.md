@@ -7,7 +7,7 @@ description: "ContentsResizeParameters property. Gets or sets height of the cont
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsheight/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeParameters.ContentsHeight property
 
@@ -19,7 +19,8 @@ public ContentsResizeValue ContentsHeight { get; set; }
 
 ### See Also
 
-* class [PdfFileEditor.ContentsResizeParameters](../)
+* class [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
+* class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

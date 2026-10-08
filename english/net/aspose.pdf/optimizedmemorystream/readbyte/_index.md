@@ -7,7 +7,7 @@ description: "OptimizedMemoryStream method. Reads a byte from the stream and adv
 type: docs
 weight: 60
 url: "/net/aspose.pdf/optimizedmemorystream/readbyte/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizedMemoryStream.ReadByte method
 

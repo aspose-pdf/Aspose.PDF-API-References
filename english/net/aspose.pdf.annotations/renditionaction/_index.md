@@ -8,7 +8,7 @@ type: docs
 weight: 1060
 url: "/net/aspose.pdf.annotations/renditionaction/"
 keywords: "RenditionAction, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenditionAction class
 
@@ -22,10 +22,10 @@ public sealed class RenditionAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [JavaScript](./javascript/) { get; set; } | Gets or sets JavaScript code associated with the action. |
+| [JavaScript](../../aspose.pdf.annotations/renditionaction/javascript/) { get; set; } | Gets or sets JavaScript code associated with the action. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
-| [Rendition](./rendition/) { get; } | Gets or sets rendition associated with the action. |
-| [RenditionOperation](./renditionoperation/) { get; set; } | The operation to perform when the action is triggered. |
+| [Rendition](../../aspose.pdf.annotations/renditionaction/rendition/) { get; } | Gets or sets rendition associated with the action. |
+| [RenditionOperation](../../aspose.pdf.annotations/renditionaction/renditionoperation/) { get; set; } | The operation to perform when the action is triggered. |
 
 ## Methods
 

@@ -7,7 +7,7 @@ description: "CosPdfDictionary constructor. Creates a dictionary from resources.
 type: docs
 weight: 10
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/cospdfdictionary/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfDictionary constructor
 

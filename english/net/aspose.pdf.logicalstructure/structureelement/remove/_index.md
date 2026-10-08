@@ -7,7 +7,7 @@ description: "StructureElement method. Removes: an element from the structure, a
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/structureelement/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureElement.Remove method
 

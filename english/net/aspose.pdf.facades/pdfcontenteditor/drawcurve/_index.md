@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Creates curve annotation."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.facades/pdfcontenteditor/drawcurve/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.DrawCurve method
 
@@ -38,8 +38,7 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [LineInfo](../../../aspose.pdf.facades/lineinfo/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [LineInfo](../../lineinfo/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

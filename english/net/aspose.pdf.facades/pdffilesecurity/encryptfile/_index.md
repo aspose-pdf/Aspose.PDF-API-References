@@ -7,9 +7,9 @@ description: "PdfFileSecurity method. Encrypts Pdf file with userpassword and ow
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/pdffilesecurity/encryptfile/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## EncryptFile(string, string, [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/), [KeySize](../../../aspose.pdf.facades/keysize/)) {#encryptfile}
+## EncryptFile(string, string, DocumentPrivilege, KeySize) {#encryptfile}
 
 Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access.
  The user password and the owner password can be null or empty. The owner password will be replaced 
@@ -50,15 +50,15 @@ fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySi
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* enum [KeySize](../../../aspose.pdf.facades/keysize/)
+* class [DocumentPrivilege](../../documentprivilege/)
+* enum [KeySize](../../keysize/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## EncryptFile(string, string, [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/), [KeySize](../../../aspose.pdf.facades/keysize/), [Algorithm](../../../aspose.pdf.facades/algorithm/)) {#encryptfile_1}
+## EncryptFile(string, string, DocumentPrivilege, KeySize, Algorithm) {#encryptfile_1}
 
 Encrypts Pdf file with userpassword and ownerpassword and sets the document's privileges to access.
  The user password and the owner password can be null or empty. The owner password will be replaced 
@@ -103,9 +103,9 @@ fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* enum [KeySize](../../../aspose.pdf.facades/keysize/)
-* enum [Algorithm](../../../aspose.pdf.facades/algorithm/)
+* class [DocumentPrivilege](../../documentprivilege/)
+* enum [KeySize](../../keysize/)
+* enum [Algorithm](../../algorithm/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

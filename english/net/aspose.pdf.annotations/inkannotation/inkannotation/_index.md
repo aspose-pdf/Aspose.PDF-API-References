@@ -7,9 +7,9 @@ description: "InkAnnotation constructor. Constructor for Ink annotation for Gene
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/inkannotation/inkannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## InkAnnotation([Document](../../../aspose.pdf/document/), IList<Point[]>) {#constructor}
+## InkAnnotation(Document, IList&lt;Point[]&gt;) {#constructor}
 
 Constructor for Ink annotation for Generator.
 
@@ -25,13 +25,14 @@ public InkAnnotation(Document document, IList<Point[]> inkList)
 ### See Also
 
 * class [Document](../../../aspose.pdf/document/)
+* class [Point](../../../aspose.pdf/point/)
 * class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## InkAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), IList<Point[]>) {#constructor_1}
+## InkAnnotation(Page, Rectangle, IList&lt;Point[]&gt;) {#constructor_1}
 
 Creates new Ink annotation on the specified page.
 
@@ -48,7 +49,8 @@ public InkAnnotation(Page page, Rectangle rect, IList<Point[]> inkList)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Point](../../../aspose.pdf/point/)
 * class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

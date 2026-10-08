@@ -7,7 +7,7 @@ description: "AssistantResponse property. Gets or sets the name of the assistant
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/assistantresponse/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantResponse.Name property
 

@@ -8,7 +8,7 @@ type: docs
 weight: 930
 url: "/net/aspose.pdf/fontembeddingexception/"
 keywords: "FontEmbeddingException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontEmbeddingException class
 
@@ -22,15 +22,9 @@ public sealed class FontEmbeddingException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [FontEmbeddingException](./fontembeddingexception/#constructor)(Exception) | Initializes a new instance of the [`FontEmbeddingException`](../../aspose.pdf/fontembeddingexception/) class with a reference to the inner exception that is the cause of this exception. |
-| [FontEmbeddingException](./fontembeddingexception/#constructor_1)(string) | Initializes a new instance of the [`FontEmbeddingException`](../../aspose.pdf/fontembeddingexception/) class. |
-| [FontEmbeddingException](./fontembeddingexception/#constructor_2)(string, Exception) | Initializes a new instance of the [`FontEmbeddingException`](../../aspose.pdf/fontembeddingexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
+| [FontEmbeddingException](fontembeddingexception/#constructor)(string) | Initializes a new instance of the `FontEmbeddingException` class. |
+| [FontEmbeddingException](fontembeddingexception/#constructor_1)(string, Exception) | Initializes a new instance of the `FontEmbeddingException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [FontEmbeddingException](fontembeddingexception/#constructor_2)(Exception) | Initializes a new instance of the `FontEmbeddingException` class with a reference to the inner exception that is the cause of this exception. |
 
 ### See Also
 

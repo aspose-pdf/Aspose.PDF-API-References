@@ -7,7 +7,7 @@ description: "ClosePathStroke method. Accepts visitor object to process operator
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/closepathstroke/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ClosePathStroke.Accept method
 

@@ -7,13 +7,11 @@ description: "TiffSettings property. Gets or sets the type of the compression."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.devices/tiffsettings/compression/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TiffSettings.Compression property
 
 Gets or sets the type of the compression.
-
-Default value is CompressionType.LZW
 
 ```csharp
 public CompressionType Compression { get; set; }
@@ -23,9 +21,13 @@ public CompressionType Compression { get; set; }
 
 The type of the compression.
 
+## Remarks
+
+Default value is CompressionType.LZW
+
 ### See Also
 
-* enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
+* enum [CompressionType](../../compressiontype/)
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

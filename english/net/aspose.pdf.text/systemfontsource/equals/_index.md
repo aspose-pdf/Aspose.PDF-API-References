@@ -7,7 +7,7 @@ description: "SystemFontSource method. Check if system font source objects are e
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/systemfontsource/equals/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SystemFontSource.Equals method
 

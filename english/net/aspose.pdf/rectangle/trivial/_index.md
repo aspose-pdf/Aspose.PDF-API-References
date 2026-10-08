@@ -7,7 +7,7 @@ description: "Rectangle property. Initializes trivial rectangle i.e. rectangle w
 type: docs
 weight: 280
 url: "/net/aspose.pdf/rectangle/trivial/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.Trivial property
 
@@ -19,7 +19,7 @@ public static Rectangle Trivial { get; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

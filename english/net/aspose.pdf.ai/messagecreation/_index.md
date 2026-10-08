@@ -8,7 +8,7 @@ type: docs
 weight: 850
 url: "/net/aspose.pdf.ai/messagecreation/"
 keywords: "MessageCreation, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MessageCreation class
 
@@ -22,13 +22,13 @@ public class MessageCreation
 
 | Name | Description |
 | --- | --- |
-| [MessageCreation](./messagecreation/)() | The default constructor. |
+| [MessageCreation](messagecreation/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [MessageId](./messageid/) { get; set; } | Gets or sets the unique identifier of the message. |
+| [MessageId](../../aspose.pdf.ai/messagecreation/messageid/) { get; set; } | Gets or sets the unique identifier of the message. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "ObjectType property. Gets or sets the function to call."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/toolchoice.objecttype/function/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ToolChoice.ObjectType.Function property
 
@@ -19,8 +19,8 @@ public CompletionFunction Function { get; set; }
 
 ### See Also
 
-* class [CompletionFunction](../../../aspose.pdf.ai/completionfunction/)
-* class [ToolChoice.ObjectType](../)
+* class [CompletionFunction](../../completionfunction/)
+* class [ObjectType](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

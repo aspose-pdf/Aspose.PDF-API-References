@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates BibEntryElement."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.tagged/itaggedcontent/createbibentryelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateBibEntryElement method
 

@@ -7,7 +7,7 @@ description: "AssistantResponse property. Gets or sets the format that the model
 type: docs
 weight: 140
 url: "/net/aspose.pdf.ai/assistantresponse/responseformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantResponse.ResponseFormat property
 
@@ -28,7 +28,7 @@ public ResponseFormat ResponseFormat { get; set; }
 
 ### See Also
 
-* class [ResponseFormat](../../../aspose.pdf.ai/responseformat/)
+* class [ResponseFormat](../../responseformat/)
 * class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

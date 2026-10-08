@@ -7,7 +7,7 @@ description: "BlockTextOperator constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/blocktextoperator/blocktextoperator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BlockTextOperator() {#constructor}
 
@@ -25,7 +25,7 @@ public BlockTextOperator()
 
 ---
 
-## BlockTextOperator([TextProperties](../../../aspose.pdf.facades/textproperties/)) {#constructor_1}
+## BlockTextOperator(TextProperties) {#constructor_1}
 
 Initializes BlockTextOperator which accepts TextProperties.
 

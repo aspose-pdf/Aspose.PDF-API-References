@@ -8,7 +8,7 @@ type: docs
 weight: 930
 url: "/net/aspose.pdf.lowcode/tablecellbuilder/"
 keywords: "TableCellBuilder, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableCellBuilder class
 
@@ -22,8 +22,8 @@ public class TableCellBuilder : TableRowBuilder
 
 | Name | Description |
 | --- | --- |
-| override [AddCell](./addcell/)() | Add cell to table. |
-| [AddParagraph](./addparagraph/)(params BaseParagraph[]) | Add paragraphs to table cell. |
+| override [AddCell](../../aspose.pdf.lowcode/tablecellbuilder/addcell/)() | Add cell to table. |
+| [AddParagraph](../../aspose.pdf.lowcode/tablecellbuilder/addparagraph/)(params BaseParagraph[]) | Add paragraphs to table cell. |
 | override [AddRow](../../aspose.pdf.lowcode/tablerowbuilder/addrow/)() | Overriding AddRow. |
 | [AddTable](../../aspose.pdf.lowcode/tablebuilder/addtable/)() | Add new table to document. |
 | [InsertPageAfter](../../aspose.pdf.lowcode/tablebuilder/insertpageafter/)(int) | Insert page after specified page. |

@@ -7,13 +7,11 @@ description: "TextFragmentState method. Applies settings from another textState.
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/textfragmentstate/applychangesfrom/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentState.ApplyChangesFrom method
 
 Applies settings from another textState.
-
-Only those properties will be copied that were changed explicitly.
 
 ```csharp
 public override void ApplyChangesFrom(TextState textState)
@@ -23,9 +21,13 @@ public override void ApplyChangesFrom(TextState textState)
 | --- | --- | --- |
 | textState | TextState | Text state object. |
 
+## Remarks
+
+Only those properties will be copied that were changed explicitly.
+
 ### See Also
 
-* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TextState](../../textstate/)
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

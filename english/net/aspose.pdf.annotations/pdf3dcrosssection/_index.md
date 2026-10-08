@@ -8,7 +8,7 @@ type: docs
 weight: 800
 url: "/net/aspose.pdf.annotations/pdf3dcrosssection/"
 keywords: "PDF3DCrossSection, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DCrossSection class
 
@@ -22,18 +22,18 @@ public class PDF3DCrossSection
 
 | Name | Description |
 | --- | --- |
-| [PDF3DCrossSection](./pdf3dcrosssection/)(Document) | Initializes a new instance of the [`PDF3DCrossSection`](../../aspose.pdf.annotations/pdf3dcrosssection/) class. |
+| [PDF3DCrossSection](pdf3dcrosssection/)(Document) | Initializes a new instance of the `PDF3DCrossSection` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Center](./center/) { get; set; } | Gets or sets the cross section rotation center. |
-| [CuttingPlaneColor](./cuttingplanecolor/) { get; set; } | Gets or sets the color of the cutting plane. |
-| [CuttingPlaneOpacity](./cuttingplaneopacity/) { get; set; } | Gets or sets the cutting plane opacity. |
-| [CuttingPlaneOrientation](./cuttingplaneorientation/) { get; set; } | Gets or sets the cutting plane orientation. |
-| [CuttingPlanesIntersectionColor](./cuttingplanesintersectioncolor/) { get; set; } | Gets or sets the color of the cutting planes intersection. |
-| [Visibility](./visibility/) { get; set; } | Gets or sets a value indicating visibility of the cutting planes intersection. |
+| [Center](../../aspose.pdf.annotations/pdf3dcrosssection/center/) { get; set; } | Gets or sets the cross section rotation center. |
+| [CuttingPlaneColor](../../aspose.pdf.annotations/pdf3dcrosssection/cuttingplanecolor/) { get; set; } | Gets or sets the color of the cutting plane. |
+| [CuttingPlaneOpacity](../../aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneopacity/) { get; set; } | Gets or sets the cutting plane opacity. |
+| [CuttingPlaneOrientation](../../aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneorientation/) { get; set; } | Gets or sets the cutting plane orientation. |
+| [CuttingPlanesIntersectionColor](../../aspose.pdf.annotations/pdf3dcrosssection/cuttingplanesintersectioncolor/) { get; set; } | Gets or sets the color of the cutting planes intersection. |
+| [Visibility](../../aspose.pdf.annotations/pdf3dcrosssection/visibility/) { get; set; } | Gets or sets a value indicating visibility of the cutting planes intersection. |
 
 ### See Also
 

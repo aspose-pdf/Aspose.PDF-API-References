@@ -8,7 +8,7 @@ type: docs
 weight: 820
 url: "/net/aspose.pdf.ai/messagecontentbase/"
 keywords: "MessageContentBase, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MessageContentBase class
 
@@ -22,9 +22,9 @@ public abstract class MessageContentBase
 
 | Name | Description |
 | --- | --- |
-| [ImageFile](./imagefile/) { get; set; } | Gets or sets an image File in the content of a message. |
-| [ImageUrl](./imageurl/) { get; set; } | Gets or sets an image URL in the content of a message. |
-| [MessageContentType](./messagecontenttype/) { get; set; } | Gets or sets the type of content. |
+| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | Gets or sets an image File in the content of a message. |
+| [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | Gets or sets an image URL in the content of a message. |
+| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | Gets or sets the type of content. |
 
 ### See Also
 

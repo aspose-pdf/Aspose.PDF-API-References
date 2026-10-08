@@ -7,7 +7,7 @@ description: "AIClientBase property. Gets or sets the backoff delay in seconds."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/aiclientbase/backoffdelayseconds/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AIClientBase.BackoffDelaySeconds property
 

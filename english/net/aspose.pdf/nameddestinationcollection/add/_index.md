@@ -7,7 +7,7 @@ description: "NamedDestinationCollection method. Add new named destination."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/nameddestinationcollection/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## NamedDestinationCollection.Add method
 

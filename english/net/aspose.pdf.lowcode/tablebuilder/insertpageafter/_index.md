@@ -7,7 +7,7 @@ description: "TableBuilder method. Insert page after specified page."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/tablebuilder/insertpageafter/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableBuilder.InsertPageAfter method
 
@@ -23,11 +23,11 @@ public TableOptions InsertPageAfter(int page)
 
 ### Return Value
 
-Instance of current [`TableOptions`](../../../aspose.pdf.lowcode/tableoptions/).
+Instance of current [`TableOptions`](../../tableoptions/).
 
 ### See Also
 
-* class [TableOptions](../../../aspose.pdf.lowcode/tableoptions/)
+* class [TableOptions](../../tableoptions/)
 * class [TableBuilder](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

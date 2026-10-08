@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionSchemaDescription property. Gets the namespace URI
 type: docs
 weight: 40
 url: "/net/aspose.pdf/xmppdfaextensionschemadescription/namespaceuri/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchemaDescription.NamespaceURI property
 

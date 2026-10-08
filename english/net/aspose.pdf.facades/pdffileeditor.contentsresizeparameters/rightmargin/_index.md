@@ -7,7 +7,7 @@ description: "ContentsResizeParameters property. Gets or sets right margin on th
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/rightmargin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeParameters.RightMargin property
 
@@ -19,7 +19,8 @@ public ContentsResizeValue RightMargin { get; set; }
 
 ### See Also
 
-* class [PdfFileEditor.ContentsResizeParameters](../)
+* class [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
+* class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

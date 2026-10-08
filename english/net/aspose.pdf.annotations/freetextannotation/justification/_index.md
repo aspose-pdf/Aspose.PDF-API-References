@@ -7,7 +7,7 @@ description: "FreeTextAnnotation property. Gets or set a code specifying the for
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/freetextannotation/justification/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FreeTextAnnotation.Justification property
 
@@ -19,7 +19,7 @@ public Justification Justification { get; set; }
 
 ### See Also
 
-* enum [Justification](../../../aspose.pdf.annotations/justification/)
+* enum [Justification](../../justification/)
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

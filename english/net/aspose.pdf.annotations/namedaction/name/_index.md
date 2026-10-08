@@ -7,7 +7,7 @@ description: "NamedAction property. Gets or sets the action to be performed."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/namedaction/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## NamedAction.Name property
 

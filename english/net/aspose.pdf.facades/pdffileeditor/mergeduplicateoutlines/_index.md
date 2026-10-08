@@ -7,7 +7,7 @@ description: "PdfFileEditor property. If true, duplicate outlines are merged."
 type: docs
 weight: 1060
 url: "/net/aspose.pdf.facades/pdffileeditor/mergeduplicateoutlines/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.MergeDuplicateOutlines property
 

@@ -7,7 +7,7 @@ description: "Page property. Gets or sets art box of the page."
 type: docs
 weight: 540
 url: "/net/aspose.pdf/page/artbox/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.ArtBox property
 
@@ -28,7 +28,7 @@ Rectangle artBox = document.Pages[1].ArtBox;
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../rectangle/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

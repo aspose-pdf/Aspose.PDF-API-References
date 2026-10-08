@@ -7,7 +7,7 @@ description: "TimestampOptions property. Contact information for the signature."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.lowcode/timestampoptions/sigcontact/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TimestampOptions.SigContact property
 

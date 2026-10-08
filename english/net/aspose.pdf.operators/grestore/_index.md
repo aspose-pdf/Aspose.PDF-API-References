@@ -8,7 +8,7 @@ type: docs
 weight: 310
 url: "/net/aspose.pdf.operators/grestore/"
 keywords: "GRestore, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GRestore class
 
@@ -22,7 +22,7 @@ public class GRestore : Operator
 
 | Name | Description |
 | --- | --- |
-| [GRestore](./grestore/)() | Initializes Q operator. |
+| [GRestore](grestore/)() | Initializes Q operator. |
 
 ## Properties
 
@@ -34,9 +34,8 @@ public class GRestore : Operator
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Returns text of the operator. |
+| override [Accept](../../aspose.pdf.operators/grestore/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/grestore/tostring/)() | Returns text of the operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also

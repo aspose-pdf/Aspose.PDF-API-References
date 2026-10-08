@@ -7,7 +7,7 @@ description: "ImageUrl property. Gets or sets the external URL of the image, mus
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/imageurl/url/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageUrl.Url property
 

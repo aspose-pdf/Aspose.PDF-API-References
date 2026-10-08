@@ -7,7 +7,7 @@ description: "PdfXmpMetadata property. Returns true if collection is synchronize
 type: docs
 weight: 310
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/issynchronized/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata.IsSynchronized property
 

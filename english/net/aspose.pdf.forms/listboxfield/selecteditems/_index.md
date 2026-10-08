@@ -7,7 +7,7 @@ description: "ListBoxField property. Gets or sets array of the selected items in
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/listboxfield/selecteditems/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ListBoxField.SelectedItems property
 

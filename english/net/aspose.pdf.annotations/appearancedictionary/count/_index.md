@@ -7,7 +7,7 @@ description: "AppearanceDictionary property. Gets the number of elements contain
 type: docs
 weight: 180
 url: "/net/aspose.pdf.annotations/appearancedictionary/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AppearanceDictionary.Count property
 

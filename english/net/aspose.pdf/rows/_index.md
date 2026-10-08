@@ -8,7 +8,7 @@ type: docs
 weight: 2690
 url: "/net/aspose.pdf/rows/"
 keywords: "Rows, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rows class
 
@@ -22,30 +22,31 @@ public sealed class Rows : IEnumerable<Row>
 
 | Name | Description |
 | --- | --- |
-| [Rows](./rows/)() | The default constructor. |
+| [Rows](rows/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | The items count. |
-| [Item](./item/) { get; set; } | Gets or sets row. |
+| [Count](../../aspose.pdf/rows/count/) { get; } | The items count. |
+| [Item](../../aspose.pdf/rows/item/) { get; set; } | Gets or sets row. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)() | Add row to collection. |
-| [Add](./add/)(Row) | Add row to cellection. |
-| [Dispose](./dispose/)() | Dispose. |
-| [GetEnumerator](./getenumerator/)() | Gets collection's enumerator |
-| [IndexOf](./indexof/)(Row) | Returns index of row in collection. |
-| [Remove](./remove/)(Row) | Remove row from collection. |
-| [RemoveAt](./removeat/)(int) | Remove row at position from collection. |
-| [RemoveRange](./removerange/)(int, int) | Remove row set from collection. |
+| [Add](../../aspose.pdf/rows/add/#add)() | Add row to collection. |
+| [Add](../../aspose.pdf/rows/add/#add_1)(Row) | Add row to cellection. |
+| [Dispose](../../aspose.pdf/rows/dispose/)() | Dispose. |
+| [GetEnumerator](../../aspose.pdf/rows/getenumerator/)() | Gets collection's enumerator |
+| [IndexOf](../../aspose.pdf/rows/indexof/)(Row) | Returns index of row in collection. |
+| [Remove](../../aspose.pdf/rows/remove/)(Row) | Remove row from collection. |
+| [RemoveAt](../../aspose.pdf/rows/removeat/)(int) | Remove row at position from collection. |
+| [RemoveRange](../../aspose.pdf/rows/removerange/)(int, int) | Remove row set from collection. |
 
 ### See Also
 
+* class [Row](../row/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
 

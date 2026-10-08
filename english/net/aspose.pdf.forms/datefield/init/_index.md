@@ -7,7 +7,7 @@ description: "DateField method. Initializes the JS Action."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/datefield/init/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DateField.Init method
 

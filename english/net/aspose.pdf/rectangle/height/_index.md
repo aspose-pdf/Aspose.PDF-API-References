@@ -7,7 +7,7 @@ description: "Rectangle property. Height of rectangle."
 type: docs
 weight: 220
 url: "/net/aspose.pdf/rectangle/height/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.Height property
 

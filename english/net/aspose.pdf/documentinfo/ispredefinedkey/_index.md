@@ -7,7 +7,7 @@ description: "DocumentInfo method. Determines if the key is predefined (Title, A
 type: docs
 weight: 60
 url: "/net/aspose.pdf/documentinfo/ispredefinedkey/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentInfo.IsPredefinedKey method
 

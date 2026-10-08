@@ -7,7 +7,7 @@ description: "SignatureCustomAppearance property. Gets/sets contact info visibil
 type: docs
 weight: 70
 url: "/net/aspose.pdf.forms/signaturecustomappearance/showcontactinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureCustomAppearance.ShowContactInfo property
 

@@ -8,7 +8,7 @@ type: docs
 weight: 520
 url: "/net/aspose.pdf.lowcode/objectresult/"
 keywords: "ObjectResult, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ObjectResult class
 
@@ -22,23 +22,24 @@ public sealed class ObjectResult : IOperationResult
 
 | Name | Description |
 | --- | --- |
-| [Data](./data/) { get; } | Gets raw data. |
-| [IsFile](./isfile/) { get; } | Indicates whether the result is a path to an output file. |
-| [IsObject](./isobject/) { get; } | Indicates whether the result is an object. |
-| [IsStream](./isstream/) { get; } | Indicates whether the result is a path to an output file. |
-| [IsString](./isstring/) { get; } | Indicates whether the result is a string. |
-| [Text](./text/) { get; } | Returns string representation of the result. |
+| [Data](../../aspose.pdf.lowcode/objectresult/data/) { get; } | Gets raw data. |
+| [IsFile](../../aspose.pdf.lowcode/objectresult/isfile/) { get; } | Indicates whether the result is a path to an output file. |
+| [IsObject](../../aspose.pdf.lowcode/objectresult/isobject/) { get; } | Indicates whether the result is an object. |
+| [IsStream](../../aspose.pdf.lowcode/objectresult/isstream/) { get; } | Indicates whether the result is a path to an output file. |
+| [IsString](../../aspose.pdf.lowcode/objectresult/isstring/) { get; } | Indicates whether the result is a string. |
+| [Text](../../aspose.pdf.lowcode/objectresult/text/) { get; } | Returns string representation of the result. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ToFile](./tofile/)() | Tries to convert the result to a file. |
-| [ToStream](./tostream/)() | Tries to convert the result to a stream object. |
-| override [ToString](./tostring/)() | Tries to convert the result to a string. |
+| [ToFile](../../aspose.pdf.lowcode/objectresult/tofile/)() | Tries to convert the result to a file. |
+| [ToStream](../../aspose.pdf.lowcode/objectresult/tostream/)() | Tries to convert the result to a stream object. |
+| override [ToString](../../aspose.pdf.lowcode/objectresult/tostring/)() | Tries to convert the result to a string. |
 
 ### See Also
 
+* interface [IOperationResult](../ioperationresult/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

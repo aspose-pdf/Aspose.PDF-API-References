@@ -8,7 +8,7 @@ type: docs
 weight: 490
 url: "/net/aspose.pdf.operators/setadvancedcolorstroke/"
 keywords: "SetAdvancedColorStroke, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetAdvancedColorStroke class
 
@@ -22,12 +22,12 @@ public class SetAdvancedColorStroke : BasicSetColorAndPatternOperator
 
 | Name | Description |
 | --- | --- |
-| [SetAdvancedColorStroke](./setadvancedcolorstroke/#constructor)() | Initializes operator. |
-| [SetAdvancedColorStroke](./setadvancedcolorstroke/#constructor_1)(double) | Constructor for scn operator |
-| [SetAdvancedColorStroke](./setadvancedcolorstroke/#constructor_2)(double, string) | Constructor for scn operator. |
-| [SetAdvancedColorStroke](./setadvancedcolorstroke/#constructor_3)(double[], string) | Constructor for scn operator. |
-| [SetAdvancedColorStroke](./setadvancedcolorstroke/#constructor_4)(double, double, double, string) | Constructor for scn operator. |
-| [SetAdvancedColorStroke](./setadvancedcolorstroke/#constructor_5)(double, double, double, double, string) | Constructor for scn operator. |
+| [SetAdvancedColorStroke](setadvancedcolorstroke/#constructor)() | Initializes operator. |
+| [SetAdvancedColorStroke](setadvancedcolorstroke/#constructor_1)(double) | Constructor for scn operator |
+| [SetAdvancedColorStroke](setadvancedcolorstroke/#constructor_2)(double, string) | Constructor for scn operator. |
+| [SetAdvancedColorStroke](setadvancedcolorstroke/#constructor_3)(double, double, double, string) | Constructor for scn operator. |
+| [SetAdvancedColorStroke](setadvancedcolorstroke/#constructor_4)(double, double, double, double, string) | Constructor for scn operator. |
+| [SetAdvancedColorStroke](setadvancedcolorstroke/#constructor_5)(double[], string) | Constructor for scn operator. |
 
 ## Properties
 
@@ -49,11 +49,10 @@ public class SetAdvancedColorStroke : BasicSetColorAndPatternOperator
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [Accept](../../aspose.pdf.operators/setadvancedcolorstroke/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
-| override [getColor](./getcolor/)() | Returns color specified by operator. |
+| override [getColor](../../aspose.pdf.operators/setadvancedcolorstroke/getcolor/)() | Returns color specified by operator. |
 
 ### See Also
 

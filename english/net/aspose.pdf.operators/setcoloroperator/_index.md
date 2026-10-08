@@ -8,7 +8,7 @@ type: docs
 weight: 560
 url: "/net/aspose.pdf.operators/setcoloroperator/"
 keywords: "SetColorOperator, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColorOperator class
 
@@ -29,10 +29,9 @@ public abstract class SetColorOperator : Operator
 | Name | Description |
 | --- | --- |
 | abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | Accepts visitor IOperatorSelector which provides operators processing. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
-| abstract [getColor](./getcolor/)() | Retirns color specified by the operator. |
+| abstract [getColor](../../aspose.pdf.operators/setcoloroperator/getcolor/)() | Retirns color specified by the operator. |
 
 ### See Also
 

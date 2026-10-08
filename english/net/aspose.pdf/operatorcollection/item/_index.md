@@ -7,7 +7,7 @@ description: "OperatorCollection property. Gets operator by its index."
 type: docs
 weight: 260
 url: "/net/aspose.pdf/operatorcollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OperatorCollection indexer
 
@@ -37,7 +37,7 @@ Operator first = oc[1];
 
 ### See Also
 
-* class [Operator](../../../aspose.pdf/operator/)
+* class [Operator](../../operator/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

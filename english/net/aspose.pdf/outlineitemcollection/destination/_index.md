@@ -7,7 +7,7 @@ description: "OutlineItemCollection property. Gets or sets the destination for t
 type: docs
 weight: 130
 url: "/net/aspose.pdf/outlineitemcollection/destination/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.Destination property
 

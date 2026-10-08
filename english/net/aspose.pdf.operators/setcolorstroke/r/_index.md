@@ -7,7 +7,7 @@ description: "SetColorStroke property. Gets or sets the red component."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.operators/setcolorstroke/r/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColorStroke.R property
 

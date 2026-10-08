@@ -7,7 +7,7 @@ description: "PaperSizes field. #10 envelope (4.125 in. by 9.5 in.)."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.printing/papersizes/number10envelope/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.Number10Envelope field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize Number10Envelope;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

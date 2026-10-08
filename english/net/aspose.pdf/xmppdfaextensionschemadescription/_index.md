@@ -8,7 +8,7 @@ type: docs
 weight: 3290
 url: "/net/aspose.pdf/xmppdfaextensionschemadescription/"
 keywords: "XmpPdfAExtensionSchemaDescription, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchemaDescription class
 
@@ -22,21 +22,21 @@ public class XmpPdfAExtensionSchemaDescription
 
 | Name | Description |
 | --- | --- |
-| [XmpPdfAExtensionSchemaDescription](./xmppdfaextensionschemadescription/)(string, string, string) | Initializes new object. |
+| [XmpPdfAExtensionSchemaDescription](xmppdfaextensionschemadescription/)(string, string, string) | Initializes new object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Description](./description/) { get; } | Gets the optional description. |
-| [NamespaceURI](./namespaceuri/) { get; } | Gets the namespace URI. |
-| [Prefix](./prefix/) { get; } | Gets the prefix. |
+| [Description](../../aspose.pdf/xmppdfaextensionschemadescription/description/) { get; } | Gets the optional description. |
+| [NamespaceURI](../../aspose.pdf/xmppdfaextensionschemadescription/namespaceuri/) { get; } | Gets the namespace URI. |
+| [Prefix](../../aspose.pdf/xmppdfaextensionschemadescription/prefix/) { get; } | Gets the prefix. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetXml](./getxml/)(XmlDocument) | Returns the list of xml elements that represent schema description in xml tree. |
+| [GetXml](../../aspose.pdf/xmppdfaextensionschemadescription/getxml/)(XmlDocument) | Returns the list of xml elements that represent schema description in xml tree. |
 
 ### See Also
 

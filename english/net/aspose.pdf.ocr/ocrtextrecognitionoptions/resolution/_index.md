@@ -7,7 +7,7 @@ description: "OcrTextRecognitionOptions property. Gets or sets the rendering res
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ocr/ocrtextrecognitionoptions/resolution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OcrTextRecognitionOptions.Resolution property
 
@@ -16,6 +16,12 @@ Gets or sets the rendering resolution, in DPI. Defaults to `300`.
 ```csharp
 public int Resolution { get; set; }
 ```
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentOutOfRangeException | Thrown when the assigned value is less than or equal to zero. |
 
 ### See Also
 

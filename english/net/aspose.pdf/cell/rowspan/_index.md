@@ -7,7 +7,7 @@ description: "Cell property. Gets or sets the row span."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/cell/rowspan/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Cell.RowSpan property
 

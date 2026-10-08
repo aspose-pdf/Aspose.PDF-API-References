@@ -7,7 +7,7 @@ description: "ImagesDifference property. The height of difference."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.comparison/imagesdifference/height/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagesDifference.Height property
 

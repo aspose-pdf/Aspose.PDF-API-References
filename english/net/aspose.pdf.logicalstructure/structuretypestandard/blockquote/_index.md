@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Block quotation) A portion of text c
 type: docs
 weight: 100
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/blockquote/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.BlockQuote field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard BlockQuote;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

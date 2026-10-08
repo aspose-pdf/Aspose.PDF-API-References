@@ -7,7 +7,7 @@ description: "CustomPrintEventArgs field. Gets settings that should be applied t
 type: docs
 weight: 40
 url: "/net/aspose.pdf.printing/customprinteventargs/pagesettings/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CustomPrintEventArgs.PageSettings field
 
@@ -19,7 +19,7 @@ public readonly PageSettings PageSettings;
 
 ### See Also
 
-* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PageSettings](../../pagesettings/)
 * class [CustomPrintEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

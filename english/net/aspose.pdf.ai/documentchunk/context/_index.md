@@ -7,7 +7,7 @@ description: "DocumentChunk property. Gets the structural context of this chunk,
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/documentchunk/context/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentChunk.Context property
 

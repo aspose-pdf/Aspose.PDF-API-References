@@ -7,7 +7,7 @@ description: "SignatureCustomAppearance property. Gets/sets reason visibility. D
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/signaturecustomappearance/showreason/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureCustomAppearance.ShowReason property
 

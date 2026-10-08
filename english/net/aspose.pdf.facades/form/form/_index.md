@@ -7,7 +7,7 @@ description: "Form constructor. Construtcor of Form without parameters. Form for
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/form/form/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form() {#constructor}
 
@@ -35,21 +35,26 @@ form.SrcFileName = "file.pdf";
 
 ---
 
-## Form([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## Form(string) {#constructor_1}
 
-Initializes new [`Form`](../../../aspose.pdf.forms/form/) object on base of the *document*.
+Constructor of Form.
 
 ```csharp
-public Form(Document document)
+public Form(string srcFileName)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | Document | Pdf document. |
+| srcFileName | String | Source file path. |
+
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf");
+```
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -82,26 +87,21 @@ Form form = new Form(new FileStream("PdfForm.pdf", FileMode.Open, FileAccess.Rea
 
 ---
 
-## Form(string) {#constructor_3}
+## Form(Document) {#constructor_3}
 
-Constructor of Form.
+Initializes new [`Form`](../) object on base of the *document*.
 
 ```csharp
-public Form(string srcFileName)
+public Form(Document document)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFileName | String | Source file path. |
-
-## Examples
-
-```csharp
-Form form = new Form("PdfForm.pdf");
-```
+| document | Document | Pdf document. |
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

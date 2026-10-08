@@ -7,7 +7,7 @@ description: "Document method. Set XMP metadata of document."
 type: docs
 weight: 950
 url: "/net/aspose.pdf/document/setxmpmetadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.SetXmpMetadata method
 

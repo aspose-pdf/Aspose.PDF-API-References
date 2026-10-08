@@ -7,7 +7,7 @@ description: "ExcelSaveOptions property. Set true if you need inserting of blank
 type: docs
 weight: 30
 url: "/net/aspose.pdf/excelsaveoptions/insertblankcolumnatfirst/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExcelSaveOptions.InsertBlankColumnAtFirst property
 

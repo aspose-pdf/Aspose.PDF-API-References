@@ -7,7 +7,7 @@ description: "Matrix method. Scales back x1 and y1 and returns x and y before th
 type: docs
 weight: 120
 url: "/net/aspose.pdf/matrix/unscale/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix.UnScale method
 

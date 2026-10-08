@@ -7,7 +7,7 @@ description: "Aspose.Pdf.LowCode.IDataSource interface. General data source inte
 type: docs
 weight: 410
 url: "/net/aspose.pdf.lowcode/idatasource/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IDataSource interface
 
@@ -21,7 +21,7 @@ public interface IDataSource
 
 | Name | Description |
 | --- | --- |
-| [DataType](./datatype/) { get; } | Type of data source (file or stream). |
+| [DataType](../../aspose.pdf.lowcode/idatasource/datatype/) { get; } | Type of data source (file or stream). |
 
 ### See Also
 

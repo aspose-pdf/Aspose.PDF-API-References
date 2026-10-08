@@ -7,7 +7,7 @@ description: "FormEditor property. Sets items which will be added t onewly creat
 type: docs
 weight: 370
 url: "/net/aspose.pdf.facades/formeditor/items/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.Items property
 

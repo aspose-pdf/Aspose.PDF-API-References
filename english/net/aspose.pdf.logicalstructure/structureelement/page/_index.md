@@ -7,7 +7,7 @@ description: "StructureElement property. Gets the page on which some or all chil
 type: docs
 weight: 230
 url: "/net/aspose.pdf.logicalstructure/structureelement/page/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureElement.Page property
 

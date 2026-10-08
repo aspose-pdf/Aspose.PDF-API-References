@@ -7,7 +7,7 @@ description: "BoundsCheckableList method. Removes the element at the specified i
 type: docs
 weight: 110
 url: "/net/aspose.pdf/boundscheckablelist-1/removeat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BoundsCheckableList<T>.RemoveAt method
 
@@ -25,11 +25,11 @@ public void RemoveAt(int index)
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | *index*index is less than 0. -or- *index*index is equal to or greater than Count. |
+| ArgumentOutOfRangeException | *index* is less than 0. -or- *index* is equal to or greater than Count. |
 
 ### See Also
 
-* class [BoundsCheckableList<T>](../)
+* class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "DocumentPrivilege property. Sets the permission which allow assemb
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/documentprivilege/allowassembly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.AllowAssembly property
 

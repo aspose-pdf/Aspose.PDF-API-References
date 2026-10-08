@@ -7,7 +7,7 @@ description: "OpenAIChatCopilotOptions property. Gets or sets the truncation str
 type: docs
 weight: 240
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/truncationstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIChatCopilotOptions.TruncationStrategy property
 
@@ -19,7 +19,7 @@ public TruncationStrategy TruncationStrategy { get; set; }
 
 ### See Also
 
-* class [TruncationStrategy](../../../aspose.pdf.ai/truncationstrategy/)
+* class [TruncationStrategy](../../truncationstrategy/)
 * class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

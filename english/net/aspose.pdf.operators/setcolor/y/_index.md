@@ -7,7 +7,7 @@ description: "SetColor property. Gets or sets the yellow component."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.operators/setcolor/y/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColor.Y property
 

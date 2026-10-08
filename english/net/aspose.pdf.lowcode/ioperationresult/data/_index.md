@@ -7,7 +7,7 @@ description: "IOperationResult property. Gets raw data."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.lowcode/ioperationresult/data/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOperationResult.Data property
 

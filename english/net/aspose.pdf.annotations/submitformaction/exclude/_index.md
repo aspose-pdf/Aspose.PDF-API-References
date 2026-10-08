@@ -7,7 +7,7 @@ description: "SubmitFormAction field. If clear, the Fields array specifies which
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/submitformaction/exclude/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SubmitFormAction.Exclude field
 

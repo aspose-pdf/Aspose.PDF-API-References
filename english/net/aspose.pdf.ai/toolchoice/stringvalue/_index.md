@@ -7,7 +7,7 @@ description: "ToolChoice property. Gets or sets the string value of the ToolChoi
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/toolchoice/stringvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ToolChoice.StringValue property
 

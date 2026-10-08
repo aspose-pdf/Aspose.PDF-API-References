@@ -7,7 +7,7 @@ description: "XpsLoadOptions property. Defines batch size if batched conversion 
 type: docs
 weight: 20
 url: "/net/aspose.pdf/xpsloadoptions/batchsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XpsLoadOptions.BatchSize property
 

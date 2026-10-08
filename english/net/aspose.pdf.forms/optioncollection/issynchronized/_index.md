@@ -7,7 +7,7 @@ description: "OptionCollection property. Returns true of object is synchronized.
 type: docs
 weight: 90
 url: "/net/aspose.pdf.forms/optioncollection/issynchronized/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptionCollection.IsSynchronized property
 

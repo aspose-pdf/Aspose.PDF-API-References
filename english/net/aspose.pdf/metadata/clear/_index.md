@@ -7,7 +7,7 @@ description: "Metadata method. Clears metadata."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/metadata/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metadata.Clear method
 

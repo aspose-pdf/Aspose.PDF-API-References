@@ -7,7 +7,7 @@ description: "AutoFiller property. Sets the fields which will not be flattened. 
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/autofiller/unflattenfields/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AutoFiller.UnFlattenFields property
 

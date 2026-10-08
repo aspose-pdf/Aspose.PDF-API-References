@@ -7,7 +7,7 @@ description: "Annotation property. Gets or sets the text in the message content 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/annotation/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.Text property
 

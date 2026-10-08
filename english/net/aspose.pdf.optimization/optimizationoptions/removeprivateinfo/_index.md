@@ -7,7 +7,7 @@ description: "OptimizationOptions property. Remove private information (page pie
 type: docs
 weight: 130
 url: "/net/aspose.pdf.optimization/optimizationoptions/removeprivateinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizationOptions.RemovePrivateInfo property
 

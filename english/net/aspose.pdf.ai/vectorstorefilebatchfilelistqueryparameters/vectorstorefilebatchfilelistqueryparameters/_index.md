@@ -7,7 +7,7 @@ description: "VectorStoreFileBatchFileListQueryParameters constructor. The defau
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/vectorstorefilebatchfilelistqueryparameters/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileBatchFileListQueryParameters constructor
 

@@ -7,7 +7,7 @@ description: "Heading method. Clone the heading."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/heading/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Heading.Clone method
 

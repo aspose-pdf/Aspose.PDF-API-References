@@ -7,7 +7,7 @@ description: "Document property. Gets or sets a flag specifying whether the PDF 
 type: docs
 weight: 1430
 url: "/net/aspose.pdf/document/picktraybypdfsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.PickTrayByPdfSize property
 

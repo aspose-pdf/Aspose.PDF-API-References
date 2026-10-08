@@ -7,7 +7,7 @@ description: "Collection method. Gets a collection of files sorted according to 
 type: docs
 weight: 20
 url: "/net/aspose.pdf/collection/getsortedcollection/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Collection.GetSortedCollection method
 
@@ -23,6 +23,7 @@ The list of sorted files.
 
 ### See Also
 
+* class [FileSpecification](../../filespecification/)
 * class [Collection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

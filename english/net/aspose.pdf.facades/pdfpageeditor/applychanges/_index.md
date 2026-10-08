@@ -7,7 +7,7 @@ description: "PdfPageEditor method. Apply changes made to the document pages."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/pdfpageeditor/applychanges/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.ApplyChanges method
 

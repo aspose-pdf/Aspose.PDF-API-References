@@ -7,7 +7,7 @@ description: "OutputTextStyle property. Get and set a text style for inserted te
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/outputtextstyle/insertedstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputTextStyle.InsertedStyle property
 
@@ -19,7 +19,7 @@ public TextStyle InsertedStyle { get; set; }
 
 ### See Also
 
-* class [TextStyle](../../../aspose.pdf.comparison/textstyle/)
+* class [TextStyle](../../textstyle/)
 * class [OutputTextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

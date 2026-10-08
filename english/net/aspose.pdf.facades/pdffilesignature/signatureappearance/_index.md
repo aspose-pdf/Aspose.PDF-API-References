@@ -7,7 +7,7 @@ description: "PdfFileSignature property. Sets or gets a graphic appearance for t
 type: docs
 weight: 470
 url: "/net/aspose.pdf.facades/pdffilesignature/signatureappearance/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.SignatureAppearance property
 

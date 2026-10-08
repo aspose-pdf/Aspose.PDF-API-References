@@ -7,7 +7,7 @@ description: "ImagesDifference method. Returns a new bitmap representing the des
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/imagesdifference/getdestinationimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagesDifference.GetDestinationImage method
 

@@ -7,7 +7,7 @@ description: "Point method. Return string represention current point."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/point/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Point.ToString method
 

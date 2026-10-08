@@ -7,7 +7,7 @@ description: "PdfViewer method. Closes the facade."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.facades/pdfviewer/close/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.Close method
 

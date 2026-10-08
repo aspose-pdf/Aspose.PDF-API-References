@@ -7,7 +7,7 @@ description: "Aspose.Pdf.CryptoAlgorithm enum. Represent type of cryptographic a
 type: docs
 weight: 500
 url: "/net/aspose.pdf/cryptoalgorithm/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CryptoAlgorithm enumeration
 

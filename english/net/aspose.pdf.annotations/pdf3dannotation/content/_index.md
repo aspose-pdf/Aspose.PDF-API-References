@@ -7,7 +7,7 @@ description: "PDF3DAnnotation property. Gets or sets the content."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/pdf3dannotation/content/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DAnnotation.Content property
 
@@ -23,7 +23,7 @@ The content.
 
 ### See Also
 
-* class [PDF3DContent](../../../aspose.pdf.annotations/pdf3dcontent/)
+* class [PDF3DContent](../../pdf3dcontent/)
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

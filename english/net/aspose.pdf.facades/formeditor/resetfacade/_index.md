@@ -7,7 +7,7 @@ description: "FormEditor method. Reset all visual attribtues to empty value."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/formeditor/resetfacade/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.ResetFacade method
 

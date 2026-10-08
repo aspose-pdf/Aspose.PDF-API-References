@@ -7,7 +7,7 @@ description: "Stamp method. Returns stamp ID."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/stamp/getstampid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.getStampId method
 

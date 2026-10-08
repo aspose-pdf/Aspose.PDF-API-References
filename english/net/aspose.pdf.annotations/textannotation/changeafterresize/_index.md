@@ -7,7 +7,7 @@ description: "TextAnnotation method. Overrides the definition in the base class 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/textannotation/changeafterresize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextAnnotation.ChangeAfterResize method
 

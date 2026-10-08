@@ -7,7 +7,7 @@ description: "ThreadMessageResponse property. Gets or sets the ID of the run ass
 type: docs
 weight: 130
 url: "/net/aspose.pdf.ai/threadmessageresponse/runid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadMessageResponse.RunId property
 

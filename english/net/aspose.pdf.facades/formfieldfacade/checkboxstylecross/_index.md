@@ -7,7 +7,7 @@ description: "FormFieldFacade field. Defines a cross check box style."
 type: docs
 weight: 410
 url: "/net/aspose.pdf.facades/formfieldfacade/checkboxstylecross/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.CheckBoxStyleCross field
 

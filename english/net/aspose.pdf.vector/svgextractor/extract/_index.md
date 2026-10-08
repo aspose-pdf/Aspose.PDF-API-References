@@ -7,9 +7,142 @@ description: "SvgExtractor method. Exracts svg image to string from graphic elem
 type: docs
 weight: 30
 url: "/net/aspose.pdf.vector/svgextractor/extract/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Extract([Page](../../../aspose.pdf/page/)) {#extract}
+## Extract(GraphicsAbsorber, Predicate&lt;GraphicElement&gt;, Page) {#extract}
+
+Exracts svg image to string from graphic elements represents by `!:absorber` with a predicate filter.
+
+```csharp
+public string Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter, Page page)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| absorber | GraphicsAbsorber | The GraphicsAbsorber object that contains the graphic elements. |
+| filter | Predicate`1 | A predicate function used to filter the graphic elements. |
+| page | Page | The page where the absorber gets graphic elements. |
+
+### Return Value
+
+The string with SVG content.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| [PdfException](../../../aspose.pdf/pdfexception/) | If an error occurred when converting to SVG. |
+
+### See Also
+
+* class [GraphicsAbsorber](../../graphicsabsorber/)
+* class [GraphicElement](../../graphicelement/)
+* class [Page](../../../aspose.pdf/page/)
+* class [SvgExtractor](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Extract(GraphicsAbsorber, Predicate&lt;GraphicElement&gt;, Page, string) {#extract_1}
+
+Exracts svg image to file from graphic elements represents by `!:absorber` with a predicate filter.
+
+```csharp
+public void Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter, Page page, 
+    string svgFilePath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| absorber | GraphicsAbsorber | The GraphicsAbsorber object that contains the graphic elements. |
+| filter | Predicate`1 | A predicate function used to filter the graphic elements. |
+| page | Page | The page where the absorber gets graphic elements. |
+| svgFilePath | String | The target SVG file path. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| [PdfException](../../../aspose.pdf/pdfexception/) | If an error occurred when converting to SVG. |
+
+### See Also
+
+* class [GraphicsAbsorber](../../graphicsabsorber/)
+* class [GraphicElement](../../graphicelement/)
+* class [Page](../../../aspose.pdf/page/)
+* class [SvgExtractor](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Extract(IEnumerable&lt;GraphicElement&gt;, Page) {#extract_2}
+
+Extracts graphic elements into a SVG string.
+ Options ignored - grouping, extracting from rectangle
+
+```csharp
+public string Extract(IEnumerable<GraphicElement> elements, Page page)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| elements | IEnumerable`1 | The graphic elements to convert. |
+| page | Page | The page where the absorber gets graphic elements. |
+
+### Return Value
+
+The string with SVG content.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| [PdfException](../../../aspose.pdf/pdfexception/) | If an error occurred when converting to SVG. |
+
+### See Also
+
+* class [GraphicElement](../../graphicelement/)
+* class [Page](../../../aspose.pdf/page/)
+* class [SvgExtractor](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Extract(IEnumerable&lt;GraphicElement&gt;, Page, string) {#extract_3}
+
+Extracts graphic elements into a single SVG file.
+ Options ignored - grouping, extracting from rectangle
+
+```csharp
+public void Extract(IEnumerable<GraphicElement> elements, Page page, string svgFilePath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| elements | IEnumerable`1 | The graphic elements to convert. |
+| page | Page | The page where the absorber gets graphic elements. |
+| svgFilePath | String | The target SVG file path. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| [PdfException](../../../aspose.pdf/pdfexception/) | If an error occurred when converting to SVG. |
+
+### See Also
+
+* class [GraphicElement](../../graphicelement/)
+* class [Page](../../../aspose.pdf/page/)
+* class [SvgExtractor](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Extract(Page) {#extract_4}
 
 Extracts Svg images from a page to strings.
 
@@ -40,40 +173,7 @@ The list of SVG content strings.
 
 ---
 
-## Extract(IEnumerable<GraphicElement>, [Page](../../../aspose.pdf/page/)) {#extract_1}
-
-Extracts graphic elements into a SVG string.
- Options ignored - grouping, extracting from rectangle
-
-```csharp
-public string Extract(IEnumerable<GraphicElement> elements, Page page)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| elements | IEnumerable`1 | The graphic elements to convert. |
-| page | Page | The page where the absorber gets graphic elements. |
-
-### Return Value
-
-The string with SVG content.
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| [PdfException](../../../aspose.pdf/pdfexception/) | If an error occurred when converting to SVG. |
-
-### See Also
-
-* class [Page](../../../aspose.pdf/page/)
-* class [SvgExtractor](../)
-* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Extract([Page](../../../aspose.pdf/page/), string) {#extract_2}
+## Extract(Page, string) {#extract_5}
 
 Extracts Svg images from a page to files.
 
@@ -94,102 +194,6 @@ public void Extract(Page page, string directory)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [SvgExtractor](../)
-* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Extract([GraphicsAbsorber](../../../aspose.pdf.vector/graphicsabsorber/), Predicate<GraphicElement>, [Page](../../../aspose.pdf/page/)) {#extract_3}
-
-Exracts svg image to string from graphic elements represents by `!:absorber` with a predicate filter.
-
-```csharp
-public string Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter, Page page)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| absorber | GraphicsAbsorber | The GraphicsAbsorber object that contains the graphic elements. |
-| filter | Predicate`1 | A predicate function used to filter the graphic elements. |
-| page | Page | The page where the absorber gets graphic elements. |
-
-### Return Value
-
-The string with SVG content.
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| [PdfException](../../../aspose.pdf/pdfexception/) | If an error occurred when converting to SVG. |
-
-### See Also
-
-* class [GraphicsAbsorber](../../../aspose.pdf.vector/graphicsabsorber/)
-* class [Page](../../../aspose.pdf/page/)
-* class [SvgExtractor](../)
-* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Extract(IEnumerable<GraphicElement>, [Page](../../../aspose.pdf/page/), string) {#extract_4}
-
-Extracts graphic elements into a single SVG file.
- Options ignored - grouping, extracting from rectangle
-
-```csharp
-public void Extract(IEnumerable<GraphicElement> elements, Page page, string svgFilePath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| elements | IEnumerable`1 | The graphic elements to convert. |
-| page | Page | The page where the absorber gets graphic elements. |
-| svgFilePath | String | The target SVG file path. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| [PdfException](../../../aspose.pdf/pdfexception/) | If an error occurred when converting to SVG. |
-
-### See Also
-
-* class [Page](../../../aspose.pdf/page/)
-* class [SvgExtractor](../)
-* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Extract([GraphicsAbsorber](../../../aspose.pdf.vector/graphicsabsorber/), Predicate<GraphicElement>, [Page](../../../aspose.pdf/page/), string) {#extract_5}
-
-Exracts svg image to file from graphic elements represents by `!:absorber` with a predicate filter.
-
-```csharp
-public void Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter, Page page, 
-    string svgFilePath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| absorber | GraphicsAbsorber | The GraphicsAbsorber object that contains the graphic elements. |
-| filter | Predicate`1 | A predicate function used to filter the graphic elements. |
-| page | Page | The page where the absorber gets graphic elements. |
-| svgFilePath | String | The target SVG file path. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| [PdfException](../../../aspose.pdf/pdfexception/) | If an error occurred when converting to SVG. |
-
-### See Also
-
-* class [GraphicsAbsorber](../../../aspose.pdf.vector/graphicsabsorber/)
 * class [Page](../../../aspose.pdf/page/)
 * class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)

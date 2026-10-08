@@ -7,7 +7,7 @@ description: "SetCharWidth property. Horizontal displacement of glyph coordinate
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/setcharwidth/wx/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCharWidth.Wx property
 

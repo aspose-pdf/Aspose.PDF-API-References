@@ -7,7 +7,7 @@ description: "IOcrCopilot method. Asynchronously retrieves text recognition resu
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/iocrcopilot/gettextrecognitionresultasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOcrCopilot.GetTextRecognitionResultAsync method
 
@@ -25,10 +25,11 @@ public Task<List<TextRecognitionResult>> GetTextRecognitionResultAsync(
 
 ### Return Value
 
-A task that represents the asynchronous operation. The task result contains a list of [`TextRecognitionResult`](../../../aspose.pdf.ai/textrecognitionresult/).
+A task that represents the asynchronous operation. The task result contains a list of [`TextRecognitionResult`](../../textrecognitionresult/).
 
 ### See Also
 
+* class [TextRecognitionResult](../../textrecognitionresult/)
 * interface [IOcrCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

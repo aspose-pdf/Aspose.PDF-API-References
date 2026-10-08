@@ -7,7 +7,7 @@ description: "PrintController method. Fires on page start printing."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/printcontroller/onstartprint/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrintController.OnStartPrint method
 

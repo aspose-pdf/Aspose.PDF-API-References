@@ -7,11 +7,11 @@ description: "TocInfo constructor. Initializes a new instance of the TocInfo cla
 type: docs
 weight: 10
 url: "/net/aspose.pdf/tocinfo/tocinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TocInfo constructor
 
-Initializes a new instance of the [`TocInfo`](../../../aspose.pdf/tocinfo/) class.
+Initializes a new instance of the [`TocInfo`](../) class.
 
 ```csharp
 public TocInfo()

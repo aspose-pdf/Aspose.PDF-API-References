@@ -7,7 +7,7 @@ description: "GraphicElement property. Gets a collection of operators representi
 type: docs
 weight: 110
 url: "/net/aspose.pdf.vector/graphicelement/operators/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicElement.Operators property
 
@@ -19,6 +19,7 @@ public List<Operator> Operators { get; }
 
 ### See Also
 
+* class [Operator](../../../aspose.pdf/operator/)
 * class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

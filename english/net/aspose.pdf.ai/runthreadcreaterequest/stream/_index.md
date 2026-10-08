@@ -7,7 +7,7 @@ description: "RunThreadCreateRequest property. Gets or sets if to use streaming.
 type: docs
 weight: 110
 url: "/net/aspose.pdf.ai/runthreadcreaterequest/stream/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunThreadCreateRequest.Stream property
 

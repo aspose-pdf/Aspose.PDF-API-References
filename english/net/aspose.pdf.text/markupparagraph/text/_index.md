@@ -7,7 +7,7 @@ description: "MarkupParagraph property. Gets or sets the paragraph text."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/markupparagraph/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupParagraph.Text property
 

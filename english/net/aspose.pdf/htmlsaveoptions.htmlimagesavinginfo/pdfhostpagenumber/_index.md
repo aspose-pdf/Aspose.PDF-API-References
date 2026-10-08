@@ -7,7 +7,7 @@ description: "HtmlImageSavingInfo field. Tells to custom code to what page of or
 type: docs
 weight: 40
 url: "/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/pdfhostpagenumber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.HtmlImageSavingInfo.PdfHostPageNumber field
 
@@ -22,7 +22,7 @@ public int PdfHostPageNumber;
 
 ### See Also
 
-* class [HtmlSaveOptions.HtmlImageSavingInfo](../)
+* class [HtmlImageSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "PdfAnnotationEditor method. Modifies the author of annotations on 
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAnnotationEditor.ModifyAnnotationsAuthor method
 

@@ -7,7 +7,7 @@ description: "IIndexBitmapConverter method. Returns 4Bpp bitmap representation"
 type: docs
 weight: 20
 url: "/net/aspose.pdf/iindexbitmapconverter/get4bppimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IIndexBitmapConverter.Get4BppImage method
 

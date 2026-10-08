@@ -7,7 +7,7 @@ description: "Aspose.Pdf.AI.ILlamaClient interface. Represents a client interfac
 type: docs
 weight: 550
 url: "/net/aspose.pdf.ai/illamaclient/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ILlamaClient interface
 
@@ -21,7 +21,7 @@ public interface ILlamaClient
 
 | Name | Description |
 | --- | --- |
-| [CreateCompletionAsync](./createcompletionasync/)(LlamaChatCompletionRequest, CancellationToken?) | Creates a chat completion request in the Llama service. |
+| [CreateCompletionAsync](../../aspose.pdf.ai/illamaclient/createcompletionasync/)(LlamaChatCompletionRequest, CancellationToken?) | Creates a chat completion request in the Llama service. |
 
 ### See Also
 

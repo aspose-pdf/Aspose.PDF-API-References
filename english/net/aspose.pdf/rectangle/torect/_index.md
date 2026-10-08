@@ -7,7 +7,7 @@ description: "Rectangle method. Converts rectangle to instance of System.Drawing
 type: docs
 weight: 20
 url: "/net/aspose.pdf/rectangle/torect/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.ToRect method
 
@@ -23,7 +23,7 @@ Result of conversion.
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

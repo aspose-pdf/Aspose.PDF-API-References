@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.Measure.NumberFormat.FractionStyle enum. Va
 type: docs
 weight: 670
 url: "/net/aspose.pdf.annotations/measure.numberformat.fractionstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.NumberFormat.FractionStyle enumeration
 

@@ -7,7 +7,7 @@ description: "PdfToImageOptions property. Gets or sets the resolution value of t
 type: docs
 weight: 80
 url: "/net/aspose.pdf.lowcode/pdftoimageoptions/outputresolution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfToImageOptions.OutputResolution property
 

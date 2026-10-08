@@ -7,7 +7,7 @@ description: "DocumentActionCollection property. Action that will be performed a
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/documentactioncollection/afterprinting/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentActionCollection.AfterPrinting property
 
@@ -19,7 +19,7 @@ public PdfAction AfterPrinting { get; set; }
 
 ### See Also
 
-* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [PdfAction](../../pdfaction/)
 * class [DocumentActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

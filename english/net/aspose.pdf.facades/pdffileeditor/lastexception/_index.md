@@ -7,7 +7,7 @@ description: "PdfFileEditor property. Gets last occured exception. May be used t
 type: docs
 weight: 1190
 url: "/net/aspose.pdf.facades/pdffileeditor/lastexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.LastException property
 

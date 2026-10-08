@@ -7,7 +7,7 @@ description: "Page property. Gets or sets a group attributes class specifying th
 type: docs
 weight: 490
 url: "/net/aspose.pdf/page/group/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Group property
 
@@ -19,7 +19,7 @@ public Group Group { get; set; }
 
 ### See Also
 
-* class [Group](../../../aspose.pdf/group/)
+* class [Group](../../group/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

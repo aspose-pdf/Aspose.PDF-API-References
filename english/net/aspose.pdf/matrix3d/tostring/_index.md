@@ -7,7 +7,7 @@ description: "Matrix3D method. Returns text representation of the matrix."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/matrix3d/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix3D.ToString method
 

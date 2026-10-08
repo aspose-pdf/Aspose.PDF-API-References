@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.CapStyle enum. Style of line ending of Ink 
 type: docs
 weight: 160
 url: "/net/aspose.pdf.annotations/capstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CapStyle enumeration
 

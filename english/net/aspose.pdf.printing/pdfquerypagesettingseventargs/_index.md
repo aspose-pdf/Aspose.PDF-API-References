@@ -8,11 +8,11 @@ type: docs
 weight: 140
 url: "/net/aspose.pdf.printing/pdfquerypagesettingseventargs/"
 keywords: "PdfQueryPageSettingsEventArgs, Aspose.Pdf.Printing, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfQueryPageSettingsEventArgs class
 
-Provides data for the `PdfQueryPageSettings` event.
+Provides data for the [`PdfQueryPageSettings`](../../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/) event.
 
 ```csharp
 public class PdfQueryPageSettingsEventArgs : CancelEventArgs
@@ -22,13 +22,13 @@ public class PdfQueryPageSettingsEventArgs : CancelEventArgs
 
 | Name | Description |
 | --- | --- |
-| [PdfQueryPageSettingsEventArgs](./pdfquerypagesettingseventargs/)(PageSettings) | Initializes a new instance of the [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/) class. |
+| [PdfQueryPageSettingsEventArgs](pdfquerypagesettingseventargs/)(PageSettings) | Initializes a new instance of the `PdfQueryPageSettingsEventArgs` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [PageSettings](./pagesettings/) { get; set; } | Gets or sets the page settings for the page to be printed. |
+| [PageSettings](../../aspose.pdf.printing/pdfquerypagesettingseventargs/pagesettings/) { get; set; } | Gets or sets the page settings for the page to be printed. |
 
 ### See Also
 

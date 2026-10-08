@@ -7,7 +7,7 @@ description: "XFA property. XFA Form Component of an XFA form."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/xfa/form/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFA.Form property
 

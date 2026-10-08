@@ -7,7 +7,7 @@ description: "XImageCollection property. Gets array of image names."
 type: docs
 weight: 240
 url: "/net/aspose.pdf/ximagecollection/names/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImageCollection.Names property
 

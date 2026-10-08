@@ -7,7 +7,7 @@ description: "PdfPageEditor property. Gets or sets the page numbers to be edited
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/pdfpageeditor/processpages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.ProcessPages property
 

@@ -7,7 +7,7 @@ description: "PdfFileEditor method. Resizes contents of document pages. Shrinks 
 type: docs
 weight: 890
 url: "/net/aspose.pdf.facades/pdffileeditor/resizecontentspct/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ResizeContentsPct(Stream, Stream, int[], double, double) {#resizecontentspct}
 

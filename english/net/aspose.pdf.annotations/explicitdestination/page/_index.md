@@ -7,7 +7,7 @@ description: "ExplicitDestination property. Gets the destination page object"
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/explicitdestination/page/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExplicitDestination.Page property
 

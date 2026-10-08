@@ -8,7 +8,7 @@ type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/bdc/"
 keywords: "BDC, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BDC class
 
@@ -22,24 +22,23 @@ public class BDC : Operator
 
 | Name | Description |
 | --- | --- |
-| [BDC](./bdc/#constructor)(string) | Initializes operator. |
-| [BDC](./bdc/#constructor_1)(string, BDCProperties) | Initializes a new instance of the BDC class. |
+| [BDC](bdc/#constructor)(string) | Initializes operator. |
+| [BDC](bdc/#constructor_1)(string, BDCProperties) | Initializes a new instance of the BDC class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [Properties](./properties/) { get; } |  |
-| [Tag](./tag/) { get; set; } | Gets or sets marked content tag |
+| [Properties](../../aspose.pdf.operators/bdc/properties/) { get; } |  |
+| [Tag](../../aspose.pdf.operators/bdc/tag/) { get; set; } | Gets or sets marked content tag |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/bdc/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/bdc/tostring/)() | Returns text representation of operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also

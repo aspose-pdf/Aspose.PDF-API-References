@@ -7,7 +7,7 @@ description: "ChoiceField method. Deletes option by its name."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/choicefield/deleteoption/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChoiceField.DeleteOption method
 

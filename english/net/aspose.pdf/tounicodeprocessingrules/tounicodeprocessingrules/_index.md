@@ -7,11 +7,11 @@ description: "ToUnicodeProcessingRules constructor. Initializes a new instance o
 type: docs
 weight: 10
 url: "/net/aspose.pdf/tounicodeprocessingrules/tounicodeprocessingrules/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ToUnicodeProcessingRules() {#constructor}
 
-Initializes a new instance of the [`ToUnicodeProcessingRules`](../../../aspose.pdf/tounicodeprocessingrules/) class.
+Initializes a new instance of the [`ToUnicodeProcessingRules`](../) class.
 
 ```csharp
 public ToUnicodeProcessingRules()
@@ -27,7 +27,7 @@ public ToUnicodeProcessingRules()
 
 ## ToUnicodeProcessingRules(bool) {#constructor_1}
 
-Initializes a new instance of the [`ToUnicodeProcessingRules`](../../../aspose.pdf/tounicodeprocessingrules/) class with the specified option
+Initializes a new instance of the [`ToUnicodeProcessingRules`](../) class with the specified option
  to remove spaces from CMap names.
 
 ```csharp
@@ -48,7 +48,7 @@ public ToUnicodeProcessingRules(bool removeSpaces)
 
 ## ToUnicodeProcessingRules(bool, bool) {#constructor_2}
 
-Initializes a new instance of the [`ToUnicodeProcessingRules`](../../../aspose.pdf/tounicodeprocessingrules/) class with specified options.
+Initializes a new instance of the [`ToUnicodeProcessingRules`](../) class with specified options.
 
 ```csharp
 public ToUnicodeProcessingRules(bool removeSpaces, bool mapNonLinkedUnicodesOnSpace)

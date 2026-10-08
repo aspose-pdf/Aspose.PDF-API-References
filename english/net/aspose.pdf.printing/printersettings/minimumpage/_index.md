@@ -7,11 +7,11 @@ description: "PrinterSettings property. Gets or sets the lowest FromPage or ToPa
 type: docs
 weight: 90
 url: "/net/aspose.pdf.printing/printersettings/minimumpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterSettings.MinimumPage property
 
-Gets or sets the lowest `FromPage` or `ToPage` which may be selected in a print dialog box.
+Gets or sets the lowest [`FromPage`](../frompage/) or [`ToPage`](../topage/) which may be selected in a print dialog box.
 
 ```csharp
 public int MinimumPage { get; set; }

@@ -7,7 +7,7 @@ description: "OutlineItemCollection property. Gets the outline item representing
 type: docs
 weight: 190
 url: "/net/aspose.pdf/outlineitemcollection/last/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.Last property
 
@@ -19,7 +19,7 @@ public OutlineItemCollection Last { get; }
 
 ### See Also
 
-* class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

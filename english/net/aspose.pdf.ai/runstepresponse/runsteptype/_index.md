@@ -7,7 +7,7 @@ description: "RunStepResponse property. Gets or sets the type of run step, which
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/runstepresponse/runsteptype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunStepResponse.RunStepType property
 

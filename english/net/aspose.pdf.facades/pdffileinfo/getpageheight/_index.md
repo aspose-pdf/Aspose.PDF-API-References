@@ -7,7 +7,7 @@ description: "PdfFileInfo method. Gets the height of the specified page."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/pdffileinfo/getpageheight/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.GetPageHeight method
 

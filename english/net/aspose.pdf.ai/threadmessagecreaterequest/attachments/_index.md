@@ -7,7 +7,7 @@ description: "ThreadMessageCreateRequest property. Gets or sets a list of files 
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/attachments/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadMessageCreateRequest.Attachments property
 
@@ -19,6 +19,7 @@ public List<Attachment> Attachments { get; set; }
 
 ### See Also
 
+* class [Attachment](../../attachment/)
 * class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

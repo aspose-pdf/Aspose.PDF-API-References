@@ -7,7 +7,7 @@ description: "Document method. Save document to XML."
 type: docs
 weight: 850
 url: "/net/aspose.pdf/document/savexml/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.SaveXml method
 

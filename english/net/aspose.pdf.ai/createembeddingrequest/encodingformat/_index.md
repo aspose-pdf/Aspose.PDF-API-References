@@ -7,7 +7,7 @@ description: "CreateEmbeddingRequest property. Gets or sets the format to return
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/createembeddingrequest/encodingformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateEmbeddingRequest.EncodingFormat property
 

@@ -7,7 +7,7 @@ description: "SquigglyAnnotation method. Accepts visitor object to process the a
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/squigglyannotation/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SquigglyAnnotation.Accept method
 
@@ -23,7 +23,7 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [AnnotationSelector](../../annotationselector/)
 * class [SquigglyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

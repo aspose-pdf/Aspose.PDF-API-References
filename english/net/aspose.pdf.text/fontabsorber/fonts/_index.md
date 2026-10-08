@@ -7,11 +7,11 @@ description: "FontAbsorber property. Gets collection of search occurrences that 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/fontabsorber/fonts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontAbsorber.Fonts property
 
-Gets collection of search occurrences that are presented with [`Font`](../../../aspose.pdf.text/font/) objects.
+Gets collection of search occurrences that are presented with [`Font`](../../font/) objects.
 
 ```csharp
 public FontCollection Fonts { get; }
@@ -19,7 +19,7 @@ public FontCollection Fonts { get; }
 
 ### See Also
 
-* class [FontCollection](../../../aspose.pdf.text/fontcollection/)
+* class [FontCollection](../../fontcollection/)
 * class [FontAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

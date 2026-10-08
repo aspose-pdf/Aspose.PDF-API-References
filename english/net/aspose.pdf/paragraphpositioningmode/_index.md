@@ -7,7 +7,7 @@ description: "Aspose.Pdf.ParagraphPositioningMode enum. Specifies variant for de
 type: docs
 weight: 2300
 url: "/net/aspose.pdf/paragraphpositioningmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ParagraphPositioningMode enumeration
 
@@ -21,10 +21,8 @@ public enum ParagraphPositioningMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Default | `0` | The location is determined by the previously placed elements. 
- Adding an element is taken into account when determining the location of subsequent elements. |
-| Absolute | `1` | The location is specified by the Left and Top values, 
- does not depend on previous elements and does not affect the location of subsequent ones. |
+| Default | `0` | The location is determined by the previously placed elements. Adding an element is taken into account when determining the location of subsequent elements. |
+| Absolute | `1` | The location is specified by the Left and Top values, does not depend on previous elements and does not affect the location of subsequent ones. |
 
 ### See Also
 

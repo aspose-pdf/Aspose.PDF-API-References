@@ -7,7 +7,7 @@ description: "FormExporter method. Starts the FormExporter processing with the s
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/formexporter/process/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormExporter.Process method
 
@@ -23,7 +23,7 @@ public ResultContainer Process(IPluginOptions options)
 
 ### Return Value
 
-A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) containing the result of the operation.
+A [`ResultContainer`](../../resultcontainer/) containing the result of the operation.
 
 ### Exceptions
 
@@ -34,8 +34,8 @@ A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) containing t
 
 ### See Also
 
-* class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
-* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
 * class [FormExporter](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

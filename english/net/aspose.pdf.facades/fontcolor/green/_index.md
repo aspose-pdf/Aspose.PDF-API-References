@@ -7,7 +7,7 @@ description: "FontColor property. Green component of color."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/fontcolor/green/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontColor.Green property
 

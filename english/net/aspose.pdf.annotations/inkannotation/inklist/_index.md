@@ -7,7 +7,7 @@ description: "InkAnnotation property. Gets or sets list of gestures that are ind
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/inkannotation/inklist/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## InkAnnotation.InkList property
 
@@ -19,6 +19,7 @@ public IList<Point[]> InkList { get; set; }
 
 ### See Also
 
+* class [Point](../../../aspose.pdf/point/)
 * class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

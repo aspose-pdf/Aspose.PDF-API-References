@@ -7,7 +7,7 @@ description: "Result of conversion can contain one or several HTML-pages ( that 
 type: docs
 weight: 1300
 url: "/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavingstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.HtmlPageMarkupSavingStrategy delegate
 
@@ -33,6 +33,7 @@ public delegate void HtmlPageMarkupSavingStrategy(HtmlPageMarkupSavingInfo htmlS
 
 ### See Also
 
+* class [HtmlPageMarkupSavingInfo](../htmlsaveoptions.htmlpagemarkupsavinginfo/)
 * class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)

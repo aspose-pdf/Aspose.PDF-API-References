@@ -8,7 +8,7 @@ type: docs
 weight: 80
 url: "/net/aspose.pdf.lowcode/filedatasource/"
 keywords: "FileDataSource, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileDataSource class
 
@@ -22,17 +22,18 @@ public sealed class FileDataSource : IDataSource
 
 | Name | Description |
 | --- | --- |
-| [FileDataSource](./filedatasource/)(string) | Initializes new file data source with the specified path. |
+| [FileDataSource](filedatasource/)(string) | Initializes new file data source with the specified path. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DataType](./datatype/) { get; } | Type of data source (file). |
-| [Path](./path/) { get; } | Gets the path to the file of the current data source. |
+| [DataType](../../aspose.pdf.lowcode/filedatasource/datatype/) { get; } | Type of data source (file). |
+| [Path](../../aspose.pdf.lowcode/filedatasource/path/) { get; } | Gets the path to the file of the current data source. |
 
 ### See Also
 
+* interface [IDataSource](../idatasource/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

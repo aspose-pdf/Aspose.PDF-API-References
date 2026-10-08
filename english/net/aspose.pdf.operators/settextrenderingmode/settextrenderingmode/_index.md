@@ -7,7 +7,7 @@ description: "SetTextRenderingMode constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/settextrenderingmode/settextrenderingmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetTextRenderingMode constructor
 

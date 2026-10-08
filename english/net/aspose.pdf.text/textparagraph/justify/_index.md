@@ -7,7 +7,7 @@ description: "TextParagraph property. Gets or sets value whether text is justifi
 type: docs
 weight: 140
 url: "/net/aspose.pdf.text/textparagraph/justify/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextParagraph.Justify property
 

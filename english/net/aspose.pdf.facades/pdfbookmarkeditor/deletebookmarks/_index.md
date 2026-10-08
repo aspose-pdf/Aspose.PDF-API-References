@@ -7,7 +7,7 @@ description: "PdfBookmarkEditor method. Deletes all bookmarks of the PDF documen
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DeleteBookmarks() {#deletebookmarks}
 

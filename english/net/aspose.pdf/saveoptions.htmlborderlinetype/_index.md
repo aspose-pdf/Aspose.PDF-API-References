@@ -7,7 +7,7 @@ description: "Aspose.Pdf.SaveOptions.HtmlBorderLineType enum. Represents line ty
 type: docs
 weight: 2750
 url: "/net/aspose.pdf/saveoptions.htmlborderlinetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.HtmlBorderLineType enumeration
 

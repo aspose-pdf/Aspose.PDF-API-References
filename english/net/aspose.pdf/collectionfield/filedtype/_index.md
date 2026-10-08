@@ -7,12 +7,12 @@ description: "CollectionField property. Gets the type of a field value in a sche
 type: docs
 weight: 10
 url: "/net/aspose.pdf/collectionfield/filedtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionField.FiledType property
 
 Gets the type of a field value in a schema collection.
- This field describes the value type corresponding to `Subtype`.
+ This field describes the value type corresponding to [`Subtype`](../subtype/).
 
 ```csharp
 public FieldValueType FiledType { get; }
@@ -20,7 +20,7 @@ public FieldValueType FiledType { get; }
 
 ### See Also
 
-* enum [FieldValueType](../../../aspose.pdf/fieldvaluetype/)
+* enum [FieldValueType](../../fieldvaluetype/)
 * class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

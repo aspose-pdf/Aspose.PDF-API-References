@@ -7,7 +7,7 @@ description: "ViewerPreference field. Text reading order left to right."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.facades/viewerpreference/directionl2r/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ViewerPreference.DirectionL2R field
 

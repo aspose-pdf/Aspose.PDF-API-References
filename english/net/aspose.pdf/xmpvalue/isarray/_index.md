@@ -7,7 +7,7 @@ description: "XmpValue property. Returns true is XmpValue is array."
 type: docs
 weight: 380
 url: "/net/aspose.pdf/xmpvalue/isarray/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpValue.IsArray property
 

@@ -7,7 +7,7 @@ description: "TimestampOptions property. Rectangle defining the annotation area 
 type: docs
 weight: 120
 url: "/net/aspose.pdf.lowcode/timestampoptions/rectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TimestampOptions.Rectangle property
 
@@ -19,7 +19,6 @@ public Rectangle Rectangle { get; set; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [TimestampOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

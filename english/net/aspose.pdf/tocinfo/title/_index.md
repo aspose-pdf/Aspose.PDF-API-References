@@ -7,7 +7,7 @@ description: "TocInfo property. Gets or sets table of contents title."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/tocinfo/title/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TocInfo.Title property
 

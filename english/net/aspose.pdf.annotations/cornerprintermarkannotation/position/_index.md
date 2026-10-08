@@ -7,7 +7,7 @@ description: "CornerPrinterMarkAnnotation property. Get or sets the position of 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/cornerprintermarkannotation/position/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CornerPrinterMarkAnnotation.Position property
 
@@ -19,7 +19,7 @@ public PrinterMarkCornerPosition Position { get; set; }
 
 ### See Also
 
-* enum [PrinterMarkCornerPosition](../../../aspose.pdf.annotations/printermarkcornerposition/)
+* enum [PrinterMarkCornerPosition](../../printermarkcornerposition/)
 * class [CornerPrinterMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

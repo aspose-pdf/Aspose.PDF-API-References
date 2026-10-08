@@ -7,7 +7,7 @@ description: "ImageCompressionOptions property. Gets or sets encoding used to st
 type: docs
 weight: 70
 url: "/net/aspose.pdf.optimization/imagecompressionoptions/encoding/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageCompressionOptions.Encoding property
 
@@ -19,7 +19,7 @@ public ImageEncoding Encoding { get; set; }
 
 ### See Also
 
-* enum [ImageEncoding](../../../aspose.pdf.optimization/imageencoding/)
+* enum [ImageEncoding](../../imageencoding/)
 * class [ImageCompressionOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)

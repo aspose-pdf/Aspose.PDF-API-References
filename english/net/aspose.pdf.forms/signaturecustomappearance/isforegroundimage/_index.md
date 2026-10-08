@@ -7,7 +7,7 @@ description: "SignatureCustomAppearance property. Gets or sets a value indicatin
 type: docs
 weight: 20
 url: "/net/aspose.pdf.forms/signaturecustomappearance/isforegroundimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureCustomAppearance.IsForegroundImage property
 

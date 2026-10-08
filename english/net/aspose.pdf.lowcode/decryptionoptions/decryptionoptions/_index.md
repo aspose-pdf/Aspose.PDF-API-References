@@ -7,11 +7,11 @@ description: "DecryptionOptions constructor. Initializes new instance of the Dec
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/decryptionoptions/decryptionoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DecryptionOptions constructor
 
-Initializes new instance of the [`DecryptionOptions`](../../../aspose.pdf.lowcode/decryptionoptions/) object with default options.
+Initializes new instance of the [`DecryptionOptions`](../) object with default options.
 
 ```csharp
 public DecryptionOptions(string ownerPassword)

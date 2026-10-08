@@ -8,7 +8,7 @@ type: docs
 weight: 670
 url: "/net/aspose.pdf/document.repairoptions/"
 keywords: "Document.RepairOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.RepairOptions class
 
@@ -22,13 +22,13 @@ public sealed class RepairOptions
 
 | Name | Description |
 | --- | --- |
-| [RepairOptions](./repairoptions/)() | The default constructor. |
+| [RepairOptions](repairoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [RestoreIndirectObjectGenerations](./restoreindirectobjectgenerations/) { get; set; } | Gets or sets a value indicating whether to restore wrong generation numbers in references to indirect objects during the repair process. |
+| [RestoreIndirectObjectGenerations](../../aspose.pdf/document.repairoptions/restoreindirectobjectgenerations/) { get; set; } | Gets or sets a value indicating whether to restore wrong generation numbers in references to indirect objects during the repair process. |
 
 ## Remarks
 

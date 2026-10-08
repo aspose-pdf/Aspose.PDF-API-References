@@ -8,7 +8,7 @@ type: docs
 weight: 2920
 url: "/net/aspose.pdf/texfilesysteminputdirectory/"
 keywords: "TeXFileSystemInputDirectory, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXFileSystemInputDirectory class
 
@@ -22,17 +22,18 @@ public class TeXFileSystemInputDirectory : ITeXInputDirectory
 
 | Name | Description |
 | --- | --- |
-| [TeXFileSystemInputDirectory](./texfilesysteminputdirectory/)(string) | Creates new instance. |
+| [TeXFileSystemInputDirectory](texfilesysteminputdirectory/)(string) | Creates new instance. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Dispose](./dispose/)() | Disposes the instance. |
-| [GetFile](./getfile/)(string, out string, bool) | Returns the stream to read from. |
+| virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose/)() | Disposes the instance. |
+| [GetFile](../../aspose.pdf/texfilesysteminputdirectory/getfile/)(string, out string, bool) | Returns the stream to read from. |
 
 ### See Also
 
+* interface [ITeXInputDirectory](../itexinputdirectory/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
 

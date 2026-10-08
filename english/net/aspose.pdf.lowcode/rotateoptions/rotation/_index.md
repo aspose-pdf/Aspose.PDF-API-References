@@ -7,7 +7,7 @@ description: "RotateOptions property. Gets or sets new pages rotation."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/rotateoptions/rotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RotateOptions.Rotation property
 

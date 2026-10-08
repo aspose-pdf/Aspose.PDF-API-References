@@ -7,7 +7,7 @@ description: "EcdsaAlgorithmInfo field. Gets the name of the elliptic curve used
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/ecdsaalgorithminfo/eccname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EcdsaAlgorithmInfo.EccName field
 

@@ -7,7 +7,7 @@ description: "Field property. Gets or sets the field rectangle."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.forms/field/rect/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Field.Rect property
 
@@ -19,7 +19,7 @@ public override Rectangle Rect { get; set; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "FileSpecification method. Sets application-specific parameter."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/filespecification/setvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSpecification.SetValue method
 

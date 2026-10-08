@@ -7,7 +7,7 @@ description: "GraphicState property. Gets the operators representing clips and c
 type: docs
 weight: 20
 url: "/net/aspose.pdf.vector/graphicstate/clipsandmatrices/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicState.ClipsAndMatrices property
 
@@ -19,6 +19,7 @@ public List<Operator> ClipsAndMatrices { get; }
 
 ### See Also
 
+* class [Operator](../../../aspose.pdf/operator/)
 * class [GraphicState](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

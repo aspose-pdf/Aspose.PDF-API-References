@@ -7,7 +7,7 @@ description: "Artifact method. Gets custom value of artifact."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/artifact/getvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.GetValue method
 

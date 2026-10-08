@@ -7,7 +7,7 @@ description: "PDF3DCrossSection property. Gets or sets the cutting plane orienta
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneorientation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DCrossSection.CuttingPlaneOrientation property
 
@@ -21,9 +21,15 @@ public PDF3DCuttingPlaneOrientation CuttingPlaneOrientation { get; set; }
 
 The cutting plane orientation.
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| Exception | Only one of the values shall be Null |
+
 ### See Also
 
-* class [PDF3DCuttingPlaneOrientation](../../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/)
+* class [PDF3DCuttingPlaneOrientation](../../pdf3dcuttingplaneorientation/)
 * class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

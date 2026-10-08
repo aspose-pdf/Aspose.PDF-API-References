@@ -8,11 +8,11 @@ type: docs
 weight: 870
 url: "/net/aspose.pdf.lowcode/splitter/"
 keywords: "Splitter, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Splitter class
 
-Represents [`Splitter`](../../aspose.pdf.lowcode/splitter/) plugin.
+Represents [`Splitter`](../splitter/) plugin.
 
 ```csharp
 public class Splitter : IPlugin
@@ -40,16 +40,17 @@ splitter.Process(opt);
 
 | Name | Description |
 | --- | --- |
-| [Splitter](./splitter/)() | The default constructor. |
+| [Splitter](splitter/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(IPluginOptions) | Starts the [`Splitter`](../../aspose.pdf.lowcode/splitter/) processing with the specified parameters. |
+| [Process](../../aspose.pdf.lowcode/splitter/process/)(IPluginOptions) | Starts the `Splitter` processing with the specified parameters. |
 
 ### See Also
 
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

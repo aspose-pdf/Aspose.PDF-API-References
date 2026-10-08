@@ -7,7 +7,7 @@ description: "IconFit property. Gets or sets space to allocate at the left of th
 type: docs
 weight: 70
 url: "/net/aspose.pdf.forms/iconfit/leftoverleft/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IconFit.LeftoverLeft property
 

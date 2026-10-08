@@ -7,7 +7,7 @@ description: "Color method. Returns true if two Colors are equal."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/color/equals/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Color.Equals method
 

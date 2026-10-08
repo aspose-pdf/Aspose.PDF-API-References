@@ -7,7 +7,7 @@ description: "OptionCollection method. Removes item from collection, throws NotI
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/optioncollection/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptionCollection.Remove method
 
@@ -25,16 +25,9 @@ public bool Remove(Option item)
 
 Throws NotImplementedException
 
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| NotImplementedException | NotImplementedException |
-| NotImplementedException | NotImplementedException |
-
 ### See Also
 
-* class [Option](../../../aspose.pdf.forms/option/)
+* class [Option](../../option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "HeaderFooterData property. Gets or sets the page number settings."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/headerfooterdata/pagenumber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HeaderFooterData.PageNumber property
 
@@ -19,7 +19,7 @@ public PageNumber PageNumber { get; set; }
 
 ### See Also
 
-* class [PageNumber](../../../aspose.pdf/pagenumber/)
+* class [PageNumber](../../pagenumber/)
 * class [HeaderFooterData](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

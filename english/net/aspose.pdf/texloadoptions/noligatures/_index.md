@@ -7,7 +7,7 @@ description: "TeXLoadOptions property. Gets/sets a flag that cancels ligatures i
 type: docs
 weight: 110
 url: "/net/aspose.pdf/texloadoptions/noligatures/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXLoadOptions.NoLigatures property
 

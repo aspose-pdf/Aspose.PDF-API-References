@@ -7,11 +7,11 @@ description: "OpenAIImageDescriptionCopilotOptions method. Gets the current Open
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/getoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIImageDescriptionCopilotOptions.GetOptions method
 
-Gets the current [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
+Gets the current [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions GetOptions()
@@ -19,11 +19,11 @@ public OpenAIImageDescriptionCopilotOptions GetOptions()
 
 ### Return Value
 
-The current instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
+The current instance of [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

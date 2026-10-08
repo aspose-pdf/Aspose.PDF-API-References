@@ -8,7 +8,7 @@ type: docs
 weight: 260
 url: "/net/aspose.pdf.text/memoryfontsource/"
 keywords: "MemoryFontSource, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MemoryFontSource class
 
@@ -22,20 +22,20 @@ public sealed class MemoryFontSource : FontSource, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [MemoryFontSource](./memoryfontsource/)(byte[]) | Initializes a new instance of [`MemoryFontSource`](../../aspose.pdf.text/memoryfontsource/) class. |
+| [MemoryFontSource](memoryfontsource/)(byte[]) | Initializes a new instance of `MemoryFontSource` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FontBytes](./fontbytes/) { get; } | Font file byte array. |
+| [FontBytes](../../aspose.pdf.text/memoryfontsource/fontbytes/) { get; } | Font file byte array. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/)() | Releases internal resources. |
-| override [Equals](./equals/)(object) | Check if font file source objects are equal. |
+| [Dispose](../../aspose.pdf.text/memoryfontsource/dispose/)() | Releases internal resources. |
+| override [Equals](../../aspose.pdf.text/memoryfontsource/equals/)(object) | Check if font file source objects are equal. |
 
 ### See Also
 

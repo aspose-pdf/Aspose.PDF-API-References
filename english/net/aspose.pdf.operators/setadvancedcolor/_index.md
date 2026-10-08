@@ -8,7 +8,7 @@ type: docs
 weight: 480
 url: "/net/aspose.pdf.operators/setadvancedcolor/"
 keywords: "SetAdvancedColor, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetAdvancedColor class
 
@@ -22,13 +22,13 @@ public class SetAdvancedColor : BasicSetColorAndPatternOperator
 
 | Name | Description |
 | --- | --- |
-| [SetAdvancedColor](./setadvancedcolor/#constructor)() | Initializes operator. |
-| [SetAdvancedColor](./setadvancedcolor/#constructor_1)(double) | Constructor for scn operator. |
-| [SetAdvancedColor](./setadvancedcolor/#constructor_2)(string) | Constructor for scn operator. |
-| [SetAdvancedColor](./setadvancedcolor/#constructor_3)(double, string) | Constructor for scn operator. |
-| [SetAdvancedColor](./setadvancedcolor/#constructor_4)(double[], string) | Constructor for scn operator. |
-| [SetAdvancedColor](./setadvancedcolor/#constructor_5)(double, double, double, string) | Constructor for scn operator. |
-| [SetAdvancedColor](./setadvancedcolor/#constructor_6)(double, double, double, double, string) | Constructor for scn operator. |
+| [SetAdvancedColor](setadvancedcolor/#constructor)() | Initializes operator. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_1)(double, string) | Constructor for scn operator. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_2)(double) | Constructor for scn operator. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_3)(double, double, double, string) | Constructor for scn operator. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_4)(double, double, double, double, string) | Constructor for scn operator. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_5)(string) | Constructor for scn operator. |
+| [SetAdvancedColor](setadvancedcolor/#constructor_6)(double[], string) | Constructor for scn operator. |
 
 ## Properties
 
@@ -50,11 +50,10 @@ public class SetAdvancedColor : BasicSetColorAndPatternOperator
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [Accept](../../aspose.pdf.operators/setadvancedcolor/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
-| override [getColor](./getcolor/)() | Returns color specified by operator. |
+| override [getColor](../../aspose.pdf.operators/setadvancedcolor/getcolor/)() | Returns color specified by operator. |
 
 ### See Also
 

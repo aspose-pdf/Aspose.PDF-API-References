@@ -7,7 +7,7 @@ description: "Matrix property. Elements of the matrix."
 type: docs
 weight: 320
 url: "/net/aspose.pdf/matrix/elements/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix.Elements property
 

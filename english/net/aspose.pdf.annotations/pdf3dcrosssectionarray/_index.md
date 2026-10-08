@@ -8,7 +8,7 @@ type: docs
 weight: 810
 url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/"
 keywords: "PDF3DCrossSectionArray, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DCrossSectionArray class
 
@@ -22,22 +22,22 @@ public class PDF3DCrossSectionArray
 
 | Name | Description |
 | --- | --- |
-| [PDF3DCrossSectionArray](./pdf3dcrosssectionarray/)(Document) | Initializes a new instance of the [`PDF3DCrossSectionArray`](../../aspose.pdf.annotations/pdf3dcrosssectionarray/) class. |
+| [PDF3DCrossSectionArray](pdf3dcrosssectionarray/)(Document) | Initializes a new instance of the `PDF3DCrossSectionArray` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Gets the cross section count. |
-| [Item](./item/) { get; set; } | Gets or sets the [`PDF3DCrossSection`](../../aspose.pdf.annotations/pdf3dcrosssection/) at the specified index. |
+| [Count](../../aspose.pdf.annotations/pdf3dcrosssectionarray/count/) { get; } | Gets the cross section count. |
+| [Item](../../aspose.pdf.annotations/pdf3dcrosssectionarray/item/) { get; set; } | Gets or sets the [`PDF3DCrossSection`](../pdf3dcrosssection/) at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(PDF3DCrossSection) | Adds the specified cross section to views array . |
-| [RemoveAll](./removeall/)() | Removes all cross section from array. |
-| [RemoveAt](./removeat/)(int) | Removes cross section from array at specified index. |
+| [Add](../../aspose.pdf.annotations/pdf3dcrosssectionarray/add/)(PDF3DCrossSection) | Adds the specified cross section to views array . |
+| [RemoveAll](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/)() | Removes all cross section from array. |
+| [RemoveAt](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/)(int) | Removes cross section from array at specified index. |
 
 ### See Also
 

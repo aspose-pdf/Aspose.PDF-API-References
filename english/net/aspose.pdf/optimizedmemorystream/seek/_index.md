@@ -7,7 +7,7 @@ description: "OptimizedMemoryStream method. When overridden in a derived class, 
 type: docs
 weight: 70
 url: "/net/aspose.pdf/optimizedmemorystream/seek/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizedMemoryStream.Seek method
 
@@ -20,7 +20,7 @@ public override long Seek(long offset, SeekOrigin origin)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | offset | Int64 | A byte offset relative to the *origin* parameter. |
-| origin | SeekOrigin | A value of type <see cref="T:System.IO.SeekOrigin" /> indicating the reference point used to obtain the new position. |
+| origin | SeekOrigin | A value of type SeekOrigin indicating the reference point used to obtain the new position. |
 
 ### Return Value
 

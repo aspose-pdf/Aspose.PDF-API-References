@@ -7,18 +7,20 @@ description: "TextAbsorber property. Gets or sets text extraction options."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.text/textabsorber/extractionoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextAbsorber.ExtractionOptions property
 
 Gets or sets text extraction options.
 
-Allows to define text formatting mode [`TextExtractionOptions`](../../../aspose.pdf.text/textextractionoptions/) during extraction.
- The default mode is `Pure`
-
 ```csharp
 public virtual TextExtractionOptions ExtractionOptions { get; set; }
 ```
+
+## Remarks
+
+Allows to define text formatting mode [`TextExtractionOptions`](../../textextractionoptions/) during extraction.
+ The default mode is `Pure`
 
 ## Examples
 
@@ -43,7 +45,7 @@ string extractedText = absorber.Text;
 
 ### See Also
 
-* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextExtractionOptions](../../textextractionoptions/)
 * class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

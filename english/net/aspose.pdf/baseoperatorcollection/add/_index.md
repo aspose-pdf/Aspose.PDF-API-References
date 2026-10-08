@@ -7,7 +7,7 @@ description: "BaseOperatorCollection method. Adds new operator into collection."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/baseoperatorcollection/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseOperatorCollection.Add method
 
@@ -23,7 +23,7 @@ public abstract void Add(Operator op)
 
 ### See Also
 
-* class [Operator](../../../aspose.pdf/operator/)
+* class [Operator](../../operator/)
 * class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

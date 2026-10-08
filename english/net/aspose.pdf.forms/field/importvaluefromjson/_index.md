@@ -7,7 +7,7 @@ description: "Field method. Imports data into the specified fields from a JSON s
 type: docs
 weight: 90
 url: "/net/aspose.pdf.forms/field/importvaluefromjson/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImportValueFromJson(Stream) {#importvaluefromjson}
 

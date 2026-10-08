@@ -7,7 +7,7 @@ description: "Artifact property. Gets name of artifact subtype. May be used if a
 type: docs
 weight: 170
 url: "/net/aspose.pdf/artifact/customsubtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.CustomSubtype property
 

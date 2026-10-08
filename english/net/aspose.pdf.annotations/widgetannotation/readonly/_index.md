@@ -7,7 +7,7 @@ description: "WidgetAnnotation property. Gets or sets read only status of the fi
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/widgetannotation/readonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WidgetAnnotation.ReadOnly property
 

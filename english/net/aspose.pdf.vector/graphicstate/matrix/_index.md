@@ -7,7 +7,7 @@ description: "GraphicState property. Gets the current transformation matrix."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.vector/graphicstate/matrix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicState.Matrix property
 

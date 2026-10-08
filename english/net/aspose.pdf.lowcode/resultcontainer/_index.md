@@ -8,7 +8,7 @@ type: docs
 weight: 790
 url: "/net/aspose.pdf.lowcode/resultcontainer/"
 keywords: "ResultContainer, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ResultContainer class
 
@@ -22,7 +22,7 @@ public class ResultContainer
 
 | Name | Description |
 | --- | --- |
-| [ResultCollection](./resultcollection/) { get; } | Gets collection of the operation results |
+| [ResultCollection](../../aspose.pdf.lowcode/resultcontainer/resultcollection/) { get; } | Gets collection of the operation results |
 
 ### See Also
 

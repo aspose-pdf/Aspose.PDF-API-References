@@ -7,7 +7,7 @@ description: "PdfPageEditor property. Gets or sets transition style to use when 
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/pdfpageeditor/transitiontype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.TransitionType property
 

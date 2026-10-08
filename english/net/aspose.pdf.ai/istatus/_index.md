@@ -7,7 +7,7 @@ description: "Aspose.Pdf.AI.IStatus interface. Represents the status of an opera
 type: docs
 weight: 610
 url: "/net/aspose.pdf.ai/istatus/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IStatus interface
 
@@ -21,7 +21,7 @@ public interface IStatus
 
 | Name | Description |
 | --- | --- |
-| [Status](./status/) { get; set; } | Gets or sets the status of the operation. |
+| [Status](../../aspose.pdf.ai/istatus/status/) { get; set; } | Gets or sets the status of the operation. |
 
 ### See Also
 

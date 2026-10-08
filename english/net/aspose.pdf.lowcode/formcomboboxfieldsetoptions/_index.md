@@ -8,11 +8,11 @@ type: docs
 weight: 140
 url: "/net/aspose.pdf.lowcode/formcomboboxfieldsetoptions/"
 keywords: "FormComboBoxFieldSetOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormComboBoxFieldSetOptions class
 
-Represents options for set properties in ComboBoxField by [`FormEditor`](../../aspose.pdf.lowcode/formeditor/) plugin.
+Represents options for set properties in ComboBoxField by [`FormEditor`](../formeditor/) plugin.
 
 ```csharp
 public class FormComboBoxFieldSetOptions : FormFieldSetOptions
@@ -22,7 +22,7 @@ public class FormComboBoxFieldSetOptions : FormFieldSetOptions
 
 | Name | Description |
 | --- | --- |
-| [FormComboBoxFieldSetOptions](./formcomboboxfieldsetoptions/)() | The default constructor. |
+| [FormComboBoxFieldSetOptions](formcomboboxfieldsetoptions/)() | The default constructor. |
 
 ## Properties
 
@@ -32,7 +32,7 @@ public class FormComboBoxFieldSetOptions : FormFieldSetOptions
 | [Color](../../aspose.pdf.lowcode/formfieldoptions/color/) { get; set; } | Gets/sets the value to determine property Color for created/modified field (if will be set). |
 | [Contents](../../aspose.pdf.lowcode/formfieldoptions/contents/) { get; set; } | Gets/sets the value to determine property Contents for created/modified field (if will be set). |
 | [DefaultAppearance](../../aspose.pdf.lowcode/formfieldoptions/defaultappearance/) { get; set; } | Gets/sets the value to determine property DefaultAppearance for created/modified field (if will be set). |
-| [Editable](./editable/) { get; set; } | Gets/sets the value to determine property Editable for modified field (if will be set). |
+| [Editable](../../aspose.pdf.lowcode/formcomboboxfieldsetoptions/editable/) { get; set; } | Gets/sets the value to determine property Editable for modified field (if will be set). |
 | [Exportable](../../aspose.pdf.lowcode/formfieldoptions/exportable/) { get; set; } | Gets/sets the value to determine whether created/modified field is exportable or not (if will be set). |
 | [FitIntoRectangle](../../aspose.pdf.lowcode/formfieldoptions/fitintorectangle/) { get; set; } | Gets/sets the value to determine whether created/modified field is fit into rectangle or not (if will be set). |
 | [Flags](../../aspose.pdf.lowcode/formfieldoptions/flags/) { get; set; } | Gets/sets the value to determine property Flags for created/modified field (if will be set). |
@@ -41,12 +41,12 @@ public class FormComboBoxFieldSetOptions : FormFieldSetOptions
 | [MaxFontSize](../../aspose.pdf.lowcode/formfieldoptions/maxfontsize/) { get; set; } | Gets/sets the value to determine property MaxFontSize for created/modified field (if will be set). |
 | [MinFontSize](../../aspose.pdf.lowcode/formfieldoptions/minfontsize/) { get; set; } | Gets/sets the value to determine property MinFontSize for created/modified field (if will be set). |
 | [Name](../../aspose.pdf.lowcode/formfieldoptions/name/) { get; set; } | Gets/sets the value to determine property Name for created/modified field (if will be set). |
-| [Options](./options/) { get; set; } | Gets/sets the value to determine property Options for modified field (if will be set). |
+| [Options](../../aspose.pdf.lowcode/formcomboboxfieldsetoptions/options/) { get; set; } | Gets/sets the value to determine property Options for modified field (if will be set). |
 | [PartialName](../../aspose.pdf.lowcode/formfieldoptions/partialname/) { get; set; } | Gets/sets the value to determine property PartialName for created/modified field (if will be set). |
 | [ReadOnly](../../aspose.pdf.lowcode/formfieldoptions/readonly/) { get; set; } | Gets/sets the value to determine whether created/modified field is read only or not (if will be set). |
 | [Rect](../../aspose.pdf.lowcode/formfieldsetoptions/rect/) { get; set; } | Rectangle that be setted to field(s). |
 | [Required](../../aspose.pdf.lowcode/formfieldoptions/required/) { get; set; } | Gets/sets the value to determine whether created/modified field is required or not (if will be set). |
-| [Selected](./selected/) { get; set; } | Gets/sets the value to determine property Selected for modified field (if will be set). |
+| [Selected](../../aspose.pdf.lowcode/formcomboboxfieldsetoptions/selected/) { get; set; } | Gets/sets the value to determine property Selected for modified field (if will be set). |
 | [TextHorizontalAlignment](../../aspose.pdf.lowcode/formfieldoptions/texthorizontalalignment/) { get; set; } | Gets/sets the value to determine property TextHorizontalAlignment for created/modified field (if will be set). |
 | [UpdateAppearanceOnConvert](../../aspose.pdf.lowcode/formfieldoptions/updateappearanceonconvert/) { get; set; } | Gets/sets the value to determine whether created/modified field is update appearance on convert or not (if will be set). |
 | [UseFontSubset](../../aspose.pdf.lowcode/formfieldoptions/usefontsubset/) { get; set; } | Gets/sets the value to determine whether created/modified field is use font subset or not (if will be set). |

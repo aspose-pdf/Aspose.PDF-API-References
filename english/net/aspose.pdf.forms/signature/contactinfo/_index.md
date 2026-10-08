@@ -7,7 +7,7 @@ description: "Signature property. Information provided by the signer to enable a
 type: docs
 weight: 160
 url: "/net/aspose.pdf.forms/signature/contactinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Signature.ContactInfo property
 

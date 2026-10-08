@@ -7,7 +7,7 @@ description: "VectorStore property. Gets or sets a list of file IDs to add to th
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/vectorstore/fileids/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStore.FileIds property
 

@@ -7,7 +7,7 @@ description: "HtmlLoadOptions field. Sometimes it's necessary to avoid usage of 
 type: docs
 weight: 130
 url: "/net/aspose.pdf/htmlloadoptions/customloaderofexternalresources/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlLoadOptions.CustomLoaderOfExternalResources field
 
@@ -22,6 +22,7 @@ public ResourceLoadingStrategy CustomLoaderOfExternalResources;
 
 ### See Also
 
+* delegate [ResourceLoadingStrategy](../../loadoptions.resourceloadingstrategy/)
 * class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

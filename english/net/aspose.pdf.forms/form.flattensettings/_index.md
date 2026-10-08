@@ -8,7 +8,7 @@ type: docs
 weight: 150
 url: "/net/aspose.pdf.forms/form.flattensettings/"
 keywords: "Form.FlattenSettings, Aspose.Pdf.Forms, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.FlattenSettings class
 
@@ -22,16 +22,16 @@ public class FlattenSettings
 
 | Name | Description |
 | --- | --- |
-| [FlattenSettings](./flattensettings/)() | The default constructor. |
+| [FlattenSettings](flattensettings/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ApplyRedactions](./applyredactions/) { get; set; } | If true, redaction specified Redaction annotation will be applied |
-| [CallEvents](./callevents/) { get; set; } | If set, formatting and other JavaScript events will be called. True by default. |
-| [HideButtons](./hidebuttons/) { get; set; } | If set, buttons will be removed from flattened document. False by default. |
-| [UpdateAppearances](./updateappearances/) { get; set; } | If set, all field appearances will be regenerated before flattening. This option may help if field is incorrectly flattened. This option may decrease performance. By default set to false. |
+| [ApplyRedactions](../../aspose.pdf.forms/form.flattensettings/applyredactions/) { get; set; } | If true, redaction specified Redaction annotation will be applied |
+| [CallEvents](../../aspose.pdf.forms/form.flattensettings/callevents/) { get; set; } | If set, formatting and other JavaScript events will be called. True by default. |
+| [HideButtons](../../aspose.pdf.forms/form.flattensettings/hidebuttons/) { get; set; } | If set, buttons will be removed from flattened document. False by default. |
+| [UpdateAppearances](../../aspose.pdf.forms/form.flattensettings/updateappearances/) { get; set; } | If set, all field appearances will be regenerated before flattening. This option may help if field is incorrectly flattened. This option may decrease performance. By default set to false. |
 
 ### See Also
 

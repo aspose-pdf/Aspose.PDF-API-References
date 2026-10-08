@@ -1,5 +1,5 @@
 ---
-title: "LoadOptions.ResourceLoadingResult.LoadOptions.ResourceLoadingResult"
+title: "LoadOptions.ResourceLoadingResult.ResourceLoadingResult"
 linktitle: "LoadOptions.ResourceLoadingResult"
 articleTitle: "LoadOptions.ResourceLoadingResult"
 second_title: "Aspose.PDF for .NET API Reference"
@@ -7,7 +7,7 @@ description: "ResourceLoadingResult constructor. Creates instance of loading res
 type: docs
 weight: 10
 url: "/net/aspose.pdf/loadoptions.resourceloadingresult/resourceloadingresult/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ResourceLoadingResult constructor
 
@@ -23,7 +23,7 @@ public ResourceLoadingResult(byte[] data)
 
 ### See Also
 
-* class [LoadOptions.ResourceLoadingResult](../)
+* class [ResourceLoadingResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

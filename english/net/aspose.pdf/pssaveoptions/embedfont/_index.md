@@ -7,7 +7,7 @@ description: "PsSaveOptions property. Gets/sets flag that indicates if fonts mus
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pssaveoptions/embedfont/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PsSaveOptions.EmbedFont property
 

@@ -7,7 +7,7 @@ description: "FormImporter method. Starts the import processing with the specifi
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/formimporter/process/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormImporter.Process method
 
@@ -23,7 +23,7 @@ public ResultContainer Process(IPluginOptions options)
 
 ### Return Value
 
-A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) with the import results.
+A [`ResultContainer`](../../resultcontainer/) with the import results.
 
 ### Exceptions
 
@@ -34,8 +34,8 @@ A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) with the imp
 
 ### See Also
 
-* class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
-* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
 * class [FormImporter](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

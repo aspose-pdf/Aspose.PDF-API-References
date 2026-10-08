@@ -7,7 +7,7 @@ description: "XImageCollection method. Determines whether the collection contain
 type: docs
 weight: 190
 url: "/net/aspose.pdf/ximagecollection/contains/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImageCollection.Contains method
 
@@ -27,7 +27,7 @@ true if item is found in the collection; otherwise, false.
 
 ### See Also
 
-* class [XImage](../../../aspose.pdf/ximage/)
+* class [XImage](../../ximage/)
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Page method. Put stamp into page. Stamp can be page number, image 
 type: docs
 weight: 160
 url: "/net/aspose.pdf/page/addstamp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.AddStamp method
 
@@ -19,13 +19,11 @@ public void AddStamp(Stamp stamp)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stamp | Stamp | Stamp to add on the page. 
- Each stamp has its coordinates and corresponding properties regarding to the kind of stamp, 
- i.e. image or text value. |
+| stamp | Stamp | Stamp to add on the page. Each stamp has its coordinates and corresponding properties regarding to the kind of stamp, i.e. image or text value. |
 
 ### See Also
 
-* class [Stamp](../../../aspose.pdf.facades/stamp/)
+* class [Stamp](../../stamp/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

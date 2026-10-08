@@ -7,7 +7,7 @@ description: "OpenAIAssistantCopilotOptionsBase property. Gets or sets the maxim
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxcompletiontokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIAssistantCopilotOptionsBase.MaxCompletionTokens property
 

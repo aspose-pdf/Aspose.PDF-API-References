@@ -7,7 +7,7 @@ description: "TimestampSettings property. Gets/sets the timestamp server url."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/timestampsettings/serverurl/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TimestampSettings.ServerUrl property
 

@@ -3,16 +3,16 @@ title: "Aspose.Pdf.Forms"
 linktitle: "Aspose.Pdf.Forms"
 articleTitle: "Aspose.Pdf.Forms"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The Aspose.Pdf.Forms namespace provides classes."
+description: "The Aspose.Pdf.Forms namespace has classes which describes forms (standard, static, dynamic) and various types of fields like text box, list box, radio butto..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/"
 keywords: "Aspose.Pdf.Forms, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Overview
 
-The **Aspose.Pdf.Forms** namespace provides classes.
+The **Aspose.Pdf.Forms** namespace has classes which describes forms (standard, static, dynamic) and various types of fields like text box, list box, radio button etc.
 
 Part of the [Aspose.PDF for .NET](../) API reference.
 
@@ -31,7 +31,6 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [Field](./field/) | Base class for acro form fields. |
 | [FileSelectBoxField](./fileselectboxfield/) | Field for file select box element. |
 | [Form](./form/) | Class representing form object. |
-| [Form.FlattenSettings](./form.flattensettings/) | Class which describes settings for Form flattening procedure. |
 | [IconFit](./iconfit/) | Describes how the widget annotation's icon shall be displayed within its annotation rectangle. |
 | [ListBoxField](./listboxfield/) | Class represents ListBox field. |
 | [NumberField](./numberfield/) | Text Field with specified valid chars |
@@ -56,7 +55,6 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | --- | --- |
 | [BoxStyle](./boxstyle/) | Represents styles for drawing check in check box. |
 | [DocMDPAccessPermissions](./docmdpaccesspermissions/) | The access permissions granted for this document. Valid values are: 1 - No changes to the document are permitted; any change to the document invalidates the signature. 2 - Permitted changes are filling in forms, instantiating page templates, and signing; other changes invalidate the signature. 3 - Permitted changes are the same as for 2, as well as annotation creation, deletion, and modification; other changes invalidate the signature. |
-| [Form.SignDependentElementsRenderingModes](./form.signdependentelementsrenderingmodes/) | Forms can contain signing information and can be signed or unsigned. Sometimes view of forms in viewer must depend on whether form is signed or not. This enum enumerates possible rendering modes during convertion of form type in regard to sign. |
 | [FormType](./formtype/) | Enumeration of posible types of Acro Form. |
 | [IconCaptionPosition](./iconcaptionposition/) | Describes position of icon. |
 | [ScalingMode](./scalingmode/) | The type of scaling that shall be used. |
@@ -69,14 +67,4 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | Delegate | Description |
 | --- | --- |
 | [SignHash](./signhash/) | Delegate for custom sign the document hash. |
-
-## FAQ
-
-### What classes does the Aspose.Pdf.Forms namespace contain?
-
-[BarcodeField](./barcodefield/), [ButtonField](./buttonfield/), [CheckboxField](./checkboxfield/), [ChoiceField](./choicefield/), [ComboBoxField](./comboboxfield/), and 24 more.
-
-### How many types are in the Aspose.Pdf.Forms namespace?
-
-The Aspose.Pdf.Forms namespace contains 39 types, listed above.
 

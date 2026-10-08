@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Code) A fragment of computer program
 type: docs
 weight: 410
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/code/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.Code field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard Code;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

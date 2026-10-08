@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Comparison.EditOperationsOrder enum. Specifies the orde
 type: docs
 weight: 70
 url: "/net/aspose.pdf.comparison/editoperationsorder/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EditOperationsOrder enumeration
 

@@ -7,7 +7,7 @@ description: "SaveOptions property. Format of data save."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/saveoptions/saveformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.SaveFormat property
 
@@ -19,7 +19,7 @@ public SaveFormat SaveFormat { get; }
 
 ### See Also
 
-* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
+* enum [SaveFormat](../../saveformat/)
 * class [SaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

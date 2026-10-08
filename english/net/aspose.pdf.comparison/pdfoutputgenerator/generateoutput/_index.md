@@ -7,9 +7,9 @@ description: "PdfOutputGenerator method. Generates the output based on the diffe
 type: docs
 weight: 50
 url: "/net/aspose.pdf.comparison/pdfoutputgenerator/generateoutput/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## GenerateOutput(List<DiffOperation>, string) {#generateoutput}
+## GenerateOutput(List&lt;DiffOperation&gt;, string) {#generateoutput}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -24,13 +24,14 @@ public void GenerateOutput(List<DiffOperation> diffrences, string targetFilePath
 
 ### See Also
 
+* class [DiffOperation](../../diffoperation/)
 * class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## GenerateOutput(List<List<DiffOperation>>, string) {#generateoutput_1}
+## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;, string) {#generateoutput_1}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -45,6 +46,7 @@ public void GenerateOutput(List<List<DiffOperation>> diffrences, string targetFi
 
 ### See Also
 
+* class [DiffOperation](../../diffoperation/)
 * class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

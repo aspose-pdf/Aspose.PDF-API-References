@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.CaretSymbol enum. A symbol to be associated
 type: docs
 weight: 190
 url: "/net/aspose.pdf.annotations/caretsymbol/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CaretSymbol enumeration
 

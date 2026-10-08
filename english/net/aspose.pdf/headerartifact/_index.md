@@ -8,7 +8,7 @@ type: docs
 weight: 1030
 url: "/net/aspose.pdf/headerartifact/"
 keywords: "HeaderArtifact, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HeaderArtifact class
 
@@ -22,7 +22,7 @@ public class HeaderArtifact : Artifact
 
 | Name | Description |
 | --- | --- |
-| [HeaderArtifact](./headerartifact/)() | Creates Header Artifact instance. |
+| [HeaderArtifact](headerartifact/)() | Creates Header Artifact instance. |
 
 ## Properties
 
@@ -60,6 +60,7 @@ public class HeaderArtifact : Artifact
 | [RemoveValue](../../aspose.pdf/artifact/removevalue/)(string) | Remove custom value from the artifact. |
 | [SaveUpdates](../../aspose.pdf/artifact/saveupdates/)() | Saves all updates in artifact which were made after BeginUpdates() call. |
 | [SetImage](../../aspose.pdf/artifact/setimage/)(Stream) | Sets image of the artifact. |
+| [SetImage](../../aspose.pdf/artifact/setimage/)(string) | Sets image of the artifact. |
 | [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate/)(string[], TextState) | Set text and text properties of the artifact. Allows to specify multiple lines. |
 | [SetPageNumberReplacementString](../../aspose.pdf/artifact/setpagenumberreplacementstring/)(string) | Sets what string will be replaced with the page number. The default value is #. |
 | [SetPdfPage](../../aspose.pdf/artifact/setpdfpage/)(Page) | Sets PDF page which is placed on the document page as artifact. |

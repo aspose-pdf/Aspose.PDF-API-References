@@ -7,17 +7,19 @@ description: "LicenseInfo property. Gets the assembly release date to which upda
 type: docs
 weight: 70
 url: "/net/aspose.pdf/licenseinfo/subscriptionexpiry/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LicenseInfo.SubscriptionExpiry property
 
 Gets the assembly release date to which updates are possible.
 
-You cannot use the license for the version of assemblies with the assembly dates above.
-
 ```csharp
 public DateTime SubscriptionExpiry { get; }
 ```
+
+## Remarks
+
+You cannot use the license for the version of assemblies with the assembly dates above.
 
 ### See Also
 

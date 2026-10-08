@@ -7,7 +7,7 @@ description: "Matrix3D property. B member of the transformation matrix."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/matrix3d/b/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix3D.B property
 

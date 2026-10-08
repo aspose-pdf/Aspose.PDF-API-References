@@ -7,7 +7,7 @@ description: "ISummaryCopilot method. Asynchronously saves the summary to a PDF 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/isummarycopilot/savesummaryasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveSummaryAsync(string, CancellationToken?) {#savesummaryasync}
 
@@ -34,7 +34,7 @@ A task representing the asynchronous operation.
 
 ---
 
-## SaveSummaryAsync(string, [SaveFormat](../../../aspose.pdf.lowcode/saveformat/), CancellationToken?) {#savesummaryasync_1}
+## SaveSummaryAsync(string, SaveFormat, CancellationToken?) {#savesummaryasync_1}
 
 Asynchronously saves the summary to a file with specified format.
 
@@ -55,7 +55,7 @@ A task representing the asynchronous operation.
 
 ### See Also
 
-* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
+* enum [SaveFormat](../../../aspose.pdf/saveformat/)
 * interface [ISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

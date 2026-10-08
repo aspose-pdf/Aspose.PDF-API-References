@@ -7,11 +7,11 @@ description: "LinkElement property. Gets StructureTextState object for current e
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/linkelement/structuretextstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LinkElement.StructureTextState property
 
-Gets [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) object for current element.
+Gets [`StructureTextState`](../../structuretextstate/) object for current element.
 
 ```csharp
 public StructureTextState StructureTextState { get; }
@@ -19,11 +19,11 @@ public StructureTextState StructureTextState { get; }
 
 ### Property Value
 
-[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) object for current element.
+[`StructureTextState`](../../structuretextstate/) object for current element.
 
 ### See Also
 
-* class [StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/)
+* class [StructureTextState](../../structuretextstate/)
 * class [LinkElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

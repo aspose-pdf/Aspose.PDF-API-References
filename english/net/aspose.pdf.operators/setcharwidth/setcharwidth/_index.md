@@ -7,7 +7,7 @@ description: "SetCharWidth constructor. Constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setcharwidth/setcharwidth/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCharWidth constructor
 

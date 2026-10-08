@@ -7,7 +7,7 @@ description: "MarkdownSaveOptions constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/markdownsaveoptions/markdownsaveoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkdownSaveOptions constructor
 

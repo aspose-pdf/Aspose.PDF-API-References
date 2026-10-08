@@ -7,7 +7,7 @@ description: "LineAnnotation property. Measure units specifed for this annotatio
 type: docs
 weight: 160
 url: "/net/aspose.pdf.annotations/lineannotation/measure/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineAnnotation.Measure property
 
@@ -19,7 +19,7 @@ public Measure Measure { get; set; }
 
 ### See Also
 
-* class [Measure](../../../aspose.pdf.annotations/measure/)
+* class [Measure](../../measure/)
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

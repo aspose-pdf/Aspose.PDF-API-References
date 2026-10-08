@@ -7,7 +7,7 @@ description: "RunCreateRequest property. Gets or sets the instructions that over
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/runcreaterequest/instructions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunCreateRequest.Instructions property
 

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.BorderCornerStyle enum. Enumerates the border corner st
 type: docs
 weight: 180
 url: "/net/aspose.pdf/bordercornerstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BorderCornerStyle enumeration
 

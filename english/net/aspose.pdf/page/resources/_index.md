@@ -7,12 +7,12 @@ description: "Page property. Gets page resources. Resources object contains coll
 type: docs
 weight: 510
 url: "/net/aspose.pdf/page/resources/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Resources property
 
 Gets page resources. Resources object contains collections of images, forms and fonts.
- `Resources`
+ [`Resources`](../resources/)
 
 ```csharp
 public Resources Resources { get; }
@@ -34,7 +34,7 @@ foreach(XImage image in resources.Images)
 
 ### See Also
 
-* class [Resources](../../../aspose.pdf/resources/)
+* class [Resources](../../resources/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

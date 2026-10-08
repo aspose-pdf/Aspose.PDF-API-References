@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute TextAlign: Justify - Aligned with b
 type: docs
 weight: 260
 url: "/net/aspose.pdf.logicalstructure/attributename/textalign_justify/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.TextAlign_Justify field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName TextAlign_Justify;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

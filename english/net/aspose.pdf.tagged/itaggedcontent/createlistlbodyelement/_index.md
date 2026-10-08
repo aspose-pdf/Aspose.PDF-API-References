@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates ListLBodyElement."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.tagged/itaggedcontent/createlistlbodyelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateListLBodyElement method
 

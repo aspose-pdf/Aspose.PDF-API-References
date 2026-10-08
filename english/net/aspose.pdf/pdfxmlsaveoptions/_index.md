@@ -8,7 +8,7 @@ type: docs
 weight: 2490
 url: "/net/aspose.pdf/pdfxmlsaveoptions/"
 keywords: "PdfXmlSaveOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfXmlSaveOptions class
 
@@ -22,7 +22,7 @@ public class PdfXmlSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfXmlSaveOptions](./pdfxmlsaveoptions/)() | The default constructor. |
+| [PdfXmlSaveOptions](pdfxmlsaveoptions/)() | The default constructor. |
 
 ## Properties
 

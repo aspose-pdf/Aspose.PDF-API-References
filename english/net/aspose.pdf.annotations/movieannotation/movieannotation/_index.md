@@ -7,9 +7,9 @@ description: "MovieAnnotation constructor. Constructor for using with Generator.
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/movieannotation/movieannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## MovieAnnotation([Document](../../../aspose.pdf/document/), string) {#constructor}
+## MovieAnnotation(Document, string) {#constructor}
 
 Constructor for using with Generator.
 
@@ -31,7 +31,7 @@ public MovieAnnotation(Document document, string movieFile)
 
 ---
 
-## MovieAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), string) {#constructor_1}
+## MovieAnnotation(Page, Rectangle, string) {#constructor_1}
 
 Creates new Sound annotation on the specified page.
 
@@ -48,7 +48,7 @@ public MovieAnnotation(Page page, Rectangle rect, string movieFile)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [MovieAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

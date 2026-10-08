@@ -7,7 +7,7 @@ description: "FileSpecification property. Gets encrypted payload."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/filespecification/encryptedpayload/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSpecification.EncryptedPayload property
 
@@ -19,7 +19,7 @@ public EncryptedPayload EncryptedPayload { get; }
 
 ### See Also
 
-* class [EncryptedPayload](../../../aspose.pdf/encryptedpayload/)
+* class [EncryptedPayload](../../encryptedpayload/)
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

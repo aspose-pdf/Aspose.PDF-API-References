@@ -7,9 +7,29 @@ description: "PdfExtractor method. Stores attachment into file."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/pdfextractor/getattachment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## GetAttachment() {#getattachment}
+## GetAttachment(string) {#getattachment}
+
+Stores attachment into file.
+
+```csharp
+public void GetAttachment(string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputPath | String | Directory path where attachment(s) will be stored. Null or empty string means attachment(s) will be placed in the application directory. |
+
+### See Also
+
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## GetAttachment() {#getattachment_1}
 
 Saves all the attachment file to streams.
 
@@ -72,27 +92,6 @@ The stream array of the attachment file in the pdf document.
  	fs.Close()
  }
 ```
-
-### See Also
-
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## GetAttachment(string) {#getattachment_1}
-
-Stores attachment into file.
-
-```csharp
-public void GetAttachment(string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputPath | String | Directory path where attachment(s) will be stored.
- Null or empty string means attachment(s) will be placed in the application directory. |
 
 ### See Also
 

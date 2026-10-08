@@ -8,7 +8,7 @@ type: docs
 weight: 1070
 url: "/net/aspose.pdf.ai/runlistqueryparameters/"
 keywords: "RunListQueryParameters, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunListQueryParameters class
 
@@ -22,7 +22,7 @@ public class RunListQueryParameters : BaseListQueryParameters, IQueryParameters
 
 | Name | Description |
 | --- | --- |
-| [RunListQueryParameters](./runlistqueryparameters/)() | The default constructor. |
+| [RunListQueryParameters](runlistqueryparameters/)() | The default constructor. |
 
 ## Properties
 
@@ -37,11 +37,12 @@ public class RunListQueryParameters : BaseListQueryParameters, IQueryParameters
 
 | Name | Description |
 | --- | --- |
-| [GetQueryParameters](./getqueryparameters/)() | Gets the query parameters for listing runs. |
+| [GetQueryParameters](../../aspose.pdf.ai/runlistqueryparameters/getqueryparameters/)() | Gets the query parameters for listing runs. |
 
 ### See Also
 
 * class [BaseListQueryParameters](../baselistqueryparameters/)
+* interface [IQueryParameters](../iqueryparameters/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
 

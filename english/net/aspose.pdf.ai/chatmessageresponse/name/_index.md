@@ -7,7 +7,7 @@ description: "ChatMessageResponse property. Gets or sets an optional name for th
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/chatmessageresponse/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChatMessageResponse.Name property
 

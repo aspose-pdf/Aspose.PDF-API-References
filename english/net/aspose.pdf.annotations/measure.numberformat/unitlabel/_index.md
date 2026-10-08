@@ -7,7 +7,7 @@ description: "NumberFormat property. A text string specifying a label for displa
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/measure.numberformat/unitlabel/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.NumberFormat.UnitLabel property
 
@@ -19,7 +19,7 @@ public string UnitLabel { get; set; }
 
 ### See Also
 
-* class [Measure.NumberFormat](../)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

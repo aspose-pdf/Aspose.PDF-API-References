@@ -7,7 +7,7 @@ description: "DiffOperation method."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.comparison/diffoperation/gethashcode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DiffOperation.GetHashCode method
 
@@ -16,10 +16,6 @@ product_version: "26.9.0"
 ```csharp
 public override int GetHashCode()
 ```
-
-### Return Value
-
-int
 
 ### See Also
 

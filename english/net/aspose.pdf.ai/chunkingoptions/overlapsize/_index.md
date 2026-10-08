@@ -7,7 +7,7 @@ description: "ChunkingOptions property. Gets or sets the number of tokens to ove
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/chunkingoptions/overlapsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChunkingOptions.OverlapSize property
 
@@ -20,7 +20,13 @@ public int OverlapSize { get; set; }
 ### Property Value
 
 The overlap size in tokens. Must be non-negative and less than
- `MaxChunkSize`. Default is `DefaultOverlapSize`.
+ [`MaxChunkSize`](../maxchunksize/). Default is [`DefaultOverlapSize`](../defaultoverlapsize/).
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentOutOfRangeException | Thrown when the value is negative. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "PdfFileInfo property. Checkes whether the source input is a valid 
 type: docs
 weight: 270
 url: "/net/aspose.pdf.facades/pdffileinfo/ispdffile/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.IsPdfFile property
 

@@ -7,7 +7,7 @@ description: "NamedDestinationCollection method. Delete named destination."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/nameddestinationcollection/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## NamedDestinationCollection.Remove method
 

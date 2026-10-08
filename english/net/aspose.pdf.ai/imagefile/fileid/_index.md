@@ -7,7 +7,7 @@ description: "ImageFile property. Gets or sets the File ID of the image in the m
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/imagefile/fileid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageFile.FileId property
 

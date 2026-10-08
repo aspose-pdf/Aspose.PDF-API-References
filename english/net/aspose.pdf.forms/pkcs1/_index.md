@@ -8,7 +8,7 @@ type: docs
 weight: 240
 url: "/net/aspose.pdf.forms/pkcs1/"
 keywords: "PKCS1, Aspose.Pdf.Forms, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PKCS1 class
 
@@ -23,10 +23,10 @@ public sealed class PKCS1 : Signature
 
 | Name | Description |
 | --- | --- |
-| [PKCS1](./pkcs1/#constructor)() | Inititalizes new instance of the [`PKCS1`](../../aspose.pdf.forms/pkcs1/) class. |
-| [PKCS1](./pkcs1/#constructor_1)(Stream) | Initializes new instance of the [`PKCS1`](../../aspose.pdf.forms/pkcs1/) class. |
-| [PKCS1](./pkcs1/#constructor_2)(Stream, string) | Inititalizes new instance of the [`PKCS1`](../../aspose.pdf.forms/pkcs1/) class. |
-| [PKCS1](./pkcs1/#constructor_3)(string, string) | Inititalizes new instance of the [`PKCS1`](../../aspose.pdf.forms/pkcs1/) class. |
+| [PKCS1](pkcs1/#constructor)(Stream) | Initializes new instance of the `PKCS1` class. |
+| [PKCS1](pkcs1/#constructor_1)() | Inititalizes new instance of the `PKCS1` class. |
+| [PKCS1](pkcs1/#constructor_2)(string, string) | Inititalizes new instance of the `PKCS1` class. |
+| [PKCS1](pkcs1/#constructor_3)(Stream, string) | Inititalizes new instance of the `PKCS1` class. |
 
 ## Properties
 

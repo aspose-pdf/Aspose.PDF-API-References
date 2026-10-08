@@ -7,7 +7,7 @@ description: "FileSpecification property. Gets or sets name of the file system."
 type: docs
 weight: 230
 url: "/net/aspose.pdf/filespecification/filesystem/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSpecification.FileSystem property
 

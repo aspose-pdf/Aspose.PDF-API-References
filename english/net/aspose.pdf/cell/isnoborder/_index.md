@@ -7,7 +7,7 @@ description: "Cell property. Gets or sets the cell have border."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/cell/isnoborder/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Cell.IsNoBorder property
 

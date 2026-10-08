@@ -7,7 +7,7 @@ description: "Form method. Imports the content of the fields from the xml file a
 type: docs
 weight: 230
 url: "/net/aspose.pdf.facades/form/importxml/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImportXml(Stream) {#importxml}
 

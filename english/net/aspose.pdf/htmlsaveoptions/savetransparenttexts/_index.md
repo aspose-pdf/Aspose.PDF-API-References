@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. Pdf can contain transparent texts that can 
 type: docs
 weight: 290
 url: "/net/aspose.pdf/htmlsaveoptions/savetransparenttexts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.SaveTransparentTexts field
 

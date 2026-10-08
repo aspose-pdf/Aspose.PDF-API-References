@@ -7,7 +7,7 @@ description: "CosPdfBoolean method. Determines that the specified object is equa
 type: docs
 weight: 50
 url: "/net/aspose.pdf.dataeditor/cospdfboolean/equals/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfBoolean.Equals method
 

@@ -7,7 +7,7 @@ description: "PdfFileEditor property. If set to true, streams are closed after o
 type: docs
 weight: 1140
 url: "/net/aspose.pdf.facades/pdffileeditor/closeconcatenatedstreams/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.CloseConcatenatedStreams property
 

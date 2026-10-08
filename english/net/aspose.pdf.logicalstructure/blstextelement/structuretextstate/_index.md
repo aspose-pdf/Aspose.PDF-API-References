@@ -7,11 +7,11 @@ description: "BLSTextElement property. Gets StructureTextState object for curren
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/blstextelement/structuretextstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BLSTextElement.StructureTextState property
 
-Gets [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) object for current element.
+Gets [`StructureTextState`](../../structuretextstate/) object for current element.
 
 ```csharp
 public StructureTextState StructureTextState { get; }
@@ -19,11 +19,11 @@ public StructureTextState StructureTextState { get; }
 
 ### Property Value
 
-[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) object for current element.
+[`StructureTextState`](../../structuretextstate/) object for current element.
 
 ### See Also
 
-* class [StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/)
+* class [StructureTextState](../../structuretextstate/)
 * class [BLSTextElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

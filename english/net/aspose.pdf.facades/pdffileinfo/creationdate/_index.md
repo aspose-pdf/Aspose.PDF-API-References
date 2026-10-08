@@ -7,7 +7,7 @@ description: "PdfFileInfo property. Gets or sets the CreationDate information of
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/pdffileinfo/creationdate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.CreationDate property
 

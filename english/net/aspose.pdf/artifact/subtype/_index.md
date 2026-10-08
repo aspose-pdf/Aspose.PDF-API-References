@@ -7,7 +7,7 @@ description: "Artifact property. Gets artifact subtype. If artifact has non-stan
 type: docs
 weight: 190
 url: "/net/aspose.pdf/artifact/subtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.Subtype property
 
@@ -19,6 +19,7 @@ public ArtifactSubtype Subtype { get; set; }
 
 ### See Also
 
+* enum [ArtifactSubtype](../../artifact.artifactsubtype/)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

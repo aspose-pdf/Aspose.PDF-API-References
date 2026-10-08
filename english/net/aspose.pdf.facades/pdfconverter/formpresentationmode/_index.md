@@ -7,7 +7,7 @@ description: "PdfConverter property. Gets or sets form presentation mode."
 type: docs
 weight: 570
 url: "/net/aspose.pdf.facades/pdfconverter/formpresentationmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfConverter.FormPresentationMode property
 

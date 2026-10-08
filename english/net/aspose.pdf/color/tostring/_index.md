@@ -7,7 +7,7 @@ description: "Color method. Converts to string."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/color/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Color.ToString method
 

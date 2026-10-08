@@ -7,7 +7,7 @@ description: "DiffOperation method."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/diffoperation/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DiffOperation.ToString method
 
@@ -16,10 +16,6 @@ product_version: "26.9.0"
 ```csharp
 public override string ToString()
 ```
-
-### Return Value
-
-string
 
 ### See Also
 

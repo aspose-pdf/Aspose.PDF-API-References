@@ -7,7 +7,7 @@ description: "StampInfo property. Gets visibility of stamp. If false then stamp 
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/stampinfo/visible/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StampInfo.Visible property
 

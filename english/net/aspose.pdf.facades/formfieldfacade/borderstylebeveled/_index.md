@@ -7,7 +7,7 @@ description: "FormFieldFacade field. Defines a beveled border style."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.facades/formfieldfacade/borderstylebeveled/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.BorderStyleBeveled field
 

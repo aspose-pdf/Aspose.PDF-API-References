@@ -8,7 +8,7 @@ type: docs
 weight: 550
 url: "/net/aspose.pdf.facades/replacetextstrategy/"
 keywords: "ReplaceTextStrategy, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ReplaceTextStrategy class
 
@@ -22,15 +22,15 @@ public sealed class ReplaceTextStrategy
 
 | Name | Description |
 | --- | --- |
-| [ReplaceTextStrategy](./replacetextstrategy/)() | The default constructor. |
+| [ReplaceTextStrategy](replacetextstrategy/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [IsRegularExpressionUsed](./isregularexpressionused/) { get; set; } | If false, string to find is a simple text. If true, string to find is regular expression. |
-| [NoCharacterBehavior](./nocharacterbehavior/) { get; set; } | Action which is performed when no approppriate font found for changed text (Throw exception / Substitute other font / Replace anyway). |
-| [ReplaceScope](./replacescope/) { get; set; } | Scope of the replacement operation (replace first occurence or replace all occurences). |
+| [IsRegularExpressionUsed](../../aspose.pdf.facades/replacetextstrategy/isregularexpressionused/) { get; set; } | If false, string to find is a simple text. If true, string to find is regular expression. |
+| [NoCharacterBehavior](../../aspose.pdf.facades/replacetextstrategy/nocharacterbehavior/) { get; set; } | Action which is performed when no approppriate font found for changed text (Throw exception / Substitute other font / Replace anyway). |
+| [ReplaceScope](../../aspose.pdf.facades/replacetextstrategy/replacescope/) { get; set; } | Scope of the replacement operation (replace first occurence or replace all occurences). |
 
 ## Other Members
 

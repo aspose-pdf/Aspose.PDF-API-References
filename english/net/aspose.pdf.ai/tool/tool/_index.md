@@ -7,11 +7,11 @@ description: "Tool constructor. Initializes a new instance of the Tool class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/tool/tool/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Tool() {#constructor}
 
-Initializes a new instance of the [`Tool`](../../../aspose.pdf.ai/tool/) class.
+Initializes a new instance of the [`Tool`](../) class.
 
 ```csharp
 public Tool()
@@ -25,30 +25,9 @@ public Tool()
 
 ---
 
-## Tool([Function](../../../aspose.pdf.ai/function/)) {#constructor_1}
+## Tool(string) {#constructor_1}
 
-Initializes a new instance of the [`Tool`](../../../aspose.pdf.ai/tool/) class with the specified function.
-
-```csharp
-public Tool(Function function)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| function | Function | The function that the model can call. |
-
-### See Also
-
-* class [Function](../../../aspose.pdf.ai/function/)
-* class [Tool](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Tool(string) {#constructor_2}
-
-Initializes a new instance of the [`Tool`](../../../aspose.pdf.ai/tool/) class with the specified tool type.
+Initializes a new instance of the [`Tool`](../) class with the specified tool type.
 
 ```csharp
 public Tool(string toolType)
@@ -60,6 +39,27 @@ public Tool(string toolType)
 
 ### See Also
 
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Tool(Function) {#constructor_2}
+
+Initializes a new instance of the [`Tool`](../) class with the specified function.
+
+```csharp
+public Tool(Function function)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| function | Function | The function that the model can call. |
+
+### See Also
+
+* class [Function](../../function/)
 * class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

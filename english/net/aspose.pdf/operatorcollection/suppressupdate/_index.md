@@ -7,7 +7,7 @@ description: "OperatorCollection method. Suppresses update contents data. The co
 type: docs
 weight: 160
 url: "/net/aspose.pdf/operatorcollection/suppressupdate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OperatorCollection.SuppressUpdate method
 

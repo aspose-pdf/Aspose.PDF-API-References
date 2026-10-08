@@ -7,7 +7,7 @@ description: "PositionSettings property. Gets or sets a horizontal alignment of 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.tagged/positionsettings/horizontalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PositionSettings.HorizontalAlignment property
 

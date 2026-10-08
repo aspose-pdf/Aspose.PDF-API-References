@@ -7,7 +7,7 @@ description: "SetGray property. Gets or sets the level of gray value."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/setgray/gray/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetGray.Gray property
 

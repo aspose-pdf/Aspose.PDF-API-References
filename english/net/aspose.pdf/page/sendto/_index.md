@@ -7,9 +7,9 @@ description: "Page method. Sends page to process with given page device."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/page/sendto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## SendTo([PageDevice](../../../aspose.pdf.devices/pagedevice/), Stream) {#sendto}
+## SendTo(PageDevice, Stream) {#sendto}
 
 Sends page to process with given page device.
 
@@ -31,7 +31,7 @@ public void SendTo(PageDevice device, Stream output)
 
 ---
 
-## SendTo([PageDevice](../../../aspose.pdf.devices/pagedevice/), string) {#sendto_1}
+## SendTo(PageDevice, string) {#sendto_1}
 
 Sends page to process with given page device.
 

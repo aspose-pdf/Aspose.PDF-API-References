@@ -7,7 +7,7 @@ description: "PdfFileEditor property. If true actions will be copied from source
 type: docs
 weight: 1160
 url: "/net/aspose.pdf.facades/pdffileeditor/keepactions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.KeepActions property
 

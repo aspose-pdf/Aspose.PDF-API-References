@@ -7,7 +7,7 @@ description: "PaperSource property. Gets or sets the name of the paper source."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.printing/papersource/sourcename/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSource.SourceName property
 

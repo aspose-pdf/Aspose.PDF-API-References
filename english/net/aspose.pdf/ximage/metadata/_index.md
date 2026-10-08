@@ -7,7 +7,7 @@ description: "XImage property. Metadata of the image."
 type: docs
 weight: 220
 url: "/net/aspose.pdf/ximage/metadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImage.Metadata property
 
@@ -19,7 +19,7 @@ public Metadata Metadata { get; }
 
 ### See Also
 
-* class [Metadata](../../../aspose.pdf/metadata/)
+* class [Metadata](../../metadata/)
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

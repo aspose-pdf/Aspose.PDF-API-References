@@ -7,7 +7,7 @@ description: "FileSaveTarget property. Gets the path to the file of current save
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/filesavetarget/path/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSaveTarget.Path property
 

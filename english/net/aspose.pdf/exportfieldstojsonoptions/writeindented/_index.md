@@ -7,7 +7,7 @@ description: "ExportFieldsToJsonOptions property. Gets or sets a value indicatin
 type: docs
 weight: 20
 url: "/net/aspose.pdf/exportfieldstojsonoptions/writeindented/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExportFieldsToJsonOptions.WriteIndented property
 

@@ -7,7 +7,7 @@ description: "Font property. Sometimes PDF fonts(usually Chinese/Japanese/Korean
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/font/decodedfontname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Font.DecodedFontName property
 
@@ -17,9 +17,9 @@ Sometimes PDF fonts(usually Chinese/Japanese/Korean fonts) could have specificic
  in non-readable form. To get readable form it's necessary to decode font's name by
  rules specifical for this font. 
  This property returns decoded font name, so use it for cases when you meet 
- with a non-readable `FontName`.
- If property `FontName` has readable form this property will be the same as 
- `FontName`, so you can use this property for any cases when you need to
+ with a non-readable [`FontName`](../fontname/).
+ If property [`FontName`](../fontname/) has readable form this property will be the same as 
+ [`FontName`](../fontname/), so you can use this property for any cases when you need to
  get font name in a readable form.
 
 ```csharp

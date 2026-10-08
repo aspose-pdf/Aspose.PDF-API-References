@@ -7,7 +7,7 @@ description: "ChatMessageResponse property. Gets or sets the role of the message
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/chatmessageresponse/role/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChatMessageResponse.Role property
 

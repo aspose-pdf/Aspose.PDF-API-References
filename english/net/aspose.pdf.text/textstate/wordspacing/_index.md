@@ -7,7 +7,7 @@ description: "TextState property. Gets or sets word spacing of the text."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.text/textstate/wordspacing/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextState.WordSpacing property
 

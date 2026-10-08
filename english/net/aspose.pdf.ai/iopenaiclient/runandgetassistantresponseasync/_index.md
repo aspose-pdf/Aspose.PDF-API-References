@@ -7,7 +7,7 @@ description: "IOpenAIClient method. Runs the assistant with the specified thread
 type: docs
 weight: 470
 url: "/net/aspose.pdf.ai/iopenaiclient/runandgetassistantresponseasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOpenAIClient.RunAndGetAssistantResponseAsync method
 
@@ -30,7 +30,7 @@ A task representing the asynchronous operation with the assistant response strin
 
 ### See Also
 
-* class [RunCreateRequest](../../../aspose.pdf.ai/runcreaterequest/)
+* class [RunCreateRequest](../../runcreaterequest/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

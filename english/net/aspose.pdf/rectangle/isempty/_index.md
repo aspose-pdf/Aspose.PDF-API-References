@@ -7,7 +7,7 @@ description: "Rectangle property. Checks if rectangle is empty."
 type: docs
 weight: 300
 url: "/net/aspose.pdf/rectangle/isempty/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.IsEmpty property
 

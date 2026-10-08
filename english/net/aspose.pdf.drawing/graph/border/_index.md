@@ -7,7 +7,7 @@ description: "Graph property. Gets or sets the border."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.drawing/graph/border/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Graph.Border property
 

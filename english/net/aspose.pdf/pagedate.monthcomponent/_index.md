@@ -8,7 +8,7 @@ type: docs
 weight: 2150
 url: "/net/aspose.pdf/pagedate.monthcomponent/"
 keywords: "PageDate.MonthComponent, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageDate.MonthComponent class
 
@@ -22,7 +22,7 @@ public class MonthComponent : DateComponent
 
 | Name | Description |
 | --- | --- |
-| [MonthComponent](./monthcomponent/)() | The default constructor. |
+| [MonthComponent](monthcomponent/)() | The default constructor. |
 
 ## Properties
 
@@ -34,7 +34,7 @@ public class MonthComponent : DateComponent
 
 | Name | Description |
 | --- | --- |
-| [GetFormat](./getformat/)() | Gets the format string for the month component. |
+| [GetFormat](../../aspose.pdf/pagedate.monthcomponent/getformat/)() | Gets the format string for the month component. |
 | [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Returns a string composed of a specified character repeated based on the format. |
 
 ### See Also

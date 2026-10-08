@@ -8,7 +8,7 @@ type: docs
 weight: 740
 url: "/net/aspose.pdf/encryptedpayload/"
 keywords: "EncryptedPayload, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EncryptedPayload class
 
@@ -22,15 +22,15 @@ public sealed class EncryptedPayload
 
 | Name | Description |
 | --- | --- |
-| [EncryptedPayload](./encryptedpayload/)(FileSpecification) | Initialize Encrypted payload instance. |
+| [EncryptedPayload](encryptedpayload/)(FileSpecification) | Initialize Encrypted payload instance. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Subtype](./subtype/) { get; } | Gets subtype. |
-| [Type](./type/) { get; } | Gets type. |
-| [Version](./version/) { get; } | Gets version number. |
+| [Subtype](../../aspose.pdf/encryptedpayload/subtype/) { get; } | Gets subtype. |
+| [Type](../../aspose.pdf/encryptedpayload/type/) { get; } | Gets type. |
+| [Version](../../aspose.pdf/encryptedpayload/version/) { get; } | Gets version number. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "Bookmark property. Gets or sets the file (path) which is required 
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/bookmark/remotefile/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Bookmark.RemoteFile property
 

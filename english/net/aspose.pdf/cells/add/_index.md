@@ -7,7 +7,7 @@ description: "Cells method. Add cell to collection."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/cells/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Add() {#add}
 
@@ -23,28 +23,34 @@ The new cell
 
 ### See Also
 
-* class [Cell](../../../aspose.pdf/cell/)
+* class [Cell](../../cell/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add([Cell](../../../aspose.pdf/cell/)) {#add_1}
+## Add(string, TextState) {#add_1}
 
 Add cell to collection.
 
 ```csharp
-public void Add(Cell cell)
+public Cell Add(string text, TextState ts)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cell | Cell | The cell to collection. |
+| text | String | The text for cell. |
+| ts | TextState | The text state. |
+
+### Return Value
+
+The new cell
 
 ### See Also
 
-* class [Cell](../../../aspose.pdf/cell/)
+* class [Cell](../../cell/)
+* class [TextState](../../../aspose.pdf.text/textstate/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -69,14 +75,14 @@ The new cell
 
 ### See Also
 
-* class [Cell](../../../aspose.pdf/cell/)
+* class [Cell](../../cell/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add([TextFragment](../../../aspose.pdf.text/textfragment/)) {#add_3}
+## Add(TextFragment) {#add_3}
 
 Add cell to collection.
 
@@ -94,7 +100,7 @@ The new cell
 
 ### See Also
 
-* class [Cell](../../../aspose.pdf/cell/)
+* class [Cell](../../cell/)
 * class [TextFragment](../../../aspose.pdf.text/textfragment/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -102,27 +108,21 @@ The new cell
 
 ---
 
-## Add(string, [TextState](../../../aspose.pdf.text/textstate/)) {#add_4}
+## Add(Cell) {#add_4}
 
 Add cell to collection.
 
 ```csharp
-public Cell Add(string text, TextState ts)
+public void Add(Cell cell)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | String | The text for cell. |
-| ts | TextState | The text state. |
-
-### Return Value
-
-The new cell
+| cell | Cell | The cell to collection. |
 
 ### See Also
 
-* class [Cell](../../../aspose.pdf/cell/)
-* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Cell](../../cell/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

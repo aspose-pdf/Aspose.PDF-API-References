@@ -7,7 +7,7 @@ description: "StructureTypeStandard method. Returns a string that represents the
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.ToString method
 

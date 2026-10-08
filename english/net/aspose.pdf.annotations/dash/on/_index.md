@@ -7,7 +7,7 @@ description: "Dash property. Gets or sets length of first dash."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/dash/on/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Dash.On property
 

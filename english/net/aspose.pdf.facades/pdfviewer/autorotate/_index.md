@@ -7,7 +7,7 @@ description: "PdfViewer property. Gets or sets a bool value that indicates wheth
 type: docs
 weight: 470
 url: "/net/aspose.pdf.facades/pdfviewer/autorotate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.AutoRotate property
 

@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Figure) An item of graphical content
 type: docs
 weight: 510
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/figure/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.Figure field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard Figure;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute ListNumbering: LowerAlpha - Lowerca
 type: docs
 weight: 600
 url: "/net/aspose.pdf.logicalstructure/attributename/listnumbering_loweralpha/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.ListNumbering_LowerAlpha field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName ListNumbering_LowerAlpha;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

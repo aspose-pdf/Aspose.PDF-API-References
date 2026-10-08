@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Facades.FontStyle enum. Enumerates 14 types of font."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/fontstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontStyle enumeration
 

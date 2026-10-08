@@ -7,7 +7,7 @@ description: "Annotation property. Gets full qualified name of the annotation."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.annotations/annotation/fullname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.FullName property
 

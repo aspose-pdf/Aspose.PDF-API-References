@@ -8,7 +8,7 @@ type: docs
 weight: 430
 url: "/net/aspose.pdf.operators/movetonextline/"
 keywords: "MoveToNextLine, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MoveToNextLine class
 
@@ -22,7 +22,7 @@ public class MoveToNextLine : TextPlaceOperator
 
 | Name | Description |
 | --- | --- |
-| [MoveToNextLine](./movetonextline/)() | Initializes operator. |
+| [MoveToNextLine](movetonextline/)() | Initializes operator. |
 
 ## Properties
 
@@ -34,9 +34,8 @@ public class MoveToNextLine : TextPlaceOperator
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Returns text of the operator. |
+| override [Accept](../../aspose.pdf.operators/movetonextline/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/movetonextline/tostring/)() | Returns text of the operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also

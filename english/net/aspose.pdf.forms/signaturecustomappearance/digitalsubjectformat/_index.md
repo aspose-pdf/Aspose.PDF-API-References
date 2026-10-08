@@ -7,7 +7,7 @@ description: "SignatureCustomAppearance property. Gets/sets format for order of 
 type: docs
 weight: 150
 url: "/net/aspose.pdf.forms/signaturecustomappearance/digitalsubjectformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureCustomAppearance.DigitalSubjectFormat property
 
@@ -25,7 +25,7 @@ public SubjectNameElements[] DigitalSubjectFormat { get; set; }
 
 ### See Also
 
-* enum [SubjectNameElements](../../../aspose.pdf.forms/subjectnameelements/)
+* enum [SubjectNameElements](../../subjectnameelements/)
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

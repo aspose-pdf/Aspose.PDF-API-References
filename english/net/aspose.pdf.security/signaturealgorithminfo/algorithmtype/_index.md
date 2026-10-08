@@ -7,7 +7,7 @@ description: "SignatureAlgorithmInfo field. Gets the type of the signature algor
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security/signaturealgorithminfo/algorithmtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureAlgorithmInfo.AlgorithmType field
 
@@ -19,7 +19,7 @@ public readonly SignatureAlgorithmType AlgorithmType;
 
 ### See Also
 
-* enum [SignatureAlgorithmType](../../../aspose.pdf.security/signaturealgorithmtype/)
+* enum [SignatureAlgorithmType](../../signaturealgorithmtype/)
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)

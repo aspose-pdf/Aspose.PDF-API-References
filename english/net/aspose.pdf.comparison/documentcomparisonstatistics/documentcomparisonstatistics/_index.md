@@ -7,7 +7,7 @@ description: "DocumentComparisonStatistics constructor. The default constructor.
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/documentcomparisonstatistics/documentcomparisonstatistics/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentComparisonStatistics constructor
 

@@ -7,7 +7,7 @@ description: "NamedDestinationCollection property. Count of named destinations."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/nameddestinationcollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## NamedDestinationCollection.Count property
 

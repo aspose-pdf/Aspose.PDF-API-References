@@ -7,7 +7,7 @@ description: "ImagePlacement property. Gets resolution of the Image."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/imageplacement/resolution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagePlacement.Resolution property
 

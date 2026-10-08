@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Optimization.ImageEncoding enum. Image encoding types."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.optimization/imageencoding/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageEncoding enumeration
 

@@ -7,7 +7,7 @@ description: "FormFieldFacade field. Defines a dashed border style."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/formfieldfacade/borderstyledashed/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.BorderStyleDashed field
 

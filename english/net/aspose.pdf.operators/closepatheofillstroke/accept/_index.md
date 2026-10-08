@@ -7,7 +7,7 @@ description: "ClosePathEOFillStroke method. Accepts visitor object to process op
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/closepatheofillstroke/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ClosePathEOFillStroke.Accept method
 

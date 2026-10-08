@@ -7,7 +7,7 @@ description: "DocSaveOptions property. This parameter is used for grouping text 
 type: docs
 weight: 40
 url: "/net/aspose.pdf/docsaveoptions/maxdistancebetweentextlines/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocSaveOptions.MaxDistanceBetweenTextLines property
 

@@ -7,21 +7,23 @@ description: "TextSearchOptions property. Gets or sets rectangle that bounds the
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/textsearchoptions/rectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSearchOptions.Rectangle property
 
 Gets or sets rectangle that bounds the searched text.
 
-The property may be used in case it is required to delimit text extraction or text replace region.
-
 ```csharp
 public Rectangle Rectangle { get; set; }
 ```
 
+## Remarks
+
+The property may be used in case it is required to delimit text extraction or text replace region.
+
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

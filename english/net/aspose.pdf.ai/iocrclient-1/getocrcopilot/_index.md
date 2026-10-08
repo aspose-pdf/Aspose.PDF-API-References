@@ -7,11 +7,11 @@ description: "IOcrClient method. Gets an instance of IOcrCopilot with the specif
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/iocrclient-1/getocrcopilot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOcrClient<TOptions>.GetOcrCopilot method
 
-Gets an instance of [`IOcrCopilot`](../../../aspose.pdf.ai/iocrcopilot/) with the specified options.
+Gets an instance of [`IOcrCopilot`](../../iocrcopilot/) with the specified options.
 
 ```csharp
 public IOcrCopilot GetOcrCopilot(IOcrCopilotOptions<TOptions> options)
@@ -23,12 +23,13 @@ public IOcrCopilot GetOcrCopilot(IOcrCopilotOptions<TOptions> options)
 
 ### Return Value
 
-An instance of [`IOcrCopilot`](../../../aspose.pdf.ai/iocrcopilot/).
+An instance of [`IOcrCopilot`](../../iocrcopilot/).
 
 ### See Also
 
-* interface [IOcrCopilot](../../../aspose.pdf.ai/iocrcopilot/)
-* interface [IOcrClient<TOptions>](../)
+* interface [IOcrCopilot](../../iocrcopilot/)
+* interface [IOcrCopilotOptions&lt;TOptions&gt;](../../iocrcopilotoptions-1/)
+* interface [IOcrClient&lt;TOptions&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

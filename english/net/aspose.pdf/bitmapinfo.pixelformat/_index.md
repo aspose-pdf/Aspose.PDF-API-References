@@ -7,7 +7,7 @@ description: "Aspose.Pdf.BitmapInfo.PixelFormat enum. Bitmap pixel format."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/bitmapinfo.pixelformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BitmapInfo.PixelFormat enumeration
 

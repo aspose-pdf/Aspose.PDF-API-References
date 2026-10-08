@@ -7,7 +7,7 @@ description: "FormEditor method. Remove field from the form."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/formeditor/removefield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.RemoveField method
 

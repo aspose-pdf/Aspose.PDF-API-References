@@ -7,7 +7,7 @@ description: "FileSpecification method. Gets application-specific parameter."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/filespecification/getvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSpecification.GetValue method
 

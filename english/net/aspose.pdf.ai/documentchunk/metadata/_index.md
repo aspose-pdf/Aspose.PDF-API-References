@@ -7,7 +7,7 @@ description: "DocumentChunk property. Gets the metadata associated with this chu
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/documentchunk/metadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentChunk.Metadata property
 

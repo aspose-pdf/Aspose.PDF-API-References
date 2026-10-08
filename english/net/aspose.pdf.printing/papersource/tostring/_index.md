@@ -7,7 +7,7 @@ description: "PaperSource method. Provides some interesting information about th
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/papersource/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSource.ToString method
 

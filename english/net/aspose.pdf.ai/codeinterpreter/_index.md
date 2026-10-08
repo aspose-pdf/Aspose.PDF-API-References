@@ -8,7 +8,7 @@ type: docs
 weight: 200
 url: "/net/aspose.pdf.ai/codeinterpreter/"
 keywords: "CodeInterpreter, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CodeInterpreter class
 
@@ -22,13 +22,13 @@ public class CodeInterpreter
 
 | Name | Description |
 | --- | --- |
-| [CodeInterpreter](./codeinterpreter/)() | The default constructor. |
+| [CodeInterpreter](codeinterpreter/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FileIds](./fileids/) { get; set; } | Gets or sets a list of file IDs made available to the code_interpreter tool. There can be a maximum of 20 files associated with the tool. |
+| [FileIds](../../aspose.pdf.ai/codeinterpreter/fileids/) { get; set; } | Gets or sets a list of file IDs made available to the code_interpreter tool. There can be a maximum of 20 files associated with the tool. |
 
 ### See Also
 

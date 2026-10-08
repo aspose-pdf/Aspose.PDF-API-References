@@ -7,7 +7,7 @@ description: "RenditionAction property. The operation to perform when the action
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/renditionaction/renditionoperation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenditionAction.RenditionOperation property
 
@@ -19,7 +19,7 @@ public RenditionOperation RenditionOperation { get; set; }
 
 ### See Also
 
-* enum [RenditionOperation](../../../aspose.pdf.annotations/renditionoperation/)
+* enum [RenditionOperation](../../renditionoperation/)
 * class [RenditionAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

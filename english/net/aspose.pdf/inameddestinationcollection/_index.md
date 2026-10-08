@@ -7,7 +7,7 @@ description: "Aspose.Pdf.INamedDestinationCollection interface. Collection of Na
 type: docs
 weight: 1400
 url: "/net/aspose.pdf/inameddestinationcollection/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## INamedDestinationCollection interface
 
@@ -21,16 +21,16 @@ public interface INamedDestinationCollection
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Returns count of the destinations. |
-| [Item](./item/) { get; set; } | Gets or sets destination by its name. |
-| [Names](./names/) { get; } | Gets array of names of the destinations. |
+| [Count](../../aspose.pdf/inameddestinationcollection/count/) { get; } | Returns count of the destinations. |
+| [Item](../../aspose.pdf/inameddestinationcollection/item/) { get; set; } | Gets or sets destination by its name. |
+| [Names](../../aspose.pdf/inameddestinationcollection/names/) { get; } | Gets array of names of the destinations. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(string, IAppointment) | Adds new named destination. |
-| [Remove](./remove/)(string) | Removes destination by its name. |
+| [Add](../../aspose.pdf/inameddestinationcollection/add/)(string, IAppointment) | Adds new named destination. |
+| [Remove](../../aspose.pdf/inameddestinationcollection/remove/)(string) | Removes destination by its name. |
 
 ### See Also
 

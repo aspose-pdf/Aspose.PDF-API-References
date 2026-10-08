@@ -7,11 +7,11 @@ description: "PDF3DStream constructor. Initializes a new instance of the PDF3DSt
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdf3dstream/pdf3dstream/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DStream constructor
 
-Initializes a new instance of the [`PDF3DStream`](../../../aspose.pdf.annotations/pdf3dstream/) class.
+Initializes a new instance of the [`PDF3DStream`](../) class.
 
 ```csharp
 public PDF3DStream(Document doc, PDF3DArtwork pdf3DArtwork)
@@ -25,7 +25,7 @@ public PDF3DStream(Document doc, PDF3DArtwork pdf3DArtwork)
 ### See Also
 
 * class [Document](../../../aspose.pdf/document/)
-* class [PDF3DArtwork](../../../aspose.pdf.annotations/pdf3dartwork/)
+* class [PDF3DArtwork](../../pdf3dartwork/)
 * class [PDF3DStream](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

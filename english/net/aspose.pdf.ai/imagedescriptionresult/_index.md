@@ -8,7 +8,7 @@ type: docs
 weight: 670
 url: "/net/aspose.pdf.ai/imagedescriptionresult/"
 keywords: "ImageDescriptionResult, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageDescriptionResult class
 
@@ -22,17 +22,17 @@ public class ImageDescriptionResult
 
 | Name | Description |
 | --- | --- |
-| [ImageDescriptionResult](./imagedescriptionresult/)() | The default constructor. |
+| [ImageDescriptionResult](imagedescriptionresult/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FilePath](./filepath/) { get; set; } | Gets or sets the file name. |
-| [ImageDescriptions](./imagedescriptions/) { get; } | Gets or sets the list of image descriptions. |
-| [IsPdfDocument](./ispdfdocument/) { get; } | Gets a value indicating whether the ImageDescriptionResult contains a PDF document. |
-| [IsPdfDocumentPath](./ispdfdocumentpath/) { get; } | Gets a value indicating whether the ImageDescriptionResult contains a PDF document path. |
-| [PdfDocument](./pdfdocument/) { get; set; } | Gets or sets the PDF document. |
+| [FilePath](../../aspose.pdf.ai/imagedescriptionresult/filepath/) { get; set; } | Gets or sets the file name. |
+| [ImageDescriptions](../../aspose.pdf.ai/imagedescriptionresult/imagedescriptions/) { get; } | Gets or sets the list of image descriptions. |
+| [IsPdfDocument](../../aspose.pdf.ai/imagedescriptionresult/ispdfdocument/) { get; } | Gets a value indicating whether the ImageDescriptionResult contains a PDF document. |
+| [IsPdfDocumentPath](../../aspose.pdf.ai/imagedescriptionresult/ispdfdocumentpath/) { get; } | Gets a value indicating whether the ImageDescriptionResult contains a PDF document path. |
+| [PdfDocument](../../aspose.pdf.ai/imagedescriptionresult/pdfdocument/) { get; set; } | Gets or sets the PDF document. |
 
 ### See Also
 

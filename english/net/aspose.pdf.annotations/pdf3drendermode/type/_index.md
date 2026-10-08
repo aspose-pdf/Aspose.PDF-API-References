@@ -7,7 +7,7 @@ description: "PDF3DRenderMode property. Gets the type."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/pdf3drendermode/type/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DRenderMode.Type property
 
@@ -23,7 +23,7 @@ The type.
 
 ### See Also
 
-* enum [RenderModeType](../../../aspose.pdf.annotations/rendermodetype/)
+* enum [RenderModeType](../../rendermodetype/)
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

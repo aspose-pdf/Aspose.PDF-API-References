@@ -7,7 +7,7 @@ description: "Value property. Gets a prefix string that shall be concatenated wi
 type: docs
 weight: 10
 url: "/net/aspose.pdf/collectionitem.value-1/prefix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionItem.Value<T>.Prefix property
 
@@ -21,7 +21,7 @@ public string Prefix { get; }
 
 ### See Also
 
-* class [CollectionItem.Value<T>](../)
+* class [Value&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

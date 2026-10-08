@@ -8,11 +8,11 @@ type: docs
 weight: 860
 url: "/net/aspose.pdf.lowcode/splitoptions/"
 keywords: "SplitOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SplitOptions class
 
-Represents Split options for [`Splitter`](../../aspose.pdf.lowcode/splitter/) plugin.
+Represents Split options for [`Splitter`](../splitter/) plugin.
 
 ```csharp
 public sealed class SplitOptions : OrganizerBaseOptions
@@ -22,7 +22,7 @@ public sealed class SplitOptions : OrganizerBaseOptions
 
 | Name | Description |
 | --- | --- |
-| [SplitOptions](./splitoptions/)() | The default constructor. |
+| [SplitOptions](splitoptions/)() | The default constructor. |
 
 ## Properties
 

@@ -7,7 +7,7 @@ description: "PageCollection property. Gets value indicating of collection is re
 type: docs
 weight: 300
 url: "/net/aspose.pdf/pagecollection/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollection.IsReadOnly property
 

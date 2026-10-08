@@ -7,7 +7,7 @@ description: "ParagraphAbsorberOptions property. Gets or sets the maximum length
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/paragraphabsorberoptions/sectionunbreakingverticaloverride/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ParagraphAbsorberOptions.SectionUnbreakingVerticalOverride property
 

@@ -7,7 +7,7 @@ description: "Form property. Gets list of all fields in lowest level of hierarhi
 type: docs
 weight: 370
 url: "/net/aspose.pdf.forms/form/fields/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.Fields property
 
@@ -19,7 +19,7 @@ public Field[] Fields { get; }
 
 ### See Also
 
-* class [Field](../../../aspose.pdf.forms/field/)
+* class [Field](../../field/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

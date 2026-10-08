@@ -7,11 +7,11 @@ description: "Line property. Gets or sets a PositionArray object that indicates 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.drawing/line/positionarray/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Line.PositionArray property
 
-Gets or sets a `PositionArray` object that indicates the position array.The array is 
+Gets or sets a [`PositionArray`](../positionarray/) object that indicates the position array.The array is 
  composed by coordinates of each control point of the line. 
  directly.
 

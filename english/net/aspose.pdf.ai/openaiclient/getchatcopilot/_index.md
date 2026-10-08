@@ -7,11 +7,11 @@ description: "OpenAIClient method. Gets an instance of IChatCopilot with the spe
 type: docs
 weight: 190
 url: "/net/aspose.pdf.ai/openaiclient/getchatcopilot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIClient.GetChatCopilot method
 
-Gets an instance of [`IChatCopilot`](../../../aspose.pdf.ai/ichatcopilot/) with the specified options.
+Gets an instance of [`IChatCopilot`](../../ichatcopilot/) with the specified options.
 
 ```csharp
 public IChatCopilot GetChatCopilot(IChatCopilotOptions<OpenAIChatCopilotOptions> options)
@@ -23,11 +23,13 @@ public IChatCopilot GetChatCopilot(IChatCopilotOptions<OpenAIChatCopilotOptions>
 
 ### Return Value
 
-An instance of [`IChatCopilot`](../../../aspose.pdf.ai/ichatcopilot/).
+An instance of [`IChatCopilot`](../../ichatcopilot/).
 
 ### See Also
 
-* interface [IChatCopilot](../../../aspose.pdf.ai/ichatcopilot/)
+* interface [IChatCopilot](../../ichatcopilot/)
+* interface [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
+* class [OpenAIChatCopilotOptions](../../openaichatcopilotoptions/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

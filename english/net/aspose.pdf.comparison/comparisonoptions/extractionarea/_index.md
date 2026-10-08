@@ -7,12 +7,12 @@ description: "ComparisonOptions property. Get and set the rectangular area in wh
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/comparisonoptions/extractionarea/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ComparisonOptions.ExtractionArea property
 
 Get and set the rectangular area in which the text of pages will be compared.
- This option can't be setted along with `ExcludeTables`, `ExcludeAreas1` and `ExcludeAreas2` options.
+ This option can't be setted along with [`ExcludeTables`](../excludetables/), [`ExcludeAreas1`](../excludeareas1/) and [`ExcludeAreas2`](../excludeareas2/) options.
 
 ```csharp
 public Rectangle ExtractionArea { get; set; }
@@ -20,7 +20,7 @@ public Rectangle ExtractionArea { get; set; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ComparisonOptions](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

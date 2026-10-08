@@ -7,7 +7,7 @@ description: "FormJsonImportSource property. Gets the data source that contains 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/formjsonimportsource/pdfsource/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormJsonImportSource.PdfSource property
 
@@ -19,7 +19,7 @@ public IDataSource PdfSource { get; }
 
 ### See Also
 
-* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
+* interface [IDataSource](../../idatasource/)
 * class [FormJsonImportSource](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

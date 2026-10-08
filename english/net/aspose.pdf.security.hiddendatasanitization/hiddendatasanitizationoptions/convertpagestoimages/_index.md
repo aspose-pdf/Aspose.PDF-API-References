@@ -7,13 +7,13 @@ description: "HiddenDataSanitizationOptions property. Gets or sets the option to
 type: docs
 weight: 40
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/convertpagestoimages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HiddenDataSanitizationOptions.ConvertPagesToImages property
 
 Gets or sets the option to convert pages to images.
  If this option is enabled, the ImageCompressionOptions option will be ignored.
- The option must be enabled manually when using the `All` method if it is required.
+ The option must be enabled manually when using the [`All`](../all/) method if it is required.
  The conversion of pages to images will occur after clearing the main hidden data, which is controlled by other options.
 
 ```csharp

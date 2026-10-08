@@ -7,7 +7,7 @@ description: "Page property. Gets of set page display duration. This is time in 
 type: docs
 weight: 470
 url: "/net/aspose.pdf/page/duration/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Duration property
 

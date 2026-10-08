@@ -7,7 +7,7 @@ description: "FontSourceCollection method. Clears the font source collection."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/fontsourcecollection/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontSourceCollection.Clear method
 

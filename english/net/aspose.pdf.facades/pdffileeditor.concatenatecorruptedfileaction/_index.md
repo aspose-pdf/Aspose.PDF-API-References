@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Facades.PdfFileEditor.ConcatenateCorruptedFileAction en
 type: docs
 weight: 350
 url: "/net/aspose.pdf.facades/pdffileeditor.concatenatecorruptedfileaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ConcatenateCorruptedFileAction enumeration
 
@@ -22,8 +22,7 @@ public enum ConcatenateCorruptedFileAction
 | Name | Value | Description |
 | --- | --- | --- |
 | StopWithError | `0` | If corrupted file was met, then stop concatentation process and return error. |
-| ConcatenateIgnoringCorrupted | `1` | If corrupted file was met, then don't stop concatenation and don't process corrupted file.
- List of corrupted files is accessible in Failures property. |
+| ConcatenateIgnoringCorrupted | `1` | If corrupted file was met, then don't stop concatenation and don't process corrupted file. List of corrupted files is accessible in Failures property. |
 | ConcatenateIgnoringCorruptedObjects | `2` | When corrupted object is met in source document, process will not stopped and corrupted object only is ignored. |
 
 ### See Also

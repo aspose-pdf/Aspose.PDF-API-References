@@ -7,7 +7,7 @@ description: "PolyAnnotation method. Updates the points in Vertices, according t
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/polyannotation/changeafterresize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PolyAnnotation.ChangeAfterResize method
 

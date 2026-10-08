@@ -7,7 +7,7 @@ description: "MarginPartStyle property. Represents margin in points. Must be num
 type: docs
 weight: 40
 url: "/net/aspose.pdf/saveoptions.marginpartstyle/valueinpoints/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.MarginPartStyle.ValueInPoints property
 
@@ -19,7 +19,7 @@ public int ValueInPoints { get; set; }
 
 ### See Also
 
-* class [SaveOptions.MarginPartStyle](../)
+* class [MarginPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

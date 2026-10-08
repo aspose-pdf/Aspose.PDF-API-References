@@ -7,7 +7,7 @@ description: "FontColor property. Blue component of color."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/fontcolor/blue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontColor.Blue property
 

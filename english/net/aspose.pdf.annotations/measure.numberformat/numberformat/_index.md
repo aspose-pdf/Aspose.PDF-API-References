@@ -1,5 +1,5 @@
 ---
-title: "Measure.NumberFormat.Measure.NumberFormat"
+title: "Measure.NumberFormat.NumberFormat"
 linktitle: "Measure.NumberFormat"
 articleTitle: "Measure.NumberFormat"
 second_title: "Aspose.PDF for .NET API Reference"
@@ -7,7 +7,7 @@ description: "NumberFormat constructor. Constructor for NumberFormat class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/measure.numberformat/numberformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## NumberFormat constructor
 
@@ -23,8 +23,8 @@ public NumberFormat(Measure measure)
 
 ### See Also
 
-* class [Measure](../../../aspose.pdf.annotations/measure/)
-* class [Measure.NumberFormat](../)
+* class [Measure](../../measure/)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

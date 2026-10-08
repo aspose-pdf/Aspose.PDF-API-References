@@ -7,7 +7,7 @@ description: "Annotation property. Gets annotation characteristics."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.annotations/annotation/characteristics/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.Characteristics property
 
@@ -19,7 +19,7 @@ public Characteristics Characteristics { get; }
 
 ### See Also
 
-* class [Characteristics](../../../aspose.pdf.annotations/characteristics/)
+* class [Characteristics](../../characteristics/)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "FormFieldOptions property. Gets/sets the value to determine proper
 type: docs
 weight: 70
 url: "/net/aspose.pdf.lowcode/formfieldoptions/texthorizontalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldOptions.TextHorizontalAlignment property
 

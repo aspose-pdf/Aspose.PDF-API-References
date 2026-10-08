@@ -7,7 +7,7 @@ description: "XmpField property. Gets xml:lang qualifier."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/xmpfield/lang/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpField.Lang property
 
@@ -19,7 +19,7 @@ public static XmpField Lang { get; }
 
 ### See Also
 
-* class [XmpField](../../../aspose.pdf/xmpfield/)
+* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "SoundSampleData property. Gets or sets the number of sound channel
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/soundsampledata/numberofsoundchannels/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SoundSampleData.NumberOfSoundChannels property
 

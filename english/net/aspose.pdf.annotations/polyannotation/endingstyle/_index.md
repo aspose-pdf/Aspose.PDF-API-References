@@ -7,7 +7,7 @@ description: "PolyAnnotation property. Gets or sets the style of second line end
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/polyannotation/endingstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PolyAnnotation.EndingStyle property
 
@@ -19,7 +19,7 @@ public LineEnding EndingStyle { get; set; }
 
 ### See Also
 
-* enum [LineEnding](../../../aspose.pdf.annotations/lineending/)
+* enum [LineEnding](../../lineending/)
 * class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "XmpValue method. Returns XMP value as named value collection."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/xmpvalue/tonamedvalues/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpValue.ToNamedValues method
 

@@ -7,9 +7,9 @@ description: "Signature method. Try to verify the document regarding this signat
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/signature/tryverify/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## TryVerify(out [VerificationResult](../../../aspose.pdf.security/verificationresult/)) {#tryverify}
+## TryVerify(out VerificationResult) {#tryverify}
 
 Try to verify the document regarding this signature and return true if document is valid 
  or otherwise false.
@@ -35,7 +35,7 @@ Returns true if the signature was processed correctly. Returns false if an error
 
 ---
 
-## TryVerify([ValidationOptions](../../../aspose.pdf.security/validationoptions/), out [ValidationResult](../../../aspose.pdf.security/validationresult/), out [VerificationResult](../../../aspose.pdf.security/verificationresult/)) {#tryverify_1}
+## TryVerify(ValidationOptions, out ValidationResult, out VerificationResult) {#tryverify_1}
 
 Try to verify the document regarding this signature and return true if document is valid 
  or otherwise false.
@@ -66,7 +66,7 @@ Returns true if the signature was processed correctly. Returns false if an error
 
 ---
 
-## TryVerify(X509Certificate2, [ValidationOptions](../../../aspose.pdf.security/validationoptions/), out [ValidationResult](../../../aspose.pdf.security/validationresult/), out [VerificationResult](../../../aspose.pdf.security/verificationresult/)) {#tryverify_2}
+## TryVerify(X509Certificate2, ValidationOptions, out ValidationResult, out VerificationResult) {#tryverify_2}
 
 Try to verify the document regarding this signature and return true if document is valid 
  or otherwise false.

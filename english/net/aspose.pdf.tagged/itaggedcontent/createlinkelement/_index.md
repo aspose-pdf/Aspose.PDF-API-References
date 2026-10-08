@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates LinkElement."
 type: docs
 weight: 340
 url: "/net/aspose.pdf.tagged/itaggedcontent/createlinkelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateLinkElement method
 

@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Creates a link to custom actions in PDF d
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createcustomactionlink/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreateCustomActionLink method
 
@@ -37,8 +37,6 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [Color](../../../aspose.pdf/color/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "FileParams property. The size of the uncompressed embedded file, i
 type: docs
 weight: 20
 url: "/net/aspose.pdf/fileparams/size/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileParams.Size property
 

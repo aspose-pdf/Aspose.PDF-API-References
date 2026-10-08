@@ -7,7 +7,7 @@ description: "TextState property. Sets font style of the text."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.text/textstate/fontstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextState.FontStyle property
 
@@ -19,7 +19,7 @@ public virtual FontStyles FontStyle { get; set; }
 
 ### See Also
 
-* enum [FontStyles](../../../aspose.pdf.text/fontstyles/)
+* enum [FontStyles](../../fontstyles/)
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

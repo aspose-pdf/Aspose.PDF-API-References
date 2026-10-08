@@ -8,7 +8,7 @@ type: docs
 weight: 1230
 url: "/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/"
 keywords: "HtmlSaveOptions.CssUrlRequestInfo, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.CssUrlRequestInfo class
 
@@ -24,13 +24,13 @@ public class CssUrlRequestInfo
 
 | Name | Description |
 | --- | --- |
-| [CssUrlRequestInfo](./cssurlrequestinfo/)() | The default constructor. |
+| [CssUrlRequestInfo](cssurlrequestinfo/)() | The default constructor. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [CustomProcessingCancelled](./customprocessingcancelled/) | Should be set by custom code if it cannot or should not define URL that will be used in generated HTML for referencing of that CSS. If it's 'true', then CSS file will be saved in standard way in standard place. |
+| [CustomProcessingCancelled](../../aspose.pdf/htmlsaveoptions.cssurlrequestinfo/customprocessingcancelled/) | Should be set by custom code if it cannot or should not define URL that will be used in generated HTML for referencing of that CSS. If it's 'true', then CSS file will be saved in standard way in standard place. |
 
 ### See Also
 

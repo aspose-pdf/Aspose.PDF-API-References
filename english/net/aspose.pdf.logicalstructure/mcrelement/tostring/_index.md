@@ -7,7 +7,7 @@ description: "MCRElement method. Returns a string that represents the current ob
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/mcrelement/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MCRElement.ToString method
 

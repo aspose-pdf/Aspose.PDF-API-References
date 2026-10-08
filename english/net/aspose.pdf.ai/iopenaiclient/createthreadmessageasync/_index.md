@@ -7,7 +7,7 @@ description: "IOpenAIClient method. Creates a new message within a thread asynch
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/iopenaiclient/createthreadmessageasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOpenAIClient.CreateThreadMessageAsync method
 
@@ -32,11 +32,12 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the thread Id is null or empty. |
 
 ### See Also
 
-* class [ThreadMessageCreateRequest](../../../aspose.pdf.ai/threadmessagecreaterequest/)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

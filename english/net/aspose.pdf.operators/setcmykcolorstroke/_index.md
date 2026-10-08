@@ -8,7 +8,7 @@ type: docs
 weight: 510
 url: "/net/aspose.pdf.operators/setcmykcolorstroke/"
 keywords: "SetCMYKColorStroke, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCMYKColorStroke class
 
@@ -22,27 +22,26 @@ public class SetCMYKColorStroke : SetColorOperator
 
 | Name | Description |
 | --- | --- |
-| [SetCMYKColorStroke](./setcmykcolorstroke/)(double, double, double, double) | Initializes operator. |
+| [SetCMYKColorStroke](setcmykcolorstroke/)(double, double, double, double) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [C](./c/) { get; set; } | Gets or sets the cyan component. |
+| [C](../../aspose.pdf.operators/setcmykcolorstroke/c/) { get; set; } | Gets or sets the cyan component. |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [K](./k/) { get; set; } | Gets or sets the black component. |
-| [M](./m/) { get; set; } | Gets or sets the magenta component. |
-| [Y](./y/) { get; set; } | Gets or sets the yellow component. |
+| [K](../../aspose.pdf.operators/setcmykcolorstroke/k/) { get; set; } | Gets or sets the black component. |
+| [M](../../aspose.pdf.operators/setcmykcolorstroke/m/) { get; set; } | Gets or sets the magenta component. |
+| [Y](../../aspose.pdf.operators/setcmykcolorstroke/y/) { get; set; } | Gets or sets the yellow component. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [Accept](../../aspose.pdf.operators/setcmykcolorstroke/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
-| override [getColor](./getcolor/)() | Returns the RGB color |
+| override [getColor](../../aspose.pdf.operators/setcmykcolorstroke/getcolor/)() | Returns the RGB color |
 
 ### See Also
 

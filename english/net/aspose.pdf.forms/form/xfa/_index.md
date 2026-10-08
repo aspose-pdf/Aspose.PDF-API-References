@@ -7,7 +7,7 @@ description: "Form property. Gets XFA data of the form (if presents)."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.forms/form/xfa/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.XFA property
 
@@ -19,7 +19,7 @@ public XFA XFA { get; }
 
 ### See Also
 
-* class [XFA](../../../aspose.pdf.forms/xfa/)
+* class [XFA](../../xfa/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

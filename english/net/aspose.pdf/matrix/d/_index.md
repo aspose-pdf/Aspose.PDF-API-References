@@ -7,7 +7,7 @@ description: "Matrix property. D member of the transformation matrix."
 type: docs
 weight: 290
 url: "/net/aspose.pdf/matrix/d/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix.D property
 

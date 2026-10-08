@@ -7,7 +7,7 @@ description: "Color constructor. Default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/color/color/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Color constructor
 

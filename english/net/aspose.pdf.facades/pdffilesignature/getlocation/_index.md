@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Gets the location of a signature."
 type: docs
 weight: 300
 url: "/net/aspose.pdf.facades/pdffilesignature/getlocation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.GetLocation method
 
@@ -27,7 +27,7 @@ Returns a result of string type.
 
 ### See Also
 
-* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

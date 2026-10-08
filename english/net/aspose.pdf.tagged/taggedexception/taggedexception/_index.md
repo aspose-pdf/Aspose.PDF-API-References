@@ -7,11 +7,11 @@ description: "TaggedException constructor. Initializes a new instance of the Tag
 type: docs
 weight: 10
 url: "/net/aspose.pdf.tagged/taggedexception/taggedexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TaggedException constructor
 
-Initializes a new instance of the [`TaggedException`](../../../aspose.pdf.tagged/taggedexception/) class.
+Initializes a new instance of the [`TaggedException`](../) class.
 
 ```csharp
 public TaggedException()

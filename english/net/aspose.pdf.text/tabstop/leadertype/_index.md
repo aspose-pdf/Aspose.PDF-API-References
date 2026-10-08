@@ -7,11 +7,11 @@ description: "TabStop property. Gets or sets a TabLeaderType enum that indicates
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/tabstop/leadertype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TabStop.LeaderType property
 
-Gets or sets a [`TabLeaderType`](../../../aspose.pdf.text/tableadertype/) enum that indicates the tab leader type.
+Gets or sets a [`TabLeaderType`](../../tableadertype/) enum that indicates the tab leader type.
 
 ```csharp
 public TabLeaderType LeaderType { get; set; }
@@ -19,7 +19,7 @@ public TabLeaderType LeaderType { get; set; }
 
 ### See Also
 
-* enum [TabLeaderType](../../../aspose.pdf.text/tableadertype/)
+* enum [TabLeaderType](../../tableadertype/)
 * class [TabStop](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

@@ -7,11 +7,11 @@ description: "FolderFontSource constructor. Initializes a new instance of Folder
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/folderfontsource/folderfontsource/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FolderFontSource constructor
 
-Initializes a new instance of [`FolderFontSource`](../../../aspose.pdf.text/folderfontsource/) class.
+Initializes a new instance of [`FolderFontSource`](../) class.
 
 ```csharp
 public FolderFontSource(string folderPath)

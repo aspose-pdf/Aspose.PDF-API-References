@@ -7,7 +7,7 @@ description: "FontSourceCollection method. Deletes the font source element."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/fontsourcecollection/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontSourceCollection.Remove method
 
@@ -27,7 +27,7 @@ True - if element found; otherwise, false.
 
 ### See Also
 
-* class [FontSource](../../../aspose.pdf.text/fontsource/)
+* class [FontSource](../../fontsource/)
 * class [FontSourceCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

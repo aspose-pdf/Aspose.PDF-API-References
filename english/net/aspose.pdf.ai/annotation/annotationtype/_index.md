@@ -7,7 +7,7 @@ description: "Annotation property. Gets or sets the type of the annotation."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/annotation/annotationtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.AnnotationType property
 

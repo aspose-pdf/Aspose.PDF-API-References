@@ -7,7 +7,7 @@ description: "ITeXOutputDirectory method. Returns the stream to write to."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/itexoutputdirectory/getoutputfile/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITeXOutputDirectory.GetOutputFile method
 

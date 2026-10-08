@@ -7,11 +7,11 @@ description: "TextProperties constructor. Creates TextProperties object for the 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/textproperties/textproperties/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextProperties constructor
 
-Creates [`TextProperties`](../../../aspose.pdf.facades/textproperties/) object for the specified text size
+Creates [`TextProperties`](../) object for the specified text size
 
 ```csharp
 public TextProperties(double textSize)

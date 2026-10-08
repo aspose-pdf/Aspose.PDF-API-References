@@ -7,7 +7,7 @@ description: "LineTo property. X coordinate of line point."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/lineto/x/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineTo.X property
 

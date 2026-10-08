@@ -8,7 +8,7 @@ type: docs
 weight: 830
 url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/"
 keywords: "PDF3DLightingScheme, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DLightingScheme class
 
@@ -22,31 +22,31 @@ public class PDF3DLightingScheme
 
 | Name | Description |
 | --- | --- |
-| [PDF3DLightingScheme](./pdf3dlightingscheme/#constructor)(LightingSchemeType) | Initializes a new instance of the [`PDF3DLightingScheme`](../../aspose.pdf.annotations/pdf3dlightingscheme/) class. |
-| [PDF3DLightingScheme](./pdf3dlightingscheme/#constructor_1)(string) | Initializes a new instance of the [`PDF3DLightingScheme`](../../aspose.pdf.annotations/pdf3dlightingscheme/) class. |
+| [PDF3DLightingScheme](pdf3dlightingscheme/#constructor)(LightingSchemeType) | Initializes a new instance of the `PDF3DLightingScheme` class. |
+| [PDF3DLightingScheme](pdf3dlightingscheme/#constructor_1)(string) | Initializes a new instance of the `PDF3DLightingScheme` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Type](./type/) { get; } | Gets the lighting scheme type. |
+| [Type](../../aspose.pdf.annotations/pdf3dlightingscheme/type/) { get; } | Gets the lighting scheme type. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| static [Artwork](./artwork/) | The "Artwork" lighting scheme. |
-| static [Blue](./blue/) | The "Blue" lighting scheme. |
-| static [CAD](./cad/) | The "Cad" lighting scheme. |
-| static [Cube](./cube/) | The "Cube" lighting scheme. |
-| static [Day](./day/) | The "Day" lighting scheme. |
-| static [Hard](./hard/) | The "Hard" lighting scheme. |
-| static [Headlamp](./headlamp/) | The "Headlamp" lighting scheme. |
-| static [Night](./night/) | The "Night" lighting scheme. |
-| static [None](./none/) | The "None" lighting scheme. |
-| static [Primary](./primary/) | The "Primary" lighting scheme. |
-| static [Red](./red/) | The "Red" lighting scheme. |
-| static [White](./white/) | The "White" lighting scheme. |
+| static [Artwork](../../aspose.pdf.annotations/pdf3dlightingscheme/artwork/) | The "Artwork" lighting scheme. |
+| static [Blue](../../aspose.pdf.annotations/pdf3dlightingscheme/blue/) | The "Blue" lighting scheme. |
+| static [CAD](../../aspose.pdf.annotations/pdf3dlightingscheme/cad/) | The "Cad" lighting scheme. |
+| static [Cube](../../aspose.pdf.annotations/pdf3dlightingscheme/cube/) | The "Cube" lighting scheme. |
+| static [Day](../../aspose.pdf.annotations/pdf3dlightingscheme/day/) | The "Day" lighting scheme. |
+| static [Hard](../../aspose.pdf.annotations/pdf3dlightingscheme/hard/) | The "Hard" lighting scheme. |
+| static [Headlamp](../../aspose.pdf.annotations/pdf3dlightingscheme/headlamp/) | The "Headlamp" lighting scheme. |
+| static [Night](../../aspose.pdf.annotations/pdf3dlightingscheme/night/) | The "Night" lighting scheme. |
+| static [None](../../aspose.pdf.annotations/pdf3dlightingscheme/none/) | The "None" lighting scheme. |
+| static [Primary](../../aspose.pdf.annotations/pdf3dlightingscheme/primary/) | The "Primary" lighting scheme. |
+| static [Red](../../aspose.pdf.annotations/pdf3dlightingscheme/red/) | The "Red" lighting scheme. |
+| static [White](../../aspose.pdf.annotations/pdf3dlightingscheme/white/) | The "White" lighting scheme. |
 
 ### See Also
 

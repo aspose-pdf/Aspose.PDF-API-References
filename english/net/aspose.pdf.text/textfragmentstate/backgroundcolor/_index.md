@@ -7,11 +7,11 @@ description: "TextFragmentState property. Sets background color of the text, rep
 type: docs
 weight: 170
 url: "/net/aspose.pdf.text/textfragmentstate/backgroundcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentState.BackgroundColor property
 
-Sets background color of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object
+Sets background color of the text, represented by the [`TextFragment`](../../textfragment/) object
 
 ```csharp
 public override Color BackgroundColor { get; set; }

@@ -7,11 +7,11 @@ description: "PDF3DViewArray property. Gets or sets the PDF3DView to view array 
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/pdf3dviewarray/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DViewArray indexer
 
-Gets or sets the [`PDF3DView`](../../../aspose.pdf.annotations/pdf3dview/) to view array at the specified index.
+Gets or sets the [`PDF3DView`](../../pdf3dview/) to view array at the specified index.
 
 ```csharp
 public PDF3DView this[int index] { get; set; }
@@ -25,9 +25,15 @@ public PDF3DView this[int index] { get; set; }
 
 PDF3DView.
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IndexOutOfRangeException | Invalid index: index should be in the range [1..n] where n equals to the views count. |
+
 ### See Also
 
-* class [PDF3DView](../../../aspose.pdf.annotations/pdf3dview/)
+* class [PDF3DView](../../pdf3dview/)
 * class [PDF3DViewArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

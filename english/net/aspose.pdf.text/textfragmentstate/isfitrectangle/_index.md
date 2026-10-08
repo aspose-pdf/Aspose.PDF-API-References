@@ -7,7 +7,7 @@ description: "TextFragmentState method. Checks if input string could be placed i
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/textfragmentstate/isfitrectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentState.IsFitRectangle method
 
@@ -28,7 +28,7 @@ True if string fit rectangle; otherwise false.
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

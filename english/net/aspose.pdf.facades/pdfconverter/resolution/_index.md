@@ -7,7 +7,7 @@ description: "PdfConverter property. Gets or sets resolution during convertting.
 type: docs
 weight: 580
 url: "/net/aspose.pdf.facades/pdfconverter/resolution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfConverter.Resolution property
 

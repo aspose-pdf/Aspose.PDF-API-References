@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Rotation enum. Enumeration of possible rotation values.
 type: docs
 weight: 2670
 url: "/net/aspose.pdf/rotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rotation enumeration
 

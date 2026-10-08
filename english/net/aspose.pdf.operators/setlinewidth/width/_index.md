@@ -7,7 +7,7 @@ description: "SetLineWidth property. Gets or sets width of the line."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/setlinewidth/width/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetLineWidth.Width property
 

@@ -7,7 +7,7 @@ description: "SignatureAlgorithmInfo field. Gets the digest hash algorithm used 
 type: docs
 weight: 50
 url: "/net/aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureAlgorithmInfo.DigestHashAlgorithm field
 

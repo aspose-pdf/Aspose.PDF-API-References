@@ -7,7 +7,7 @@ description: "PageCollection method. Clear page collection."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagecollection/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollection.Clear method
 

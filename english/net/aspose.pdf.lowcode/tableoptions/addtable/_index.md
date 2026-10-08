@@ -7,7 +7,7 @@ description: "TableOptions method. Adding table to document."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/tableoptions/addtable/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableOptions.AddTable method
 
@@ -19,11 +19,11 @@ public TableBuilder AddTable()
 
 ### Return Value
 
-New instance of [`TableBuilder`](../../../aspose.pdf.lowcode/tablebuilder/).
+New instance of [`TableBuilder`](../../tablebuilder/).
 
 ### See Also
 
-* class [TableBuilder](../../../aspose.pdf.lowcode/tablebuilder/)
+* class [TableBuilder](../../tablebuilder/)
 * class [TableOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

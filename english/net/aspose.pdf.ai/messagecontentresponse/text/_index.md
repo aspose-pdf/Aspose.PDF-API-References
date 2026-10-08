@@ -7,7 +7,7 @@ description: "MessageContentResponse property. Gets or sets the text content tha
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/messagecontentresponse/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MessageContentResponse.Text property
 
@@ -19,7 +19,7 @@ public TextResponse Text { get; set; }
 
 ### See Also
 
-* class [TextResponse](../../../aspose.pdf.ai/textresponse/)
+* class [TextResponse](../../textresponse/)
 * class [MessageContentResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

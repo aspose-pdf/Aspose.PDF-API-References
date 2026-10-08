@@ -7,7 +7,7 @@ description: "DictionaryEditor method."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DictionaryEditor.CopyTo method
 
@@ -17,13 +17,9 @@ product_version: "26.9.0"
 public void CopyTo(KeyValuePair<string, ICosPdfPrimitive>[] array, int arrayIndex)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | KeyValuePair`2[] |  |
-| arrayIndex | Int32 |  |
-
 ### See Also
 
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
 * class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)

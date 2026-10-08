@@ -7,7 +7,7 @@ description: "NamedDestinationCollection property. Gets or sets appointment by i
 type: docs
 weight: 30
 url: "/net/aspose.pdf/nameddestinationcollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## NamedDestinationCollection indexer
 

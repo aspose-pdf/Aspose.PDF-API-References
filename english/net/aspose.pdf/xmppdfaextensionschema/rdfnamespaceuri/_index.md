@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionSchema field. Default rdf namespace uri."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/xmppdfaextensionschema/rdfnamespaceuri/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchema.RdfNamespaceURI field
 

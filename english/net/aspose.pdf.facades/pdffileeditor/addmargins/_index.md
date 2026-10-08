@@ -7,7 +7,7 @@ description: "PdfFileEditor method. Resizes page contents and add specifed margi
 type: docs
 weight: 900
 url: "/net/aspose.pdf.facades/pdffileeditor/addmargins/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AddMargins(Stream, Stream, int[], double, double, double, double) {#addmargins}
 

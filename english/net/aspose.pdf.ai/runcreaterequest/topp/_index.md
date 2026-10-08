@@ -7,7 +7,7 @@ description: "RunCreateRequest property. Gets or sets an alternative to sampling
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/runcreaterequest/topp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunCreateRequest.TopP property
 

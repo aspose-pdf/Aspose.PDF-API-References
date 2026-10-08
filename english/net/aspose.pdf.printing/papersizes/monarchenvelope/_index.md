@@ -7,7 +7,7 @@ description: "PaperSizes field. Monarch envelope (3.875 in. by 7.5 in.)."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.printing/papersizes/monarchenvelope/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.MonarchEnvelope field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize MonarchEnvelope;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

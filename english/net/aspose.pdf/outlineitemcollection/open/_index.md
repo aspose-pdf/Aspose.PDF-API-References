@@ -7,7 +7,7 @@ description: "OutlineItemCollection property. Get or sets open status (true/fals
 type: docs
 weight: 280
 url: "/net/aspose.pdf/outlineitemcollection/open/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.Open property
 

@@ -7,7 +7,7 @@ description: "OfdToPdfOptions property. Gets or sets the OFD load options."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/ofdtopdfoptions/ofdloadoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OfdToPdfOptions.OfdLoadOptions property
 

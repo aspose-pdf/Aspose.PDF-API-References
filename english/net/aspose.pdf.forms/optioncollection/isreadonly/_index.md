@@ -7,7 +7,7 @@ description: "OptionCollection property. Gets a value indicating if collection i
 type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/optioncollection/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptionCollection.IsReadOnly property
 

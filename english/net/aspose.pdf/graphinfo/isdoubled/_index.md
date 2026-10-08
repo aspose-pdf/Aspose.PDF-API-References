@@ -7,7 +7,7 @@ description: "GraphInfo property. Gets or sets is border doubled."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/graphinfo/isdoubled/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphInfo.IsDoubled property
 

@@ -7,7 +7,7 @@ description: "AppearanceDictionary method. Returns an IDictionaryEnumerator obje
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/appearancedictionary/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AppearanceDictionary.GetEnumerator method
 
@@ -23,6 +23,7 @@ Enumerator of the dictionary.
 
 ### See Also
 
+* class [XForm](../../../aspose.pdf/xform/)
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

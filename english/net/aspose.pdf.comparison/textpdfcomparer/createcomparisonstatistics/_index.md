@@ -7,9 +7,9 @@ description: "TextPdfComparer method. Gets comparison statistics."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.comparison/textpdfcomparer/createcomparisonstatistics/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## CreateComparisonStatistics(List<DiffOperation>) {#createcomparisonstatistics}
+## CreateComparisonStatistics(List&lt;DiffOperation&gt;) {#createcomparisonstatistics}
 
 Gets comparison statistics.
 
@@ -27,14 +27,15 @@ The statistics.
 
 ### See Also
 
-* class [TextItemComparisonStatistics](../../../aspose.pdf.comparison/textitemcomparisonstatistics/)
+* class [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
+* class [DiffOperation](../../diffoperation/)
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateComparisonStatistics(List<List<DiffOperation>>) {#createcomparisonstatistics_1}
+## CreateComparisonStatistics(List&lt;List&lt;DiffOperation&gt;&gt;) {#createcomparisonstatistics_1}
 
 Gets documents comparison statistics.
 
@@ -53,7 +54,8 @@ The statistics.
 
 ### See Also
 
-* class [DocumentComparisonStatistics](../../../aspose.pdf.comparison/documentcomparisonstatistics/)
+* class [DocumentComparisonStatistics](../../documentcomparisonstatistics/)
+* class [DiffOperation](../../diffoperation/)
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

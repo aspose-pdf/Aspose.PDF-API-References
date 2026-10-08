@@ -7,7 +7,7 @@ description: "Rectangle property. X - coordinate of upper-right corner."
 type: docs
 weight: 250
 url: "/net/aspose.pdf/rectangle/urx/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.URX property
 

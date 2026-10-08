@@ -7,29 +7,9 @@ description: "Document method. Bind xml to document"
 type: docs
 weight: 870
 url: "/net/aspose.pdf/document/bindxml/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## BindXml(Stream) {#bindxml}
-
-Bind xml to document
-
-```csharp
-public void BindXml(Stream stream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | The xml stream. |
-
-### See Also
-
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## BindXml(string) {#bindxml_1}
+## BindXml(string) {#bindxml}
 
 Bind xml to document
 
@@ -40,6 +20,27 @@ public void BindXml(string file)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | file | String | The xml file |
+
+### See Also
+
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## BindXml(string, string) {#bindxml_1}
+
+Bind xml/xsl to document
+
+```csharp
+public void BindXml(string xmlFile, string xslFile)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| xmlFile | String | The xml file. |
+| xslFile | String | The xsl file if XSLT is used. |
 
 ### See Also
 
@@ -70,28 +71,7 @@ public void BindXml(Stream xmlStream, Stream xslStream)
 
 ---
 
-## BindXml(string, string) {#bindxml_3}
-
-Bind xml/xsl to document
-
-```csharp
-public void BindXml(string xmlFile, string xslFile)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| xmlFile | String | The xml file. |
-| xslFile | String | The xsl file if XSLT is used. |
-
-### See Also
-
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## BindXml(Stream, Stream, XmlReaderSettings) {#bindxml_4}
+## BindXml(Stream, Stream, XmlReaderSettings) {#bindxml_3}
 
 Bind xml/xsl to document
 
@@ -104,6 +84,26 @@ public void BindXml(Stream xmlStream, Stream xslStream, XmlReaderSettings settin
 | xmlStream | Stream | The xml stream. |
 | xslStream | Stream | The xsl stream if XSLT is used. |
 | settings | XmlReaderSettings | The xml reader settings. |
+
+### See Also
+
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## BindXml(Stream) {#bindxml_4}
+
+Bind xml to document
+
+```csharp
+public void BindXml(Stream stream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | The xml stream. |
 
 ### See Also
 

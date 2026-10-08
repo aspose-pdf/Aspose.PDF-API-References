@@ -8,7 +8,7 @@ type: docs
 weight: 1590
 url: "/net/aspose.pdf/incorrectfontusageexception/"
 keywords: "IncorrectFontUsageException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IncorrectFontUsageException class
 
@@ -22,15 +22,9 @@ public sealed class IncorrectFontUsageException : InvalidFileFormatException
 
 | Name | Description |
 | --- | --- |
-| [IncorrectFontUsageException](./incorrectfontusageexception/#constructor)(Exception) | Initializes a new instance of the [`IncorrectFontUsageException`](../../aspose.pdf/incorrectfontusageexception/) class with a reference to the inner exception that is the cause of this exception. |
-| [IncorrectFontUsageException](./incorrectfontusageexception/#constructor_1)(string) | Initializes a new instance of the [`IncorrectFontUsageException`](../../aspose.pdf/incorrectfontusageexception/) class. |
-| [IncorrectFontUsageException](./incorrectfontusageexception/#constructor_2)(string, Exception) | Initializes a new instance of the [`IncorrectFontUsageException`](../../aspose.pdf/incorrectfontusageexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
+| [IncorrectFontUsageException](incorrectfontusageexception/#constructor)(string) | Initializes a new instance of the `IncorrectFontUsageException` class. |
+| [IncorrectFontUsageException](incorrectfontusageexception/#constructor_1)(string, Exception) | Initializes a new instance of the `IncorrectFontUsageException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [IncorrectFontUsageException](incorrectfontusageexception/#constructor_2)(Exception) | Initializes a new instance of the `IncorrectFontUsageException` class with a reference to the inner exception that is the cause of this exception. |
 
 ### See Also
 

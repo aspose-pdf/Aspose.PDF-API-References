@@ -7,7 +7,7 @@ description: "WebHyperlink property. Gets or sets the web url."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/webhyperlink/url/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WebHyperlink.Url property
 

@@ -7,7 +7,7 @@ description: "Layer method. Deletes the current layer from the PDF document."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/layer/delete/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Layer.Delete method
 

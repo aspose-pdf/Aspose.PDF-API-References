@@ -7,7 +7,7 @@ description: "HtmlImageSavingInfo field. Represents type of saved image referenc
 type: docs
 weight: 20
 url: "/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/imagetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.HtmlImageSavingInfo.ImageType field
 
@@ -21,7 +21,8 @@ public HtmlImageType ImageType;
 
 ### See Also
 
-* class [HtmlSaveOptions.HtmlImageSavingInfo](../)
+* enum [HtmlImageType](../../htmlsaveoptions.htmlimagetype/)
+* class [HtmlImageSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "Bookmark property. The action name corresponding to execute a menu
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/bookmark/customacorbatviewermenuactionname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Bookmark.CustomAcorbatViewerMenuActionName property
 

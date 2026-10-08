@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Text.TextEditOptions.LanguageTransformation enum. Langu
 type: docs
 weight: 460
 url: "/net/aspose.pdf.text/texteditoptions.languagetransformation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextEditOptions.LanguageTransformation enumeration
 

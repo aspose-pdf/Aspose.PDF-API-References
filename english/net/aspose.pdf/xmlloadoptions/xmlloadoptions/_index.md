@@ -7,11 +7,11 @@ description: "XmlLoadOptions constructor. Creates XmlLoadOptions object without 
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xmlloadoptions/xmlloadoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmlLoadOptions() {#constructor}
 
-Creates [`XmlLoadOptions`](../../../aspose.pdf/xmlloadoptions/) object without xsl data.
+Creates [`XmlLoadOptions`](../) object without xsl data.
 
 ```csharp
 public XmlLoadOptions()
@@ -25,17 +25,17 @@ public XmlLoadOptions()
 
 ---
 
-## XmlLoadOptions(Stream) {#constructor_1}
+## XmlLoadOptions(string) {#constructor_1}
 
-Creates [`XmlLoadOptions`](../../../aspose.pdf/xmlloadoptions/) object with xsl data.
+Creates [`XmlLoadOptions`](../) object with xsl data.
 
 ```csharp
-public XmlLoadOptions(Stream xslStream)
+public XmlLoadOptions(string xslFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xslStream | Stream | Xsl stream to convert xml document into pdf document. |
+| xslFile | String | Xsl file to convert xml document into pdf document. |
 
 ### See Also
 
@@ -45,17 +45,17 @@ public XmlLoadOptions(Stream xslStream)
 
 ---
 
-## XmlLoadOptions(string) {#constructor_2}
+## XmlLoadOptions(Stream) {#constructor_2}
 
-Creates [`XmlLoadOptions`](../../../aspose.pdf/xmlloadoptions/) object with xsl data.
+Creates [`XmlLoadOptions`](../) object with xsl data.
 
 ```csharp
-public XmlLoadOptions(string xslFile)
+public XmlLoadOptions(Stream xslStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xslFile | String | Xsl file to convert xml document into pdf document. |
+| xslStream | Stream | Xsl stream to convert xml document into pdf document. |
 
 ### See Also
 

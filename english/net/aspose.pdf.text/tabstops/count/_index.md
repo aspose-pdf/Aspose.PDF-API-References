@@ -7,11 +7,11 @@ description: "TabStops property. Initializes a new instance of the TabStop class
 type: docs
 weight: 80
 url: "/net/aspose.pdf.text/tabstops/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TabStops.Count property
 
-Initializes a new instance of the [`TabStop`](../../../aspose.pdf.text/tabstop/) class with specified position and 
+Initializes a new instance of the [`TabStop`](../../tabstop/) class with specified position and 
  add it to the TabStops collection.
 
 ```csharp
@@ -20,7 +20,7 @@ public int Count { get; }
 
 ### Return Value
 
-The new [`TabStop`](../../../aspose.pdf.text/tabstop/) object.
+The new [`TabStop`](../../tabstop/) object.
 
 ### See Also
 

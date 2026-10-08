@@ -7,7 +7,7 @@ description: "FormDataConverter method. Convert files of strems into table."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/formdataconverter/converttodatatable/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormDataConverter.ConvertToDataTable method
 
@@ -40,7 +40,7 @@ stream.Close();
 
 ### See Also
 
-* enum [DataType](../../../aspose.pdf.lowcode/datatype/)
+* enum [DataType](../../datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

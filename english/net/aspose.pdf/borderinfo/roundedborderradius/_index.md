@@ -7,7 +7,7 @@ description: "BorderInfo property. Gets or sets a rouded border radius"
 type: docs
 weight: 120
 url: "/net/aspose.pdf/borderinfo/roundedborderradius/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BorderInfo.RoundedBorderRadius property
 

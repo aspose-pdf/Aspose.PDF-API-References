@@ -8,7 +8,7 @@ type: docs
 weight: 430
 url: "/net/aspose.pdf/compositingparameters/"
 keywords: "CompositingParameters, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompositingParameters class
 
@@ -22,17 +22,17 @@ public sealed class CompositingParameters
 
 | Name | Description |
 | --- | --- |
-| [CompositingParameters](./compositingparameters/#constructor)(BlendMode) | Initializes new instance of the [`CompositingParameters`](../../aspose.pdf/compositingparameters/) object. |
-| [CompositingParameters](./compositingparameters/#constructor_1)(BlendMode, ImageFilterType) | Initializes new instance of the [`CompositingParameters`](../../aspose.pdf/compositingparameters/) object. |
-| [CompositingParameters](./compositingparameters/#constructor_2)(BlendMode, ImageFilterType, bool) | Initializes new instance of the [`CompositingParameters`](../../aspose.pdf/compositingparameters/) object. |
+| [CompositingParameters](compositingparameters/#constructor)(BlendMode) | Initializes new instance of the `CompositingParameters` object. |
+| [CompositingParameters](compositingparameters/#constructor_1)(BlendMode, ImageFilterType) | Initializes new instance of the `CompositingParameters` object. |
+| [CompositingParameters](compositingparameters/#constructor_2)(BlendMode, ImageFilterType, bool) | Initializes new instance of the `CompositingParameters` object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BlendMode](./blendmode/) { get; } | Gets blend mode of current graphics state. |
-| [FilterType](./filtertype/) { get; } | Gets the image filter type. |
-| [IsMasked](./ismasked/) { get; } | Gets the mask flag. |
+| [BlendMode](../../aspose.pdf/compositingparameters/blendmode/) { get; } | Gets blend mode of current graphics state. |
+| [FilterType](../../aspose.pdf/compositingparameters/filtertype/) { get; } | Gets the image filter type. |
+| [IsMasked](../../aspose.pdf/compositingparameters/ismasked/) { get; } | Gets the mask flag. |
 
 ### See Also
 

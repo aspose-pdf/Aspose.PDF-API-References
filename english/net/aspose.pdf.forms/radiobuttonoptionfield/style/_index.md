@@ -7,7 +7,7 @@ description: "RadioButtonOptionField property. Gets or sets style of check box."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/radiobuttonoptionfield/style/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RadioButtonOptionField.Style property
 
@@ -19,7 +19,7 @@ public BoxStyle Style { get; set; }
 
 ### See Also
 
-* enum [BoxStyle](../../../aspose.pdf.forms/boxstyle/)
+* enum [BoxStyle](../../boxstyle/)
 * class [RadioButtonOptionField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

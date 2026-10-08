@@ -7,7 +7,7 @@ description: "Form property. If set, the document contains at least one signatur
 type: docs
 weight: 390
 url: "/net/aspose.pdf.forms/form/signaturesexist/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.SignaturesExist property
 

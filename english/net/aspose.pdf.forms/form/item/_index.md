@@ -7,7 +7,7 @@ description: "Form property. Gets field of the form by field name. Throws excpet
 type: docs
 weight: 340
 url: "/net/aspose.pdf.forms/form/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form indexer (1 of 2)
 

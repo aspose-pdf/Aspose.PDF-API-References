@@ -7,7 +7,7 @@ description: "PdfFileEditor property. Gets or sets optimization flag. Equal reso
 type: docs
 weight: 1090
 url: "/net/aspose.pdf.facades/pdffileeditor/optimizesize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.OptimizeSize property
 

@@ -7,11 +7,11 @@ description: "OpenAIOcrCopilotOptions method. Gets the current OpenAIOcrCopilotO
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/getoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIOcrCopilotOptions.GetOptions method
 
-Gets the current [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
+Gets the current [`OpenAIOcrCopilotOptions`](../).
 
 ```csharp
 public OpenAIOcrCopilotOptions GetOptions()
@@ -19,11 +19,11 @@ public OpenAIOcrCopilotOptions GetOptions()
 
 ### Return Value
 
-The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
+The current instance of [`OpenAIOcrCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+* class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

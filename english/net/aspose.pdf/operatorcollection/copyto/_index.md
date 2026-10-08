@@ -7,7 +7,7 @@ description: "OperatorCollection method. Copies operators into operators list."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/operatorcollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OperatorCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public override void CopyTo(Operator[] array, int index)
 
 ### See Also
 
-* class [Operator](../../../aspose.pdf/operator/)
+* class [Operator](../../operator/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

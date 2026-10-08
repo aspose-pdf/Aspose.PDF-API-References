@@ -7,7 +7,7 @@ description: "AttributeKey field. Desc attribute (PrintField attribute owner)."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.logicalstructure/attributekey/desc/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.Desc field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey Desc;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

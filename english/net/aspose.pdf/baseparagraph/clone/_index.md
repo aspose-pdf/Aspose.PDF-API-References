@@ -7,7 +7,7 @@ description: "BaseParagraph method. Clones this instance. Virtual method. Always
 type: docs
 weight: 10
 url: "/net/aspose.pdf/baseparagraph/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseParagraph.Clone method
 

@@ -7,7 +7,7 @@ description: "Form method. Copies fields placed on the form into array."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/form/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.CopyTo method
 
@@ -24,7 +24,7 @@ public void CopyTo(Field[] array, int index)
 
 ### See Also
 
-* class [Field](../../../aspose.pdf.forms/field/)
+* class [Field](../../field/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

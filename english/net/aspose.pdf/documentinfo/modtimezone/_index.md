@@ -7,7 +7,7 @@ description: "DocumentInfo property. Time zone of modification date."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/documentinfo/modtimezone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentInfo.ModTimeZone property
 

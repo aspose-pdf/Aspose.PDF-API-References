@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Warichu text) The smaller-size text 
 type: docs
 weight: 490
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/wt/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.WT field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard WT;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "Image property. Gets or sets a bool value that indicates whether t
 type: docs
 weight: 120
 url: "/net/aspose.pdf/image/isapplyresolution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Image.IsApplyResolution property
 

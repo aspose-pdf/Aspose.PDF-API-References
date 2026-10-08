@@ -7,7 +7,7 @@ description: "ContentsResizeParameters method. Creates resize paramters for page
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresizepct/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeParameters.PageResizePct method
 
@@ -28,7 +28,7 @@ New resize paramteres.
 
 ### See Also
 
-* class [PdfFileEditor.ContentsResizeParameters](../)
+* class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

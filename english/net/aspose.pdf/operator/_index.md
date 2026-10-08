@@ -8,7 +8,7 @@ type: docs
 weight: 1970
 url: "/net/aspose.pdf/operator/"
 keywords: "Operator, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Operator class
 
@@ -22,16 +22,16 @@ public abstract class Operator
 
 | Name | Description |
 | --- | --- |
-| [Index](./index/) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [Accept](./accept/)(IOperatorSelector) | Accepts visitor IOperatorSelector which provides operators processing. |
-| static [IsTextShowOperator](./istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Returns text of operator and its parameters. |
-| [ValueEquals](./valueequals/)(Operator) | Compares this instance with the given object. |
+| abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | Accepts visitor IOperatorSelector which provides operators processing. |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 

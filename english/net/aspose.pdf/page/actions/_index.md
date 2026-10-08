@@ -7,7 +7,7 @@ description: "Page property. Gets collection of page properties."
 type: docs
 weight: 630
 url: "/net/aspose.pdf/page/actions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Actions property
 
@@ -19,7 +19,7 @@ public PageActionCollection Actions { get; }
 
 ### See Also
 
-* class [PageActionCollection](../../../aspose.pdf/pageactioncollection/)
+* class [PageActionCollection](../../pageactioncollection/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

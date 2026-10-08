@@ -7,7 +7,7 @@ description: "CompletionCreateRequest property. Gets or sets an object that cont
 type: docs
 weight: 170
 url: "/net/aspose.pdf.ai/completioncreaterequest/toolchoice/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionCreateRequest.ToolChoice property
 
@@ -24,7 +24,7 @@ public ToolChoice ToolChoice { get; set; }
 
 ### See Also
 
-* class [ToolChoice](../../../aspose.pdf.ai/toolchoice/)
+* class [ToolChoice](../../toolchoice/)
 * class [CompletionCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

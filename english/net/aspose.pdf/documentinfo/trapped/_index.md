@@ -7,7 +7,7 @@ description: "DocumentInfo property. Gets or sets the trapped flag."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/documentinfo/trapped/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentInfo.Trapped property
 

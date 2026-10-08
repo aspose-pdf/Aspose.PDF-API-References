@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. This attribute represents set of settings u
 type: docs
 weight: 320
 url: "/net/aspose.pdf/htmlsaveoptions/pageborderifany/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.PageBorderIfAny field
 
@@ -22,7 +22,7 @@ public BorderInfo PageBorderIfAny;
 
 ### See Also
 
-* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [BorderInfo](../../borderinfo/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

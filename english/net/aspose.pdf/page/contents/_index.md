@@ -7,12 +7,12 @@ description: "Page property. Gets collection of operators in the content stream 
 type: docs
 weight: 480
 url: "/net/aspose.pdf/page/contents/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Contents property
 
 Gets collection of operators in the content stream of the page.
- [`OperatorCollection`](../../../aspose.pdf/operatorcollection/)
+ [`OperatorCollection`](../../operatorcollection/)
 
 ```csharp
 public OperatorCollection Contents { get; }
@@ -33,7 +33,7 @@ foreach(Operator op in contents)
 
 ### See Also
 
-* class [OperatorCollection](../../../aspose.pdf/operatorcollection/)
+* class [OperatorCollection](../../operatorcollection/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

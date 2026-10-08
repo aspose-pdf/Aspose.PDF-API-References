@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Ruby base text) The full-size text t
 type: docs
 weight: 450
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/rb/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.RB field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard RB;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

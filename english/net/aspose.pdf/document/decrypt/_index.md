@@ -7,7 +7,7 @@ description: "Document method. Decrypts the document. Call then Save to obtain d
 type: docs
 weight: 660
 url: "/net/aspose.pdf/document/decrypt/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.Decrypt method
 

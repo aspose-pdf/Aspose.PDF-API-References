@@ -7,7 +7,7 @@ description: "DocSaveOptions property. Output format"
 type: docs
 weight: 90
 url: "/net/aspose.pdf/docsaveoptions/format/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocSaveOptions.Format property
 
@@ -19,6 +19,7 @@ public DocFormat Format { get; set; }
 
 ### See Also
 
+* enum [DocFormat](../../docsaveoptions.docformat/)
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

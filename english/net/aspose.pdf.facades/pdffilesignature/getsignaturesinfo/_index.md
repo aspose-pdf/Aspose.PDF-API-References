@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Retrieves information about all signature
 type: docs
 weight: 400
 url: "/net/aspose.pdf.facades/pdffilesignature/getsignaturesinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.GetSignaturesInfo method
 
@@ -23,6 +23,7 @@ A list of [`SignatureAlgorithmInfo`](../../../aspose.pdf.security/signaturealgor
 
 ### See Also
 
+* class [SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

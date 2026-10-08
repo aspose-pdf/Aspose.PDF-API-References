@@ -7,7 +7,7 @@ description: "TextExtractionErrorLocation property. Key (name) of the PDF Font o
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/textextractionerrorlocation/textstartpoint/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextExtractionErrorLocation.TextStartPoint property
 

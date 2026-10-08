@@ -8,7 +8,7 @@ type: docs
 weight: 940
 url: "/net/aspose.pdf/fontembeddingoptions/"
 keywords: "FontEmbeddingOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontEmbeddingOptions class
 
@@ -24,13 +24,13 @@ public class FontEmbeddingOptions
 
 | Name | Description |
 | --- | --- |
-| [FontEmbeddingOptions](./fontembeddingoptions/)() | The default constructor. |
+| [FontEmbeddingOptions](fontembeddingoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [UseDefaultSubstitution](./usedefaultsubstitution/) { get; set; } | Indicates whether to substitute non-embedded font using default font substitution strategy. Default value: . |
+| [UseDefaultSubstitution](../../aspose.pdf/fontembeddingoptions/usedefaultsubstitution/) { get; set; } | Indicates whether to substitute non-embedded font using default font substitution strategy. Default value: `false`. |
 
 ### See Also
 

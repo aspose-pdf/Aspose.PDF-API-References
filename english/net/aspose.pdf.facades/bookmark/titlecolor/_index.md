@@ -7,7 +7,7 @@ description: "Bookmark property. Gets or sets the color of bookmark's title."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/bookmark/titlecolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Bookmark.TitleColor property
 
@@ -19,7 +19,6 @@ public Color TitleColor { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

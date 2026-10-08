@@ -7,7 +7,7 @@ description: "Document property. Gets a version of Pdf from Pdf file header."
 type: docs
 weight: 1240
 url: "/net/aspose.pdf/document/version/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.Version property
 

@@ -7,7 +7,7 @@ description: "SquareAnnotation property. Gets type of annotation."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/squareannotation/annotationtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SquareAnnotation.AnnotationType property
 
@@ -19,7 +19,7 @@ public override AnnotationType AnnotationType { get; }
 
 ### See Also
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* enum [AnnotationType](../../annotationtype/)
 * class [SquareAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

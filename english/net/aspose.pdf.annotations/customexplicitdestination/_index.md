@@ -8,7 +8,7 @@ type: docs
 weight: 260
 url: "/net/aspose.pdf.annotations/customexplicitdestination/"
 keywords: "CustomExplicitDestination, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CustomExplicitDestination class
 
@@ -29,8 +29,7 @@ public sealed class CustomExplicitDestination : ExplicitDestination
 
 | Name | Description |
 | --- | --- |
-| static [CreateDestination](../../aspose.pdf.annotations/explicitdestination/createdestination/)(Page, ExplicitDestinationType, params double[]) | Creates instances of ExplicitDestination descendant classes. |
-| override [ToString](./tostring/)() | Converts to page number. |
+| override [ToString](../../aspose.pdf.annotations/customexplicitdestination/tostring/)() | Converts to page number. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.CaptionPosition enum. Enumeration of the an
 type: docs
 weight: 170
 url: "/net/aspose.pdf.annotations/captionposition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CaptionPosition enumeration
 

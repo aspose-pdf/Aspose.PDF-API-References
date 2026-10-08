@@ -8,7 +8,7 @@ type: docs
 weight: 80
 url: "/net/aspose.pdf.text/customfontsubstitutionbase/"
 keywords: "CustomFontSubstitutionBase, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CustomFontSubstitutionBase class
 
@@ -22,13 +22,13 @@ public class CustomFontSubstitutionBase : FontSubstitution
 
 | Name | Description |
 | --- | --- |
-| [CustomFontSubstitutionBase](./customfontsubstitutionbase/)() | The default constructor. |
+| [CustomFontSubstitutionBase](customfontsubstitutionbase/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [TrySubstitute](./trysubstitute/)(OriginalFontSpecification, out Font) | Substitutes original font with another font. |
+| virtual [TrySubstitute](../../aspose.pdf.text/customfontsubstitutionbase/trysubstitute/)(OriginalFontSpecification, out Font) | Substitutes original font with another font. |
 
 ## Other Members
 

@@ -7,23 +7,23 @@ description: "PdfPageEditor method. Saves changed document into file."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/pdfpageeditor/save/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Save(Stream) {#save}
+## Save(string) {#save}
 
-Saves changed document into stream.
+Saves changed document into file.
 
 ```csharp
-public override void Save(Stream outputStream)
+public override void Save(string outputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStream | Stream | Stream where changed PDF document will be saved. |
+| outputFile | String | Path to file where document will be saved. |
 
 ## Examples
 
-The following sample demonstrates how to save changed PDF document into stream.
+The following sample demonstrates how to save changed PDF document
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -40,21 +40,21 @@ editor.Save("newdocument.pdf");
 
 ---
 
-## Save(string) {#save_1}
+## Save(Stream) {#save_1}
 
-Saves changed document into file.
+Saves changed document into stream.
 
 ```csharp
-public override void Save(string outputFile)
+public override void Save(Stream outputStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Path to file where document will be saved. |
+| outputStream | Stream | Stream where changed PDF document will be saved. |
 
 ## Examples
 
-The following sample demonstrates how to save changed PDF document
+The following sample demonstrates how to save changed PDF document into stream.
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();

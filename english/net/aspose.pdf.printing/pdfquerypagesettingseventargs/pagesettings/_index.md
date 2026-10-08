@@ -7,7 +7,7 @@ description: "PdfQueryPageSettingsEventArgs property. Gets or sets the page sett
 type: docs
 weight: 20
 url: "/net/aspose.pdf.printing/pdfquerypagesettingseventargs/pagesettings/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfQueryPageSettingsEventArgs.PageSettings property
 
@@ -19,7 +19,7 @@ public PageSettings PageSettings { get; set; }
 
 ### See Also
 
-* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PageSettings](../../pagesettings/)
 * class [PdfQueryPageSettingsEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

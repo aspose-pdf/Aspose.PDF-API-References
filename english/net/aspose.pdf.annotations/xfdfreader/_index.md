@@ -8,7 +8,7 @@ type: docs
 weight: 1370
 url: "/net/aspose.pdf.annotations/xfdfreader/"
 keywords: "XfdfReader, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XfdfReader class
 
@@ -32,15 +32,15 @@ doc.Save("example_out.pdf");
 
 | Name | Description |
 | --- | --- |
-| [XfdfReader](./xfdfreader/)() | The default constructor. |
+| [XfdfReader](xfdfreader/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [GetElements](./getelements/)(XmlReader) | Parses XFDF file and returns information as hashtable. |
-| static [ReadAnnotations](./readannotations/)(Stream, Document) | Import annotations from XFDF file and put them into document. |
-| static [ReadFields](./readfields/)(Stream, Document) | Import field values from XFDF file. |
+| static [GetElements](../../aspose.pdf.annotations/xfdfreader/getelements/)(XmlReader) | Parses XFDF file and returns information as hashtable. |
+| static [ReadAnnotations](../../aspose.pdf.annotations/xfdfreader/readannotations/)(Stream, Document) | Import annotations from XFDF file and put them into document. |
+| static [ReadFields](../../aspose.pdf.annotations/xfdfreader/readfields/)(Stream, Document) | Import field values from XFDF file. |
 
 ### See Also
 

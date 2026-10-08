@@ -7,7 +7,7 @@ description: "PageSize property. Gets page orientation. Returns true of this is 
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pagesize/islandscape/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageSize.IsLandscape property
 

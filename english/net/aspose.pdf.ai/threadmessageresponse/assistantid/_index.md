@@ -7,7 +7,7 @@ description: "ThreadMessageResponse property. Gets or sets, if applicable, the I
 type: docs
 weight: 120
 url: "/net/aspose.pdf.ai/threadmessageresponse/assistantid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadMessageResponse.AssistantId property
 

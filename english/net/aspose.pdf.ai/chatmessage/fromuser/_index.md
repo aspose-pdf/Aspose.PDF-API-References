@@ -7,7 +7,7 @@ description: "ChatMessage method. Creates a new ChatMessage object representing 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/chatmessage/fromuser/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChatMessage.FromUser method
 
@@ -23,11 +23,11 @@ public static ChatMessage FromUser(string content)
 
 ### Return Value
 
-A new [`ChatMessage`](../../../aspose.pdf.ai/chatmessage/) object with the specified content and the User role.
+A new [`ChatMessage`](../) object with the specified content and the User role.
 
 ### See Also
 
-* class [ChatMessage](../../../aspose.pdf.ai/chatmessage/)
+* class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

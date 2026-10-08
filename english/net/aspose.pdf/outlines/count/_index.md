@@ -7,7 +7,7 @@ description: "Outlines property. Gets count."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/outlines/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Outlines.Count property
 

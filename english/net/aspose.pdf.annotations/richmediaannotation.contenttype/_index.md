@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.RichMediaAnnotation.ContentType enum. Type 
 type: docs
 weight: 1120
 url: "/net/aspose.pdf.annotations/richmediaannotation.contenttype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RichMediaAnnotation.ContentType enumeration
 

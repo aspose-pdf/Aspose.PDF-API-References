@@ -7,7 +7,7 @@ description: "MovieAnnotation property. Gets or sets the title of the movie anno
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/movieannotation/title/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MovieAnnotation.Title property
 

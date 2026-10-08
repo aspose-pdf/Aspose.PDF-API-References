@@ -7,7 +7,7 @@ description: "SetTextLeading constructor. Initializes text leading operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/settextleading/settextleading/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetTextLeading constructor
 

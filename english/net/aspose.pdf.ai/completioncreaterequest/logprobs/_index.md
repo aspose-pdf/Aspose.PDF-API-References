@@ -7,7 +7,7 @@ description: "CompletionCreateRequest property. Gets or sets whether to return l
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/completioncreaterequest/logprobs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionCreateRequest.Logprobs property
 

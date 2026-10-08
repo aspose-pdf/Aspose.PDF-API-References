@@ -7,7 +7,7 @@ description: "Document method. Closes all resources used by this document."
 type: docs
 weight: 800
 url: "/net/aspose.pdf/document/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.Dispose method
 

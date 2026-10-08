@@ -7,7 +7,7 @@ description: "OpenAIChatCopilotOptions property. Gets or sets the number of days
 type: docs
 weight: 230
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/vectorstoreexpiredays/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIChatCopilotOptions.VectorStoreExpireDays property
 

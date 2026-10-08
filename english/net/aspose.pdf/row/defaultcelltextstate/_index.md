@@ -7,7 +7,7 @@ description: "Row property. Gets or sets default text state for row cells"
 type: docs
 weight: 110
 url: "/net/aspose.pdf/row/defaultcelltextstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Row.DefaultCellTextState property
 

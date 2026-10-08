@@ -7,7 +7,7 @@ description: "PdfXmpMetadata property. Gets synchroniztion object of the collect
 type: docs
 weight: 320
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/syncroot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata.SyncRoot property
 

@@ -7,7 +7,7 @@ description: "MergeOptions property. Gets and sets the requirement for page tree
 type: docs
 weight: 30
 url: "/net/aspose.pdf/document.mergeoptions/isneedpagetreebalance/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.MergeOptions.IsNeedPageTreeBalance property
 
@@ -21,7 +21,7 @@ public bool IsNeedPageTreeBalance { get; set; }
 
 ### See Also
 
-* class [Document.MergeOptions](../)
+* class [MergeOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

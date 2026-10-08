@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionValueType property. Gets the value type."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/type/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionValueType.Type property
 

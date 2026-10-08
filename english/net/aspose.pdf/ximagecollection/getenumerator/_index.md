@@ -7,7 +7,7 @@ description: "XImageCollection method. Returns collection enumerator."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/ximagecollection/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImageCollection.GetEnumerator method
 
@@ -23,6 +23,7 @@ Enumerator of collection
 
 ### See Also
 
+* class [XImage](../../ximage/)
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

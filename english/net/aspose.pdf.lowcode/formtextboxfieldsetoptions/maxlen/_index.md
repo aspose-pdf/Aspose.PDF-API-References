@@ -7,7 +7,7 @@ description: "FormTextBoxFieldSetOptions property. Gets/sets the value to determ
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/formtextboxfieldsetoptions/maxlen/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormTextBoxFieldSetOptions.MaxLen property
 

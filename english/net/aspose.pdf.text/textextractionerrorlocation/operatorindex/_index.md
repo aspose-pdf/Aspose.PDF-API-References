@@ -7,7 +7,7 @@ description: "TextExtractionErrorLocation property. Index of text showing operat
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/textextractionerrorlocation/operatorindex/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextExtractionErrorLocation.OperatorIndex property
 

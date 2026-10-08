@@ -7,7 +7,7 @@ description: "IImageDescriptionCopilotOptions method. Gets the options of type T
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/iimagedescriptioncopilotoptions-1/getoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IImageDescriptionCopilotOptions<TOptions>.GetOptions method
 
@@ -23,7 +23,7 @@ The options of type *TOptions*.
 
 ### See Also
 
-* interface [IImageDescriptionCopilotOptions<TOptions>](../)
+* interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

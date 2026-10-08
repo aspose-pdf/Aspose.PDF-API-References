@@ -7,11 +7,11 @@ description: "GraphicsAbsorber method. Releases all resources used by the Graphi
 type: docs
 weight: 50
 url: "/net/aspose.pdf.vector/graphicsabsorber/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicsAbsorber.Dispose method
 
-Releases all resources used by the [`GraphicsAbsorber`](../../../aspose.pdf.vector/graphicsabsorber/) class.
+Releases all resources used by the [`GraphicsAbsorber`](../) class.
 
 ```csharp
 public void Dispose()

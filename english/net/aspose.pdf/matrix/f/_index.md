@@ -7,7 +7,7 @@ description: "Matrix property. F member of the transformation matrix."
 type: docs
 weight: 310
 url: "/net/aspose.pdf/matrix/f/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix.F property
 

@@ -7,7 +7,7 @@ description: "Layer property. Gets or sets the default state of the PDF layer."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/layer/defaultstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Layer.DefaultState property
 
@@ -19,7 +19,7 @@ public DefaultState DefaultState { get; set; }
 
 ### See Also
 
-* enum [DefaultState](../../../aspose.pdf/defaultstate/)
+* enum [DefaultState](../../defaultstate/)
 * class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

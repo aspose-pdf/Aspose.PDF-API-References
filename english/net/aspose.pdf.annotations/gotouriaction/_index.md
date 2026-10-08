@@ -8,7 +8,7 @@ type: docs
 weight: 470
 url: "/net/aspose.pdf.annotations/gotouriaction/"
 keywords: "GoToURIAction, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GoToURIAction class
 
@@ -22,14 +22,14 @@ public sealed class GoToURIAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [GoToURIAction](./gotouriaction/)(string) | Creates an instance of [`GoToURIAction`](../../aspose.pdf.annotations/gotouriaction/) class. |
+| [GoToURIAction](gotouriaction/)(string) | Creates an instance of `GoToURIAction` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
-| [URI](./uri/) { get; set; } | Gets or sets the uniform resource identifier to resolve. |
+| [URI](../../aspose.pdf.annotations/gotouriaction/uri/) { get; set; } | Gets or sets the uniform resource identifier to resolve. |
 
 ## Methods
 

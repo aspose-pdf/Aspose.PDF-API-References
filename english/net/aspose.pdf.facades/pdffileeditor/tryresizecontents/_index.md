@@ -7,14 +7,11 @@ description: "PdfFileEditor method. Resizes contents of pages of the document."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.facades/pdffileeditor/tryresizecontents/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TryResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#tryresizecontents}
 
 Resizes contents of pages of the document.
-
-The TryResizeContents method is like the ResizeContents method, except the TryResizeContents 
- method does not throw an exception if the operation fails.
 
 ```csharp
 public bool TryResizeContents(Stream source, Stream destination, int[] pages, 
@@ -31,6 +28,11 @@ public bool TryResizeContents(Stream source, Stream destination, int[] pages,
 ### Return Value
 
 Returns true if success.
+
+## Remarks
+
+The TryResizeContents method is like the ResizeContents method, except the TryResizeContents 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -58,18 +60,68 @@ dest.Close();
 
 ### See Also
 
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryResizeContents(string, string, int[], ContentsResizeParameters) {#tryresizecontents_1}
+## TryResizeContents(Stream, Stream, int[], double, double) {#tryresizecontents_1}
 
-Resizes contents of pages in document. If page is shrinked blank margins are added around the page.
+Resizes contents of document pages. 
+ Shrinks contents of page and adds margins.
+ New size of contents is specified in default space units.
+
+```csharp
+public bool TryResizeContents(Stream source, Stream destination, int[] pages, double newWidth, 
+    double newHeight)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| source | Stream | Stream which contains source document. |
+| destination | Stream | Stream where resultant document will be saved. |
+| pages | Int32[] | Array of page indexes. If null then all document pages will be processed. |
+| newWidth | Double | New width of page contents in default space units. |
+| newHeight | Double | New height of page contents in default space units. |
+
+### Return Value
+
+true if operation completed successfully; otherwise, false.
+
+## Remarks
 
 The TryResizeContents method is like the ResizeContents method, except the TryResizeContents 
  method does not throw an exception if the operation fails.
+
+## Examples
+
+```csharp
+PdfFileEditor fileEditor = new PdfFileEditor();
+Stream src = new Stream("input.pdf", FileMode.Open);
+Stream dest = new Stream("output.pdf", FileMode.Create);
+bool result = fileEditor.TryResizeContents(src, dest, 
+//resize all pages of document
+null, 
+//new contents width = 200
+200, 
+//new contents height = 300
+300);
+// rest area of page will be empty
+```
+
+### See Also
+
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TryResizeContents(string, string, int[], ContentsResizeParameters) {#tryresizecontents_2}
+
+Resizes contents of pages in document. If page is shrinked blank margins are added around the page.
 
 ```csharp
 public bool TryResizeContents(string source, string destination, int[] pages, 
@@ -86,6 +138,11 @@ public bool TryResizeContents(string source, string destination, int[] pages,
 ### Return Value
 
 true if resize was successful.
+
+## Remarks
+
+The TryResizeContents method is like the ResizeContents method, except the TryResizeContents 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -110,56 +167,7 @@ bool result = fileEditor.TryResizeContents("input.pdf", "output.pdf", new int[] 
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryResizeContents(Stream, Stream, int[], double, double) {#tryresizecontents_2}
-
-Resizes contents of document pages. 
- Shrinks contents of page and adds margins.
- New size of contents is specified in default space units.
-
-The TryResizeContents method is like the ResizeContents method, except the TryResizeContents 
- method does not throw an exception if the operation fails.
-
-```csharp
-public bool TryResizeContents(Stream source, Stream destination, int[] pages, double newWidth, 
-    double newHeight)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | Stream | Stream which contains source document. |
-| destination | Stream | Stream where resultant document will be saved. |
-| pages | Int32[] | Array of page indexes. If null then all document pages will be processed. |
-| newWidth | Double | New width of page contents in default space units. |
-| newHeight | Double | New height of page contents in default space units. |
-
-### Return Value
-
-true if operation completed successfully; otherwise, false.
-
-## Examples
-
-```csharp
-PdfFileEditor fileEditor = new PdfFileEditor();
-Stream src = new Stream("input.pdf", FileMode.Open);
-Stream dest = new Stream("output.pdf", FileMode.Create);
-bool result = fileEditor.TryResizeContents(src, dest, 
-//resize all pages of document
-null, 
-//new contents width = 200
-200, 
-//new contents height = 300
-300);
-// rest area of page will be empty
-```
-
-### See Also
-
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

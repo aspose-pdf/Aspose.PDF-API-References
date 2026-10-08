@@ -7,7 +7,7 @@ description: "FileResponse property. Gets or sets the Unix timestamp (in seconds
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/fileresponse/createdat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileResponse.CreatedAt property
 

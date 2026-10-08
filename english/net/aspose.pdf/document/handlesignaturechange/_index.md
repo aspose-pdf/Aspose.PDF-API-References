@@ -7,7 +7,7 @@ description: "Document property. Throw Exception if the document will save with 
 type: docs
 weight: 1480
 url: "/net/aspose.pdf/document/handlesignaturechange/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.HandleSignatureChange property
 

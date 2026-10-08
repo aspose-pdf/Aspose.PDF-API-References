@@ -7,7 +7,7 @@ description: "PdfFileStamp property. Gets or sets optimization flag. Equal resou
 type: docs
 weight: 270
 url: "/net/aspose.pdf.facades/pdffilestamp/optimizesize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileStamp.OptimizeSize property
 

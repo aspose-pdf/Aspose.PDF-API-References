@@ -7,7 +7,7 @@ description: "PageRange property. Gets or sets the setting for even pages."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pagerange/even/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageRange.Even property
 

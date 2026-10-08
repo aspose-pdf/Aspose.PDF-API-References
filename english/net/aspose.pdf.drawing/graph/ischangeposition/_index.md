@@ -7,7 +7,7 @@ description: "Graph property. Gets or sets change curret position after process 
 type: docs
 weight: 50
 url: "/net/aspose.pdf.drawing/graph/ischangeposition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Graph.IsChangePosition property
 

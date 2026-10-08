@@ -7,7 +7,7 @@ description: "PdfConverter property. Gets or sets document OwnerPassword."
 type: docs
 weight: 610
 url: "/net/aspose.pdf.facades/pdfconverter/password/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfConverter.Password property
 

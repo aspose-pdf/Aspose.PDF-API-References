@@ -7,7 +7,7 @@ description: "TextDocument property. Gets or sets the name of the text document.
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/textdocument/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextDocument.Name property
 

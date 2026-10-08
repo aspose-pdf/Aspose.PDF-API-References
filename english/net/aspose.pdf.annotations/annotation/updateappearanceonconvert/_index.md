@@ -7,7 +7,7 @@ description: "Annotation property. If true, annotation appearance will be update
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/annotation/updateappearanceonconvert/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.UpdateAppearanceOnConvert property
 

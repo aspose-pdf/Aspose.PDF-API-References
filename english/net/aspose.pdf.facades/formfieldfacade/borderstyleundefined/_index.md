@@ -7,7 +7,7 @@ description: "FormFieldFacade field. Undefined border style."
 type: docs
 weight: 300
 url: "/net/aspose.pdf.facades/formfieldfacade/borderstyleundefined/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.BorderStyleUndefined field
 

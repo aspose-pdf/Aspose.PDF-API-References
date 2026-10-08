@@ -7,7 +7,7 @@ description: "PdfFileEditor property. If true, user rights of first document are
 type: docs
 weight: 1070
 url: "/net/aspose.pdf.facades/pdffileeditor/preserveuserrights/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.PreserveUserRights property
 

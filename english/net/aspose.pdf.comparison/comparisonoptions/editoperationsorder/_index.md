@@ -7,7 +7,7 @@ description: "ComparisonOptions property. Gets and sets the edit operations orde
 type: docs
 weight: 60
 url: "/net/aspose.pdf.comparison/comparisonoptions/editoperationsorder/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ComparisonOptions.EditOperationsOrder property
 
@@ -19,7 +19,7 @@ public EditOperationsOrder EditOperationsOrder { get; set; }
 
 ### See Also
 
-* enum [EditOperationsOrder](../../../aspose.pdf.comparison/editoperationsorder/)
+* enum [EditOperationsOrder](../../editoperationsorder/)
 * class [ComparisonOptions](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

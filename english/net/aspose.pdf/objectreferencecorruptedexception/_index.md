@@ -8,7 +8,7 @@ type: docs
 weight: 1940
 url: "/net/aspose.pdf/objectreferencecorruptedexception/"
 keywords: "ObjectReferenceCorruptedException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ObjectReferenceCorruptedException class
 
@@ -18,12 +18,6 @@ Represents an exception that is thrown when an object reference
 ```csharp
 public class ObjectReferenceCorruptedException : PdfException
 ```
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
 
 ### See Also
 

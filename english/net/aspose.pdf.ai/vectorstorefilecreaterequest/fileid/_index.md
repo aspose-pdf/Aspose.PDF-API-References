@@ -7,7 +7,7 @@ description: "VectorStoreFileCreateRequest property. Gets or sets a File ID that
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/vectorstorefilecreaterequest/fileid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileCreateRequest.FileId property
 

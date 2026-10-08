@@ -7,7 +7,7 @@ description: "BoundsCheckableList constructor. Initializes a new instance of the
 type: docs
 weight: 10
 url: "/net/aspose.pdf/boundscheckablelist-1/boundscheckablelist/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BoundsCheckableList() {#constructor}
 
@@ -19,13 +19,13 @@ public BoundsCheckableList()
 
 ### See Also
 
-* class [BoundsCheckableList<T>](../)
+* class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## BoundsCheckableList([BoundsCheckMode](../../../aspose.pdf/boundscheckmode/), double, double) {#constructor_1}
+## BoundsCheckableList(BoundsCheckMode, double, double) {#constructor_1}
 
 Initializes a new instance of the BoundsCheckableList class.
 
@@ -42,8 +42,8 @@ public BoundsCheckableList(BoundsCheckMode boundsCheckMode, double containerWidt
 
 ### See Also
 
-* enum [BoundsCheckMode](../../../aspose.pdf/boundscheckmode/)
-* class [BoundsCheckableList<T>](../)
+* enum [BoundsCheckMode](../../boundscheckmode/)
+* class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

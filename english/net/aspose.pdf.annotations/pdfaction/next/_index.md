@@ -7,7 +7,7 @@ description: "PdfAction property. Next actions in sequence."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/pdfaction/next/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAction.Next property
 
@@ -19,7 +19,7 @@ public ActionCollection Next { get; }
 
 ### See Also
 
-* class [ActionCollection](../../../aspose.pdf.annotations/actioncollection/)
+* class [ActionCollection](../../actioncollection/)
 * class [PdfAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

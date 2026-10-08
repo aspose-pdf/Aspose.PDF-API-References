@@ -7,7 +7,7 @@ description: "IOpenAIClient method. Modifies an existing run within a thread asy
 type: docs
 weight: 180
 url: "/net/aspose.pdf.ai/iopenaiclient/modifyrunasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOpenAIClient.ModifyRunAsync method
 
@@ -33,12 +33,13 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread Id is null or empty. |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the run Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the thread Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the run Id is null or empty. |
 
 ### See Also
 
-* class [RunModifyRequest](../../../aspose.pdf.ai/runmodifyrequest/)
+* class [RunResponse](../../runresponse/)
+* class [RunModifyRequest](../../runmodifyrequest/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

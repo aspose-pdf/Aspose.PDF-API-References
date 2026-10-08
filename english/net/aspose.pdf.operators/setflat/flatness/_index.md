@@ -7,7 +7,7 @@ description: "SetFlat property. Gets or sets the flatness."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setflat/flatness/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetFlat.Flatness property
 

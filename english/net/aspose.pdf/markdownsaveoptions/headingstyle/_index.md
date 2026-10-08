@@ -7,7 +7,7 @@ description: "MarkdownSaveOptions property. Gets or sets the heading style for g
 type: docs
 weight: 90
 url: "/net/aspose.pdf/markdownsaveoptions/headingstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkdownSaveOptions.HeadingStyle property
 
@@ -19,7 +19,7 @@ public HeadingStyle HeadingStyle { get; set; }
 
 ### See Also
 
-* enum [HeadingStyle](../../../aspose.pdf/headingstyle/)
+* enum [HeadingStyle](../../headingstyle/)
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

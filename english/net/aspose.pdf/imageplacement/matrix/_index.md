@@ -7,7 +7,7 @@ description: "ImagePlacement property. Current transformation matrix for this im
 type: docs
 weight: 50
 url: "/net/aspose.pdf/imageplacement/matrix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagePlacement.Matrix property
 
@@ -19,7 +19,7 @@ public Matrix Matrix { get; }
 
 ### See Also
 
-* class [Matrix](../../../aspose.pdf/matrix/)
+* class [Matrix](../../matrix/)
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

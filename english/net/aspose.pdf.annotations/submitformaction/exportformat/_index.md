@@ -7,7 +7,7 @@ description: "SubmitFormAction field. If set, field names and values shall be su
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/submitformaction/exportformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SubmitFormAction.ExportFormat field
 

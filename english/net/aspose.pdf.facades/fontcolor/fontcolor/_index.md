@@ -7,25 +7,9 @@ description: "FontColor constructor. Initializes color with specified color comp
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/fontcolor/fontcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## FontColor() {#constructor}
-
-Initializes color.
-
-```csharp
-public FontColor()
-```
-
-### See Also
-
-* class [FontColor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## FontColor(int, int, int) {#constructor_1}
+## FontColor(int, int, int) {#constructor}
 
 Initializes color with specified color components.
 
@@ -38,6 +22,22 @@ public FontColor(int r, int g, int b)
 | r | Int32 | Red component. |
 | g | Int32 | Green component. |
 | b | Int32 | Blue component. |
+
+### See Also
+
+* class [FontColor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## FontColor() {#constructor_1}
+
+Initializes color.
+
+```csharp
+public FontColor()
+```
 
 ### See Also
 

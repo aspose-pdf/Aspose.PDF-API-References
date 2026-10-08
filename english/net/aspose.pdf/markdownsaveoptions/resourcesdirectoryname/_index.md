@@ -7,7 +7,7 @@ description: "MarkdownSaveOptions property. Gets and sets the directory name to 
 type: docs
 weight: 50
 url: "/net/aspose.pdf/markdownsaveoptions/resourcesdirectoryname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkdownSaveOptions.ResourcesDirectoryName property
 

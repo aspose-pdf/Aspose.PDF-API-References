@@ -7,7 +7,7 @@ description: "PdfDocument property. Gets or sets the name of the PDF document. G
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/pdfdocument/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfDocument.Name property
 

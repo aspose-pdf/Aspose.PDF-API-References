@@ -1,5 +1,5 @@
 ---
-title: "PdfASymbolicFontEncodingStrategy.QueueItem.PdfASymbolicFontEncodingStrategy.QueueItem"
+title: "PdfASymbolicFontEncodingStrategy.QueueItem.QueueItem"
 linktitle: "PdfASymbolicFontEncodingStrategy.QueueItem"
 articleTitle: "PdfASymbolicFontEncodingStrategy.QueueItem"
 second_title: "Aspose.PDF for .NET API Reference"
@@ -7,7 +7,7 @@ description: "QueueItem constructor. Constructor, specifies mac subtable(1,0) by
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/queueitem/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## QueueItem() {#constructor}
 
@@ -19,33 +19,13 @@ public QueueItem()
 
 ### See Also
 
-* class [PdfASymbolicFontEncodingStrategy.QueueItem](../)
+* class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## QueueItem(CMapEncodingTableType) {#constructor_1}
-
-Constructor
-
-```csharp
-public QueueItem(CMapEncodingTableType cmapTable)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| cmapTable | CMapEncodingTableType | encoding subtable |
-
-### See Also
-
-* class [PdfASymbolicFontEncodingStrategy.QueueItem](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## QueueItem(ushort, ushort) {#constructor_2}
+## QueueItem(ushort, ushort) {#constructor_1}
 
 Constructor
 
@@ -60,7 +40,28 @@ public QueueItem(ushort platformID, ushort platformSpecificID)
 
 ### See Also
 
-* class [PdfASymbolicFontEncodingStrategy.QueueItem](../)
+* class [QueueItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## QueueItem(CMapEncodingTableType) {#constructor_2}
+
+Constructor
+
+```csharp
+public QueueItem(CMapEncodingTableType cmapTable)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| cmapTable | CMapEncodingTableType | encoding subtable |
+
+### See Also
+
+* enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
+* class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

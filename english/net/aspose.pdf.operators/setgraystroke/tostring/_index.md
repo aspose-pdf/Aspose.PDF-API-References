@@ -7,7 +7,7 @@ description: "SetGrayStroke method. Returns text representation of operator."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/setgraystroke/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetGrayStroke.ToString method
 

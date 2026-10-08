@@ -7,7 +7,7 @@ description: "TextMarkupAnnotation property. Gets or sets an array of points spe
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/textmarkupannotation/quadpoints/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextMarkupAnnotation.QuadPoints property
 

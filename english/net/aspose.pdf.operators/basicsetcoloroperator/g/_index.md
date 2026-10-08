@@ -7,7 +7,7 @@ description: "BasicSetColorOperator property. Gets green component of color"
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/basicsetcoloroperator/g/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BasicSetColorOperator.G property
 

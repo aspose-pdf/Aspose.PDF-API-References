@@ -7,7 +7,7 @@ description: "CollectionField property. Gets the initial visibility of the field
 type: docs
 weight: 50
 url: "/net/aspose.pdf/collectionfield/v/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionField.V property
 

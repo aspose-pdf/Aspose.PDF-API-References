@@ -7,7 +7,7 @@ description: "Heading property. Gets or sets user label."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/heading/userlabel/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Heading.UserLabel property
 

@@ -7,7 +7,7 @@ description: "SetColor property. Gets or sets the black component."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.operators/setcolor/k/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColor.K property
 

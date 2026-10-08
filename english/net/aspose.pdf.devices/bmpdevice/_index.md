@@ -8,7 +8,7 @@ type: docs
 weight: 20
 url: "/net/aspose.pdf.devices/bmpdevice/"
 keywords: "BmpDevice, Aspose.Pdf.Devices, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BmpDevice class
 
@@ -22,12 +22,12 @@ public sealed class BmpDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [BmpDevice](./bmpdevice/#constructor)() | Initializes a new instance of the [`BmpDevice`](../../aspose.pdf.devices/bmpdevice/) class with default resolution. |
-| [BmpDevice](./bmpdevice/#constructor_1)(PageSize) | Initializes a new instance of the [`BmpDevice`](../../aspose.pdf.devices/bmpdevice/) class with provided page size, default resolution (=150). |
-| [BmpDevice](./bmpdevice/#constructor_2)(Resolution) | Initializes a new instance of the [`BmpDevice`](../../aspose.pdf.devices/bmpdevice/) class. |
-| [BmpDevice](./bmpdevice/#constructor_3)(int, int) | Initializes a new instance of the [`BmpDevice`](../../aspose.pdf.devices/bmpdevice/) class with provided image dimensions, default resolution (=150). |
-| [BmpDevice](./bmpdevice/#constructor_4)(PageSize, Resolution) | Initializes a new instance of the [`BmpDevice`](../../aspose.pdf.devices/bmpdevice/) class with provided page size and resolution. |
-| [BmpDevice](./bmpdevice/#constructor_5)(int, int, Resolution) | Initializes a new instance of the [`BmpDevice`](../../aspose.pdf.devices/bmpdevice/) class with provided image dimensions and resolution. |
+| [BmpDevice](bmpdevice/#constructor)() | Initializes a new instance of the `BmpDevice` class with default resolution. |
+| [BmpDevice](bmpdevice/#constructor_1)(Resolution) | Initializes a new instance of the `BmpDevice` class. Resolution for the result image file, see [`Resolution`](../resolution/) class. |
+| [BmpDevice](bmpdevice/#constructor_2)(int, int, Resolution) | Initializes a new instance of the `BmpDevice` class with provided image dimensions and resolution. |
+| [BmpDevice](bmpdevice/#constructor_3)(PageSize, Resolution) | Initializes a new instance of the `BmpDevice` class with provided page size and resolution. |
+| [BmpDevice](bmpdevice/#constructor_4)(int, int) | Initializes a new instance of the `BmpDevice` class with provided image dimensions, default resolution (=150). |
+| [BmpDevice](bmpdevice/#constructor_5)(PageSize) | Initializes a new instance of the `BmpDevice` class with provided page size, default resolution (=150). |
 
 ## Properties
 
@@ -44,8 +44,9 @@ public sealed class BmpDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Converts the page into `Bitmap`. |
-| override [Process](./process/)(Page, Stream) | Converts the page into bmp and saves it in the output stream. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Converts the page into Bitmap. |
+| override [Process](../../aspose.pdf.devices/bmpdevice/process/)(Page, Stream) | Converts the page into bmp and saves it in the output stream. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
 
 ### See Also
 

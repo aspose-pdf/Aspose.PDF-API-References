@@ -7,21 +7,24 @@ description: "PdfViewer event. Occurs when the printing of a page ends in the Pd
 type: docs
 weight: 540
 url: "/net/aspose.pdf.facades/pdfviewer/endpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.EndPage event
 
 Occurs when the printing of a page ends in the PdfViewer.
 
-This event is triggered after a page has been processed in the PdfViewer. It can be used to perform actions or updates
- after the printing of a page.
-
 ```csharp
 public event EventHandler<StartEndPageEventArgs> EndPage;
 ```
 
+## Remarks
+
+This event is triggered after a page has been processed in the PdfViewer. It can be used to perform actions or updates
+ after the printing of a page.
+
 ### See Also
 
+* class [StartEndPageEventArgs](../../../aspose.pdf.printing/startendpageeventargs/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

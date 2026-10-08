@@ -7,7 +7,7 @@ description: "ThreadMessageResponse property. Gets or sets the entity that produ
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/threadmessageresponse/role/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadMessageResponse.Role property
 

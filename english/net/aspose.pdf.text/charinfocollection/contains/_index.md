@@ -7,7 +7,7 @@ description: "CharInfoCollection method. Determines whether the collection conta
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/charinfocollection/contains/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CharInfoCollection.Contains method
 
@@ -27,7 +27,7 @@ true if item is found in the collection; otherwise, false.
 
 ### See Also
 
-* class [CharInfo](../../../aspose.pdf.text/charinfo/)
+* class [CharInfo](../../charinfo/)
 * class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

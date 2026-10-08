@@ -7,7 +7,7 @@ description: "HiddenDataSanitizer constructor. Provides functionality to sanitiz
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizer/hiddendatasanitizer/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HiddenDataSanitizer constructor
 
@@ -24,7 +24,7 @@ public HiddenDataSanitizer(HiddenDataSanitizationOptions options)
 
 ### See Also
 
-* class [HiddenDataSanitizationOptions](../../../aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/)
+* class [HiddenDataSanitizationOptions](../../hiddendatasanitizationoptions/)
 * class [HiddenDataSanitizer](../)
 * namespace [Aspose.Pdf.Security.HiddenDataSanitization](../../../aspose.pdf.security.hiddendatasanitization/)
 * assembly [Aspose.PDF](../../../)

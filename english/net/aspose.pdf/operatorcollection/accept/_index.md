@@ -7,7 +7,7 @@ description: "OperatorCollection method. Accepts IOperatorSelector visitor objec
 type: docs
 weight: 30
 url: "/net/aspose.pdf/operatorcollection/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OperatorCollection.Accept method
 
@@ -23,7 +23,7 @@ public void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* interface [IOperatorSelector](../../ioperatorselector/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

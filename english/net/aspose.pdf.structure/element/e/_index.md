@@ -7,7 +7,7 @@ description: "Element property. (Optional; PDF 1.5) The expanded form of an abbr
 type: docs
 weight: 60
 url: "/net/aspose.pdf.structure/element/e/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Element.E property
 

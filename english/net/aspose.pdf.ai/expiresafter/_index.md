@@ -8,7 +8,7 @@ type: docs
 weight: 370
 url: "/net/aspose.pdf.ai/expiresafter/"
 keywords: "ExpiresAfter, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExpiresAfter class
 
@@ -22,14 +22,14 @@ public class ExpiresAfter
 
 | Name | Description |
 | --- | --- |
-| [ExpiresAfter](./expiresafter/)() | The default constructor. |
+| [ExpiresAfter](expiresafter/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Anchor](./anchor/) { get; set; } | Gets or sets the anchor timestamp after which the expiration policy applies. Supported anchors: last_active_at. |
-| [Days](./days/) { get; set; } | Gets or sets the number of days after the anchor time that the vector store will expire. |
+| [Anchor](../../aspose.pdf.ai/expiresafter/anchor/) { get; set; } | Gets or sets the anchor timestamp after which the expiration policy applies. Supported anchors: last_active_at. |
+| [Days](../../aspose.pdf.ai/expiresafter/days/) { get; set; } | Gets or sets the number of days after the anchor time that the vector store will expire. |
 
 ### See Also
 

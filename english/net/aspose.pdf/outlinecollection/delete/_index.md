@@ -7,7 +7,7 @@ description: "OutlineCollection method. Deletes all outline items from the docum
 type: docs
 weight: 20
 url: "/net/aspose.pdf/outlinecollection/delete/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Delete() {#delete}
 

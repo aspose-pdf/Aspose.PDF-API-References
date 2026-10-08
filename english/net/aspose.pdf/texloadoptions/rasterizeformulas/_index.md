@@ -7,7 +7,7 @@ description: "TeXLoadOptions property. Gets/sets a flag that allows to rasterize
 type: docs
 weight: 120
 url: "/net/aspose.pdf/texloadoptions/rasterizeformulas/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXLoadOptions.RasterizeFormulas property
 

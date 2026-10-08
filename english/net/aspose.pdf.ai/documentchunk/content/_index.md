@@ -7,7 +7,7 @@ description: "DocumentChunk property. Gets the text content of the chunk."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/documentchunk/content/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentChunk.Content property
 

@@ -7,7 +7,7 @@ description: "CurveTo2 property. Points of the curve."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/curveto2/points/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CurveTo2.Points property
 

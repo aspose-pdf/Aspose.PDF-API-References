@@ -8,11 +8,11 @@ type: docs
 weight: 820
 url: "/net/aspose.pdf.lowcode/security/"
 keywords: "Security, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Security class
 
-Represents [`Security`](../../aspose.pdf.lowcode/security/) plugin.
+Represents [`Security`](../security/) plugin.
 
 ```csharp
 public sealed class Security : IPlugin
@@ -54,16 +54,17 @@ plugin.Process(opt);
 
 | Name | Description |
 | --- | --- |
-| [Security](./security/)() | The default constructor. |
+| [Security](security/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(IPluginOptions) | Starts the [`Security`](../../aspose.pdf.lowcode/security/) processing with the specified parameters. |
+| [Process](../../aspose.pdf.lowcode/security/process/)(IPluginOptions) | Starts the `Security` processing with the specified parameters. |
 
 ### See Also
 
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

@@ -7,7 +7,7 @@ description: "Stamp property. Desired width of the stamp on the page."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/stamp/width/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.Width property
 

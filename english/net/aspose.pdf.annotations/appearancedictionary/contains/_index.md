@@ -7,7 +7,7 @@ description: "AppearanceDictionary method. Checks does specified key-value pair 
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/appearancedictionary/contains/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AppearanceDictionary.Contains method
 
@@ -27,6 +27,7 @@ true if this pauir was found.
 
 ### See Also
 
+* class [XForm](../../../aspose.pdf/xform/)
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

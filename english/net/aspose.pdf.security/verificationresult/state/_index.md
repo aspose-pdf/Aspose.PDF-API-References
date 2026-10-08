@@ -7,7 +7,7 @@ description: "VerificationResult property. Represents the verification state of 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/verificationresult/state/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VerificationResult.State property
 
@@ -20,7 +20,7 @@ public VerificationState State { get; }
 
 ### See Also
 
-* enum [VerificationState](../../../aspose.pdf.security/verificationstate/)
+* enum [VerificationState](../../verificationstate/)
 * class [VerificationResult](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)

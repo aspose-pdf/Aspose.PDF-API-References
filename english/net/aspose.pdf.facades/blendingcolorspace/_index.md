@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Facades.BlendingColorSpace enum. Class represents blend
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/blendingcolorspace/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BlendingColorSpace enumeration
 

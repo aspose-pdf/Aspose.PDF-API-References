@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Security.VerificationState enum. Specifies the state of
 type: docs
 weight: 240
 url: "/net/aspose.pdf.security/verificationstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VerificationState enumeration
 
@@ -21,12 +21,9 @@ public enum VerificationState
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Valid | `0` | Represents a state indicating that the digital signature verification process has
- completed successfully, and the signature is valid. |
-| Invalid | `1` | Represents a state indicating that the digital signature verification process has
- failed, and the signature is deemed invalid. |
-| Undefined | `2` | Represents a state where the outcome of the digital signature verification process
- is not determined. |
+| Valid | `0` | Represents a state indicating that the digital signature verification process has completed successfully, and the signature is valid. |
+| Invalid | `1` | Represents a state indicating that the digital signature verification process has failed, and the signature is deemed invalid. |
+| Undefined | `2` | Represents a state where the outcome of the digital signature verification process is not determined. |
 
 ### See Also
 

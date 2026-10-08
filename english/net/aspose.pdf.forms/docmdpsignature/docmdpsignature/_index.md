@@ -7,11 +7,11 @@ description: "DocMDPSignature constructor. Initializes a new instance of the Doc
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/docmdpsignature/docmdpsignature/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocMDPSignature constructor
 
-Initializes a new instance of the [`DocMDPSignature`](../../../aspose.pdf.forms/docmdpsignature/) class.
+Initializes a new instance of the [`DocMDPSignature`](../) class.
 
 ```csharp
 public DocMDPSignature(Signature signature, DocMDPAccessPermissions accessPermissions)
@@ -24,8 +24,8 @@ public DocMDPSignature(Signature signature, DocMDPAccessPermissions accessPermis
 
 ### See Also
 
-* class [Signature](../../../aspose.pdf.lowcode/signature/)
-* enum [DocMDPAccessPermissions](../../../aspose.pdf.forms/docmdpaccesspermissions/)
+* class [Signature](../../signature/)
+* enum [DocMDPAccessPermissions](../../docmdpaccesspermissions/)
 * class [DocMDPSignature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

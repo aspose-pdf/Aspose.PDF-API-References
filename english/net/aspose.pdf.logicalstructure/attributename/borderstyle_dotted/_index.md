@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute BorderStyle: Dotted - The border is
 type: docs
 weight: 150
 url: "/net/aspose.pdf.logicalstructure/attributename/borderstyle_dotted/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.BorderStyle_Dotted field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName BorderStyle_Dotted;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

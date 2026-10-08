@@ -7,11 +7,11 @@ description: "PDF3DCuttingPlaneOrientation constructor. Initializes a new instan
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/pdf3dcuttingplaneorientation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DCuttingPlaneOrientation() {#constructor}
 
-Initializes a new instance of the [`PDF3DCuttingPlaneOrientation`](../../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/) class.
+Initializes a new instance of the [`PDF3DCuttingPlaneOrientation`](../) class.
 
 ```csharp
 public PDF3DCuttingPlaneOrientation()
@@ -27,7 +27,7 @@ public PDF3DCuttingPlaneOrientation()
 
 ## PDF3DCuttingPlaneOrientation(double?, double?, double?) {#constructor_1}
 
-Initializes a new instance of the [`PDF3DCuttingPlaneOrientation`](../../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/) class.
+Initializes a new instance of the [`PDF3DCuttingPlaneOrientation`](../) class.
 
 ```csharp
 public PDF3DCuttingPlaneOrientation(double? angleX, double? angleY, double? angleZ)

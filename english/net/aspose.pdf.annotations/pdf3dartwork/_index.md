@@ -8,7 +8,7 @@ type: docs
 weight: 780
 url: "/net/aspose.pdf.annotations/pdf3dartwork/"
 keywords: "PDF3DArtwork, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DArtwork class
 
@@ -22,23 +22,23 @@ public class PDF3DArtwork
 
 | Name | Description |
 | --- | --- |
-| [PDF3DArtwork](./pdf3dartwork/#constructor)(Document, PDF3DContent) | Initializes a new instance of the [`PDF3DArtwork`](../../aspose.pdf.annotations/pdf3dartwork/) class. |
-| [PDF3DArtwork](./pdf3dartwork/#constructor_1)(Document, PDF3DContent, PDF3DLightingScheme, PDF3DRenderMode) | Initializes a new instance of the [`PDF3DArtwork`](../../aspose.pdf.annotations/pdf3dartwork/) class. |
+| [PDF3DArtwork](pdf3dartwork/#constructor)(Document, PDF3DContent, PDF3DLightingScheme, PDF3DRenderMode) | Initializes a new instance of the `PDF3DArtwork` class. |
+| [PDF3DArtwork](pdf3dartwork/#constructor_1)(Document, PDF3DContent) | Initializes a new instance of the `PDF3DArtwork` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [LightingScheme](./lightingscheme/) { get; set; } | Gets or sets the lighting scheme. |
-| [RenderMode](./rendermode/) { get; set; } | Gets or sets the render mode. |
-| [ViewArray](./viewarray/) { get; } | Gets the view array. |
+| [LightingScheme](../../aspose.pdf.annotations/pdf3dartwork/lightingscheme/) { get; set; } | Gets or sets the lighting scheme. |
+| [RenderMode](../../aspose.pdf.annotations/pdf3dartwork/rendermode/) { get; set; } | Gets or sets the render mode. |
+| [ViewArray](../../aspose.pdf.annotations/pdf3dartwork/viewarray/) { get; } | Gets the view array. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetViewsArray](./getviewsarray/)() | Gets the views array. |
-| [GetViewsList](./getviewslist/)() | Get the views as list. |
+| [GetViewsArray](../../aspose.pdf.annotations/pdf3dartwork/getviewsarray/)() | Gets the views array. |
+| [GetViewsList](../../aspose.pdf.annotations/pdf3dartwork/getviewslist/)() | Get the views as list. |
 
 ### See Also
 

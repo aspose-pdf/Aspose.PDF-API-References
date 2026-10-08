@@ -7,7 +7,7 @@ description: "PaperSource property. Gets or sets a value indicating the type of 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.printing/papersource/kind/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSource.Kind property
 
@@ -19,7 +19,7 @@ public PaperSourceKind Kind { get; set; }
 
 ### See Also
 
-* enum [PaperSourceKind](../../../aspose.pdf.printing/papersourcekind/)
+* enum [PaperSourceKind](../../papersourcekind/)
 * class [PaperSource](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

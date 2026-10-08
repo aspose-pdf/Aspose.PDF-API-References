@@ -8,7 +8,7 @@ type: docs
 weight: 3270
 url: "/net/aspose.pdf/xmppdfaextensionproperty/"
 keywords: "XmpPdfAExtensionProperty, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionProperty class
 
@@ -23,13 +23,13 @@ public sealed class XmpPdfAExtensionProperty : XmpPdfAExtensionField
 
 | Name | Description |
 | --- | --- |
-| [XmpPdfAExtensionProperty](./xmppdfaextensionproperty/)(string, string, string, XmpPdfAExtensionCategoryType, string) | Initializes new object. |
+| [XmpPdfAExtensionProperty](xmppdfaextensionproperty/)(string, string, string, XmpPdfAExtensionCategoryType, string) | Initializes new object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Category](./category/) { get; } | Gets the property category. |
+| [Category](../../aspose.pdf/xmppdfaextensionproperty/category/) { get; } | Gets the property category. |
 | [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Gets the description. |
 | [Name](../../aspose.pdf/xmppdfaextensionfield/name/) { get; } | Field name. Field names must be valid XML element names. |
 | [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Gets or sets the value. |
@@ -39,7 +39,7 @@ public sealed class XmpPdfAExtensionProperty : XmpPdfAExtensionField
 
 | Name | Description |
 | --- | --- |
-| override [GetXml](./getxml/)(XmlDocument) | Returns the list of xml elements that represent property in xml tree. |
+| override [GetXml](../../aspose.pdf/xmppdfaextensionproperty/getxml/)(XmlDocument) | Returns the list of xml elements that represent property in xml tree. |
 
 ### See Also
 

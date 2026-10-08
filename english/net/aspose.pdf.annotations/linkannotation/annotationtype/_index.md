@@ -7,7 +7,7 @@ description: "LinkAnnotation property. Gets type of annotation."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/linkannotation/annotationtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LinkAnnotation.AnnotationType property
 
@@ -19,7 +19,7 @@ public override AnnotationType AnnotationType { get; }
 
 ### See Also
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* enum [AnnotationType](../../annotationtype/)
 * class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

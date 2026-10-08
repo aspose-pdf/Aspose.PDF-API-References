@@ -7,7 +7,7 @@ description: "FolderFontSource property. Path to the folder that contains font f
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/folderfontsource/folderpath/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FolderFontSource.FolderPath property
 

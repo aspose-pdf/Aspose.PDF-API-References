@@ -7,7 +7,7 @@ description: "MovieAnnotation property. Gets or sets a flag or stream specifying
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/movieannotation/poster/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MovieAnnotation.Poster property
 

@@ -7,7 +7,7 @@ description: "LlamaCopilotOptionsBase property. Gets or sets the file path for t
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/llamacopilotoptionsbase/systeminstructions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaCopilotOptionsBase.SystemInstructions property
 

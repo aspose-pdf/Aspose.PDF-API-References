@@ -7,7 +7,7 @@ description: "Matrix property. Gets data of Matrix as array."
 type: docs
 weight: 250
 url: "/net/aspose.pdf/matrix/data/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix.Data property
 

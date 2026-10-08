@@ -7,7 +7,7 @@ description: "IOpenAIClient method. Retrieves a list of runs for a specified thr
 type: docs
 weight: 160
 url: "/net/aspose.pdf.ai/iopenaiclient/getrunsasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOpenAIClient.GetRunsAsync method
 
@@ -32,11 +32,12 @@ A task that represents the asynchronous operation. The task result contains a li
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the thread Id is null or empty. |
 
 ### See Also
 
-* class [RunListQueryParameters](../../../aspose.pdf.ai/runlistqueryparameters/)
+* class [RunListResponse](../../runlistresponse/)
+* class [RunListQueryParameters](../../runlistqueryparameters/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

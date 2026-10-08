@@ -7,7 +7,7 @@ description: "DefaultAppearance property. Gets font specified as default for tex
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/defaultappearance/font/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DefaultAppearance.Font property
 

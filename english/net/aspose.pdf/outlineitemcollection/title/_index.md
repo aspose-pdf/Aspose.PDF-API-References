@@ -7,7 +7,7 @@ description: "OutlineItemCollection property. Gets or sets the title for this ou
 type: docs
 weight: 120
 url: "/net/aspose.pdf/outlineitemcollection/title/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.Title property
 

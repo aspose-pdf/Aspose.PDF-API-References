@@ -7,7 +7,7 @@ description: "Facade method. Disposes the facade."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/facade/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Facade.Dispose method
 

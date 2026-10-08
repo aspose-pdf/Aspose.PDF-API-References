@@ -7,20 +7,20 @@ description: "PdfJavaScriptStripper method. Remove Java Script from document."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/pdfjavascriptstripper/strip/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Strip(Stream, Stream) {#strip}
+## Strip(string, string) {#strip}
 
-Remove Java Script from the document.
+Remove Java Script from document.
 
 ```csharp
-public bool Strip(Stream inStream, Stream outStream)
+public bool Strip(string inputFile, string outputFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inStream | Stream | Stream containing document. |
-| outStream | Stream | Stream where the document will be stored. |
+| inputFile | String | File containig the document. |
+| outputFile | String | File where document will be stored. |
 
 ### Return Value
 
@@ -34,18 +34,18 @@ true if JavaScript was stripped successfully.
 
 ---
 
-## Strip(string, string) {#strip_1}
+## Strip(Stream, Stream) {#strip_1}
 
-Remove Java Script from document.
+Remove Java Script from the document.
 
 ```csharp
-public bool Strip(string inputFile, string outputFile)
+public bool Strip(Stream inStream, Stream outStream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | String | File containig the document. |
-| outputFile | String | File where document will be stored. |
+| inStream | Stream | Stream containing document. |
+| outStream | Stream | Stream where the document will be stored. |
 
 ### Return Value
 

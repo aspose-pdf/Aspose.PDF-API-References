@@ -7,7 +7,7 @@ description: "AttributeKey field. Width attribute (Layout attribute owner)."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.logicalstructure/attributekey/width/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.Width field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey Width;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

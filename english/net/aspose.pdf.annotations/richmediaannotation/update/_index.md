@@ -7,7 +7,7 @@ description: "RichMediaAnnotation method. Updates data with specified parameters
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/richmediaannotation/update/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RichMediaAnnotation.Update method
 

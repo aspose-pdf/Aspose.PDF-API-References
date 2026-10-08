@@ -7,7 +7,7 @@ description: "Element method. Clear all childs."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.logicalstructure/element/clearchilds/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Element.ClearChilds method
 

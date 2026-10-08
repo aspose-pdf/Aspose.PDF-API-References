@@ -7,7 +7,7 @@ description: "ImportDataAction property. The FDF file from which to import the d
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/importdataaction/data/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImportDataAction.Data property
 

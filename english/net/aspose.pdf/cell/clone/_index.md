@@ -7,7 +7,7 @@ description: "Cell method. Clone the cell."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/cell/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Cell.Clone method
 

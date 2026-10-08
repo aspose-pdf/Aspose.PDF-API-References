@@ -7,7 +7,7 @@ description: "XFormCollection property. Gets a value indicating whether the coll
 type: docs
 weight: 150
 url: "/net/aspose.pdf/xformcollection/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFormCollection.IsReadOnly property
 

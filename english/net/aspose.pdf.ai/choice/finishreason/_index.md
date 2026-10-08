@@ -7,7 +7,7 @@ description: "Choice property. Gets or sets the reason the model stopped generat
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/choice/finishreason/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Choice.FinishReason property
 

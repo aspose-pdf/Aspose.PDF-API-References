@@ -7,11 +7,11 @@ description: "NumberField constructor. Initializes a new instance of the NumberF
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/numberfield/numberfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## NumberField() {#constructor}
 
-Initializes a new instance of the [`NumberField`](../../../aspose.pdf.forms/numberfield/) class.
+Initializes a new instance of the [`NumberField`](../) class.
 
 ```csharp
 public NumberField()
@@ -25,32 +25,9 @@ public NumberField()
 
 ---
 
-## NumberField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
+## NumberField(Page, Rectangle) {#constructor_1}
 
-Initializes a new instance of the [`NumberField`](../../../aspose.pdf.forms/numberfield/) class.
-
-```csharp
-public NumberField(Document doc, Rectangle rect)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Document where field will be created. |
-| rect | Rectangle | Rectangle of the field. |
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [NumberField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## NumberField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_2}
-
-Initializes a new instance of the [`NumberField`](../../../aspose.pdf.forms/numberfield/) class.
+Initializes a new instance of the [`NumberField`](../) class.
 
 ```csharp
 public NumberField(Page page, Rectangle rect)
@@ -64,7 +41,30 @@ public NumberField(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [NumberField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## NumberField(Document, Rectangle) {#constructor_2}
+
+Initializes a new instance of the [`NumberField`](../) class.
+
+```csharp
+public NumberField(Document doc, Rectangle rect)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | Document where field will be created. |
+| rect | Rectangle | Rectangle of the field. |
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [NumberField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

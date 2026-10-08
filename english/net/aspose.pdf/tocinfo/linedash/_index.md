@@ -7,7 +7,7 @@ description: "TocInfo property. Gets or sets TOC line dash."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/tocinfo/linedash/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TocInfo.LineDash property
 

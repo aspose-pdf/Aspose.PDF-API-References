@@ -7,7 +7,7 @@ description: "DocSaveOptions property. In Pdf words may be innerly represented w
 type: docs
 weight: 30
 url: "/net/aspose.pdf/docsaveoptions/relativehorizontalproximity/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocSaveOptions.RelativeHorizontalProximity property
 

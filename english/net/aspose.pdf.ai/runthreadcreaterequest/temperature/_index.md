@@ -7,7 +7,7 @@ description: "RunThreadCreateRequest property. Gets or sets what sampling temper
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/runthreadcreaterequest/temperature/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunThreadCreateRequest.Temperature property
 

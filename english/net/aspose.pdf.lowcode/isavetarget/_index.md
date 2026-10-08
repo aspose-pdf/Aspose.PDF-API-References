@@ -7,7 +7,7 @@ description: "Aspose.Pdf.LowCode.ISaveTarget interface. General save target inte
 type: docs
 weight: 450
 url: "/net/aspose.pdf.lowcode/isavetarget/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ISaveTarget interface
 
@@ -21,7 +21,7 @@ public interface ISaveTarget
 
 | Name | Description |
 | --- | --- |
-| [SaveTarget](./savetarget/) { get; } | Type of the save target (file or stream). |
+| [SaveTarget](../../aspose.pdf.lowcode/isavetarget/savetarget/) { get; } | Type of the save target (file or stream). |
 
 ### See Also
 

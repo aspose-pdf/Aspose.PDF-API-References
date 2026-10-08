@@ -7,19 +7,21 @@ description: "RadioButtonField property. Get or sets the flag that allows the ra
 type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/radiobuttonfield/notoggletooff/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RadioButtonField.NoToggleToOff property
 
-Get or sets the flag that allows the radiobutton to have no selected value. If , exactly one
- radio button shall be selected at all times; selecting the currently selected button has no effect. If ,
+Get or sets the flag that allows the radiobutton to have no selected value. If `true`, exactly one
+ radio button shall be selected at all times; selecting the currently selected button has no effect. If `false`,
  clicking the selected button deselects it, leaving no button selected.
-
-Some PDF readers (including Adobe Acrobat) may ignore the  state of the flag.
 
 ```csharp
 public bool NoToggleToOff { get; set; }
 ```
+
+## Remarks
+
+Some PDF readers (including Adobe Acrobat) may ignore the `false` state of the flag.
 
 ### See Also
 

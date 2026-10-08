@@ -7,7 +7,7 @@ description: "TextReplaceOptions property. Gets or sets an action that will be d
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/textreplaceoptions/replaceadjustmentaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextReplaceOptions.ReplaceAdjustmentAction property
 
@@ -19,6 +19,7 @@ public ReplaceAdjustment ReplaceAdjustmentAction { get; set; }
 
 ### See Also
 
+* enum [ReplaceAdjustment](../../textreplaceoptions.replaceadjustment/)
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

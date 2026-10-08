@@ -7,7 +7,7 @@ description: "BitmapInfo constructor. Creates a new instance of the class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/bitmapinfo/bitmapinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BitmapInfo constructor
 
@@ -27,6 +27,7 @@ public BitmapInfo(byte[] pixelBytes, int width, int height, PixelFormat format)
 ### See Also
 
 * [BitmapInfo](../bitmapinfo/)
+* enum [PixelFormat](../../bitmapinfo.pixelformat/)
 * class [BitmapInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

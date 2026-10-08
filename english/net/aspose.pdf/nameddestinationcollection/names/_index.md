@@ -7,7 +7,7 @@ description: "NamedDestinationCollection property. List of names of the destinat
 type: docs
 weight: 50
 url: "/net/aspose.pdf/nameddestinationcollection/names/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## NamedDestinationCollection.Names property
 

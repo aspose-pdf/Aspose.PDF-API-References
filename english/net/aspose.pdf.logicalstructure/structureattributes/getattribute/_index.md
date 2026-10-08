@@ -7,7 +7,7 @@ description: "StructureAttributes method. Gets StructureAttribute by AttributeKe
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/structureattributes/getattribute/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureAttributes.GetAttribute method
 
@@ -27,8 +27,8 @@ StructureAttribute
 
 ### See Also
 
-* class [StructureAttribute](../../../aspose.pdf.logicalstructure/structureattribute/)
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [StructureAttribute](../../structureattribute/)
+* class [AttributeKey](../../attributekey/)
 * class [StructureAttributes](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

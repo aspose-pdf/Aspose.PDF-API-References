@@ -7,7 +7,7 @@ description: "ViewerPreference field. Print single-sided."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/viewerpreference/simplex/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ViewerPreference.Simplex field
 

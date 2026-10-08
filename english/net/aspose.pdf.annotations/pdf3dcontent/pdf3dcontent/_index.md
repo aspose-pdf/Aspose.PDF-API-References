@@ -7,11 +7,11 @@ description: "PDF3DContent constructor. Initializes a new instance of the PDF3DC
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdf3dcontent/pdf3dcontent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DContent() {#constructor}
 
-Initializes a new instance of the [`PDF3DContent`](../../../aspose.pdf.annotations/pdf3dcontent/) class.
+Initializes a new instance of the [`PDF3DContent`](../) class.
 
 ```csharp
 public PDF3DContent()
@@ -27,7 +27,7 @@ public PDF3DContent()
 
 ## PDF3DContent(string) {#constructor_1}
 
-Initializes a new instance of the [`PDF3DContent`](../../../aspose.pdf.annotations/pdf3dcontent/) class.
+Initializes a new instance of the [`PDF3DContent`](../) class.
 
 ```csharp
 public PDF3DContent(string filename)

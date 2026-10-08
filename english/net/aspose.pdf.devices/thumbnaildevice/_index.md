@@ -8,7 +8,7 @@ type: docs
 weight: 190
 url: "/net/aspose.pdf.devices/thumbnaildevice/"
 keywords: "ThumbnailDevice, Aspose.Pdf.Devices, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThumbnailDevice class
 
@@ -22,8 +22,8 @@ public sealed class ThumbnailDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [ThumbnailDevice](./thumbnaildevice/#constructor)() | Initializes a new instance of the [`ThumbnailDevice`](../../aspose.pdf.devices/thumbnaildevice/) class with default size of thumbnail image (200x200 pixels). |
-| [ThumbnailDevice](./thumbnaildevice/#constructor_1)(int, int) | Initializes a new instance of the [`ThumbnailDevice`](../../aspose.pdf.devices/thumbnaildevice/) class. |
+| [ThumbnailDevice](thumbnaildevice/#constructor)() | Initializes a new instance of the `ThumbnailDevice` class with default size of thumbnail image (200x200 pixels). |
+| [ThumbnailDevice](thumbnaildevice/#constructor_1)(int, int) | Initializes a new instance of the `ThumbnailDevice` class. |
 
 ## Properties
 
@@ -40,8 +40,9 @@ public sealed class ThumbnailDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Converts the page into `Bitmap`. |
-| override [Process](./process/)(Page, Stream) | Converts the page into thumbnail image png and saves it in the output stream. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Converts the page into Bitmap. |
+| override [Process](../../aspose.pdf.devices/thumbnaildevice/process/)(Page, Stream) | Converts the page into thumbnail image png and saves it in the output stream. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "RenderingOptions property. Gets or sets hiqh quality mode for inte
 type: docs
 weight: 90
 url: "/net/aspose.pdf/renderingoptions/interpolationhighquality/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenderingOptions.InterpolationHighQuality property
 

@@ -7,7 +7,7 @@ description: "ExternalSignature field. The certificate with the private key."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/externalsignature/certificate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExternalSignature.Certificate field
 

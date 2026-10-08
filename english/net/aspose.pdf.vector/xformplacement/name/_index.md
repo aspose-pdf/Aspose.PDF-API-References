@@ -7,7 +7,7 @@ description: "XFormPlacement property. Gets name of the XForm."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.vector/xformplacement/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFormPlacement.Name property
 

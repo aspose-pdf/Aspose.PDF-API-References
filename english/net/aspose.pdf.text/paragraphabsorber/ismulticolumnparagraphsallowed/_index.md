@@ -7,7 +7,7 @@ description: "ParagraphAbsorber property. Gets or sets value that indicates whet
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/paragraphabsorber/ismulticolumnparagraphsallowed/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ParagraphAbsorber.IsMulticolumnParagraphsAllowed property
 

@@ -7,7 +7,7 @@ description: "CompletionCreateRequest property. Gets or sets what sampling tempe
 type: docs
 weight: 140
 url: "/net/aspose.pdf.ai/completioncreaterequest/temperature/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionCreateRequest.Temperature property
 

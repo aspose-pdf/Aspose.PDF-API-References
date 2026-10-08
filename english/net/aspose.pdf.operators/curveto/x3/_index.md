@@ -7,7 +7,7 @@ description: "CurveTo field. Gets or sets the X3 coordinate."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.operators/curveto/x3/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CurveTo.X3 field
 

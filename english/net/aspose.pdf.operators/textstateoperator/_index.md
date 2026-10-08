@@ -8,7 +8,7 @@ type: docs
 weight: 850
 url: "/net/aspose.pdf.operators/textstateoperator/"
 keywords: "TextStateOperator, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStateOperator class
 
@@ -22,8 +22,8 @@ public class TextStateOperator : TextOperator
 
 | Name | Description |
 | --- | --- |
-| [TextStateOperator](./textstateoperator/#constructor)() | Initializes TextStateOperator. |
-| [TextStateOperator](./textstateoperator/#constructor_1)(TextProperties) | Initializes TextStateoperator which allows to pass TextProperties. |
+| [TextStateOperator](textstateoperator/#constructor)() | Initializes TextStateOperator. |
+| [TextStateOperator](textstateoperator/#constructor_1)(TextProperties) | Initializes TextStateoperator which allows to pass TextProperties. |
 
 ## Properties
 
@@ -36,7 +36,6 @@ public class TextStateOperator : TextOperator
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 

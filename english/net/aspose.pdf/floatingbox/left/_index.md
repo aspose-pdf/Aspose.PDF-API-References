@@ -7,7 +7,7 @@ description: "FloatingBox property. Gets or sets the table left coordinate."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/floatingbox/left/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FloatingBox.Left property
 

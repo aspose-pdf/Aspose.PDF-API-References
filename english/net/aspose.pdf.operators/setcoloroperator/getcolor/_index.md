@@ -7,7 +7,7 @@ description: "SetColorOperator method. Retirns color specified by the operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setcoloroperator/getcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColorOperator.getColor method
 
@@ -23,7 +23,6 @@ Color specified by operator.
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
 * class [SetColorOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

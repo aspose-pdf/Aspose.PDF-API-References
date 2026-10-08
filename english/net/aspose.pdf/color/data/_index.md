@@ -7,7 +7,7 @@ description: "Color property. Gets color value."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/color/data/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Color.Data property
 

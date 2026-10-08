@@ -7,7 +7,7 @@ description: "FreeTextAnnotation property. Angle of annotation rotation."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/freetextannotation/rotate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FreeTextAnnotation.Rotate property
 

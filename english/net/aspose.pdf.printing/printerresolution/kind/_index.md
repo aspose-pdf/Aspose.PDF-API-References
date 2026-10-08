@@ -7,7 +7,7 @@ description: "PrinterResolution property. Gets a value indicating the kind of pr
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/printerresolution/kind/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterResolution.Kind property
 
@@ -19,7 +19,7 @@ public PrinterResolutionKind Kind { get; set; }
 
 ### See Also
 
-* enum [PrinterResolutionKind](../../../aspose.pdf.printing/printerresolutionkind/)
+* enum [PrinterResolutionKind](../../printerresolutionkind/)
 * class [PrinterResolution](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

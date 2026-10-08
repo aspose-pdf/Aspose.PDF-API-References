@@ -7,7 +7,7 @@ description: "OpenAIImageDescriptionCopilotOptions method. Sets the assistant na
 type: docs
 weight: 160
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withassistantname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIImageDescriptionCopilotOptions.WithAssistantName method
 
@@ -23,11 +23,11 @@ public OpenAIImageDescriptionCopilotOptions WithAssistantName(string assistantNa
 
 ### Return Value
 
-The current instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
+The current instance of [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

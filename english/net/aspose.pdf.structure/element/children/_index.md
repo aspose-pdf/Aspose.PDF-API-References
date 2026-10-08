@@ -7,7 +7,7 @@ description: "Element property. Gets child elements collection."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.structure/element/children/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Element.Children property
 
@@ -19,7 +19,7 @@ public ElementCollection Children { get; }
 
 ### See Also
 
-* class [ElementCollection](../../../aspose.pdf.structure/elementcollection/)
+* class [ElementCollection](../../elementcollection/)
 * class [Element](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "BorderInfo field. Represents bottom part(if any) of border"
 type: docs
 weight: 60
 url: "/net/aspose.pdf/saveoptions.borderinfo/bottomstyleifany/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.BorderInfo.BottomStyleIfAny field
 
@@ -19,7 +19,8 @@ public BorderPartStyle BottomStyleIfAny;
 
 ### See Also
 
-* class [SaveOptions.BorderInfo](../)
+* class [BorderPartStyle](../../saveoptions.borderpartstyle/)
+* class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

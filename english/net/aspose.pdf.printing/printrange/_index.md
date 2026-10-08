@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Printing.PrintRange enum. Specifies the option that des
 type: docs
 weight: 150
 url: "/net/aspose.pdf.printing/printrange/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrintRange enumeration
 
@@ -22,7 +22,7 @@ public enum PrintRange
 | Name | Value | Description |
 | --- | --- | --- |
 | AllPages | `0` | All pages are printed. |
-| SomePages | `2` | The pages between <see cref="P:Aspose.Pdf.Printing.PrinterSettings.FromPage" /> and <see cref="P:Aspose.Pdf.Printing.PrinterSettings.ToPage" /> are printed. |
+| SomePages | `2` | The pages between [`FromPage`](../printersettings/frompage/) and [`ToPage`](../printersettings/topage/) are printed. |
 | Selection | `1` | The selected pages are printed. |
 | CurrentPage | `4194304` | The current page is printed. If used with some operating systems, all pages may be printed. |
 

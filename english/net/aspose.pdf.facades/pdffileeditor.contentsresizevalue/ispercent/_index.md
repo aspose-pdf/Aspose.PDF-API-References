@@ -7,7 +7,7 @@ description: "ContentsResizeValue property. Gets true if value is expressed in p
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/ispercent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeValue.IsPercent property
 
@@ -20,7 +20,7 @@ public bool IsPercent { get; }
 
 ### See Also
 
-* class [PdfFileEditor.ContentsResizeValue](../)
+* class [ContentsResizeValue](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

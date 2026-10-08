@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute TextDecorationType: LineThrough - A
 type: docs
 weight: 410
 url: "/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_linethrough/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.TextDecorationType_LineThrough field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName TextDecorationType_LineThrough;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -8,7 +8,7 @@ type: docs
 weight: 460
 url: "/net/aspose.pdf.lowcode/imageextractor/"
 keywords: "ImageExtractor, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageExtractor class
 
@@ -44,7 +44,7 @@ using (ImageExtractor extractor = new ImageExtractor())
 
 | Name | Description |
 | --- | --- |
-| [ImageExtractor](./imageextractor/)() | The default constructor. |
+| [ImageExtractor](imageextractor/)() | The default constructor. |
 
 ## Methods
 
@@ -55,7 +55,7 @@ using (ImageExtractor extractor = new ImageExtractor())
 
 ## Remarks
 
-The [`ImageExtractor`](../../aspose.pdf.lowcode/imageextractor/) object is used to extract text in PDF documents.
+The [`ImageExtractor`](../imageextractor/) object is used to extract text in PDF documents.
 
 ### See Also
 

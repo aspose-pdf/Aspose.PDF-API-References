@@ -7,7 +7,7 @@ description: "FormFieldFacade property. A rectangle object holding field's locat
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/formfieldfacade/box/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.Box property
 
@@ -19,7 +19,6 @@ public Rectangle Box { get; set; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

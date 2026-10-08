@@ -7,7 +7,7 @@ description: "RunThreadCreateRequest property. Gets or sets the maximum number o
 type: docs
 weight: 130
 url: "/net/aspose.pdf.ai/runthreadcreaterequest/maxcompletiontokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunThreadCreateRequest.MaxCompletionTokens property
 

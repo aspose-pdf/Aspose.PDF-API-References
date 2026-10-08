@@ -7,7 +7,7 @@ description: "XImage method. Returns a list of strings with Alternative Text for
 type: docs
 weight: 130
 url: "/net/aspose.pdf/ximage/getalternativetext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImage.GetAlternativeText method
 
@@ -27,7 +27,7 @@ List of strings with Alternative Text for an XImage.
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

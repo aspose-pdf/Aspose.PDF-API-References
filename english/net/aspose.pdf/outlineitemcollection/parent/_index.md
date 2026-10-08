@@ -7,7 +7,7 @@ description: "OutlineItemCollection property. Gets the parent object of this out
 type: docs
 weight: 230
 url: "/net/aspose.pdf/outlineitemcollection/parent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.Parent property
 
@@ -19,7 +19,7 @@ public Outlines Parent { get; }
 
 ### See Also
 
-* class [Outlines](../../../aspose.pdf/outlines/)
+* class [Outlines](../../outlines/)
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "SignatureField method. Extracts signature's image as jpeg encoded 
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/signaturefield/extractimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExtractImage() {#extractimage}
 
@@ -29,7 +29,7 @@ If image was successfully found than returns jpeg encoded stream object; otherwi
 
 ---
 
-## ExtractImage([ImageFormat](../../../aspose.pdf.drawing/imageformat/)) {#extractimage_1}
+## ExtractImage(ImageFormat) {#extractimage_1}
 
 Extracts signature's image as encoded stream.
 
@@ -47,7 +47,6 @@ If image was successfully found than returns encodedstream object; otherwise, nu
 
 ### See Also
 
-* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

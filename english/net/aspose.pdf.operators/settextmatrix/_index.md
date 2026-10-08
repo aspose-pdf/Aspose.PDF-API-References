@@ -8,7 +8,7 @@ type: docs
 weight: 750
 url: "/net/aspose.pdf.operators/settextmatrix/"
 keywords: "SetTextMatrix, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetTextMatrix class
 
@@ -22,23 +22,22 @@ public class SetTextMatrix : TextPlaceOperator
 
 | Name | Description |
 | --- | --- |
-| [SetTextMatrix](./settextmatrix/#constructor)(Matrix) | Initializes operator by matrix. |
-| [SetTextMatrix](./settextmatrix/#constructor_1)(double, double, double, double, double, double) | Initializes operator. |
+| [SetTextMatrix](settextmatrix/#constructor)(double, double, double, double, double, double) | Initializes operator. |
+| [SetTextMatrix](settextmatrix/#constructor_1)(Matrix) | Initializes operator by matrix. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [Matrix](./matrix/) { get; set; } | Matrix argument of the operator. |
+| [Matrix](../../aspose.pdf.operators/settextmatrix/matrix/) { get; set; } | Matrix argument of the operator. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/settextmatrix/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/settextmatrix/tostring/)() | Returns text representation of operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also

@@ -7,11 +7,11 @@ description: "Ofd method. Starts the Ofd processing with the specified parameter
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/ofd/process/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Ofd.Process method
 
-Starts the [`Ofd`](../../../aspose.pdf.lowcode/ofd/) processing with the specified parameters.
+Starts the [`Ofd`](../) processing with the specified parameters.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -19,16 +19,16 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | IPluginOptions | An options object containing instructions for the <see cref="T:Aspose.Pdf.LowCode.Ofd" />. |
+| options | IPluginOptions | An options object containing instructions for the `Ofd`. |
 
 ### Return Value
 
-An [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) object containing the result of the operation.
+An [`ResultContainer`](../../resultcontainer/) object containing the result of the operation.
 
 ### See Also
 
-* class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
-* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
 * class [Ofd](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

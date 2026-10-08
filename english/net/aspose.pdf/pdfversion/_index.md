@@ -7,7 +7,7 @@ description: "Aspose.Pdf.PdfVersion enum. This enum represents version of pdf fi
 type: docs
 weight: 2470
 url: "/net/aspose.pdf/pdfversion/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfVersion enumeration
 

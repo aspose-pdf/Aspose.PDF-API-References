@@ -7,7 +7,7 @@ description: "OptimizationOptions property. Set of options which describe will i
 type: docs
 weight: 90
 url: "/net/aspose.pdf.optimization/optimizationoptions/imagecompressionoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizationOptions.ImageCompressionOptions property
 
@@ -19,7 +19,7 @@ public ImageCompressionOptions ImageCompressionOptions { get; }
 
 ### See Also
 
-* class [ImageCompressionOptions](../../../aspose.pdf.optimization/imagecompressionoptions/)
+* class [ImageCompressionOptions](../../imagecompressionoptions/)
 * class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)

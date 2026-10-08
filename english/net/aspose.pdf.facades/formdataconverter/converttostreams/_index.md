@@ -7,7 +7,7 @@ description: "FormDataConverter method. Convert data in table into streams."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/formdataconverter/converttostreams/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormDataConverter.ConvertToStreams method
 
@@ -44,7 +44,7 @@ fc.ConvertToStreams(new Stream[] { stream }, DataType.XML);
 
 ### See Also
 
-* enum [DataType](../../../aspose.pdf.lowcode/datatype/)
+* enum [DataType](../../datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

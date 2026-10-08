@@ -7,7 +7,7 @@ description: "FormOptions property. Gets collection of added targets for saving 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/formoptions/outputs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormOptions.Outputs property
 
@@ -19,6 +19,7 @@ public List<IDataSource> Outputs { get; }
 
 ### See Also
 
+* interface [IDataSource](../../idatasource/)
 * class [FormOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

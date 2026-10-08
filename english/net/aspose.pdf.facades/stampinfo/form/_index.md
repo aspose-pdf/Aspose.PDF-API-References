@@ -7,7 +7,7 @@ description: "StampInfo property. Gets XForm of the stamp."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/stampinfo/form/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StampInfo.Form property
 

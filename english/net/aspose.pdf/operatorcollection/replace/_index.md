@@ -7,7 +7,7 @@ description: "OperatorCollection method. Replace operators in collection with ot
 type: docs
 weight: 70
 url: "/net/aspose.pdf/operatorcollection/replace/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OperatorCollection.Replace method
 
@@ -23,6 +23,7 @@ public void Replace(IList<Operator> operators)
 
 ### See Also
 
+* class [Operator](../../operator/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

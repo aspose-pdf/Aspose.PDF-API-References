@@ -7,7 +7,7 @@ description: "TextExtractionErrorLocation property. Number of the document page 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/textextractionerrorlocation/pagenumber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextExtractionErrorLocation.PageNumber property
 

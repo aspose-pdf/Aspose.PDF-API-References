@@ -7,11 +7,11 @@ description: "CosPdfBoolean method. Returns a String that represents the current
 type: docs
 weight: 30
 url: "/net/aspose.pdf.dataeditor/cospdfboolean/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfBoolean.ToString method
 
-Returns a `String` that represents the current [`CosPdfBoolean`](../../../aspose.pdf.dataeditor/cospdfboolean/).
+Returns a `String` that represents the current [`CosPdfBoolean`](../).
 
 ```csharp
 public override string ToString()
@@ -19,7 +19,7 @@ public override string ToString()
 
 ### Return Value
 
-A `String` that represents the current [`CosPdfBoolean`](../../../aspose.pdf.dataeditor/cospdfboolean/).
+A `String` that represents the current [`CosPdfBoolean`](../).
 
 ### See Also
 

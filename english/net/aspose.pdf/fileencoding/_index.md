@@ -7,7 +7,7 @@ description: "Aspose.Pdf.FileEncoding enum. Encoding of the attached file. Possi
 type: docs
 weight: 870
 url: "/net/aspose.pdf/fileencoding/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileEncoding enumeration
 

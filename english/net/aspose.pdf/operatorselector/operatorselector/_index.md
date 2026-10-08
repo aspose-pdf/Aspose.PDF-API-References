@@ -7,7 +7,7 @@ description: "OperatorSelector constructor. Initializes new instance of the !:Se
 type: docs
 weight: 10
 url: "/net/aspose.pdf/operatorselector/operatorselector/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OperatorSelector() {#constructor}
 
@@ -25,9 +25,9 @@ public OperatorSelector()
 
 ---
 
-## OperatorSelector([Operator](../../../aspose.pdf/operator/)) {#constructor_1}
+## OperatorSelector(Operator) {#constructor_1}
 
-Initializes new [`OperatorSelector`](../../../aspose.pdf/operatorselector/).
+Initializes new [`OperatorSelector`](../).
 
 ```csharp
 public OperatorSelector(Operator op)
@@ -39,7 +39,7 @@ public OperatorSelector(Operator op)
 
 ### See Also
 
-* class [Operator](../../../aspose.pdf/operator/)
+* class [Operator](../../operator/)
 * class [OperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

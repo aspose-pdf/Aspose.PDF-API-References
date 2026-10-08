@@ -7,13 +7,11 @@ description: "TiffSettings property. Gets or sets the color depth."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.devices/tiffsettings/depth/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TiffSettings.Depth property
 
 Gets or sets the color depth.
-
-Default value is ColorDepth.Default
 
 ```csharp
 public ColorDepth Depth { get; set; }
@@ -23,9 +21,13 @@ public ColorDepth Depth { get; set; }
 
 The color depth.
 
+## Remarks
+
+Default value is ColorDepth.Default
+
 ### See Also
 
-* enum [ColorDepth](../../../aspose.pdf.devices/colordepth/)
+* enum [ColorDepth](../../colordepth/)
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

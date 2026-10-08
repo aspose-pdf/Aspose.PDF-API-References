@@ -8,7 +8,7 @@ type: docs
 weight: 530
 url: "/net/aspose.pdf.logicalstructure/structureattributecollection/"
 keywords: "StructureAttributeCollection, Aspose.Pdf.LogicalStructure, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureAttributeCollection class
 
@@ -22,8 +22,8 @@ public class StructureAttributeCollection
 
 | Name | Description |
 | --- | --- |
-| [CreateAttributes](./createattributes/)(AttributeOwnerStandard) | Create and return [`StructureAttributes`](../../aspose.pdf.logicalstructure/structureattributes/) of structure element by standard attribute owner. |
-| [GetAttributes](./getattributes/)(AttributeOwnerStandard) | Return [`StructureAttributes`](../../aspose.pdf.logicalstructure/structureattributes/) of structure element by standard attribute owner. |
+| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes/)(AttributeOwnerStandard) | Create and return [`StructureAttributes`](../structureattributes/) of structure element by standard attribute owner. |
+| [GetAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/getattributes/)(AttributeOwnerStandard) | Return [`StructureAttributes`](../structureattributes/) of structure element by standard attribute owner. |
 
 ### See Also
 

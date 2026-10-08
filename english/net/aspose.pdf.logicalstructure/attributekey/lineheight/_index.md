@@ -7,7 +7,7 @@ description: "AttributeKey field. LineHeight attribute (Layout attribute owner).
 type: docs
 weight: 270
 url: "/net/aspose.pdf.logicalstructure/attributekey/lineheight/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.LineHeight field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey LineHeight;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

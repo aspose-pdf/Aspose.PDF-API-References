@@ -7,7 +7,7 @@ description: "ViewerPreference field. A flag specifying whether to hide user int
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/viewerpreference/hidewindowui/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ViewerPreference.HideWindowUI field
 

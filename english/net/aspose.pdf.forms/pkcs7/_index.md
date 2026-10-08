@@ -8,7 +8,7 @@ type: docs
 weight: 250
 url: "/net/aspose.pdf.forms/pkcs7/"
 keywords: "PKCS7, Aspose.Pdf.Forms, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PKCS7 class
 
@@ -24,10 +24,10 @@ public sealed class PKCS7 : Signature
 
 | Name | Description |
 | --- | --- |
-| [PKCS7](./pkcs7/#constructor)() | Initializes new instance of the [`PKCS7`](../../aspose.pdf.forms/pkcs7/) class. |
-| [PKCS7](./pkcs7/#constructor_1)(TimestampSettings) | Inititalizes new instance of the [`PKCS7`](../../aspose.pdf.forms/pkcs7/) class. |
-| [PKCS7](./pkcs7/#constructor_2)(Stream, string) | Initializes new instance of the [`PKCS7`](../../aspose.pdf.forms/pkcs7/) class. |
-| [PKCS7](./pkcs7/#constructor_3)(string, string) | Initializes new instance of the [`PKCS7`](../../aspose.pdf.forms/pkcs7/) class. |
+| [PKCS7](pkcs7/#constructor)() | Initializes new instance of the `PKCS7` class. |
+| [PKCS7](pkcs7/#constructor_1)(string, string) | Initializes new instance of the `PKCS7` class. |
+| [PKCS7](pkcs7/#constructor_2)(Stream, string) | Initializes new instance of the `PKCS7` class. |
+| [PKCS7](pkcs7/#constructor_3)(TimestampSettings) | Inititalizes new instance of the `PKCS7` class. |
 
 ## Properties
 

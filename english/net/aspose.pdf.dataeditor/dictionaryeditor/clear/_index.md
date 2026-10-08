@@ -7,11 +7,11 @@ description: "DictionaryEditor method. Removes all items from the DictionaryEdit
 type: docs
 weight: 90
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DictionaryEditor.Clear method
 
-Removes all items from the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/).
+Removes all items from the [`DictionaryEditor`](../).
 
 ```csharp
 public void Clear()

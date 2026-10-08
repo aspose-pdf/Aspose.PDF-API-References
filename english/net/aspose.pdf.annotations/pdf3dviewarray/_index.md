@@ -8,7 +8,7 @@ type: docs
 weight: 870
 url: "/net/aspose.pdf.annotations/pdf3dviewarray/"
 keywords: "PDF3DViewArray, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DViewArray class
 
@@ -22,16 +22,16 @@ public class PDF3DViewArray
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Gets the views count. |
-| [Item](./item/) { get; set; } | Gets or sets the [`PDF3DView`](../../aspose.pdf.annotations/pdf3dview/) to view array at the specified index. |
+| [Count](../../aspose.pdf.annotations/pdf3dviewarray/count/) { get; } | Gets the views count. |
+| [Item](../../aspose.pdf.annotations/pdf3dviewarray/item/) { get; set; } | Gets or sets the [`PDF3DView`](../pdf3dview/) to view array at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(PDF3DView) | Adds the specified view. |
-| [RemoveAll](./removeall/)() | Removes all views. |
-| [RemoveAt](./removeat/)(int) | Removes view from views array at specified index. |
+| [Add](../../aspose.pdf.annotations/pdf3dviewarray/add/)(PDF3DView) | Adds the specified view. |
+| [RemoveAll](../../aspose.pdf.annotations/pdf3dviewarray/removeall/)() | Removes all views. |
+| [RemoveAt](../../aspose.pdf.annotations/pdf3dviewarray/removeat/)(int) | Removes view from views array at specified index. |
 
 ### See Also
 

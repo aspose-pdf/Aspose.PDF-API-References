@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates ListElement."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.tagged/itaggedcontent/createlistelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateListElement method
 

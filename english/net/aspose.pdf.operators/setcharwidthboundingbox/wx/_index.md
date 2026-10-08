@@ -7,7 +7,7 @@ description: "SetCharWidthBoundingBox property. Horizontal displacement of glyph
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/setcharwidthboundingbox/wx/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCharWidthBoundingBox.Wx property
 

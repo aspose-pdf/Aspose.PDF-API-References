@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Extracts signature's single X.509 certifi
 type: docs
 weight: 420
 url: "/net/aspose.pdf.facades/pdffilesignature/extractcertificate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.ExtractCertificate method
 
@@ -27,7 +27,7 @@ If a certificate was found returns X.509 single certificate; otherwise, null.
 
 ### See Also
 
-* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

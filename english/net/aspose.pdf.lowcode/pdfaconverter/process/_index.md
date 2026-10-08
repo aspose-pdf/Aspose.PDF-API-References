@@ -7,7 +7,7 @@ description: "PdfAConverter method. Begins a PDF/A conversion or validation proc
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/pdfaconverter/process/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAConverter.Process method
 
@@ -19,17 +19,16 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | IPluginOptions | An options object containing instructions for the plugin. Must be an instance of the <see cref="T:Aspose.Pdf.LowCode.PdfAConvertOptions" />
- or the <see cref="T:Aspose.Pdf.LowCode.PdfAValidateOptions" /> class. |
+| options | IPluginOptions | An options object containing instructions for the plugin. Must be an instance of the [`PdfAConvertOptions`](../../pdfaconvertoptions/) or the [`PdfAValidateOptions`](../../pdfavalidateoptions/) class. |
 
 ### Return Value
 
-A [`ResultContainer`](../../../aspose.pdf.lowcode/resultcontainer/) object containing the result of the processing.
+A [`ResultContainer`](../../resultcontainer/) object containing the result of the processing.
 
 ### See Also
 
-* class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
-* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
 * class [PdfAConverter](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "EpubLoadOptions constructor. Creates default load options for conv
 type: docs
 weight: 10
 url: "/net/aspose.pdf/epubloadoptions/epubloadoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EpubLoadOptions() {#constructor}
 

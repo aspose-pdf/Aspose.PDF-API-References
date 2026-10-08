@@ -7,7 +7,7 @@ description: "ReplaceTextStrategy property. If false, string to find is a simple
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/replacetextstrategy/isregularexpressionused/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ReplaceTextStrategy.IsRegularExpressionUsed property
 

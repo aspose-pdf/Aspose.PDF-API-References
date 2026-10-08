@@ -7,7 +7,7 @@ description: "Value property. Gets a collection item value."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/collectionitem.value-1/data/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionItem.Value<T>.Data property
 
@@ -19,7 +19,7 @@ public T Data { get; }
 
 ### See Also
 
-* class [CollectionItem.Value<T>](../)
+* class [Value&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

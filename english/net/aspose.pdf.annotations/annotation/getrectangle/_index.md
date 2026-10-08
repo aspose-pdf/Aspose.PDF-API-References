@@ -7,7 +7,7 @@ description: "Annotation method. Returns rectangle of annotation taking into con
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/annotation/getrectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.GetRectangle method
 
@@ -27,7 +27,7 @@ True - if rectangle found; otherwise, false.
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

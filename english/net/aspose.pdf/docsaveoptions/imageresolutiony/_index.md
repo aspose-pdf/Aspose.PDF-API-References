@@ -7,7 +7,7 @@ description: "DocSaveOptions property. Converted images Y resolution."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/docsaveoptions/imageresolutiony/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocSaveOptions.ImageResolutionY property
 

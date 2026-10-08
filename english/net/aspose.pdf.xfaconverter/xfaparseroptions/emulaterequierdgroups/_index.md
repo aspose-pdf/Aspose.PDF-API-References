@@ -7,7 +7,7 @@ description: "XfaParserOptions property. If this property is true then additiona
 type: docs
 weight: 50
 url: "/net/aspose.pdf.xfaconverter/xfaparseroptions/emulaterequierdgroups/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XfaParserOptions.EmulateRequierdGroups property
 

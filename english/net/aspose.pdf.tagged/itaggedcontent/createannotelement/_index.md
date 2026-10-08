@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates AnnotElement."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.tagged/itaggedcontent/createannotelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateAnnotElement method
 

@@ -7,7 +7,7 @@ description: "Row property. Gets fixed row is in new page - page with this prope
 type: docs
 weight: 90
 url: "/net/aspose.pdf/row/isinnewpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Row.IsInNewPage property
 

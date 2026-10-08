@@ -7,17 +7,19 @@ description: "StructureTextState property. Gets or sets line spacing of the text
 type: docs
 weight: 110
 url: "/net/aspose.pdf.logicalstructure/structuretextstate/linespacing/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTextState.LineSpacing property
 
 Gets or sets line spacing of the text.
 
-Can be null. Use null to inherit `LineSpacing` property from parent structure element.
-
 ```csharp
 public float? LineSpacing { get; set; }
 ```
+
+## Remarks
+
+Can be null. Use null to inherit `LineSpacing` property from parent structure element.
 
 ### See Also
 

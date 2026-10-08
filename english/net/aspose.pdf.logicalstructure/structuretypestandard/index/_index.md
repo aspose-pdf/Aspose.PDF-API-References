@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Index) A sequence of entries contain
 type: docs
 weight: 140
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/index/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.Index field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard Index;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "AssistantCreateRequest property. Gets or sets the name of the assi
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/assistantcreaterequest/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantCreateRequest.Name property
 

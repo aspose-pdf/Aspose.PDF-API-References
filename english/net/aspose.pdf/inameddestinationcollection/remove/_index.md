@@ -7,7 +7,7 @@ description: "INamedDestinationCollection method. Removes destination by its nam
 type: docs
 weight: 10
 url: "/net/aspose.pdf/inameddestinationcollection/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## INamedDestinationCollection.Remove method
 

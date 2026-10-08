@@ -7,11 +7,11 @@ description: "CosPdfPrimitive method. Tries cast this instance to CosPdfDictiona
 type: docs
 weight: 50
 url: "/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfPrimitive.ToCosPdfDictionary method
 
-Tries cast this instance to [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/).
+Tries cast this instance to [`CosPdfDictionary`](../../cospdfdictionary/).
 
 ```csharp
 public virtual CosPdfDictionary ToCosPdfDictionary()
@@ -19,11 +19,11 @@ public virtual CosPdfDictionary ToCosPdfDictionary()
 
 ### Return Value
 
-null if instance is not [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/) else [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/).
+null if instance is not [`CosPdfDictionary`](../../cospdfdictionary/) else [`CosPdfDictionary`](../../cospdfdictionary/).
 
 ### See Also
 
-* class [CosPdfDictionary](../../../aspose.pdf.dataeditor/cospdfdictionary/)
+* class [CosPdfDictionary](../../cospdfdictionary/)
 * class [CosPdfPrimitive](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)

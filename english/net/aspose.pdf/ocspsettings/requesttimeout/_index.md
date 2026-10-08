@@ -7,7 +7,7 @@ description: "OcspSettings property. Gets or sets the request timeout duration i
 type: docs
 weight: 20
 url: "/net/aspose.pdf/ocspsettings/requesttimeout/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OcspSettings.RequestTimeout property
 

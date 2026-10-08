@@ -7,7 +7,7 @@ description: "Aspose.Pdf.AI.IChatCopilotOptions interface. Represents an interfa
 type: docs
 weight: 500
 url: "/net/aspose.pdf.ai/ichatcopilotoptions-1/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IChatCopilotOptions&lt;TOptions&gt; interface
 
@@ -17,17 +17,15 @@ Represents an interface for chat copilot options with a specific type.
 public interface IChatCopilotOptions<out TOptions>
 ```
 
-## Type Parameters
-
-| Name | Description |
+| Parameter | Description |
 | --- | --- |
-| TOptions |  |
+| TOptions | The type of options for the chat copilot. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetOptions](./getoptions/)() | Gets the options of type *TOptions*. |
+| [GetOptions](../../aspose.pdf.ai/ichatcopilotoptions-1/getoptions/)() | Gets the options of type *TOptions*. |
 
 ### See Also
 

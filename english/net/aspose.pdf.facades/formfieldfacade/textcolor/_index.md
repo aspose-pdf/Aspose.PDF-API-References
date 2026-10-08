@@ -7,7 +7,7 @@ description: "FormFieldFacade property. The color of the field text."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/formfieldfacade/textcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.TextColor property
 
@@ -19,7 +19,6 @@ public Color TextColor { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

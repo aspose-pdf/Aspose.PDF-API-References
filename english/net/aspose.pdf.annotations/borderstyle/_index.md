@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.BorderStyle enum. Describes style of the an
 type: docs
 weight: 150
 url: "/net/aspose.pdf.annotations/borderstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BorderStyle enumeration
 

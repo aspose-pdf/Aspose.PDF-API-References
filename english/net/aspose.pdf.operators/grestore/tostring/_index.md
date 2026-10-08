@@ -7,7 +7,7 @@ description: "GRestore method. Returns text of the operator."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/grestore/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GRestore.ToString method
 

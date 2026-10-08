@@ -7,7 +7,7 @@ description: "DocSaveOptions field. This handler can be used to handle conversio
 type: docs
 weight: 140
 url: "/net/aspose.pdf/docsaveoptions/customprogresshandler/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocSaveOptions.CustomProgressHandler field
 
@@ -55,6 +55,7 @@ public static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInf
 
 ### See Also
 
+* delegate [ConversionProgressEventHandler](../../unifiedsaveoptions.conversionprogresseventhandler/)
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "CharInfoCollection property. Gets a value indicating whether colle
 type: docs
 weight: 100
 url: "/net/aspose.pdf.text/charinfocollection/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CharInfoCollection.IsReadOnly property
 

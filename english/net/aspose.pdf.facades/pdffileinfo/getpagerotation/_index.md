@@ -7,7 +7,7 @@ description: "PdfFileInfo method. Gets the rotation of the specified page."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/pdffileinfo/getpagerotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.GetPageRotation method
 

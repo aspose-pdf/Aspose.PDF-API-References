@@ -7,7 +7,7 @@ description: "PaperSizes field. C3 envelope (324 mm by 458 mm)."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.printing/papersizes/c3envelope/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.C3Envelope field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize C3Envelope;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

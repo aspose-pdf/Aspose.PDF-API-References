@@ -8,7 +8,7 @@ type: docs
 weight: 600
 url: "/net/aspose.pdf.text/textparagraph/"
 keywords: "TextParagraph, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextParagraph class
 
@@ -53,37 +53,37 @@ doc.Save(outFile);
 
 | Name | Description |
 | --- | --- |
-| [TextParagraph](./textparagraph/)() | The default constructor. |
+| [TextParagraph](textparagraph/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FirstLineIndent](./firstlineindent/) { get; set; } | Gets or sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value. |
-| [FormattingOptions](./formattingoptions/) { get; set; } | Gets or sets formatting options. |
-| [HorizontalAlignment](./horizontalalignment/) { get; set; } | Gets or sets horizontal alignment for the text inside paragrph's `Rectangle`. |
-| [Justify](./justify/) { get; set; } | Gets or sets value whether text is justified. |
-| [Margin](./margin/) { get; set; } | Gets or sets the padding. |
-| [Position](./position/) { get; set; } | Gets or sets position of the paragraph. |
-| [Rectangle](./rectangle/) { get; set; } | Gets or sets rectangle of the paragraph. |
-| [Rotation](./rotation/) { get; set; } | Gets or sets rotation angle in degrees. |
-| [SubsequentLinesIndent](./subsequentlinesindent/) { get; set; } | Gets or sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value. |
-| [TextRectangle](./textrectangle/) { get; } | Gets rectangle of the text placed to the paragraph. |
-| [VerticalAlignment](./verticalalignment/) { get; set; } | Gets or sets vertical alignment for the text inside paragrph's `Rectangle`. |
+| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent/) { get; set; } | Gets or sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value. |
+| [FormattingOptions](../../aspose.pdf.text/textparagraph/formattingoptions/) { get; set; } | Gets or sets formatting options. |
+| [HorizontalAlignment](../../aspose.pdf.text/textparagraph/horizontalalignment/) { get; set; } | Gets or sets horizontal alignment for the text inside paragrph's [`Rectangle`](./rectangle/). |
+| [Justify](../../aspose.pdf.text/textparagraph/justify/) { get; set; } | Gets or sets value whether text is justified. |
+| [Margin](../../aspose.pdf.text/textparagraph/margin/) { get; set; } | Gets or sets the padding. |
+| [Position](../../aspose.pdf.text/textparagraph/position/) { get; set; } | Gets or sets position of the paragraph. |
+| [Rectangle](../../aspose.pdf.text/textparagraph/rectangle/) { get; set; } | Gets or sets rectangle of the paragraph. |
+| [Rotation](../../aspose.pdf.text/textparagraph/rotation/) { get; set; } | Gets or sets rotation angle in degrees. |
+| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent/) { get; set; } | Gets or sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value. |
+| [TextRectangle](../../aspose.pdf.text/textparagraph/textrectangle/) { get; } | Gets rectangle of the text placed to the paragraph. |
+| [VerticalAlignment](../../aspose.pdf.text/textparagraph/verticalalignment/) { get; set; } | Gets or sets vertical alignment for the text inside paragrph's [`Rectangle`](./rectangle/). |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AppendLine](./appendline/)(string) | Appends text line |
-| [AppendLine](./appendline/)(TextFragment) | Appends text line with text state parameters. |
-| [AppendLine](./appendline/)(string, float) | Appends text line. |
-| [AppendLine](./appendline/)(string, TextState) | Appends text line with text state parameters. |
-| [AppendLine](./appendline/)(TextFragment, TextState) | Appends text line with text state parameters. |
-| [AppendLine](./appendline/)(string, TextState, float) | Appends text line with text state parameters |
-| [AppendLine](./appendline/)(TextFragment, TextState, float) | Appends text line with text state parameters |
-| [BeginEdit](./beginedit/)() | Begins the editing of the TextParagraph. |
-| [EndEdit](./endedit/)() | Ends the editing of the TextParagraph. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline)(string) | Appends text line |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_1)(string, float) | Appends text line. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_2)(string, TextState) | Appends text line with text state parameters. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_3)(string, TextState, float) | Appends text line with text state parameters |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_4)(TextFragment) | Appends text line with text state parameters. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_5)(TextFragment, TextState) | Appends text line with text state parameters. |
+| [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_6)(TextFragment, TextState, float) | Appends text line with text state parameters |
+| [BeginEdit](../../aspose.pdf.text/textparagraph/beginedit/)() | Begins the editing of the TextParagraph. |
+| [EndEdit](../../aspose.pdf.text/textparagraph/endedit/)() | Ends the editing of the TextParagraph. |
 
 ### See Also
 

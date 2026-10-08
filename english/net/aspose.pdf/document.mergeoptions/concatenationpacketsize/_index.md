@@ -7,7 +7,7 @@ description: "MergeOptions property. Number of documents concatenated before new
 type: docs
 weight: 50
 url: "/net/aspose.pdf/document.mergeoptions/concatenationpacketsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.MergeOptions.ConcatenationPacketSize property
 
@@ -20,7 +20,7 @@ public int ConcatenationPacketSize { get; set; }
 
 ### See Also
 
-* class [Document.MergeOptions](../)
+* class [MergeOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

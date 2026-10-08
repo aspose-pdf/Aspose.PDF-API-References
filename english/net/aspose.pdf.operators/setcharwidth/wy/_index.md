@@ -7,7 +7,7 @@ description: "SetCharWidth property. Vertical displacement of glyph coordinate."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/setcharwidth/wy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCharWidth.Wy property
 

@@ -7,7 +7,7 @@ description: "FormFieldFacade field. Defines text justification alignment style.
 type: docs
 weight: 350
 url: "/net/aspose.pdf.facades/formfieldfacade/alignjustified/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.AlignJustified field
 

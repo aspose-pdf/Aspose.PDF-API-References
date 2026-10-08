@@ -7,7 +7,7 @@ description: "SetDash method. Gets operator string representation."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setdash/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetDash.ToString method
 

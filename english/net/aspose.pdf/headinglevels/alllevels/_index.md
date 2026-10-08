@@ -7,7 +7,7 @@ description: "HeadingLevels property. Gets all heading levels."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/headinglevels/alllevels/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HeadingLevels.AllLevels property
 

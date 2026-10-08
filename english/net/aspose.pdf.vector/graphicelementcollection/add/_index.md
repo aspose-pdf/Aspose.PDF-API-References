@@ -7,12 +7,12 @@ description: "GraphicElementCollection method. Adds a new GraphicElement to the 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.vector/graphicelementcollection/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicElementCollection.Add method
 
-Adds a new [`GraphicElement`](../../../aspose.pdf.vector/graphicelement/) to the collection.
- All items in the collection must have the same `Parent`.
+Adds a new [`GraphicElement`](../../graphicelement/) to the collection.
+ All items in the collection must have the same [`Parent`](../../graphicelement/parent/).
 
 ```csharp
 public void Add(GraphicElement item)
@@ -24,7 +24,7 @@ public void Add(GraphicElement item)
 
 ### See Also
 
-* class [GraphicElement](../../../aspose.pdf.vector/graphicelement/)
+* class [GraphicElement](../../graphicelement/)
 * class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

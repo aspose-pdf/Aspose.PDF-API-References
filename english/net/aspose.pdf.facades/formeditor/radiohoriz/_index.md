@@ -7,7 +7,7 @@ description: "FormEditor property. The flag to indicate whether the radios are a
 type: docs
 weight: 410
 url: "/net/aspose.pdf.facades/formeditor/radiohoriz/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.RadioHoriz property
 

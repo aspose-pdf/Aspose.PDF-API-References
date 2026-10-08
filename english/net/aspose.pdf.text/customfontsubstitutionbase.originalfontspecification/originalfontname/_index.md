@@ -7,7 +7,7 @@ description: "OriginalFontSpecification property. Gets original font name."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/originalfontname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CustomFontSubstitutionBase.OriginalFontSpecification.OriginalFontName property
 
@@ -19,7 +19,7 @@ public string OriginalFontName { get; }
 
 ### See Also
 
-* class [CustomFontSubstitutionBase.OriginalFontSpecification](../)
+* class [OriginalFontSpecification](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 

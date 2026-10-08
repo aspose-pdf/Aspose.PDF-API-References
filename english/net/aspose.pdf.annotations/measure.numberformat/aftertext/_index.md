@@ -7,7 +7,7 @@ description: "NumberFormat property. Text that shall be concatenated after the l
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/measure.numberformat/aftertext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.NumberFormat.AfterText property
 
@@ -19,7 +19,7 @@ public string AfterText { get; set; }
 
 ### See Also
 
-* class [Measure.NumberFormat](../)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

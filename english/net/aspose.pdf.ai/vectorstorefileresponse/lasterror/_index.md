@@ -7,7 +7,7 @@ description: "VectorStoreFileResponse property. Gets or sets the last error asso
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/vectorstorefileresponse/lasterror/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileResponse.LastError property
 
@@ -19,7 +19,7 @@ public LastError LastError { get; set; }
 
 ### See Also
 
-* class [LastError](../../../aspose.pdf.ai/lasterror/)
+* class [LastError](../../lasterror/)
 * class [VectorStoreFileResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

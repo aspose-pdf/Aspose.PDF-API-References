@@ -7,7 +7,7 @@ description: "Page property. Gets or sets the background color of the page."
 type: docs
 weight: 600
 url: "/net/aspose.pdf/page/background/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Background property
 
@@ -19,7 +19,7 @@ public Color Background { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
+* class [Color](../../color/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

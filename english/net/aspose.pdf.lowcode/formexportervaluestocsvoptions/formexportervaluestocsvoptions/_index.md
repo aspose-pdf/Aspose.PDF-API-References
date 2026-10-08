@@ -7,11 +7,11 @@ description: "FormExporterValuesToCsvOptions constructor. Initializes a new inst
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formexportervaluestocsvoptions/formexportervaluestocsvoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormExporterValuesToCsvOptions constructor
 
-Initializes a new instance of the [`FormExporterValuesToCsvOptions`](../../../aspose.pdf.lowcode/formexportervaluestocsvoptions/) object, 
+Initializes a new instance of the [`FormExporterValuesToCsvOptions`](../) object, 
  in which the fields whose data will be exported and the separator for the exported data are specified.
 
 ```csharp
@@ -25,7 +25,7 @@ public FormExporterValuesToCsvOptions(SelectField selectField, char delimeter = 
 
 ### See Also
 
-* delegate [SelectField](../../../aspose.pdf.lowcode/selectfield/)
+* delegate [SelectField](../../selectfield/)
 * class [FormExporterValuesToCsvOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

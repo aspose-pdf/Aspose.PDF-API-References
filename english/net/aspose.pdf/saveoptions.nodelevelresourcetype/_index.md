@@ -7,7 +7,7 @@ description: "Aspose.Pdf.SaveOptions.NodeLevelResourceType enum. enumerates poss
 type: docs
 weight: 2780
 url: "/net/aspose.pdf/saveoptions.nodelevelresourcetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.NodeLevelResourceType enumeration
 

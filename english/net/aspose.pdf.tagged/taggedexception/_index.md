@@ -8,7 +8,7 @@ type: docs
 weight: 50
 url: "/net/aspose.pdf.tagged/taggedexception/"
 keywords: "TaggedException, Aspose.Pdf.Tagged, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TaggedException class
 
@@ -22,13 +22,7 @@ public class TaggedException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [TaggedException](./taggedexception/)() | Initializes a new instance of the [`TaggedException`](../../aspose.pdf.tagged/taggedexception/) class. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
+| [TaggedException](taggedexception/)() | Initializes a new instance of the `TaggedException` class. |
 
 ### See Also
 

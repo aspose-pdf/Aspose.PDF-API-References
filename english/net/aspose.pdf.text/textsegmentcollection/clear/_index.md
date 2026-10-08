@@ -7,7 +7,7 @@ description: "TextSegmentCollection method. Clears all items from the collection
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/textsegmentcollection/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSegmentCollection.Clear method
 

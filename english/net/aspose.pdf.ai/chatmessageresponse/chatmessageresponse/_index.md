@@ -7,11 +7,11 @@ description: "ChatMessageResponse constructor. Initializes a new instance of the
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/chatmessageresponse/chatmessageresponse/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChatMessageResponse() {#constructor}
 
-Initializes a new instance of the [`ChatMessageResponse`](../../../aspose.pdf.ai/chatmessageresponse/) class.
+Initializes a new instance of the [`ChatMessageResponse`](../) class.
 
 ```csharp
 public ChatMessageResponse()
@@ -27,7 +27,7 @@ public ChatMessageResponse()
 
 ## ChatMessageResponse(string, string) {#constructor_1}
 
-Initializes a new instance of the [`ChatMessageResponse`](../../../aspose.pdf.ai/chatmessageresponse/) class.
+Initializes a new instance of the [`ChatMessageResponse`](../) class.
 
 ```csharp
 public ChatMessageResponse(string role, string content)

@@ -7,7 +7,7 @@ description: "FileDataSource constructor. Initializes new file data source with 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/filedatasource/filedatasource/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileDataSource constructor
 

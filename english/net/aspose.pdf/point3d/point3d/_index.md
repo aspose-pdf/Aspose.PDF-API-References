@@ -7,11 +7,11 @@ description: "Point3D constructor. Initializes new instance of the Point3D."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/point3d/point3d/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Point3D constructor
 
-Initializes new instance of the [`Point3D`](../../../aspose.pdf/point3d/).
+Initializes new instance of the [`Point3D`](../).
 
 ```csharp
 public Point3D(double x, double y, double z)

@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionSchema property. Gets the schema description."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/xmppdfaextensionschema/description/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchema.Description property
 
@@ -19,7 +19,7 @@ public XmpPdfAExtensionSchemaDescription Description { get; }
 
 ### See Also
 
-* class [XmpPdfAExtensionSchemaDescription](../../../aspose.pdf/xmppdfaextensionschemadescription/)
+* class [XmpPdfAExtensionSchemaDescription](../../xmppdfaextensionschemadescription/)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

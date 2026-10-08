@@ -7,7 +7,7 @@ description: "ContentsResizeValue method. Initializes automatically calculated v
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/auto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeValue.Auto method
 
@@ -23,7 +23,7 @@ New value instance.
 
 ### See Also
 
-* class [PdfFileEditor.ContentsResizeValue](../)
+* class [ContentsResizeValue](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

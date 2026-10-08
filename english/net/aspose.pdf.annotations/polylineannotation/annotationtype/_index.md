@@ -7,7 +7,7 @@ description: "PolylineAnnotation property. Gets type of annotation."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/polylineannotation/annotationtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PolylineAnnotation.AnnotationType property
 
@@ -19,7 +19,7 @@ public override AnnotationType AnnotationType { get; }
 
 ### See Also
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* enum [AnnotationType](../../annotationtype/)
 * class [PolylineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

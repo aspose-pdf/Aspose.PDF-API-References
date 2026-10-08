@@ -7,7 +7,7 @@ description: "HtmlSaveOptions property. This attribute sets minimal width of gra
 type: docs
 weight: 210
 url: "/net/aspose.pdf/htmlsaveoptions/minimallinewidth/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.MinimalLineWidth property
 

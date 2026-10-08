@@ -7,7 +7,7 @@ description: "XpsSaveOptions property. Gets/sets the default font name. Used if 
 type: docs
 weight: 40
 url: "/net/aspose.pdf/xpssaveoptions/defaultfont/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XpsSaveOptions.DefaultFont property
 

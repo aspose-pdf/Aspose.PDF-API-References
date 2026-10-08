@@ -7,7 +7,7 @@ description: "PdfPageEditor method. Returns the rotation of specified page."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/pdfpageeditor/getpagerotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.GetPageRotation method
 

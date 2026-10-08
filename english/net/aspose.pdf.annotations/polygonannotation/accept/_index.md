@@ -7,7 +7,7 @@ description: "PolygonAnnotation method. Accepts visitor object for annotation pr
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/polygonannotation/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PolygonAnnotation.Accept method
 
@@ -23,7 +23,7 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [AnnotationSelector](../../annotationselector/)
 * class [PolygonAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

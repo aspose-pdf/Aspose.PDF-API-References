@@ -7,7 +7,7 @@ description: "GraphicalPdfComparer property. Gets and sets the resolution of the
 type: docs
 weight: 80
 url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/resolution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicalPdfComparer.Resolution property
 

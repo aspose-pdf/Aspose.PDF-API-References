@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionProperty property. Gets the property category."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/xmppdfaextensionproperty/category/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionProperty.Category property
 
@@ -19,7 +19,7 @@ public XmpPdfAExtensionCategoryType Category { get; }
 
 ### See Also
 
-* enum [XmpPdfAExtensionCategoryType](../../../aspose.pdf/xmppdfaextensioncategorytype/)
+* enum [XmpPdfAExtensionCategoryType](../../xmppdfaextensioncategorytype/)
 * class [XmpPdfAExtensionProperty](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

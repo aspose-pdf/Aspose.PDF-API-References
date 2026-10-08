@@ -7,7 +7,7 @@ description: "ParagraphAbsorber property. Gets or sets the ParagraphAbsorberOpti
 type: docs
 weight: 100
 url: "/net/aspose.pdf.text/paragraphabsorber/paragraphabsorberoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ParagraphAbsorber.ParagraphAbsorberOptions property
 
@@ -19,7 +19,7 @@ public ParagraphAbsorberOptions ParagraphAbsorberOptions { get; set; }
 
 ### See Also
 
-* class [ParagraphAbsorberOptions](../../../aspose.pdf.text/paragraphabsorberoptions/)
+* class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

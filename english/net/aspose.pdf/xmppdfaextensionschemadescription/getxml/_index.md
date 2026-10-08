@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionSchemaDescription method. Returns the list of xml 
 type: docs
 weight: 20
 url: "/net/aspose.pdf/xmppdfaextensionschemadescription/getxml/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchemaDescription.GetXml method
 

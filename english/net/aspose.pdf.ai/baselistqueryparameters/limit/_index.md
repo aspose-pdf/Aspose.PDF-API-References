@@ -7,7 +7,7 @@ description: "BaseListQueryParameters property. Gets or sets a limit on the numb
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/baselistqueryparameters/limit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseListQueryParameters.Limit property
 

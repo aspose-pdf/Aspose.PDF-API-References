@@ -7,7 +7,7 @@ description: "CreateEmbeddingRequest property. Gets or sets the model to generat
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/createembeddingrequest/model/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateEmbeddingRequest.Model property
 

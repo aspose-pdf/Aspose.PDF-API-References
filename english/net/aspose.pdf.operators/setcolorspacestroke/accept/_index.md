@@ -7,7 +7,7 @@ description: "SetColorSpaceStroke method. Accepts visitor object to process oper
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/setcolorspacestroke/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColorSpaceStroke.Accept method
 

@@ -7,7 +7,7 @@ description: "FormattedText property. Gets height of text."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/formattedtext/textheight/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormattedText.TextHeight property
 

@@ -7,7 +7,7 @@ description: "HiddenDataSanitizer method. Sanitizes a given PDF document by remo
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizer/sanitize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HiddenDataSanitizer.Sanitize method
 

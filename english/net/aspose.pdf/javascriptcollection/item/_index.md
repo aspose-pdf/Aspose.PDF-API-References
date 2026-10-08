@@ -7,7 +7,7 @@ description: "JavaScriptCollection property. Gets or sets JavaScript from collec
 type: docs
 weight: 30
 url: "/net/aspose.pdf/javascriptcollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## JavaScriptCollection indexer
 

@@ -7,9 +7,9 @@ description: "OpenAIChatCopilotOptions method. Sets the document collection for 
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withdocuments/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## WithDocuments([DocumentCollection](../../../aspose.pdf.ai/documentcollection/)) {#withdocuments}
+## WithDocuments(DocumentCollection) {#withdocuments}
 
 Sets the document collection for the chat copilot options.
 
@@ -23,66 +23,18 @@ public OpenAIChatCopilotOptions WithDocuments(DocumentCollection documentCollect
 
 ### Return Value
 
-The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
+The current instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
-* class [DocumentCollection](../../../aspose.pdf.ai/documentcollection/)
+* class [OpenAIChatCopilotOptions](../)
+* class [DocumentCollection](../../documentcollection/)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## WithDocuments(List<PdfDocument>) {#withdocuments_1}
-
-Adds multiple PDF documents to the document collection for the chat copilot options.
-
-```csharp
-public OpenAIChatCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pdfDocuments | List`1 | The list of PDF documents to add. |
-
-### Return Value
-
-The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
-
-### See Also
-
-* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## WithDocuments(List<string>) {#withdocuments_2}
-
-Adds multiple document paths to the document collection for the chat copilot options.
-
-```csharp
-public OpenAIChatCopilotOptions WithDocuments(List<string> filePaths)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| filePaths | List`1 | The list of file paths to add. |
-
-### Return Value
-
-The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
-
-### See Also
-
-* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## WithDocuments(List<TextDocument>) {#withdocuments_3}
+## WithDocuments(List&lt;TextDocument&gt;) {#withdocuments_1}
 
 Adds multiple text documents to the document collection for the chat copilot options.
 
@@ -96,11 +48,61 @@ public OpenAIChatCopilotOptions WithDocuments(List<TextDocument> textDocuments)
 
 ### Return Value
 
-The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
+The current instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+* class [OpenAIChatCopilotOptions](../)
+* class [TextDocument](../../textdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_2}
+
+Adds multiple PDF documents to the document collection for the chat copilot options.
+
+```csharp
+public OpenAIChatCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdfDocuments | List`1 | The list of PDF documents to add. |
+
+### Return Value
+
+The current instance of [`OpenAIChatCopilotOptions`](../).
+
+### See Also
+
+* class [OpenAIChatCopilotOptions](../)
+* class [PdfDocument](../../pdfdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## WithDocuments(List&lt;string&gt;) {#withdocuments_3}
+
+Adds multiple document paths to the document collection for the chat copilot options.
+
+```csharp
+public OpenAIChatCopilotOptions WithDocuments(List<string> filePaths)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| filePaths | List`1 | The list of file paths to add. |
+
+### Return Value
+
+The current instance of [`OpenAIChatCopilotOptions`](../).
+
+### See Also
+
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

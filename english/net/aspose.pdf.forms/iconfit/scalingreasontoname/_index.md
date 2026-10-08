@@ -7,7 +7,7 @@ description: "IconFit method. Converts scaling reason obejct to name."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.forms/iconfit/scalingreasontoname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IconFit.ScalingReasonToName method
 
@@ -27,7 +27,7 @@ Name of scaling reasong.
 
 ### See Also
 
-* enum [ScalingReason](../../../aspose.pdf.forms/scalingreason/)
+* enum [ScalingReason](../../scalingreason/)
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

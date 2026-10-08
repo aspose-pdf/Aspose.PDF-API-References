@@ -7,7 +7,7 @@ description: "FieldSerializationResult property. Gets the status of the form fie
 type: docs
 weight: 10
 url: "/net/aspose.pdf/fieldserializationresult/fieldserializationstatus/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FieldSerializationResult.FieldSerializationStatus property
 
@@ -23,7 +23,7 @@ The serialization status of the form field.
 
 ### See Also
 
-* enum [FieldSerializationStatus](../../../aspose.pdf/fieldserializationstatus/)
+* enum [FieldSerializationStatus](../../fieldserializationstatus/)
 * class [FieldSerializationResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

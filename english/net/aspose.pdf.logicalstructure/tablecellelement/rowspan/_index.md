@@ -7,7 +7,7 @@ description: "TableCellElement property. Gets or sets the row span."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.logicalstructure/tablecellelement/rowspan/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableCellElement.RowSpan property
 

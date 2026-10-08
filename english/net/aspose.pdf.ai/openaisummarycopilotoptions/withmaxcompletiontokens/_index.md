@@ -7,7 +7,7 @@ description: "OpenAISummaryCopilotOptions method. Sets the max completion tokens
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/withmaxcompletiontokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAISummaryCopilotOptions.WithMaxCompletionTokens method
 
@@ -23,11 +23,11 @@ public OpenAISummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionTok
 
 ### Return Value
 
-The current instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
+The current instance of [`OpenAISummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

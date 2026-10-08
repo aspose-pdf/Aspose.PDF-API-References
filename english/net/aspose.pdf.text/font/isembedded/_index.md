@@ -7,7 +7,7 @@ description: "Font property. Gets or sets a value that indicates whether the fon
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/font/isembedded/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Font.IsEmbedded property
 

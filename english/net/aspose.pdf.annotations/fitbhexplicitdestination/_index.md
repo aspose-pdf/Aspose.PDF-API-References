@@ -8,7 +8,7 @@ type: docs
 weight: 360
 url: "/net/aspose.pdf.annotations/fitbhexplicitdestination/"
 keywords: "FitBHExplicitDestination, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FitBHExplicitDestination class
 
@@ -22,8 +22,8 @@ public sealed class FitBHExplicitDestination : ExplicitDestination
 
 | Name | Description |
 | --- | --- |
-| [FitBHExplicitDestination](./fitbhexplicitdestination/#constructor)(int, double) | Creates remote explicit destination. |
-| [FitBHExplicitDestination](./fitbhexplicitdestination/#constructor_1)(Page, double) | Creates local explicit destination. |
+| [FitBHExplicitDestination](fitbhexplicitdestination/#constructor)(Page, double) | Creates local explicit destination. |
+| [FitBHExplicitDestination](fitbhexplicitdestination/#constructor_1)(int, double) | Creates remote explicit destination. |
 
 ## Properties
 
@@ -31,14 +31,13 @@ public sealed class FitBHExplicitDestination : ExplicitDestination
 | --- | --- |
 | [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Gets the destination page object |
 | [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Gets the destination page number |
-| [Top](./top/) { get; } | Gets the vertical coordinate top positioned at the top edge of the window. |
+| [Top](../../aspose.pdf.annotations/fitbhexplicitdestination/top/) { get; } | Gets the vertical coordinate top positioned at the top edge of the window. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [CreateDestination](../../aspose.pdf.annotations/explicitdestination/createdestination/)(Page, ExplicitDestinationType, params double[]) | Creates instances of ExplicitDestination descendant classes. |
-| override [ToString](./tostring/)() | Converts the object state into string value. Example: "1 FitBH 100". |
+| override [ToString](../../aspose.pdf.annotations/fitbhexplicitdestination/tostring/)() | Converts the object state into string value. Example: "1 FitBH 100". |
 
 ### See Also
 

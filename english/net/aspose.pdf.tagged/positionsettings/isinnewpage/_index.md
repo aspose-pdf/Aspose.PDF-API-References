@@ -7,7 +7,7 @@ description: "PositionSettings property. Gets or sets a bool value that force th
 type: docs
 weight: 70
 url: "/net/aspose.pdf.tagged/positionsettings/isinnewpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PositionSettings.IsInNewPage property
 

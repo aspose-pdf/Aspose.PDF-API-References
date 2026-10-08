@@ -7,7 +7,7 @@ description: "PrinterSettings property. Get or sets the URI of the network print
 type: docs
 weight: 140
 url: "/net/aspose.pdf.printing/printersettings/printeruri/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterSettings.PrinterUri property
 

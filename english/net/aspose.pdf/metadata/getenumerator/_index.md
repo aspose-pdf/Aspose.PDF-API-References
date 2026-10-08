@@ -7,7 +7,7 @@ description: "Metadata method. Returns dictionary enumerator."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/metadata/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metadata.GetEnumerator method
 
@@ -23,6 +23,7 @@ Enumerator.
 
 ### See Also
 
+* class [XmpValue](../../xmpvalue/)
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

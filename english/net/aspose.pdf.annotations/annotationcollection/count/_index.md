@@ -7,7 +7,7 @@ description: "AnnotationCollection property. Gets count of annotations in collec
 type: docs
 weight: 150
 url: "/net/aspose.pdf.annotations/annotationcollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AnnotationCollection.Count property
 

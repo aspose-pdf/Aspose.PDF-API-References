@@ -8,7 +8,7 @@ type: docs
 weight: 230
 url: "/net/aspose.pdf.lowcode/formexportervaluestocsvoptions/"
 keywords: "FormExporterValuesToCsvOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormExporterValuesToCsvOptions class
 
@@ -22,7 +22,7 @@ public sealed class FormExporterValuesToCsvOptions : FormExporterOptions
 
 | Name | Description |
 | --- | --- |
-| [FormExporterValuesToCsvOptions](./formexportervaluestocsvoptions/)(SelectField, char) | Initializes a new instance of the [`FormExporterValuesToCsvOptions`](../../aspose.pdf.lowcode/formexportervaluestocsvoptions/) object, in which the fields whose data will be exported and the separator for the exported data are specified. |
+| [FormExporterValuesToCsvOptions](formexportervaluestocsvoptions/)(SelectField, char) | Initializes a new instance of the `FormExporterValuesToCsvOptions` object, in which the fields whose data will be exported and the separator for the exported data are specified. |
 
 ## Properties
 

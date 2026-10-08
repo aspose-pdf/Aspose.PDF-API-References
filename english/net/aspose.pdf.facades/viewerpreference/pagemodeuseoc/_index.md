@@ -7,7 +7,7 @@ description: "ViewerPreference field. Optional content group panel visible."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/viewerpreference/pagemodeuseoc/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ViewerPreference.PageModeUseOC field
 

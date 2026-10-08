@@ -7,7 +7,7 @@ description: "Embedding property. Gets or sets the embedding vector, which is a 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/embedding/embeddinglist/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Embedding.EmbeddingList property
 

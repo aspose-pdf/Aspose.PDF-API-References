@@ -7,7 +7,7 @@ description: "FormEditor method. Get field flags."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/formeditor/getfieldappearance/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.GetFieldAppearance method
 

@@ -7,11 +7,11 @@ description: "TextSegmentCollection property. Gets the number of TextSegment obj
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/textsegmentcollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSegmentCollection.Count property
 
-Gets the number of [`TextSegment`](../../../aspose.pdf.text/textsegment/) object elements actually contained in the collection.
+Gets the number of [`TextSegment`](../../textsegment/) object elements actually contained in the collection.
 
 ```csharp
 public int Count { get; }

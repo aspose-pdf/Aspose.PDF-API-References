@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Removes open action from the document. Th
 type: docs
 weight: 410
 url: "/net/aspose.pdf.facades/pdfcontenteditor/removedocumentopenaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.RemoveDocumentOpenAction method
 

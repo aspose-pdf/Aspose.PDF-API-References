@@ -7,7 +7,7 @@ description: "SignatureCustomAppearance property. Gets/sets date signed label. D
 type: docs
 weight: 160
 url: "/net/aspose.pdf.forms/signaturecustomappearance/datesignedatlabel/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureCustomAppearance.DateSignedAtLabel property
 

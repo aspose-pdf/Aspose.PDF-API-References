@@ -7,11 +7,11 @@ description: "TextFragment property. Gets or sets String text object that the Te
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/textfragment/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragment.Text property
 
-Gets or sets `String` text object that the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object represents.
+Gets or sets `String` text object that the [`TextFragment`](../) object represents.
 
 ```csharp
 public string Text { get; set; }

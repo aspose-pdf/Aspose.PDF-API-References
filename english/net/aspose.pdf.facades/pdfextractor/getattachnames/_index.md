@@ -7,7 +7,7 @@ description: "PdfExtractor method. Returns list of attachments in PDF file. Note
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/pdfextractor/getattachnames/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractor.GetAttachNames method
 

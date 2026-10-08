@@ -7,7 +7,7 @@ description: "CompositingParameters property. Gets the mask flag."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/compositingparameters/ismasked/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompositingParameters.IsMasked property
 

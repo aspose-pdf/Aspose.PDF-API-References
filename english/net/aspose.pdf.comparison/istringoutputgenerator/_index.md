@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Comparison.IStringOutputGenerator interface. Represents
 type: docs
 weight: 110
 url: "/net/aspose.pdf.comparison/istringoutputgenerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IStringOutputGenerator interface
 
@@ -21,8 +21,8 @@ public interface IStringOutputGenerator
 
 | Name | Description |
 | --- | --- |
-| [GenerateOutput](./generateoutput/)(List<DiffOperation>) | Generates the output based on the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(List<List<DiffOperation>>) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](../../aspose.pdf.comparison/istringoutputgenerator/generateoutput/)(List&lt;DiffOperation&gt;) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](../../aspose.pdf.comparison/istringoutputgenerator/generateoutput/)(List&lt;List&lt;DiffOperation&gt;&gt;) | Generates the output based on the differences between texts and saves it to a file. |
 
 ### See Also
 

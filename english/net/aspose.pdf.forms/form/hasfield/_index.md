@@ -7,9 +7,9 @@ description: "Form method. Check if the form already has specified field."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.forms/form/hasfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## HasField([Field](../../../aspose.pdf.forms/field/)) {#hasfield}
+## HasField(Field) {#hasfield}
 
 Check if the form already has specified field.
 
@@ -27,7 +27,7 @@ public bool HasField(Field field)
 
 ### See Also
 
-* class [Field](../../../aspose.pdf.forms/field/)
+* class [Field](../../field/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
@@ -44,11 +44,11 @@ public bool HasField(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | String | <see cref="P:Aspose.Pdf.Forms.Field.PartialName" /> or <see cref="P:Aspose.Pdf.Annotations.Annotation.FullName" /> of the field. |
+| fieldName | String | [`PartialName`](../field/partialname/) or [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) of the field. |
 
 ### Return Value
 
- if the specified field name added to Form; otherwise, .
+`true` if the specified field name added to Form; otherwise, `false`.
 
 ### See Also
 
@@ -68,13 +68,12 @@ public bool HasField(string fieldName, bool searchChildren)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | String | <see cref="P:Aspose.Pdf.Forms.Field.PartialName" /> or <see cref="P:Aspose.Pdf.Annotations.Annotation.FullName" /> of the field. |
-| searchChildren | Boolean | When set to <see langword="true" /> the whole hierarchy of form fields would be searched for the requested *fieldName*
- (note that in this case the <see cref="P:Aspose.Pdf.Annotations.Annotation.FullName" /> of the required field should be passed as *fieldName*). |
+| fieldName | String | [`PartialName`](../field/partialname/) or [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) of the field. |
+| searchChildren | Boolean | When set to `true` the whole hierarchy of form fields would be searched for the requested *fieldName* (note that in this case the [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) of the required field should be passed as *fieldName*). |
 
 ### Return Value
 
- if the specified field name added to Form; otherwise, .
+`true` if the specified field name added to Form; otherwise, `false`.
 
 ### See Also
 

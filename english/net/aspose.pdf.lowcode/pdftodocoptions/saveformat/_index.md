@@ -7,7 +7,7 @@ description: "PdfToDocOptions property. Save format of the output document."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/pdftodocoptions/saveformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfToDocOptions.SaveFormat property
 
@@ -19,7 +19,7 @@ public SaveFormat SaveFormat { get; set; }
 
 ### See Also
 
-* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
+* enum [SaveFormat](../../saveformat/)
 * class [PdfToDocOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

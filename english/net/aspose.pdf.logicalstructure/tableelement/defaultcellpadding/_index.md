@@ -7,7 +7,7 @@ description: "TableElement property. Gets or sets the default cell padding."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.logicalstructure/tableelement/defaultcellpadding/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableElement.DefaultCellPadding property
 

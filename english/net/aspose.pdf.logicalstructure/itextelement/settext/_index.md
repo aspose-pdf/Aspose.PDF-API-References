@@ -7,7 +7,7 @@ description: "ITextElement method. Appends text content to current text element.
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/itextelement/settext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITextElement.SetText method
 

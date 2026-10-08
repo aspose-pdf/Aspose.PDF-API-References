@@ -7,76 +7,9 @@ description: "PdfContentEditor method. Creates a local link in PDF document."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createlocallink/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## CreateLocalLink([Rectangle](../../../aspose.pdf.drawing/rectangle/), int, int) {#createlocallink}
-
-Creates a local link in PDF document.
-
-```csharp
-public void CreateLocalLink(Rectangle rect, int desPage, int originalPage)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | Rectangle | The rectangle for active click. |
-| desPage | Int32 | The destination page. |
-| originalPage | Int32 | The number of original page where rectangle bound with local link will be created. |
-
-## Examples
-
-```csharp
-PdfContentEditor editor = new PdfContentEditor();
-editor.BindPdf("example.pdf");
-editor.CreateLocalLink(new System.Drawing.Rectangle(0, 0, 100, 100), 2, 1});
-editor.Save("example_out.pdf");
-```
-
-### See Also
-
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## CreateLocalLink([Rectangle](../../../aspose.pdf.drawing/rectangle/), int, int, [Color](../../../aspose.pdf/color/)) {#createlocallink_1}
-
-Creates a local link in PDF document.
-
-```csharp
-public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color clr)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rect | Rectangle | The rectangle for active click. |
-| desPage | Int32 | The destination page. |
-| originalPage | Int32 | The number of original page where rectangle bound with local link will be created. |
-| clr | Color | The colour of rectangle for active click. |
-
-## Examples
-
-```csharp
-PdfContentEditor editor = new PdfContentEditor();
-editor.BindPdf("example.pdf");
-editor.CreateLocalLink(new System.Drawing.Rectangle(0, 0, 100, 100),
-    2, 1, System.Drawing.Color.Red });
-editor.Save("example_out.pdf");
-```
-
-### See Also
-
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [Color](../../../aspose.pdf/color/)
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## CreateLocalLink([Rectangle](../../../aspose.pdf.drawing/rectangle/), int, int, [Color](../../../aspose.pdf/color/), Enum[]) {#createlocallink_2}
+## CreateLocalLink(Rectangle, int, int, Color, Enum[]) {#createlocallink}
 
 Creates a local link in PDF document.
 
@@ -106,8 +39,70 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [Color](../../../aspose.pdf/color/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## CreateLocalLink(Rectangle, int, int, Color) {#createlocallink_1}
+
+Creates a local link in PDF document.
+
+```csharp
+public void CreateLocalLink(Rectangle rect, int desPage, int originalPage, Color clr)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | Rectangle | The rectangle for active click. |
+| desPage | Int32 | The destination page. |
+| originalPage | Int32 | The number of original page where rectangle bound with local link will be created. |
+| clr | Color | The colour of rectangle for active click. |
+
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateLocalLink(new System.Drawing.Rectangle(0, 0, 100, 100),
+    2, 1, System.Drawing.Color.Red });
+editor.Save("example_out.pdf");
+```
+
+### See Also
+
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## CreateLocalLink(Rectangle, int, int) {#createlocallink_2}
+
+Creates a local link in PDF document.
+
+```csharp
+public void CreateLocalLink(Rectangle rect, int desPage, int originalPage)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| rect | Rectangle | The rectangle for active click. |
+| desPage | Int32 | The destination page. |
+| originalPage | Int32 | The number of original page where rectangle bound with local link will be created. |
+
+## Examples
+
+```csharp
+PdfContentEditor editor = new PdfContentEditor();
+editor.BindPdf("example.pdf");
+editor.CreateLocalLink(new System.Drawing.Rectangle(0, 0, 100, 100), 2, 1});
+editor.Save("example_out.pdf");
+```
+
+### See Also
+
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Rendition property. Gets rendition type."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/rendition/renditiontype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rendition.RenditionType property
 
@@ -19,7 +19,7 @@ public RenditionType RenditionType { get; }
 
 ### See Also
 
-* enum [RenditionType](../../../aspose.pdf.annotations/renditiontype/)
+* enum [RenditionType](../../renditiontype/)
 * class [Rendition](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

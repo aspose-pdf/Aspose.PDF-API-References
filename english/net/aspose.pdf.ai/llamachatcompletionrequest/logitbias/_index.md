@@ -7,7 +7,7 @@ description: "LlamaChatCompletionRequest property. Sets or gets the logit bias t
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/llamachatcompletionrequest/logitbias/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaChatCompletionRequest.LogitBias property
 

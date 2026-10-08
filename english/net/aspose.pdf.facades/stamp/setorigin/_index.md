@@ -7,7 +7,7 @@ description: "Stamp method. Sets position on page where stamp will be placed."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/stamp/setorigin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.SetOrigin method
 

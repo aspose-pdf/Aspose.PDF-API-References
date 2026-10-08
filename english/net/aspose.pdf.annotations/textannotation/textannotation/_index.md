@@ -7,9 +7,9 @@ description: "TextAnnotation constructor. Constructor for annotation when used i
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/textannotation/textannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## TextAnnotation([Document](../../../aspose.pdf/document/)) {#constructor}
+## TextAnnotation(Document) {#constructor}
 
 Constructor for annotation when used in Generator.
 
@@ -30,7 +30,7 @@ public TextAnnotation(Document document)
 
 ---
 
-## TextAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
+## TextAnnotation(Page, Rectangle) {#constructor_1}
 
 Creates new Text annotation on the specified page.
 
@@ -46,7 +46,7 @@ public TextAnnotation(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

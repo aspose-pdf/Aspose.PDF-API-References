@@ -8,7 +8,7 @@ type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/lineinfo/"
 keywords: "LineInfo, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineInfo class
 
@@ -22,18 +22,18 @@ public sealed class LineInfo
 
 | Name | Description |
 | --- | --- |
-| [LineInfo](./lineinfo/)() | The default constructor. |
+| [LineInfo](lineinfo/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BorderStyle](./borderstyle/) { get; set; } | Gets or sets the border style of a line, 0 represents solid, 1 represents dashed, 2 represents beleved, 3 represents insert, 4 represents underline. |
-| [LineColor](./linecolor/) { get; set; } | Gets or sets the color of a line. |
-| [LineDashPattern](./linedashpattern/) { get; set; } | Gets or sets the dash pattern of a line. |
-| [LineWidth](./linewidth/) { get; set; } | Gets or sets the width of a line. |
-| [VerticeCoordinate](./verticecoordinate/) { get; set; } | Gets or sets an array of numbers representing the alternating horizontal and vertical,coordinates, respectively, of each vertex. |
-| [Visibility](./visibility/) { get; set; } | Gets or sets the visibility of a line. |
+| [BorderStyle](../../aspose.pdf.facades/lineinfo/borderstyle/) { get; set; } | Gets or sets the border style of a line, 0 represents solid, 1 represents dashed, 2 represents beleved, 3 represents insert, 4 represents underline. |
+| [LineColor](../../aspose.pdf.facades/lineinfo/linecolor/) { get; set; } | Gets or sets the color of a line. |
+| [LineDashPattern](../../aspose.pdf.facades/lineinfo/linedashpattern/) { get; set; } | Gets or sets the dash pattern of a line. |
+| [LineWidth](../../aspose.pdf.facades/lineinfo/linewidth/) { get; set; } | Gets or sets the width of a line. |
+| [VerticeCoordinate](../../aspose.pdf.facades/lineinfo/verticecoordinate/) { get; set; } | Gets or sets an array of numbers representing the alternating horizontal and vertical,coordinates, respectively, of each vertex. |
+| [Visibility](../../aspose.pdf.facades/lineinfo/visibility/) { get; set; } | Gets or sets the visibility of a line. |
 
 ### See Also
 

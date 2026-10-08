@@ -7,7 +7,7 @@ description: "OptimizationOptions property. If this flag is set to true, Resourc
 type: docs
 weight: 50
 url: "/net/aspose.pdf.optimization/optimizationoptions/linkduplicatestreams/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizationOptions.LinkDuplicateStreams property
 

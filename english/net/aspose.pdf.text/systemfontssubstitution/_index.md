@@ -8,7 +8,7 @@ type: docs
 weight: 350
 url: "/net/aspose.pdf.text/systemfontssubstitution/"
 keywords: "SystemFontsSubstitution, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SystemFontsSubstitution class
 
@@ -22,14 +22,14 @@ public sealed class SystemFontsSubstitution : FontSubstitution
 
 | Name | Description |
 | --- | --- |
-| [SystemFontsSubstitution](./systemfontssubstitution/)(SubstitutionFontCategories) | Initializes a new instance of [`SystemFontsSubstitution`](../../aspose.pdf.text/systemfontssubstitution/) class. |
+| [SystemFontsSubstitution](systemfontssubstitution/)(SubstitutionFontCategories) | Initializes a new instance of `SystemFontsSubstitution` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DefaultFont](./defaultfont/) { get; set; } | Gets or sets default substitution font. The font is used when no other valid substitution were found but initial font belongs to target substitution category (`FontCategories`). |
-| [FontCategories](./fontcategories/) { get; set; } | Gets or sets substitution font categories that should be substituted with system fonts. |
+| [DefaultFont](../../aspose.pdf.text/systemfontssubstitution/defaultfont/) { get; set; } | Gets or sets default substitution font. The font is used when no other valid substitution were found but initial font belongs to target substitution category ([`FontCategories`](./fontcategories/)). |
+| [FontCategories](../../aspose.pdf.text/systemfontssubstitution/fontcategories/) { get; set; } | Gets or sets substitution font categories that should be substituted with system fonts. |
 
 ### See Also
 

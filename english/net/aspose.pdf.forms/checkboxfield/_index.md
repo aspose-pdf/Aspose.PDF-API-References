@@ -8,7 +8,7 @@ type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/checkboxfield/"
 keywords: "CheckboxField, Aspose.Pdf.Forms, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CheckboxField class
 
@@ -22,42 +22,45 @@ public class CheckboxField : Field
 
 | Name | Description |
 | --- | --- |
-| [CheckboxField](./checkboxfield/#constructor)(Document) | Constructor to use with Generator. |
-| [CheckboxField](./checkboxfield/#constructor_1)(Document, Rectangle) | Constructor for CheckboxField class. |
-| [CheckboxField](./checkboxfield/#constructor_2)(Page, Rectangle) | Constructor for CheckboxField class. |
+| [CheckboxField](checkboxfield/#constructor)(Page, Rectangle) | Constructor for CheckboxField class. |
+| [CheckboxField](checkboxfield/#constructor_1)(Document, Rectangle) | Constructor for CheckboxField class. |
+| [CheckboxField](checkboxfield/#constructor_2)(Document) | Constructor to use with Generator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Actions](../../aspose.pdf.annotations/widgetannotation/actions/) { get; } | Gets the annotation actions. |
-| override [ActiveState](./activestate/) { get; set; } | Gets or sets current annotation appearance state. |
-| [AllowedStates](./allowedstates/) { get; } | Returns list of allowed states. |
+| override [ActiveState](../../aspose.pdf.forms/checkboxfield/activestate/) { get; set; } | Gets or sets current annotation appearance state. |
+| [AllowedStates](../../aspose.pdf.forms/checkboxfield/allowedstates/) { get; } | Returns list of allowed states. |
 | [AlternateName](../../aspose.pdf.forms/field/alternatename/) { get; set; } | Gets or sets alternate name of the field (An alternate field name that shall be used in place of the actual field name wherever the field shall be identified in the user interface). Alternate name is used as field tooltip in Adobe Acrobat. |
 | [AnnotationIndex](../../aspose.pdf.forms/field/annotationindex/) { get; set; } | Gets or sets index of this anotation on the page. |
 | override [AnnotationType](../../aspose.pdf.annotations/widgetannotation/annotationtype/) { get; } | Gets type of annotation. |
 | [Appearance](../../aspose.pdf.annotations/annotation/appearance/) { get; } | Gets appearance dictionary of the annotation. |
-| [Border](../../aspose.pdf.annotations/annotation/border/) { get; set; } | Gets or sets annotation border characteristics. `Border` |
+| [Border](../../aspose.pdf.annotations/annotation/border/) { get; set; } | Gets or sets annotation border characteristics. [`Border`](../../aspose.pdf.annotations/annotation/border/) |
 | [Characteristics](../../aspose.pdf.annotations/annotation/characteristics/) { get; } | Gets annotation characteristics. |
-| [Checked](./checked/) { get; set; } | Gets or sets state of check box. |
+| [Checked](../../aspose.pdf.forms/checkboxfield/checked/) { get; set; } | Gets or sets state of check box. |
 | [Color](../../aspose.pdf.annotations/annotation/color/) { get; set; } | Gets or sets annotation color. |
 | [Contents](../../aspose.pdf.annotations/annotation/contents/) { get; set; } | Gets or sets annotation text. |
 | [Count](../../aspose.pdf.forms/field/count/) { get; } | Gets number of subfields in this field. (For example number of items in radio button field). |
 | [DefaultAppearance](../../aspose.pdf.annotations/widgetannotation/defaultappearance/) { get; set; } | Gets or sets default appearance of the field. |
-| [ExportValue](./exportvalue/) { get; set; } | Gets or sets export value of CheckBox field. |
+| [ExportValue](../../aspose.pdf.forms/checkboxfield/exportvalue/) { get; set; } | Gets or sets export value of CheckBox field. |
 | [Exportable](../../aspose.pdf.annotations/widgetannotation/exportable/) { get; set; } | Gets or sets exportable flag of the field. |
-| static [FitIntoRectangle](../../aspose.pdf.forms/field/fitintorectangle/) { get; set; } | If true then font size will reduced to fit text to specified rectangle. |
 | [Flags](../../aspose.pdf.annotations/annotation/flags/) { get; set; } | Flags of the annotation. |
 | [FullName](../../aspose.pdf.annotations/annotation/fullname/) { get; } | Gets full qualified name of the annotation. |
 | virtual [Height](../../aspose.pdf.annotations/annotation/height/) { get; set; } | Gets or sets height of the annotation. |
 | [Highlighting](../../aspose.pdf.annotations/widgetannotation/highlighting/) { get; set; } | Annotation highlighting mode. |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Gets or sets the fragment hyperlink(for pdf generator). |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Gets or sets a bool value that indicates whether this paragraph will be at next column. Default is false.(for pdf generation) |
 | [IsGroup](../../aspose.pdf.forms/field/isgroup/) { get; } | Gets or sets boolean value which indicates is this field non-terminal field i.e. group of fields. |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Gets or sets a paragraph is inline. Default is false.(for pdf generation) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Gets or sets a bool value that force this paragraph generates at new page. Default is false.(for pdf generation) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Gets or sets a bool value that indicates whether current paragraph remains in the same page along with next paragraph. Default is false.(for pdf generation) |
 | [IsSharedField](../../aspose.pdf.forms/field/issharedfield/) { get; set; } | Property for Generator support. Used when field is added to header or footer. If true, this field will created once and it's appearance will be visible on all pages of the document. If false, separated field will be created for every document page. |
 | [IsSynchronized](../../aspose.pdf.forms/field/issynchronized/) { get; } | Returns true if dictionary is synchronized. |
 | [Item](../../aspose.pdf.forms/field/item/) { get; } | Gets subfield contained in this field by name of the subfield. |
 | [MappingName](../../aspose.pdf.forms/field/mappingname/) { get; set; } | Gets or sets mapping name of the field that shall be used when exporting interactive form field data from the document. |
-| static [MaxFontSize](../../aspose.pdf.forms/field/maxfontsize/) { get; set; } | Maximail font size which can be used for field contents. -1 to don't check size. |
-| static [MinFontSize](../../aspose.pdf.forms/field/minfontsize/) { get; set; } | Minimal font size which can be used for field contents. -1 to don't check size. |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Gets or sets a outer margin for paragraph (for pdf generation) |
 | [Modified](../../aspose.pdf.annotations/annotation/modified/) { get; set; } | Gets or sets date and time when annotation was recently modified. |
 | [Name](../../aspose.pdf.annotations/annotation/name/) { get; set; } | Gets or sets annotation name on the page. |
 | [OnActivated](../../aspose.pdf.annotations/widgetannotation/onactivated/) { get; set; } | An action which shall be performed when the annotation is activated. |
@@ -68,28 +71,29 @@ public class CheckboxField : Field
 | override [Rect](../../aspose.pdf.forms/field/rect/) { get; set; } | Gets or sets the field rectangle. |
 | [Required](../../aspose.pdf.annotations/widgetannotation/required/) { get; set; } | Gets or sets required status of the field. |
 | [States](../../aspose.pdf.annotations/annotation/states/) { get; } | Gets appearance dictionary of annotation. |
-| [Style](./style/) { get; set; } | Gets or sets style of check box. |
+| [Style](../../aspose.pdf.forms/checkboxfield/style/) { get; set; } | Gets or sets style of check box. |
 | [SyncRoot](../../aspose.pdf.forms/field/syncroot/) { get; } | Synchronization object. |
 | [TabOrder](../../aspose.pdf.forms/field/taborder/) { get; set; } | Gets or sets tab order of the field. |
 | [TextHorizontalAlignment](../../aspose.pdf.annotations/annotation/texthorizontalalignment/) { get; set; } | Gets or sets text alignment for annotation. |
-| static [UpdateAppearanceOnConvert](../../aspose.pdf.annotations/annotation/updateappearanceonconvert/) { get; set; } | If true, annotation appearance will be updated before converting PF document into image. This allows convert fields correctly but probably demand more time. |
-| static [UseFontSubset](../../aspose.pdf.annotations/annotation/usefontsubset/) { get; set; } | If this property set to true, fonts will be added to document as subsets. Default value is true. |
-| override [Value](./value/) { get; set; } | Gets or sets value of check box field. |
+| override [Value](../../aspose.pdf.forms/checkboxfield/value/) { get; set; } | Gets or sets value of check box field. |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Gets or sets a vertical alignment of paragraph |
 | virtual [Width](../../aspose.pdf.annotations/annotation/width/) { get; set; } | Gets or sets width of the annotation. |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Gets or sets a int value that indicates the Z-order of the graph. A graph with larger ZIndex will be placed over the graph with smaller ZIndex. ZIndex can be negative. Graph with negative ZIndex will be placed behind the text in the page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.annotations/widgetannotation/accept/)(AnnotationSelector) | Accepts visitor. |
-| [AddOption](./addoption/)(string) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. The new checkbox is added to the bottom of the group. |
-| [AddOption](./addoption/)(string, Rectangle) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. |
-| [AddOption](./addoption/)(string, int, Rectangle) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. |
+| [AddOption](../../aspose.pdf.forms/checkboxfield/addoption/#addoption)(string) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. The new checkbox is added to the bottom of the group. |
+| [AddOption](../../aspose.pdf.forms/checkboxfield/addoption/#addoption_1)(string, Rectangle) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. |
+| [AddOption](../../aspose.pdf.forms/checkboxfield/addoption/#addoption_2)(string, int, Rectangle) | Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. |
 | virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize/)(Matrix) | Update parameters and appearance, according to the matrix transform. |
-| override [Clone](./clone/)() | Clone the checkbox. |
+| override [Clone](../../aspose.pdf.forms/checkboxfield/clone/)() | Clone the checkbox. |
 | [CopyTo](../../aspose.pdf.forms/field/copyto/)(WidgetAnnotation[], int) | Copies subfields of this field into array starting from specified index. |
 | [ExecuteFieldJavaScript](../../aspose.pdf.forms/field/executefieldjavascript/)(JavascriptAction) | Executes a specified JavaScript action for the field. |
 | [ExportToJson](../../aspose.pdf.annotations/widgetannotation/exporttojson/)(Stream, ExportFieldsToJsonOptions) | Exports the specified PDF form field to JSON format and writes the result to the provided stream. |
+| [ExportToJson](../../aspose.pdf.annotations/widgetannotation/exporttojson/)(string, ExportFieldsToJsonOptions) | Exports the specified PDF form field to JSON format and writes the result to the specified file. |
 | [ExportValueToJson](../../aspose.pdf.forms/field/exportvaluetojson/)(Stream, bool) | Exports the content of the specified field into a JSON stream. Button field value are not exported. |
 | override [Flatten](../../aspose.pdf.forms/field/flatten/)() | Removes this field and place its value directly on the page. |
 | [GetCheckedStateName](../../aspose.pdf.annotations/widgetannotation/getcheckedstatename/)() | Returns name of "checked" state according to existing state names. |

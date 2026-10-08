@@ -7,7 +7,7 @@ description: "PdfAOptionsBase property. Gets or sets the filename of the ICC (In
 type: docs
 weight: 160
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/iccprofilefilename/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAOptionsBase.IccProfileFileName property
 

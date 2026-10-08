@@ -7,7 +7,7 @@ description: "CosPdfDictionary method. Returns an enumerator that iterates throu
 type: docs
 weight: 130
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfDictionary.GetEnumerator method
 
@@ -23,6 +23,7 @@ An enumerator that can be used to iterate through the collection.
 
 ### See Also
 
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)

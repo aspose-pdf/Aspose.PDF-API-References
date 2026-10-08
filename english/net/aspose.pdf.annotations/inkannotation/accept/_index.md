@@ -7,7 +7,7 @@ description: "InkAnnotation method. Accepts visitor object to process the annota
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/inkannotation/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## InkAnnotation.Accept method
 
@@ -23,7 +23,7 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [AnnotationSelector](../../annotationselector/)
 * class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

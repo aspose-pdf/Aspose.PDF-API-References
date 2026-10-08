@@ -7,11 +7,11 @@ description: "OpenAIChatCopilotOptions method. Gets the current OpenAIChatCopilo
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/getoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIChatCopilotOptions.GetOptions method
 
-Gets the current [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
+Gets the current [`OpenAIChatCopilotOptions`](../).
 
 ```csharp
 public OpenAIChatCopilotOptions GetOptions()
@@ -19,11 +19,11 @@ public OpenAIChatCopilotOptions GetOptions()
 
 ### Return Value
 
-The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
+The current instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

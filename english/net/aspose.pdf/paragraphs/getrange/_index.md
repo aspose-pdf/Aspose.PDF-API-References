@@ -7,7 +7,7 @@ description: "Paragraphs method. Remove paragraphs range."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/paragraphs/getrange/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Paragraphs.GetRange method
 
@@ -28,7 +28,7 @@ The paragraphs collection
 
 ### See Also
 
-* class [Paragraphs](../../../aspose.pdf/paragraphs/)
+* class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

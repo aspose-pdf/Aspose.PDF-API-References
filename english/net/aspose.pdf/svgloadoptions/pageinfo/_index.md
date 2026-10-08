@@ -7,7 +7,7 @@ description: "SvgLoadOptions property. Gets or sets page info that should be app
 type: docs
 weight: 20
 url: "/net/aspose.pdf/svgloadoptions/pageinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SvgLoadOptions.PageInfo property
 
@@ -19,7 +19,7 @@ public PageInfo PageInfo { get; set; }
 
 ### See Also
 
-* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* class [PageInfo](../../pageinfo/)
 * class [SvgLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

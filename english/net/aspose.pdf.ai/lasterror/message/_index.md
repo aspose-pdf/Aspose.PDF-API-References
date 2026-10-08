@@ -7,7 +7,7 @@ description: "LastError property. Gets or sets a human-readable description of t
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/lasterror/message/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LastError.Message property
 

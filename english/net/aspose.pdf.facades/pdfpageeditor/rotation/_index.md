@@ -7,7 +7,7 @@ description: "PdfPageEditor property. Gets or sets the rotation of the pages, th
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/pdfpageeditor/rotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.Rotation property
 

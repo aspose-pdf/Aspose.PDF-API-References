@@ -7,7 +7,7 @@ description: "NumberFormat property. In what manner fractional values are displa
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/measure.numberformat/fractiondisplayment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.NumberFormat.FractionDisplayment property
 
@@ -19,7 +19,8 @@ public FractionStyle FractionDisplayment { get; set; }
 
 ### See Also
 
-* class [Measure.NumberFormat](../)
+* enum [FractionStyle](../../measure.numberformat.fractionstyle/)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

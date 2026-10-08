@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Reference) A citation to content els
 type: docs
 weight: 390
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/reference/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.Reference field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard Reference;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

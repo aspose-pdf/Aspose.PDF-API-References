@@ -7,7 +7,7 @@ description: "RenderingOptions property. Maximum count of fonts in fonts cache. 
 type: docs
 weight: 100
 url: "/net/aspose.pdf/renderingoptions/maxfontscachesize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenderingOptions.MaxFontsCacheSize property
 

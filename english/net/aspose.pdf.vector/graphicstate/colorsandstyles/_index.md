@@ -7,7 +7,7 @@ description: "GraphicState property. Gets the operators representing colorspaces
 type: docs
 weight: 30
 url: "/net/aspose.pdf.vector/graphicstate/colorsandstyles/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicState.ColorsAndStyles property
 
@@ -19,6 +19,7 @@ public SortedDictionary<byte, Operator> ColorsAndStyles { get; }
 
 ### See Also
 
+* class [Operator](../../../aspose.pdf/operator/)
 * class [GraphicState](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

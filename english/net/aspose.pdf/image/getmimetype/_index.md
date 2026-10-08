@@ -7,7 +7,7 @@ description: "Image method. Returns mime type for image."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/image/getmimetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Image.GetMimeType method
 
@@ -27,7 +27,7 @@ Mime type as string if found; otherwise, "image/unknown" value.
 
 ### See Also
 
-* class [Image](../../../aspose.pdf/image/)
+* class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

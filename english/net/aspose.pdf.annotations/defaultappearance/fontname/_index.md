@@ -7,7 +7,7 @@ description: "DefaultAppearance property. Gets font name in the default appearan
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/defaultappearance/fontname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DefaultAppearance.FontName property
 

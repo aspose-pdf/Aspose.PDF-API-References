@@ -7,7 +7,7 @@ description: "TextFragmentAbsorber property. Gets or sets search options. The op
 type: docs
 weight: 240
 url: "/net/aspose.pdf.text/textfragmentabsorber/textsearchoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentAbsorber.TextSearchOptions property
 
@@ -42,7 +42,7 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ### See Also
 
-* class [TextSearchOptions](../../../aspose.pdf.text/textsearchoptions/)
+* class [TextSearchOptions](../../textsearchoptions/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

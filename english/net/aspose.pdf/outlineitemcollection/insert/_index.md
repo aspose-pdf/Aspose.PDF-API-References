@@ -7,7 +7,7 @@ description: "OutlineItemCollection method. Inserts the outline item into collec
 type: docs
 weight: 70
 url: "/net/aspose.pdf/outlineitemcollection/insert/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.Insert method
 
@@ -24,7 +24,7 @@ public void Insert(int index, OutlineItemCollection outline)
 
 ### See Also
 
-* class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "AbsorbedCell method. Compares the current AbsorbedCell object with
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/absorbedcell/compareto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AbsorbedCell.CompareTo method
 
@@ -31,7 +31,7 @@ A value that indicates the relative order of the objects being compared. The ret
 
 ### See Also
 
-* class [AbsorbedCell](../../../aspose.pdf.text/absorbedcell/)
+* class [AbsorbedCell](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 

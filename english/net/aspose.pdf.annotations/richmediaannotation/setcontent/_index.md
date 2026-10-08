@@ -7,7 +7,7 @@ description: "RichMediaAnnotation method. Set content stream."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/richmediaannotation/setcontent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RichMediaAnnotation.SetContent method
 

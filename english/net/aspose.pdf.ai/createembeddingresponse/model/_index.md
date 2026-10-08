@@ -7,7 +7,7 @@ description: "CreateEmbeddingResponse property. Gets or sets the model used for 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/createembeddingresponse/model/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateEmbeddingResponse.Model property
 

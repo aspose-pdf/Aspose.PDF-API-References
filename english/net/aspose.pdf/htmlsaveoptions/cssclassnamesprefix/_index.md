@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. When PDFtoHTML converter generates result C
 type: docs
 weight: 420
 url: "/net/aspose.pdf/htmlsaveoptions/cssclassnamesprefix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.CssClassNamesPrefix field
 

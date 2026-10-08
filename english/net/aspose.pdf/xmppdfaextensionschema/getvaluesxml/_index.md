@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionSchema method. Gets the values of properties as xm
 type: docs
 weight: 60
 url: "/net/aspose.pdf/xmppdfaextensionschema/getvaluesxml/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchema.GetValuesXml method
 

@@ -7,7 +7,7 @@ description: "RequiredAction property. Gets or sets details on the tool outputs 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/requiredaction/submittooloutputs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RequiredAction.SubmitToolOutputs property
 
@@ -19,7 +19,7 @@ public SubmitToolOutputs SubmitToolOutputs { get; set; }
 
 ### See Also
 
-* class [SubmitToolOutputs](../../../aspose.pdf.ai/submittooloutputs/)
+* class [SubmitToolOutputs](../../submittooloutputs/)
 * class [RequiredAction](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

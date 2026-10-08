@@ -7,7 +7,7 @@ description: "Note property. Gets or sets a collection that indicates all paragr
 type: docs
 weight: 30
 url: "/net/aspose.pdf/note/paragraphs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Note.Paragraphs property
 
@@ -19,7 +19,7 @@ public Paragraphs Paragraphs { get; set; }
 
 ### See Also
 
-* class [Paragraphs](../../../aspose.pdf/paragraphs/)
+* class [Paragraphs](../../paragraphs/)
 * class [Note](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

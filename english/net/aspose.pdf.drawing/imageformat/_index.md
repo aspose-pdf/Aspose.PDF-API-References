@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Drawing.ImageFormat enum. This enum represents image fo
 type: docs
 weight: 90
 url: "/net/aspose.pdf.drawing/imageformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageFormat enumeration
 

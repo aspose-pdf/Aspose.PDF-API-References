@@ -7,7 +7,7 @@ description: "CompletionResponse property. Gets or sets the model used for the c
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/completionresponse/model/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionResponse.Model property
 

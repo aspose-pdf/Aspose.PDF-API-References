@@ -7,7 +7,7 @@ description: "TextShowOperator constructor. Initializes TextShowOperator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/textshowoperator/textshowoperator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextShowOperator() {#constructor}
 
@@ -25,7 +25,7 @@ public TextShowOperator()
 
 ---
 
-## TextShowOperator([TextProperties](../../../aspose.pdf.facades/textproperties/)) {#constructor_1}
+## TextShowOperator(TextProperties) {#constructor_1}
 
 Initializes TextShowOperator which allows to pass TextProperties.
 

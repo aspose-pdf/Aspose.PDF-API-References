@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (List item) An individual member of a
 type: docs
 weight: 260
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/li/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.LI field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard LI;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

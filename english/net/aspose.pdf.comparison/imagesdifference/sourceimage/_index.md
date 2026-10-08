@@ -7,7 +7,7 @@ description: "ImagesDifference property. Gets the image of first compared page. 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.comparison/imagesdifference/sourceimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagesDifference.SourceImage property
 

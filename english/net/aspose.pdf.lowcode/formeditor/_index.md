@@ -8,7 +8,7 @@ type: docs
 weight: 150
 url: "/net/aspose.pdf.lowcode/formeditor/"
 keywords: "FormEditor, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor class
 
@@ -22,16 +22,17 @@ public sealed class FormEditor : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [FormEditor](./formeditor/)() | The default constructor. |
+| [FormEditor](formeditor/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(IPluginOptions) | Starts the FormEditor processing with the specified parameters. |
+| [Process](../../aspose.pdf.lowcode/formeditor/process/)(IPluginOptions) | Starts the FormEditor processing with the specified parameters. |
 
 ### See Also
 
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

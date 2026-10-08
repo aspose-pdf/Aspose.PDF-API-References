@@ -7,7 +7,7 @@ description: "EpubLoadOptions property. Gets or sets the custom Css to apply whe
 type: docs
 weight: 50
 url: "/net/aspose.pdf/epubloadoptions/customcss/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EpubLoadOptions.CustomCss property
 

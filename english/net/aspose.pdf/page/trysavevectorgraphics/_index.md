@@ -7,7 +7,7 @@ description: "Page method. Tries to save vector graphics if they are present on 
 type: docs
 weight: 60
 url: "/net/aspose.pdf/page/trysavevectorgraphics/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.TrySaveVectorGraphics method
 

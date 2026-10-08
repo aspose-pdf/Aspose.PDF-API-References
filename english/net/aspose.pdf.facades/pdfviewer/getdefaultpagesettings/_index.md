@@ -7,7 +7,7 @@ description: "PdfViewer method. Gets the default page settings."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/pdfviewer/getdefaultpagesettings/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.GetDefaultPageSettings method
 

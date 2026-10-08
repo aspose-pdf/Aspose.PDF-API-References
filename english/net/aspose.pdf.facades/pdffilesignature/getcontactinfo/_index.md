@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Gets the contact information of a signatu
 type: docs
 weight: 310
 url: "/net/aspose.pdf.facades/pdffilesignature/getcontactinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.GetContactInfo method
 
@@ -27,7 +27,7 @@ Returns a result of string type.
 
 ### See Also
 
-* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

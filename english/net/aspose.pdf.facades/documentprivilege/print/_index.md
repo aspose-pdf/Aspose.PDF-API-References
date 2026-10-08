@@ -7,7 +7,7 @@ description: "DocumentPrivilege property. Allows printing file."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/documentprivilege/print/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.Print property
 
@@ -19,7 +19,7 @@ public static DocumentPrivilege Print { get; }
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

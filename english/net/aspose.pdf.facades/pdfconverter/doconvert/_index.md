@@ -7,7 +7,7 @@ description: "PdfConverter method. Do some initial works for converting a pdf do
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/pdfconverter/doconvert/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfConverter.DoConvert method
 

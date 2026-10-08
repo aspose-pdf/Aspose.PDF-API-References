@@ -8,7 +8,7 @@ type: docs
 weight: 920
 url: "/net/aspose.pdf.lowcode/tablebuilder/"
 keywords: "TableBuilder, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableBuilder class
 
@@ -22,11 +22,11 @@ public class TableBuilder
 
 | Name | Description |
 | --- | --- |
-| virtual [AddRow](./addrow/)() | Add new row to table. |
-| [AddTable](./addtable/)() | Add new table to document. |
-| [InsertPageAfter](./insertpageafter/)(int) | Insert page after specified page. |
-| [InsertPageBefore](./insertpagebefore/)(int) | Insert page before specified page. |
-| [implicit operator](./op_implicit/) | Converts builder [`TableBuilder`](../../aspose.pdf.lowcode/tablebuilder/) to options [`TableOptions`](../../aspose.pdf.lowcode/tableoptions/) |
+| virtual [AddRow](../../aspose.pdf.lowcode/tablebuilder/addrow/)() | Add new row to table. |
+| [AddTable](../../aspose.pdf.lowcode/tablebuilder/addtable/)() | Add new table to document. |
+| [InsertPageAfter](../../aspose.pdf.lowcode/tablebuilder/insertpageafter/)(int) | Insert page after specified page. |
+| [InsertPageBefore](../../aspose.pdf.lowcode/tablebuilder/insertpagebefore/)(int) | Insert page before specified page. |
+| [implicit operator](../../aspose.pdf.lowcode/tablebuilder/op_implicit/) | Converts builder `TableBuilder` to options [`TableOptions`](../tableoptions/) |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "PolyAnnotation property. Measure units specifed for this annotatio
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/polyannotation/measure/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PolyAnnotation.Measure property
 
@@ -19,7 +19,7 @@ public Measure Measure { get; set; }
 
 ### See Also
 
-* class [Measure](../../../aspose.pdf.annotations/measure/)
+* class [Measure](../../measure/)
 * class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

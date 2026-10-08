@@ -7,7 +7,7 @@ description: "PageCollection method. Removes all fields located on the pages and
 type: docs
 weight: 230
 url: "/net/aspose.pdf/pagecollection/flatten/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollection.Flatten method
 

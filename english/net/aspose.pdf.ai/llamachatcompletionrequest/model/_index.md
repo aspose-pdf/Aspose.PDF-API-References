@@ -7,7 +7,7 @@ description: "LlamaChatCompletionRequest property. Sets or gets ID of the model 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/llamachatcompletionrequest/model/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaChatCompletionRequest.Model property
 

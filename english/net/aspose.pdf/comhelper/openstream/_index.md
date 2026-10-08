@@ -7,7 +7,7 @@ description: "ComHelper method. Initialize and return new Document instance from
 type: docs
 weight: 20
 url: "/net/aspose.pdf/comhelper/openstream/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenStream(Stream) {#openstream}
 
@@ -27,67 +27,14 @@ Document object
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
+* class [Document](../../document/)
 * class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## OpenStream(Stream, bool) {#openstream_1}
-
-Initialize and return new Document instance from the *input* stream.
-
-```csharp
-public Document OpenStream(Stream input, bool isManagedStream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | Stream | Stream with pdf document. |
-| isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
-
-### Return Value
-
-Document object
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [ComHelper](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## OpenStream(Stream, [LoadOptions](../../../aspose.pdf/loadoptions/)) {#openstream_2}
-
-Open and return an existing document from a stream providing necessary converting to get pdf document.
-
-```csharp
-public Document OpenStream(Stream input, LoadOptions options)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| input | Stream | Input stream to convert into pdf document. |
-| options | LoadOptions | Represents properties for converting *input* into pdf document. |
-
-### Return Value
-
-Document object
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [LoadOptions](../../../aspose.pdf/loadoptions/)
-* class [ComHelper](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## OpenStream(Stream, string) {#openstream_3}
+## OpenStream(Stream, string) {#openstream_1}
 
 Initialize and return new Document instance from the *input* stream.
 
@@ -106,14 +53,40 @@ Document object
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
+* class [Document](../../document/)
 * class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## OpenStream(Stream, string, bool) {#openstream_4}
+## OpenStream(Stream, bool) {#openstream_2}
+
+Initialize and return new Document instance from the *input* stream.
+
+```csharp
+public Document OpenStream(Stream input, bool isManagedStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Stream | Stream with pdf document. |
+| isManagedStream | Boolean | if set to `true` inner stream is closed before exit; otherwise, is not. |
+
+### Return Value
+
+Document object
+
+### See Also
+
+* class [Document](../../document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## OpenStream(Stream, string, bool) {#openstream_3}
 
 Initialize and return new Document instance from the *input* stream.
 
@@ -133,7 +106,34 @@ Document object
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
+* class [Document](../../document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## OpenStream(Stream, LoadOptions) {#openstream_4}
+
+Open and return an existing document from a stream providing necessary converting to get pdf document.
+
+```csharp
+public Document OpenStream(Stream input, LoadOptions options)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| input | Stream | Input stream to convert into pdf document. |
+| options | LoadOptions | Represents properties for converting *input* into pdf document. |
+
+### Return Value
+
+Document object
+
+### See Also
+
+* class [Document](../../document/)
+* class [LoadOptions](../../loadoptions/)
 * class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

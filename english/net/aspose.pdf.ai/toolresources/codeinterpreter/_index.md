@@ -7,7 +7,7 @@ description: "ToolResources property. Gets or sets the code interpreter tool res
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/toolresources/codeinterpreter/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ToolResources.CodeInterpreter property
 
@@ -19,7 +19,7 @@ public CodeInterpreter CodeInterpreter { get; set; }
 
 ### See Also
 
-* class [CodeInterpreter](../../../aspose.pdf.ai/codeinterpreter/)
+* class [CodeInterpreter](../../codeinterpreter/)
 * class [ToolResources](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

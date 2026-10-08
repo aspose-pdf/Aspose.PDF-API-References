@@ -7,7 +7,7 @@ description: "FormFieldFacade field. Defines vertical aglignment as bottom style
 type: docs
 weight: 380
 url: "/net/aspose.pdf.facades/formfieldfacade/alignbottom/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.AlignBottom field
 

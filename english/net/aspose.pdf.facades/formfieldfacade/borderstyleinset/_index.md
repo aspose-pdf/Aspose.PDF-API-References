@@ -7,7 +7,7 @@ description: "FormFieldFacade field. Defines an inseted border style."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/formfieldfacade/borderstyleinset/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.BorderStyleInset field
 

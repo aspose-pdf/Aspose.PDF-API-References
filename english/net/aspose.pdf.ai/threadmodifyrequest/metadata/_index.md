@@ -7,7 +7,7 @@ description: "ThreadModifyRequest property. Gets or sets a set of 16 key-value p
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/threadmodifyrequest/metadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadModifyRequest.Metadata property
 

@@ -7,7 +7,7 @@ description: "Opi property. Gets the external file containing the low- resolutio
 type: docs
 weight: 30
 url: "/net/aspose.pdf/opi/filespecification/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Opi.FileSpecification property
 

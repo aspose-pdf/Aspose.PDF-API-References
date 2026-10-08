@@ -7,7 +7,7 @@ description: "ImageCompressionOptions property. If this flag is set to true imag
 type: docs
 weight: 20
 url: "/net/aspose.pdf.optimization/imagecompressionoptions/compressimages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageCompressionOptions.CompressImages property
 

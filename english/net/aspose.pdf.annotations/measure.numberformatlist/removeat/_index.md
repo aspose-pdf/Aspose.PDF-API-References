@@ -7,7 +7,7 @@ description: "NumberFormatList method. Removes number format from list."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/measure.numberformatlist/removeat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.NumberFormatList.RemoveAt method
 
@@ -23,7 +23,7 @@ public void RemoveAt(int index)
 
 ### See Also
 
-* class [Measure.NumberFormatList](../)
+* class [NumberFormatList](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

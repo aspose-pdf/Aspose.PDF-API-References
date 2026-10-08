@@ -7,11 +7,11 @@ description: "PaperSource property. Same as Kind, but values larger than DMBIN_U
 type: docs
 weight: 50
 url: "/net/aspose.pdf.printing/papersource/rawkind/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSource.RawKind property
 
-Same as `Kind`, but values larger than DMBIN_USER do not map to `Custom`.
+Same as [`Kind`](../kind/), but values larger than DMBIN_USER do not map to `Custom`.
 
 ```csharp
 public int RawKind { get; set; }

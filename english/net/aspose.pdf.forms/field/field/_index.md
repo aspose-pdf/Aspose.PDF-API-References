@@ -7,7 +7,7 @@ description: "Field constructor. Creates field for use in Generator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/field/field/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Field constructor
 

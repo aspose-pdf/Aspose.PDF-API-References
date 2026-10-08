@@ -8,7 +8,7 @@ type: docs
 weight: 230
 url: "/net/aspose.pdf.comparison/textpdfcomparer/"
 keywords: "TextPdfComparer, Aspose.Pdf.Comparison, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextPdfComparer class
 
@@ -22,21 +22,21 @@ public class TextPdfComparer
 
 | Name | Description |
 | --- | --- |
-| [TextPdfComparer](./textpdfcomparer/)() | The default constructor. |
+| [TextPdfComparer](textpdfcomparer/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [AssemblyDestinationPageText](./assemblydestinationpagetext/)(List<DiffOperation>) | Restores changed text from the list of changes. |
-| static [AssemblySourcePageText](./assemblysourcepagetext/)(List<DiffOperation>) | Restores the original text from the list of changes. |
-| static [CompareDocumentsPageByPage](./comparedocumentspagebypage/)(Document, Document, ComparisonOptions) | Compares two documents page by page. |
-| static [CompareDocumentsPageByPage](./comparedocumentspagebypage/)(Document, Document, ComparisonOptions, string) | Compares two documents page by page. The result is saved in a PDF file. |
-| static [CompareFlatDocuments](./compareflatdocuments/)(Document, Document, ComparisonOptions) | Compares two documents page by page. The documents are compared as a whole. Before comparing text, the texts of document pages are combined into one text. |
-| static [CompareFlatDocuments](./compareflatdocuments/)(Document, Document, ComparisonOptions, string) | Compares two documents page by page. The result is saved in a PDF file. The documents are compared as a whole. Before comparing text, the texts of document pages are combined into one text. |
-| static [ComparePages](./comparepages/)(Page, Page, ComparisonOptions) | Compares document pages. |
-| static [CreateComparisonStatistics](./createcomparisonstatistics/)(List<DiffOperation>) | Gets comparison statistics. |
-| static [CreateComparisonStatistics](./createcomparisonstatistics/)(List<List<DiffOperation>>) | Gets documents comparison statistics. |
+| static [AssemblyDestinationPageText](../../aspose.pdf.comparison/textpdfcomparer/assemblydestinationpagetext/)(List&lt;DiffOperation&gt;) | Restores changed text from the list of changes. |
+| static [AssemblySourcePageText](../../aspose.pdf.comparison/textpdfcomparer/assemblysourcepagetext/)(List&lt;DiffOperation&gt;) | Restores the original text from the list of changes. |
+| static [CompareDocumentsPageByPage](../../aspose.pdf.comparison/textpdfcomparer/comparedocumentspagebypage/#comparedocumentspagebypage)(Document, Document, ComparisonOptions) | Compares two documents page by page. |
+| static [CompareDocumentsPageByPage](../../aspose.pdf.comparison/textpdfcomparer/comparedocumentspagebypage/#comparedocumentspagebypage_1)(Document, Document, ComparisonOptions, string) | Compares two documents page by page. The result is saved in a PDF file. |
+| static [CompareFlatDocuments](../../aspose.pdf.comparison/textpdfcomparer/compareflatdocuments/#compareflatdocuments)(Document, Document, ComparisonOptions) | Compares two documents page by page. The documents are compared as a whole. Before comparing text, the texts of document pages are combined into one text. |
+| static [CompareFlatDocuments](../../aspose.pdf.comparison/textpdfcomparer/compareflatdocuments/#compareflatdocuments_1)(Document, Document, ComparisonOptions, string) | Compares two documents page by page. The result is saved in a PDF file. The documents are compared as a whole. Before comparing text, the texts of document pages are combined into one text. |
+| static [ComparePages](../../aspose.pdf.comparison/textpdfcomparer/comparepages/)(Page, Page, ComparisonOptions) | Compares document pages. |
+| static [CreateComparisonStatistics](../../aspose.pdf.comparison/textpdfcomparer/createcomparisonstatistics/#createcomparisonstatistics)(List&lt;DiffOperation&gt;) | Gets comparison statistics. |
+| static [CreateComparisonStatistics](../../aspose.pdf.comparison/textpdfcomparer/createcomparisonstatistics/#createcomparisonstatistics_1)(List&lt;List&lt;DiffOperation&gt;&gt;) | Gets documents comparison statistics. |
 
 ### See Also
 

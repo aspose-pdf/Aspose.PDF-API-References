@@ -7,7 +7,7 @@ description: "RichMediaAnnotation property. Sets or gets flash variables which p
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/richmediaannotation/customflashvariables/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RichMediaAnnotation.CustomFlashVariables property
 

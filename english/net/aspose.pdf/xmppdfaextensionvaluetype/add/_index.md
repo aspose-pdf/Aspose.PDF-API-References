@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionValueType method. Add new field."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionValueType.Add method
 
@@ -23,7 +23,7 @@ public void Add(XmpPdfAExtensionField field)
 
 ### See Also
 
-* class [XmpPdfAExtensionField](../../../aspose.pdf/xmppdfaextensionfield/)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
 * class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

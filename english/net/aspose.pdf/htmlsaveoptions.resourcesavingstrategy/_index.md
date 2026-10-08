@@ -7,7 +7,7 @@ description: "To this property You can assign delegate created from custom metho
 type: docs
 weight: 1350
 url: "/net/aspose.pdf/htmlsaveoptions.resourcesavingstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.ResourceSavingStrategy delegate
 
@@ -38,6 +38,7 @@ must return URL to saved resource that will be used during generation of HTML
 
 ### See Also
 
+* class [ResourceSavingInfo](../saveoptions.resourcesavinginfo/)
 * class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)

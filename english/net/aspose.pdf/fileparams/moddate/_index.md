@@ -7,7 +7,7 @@ description: "FileParams property. The date and time when the embedded file was 
 type: docs
 weight: 40
 url: "/net/aspose.pdf/fileparams/moddate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileParams.ModDate property
 

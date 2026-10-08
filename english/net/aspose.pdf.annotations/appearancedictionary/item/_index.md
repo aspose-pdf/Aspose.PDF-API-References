@@ -7,7 +7,7 @@ description: "AppearanceDictionary property. Represents convenient form for gett
 type: docs
 weight: 190
 url: "/net/aspose.pdf.annotations/appearancedictionary/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AppearanceDictionary indexer
 
@@ -19,9 +19,7 @@ public XForm this[string key] { get; set; }
 
 | Parameter | Description |
 | --- | --- |
-| key | Represents path to appearance stream. 
- If appearance dictionary has subdictionaries, then path must contain 2 parts (<see cref="P:Aspose.Pdf.Annotations.AppearanceDictionary.Keys" />), 
- else path has only one part. |
+| key | Represents path to appearance stream. If appearance dictionary has subdictionaries, then path must contain 2 parts ([`Keys`](../keys/)), else path has only one part. |
 
 ### Return Value
 

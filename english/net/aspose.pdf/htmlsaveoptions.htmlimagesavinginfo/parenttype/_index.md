@@ -7,7 +7,7 @@ description: "HtmlImageSavingInfo field. Saved image can pertain to HTML itself 
 type: docs
 weight: 30
 url: "/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/parenttype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.HtmlImageSavingInfo.ParentType field
 
@@ -25,7 +25,8 @@ public ImageParentTypes ParentType;
 
 ### See Also
 
-* class [HtmlSaveOptions.HtmlImageSavingInfo](../)
+* enum [ImageParentTypes](../../htmlsaveoptions.imageparenttypes/)
+* class [HtmlImageSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

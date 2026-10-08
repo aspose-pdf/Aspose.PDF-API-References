@@ -7,11 +7,11 @@ description: "MissingOptionalDependencyException constructor. Initializes a new 
 type: docs
 weight: 10
 url: "/net/aspose.pdf/missingoptionaldependencyexception/missingoptionaldependencyexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MissingOptionalDependencyException() {#constructor}
 
-Initializes a new instance of the [`MissingOptionalDependencyException`](../../../aspose.pdf/missingoptionaldependencyexception/) class.
+Initializes a new instance of the [`MissingOptionalDependencyException`](../) class.
 
 ```csharp
 public MissingOptionalDependencyException()
@@ -27,7 +27,7 @@ public MissingOptionalDependencyException()
 
 ## MissingOptionalDependencyException(string) {#constructor_1}
 
-Initializes a new instance of the [`MissingOptionalDependencyException`](../../../aspose.pdf/missingoptionaldependencyexception/) class
+Initializes a new instance of the [`MissingOptionalDependencyException`](../) class
  with the specified error message.
 
 ```csharp
@@ -48,7 +48,7 @@ public MissingOptionalDependencyException(string message)
 
 ## MissingOptionalDependencyException(string, Exception) {#constructor_2}
 
-Initializes a new instance of the [`MissingOptionalDependencyException`](../../../aspose.pdf/missingoptionaldependencyexception/) class
+Initializes a new instance of the [`MissingOptionalDependencyException`](../) class
  with the specified error message and inner exception.
 
 ```csharp

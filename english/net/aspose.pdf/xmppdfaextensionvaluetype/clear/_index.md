@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionValueType method. Clears all fields."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionValueType.Clear method
 

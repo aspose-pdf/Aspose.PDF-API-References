@@ -8,7 +8,7 @@ type: docs
 weight: 480
 url: "/net/aspose.pdf.lowcode/jpeg/"
 keywords: "Jpeg, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Jpeg class
 
@@ -22,7 +22,7 @@ public sealed class Jpeg : PdfToImage
 
 | Name | Description |
 | --- | --- |
-| [Jpeg](./jpeg/)() | The default constructor. |
+| [Jpeg](jpeg/)() | The default constructor. |
 
 ## Methods
 

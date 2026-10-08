@@ -7,7 +7,7 @@ description: "FormEditor method. Sets number of combs for a regular single-line 
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/formeditor/setfieldcombnumber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.SetFieldCombNumber method
 

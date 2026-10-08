@@ -7,7 +7,7 @@ description: "CrashReportOptions property. Name of library where exception occur
 type: docs
 weight: 20
 url: "/net/aspose.pdf/crashreportoptions/applicationtitle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CrashReportOptions.ApplicationTitle property
 

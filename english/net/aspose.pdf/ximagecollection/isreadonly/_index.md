@@ -7,7 +7,7 @@ description: "XImageCollection property. Gets a value indicating whether the col
 type: docs
 weight: 250
 url: "/net/aspose.pdf/ximagecollection/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImageCollection.IsReadOnly property
 

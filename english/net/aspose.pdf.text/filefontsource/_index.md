@@ -8,7 +8,7 @@ type: docs
 weight: 100
 url: "/net/aspose.pdf.text/filefontsource/"
 keywords: "FileFontSource, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileFontSource class
 
@@ -22,19 +22,19 @@ public sealed class FileFontSource : FontSource
 
 | Name | Description |
 | --- | --- |
-| [FileFontSource](./filefontsource/)(string) | Initializes a new instance of [`FileFontSource`](../../aspose.pdf.text/filefontsource/) class. |
+| [FileFontSource](filefontsource/)(string) | Initializes a new instance of `FileFontSource` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FilePath](./filepath/) { get; set; } | Path to the font file. |
+| [FilePath](../../aspose.pdf.text/filefontsource/filepath/) { get; set; } | Path to the font file. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](./equals/)(object) | Check if font file source objects are equal. |
+| override [Equals](../../aspose.pdf.text/filefontsource/equals/)(object) | Check if font file source objects are equal. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "OptimizedMemoryStream property. Gets or sets the size of the under
 type: docs
 weight: 170
 url: "/net/aspose.pdf/optimizedmemorystream/buffersize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizedMemoryStream.BufferSize property
 

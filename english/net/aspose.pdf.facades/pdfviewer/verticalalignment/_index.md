@@ -7,7 +7,7 @@ description: "PdfViewer property. Gets or sets a value that indicates vertical a
 type: docs
 weight: 440
 url: "/net/aspose.pdf.facades/pdfviewer/verticalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.VerticalAlignment property
 

@@ -8,7 +8,7 @@ type: docs
 weight: 1890
 url: "/net/aspose.pdf/missingoptionaldependencyexception/"
 keywords: "MissingOptionalDependencyException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MissingOptionalDependencyException class
 
@@ -23,15 +23,9 @@ public sealed class MissingOptionalDependencyException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [MissingOptionalDependencyException](./missingoptionaldependencyexception/#constructor)() | Initializes a new instance of the [`MissingOptionalDependencyException`](../../aspose.pdf/missingoptionaldependencyexception/) class. |
-| [MissingOptionalDependencyException](./missingoptionaldependencyexception/#constructor_1)(string) | Initializes a new instance of the [`MissingOptionalDependencyException`](../../aspose.pdf/missingoptionaldependencyexception/) class with the specified error message. |
-| [MissingOptionalDependencyException](./missingoptionaldependencyexception/#constructor_2)(string, Exception) | Initializes a new instance of the [`MissingOptionalDependencyException`](../../aspose.pdf/missingoptionaldependencyexception/) class with the specified error message and inner exception. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
+| [MissingOptionalDependencyException](missingoptionaldependencyexception/#constructor)() | Initializes a new instance of the `MissingOptionalDependencyException` class. |
+| [MissingOptionalDependencyException](missingoptionaldependencyexception/#constructor_1)(string) | Initializes a new instance of the `MissingOptionalDependencyException` class with the specified error message. |
+| [MissingOptionalDependencyException](missingoptionaldependencyexception/#constructor_2)(string, Exception) | Initializes a new instance of the `MissingOptionalDependencyException` class with the specified error message and inner exception. |
 
 ## Remarks
 

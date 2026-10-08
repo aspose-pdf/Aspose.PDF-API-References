@@ -7,7 +7,7 @@ description: "Heading method. Clone the heading with all segments."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/heading/clonewithsegments/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Heading.CloneWithSegments method
 

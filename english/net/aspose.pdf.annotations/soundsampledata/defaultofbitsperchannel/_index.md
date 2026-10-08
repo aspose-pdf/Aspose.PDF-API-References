@@ -7,7 +7,7 @@ description: "SoundSampleData field. Default value for BitsPerchannel parameter.
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/soundsampledata/defaultofbitsperchannel/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SoundSampleData.DefaultOfBitsPerChannel field
 

@@ -7,7 +7,7 @@ description: "ToUnicodeProcessingRules property. Some fonts have ToUnicode chara
 type: docs
 weight: 40
 url: "/net/aspose.pdf/tounicodeprocessingrules/removespacesfromcmapnames/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ToUnicodeProcessingRules.RemoveSpacesFromCMapNames property
 

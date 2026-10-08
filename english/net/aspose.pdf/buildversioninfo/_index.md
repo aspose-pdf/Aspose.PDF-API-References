@@ -8,7 +8,7 @@ type: docs
 weight: 240
 url: "/net/aspose.pdf/buildversioninfo/"
 keywords: "BuildVersionInfo, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BuildVersionInfo class
 
@@ -22,15 +22,15 @@ public sealed class BuildVersionInfo
 
 | Name | Description |
 | --- | --- |
-| [BuildVersionInfo](./buildversioninfo/)() | The default constructor. |
+| [BuildVersionInfo](buildversioninfo/)() | The default constructor. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| const [AssemblyVersion](./assemblyversion/) | Assembly Version |
-| const [FileVersion](./fileversion/) | File Version |
-| const [Product](./product/) | Product Name |
+| const [AssemblyVersion](../../aspose.pdf/buildversioninfo/assemblyversion/) | Assembly Version |
+| const [FileVersion](../../aspose.pdf/buildversioninfo/fileversion/) | File Version |
+| const [Product](../../aspose.pdf/buildversioninfo/product/) | Product Name |
 
 ### See Also
 

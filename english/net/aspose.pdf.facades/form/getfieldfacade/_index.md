@@ -7,7 +7,7 @@ description: "Form method. Returns FrofmFieldFacade object containing all appear
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/form/getfieldfacade/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.GetFieldFacade method
 
@@ -39,7 +39,7 @@ Console.WriteLine("Color of field border: " + field.BorderColor);
 
 ### See Also
 
-* class [FormFieldFacade](../../../aspose.pdf.facades/formfieldfacade/)
+* class [FormFieldFacade](../../formfieldfacade/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

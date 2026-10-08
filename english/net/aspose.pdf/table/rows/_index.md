@@ -7,7 +7,7 @@ description: "Table property. Gets the rows of the table."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/table/rows/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.Rows property
 
@@ -19,7 +19,7 @@ public Rows Rows { get; }
 
 ### See Also
 
-* class [Rows](../../../aspose.pdf/rows/)
+* class [Rows](../../rows/)
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

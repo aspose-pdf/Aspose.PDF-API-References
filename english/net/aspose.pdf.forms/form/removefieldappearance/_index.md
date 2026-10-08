@@ -7,7 +7,7 @@ description: "Form method. Removes appearance of the field at specified index. I
 type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/form/removefieldappearance/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.RemoveFieldAppearance method
 
@@ -25,7 +25,7 @@ public void RemoveFieldAppearance(Field field, int appearanceIndex)
 
 ### See Also
 
-* class [Field](../../../aspose.pdf.forms/field/)
+* class [Field](../../field/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

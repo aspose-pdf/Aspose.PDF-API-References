@@ -7,7 +7,7 @@ description: "BoundsCheckableList method. Removes all elements from the System.C
 type: docs
 weight: 50
 url: "/net/aspose.pdf/boundscheckablelist-1/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BoundsCheckableList<T>.Clear method
 
@@ -19,7 +19,7 @@ public void Clear()
 
 ### See Also
 
-* class [BoundsCheckableList<T>](../)
+* class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

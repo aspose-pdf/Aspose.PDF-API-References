@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.SoundSampleDataEncodingFormat enum. The enc
 type: docs
 weight: 1210
 url: "/net/aspose.pdf.annotations/soundsampledataencodingformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SoundSampleDataEncodingFormat enumeration
 

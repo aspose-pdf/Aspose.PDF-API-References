@@ -7,7 +7,7 @@ description: "Operator method. Returns text of operator and its parameters."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/operator/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Operator.ToString method
 

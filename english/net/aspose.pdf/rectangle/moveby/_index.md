@@ -7,7 +7,7 @@ description: "Rectangle method. Shift rectangle by the specified deltas."
 type: docs
 weight: 200
 url: "/net/aspose.pdf/rectangle/moveby/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.MoveBy method
 

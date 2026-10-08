@@ -7,7 +7,7 @@ description: "OpenAIImageDescriptionCopilotOptions method. Sets the max completi
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmaxcompletiontokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens method
 
@@ -23,11 +23,11 @@ public OpenAIImageDescriptionCopilotOptions WithMaxCompletionTokens(int? maxComp
 
 ### Return Value
 
-The current instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
+The current instance of [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

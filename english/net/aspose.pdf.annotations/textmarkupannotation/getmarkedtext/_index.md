@@ -7,7 +7,7 @@ description: "TextMarkupAnnotation method. Gets text under markup annotation as 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextMarkupAnnotation.GetMarkedText method
 

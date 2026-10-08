@@ -7,7 +7,7 @@ description: "SvgSaveOptions field. This options defines whether will be created
 type: docs
 weight: 30
 url: "/net/aspose.pdf/svgsaveoptions/treattargetfilenameasdirectory/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SvgSaveOptions.TreatTargetFileNameAsDirectory field
 

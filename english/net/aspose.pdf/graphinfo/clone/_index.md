@@ -7,7 +7,7 @@ description: "GraphInfo method. Clone the graphics info."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/graphinfo/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphInfo.Clone method
 

@@ -7,7 +7,7 @@ description: "RadioButtonField property. Gets or sets index of selected item. Nu
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/radiobuttonfield/selected/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RadioButtonField.Selected property
 

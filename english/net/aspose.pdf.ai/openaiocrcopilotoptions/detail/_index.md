@@ -7,7 +7,7 @@ description: "OpenAIOcrCopilotOptions property. Gets or sets the level of detail
 type: docs
 weight: 190
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/detail/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIOcrCopilotOptions.Detail property
 
@@ -19,7 +19,7 @@ public Detail Detail { get; set; }
 
 ### See Also
 
-* enum [Detail](../../../aspose.pdf.ai/detail/)
+* enum [Detail](../../detail/)
 * class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "PdfFileSanitization property. After file has Saved you can check w
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/pdffilesanitization/log/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSanitization.Log property
 

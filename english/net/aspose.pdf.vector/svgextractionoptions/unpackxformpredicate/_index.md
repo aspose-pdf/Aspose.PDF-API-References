@@ -7,7 +7,7 @@ description: "SvgExtractionOptions property. Gets and sets option to unpack only
 type: docs
 weight: 20
 url: "/net/aspose.pdf.vector/svgextractionoptions/unpackxformpredicate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SvgExtractionOptions.UnpackXFormPredicate property
 
@@ -19,6 +19,7 @@ public Predicate<XFormPlacement> UnpackXFormPredicate { get; set; }
 
 ### See Also
 
+* class [XFormPlacement](../../xformplacement/)
 * class [SvgExtractionOptions](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

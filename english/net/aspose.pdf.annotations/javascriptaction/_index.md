@@ -8,7 +8,7 @@ type: docs
 weight: 550
 url: "/net/aspose.pdf.annotations/javascriptaction/"
 keywords: "JavascriptAction, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## JavascriptAction class
 
@@ -22,14 +22,14 @@ public sealed class JavascriptAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [JavascriptAction](./javascriptaction/)(string) | Constructor. |
+| [JavascriptAction](javascriptaction/)(string) | Constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
-| [Script](./script/) { get; set; } | Gets or sets javascript code. |
+| [Script](../../aspose.pdf.annotations/javascriptaction/script/) { get; set; } | Gets or sets javascript code. |
 
 ## Methods
 

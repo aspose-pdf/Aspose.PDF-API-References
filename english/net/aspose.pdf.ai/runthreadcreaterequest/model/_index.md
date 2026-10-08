@@ -7,7 +7,7 @@ description: "RunThreadCreateRequest property. Gets or sets the ID of the Model 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/runthreadcreaterequest/model/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunThreadCreateRequest.Model property
 

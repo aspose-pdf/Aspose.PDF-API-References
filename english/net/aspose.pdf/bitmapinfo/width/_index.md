@@ -7,7 +7,7 @@ description: "BitmapInfo property. Gets the width of the bitmap."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/bitmapinfo/width/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BitmapInfo.Width property
 

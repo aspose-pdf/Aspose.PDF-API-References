@@ -7,7 +7,7 @@ description: "ImagePlacementAbsorber property. Gets/sets read only mode for pars
 type: docs
 weight: 40
 url: "/net/aspose.pdf/imageplacementabsorber/isreadonlymode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagePlacementAbsorber.IsReadOnlyMode property
 

@@ -7,7 +7,7 @@ description: "CompletionCreateRequest property. Gets or sets a number between -2
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/completioncreaterequest/frequencypenalty/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionCreateRequest.FrequencyPenalty property
 

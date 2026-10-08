@@ -8,7 +8,7 @@ type: docs
 weight: 540
 url: "/net/aspose.pdf.lowcode/ofdtopdfoptions/"
 keywords: "OfdToPdfOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OfdToPdfOptions class
 
@@ -22,15 +22,15 @@ public class OfdToPdfOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [OfdToPdfOptions](./ofdtopdfoptions/)() | The default constructor. |
+| [OfdToPdfOptions](ofdtopdfoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
-| [OfdLoadOptions](./ofdloadoptions/) { get; set; } | Gets or sets the OFD load options. |
-| override [OperationName](./operationname/) { get; } | Gets the name of the operation. |
+| [OfdLoadOptions](../../aspose.pdf.lowcode/ofdtopdfoptions/ofdloadoptions/) { get; set; } | Gets or sets the OFD load options. |
+| override [OperationName](../../aspose.pdf.lowcode/ofdtopdfoptions/operationname/) { get; } | Gets the name of the operation. |
 | [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods

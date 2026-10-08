@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.LineIntent enum. Enumerates the intents of 
 type: docs
 weight: 620
 url: "/net/aspose.pdf.annotations/lineintent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineIntent enumeration
 

@@ -7,9 +7,9 @@ description: "TextBoxField constructor. Constructor which should be used with Ge
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/textboxfield/textboxfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## TextBoxField([Document](../../../aspose.pdf/document/)) {#constructor}
+## TextBoxField(Document) {#constructor}
 
 Constructor which should be used with Generator.
 
@@ -30,30 +30,7 @@ public TextBoxField(Document doc)
 
 ---
 
-## TextBoxField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
-
-Constructor of TextBox field.
-
-```csharp
-public TextBoxField(Document doc, Rectangle rect)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Document where field will be created. |
-| rect | Rectangle | Rectangle of the field. |
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [TextBoxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TextBoxField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_2}
+## TextBoxField(Page, Rectangle) {#constructor_1}
 
 Constructor of TextBox field.
 
@@ -69,14 +46,14 @@ public TextBoxField(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextBoxField([Page](../../../aspose.pdf/page/), Rectangle[]) {#constructor_3}
+## TextBoxField(Page, Rectangle[]) {#constructor_2}
 
 Constructor of TextBox field.
 
@@ -92,7 +69,30 @@ public TextBoxField(Page page, Rectangle[] rects)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TextBoxField(Document, Rectangle) {#constructor_3}
+
+Constructor of TextBox field.
+
+```csharp
+public TextBoxField(Document doc, Rectangle rect)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | Document where field will be created. |
+| rect | Rectangle | Rectangle of the field. |
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

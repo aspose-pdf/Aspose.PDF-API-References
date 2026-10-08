@@ -7,7 +7,7 @@ description: "FontSourceCollection property. Gets an object that can be used to 
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/fontsourcecollection/syncroot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontSourceCollection.SyncRoot property
 

@@ -7,7 +7,7 @@ description: "Heading property. Gets the heading should be in toc list."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/heading/isinlist/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Heading.IsInList property
 

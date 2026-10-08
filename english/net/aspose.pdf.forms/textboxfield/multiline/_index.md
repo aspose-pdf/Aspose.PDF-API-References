@@ -7,7 +7,7 @@ description: "TextBoxField property. Gets or sets multiline flag of the field. I
 type: docs
 weight: 70
 url: "/net/aspose.pdf.forms/textboxfield/multiline/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextBoxField.Multiline property
 

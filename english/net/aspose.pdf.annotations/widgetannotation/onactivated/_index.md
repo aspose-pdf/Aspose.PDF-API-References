@@ -7,7 +7,7 @@ description: "WidgetAnnotation property. An action which shall be performed when
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/widgetannotation/onactivated/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WidgetAnnotation.OnActivated property
 
@@ -19,7 +19,7 @@ public PdfAction OnActivated { get; set; }
 
 ### See Also
 
-* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [PdfAction](../../pdfaction/)
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

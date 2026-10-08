@@ -7,7 +7,7 @@ description: "RedactionAnnotation property. Gets or sets color of border which i
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/redactionannotation/bordercolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RedactionAnnotation.BorderColor property
 

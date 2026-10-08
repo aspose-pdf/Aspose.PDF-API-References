@@ -7,7 +7,7 @@ description: "PageSize property. A6 size (148x105 mm)."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/pagesize/a6/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageSize.A6 property
 
@@ -19,7 +19,7 @@ public static PageSize A6 { get; }
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

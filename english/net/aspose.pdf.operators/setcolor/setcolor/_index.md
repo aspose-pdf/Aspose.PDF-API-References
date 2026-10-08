@@ -7,7 +7,7 @@ description: "SetColor constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setcolor/setcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColor() {#constructor}
 
@@ -45,27 +45,7 @@ public SetColor(double g)
 
 ---
 
-## SetColor(double[]) {#constructor_2}
-
-Constructor which allows to specify color components.
-
-```csharp
-public SetColor(double[] color)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| color | Double[] | Array of color components. |
-
-### See Also
-
-* class [SetColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SetColor(double, double, double) {#constructor_3}
+## SetColor(double, double, double) {#constructor_2}
 
 Set color for stroking operator for DeviceRGB, CalRGB, and Lab color spaces
 
@@ -87,7 +67,7 @@ public SetColor(double r, double g, double b)
 
 ---
 
-## SetColor(double, double, double, double) {#constructor_4}
+## SetColor(double, double, double, double) {#constructor_3}
 
 Set color for non-stroking operator for CMYK color space
 
@@ -101,6 +81,26 @@ public SetColor(double c, double m, double y, double k)
 | m | Double | Magenta component. |
 | y | Double | Yellow component. |
 | k | Double | Black component. |
+
+### See Also
+
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SetColor(double[]) {#constructor_4}
+
+Constructor which allows to specify color components.
+
+```csharp
+public SetColor(double[] color)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| color | Double[] | Array of color components. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "Artifact property. If true Artifact is placed behind page contents
 type: docs
 weight: 360
 url: "/net/aspose.pdf/artifact/isbackground/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.IsBackground property
 

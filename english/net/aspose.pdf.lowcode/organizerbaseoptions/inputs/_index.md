@@ -7,7 +7,7 @@ description: "OrganizerBaseOptions property. Returns OrganizerOptions plugin dat
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/organizerbaseoptions/inputs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OrganizerBaseOptions.Inputs property
 
@@ -19,6 +19,7 @@ public List<IDataSource> Inputs { get; }
 
 ### See Also
 
+* interface [IDataSource](../../idatasource/)
 * class [OrganizerBaseOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

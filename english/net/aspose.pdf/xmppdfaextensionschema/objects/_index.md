@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionSchema property. Gets the list of objects (propert
 type: docs
 weight: 90
 url: "/net/aspose.pdf/xmppdfaextensionschema/objects/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchema.Objects property
 
@@ -19,6 +19,7 @@ public List<XmpPdfAExtensionObject> Objects { get; }
 
 ### See Also
 
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

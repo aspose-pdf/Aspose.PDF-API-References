@@ -7,7 +7,7 @@ description: "Border property. Gets or sets vertical corner radius."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/border/vcornerradius/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Border.VCornerRadius property
 

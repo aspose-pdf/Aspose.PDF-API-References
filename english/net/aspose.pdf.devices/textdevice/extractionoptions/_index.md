@@ -7,7 +7,7 @@ description: "TextDevice property. Gets or sets text extraction options."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.devices/textdevice/extractionoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextDevice.ExtractionOptions property
 

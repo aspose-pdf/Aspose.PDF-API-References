@@ -7,7 +7,7 @@ description: "Aspose.Pdf.LowCode.TextExtractorOptions.TextFormattingMode enum. D
 type: docs
 weight: 990
 url: "/net/aspose.pdf.lowcode/textextractoroptions.textformattingmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextExtractorOptions.TextFormattingMode enumeration
 

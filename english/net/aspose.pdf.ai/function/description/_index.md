@@ -7,7 +7,7 @@ description: "Function property. Gets or sets a description of what the function
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/function/description/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Function.Description property
 

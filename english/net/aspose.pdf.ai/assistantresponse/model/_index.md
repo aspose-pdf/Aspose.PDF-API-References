@@ -7,7 +7,7 @@ description: "AssistantResponse property. Gets or sets the ID of the model to us
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/assistantresponse/model/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantResponse.Model property
 

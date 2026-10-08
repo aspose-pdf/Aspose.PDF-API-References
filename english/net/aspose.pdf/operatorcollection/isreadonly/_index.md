@@ -7,7 +7,7 @@ description: "OperatorCollection property. Gets a value indicating whether the c
 type: docs
 weight: 230
 url: "/net/aspose.pdf/operatorcollection/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OperatorCollection.IsReadOnly property
 

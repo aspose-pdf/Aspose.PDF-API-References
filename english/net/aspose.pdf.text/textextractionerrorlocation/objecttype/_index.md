@@ -7,7 +7,7 @@ description: "TextExtractionErrorLocation property. Type of the PDF object (Page
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/textextractionerrorlocation/objecttype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextExtractionErrorLocation.ObjectType property
 

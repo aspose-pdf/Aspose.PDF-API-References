@@ -7,7 +7,7 @@ description: "Characteristics property. Gets or sets color of the background"
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/characteristics/background/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Characteristics.Background property
 
@@ -19,7 +19,6 @@ public Color Background { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
 * class [Characteristics](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "AppearanceDictionary property. Gets a value indicating whether dic
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/appearancedictionary/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AppearanceDictionary.IsReadOnly property
 

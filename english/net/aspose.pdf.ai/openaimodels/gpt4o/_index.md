@@ -7,7 +7,7 @@ description: "OpenAIModels property. Gets the identifier for the GPT-4o model."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/openaimodels/gpt4o/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIModels.Gpt4O property
 

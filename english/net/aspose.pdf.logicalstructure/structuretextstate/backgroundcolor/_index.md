@@ -7,17 +7,19 @@ description: "StructureTextState property. Gets or sets background color of the 
 type: docs
 weight: 50
 url: "/net/aspose.pdf.logicalstructure/structuretextstate/backgroundcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTextState.BackgroundColor property
 
 Gets or sets background color of the text.
 
-Can be null. Use null to inherit `BackgroundColor` property from parent structure element.
-
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
+
+## Remarks
+
+Can be null. Use null to inherit `BackgroundColor` property from parent structure element.
 
 ### See Also
 

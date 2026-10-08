@@ -7,7 +7,7 @@ description: "FormEditor method. Sets maximum character count of the text field.
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/formeditor/setfieldlimit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.SetFieldLimit method
 

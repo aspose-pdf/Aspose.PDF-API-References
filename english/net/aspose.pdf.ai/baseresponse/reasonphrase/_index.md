@@ -7,7 +7,7 @@ description: "BaseResponse property. Gets the error reason phrase."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/baseresponse/reasonphrase/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseResponse.ReasonPhrase property
 

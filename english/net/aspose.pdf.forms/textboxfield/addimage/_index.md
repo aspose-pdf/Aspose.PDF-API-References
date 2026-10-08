@@ -7,7 +7,7 @@ description: "TextBoxField method. Adds image into the field resources and draws
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/textboxfield/addimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextBoxField.AddImage method
 
@@ -23,7 +23,6 @@ public void AddImage(Image image)
 
 ### See Also
 
-* class [Image](../../../aspose.pdf/image/)
 * class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

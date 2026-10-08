@@ -7,7 +7,7 @@ description: "TextState property. Gets or sets horizontal scaling of the text."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.text/textstate/horizontalscaling/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextState.HorizontalScaling property
 

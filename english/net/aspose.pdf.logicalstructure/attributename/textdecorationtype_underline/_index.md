@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute TextDecorationType: Underline - A l
 type: docs
 weight: 390
 url: "/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_underline/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.TextDecorationType_Underline field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName TextDecorationType_Underline;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

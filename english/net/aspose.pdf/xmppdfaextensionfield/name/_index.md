@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionField property. Field name. Field names must be va
 type: docs
 weight: 30
 url: "/net/aspose.pdf/xmppdfaextensionfield/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionField.Name property
 

@@ -7,7 +7,7 @@ description: "PageCollection method. Copyies pages into document."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/pagecollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public void CopyTo(Page[] array, int index)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

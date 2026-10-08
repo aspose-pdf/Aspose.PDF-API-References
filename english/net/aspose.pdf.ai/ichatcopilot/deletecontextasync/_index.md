@@ -7,7 +7,7 @@ description: "IChatCopilot method. Asynchronously deletes the context."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/ichatcopilot/deletecontextasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IChatCopilot.DeleteContextAsync method
 

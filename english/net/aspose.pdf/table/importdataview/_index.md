@@ -7,7 +7,7 @@ description: "Table method. Imports a DataView object's data into the table."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/table/importdataview/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.ImportDataView method
 
@@ -20,13 +20,10 @@ public void ImportDataView(DataView sourceDataView, bool isColumnNamesImported, 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sourceDataView | DataView | The <see cref="T:System.Data.DataView" /> object to be imported. |
-| isColumnNamesImported | Boolean | Indicates whether the column names will be 
- imported as first row. |
-| firstFilledRow | Int32 | The zero based row number of the first cell in targer table from which import will start.
- If target table does not contain that row, it (and all previous if necessary) will be created |
-| firstFilledColumn | Int32 | The zero based column number of the first cell in targer table from which import will start. 
- The target table must contain that column before import starts, otherwise exception will be thrown. |
+| sourceDataView | DataView | The DataView object to be imported. |
+| isColumnNamesImported | Boolean | Indicates whether the column names will be imported as first row. |
+| firstFilledRow | Int32 | The zero based row number of the first cell in targer table from which import will start. If target table does not contain that row, it (and all previous if necessary) will be created |
+| firstFilledColumn | Int32 | The zero based column number of the first cell in targer table from which import will start. The target table must contain that column before import starts, otherwise exception will be thrown. |
 | maxRows | Int32 | Maximum amount of rows to be imported from source dataview. |
 | maxColumns | Int32 | Maximum columns to be imported from source dataview. |
 

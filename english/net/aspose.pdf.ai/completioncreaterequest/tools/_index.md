@@ -7,7 +7,7 @@ description: "CompletionCreateRequest property. Gets or sets a list of tools the
 type: docs
 weight: 160
 url: "/net/aspose.pdf.ai/completioncreaterequest/tools/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionCreateRequest.Tools property
 
@@ -20,6 +20,7 @@ public List<Tool> Tools { get; set; }
 
 ### See Also
 
+* class [Tool](../../tool/)
 * class [CompletionCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "PdfActionCollection method. Remove action by index."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdfactioncollection/delete/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfActionCollection.Delete method
 

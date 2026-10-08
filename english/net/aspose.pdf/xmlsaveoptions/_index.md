@@ -8,7 +8,7 @@ type: docs
 weight: 3210
 url: "/net/aspose.pdf/xmlsaveoptions/"
 keywords: "XmlSaveOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmlSaveOptions class
 
@@ -22,7 +22,7 @@ public class XmlSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [XmlSaveOptions](./xmlsaveoptions/)() | The default constructor. |
+| [XmlSaveOptions](xmlsaveoptions/)() | The default constructor. |
 
 ## Properties
 

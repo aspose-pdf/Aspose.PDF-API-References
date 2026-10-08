@@ -7,7 +7,7 @@ description: "PdfFileInfo method. Deinitializes the instance."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/pdffileinfo/close/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.Close method
 

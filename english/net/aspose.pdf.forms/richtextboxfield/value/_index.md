@@ -7,7 +7,7 @@ description: "RichTextBoxField property. Value of RichTextField."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/richtextboxfield/value/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RichTextBoxField.Value property
 

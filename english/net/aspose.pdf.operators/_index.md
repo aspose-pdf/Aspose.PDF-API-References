@@ -3,16 +3,16 @@ title: "Aspose.Pdf.Operators"
 linktitle: "Aspose.Pdf.Operators"
 articleTitle: "Aspose.Pdf.Operators"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The Aspose.Pdf.Operators namespace provides classes."
+description: "The Aspose.Pdf.Operators is a namespace for Operator implementations. These classes describes operators used in PDF page contents."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/"
 keywords: "Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Overview
 
-The **Aspose.Pdf.Operators** namespace provides classes.
+The **Aspose.Pdf.Operators** is a namespace for Operator implementations. These classes describes operators used in PDF page contents.
 
 Part of the [Aspose.PDF for .NET](../) API reference.
 
@@ -109,14 +109,4 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | --- | --- |
 | [LineCap](./linecap/) | The line cap style shall specify the shape that shall be used at the ends of open subpaths (and dashes, if any) when they are stroked. |
 | [LineJoin](./linejoin/) | The line join style shall specify the shape to be used at the corners of paths that are stroked. |
-
-## FAQ
-
-### What classes does the Aspose.Pdf.Operators namespace contain?
-
-[BDC](./bdc/), [BI](./bi/), [BMC](./bmc/), [BT](./bt/), [BX](./bx/), and 77 more.
-
-### How many types are in the Aspose.Pdf.Operators namespace?
-
-The Aspose.Pdf.Operators namespace contains 84 types, listed above.
 

@@ -7,7 +7,7 @@ description: "TeXLoadOptions property. Gets/sets TeX input directory."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/texloadoptions/inputdirectory/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXLoadOptions.InputDirectory property
 
@@ -19,7 +19,7 @@ public ITeXInputDirectory InputDirectory { get; set; }
 
 ### See Also
 
-* interface [ITeXInputDirectory](../../../aspose.pdf/itexinputdirectory/)
+* interface [ITeXInputDirectory](../../itexinputdirectory/)
 * class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

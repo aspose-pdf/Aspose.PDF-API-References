@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates SectElement."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.tagged/itaggedcontent/createsectelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateSectElement method
 

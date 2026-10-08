@@ -7,7 +7,7 @@ description: "SignatureCustomAppearance property. Gets/sets font size. Default v
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/signaturecustomappearance/fontsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureCustomAppearance.FontSize property
 

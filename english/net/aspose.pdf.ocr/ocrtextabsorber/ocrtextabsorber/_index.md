@@ -7,7 +7,7 @@ description: "OcrTextAbsorber constructor. Initializes a new instance with defau
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ocr/ocrtextabsorber/ocrtextabsorber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OcrTextAbsorber() {#constructor}
 
@@ -25,7 +25,7 @@ public OcrTextAbsorber()
 
 ---
 
-## OcrTextAbsorber([OcrTextRecognitionOptions](../../../aspose.pdf.ocr/ocrtextrecognitionoptions/)) {#constructor_1}
+## OcrTextAbsorber(OcrTextRecognitionOptions) {#constructor_1}
 
 Initializes a new instance with the specified options.
 
@@ -41,11 +41,11 @@ public OcrTextAbsorber(OcrTextRecognitionOptions options)
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | Thrown when *options* is <see langword="null" />. |
+| ArgumentNullException | Thrown when *options* is `null`. |
 
 ### See Also
 
-* class [OcrTextRecognitionOptions](../../../aspose.pdf.ocr/ocrtextrecognitionoptions/)
+* class [OcrTextRecognitionOptions](../../ocrtextrecognitionoptions/)
 * class [OcrTextAbsorber](../)
 * namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
 * assembly [Aspose.PDF](../../../)

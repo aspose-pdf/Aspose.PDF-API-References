@@ -7,7 +7,7 @@ description: "ImagePlacement property. Gets rotation angle of the Image."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/imageplacement/rotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagePlacement.Rotation property
 

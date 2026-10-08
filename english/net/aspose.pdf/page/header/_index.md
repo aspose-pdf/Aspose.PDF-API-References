@@ -7,7 +7,7 @@ description: "Page property. Gets or sets page header."
 type: docs
 weight: 380
 url: "/net/aspose.pdf/page/header/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Header property
 
@@ -23,7 +23,7 @@ The page header.
 
 ### See Also
 
-* class [HeaderFooter](../../../aspose.pdf/headerfooter/)
+* class [HeaderFooter](../../headerfooter/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

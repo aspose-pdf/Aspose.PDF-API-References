@@ -8,7 +8,7 @@ type: docs
 weight: 310
 url: "/net/aspose.pdf.lowcode/formimporter/"
 keywords: "FormImporter, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormImporter class
 
@@ -22,16 +22,17 @@ public sealed class FormImporter : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [FormImporter](./formimporter/)() | The default constructor. |
+| [FormImporter](formimporter/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(IPluginOptions) | Starts the import processing with the specified options. |
+| [Process](../../aspose.pdf.lowcode/formimporter/process/)(IPluginOptions) | Starts the import processing with the specified options. |
 
 ### See Also
 
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

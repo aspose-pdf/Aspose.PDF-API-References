@@ -7,11 +7,11 @@ description: "StructureTypeStandard property. Gets tag name of StructureElement.
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/tag/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.Tag property
 
-Gets tag name of [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/).
+Gets tag name of [`StructureElement`](../../structureelement/).
 
 ```csharp
 public string Tag { get; }
@@ -19,7 +19,7 @@ public string Tag { get; }
 
 ### Property Value
 
-Tag name of [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/).
+Tag name of [`StructureElement`](../../structureelement/).
 
 ### See Also
 

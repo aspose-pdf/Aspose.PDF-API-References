@@ -7,9 +7,9 @@ description: "OpenAIOcrCopilotOptions method. Adds a PDF document to the documen
 type: docs
 weight: 110
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withdocument/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## WithDocument([PdfDocument](../../../aspose.pdf.ai/pdfdocument/)) {#withdocument}
+## WithDocument(PdfDocument) {#withdocument}
 
 Adds a PDF document to the document collection.
 
@@ -23,12 +23,12 @@ public OpenAIOcrCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 ### Return Value
 
-The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
+The current instance of [`OpenAIOcrCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
-* class [PdfDocument](../../../aspose.pdf.ai/pdfdocument/)
+* class [OpenAIOcrCopilotOptions](../)
+* class [PdfDocument](../../pdfdocument/)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -48,11 +48,11 @@ public OpenAIOcrCopilotOptions WithDocument(string filePath)
 
 ### Return Value
 
-The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
+The current instance of [`OpenAIOcrCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+* class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

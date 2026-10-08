@@ -8,7 +8,7 @@ type: docs
 weight: 1310
 url: "/net/aspose.pdf.annotations/textstyle/"
 keywords: "TextStyle, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStyle class
 
@@ -22,16 +22,16 @@ public class TextStyle
 
 | Name | Description |
 | --- | --- |
-| [Color](./color/) { get; set; } | Color of the text. |
-| [FontName](./fontname/) { get; set; } | Name of the font. |
-| [FontSize](./fontsize/) { get; set; } | Fonst size. |
-| [HorizontalAlignment](./horizontalalignment/) { get; set; } | Text alignment. Valid values are: Left, Center, Rigth. |
+| [Color](../../aspose.pdf.annotations/textstyle/color/) { get; set; } | Color of the text. |
+| [FontName](../../aspose.pdf.annotations/textstyle/fontname/) { get; set; } | Name of the font. |
+| [FontSize](../../aspose.pdf.annotations/textstyle/fontsize/) { get; set; } | Fonst size. |
+| [HorizontalAlignment](../../aspose.pdf.annotations/textstyle/horizontalalignment/) { get; set; } | Text alignment. Valid values are: Left, Center, Rigth. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](./tostring/)() | String representation of TextStyle. |
+| override [ToString](../../aspose.pdf.annotations/textstyle/tostring/)() | String representation of TextStyle. |
 
 ### See Also
 

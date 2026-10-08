@@ -7,7 +7,7 @@ description: "Facade method. Disposes Aspose.Pdf.Document bound with a facade."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/facade/close/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Facade.Close method
 

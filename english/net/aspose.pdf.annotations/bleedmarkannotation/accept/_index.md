@@ -7,7 +7,7 @@ description: "BleedMarkAnnotation method. Accepts visitor for annotation process
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/bleedmarkannotation/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BleedMarkAnnotation.Accept method
 
@@ -23,7 +23,7 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [AnnotationSelector](../../annotationselector/)
 * class [BleedMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

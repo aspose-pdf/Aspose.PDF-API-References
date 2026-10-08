@@ -7,7 +7,7 @@ description: "TextFragmentCollection property. Gets a value indicating whether a
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/textfragmentcollection/issynchronized/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentCollection.IsSynchronized property
 

@@ -7,9 +7,9 @@ description: "StructureRecognitionVisitor method. Start recognition of document"
 type: docs
 weight: 70
 url: "/net/aspose.pdf.flow/structurerecognitionvisitor/recognize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Recognize([Document](../../../aspose.pdf/document/)) {#recognize}
+## Recognize(Document) {#recognize}
 
 Start recognition of document
 
@@ -30,7 +30,7 @@ public virtual void Recognize(Document document)
 
 ---
 
-## Recognize([Page](../../../aspose.pdf/page/)) {#recognize_1}
+## Recognize(Page) {#recognize_1}
 
 Start recognition of page
 

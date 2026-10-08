@@ -7,7 +7,7 @@ description: "ImageDescription property. Gets or sets the rectangle information 
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/imagedescription/rectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageDescription.Rectangle property
 
@@ -19,7 +19,7 @@ public Rectangle Rectangle { get; set; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ImageDescription](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

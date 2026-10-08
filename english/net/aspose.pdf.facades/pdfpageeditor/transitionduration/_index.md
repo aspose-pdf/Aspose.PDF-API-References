@@ -7,7 +7,7 @@ description: "PdfPageEditor property. Gets or sets duration of the transition ef
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/pdfpageeditor/transitionduration/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.TransitionDuration property
 

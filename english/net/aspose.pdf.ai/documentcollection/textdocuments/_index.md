@@ -7,7 +7,7 @@ description: "DocumentCollection property. Gets or sets the collection of text d
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/documentcollection/textdocuments/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentCollection.TextDocuments property
 
@@ -19,6 +19,7 @@ public List<TextDocument> TextDocuments { get; set; }
 
 ### See Also
 
+* class [TextDocument](../../textdocument/)
 * class [DocumentCollection](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

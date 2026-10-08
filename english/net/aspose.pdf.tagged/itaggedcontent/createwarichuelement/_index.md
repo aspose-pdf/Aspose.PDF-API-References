@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates WarichuElement."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.tagged/itaggedcontent/createwarichuelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateWarichuElement method
 

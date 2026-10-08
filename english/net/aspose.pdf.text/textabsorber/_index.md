@@ -8,12 +8,12 @@ type: docs
 weight: 410
 url: "/net/aspose.pdf.text/textabsorber/"
 keywords: "TextAbsorber, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextAbsorber class
 
 Represents an absorber object of a text.
- Performs text extraction and provides access to the result via `Text` object.
+ Performs text extraction and provides access to the result via [`Text`](./text/) object.
 
 ```csharp
 public class TextAbsorber
@@ -41,32 +41,32 @@ string extractedText = absorber.Text;
 
 | Name | Description |
 | --- | --- |
-| [TextAbsorber](./textabsorber/#constructor)() | Initializes a new instance of the [`TextAbsorber`](../../aspose.pdf.text/textabsorber/). |
-| [TextAbsorber](./textabsorber/#constructor_1)(TextExtractionOptions) | Initializes a new instance of the [`TextAbsorber`](../../aspose.pdf.text/textabsorber/) with extraction options. |
-| [TextAbsorber](./textabsorber/#constructor_2)(TextSearchOptions) | Initializes a new instance of the [`TextAbsorber`](../../aspose.pdf.text/textabsorber/) with text search options. |
-| [TextAbsorber](./textabsorber/#constructor_3)(TextExtractionOptions, TextSearchOptions) | Initializes a new instance of the [`TextAbsorber`](../../aspose.pdf.text/textabsorber/) with extraction and text search options. |
+| [TextAbsorber](textabsorber/#constructor)() | Initializes a new instance of the `TextAbsorber`. |
+| [TextAbsorber](textabsorber/#constructor_1)(TextExtractionOptions) | Initializes a new instance of the `TextAbsorber` with extraction options. |
+| [TextAbsorber](textabsorber/#constructor_2)(TextExtractionOptions, TextSearchOptions) | Initializes a new instance of the `TextAbsorber` with extraction and text search options. |
+| [TextAbsorber](textabsorber/#constructor_3)(TextSearchOptions) | Initializes a new instance of the `TextAbsorber` with text search options. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Errors](./errors/) { get; } | List of [`TextExtractionError`](../../aspose.pdf.text/textextractionerror/) objects. It contain information about errors were found during text extraction. Searching for errors will performed only if TextSearchOptions.LogTextExtractionErrors = true; And it may decrease performance. |
-| virtual [ExtractionOptions](./extractionoptions/) { get; set; } | Gets or sets text extraction options. |
-| [HasErrors](./haserrors/) { get; } | Value indicates whether errors were found during text extraction. Searching for errors will performed only if TextSearchOptions.LogTextExtractionErrors = true; And it may decrease performance. |
-| virtual [Text](./text/) { get; } | Gets extracted text that the [`TextAbsorber`](../../aspose.pdf.text/textabsorber/) extracts on the PDF document or page. |
-| virtual [TextSearchOptions](./textsearchoptions/) { get; set; } | Gets or sets text search options. |
+| [Errors](../../aspose.pdf.text/textabsorber/errors/) { get; } | List of [`TextExtractionError`](../textextractionerror/) objects. It contain information about errors were found during text extraction. Searching for errors will performed only if TextSearchOptions.LogTextExtractionErrors = true; And it may decrease performance. |
+| virtual [ExtractionOptions](../../aspose.pdf.text/textabsorber/extractionoptions/) { get; set; } | Gets or sets text extraction options. |
+| [HasErrors](../../aspose.pdf.text/textabsorber/haserrors/) { get; } | Value indicates whether errors were found during text extraction. Searching for errors will performed only if TextSearchOptions.LogTextExtractionErrors = true; And it may decrease performance. |
+| virtual [Text](../../aspose.pdf.text/textabsorber/text/) { get; } | Gets extracted text that the `TextAbsorber` extracts on the PDF document or page. |
+| virtual [TextSearchOptions](../../aspose.pdf.text/textabsorber/textsearchoptions/) { get; set; } | Gets or sets text search options. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Visit](./visit/)(Document) | Extracts text on the specified document |
-| virtual [Visit](./visit/)(Page) | Extracts text on the specified page |
-| virtual [Visit](./visit/)(XForm) | Extracts text on the specified XForm. |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit)(Page) | Extracts text on the specified page |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_1)(XForm) | Extracts text on the specified XForm. |
+| virtual [Visit](../../aspose.pdf.text/textabsorber/visit/#visit_2)(Document) | Extracts text on the specified document |
 
 ## Remarks
 
-The [`TextAbsorber`](../../aspose.pdf.text/textabsorber/) object is used to extract text from a Pdf document or the document's page.
+The [`TextAbsorber`](../textabsorber/) object is used to extract text from a Pdf document or the document's page.
 
 ### See Also
 

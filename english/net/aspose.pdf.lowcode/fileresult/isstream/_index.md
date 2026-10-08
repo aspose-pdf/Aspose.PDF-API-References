@@ -7,7 +7,7 @@ description: "FileResult property. Indicates whether the result is an output str
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/fileresult/isstream/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileResult.IsStream property
 

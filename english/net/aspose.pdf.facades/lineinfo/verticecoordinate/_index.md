@@ -7,7 +7,7 @@ description: "LineInfo property. Gets or sets an array of numbers representing t
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/lineinfo/verticecoordinate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineInfo.VerticeCoordinate property
 

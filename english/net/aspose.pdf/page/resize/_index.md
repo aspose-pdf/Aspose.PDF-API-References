@@ -7,7 +7,7 @@ description: "Page method. Resizes the page."
 type: docs
 weight: 340
 url: "/net/aspose.pdf/page/resize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Resize method
 
@@ -23,7 +23,7 @@ public void Resize(PageSize targetSize)
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PageSize](../../pagesize/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

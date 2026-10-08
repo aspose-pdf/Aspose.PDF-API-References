@@ -7,7 +7,7 @@ description: "OpenAIOcrCopilotOptions method. Sets the level of detail for image
 type: docs
 weight: 160
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withdetail/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIOcrCopilotOptions.WithDetail method
 
@@ -23,12 +23,12 @@ public OpenAIOcrCopilotOptions WithDetail(Detail detail)
 
 ### Return Value
 
-The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
+The current instance of [`OpenAIOcrCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
-* enum [Detail](../../../aspose.pdf.ai/detail/)
+* class [OpenAIOcrCopilotOptions](../)
+* enum [Detail](../../detail/)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

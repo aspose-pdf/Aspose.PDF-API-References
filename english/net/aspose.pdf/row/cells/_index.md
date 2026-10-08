@@ -7,7 +7,7 @@ description: "Row property. Gets the cells of the row."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/row/cells/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Row.Cells property
 
@@ -19,7 +19,7 @@ public Cells Cells { get; set; }
 
 ### See Also
 
-* class [Cells](../../../aspose.pdf/cells/)
+* class [Cells](../../cells/)
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

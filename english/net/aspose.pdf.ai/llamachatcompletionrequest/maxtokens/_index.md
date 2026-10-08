@@ -7,7 +7,7 @@ description: "LlamaChatCompletionRequest property. Sets or gets the maximum numb
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/llamachatcompletionrequest/maxtokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaChatCompletionRequest.MaxTokens property
 

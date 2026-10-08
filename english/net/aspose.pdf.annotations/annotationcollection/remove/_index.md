@@ -7,7 +7,7 @@ description: "AnnotationCollection method. Deletes specified annotation from the
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/annotationcollection/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AnnotationCollection.Remove method
 
@@ -27,7 +27,7 @@ True - if annotation removed; otherwise, false.
 
 ### See Also
 
-* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [Annotation](../../annotation/)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

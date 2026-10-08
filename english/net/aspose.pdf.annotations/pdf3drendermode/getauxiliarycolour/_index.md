@@ -7,7 +7,7 @@ description: "PDF3DRenderMode method. Gets the auxiliary colour."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/pdf3drendermode/getauxiliarycolour/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DRenderMode.GetAuxiliaryColour method
 

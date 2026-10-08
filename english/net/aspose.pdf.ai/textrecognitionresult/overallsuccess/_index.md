@@ -7,7 +7,7 @@ description: "TextRecognitionResult property. Indicates if OCR was successful fo
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/textrecognitionresult/overallsuccess/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextRecognitionResult.OverallSuccess property
 

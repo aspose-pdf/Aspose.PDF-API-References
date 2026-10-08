@@ -7,7 +7,7 @@ description: "OpenAIClient method. Retrieves a list of assistants asynchronously
 type: docs
 weight: 400
 url: "/net/aspose.pdf.ai/openaiclient/getassistantsasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIClient.GetAssistantsAsync method
 
@@ -30,7 +30,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [AssistantListQueryParameters](../../../aspose.pdf.ai/assistantlistqueryparameters/)
+* class [AssistantListResponse](../../assistantlistresponse/)
+* class [AssistantListQueryParameters](../../assistantlistqueryparameters/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

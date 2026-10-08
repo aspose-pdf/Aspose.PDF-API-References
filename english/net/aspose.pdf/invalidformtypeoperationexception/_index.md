@@ -8,7 +8,7 @@ type: docs
 weight: 1620
 url: "/net/aspose.pdf/invalidformtypeoperationexception/"
 keywords: "InvalidFormTypeOperationException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## InvalidFormTypeOperationException class
 
@@ -22,10 +22,10 @@ public sealed class InvalidFormTypeOperationException : InvalidOperationExceptio
 
 | Name | Description |
 | --- | --- |
-| [InvalidFormTypeOperationException](./invalidformtypeoperationexception/#constructor)() | Initializes a new instance of the [`InvalidFormTypeOperationException`](../../aspose.pdf/invalidformtypeoperationexception/) class. |
-| [InvalidFormTypeOperationException](./invalidformtypeoperationexception/#constructor_1)(Exception) | Initializes a new instance of the [`InvalidFormTypeOperationException`](../../aspose.pdf/invalidformtypeoperationexception/) class with a reference to the inner exception that is the cause of this exception. |
-| [InvalidFormTypeOperationException](./invalidformtypeoperationexception/#constructor_2)(string) | Initializes a new instance of the [`InvalidFormTypeOperationException`](../../aspose.pdf/invalidformtypeoperationexception/) class. |
-| [InvalidFormTypeOperationException](./invalidformtypeoperationexception/#constructor_3)(string, Exception) | Initializes a new instance of the [`InvalidFormTypeOperationException`](../../aspose.pdf/invalidformtypeoperationexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [InvalidFormTypeOperationException](invalidformtypeoperationexception/#constructor)() | Initializes a new instance of the `InvalidFormTypeOperationException` class. |
+| [InvalidFormTypeOperationException](invalidformtypeoperationexception/#constructor_1)(string) | Initializes a new instance of the `InvalidFormTypeOperationException` class. |
+| [InvalidFormTypeOperationException](invalidformtypeoperationexception/#constructor_2)(string, Exception) | Initializes a new instance of the `InvalidFormTypeOperationException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [InvalidFormTypeOperationException](invalidformtypeoperationexception/#constructor_3)(Exception) | Initializes a new instance of the `InvalidFormTypeOperationException` class with a reference to the inner exception that is the cause of this exception. |
 
 ### See Also
 

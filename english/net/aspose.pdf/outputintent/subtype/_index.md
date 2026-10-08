@@ -7,7 +7,7 @@ description: "OutputIntent property. Gets the output intent subtype."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/outputintent/subtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputIntent.Subtype property
 

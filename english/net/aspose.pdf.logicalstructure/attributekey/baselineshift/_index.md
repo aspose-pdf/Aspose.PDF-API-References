@@ -7,7 +7,7 @@ description: "AttributeKey field. BaselineShift attribute (Layout attribute owne
 type: docs
 weight: 260
 url: "/net/aspose.pdf.logicalstructure/attributekey/baselineshift/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.BaselineShift field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey BaselineShift;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

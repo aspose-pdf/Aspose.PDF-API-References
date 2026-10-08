@@ -7,7 +7,7 @@ description: "AnnotationCollection property. Gets an object that can be used to 
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/annotationcollection/syncroot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AnnotationCollection.SyncRoot property
 

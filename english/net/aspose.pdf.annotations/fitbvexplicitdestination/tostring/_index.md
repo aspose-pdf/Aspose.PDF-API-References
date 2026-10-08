@@ -7,7 +7,7 @@ description: "FitBVExplicitDestination method. Converts the object state into st
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/fitbvexplicitdestination/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FitBVExplicitDestination.ToString method
 

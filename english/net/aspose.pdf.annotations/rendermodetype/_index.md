@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.RenderModeType enum. Enum RenderModeType: s
 type: docs
 weight: 1040
 url: "/net/aspose.pdf.annotations/rendermodetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenderModeType enumeration
 

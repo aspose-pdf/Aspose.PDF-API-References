@@ -7,7 +7,7 @@ description: "FreeTextAnnotation property. Gets or sets line ending style for li
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/freetextannotation/startingstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FreeTextAnnotation.StartingStyle property
 
@@ -20,7 +20,7 @@ public LineEnding StartingStyle { get; set; }
 
 ### See Also
 
-* enum [LineEnding](../../../aspose.pdf.annotations/lineending/)
+* enum [LineEnding](../../lineending/)
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

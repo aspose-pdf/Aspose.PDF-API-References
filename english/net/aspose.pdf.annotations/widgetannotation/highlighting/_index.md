@@ -7,7 +7,7 @@ description: "WidgetAnnotation property. Annotation highlighting mode."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/widgetannotation/highlighting/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WidgetAnnotation.Highlighting property
 
@@ -19,7 +19,7 @@ public HighlightingMode Highlighting { get; set; }
 
 ### See Also
 
-* enum [HighlightingMode](../../../aspose.pdf.annotations/highlightingmode/)
+* enum [HighlightingMode](../../highlightingmode/)
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

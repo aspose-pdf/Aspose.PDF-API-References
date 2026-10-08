@@ -7,7 +7,7 @@ description: "RichMediaAnnotation property. Event which activates application."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/richmediaannotation/activateon/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RichMediaAnnotation.ActivateOn property
 
@@ -19,6 +19,7 @@ public ActivationEvent ActivateOn { get; set; }
 
 ### See Also
 
+* enum [ActivationEvent](../../richmediaannotation.activationevent/)
 * class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

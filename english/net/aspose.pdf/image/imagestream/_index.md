@@ -7,7 +7,7 @@ description: "Image property. Gets or sets the image stream."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/image/imagestream/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Image.ImageStream property
 

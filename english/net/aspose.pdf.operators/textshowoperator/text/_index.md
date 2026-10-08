@@ -7,7 +7,7 @@ description: "TextShowOperator property. Gets text which operator out on the pag
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/textshowoperator/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextShowOperator.Text property
 

@@ -7,7 +7,7 @@ description: "Metadata method."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/metadata/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metadata.CopyTo method
 
@@ -17,13 +17,9 @@ product_version: "26.9.0"
 public void CopyTo(KeyValuePair<string, XmpValue>[] array, int index)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | KeyValuePair`2[] |  |
-| index | Int32 |  |
-
 ### See Also
 
+* class [XmpValue](../../xmpvalue/)
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

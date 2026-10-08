@@ -7,7 +7,7 @@ description: "PageLabelCollection method. Update label for given page index (pag
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagelabelcollection/updatelabel/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageLabelCollection.UpdateLabel method
 
@@ -24,7 +24,7 @@ public void UpdateLabel(int pageIndex, PageLabel pageLabel)
 
 ### See Also
 
-* class [PageLabel](../../../aspose.pdf/pagelabel/)
+* class [PageLabel](../../pagelabel/)
 * class [PageLabelCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

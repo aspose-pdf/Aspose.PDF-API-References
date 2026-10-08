@@ -7,7 +7,7 @@ description: "MessageContentRequest property. Gets or sets the text content that
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/messagecontentrequest/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MessageContentRequest.Text property
 

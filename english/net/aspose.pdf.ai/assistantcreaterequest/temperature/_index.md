@@ -7,7 +7,7 @@ description: "AssistantCreateRequest property. Gets or sets sampling temperature
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/assistantcreaterequest/temperature/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantCreateRequest.Temperature property
 

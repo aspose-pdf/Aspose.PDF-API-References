@@ -7,7 +7,7 @@ description: "OpenAIModels property. Gets the identifier for the GPT-3.5 Turbo m
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/openaimodels/gpt35turbo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIModels.Gpt35Turbo property
 

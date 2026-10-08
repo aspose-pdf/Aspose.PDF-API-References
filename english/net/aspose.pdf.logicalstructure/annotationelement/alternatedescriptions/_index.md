@@ -7,7 +7,7 @@ description: "AnnotationElement property. Gets or Sets the Alternate Description
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/annotationelement/alternatedescriptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AnnotationElement.AlternateDescriptions property
 

@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute ListNumbering: None - No autonumber
 type: docs
 weight: 520
 url: "/net/aspose.pdf.logicalstructure/attributename/listnumbering_none/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.ListNumbering_None field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName ListNumbering_None;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

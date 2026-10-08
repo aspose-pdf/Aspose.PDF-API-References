@@ -7,7 +7,7 @@ description: "RunStepDetails property. Gets or sets the details of the tool call
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/runstepdetails/toolcalls/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunStepDetails.ToolCalls property
 
@@ -19,6 +19,7 @@ public List<ToolCall> ToolCalls { get; set; }
 
 ### See Also
 
+* class [ToolCall](../../toolcall/)
 * class [RunStepDetails](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

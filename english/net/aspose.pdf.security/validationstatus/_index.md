@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Security.ValidationStatus enum. Represents the validati
 type: docs
 weight: 220
 url: "/net/aspose.pdf.security/validationstatus/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ValidationStatus enumeration
 

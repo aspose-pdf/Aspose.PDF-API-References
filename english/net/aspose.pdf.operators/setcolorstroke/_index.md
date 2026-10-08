@@ -8,7 +8,7 @@ type: docs
 weight: 600
 url: "/net/aspose.pdf.operators/setcolorstroke/"
 keywords: "SetColorStroke, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColorStroke class
 
@@ -22,36 +22,35 @@ public class SetColorStroke : BasicSetColorOperator
 
 | Name | Description |
 | --- | --- |
-| [SetColorStroke](./setcolorstroke/#constructor)() | Initializes operator. |
-| [SetColorStroke](./setcolorstroke/#constructor_1)(double) | Set color for stroking operators for DeviceGray, CalGray and Indexed color spaces. |
-| [SetColorStroke](./setcolorstroke/#constructor_2)(double[]) | Constructor which allows to set color components. |
-| [SetColorStroke](./setcolorstroke/#constructor_3)(double, double, double) | Set color for stroking operator for DeviceRGB, CalRGB, and Lab color spaces |
-| [SetColorStroke](./setcolorstroke/#constructor_4)(double, double, double, double) | Set color for stroking operator for CMYK color space |
+| [SetColorStroke](setcolorstroke/#constructor)() | Initializes operator. |
+| [SetColorStroke](setcolorstroke/#constructor_1)(double) | Set color for stroking operators for DeviceGray, CalGray and Indexed color spaces. |
+| [SetColorStroke](setcolorstroke/#constructor_2)(double, double, double) | Set color for stroking operator for DeviceRGB, CalRGB, and Lab color spaces |
+| [SetColorStroke](setcolorstroke/#constructor_3)(double[]) | Constructor which allows to set color components. |
+| [SetColorStroke](setcolorstroke/#constructor_4)(double, double, double, double) | Set color for stroking operator for CMYK color space |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [B](./b/) { get; set; } | Gets or sets the blue component. |
-| [C](./c/) { get; set; } | Gets or sets the cyan component. |
+| [B](../../aspose.pdf.operators/setcolorstroke/b/) { get; set; } | Gets or sets the blue component. |
+| [C](../../aspose.pdf.operators/setcolorstroke/c/) { get; set; } | Gets or sets the cyan component. |
 | virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color/) { get; } | Gets array of color components. |
-| [G](./g/) { get; set; } | Gets or sets the green component. |
+| [G](../../aspose.pdf.operators/setcolorstroke/g/) { get; set; } | Gets or sets the green component. |
 | [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | Gets black component of gray color. |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [K](./k/) { get; set; } | Gets or sets the black component. |
-| [M](./m/) { get; set; } | Gets or sets the magenta component. |
-| [R](./r/) { get; set; } | Gets or sets the red component. |
-| [Y](./y/) { get; set; } | Gets or sets the yellow component. |
+| [K](../../aspose.pdf.operators/setcolorstroke/k/) { get; set; } | Gets or sets the black component. |
+| [M](../../aspose.pdf.operators/setcolorstroke/m/) { get; set; } | Gets or sets the magenta component. |
+| [R](../../aspose.pdf.operators/setcolorstroke/r/) { get; set; } | Gets or sets the red component. |
+| [Y](../../aspose.pdf.operators/setcolorstroke/y/) { get; set; } | Gets or sets the yellow component. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [Accept](../../aspose.pdf.operators/setcolorstroke/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
-| override [getColor](./getcolor/)() | Returns color specified by operator. |
+| override [getColor](../../aspose.pdf.operators/setcolorstroke/getcolor/)() | Returns color specified by operator. |
 
 ### See Also
 

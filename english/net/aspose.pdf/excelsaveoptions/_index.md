@@ -8,7 +8,7 @@ type: docs
 weight: 780
 url: "/net/aspose.pdf/excelsaveoptions/"
 keywords: "ExcelSaveOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExcelSaveOptions class
 
@@ -22,7 +22,7 @@ public class ExcelSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [ExcelSaveOptions](./excelsaveoptions/)() | The default constructor. |
+| [ExcelSaveOptions](excelsaveoptions/)() | The default constructor. |
 
 ## Properties
 
@@ -31,11 +31,11 @@ public class ExcelSaveOptions : UnifiedSaveOptions
 | [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Gets or sets boolean value which indicates if will font glyphs be cached while preparing aps pages. Improves performance of conversion pdf to other formats but increases memory consumption. |
 | [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
 | [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | This atrribute turned on functionality for extracting image or text for PDF documents with OCR sublayer. |
-| [Format](./format/) { get; set; } | Output format |
-| [InsertBlankColumnAtFirst](./insertblankcolumnatfirst/) { get; set; } | Set true if you need inserting of blank column as the first column of worksheet. Default value is false; it means that blank column will not be inserted. |
-| [MinimizeTheNumberOfWorksheets](./minimizethenumberofworksheets/) { get; set; } | Set true if you need to minimize the number of worksheets in resultant workbook. Default value is false; it means save of each PDF page as separated worksheet. |
+| [Format](../../aspose.pdf/excelsaveoptions/format/) { get; set; } | Output format |
+| [InsertBlankColumnAtFirst](../../aspose.pdf/excelsaveoptions/insertblankcolumnatfirst/) { get; set; } | Set true if you need inserting of blank column as the first column of worksheet. Default value is false; it means that blank column will not be inserted. |
+| [MinimizeTheNumberOfWorksheets](../../aspose.pdf/excelsaveoptions/minimizethenumberofworksheets/) { get; set; } | Set true if you need to minimize the number of worksheets in resultant workbook. Default value is false; it means save of each PDF page as separated worksheet. |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format of data save. |
-| [UniformWorksheets](./uniformworksheets/) { get; set; } | Set true for using uniform columns division through the document. Default value is false; it means that columns division will independent for each page. |
+| [UniformWorksheets](../../aspose.pdf/excelsaveoptions/uniformworksheets/) { get; set; } | Set true for using uniform columns division through the document. Default value is false; it means that columns division will independent for each page. |
 | [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
 
 ## Fields

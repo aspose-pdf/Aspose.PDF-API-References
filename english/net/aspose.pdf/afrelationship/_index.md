@@ -7,7 +7,7 @@ description: "Aspose.Pdf.AFRelationship enum. Enumeration describes associated f
 type: docs
 weight: 20
 url: "/net/aspose.pdf/afrelationship/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AFRelationship enumeration
 

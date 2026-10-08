@@ -7,7 +7,7 @@ description: "TeXMemoryOutputDirectory method. Returns the stream to write to."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/texmemoryoutputdirectory/getoutputfile/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXMemoryOutputDirectory.GetOutputFile method
 

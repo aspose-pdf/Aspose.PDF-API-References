@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.RenditionType enum. Enumeration describes p
 type: docs
 weight: 1080
 url: "/net/aspose.pdf.annotations/renditiontype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenditionType enumeration
 

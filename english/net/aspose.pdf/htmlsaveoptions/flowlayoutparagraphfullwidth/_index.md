@@ -7,7 +7,7 @@ description: "HtmlSaveOptions property. This attribute specifies full width para
 type: docs
 weight: 240
 url: "/net/aspose.pdf/htmlsaveoptions/flowlayoutparagraphfullwidth/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.FlowLayoutParagraphFullWidth property
 

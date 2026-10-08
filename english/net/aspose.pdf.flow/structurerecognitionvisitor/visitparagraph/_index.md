@@ -7,7 +7,7 @@ description: "StructureRecognitionVisitor method. Called when a paragraph node i
 type: docs
 weight: 50
 url: "/net/aspose.pdf.flow/structurerecognitionvisitor/visitparagraph/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureRecognitionVisitor.VisitParagraph method
 

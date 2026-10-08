@@ -7,7 +7,7 @@ description: "CosPdfDictionary method. For access to simple data type like strin
 type: docs
 weight: 60
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/trygetvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfDictionary.TryGetValue method
 
@@ -21,16 +21,16 @@ public bool TryGetValue(string key, out ICosPdfPrimitive value)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | key | String | Key value |
-| value | ICosPdfPrimitive& | returns <see cref="T:Aspose.Pdf.DataEditor.ICosPdfPrimitive" /> for key or null. |
+| value | ICosPdfPrimitive& | returns [`ICosPdfPrimitive`](../../icospdfprimitive/) for key or null. |
 
 ### Return Value
 
-Returns true if [`ICosPdfPrimitive`](../../../aspose.pdf.dataeditor/icospdfprimitive/) is like string, name, bool, number. 
+Returns true if [`ICosPdfPrimitive`](../../icospdfprimitive/) is like string, name, bool, number. 
  Returns false for all other types.
 
 ### See Also
 
-* interface [ICosPdfPrimitive](../../../aspose.pdf.dataeditor/icospdfprimitive/)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Document property. Gets document outlines."
 type: docs
 weight: 1330
 url: "/net/aspose.pdf/document/outlines/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.Outlines property
 
@@ -19,7 +19,7 @@ public OutlineCollection Outlines { get; }
 
 ### See Also
 
-* class [OutlineCollection](../../../aspose.pdf/outlinecollection/)
+* class [OutlineCollection](../../outlinecollection/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

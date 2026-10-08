@@ -7,7 +7,7 @@ description: "ChatMessageResponse property. Gets or sets the contents of the mes
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/chatmessageresponse/content/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChatMessageResponse.Content property
 

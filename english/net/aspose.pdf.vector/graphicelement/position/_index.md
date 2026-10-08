@@ -7,12 +7,12 @@ description: "GraphicElement property. Gets or sets the position in the current 
 type: docs
 weight: 90
 url: "/net/aspose.pdf.vector/graphicelement/position/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicElement.Position property
 
 Gets or sets the position in the current coordinate space.
- If `Parent` is not `!:null` then the element have xForm coordinate space.
+ If [`Parent`](../parent/) is not `!:null` then the element have xForm coordinate space.
 
 ```csharp
 public virtual Point Position { get; set; }

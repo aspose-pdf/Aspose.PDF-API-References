@@ -7,7 +7,7 @@ description: "PdfFileSanitization property. Allows to generate new xref and trai
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/pdffilesanitization/userebuildxrefandtrailer/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSanitization.UseRebuildXrefAndTrailer property
 

@@ -7,13 +7,13 @@ description: "TextFragmentState constructor. Initializes new instance of the Tex
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textfragmentstate/textfragmentstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentState constructor
 
-Initializes new instance of the [`TextFragmentState`](../../../aspose.pdf.text/textfragmentstate/) object with specified [`TextFragment`](../../../aspose.pdf.text/textfragment/) object.
- This [`TextFragmentState`](../../../aspose.pdf.text/textfragmentstate/) initialization is not supported.
- TextFragmentState is only available with `TextState` property.
+Initializes new instance of the [`TextFragmentState`](../) object with specified [`TextFragment`](../../textfragment/) object.
+ This [`TextFragmentState`](../) initialization is not supported.
+ TextFragmentState is only available with [`TextState`](../../textfragment/textstate/) property.
 
 ```csharp
 public TextFragmentState(TextFragment fragment)
@@ -25,7 +25,7 @@ public TextFragmentState(TextFragment fragment)
 
 ### See Also
 
-* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [TextFragment](../../textfragment/)
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

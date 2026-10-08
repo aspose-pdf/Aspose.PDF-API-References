@@ -7,7 +7,7 @@ description: "TiffOptions property. Gets and sets flag that allows to save all p
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/tiffoptions/saveasmultipagetiff/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TiffOptions.SaveAsMultiPageTiff property
 

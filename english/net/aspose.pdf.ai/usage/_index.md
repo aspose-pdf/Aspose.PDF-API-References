@@ -8,7 +8,7 @@ type: docs
 weight: 1340
 url: "/net/aspose.pdf.ai/usage/"
 keywords: "Usage, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Usage class
 
@@ -22,15 +22,15 @@ public class Usage
 
 | Name | Description |
 | --- | --- |
-| [Usage](./usage/)() | The default constructor. |
+| [Usage](usage/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CompletionTokens](./completiontokens/) { get; set; } | Gets or sets number of tokens in the generated completion. |
-| [PromptTokens](./prompttokens/) { get; set; } | Gets or sets number of tokens in the prompt. |
-| [TotalTokens](./totaltokens/) { get; set; } | Gets or sets total number of tokens used in the request (prompt + completion). |
+| [CompletionTokens](../../aspose.pdf.ai/usage/completiontokens/) { get; set; } | Gets or sets number of tokens in the generated completion. |
+| [PromptTokens](../../aspose.pdf.ai/usage/prompttokens/) { get; set; } | Gets or sets number of tokens in the prompt. |
+| [TotalTokens](../../aspose.pdf.ai/usage/totaltokens/) { get; set; } | Gets or sets total number of tokens used in the request (prompt + completion). |
 
 ### See Also
 

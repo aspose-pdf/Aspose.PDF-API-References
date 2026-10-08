@@ -7,7 +7,7 @@ description: "Stamp property. Gets or sets a BlendingColorSpace value that defin
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/stamp/blendingspace/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.BlendingSpace property
 
@@ -20,7 +20,7 @@ public BlendingColorSpace BlendingSpace { get; set; }
 
 ### See Also
 
-* enum [BlendingColorSpace](../../../aspose.pdf.facades/blendingcolorspace/)
+* enum [BlendingColorSpace](../../blendingcolorspace/)
 * class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

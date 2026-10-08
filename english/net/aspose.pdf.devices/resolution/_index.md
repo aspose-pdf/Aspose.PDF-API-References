@@ -8,7 +8,7 @@ type: docs
 weight: 160
 url: "/net/aspose.pdf.devices/resolution/"
 keywords: "Resolution, Aspose.Pdf.Devices, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Resolution class
 
@@ -22,15 +22,15 @@ public sealed class Resolution
 
 | Name | Description |
 | --- | --- |
-| [Resolution](./resolution/#constructor)(int) | Initializes a new instance of the [`Resolution`](../../aspose.pdf.devices/resolution/) class. |
-| [Resolution](./resolution/#constructor_1)(int, int) | Initializes a new instance of the [`Resolution`](../../aspose.pdf.devices/resolution/) class. |
+| [Resolution](resolution/#constructor)(int) | Initializes a new instance of the `Resolution` class. |
+| [Resolution](resolution/#constructor_1)(int, int) | Initializes a new instance of the `Resolution` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [X](./x/) { get; set; } | Gets or sets horizontal image resolution. |
-| [Y](./y/) { get; set; } | Gets or sets vertical image resolution. |
+| [X](../../aspose.pdf.devices/resolution/x/) { get; set; } | Gets or sets horizontal image resolution. |
+| [Y](../../aspose.pdf.devices/resolution/y/) { get; set; } | Gets or sets vertical image resolution. |
 
 ### See Also
 

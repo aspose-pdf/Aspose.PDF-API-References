@@ -7,7 +7,7 @@ description: "BarcodeField property. Gets an integer value representing the erro
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/barcodefield/ecc/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BarcodeField.ECC property
 

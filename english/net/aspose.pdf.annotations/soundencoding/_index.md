@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.SoundEncoding enum. The encoding format for
 type: docs
 weight: 1180
 url: "/net/aspose.pdf.annotations/soundencoding/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SoundEncoding enumeration
 

@@ -7,7 +7,7 @@ description: "OutlineItemCollection property. Gets outline item from the collect
 type: docs
 weight: 300
 url: "/net/aspose.pdf/outlineitemcollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection indexer
 
@@ -27,7 +27,7 @@ OutlineItemCollection object.
 
 ### See Also
 
-* class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

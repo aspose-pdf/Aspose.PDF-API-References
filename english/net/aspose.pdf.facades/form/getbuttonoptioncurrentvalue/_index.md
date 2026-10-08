@@ -7,7 +7,7 @@ description: "Form method. Returns the current value for radio button option fie
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/form/getbuttonoptioncurrentvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.GetButtonOptionCurrentValue method
 

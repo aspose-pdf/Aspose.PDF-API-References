@@ -7,7 +7,7 @@ description: "CosPdfName method. Determines that the specified object is equal t
 type: docs
 weight: 50
 url: "/net/aspose.pdf.dataeditor/cospdfname/equals/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfName.Equals method
 

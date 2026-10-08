@@ -7,7 +7,7 @@ description: "Form method. Exports the contents of all fields in the document in
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/form/exportjson/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.ExportJson method
 

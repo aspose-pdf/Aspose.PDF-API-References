@@ -7,7 +7,7 @@ description: "Color property. Gets color space that the color represents."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/color/colorspace/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Color.ColorSpace property
 
@@ -19,7 +19,7 @@ public ColorSpace ColorSpace { get; }
 
 ### See Also
 
-* enum [ColorSpace](../../../aspose.pdf/colorspace/)
+* enum [ColorSpace](../../colorspace/)
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

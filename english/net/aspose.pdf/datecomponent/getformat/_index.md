@@ -7,7 +7,7 @@ description: "DateComponent method. Returns a string composed of a specified cha
 type: docs
 weight: 20
 url: "/net/aspose.pdf/datecomponent/getformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DateComponent.GetFormat method
 

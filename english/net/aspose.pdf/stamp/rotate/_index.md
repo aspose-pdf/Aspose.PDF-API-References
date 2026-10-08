@@ -7,11 +7,11 @@ description: "Stamp property. Sets or gets the rotation of stamp content accordi
 type: docs
 weight: 80
 url: "/net/aspose.pdf/stamp/rotate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.Rotate property
 
-Sets or gets the rotation of stamp content according [`Rotation`](../../../aspose.pdf/rotation/) values.
+Sets or gets the rotation of stamp content according [`Rotation`](../../rotation/) values.
  Note. This property is for set angles which are multiples of 90 degrees (0, 90, 180, 270 degrees).
  To set arbitrary angle use RotateAngle property. 
  If angle set by ArbitraryAngle is not multiple of 90 then Rotate property returns Rotation.None.
@@ -22,7 +22,7 @@ public Rotation Rotate { get; set; }
 
 ### See Also
 
-* enum [Rotation](../../../aspose.pdf/rotation/)
+* enum [Rotation](../../rotation/)
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

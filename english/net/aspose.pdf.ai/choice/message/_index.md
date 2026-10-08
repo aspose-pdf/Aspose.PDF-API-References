@@ -7,7 +7,7 @@ description: "Choice property. Gets or sets a chat completion message generated 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/choice/message/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Choice.Message property
 
@@ -19,7 +19,7 @@ public ChatMessageResponse Message { get; set; }
 
 ### See Also
 
-* class [ChatMessageResponse](../../../aspose.pdf.ai/chatmessageresponse/)
+* class [ChatMessageResponse](../../chatmessageresponse/)
 * class [Choice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

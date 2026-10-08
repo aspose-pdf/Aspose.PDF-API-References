@@ -8,7 +8,7 @@ type: docs
 weight: 1870
 url: "/net/aspose.pdf/metered/"
 keywords: "Metered, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metered class
 
@@ -58,17 +58,17 @@ Console.WriteLine("Quantity: was={0} now={1} difference={2}", wasQuantity, nowQu
 
 | Name | Description |
 | --- | --- |
-| [Metered](./metered/)() | The default constructor. |
+| [Metered](metered/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [GetConsumptionCredit](./getconsumptioncredit/)() | Gets consumption credit. |
-| static [GetConsumptionQuantity](./getconsumptionquantity/)() | Gets consumption file size. |
-| [GetProductName](./getproductname/)() | Get the Product Name. |
-| static [IsMeteredLicensed](./ismeteredlicensed/)() | Check whether metered is licensed. |
-| [SetMeteredKey](./setmeteredkey/)(string, string) | Sets metered public and private key. If you purchase metered license, when start application, this API should be called, normally, this is enough. However, if always fail to upload consumption data and exceed 24 hours, the license will be set to evaluation status, to avoid such case, you should regularly check the license status, if it is evaluation status, call this API again. |
+| static [GetConsumptionCredit](../../aspose.pdf/metered/getconsumptioncredit/)() | Gets consumption credit. |
+| static [GetConsumptionQuantity](../../aspose.pdf/metered/getconsumptionquantity/)() | Gets consumption file size. |
+| [GetProductName](../../aspose.pdf/metered/getproductname/)() | Get the Product Name. |
+| static [IsMeteredLicensed](../../aspose.pdf/metered/ismeteredlicensed/)() | Check whether metered is licensed. |
+| [SetMeteredKey](../../aspose.pdf/metered/setmeteredkey/)(string, string) | Sets metered public and private key. If you purchase metered license, when start application, this API should be called, normally, this is enough. However, if always fail to upload consumption data and exceed 24 hours, the license will be set to evaluation status, to avoid such case, you should regularly check the license status, if it is evaluation status, call this API again. |
 
 ### See Also
 

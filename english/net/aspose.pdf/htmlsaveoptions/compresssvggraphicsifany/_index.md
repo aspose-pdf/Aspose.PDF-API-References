@@ -7,7 +7,7 @@ description: "HtmlSaveOptions property. Gets or sets the flag that indicates whe
 type: docs
 weight: 70
 url: "/net/aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.CompressSvgGraphicsIfAny property
 
@@ -21,7 +21,7 @@ public bool CompressSvgGraphicsIfAny { get; set; }
 
 ### Property Value
 
-The [`HtmlDocumentType`](../../../aspose.pdf/htmldocumenttype/).
+The [`HtmlDocumentType`](../../htmldocumenttype/).
 
 ### See Also
 

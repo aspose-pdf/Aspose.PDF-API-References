@@ -8,7 +8,7 @@ type: docs
 weight: 3250
 url: "/net/aspose.pdf/xmppdfaextensionfield/"
 keywords: "XmpPdfAExtensionField, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionField class
 
@@ -25,22 +25,22 @@ public class XmpPdfAExtensionField : XmpPdfAExtensionObject
 
 | Name | Description |
 | --- | --- |
-| [XmpPdfAExtensionField](./xmppdfaextensionfield/)(string, string, string, string) | Initializes object. |
+| [XmpPdfAExtensionField](xmppdfaextensionfield/)(string, string, string, string) | Initializes object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Gets the description. |
-| [Name](./name/) { get; } | Field name. Field names must be valid XML element names. |
+| [Name](../../aspose.pdf/xmppdfaextensionfield/name/) { get; } | Field name. Field names must be valid XML element names. |
 | [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Gets or sets the value. |
-| [ValueType](./valuetype/) { get; } | Field value type, drawn from XMP Specification 2004, or an embedded PDF/A value type extension schema. Predefined XMP type names or names of custom types. |
+| [ValueType](../../aspose.pdf/xmppdfaextensionfield/valuetype/) { get; } | Field value type, drawn from XMP Specification 2004, or an embedded PDF/A value type extension schema. Predefined XMP type names or names of custom types. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetXml](./getxml/)(XmlDocument) | Returns the list of xml elements that represent field in xml tree. |
+| override [GetXml](../../aspose.pdf/xmppdfaextensionfield/getxml/)(XmlDocument) | Returns the list of xml elements that represent field in xml tree. |
 
 ### See Also
 

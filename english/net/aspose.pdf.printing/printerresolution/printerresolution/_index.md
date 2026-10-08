@@ -7,11 +7,11 @@ description: "PrinterResolution constructor. Initializes a new instance of the P
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/printerresolution/printerresolution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterResolution constructor
 
-Initializes a new instance of the [`PrinterResolution`](../../../aspose.pdf.printing/printerresolution/) class with default properties.
+Initializes a new instance of the [`PrinterResolution`](../) class with default properties.
 
 ```csharp
 public PrinterResolution()

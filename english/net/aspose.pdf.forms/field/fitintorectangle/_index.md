@@ -7,7 +7,7 @@ description: "Field property. If true then font size will reduced to fit text to
 type: docs
 weight: 250
 url: "/net/aspose.pdf.forms/field/fitintorectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Field.FitIntoRectangle property
 

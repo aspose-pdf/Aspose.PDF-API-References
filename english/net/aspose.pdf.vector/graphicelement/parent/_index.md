@@ -7,19 +7,19 @@ description: "GraphicElement property. Gets the current XFormPlacement in which 
 type: docs
 weight: 100
 url: "/net/aspose.pdf.vector/graphicelement/parent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicElement.Parent property
 
-Gets the current [`XFormPlacement`](../../../aspose.pdf.vector/xformplacement/) in which the element is located.
+Gets the current [`XFormPlacement`](../../xformplacement/) in which the element is located.
 
 ```csharp
-public XFormPlacement Parent { get; set; }
+public XFormPlacement Parent { get; }
 ```
 
 ### See Also
 
-* class [XFormPlacement](../../../aspose.pdf.vector/xformplacement/)
+* class [XFormPlacement](../../xformplacement/)
 * class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

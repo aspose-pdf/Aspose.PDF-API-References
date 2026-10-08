@@ -7,7 +7,7 @@ description: "PdfViewer property. Gets page count of the current Pdf file."
 type: docs
 weight: 370
 url: "/net/aspose.pdf.facades/pdfviewer/pagecount/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.PageCount property
 

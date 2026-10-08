@@ -7,13 +7,11 @@ description: "TableAbsorber method. Replaces an AbsorbedTable with Table on the 
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/tableabsorber/replace/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableAbsorber.Replace method
 
-Replaces an [`AbsorbedTable`](../../../aspose.pdf.text/absorbedtable/) with [`Table`](../../../aspose.pdf/table/) on the page.
-
-Please take into account it changes TableList collection. In case removing/replacing tables in loop please use copy of TableList collection.
+Replaces an [`AbsorbedTable`](../../absorbedtable/) with [`Table`](../../../aspose.pdf/table/) on the page.
 
 ```csharp
 public void Replace(Page page, AbsorbedTable oldTable, Table newTable)
@@ -22,13 +20,17 @@ public void Replace(Page page, AbsorbedTable oldTable, Table newTable)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | Page | Pdf pocument page object. |
-| oldTable | AbsorbedTable | <see cref="T:Aspose.Pdf.Text.AbsorbedTable" /> to be replaced. |
-| newTable | Table | <see cref="T:Aspose.Pdf.Table" /> to replace old table. |
+| oldTable | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable/) to be replaced. |
+| newTable | Table | [`Table`](../../../aspose.pdf/table/) to replace old table. |
+
+## Remarks
+
+Please take into account it changes TableList collection. In case removing/replacing tables in loop please use copy of TableList collection.
 
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [AbsorbedTable](../../../aspose.pdf.text/absorbedtable/)
+* class [AbsorbedTable](../../absorbedtable/)
 * class [Table](../../../aspose.pdf/table/)
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)

@@ -7,7 +7,7 @@ description: "TextState method. Measures character height."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.text/textstate/measureheight/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextState.MeasureHeight method
 

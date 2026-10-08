@@ -7,7 +7,7 @@ description: "TiffSettings property. Get or sets a value boundary of the transfo
 type: docs
 weight: 150
 url: "/net/aspose.pdf.devices/tiffsettings/brightness/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TiffSettings.Brightness property
 

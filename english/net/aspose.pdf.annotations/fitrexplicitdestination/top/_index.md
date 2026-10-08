@@ -7,7 +7,7 @@ description: "FitRExplicitDestination property. Gets top vertical coordinate of 
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/fitrexplicitdestination/top/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FitRExplicitDestination.Top property
 

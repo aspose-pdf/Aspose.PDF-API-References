@@ -7,7 +7,7 @@ description: "Page property. Gets or sets table of contents info."
 type: docs
 weight: 370
 url: "/net/aspose.pdf/page/tocinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.TocInfo property
 
@@ -23,7 +23,7 @@ The table of contents info - default null. If it set this page will contain tabl
 
 ### See Also
 
-* class [TocInfo](../../../aspose.pdf/tocinfo/)
+* class [TocInfo](../../tocinfo/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

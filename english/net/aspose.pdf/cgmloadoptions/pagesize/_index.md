@@ -7,7 +7,7 @@ description: "CgmLoadOptions property. Gets or sets output page size for import.
 type: docs
 weight: 30
 url: "/net/aspose.pdf/cgmloadoptions/pagesize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CgmLoadOptions.PageSize property
 

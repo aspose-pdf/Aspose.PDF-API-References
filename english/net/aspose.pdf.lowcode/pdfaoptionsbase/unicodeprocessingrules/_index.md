@@ -7,7 +7,7 @@ description: "PdfAOptionsBase property. Gets or sets the rules for processing To
 type: docs
 weight: 150
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/unicodeprocessingrules/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAOptionsBase.UnicodeProcessingRules property
 

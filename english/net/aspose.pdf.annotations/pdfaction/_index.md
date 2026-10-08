@@ -8,7 +8,7 @@ type: docs
 weight: 890
 url: "/net/aspose.pdf.annotations/pdfaction/"
 keywords: "PdfAction, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAction class
 
@@ -22,17 +22,18 @@ public abstract class PdfAction : IAppointment
 
 | Name | Description |
 | --- | --- |
-| [Next](./next/) { get; } | Next actions in sequence. |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetECMAScriptString](./getecmascriptstring/)() | Gets string for ECMAScript Action. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
 | [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Returns string representation |
 
 ### See Also
 
+* interface [IAppointment](../iappointment/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
 

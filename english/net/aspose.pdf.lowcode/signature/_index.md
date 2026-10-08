@@ -8,11 +8,11 @@ type: docs
 weight: 850
 url: "/net/aspose.pdf.lowcode/signature/"
 keywords: "Signature, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Signature class
 
-Represents [`Signature`](../../aspose.pdf.lowcode/signature/) plugin.
+Represents [`Signature`](../signature/) plugin.
 
 ```csharp
 public sealed class Signature : IPlugin
@@ -39,16 +39,17 @@ plugin.Process(opt);
 
 | Name | Description |
 | --- | --- |
-| [Signature](./signature/)() | The default constructor. |
+| [Signature](signature/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(IPluginOptions) | Starts the [`Signature`](../../aspose.pdf.lowcode/signature/) processing with the specified parameters. |
+| [Process](../../aspose.pdf.lowcode/signature/process/)(IPluginOptions) | Starts the `Signature` processing with the specified parameters. |
 
 ### See Also
 
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

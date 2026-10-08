@@ -7,7 +7,7 @@ description: "BorderInfo property. Gets or sets a object that indicates left of 
 type: docs
 weight: 80
 url: "/net/aspose.pdf/borderinfo/left/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BorderInfo.Left property
 
@@ -19,7 +19,7 @@ public GraphInfo Left { get; set; }
 
 ### See Also
 
-* class [GraphInfo](../../../aspose.pdf/graphinfo/)
+* class [GraphInfo](../../graphinfo/)
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

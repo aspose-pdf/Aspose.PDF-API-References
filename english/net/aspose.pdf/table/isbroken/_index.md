@@ -7,7 +7,7 @@ description: "Table property. Gets or sets the table is broken - will be truncat
 type: docs
 weight: 280
 url: "/net/aspose.pdf/table/isbroken/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.IsBroken property
 

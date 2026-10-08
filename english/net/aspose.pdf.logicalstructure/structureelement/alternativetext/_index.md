@@ -7,7 +7,7 @@ description: "StructureElement property. Gets or sets the alternative text for s
 type: docs
 weight: 200
 url: "/net/aspose.pdf.logicalstructure/structureelement/alternativetext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureElement.AlternativeText property
 

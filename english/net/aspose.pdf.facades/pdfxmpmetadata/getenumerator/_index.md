@@ -7,7 +7,7 @@ description: "PdfXmpMetadata method. Gets enumerator object of the dictionary."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata.GetEnumerator method
 
@@ -23,6 +23,7 @@ The enumerator object.
 
 ### See Also
 
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

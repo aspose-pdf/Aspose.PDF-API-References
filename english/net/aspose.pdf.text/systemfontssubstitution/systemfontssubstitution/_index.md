@@ -7,11 +7,11 @@ description: "SystemFontsSubstitution constructor. Initializes a new instance of
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/systemfontssubstitution/systemfontssubstitution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SystemFontsSubstitution constructor
 
-Initializes a new instance of [`SystemFontsSubstitution`](../../../aspose.pdf.text/systemfontssubstitution/) class.
+Initializes a new instance of [`SystemFontsSubstitution`](../) class.
 
 ```csharp
 public SystemFontsSubstitution(SubstitutionFontCategories fontCategories)
@@ -23,7 +23,7 @@ public SystemFontsSubstitution(SubstitutionFontCategories fontCategories)
 
 ### See Also
 
-* enum [SubstitutionFontCategories](../../../aspose.pdf.text/substitutionfontcategories/)
+* enum [SubstitutionFontCategories](../../substitutionfontcategories/)
 * class [SystemFontsSubstitution](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

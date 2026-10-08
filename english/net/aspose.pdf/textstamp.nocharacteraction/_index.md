@@ -7,7 +7,7 @@ description: "Aspose.Pdf.TextStamp.NoCharacterAction enum. Action to perform if 
 type: docs
 weight: 3000
 url: "/net/aspose.pdf/textstamp.nocharacteraction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStamp.NoCharacterAction enumeration
 

@@ -7,7 +7,7 @@ description: "ScreenAnnotation constructor. Creates new Screen annotation on the
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/screenannotation/screenannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ScreenAnnotation constructor
 
@@ -26,7 +26,7 @@ public ScreenAnnotation(Page page, Rectangle rect, string mediaFile)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ScreenAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

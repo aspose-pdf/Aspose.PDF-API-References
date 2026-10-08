@@ -7,7 +7,7 @@ description: "Outlines method. Returns an enumerator that iterates through the c
 type: docs
 weight: 50
 url: "/net/aspose.pdf/outlines/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Outlines.GetEnumerator method
 
@@ -23,6 +23,7 @@ An System.Collections.IEnumerator object that can be used to iterate through the
 
 ### See Also
 
+* class [OutlineItemCollection](../../outlineitemcollection/)
 * class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

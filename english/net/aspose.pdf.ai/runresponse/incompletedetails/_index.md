@@ -7,7 +7,7 @@ description: "RunResponse property. Gets or sets the details on why the run is i
 type: docs
 weight: 150
 url: "/net/aspose.pdf.ai/runresponse/incompletedetails/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunResponse.IncompleteDetails property
 
@@ -19,7 +19,7 @@ public IncompleteDetails IncompleteDetails { get; set; }
 
 ### See Also
 
-* class [IncompleteDetails](../../../aspose.pdf.ai/incompletedetails/)
+* class [IncompleteDetails](../../incompletedetails/)
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

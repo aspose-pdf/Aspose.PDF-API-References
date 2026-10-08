@@ -7,13 +7,13 @@ description: "OptimizationOptions property. If set to , all uncompressed page co
 type: docs
 weight: 40
 url: "/net/aspose.pdf.optimization/optimizationoptions/compressallcontentstreams/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizationOptions.CompressAllContentStreams property
 
-If set to , all uncompressed page content streams will be
- compressed using the FlateDecode filter during `OptimizeResources`.
- Default is  to preserve backward compatibility.
+If set to `true`, all uncompressed page content streams will be
+ compressed using the FlateDecode filter during [`OptimizeResources`](../../../aspose.pdf/document/optimizeresources/).
+ Default is `false` to preserve backward compatibility.
 
 ```csharp
 public bool CompressAllContentStreams { get; set; }

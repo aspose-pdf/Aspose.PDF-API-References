@@ -7,7 +7,7 @@ description: "PdfExtractor property. Sets the mode for extract text's result."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.facades/pdfextractor/extracttextmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractor.ExtractTextMode property
 

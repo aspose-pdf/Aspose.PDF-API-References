@@ -8,7 +8,7 @@ type: docs
 weight: 2970
 url: "/net/aspose.pdf/texmemoryoutputdirectory/"
 keywords: "TeXMemoryOutputDirectory, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXMemoryOutputDirectory class
 
@@ -24,18 +24,19 @@ public class TeXMemoryOutputDirectory : ITeXOutputDirectory
 
 | Name | Description |
 | --- | --- |
-| [TeXMemoryOutputDirectory](./texmemoryoutputdirectory/)() | The default constructor. |
+| [TeXMemoryOutputDirectory](texmemoryoutputdirectory/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Dispose](./dispose/)() | Disposes the instance. |
-| [GetFile](./getfile/)(string, out string, bool) | Returns the stream to read from. |
-| [GetOutputFile](./getoutputfile/)(string, out string) | Returns the stream to write to. |
+| virtual [Dispose](../../aspose.pdf/texmemoryoutputdirectory/dispose/)() | Disposes the instance. |
+| [GetFile](../../aspose.pdf/texmemoryoutputdirectory/getfile/)(string, out string, bool) | Returns the stream to read from. |
+| [GetOutputFile](../../aspose.pdf/texmemoryoutputdirectory/getoutputfile/)(string, out string) | Returns the stream to write to. |
 
 ### See Also
 
+* interface [ITeXOutputDirectory](../itexoutputdirectory/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
 

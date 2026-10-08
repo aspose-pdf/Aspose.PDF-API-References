@@ -7,7 +7,7 @@ description: "Aspose.Pdf.AI.IOcrClient interface. Represents an interface for a 
 type: docs
 weight: 560
 url: "/net/aspose.pdf.ai/iocrclient-1/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOcrClient&lt;TOptions&gt; interface
 
@@ -17,20 +17,19 @@ Represents an interface for a OCR client with specific options.
 public interface IOcrClient<in TOptions> : IAIClient
 ```
 
-## Type Parameters
-
-| Name | Description |
+| Parameter | Description |
 | --- | --- |
-| TOptions |  |
+| TOptions | The type of options for the OCR client. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetOcrCopilot](./getocrcopilot/)(IOcrCopilotOptions<TOptions>) | Gets an instance of [`IOcrCopilot`](../../aspose.pdf.ai/iocrcopilot/) with the specified options. |
+| [GetOcrCopilot](../../aspose.pdf.ai/iocrclient-1/getocrcopilot/)(IOcrCopilotOptions&lt;TOptions&gt;) | Gets an instance of [`IOcrCopilot`](../iocrcopilot/) with the specified options. |
 
 ### See Also
 
+* interface [IAIClient](../iaiclient/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
 

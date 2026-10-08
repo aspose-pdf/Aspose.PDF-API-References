@@ -7,7 +7,7 @@ description: "PageSize property. Gets or sets page width."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagesize/width/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageSize.Width property
 

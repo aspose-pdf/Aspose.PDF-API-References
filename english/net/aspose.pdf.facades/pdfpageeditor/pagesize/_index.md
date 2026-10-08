@@ -7,7 +7,7 @@ description: "PdfPageEditor property. Gets or sets the output file's page size."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/pdfpageeditor/pagesize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.PageSize property
 

@@ -7,7 +7,7 @@ description: "AttributeKey field. Headers attribute (Table attribute owner)."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.logicalstructure/attributekey/headers/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.Headers field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey Headers;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

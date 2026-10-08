@@ -7,7 +7,7 @@ description: "PdfActionCollection property. Gets count of actions."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/pdfactioncollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfActionCollection.Count property
 

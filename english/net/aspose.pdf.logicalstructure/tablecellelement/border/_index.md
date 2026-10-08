@@ -7,7 +7,7 @@ description: "TableCellElement property. Gets or sets the cell border."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/tablecellelement/border/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableCellElement.Border property
 

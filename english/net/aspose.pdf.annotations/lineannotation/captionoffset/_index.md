@@ -7,7 +7,7 @@ description: "LineAnnotation property. Gets or sets caption text offset from its
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/lineannotation/captionoffset/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineAnnotation.CaptionOffset property
 

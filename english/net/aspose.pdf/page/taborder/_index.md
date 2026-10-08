@@ -7,7 +7,7 @@ description: "Page property. Gets or sets tab order of the page. Possible values
 type: docs
 weight: 460
 url: "/net/aspose.pdf/page/taborder/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.TabOrder property
 
@@ -20,7 +20,7 @@ public TabOrder TabOrder { get; set; }
 
 ### See Also
 
-* enum [TabOrder](../../../aspose.pdf/taborder/)
+* enum [TabOrder](../../taborder/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

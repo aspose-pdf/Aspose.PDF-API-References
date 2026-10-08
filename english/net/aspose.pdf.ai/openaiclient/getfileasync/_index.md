@@ -7,7 +7,7 @@ description: "OpenAIClient method. Retrieves details of a specific file asynchro
 type: docs
 weight: 260
 url: "/net/aspose.pdf.ai/openaiclient/getfileasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIClient.GetFileAsync method
 
@@ -31,10 +31,11 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the file Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the file Id is null or empty. |
 
 ### See Also
 
+* class [FileResponse](../../fileresponse/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

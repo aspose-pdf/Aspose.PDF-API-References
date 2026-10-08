@@ -7,7 +7,7 @@ description: "Metered method. Get the Product Name."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/metered/getproductname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metered.GetProductName method
 

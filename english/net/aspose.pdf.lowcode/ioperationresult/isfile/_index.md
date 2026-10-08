@@ -7,7 +7,7 @@ description: "IOperationResult property. Indicates whether the result is a path 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/ioperationresult/isfile/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOperationResult.IsFile property
 

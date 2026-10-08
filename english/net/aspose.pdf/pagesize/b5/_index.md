@@ -7,7 +7,7 @@ description: "PageSize property. B5 size (250x176 mm)."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/pagesize/b5/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageSize.B5 property
 
@@ -19,7 +19,7 @@ public static PageSize B5 { get; }
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

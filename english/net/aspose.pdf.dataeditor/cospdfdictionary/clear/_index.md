@@ -7,11 +7,11 @@ description: "CosPdfDictionary method. Removes all items from the CosPdfDictiona
 type: docs
 weight: 90
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfDictionary.Clear method
 
-Removes all items from the [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/).
+Removes all items from the [`CosPdfDictionary`](../).
 
 ```csharp
 public void Clear()

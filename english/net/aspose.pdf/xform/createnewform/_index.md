@@ -7,7 +7,7 @@ description: "XForm method. Creates XForm which duplicates contents of the page.
 type: docs
 weight: 30
 url: "/net/aspose.pdf/xform/createnewform/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XForm.CreateNewForm method
 
@@ -28,9 +28,9 @@ Newly created XForm.
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
-* class [Page](../../../aspose.pdf/page/)
-* class [Document](../../../aspose.pdf/document/)
+* class [XForm](../)
+* class [Page](../../page/)
+* class [Document](../../document/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

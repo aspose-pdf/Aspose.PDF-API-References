@@ -7,7 +7,7 @@ description: "OptionCollection property. Gets number of options."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.forms/optioncollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptionCollection.Count property
 

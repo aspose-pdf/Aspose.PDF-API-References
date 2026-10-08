@@ -7,7 +7,7 @@ description: "BorderPartStyle field. Represents border line's type - f.e. Dashed
 type: docs
 weight: 40
 url: "/net/aspose.pdf/saveoptions.borderpartstyle/linetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.BorderPartStyle.LineType field
 
@@ -19,7 +19,8 @@ public HtmlBorderLineType LineType;
 
 ### See Also
 
-* class [SaveOptions.BorderPartStyle](../)
+* enum [HtmlBorderLineType](../../saveoptions.htmlborderlinetype/)
+* class [BorderPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,11 +7,11 @@ description: "TextFragmentState property. Gets or sets character spacing of the 
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/textfragmentstate/characterspacing/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentState.CharacterSpacing property
 
-Gets or sets character spacing of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object.
+Gets or sets character spacing of the text, represented by the [`TextFragment`](../../textfragment/) object.
 
 ```csharp
 public override float CharacterSpacing { get; set; }

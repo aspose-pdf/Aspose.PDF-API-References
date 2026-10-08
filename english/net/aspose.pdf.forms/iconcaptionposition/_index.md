@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Forms.IconCaptionPosition enum. Describes position of i
 type: docs
 weight: 180
 url: "/net/aspose.pdf.forms/iconcaptionposition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IconCaptionPosition enumeration
 

@@ -8,7 +8,7 @@ type: docs
 weight: 1360
 url: "/net/aspose.pdf/hyperlink/"
 keywords: "Hyperlink, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Hyperlink class
 

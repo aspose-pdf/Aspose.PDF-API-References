@@ -7,7 +7,7 @@ description: "StructureTypeCategory field. Inline-level structure elements (ILSE
 type: docs
 weight: 50
 url: "/net/aspose.pdf.logicalstructure/structuretypecategory/ilses/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeCategory.ILSEs field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeCategory ILSEs;
 
 ### See Also
 
-* class [StructureTypeCategory](../../../aspose.pdf.logicalstructure/structuretypecategory/)
+* class [StructureTypeCategory](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "TruncationStrategy property. Gets or sets the truncation strategy 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/truncationstrategy/strategytype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TruncationStrategy.StrategyType property
 

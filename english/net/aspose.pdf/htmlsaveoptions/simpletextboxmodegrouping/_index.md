@@ -7,7 +7,7 @@ description: "HtmlSaveOptions property. This attribute specifies a sequential gr
 type: docs
 weight: 230
 url: "/net/aspose.pdf/htmlsaveoptions/simpletextboxmodegrouping/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.SimpleTextboxModeGrouping property
 

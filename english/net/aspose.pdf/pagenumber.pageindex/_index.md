@@ -8,7 +8,7 @@ type: docs
 weight: 2240
 url: "/net/aspose.pdf/pagenumber.pageindex/"
 keywords: "PageNumber.PageIndex, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageNumber.PageIndex class
 
@@ -22,7 +22,7 @@ public sealed class PageIndex
 
 | Name | Description |
 | --- | --- |
-| [PageIndex](./pageindex/)() | The default constructor. |
+| [PageIndex](pageindex/)() | The default constructor. |
 
 ### See Also
 

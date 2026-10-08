@@ -7,7 +7,7 @@ description: "MarkupSection property. Section rectangle"
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/markupsection/rectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupSection.Rectangle property
 
@@ -19,7 +19,7 @@ public Rectangle Rectangle { get; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [MarkupSection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

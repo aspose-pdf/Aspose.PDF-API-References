@@ -7,7 +7,7 @@ description: "TableTRElement property. Gets default cell border."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.logicalstructure/tabletrelement/defaultcellborder/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableTRElement.DefaultCellBorder property
 

@@ -8,11 +8,11 @@ type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/decryptionoptions/"
 keywords: "DecryptionOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DecryptionOptions class
 
-Represents Decryption Options for [`Security`](../../aspose.pdf.lowcode/security/) plugin.
+Represents Decryption Options for [`Security`](../security/) plugin.
 
 ```csharp
 public class DecryptionOptions : OrganizerBaseOptions
@@ -22,7 +22,7 @@ public class DecryptionOptions : OrganizerBaseOptions
 
 | Name | Description |
 | --- | --- |
-| [DecryptionOptions](./decryptionoptions/)(string) | Initializes new instance of the [`DecryptionOptions`](../../aspose.pdf.lowcode/decryptionoptions/) object with default options. |
+| [DecryptionOptions](decryptionoptions/)(string) | Initializes new instance of the `DecryptionOptions` object with default options. |
 
 ## Properties
 
@@ -32,7 +32,7 @@ public class DecryptionOptions : OrganizerBaseOptions
 | [CloseOutputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
 | [Inputs](../../aspose.pdf.lowcode/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. |
 | [Outputs](../../aspose.pdf.lowcode/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
-| [OwnerPassword](./ownerpassword/) { get; set; } | Owner password. |
+| [OwnerPassword](../../aspose.pdf.lowcode/decryptionoptions/ownerpassword/) { get; set; } | Owner password. |
 
 ## Methods
 

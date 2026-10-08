@@ -7,7 +7,7 @@ description: "AnnotationCollection method. Checks if specified annotation belong
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/annotationcollection/contains/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AnnotationCollection.Contains method
 
@@ -27,7 +27,7 @@ True - if annotation found; otherwise, false.
 
 ### See Also
 
-* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [Annotation](../../annotation/)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

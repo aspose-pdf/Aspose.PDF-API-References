@@ -7,7 +7,7 @@ description: "StructureAttribute property. Gets status of structure attribute va
 type: docs
 weight: 160
 url: "/net/aspose.pdf.logicalstructure/structureattribute/isinitializedvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureAttribute.IsInitializedValue property
 

@@ -7,12 +7,12 @@ description: "ComparisonOptions property. Get and set the option that determines
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/comparisonoptions/excludetables/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ComparisonOptions.ExcludeTables property
 
 Get and set the option that determines whether tables are excluded from comparison.
- This option cannot be set together with `ExtractionArea` option.
+ This option cannot be set together with [`ExtractionArea`](../extractionarea/) option.
  The default value is `false`.
 
 ```csharp

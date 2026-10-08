@@ -7,7 +7,7 @@ description: "PDF3DLightingScheme field. The \"Headlamp\" lighting scheme."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/headlamp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DLightingScheme.Headlamp field
 
@@ -19,7 +19,7 @@ public static PDF3DLightingScheme Headlamp;
 
 ### See Also
 
-* class [PDF3DLightingScheme](../../../aspose.pdf.annotations/pdf3dlightingscheme/)
+* class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

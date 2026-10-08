@@ -7,7 +7,7 @@ description: "SetColorStroke constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setcolorstroke/setcolorstroke/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColorStroke() {#constructor}
 
@@ -45,27 +45,7 @@ public SetColorStroke(double g)
 
 ---
 
-## SetColorStroke(double[]) {#constructor_2}
-
-Constructor which allows to set color components.
-
-```csharp
-public SetColorStroke(double[] color)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| color | Double[] | Array of color components. |
-
-### See Also
-
-* class [SetColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SetColorStroke(double, double, double) {#constructor_3}
+## SetColorStroke(double, double, double) {#constructor_2}
 
 Set color for stroking operator for DeviceRGB, CalRGB, and Lab color spaces
 
@@ -78,6 +58,26 @@ public SetColorStroke(double r, double g, double b)
 | r | Double | Red component. |
 | g | Double | Green component. |
 | b | Double | Blue component. |
+
+### See Also
+
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SetColorStroke(double[]) {#constructor_3}
+
+Constructor which allows to set color components.
+
+```csharp
+public SetColorStroke(double[] color)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| color | Double[] | Array of color components. |
 
 ### See Also
 

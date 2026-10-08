@@ -7,7 +7,7 @@ description: "NumberFormat property. If FractionDisplayment is ShowAsDecimal, th
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/measure.numberformat/precision/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.NumberFormat.Precision property
 
@@ -19,7 +19,7 @@ public int Precision { get; set; }
 
 ### See Also
 
-* class [Measure.NumberFormat](../)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

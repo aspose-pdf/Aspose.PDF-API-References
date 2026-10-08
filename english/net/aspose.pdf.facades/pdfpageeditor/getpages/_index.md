@@ -7,7 +7,7 @@ description: "PdfPageEditor method. Returns total number of pages."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/pdfpageeditor/getpages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.GetPages method
 

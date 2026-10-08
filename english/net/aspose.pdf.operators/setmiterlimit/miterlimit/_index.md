@@ -7,7 +7,7 @@ description: "SetMiterLimit property. Gets or sets the miter limit."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setmiterlimit/miterlimit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetMiterLimit.MiterLimit property
 

@@ -7,11 +7,11 @@ description: "TableCellElement property. Gets StructureTextState object for curr
 type: docs
 weight: 130
 url: "/net/aspose.pdf.logicalstructure/tablecellelement/structuretextstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableCellElement.StructureTextState property
 
-Gets [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) object for current element.
+Gets [`StructureTextState`](../../structuretextstate/) object for current element.
 
 ```csharp
 public StructureTextState StructureTextState { get; }
@@ -19,11 +19,11 @@ public StructureTextState StructureTextState { get; }
 
 ### Property Value
 
-[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) object for current element.
+[`StructureTextState`](../../structuretextstate/) object for current element.
 
 ### See Also
 
-* class [StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/)
+* class [StructureTextState](../../structuretextstate/)
 * class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

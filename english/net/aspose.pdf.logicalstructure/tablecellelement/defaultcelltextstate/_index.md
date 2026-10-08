@@ -7,7 +7,7 @@ description: "TableCellElement property. Gets or sets the default cell text stat
 type: docs
 weight: 80
 url: "/net/aspose.pdf.logicalstructure/tablecellelement/defaultcelltextstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableCellElement.DefaultCellTextState property
 

@@ -7,7 +7,7 @@ description: "PdfXmpMetadata property. Returns true if collection is read-only."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata.IsReadOnly property
 

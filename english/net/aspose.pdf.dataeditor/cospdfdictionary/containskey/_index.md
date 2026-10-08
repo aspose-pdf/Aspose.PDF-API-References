@@ -7,11 +7,11 @@ description: "CosPdfDictionary method. Determines whether the CosPdfDictionary c
 type: docs
 weight: 40
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/containskey/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfDictionary.ContainsKey method
 
-Determines whether the [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/) contains an element with the specified key.
+Determines whether the [`CosPdfDictionary`](../) contains an element with the specified key.
 
 ```csharp
 public bool ContainsKey(string key)
@@ -19,11 +19,11 @@ public bool ContainsKey(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | The key to locate in the <see cref="T:Aspose.Pdf.DataEditor.CosPdfDictionary" />. |
+| key | String | The key to locate in the `CosPdfDictionary`. |
 
 ### Return Value
 
-true if the [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/) contains an editable element with the key; otherwise, false.
+true if the [`CosPdfDictionary`](../) contains an editable element with the key; otherwise, false.
 
 ### See Also
 

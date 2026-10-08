@@ -7,7 +7,7 @@ description: "Aspose.Pdf.SvgSaveOptions.SvgExternalImageType enum. enumerates po
 type: docs
 weight: 2870
 url: "/net/aspose.pdf/svgsaveoptions.svgexternalimagetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SvgSaveOptions.SvgExternalImageType enumeration
 

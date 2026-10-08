@@ -7,7 +7,7 @@ description: "WatermarkAnnotation method. Set text of the annotation."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/watermarkannotation/settext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WatermarkAnnotation.SetText method
 

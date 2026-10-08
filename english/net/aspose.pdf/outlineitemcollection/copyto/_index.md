@@ -7,7 +7,7 @@ description: "OutlineItemCollection method. Copies the outline entries to an Sys
 type: docs
 weight: 40
 url: "/net/aspose.pdf/outlineitemcollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public override void CopyTo(OutlineItemCollection[] array, int index)
 
 ### See Also
 
-* class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

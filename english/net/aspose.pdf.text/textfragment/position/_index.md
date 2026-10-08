@@ -7,11 +7,11 @@ description: "TextFragment property. Gets or sets text position for text, repres
 type: docs
 weight: 150
 url: "/net/aspose.pdf.text/textfragment/position/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragment.Position property
 
-Gets or sets text position for text, represented with [`TextFragment`](../../../aspose.pdf.text/textfragment/) object.
+Gets or sets text position for text, represented with [`TextFragment`](../) object.
 
 ```csharp
 public Position Position { get; set; }
@@ -44,7 +44,7 @@ Console.Out.WriteLine(string.Format("fragment Y indent: {0}", firstOccurrence.Po
 * [TextFragmentAbsorber](../textfragmentabsorber/)
 * [Document](../document/)
 * [TextSegment](../textsegment/)
-* class [Position](../../../aspose.pdf.text/position/)
+* class [Position](../../position/)
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

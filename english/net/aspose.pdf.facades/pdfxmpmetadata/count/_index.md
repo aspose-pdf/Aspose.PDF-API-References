@@ -7,7 +7,7 @@ description: "PdfXmpMetadata property. Gets count if items in the collection."
 type: docs
 weight: 300
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata.Count property
 

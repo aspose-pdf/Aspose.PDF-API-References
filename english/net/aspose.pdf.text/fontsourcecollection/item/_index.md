@@ -7,7 +7,7 @@ description: "FontSourceCollection property. Gets the font element at the specif
 type: docs
 weight: 110
 url: "/net/aspose.pdf.text/fontsourcecollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontSourceCollection indexer
 
@@ -27,7 +27,7 @@ Font source object.
 
 ### See Also
 
-* class [FontSource](../../../aspose.pdf.text/fontsource/)
+* class [FontSource](../../fontsource/)
 * class [FontSourceCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

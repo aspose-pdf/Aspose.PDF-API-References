@@ -7,7 +7,7 @@ description: "Aspose.Pdf.ConvertTransparencyAction enum. This class represents a
 type: docs
 weight: 480
 url: "/net/aspose.pdf/converttransparencyaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ConvertTransparencyAction enumeration
 

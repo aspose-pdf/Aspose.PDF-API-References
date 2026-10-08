@@ -7,7 +7,7 @@ description: "Stamp property. Vertical stamp coordinate, starting from the botto
 type: docs
 weight: 100
 url: "/net/aspose.pdf/stamp/yindent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.YIndent property
 

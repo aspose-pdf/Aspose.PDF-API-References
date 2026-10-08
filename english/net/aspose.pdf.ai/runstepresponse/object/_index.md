@@ -7,7 +7,7 @@ description: "RunStepResponse property. Gets or sets the object type, which is a
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/runstepresponse/object/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunStepResponse.Object property
 

@@ -7,11 +7,11 @@ description: "FontCollection property. Gets the number of Font object elements a
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/fontcollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontCollection.Count property
 
-Gets the number of [`Font`](../../../aspose.pdf.text/font/) object elements actually contained in the collection.
+Gets the number of [`Font`](../../font/) object elements actually contained in the collection.
 
 ```csharp
 public int Count { get; }

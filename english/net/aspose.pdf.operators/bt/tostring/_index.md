@@ -7,7 +7,7 @@ description: "BT method. Produces text code of operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/bt/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BT.ToString method
 

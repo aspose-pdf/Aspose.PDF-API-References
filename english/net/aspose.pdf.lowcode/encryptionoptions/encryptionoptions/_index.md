@@ -7,11 +7,11 @@ description: "EncryptionOptions constructor. Initializes new instance of the Enc
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/encryptionoptions/encryptionoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EncryptionOptions constructor
 
-Initializes new instance of the [`EncryptionOptions`](../../../aspose.pdf.lowcode/encryptionoptions/) object with default options.
+Initializes new instance of the [`EncryptionOptions`](../) object with default options.
 
 ```csharp
 public EncryptionOptions(string ownerPassword, string userPassword, 

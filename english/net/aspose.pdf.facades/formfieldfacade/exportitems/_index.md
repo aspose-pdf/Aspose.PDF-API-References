@@ -7,7 +7,7 @@ description: "FormFieldFacade property. The options for adding a list/combo/radi
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/formfieldfacade/exportitems/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.ExportItems property
 

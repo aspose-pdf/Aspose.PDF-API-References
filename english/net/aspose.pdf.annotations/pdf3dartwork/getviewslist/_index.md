@@ -7,7 +7,7 @@ description: "PDF3DArtwork method. Get the views as list."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/pdf3dartwork/getviewslist/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DArtwork.GetViewsList method
 
@@ -23,6 +23,7 @@ ReadOnlyCollection&lt;PDF3DView&gt;.
 
 ### See Also
 
+* class [PDF3DView](../../pdf3dview/)
 * class [PDF3DArtwork](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -7,11 +7,11 @@ description: "CustomPrintEventArgs constructor. Initializes CustomPrintEventArgs
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/customprinteventargs/customprinteventargs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CustomPrintEventArgs constructor
 
-Initializes [`CustomPrintEventArgs`](../../../aspose.pdf.printing/customprinteventargs/) with the given printer and page settings.
+Initializes [`CustomPrintEventArgs`](../) with the given printer and page settings.
 
 ```csharp
 public CustomPrintEventArgs(string fileName, PrinterSettings printerSettings, 
@@ -26,8 +26,8 @@ public CustomPrintEventArgs(string fileName, PrinterSettings printerSettings,
 
 ### See Also
 
-* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
-* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PrinterSettings](../../printersettings/)
+* class [PageSettings](../../pagesettings/)
 * class [CustomPrintEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

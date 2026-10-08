@@ -7,7 +7,7 @@ description: "Aspose.Pdf.FieldValueType enum. Represents the type of a field val
 type: docs
 weight: 860
 url: "/net/aspose.pdf/fieldvaluetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FieldValueType enumeration
 

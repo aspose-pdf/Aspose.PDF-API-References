@@ -7,7 +7,7 @@ description: "XFormCollection method. Returns name of the form in this form coll
 type: docs
 weight: 70
 url: "/net/aspose.pdf/xformcollection/getformname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFormCollection.GetFormName method
 
@@ -27,7 +27,7 @@ Form name in the collection; Null if form is not contained in the collection.
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
+* class [XForm](../../xform/)
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

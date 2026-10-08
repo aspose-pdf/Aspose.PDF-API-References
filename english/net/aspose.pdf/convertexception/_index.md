@@ -8,7 +8,7 @@ type: docs
 weight: 460
 url: "/net/aspose.pdf/convertexception/"
 keywords: "ConvertException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ConvertException class
 
@@ -22,14 +22,8 @@ public sealed class ConvertException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [ConvertException](./convertexception/#constructor)(string) | Initializes a new instance of the [`ConvertException`](../../aspose.pdf/convertexception/) class. |
-| [ConvertException](./convertexception/#constructor_1)(string, Exception) | Initializes a new instance of the [`ConvertException`](../../aspose.pdf/convertexception/) class. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
+| [ConvertException](convertexception/#constructor)(string) | Initializes a new instance of the `ConvertException` class. |
+| [ConvertException](convertexception/#constructor_1)(string, Exception) | Initializes a new instance of the `ConvertException` class. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "FormFieldFacade property. An array of string, each representing an
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/formfieldfacade/items/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.Items property
 

@@ -7,37 +7,11 @@ description: "CosPdfDictionary method. Removes the element with the specified ke
 type: docs
 weight: 50
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Remove(KeyValuePair<string, ICosPdfPrimitive>) {#remove}
+## Remove(string) {#remove}
 
-Removes the first occurrence of a specific object from the [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/).
-
-```csharp
-public bool Remove(KeyValuePair<string, ICosPdfPrimitive> item)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | KeyValuePair`2 | The object to remove from the <see cref="T:Aspose.Pdf.DataEditor.CosPdfDictionary" />. |
-
-### Return Value
-
-true if item was successfully removed from the [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/);
- otherwise, false. This method also returns false if item is not found in the
- original [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/).
-
-### See Also
-
-* class [CosPdfDictionary](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Remove(string) {#remove_1}
-
-Removes the element with the specified key from the [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/).
+Removes the element with the specified key from the [`CosPdfDictionary`](../).
 
 ```csharp
 public bool Remove(string key)
@@ -54,6 +28,33 @@ True if the element is successfully removed; otherwise, false.
 
 ### See Also
 
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Remove(KeyValuePair&lt;string, ICosPdfPrimitive&gt;) {#remove_1}
+
+Removes the first occurrence of a specific object from the [`CosPdfDictionary`](../).
+
+```csharp
+public bool Remove(KeyValuePair<string, ICosPdfPrimitive> item)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| item | KeyValuePair`2 | The object to remove from the `CosPdfDictionary`. |
+
+### Return Value
+
+true if item was successfully removed from the [`CosPdfDictionary`](../);
+ otherwise, false. This method also returns false if item is not found in the
+ original [`CosPdfDictionary`](../).
+
+### See Also
+
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)

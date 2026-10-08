@@ -8,7 +8,7 @@ type: docs
 weight: 320
 url: "/net/aspose.pdf.text/simplefontsubstitution/"
 keywords: "SimpleFontSubstitution, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SimpleFontSubstitution class
 
@@ -22,14 +22,14 @@ public sealed class SimpleFontSubstitution : FontSubstitution
 
 | Name | Description |
 | --- | --- |
-| [SimpleFontSubstitution](./simplefontsubstitution/)(string, string, bool) | Initializes a new instance of [`SimpleFontSubstitution`](../../aspose.pdf.text/simplefontsubstitution/) class. |
+| [SimpleFontSubstitution](simplefontsubstitution/)(string, string, bool) | Initializes a new instance of `SimpleFontSubstitution` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [OriginalFontName](./originalfontname/) { get; } | Gets original font name that should be substituted with `SubstitutionFontName` |
-| [SubstitutionFontName](./substitutionfontname/) { get; } | Gets font name that should substitute the `OriginalFontName` |
+| [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname/) { get; } | Gets original font name that should be substituted with [`SubstitutionFontName`](./substitutionfontname/) |
+| [SubstitutionFontName](../../aspose.pdf.text/simplefontsubstitution/substitutionfontname/) { get; } | Gets font name that should substitute the [`OriginalFontName`](./originalfontname/) |
 
 ### See Also
 

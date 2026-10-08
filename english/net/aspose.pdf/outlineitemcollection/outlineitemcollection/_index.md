@@ -7,7 +7,7 @@ description: "OutlineItemCollection constructor. Initializes outline item instan
 type: docs
 weight: 10
 url: "/net/aspose.pdf/outlineitemcollection/outlineitemcollection/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection constructor
 
@@ -23,7 +23,7 @@ public OutlineItemCollection(OutlineCollection outlines)
 
 ### See Also
 
-* class [OutlineCollection](../../../aspose.pdf/outlinecollection/)
+* class [OutlineCollection](../../outlinecollection/)
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

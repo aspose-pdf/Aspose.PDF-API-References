@@ -7,7 +7,7 @@ description: "Note property. Gets or sets a note text."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/note/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Note.Text property
 

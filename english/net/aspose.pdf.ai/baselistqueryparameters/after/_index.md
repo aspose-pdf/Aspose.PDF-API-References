@@ -7,7 +7,7 @@ description: "BaseListQueryParameters property. Gets or sets a cursor for use in
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/baselistqueryparameters/after/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseListQueryParameters.After property
 

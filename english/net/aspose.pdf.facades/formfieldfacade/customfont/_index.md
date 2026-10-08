@@ -7,7 +7,7 @@ description: "FormFieldFacade property. Gets or sets name of the font when this 
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/formfieldfacade/customfont/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.CustomFont property
 

@@ -8,7 +8,7 @@ type: docs
 weight: 2740
 url: "/net/aspose.pdf/saveoptions.borderpartstyle/"
 keywords: "SaveOptions.BorderPartStyle, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.BorderPartStyle class
 
@@ -22,20 +22,20 @@ public class BorderPartStyle
 
 | Name | Description |
 | --- | --- |
-| [BorderPartStyle](./borderpartstyle/)() | The default constructor. |
+| [BorderPartStyle](borderpartstyle/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [WidthInPoints](./widthinpoints/) { get; set; } | Represents border line's width in points. Must be number greater then zero. |
+| [WidthInPoints](../../aspose.pdf/saveoptions.borderpartstyle/widthinpoints/) { get; set; } | Represents border line's width in points. Must be number greater then zero. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [Color](./color/) | Represents border line's line color |
-| [LineType](./linetype/) | Represents border line's type - f.e. Dashed or Solid |
+| [Color](../../aspose.pdf/saveoptions.borderpartstyle/color/) | Represents border line's line color |
+| [LineType](../../aspose.pdf/saveoptions.borderpartstyle/linetype/) | Represents border line's type - f.e. Dashed or Solid |
 
 ### See Also
 

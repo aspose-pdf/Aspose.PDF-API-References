@@ -7,7 +7,7 @@ description: "TimestampOptions property. Visibility flag – false for a pure ti
 type: docs
 weight: 110
 url: "/net/aspose.pdf.lowcode/timestampoptions/visible/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TimestampOptions.Visible property
 

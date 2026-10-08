@@ -7,11 +7,11 @@ description: "BleedMarkAnnotation constructor. Initializes a new instance of the
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/bleedmarkannotation/bleedmarkannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BleedMarkAnnotation constructor
 
-Initializes a new instance of the [`BleedMarkAnnotation`](../../../aspose.pdf.annotations/bleedmarkannotation/) class.
+Initializes a new instance of the [`BleedMarkAnnotation`](../) class.
 
 This constructor creates a BleedMarkAnnotation and adds it to the specified page at the specified position.
 
@@ -27,7 +27,7 @@ public BleedMarkAnnotation(Page page, PrinterMarkCornerPosition position)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* enum [PrinterMarkCornerPosition](../../../aspose.pdf.annotations/printermarkcornerposition/)
+* enum [PrinterMarkCornerPosition](../../printermarkcornerposition/)
 * class [BleedMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.DefaultState enum. Represents the default state of a PD
 type: docs
 weight: 520
 url: "/net/aspose.pdf/defaultstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DefaultState enumeration
 

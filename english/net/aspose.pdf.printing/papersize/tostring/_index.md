@@ -7,7 +7,7 @@ description: "PaperSize method. Provides some interesting information about the 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/papersize/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSize.ToString method
 

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.PdfFormat enum. This class represents an pdf format."
 type: docs
 weight: 2400
 url: "/net/aspose.pdf/pdfformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormat enumeration
 

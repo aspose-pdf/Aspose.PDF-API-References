@@ -7,7 +7,7 @@ description: "Page property. Gets or sets UserUnit value. A positive number givi
 type: docs
 weight: 650
 url: "/net/aspose.pdf/page/userunit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.UserUnit property
 

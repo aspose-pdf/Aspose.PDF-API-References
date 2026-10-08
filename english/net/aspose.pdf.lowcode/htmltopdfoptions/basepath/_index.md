@@ -7,7 +7,7 @@ description: "HtmlToPdfOptions property. The base path/url for the html file."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/htmltopdfoptions/basepath/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlToPdfOptions.BasePath property
 

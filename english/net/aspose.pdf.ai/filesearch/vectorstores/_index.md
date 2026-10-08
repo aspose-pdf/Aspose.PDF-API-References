@@ -7,7 +7,7 @@ description: "FileSearch property. Gets or sets the helper to create a vector st
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/filesearch/vectorstores/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSearch.VectorStores property
 
@@ -20,6 +20,7 @@ public List<VectorStore> VectorStores { get; set; }
 
 ### See Also
 
+* class [VectorStore](../../vectorstore/)
 * class [FileSearch](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

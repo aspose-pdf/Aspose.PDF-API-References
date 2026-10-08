@@ -7,7 +7,7 @@ description: "TextPlaceOperator constructor. Initializes TextPlaceOperator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/textplaceoperator/textplaceoperator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextPlaceOperator() {#constructor}
 
@@ -25,7 +25,7 @@ public TextPlaceOperator()
 
 ---
 
-## TextPlaceOperator([TextProperties](../../../aspose.pdf.facades/textproperties/)) {#constructor_1}
+## TextPlaceOperator(TextProperties) {#constructor_1}
 
 Initializes TextPlaceOperator which accepts TextProperties.
 

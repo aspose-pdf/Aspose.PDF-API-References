@@ -7,12 +7,12 @@ description: "Page property. Gets collection of page annotations. Annotations"
 type: docs
 weight: 500
 url: "/net/aspose.pdf/page/annotations/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Annotations property
 
 Gets collection of page annotations.
- `Annotations`
+ [`Annotations`](../annotations/)
 
 ```csharp
 public AnnotationCollection Annotations { get; }

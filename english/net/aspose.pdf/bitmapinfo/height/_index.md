@@ -7,7 +7,7 @@ description: "BitmapInfo property. Gets the height of the bitmap."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/bitmapinfo/height/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BitmapInfo.Height property
 

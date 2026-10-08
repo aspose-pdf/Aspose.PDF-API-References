@@ -7,34 +7,11 @@ description: "SignatureField constructor. Initializes new instance of the Signat
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/signaturefield/signaturefield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## SignatureField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
+## SignatureField(Page, Rectangle) {#constructor}
 
-Initializes new instance of the [`SignatureField`](../../../aspose.pdf.forms/signaturefield/) class.
-
-```csharp
-public SignatureField(Document doc, Rectangle rect)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Page where signature field should be placed. |
-| rect | Rectangle | Position and size of signature field. |
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [SignatureField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SignatureField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
-
-Initializes new instance of the [`SignatureField`](../../../aspose.pdf.forms/signaturefield/) class.
+Initializes new instance of the [`SignatureField`](../) class.
 
 ```csharp
 public SignatureField(Page page, Rectangle rect)
@@ -48,7 +25,30 @@ public SignatureField(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SignatureField(Document, Rectangle) {#constructor_1}
+
+Initializes new instance of the [`SignatureField`](../) class.
+
+```csharp
+public SignatureField(Document doc, Rectangle rect)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | Page where signature field should be placed. |
+| rect | Rectangle | Position and size of signature field. |
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

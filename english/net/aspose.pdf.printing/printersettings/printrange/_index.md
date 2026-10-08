@@ -7,7 +7,7 @@ description: "PrinterSettings property. Gets or sets the pages the user has aske
 type: docs
 weight: 110
 url: "/net/aspose.pdf.printing/printersettings/printrange/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterSettings.PrintRange property
 
@@ -19,7 +19,7 @@ public PrintRange PrintRange { get; set; }
 
 ### See Also
 
-* enum [PrintRange](../../../aspose.pdf.printing/printrange/)
+* enum [PrintRange](../../printrange/)
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

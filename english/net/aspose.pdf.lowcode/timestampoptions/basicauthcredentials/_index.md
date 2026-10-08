@@ -7,7 +7,7 @@ description: "TimestampOptions property. Gets or sets the basic authentication c
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/timestampoptions/basicauthcredentials/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TimestampOptions.BasicAuthCredentials property
 

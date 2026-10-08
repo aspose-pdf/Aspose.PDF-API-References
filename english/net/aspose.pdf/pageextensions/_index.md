@@ -8,7 +8,7 @@ type: docs
 weight: 2170
 url: "/net/aspose.pdf/pageextensions/"
 keywords: "PageExtensions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageExtensions class
 
@@ -22,7 +22,7 @@ public static class PageExtensions
 
 | Name | Description |
 | --- | --- |
-| static [DuplicateIntersectingGraphics](./duplicateintersectinggraphics/)(this Page, Rectangle, double, double) | Finds all vector graphic elements that intersect with the specified region and creates their copies with offset from original positions. |
+| static [DuplicateIntersectingGraphics](../../aspose.pdf/pageextensions/duplicateintersectinggraphics/)(this Page, Rectangle, double, double) | Finds all vector graphic elements that intersect with the specified region and creates their copies with offset from original positions. |
 
 ### See Also
 

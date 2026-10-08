@@ -7,9 +7,9 @@ description: "PdfFileEditor method. Adds page breaks into document pages."
 type: docs
 weight: 990
 url: "/net/aspose.pdf.facades/pdffileeditor/addpagebreak/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## AddPageBreak([Document](../../../aspose.pdf/document/), [Document](../../../aspose.pdf/document/), PageBreak[]) {#addpagebreak}
+## AddPageBreak(Document, Document, PageBreak[]) {#addpagebreak}
 
 Adds page breaks into document pages.
 
@@ -26,35 +26,14 @@ public void AddPageBreak(Document src, Document dest, PageBreak[] pageBreaks)
 ### See Also
 
 * class [Document](../../../aspose.pdf/document/)
+* class [PageBreak](../../pdffileeditor.pagebreak/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddPageBreak(Stream, Stream, PageBreak[]) {#addpagebreak_1}
-
-Adds page breaks into document pages.
-
-```csharp
-public void AddPageBreak(Stream src, Stream dest, PageBreak[] pageBreaks)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| src | Stream | Source which contains source document. |
-| dest | Stream | Source where destination document will be saved. |
-| pageBreaks | PageBreak[] | Array of PageBreak object describing pages and places where page break will be added. |
-
-### See Also
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## AddPageBreak(string, string, PageBreak[]) {#addpagebreak_2}
+## AddPageBreak(string, string, PageBreak[]) {#addpagebreak_1}
 
 Adds page breaks into document pages.
 
@@ -70,6 +49,30 @@ public void AddPageBreak(string src, string dest, PageBreak[] pageBreaks)
 
 ### See Also
 
+* class [PageBreak](../../pdffileeditor.pagebreak/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## AddPageBreak(Stream, Stream, PageBreak[]) {#addpagebreak_2}
+
+Adds page breaks into document pages.
+
+```csharp
+public void AddPageBreak(Stream src, Stream dest, PageBreak[] pageBreaks)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| src | Stream | Source which contains source document. |
+| dest | Stream | Source where destination document will be saved. |
+| pageBreaks | PageBreak[] | Array of PageBreak object describing pages and places where page break will be added. |
+
+### See Also
+
+* class [PageBreak](../../pdffileeditor.pagebreak/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

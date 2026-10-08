@@ -7,11 +7,11 @@ description: "TableBuilder method. Converts builder TableBuilder to options Tabl
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/tablebuilder/op_implicit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableBuilder Implicit operator
 
-Converts builder [`TableBuilder`](../../../aspose.pdf.lowcode/tablebuilder/) to options [`TableOptions`](../../../aspose.pdf.lowcode/tableoptions/)
+Converts builder [`TableBuilder`](../) to options [`TableOptions`](../../tableoptions/)
 
 ```csharp
 public static implicit operator TableOptions(TableBuilder builder)
@@ -19,7 +19,7 @@ public static implicit operator TableOptions(TableBuilder builder)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| builder | TableBuilder | Instance of current <see cref="T:Aspose.Pdf.LowCode.TableBuilder" />. |
+| builder | TableBuilder | Instance of current `TableBuilder`. |
 
 ### Return Value
 
@@ -27,8 +27,8 @@ Result of conversion to PdfGeneratorTableOptions.
 
 ### See Also
 
-* class [TableOptions](../../../aspose.pdf.lowcode/tableoptions/)
-* class [TableBuilder](../../../aspose.pdf.lowcode/tablebuilder/)
+* class [TableOptions](../../tableoptions/)
+* class [TableBuilder](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,11 +7,11 @@ description: "ThumbnailDevice constructor. Initializes a new instance of the Thu
 type: docs
 weight: 10
 url: "/net/aspose.pdf.devices/thumbnaildevice/thumbnaildevice/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThumbnailDevice() {#constructor}
 
-Initializes a new instance of the [`ThumbnailDevice`](../../../aspose.pdf.devices/thumbnaildevice/) class
+Initializes a new instance of the [`ThumbnailDevice`](../) class
  with default size of thumbnail image (200x200 pixels).
 
 ```csharp
@@ -28,7 +28,7 @@ public ThumbnailDevice()
 
 ## ThumbnailDevice(int, int) {#constructor_1}
 
-Initializes a new instance of the [`ThumbnailDevice`](../../../aspose.pdf.devices/thumbnaildevice/) class.
+Initializes a new instance of the [`ThumbnailDevice`](../) class.
 
 ```csharp
 public ThumbnailDevice(int width, int height)

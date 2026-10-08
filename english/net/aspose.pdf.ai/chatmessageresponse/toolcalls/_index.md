@@ -7,7 +7,7 @@ description: "ChatMessageResponse property. Gets or sets the tool calls generate
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/chatmessageresponse/toolcalls/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChatMessageResponse.ToolCalls property
 
@@ -19,6 +19,7 @@ public List<ToolCall> ToolCalls { get; set; }
 
 ### See Also
 
+* class [ToolCall](../../toolcall/)
 * class [ChatMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

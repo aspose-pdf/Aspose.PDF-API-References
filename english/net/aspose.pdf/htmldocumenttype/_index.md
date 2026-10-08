@@ -7,7 +7,7 @@ description: "Aspose.Pdf.HtmlDocumentType enum. Represents enumeration of the Ht
 type: docs
 weight: 1130
 url: "/net/aspose.pdf/htmldocumenttype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlDocumentType enumeration
 

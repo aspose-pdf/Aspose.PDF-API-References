@@ -7,7 +7,7 @@ description: "GoToURIAction property. Gets or sets the uniform resource identifi
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/gotouriaction/uri/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GoToURIAction.URI property
 

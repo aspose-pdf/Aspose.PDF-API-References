@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Facades.ReplaceTextStrategy.Scope enum. Scope where rep
 type: docs
 weight: 570
 url: "/net/aspose.pdf.facades/replacetextstrategy.scope/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ReplaceTextStrategy.Scope enumeration
 

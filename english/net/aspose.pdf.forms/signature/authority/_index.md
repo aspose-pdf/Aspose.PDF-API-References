@@ -7,7 +7,7 @@ description: "Signature property. The name of the person or authority signing th
 type: docs
 weight: 120
 url: "/net/aspose.pdf.forms/signature/authority/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Signature.Authority property
 

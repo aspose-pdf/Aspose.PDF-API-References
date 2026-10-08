@@ -7,7 +7,7 @@ description: "Document property. Many operations with font can't be executed if 
 type: docs
 weight: 1210
 url: "/net/aspose.pdf/document/disablefontlicenseverifications/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.DisableFontLicenseVerifications property
 

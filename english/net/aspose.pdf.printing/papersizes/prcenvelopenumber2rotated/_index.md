@@ -7,7 +7,7 @@ description: "PaperSizes field. #2 rotated envelope (176 mm by 102 mm)."
 type: docs
 weight: 1080
 url: "/net/aspose.pdf.printing/papersizes/prcenvelopenumber2rotated/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.PrcEnvelopeNumber2Rotated field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize PrcEnvelopeNumber2Rotated;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "JpegDevice method. Converts the page into jpeg and saves it in the
 type: docs
 weight: 110
 url: "/net/aspose.pdf.devices/jpegdevice/process/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## JpegDevice.Process method
 

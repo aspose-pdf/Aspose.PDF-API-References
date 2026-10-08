@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.PrinterMarkCornerPosition enum. Represents 
 type: docs
 weight: 980
 url: "/net/aspose.pdf.annotations/printermarkcornerposition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterMarkCornerPosition enumeration
 

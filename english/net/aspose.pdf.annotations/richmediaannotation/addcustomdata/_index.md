@@ -7,7 +7,7 @@ description: "RichMediaAnnotation method. Add custom named data (for example req
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/richmediaannotation/addcustomdata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RichMediaAnnotation.AddCustomData method
 

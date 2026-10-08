@@ -7,7 +7,7 @@ description: "Aspose.Pdf.IPipelineOptions interface. Defines conversion options 
 type: docs
 weight: 1430
 url: "/net/aspose.pdf/ipipelineoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IPipelineOptions interface
 
@@ -21,7 +21,7 @@ public interface IPipelineOptions
 
 | Name | Description |
 | --- | --- |
-| [BatchSize](./batchsize/) { get; set; } | Specifies the size of a portion of pages to pass from node to node. |
+| [BatchSize](../../aspose.pdf/ipipelineoptions/batchsize/) { get; set; } | Specifies the size of a portion of pages to pass from node to node. |
 
 ### See Also
 

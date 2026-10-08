@@ -7,7 +7,7 @@ description: "FormEditor method. Starts the FormEditor processing with the speci
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/formeditor/process/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.Process method
 
@@ -33,8 +33,8 @@ An ResultContainer object containing the result of the operation.
 
 ### See Also
 
-* class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
-* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

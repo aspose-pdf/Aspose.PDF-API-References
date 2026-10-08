@@ -7,11 +7,11 @@ description: "Arc constructor. Initializes a new instance of the Arc class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.drawing/arc/arc/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Arc constructor
 
-Initializes a new instance of the [`Arc`](../../../aspose.pdf.drawing/arc/) class.
+Initializes a new instance of the [`Arc`](../) class.
 
 ```csharp
 public Arc(float posX, float posY, float radius, float alpha, float beta)

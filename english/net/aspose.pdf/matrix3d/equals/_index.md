@@ -7,7 +7,7 @@ description: "Matrix3D method. Compares matrix against other object."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/matrix3d/equals/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix3D.Equals method
 

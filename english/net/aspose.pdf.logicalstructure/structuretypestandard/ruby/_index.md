@@ -7,12 +7,13 @@ description: "StructureTypeStandard field. (Ruby; PDF 1.5) A side-note (annotati
 type: docs
 weight: 440
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/ruby/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.Ruby field
 
 (Ruby; PDF 1.5) A side-note (annotation) written in a smaller text size and placed adjacent to the base text to which it refers. A Ruby element may also contain the RB, RT, and RP elements.
  
+
 (Ruby) The wrapper around the entire ruby assembly. It shall contain one RB element followed by either an RT element or a three-element group consisting of RP, RT, and RP. Ruby elements and their content elements shall not break across multiple lines.
 
 ```csharp
@@ -21,7 +22,7 @@ public static readonly StructureTypeStandard Ruby;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

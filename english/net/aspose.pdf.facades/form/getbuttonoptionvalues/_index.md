@@ -7,7 +7,7 @@ description: "Form method. Gets the radio button option fields and related value
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/form/getbuttonoptionvalues/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.GetButtonOptionValues method
 

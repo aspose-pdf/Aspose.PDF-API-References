@@ -7,7 +7,7 @@ description: "ThreadMessageCreateRequest property. Gets or sets the role of the 
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/role/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadMessageCreateRequest.Role property
 

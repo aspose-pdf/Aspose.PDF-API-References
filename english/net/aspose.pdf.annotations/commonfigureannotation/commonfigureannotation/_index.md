@@ -7,7 +7,7 @@ description: "CommonFigureAnnotation constructor. Constructor for using in Gener
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/commonfigureannotation/commonfigureannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CommonFigureAnnotation constructor
 

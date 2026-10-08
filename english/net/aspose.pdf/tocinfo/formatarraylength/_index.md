@@ -7,7 +7,7 @@ description: "TocInfo property. Gets or sets format array length"
 type: docs
 weight: 40
 url: "/net/aspose.pdf/tocinfo/formatarraylength/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TocInfo.FormatArrayLength property
 

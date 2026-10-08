@@ -7,7 +7,7 @@ description: "PdfViewer event. Adds/removes subscription on the last page printi
 type: docs
 weight: 510
 url: "/net/aspose.pdf.facades/pdfviewer/pdfquerypagesettings/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.PdfQueryPageSettings event
 
@@ -19,7 +19,7 @@ public event PdfQueryPageSettingsEventHandler PdfQueryPageSettings;
 
 ### See Also
 
-* delegate [PdfQueryPageSettingsEventHandler](../../../aspose.pdf.facades/pdfquerypagesettingseventhandler/)
+* delegate [PdfQueryPageSettingsEventHandler](../../pdfquerypagesettingseventhandler/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

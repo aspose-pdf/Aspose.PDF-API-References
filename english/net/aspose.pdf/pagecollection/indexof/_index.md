@@ -7,14 +7,11 @@ description: "PageCollection method. Returns index of the specified page."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pagecollection/indexof/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollection.IndexOf method
 
 Returns index of the specified page.
-
-Pages numbers start from 1.
- Returns 0 in case collection doesn't contain the page.
 
 ```csharp
 public int IndexOf(Page entity)
@@ -28,9 +25,14 @@ public int IndexOf(Page entity)
 
 Index of the page in collection.
 
+## Remarks
+
+Pages numbers start from 1.
+ Returns 0 in case collection doesn't contain the page.
+
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

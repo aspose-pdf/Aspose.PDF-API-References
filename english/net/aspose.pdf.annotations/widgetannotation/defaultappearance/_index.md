@@ -7,7 +7,7 @@ description: "WidgetAnnotation property. Gets or sets default appearance of the 
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/widgetannotation/defaultappearance/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WidgetAnnotation.DefaultAppearance property
 
@@ -19,7 +19,7 @@ public DefaultAppearance DefaultAppearance { get; set; }
 
 ### See Also
 
-* class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
+* class [DefaultAppearance](../../defaultappearance/)
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

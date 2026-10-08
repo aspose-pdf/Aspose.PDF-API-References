@@ -7,7 +7,7 @@ description: "GraphicalPdfComparer method. Compares documents graphically. The c
 type: docs
 weight: 70
 url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstoimages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicalPdfComparer.CompareDocumentsToImages method
 
@@ -30,14 +30,11 @@ public void CompareDocumentsToImages(Document document1, Document document2,
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | If the pages being compared are of different sizes.
- If targetDirectory is null or empty string.
- If fileNamePrefix is null or empty string. |
+| ArgumentException | If the pages being compared are of different sizes. If targetDirectory is null or empty string. If fileNamePrefix is null or empty string. |
 
 ### See Also
 
 * class [Document](../../../aspose.pdf/document/)
-* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

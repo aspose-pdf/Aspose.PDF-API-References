@@ -7,7 +7,7 @@ description: "FormEditor method. Delete item from the list field."
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/formeditor/dellistitem/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.DelListItem method
 

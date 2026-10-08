@@ -7,7 +7,7 @@ description: "XmpField property. Gets a value indicating whether this instance i
 type: docs
 weight: 150
 url: "/net/aspose.pdf/xmpfield/isempty/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpField.IsEmpty property
 

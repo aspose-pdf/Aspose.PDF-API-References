@@ -7,11 +7,11 @@ description: "PdfFileMend property. Sets or gets text positioning strategy. Posi
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/pdffilemend/textpositioningmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileMend.TextPositioningMode property
 
-Sets or gets text positioning strategy. [`PositioningMode`](../../../aspose.pdf.facades/positioningmode/)
+Sets or gets text positioning strategy. [`PositioningMode`](../../positioningmode/)
  Default mode is Legacy.
 
 ```csharp
@@ -20,7 +20,7 @@ public PositioningMode TextPositioningMode { get; set; }
 
 ### See Also
 
-* enum [PositioningMode](../../../aspose.pdf.facades/positioningmode/)
+* enum [PositioningMode](../../positioningmode/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

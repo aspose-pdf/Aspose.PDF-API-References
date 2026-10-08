@@ -7,7 +7,7 @@ description: "Aspose.Pdf.PageLayout enum. Descibes page layout."
 type: docs
 weight: 2210
 url: "/net/aspose.pdf/pagelayout/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageLayout enumeration
 

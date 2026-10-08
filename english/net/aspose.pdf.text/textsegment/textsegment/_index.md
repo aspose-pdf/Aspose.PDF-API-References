@@ -7,7 +7,7 @@ description: "TextSegment constructor. Creates TextSegment object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textsegment/textsegment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSegment() {#constructor}
 

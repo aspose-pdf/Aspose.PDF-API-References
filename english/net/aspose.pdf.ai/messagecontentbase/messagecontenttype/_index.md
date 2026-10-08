@@ -7,7 +7,7 @@ description: "MessageContentBase property. Gets or sets the type of content."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/messagecontentbase/messagecontenttype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MessageContentBase.MessageContentType property
 

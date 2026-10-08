@@ -7,19 +7,19 @@ description: "SignOptions constructor. Initializes new instance of the SignOptio
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/signoptions/signoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## SignOptions(Stream, string) {#constructor}
+## SignOptions(string, string) {#constructor}
 
-Initializes new instance of the [`SignOptions`](../../../aspose.pdf.lowcode/signoptions/) object with default options.
+Initializes new instance of the [`SignOptions`](../) object with default options.
 
 ```csharp
-public SignOptions(Stream pfx, string password)
+public SignOptions(string pfx, string password)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pfx | Stream | The stream with the pfx file. |
+| pfx | String | The path to the pfx file. |
 | password | String | The password to the pfx file. |
 
 ### See Also
@@ -30,17 +30,17 @@ public SignOptions(Stream pfx, string password)
 
 ---
 
-## SignOptions(string, string) {#constructor_1}
+## SignOptions(Stream, string) {#constructor_1}
 
-Initializes new instance of the [`SignOptions`](../../../aspose.pdf.lowcode/signoptions/) object with default options.
+Initializes new instance of the [`SignOptions`](../) object with default options.
 
 ```csharp
-public SignOptions(string pfx, string password)
+public SignOptions(Stream pfx, string password)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pfx | String | The path to the pfx file. |
+| pfx | Stream | The stream with the pfx file. |
 | password | String | The password to the pfx file. |
 
 ### See Also

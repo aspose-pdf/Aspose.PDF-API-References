@@ -7,7 +7,7 @@ description: "Metadata property. Gets count of elements in the collection."
 type: docs
 weight: 240
 url: "/net/aspose.pdf/metadata/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metadata.Count property
 

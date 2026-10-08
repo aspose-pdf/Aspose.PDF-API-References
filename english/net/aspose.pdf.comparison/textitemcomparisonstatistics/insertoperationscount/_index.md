@@ -7,7 +7,7 @@ description: "TextItemComparisonStatistics property. Gets and sets the number of
 type: docs
 weight: 60
 url: "/net/aspose.pdf.comparison/textitemcomparisonstatistics/insertoperationscount/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextItemComparisonStatistics.InsertOperationsCount property
 

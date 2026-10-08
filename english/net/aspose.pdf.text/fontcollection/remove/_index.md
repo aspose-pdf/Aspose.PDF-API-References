@@ -7,7 +7,7 @@ description: "FontCollection method. Deletes specified item from collection."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/fontcollection/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontCollection.Remove method
 
@@ -27,7 +27,7 @@ true if item was deleted from collection; otherwise, false.
 
 ### See Also
 
-* class [Font](../../../aspose.pdf.text/font/)
+* class [Font](../../font/)
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

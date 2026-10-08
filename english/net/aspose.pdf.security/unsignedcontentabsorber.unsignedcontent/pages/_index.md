@@ -7,21 +7,24 @@ description: "UnsignedContent property. Gets a list of pages whose content is un
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/unsignedcontentabsorber.unsignedcontent/pages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnsignedContentAbsorber.UnsignedContent.Pages property
 
 Gets a list of pages whose content is unsigned or has been incrementally changed.
 
-The page is considered modified and XForms are not checked and do not appear in the XForms list.
-
 ```csharp
 public List<Page> Pages { get; }
 ```
 
+## Remarks
+
+The page is considered modified and XForms are not checked and do not appear in the XForms list.
+
 ### See Also
 
-* class [UnsignedContentAbsorber.UnsignedContent](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [UnsignedContent](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
 

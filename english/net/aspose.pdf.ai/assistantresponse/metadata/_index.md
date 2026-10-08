@@ -7,7 +7,7 @@ description: "AssistantResponse property. Gets or sets a set of 16 key-value pai
 type: docs
 weight: 110
 url: "/net/aspose.pdf.ai/assistantresponse/metadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantResponse.Metadata property
 

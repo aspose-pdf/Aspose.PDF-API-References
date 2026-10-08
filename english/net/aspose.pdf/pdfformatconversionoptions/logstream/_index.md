@@ -7,7 +7,7 @@ description: "PdfFormatConversionOptions property. Stream where comments will be
 type: docs
 weight: 110
 url: "/net/aspose.pdf/pdfformatconversionoptions/logstream/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.LogStream property
 

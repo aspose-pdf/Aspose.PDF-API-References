@@ -8,7 +8,7 @@ type: docs
 weight: 1330
 url: "/net/aspose.pdf.ai/truncationstrategy/"
 keywords: "TruncationStrategy, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TruncationStrategy class
 
@@ -22,14 +22,14 @@ public class TruncationStrategy
 
 | Name | Description |
 | --- | --- |
-| [TruncationStrategy](./truncationstrategy/)() | The default constructor. |
+| [TruncationStrategy](truncationstrategy/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [LastMessages](./lastmessages/) { get; set; } | Gets or sets the number of most recent messages from the thread when constructing the context for the run. |
-| [StrategyType](./strategytype/) { get; set; } | Gets or sets the truncation strategy to use for the thread. The default is auto. If set to last_messages, the thread will be truncated to the n most recent messages in the thread. When set to auto, messages in the middle of the thread will be dropped to fit the context length of the model, max_prompt_tokens. |
+| [LastMessages](../../aspose.pdf.ai/truncationstrategy/lastmessages/) { get; set; } | Gets or sets the number of most recent messages from the thread when constructing the context for the run. |
+| [StrategyType](../../aspose.pdf.ai/truncationstrategy/strategytype/) { get; set; } | Gets or sets the truncation strategy to use for the thread. The default is auto. If set to last_messages, the thread will be truncated to the n most recent messages in the thread. When set to auto, messages in the middle of the thread will be dropped to fit the context length of the model, max_prompt_tokens. |
 
 ### See Also
 

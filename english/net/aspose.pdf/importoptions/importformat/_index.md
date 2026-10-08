@@ -7,7 +7,7 @@ description: "ImportOptions property. Import format."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/importoptions/importformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImportOptions.ImportFormat property
 
@@ -19,7 +19,7 @@ public ImportFormat ImportFormat { get; }
 
 ### See Also
 
-* enum [ImportFormat](../../../aspose.pdf/importformat/)
+* enum [ImportFormat](../../importformat/)
 * class [ImportOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

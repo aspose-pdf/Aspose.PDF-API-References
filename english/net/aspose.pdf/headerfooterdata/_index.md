@@ -8,7 +8,7 @@ type: docs
 weight: 1050
 url: "/net/aspose.pdf/headerfooterdata/"
 keywords: "HeaderFooterData, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HeaderFooterData class
 
@@ -22,14 +22,14 @@ public class HeaderFooterData
 
 | Name | Description |
 | --- | --- |
-| [HeaderFooterData](./headerfooterdata/)() | The default constructor. |
+| [HeaderFooterData](headerfooterdata/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [PageDate](./pagedate/) { get; set; } | Gets or sets the date settings. |
-| [PageNumber](./pagenumber/) { get; set; } | Gets or sets the page number settings. |
+| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Gets or sets the date settings. |
+| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Gets or sets the page number settings. |
 
 ### See Also
 

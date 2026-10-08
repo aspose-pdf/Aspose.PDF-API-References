@@ -7,7 +7,7 @@ description: "TextSearchOptions property. Gets or sets indication that errors re
 type: docs
 weight: 100
 url: "/net/aspose.pdf.text/textsearchoptions/ignoreresourcefonterrors/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSearchOptions.IgnoreResourceFontErrors property
 

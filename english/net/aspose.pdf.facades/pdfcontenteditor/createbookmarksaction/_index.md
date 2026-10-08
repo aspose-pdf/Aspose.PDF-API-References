@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Creates a bookmark with the specified act
 type: docs
 weight: 390
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createbookmarksaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreateBookmarksAction method
 
@@ -40,7 +40,6 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

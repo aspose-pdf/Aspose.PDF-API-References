@@ -7,9 +7,34 @@ description: "Matrix method. Scales x and y with the matrix using the following 
 type: docs
 weight: 110
 url: "/net/aspose.pdf/matrix/scale/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Scale(double, double, [Matrix](../../../aspose.pdf/matrix/)) {#scale}
+## Scale(double, double, out double, out double) {#scale}
+
+Scales x and y with the matrix using the following formula:
+ x1 = A*x + C*y;
+ y1 = B*x + D*y;
+
+```csharp
+public void Scale(double x, double y, out double x1, out double y1)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| x | Double | Input X coordinate |
+| y | Double | Input Y coordinate |
+| x1 | Double& | Output X coordinate |
+| y1 | Double& | Output Y coordinate |
+
+### See Also
+
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Scale(double, double, Matrix) {#scale_1}
 
 Applies scaling to the given matrix.
 
@@ -26,31 +51,6 @@ public static Matrix Scale(double sx, double sy, Matrix source)
 ### Return Value
 
 A new matrix that is the result of scaling the source matrix.
-
-### See Also
-
-* class [Matrix](../../../aspose.pdf/matrix/)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Scale(double, double, out double, out double) {#scale_1}
-
-Scales x and y with the matrix using the following formula:
- x1 = A*x + C*y;
- y1 = B*x + D*y;
-
-```csharp
-public void Scale(double x, double y, out double x1, out double y1)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x | Double | Input X coordinate |
-| y | Double | Input Y coordinate |
-| x1 | Double& | Output X coordinate |
-| y1 | Double& | Output Y coordinate |
 
 ### See Also
 

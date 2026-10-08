@@ -7,7 +7,7 @@ description: "UnifiedSaveOptions field. Sometimes PDFs contain background images
 type: docs
 weight: 30
 url: "/net/aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnifiedSaveOptions.TryMergeAdjacentSameBackgroundImages field
 

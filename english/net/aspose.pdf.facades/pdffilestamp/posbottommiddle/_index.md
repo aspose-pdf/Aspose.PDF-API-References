@@ -7,7 +7,7 @@ description: "PdfFileStamp field. Bottom middle position."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.facades/pdffilestamp/posbottommiddle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileStamp.PosBottomMiddle field
 

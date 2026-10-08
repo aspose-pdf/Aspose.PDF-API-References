@@ -7,7 +7,7 @@ description: "SaveOptions property. Gets or sets boolean value which indicates w
 type: docs
 weight: 30
 url: "/net/aspose.pdf/saveoptions/closeresponse/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.CloseResponse property
 

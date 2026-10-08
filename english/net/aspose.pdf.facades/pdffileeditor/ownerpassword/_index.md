@@ -7,7 +7,7 @@ description: "PdfFileEditor property. Sets owner's password if the source input 
 type: docs
 weight: 1120
 url: "/net/aspose.pdf.facades/pdffileeditor/ownerpassword/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.OwnerPassword property
 

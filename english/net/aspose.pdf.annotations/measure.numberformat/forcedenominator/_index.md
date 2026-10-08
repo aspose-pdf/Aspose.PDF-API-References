@@ -7,7 +7,7 @@ description: "NumberFormat property. If FractionDisplayment is ShowAsFraction, t
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/measure.numberformat/forcedenominator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.NumberFormat.ForceDenominator property
 
@@ -19,7 +19,7 @@ public bool ForceDenominator { get; set; }
 
 ### See Also
 
-* class [Measure.NumberFormat](../)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

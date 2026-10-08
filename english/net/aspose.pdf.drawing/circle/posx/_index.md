@@ -7,7 +7,7 @@ description: "Circle property. Gets or sets a float value that indicates the x-c
 type: docs
 weight: 30
 url: "/net/aspose.pdf.drawing/circle/posx/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Circle.PosX property
 

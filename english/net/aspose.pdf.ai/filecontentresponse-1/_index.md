@@ -8,7 +8,7 @@ type: docs
 weight: 390
 url: "/net/aspose.pdf.ai/filecontentresponse-1/"
 keywords: "FileContentResponse<T>, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileContentResponse&lt;T&gt; class
 
@@ -18,23 +18,17 @@ product_version: "26.9.0"
 public class FileContentResponse<T> : BaseResponse
 ```
 
-## Type Parameters
-
-| Name | Description |
-| --- | --- |
-| T |  |
-
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [FileContentResponse](./filecontentresponse/)() | The default constructor. |
+| [FileContentResponse](filecontentresponse/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Content](./content/) { get; set; } | Gets or sets the file content. |
+| [Content](../../aspose.pdf.ai/filecontentresponse-1/content/) { get; set; } | Gets or sets the file content. |
 | [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. |
 | [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. |
 | [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. |

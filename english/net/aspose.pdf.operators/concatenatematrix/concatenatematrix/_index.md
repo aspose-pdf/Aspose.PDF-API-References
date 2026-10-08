@@ -7,30 +7,9 @@ description: "ConcatenateMatrix constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/concatenatematrix/concatenatematrix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## ConcatenateMatrix([Matrix](../../../aspose.pdf/matrix/)) {#constructor}
-
-Initializes operator by matrix.
-
-```csharp
-public ConcatenateMatrix(Matrix m)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| m | Matrix | Transfomation matrix. |
-
-### See Also
-
-* class [Matrix](../../../aspose.pdf/matrix/)
-* class [ConcatenateMatrix](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## ConcatenateMatrix(double, double, double, double, double, double) {#constructor_1}
+## ConcatenateMatrix(double, double, double, double, double, double) {#constructor}
 
 Initializes operator.
 
@@ -49,6 +28,27 @@ public ConcatenateMatrix(double a, double b, double c, double d, double e, doubl
 
 ### See Also
 
+* class [ConcatenateMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ConcatenateMatrix(Matrix) {#constructor_1}
+
+Initializes operator by matrix.
+
+```csharp
+public ConcatenateMatrix(Matrix m)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| m | Matrix | Transfomation matrix. |
+
+### See Also
+
+* class [Matrix](../../../aspose.pdf/matrix/)
 * class [ConcatenateMatrix](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

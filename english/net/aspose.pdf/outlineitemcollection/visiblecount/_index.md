@@ -7,7 +7,7 @@ description: "OutlineItemCollection property. Gets the total number of outline i
 type: docs
 weight: 240
 url: "/net/aspose.pdf/outlineitemcollection/visiblecount/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.VisibleCount property
 

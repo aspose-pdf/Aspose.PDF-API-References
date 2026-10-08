@@ -7,7 +7,7 @@ description: "MarkupAnnotation property. Gets or sets the constant opacity value
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/markupannotation/opacity/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupAnnotation.Opacity property
 

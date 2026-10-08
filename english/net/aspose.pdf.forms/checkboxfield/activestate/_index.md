@@ -7,7 +7,7 @@ description: "CheckboxField property. Gets or sets current annotation appearance
 type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/checkboxfield/activestate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CheckboxField.ActiveState property
 

@@ -8,7 +8,7 @@ type: docs
 weight: 180
 url: "/net/aspose.pdf.devices/textdevice/"
 keywords: "TextDevice, Aspose.Pdf.Devices, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextDevice class
 
@@ -44,27 +44,28 @@ using (MemoryStream ms = new MemoryStream())
 
 | Name | Description |
 | --- | --- |
-| [TextDevice](./textdevice/#constructor)() | Initializes a new instance of the [`TextDevice`](../../aspose.pdf.devices/textdevice/) with the Raw text formatting mode and Unicode text encoding. |
-| [TextDevice](./textdevice/#constructor_1)(Encoding) | Initializes a new instance of the [`TextDevice`](../../aspose.pdf.devices/textdevice/) for the specified encoding. |
-| [TextDevice](./textdevice/#constructor_2)(TextExtractionOptions) | Initializes a new instance of the [`TextDevice`](../../aspose.pdf.devices/textdevice/) with text extraction options. |
-| [TextDevice](./textdevice/#constructor_3)(TextExtractionOptions, Encoding) | Initializes a new instance of the [`TextDevice`](../../aspose.pdf.devices/textdevice/) for the specified encoding with text extraction options. |
+| [TextDevice](textdevice/#constructor)(TextExtractionOptions) | Initializes a new instance of the `TextDevice` with text extraction options. |
+| [TextDevice](textdevice/#constructor_1)() | Initializes a new instance of the `TextDevice` with the Raw text formatting mode and Unicode text encoding. |
+| [TextDevice](textdevice/#constructor_2)(Encoding) | Initializes a new instance of the `TextDevice` for the specified encoding. |
+| [TextDevice](textdevice/#constructor_3)(TextExtractionOptions, Encoding) | Initializes a new instance of the `TextDevice` for the specified encoding with text extraction options. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Encoding](./encoding/) { get; set; } | Gets or sets encoding of extracted text. |
-| [ExtractionOptions](./extractionoptions/) { get; set; } | Gets or sets text extraction options. |
+| [Encoding](../../aspose.pdf.devices/textdevice/encoding/) { get; set; } | Gets or sets encoding of extracted text. |
+| [ExtractionOptions](../../aspose.pdf.devices/textdevice/extractionoptions/) { get; set; } | Gets or sets text extraction options. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Process](./process/)(Page, Stream) | Convert page and save it as text stream. |
+| override [Process](../../aspose.pdf.devices/textdevice/process/)(Page, Stream) | Convert page and save it as text stream. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
 
 ## Remarks
 
-The [`TextDevice`](../../aspose.pdf.devices/textdevice/) object is basically used to extract text from pdf page.
+The [`TextDevice`](../textdevice/) object is basically used to extract text from pdf page.
 
 ### See Also
 

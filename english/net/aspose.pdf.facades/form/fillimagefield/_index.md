@@ -7,38 +7,9 @@ description: "Form method. Pastes an image onto the existing button field as its
 type: docs
 weight: 380
 url: "/net/aspose.pdf.facades/form/fillimagefield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## FillImageField(string, Stream) {#fillimagefield}
-
-Overloads function of FillImageField.
- The input is a image stream.
-
-```csharp
-public void FillImageField(string fieldName, Stream imageStream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | String | The fully qualified field name. |
-| imageStream | Stream | The image's stream. |
-
-## Examples
-
-```csharp
-Form form = new Form("PdfForm.pdf", "PdfForm_filled.pdf");
-form.FillImageField("fieldName", new FileStream("file.jpg", FileMode.Open, FileAccess.Read));
-```
-
-### See Also
-
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## FillImageField(string, string) {#fillimagefield_1}
+## FillImageField(string, string) {#fillimagefield}
 
 Pastes an image onto the existing button field as its appearance according to 
  its fully qualified field name.
@@ -58,6 +29,35 @@ public void FillImageField(string fieldName, string imageFileName)
 Form form = new Form("PdfForm.pdf", "PdfForm_filled.pdf");
 form.FillImageField("fieldName", "file.jpg");
 form.Save();
+```
+
+### See Also
+
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## FillImageField(string, Stream) {#fillimagefield_1}
+
+Overloads function of FillImageField.
+ The input is a image stream.
+
+```csharp
+public void FillImageField(string fieldName, Stream imageStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fieldName | String | The fully qualified field name. |
+| imageStream | Stream | The image's stream. |
+
+## Examples
+
+```csharp
+Form form = new Form("PdfForm.pdf", "PdfForm_filled.pdf");
+form.FillImageField("fieldName", new FileStream("file.jpg", FileMode.Open, FileAccess.Read));
 ```
 
 ### See Also

@@ -7,7 +7,7 @@ description: "Document property. Gets security settings if document is encrypted
 type: docs
 weight: 1490
 url: "/net/aspose.pdf/document/cryptoalgorithm/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.CryptoAlgorithm property
 
@@ -21,7 +21,7 @@ public CryptoAlgorithm? CryptoAlgorithm { get; }
 
 ### See Also
 
-* enum [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

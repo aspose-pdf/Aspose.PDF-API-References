@@ -7,13 +7,11 @@ description: "TiffOptions property. Gets or sets the type of the compression."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/tiffoptions/compression/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TiffOptions.Compression property
 
 Gets or sets the type of the compression.
-
-Default value is CompressionType.LZW
 
 ```csharp
 public CompressionType Compression { get; set; }
@@ -22,6 +20,10 @@ public CompressionType Compression { get; set; }
 ### Property Value
 
 The type of the compression.
+
+## Remarks
+
+Default value is CompressionType.LZW
 
 ### See Also
 

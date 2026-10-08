@@ -7,11 +7,11 @@ description: "StartEndPageEventArgs constructor. Initializes a new instance of t
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/startendpageeventargs/startendpageeventargs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StartEndPageEventArgs constructor
 
-Initializes a new instance of the [`StartEndPageEventArgs`](../../../aspose.pdf.printing/startendpageeventargs/) class.
+Initializes a new instance of the [`StartEndPageEventArgs`](../) class.
 
 ```csharp
 public StartEndPageEventArgs(int currentPage, int totalPages, int currentCopy, int totalCopies)

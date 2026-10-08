@@ -7,7 +7,7 @@ description: "ProgressEventHandlerInfo field. Type of progress event that occurr
 type: docs
 weight: 10
 url: "/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/eventtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnifiedSaveOptions.ProgressEventHandlerInfo.EventType field
 
@@ -19,8 +19,8 @@ public ProgressEventType EventType;
 
 ### See Also
 
-* enum [ProgressEventType](../../../aspose.pdf/progresseventtype/)
-* class [UnifiedSaveOptions.ProgressEventHandlerInfo](../)
+* enum [ProgressEventType](../../progresseventtype/)
+* class [ProgressEventHandlerInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

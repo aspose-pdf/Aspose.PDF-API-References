@@ -7,7 +7,7 @@ description: "DocumentPrivilege property. Allows copying file."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/documentprivilege/copy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.Copy property
 
@@ -19,7 +19,7 @@ public static DocumentPrivilege Copy { get; }
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

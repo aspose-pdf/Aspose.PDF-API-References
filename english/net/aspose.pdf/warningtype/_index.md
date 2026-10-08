@@ -7,7 +7,7 @@ description: "Aspose.Pdf.WarningType enum. Enum represented warning type."
 type: docs
 weight: 3110
 url: "/net/aspose.pdf/warningtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WarningType enumeration
 

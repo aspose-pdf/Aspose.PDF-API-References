@@ -7,7 +7,7 @@ description: "Aspose.Pdf.ExtendedBoolean enum. Represents boolean type that supp
 type: docs
 weight: 820
 url: "/net/aspose.pdf/extendedboolean/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExtendedBoolean enumeration
 

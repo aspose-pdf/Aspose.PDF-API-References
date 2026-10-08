@@ -7,7 +7,7 @@ description: "AttributeKey field. BorderColor attribute (Layout attribute owner)
 type: docs
 weight: 80
 url: "/net/aspose.pdf.logicalstructure/attributekey/bordercolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.BorderColor field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey BorderColor;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

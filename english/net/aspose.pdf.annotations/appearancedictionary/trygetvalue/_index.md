@@ -7,7 +7,7 @@ description: "AppearanceDictionary method. Tries to find key in the dictionary a
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/appearancedictionary/trygetvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AppearanceDictionary.TryGetValue method
 

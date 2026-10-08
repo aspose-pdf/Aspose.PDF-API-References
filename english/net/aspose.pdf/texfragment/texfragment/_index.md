@@ -7,7 +7,7 @@ description: "TeXFragment constructor. Initializes a new instance of the HtmlFra
 type: docs
 weight: 10
 url: "/net/aspose.pdf/texfragment/texfragment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXFragment(string) {#constructor}
 

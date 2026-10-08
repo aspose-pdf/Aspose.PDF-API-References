@@ -8,7 +8,7 @@ type: docs
 weight: 660
 url: "/net/aspose.pdf.ai/imagedescription/"
 keywords: "ImageDescription, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageDescription class
 
@@ -22,17 +22,17 @@ public class ImageDescription
 
 | Name | Description |
 | --- | --- |
-| [ImageDescription](./imagedescription/)() | The default constructor. |
+| [ImageDescription](imagedescription/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Description](./description/) { get; set; } | Gets or sets the description associated with the image. |
-| [ImageBytes](./imagebytes/) { get; set; } | Gets or sets the byte array representing the image. |
-| [Name](./name/) { get; set; } | Gets or sets the name of the image. |
-| [PageNumber](./pagenumber/) { get; set; } | Gets or sets the page number where the image is located. |
-| [Rectangle](./rectangle/) { get; set; } | Gets or sets the rectangle information of the image. |
+| [Description](../../aspose.pdf.ai/imagedescription/description/) { get; set; } | Gets or sets the description associated with the image. |
+| [ImageBytes](../../aspose.pdf.ai/imagedescription/imagebytes/) { get; set; } | Gets or sets the byte array representing the image. |
+| [Name](../../aspose.pdf.ai/imagedescription/name/) { get; set; } | Gets or sets the name of the image. |
+| [PageNumber](../../aspose.pdf.ai/imagedescription/pagenumber/) { get; set; } | Gets or sets the page number where the image is located. |
+| [Rectangle](../../aspose.pdf.ai/imagedescription/rectangle/) { get; set; } | Gets or sets the rectangle information of the image. |
 
 ### See Also
 

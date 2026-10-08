@@ -7,7 +7,7 @@ description: "StringResult property. Returns string representation of the result
 type: docs
 weight: 80
 url: "/net/aspose.pdf.lowcode/stringresult/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StringResult.Text property
 

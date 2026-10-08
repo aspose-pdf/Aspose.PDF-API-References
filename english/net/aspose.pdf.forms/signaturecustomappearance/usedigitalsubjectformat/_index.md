@@ -7,11 +7,11 @@ description: "SignatureCustomAppearance property. Gets/sets the usage state of t
 type: docs
 weight: 140
 url: "/net/aspose.pdf.forms/signaturecustomappearance/usedigitalsubjectformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureCustomAppearance.UseDigitalSubjectFormat property
 
-Gets/sets the usage state of the `DigitalSubjectFormat`.
+Gets/sets the usage state of the [`DigitalSubjectFormat`](../digitalsubjectformat/).
 
 ```csharp
 public bool UseDigitalSubjectFormat { get; set; }

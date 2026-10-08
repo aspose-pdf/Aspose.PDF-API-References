@@ -8,7 +8,7 @@ type: docs
 weight: 990
 url: "/net/aspose.pdf/formattedfragment/"
 keywords: "FormattedFragment, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormattedFragment class
 

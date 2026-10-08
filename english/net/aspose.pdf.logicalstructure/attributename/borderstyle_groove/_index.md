@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute BorderStyle: Groove - The border lo
 type: docs
 weight: 190
 url: "/net/aspose.pdf.logicalstructure/attributename/borderstyle_groove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.BorderStyle_Groove field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName BorderStyle_Groove;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -8,7 +8,7 @@ type: docs
 weight: 190
 url: "/net/aspose.pdf.printing/printersettings/"
 keywords: "PrinterSettings, Aspose.Pdf.Printing, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterSettings class
 
@@ -22,31 +22,31 @@ public class PrinterSettings
 
 | Name | Description |
 | --- | --- |
-| [PrinterSettings](./printersettings/)() | The default constructor. |
+| [PrinterSettings](printersettings/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Collate](./collate/) { get; set; } | Gets or sets a value indicating whether the print out is collated. |
-| [Copies](./copies/) { get; set; } | Gets or sets the number of copies to print. |
-| [DefaultPageSettings](./defaultpagesettings/) { get; } | Gets the default page settings for this printer. |
-| [Duplex](./duplex/) { get; set; } | Gets or sets the printer's duplex setting. |
-| [FromPage](./frompage/) { get; set; } | Gets or sets the first page to print. |
-| [MaximumPage](./maximumpage/) { get; set; } | Gets or sets the highest `FromPage` or `ToPage` which may be selected in a print dialog box. |
-| [MinimumPage](./minimumpage/) { get; set; } | Gets or sets the lowest `FromPage` or `ToPage` which may be selected in a print dialog box. |
-| [PrintFileName](./printfilename/) { get; set; } | Indicates the name of the printerfile. |
-| [PrintRange](./printrange/) { get; set; } | Gets or sets the pages the user has asked to print. |
-| [PrintToFile](./printtofile/) { get; set; } | Indicates whether to print to a file instead of a port. |
-| [PrinterName](./printername/) { get; set; } | Gets or sets the name of the printer. |
-| [PrinterUri](./printeruri/) { get; set; } | Get or sets the URI of the network printer. |
-| [ToPage](./topage/) { get; set; } | Gets or sets the last page to print. |
+| [Collate](../../aspose.pdf.printing/printersettings/collate/) { get; set; } | Gets or sets a value indicating whether the print out is collated. |
+| [Copies](../../aspose.pdf.printing/printersettings/copies/) { get; set; } | Gets or sets the number of copies to print. |
+| [DefaultPageSettings](../../aspose.pdf.printing/printersettings/defaultpagesettings/) { get; } | Gets the default page settings for this printer. |
+| [Duplex](../../aspose.pdf.printing/printersettings/duplex/) { get; set; } | Gets or sets the printer's duplex setting. |
+| [FromPage](../../aspose.pdf.printing/printersettings/frompage/) { get; set; } | Gets or sets the first page to print. |
+| [MaximumPage](../../aspose.pdf.printing/printersettings/maximumpage/) { get; set; } | Gets or sets the highest [`FromPage`](./frompage/) or [`ToPage`](./topage/) which may be selected in a print dialog box. |
+| [MinimumPage](../../aspose.pdf.printing/printersettings/minimumpage/) { get; set; } | Gets or sets the lowest [`FromPage`](./frompage/) or [`ToPage`](./topage/) which may be selected in a print dialog box. |
+| [PrintFileName](../../aspose.pdf.printing/printersettings/printfilename/) { get; set; } | Indicates the name of the printerfile. |
+| [PrintRange](../../aspose.pdf.printing/printersettings/printrange/) { get; set; } | Gets or sets the pages the user has asked to print. |
+| [PrintToFile](../../aspose.pdf.printing/printersettings/printtofile/) { get; set; } | Indicates whether to print to a file instead of a port. |
+| [PrinterName](../../aspose.pdf.printing/printersettings/printername/) { get; set; } | Gets or sets the name of the printer. |
+| [PrinterUri](../../aspose.pdf.printing/printersettings/printeruri/) { get; set; } | Get or sets the URI of the network printer. |
+| [ToPage](../../aspose.pdf.printing/printersettings/topage/) { get; set; } | Gets or sets the last page to print. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](./tostring/)() | Provides some interesting information about the PrinterSettings in String form. |
+| override [ToString](../../aspose.pdf.printing/printersettings/tostring/)() | Provides some interesting information about the PrinterSettings in String form. |
 
 ### See Also
 

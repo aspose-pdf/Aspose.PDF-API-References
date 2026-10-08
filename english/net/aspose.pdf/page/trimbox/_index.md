@@ -7,7 +7,7 @@ description: "Page property. Gets or sets trim box of the page."
 type: docs
 weight: 530
 url: "/net/aspose.pdf/page/trimbox/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.TrimBox property
 
@@ -28,7 +28,7 @@ Rectangle trimBox = document.Pages[1].TrimBox;
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../rectangle/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

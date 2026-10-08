@@ -7,7 +7,7 @@ description: "Font method. Saves the font into the stream. Note that the font is
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/font/save/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Font.Save method
 

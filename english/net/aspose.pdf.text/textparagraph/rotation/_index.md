@@ -7,7 +7,7 @@ description: "TextParagraph property. Gets or sets rotation angle in degrees."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.text/textparagraph/rotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextParagraph.Rotation property
 

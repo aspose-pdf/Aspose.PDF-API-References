@@ -7,9 +7,9 @@ description: "SquareAnnotation constructor. Constructor for using with Generator
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/squareannotation/squareannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## SquareAnnotation([Document](../../../aspose.pdf/document/)) {#constructor}
+## SquareAnnotation(Document) {#constructor}
 
 Constructor for using with Generator.
 
@@ -30,7 +30,7 @@ public SquareAnnotation(Document document)
 
 ---
 
-## SquareAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
+## SquareAnnotation(Page, Rectangle) {#constructor_1}
 
 Creates new Square annotation on the specified page.
 
@@ -46,7 +46,7 @@ public SquareAnnotation(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [SquareAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

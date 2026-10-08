@@ -7,7 +7,7 @@ description: "RunStepResponse property. Gets or sets a set of 16 key-value pairs
 type: docs
 weight: 160
 url: "/net/aspose.pdf.ai/runstepresponse/metadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunStepResponse.Metadata property
 

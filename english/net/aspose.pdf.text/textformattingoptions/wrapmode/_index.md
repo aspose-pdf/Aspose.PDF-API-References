@@ -7,7 +7,7 @@ description: "TextFormattingOptions property. Gets or sets word wrap mode. Defau
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/textformattingoptions/wrapmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFormattingOptions.WrapMode property
 
@@ -20,7 +20,7 @@ public WordWrapMode WrapMode { get; set; }
 
 ### See Also
 
-* enum [WordWrapMode](../../../aspose.pdf.facades/wordwrapmode/)
+* enum [WordWrapMode](../../textformattingoptions.wordwrapmode/)
 * class [TextFormattingOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

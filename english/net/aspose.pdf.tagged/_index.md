@@ -3,16 +3,16 @@ title: "Aspose.Pdf.Tagged"
 linktitle: "Aspose.Pdf.Tagged"
 articleTitle: "Aspose.Pdf.Tagged"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The Aspose.Pdf.Tagged namespace provides classes."
+description: "The Aspose.Pdf.Tagged is a namespace for classes for support of Tagged PDF documents."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.tagged/"
 keywords: "Aspose.Pdf.Tagged, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Overview
 
-The **Aspose.Pdf.Tagged** namespace provides classes.
+The **Aspose.Pdf.Tagged** is a namespace for classes for support of Tagged PDF documents.
 
 Part of the [Aspose.PDF for .NET](../) API reference.
 
@@ -29,14 +29,4 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | --- | --- |
 | [IAdjustPosition](./iadjustposition/) | Interface for positioning methods. |
 | [ITaggedContent](./itaggedcontent/) | Represents interface for work with TaggedPdf content of document. |
-
-## FAQ
-
-### What classes does the Aspose.Pdf.Tagged namespace contain?
-
-[PositionSettings](./positionsettings/), [TaggedException](./taggedexception/).
-
-### How many types are in the Aspose.Pdf.Tagged namespace?
-
-The Aspose.Pdf.Tagged namespace contains 4 types, listed above.
 

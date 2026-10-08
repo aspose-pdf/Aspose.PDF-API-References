@@ -7,7 +7,7 @@ description: "Point3D property. Z coordinate value."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/point3d/z/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Point3D.Z property
 

@@ -7,7 +7,7 @@ description: "HtmlPageMarkupSavingInfo field. Set by converter. Supposed file na
 type: docs
 weight: 10
 url: "/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/supposedfilename/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.HtmlPageMarkupSavingInfo.SupposedFileName field
 
@@ -21,7 +21,7 @@ public string SupposedFileName;
 
 ### See Also
 
-* class [HtmlSaveOptions.HtmlPageMarkupSavingInfo](../)
+* class [HtmlPageMarkupSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

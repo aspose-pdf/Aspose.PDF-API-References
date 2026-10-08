@@ -7,11 +7,11 @@ description: "Shape property. Gets or sets a GraphInfo object that indicates the
 type: docs
 weight: 20
 url: "/net/aspose.pdf.drawing/shape/graphinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Shape.GraphInfo property
 
-Gets or sets a `GraphInfo` object that indicates the graph info,such as color,
+Gets or sets a [`GraphInfo`](../graphinfo/) object that indicates the graph info,such as color,
  line width,etc.
 
 ```csharp

@@ -7,7 +7,7 @@ description: "AppearanceDictionary method. Removes all elements from the diction
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/appearancedictionary/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AppearanceDictionary.Clear method
 

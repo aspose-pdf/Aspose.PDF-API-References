@@ -3,16 +3,18 @@ title: "Aspose.Pdf.Flow"
 linktitle: "Aspose.Pdf.Flow"
 articleTitle: "Aspose.Pdf.Flow"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The Aspose.Pdf.Flow namespace provides classes."
+description: "Contains classes and interfaces for recognizing and analyzing the structural composition of PDF documents. This includes components such as StructureRecognit..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.flow/"
 keywords: "Aspose.Pdf.Flow, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Overview
 
-The **Aspose.Pdf.Flow** namespace provides classes.
+Contains classes and interfaces for recognizing and analyzing the structural composition of PDF documents.
+ This includes components such as [StructureRecognitionVisitor](./structurerecognitionvisitor/), which traverses the layout tree
+ to identify elements like paragraphs, tables, sections, and figures, and to build a structured representation of the document.
 
 Part of the [Aspose.PDF for .NET](../) API reference.
 
@@ -27,14 +29,4 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | Interface | Description |
 | --- | --- |
 | [IStructureRecognitionVisitor](./istructurerecognitionvisitor/) | Base interface for a custom document structure recognition visitor |
-
-## FAQ
-
-### What classes does the Aspose.Pdf.Flow namespace contain?
-
-[StructureRecognitionVisitor](./structurerecognitionvisitor/).
-
-### How many types are in the Aspose.Pdf.Flow namespace?
-
-The Aspose.Pdf.Flow namespace contains 2 types, listed above.
 

@@ -7,7 +7,7 @@ description: "RunStepListQueryParameters method. Gets the query parameters for l
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/runsteplistqueryparameters/getqueryparameters/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunStepListQueryParameters.GetQueryParameters method
 

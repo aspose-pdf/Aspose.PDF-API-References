@@ -7,7 +7,7 @@ description: "RunThreadCreateRequest property. Gets or sets the truncation strat
 type: docs
 weight: 140
 url: "/net/aspose.pdf.ai/runthreadcreaterequest/truncationstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunThreadCreateRequest.TruncationStrategy property
 
@@ -20,7 +20,7 @@ public TruncationStrategy TruncationStrategy { get; set; }
 
 ### See Also
 
-* class [TruncationStrategy](../../../aspose.pdf.ai/truncationstrategy/)
+* class [TruncationStrategy](../../truncationstrategy/)
 * class [RunThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

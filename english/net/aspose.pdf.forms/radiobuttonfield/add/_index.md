@@ -7,7 +7,7 @@ description: "RadioButtonField method. Adds new option field to RadioButton fiel
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/radiobuttonfield/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RadioButtonField.Add method
 
@@ -23,7 +23,7 @@ public void Add(RadioButtonOptionField newItem)
 
 ### See Also
 
-* class [RadioButtonOptionField](../../../aspose.pdf.forms/radiobuttonoptionfield/)
+* class [RadioButtonOptionField](../../radiobuttonoptionfield/)
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "FileCounts property. Gets or sets the number of files that are cur
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/filecounts/inprogress/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileCounts.InProgress property
 

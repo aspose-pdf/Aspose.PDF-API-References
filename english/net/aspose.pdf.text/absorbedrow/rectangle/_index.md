@@ -7,7 +7,7 @@ description: "AbsorbedRow property. Gets rectangle that describes position of th
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/absorbedrow/rectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AbsorbedRow.Rectangle property
 
@@ -19,7 +19,7 @@ public Rectangle Rectangle { get; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [AbsorbedRow](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

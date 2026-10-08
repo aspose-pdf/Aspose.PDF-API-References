@@ -7,7 +7,7 @@ description: "TextMarkupAnnotation method. Updates the QuadPoints, according to 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/textmarkupannotation/changeafterresize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextMarkupAnnotation.ChangeAfterResize method
 

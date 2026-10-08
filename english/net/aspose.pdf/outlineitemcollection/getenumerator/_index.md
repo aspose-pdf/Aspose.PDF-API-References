@@ -7,7 +7,7 @@ description: "OutlineItemCollection method. Returns an enumerator that iterates 
 type: docs
 weight: 50
 url: "/net/aspose.pdf/outlineitemcollection/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.GetEnumerator method
 

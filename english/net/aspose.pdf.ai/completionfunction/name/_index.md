@@ -7,7 +7,7 @@ description: "CompletionFunction property. Gets or sets the name of the function
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/completionfunction/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionFunction.Name property
 

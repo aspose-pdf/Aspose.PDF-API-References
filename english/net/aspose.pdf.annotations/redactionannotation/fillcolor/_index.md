@@ -7,7 +7,7 @@ description: "RedactionAnnotation property. Gets or sets color to fill annotatio
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/redactionannotation/fillcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RedactionAnnotation.FillColor property
 

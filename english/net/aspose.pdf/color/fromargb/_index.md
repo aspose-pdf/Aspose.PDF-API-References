@@ -7,7 +7,7 @@ description: "Color method. Gets valid pdf Color object from RGB color component
 type: docs
 weight: 60
 url: "/net/aspose.pdf/color/fromargb/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FromArgb(int, int, int) {#fromargb}
 
@@ -29,7 +29,7 @@ Color object with each component value in [0..255] range.
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -56,7 +56,7 @@ Color object with each component value in [0..255] range.
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

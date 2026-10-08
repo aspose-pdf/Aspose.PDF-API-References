@@ -7,7 +7,7 @@ description: "Bookmark property. Gets or sets the action bound with the bookmark
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/bookmark/action/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Bookmark.Action property
 

@@ -7,7 +7,7 @@ description: "PdfGeneratorOptions method. Adds new data source to the PdfGenerat
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/pdfgeneratoroptions/addinput/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfGeneratorOptions.AddInput method
 
@@ -23,7 +23,7 @@ public void AddInput(IDataSource dataSource)
 
 ### See Also
 
-* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
+* interface [IDataSource](../../idatasource/)
 * class [PdfGeneratorOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

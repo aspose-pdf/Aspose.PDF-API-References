@@ -8,7 +8,7 @@ type: docs
 weight: 590
 url: "/net/aspose.pdf.facades/signaturename/"
 keywords: "SignatureName, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureName class
 
@@ -22,22 +22,22 @@ public sealed class SignatureName
 
 | Name | Description |
 | --- | --- |
-| [HasSignature](./hassignature/) { get; } | Indicates whether the signature is present or not. |
+| [HasSignature](../../aspose.pdf.facades/signaturename/hassignature/) { get; } | Indicates whether the signature is present or not. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](./equals/)(object) | Determines whether this instance and a specified object are equal. |
-| override [GetHashCode](./gethashcode/)() | Returns a hash code for this instance based on the FullName property. |
-| override [ToString](./tostring/)() | Returns a string representation of the [`SignatureName`](../../aspose.pdf.facades/signaturename/) instance, primarily using its name. |
+| override [Equals](../../aspose.pdf.facades/signaturename/equals/)(object) | Determines whether this instance and a specified object are equal. |
+| override [GetHashCode](../../aspose.pdf.facades/signaturename/gethashcode/)() | Returns a hash code for this instance based on the FullName property. |
+| override [ToString](../../aspose.pdf.facades/signaturename/tostring/)() | Returns a string representation of the `SignatureName` instance, primarily using its name. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| readonly [FullName](./fullname/) | Gets the full name of the signature, providing a unique and precise identifier for the signature field. |
-| readonly [Name](./name/) | Gets the name of a signature. |
+| readonly [FullName](../../aspose.pdf.facades/signaturename/fullname/) | Gets the full name of the signature, providing a unique and precise identifier for the signature field. |
+| readonly [Name](../../aspose.pdf.facades/signaturename/name/) | Gets the name of a signature. |
 
 ## Remarks
 

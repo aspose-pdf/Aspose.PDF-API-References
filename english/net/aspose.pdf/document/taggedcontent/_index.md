@@ -7,7 +7,7 @@ description: "Document property. Gets access to TaggedPdf content."
 type: docs
 weight: 1600
 url: "/net/aspose.pdf/document/taggedcontent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.TaggedContent property
 

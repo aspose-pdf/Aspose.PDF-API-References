@@ -7,7 +7,7 @@ description: "PdfConverter property. Gets or sets the page coordinate type (Medi
 type: docs
 weight: 550
 url: "/net/aspose.pdf.facades/pdfconverter/coordinatetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfConverter.CoordinateType property
 

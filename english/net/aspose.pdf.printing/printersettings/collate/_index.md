@@ -7,7 +7,7 @@ description: "PrinterSettings property. Gets or sets a value indicating whether 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.printing/printersettings/collate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterSettings.Collate property
 

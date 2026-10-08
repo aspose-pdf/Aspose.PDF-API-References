@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Division) A generic block-level elem
 type: docs
 weight: 90
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/div/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.Div field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard Div;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

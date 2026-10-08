@@ -7,7 +7,7 @@ description: "ThreadMessageCreateRequest property. Gets or sets the content of t
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/content/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadMessageCreateRequest.Content property
 
@@ -19,6 +19,7 @@ public List<MessageContentRequest> Content { get; set; }
 
 ### See Also
 
+* class [MessageContentRequest](../../messagecontentrequest/)
 * class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

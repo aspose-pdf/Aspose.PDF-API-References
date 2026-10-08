@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.BorderEffect enum. Describes effect which s
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/bordereffect/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BorderEffect enumeration
 

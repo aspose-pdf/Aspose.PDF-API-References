@@ -7,7 +7,7 @@ description: "PdfFileInfo property. Gets or sets the ModDate date information of
 type: docs
 weight: 340
 url: "/net/aspose.pdf.facades/pdffileinfo/moddate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.ModDate property
 

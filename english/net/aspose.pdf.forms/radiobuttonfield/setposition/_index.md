@@ -7,7 +7,7 @@ description: "RadioButtonField method. Move all subitems of radio button to spec
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/radiobuttonfield/setposition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RadioButtonField.SetPosition method
 

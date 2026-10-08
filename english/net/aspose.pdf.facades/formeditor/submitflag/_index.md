@@ -7,7 +7,7 @@ description: "FormEditor property. Set the submit button's submission flags"
 type: docs
 weight: 430
 url: "/net/aspose.pdf.facades/formeditor/submitflag/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.SubmitFlag property
 
@@ -19,7 +19,7 @@ public SubmitFormFlag SubmitFlag { get; set; }
 
 ### See Also
 
-* enum [SubmitFormFlag](../../../aspose.pdf.facades/submitformflag/)
+* enum [SubmitFormFlag](../../submitformflag/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

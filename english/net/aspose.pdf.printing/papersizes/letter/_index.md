@@ -7,7 +7,7 @@ description: "PaperSizes field. Letter paper (8.5 in. by 11 in.)."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/papersizes/letter/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.Letter field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize Letter;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

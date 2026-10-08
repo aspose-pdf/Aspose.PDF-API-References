@@ -7,7 +7,7 @@ description: "BaseParagraph property. Gets or sets a vertical alignment of parag
 type: docs
 weight: 20
 url: "/net/aspose.pdf/baseparagraph/verticalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseParagraph.VerticalAlignment property
 
@@ -19,7 +19,7 @@ public virtual VerticalAlignment VerticalAlignment { get; set; }
 
 ### See Also
 
-* enum [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
+* enum [VerticalAlignment](../../verticalalignment/)
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "RepairOptions property. Gets or sets a value indicating whether to
 type: docs
 weight: 20
 url: "/net/aspose.pdf/document.repairoptions/restoreindirectobjectgenerations/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.RepairOptions.RestoreIndirectObjectGenerations property
 
@@ -20,7 +20,7 @@ public bool RestoreIndirectObjectGenerations { get; set; }
 
 ### See Also
 
-* class [Document.RepairOptions](../)
+* class [RepairOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

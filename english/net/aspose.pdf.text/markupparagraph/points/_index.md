@@ -7,7 +7,7 @@ description: "MarkupParagraph property. Points of polygon that describes paragra
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/markupparagraph/points/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupParagraph.Points property
 

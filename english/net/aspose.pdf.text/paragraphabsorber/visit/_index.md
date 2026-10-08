@@ -7,9 +7,9 @@ description: "ParagraphAbsorber method. Performs search for sections and paragra
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/paragraphabsorber/visit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Visit([Document](../../../aspose.pdf/document/)) {#visit}
+## Visit(Document) {#visit}
 
 Performs search for sections and paragraphs on the specified [`Document`](../../../aspose.pdf/document/).
 
@@ -30,7 +30,7 @@ public void Visit(Document doc)
 
 ---
 
-## Visit([Page](../../../aspose.pdf/page/)) {#visit_1}
+## Visit(Page) {#visit_1}
 
 Performs search on the specified [`Page`](../../../aspose.pdf/page/).
 

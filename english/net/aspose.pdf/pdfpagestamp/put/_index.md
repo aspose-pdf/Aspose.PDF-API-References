@@ -7,7 +7,7 @@ description: "PdfPageStamp method. Put stamp on the specified page."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pdfpagestamp/put/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageStamp.Put method
 
@@ -23,7 +23,7 @@ public override void Put(Page page)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [PdfPageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

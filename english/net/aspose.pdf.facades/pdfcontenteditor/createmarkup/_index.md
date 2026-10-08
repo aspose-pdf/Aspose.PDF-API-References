@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Creates markup annotation it PDF document
 type: docs
 weight: 210
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createmarkup/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreateMarkup method
 
@@ -37,8 +37,6 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [Color](../../../aspose.pdf/color/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

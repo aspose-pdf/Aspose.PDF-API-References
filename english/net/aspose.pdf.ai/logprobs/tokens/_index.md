@@ -7,7 +7,7 @@ description: "Logprobs property. Gets or sets a list of message content tokens w
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/logprobs/tokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Logprobs.Tokens property
 

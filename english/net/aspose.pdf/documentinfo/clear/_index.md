@@ -7,7 +7,7 @@ description: "DocumentInfo method. Clears the document info."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/documentinfo/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentInfo.Clear method
 

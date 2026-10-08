@@ -7,19 +7,19 @@ description: "XmpValue constructor. Constructor for string value."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xmpvalue/xmpvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## XmpValue(DateTime) {#constructor}
+## XmpValue(string) {#constructor}
 
-Constructor for date time value.
+Constructor for string value.
 
 ```csharp
-public XmpValue(DateTime value)
+public XmpValue(string value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | DateTime | Date time value. |
+| value | String | String value. |
 
 ### See Also
 
@@ -29,27 +29,7 @@ public XmpValue(DateTime value)
 
 ---
 
-## XmpValue(double) {#constructor_1}
-
-Constructor for floating point Value.
-
-```csharp
-public XmpValue(double value)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | Double | Double value. |
-
-### See Also
-
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## XmpValue(int) {#constructor_2}
+## XmpValue(int) {#constructor_1}
 
 Consructor for integer value.
 
@@ -69,17 +49,37 @@ public XmpValue(int value)
 
 ---
 
-## XmpValue(string) {#constructor_3}
+## XmpValue(double) {#constructor_2}
 
-Constructor for string value.
+Constructor for floating point Value.
 
 ```csharp
-public XmpValue(string value)
+public XmpValue(double value)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | String | String value. |
+| value | Double | Double value. |
+
+### See Also
+
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## XmpValue(DateTime) {#constructor_3}
+
+Constructor for date time value.
+
+```csharp
+public XmpValue(DateTime value)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | DateTime | Date time value. |
 
 ### See Also
 
@@ -103,7 +103,7 @@ public XmpValue(XmpValue[] array)
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

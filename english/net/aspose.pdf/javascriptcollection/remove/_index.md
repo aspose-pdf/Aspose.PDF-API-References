@@ -7,7 +7,7 @@ description: "JavaScriptCollection method. Removes JavaScript by its name."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/javascriptcollection/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## JavaScriptCollection.Remove method
 

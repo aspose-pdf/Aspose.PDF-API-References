@@ -7,11 +7,11 @@ description: "GradientAxialShading constructor. Initializes a new instance of th
 type: docs
 weight: 10
 url: "/net/aspose.pdf.drawing/gradientaxialshading/gradientaxialshading/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GradientAxialShading() {#constructor}
 
-Initializes a new instance of the [`GradientAxialShading`](../../../aspose.pdf.drawing/gradientaxialshading/) class.
+Initializes a new instance of the [`GradientAxialShading`](../) class.
 
 ```csharp
 public GradientAxialShading()
@@ -25,9 +25,9 @@ public GradientAxialShading()
 
 ---
 
-## GradientAxialShading([Color](../../../aspose.pdf/color/), [Color](../../../aspose.pdf/color/)) {#constructor_1}
+## GradientAxialShading(Color, Color) {#constructor_1}
 
-Initializes a new instance of the [`GradientAxialShading`](../../../aspose.pdf.drawing/gradientaxialshading/) class.
+Initializes a new instance of the [`GradientAxialShading`](../) class.
 
 ```csharp
 public GradientAxialShading(Color startColor, Color endColor)

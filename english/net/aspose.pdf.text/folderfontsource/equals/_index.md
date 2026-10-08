@@ -7,7 +7,7 @@ description: "FolderFontSource method. Check if folder font source objects are e
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/folderfontsource/equals/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FolderFontSource.Equals method
 

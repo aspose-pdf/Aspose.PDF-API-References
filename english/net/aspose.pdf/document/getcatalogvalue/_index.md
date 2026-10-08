@@ -7,7 +7,7 @@ description: "Document method. Returns item value from catalog dictionary."
 type: docs
 weight: 830
 url: "/net/aspose.pdf/document/getcatalogvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.GetCatalogValue method
 

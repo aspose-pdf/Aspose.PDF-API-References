@@ -7,7 +7,7 @@ description: "PdfPageEditor field. Outward Box"
 type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/pdfpageeditor/outbox/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.OUTBOX field
 

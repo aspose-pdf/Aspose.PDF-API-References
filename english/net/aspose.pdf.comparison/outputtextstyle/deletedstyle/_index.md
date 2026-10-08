@@ -7,7 +7,7 @@ description: "OutputTextStyle property. Get and set a text style for deleted tex
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/outputtextstyle/deletedstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputTextStyle.DeletedStyle property
 
@@ -19,7 +19,7 @@ public TextStyle DeletedStyle { get; set; }
 
 ### See Also
 
-* class [TextStyle](../../../aspose.pdf.comparison/textstyle/)
+* class [TextStyle](../../textstyle/)
 * class [OutputTextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

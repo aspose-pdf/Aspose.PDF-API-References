@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Facades.AutoRotateMode enum. Direction of the rotation 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/autorotatemode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AutoRotateMode enumeration
 

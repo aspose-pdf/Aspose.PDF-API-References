@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Gets the signature's datetime."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/pdffilesignature/getdatetime/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.GetDateTime method
 
@@ -27,7 +27,7 @@ Return the result of DateTime type.
 
 ### See Also
 
-* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

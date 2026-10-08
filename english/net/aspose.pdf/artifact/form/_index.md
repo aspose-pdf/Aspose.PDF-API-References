@@ -7,7 +7,7 @@ description: "Artifact property. Gets XForm of the artifact (if XForm is used)."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/artifact/form/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.Form property
 
@@ -19,7 +19,7 @@ public XForm Form { get; }
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
+* class [XForm](../../xform/)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

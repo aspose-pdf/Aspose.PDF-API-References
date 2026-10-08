@@ -7,7 +7,7 @@ description: "XYZExplicitDestination method. Create destintion to specified loca
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/createdestination/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XYZExplicitDestination.CreateDestination method
 
@@ -32,7 +32,7 @@ Destination object.
 
 ### See Also
 
-* class [XYZExplicitDestination](../../../aspose.pdf.annotations/xyzexplicitdestination/)
+* class [XYZExplicitDestination](../)
 * class [Page](../../../aspose.pdf/page/)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "CreateFineTuningJobResponse property. Gets or sets the organizatio
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/createfinetuningjobresponse/organizationid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateFineTuningJobResponse.OrganizationId property
 

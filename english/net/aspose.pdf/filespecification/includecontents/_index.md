@@ -7,7 +7,7 @@ description: "FileSpecification property. If true, contents of the file will be 
 type: docs
 weight: 120
 url: "/net/aspose.pdf/filespecification/includecontents/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSpecification.IncludeContents property
 

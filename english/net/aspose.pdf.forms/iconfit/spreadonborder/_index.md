@@ -7,7 +7,7 @@ description: "IconFit property. If true, indicates that the button appearance sh
 type: docs
 weight: 90
 url: "/net/aspose.pdf.forms/iconfit/spreadonborder/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IconFit.SpreadOnBorder property
 

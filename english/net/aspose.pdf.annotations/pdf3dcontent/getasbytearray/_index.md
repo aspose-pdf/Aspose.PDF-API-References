@@ -7,7 +7,7 @@ description: "PDF3DContent method. Gets 3D content as byte array."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/pdf3dcontent/getasbytearray/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DContent.GetAsByteArray method
 

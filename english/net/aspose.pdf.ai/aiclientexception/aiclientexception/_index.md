@@ -7,11 +7,11 @@ description: "AIClientException constructor. Initializes a new instance of the A
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/aiclientexception/aiclientexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AIClientException(string) {#constructor}
 
-Initializes a new instance of the [`AIClientException`](../../../aspose.pdf.ai/aiclientexception/) class with a specified error message.
+Initializes a new instance of the [`AIClientException`](../) class with a specified error message.
 
 ```csharp
 public AIClientException(string message)
@@ -31,7 +31,7 @@ public AIClientException(string message)
 
 ## AIClientException(string, Exception) {#constructor_1}
 
-Initializes a new instance of the [`AIClientException`](../../../aspose.pdf.ai/aiclientexception/) class with a specified error message
+Initializes a new instance of the [`AIClientException`](../) class with a specified error message
  and a reference to the inner exception that is the cause of this exception.
 
 ```csharp

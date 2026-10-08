@@ -7,7 +7,7 @@ description: "SideBySideComparisonOptions property. Gets or sets the color used 
 type: docs
 weight: 100
 url: "/net/aspose.pdf.comparison/sidebysidecomparisonoptions/insertcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SideBySideComparisonOptions.InsertColor property
 

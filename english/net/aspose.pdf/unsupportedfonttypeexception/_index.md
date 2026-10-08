@@ -8,7 +8,7 @@ type: docs
 weight: 3080
 url: "/net/aspose.pdf/unsupportedfonttypeexception/"
 keywords: "UnsupportedFontTypeException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnsupportedFontTypeException class
 
@@ -22,15 +22,9 @@ public sealed class UnsupportedFontTypeException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [UnsupportedFontTypeException](./unsupportedfonttypeexception/#constructor)(Exception) | Initializes a new instance of the [`UnsupportedFontTypeException`](../../aspose.pdf/unsupportedfonttypeexception/) class with a reference to the inner exception that is the cause of this exception. |
-| [UnsupportedFontTypeException](./unsupportedfonttypeexception/#constructor_1)(string) | Initializes a new instance of the [`UnsupportedFontTypeException`](../../aspose.pdf/unsupportedfonttypeexception/) class. |
-| [UnsupportedFontTypeException](./unsupportedfonttypeexception/#constructor_2)(string, Exception) | Initializes a new instance of the [`UnsupportedFontTypeException`](../../aspose.pdf/unsupportedfonttypeexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
+| [UnsupportedFontTypeException](unsupportedfonttypeexception/#constructor)(string) | Initializes a new instance of the `UnsupportedFontTypeException` class. |
+| [UnsupportedFontTypeException](unsupportedfonttypeexception/#constructor_1)(string, Exception) | Initializes a new instance of the `UnsupportedFontTypeException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [UnsupportedFontTypeException](unsupportedfonttypeexception/#constructor_2)(Exception) | Initializes a new instance of the `UnsupportedFontTypeException` class with a reference to the inner exception that is the cause of this exception. |
 
 ### See Also
 

@@ -8,11 +8,11 @@ type: docs
 weight: 170
 url: "/net/aspose.pdf.lowcode/formeditoroptions/"
 keywords: "FormEditorOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditorOptions class
 
-Represents options for [`FormEditor`](../../aspose.pdf.lowcode/formeditor/) plugin.
+Represents options for [`FormEditor`](../formeditor/) plugin.
 
 ```csharp
 public abstract class FormEditorOptions : FormOptions

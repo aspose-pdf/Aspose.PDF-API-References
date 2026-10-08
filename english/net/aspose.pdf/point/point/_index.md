@@ -7,11 +7,11 @@ description: "Point constructor. Initializes new instance of the Point."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/point/point/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Point constructor
 
-Initializes new instance of the [`Point`](../../../aspose.pdf/point/).
+Initializes new instance of the [`Point`](../).
 
 ```csharp
 public Point(double x, double y)

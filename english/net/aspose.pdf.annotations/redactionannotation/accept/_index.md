@@ -7,7 +7,7 @@ description: "RedactionAnnotation method. Accepts visitor object to process the 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/redactionannotation/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RedactionAnnotation.Accept method
 
@@ -23,7 +23,7 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [AnnotationSelector](../../annotationselector/)
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

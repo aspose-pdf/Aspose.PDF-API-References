@@ -7,7 +7,7 @@ description: "ChoiceField property. Gets or sets array of selected items. For mu
 type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/choicefield/selecteditems/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChoiceField.SelectedItems property
 

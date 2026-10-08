@@ -7,13 +7,11 @@ description: "TextState method. Applies settings from another textState."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.text/textstate/applychangesfrom/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextState.ApplyChangesFrom method
 
 Applies settings from another textState.
-
-Only those properties will be copied that were changed explicitly.
 
 ```csharp
 public virtual void ApplyChangesFrom(TextState textState)
@@ -23,9 +21,13 @@ public virtual void ApplyChangesFrom(TextState textState)
 | --- | --- | --- |
 | textState | TextState | Text state object. |
 
+## Remarks
+
+Only those properties will be copied that were changed explicitly.
+
 ### See Also
 
-* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 

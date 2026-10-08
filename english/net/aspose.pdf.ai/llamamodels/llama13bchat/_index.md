@@ -7,7 +7,7 @@ description: "LlamaModels property. The Llama 13b chat model."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/llamamodels/llama13bchat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaModels.Llama13BChat property
 

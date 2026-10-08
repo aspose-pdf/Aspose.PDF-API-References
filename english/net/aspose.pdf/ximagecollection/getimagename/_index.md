@@ -7,7 +7,7 @@ description: "XImageCollection method. Returns name in images list which is key 
 type: docs
 weight: 170
 url: "/net/aspose.pdf/ximagecollection/getimagename/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImageCollection.GetImageName method
 
@@ -27,7 +27,7 @@ Name (key) of the found image; null if images was not found.
 
 ### See Also
 
-* class [XImage](../../../aspose.pdf/ximage/)
+* class [XImage](../../ximage/)
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

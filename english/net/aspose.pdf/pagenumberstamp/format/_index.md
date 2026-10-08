@@ -7,7 +7,7 @@ description: "PageNumberStamp property. String value for stamping page numbers. 
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pagenumberstamp/format/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageNumberStamp.Format property
 

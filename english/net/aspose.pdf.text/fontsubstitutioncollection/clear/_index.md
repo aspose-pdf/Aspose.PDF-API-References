@@ -7,7 +7,7 @@ description: "FontSubstitutionCollection method. Clears the font substitution co
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontSubstitutionCollection.Clear method
 

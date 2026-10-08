@@ -7,7 +7,7 @@ description: "DocumentInfo property. Gets or sets document title."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/documentinfo/title/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentInfo.Title property
 

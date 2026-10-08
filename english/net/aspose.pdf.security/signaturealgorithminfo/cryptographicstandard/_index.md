@@ -7,7 +7,7 @@ description: "SignatureAlgorithmInfo field. Gets the cryptographic standard used
 type: docs
 weight: 40
 url: "/net/aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureAlgorithmInfo.CryptographicStandard field
 
@@ -19,7 +19,7 @@ public readonly CryptographicStandard CryptographicStandard;
 
 ### See Also
 
-* enum [CryptographicStandard](../../../aspose.pdf.security/cryptographicstandard/)
+* enum [CryptographicStandard](../../cryptographicstandard/)
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)

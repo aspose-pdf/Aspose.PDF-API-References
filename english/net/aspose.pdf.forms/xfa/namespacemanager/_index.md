@@ -7,7 +7,7 @@ description: "XFA property. Gets the namespace for the XFA form. The following n
 type: docs
 weight: 110
 url: "/net/aspose.pdf.forms/xfa/namespacemanager/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFA.NamespaceManager property
 

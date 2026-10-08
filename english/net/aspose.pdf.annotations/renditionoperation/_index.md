@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.RenditionOperation enum. The operation to p
 type: docs
 weight: 1070
 url: "/net/aspose.pdf.annotations/renditionoperation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenditionOperation enumeration
 

@@ -8,7 +8,7 @@ type: docs
 weight: 940
 url: "/net/aspose.pdf.lowcode/tablegenerator/"
 keywords: "TableGenerator, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableGenerator class
 
@@ -40,17 +40,18 @@ generator.Process(opt);
 
 | Name | Description |
 | --- | --- |
-| [TableGenerator](./tablegenerator/)() | The default constructor. |
+| [TableGenerator](tablegenerator/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/)() | Implementation of IDisposable. In fact, it is not necessary for TableGenerator. |
-| [Process](./process/)(IPluginOptions) | Starts the PdfGenerator processing with the specified parameters. |
+| [Dispose](../../aspose.pdf.lowcode/tablegenerator/dispose/)() | Implementation of IDisposable. In fact, it is not necessary for TableGenerator. |
+| [Process](../../aspose.pdf.lowcode/tablegenerator/process/)(IPluginOptions) | Starts the PdfGenerator processing with the specified parameters. |
 
 ### See Also
 
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

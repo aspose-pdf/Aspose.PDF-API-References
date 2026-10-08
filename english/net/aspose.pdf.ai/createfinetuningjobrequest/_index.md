@@ -8,7 +8,7 @@ type: docs
 weight: 270
 url: "/net/aspose.pdf.ai/createfinetuningjobrequest/"
 keywords: "CreateFineTuningJobRequest, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateFineTuningJobRequest class
 
@@ -22,15 +22,15 @@ public class CreateFineTuningJobRequest
 
 | Name | Description |
 | --- | --- |
-| [CreateFineTuningJobRequest](./createfinetuningjobrequest/)() | The default constructor. |
+| [CreateFineTuningJobRequest](createfinetuningjobrequest/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Hyperparameters](./hyperparameters/) { get; set; } | Gets or sets the hyperparameters used for the fine-tuning job. |
-| [Model](./model/) { get; set; } | Gets or sets the name of the model to fine-tune. You can select one of the supported models. |
-| [TrainingFile](./trainingfile/) { get; set; } | Gets or sets the ID of an uploaded file that contains training data. |
+| [Hyperparameters](../../aspose.pdf.ai/createfinetuningjobrequest/hyperparameters/) { get; set; } | Gets or sets the hyperparameters used for the fine-tuning job. |
+| [Model](../../aspose.pdf.ai/createfinetuningjobrequest/model/) { get; set; } | Gets or sets the name of the model to fine-tune. You can select one of the supported models. |
+| [TrainingFile](../../aspose.pdf.ai/createfinetuningjobrequest/trainingfile/) { get; set; } | Gets or sets the ID of an uploaded file that contains training data. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "ThreadMessageCreateRequest property. Gets or sets a set of 16 key-
 type: docs
 weight: 110
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/metadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadMessageCreateRequest.Metadata property
 

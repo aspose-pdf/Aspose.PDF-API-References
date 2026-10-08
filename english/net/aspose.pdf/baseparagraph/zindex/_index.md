@@ -7,7 +7,7 @@ description: "BaseParagraph property. Gets or sets a int value that indicates th
 type: docs
 weight: 100
 url: "/net/aspose.pdf/baseparagraph/zindex/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseParagraph.ZIndex property
 

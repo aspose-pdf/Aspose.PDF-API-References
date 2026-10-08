@@ -7,7 +7,7 @@ description: "TOCElement method. Links the Table of Contents (TOC) page title to
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/tocelement/linktocpagetitletoheaderelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TOCElement.LinkTocPageTitleToHeaderElement method
 
@@ -26,12 +26,12 @@ public void LinkTocPageTitleToHeaderElement(Page tocPage, HeaderElement tocTitle
 
 | exception | condition |
 | --- | --- |
-| [TOCpageHasNoTitleException](../../../aspose.pdf.logicalstructure/tocpagehasnotitleexception/) | Thrown if the TOC page does not have a title. |
+| [TOCpageHasNoTitleException](../../tocpagehasnotitleexception/) | Thrown if the TOC page does not have a title. |
 
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
+* class [HeaderElement](../../headerelement/)
 * class [TOCElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

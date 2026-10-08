@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates DivElement."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.tagged/itaggedcontent/createdivelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateDivElement method
 

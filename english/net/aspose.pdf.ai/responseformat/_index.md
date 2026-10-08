@@ -8,7 +8,7 @@ type: docs
 weight: 1040
 url: "/net/aspose.pdf.ai/responseformat/"
 keywords: "ResponseFormat, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ResponseFormat class
 
@@ -22,16 +22,16 @@ public class ResponseFormat : IStringOrObject<ObjectType>
 
 | Name | Description |
 | --- | --- |
-| [ResponseFormat](./responseformat/)() | The default constructor. |
+| [ResponseFormat](responseformat/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [IsObjectValue](./isobjectvalue/) { get; } | Gets a value indicating whether the response format is an object value. |
-| [IsStringValue](./isstringvalue/) { get; } | Gets a value indicating whether the response format is a string value. |
-| [ObjectValue](./objectvalue/) { get; set; } | Gets or sets the object value of the response format. |
-| [StringValue](./stringvalue/) { get; set; } | Gets or sets the string value of the response format. |
+| [IsObjectValue](../../aspose.pdf.ai/responseformat/isobjectvalue/) { get; } | Gets a value indicating whether the response format is an object value. |
+| [IsStringValue](../../aspose.pdf.ai/responseformat/isstringvalue/) { get; } | Gets a value indicating whether the response format is a string value. |
+| [ObjectValue](../../aspose.pdf.ai/responseformat/objectvalue/) { get; set; } | Gets or sets the object value of the response format. |
+| [StringValue](../../aspose.pdf.ai/responseformat/stringvalue/) { get; set; } | Gets or sets the string value of the response format. |
 
 ## Other Members
 
@@ -41,6 +41,8 @@ public class ResponseFormat : IStringOrObject<ObjectType>
 
 ### See Also
 
+* interface [IStringOrObject&lt;T&gt;](../istringorobject-1/)
+* class [ObjectType](../responseformat.objecttype/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
 

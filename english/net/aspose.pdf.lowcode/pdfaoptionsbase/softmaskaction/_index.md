@@ -7,7 +7,7 @@ description: "PdfAOptionsBase property. Gets or sets the action to be taken duri
 type: docs
 weight: 70
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/softmaskaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAOptionsBase.SoftMaskAction property
 

@@ -7,7 +7,7 @@ description: "SetCharWidthBoundingBox property. Vertical displacement of glyph."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/setcharwidthboundingbox/wy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCharWidthBoundingBox.Wy property
 

@@ -7,7 +7,7 @@ description: "Artifact method. Set text and text properties of the artifact. All
 type: docs
 weight: 60
 url: "/net/aspose.pdf/artifact/setlinesandstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.SetLinesAndState method
 

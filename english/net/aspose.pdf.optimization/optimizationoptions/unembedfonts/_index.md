@@ -7,7 +7,7 @@ description: "OptimizationOptions property. Make fonts not embedded if set to tr
 type: docs
 weight: 110
 url: "/net/aspose.pdf.optimization/optimizationoptions/unembedfonts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizationOptions.UnembedFonts property
 

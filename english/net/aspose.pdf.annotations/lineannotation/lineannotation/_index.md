@@ -7,9 +7,9 @@ description: "LineAnnotation constructor. Constructor for using with Generator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/lineannotation/lineannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## LineAnnotation([Document](../../../aspose.pdf/document/), [Point](../../../aspose.pdf/point/), [Point](../../../aspose.pdf/point/)) {#constructor}
+## LineAnnotation(Document, Point, Point) {#constructor}
 
 Constructor for using with Generator.
 
@@ -33,7 +33,7 @@ public LineAnnotation(Document document, Point start, Point end)
 
 ---
 
-## LineAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), [Point](../../../aspose.pdf/point/), [Point](../../../aspose.pdf/point/)) {#constructor_1}
+## LineAnnotation(Page, Rectangle, Point, Point) {#constructor_1}
 
 Creates new Line annotation on the specified page.
 
@@ -51,7 +51,7 @@ public LineAnnotation(Page page, Rectangle rect, Point start, Point end)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [Point](../../../aspose.pdf/point/)
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)

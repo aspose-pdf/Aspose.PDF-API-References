@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Article) A relatively self-contained
 type: docs
 weight: 70
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/art/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.Art field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard Art;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

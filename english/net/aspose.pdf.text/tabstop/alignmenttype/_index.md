@@ -7,11 +7,11 @@ description: "TabStop property. Gets or sets a AlignmentType enum that indicates
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/tabstop/alignmenttype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TabStop.AlignmentType property
 
-Gets or sets a `AlignmentType` enum that indicates the tab tab alignment type.
+Gets or sets a [`AlignmentType`](../alignmenttype/) enum that indicates the tab tab alignment type.
 
 ```csharp
 public TabAlignmentType AlignmentType { get; set; }
@@ -19,7 +19,7 @@ public TabAlignmentType AlignmentType { get; set; }
 
 ### See Also
 
-* enum [TabAlignmentType](../../../aspose.pdf.text/tabalignmenttype/)
+* enum [TabAlignmentType](../../tabalignmenttype/)
 * class [TabStop](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

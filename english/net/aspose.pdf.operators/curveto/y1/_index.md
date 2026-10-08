@@ -7,7 +7,7 @@ description: "CurveTo field. Gets or sets the Y1 coordinate."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/curveto/y1/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CurveTo.Y1 field
 

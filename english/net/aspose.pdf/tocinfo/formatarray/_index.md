@@ -7,7 +7,7 @@ description: "TocInfo property. Gets or sets format array for table of contents.
 type: docs
 weight: 30
 url: "/net/aspose.pdf/tocinfo/formatarray/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TocInfo.FormatArray property
 
@@ -19,7 +19,7 @@ public LevelFormat[] FormatArray { get; set; }
 
 ### See Also
 
-* class [LevelFormat](../../../aspose.pdf/levelformat/)
+* class [LevelFormat](../../levelformat/)
 * class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

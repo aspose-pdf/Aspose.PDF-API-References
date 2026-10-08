@@ -8,7 +8,7 @@ type: docs
 weight: 250
 url: "/net/aspose.pdf.text/markupsection/"
 keywords: "MarkupSection, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupSection class
 
@@ -22,9 +22,9 @@ public sealed class MarkupSection
 
 | Name | Description |
 | --- | --- |
-| [Fragments](./fragments/) { get; } | Collection of not empty [`TextFragment`](../../aspose.pdf.text/textfragment/) objects that are inside the section. |
-| [Paragraphs](./paragraphs/) { get; } | Collection of [`MarkupParagraph`](../../aspose.pdf.text/markupparagraph/) objects that are inside the section. |
-| [Rectangle](./rectangle/) { get; } | Section rectangle |
+| [Fragments](../../aspose.pdf.text/markupsection/fragments/) { get; } | Collection of not empty [`TextFragment`](../textfragment/) objects that are inside the section. |
+| [Paragraphs](../../aspose.pdf.text/markupsection/paragraphs/) { get; } | Collection of [`MarkupParagraph`](../markupparagraph/) objects that are inside the section. |
+| [Rectangle](../../aspose.pdf.text/markupsection/rectangle/) { get; } | Section rectangle |
 
 ### See Also
 

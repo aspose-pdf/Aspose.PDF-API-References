@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute Placement: End - Placed so that the
 type: docs
 weight: 90
 url: "/net/aspose.pdf.logicalstructure/attributename/placement_end/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.Placement_End field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName Placement_End;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

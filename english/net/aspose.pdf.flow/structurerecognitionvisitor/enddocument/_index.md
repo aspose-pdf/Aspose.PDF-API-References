@@ -7,7 +7,7 @@ description: "StructureRecognitionVisitor method. Signals the end of document pr
 type: docs
 weight: 30
 url: "/net/aspose.pdf.flow/structurerecognitionvisitor/enddocument/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureRecognitionVisitor.EndDocument method
 

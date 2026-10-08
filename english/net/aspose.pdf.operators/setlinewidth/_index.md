@@ -8,7 +8,7 @@ type: docs
 weight: 690
 url: "/net/aspose.pdf.operators/setlinewidth/"
 keywords: "SetLineWidth, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetLineWidth class
 
@@ -22,22 +22,21 @@ public class SetLineWidth : Operator
 
 | Name | Description |
 | --- | --- |
-| [SetLineWidth](./setlinewidth/)(double) | Initializes operator with width value. |
+| [SetLineWidth](setlinewidth/)(double) | Initializes operator with width value. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [Width](./width/) { get; set; } | Gets or sets width of the line. |
+| [Width](../../aspose.pdf.operators/setlinewidth/width/) { get; set; } | Gets or sets width of the line. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/setlinewidth/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/setlinewidth/tostring/)() | Returns text representation of operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also

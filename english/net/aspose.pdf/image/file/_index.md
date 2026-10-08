@@ -7,7 +7,7 @@ description: "Image property. Gets or sets the image file."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/image/file/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Image.File property
 

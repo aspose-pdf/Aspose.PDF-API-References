@@ -7,7 +7,7 @@ description: "BoundsCheckableList method. Returns an enumerator that iterates th
 type: docs
 weight: 40
 url: "/net/aspose.pdf/boundscheckablelist-1/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BoundsCheckableList<T>.GetEnumerator method
 
@@ -23,7 +23,7 @@ A Enumerator for the System.Collections.Generic.List.
 
 ### See Also
 
-* class [BoundsCheckableList<T>](../)
+* class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

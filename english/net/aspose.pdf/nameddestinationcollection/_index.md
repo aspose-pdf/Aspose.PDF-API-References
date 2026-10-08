@@ -8,7 +8,7 @@ type: docs
 weight: 1910
 url: "/net/aspose.pdf/nameddestinationcollection/"
 keywords: "NamedDestinationCollection, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## NamedDestinationCollection class
 
@@ -22,19 +22,20 @@ public class NamedDestinationCollection : INamedDestinationCollection
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Count of named destinations. |
-| [Item](./item/) { get; set; } | Gets or sets appointment by its name. |
-| [Names](./names/) { get; } | List of names of the destinations. |
+| [Count](../../aspose.pdf/nameddestinationcollection/count/) { get; } | Count of named destinations. |
+| [Item](../../aspose.pdf/nameddestinationcollection/item/) { get; set; } | Gets or sets appointment by its name. |
+| [Names](../../aspose.pdf/nameddestinationcollection/names/) { get; } | List of names of the destinations. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(string, IAppointment) | Add new named destination. |
-| [Remove](./remove/)(string) | Delete named destination. |
+| [Add](../../aspose.pdf/nameddestinationcollection/add/)(string, IAppointment) | Add new named destination. |
+| [Remove](../../aspose.pdf/nameddestinationcollection/remove/)(string) | Delete named destination. |
 
 ### See Also
 
+* interface [INamedDestinationCollection](../inameddestinationcollection/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
 

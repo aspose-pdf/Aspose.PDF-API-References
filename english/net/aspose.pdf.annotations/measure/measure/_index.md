@@ -7,7 +7,7 @@ description: "Measure constructor. Creates Measure object for measure annotation
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/measure/measure/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure constructor
 
@@ -23,7 +23,7 @@ public Measure(Annotation annotation)
 
 ### See Also
 
-* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [Annotation](../../annotation/)
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

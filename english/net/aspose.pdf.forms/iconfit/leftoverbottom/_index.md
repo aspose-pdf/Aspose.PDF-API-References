@@ -7,7 +7,7 @@ description: "IconFit property. Gets or sets space to allocate at the bottom of 
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/iconfit/leftoverbottom/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IconFit.LeftoverBottom property
 

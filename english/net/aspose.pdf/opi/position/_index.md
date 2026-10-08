@@ -7,7 +7,7 @@ description: "Opi property. Gets an array of eight numbers of the form specifyin
 type: docs
 weight: 40
 url: "/net/aspose.pdf/opi/position/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Opi.Position property
 

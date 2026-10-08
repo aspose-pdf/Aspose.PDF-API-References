@@ -7,7 +7,7 @@ description: "GraphicElementCollection method. Clears the collection."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.vector/graphicelementcollection/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicElementCollection.Clear method
 

@@ -7,7 +7,7 @@ description: "DocumentInfo method. Clears custom data only, leaves all other pre
 type: docs
 weight: 50
 url: "/net/aspose.pdf/documentinfo/clearcustomdata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentInfo.ClearCustomData method
 

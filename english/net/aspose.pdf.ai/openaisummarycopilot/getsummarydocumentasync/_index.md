@@ -7,7 +7,7 @@ description: "OpenAISummaryCopilot method."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/openaisummarycopilot/getsummarydocumentasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GetSummaryDocumentAsync(CancellationToken?) {#getsummarydocumentasync}
 
@@ -17,23 +17,16 @@ product_version: "26.9.0"
 public Task<Document> GetSummaryDocumentAsync(CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| cancellationToken | Nullable`1 |  |
-
-### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[Document](../../../aspose.pdf/document/)>
-
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [OpenAISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetSummaryDocumentAsync([PageInfo](../../../aspose.pdf/pageinfo/), CancellationToken?) {#getsummarydocumentasync_1}
+## GetSummaryDocumentAsync(PageInfo, CancellationToken?) {#getsummarydocumentasync_1}
 
 
 
@@ -42,17 +35,9 @@ public Task<Document> GetSummaryDocumentAsync(PageInfo pageInfo,
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageInfo | PageInfo |  |
-| cancellationToken | Nullable`1 |  |
-
-### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)<[Document](../../../aspose.pdf/document/)>
-
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [PageInfo](../../../aspose.pdf/pageinfo/)
 * class [OpenAISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)

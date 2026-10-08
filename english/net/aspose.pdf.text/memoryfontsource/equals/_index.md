@@ -7,7 +7,7 @@ description: "MemoryFontSource method. Check if font file source objects are equ
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/memoryfontsource/equals/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MemoryFontSource.Equals method
 

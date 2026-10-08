@@ -7,7 +7,7 @@ description: "CosPdfBoolean constructor. Initializes a new instance of the PdfBo
 type: docs
 weight: 10
 url: "/net/aspose.pdf.dataeditor/cospdfboolean/cospdfboolean/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfBoolean constructor
 

@@ -7,7 +7,7 @@ description: "DateComponent property. Gets or sets the format for the date compo
 type: docs
 weight: 30
 url: "/net/aspose.pdf/datecomponent/format/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DateComponent.Format property
 

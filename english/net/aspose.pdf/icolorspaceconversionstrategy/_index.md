@@ -7,7 +7,7 @@ description: "Aspose.Pdf.IColorSpaceConversionStrategy interface. Interface for 
 type: docs
 weight: 1380
 url: "/net/aspose.pdf/icolorspaceconversionstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IColorSpaceConversionStrategy interface
 
@@ -21,7 +21,7 @@ public interface IColorSpaceConversionStrategy
 
 | Name | Description |
 | --- | --- |
-| [Convert](./convert/)(Page) | Converts the page of document. |
+| [Convert](../../aspose.pdf/icolorspaceconversionstrategy/convert/)(Page) | Converts the page of document. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "FileSpecification property. Associated file Relationship."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/filespecification/afrelationship/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSpecification.AFRelationship property
 
@@ -19,7 +19,7 @@ public AFRelationship AFRelationship { get; set; }
 
 ### See Also
 
-* enum [AFRelationship](../../../aspose.pdf/afrelationship/)
+* enum [AFRelationship](../../afrelationship/)
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

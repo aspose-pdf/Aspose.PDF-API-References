@@ -7,7 +7,7 @@ description: "Metadata property. Gets or sets data from metadata."
 type: docs
 weight: 230
 url: "/net/aspose.pdf/metadata/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metadata indexer
 
@@ -27,7 +27,7 @@ Metadata object.
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../../xmpvalue/)
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

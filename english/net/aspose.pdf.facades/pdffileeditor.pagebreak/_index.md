@@ -8,7 +8,7 @@ type: docs
 weight: 390
 url: "/net/aspose.pdf.facades/pdffileeditor.pagebreak/"
 keywords: "PdfFileEditor.PageBreak, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.PageBreak class
 
@@ -22,14 +22,14 @@ public class PageBreak
 
 | Name | Description |
 | --- | --- |
-| [PageBreak](./pagebreak/)(int, double) | Constructor to create PageBreak object. |
+| [PageBreak](pagebreak/)(int, double) | Constructor to create PageBreak object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [PageNumber](./pagenumber/) { get; set; } | Number of page (starting from 1) where page break must be added. |
-| [Position](./position/) { get; set; } | Vertical position of page break. |
+| [PageNumber](../../aspose.pdf.facades/pdffileeditor.pagebreak/pagenumber/) { get; set; } | Number of page (starting from 1) where page break must be added. |
+| [Position](../../aspose.pdf.facades/pdffileeditor.pagebreak/position/) { get; set; } | Vertical position of page break. |
 
 ### See Also
 

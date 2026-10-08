@@ -7,7 +7,7 @@ description: "PaginationArtifact property. Gets or sets the subset of pages to w
 type: docs
 weight: 30
 url: "/net/aspose.pdf/paginationartifact/subset/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaginationArtifact.Subset property
 
@@ -19,7 +19,7 @@ public Subset Subset { get; set; }
 
 ### See Also
 
-* enum [Subset](../../../aspose.pdf/subset/)
+* enum [Subset](../../subset/)
 * class [PaginationArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

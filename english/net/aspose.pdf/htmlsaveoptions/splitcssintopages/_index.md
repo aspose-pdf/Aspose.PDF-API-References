@@ -7,7 +7,7 @@ description: "HtmlSaveOptions property. When multipage-mode selected(i.e 'SplitI
 type: docs
 weight: 80
 url: "/net/aspose.pdf/htmlsaveoptions/splitcssintopages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.SplitCssIntoPages property
 

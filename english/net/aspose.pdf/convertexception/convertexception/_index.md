@@ -7,11 +7,11 @@ description: "ConvertException constructor. Initializes a new instance of the Co
 type: docs
 weight: 10
 url: "/net/aspose.pdf/convertexception/convertexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ConvertException(string) {#constructor}
 
-Initializes a new instance of the [`ConvertException`](../../../aspose.pdf/convertexception/) class.
+Initializes a new instance of the [`ConvertException`](../) class.
 
 ```csharp
 public ConvertException(string message)
@@ -31,7 +31,7 @@ public ConvertException(string message)
 
 ## ConvertException(string, Exception) {#constructor_1}
 
-Initializes a new instance of the [`ConvertException`](../../../aspose.pdf/convertexception/) class.
+Initializes a new instance of the [`ConvertException`](../) class.
 
 ```csharp
 public ConvertException(string message, Exception innerException)

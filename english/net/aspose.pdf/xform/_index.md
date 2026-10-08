@@ -8,7 +8,7 @@ type: docs
 weight: 3150
 url: "/net/aspose.pdf/xform/"
 keywords: "XForm, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XForm class
 
@@ -22,25 +22,25 @@ public sealed class XForm : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [BBox](./bbox/) { get; set; } | Gets or sets form bounding box. |
-| [Contents](./contents/) { get; } | Gets operators of the form. |
-| [IT](./it/) { get; } | Gets form IT. Form IT is a name describing the intent of the XObject. |
-| [Matrix](./matrix/) { get; set; } | Gets or sets matrix of the form. |
-| [Name](./name/) { get; set; } | Gets or sets form name. Form name is name which used to reference form in XObejct ductionary in page resources. |
-| [Opi](./opi/) { get; } | Gets The Open Prepress Interface (OPI). |
-| [Rectangle](./rectangle/) { get; } | Gets or sets rectangel of the form. |
-| [Resources](./resources/) { get; } | Gets Form XObject resources. |
-| [Subtype](./subtype/) { get; } | Gets form Subtype. |
+| [BBox](../../aspose.pdf/xform/bbox/) { get; set; } | Gets or sets form bounding box. |
+| [Contents](../../aspose.pdf/xform/contents/) { get; } | Gets operators of the form. |
+| [IT](../../aspose.pdf/xform/it/) { get; } | Gets form IT. Form IT is a name describing the intent of the XObject. |
+| [Matrix](../../aspose.pdf/xform/matrix/) { get; set; } | Gets or sets matrix of the form. |
+| [Name](../../aspose.pdf/xform/name/) { get; set; } | Gets or sets form name. Form name is name which used to reference form in XObejct ductionary in page resources. |
+| [Opi](../../aspose.pdf/xform/opi/) { get; } | Gets The Open Prepress Interface (OPI). |
+| [Rectangle](../../aspose.pdf/xform/rectangle/) { get; } | Gets or sets rectangel of the form. |
+| [Resources](../../aspose.pdf/xform/resources/) { get; } | Gets Form XObject resources. |
+| [Subtype](../../aspose.pdf/xform/subtype/) { get; } | Gets form Subtype. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [CreateNewForm](./createnewform/)(Page, Document) | Creates XForm which duplicates contents of the page. |
-| [Dispose](./dispose/)() | Frees up memory |
-| [FreeMemory](./freememory/)() | Clears cached data |
-| [GetResources](./getresources/)() | Returns resources of Form X-Object. If For does not have resources and allowCreate is true, Resources will be automatically created for the form. |
-| [GetResources](./getresources/)(bool) | Returns resources of Form X-Object |
+| static [CreateNewForm](../../aspose.pdf/xform/createnewform/)(Page, Document) | Creates XForm which duplicates contents of the page. |
+| [Dispose](../../aspose.pdf/xform/dispose/)() | Frees up memory |
+| [FreeMemory](../../aspose.pdf/xform/freememory/)() | Clears cached data |
+| [GetResources](../../aspose.pdf/xform/getresources/#getresources)(bool) | Returns resources of Form X-Object |
+| [GetResources](../../aspose.pdf/xform/getresources/#getresources_1)() | Returns resources of Form X-Object. If For does not have resources and allowCreate is true, Resources will be automatically created for the form. |
 
 ### See Also
 

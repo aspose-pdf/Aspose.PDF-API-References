@@ -7,7 +7,7 @@ description: "Form method. Flattens a specified field with the fully qualified f
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/form/flattenfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.FlattenField method
 

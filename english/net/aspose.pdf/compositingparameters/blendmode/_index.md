@@ -7,7 +7,7 @@ description: "CompositingParameters property. Gets blend mode of current graphic
 type: docs
 weight: 40
 url: "/net/aspose.pdf/compositingparameters/blendmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompositingParameters.BlendMode property
 
@@ -19,7 +19,7 @@ public BlendMode BlendMode { get; }
 
 ### See Also
 
-* enum [BlendMode](../../../aspose.pdf/blendmode/)
+* enum [BlendMode](../../blendmode/)
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

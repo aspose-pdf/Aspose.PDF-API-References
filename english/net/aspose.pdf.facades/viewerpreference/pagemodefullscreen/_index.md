@@ -7,7 +7,7 @@ description: "ViewerPreference field. Full-screen mode, with no menu bar, window
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/viewerpreference/pagemodefullscreen/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ViewerPreference.PageModeFullScreen field
 

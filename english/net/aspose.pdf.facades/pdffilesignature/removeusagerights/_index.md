@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Removes the usage rights entry."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.facades/pdffilesignature/removeusagerights/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.RemoveUsageRights method
 

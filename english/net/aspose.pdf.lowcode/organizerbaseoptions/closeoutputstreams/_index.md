@@ -7,7 +7,7 @@ description: "OrganizerBaseOptions property. Close output streams after operatio
 type: docs
 weight: 60
 url: "/net/aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OrganizerBaseOptions.CloseOutputStreams property
 

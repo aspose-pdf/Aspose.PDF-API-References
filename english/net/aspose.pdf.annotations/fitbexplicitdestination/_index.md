@@ -8,7 +8,7 @@ type: docs
 weight: 350
 url: "/net/aspose.pdf.annotations/fitbexplicitdestination/"
 keywords: "FitBExplicitDestination, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FitBExplicitDestination class
 
@@ -22,8 +22,8 @@ public sealed class FitBExplicitDestination : ExplicitDestination
 
 | Name | Description |
 | --- | --- |
-| [FitBExplicitDestination](./fitbexplicitdestination/#constructor)(int) | Creates remote explicit destination. |
-| [FitBExplicitDestination](./fitbexplicitdestination/#constructor_1)(Page) | Creates local explicit destination. |
+| [FitBExplicitDestination](fitbexplicitdestination/#constructor)(Page) | Creates local explicit destination. |
+| [FitBExplicitDestination](fitbexplicitdestination/#constructor_1)(int) | Creates remote explicit destination. |
 
 ## Properties
 
@@ -36,8 +36,7 @@ public sealed class FitBExplicitDestination : ExplicitDestination
 
 | Name | Description |
 | --- | --- |
-| static [CreateDestination](../../aspose.pdf.annotations/explicitdestination/createdestination/)(Page, ExplicitDestinationType, params double[]) | Creates instances of ExplicitDestination descendant classes. |
-| override [ToString](./tostring/)() | Converts the object state into string value. Example: "1 FitB". |
+| override [ToString](../../aspose.pdf.annotations/fitbexplicitdestination/tostring/)() | Converts the object state into string value. Example: "1 FitB". |
 
 ### See Also
 

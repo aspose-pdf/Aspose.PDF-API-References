@@ -7,7 +7,7 @@ description: "PrinterResolution method. Provides some interesting information ab
 type: docs
 weight: 20
 url: "/net/aspose.pdf.printing/printerresolution/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterResolution.ToString method
 

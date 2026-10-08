@@ -7,7 +7,7 @@ description: "PdfFileSanitization property. Allows to remove data before pdf dat
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/pdffilesanitization/usetrimtop/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSanitization.UseTrimTop property
 

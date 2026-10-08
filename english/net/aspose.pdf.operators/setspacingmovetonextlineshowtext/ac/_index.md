@@ -7,7 +7,7 @@ description: "SetSpacingMoveToNextLineShowText property. Get character spacing."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/ac/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetSpacingMoveToNextLineShowText.Ac property
 

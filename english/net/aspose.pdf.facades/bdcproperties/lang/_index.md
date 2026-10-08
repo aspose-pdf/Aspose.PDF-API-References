@@ -7,7 +7,7 @@ description: "BDCProperties property. Gets/sets Language value."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/bdcproperties/lang/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BDCProperties.Lang property
 

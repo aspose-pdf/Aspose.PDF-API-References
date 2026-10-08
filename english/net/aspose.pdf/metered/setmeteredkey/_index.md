@@ -7,7 +7,7 @@ description: "Metered method. Sets metered public and private key. If you purcha
 type: docs
 weight: 20
 url: "/net/aspose.pdf/metered/setmeteredkey/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metered.SetMeteredKey method
 

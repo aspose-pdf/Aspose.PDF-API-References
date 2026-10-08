@@ -7,7 +7,7 @@ description: "BuildVersionInfo field. Assembly Version"
 type: docs
 weight: 20
 url: "/net/aspose.pdf/buildversioninfo/assemblyversion/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BuildVersionInfo.AssemblyVersion field
 

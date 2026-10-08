@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates ParagraphElement."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.tagged/itaggedcontent/createparagraphelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateParagraphElement method
 

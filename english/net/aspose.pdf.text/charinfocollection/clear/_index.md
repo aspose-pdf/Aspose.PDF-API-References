@@ -7,7 +7,7 @@ description: "CharInfoCollection method. Collection is read-only. Always throws 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/charinfocollection/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CharInfoCollection.Clear method
 

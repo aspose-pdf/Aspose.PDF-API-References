@@ -8,7 +8,7 @@ type: docs
 weight: 2350
 url: "/net/aspose.pdf/pdfanonspecificationflags/"
 keywords: "PdfANonSpecificationFlags, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfANonSpecificationFlags class
 
@@ -25,13 +25,13 @@ public class PdfANonSpecificationFlags
 
 | Name | Description |
 | --- | --- |
-| [PdfANonSpecificationFlags](./pdfanonspecificationflags/)() | The default constructor. |
+| [PdfANonSpecificationFlags](pdfanonspecificationflags/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CheckDifferentNamesInFontDictionaries](./checkdifferentnamesinfontdictionaries/) { get; set; } | Some PDF documents contain fonts which have different names in internal data. Use of this flag enforces special processing logic for cases when fields BaseFont and FontDescriptor.FontName are different. |
+| [CheckDifferentNamesInFontDictionaries](../../aspose.pdf/pdfanonspecificationflags/checkdifferentnamesinfontdictionaries/) { get; set; } | Some PDF documents contain fonts which have different names in internal data. Use of this flag enforces special processing logic for cases when fields BaseFont and FontDescriptor.FontName are different. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "OrganizerBaseOptions property. Close input streams after operation
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/organizerbaseoptions/closeinputstreams/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OrganizerBaseOptions.CloseInputStreams property
 

@@ -7,7 +7,7 @@ description: "TextFragmentAbsorber property. Gets or sets text extraction option
 type: docs
 weight: 300
 url: "/net/aspose.pdf.text/textfragmentabsorber/extractionoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentAbsorber.ExtractionOptions property
 
@@ -19,7 +19,7 @@ public override TextExtractionOptions ExtractionOptions { get; set; }
 
 ### See Also
 
-* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextExtractionOptions](../../textextractionoptions/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

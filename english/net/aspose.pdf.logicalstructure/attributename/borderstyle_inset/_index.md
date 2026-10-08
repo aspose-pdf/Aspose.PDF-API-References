@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute BorderStyle: Inset - The border mak
 type: docs
 weight: 210
 url: "/net/aspose.pdf.logicalstructure/attributename/borderstyle_inset/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.BorderStyle_Inset field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName BorderStyle_Inset;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

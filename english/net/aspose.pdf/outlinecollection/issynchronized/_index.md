@@ -7,7 +7,7 @@ description: "OutlineCollection property. Gets a value indicating whether access
 type: docs
 weight: 140
 url: "/net/aspose.pdf/outlinecollection/issynchronized/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineCollection.IsSynchronized property
 

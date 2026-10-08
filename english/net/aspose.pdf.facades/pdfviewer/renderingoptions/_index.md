@@ -7,7 +7,7 @@ description: "PdfViewer property. Gets or sets rendering options."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.facades/pdfviewer/renderingoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.RenderingOptions property
 

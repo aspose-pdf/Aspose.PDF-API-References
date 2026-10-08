@@ -7,7 +7,7 @@ description: "PdfConverter property. Gets the page count."
 type: docs
 weight: 630
 url: "/net/aspose.pdf.facades/pdfconverter/pagecount/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfConverter.PageCount property
 

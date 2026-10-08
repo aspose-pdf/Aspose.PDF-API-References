@@ -7,21 +7,23 @@ description: "PaperSizes field. Letter extra paper (9.275 in. by 12 in.)."
 type: docs
 weight: 480
 url: "/net/aspose.pdf.printing/papersizes/letterextra/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.LetterExtra field
 
 Letter extra paper (9.275 in. by 12 in.).
 
-This value is specific to the PostScript driver and is used only by Linotronic printers in order to conserve paper.
-
 ```csharp
 public static readonly PaperSize LetterExtra;
 ```
 
+## Remarks
+
+This value is specific to the PostScript driver and is used only by Linotronic printers in order to conserve paper.
+
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

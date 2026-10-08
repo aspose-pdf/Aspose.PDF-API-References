@@ -7,7 +7,7 @@ description: "PdfViewer property. Gets or sets form presentation mode."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.facades/pdfviewer/formpresentationmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.FormPresentationMode property
 

@@ -7,7 +7,7 @@ description: "PdfFileStamp property. Gets height of first page in souorce file."
 type: docs
 weight: 310
 url: "/net/aspose.pdf.facades/pdffilestamp/pageheight/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileStamp.PageHeight property
 

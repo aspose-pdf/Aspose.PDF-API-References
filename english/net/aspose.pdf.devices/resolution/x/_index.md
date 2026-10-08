@@ -7,7 +7,7 @@ description: "Resolution property. Gets or sets horizontal image resolution."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.devices/resolution/x/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Resolution.X property
 

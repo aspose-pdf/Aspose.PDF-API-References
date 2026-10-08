@@ -7,7 +7,7 @@ description: "SaveOptions property. Gets or sets boolean value which indicates i
 type: docs
 weight: 40
 url: "/net/aspose.pdf/saveoptions/cacheglyphs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.CacheGlyphs property
 

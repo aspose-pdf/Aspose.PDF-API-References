@@ -7,7 +7,7 @@ description: "PdfFileEditor property. If true then field names will be made uniq
 type: docs
 weight: 1170
 url: "/net/aspose.pdf.facades/pdffileeditor/keepfieldsunique/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.KeepFieldsUnique property
 

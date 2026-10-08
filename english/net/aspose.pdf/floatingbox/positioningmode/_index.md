@@ -7,7 +7,7 @@ description: "FloatingBox property. Specifies variant for determining the locati
 type: docs
 weight: 130
 url: "/net/aspose.pdf/floatingbox/positioningmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FloatingBox.PositioningMode property
 
@@ -19,7 +19,7 @@ public ParagraphPositioningMode PositioningMode { get; set; }
 
 ### See Also
 
-* enum [ParagraphPositioningMode](../../../aspose.pdf/paragraphpositioningmode/)
+* enum [ParagraphPositioningMode](../../paragraphpositioningmode/)
 * class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

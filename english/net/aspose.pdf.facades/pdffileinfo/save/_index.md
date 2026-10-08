@@ -7,7 +7,7 @@ description: "PdfFileInfo method. Saves the PDF document to the specified file."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/pdffileinfo/save/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Save(Stream) {#save}
 

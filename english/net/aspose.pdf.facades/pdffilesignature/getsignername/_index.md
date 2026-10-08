@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Gets the name of person or organization w
 type: docs
 weight: 270
 url: "/net/aspose.pdf.facades/pdffilesignature/getsignername/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.GetSignerName method
 
@@ -27,7 +27,7 @@ Returns the result of the signer's name.
 
 ### See Also
 
-* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "AutoFiller method. Closes the object and output streams."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/autofiller/close/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AutoFiller.Close method
 

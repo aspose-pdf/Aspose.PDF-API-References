@@ -8,7 +8,7 @@ type: docs
 weight: 100
 url: "/net/aspose.pdf.devices/gifdevice/"
 keywords: "GifDevice, Aspose.Pdf.Devices, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GifDevice class
 
@@ -22,12 +22,12 @@ public sealed class GifDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [GifDevice](./gifdevice/#constructor)() | Initializes a new instance of the [`GifDevice`](../../aspose.pdf.devices/gifdevice/) class with default resolution. |
-| [GifDevice](./gifdevice/#constructor_1)(PageSize) | Initializes a new instance of the [`GifDevice`](../../aspose.pdf.devices/gifdevice/) class with provided page size, default resolution (=150). |
-| [GifDevice](./gifdevice/#constructor_2)(Resolution) | Initializes a new instance of the [`GifDevice`](../../aspose.pdf.devices/gifdevice/) class. |
-| [GifDevice](./gifdevice/#constructor_3)(int, int) | Initializes a new instance of the [`GifDevice`](../../aspose.pdf.devices/gifdevice/) class with provided image dimensions, default resolution (=150). |
-| [GifDevice](./gifdevice/#constructor_4)(PageSize, Resolution) | Initializes a new instance of the [`GifDevice`](../../aspose.pdf.devices/gifdevice/) class with provided page size and resolution. |
-| [GifDevice](./gifdevice/#constructor_5)(int, int, Resolution) | Initializes a new instance of the [`GifDevice`](../../aspose.pdf.devices/gifdevice/) class with provided image dimensions and resolution. |
+| [GifDevice](gifdevice/#constructor)() | Initializes a new instance of the `GifDevice` class with default resolution. |
+| [GifDevice](gifdevice/#constructor_1)(Resolution) | Initializes a new instance of the `GifDevice` class. Resolution for the result image file, see [`Resolution`](../resolution/) class. |
+| [GifDevice](gifdevice/#constructor_2)(int, int, Resolution) | Initializes a new instance of the `GifDevice` class with provided image dimensions and resolution. |
+| [GifDevice](gifdevice/#constructor_3)(PageSize, Resolution) | Initializes a new instance of the `GifDevice` class with provided page size and resolution. |
+| [GifDevice](gifdevice/#constructor_4)(int, int) | Initializes a new instance of the `GifDevice` class with provided image dimensions, default resolution (=150). |
+| [GifDevice](gifdevice/#constructor_5)(PageSize) | Initializes a new instance of the `GifDevice` class with provided page size, default resolution (=150). |
 
 ## Properties
 
@@ -44,8 +44,9 @@ public sealed class GifDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Converts the page into `Bitmap`. |
-| override [Process](./process/)(Page, Stream) | Converts the page into gif and saves it in the output stream. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Converts the page into Bitmap. |
+| override [Process](../../aspose.pdf.devices/gifdevice/process/)(Page, Stream) | Converts the page into gif and saves it in the output stream. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
 
 ### See Also
 

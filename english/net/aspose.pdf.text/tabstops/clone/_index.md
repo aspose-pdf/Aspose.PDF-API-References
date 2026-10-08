@@ -7,11 +7,11 @@ description: "TabStops method. Clones a new TabStops objects."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/tabstops/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TabStops.Clone method
 
-Clones a new [`TabStops`](../../../aspose.pdf.text/tabstops/) objects.
+Clones a new [`TabStops`](../) objects.
 
 ```csharp
 public object Clone()
@@ -19,7 +19,7 @@ public object Clone()
 
 ### Return Value
 
-The new [`TabStops`](../../../aspose.pdf.text/tabstops/) object.
+The new [`TabStops`](../) object.
 
 ### See Also
 

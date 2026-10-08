@@ -7,7 +7,7 @@ description: "VectorStoreFileResponse property. Gets or sets the total vector st
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/vectorstorefileresponse/usagebytes/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileResponse.UsageBytes property
 

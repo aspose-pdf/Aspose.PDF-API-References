@@ -7,11 +7,11 @@ description: "PdfException constructor. Initializes a new instance of the PdfExc
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pdfexception/pdfexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfException() {#constructor}
 
-Initializes a new instance of the [`PdfException`](../../../aspose.pdf/pdfexception/) class.
+Initializes a new instance of the [`PdfException`](../) class.
 
 ```csharp
 public PdfException()
@@ -25,29 +25,9 @@ public PdfException()
 
 ---
 
-## PdfException(Exception) {#constructor_1}
+## PdfException(string) {#constructor_1}
 
-Initializes a new instance of the [`PdfException`](../../../aspose.pdf/pdfexception/) class with a reference to the inner exception that is the cause of this exception.
-
-```csharp
-public PdfException(Exception innerException)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
-
-### See Also
-
-* class [PdfException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## PdfException(string) {#constructor_2}
-
-Initializes a new instance of the [`PdfException`](../../../aspose.pdf/pdfexception/) class.
+Initializes a new instance of the [`PdfException`](../) class.
 
 ```csharp
 public PdfException(string message)
@@ -65,9 +45,9 @@ public PdfException(string message)
 
 ---
 
-## PdfException(string, Exception) {#constructor_3}
+## PdfException(string, Exception) {#constructor_2}
 
-Initializes a new instance of the [`PdfException`](../../../aspose.pdf/pdfexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [`PdfException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
 ```csharp
 public PdfException(string message, Exception innerException)
@@ -76,6 +56,26 @@ public PdfException(string message, Exception innerException)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | message | String | The error message that explains the reason for the exception. |
+| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
+
+### See Also
+
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfException(Exception) {#constructor_3}
+
+Initializes a new instance of the [`PdfException`](../) class with a reference to the inner exception that is the cause of this exception.
+
+```csharp
+public PdfException(Exception innerException)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
 | innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 
 ### See Also

@@ -7,7 +7,7 @@ description: "XFA method. Sets image for XFA field."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/xfa/setfieldimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFA.SetFieldImage method
 

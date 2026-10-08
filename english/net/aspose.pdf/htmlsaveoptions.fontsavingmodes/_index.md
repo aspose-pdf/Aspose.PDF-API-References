@@ -7,7 +7,7 @@ description: "Aspose.Pdf.HtmlSaveOptions.FontSavingModes enum. Enumerates modes 
 type: docs
 weight: 1250
 url: "/net/aspose.pdf/htmlsaveoptions.fontsavingmodes/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.FontSavingModes enumeration
 
@@ -25,8 +25,7 @@ public enum FontSavingModes
 | AlwaysSaveAsWOFF | `0` | All referenced fonts will be saved and referenced as WOFF-fonts. |
 | AlwaysSaveAsTTF | `1` | All referenced fonts will be saved and referenced as TTF-fonts. |
 | AlwaysSaveAsEOT | `2` | All referenced fonts will be saved and referenced as EOT-fonts. |
-| SaveInAllFormats | `3` | All referenced fonts will be saved (and referenced in CSS) as 3 independent files : EOT, TTH, WOFF.
- It increases size of output data but makes output suitable for overwhelming majority of web browsers . |
+| SaveInAllFormats | `3` | All referenced fonts will be saved (and referenced in CSS) as 3 independent files : EOT, TTH, WOFF. It increases size of output data but makes output suitable for overwhelming majority of web browsers . |
 | DontSave | `4` | All referenced fonts will not be saved. |
 
 ### See Also

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.ITeXInputDirectory interface. Interface of generalized 
 type: docs
 weight: 1440
 url: "/net/aspose.pdf/itexinputdirectory/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITeXInputDirectory interface
 
@@ -21,7 +21,7 @@ public interface ITeXInputDirectory : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [GetFile](./getfile/)(string, out string, bool) | Returns the stream to read from or to write to. |
+| [GetFile](../../aspose.pdf/itexinputdirectory/getfile/)(string, out string, bool) | Returns the stream to read from or to write to. |
 
 ### See Also
 

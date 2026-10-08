@@ -7,7 +7,7 @@ description: "Matrix method. Multiplies the matrix by other matrix."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/matrix/multiply/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix.Multiply method
 
@@ -35,7 +35,7 @@ Matrix c= a.Multiply(b);
 
 ### See Also
 
-* class [Matrix](../../../aspose.pdf/matrix/)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

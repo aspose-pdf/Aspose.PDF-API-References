@@ -7,7 +7,7 @@ description: "Aspose.Pdf.HtmlPageLayoutOption enum. Specifies flags that togethe
 type: docs
 weight: 1170
 url: "/net/aspose.pdf/htmlpagelayoutoption/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlPageLayoutOption enumeration
 

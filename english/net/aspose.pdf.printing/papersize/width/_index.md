@@ -7,7 +7,7 @@ description: "PaperSize property. Gets or sets the width of the paper, in hundre
 type: docs
 weight: 70
 url: "/net/aspose.pdf.printing/papersize/width/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSize.Width property
 

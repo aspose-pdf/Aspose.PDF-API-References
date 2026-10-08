@@ -7,7 +7,7 @@ description: "StructureAttribute method."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.logicalstructure/structureattribute/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureAttribute.ToString method
 
@@ -16,10 +16,6 @@ product_version: "26.9.0"
 ```csharp
 public override string ToString()
 ```
-
-### Return Value
-
-string
 
 ### See Also
 

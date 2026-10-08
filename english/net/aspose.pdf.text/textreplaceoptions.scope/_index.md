@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Text.TextReplaceOptions.Scope enum. Scope where replace
 type: docs
 weight: 650
 url: "/net/aspose.pdf.text/textreplaceoptions.scope/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextReplaceOptions.Scope enumeration
 

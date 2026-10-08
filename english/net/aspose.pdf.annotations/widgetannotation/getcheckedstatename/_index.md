@@ -7,7 +7,7 @@ description: "WidgetAnnotation method. Returns name of \"checked\" state accordi
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/widgetannotation/getcheckedstatename/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WidgetAnnotation.GetCheckedStateName method
 

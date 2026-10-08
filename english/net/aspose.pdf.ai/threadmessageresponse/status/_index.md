@@ -7,7 +7,7 @@ description: "ThreadMessageResponse property. Gets or sets the status of the mes
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/threadmessageresponse/status/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadMessageResponse.Status property
 

@@ -7,7 +7,7 @@ description: "SetRGBColor method. Returns color specified by operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setrgbcolor/getcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetRGBColor.getColor method
 
@@ -23,7 +23,6 @@ Color specified by operator.
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
 * class [SetRGBColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

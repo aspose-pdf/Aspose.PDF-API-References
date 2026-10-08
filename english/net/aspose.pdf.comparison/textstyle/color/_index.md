@@ -7,7 +7,7 @@ description: "TextStyle property. Gets and sets the text color."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/textstyle/color/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStyle.Color property
 

@@ -7,7 +7,7 @@ description: "XfdfReader method. Import field values from XFDF file."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/xfdfreader/readfields/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XfdfReader.ReadFields method
 

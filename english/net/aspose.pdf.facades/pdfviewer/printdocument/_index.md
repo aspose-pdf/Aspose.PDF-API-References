@@ -7,7 +7,7 @@ description: "PdfViewer method. Prints the Pdf document using default printer."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.facades/pdfviewer/printdocument/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.PrintDocument method
 

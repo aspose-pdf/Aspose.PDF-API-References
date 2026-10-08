@@ -7,7 +7,7 @@ description: "RenderingOptions property. Replaces fonts as necessary to ensure a
 type: docs
 weight: 140
 url: "/net/aspose.pdf/renderingoptions/analyzefonts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenderingOptions.AnalyzeFonts property
 

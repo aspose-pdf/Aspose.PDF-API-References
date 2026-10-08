@@ -7,7 +7,7 @@ description: "Document property. Gets or sets optimization flag. When pages are 
 type: docs
 weight: 1550
 url: "/net/aspose.pdf/document/optimizesize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.OptimizeSize property
 

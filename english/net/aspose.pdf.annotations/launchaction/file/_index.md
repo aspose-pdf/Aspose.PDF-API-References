@@ -7,7 +7,7 @@ description: "LaunchAction property. Gets or sets the application to be launched
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/launchaction/file/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LaunchAction.File property
 

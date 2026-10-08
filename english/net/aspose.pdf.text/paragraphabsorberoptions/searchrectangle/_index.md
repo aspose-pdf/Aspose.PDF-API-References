@@ -7,7 +7,7 @@ description: "ParagraphAbsorberOptions property. Gets or sets paragraph search r
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/paragraphabsorberoptions/searchrectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ParagraphAbsorberOptions.SearchRectangle property
 
@@ -19,7 +19,7 @@ public Rectangle SearchRectangle { get; set; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ParagraphAbsorberOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

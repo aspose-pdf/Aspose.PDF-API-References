@@ -8,7 +8,7 @@ type: docs
 weight: 420
 url: "/net/aspose.pdf.facades/pdffilesanitization/"
 keywords: "PdfFileSanitization, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSanitization class
 
@@ -23,33 +23,33 @@ public sealed class PdfFileSanitization : SaveableFacade
 
 | Name | Description |
 | --- | --- |
-| [PdfFileSanitization](./pdffilesanitization/)() | The default constructor. |
+| [PdfFileSanitization](pdffilesanitization/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Document](../../aspose.pdf.facades/facade/document/) { get; } | Gets the document facade is working on. |
-| [Log](./log/) { get; } | After file has Saved you can check what was done with file. |
-| [UseRebuildXrefAndTrailer](./userebuildxrefandtrailer/) { get; set; } | Allows to generate new xref and trailer for document. |
-| [UseTrimBottom](./usetrimbottom/) { get; set; } | Allows to remove data after pdf data |
-| [UseTrimTop](./usetrimtop/) { get; set; } | Allows to remove data before pdf data. |
+| [Log](../../aspose.pdf.facades/pdffilesanitization/log/) { get; } | After file has Saved you can check what was done with file. |
+| [UseRebuildXrefAndTrailer](../../aspose.pdf.facades/pdffilesanitization/userebuildxrefandtrailer/) { get; set; } | Allows to generate new xref and trailer for document. |
+| [UseTrimBottom](../../aspose.pdf.facades/pdffilesanitization/usetrimbottom/) { get; set; } | Allows to remove data after pdf data |
+| [UseTrimTop](../../aspose.pdf.facades/pdffilesanitization/usetrimtop/) { get; set; } | Allows to remove data before pdf data. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [BindPdf](./bindpdf/)(Document) | Initializes the facade. |
-| override [BindPdf](./bindpdf/)(Stream) | Binds a Pdf stream for Sanitize. |
-| override [BindPdf](./bindpdf/)(string) | Binds a Pdf file for Sanitize. |
-| override [Close](./close/)() | Closes the facade. |
+| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf/#bindpdf)(string) | Binds a Pdf file for Sanitize. |
+| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf/#bindpdf_1)(Stream) | Binds a Pdf stream for Sanitize. |
+| override [BindPdf](../../aspose.pdf.facades/pdffilesanitization/bindpdf/#bindpdf_2)(Document) | Initializes the facade. |
+| override [Close](../../aspose.pdf.facades/pdffilesanitization/close/)() | Closes the facade. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Disposes the facade. |
-| [RebuildXrefAndTrailer](./rebuildxrefandtrailer/)() | Removes old xref with trailer and creates a new xref with trailer. |
-| [Recover](./recover/)() | Recovers document. Use properties to customize. |
-| override [Save](./save/)(Stream) | Saves the result PDF to stream. |
-| override [Save](./save/)(string) | Saves the result PDF to file. |
-| [TrimBottom](./trimbottom/)() | Removes data after last %%EOF. |
-| [TrimTop](./trimtop/)() | Removes data before %PDF. |
+| [RebuildXrefAndTrailer](../../aspose.pdf.facades/pdffilesanitization/rebuildxrefandtrailer/)() | Removes old xref with trailer and creates a new xref with trailer. |
+| [Recover](../../aspose.pdf.facades/pdffilesanitization/recover/)() | Recovers document. Use properties to customize. |
+| override [Save](../../aspose.pdf.facades/pdffilesanitization/save/#save)(string) | Saves the result PDF to file. |
+| override [Save](../../aspose.pdf.facades/pdffilesanitization/save/#save_1)(Stream) | Saves the result PDF to stream. |
+| [TrimBottom](../../aspose.pdf.facades/pdffilesanitization/trimbottom/)() | Removes data after last %%EOF. |
+| [TrimTop](../../aspose.pdf.facades/pdffilesanitization/trimtop/)() | Removes data before %PDF. |
 
 ### See Also
 

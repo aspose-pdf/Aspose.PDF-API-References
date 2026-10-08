@@ -7,9 +7,9 @@ description: "Color method. Gets valid pdf Color object from System.Drawing.Colo
 type: docs
 weight: 50
 url: "/net/aspose.pdf/color/fromrgb/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## FromRgb([Color](../../../aspose.pdf/color/)) {#fromrgb}
+## FromRgb(Color) {#fromrgb}
 
 Gets valid pdf Color object from System.Drawing.Color value.
 
@@ -27,7 +27,7 @@ Color object with each component value in [0..1] range.
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -53,7 +53,7 @@ Color object with each component value in [0..1] range.
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

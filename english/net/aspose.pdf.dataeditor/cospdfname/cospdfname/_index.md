@@ -7,11 +7,11 @@ description: "CosPdfName constructor. Initializes a new instance of the CosPdfNa
 type: docs
 weight: 10
 url: "/net/aspose.pdf.dataeditor/cospdfname/cospdfname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfName constructor
 
-Initializes a new instance of the [`CosPdfName`](../../../aspose.pdf.dataeditor/cospdfname/) class.
+Initializes a new instance of the [`CosPdfName`](../) class.
 
 ```csharp
 public CosPdfName(string value)

@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates TableTHElement."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.tagged/itaggedcontent/createtablethelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateTableTHElement method
 

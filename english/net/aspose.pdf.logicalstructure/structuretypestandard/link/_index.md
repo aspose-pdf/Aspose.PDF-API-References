@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Link) An association between a porti
 type: docs
 weight: 420
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/link/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.Link field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard Link;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

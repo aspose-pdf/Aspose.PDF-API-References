@@ -7,7 +7,7 @@ description: "Aspose.Pdf.AI.ISummaryClient interface. Represents an interface fo
 type: docs
 weight: 630
 url: "/net/aspose.pdf.ai/isummaryclient-1/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ISummaryClient&lt;TOptions&gt; interface
 
@@ -17,20 +17,19 @@ Represents an interface for a summary client with specific options.
 public interface ISummaryClient<in TOptions> : IAIClient
 ```
 
-## Type Parameters
-
-| Name | Description |
+| Parameter | Description |
 | --- | --- |
-| TOptions |  |
+| TOptions | The type of options for the summary client. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetSummaryCopilot](./getsummarycopilot/)(ISummaryCopilotOptions<TOptions>) | Gets an instance of [`ISummaryCopilot`](../../aspose.pdf.ai/isummarycopilot/) with the specified options. |
+| [GetSummaryCopilot](../../aspose.pdf.ai/isummaryclient-1/getsummarycopilot/)(ISummaryCopilotOptions&lt;TOptions&gt;) | Gets an instance of [`ISummaryCopilot`](../isummarycopilot/) with the specified options. |
 
 ### See Also
 
+* interface [IAIClient](../iaiclient/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
 

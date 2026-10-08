@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.SoundIcon enum. Enumerates the icons to be 
 type: docs
 weight: 1190
 url: "/net/aspose.pdf.annotations/soundicon/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SoundIcon enumeration
 

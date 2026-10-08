@@ -7,17 +7,19 @@ description: "StructureTextState property. Gets or sets horizontal scaling of th
 type: docs
 weight: 100
 url: "/net/aspose.pdf.logicalstructure/structuretextstate/horizontalscaling/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTextState.HorizontalScaling property
 
 Gets or sets horizontal scaling of the text.
 
-Can be null. Use null to inherit `HorizontalScaling` property from parent structure element.
-
 ```csharp
 public float? HorizontalScaling { get; set; }
 ```
+
+## Remarks
+
+Can be null. Use null to inherit `HorizontalScaling` property from parent structure element.
 
 ### See Also
 

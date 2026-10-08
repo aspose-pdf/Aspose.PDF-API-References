@@ -7,7 +7,7 @@ description: "LinkAnnotation property. A destination to be displayed when the an
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/linkannotation/destination/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LinkAnnotation.Destination property
 
@@ -19,7 +19,7 @@ public IAppointment Destination { get; set; }
 
 ### See Also
 
-* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* interface [IAppointment](../../iappointment/)
 * class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

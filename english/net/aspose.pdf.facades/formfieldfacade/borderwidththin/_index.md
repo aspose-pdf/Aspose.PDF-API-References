@@ -7,7 +7,7 @@ description: "FormFieldFacade field. Defines a thin border width."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.facades/formfieldfacade/borderwidththin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.BorderWidthThin field
 

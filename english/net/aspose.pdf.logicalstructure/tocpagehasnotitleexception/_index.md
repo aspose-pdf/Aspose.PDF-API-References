@@ -8,7 +8,7 @@ type: docs
 weight: 610
 url: "/net/aspose.pdf.logicalstructure/tocpagehasnotitleexception/"
 keywords: "TOCpageHasNoTitleException, Aspose.Pdf.LogicalStructure, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TOCpageHasNoTitleException class
 
@@ -22,13 +22,7 @@ public class TOCpageHasNoTitleException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [TOCpageHasNoTitleException](./tocpagehasnotitleexception/)(string) | Initializes a new instance of the TOCpageHasNoTitleException class. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
+| [TOCpageHasNoTitleException](tocpagehasnotitleexception/)(string) | Initializes a new instance of the TOCpageHasNoTitleException class. |
 
 ### See Also
 

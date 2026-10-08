@@ -7,7 +7,7 @@ description: "FormOptions method. Adds new data source to the Form... plugins da
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/formoptions/addoutput/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormOptions.AddOutput method
 
@@ -29,7 +29,7 @@ public void AddOutput(IDataSource saveDataSource)
 
 ### See Also
 
-* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
+* interface [IDataSource](../../idatasource/)
 * class [FormOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

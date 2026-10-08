@@ -8,7 +8,7 @@ type: docs
 weight: 150
 url: "/net/aspose.pdf.security/unsignedcontentabsorber/"
 keywords: "UnsignedContentAbsorber, Aspose.Pdf.Security, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnsignedContentAbsorber class
 
@@ -22,13 +22,13 @@ public sealed class UnsignedContentAbsorber
 
 | Name | Description |
 | --- | --- |
-| [UnsignedContentAbsorber](./unsignedcontentabsorber/)(PdfFileSignature) | Represents a class used for processing unsigned content. |
+| [UnsignedContentAbsorber](unsignedcontentabsorber/)(PdfFileSignature) | Represents a class used for processing unsigned content. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [TryGetContent](./trygetcontent/)() | Attempt to retrieve the unsigned content from the associated document. |
+| [TryGetContent](../../aspose.pdf.security/unsignedcontentabsorber/trygetcontent/)() | Attempt to retrieve the unsigned content from the associated document. |
 
 ## Other Members
 

@@ -7,7 +7,7 @@ description: "CreateEmbeddingResponse property. Gets or sets a list of embedding
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/createembeddingresponse/data/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateEmbeddingResponse.Data property
 
@@ -19,6 +19,7 @@ public List<Embedding> Data { get; set; }
 
 ### See Also
 
+* class [Embedding](../../embedding/)
 * class [CreateEmbeddingResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

@@ -8,7 +8,7 @@ type: docs
 weight: 430
 url: "/net/aspose.pdf.ai/filesearch/"
 keywords: "FileSearch, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSearch class
 
@@ -22,14 +22,14 @@ public class FileSearch
 
 | Name | Description |
 | --- | --- |
-| [FileSearch](./filesearch/)() | The default constructor. |
+| [FileSearch](filesearch/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreIds](./vectorstoreids/) { get; set; } | Gets or sets the ID of the vector store attached to this assistant. There can be a maximum of 1 vector store attached to the assistant. |
-| [VectorStores](./vectorstores/) { get; set; } | Gets or sets the helper to create a vector store with file_ids and attach it to this thread. There can be a maximum of 1 vector store attached to the thread. |
+| [VectorStoreIds](../../aspose.pdf.ai/filesearch/vectorstoreids/) { get; set; } | Gets or sets the ID of the vector store attached to this assistant. There can be a maximum of 1 vector store attached to the assistant. |
+| [VectorStores](../../aspose.pdf.ai/filesearch/vectorstores/) { get; set; } | Gets or sets the helper to create a vector store with file_ids and attach it to this thread. There can be a maximum of 1 vector store attached to the thread. |
 
 ### See Also
 

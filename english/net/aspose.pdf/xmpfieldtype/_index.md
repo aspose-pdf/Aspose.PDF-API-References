@@ -7,7 +7,7 @@ description: "Aspose.Pdf.XmpFieldType enum. This enum represents types of a XMP 
 type: docs
 weight: 3230
 url: "/net/aspose.pdf/xmpfieldtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpFieldType enumeration
 

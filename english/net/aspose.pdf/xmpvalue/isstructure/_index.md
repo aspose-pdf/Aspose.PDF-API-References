@@ -7,7 +7,7 @@ description: "XmpValue property. Returns true is XmpValue represents structure."
 type: docs
 weight: 370
 url: "/net/aspose.pdf/xmpvalue/isstructure/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpValue.IsStructure property
 

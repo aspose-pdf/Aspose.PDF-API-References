@@ -7,7 +7,7 @@ description: "Document method. Remove pdfa compliance from the document"
 type: docs
 weight: 210
 url: "/net/aspose.pdf/document/removepdfacompliance/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.RemovePdfaCompliance method
 

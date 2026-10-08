@@ -7,7 +7,7 @@ description: "DocumentExtensions method. For Images in Resources if two pages ch
 type: docs
 weight: 10
 url: "/net/aspose.pdf/documentextensions/splitsharedimages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentExtensions.SplitSharedImages method
 
@@ -25,8 +25,8 @@ public static void SplitSharedImages(this Document doc, Page page_1, Page page_2
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [Page](../../../aspose.pdf/page/)
+* class [Document](../../document/)
+* class [Page](../../page/)
 * class [DocumentExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

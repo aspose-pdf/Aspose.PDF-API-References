@@ -8,7 +8,7 @@ type: docs
 weight: 2800
 url: "/net/aspose.pdf/signaturescompromisedetector/"
 keywords: "SignaturesCompromiseDetector, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignaturesCompromiseDetector class
 
@@ -22,13 +22,13 @@ public sealed class SignaturesCompromiseDetector
 
 | Name | Description |
 | --- | --- |
-| [SignaturesCompromiseDetector](./signaturescompromisedetector/)(Document) | Creates an instance of [`SignaturesCompromiseDetector`](../../aspose.pdf/signaturescompromisedetector/) class. |
+| [SignaturesCompromiseDetector](signaturescompromisedetector/)(Document) | Creates an instance of `SignaturesCompromiseDetector` class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Check](./check/)(out CompromiseCheckResult) | Check the digital signatures of the document for compromise. |
+| [Check](../../aspose.pdf/signaturescompromisedetector/check/)(out CompromiseCheckResult) | Check the digital signatures of the document for compromise. |
 
 ## Remarks
 

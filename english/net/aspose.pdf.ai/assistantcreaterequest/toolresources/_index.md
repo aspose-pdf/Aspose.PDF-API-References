@@ -7,7 +7,7 @@ description: "AssistantCreateRequest property. Gets or sets resources that are u
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/assistantcreaterequest/toolresources/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantCreateRequest.ToolResources property
 
@@ -21,7 +21,7 @@ public ToolResources ToolResources { get; set; }
 
 ### See Also
 
-* class [ToolResources](../../../aspose.pdf.ai/toolresources/)
+* class [ToolResources](../../toolresources/)
 * class [AssistantCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

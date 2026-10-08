@@ -7,7 +7,7 @@ description: "FormEditor method. Adds new item to the list box."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.facades/formeditor/addlistitem/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AddListItem(string, string) {#addlistitem}
 

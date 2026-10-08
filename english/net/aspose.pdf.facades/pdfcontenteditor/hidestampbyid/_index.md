@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Hides the stamp. After hiding, stamp visi
 type: docs
 weight: 570
 url: "/net/aspose.pdf.facades/pdfcontenteditor/hidestampbyid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.HideStampById method
 

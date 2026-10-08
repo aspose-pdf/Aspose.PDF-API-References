@@ -7,7 +7,7 @@ description: "ActionCollection method. Adds new action into colleciton."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/actioncollection/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ActionCollection.Add method
 
@@ -23,7 +23,7 @@ public void Add(PdfAction action)
 
 ### See Also
 
-* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [PdfAction](../../pdfaction/)
 * class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

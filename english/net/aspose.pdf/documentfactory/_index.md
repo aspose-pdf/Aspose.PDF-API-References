@@ -8,7 +8,7 @@ type: docs
 weight: 690
 url: "/net/aspose.pdf/documentfactory/"
 keywords: "DocumentFactory, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentFactory class
 
@@ -22,17 +22,17 @@ public class DocumentFactory
 
 | Name | Description |
 | --- | --- |
-| [DocumentFactory](./documentfactory/)() | The default constructor. |
+| [DocumentFactory](documentfactory/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CreateDocument](./createdocument/)() | Create empty document. |
-| [CreateDocument](./createdocument/)(Stream) | Load document from a stream. |
-| [CreateDocument](./createdocument/)(string) | Load document from a file. |
-| [CreateDocument](./createdocument/)(Stream, LoadOptions) | Create document. |
-| [CreateDocument](./createdocument/)(Stream, string) | Load password protected document from a stream. |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument)(Stream, LoadOptions) | Create document. |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_1)() | Create empty document. |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_2)(Stream) | Load document from a stream. |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_3)(Stream, string) | Load password protected document from a stream. |
+| [CreateDocument](../../aspose.pdf/documentfactory/createdocument/#createdocument_4)(string) | Load document from a file. |
 
 ### See Also
 

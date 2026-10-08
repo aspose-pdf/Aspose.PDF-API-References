@@ -7,7 +7,7 @@ description: "TextFragment property. Gets rectangle of the TextFragment"
 type: docs
 weight: 170
 url: "/net/aspose.pdf.text/textfragment/rectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragment.Rectangle property
 
@@ -19,7 +19,7 @@ public Rectangle Rectangle { get; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

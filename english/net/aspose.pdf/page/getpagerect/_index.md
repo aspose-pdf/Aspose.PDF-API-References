@@ -7,7 +7,7 @@ description: "Page method. Returns rectangle of the page according to its CropBo
 type: docs
 weight: 90
 url: "/net/aspose.pdf/page/getpagerect/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.GetPageRect method
 
@@ -27,7 +27,7 @@ Rectangle of the page.
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../rectangle/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "PaperSizes field. Japanese rotated double postcard (148 mm by 200 
 type: docs
 weight: 800
 url: "/net/aspose.pdf.printing/papersizes/japanesedoublepostcardrotated/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.JapaneseDoublePostcardRotated field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize JapaneseDoublePostcardRotated;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

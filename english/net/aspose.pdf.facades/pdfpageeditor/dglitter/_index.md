@@ -7,7 +7,7 @@ description: "PdfPageEditor field. Diagonal Glitter"
 type: docs
 weight: 360
 url: "/net/aspose.pdf.facades/pdfpageeditor/dglitter/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.DGLITTER field
 

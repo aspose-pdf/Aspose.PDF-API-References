@@ -7,7 +7,7 @@ description: "RunThreadCreateRequest property. Gets or sets a request to create 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/runthreadcreaterequest/thread/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunThreadCreateRequest.Thread property
 
@@ -19,7 +19,7 @@ public ThreadCreateRequest Thread { get; set; }
 
 ### See Also
 
-* class [ThreadCreateRequest](../../../aspose.pdf.ai/threadcreaterequest/)
+* class [ThreadCreateRequest](../../threadcreaterequest/)
 * class [RunThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

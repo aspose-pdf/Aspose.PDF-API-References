@@ -7,7 +7,7 @@ description: "To property of such type You can assign delegate created from cust
 type: docs
 weight: 2860
 url: "/net/aspose.pdf/svgsaveoptions.embeddedimagessavingstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SvgSaveOptions.EmbeddedImagesSavingStrategy delegate
 
@@ -21,16 +21,11 @@ To property of such type You can assign delegate created from custom method that
  If processing for this or that file for some reason must be done by converter's code itself, not in custom code,
  please set in custom code flag 'CustomProcessingCancelled' of 'imageSavingInfo' parameter's variable
  It signals to converter that all the necessary steps for processing of that resource 
- must be done in converter itself as if there was no any external custom code .
- represents information about saved image that can be use in custom code must return string that represents URL of image that will be put into SVG
+ must be done in converter itself as if there was no any external custom code . represents information about saved image that can be use in custom codemust return string that represents URL of image that will be put into SVG
 
 ```csharp
 public delegate string EmbeddedImagesSavingStrategy(SvgImageSavingInfo imageSavingInfo);
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| imageSavingInfo | SvgImageSavingInfo | represents information about saved image that can be use in custom code |
 
 ### Return Value
 
@@ -38,6 +33,7 @@ must return string that represents URL of image that will be put into SVG
 
 ### See Also
 
+* class [SvgImageSavingInfo](../svgsaveoptions.svgimagesavinginfo/)
 * class [SvgSaveOptions](../svgsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)

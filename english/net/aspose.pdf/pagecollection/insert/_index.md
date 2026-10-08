@@ -7,7 +7,7 @@ description: "PageCollection method. Insert an empty page into the collection at
 type: docs
 weight: 120
 url: "/net/aspose.pdf/pagecollection/insert/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Insert(int) {#insert}
 
@@ -30,35 +30,14 @@ Inserted page.
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Insert(int, ICollection<Page>) {#insert_1}
-
-Inserts pages from the collection into document.
-
-```csharp
-public void Insert(int pageNumber, ICollection<Page> pages)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageNumber | Int32 | Starting position of the new pages. |
-| pages | ICollection`1 | Pages collection. |
-
-### See Also
-
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Insert(int, [Page](../../../aspose.pdf/page/)) {#insert_2}
+## Insert(int, Page) {#insert_1}
 
 Inserts page into page collection at specified place.
 
@@ -77,7 +56,29 @@ Inserted page.
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Insert(int, ICollection&lt;Page&gt;) {#insert_2}
+
+Inserts pages from the collection into document.
+
+```csharp
+public void Insert(int pageNumber, ICollection<Page> pages)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageNumber | Int32 | Starting position of the new pages. |
+| pages | ICollection`1 | Pages collection. |
+
+### See Also
+
+* class [Page](../../page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -99,7 +100,7 @@ public void Insert(int pageNumber, Page[] pages)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

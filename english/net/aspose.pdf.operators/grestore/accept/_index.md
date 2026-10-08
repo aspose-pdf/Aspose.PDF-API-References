@@ -7,7 +7,7 @@ description: "GRestore method. Accepts visitor object to process operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/grestore/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GRestore.Accept method
 

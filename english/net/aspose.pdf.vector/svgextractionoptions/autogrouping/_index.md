@@ -7,12 +7,12 @@ description: "SvgExtractionOptions property. Gets and sets the option to automat
 type: docs
 weight: 80
 url: "/net/aspose.pdf.vector/svgextractionoptions/autogrouping/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SvgExtractionOptions.AutoGrouping property
 
 Gets and sets the option to automatically group subpaths into images.
- This option excludes the `GroupStrength` option.
+ This option excludes the [`GroupStrength`](../groupstrength/) option.
 
 ```csharp
 public bool AutoGrouping { get; set; }

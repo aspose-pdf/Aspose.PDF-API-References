@@ -7,7 +7,7 @@ description: "TextFormattingOptions property. Gets or sets first line indent val
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/textformattingoptions/firstlineindent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFormattingOptions.FirstLineIndent property
 

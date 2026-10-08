@@ -7,11 +7,11 @@ description: "Resources property. Gets Fonts resources collection"
 type: docs
 weight: 60
 url: "/net/aspose.pdf/resources/fonts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Resources.Fonts property
 
-Gets `Fonts` resources collection
+Gets [`Fonts`](../fonts/) resources collection
 
 ```csharp
 public FontCollection Fonts { get; }

@@ -8,7 +8,7 @@ type: docs
 weight: 2510
 url: "/net/aspose.pdf/point/"
 keywords: "Point, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Point class
 
@@ -22,23 +22,23 @@ public sealed class Point
 
 | Name | Description |
 | --- | --- |
-| [Point](./point/)(double, double) | Initializes new instance of the [`Point`](../../aspose.pdf/point/). |
+| [Point](point/)(double, double) | Initializes new instance of the `Point`. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| static [Trivial](./trivial/) { get; } | Gets point with zero coordinates. |
-| [X](./x/) { get; set; } | X coordinate value. |
-| [Y](./y/) { get; set; } | Y coordinate value. |
+| static [Trivial](../../aspose.pdf/point/trivial/) { get; } | Gets point with zero coordinates. |
+| [X](../../aspose.pdf/point/x/) { get; set; } | X coordinate value. |
+| [Y](../../aspose.pdf/point/y/) { get; set; } | Y coordinate value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Distance](./distance/)(Point, Point) | Calculates distance between two points. |
-| [ToPoint](./topoint/)() | Converts point into System.Drawing.PointF object. |
-| override [ToString](./tostring/)() | Return string represention current point. |
+| static [Distance](../../aspose.pdf/point/distance/)(Point, Point) | Calculates distance between two points. |
+| [ToPoint](../../aspose.pdf/point/topoint/)() | Converts point into System.Drawing.PointF object. |
+| override [ToString](../../aspose.pdf/point/tostring/)() | Return string represention current point. |
 
 ### See Also
 

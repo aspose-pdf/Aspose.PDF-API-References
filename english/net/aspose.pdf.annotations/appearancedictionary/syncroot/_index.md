@@ -7,7 +7,7 @@ description: "AppearanceDictionary property. Gets an object that can be used to 
 type: docs
 weight: 170
 url: "/net/aspose.pdf.annotations/appearancedictionary/syncroot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AppearanceDictionary.SyncRoot property
 

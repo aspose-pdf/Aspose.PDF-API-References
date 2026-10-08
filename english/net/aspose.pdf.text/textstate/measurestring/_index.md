@@ -7,7 +7,7 @@ description: "TextState method. Measures the string."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/textstate/measurestring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextState.MeasureString method
 

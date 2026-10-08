@@ -7,7 +7,7 @@ description: "AbsorbedRow method. Compares the current AbsorbedRow object with a
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/absorbedrow/compareto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AbsorbedRow.CompareTo method
 
@@ -30,7 +30,7 @@ A value that indicates the relative order of the objects being compared. The ret
 
 ### See Also
 
-* class [AbsorbedRow](../../../aspose.pdf.text/absorbedrow/)
+* class [AbsorbedRow](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 

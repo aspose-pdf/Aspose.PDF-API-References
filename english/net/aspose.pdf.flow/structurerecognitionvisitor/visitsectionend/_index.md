@@ -7,7 +7,7 @@ description: "StructureRecognitionVisitor method. Visits the end of a recognized
 type: docs
 weight: 60
 url: "/net/aspose.pdf.flow/structurerecognitionvisitor/visitsectionend/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureRecognitionVisitor.VisitSectionEnd method
 

@@ -7,7 +7,7 @@ description: "GraphicElementCollection method. Copies the entire collection to a
 type: docs
 weight: 60
 url: "/net/aspose.pdf.vector/graphicelementcollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicElementCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public void CopyTo(GraphicElement[] array, int arrayIndex)
 
 ### See Also
 
-* class [GraphicElement](../../../aspose.pdf.vector/graphicelement/)
+* class [GraphicElement](../../graphicelement/)
 * class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

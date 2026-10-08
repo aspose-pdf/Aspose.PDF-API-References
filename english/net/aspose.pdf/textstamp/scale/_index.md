@@ -7,7 +7,7 @@ description: "TextStamp property. Defines scaling of the text. If this property 
 type: docs
 weight: 90
 url: "/net/aspose.pdf/textstamp/scale/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStamp.Scale property
 

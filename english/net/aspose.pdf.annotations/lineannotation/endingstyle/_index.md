@@ -7,7 +7,7 @@ description: "LineAnnotation property. Gets or sets ending style for end point o
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/lineannotation/endingstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineAnnotation.EndingStyle property
 
@@ -19,7 +19,7 @@ public LineEnding EndingStyle { get; set; }
 
 ### See Also
 
-* enum [LineEnding](../../../aspose.pdf.annotations/lineending/)
+* enum [LineEnding](../../lineending/)
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

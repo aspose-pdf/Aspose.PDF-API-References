@@ -8,7 +8,7 @@ type: docs
 weight: 3120
 url: "/net/aspose.pdf/watermark/"
 keywords: "Watermark, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Watermark class
 
@@ -22,16 +22,16 @@ public class Watermark
 
 | Name | Description |
 | --- | --- |
-| [Watermark](./watermark/#constructor)(Image) | Initializes a watermark object with an image. |
-| [Watermark](./watermark/#constructor_1)(Image, Rectangle) | Initializes a watermark object with an image and it's position on a page. |
+| [Watermark](watermark/#constructor)(Image, Rectangle) | Initializes a watermark object with an image and it's position on a page. |
+| [Watermark](watermark/#constructor_1)(Image) | Initializes a watermark object with an image. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Available](./available/) { get; } | Gets a flag the watermark is present. |
-| [Image](./image/) { get; } | Gets an image of the watermark. |
-| [Position](./position/) { get; } | Gets a position of the watermark's image on a page. |
+| [Available](../../aspose.pdf/watermark/available/) { get; } | Gets a flag the watermark is present. |
+| [Image](../../aspose.pdf/watermark/image/) { get; } | Gets an image of the watermark. |
+| [Position](../../aspose.pdf/watermark/position/) { get; } | Gets a position of the watermark's image on a page. |
 
 ### See Also
 

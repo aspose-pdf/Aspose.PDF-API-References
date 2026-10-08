@@ -7,7 +7,7 @@ description: "PdfToImage method. Implementation of . Actually, it is not necessa
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/pdftoimage/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfToImage.Dispose method
 

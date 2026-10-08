@@ -7,7 +7,7 @@ description: "PdfExtractor property. Gets or sets end page in the page range whe
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/pdfextractor/endpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractor.EndPage property
 

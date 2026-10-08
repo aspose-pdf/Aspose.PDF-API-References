@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Direction enum. Text direction."
 type: docs
 weight: 560
 url: "/net/aspose.pdf/direction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Direction enumeration
 

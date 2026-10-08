@@ -7,7 +7,7 @@ description: "FormEditor method. Set field flags"
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/formeditor/setfieldappearance/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.SetFieldAppearance method
 

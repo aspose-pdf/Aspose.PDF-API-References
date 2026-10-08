@@ -7,7 +7,7 @@ description: "Document property. Get and set the file size limit for loading an 
 type: docs
 weight: 1610
 url: "/net/aspose.pdf/document/filesizelimittomemoryloading/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.FileSizeLimitToMemoryLoading property
 

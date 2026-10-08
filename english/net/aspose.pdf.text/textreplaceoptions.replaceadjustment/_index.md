@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Text.TextReplaceOptions.ReplaceAdjustment enum. Determi
 type: docs
 weight: 640
 url: "/net/aspose.pdf.text/textreplaceoptions.replaceadjustment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextReplaceOptions.ReplaceAdjustment enumeration
 
@@ -30,8 +30,7 @@ public enum ReplaceAdjustment
 | None | `0` | No action, replaced text may overlaps rest of the line |
 | AdjustSpaceWidth | `1` | Tries adjust spaces between words to keep line length |
 | WholeWordsHyphenation | `2` | Tries distribute words between paragraph lines to keep paragraph's right field |
-| IsFormFillingMode | `4` | Tries to spread the words in the available white space using the paragraph width.
- If the text overflows, it will be hidden. |
+| IsFormFillingMode | `4` | Tries to spread the words in the available white space using the paragraph width. If the text overflows, it will be hidden. |
 | ShiftRestOfLine | `8` | (Default) Shifts rest of the line according to changing length of text, length of the line may be changed |
 
 ### See Also

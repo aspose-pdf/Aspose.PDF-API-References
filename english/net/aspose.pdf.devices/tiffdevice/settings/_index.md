@@ -7,7 +7,7 @@ description: "TiffDevice property. Gets settings for mapping pdf into tiff image
 type: docs
 weight: 240
 url: "/net/aspose.pdf.devices/tiffdevice/settings/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TiffDevice.Settings property
 
@@ -19,7 +19,7 @@ public TiffSettings Settings { get; }
 
 ### See Also
 
-* class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
+* class [TiffSettings](../../tiffsettings/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "VerificationResult property. Gets the message associated with the 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security/verificationresult/message/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VerificationResult.Message property
 

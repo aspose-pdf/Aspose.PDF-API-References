@@ -7,7 +7,7 @@ description: "TextReplaceOptions property. Gets or sets a scope where replace te
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/textreplaceoptions/replacescope/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextReplaceOptions.ReplaceScope property
 
@@ -19,6 +19,7 @@ public Scope ReplaceScope { get; set; }
 
 ### See Also
 
+* enum [Scope](../../textreplaceoptions.scope/)
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

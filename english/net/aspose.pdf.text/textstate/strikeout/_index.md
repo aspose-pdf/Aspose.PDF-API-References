@@ -7,11 +7,11 @@ description: "TextState property. Gets or sets strikeout for the text, represent
 type: docs
 weight: 250
 url: "/net/aspose.pdf.text/textstate/strikeout/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextState.StrikeOut property
 
-Gets or sets strikeout for the text, represented by the [`TextSegment`](../../../aspose.pdf.text/textsegment/) object
+Gets or sets strikeout for the text, represented by the [`TextSegment`](../../textsegment/) object
 
 ```csharp
 public virtual bool StrikeOut { get; set; }

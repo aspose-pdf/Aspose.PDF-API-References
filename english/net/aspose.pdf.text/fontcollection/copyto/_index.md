@@ -7,7 +7,7 @@ description: "FontCollection method. Copies the entire collection to a compatibl
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/fontcollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public void CopyTo(Font[] array, int index)
 
 ### See Also
 
-* class [Font](../../../aspose.pdf.text/font/)
+* class [Font](../../font/)
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

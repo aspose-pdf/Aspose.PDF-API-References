@@ -7,11 +7,11 @@ description: "TabStop constructor. Initializes a new instance of the TabStop cla
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/tabstop/tabstop/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TabStop() {#constructor}
 
-Initializes a new instance of the [`TabStop`](../../../aspose.pdf.text/tabstop/) class.
+Initializes a new instance of the [`TabStop`](../) class.
 
 ```csharp
 public TabStop()
@@ -27,7 +27,7 @@ public TabStop()
 
 ## TabStop(float) {#constructor_1}
 
-Initializes a new instance of the [`TabStop`](../../../aspose.pdf.text/tabstop/) class with specified position.
+Initializes a new instance of the [`TabStop`](../) class with specified position.
 
 ```csharp
 public TabStop(float position)

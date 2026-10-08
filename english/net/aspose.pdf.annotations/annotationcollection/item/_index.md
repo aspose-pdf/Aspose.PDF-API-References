@@ -7,7 +7,7 @@ description: "AnnotationCollection property. The index of the element to get."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.annotations/annotationcollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AnnotationCollection indexer
 
@@ -27,7 +27,7 @@ Annotation object
 
 ### See Also
 
-* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [Annotation](../../annotation/)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

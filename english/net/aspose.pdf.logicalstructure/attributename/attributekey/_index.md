@@ -7,7 +7,7 @@ description: "AttributeName property. Gets attribute key."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/attributename/attributekey/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.AttributeKey property
 
@@ -19,7 +19,7 @@ public AttributeKey AttributeKey { get; }
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../../attributekey/)
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

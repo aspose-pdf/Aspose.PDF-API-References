@@ -7,7 +7,7 @@ description: "XmpValue property. Returns true if value is integer."
 type: docs
 weight: 300
 url: "/net/aspose.pdf/xmpvalue/isinteger/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpValue.IsInteger property
 

@@ -7,11 +7,11 @@ description: "TableOptions method. Create instance of TableOptions."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/tableoptions/create/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableOptions.Create method
 
-Create instance of [`TableOptions`](../../../aspose.pdf.lowcode/tableoptions/).
+Create instance of [`TableOptions`](../).
 
 ```csharp
 public static TableOptions Create()
@@ -19,11 +19,11 @@ public static TableOptions Create()
 
 ### Return Value
 
-New instance of [`TableOptions`](../../../aspose.pdf.lowcode/tableoptions/).
+New instance of [`TableOptions`](../).
 
 ### See Also
 
-* class [TableOptions](../../../aspose.pdf.lowcode/tableoptions/)
+* class [TableOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)
 

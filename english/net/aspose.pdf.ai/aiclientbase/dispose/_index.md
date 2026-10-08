@@ -7,11 +7,11 @@ description: "AIClientBase method. Disposes of the resources used by the AIClien
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/aiclientbase/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AIClientBase.Dispose method
 
-Disposes of the resources used by the [`AIClientBase`](../../../aspose.pdf.ai/aiclientbase/).
+Disposes of the resources used by the [`AIClientBase`](../).
 
 ```csharp
 public void Dispose()

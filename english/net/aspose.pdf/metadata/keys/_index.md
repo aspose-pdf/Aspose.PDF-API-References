@@ -7,7 +7,7 @@ description: "Metadata property. Gets collection of metadata keys."
 type: docs
 weight: 200
 url: "/net/aspose.pdf/metadata/keys/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metadata.Keys property
 

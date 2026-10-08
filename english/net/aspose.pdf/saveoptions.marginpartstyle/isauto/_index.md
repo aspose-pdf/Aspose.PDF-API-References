@@ -7,7 +7,7 @@ description: "MarginPartStyle property. Gets or sets a value indicating whether 
 type: docs
 weight: 30
 url: "/net/aspose.pdf/saveoptions.marginpartstyle/isauto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.MarginPartStyle.IsAuto property
 
@@ -23,7 +23,7 @@ public bool IsAuto { get; set; }
 
 ### See Also
 
-* class [SaveOptions.MarginPartStyle](../)
+* class [MarginPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

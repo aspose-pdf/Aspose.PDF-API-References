@@ -7,7 +7,7 @@ description: "Field property. Gets number of subfields in this field. (For examp
 type: docs
 weight: 160
 url: "/net/aspose.pdf.forms/field/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Field.Count property
 

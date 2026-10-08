@@ -8,7 +8,7 @@ type: docs
 weight: 320
 url: "/net/aspose.pdf.annotations/fdfreader/"
 keywords: "FdfReader, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FdfReader class
 
@@ -32,7 +32,7 @@ doc.Save("example_out.pdf");
 
 | Name | Description |
 | --- | --- |
-| static [ReadAnnotations](./readannotations/)(Stream, Document) | Import annotations from FDF file and put them into document. |
+| static [ReadAnnotations](../../aspose.pdf.annotations/fdfreader/readannotations/)(Stream, Document) | Import annotations from FDF file and put them into document. |
 
 ### See Also
 

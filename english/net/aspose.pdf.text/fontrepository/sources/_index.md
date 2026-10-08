@@ -7,7 +7,7 @@ description: "FontRepository property. Gets font sources collection."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.text/fontrepository/sources/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontRepository.Sources property
 
@@ -19,7 +19,7 @@ public static FontSourceCollection Sources { get; }
 
 ### See Also
 
-* class [FontSourceCollection](../../../aspose.pdf.text/fontsourcecollection/)
+* class [FontSourceCollection](../../fontsourcecollection/)
 * class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

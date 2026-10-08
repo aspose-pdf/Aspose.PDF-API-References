@@ -7,7 +7,7 @@ description: "AttributeOwnerStandard field. PrintField attribute owner."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/printfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeOwnerStandard.PrintField field
 
@@ -19,7 +19,7 @@ public static readonly AttributeOwnerStandard PrintField;
 
 ### See Also
 
-* class [AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
+* class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

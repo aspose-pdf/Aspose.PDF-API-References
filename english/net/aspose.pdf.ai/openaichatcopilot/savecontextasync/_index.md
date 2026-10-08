@@ -7,7 +7,7 @@ description: "OpenAIChatCopilot method."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/openaichatcopilot/savecontextasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIChatCopilot.SaveContextAsync method
 
@@ -16,15 +16,6 @@ product_version: "26.9.0"
 ```csharp
 public Task SaveContextAsync(string jsonFilePath, CancellationToken? cancellationToken)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| jsonFilePath | String |  |
-| cancellationToken | Nullable`1 |  |
-
-### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "SetLineJoin property."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/setlinejoin/join/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetLineJoin.Join property
 
@@ -19,7 +19,7 @@ public LineJoin Join { get; set; }
 
 ### See Also
 
-* enum [LineJoin](../../../aspose.pdf.operators/linejoin/)
+* enum [LineJoin](../../linejoin/)
 * class [SetLineJoin](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

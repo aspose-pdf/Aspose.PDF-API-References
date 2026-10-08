@@ -7,7 +7,7 @@ description: "DocumentPrivilege property. All Forbidded."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.facades/documentprivilege/forbidall/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.ForbidAll property
 
@@ -19,7 +19,7 @@ public static DocumentPrivilege ForbidAll { get; }
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

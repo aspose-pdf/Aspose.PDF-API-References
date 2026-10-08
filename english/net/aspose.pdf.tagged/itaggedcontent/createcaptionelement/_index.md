@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates CaptionElement."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.tagged/itaggedcontent/createcaptionelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateCaptionElement method
 

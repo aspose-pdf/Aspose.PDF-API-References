@@ -7,9 +7,9 @@ description: "PageCollection method. Accepts AnnotationSelector visitor object t
 type: docs
 weight: 100
 url: "/net/aspose.pdf/pagecollection/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Accept([AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)) {#accept}
+## Accept(AnnotationSelector) {#accept}
 
 Accepts [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) visitor object that provides functionality to work with annotations.
 
@@ -30,9 +30,9 @@ public void Accept(AnnotationSelector visitor)
 
 ---
 
-## Accept([ImagePlacementAbsorber](../../../aspose.pdf/imageplacementabsorber/)) {#accept_1}
+## Accept(ImagePlacementAbsorber) {#accept_1}
 
-Accepts [`ImagePlacementAbsorber`](../../../aspose.pdf/imageplacementabsorber/) visitor object that provides functionality to work with image placement objects.
+Accepts [`ImagePlacementAbsorber`](../../imageplacementabsorber/) visitor object that provides functionality to work with image placement objects.
 
 ```csharp
 public void Accept(ImagePlacementAbsorber visitor)
@@ -44,41 +44,35 @@ public void Accept(ImagePlacementAbsorber visitor)
 
 ### See Also
 
-* class [ImagePlacementAbsorber](../../../aspose.pdf/imageplacementabsorber/)
+* class [ImagePlacementAbsorber](../../imageplacementabsorber/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Accept([OcrTextAbsorber](../../../aspose.pdf.ocr/ocrtextabsorber/)) {#accept_2}
+## Accept(TextFragmentAbsorber) {#accept_2}
 
-Accepts an [`OcrTextAbsorber`](../../../aspose.pdf.ocr/ocrtextabsorber/) that extracts plain text from these pages using OCR.
+Accepts [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) visitor object that provides functionality to work with text objects.
 
 ```csharp
-public void Accept(OcrTextAbsorber visitor)
+public void Accept(TextFragmentAbsorber visitor)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | OcrTextAbsorber | The OCR text absorber to apply to these pages. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | Thrown when *visitor* is <see langword="null" />. |
+| visitor | TextFragmentAbsorber | Text fragment absorber object. |
 
 ### See Also
 
-* class [OcrTextAbsorber](../../../aspose.pdf.ocr/ocrtextabsorber/)
+* class [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Accept([TextAbsorber](../../../aspose.pdf.text/textabsorber/)) {#accept_3}
+## Accept(TextAbsorber) {#accept_3}
 
 Accepts [`TextAbsorber`](../../../aspose.pdf.text/textabsorber/) visitor object that provides functionality to work with text objects.
 
@@ -99,21 +93,27 @@ public void Accept(TextAbsorber visitor)
 
 ---
 
-## Accept([TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)) {#accept_4}
+## Accept(OcrTextAbsorber) {#accept_4}
 
-Accepts [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) visitor object that provides functionality to work with text objects.
+Accepts an [`OcrTextAbsorber`](../../../aspose.pdf.ocr/ocrtextabsorber/) that extracts plain text from these pages using OCR.
 
 ```csharp
-public void Accept(TextFragmentAbsorber visitor)
+public void Accept(OcrTextAbsorber visitor)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | TextFragmentAbsorber | Text fragment absorber object. |
+| visitor | OcrTextAbsorber | The OCR text absorber to apply to these pages. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | Thrown when *visitor* is `null`. |
 
 ### See Also
 
-* class [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
+* class [OcrTextAbsorber](../../../aspose.pdf.ocr/ocrtextabsorber/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

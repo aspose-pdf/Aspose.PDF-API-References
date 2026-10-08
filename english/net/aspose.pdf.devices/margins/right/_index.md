@@ -7,7 +7,7 @@ description: "Margins property. Gets or sets the right."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.devices/margins/right/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Margins.Right property
 

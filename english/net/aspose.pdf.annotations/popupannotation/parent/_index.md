@@ -7,7 +7,7 @@ description: "PopupAnnotation property. Gets or sets the parent annotation with 
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/popupannotation/parent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PopupAnnotation.Parent property
 
@@ -20,7 +20,7 @@ public Annotation Parent { get; set; }
 
 ### See Also
 
-* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [Annotation](../../annotation/)
 * class [PopupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

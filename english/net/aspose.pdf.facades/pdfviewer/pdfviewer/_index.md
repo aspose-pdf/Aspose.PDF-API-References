@@ -7,11 +7,11 @@ description: "PdfViewer constructor. Initializes new PdfViewer object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfviewer/pdfviewer/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer() {#constructor}
 
-Initializes new [`PdfViewer`](../../../aspose.pdf.facades/pdfviewer/) object.
+Initializes new [`PdfViewer`](../) object.
 
 ```csharp
 public PdfViewer()
@@ -25,9 +25,9 @@ public PdfViewer()
 
 ---
 
-## PdfViewer([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## PdfViewer(Document) {#constructor_1}
 
-Initializes new [`PdfViewer`](../../../aspose.pdf.facades/pdfviewer/) object.
+Initializes new [`PdfViewer`](../) object.
 
 ```csharp
 public PdfViewer(Document document)

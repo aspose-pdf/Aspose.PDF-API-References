@@ -7,7 +7,7 @@ description: "LicenseInfo property. Gets the list of licensed products."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/licenseinfo/products/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LicenseInfo.Products property
 

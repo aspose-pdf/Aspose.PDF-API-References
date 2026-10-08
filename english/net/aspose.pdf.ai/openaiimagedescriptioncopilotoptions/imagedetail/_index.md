@@ -7,7 +7,7 @@ description: "OpenAIImageDescriptionCopilotOptions property. Gets or sets the de
 type: docs
 weight: 180
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/imagedetail/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIImageDescriptionCopilotOptions.ImageDetail property
 

@@ -7,7 +7,7 @@ description: "VerificationResult property. Gets the exception associated with th
 type: docs
 weight: 40
 url: "/net/aspose.pdf.security/verificationresult/verificationexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VerificationResult.VerificationException property
 

@@ -7,11 +7,11 @@ description: "OpenAIClient method. Gets an instance of ISummaryCopilot with the 
 type: docs
 weight: 170
 url: "/net/aspose.pdf.ai/openaiclient/getsummarycopilot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIClient.GetSummaryCopilot method
 
-Gets an instance of [`ISummaryCopilot`](../../../aspose.pdf.ai/isummarycopilot/) with the specified options.
+Gets an instance of [`ISummaryCopilot`](../../isummarycopilot/) with the specified options.
 
 ```csharp
 public ISummaryCopilot GetSummaryCopilot(
@@ -24,11 +24,13 @@ public ISummaryCopilot GetSummaryCopilot(
 
 ### Return Value
 
-An instance of [`ISummaryCopilot`](../../../aspose.pdf.ai/isummarycopilot/).
+An instance of [`ISummaryCopilot`](../../isummarycopilot/).
 
 ### See Also
 
-* interface [ISummaryCopilot](../../../aspose.pdf.ai/isummarycopilot/)
+* interface [ISummaryCopilot](../../isummarycopilot/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "MarkdownSaveOptions property. Gets or sets the line break style fo
 type: docs
 weight: 70
 url: "/net/aspose.pdf/markdownsaveoptions/linebreakstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkdownSaveOptions.LineBreakStyle property
 
@@ -19,7 +19,7 @@ public LineBreakStyle LineBreakStyle { get; set; }
 
 ### See Also
 
-* enum [LineBreakStyle](../../../aspose.pdf/linebreakstyle/)
+* enum [LineBreakStyle](../../linebreakstyle/)
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

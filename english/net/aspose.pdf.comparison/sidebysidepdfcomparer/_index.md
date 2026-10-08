@@ -8,7 +8,7 @@ type: docs
 weight: 210
 url: "/net/aspose.pdf.comparison/sidebysidepdfcomparer/"
 keywords: "SideBySidePdfComparer, Aspose.Pdf.Comparison, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SideBySidePdfComparer class
 
@@ -22,10 +22,10 @@ public static class SideBySidePdfComparer
 
 | Name | Description |
 | --- | --- |
-| static [Compare](./compare/)(Document, Document, Stream, SideBySideComparisonOptions) | Compares two documents. The pages are compared one by one. The pages of the compared documents are copied one after another into the resulting document. First the first page from the first document, then the first page from the second document. Next is the second one from the first document and then the second one from the second document, etc. You can open it in Adobe Acrobat in Two-page view to see the changes side by side. Deletions are noted on the page on the left, and insertions are noted on the page on the right. |
-| static [Compare](./compare/)(Document, Document, string, SideBySideComparisonOptions) | Compares two documents. The pages are compared one by one. The pages of the compared documents are copied one after another into the resulting document. First the first page from the first document, then the first page from the second document. Next is the second one from the first document and then the second one from the second document, etc. You can open it in Adobe Acrobat in Two-page view to see the changes side by side. Deletions are noted on the page on the left, and insertions are noted on the page on the right. |
-| static [Compare](./compare/)(Page, Page, Stream, SideBySideComparisonOptions) | Compares two pages. The result is saved in a PDF document in which the first page is written first, and then the second. You can open it in Adobe Acrobat in Two-page view to see the changes side by side. Deletions are noted on the page on the left, and insertions are noted on the page on the right. |
-| static [Compare](./compare/)(Page, Page, string, SideBySideComparisonOptions) | Compares two pages. The result is saved in a PDF document in which the first page is written first, and then the second. You can open it in Adobe Acrobat in Two-page view to see the changes side by side. Deletions are noted on the page on the left, and insertions are noted on the page on the right. |
+| static [Compare](../../aspose.pdf.comparison/sidebysidepdfcomparer/compare/#compare)(Page, Page, string, SideBySideComparisonOptions) | Compares two pages. The result is saved in a PDF document in which the first page is written first, and then the second. You can open it in Adobe Acrobat in Two-page view to see the changes side by side. Deletions are noted on the page on the left, and insertions are noted on the page on the right. |
+| static [Compare](../../aspose.pdf.comparison/sidebysidepdfcomparer/compare/#compare_1)(Document, Document, string, SideBySideComparisonOptions) | Compares two documents. The pages are compared one by one. The pages of the compared documents are copied one after another into the resulting document. First the first page from the first document, then the first page from the second document. Next is the second one from the first document and then the second one from the second document, etc. You can open it in Adobe Acrobat in Two-page view to see the changes side by side. Deletions are noted on the page on the left, and insertions are noted on the page on the right. |
+| static [Compare](../../aspose.pdf.comparison/sidebysidepdfcomparer/compare/#compare_2)(Page, Page, Stream, SideBySideComparisonOptions) | Compares two pages. The result is saved in a PDF document in which the first page is written first, and then the second. You can open it in Adobe Acrobat in Two-page view to see the changes side by side. Deletions are noted on the page on the left, and insertions are noted on the page on the right. |
+| static [Compare](../../aspose.pdf.comparison/sidebysidepdfcomparer/compare/#compare_3)(Document, Document, Stream, SideBySideComparisonOptions) | Compares two documents. The pages are compared one by one. The pages of the compared documents are copied one after another into the resulting document. First the first page from the first document, then the first page from the second document. Next is the second one from the first document and then the second one from the second document, etc. You can open it in Adobe Acrobat in Two-page view to see the changes side by side. Deletions are noted on the page on the left, and insertions are noted on the page on the right. |
 
 ### See Also
 

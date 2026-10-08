@@ -7,7 +7,7 @@ description: "XImageCollection method. Copies array of images into collection."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/ximagecollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImageCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public void CopyTo(XImage[] array, int index)
 
 ### See Also
 
-* class [XImage](../../../aspose.pdf/ximage/)
+* class [XImage](../../ximage/)
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

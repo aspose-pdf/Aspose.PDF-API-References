@@ -7,7 +7,7 @@ description: "StructureAttribute method. Sets Value Number."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.logicalstructure/structureattribute/setnumbervalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureAttribute.SetNumberValue method
 

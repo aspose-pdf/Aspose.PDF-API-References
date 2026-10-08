@@ -7,37 +7,11 @@ description: "DictionaryEditor method. Removes the element with the specified ke
 type: docs
 weight: 50
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Remove(KeyValuePair<string, ICosPdfPrimitive>) {#remove}
+## Remove(string) {#remove}
 
-Removes the first occurrence of a specific object from the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/).
-
-```csharp
-public bool Remove(KeyValuePair<string, ICosPdfPrimitive> item)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | KeyValuePair`2 | The object to remove from the <see cref="T:Aspose.Pdf.DataEditor.DictionaryEditor" />. |
-
-### Return Value
-
-true if item was successfully removed from the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/);
- otherwise, false. This method also returns false if item is not found in the
- original [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/).
-
-### See Also
-
-* class [DictionaryEditor](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Remove(string) {#remove_1}
-
-Removes the element with the specified key from the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/).
+Removes the element with the specified key from the [`DictionaryEditor`](../).
 
 ```csharp
 public bool Remove(string key)
@@ -54,6 +28,33 @@ True if the element is successfully removed; otherwise, false.
 
 ### See Also
 
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Remove(KeyValuePair&lt;string, ICosPdfPrimitive&gt;) {#remove_1}
+
+Removes the first occurrence of a specific object from the [`DictionaryEditor`](../).
+
+```csharp
+public bool Remove(KeyValuePair<string, ICosPdfPrimitive> item)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| item | KeyValuePair`2 | The object to remove from the `DictionaryEditor`. |
+
+### Return Value
+
+true if item was successfully removed from the [`DictionaryEditor`](../);
+ otherwise, false. This method also returns false if item is not found in the
+ original [`DictionaryEditor`](../).
+
+### See Also
+
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
 * class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)

@@ -8,7 +8,7 @@ type: docs
 weight: 230
 url: "/net/aspose.pdf.forms/optioncollection/"
 keywords: "OptionCollection, Aspose.Pdf.Forms, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptionCollection class
 
@@ -22,27 +22,28 @@ public sealed class OptionCollection : ICollection<Option>
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Gets number of options. |
-| [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating if collection is readonly. |
-| [IsSynchronized](./issynchronized/) { get; } | Returns true of object is synchronized. |
-| [Item](./item/) { get; } | Gets option by index. (2 indexers) |
-| [SyncRoot](./syncroot/) { get; } | Synchronization object of the collection. |
+| [Count](../../aspose.pdf.forms/optioncollection/count/) { get; } | Gets number of options. |
+| [IsReadOnly](../../aspose.pdf.forms/optioncollection/isreadonly/) { get; } | Gets a value indicating if collection is readonly. |
+| [IsSynchronized](../../aspose.pdf.forms/optioncollection/issynchronized/) { get; } | Returns true of object is synchronized. |
+| [Item](../../aspose.pdf.forms/optioncollection/item/) { get; } | Gets option by index. (2 indexers) |
+| [SyncRoot](../../aspose.pdf.forms/optioncollection/syncroot/) { get; } | Synchronization object of the collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(Option) | Adds item in collection, throws NotImplementedException. |
-| [Clear](./clear/)() | Removes all items from collection. |
-| [Contains](./contains/)(Option) | Checks if item exists in collection, throws NotImplementedException. |
-| [CopyTo](./copyto/)(Option[], int) | Copies options into array. |
-| [GetEnumerator](./getenumerator/)() | Returns enumerator for options in collection. |
-| [Remove](./remove/)(Option) | Removes item from collection, throws NotImplementedException. |
-| [get](./get/)(int) | Gets option by index. |
-| [get](./get/)(string) | Gets option from colleciton by option name. |
+| [Add](../../aspose.pdf.forms/optioncollection/add/)(Option) | Adds item in collection, throws NotImplementedException. |
+| [Clear](../../aspose.pdf.forms/optioncollection/clear/)() | Removes all items from collection. |
+| [Contains](../../aspose.pdf.forms/optioncollection/contains/)(Option) | Checks if item exists in collection, throws NotImplementedException. |
+| [CopyTo](../../aspose.pdf.forms/optioncollection/copyto/)(Option[], int) | Copies options into array. |
+| [GetEnumerator](../../aspose.pdf.forms/optioncollection/getenumerator/)() | Returns enumerator for options in collection. |
+| [Remove](../../aspose.pdf.forms/optioncollection/remove/)(Option) | Removes item from collection, throws NotImplementedException. |
+| [get](../../aspose.pdf.forms/optioncollection/get/#get)(int) | Gets option by index. |
+| [get](../../aspose.pdf.forms/optioncollection/get/#get_1)(string) | Gets option from colleciton by option name. |
 
 ### See Also
 
+* class [Option](../option/)
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
 

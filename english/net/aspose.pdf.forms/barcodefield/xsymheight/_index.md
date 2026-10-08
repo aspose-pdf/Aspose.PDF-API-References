@@ -7,7 +7,7 @@ description: "BarcodeField property. Gets the the vertical distance between two 
 type: docs
 weight: 70
 url: "/net/aspose.pdf.forms/barcodefield/xsymheight/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BarcodeField.XSymHeight property
 

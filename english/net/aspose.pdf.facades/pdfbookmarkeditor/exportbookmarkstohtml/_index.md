@@ -7,7 +7,7 @@ description: "PdfBookmarkEditor method. Exports bookmarks to HTML file."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstohtml/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfBookmarkEditor.ExportBookmarksToHtml method
 

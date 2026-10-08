@@ -7,7 +7,7 @@ description: "PdfFileSecurity method. Closes the facade."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/pdffilesecurity/close/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSecurity.Close method
 

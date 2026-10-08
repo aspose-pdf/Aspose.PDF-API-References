@@ -7,7 +7,7 @@ description: "EpubSaveOptions property. Gets or sets EPUB document title."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/epubsaveoptions/title/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EpubSaveOptions.Title property
 

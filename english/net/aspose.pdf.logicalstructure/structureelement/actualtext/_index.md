@@ -7,7 +7,7 @@ description: "StructureElement property. Gets or sets the actual text for struct
 type: docs
 weight: 220
 url: "/net/aspose.pdf.logicalstructure/structureelement/actualtext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureElement.ActualText property
 

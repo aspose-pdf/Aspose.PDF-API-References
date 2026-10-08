@@ -7,7 +7,7 @@ description: "OpenAIImageDescriptionCopilotOptions property. Gets or sets the na
 type: docs
 weight: 200
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/assistantname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIImageDescriptionCopilotOptions.AssistantName property
 

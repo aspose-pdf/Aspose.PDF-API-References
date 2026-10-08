@@ -8,11 +8,11 @@ type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/documentprivilege/"
 keywords: "DocumentPrivilege, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege class
 
-Represents the privileges for accessing Pdf file. Refer to[`PdfFileSecurity`](../../aspose.pdf.facades/pdffilesecurity/).
+Represents the privileges for accessing Pdf file. Refer to[`PdfFileSecurity`](../pdffilesecurity/).
  There are 4 ways using this class:
  1.Using predefined privilege directly.
  2.Based on a predefined privilege and change some specifical permissions.
@@ -69,33 +69,33 @@ privilege.AllowPrint = True
 
 | Name | Description |
 | --- | --- |
-| static [AllowAll](./allowall/) { get; } | All allowed. |
-| [AllowAssembly](./allowassembly/) { get; set; } | Sets the permission which allow assembly or not. true is allow and false is forbidden. |
-| [AllowCopy](./allowcopy/) { get; set; } | Sets the permission which allow copy or not. true is allow and false is forbidden. |
-| [AllowDegradedPrinting](./allowdegradedprinting/) { get; set; } | Sets the permission which allow degraded printing or not. true is allow and false is forbidden. |
-| [AllowFillIn](./allowfillin/) { get; set; } | Sets the permission which allow fill in forms or not. true is allow and false is forbidden. |
-| [AllowModifyAnnotations](./allowmodifyannotations/) { get; set; } | Sets the permission which allow modify annotations or not. true is allow and false is forbidden. |
-| [AllowModifyContents](./allowmodifycontents/) { get; set; } | Sets the permission which allow modify contents or not. true is allow and false is forbidden. |
-| [AllowPrint](./allowprint/) { get; set; } | Sets the permission which allow print or not. true is allow and false is forbidden. |
-| [AllowScreenReaders](./allowscreenreaders/) { get; set; } | Sets the permission which allow screen readers or not. true is allow and false is forbidden. |
-| static [Assembly](./assembly/) { get; } | Allows assemblying file. |
-| [ChangeAllowLevel](./changeallowlevel/) { get; set; } | Gets and sets the change level of document's privilege. Just as the Adobe Professional's Changes Allowed settings. 0: None. 1: Inserting, Deleting and Rotating pages. 2: Filling in form fields and signing existing signature fields. 3: Commenting, filling in form fields, and signing existing signature fields. 4: Any except extracting pages. |
-| static [Copy](./copy/) { get; } | Allows copying file. |
-| [CopyAllowLevel](./copyallowlevel/) { get; set; } | Gets and sets the copy level of document's privilege. Just as the Adobe Professional's permission settings. 0: None. 1: Enable text access for screen reader devices for the visually impaired. 2: Enable copying of text, images and other content. |
-| static [DegradedPrinting](./degradedprinting/) { get; } | Allows degraded printing. |
-| static [FillIn](./fillin/) { get; } | Allows filling forms in file. |
-| static [ForbidAll](./forbidall/) { get; } | All Forbidded. |
-| static [ModifyAnnotations](./modifyannotations/) { get; } | Allows modifying annotations of file. |
-| static [ModifyContents](./modifycontents/) { get; } | Allows modifying file. |
-| static [Print](./print/) { get; } | Allows printing file. |
-| [PrintAllowLevel](./printallowlevel/) { get; set; } | Gets and sets the print level of document's privilege. Just as the Adobe Professional's Printing Allowed settings. 0: None. 1: Low Resolution (150 dpi). 2: High Resolution. |
-| static [ScreenReaders](./screenreaders/) { get; } | Allows to reader on screen only. |
+| static [AllowAll](../../aspose.pdf.facades/documentprivilege/allowall/) { get; } | All allowed. |
+| [AllowAssembly](../../aspose.pdf.facades/documentprivilege/allowassembly/) { get; set; } | Sets the permission which allow assembly or not. true is allow and false is forbidden. |
+| [AllowCopy](../../aspose.pdf.facades/documentprivilege/allowcopy/) { get; set; } | Sets the permission which allow copy or not. true is allow and false is forbidden. |
+| [AllowDegradedPrinting](../../aspose.pdf.facades/documentprivilege/allowdegradedprinting/) { get; set; } | Sets the permission which allow degraded printing or not. true is allow and false is forbidden. |
+| [AllowFillIn](../../aspose.pdf.facades/documentprivilege/allowfillin/) { get; set; } | Sets the permission which allow fill in forms or not. true is allow and false is forbidden. |
+| [AllowModifyAnnotations](../../aspose.pdf.facades/documentprivilege/allowmodifyannotations/) { get; set; } | Sets the permission which allow modify annotations or not. true is allow and false is forbidden. |
+| [AllowModifyContents](../../aspose.pdf.facades/documentprivilege/allowmodifycontents/) { get; set; } | Sets the permission which allow modify contents or not. true is allow and false is forbidden. |
+| [AllowPrint](../../aspose.pdf.facades/documentprivilege/allowprint/) { get; set; } | Sets the permission which allow print or not. true is allow and false is forbidden. |
+| [AllowScreenReaders](../../aspose.pdf.facades/documentprivilege/allowscreenreaders/) { get; set; } | Sets the permission which allow screen readers or not. true is allow and false is forbidden. |
+| static [Assembly](../../aspose.pdf.facades/documentprivilege/assembly/) { get; } | Allows assemblying file. |
+| [ChangeAllowLevel](../../aspose.pdf.facades/documentprivilege/changeallowlevel/) { get; set; } | Gets and sets the change level of document's privilege. Just as the Adobe Professional's Changes Allowed settings. 0: None. 1: Inserting, Deleting and Rotating pages. 2: Filling in form fields and signing existing signature fields. 3: Commenting, filling in form fields, and signing existing signature fields. 4: Any except extracting pages. |
+| static [Copy](../../aspose.pdf.facades/documentprivilege/copy/) { get; } | Allows copying file. |
+| [CopyAllowLevel](../../aspose.pdf.facades/documentprivilege/copyallowlevel/) { get; set; } | Gets and sets the copy level of document's privilege. Just as the Adobe Professional's permission settings. 0: None. 1: Enable text access for screen reader devices for the visually impaired. 2: Enable copying of text, images and other content. |
+| static [DegradedPrinting](../../aspose.pdf.facades/documentprivilege/degradedprinting/) { get; } | Allows degraded printing. |
+| static [FillIn](../../aspose.pdf.facades/documentprivilege/fillin/) { get; } | Allows filling forms in file. |
+| static [ForbidAll](../../aspose.pdf.facades/documentprivilege/forbidall/) { get; } | All Forbidded. |
+| static [ModifyAnnotations](../../aspose.pdf.facades/documentprivilege/modifyannotations/) { get; } | Allows modifying annotations of file. |
+| static [ModifyContents](../../aspose.pdf.facades/documentprivilege/modifycontents/) { get; } | Allows modifying file. |
+| static [Print](../../aspose.pdf.facades/documentprivilege/print/) { get; } | Allows printing file. |
+| [PrintAllowLevel](../../aspose.pdf.facades/documentprivilege/printallowlevel/) { get; set; } | Gets and sets the print level of document's privilege. Just as the Adobe Professional's Printing Allowed settings. 0: None. 1: Low Resolution (150 dpi). 2: High Resolution. |
+| static [ScreenReaders](../../aspose.pdf.facades/documentprivilege/screenreaders/) { get; } | Allows to reader on screen only. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [CompareTo](./compareto/)(object) | Compares two [`DocumentPrivilege`](../../aspose.pdf.facades/documentprivilege/) objects. |
+| [CompareTo](../../aspose.pdf.facades/documentprivilege/compareto/)(object) | Compares two `DocumentPrivilege` objects. The object to compare with.A signed integer that indicates the relative values of this instance and value. Less than zero this instance is less than value. Zero this instance is equal to value. Greater than zero this instance is greater than value. |
 
 ### See Also
 

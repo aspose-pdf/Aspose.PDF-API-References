@@ -7,7 +7,7 @@ description: "ImageDevice property. Gets image resolution."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.devices/imagedevice/resolution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageDevice.Resolution property
 
@@ -19,7 +19,7 @@ public Resolution Resolution { get; }
 
 ### See Also
 
-* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [Resolution](../../resolution/)
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "PsSaveOptions constructor. Constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pssaveoptions/pssaveoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PsSaveOptions() {#constructor}
 
@@ -25,7 +25,7 @@ public PsSaveOptions()
 
 ---
 
-## PsSaveOptions([SaveFormat](../../../aspose.pdf.lowcode/saveformat/)) {#constructor_1}
+## PsSaveOptions(SaveFormat) {#constructor_1}
 
 Constructor.
 
@@ -39,7 +39,7 @@ public PsSaveOptions(SaveFormat saveFormat)
 
 ### See Also
 
-* enum [SaveFormat](../../../aspose.pdf.lowcode/saveformat/)
+* enum [SaveFormat](../../saveformat/)
 * class [PsSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

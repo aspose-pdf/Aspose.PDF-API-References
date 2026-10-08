@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Artifact.ArtifactType enum. Enumeration of possible art
 type: docs
 weight: 70
 url: "/net/aspose.pdf/artifact.artifacttype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.ArtifactType enumeration
 

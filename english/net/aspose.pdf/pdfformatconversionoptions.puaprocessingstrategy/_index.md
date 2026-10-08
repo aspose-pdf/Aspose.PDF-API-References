@@ -7,7 +7,7 @@ description: "Aspose.Pdf.PdfFormatConversionOptions.PuaProcessingStrategy enum. 
 type: docs
 weight: 2420
 url: "/net/aspose.pdf/pdfformatconversionoptions.puaprocessingstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.PuaProcessingStrategy enumeration
 
@@ -25,13 +25,8 @@ public enum PuaProcessingStrategy
 | Name | Value | Description |
 | --- | --- | --- |
 | None | `0` | Disable PUA symbol processing. This strategy used by default for PDF/A documents with Level B conformance. |
-| SurroundPuaTextWithEmptyActualText | `1` | Inserts marked content block with ActualText entry which contains empty text.
- This strategy gives good results for documents without marked content blocks. Used by default for PDF/A documents with Level A conformance. |
-| SubstitutePuaSymbols | `2` | This strategy works slower than 'SurroundPuaTextWithEmptyActualText' but it can remove
- PUA compliant errors for documents which can't be handled properly by SurroundPuaTextWithEmptyActualText. PUA symbols
- are substituted on symbol 'space' or special unicode (some PUA symbols have unicode analogs). Substitution applied
- not to document's text but to font's internal data ToUnicode so it doesn't affects symbol's vision but it
- affects symbol's presentation in copy/paste operation system buffer. |
+| SurroundPuaTextWithEmptyActualText | `1` | Inserts marked content block with ActualText entry which contains empty text. This strategy gives good results for documents without marked content blocks. Used by default for PDF/A documents with Level A conformance. |
+| SubstitutePuaSymbols | `2` | This strategy works slower than 'SurroundPuaTextWithEmptyActualText' but it can remove PUA compliant errors for documents which can't be handled properly by SurroundPuaTextWithEmptyActualText. PUA symbols are substituted on symbol 'space' or special unicode (some PUA symbols have unicode analogs). Substitution applied not to document's text but to font's internal data ToUnicode so it doesn't affects symbol's vision but it affects symbol's presentation in copy/paste operation system buffer. |
 
 ### See Also
 

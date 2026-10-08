@@ -7,7 +7,7 @@ description: "PageSettings property. Gets or sets a value indicating the paper s
 type: docs
 weight: 100
 url: "/net/aspose.pdf.printing/pagesettings/papersource/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageSettings.PaperSource property
 
@@ -19,7 +19,7 @@ public PaperSource PaperSource { get; set; }
 
 ### See Also
 
-* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSource](../../papersource/)
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

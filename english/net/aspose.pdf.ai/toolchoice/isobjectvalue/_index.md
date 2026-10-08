@@ -7,7 +7,7 @@ description: "ToolChoice property. Gets a value indicating whether the ToolChoic
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/toolchoice/isobjectvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ToolChoice.IsObjectValue property
 

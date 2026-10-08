@@ -7,7 +7,7 @@ description: "OutputIntent property. Gets or sets a text that concisely identifi
 type: docs
 weight: 30
 url: "/net/aspose.pdf/outputintent/outputcondition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputIntent.OutputCondition property
 

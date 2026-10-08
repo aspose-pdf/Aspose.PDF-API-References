@@ -7,7 +7,7 @@ description: "PdfFileSecurity method. Changes the user password and owner passwo
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/pdffilesecurity/changepassword/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChangePassword(string, string, string) {#changepassword}
 
@@ -54,7 +54,7 @@ True for success.
 
 ---
 
-## ChangePassword(string, string, string, [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/), [KeySize](../../../aspose.pdf.facades/keysize/)) {#changepassword_1}
+## ChangePassword(string, string, string, DocumentPrivilege, KeySize) {#changepassword_1}
 
 Changes the user password and password by owner password, allows to reset Pdf documnent security.
  The new user password and the new owner password can be null or empty. The owner password will be replaced 
@@ -96,15 +96,15 @@ fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Prin
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* enum [KeySize](../../../aspose.pdf.facades/keysize/)
+* class [DocumentPrivilege](../../documentprivilege/)
+* enum [KeySize](../../keysize/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## ChangePassword(string, string, string, [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/), [KeySize](../../../aspose.pdf.facades/keysize/), [Algorithm](../../../aspose.pdf.facades/algorithm/)) {#changepassword_2}
+## ChangePassword(string, string, string, DocumentPrivilege, KeySize, Algorithm) {#changepassword_2}
 
 Changes the user password and password by owner password, allows to reset Pdf documnent security.
  The new user password and the new owner password can be null or empty. The owner password will be replaced 
@@ -150,9 +150,9 @@ fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Prin
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* enum [KeySize](../../../aspose.pdf.facades/keysize/)
-* enum [Algorithm](../../../aspose.pdf.facades/algorithm/)
+* class [DocumentPrivilege](../../documentprivilege/)
+* enum [KeySize](../../keysize/)
+* enum [Algorithm](../../algorithm/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "TableElement property. Gets or sets border included in column widh
 type: docs
 weight: 170
 url: "/net/aspose.pdf.logicalstructure/tableelement/isbordersincluded/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableElement.IsBordersIncluded property
 

@@ -7,7 +7,7 @@ description: "RunCreateRequest property. Gets or sets the response format. Speci
 type: docs
 weight: 160
 url: "/net/aspose.pdf.ai/runcreaterequest/responseformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunCreateRequest.ResponseFormat property
 
@@ -26,7 +26,7 @@ public ResponseFormat ResponseFormat { get; set; }
 
 ### See Also
 
-* class [ResponseFormat](../../../aspose.pdf.ai/responseformat/)
+* class [ResponseFormat](../../responseformat/)
 * class [RunCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.PrintDuplex enum. The paper handling option to use when
 type: docs
 weight: 2550
 url: "/net/aspose.pdf/printduplex/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrintDuplex enumeration
 

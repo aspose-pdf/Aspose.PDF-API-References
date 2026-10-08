@@ -7,7 +7,7 @@ description: "Rectangle method. Joins rectangles."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/rectangle/join/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.Join method
 
@@ -27,7 +27,7 @@ Described rectangle.
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

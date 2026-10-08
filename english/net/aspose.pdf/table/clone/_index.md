@@ -7,7 +7,7 @@ description: "Table method. Clone the table."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/table/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.Clone method
 

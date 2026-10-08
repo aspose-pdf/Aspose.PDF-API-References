@@ -7,7 +7,7 @@ description: "HtmlLoadOptions property. Gets or sets possible media types used d
 type: docs
 weight: 60
 url: "/net/aspose.pdf/htmlloadoptions/htmlmediatype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlLoadOptions.HtmlMediaType property
 
@@ -19,7 +19,7 @@ public HtmlMediaType HtmlMediaType { get; set; }
 
 ### See Also
 
-* enum [HtmlMediaType](../../../aspose.pdf/htmlmediatype/)
+* enum [HtmlMediaType](../../htmlmediatype/)
 * class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

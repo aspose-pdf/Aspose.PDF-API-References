@@ -7,7 +7,7 @@ description: "RegexManager property. Gets or sets the timeout for Regex operatio
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/regexmanager/matchtimeout/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RegexManager.MatchTimeout property
 

@@ -7,7 +7,7 @@ description: "FontCollection method. Adds new font to font resources and returns
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/fontcollection/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontCollection.Add method
 
@@ -24,7 +24,7 @@ public void Add(Font newFont, out string resName)
 
 ### See Also
 
-* class [Font](../../../aspose.pdf.text/font/)
+* class [Font](../../font/)
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

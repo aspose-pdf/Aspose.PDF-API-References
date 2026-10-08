@@ -7,11 +7,11 @@ description: "WebHyperlink constructor. Initializes a new instance of the WebHyp
 type: docs
 weight: 10
 url: "/net/aspose.pdf/webhyperlink/webhyperlink/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WebHyperlink() {#constructor}
 
-Initializes a new instance of the [`WebHyperlink`](../../../aspose.pdf/webhyperlink/) class.
+Initializes a new instance of the [`WebHyperlink`](../) class.
 
 ```csharp
 public WebHyperlink()
@@ -27,7 +27,7 @@ public WebHyperlink()
 
 ## WebHyperlink(string) {#constructor_1}
 
-Initializes a new instance of the [`WebHyperlink`](../../../aspose.pdf/webhyperlink/) class.
+Initializes a new instance of the [`WebHyperlink`](../) class.
 
 ```csharp
 public WebHyperlink(string url)

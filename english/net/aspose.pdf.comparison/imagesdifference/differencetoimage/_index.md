@@ -7,7 +7,7 @@ description: "ImagesDifference method. Converts the difference array to a bitmap
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/imagesdifference/differencetoimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagesDifference.DifferenceToImage method
 

@@ -7,11 +7,11 @@ description: "PDF3DCrossSectionArray property. Gets or sets the PDF3DCrossSectio
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DCrossSectionArray indexer
 
-Gets or sets the [`PDF3DCrossSection`](../../../aspose.pdf.annotations/pdf3dcrosssection/) at the specified index.
+Gets or sets the [`PDF3DCrossSection`](../../pdf3dcrosssection/) at the specified index.
 
 ```csharp
 public PDF3DCrossSection this[int index] { get; set; }
@@ -25,9 +25,15 @@ public PDF3DCrossSection this[int index] { get; set; }
 
 Cross section.
 
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| IndexOutOfRangeException | Invalid index: index should be in the range [1..n] where n equals to the cross sections count. |
+
 ### See Also
 
-* class [PDF3DCrossSection](../../../aspose.pdf.annotations/pdf3dcrosssection/)
+* class [PDF3DCrossSection](../../pdf3dcrosssection/)
 * class [PDF3DCrossSectionArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "PageCollectionExtensions method. Adds the specified pagination art
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagecollectionextensions/addpagination/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollectionExtensions.AddPagination method
 
@@ -25,7 +25,8 @@ public static void AddPagination(this PageCollection pageCollection,
 
 ### See Also
 
-* class [PageCollection](../../../aspose.pdf/pagecollection/)
+* class [PageCollection](../../pagecollection/)
+* class [PaginationArtifact](../../paginationartifact/)
 * class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

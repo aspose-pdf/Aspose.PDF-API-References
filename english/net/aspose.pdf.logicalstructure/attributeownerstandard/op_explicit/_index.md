@@ -7,11 +7,11 @@ description: "AttributeOwnerStandard method. Performs an explicit conversion fro
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/op_explicit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeOwnerStandard Explicit operator
 
-Performs an explicit conversion from `String` to [`AttributeOwnerStandard`](../../../aspose.pdf.logicalstructure/attributeownerstandard/).
+Performs an explicit conversion from `String` to [`AttributeOwnerStandard`](../).
 
 ```csharp
 public static explicit operator AttributeOwnerStandard(string owner)
@@ -27,7 +27,7 @@ The result of the conversion.
 
 ### See Also
 
-* class [AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
+* class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

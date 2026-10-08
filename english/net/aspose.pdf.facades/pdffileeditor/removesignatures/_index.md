@@ -7,7 +7,7 @@ description: "PdfFileEditor property. If true, all signatures will be removed fr
 type: docs
 weight: 1180
 url: "/net/aspose.pdf.facades/pdffileeditor/removesignatures/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.RemoveSignatures property
 

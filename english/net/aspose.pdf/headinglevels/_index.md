@@ -8,7 +8,7 @@ type: docs
 weight: 1090
 url: "/net/aspose.pdf/headinglevels/"
 keywords: "HeadingLevels, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HeadingLevels class
 
@@ -22,20 +22,20 @@ public class HeadingLevels
 
 | Name | Description |
 | --- | --- |
-| [HeadingLevels](./headinglevels/#constructor)() | Creates a new instance of the HeadingLevels class. |
-| [HeadingLevels](./headinglevels/#constructor_1)(double) | Creates a new instance of the HeadingLevels class. |
+| [HeadingLevels](headinglevels/#constructor)() | Creates a new instance of the HeadingLevels class. |
+| [HeadingLevels](headinglevels/#constructor_1)(double) | Creates a new instance of the HeadingLevels class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AllLevels](./alllevels/) { get; } | Gets all heading levels. |
+| [AllLevels](../../aspose.pdf/headinglevels/alllevels/) { get; } | Gets all heading levels. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddLevels](./addlevels/)(ICollection<double>) | Adds heading levels. Font size collection should be sorted by decreasing size. |
+| [AddLevels](../../aspose.pdf/headinglevels/addlevels/)(ICollection&lt;double&gt;) | Adds heading levels. Font size collection should be sorted by decreasing size. |
 
 ### See Also
 

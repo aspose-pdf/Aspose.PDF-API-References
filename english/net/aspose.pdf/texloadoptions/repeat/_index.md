@@ -7,7 +7,7 @@ description: "TeXLoadOptions property. Gets/sets the flag indicating whether it 
 type: docs
 weight: 70
 url: "/net/aspose.pdf/texloadoptions/repeat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXLoadOptions.Repeat property
 

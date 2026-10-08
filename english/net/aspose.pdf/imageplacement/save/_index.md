@@ -7,7 +7,7 @@ description: "ImagePlacement method. Saves image with corresponding transformati
 type: docs
 weight: 30
 url: "/net/aspose.pdf/imageplacement/save/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Save(Stream) {#save}
 
@@ -29,7 +29,7 @@ public void Save(Stream stream)
 
 ---
 
-## Save(Stream, [ImageFormat](../../../aspose.pdf.drawing/imageformat/)) {#save_1}
+## Save(Stream, ImageFormat) {#save_1}
 
 Saves image with corresponding transformations: scaling, rotation and resolution.
 
@@ -40,11 +40,10 @@ public void Save(Stream stream, ImageFormat format)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Stream where image will be saved |
-| format | ImageFormat | Format which will be used for image enconding. <see cref="T:System.Drawing.Imaging.ImageFormat" /> |
+| format | ImageFormat | Format which will be used for image enconding. ImageFormat |
 
 ### See Also
 
-* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

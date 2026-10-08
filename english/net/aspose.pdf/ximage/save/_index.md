@@ -7,7 +7,7 @@ description: "XImage method. Saves image data into stream as JPEG image."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/ximage/save/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Save(Stream) {#save}
 
@@ -29,7 +29,7 @@ public void Save(Stream stream)
 
 ---
 
-## Save(Stream, [ImageFormat](../../../aspose.pdf.drawing/imageformat/)) {#save_1}
+## Save(Stream, ImageFormat) {#save_1}
 
 Saves image into stream with requested format.
 
@@ -40,11 +40,10 @@ public void Save(Stream stream, ImageFormat format)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Stream where image will be saved |
-| format | ImageFormat | Format which will be used for image enconding. <see cref="T:System.Drawing.Imaging.ImageFormat" /> |
+| format | ImageFormat | Format which will be used for image enconding. ImageFormat |
 
 ### See Also
 
-* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -72,7 +71,7 @@ public void Save(Stream stream, int resolution)
 
 ---
 
-## Save(Stream, [ImageFormat](../../../aspose.pdf.drawing/imageformat/), int) {#save_3}
+## Save(Stream, ImageFormat, int) {#save_3}
 
 Saves image into stream with requested format with specified resolution.
 
@@ -83,12 +82,11 @@ public void Save(Stream stream, ImageFormat format, int resolution)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Stream where image will be saved |
-| format | ImageFormat | Format which will be used for image enconding. <see cref="T:System.Drawing.Imaging.ImageFormat" /> |
+| format | ImageFormat | Format which will be used for image enconding. ImageFormat |
 | resolution | Int32 | Image resolution |
 
 ### See Also
 
-* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

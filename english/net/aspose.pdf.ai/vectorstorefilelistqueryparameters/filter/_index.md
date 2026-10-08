@@ -7,7 +7,7 @@ description: "VectorStoreFileListQueryParameters property. Gets or sets a filter
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/vectorstorefilelistqueryparameters/filter/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileListQueryParameters.Filter property
 

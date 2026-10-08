@@ -7,7 +7,7 @@ description: "Path property. Gets or sets shapes collection."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.drawing/path/shapes/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Path.Shapes property
 
@@ -19,6 +19,7 @@ public List<Shape> Shapes { get; }
 
 ### See Also
 
+* class [Shape](../../shape/)
 * class [Path](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)

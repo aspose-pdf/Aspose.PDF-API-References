@@ -7,7 +7,7 @@ description: "DP property. Gets or sets marked content tag"
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/dp/tag/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DP.Tag property
 

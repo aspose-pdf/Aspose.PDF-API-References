@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.TextIcon enum. Enumerates the icons to be u
 type: docs
 weight: 1290
 url: "/net/aspose.pdf.annotations/texticon/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextIcon enumeration
 

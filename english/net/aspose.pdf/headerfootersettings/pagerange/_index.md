@@ -7,7 +7,7 @@ description: "HeaderFooterSettings property. Gets or sets the range of pages for
 type: docs
 weight: 20
 url: "/net/aspose.pdf/headerfootersettings/pagerange/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HeaderFooterSettings.PageRange property
 
@@ -19,7 +19,7 @@ public PageRange PageRange { get; set; }
 
 ### See Also
 
-* class [PageRange](../../../aspose.pdf/pagerange/)
+* class [PageRange](../../pagerange/)
 * class [HeaderFooterSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

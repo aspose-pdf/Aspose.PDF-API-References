@@ -7,7 +7,7 @@ description: "FloatingBox property. Gets or sets background image for page (for 
 type: docs
 weight: 110
 url: "/net/aspose.pdf/floatingbox/backgroundimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FloatingBox.BackgroundImage property
 
@@ -19,7 +19,7 @@ public Image BackgroundImage { get; set; }
 
 ### See Also
 
-* class [Image](../../../aspose.pdf/image/)
+* class [Image](../../image/)
 * class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

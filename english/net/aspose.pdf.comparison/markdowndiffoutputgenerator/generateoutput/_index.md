@@ -7,9 +7,9 @@ description: "MarkdownDiffOutputGenerator method. Generates the output based on 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/markdowndiffoutputgenerator/generateoutput/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## GenerateOutput(List<DiffOperation>) {#generateoutput}
+## GenerateOutput(List&lt;DiffOperation&gt;) {#generateoutput}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -27,13 +27,36 @@ Markown text.
 
 ### See Also
 
+* class [DiffOperation](../../diffoperation/)
 * class [MarkdownDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## GenerateOutput(List<List<DiffOperation>>) {#generateoutput_1}
+## GenerateOutput(List&lt;DiffOperation&gt;, string) {#generateoutput_1}
+
+Generates the output based on the differences between texts and saves it to a file.
+
+```csharp
+public void GenerateOutput(List<DiffOperation> diffrences, string targetFilePath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| diffrences | List`1 | The list of differences between texts. |
+| targetFilePath | String | The path of the target file to save the output. |
+
+### See Also
+
+* class [DiffOperation](../../diffoperation/)
+* class [MarkdownDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;) {#generateoutput_2}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -51,34 +74,14 @@ Markown text.
 
 ### See Also
 
+* class [DiffOperation](../../diffoperation/)
 * class [MarkdownDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## GenerateOutput(List<DiffOperation>, string) {#generateoutput_2}
-
-Generates the output based on the differences between texts and saves it to a file.
-
-```csharp
-public void GenerateOutput(List<DiffOperation> diffrences, string targetFilePath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| diffrences | List`1 | The list of differences between texts. |
-| targetFilePath | String | The path of the target file to save the output. |
-
-### See Also
-
-* class [MarkdownDiffOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## GenerateOutput(List<List<DiffOperation>>, string) {#generateoutput_3}
+## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;, string) {#generateoutput_3}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -93,6 +96,7 @@ public void GenerateOutput(List<List<DiffOperation>> diffrences, string targetFi
 
 ### See Also
 
+* class [DiffOperation](../../diffoperation/)
 * class [MarkdownDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

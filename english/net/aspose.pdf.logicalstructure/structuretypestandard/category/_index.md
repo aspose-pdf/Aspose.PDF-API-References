@@ -7,7 +7,7 @@ description: "StructureTypeStandard property. Gets category of Standard Structur
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/category/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.Category property
 
@@ -23,7 +23,7 @@ Category of Standard Structure Type.
 
 ### See Also
 
-* class [StructureTypeCategory](../../../aspose.pdf.logicalstructure/structuretypecategory/)
+* class [StructureTypeCategory](../../structuretypecategory/)
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

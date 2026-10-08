@@ -7,7 +7,7 @@ description: "PdfASymbolicFontEncodingStrategy constructor. Constructor. Sets de
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy/pdfasymbolicfontencodingstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfASymbolicFontEncodingStrategy() {#constructor}
 
@@ -25,27 +25,7 @@ public PdfASymbolicFontEncodingStrategy()
 
 ---
 
-## PdfASymbolicFontEncodingStrategy(CMapEncodingTableType) {#constructor_1}
-
-Constructor
-
-```csharp
-public PdfASymbolicFontEncodingStrategy(CMapEncodingTableType preferredEncodingTable)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| preferredEncodingTable | CMapEncodingTableType | encoding subtable which will be used in precedence to mac subtable(1,0) |
-
-### See Also
-
-* class [PdfASymbolicFontEncodingStrategy](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## PdfASymbolicFontEncodingStrategy(Queue<QueueItem>) {#constructor_2}
+## PdfASymbolicFontEncodingStrategy(Queue&lt;QueueItem&gt;) {#constructor_1}
 
 Constructor
 
@@ -59,6 +39,28 @@ public PdfASymbolicFontEncodingStrategy(Queue<QueueItem> priorityQueue)
 
 ### See Also
 
+* class [QueueItem](../../pdfasymbolicfontencodingstrategy.queueitem/)
+* class [PdfASymbolicFontEncodingStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfASymbolicFontEncodingStrategy(CMapEncodingTableType) {#constructor_2}
+
+Constructor
+
+```csharp
+public PdfASymbolicFontEncodingStrategy(CMapEncodingTableType preferredEncodingTable)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| preferredEncodingTable | CMapEncodingTableType | encoding subtable which will be used in precedence to mac subtable(1,0) |
+
+### See Also
+
+* enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
 * class [PdfASymbolicFontEncodingStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

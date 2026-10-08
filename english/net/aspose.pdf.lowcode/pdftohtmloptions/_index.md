@@ -8,11 +8,11 @@ type: docs
 weight: 690
 url: "/net/aspose.pdf.lowcode/pdftohtmloptions/"
 keywords: "PdfToHtmlOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfToHtmlOptions class
 
-Represents PDF to HTML converter options for [`Html`](../../aspose.pdf.lowcode/html/) plugin.
+Represents PDF to HTML converter options for [`Html`](../html/) plugin.
 
 ```csharp
 public sealed class PdfToHtmlOptions : PdfConverterOptions
@@ -22,16 +22,16 @@ public sealed class PdfToHtmlOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfToHtmlOptions](./pdftohtmloptions/#constructor)() | Initializes new instance of the [`PdfToHtmlOptions`](../../aspose.pdf.lowcode/pdftohtmloptions/) object with default options. |
-| [PdfToHtmlOptions](./pdftohtmloptions/#constructor_1)(SaveDataType) | Initializes a new instance of the [`PdfToHtmlOptions`](../../aspose.pdf.lowcode/pdftohtmloptions/) object for the specified output data type. |
+| [PdfToHtmlOptions](pdftohtmloptions/#constructor)() | Initializes new instance of the `PdfToHtmlOptions` object with default options. |
+| [PdfToHtmlOptions](pdftohtmloptions/#constructor_1)(SaveDataType) | Initializes a new instance of the `PdfToHtmlOptions` object for the specified output data type. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
-| override [OperationName](./operationname/) { get; } | Gets name of the operation. |
-| [OutputDataType](./outputdatatype/) { get; } | Gets output data type. |
+| override [OperationName](../../aspose.pdf.lowcode/pdftohtmloptions/operationname/) { get; } | Gets name of the operation. |
+| [OutputDataType](../../aspose.pdf.lowcode/pdftohtmloptions/outputdatatype/) { get; } | Gets output data type. |
 | [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods

@@ -7,7 +7,7 @@ description: "PDF3DCrossSectionArray property. Gets the cross section count."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DCrossSectionArray.Count property
 

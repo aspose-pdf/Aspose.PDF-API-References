@@ -7,7 +7,7 @@ description: "PdfPageEditor property. Get or sets zoom coefficient. Value 1.0 co
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/pdfpageeditor/zoom/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.Zoom property
 

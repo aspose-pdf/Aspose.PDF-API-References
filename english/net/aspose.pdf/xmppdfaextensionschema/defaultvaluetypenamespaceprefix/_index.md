@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionSchema field. Default valie type namespace prefix.
 type: docs
 weight: 160
 url: "/net/aspose.pdf/xmppdfaextensionschema/defaultvaluetypenamespaceprefix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchema.DefaultValueTypeNamespacePrefix field
 

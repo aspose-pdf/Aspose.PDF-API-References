@@ -8,7 +8,7 @@ type: docs
 weight: 700
 url: "/net/aspose.pdf.ai/incompletedetails/"
 keywords: "IncompleteDetails, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IncompleteDetails class
 
@@ -22,13 +22,13 @@ public class IncompleteDetails
 
 | Name | Description |
 | --- | --- |
-| [IncompleteDetails](./incompletedetails/)() | The default constructor. |
+| [IncompleteDetails](incompletedetails/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Reason](./reason/) { get; set; } | Gets or sets the reason why the message is incomplete. |
+| [Reason](../../aspose.pdf.ai/incompletedetails/reason/) { get; set; } | Gets or sets the reason why the message is incomplete. |
 
 ### See Also
 

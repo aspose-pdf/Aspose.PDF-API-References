@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Creates popup annotation in PDF document.
 type: docs
 weight: 220
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createpopup/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreatePopup method
 
@@ -35,7 +35,6 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

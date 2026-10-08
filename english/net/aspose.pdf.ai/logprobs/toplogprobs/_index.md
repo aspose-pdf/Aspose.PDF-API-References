@@ -7,7 +7,7 @@ description: "Logprobs property. Gets or sets a list of the most likely tokens a
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/logprobs/toplogprobs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Logprobs.TopLogprobs property
 

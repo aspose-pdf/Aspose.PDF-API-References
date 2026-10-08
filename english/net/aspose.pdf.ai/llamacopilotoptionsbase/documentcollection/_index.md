@@ -7,7 +7,7 @@ description: "LlamaCopilotOptionsBase property. Gets or sets the collection of d
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/llamacopilotoptionsbase/documentcollection/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaCopilotOptionsBase.DocumentCollection property
 
@@ -19,7 +19,7 @@ public DocumentCollection DocumentCollection { get; set; }
 
 ### See Also
 
-* class [DocumentCollection](../../../aspose.pdf.ai/documentcollection/)
+* class [DocumentCollection](../../documentcollection/)
 * class [LlamaCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

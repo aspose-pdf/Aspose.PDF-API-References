@@ -7,7 +7,7 @@ description: "ChoiceField property. Gets collection of choice options."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.forms/choicefield/options/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChoiceField.Options property
 
@@ -19,7 +19,7 @@ public virtual OptionCollection Options { get; }
 
 ### See Also
 
-* class [OptionCollection](../../../aspose.pdf.forms/optioncollection/)
+* class [OptionCollection](../../optioncollection/)
 * class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

@@ -7,12 +7,12 @@ description: "HiddenDataSanitizationOptions property. Gets or sets the document 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/imagecompressionoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HiddenDataSanitizationOptions.ImageCompressionOptions property
 
 Gets or sets the document image conversion option.
- The option must be enabled manually when using the `All` method if it is required.
+ The option must be enabled manually when using the [`All`](../all/) method if it is required.
 
 ```csharp
 public ImageCompressionOptions ImageCompressionOptions { get; set; }

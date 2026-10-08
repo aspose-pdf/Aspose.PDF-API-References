@@ -7,7 +7,7 @@ description: "OptimizedMemoryStream property. Gets or sets a value indicating wh
 type: docs
 weight: 200
 url: "/net/aspose.pdf/optimizedmemorystream/freeondispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizedMemoryStream.FreeOnDispose property
 

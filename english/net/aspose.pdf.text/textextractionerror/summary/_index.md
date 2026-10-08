@@ -7,7 +7,7 @@ description: "TextExtractionError property. Brief description of the error."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/textextractionerror/summary/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextExtractionError.Summary property
 

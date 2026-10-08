@@ -7,7 +7,7 @@ description: "SvgExtractionOptions property. Gets and sets a flag that determine
 type: docs
 weight: 30
 url: "/net/aspose.pdf.vector/svgextractionoptions/unpackpagecontentxform/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SvgExtractionOptions.UnpackPageContentXForm property
 

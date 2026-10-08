@@ -7,7 +7,7 @@ description: "Element property. (Optional; PDF 1.4) A language specifying the na
 type: docs
 weight: 30
 url: "/net/aspose.pdf.structure/element/lang/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Element.Lang property
 

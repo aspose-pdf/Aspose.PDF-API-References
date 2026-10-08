@@ -7,7 +7,7 @@ description: "TableCellElement property. Gets or sets the cell alignment."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.logicalstructure/tablecellelement/alignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableCellElement.Alignment property
 

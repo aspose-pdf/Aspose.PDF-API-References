@@ -7,7 +7,7 @@ description: "ISummaryCopilot method. Asynchronously gets a summary."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/isummarycopilot/getsummaryasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ISummaryCopilot.GetSummaryAsync method
 

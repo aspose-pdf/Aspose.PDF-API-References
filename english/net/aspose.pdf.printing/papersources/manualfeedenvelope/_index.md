@@ -7,7 +7,7 @@ description: "PaperSources field. Represents a manual feed envelope paper source
 type: docs
 weight: 60
 url: "/net/aspose.pdf.printing/papersources/manualfeedenvelope/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSources.ManualFeedEnvelope field
 
@@ -19,7 +19,7 @@ public static readonly PaperSource ManualFeedEnvelope;
 
 ### See Also
 
-* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSource](../../papersource/)
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

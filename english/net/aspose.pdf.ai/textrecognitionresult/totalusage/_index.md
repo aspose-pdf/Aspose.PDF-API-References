@@ -7,7 +7,7 @@ description: "TextRecognitionResult property. Gets or sets the total usage stati
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/textrecognitionresult/totalusage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextRecognitionResult.TotalUsage property
 
@@ -19,7 +19,7 @@ public Usage TotalUsage { get; set; }
 
 ### See Also
 
-* class [Usage](../../../aspose.pdf.ai/usage/)
+* class [Usage](../../usage/)
 * class [TextRecognitionResult](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

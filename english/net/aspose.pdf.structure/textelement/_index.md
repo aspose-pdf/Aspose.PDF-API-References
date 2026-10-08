@@ -8,7 +8,7 @@ type: docs
 weight: 70
 url: "/net/aspose.pdf.structure/textelement/"
 keywords: "TextElement, Aspose.Pdf.Structure, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextElement class
 
@@ -27,7 +27,7 @@ public class TextElement : Element
 | [Children](../../aspose.pdf.structure/element/children/) { get; } | Gets child elements collection. |
 | virtual [E](../../aspose.pdf.structure/element/e/) { get; set; } | (Optional; PDF 1.5) The expanded form of an abbreviation. |
 | virtual [Lang](../../aspose.pdf.structure/element/lang/) { get; set; } | (Optional; PDF 1.4) A language specifying the natural language for all text in the structure element except where overridden by language specifications for nested structure elements or marked content. |
-| [Text](./text/) { get; } | Gets the value of text structure element. |
+| [Text](../../aspose.pdf.structure/textelement/text/) { get; } | Gets the value of text structure element. |
 
 ## Methods
 

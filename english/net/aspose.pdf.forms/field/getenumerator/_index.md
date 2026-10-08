@@ -7,7 +7,7 @@ description: "Field method. Returns enumerator of contained fields."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/field/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Field.GetEnumerator method
 
@@ -23,6 +23,7 @@ Enumerator.
 
 ### See Also
 
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

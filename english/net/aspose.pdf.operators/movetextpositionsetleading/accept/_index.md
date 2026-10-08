@@ -7,7 +7,7 @@ description: "MoveTextPositionSetLeading method. Accepts visitor object to proce
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/movetextpositionsetleading/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MoveTextPositionSetLeading.Accept method
 

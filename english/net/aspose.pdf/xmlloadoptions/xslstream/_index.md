@@ -7,7 +7,7 @@ description: "XmlLoadOptions property. Gets xsl data for converting xml into pdf
 type: docs
 weight: 40
 url: "/net/aspose.pdf/xmlloadoptions/xslstream/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmlLoadOptions.XslStream property
 

@@ -7,7 +7,7 @@ description: "OutlineItemCollection property. Gets or sets the action for this o
 type: docs
 weight: 140
 url: "/net/aspose.pdf/outlineitemcollection/action/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.Action property
 

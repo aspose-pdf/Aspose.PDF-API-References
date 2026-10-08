@@ -7,7 +7,7 @@ description: "DocumentPrivilege property. Sets the permission which allow copy o
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/documentprivilege/allowcopy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.AllowCopy property
 

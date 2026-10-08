@@ -8,7 +8,7 @@ type: docs
 weight: 1050
 url: "/net/aspose.pdf.ai/responseformat.objecttype/"
 keywords: "ResponseFormat.ObjectType, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ResponseFormat.ObjectType class
 
@@ -22,13 +22,13 @@ public class ObjectType
 
 | Name | Description |
 | --- | --- |
-| [ObjectType](./objecttype/)() | The default constructor. |
+| [ObjectType](objecttype/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ResponseType](./responsetype/) { get; set; } | Gets or sets the type of the object value. |
+| [ResponseType](../../aspose.pdf.ai/responseformat.objecttype/responsetype/) { get; set; } | Gets or sets the type of the object value. |
 
 ### See Also
 

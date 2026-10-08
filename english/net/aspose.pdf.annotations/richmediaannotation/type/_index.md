@@ -7,7 +7,7 @@ description: "RichMediaAnnotation property. Gets or sets type of content. Possib
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/richmediaannotation/type/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RichMediaAnnotation.Type property
 
@@ -19,6 +19,7 @@ public ContentType Type { get; set; }
 
 ### See Also
 
+* enum [ContentType](../../richmediaannotation.contenttype/)
 * class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

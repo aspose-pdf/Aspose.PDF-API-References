@@ -7,11 +7,11 @@ description: "TableElement method. Creates TableTFootElement and added it to cur
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/tableelement/createtfoot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableElement.CreateTFoot method
 
-Creates [`TableTFootElement`](../../../aspose.pdf.logicalstructure/tabletfootelement/) and added it to current table.
+Creates [`TableTFootElement`](../../tabletfootelement/) and added it to current table.
 
 ```csharp
 public TableTFootElement CreateTFoot()
@@ -23,7 +23,7 @@ Created structure element.
 
 ### See Also
 
-* class [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
+* class [TableTFootElement](../../tabletfootelement/)
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

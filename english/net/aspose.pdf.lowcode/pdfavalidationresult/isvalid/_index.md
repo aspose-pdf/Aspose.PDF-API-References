@@ -7,7 +7,7 @@ description: "PdfAValidationResult field. Gets a value indicating whether the va
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/pdfavalidationresult/isvalid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAValidationResult.IsValid field
 

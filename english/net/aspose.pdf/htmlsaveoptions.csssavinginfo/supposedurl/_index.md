@@ -7,7 +7,7 @@ description: "CssSavingInfo field. Set by converter. Supposed file name that goe
 type: docs
 weight: 20
 url: "/net/aspose.pdf/htmlsaveoptions.csssavinginfo/supposedurl/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.CssSavingInfo.SupposedURL field
 
@@ -21,7 +21,7 @@ public string SupposedURL;
 
 ### See Also
 
-* class [HtmlSaveOptions.CssSavingInfo](../)
+* class [CssSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

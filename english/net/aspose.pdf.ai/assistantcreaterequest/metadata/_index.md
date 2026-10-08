@@ -7,7 +7,7 @@ description: "AssistantCreateRequest property. Gets or sets a set of 16 key-valu
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/assistantcreaterequest/metadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantCreateRequest.Metadata property
 

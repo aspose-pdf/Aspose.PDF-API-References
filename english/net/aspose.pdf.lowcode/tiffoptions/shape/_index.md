@@ -7,13 +7,11 @@ description: "TiffOptions property. Gets or sets the type of the shape."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.lowcode/tiffoptions/shape/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TiffOptions.Shape property
 
 Gets or sets the type of the shape.
-
-Default value is ShapeType.None
 
 ```csharp
 public ShapeType Shape { get; set; }
@@ -22,6 +20,10 @@ public ShapeType Shape { get; set; }
 ### Property Value
 
 The type of the shape.
+
+## Remarks
+
+Default value is ShapeType.None
 
 ### See Also
 

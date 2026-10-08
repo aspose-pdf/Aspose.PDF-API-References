@@ -7,7 +7,7 @@ description: "BatesNArtifact property. Gets or sets the suffix to be added to th
 type: docs
 weight: 50
 url: "/net/aspose.pdf/batesnartifact/suffix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BatesNArtifact.Suffix property
 

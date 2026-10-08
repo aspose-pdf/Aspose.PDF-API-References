@@ -7,7 +7,7 @@ description: "Matrix method. Compares matrix agains other object."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/matrix/equals/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix.Equals method
 

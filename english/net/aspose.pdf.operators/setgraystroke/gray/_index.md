@@ -7,7 +7,7 @@ description: "SetGrayStroke property. Gets or sets the level of gray value."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/setgraystroke/gray/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetGrayStroke.Gray property
 

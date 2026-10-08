@@ -7,9 +7,9 @@ description: "RedactionAnnotation constructor. Constructor for RedactionAnnotati
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/redactionannotation/redactionannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## RedactionAnnotation([Document](../../../aspose.pdf/document/)) {#constructor}
+## RedactionAnnotation(Document) {#constructor}
 
 Constructor for RedactionAnnotation. For using in Generator.
 
@@ -30,7 +30,7 @@ public RedactionAnnotation(Document document)
 
 ---
 
-## RedactionAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
+## RedactionAnnotation(Page, Rectangle) {#constructor_1}
 
 Constructor for RedactAnnotation.
 
@@ -46,7 +46,7 @@ public RedactionAnnotation(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

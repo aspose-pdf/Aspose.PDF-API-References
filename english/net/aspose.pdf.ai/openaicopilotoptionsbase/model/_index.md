@@ -7,7 +7,7 @@ description: "OpenAICopilotOptionsBase property. Gets or sets the model to use f
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/openaicopilotoptionsbase/model/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAICopilotOptionsBase.Model property
 

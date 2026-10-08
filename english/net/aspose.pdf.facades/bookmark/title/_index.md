@@ -7,7 +7,7 @@ description: "Bookmark property. Gets or sets bookmark's title."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/bookmark/title/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Bookmark.Title property
 

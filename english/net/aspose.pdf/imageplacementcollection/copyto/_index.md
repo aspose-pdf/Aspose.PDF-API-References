@@ -7,7 +7,7 @@ description: "ImagePlacementCollection method. Copies the entire collection to a
 type: docs
 weight: 30
 url: "/net/aspose.pdf/imageplacementcollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagePlacementCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public void CopyTo(ImagePlacement[] array, int index)
 
 ### See Also
 
-* class [ImagePlacement](../../../aspose.pdf/imageplacement/)
+* class [ImagePlacement](../../imageplacement/)
 * class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

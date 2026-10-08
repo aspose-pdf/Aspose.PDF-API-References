@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Facades.IFacade interface. General facade interface tha
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/ifacade/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IFacade interface
 
@@ -21,10 +21,10 @@ public interface IFacade : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [BindPdf](./bindpdf/)(Document) | Binds PDF document for editing. |
-| [BindPdf](./bindpdf/)(Stream) | Binds PDF document for editing. |
-| [BindPdf](./bindpdf/)(string) | Binds PDF document for editing. |
-| [Close](./close/)() | Releases any resources associates with the current facade. |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/)(string) | Binds PDF document for editing. |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/)(Stream) | Binds PDF document for editing. |
+| [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/)(Document) | Binds PDF document for editing. |
+| [Close](../../aspose.pdf.facades/ifacade/close/)() | Releases any resources associates with the current facade. |
 
 ### See Also
 

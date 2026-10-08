@@ -7,11 +7,11 @@ description: "FormRemoveSelectedFieldsOptions constructor. Initializes new insta
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formremoveselectedfieldsoptions/formremoveselectedfieldsoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormRemoveSelectedFieldsOptions constructor
 
-Initializes new instance of the [`FormEditorRemoveOptions`](../../../aspose.pdf.lowcode/formeditorremoveoptions/) object.
+Initializes new instance of the [`FormEditorRemoveOptions`](../../formeditorremoveoptions/) object.
 
 ```csharp
 public FormRemoveSelectedFieldsOptions(SelectField selectField)
@@ -23,7 +23,7 @@ public FormRemoveSelectedFieldsOptions(SelectField selectField)
 
 ### See Also
 
-* delegate [SelectField](../../../aspose.pdf.lowcode/selectfield/)
+* delegate [SelectField](../../selectfield/)
 * class [FormRemoveSelectedFieldsOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

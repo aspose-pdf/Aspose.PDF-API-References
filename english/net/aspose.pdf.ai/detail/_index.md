@@ -7,7 +7,7 @@ description: "Aspose.Pdf.AI.Detail enum. Specifies the level of detail for image
 type: docs
 weight: 310
 url: "/net/aspose.pdf.ai/detail/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Detail enumeration
 

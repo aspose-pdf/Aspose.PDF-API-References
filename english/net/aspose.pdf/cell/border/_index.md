@@ -7,7 +7,7 @@ description: "Cell property. Gets or sets the border."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/cell/border/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Cell.Border property
 
@@ -19,7 +19,7 @@ public BorderInfo Border { get; set; }
 
 ### See Also
 
-* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [BorderInfo](../../borderinfo/)
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

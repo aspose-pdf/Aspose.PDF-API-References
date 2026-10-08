@@ -7,7 +7,7 @@ description: "OptionCollection property. Gets option by index."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.forms/optioncollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptionCollection indexer (1 of 2)
 
@@ -27,7 +27,7 @@ Option on the specified index.
 
 ### See Also
 
-* class [Option](../../../aspose.pdf.forms/option/)
+* class [Option](../../option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
@@ -52,7 +52,7 @@ Found option.
 
 ### See Also
 
-* class [Option](../../../aspose.pdf.forms/option/)
+* class [Option](../../option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

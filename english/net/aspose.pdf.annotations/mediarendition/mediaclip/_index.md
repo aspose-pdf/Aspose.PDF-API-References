@@ -7,7 +7,7 @@ description: "MediaRendition property. Gets or sets media clip obkects associate
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/mediarendition/mediaclip/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MediaRendition.MediaClip property
 
@@ -19,7 +19,7 @@ public MediaClip MediaClip { get; }
 
 ### See Also
 
-* class [MediaClip](../../../aspose.pdf.annotations/mediaclip/)
+* class [MediaClip](../../mediaclip/)
 * class [MediaRendition](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

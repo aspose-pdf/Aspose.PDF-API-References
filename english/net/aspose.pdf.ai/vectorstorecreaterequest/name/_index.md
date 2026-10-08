@@ -7,7 +7,7 @@ description: "VectorStoreCreateRequest property. Gets or sets the name of the ve
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/vectorstorecreaterequest/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreCreateRequest.Name property
 

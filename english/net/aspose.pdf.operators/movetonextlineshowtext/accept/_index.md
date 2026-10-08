@@ -7,7 +7,7 @@ description: "MoveToNextLineShowText method. Accepts visitor object to process o
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/movetonextlineshowtext/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MoveToNextLineShowText.Accept method
 

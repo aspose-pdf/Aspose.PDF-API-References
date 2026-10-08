@@ -7,7 +7,7 @@ description: "PdfExtractorOptions property. Returns PdfExtractor plugin data col
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/pdfextractoroptions/inputs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractorOptions.Inputs property
 
@@ -19,6 +19,7 @@ public List<IDataSource> Inputs { get; }
 
 ### See Also
 
+* interface [IDataSource](../../idatasource/)
 * class [PdfExtractorOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

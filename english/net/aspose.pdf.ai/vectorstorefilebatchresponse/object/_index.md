@@ -7,7 +7,7 @@ description: "VectorStoreFileBatchResponse property. Gets or sets the object typ
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/vectorstorefilebatchresponse/object/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileBatchResponse.Object property
 

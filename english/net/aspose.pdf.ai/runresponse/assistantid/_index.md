@@ -7,7 +7,7 @@ description: "RunResponse property. Gets or sets the ID of the assistant used fo
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/runresponse/assistantid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunResponse.AssistantId property
 

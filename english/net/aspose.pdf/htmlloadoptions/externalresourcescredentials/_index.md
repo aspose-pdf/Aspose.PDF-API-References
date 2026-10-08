@@ -7,7 +7,7 @@ description: "HtmlLoadOptions field. If loading of external data referenced in H
 type: docs
 weight: 120
 url: "/net/aspose.pdf/htmlloadoptions/externalresourcescredentials/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlLoadOptions.ExternalResourcesCredentials field
 

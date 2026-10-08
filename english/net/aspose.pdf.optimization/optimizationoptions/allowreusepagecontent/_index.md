@@ -7,7 +7,7 @@ description: "OptimizationOptions property. If true page contents will be reused
 type: docs
 weight: 60
 url: "/net/aspose.pdf.optimization/optimizationoptions/allowreusepagecontent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizationOptions.AllowReusePageContent property
 

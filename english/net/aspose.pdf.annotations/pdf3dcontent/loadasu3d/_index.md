@@ -7,19 +7,19 @@ description: "PDF3DContent method. Loads 3D content with the specified filename 
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/pdf3dcontent/loadasu3d/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## LoadAsU3D(byte[]) {#loadasu3d}
+## LoadAsU3D(string) {#loadasu3d}
 
-Loads 3D content from byte array as U3D format.
+Loads 3D content with the specified filename as U3D format.
 
 ```csharp
-public void LoadAsU3D(byte[] stream)
+public void LoadAsU3D(string filename)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | Byte[] | The stream. |
+| filename | String | The filename. |
 
 ### See Also
 
@@ -49,17 +49,17 @@ public void LoadAsU3D(Stream stream)
 
 ---
 
-## LoadAsU3D(string) {#loadasu3d_2}
+## LoadAsU3D(byte[]) {#loadasu3d_2}
 
-Loads 3D content with the specified filename as U3D format.
+Loads 3D content from byte array as U3D format.
 
 ```csharp
-public void LoadAsU3D(string filename)
+public void LoadAsU3D(byte[] stream)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | String | The filename. |
+| stream | Byte[] | The stream. |
 
 ### See Also
 

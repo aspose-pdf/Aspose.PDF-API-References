@@ -7,7 +7,7 @@ description: "EmbeddedFileCollection property. Gets an object that can be used t
 type: docs
 weight: 100
 url: "/net/aspose.pdf/embeddedfilecollection/syncroot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EmbeddedFileCollection.SyncRoot property
 

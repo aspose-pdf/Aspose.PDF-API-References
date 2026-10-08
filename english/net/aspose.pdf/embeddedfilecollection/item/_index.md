@@ -7,7 +7,7 @@ description: "EmbeddedFileCollection property. Gets embedded file by its index."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/embeddedfilecollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EmbeddedFileCollection indexer (1 of 2)
 
@@ -27,7 +27,7 @@ Retreived embedded file specification
 
 ### See Also
 
-* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [FileSpecification](../../filespecification/)
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
@@ -52,7 +52,7 @@ Retreived embedded file specification.
 
 ### See Also
 
-* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [FileSpecification](../../filespecification/)
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

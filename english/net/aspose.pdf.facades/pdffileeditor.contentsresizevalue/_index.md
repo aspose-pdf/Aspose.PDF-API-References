@@ -8,7 +8,7 @@ type: docs
 weight: 370
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/"
 keywords: "PdfFileEditor.ContentsResizeValue, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeValue class
 
@@ -23,18 +23,18 @@ public class ContentsResizeValue
 
 | Name | Description |
 | --- | --- |
-| [IsPercent](./ispercent/) { get; } | Gets true if value is expressed in percents; False if value is expressed in default units. |
-| [PercentValue](./percentvalue/) { set; } | Sets value in percents of page size. |
-| [UnitValue](./unitvalue/) { set; } | Sets value in default space units. |
-| [Value](./value/) { get; } | Gets specified value. Use Unit property to get value units. |
+| [IsPercent](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/ispercent/) { get; } | Gets true if value is expressed in percents; False if value is expressed in default units. |
+| [PercentValue](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/percentvalue/) { set; } | Sets value in percents of page size. |
+| [UnitValue](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/unitvalue/) { set; } | Sets value in default space units. |
+| [Value](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/value/) { get; } | Gets specified value. Use Unit property to get value units. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Auto](./auto/)() | Initializes automatically calculated value. |
-| static [Percents](./percents/)(double) | Initializes value in percents. |
-| static [Units](./units/)(double) | Initializes value in default space units. |
+| static [Auto](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/auto/)() | Initializes automatically calculated value. |
+| static [Percents](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/percents/)(double) | Initializes value in percents. |
+| static [Units](../../aspose.pdf.facades/pdffileeditor.contentsresizevalue/units/)(double) | Initializes value in default space units. |
 
 ### See Also
 

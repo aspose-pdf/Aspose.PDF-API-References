@@ -7,7 +7,7 @@ description: "SetSpacingMoveToNextLineShowText property. Gets word spacing."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/aw/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetSpacingMoveToNextLineShowText.Aw property
 

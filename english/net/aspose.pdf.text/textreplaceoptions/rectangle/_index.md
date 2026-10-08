@@ -7,7 +7,7 @@ description: "TextReplaceOptions property. Gets or sets the rectangle to fit the
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/textreplaceoptions/rectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextReplaceOptions.Rectangle property
 
@@ -19,7 +19,7 @@ public Rectangle Rectangle { get; set; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

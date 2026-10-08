@@ -7,7 +7,7 @@ description: "SignatureCustomAppearance property. Gets/sets foreground color (co
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/signaturecustomappearance/foregroundcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureCustomAppearance.ForegroundColor property
 

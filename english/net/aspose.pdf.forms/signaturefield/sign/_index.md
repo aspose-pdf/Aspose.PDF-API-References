@@ -7,30 +7,9 @@ description: "SignatureField method. Signs the document using this signature fie
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/signaturefield/sign/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Sign([Signature](../../../aspose.pdf.lowcode/signature/)) {#sign}
-
-Sign the document using this signature field.
-
-```csharp
-public void Sign(Signature signature)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| signature | Signature | Signature object, see <see cref="T:Aspose.Pdf.Forms.PKCS1" />, <see cref="T:Aspose.Pdf.Forms.PKCS7" /> and <see cref="T:Aspose.Pdf.Forms.PKCS7Detached" />. |
-
-### See Also
-
-* class [Signature](../../../aspose.pdf.lowcode/signature/)
-* class [SignatureField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Sign([Signature](../../../aspose.pdf.lowcode/signature/), Stream, string) {#sign_1}
+## Sign(Signature, Stream, string) {#sign}
 
 Signs the document using this signature field.
 
@@ -40,13 +19,34 @@ public void Sign(Signature signature, Stream pfx, string pass)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signature | Signature | Signature object, see <see cref="T:Aspose.Pdf.Forms.PKCS1" />, <see cref="T:Aspose.Pdf.Forms.PKCS7" />, <see cref="T:Aspose.Pdf.Forms.PKCS7Detached" />. |
+| signature | Signature | Signature object, see [`PKCS1`](../../pkcs1/), [`PKCS7`](../../pkcs7/), [`PKCS7Detached`](../../pkcs7detached/). |
 | pfx | Stream | Stream with certificate. |
 | pass | String | Password to access private in the *pfx*. |
 
 ### See Also
 
-* class [Signature](../../../aspose.pdf.lowcode/signature/)
+* class [Signature](../../signature/)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Sign(Signature) {#sign_1}
+
+Sign the document using this signature field.
+
+```csharp
+public void Sign(Signature signature)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| signature | Signature | Signature object, see [`PKCS1`](../../pkcs1/), [`PKCS7`](../../pkcs7/) and [`PKCS7Detached`](../../pkcs7detached/). |
+
+### See Also
+
+* class [Signature](../../signature/)
 * class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

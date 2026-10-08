@@ -7,7 +7,7 @@ description: "ValidationOptions property. Gets or sets the mode of validation fo
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/validationoptions/validationmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ValidationOptions.ValidationMode property
 
@@ -20,7 +20,7 @@ public ValidationMode ValidationMode { get; set; }
 
 ### See Also
 
-* enum [ValidationMode](../../../aspose.pdf.security/validationmode/)
+* enum [ValidationMode](../../validationmode/)
 * class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "ResponseFormat property. Gets or sets the object value of the resp
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/responseformat/objectvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ResponseFormat.ObjectValue property
 
@@ -19,6 +19,7 @@ public ObjectType ObjectValue { get; set; }
 
 ### See Also
 
+* class [ObjectType](../../responseformat.objecttype/)
 * class [ResponseFormat](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

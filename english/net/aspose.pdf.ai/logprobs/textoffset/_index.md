@@ -7,7 +7,7 @@ description: "Logprobs property. Gets or sets a list of integers representing th
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/logprobs/textoffset/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Logprobs.TextOffset property
 

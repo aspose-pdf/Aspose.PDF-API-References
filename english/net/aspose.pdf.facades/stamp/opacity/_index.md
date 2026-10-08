@@ -7,7 +7,7 @@ description: "Stamp property. Gets or sets opacity of the stamp."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/stamp/opacity/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.Opacity property
 

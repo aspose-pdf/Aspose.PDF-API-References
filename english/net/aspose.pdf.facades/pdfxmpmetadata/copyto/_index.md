@@ -7,7 +7,7 @@ description: "PdfXmpMetadata method."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata.CopyTo method
 
@@ -17,13 +17,9 @@ product_version: "26.9.0"
 public void CopyTo(KeyValuePair<string, XmpValue>[] array, int index)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | KeyValuePair`2[] |  |
-| index | Int32 |  |
-
 ### See Also
 
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

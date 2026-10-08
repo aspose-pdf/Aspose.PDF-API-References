@@ -7,7 +7,7 @@ description: "PdfAnnotationEditor method. Deletes all annotations in the documen
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/pdfannotationeditor/deleteannotations/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DeleteAnnotations() {#deleteannotations}
 

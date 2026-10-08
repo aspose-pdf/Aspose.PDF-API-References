@@ -7,7 +7,7 @@ description: "DocumentInfo property. Time zone of creation date."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/documentinfo/creationtimezone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentInfo.CreationTimeZone property
 

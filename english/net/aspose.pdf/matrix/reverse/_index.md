@@ -7,7 +7,7 @@ description: "Matrix method. Calculates reverse matrix."
 type: docs
 weight: 200
 url: "/net/aspose.pdf/matrix/reverse/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix.Reverse method
 
@@ -30,7 +30,7 @@ Matrix m1 = m.Reverse();
 
 ### See Also
 
-* class [Matrix](../../../aspose.pdf/matrix/)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

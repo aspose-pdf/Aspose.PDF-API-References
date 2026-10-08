@@ -7,7 +7,7 @@ description: "Page method. Frees up memory"
 type: docs
 weight: 280
 url: "/net/aspose.pdf/page/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Dispose method
 

@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute InlineAlign: End - End edge of each
 type: docs
 weight: 350
 url: "/net/aspose.pdf.logicalstructure/attributename/inlinealign_end/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.InlineAlign_End field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName InlineAlign_End;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

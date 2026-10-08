@@ -7,34 +7,11 @@ description: "BarcodeField constructor. Initializes new instance of the BarcodeF
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/barcodefield/barcodefield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## BarcodeField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor}
+## BarcodeField(Page, Rectangle) {#constructor}
 
-Initializes new instance of the [`BarcodeField`](../../../aspose.pdf.forms/barcodefield/) class.
-
-```csharp
-public BarcodeField(Document doc, Rectangle rect)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Document where field will be created. |
-| rect | Rectangle | Rectangle where field will be placed on the page. |
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [BarcodeField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## BarcodeField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
-
-Initializes new instance of the [`BarcodeField`](../../../aspose.pdf.forms/barcodefield/) class.
+Initializes new instance of the [`BarcodeField`](../) class.
 
 ```csharp
 public BarcodeField(Page page, Rectangle rect)
@@ -48,7 +25,30 @@ public BarcodeField(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [BarcodeField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## BarcodeField(Document, Rectangle) {#constructor_1}
+
+Initializes new instance of the [`BarcodeField`](../) class.
+
+```csharp
+public BarcodeField(Document doc, Rectangle rect)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | Document where field will be created. |
+| rect | Rectangle | Rectangle where field will be placed on the page. |
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [BarcodeField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

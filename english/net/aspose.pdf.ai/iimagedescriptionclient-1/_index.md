@@ -7,7 +7,7 @@ description: "Aspose.Pdf.AI.IImageDescriptionClient interface. Represents an int
 type: docs
 weight: 520
 url: "/net/aspose.pdf.ai/iimagedescriptionclient-1/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IImageDescriptionClient&lt;TOptions&gt; interface
 
@@ -17,20 +17,19 @@ Represents an interface for an image description client with specific options.
 public interface IImageDescriptionClient<in TOptions> : IAIClient
 ```
 
-## Type Parameters
-
-| Name | Description |
+| Parameter | Description |
 | --- | --- |
-| TOptions |  |
+| TOptions | The type of options for the image description client. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetImageDescriptionCopilot](./getimagedescriptioncopilot/)(IImageDescriptionCopilotOptions<TOptions>) | Gets an instance of [`IImageDescriptionCopilot`](../../aspose.pdf.ai/iimagedescriptioncopilot/) with the specified options. |
+| [GetImageDescriptionCopilot](../../aspose.pdf.ai/iimagedescriptionclient-1/getimagedescriptioncopilot/)(IImageDescriptionCopilotOptions&lt;TOptions&gt;) | Gets an instance of [`IImageDescriptionCopilot`](../iimagedescriptioncopilot/) with the specified options. |
 
 ### See Also
 
+* interface [IAIClient](../iaiclient/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
 

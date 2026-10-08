@@ -7,7 +7,7 @@ description: "NamedAction constructor. Constructor for Named Action class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/namedaction/namedaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## NamedAction constructor
 
@@ -23,7 +23,7 @@ public NamedAction(PredefinedAction action)
 
 ### See Also
 
-* enum [PredefinedAction](../../../aspose.pdf.annotations/predefinedaction/)
+* enum [PredefinedAction](../../predefinedaction/)
 * class [NamedAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

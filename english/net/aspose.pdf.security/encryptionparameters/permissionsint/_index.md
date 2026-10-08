@@ -7,7 +7,7 @@ description: "EncryptionParameters property. The integer representation of docum
 type: docs
 weight: 60
 url: "/net/aspose.pdf.security/encryptionparameters/permissionsint/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EncryptionParameters.PermissionsInt property
 

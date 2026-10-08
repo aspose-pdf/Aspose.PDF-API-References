@@ -8,7 +8,7 @@ type: docs
 weight: 1450
 url: "/net/aspose.pdf.ai/vectorstorelistqueryparameters/"
 keywords: "VectorStoreListQueryParameters, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreListQueryParameters class
 
@@ -22,7 +22,7 @@ public class VectorStoreListQueryParameters : BaseListQueryParameters, IQueryPar
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreListQueryParameters](./vectorstorelistqueryparameters/)() | The default constructor. |
+| [VectorStoreListQueryParameters](vectorstorelistqueryparameters/)() | The default constructor. |
 
 ## Properties
 
@@ -37,11 +37,12 @@ public class VectorStoreListQueryParameters : BaseListQueryParameters, IQueryPar
 
 | Name | Description |
 | --- | --- |
-| [GetQueryParameters](./getqueryparameters/)() | Gets the query parameters for listing vector stores. |
+| [GetQueryParameters](../../aspose.pdf.ai/vectorstorelistqueryparameters/getqueryparameters/)() | Gets the query parameters for listing vector stores. |
 
 ### See Also
 
 * class [BaseListQueryParameters](../baselistqueryparameters/)
+* interface [IQueryParameters](../iqueryparameters/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
 

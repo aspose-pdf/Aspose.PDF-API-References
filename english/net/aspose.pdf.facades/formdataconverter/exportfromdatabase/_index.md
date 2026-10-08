@@ -7,7 +7,7 @@ description: "FormDataConverter method. Exports data from database into table."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/formdataconverter/exportfromdatabase/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormDataConverter.ExportFromDataBase method
 
@@ -37,7 +37,7 @@ fc.ExportFromDataBase(connection, DataType.OLEDB);
 
 ### See Also
 
-* enum [DataType](../../../aspose.pdf.lowcode/datatype/)
+* enum [DataType](../../datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "FreeTextAnnotation property. Gets or sets the default appearance s
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/freetextannotation/defaultappearance/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FreeTextAnnotation.DefaultAppearance property
 

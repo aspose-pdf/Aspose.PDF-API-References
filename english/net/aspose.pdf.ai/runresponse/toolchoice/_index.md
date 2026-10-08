@@ -7,7 +7,7 @@ description: "RunResponse property. Gets or sets which (if any) tool is called b
 type: docs
 weight: 260
 url: "/net/aspose.pdf.ai/runresponse/toolchoice/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunResponse.ToolChoice property
 

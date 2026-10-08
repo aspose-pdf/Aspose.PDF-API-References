@@ -8,7 +8,7 @@ type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/bdcproperties/"
 keywords: "BDCProperties, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BDCProperties class
 
@@ -22,16 +22,16 @@ public class BDCProperties
 
 | Name | Description |
 | --- | --- |
-| [BDCProperties](./bdcproperties/#constructor)(string, string) | Constructor for properties of BDC operator. |
-| [BDCProperties](./bdcproperties/#constructor_1)(int?, string, string) | Constructor for properties of BDC operator. |
+| [BDCProperties](bdcproperties/#constructor)(string, string) | Constructor for properties of BDC operator. |
+| [BDCProperties](bdcproperties/#constructor_1)(int?, string, string) | Constructor for properties of BDC operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [E](./e/) { get; set; } | Gets/sets Expansion text value. |
-| [Lang](./lang/) { get; set; } | Gets/sets Language value. |
-| [MCID](./mcid/) { get; } | Gets/sets MCID value. |
+| [E](../../aspose.pdf.facades/bdcproperties/e/) { get; set; } | Gets/sets Expansion text value. |
+| [Lang](../../aspose.pdf.facades/bdcproperties/lang/) { get; set; } | Gets/sets Language value. |
+| [MCID](../../aspose.pdf.facades/bdcproperties/mcid/) { get; } | Gets/sets MCID value. |
 
 ### See Also
 

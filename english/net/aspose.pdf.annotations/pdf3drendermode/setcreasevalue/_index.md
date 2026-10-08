@@ -7,7 +7,7 @@ description: "PDF3DRenderMode method. Sets the crease value."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/pdf3drendermode/setcreasevalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DRenderMode.SetCreaseValue method
 
@@ -27,7 +27,7 @@ PDF3DRenderMode.
 
 ### See Also
 
-* class [PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
+* class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "TextProperties property. Gets or sets text size."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/textproperties/textsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextProperties.TextSize property
 

@@ -7,7 +7,7 @@ description: "FileSpecification property. Gets or sets encoding format. Possible
 type: docs
 weight: 110
 url: "/net/aspose.pdf/filespecification/encoding/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSpecification.Encoding property
 
@@ -21,7 +21,7 @@ public FileEncoding Encoding { get; set; }
 
 ### See Also
 
-* enum [FileEncoding](../../../aspose.pdf/fileencoding/)
+* enum [FileEncoding](../../fileencoding/)
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

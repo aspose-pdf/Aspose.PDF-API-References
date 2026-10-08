@@ -7,7 +7,7 @@ description: "Aspose.Pdf.IIndexBitmapConverter interface. This interface declare
 type: docs
 weight: 1390
 url: "/net/aspose.pdf/iindexbitmapconverter/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IIndexBitmapConverter interface
 
@@ -22,9 +22,9 @@ public interface IIndexBitmapConverter
 
 | Name | Description |
 | --- | --- |
-| [Get1BppImage](./get1bppimage/)(Bitmap) | Returns 1Bpp bitmap representation |
-| [Get4BppImage](./get4bppimage/)(Bitmap) | Returns 4Bpp bitmap representation |
-| [Get8BppImage](./get8bppimage/)(Bitmap) | Returns 8Bpp bitmap representation |
+| [Get1BppImage](../../aspose.pdf/iindexbitmapconverter/get1bppimage/)(Bitmap) | Returns 1Bpp bitmap representation |
+| [Get4BppImage](../../aspose.pdf/iindexbitmapconverter/get4bppimage/)(Bitmap) | Returns 4Bpp bitmap representation |
+| [Get8BppImage](../../aspose.pdf/iindexbitmapconverter/get8bppimage/)(Bitmap) | Returns 8Bpp bitmap representation |
 
 ### See Also
 

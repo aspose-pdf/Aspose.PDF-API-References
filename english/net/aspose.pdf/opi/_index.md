@@ -8,7 +8,7 @@ type: docs
 weight: 2000
 url: "/net/aspose.pdf/opi/"
 keywords: "Opi, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Opi class
 
@@ -23,15 +23,15 @@ public sealed class Opi
 
 | Name | Description |
 | --- | --- |
-| [Opi](./opi/)(XForm) | The constructor. |
+| [Opi](opi/)(XForm) | The constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FileSpecification](./filespecification/) { get; } | Gets the external file containing the low- resolution proxy image. |
-| [Position](./position/) { get; } | Gets an array of eight numbers of the form specifying the location on the page of the cropped image. |
-| [Version](./version/) { get; } | Gets the version of OPI to which this dictionary refers. |
+| [FileSpecification](../../aspose.pdf/opi/filespecification/) { get; } | Gets the external file containing the low- resolution proxy image. |
+| [Position](../../aspose.pdf/opi/position/) { get; } | Gets an array of eight numbers of the form specifying the location on the page of the cropped image. |
+| [Version](../../aspose.pdf/opi/version/) { get; } | Gets the version of OPI to which this dictionary refers. |
 
 ### See Also
 

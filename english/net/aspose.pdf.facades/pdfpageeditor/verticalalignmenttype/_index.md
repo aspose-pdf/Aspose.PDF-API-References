@@ -7,7 +7,7 @@ description: "PdfPageEditor property. Gets or Sets the vertical alignment of the
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/pdfpageeditor/verticalalignmenttype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.VerticalAlignmentType property
 

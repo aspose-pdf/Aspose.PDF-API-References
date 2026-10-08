@@ -7,7 +7,7 @@ description: "Resources method. Clears cached data, frees memory etc."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/resources/freememory/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Resources.FreeMemory method
 

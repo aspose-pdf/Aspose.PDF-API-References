@@ -7,7 +7,7 @@ description: "IDocumentFontUtilities method. Returns all fonts from document"
 type: docs
 weight: 20
 url: "/net/aspose.pdf/document.idocumentfontutilities/getallfonts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.IDocumentFontUtilities.GetAllFonts method
 
@@ -24,7 +24,7 @@ fonts
 ### See Also
 
 * class [Font](../../../aspose.pdf.text/font/)
-* interface [Document.IDocumentFontUtilities](../)
+* interface [IDocumentFontUtilities](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "Field property. Gets subfield contained in this field by name of t
 type: docs
 weight: 190
 url: "/net/aspose.pdf.forms/field/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Field indexer (1 of 2)
 

@@ -7,7 +7,7 @@ description: "TableCellElement property. Gets or sets the cell's text word wrapp
 type: docs
 weight: 90
 url: "/net/aspose.pdf.logicalstructure/tablecellelement/iswordwrapped/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableCellElement.IsWordWrapped property
 

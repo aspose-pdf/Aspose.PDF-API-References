@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Checks if the signature covers the whole 
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/pdffilesignature/coverswholedocument/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.CoversWholeDocument method
 
@@ -27,7 +27,7 @@ Return a result of bool type.
 
 ### See Also
 
-* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

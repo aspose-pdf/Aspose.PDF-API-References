@@ -7,7 +7,7 @@ description: "AnnotationActionCollection property. Gets or sets an action to be 
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/annotationactioncollection/onvalidate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AnnotationActionCollection.OnValidate property
 
@@ -19,7 +19,7 @@ public PdfAction OnValidate { get; set; }
 
 ### See Also
 
-* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [PdfAction](../../pdfaction/)
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "ClosePathStroke constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/closepathstroke/closepathstroke/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ClosePathStroke constructor
 

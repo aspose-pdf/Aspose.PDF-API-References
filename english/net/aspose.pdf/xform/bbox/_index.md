@@ -7,7 +7,7 @@ description: "XForm property. Gets or sets form bounding box."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/xform/bbox/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XForm.BBox property
 
@@ -19,7 +19,7 @@ public Rectangle BBox { get; set; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../rectangle/)
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

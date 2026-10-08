@@ -7,7 +7,7 @@ description: "PaperSizes field. #3 envelope (125 mm by 176 mm)."
 type: docs
 weight: 960
 url: "/net/aspose.pdf.printing/papersizes/prcenvelopenumber3/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.PrcEnvelopeNumber3 field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize PrcEnvelopeNumber3;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

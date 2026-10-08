@@ -7,7 +7,7 @@ description: "PageLabel property. Gets or sets starting value of the page number
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagelabel/startingvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageLabel.StartingValue property
 

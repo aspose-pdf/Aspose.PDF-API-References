@@ -7,7 +7,7 @@ description: "RunCreateRequest property. Gets or sets the tools that override th
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/runcreaterequest/tools/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunCreateRequest.Tools property
 
@@ -20,6 +20,7 @@ public List<Tool> Tools { get; set; }
 
 ### See Also
 
+* class [Tool](../../tool/)
 * class [RunCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

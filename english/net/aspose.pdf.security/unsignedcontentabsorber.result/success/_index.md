@@ -7,7 +7,7 @@ description: "Result property. Gets a value indicating whether the operation to 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/unsignedcontentabsorber.result/success/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnsignedContentAbsorber.Result.Success property
 
@@ -19,7 +19,7 @@ public bool Success { get; }
 
 ### See Also
 
-* class [UnsignedContentAbsorber.Result](../)
+* class [Result](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
 

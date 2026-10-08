@@ -7,7 +7,7 @@ description: "PDF3DAnnotation method. Gets the image preview."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/pdf3dannotation/getimagepreview/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DAnnotation.GetImagePreview method
 

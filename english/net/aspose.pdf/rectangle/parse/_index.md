@@ -7,7 +7,7 @@ description: "Rectangle method. Try to parse string and extract from it rectangl
 type: docs
 weight: 60
 url: "/net/aspose.pdf/rectangle/parse/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.Parse method
 
@@ -27,7 +27,7 @@ Rectangle object.
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

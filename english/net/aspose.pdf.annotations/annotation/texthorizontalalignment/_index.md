@@ -7,7 +7,7 @@ description: "Annotation property. Gets or sets text alignment for annotation."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.annotations/annotation/texthorizontalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.TextHorizontalAlignment property
 

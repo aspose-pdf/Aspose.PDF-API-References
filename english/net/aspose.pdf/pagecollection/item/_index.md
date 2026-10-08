@@ -7,7 +7,7 @@ description: "PageCollection property. Gets page by index."
 type: docs
 weight: 310
 url: "/net/aspose.pdf/pagecollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollection indexer
 
@@ -27,7 +27,7 @@ Retreived page.
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

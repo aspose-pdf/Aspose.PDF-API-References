@@ -7,7 +7,7 @@ description: "OutlineItemCollection property. Gets or sets bold flag for the tit
 type: docs
 weight: 170
 url: "/net/aspose.pdf/outlineitemcollection/bold/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.Bold property
 

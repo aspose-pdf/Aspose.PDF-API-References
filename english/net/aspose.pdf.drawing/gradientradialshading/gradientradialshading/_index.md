@@ -7,11 +7,11 @@ description: "GradientRadialShading constructor. Initializes a new instance of t
 type: docs
 weight: 10
 url: "/net/aspose.pdf.drawing/gradientradialshading/gradientradialshading/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GradientRadialShading() {#constructor}
 
-Initializes a new instance of the [`GradientRadialShading`](../../../aspose.pdf.drawing/gradientradialshading/) class.
+Initializes a new instance of the [`GradientRadialShading`](../) class.
 
 ```csharp
 public GradientRadialShading()
@@ -25,9 +25,9 @@ public GradientRadialShading()
 
 ---
 
-## GradientRadialShading([Color](../../../aspose.pdf/color/), [Color](../../../aspose.pdf/color/)) {#constructor_1}
+## GradientRadialShading(Color, Color) {#constructor_1}
 
-Initializes a new instance of the [`GradientRadialShading`](../../../aspose.pdf.drawing/gradientradialshading/) class.
+Initializes a new instance of the [`GradientRadialShading`](../) class.
 
 ```csharp
 public GradientRadialShading(Color startColor, Color endColor)

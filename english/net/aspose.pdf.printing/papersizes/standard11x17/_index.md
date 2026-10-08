@@ -7,7 +7,7 @@ description: "PaperSizes field. Standard paper (11 in. by 17 in.)."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.printing/papersizes/standard11x17/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.Standard11x17 field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize Standard11x17;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

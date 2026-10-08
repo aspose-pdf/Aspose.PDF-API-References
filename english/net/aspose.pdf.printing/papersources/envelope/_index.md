@@ -7,7 +7,7 @@ description: "PaperSources field. Represents an automatic envelope feed paper so
 type: docs
 weight: 50
 url: "/net/aspose.pdf.printing/papersources/envelope/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSources.Envelope field
 
@@ -19,7 +19,7 @@ public static readonly PaperSource Envelope;
 
 ### See Also
 
-* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSource](../../papersource/)
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

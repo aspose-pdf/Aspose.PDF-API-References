@@ -7,7 +7,7 @@ description: "FileHyperlink property. Gets or sets a flag specifying whether to 
 type: docs
 weight: 30
 url: "/net/aspose.pdf/filehyperlink/newwindow/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileHyperlink.NewWindow property
 
@@ -19,7 +19,7 @@ public ExtendedBoolean NewWindow { get; set; }
 
 ### See Also
 
-* enum [ExtendedBoolean](../../../aspose.pdf/extendedboolean/)
+* enum [ExtendedBoolean](../../extendedboolean/)
 * class [FileHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

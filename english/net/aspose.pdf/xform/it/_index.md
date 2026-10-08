@@ -7,7 +7,7 @@ description: "XForm property. Gets form IT. Form IT is a name describing the int
 type: docs
 weight: 80
 url: "/net/aspose.pdf/xform/it/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XForm.IT property
 

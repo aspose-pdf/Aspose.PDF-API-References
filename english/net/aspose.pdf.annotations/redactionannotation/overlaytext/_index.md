@@ -7,7 +7,7 @@ description: "RedactionAnnotation property. Gets or sets text to print on redact
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/redactionannotation/overlaytext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RedactionAnnotation.OverlayText property
 

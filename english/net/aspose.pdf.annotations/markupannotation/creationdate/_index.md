@@ -7,7 +7,7 @@ description: "MarkupAnnotation property. Gets date and time when annotation was 
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/markupannotation/creationdate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupAnnotation.CreationDate property
 

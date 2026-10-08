@@ -7,7 +7,7 @@ description: "ITaggedContent method. Sets title for PDF document."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.tagged/itaggedcontent/settitle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.SetTitle method
 

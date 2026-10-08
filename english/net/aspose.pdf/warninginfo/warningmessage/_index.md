@@ -7,7 +7,7 @@ description: "WarningInfo property. Returns string representation of warning mes
 type: docs
 weight: 20
 url: "/net/aspose.pdf/warninginfo/warningmessage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WarningInfo.WarningMessage property
 

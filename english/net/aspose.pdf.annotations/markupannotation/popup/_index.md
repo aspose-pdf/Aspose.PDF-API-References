@@ -7,7 +7,7 @@ description: "MarkupAnnotation property. Pop-up annotation for entering or editi
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/markupannotation/popup/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupAnnotation.Popup property
 
@@ -19,7 +19,7 @@ public PopupAnnotation Popup { get; set; }
 
 ### See Also
 
-* class [PopupAnnotation](../../../aspose.pdf.annotations/popupannotation/)
+* class [PopupAnnotation](../../popupannotation/)
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

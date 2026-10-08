@@ -7,7 +7,7 @@ description: "SetAdvancedColorStroke method. Accepts visitor object to process o
 type: docs
 weight: 80
 url: "/net/aspose.pdf.operators/setadvancedcolorstroke/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetAdvancedColorStroke.Accept method
 

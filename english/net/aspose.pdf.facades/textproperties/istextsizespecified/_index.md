@@ -7,11 +7,11 @@ description: "TextProperties property. Gets or sets a value that indicates wheth
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/textproperties/istextsizespecified/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextProperties.IsTextSizeSpecified property
 
-Gets or sets a value that indicates whether the `TextSize` property is specified.
+Gets or sets a value that indicates whether the [`TextSize`](../textsize/) property is specified.
 
 ```csharp
 public bool IsTextSizeSpecified { get; }

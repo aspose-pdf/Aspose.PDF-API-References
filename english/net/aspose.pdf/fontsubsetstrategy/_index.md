@@ -7,7 +7,7 @@ description: "Aspose.Pdf.FontSubsetStrategy enum. enumerates strategies for font
 type: docs
 weight: 960
 url: "/net/aspose.pdf/fontsubsetstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontSubsetStrategy enumeration
 

@@ -7,7 +7,7 @@ description: "PaperSizes field. Japanese postcard (100 mm by 148 mm)."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.printing/papersizes/japanesepostcard/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.JapanesePostcard field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize JapanesePostcard;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

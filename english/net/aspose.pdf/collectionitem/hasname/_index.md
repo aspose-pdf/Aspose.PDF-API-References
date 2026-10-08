@@ -7,7 +7,7 @@ description: "CollectionItem method. Checks if the given name exists in the coll
 type: docs
 weight: 10
 url: "/net/aspose.pdf/collectionitem/hasname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionItem.HasName method
 

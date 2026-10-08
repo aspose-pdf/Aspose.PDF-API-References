@@ -7,7 +7,7 @@ description: "HtmlSaveOptions property. Indicates that full font will be saved, 
 type: docs
 weight: 50
 url: "/net/aspose.pdf/htmlsaveoptions/savefullfont/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.SaveFullFont property
 

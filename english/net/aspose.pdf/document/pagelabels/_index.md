@@ -7,7 +7,7 @@ description: "Document property. Gets page labels in the document."
 type: docs
 weight: 1580
 url: "/net/aspose.pdf/document/pagelabels/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.PageLabels property
 
@@ -19,7 +19,7 @@ public PageLabelCollection PageLabels { get; }
 
 ### See Also
 
-* class [PageLabelCollection](../../../aspose.pdf/pagelabelcollection/)
+* class [PageLabelCollection](../../pagelabelcollection/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

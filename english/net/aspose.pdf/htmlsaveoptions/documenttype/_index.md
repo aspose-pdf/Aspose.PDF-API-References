@@ -7,11 +7,11 @@ description: "HtmlSaveOptions property. Gets or sets the HtmlDocumentType."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/htmlsaveoptions/documenttype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.DocumentType property
 
-Gets or sets the [`HtmlDocumentType`](../../../aspose.pdf/htmldocumenttype/).
+Gets or sets the [`HtmlDocumentType`](../../htmldocumenttype/).
 
 ```csharp
 public HtmlDocumentType DocumentType { get; set; }
@@ -19,11 +19,11 @@ public HtmlDocumentType DocumentType { get; set; }
 
 ### Property Value
 
-The [`HtmlDocumentType`](../../../aspose.pdf/htmldocumenttype/).
+The [`HtmlDocumentType`](../../htmldocumenttype/).
 
 ### See Also
 
-* enum [HtmlDocumentType](../../../aspose.pdf/htmldocumenttype/)
+* enum [HtmlDocumentType](../../htmldocumenttype/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

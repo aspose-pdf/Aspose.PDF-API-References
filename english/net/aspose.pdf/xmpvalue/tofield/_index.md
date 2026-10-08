@@ -7,7 +7,7 @@ description: "XmpValue method. Returns XMP value as XMP field."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/xmpvalue/tofield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpValue.ToField method
 
@@ -23,7 +23,7 @@ Field value.
 
 ### See Also
 
-* class [XmpField](../../../aspose.pdf/xmpfield/)
+* class [XmpField](../../xmpfield/)
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "PdfXmpMetadata method. Get the XmpMetadata of the input pdf in a x
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/getxmpmetadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GetXmpMetadata() {#getxmpmetadata}
 

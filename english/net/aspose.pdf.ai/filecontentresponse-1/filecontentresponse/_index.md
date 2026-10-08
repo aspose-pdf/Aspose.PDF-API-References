@@ -7,7 +7,7 @@ description: "FileContentResponse constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/filecontentresponse-1/filecontentresponse/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileContentResponse constructor
 
@@ -19,7 +19,7 @@ public FileContentResponse()
 
 ### See Also
 
-* class [FileContentResponse<T>](../)
+* class [FileContentResponse&lt;T&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

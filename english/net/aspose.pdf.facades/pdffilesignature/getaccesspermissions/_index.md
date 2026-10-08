@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Returns the access permissions value of c
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/pdffilesignature/getaccesspermissions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.GetAccessPermissions method
 

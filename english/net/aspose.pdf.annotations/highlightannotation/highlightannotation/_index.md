@@ -7,7 +7,7 @@ description: "HighlightAnnotation constructor. Creates new Highlight annotation 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/highlightannotation/highlightannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HighlightAnnotation constructor
 
@@ -25,7 +25,7 @@ public HighlightAnnotation(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [HighlightAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

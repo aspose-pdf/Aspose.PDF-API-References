@@ -7,7 +7,7 @@ description: "PdfSaveOptions property. Path for temporary files."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pdfsaveoptions/temppath/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfSaveOptions.TempPath property
 

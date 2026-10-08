@@ -7,7 +7,7 @@ description: "ISummaryCopilot method. Asynchronously gets a summary PDF document
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GetSummaryDocumentAsync(CancellationToken?) {#getsummarydocumentasync}
 
@@ -27,13 +27,14 @@ A task representing the asynchronous operation with the summary document.
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * interface [ISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetSummaryDocumentAsync([PageInfo](../../../aspose.pdf/pageinfo/), CancellationToken?) {#getsummarydocumentasync_1}
+## GetSummaryDocumentAsync(PageInfo, CancellationToken?) {#getsummarydocumentasync_1}
 
 Asynchronously gets a summary PDF document for the specified page information.
 
@@ -53,6 +54,7 @@ A task representing the asynchronous operation with the summary document.
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [PageInfo](../../../aspose.pdf/pageinfo/)
 * interface [ISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)

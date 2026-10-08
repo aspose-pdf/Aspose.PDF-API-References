@@ -7,7 +7,7 @@ description: "Image property. Gets or sets a bool value that indicates whether t
 type: docs
 weight: 130
 url: "/net/aspose.pdf/image/isblackwhite/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Image.IsBlackWhite property
 

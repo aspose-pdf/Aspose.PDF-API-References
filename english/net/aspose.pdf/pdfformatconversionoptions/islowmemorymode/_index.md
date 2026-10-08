@@ -7,7 +7,7 @@ description: "PdfFormatConversionOptions property. Is low memory conversion mode
 type: docs
 weight: 80
 url: "/net/aspose.pdf/pdfformatconversionoptions/islowmemorymode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.IsLowMemoryMode property
 

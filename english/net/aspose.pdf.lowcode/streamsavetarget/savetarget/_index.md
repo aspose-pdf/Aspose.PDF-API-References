@@ -7,7 +7,7 @@ description: "StreamSaveTarget property. Type of the save target (stream)."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/streamsavetarget/savetarget/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StreamSaveTarget.SaveTarget property
 
@@ -19,11 +19,11 @@ public DataType SaveTarget { get; }
 
 ### Return Value
 
-A [`DataType`](../../../aspose.pdf.lowcode/datatype/) object representing output data.
+A [`DataType`](../../datatype/) object representing output data.
 
 ### See Also
 
-* enum [DataType](../../../aspose.pdf.lowcode/datatype/)
+* enum [DataType](../../datatype/)
 * class [StreamSaveTarget](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

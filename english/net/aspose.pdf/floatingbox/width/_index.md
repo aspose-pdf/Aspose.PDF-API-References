@@ -7,7 +7,7 @@ description: "FloatingBox property. Gets or sets a float value that indicates th
 type: docs
 weight: 50
 url: "/net/aspose.pdf/floatingbox/width/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FloatingBox.Width property
 

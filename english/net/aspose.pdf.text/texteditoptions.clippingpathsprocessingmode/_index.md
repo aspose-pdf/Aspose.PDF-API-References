@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Text.TextEditOptions.ClippingPathsProcessingMode enum. 
 type: docs
 weight: 440
 url: "/net/aspose.pdf.text/texteditoptions.clippingpathsprocessingmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextEditOptions.ClippingPathsProcessingMode enumeration
 

@@ -1,5 +1,5 @@
 ---
-title: "SaveOptions.MarginInfo.SaveOptions.MarginInfo"
+title: "SaveOptions.MarginInfo.MarginInfo"
 linktitle: "SaveOptions.MarginInfo"
 articleTitle: "SaveOptions.MarginInfo"
 second_title: "Aspose.PDF for .NET API Reference"
@@ -7,7 +7,7 @@ description: "MarginInfo constructor. Creates instance of MarginInfo"
 type: docs
 weight: 10
 url: "/net/aspose.pdf/saveoptions.margininfo/margininfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarginInfo() {#constructor}
 
@@ -19,7 +19,7 @@ public MarginInfo()
 
 ### See Also
 
-* class [SaveOptions.MarginInfo](../)
+* class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,7 +41,8 @@ public MarginInfo(MarginPartStyle commonMargin)
 
 ### See Also
 
-* class [SaveOptions.MarginInfo](../)
+* class [MarginPartStyle](../../saveoptions.marginpartstyle/)
+* class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

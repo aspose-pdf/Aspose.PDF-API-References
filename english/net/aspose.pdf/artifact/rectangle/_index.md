@@ -7,7 +7,7 @@ description: "Artifact property. Gets rectangle of the artifact."
 type: docs
 weight: 220
 url: "/net/aspose.pdf/artifact/rectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.Rectangle property
 
@@ -19,7 +19,7 @@ public Rectangle Rectangle { get; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../rectangle/)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -8,7 +8,7 @@ type: docs
 weight: 360
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/"
 keywords: "PdfFileEditor.ContentsResizeParameters, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeParameters class
 
@@ -31,31 +31,31 @@ public class ContentsResizeParameters
 
 | Name | Description |
 | --- | --- |
-| [ContentsResizeParameters](./contentsresizeparameters/#constructor)() | Creates resize parameters where al values are set to "auto". Later margins and contents size may be specified if required. |
-| [ContentsResizeParameters](./contentsresizeparameters/#constructor_1)(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) | Creates resize parameters with specified margin values and contents size. |
+| [ContentsResizeParameters](contentsresizeparameters/#constructor)() | Creates resize parameters where al values are set to "auto". Later margins and contents size may be specified if required. |
+| [ContentsResizeParameters](contentsresizeparameters/#constructor_1)(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) | Creates resize parameters with specified margin values and contents size. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BottomMargin](./bottommargin/) { get; set; } | Gets or sets bottom margin on the resultant page. |
-| [ChangeMediaBox](./changemediabox/) { get; set; } | Gets and sets whether to adjust the MediaBox of a PDF page during the resizing operation. The default value is `false` |
-| [ContentsHeight](./contentsheight/) { get; set; } | Gets or sets height of the content of the source page on the resultant page. |
-| [ContentsWidth](./contentswidth/) { get; set; } | Gets or sets width of the content of the source page on the resultant page. |
-| [LeftMargin](./leftmargin/) { get; set; } | Gets or sets left margin on the resultant page. |
-| [RightMargin](./rightmargin/) { get; set; } | Gets or sets right margin on the resultant page. |
-| [TopMargin](./topmargin/) { get; set; } | Gets or sets top margin on the resultant page. |
+| [BottomMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/bottommargin/) { get; set; } | Gets or sets bottom margin on the resultant page. |
+| [ChangeMediaBox](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/changemediabox/) { get; set; } | Gets and sets whether to adjust the MediaBox of a PDF page during the resizing operation. The default value is `false` |
+| [ContentsHeight](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsheight/) { get; set; } | Gets or sets height of the content of the source page on the resultant page. |
+| [ContentsWidth](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentswidth/) { get; set; } | Gets or sets width of the content of the source page on the resultant page. |
+| [LeftMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/leftmargin/) { get; set; } | Gets or sets left margin on the resultant page. |
+| [RightMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/rightmargin/) { get; set; } | Gets or sets right margin on the resultant page. |
+| [TopMargin](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/topmargin/) { get; set; } | Gets or sets top margin on the resultant page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [ContentSize](./contentsize/)(double, double) | Creates resize parameters with specified contents size. |
-| static [ContentSizePercent](./contentsizepercent/)(double, double) | Creates resize parameters with specified contents size in percents of initial page size. Margins are caculated automatically. |
-| static [Margins](./margins/)(double, double, double, double) | Creates resize parameters with specifed margins value. Contents size is automatically calculated. |
-| static [MarginsPercent](./marginspercent/)(double, double, double, double) | Creates resize parameters. Margins are specified in percents of initial page size. |
-| static [PageResize](./pageresize/)(double, double) | Creates resize paramters for page resize. |
-| static [PageResizePct](./pageresizepct/)(double, double) | Creates resize paramters for page resize. New sizes are specified in percent. |
+| static [ContentSize](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsize/)(double, double) | Creates resize parameters with specified contents size. |
+| static [ContentSizePercent](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent/)(double, double) | Creates resize parameters with specified contents size in percents of initial page size. Margins are caculated automatically. |
+| static [Margins](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/margins/)(double, double, double, double) | Creates resize parameters with specifed margins value. Contents size is automatically calculated. |
+| static [MarginsPercent](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/marginspercent/)(double, double, double, double) | Creates resize parameters. Margins are specified in percents of initial page size. |
+| static [PageResize](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresize/)(double, double) | Creates resize paramters for page resize. |
+| static [PageResizePct](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresizepct/)(double, double) | Creates resize paramters for page resize. New sizes are specified in percent. |
 
 ### See Also
 

@@ -8,7 +8,7 @@ type: docs
 weight: 110
 url: "/net/aspose.pdf.lowcode/formcheckboxfieldcreateoptions/"
 keywords: "FormCheckBoxFieldCreateOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormCheckBoxFieldCreateOptions class
 
@@ -22,14 +22,14 @@ public class FormCheckBoxFieldCreateOptions : FormFieldCreateOptions
 
 | Name | Description |
 | --- | --- |
-| [FormCheckBoxFieldCreateOptions](./formcheckboxfieldcreateoptions/)(int, Rectangle) | Initializes a new instance of the [`FormCheckBoxFieldCreateOptions`](../../aspose.pdf.lowcode/formcheckboxfieldcreateoptions/) object, that containing parameters for created and added CheckBoxField. |
+| [FormCheckBoxFieldCreateOptions](formcheckboxfieldcreateoptions/)(int, Rectangle) | Initializes a new instance of the `FormCheckBoxFieldCreateOptions` object, that containing parameters for created and added CheckBoxField. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [AlternateName](../../aspose.pdf.lowcode/formfieldoptions/alternatename/) { get; set; } | Gets/sets the value to determine property AlternateName for created/modified field (if will be set). |
-| [Checked](./checked/) { get; set; } | Gets/sets the value to determine whether created CheckboxField is checked or not (if will be set). |
+| [Checked](../../aspose.pdf.lowcode/formcheckboxfieldcreateoptions/checked/) { get; set; } | Gets/sets the value to determine whether created CheckboxField is checked or not (if will be set). |
 | [Color](../../aspose.pdf.lowcode/formfieldoptions/color/) { get; set; } | Gets/sets the value to determine property Color for created/modified field (if will be set). |
 | [Contents](../../aspose.pdf.lowcode/formfieldoptions/contents/) { get; set; } | Gets/sets the value to determine property Contents for created/modified field (if will be set). |
 | [DefaultAppearance](../../aspose.pdf.lowcode/formfieldoptions/defaultappearance/) { get; set; } | Gets/sets the value to determine property DefaultAppearance for created/modified field (if will be set). |
@@ -44,7 +44,7 @@ public class FormCheckBoxFieldCreateOptions : FormFieldCreateOptions
 | [PartialName](../../aspose.pdf.lowcode/formfieldoptions/partialname/) { get; set; } | Gets/sets the value to determine property PartialName for created/modified field (if will be set). |
 | [ReadOnly](../../aspose.pdf.lowcode/formfieldoptions/readonly/) { get; set; } | Gets/sets the value to determine whether created/modified field is read only or not (if will be set). |
 | [Required](../../aspose.pdf.lowcode/formfieldoptions/required/) { get; set; } | Gets/sets the value to determine whether created/modified field is required or not (if will be set). |
-| [Style](./style/) { get; set; } | Gets/sets the value to determine property Style for created CheckboxField (if will be set). |
+| [Style](../../aspose.pdf.lowcode/formcheckboxfieldcreateoptions/style/) { get; set; } | Gets/sets the value to determine property Style for created CheckboxField (if will be set). |
 | [TextHorizontalAlignment](../../aspose.pdf.lowcode/formfieldoptions/texthorizontalalignment/) { get; set; } | Gets/sets the value to determine property TextHorizontalAlignment for created/modified field (if will be set). |
 | [UpdateAppearanceOnConvert](../../aspose.pdf.lowcode/formfieldoptions/updateappearanceonconvert/) { get; set; } | Gets/sets the value to determine whether created/modified field is update appearance on convert or not (if will be set). |
 | [UseFontSubset](../../aspose.pdf.lowcode/formfieldoptions/usefontsubset/) { get; set; } | Gets/sets the value to determine whether created/modified field is use font subset or not (if will be set). |

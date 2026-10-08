@@ -7,9 +7,9 @@ description: "TextPdfComparer method. Compares two documents page by page. The d
 type: docs
 weight: 40
 url: "/net/aspose.pdf.comparison/textpdfcomparer/compareflatdocuments/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## CompareFlatDocuments([Document](../../../aspose.pdf/document/), [Document](../../../aspose.pdf/document/), [ComparisonOptions](../../../aspose.pdf.comparison/comparisonoptions/)) {#compareflatdocuments}
+## CompareFlatDocuments(Document, Document, ComparisonOptions) {#compareflatdocuments}
 
 Compares two documents page by page.
  The documents are compared as a whole. Before comparing text, the texts of document pages are combined into one text.
@@ -31,15 +31,16 @@ List of changes.
 
 ### See Also
 
+* class [DiffOperation](../../diffoperation/)
 * class [Document](../../../aspose.pdf/document/)
-* class [ComparisonOptions](../../../aspose.pdf.comparison/comparisonoptions/)
+* class [ComparisonOptions](../../comparisonoptions/)
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## CompareFlatDocuments([Document](../../../aspose.pdf/document/), [Document](../../../aspose.pdf/document/), [ComparisonOptions](../../../aspose.pdf.comparison/comparisonoptions/), string) {#compareflatdocuments_1}
+## CompareFlatDocuments(Document, Document, ComparisonOptions, string) {#compareflatdocuments_1}
 
 Compares two documents page by page. The result is saved in a PDF file.
  The documents are compared as a whole. Before comparing text, the texts of document pages are combined into one text.
@@ -62,8 +63,9 @@ List of changes.
 
 ### See Also
 
+* class [DiffOperation](../../diffoperation/)
 * class [Document](../../../aspose.pdf/document/)
-* class [ComparisonOptions](../../../aspose.pdf.comparison/comparisonoptions/)
+* class [ComparisonOptions](../../comparisonoptions/)
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

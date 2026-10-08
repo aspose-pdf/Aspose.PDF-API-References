@@ -1,5 +1,5 @@
 ---
-title: "SaveOptions.BorderInfo.SaveOptions.BorderInfo"
+title: "SaveOptions.BorderInfo.BorderInfo"
 linktitle: "SaveOptions.BorderInfo"
 articleTitle: "SaveOptions.BorderInfo"
 second_title: "Aspose.PDF for .NET API Reference"
@@ -7,7 +7,7 @@ description: "BorderInfo constructor. Creates instance of BorderInfo class"
 type: docs
 weight: 10
 url: "/net/aspose.pdf/saveoptions.borderinfo/borderinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BorderInfo() {#constructor}
 
@@ -19,7 +19,7 @@ public BorderInfo()
 
 ### See Also
 
-* class [SaveOptions.BorderInfo](../)
+* class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,7 +41,8 @@ public BorderInfo(BorderPartStyle commonStyle)
 
 ### See Also
 
-* class [SaveOptions.BorderInfo](../)
+* class [BorderPartStyle](../../saveoptions.borderpartstyle/)
+* class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

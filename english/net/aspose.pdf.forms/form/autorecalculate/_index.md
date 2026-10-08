@@ -7,7 +7,7 @@ description: "Form property. If set, all form fields will be recalculated when a
 type: docs
 weight: 230
 url: "/net/aspose.pdf.forms/form/autorecalculate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.AutoRecalculate property
 

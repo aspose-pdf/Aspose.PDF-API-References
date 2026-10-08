@@ -7,7 +7,7 @@ description: "FileCounts property. Gets or sets the total number of files in the
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/filecounts/total/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileCounts.Total property
 

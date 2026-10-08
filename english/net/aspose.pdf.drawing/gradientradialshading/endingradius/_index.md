@@ -7,7 +7,7 @@ description: "GradientRadialShading property. Gets or sets ending circle radius.
 type: docs
 weight: 60
 url: "/net/aspose.pdf.drawing/gradientradialshading/endingradius/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GradientRadialShading.EndingRadius property
 

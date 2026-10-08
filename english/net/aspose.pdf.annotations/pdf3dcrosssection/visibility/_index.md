@@ -7,7 +7,7 @@ description: "PDF3DCrossSection property. Gets or sets a value indicating visibi
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/pdf3dcrosssection/visibility/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DCrossSection.Visibility property
 

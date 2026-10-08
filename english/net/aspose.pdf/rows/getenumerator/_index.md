@@ -7,7 +7,7 @@ description: "Rows method. Gets collection's enumerator"
 type: docs
 weight: 80
 url: "/net/aspose.pdf/rows/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rows.GetEnumerator method
 
@@ -23,6 +23,7 @@ Enumerator object.
 
 ### See Also
 
+* class [Row](../../row/)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

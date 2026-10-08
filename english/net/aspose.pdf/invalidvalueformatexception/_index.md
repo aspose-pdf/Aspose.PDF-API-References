@@ -8,7 +8,7 @@ type: docs
 weight: 1650
 url: "/net/aspose.pdf/invalidvalueformatexception/"
 keywords: "InvalidValueFormatException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## InvalidValueFormatException class
 
@@ -22,14 +22,8 @@ public class InvalidValueFormatException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [InvalidValueFormatException](./invalidvalueformatexception/#constructor)() | Initializes a new instance of the [`InvalidValueFormatException`](../../aspose.pdf/invalidvalueformatexception/) class. |
-| [InvalidValueFormatException](./invalidvalueformatexception/#constructor_1)(string) | Constructor. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
+| [InvalidValueFormatException](invalidvalueformatexception/#constructor)() | Initializes a new instance of the `InvalidValueFormatException` class. |
+| [InvalidValueFormatException](invalidvalueformatexception/#constructor_1)(string) | Constructor. |
 
 ### See Also
 

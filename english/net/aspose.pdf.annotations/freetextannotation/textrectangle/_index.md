@@ -7,7 +7,7 @@ description: "FreeTextAnnotation property. Rectangle describing the numerical di
 type: docs
 weight: 170
 url: "/net/aspose.pdf.annotations/freetextannotation/textrectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FreeTextAnnotation.TextRectangle property
 
@@ -20,7 +20,7 @@ public Rectangle TextRectangle { get; set; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

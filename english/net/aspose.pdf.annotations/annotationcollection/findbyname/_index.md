@@ -7,7 +7,7 @@ description: "AnnotationCollection method. Returns annotation by its name."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/annotationcollection/findbyname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AnnotationCollection.FindByName method
 
@@ -27,7 +27,7 @@ Annotation object if found; otherwise, null.
 
 ### See Also
 
-* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [Annotation](../../annotation/)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

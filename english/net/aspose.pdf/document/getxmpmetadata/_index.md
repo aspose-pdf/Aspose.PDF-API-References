@@ -7,7 +7,7 @@ description: "Document method. Get XMP metadata from document."
 type: docs
 weight: 940
 url: "/net/aspose.pdf/document/getxmpmetadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.GetXmpMetadata method
 

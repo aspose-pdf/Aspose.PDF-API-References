@@ -7,7 +7,7 @@ description: "BaseOperatorCollection property. Indicates wheather collection is 
 type: docs
 weight: 140
 url: "/net/aspose.pdf/baseoperatorcollection/isfasttextextractionmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseOperatorCollection.IsFastTextExtractionMode property
 

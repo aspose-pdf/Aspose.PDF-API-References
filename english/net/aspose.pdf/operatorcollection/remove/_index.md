@@ -7,7 +7,7 @@ description: "OperatorCollection method. Remove operator from the collection."
 type: docs
 weight: 200
 url: "/net/aspose.pdf/operatorcollection/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OperatorCollection.Remove method
 
@@ -27,7 +27,7 @@ True if operator was found and removed. False if operator did not belong to the 
 
 ### See Also
 
-* class [Operator](../../../aspose.pdf/operator/)
+* class [Operator](../../operator/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,17 +7,19 @@ description: "TextParagraph property. Gets or sets vertical alignment for the te
 type: docs
 weight: 110
 url: "/net/aspose.pdf.text/textparagraph/verticalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextParagraph.VerticalAlignment property
 
-Gets or sets vertical alignment for the text inside paragrph's `Rectangle`.
-
-VerticalAlignment.None is equal to VerticalAlignment.Bottom.
+Gets or sets vertical alignment for the text inside paragrph's [`Rectangle`](../rectangle/).
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
 ```
+
+## Remarks
+
+VerticalAlignment.None is equal to VerticalAlignment.Bottom.
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "CommonFigureAnnotation property. The rectangle describing the nume
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/commonfigureannotation/frame/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CommonFigureAnnotation.Frame property
 
@@ -20,7 +20,7 @@ public Rectangle Frame { get; set; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [CommonFigureAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

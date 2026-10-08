@@ -7,7 +7,7 @@ description: "OpenAIOcrCopilotOptions property. Gets or sets the resolution used
 type: docs
 weight: 180
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/resolution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIOcrCopilotOptions.Resolution property
 

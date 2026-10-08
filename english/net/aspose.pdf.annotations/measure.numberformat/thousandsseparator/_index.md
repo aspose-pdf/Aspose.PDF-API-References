@@ -7,7 +7,7 @@ description: "NumberFormat property. Text that shall be used between orders of t
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/measure.numberformat/thousandsseparator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.NumberFormat.ThousandsSeparator property
 
@@ -19,7 +19,7 @@ public string ThousandsSeparator { get; set; }
 
 ### See Also
 
-* class [Measure.NumberFormat](../)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

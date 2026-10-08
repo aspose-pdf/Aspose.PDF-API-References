@@ -7,11 +7,11 @@ description: "AttributeKey method. Performs an explicit conversion from String t
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/attributekey/op_explicit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey Explicit operator
 
-Performs an explicit conversion from `String` to [`AttributeKey`](../../../aspose.pdf.logicalstructure/attributekey/).
+Performs an explicit conversion from `String` to [`AttributeKey`](../).
 
 ```csharp
 public static explicit operator AttributeKey(string key)
@@ -27,7 +27,7 @@ The result of the conversion.
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

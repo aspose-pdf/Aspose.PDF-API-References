@@ -7,7 +7,7 @@ description: "AttributeKey field. EndIndent attribute (Layout attribute owner)."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.logicalstructure/attributekey/endindent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.EndIndent field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey EndIndent;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

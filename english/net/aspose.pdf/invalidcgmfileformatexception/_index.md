@@ -8,7 +8,7 @@ type: docs
 weight: 1600
 url: "/net/aspose.pdf/invalidcgmfileformatexception/"
 keywords: "InvalidCgmFileFormatException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## InvalidCgmFileFormatException class
 
@@ -22,16 +22,10 @@ public sealed class InvalidCgmFileFormatException : InvalidFileFormatException
 
 | Name | Description |
 | --- | --- |
-| [InvalidCgmFileFormatException](./invalidcgmfileformatexception/#constructor)() | Initializes a new instance of the [`InvalidCgmFileFormatException`](../../aspose.pdf/invalidcgmfileformatexception/) class. |
-| [InvalidCgmFileFormatException](./invalidcgmfileformatexception/#constructor_1)(Exception) | Initializes a new instance of the [`InvalidCgmFileFormatException`](../../aspose.pdf/invalidcgmfileformatexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
-| [InvalidCgmFileFormatException](./invalidcgmfileformatexception/#constructor_2)(string) | Initializes a new instance of the [`InvalidCgmFileFormatException`](../../aspose.pdf/invalidcgmfileformatexception/) class. |
-| [InvalidCgmFileFormatException](./invalidcgmfileformatexception/#constructor_3)(string, Exception) | Initializes a new instance of the [`InvalidCgmFileFormatException`](../../aspose.pdf/invalidcgmfileformatexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor)() | Initializes a new instance of the `InvalidCgmFileFormatException` class. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_1)(string) | Initializes a new instance of the `InvalidCgmFileFormatException` class. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_2)(string, Exception) | Initializes a new instance of the `InvalidCgmFileFormatException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_3)(Exception) | Initializes a new instance of the `InvalidCgmFileFormatException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 
 ### See Also
 

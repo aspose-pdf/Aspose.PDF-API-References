@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Document) A complete document. This 
 type: docs
 weight: 50
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/document/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.Document field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard Document;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "PdfFormatConversionOptions property. Action for objects that can n
 type: docs
 weight: 120
 url: "/net/aspose.pdf/pdfformatconversionoptions/erroraction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.ErrorAction property
 
@@ -19,7 +19,7 @@ public ConvertErrorAction ErrorAction { get; set; }
 
 ### See Also
 
-* enum [ConvertErrorAction](../../../aspose.pdf/converterroraction/)
+* enum [ConvertErrorAction](../../converterroraction/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

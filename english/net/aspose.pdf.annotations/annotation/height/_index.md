@@ -7,7 +7,7 @@ description: "Annotation property. Gets or sets height of the annotation."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/annotation/height/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.Height property
 

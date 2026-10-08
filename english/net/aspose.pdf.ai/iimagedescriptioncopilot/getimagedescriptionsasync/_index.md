@@ -7,7 +7,7 @@ description: "IImageDescriptionCopilot method. Asynchronously gets image descrip
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/iimagedescriptioncopilot/getimagedescriptionsasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IImageDescriptionCopilot.GetImageDescriptionsAsync method
 
@@ -28,6 +28,7 @@ A task representing the asynchronous operation with the image description result
 
 ### See Also
 
+* class [ImageDescriptionResult](../../imagedescriptionresult/)
 * interface [IImageDescriptionCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

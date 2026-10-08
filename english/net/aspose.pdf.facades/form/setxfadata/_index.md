@@ -7,7 +7,7 @@ description: "Form method. Replaces XFA data with specified data packet. Data pa
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/form/setxfadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.SetXfaData method
 

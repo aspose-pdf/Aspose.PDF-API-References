@@ -7,7 +7,7 @@ description: "FileContentResponse property. Gets or sets the file content."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/filecontentresponse-1/content/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileContentResponse<T>.Content property
 
@@ -19,7 +19,7 @@ public T Content { get; set; }
 
 ### See Also
 
-* class [FileContentResponse<T>](../)
+* class [FileContentResponse&lt;T&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

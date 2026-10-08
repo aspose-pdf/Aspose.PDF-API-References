@@ -7,7 +7,7 @@ description: "DocumentPrivilege property. Allows modifying file."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/documentprivilege/modifycontents/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.ModifyContents property
 
@@ -19,7 +19,7 @@ public static DocumentPrivilege ModifyContents { get; }
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

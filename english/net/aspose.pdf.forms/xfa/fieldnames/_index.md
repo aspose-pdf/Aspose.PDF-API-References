@@ -7,7 +7,7 @@ description: "XFA property. List of field names in the form template."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/xfa/fieldnames/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFA.FieldNames property
 

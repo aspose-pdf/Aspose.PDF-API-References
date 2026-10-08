@@ -7,7 +7,7 @@ description: "ImagePlacement property. Operator used for displaying the image."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/imageplacement/operator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagePlacement.Operator property
 
@@ -19,7 +19,7 @@ public Operator Operator { get; }
 
 ### See Also
 
-* class [Operator](../../../aspose.pdf/operator/)
+* class [Operator](../../operator/)
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

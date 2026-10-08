@@ -7,7 +7,7 @@ description: "PageCollection method. Determines whether this instance contains t
 type: docs
 weight: 250
 url: "/net/aspose.pdf/pagecollection/contains/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollection.Contains method
 
@@ -33,7 +33,7 @@ public bool Contains(Page item)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

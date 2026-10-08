@@ -7,7 +7,7 @@ description: "Document property. Document metadata. (A PDF document may include 
 type: docs
 weight: 1460
 url: "/net/aspose.pdf/document/metadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.Metadata property
 
@@ -23,7 +23,7 @@ public Metadata Metadata { get; }
 
 ### See Also
 
-* class [Metadata](../../../aspose.pdf/metadata/)
+* class [Metadata](../../metadata/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

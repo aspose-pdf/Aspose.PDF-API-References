@@ -7,7 +7,7 @@ description: "DestinationCollection method. Returns the page number of destinati
 type: docs
 weight: 10
 url: "/net/aspose.pdf/destinationcollection/getpagenumber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DestinationCollection.GetPageNumber method
 

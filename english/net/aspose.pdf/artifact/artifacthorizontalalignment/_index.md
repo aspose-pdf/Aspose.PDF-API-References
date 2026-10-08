@@ -7,7 +7,7 @@ description: "Artifact property. Horizontal alignment of artifact. If position i
 type: docs
 weight: 280
 url: "/net/aspose.pdf/artifact/artifacthorizontalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.ArtifactHorizontalAlignment property
 
@@ -20,7 +20,7 @@ public HorizontalAlignment ArtifactHorizontalAlignment { get; set; }
 
 ### See Also
 
-* enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
+* enum [HorizontalAlignment](../../horizontalalignment/)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

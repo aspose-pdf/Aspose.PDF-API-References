@@ -8,7 +8,7 @@ type: docs
 weight: 580
 url: "/net/aspose.pdf.operators/setcolorspace/"
 keywords: "SetColorSpace, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColorSpace class
 
@@ -22,21 +22,20 @@ public class SetColorSpace : Operator
 
 | Name | Description |
 | --- | --- |
-| [SetColorSpace](./setcolorspace/)(string) | Initializes operator. |
+| [SetColorSpace](setcolorspace/)(string) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [Name](./name/) { get; set; } | Gets or sets color space name. |
+| [Name](../../aspose.pdf.operators/setcolorspace/name/) { get; set; } | Gets or sets color space name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [Accept](../../aspose.pdf.operators/setcolorspace/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 

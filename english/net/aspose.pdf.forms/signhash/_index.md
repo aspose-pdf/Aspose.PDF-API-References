@@ -7,7 +7,7 @@ description: "Delegate for custom sign the document hash."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.forms/signhash/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignHash delegate
 
@@ -20,7 +20,7 @@ public delegate byte[] SignHash(byte[] hash, DigestHashAlgorithm digestHashAlgor
 | Parameter | Type | Description |
 | --- | --- | --- |
 | hash | Byte[] | Input hash of the document. |
-| digestHashAlgorithm | DigestHashAlgorithm | The digest algorithm used to create the hash. The value will never be equal to <see cref="F:Aspose.Pdf.DigestHashAlgorithm.Auto" />. |
+| digestHashAlgorithm | DigestHashAlgorithm | The digest algorithm used to create the hash. The value will never be equal to Auto. |
 
 ### Return Value
 
@@ -28,6 +28,7 @@ Output signature.
 
 ### See Also
 
+* enum [DigestHashAlgorithm](../../aspose.pdf/digesthashalgorithm/)
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
 

@@ -7,7 +7,7 @@ description: "Dash property. Gets dash array defining a pattern of dashes and ga
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/dash/pattern/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Dash.Pattern property
 

@@ -8,7 +8,7 @@ type: docs
 weight: 230
 url: "/net/aspose.pdf.logicalstructure/headerelementtextconflictexception/"
 keywords: "HeaderElementTextConflictException, Aspose.Pdf.LogicalStructure, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HeaderElementTextConflictException class
 
@@ -23,13 +23,7 @@ public class HeaderElementTextConflictException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [HeaderElementTextConflictException](./headerelementtextconflictexception/)(string) | Initializes a new instance of the HeaderElementTextConflictException class. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
+| [HeaderElementTextConflictException](headerelementtextconflictexception/)(string) | Initializes a new instance of the HeaderElementTextConflictException class. |
 
 ### See Also
 

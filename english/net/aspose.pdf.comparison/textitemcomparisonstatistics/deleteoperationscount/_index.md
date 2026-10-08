@@ -7,7 +7,7 @@ description: "TextItemComparisonStatistics property. Gets and sets the number of
 type: docs
 weight: 50
 url: "/net/aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextItemComparisonStatistics.DeleteOperationsCount property
 

@@ -7,7 +7,7 @@ description: "OpenAISummaryCopilotOptions property. Gets or sets the name of the
 type: docs
 weight: 210
 url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/assistantname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAISummaryCopilotOptions.AssistantName property
 

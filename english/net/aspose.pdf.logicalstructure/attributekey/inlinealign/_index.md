@@ -7,7 +7,7 @@ description: "AttributeKey field. InlineAlign attribute (Layout attribute owner)
 type: docs
 weight: 230
 url: "/net/aspose.pdf.logicalstructure/attributekey/inlinealign/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.InlineAlign field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey InlineAlign;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

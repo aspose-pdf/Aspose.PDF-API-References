@@ -7,7 +7,7 @@ description: "Metadata property. Gets values in the metadata."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/metadata/values/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metadata.Values property
 
@@ -19,6 +19,7 @@ public ICollection<XmpValue> Values { get; }
 
 ### See Also
 
+* class [XmpValue](../../xmpvalue/)
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "PageInfo property. Gets or sets default font."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pageinfo/defaulttextstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageInfo.DefaultTextState property
 

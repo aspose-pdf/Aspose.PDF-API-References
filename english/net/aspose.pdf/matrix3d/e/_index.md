@@ -7,7 +7,7 @@ description: "Matrix3D property. E member of the transformation matrix."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/matrix3d/e/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix3D.E property
 

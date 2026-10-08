@@ -8,7 +8,7 @@ type: docs
 weight: 50
 url: "/net/aspose.pdf.security/ecdsaalgorithminfo/"
 keywords: "EcdsaAlgorithmInfo, Aspose.Pdf.Security, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EcdsaAlgorithmInfo class
 
@@ -37,7 +37,7 @@ public sealed class EcdsaAlgorithmInfo : KeyedSignatureAlgorithmInfo
 | readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Gets the type of the signature algorithm used for signing the PDF document. |
 | readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | Gets the cryptographic standard used for signing the PDF document. |
 | readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Gets the digest hash algorithm used for the signature. For a timestamp, this is the digest hash algorithm with which the hash of the document content is signed. |
-| readonly [EccName](./eccname/) | Gets the name of the elliptic curve used by the ECDSA. |
+| readonly [EccName](../../aspose.pdf.security/ecdsaalgorithminfo/eccname/) | Gets the name of the elliptic curve used by the ECDSA. |
 | readonly [KeySize](../../aspose.pdf.security/keyedsignaturealgorithminfo/keysize/) | Gets the size of the cryptographic key used by the signature algorithm. |
 
 ### See Also

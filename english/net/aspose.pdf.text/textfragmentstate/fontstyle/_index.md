@@ -7,11 +7,11 @@ description: "TextFragmentState property. Sets font style of the text, represent
 type: docs
 weight: 200
 url: "/net/aspose.pdf.text/textfragmentstate/fontstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentState.FontStyle property
 
-Sets font style of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object
+Sets font style of the text, represented by the [`TextFragment`](../../textfragment/) object
 
 ```csharp
 public override FontStyles FontStyle { get; set; }
@@ -19,7 +19,7 @@ public override FontStyles FontStyle { get; set; }
 
 ### See Also
 
-* enum [FontStyles](../../../aspose.pdf.text/fontstyles/)
+* enum [FontStyles](../../fontstyles/)
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

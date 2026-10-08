@@ -8,7 +8,7 @@ type: docs
 weight: 160
 url: "/net/aspose.pdf.security/unsignedcontentabsorber.result/"
 keywords: "UnsignedContentAbsorber.Result, Aspose.Pdf.Security, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnsignedContentAbsorber.Result class
 
@@ -22,10 +22,10 @@ public sealed class Result
 
 | Name | Description |
 | --- | --- |
-| [Coverage](./coverage/) { get; } | Gets a value indicating the extent to which the document is covered by valid digital signatures. |
-| [Message](./message/) { get; } | Gets a message describing the outcome of the operation. |
-| [Success](./success/) { get; } | Gets a value indicating whether the operation to retrieve unsigned content from the document was successful. |
-| [UnsignedContent](./unsignedcontent/) { get; } | Gets an unsigned content. |
+| [Coverage](../../aspose.pdf.security/unsignedcontentabsorber.result/coverage/) { get; } | Gets a value indicating the extent to which the document is covered by valid digital signatures. |
+| [Message](../../aspose.pdf.security/unsignedcontentabsorber.result/message/) { get; } | Gets a message describing the outcome of the operation. |
+| [Success](../../aspose.pdf.security/unsignedcontentabsorber.result/success/) { get; } | Gets a value indicating whether the operation to retrieve unsigned content from the document was successful. |
+| [UnsignedContent](../../aspose.pdf.security/unsignedcontentabsorber.result/unsignedcontent/) { get; } | Gets an unsigned content. |
 
 ## Remarks
 

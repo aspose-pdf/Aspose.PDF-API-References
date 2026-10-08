@@ -7,7 +7,7 @@ description: "TimestampOptions property. URL of the timestamp server."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/timestampoptions/serverurl/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TimestampOptions.ServerUrl property
 

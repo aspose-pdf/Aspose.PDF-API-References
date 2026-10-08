@@ -7,7 +7,7 @@ description: "ICustomSecurityHandler property. Gets the key length."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.security/icustomsecurityhandler/keylength/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ICustomSecurityHandler.KeyLength property
 

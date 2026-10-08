@@ -7,7 +7,7 @@ description: "ResourceLoadingResult field. Sometimes it's impossible to load req
 type: docs
 weight: 40
 url: "/net/aspose.pdf/loadoptions.resourceloadingresult/exceptionofloadingifany/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LoadOptions.ResourceLoadingResult.ExceptionOfLoadingIfAny field
 
@@ -23,7 +23,7 @@ public Exception ExceptionOfLoadingIfAny;
 
 ### See Also
 
-* class [LoadOptions.ResourceLoadingResult](../)
+* class [ResourceLoadingResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

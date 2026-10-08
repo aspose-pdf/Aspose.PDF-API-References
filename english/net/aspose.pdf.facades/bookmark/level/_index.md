@@ -7,7 +7,7 @@ description: "Bookmark property. Gets or sets bookmark's hierarchy level."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/bookmark/level/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Bookmark.Level property
 

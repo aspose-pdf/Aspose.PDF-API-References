@@ -7,7 +7,7 @@ description: "BaseOperatorCollection property. Returns true if collection is rea
 type: docs
 weight: 130
 url: "/net/aspose.pdf/baseoperatorcollection/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseOperatorCollection.IsReadOnly property
 

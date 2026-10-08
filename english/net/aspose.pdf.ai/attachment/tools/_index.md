@@ -7,7 +7,7 @@ description: "Attachment property. Gets or sets the type of tool that the File i
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/attachment/tools/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Attachment.Tools property
 
@@ -19,6 +19,7 @@ public List<Tool> Tools { get; set; }
 
 ### See Also
 
+* class [Tool](../../tool/)
 * class [Attachment](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

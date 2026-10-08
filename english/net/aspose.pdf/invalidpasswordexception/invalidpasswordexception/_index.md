@@ -7,31 +7,11 @@ description: "InvalidPasswordException constructor. Initializes a new instance o
 type: docs
 weight: 10
 url: "/net/aspose.pdf/invalidpasswordexception/invalidpasswordexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## InvalidPasswordException(Exception) {#constructor}
+## InvalidPasswordException(string) {#constructor}
 
-Initializes a new instance of the [`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception/) class with a reference to the inner exception that is the cause of this exception.
-
-```csharp
-public InvalidPasswordException(Exception innerException)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
-
-### See Also
-
-* class [InvalidPasswordException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## InvalidPasswordException(string) {#constructor_1}
-
-Initializes a new instance of the [`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception/) class.
+Initializes a new instance of the [`InvalidPasswordException`](../) class.
 
 ```csharp
 public InvalidPasswordException(string message)
@@ -49,9 +29,9 @@ public InvalidPasswordException(string message)
 
 ---
 
-## InvalidPasswordException(string, Exception) {#constructor_2}
+## InvalidPasswordException(string, Exception) {#constructor_1}
 
-Initializes a new instance of the [`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [`InvalidPasswordException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
 ```csharp
 public InvalidPasswordException(string message, Exception innerException)
@@ -60,6 +40,26 @@ public InvalidPasswordException(string message, Exception innerException)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | message | String | The error message that explains the reason for the exception. |
+| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
+
+### See Also
+
+* class [InvalidPasswordException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## InvalidPasswordException(Exception) {#constructor_2}
+
+Initializes a new instance of the [`InvalidPasswordException`](../) class with a reference to the inner exception that is the cause of this exception.
+
+```csharp
+public InvalidPasswordException(Exception innerException)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
 | innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 
 ### See Also

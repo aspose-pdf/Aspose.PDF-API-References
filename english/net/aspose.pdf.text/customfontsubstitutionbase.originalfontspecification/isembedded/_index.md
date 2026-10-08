@@ -7,7 +7,7 @@ description: "OriginalFontSpecification property. Gets a value that indicates wh
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/isembedded/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CustomFontSubstitutionBase.OriginalFontSpecification.IsEmbedded property
 
@@ -19,7 +19,7 @@ public bool IsEmbedded { get; }
 
 ### See Also
 
-* class [CustomFontSubstitutionBase.OriginalFontSpecification](../)
+* class [OriginalFontSpecification](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 

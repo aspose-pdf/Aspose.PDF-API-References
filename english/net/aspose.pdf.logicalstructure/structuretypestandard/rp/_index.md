@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Ruby punctuation) Punctuation surrou
 type: docs
 weight: 470
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/rp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.RP field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard RP;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

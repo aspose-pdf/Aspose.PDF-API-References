@@ -8,7 +8,7 @@ type: docs
 weight: 90
 url: "/net/aspose.pdf.vector/svgextractor/"
 keywords: "SvgExtractor, Aspose.Pdf.Vector, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SvgExtractor class
 
@@ -22,19 +22,19 @@ public class SvgExtractor
 
 | Name | Description |
 | --- | --- |
-| [SvgExtractor](./svgextractor/#constructor)() | Represents a class to extract SVG images from a page. |
-| [SvgExtractor](./svgextractor/#constructor_1)(SvgExtractionOptions) | Represents a class to extract SVG images from a page. |
+| [SvgExtractor](svgextractor/#constructor)() | Represents a class to extract SVG images from a page. |
+| [SvgExtractor](svgextractor/#constructor_1)(SvgExtractionOptions) | Represents a class to extract SVG images from a page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Extract](./extract/)(Page) | Extracts Svg images from a page to strings. |
-| [Extract](./extract/)(IEnumerable<GraphicElement>, Page) | Extracts graphic elements into a SVG string. Options ignored - grouping, extracting from rectangle |
-| [Extract](./extract/)(Page, string) | Extracts Svg images from a page to files. |
-| [Extract](./extract/)(GraphicsAbsorber, Predicate<GraphicElement>, Page) | Exracts svg image to string from graphic elements represents by `!:absorber` with a predicate filter. |
-| [Extract](./extract/)(IEnumerable<GraphicElement>, Page, string) | Extracts graphic elements into a single SVG file. Options ignored - grouping, extracting from rectangle |
-| [Extract](./extract/)(GraphicsAbsorber, Predicate<GraphicElement>, Page, string) | Exracts svg image to file from graphic elements represents by `!:absorber` with a predicate filter. |
+| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract)(GraphicsAbsorber, Predicate&lt;GraphicElement&gt;, Page) | Exracts svg image to string from graphic elements represents by `!:absorber` with a predicate filter. |
+| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract_1)(GraphicsAbsorber, Predicate&lt;GraphicElement&gt;, Page, string) | Exracts svg image to file from graphic elements represents by `!:absorber` with a predicate filter. |
+| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract_2)(IEnumerable&lt;GraphicElement&gt;, Page) | Extracts graphic elements into a SVG string. Options ignored - grouping, extracting from rectangle |
+| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract_3)(IEnumerable&lt;GraphicElement&gt;, Page, string) | Extracts graphic elements into a single SVG file. Options ignored - grouping, extracting from rectangle |
+| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract_4)(Page) | Extracts Svg images from a page to strings. |
+| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract_5)(Page, string) | Extracts Svg images from a page to files. |
 
 ### See Also
 

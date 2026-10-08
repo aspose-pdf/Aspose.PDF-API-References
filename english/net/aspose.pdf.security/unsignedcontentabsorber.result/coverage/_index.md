@@ -7,7 +7,7 @@ description: "Result property. Gets a value indicating the extent to which the d
 type: docs
 weight: 40
 url: "/net/aspose.pdf.security/unsignedcontentabsorber.result/coverage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnsignedContentAbsorber.Result.Coverage property
 
@@ -20,7 +20,7 @@ public SignaturesCoverage Coverage { get; }
 ### See Also
 
 * enum [SignaturesCoverage](../../../aspose.pdf.signatures/signaturescoverage/)
-* class [UnsignedContentAbsorber.Result](../)
+* class [Result](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
 

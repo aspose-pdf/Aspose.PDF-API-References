@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.ColorsOfCMYK enum. Colors included in the C
 type: docs
 weight: 230
 url: "/net/aspose.pdf.annotations/colorsofcmyk/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ColorsOfCMYK enumeration
 

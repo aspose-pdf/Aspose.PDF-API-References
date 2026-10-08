@@ -7,7 +7,7 @@ description: "TextParagraph property. Gets rectangle of the text placed to the p
 type: docs
 weight: 180
 url: "/net/aspose.pdf.text/textparagraph/textrectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextParagraph.TextRectangle property
 
@@ -19,7 +19,7 @@ public Rectangle TextRectangle { get; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

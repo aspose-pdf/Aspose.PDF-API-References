@@ -7,7 +7,7 @@ description: "ReplaceTextStrategy property. Action which is performed when no ap
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/replacetextstrategy/nocharacterbehavior/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ReplaceTextStrategy.NoCharacterBehavior property
 
@@ -20,6 +20,7 @@ public NoCharacterAction NoCharacterBehavior { get; set; }
 
 ### See Also
 
+* enum [NoCharacterAction](../../replacetextstrategy.nocharacteraction/)
 * class [ReplaceTextStrategy](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

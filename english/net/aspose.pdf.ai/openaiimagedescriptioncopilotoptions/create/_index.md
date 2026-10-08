@@ -7,11 +7,11 @@ description: "OpenAIImageDescriptionCopilotOptions method. Creates a new instanc
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/create/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Create() {#create}
 
-Creates a new instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
+Creates a new instance of [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ```csharp
 public static OpenAIImageDescriptionCopilotOptions Create()
@@ -19,19 +19,19 @@ public static OpenAIImageDescriptionCopilotOptions Create()
 
 ### Return Value
 
-A new instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
+A new instance of [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Create(Action<OpenAIImageDescriptionCopilotOptions>) {#create_1}
+## Create(Action&lt;OpenAIImageDescriptionCopilotOptions&gt;) {#create_1}
 
-Creates an instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/) and configures it using the provided delegate.
+Creates an instance of [`OpenAIImageDescriptionCopilotOptions`](../) and configures it using the provided delegate.
 
 ```csharp
 public static OpenAIImageDescriptionCopilotOptions Create(
@@ -44,11 +44,11 @@ public static OpenAIImageDescriptionCopilotOptions Create(
 
 ### Return Value
 
-The configured instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
+The configured instance of [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionSchema method. Determines whether obj exists in sc
 type: docs
 weight: 30
 url: "/net/aspose.pdf/xmppdfaextensionschema/contains/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchema.Contains method
 
@@ -27,7 +27,7 @@ True - object exists in schema; otherwise, false.
 
 ### See Also
 
-* class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

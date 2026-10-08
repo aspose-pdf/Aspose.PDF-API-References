@@ -7,7 +7,7 @@ description: "MessageContentBase property. Gets or sets an image File in the con
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/messagecontentbase/imagefile/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MessageContentBase.ImageFile property
 
@@ -19,7 +19,7 @@ public ImageFile ImageFile { get; set; }
 
 ### See Also
 
-* class [ImageFile](../../../aspose.pdf.ai/imagefile/)
+* class [ImageFile](../../imagefile/)
 * class [MessageContentBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

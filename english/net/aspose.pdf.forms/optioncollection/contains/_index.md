@@ -7,7 +7,7 @@ description: "OptionCollection method. Checks if item exists in collection, thro
 type: docs
 weight: 70
 url: "/net/aspose.pdf.forms/optioncollection/contains/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptionCollection.Contains method
 
@@ -25,16 +25,9 @@ public bool Contains(Option item)
 
 Throws NotImplementedException
 
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| NotImplementedException | NotImplementedException |
-| NotImplementedException | NotImplementedException |
-
 ### See Also
 
-* class [Option](../../../aspose.pdf.forms/option/)
+* class [Option](../../option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Resources method. Gets all ExGStates from resources."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/resources/getextgstates/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Resources.GetExtGStates method
 
@@ -23,6 +23,7 @@ Returns dictionary with ExGStates names keys.
 
 ### See Also
 
+* class [ExtGStateValue](../../resources.extgstatevalue/)
 * class [Resources](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

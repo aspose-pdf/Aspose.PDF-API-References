@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Gets the names of all not empty signature
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/pdffilesignature/getsignaturenames/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.GetSignatureNames method
 
@@ -64,6 +64,7 @@ for(int i=0;i<names.Count;i++)
 
 ### See Also
 
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

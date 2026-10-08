@@ -7,7 +7,7 @@ description: "Form method. Extracts XFA data packet"
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/form/extractxfadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.ExtractXfaData method
 

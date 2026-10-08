@@ -7,7 +7,7 @@ description: "PdfFileInfo property. Returns true if password is needed to open p
 type: docs
 weight: 400
 url: "/net/aspose.pdf.facades/pdffileinfo/hasopenpassword/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.HasOpenPassword property
 

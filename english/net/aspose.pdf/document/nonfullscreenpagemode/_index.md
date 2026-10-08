@@ -7,7 +7,7 @@ description: "Document property. Gets or sets page mode, specifying how to displ
 type: docs
 weight: 1390
 url: "/net/aspose.pdf/document/nonfullscreenpagemode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.NonFullScreenPageMode property
 
@@ -19,7 +19,7 @@ public PageMode NonFullScreenPageMode { get; set; }
 
 ### See Also
 
-* enum [PageMode](../../../aspose.pdf/pagemode/)
+* enum [PageMode](../../pagemode/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

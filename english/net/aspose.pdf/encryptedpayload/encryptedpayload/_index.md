@@ -7,7 +7,7 @@ description: "EncryptedPayload constructor. Initialize Encrypted payload instanc
 type: docs
 weight: 10
 url: "/net/aspose.pdf/encryptedpayload/encryptedpayload/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EncryptedPayload constructor
 
@@ -23,7 +23,7 @@ public EncryptedPayload(FileSpecification fileSpecification)
 
 ### See Also
 
-* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [FileSpecification](../../filespecification/)
 * class [EncryptedPayload](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

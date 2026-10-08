@@ -8,7 +8,7 @@ type: docs
 weight: 2310
 url: "/net/aspose.pdf/paragraphs/"
 keywords: "Paragraphs, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Paragraphs class
 
@@ -22,31 +22,32 @@ public class Paragraphs : ICloneable, IEnumerable<BaseParagraph>
 
 | Name | Description |
 | --- | --- |
-| [Paragraphs](./paragraphs/)() | The default constructor. |
+| [Paragraphs](paragraphs/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Get paragraphs count. |
-| [Item](./item/) { get; set; } | Gets or sets paragraph from or to collection. |
+| [Count](../../aspose.pdf/paragraphs/count/) { get; } | Get paragraphs count. |
+| [Item](../../aspose.pdf/paragraphs/item/) { get; set; } | Gets or sets paragraph from or to collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(BaseParagraph) | Add paragraph to collection. |
-| [Clear](./clear/)() | Clear paragraphs. |
-| [Clone](./clone/)() | Clones a new `Clone` object. |
-| [GetEnumerator](./getenumerator/)() | Gets the enumerator. |
-| [GetRange](./getrange/)(int, int) | Remove paragraphs range. |
-| [Insert](./insert/)(int, BaseParagraph) | Insert paragraph to collection. |
-| [InsertRange](./insertrange/)(int, IEnumerable<BaseParagraph>) | Inserts the elements of a collection into the list at the specified index. |
-| [Remove](./remove/)(BaseParagraph) | Remove paragraph from collection. |
-| [RemoveRange](./removerange/)(int, int) | Remove paragraphs range. |
+| [Add](../../aspose.pdf/paragraphs/add/)(BaseParagraph) | Add paragraph to collection. |
+| [Clear](../../aspose.pdf/paragraphs/clear/)() | Clear paragraphs. |
+| [Clone](../../aspose.pdf/paragraphs/clone/)() | Clones a new [`Clone`](./clone/) object. |
+| [GetEnumerator](../../aspose.pdf/paragraphs/getenumerator/)() | Gets the enumerator. |
+| [GetRange](../../aspose.pdf/paragraphs/getrange/)(int, int) | Remove paragraphs range. |
+| [Insert](../../aspose.pdf/paragraphs/insert/)(int, BaseParagraph) | Insert paragraph to collection. |
+| [InsertRange](../../aspose.pdf/paragraphs/insertrange/)(int, IEnumerable&lt;BaseParagraph&gt;) | Inserts the elements of a collection into the list at the specified index. |
+| [Remove](../../aspose.pdf/paragraphs/remove/)(BaseParagraph) | Remove paragraph from collection. |
+| [RemoveRange](../../aspose.pdf/paragraphs/removerange/)(int, int) | Remove paragraphs range. |
 
 ### See Also
 
+* class [BaseParagraph](../baseparagraph/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
 

@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Nonstructural element) A grouping el
 type: docs
 weight: 150
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/nonstruct/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.NonStruct field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard NonStruct;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

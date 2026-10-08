@@ -7,7 +7,7 @@ description: "PageLabelCollection method. Gets page label by page index (page in
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pagelabelcollection/getlabel/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageLabelCollection.GetLabel method
 
@@ -27,7 +27,7 @@ Page label for specified page index or null if page label does not exist.
 
 ### See Also
 
-* class [PageLabel](../../../aspose.pdf/pagelabel/)
+* class [PageLabel](../../pagelabel/)
 * class [PageLabelCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

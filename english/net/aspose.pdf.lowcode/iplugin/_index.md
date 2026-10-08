@@ -7,7 +7,7 @@ description: "Aspose.Pdf.LowCode.IPlugin interface. General plugin interface tha
 type: docs
 weight: 430
 url: "/net/aspose.pdf.lowcode/iplugin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IPlugin interface
 
@@ -21,7 +21,7 @@ public interface IPlugin
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(IPluginOptions) | Charges a plugin to process with defined options |
+| [Process](../../aspose.pdf.lowcode/iplugin/process/)(IPluginOptions) | Charges a plugin to process with defined options |
 
 ### See Also
 

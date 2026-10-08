@@ -7,7 +7,7 @@ description: "CreateChatCompletionChunkResponse property. Gets or sets the objec
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/createchatcompletionchunkresponse/object/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateChatCompletionChunkResponse.Object property
 

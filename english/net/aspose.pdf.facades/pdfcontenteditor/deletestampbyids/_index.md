@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Deletes stamps with specified IDs from al
 type: docs
 weight: 540
 url: "/net/aspose.pdf.facades/pdfcontenteditor/deletestampbyids/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DeleteStampByIds(int[]) {#deletestampbyids}
 

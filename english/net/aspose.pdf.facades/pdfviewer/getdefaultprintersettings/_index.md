@@ -7,7 +7,7 @@ description: "PdfViewer method. Gets the default printer settings."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/pdfviewer/getdefaultprintersettings/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.GetDefaultPrinterSettings method
 

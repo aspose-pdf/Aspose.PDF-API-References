@@ -7,7 +7,7 @@ description: "DestinationCollection method. Collection is read-only. Always thro
 type: docs
 weight: 80
 url: "/net/aspose.pdf/destinationcollection/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DestinationCollection.Clear method
 

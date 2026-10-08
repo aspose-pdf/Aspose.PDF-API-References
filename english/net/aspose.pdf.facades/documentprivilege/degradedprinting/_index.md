@@ -7,7 +7,7 @@ description: "DocumentPrivilege property. Allows degraded printing."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/documentprivilege/degradedprinting/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.DegradedPrinting property
 
@@ -19,7 +19,7 @@ public static DocumentPrivilege DegradedPrinting { get; }
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

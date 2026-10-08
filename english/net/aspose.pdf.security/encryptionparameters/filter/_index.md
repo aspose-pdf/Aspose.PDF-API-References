@@ -7,7 +7,7 @@ description: "EncryptionParameters property. Gets the filter name."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/encryptionparameters/filter/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EncryptionParameters.Filter property
 

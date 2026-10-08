@@ -8,7 +8,7 @@ type: docs
 weight: 1690
 url: "/net/aspose.pdf/left/"
 keywords: "Left, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Left class
 
@@ -22,7 +22,7 @@ public sealed class Left : HeaderFooterData
 
 | Name | Description |
 | --- | --- |
-| [Left](./left/)() | The default constructor. |
+| [Left](left/)() | The default constructor. |
 
 ## Properties
 

@@ -8,7 +8,7 @@ type: docs
 weight: 260
 url: "/net/aspose.pdf.forms/pkcs7detached/"
 keywords: "PKCS7Detached, Aspose.Pdf.Forms, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PKCS7Detached class
 
@@ -25,15 +25,15 @@ public sealed class PKCS7Detached : Signature
 
 | Name | Description |
 | --- | --- |
-| [PKCS7Detached](./pkcs7detached/#constructor)() | Inititalizes new instance of the [`PKCS7Detached`](../../aspose.pdf.forms/pkcs7detached/) class. |
-| [PKCS7Detached](./pkcs7detached/#constructor_1)(DigestHashAlgorithm) | Inititalizes new instance of the [`PKCS7Detached`](../../aspose.pdf.forms/pkcs7detached/) class. |
-| [PKCS7Detached](./pkcs7detached/#constructor_2)(Stream) | Initializes new instance of the [`PKCS7Detached`](../../aspose.pdf.forms/pkcs7detached/) class. |
-| [PKCS7Detached](./pkcs7detached/#constructor_3)(TimestampSettings) | Inititalizes new instance of the [`PKCS7Detached`](../../aspose.pdf.forms/pkcs7detached/) class. |
-| [PKCS7Detached](./pkcs7detached/#constructor_4)(Stream, DigestHashAlgorithm) | Initializes new instance of the [`PKCS7Detached`](../../aspose.pdf.forms/pkcs7detached/) class. |
-| [PKCS7Detached](./pkcs7detached/#constructor_5)(Stream, string) | Inititalizes new instance of the [`PKCS7Detached`](../../aspose.pdf.forms/pkcs7detached/) class. |
-| [PKCS7Detached](./pkcs7detached/#constructor_6)(string, string) | Inititalizes new instance of the [`PKCS7Detached`](../../aspose.pdf.forms/pkcs7detached/) class. |
-| [PKCS7Detached](./pkcs7detached/#constructor_7)(Stream, string, DigestHashAlgorithm) | Inititalizes new instance of the [`PKCS7Detached`](../../aspose.pdf.forms/pkcs7detached/) class. |
-| [PKCS7Detached](./pkcs7detached/#constructor_8)(string, string, DigestHashAlgorithm) | Inititalizes new instance of the [`PKCS7Detached`](../../aspose.pdf.forms/pkcs7detached/) class. |
+| [PKCS7Detached](pkcs7detached/#constructor)(Stream) | Initializes new instance of the `PKCS7Detached` class. |
+| [PKCS7Detached](pkcs7detached/#constructor_1)(Stream, DigestHashAlgorithm) | Initializes new instance of the `PKCS7Detached` class. |
+| [PKCS7Detached](pkcs7detached/#constructor_2)() | Inititalizes new instance of the `PKCS7Detached` class. |
+| [PKCS7Detached](pkcs7detached/#constructor_3)(DigestHashAlgorithm) | Inititalizes new instance of the `PKCS7Detached` class. |
+| [PKCS7Detached](pkcs7detached/#constructor_4)(string, string) | Inititalizes new instance of the `PKCS7Detached` class. |
+| [PKCS7Detached](pkcs7detached/#constructor_5)(string, string, DigestHashAlgorithm) | Inititalizes new instance of the `PKCS7Detached` class. |
+| [PKCS7Detached](pkcs7detached/#constructor_6)(Stream, string) | Inititalizes new instance of the `PKCS7Detached` class. |
+| [PKCS7Detached](pkcs7detached/#constructor_7)(TimestampSettings) | Inititalizes new instance of the `PKCS7Detached` class. |
+| [PKCS7Detached](pkcs7detached/#constructor_8)(Stream, string, DigestHashAlgorithm) | Inititalizes new instance of the `PKCS7Detached` class. |
 
 ## Properties
 

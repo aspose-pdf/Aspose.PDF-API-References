@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Returns the view preference."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.facades/pdfcontenteditor/getviewerpreference/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.GetViewerPreference method
 

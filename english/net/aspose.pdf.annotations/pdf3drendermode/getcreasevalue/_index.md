@@ -7,7 +7,7 @@ description: "PDF3DRenderMode method. Gets the crease value."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/pdf3drendermode/getcreasevalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DRenderMode.GetCreaseValue method
 

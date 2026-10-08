@@ -7,7 +7,7 @@ description: "PdfViewer property. Gets the result of printing job. If success th
 type: docs
 weight: 330
 url: "/net/aspose.pdf.facades/pdfviewer/printstatus/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.PrintStatus property
 

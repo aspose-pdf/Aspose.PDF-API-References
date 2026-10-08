@@ -7,7 +7,7 @@ description: "IFacade method. Releases any resources associates with the current
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/ifacade/close/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IFacade.Close method
 

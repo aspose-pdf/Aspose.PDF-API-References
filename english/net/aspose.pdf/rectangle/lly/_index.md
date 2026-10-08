@@ -7,7 +7,7 @@ description: "Rectangle property. Y - coordinate of lower-left corner."
 type: docs
 weight: 240
 url: "/net/aspose.pdf/rectangle/lly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.LLY property
 

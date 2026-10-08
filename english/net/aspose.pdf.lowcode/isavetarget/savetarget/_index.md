@@ -7,7 +7,7 @@ description: "ISaveTarget property. Type of the save target (file or stream)."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/isavetarget/savetarget/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ISaveTarget.SaveTarget property
 
@@ -19,11 +19,11 @@ public DataType SaveTarget { get; }
 
 ### Return Value
 
-A [`DataType`](../../../aspose.pdf.lowcode/datatype/) object representing output data.
+A [`DataType`](../../datatype/) object representing output data.
 
 ### See Also
 
-* enum [DataType](../../../aspose.pdf.lowcode/datatype/)
+* enum [DataType](../../datatype/)
 * interface [ISaveTarget](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "FormEditor method. Set the vertical alignment style of a text fiel
 type: docs
 weight: 340
 url: "/net/aspose.pdf.facades/formeditor/setfieldalignmentv/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.SetFieldAlignmentV method
 
@@ -20,8 +20,7 @@ public bool SetFieldAlignmentV(string fieldName, int alignment)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fieldName | String | The qualified field name. |
-| alignment | Int32 | The alignment style definition, including FormFieldFacade.AlignTop,
- FormFieldFacade.AlignMiddle and FormFieldFacade.AlignRight. |
+| alignment | Int32 | The alignment style definition, including FormFieldFacade.AlignTop, FormFieldFacade.AlignMiddle and FormFieldFacade.AlignRight. |
 
 ### Return Value
 

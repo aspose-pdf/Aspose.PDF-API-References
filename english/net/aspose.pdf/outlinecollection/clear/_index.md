@@ -7,7 +7,7 @@ description: "OutlineCollection method. Clears all items from the collection."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/outlinecollection/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineCollection.Clear method
 

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.AI.IQueryParameters interface. Represents query paramet
 type: docs
 weight: 600
 url: "/net/aspose.pdf.ai/iqueryparameters/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IQueryParameters interface
 
@@ -21,7 +21,7 @@ public interface IQueryParameters
 
 | Name | Description |
 | --- | --- |
-| [GetQueryParameters](./getqueryparameters/)() | Gets the query parameters as a string. |
+| [GetQueryParameters](../../aspose.pdf.ai/iqueryparameters/getqueryparameters/)() | Gets the query parameters as a string. |
 
 ### See Also
 

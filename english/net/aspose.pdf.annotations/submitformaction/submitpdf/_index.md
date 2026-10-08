@@ -7,7 +7,7 @@ description: "SubmitFormAction field. If set, the document shall be submitted as
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/submitformaction/submitpdf/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SubmitFormAction.SubmitPdf field
 

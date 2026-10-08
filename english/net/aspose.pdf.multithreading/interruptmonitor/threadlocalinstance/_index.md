@@ -7,7 +7,7 @@ description: "InterruptMonitor property. Gets or sets the IInterruptMonitor inst
 type: docs
 weight: 50
 url: "/net/aspose.pdf.multithreading/interruptmonitor/threadlocalinstance/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## InterruptMonitor.ThreadLocalInstance property
 
@@ -19,7 +19,7 @@ public static IInterruptMonitor ThreadLocalInstance { get; set; }
 
 ### See Also
 
-* interface [IInterruptMonitor](../../../aspose.pdf.multithreading/iinterruptmonitor/)
+* interface [IInterruptMonitor](../../iinterruptmonitor/)
 * class [InterruptMonitor](../)
 * namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../../)

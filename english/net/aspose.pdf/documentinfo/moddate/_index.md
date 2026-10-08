@@ -7,7 +7,7 @@ description: "DocumentInfo property. Gets or sets the date of document modificat
 type: docs
 weight: 160
 url: "/net/aspose.pdf/documentinfo/moddate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentInfo.ModDate property
 

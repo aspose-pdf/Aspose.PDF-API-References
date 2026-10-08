@@ -7,7 +7,7 @@ description: "TextStamp property. Gets or sets mode that defines behavior in cas
 type: docs
 weight: 140
 url: "/net/aspose.pdf/textstamp/nocharacterbehavior/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStamp.NoCharacterBehavior property
 
@@ -19,6 +19,7 @@ public NoCharacterAction NoCharacterBehavior { get; set; }
 
 ### See Also
 
+* enum [NoCharacterAction](../../textstamp.nocharacteraction/)
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

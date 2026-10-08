@@ -7,7 +7,7 @@ description: "SetDash property. Dash phase. Before beginning to stroke a path, t
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/setdash/phase/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetDash.Phase property
 

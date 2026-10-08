@@ -8,7 +8,7 @@ type: docs
 weight: 400
 url: "/net/aspose.pdf.annotations/fitrexplicitdestination/"
 keywords: "FitRExplicitDestination, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FitRExplicitDestination class
 
@@ -22,26 +22,25 @@ public sealed class FitRExplicitDestination : ExplicitDestination
 
 | Name | Description |
 | --- | --- |
-| [FitRExplicitDestination](./fitrexplicitdestination/#constructor)(int, double, double, double, double) | Creates remote explicit destination. |
-| [FitRExplicitDestination](./fitrexplicitdestination/#constructor_1)(Page, double, double, double, double) | Creates local explicit destination. |
+| [FitRExplicitDestination](fitrexplicitdestination/#constructor)(Page, double, double, double, double) | Creates local explicit destination. |
+| [FitRExplicitDestination](fitrexplicitdestination/#constructor_1)(int, double, double, double, double) | Creates remote explicit destination. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Bottom](./bottom/) { get; } | Gets bottom vertical coordinate of visible rectangle. |
-| [Left](./left/) { get; } | Gets left horizontal coordinate of visible rectangle. |
+| [Bottom](../../aspose.pdf.annotations/fitrexplicitdestination/bottom/) { get; } | Gets bottom vertical coordinate of visible rectangle. |
+| [Left](../../aspose.pdf.annotations/fitrexplicitdestination/left/) { get; } | Gets left horizontal coordinate of visible rectangle. |
 | [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Gets the destination page object |
 | [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Gets the destination page number |
-| [Right](./right/) { get; } | Gets right horizontal coordinate of visible rectangle. |
-| [Top](./top/) { get; } | Gets top vertical coordinate of visible rectangle. |
+| [Right](../../aspose.pdf.annotations/fitrexplicitdestination/right/) { get; } | Gets right horizontal coordinate of visible rectangle. |
+| [Top](../../aspose.pdf.annotations/fitrexplicitdestination/top/) { get; } | Gets top vertical coordinate of visible rectangle. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [CreateDestination](../../aspose.pdf.annotations/explicitdestination/createdestination/)(Page, ExplicitDestinationType, params double[]) | Creates instances of ExplicitDestination descendant classes. |
-| override [ToString](./tostring/)() | Converts the object state into string value. Example: "1 FitR 100 200 300 400". |
+| override [ToString](../../aspose.pdf.annotations/fitrexplicitdestination/tostring/)() | Converts the object state into string value. Example: "1 FitR 100 200 300 400". |
 
 ### See Also
 

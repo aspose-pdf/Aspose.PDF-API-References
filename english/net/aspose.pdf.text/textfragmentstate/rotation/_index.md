@@ -7,7 +7,7 @@ description: "TextFragmentState property. Gets or sets rotation angle in degrees
 type: docs
 weight: 260
 url: "/net/aspose.pdf.text/textfragmentstate/rotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentState.Rotation property
 

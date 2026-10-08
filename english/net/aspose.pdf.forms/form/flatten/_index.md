@@ -7,7 +7,7 @@ description: "Form method. Removes all form fields and place their values direct
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/form/flatten/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.Flatten method
 

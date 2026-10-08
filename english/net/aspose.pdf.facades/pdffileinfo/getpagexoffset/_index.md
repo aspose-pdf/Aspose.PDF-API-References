@@ -7,7 +7,7 @@ description: "PdfFileInfo method. Gets the horizontal offset of the specified pa
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/pdffileinfo/getpagexoffset/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.GetPageXOffset method
 

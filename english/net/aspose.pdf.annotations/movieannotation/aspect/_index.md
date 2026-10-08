@@ -7,7 +7,7 @@ description: "MovieAnnotation property. Gets or sets the width and height of the
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/movieannotation/aspect/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MovieAnnotation.Aspect property
 

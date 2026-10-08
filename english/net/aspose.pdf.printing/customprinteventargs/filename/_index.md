@@ -7,7 +7,7 @@ description: "CustomPrintEventArgs field. Gets the name of the file that is bein
 type: docs
 weight: 20
 url: "/net/aspose.pdf.printing/customprinteventargs/filename/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CustomPrintEventArgs.FileName field
 

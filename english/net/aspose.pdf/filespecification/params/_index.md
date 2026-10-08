@@ -7,7 +7,7 @@ description: "FileSpecification property. Gets file paramteres."
 type: docs
 weight: 190
 url: "/net/aspose.pdf/filespecification/params/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSpecification.Params property
 
@@ -19,7 +19,7 @@ public FileParams Params { get; set; }
 
 ### See Also
 
-* class [FileParams](../../../aspose.pdf/fileparams/)
+* class [FileParams](../../fileparams/)
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

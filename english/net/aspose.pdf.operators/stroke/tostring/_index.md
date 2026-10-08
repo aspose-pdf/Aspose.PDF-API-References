@@ -7,7 +7,7 @@ description: "Stroke method. Returns text representation of the operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/stroke/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stroke.ToString method
 

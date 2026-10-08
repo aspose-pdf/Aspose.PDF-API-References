@@ -7,7 +7,7 @@ description: "ContentsResizeValue property. Gets specified value. Use Unit prope
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/value/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeValue.Value property
 
@@ -19,7 +19,7 @@ public double Value { get; }
 
 ### See Also
 
-* class [PdfFileEditor.ContentsResizeValue](../)
+* class [ContentsResizeValue](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

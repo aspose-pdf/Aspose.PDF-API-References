@@ -8,7 +8,7 @@ type: docs
 weight: 2830
 url: "/net/aspose.pdf/svgloadoptions/"
 keywords: "SvgLoadOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SvgLoadOptions class
 
@@ -22,23 +22,23 @@ public sealed class SvgLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [SvgLoadOptions](./svgloadoptions/)() | The default constructor. |
+| [SvgLoadOptions](svgloadoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AdjustPageSize](./adjustpagesize/) { get; set; } | Adust pdf page size to svg size |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When , allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default . |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../../aspose.pdf/loadoptions/) describes. |
-| [PageInfo](./pageinfo/) { get; set; } | Gets or sets page info that should be applied during loading of document. |
+| [AdjustPageSize](../../aspose.pdf/svgloadoptions/adjustpagesize/) { get; set; } | Adust pdf page size to svg size |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When `true`, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../loadoptions/) describes. |
+| [PageInfo](../../aspose.pdf/svgloadoptions/pageinfo/) { get; set; } | Gets or sets page info that should be applied during loading of document. |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [ConversionEngine](./conversionengine/) | Allows select conversion engine that will be in use during conversion. Currently new engine is in B-testing stage, so this value by default set to ConversionEngines.LegacyEngine |
+| [ConversionEngine](../../aspose.pdf/svgloadoptions/conversionengine/) | Allows select conversion engine that will be in use during conversion. Currently new engine is in B-testing stage, so this value by default set to ConversionEngines.LegacyEngine |
 
 ## Other Members
 

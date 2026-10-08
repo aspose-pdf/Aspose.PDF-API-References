@@ -7,7 +7,7 @@ description: "PDF3DAnnotation method. Accepts visitor for annotation processing.
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/pdf3dannotation/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DAnnotation.Accept method
 
@@ -23,7 +23,7 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [AnnotationSelector](../../annotationselector/)
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

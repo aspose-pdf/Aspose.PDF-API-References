@@ -7,7 +7,7 @@ description: "PDF3DCrossSection property. Gets or sets the color of the cutting 
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplanesintersectioncolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DCrossSection.CuttingPlanesIntersectionColor property
 

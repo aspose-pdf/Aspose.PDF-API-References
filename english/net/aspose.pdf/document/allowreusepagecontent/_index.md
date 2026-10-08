@@ -7,7 +7,7 @@ description: "Document property. Allows to merge page contents to optimize docue
 type: docs
 weight: 1560
 url: "/net/aspose.pdf/document/allowreusepagecontent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.AllowReusePageContent property
 

@@ -8,11 +8,11 @@ type: docs
 weight: 390
 url: "/net/aspose.pdf.text/tabstops/"
 keywords: "TabStops, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TabStops class
 
-Represents a collection of [`TabStop`](../../aspose.pdf.text/tabstop/) objects.
+Represents a collection of [`TabStop`](../tabstop/) objects.
 
 ```csharp
 public class TabStops : ICloneable
@@ -22,25 +22,25 @@ public class TabStops : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [TabStops](./tabstops/)() | The default constructor. |
+| [TabStops](tabstops/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Initializes a new instance of the [`TabStop`](../../aspose.pdf.text/tabstop/) class with specified position and add it to the TabStops collection. |
-| [IsReadOnly](./isreadonly/) { get; } | Gets value indicating that this [`TabStops`](../../aspose.pdf.text/tabstops/) instance is already attached to [`TextFragment`](../../aspose.pdf.text/textfragment/) and became readonly. |
-| [Item](./item/) { get; set; } | Gets or sets a [`TabStop`](../../aspose.pdf.text/tabstop/) object from the collection according to TabStop index. |
+| [Count](../../aspose.pdf.text/tabstops/count/) { get; } | Initializes a new instance of the [`TabStop`](../tabstop/) class with specified position and add it to the TabStops collection. |
+| [IsReadOnly](../../aspose.pdf.text/tabstops/isreadonly/) { get; } | Gets value indicating that this `TabStops` instance is already attached to [`TextFragment`](../textfragment/) and became readonly. |
+| [Item](../../aspose.pdf.text/tabstops/item/) { get; set; } | Gets or sets a [`TabStop`](../tabstop/) object from the collection according to TabStop index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)() | Initializes a new instance of the [`TabStop`](../../aspose.pdf.text/tabstop/) class and add it to the TabStops collection. |
-| [Add](./add/)(float) | Initializes a new instance of the [`TabStop`](../../aspose.pdf.text/tabstop/) class with specified position and add it to the TabStops collection. |
-| [Add](./add/)(TabStop) | Add instance of the [`TabStop`](../../aspose.pdf.text/tabstop/) class to the TabStops collection. |
-| [Add](./add/)(float, TabLeaderType) | Initializes a new instance of the [`TabStop`](../../aspose.pdf.text/tabstop/) class with specified position and leader type and add it to the TabStops collection. |
-| [Clone](./clone/)() | Clones a new [`TabStops`](../../aspose.pdf.text/tabstops/) objects. |
+| [Add](../../aspose.pdf.text/tabstops/add/#add)() | Initializes a new instance of the [`TabStop`](../tabstop/) class and add it to the TabStops collection. |
+| [Add](../../aspose.pdf.text/tabstops/add/#add_1)(float) | Initializes a new instance of the [`TabStop`](../tabstop/) class with specified position and add it to the TabStops collection. |
+| [Add](../../aspose.pdf.text/tabstops/add/#add_2)(TabStop) | Add instance of the [`TabStop`](../tabstop/) class to the TabStops collection. |
+| [Add](../../aspose.pdf.text/tabstops/add/#add_3)(float, TabLeaderType) | Initializes a new instance of the [`TabStop`](../tabstop/) class with specified position and leader type and add it to the TabStops collection. |
+| [Clone](../../aspose.pdf.text/tabstops/clone/)() | Clones a new `TabStops` objects. |
 
 ### See Also
 

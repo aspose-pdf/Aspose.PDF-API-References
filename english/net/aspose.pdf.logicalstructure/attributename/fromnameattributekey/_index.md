@@ -7,7 +7,7 @@ description: "AttributeName method. Gets attribute name for attribute key."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/attributename/fromnameattributekey/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.FromNameAttributeKey method
 
@@ -28,8 +28,8 @@ Attribute name
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeName](../)
+* class [AttributeKey](../../attributekey/)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

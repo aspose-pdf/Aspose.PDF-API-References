@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Devices.CompressionType enum. Used to specify the param
 type: docs
 weight: 40
 url: "/net/aspose.pdf.devices/compressiontype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompressionType enumeration
 

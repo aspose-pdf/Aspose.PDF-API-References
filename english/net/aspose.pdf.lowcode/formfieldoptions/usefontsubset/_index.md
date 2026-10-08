@@ -7,7 +7,7 @@ description: "FormFieldOptions property. Gets/sets the value to determine whethe
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/formfieldoptions/usefontsubset/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldOptions.UseFontSubset property
 

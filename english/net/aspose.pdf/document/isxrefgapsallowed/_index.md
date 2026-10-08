@@ -7,7 +7,7 @@ description: "Document property. Gets or sets the is document pdfa compliant."
 type: docs
 weight: 1160
 url: "/net/aspose.pdf/document/isxrefgapsallowed/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.IsXrefGapsAllowed property
 

@@ -7,7 +7,7 @@ description: "TeXSaveOptions method. Clears the font encoding list"
 type: docs
 weight: 30
 url: "/net/aspose.pdf/texsaveoptions/clearfontencs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXSaveOptions.ClearFontEncs method
 

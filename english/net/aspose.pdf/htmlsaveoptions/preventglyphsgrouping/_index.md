@@ -7,7 +7,7 @@ description: "HtmlSaveOptions property. This attribute switch on the mode when t
 type: docs
 weight: 220
 url: "/net/aspose.pdf/htmlsaveoptions/preventglyphsgrouping/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.PreventGlyphsGrouping property
 

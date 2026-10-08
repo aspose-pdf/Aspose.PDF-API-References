@@ -7,7 +7,7 @@ description: "MoveTo property. Y coordinate"
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/moveto/y/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MoveTo.Y property
 

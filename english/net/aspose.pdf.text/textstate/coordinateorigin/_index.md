@@ -7,7 +7,7 @@ description: "TextState property. Gets or sets text CoordinateOrigin. If Coordin
 type: docs
 weight: 290
 url: "/net/aspose.pdf.text/textstate/coordinateorigin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextState.CoordinateOrigin property
 
@@ -24,7 +24,7 @@ public virtual CoordinateOrigin CoordinateOrigin { get; set; }
 
 ### See Also
 
-* enum [CoordinateOrigin](../../../aspose.pdf.text/coordinateorigin/)
+* enum [CoordinateOrigin](../../coordinateorigin/)
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "TextBoxField property. Gets or sets scrollable flag of field. If t
 type: docs
 weight: 90
 url: "/net/aspose.pdf.forms/textboxfield/scrollable/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextBoxField.Scrollable property
 

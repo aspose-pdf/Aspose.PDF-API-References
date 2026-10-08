@@ -7,7 +7,7 @@ description: "RenderingOptions property. Gets or sets a value used to increase o
 type: docs
 weight: 60
 url: "/net/aspose.pdf/renderingoptions/heightextraunits/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenderingOptions.HeightExtraUnits property
 

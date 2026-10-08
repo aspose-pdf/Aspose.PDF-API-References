@@ -7,9 +7,9 @@ description: "FormEditor method. Add field of specified type to the form."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/formeditor/addfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## AddField([FieldType](../../../aspose.pdf.facades/fieldtype/), string, int, float, float, float, float) {#addfield}
+## AddField(FieldType, string, int, float, float, float, float) {#addfield}
 
 Add field of specified type to the form.
 
@@ -42,14 +42,14 @@ formEditor.Save();
 
 ### See Also
 
-* enum [FieldType](../../../aspose.pdf.facades/fieldtype/)
+* enum [FieldType](../../fieldtype/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddField([FieldType](../../../aspose.pdf.facades/fieldtype/), string, string, int, float, float, float, float) {#addfield_1}
+## AddField(FieldType, string, string, int, float, float, float, float) {#addfield_1}
 
 Add field of specified type to the form.
 
@@ -85,7 +85,7 @@ formEditor.Save();
 
 ### See Also
 
-* enum [FieldType](../../../aspose.pdf.facades/fieldtype/)
+* enum [FieldType](../../fieldtype/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

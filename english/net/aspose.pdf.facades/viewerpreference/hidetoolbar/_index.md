@@ -7,7 +7,7 @@ description: "ViewerPreference field. A flag specifying whether to hide the conf
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/viewerpreference/hidetoolbar/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ViewerPreference.HideToolbar field
 

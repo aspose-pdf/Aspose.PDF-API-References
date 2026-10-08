@@ -7,7 +7,7 @@ description: "RenditionAction property. Gets or sets JavaScript code associated 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/renditionaction/javascript/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenditionAction.JavaScript property
 

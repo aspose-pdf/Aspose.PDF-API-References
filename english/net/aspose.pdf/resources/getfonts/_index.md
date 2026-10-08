@@ -7,7 +7,7 @@ description: "Resources method. Returns fonts collection. If resources don't con
 type: docs
 weight: 10
 url: "/net/aspose.pdf/resources/getfonts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Resources.GetFonts method
 

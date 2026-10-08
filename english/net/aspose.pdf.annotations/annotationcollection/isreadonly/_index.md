@@ -7,7 +7,7 @@ description: "AnnotationCollection property. Gets a value indicating if collecti
 type: docs
 weight: 160
 url: "/net/aspose.pdf.annotations/annotationcollection/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AnnotationCollection.IsReadOnly property
 

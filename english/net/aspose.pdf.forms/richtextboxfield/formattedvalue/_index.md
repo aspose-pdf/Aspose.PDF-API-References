@@ -7,7 +7,7 @@ description: "RichTextBoxField property. Gets or sets formatted rich text value 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/richtextboxfield/formattedvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RichTextBoxField.FormattedValue property
 

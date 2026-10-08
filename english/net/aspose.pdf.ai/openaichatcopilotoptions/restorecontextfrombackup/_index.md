@@ -7,7 +7,7 @@ description: "OpenAIChatCopilotOptions property. Gets or sets a value indicating
 type: docs
 weight: 250
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/restorecontextfrombackup/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIChatCopilotOptions.RestoreContextFromBackup property
 

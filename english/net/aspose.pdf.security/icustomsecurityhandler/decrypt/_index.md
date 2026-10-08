@@ -7,7 +7,7 @@ description: "ICustomSecurityHandler method. Decrypt the data array."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.security/icustomsecurityhandler/decrypt/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ICustomSecurityHandler.Decrypt method
 

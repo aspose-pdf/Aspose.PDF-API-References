@@ -7,7 +7,7 @@ description: "PaperSizes field. Letter transverse paper (8.275 in. by 11 in.)."
 type: docs
 weight: 520
 url: "/net/aspose.pdf.printing/papersizes/lettertransverse/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.LetterTransverse field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize LetterTransverse;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

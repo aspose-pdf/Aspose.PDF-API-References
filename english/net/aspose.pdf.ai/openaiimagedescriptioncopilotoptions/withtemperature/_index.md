@@ -7,7 +7,7 @@ description: "OpenAIImageDescriptionCopilotOptions method. Sets the temperature 
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withtemperature/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIImageDescriptionCopilotOptions.WithTemperature method
 
@@ -23,11 +23,11 @@ public OpenAIImageDescriptionCopilotOptions WithTemperature(double? temperature)
 
 ### Return Value
 
-The current instance of [`OpenAIImageDescriptionCopilotOptions`](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/).
+The current instance of [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIImageDescriptionCopilotOptions](../../../aspose.pdf.ai/openaiimagedescriptioncopilotoptions/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

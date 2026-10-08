@@ -7,29 +7,9 @@ description: "PdfBookmarkEditor method. Imports bookmarks to the document from X
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## ImportBookmarksWithXML(Stream) {#importbookmarkswithxml}
-
-Imports bookmarks to the document from XML file.
-
-```csharp
-public void ImportBookmarksWithXML(Stream stream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Stream with bookmarks data. |
-
-### See Also
-
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## ImportBookmarksWithXML(string) {#importbookmarkswithxml_1}
+## ImportBookmarksWithXML(string) {#importbookmarkswithxml}
 
 Imports bookmarks to the document from XML file.
 
@@ -49,6 +29,26 @@ editor.BindPdf("example.pdf");
 editor.ImportBookmarksWithXML("bookmarks.xml");
 editor.Save("example_out.pdf");
 ```
+
+### See Also
+
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ImportBookmarksWithXML(Stream) {#importbookmarkswithxml_1}
+
+Imports bookmarks to the document from XML file.
+
+```csharp
+public void ImportBookmarksWithXML(Stream stream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | Stream with bookmarks data. |
 
 ### See Also
 

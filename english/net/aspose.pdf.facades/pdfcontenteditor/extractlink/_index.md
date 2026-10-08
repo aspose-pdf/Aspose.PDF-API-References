@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Extracts the collection of Link instances
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/pdfcontenteditor/extractlink/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.ExtractLink method
 
@@ -36,6 +36,7 @@ foreach (object obj in links)
 
 ### See Also
 
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

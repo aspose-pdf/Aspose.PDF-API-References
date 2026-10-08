@@ -7,7 +7,7 @@ description: "IPipelineOptions property. Specifies the size of a portion of page
 type: docs
 weight: 10
 url: "/net/aspose.pdf/ipipelineoptions/batchsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IPipelineOptions.BatchSize property
 

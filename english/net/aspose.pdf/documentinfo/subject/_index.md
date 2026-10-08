@@ -7,7 +7,7 @@ description: "DocumentInfo property. Gets or sets the subject of the document."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/documentinfo/subject/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentInfo.Subject property
 

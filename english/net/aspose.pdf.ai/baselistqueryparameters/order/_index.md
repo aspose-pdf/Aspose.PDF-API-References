@@ -7,7 +7,7 @@ description: "BaseListQueryParameters property. Gets or sets sort order by the c
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/baselistqueryparameters/order/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseListQueryParameters.Order property
 

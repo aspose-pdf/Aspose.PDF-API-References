@@ -7,7 +7,7 @@ description: "SignatureCustomAppearance property. Gets/sets background color. De
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/signaturecustomappearance/backgroundcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureCustomAppearance.BackgroundColor property
 

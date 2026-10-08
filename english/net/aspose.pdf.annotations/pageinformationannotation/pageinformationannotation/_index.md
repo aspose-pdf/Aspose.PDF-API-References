@@ -7,11 +7,11 @@ description: "PageInformationAnnotation constructor. Initializes a new instance 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pageinformationannotation/pageinformationannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageInformationAnnotation constructor
 
-Initializes a new instance of the [`PageInformationAnnotation`](../../../aspose.pdf.annotations/pageinformationannotation/) class on the given page in the given location.
+Initializes a new instance of the [`PageInformationAnnotation`](../) class on the given page in the given location.
 
 ```csharp
 public PageInformationAnnotation(Page page, Rectangle rect)
@@ -25,7 +25,7 @@ public PageInformationAnnotation(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [PageInformationAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

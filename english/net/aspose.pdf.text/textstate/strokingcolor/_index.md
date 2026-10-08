@@ -7,7 +7,7 @@ description: "TextState property. Gets or sets foreground color of the text."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.text/textstate/strokingcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextState.StrokingColor property
 

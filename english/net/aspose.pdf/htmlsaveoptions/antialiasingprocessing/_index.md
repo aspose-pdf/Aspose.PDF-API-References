@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. This parameter defines required antialiasin
 type: docs
 weight: 280
 url: "/net/aspose.pdf/htmlsaveoptions/antialiasingprocessing/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.AntialiasingProcessing field
 
@@ -19,6 +19,7 @@ public AntialiasingProcessingType AntialiasingProcessing;
 
 ### See Also
 
+* enum [AntialiasingProcessingType](../../htmlsaveoptions.antialiasingprocessingtype/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

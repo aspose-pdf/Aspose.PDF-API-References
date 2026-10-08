@@ -7,7 +7,7 @@ description: "MarginInfo field. Represents bottom page margin(if any)"
 type: docs
 weight: 50
 url: "/net/aspose.pdf/saveoptions.margininfo/bottommarginifany/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.MarginInfo.BottomMarginIfAny field
 
@@ -19,7 +19,8 @@ public MarginPartStyle BottomMarginIfAny;
 
 ### See Also
 
-* class [SaveOptions.MarginInfo](../)
+* class [MarginPartStyle](../../saveoptions.marginpartstyle/)
+* class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

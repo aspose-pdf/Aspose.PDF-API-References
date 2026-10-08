@@ -7,23 +7,22 @@ description: "PdfViewer method. Initializes the facade."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/pdfviewer/bindpdf/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## BindPdf([Document](../../../aspose.pdf/document/)) {#bindpdf}
+## BindPdf(string) {#bindpdf}
 
 Initializes the facade.
 
 ```csharp
-public void BindPdf(Document srcDoc)
+public void BindPdf(string srcFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcDoc | Document | The Aspose.Pdf.Document object. |
+| srcFile | String | The PDF file. |
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -50,20 +49,21 @@ public void BindPdf(Stream srcStream)
 
 ---
 
-## BindPdf(string) {#bindpdf_2}
+## BindPdf(Document) {#bindpdf_2}
 
 Initializes the facade.
 
 ```csharp
-public void BindPdf(string srcFile)
+public void BindPdf(Document srcDoc)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFile | String | The PDF file. |
+| srcDoc | Document | The Aspose.Pdf.Document object. |
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

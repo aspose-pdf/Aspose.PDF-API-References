@@ -7,7 +7,7 @@ description: "Stamp method. Sets text as stamp."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/stamp/bindlogo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.BindLogo method
 
@@ -23,7 +23,7 @@ public void BindLogo(FormattedText formattedText)
 
 ### See Also
 
-* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [FormattedText](../../formattedtext/)
 * class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

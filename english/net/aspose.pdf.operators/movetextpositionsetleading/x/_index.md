@@ -7,7 +7,7 @@ description: "MoveTextPositionSetLeading property. X coordinate of text position
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/movetextpositionsetleading/x/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MoveTextPositionSetLeading.X property
 

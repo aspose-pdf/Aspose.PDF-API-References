@@ -8,7 +8,7 @@ type: docs
 weight: 190
 url: "/net/aspose.pdf/borderinfo/"
 keywords: "BorderInfo, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BorderInfo class
 
@@ -22,28 +22,28 @@ public sealed class BorderInfo : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [BorderInfo](./borderinfo/#constructor)() | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
-| [BorderInfo](./borderinfo/#constructor_1)(BorderSide) | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
-| [BorderInfo](./borderinfo/#constructor_2)(BorderSide, Color) | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
-| [BorderInfo](./borderinfo/#constructor_3)(BorderSide, float) | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
-| [BorderInfo](./borderinfo/#constructor_4)(BorderSide, GraphInfo) | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
-| [BorderInfo](./borderinfo/#constructor_5)(BorderSide, float, Color) | Initializes a new instance of the [`BorderInfo`](../../aspose.pdf/borderinfo/) class. |
+| [BorderInfo](borderinfo/#constructor)(BorderSide, Color) | Initializes a new instance of the `BorderInfo` class. |
+| [BorderInfo](borderinfo/#constructor_1)() | Initializes a new instance of the `BorderInfo` class. |
+| [BorderInfo](borderinfo/#constructor_2)(BorderSide) | Initializes a new instance of the `BorderInfo` class. |
+| [BorderInfo](borderinfo/#constructor_3)(BorderSide, float) | Initializes a new instance of the `BorderInfo` class. |
+| [BorderInfo](borderinfo/#constructor_4)(BorderSide, float, Color) | Initializes a new instance of the `BorderInfo` class. |
+| [BorderInfo](borderinfo/#constructor_5)(BorderSide, GraphInfo) | Initializes a new instance of the `BorderInfo` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Bottom](./bottom/) { get; set; } | Gets or sets a object that indicates bottom of the border. |
-| [Left](./left/) { get; set; } | Gets or sets a object that indicates left of the border. |
-| [Right](./right/) { get; set; } | Gets or sets a object that indicates right of the border. |
-| [RoundedBorderRadius](./roundedborderradius/) { get; set; } | Gets or sets a rouded border radius |
-| [Top](./top/) { get; set; } | Gets or sets a object that indicates the top border. |
+| [Bottom](../../aspose.pdf/borderinfo/bottom/) { get; set; } | Gets or sets a object that indicates bottom of the border. |
+| [Left](../../aspose.pdf/borderinfo/left/) { get; set; } | Gets or sets a object that indicates left of the border. |
+| [Right](../../aspose.pdf/borderinfo/right/) { get; set; } | Gets or sets a object that indicates right of the border. |
+| [RoundedBorderRadius](../../aspose.pdf/borderinfo/roundedborderradius/) { get; set; } | Gets or sets a rouded border radius |
+| [Top](../../aspose.pdf/borderinfo/top/) { get; set; } | Gets or sets a object that indicates the top border. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Clone](./clone/)() | Clones a new BorderInfo object. |
+| [Clone](../../aspose.pdf/borderinfo/clone/)() | Clones a new BorderInfo object. |
 
 ### See Also
 

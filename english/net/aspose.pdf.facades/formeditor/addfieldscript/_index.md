@@ -7,7 +7,7 @@ description: "FormEditor method. Add JavaScript for a PushButton field. If old e
 type: docs
 weight: 310
 url: "/net/aspose.pdf.facades/formeditor/addfieldscript/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.AddFieldScript method
 

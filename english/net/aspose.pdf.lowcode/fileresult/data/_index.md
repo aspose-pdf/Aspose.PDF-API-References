@@ -7,7 +7,7 @@ description: "FileResult property. Gets raw data."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.lowcode/fileresult/data/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileResult.Data property
 

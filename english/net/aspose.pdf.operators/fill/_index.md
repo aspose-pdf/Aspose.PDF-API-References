@@ -8,7 +8,7 @@ type: docs
 weight: 290
 url: "/net/aspose.pdf.operators/fill/"
 keywords: "Fill, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Fill class
 
@@ -22,7 +22,7 @@ public class Fill : Operator
 
 | Name | Description |
 | --- | --- |
-| [Fill](./fill/)() | Initilizes new f operator. |
+| [Fill](fill/)() | Initilizes new f operator. |
 
 ## Properties
 
@@ -34,9 +34,8 @@ public class Fill : Operator
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/fill/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/fill/tostring/)() | Returns text representation of operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also

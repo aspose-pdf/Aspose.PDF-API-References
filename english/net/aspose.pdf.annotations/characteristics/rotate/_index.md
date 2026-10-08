@@ -7,7 +7,7 @@ description: "Characteristics property. Gets or sets rotation of the annotation.
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/characteristics/rotate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Characteristics.Rotate property
 

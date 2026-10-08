@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. List of PDF embedded font names that not be
 type: docs
 weight: 350
 url: "/net/aspose.pdf/htmlsaveoptions/excludefontnamelist/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.ExcludeFontNameList field
 

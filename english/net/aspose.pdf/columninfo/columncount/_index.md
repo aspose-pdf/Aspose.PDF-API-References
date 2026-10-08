@@ -7,7 +7,7 @@ description: "ColumnInfo property. Gets or sets a int value that indicates the n
 type: docs
 weight: 40
 url: "/net/aspose.pdf/columninfo/columncount/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ColumnInfo.ColumnCount property
 

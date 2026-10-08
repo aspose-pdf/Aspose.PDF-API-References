@@ -7,7 +7,7 @@ description: "PageNumber property. Gets or sets the total number of pages compon
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pagenumber/totalnum/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageNumber.TotalNum property
 
@@ -20,6 +20,7 @@ public PageTotalNum TotalNum { get; set; }
 
 ### See Also
 
+* class [PageTotalNum](../../pagenumber.pagetotalnum/)
 * class [PageNumber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

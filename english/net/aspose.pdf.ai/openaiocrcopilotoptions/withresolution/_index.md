@@ -7,7 +7,7 @@ description: "OpenAIOcrCopilotOptions method. Sets the resolution used to conver
 type: docs
 weight: 150
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withresolution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIOcrCopilotOptions.WithResolution method
 
@@ -23,11 +23,11 @@ public OpenAIOcrCopilotOptions WithResolution(int resolution)
 
 ### Return Value
 
-The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
+The current instance of [`OpenAIOcrCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+* class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

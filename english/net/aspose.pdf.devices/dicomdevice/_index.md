@@ -8,7 +8,7 @@ type: docs
 weight: 60
 url: "/net/aspose.pdf.devices/dicomdevice/"
 keywords: "DicomDevice, Aspose.Pdf.Devices, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DicomDevice class
 
@@ -22,12 +22,12 @@ public sealed class DicomDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [DicomDevice](./dicomdevice/#constructor)() | Initializes a new instance of the [`DicomDevice`](../../aspose.pdf.devices/dicomdevice/) class with default resolution. |
-| [DicomDevice](./dicomdevice/#constructor_1)(PageSize) | Initializes a new instance of the [`DicomDevice`](../../aspose.pdf.devices/dicomdevice/) class with provided page size, with default resolution (=150). |
-| [DicomDevice](./dicomdevice/#constructor_2)(Resolution) | Initializes a new instance of the [`DicomDevice`](../../aspose.pdf.devices/dicomdevice/) class. |
-| [DicomDevice](./dicomdevice/#constructor_3)(int, int) | Initializes a new instance of the [`DicomDevice`](../../aspose.pdf.devices/dicomdevice/) class with provided image dimensions, with default resolution (=150). |
-| [DicomDevice](./dicomdevice/#constructor_4)(PageSize, Resolution) | Initializes a new instance of the [`DicomDevice`](../../aspose.pdf.devices/dicomdevice/) class with provided page size and resolution. |
-| [DicomDevice](./dicomdevice/#constructor_5)(int, int, Resolution) | Initializes a new instance of the [`DicomDevice`](../../aspose.pdf.devices/dicomdevice/) class with provided image dimensions and resolution. |
+| [DicomDevice](dicomdevice/#constructor)() | Initializes a new instance of the `DicomDevice` class with default resolution. |
+| [DicomDevice](dicomdevice/#constructor_1)(Resolution) | Initializes a new instance of the `DicomDevice` class. Resolution for the result image file, see [`Resolution`](../resolution/) class. |
+| [DicomDevice](dicomdevice/#constructor_2)(PageSize) | Initializes a new instance of the `DicomDevice` class with provided page size, with default resolution (=150). |
+| [DicomDevice](dicomdevice/#constructor_3)(int, int) | Initializes a new instance of the `DicomDevice` class with provided image dimensions, with default resolution (=150). |
+| [DicomDevice](dicomdevice/#constructor_4)(PageSize, Resolution) | Initializes a new instance of the `DicomDevice` class with provided page size and resolution. |
+| [DicomDevice](dicomdevice/#constructor_5)(int, int, Resolution) | Initializes a new instance of the `DicomDevice` class with provided image dimensions and resolution. |
 
 ## Properties
 
@@ -44,8 +44,9 @@ public sealed class DicomDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Converts the page into `Bitmap`. |
-| override [Process](./process/)(Page, Stream) | Converts the page into Dicom and saves it in the output stream. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Converts the page into Bitmap. |
+| override [Process](../../aspose.pdf.devices/dicomdevice/process/)(Page, Stream) | Converts the page into Dicom and saves it in the output stream. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
 
 ### See Also
 

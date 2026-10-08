@@ -7,7 +7,7 @@ description: "Font method. Measures the string."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/font/measurestring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Font.MeasureString method
 

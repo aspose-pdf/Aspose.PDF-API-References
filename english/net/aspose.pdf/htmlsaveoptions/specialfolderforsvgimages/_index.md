@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. Gets or sets path to directory to which mus
 type: docs
 weight: 400
 url: "/net/aspose.pdf/htmlsaveoptions/specialfolderforsvgimages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.SpecialFolderForSvgImages field
 

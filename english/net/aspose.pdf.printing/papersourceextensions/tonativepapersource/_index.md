@@ -7,11 +7,11 @@ description: "PaperSourceExtensions method. Converts PaperSource to Windows-spec
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/papersourceextensions/tonativepapersource/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSourceExtensions.ToNativePaperSource method
 
-Converts [`PaperSource`](../../../aspose.pdf.printing/papersource/) to Windows-specific System.Drawing.Printing.PaperSource.
+Converts [`PaperSource`](../../papersource/) to Windows-specific System.Drawing.Printing.PaperSource.
 
 ```csharp
 public static PaperSource ToNativePaperSource(this PaperSource paperSource)
@@ -27,7 +27,7 @@ Windows paper source.
 
 ### See Also
 
-* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSource](../../papersource/)
 * class [PaperSourceExtensions](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

@@ -8,7 +8,7 @@ type: docs
 weight: 260
 url: "/net/aspose.pdf.lowcode/formfieldsetoptions/"
 keywords: "FormFieldSetOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldSetOptions class
 
@@ -22,7 +22,7 @@ public class FormFieldSetOptions : FormFieldOptions
 
 | Name | Description |
 | --- | --- |
-| [FormFieldSetOptions](./formfieldsetoptions/)() | The default constructor. |
+| [FormFieldSetOptions](formfieldsetoptions/)() | The default constructor. |
 
 ## Properties
 
@@ -42,7 +42,7 @@ public class FormFieldSetOptions : FormFieldOptions
 | [Name](../../aspose.pdf.lowcode/formfieldoptions/name/) { get; set; } | Gets/sets the value to determine property Name for created/modified field (if will be set). |
 | [PartialName](../../aspose.pdf.lowcode/formfieldoptions/partialname/) { get; set; } | Gets/sets the value to determine property PartialName for created/modified field (if will be set). |
 | [ReadOnly](../../aspose.pdf.lowcode/formfieldoptions/readonly/) { get; set; } | Gets/sets the value to determine whether created/modified field is read only or not (if will be set). |
-| [Rect](./rect/) { get; set; } | Rectangle that be setted to field(s). |
+| [Rect](../../aspose.pdf.lowcode/formfieldsetoptions/rect/) { get; set; } | Rectangle that be setted to field(s). |
 | [Required](../../aspose.pdf.lowcode/formfieldoptions/required/) { get; set; } | Gets/sets the value to determine whether created/modified field is required or not (if will be set). |
 | [TextHorizontalAlignment](../../aspose.pdf.lowcode/formfieldoptions/texthorizontalalignment/) { get; set; } | Gets/sets the value to determine property TextHorizontalAlignment for created/modified field (if will be set). |
 | [UpdateAppearanceOnConvert](../../aspose.pdf.lowcode/formfieldoptions/updateappearanceonconvert/) { get; set; } | Gets/sets the value to determine whether created/modified field is update appearance on convert or not (if will be set). |

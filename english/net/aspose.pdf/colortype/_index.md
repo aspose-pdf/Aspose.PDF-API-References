@@ -7,7 +7,7 @@ description: "Aspose.Pdf.ColorType enum. Specifies color type of elements on pag
 type: docs
 weight: 390
 url: "/net/aspose.pdf/colortype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ColorType enumeration
 

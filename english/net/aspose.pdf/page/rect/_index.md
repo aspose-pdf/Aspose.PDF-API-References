@@ -7,7 +7,7 @@ description: "Page property. Gets or sets rectangle of the page. For get: page c
 type: docs
 weight: 430
 url: "/net/aspose.pdf/page/rect/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Rect property
 
@@ -32,7 +32,7 @@ Rectangle pageRect = page.Rect;
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../rectangle/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

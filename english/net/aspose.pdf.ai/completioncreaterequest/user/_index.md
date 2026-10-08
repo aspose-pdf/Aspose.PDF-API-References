@@ -7,7 +7,7 @@ description: "CompletionCreateRequest property. Gets or sets a unique identifier
 type: docs
 weight: 180
 url: "/net/aspose.pdf.ai/completioncreaterequest/user/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionCreateRequest.User property
 

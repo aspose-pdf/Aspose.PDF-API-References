@@ -7,7 +7,7 @@ description: "Sometimes it's necessary to avoid usage of internal loader of exte
 type: docs
 weight: 1790
 url: "/net/aspose.pdf/loadoptions.resourceloadingstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LoadOptions.ResourceLoadingStrategy delegate
 
@@ -31,6 +31,7 @@ ResourceLoadingResult object.
 
 ### See Also
 
+* class [ResourceLoadingResult](../loadoptions.resourceloadingresult/)
 * class [LoadOptions](../loadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)

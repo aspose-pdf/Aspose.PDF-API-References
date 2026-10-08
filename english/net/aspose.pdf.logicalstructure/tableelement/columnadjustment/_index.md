@@ -7,7 +7,7 @@ description: "TableElement property. Gets or sets the table column adjustment."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.logicalstructure/tableelement/columnadjustment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableElement.ColumnAdjustment property
 

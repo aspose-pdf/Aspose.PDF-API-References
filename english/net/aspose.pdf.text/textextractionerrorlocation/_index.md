@@ -8,7 +8,7 @@ type: docs
 weight: 490
 url: "/net/aspose.pdf.text/textextractionerrorlocation/"
 keywords: "TextExtractionErrorLocation, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextExtractionErrorLocation class
 
@@ -22,20 +22,20 @@ public sealed class TextExtractionErrorLocation
 
 | Name | Description |
 | --- | --- |
-| [FontUsedKey](./fontusedkey/) { get; } | Key (name) of the PDF Font object that is used for showing of the operator that causes text extraction error. |
-| [FormKey](./formkey/) { get; } | Key (name) of the PDF Form XObject in which contents stream text extraction error has located. Not empty if ObjectType == 'xForm'. |
-| [ObjectType](./objecttype/) { get; } | Type of the PDF object (Page or xForm) in which contents stream text extraction error has located. |
-| [OperatorIndex](./operatorindex/) { get; } | Index of text showing operator in the contents stream (operator collection) that causes text extraction error. |
-| [OperatorString](./operatorstring/) { get; } | Text showing operator that causes text extraction error. |
-| [PageNumber](./pagenumber/) { get; } | Number of the document page where text extraction error has located. |
-| [Path](./path/) { get; } | Location of the PDF document where text extraction error has appeared. |
-| [TextStartPoint](./textstartpoint/) { get; } | Key (name) of the PDF Font object that is used for showing of the operator that causes text extraction error. |
+| [FontUsedKey](../../aspose.pdf.text/textextractionerrorlocation/fontusedkey/) { get; } | Key (name) of the PDF Font object that is used for showing of the operator that causes text extraction error. |
+| [FormKey](../../aspose.pdf.text/textextractionerrorlocation/formkey/) { get; } | Key (name) of the PDF Form XObject in which contents stream text extraction error has located. Not empty if ObjectType == 'xForm'. |
+| [ObjectType](../../aspose.pdf.text/textextractionerrorlocation/objecttype/) { get; } | Type of the PDF object (Page or xForm) in which contents stream text extraction error has located. |
+| [OperatorIndex](../../aspose.pdf.text/textextractionerrorlocation/operatorindex/) { get; } | Index of text showing operator in the contents stream (operator collection) that causes text extraction error. |
+| [OperatorString](../../aspose.pdf.text/textextractionerrorlocation/operatorstring/) { get; } | Text showing operator that causes text extraction error. |
+| [PageNumber](../../aspose.pdf.text/textextractionerrorlocation/pagenumber/) { get; } | Number of the document page where text extraction error has located. |
+| [Path](../../aspose.pdf.text/textextractionerrorlocation/path/) { get; } | Location of the PDF document where text extraction error has appeared. |
+| [TextStartPoint](../../aspose.pdf.text/textextractionerrorlocation/textstartpoint/) { get; } | Key (name) of the PDF Font object that is used for showing of the operator that causes text extraction error. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](./tostring/)() | Returns string representation. |
+| override [ToString](../../aspose.pdf.text/textextractionerrorlocation/tostring/)() | Returns string representation. |
 
 ### See Also
 

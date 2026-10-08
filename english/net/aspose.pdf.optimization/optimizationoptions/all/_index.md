@@ -7,7 +7,7 @@ description: "OptimizationOptions method. Creates optimization strategy will all
 type: docs
 weight: 20
 url: "/net/aspose.pdf.optimization/optimizationoptions/all/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizationOptions.All method
 
@@ -25,7 +25,7 @@ OptimizationOptions object.
 
 ### See Also
 
-* class [OptimizationOptions](../../../aspose.pdf.optimization/optimizationoptions/)
+* class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
 

@@ -8,11 +8,11 @@ type: docs
 weight: 1010
 url: "/net/aspose.pdf.annotations/printermarkskindextensions/"
 keywords: "PrinterMarksKindExtensions, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterMarksKindExtensions class
 
-Provides extension methods for the [`PrinterMarksKind`](../../aspose.pdf.annotations/printermarkskind/) enumeration.
+Provides extension methods for the [`PrinterMarksKind`](../printermarkskind/) enumeration.
 
 ```csharp
 public static class PrinterMarksKindExtensions
@@ -22,7 +22,7 @@ public static class PrinterMarksKindExtensions
 
 | Name | Description |
 | --- | --- |
-| static [HasFlagFast](./hasflagfast/)(this PrinterMarksKind, PrinterMarksKind) | Determines whether the current value includes a specified flag. |
+| static [HasFlagFast](../../aspose.pdf.annotations/printermarkskindextensions/hasflagfast/)(this PrinterMarksKind, PrinterMarksKind) | Determines whether the current value includes a specified flag. |
 
 ### See Also
 

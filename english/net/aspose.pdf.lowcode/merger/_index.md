@@ -8,11 +8,11 @@ type: docs
 weight: 510
 url: "/net/aspose.pdf.lowcode/merger/"
 keywords: "Merger, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Merger class
 
-Represents [`Merger`](../../aspose.pdf.lowcode/merger/) plugin.
+Represents [`Merger`](../merger/) plugin.
 
 ```csharp
 public sealed class Merger : IPlugin
@@ -40,16 +40,17 @@ merger.Process(opt);
 
 | Name | Description |
 | --- | --- |
-| [Merger](./merger/)() | The default constructor. |
+| [Merger](merger/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(IPluginOptions) | Starts the [`Merger`](../../aspose.pdf.lowcode/merger/) processing with the specified parameters. |
+| [Process](../../aspose.pdf.lowcode/merger/process/)(IPluginOptions) | Starts the `Merger` processing with the specified parameters. |
 
 ### See Also
 
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

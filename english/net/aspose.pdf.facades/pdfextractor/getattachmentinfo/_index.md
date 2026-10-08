@@ -7,7 +7,7 @@ description: "PdfExtractor method. Gets the list of attachments."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/pdfextractor/getattachmentinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractor.GetAttachmentInfo method
 
@@ -23,6 +23,7 @@ Returns a List&lt;FileSpecificatio&gt;&gt;.
 
 ### See Also
 
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

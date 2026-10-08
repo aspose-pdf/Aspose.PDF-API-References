@@ -7,11 +7,11 @@ description: "TextState property. Gets or sets underline for the text, represent
 type: docs
 weight: 240
 url: "/net/aspose.pdf.text/textstate/underline/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextState.Underline property
 
-Gets or sets underline for the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object
+Gets or sets underline for the text, represented by the [`TextFragment`](../../textfragment/) object
 
 ```csharp
 public virtual bool Underline { get; set; }

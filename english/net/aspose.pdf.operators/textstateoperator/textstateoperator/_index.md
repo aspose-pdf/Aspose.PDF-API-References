@@ -7,7 +7,7 @@ description: "TextStateOperator constructor. Initializes TextStateOperator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/textstateoperator/textstateoperator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStateOperator() {#constructor}
 
@@ -25,7 +25,7 @@ public TextStateOperator()
 
 ---
 
-## TextStateOperator([TextProperties](../../../aspose.pdf.facades/textproperties/)) {#constructor_1}
+## TextStateOperator(TextProperties) {#constructor_1}
 
 Initializes TextStateoperator which allows to pass TextProperties.
 

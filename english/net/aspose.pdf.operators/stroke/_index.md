@@ -8,7 +8,7 @@ type: docs
 weight: 810
 url: "/net/aspose.pdf.operators/stroke/"
 keywords: "Stroke, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stroke class
 
@@ -22,7 +22,7 @@ public class Stroke : Operator
 
 | Name | Description |
 | --- | --- |
-| [Stroke](./stroke/)() | Initializes operator. |
+| [Stroke](stroke/)() | Initializes operator. |
 
 ## Properties
 
@@ -34,9 +34,8 @@ public class Stroke : Operator
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Returns text representation of the operator. |
+| override [Accept](../../aspose.pdf.operators/stroke/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/stroke/tostring/)() | Returns text representation of the operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also

@@ -8,7 +8,7 @@ type: docs
 weight: 70
 url: "/net/aspose.pdf.operators/basicsetcolorandpatternoperator/"
 keywords: "BasicSetColorAndPatternOperator, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BasicSetColorAndPatternOperator class
 
@@ -30,7 +30,7 @@ public abstract class BasicSetColorAndPatternOperator : BasicSetColorOperator
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
 | [K](../../aspose.pdf.operators/basicsetcoloroperator/k/) { get; } | Gets black component of CMYK color. |
 | [M](../../aspose.pdf.operators/basicsetcoloroperator/m/) { get; } | Gets magenta component of CMYK color. |
-| [PatternName](./patternname/) { get; } | Gets Pattern Name. |
+| [PatternName](../../aspose.pdf.operators/basicsetcolorandpatternoperator/patternname/) { get; } | Gets Pattern Name. |
 | [R](../../aspose.pdf.operators/basicsetcoloroperator/r/) { get; } | Gets red component of color |
 | [Y](../../aspose.pdf.operators/basicsetcoloroperator/y/) { get; } | Gets yellow component of CMYK color. |
 
@@ -39,7 +39,6 @@ public abstract class BasicSetColorAndPatternOperator : BasicSetColorOperator
 | Name | Description |
 | --- | --- |
 | abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | Accepts visitor IOperatorSelector which provides operators processing. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 | abstract [getColor](../../aspose.pdf.operators/setcoloroperator/getcolor/)() | Retirns color specified by the operator. |

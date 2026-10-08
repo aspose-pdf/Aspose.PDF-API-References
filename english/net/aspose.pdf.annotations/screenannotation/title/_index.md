@@ -7,7 +7,7 @@ description: "ScreenAnnotation property. Gets or sets the title of the screen an
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/screenannotation/title/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ScreenAnnotation.Title property
 

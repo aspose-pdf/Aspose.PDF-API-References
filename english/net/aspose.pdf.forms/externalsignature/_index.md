@@ -8,7 +8,7 @@ type: docs
 weight: 110
 url: "/net/aspose.pdf.forms/externalsignature/"
 keywords: "ExternalSignature, Aspose.Pdf.Forms, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExternalSignature class
 
@@ -22,11 +22,11 @@ public class ExternalSignature : Signature
 
 | Name | Description |
 | --- | --- |
-| [ExternalSignature](./externalsignature/#constructor)(X509Certificate2) | Creates a detached PKCS#7 `(detached)` signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys. |
-| [ExternalSignature](./externalsignature/#constructor_1)(string, bool) | Creates a PKCS#7 signature using a X509Certificate2 as base64 string. |
-| [ExternalSignature](./externalsignature/#constructor_2)(string, DigestHashAlgorithm) | Creates a PKCS#7 `(detached)` signature using a X509Certificate2 as base64 string. |
-| [ExternalSignature](./externalsignature/#constructor_3)(X509Certificate2, bool) | Creates a detached PKCS#7 signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys. |
-| [ExternalSignature](./externalsignature/#constructor_4)(X509Certificate2, DigestHashAlgorithm) | Creates a detached PKCS#7 `(detached)` signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys. |
+| [ExternalSignature](externalsignature/#constructor)(X509Certificate2) | Creates a detached PKCS#7 `(detached)` signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys. |
+| [ExternalSignature](externalsignature/#constructor_1)(X509Certificate2, DigestHashAlgorithm) | Creates a detached PKCS#7 `(detached)` signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys. |
+| [ExternalSignature](externalsignature/#constructor_2)(X509Certificate2, bool) | Creates a detached PKCS#7 signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys. |
+| [ExternalSignature](externalsignature/#constructor_3)(string, bool) | Creates a PKCS#7 signature using a X509Certificate2 as base64 string. |
+| [ExternalSignature](externalsignature/#constructor_4)(string, DigestHashAlgorithm) | Creates a PKCS#7 `(detached)` signature using a X509Certificate2 as base64 string. |
 
 ## Properties
 
@@ -63,7 +63,7 @@ public class ExternalSignature : Signature
 
 | Name | Description |
 | --- | --- |
-| readonly [Certificate](./certificate/) | The certificate with the private key. |
+| readonly [Certificate](../../aspose.pdf.forms/externalsignature/certificate/) | The certificate with the private key. |
 
 ### See Also
 

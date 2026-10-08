@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Printing.PaperKind enum. Specifies the standard paper s
 type: docs
 weight: 60
 url: "/net/aspose.pdf.printing/paperkind/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperKind enumeration
 

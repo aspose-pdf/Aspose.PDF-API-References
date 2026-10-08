@@ -7,7 +7,7 @@ description: "Field method. Exports the content of the specified field into a JS
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/field/exportvaluetojson/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Field.ExportValueToJson method
 

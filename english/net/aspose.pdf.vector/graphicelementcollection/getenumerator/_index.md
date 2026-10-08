@@ -7,7 +7,7 @@ description: "GraphicElementCollection method. Returns an enumerator for the ent
 type: docs
 weight: 20
 url: "/net/aspose.pdf.vector/graphicelementcollection/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicElementCollection.GetEnumerator method
 
@@ -23,6 +23,7 @@ Enumerator object.
 
 ### See Also
 
+* class [GraphicElement](../../graphicelement/)
 * class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

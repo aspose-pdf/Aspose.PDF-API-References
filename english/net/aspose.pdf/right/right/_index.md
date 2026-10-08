@@ -7,7 +7,7 @@ description: "Right constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/right/right/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Right constructor
 

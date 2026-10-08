@@ -7,11 +7,11 @@ description: "OcrTextAbsorber property. Gets the text recognized by the most rec
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ocr/ocrtextabsorber/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OcrTextAbsorber.Text property
 
-Gets the text recognized by the most recent `Visit` or `Visit` call.
+Gets the text recognized by the most recent [`Visit`](../visit/) or [`Visit`](../visit/) call.
 
 ```csharp
 public string Text { get; }

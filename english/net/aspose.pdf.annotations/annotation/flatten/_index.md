@@ -7,7 +7,7 @@ description: "Annotation method. Places annotation contents directly on the page
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/annotation/flatten/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.Flatten method
 

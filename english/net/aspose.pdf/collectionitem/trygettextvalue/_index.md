@@ -7,7 +7,7 @@ description: "CollectionItem method."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/collectionitem/trygettextvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionItem.TryGetTextValue method
 
@@ -16,15 +16,6 @@ product_version: "26.9.0"
 ```csharp
 public bool TryGetTextValue(string name, out Value<string> value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String |  |
-| value | Value`1& |  |
-
-### Return Value
-
-bool
 
 ### See Also
 

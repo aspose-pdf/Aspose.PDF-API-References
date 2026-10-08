@@ -8,11 +8,11 @@ type: docs
 weight: 360
 url: "/net/aspose.pdf.lowcode/formremoveselectedfieldsoptions/"
 keywords: "FormRemoveSelectedFieldsOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormRemoveSelectedFieldsOptions class
 
-Represents options for remove selected fields in document by [`FormEditor`](../../aspose.pdf.lowcode/formeditor/) plugin.
+Represents options for remove selected fields in document by [`FormEditor`](../formeditor/) plugin.
 
 ```csharp
 public sealed class FormRemoveSelectedFieldsOptions : FormEditorRemoveOptions
@@ -22,7 +22,7 @@ public sealed class FormRemoveSelectedFieldsOptions : FormEditorRemoveOptions
 
 | Name | Description |
 | --- | --- |
-| [FormRemoveSelectedFieldsOptions](./formremoveselectedfieldsoptions/)(SelectField) | Initializes new instance of the [`FormEditorRemoveOptions`](../../aspose.pdf.lowcode/formeditorremoveoptions/) object. |
+| [FormRemoveSelectedFieldsOptions](formremoveselectedfieldsoptions/)(SelectField) | Initializes new instance of the [`FormEditorRemoveOptions`](../formeditorremoveoptions/) object. |
 
 ## Properties
 

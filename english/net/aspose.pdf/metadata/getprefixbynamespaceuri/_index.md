@@ -7,7 +7,7 @@ description: "Metadata method. Returns prefix by namespace URI."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/metadata/getprefixbynamespaceuri/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metadata.GetPrefixByNamespaceUri method
 

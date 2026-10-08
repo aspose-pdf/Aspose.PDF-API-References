@@ -7,7 +7,7 @@ description: "Document property. Gets document actions. This property is instanc
 type: docs
 weight: 1340
 url: "/net/aspose.pdf/document/actions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.Actions property
 

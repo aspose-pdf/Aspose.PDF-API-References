@@ -7,7 +7,7 @@ description: "PdfBookmarkEditor method. Creates bookmarks for all pages."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateBookmarks() {#createbookmarks}
 
@@ -34,7 +34,7 @@ editor.Save("example_out.pdf");
 
 ---
 
-## CreateBookmarks([Bookmark](../../../aspose.pdf.facades/bookmark/)) {#createbookmarks_1}
+## CreateBookmarks(Bookmark) {#createbookmarks_1}
 
 Creates the specified bookmark in the document. The method can be used for forming nested bookmarks hierarchy.
 
@@ -71,14 +71,14 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [Bookmark](../../../aspose.pdf.facades/bookmark/)
+* class [Bookmark](../../bookmark/)
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateBookmarks([Color](../../../aspose.pdf/color/), bool, bool) {#createbookmarks_2}
+## CreateBookmarks(Color, bool, bool) {#createbookmarks_2}
 
 Create bookmarks for all pages with specified color and style (bold, italic).
 
@@ -103,7 +103,6 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

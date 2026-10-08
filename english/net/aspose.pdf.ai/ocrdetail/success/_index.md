@@ -7,7 +7,7 @@ description: "OcrDetail property. Indicates whether the OCR extraction for this 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/ocrdetail/success/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OcrDetail.Success property
 

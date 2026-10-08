@@ -7,7 +7,7 @@ description: "ImageDevice property. Gets or sets the page coordinate type (Media
 type: docs
 weight: 80
 url: "/net/aspose.pdf.devices/imagedevice/coordinatetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageDevice.CoordinateType property
 

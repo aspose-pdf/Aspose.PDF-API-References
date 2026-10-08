@@ -7,7 +7,7 @@ description: "GS property. Gets or sets name of graphic state resource."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/gs/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GS.Name property
 

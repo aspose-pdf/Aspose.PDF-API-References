@@ -7,7 +7,7 @@ description: "Page method. Converts current page as xml in utf8 encoding."
 type: docs
 weight: 330
 url: "/net/aspose.pdf/page/asxml/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.AsXml method
 

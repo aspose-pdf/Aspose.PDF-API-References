@@ -7,7 +7,7 @@ description: "PdfPageEditor field. Top-Bottom Wipe"
 type: docs
 weight: 320
 url: "/net/aspose.pdf.facades/pdfpageeditor/tbwipe/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.TBWIPE field
 

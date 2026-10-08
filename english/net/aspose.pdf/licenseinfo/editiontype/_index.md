@@ -7,7 +7,7 @@ description: "LicenseInfo property. Gets the edition type of the license."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/licenseinfo/editiontype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LicenseInfo.EditionType property
 

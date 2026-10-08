@@ -7,7 +7,7 @@ description: "Rectangle method. Clones the Rectangle object."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/rectangle/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.Clone method
 

@@ -3,16 +3,17 @@ title: "Aspose.Pdf.Text"
 linktitle: "Aspose.Pdf.Text"
 articleTitle: "Aspose.Pdf.Text"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The Aspose.Pdf.Text namespace provides classes."
+description: "The Aspose.Pdf.Text namespace provides classes that allow to extract text, add text, manipulate existing text of a document. It also contain classes that all..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/"
 keywords: "Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Overview
 
-The **Aspose.Pdf.Text** namespace provides classes.
+The **Aspose.Pdf.Text** namespace provides classes that allow to extract text, add text, manipulate existing text of a document. 
+ It also contain classes that allow to extract, replace, substitute fonts of a document.
 
 Part of the [Aspose.PDF for .NET](../) API reference.
 
@@ -26,11 +27,10 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [CharInfo](./charinfo/) | Represents a character info object. Provides character positioning information. |
 | [CharInfoCollection](./charinfocollection/) | Represents CharInfo objects collection. |
 | [CustomFontSubstitutionBase](./customfontsubstitutionbase/) | Represents a base class for custom font substitution strategy. |
-| [CustomFontSubstitutionBase.OriginalFontSpecification](./customfontsubstitutionbase.originalfontspecification/) | Represents original font specification. |
 | [FileFontSource](./filefontsource/) | Represents single font file source. |
 | [FolderFontSource](./folderfontsource/) | Represents the folder that contains font files. |
 | [Font](./font/) | Represents font object. |
-| [FontAbsorber](./fontabsorber/) | Represents an absorber object of fonts. Performs search for fonts and provides access to search results via `Fonts` collection. |
+| [FontAbsorber](./fontabsorber/) | Represents an absorber object of fonts. Performs search for fonts and provides access to search results via [`Fonts`](../aspose.pdf.text/fontabsorber/fonts/) collection. |
 | [FontCollection](./fontcollection/) | Represents font collection. |
 | [FontRepository](./fontrepository/) | Performs font search. Searches in system installed fonts and standard Pdf fonts. Also provides functionality to open custom fonts. |
 | [FontSource](./fontsource/) | Represents a base class fot font source. |
@@ -50,8 +50,8 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [SystemFontsSubstitution](./systemfontssubstitution/) | Represents a class for font substitution strategy that substitutes fonts with system fonts. |
 | [TabStop](./tabstop/) | Represents a custom Tab stop position in a paragraph. |
 | [TabStops](./tabstops/) | Represents a collection of [`TabStop`](../aspose.pdf.text/tabstop/) objects. |
-| [TableAbsorber](./tableabsorber/) | Represents an absorber object of table elements. Performs search and provides access to search results via `TableList` collection. |
-| [TextAbsorber](./textabsorber/) | Represents an absorber object of a text. Performs text extraction and provides access to the result via `Text` object. |
+| [TableAbsorber](./tableabsorber/) | Represents an absorber object of table elements. Performs search and provides access to search results via [`TableList`](../aspose.pdf.text/tableabsorber/tablelist/) collection. |
+| [TextAbsorber](./textabsorber/) | Represents an absorber object of a text. Performs text extraction and provides access to the result via [`Text`](../aspose.pdf.text/textabsorber/text/) object. |
 | [TextBuilder](./textbuilder/) | Appends text object to Pdf page. |
 | [TextEditOptions](./texteditoptions/) | Descubes options of text edit operations. |
 | [TextExtractionError](./textextractionerror/) | Describes the text extraction error has appeared in the PDF document. |
@@ -59,7 +59,7 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [TextExtractionOptions](./textextractionoptions/) | Represents text extraction options |
 | [TextFormattingOptions](./textformattingoptions/) | Represents text formatting options |
 | [TextFragment](./textfragment/) | Represents fragment of Pdf text. |
-| [TextFragmentAbsorber](./textfragmentabsorber/) | Represents an absorber object of text fragments. Performs text search and provides access to search results via `TextFragments` collection. |
+| [TextFragmentAbsorber](./textfragmentabsorber/) | Represents an absorber object of text fragments. Performs text search and provides access to search results via [`TextFragments`](../aspose.pdf.text/textfragmentabsorber/textfragments/) collection. |
 | [TextFragmentCollection](./textfragmentcollection/) | Represents a text fragments collection |
 | [TextFragmentState](./textfragmentstate/) | Represents a text state of a text fragment. |
 | [TextOptions](./textoptions/) | Represents text processing options |
@@ -87,25 +87,5 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [SubstitutionFontCategories](./substitutionfontcategories/) | Represents font categories that can be substituted. |
 | [TabAlignmentType](./tabalignmenttype/) | Enumerates the tab alignment types. |
 | [TabLeaderType](./tableadertype/) | Enumerates the tab leader types. |
-| [TextEditOptions.ClippingPathsProcessingMode](./texteditoptions.clippingpathsprocessingmode/) | Clipping path processing modes |
-| [TextEditOptions.FontReplace](./texteditoptions.fontreplace/) | Font replacement behavior. |
-| [TextEditOptions.LanguageTransformation](./texteditoptions.languagetransformation/) | Language transformation modes |
-| [TextEditOptions.NoCharacterAction](./texteditoptions.nocharacteraction/) | Action to perform if font does not contain required character |
-| [TextExtractionOptions.TextFormattingMode](./textextractionoptions.textformattingmode/) | Defines different modes which can be used while converting pdf document into text. See `!:TextDevice` class. |
-| [TextFormattingOptions.LineSpacingMode](./textformattingoptions.linespacingmode/) | Defines line spacing specifics |
-| [TextFormattingOptions.WordWrapMode](./textformattingoptions.wordwrapmode/) | Defines word wrapping strategies |
 | [TextRenderingMode](./textrenderingmode/) | The text rendering mode, Tmode, determines whether showing text shall cause glyph outlines to be stroked, filled, used as a clipping boundary, or some combination of the three. |
-| [TextReplaceOptions.FontSizeAdjustment](./textreplaceoptions.fontsizeadjustment/) | Specifies a policy for how the font size of text should be adjusted to fit within a containing area. |
-| [TextReplaceOptions.ReplaceAdjustment](./textreplaceoptions.replaceadjustment/) | Determines action that will be done after replace of text fragment to more short. None - no action, replaced text may overlaps rest of the line; AdjustSpaceWidth - tries adjust spaces between words to keep line length; WholeWordsHyphenation - tries distribute words between paragraph lines to keep paragraph's right field; ShiftRestOfLine - shifts rest of the line according to changing length of text, length of the line may be changed; Default value is ShiftRestOfLine. |
-| [TextReplaceOptions.Scope](./textreplaceoptions.scope/) | Scope where replace text operation is applied REPLACE_FIRST by default This obsolete option was kept for compatibility. It affects to PdfContentEditor and has no effect to TextFragmentAbsorber. |
-
-## FAQ
-
-### What classes does the Aspose.Pdf.Text namespace contain?
-
-[AbsorbedCell](./absorbedcell/), [AbsorbedRow](./absorbedrow/), [AbsorbedTable](./absorbedtable/), [CharInfo](./charinfo/), [CharInfoCollection](./charinfocollection/), and 44 more.
-
-### How many types are in the Aspose.Pdf.Text namespace?
-
-The Aspose.Pdf.Text namespace contains 68 types, listed above.
 

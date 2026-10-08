@@ -7,7 +7,7 @@ description: "OutlineItemCollection property. Gets hierarchy level of outline it
 type: docs
 weight: 310
 url: "/net/aspose.pdf/outlineitemcollection/level/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.Level property
 

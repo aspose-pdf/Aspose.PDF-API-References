@@ -7,7 +7,7 @@ description: "DocumentPrivilege property. Gets and sets the copy level of docume
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/documentprivilege/copyallowlevel/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.CopyAllowLevel property
 
@@ -16,11 +16,13 @@ Gets and sets the copy level of document's privilege. Just as the Adobe Professi
  1: Enable text access for screen reader devices for the visually impaired.
  2: Enable copying of text, images and other content.
 
-If the property has a value of -1, then the level is undefined.
-
 ```csharp
 public int CopyAllowLevel { get; set; }
 ```
+
+## Remarks
+
+If the property has a value of -1, then the level is undefined.
 
 ### See Also
 

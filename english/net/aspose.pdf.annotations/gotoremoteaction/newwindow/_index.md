@@ -7,7 +7,7 @@ description: "GoToRemoteAction property. Gets or sets a flag specifying whether 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/gotoremoteaction/newwindow/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GoToRemoteAction.NewWindow property
 

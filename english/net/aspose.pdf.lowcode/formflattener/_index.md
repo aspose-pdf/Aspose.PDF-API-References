@@ -8,7 +8,7 @@ type: docs
 weight: 290
 url: "/net/aspose.pdf.lowcode/formflattener/"
 keywords: "FormFlattener, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFlattener class
 
@@ -22,16 +22,17 @@ public sealed class FormFlattener : IPlugin
 
 | Name | Description |
 | --- | --- |
-| [FormFlattener](./formflattener/)() | The default constructor. |
+| [FormFlattener](formflattener/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(IPluginOptions) | Starts the FormFlattener processing with the specified parameters. |
+| [Process](../../aspose.pdf.lowcode/formflattener/process/)(IPluginOptions) | Starts the FormFlattener processing with the specified parameters. |
 
 ### See Also
 
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

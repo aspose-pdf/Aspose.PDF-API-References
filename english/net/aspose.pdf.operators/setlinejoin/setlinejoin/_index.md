@@ -7,7 +7,7 @@ description: "SetLineJoin constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setlinejoin/setlinejoin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetLineJoin() {#constructor}
 
@@ -25,7 +25,7 @@ public SetLineJoin()
 
 ---
 
-## SetLineJoin([LineJoin](../../../aspose.pdf.operators/linejoin/)) {#constructor_1}
+## SetLineJoin(LineJoin) {#constructor_1}
 
 Initializes a new instance of the SetLineJoin class.
 
@@ -33,13 +33,9 @@ Initializes a new instance of the SetLineJoin class.
 public SetLineJoin(LineJoin join)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| join | LineJoin |  |
-
 ### See Also
 
-* enum [LineJoin](../../../aspose.pdf.operators/linejoin/)
+* enum [LineJoin](../../linejoin/)
 * class [SetLineJoin](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

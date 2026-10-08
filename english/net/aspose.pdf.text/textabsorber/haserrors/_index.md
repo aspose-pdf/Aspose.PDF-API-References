@@ -7,7 +7,7 @@ description: "TextAbsorber property. Value indicates whether errors were found d
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/textabsorber/haserrors/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextAbsorber.HasErrors property
 

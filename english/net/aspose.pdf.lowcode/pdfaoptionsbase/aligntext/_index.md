@@ -7,16 +7,12 @@ description: "PdfAOptionsBase property. Gets or sets a value indicating whether 
 type: docs
 weight: 100
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/aligntext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAOptionsBase.AlignText property
 
 Gets or sets a value indicating whether additional means are necessary to preserve text alignment
  during the PDF/A conversion process.
-
-When set to , the conversion process will attempt to restore the original text segment bounds. 
- For the most of the documents there is no need to change this property from the default  value,
- as the text alignment doesn't change during the default conversion process.
 
 ```csharp
 public bool AlignText { get; set; }
@@ -24,8 +20,14 @@ public bool AlignText { get; set; }
 
 ### Property Value
 
- if the text alignment gets changed and additional actions are necessary to restore it;
- otherwise, .
+`true` if the text alignment gets changed and additional actions are necessary to restore it;
+ otherwise, `false`.
+
+## Remarks
+
+When set to `true`, the conversion process will attempt to restore the original text segment bounds. 
+ For the most of the documents there is no need to change this property from the default `false` value,
+ as the text alignment doesn't change during the default conversion process.
 
 ### See Also
 

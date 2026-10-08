@@ -7,7 +7,7 @@ description: "PageCollection property. Gets synchronization object of the collec
 type: docs
 weight: 290
 url: "/net/aspose.pdf/pagecollection/syncroot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollection.SyncRoot property
 

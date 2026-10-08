@@ -7,7 +7,7 @@ description: "PageRange property. Gets or sets the ending page number."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pagerange/end/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageRange.End property
 

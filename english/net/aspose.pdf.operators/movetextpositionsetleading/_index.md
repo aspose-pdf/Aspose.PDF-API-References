@@ -8,7 +8,7 @@ type: docs
 weight: 410
 url: "/net/aspose.pdf.operators/movetextpositionsetleading/"
 keywords: "MoveTextPositionSetLeading, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MoveTextPositionSetLeading class
 
@@ -22,22 +22,21 @@ public class MoveTextPositionSetLeading : TextPlaceOperator
 
 | Name | Description |
 | --- | --- |
-| [MoveTextPositionSetLeading](./movetextpositionsetleading/)(double, double) | Initializes operator. |
+| [MoveTextPositionSetLeading](movetextpositionsetleading/)(double, double) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [X](./x/) { get; set; } | X coordinate of text position. |
-| [Y](./y/) { get; set; } | Y coordinate of text position. |
+| [X](../../aspose.pdf.operators/movetextpositionsetleading/x/) { get; set; } | X coordinate of text position. |
+| [Y](../../aspose.pdf.operators/movetextpositionsetleading/y/) { get; set; } | Y coordinate of text position. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [Accept](../../aspose.pdf.operators/movetextpositionsetleading/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 

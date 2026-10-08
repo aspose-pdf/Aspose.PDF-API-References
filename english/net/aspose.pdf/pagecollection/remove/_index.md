@@ -7,7 +7,7 @@ description: "PageCollection method. Removes the specified item, throws NotSuppo
 type: docs
 weight: 260
 url: "/net/aspose.pdf/pagecollection/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollection.Remove method
 
@@ -25,16 +25,9 @@ public bool Remove(Page item)
 
 NotSupportedException
 
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| NotSupportedException | NotSupportedException |
-| NotSupportedException | NotSupportedException |
-
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

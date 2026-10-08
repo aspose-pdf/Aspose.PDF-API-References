@@ -8,7 +8,7 @@ type: docs
 weight: 2730
 url: "/net/aspose.pdf/saveoptions.borderinfo/"
 keywords: "SaveOptions.BorderInfo, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.BorderInfo class
 
@@ -23,17 +23,17 @@ public class BorderInfo
 
 | Name | Description |
 | --- | --- |
-| [BorderInfo](./borderinfo/#constructor)() | Creates instance of BorderInfo class |
-| [BorderInfo](./borderinfo/#constructor_1)(BorderPartStyle) | Creates instance of BorderInfo class and initializes all elements of border(Top, Left, Right, Bottom) with attributes copied from supplied border style |
+| [BorderInfo](borderinfo/#constructor)() | Creates instance of BorderInfo class |
+| [BorderInfo](borderinfo/#constructor_1)(BorderPartStyle) | Creates instance of BorderInfo class and initializes all elements of border(Top, Left, Right, Bottom) with attributes copied from supplied border style |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [BottomStyleIfAny](./bottomstyleifany/) | Represents bottom part(if any) of border |
-| [LeftStyleIfAny](./leftstyleifany/) | Represents left part(if any) of border |
-| [RightStyleIfAny](./rightstyleifany/) | Represents right part(if any) of border |
-| [TopStyleIfAny](./topstyleifany/) | Represents top part(if any) of border |
+| [BottomStyleIfAny](../../aspose.pdf/saveoptions.borderinfo/bottomstyleifany/) | Represents bottom part(if any) of border |
+| [LeftStyleIfAny](../../aspose.pdf/saveoptions.borderinfo/leftstyleifany/) | Represents left part(if any) of border |
+| [RightStyleIfAny](../../aspose.pdf/saveoptions.borderinfo/rightstyleifany/) | Represents right part(if any) of border |
+| [TopStyleIfAny](../../aspose.pdf/saveoptions.borderinfo/topstyleifany/) | Represents top part(if any) of border |
 
 ### See Also
 

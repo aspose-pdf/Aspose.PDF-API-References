@@ -7,7 +7,7 @@ description: "PdfBookmarkEditor method. Creates bookmark for the specified page.
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateBookmarkOfPage(string, int) {#createbookmarkofpage}
 

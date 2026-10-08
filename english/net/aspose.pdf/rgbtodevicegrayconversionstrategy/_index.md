@@ -8,7 +8,7 @@ type: docs
 weight: 2650
 url: "/net/aspose.pdf/rgbtodevicegrayconversionstrategy/"
 keywords: "RgbToDeviceGrayConversionStrategy, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RgbToDeviceGrayConversionStrategy class
 
@@ -22,16 +22,17 @@ public class RgbToDeviceGrayConversionStrategy : IColorSpaceConversionStrategy
 
 | Name | Description |
 | --- | --- |
-| [RgbToDeviceGrayConversionStrategy](./rgbtodevicegrayconversionstrategy/)() | The default constructor. |
+| [RgbToDeviceGrayConversionStrategy](rgbtodevicegrayconversionstrategy/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Convert](./convert/)(Page) | Converts the page of document. |
+| [Convert](../../aspose.pdf/rgbtodevicegrayconversionstrategy/convert/)(Page) | Converts the page of document. |
 
 ### See Also
 
+* interface [IColorSpaceConversionStrategy](../icolorspaceconversionstrategy/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
 

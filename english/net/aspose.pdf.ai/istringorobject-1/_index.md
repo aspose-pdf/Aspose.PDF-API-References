@@ -7,7 +7,7 @@ description: "Aspose.Pdf.AI.IStringOrObject interface. Represents an object that
 type: docs
 weight: 620
 url: "/net/aspose.pdf.ai/istringorobject-1/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IStringOrObject&lt;T&gt; interface
 
@@ -18,20 +18,18 @@ public interface IStringOrObject<T>
     where T : class
 ```
 
-## Type Parameters
-
-| Name | Description |
+| Parameter | Description |
 | --- | --- |
-| T |  |
+| T | The type of the object value. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [IsObjectValue](./isobjectvalue/) { get; } | Gets a value indicating whether the response format is an object value. |
-| [IsStringValue](./isstringvalue/) { get; } | Gets a value indicating whether the response format is a string value. |
-| [ObjectValue](./objectvalue/) { get; set; } | Gets or sets the object value. |
-| [StringValue](./stringvalue/) { get; set; } | Gets or sets the string value. |
+| [IsObjectValue](../../aspose.pdf.ai/istringorobject-1/isobjectvalue/) { get; } | Gets a value indicating whether the response format is an object value. |
+| [IsStringValue](../../aspose.pdf.ai/istringorobject-1/isstringvalue/) { get; } | Gets a value indicating whether the response format is a string value. |
+| [ObjectValue](../../aspose.pdf.ai/istringorobject-1/objectvalue/) { get; set; } | Gets or sets the object value. |
+| [StringValue](../../aspose.pdf.ai/istringorobject-1/stringvalue/) { get; set; } | Gets or sets the string value. |
 
 ### See Also
 

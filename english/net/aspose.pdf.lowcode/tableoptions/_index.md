@@ -8,11 +8,11 @@ type: docs
 weight: 950
 url: "/net/aspose.pdf.lowcode/tableoptions/"
 keywords: "TableOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableOptions class
 
-Represents options for add table to document by [`TableGenerator`](../../aspose.pdf.lowcode/tablegenerator/) plugin.
+Represents options for add table to document by [`TableGenerator`](../tablegenerator/) plugin.
 
 ```csharp
 public sealed class TableOptions : PdfGeneratorOptions
@@ -22,7 +22,7 @@ public sealed class TableOptions : PdfGeneratorOptions
 
 | Name | Description |
 | --- | --- |
-| [TableOptions](./tableoptions/)() | The default constructor. |
+| [TableOptions](tableoptions/)() | The default constructor. |
 
 ## Properties
 
@@ -37,10 +37,10 @@ public sealed class TableOptions : PdfGeneratorOptions
 | --- | --- |
 | [AddInput](../../aspose.pdf.lowcode/pdfgeneratoroptions/addinput/)(IDataSource) | Adds new data source to the PdfGenerator plugin data collection. |
 | [AddOutput](../../aspose.pdf.lowcode/pdfgeneratoroptions/addoutput/)(IDataSource) | Adds new data source to the PdfGenerator plugin data collection. |
-| [AddTable](./addtable/)() | Adding table to document. |
-| static [Create](./create/)() | Create instance of [`TableOptions`](../../aspose.pdf.lowcode/tableoptions/). |
-| [InsertPageAfter](./insertpageafter/)(int) | Insert page after specified page. |
-| [InsertPageBefore](./insertpagebefore/)(int) | Insert page before specified page. |
+| [AddTable](../../aspose.pdf.lowcode/tableoptions/addtable/)() | Adding table to document. |
+| static [Create](../../aspose.pdf.lowcode/tableoptions/create/)() | Create instance of `TableOptions`. |
+| [InsertPageAfter](../../aspose.pdf.lowcode/tableoptions/insertpageafter/)(int) | Insert page after specified page. |
+| [InsertPageBefore](../../aspose.pdf.lowcode/tableoptions/insertpagebefore/)(int) | Insert page before specified page. |
 
 ### See Also
 

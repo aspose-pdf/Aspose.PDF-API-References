@@ -7,25 +7,9 @@ description: "Cell constructor. Initializes a new instance of the Cell class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/cell/cell/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Cell() {#constructor}
-
-Initializes a new instance of the Cell class.
-
-```csharp
-public Cell()
-```
-
-### See Also
-
-* class [Cell](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Cell([Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
+## Cell(Rectangle) {#constructor}
 
 Initializes a new instance of the Cell class.
 
@@ -39,7 +23,23 @@ public Cell(Rectangle rect)
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../rectangle/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Cell() {#constructor_1}
+
+Initializes a new instance of the Cell class.
+
+```csharp
+public Cell()
+```
+
+### See Also
+
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

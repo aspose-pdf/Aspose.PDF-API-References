@@ -7,7 +7,7 @@ description: "ExplicitDestination method. Returns string representation of Expli
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/explicitdestination/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExplicitDestination.ToString method
 

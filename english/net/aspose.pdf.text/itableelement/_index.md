@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Text.ITableElement interface. This interface represents
 type: docs
 weight: 230
 url: "/net/aspose.pdf.text/itableelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITableElement interface
 
@@ -21,7 +21,7 @@ public interface ITableElement
 
 | Name | Description |
 | --- | --- |
-| [Rectangle](./rectangle/) { get; } | Gets rectangle that describes position of table element on the page |
+| [Rectangle](../../aspose.pdf.text/itableelement/rectangle/) { get; } | Gets rectangle that describes position of table element on the page |
 
 ### See Also
 

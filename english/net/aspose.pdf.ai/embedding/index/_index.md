@@ -7,7 +7,7 @@ description: "Embedding property. Gets or sets the index of the embedding in the
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/embedding/index/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Embedding.Index property
 

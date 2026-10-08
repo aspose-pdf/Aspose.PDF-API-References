@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionValueType method. Removes the field from the list 
 type: docs
 weight: 40
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionValueType.Remove method
 
@@ -23,7 +23,7 @@ public void Remove(XmpPdfAExtensionField field)
 
 ### See Also
 
-* class [XmpPdfAExtensionField](../../../aspose.pdf/xmppdfaextensionfield/)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
 * class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

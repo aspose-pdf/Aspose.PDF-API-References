@@ -7,7 +7,7 @@ description: "PageRange property. Gets or sets the starting page number."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagerange/start/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageRange.Start property
 

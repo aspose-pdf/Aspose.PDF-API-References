@@ -7,7 +7,7 @@ description: "UnsignedContentAbsorber constructor. Represents a class used for p
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/unsignedcontentabsorber/unsignedcontentabsorber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnsignedContentAbsorber constructor
 
@@ -19,7 +19,7 @@ public UnsignedContentAbsorber(PdfFileSignature signature)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signature | PdfFileSignature | A <see cref="T:Aspose.Pdf.Facades.PdfFileSignature" /> object representing a digital signature. |
+| signature | PdfFileSignature | A [`PdfFileSignature`](../../../aspose.pdf.facades/pdffilesignature/) object representing a digital signature. |
 
 ### See Also
 

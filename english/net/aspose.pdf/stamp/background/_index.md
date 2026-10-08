@@ -7,7 +7,7 @@ description: "Stamp property. Sets or gets a bool value that indicates the conte
 type: docs
 weight: 40
 url: "/net/aspose.pdf/stamp/background/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.Background property
 

@@ -8,7 +8,7 @@ type: docs
 weight: 1370
 url: "/net/aspose.pdf.ai/vectorstorefilebatchcreaterequest/"
 keywords: "VectorStoreFileBatchCreateRequest, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileBatchCreateRequest class
 
@@ -22,13 +22,13 @@ public class VectorStoreFileBatchCreateRequest
 
 | Name | Description |
 | --- | --- |
-| [VectorStoreFileBatchCreateRequest](./vectorstorefilebatchcreaterequest/)() | The default constructor. |
+| [VectorStoreFileBatchCreateRequest](vectorstorefilebatchcreaterequest/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FileIds](./fileids/) { get; set; } | Gets or sets s list of File IDs that the vector store should use. Useful for tools like file_search that can access files. |
+| [FileIds](../../aspose.pdf.ai/vectorstorefilebatchcreaterequest/fileids/) { get; set; } | Gets or sets s list of File IDs that the vector store should use. Useful for tools like file_search that can access files. |
 
 ### See Also
 

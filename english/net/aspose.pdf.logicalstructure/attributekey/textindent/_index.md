@@ -7,7 +7,7 @@ description: "AttributeKey field. TextIndent attribute (Layout attribute owner).
 type: docs
 weight: 170
 url: "/net/aspose.pdf.logicalstructure/attributekey/textindent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.TextIndent field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey TextIndent;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

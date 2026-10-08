@@ -7,7 +7,7 @@ description: "AttributeOwnerStandard field. RTF-1.05 attribute owner."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/rtf_105/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeOwnerStandard.Rtf_105 field
 
@@ -19,7 +19,7 @@ public static readonly AttributeOwnerStandard Rtf_105;
 
 ### See Also
 
-* class [AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
+* class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

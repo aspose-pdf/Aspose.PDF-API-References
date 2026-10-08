@@ -7,7 +7,7 @@ description: "ColumnInfo property. Gets or sets a string that contains the width
 type: docs
 weight: 20
 url: "/net/aspose.pdf/columninfo/columnwidths/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ColumnInfo.ColumnWidths property
 

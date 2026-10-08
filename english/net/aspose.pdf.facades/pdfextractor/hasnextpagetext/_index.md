@@ -7,7 +7,7 @@ description: "PdfExtractor method. Indicates that whether can get more texts or 
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/pdfextractor/hasnextpagetext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractor.HasNextPageText method
 

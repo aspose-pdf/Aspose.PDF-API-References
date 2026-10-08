@@ -7,7 +7,7 @@ description: "ITaggedContent property. Gets root StructureElement of logical str
 type: docs
 weight: 450
 url: "/net/aspose.pdf.tagged/itaggedcontent/rootelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.RootElement property
 

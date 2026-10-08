@@ -7,7 +7,7 @@ description: "TextRecognitionResult property. Identifier for the source file (e.
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/textrecognitionresult/sourceidentifier/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextRecognitionResult.SourceIdentifier property
 

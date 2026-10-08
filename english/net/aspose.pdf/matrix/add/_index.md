@@ -7,7 +7,7 @@ description: "Matrix method. Adds matrix to other matrix."
 type: docs
 weight: 150
 url: "/net/aspose.pdf/matrix/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix.Add method
 
@@ -27,7 +27,7 @@ Result of matrix add.
 
 ### See Also
 
-* class [Matrix](../../../aspose.pdf/matrix/)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

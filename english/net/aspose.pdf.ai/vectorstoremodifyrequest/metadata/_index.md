@@ -7,7 +7,7 @@ description: "VectorStoreModifyRequest property. Gets or sets a set of 16 key-va
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/vectorstoremodifyrequest/metadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreModifyRequest.Metadata property
 

@@ -7,7 +7,7 @@ description: "ViewerPreference field. A flag specifying whether the window's tit
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/viewerpreference/displaydoctitle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ViewerPreference.DisplayDocTitle field
 

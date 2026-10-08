@@ -7,7 +7,7 @@ description: "ContentsResizeValue method. Initializes value in percents."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/percents/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeValue.Percents method
 
@@ -27,7 +27,7 @@ New value instance.
 
 ### See Also
 
-* class [PdfFileEditor.ContentsResizeValue](../)
+* class [ContentsResizeValue](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "DocumentPrivilege property. Allows assemblying file."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/documentprivilege/assembly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.Assembly property
 
@@ -19,7 +19,7 @@ public static DocumentPrivilege Assembly { get; }
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

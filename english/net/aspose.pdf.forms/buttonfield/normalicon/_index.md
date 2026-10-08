@@ -7,7 +7,7 @@ description: "ButtonField property. Gets or sets normal icon of the button which
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/buttonfield/normalicon/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ButtonField.NormalIcon property
 

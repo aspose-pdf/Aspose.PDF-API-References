@@ -7,11 +7,11 @@ description: "StructureElement property. Gets StructureAttributeCollection objec
 type: docs
 weight: 150
 url: "/net/aspose.pdf.logicalstructure/structureelement/attributes/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureElement.Attributes property
 
-Gets [`StructureAttributeCollection`](../../../aspose.pdf.logicalstructure/structureattributecollection/) object.
+Gets [`StructureAttributeCollection`](../../structureattributecollection/) object.
 
 ```csharp
 public StructureAttributeCollection Attributes { get; }
@@ -19,11 +19,11 @@ public StructureAttributeCollection Attributes { get; }
 
 ### Property Value
 
-[`StructureAttributeCollection`](../../../aspose.pdf.logicalstructure/structureattributecollection/) object.
+[`StructureAttributeCollection`](../../structureattributecollection/) object.
 
 ### See Also
 
-* class [StructureAttributeCollection](../../../aspose.pdf.logicalstructure/structureattributecollection/)
+* class [StructureAttributeCollection](../../structureattributecollection/)
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

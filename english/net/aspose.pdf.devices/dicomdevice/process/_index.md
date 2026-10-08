@@ -7,7 +7,7 @@ description: "DicomDevice method. Converts the page into Dicom and saves it in t
 type: docs
 weight: 70
 url: "/net/aspose.pdf.devices/dicomdevice/process/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DicomDevice.Process method
 

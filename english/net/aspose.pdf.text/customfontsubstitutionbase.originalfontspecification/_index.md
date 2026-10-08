@@ -8,7 +8,7 @@ type: docs
 weight: 90
 url: "/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/"
 keywords: "CustomFontSubstitutionBase.OriginalFontSpecification, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CustomFontSubstitutionBase.OriginalFontSpecification class
 
@@ -22,9 +22,9 @@ public sealed class OriginalFontSpecification
 
 | Name | Description |
 | --- | --- |
-| [IsEmbedded](./isembedded/) { get; } | Gets a value that indicates whether the font is embedded. |
-| [IsSubstitutionUnavoidable](./issubstitutionunavoidable/) { get; } | Gets a value that indicates that the substitution is unavoidable. |
-| [OriginalFontName](./originalfontname/) { get; } | Gets original font name. |
+| [IsEmbedded](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/isembedded/) { get; } | Gets a value that indicates whether the font is embedded. |
+| [IsSubstitutionUnavoidable](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/issubstitutionunavoidable/) { get; } | Gets a value that indicates that the substitution is unavoidable. |
+| [OriginalFontName](../../aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/originalfontname/) { get; } | Gets original font name. |
 
 ## Remarks
 

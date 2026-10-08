@@ -7,7 +7,7 @@ description: "LineAnnotation property. Gets or sets leader line length."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/lineannotation/leaderline/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineAnnotation.LeaderLine property
 

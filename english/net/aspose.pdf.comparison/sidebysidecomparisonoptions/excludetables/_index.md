@@ -7,12 +7,12 @@ description: "SideBySideComparisonOptions property. Get and set the option that 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.comparison/sidebysidecomparisonoptions/excludetables/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SideBySideComparisonOptions.ExcludeTables property
 
 Get and set the option that determines whether tables are excluded from comparison.
- This option cannot be set together with `ComparisonArea1` and `ComparisonArea2`.
+ This option cannot be set together with [`ComparisonArea1`](../comparisonarea1/) and [`ComparisonArea2`](../comparisonarea2/).
  The default value is `false`.
 
 ```csharp

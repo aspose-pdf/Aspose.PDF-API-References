@@ -7,7 +7,7 @@ description: "PdfExtractor property. Gets or sets start page in the page range w
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/pdfextractor/startpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractor.StartPage property
 

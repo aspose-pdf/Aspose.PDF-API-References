@@ -7,11 +7,11 @@ description: "FormComboBoxFieldCreateOptions constructor. Initializes a new inst
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formcomboboxfieldcreateoptions/formcomboboxfieldcreateoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormComboBoxFieldCreateOptions constructor
 
-Initializes a new instance of the [`FormComboBoxFieldCreateOptions`](../../../aspose.pdf.lowcode/formcomboboxfieldcreateoptions/) object, that containing parameters for created and added ComboBoxField.
+Initializes a new instance of the [`FormComboBoxFieldCreateOptions`](../) object, that containing parameters for created and added ComboBoxField.
 
 ```csharp
 public FormComboBoxFieldCreateOptions(int pageNum, Rectangle rect)
@@ -24,7 +24,7 @@ public FormComboBoxFieldCreateOptions(int pageNum, Rectangle rect)
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [FormComboBoxFieldCreateOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

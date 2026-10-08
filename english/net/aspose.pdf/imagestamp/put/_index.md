@@ -7,7 +7,7 @@ description: "ImageStamp method. Adds graphic stamp on the page."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/imagestamp/put/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageStamp.Put method
 
@@ -23,7 +23,7 @@ public override void Put(Page page)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

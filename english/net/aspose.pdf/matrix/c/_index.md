@@ -7,7 +7,7 @@ description: "Matrix property. C member of the transformation matrix."
 type: docs
 weight: 280
 url: "/net/aspose.pdf/matrix/c/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix.C property
 

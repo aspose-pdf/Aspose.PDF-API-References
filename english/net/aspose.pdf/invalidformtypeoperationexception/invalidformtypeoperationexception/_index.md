@@ -7,11 +7,11 @@ description: "InvalidFormTypeOperationException constructor. Initializes a new i
 type: docs
 weight: 10
 url: "/net/aspose.pdf/invalidformtypeoperationexception/invalidformtypeoperationexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## InvalidFormTypeOperationException() {#constructor}
 
-Initializes a new instance of the [`InvalidFormTypeOperationException`](../../../aspose.pdf/invalidformtypeoperationexception/) class.
+Initializes a new instance of the [`InvalidFormTypeOperationException`](../) class.
 
 ```csharp
 public InvalidFormTypeOperationException()
@@ -25,29 +25,9 @@ public InvalidFormTypeOperationException()
 
 ---
 
-## InvalidFormTypeOperationException(Exception) {#constructor_1}
+## InvalidFormTypeOperationException(string) {#constructor_1}
 
-Initializes a new instance of the [`InvalidFormTypeOperationException`](../../../aspose.pdf/invalidformtypeoperationexception/) class with a reference to the inner exception that is the cause of this exception.
-
-```csharp
-public InvalidFormTypeOperationException(Exception innerException)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
-
-### See Also
-
-* class [InvalidFormTypeOperationException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## InvalidFormTypeOperationException(string) {#constructor_2}
-
-Initializes a new instance of the [`InvalidFormTypeOperationException`](../../../aspose.pdf/invalidformtypeoperationexception/) class.
+Initializes a new instance of the [`InvalidFormTypeOperationException`](../) class.
 
 ```csharp
 public InvalidFormTypeOperationException(string message)
@@ -65,9 +45,9 @@ public InvalidFormTypeOperationException(string message)
 
 ---
 
-## InvalidFormTypeOperationException(string, Exception) {#constructor_3}
+## InvalidFormTypeOperationException(string, Exception) {#constructor_2}
 
-Initializes a new instance of the [`InvalidFormTypeOperationException`](../../../aspose.pdf/invalidformtypeoperationexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [`InvalidFormTypeOperationException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
 ```csharp
 public InvalidFormTypeOperationException(string message, Exception innerException)
@@ -76,6 +56,26 @@ public InvalidFormTypeOperationException(string message, Exception innerExceptio
 | Parameter | Type | Description |
 | --- | --- | --- |
 | message | String | The error message that explains the reason for the exception. |
+| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
+
+### See Also
+
+* class [InvalidFormTypeOperationException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## InvalidFormTypeOperationException(Exception) {#constructor_3}
+
+Initializes a new instance of the [`InvalidFormTypeOperationException`](../) class with a reference to the inner exception that is the cause of this exception.
+
+```csharp
+public InvalidFormTypeOperationException(Exception innerException)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
 | innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 
 ### See Also

@@ -7,7 +7,7 @@ description: "TextExtractionError property. Readable (internal) name of the Font
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/textextractionerror/fontname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextExtractionError.FontName property
 

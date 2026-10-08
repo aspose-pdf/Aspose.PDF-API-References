@@ -7,7 +7,7 @@ description: "FormCheckBoxFieldCreateOptions property. Gets/sets the value to de
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/formcheckboxfieldcreateoptions/checked/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormCheckBoxFieldCreateOptions.Checked property
 

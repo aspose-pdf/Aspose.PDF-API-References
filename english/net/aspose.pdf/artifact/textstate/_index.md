@@ -7,7 +7,7 @@ description: "Artifact property. Text state for artifact text."
 type: docs
 weight: 350
 url: "/net/aspose.pdf/artifact/textstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.TextState property
 

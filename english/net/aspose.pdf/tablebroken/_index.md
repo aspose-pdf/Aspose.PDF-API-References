@@ -7,7 +7,7 @@ description: "Aspose.Pdf.TableBroken enum. Enumerates the table broken."
 type: docs
 weight: 2910
 url: "/net/aspose.pdf/tablebroken/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableBroken enumeration
 

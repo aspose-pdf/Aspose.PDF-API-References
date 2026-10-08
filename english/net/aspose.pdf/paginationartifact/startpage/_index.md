@@ -7,7 +7,7 @@ description: "PaginationArtifact property. Gets or sets the starting page number
 type: docs
 weight: 10
 url: "/net/aspose.pdf/paginationartifact/startpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaginationArtifact.StartPage property
 

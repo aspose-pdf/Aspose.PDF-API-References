@@ -7,7 +7,7 @@ description: "MarkupAnnotation property. A reference to the annotation that this
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/markupannotation/inreplyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupAnnotation.InReplyTo property
 
@@ -20,7 +20,7 @@ public Annotation InReplyTo { get; set; }
 
 ### See Also
 
-* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [Annotation](../../annotation/)
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

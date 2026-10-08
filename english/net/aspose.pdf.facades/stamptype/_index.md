@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Facades.StampType enum. Describes stamp types."
 type: docs
 weight: 620
 url: "/net/aspose.pdf.facades/stamptype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StampType enumeration
 

@@ -7,19 +7,21 @@ description: "Signature property. Gets or sets the default length for the signat
 type: docs
 weight: 220
 url: "/net/aspose.pdf.forms/signature/defaultsignaturelength/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Signature.DefaultSignatureLength property
 
 Gets or sets the default length for the signature data in bytes.
 
-This is an estimation of the length of the signature in bytes.
- Used for signing via `CustomSignHash` if the `AvoidEstimatingSignatureLength` parameter is set.
- The default value is 3000.
-
 ```csharp
 public int DefaultSignatureLength { get; set; }
 ```
+
+## Remarks
+
+This is an estimation of the length of the signature in bytes.
+ Used for signing via `CustomSignHash` if the `AvoidEstimatingSignatureLength` parameter is set.
+ The default value is 3000.
 
 ### See Also
 

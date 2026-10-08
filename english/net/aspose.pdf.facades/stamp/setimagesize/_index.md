@@ -7,7 +7,7 @@ description: "Stamp method. Sets size of image stamp. Image will be scaled accor
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/stamp/setimagesize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.SetImageSize method
 

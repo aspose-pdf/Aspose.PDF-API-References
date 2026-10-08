@@ -7,7 +7,7 @@ description: "ViewerPreference field. The conforming reader's default print scal
 type: docs
 weight: 270
 url: "/net/aspose.pdf.facades/viewerpreference/printscalingappdefault/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ViewerPreference.PrintScalingAppDefault field
 

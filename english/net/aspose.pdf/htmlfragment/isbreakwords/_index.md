@@ -7,7 +7,7 @@ description: "HtmlFragment property. Gets or sets words break"
 type: docs
 weight: 50
 url: "/net/aspose.pdf/htmlfragment/isbreakwords/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlFragment.IsBreakWords property
 

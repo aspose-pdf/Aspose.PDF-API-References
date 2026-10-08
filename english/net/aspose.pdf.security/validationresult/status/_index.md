@@ -7,24 +7,26 @@ description: "ValidationResult property. Gets the status of the validation proce
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/validationresult/status/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ValidationResult.Status property
 
 Gets the status of the validation process for a certificate.
 
-The Status property indicates the outcome of the certificate validation.
- Possible values are defined in the [`ValidationStatus`](../../../aspose.pdf.security/validationstatus/) enumeration,
- such as Valid, Invalid, or Undefined. It provides an insight into whether
- the certificate passed the validation checks or not.
-
 ```csharp
 public ValidationStatus Status { get; }
 ```
 
+## Remarks
+
+The Status property indicates the outcome of the certificate validation.
+ Possible values are defined in the [`ValidationStatus`](../../validationstatus/) enumeration,
+ such as Valid, Invalid, or Undefined. It provides an insight into whether
+ the certificate passed the validation checks or not.
+
 ### See Also
 
-* enum [ValidationStatus](../../../aspose.pdf.security/validationstatus/)
+* enum [ValidationStatus](../../validationstatus/)
 * class [ValidationResult](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)

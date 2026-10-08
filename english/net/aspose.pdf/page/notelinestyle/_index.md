@@ -7,7 +7,7 @@ description: "Page property. Gets or sets the line style for notes.(for generato
 type: docs
 weight: 450
 url: "/net/aspose.pdf/page/notelinestyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.NoteLineStyle property
 
@@ -23,7 +23,7 @@ The note style.
 
 ### See Also
 
-* class [GraphInfo](../../../aspose.pdf/graphinfo/)
+* class [GraphInfo](../../graphinfo/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

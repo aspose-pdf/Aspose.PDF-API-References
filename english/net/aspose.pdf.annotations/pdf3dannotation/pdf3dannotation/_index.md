@@ -7,11 +7,11 @@ description: "PDF3DAnnotation constructor. Initializes a new instance of the PDF
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdf3dannotation/pdf3dannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## PDF3DAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), [PDF3DArtwork](../../../aspose.pdf.annotations/pdf3dartwork/)) {#constructor}
+## PDF3DAnnotation(Page, Rectangle, PDF3DArtwork) {#constructor}
 
-Initializes a new instance of the [`PDF3DAnnotation`](../../../aspose.pdf.annotations/pdf3dannotation/) class.
+Initializes a new instance of the [`PDF3DAnnotation`](../) class.
 
 ```csharp
 public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork)
@@ -26,17 +26,17 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [PDF3DArtwork](../../../aspose.pdf.annotations/pdf3dartwork/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PDF3DArtwork](../../pdf3dartwork/)
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## PDF3DAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), [PDF3DArtwork](../../../aspose.pdf.annotations/pdf3dartwork/), [PDF3DActivation](../../../aspose.pdf.annotations/pdf3dactivation/)) {#constructor_1}
+## PDF3DAnnotation(Page, Rectangle, PDF3DArtwork, PDF3DActivation) {#constructor_1}
 
-Initializes a new instance of the [`PDF3DAnnotation`](../../../aspose.pdf.annotations/pdf3dannotation/) class.
+Initializes a new instance of the [`PDF3DAnnotation`](../) class.
 
 ```csharp
 public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork, 
@@ -54,14 +54,14 @@ public PDF3DAnnotation(Page page, Rectangle rect, PDF3DArtwork pdf3DArtwork,
 
 | exception | condition |
 | --- | --- |
-| [Exception](https://docs.oracle.com/javase/8/docs/api/java/lang/Exception.html) | 3D Stream is already added to current 3D Artwork |
+| Exception | 3D Stream is already added to current 3D Artwork |
 
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [PDF3DArtwork](../../../aspose.pdf.annotations/pdf3dartwork/)
-* enum [PDF3DActivation](../../../aspose.pdf.annotations/pdf3dactivation/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PDF3DArtwork](../../pdf3dartwork/)
+* enum [PDF3DActivation](../../pdf3dactivation/)
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

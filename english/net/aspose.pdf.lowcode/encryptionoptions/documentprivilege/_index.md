@@ -7,7 +7,7 @@ description: "EncryptionOptions property. Document permissions, see Permissions 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/encryptionoptions/documentprivilege/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EncryptionOptions.DocumentPrivilege property
 

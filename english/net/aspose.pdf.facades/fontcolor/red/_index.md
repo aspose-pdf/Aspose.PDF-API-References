@@ -7,7 +7,7 @@ description: "FontColor property. Red component of color."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/fontcolor/red/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontColor.Red property
 

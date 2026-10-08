@@ -7,7 +7,7 @@ description: "FormFieldFacade property. The normal caption of form field."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/formfieldfacade/caption/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.Caption property
 

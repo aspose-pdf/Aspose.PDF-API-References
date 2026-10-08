@@ -7,7 +7,7 @@ description: "IOpenAIClient method. Creates a new thread asynchronously."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.ai/iopenaiclient/createthreadasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOpenAIClient.CreateThreadAsync method
 
@@ -29,7 +29,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [ThreadCreateRequest](../../../aspose.pdf.ai/threadcreaterequest/)
+* class [ThreadResponse](../../threadresponse/)
+* class [ThreadCreateRequest](../../threadcreaterequest/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

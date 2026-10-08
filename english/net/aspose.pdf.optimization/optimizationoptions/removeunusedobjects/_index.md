@@ -7,7 +7,7 @@ description: "OptimizationOptions property. If this flag is set to true, all doc
 type: docs
 weight: 80
 url: "/net/aspose.pdf.optimization/optimizationoptions/removeunusedobjects/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizationOptions.RemoveUnusedObjects property
 

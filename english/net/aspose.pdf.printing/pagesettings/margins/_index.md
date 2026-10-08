@@ -7,7 +7,7 @@ description: "PageSettings property. Gets or sets a value indicating the margins
 type: docs
 weight: 70
 url: "/net/aspose.pdf.printing/pagesettings/margins/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageSettings.Margins property
 

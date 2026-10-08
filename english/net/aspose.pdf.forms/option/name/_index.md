@@ -7,7 +7,7 @@ description: "Option property. Gets or sets name of option."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.forms/option/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Option.Name property
 

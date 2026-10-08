@@ -7,7 +7,7 @@ description: "FormFieldOptions property. Gets/sets the value to determine whethe
 type: docs
 weight: 160
 url: "/net/aspose.pdf.lowcode/formfieldoptions/issharedfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldOptions.IsSharedField property
 

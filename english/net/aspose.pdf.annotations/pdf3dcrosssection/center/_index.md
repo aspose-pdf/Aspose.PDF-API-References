@@ -7,7 +7,7 @@ description: "PDF3DCrossSection property. Gets or sets the cross section rotatio
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/pdf3dcrosssection/center/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DCrossSection.Center property
 

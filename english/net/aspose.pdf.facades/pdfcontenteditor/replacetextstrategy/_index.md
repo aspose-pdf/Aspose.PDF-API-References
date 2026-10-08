@@ -7,7 +7,7 @@ description: "PdfContentEditor property. A set of parameters for replace text op
 type: docs
 weight: 690
 url: "/net/aspose.pdf.facades/pdfcontenteditor/replacetextstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.ReplaceTextStrategy property
 
@@ -19,7 +19,7 @@ public ReplaceTextStrategy ReplaceTextStrategy { get; set; }
 
 ### See Also
 
-* class [ReplaceTextStrategy](../../../aspose.pdf.facades/replacetextstrategy/)
+* class [ReplaceTextStrategy](../../replacetextstrategy/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

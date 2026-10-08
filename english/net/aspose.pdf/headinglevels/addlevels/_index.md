@@ -7,7 +7,7 @@ description: "HeadingLevels method. Adds heading levels. Font size collection sh
 type: docs
 weight: 30
 url: "/net/aspose.pdf/headinglevels/addlevels/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HeadingLevels.AddLevels method
 

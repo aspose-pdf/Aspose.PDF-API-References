@@ -7,7 +7,7 @@ description: "PaperSources field. Represents an automatic feed paper source."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.printing/papersources/automaticfeed/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSources.AutomaticFeed field
 
@@ -19,7 +19,7 @@ public static readonly PaperSource AutomaticFeed;
 
 ### See Also
 
-* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSource](../../papersource/)
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

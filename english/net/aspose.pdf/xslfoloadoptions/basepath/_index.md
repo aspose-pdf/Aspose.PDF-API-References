@@ -7,7 +7,7 @@ description: "XslFoLoadOptions property. The base path/url from which are search
 type: docs
 weight: 40
 url: "/net/aspose.pdf/xslfoloadoptions/basepath/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XslFoLoadOptions.BasePath property
 

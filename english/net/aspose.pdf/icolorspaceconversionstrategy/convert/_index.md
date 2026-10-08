@@ -7,7 +7,7 @@ description: "IColorSpaceConversionStrategy method. Converts the page of documen
 type: docs
 weight: 10
 url: "/net/aspose.pdf/icolorspaceconversionstrategy/convert/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IColorSpaceConversionStrategy.Convert method
 
@@ -23,7 +23,7 @@ public void Convert(Page page)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * interface [IColorSpaceConversionStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

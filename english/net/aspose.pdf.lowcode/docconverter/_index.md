@@ -8,11 +8,11 @@ type: docs
 weight: 60
 url: "/net/aspose.pdf.lowcode/docconverter/"
 keywords: "DocConverter, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocConverter class
 
-Represents [`DocConverter`](../../aspose.pdf.lowcode/docconverter/) plugin.
+Represents [`DocConverter`](../docconverter/) plugin.
 
 ```csharp
 public sealed class DocConverter : IDisposable, IPlugin
@@ -22,17 +22,18 @@ public sealed class DocConverter : IDisposable, IPlugin
 
 | Name | Description |
 | --- | --- |
-| [DocConverter](./docconverter/)() | The default constructor. |
+| [DocConverter](docconverter/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/)() | Implementation of IDisposable. |
-| [Process](./process/)(IPluginOptions) | Starts the [`DocConverter`](../../aspose.pdf.lowcode/docconverter/) processing with the specified parameters. |
+| [Dispose](../../aspose.pdf.lowcode/docconverter/dispose/)() | Implementation of IDisposable. |
+| [Process](../../aspose.pdf.lowcode/docconverter/process/)(IPluginOptions) | Starts the `DocConverter` processing with the specified parameters. |
 
 ### See Also
 
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

@@ -7,7 +7,7 @@ description: "SignatureField method. Extracts the single X.509 certificate objec
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/signaturefield/extractcertificateobject/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureField.ExtractCertificateObject method
 

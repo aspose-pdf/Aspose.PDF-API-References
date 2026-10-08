@@ -7,7 +7,7 @@ description: "DocumentInfo property. Gets or sets the date of document creation.
 type: docs
 weight: 130
 url: "/net/aspose.pdf/documentinfo/creationdate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentInfo.CreationDate property
 

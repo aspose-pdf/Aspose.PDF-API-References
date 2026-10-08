@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.RichMediaAnnotation.ActivationEvent enum. E
 type: docs
 weight: 1110
 url: "/net/aspose.pdf.annotations/richmediaannotation.activationevent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RichMediaAnnotation.ActivationEvent enumeration
 

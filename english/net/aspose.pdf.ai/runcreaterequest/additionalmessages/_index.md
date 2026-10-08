@@ -7,7 +7,7 @@ description: "RunCreateRequest property. Gets or sets the additional messages to
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/runcreaterequest/additionalmessages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunCreateRequest.AdditionalMessages property
 
@@ -19,6 +19,7 @@ public List<ThreadMessageCreateRequest> AdditionalMessages { get; set; }
 
 ### See Also
 
+* class [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
 * class [RunCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

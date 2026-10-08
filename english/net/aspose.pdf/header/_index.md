@@ -8,7 +8,7 @@ type: docs
 weight: 1020
 url: "/net/aspose.pdf/header/"
 keywords: "Header, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Header class
 
@@ -22,7 +22,7 @@ public sealed class Header : HorizontalAlignment
 
 | Name | Description |
 | --- | --- |
-| [Header](./header/)() | The default constructor. |
+| [Header](header/)() | The default constructor. |
 
 ## Properties
 

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.AI.IOcrCopilotOptions interface. Represents an interfac
 type: docs
 weight: 580
 url: "/net/aspose.pdf.ai/iocrcopilotoptions-1/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOcrCopilotOptions&lt;TOptions&gt; interface
 
@@ -17,17 +17,15 @@ Represents an interface for chat copilot options with a specific type.
 public interface IOcrCopilotOptions<out TOptions>
 ```
 
-## Type Parameters
-
-| Name | Description |
+| Parameter | Description |
 | --- | --- |
-| TOptions |  |
+| TOptions | The type of options for the chat copilot. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetOptions](./getoptions/)() | Gets the options of type *TOptions*. |
+| [GetOptions](../../aspose.pdf.ai/iocrcopilotoptions-1/getoptions/)() | Gets the options of type *TOptions*. |
 
 ### See Also
 

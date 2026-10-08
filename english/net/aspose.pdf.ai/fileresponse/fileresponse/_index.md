@@ -7,7 +7,7 @@ description: "FileResponse constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/fileresponse/fileresponse/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileResponse constructor
 

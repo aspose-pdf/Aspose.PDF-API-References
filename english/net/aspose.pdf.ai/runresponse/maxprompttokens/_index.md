@@ -7,7 +7,7 @@ description: "RunResponse property. Gets or sets the maximum number of prompt to
 type: docs
 weight: 230
 url: "/net/aspose.pdf.ai/runresponse/maxprompttokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunResponse.MaxPromptTokens property
 

@@ -7,7 +7,7 @@ description: "Matrix3D property. G member of the transformation matrix."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/matrix3d/g/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix3D.G property
 

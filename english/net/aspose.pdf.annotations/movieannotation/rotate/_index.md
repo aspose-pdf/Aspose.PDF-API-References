@@ -7,7 +7,7 @@ description: "MovieAnnotation property. Gets or sets the number of degrees by wh
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/movieannotation/rotate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MovieAnnotation.Rotate property
 

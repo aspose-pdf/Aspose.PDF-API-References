@@ -8,7 +8,7 @@ type: docs
 weight: 760
 url: "/net/aspose.pdf.lowcode/png/"
 keywords: "Png, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Png class
 
@@ -22,7 +22,7 @@ public sealed class Png : PdfToImage
 
 | Name | Description |
 | --- | --- |
-| [Png](./png/)() | The default constructor. |
+| [Png](png/)() | The default constructor. |
 
 ## Methods
 

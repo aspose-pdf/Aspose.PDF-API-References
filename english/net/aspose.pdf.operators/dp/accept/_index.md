@@ -7,7 +7,7 @@ description: "DP method. Accepts visitor object to process operator."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/dp/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DP.Accept method
 

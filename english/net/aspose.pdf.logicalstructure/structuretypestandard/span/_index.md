@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Span) A generic inline portion of te
 type: docs
 weight: 360
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/span/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.Span field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard Span;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

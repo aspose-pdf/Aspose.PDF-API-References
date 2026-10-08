@@ -7,7 +7,7 @@ description: "HtmlFragment property. Gets rectangle of the HtmlFragment"
 type: docs
 weight: 30
 url: "/net/aspose.pdf/htmlfragment/rectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlFragment.Rectangle property
 

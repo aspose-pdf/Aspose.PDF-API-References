@@ -7,7 +7,7 @@ description: "FormFieldOptions field. Gets/sets the value to determine property 
 type: docs
 weight: 200
 url: "/net/aspose.pdf.lowcode/formfieldoptions/highlighting/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldOptions.Highlighting field
 

@@ -7,7 +7,7 @@ description: "TextSearchOptions property. Gets or sets indication that regular e
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/textsearchoptions/isregularexpressionused/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSearchOptions.IsRegularExpressionUsed property
 

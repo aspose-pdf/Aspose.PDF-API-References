@@ -7,7 +7,7 @@ description: "XFormCollection method. Deletes specified item from collection."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/xformcollection/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFormCollection.Remove method
 
@@ -27,7 +27,7 @@ true if item was deleted from collection; otherwise, false.
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
+* class [XForm](../../xform/)
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

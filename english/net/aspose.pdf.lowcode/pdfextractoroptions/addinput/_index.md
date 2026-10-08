@@ -7,7 +7,7 @@ description: "PdfExtractorOptions method. Adds new data source to the PdfExtract
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/pdfextractoroptions/addinput/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractorOptions.AddInput method
 
@@ -23,7 +23,7 @@ public void AddInput(IDataSource dataSource)
 
 ### See Also
 
-* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
+* interface [IDataSource](../../idatasource/)
 * class [PdfExtractorOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

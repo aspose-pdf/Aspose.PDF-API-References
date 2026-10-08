@@ -7,7 +7,7 @@ description: "PdfPageEditor field. In Vertical Split"
 type: docs
 weight: 230
 url: "/net/aspose.pdf.facades/pdfpageeditor/splitvin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.SPLITVIN field
 

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Optimization.ImageCompressionVersion enum. Describes ve
 type: docs
 weight: 30
 url: "/net/aspose.pdf.optimization/imagecompressionversion/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageCompressionVersion enumeration
 

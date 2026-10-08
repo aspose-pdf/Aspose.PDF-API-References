@@ -7,7 +7,7 @@ description: "Artifact property. Gets or sets artifact position. If this propert
 type: docs
 weight: 230
 url: "/net/aspose.pdf/artifact/position/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.Position property
 
@@ -20,7 +20,7 @@ public Point Position { get; set; }
 
 ### See Also
 
-* class [Point](../../../aspose.pdf/point/)
+* class [Point](../../point/)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

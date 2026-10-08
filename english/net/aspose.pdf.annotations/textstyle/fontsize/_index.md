@@ -7,7 +7,7 @@ description: "TextStyle property. Fonst size."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/textstyle/fontsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStyle.FontSize property
 

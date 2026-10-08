@@ -7,7 +7,7 @@ description: "OperatorCollection property. Gets count of operators in the collec
 type: docs
 weight: 240
 url: "/net/aspose.pdf/operatorcollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OperatorCollection.Count property
 

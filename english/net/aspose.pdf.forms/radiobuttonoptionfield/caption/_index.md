@@ -7,7 +7,7 @@ description: "RadioButtonOptionField property. Gets or sets caption."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/radiobuttonoptionfield/caption/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RadioButtonOptionField.Caption property
 

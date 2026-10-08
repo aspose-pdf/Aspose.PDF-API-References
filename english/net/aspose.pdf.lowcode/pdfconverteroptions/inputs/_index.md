@@ -7,7 +7,7 @@ description: "PdfConverterOptions property. Returns PdfConverterOptions plugin d
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/pdfconverteroptions/inputs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfConverterOptions.Inputs property
 
@@ -19,6 +19,7 @@ public List<IDataSource> Inputs { get; }
 
 ### See Also
 
+* interface [IDataSource](../../idatasource/)
 * class [PdfConverterOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

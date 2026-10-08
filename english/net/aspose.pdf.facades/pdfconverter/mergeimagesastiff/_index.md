@@ -7,7 +7,7 @@ description: "PdfConverter method. Merges list of tiff streams as one multiple f
 type: docs
 weight: 540
 url: "/net/aspose.pdf.facades/pdfconverter/mergeimagesastiff/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfConverter.MergeImagesAsTiff method
 

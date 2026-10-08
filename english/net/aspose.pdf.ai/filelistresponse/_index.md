@@ -8,7 +8,7 @@ type: docs
 weight: 410
 url: "/net/aspose.pdf.ai/filelistresponse/"
 keywords: "FileListResponse, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileListResponse class
 
@@ -22,7 +22,7 @@ public class FileListResponse : DataResponse<List<FileResponse>>
 
 | Name | Description |
 | --- | --- |
-| [FileListResponse](./filelistresponse/)() | The default constructor. |
+| [FileListResponse](filelistresponse/)() | The default constructor. |
 
 ## Properties
 
@@ -35,12 +35,13 @@ public class FileListResponse : DataResponse<List<FileResponse>>
 | [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Gets or sets the HTTP response headers. |
 | [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Gets or sets the HTTP status code. |
 | [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indicates if the response was successful. |
-| [Object](./object/) { get; set; } | Gets or sets the object type, which is always list. |
+| [Object](../../aspose.pdf.ai/filelistresponse/object/) { get; set; } | Gets or sets the object type, which is always list. |
 | [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Gets the error reason phrase. |
 
 ### See Also
 
-* class [DataResponse<T>](../dataresponse-1/)
+* class [DataResponse&lt;T&gt;](../dataresponse-1/)
+* class [FileResponse](../fileresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
 

@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute BlockAlign: Middle- Children center
 type: docs
 weight: 300
 url: "/net/aspose.pdf.logicalstructure/attributename/blockalign_middle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.BlockAlign_Middle field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName BlockAlign_Middle;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "DocumentPrivilege property. Allows filling forms in file."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/documentprivilege/fillin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.FillIn property
 
@@ -19,7 +19,7 @@ public static DocumentPrivilege FillIn { get; }
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "OutlineItemCollection property. Gets or sets the color for the tit
 type: docs
 weight: 150
 url: "/net/aspose.pdf/outlineitemcollection/color/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.Color property
 
@@ -19,7 +19,6 @@ public Color Color { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

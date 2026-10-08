@@ -7,11 +7,11 @@ description: "TextFragmentCollection property. Gets the number of TextFragment o
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/textfragmentcollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentCollection.Count property
 
-Gets the number of [`TextFragment`](../../../aspose.pdf.text/textfragment/) object elements actually contained in the collection.
+Gets the number of [`TextFragment`](../../textfragment/) object elements actually contained in the collection.
 
 ```csharp
 public int Count { get; }

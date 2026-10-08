@@ -7,7 +7,7 @@ description: "GoToAction property. Gets or sets the destination to jump to."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/gotoaction/destination/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GoToAction.Destination property
 
@@ -19,7 +19,7 @@ public virtual IAppointment Destination { get; set; }
 
 ### See Also
 
-* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* interface [IAppointment](../../iappointment/)
 * class [GoToAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

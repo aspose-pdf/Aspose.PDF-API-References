@@ -8,7 +8,7 @@ type: docs
 weight: 90
 url: "/net/aspose.pdf.security/rsaalgorithminfo/"
 keywords: "RsaAlgorithmInfo, Aspose.Pdf.Security, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RsaAlgorithmInfo class
 

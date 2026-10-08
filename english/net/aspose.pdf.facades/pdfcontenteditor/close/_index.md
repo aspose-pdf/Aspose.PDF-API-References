@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Closes opened document."
 type: docs
 weight: 650
 url: "/net/aspose.pdf.facades/pdfcontenteditor/close/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.Close method
 

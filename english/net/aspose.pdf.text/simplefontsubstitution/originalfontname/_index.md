@@ -7,11 +7,11 @@ description: "SimpleFontSubstitution property. Gets original font name that shou
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/simplefontsubstitution/originalfontname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SimpleFontSubstitution.OriginalFontName property
 
-Gets original font name that should be substituted with `SubstitutionFontName`
+Gets original font name that should be substituted with [`SubstitutionFontName`](../substitutionfontname/)
 
 ```csharp
 public string OriginalFontName { get; }

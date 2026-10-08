@@ -8,7 +8,7 @@ type: docs
 weight: 60
 url: "/net/aspose.pdf.comparison/editcontainer/"
 keywords: "EditContainer, Aspose.Pdf.Comparison, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EditContainer class
 
@@ -22,9 +22,9 @@ public class EditContainer
 
 | Name | Description |
 | --- | --- |
-| [Id](./id/) { get; } | Gets and sets id of the change. |
-| [Operation](./operation/) { get; } | The diff operation type. |
-| [Rects](./rects/) { get; } | The rectangle areas of the change. |
+| [Id](../../aspose.pdf.comparison/editcontainer/id/) { get; } | Gets and sets id of the change. |
+| [Operation](../../aspose.pdf.comparison/editcontainer/operation/) { get; } | The diff operation type. |
+| [Rects](../../aspose.pdf.comparison/editcontainer/rects/) { get; } | The rectangle areas of the change. |
 
 ### See Also
 

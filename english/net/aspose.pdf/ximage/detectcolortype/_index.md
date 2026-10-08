@@ -7,7 +7,7 @@ description: "XImage method."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/ximage/detectcolortype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImage.DetectColorType method
 
@@ -27,7 +27,7 @@ Color type.
 
 ### See Also
 
-* enum [ColorType](../../../aspose.pdf/colortype/)
+* enum [ColorType](../../colortype/)
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "StructureElement method. Sets custom tag for structure element."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.logicalstructure/structureelement/settag/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureElement.SetTag method
 

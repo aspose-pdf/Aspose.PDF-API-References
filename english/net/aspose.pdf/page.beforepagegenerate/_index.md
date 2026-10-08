@@ -7,7 +7,7 @@ description: "Procedure for customize header and footer."
 type: docs
 weight: 2080
 url: "/net/aspose.pdf/page.beforepagegenerate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.BeforePageGenerate delegate
 
@@ -23,6 +23,7 @@ public delegate void BeforePageGenerate(Page page);
 
 ### See Also
 
+* class [Page](../page/)
 * class [Page](../page/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)

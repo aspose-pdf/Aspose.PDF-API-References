@@ -7,7 +7,7 @@ description: "XmpValue property. Returns true if value is DateTime."
 type: docs
 weight: 320
 url: "/net/aspose.pdf/xmpvalue/isdatetime/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpValue.IsDateTime property
 

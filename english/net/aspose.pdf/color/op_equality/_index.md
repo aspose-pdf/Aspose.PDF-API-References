@@ -7,7 +7,7 @@ description: "Color method. Returns true if two Colors are equal."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/color/op_equality/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Color Equality operator
 
@@ -28,7 +28,7 @@ True in case Color objects are equal.
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

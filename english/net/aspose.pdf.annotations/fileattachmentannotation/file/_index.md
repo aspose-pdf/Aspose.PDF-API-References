@@ -7,7 +7,7 @@ description: "FileAttachmentAnnotation property. The specification of the file a
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/fileattachmentannotation/file/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileAttachmentAnnotation.File property
 

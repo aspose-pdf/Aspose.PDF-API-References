@@ -7,11 +7,11 @@ description: "QueueItem property. Specifies encoding subtable via CMapEncodingTa
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTable property
 
-Specifies encoding subtable via `CMapEncodingTableType`enumeration
+Specifies encoding subtable via [`CMapEncodingTableType`](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)enumeration
 
 ```csharp
 public CMapEncodingTableType CMapEncodingTable { get; set; }
@@ -19,7 +19,8 @@ public CMapEncodingTableType CMapEncodingTable { get; set; }
 
 ### See Also
 
-* class [PdfASymbolicFontEncodingStrategy.QueueItem](../)
+* enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
+* class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

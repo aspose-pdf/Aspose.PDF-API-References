@@ -7,7 +7,7 @@ description: "CosPdfNumber property. Gets the value."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.dataeditor/cospdfnumber/value/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfNumber.Value property
 

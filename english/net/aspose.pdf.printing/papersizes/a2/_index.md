@@ -7,7 +7,7 @@ description: "PaperSizes field. A2 paper (420 mm by 594 mm)."
 type: docs
 weight: 640
 url: "/net/aspose.pdf.printing/papersizes/a2/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.A2 field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize A2;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

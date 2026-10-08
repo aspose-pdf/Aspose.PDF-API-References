@@ -8,11 +8,11 @@ type: docs
 weight: 170
 url: "/net/aspose.pdf.printing/printerresolutionextensions/"
 keywords: "PrinterResolutionExtensions, Aspose.Pdf.Printing, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterResolutionExtensions class
 
-Represents extensions methods for [`PrinterResolution`](../../aspose.pdf.printing/printerresolution/).
+Represents extensions methods for [`PrinterResolution`](../printerresolution/).
 
 ```csharp
 public static class PrinterResolutionExtensions
@@ -22,8 +22,8 @@ public static class PrinterResolutionExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToAsposePrinterResolution](./toasposeprinterresolution/)(this PrinterResolution) | Converts Windows-specific System.Drawing.Printing.PrinterResolution [`PrinterResolution`](../../aspose.pdf.printing/printerresolution/). |
-| static [ToNativePrinterResolution](./tonativeprinterresolution/)(this PrinterResolution) | Converts [`PrinterResolution`](../../aspose.pdf.printing/printerresolution/) to Windows-specific System.Drawing.Printing.PrinterResolution. |
+| static [ToAsposePrinterResolution](../../aspose.pdf.printing/printerresolutionextensions/toasposeprinterresolution/)(this PrinterResolution) | Converts Windows-specific System.Drawing.Printing.PrinterResolution [`PrinterResolution`](../printerresolution/). |
+| static [ToNativePrinterResolution](../../aspose.pdf.printing/printerresolutionextensions/tonativeprinterresolution/)(this PrinterResolution) | Converts [`PrinterResolution`](../printerresolution/) to Windows-specific System.Drawing.Printing.PrinterResolution. |
 
 ### See Also
 

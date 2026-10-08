@@ -7,7 +7,7 @@ description: "Annotation property. Gets or sets current annotation appearance st
 type: docs
 weight: 180
 url: "/net/aspose.pdf.annotations/annotation/activestate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.ActiveState property
 

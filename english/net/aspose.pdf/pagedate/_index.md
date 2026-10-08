@@ -8,7 +8,7 @@ type: docs
 weight: 2130
 url: "/net/aspose.pdf/pagedate/"
 keywords: "PageDate, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageDate class
 
@@ -22,22 +22,22 @@ public sealed class PageDate
 
 | Name | Description |
 | --- | --- |
-| [PageDate](./pagedate/)() | The default constructor. |
+| [PageDate](pagedate/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Day](./day/) { get; set; } | Gets or sets the day component of the date. The format of the date will be updated based on this component. |
-| [Delimiter](./delimiter/) { get; set; } | Gets or sets the delimiter used in the date format. The format of the date will be updated based on this delimiter. |
-| [Month](./month/) { get; set; } | Gets or sets the month component of the date. The format of the date will be updated based on this component. |
-| [Year](./year/) { get; set; } | Gets or sets the year component of the date. The format of the date will be updated based on this component. |
+| [Day](../../aspose.pdf/pagedate/day/) { get; set; } | Gets or sets the day component of the date. The format of the date will be updated based on this component. |
+| [Delimiter](../../aspose.pdf/pagedate/delimiter/) { get; set; } | Gets or sets the delimiter used in the date format. The format of the date will be updated based on this delimiter. |
+| [Month](../../aspose.pdf/pagedate/month/) { get; set; } | Gets or sets the month component of the date. The format of the date will be updated based on this component. |
+| [Year](../../aspose.pdf/pagedate/year/) { get; set; } | Gets or sets the year component of the date. The format of the date will be updated based on this component. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetFormattedDate](./getformatteddate/)() | Returns the formatted date string based on the current date format. |
+| [GetFormattedDate](../../aspose.pdf/pagedate/getformatteddate/)() | Returns the formatted date string based on the current date format. |
 
 ## Other Members
 

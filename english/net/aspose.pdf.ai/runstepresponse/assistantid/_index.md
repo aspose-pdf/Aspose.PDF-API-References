@@ -7,7 +7,7 @@ description: "RunStepResponse property. Gets or sets the ID of the assistant ass
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/runstepresponse/assistantid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunStepResponse.AssistantId property
 

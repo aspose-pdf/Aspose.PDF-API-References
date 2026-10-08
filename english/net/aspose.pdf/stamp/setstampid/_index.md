@@ -7,7 +7,7 @@ description: "Stamp method. Sets stamp Id."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/stamp/setstampid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.setStampId method
 

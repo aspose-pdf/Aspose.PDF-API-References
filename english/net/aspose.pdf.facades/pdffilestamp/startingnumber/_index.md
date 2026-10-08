@@ -7,7 +7,7 @@ description: "PdfFileStamp property. Gets or sets starting number for first page
 type: docs
 weight: 330
 url: "/net/aspose.pdf.facades/pdffilestamp/startingnumber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileStamp.StartingNumber property
 

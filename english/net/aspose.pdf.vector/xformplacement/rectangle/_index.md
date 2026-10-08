@@ -7,7 +7,7 @@ description: "XFormPlacement property."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.vector/xformplacement/rectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFormPlacement.Rectangle property
 
@@ -19,7 +19,7 @@ public override Rectangle Rectangle { get; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [XFormPlacement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

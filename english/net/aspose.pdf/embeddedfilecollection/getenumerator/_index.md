@@ -7,7 +7,7 @@ description: "EmbeddedFileCollection method. Returns colleciton enumerator."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/embeddedfilecollection/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EmbeddedFileCollection.GetEnumerator method
 
@@ -23,6 +23,7 @@ Enumerator of colleciton.
 
 ### See Also
 
+* class [FileSpecification](../../filespecification/)
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

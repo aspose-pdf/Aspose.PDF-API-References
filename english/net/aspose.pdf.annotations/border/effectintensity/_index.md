@@ -7,7 +7,7 @@ description: "Border property. Gets or sets effect intencity. Valid range of val
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/border/effectintensity/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Border.EffectIntensity property
 

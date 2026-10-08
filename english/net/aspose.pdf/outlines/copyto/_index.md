@@ -7,7 +7,7 @@ description: "Outlines method. Copies the outline entries to an System.Array, st
 type: docs
 weight: 40
 url: "/net/aspose.pdf/outlines/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Outlines.CopyTo method
 
@@ -24,7 +24,7 @@ public abstract void CopyTo(OutlineItemCollection[] array, int arrayIndex)
 
 ### See Also
 
-* class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
+* class [OutlineItemCollection](../../outlineitemcollection/)
 * class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

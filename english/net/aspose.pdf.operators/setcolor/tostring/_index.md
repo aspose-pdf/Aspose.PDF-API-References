@@ -7,7 +7,7 @@ description: "SetColor method. Returns string representation of color."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.operators/setcolor/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColor.ToString method
 

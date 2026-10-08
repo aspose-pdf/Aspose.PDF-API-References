@@ -7,7 +7,7 @@ description: "Field method. Removes this field and place its value directly on t
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/field/flatten/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Field.Flatten method
 

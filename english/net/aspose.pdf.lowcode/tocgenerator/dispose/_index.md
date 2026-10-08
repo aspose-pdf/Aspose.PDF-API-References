@@ -7,7 +7,7 @@ description: "TocGenerator method. Implementation of IDisposable. In fact, it is
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/tocgenerator/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TocGenerator.Dispose method
 

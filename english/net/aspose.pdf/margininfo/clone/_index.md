@@ -7,11 +7,11 @@ description: "MarginInfo method. Clones a new MarginInfo object."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/margininfo/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarginInfo.Clone method
 
-Clones a new [`MarginInfo`](../../../aspose.pdf/margininfo/) object.
+Clones a new [`MarginInfo`](../) object.
 
 ```csharp
 public object Clone()

@@ -7,7 +7,7 @@ description: "INamedDestinationCollection property. Gets array of names of the d
 type: docs
 weight: 50
 url: "/net/aspose.pdf/inameddestinationcollection/names/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## INamedDestinationCollection.Names property
 

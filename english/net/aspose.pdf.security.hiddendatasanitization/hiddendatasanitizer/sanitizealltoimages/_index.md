@@ -7,7 +7,7 @@ description: "HiddenDataSanitizer method. Replaces page content with images and 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizer/sanitizealltoimages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HiddenDataSanitizer.SanitizeAllToImages method
 

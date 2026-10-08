@@ -7,7 +7,7 @@ description: "ButtonField property. Gets or sets alternate icon which shall be d
 type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/buttonfield/alternateicon/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ButtonField.AlternateIcon property
 

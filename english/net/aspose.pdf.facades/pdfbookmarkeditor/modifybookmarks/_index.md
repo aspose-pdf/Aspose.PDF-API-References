@@ -7,7 +7,7 @@ description: "PdfBookmarkEditor method. Modifys bookmark title according to the 
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfBookmarkEditor.ModifyBookmarks method
 

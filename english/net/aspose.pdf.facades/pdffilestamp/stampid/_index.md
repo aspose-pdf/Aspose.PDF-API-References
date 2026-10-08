@@ -7,7 +7,7 @@ description: "PdfFileStamp property. Stamp ID of next added stamp (incluiding pa
 type: docs
 weight: 350
 url: "/net/aspose.pdf.facades/pdffilestamp/stampid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileStamp.StampId property
 

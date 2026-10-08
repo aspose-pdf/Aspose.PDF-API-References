@@ -7,11 +7,11 @@ description: "SimpleFontSubstitution constructor. Initializes a new instance of 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/simplefontsubstitution/simplefontsubstitution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SimpleFontSubstitution constructor
 
-Initializes a new instance of [`SimpleFontSubstitution`](../../../aspose.pdf.text/simplefontsubstitution/) class.
+Initializes a new instance of [`SimpleFontSubstitution`](../) class.
 
 ```csharp
 public SimpleFontSubstitution(string originalFontName, string substitutionFontName, 

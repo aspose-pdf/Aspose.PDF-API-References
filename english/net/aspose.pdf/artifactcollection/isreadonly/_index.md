@@ -7,7 +7,7 @@ description: "ArtifactCollection property. Gets if collection is readonly. Alway
 type: docs
 weight: 120
 url: "/net/aspose.pdf/artifactcollection/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ArtifactCollection.IsReadOnly property
 

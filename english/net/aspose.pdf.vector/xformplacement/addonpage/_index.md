@@ -7,12 +7,12 @@ description: "XFormPlacement method. Adds current element on the page. If there 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.vector/xformplacement/addonpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFormPlacement.AddOnPage method
 
 Adds current element on the page.
- If there are many elements to add better use `AddGraphics`.
+ If there are many elements to add better use [`AddGraphics`](../../../aspose.pdf/page/addgraphics/).
 
 ```csharp
 public override void AddOnPage(Page destination)

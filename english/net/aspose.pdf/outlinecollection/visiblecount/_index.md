@@ -7,7 +7,7 @@ description: "OutlineCollection property. Count is the sum of the number of visi
 type: docs
 weight: 100
 url: "/net/aspose.pdf/outlinecollection/visiblecount/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineCollection.VisibleCount property
 

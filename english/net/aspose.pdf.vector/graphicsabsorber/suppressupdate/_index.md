@@ -7,11 +7,11 @@ description: "GraphicsAbsorber method. Suppresses update for Contents and all Co
 type: docs
 weight: 30
 url: "/net/aspose.pdf.vector/graphicsabsorber/suppressupdate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicsAbsorber.SuppressUpdate method
 
-Suppresses update for `Contents` and all `Contents` 
+Suppresses update for [`Contents`](../../../aspose.pdf/page/contents/) and all [`Contents`](../../../aspose.pdf/xform/contents/) 
  Was made for performance increase, see also .
 
 ```csharp

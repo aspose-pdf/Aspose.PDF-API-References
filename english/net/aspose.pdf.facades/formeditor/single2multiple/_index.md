@@ -7,7 +7,7 @@ description: "FormEditor method. Change a single-lined text field to a multiple-
 type: docs
 weight: 320
 url: "/net/aspose.pdf.facades/formeditor/single2multiple/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.Single2Multiple method
 

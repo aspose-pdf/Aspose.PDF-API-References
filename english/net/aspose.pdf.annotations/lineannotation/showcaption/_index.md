@@ -7,7 +7,7 @@ description: "LineAnnotation property. Gets or sets boolean flag which determini
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/lineannotation/showcaption/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineAnnotation.ShowCaption property
 

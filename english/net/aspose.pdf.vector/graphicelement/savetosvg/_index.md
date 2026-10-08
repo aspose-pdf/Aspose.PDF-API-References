@@ -7,7 +7,7 @@ description: "GraphicElement method. Converts the element into a single SVG imag
 type: docs
 weight: 30
 url: "/net/aspose.pdf.vector/graphicelement/savetosvg/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveToSvg() {#savetosvg}
 

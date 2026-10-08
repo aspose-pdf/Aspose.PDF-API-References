@@ -7,11 +7,11 @@ description: "LlamaSummaryCopilotOptions method. Creates a new instance of Llama
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/create/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Create() {#create}
 
-Creates a new instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
+Creates a new instance of [`LlamaSummaryCopilotOptions`](../).
 
 ```csharp
 public static LlamaSummaryCopilotOptions Create()
@@ -19,19 +19,19 @@ public static LlamaSummaryCopilotOptions Create()
 
 ### Return Value
 
-A new instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
+A new instance of [`LlamaSummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Create(Action<LlamaSummaryCopilotOptions>) {#create_1}
+## Create(Action&lt;LlamaSummaryCopilotOptions&gt;) {#create_1}
 
-Creates an instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/) and configures it using the provided delegate.
+Creates an instance of [`LlamaSummaryCopilotOptions`](../) and configures it using the provided delegate.
 
 ```csharp
 public static LlamaSummaryCopilotOptions Create(Action<LlamaSummaryCopilotOptions> config)
@@ -43,11 +43,11 @@ public static LlamaSummaryCopilotOptions Create(Action<LlamaSummaryCopilotOption
 
 ### Return Value
 
-The configured instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
+The configured instance of [`LlamaSummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

@@ -8,11 +8,11 @@ type: docs
 weight: 560
 url: "/net/aspose.pdf.lowcode/optimizer/"
 keywords: "Optimizer, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Optimizer class
 
-Represents [`Optimizer`](../../aspose.pdf.lowcode/optimizer/) plugin.
+Represents [`Optimizer`](../optimizer/) plugin.
 
 ```csharp
 public sealed class Optimizer : IPlugin
@@ -39,16 +39,17 @@ optimizer.Process(opt);
 
 | Name | Description |
 | --- | --- |
-| [Optimizer](./optimizer/)() | The default constructor. |
+| [Optimizer](optimizer/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(IPluginOptions) | Starts the [`Optimizer`](../../aspose.pdf.lowcode/optimizer/) processing with the specified parameters. |
+| [Process](../../aspose.pdf.lowcode/optimizer/process/)(IPluginOptions) | Starts the `Optimizer` processing with the specified parameters. |
 
 ### See Also
 
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

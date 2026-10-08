@@ -7,7 +7,7 @@ description: "OpenAIClient method. Creates a new vector store file batch asynchr
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/openaiclient/createvectorstorefilebatchasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIClient.CreateVectorStoreFileBatchAsync method
 
@@ -33,11 +33,12 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the vector store Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the vector store Id is null or empty. |
 
 ### See Also
 
-* class [VectorStoreFileBatchCreateRequest](../../../aspose.pdf.ai/vectorstorefilebatchcreaterequest/)
+* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
+* class [VectorStoreFileBatchCreateRequest](../../vectorstorefilebatchcreaterequest/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "HtmlPageMarkupSavingInfo field. Should be set in custom code when 
 type: docs
 weight: 50
 url: "/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/customprocessingcancelled/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.HtmlPageMarkupSavingInfo.CustomProcessingCancelled field
 
@@ -25,7 +25,7 @@ public bool CustomProcessingCancelled;
 
 ### See Also
 
-* class [HtmlSaveOptions.HtmlPageMarkupSavingInfo](../)
+* class [HtmlPageMarkupSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

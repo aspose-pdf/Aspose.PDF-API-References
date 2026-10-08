@@ -7,7 +7,7 @@ description: "PrintController method. Fires on page end printing."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/printcontroller/onendpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrintController.OnEndPage method
 

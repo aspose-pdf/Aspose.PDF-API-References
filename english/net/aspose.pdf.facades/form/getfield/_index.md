@@ -7,7 +7,7 @@ description: "Form method. Gets the field's value according to its field name."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/form/getfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.GetField method
 

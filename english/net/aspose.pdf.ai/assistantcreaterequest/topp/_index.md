@@ -7,7 +7,7 @@ description: "AssistantCreateRequest property. Gets or sets an alternative to sa
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/assistantcreaterequest/topp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantCreateRequest.TopP property
 

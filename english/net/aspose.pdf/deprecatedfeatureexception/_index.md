@@ -8,7 +8,7 @@ type: docs
 weight: 530
 url: "/net/aspose.pdf/deprecatedfeatureexception/"
 keywords: "DeprecatedFeatureException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DeprecatedFeatureException class
 
@@ -22,14 +22,8 @@ public sealed class DeprecatedFeatureException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [DeprecatedFeatureException](./deprecatedfeatureexception/#constructor)() | Initializes a new instance of the [`DeprecatedFeatureException`](../../aspose.pdf/deprecatedfeatureexception/) class. |
-| [DeprecatedFeatureException](./deprecatedfeatureexception/#constructor_1)(string) | Constructor. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
+| [DeprecatedFeatureException](deprecatedfeatureexception/#constructor)() | Initializes a new instance of the `DeprecatedFeatureException` class. |
+| [DeprecatedFeatureException](deprecatedfeatureexception/#constructor_1)(string) | Constructor. |
 
 ### See Also
 

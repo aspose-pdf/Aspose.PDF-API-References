@@ -7,7 +7,7 @@ description: "LlamaChatCompletionResponse property. Gets or sets the fingerprint
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/llamachatcompletionresponse/systemfingerprint/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaChatCompletionResponse.SystemFingerprint property
 

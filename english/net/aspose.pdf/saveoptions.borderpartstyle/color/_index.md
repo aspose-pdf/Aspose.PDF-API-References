@@ -7,7 +7,7 @@ description: "BorderPartStyle field. Represents border line's line color"
 type: docs
 weight: 30
 url: "/net/aspose.pdf/saveoptions.borderpartstyle/color/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.BorderPartStyle.Color field
 
@@ -19,8 +19,8 @@ public Color Color;
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
-* class [SaveOptions.BorderPartStyle](../)
+* class [Color](../../color/)
+* class [BorderPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

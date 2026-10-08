@@ -7,9 +7,9 @@ description: "PdfFileSecurity method. Sets Pdf file security with empty user/own
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/pdffilesecurity/setprivilege/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## SetPrivilege([DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)) {#setprivilege}
+## SetPrivilege(DocumentPrivilege) {#setprivilege}
 
 Sets Pdf file security with empty user/owner passwords.
  The owner password will be added by a random string.
@@ -45,14 +45,14 @@ fileSecurity.SetPrivilege(DocumentPrivilege.Print)
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../../documentprivilege/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## SetPrivilege(string, string, [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)) {#setprivilege_1}
+## SetPrivilege(string, string, DocumentPrivilege) {#setprivilege_1}
 
 Sets Pdf file security with original password.
  Throws an exception if process failed.
@@ -89,7 +89,7 @@ fileSecurity.SetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../../documentprivilege/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

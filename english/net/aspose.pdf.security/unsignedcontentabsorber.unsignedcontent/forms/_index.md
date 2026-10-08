@@ -7,7 +7,7 @@ description: "UnsignedContent property. Gets form fields that have been incremen
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/unsignedcontentabsorber.unsignedcontent/forms/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnsignedContentAbsorber.UnsignedContent.Forms property
 
@@ -19,7 +19,8 @@ public List<WidgetAnnotation> Forms { get; }
 
 ### See Also
 
-* class [UnsignedContentAbsorber.UnsignedContent](../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [UnsignedContent](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "AssistantResponse property. Gets or sets a set of resources that a
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/assistantresponse/toolresources/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantResponse.ToolResources property
 
@@ -21,7 +21,7 @@ public ToolResources ToolResources { get; set; }
 
 ### See Also
 
-* class [ToolResources](../../../aspose.pdf.ai/toolresources/)
+* class [ToolResources](../../toolresources/)
 * class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

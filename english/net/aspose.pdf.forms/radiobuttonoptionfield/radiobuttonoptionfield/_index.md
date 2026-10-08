@@ -7,7 +7,7 @@ description: "RadioButtonOptionField constructor. Create new RadioButtonOptionFi
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/radiobuttonoptionfield/radiobuttonoptionfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RadioButtonOptionField() {#constructor}
 
@@ -25,7 +25,7 @@ public RadioButtonOptionField()
 
 ---
 
-## RadioButtonOptionField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
+## RadioButtonOptionField(Page, Rectangle) {#constructor_1}
 
 Creates radiobutton in the specified recangle on specified page.
 
@@ -41,7 +41,7 @@ public RadioButtonOptionField(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [RadioButtonOptionField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

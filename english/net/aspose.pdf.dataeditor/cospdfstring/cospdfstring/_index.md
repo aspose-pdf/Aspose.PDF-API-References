@@ -7,11 +7,11 @@ description: "CosPdfString constructor. Initializes a new instance of the CosPdf
 type: docs
 weight: 10
 url: "/net/aspose.pdf.dataeditor/cospdfstring/cospdfstring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfString(string) {#constructor}
 
-Initializes a new instance of the [`CosPdfString`](../../../aspose.pdf.dataeditor/cospdfstring/) class.
+Initializes a new instance of the [`CosPdfString`](../) class.
 
 ```csharp
 public CosPdfString(string value)
@@ -31,7 +31,7 @@ public CosPdfString(string value)
 
 ## CosPdfString(string, bool) {#constructor_1}
 
-Initializes a new instance of the [`CosPdfString`](../../../aspose.pdf.dataeditor/cospdfstring/) class.
+Initializes a new instance of the [`CosPdfString`](../) class.
 
 ```csharp
 public CosPdfString(string value, bool isHexadecimal)

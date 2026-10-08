@@ -7,7 +7,7 @@ description: "CheckboxField property. Gets or sets value of check box field."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.forms/checkboxfield/value/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CheckboxField.Value property
 

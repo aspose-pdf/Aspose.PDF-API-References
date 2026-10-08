@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Text.TabLeaderType enum. Enumerates the tab leader type
 type: docs
 weight: 370
 url: "/net/aspose.pdf.text/tableadertype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TabLeaderType enumeration
 

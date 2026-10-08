@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Operators.LineCap enum. The line cap style shall specif
 type: docs
 weight: 360
 url: "/net/aspose.pdf.operators/linecap/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineCap enumeration
 

@@ -7,7 +7,7 @@ description: "PdfViewer property. Gets or sets a floating point value that indic
 type: docs
 weight: 500
 url: "/net/aspose.pdf.facades/pdfviewer/scalefactor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.ScaleFactor property
 

@@ -7,11 +7,11 @@ description: "OptimizedMemoryStream constructor. Initializes a new instance of t
 type: docs
 weight: 10
 url: "/net/aspose.pdf/optimizedmemorystream/optimizedmemorystream/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizedMemoryStream() {#constructor}
 
-Initializes a new instance of the [`OptimizedMemoryStream`](../../../aspose.pdf/optimizedmemorystream/) class.
+Initializes a new instance of the [`OptimizedMemoryStream`](../) class.
 
 ```csharp
 public OptimizedMemoryStream()
@@ -25,16 +25,17 @@ public OptimizedMemoryStream()
 
 ---
 
-## OptimizedMemoryStream(byte[]) {#constructor_1}
+## OptimizedMemoryStream(int, byte[]) {#constructor_1}
 
-Initializes a new instance of the [`OptimizedMemoryStream`](../../../aspose.pdf/optimizedmemorystream/) class based on the specified byte array.
+Initializes a new instance of the [`OptimizedMemoryStream`](../) class based on the specified byte array.
 
 ```csharp
-public OptimizedMemoryStream(byte[] buffer)
+public OptimizedMemoryStream(int bufferSize, byte[] buffer)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
+| bufferSize | Int32 | Size of the underlying buffers. |
 | buffer | Byte[] | The array of unsigned bytes from which to create the current stream. |
 
 ### See Also
@@ -47,7 +48,7 @@ public OptimizedMemoryStream(byte[] buffer)
 
 ## OptimizedMemoryStream(int) {#constructor_2}
 
-Initializes a new instance of the [`OptimizedMemoryStream`](../../../aspose.pdf/optimizedmemorystream/) class.
+Initializes a new instance of the [`OptimizedMemoryStream`](../) class.
 
 ```csharp
 public OptimizedMemoryStream(int bufferSize)
@@ -65,17 +66,16 @@ public OptimizedMemoryStream(int bufferSize)
 
 ---
 
-## OptimizedMemoryStream(int, byte[]) {#constructor_3}
+## OptimizedMemoryStream(byte[]) {#constructor_3}
 
-Initializes a new instance of the [`OptimizedMemoryStream`](../../../aspose.pdf/optimizedmemorystream/) class based on the specified byte array.
+Initializes a new instance of the [`OptimizedMemoryStream`](../) class based on the specified byte array.
 
 ```csharp
-public OptimizedMemoryStream(int bufferSize, byte[] buffer)
+public OptimizedMemoryStream(byte[] buffer)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bufferSize | Int32 | Size of the underlying buffers. |
 | buffer | Byte[] | The array of unsigned bytes from which to create the current stream. |
 
 ### See Also

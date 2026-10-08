@@ -7,7 +7,7 @@ description: "PDF3DView property. Gets or sets the name of the view."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/pdf3dview/viewname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DView.ViewName property
 

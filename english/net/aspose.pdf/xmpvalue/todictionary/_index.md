@@ -7,7 +7,7 @@ description: "XmpValue method. Returns dictionary which contains named values."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/xmpvalue/todictionary/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpValue.ToDictionary method
 

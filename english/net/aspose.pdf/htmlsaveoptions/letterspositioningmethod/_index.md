@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. Sets mode of positioning of letters in word
 type: docs
 weight: 340
 url: "/net/aspose.pdf/htmlsaveoptions/letterspositioningmethod/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.LettersPositioningMethod field
 
@@ -19,6 +19,7 @@ public LettersPositioningMethods LettersPositioningMethod;
 
 ### See Also
 
+* enum [LettersPositioningMethods](../../htmlsaveoptions.letterspositioningmethods/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

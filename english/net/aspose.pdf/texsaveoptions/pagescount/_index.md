@@ -7,7 +7,7 @@ description: "TeXSaveOptions property. Returns the number of pages after convers
 type: docs
 weight: 50
 url: "/net/aspose.pdf/texsaveoptions/pagescount/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXSaveOptions.PagesCount property
 

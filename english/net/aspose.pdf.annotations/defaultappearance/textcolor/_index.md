@@ -7,7 +7,7 @@ description: "DefaultAppearance property. Gets or sets the color of text in the 
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/defaultappearance/textcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DefaultAppearance.TextColor property
 
@@ -19,7 +19,6 @@ public Color TextColor { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
 * class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

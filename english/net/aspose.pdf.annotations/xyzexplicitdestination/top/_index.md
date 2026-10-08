@@ -7,7 +7,7 @@ description: "XYZExplicitDestination property. Gets top vertical coordinate of t
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/top/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XYZExplicitDestination.Top property
 

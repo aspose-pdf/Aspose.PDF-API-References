@@ -7,7 +7,7 @@ description: "HeaderElement method."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/headerelement/settext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HeaderElement.SetText method
 
@@ -16,10 +16,6 @@ product_version: "26.9.0"
 ```csharp
 public override void SetText(string text)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | String |  |
 
 ### See Also
 

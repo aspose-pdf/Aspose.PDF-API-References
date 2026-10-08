@@ -7,7 +7,7 @@ description: "BaseParagraph property. Gets or sets a paragraph is inline. Defaul
 type: docs
 weight: 80
 url: "/net/aspose.pdf/baseparagraph/isinlineparagraph/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseParagraph.IsInLineParagraph property
 

@@ -7,7 +7,7 @@ description: "ImagePlacementCollection method. Determines whether the collection
 type: docs
 weight: 50
 url: "/net/aspose.pdf/imageplacementcollection/contains/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagePlacementCollection.Contains method
 
@@ -27,7 +27,7 @@ true if item is found in the collection; otherwise, false.
 
 ### See Also
 
-* class [ImagePlacement](../../../aspose.pdf/imageplacement/)
+* class [ImagePlacement](../../imageplacement/)
 * class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

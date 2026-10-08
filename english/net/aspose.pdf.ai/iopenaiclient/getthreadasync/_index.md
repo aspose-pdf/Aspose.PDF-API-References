@@ -7,7 +7,7 @@ description: "IOpenAIClient method. Retrieves details of a specific thread async
 type: docs
 weight: 280
 url: "/net/aspose.pdf.ai/iopenaiclient/getthreadasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOpenAIClient.GetThreadAsync method
 
@@ -31,10 +31,11 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the thread Id is null or empty. |
 
 ### See Also
 
+* class [ThreadResponse](../../threadresponse/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

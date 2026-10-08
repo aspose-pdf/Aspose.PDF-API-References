@@ -7,7 +7,7 @@ description: "QueueItem property. Platform identifier for encoding subtable"
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem.PlatformId property
 
@@ -19,7 +19,7 @@ public ushort PlatformId { get; set; }
 
 ### See Also
 
-* class [PdfASymbolicFontEncodingStrategy.QueueItem](../)
+* class [QueueItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

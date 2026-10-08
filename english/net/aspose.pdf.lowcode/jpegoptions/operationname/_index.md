@@ -7,7 +7,7 @@ description: "JpegOptions property. Returns name of the operation."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/jpegoptions/operationname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## JpegOptions.OperationName property
 

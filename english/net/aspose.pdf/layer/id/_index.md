@@ -7,7 +7,7 @@ description: "Layer property. Gets the layer id."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/layer/id/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Layer.Id property
 

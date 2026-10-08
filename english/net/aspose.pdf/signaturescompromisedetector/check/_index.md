@@ -7,13 +7,11 @@ description: "SignaturesCompromiseDetector method. Check the digital signatures 
 type: docs
 weight: 20
 url: "/net/aspose.pdf/signaturescompromisedetector/check/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignaturesCompromiseDetector.Check method
 
 Check the digital signatures of the document for compromise.
-
-The using of this method for a document in which there are no digital signatures will return `True`.
 
 ```csharp
 public bool Check(out CompromiseCheckResult compromiseCheckResult)
@@ -26,6 +24,10 @@ public bool Check(out CompromiseCheckResult compromiseCheckResult)
 ### Return Value
 
 True, if the compromise of the signatures is not detected.
+
+## Remarks
+
+The using of this method for a document in which there are no digital signatures will return `True`.
 
 ### See Also
 

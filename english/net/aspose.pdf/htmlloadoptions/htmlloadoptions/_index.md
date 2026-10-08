@@ -7,7 +7,7 @@ description: "HtmlLoadOptions constructor. Creates load options for converting h
 type: docs
 weight: 10
 url: "/net/aspose.pdf/htmlloadoptions/htmlloadoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlLoadOptions() {#constructor}
 

@@ -7,7 +7,7 @@ description: "PdfExtractor property. Gets or sets text search options."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/pdfextractor/textsearchoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractor.TextSearchOptions property
 

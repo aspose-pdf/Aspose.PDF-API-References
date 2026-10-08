@@ -7,7 +7,7 @@ description: "SetLineCap constructor. Initializes SetLineCap operator"
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setlinecap/setlinecap/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetLineCap constructor
 
@@ -23,7 +23,7 @@ public SetLineCap(LineCap cap)
 
 ### See Also
 
-* enum [LineCap](../../../aspose.pdf.operators/linecap/)
+* enum [LineCap](../../linecap/)
 * class [SetLineCap](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

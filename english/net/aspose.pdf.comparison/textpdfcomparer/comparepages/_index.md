@@ -7,7 +7,7 @@ description: "TextPdfComparer method. Compares document pages."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.comparison/textpdfcomparer/comparepages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextPdfComparer.ComparePages method
 
@@ -29,8 +29,9 @@ The list of changes.
 
 ### See Also
 
+* class [DiffOperation](../../diffoperation/)
 * class [Page](../../../aspose.pdf/page/)
-* class [ComparisonOptions](../../../aspose.pdf.comparison/comparisonoptions/)
+* class [ComparisonOptions](../../comparisonoptions/)
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

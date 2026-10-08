@@ -7,7 +7,7 @@ description: "Page property. Gets collection of artifacts on the page."
 type: docs
 weight: 620
 url: "/net/aspose.pdf/page/artifacts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Artifacts property
 
@@ -19,7 +19,7 @@ public ArtifactCollection Artifacts { get; }
 
 ### See Also
 
-* class [ArtifactCollection](../../../aspose.pdf/artifactcollection/)
+* class [ArtifactCollection](../../artifactcollection/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

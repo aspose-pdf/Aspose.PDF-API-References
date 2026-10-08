@@ -7,7 +7,7 @@ description: "FormFieldOptions property. Gets/sets the value to determine whethe
 type: docs
 weight: 90
 url: "/net/aspose.pdf.lowcode/formfieldoptions/readonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldOptions.ReadOnly property
 

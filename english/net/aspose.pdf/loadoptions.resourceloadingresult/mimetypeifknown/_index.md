@@ -7,7 +7,7 @@ description: "ResourceLoadingResult field. Sometimes knowledge about MIME type o
 type: docs
 weight: 50
 url: "/net/aspose.pdf/loadoptions.resourceloadingresult/mimetypeifknown/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LoadOptions.ResourceLoadingResult.MIMETypeIfKnown field
 
@@ -21,7 +21,7 @@ public string MIMETypeIfKnown;
 
 ### See Also
 
-* class [LoadOptions.ResourceLoadingResult](../)
+* class [ResourceLoadingResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

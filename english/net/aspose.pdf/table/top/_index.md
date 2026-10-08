@@ -7,7 +7,7 @@ description: "Table property. Gets or sets the table top coordinate."
 type: docs
 weight: 270
 url: "/net/aspose.pdf/table/top/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.Top property
 

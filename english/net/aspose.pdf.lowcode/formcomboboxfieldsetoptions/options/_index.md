@@ -7,7 +7,7 @@ description: "FormComboBoxFieldSetOptions property. Gets/sets the value to deter
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/formcomboboxfieldsetoptions/options/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormComboBoxFieldSetOptions.Options property
 

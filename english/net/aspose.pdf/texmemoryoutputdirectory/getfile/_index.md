@@ -7,7 +7,7 @@ description: "TeXMemoryOutputDirectory method. Returns the stream to read from."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/texmemoryoutputdirectory/getfile/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXMemoryOutputDirectory.GetFile method
 
@@ -21,8 +21,7 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 | --- | --- | --- |
 | fileName | String | The file name. |
 | fullName | String& | The full file name. |
-| searchSubdirectories | Boolean | Indicates whether to look for a file in subdirectories.
- In this implementation has no effect. |
+| searchSubdirectories | Boolean | Indicates whether to look for a file in subdirectories. In this implementation has no effect. |
 
 ### Return Value
 

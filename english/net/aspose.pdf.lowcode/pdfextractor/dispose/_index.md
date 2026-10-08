@@ -7,7 +7,7 @@ description: "PdfExtractor method. Implementation of IDisposable. Actually, it i
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/pdfextractor/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractor.Dispose method
 

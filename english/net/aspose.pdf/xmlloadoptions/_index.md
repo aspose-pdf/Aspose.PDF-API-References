@@ -8,7 +8,7 @@ type: docs
 weight: 3200
 url: "/net/aspose.pdf/xmlloadoptions/"
 keywords: "XmlLoadOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmlLoadOptions class
 
@@ -22,18 +22,18 @@ public class XmlLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [XmlLoadOptions](./xmlloadoptions/#constructor)() | Creates [`XmlLoadOptions`](../../aspose.pdf/xmlloadoptions/) object without xsl data. |
-| [XmlLoadOptions](./xmlloadoptions/#constructor_1)(Stream) | Creates [`XmlLoadOptions`](../../aspose.pdf/xmlloadoptions/) object with xsl data. |
-| [XmlLoadOptions](./xmlloadoptions/#constructor_2)(string) | Creates [`XmlLoadOptions`](../../aspose.pdf/xmlloadoptions/) object with xsl data. |
+| [XmlLoadOptions](xmlloadoptions/#constructor)() | Creates `XmlLoadOptions` object without xsl data. |
+| [XmlLoadOptions](xmlloadoptions/#constructor_1)(string) | Creates `XmlLoadOptions` object with xsl data. |
+| [XmlLoadOptions](xmlloadoptions/#constructor_2)(Stream) | Creates `XmlLoadOptions` object with xsl data. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When , allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default . |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../../aspose.pdf/loadoptions/) describes. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When `true`, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../loadoptions/) describes. |
 | [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
-| [XslStream](./xslstream/) { get; } | Gets xsl data for converting xml into pdf document. |
+| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | Gets xsl data for converting xml into pdf document. |
 
 ### See Also
 

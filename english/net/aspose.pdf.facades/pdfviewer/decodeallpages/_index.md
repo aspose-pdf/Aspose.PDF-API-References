@@ -7,7 +7,7 @@ description: "PdfViewer method. Get pages of current pdf file."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/pdfviewer/decodeallpages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.DecodeAllPages method
 

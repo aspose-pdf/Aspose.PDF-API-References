@@ -7,7 +7,7 @@ description: "XmpValue method. Returns array."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/xmpvalue/toarray/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpValue.ToArray method
 
@@ -23,7 +23,7 @@ Array value
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

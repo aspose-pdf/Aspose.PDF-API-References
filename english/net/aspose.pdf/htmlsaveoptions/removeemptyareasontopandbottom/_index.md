@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. Defines whether in created HTML will be rem
 type: docs
 weight: 460
 url: "/net/aspose.pdf/htmlsaveoptions/removeemptyareasontopandbottom/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.RemoveEmptyAreasOnTopAndBottom field
 

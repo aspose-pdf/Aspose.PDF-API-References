@@ -7,7 +7,7 @@ description: "Rectangle property. Empty rectangle"
 type: docs
 weight: 270
 url: "/net/aspose.pdf/rectangle/empty/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.Empty property
 
@@ -19,7 +19,7 @@ public static Rectangle Empty { get; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "Field property. Returns true if dictionary is synchronized."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.forms/field/issynchronized/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Field.IsSynchronized property
 

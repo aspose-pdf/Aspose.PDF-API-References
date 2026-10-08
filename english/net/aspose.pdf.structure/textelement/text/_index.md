@@ -7,7 +7,7 @@ description: "TextElement property. Gets the value of text structure element."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.structure/textelement/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextElement.Text property
 

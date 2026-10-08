@@ -8,7 +8,7 @@ type: docs
 weight: 560
 url: "/net/aspose.pdf.logicalstructure/structuretextstate/"
 keywords: "StructureTextState, Aspose.Pdf.LogicalStructure, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTextState class
 
@@ -22,19 +22,19 @@ public class StructureTextState
 
 | Name | Description |
 | --- | --- |
-| [BackgroundColor](./backgroundcolor/) { get; set; } | Gets or sets background color of the text. |
-| [CharacterSpacing](./characterspacing/) { get; set; } | Gets or sets character spacing of the text. |
-| [Font](./font/) { get; set; } | Gets or sets the font of text. |
-| [FontSize](./fontsize/) { get; set; } | Gets or sets font size of the text. |
-| [FontStyle](./fontstyle/) { get; set; } | Gets or sets font style of the text. |
-| [ForegroundColor](./foregroundcolor/) { get; set; } | Gets or sets foreground color of the text. |
-| [HorizontalScaling](./horizontalscaling/) { get; set; } | Gets or sets horizontal scaling of the text. |
-| [LineSpacing](./linespacing/) { get; set; } | Gets or sets line spacing of the text. |
-| [StrikeOut](./strikeout/) { get; set; } | Gets or sets strikeout for the text. |
-| [Subscript](./subscript/) { get; set; } | Gets or sets subscript of the text. |
-| [Superscript](./superscript/) { get; set; } | Gets or sets superscript of the text. |
-| [Underline](./underline/) { get; set; } | Gets or sets underline for the text. |
-| [WordSpacing](./wordspacing/) { get; set; } | Gets or sets word spacing of the text. |
+| [BackgroundColor](../../aspose.pdf.logicalstructure/structuretextstate/backgroundcolor/) { get; set; } | Gets or sets background color of the text. |
+| [CharacterSpacing](../../aspose.pdf.logicalstructure/structuretextstate/characterspacing/) { get; set; } | Gets or sets character spacing of the text. |
+| [Font](../../aspose.pdf.logicalstructure/structuretextstate/font/) { get; set; } | Gets or sets the font of text. |
+| [FontSize](../../aspose.pdf.logicalstructure/structuretextstate/fontsize/) { get; set; } | Gets or sets font size of the text. |
+| [FontStyle](../../aspose.pdf.logicalstructure/structuretextstate/fontstyle/) { get; set; } | Gets or sets font style of the text. |
+| [ForegroundColor](../../aspose.pdf.logicalstructure/structuretextstate/foregroundcolor/) { get; set; } | Gets or sets foreground color of the text. |
+| [HorizontalScaling](../../aspose.pdf.logicalstructure/structuretextstate/horizontalscaling/) { get; set; } | Gets or sets horizontal scaling of the text. |
+| [LineSpacing](../../aspose.pdf.logicalstructure/structuretextstate/linespacing/) { get; set; } | Gets or sets line spacing of the text. |
+| [StrikeOut](../../aspose.pdf.logicalstructure/structuretextstate/strikeout/) { get; set; } | Gets or sets strikeout for the text. |
+| [Subscript](../../aspose.pdf.logicalstructure/structuretextstate/subscript/) { get; set; } | Gets or sets subscript of the text. |
+| [Superscript](../../aspose.pdf.logicalstructure/structuretextstate/superscript/) { get; set; } | Gets or sets superscript of the text. |
+| [Underline](../../aspose.pdf.logicalstructure/structuretextstate/underline/) { get; set; } | Gets or sets underline for the text. |
+| [WordSpacing](../../aspose.pdf.logicalstructure/structuretextstate/wordspacing/) { get; set; } | Gets or sets word spacing of the text. |
 
 ### See Also
 

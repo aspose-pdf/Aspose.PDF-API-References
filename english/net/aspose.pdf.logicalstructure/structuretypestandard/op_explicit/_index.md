@@ -7,11 +7,11 @@ description: "StructureTypeStandard method. Performs an explicit conversion from
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/op_explicit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard Explicit operator
 
-Performs an explicit conversion from `String` to [`StructureTypeStandard`](../../../aspose.pdf.logicalstructure/structuretypestandard/).
+Performs an explicit conversion from `String` to [`StructureTypeStandard`](../).
 
 ```csharp
 public static explicit operator StructureTypeStandard(string tag)
@@ -27,7 +27,7 @@ The result of the conversion.
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "CollectionItem property. Gets a collection of all the names of col
 type: docs
 weight: 70
 url: "/net/aspose.pdf/collectionitem/allnames/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionItem.AllNames property
 

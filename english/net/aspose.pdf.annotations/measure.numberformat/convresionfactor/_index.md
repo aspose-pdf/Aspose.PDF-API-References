@@ -7,7 +7,7 @@ description: "NumberFormat property. The conversion factor used to multiply a va
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/measure.numberformat/convresionfactor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.NumberFormat.ConvresionFactor property
 
@@ -19,7 +19,7 @@ public double ConvresionFactor { get; set; }
 
 ### See Also
 
-* class [Measure.NumberFormat](../)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

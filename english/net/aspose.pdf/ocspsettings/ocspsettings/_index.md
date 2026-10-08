@@ -7,11 +7,11 @@ description: "OcspSettings constructor. Initializes a new instance of the OcspSe
 type: docs
 weight: 10
 url: "/net/aspose.pdf/ocspsettings/ocspsettings/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OcspSettings constructor
 
-Initializes a new instance of the [`OcspSettings`](../../../aspose.pdf/ocspsettings/) class.
+Initializes a new instance of the [`OcspSettings`](../) class.
 
 ```csharp
 public OcspSettings(string serverUrl)

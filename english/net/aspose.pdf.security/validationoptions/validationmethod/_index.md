@@ -7,7 +7,7 @@ description: "ValidationOptions property. Gets or sets the method used to valida
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security/validationoptions/validationmethod/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ValidationOptions.ValidationMethod property
 
@@ -19,7 +19,7 @@ public ValidationMethod ValidationMethod { get; set; }
 
 ### See Also
 
-* enum [ValidationMethod](../../../aspose.pdf.security/validationmethod/)
+* enum [ValidationMethod](../../validationmethod/)
 * class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)

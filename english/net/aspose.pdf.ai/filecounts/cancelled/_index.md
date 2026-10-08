@@ -7,7 +7,7 @@ description: "FileCounts property. Gets or sets the number of files that were ca
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/filecounts/cancelled/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileCounts.Cancelled property
 

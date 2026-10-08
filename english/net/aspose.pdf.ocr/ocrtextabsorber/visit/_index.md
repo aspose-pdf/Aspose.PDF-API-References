@@ -7,11 +7,11 @@ description: "OcrTextAbsorber method. Recognizes text on every page of the docum
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ocr/ocrtextabsorber/visit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Visit([Document](../../../aspose.pdf/document/)) {#visit}
+## Visit(Document) {#visit}
 
-Recognizes text on every page of the document, joined by `PageSeparator`.
+Recognizes text on every page of the document, joined by [`PageSeparator`](../../ocrtextrecognitionoptions/pageseparator/).
 
 ```csharp
 public void Visit(Document document)
@@ -25,7 +25,7 @@ public void Visit(Document document)
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | Thrown when *document* is <see langword="null" />. |
+| ArgumentNullException | Thrown when *document* is `null`. |
 | [MissingOptionalDependencyException](../../../aspose.pdf/missingoptionaldependencyexception/) | Thrown when optional OCR implementation dependencies are not available. |
 
 ### See Also
@@ -37,7 +37,7 @@ public void Visit(Document document)
 
 ---
 
-## Visit([Page](../../../aspose.pdf/page/)) {#visit_1}
+## Visit(Page) {#visit_1}
 
 Recognizes text on the page.
 
@@ -53,7 +53,7 @@ public void Visit(Page page)
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | Thrown when *page* is <see langword="null" />. |
+| ArgumentNullException | Thrown when *page* is `null`. |
 | [MissingOptionalDependencyException](../../../aspose.pdf/missingoptionaldependencyexception/) | Thrown when optional OCR implementation dependencies are not available. |
 
 ### See Also

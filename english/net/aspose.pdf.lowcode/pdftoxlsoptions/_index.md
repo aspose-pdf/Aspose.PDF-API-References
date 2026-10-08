@@ -8,11 +8,11 @@ type: docs
 weight: 740
 url: "/net/aspose.pdf.lowcode/pdftoxlsoptions/"
 keywords: "PdfToXlsOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfToXlsOptions class
 
-Represents PDF to XLSX converter options for [`XlsConverter`](../../aspose.pdf.lowcode/xlsconverter/) plugin.
+Represents PDF to XLSX converter options for [`XlsConverter`](../xlsconverter/) plugin.
 
 ```csharp
 public sealed class PdfToXlsOptions : PdfConverterOptions
@@ -22,17 +22,17 @@ public sealed class PdfToXlsOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [PdfToXlsOptions](./pdftoxlsoptions/)() | The default constructor. |
+| [PdfToXlsOptions](pdftoxlsoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Format](./format/) { get; set; } | Output format. |
+| [Format](../../aspose.pdf.lowcode/pdftoxlsoptions/format/) { get; set; } | Output format. |
 | [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
-| [InsertBlankColumnAtFirst](./insertblankcolumnatfirst/) { get; set; } | Set true if you need inserting of blank column as the first column of worksheet. Default value is false; it means that blank column will not be inserted. |
-| [MinimizeTheNumberOfWorksheets](./minimizethenumberofworksheets/) { get; set; } | Set true if you need to minimize the number of worksheets in resultant workbook. Default value is false; it means save of each PDF page as separated worksheet. |
-| override [OperationName](./operationname/) { get; } | Gets name of the operation. |
+| [InsertBlankColumnAtFirst](../../aspose.pdf.lowcode/pdftoxlsoptions/insertblankcolumnatfirst/) { get; set; } | Set true if you need inserting of blank column as the first column of worksheet. Default value is false; it means that blank column will not be inserted. |
+| [MinimizeTheNumberOfWorksheets](../../aspose.pdf.lowcode/pdftoxlsoptions/minimizethenumberofworksheets/) { get; set; } | Set true if you need to minimize the number of worksheets in resultant workbook. Default value is false; it means save of each PDF page as separated worksheet. |
+| override [OperationName](../../aspose.pdf.lowcode/pdftoxlsoptions/operationname/) { get; } | Gets name of the operation. |
 | [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods

@@ -7,7 +7,7 @@ description: "AttributeKey field. BorderThickness attribute (Layout attribute ow
 type: docs
 weight: 100
 url: "/net/aspose.pdf.logicalstructure/attributekey/borderthickness/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.BorderThickness field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey BorderThickness;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

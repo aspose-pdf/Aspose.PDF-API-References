@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates PartElement."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.tagged/itaggedcontent/createpartelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreatePartElement method
 

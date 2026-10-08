@@ -7,11 +7,11 @@ description: "OpenAIChatCopilotOptions method. Creates a new instance of OpenAIC
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/create/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Create() {#create}
 
-Creates a new instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
+Creates a new instance of [`OpenAIChatCopilotOptions`](../).
 
 ```csharp
 public static OpenAIChatCopilotOptions Create()
@@ -19,19 +19,19 @@ public static OpenAIChatCopilotOptions Create()
 
 ### Return Value
 
-A new instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
+A new instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Create(Action<OpenAIChatCopilotOptions>) {#create_1}
+## Create(Action&lt;OpenAIChatCopilotOptions&gt;) {#create_1}
 
-Creates an instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/) and configures it using the provided delegate.
+Creates an instance of [`OpenAIChatCopilotOptions`](../) and configures it using the provided delegate.
 
 ```csharp
 public static OpenAIChatCopilotOptions Create(Action<OpenAIChatCopilotOptions> config)
@@ -43,11 +43,11 @@ public static OpenAIChatCopilotOptions Create(Action<OpenAIChatCopilotOptions> c
 
 ### Return Value
 
-The configured instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
+The configured instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

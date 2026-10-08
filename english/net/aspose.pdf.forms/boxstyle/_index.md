@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Forms.BoxStyle enum. Represents styles for drawing chec
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/boxstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BoxStyle enumeration
 

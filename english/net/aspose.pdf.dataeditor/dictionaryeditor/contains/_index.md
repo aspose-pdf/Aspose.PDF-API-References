@@ -7,11 +7,11 @@ description: "DictionaryEditor method. Determines whether the DictionaryEditor c
 type: docs
 weight: 100
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/contains/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DictionaryEditor.Contains method
 
-Determines whether the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/) contains a specific value.
+Determines whether the [`DictionaryEditor`](../) contains a specific value.
 
 ```csharp
 public bool Contains(KeyValuePair<string, ICosPdfPrimitive> item)
@@ -23,11 +23,12 @@ public bool Contains(KeyValuePair<string, ICosPdfPrimitive> item)
 
 ### Return Value
 
-true if item is found in the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/); 
+true if item is found in the [`DictionaryEditor`](../); 
  otherwise, false.
 
 ### See Also
 
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
 * class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)

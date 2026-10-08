@@ -7,7 +7,7 @@ description: "AttributeKey field. TextDecorationThickness attribute (Layout attr
 type: docs
 weight: 290
 url: "/net/aspose.pdf.logicalstructure/attributekey/textdecorationthickness/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.TextDecorationThickness field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey TextDecorationThickness;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

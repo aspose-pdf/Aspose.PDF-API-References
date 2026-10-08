@@ -7,7 +7,7 @@ description: "Cells method. Remove cell set from collection."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/cells/removerange/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Cells.RemoveRange method
 

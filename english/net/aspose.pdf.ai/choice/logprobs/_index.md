@@ -7,7 +7,7 @@ description: "Choice property. Gets or sets log probability information for the 
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/choice/logprobs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Choice.Logprobs property
 
@@ -19,7 +19,7 @@ public Logprobs Logprobs { get; set; }
 
 ### See Also
 
-* class [Logprobs](../../../aspose.pdf.ai/logprobs/)
+* class [Logprobs](../../logprobs/)
 * class [Choice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

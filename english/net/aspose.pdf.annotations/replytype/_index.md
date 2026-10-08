@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.ReplyType enum. Enumerates the kinds of the
 type: docs
 weight: 1090
 url: "/net/aspose.pdf.annotations/replytype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ReplyType enumeration
 

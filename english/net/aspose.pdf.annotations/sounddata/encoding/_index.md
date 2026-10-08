@@ -7,7 +7,7 @@ description: "SoundData property. Gets or sets the encoding format for the sampl
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/sounddata/encoding/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SoundData.Encoding property
 
@@ -19,7 +19,7 @@ public SoundEncoding Encoding { get; set; }
 
 ### See Also
 
-* enum [SoundEncoding](../../../aspose.pdf.annotations/soundencoding/)
+* enum [SoundEncoding](../../soundencoding/)
 * class [SoundData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

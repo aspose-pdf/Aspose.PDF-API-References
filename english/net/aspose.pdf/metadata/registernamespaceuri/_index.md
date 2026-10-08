@@ -7,7 +7,7 @@ description: "Metadata method. Registers namespace URI."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/metadata/registernamespaceuri/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RegisterNamespaceUri(string, string) {#registernamespaceuri}
 

@@ -7,7 +7,7 @@ description: "OcrDetail method. Compares the current OcrDetail instance with ano
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/ocrdetail/compareto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OcrDetail.CompareTo method
 
@@ -17,17 +17,9 @@ Compares the current OcrDetail instance with another OcrDetail object based on t
 public int CompareTo(OcrDetail other)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| other | OcrDetail |  |
-
-### Return Value
-
-int
-
 ### See Also
 
-* class [OcrDetail](../../../aspose.pdf.ai/ocrdetail/)
+* class [OcrDetail](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

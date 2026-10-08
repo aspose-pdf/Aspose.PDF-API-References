@@ -7,7 +7,7 @@ description: "ArtifactCollection method. Adds artifacts to the collection."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/artifactcollection/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ArtifactCollection.Add method
 
@@ -23,7 +23,7 @@ public void Add(Artifact artifact)
 
 ### See Also
 
-* class [Artifact](../../../aspose.pdf/artifact/)
+* class [Artifact](../../artifact/)
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

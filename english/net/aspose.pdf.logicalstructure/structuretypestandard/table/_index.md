@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Table) A two-dimensional layout of r
 type: docs
 weight: 290
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/table/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.Table field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard Table;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,15 +7,11 @@ description: "CollectionItem property. Gets a value indicating whether the colle
 type: docs
 weight: 60
 url: "/net/aspose.pdf/collectionitem/isempty/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionItem.IsEmpty property
 
 Gets a value indicating whether the collection item is empty.
-
-This property returns true if the collection item does not contain any values, including string values,
- double values, integer values, and date values. If any of these value types are present in the collection item,
- this property returns false.
 
 ```csharp
 public bool IsEmpty { get; }
@@ -24,6 +20,12 @@ public bool IsEmpty { get; }
 ### Return Value
 
 true if the collection item is empty; otherwise, false.
+
+## Remarks
+
+This property returns true if the collection item does not contain any values, including string values,
+ double values, integer values, and date values. If any of these value types are present in the collection item,
+ this property returns false.
 
 ### See Also
 

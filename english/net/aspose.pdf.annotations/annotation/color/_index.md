@@ -7,7 +7,7 @@ description: "Annotation property. Gets or sets annotation color."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.annotations/annotation/color/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.Color property
 

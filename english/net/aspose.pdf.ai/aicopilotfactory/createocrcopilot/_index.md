@@ -7,7 +7,7 @@ description: "AICopilotFactory method. Creates an OCR copilot based on the clien
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/aicopilotfactory/createocrcopilot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AICopilotFactory.CreateOcrCopilot&lt;TOptions&gt; method
 
@@ -18,18 +18,11 @@ public static IOcrCopilot CreateOcrCopilot<TOptions>(IOcrClient<TOptions> client
     IOcrCopilotOptions<TOptions> options)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| client | IOcrClient`1 |  |
-| options | IOcrCopilotOptions`1 |  |
-
-### Return Value
-
-[IOcrCopilot](../../../aspose.pdf.ai/iocrcopilot/)
-
 ### See Also
 
-* interface [IOcrCopilot](../../../aspose.pdf.ai/iocrcopilot/)
+* interface [IOcrCopilot](../../iocrcopilot/)
+* interface [IOcrClient&lt;TOptions&gt;](../../iocrclient-1/)
+* interface [IOcrCopilotOptions&lt;TOptions&gt;](../../iocrcopilotoptions-1/)
 * class [AICopilotFactory](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

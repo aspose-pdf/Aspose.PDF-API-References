@@ -7,33 +7,9 @@ description: "AppearanceDictionary method. Removes key from the dictionary."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/appearancedictionary/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Remove(KeyValuePair<string, XForm>) {#remove}
-
-Removes key/value pair from the collection.
-
-```csharp
-public bool Remove(KeyValuePair<string, XForm> item)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | KeyValuePair`2 | Key/value pair to be removed. |
-
-### Return Value
-
-true if pair was found and removed.
-
-### See Also
-
-* class [AppearanceDictionary](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Remove(string) {#remove_1}
+## Remove(string) {#remove}
 
 Removes key from the dictionary.
 
@@ -51,6 +27,31 @@ true if key was successfully removed.
 
 ### See Also
 
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Remove(KeyValuePair&lt;string, XForm&gt;) {#remove_1}
+
+Removes key/value pair from the collection.
+
+```csharp
+public bool Remove(KeyValuePair<string, XForm> item)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| item | KeyValuePair`2 | Key/value pair to be removed. |
+
+### Return Value
+
+true if pair was found and removed.
+
+### See Also
+
+* class [XForm](../../../aspose.pdf/xform/)
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

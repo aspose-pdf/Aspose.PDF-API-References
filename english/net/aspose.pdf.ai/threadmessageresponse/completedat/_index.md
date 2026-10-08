@@ -7,7 +7,7 @@ description: "ThreadMessageResponse property. Gets or sets the Unix timestamp (i
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/threadmessageresponse/completedat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadMessageResponse.CompletedAt property
 

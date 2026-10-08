@@ -7,7 +7,7 @@ description: "GradientRadialShading property. Gets or sets end color."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.drawing/gradientradialshading/endcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GradientRadialShading.EndColor property
 

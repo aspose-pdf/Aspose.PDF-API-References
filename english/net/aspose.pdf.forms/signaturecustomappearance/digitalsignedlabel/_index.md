@@ -7,7 +7,7 @@ description: "SignatureCustomAppearance property. Gets/sets digital signed label
 type: docs
 weight: 130
 url: "/net/aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureCustomAppearance.DigitalSignedLabel property
 

@@ -7,7 +7,7 @@ description: "FormExporterToJsonOptions property. Gets or sets a value indicatin
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/formexportertojsonoptions/exportpasswordvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormExporterToJsonOptions.ExportPasswordValue property
 

@@ -7,7 +7,7 @@ description: "LineInfo property. Gets or sets the dash pattern of a line."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/lineinfo/linedashpattern/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineInfo.LineDashPattern property
 

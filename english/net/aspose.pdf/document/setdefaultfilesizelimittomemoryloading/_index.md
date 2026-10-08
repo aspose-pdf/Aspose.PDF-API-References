@@ -7,7 +7,7 @@ description: "Document method. Sets the file size limit for loading an entire fi
 type: docs
 weight: 1060
 url: "/net/aspose.pdf/document/setdefaultfilesizelimittomemoryloading/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.SetDefaultFileSizeLimitToMemoryLoading method
 

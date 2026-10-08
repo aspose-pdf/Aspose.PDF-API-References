@@ -7,7 +7,7 @@ description: "Document method. Changes document passwords. This action can be do
 type: docs
 weight: 650
 url: "/net/aspose.pdf/document/changepasswords/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.ChangePasswords method
 

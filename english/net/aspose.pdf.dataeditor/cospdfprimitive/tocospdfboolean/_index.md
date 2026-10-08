@@ -7,11 +7,11 @@ description: "CosPdfPrimitive method. Tries cast this instance to CosPdfBoolean.
 type: docs
 weight: 40
 url: "/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfPrimitive.ToCosPdfBoolean method
 
-Tries cast this instance to [`CosPdfBoolean`](../../../aspose.pdf.dataeditor/cospdfboolean/).
+Tries cast this instance to [`CosPdfBoolean`](../../cospdfboolean/).
 
 ```csharp
 public virtual CosPdfBoolean ToCosPdfBoolean()
@@ -19,11 +19,11 @@ public virtual CosPdfBoolean ToCosPdfBoolean()
 
 ### Return Value
 
-null if instance is not [`CosPdfBoolean`](../../../aspose.pdf.dataeditor/cospdfboolean/) else [`CosPdfBoolean`](../../../aspose.pdf.dataeditor/cospdfboolean/).
+null if instance is not [`CosPdfBoolean`](../../cospdfboolean/) else [`CosPdfBoolean`](../../cospdfboolean/).
 
 ### See Also
 
-* class [CosPdfBoolean](../../../aspose.pdf.dataeditor/cospdfboolean/)
+* class [CosPdfBoolean](../../cospdfboolean/)
 * class [CosPdfPrimitive](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)

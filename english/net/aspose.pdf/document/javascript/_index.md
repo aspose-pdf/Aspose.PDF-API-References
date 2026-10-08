@@ -7,7 +7,7 @@ description: "Document property. Collection of JavaScript of document level."
 type: docs
 weight: 1090
 url: "/net/aspose.pdf/document/javascript/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.JavaScript property
 
@@ -19,7 +19,7 @@ public JavaScriptCollection JavaScript { get; }
 
 ### See Also
 
-* class [JavaScriptCollection](../../../aspose.pdf/javascriptcollection/)
+* class [JavaScriptCollection](../../javascriptcollection/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

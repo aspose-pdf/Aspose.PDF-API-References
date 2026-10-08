@@ -7,7 +7,7 @@ description: "PdfFileSignature property. Gets the flag determining whether a doc
 type: docs
 weight: 490
 url: "/net/aspose.pdf.facades/pdffilesignature/iscertified/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.IsCertified property
 

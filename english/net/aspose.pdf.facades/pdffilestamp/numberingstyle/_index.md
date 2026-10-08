@@ -7,7 +7,7 @@ description: "PdfFileStamp property. Gets or sets pabge numbering style. Possibl
 type: docs
 weight: 340
 url: "/net/aspose.pdf.facades/pdffilestamp/numberingstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileStamp.NumberingStyle property
 

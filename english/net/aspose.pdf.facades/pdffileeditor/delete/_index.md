@@ -7,9 +7,42 @@ description: "PdfFileEditor method. Deletes pages specified by number array from
 type: docs
 weight: 550
 url: "/net/aspose.pdf.facades/pdffileeditor/delete/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Delete(Stream, int[], Stream) {#delete}
+## Delete(string, int[], string) {#delete}
+
+Deletes pages specified by number array from input file, saves as a new Pdf file.
+
+```csharp
+public bool Delete(string inputFile, int[] pageNumber, string outputFile)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | String | Input file path. |
+| pageNumber | Int32[] | Index of page out of the input file. |
+| outputFile | String | Output file path. |
+
+### Return Value
+
+True if operation was succeeded.
+
+## Examples
+
+```csharp
+PdfFileEditor pfe = new PdfFileEditor();
+pfe.Delete("input.pdf", new int[] { 2, 3 }, "out.pdf");
+```
+
+### See Also
+
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Delete(Stream, int[], Stream) {#delete_1}
 
 Deletes pages specified by number array from input file, saves as a new Pdf file.
 
@@ -34,39 +67,6 @@ PdfFileEditor pfe = new PdfFileEditor();
 Stream intputStream = new FileStream("input.pdf", FileMode.Open, FileAccess.Read);
 Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.Write);
 pfe.Delete(inputStream, new int[] { 2, 3 }, outputStream);
-```
-
-### See Also
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Delete(string, int[], string) {#delete_1}
-
-Deletes pages specified by number array from input file, saves as a new Pdf file.
-
-```csharp
-public bool Delete(string inputFile, int[] pageNumber, string outputFile)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputFile | String | Input file path. |
-| pageNumber | Int32[] | Index of page out of the input file. |
-| outputFile | String | Output file path. |
-
-### Return Value
-
-True if operation was succeeded.
-
-## Examples
-
-```csharp
-PdfFileEditor pfe = new PdfFileEditor();
-pfe.Delete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 ```
 
 ### See Also

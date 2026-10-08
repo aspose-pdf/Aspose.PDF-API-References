@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Adds document attachment with no annotati
 type: docs
 weight: 270
 url: "/net/aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AddDocumentAttachment(string, string) {#adddocumentattachment}
 

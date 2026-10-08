@@ -7,7 +7,7 @@ description: "Artifact method. Start delated updates. Use this feature if you ne
 type: docs
 weight: 140
 url: "/net/aspose.pdf/artifact/beginupdates/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.BeginUpdates method
 

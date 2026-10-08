@@ -7,7 +7,7 @@ description: "PdfFileEditor property. If true, incremental updates are made duri
 type: docs
 weight: 1080
 url: "/net/aspose.pdf.facades/pdffileeditor/incrementalupdates/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.IncrementalUpdates property
 

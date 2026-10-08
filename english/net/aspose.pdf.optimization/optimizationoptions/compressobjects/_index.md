@@ -7,11 +7,11 @@ description: "OptimizationOptions property. If this flag is set to , Pdf objects
 type: docs
 weight: 30
 url: "/net/aspose.pdf.optimization/optimizationoptions/compressobjects/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizationOptions.CompressObjects property
 
-If this flag is set to , Pdf objects will be packed into Objest Streams
+If this flag is set to `true`, Pdf objects will be packed into Objest Streams
  and compressed to reduce pdf file size.
 
 ```csharp

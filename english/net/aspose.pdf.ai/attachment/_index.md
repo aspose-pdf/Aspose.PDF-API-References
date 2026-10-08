@@ -8,7 +8,7 @@ type: docs
 weight: 120
 url: "/net/aspose.pdf.ai/attachment/"
 keywords: "Attachment, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Attachment class
 
@@ -22,14 +22,14 @@ public class Attachment
 
 | Name | Description |
 | --- | --- |
-| [Attachment](./attachment/)() | The default constructor. |
+| [Attachment](attachment/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FileId](./fileid/) { get; set; } | Gets or sets the ID of the File that is attached. |
-| [Tools](./tools/) { get; set; } | Gets or sets the type of tool that the File is attached to. |
+| [FileId](../../aspose.pdf.ai/attachment/fileid/) { get; set; } | Gets or sets the ID of the File that is attached. |
+| [Tools](../../aspose.pdf.ai/attachment/tools/) { get; set; } | Gets or sets the type of tool that the File is attached to. |
 
 ### See Also
 

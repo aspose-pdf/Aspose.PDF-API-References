@@ -7,11 +7,11 @@ description: "DateField constructor. Initializes a new instance of the DateField
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/datefield/datefield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DateField() {#constructor}
 
-Initializes a new instance of the [`DateField`](../../../aspose.pdf.forms/datefield/)
+Initializes a new instance of the [`DateField`](../)
 
 ```csharp
 public DateField()
@@ -25,7 +25,7 @@ public DateField()
 
 ---
 
-## DateField([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## DateField(Document) {#constructor_1}
 
 Constructor which should be used with Generator.
 
@@ -46,32 +46,9 @@ public DateField(Document doc)
 
 ---
 
-## DateField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_2}
+## DateField(Page, Rectangle) {#constructor_2}
 
-Initializes a new instance of the [`DateField`](../../../aspose.pdf.forms/datefield/)
-
-```csharp
-public DateField(Document doc, Rectangle rect)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Document where field will be created. |
-| rect | Rectangle | Rectangle of the field. |
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [DateField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## DateField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_3}
-
-Initializes a new instance of the [`DateField`](../../../aspose.pdf.forms/datefield/)
+Initializes a new instance of the [`DateField`](../)
 
 ```csharp
 public DateField(Page page, Rectangle rect)
@@ -85,7 +62,30 @@ public DateField(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## DateField(Document, Rectangle) {#constructor_3}
+
+Initializes a new instance of the [`DateField`](../)
+
+```csharp
+public DateField(Document doc, Rectangle rect)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | Document where field will be created. |
+| rect | Rectangle | Rectangle of the field. |
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

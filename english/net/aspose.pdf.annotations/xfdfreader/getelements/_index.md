@@ -7,7 +7,7 @@ description: "XfdfReader method. Parses XFDF file and returns information as has
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/xfdfreader/getelements/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XfdfReader.GetElements method
 

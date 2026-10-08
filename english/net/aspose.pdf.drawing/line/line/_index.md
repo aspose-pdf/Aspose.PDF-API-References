@@ -7,11 +7,11 @@ description: "Line constructor. Initializes a new instance of the Line class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.drawing/line/line/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Line constructor
 
-Initializes a new instance of the [`Line`](../../../aspose.pdf.drawing/line/) class.
+Initializes a new instance of the [`Line`](../) class.
 
 ```csharp
 public Line(float[] positionArray)

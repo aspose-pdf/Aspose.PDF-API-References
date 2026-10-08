@@ -7,7 +7,7 @@ description: "PptxSaveOptions property. If set to true then all the content is r
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pptxsaveoptions/slidesasimages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PptxSaveOptions.SlidesAsImages property
 

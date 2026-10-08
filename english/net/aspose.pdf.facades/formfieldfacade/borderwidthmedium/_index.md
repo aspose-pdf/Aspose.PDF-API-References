@@ -7,7 +7,7 @@ description: "FormFieldFacade field. Defines a medium border width."
 type: docs
 weight: 230
 url: "/net/aspose.pdf.facades/formfieldfacade/borderwidthmedium/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.BorderWidthMedium field
 

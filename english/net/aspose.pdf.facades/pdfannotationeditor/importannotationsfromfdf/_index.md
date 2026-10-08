@@ -7,7 +7,7 @@ description: "PdfAnnotationEditor method. Imports all annotations from FDF file.
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromfdf/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAnnotationEditor.ImportAnnotationsFromFdf method
 

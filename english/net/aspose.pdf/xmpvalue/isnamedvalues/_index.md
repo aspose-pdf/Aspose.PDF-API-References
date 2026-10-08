@@ -7,7 +7,7 @@ description: "XmpValue property. Returns true is XmpValue represents named value
 type: docs
 weight: 360
 url: "/net/aspose.pdf/xmpvalue/isnamedvalues/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpValue.IsNamedValues property
 

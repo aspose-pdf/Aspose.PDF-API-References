@@ -7,7 +7,7 @@ description: "PdfFileInfo method. Clears all meta information of PDF document."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/pdffileinfo/clearinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.ClearInfo method
 

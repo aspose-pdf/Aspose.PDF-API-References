@@ -7,7 +7,7 @@ description: "DocSaveOptions property. Gets or sets the procedure for resaving f
 type: docs
 weight: 130
 url: "/net/aspose.pdf/docsaveoptions/resavefonts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocSaveOptions.ReSaveFonts property
 

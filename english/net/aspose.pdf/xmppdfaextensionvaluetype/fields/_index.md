@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionValueType property. Gets the list of fields."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/fields/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionValueType.Fields property
 
@@ -19,6 +19,7 @@ public IList<XmpPdfAExtensionField> Fields { get; }
 
 ### See Also
 
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
 * class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

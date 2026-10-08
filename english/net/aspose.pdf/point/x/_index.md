@@ -7,7 +7,7 @@ description: "Point property. X coordinate value."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/point/x/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Point.X property
 

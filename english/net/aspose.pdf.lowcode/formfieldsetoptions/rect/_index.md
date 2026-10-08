@@ -7,7 +7,7 @@ description: "FormFieldSetOptions property. Rectangle that be setted to field(s)
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/formfieldsetoptions/rect/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldSetOptions.Rect property
 
@@ -19,7 +19,7 @@ public Rectangle Rect { get; set; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [FormFieldSetOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

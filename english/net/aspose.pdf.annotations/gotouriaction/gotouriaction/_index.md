@@ -7,11 +7,11 @@ description: "GoToURIAction constructor. Creates an instance of GoToURIAction cl
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/gotouriaction/gotouriaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GoToURIAction constructor
 
-Creates an instance of [`GoToURIAction`](../../../aspose.pdf.annotations/gotouriaction/) class.
+Creates an instance of [`GoToURIAction`](../) class.
 
 ```csharp
 public GoToURIAction(string uri)

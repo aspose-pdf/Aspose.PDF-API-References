@@ -7,7 +7,7 @@ description: "TextDevice property. Gets or sets encoding of extracted text."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.devices/textdevice/encoding/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextDevice.Encoding property
 

@@ -7,7 +7,7 @@ description: "PageCollectionExtensions method. Updates the header and footer pag
 type: docs
 weight: 10
 url: "/net/aspose.pdf/pagecollectionextensions/updatepagination/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollectionExtensions.UpdatePagination method
 
@@ -25,7 +25,7 @@ public static void UpdatePagination(this PageCollection pageCollection)
 
 ### See Also
 
-* class [PageCollection](../../../aspose.pdf/pagecollection/)
+* class [PageCollection](../../pagecollection/)
 * class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "CreateEmbeddingRequest property. Gets or sets input text to embed,
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/createembeddingrequest/input/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateEmbeddingRequest.Input property
 

@@ -7,7 +7,7 @@ description: "PrinterSettings property. Gets or sets the number of copies to pri
 type: docs
 weight: 30
 url: "/net/aspose.pdf.printing/printersettings/copies/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterSettings.Copies property
 

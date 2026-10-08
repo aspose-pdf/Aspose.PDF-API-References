@@ -7,7 +7,7 @@ description: "TeXFileSystemInputDirectory method. Disposes the instance."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/texfilesysteminputdirectory/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXFileSystemInputDirectory.Dispose method
 

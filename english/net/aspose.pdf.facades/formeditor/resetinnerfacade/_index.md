@@ -7,7 +7,7 @@ description: "FormEditor method. Reset all visual attribtues of inner facade to 
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/formeditor/resetinnerfacade/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.ResetInnerFacade method
 

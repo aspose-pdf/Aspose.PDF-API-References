@@ -7,7 +7,7 @@ description: "DateField method. Image adding denied for this field."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/datefield/addimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DateField.AddImage method
 

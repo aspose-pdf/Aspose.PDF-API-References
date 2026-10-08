@@ -7,11 +7,11 @@ description: "OpenAISummaryCopilot constructor. Initializes a new instance of th
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/openaisummarycopilot/openaisummarycopilot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAISummaryCopilot constructor
 
-Initializes a new instance of the [`OpenAISummaryCopilot`](../../../aspose.pdf.ai/openaisummarycopilot/) class.
+Initializes a new instance of the [`OpenAISummaryCopilot`](../) class.
 
 ```csharp
 public OpenAISummaryCopilot(IOpenAIClient client, 
@@ -25,7 +25,9 @@ public OpenAISummaryCopilot(IOpenAIClient client,
 
 ### See Also
 
-* interface [IOpenAIClient](../../../aspose.pdf.ai/iopenaiclient/)
+* interface [IOpenAIClient](../../iopenaiclient/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
 * class [OpenAISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

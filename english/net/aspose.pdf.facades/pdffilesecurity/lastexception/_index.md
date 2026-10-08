@@ -7,7 +7,7 @@ description: "PdfFileSecurity property. Returns exception which was thrown by la
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/pdffilesecurity/lastexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSecurity.LastException property
 

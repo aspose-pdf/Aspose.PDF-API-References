@@ -7,7 +7,7 @@ description: "OcrDetail property. An error message describing why OCR failed for
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/ocrdetail/errormessage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OcrDetail.ErrorMessage property
 

@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Paragraph) A low-level division of t
 type: docs
 weight: 170
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/p/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.P field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard P;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -8,7 +8,7 @@ type: docs
 weight: 290
 url: "/net/aspose.pdf/cgmimportoptions/"
 keywords: "CgmImportOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CgmImportOptions class
 
@@ -22,14 +22,14 @@ public class CgmImportOptions : ImportOptions
 
 | Name | Description |
 | --- | --- |
-| [CgmImportOptions](./cgmimportoptions/)() | The default constructor. |
+| [CgmImportOptions](cgmimportoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [ImportFormat](../../aspose.pdf/importoptions/importformat/) { get; } | Import format. |
-| [PageSize](./pagesize/) { get; set; } | Gets or sets output page size for import. Default page size - A4 300dpi 2480 X 3508. |
+| [PageSize](../../aspose.pdf/cgmimportoptions/pagesize/) { get; set; } | Gets or sets output page size for import. Default page size - A4 300dpi 2480 X 3508. |
 
 ### See Also
 

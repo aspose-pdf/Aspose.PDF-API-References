@@ -7,7 +7,7 @@ description: "RunResponse property. Gets or sets the model that the assistant us
 type: docs
 weight: 160
 url: "/net/aspose.pdf.ai/runresponse/model/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunResponse.Model property
 

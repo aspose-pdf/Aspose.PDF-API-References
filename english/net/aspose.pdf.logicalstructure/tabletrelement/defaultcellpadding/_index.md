@@ -7,7 +7,7 @@ description: "TableTRElement property. Gets or sets default margin for row cells
 type: docs
 weight: 110
 url: "/net/aspose.pdf.logicalstructure/tabletrelement/defaultcellpadding/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableTRElement.DefaultCellPadding property
 

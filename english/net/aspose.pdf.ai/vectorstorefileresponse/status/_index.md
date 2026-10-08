@@ -7,7 +7,7 @@ description: "VectorStoreFileResponse property. Gets or sets the status of the v
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/vectorstorefileresponse/status/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileResponse.Status property
 

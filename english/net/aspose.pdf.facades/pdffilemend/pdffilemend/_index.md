@@ -7,7 +7,7 @@ description: "PdfFileMend constructor. Constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffilemend/pdffilemend/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileMend() {#constructor}
 
@@ -25,9 +25,9 @@ public PdfFileMend()
 
 ---
 
-## PdfFileMend([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## PdfFileMend(Document) {#constructor_1}
 
-Initializes new [`PdfFileMend`](../../../aspose.pdf.facades/pdffilemend/) object on base of the *document*.
+Initializes new [`PdfFileMend`](../) object on base of the *document*.
 
 ```csharp
 public PdfFileMend(Document document)

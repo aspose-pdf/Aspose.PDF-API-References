@@ -7,7 +7,7 @@ description: "TableCellBuilder method. Add paragraphs to table cell."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/tablecellbuilder/addparagraph/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableCellBuilder.AddParagraph method
 
@@ -23,11 +23,11 @@ public TableCellBuilder AddParagraph(params BaseParagraph[] paragraph)
 
 ### Return Value
 
-Instance of current [`TableCellBuilder`](../../../aspose.pdf.lowcode/tablecellbuilder/).
+Instance of current [`TableCellBuilder`](../).
 
 ### See Also
 
-* class [TableCellBuilder](../../../aspose.pdf.lowcode/tablecellbuilder/)
+* class [TableCellBuilder](../)
 * class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

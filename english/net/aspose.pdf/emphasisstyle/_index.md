@@ -7,7 +7,7 @@ description: "Aspose.Pdf.EmphasisStyle enum. Defines the available serialization
 type: docs
 weight: 720
 url: "/net/aspose.pdf/emphasisstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EmphasisStyle enumeration
 

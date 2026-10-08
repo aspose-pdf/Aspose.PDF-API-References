@@ -7,7 +7,7 @@ description: "TextStyle property. Gets and sets the background color."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/textstyle/backgroundcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStyle.BackgroundColor property
 

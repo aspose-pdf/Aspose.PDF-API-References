@@ -8,7 +8,7 @@ type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/assistantlistresponse/"
 keywords: "AssistantListResponse, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantListResponse class
 
@@ -22,7 +22,7 @@ public class AssistantListResponse : ListDataResponse<List<AssistantResponse>>
 
 | Name | Description |
 | --- | --- |
-| [AssistantListResponse](./assistantlistresponse/)() | The default constructor. |
+| [AssistantListResponse](assistantlistresponse/)() | The default constructor. |
 
 ## Properties
 
@@ -42,7 +42,8 @@ public class AssistantListResponse : ListDataResponse<List<AssistantResponse>>
 
 ### See Also
 
-* class [ListDataResponse<T>](../listdataresponse-1/)
+* class [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
+* class [AssistantResponse](../assistantresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
 

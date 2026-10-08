@@ -7,7 +7,7 @@ description: "LineTo method. Returns text representation of the operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/lineto/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineTo.ToString method
 

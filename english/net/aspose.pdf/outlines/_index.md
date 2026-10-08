@@ -8,7 +8,7 @@ type: docs
 weight: 2040
 url: "/net/aspose.pdf/outlines/"
 keywords: "Outlines, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Outlines class
 
@@ -22,23 +22,24 @@ public abstract class Outlines : ICollection<OutlineItemCollection>
 
 | Name | Description |
 | --- | --- |
-| abstract [Count](./count/) { get; } | Gets count. |
-| abstract [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether the collection is read-only. |
-| abstract [VisibleCount](./visiblecount/) { get; } | Gets the total number of outline items at all levels in the document outline hierarchy. |
+| abstract [Count](../../aspose.pdf/outlines/count/) { get; } | Gets count. |
+| abstract [IsReadOnly](../../aspose.pdf/outlines/isreadonly/) { get; } | Gets a value indicating whether the collection is read-only. |
+| abstract [VisibleCount](../../aspose.pdf/outlines/visiblecount/) { get; } | Gets the total number of outline items at all levels in the document outline hierarchy. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [Add](./add/)(OutlineItemCollection) | Adds outline item to collection. |
-| abstract [Clear](./clear/)() | Clears all items from the collection. |
-| abstract [Contains](./contains/)(OutlineItemCollection) | Always throws NotImplementedException. |
-| abstract [CopyTo](./copyto/)(OutlineItemCollection[], int) | Copies the outline entries to an System.Array, starting at a particular System.Array index. |
-| abstract [GetEnumerator](./getenumerator/)() | Returns an enumerator that iterates through the collection. |
-| abstract [Remove](./remove/)(OutlineItemCollection) | Remove outline collection item. |
+| abstract [Add](../../aspose.pdf/outlines/add/)(OutlineItemCollection) | Adds outline item to collection. |
+| abstract [Clear](../../aspose.pdf/outlines/clear/)() | Clears all items from the collection. |
+| abstract [Contains](../../aspose.pdf/outlines/contains/)(OutlineItemCollection) | Always throws NotImplementedException. |
+| abstract [CopyTo](../../aspose.pdf/outlines/copyto/)(OutlineItemCollection[], int) | Copies the outline entries to an System.Array, starting at a particular System.Array index. |
+| abstract [GetEnumerator](../../aspose.pdf/outlines/getenumerator/)() | Returns an enumerator that iterates through the collection. |
+| abstract [Remove](../../aspose.pdf/outlines/remove/)(OutlineItemCollection) | Remove outline collection item. |
 
 ### See Also
 
+* class [OutlineItemCollection](../outlineitemcollection/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
 

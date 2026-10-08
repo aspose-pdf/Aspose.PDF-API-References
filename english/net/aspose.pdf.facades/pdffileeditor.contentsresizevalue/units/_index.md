@@ -7,7 +7,7 @@ description: "ContentsResizeValue method. Initializes value in default space uni
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/units/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeValue.Units method
 
@@ -27,7 +27,7 @@ New value instance.
 
 ### See Also
 
-* class [PdfFileEditor.ContentsResizeValue](../)
+* class [ContentsResizeValue](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

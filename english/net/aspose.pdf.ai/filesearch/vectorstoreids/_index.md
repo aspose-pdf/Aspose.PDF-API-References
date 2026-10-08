@@ -7,7 +7,7 @@ description: "FileSearch property. Gets or sets the ID of the vector store attac
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/filesearch/vectorstoreids/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSearch.VectorStoreIds property
 

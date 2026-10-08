@@ -7,7 +7,7 @@ description: "XForm property. Gets operators of the form."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/xform/contents/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XForm.Contents property
 
@@ -19,7 +19,7 @@ public OperatorCollection Contents { get; }
 
 ### See Also
 
-* class [OperatorCollection](../../../aspose.pdf/operatorcollection/)
+* class [OperatorCollection](../../operatorcollection/)
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

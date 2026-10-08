@@ -7,7 +7,7 @@ description: "VectorStoreFileListQueryParameters constructor. The default constr
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/vectorstorefilelistqueryparameters/vectorstorefilelistqueryparameters/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileListQueryParameters constructor
 

@@ -7,7 +7,7 @@ description: "ActionCollection method. Removes item from collection."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/actioncollection/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ActionCollection.Remove method
 
@@ -27,7 +27,7 @@ Not implemented.
 
 ### See Also
 
-* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [PdfAction](../../pdfaction/)
 * class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

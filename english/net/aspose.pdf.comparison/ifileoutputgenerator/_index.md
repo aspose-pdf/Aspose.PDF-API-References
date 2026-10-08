@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Comparison.IFileOutputGenerator interface. Represents a
 type: docs
 weight: 100
 url: "/net/aspose.pdf.comparison/ifileoutputgenerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IFileOutputGenerator interface
 
@@ -21,8 +21,8 @@ public interface IFileOutputGenerator
 
 | Name | Description |
 | --- | --- |
-| [GenerateOutput](./generateoutput/)(List<DiffOperation>, string) | Generates the output based on the differences between texts and saves it to a file. |
-| [GenerateOutput](./generateoutput/)(List<List<DiffOperation>>, string) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](../../aspose.pdf.comparison/ifileoutputgenerator/generateoutput/)(List&lt;DiffOperation&gt;, string) | Generates the output based on the differences between texts and saves it to a file. |
+| [GenerateOutput](../../aspose.pdf.comparison/ifileoutputgenerator/generateoutput/)(List&lt;List&lt;DiffOperation&gt;&gt;, string) | Generates the output based on the differences between texts and saves it to a file. |
 
 ### See Also
 

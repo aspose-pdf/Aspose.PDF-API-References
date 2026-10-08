@@ -7,7 +7,7 @@ description: "CheckboxField method. Clone the checkbox."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/checkboxfield/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CheckboxField.Clone method
 

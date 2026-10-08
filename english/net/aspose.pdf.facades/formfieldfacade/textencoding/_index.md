@@ -7,7 +7,7 @@ description: "FormFieldFacade property. The text encoding type of the field text
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/formfieldfacade/textencoding/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.TextEncoding property
 
@@ -19,7 +19,7 @@ public EncodingType TextEncoding { get; set; }
 
 ### See Also
 
-* enum [EncodingType](../../../aspose.pdf.facades/encodingtype/)
+* enum [EncodingType](../../encodingtype/)
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

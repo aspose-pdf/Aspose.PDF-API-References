@@ -7,7 +7,7 @@ description: "Signature property. Gets/sets ocsp settings."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.forms/signature/ocspsettings/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Signature.OcspSettings property
 

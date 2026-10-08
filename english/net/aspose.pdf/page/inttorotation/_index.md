@@ -7,7 +7,7 @@ description: "Page method. Translates integer value into corresponding rotation 
 type: docs
 weight: 150
 url: "/net/aspose.pdf/page/inttorotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.IntToRotation method
 
@@ -27,7 +27,7 @@ Rotation enumeration member
 
 ### See Also
 
-* enum [Rotation](../../../aspose.pdf/rotation/)
+* enum [Rotation](../../rotation/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

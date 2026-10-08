@@ -7,30 +7,9 @@ description: "Form method. Adds field on the form."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/form/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Add([Field](../../../aspose.pdf.forms/field/)) {#add}
-
-Adds field on the form.
-
-```csharp
-public void Add(Field field)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| field | Field | Field which must be added. |
-
-### See Also
-
-* class [Field](../../../aspose.pdf.forms/field/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Add([Field](../../../aspose.pdf.forms/field/), int) {#add_1}
+## Add(Field, int) {#add}
 
 Adds field on the form.
 
@@ -45,14 +24,35 @@ public void Add(Field field, int pageNumber)
 
 ### See Also
 
-* class [Field](../../../aspose.pdf.forms/field/)
+* class [Field](../../field/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add([Field](../../../aspose.pdf.forms/field/), string, int) {#add_2}
+## Add(Field) {#add_1}
+
+Adds field on the form.
+
+```csharp
+public void Add(Field field)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| field | Field | Field which must be added. |
+
+### See Also
+
+* class [Field](../../field/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Add(Field, string, int) {#add_2}
 
 Adds new field to the form; If this field is already placed on other or this form, the copy of field is created.
 
@@ -72,7 +72,7 @@ Added field returned. If copy of the field was created it will be returned.
 
 ### See Also
 
-* class [Field](../../../aspose.pdf.forms/field/)
+* class [Field](../../field/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

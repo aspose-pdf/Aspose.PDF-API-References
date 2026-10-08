@@ -7,7 +7,7 @@ description: "FormEditor property. Sets options for combo box with export values
 type: docs
 weight: 380
 url: "/net/aspose.pdf.facades/formeditor/exportitems/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.ExportItems property
 

@@ -7,7 +7,7 @@ description: "OperatorCollection method. Returns text representation of the oper
 type: docs
 weight: 140
 url: "/net/aspose.pdf/operatorcollection/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OperatorCollection.ToString method
 

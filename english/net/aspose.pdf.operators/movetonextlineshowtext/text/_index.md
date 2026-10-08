@@ -7,7 +7,7 @@ description: "MoveToNextLineShowText property. Gets operator text."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/movetonextlineshowtext/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MoveToNextLineShowText.Text property
 

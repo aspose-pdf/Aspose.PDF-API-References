@@ -7,9 +7,9 @@ description: "EmbeddedFileCollection method. Adds embedded file specification in
 type: docs
 weight: 30
 url: "/net/aspose.pdf/embeddedfilecollection/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Add([FileSpecification](../../../aspose.pdf/filespecification/)) {#add}
+## Add(FileSpecification) {#add}
 
 Adds embedded file specification into collection.
 
@@ -23,14 +23,14 @@ public void Add(FileSpecification file)
 
 ### See Also
 
-* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [FileSpecification](../../filespecification/)
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(string, [FileSpecification](../../../aspose.pdf/filespecification/)) {#add_1}
+## Add(string, FileSpecification) {#add_1}
 
 Adds file to embedded files with the specified key.
 
@@ -45,7 +45,7 @@ public void Add(string key, FileSpecification file)
 
 ### See Also
 
-* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [FileSpecification](../../filespecification/)
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

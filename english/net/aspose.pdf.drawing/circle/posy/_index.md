@@ -7,7 +7,7 @@ description: "Circle property. Gets or sets a float value that indicates the y-c
 type: docs
 weight: 40
 url: "/net/aspose.pdf.drawing/circle/posy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Circle.PosY property
 

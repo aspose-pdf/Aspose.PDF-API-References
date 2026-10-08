@@ -7,11 +7,11 @@ description: "EncryptionOptions property. Cryptographic algorithm, see CryptoAlg
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/encryptionoptions/cryptoalgorithm/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EncryptionOptions.CryptoAlgorithm property
 
-Cryptographic algorithm, see `CryptoAlgorithm` for details.
+Cryptographic algorithm, see [`CryptoAlgorithm`](../cryptoalgorithm/) for details.
 
 ```csharp
 public CryptoAlgorithm CryptoAlgorithm { get; set; }

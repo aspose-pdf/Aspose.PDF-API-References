@@ -8,7 +8,7 @@ type: docs
 weight: 340
 url: "/net/aspose.pdf.operators/glyphposition/"
 keywords: "GlyphPosition, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GlyphPosition class
 
@@ -22,15 +22,15 @@ public class GlyphPosition
 
 | Name | Description |
 | --- | --- |
-| [GlyphPosition](./glyphposition/#constructor)(string) | Constructor for Glyph Position. |
-| [GlyphPosition](./glyphposition/#constructor_1)(string, double) | Constructs glyph position. |
+| [GlyphPosition](glyphposition/#constructor)(string, double) | Constructs glyph position. |
+| [GlyphPosition](glyphposition/#constructor_1)(string) | Constructor for Glyph Position. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Position](./position/) { get; } | Position off the text in the operator. |
-| [Text](./text/) { get; } | Text of operator. |
+| [Position](../../aspose.pdf.operators/glyphposition/position/) { get; } | Position off the text in the operator. |
+| [Text](../../aspose.pdf.operators/glyphposition/text/) { get; } | Text of operator. |
 
 ### See Also
 

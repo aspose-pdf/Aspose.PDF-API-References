@@ -7,7 +7,7 @@ description: "FileDataSource property. Type of data source (file)."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/filedatasource/datatype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileDataSource.DataType property
 
@@ -19,7 +19,7 @@ public DataType DataType { get; }
 
 ### See Also
 
-* enum [DataType](../../../aspose.pdf.lowcode/datatype/)
+* enum [DataType](../../datatype/)
 * class [FileDataSource](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

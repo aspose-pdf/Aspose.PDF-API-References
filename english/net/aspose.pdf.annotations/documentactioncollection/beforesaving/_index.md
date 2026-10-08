@@ -7,7 +7,7 @@ description: "DocumentActionCollection property. Gets or sets action performed b
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/documentactioncollection/beforesaving/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentActionCollection.BeforeSaving property
 
@@ -19,7 +19,7 @@ public PdfAction BeforeSaving { get; set; }
 
 ### See Also
 
-* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [PdfAction](../../pdfaction/)
 * class [DocumentActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

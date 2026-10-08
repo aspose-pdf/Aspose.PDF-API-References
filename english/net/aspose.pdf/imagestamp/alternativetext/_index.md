@@ -7,7 +7,7 @@ description: "ImageStamp property. Gets or sets Alternative Text for image stamp
 type: docs
 weight: 100
 url: "/net/aspose.pdf/imagestamp/alternativetext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageStamp.AlternativeText property
 

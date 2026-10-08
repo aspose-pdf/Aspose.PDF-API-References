@@ -7,7 +7,7 @@ description: "TextState property. Gets or sets rendering mode of text."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.text/textstate/renderingmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextState.RenderingMode property
 
@@ -19,7 +19,7 @@ public virtual TextRenderingMode RenderingMode { get; set; }
 
 ### See Also
 
-* enum [TextRenderingMode](../../../aspose.pdf.text/textrenderingmode/)
+* enum [TextRenderingMode](../../textrenderingmode/)
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

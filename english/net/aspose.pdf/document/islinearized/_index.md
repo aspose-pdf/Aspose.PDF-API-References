@@ -7,7 +7,7 @@ description: "Document property. Gets or sets a value indicating whether documen
 type: docs
 weight: 1500
 url: "/net/aspose.pdf/document/islinearized/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.IsLinearized property
 

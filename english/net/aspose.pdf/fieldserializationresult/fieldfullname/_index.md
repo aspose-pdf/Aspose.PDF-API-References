@@ -7,7 +7,7 @@ description: "FieldSerializationResult property. Gets the full name of the field
 type: docs
 weight: 20
 url: "/net/aspose.pdf/fieldserializationresult/fieldfullname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FieldSerializationResult.FieldFullName property
 

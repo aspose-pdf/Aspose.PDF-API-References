@@ -7,7 +7,7 @@ description: "BackgroundArtifact property. Gets or sets bacground color of backg
 type: docs
 weight: 20
 url: "/net/aspose.pdf/backgroundartifact/backgroundcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BackgroundArtifact.BackgroundColor property
 
@@ -19,7 +19,7 @@ public Color BackgroundColor { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
+* class [Color](../../color/)
 * class [BackgroundArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

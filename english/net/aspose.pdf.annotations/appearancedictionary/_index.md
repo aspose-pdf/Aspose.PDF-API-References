@@ -8,7 +8,7 @@ type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/appearancedictionary/"
 keywords: "AppearanceDictionary, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AppearanceDictionary class
 
@@ -22,33 +22,34 @@ public sealed class AppearanceDictionary : IDictionary<string, XForm>
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Gets the number of elements contained in the dictionary. |
-| [IsFixedSize](./isfixedsize/) { get; } | Gets a value indicating whether dictionary has a fixed size. |
-| [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether dictionary is read-only. |
-| [IsSynchronized](./issynchronized/) { get; } | Gets a value indicating whether access to the dictionary is synchronized (thread safe). |
-| [Item](./item/) { get; set; } | Represents convenient form for getting appearance streams. |
-| [Keys](./keys/) { get; } | Gets keys of the dictionary. If appearance dictionary has subditionaries, then `Keys` contains (N|R|D).state values, where N - normal appearance, R - rollover appearance, D - down appearance and state - the name of the state (e.g. On, Off for checkboxes). |
-| [SyncRoot](./syncroot/) { get; } | Gets an object that can be used to synchronize access to the dictionary. |
-| [Values](./values/) { get; } | Gets the list of the dictionary values. Result collection contains the list of XForm objects. |
+| [Count](../../aspose.pdf.annotations/appearancedictionary/count/) { get; } | Gets the number of elements contained in the dictionary. |
+| [IsFixedSize](../../aspose.pdf.annotations/appearancedictionary/isfixedsize/) { get; } | Gets a value indicating whether dictionary has a fixed size. |
+| [IsReadOnly](../../aspose.pdf.annotations/appearancedictionary/isreadonly/) { get; } | Gets a value indicating whether dictionary is read-only. |
+| [IsSynchronized](../../aspose.pdf.annotations/appearancedictionary/issynchronized/) { get; } | Gets a value indicating whether access to the dictionary is synchronized (thread safe). |
+| [Item](../../aspose.pdf.annotations/appearancedictionary/item/) { get; set; } | Represents convenient form for getting appearance streams. |
+| [Keys](../../aspose.pdf.annotations/appearancedictionary/keys/) { get; } | Gets keys of the dictionary. If appearance dictionary has subditionaries, then [`Keys`](./keys/) contains (N&#x7C;R&#x7C;D).state values, where N - normal appearance, R - rollover appearance, D - down appearance and state - the name of the state (e.g. On, Off for checkboxes). |
+| [SyncRoot](../../aspose.pdf.annotations/appearancedictionary/syncroot/) { get; } | Gets an object that can be used to synchronize access to the dictionary. |
+| [Values](../../aspose.pdf.annotations/appearancedictionary/values/) { get; } | Gets the list of the dictionary values. Result collection contains the list of XForm objects. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(KeyValuePair<string, XForm>) | Adds pair with key and value into the dictionary. |
-| [Add](./add/)(string, XForm) | Add X form for specifed key. |
-| [Clear](./clear/)() | Removes all elements from the dictionary. |
-| [Contains](./contains/)(KeyValuePair<string, XForm>) | Checks does specified key-value pair is contained in the dictionary. |
-| [ContainsKey](./containskey/)(string) | Determines does this dictionary contasins specified key. |
-| [CopyTo](./copyto/)(KeyValuePair<string, XForm>[], int) |  |
-| [CopyTo](./copyto/)(XForm[], int) | Copies the elements of the dictionary to an Array, starting at a particular Array index. |
-| [GetEnumerator](./getenumerator/)() | Returns an IDictionaryEnumerator object for the dictionary. |
-| [Remove](./remove/)(KeyValuePair<string, XForm>) | Removes key/value pair from the collection. |
-| [Remove](./remove/)(string) | Removes key from the dictionary. |
-| [TryGetValue](./trygetvalue/)(string, out XForm) | Tries to find key in the dictionary and retreives value if found. |
+| [Add](../../aspose.pdf.annotations/appearancedictionary/add/#add)(string, XForm) | Add X form for specifed key. |
+| [Add](../../aspose.pdf.annotations/appearancedictionary/add/#add_1)(KeyValuePair&lt;string, XForm&gt;) | Adds pair with key and value into the dictionary. |
+| [Clear](../../aspose.pdf.annotations/appearancedictionary/clear/)() | Removes all elements from the dictionary. |
+| [Contains](../../aspose.pdf.annotations/appearancedictionary/contains/)(KeyValuePair&lt;string, XForm&gt;) | Checks does specified key-value pair is contained in the dictionary. |
+| [ContainsKey](../../aspose.pdf.annotations/appearancedictionary/containskey/)(string) | Determines does this dictionary contasins specified key. |
+| [CopyTo](../../aspose.pdf.annotations/appearancedictionary/copyto/#copyto)(XForm[], int) | Copies the elements of the dictionary to an Array, starting at a particular Array index. |
+| [CopyTo](../../aspose.pdf.annotations/appearancedictionary/copyto/#copyto_1)(KeyValuePair&lt;string, XForm&gt;[], int) |  |
+| [GetEnumerator](../../aspose.pdf.annotations/appearancedictionary/getenumerator/)() | Returns an IDictionaryEnumerator object for the dictionary. |
+| [Remove](../../aspose.pdf.annotations/appearancedictionary/remove/#remove)(string) | Removes key from the dictionary. |
+| [Remove](../../aspose.pdf.annotations/appearancedictionary/remove/#remove_1)(KeyValuePair&lt;string, XForm&gt;) | Removes key/value pair from the collection. |
+| [TryGetValue](../../aspose.pdf.annotations/appearancedictionary/trygetvalue/)(string, out XForm) | Tries to find key in the dictionary and retreives value if found. |
 
 ### See Also
 
+* class [XForm](../../aspose.pdf/xform/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
 

@@ -7,7 +7,7 @@ description: "CharInfoCollection property. Gets the CharInfo element at the spec
 type: docs
 weight: 110
 url: "/net/aspose.pdf.text/charinfocollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CharInfoCollection indexer
 
@@ -27,7 +27,7 @@ CharInfo object.
 
 ### See Also
 
-* class [CharInfo](../../../aspose.pdf.text/charinfo/)
+* class [CharInfo](../../charinfo/)
 * class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

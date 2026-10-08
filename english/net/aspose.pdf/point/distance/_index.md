@@ -7,7 +7,7 @@ description: "Point method. Calculates distance between two points."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/point/distance/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Point.Distance method
 
@@ -28,7 +28,7 @@ Distance between two points.
 
 ### See Also
 
-* class [Point](../../../aspose.pdf/point/)
+* class [Point](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

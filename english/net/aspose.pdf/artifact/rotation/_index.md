@@ -7,7 +7,7 @@ description: "Artifact property. Gets or sets artifact rotation angle."
 type: docs
 weight: 300
 url: "/net/aspose.pdf/artifact/rotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.Rotation property
 

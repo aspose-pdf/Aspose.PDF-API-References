@@ -7,7 +7,7 @@ description: "FitExplicitDestination method. Converts the object state into stri
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/fitexplicitdestination/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FitExplicitDestination.ToString method
 

@@ -8,7 +8,7 @@ type: docs
 weight: 900
 url: "/net/aspose.pdf.annotations/pdfactioncollection/"
 keywords: "PdfActionCollection, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfActionCollection class
 
@@ -22,19 +22,20 @@ public class PdfActionCollection : IEnumerable<PdfAction>
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Gets count of actions. |
-| [Item](./item/) { get; } | Gets action by its index. |
+| [Count](../../aspose.pdf.annotations/pdfactioncollection/count/) { get; } | Gets count of actions. |
+| [Item](../../aspose.pdf.annotations/pdfactioncollection/item/) { get; } | Gets action by its index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(PdfAction) | Add action to action list. |
-| [Delete](./delete/)(int) | Remove action by index. |
-| [GetEnumerator](./getenumerator/)() | Gets enumerator. |
+| [Add](../../aspose.pdf.annotations/pdfactioncollection/add/)(PdfAction) | Add action to action list. |
+| [Delete](../../aspose.pdf.annotations/pdfactioncollection/delete/)(int) | Remove action by index. |
+| [GetEnumerator](../../aspose.pdf.annotations/pdfactioncollection/getenumerator/)() | Gets enumerator. |
 
 ### See Also
 
+* class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
 

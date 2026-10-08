@@ -8,7 +8,7 @@ type: docs
 weight: 100
 url: "/net/aspose.pdf.operators/clip/"
 keywords: "Clip, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Clip class
 
@@ -22,7 +22,7 @@ public class Clip : Operator
 
 | Name | Description |
 | --- | --- |
-| [Clip](./clip/)() | Initializes operator. |
+| [Clip](clip/)() | Initializes operator. |
 
 ## Properties
 
@@ -34,9 +34,8 @@ public class Clip : Operator
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Returns text representation of operators. |
+| override [Accept](../../aspose.pdf.operators/clip/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/clip/tostring/)() | Returns text representation of operators. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also

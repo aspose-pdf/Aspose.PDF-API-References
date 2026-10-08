@@ -7,7 +7,7 @@ description: "BoundsCheckableList method. Adds an object to the end of the Syste
 type: docs
 weight: 30
 url: "/net/aspose.pdf/boundscheckablelist-1/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BoundsCheckableList<T>.Add method
 
@@ -23,7 +23,7 @@ public void Add(T item)
 
 ### See Also
 
-* class [BoundsCheckableList<T>](../)
+* class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

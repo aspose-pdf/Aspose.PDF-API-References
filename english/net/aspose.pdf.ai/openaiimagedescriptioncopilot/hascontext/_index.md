@@ -7,7 +7,7 @@ description: "OpenAIImageDescriptionCopilot property."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilot/hascontext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIImageDescriptionCopilot.HasContext property
 

@@ -7,7 +7,7 @@ description: "PDF3DRenderMode method. Gets the color of the face."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/pdf3drendermode/getfacecolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DRenderMode.GetFaceColor method
 

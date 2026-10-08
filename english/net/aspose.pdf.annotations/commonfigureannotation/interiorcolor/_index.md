@@ -7,7 +7,7 @@ description: "CommonFigureAnnotation property. Interior color with which to fill
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/commonfigureannotation/interiorcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CommonFigureAnnotation.InteriorColor property
 

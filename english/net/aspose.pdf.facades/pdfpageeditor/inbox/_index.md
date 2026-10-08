@@ -7,7 +7,7 @@ description: "PdfPageEditor field. Inward Box"
 type: docs
 weight: 270
 url: "/net/aspose.pdf.facades/pdfpageeditor/inbox/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.INBOX field
 

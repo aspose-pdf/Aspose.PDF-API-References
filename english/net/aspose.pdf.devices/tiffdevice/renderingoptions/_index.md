@@ -7,7 +7,7 @@ description: "TiffDevice property. Gets or sets rendering options."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.devices/tiffdevice/renderingoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TiffDevice.RenderingOptions property
 

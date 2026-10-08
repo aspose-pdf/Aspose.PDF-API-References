@@ -7,7 +7,7 @@ description: "TextStyle method. String representation of TextStyle."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/textstyle/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStyle.ToString method
 

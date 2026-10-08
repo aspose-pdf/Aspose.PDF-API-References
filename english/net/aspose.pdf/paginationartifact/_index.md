@@ -8,7 +8,7 @@ type: docs
 weight: 2290
 url: "/net/aspose.pdf/paginationartifact/"
 keywords: "PaginationArtifact, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaginationArtifact class
 
@@ -28,7 +28,7 @@ public abstract class PaginationArtifact : Artifact
 | [Contents](../../aspose.pdf/artifact/contents/) { get; } | Gets collection of artifact internal operators. |
 | [CustomSubtype](../../aspose.pdf/artifact/customsubtype/) { get; set; } | Gets name of artifact subtype. May be used if artifact subtype is not standard subtype. |
 | [CustomType](../../aspose.pdf/artifact/customtype/) { get; set; } | Gets name of artifact type. May be used if artifact type is non standard. |
-| [EndPage](./endpage/) { get; set; } | Gets or sets the ending page number for the artifact. The value must be greater than or equal to 0. If a value less than 0 is set, it will be adjusted to 0. The default value of 0 means there are no end page boundaries. |
+| [EndPage](../../aspose.pdf/paginationartifact/endpage/) { get; set; } | Gets or sets the ending page number for the artifact. The value must be greater than or equal to 0. If a value less than 0 is set, it will be adjusted to 0. The default value of 0 means there are no end page boundaries. |
 | [Form](../../aspose.pdf/artifact/form/) { get; } | Gets XForm of the artifact (if XForm is used). |
 | [Image](../../aspose.pdf/artifact/image/) { get; } | Gets image of the artifact (if presents). |
 | [IsBackground](../../aspose.pdf/artifact/isbackground/) { get; set; } | If true Artifact is placed behind page contents. |
@@ -39,8 +39,8 @@ public abstract class PaginationArtifact : Artifact
 | [Rectangle](../../aspose.pdf/artifact/rectangle/) { get; } | Gets rectangle of the artifact. |
 | [RightMargin](../../aspose.pdf/artifact/rightmargin/) { get; set; } | Right margin of artifact. If position is specified explicitly (in Position property) this value is ignored. |
 | [Rotation](../../aspose.pdf/artifact/rotation/) { get; set; } | Gets or sets artifact rotation angle. |
-| [StartPage](./startpage/) { get; set; } | Gets or sets the starting page number for the artifact. The value must be greater than or equal to 1. If a value less than 1 is set, it will be adjusted to 1. |
-| [Subset](./subset/) { get; set; } | Gets or sets the subset of pages to which the artifact applies (e.g., all pages, even pages, odd pages). |
+| [StartPage](../../aspose.pdf/paginationartifact/startpage/) { get; set; } | Gets or sets the starting page number for the artifact. The value must be greater than or equal to 1. If a value less than 1 is set, it will be adjusted to 1. |
+| [Subset](../../aspose.pdf/paginationartifact/subset/) { get; set; } | Gets or sets the subset of pages to which the artifact applies (e.g., all pages, even pages, odd pages). |
 | [Subtype](../../aspose.pdf/artifact/subtype/) { get; set; } | Gets artifact subtype. If artifact has non-standard subtype, name of the subtype may be read via CustomSubtype. |
 | [Text](../../aspose.pdf/artifact/text/) { get; set; } | Gets text of the artifact. |
 | [TextState](../../aspose.pdf/artifact/textstate/) { get; set; } | Text state for artifact text. |
@@ -57,6 +57,7 @@ public abstract class PaginationArtifact : Artifact
 | [RemoveValue](../../aspose.pdf/artifact/removevalue/)(string) | Remove custom value from the artifact. |
 | [SaveUpdates](../../aspose.pdf/artifact/saveupdates/)() | Saves all updates in artifact which were made after BeginUpdates() call. |
 | [SetImage](../../aspose.pdf/artifact/setimage/)(Stream) | Sets image of the artifact. |
+| [SetImage](../../aspose.pdf/artifact/setimage/)(string) | Sets image of the artifact. |
 | [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate/)(string[], TextState) | Set text and text properties of the artifact. Allows to specify multiple lines. |
 | [SetPageNumberReplacementString](../../aspose.pdf/artifact/setpagenumberreplacementstring/)(string) | Sets what string will be replaced with the page number. The default value is #. |
 | [SetPdfPage](../../aspose.pdf/artifact/setpdfpage/)(Page) | Sets PDF page which is placed on the document page as artifact. |

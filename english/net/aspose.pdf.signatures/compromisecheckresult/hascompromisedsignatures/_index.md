@@ -7,7 +7,7 @@ description: "CompromiseCheckResult property. Indicates whether there are any co
 type: docs
 weight: 10
 url: "/net/aspose.pdf.signatures/compromisecheckresult/hascompromisedsignatures/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompromiseCheckResult.HasCompromisedSignatures property
 

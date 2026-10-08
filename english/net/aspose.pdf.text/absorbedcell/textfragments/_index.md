@@ -7,11 +7,11 @@ description: "AbsorbedCell property. Gets collection of TextFragment objects tha
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/absorbedcell/textfragments/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AbsorbedCell.TextFragments property
 
-Gets collection of [`TextFragment`](../../../aspose.pdf.text/textfragment/) objects that describes text containing in the cell
+Gets collection of [`TextFragment`](../../textfragment/) objects that describes text containing in the cell
 
 ```csharp
 public TextFragmentCollection TextFragments { get; }
@@ -19,7 +19,7 @@ public TextFragmentCollection TextFragments { get; }
 
 ### See Also
 
-* class [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
+* class [TextFragmentCollection](../../textfragmentcollection/)
 * class [AbsorbedCell](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "AttributeName property. Gets name value of attribute."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/attributename/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.Name property
 

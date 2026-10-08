@@ -7,7 +7,7 @@ description: "ActionCollection property. Count of actions on the collection."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/actioncollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ActionCollection.Count property
 

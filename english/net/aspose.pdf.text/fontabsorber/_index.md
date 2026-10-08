@@ -8,12 +8,12 @@ type: docs
 weight: 130
 url: "/net/aspose.pdf.text/fontabsorber/"
 keywords: "FontAbsorber, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontAbsorber class
 
 Represents an absorber object of fonts.
- Performs search for fonts and provides access to search results via `Fonts` collection.
+ Performs search for fonts and provides access to search results via [`Fonts`](./fonts/) collection.
 
 ```csharp
 public class FontAbsorber
@@ -23,20 +23,20 @@ public class FontAbsorber
 
 | Name | Description |
 | --- | --- |
-| [FontAbsorber](./fontabsorber/)() | The default constructor. |
+| [FontAbsorber](fontabsorber/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Fonts](./fonts/) { get; } | Gets collection of search occurrences that are presented with [`Font`](../../aspose.pdf.text/font/) objects. |
+| [Fonts](../../aspose.pdf.text/fontabsorber/fonts/) { get; } | Gets collection of search occurrences that are presented with [`Font`](../font/) objects. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Visit](./visit/)(Document) | Performs search on the specified document. |
-| virtual [Visit](./visit/)(Document, int, int) | Performs search in the specified range of pages of the document. |
+| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit)(Document, int, int) | Performs search in the specified range of pages of the document. |
+| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit_1)(Document) | Performs search on the specified document. |
 
 ### See Also
 

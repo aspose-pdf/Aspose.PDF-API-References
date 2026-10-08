@@ -7,7 +7,7 @@ description: "SetCharWidthBoundingBox property. Lower-left horizontal coordinate
 type: docs
 weight: 60
 url: "/net/aspose.pdf.operators/setcharwidthboundingbox/llx/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCharWidthBoundingBox.Llx property
 

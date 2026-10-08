@@ -7,7 +7,7 @@ description: "XForm property. Gets form Subtype."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/xform/subtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XForm.Subtype property
 

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Devices.ShapeType enum. This enum represents shape type
 type: docs
 weight: 170
 url: "/net/aspose.pdf.devices/shapetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ShapeType enumeration
 

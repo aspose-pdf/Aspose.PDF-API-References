@@ -7,7 +7,7 @@ description: "AttributeKey property. Get Attribute Owner."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/attributekey/owner/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.Owner property
 
@@ -23,7 +23,7 @@ Attribute Owner.
 
 ### See Also
 
-* class [AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

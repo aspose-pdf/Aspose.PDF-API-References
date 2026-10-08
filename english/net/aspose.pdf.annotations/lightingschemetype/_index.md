@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.LightingSchemeType enum. Enum LightingSchem
 type: docs
 weight: 590
 url: "/net/aspose.pdf.annotations/lightingschemetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LightingSchemeType enumeration
 

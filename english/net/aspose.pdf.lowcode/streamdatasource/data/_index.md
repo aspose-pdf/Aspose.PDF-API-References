@@ -7,7 +7,7 @@ description: "StreamDataSource property. Gets the stream object of the current d
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/streamdatasource/data/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StreamDataSource.Data property
 

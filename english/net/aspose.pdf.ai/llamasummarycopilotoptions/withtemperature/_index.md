@@ -7,7 +7,7 @@ description: "LlamaSummaryCopilotOptions method. Sets the temperature for the su
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/withtemperature/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaSummaryCopilotOptions.WithTemperature method
 
@@ -23,11 +23,11 @@ public LlamaSummaryCopilotOptions WithTemperature(double? temperature)
 
 ### Return Value
 
-The current instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
+The current instance of [`LlamaSummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

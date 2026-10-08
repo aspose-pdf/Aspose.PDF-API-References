@@ -7,7 +7,7 @@ description: "SetCMYKColorStroke property. Gets or sets the black component."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.operators/setcmykcolorstroke/k/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCMYKColorStroke.K property
 

@@ -7,7 +7,7 @@ description: "AssistantCreateRequest property. Gets or sets ID of the model to u
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/assistantcreaterequest/model/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantCreateRequest.Model property
 

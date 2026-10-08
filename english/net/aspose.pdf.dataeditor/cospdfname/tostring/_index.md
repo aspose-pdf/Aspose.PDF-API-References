@@ -7,11 +7,11 @@ description: "CosPdfName method. Returns a String that represents the current Co
 type: docs
 weight: 30
 url: "/net/aspose.pdf.dataeditor/cospdfname/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfName.ToString method
 
-Returns a `String` that represents the current [`CosPdfName`](../../../aspose.pdf.dataeditor/cospdfname/).
+Returns a `String` that represents the current [`CosPdfName`](../).
 
 ```csharp
 public override string ToString()
@@ -19,7 +19,7 @@ public override string ToString()
 
 ### Return Value
 
-A `String` that represents the current [`CosPdfName`](../../../aspose.pdf.dataeditor/cospdfname/).
+A `String` that represents the current [`CosPdfName`](../).
 
 ### See Also
 

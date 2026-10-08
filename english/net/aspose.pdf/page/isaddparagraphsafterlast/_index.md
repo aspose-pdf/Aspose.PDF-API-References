@@ -7,7 +7,7 @@ description: "Page property. Gets or sets the addition of paragraphs after the l
 type: docs
 weight: 350
 url: "/net/aspose.pdf/page/isaddparagraphsafterlast/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.IsAddParagraphsAfterLast property
 

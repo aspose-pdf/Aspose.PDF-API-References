@@ -7,7 +7,7 @@ description: "You can assign to this property delegate created from custom metho
 type: docs
 weight: 1220
 url: "/net/aspose.pdf/htmlsaveoptions.cssurlmakingstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.CssUrlMakingStrategy delegate
 
@@ -29,6 +29,7 @@ must return string that represents CSS's URL or URL's template
 
 ### See Also
 
+* class [CssUrlRequestInfo](../htmlsaveoptions.cssurlrequestinfo/)
 * class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)

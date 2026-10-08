@@ -7,7 +7,7 @@ description: "FormFieldFacade field. Defines vertical aglignment as middle style
 type: docs
 weight: 370
 url: "/net/aspose.pdf.facades/formfieldfacade/alignmiddle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.AlignMiddle field
 

@@ -7,7 +7,7 @@ description: "PdfFileInfo method. Gets the PDF document privilege settings."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/pdffileinfo/getdocumentprivilege/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.GetDocumentPrivilege method
 
@@ -23,7 +23,7 @@ The PDF document privilege settings.
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../../documentprivilege/)
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Table method. Get height."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/table/getheight/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.GetHeight method
 
@@ -27,7 +27,7 @@ The table height.
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

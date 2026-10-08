@@ -7,7 +7,7 @@ description: "FileAttachmentAnnotation property. Gets or sets icon that shall be
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/fileattachmentannotation/icon/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileAttachmentAnnotation.Icon property
 
@@ -19,7 +19,7 @@ public FileIcon Icon { get; set; }
 
 ### See Also
 
-* enum [FileIcon](../../../aspose.pdf.annotations/fileicon/)
+* enum [FileIcon](../../fileicon/)
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

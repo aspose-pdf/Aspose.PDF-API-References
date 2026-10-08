@@ -7,7 +7,7 @@ description: "CreateChatCompletionChunkResponse property. Gets or sets the Unix 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/createchatcompletionchunkresponse/created/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateChatCompletionChunkResponse.Created property
 

@@ -7,7 +7,7 @@ description: "Image property. Gets or sets uncompressed image bytes."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/image/bitmapinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Image.BitmapInfo property
 
@@ -19,7 +19,7 @@ public BitmapInfo BitmapInfo { get; set; }
 
 ### See Also
 
-* class [BitmapInfo](../../../aspose.pdf/bitmapinfo/)
+* class [BitmapInfo](../../bitmapinfo/)
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

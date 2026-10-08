@@ -8,7 +8,7 @@ type: docs
 weight: 130
 url: "/net/aspose.pdf.devices/margins/"
 keywords: "Margins, Aspose.Pdf.Devices, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Margins class
 
@@ -22,17 +22,17 @@ public sealed class Margins
 
 | Name | Description |
 | --- | --- |
-| [Margins](./margins/#constructor)() | Initializes a new instance of the [`Margins`](../../aspose.pdf.devices/margins/) class. |
-| [Margins](./margins/#constructor_1)(int, int, int, int) | Initializes a new instance of the [`Margins`](../../aspose.pdf.devices/margins/) class. |
+| [Margins](margins/#constructor)(int, int, int, int) | Initializes a new instance of the `Margins` class. |
+| [Margins](margins/#constructor_1)() | Initializes a new instance of the `Margins` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Bottom](./bottom/) { get; set; } | Gets or sets the bottom. |
-| [Left](./left/) { get; set; } | Gets or sets the left. |
-| [Right](./right/) { get; set; } | Gets or sets the right. |
-| [Top](./top/) { get; set; } | Gets or sets the top. |
+| [Bottom](../../aspose.pdf.devices/margins/bottom/) { get; set; } | Gets or sets the bottom. |
+| [Left](../../aspose.pdf.devices/margins/left/) { get; set; } | Gets or sets the left. |
+| [Right](../../aspose.pdf.devices/margins/right/) { get; set; } | Gets or sets the right. |
+| [Top](../../aspose.pdf.devices/margins/top/) { get; set; } | Gets or sets the top. |
 
 ### See Also
 

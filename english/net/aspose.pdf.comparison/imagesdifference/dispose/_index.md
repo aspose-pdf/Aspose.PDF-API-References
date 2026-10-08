@@ -7,7 +7,7 @@ description: "ImagesDifference method. Performs any necessary clean up operation
 type: docs
 weight: 30
 url: "/net/aspose.pdf.comparison/imagesdifference/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagesDifference.Dispose method
 

@@ -7,7 +7,7 @@ description: "SetCMYKColorStroke property. Gets or sets the yellow component."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.operators/setcmykcolorstroke/y/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCMYKColorStroke.Y property
 

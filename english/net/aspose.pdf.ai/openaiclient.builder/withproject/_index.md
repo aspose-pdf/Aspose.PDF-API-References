@@ -7,7 +7,7 @@ description: "Builder method. Sets the project ID for the client."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/openaiclient.builder/withproject/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIClient.Builder.WithProject method
 
@@ -23,11 +23,11 @@ public Builder WithProject(string projectId)
 
 ### Return Value
 
-The current instance of `Builder`.
+The current instance of [`Builder`](../../openaiclient.builder/).
 
 ### See Also
 
-* class [OpenAIClient.Builder](../)
+* class [Builder](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Facades.PositioningMode enum. Defines positioning mode.
 type: docs
 weight: 530
 url: "/net/aspose.pdf.facades/positioningmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PositioningMode enumeration
 
@@ -24,8 +24,7 @@ public enum PositioningMode
 | Name | Value | Description |
 | --- | --- | --- |
 | Legacy | `0` | Legacy text positioning |
-| ModernLineSpacing | `1` | Updated line spacing, vertical position calculation is done by the old rules 
- (i.e. text is positioned relative to bottom-left corner of the specified rectangle) |
+| ModernLineSpacing | `1` | Updated line spacing, vertical position calculation is done by the old rules (i.e. text is positioned relative to bottom-left corner of the specified rectangle) |
 | Current | `2` | Updated line spacing and vertical position calculation is done based on left-top corner rather than left-bottom. |
 
 ### See Also

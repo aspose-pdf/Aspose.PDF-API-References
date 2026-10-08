@@ -7,7 +7,7 @@ description: "PageSettings property. Gets or sets the associated printer setting
 type: docs
 weight: 120
 url: "/net/aspose.pdf.printing/pagesettings/printersettings/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageSettings.PrinterSettings property
 
@@ -19,7 +19,7 @@ public PrinterSettings PrinterSettings { get; set; }
 
 ### See Also
 
-* class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
+* class [PrinterSettings](../../printersettings/)
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

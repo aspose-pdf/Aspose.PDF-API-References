@@ -7,7 +7,7 @@ description: "Document property. Gets the collection of destinations. Obsolete. 
 type: docs
 weight: 1180
 url: "/net/aspose.pdf/document/destinations/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.Destinations property
 
@@ -20,7 +20,7 @@ public DestinationCollection Destinations { get; }
 
 ### See Also
 
-* class [DestinationCollection](../../../aspose.pdf/destinationcollection/)
+* class [DestinationCollection](../../destinationcollection/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

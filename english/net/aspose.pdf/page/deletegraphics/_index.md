@@ -7,12 +7,12 @@ description: "Page method. Deletes graphics from the page. Works faster than del
 type: docs
 weight: 50
 url: "/net/aspose.pdf/page/deletegraphics/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.DeleteGraphics method
 
 Deletes graphics from the page.
- Works faster than deleting elements one by one with `Remove` method.
+ Works faster than deleting elements one by one with [`Remove`](../../../aspose.pdf.vector/graphicelement/remove/) method.
 
 ```csharp
 public void DeleteGraphics(GraphicElementCollection elementsToDelete)

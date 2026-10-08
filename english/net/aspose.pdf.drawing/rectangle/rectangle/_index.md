@@ -7,11 +7,11 @@ description: "Rectangle constructor. Initializes a new instance of the Rectangle
 type: docs
 weight: 10
 url: "/net/aspose.pdf.drawing/rectangle/rectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle constructor
 
-Initializes a new instance of the [`Rectangle`](../../../aspose.pdf.drawing/rectangle/) class.
+Initializes a new instance of the [`Rectangle`](../) class.
 
 ```csharp
 public Rectangle(float left, float bottom, float width, float height)

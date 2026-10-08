@@ -7,7 +7,7 @@ description: "Document method. Convert page to PNG for DSR, OMR, OCR image strea
 type: docs
 weight: 430
 url: "/net/aspose.pdf/document/convertpagetopngmemorystream/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.ConvertPageToPNGMemoryStream method
 
@@ -27,7 +27,7 @@ Image stream.
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

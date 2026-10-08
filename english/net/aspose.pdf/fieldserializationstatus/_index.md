@@ -7,7 +7,7 @@ description: "Aspose.Pdf.FieldSerializationStatus enum. Represents the status of
 type: docs
 weight: 850
 url: "/net/aspose.pdf/fieldserializationstatus/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FieldSerializationStatus enumeration
 

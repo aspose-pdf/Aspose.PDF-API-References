@@ -7,7 +7,7 @@ description: "TextExtractionError property. Location of the error."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/textextractionerror/location/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextExtractionError.Location property
 
@@ -19,7 +19,7 @@ public TextExtractionErrorLocation Location { get; }
 
 ### See Also
 
-* class [TextExtractionErrorLocation](../../../aspose.pdf.text/textextractionerrorlocation/)
+* class [TextExtractionErrorLocation](../../textextractionerrorlocation/)
 * class [TextExtractionError](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

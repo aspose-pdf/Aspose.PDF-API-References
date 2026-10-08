@@ -7,7 +7,7 @@ description: "Element method. Find Elements of a given type"
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/element/findelements/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Element.FindElements&lt;T&gt; method
 
@@ -15,11 +15,13 @@ Find Elements of a given type
 
 ```csharp
 public List<T> FindElements<T>(bool recursiveSearch = false)
+    where T : Element
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| recursiveSearch | Boolean | (Optional) Recursive Search (default false, search only from direct children) |
+| Parameter | Description |
+| --- | --- |
+| T | Type of Structure Element for search |
+| recursiveSearch | (Optional) Recursive Search (default false, search only from direct children) |
 
 ### Return Value
 

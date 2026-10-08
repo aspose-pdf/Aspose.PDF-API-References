@@ -7,11 +7,11 @@ description: "PdfConverter constructor. Initializes new PdfConverter object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfconverter/pdfconverter/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfConverter() {#constructor}
 
-Initializes new [`PdfConverter`](../../../aspose.pdf.facades/pdfconverter/) object.
+Initializes new [`PdfConverter`](../) object.
 
 ```csharp
 public PdfConverter()
@@ -25,9 +25,9 @@ public PdfConverter()
 
 ---
 
-## PdfConverter([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## PdfConverter(Document) {#constructor_1}
 
-Initializes new [`PdfConverter`](../../../aspose.pdf.facades/pdfconverter/) object on base of the *document*.
+Initializes new [`PdfConverter`](../) object on base of the *document*.
 
 ```csharp
 public PdfConverter(Document document)

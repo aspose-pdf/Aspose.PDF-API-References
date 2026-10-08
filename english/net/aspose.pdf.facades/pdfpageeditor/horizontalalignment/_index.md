@@ -7,7 +7,7 @@ description: "PdfPageEditor property. Gets or sets the horizontal alignment of t
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/pdfpageeditor/horizontalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.HorizontalAlignment property
 

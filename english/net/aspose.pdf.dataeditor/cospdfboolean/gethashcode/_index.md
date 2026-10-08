@@ -7,7 +7,7 @@ description: "CosPdfBoolean method. Get hashcode for current object."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.dataeditor/cospdfboolean/gethashcode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfBoolean.GetHashCode method
 

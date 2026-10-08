@@ -7,7 +7,7 @@ description: "PdfActionCollection method. Gets enumerator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/pdfactioncollection/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfActionCollection.GetEnumerator method
 
@@ -23,6 +23,7 @@ PDfAction enumerator.
 
 ### See Also
 
+* class [PdfAction](../../pdfaction/)
 * class [PdfActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

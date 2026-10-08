@@ -7,7 +7,7 @@ description: "StartEndPageEventArgs field. Gets the number of the page currently
 type: docs
 weight: 20
 url: "/net/aspose.pdf.printing/startendpageeventargs/currentpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StartEndPageEventArgs.CurrentPage field
 

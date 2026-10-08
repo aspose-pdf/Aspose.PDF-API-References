@@ -7,7 +7,7 @@ description: "CurveTo field. Gets or sets the X1 coordinate."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/curveto/x1/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CurveTo.X1 field
 

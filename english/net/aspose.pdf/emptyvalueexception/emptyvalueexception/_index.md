@@ -7,11 +7,11 @@ description: "EmptyValueException constructor. Initializes a new instance of the
 type: docs
 weight: 10
 url: "/net/aspose.pdf/emptyvalueexception/emptyvalueexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EmptyValueException() {#constructor}
 
-Initializes a new instance of the [`EmptyValueException`](../../../aspose.pdf/emptyvalueexception/) class.
+Initializes a new instance of the [`EmptyValueException`](../) class.
 
 ```csharp
 public EmptyValueException()

@@ -7,7 +7,7 @@ description: "Error property. Gets or sets the error message."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/error/message/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Error.Message property
 

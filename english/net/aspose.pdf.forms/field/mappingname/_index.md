@@ -7,7 +7,7 @@ description: "Field property. Gets or sets mapping name of the field that shall 
 type: docs
 weight: 130
 url: "/net/aspose.pdf.forms/field/mappingname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Field.MappingName property
 

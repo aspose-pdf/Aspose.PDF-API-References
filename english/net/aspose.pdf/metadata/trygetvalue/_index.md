@@ -7,7 +7,7 @@ description: "Metadata method. Tries to find key in the dictionary and retreives
 type: docs
 weight: 140
 url: "/net/aspose.pdf/metadata/trygetvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metadata.TryGetValue method
 
@@ -28,7 +28,7 @@ true if key was found.
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../../xmpvalue/)
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

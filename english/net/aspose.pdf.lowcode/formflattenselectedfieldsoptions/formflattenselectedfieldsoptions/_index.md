@@ -7,11 +7,11 @@ description: "FormFlattenSelectedFieldsOptions constructor. Initializes new inst
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formflattenselectedfieldsoptions/formflattenselectedfieldsoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFlattenSelectedFieldsOptions constructor
 
-Initializes new instance of the [`FormFlattenSelectedFieldsOptions`](../../../aspose.pdf.lowcode/formflattenselectedfieldsoptions/) object.
+Initializes new instance of the [`FormFlattenSelectedFieldsOptions`](../) object.
 
 ```csharp
 public FormFlattenSelectedFieldsOptions(SelectField selectField)
@@ -23,7 +23,7 @@ public FormFlattenSelectedFieldsOptions(SelectField selectField)
 
 ### See Also
 
-* delegate [SelectField](../../../aspose.pdf.lowcode/selectfield/)
+* delegate [SelectField](../../selectfield/)
 * class [FormFlattenSelectedFieldsOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

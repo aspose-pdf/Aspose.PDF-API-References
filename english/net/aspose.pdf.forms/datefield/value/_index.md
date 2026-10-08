@@ -7,7 +7,7 @@ description: "DateField property. Gets or sets Date."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.forms/datefield/value/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DateField.Value property
 

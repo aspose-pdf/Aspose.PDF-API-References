@@ -7,7 +7,7 @@ description: "ImageCompressionOptions property. Specifies level of image compres
 type: docs
 weight: 40
 url: "/net/aspose.pdf.optimization/imagecompressionoptions/imagequality/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageCompressionOptions.ImageQuality property
 

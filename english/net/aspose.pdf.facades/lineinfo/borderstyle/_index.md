@@ -7,7 +7,7 @@ description: "LineInfo property. Gets or sets the border style of a line, 0 repr
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/lineinfo/borderstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineInfo.BorderStyle property
 

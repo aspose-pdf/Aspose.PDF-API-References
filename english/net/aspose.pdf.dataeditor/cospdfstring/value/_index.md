@@ -7,7 +7,7 @@ description: "CosPdfString property. Gets the string (ANSII)."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.dataeditor/cospdfstring/value/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfString.Value property
 

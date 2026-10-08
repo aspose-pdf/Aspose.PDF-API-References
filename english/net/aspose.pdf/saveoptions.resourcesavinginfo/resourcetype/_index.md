@@ -7,7 +7,7 @@ description: "ResourceSavingInfo property. Set by converter. Supposed file name 
 type: docs
 weight: 10
 url: "/net/aspose.pdf/saveoptions.resourcesavinginfo/resourcetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.ResourceSavingInfo.ResourceType property
 
@@ -21,7 +21,8 @@ public NodeLevelResourceType ResourceType { get; }
 
 ### See Also
 
-* class [SaveOptions.ResourceSavingInfo](../)
+* enum [NodeLevelResourceType](../../saveoptions.nodelevelresourcetype/)
+* class [ResourceSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

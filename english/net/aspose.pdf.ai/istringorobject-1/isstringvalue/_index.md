@@ -7,7 +7,7 @@ description: "IStringOrObject property. Gets a value indicating whether the resp
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/istringorobject-1/isstringvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IStringOrObject<T>.IsStringValue property
 
@@ -19,7 +19,7 @@ public bool IsStringValue { get; }
 
 ### See Also
 
-* interface [IStringOrObject<T>](../)
+* interface [IStringOrObject&lt;T&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

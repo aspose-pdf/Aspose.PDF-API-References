@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Changes position of the stamp on page."
 type: docs
 weight: 590
 url: "/net/aspose.pdf.facades/pdfcontenteditor/movestampbyid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.MoveStampById method
 

@@ -7,7 +7,7 @@ description: "LineInfo property. Gets or sets the width of a line."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/lineinfo/linewidth/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineInfo.LineWidth property
 

@@ -7,7 +7,7 @@ description: "Matrix3D property. H member of the transformation matrix."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/matrix3d/h/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix3D.H property
 

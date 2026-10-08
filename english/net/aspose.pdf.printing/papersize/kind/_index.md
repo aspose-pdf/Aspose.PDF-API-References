@@ -7,7 +7,7 @@ description: "PaperSize property. Gets the type of paper."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.printing/papersize/kind/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSize.Kind property
 
@@ -19,7 +19,7 @@ public PaperKind Kind { get; }
 
 ### See Also
 
-* enum [PaperKind](../../../aspose.pdf.printing/paperkind/)
+* enum [PaperKind](../../paperkind/)
 * class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "HeaderFooter method. Clones a new object."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/headerfooter/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HeaderFooter.Clone method
 

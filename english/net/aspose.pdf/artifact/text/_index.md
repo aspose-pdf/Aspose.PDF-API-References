@@ -7,7 +7,7 @@ description: "Artifact property. Gets text of the artifact."
 type: docs
 weight: 310
 url: "/net/aspose.pdf/artifact/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.Text property
 

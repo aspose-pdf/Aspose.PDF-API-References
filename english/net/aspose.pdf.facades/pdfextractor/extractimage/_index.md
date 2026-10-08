@@ -7,7 +7,7 @@ description: "PdfExtractor method. Extract images from PDF file."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.facades/pdfextractor/extractimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractor.ExtractImage method
 

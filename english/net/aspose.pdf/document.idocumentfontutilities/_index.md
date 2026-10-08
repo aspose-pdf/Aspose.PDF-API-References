@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Document.IDocumentFontUtilities interface. Holds functi
 type: docs
 weight: 650
 url: "/net/aspose.pdf/document.idocumentfontutilities/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.IDocumentFontUtilities interface
 
@@ -21,8 +21,8 @@ public interface IDocumentFontUtilities
 
 | Name | Description |
 | --- | --- |
-| [GetAllFonts](./getallfonts/)() | Returns all fonts from document |
-| [SubsetFonts](./subsetfonts/)(FontSubsetStrategy) | Subsets all fonts in document |
+| [GetAllFonts](../../aspose.pdf/document.idocumentfontutilities/getallfonts/)() | Returns all fonts from document |
+| [SubsetFonts](../../aspose.pdf/document.idocumentfontutilities/subsetfonts/)(FontSubsetStrategy) | Subsets all fonts in document |
 
 ### See Also
 

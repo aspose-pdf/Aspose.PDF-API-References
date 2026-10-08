@@ -7,7 +7,7 @@ description: "DocumentInfo property. Gets or set the keywords of the document."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/documentinfo/keywords/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentInfo.Keywords property
 

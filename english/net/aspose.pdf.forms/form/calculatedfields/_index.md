@@ -7,7 +7,7 @@ description: "Form property. Allows to set order of field calculation."
 type: docs
 weight: 380
 url: "/net/aspose.pdf.forms/form/calculatedfields/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.CalculatedFields property
 
@@ -19,6 +19,7 @@ public IEnumerable<Field> CalculatedFields { set; }
 
 ### See Also
 
+* class [Field](../../field/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

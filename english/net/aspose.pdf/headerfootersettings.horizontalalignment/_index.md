@@ -8,7 +8,7 @@ type: docs
 weight: 1070
 url: "/net/aspose.pdf/headerfootersettings.horizontalalignment/"
 keywords: "HeaderFooterSettings.HorizontalAlignment, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HeaderFooterSettings.HorizontalAlignment class
 
@@ -22,15 +22,15 @@ public class HorizontalAlignment
 
 | Name | Description |
 | --- | --- |
-| [HorizontalAlignment](./horizontalalignment/)() | The default constructor. |
+| [HorizontalAlignment](horizontalalignment/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Center](./center/) { get; set; } | Gets or sets the center alignment settings. |
-| [Left](./left/) { get; set; } | Gets or sets the left alignment settings. |
-| [Right](./right/) { get; set; } | Gets or sets the right alignment settings. |
+| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center/) { get; set; } | Gets or sets the center alignment settings. |
+| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left/) { get; set; } | Gets or sets the left alignment settings. |
+| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right/) { get; set; } | Gets or sets the right alignment settings. |
 
 ### See Also
 

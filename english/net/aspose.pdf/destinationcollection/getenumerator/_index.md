@@ -7,7 +7,7 @@ description: "DestinationCollection method. Returns the enumerator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/destinationcollection/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DestinationCollection.GetEnumerator method
 

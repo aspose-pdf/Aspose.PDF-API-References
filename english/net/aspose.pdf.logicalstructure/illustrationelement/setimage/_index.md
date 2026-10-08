@@ -7,7 +7,7 @@ description: "IllustrationElement method. Appends image to current illustration 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/illustrationelement/setimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetImage(string, double) {#setimage}
 

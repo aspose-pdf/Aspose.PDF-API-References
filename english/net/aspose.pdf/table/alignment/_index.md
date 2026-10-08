@@ -7,7 +7,7 @@ description: "Table property. Gets or sets the table alignment."
 type: docs
 weight: 250
 url: "/net/aspose.pdf/table/alignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.Alignment property
 
@@ -19,7 +19,7 @@ public HorizontalAlignment Alignment { get; set; }
 
 ### See Also
 
-* enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
+* enum [HorizontalAlignment](../../horizontalalignment/)
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Creates Sound Annotations."
 type: docs
 weight: 520
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createsound/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreateSound method
 
@@ -27,7 +27,6 @@ public void CreateSound(Rectangle rect, string filePath, string name, int page, 
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

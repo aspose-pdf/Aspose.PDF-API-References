@@ -7,7 +7,7 @@ description: "Artifact property. Gets image of the artifact (if presents)."
 type: docs
 weight: 320
 url: "/net/aspose.pdf/artifact/image/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.Image property
 
@@ -19,7 +19,7 @@ public XImage Image { get; }
 
 ### See Also
 
-* class [XImage](../../../aspose.pdf/ximage/)
+* class [XImage](../../ximage/)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

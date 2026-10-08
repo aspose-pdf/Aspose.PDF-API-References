@@ -7,7 +7,7 @@ description: "Artifact property. Top margin of artifact. If position is specifie
 type: docs
 weight: 260
 url: "/net/aspose.pdf/artifact/topmargin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.TopMargin property
 

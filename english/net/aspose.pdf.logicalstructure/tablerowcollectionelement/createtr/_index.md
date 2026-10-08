@@ -7,11 +7,11 @@ description: "TableRowCollectionElement method. Creates TableTRElement and added
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/tablerowcollectionelement/createtr/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableRowCollectionElement.CreateTR method
 
-Creates [`TableTRElement`](../../../aspose.pdf.logicalstructure/tabletrelement/) and added it to current table.
+Creates [`TableTRElement`](../../tabletrelement/) and added it to current table.
 
 ```csharp
 public virtual TableTRElement CreateTR()
@@ -23,7 +23,7 @@ Created structure element.
 
 ### See Also
 
-* class [TableTRElement](../../../aspose.pdf.logicalstructure/tabletrelement/)
+* class [TableTRElement](../../tabletrelement/)
 * class [TableRowCollectionElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

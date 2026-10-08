@@ -8,11 +8,11 @@ type: docs
 weight: 1050
 url: "/net/aspose.pdf.lowcode/tocoptions/"
 keywords: "TocOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TocOptions class
 
-Represents options for add table of contents to document by [`TocGenerator`](../../aspose.pdf.lowcode/tocgenerator/) plugin.
+Represents options for add table of contents to document by [`TocGenerator`](../tocgenerator/) plugin.
 
 ```csharp
 public sealed class TocOptions : PdfGeneratorOptions
@@ -22,7 +22,7 @@ public sealed class TocOptions : PdfGeneratorOptions
 
 | Name | Description |
 | --- | --- |
-| [TocOptions](./tocoptions/)() | The default constructor. |
+| [TocOptions](tocoptions/)() | The default constructor. |
 
 ## Properties
 

@@ -7,7 +7,7 @@ description: "PdfFormatConversionOptions property. Rules to solve problems with 
 type: docs
 weight: 230
 url: "/net/aspose.pdf/pdfformatconversionoptions/unicodeprocessingrules/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.UnicodeProcessingRules property
 
@@ -19,7 +19,7 @@ public ToUnicodeProcessingRules UnicodeProcessingRules { get; set; }
 
 ### See Also
 
-* class [ToUnicodeProcessingRules](../../../aspose.pdf/tounicodeprocessingrules/)
+* class [ToUnicodeProcessingRules](../../tounicodeprocessingrules/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

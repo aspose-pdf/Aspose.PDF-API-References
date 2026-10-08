@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Forms.ScalingReason enum. The circumstances under which
 type: docs
 weight: 320
 url: "/net/aspose.pdf.forms/scalingreason/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ScalingReason enumeration
 

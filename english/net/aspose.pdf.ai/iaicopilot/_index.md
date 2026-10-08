@@ -7,7 +7,7 @@ description: "Aspose.Pdf.AI.IAICopilot interface. Represents a copilot for AI in
 type: docs
 weight: 470
 url: "/net/aspose.pdf.ai/iaicopilot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IAICopilot interface
 
@@ -21,7 +21,7 @@ public interface IAICopilot
 
 | Name | Description |
 | --- | --- |
-| [HasContext](./hascontext/) { get; } | Gets a value indicating whether the copilot has context. |
+| [HasContext](../../aspose.pdf.ai/iaicopilot/hascontext/) { get; } | Gets a value indicating whether the copilot has context. |
 
 ### See Also
 

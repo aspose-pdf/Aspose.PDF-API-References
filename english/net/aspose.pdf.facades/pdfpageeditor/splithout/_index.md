@@ -7,7 +7,7 @@ description: "PdfPageEditor field. Out Horizontal Split"
 type: docs
 weight: 220
 url: "/net/aspose.pdf.facades/pdfpageeditor/splithout/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.SPLITHOUT field
 

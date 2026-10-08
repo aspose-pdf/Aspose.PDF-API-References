@@ -1,5 +1,5 @@
 ---
-title: "PdfFileEditor.ContentsResizeParameters.PdfFileEditor.ContentsResizeParameters"
+title: "PdfFileEditor.ContentsResizeParameters.ContentsResizeParameters"
 linktitle: "PdfFileEditor.ContentsResizeParameters"
 articleTitle: "PdfFileEditor.ContentsResizeParameters"
 second_title: "Aspose.PDF for .NET API Reference"
@@ -7,7 +7,7 @@ description: "ContentsResizeParameters constructor. Creates resize parameters wh
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsresizeparameters/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ContentsResizeParameters() {#constructor}
 
@@ -19,7 +19,7 @@ public ContentsResizeParameters()
 
 ### See Also
 
-* class [PdfFileEditor.ContentsResizeParameters](../)
+* class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -46,7 +46,8 @@ public ContentsResizeParameters(ContentsResizeValue leftMargin, ContentsResizeVa
 
 ### See Also
 
-* class [PdfFileEditor.ContentsResizeParameters](../)
+* class [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
+* class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

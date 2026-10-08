@@ -8,7 +8,7 @@ type: docs
 weight: 530
 url: "/net/aspose.pdf.operators/setcharwidthboundingbox/"
 keywords: "SetCharWidthBoundingBox, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCharWidthBoundingBox class
 
@@ -22,27 +22,26 @@ public class SetCharWidthBoundingBox : Operator
 
 | Name | Description |
 | --- | --- |
-| [SetCharWidthBoundingBox](./setcharwidthboundingbox/)(double, double, double, double, double, double) | Initializes SetCharWidthBoundingBox operator. |
+| [SetCharWidthBoundingBox](setcharwidthboundingbox/)(double, double, double, double, double, double) | Initializes SetCharWidthBoundingBox operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [Llx](./llx/) { get; } | Lower-left horizontal coordinate of bounding rectangle. |
-| [Lly](./lly/) { get; } | Lower-left vertical coordinate of bounding rectangle. |
-| [Urx](./urx/) { get; } | Upper-right horizontal coordinate of bounding rectangle. |
-| [Ury](./ury/) { get; } | Upper-right vertical coordinate of bounding rectangle. |
-| [Wx](./wx/) { get; } | Horizontal displacement of glyph. |
-| [Wy](./wy/) { get; } | Vertical displacement of glyph. |
+| [Llx](../../aspose.pdf.operators/setcharwidthboundingbox/llx/) { get; } | Lower-left horizontal coordinate of bounding rectangle. |
+| [Lly](../../aspose.pdf.operators/setcharwidthboundingbox/lly/) { get; } | Lower-left vertical coordinate of bounding rectangle. |
+| [Urx](../../aspose.pdf.operators/setcharwidthboundingbox/urx/) { get; } | Upper-right horizontal coordinate of bounding rectangle. |
+| [Ury](../../aspose.pdf.operators/setcharwidthboundingbox/ury/) { get; } | Upper-right vertical coordinate of bounding rectangle. |
+| [Wx](../../aspose.pdf.operators/setcharwidthboundingbox/wx/) { get; } | Horizontal displacement of glyph. |
+| [Wy](../../aspose.pdf.operators/setcharwidthboundingbox/wy/) { get; } | Vertical displacement of glyph. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/setcharwidthboundingbox/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/setcharwidthboundingbox/tostring/)() | Returns text representation of operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also

@@ -7,7 +7,7 @@ description: "JavascriptAction property. Gets or sets javascript code."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/javascriptaction/script/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## JavascriptAction.Script property
 

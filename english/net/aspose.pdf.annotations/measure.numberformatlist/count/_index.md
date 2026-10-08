@@ -7,7 +7,7 @@ description: "NumberFormatList property. Count if items in the list."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/measure.numberformatlist/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.NumberFormatList.Count property
 
@@ -19,7 +19,7 @@ public int Count { get; }
 
 ### See Also
 
-* class [Measure.NumberFormatList](../)
+* class [NumberFormatList](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

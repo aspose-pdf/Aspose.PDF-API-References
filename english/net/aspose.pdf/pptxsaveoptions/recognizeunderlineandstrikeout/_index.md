@@ -7,20 +7,22 @@ description: "PptxSaveOptions property. Gets or sets whether underline and strik
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pptxsaveoptions/recognizeunderlineandstrikeout/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PptxSaveOptions.RecognizeUnderlineAndStrikeout property
 
 Gets or sets whether underline and strikeout lines are recognized as text formatting.
  The default value is true.
 
-When false, underline and strikeout lines are preserved as graphics and rendered as images
- instead of being converted to text formatting. Text remains editable unless
- `SlidesAsImages` is true.
-
 ```csharp
 public bool RecognizeUnderlineAndStrikeout { get; set; }
 ```
+
+## Remarks
+
+When false, underline and strikeout lines are preserved as graphics and rendered as images
+ instead of being converted to text formatting. Text remains editable unless
+ [`SlidesAsImages`](../slidesasimages/) is true.
 
 ### See Also
 

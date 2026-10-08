@@ -7,7 +7,7 @@ description: "ArtifactCollection property. Gets count of artifacts in collection
 type: docs
 weight: 90
 url: "/net/aspose.pdf/artifactcollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ArtifactCollection.Count property
 

@@ -7,9 +7,9 @@ description: "PdfFileMend method. Not implemented."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/pdffilemend/addtext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## AddText([FormattedText](../../../aspose.pdf.facades/formattedtext/), int, float, float) {#addtext}
+## AddText(FormattedText, int, float, float) {#addtext}
 
 Not implemented.
 
@@ -30,14 +30,14 @@ True in case text was successfully added.
 
 ### See Also
 
-* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [FormattedText](../../formattedtext/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddText([FormattedText](../../../aspose.pdf.facades/formattedtext/), int, float, float, float, float) {#addtext_1}
+## AddText(FormattedText, int, float, float, float, float) {#addtext_1}
 
 Not implemented.
 
@@ -61,14 +61,14 @@ True in case text was successfully added.
 
 ### See Also
 
-* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [FormattedText](../../formattedtext/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddText([FormattedText](../../../aspose.pdf.facades/formattedtext/), int[], float, float, float, float) {#addtext_2}
+## AddText(FormattedText, int[], float, float, float, float) {#addtext_2}
 
 Not implemented.
 
@@ -92,7 +92,7 @@ True in case text was successfully added.
 
 ### See Also
 
-* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [FormattedText](../../formattedtext/)
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

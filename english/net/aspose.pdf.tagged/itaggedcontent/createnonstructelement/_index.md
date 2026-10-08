@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates NonStructElement."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.tagged/itaggedcontent/createnonstructelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateNonStructElement method
 

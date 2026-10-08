@@ -8,7 +8,7 @@ type: docs
 weight: 290
 url: "/net/aspose.pdf.annotations/documentactioncollection/"
 keywords: "DocumentActionCollection, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentActionCollection class
 
@@ -22,17 +22,17 @@ public sealed class DocumentActionCollection
 
 | Name | Description |
 | --- | --- |
-| [DocumentActionCollection](./documentactioncollection/)(Document) | Constructor for DocumentActionCollection. Constructs DocumentActionCollection objects from Pdf.Kit.Engine Document object. |
+| [DocumentActionCollection](documentactioncollection/)(Document) | Constructor for DocumentActionCollection. Constructs DocumentActionCollection objects from Pdf.Kit.Engine Document object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AfterPrinting](./afterprinting/) { get; set; } | Action that will be performed after document printing. |
-| [AfterSaving](./aftersaving/) { get; set; } | Gets or sets action that will be performed after document saving. |
-| [BeforeClosing](./beforeclosing/) { get; set; } | Gets or sets action that will be performed before documetn closing. |
-| [BeforePrinting](./beforeprinting/) { get; set; } | Action that will be performed before document printing. |
-| [BeforeSaving](./beforesaving/) { get; set; } | Gets or sets action performed before document saving. |
+| [AfterPrinting](../../aspose.pdf.annotations/documentactioncollection/afterprinting/) { get; set; } | Action that will be performed after document printing. |
+| [AfterSaving](../../aspose.pdf.annotations/documentactioncollection/aftersaving/) { get; set; } | Gets or sets action that will be performed after document saving. |
+| [BeforeClosing](../../aspose.pdf.annotations/documentactioncollection/beforeclosing/) { get; set; } | Gets or sets action that will be performed before documetn closing. |
+| [BeforePrinting](../../aspose.pdf.annotations/documentactioncollection/beforeprinting/) { get; set; } | Action that will be performed before document printing. |
+| [BeforeSaving](../../aspose.pdf.annotations/documentactioncollection/beforesaving/) { get; set; } | Gets or sets action performed before document saving. |
 
 ### See Also
 

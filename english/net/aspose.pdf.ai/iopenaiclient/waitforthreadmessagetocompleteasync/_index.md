@@ -7,7 +7,7 @@ description: "IOpenAIClient method. Waits for a specific thread message to compl
 type: docs
 weight: 120
 url: "/net/aspose.pdf.ai/iopenaiclient/waitforthreadmessagetocompleteasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOpenAIClient.WaitForThreadMessageToCompleteAsync method
 
@@ -32,11 +32,12 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread Id is null or empty. |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread message Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the thread Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the thread message Id is null or empty. |
 
 ### See Also
 
+* class [ThreadMessageResponse](../../threadmessageresponse/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

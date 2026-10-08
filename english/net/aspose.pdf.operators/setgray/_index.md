@@ -8,7 +8,7 @@ type: docs
 weight: 640
 url: "/net/aspose.pdf.operators/setgray/"
 keywords: "SetGray, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetGray class
 
@@ -22,24 +22,23 @@ public class SetGray : SetColorOperator
 
 | Name | Description |
 | --- | --- |
-| [SetGray](./setgray/)(double) | Initializes operator. |
+| [SetGray](setgray/)(double) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Gray](./gray/) { get; set; } | Gets or sets the level of gray value. |
+| [Gray](../../aspose.pdf.operators/setgray/gray/) { get; set; } | Gets or sets the level of gray value. |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Returns string representation of operator. |
+| override [Accept](../../aspose.pdf.operators/setgray/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/setgray/tostring/)() | Returns string representation of operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
-| override [getColor](./getcolor/)() | Returns color specified by operator. |
+| override [getColor](../../aspose.pdf.operators/setgray/getcolor/)() | Returns color specified by operator. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "Heading property. Gets the destination page."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/heading/destinationpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Heading.DestinationPage property
 
@@ -19,7 +19,7 @@ public Page DestinationPage { get; set; }
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

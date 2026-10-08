@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Subset enum. Represents the subset of pages to which a 
 type: docs
 weight: 2820
 url: "/net/aspose.pdf/subset/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Subset enumeration
 

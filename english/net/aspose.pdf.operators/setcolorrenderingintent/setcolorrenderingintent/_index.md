@@ -7,7 +7,7 @@ description: "SetColorRenderingIntent constructor. Set Color Rendering Intent op
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setcolorrenderingintent/setcolorrenderingintent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColorRenderingIntent constructor
 

@@ -7,7 +7,7 @@ description: "ViewerPreference field. Duplex and flip on the short edge of the s
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/viewerpreference/duplexflipshortedge/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ViewerPreference.DuplexFlipShortEdge field
 

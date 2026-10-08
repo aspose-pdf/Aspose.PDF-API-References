@@ -7,7 +7,7 @@ description: "TextParagraph property. Gets or sets the padding."
 type: docs
 weight: 200
 url: "/net/aspose.pdf.text/textparagraph/margin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextParagraph.Margin property
 

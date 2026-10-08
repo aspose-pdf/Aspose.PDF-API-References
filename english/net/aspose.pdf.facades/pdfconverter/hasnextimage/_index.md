@@ -7,7 +7,7 @@ description: "PdfConverter method. Indicates whether the pdf file has more image
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/pdfconverter/hasnextimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfConverter.HasNextImage method
 

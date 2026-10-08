@@ -7,7 +7,7 @@ description: "ListDataResponse property. Gets or sets the first ID in the list."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/listdataresponse-1/firstid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ListDataResponse<T>.FirstId property
 
@@ -19,7 +19,7 @@ public string FirstId { get; set; }
 
 ### See Also
 
-* class [ListDataResponse<T>](../)
+* class [ListDataResponse&lt;T&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

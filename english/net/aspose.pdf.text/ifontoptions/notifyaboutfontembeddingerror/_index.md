@@ -7,7 +7,7 @@ description: "IFontOptions property. Sometimes it's not possible to embed desire
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/ifontoptions/notifyaboutfontembeddingerror/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IFontOptions.NotifyAboutFontEmbeddingError property
 

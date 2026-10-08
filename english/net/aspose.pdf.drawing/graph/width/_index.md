@@ -7,7 +7,7 @@ description: "Graph property. Gets or sets a float value that indicates the grap
 type: docs
 weight: 100
 url: "/net/aspose.pdf.drawing/graph/width/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Graph.Width property
 

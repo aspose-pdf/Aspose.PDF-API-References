@@ -7,7 +7,7 @@ description: "Matrix method. Transaltes rotation into angle (degrees)"
 type: docs
 weight: 130
 url: "/net/aspose.pdf/matrix/getangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix.GetAngle method
 
@@ -34,7 +34,7 @@ Matrix m = Matrix.Rotation(angle);
 
 ### See Also
 
-* enum [Rotation](../../../aspose.pdf/rotation/)
+* enum [Rotation](../../rotation/)
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

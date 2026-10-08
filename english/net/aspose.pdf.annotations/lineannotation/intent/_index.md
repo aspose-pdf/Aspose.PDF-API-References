@@ -7,7 +7,7 @@ description: "LineAnnotation property. Gets or sets the intent of the line annot
 type: docs
 weight: 170
 url: "/net/aspose.pdf.annotations/lineannotation/intent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineAnnotation.Intent property
 
@@ -19,7 +19,7 @@ public LineIntent Intent { get; set; }
 
 ### See Also
 
-* enum [LineIntent](../../../aspose.pdf.annotations/lineintent/)
+* enum [LineIntent](../../lineintent/)
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

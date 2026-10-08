@@ -7,7 +7,7 @@ description: "Aspose.Pdf.PasswordType enum. This enum represents known password 
 type: docs
 weight: 2320
 url: "/net/aspose.pdf/passwordtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PasswordType enumeration
 
@@ -24,8 +24,7 @@ public enum PasswordType
 | None | `0` | Pdf document is not password protected. |
 | User | `1` | Pdf document was opened using document open password (restricted access). |
 | Owner | `2` | Pdf document was opened using change permissions password (full access). |
-| Inaccessible | `3` | Pdf document is password protected but both user and owner passwords are not empty and 
- none of the passwords was defined or supplied password was incorrect. So it impossible to deduce the type of the password. |
+| Inaccessible | `3` | Pdf document is password protected but both user and owner passwords are not empty and none of the passwords was defined or supplied password was incorrect. So it impossible to deduce the type of the password. |
 
 ### See Also
 

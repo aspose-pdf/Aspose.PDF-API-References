@@ -7,9 +7,9 @@ description: "PageCollectionExtensions method. Adds Bates numbering to each page
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pagecollectionextensions/addbatesnumbering/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## AddBatesNumbering(this [PageCollection](../../../aspose.pdf/pagecollection/), Action<BatesNArtifact>) {#addbatesnumbering}
+## AddBatesNumbering(this PageCollection, Action&lt;BatesNArtifact&gt;) {#addbatesnumbering}
 
 Adds Bates numbering to each page in the given page collection using the specified action to configure the BatesNArtifact.
 
@@ -25,14 +25,15 @@ public static void AddBatesNumbering(this PageCollection pageCollection,
 
 ### See Also
 
-* class [PageCollection](../../../aspose.pdf/pagecollection/)
+* class [PageCollection](../../pagecollection/)
+* class [BatesNArtifact](../../batesnartifact/)
 * class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddBatesNumbering(this [PageCollection](../../../aspose.pdf/pagecollection/), [BatesNArtifact](../../../aspose.pdf/batesnartifact/)) {#addbatesnumbering_1}
+## AddBatesNumbering(this PageCollection, BatesNArtifact) {#addbatesnumbering_1}
 
 Adds the specified Bates numbering artifact to each page in the given page collection.
 
@@ -47,8 +48,8 @@ public static void AddBatesNumbering(this PageCollection pageCollection, BatesNA
 
 ### See Also
 
-* class [PageCollection](../../../aspose.pdf/pagecollection/)
-* class [BatesNArtifact](../../../aspose.pdf/batesnartifact/)
+* class [PageCollection](../../pagecollection/)
+* class [BatesNArtifact](../../batesnartifact/)
 * class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

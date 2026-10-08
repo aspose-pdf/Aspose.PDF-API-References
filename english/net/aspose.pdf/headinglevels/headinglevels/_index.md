@@ -7,7 +7,7 @@ description: "HeadingLevels constructor. Creates a new instance of the HeadingLe
 type: docs
 weight: 10
 url: "/net/aspose.pdf/headinglevels/headinglevels/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HeadingLevels() {#constructor}
 
@@ -35,9 +35,7 @@ public HeadingLevels(double threshold)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| threshold | Double | The threshold value to compare font sizes.
- Within the threshold, the header levels are the same.
- The threshold default value is 0.01. |
+| threshold | Double | The threshold value to compare font sizes. Within the threshold, the header levels are the same. The threshold default value is 0.01. |
 
 ### See Also
 

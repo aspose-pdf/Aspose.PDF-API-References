@@ -7,7 +7,7 @@ description: "UnifiedSaveOptions field. Process pages in few threads."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/unifiedsaveoptions/ismultithreading/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnifiedSaveOptions.IsMultiThreading field
 

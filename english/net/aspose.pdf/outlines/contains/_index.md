@@ -7,7 +7,7 @@ description: "Outlines method. Always throws NotImplementedException."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/outlines/contains/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Outlines.Contains method
 
@@ -25,15 +25,9 @@ public abstract bool Contains(OutlineItemCollection item)
 
 NotImplementedException
 
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| NotImplementedException | NotImplementedException |
-
 ### See Also
 
-* class [OutlineItemCollection](../../../aspose.pdf/outlineitemcollection/)
+* class [OutlineItemCollection](../../outlineitemcollection/)
 * class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

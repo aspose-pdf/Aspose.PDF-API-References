@@ -7,7 +7,7 @@ description: "Page property. Gets the paragraphs."
 type: docs
 weight: 410
 url: "/net/aspose.pdf/page/paragraphs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Paragraphs property
 
@@ -23,7 +23,7 @@ The paragraphs.
 
 ### See Also
 
-* class [Paragraphs](../../../aspose.pdf/paragraphs/)
+* class [Paragraphs](../../paragraphs/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

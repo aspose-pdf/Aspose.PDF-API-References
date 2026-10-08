@@ -7,11 +7,11 @@ description: "Graph constructor. Initializes a new instance of the Graph class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.drawing/graph/graph/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Graph constructor
 
-Initializes a new instance of the [`Graph`](../../../aspose.pdf.drawing/graph/) class.
+Initializes a new instance of the [`Graph`](../) class.
 
 ```csharp
 public Graph(double width, double height)

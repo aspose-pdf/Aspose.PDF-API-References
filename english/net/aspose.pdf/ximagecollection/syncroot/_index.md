@@ -7,7 +7,7 @@ description: "XImageCollection property. Returns synchronization object."
 type: docs
 weight: 230
 url: "/net/aspose.pdf/ximagecollection/syncroot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImageCollection.SyncRoot property
 

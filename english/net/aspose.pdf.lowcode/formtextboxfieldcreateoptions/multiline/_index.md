@@ -7,7 +7,7 @@ description: "FormTextBoxFieldCreateOptions property. Gets/sets the value to det
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/formtextboxfieldcreateoptions/multiline/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormTextBoxFieldCreateOptions.Multiline property
 

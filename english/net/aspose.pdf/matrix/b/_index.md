@@ -7,7 +7,7 @@ description: "Matrix property. B member of the transformation matrix."
 type: docs
 weight: 270
 url: "/net/aspose.pdf/matrix/b/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix.B property
 

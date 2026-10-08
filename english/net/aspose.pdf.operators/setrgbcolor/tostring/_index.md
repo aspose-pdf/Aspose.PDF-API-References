@@ -7,7 +7,7 @@ description: "SetRGBColor method. Returns text representation of the operator."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/setrgbcolor/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetRGBColor.ToString method
 

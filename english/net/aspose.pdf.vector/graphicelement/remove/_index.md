@@ -7,12 +7,12 @@ description: "GraphicElement method. Removes current element from the page. If t
 type: docs
 weight: 10
 url: "/net/aspose.pdf.vector/graphicelement/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicElement.Remove method
 
 Removes current element from the page.
- If there are many elements to remove better use `DeleteGraphics`.
+ If there are many elements to remove better use [`DeleteGraphics`](../../../aspose.pdf/page/deletegraphics/).
 
 ```csharp
 public void Remove()

@@ -7,7 +7,7 @@ description: "TextSegment property. Gets starting character index of current seg
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/textsegment/startcharindex/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSegment.StartCharIndex property
 

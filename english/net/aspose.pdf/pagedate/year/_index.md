@@ -7,7 +7,7 @@ description: "PageDate property. Gets or sets the year component of the date. Th
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pagedate/year/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageDate.Year property
 
@@ -20,6 +20,7 @@ public YearComponent Year { get; set; }
 
 ### See Also
 
+* class [YearComponent](../../pagedate.yearcomponent/)
 * class [PageDate](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

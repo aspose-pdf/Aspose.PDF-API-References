@@ -7,11 +7,11 @@ description: "TimestampSettings constructor. Initializes a new instance of the T
 type: docs
 weight: 10
 url: "/net/aspose.pdf/timestampsettings/timestampsettings/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TimestampSettings constructor
 
-Initializes a new instance of the [`TimestampSettings`](../../../aspose.pdf/timestampsettings/) class.
+Initializes a new instance of the [`TimestampSettings`](../) class.
 
 ```csharp
 public TimestampSettings(string serverUrl, string basicAuthCredentials, 
@@ -26,7 +26,7 @@ public TimestampSettings(string serverUrl, string basicAuthCredentials,
 
 ### See Also
 
-* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* enum [DigestHashAlgorithm](../../digesthashalgorithm/)
 * class [TimestampSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

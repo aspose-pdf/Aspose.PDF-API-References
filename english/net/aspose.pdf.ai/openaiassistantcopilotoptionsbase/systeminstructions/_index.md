@@ -7,7 +7,7 @@ description: "OpenAIAssistantCopilotOptionsBase property. Gets or sets the file 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/systeminstructions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIAssistantCopilotOptionsBase.SystemInstructions property
 

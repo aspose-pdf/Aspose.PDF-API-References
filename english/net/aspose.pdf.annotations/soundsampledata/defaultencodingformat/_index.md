@@ -7,7 +7,7 @@ description: "SoundSampleData field. Default value for encoding format."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/soundsampledata/defaultencodingformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SoundSampleData.DefaultEncodingFormat field
 
@@ -19,7 +19,7 @@ public const SoundSampleDataEncodingFormat DefaultEncodingFormat;
 
 ### See Also
 
-* enum [SoundSampleDataEncodingFormat](../../../aspose.pdf.annotations/soundsampledataencodingformat/)
+* enum [SoundSampleDataEncodingFormat](../../soundsampledataencodingformat/)
 * class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

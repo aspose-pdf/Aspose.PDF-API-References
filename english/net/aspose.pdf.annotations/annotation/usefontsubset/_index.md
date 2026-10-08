@@ -7,7 +7,7 @@ description: "Annotation property. If this property set to true, fonts will be a
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/annotation/usefontsubset/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.UseFontSubset property
 

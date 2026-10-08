@@ -7,7 +7,7 @@ description: "TextOperator constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/textoperator/textoperator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextOperator() {#constructor}
 
@@ -25,7 +25,7 @@ public TextOperator()
 
 ---
 
-## TextOperator([TextProperties](../../../aspose.pdf.facades/textproperties/)) {#constructor_1}
+## TextOperator(TextProperties) {#constructor_1}
 
 Text operator which accepts text properties.
 

@@ -7,7 +7,7 @@ description: "FixedPrint property. Gets or sets vertical translation."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/fixedprint/verticaltranslation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FixedPrint.VerticalTranslation property
 

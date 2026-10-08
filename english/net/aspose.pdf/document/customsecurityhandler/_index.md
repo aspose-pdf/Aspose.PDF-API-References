@@ -7,7 +7,7 @@ description: "Document property. Gets a custom security handler."
 type: docs
 weight: 1080
 url: "/net/aspose.pdf/document/customsecurityhandler/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.CustomSecurityHandler property
 

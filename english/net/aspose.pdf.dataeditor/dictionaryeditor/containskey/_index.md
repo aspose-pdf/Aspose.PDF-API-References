@@ -7,11 +7,11 @@ description: "DictionaryEditor method. Determines whether the DictionaryEditor c
 type: docs
 weight: 40
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/containskey/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DictionaryEditor.ContainsKey method
 
-Determines whether the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/) contains an element with the specified key.
+Determines whether the [`DictionaryEditor`](../) contains an element with the specified key.
 
 ```csharp
 public bool ContainsKey(string key)
@@ -19,11 +19,11 @@ public bool ContainsKey(string key)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | String | The key to locate in the <see cref="T:Aspose.Pdf.DataEditor.DictionaryEditor" />. |
+| key | String | The key to locate in the `DictionaryEditor`. |
 
 ### Return Value
 
-true if the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/) contains an editable element with the key; otherwise, false.
+true if the [`DictionaryEditor`](../) contains an editable element with the key; otherwise, false.
 
 ### See Also
 

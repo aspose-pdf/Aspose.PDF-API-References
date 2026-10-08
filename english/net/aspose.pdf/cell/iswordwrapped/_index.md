@@ -7,7 +7,7 @@ description: "Cell property. Gets or sets the cell's text word wrapped."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/cell/iswordwrapped/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Cell.IsWordWrapped property
 

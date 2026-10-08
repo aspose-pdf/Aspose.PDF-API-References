@@ -7,7 +7,7 @@ description: "Rendition property. Text string specifying the name of the renditi
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/rendition/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rendition.Name property
 

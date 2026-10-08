@@ -7,14 +7,11 @@ description: "PdfAOptionsBase property. Gets or sets the strategy for removing f
 type: docs
 weight: 130
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/excludefontsstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAOptionsBase.ExcludeFontsStrategy property
 
 Gets or sets the strategy for removing fonts to minimize the output file size during the PDF/A conversion process.
-
-This property allows you to control how fonts are handled during the conversion process. 
- You can choose to remove duplicated fonts, remove similar fonts with different widths, or subset fonts.
 
 ```csharp
 public RemoveFontsStrategy ExcludeFontsStrategy { get; set; }
@@ -22,12 +19,18 @@ public RemoveFontsStrategy ExcludeFontsStrategy { get; set; }
 
 ### Property Value
 
-The strategy for removing fonts. This can be one of the values from the `RemoveFontsStrategy`
+The strategy for removing fonts. This can be one of the values from the [`RemoveFontsStrategy`](../../../aspose.pdf/pdfformatconversionoptions.removefontsstrategy/)
  enumeration. The default is the combination of `SubsetFonts` and
  `RemoveDuplicatedFonts`.
 
+## Remarks
+
+This property allows you to control how fonts are handled during the conversion process. 
+ You can choose to remove duplicated fonts, remove similar fonts with different widths, or subset fonts.
+
 ### See Also
 
+* enum [RemoveFontsStrategy](../../../aspose.pdf/pdfformatconversionoptions.removefontsstrategy/)
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

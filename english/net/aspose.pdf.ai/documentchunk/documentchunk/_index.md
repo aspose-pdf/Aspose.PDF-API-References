@@ -7,11 +7,11 @@ description: "DocumentChunk constructor. Initializes a new instance of the Docum
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/documentchunk/documentchunk/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentChunk constructor
 
-Initializes a new instance of the [`DocumentChunk`](../../../aspose.pdf.ai/documentchunk/) class.
+Initializes a new instance of the [`DocumentChunk`](../) class.
 
 ```csharp
 public DocumentChunk(string id, string content, int index, string context)

@@ -7,7 +7,7 @@ description: "HtmlFragment constructor. Initializes a new instance of the HtmlFr
 type: docs
 weight: 10
 url: "/net/aspose.pdf/htmlfragment/htmlfragment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlFragment constructor
 

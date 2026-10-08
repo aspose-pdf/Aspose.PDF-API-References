@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute ListNumbering: UpperRoman - Upperca
 type: docs
 weight: 570
 url: "/net/aspose.pdf.logicalstructure/attributename/listnumbering_upperroman/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.ListNumbering_UpperRoman field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName ListNumbering_UpperRoman;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

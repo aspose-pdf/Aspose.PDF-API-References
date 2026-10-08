@@ -7,7 +7,7 @@ description: "XImage method. Renames image and replaces all references to the im
 type: docs
 weight: 10
 url: "/net/aspose.pdf/ximage/rename/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImage.Rename method
 

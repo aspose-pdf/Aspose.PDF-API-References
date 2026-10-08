@@ -7,7 +7,7 @@ description: "TimestampSettings property. Gets/sets the digest algorithm for int
 type: docs
 weight: 40
 url: "/net/aspose.pdf/timestampsettings/digesthashalgorithm/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TimestampSettings.DigestHashAlgorithm property
 
@@ -19,7 +19,7 @@ public DigestHashAlgorithm DigestHashAlgorithm { get; set; }
 
 ### See Also
 
-* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* enum [DigestHashAlgorithm](../../digesthashalgorithm/)
 * class [TimestampSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

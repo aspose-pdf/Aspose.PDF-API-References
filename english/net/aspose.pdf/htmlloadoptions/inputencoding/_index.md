@@ -7,7 +7,7 @@ description: "HtmlLoadOptions property. Gets or sets the attribute specifying th
 type: docs
 weight: 70
 url: "/net/aspose.pdf/htmlloadoptions/inputencoding/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlLoadOptions.InputEncoding property
 

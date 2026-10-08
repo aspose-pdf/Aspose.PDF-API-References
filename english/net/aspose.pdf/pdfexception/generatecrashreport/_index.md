@@ -7,7 +7,7 @@ description: "PdfException method. Forms crash report based on Exception HTML fo
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pdfexception/generatecrashreport/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfException.GenerateCrashReport method
 
@@ -23,7 +23,7 @@ public static void GenerateCrashReport(CrashReportOptions options)
 
 ### See Also
 
-* class [CrashReportOptions](../../../aspose.pdf/crashreportoptions/)
+* class [CrashReportOptions](../../crashreportoptions/)
 * class [PdfException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

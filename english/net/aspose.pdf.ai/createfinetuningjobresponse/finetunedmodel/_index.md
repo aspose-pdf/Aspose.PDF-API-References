@@ -7,7 +7,7 @@ description: "CreateFineTuningJobResponse property. Gets or sets the name of the
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/createfinetuningjobresponse/finetunedmodel/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateFineTuningJobResponse.FineTunedModel property
 

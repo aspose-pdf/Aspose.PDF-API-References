@@ -7,7 +7,7 @@ description: "AssistantCreateRequest property. Gets or sets the description of t
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/assistantcreaterequest/description/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantCreateRequest.Description property
 

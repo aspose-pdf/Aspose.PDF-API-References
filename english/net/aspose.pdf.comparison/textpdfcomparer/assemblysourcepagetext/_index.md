@@ -7,7 +7,7 @@ description: "TextPdfComparer method. Restores the original text from the list o
 type: docs
 weight: 90
 url: "/net/aspose.pdf.comparison/textpdfcomparer/assemblysourcepagetext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextPdfComparer.AssemblySourcePageText method
 
@@ -27,6 +27,7 @@ Original text.
 
 ### See Also
 
+* class [DiffOperation](../../diffoperation/)
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

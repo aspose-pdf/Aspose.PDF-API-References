@@ -7,7 +7,7 @@ description: "StructureAttribute method. Sets Value Name Array."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.logicalstructure/structureattribute/setarrayvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureAttribute.SetArrayValue method
 
@@ -23,7 +23,7 @@ public void SetArrayValue(AttributeName[] array)
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../../attributename/)
 * class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

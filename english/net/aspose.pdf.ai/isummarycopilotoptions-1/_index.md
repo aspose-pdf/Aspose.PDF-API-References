@@ -7,7 +7,7 @@ description: "Aspose.Pdf.AI.ISummaryCopilotOptions interface. Represents an inte
 type: docs
 weight: 650
 url: "/net/aspose.pdf.ai/isummarycopilotoptions-1/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ISummaryCopilotOptions&lt;TOptions&gt; interface
 
@@ -17,17 +17,15 @@ Represents an interface for summary copilot options with a specific type.
 public interface ISummaryCopilotOptions<out TOptions>
 ```
 
-## Type Parameters
-
-| Name | Description |
+| Parameter | Description |
 | --- | --- |
-| TOptions |  |
+| TOptions | The type of options for the summary copilot. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetOptions](./getoptions/)() | Gets the options of type *TOptions*. |
+| [GetOptions](../../aspose.pdf.ai/isummarycopilotoptions-1/getoptions/)() | Gets the options of type *TOptions*. |
 
 ### See Also
 

@@ -7,11 +7,11 @@ description: "MarginInfo constructor. Initializes a new instance of the MarginIn
 type: docs
 weight: 10
 url: "/net/aspose.pdf/margininfo/margininfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarginInfo() {#constructor}
 
-Initializes a new instance of the [`MarginInfo`](../../../aspose.pdf/margininfo/) class.
+Initializes a new instance of the [`MarginInfo`](../) class.
 
 ```csharp
 public MarginInfo()

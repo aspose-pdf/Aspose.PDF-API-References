@@ -7,7 +7,7 @@ description: "FormEditor method. Copies an existing field to the same position i
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/formeditor/copyinnerfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CopyInnerField(string, string, int) {#copyinnerfield}
 

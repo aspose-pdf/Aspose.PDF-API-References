@@ -7,7 +7,7 @@ description: "MarkdownSaveOptions property. Gets or sets the heading recognition
 type: docs
 weight: 110
 url: "/net/aspose.pdf/markdownsaveoptions/headingrecognitionstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkdownSaveOptions.HeadingRecognitionStrategy property
 
@@ -19,7 +19,7 @@ public HeadingRecognitionStrategy HeadingRecognitionStrategy { get; set; }
 
 ### See Also
 
-* enum [HeadingRecognitionStrategy](../../../aspose.pdf/headingrecognitionstrategy/)
+* enum [HeadingRecognitionStrategy](../../headingrecognitionstrategy/)
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

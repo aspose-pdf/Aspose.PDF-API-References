@@ -7,7 +7,7 @@ description: "Ofd method. Implementation of IDisposable."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/ofd/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Ofd.Dispose method
 

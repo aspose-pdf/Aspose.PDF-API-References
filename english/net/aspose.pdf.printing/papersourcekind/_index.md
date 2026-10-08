@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Printing.PaperSourceKind enum. Standard paper sources."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.printing/papersourcekind/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSourceKind enumeration
 

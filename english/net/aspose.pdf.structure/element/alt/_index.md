@@ -7,7 +7,7 @@ description: "Element property. (Optional) An alternate description of the struc
 type: docs
 weight: 50
 url: "/net/aspose.pdf.structure/element/alt/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Element.Alt property
 

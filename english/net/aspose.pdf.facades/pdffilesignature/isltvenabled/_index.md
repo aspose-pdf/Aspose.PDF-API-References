@@ -7,7 +7,7 @@ description: "PdfFileSignature property. Gets the LTV enabled flag."
 type: docs
 weight: 480
 url: "/net/aspose.pdf.facades/pdffilesignature/isltvenabled/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.IsLtvEnabled property
 

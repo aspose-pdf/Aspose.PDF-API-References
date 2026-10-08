@@ -7,7 +7,7 @@ description: "Document property. Gets or sets the page info.(for generator only,
 type: docs
 weight: 1120
 url: "/net/aspose.pdf/document/pageinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.PageInfo property
 
@@ -23,7 +23,7 @@ The page info.
 
 ### See Also
 
-* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* class [PageInfo](../../pageinfo/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

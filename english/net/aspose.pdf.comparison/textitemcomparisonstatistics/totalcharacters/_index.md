@@ -7,7 +7,7 @@ description: "TextItemComparisonStatistics property. Gets and sets the total num
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/textitemcomparisonstatistics/totalcharacters/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextItemComparisonStatistics.TotalCharacters property
 

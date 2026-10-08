@@ -8,7 +8,7 @@ type: docs
 weight: 970
 url: "/net/aspose.pdf.lowcode/textextractor/"
 keywords: "TextExtractor, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextExtractor class
 
@@ -44,7 +44,7 @@ using (TextExtractor extractor = new TextExtractor())
 
 | Name | Description |
 | --- | --- |
-| [TextExtractor](./textextractor/)() | The default constructor. |
+| [TextExtractor](textextractor/)() | The default constructor. |
 
 ## Methods
 
@@ -55,7 +55,7 @@ using (TextExtractor extractor = new TextExtractor())
 
 ## Remarks
 
-The [`TextExtractor`](../../aspose.pdf.lowcode/textextractor/) object is used to extract text in PDF documents.
+The [`TextExtractor`](../textextractor/) object is used to extract text in PDF documents.
 
 ### See Also
 

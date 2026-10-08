@@ -7,7 +7,7 @@ description: "Rectangle method. Intersects to rectangles."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/rectangle/intersect/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.Intersect method
 
@@ -27,7 +27,7 @@ Intersection of rectangles; null if rectangles are not intersected.
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

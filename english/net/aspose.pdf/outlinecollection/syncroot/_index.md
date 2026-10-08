@@ -7,7 +7,7 @@ description: "OutlineCollection property. Gets an object that can be used to syn
 type: docs
 weight: 150
 url: "/net/aspose.pdf/outlinecollection/syncroot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutlineCollection.SyncRoot property
 

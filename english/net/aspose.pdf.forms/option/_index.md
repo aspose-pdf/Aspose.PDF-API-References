@@ -8,7 +8,7 @@ type: docs
 weight: 220
 url: "/net/aspose.pdf.forms/option/"
 keywords: "Option, Aspose.Pdf.Forms, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Option class
 
@@ -22,10 +22,10 @@ public sealed class Option
 
 | Name | Description |
 | --- | --- |
-| [Index](./index/) { get; } | Gets index of the option. |
-| [Name](./name/) { get; set; } | Gets or sets name of option. |
-| [Selected](./selected/) { get; set; } | Gets or sets selected status of option. Returns true if option is selected. |
-| [Value](./value/) { get; set; } | Gets or sets option export value. |
+| [Index](../../aspose.pdf.forms/option/index/) { get; } | Gets index of the option. |
+| [Name](../../aspose.pdf.forms/option/name/) { get; set; } | Gets or sets name of option. |
+| [Selected](../../aspose.pdf.forms/option/selected/) { get; set; } | Gets or sets selected status of option. Returns true if option is selected. |
+| [Value](../../aspose.pdf.forms/option/value/) { get; set; } | Gets or sets option export value. |
 
 ### See Also
 

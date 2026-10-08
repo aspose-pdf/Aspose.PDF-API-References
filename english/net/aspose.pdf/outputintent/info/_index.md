@@ -7,7 +7,7 @@ description: "OutputIntent property. Gets or sets a human-readable text that con
 type: docs
 weight: 60
 url: "/net/aspose.pdf/outputintent/info/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputIntent.Info property
 

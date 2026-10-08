@@ -7,7 +7,7 @@ description: "HtmlToPdfOptions property. Gets or sets rendering all document to 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/htmltopdfoptions/isrendertosinglepage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlToPdfOptions.IsRenderToSinglePage property
 

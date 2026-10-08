@@ -8,7 +8,7 @@ type: docs
 weight: 1660
 url: "/net/aspose.pdf/javascriptcollection/"
 keywords: "JavaScriptCollection, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## JavaScriptCollection class
 
@@ -22,14 +22,14 @@ public class JavaScriptCollection
 
 | Name | Description |
 | --- | --- |
-| [Item](./item/) { get; set; } | Gets or sets JavaScript from collection by its key. |
-| [Keys](./keys/) { get; } | List of keys in JavaScript collection. |
+| [Item](../../aspose.pdf/javascriptcollection/item/) { get; set; } | Gets or sets JavaScript from collection by its key. |
+| [Keys](../../aspose.pdf/javascriptcollection/keys/) { get; } | List of keys in JavaScript collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Remove](./remove/)(string) | Removes JavaScript by its name. |
+| [Remove](../../aspose.pdf/javascriptcollection/remove/)(string) | Removes JavaScript by its name. |
 
 ### See Also
 

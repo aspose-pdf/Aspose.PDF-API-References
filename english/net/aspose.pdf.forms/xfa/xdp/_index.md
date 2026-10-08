@@ -7,7 +7,7 @@ description: "XFA property. XML Data Package (all XFA form components within a s
 type: docs
 weight: 80
 url: "/net/aspose.pdf.forms/xfa/xdp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFA.XDP property
 

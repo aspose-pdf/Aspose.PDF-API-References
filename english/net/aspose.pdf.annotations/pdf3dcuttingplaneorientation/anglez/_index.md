@@ -7,7 +7,7 @@ description: "PDF3DCuttingPlaneOrientation property. Gets or sets the angle to Z
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DCuttingPlaneOrientation.AngleZ property
 

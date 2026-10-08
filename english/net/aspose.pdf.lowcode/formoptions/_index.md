@@ -8,7 +8,7 @@ type: docs
 weight: 340
 url: "/net/aspose.pdf.lowcode/formoptions/"
 keywords: "FormOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormOptions class
 
@@ -22,18 +22,19 @@ public abstract class FormOptions : IPluginOptions
 
 | Name | Description |
 | --- | --- |
-| [Inputs](./inputs/) { get; } | Returns Form.... plugins data collection. |
-| [Outputs](./outputs/) { get; } | Gets collection of added targets for saving operation results. |
+| [Inputs](../../aspose.pdf.lowcode/formoptions/inputs/) { get; } | Returns Form.... plugins data collection. |
+| [Outputs](../../aspose.pdf.lowcode/formoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddInput](./addinput/)(IDataSource) | Adds new data source to the Form... plugins data collection. |
-| [AddOutput](./addoutput/)(IDataSource) | Adds new data source to the Form... plugins data collection. |
+| [AddInput](../../aspose.pdf.lowcode/formoptions/addinput/)(IDataSource) | Adds new data source to the Form... plugins data collection. |
+| [AddOutput](../../aspose.pdf.lowcode/formoptions/addoutput/)(IDataSource) | Adds new data source to the Form... plugins data collection. |
 
 ### See Also
 
+* interface [IPluginOptions](../ipluginoptions/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

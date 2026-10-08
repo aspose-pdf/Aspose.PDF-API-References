@@ -7,7 +7,7 @@ description: "FileSpecification property. Gets or sets text associated with the 
 type: docs
 weight: 150
 url: "/net/aspose.pdf/filespecification/description/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSpecification.Description property
 

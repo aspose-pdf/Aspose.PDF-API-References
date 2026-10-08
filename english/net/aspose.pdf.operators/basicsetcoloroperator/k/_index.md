@@ -7,7 +7,7 @@ description: "BasicSetColorOperator property. Gets black component of CMYK color
 type: docs
 weight: 70
 url: "/net/aspose.pdf.operators/basicsetcoloroperator/k/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BasicSetColorOperator.K property
 

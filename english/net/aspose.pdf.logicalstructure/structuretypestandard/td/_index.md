@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Table data cell) A table cell contai
 type: docs
 weight: 350
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/td/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.TD field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard TD;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -8,7 +8,7 @@ type: docs
 weight: 1360
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/"
 keywords: "XYZExplicitDestination, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XYZExplicitDestination class
 
@@ -32,28 +32,27 @@ string zoom = dest.Zoom;
 
 | Name | Description |
 | --- | --- |
-| [XYZExplicitDestination](./xyzexplicitdestination/#constructor)(int, double, double, double) | Creates remote explicit destination. |
-| [XYZExplicitDestination](./xyzexplicitdestination/#constructor_1)(Page, double, double, double) | Creates local explicit destination. |
+| [XYZExplicitDestination](xyzexplicitdestination/#constructor)(Page, double, double, double) | Creates local explicit destination. |
+| [XYZExplicitDestination](xyzexplicitdestination/#constructor_1)(int, double, double, double) | Creates remote explicit destination. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Left](./left/) { get; } | Gets left horizontal coordinate of the upper-left corner of the window. |
+| [Left](../../aspose.pdf.annotations/xyzexplicitdestination/left/) { get; } | Gets left horizontal coordinate of the upper-left corner of the window. |
 | [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Gets the destination page object |
 | [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Gets the destination page number |
-| [Top](./top/) { get; } | Gets top vertical coordinate of the upper-left corner of the window. |
-| [Zoom](./zoom/) { get; } | Gets zoom factor. |
+| [Top](../../aspose.pdf.annotations/xyzexplicitdestination/top/) { get; } | Gets top vertical coordinate of the upper-left corner of the window. |
+| [Zoom](../../aspose.pdf.annotations/xyzexplicitdestination/zoom/) { get; } | Gets zoom factor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [CreateDestination](../../aspose.pdf.annotations/explicitdestination/createdestination/)(Page, ExplicitDestinationType, params double[]) | Creates instances of ExplicitDestination descendant classes. |
-| static [CreateDestination](./createdestination/)(Page, double, double, double, bool) | Create destintion to specified location of the page considering page rotation if required. |
-| static [CreateDestinationToUpperLeftCorner](./createdestinationtoupperleftcorner/)(Page) | Create destination to specified page. |
-| static [CreateDestinationToUpperLeftCorner](./createdestinationtoupperleftcorner/)(Page, double) | Create destionation to upper left corner of the specifed page. |
-| override [ToString](./tostring/)() | Converts the object state into string value. Example: "1 XYZ 100 200 3". |
+| static [CreateDestination](../../aspose.pdf.annotations/xyzexplicitdestination/createdestination/)(Page, double, double, double, bool) | Create destintion to specified location of the page considering page rotation if required. |
+| static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/#createdestinationtoupperleftcorner)(Page, double) | Create destionation to upper left corner of the specifed page. |
+| static [CreateDestinationToUpperLeftCorner](../../aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/#createdestinationtoupperleftcorner_1)(Page) | Create destination to specified page. |
+| override [ToString](../../aspose.pdf.annotations/xyzexplicitdestination/tostring/)() | Converts the object state into string value. Example: "1 XYZ 100 200 3". |
 
 ### See Also
 

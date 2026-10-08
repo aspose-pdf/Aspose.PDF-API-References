@@ -7,7 +7,7 @@ description: "XImage property. Gets height of the image."
 type: docs
 weight: 190
 url: "/net/aspose.pdf/ximage/height/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImage.Height property
 

@@ -7,47 +7,11 @@ description: "TextDevice constructor. Initializes a new instance of the TextDevi
 type: docs
 weight: 10
 url: "/net/aspose.pdf.devices/textdevice/textdevice/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## TextDevice() {#constructor}
+## TextDevice(TextExtractionOptions) {#constructor}
 
-Initializes a new instance of the [`TextDevice`](../../../aspose.pdf.devices/textdevice/) with the Raw text formatting mode and Unicode text encoding.
-
-```csharp
-public TextDevice()
-```
-
-### See Also
-
-* class [TextDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TextDevice(Encoding) {#constructor_1}
-
-Initializes a new instance of the [`TextDevice`](../../../aspose.pdf.devices/textdevice/) for the specified encoding.
-
-```csharp
-public TextDevice(Encoding encoding)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| encoding | Encoding | Encoding of extracted text |
-
-### See Also
-
-* class [TextDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TextDevice([TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)) {#constructor_2}
-
-Initializes a new instance of the [`TextDevice`](../../../aspose.pdf.devices/textdevice/) with text extraction options.
+Initializes a new instance of the [`TextDevice`](../) with text extraction options.
 
 ```csharp
 public TextDevice(TextExtractionOptions extractionOptions)
@@ -66,9 +30,45 @@ public TextDevice(TextExtractionOptions extractionOptions)
 
 ---
 
-## TextDevice([TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/), Encoding) {#constructor_3}
+## TextDevice() {#constructor_1}
 
-Initializes a new instance of the [`TextDevice`](../../../aspose.pdf.devices/textdevice/) for the specified encoding with text extraction options.
+Initializes a new instance of the [`TextDevice`](../) with the Raw text formatting mode and Unicode text encoding.
+
+```csharp
+public TextDevice()
+```
+
+### See Also
+
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TextDevice(Encoding) {#constructor_2}
+
+Initializes a new instance of the [`TextDevice`](../) for the specified encoding.
+
+```csharp
+public TextDevice(Encoding encoding)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| encoding | Encoding | Encoding of extracted text |
+
+### See Also
+
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## TextDevice(TextExtractionOptions, Encoding) {#constructor_3}
+
+Initializes a new instance of the [`TextDevice`](../) for the specified encoding with text extraction options.
 
 ```csharp
 public TextDevice(TextExtractionOptions extractionOptions, Encoding encoding)

@@ -7,7 +7,7 @@ description: "Usage property. Gets or sets number of tokens in the generated com
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/usage/completiontokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Usage.CompletionTokens property
 

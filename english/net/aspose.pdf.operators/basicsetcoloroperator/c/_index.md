@@ -7,7 +7,7 @@ description: "BasicSetColorOperator property. Gets cyan component of CMYK color.
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/basicsetcoloroperator/c/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BasicSetColorOperator.C property
 

@@ -7,7 +7,7 @@ description: "OutputIntent property. Gets or sets a text that identifies the int
 type: docs
 weight: 40
 url: "/net/aspose.pdf/outputintent/outputconditionidentifier/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputIntent.OutputConditionIdentifier property
 

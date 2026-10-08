@@ -7,7 +7,7 @@ description: "AbsorbedRow property. Gets readonly IList containing cells of the 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/absorbedrow/celllist/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AbsorbedRow.CellList property
 
@@ -19,6 +19,7 @@ public IList<AbsorbedCell> CellList { get; }
 
 ### See Also
 
+* class [AbsorbedCell](../../absorbedcell/)
 * class [AbsorbedRow](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

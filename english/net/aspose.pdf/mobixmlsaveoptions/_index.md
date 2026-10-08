@@ -8,7 +8,7 @@ type: docs
 weight: 1900
 url: "/net/aspose.pdf/mobixmlsaveoptions/"
 keywords: "MobiXmlSaveOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MobiXmlSaveOptions class
 
@@ -22,7 +22,7 @@ public class MobiXmlSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [MobiXmlSaveOptions](./mobixmlsaveoptions/)() | The default constructor. |
+| [MobiXmlSaveOptions](mobixmlsaveoptions/)() | The default constructor. |
 
 ## Properties
 

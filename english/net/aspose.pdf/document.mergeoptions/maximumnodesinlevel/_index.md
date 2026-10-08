@@ -7,7 +7,7 @@ description: "MergeOptions property. Gets and sets the maximum nodes in pages tr
 type: docs
 weight: 20
 url: "/net/aspose.pdf/document.mergeoptions/maximumnodesinlevel/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.MergeOptions.MaximumNodesInLevel property
 
@@ -20,7 +20,7 @@ public byte MaximumNodesInLevel { get; set; }
 
 ### See Also
 
-* class [Document.MergeOptions](../)
+* class [MergeOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

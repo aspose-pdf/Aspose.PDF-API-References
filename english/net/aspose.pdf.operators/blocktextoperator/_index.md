@@ -8,7 +8,7 @@ type: docs
 weight: 90
 url: "/net/aspose.pdf.operators/blocktextoperator/"
 keywords: "BlockTextOperator, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BlockTextOperator class
 
@@ -22,8 +22,8 @@ public class BlockTextOperator : TextOperator
 
 | Name | Description |
 | --- | --- |
-| [BlockTextOperator](./blocktextoperator/#constructor)() | Initializes operator. |
-| [BlockTextOperator](./blocktextoperator/#constructor_1)(TextProperties) | Initializes BlockTextOperator which accepts TextProperties. |
+| [BlockTextOperator](blocktextoperator/#constructor)() | Initializes operator. |
+| [BlockTextOperator](blocktextoperator/#constructor_1)(TextProperties) | Initializes BlockTextOperator which accepts TextProperties. |
 
 ## Properties
 
@@ -36,7 +36,6 @@ public class BlockTextOperator : TextOperator
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 

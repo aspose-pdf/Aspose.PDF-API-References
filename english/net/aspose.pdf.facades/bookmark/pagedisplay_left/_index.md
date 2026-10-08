@@ -7,7 +7,7 @@ description: "Bookmark property. Gets or sets the left coordinate of page displa
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/bookmark/pagedisplay_left/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Bookmark.PageDisplay_Left property
 

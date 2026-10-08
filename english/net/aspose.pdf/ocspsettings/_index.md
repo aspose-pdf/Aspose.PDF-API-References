@@ -8,7 +8,7 @@ type: docs
 weight: 1950
 url: "/net/aspose.pdf/ocspsettings/"
 keywords: "OcspSettings, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OcspSettings class
 
@@ -22,14 +22,14 @@ public class OcspSettings
 
 | Name | Description |
 | --- | --- |
-| [OcspSettings](./ocspsettings/)(string) | Initializes a new instance of the [`OcspSettings`](../../aspose.pdf/ocspsettings/) class. |
+| [OcspSettings](ocspsettings/)(string) | Initializes a new instance of the `OcspSettings` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [RequestTimeout](./requesttimeout/) { get; set; } | Gets or sets the request timeout duration in milliseconds for the OCSP request. |
-| [ServerUrl](./serverurl/) { get; set; } | Gets and sets the ocsp server url. |
+| [RequestTimeout](../../aspose.pdf/ocspsettings/requesttimeout/) { get; set; } | Gets or sets the request timeout duration in milliseconds for the OCSP request. |
+| [ServerUrl](../../aspose.pdf/ocspsettings/serverurl/) { get; set; } | Gets and sets the ocsp server url. |
 
 ### See Also
 

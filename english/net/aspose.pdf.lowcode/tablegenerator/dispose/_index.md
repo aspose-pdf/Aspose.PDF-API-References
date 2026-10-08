@@ -7,7 +7,7 @@ description: "TableGenerator method. Implementation of IDisposable. In fact, it 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/tablegenerator/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableGenerator.Dispose method
 

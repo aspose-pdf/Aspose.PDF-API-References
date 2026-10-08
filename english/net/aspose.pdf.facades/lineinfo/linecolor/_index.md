@@ -7,7 +7,7 @@ description: "LineInfo property. Gets or sets the color of a line."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/lineinfo/linecolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineInfo.LineColor property
 
@@ -19,7 +19,6 @@ public Color LineColor { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
 * class [LineInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

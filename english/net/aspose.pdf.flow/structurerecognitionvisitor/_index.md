@@ -8,7 +8,7 @@ type: docs
 weight: 30
 url: "/net/aspose.pdf.flow/structurerecognitionvisitor/"
 keywords: "StructureRecognitionVisitor, Aspose.Pdf.Flow, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureRecognitionVisitor class
 
@@ -22,22 +22,23 @@ public class StructureRecognitionVisitor : IStructureRecognitionVisitor
 
 | Name | Description |
 | --- | --- |
-| [StructureRecognitionVisitor](./structurerecognitionvisitor/)() | The default constructor. |
+| [StructureRecognitionVisitor](structurerecognitionvisitor/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [EndDocument](./enddocument/)() | Signals the end of document processing. |
-| virtual [Recognize](./recognize/)(Document) | Start recognition of document |
-| virtual [Recognize](./recognize/)(Page) | Start recognition of page |
-| virtual [StartDocument](./startdocument/)() | Called when the document traversal starts. |
-| virtual [VisitParagraph](./visitparagraph/)(BaseParagraph) | Called when a paragraph node is visited. |
-| virtual [VisitSectionEnd](./visitsectionend/)(MarginInfo) | Visits the end of a recognized section in the document. |
-| virtual [VisitTable](./visittable/)(Table) | Visits a recognized table in the document structure. |
+| virtual [EndDocument](../../aspose.pdf.flow/structurerecognitionvisitor/enddocument/)() | Signals the end of document processing. |
+| virtual [Recognize](../../aspose.pdf.flow/structurerecognitionvisitor/recognize/#recognize)(Document) | Start recognition of document |
+| virtual [Recognize](../../aspose.pdf.flow/structurerecognitionvisitor/recognize/#recognize_1)(Page) | Start recognition of page |
+| virtual [StartDocument](../../aspose.pdf.flow/structurerecognitionvisitor/startdocument/)() | Called when the document traversal starts. |
+| virtual [VisitParagraph](../../aspose.pdf.flow/structurerecognitionvisitor/visitparagraph/)(BaseParagraph) | Called when a paragraph node is visited. |
+| virtual [VisitSectionEnd](../../aspose.pdf.flow/structurerecognitionvisitor/visitsectionend/)(MarginInfo) | Visits the end of a recognized section in the document. |
+| virtual [VisitTable](../../aspose.pdf.flow/structurerecognitionvisitor/visittable/)(Table) | Visits a recognized table in the document structure. |
 
 ### See Also
 
+* interface [IStructureRecognitionVisitor](../istructurerecognitionvisitor/)
 * namespace [Aspose.Pdf.Flow](../../aspose.pdf.flow/)
 * assembly [Aspose.PDF](../../)
 

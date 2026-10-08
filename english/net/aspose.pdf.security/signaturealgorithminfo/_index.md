@@ -8,7 +8,7 @@ type: docs
 weight: 100
 url: "/net/aspose.pdf.security/signaturealgorithminfo/"
 keywords: "SignatureAlgorithmInfo, Aspose.Pdf.Security, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureAlgorithmInfo class
 
@@ -23,21 +23,21 @@ public abstract class SignatureAlgorithmInfo
 
 | Name | Description |
 | --- | --- |
-| [SignatureName](./signaturename/) { get; } | Gets the name of the signature field. |
+| [SignatureName](../../aspose.pdf.security/signaturealgorithminfo/signaturename/) { get; } | Gets the name of the signature field. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](./tostring/)() | Converts the current information object to its string representation. |
+| override [ToString](../../aspose.pdf.security/signaturealgorithminfo/tostring/)() | Converts the current information object to its string representation. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| readonly [AlgorithmType](./algorithmtype/) | Gets the type of the signature algorithm used for signing the PDF document. |
-| readonly [CryptographicStandard](./cryptographicstandard/) | Gets the cryptographic standard used for signing the PDF document. |
-| readonly [DigestHashAlgorithm](./digesthashalgorithm/) | Gets the digest hash algorithm used for the signature. For a timestamp, this is the digest hash algorithm with which the hash of the document content is signed. |
+| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Gets the type of the signature algorithm used for signing the PDF document. |
+| readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | Gets the cryptographic standard used for signing the PDF document. |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Gets the digest hash algorithm used for the signature. For a timestamp, this is the digest hash algorithm with which the hash of the document content is signed. |
 
 ### See Also
 

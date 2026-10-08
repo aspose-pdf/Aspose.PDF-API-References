@@ -7,11 +7,11 @@ description: "GraphicElementCollection property. Gets the number of GraphicEleme
 type: docs
 weight: 90
 url: "/net/aspose.pdf.vector/graphicelementcollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicElementCollection.Count property
 
-Gets the number of [`GraphicElement`](../../../aspose.pdf.vector/graphicelement/) object elements actually contained in the collection.
+Gets the number of [`GraphicElement`](../../graphicelement/) object elements actually contained in the collection.
 
 ```csharp
 public int Count { get; }

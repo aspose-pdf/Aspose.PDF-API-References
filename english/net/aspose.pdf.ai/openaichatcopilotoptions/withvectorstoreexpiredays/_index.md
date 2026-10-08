@@ -7,7 +7,7 @@ description: "OpenAIChatCopilotOptions method. Sets the number of days for vecto
 type: docs
 weight: 190
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withvectorstoreexpiredays/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIChatCopilotOptions.WithVectorStoreExpireDays method
 
@@ -23,11 +23,11 @@ public OpenAIChatCopilotOptions WithVectorStoreExpireDays(int days)
 
 ### Return Value
 
-The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
+The current instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,11 +7,11 @@ description: "StampAnnotation method. Acepts AnnotationSelector visitor when bro
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/stampannotation/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StampAnnotation.Accept method
 
-Acepts [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) visitor when browsing annotation collection.
+Acepts [`AnnotationSelector`](../../annotationselector/) visitor when browsing annotation collection.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -23,7 +23,7 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [AnnotationSelector](../../annotationselector/)
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

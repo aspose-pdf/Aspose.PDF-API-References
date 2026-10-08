@@ -7,7 +7,7 @@ description: "PdfFileStamp method. Adds stamp to the file."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/pdffilestamp/addstamp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileStamp.AddStamp method
 
@@ -37,7 +37,7 @@ fileStamp.Close();
 
 ### See Also
 
-* class [Stamp](../../../aspose.pdf.facades/stamp/)
+* class [Stamp](../../stamp/)
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

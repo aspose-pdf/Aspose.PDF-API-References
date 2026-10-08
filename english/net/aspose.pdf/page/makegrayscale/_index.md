@@ -7,7 +7,7 @@ description: "Page method. Converts the page to grayscale."
 type: docs
 weight: 290
 url: "/net/aspose.pdf/page/makegrayscale/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.MakeGrayscale method
 

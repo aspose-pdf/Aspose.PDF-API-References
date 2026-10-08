@@ -7,7 +7,7 @@ description: "LinkAnnotation method. Accepts visitor object to process the annot
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/linkannotation/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LinkAnnotation.Accept method
 
@@ -23,7 +23,7 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [AnnotationSelector](../../annotationselector/)
 * class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

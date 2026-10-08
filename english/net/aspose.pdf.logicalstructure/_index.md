@@ -3,16 +3,16 @@ title: "Aspose.Pdf.LogicalStructure"
 linktitle: "Aspose.Pdf.LogicalStructure"
 articleTitle: "Aspose.Pdf.LogicalStructure"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The Aspose.Pdf.LogicalStructure namespace provides classes."
+description: "The Aspose.Pdf.Tagged.LogicalStructure is a namespace for PDF Logical Structure classes."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/"
 keywords: "Aspose.Pdf.LogicalStructure, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Overview
 
-The **Aspose.Pdf.LogicalStructure** namespace provides classes.
+The **Aspose.Pdf.Tagged.LogicalStructure** is a namespace for PDF Logical Structure classes.
 
 Part of the [Aspose.PDF for .NET](../) API reference.
 
@@ -99,14 +99,4 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | Interface | Description |
 | --- | --- |
 | [ITextElement](./itextelement/) | Interface for presenting text structure elements. |
-
-## FAQ
-
-### What classes does the Aspose.Pdf.LogicalStructure namespace contain?
-
-[AnnotElement](./annotelement/), [AnnotationElement](./annotationelement/), [ArtElement](./artelement/), [AttributeKey](./attributekey/), [AttributeName](./attributename/), and 68 more.
-
-### How many types are in the Aspose.Pdf.LogicalStructure namespace?
-
-The Aspose.Pdf.LogicalStructure namespace contains 74 types, listed above.
 

@@ -7,7 +7,7 @@ description: "PageNumberStamp property. Gets or sets value of the number of star
 type: docs
 weight: 60
 url: "/net/aspose.pdf/pagenumberstamp/startingnumber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageNumberStamp.StartingNumber property
 

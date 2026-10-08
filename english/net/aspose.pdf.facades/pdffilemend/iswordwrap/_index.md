@@ -7,7 +7,7 @@ description: "PdfFileMend property. Sets a bool value that indicates word wrap i
 type: docs
 weight: 170
 url: "/net/aspose.pdf.facades/pdffilemend/iswordwrap/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileMend.IsWordWrap property
 

@@ -7,7 +7,7 @@ description: "Document property. Gets or sets collection of document pages. Note
 type: docs
 weight: 1320
 url: "/net/aspose.pdf/document/pages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.Pages property
 
@@ -33,7 +33,7 @@ Rectangle rect = page.Rect;
 
 ### See Also
 
-* class [PageCollection](../../../aspose.pdf/pagecollection/)
+* class [PageCollection](../../pagecollection/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

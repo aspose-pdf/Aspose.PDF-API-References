@@ -7,7 +7,7 @@ description: "OpenAIOcrCopilotOptions property. Gets or sets the user prompt."
 type: docs
 weight: 170
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/userinstructions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIOcrCopilotOptions.UserInstructions property
 

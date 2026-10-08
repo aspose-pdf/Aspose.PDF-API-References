@@ -7,7 +7,7 @@ description: "Table property. Gets or sets the table left coordinate."
 type: docs
 weight: 260
 url: "/net/aspose.pdf/table/left/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.Left property
 

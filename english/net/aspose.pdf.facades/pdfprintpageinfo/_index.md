@@ -8,7 +8,7 @@ type: docs
 weight: 480
 url: "/net/aspose.pdf.facades/pdfprintpageinfo/"
 keywords: "PdfPrintPageInfo, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPrintPageInfo class
 
@@ -22,7 +22,7 @@ public class PdfPrintPageInfo
 
 | Name | Description |
 | --- | --- |
-| [PageNumber](./pagenumber/) { get; } | Gets currently printed page number; |
+| [PageNumber](../../aspose.pdf.facades/pdfprintpageinfo/pagenumber/) { get; } | Gets currently printed page number; |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "TimestampOptions property. Digest hash algorithm to use for the ti
 type: docs
 weight: 60
 url: "/net/aspose.pdf.lowcode/timestampoptions/digesthashalgorithm/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TimestampOptions.DigestHashAlgorithm property
 

@@ -7,7 +7,7 @@ description: "Table property. Gets the first rows count repeated for several pag
 type: docs
 weight: 160
 url: "/net/aspose.pdf/table/repeatingrowscount/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.RepeatingRowsCount property
 

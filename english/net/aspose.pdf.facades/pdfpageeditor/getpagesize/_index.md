@@ -7,7 +7,7 @@ description: "PdfPageEditor method. Returns the page size of the specified page.
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/pdfpageeditor/getpagesize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.GetPageSize method
 

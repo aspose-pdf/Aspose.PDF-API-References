@@ -7,7 +7,7 @@ description: "BaseParagraph property. Gets or sets the fragment hyperlink(for pd
 type: docs
 weight: 90
 url: "/net/aspose.pdf/baseparagraph/hyperlink/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseParagraph.Hyperlink property
 
@@ -19,7 +19,7 @@ public virtual Hyperlink Hyperlink { get; set; }
 
 ### See Also
 
-* class [Hyperlink](../../../aspose.pdf/hyperlink/)
+* class [Hyperlink](../../hyperlink/)
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

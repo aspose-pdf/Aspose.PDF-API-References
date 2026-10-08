@@ -7,7 +7,7 @@ description: "PageCollectionExtensions method. Deletes all Bates numbering artif
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pagecollectionextensions/deletebatesnumbering/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollectionExtensions.DeleteBatesNumbering method
 
@@ -23,7 +23,7 @@ public static void DeleteBatesNumbering(this PageCollection pageCollection)
 
 ### See Also
 
-* class [PageCollection](../../../aspose.pdf/pagecollection/)
+* class [PageCollection](../../pagecollection/)
 * class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

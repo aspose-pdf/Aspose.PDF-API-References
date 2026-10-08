@@ -7,7 +7,7 @@ description: "TextStamp property. This property determines how stamp is drawn on
 type: docs
 weight: 50
 url: "/net/aspose.pdf/textstamp/draw/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStamp.Draw property
 

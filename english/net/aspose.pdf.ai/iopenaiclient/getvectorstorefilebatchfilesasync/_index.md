@@ -7,7 +7,7 @@ description: "IOpenAIClient method. Retrieves a list of files within a specific 
 type: docs
 weight: 260
 url: "/net/aspose.pdf.ai/iopenaiclient/getvectorstorefilebatchfilesasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOpenAIClient.GetVectorStoreFileBatchFilesAsync method
 
@@ -34,12 +34,13 @@ A task that represents the asynchronous operation. The task result contains a li
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the vector store Id is null or empty. |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the vector store file batch Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the vector store Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the vector store file batch Id is null or empty. |
 
 ### See Also
 
-* class [VectorStoreFileBatchFileListQueryParameters](../../../aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/)
+* class [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
+* class [VectorStoreFileBatchFileListQueryParameters](../../vectorstorefilebatchfilelistqueryparameters/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

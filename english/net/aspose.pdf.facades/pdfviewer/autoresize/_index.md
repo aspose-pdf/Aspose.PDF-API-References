@@ -7,7 +7,7 @@ description: "PdfViewer property. Gets or sets a bool value that indicates wheth
 type: docs
 weight: 460
 url: "/net/aspose.pdf.facades/pdfviewer/autoresize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.AutoResize property
 

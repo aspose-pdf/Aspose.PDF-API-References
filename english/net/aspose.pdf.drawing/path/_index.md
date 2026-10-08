@@ -8,7 +8,7 @@ type: docs
 weight: 110
 url: "/net/aspose.pdf.drawing/path/"
 keywords: "Path, Aspose.Pdf.Drawing, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Path class
 
@@ -22,22 +22,22 @@ public sealed class Path : Shape
 
 | Name | Description |
 | --- | --- |
-| [Path](./path/#constructor)() | Initializes a new instance of the [`Path`](../../aspose.pdf.drawing/path/) class. |
-| [Path](./path/#constructor_1)(Shape[]) | Initializes a new instance of the [`Path`](../../aspose.pdf.drawing/path/) class. |
+| [Path](path/#constructor)(Shape[]) | Initializes a new instance of the `Path` class. |
+| [Path](path/#constructor_1)() | Initializes a new instance of the `Path` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Gets or sets a `GraphInfo` object that indicates the graph info,such as color, line width,etc. |
-| [Shapes](./shapes/) { get; } | Gets or sets shapes collection. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Gets or sets a [`GraphInfo`](../shape/graphinfo/) object that indicates the graph info,such as color, line width,etc. |
+| [Shapes](../../aspose.pdf.drawing/path/shapes/) { get; } | Gets or sets shapes collection. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [CheckBounds](./checkbounds/)(double, double) |  |
+| override [CheckBounds](../../aspose.pdf.drawing/path/checkbounds/)(double, double) |  |
 
 ### See Also
 

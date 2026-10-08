@@ -7,7 +7,7 @@ description: "FitVExplicitDestination property. Gets the horizontal coordinate l
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/fitvexplicitdestination/left/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FitVExplicitDestination.Left property
 

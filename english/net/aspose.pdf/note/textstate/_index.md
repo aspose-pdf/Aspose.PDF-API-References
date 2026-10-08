@@ -7,7 +7,7 @@ description: "Note property. Gets or sets a note text state."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/note/textstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Note.TextState property
 

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.IBoundsCheckableItem interface."
 type: docs
 weight: 1370
 url: "/net/aspose.pdf/iboundscheckableitem/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IBoundsCheckableItem interface
 
@@ -21,7 +21,7 @@ public interface IBoundsCheckableItem
 
 | Name | Description |
 | --- | --- |
-| [CheckBounds](./checkbounds/)(double, double) | Checks if the item fits within the given container dimensions (inclusive). |
+| [CheckBounds](../../aspose.pdf/iboundscheckableitem/checkbounds/)(double, double) | Checks if the item fits within the given container dimensions (inclusive). |
 
 ### See Also
 

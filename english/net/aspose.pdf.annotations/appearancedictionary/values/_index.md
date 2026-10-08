@@ -7,7 +7,7 @@ description: "AppearanceDictionary property. Gets the list of the dictionary val
 type: docs
 weight: 150
 url: "/net/aspose.pdf.annotations/appearancedictionary/values/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AppearanceDictionary.Values property
 
@@ -20,6 +20,7 @@ public ICollection<XForm> Values { get; }
 
 ### See Also
 
+* class [XForm](../../../aspose.pdf/xform/)
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

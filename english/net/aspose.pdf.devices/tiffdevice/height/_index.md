@@ -7,7 +7,7 @@ description: "TiffDevice property. Gets image output height."
 type: docs
 weight: 270
 url: "/net/aspose.pdf.devices/tiffdevice/height/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TiffDevice.Height property
 

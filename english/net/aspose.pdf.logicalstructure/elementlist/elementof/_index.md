@@ -7,7 +7,7 @@ description: "ElementList property. Gets an element at the given index."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/elementlist/elementof/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ElementList indexer
 
@@ -27,7 +27,7 @@ The [`Element`](../../../aspose.pdf.structure/element/) with the specified index
 
 ### See Also
 
-* class [Element](../../../aspose.pdf.structure/element/)
+* class [Element](../../element/)
 * class [ElementList](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

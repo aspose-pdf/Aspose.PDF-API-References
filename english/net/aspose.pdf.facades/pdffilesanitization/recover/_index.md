@@ -7,7 +7,7 @@ description: "PdfFileSanitization method. Recovers document. Use properties to c
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/pdffilesanitization/recover/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSanitization.Recover method
 

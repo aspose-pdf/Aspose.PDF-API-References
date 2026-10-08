@@ -7,7 +7,7 @@ description: "SystemFontsSubstitution property. Gets or sets substitution font c
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/systemfontssubstitution/fontcategories/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SystemFontsSubstitution.FontCategories property
 
@@ -19,7 +19,7 @@ public SubstitutionFontCategories FontCategories { get; set; }
 
 ### See Also
 
-* enum [SubstitutionFontCategories](../../../aspose.pdf.text/substitutionfontcategories/)
+* enum [SubstitutionFontCategories](../../substitutionfontcategories/)
 * class [SystemFontsSubstitution](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

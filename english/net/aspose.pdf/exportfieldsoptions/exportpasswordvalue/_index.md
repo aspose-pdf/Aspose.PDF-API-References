@@ -7,7 +7,7 @@ description: "ExportFieldsOptions property. Gets or sets a value indicating whet
 type: docs
 weight: 10
 url: "/net/aspose.pdf/exportfieldsoptions/exportpasswordvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExportFieldsOptions.ExportPasswordValue property
 

@@ -7,7 +7,7 @@ description: "Arc property. Gets or sets a float value that indicates the ending
 type: docs
 weight: 70
 url: "/net/aspose.pdf.drawing/arc/beta/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Arc.Beta property
 

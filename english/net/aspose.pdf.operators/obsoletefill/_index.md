@@ -8,7 +8,7 @@ type: docs
 weight: 450
 url: "/net/aspose.pdf.operators/obsoletefill/"
 keywords: "ObsoleteFill, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ObsoleteFill class
 
@@ -22,7 +22,7 @@ public class ObsoleteFill : Operator
 
 | Name | Description |
 | --- | --- |
-| [ObsoleteFill](./obsoletefill/)() | Initializes operator. |
+| [ObsoleteFill](obsoletefill/)() | Initializes operator. |
 
 ## Properties
 
@@ -34,8 +34,7 @@ public class ObsoleteFill : Operator
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [Accept](../../aspose.pdf.operators/obsoletefill/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 

@@ -7,11 +7,11 @@ description: "MarkupSection property. Collection of MarkupParagraph objects that
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/markupsection/paragraphs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupSection.Paragraphs property
 
-Collection of [`MarkupParagraph`](../../../aspose.pdf.text/markupparagraph/) objects that are inside the section.
+Collection of [`MarkupParagraph`](../../markupparagraph/) objects that are inside the section.
 
 ```csharp
 public List<MarkupParagraph> Paragraphs { get; }
@@ -19,6 +19,7 @@ public List<MarkupParagraph> Paragraphs { get; }
 
 ### See Also
 
+* class [MarkupParagraph](../../markupparagraph/)
 * class [MarkupSection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

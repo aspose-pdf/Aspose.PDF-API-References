@@ -7,7 +7,7 @@ description: "FieldSerializationResult property. Gets the error messages associa
 type: docs
 weight: 40
 url: "/net/aspose.pdf/fieldserializationresult/errormessages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FieldSerializationResult.ErrorMessages property
 

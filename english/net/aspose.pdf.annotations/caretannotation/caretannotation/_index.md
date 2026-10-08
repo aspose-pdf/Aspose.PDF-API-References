@@ -7,9 +7,9 @@ description: "CaretAnnotation constructor. Constructor for usign in Generator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/caretannotation/caretannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## CaretAnnotation([Document](../../../aspose.pdf/document/)) {#constructor}
+## CaretAnnotation(Document) {#constructor}
 
 Constructor for usign in Generator.
 
@@ -30,7 +30,7 @@ public CaretAnnotation(Document document)
 
 ---
 
-## CaretAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_1}
+## CaretAnnotation(Page, Rectangle) {#constructor_1}
 
 Creates new Caret annotation on the specified page.
 
@@ -46,7 +46,7 @@ public CaretAnnotation(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [CaretAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

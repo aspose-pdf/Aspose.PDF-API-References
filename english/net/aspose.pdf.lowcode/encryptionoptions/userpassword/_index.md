@@ -7,7 +7,7 @@ description: "EncryptionOptions property. User password."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/encryptionoptions/userpassword/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EncryptionOptions.UserPassword property
 

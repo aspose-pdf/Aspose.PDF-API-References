@@ -7,7 +7,7 @@ description: "MarginInfo field. Represents left page margin(if any)"
 type: docs
 weight: 60
 url: "/net/aspose.pdf/saveoptions.margininfo/leftmarginifany/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.MarginInfo.LeftMarginIfAny field
 
@@ -19,7 +19,8 @@ public MarginPartStyle LeftMarginIfAny;
 
 ### See Also
 
-* class [SaveOptions.MarginInfo](../)
+* class [MarginPartStyle](../../saveoptions.marginpartstyle/)
+* class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

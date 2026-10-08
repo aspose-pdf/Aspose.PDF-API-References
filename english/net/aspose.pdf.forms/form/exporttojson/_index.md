@@ -7,9 +7,9 @@ description: "Form method. Exports the PDF form fields to JSON format and writes
 type: docs
 weight: 160
 url: "/net/aspose.pdf.forms/form/exporttojson/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## ExportToJson(Stream, [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)) {#exporttojson}
+## ExportToJson(Stream, ExportFieldsToJsonOptions) {#exporttojson}
 
 Exports the PDF form fields to JSON format and writes the result to the provided stream.
 
@@ -38,6 +38,7 @@ fs.Close();
 
 ### See Also
 
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
 * class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -45,7 +46,7 @@ fs.Close();
 
 ---
 
-## ExportToJson(string, [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)) {#exporttojson_1}
+## ExportToJson(string, ExportFieldsToJsonOptions) {#exporttojson_1}
 
 Exports the PDF form fields to JSON format and writes the result to the specified file.
 
@@ -73,6 +74,7 @@ document.Form..ExportFormFieldsToJson(jsonPath);
 
 ### See Also
 
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
 * class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)

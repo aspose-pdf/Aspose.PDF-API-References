@@ -7,7 +7,7 @@ description: "MarkupAnnotation property. Gets text representing desciption of th
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/markupannotation/subject/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupAnnotation.Subject property
 

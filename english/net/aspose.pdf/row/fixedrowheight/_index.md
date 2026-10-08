@@ -7,7 +7,7 @@ description: "Row property. Gets fixed row height - row may have fixed height;"
 type: docs
 weight: 80
 url: "/net/aspose.pdf/row/fixedrowheight/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Row.FixedRowHeight property
 

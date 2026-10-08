@@ -7,7 +7,7 @@ description: "PdfFormatConversionOptions property. PDF format."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/pdfformatconversionoptions/format/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.Format property
 
@@ -19,7 +19,7 @@ public PdfFormat Format { get; set; }
 
 ### See Also
 
-* enum [PdfFormat](../../../aspose.pdf/pdfformat/)
+* enum [PdfFormat](../../pdfformat/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Table property. Gets or sets break text for table"
 type: docs
 weight: 120
 url: "/net/aspose.pdf/table/breaktext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.BreakText property
 

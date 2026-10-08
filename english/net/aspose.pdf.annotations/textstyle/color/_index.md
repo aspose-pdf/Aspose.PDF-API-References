@@ -7,7 +7,7 @@ description: "TextStyle property. Color of the text."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/textstyle/color/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStyle.Color property
 
@@ -19,7 +19,6 @@ public Color Color { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
 * class [TextStyle](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

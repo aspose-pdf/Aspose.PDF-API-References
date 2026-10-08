@@ -7,7 +7,7 @@ description: "Page method. Returns notifications about inside operations with pa
 type: docs
 weight: 310
 url: "/net/aspose.pdf/page/getnotifications/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.GetNotifications method
 

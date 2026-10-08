@@ -7,7 +7,7 @@ description: "ThreadCreateRequest property. Gets or sets a list of messages to s
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/threadcreaterequest/messages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadCreateRequest.Messages property
 
@@ -19,6 +19,7 @@ public List<ThreadMessageCreateRequest> Messages { get; set; }
 
 ### See Also
 
+* class [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
 * class [ThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

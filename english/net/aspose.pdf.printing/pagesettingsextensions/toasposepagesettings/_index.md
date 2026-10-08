@@ -7,11 +7,11 @@ description: "PageSettingsExtensions method. Converts Windows-specific System.Dr
 type: docs
 weight: 20
 url: "/net/aspose.pdf.printing/pagesettingsextensions/toasposepagesettings/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageSettingsExtensions.ToAsposePageSettings method
 
-Converts Windows-specific System.Drawing.Printing.PageSettings to [`PageSettings`](../../../aspose.pdf.printing/pagesettings/).
+Converts Windows-specific System.Drawing.Printing.PageSettings to [`PageSettings`](../../pagesettings/).
 
 ```csharp
 public static PageSettings ToAsposePageSettings(this PageSettings nativeSettings)
@@ -27,7 +27,7 @@ Converted page settings.
 
 ### See Also
 
-* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PageSettings](../../pagesettings/)
 * class [PageSettingsExtensions](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

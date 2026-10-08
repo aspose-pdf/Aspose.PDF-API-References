@@ -7,11 +7,17 @@ description: "TextSegment property. Gets or sets text state for the text that Te
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/textsegment/textstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSegment.TextState property
 
-Gets or sets text state for the text that [`TextSegment`](../../../aspose.pdf.text/textsegment/) object represents.
+Gets or sets text state for the text that [`TextSegment`](../) object represents.
+
+```csharp
+public TextState TextState { get; set; }
+```
+
+## Remarks
 
 Provides a way to change following properties of the text:
  Font
@@ -20,13 +26,9 @@ Provides a way to change following properties of the text:
  ForegroundColor
  BackgroundColor
 
-```csharp
-public TextState TextState { get; set; }
-```
-
 ### See Also
 
-* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TextState](../../textstate/)
 * class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

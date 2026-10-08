@@ -7,7 +7,7 @@ description: "FormFieldFacade field. Defines the shape of a check box field when
 type: docs
 weight: 400
 url: "/net/aspose.pdf.facades/formfieldfacade/checkboxstylecheck/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.CheckBoxStyleCheck field
 

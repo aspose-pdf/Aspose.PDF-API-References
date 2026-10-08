@@ -8,7 +8,7 @@ type: docs
 weight: 710
 url: "/net/aspose.pdf.ai/lasterror/"
 keywords: "LastError, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LastError class
 
@@ -22,14 +22,14 @@ public class LastError
 
 | Name | Description |
 | --- | --- |
-| [LastError](./lasterror/)() | The default constructor. |
+| [LastError](lasterror/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Code](./code/) { get; set; } | Gets or sets one of server_error, rate_limit_exceeded, or invalid_prompt. |
-| [Message](./message/) { get; set; } | Gets or sets a human-readable description of the error. |
+| [Code](../../aspose.pdf.ai/lasterror/code/) { get; set; } | Gets or sets one of server_error, rate_limit_exceeded, or invalid_prompt. |
+| [Message](../../aspose.pdf.ai/lasterror/message/) { get; set; } | Gets or sets a human-readable description of the error. |
 
 ### See Also
 

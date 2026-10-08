@@ -7,7 +7,7 @@ description: "FormFieldFacade field. Defines a diamond check box style."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.facades/formfieldfacade/checkboxstylediamond/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.CheckBoxStyleDiamond field
 

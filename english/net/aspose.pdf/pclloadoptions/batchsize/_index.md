@@ -7,7 +7,7 @@ description: "PclLoadOptions property. Defines batch size if batched conversion 
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pclloadoptions/batchsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PclLoadOptions.BatchSize property
 

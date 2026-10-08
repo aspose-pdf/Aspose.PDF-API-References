@@ -7,7 +7,7 @@ description: "XfaParserOptions property. Gets or sets the base path."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.xfaconverter/xfaparseroptions/basepath/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XfaParserOptions.BasePath property
 

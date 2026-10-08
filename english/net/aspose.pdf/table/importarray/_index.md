@@ -7,7 +7,7 @@ description: "Table method. Imports one-dimensional array of data into table. Im
 type: docs
 weight: 50
 url: "/net/aspose.pdf/table/importarray/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.ImportArray method
 
@@ -23,11 +23,9 @@ public void ImportArray(object[] importedArray, int firstFilledRow, int firstFil
 | Parameter | Type | Description |
 | --- | --- | --- |
 | importedArray | Object[] | imported data, nulls will be imported as empty strings |
-| firstFilledRow | Int32 | define number of first target row in target table from wich import will start.
- If amount of rows in target table less then required, missing rows will be created first. |
+| firstFilledRow | Int32 | define number of first target row in target table from wich import will start. If amount of rows in target table less then required, missing rows will be created first. |
 | firstFilledColumn | Int32 | specifies number of first target column in target table , column must be present in target table before start of import |
-| isLeftColumnsFilled | Boolean | If 'isLeftColumnsFilled'=false, then in second and all subsequent filled rows cells that are on the left hand from
- firstFilledColumn will be skipped |
+| isLeftColumnsFilled | Boolean | If 'isLeftColumnsFilled'=false, then in second and all subsequent filled rows cells that are on the left hand from firstFilledColumn will be skipped |
 
 ### See Also
 

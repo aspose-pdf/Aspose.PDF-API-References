@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Text.FontStyles enum. Specifies style information appli
 type: docs
 weight: 180
 url: "/net/aspose.pdf.text/fontstyles/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontStyles enumeration
 

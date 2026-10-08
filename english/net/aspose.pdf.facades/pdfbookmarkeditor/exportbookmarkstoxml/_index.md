@@ -7,29 +7,9 @@ description: "PdfBookmarkEditor method. Exports bookmarks to XML file."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## ExportBookmarksToXML(Stream) {#exportbookmarkstoxml}
-
-Exports bookmarks to XML stream.
-
-```csharp
-public void ExportBookmarksToXML(Stream stream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Output stream where data will be stored. |
-
-### See Also
-
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## ExportBookmarksToXML(string) {#exportbookmarkstoxml_1}
+## ExportBookmarksToXML(string) {#exportbookmarkstoxml}
 
 Exports bookmarks to XML file.
 
@@ -48,6 +28,26 @@ PdfBookmarkEditor editor = new PdfBookmarkEditor();
 editor.BindPdf("example.pdf");
 editor.ExportBookmarksToXML("bookmarks.xml");
 ```
+
+### See Also
+
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ExportBookmarksToXML(Stream) {#exportbookmarkstoxml_1}
+
+Exports bookmarks to XML stream.
+
+```csharp
+public void ExportBookmarksToXML(Stream stream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | Output stream where data will be stored. |
 
 ### See Also
 

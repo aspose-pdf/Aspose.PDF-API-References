@@ -7,7 +7,7 @@ description: "FreeTextAnnotation property. Array of point specifying callout lin
 type: docs
 weight: 160
 url: "/net/aspose.pdf.annotations/freetextannotation/callout/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FreeTextAnnotation.Callout property
 

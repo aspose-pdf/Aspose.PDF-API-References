@@ -7,7 +7,7 @@ description: "AttributeKey field. SpaceAfter attribute (Layout attribute owner).
 type: docs
 weight: 140
 url: "/net/aspose.pdf.logicalstructure/attributekey/spaceafter/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.SpaceAfter field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey SpaceAfter;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

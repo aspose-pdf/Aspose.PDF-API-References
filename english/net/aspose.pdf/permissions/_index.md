@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Permissions enum. This enum represents user's permissio
 type: docs
 weight: 2500
 url: "/net/aspose.pdf/permissions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Permissions enumeration
 
@@ -22,37 +22,14 @@ public enum Permissions
 
 | Name | Value | Description |
 | --- | --- | --- |
-| PrintDocument | `4` | (Security handlers of revision 2) Print the document.
- (Security handlers of revision 3 or greater) Print the document 
- (possibly not at the highest quality level, 
- depending on whether <see cref="F:Aspose.Pdf.Permissions.PrintingQuality" /> is also set). |
-| ModifyContent | `8` | Modify the contents of the document by operations other 
- than those controlled by <see cref="F:Aspose.Pdf.Permissions.ModifyTextAnnotations" />, 
- <see cref="F:Aspose.Pdf.Permissions.FillForm" />, and 11. |
-| ExtractContent | `16` | (Security handlers of revision 2) Copy or otherwise extract 
- text and graphics from the document, including extracting 
- text and graphics (in support of accessibility to users 
- with disabilities or for other purposes).
- (Security handlers of revision 3 or greater) Copy or otherwise 
- extract text and graphics from the document by operations 
- other than that controlled by <see cref="F:Aspose.Pdf.Permissions.ExtractContentWithDisabilities" />. |
-| ModifyTextAnnotations | `32` | Add or modify text annotations, fill in interactive form fields, 
- and, if <see cref="F:Aspose.Pdf.Permissions.ModifyContent" /> is also set, create or modify interactive form 
- fields (including signature fields). |
-| FillForm | `256` | (Security handlers of revision 3 or greater) Fill in existing 
- interactive form fields (including signature fields), even if 
- <see cref="F:Aspose.Pdf.Permissions.ModifyTextAnnotations" /> is clear. |
-| ExtractContentWithDisabilities | `512` | (Security handlers of revision 3 or greater) Extract text and 
- graphics (in support of accessibility to users with disabilities 
- or for other purposes). |
-| AssembleDocument | `1024` | (Security handlers of revision 3 or greater) Assemble the document 
- (insert, rotate, or delete pages and create bookmarks or thumbnail 
- images), even if <see cref="F:Aspose.Pdf.Permissions.ModifyContent" /> is clear. |
-| PrintingQuality | `2048` | (Security handlers of revision 3 or greater) Print the document to 
- a representation from which a faithful digital copy of the PDF content 
- could be generated. When this bit is clear (and bit 3 is set), 
- printing is limited to a low-level representation of the appearance, 
- possibly of degraded quality. |
+| PrintDocument | `4` | (Security handlers of revision 2) Print the document. (Security handlers of revision 3 or greater) Print the document (possibly not at the highest quality level, depending on whether PrintingQuality is also set). |
+| ModifyContent | `8` | Modify the contents of the document by operations other than those controlled by ModifyTextAnnotations, FillForm, and 11. |
+| ExtractContent | `10` | (Security handlers of revision 2) Copy or otherwise extract text and graphics from the document, including extracting text and graphics (in support of accessibility to users with disabilities or for other purposes). (Security handlers of revision 3 or greater) Copy or otherwise extract text and graphics from the document by operations other than that controlled by ExtractContentWithDisabilities. |
+| ModifyTextAnnotations | `20` | Add or modify text annotations, fill in interactive form fields, and, if ModifyContent is also set, create or modify interactive form fields (including signature fields). |
+| FillForm | `100` | (Security handlers of revision 3 or greater) Fill in existing interactive form fields (including signature fields), even if ModifyTextAnnotations is clear. |
+| ExtractContentWithDisabilities | `200` | (Security handlers of revision 3 or greater) Extract text and graphics (in support of accessibility to users with disabilities or for other purposes). |
+| AssembleDocument | `400` | (Security handlers of revision 3 or greater) Assemble the document (insert, rotate, or delete pages and create bookmarks or thumbnail images), even if ModifyContent is clear. |
+| PrintingQuality | `800` | (Security handlers of revision 3 or greater) Print the document to a representation from which a faithful digital copy of the PDF content could be generated. When this bit is clear (and bit 3 is set), printing is limited to a low-level representation of the appearance, possibly of degraded quality. |
 
 ### See Also
 

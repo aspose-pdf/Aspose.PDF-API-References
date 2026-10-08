@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionSchemaDescription constructor. Initializes new obj
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xmppdfaextensionschemadescription/xmppdfaextensionschemadescription/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchemaDescription constructor
 

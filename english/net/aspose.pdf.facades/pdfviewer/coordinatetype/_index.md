@@ -7,7 +7,7 @@ description: "PdfViewer property. Gets or sets the page coordinate type (Media/C
 type: docs
 weight: 350
 url: "/net/aspose.pdf.facades/pdfviewer/coordinatetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.CoordinateType property
 

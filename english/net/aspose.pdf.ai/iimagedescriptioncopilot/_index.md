@@ -7,7 +7,7 @@ description: "Aspose.Pdf.AI.IImageDescriptionCopilot interface. Represents an im
 type: docs
 weight: 530
 url: "/net/aspose.pdf.ai/iimagedescriptioncopilot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IImageDescriptionCopilot interface
 
@@ -21,10 +21,11 @@ public interface IImageDescriptionCopilot : IAICopilot
 
 | Name | Description |
 | --- | --- |
-| [GetImageDescriptionsAsync](./getimagedescriptionsasync/)(CancellationToken?) | Asynchronously gets image descriptions for images from a PDF document. |
+| [GetImageDescriptionsAsync](../../aspose.pdf.ai/iimagedescriptioncopilot/getimagedescriptionsasync/)(CancellationToken?) | Asynchronously gets image descriptions for images from a PDF document. |
 
 ### See Also
 
+* interface [IAICopilot](../iaicopilot/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
 

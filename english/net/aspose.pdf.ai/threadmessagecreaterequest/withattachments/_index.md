@@ -7,7 +7,7 @@ description: "ThreadMessageCreateRequest method. Sets the attachments for the th
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/threadmessagecreaterequest/withattachments/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadMessageCreateRequest.WithAttachments method
 
@@ -23,11 +23,12 @@ public ThreadMessageCreateRequest WithAttachments(List<Attachment> attachments)
 
 ### Return Value
 
-The current instance of [`ThreadMessageCreateRequest`](../../../aspose.pdf.ai/threadmessagecreaterequest/).
+The current instance of [`ThreadMessageCreateRequest`](../).
 
 ### See Also
 
-* class [ThreadMessageCreateRequest](../../../aspose.pdf.ai/threadmessagecreaterequest/)
+* class [ThreadMessageCreateRequest](../)
+* class [Attachment](../../attachment/)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

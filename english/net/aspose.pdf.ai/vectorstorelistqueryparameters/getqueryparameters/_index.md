@@ -7,7 +7,7 @@ description: "VectorStoreListQueryParameters method. Gets the query parameters f
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/vectorstorelistqueryparameters/getqueryparameters/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreListQueryParameters.GetQueryParameters method
 

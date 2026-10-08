@@ -7,12 +7,12 @@ description: "GraphicElement method. Adds current element on the page. If there 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.vector/graphicelement/addonpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicElement.AddOnPage method
 
 Adds current element on the page.
- If there are many elements to add better use `AddGraphics`.
+ If there are many elements to add better use [`AddGraphics`](../../../aspose.pdf/page/addgraphics/).
 
 ```csharp
 public virtual void AddOnPage(Page destination)

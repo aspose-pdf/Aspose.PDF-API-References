@@ -7,7 +7,7 @@ description: "TextRecognitionResult property. A list containing the detailed OCR
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/textrecognitionresult/ocrdetails/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextRecognitionResult.OcrDetails property
 
@@ -20,6 +20,7 @@ public List<OcrDetail> OcrDetails { get; set; }
 
 ### See Also
 
+* class [OcrDetail](../../ocrdetail/)
 * class [TextRecognitionResult](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

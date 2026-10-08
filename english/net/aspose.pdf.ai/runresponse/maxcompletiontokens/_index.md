@@ -7,7 +7,7 @@ description: "RunResponse property. Gets or sets the maximum number of completio
 type: docs
 weight: 240
 url: "/net/aspose.pdf.ai/runresponse/maxcompletiontokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunResponse.MaxCompletionTokens property
 

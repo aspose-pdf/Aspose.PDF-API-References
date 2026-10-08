@@ -8,7 +8,7 @@ type: docs
 weight: 50
 url: "/net/aspose.pdf.drawing/ellipse/"
 keywords: "Ellipse, Aspose.Pdf.Drawing, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Ellipse class
 
@@ -22,24 +22,24 @@ public sealed class Ellipse : Shape
 
 | Name | Description |
 | --- | --- |
-| [Ellipse](./ellipse/)(double, double, double, double) | Initializes a new instance of the [`Ellipse`](../../aspose.pdf.drawing/ellipse/) class. |
+| [Ellipse](ellipse/)(double, double, double, double) | Initializes a new instance of the `Ellipse` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Bottom](./bottom/) { get; set; } | Gets or sets a float value that indicates the bottom position of the ellipse. |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Gets or sets a `GraphInfo` object that indicates the graph info,such as color, line width,etc. |
-| [Height](./height/) { get; set; } | Gets or sets a float value that indicates the height of the ellipse. |
-| [Left](./left/) { get; set; } | Gets or sets a float value that indicates the left position of the ellipse. |
+| [Bottom](../../aspose.pdf.drawing/ellipse/bottom/) { get; set; } | Gets or sets a float value that indicates the bottom position of the ellipse. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Gets or sets a [`GraphInfo`](../shape/graphinfo/) object that indicates the graph info,such as color, line width,etc. |
+| [Height](../../aspose.pdf.drawing/ellipse/height/) { get; set; } | Gets or sets a float value that indicates the height of the ellipse. |
+| [Left](../../aspose.pdf.drawing/ellipse/left/) { get; set; } | Gets or sets a float value that indicates the left position of the ellipse. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape |
-| [Width](./width/) { get; set; } | Gets or sets a float value that indicates the width of the ellipse. |
+| [Width](../../aspose.pdf.drawing/ellipse/width/) { get; set; } | Gets or sets a float value that indicates the width of the ellipse. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [CheckBounds](./checkbounds/)(double, double) |  |
+| override [CheckBounds](../../aspose.pdf.drawing/ellipse/checkbounds/)(double, double) |  |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "LocalHyperlink property. Gets or sets the target page number."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/localhyperlink/targetpagenumber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LocalHyperlink.TargetPageNumber property
 

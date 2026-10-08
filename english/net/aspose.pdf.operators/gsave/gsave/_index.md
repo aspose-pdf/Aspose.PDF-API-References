@@ -7,7 +7,7 @@ description: "GSave constructor. Initializes q operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/gsave/gsave/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GSave constructor
 

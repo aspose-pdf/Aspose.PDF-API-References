@@ -7,7 +7,7 @@ description: "LineTo constructor. Initializes line operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/lineto/lineto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineTo constructor
 

@@ -7,7 +7,7 @@ description: "CreateChatCompletionChunkResponse property. Gets or sets the finge
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/createchatcompletionchunkresponse/systemfingerprint/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateChatCompletionChunkResponse.SystemFingerprint property
 

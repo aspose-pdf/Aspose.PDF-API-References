@@ -8,7 +8,7 @@ type: docs
 weight: 1320
 url: "/net/aspose.pdf.ai/toolresources/"
 keywords: "ToolResources, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ToolResources class
 
@@ -24,14 +24,14 @@ public class ToolResources
 
 | Name | Description |
 | --- | --- |
-| [ToolResources](./toolresources/)() | The default constructor. |
+| [ToolResources](toolresources/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CodeInterpreter](./codeinterpreter/) { get; set; } | Gets or sets the code interpreter tool resources. |
-| [FileSearch](./filesearch/) { get; set; } | Gets or sets the file search tool resources. |
+| [CodeInterpreter](../../aspose.pdf.ai/toolresources/codeinterpreter/) { get; set; } | Gets or sets the code interpreter tool resources. |
+| [FileSearch](../../aspose.pdf.ai/toolresources/filesearch/) { get; set; } | Gets or sets the file search tool resources. |
 
 ### See Also
 

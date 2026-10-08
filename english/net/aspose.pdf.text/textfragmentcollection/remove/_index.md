@@ -7,7 +7,7 @@ description: "TextFragmentCollection method. Deletes specified item from the col
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/textfragmentcollection/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentCollection.Remove method
 
@@ -27,7 +27,7 @@ true if item was deleted from collection; otherwise, false.
 
 ### See Also
 
-* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [TextFragment](../../textfragment/)
 * class [TextFragmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

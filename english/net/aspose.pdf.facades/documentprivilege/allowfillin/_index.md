@@ -7,7 +7,7 @@ description: "DocumentPrivilege property. Sets the permission which allow fill i
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/documentprivilege/allowfillin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.AllowFillIn property
 

@@ -7,7 +7,7 @@ description: "TableAbsorber property. Returns readonly IList containing tables t
 type: docs
 weight: 80
 url: "/net/aspose.pdf.text/tableabsorber/tablelist/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableAbsorber.TableList property
 
@@ -19,6 +19,7 @@ public virtual IList<AbsorbedTable> TableList { get; }
 
 ### See Also
 
+* class [AbsorbedTable](../../absorbedtable/)
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

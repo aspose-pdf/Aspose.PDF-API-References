@@ -7,7 +7,7 @@ description: "LlamaSummaryCopilotOptions property. Gets or sets the prompt to in
 type: docs
 weight: 170
 url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/summaryprompt/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaSummaryCopilotOptions.SummaryPrompt property
 

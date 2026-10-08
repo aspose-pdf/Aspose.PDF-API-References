@@ -7,7 +7,7 @@ description: "LevelFormat property. Gets or sets a list level text state"
 type: docs
 weight: 50
 url: "/net/aspose.pdf/levelformat/textstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LevelFormat.TextState property
 

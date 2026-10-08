@@ -7,7 +7,7 @@ description: "FreeTextAnnotation property. Gets or sets the intent of the free t
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/freetextannotation/intent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FreeTextAnnotation.Intent property
 
@@ -19,7 +19,7 @@ public FreeTextIntent Intent { get; set; }
 
 ### See Also
 
-* enum [FreeTextIntent](../../../aspose.pdf.annotations/freetextintent/)
+* enum [FreeTextIntent](../../freetextintent/)
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "ObjectResult property. Indicates whether the result is an object."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.lowcode/objectresult/isobject/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ObjectResult.IsObject property
 

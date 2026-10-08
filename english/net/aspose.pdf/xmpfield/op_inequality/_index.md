@@ -7,7 +7,7 @@ description: "XmpField method. Implements the operator !=."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/xmpfield/op_inequality/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpField Inequality operator
 
@@ -28,7 +28,7 @@ The result of the operator.
 
 ### See Also
 
-* class [XmpField](../../../aspose.pdf/xmpfield/)
+* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

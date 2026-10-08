@@ -7,7 +7,7 @@ description: "VectorStoreFileBatchResponse property. Gets or sets the ID of the 
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/vectorstorefilebatchresponse/vectorstoreid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileBatchResponse.VectorStoreId property
 

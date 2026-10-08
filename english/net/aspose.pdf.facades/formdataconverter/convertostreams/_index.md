@@ -7,7 +7,7 @@ description: "FormDataConverter method. This method is obsolete. Please use Conv
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/formdataconverter/convertostreams/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormDataConverter.ConverToStreams method
 
@@ -24,7 +24,7 @@ public void ConverToStreams(Stream[] destStream, DataType destType)
 
 ### See Also
 
-* enum [DataType](../../../aspose.pdf.lowcode/datatype/)
+* enum [DataType](../../datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

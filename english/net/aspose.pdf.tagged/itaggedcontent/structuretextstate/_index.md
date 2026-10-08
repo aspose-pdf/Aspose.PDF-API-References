@@ -7,7 +7,7 @@ description: "ITaggedContent property. Get StructureTextState settings for whole
 type: docs
 weight: 430
 url: "/net/aspose.pdf.tagged/itaggedcontent/structuretextstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.StructureTextState property
 

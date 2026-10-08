@@ -7,7 +7,7 @@ description: "Image property. Gets or sets the image height."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/image/fixheight/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Image.FixHeight property
 

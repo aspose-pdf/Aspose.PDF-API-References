@@ -7,7 +7,7 @@ description: "MoveTextPosition property. X coordinate of text position."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/movetextposition/x/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MoveTextPosition.X property
 

@@ -8,7 +8,7 @@ type: docs
 weight: 1470
 url: "/net/aspose.pdf/id/"
 keywords: "Id, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Id class
 
@@ -30,8 +30,8 @@ string modified = doc.Id.Modified;
 
 | Name | Description |
 | --- | --- |
-| [Modified](./modified/) { get; } | Changing identifier based on the document's contents at the time it was last updated. |
-| [Original](./original/) { get; } | Permanent identifier based on the contents of the document at the time it was originally created. |
+| [Modified](../../aspose.pdf/id/modified/) { get; } | Changing identifier based on the document's contents at the time it was last updated. |
+| [Original](../../aspose.pdf/id/original/) { get; } | Permanent identifier based on the contents of the document at the time it was originally created. |
 
 ### See Also
 

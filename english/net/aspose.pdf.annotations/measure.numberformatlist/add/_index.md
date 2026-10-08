@@ -7,7 +7,7 @@ description: "NumberFormatList method. Adds number format to list."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/measure.numberformatlist/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.NumberFormatList.Add method
 
@@ -23,7 +23,8 @@ public void Add(NumberFormat value)
 
 ### See Also
 
-* class [Measure.NumberFormatList](../)
+* class [NumberFormat](../../measure.numberformat/)
+* class [NumberFormatList](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

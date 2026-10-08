@@ -7,7 +7,7 @@ description: "TextResponse property. Gets or sets the text of the message."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/textresponse/value/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextResponse.Value property
 

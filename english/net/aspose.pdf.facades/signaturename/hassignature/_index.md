@@ -7,7 +7,7 @@ description: "SignatureName property. Indicates whether the signature is present
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/signaturename/hassignature/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureName.HasSignature property
 

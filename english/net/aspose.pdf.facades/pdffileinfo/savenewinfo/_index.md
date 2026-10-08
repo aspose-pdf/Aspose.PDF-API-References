@@ -7,7 +7,7 @@ description: "PdfFileInfo method. Save updated PDF document into specified file.
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/pdffileinfo/savenewinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.SaveNewInfo method
 

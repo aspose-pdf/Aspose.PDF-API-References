@@ -7,7 +7,7 @@ description: "OpenAIModels property. Gets the identifier for the GPT-4 Turbo mod
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/openaimodels/gpt4turbo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIModels.Gpt4Turbo property
 

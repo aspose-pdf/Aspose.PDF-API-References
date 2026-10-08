@@ -7,7 +7,7 @@ description: "Artifact property. Gets name of artifact type. May be used if arti
 type: docs
 weight: 160
 url: "/net/aspose.pdf/artifact/customtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.CustomType property
 

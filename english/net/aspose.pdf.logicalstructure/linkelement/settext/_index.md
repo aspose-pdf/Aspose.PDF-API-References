@@ -7,7 +7,7 @@ description: "LinkElement method."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/linkelement/settext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LinkElement.SetText method
 
@@ -16,10 +16,6 @@ product_version: "26.9.0"
 ```csharp
 public void SetText(string text)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | String |  |
 
 ### See Also
 

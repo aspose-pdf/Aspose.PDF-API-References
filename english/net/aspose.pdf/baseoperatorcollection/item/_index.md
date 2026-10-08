@@ -7,7 +7,7 @@ description: "BaseOperatorCollection property. Gets operator by its index."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/baseoperatorcollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseOperatorCollection indexer
 
@@ -27,7 +27,7 @@ Operator from requested index
 
 ### See Also
 
-* class [Operator](../../../aspose.pdf/operator/)
+* class [Operator](../../operator/)
 * class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

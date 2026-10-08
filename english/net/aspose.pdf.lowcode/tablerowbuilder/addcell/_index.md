@@ -7,7 +7,7 @@ description: "TableRowBuilder method. Add cell to table row."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/tablerowbuilder/addcell/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableRowBuilder.AddCell method
 
@@ -19,11 +19,11 @@ public virtual TableCellBuilder AddCell()
 
 ### Return Value
 
-Instance of created [`TableCellBuilder`](../../../aspose.pdf.lowcode/tablecellbuilder/).
+Instance of created [`TableCellBuilder`](../../tablecellbuilder/).
 
 ### See Also
 
-* class [TableCellBuilder](../../../aspose.pdf.lowcode/tablecellbuilder/)
+* class [TableCellBuilder](../../tablecellbuilder/)
 * class [TableRowBuilder](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

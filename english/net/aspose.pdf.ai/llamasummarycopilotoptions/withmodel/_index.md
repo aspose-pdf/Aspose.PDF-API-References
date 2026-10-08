@@ -7,7 +7,7 @@ description: "LlamaSummaryCopilotOptions method. Sets the model for the summary 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/withmodel/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaSummaryCopilotOptions.WithModel method
 
@@ -23,11 +23,11 @@ public LlamaSummaryCopilotOptions WithModel(string model)
 
 ### Return Value
 
-The current instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
+The current instance of [`LlamaSummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

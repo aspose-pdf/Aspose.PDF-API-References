@@ -7,7 +7,7 @@ description: "TextFragmentAbsorber property. Gets or sets text edit options. The
 type: docs
 weight: 250
 url: "/net/aspose.pdf.text/textfragmentabsorber/texteditoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentAbsorber.TextEditOptions property
 
@@ -19,7 +19,7 @@ public TextEditOptions TextEditOptions { get; set; }
 
 ### See Also
 
-* class [TextEditOptions](../../../aspose.pdf.text/texteditoptions/)
+* class [TextEditOptions](../../texteditoptions/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

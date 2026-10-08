@@ -7,7 +7,7 @@ description: "CaretAnnotation property. Gets or sets symbol associated with care
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/caretannotation/symbol/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CaretAnnotation.Symbol property
 
@@ -19,7 +19,7 @@ public CaretSymbol Symbol { get; set; }
 
 ### See Also
 
-* enum [CaretSymbol](../../../aspose.pdf.annotations/caretsymbol/)
+* enum [CaretSymbol](../../caretsymbol/)
 * class [CaretAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

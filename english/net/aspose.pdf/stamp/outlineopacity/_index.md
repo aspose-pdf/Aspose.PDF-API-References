@@ -7,7 +7,7 @@ description: "Stamp property. Gets or sets a value to indicate the stamp outline
 type: docs
 weight: 60
 url: "/net/aspose.pdf/stamp/outlineopacity/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.OutlineOpacity property
 

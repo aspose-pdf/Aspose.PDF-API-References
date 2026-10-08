@@ -7,7 +7,7 @@ description: "PaperSources field. Represents the topmost bin of the printer, or 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/papersources/upper/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSources.Upper field
 
@@ -19,7 +19,7 @@ public static readonly PaperSource Upper;
 
 ### See Also
 
-* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSource](../../papersource/)
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

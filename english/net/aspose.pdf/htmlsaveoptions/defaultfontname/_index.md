@@ -7,7 +7,7 @@ description: "HtmlSaveOptions property. Specifies the name of an installed font 
 type: docs
 weight: 130
 url: "/net/aspose.pdf/htmlsaveoptions/defaultfontname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.DefaultFontName property
 

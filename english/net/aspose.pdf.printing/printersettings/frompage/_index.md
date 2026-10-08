@@ -7,7 +7,7 @@ description: "PrinterSettings property. Gets or sets the first page to print."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.printing/printersettings/frompage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterSettings.FromPage property
 

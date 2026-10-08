@@ -7,7 +7,7 @@ description: "SetCharacterSpacing constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setcharacterspacing/setcharacterspacing/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCharacterSpacing constructor
 

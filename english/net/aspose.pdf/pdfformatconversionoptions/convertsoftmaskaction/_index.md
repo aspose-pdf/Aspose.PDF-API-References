@@ -7,7 +7,7 @@ description: "PdfFormatConversionOptions property. Action for images with soft m
 type: docs
 weight: 140
 url: "/net/aspose.pdf/pdfformatconversionoptions/convertsoftmaskaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.ConvertSoftMaskAction property
 
@@ -19,7 +19,7 @@ public ConvertSoftMaskAction ConvertSoftMaskAction { get; set; }
 
 ### See Also
 
-* enum [ConvertSoftMaskAction](../../../aspose.pdf/convertsoftmaskaction/)
+* enum [ConvertSoftMaskAction](../../convertsoftmaskaction/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

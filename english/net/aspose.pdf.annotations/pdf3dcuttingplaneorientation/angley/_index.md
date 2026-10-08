@@ -7,7 +7,7 @@ description: "PDF3DCuttingPlaneOrientation property. Gets or sets the angle to Y
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DCuttingPlaneOrientation.AngleY property
 

@@ -7,7 +7,7 @@ description: "DocumentPrivilege property. Sets the permission which allow modify
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/documentprivilege/allowmodifyannotations/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.AllowModifyAnnotations property
 

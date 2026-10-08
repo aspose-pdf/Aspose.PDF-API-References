@@ -7,11 +7,11 @@ description: "PdfExtractor constructor. Initializes new PdfExtractor object."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfextractor/pdfextractor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractor() {#constructor}
 
-Initializes new [`PdfExtractor`](../../../aspose.pdf.lowcode/pdfextractor/) object.
+Initializes new [`PdfExtractor`](../) object.
 
 ```csharp
 public PdfExtractor()
@@ -25,9 +25,9 @@ public PdfExtractor()
 
 ---
 
-## PdfExtractor([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## PdfExtractor(Document) {#constructor_1}
 
-Initializes new [`PdfExtractor`](../../../aspose.pdf.lowcode/pdfextractor/) object on base of the *document*.
+Initializes new [`PdfExtractor`](../) object on base of the *document*.
 
 ```csharp
 public PdfExtractor(Document document)

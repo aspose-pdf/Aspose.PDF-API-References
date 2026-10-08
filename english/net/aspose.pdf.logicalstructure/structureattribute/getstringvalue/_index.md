@@ -7,7 +7,7 @@ description: "StructureAttribute method. Gets Value String."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/structureattribute/getstringvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureAttribute.GetStringValue method
 

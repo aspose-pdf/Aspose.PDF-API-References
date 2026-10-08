@@ -7,7 +7,7 @@ description: "PdfToImageOptions method. Sets new save data source. Can only be a
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/pdftoimageoptions/addoutput/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfToImageOptions.AddOutput method
 
@@ -24,7 +24,7 @@ public void AddOutput(IDataSource saveDataSource)
 ### See Also
 
 * [FileDataSource](../filedatasource/)
-* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
+* interface [IDataSource](../../idatasource/)
 * class [PdfToImageOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "GraphInfo property. Gets or sets a dash phase."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/graphinfo/dashphase/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphInfo.DashPhase property
 

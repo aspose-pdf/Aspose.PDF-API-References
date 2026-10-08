@@ -7,7 +7,7 @@ description: "Layer property. Gets the layer name."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/layer/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Layer.Name property
 

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.FreeTextIntent enum. Enumerates the intents
 type: docs
 weight: 440
 url: "/net/aspose.pdf.annotations/freetextintent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FreeTextIntent enumeration
 

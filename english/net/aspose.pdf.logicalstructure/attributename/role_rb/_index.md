@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute Role: rb - Radio button."
 type: docs
 weight: 610
 url: "/net/aspose.pdf.logicalstructure/attributename/role_rb/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.Role_rb field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName Role_rb;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

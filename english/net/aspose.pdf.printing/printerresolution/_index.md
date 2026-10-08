@@ -8,7 +8,7 @@ type: docs
 weight: 160
 url: "/net/aspose.pdf.printing/printerresolution/"
 keywords: "PrinterResolution, Aspose.Pdf.Printing, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterResolution class
 
@@ -22,21 +22,21 @@ public class PrinterResolution
 
 | Name | Description |
 | --- | --- |
-| [PrinterResolution](./printerresolution/)() | Initializes a new instance of the [`PrinterResolution`](../../aspose.pdf.printing/printerresolution/) class with default properties. |
+| [PrinterResolution](printerresolution/)() | Initializes a new instance of the `PrinterResolution` class with default properties. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Kind](./kind/) { get; set; } | Gets a value indicating the kind of printer resolution. |
-| [X](./x/) { get; set; } | Gets the printer resolution in the horizontal direction, in dots per inch. |
-| [Y](./y/) { get; set; } | Gets the printer resolution in the vertical direction, in dots per inch. |
+| [Kind](../../aspose.pdf.printing/printerresolution/kind/) { get; set; } | Gets a value indicating the kind of printer resolution. |
+| [X](../../aspose.pdf.printing/printerresolution/x/) { get; set; } | Gets the printer resolution in the horizontal direction, in dots per inch. |
+| [Y](../../aspose.pdf.printing/printerresolution/y/) { get; set; } | Gets the printer resolution in the vertical direction, in dots per inch. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](./tostring/)() | Provides some interesting information about the PrinterResolution in String form. |
+| override [ToString](../../aspose.pdf.printing/printerresolution/tostring/)() | Provides some interesting information about the PrinterResolution in String form. |
 
 ### See Also
 

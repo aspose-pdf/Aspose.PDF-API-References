@@ -7,7 +7,7 @@ description: "StampInfo property. Gets identifier of the stamp."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/stampinfo/stampid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StampInfo.StampId property
 

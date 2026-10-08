@@ -7,7 +7,7 @@ description: "Aspose.Pdf.IPageSetOptions interface. Defines conversion options r
 type: docs
 weight: 1420
 url: "/net/aspose.pdf/ipagesetoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IPageSetOptions interface
 
@@ -21,7 +21,7 @@ public interface IPageSetOptions
 
 | Name | Description |
 | --- | --- |
-| [ExplicitListOfSavedPages](./explicitlistofsavedpages/) { get; set; } | Specifies the array of numbers of pages to convert. |
+| [ExplicitListOfSavedPages](../../aspose.pdf/ipagesetoptions/explicitlistofsavedpages/) { get; set; } | Specifies the array of numbers of pages to convert. |
 
 ### See Also
 

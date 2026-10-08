@@ -7,7 +7,7 @@ description: "VectorStoreFileBatchCreateRequest constructor. The default constru
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/vectorstorefilebatchcreaterequest/vectorstorefilebatchcreaterequest/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileBatchCreateRequest constructor
 

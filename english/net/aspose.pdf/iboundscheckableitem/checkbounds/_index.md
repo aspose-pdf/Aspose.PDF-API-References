@@ -7,7 +7,7 @@ description: "IBoundsCheckableItem method. Checks if the item fits within the gi
 type: docs
 weight: 10
 url: "/net/aspose.pdf/iboundscheckableitem/checkbounds/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IBoundsCheckableItem.CheckBounds method
 

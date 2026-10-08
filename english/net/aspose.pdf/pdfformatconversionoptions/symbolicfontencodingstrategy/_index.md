@@ -7,7 +7,7 @@ description: "PdfFormatConversionOptions property. Strategy to copy encoding dat
 type: docs
 weight: 170
 url: "/net/aspose.pdf/pdfformatconversionoptions/symbolicfontencodingstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.SymbolicFontEncodingStrategy property
 
@@ -20,7 +20,7 @@ public PdfASymbolicFontEncodingStrategy SymbolicFontEncodingStrategy { get; set;
 
 ### See Also
 
-* class [PdfASymbolicFontEncodingStrategy](../../../aspose.pdf/pdfasymbolicfontencodingstrategy/)
+* class [PdfASymbolicFontEncodingStrategy](../../pdfasymbolicfontencodingstrategy/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Measure property. A number format array for measurement of the slo
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/measure/slopeformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.SlopeFormat property
 
@@ -19,6 +19,7 @@ public NumberFormatList SlopeFormat { get; set; }
 
 ### See Also
 
+* class [NumberFormatList](../../measure.numberformatlist/)
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Matrix method. Creates matrix for given rotation angle."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/matrix/rotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rotation(double) {#rotation}
 
@@ -33,13 +33,13 @@ Matrix m = Matrix.Rotation(Math.PI / 2);
 
 ### See Also
 
-* class [Matrix](../../../aspose.pdf/matrix/)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Rotation([Rotation](../../../aspose.pdf/rotation/)) {#rotation_1}
+## Rotation(Rotation) {#rotation_1}
 
 Creates matrix for given rotation.
 
@@ -57,8 +57,8 @@ Matrix with rotation.
 
 ### See Also
 
-* class [Matrix](../../../aspose.pdf/matrix/)
-* enum [Rotation](../../../aspose.pdf/rotation/)
+* class [Matrix](../)
+* enum [Rotation](../../rotation/)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

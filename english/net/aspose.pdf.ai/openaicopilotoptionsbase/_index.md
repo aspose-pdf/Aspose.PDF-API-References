@@ -8,7 +8,7 @@ type: docs
 weight: 930
 url: "/net/aspose.pdf.ai/openaicopilotoptionsbase/"
 keywords: "OpenAICopilotOptionsBase, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAICopilotOptionsBase class
 
@@ -22,7 +22,7 @@ public abstract class OpenAICopilotOptionsBase
 
 | Name | Description |
 | --- | --- |
-| [Model](./model/) { get; set; } | Gets or sets the model to use for the assistant. |
+| [Model](../../aspose.pdf.ai/openaicopilotoptionsbase/model/) { get; set; } | Gets or sets the model to use for the assistant. |
 
 ### See Also
 

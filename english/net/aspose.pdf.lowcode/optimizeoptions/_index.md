@@ -8,11 +8,11 @@ type: docs
 weight: 550
 url: "/net/aspose.pdf.lowcode/optimizeoptions/"
 keywords: "OptimizeOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizeOptions class
 
-Represents Optimize options for [`Optimizer`](../../aspose.pdf.lowcode/optimizer/) plugin.
+Represents Optimize options for [`Optimizer`](../optimizer/) plugin.
 
 ```csharp
 public sealed class OptimizeOptions : OrganizerBaseOptions
@@ -22,7 +22,7 @@ public sealed class OptimizeOptions : OrganizerBaseOptions
 
 | Name | Description |
 | --- | --- |
-| [OptimizeOptions](./optimizeoptions/)() | The default constructor. |
+| [OptimizeOptions](optimizeoptions/)() | The default constructor. |
 
 ## Properties
 

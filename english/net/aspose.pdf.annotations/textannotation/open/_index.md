@@ -7,7 +7,7 @@ description: "TextAnnotation property. Gets or sets a flag specifying whether th
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/textannotation/open/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextAnnotation.Open property
 

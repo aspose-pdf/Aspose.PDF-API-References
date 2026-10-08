@@ -7,7 +7,7 @@ description: "ViewerPreference field. Thumbnail images visible."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/viewerpreference/pagemodeusethumbs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ViewerPreference.PageModeUseThumbs field
 

@@ -8,11 +8,11 @@ type: docs
 weight: 180
 url: "/net/aspose.pdf.lowcode/formeditorremoveoptions/"
 keywords: "FormEditorRemoveOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditorRemoveOptions class
 
-Base class for option classes for remove fields in document by [`FormEditor`](../../aspose.pdf.lowcode/formeditor/) plugin.
+Base class for option classes for remove fields in document by [`FormEditor`](../formeditor/) plugin.
 
 ```csharp
 public abstract class FormEditorRemoveOptions : FormEditorOptions

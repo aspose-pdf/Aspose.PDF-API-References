@@ -7,7 +7,7 @@ description: "GifDevice method. Converts the page into gif and saves it in the o
 type: docs
 weight: 70
 url: "/net/aspose.pdf.devices/gifdevice/process/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GifDevice.Process method
 

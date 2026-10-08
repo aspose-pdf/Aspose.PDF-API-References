@@ -8,7 +8,7 @@ type: docs
 weight: 2520
 url: "/net/aspose.pdf/point3d/"
 keywords: "Point3D, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Point3D class
 
@@ -22,22 +22,22 @@ public sealed class Point3D
 
 | Name | Description |
 | --- | --- |
-| [Point3D](./point3d/)(double, double, double) | Initializes new instance of the [`Point3D`](../../aspose.pdf/point3d/). |
+| [Point3D](point3d/)(double, double, double) | Initializes new instance of the `Point3D`. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| static [Trivial](./trivial/) { get; } | Gets point with zero coordinates. |
-| [X](./x/) { get; set; } | X coordinate value. |
-| [Y](./y/) { get; set; } | Y coordinate value. |
-| [Z](./z/) { get; set; } | Z coordinate value. |
+| static [Trivial](../../aspose.pdf/point3d/trivial/) { get; } | Gets point with zero coordinates. |
+| [X](../../aspose.pdf/point3d/x/) { get; set; } | X coordinate value. |
+| [Y](../../aspose.pdf/point3d/y/) { get; set; } | Y coordinate value. |
+| [Z](../../aspose.pdf/point3d/z/) { get; set; } | Z coordinate value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](./tostring/)() | Returns the string representation of the object. |
+| override [ToString](../../aspose.pdf/point3d/tostring/)() | Returns the string representation of the object. |
 
 ### See Also
 

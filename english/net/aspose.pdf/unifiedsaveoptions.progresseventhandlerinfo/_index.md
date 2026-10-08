@@ -8,7 +8,7 @@ type: docs
 weight: 3070
 url: "/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/"
 keywords: "UnifiedSaveOptions.ProgressEventHandlerInfo, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnifiedSaveOptions.ProgressEventHandlerInfo class
 
@@ -23,10 +23,10 @@ public class ProgressEventHandlerInfo
 
 | Name | Description |
 | --- | --- |
-| [DocumentId](./documentid/) | The unique document ID. |
-| [EventType](./eventtype/) | Type of progress event that occurred. |
-| [MaxValue](./maxvalue/) | Maximum possible value of progress value. |
-| [Value](./value/) | Current value of progress value. |
+| [DocumentId](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/documentid/) | The unique document ID. |
+| [EventType](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/eventtype/) | Type of progress event that occurred. |
+| [MaxValue](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/maxvalue/) | Maximum possible value of progress value. |
+| [Value](../../aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/value/) | Current value of progress value. |
 
 ### See Also
 

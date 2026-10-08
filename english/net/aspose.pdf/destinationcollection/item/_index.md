@@ -7,7 +7,7 @@ description: "DestinationCollection property. Gets the destination object by ind
 type: docs
 weight: 120
 url: "/net/aspose.pdf/destinationcollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DestinationCollection indexer
 

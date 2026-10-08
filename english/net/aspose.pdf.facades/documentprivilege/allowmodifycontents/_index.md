@@ -7,7 +7,7 @@ description: "DocumentPrivilege property. Sets the permission which allow modify
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/documentprivilege/allowmodifycontents/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.AllowModifyContents property
 

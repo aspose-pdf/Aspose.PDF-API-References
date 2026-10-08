@@ -7,32 +7,9 @@ description: "XYZExplicitDestination constructor. Creates local explicit destina
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/xyzexplicitdestination/xyzexplicitdestination/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## XYZExplicitDestination(int, double, double, double) {#constructor}
-
-Creates remote explicit destination.
-
-```csharp
-public XYZExplicitDestination(int pageNumber, double left, double top, double zoom)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageNumber | Int32 | The destination page number of remote document. |
-| left | Double | Left horizontal coordinate of the upper-left corner of the window. |
-| top | Double | Top vertical coordinate of the upper-left corner of the window. |
-| zoom | Double | Zoom factor. |
-
-### See Also
-
-* class [XYZExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## XYZExplicitDestination([Page](../../../aspose.pdf/page/), double, double, double) {#constructor_1}
+## XYZExplicitDestination(Page, double, double, double) {#constructor}
 
 Creates local explicit destination.
 
@@ -50,6 +27,29 @@ public XYZExplicitDestination(Page page, double left, double top, double zoom)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
+* class [XYZExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## XYZExplicitDestination(int, double, double, double) {#constructor_1}
+
+Creates remote explicit destination.
+
+```csharp
+public XYZExplicitDestination(int pageNumber, double left, double top, double zoom)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pageNumber | Int32 | The destination page number of remote document. |
+| left | Double | Left horizontal coordinate of the upper-left corner of the window. |
+| top | Double | Top vertical coordinate of the upper-left corner of the window. |
+| zoom | Double | Zoom factor. |
+
+### See Also
+
 * class [XYZExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

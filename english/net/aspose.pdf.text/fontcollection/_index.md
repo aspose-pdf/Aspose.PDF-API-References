@@ -8,7 +8,7 @@ type: docs
 weight: 140
 url: "/net/aspose.pdf.text/fontcollection/"
 keywords: "FontCollection, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontCollection class
 
@@ -41,30 +41,31 @@ doc.Save(@"D:\Tests\input.pdf");
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Gets the number of [`Font`](../../aspose.pdf.text/font/) object elements actually contained in the collection. |
-| [IsReadOnly](./isreadonly/) { get; } | Gets a value indicating whether collection is read-only |
-| [IsSynchronized](./issynchronized/) { get; } | Gets a value indicating whether access to the collection is synchronized (thread safe). |
-| [Item](./item/) { get; } | Gets the font element at the specified index. (2 indexers) |
-| [SyncRoot](./syncroot/) { get; } | Gets an object that can be used to synchronize access to the collection. |
+| [Count](../../aspose.pdf.text/fontcollection/count/) { get; } | Gets the number of [`Font`](../font/) object elements actually contained in the collection. |
+| [IsReadOnly](../../aspose.pdf.text/fontcollection/isreadonly/) { get; } | Gets a value indicating whether collection is read-only |
+| [IsSynchronized](../../aspose.pdf.text/fontcollection/issynchronized/) { get; } | Gets a value indicating whether access to the collection is synchronized (thread safe). |
+| [Item](../../aspose.pdf.text/fontcollection/item/) { get; } | Gets the font element at the specified index. (2 indexers) |
+| [SyncRoot](../../aspose.pdf.text/fontcollection/syncroot/) { get; } | Gets an object that can be used to synchronize access to the collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(Font, out string) | Adds new font to font resources and returns automatically assigned name of font resource. |
-| [Contains](./contains/)(Font) | Determines whether the collection contains a specific value. |
-| [Contains](./contains/)(string) | Checks if font exists in font collection. |
-| [CopyTo](./copyto/)(Font[], int) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array |
-| [GetEnumerator](./getenumerator/)() | Returns an enumerator for the entire collection. |
-| [Remove](./remove/)(Font) | Deletes specified item from collection. |
+| [Add](../../aspose.pdf.text/fontcollection/add/)(Font, out string) | Adds new font to font resources and returns automatically assigned name of font resource. |
+| [Contains](../../aspose.pdf.text/fontcollection/contains/#contains)(string) | Checks if font exists in font collection. |
+| [Contains](../../aspose.pdf.text/fontcollection/contains/#contains_1)(Font) | Determines whether the collection contains a specific value. |
+| [CopyTo](../../aspose.pdf.text/fontcollection/copyto/)(Font[], int) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array |
+| [GetEnumerator](../../aspose.pdf.text/fontcollection/getenumerator/)() | Returns an enumerator for the entire collection. |
+| [Remove](../../aspose.pdf.text/fontcollection/remove/)(Font) | Deletes specified item from collection. |
 
 ## Remarks
 
-Font collections represented by [`FontCollection`](../../aspose.pdf.text/fontcollection/) class are used in several scenarios. 
- For example, in resources with `Fonts` property.
+Font collections represented by [`FontCollection`](../fontcollection/) class are used in several scenarios. 
+ For example, in resources with [`Fonts`](../../aspose.pdf/resources/fonts/) property.
 
 ### See Also
 
+* class [Font](../font/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
 

@@ -7,7 +7,7 @@ description: "PdfXmpMetadata method. Tries to find key in the dictionary and ret
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/trygetvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata.TryGetValue method
 

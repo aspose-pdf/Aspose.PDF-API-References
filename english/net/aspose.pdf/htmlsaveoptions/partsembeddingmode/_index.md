@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. It defines whether referenced files (HTML, 
 type: docs
 weight: 430
 url: "/net/aspose.pdf/htmlsaveoptions/partsembeddingmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.PartsEmbeddingMode field
 
@@ -20,6 +20,7 @@ public PartsEmbeddingModes PartsEmbeddingMode;
 
 ### See Also
 
+* enum [PartsEmbeddingModes](../../htmlsaveoptions.partsembeddingmodes/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

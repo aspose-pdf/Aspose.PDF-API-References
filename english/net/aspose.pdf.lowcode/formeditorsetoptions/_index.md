@@ -8,7 +8,7 @@ type: docs
 weight: 190
 url: "/net/aspose.pdf.lowcode/formeditorsetoptions/"
 keywords: "FormEditorSetOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditorSetOptions class
 
@@ -22,7 +22,7 @@ public sealed class FormEditorSetOptions : FormEditorOptions
 
 | Name | Description |
 | --- | --- |
-| [FormEditorSetOptions](./formeditorsetoptions/)(SelectField, FormFieldSetOptions) | Initializes a new instance of the [`FormEditorSetOptions`](../../aspose.pdf.lowcode/formeditorsetoptions/) object, in which the values assigned to the properties of the field are specified. |
+| [FormEditorSetOptions](formeditorsetoptions/)(SelectField, FormFieldSetOptions) | Initializes a new instance of the `FormEditorSetOptions` object, in which the values assigned to the properties of the field are specified. |
 
 ## Properties
 

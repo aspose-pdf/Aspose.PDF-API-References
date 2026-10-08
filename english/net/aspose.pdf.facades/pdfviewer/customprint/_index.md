@@ -7,7 +7,7 @@ description: "PdfViewer event. Occurs before printing starts and allows to provi
 type: docs
 weight: 520
 url: "/net/aspose.pdf.facades/pdfviewer/customprint/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.CustomPrint event
 
@@ -19,6 +19,7 @@ public event EventHandler<CustomPrintEventArgs> CustomPrint;
 
 ### See Also
 
+* class [CustomPrintEventArgs](../../../aspose.pdf.printing/customprinteventargs/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

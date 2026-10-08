@@ -7,7 +7,7 @@ description: "PageSettings property. Gets or sets a value indicating whether the
 type: docs
 weight: 60
 url: "/net/aspose.pdf.printing/pagesettings/landscape/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageSettings.Landscape property
 

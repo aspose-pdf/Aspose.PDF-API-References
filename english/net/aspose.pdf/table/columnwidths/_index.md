@@ -7,7 +7,7 @@ description: "Table property. Gets the column widths of the table."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/table/columnwidths/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.ColumnWidths property
 

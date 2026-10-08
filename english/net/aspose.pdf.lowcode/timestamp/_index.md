@@ -8,7 +8,7 @@ type: docs
 weight: 1020
 url: "/net/aspose.pdf.lowcode/timestamp/"
 keywords: "Timestamp, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Timestamp class
 
@@ -22,17 +22,18 @@ public sealed class Timestamp : IDisposable, IPlugin
 
 | Name | Description |
 | --- | --- |
-| [Timestamp](./timestamp/)() | The default constructor. |
+| [Timestamp](timestamp/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/)() | Releases resources used by the plugin. |
-| [Process](./process/)(IPluginOptions) | Processes the timestamp plugin with the supplied options. |
+| [Dispose](../../aspose.pdf.lowcode/timestamp/dispose/)() | Releases resources used by the plugin. |
+| [Process](../../aspose.pdf.lowcode/timestamp/process/)(IPluginOptions) | Processes the timestamp plugin with the supplied options. |
 
 ### See Also
 
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

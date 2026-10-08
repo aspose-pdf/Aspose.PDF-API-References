@@ -7,7 +7,7 @@ description: "PdfFileInfo method. Gets the version info of PDF document."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/pdffileinfo/getpdfversion/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.GetPdfVersion method
 

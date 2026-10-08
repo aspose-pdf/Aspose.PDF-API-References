@@ -7,7 +7,7 @@ description: "Page property. Gets or sets crop box of the page."
 type: docs
 weight: 560
 url: "/net/aspose.pdf/page/cropbox/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.CropBox property
 
@@ -28,7 +28,7 @@ Rectangle cropBox = document.Pages[1].CropBox;
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../rectangle/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

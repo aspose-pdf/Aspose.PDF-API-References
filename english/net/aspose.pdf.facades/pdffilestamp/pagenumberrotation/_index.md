@@ -7,7 +7,7 @@ description: "PdfFileStamp property. Gets or sets rotation of page number. Rotat
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/pdffilestamp/pagenumberrotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileStamp.PageNumberRotation property
 

@@ -8,7 +8,7 @@ type: docs
 weight: 310
 url: "/net/aspose.pdf.text/regexmanager/"
 keywords: "RegexManager, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RegexManager class
 
@@ -22,7 +22,7 @@ public static class RegexManager
 
 | Name | Description |
 | --- | --- |
-| static [MatchTimeout](./matchtimeout/) { get; set; } | Gets or sets the timeout for Regex operations across the library. The default value is 1000 ms. |
+| static [MatchTimeout](../../aspose.pdf.text/regexmanager/matchtimeout/) { get; set; } | Gets or sets the timeout for Regex operations across the library. The default value is 1000 ms. |
 
 ### See Also
 

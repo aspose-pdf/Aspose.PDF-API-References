@@ -7,7 +7,7 @@ description: "TextFragmentCollection method. Returns an enumerator for the entir
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/textfragmentcollection/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentCollection.GetEnumerator method
 
@@ -23,6 +23,7 @@ Enumerator object.
 
 ### See Also
 
+* class [TextFragment](../../textfragment/)
 * class [TextFragmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

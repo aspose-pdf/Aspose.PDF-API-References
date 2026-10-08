@@ -7,7 +7,7 @@ description: "Form property. If this property is true the \"Perms\" dictionary w
 type: docs
 weight: 300
 url: "/net/aspose.pdf.forms/form/removepermission/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.RemovePermission property
 

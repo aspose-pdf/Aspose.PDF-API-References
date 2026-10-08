@@ -7,7 +7,7 @@ description: "PageNumberStamp method. Adds page number."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pagenumberstamp/put/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageNumberStamp.Put method
 
@@ -23,7 +23,7 @@ public override void Put(Page page)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

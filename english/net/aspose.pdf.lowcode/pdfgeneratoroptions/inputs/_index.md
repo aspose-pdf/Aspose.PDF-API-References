@@ -7,7 +7,7 @@ description: "PdfGeneratorOptions property. Returns PdfGenerator plugin data col
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/pdfgeneratoroptions/inputs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfGeneratorOptions.Inputs property
 
@@ -19,6 +19,7 @@ public List<IDataSource> Inputs { get; }
 
 ### See Also
 
+* interface [IDataSource](../../idatasource/)
 * class [PdfGeneratorOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

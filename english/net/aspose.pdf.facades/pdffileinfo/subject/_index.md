@@ -7,7 +7,7 @@ description: "PdfFileInfo property. Gets or sets the Subject information of PDF 
 type: docs
 weight: 370
 url: "/net/aspose.pdf.facades/pdffileinfo/subject/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.Subject property
 

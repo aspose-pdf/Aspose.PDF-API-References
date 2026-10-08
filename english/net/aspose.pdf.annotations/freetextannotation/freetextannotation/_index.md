@@ -7,9 +7,9 @@ description: "FreeTextAnnotation constructor. Constructor to use with Generator.
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/freetextannotation/freetextannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## FreeTextAnnotation([Document](../../../aspose.pdf/document/), [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)) {#constructor}
+## FreeTextAnnotation(Document, DefaultAppearance) {#constructor}
 
 Constructor to use with Generator.
 
@@ -25,14 +25,14 @@ public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 ### See Also
 
 * class [Document](../../../aspose.pdf/document/)
-* class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
+* class [DefaultAppearance](../../defaultappearance/)
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## FreeTextAnnotation([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/), [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)) {#constructor_1}
+## FreeTextAnnotation(Page, Rectangle, DefaultAppearance) {#constructor_1}
 
 Creates new FreeText annotation on the specified page.
 
@@ -49,8 +49,8 @@ public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearanc
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [DefaultAppearance](../../../aspose.pdf.annotations/defaultappearance/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [DefaultAppearance](../../defaultappearance/)
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

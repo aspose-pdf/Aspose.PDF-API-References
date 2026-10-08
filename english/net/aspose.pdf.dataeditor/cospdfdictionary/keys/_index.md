@@ -7,7 +7,7 @@ description: "CosPdfDictionary property. Collection of editable keys."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/keys/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfDictionary.Keys property
 

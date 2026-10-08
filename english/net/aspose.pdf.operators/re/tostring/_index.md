@@ -7,7 +7,7 @@ description: "Re method. Returns text representation of the operator."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/re/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Re.ToString method
 

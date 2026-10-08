@@ -7,7 +7,7 @@ description: "OBJRElement method. Returns a string that represents the current o
 type: docs
 weight: 60
 url: "/net/aspose.pdf.logicalstructure/objrelement/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OBJRElement.ToString method
 

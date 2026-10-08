@@ -7,7 +7,7 @@ description: "OutputIntents method. Removes all output intents from the collecti
 type: docs
 weight: 20
 url: "/net/aspose.pdf/outputintents/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputIntents.Clear method
 

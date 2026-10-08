@@ -8,7 +8,7 @@ type: docs
 weight: 30
 url: "/net/aspose.pdf.ocr/ocrtextabsorber/"
 keywords: "OcrTextAbsorber, Aspose.Pdf.Ocr, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OcrTextAbsorber class
 
@@ -22,22 +22,22 @@ public sealed class OcrTextAbsorber
 
 | Name | Description |
 | --- | --- |
-| [OcrTextAbsorber](./ocrtextabsorber/#constructor)() | Initializes a new instance with default options. |
-| [OcrTextAbsorber](./ocrtextabsorber/#constructor_1)(OcrTextRecognitionOptions) | Initializes a new instance with the specified options. |
+| [OcrTextAbsorber](ocrtextabsorber/#constructor)() | Initializes a new instance with default options. |
+| [OcrTextAbsorber](ocrtextabsorber/#constructor_1)(OcrTextRecognitionOptions) | Initializes a new instance with the specified options. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Options](./options/) { get; } | Gets the recognition options. |
-| [Text](./text/) { get; } | Gets the text recognized by the most recent `Visit` or `Visit` call. |
+| [Options](../../aspose.pdf.ocr/ocrtextabsorber/options/) { get; } | Gets the recognition options. |
+| [Text](../../aspose.pdf.ocr/ocrtextabsorber/text/) { get; } | Gets the text recognized by the most recent [`Visit`](./visit/) or [`Visit`](./visit/) call. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Visit](./visit/)(Document) | Recognizes text on every page of the document, joined by `PageSeparator`. |
-| [Visit](./visit/)(Page) | Recognizes text on the page. |
+| [Visit](../../aspose.pdf.ocr/ocrtextabsorber/visit/#visit)(Document) | Recognizes text on every page of the document, joined by [`PageSeparator`](../ocrtextrecognitionoptions/pageseparator/). |
+| [Visit](../../aspose.pdf.ocr/ocrtextabsorber/visit/#visit_1)(Page) | Recognizes text on the page. |
 
 ### See Also
 

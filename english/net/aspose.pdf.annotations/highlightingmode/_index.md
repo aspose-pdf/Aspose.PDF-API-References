@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.HighlightingMode enum. Enumerates the annot
 type: docs
 weight: 500
 url: "/net/aspose.pdf.annotations/highlightingmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HighlightingMode enumeration
 

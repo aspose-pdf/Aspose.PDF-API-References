@@ -8,7 +8,7 @@ type: docs
 weight: 530
 url: "/net/aspose.pdf.annotations/importdataaction/"
 keywords: "ImportDataAction, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImportDataAction class
 
@@ -22,7 +22,7 @@ public class ImportDataAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [Data](./data/) { get; set; } | The FDF file from which to import the data. |
+| [Data](../../aspose.pdf.annotations/importdataaction/data/) { get; set; } | The FDF file from which to import the data. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 
 ## Methods

@@ -7,7 +7,7 @@ description: "XForm property. Gets or sets matrix of the form."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/xform/matrix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XForm.Matrix property
 
@@ -19,7 +19,7 @@ public Matrix Matrix { get; set; }
 
 ### See Also
 
-* class [Matrix](../../../aspose.pdf/matrix/)
+* class [Matrix](../../matrix/)
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

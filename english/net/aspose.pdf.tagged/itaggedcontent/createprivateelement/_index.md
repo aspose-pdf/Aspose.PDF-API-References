@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates PrivateElement."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.tagged/itaggedcontent/createprivateelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreatePrivateElement method
 

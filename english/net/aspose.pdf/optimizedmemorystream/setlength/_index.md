@@ -7,7 +7,7 @@ description: "OptimizedMemoryStream method. When overridden in a derived class, 
 type: docs
 weight: 90
 url: "/net/aspose.pdf/optimizedmemorystream/setlength/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizedMemoryStream.SetLength method
 

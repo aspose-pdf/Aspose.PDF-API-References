@@ -7,7 +7,7 @@ description: "WidgetAnnotation property. Gets or sets required status of the fie
 type: docs
 weight: 120
 url: "/net/aspose.pdf.annotations/widgetannotation/required/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WidgetAnnotation.Required property
 

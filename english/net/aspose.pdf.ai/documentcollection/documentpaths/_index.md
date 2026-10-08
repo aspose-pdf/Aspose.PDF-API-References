@@ -7,7 +7,7 @@ description: "DocumentCollection property. Gets or sets the collection of docume
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/documentcollection/documentpaths/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentCollection.DocumentPaths property
 

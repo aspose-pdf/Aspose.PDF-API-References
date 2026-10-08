@@ -7,7 +7,7 @@ description: "CompletionCreateRequest property. Gets or sets a list of messages 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/completioncreaterequest/messages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionCreateRequest.Messages property
 
@@ -19,6 +19,7 @@ public List<ChatMessage> Messages { get; set; }
 
 ### See Also
 
+* class [ChatMessage](../../chatmessage/)
 * class [CompletionCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

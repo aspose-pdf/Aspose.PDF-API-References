@@ -7,7 +7,7 @@ description: "PrinterSettings property. Gets the default page settings for this 
 type: docs
 weight: 50
 url: "/net/aspose.pdf.printing/printersettings/defaultpagesettings/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterSettings.DefaultPageSettings property
 
@@ -19,7 +19,7 @@ public PageSettings DefaultPageSettings { get; }
 
 ### See Also
 
-* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PageSettings](../../pagesettings/)
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

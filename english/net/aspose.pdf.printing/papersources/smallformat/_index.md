@@ -7,7 +7,7 @@ description: "PaperSources field. Represents the bin for the smaller format pape
 type: docs
 weight: 90
 url: "/net/aspose.pdf.printing/papersources/smallformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSources.SmallFormat field
 
@@ -19,7 +19,7 @@ public static readonly PaperSource SmallFormat;
 
 ### See Also
 
-* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSource](../../papersource/)
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

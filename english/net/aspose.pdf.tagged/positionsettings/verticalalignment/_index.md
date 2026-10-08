@@ -7,7 +7,7 @@ description: "PositionSettings property. Gets or sets a vertical alignment of pa
 type: docs
 weight: 40
 url: "/net/aspose.pdf.tagged/positionsettings/verticalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PositionSettings.VerticalAlignment property
 

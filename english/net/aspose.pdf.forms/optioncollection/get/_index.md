@@ -7,7 +7,7 @@ description: "OptionCollection method. Gets option by index."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/optioncollection/get/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## get(int) {#get}
 
@@ -27,7 +27,7 @@ Retreived option.
 
 ### See Also
 
-* class [Option](../../../aspose.pdf.forms/option/)
+* class [Option](../../option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
@@ -52,7 +52,7 @@ Retreived option.
 
 ### See Also
 
-* class [Option](../../../aspose.pdf.forms/option/)
+* class [Option](../../option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

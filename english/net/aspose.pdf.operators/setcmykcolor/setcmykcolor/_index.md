@@ -7,7 +7,7 @@ description: "SetCMYKColor constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setcmykcolor/setcmykcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCMYKColor constructor
 

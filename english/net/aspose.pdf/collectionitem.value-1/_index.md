@@ -8,7 +8,7 @@ type: docs
 weight: 350
 url: "/net/aspose.pdf/collectionitem.value-1/"
 keywords: "CollectionItem.Value<T>, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionItem.Value&lt;T&gt; class
 
@@ -18,9 +18,7 @@ Represents a class for a value of colection item.
 public class Value<T>
 ```
 
-## Type Parameters
-
-| Name | Description |
+| Parameter | Description |
 | --- | --- |
 | T |  |
 
@@ -28,8 +26,8 @@ public class Value<T>
 
 | Name | Description |
 | --- | --- |
-| [Data](./data/) { get; } | Gets a collection item value. |
-| [Prefix](./prefix/) { get; } | Gets a prefix string that shall be concatenated with the text string presented to the user. This entry is ignored when an interactive PDF processor sorts the items in the collection. Default: none |
+| [Data](../../aspose.pdf/collectionitem.value-1/data/) { get; } | Gets a collection item value. |
+| [Prefix](../../aspose.pdf/collectionitem.value-1/prefix/) { get; } | Gets a prefix string that shall be concatenated with the text string presented to the user. This entry is ignored when an interactive PDF processor sorts the items in the collection. Default: none |
 
 ### See Also
 

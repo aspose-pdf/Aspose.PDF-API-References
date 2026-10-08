@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Facades.ReplaceTextStrategy.NoCharacterAction enum. Act
 type: docs
 weight: 560
 url: "/net/aspose.pdf.facades/replacetextstrategy.nocharacteraction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ReplaceTextStrategy.NoCharacterAction enumeration
 

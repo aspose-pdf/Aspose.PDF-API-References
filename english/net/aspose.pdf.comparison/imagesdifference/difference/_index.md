@@ -7,7 +7,7 @@ description: "ImagesDifference property. Gets the difference array. This array i
 type: docs
 weight: 50
 url: "/net/aspose.pdf.comparison/imagesdifference/difference/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagesDifference.Difference property
 

@@ -8,7 +8,7 @@ type: docs
 weight: 380
 url: "/net/aspose.pdf.ai/filecitation/"
 keywords: "FileCitation, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileCitation class
 
@@ -22,13 +22,13 @@ public class FileCitation
 
 | Name | Description |
 | --- | --- |
-| [FileCitation](./filecitation/)() | The default constructor. |
+| [FileCitation](filecitation/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FileId](./fileid/) { get; set; } | Gets or sets the ID of the specific File the citation is from. |
+| [FileId](../../aspose.pdf.ai/filecitation/fileid/) { get; set; } | Gets or sets the ID of the specific File the citation is from. |
 
 ### See Also
 

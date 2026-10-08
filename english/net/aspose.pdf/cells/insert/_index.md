@@ -7,7 +7,7 @@ description: "Cells method. Insert cell to collection."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/cells/insert/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Cells.Insert method
 
@@ -24,7 +24,7 @@ public void Insert(int index, Cell cell)
 
 ### See Also
 
-* class [Cell](../../../aspose.pdf/cell/)
+* class [Cell](../../cell/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

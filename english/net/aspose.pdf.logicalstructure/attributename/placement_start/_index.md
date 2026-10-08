@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute Placement: Start - Placed so that t
 type: docs
 weight: 80
 url: "/net/aspose.pdf.logicalstructure/attributename/placement_start/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.Placement_Start field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName Placement_Start;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

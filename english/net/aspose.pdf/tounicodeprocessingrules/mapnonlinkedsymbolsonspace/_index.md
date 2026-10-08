@@ -7,7 +7,7 @@ description: "ToUnicodeProcessingRules property. Some fonts doesn't provide info
 type: docs
 weight: 50
 url: "/net/aspose.pdf/tounicodeprocessingrules/mapnonlinkedsymbolsonspace/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ToUnicodeProcessingRules.MapNonLinkedSymbolsOnSpace property
 

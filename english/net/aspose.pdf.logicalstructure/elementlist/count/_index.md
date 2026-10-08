@@ -7,7 +7,7 @@ description: "ElementList property. Gets the number of elements in the ElementLi
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/elementlist/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ElementList.Count property
 

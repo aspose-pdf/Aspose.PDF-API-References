@@ -7,7 +7,7 @@ description: "Color property. Represents a object that indicates the pattern col
 type: docs
 weight: 170
 url: "/net/aspose.pdf/color/patterncolorspace/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Color.PatternColorSpace property
 

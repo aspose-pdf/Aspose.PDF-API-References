@@ -7,7 +7,7 @@ description: "FontSubstitutionCollection method. Returns an enumerator for the e
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontSubstitutionCollection.GetEnumerator method
 
@@ -23,6 +23,7 @@ Enumerator object
 
 ### See Also
 
+* class [FontSubstitution](../../fontsubstitution/)
 * class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

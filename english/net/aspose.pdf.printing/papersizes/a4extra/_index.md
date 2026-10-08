@@ -7,21 +7,23 @@ description: "PaperSizes field. A4 extra paper (236 mm by 322 mm)."
 type: docs
 weight: 510
 url: "/net/aspose.pdf.printing/papersizes/a4extra/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.A4Extra field
 
 A4 extra paper (236 mm by 322 mm).
 
-This value is specific to the PostScript driver and is used only by Linotronic printers to help save paper.
-
 ```csharp
 public static readonly PaperSize A4Extra;
 ```
 
+## Remarks
+
+This value is specific to the PostScript driver and is used only by Linotronic printers to help save paper.
+
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

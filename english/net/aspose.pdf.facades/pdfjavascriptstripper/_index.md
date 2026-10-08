@@ -8,7 +8,7 @@ type: docs
 weight: 460
 url: "/net/aspose.pdf.facades/pdfjavascriptstripper/"
 keywords: "PdfJavaScriptStripper, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfJavaScriptStripper class
 
@@ -22,14 +22,14 @@ public sealed class PdfJavaScriptStripper
 
 | Name | Description |
 | --- | --- |
-| [PdfJavaScriptStripper](./pdfjavascriptstripper/)() | The default constructor. |
+| [PdfJavaScriptStripper](pdfjavascriptstripper/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Strip](./strip/)(Stream, Stream) | Remove Java Script from the document. |
-| [Strip](./strip/)(string, string) | Remove Java Script from document. |
+| [Strip](../../aspose.pdf.facades/pdfjavascriptstripper/strip/#strip)(string, string) | Remove Java Script from document. |
+| [Strip](../../aspose.pdf.facades/pdfjavascriptstripper/strip/#strip_1)(Stream, Stream) | Remove Java Script from the document. |
 
 ### See Also
 

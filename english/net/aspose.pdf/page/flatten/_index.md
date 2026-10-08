@@ -7,7 +7,7 @@ description: "Page method. Removes all fields located on the page and place thei
 type: docs
 weight: 220
 url: "/net/aspose.pdf/page/flatten/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Flatten method
 

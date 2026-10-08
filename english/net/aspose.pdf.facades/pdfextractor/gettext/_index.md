@@ -7,29 +7,9 @@ description: "PdfExtractor method. Saves text to file. see also:ExtractText"
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/pdfextractor/gettext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## GetText(Stream) {#gettext}
-
-Saves text to stream. see also:`ExtractText`
-
-```csharp
-public void GetText(Stream outputStream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputStream | Stream | The stream to save the text. |
-
-### See Also
-
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## GetText(string) {#gettext_1}
+## GetText(string) {#gettext}
 
 Saves text to file. see also:`ExtractText`
 
@@ -40,6 +20,26 @@ public void GetText(string outputFile)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputFile | String | The file path and name to save the text. |
+
+### See Also
+
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## GetText(Stream) {#gettext_1}
+
+Saves text to stream. see also:`ExtractText`
+
+```csharp
+public void GetText(Stream outputStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputStream | Stream | The stream to save the text. |
 
 ### See Also
 

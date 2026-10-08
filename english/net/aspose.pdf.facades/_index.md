@@ -3,16 +3,17 @@ title: "Aspose.Pdf.Facades"
 linktitle: "Aspose.Pdf.Facades"
 articleTitle: "Aspose.Pdf.Facades"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The Aspose.Pdf.Facades namespace provides classes."
+description: "The Aspose.Pdf.Facades namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents perfoming operations ..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/"
 keywords: "Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Overview
 
-The **Aspose.Pdf.Facades** namespace provides classes.
+The **Aspose.Pdf.Facades** namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents
+ perfoming operations like concatenating, stamping, signing, annotating etc. but on the high level without access to a document's inner structure.
 
 Part of the [Aspose.PDF for .NET](../) API reference.
 
@@ -28,7 +29,6 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [Facade](./facade/) | Base facade class. |
 | [FontColor](./fontcolor/) | Class representing color of the text. |
 | [Form](./form/) | Class representing Acro form object. |
-| [Form.FormImportResult](./form.formimportresult/) | Class which describes result if field import. |
 | [FormDataConverter](./formdataconverter/) | Represents a class to convert data from one format to another format. It can convert the data in fdf/xml/pdf/xfdf to the OLEDB/OdbcDB. It also can convert the data in the OLEDB/OdbcDB to the data in fdf/xml/xfdf. It can convert the fdf to the xml with "hard-named" tag. |
 | [FormEditor](./formeditor/) | Class for editing forms (ading/deleting field etc) |
 | [FormFieldFacade](./formfieldfacade/) | Class for representing field properties. |
@@ -40,10 +40,6 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [PdfConverter](./pdfconverter/) | Represents a class to convert a pdf file's each page to images, supporting BMP, JPEG, PNG and TIFF now. Supported content in pdfs: pictures, form, comment. |
 | [PdfExtractor](./pdfextractor/) | Class for extracting images and text from PDF document. |
 | [PdfFileEditor](./pdffileeditor/) | Implements operations with PDF file: concatenation, splitting, extracting pages, making booklet, etc. |
-| [PdfFileEditor.ContentsResizeParameters](./pdffileeditor.contentsresizeparameters/) | Class for specifing page resize parameters. Allow to set the following parameters: Size of result page (width, height) in default space units or in percents of initial pages size; Left, Top, Bottom and Right margins in default space units or in percents of initial page size; Some values may be left null for automatic calculation. These values will be calculated from rest of page size after calculation explicitly specified values. For example: if page width = 100 and new page width specified 60 units then left and right margins are automatically calculated: (100 - 60) / 2 = 15. This class is used in ResizeContents method. |
-| [PdfFileEditor.ContentsResizeValue](./pdffileeditor.contentsresizevalue/) | Value of margin or content size specified in percents of default space units. This class is used in ContentsResizeParameters. |
-| [PdfFileEditor.CorruptedItem](./pdffileeditor.corrupteditem/) | Class which provides information about corrupted files in time of concatenation. |
-| [PdfFileEditor.PageBreak](./pdffileeditor.pagebreak/) | Data of page break position. |
 | [PdfFileInfo](./pdffileinfo/) | Represents a class for accessing meta information of PDF document. |
 | [PdfFileMend](./pdffilemend/) | Represents a class for adding texts and images on the pages of existing PDF document. |
 | [PdfFileSanitization](./pdffilesanitization/) | Represents sanitization and recovery API. Use it if you can't create/open documents in any other way. |
@@ -83,14 +79,10 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | [EncodingType](./encodingtype/) | Enumerates encoding types of the text using. |
 | [FieldType](./fieldtype/) | Enumeration of possible field types. |
 | [FontStyle](./fontstyle/) | Enumerates 14 types of font. |
-| [Form.ImportStatus](./form.importstatus/) | Status of imported field |
 | [ImageMergeMode](./imagemergemode/) | Represents modes for merging images. |
 | [KeySize](./keysize/) | Defines different key sizes which can be used to encrypt pdf documents. |
-| [PdfFileEditor.ConcatenateCorruptedFileAction](./pdffileeditor.concatenatecorruptedfileaction/) | Action performed when corrupted file was met in concatenation process. |
 | [PositioningMode](./positioningmode/) | Defines positioning mode. Possible values include Legacy (backward compatibility) and Current (updated text position calculation method) |
 | [PropertyFlag](./propertyflag/) | Enumeration of possible field flags. |
-| [ReplaceTextStrategy.NoCharacterAction](./replacetextstrategy.nocharacteraction/) | Action to perform if font does not contain required character |
-| [ReplaceTextStrategy.Scope](./replacetextstrategy.scope/) | Scope where replace text operation is applied REPLACE_FIRST by default |
 | [StampType](./stamptype/) | Describes stamp types. |
 | [SubmitFormFlag](./submitformflag/) | Enumeration of possible submit form flags. |
 | [WordWrapMode](./wordwrapmode/) | Defines word wrapping strategies |
@@ -99,15 +91,5 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 
 | Delegate | Description |
 | --- | --- |
-| [PdfQueryPageSettingsEventHandler](./pdfquerypagesettingseventhandler/) | Represents the method that handles the `PdfQueryPageSettings` event of a [`PdfViewer`](../aspose.pdf.facades/pdfviewer/). |
-
-## FAQ
-
-### What classes does the Aspose.Pdf.Facades namespace contain?
-
-[AutoFiller](./autofiller/), [BDCProperties](./bdcproperties/), [Bookmark](./bookmark/), [Bookmarks](./bookmarks/), [DocumentPrivilege](./documentprivilege/), and 38 more.
-
-### How many types are in the Aspose.Pdf.Facades namespace?
-
-The Aspose.Pdf.Facades namespace contains 65 types, listed above.
+| [PdfQueryPageSettingsEventHandler](./pdfquerypagesettingseventhandler/) | Represents the method that handles the [`PdfQueryPageSettings`](../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/) event of a [`PdfViewer`](../aspose.pdf.facades/pdfviewer/). |
 

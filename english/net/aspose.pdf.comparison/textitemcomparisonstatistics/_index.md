@@ -8,7 +8,7 @@ type: docs
 weight: 220
 url: "/net/aspose.pdf.comparison/textitemcomparisonstatistics/"
 keywords: "TextItemComparisonStatistics, Aspose.Pdf.Comparison, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextItemComparisonStatistics class
 
@@ -22,17 +22,17 @@ public class TextItemComparisonStatistics
 
 | Name | Description |
 | --- | --- |
-| [TextItemComparisonStatistics](./textitemcomparisonstatistics/)() | The default constructor. |
+| [TextItemComparisonStatistics](textitemcomparisonstatistics/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DeleteOperationsCount](./deleteoperationscount/) { get; } | Gets and sets the number of delete operations. |
-| [DeletedCharactersCount](./deletedcharacterscount/) { get; } | Gets and sets the number of deleted characters. |
-| [InsertOperationsCount](./insertoperationscount/) { get; } | Gets and sets the number of insert operations. |
-| [InsertedCharactersCount](./insertedcharacterscount/) { get; } | Gets and sets the number of inseted characters. |
-| [TotalCharacters](./totalcharacters/) { get; } | Gets and sets the total number of characters. |
+| [DeleteOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/) { get; } | Gets and sets the number of delete operations. |
+| [DeletedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/deletedcharacterscount/) { get; } | Gets and sets the number of deleted characters. |
+| [InsertOperationsCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertoperationscount/) { get; } | Gets and sets the number of insert operations. |
+| [InsertedCharactersCount](../../aspose.pdf.comparison/textitemcomparisonstatistics/insertedcharacterscount/) { get; } | Gets and sets the number of inseted characters. |
+| [TotalCharacters](../../aspose.pdf.comparison/textitemcomparisonstatistics/totalcharacters/) { get; } | Gets and sets the total number of characters. |
 
 ### See Also
 

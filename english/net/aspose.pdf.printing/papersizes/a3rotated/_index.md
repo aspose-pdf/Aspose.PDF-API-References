@@ -7,7 +7,7 @@ description: "PaperSizes field. A3 rotated paper (420 mm by 297 mm)."
 type: docs
 weight: 740
 url: "/net/aspose.pdf.printing/papersizes/a3rotated/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.A3Rotated field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize A3Rotated;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

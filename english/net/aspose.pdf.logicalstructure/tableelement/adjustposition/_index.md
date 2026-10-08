@@ -7,7 +7,7 @@ description: "TableElement method."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/tableelement/adjustposition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableElement.AdjustPosition method
 
@@ -16,10 +16,6 @@ product_version: "26.9.0"
 ```csharp
 public void AdjustPosition(PositionSettings positionSettings)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| positionSettings | PositionSettings |  |
 
 ### See Also
 

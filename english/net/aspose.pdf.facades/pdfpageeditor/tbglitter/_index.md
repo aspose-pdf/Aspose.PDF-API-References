@@ -7,7 +7,7 @@ description: "PdfPageEditor field. Top-Bottom Glitter"
 type: docs
 weight: 350
 url: "/net/aspose.pdf.facades/pdfpageeditor/tbglitter/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.TBGLITTER field
 

@@ -7,7 +7,7 @@ description: "Border property. Gets or sets border width."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/border/width/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Border.Width property
 

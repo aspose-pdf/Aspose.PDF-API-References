@@ -8,7 +8,7 @@ type: docs
 weight: 2720
 url: "/net/aspose.pdf/saveoptions/"
 keywords: "SaveOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions class
 
@@ -22,10 +22,10 @@ public abstract class SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [CacheGlyphs](./cacheglyphs/) { get; set; } | Gets or sets boolean value which indicates if will font glyphs be cached while preparing aps pages. Improves performance of conversion pdf to other formats but increases memory consumption. |
-| [CloseResponse](./closeresponse/) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
-| [SaveFormat](./saveformat/) { get; } | Format of data save. |
-| [WarningHandler](./warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Gets or sets boolean value which indicates if will font glyphs be cached while preparing aps pages. Improves performance of conversion pdf to other formats but increases memory consumption. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format of data save. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
 
 ## Other Members
 

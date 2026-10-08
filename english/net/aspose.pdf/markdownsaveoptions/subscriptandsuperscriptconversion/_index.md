@@ -7,7 +7,7 @@ description: "MarkdownSaveOptions property. Gets ans sets allowance to convert s
 type: docs
 weight: 40
 url: "/net/aspose.pdf/markdownsaveoptions/subscriptandsuperscriptconversion/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkdownSaveOptions.SubscriptAndSuperscriptConversion property
 

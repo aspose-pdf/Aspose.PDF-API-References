@@ -7,7 +7,7 @@ description: "RedactionAnnotation property. Gets or sets. Alignment of Overlay T
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/redactionannotation/textalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RedactionAnnotation.TextAlignment property
 

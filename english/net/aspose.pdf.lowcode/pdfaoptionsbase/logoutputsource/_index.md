@@ -7,7 +7,7 @@ description: "PdfAOptionsBase property. Gets or sets the data source for the log
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/logoutputsource/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAOptionsBase.LogOutputSource property
 
@@ -23,7 +23,7 @@ The data source for the log output.
 
 ### See Also
 
-* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
+* interface [IDataSource](../../idatasource/)
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

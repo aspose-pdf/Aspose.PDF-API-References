@@ -7,11 +7,11 @@ description: "CosPdfNumber constructor. Initializes a new instance of the CosPdf
 type: docs
 weight: 10
 url: "/net/aspose.pdf.dataeditor/cospdfnumber/cospdfnumber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfNumber() {#constructor}
 
-Initializes a new instance of the [`CosPdfNumber`](../../../aspose.pdf.dataeditor/cospdfnumber/) class.
+Initializes a new instance of the [`CosPdfNumber`](../) class.
 
 ```csharp
 public CosPdfNumber()
@@ -27,7 +27,7 @@ public CosPdfNumber()
 
 ## CosPdfNumber(double) {#constructor_1}
 
-Initializes a new instance of the [`CosPdfNumber`](../../../aspose.pdf.dataeditor/cospdfnumber/) class.
+Initializes a new instance of the [`CosPdfNumber`](../) class.
 
 ```csharp
 public CosPdfNumber(double value)

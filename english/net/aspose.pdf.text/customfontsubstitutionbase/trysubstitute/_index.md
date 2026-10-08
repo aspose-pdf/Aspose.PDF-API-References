@@ -7,17 +7,11 @@ description: "CustomFontSubstitutionBase method. Substitutes original font with 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/customfontsubstitutionbase/trysubstitute/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CustomFontSubstitutionBase.TrySubstitute method
 
 Substitutes original font with another font.
-
-The class CustomFontSubstitutionBase should be inherited to implement custom font substitution logic.
- TrySubstitute method should be overridden properly:
- 
- Must return true in case substitution is required. substitutionFont must be set to valid Font object.
- Must return false in case no substitution is required. substitutionFont may be set to null.
 
 ```csharp
 public virtual bool TrySubstitute(OriginalFontSpecification originalFontSpecification, 
@@ -33,9 +27,16 @@ public virtual bool TrySubstitute(OriginalFontSpecification originalFontSpecific
 
 True in case substitution was successfull.
 
+## Remarks
+
+The class CustomFontSubstitutionBase should be inherited to implement custom font substitution logic.
+ TrySubstitute method should be overridden properly: Must return true in case substitution is required. substitutionFont must be set to valid Font object.
+ Must return false in case no substitution is required. substitutionFont may be set to null.
+
 ### See Also
 
-* class [Font](../../../aspose.pdf.text/font/)
+* class [OriginalFontSpecification](../../customfontsubstitutionbase.originalfontspecification/)
+* class [Font](../../font/)
 * class [CustomFontSubstitutionBase](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

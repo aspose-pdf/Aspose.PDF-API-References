@@ -7,7 +7,7 @@ description: "Point property. Y coordinate value."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/point/y/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Point.Y property
 

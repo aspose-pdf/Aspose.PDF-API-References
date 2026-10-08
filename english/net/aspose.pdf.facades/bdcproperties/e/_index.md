@@ -7,7 +7,7 @@ description: "BDCProperties property. Gets/sets Expansion text value."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/bdcproperties/e/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BDCProperties.E property
 

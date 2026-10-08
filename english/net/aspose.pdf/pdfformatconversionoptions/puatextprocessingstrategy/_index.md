@@ -7,7 +7,7 @@ description: "PdfFormatConversionOptions property. Strategy to process symbols f
 type: docs
 weight: 190
 url: "/net/aspose.pdf/pdfformatconversionoptions/puatextprocessingstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.PuaTextProcessingStrategy property
 
@@ -19,6 +19,7 @@ public PuaProcessingStrategy PuaTextProcessingStrategy { get; set; }
 
 ### See Also
 
+* enum [PuaProcessingStrategy](../../pdfformatconversionoptions.puaprocessingstrategy/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "FormFlattener method. Starts the FormFlattener processing with the
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/formflattener/process/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFlattener.Process method
 
@@ -33,8 +33,8 @@ An ResultContainer object containing the result of the operation.
 
 ### See Also
 
-* class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
-* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
 * class [FormFlattener](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

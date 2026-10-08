@@ -7,7 +7,7 @@ description: "FileResult property. Indicates whether the result is a text string
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/fileresult/isstring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileResult.IsString property
 

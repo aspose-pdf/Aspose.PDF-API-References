@@ -7,7 +7,7 @@ description: "PdfPageEditor method. Moves the origin from (0, 0) to the point th
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/pdfpageeditor/moveposition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.MovePosition method
 

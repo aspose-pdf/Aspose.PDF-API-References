@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. If attribute 'SplitOnPages=false', than who
 type: docs
 weight: 480
 url: "/net/aspose.pdf/htmlsaveoptions/pagesflowtypedependsonviewersscreensize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.PagesFlowTypeDependsOnViewersScreenSize field
 

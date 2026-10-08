@@ -7,7 +7,7 @@ description: "XImageCollection property. Count of images in collection."
 type: docs
 weight: 210
 url: "/net/aspose.pdf/ximagecollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImageCollection.Count property
 

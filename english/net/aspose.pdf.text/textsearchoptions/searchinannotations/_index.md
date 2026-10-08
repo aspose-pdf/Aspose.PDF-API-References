@@ -7,7 +7,7 @@ description: "TextSearchOptions property. Gets or sets value that permits search
 type: docs
 weight: 130
 url: "/net/aspose.pdf.text/textsearchoptions/searchinannotations/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSearchOptions.SearchInAnnotations property
 

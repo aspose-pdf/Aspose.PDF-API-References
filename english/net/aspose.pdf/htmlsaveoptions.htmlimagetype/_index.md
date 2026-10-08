@@ -7,7 +7,7 @@ description: "Aspose.Pdf.HtmlSaveOptions.HtmlImageType enum. enumerates possible
 type: docs
 weight: 1270
 url: "/net/aspose.pdf/htmlsaveoptions.htmlimagetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.HtmlImageType enumeration
 

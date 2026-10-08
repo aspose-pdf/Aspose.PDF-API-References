@@ -7,7 +7,7 @@ description: "PdfFileEditor property. Array of encountered problems when concate
 type: docs
 weight: 1100
 url: "/net/aspose.pdf.facades/pdffileeditor/corrupteditems/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.CorruptedItems property
 
@@ -47,6 +47,7 @@ if (pfe.CorruptedItems.Length >0)
 
 ### See Also
 
+* class [CorruptedItem](../../pdffileeditor.corrupteditem/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

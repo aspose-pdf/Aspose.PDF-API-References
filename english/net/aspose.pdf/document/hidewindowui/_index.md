@@ -7,7 +7,7 @@ description: "Document property. Gets or sets flag specifying whether user inter
 type: docs
 weight: 1280
 url: "/net/aspose.pdf/document/hidewindowui/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.HideWindowUI property
 

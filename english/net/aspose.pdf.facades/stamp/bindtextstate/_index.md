@@ -7,7 +7,7 @@ description: "Stamp method. Sets text state of stamp text."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/stamp/bindtextstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.BindTextState method
 

@@ -7,7 +7,7 @@ description: "ViewerPreference field. No page scaling."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/viewerpreference/printscalingnone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ViewerPreference.PrintScalingNone field
 

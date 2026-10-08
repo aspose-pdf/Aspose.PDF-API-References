@@ -7,7 +7,7 @@ description: "TextFragmentCollection method. Adds the text fragment element at t
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textfragmentcollection/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentCollection.Add method
 
@@ -23,7 +23,7 @@ public void Add(TextFragment fragment)
 
 ### See Also
 
-* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [TextFragment](../../textfragment/)
 * class [TextFragmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

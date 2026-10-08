@@ -8,7 +8,7 @@ type: docs
 weight: 460
 url: "/net/aspose.pdf.annotations/gotoremoteaction/"
 keywords: "GoToRemoteAction, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GoToRemoteAction class
 
@@ -22,16 +22,16 @@ public sealed class GoToRemoteAction : GoToAction
 
 | Name | Description |
 | --- | --- |
-| [GoToRemoteAction](./gotoremoteaction/#constructor)(string, ExplicitDestination) | Initializes GoToRemoteAction object. |
-| [GoToRemoteAction](./gotoremoteaction/#constructor_1)(string, int) | Initializes GoToRemoteAction object. |
+| [GoToRemoteAction](gotoremoteaction/#constructor)(string, int) | Initializes GoToRemoteAction object. |
+| [GoToRemoteAction](gotoremoteaction/#constructor_1)(string, ExplicitDestination) | Initializes GoToRemoteAction object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| override [Destination](./destination/) { get; set; } | Gets or sets the destination to jump to. |
-| [File](./file/) { get; set; } | Gets or sets the specification of the file in which the destination is located. |
-| [NewWindow](./newwindow/) { get; set; } | Gets or sets a flag specifying whether to open the destination document in a new window. |
+| override [Destination](../../aspose.pdf.annotations/gotoremoteaction/destination/) { get; set; } | Gets or sets the destination to jump to. |
+| [File](../../aspose.pdf.annotations/gotoremoteaction/file/) { get; set; } | Gets or sets the specification of the file in which the destination is located. |
+| [NewWindow](../../aspose.pdf.annotations/gotoremoteaction/newwindow/) { get; set; } | Gets or sets a flag specifying whether to open the destination document in a new window. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 
 ## Methods

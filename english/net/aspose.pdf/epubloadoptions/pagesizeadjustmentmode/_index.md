@@ -7,15 +7,12 @@ description: "EpubLoadOptions field. ATTENTION! The feature implemented but did 
 type: docs
 weight: 70
 url: "/net/aspose.pdf/epubloadoptions/pagesizeadjustmentmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EpubLoadOptions.PageSizeAdjustmentMode field
 
 ATTENTION! The feature implemented but did not put yet to public API since blocker issue in 
- OSHARED layer revealed for sample document.
- 
- 
- Represents mode of usage of page size during conversion.
+ OSHARED layer revealed for sample document. Represents mode of usage of page size during conversion.
  Formats (like HTML, EPUB etc), usually have float design, so, it allows to fit required
  pagesize. But sometimes content has specified horizontal positions or size that 
  does not allow put content into required page size.
@@ -28,6 +25,7 @@ public PageSizeAdjustmentModes PageSizeAdjustmentMode;
 
 ### See Also
 
+* enum [PageSizeAdjustmentModes](../../loadoptions.pagesizeadjustmentmodes/)
 * class [EpubLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

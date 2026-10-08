@@ -7,7 +7,7 @@ description: "Aspose.Pdf.HeadingStyle enum. Defines the available serialization 
 type: docs
 weight: 1110
 url: "/net/aspose.pdf/headingstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HeadingStyle enumeration
 

@@ -7,7 +7,7 @@ description: "Matrix3D constructor. Constructor creates standard 1 to 1 matrix: 
 type: docs
 weight: 10
 url: "/net/aspose.pdf/matrix3d/matrix3d/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix3D() {#constructor}
 
@@ -62,7 +62,7 @@ Matrix3D m = new Matrix3D(c);
 
 ---
 
-## Matrix3D([Matrix3D](../../../aspose.pdf/matrix3d/)) {#constructor_2}
+## Matrix3D(Matrix3D) {#constructor_2}
 
 Constructor
  accepts a matrix to create a copy
@@ -77,7 +77,7 @@ public Matrix3D(Matrix3D matrix)
 
 ### See Also
 
-* class [Matrix3D](../../../aspose.pdf/matrix3d/)
+* class [Matrix3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

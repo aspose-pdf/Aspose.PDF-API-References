@@ -7,7 +7,7 @@ description: "CompletionCreateRequest property. Gets or sets the maximum number 
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/completioncreaterequest/maxcompletiontokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionCreateRequest.MaxCompletionTokens property
 

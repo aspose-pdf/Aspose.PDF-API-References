@@ -7,7 +7,7 @@ description: "FormFieldFacade property. The font type of a field text."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/formfieldfacade/font/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.Font property
 
@@ -19,7 +19,7 @@ public FontStyle Font { get; set; }
 
 ### See Also
 
-* enum [FontStyle](../../../aspose.pdf.facades/fontstyle/)
+* enum [FontStyle](../../fontstyle/)
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

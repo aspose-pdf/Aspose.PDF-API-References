@@ -7,7 +7,7 @@ description: "PrinterSettings property. Gets or sets the printer's duplex settin
 type: docs
 weight: 60
 url: "/net/aspose.pdf.printing/printersettings/duplex/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterSettings.Duplex property
 
@@ -19,7 +19,7 @@ public Duplex Duplex { get; set; }
 
 ### See Also
 
-* enum [Duplex](../../../aspose.pdf.printing/duplex/)
+* enum [Duplex](../../duplex/)
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

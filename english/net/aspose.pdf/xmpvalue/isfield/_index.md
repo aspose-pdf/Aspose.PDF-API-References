@@ -7,7 +7,7 @@ description: "XmpValue property. Returns true if XmpValue is field."
 type: docs
 weight: 330
 url: "/net/aspose.pdf/xmpvalue/isfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpValue.IsField property
 

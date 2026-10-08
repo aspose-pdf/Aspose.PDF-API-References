@@ -7,7 +7,7 @@ description: "PageInfo property. Gets or sets page width."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/pageinfo/width/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageInfo.Width property
 

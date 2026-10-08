@@ -7,7 +7,7 @@ description: "TextBoxField property. Gets or sets flag which indicates is field 
 type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/textboxfield/forcecombs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextBoxField.ForceCombs property
 

@@ -7,7 +7,7 @@ description: "Font property. Useful properties to tune Font behaviour"
 type: docs
 weight: 100
 url: "/net/aspose.pdf.text/font/fontoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Font.FontOptions property
 
@@ -19,7 +19,7 @@ public IFontOptions FontOptions { get; }
 
 ### See Also
 
-* interface [IFontOptions](../../../aspose.pdf.text/ifontoptions/)
+* interface [IFontOptions](../../ifontoptions/)
 * class [Font](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

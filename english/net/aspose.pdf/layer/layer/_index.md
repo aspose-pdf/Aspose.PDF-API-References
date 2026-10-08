@@ -7,11 +7,11 @@ description: "Layer constructor. Initializes a new instance of the Layer class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/layer/layer/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Layer constructor
 
-Initializes a new instance of the [`Layer`](../../../aspose.pdf/layer/) class.
+Initializes a new instance of the [`Layer`](../) class.
 
 ```csharp
 public Layer(string id, string name)

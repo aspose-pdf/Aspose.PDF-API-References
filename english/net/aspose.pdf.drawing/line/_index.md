@@ -8,7 +8,7 @@ type: docs
 weight: 100
 url: "/net/aspose.pdf.drawing/line/"
 keywords: "Line, Aspose.Pdf.Drawing, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Line class
 
@@ -22,21 +22,21 @@ public sealed class Line : Shape
 
 | Name | Description |
 | --- | --- |
-| [Line](./line/)(float[]) | Initializes a new instance of the [`Line`](../../aspose.pdf.drawing/line/) class. |
+| [Line](line/)(float[]) | Initializes a new instance of the `Line` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Gets or sets a `GraphInfo` object that indicates the graph info,such as color, line width,etc. |
-| [PositionArray](./positionarray/) { get; set; } | Gets or sets a `PositionArray` object that indicates the position array.The array is composed by coordinates of each control point of the line. directly. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Gets or sets a [`GraphInfo`](../shape/graphinfo/) object that indicates the graph info,such as color, line width,etc. |
+| [PositionArray](../../aspose.pdf.drawing/line/positionarray/) { get; set; } | Gets or sets a [`PositionArray`](./positionarray/) object that indicates the position array.The array is composed by coordinates of each control point of the line. directly. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Gets or sets a text for shape |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [CheckBounds](./checkbounds/)(double, double) |  |
+| override [CheckBounds](../../aspose.pdf.drawing/line/checkbounds/)(double, double) |  |
 
 ### See Also
 

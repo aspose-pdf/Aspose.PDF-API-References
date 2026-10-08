@@ -7,7 +7,7 @@ description: "RunResponse property. Gets or sets the sampling temperature used f
 type: docs
 weight: 210
 url: "/net/aspose.pdf.ai/runresponse/temperature/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunResponse.Temperature property
 

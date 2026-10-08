@@ -7,7 +7,7 @@ description: "PageLabel property. Gets or sets numbering style."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pagelabel/numberingstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageLabel.NumberingStyle property
 
@@ -19,7 +19,7 @@ public NumberingStyle NumberingStyle { get; set; }
 
 ### See Also
 
-* enum [NumberingStyle](../../../aspose.pdf/numberingstyle/)
+* enum [NumberingStyle](../../numberingstyle/)
 * class [PageLabel](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

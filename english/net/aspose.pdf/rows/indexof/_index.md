@@ -7,7 +7,7 @@ description: "Rows method. Returns index of row in collection."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/rows/indexof/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rows.IndexOf method
 
@@ -27,7 +27,7 @@ The row index
 
 ### See Also
 
-* class [Row](../../../aspose.pdf/row/)
+* class [Row](../../row/)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

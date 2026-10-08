@@ -7,7 +7,7 @@ description: "XfaParserOptions property. If this property is true then document 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.xfaconverter/xfaparseroptions/signed/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XfaParserOptions.Signed property
 

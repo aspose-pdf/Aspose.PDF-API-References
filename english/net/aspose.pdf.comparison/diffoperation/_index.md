@@ -8,7 +8,7 @@ type: docs
 weight: 40
 url: "/net/aspose.pdf.comparison/diffoperation/"
 keywords: "DiffOperation, Aspose.Pdf.Comparison, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DiffOperation class
 
@@ -22,17 +22,17 @@ public class DiffOperation : IEquatable<DiffOperation>
 
 | Name | Description |
 | --- | --- |
-| [Operation](./operation/) { get; } | Gets and sets operation type. |
-| [Text](./text/) { get; } | Get and set operation text. |
+| [Operation](../../aspose.pdf.comparison/diffoperation/operation/) { get; } | Gets and sets operation type. |
+| [Text](../../aspose.pdf.comparison/diffoperation/text/) { get; } | Get and set operation text. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Equals](./equals/)(DiffOperation) |  |
-| override [Equals](./equals/)(object) |  |
-| override [GetHashCode](./gethashcode/)() |  |
-| override [ToString](./tostring/)() |  |
+| override [Equals](../../aspose.pdf.comparison/diffoperation/equals/#equals)(object) |  |
+| [Equals](../../aspose.pdf.comparison/diffoperation/equals/#equals_1)(DiffOperation) |  |
+| override [GetHashCode](../../aspose.pdf.comparison/diffoperation/gethashcode/)() |  |
+| override [ToString](../../aspose.pdf.comparison/diffoperation/tostring/)() |  |
 
 ### See Also
 

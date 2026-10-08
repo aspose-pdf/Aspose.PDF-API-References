@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute Role: pb - Push button."
 type: docs
 weight: 630
 url: "/net/aspose.pdf.logicalstructure/attributename/role_pb/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.Role_pb field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName Role_pb;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

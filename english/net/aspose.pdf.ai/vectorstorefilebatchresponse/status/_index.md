@@ -7,7 +7,7 @@ description: "VectorStoreFileBatchResponse property. Gets or sets the status of 
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/vectorstorefilebatchresponse/status/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileBatchResponse.Status property
 

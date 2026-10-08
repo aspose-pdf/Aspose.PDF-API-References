@@ -7,7 +7,7 @@ description: "TrimMarkAnnotation method. Accepts visitor for annotation processi
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/trimmarkannotation/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TrimMarkAnnotation.Accept method
 
@@ -23,7 +23,7 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [AnnotationSelector](../../annotationselector/)
 * class [TrimMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

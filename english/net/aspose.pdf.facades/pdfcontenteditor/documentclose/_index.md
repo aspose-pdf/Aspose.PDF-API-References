@@ -7,7 +7,7 @@ description: "PdfContentEditor field. A document event type. Closes a document."
 type: docs
 weight: 710
 url: "/net/aspose.pdf.facades/pdfcontenteditor/documentclose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.DocumentClose field
 

@@ -7,7 +7,7 @@ description: "PaperSources field. Represents the default bin of the printer."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.printing/papersources/formsource/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSources.FormSource field
 
@@ -19,7 +19,7 @@ public static readonly PaperSource FormSource;
 
 ### See Also
 
-* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSource](../../papersource/)
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

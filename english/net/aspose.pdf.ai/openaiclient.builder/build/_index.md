@@ -7,11 +7,11 @@ description: "Builder method. Builds and returns an instance of OpenAIClient wit
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/openaiclient.builder/build/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIClient.Builder.Build method
 
-Builds and returns an instance of [`OpenAIClient`](../../../aspose.pdf.ai/openaiclient/) with the configured options.
+Builds and returns an instance of [`OpenAIClient`](../../openaiclient/) with the configured options.
 
 ```csharp
 public OpenAIClient Build()
@@ -19,12 +19,12 @@ public OpenAIClient Build()
 
 ### Return Value
 
-An instance of [`OpenAIClient`](../../../aspose.pdf.ai/openaiclient/).
+An instance of [`OpenAIClient`](../../openaiclient/).
 
 ### See Also
 
-* class [OpenAIClient](../../../aspose.pdf.ai/openaiclient/)
-* class [OpenAIClient.Builder](../)
+* class [OpenAIClient](../../openaiclient/)
+* class [Builder](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

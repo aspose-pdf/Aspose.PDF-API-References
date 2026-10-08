@@ -7,7 +7,7 @@ description: "Rows property. Gets or sets row."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/rows/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rows indexer
 
@@ -23,7 +23,7 @@ public Row this[int index] { get; set; }
 
 ### See Also
 
-* class [Row](../../../aspose.pdf/row/)
+* class [Row](../../row/)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -8,7 +8,7 @@ type: docs
 weight: 190
 url: "/net/aspose.pdf.text/fontsubstitution/"
 keywords: "FontSubstitution, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontSubstitution class
 

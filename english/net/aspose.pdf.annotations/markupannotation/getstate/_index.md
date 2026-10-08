@@ -7,7 +7,7 @@ description: "MarkupAnnotation method. Gets the state of the annotation. Note, t
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/markupannotation/getstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupAnnotation.GetState method
 
@@ -24,7 +24,7 @@ Annotation state.
 
 ### See Also
 
-* enum [AnnotationState](../../../aspose.pdf.annotations/annotationstate/)
+* enum [AnnotationState](../../annotationstate/)
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

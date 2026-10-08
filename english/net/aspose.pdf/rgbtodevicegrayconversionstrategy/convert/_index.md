@@ -7,7 +7,7 @@ description: "RgbToDeviceGrayConversionStrategy method. Converts the page of doc
 type: docs
 weight: 20
 url: "/net/aspose.pdf/rgbtodevicegrayconversionstrategy/convert/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RgbToDeviceGrayConversionStrategy.Convert method
 
@@ -23,7 +23,7 @@ public void Convert(Page page)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [RgbToDeviceGrayConversionStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

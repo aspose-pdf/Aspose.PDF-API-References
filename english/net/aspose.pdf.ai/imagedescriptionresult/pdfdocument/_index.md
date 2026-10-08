@@ -7,7 +7,7 @@ description: "ImageDescriptionResult property. Gets or sets the PDF document."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/imagedescriptionresult/pdfdocument/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageDescriptionResult.PdfDocument property
 
@@ -19,7 +19,7 @@ public PdfDocument PdfDocument { get; set; }
 
 ### See Also
 
-* class [PdfDocument](../../../aspose.pdf.ai/pdfdocument/)
+* class [PdfDocument](../../pdfdocument/)
 * class [ImageDescriptionResult](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

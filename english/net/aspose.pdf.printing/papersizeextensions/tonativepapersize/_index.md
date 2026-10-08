@@ -7,11 +7,11 @@ description: "PaperSizeExtensions method. Converts PaperSize to Windows-specific
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/papersizeextensions/tonativepapersize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizeExtensions.ToNativePaperSize method
 
-Converts [`PaperSize`](../../../aspose.pdf.printing/papersize/) to Windows-specific System.Drawing.Printing.PaperSize.
+Converts [`PaperSize`](../../papersize/) to Windows-specific System.Drawing.Printing.PaperSize.
 
 ```csharp
 public static PaperSize ToNativePaperSize(this PaperSize paperSize)
@@ -27,7 +27,7 @@ Windows paper size.
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizeExtensions](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

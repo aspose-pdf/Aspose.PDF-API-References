@@ -7,7 +7,7 @@ description: "LoadOptions property. Callback to handle any warnings generated. T
 type: docs
 weight: 10
 url: "/net/aspose.pdf/loadoptions/warninghandler/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LoadOptions.WarningHandler property
 
@@ -21,7 +21,7 @@ public IWarningCallback WarningHandler { get; set; }
 
 ### See Also
 
-* interface [IWarningCallback](../../../aspose.pdf/iwarningcallback/)
+* interface [IWarningCallback](../../iwarningcallback/)
 * class [LoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

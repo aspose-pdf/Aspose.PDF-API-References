@@ -7,7 +7,7 @@ description: "LlamaSummaryCopilotOptions method. Sets the instructions for the s
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/withinstructions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaSummaryCopilotOptions.WithInstructions method
 
@@ -23,11 +23,11 @@ public LlamaSummaryCopilotOptions WithInstructions(string instructions)
 
 ### Return Value
 
-The current instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
+The current instance of [`LlamaSummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

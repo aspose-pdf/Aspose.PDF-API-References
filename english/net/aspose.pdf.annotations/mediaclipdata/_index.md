@@ -8,7 +8,7 @@ type: docs
 weight: 700
 url: "/net/aspose.pdf.annotations/mediaclipdata/"
 keywords: "MediaClipData, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MediaClipData class
 
@@ -22,7 +22,7 @@ public class MediaClipData : MediaClip
 
 | Name | Description |
 | --- | --- |
-| [Data](./data/) { get; } | Return file specification which contains actual media data . |
+| [Data](../../aspose.pdf.annotations/mediaclipdata/data/) { get; } | Return file specification which contains actual media data . |
 
 ### See Also
 

@@ -7,11 +7,11 @@ description: "AppearanceDictionary property. Gets keys of the dictionary. If app
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/appearancedictionary/keys/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AppearanceDictionary.Keys property
 
-Gets keys of the dictionary. If appearance dictionary has subditionaries, then `Keys` contains (N|R|D).state values,
+Gets keys of the dictionary. If appearance dictionary has subditionaries, then [`Keys`](../keys/) contains (N|R|D).state values,
  where N - normal appearance, R - rollover appearance, D - down appearance and state - the name of the state
  (e.g. On, Off for checkboxes).
 

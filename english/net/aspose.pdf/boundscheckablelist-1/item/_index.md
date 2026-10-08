@@ -7,7 +7,7 @@ description: "BoundsCheckableList property. Gets or sets paragraph from or to co
 type: docs
 weight: 160
 url: "/net/aspose.pdf/boundscheckablelist-1/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BoundsCheckableList<T> indexer
 
@@ -23,7 +23,7 @@ public T this[int index] { get; set; }
 
 ### See Also
 
-* class [BoundsCheckableList<T>](../)
+* class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

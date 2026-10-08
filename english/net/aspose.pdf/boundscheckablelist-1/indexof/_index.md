@@ -7,7 +7,7 @@ description: "BoundsCheckableList method. Searches for the specified object and 
 type: docs
 weight: 90
 url: "/net/aspose.pdf/boundscheckablelist-1/indexof/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BoundsCheckableList<T>.IndexOf method
 
@@ -23,11 +23,11 @@ public int IndexOf(T item)
 
 ### Return Value
 
-The zero-based index of the first occurrence of *item*item within the entire System.Collections.Generic.List, if found; otherwise, –1.
+The zero-based index of the first occurrence of *item* within the entire System.Collections.Generic.List, if found; otherwise, –1.
 
 ### See Also
 
-* class [BoundsCheckableList<T>](../)
+* class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

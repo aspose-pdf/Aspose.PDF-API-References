@@ -7,7 +7,7 @@ description: "PdfFormatConversionOptions property. Path to file where comments w
 type: docs
 weight: 100
 url: "/net/aspose.pdf/pdfformatconversionoptions/logfilename/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.LogFileName property
 

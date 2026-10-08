@@ -7,7 +7,7 @@ description: "ImageDescriptionResult property. Gets or sets the list of image de
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/imagedescriptionresult/imagedescriptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageDescriptionResult.ImageDescriptions property
 
@@ -19,6 +19,7 @@ public List<ImageDescription> ImageDescriptions { get; }
 
 ### See Also
 
+* class [ImageDescription](../../imagedescription/)
 * class [ImageDescriptionResult](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "StreamSaveTarget constructor. Initializes new stream save target."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/streamsavetarget/streamsavetarget/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StreamSaveTarget constructor
 

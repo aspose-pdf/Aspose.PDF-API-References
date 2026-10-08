@@ -7,7 +7,7 @@ description: "EditContainer property. The diff operation type."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/editcontainer/operation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EditContainer.Operation property
 
@@ -19,7 +19,7 @@ public DiffOperation Operation { get; }
 
 ### See Also
 
-* class [DiffOperation](../../../aspose.pdf.comparison/diffoperation/)
+* class [DiffOperation](../../diffoperation/)
 * class [EditContainer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

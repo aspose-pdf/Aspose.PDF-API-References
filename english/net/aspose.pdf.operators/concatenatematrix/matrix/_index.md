@@ -7,7 +7,7 @@ description: "ConcatenateMatrix property. Matrix argument of the operator."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.operators/concatenatematrix/matrix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ConcatenateMatrix.Matrix property
 

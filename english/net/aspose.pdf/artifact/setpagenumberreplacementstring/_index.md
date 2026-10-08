@@ -7,7 +7,7 @@ description: "Artifact method. Sets what string will be replaced with the page n
 type: docs
 weight: 50
 url: "/net/aspose.pdf/artifact/setpagenumberreplacementstring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.SetPageNumberReplacementString method
 

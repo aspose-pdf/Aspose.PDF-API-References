@@ -7,7 +7,7 @@ description: "FileSpecification property. Gets contents of file as stream. Conte
 type: docs
 weight: 170
 url: "/net/aspose.pdf/filespecification/streamcontents/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSpecification.StreamContents property
 

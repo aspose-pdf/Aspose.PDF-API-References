@@ -7,7 +7,7 @@ description: "Document method. Removes metadata from the document."
 type: docs
 weight: 350
 url: "/net/aspose.pdf/document/removemetadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.RemoveMetadata method
 

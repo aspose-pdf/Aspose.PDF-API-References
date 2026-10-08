@@ -8,7 +8,7 @@ type: docs
 weight: 1000
 url: "/net/aspose.pdf.lowcode/tiff/"
 keywords: "Tiff, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Tiff class
 
@@ -22,7 +22,7 @@ public sealed class Tiff : PdfToImage
 
 | Name | Description |
 | --- | --- |
-| [Tiff](./tiff/)() | The default constructor. |
+| [Tiff](tiff/)() | The default constructor. |
 
 ## Methods
 

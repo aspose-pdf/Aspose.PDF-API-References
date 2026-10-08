@@ -7,7 +7,7 @@ description: "XForm property. Gets The Open Prepress Interface (OPI)."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/xform/opi/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XForm.Opi property
 
@@ -19,7 +19,7 @@ public Opi Opi { get; }
 
 ### See Also
 
-* class [Opi](../../../aspose.pdf/opi/)
+* class [Opi](../../opi/)
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

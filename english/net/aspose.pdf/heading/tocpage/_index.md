@@ -7,7 +7,7 @@ description: "Heading property. Gets the page that contains this heading."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/heading/tocpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Heading.TocPage property
 
@@ -19,7 +19,7 @@ public Page TocPage { get; set; }
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
+* class [Page](../../page/)
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

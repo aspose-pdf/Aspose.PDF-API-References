@@ -7,7 +7,7 @@ description: "CrashReportOptions property. Version of library used."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/crashreportoptions/libraryversion/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CrashReportOptions.LibraryVersion property
 

@@ -7,7 +7,7 @@ description: "StructureAttributes method. Sets StructureAttribute into Structure
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/structureattributes/setattribute/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureAttributes.SetAttribute method
 
@@ -23,7 +23,7 @@ public void SetAttribute(StructureAttribute attribute)
 
 ### See Also
 
-* class [StructureAttribute](../../../aspose.pdf.logicalstructure/structureattribute/)
+* class [StructureAttribute](../../structureattribute/)
 * class [StructureAttributes](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

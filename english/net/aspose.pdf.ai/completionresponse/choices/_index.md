@@ -7,7 +7,7 @@ description: "CompletionResponse property. Gets or sets a list of chat completio
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/completionresponse/choices/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionResponse.Choices property
 
@@ -19,6 +19,7 @@ public List<Choice> Choices { get; set; }
 
 ### See Also
 
+* class [Choice](../../choice/)
 * class [CompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

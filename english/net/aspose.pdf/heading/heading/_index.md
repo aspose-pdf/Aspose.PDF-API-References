@@ -7,7 +7,7 @@ description: "Heading constructor. Initializes a new instance of the Cell class.
 type: docs
 weight: 10
 url: "/net/aspose.pdf/heading/heading/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Heading constructor
 

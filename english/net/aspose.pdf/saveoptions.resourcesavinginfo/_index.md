@@ -8,7 +8,7 @@ type: docs
 weight: 2790
 url: "/net/aspose.pdf/saveoptions.resourcesavinginfo/"
 keywords: "SaveOptions.ResourceSavingInfo, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.ResourceSavingInfo class
 
@@ -24,15 +24,15 @@ public class ResourceSavingInfo
 
 | Name | Description |
 | --- | --- |
-| [ResourceType](./resourcetype/) { get; } | Set by converter. Supposed file name that goes from converter to code of custom method Can be use in custom code to decide how to process or where save that file |
+| [ResourceType](../../aspose.pdf/saveoptions.resourcesavinginfo/resourcetype/) { get; } | Set by converter. Supposed file name that goes from converter to code of custom method Can be use in custom code to decide how to process or where save that file |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| [ContentStream](./contentstream/) | Set by converter. Represents binary content of saved file. |
-| [CustomProcessingCancelled](./customprocessingcancelled/) | this flag must set to "true" in custom code if for some reasons proposed file should be processed not with custom code but with converter's code itself in standard for converter way. So, it' setting set to true means that custom code did not process referenced file and converter must handle it itself (in both sences - for saving somewhere and for naming in referencing file). |
-| [SupposedFileName](./supposedfilename/) | Set by converter. Supposed file name that goes from converter to code of custom method Can be use in custom code to decide how to process or where save that file |
+| [ContentStream](../../aspose.pdf/saveoptions.resourcesavinginfo/contentstream/) | Set by converter. Represents binary content of saved file. |
+| [CustomProcessingCancelled](../../aspose.pdf/saveoptions.resourcesavinginfo/customprocessingcancelled/) | this flag must set to "true" in custom code if for some reasons proposed file should be processed not with custom code but with converter's code itself in standard for converter way. So, it' setting set to true means that custom code did not process referenced file and converter must handle it itself (in both sences - for saving somewhere and for naming in referencing file). |
+| [SupposedFileName](../../aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename/) | Set by converter. Supposed file name that goes from converter to code of custom method Can be use in custom code to decide how to process or where save that file |
 
 ### See Also
 

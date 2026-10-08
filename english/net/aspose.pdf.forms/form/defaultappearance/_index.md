@@ -7,7 +7,7 @@ description: "Form property. Gets or sets default appearance of the form (object
 type: docs
 weight: 270
 url: "/net/aspose.pdf.forms/form/defaultappearance/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.DefaultAppearance property
 

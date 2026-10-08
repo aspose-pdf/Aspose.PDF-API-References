@@ -7,7 +7,7 @@ description: "OpenAIContext property. Gets or sets the list of File IDs."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/openaicontext/fileids/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIContext.FileIds property
 

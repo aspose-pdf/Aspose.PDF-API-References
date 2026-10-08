@@ -8,11 +8,11 @@ type: docs
 weight: 290
 url: "/net/aspose.pdf.text/paragraphabsorberoptions/"
 keywords: "ParagraphAbsorberOptions, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ParagraphAbsorberOptions class
 
-Represents options for the [`ParagraphAbsorber`](../../aspose.pdf.text/paragraphabsorber/).
+Represents options for the [`ParagraphAbsorber`](../paragraphabsorber/).
 
 ```csharp
 public sealed class ParagraphAbsorberOptions
@@ -22,15 +22,15 @@ public sealed class ParagraphAbsorberOptions
 
 | Name | Description |
 | --- | --- |
-| [ParagraphAbsorberOptions](./paragraphabsorberoptions/)() | The default constructor. |
+| [ParagraphAbsorberOptions](paragraphabsorberoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [SearchRectangle](./searchrectangle/) { get; set; } | Gets or sets paragraph search rectangle. |
-| [SectionUnbreakingHorizontalOverride](./sectionunbreakinghorizontaloverride/) { get; set; } | Gets or sets the maximum length of zone with 'zero filling level' that will not be treated as actual horizontal section break (as a fraction of the width / height of a page). The default value is 0.005. |
-| [SectionUnbreakingVerticalOverride](./sectionunbreakingverticaloverride/) { get; set; } | Gets or sets the maximum length of zone with 'zero filling level' that will not be treated as actual vertical section break (as a fraction of the width / height of a page). The default value is 0.005. |
+| [SearchRectangle](../../aspose.pdf.text/paragraphabsorberoptions/searchrectangle/) { get; set; } | Gets or sets paragraph search rectangle. |
+| [SectionUnbreakingHorizontalOverride](../../aspose.pdf.text/paragraphabsorberoptions/sectionunbreakinghorizontaloverride/) { get; set; } | Gets or sets the maximum length of zone with 'zero filling level' that will not be treated as actual horizontal section break (as a fraction of the width / height of a page). The default value is 0.005. |
+| [SectionUnbreakingVerticalOverride](../../aspose.pdf.text/paragraphabsorberoptions/sectionunbreakingverticaloverride/) { get; set; } | Gets or sets the maximum length of zone with 'zero filling level' that will not be treated as actual vertical section break (as a fraction of the width / height of a page). The default value is 0.005. |
 
 ### See Also
 

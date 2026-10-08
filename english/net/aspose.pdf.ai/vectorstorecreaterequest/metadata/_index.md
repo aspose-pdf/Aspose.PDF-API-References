@@ -7,7 +7,7 @@ description: "VectorStoreCreateRequest property. Gets or sets a set of 16 key-va
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/vectorstorecreaterequest/metadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreCreateRequest.Metadata property
 

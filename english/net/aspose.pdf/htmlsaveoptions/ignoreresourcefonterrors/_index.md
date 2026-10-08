@@ -7,7 +7,7 @@ description: "HtmlSaveOptions property. Gets or sets indication that errors rela
 type: docs
 weight: 140
 url: "/net/aspose.pdf/htmlsaveoptions/ignoreresourcefonterrors/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.IgnoreResourceFontErrors property
 

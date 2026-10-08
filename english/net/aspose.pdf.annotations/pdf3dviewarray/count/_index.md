@@ -7,7 +7,7 @@ description: "PDF3DViewArray property. Gets the views count."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/pdf3dviewarray/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DViewArray.Count property
 

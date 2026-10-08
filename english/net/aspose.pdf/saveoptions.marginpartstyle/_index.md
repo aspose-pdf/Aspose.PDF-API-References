@@ -8,7 +8,7 @@ type: docs
 weight: 2770
 url: "/net/aspose.pdf/saveoptions.marginpartstyle/"
 keywords: "SaveOptions.MarginPartStyle, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.MarginPartStyle class
 
@@ -22,15 +22,15 @@ public class MarginPartStyle
 
 | Name | Description |
 | --- | --- |
-| [MarginPartStyle](./marginpartstyle/#constructor)(bool) | Creates instance of MarginPartStyle class and initializes its value in points |
-| [MarginPartStyle](./marginpartstyle/#constructor_1)(int) | Creates instance of MarginPartStyle class and set its value in points |
+| [MarginPartStyle](marginpartstyle/#constructor)(int) | Creates instance of MarginPartStyle class and set its value in points |
+| [MarginPartStyle](marginpartstyle/#constructor_1)(bool) | Creates instance of MarginPartStyle class and initializes its value in points |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [IsAuto](./isauto/) { get; set; } | Gets or sets a value indicating whether this instance is auto. |
-| [ValueInPoints](./valueinpoints/) { get; set; } | Represents margin in points. Must be number greater then zero. |
+| [IsAuto](../../aspose.pdf/saveoptions.marginpartstyle/isauto/) { get; set; } | Gets or sets a value indicating whether this instance is auto. |
+| [ValueInPoints](../../aspose.pdf/saveoptions.marginpartstyle/valueinpoints/) { get; set; } | Represents margin in points. Must be number greater then zero. |
 
 ### See Also
 

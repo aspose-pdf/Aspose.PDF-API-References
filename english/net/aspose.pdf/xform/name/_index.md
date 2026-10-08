@@ -7,7 +7,7 @@ description: "XForm property. Gets or sets form name. Form name is name which us
 type: docs
 weight: 70
 url: "/net/aspose.pdf/xform/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XForm.Name property
 

@@ -7,7 +7,7 @@ description: "PDF3DLightingScheme field. The \"Hard\" lighting scheme."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/pdf3dlightingscheme/hard/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DLightingScheme.Hard field
 
@@ -19,7 +19,7 @@ public static PDF3DLightingScheme Hard;
 
 ### See Also
 
-* class [PDF3DLightingScheme](../../../aspose.pdf.annotations/pdf3dlightingscheme/)
+* class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

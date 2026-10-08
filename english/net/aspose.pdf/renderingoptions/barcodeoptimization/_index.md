@@ -7,7 +7,7 @@ description: "RenderingOptions property. Gets or sets barcode optimization mode.
 type: docs
 weight: 20
 url: "/net/aspose.pdf/renderingoptions/barcodeoptimization/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenderingOptions.BarcodeOptimization property
 

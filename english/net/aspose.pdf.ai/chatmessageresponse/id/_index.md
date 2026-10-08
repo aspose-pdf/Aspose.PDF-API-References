@@ -7,7 +7,7 @@ description: "ChatMessageResponse property. Gets or sets the ID of the message."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/chatmessageresponse/id/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChatMessageResponse.Id property
 

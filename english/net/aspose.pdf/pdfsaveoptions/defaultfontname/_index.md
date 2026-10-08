@@ -7,14 +7,14 @@ description: "PdfSaveOptions property. Font name used by default for fonts which
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pdfsaveoptions/defaultfontname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfSaveOptions.DefaultFontName property
 
 Font name used by default for fonts which are absent on computer.
  When the PDF document that is saved into PDF contains fonts, that are not available 
  in the document itself and on the device, API replaces this fonts with the 
- default font(if font with `DefaultFontName` is found on device)
+ default font(if font with [`DefaultFontName`](../defaultfontname/) is found on device)
 
 ```csharp
 public string DefaultFontName { get; set; }

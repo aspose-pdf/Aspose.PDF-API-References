@@ -7,7 +7,7 @@ description: "ImageCompressionOptions property. Version of compression algorithm
 type: docs
 weight: 60
 url: "/net/aspose.pdf.optimization/imagecompressionoptions/version/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageCompressionOptions.Version property
 
@@ -19,7 +19,7 @@ public ImageCompressionVersion Version { get; set; }
 
 ### See Also
 
-* enum [ImageCompressionVersion](../../../aspose.pdf.optimization/imagecompressionversion/)
+* enum [ImageCompressionVersion](../../imagecompressionversion/)
 * class [ImageCompressionOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)

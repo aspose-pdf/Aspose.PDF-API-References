@@ -7,7 +7,7 @@ description: "PDF3DView property. Gets or sets the render mode of view."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/pdf3dview/rendermode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DView.RenderMode property
 
@@ -23,7 +23,7 @@ The render mode of view.
 
 ### See Also
 
-* class [PDF3DRenderMode](../../../aspose.pdf.annotations/pdf3drendermode/)
+* class [PDF3DRenderMode](../../pdf3drendermode/)
 * class [PDF3DView](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

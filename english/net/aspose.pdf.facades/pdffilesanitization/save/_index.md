@@ -7,29 +7,9 @@ description: "PdfFileSanitization method. Saves the result PDF to file."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/pdffilesanitization/save/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Save(Stream) {#save}
-
-Saves the result PDF to stream.
-
-```csharp
-public override void Save(Stream outputStream)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputStream | Stream | output pdf stream |
-
-### See Also
-
-* class [PdfFileSanitization](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Save(string) {#save_1}
+## Save(string) {#save}
 
 Saves the result PDF to file.
 
@@ -40,6 +20,26 @@ public override void Save(string outputFile)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | outputFile | String | output pdf file |
+
+### See Also
+
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Save(Stream) {#save_1}
+
+Saves the result PDF to stream.
+
+```csharp
+public override void Save(Stream outputStream)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputStream | Stream | output pdf stream |
 
 ### See Also
 

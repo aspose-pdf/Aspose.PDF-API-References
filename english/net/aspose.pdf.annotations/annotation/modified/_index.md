@@ -7,7 +7,7 @@ description: "Annotation property. Gets or sets date and time when annotation wa
 type: docs
 weight: 150
 url: "/net/aspose.pdf.annotations/annotation/modified/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.Modified property
 

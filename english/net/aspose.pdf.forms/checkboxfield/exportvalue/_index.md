@@ -7,7 +7,7 @@ description: "CheckboxField property. Gets or sets export value of CheckBox fiel
 type: docs
 weight: 130
 url: "/net/aspose.pdf.forms/checkboxfield/exportvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CheckboxField.ExportValue property
 

@@ -7,20 +7,20 @@ description: "TextParagraph method. Begins the editing of the TextParagraph."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/textparagraph/beginedit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextParagraph.BeginEdit method
 
 Begins the editing of the TextParagraph.
 
-Improves performance of TextParagraph population.
- Any layout calculation is suspended until EndEdit method is invoked.
- 
- Note that method invoke can't be nested.
-
 ```csharp
 public void BeginEdit()
 ```
+
+## Remarks
+
+Improves performance of TextParagraph population.
+ Any layout calculation is suspended until EndEdit method is invoked. Note that method invoke can't be nested.
 
 ### See Also
 

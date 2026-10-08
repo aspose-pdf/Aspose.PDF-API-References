@@ -7,7 +7,7 @@ description: "DefaultAppearance property. Gets font size in default apperance."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/defaultappearance/fontsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DefaultAppearance.FontSize property
 

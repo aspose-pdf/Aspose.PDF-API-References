@@ -7,7 +7,7 @@ description: "Stamp property. Vertical zooming factor of the stamp. Allows to sc
 type: docs
 weight: 200
 url: "/net/aspose.pdf/stamp/zoomy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.ZoomY property
 

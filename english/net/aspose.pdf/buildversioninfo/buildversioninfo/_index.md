@@ -7,7 +7,7 @@ description: "BuildVersionInfo constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/buildversioninfo/buildversioninfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BuildVersionInfo constructor
 

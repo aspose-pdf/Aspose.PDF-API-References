@@ -7,7 +7,7 @@ description: "SvgExtractionOptions property. Gets and sets opttion to extracts e
 type: docs
 weight: 40
 url: "/net/aspose.pdf.vector/svgextractionoptions/extracteverysubpathtosvg/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SvgExtractionOptions.ExtractEverySubPathToSvg property
 

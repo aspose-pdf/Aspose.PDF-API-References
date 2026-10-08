@@ -7,7 +7,7 @@ description: "PageActionCollection property. An action that shall be performed w
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pageactioncollection/onclose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageActionCollection.OnClose property
 

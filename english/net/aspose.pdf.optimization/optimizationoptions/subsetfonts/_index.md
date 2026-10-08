@@ -7,7 +7,7 @@ description: "OptimizationOptions property. Fonts will be converted into subsets
 type: docs
 weight: 120
 url: "/net/aspose.pdf.optimization/optimizationoptions/subsetfonts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizationOptions.SubsetFonts property
 

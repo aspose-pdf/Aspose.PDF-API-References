@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute TextDecorationType: None - No text 
 type: docs
 weight: 380
 url: "/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_none/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.TextDecorationType_None field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName TextDecorationType_None;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "IInterruptMonitor property. Monitor's cancellation token used for 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IInterruptMonitor.CancellationToken property
 

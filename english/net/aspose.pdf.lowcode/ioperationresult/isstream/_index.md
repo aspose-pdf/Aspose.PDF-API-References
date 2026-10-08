@@ -7,7 +7,7 @@ description: "IOperationResult property. Indicates whether the result is an outp
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/ioperationresult/isstream/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOperationResult.IsStream property
 

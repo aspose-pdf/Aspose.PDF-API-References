@@ -7,12 +7,12 @@ description: "AutoFiller property. Gets or sets the basic file name if many smal
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/autofiller/basicfilename/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AutoFiller.BasicFileName property
 
 Gets or sets the basic file name if many small files will be generated. The generated file will be like "BasicFileName0","BasicFileName1",...
- It works with another property `GeneratingPath`GeneratingPath.
+ It works with another property [`GeneratingPath`](../generatingpath/)GeneratingPath.
 
 ```csharp
 public string BasicFileName { get; set; }

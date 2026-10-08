@@ -7,7 +7,7 @@ description: "CompletionCreateRequest property. Gets or sets if to use streaming
 type: docs
 weight: 130
 url: "/net/aspose.pdf.ai/completioncreaterequest/stream/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionCreateRequest.Stream property
 

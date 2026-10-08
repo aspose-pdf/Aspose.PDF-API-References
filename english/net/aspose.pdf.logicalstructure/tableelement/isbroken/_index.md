@@ -7,7 +7,7 @@ description: "TableElement property. Gets or sets the table is broken - will be 
 type: docs
 weight: 160
 url: "/net/aspose.pdf.logicalstructure/tableelement/isbroken/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableElement.IsBroken property
 

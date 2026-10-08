@@ -7,7 +7,7 @@ description: "KeyedSignatureAlgorithmInfo field. Gets the size of the cryptograp
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/keyedsignaturealgorithminfo/keysize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## KeyedSignatureAlgorithmInfo.KeySize field
 

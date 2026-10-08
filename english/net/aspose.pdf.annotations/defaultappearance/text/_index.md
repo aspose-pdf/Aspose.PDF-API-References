@@ -7,7 +7,7 @@ description: "DefaultAppearance property. Gets the list of pdf operators which r
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/defaultappearance/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DefaultAppearance.Text property
 

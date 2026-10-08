@@ -7,7 +7,7 @@ description: "Form method. Get the limitation of text field."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/form/getfieldlimit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.GetFieldLimit method
 

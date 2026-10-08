@@ -7,7 +7,7 @@ description: "SignatureCustomAppearance property. Gets/sets contact info label. 
 type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/signaturecustomappearance/contactinfolabel/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureCustomAppearance.ContactInfoLabel property
 

@@ -7,7 +7,7 @@ description: "FileDataSource property. Gets the path to the file of the current 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/filedatasource/path/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileDataSource.Path property
 

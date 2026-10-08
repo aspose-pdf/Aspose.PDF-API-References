@@ -7,7 +7,7 @@ description: "LlamaSummaryCopilotOptions method. Sets the max completion tokens 
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/withmaxcompletiontokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaSummaryCopilotOptions.WithMaxCompletionTokens method
 
@@ -23,11 +23,11 @@ public LlamaSummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionToke
 
 ### Return Value
 
-The current instance of [`LlamaSummaryCopilotOptions`](../../../aspose.pdf.ai/llamasummarycopilotoptions/).
+The current instance of [`LlamaSummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [LlamaSummaryCopilotOptions](../../../aspose.pdf.ai/llamasummarycopilotoptions/)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

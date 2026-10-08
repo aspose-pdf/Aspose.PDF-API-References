@@ -7,7 +7,7 @@ description: "PdfFileEditor method. Resizes page contents and add specified marg
 type: docs
 weight: 910
 url: "/net/aspose.pdf.facades/pdffileeditor/addmarginspct/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AddMarginsPct(Stream, Stream, int[], double, double, double, double) {#addmarginspct}
 

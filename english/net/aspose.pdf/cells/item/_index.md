@@ -7,7 +7,7 @@ description: "Cells property. Gets or sets cells."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/cells/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Cells indexer
 
@@ -23,7 +23,7 @@ public Cell this[int index] { get; set; }
 
 ### See Also
 
-* class [Cell](../../../aspose.pdf/cell/)
+* class [Cell](../../cell/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

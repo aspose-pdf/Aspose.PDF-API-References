@@ -7,7 +7,7 @@ description: "FormFieldFacade property. The rotation of a field text."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/formfieldfacade/rotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.Rotation property
 

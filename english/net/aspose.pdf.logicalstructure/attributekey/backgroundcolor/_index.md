@@ -7,7 +7,7 @@ description: "AttributeKey field. BackgroundColor attribute (Layout attribute ow
 type: docs
 weight: 70
 url: "/net/aspose.pdf.logicalstructure/attributekey/backgroundcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.BackgroundColor field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey BackgroundColor;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

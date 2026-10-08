@@ -7,7 +7,7 @@ description: "OpenAIOcrCopilotOptions method. Sets the max completion tokens."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withmaxcompletiontokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIOcrCopilotOptions.WithMaxCompletionTokens method
 
@@ -23,11 +23,11 @@ public OpenAIOcrCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
 
 ### Return Value
 
-The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
+The current instance of [`OpenAIOcrCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+* class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

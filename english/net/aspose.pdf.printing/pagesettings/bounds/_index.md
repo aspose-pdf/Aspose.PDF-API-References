@@ -7,7 +7,7 @@ description: "PageSettings property. Gets the bounds of the page, taking into ac
 type: docs
 weight: 40
 url: "/net/aspose.pdf.printing/pagesettings/bounds/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageSettings.Bounds property
 
@@ -19,7 +19,7 @@ public Rectangle Bounds { get; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

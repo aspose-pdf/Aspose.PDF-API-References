@@ -7,7 +7,7 @@ description: "GradientAxialShading property. Gets or sets end point."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.drawing/gradientaxialshading/end/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GradientAxialShading.End property
 

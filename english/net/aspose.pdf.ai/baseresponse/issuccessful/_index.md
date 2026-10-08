@@ -7,7 +7,7 @@ description: "BaseResponse property. Indicates if the response was successful."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/baseresponse/issuccessful/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseResponse.IsSuccessful property
 

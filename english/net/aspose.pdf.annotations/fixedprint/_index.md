@@ -8,7 +8,7 @@ type: docs
 weight: 420
 url: "/net/aspose.pdf.annotations/fixedprint/"
 keywords: "FixedPrint, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FixedPrint class
 
@@ -22,9 +22,9 @@ public class FixedPrint
 
 | Name | Description |
 | --- | --- |
-| [HorizontalTranslation](./horizontaltranslation/) { get; set; } | Gets or sets horizontal translation. |
-| [Matrix](./matrix/) { get; set; } | Gets or sets matrix value. |
-| [VerticalTranslation](./verticaltranslation/) { get; set; } | Gets or sets vertical translation. |
+| [HorizontalTranslation](../../aspose.pdf.annotations/fixedprint/horizontaltranslation/) { get; set; } | Gets or sets horizontal translation. |
+| [Matrix](../../aspose.pdf.annotations/fixedprint/matrix/) { get; set; } | Gets or sets matrix value. |
+| [VerticalTranslation](../../aspose.pdf.annotations/fixedprint/verticaltranslation/) { get; set; } | Gets or sets vertical translation. |
 
 ### See Also
 

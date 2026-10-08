@@ -7,7 +7,7 @@ description: "TextReplaceOptions property. Sets or gets right position adjustmen
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/textreplaceoptions/rightadjustment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextReplaceOptions.RightAdjustment property
 

@@ -7,7 +7,7 @@ description: "Matrix method. Transforms back x1 and y1 and returns x and y befor
 type: docs
 weight: 180
 url: "/net/aspose.pdf/matrix/untransform/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix.UnTransform method
 

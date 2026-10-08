@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Gets the revision of a signature."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.facades/pdffilesignature/getrevision/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.GetRevision method
 
@@ -27,7 +27,7 @@ Return the number of signature revision.
 
 ### See Also
 
-* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
+* class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

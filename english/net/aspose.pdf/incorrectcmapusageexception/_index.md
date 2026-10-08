@@ -8,7 +8,7 @@ type: docs
 weight: 1580
 url: "/net/aspose.pdf/incorrectcmapusageexception/"
 keywords: "IncorrectCMapUsageException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IncorrectCMapUsageException class
 
@@ -22,13 +22,7 @@ public sealed class IncorrectCMapUsageException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [IncorrectCMapUsageException](./incorrectcmapusageexception/)(string) | Initializes a new instance of the [`IncorrectCMapUsageException`](../../aspose.pdf/incorrectcmapusageexception/) class. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
+| [IncorrectCMapUsageException](incorrectcmapusageexception/)(string) | Initializes a new instance of the `IncorrectCMapUsageException` class. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "PDF3DAnnotation method. Sets the index of the default view."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/pdf3dannotation/setdefaultviewindex/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DAnnotation.SetDefaultViewIndex method
 

@@ -7,7 +7,7 @@ description: "ComboBoxField property. Gets or sets editable status of the field.
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/comboboxfield/editable/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ComboBoxField.Editable property
 

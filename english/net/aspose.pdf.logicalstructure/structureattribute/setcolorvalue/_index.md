@@ -7,7 +7,7 @@ description: "StructureAttribute method. Sets Value Color."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.logicalstructure/structureattribute/setcolorvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureAttribute.SetColorValue method
 

@@ -8,7 +8,7 @@ type: docs
 weight: 340
 url: "/net/aspose.pdf/collectionitem/"
 keywords: "CollectionItem, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionItem class
 
@@ -23,24 +23,24 @@ public class CollectionItem
 
 | Name | Description |
 | --- | --- |
-| [AllNames](./allnames/) { get; } | Gets a collection of all the names of collection item values. |
-| [IsEmpty](./isempty/) { get; } | Gets a value indicating whether the collection item is empty. |
+| [AllNames](../../aspose.pdf/collectionitem/allnames/) { get; } | Gets a collection of all the names of collection item values. |
+| [IsEmpty](../../aspose.pdf/collectionitem/isempty/) { get; } | Gets a value indicating whether the collection item is empty. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [HasName](./hasname/)(string) | Checks if the given name exists in the collection item. |
-| [TryGetDateTimeValue](./trygetdatetimevalue/)(string, out Value<DateTime>) |  |
-| [TryGetDoubleValue](./trygetdoublevalue/)(string, out Value<double>) |  |
-| [TryGetIntValue](./trygetintvalue/)(string, out Value<int>) |  |
-| [TryGetTextValue](./trygettextvalue/)(string, out Value<string>) |  |
+| [HasName](../../aspose.pdf/collectionitem/hasname/)(string) | Checks if the given name exists in the collection item. |
+| [TryGetDateTimeValue](../../aspose.pdf/collectionitem/trygetdatetimevalue/)(string, out Value&lt;DateTime&gt;) |  |
+| [TryGetDoubleValue](../../aspose.pdf/collectionitem/trygetdoublevalue/)(string, out Value&lt;double&gt;) |  |
+| [TryGetIntValue](../../aspose.pdf/collectionitem/trygetintvalue/)(string, out Value&lt;int&gt;) |  |
+| [TryGetTextValue](../../aspose.pdf/collectionitem/trygettextvalue/)(string, out Value&lt;string&gt;) |  |
 
 ## Other Members
 
 | Name | Description |
 | --- | --- |
-| class [Value<T>](../../aspose.pdf/collectionitem.value-1) | Represents a class for a value of colection item. |
+| class [Value&lt;T&gt;](../../aspose.pdf/collectionitem.value-1) | Represents a class for a value of colection item. |
 
 ### See Also
 

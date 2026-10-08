@@ -8,7 +8,7 @@ type: docs
 weight: 570
 url: "/net/aspose.pdf.operators/setcolorrenderingintent/"
 keywords: "SetColorRenderingIntent, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColorRenderingIntent class
 
@@ -22,21 +22,20 @@ public class SetColorRenderingIntent : Operator
 
 | Name | Description |
 | --- | --- |
-| [SetColorRenderingIntent](./setcolorrenderingintent/)(string) | Set Color Rendering Intent operator constructor. |
+| [SetColorRenderingIntent](setcolorrenderingintent/)(string) | Set Color Rendering Intent operator constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [IntentName](./intentname/) { get; set; } | Gets or sets color rendering intent name. |
+| [IntentName](../../aspose.pdf.operators/setcolorrenderingintent/intentname/) { get; set; } | Gets or sets color rendering intent name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [Accept](../../aspose.pdf.operators/setcolorrenderingintent/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 

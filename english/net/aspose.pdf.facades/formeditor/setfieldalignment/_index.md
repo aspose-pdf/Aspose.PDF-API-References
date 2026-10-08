@@ -7,7 +7,7 @@ description: "FormEditor method. Set the alignment style of a text field."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.facades/formeditor/setfieldalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.SetFieldAlignment method
 
@@ -20,8 +20,7 @@ public bool SetFieldAlignment(string fieldName, int alignment)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fieldName | String | The qualified field name. |
-| alignment | Int32 | The alignment style definition, including FormFieldFacade.AlignLeft,
- FormFieldFacade.AlignCenter and FormFieldFacade.AlignRight. |
+| alignment | Int32 | The alignment style definition, including FormFieldFacade.AlignLeft, FormFieldFacade.AlignCenter and FormFieldFacade.AlignRight. |
 
 ### Return Value
 

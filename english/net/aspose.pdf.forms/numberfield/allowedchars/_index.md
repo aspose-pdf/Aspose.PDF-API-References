@@ -7,7 +7,7 @@ description: "NumberField property. Gets or sets the allowed chars."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/numberfield/allowedchars/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## NumberField.AllowedChars property
 

@@ -7,7 +7,7 @@ description: "FormFieldOptions property. Gets/sets the value to determine proper
 type: docs
 weight: 60
 url: "/net/aspose.pdf.lowcode/formfieldoptions/color/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldOptions.Color property
 

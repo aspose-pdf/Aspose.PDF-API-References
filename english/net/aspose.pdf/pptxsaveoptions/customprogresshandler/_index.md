@@ -7,7 +7,7 @@ description: "PptxSaveOptions property. This handler can be used to handle conve
 type: docs
 weight: 70
 url: "/net/aspose.pdf/pptxsaveoptions/customprogresshandler/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PptxSaveOptions.CustomProgressHandler property
 
@@ -55,6 +55,7 @@ public static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInf
 
 ### See Also
 
+* delegate [ConversionProgressEventHandler](../../unifiedsaveoptions.conversionprogresseventhandler/)
 * class [PptxSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

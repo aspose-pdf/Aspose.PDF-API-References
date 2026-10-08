@@ -7,7 +7,7 @@ description: "Splitter constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/splitter/splitter/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Splitter constructor
 

@@ -7,7 +7,7 @@ description: "Layer property. Gets the layer content."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/layer/contents/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Layer.Contents property
 
@@ -19,6 +19,7 @@ public List<Operator> Contents { get; }
 
 ### See Also
 
+* class [Operator](../../operator/)
 * class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

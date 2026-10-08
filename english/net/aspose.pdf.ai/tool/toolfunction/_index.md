@@ -7,7 +7,7 @@ description: "Tool property. Gets or sets the function that the model can call."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/tool/toolfunction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Tool.ToolFunction property
 
@@ -19,7 +19,7 @@ public Function ToolFunction { get; set; }
 
 ### See Also
 
-* class [Function](../../../aspose.pdf.ai/function/)
+* class [Function](../../function/)
 * class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

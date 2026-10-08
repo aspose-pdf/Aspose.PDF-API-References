@@ -7,7 +7,7 @@ description: "IOperationResult property. Indicates whether the result is a text 
 type: docs
 weight: 50
 url: "/net/aspose.pdf.lowcode/ioperationresult/isstring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOperationResult.IsString property
 

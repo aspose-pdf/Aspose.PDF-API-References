@@ -7,11 +7,11 @@ description: "ICosPdfPrimitive method. String representation of instance ICosPdf
 type: docs
 weight: 60
 url: "/net/aspose.pdf.dataeditor/icospdfprimitive/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ICosPdfPrimitive.ToString method
 
-`String` representation of instance [`ICosPdfPrimitive`](../../../aspose.pdf.dataeditor/icospdfprimitive/).
+`String` representation of instance [`ICosPdfPrimitive`](../).
 
 ```csharp
 public string ToString()
@@ -19,7 +19,7 @@ public string ToString()
 
 ### Return Value
 
-Value of `String` representation of instance [`ICosPdfPrimitive`](../../../aspose.pdf.dataeditor/icospdfprimitive/).
+Value of `String` representation of instance [`ICosPdfPrimitive`](../).
 
 ### See Also
 

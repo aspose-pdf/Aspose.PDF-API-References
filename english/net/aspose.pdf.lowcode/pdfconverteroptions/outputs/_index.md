@@ -7,7 +7,7 @@ description: "PdfConverterOptions property. Gets collection of added targets for
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/pdfconverteroptions/outputs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfConverterOptions.Outputs property
 
@@ -19,6 +19,7 @@ public List<IDataSource> Outputs { get; }
 
 ### See Also
 
+* interface [IDataSource](../../idatasource/)
 * class [PdfConverterOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

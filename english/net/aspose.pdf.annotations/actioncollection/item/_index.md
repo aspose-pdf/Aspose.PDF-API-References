@@ -7,7 +7,7 @@ description: "ActionCollection property. Gets action by its index."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/actioncollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ActionCollection indexer
 
@@ -27,7 +27,7 @@ Retreived action.
 
 ### See Also
 
-* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [PdfAction](../../pdfaction/)
 * class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

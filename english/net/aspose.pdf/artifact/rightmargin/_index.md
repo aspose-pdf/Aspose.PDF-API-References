@@ -7,7 +7,7 @@ description: "Artifact property. Right margin of artifact. If position is specif
 type: docs
 weight: 240
 url: "/net/aspose.pdf/artifact/rightmargin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.RightMargin property
 

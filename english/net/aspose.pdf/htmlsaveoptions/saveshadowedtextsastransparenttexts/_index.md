@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. Pdf can contain texts that are shadowed by 
 type: docs
 weight: 300
 url: "/net/aspose.pdf/htmlsaveoptions/saveshadowedtextsastransparenttexts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.SaveShadowedTextsAsTransparentTexts field
 

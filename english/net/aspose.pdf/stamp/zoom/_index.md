@@ -7,7 +7,7 @@ description: "Stamp property. Zooming factor of the stamp. Allows to scale stamp
 type: docs
 weight: 210
 url: "/net/aspose.pdf/stamp/zoom/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.Zoom property
 

@@ -7,7 +7,7 @@ description: "Point3D property. X coordinate value."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/point3d/x/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Point3D.X property
 

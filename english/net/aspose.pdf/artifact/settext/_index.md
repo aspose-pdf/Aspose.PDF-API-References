@@ -7,7 +7,7 @@ description: "Artifact method. Sets text of the artifact."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/artifact/settext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.SetText method
 

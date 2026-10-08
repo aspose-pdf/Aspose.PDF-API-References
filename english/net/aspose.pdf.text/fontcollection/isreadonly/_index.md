@@ -7,7 +7,7 @@ description: "FontCollection property. Gets a value indicating whether collectio
 type: docs
 weight: 100
 url: "/net/aspose.pdf.text/fontcollection/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontCollection.IsReadOnly property
 

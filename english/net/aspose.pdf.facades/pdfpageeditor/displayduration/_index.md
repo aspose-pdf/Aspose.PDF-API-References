@@ -7,7 +7,7 @@ description: "PdfPageEditor property. Gets or sets display duration for pages."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/pdfpageeditor/displayduration/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.DisplayDuration property
 

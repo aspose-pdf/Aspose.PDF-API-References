@@ -7,7 +7,7 @@ description: "DocumentActionCollection property. Action that will be performed b
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/documentactioncollection/beforeprinting/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentActionCollection.BeforePrinting property
 
@@ -19,7 +19,7 @@ public PdfAction BeforePrinting { get; set; }
 
 ### See Also
 
-* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [PdfAction](../../pdfaction/)
 * class [DocumentActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

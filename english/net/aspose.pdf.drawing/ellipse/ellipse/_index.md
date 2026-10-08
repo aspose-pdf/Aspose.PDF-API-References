@@ -7,11 +7,11 @@ description: "Ellipse constructor. Initializes a new instance of the Ellipse cla
 type: docs
 weight: 10
 url: "/net/aspose.pdf.drawing/ellipse/ellipse/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Ellipse constructor
 
-Initializes a new instance of the [`Ellipse`](../../../aspose.pdf.drawing/ellipse/) class.
+Initializes a new instance of the [`Ellipse`](../) class.
 
 ```csharp
 public Ellipse(double left, double bottom, double width, double height)

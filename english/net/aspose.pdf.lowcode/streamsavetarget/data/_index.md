@@ -7,7 +7,7 @@ description: "StreamSaveTarget property. Gets the stream of current save target.
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/streamsavetarget/data/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StreamSaveTarget.Data property
 

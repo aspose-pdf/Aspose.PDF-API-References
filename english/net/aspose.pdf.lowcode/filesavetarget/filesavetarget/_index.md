@@ -7,7 +7,7 @@ description: "FileSaveTarget constructor. Initializes new file save target with 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/filesavetarget/filesavetarget/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSaveTarget constructor
 

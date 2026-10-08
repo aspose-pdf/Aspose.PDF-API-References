@@ -7,7 +7,7 @@ description: "FormattedText method. Checks if text is CJK (Chinese, Japanese, or
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/formattedtext/iscjk/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormattedText.IsCjk method
 

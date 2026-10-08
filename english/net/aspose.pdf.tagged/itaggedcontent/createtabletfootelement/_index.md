@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates TableTFootElement."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.tagged/itaggedcontent/createtabletfootelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateTableTFootElement method
 

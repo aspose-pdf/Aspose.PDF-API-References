@@ -7,7 +7,7 @@ description: "HtmlDiffOutputGenerator property. Gets and sets the CSS-style stri
 type: docs
 weight: 90
 url: "/net/aspose.pdf.comparison/htmldiffoutputgenerator/deletestyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlDiffOutputGenerator.DeleteStyle property
 

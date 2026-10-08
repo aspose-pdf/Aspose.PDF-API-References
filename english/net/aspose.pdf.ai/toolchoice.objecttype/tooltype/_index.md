@@ -7,7 +7,7 @@ description: "ObjectType property. Gets or sets the type of the tool. Currently,
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/toolchoice.objecttype/tooltype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ToolChoice.ObjectType.ToolType property
 
@@ -19,7 +19,7 @@ public string ToolType { get; set; }
 
 ### See Also
 
-* class [ToolChoice.ObjectType](../)
+* class [ObjectType](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

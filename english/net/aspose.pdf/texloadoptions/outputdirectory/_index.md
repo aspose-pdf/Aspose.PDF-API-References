@@ -7,7 +7,7 @@ description: "TeXLoadOptions property. Gets/sets TeX output directory."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/texloadoptions/outputdirectory/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXLoadOptions.OutputDirectory property
 
@@ -19,7 +19,7 @@ public ITeXOutputDirectory OutputDirectory { get; set; }
 
 ### See Also
 
-* interface [ITeXOutputDirectory](../../../aspose.pdf/itexoutputdirectory/)
+* interface [ITeXOutputDirectory](../../itexoutputdirectory/)
 * class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,11 +7,11 @@ description: "OpenAIOcrCopilotOptions method. Creates a new instance of OpenAIOc
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/create/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Create() {#create}
 
-Creates a new instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
+Creates a new instance of [`OpenAIOcrCopilotOptions`](../).
 
 ```csharp
 public static OpenAIOcrCopilotOptions Create()
@@ -19,19 +19,19 @@ public static OpenAIOcrCopilotOptions Create()
 
 ### Return Value
 
-A new instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
+A new instance of [`OpenAIOcrCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+* class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Create(Action<OpenAIOcrCopilotOptions>) {#create_1}
+## Create(Action&lt;OpenAIOcrCopilotOptions&gt;) {#create_1}
 
-Creates an instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/) and configures it using the provided delegate.
+Creates an instance of [`OpenAIOcrCopilotOptions`](../) and configures it using the provided delegate.
 
 ```csharp
 public static OpenAIOcrCopilotOptions Create(Action<OpenAIOcrCopilotOptions> config)
@@ -43,11 +43,11 @@ public static OpenAIOcrCopilotOptions Create(Action<OpenAIOcrCopilotOptions> con
 
 ### Return Value
 
-The configured instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
+The configured instance of [`OpenAIOcrCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+* class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

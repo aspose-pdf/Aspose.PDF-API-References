@@ -7,7 +7,7 @@ description: "SoundSampleData field. Default value for Channels parameter."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/soundsampledata/defaultofsoundchannels/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SoundSampleData.DefaultOfSoundChannels field
 

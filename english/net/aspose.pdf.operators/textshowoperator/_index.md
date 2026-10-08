@@ -8,7 +8,7 @@ type: docs
 weight: 840
 url: "/net/aspose.pdf.operators/textshowoperator/"
 keywords: "TextShowOperator, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextShowOperator class
 
@@ -22,22 +22,21 @@ public class TextShowOperator : TextOperator
 
 | Name | Description |
 | --- | --- |
-| [TextShowOperator](./textshowoperator/#constructor)() | Initializes TextShowOperator. |
-| [TextShowOperator](./textshowoperator/#constructor_1)(TextProperties) | Initializes TextShowOperator which allows to pass TextProperties. |
+| [TextShowOperator](textshowoperator/#constructor)() | Initializes TextShowOperator. |
+| [TextShowOperator](textshowoperator/#constructor_1)(TextProperties) | Initializes TextShowOperator which allows to pass TextProperties. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| virtual [Text](./text/) { get; set; } | Gets text which operator out on the page. |
+| virtual [Text](../../aspose.pdf.operators/textshowoperator/text/) { get; set; } | Gets text which operator out on the page. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 

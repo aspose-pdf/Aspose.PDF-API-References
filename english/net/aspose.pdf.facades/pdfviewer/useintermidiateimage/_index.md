@@ -7,7 +7,7 @@ description: "PdfViewer property. Gets/sets the using of conversion of pdf page 
 type: docs
 weight: 340
 url: "/net/aspose.pdf.facades/pdfviewer/useintermidiateimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.UseIntermidiateImage property
 

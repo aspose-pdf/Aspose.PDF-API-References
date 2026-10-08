@@ -7,7 +7,7 @@ description: "OcrTextRecognitionOptions property. Gets or sets the recognition l
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ocr/ocrtextrecognitionoptions/language/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OcrTextRecognitionOptions.Language property
 
@@ -19,7 +19,7 @@ public OcrLanguage Language { get; set; }
 
 ### See Also
 
-* enum [OcrLanguage](../../../aspose.pdf.ocr/ocrlanguage/)
+* enum [OcrLanguage](../../ocrlanguage/)
 * class [OcrTextRecognitionOptions](../)
 * namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
 * assembly [Aspose.PDF](../../../)

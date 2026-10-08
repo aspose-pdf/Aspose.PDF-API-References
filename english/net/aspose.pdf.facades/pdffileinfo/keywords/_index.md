@@ -7,7 +7,7 @@ description: "PdfFileInfo property. Gets or sets the Keywords information of PDF
 type: docs
 weight: 330
 url: "/net/aspose.pdf.facades/pdffileinfo/keywords/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.Keywords property
 

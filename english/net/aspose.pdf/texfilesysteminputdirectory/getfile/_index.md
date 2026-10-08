@@ -7,7 +7,7 @@ description: "TeXFileSystemInputDirectory method. Returns the stream to read fro
 type: docs
 weight: 20
 url: "/net/aspose.pdf/texfilesysteminputdirectory/getfile/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXFileSystemInputDirectory.GetFile method
 

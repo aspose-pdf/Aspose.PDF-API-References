@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionSchemaDescription property. Gets the prefix."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/xmppdfaextensionschemadescription/prefix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchemaDescription.Prefix property
 

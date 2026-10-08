@@ -7,7 +7,7 @@ description: "ExcelSaveOptions property. Set true if you need to minimize the nu
 type: docs
 weight: 20
 url: "/net/aspose.pdf/excelsaveoptions/minimizethenumberofworksheets/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExcelSaveOptions.MinimizeTheNumberOfWorksheets property
 

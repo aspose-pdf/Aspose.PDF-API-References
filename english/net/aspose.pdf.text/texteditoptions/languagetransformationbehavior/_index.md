@@ -7,7 +7,7 @@ description: "TextEditOptions property. Gets mode that defines behavior for lang
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/texteditoptions/languagetransformationbehavior/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextEditOptions.LanguageTransformationBehavior property
 
@@ -19,6 +19,7 @@ public LanguageTransformation LanguageTransformationBehavior { get; set; }
 
 ### See Also
 
+* enum [LanguageTransformation](../../texteditoptions.languagetransformation/)
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

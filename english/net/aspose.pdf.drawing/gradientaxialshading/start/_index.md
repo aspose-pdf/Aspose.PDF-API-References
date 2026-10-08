@@ -7,7 +7,7 @@ description: "GradientAxialShading property. Gets or sets start point."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.drawing/gradientaxialshading/start/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GradientAxialShading.Start property
 

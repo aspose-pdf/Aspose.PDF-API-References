@@ -7,7 +7,7 @@ description: "AttributeKey field. Padding attribute (Layout attribute owner)."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.logicalstructure/attributekey/padding/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.Padding field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey Padding;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

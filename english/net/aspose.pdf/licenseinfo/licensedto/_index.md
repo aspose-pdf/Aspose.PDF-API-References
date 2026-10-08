@@ -7,7 +7,7 @@ description: "LicenseInfo property. Gets the information about the licensee."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/licenseinfo/licensedto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LicenseInfo.LicensedTo property
 

@@ -7,7 +7,7 @@ description: "IOpenAIClient method. Creates a run within a specified thread asyn
 type: docs
 weight: 140
 url: "/net/aspose.pdf.ai/iopenaiclient/createrunasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOpenAIClient.CreateRunAsync method
 
@@ -32,11 +32,12 @@ A task that represents the asynchronous operation. The task result contains the 
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../../aspose.pdf.ai/aiclientexception/) | Thrown when the thread Id is null or empty. |
+| [AIClientException](../../aiclientexception/) | Thrown when the thread Id is null or empty. |
 
 ### See Also
 
-* class [RunCreateRequest](../../../aspose.pdf.ai/runcreaterequest/)
+* class [RunResponse](../../runresponse/)
+* class [RunCreateRequest](../../runcreaterequest/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

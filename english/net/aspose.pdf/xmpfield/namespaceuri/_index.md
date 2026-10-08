@@ -7,7 +7,7 @@ description: "XmpField property. Gets the namespace URI."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/xmpfield/namespaceuri/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpField.NamespaceUri property
 

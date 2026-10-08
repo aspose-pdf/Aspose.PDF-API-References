@@ -7,7 +7,7 @@ description: "FormDataConverter method. Imports data from table into database."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/formdataconverter/importintodatabase/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormDataConverter.ImportIntoDataBase method
 
@@ -41,7 +41,7 @@ fc.ImportIntoDataBase(connection, DataType.OLEDB);
 
 ### See Also
 
-* enum [DataType](../../../aspose.pdf.lowcode/datatype/)
+* enum [DataType](../../datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

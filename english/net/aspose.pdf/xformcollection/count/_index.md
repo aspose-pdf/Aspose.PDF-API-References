@@ -7,7 +7,7 @@ description: "XFormCollection property. Gets count of XForms in collection."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/xformcollection/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFormCollection.Count property
 

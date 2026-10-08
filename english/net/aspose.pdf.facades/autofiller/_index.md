@@ -8,7 +8,7 @@ type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/autofiller/"
 keywords: "AutoFiller, Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AutoFiller class
 
@@ -168,32 +168,33 @@ public sealed class AutoFiller : ISaveableFacade
 
 | Name | Description |
 | --- | --- |
-| [AutoFiller](./autofiller/)() | The default constructor. |
+| [AutoFiller](autofiller/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BasicFileName](./basicfilename/) { get; set; } | Gets or sets the basic file name if many small files will be generated. The generated file will be like "BasicFileName0","BasicFileName1",... It works with another property `GeneratingPath`GeneratingPath. |
-| [GeneratingPath](./generatingpath/) { get; set; } | Gets or sets the Generating Path of the small pdf files if many small pdf files to be generated. It works with another property `BasicFileName`BasicFileName. One of the four output modes. |
-| [OutputStreams](./outputstreams/) { get; set; } | Gets or sets the many Output Streams. One of four output modes. |
-| [UnFlattenFields](./unflattenfields/) { set; } | Sets the fields which will not be flattened. If this property is not set, all the fields will be flattened. |
+| [BasicFileName](../../aspose.pdf.facades/autofiller/basicfilename/) { get; set; } | Gets or sets the basic file name if many small files will be generated. The generated file will be like "BasicFileName0","BasicFileName1",... It works with another property [`GeneratingPath`](./generatingpath/)GeneratingPath. |
+| [GeneratingPath](../../aspose.pdf.facades/autofiller/generatingpath/) { get; set; } | Gets or sets the Generating Path of the small pdf files if many small pdf files to be generated. It works with another property [`BasicFileName`](./basicfilename/)BasicFileName. One of the four output modes. |
+| [OutputStreams](../../aspose.pdf.facades/autofiller/outputstreams/) { get; set; } | Gets or sets the many Output Streams. One of four output modes. |
+| [UnFlattenFields](../../aspose.pdf.facades/autofiller/unflattenfields/) { set; } | Sets the fields which will not be flattened. If this property is not set, all the fields will be flattened. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [BindPdf](./bindpdf/)(Document) | Binds a Pdf document. |
-| [BindPdf](./bindpdf/)(Stream) | Binds a Pdf file. |
-| [BindPdf](./bindpdf/)(string) | Binds a Pdf file. |
-| [Close](./close/)() | Closes the object and output streams. |
-| [Dispose](./dispose/)() | Closes the object and output streams. |
-| [ImportDataTable](./importdatatable/)(DataTable) | Imports data of DataTable type. Every column's name of the dataTable must be the same as one field name of the template pdf in case sensitive. |
-| [Save](./save/)(Stream) | Saves all the pdfs. |
-| [Save](./save/)(string) | Saves all the pdfs. |
+| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf)(string) | Binds a Pdf file. |
+| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf_1)(Stream) | Binds a Pdf file. |
+| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf_2)(Document) | Binds a Pdf document. |
+| [Close](../../aspose.pdf.facades/autofiller/close/)() | Closes the object and output streams. |
+| [Dispose](../../aspose.pdf.facades/autofiller/dispose/)() | Closes the object and output streams. |
+| [ImportDataTable](../../aspose.pdf.facades/autofiller/importdatatable/)(DataTable) | Imports data of DataTable type. Every column's name of the dataTable must be the same as one field name of the template pdf in case sensitive. |
+| [Save](../../aspose.pdf.facades/autofiller/save/#save)(string) | Saves all the pdfs. |
+| [Save](../../aspose.pdf.facades/autofiller/save/#save_1)(Stream) | Saves all the pdfs. |
 
 ### See Also
 
+* interface [ISaveableFacade](../isaveablefacade/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
 

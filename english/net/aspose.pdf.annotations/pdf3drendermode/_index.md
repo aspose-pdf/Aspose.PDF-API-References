@@ -8,7 +8,7 @@ type: docs
 weight: 840
 url: "/net/aspose.pdf.annotations/pdf3drendermode/"
 keywords: "PDF3DRenderMode, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DRenderMode class
 
@@ -22,46 +22,46 @@ public class PDF3DRenderMode
 
 | Name | Description |
 | --- | --- |
-| [PDF3DRenderMode](./pdf3drendermode/#constructor)(RenderModeType) | Initializes a new instance of the [`PDF3DRenderMode`](../../aspose.pdf.annotations/pdf3drendermode/) class. |
-| [PDF3DRenderMode](./pdf3drendermode/#constructor_1)(string) | Initializes a new instance of the [`PDF3DRenderMode`](../../aspose.pdf.annotations/pdf3drendermode/) class. |
+| [PDF3DRenderMode](pdf3drendermode/#constructor)(RenderModeType) | Initializes a new instance of the `PDF3DRenderMode` class. |
+| [PDF3DRenderMode](pdf3drendermode/#constructor_1)(string) | Initializes a new instance of the `PDF3DRenderMode` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Type](./type/) { get; } | Gets the type. |
+| [Type](../../aspose.pdf.annotations/pdf3drendermode/type/) { get; } | Gets the type. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetAuxiliaryColour](./getauxiliarycolour/)() | Gets the auxiliary colour. |
-| [GetCreaseValue](./getcreasevalue/)() | Gets the crease value. |
-| [GetFaceColor](./getfacecolor/)() | Gets the color of the face. |
-| [GetOpacity](./getopacity/)() | Gets the opacity. |
-| [SetAuxiliaryColour](./setauxiliarycolour/)(Color) | Sets the auxiliary colour. |
-| [SetCreaseValue](./setcreasevalue/)(double) | Sets the crease value. |
-| [SetFaceColor](./setfacecolor/)(Color) | Sets the color of the face. |
-| [SetOpacity](./setopacity/)(double) | Sets the opacity. |
+| [GetAuxiliaryColour](../../aspose.pdf.annotations/pdf3drendermode/getauxiliarycolour/)() | Gets the auxiliary colour. |
+| [GetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/getcreasevalue/)() | Gets the crease value. |
+| [GetFaceColor](../../aspose.pdf.annotations/pdf3drendermode/getfacecolor/)() | Gets the color of the face. |
+| [GetOpacity](../../aspose.pdf.annotations/pdf3drendermode/getopacity/)() | Gets the opacity. |
+| [SetAuxiliaryColour](../../aspose.pdf.annotations/pdf3drendermode/setauxiliarycolour/)(Color) | Sets the auxiliary colour. |
+| [SetCreaseValue](../../aspose.pdf.annotations/pdf3drendermode/setcreasevalue/)(double) | Sets the crease value. |
+| [SetFaceColor](../../aspose.pdf.annotations/pdf3drendermode/setfacecolor/)(Color) | Sets the color of the face. |
+| [SetOpacity](../../aspose.pdf.annotations/pdf3drendermode/setopacity/)(double) | Sets the opacity. |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| static [BoundingBox](./boundingbox/) | The "BoundingBox" render mode. |
-| static [Illustration](./illustration/) | The "Illustration" render mode. |
-| static [ShadedIllustration](./shadedillustration/) | The "ShadedIllustration" render mode. |
-| static [ShadedVertices](./shadedvertices/) | The "ShadedVertices" render mode. |
-| static [ShadedWireframe](./shadedwireframe/) | The "ShadedWireFrame" render mode. |
-| static [Solid](./solid/) | The "Solid" render mode. |
-| static [SolidOutline](./solidoutline/) | The "SolidOutline" render mode. |
-| static [SolidWireframe](./solidwireframe/) | The "SolidWireFrame" render mode. |
-| static [Transparent](./transparent/) | The "Transparent" render mode. |
-| static [TransparentBoundingBox](./transparentboundingbox/) | The "TransparentBoundingBox" render mode. |
-| static [TransparentBoundingBoxOutline](./transparentboundingboxoutline/) | The "TransparentBoundingBoxOutline" render mode. |
-| static [TransparentWareFrame](./transparentwareframe/) | The "TransparentWareFrame" render mode. |
-| static [Vertices](./vertices/) | The "Vertices" render mode. |
-| static [Wireframe](./wireframe/) | The "WireFrame" render mode. |
+| static [BoundingBox](../../aspose.pdf.annotations/pdf3drendermode/boundingbox/) | The "BoundingBox" render mode. |
+| static [Illustration](../../aspose.pdf.annotations/pdf3drendermode/illustration/) | The "Illustration" render mode. |
+| static [ShadedIllustration](../../aspose.pdf.annotations/pdf3drendermode/shadedillustration/) | The "ShadedIllustration" render mode. |
+| static [ShadedVertices](../../aspose.pdf.annotations/pdf3drendermode/shadedvertices/) | The "ShadedVertices" render mode. |
+| static [ShadedWireframe](../../aspose.pdf.annotations/pdf3drendermode/shadedwireframe/) | The "ShadedWireFrame" render mode. |
+| static [Solid](../../aspose.pdf.annotations/pdf3drendermode/solid/) | The "Solid" render mode. |
+| static [SolidOutline](../../aspose.pdf.annotations/pdf3drendermode/solidoutline/) | The "SolidOutline" render mode. |
+| static [SolidWireframe](../../aspose.pdf.annotations/pdf3drendermode/solidwireframe/) | The "SolidWireFrame" render mode. |
+| static [Transparent](../../aspose.pdf.annotations/pdf3drendermode/transparent/) | The "Transparent" render mode. |
+| static [TransparentBoundingBox](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingbox/) | The "TransparentBoundingBox" render mode. |
+| static [TransparentBoundingBoxOutline](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingboxoutline/) | The "TransparentBoundingBoxOutline" render mode. |
+| static [TransparentWareFrame](../../aspose.pdf.annotations/pdf3drendermode/transparentwareframe/) | The "TransparentWareFrame" render mode. |
+| static [Vertices](../../aspose.pdf.annotations/pdf3drendermode/vertices/) | The "Vertices" render mode. |
+| static [Wireframe](../../aspose.pdf.annotations/pdf3drendermode/wireframe/) | The "WireFrame" render mode. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "CrashReportOptions property. Exception that crash report will be b
 type: docs
 weight: 80
 url: "/net/aspose.pdf/crashreportoptions/exception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CrashReportOptions.Exception property
 

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.LineBreakStyle enum. Represents the possible line break
 type: docs
 weight: 1730
 url: "/net/aspose.pdf/linebreakstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineBreakStyle enumeration
 

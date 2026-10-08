@@ -7,23 +7,22 @@ description: "IFacade method. Binds PDF document for editing."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/ifacade/bindpdf/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## BindPdf([Document](../../../aspose.pdf/document/)) {#bindpdf}
+## BindPdf(string) {#bindpdf}
 
 Binds PDF document for editing.
 
 ```csharp
-public void BindPdf(Document srcDoc)
+public void BindPdf(string srcFile)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcDoc | Document | Input PDF document. |
+| srcFile | String | The path of input PDF document. |
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
 * interface [IFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
@@ -50,20 +49,21 @@ public void BindPdf(Stream srcStream)
 
 ---
 
-## BindPdf(string) {#bindpdf_2}
+## BindPdf(Document) {#bindpdf_2}
 
 Binds PDF document for editing.
 
 ```csharp
-public void BindPdf(string srcFile)
+public void BindPdf(Document srcDoc)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFile | String | The path of input PDF document. |
+| srcDoc | Document | Input PDF document. |
 
 ### See Also
 
+* class [Document](../../../aspose.pdf/document/)
 * interface [IFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

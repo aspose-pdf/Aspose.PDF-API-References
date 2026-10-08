@@ -7,7 +7,7 @@ description: "SignatureName method. Determines whether this instance and a speci
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/signaturename/equals/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureName.Equals method
 

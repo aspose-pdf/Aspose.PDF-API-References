@@ -7,7 +7,7 @@ description: "Document field."
 type: docs
 weight: 1640
 url: "/net/aspose.pdf/document/defaultnodesnuminsubtrees/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.DefaultNodesNumInSubtrees field
 

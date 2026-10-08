@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Text.TabAlignmentType enum. Enumerates the tab alignmen
 type: docs
 weight: 360
 url: "/net/aspose.pdf.text/tabalignmenttype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TabAlignmentType enumeration
 

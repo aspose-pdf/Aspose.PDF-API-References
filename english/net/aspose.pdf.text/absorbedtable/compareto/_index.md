@@ -7,7 +7,7 @@ description: "AbsorbedTable method. Compares the current AbsorbedTable object wi
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/absorbedtable/compareto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AbsorbedTable.CompareTo method
 
@@ -30,7 +30,7 @@ A value that indicates the relative order of the objects being compared. The ret
 
 ### See Also
 
-* class [AbsorbedTable](../../../aspose.pdf.text/absorbedtable/)
+* class [AbsorbedTable](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 

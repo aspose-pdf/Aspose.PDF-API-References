@@ -7,7 +7,7 @@ description: "HiddenDataSanitizationOptions property. Gets or sets a value indic
 type: docs
 weight: 70
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/removesearchindexandprivateinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HiddenDataSanitizationOptions.RemoveSearchIndexAndPrivateInfo property
 

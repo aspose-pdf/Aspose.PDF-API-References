@@ -7,11 +7,11 @@ description: "FontRepository method. Reloads all fonts specified by property Sou
 type: docs
 weight: 100
 url: "/net/aspose.pdf.text/fontrepository/reloadfonts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontRepository.ReloadFonts method
 
-Reloads all fonts specified by property `Sources`
+Reloads all fonts specified by property [`Sources`](../sources/)
 
 ```csharp
 public static void ReloadFonts()

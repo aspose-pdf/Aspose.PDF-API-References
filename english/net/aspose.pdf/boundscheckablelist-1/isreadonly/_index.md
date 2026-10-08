@@ -7,7 +7,7 @@ description: "BoundsCheckableList property. Gets the value indicating if collect
 type: docs
 weight: 150
 url: "/net/aspose.pdf/boundscheckablelist-1/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BoundsCheckableList<T>.IsReadOnly property
 
@@ -19,7 +19,7 @@ public bool IsReadOnly { get; }
 
 ### See Also
 
-* class [BoundsCheckableList<T>](../)
+* class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

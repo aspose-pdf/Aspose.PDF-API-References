@@ -7,7 +7,7 @@ description: "XfaParserOptions property. Gets or sets the size of the page."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.xfaconverter/xfaparseroptions/pagesize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XfaParserOptions.PageSize property
 

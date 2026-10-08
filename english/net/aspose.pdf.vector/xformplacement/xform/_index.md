@@ -7,7 +7,7 @@ description: "XFormPlacement property. Gets XForm associated with this XFormPlac
 type: docs
 weight: 30
 url: "/net/aspose.pdf.vector/xformplacement/xform/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFormPlacement.XForm property
 

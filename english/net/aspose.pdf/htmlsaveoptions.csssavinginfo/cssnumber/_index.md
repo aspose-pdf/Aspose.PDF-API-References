@@ -7,7 +7,7 @@ description: "CssSavingInfo field. Set by converter. During conversion several C
 type: docs
 weight: 10
 url: "/net/aspose.pdf/htmlsaveoptions.csssavinginfo/cssnumber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.CssSavingInfo.CssNumber field
 
@@ -22,7 +22,7 @@ public int CssNumber;
 
 ### See Also
 
-* class [HtmlSaveOptions.CssSavingInfo](../)
+* class [CssSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

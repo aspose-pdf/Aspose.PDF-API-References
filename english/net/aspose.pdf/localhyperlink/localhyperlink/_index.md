@@ -7,11 +7,11 @@ description: "LocalHyperlink constructor. Initializes a new instance of the Loca
 type: docs
 weight: 10
 url: "/net/aspose.pdf/localhyperlink/localhyperlink/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LocalHyperlink() {#constructor}
 
-Initializes a new instance of the [`LocalHyperlink`](../../../aspose.pdf/localhyperlink/) class.
+Initializes a new instance of the [`LocalHyperlink`](../) class.
 
 ```csharp
 public LocalHyperlink()
@@ -25,9 +25,9 @@ public LocalHyperlink()
 
 ---
 
-## LocalHyperlink([BaseParagraph](../../../aspose.pdf/baseparagraph/)) {#constructor_1}
+## LocalHyperlink(BaseParagraph) {#constructor_1}
 
-Initializes a new instance of the [`LocalHyperlink`](../../../aspose.pdf/localhyperlink/) class.
+Initializes a new instance of the [`LocalHyperlink`](../) class.
 
 ```csharp
 public LocalHyperlink(BaseParagraph target)
@@ -39,7 +39,7 @@ public LocalHyperlink(BaseParagraph target)
 
 ### See Also
 
-* class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
+* class [BaseParagraph](../../baseparagraph/)
 * class [LocalHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

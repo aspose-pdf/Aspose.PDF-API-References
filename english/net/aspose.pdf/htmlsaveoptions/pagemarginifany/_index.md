@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. This attribute represents set of extra page
 type: docs
 weight: 330
 url: "/net/aspose.pdf/htmlsaveoptions/pagemarginifany/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.PageMarginIfAny field
 
@@ -20,7 +20,7 @@ public MarginInfo PageMarginIfAny;
 
 ### See Also
 
-* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [MarginInfo](../../margininfo/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "CosPdfString property. Gets a value indicating whether this instan
 type: docs
 weight: 70
 url: "/net/aspose.pdf.dataeditor/cospdfstring/ishexadecimal/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfString.IsHexadecimal property
 

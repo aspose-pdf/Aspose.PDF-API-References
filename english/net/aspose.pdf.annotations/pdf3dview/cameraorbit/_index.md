@@ -7,7 +7,7 @@ description: "PDF3DView property. Gets or sets the camera orbit of view."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/pdf3dview/cameraorbit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DView.CameraOrbit property
 

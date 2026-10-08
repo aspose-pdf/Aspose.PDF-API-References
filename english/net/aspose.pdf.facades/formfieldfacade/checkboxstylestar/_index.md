@@ -7,7 +7,7 @@ description: "FormFieldFacade field. Defines a star check box style."
 type: docs
 weight: 430
 url: "/net/aspose.pdf.facades/formfieldfacade/checkboxstylestar/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.CheckBoxStyleStar field
 

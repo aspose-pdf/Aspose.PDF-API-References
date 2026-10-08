@@ -8,7 +8,7 @@ type: docs
 weight: 330
 url: "/net/aspose.pdf.lowcode/formjsonimportsource/"
 keywords: "FormJsonImportSource, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormJsonImportSource class
 
@@ -23,14 +23,14 @@ public sealed class FormJsonImportSource
 
 | Name | Description |
 | --- | --- |
-| [FormJsonImportSource](./formjsonimportsource/)(IDataSource, IDataSource) | Initializes a new instance of the [`FormJsonImportSource`](../../aspose.pdf.lowcode/formjsonimportsource/) class. |
+| [FormJsonImportSource](formjsonimportsource/)(IDataSource, IDataSource) | Initializes a new instance of the `FormJsonImportSource` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [JsonSource](./jsonsource/) { get; } | Gets the data source that contains the JSON with field values. |
-| [PdfSource](./pdfsource/) { get; } | Gets the data source that contains the source PDF. |
+| [JsonSource](../../aspose.pdf.lowcode/formjsonimportsource/jsonsource/) { get; } | Gets the data source that contains the JSON with field values. |
+| [PdfSource](../../aspose.pdf.lowcode/formjsonimportsource/pdfsource/) { get; } | Gets the data source that contains the source PDF. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "LicenseInfo property. Gets the license note."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/licenseinfo/licensenote/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LicenseInfo.LicenseNote property
 

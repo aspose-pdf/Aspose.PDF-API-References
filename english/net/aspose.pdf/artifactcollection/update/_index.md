@@ -7,7 +7,7 @@ description: "ArtifactCollection method. Update artifact inside the collection."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/artifactcollection/update/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ArtifactCollection.Update method
 
@@ -23,7 +23,7 @@ public void Update(Artifact artifact)
 
 ### See Also
 
-* class [Artifact](../../../aspose.pdf/artifact/)
+* class [Artifact](../../artifact/)
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

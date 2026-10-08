@@ -7,7 +7,7 @@ description: "Annotation property. Gets type of annotation."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/annotation/annotationtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.AnnotationType property
 
@@ -19,7 +19,7 @@ public abstract AnnotationType AnnotationType { get; }
 
 ### See Also
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* enum [AnnotationType](../../annotationtype/)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

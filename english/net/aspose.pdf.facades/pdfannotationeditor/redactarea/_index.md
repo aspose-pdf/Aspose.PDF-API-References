@@ -7,7 +7,7 @@ description: "PdfAnnotationEditor method. Redacts area on the specified page. Al
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/pdfannotationeditor/redactarea/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAnnotationEditor.RedactArea method
 
@@ -25,8 +25,7 @@ public void RedactArea(int pageIndex, Rectangle rect, Color color)
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [Color](../../../aspose.pdf/color/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

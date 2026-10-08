@@ -7,19 +7,19 @@ description: "TextFragmentState property. Gets or sets horizontal alignment for 
 type: docs
 weight: 230
 url: "/net/aspose.pdf.text/textfragmentstate/horizontalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentState.HorizontalAlignment property
 
 Gets or sets horizontal alignment for the text.
 
-HorizontalAlignment.None is equal to HorizontalAlignment.Left.
- 
- Note that TextFragmentState.VerticalAlignment property works in new document generation scenarios only.
-
 ```csharp
 public override HorizontalAlignment HorizontalAlignment { get; set; }
 ```
+
+## Remarks
+
+HorizontalAlignment.None is equal to HorizontalAlignment.Left. Note that TextFragmentState.VerticalAlignment property works in new document generation scenarios only.
 
 ### See Also
 

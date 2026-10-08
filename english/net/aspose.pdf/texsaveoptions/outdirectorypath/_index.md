@@ -7,7 +7,7 @@ description: "TeXSaveOptions property. Property for _outDirectoryPath parameter.
 type: docs
 weight: 40
 url: "/net/aspose.pdf/texsaveoptions/outdirectorypath/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXSaveOptions.OutDirectoryPath property
 

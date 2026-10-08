@@ -7,7 +7,7 @@ description: "TableElement property. Gets or sets the styles of the border corne
 type: docs
 weight: 80
 url: "/net/aspose.pdf.logicalstructure/tableelement/cornerstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableElement.CornerStyle property
 

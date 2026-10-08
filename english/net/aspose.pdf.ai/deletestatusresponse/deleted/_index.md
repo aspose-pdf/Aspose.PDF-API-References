@@ -7,7 +7,7 @@ description: "DeleteStatusResponse property. Gets or sets the value that indicat
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/deletestatusresponse/deleted/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DeleteStatusResponse.Deleted property
 

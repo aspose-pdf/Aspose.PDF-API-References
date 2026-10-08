@@ -8,11 +8,11 @@ type: docs
 weight: 270
 url: "/net/aspose.pdf.lowcode/formflattenallfieldsoptions/"
 keywords: "FormFlattenAllFieldsOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFlattenAllFieldsOptions class
 
-Represents options for flatten all fields (not annotations) in document by [`FormFlattener`](../../aspose.pdf.lowcode/formflattener/) plugin.
+Represents options for flatten all fields (not annotations) in document by [`FormFlattener`](../formflattener/) plugin.
 
 ```csharp
 public class FormFlattenAllFieldsOptions : FormFlattenerOptions
@@ -22,7 +22,7 @@ public class FormFlattenAllFieldsOptions : FormFlattenerOptions
 
 | Name | Description |
 | --- | --- |
-| [FormFlattenAllFieldsOptions](./formflattenallfieldsoptions/)() | The default constructor. |
+| [FormFlattenAllFieldsOptions](formflattenallfieldsoptions/)() | The default constructor. |
 
 ## Properties
 

@@ -7,7 +7,7 @@ description: "Rows method. Add row to collection."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/rows/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Add() {#add}
 
@@ -23,14 +23,14 @@ The new row
 
 ### See Also
 
-* class [Row](../../../aspose.pdf/row/)
+* class [Row](../../row/)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add([Row](../../../aspose.pdf/row/)) {#add_1}
+## Add(Row) {#add_1}
 
 Add row to cellection.
 
@@ -44,7 +44,7 @@ public void Add(Row row)
 
 ### See Also
 
-* class [Row](../../../aspose.pdf/row/)
+* class [Row](../../row/)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

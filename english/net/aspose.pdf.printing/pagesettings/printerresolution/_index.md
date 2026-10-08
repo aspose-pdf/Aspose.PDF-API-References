@@ -7,7 +7,7 @@ description: "PageSettings property. Gets or sets the printer resolution for the
 type: docs
 weight: 110
 url: "/net/aspose.pdf.printing/pagesettings/printerresolution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageSettings.PrinterResolution property
 
@@ -19,7 +19,7 @@ public PrinterResolution PrinterResolution { get; set; }
 
 ### See Also
 
-* class [PrinterResolution](../../../aspose.pdf.printing/printerresolution/)
+* class [PrinterResolution](../../printerresolution/)
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

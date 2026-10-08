@@ -7,7 +7,7 @@ description: "PdfFileStamp constructor. Constructor of the PdfFileStamp. Input f
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffilestamp/pdffilestamp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileStamp() {#constructor}
 
@@ -38,9 +38,9 @@ fileStamp.OutputFile = "output.pdf";
 
 ---
 
-## PdfFileStamp([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## PdfFileStamp(Document) {#constructor_1}
 
-Initializes new [`PdfFileStamp`](../../../aspose.pdf.facades/pdffilestamp/) object on base of the *document*.
+Initializes new [`PdfFileStamp`](../) object on base of the *document*.
 
 ```csharp
 public PdfFileStamp(Document document)

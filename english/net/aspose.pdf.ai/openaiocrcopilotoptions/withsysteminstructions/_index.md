@@ -7,7 +7,7 @@ description: "OpenAIOcrCopilotOptions method. Sets the instructions for the ocr 
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withsysteminstructions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIOcrCopilotOptions.WithSystemInstructions method
 
@@ -23,11 +23,11 @@ public OpenAIOcrCopilotOptions WithSystemInstructions(string text)
 
 ### Return Value
 
-The current instance of [`OpenAIOcrCopilotOptions`](../../../aspose.pdf.ai/openaiocrcopilotoptions/).
+The current instance of [`OpenAIOcrCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../../../aspose.pdf.ai/openaiocrcopilotoptions/)
+* class [OpenAIOcrCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

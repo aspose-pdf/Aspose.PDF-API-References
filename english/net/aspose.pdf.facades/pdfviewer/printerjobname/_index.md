@@ -7,7 +7,7 @@ description: "PdfViewer property. Gets or sets name of document in printer queue
 type: docs
 weight: 410
 url: "/net/aspose.pdf.facades/pdfviewer/printerjobname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.PrinterJobName property
 

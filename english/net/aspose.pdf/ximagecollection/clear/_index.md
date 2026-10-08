@@ -7,7 +7,7 @@ description: "XImageCollection method. Clears all items from the collection."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/ximagecollection/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImageCollection.Clear method
 

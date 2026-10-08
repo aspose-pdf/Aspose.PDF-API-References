@@ -8,7 +8,7 @@ type: docs
 weight: 970
 url: "/net/aspose.pdf/footer/"
 keywords: "Footer, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Footer class
 
@@ -22,7 +22,7 @@ public sealed class Footer : HorizontalAlignment
 
 | Name | Description |
 | --- | --- |
-| [Footer](./footer/)() | The default constructor. |
+| [Footer](footer/)() | The default constructor. |
 
 ## Properties
 

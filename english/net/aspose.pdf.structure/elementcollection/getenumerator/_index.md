@@ -7,7 +7,7 @@ description: "ElementCollection method. Returns an enumerator that iterates thro
 type: docs
 weight: 20
 url: "/net/aspose.pdf.structure/elementcollection/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ElementCollection.GetEnumerator method
 
@@ -23,6 +23,7 @@ Enumerator of elements.
 
 ### See Also
 
+* class [Element](../../element/)
 * class [ElementCollection](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)

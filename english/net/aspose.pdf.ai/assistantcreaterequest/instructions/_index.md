@@ -7,7 +7,7 @@ description: "AssistantCreateRequest property. Gets or sets the system instructi
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/assistantcreaterequest/instructions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantCreateRequest.Instructions property
 

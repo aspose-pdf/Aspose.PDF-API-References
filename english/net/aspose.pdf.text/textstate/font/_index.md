@@ -7,7 +7,7 @@ description: "TextState property. Gets or sets font of the text."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.text/textstate/font/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextState.Font property
 
@@ -19,7 +19,7 @@ public virtual Font Font { get; set; }
 
 ### See Also
 
-* class [Font](../../../aspose.pdf.text/font/)
+* class [Font](../../font/)
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

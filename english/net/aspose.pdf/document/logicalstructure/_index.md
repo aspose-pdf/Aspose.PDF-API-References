@@ -7,7 +7,7 @@ description: "Document property. Gets logical structure of the document."
 type: docs
 weight: 1470
 url: "/net/aspose.pdf/document/logicalstructure/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.LogicalStructure property
 

@@ -7,11 +7,11 @@ description: "Position method. Gets string representation for the current Positi
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/position/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Position.ToString method
 
-Gets string representation for the current [`Position`](../../../aspose.pdf.text/position/) object.
+Gets string representation for the current [`Position`](../) object.
 
 ```csharp
 public override string ToString()

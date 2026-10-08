@@ -7,7 +7,7 @@ description: "OutlineItemCollection method. Deletes this outline item from the d
 type: docs
 weight: 20
 url: "/net/aspose.pdf/outlineitemcollection/delete/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Delete() {#delete}
 

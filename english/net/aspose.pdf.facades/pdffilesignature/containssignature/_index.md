@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Checks if the pdf has a digital signature
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/pdffilesignature/containssignature/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.ContainsSignature method
 

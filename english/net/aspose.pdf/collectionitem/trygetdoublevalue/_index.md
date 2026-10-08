@@ -7,7 +7,7 @@ description: "CollectionItem method."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/collectionitem/trygetdoublevalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionItem.TryGetDoubleValue method
 
@@ -16,15 +16,6 @@ product_version: "26.9.0"
 ```csharp
 public bool TryGetDoubleValue(string name, out Value<double> value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String |  |
-| value | Value`1& |  |
-
-### Return Value
-
-bool
 
 ### See Also
 

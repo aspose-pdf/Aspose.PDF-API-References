@@ -7,7 +7,7 @@ description: "TextFormattingOptions property. Gets or sets line spacing mode. De
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/textformattingoptions/linespacing/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFormattingOptions.LineSpacing property
 
@@ -20,6 +20,7 @@ public LineSpacingMode LineSpacing { get; set; }
 
 ### See Also
 
+* enum [LineSpacingMode](../../textformattingoptions.linespacingmode/)
 * class [TextFormattingOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

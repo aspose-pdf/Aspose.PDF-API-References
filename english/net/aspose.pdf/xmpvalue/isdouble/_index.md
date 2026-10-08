@@ -7,7 +7,7 @@ description: "XmpValue property. Returns true if value is floating point value."
 type: docs
 weight: 310
 url: "/net/aspose.pdf/xmpvalue/isdouble/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpValue.IsDouble property
 

@@ -7,7 +7,7 @@ description: "HtmlToPdfOptions property. Gets or sets layout option."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.lowcode/htmltopdfoptions/pagelayoutoption/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlToPdfOptions.PageLayoutOption property
 

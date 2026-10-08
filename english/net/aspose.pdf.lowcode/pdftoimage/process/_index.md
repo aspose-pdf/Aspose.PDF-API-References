@@ -7,7 +7,7 @@ description: "PdfToImage method. Starts processing with the specified parameters
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/pdftoimage/process/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfToImage.Process method
 
@@ -28,8 +28,8 @@ A ResultContainer object containing the result of the conversion.
 ### See Also
 
 * [PdfToImage](../pdftoimage/)
-* class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
-* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
 * class [PdfToImage](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

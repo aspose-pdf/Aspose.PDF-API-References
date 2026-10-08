@@ -7,7 +7,7 @@ description: "BaseResponse property. Gets or sets the HTTP response headers."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/baseresponse/httpresponseheaders/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseResponse.HttpResponseHeaders property
 

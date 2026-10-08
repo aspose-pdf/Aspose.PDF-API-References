@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Facades.PropertyFlag enum. Enumeration of possible fiel
 type: docs
 weight: 540
 url: "/net/aspose.pdf.facades/propertyflag/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PropertyFlag enumeration
 

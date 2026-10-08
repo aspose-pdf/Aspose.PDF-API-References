@@ -7,7 +7,7 @@ description: "OpenAIClient method. Creates a new assistant asynchronously."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.ai/openaiclient/createassistantasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIClient.CreateAssistantAsync method
 
@@ -29,7 +29,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [AssistantCreateRequest](../../../aspose.pdf.ai/assistantcreaterequest/)
+* class [AssistantResponse](../../assistantresponse/)
+* class [AssistantCreateRequest](../../assistantcreaterequest/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

@@ -8,7 +8,7 @@ type: docs
 weight: 2160
 url: "/net/aspose.pdf/pagedate.yearcomponent/"
 keywords: "PageDate.YearComponent, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageDate.YearComponent class
 
@@ -22,7 +22,7 @@ public class YearComponent : DateComponent
 
 | Name | Description |
 | --- | --- |
-| [YearComponent](./yearcomponent/)() | The default constructor. |
+| [YearComponent](yearcomponent/)() | The default constructor. |
 
 ## Properties
 
@@ -34,7 +34,7 @@ public class YearComponent : DateComponent
 
 | Name | Description |
 | --- | --- |
-| [GetFormat](./getformat/)() | Gets the format string for the year component. |
+| [GetFormat](../../aspose.pdf/pagedate.yearcomponent/getformat/)() | Gets the format string for the year component. |
 | [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Returns a string composed of a specified character repeated based on the format. |
 
 ### See Also

@@ -7,7 +7,7 @@ description: "PaperSizes field. A4 transverse paper (210 mm by 297 mm)."
 type: docs
 weight: 530
 url: "/net/aspose.pdf.printing/papersizes/a4transverse/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.A4Transverse field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize A4Transverse;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

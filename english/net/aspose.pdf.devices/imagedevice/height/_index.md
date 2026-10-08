@@ -7,7 +7,7 @@ description: "ImageDevice property. Gets image output height."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.devices/imagedevice/height/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageDevice.Height property
 

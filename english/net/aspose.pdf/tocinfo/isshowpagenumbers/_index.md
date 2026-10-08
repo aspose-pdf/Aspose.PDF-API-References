@@ -7,7 +7,7 @@ description: "TocInfo property. Gets or sets is show page numbers at Toc."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/tocinfo/isshowpagenumbers/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TocInfo.IsShowPageNumbers property
 

@@ -7,11 +7,11 @@ description: "ImageStamp constructor. Initializes a new instance of the ImageSta
 type: docs
 weight: 10
 url: "/net/aspose.pdf/imagestamp/imagestamp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageStamp(Stream) {#constructor}
 
-Initializes a new instance of the [`ImageStamp`](../../../aspose.pdf/imagestamp/) class.
+Initializes a new instance of the [`ImageStamp`](../) class.
 
 ```csharp
 public ImageStamp(Stream image)

@@ -7,7 +7,7 @@ description: "OptionCollection method. Adds item in collection, throws NotImplem
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/optioncollection/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptionCollection.Add method
 
@@ -21,15 +21,9 @@ public void Add(Option item)
 | --- | --- | --- |
 | item | Option | Operator item to add. |
 
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| NotImplementedException | NotImplementedException |
-
 ### See Also
 
-* class [Option](../../../aspose.pdf.forms/option/)
+* class [Option](../../option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

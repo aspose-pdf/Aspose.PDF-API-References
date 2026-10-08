@@ -7,513 +7,9 @@ description: "IOperatorSelector method. Visit/select f operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/ioperatorselector/visit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Visit([BDC](../../../aspose.pdf.operators/bdc/)) {#visit}
-
-Visit/select BDC operator.
-
-```csharp
-public void Visit(BDC BDC)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| BDC | BDC | Begin marked-content sequence operator (with property list). |
-
-### See Also
-
-* class [BDC](../../../aspose.pdf.operators/bdc/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([BI](../../../aspose.pdf.operators/bi/)) {#visit_1}
-
-Visit/select BI operator.
-
-```csharp
-public void Visit(BI BI)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| BI | BI | Begin inline image object operator. |
-
-### See Also
-
-* class [BI](../../../aspose.pdf.operators/bi/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([BMC](../../../aspose.pdf.operators/bmc/)) {#visit_2}
-
-Visit/select BMC operator.
-
-```csharp
-public void Visit(BMC BMC)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| BMC | BMC | Begin marked-content sequence operator. |
-
-### See Also
-
-* class [BMC](../../../aspose.pdf.operators/bmc/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([BT](../../../aspose.pdf.operators/bt/)) {#visit_3}
-
-Visit/select BT operator.
-
-```csharp
-public void Visit(BT BT)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| BT | BT | Begin text object operator. |
-
-### See Also
-
-* class [BT](../../../aspose.pdf.operators/bt/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([BX](../../../aspose.pdf.operators/bx/)) {#visit_4}
-
-Visit/select BX operator.
-
-```csharp
-public void Visit(BX BX)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| BX | BX | Begin compatibility section operator. |
-
-### See Also
-
-* class [BX](../../../aspose.pdf.operators/bx/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([Clip](../../../aspose.pdf.operators/clip/)) {#visit_5}
-
-Visit/select W operator.
-
-```csharp
-public void Visit(Clip W)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| W | Clip | Set clipping path operator (nonzero winding number rule). |
-
-### See Also
-
-* class [Clip](../../../aspose.pdf.operators/clip/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([ClosePath](../../../aspose.pdf.operators/closepath/)) {#visit_6}
-
-Visit/select h operator.
-
-```csharp
-public void Visit(ClosePath h)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| h | ClosePath | Close subpath operator. |
-
-### See Also
-
-* class [ClosePath](../../../aspose.pdf.operators/closepath/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)) {#visit_7}
-
-Visit/select b* operator.
-
-```csharp
-public void Visit(ClosePathEOFillStroke b_)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| b_ | ClosePathEOFillStroke | Close, fill, and stroke path operator (even-odd rule). |
-
-### See Also
-
-* class [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)) {#visit_8}
-
-Visit/select b operator.
-
-```csharp
-public void Visit(ClosePathFillStroke b)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| b | ClosePathFillStroke | Close, fill, and stroke path operator (nonzero winding number rule). |
-
-### See Also
-
-* class [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)) {#visit_9}
-
-Visit/select s operator.
-
-```csharp
-public void Visit(ClosePathStroke s)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| s | ClosePathStroke | Close and stroke path operator. |
-
-### See Also
-
-* class [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)) {#visit_10}
-
-Visit/select cm operator.
-
-```csharp
-public void Visit(ConcatenateMatrix cm)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| cm | ConcatenateMatrix | Concatenate matrix to current transformation matrix operator. |
-
-### See Also
-
-* class [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([CurveTo](../../../aspose.pdf.operators/curveto/)) {#visit_11}
-
-Visit/select c operator.
-
-```csharp
-public void Visit(CurveTo c)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| c | CurveTo | Append curved segment to path operator (three control points). |
-
-### See Also
-
-* class [CurveTo](../../../aspose.pdf.operators/curveto/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([CurveTo1](../../../aspose.pdf.operators/curveto1/)) {#visit_12}
-
-Visit/select v operator.
-
-```csharp
-public void Visit(CurveTo1 v)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| v | CurveTo1 | Append curved segment to path operator (initial point replicated). |
-
-### See Also
-
-* class [CurveTo1](../../../aspose.pdf.operators/curveto1/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([CurveTo2](../../../aspose.pdf.operators/curveto2/)) {#visit_13}
-
-Visit/select y operator.
-
-```csharp
-public void Visit(CurveTo2 y)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| y | CurveTo2 | Append curved segment to path operator (final point replicated). |
-
-### See Also
-
-* class [CurveTo2](../../../aspose.pdf.operators/curveto2/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([Do](../../../aspose.pdf.operators/do/)) {#visit_14}
-
-Visit/select Do operator.
-
-```csharp
-public void Visit(Do Do)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| Do | Do | Invoke named XObject operator. |
-
-### See Also
-
-* class [Do](../../../aspose.pdf.operators/do/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([DP](../../../aspose.pdf.operators/dp/)) {#visit_15}
-
-Visit/select DP operator.
-
-```csharp
-public void Visit(DP DP)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| DP | DP | Define marked-content point operator (with property list). |
-
-### See Also
-
-* class [DP](../../../aspose.pdf.operators/dp/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([EI](../../../aspose.pdf.operators/ei/)) {#visit_16}
-
-Visit/select EI operator.
-
-```csharp
-public void Visit(EI EI)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| EI | EI | End inline image object operator. |
-
-### See Also
-
-* class [EI](../../../aspose.pdf.operators/ei/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([EMC](../../../aspose.pdf.operators/emc/)) {#visit_17}
-
-Visit/select EMC operator.
-
-```csharp
-public void Visit(EMC EMC)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| EMC | EMC | End marked-content sequence operator. |
-
-### See Also
-
-* class [EMC](../../../aspose.pdf.operators/emc/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([EndPath](../../../aspose.pdf.operators/endpath/)) {#visit_18}
-
-Visit/select n operator.
-
-```csharp
-public void Visit(EndPath n)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| n | EndPath | End path operator (without filling or stroking). |
-
-### See Also
-
-* class [EndPath](../../../aspose.pdf.operators/endpath/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([EOClip](../../../aspose.pdf.operators/eoclip/)) {#visit_19}
-
-Visit/select W* operator.
-
-```csharp
-public void Visit(EOClip W_)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| W_ | EOClip | Set clipping path operator (even-odd rule). |
-
-### See Also
-
-* class [EOClip](../../../aspose.pdf.operators/eoclip/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([EOFill](../../../aspose.pdf.operators/eofill/)) {#visit_20}
-
-Visit/select operator f*.
-
-```csharp
-public void Visit(EOFill f_)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| f_ | EOFill | Fill path operator (even-odd rule). |
-
-### See Also
-
-* class [EOFill](../../../aspose.pdf.operators/eofill/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)) {#visit_21}
-
-Visit/select B* operator.
-
-```csharp
-public void Visit(EOFillStroke B_)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| B_ | EOFillStroke | Fill and stroke path operator (even-odd rule). |
-
-### See Also
-
-* class [EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([ET](../../../aspose.pdf.operators/et/)) {#visit_22}
-
-Visit/select ET operator.
-
-```csharp
-public void Visit(ET ET)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| ET | ET | End text object operator. |
-
-### See Also
-
-* class [ET](../../../aspose.pdf.operators/et/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([EX](../../../aspose.pdf.operators/ex/)) {#visit_23}
-
-Visit/select EX operator.
-
-```csharp
-public void Visit(EX EX)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| EX | EX | End compatibility section operator. |
-
-### See Also
-
-* class [EX](../../../aspose.pdf.operators/ex/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([Fill](../../../aspose.pdf.operators/fill/)) {#visit_24}
+## Visit(Fill) {#visit}
 
 Visit/select f operator.
 
@@ -534,259 +30,7 @@ public void Visit(Fill f)
 
 ---
 
-## Visit([FillStroke](../../../aspose.pdf.operators/fillstroke/)) {#visit_25}
-
-Visit/select B operator.
-
-```csharp
-public void Visit(FillStroke B)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| B | FillStroke | Fill and stroke path operator (nonzero winding number rule). |
-
-### See Also
-
-* class [FillStroke](../../../aspose.pdf.operators/fillstroke/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([GRestore](../../../aspose.pdf.operators/grestore/)) {#visit_26}
-
-Visit/select Q operator.
-
-```csharp
-public void Visit(GRestore Q)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| Q | GRestore | Restore graphics state operator. |
-
-### See Also
-
-* class [GRestore](../../../aspose.pdf.operators/grestore/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([GS](../../../aspose.pdf.operators/gs/)) {#visit_27}
-
-Visit/select gs operator.
-
-```csharp
-public void Visit(GS gs)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| gs | GS | Set graphics state operator. |
-
-### See Also
-
-* class [GS](../../../aspose.pdf.operators/gs/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([GSave](../../../aspose.pdf.operators/gsave/)) {#visit_28}
-
-Visit/select q operator.
-
-```csharp
-public void Visit(GSave q)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| q | GSave | Save graphics state operator. |
-
-### See Also
-
-* class [GSave](../../../aspose.pdf.operators/gsave/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([ID](../../../aspose.pdf.operators/id/)) {#visit_29}
-
-Visit/select ID operator.
-
-```csharp
-public void Visit(ID ID)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| ID | ID | Begin inline image data operator. |
-
-### See Also
-
-* class [ID](../../../aspose.pdf.operators/id/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([LineTo](../../../aspose.pdf.operators/lineto/)) {#visit_30}
-
-Visit/select l operator.
-
-```csharp
-public void Visit(LineTo l)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| l | LineTo | Append straight line segment to path operator. |
-
-### See Also
-
-* class [LineTo](../../../aspose.pdf.operators/lineto/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)) {#visit_31}
-
-Visit/select Td operator.
-
-```csharp
-public void Visit(MoveTextPosition Td)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| Td | MoveTextPosition | Move text position operator. |
-
-### See Also
-
-* class [MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)) {#visit_32}
-
-Visit/select TD operator.
-
-```csharp
-public void Visit(MoveTextPositionSetLeading TD)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| TD | MoveTextPositionSetLeading | Move text position and set leading operator. |
-
-### See Also
-
-* class [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([MoveTo](../../../aspose.pdf.operators/moveto/)) {#visit_33}
-
-Visit/select m operator.
-
-```csharp
-public void Visit(MoveTo m)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| m | MoveTo | Begin new subpath operator. |
-
-### See Also
-
-* class [MoveTo](../../../aspose.pdf.operators/moveto/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)) {#visit_34}
-
-Visit/select T* operator.
-
-```csharp
-public void Visit(MoveToNextLine T_)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| T_ | MoveToNextLine | Move to start of next text line operator. |
-
-### See Also
-
-* class [MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)) {#visit_35}
-
-Visit/select ' operator.
-
-```csharp
-public void Visit(MoveToNextLineShowText _)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| _ | MoveToNextLineShowText | Move to next line and show text operator. |
-
-### See Also
-
-* class [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([MP](../../../aspose.pdf.operators/mp/)) {#visit_36}
-
-Visit/select MP operator.
-
-```csharp
-public void Visit(MP MP)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| MP | MP | Define marked-content point operator. |
-
-### See Also
-
-* class [MP](../../../aspose.pdf.operators/mp/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([ObsoleteFill](../../../aspose.pdf.operators/obsoletefill/)) {#visit_37}
+## Visit(ObsoleteFill) {#visit_1}
 
 Visit/select F operator.
 
@@ -807,385 +51,28 @@ public void Visit(ObsoleteFill F)
 
 ---
 
-## Visit([Re](../../../aspose.pdf.operators/re/)) {#visit_38}
+## Visit(EOFill) {#visit_2}
 
-Visit/select re operator.
+Visit/select operator f*.
 
 ```csharp
-public void Visit(Re re)
+public void Visit(EOFill f_)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| re | Re | Append rectangle to path operator. |
+| f_ | EOFill | Fill path operator (even-odd rule). |
 
 ### See Also
 
-* class [Re](../../../aspose.pdf.operators/re/)
+* class [EOFill](../../../aspose.pdf.operators/eofill/)
 * interface [IOperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([SelectFont](../../../aspose.pdf.operators/selectfont/)) {#visit_39}
-
-Visit/select Tf operator.
-
-```csharp
-public void Visit(SelectFont Tf)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| Tf | SelectFont | Set text font and size operator. |
-
-### See Also
-
-* class [SelectFont](../../../aspose.pdf.operators/selectfont/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)) {#visit_40}
-
-Visit/select scn operator.
-
-```csharp
-public void Visit(SetAdvancedColor scn)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| scn | SetAdvancedColor | Set color operator (for nonstroking operations, ICCBased and special colour spaces). |
-
-### See Also
-
-* class [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)) {#visit_41}
-
-Visit/select SCN operator.
-
-```csharp
-public void Visit(SetAdvancedColorStroke SCN)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| SCN | SetAdvancedColorStroke | Set color operator (for stroking operations, ICCBasedand special colour spaces). |
-
-### See Also
-
-* class [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)) {#visit_42}
-
-Visit/select Tc operator.
-
-```csharp
-public void Visit(SetCharacterSpacing Tc)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| Tc | SetCharacterSpacing | Set character spacing operator. |
-
-### See Also
-
-* class [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)) {#visit_43}
-
-Visit/select d0 operator.
-
-```csharp
-public void Visit(SetCharWidth d0)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| d0 | SetCharWidth | Set glyph width in Type 3 font operator. |
-
-### See Also
-
-* class [SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)) {#visit_44}
-
-Visit/select d1 operator.
-
-```csharp
-public void Visit(SetCharWidthBoundingBox d1)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| d1 | SetCharWidthBoundingBox | Set glyph width and bounding box in Type 3 font operator. |
-
-### See Also
-
-* class [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)) {#visit_45}
-
-Visit/select k operator.
-
-```csharp
-public void Visit(SetCMYKColor k)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| k | SetCMYKColor | Set CMYK color operator (for nonstroking operations). |
-
-### See Also
-
-* class [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)) {#visit_46}
-
-Visit/select K operator.
-
-```csharp
-public void Visit(SetCMYKColorStroke K)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| K | SetCMYKColorStroke | Set CMYK color operator (for stroking operations). |
-
-### See Also
-
-* class [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetColor](../../../aspose.pdf.operators/setcolor/)) {#visit_47}
-
-Visit/select sc operator.
-
-```csharp
-public void Visit(SetColor sc)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sc | SetColor | Set color operator (for nonstroking operations). |
-
-### See Also
-
-* class [SetColor](../../../aspose.pdf.operators/setcolor/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)) {#visit_48}
-
-Visit/select ri operator.
-
-```csharp
-public void Visit(SetColorRenderingIntent ri)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| ri | SetColorRenderingIntent | Set color rendering intent operator. |
-
-### See Also
-
-* class [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)) {#visit_49}
-
-Visit/select cs operator.
-
-```csharp
-public void Visit(SetColorSpace cs)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| cs | SetColorSpace | Set color space operator (for nonstroking operations). |
-
-### See Also
-
-* class [SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)) {#visit_50}
-
-Visit/select CS operator.
-
-```csharp
-public void Visit(SetColorSpaceStroke CS)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| CS | SetColorSpaceStroke | Set color space operator (for stroking operations). |
-
-### See Also
-
-* class [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)) {#visit_51}
-
-Visit/select SC operator.
-
-```csharp
-public void Visit(SetColorStroke SC)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| SC | SetColorStroke | Set color operator (for stroking operations). |
-
-### See Also
-
-* class [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetDash](../../../aspose.pdf.operators/setdash/)) {#visit_52}
-
-Visit/select d operator.
-
-```csharp
-public void Visit(SetDash d)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| d | SetDash | Set line dash pattern operator. |
-
-### See Also
-
-* class [SetDash](../../../aspose.pdf.operators/setdash/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetFlat](../../../aspose.pdf.operators/setflat/)) {#visit_53}
-
-Visit/select i operator.
-
-```csharp
-public void Visit(SetFlat i)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| i | SetFlat | Set flatness tolerance operator. |
-
-### See Also
-
-* class [SetFlat](../../../aspose.pdf.operators/setflat/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)) {#visit_54}
-
-Visit/select TJ operator.
-
-```csharp
-public void Visit(SetGlyphsPositionShowText TJ)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| TJ | SetGlyphsPositionShowText | Show text operator (allowing individual glyph positioning). |
-
-### See Also
-
-* class [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetGray](../../../aspose.pdf.operators/setgray/)) {#visit_55}
-
-Visit/select g operator.
-
-```csharp
-public void Visit(SetGray g)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| g | SetGray | Set gray level operator (for nonstroking operations). |
-
-### See Also
-
-* class [SetGray](../../../aspose.pdf.operators/setgray/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetGrayStroke](../../../aspose.pdf.operators/setgraystroke/)) {#visit_56}
+## Visit(SetGrayStroke) {#visit_3}
 
 Visit/select G operator.
 
@@ -1206,28 +93,133 @@ public void Visit(SetGrayStroke G)
 
 ---
 
-## Visit([SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)) {#visit_57}
+## Visit(SetGray) {#visit_4}
 
-Visit/select Tz operator.
+Visit/select g operator.
 
 ```csharp
-public void Visit(SetHorizontalTextScaling Tz)
+public void Visit(SetGray g)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| Tz | SetHorizontalTextScaling | Set horizontal text scaling operator. |
+| g | SetGray | Set gray level operator (for nonstroking operations). |
 
 ### See Also
 
-* class [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)
+* class [SetGray](../../../aspose.pdf.operators/setgray/)
 * interface [IOperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([SetLineCap](../../../aspose.pdf.operators/setlinecap/)) {#visit_58}
+## Visit(GS) {#visit_5}
+
+Visit/select gs operator.
+
+```csharp
+public void Visit(GS gs)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| gs | GS | Set graphics state operator. |
+
+### See Also
+
+* class [GS](../../../aspose.pdf.operators/gs/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(ClosePath) {#visit_6}
+
+Visit/select h operator.
+
+```csharp
+public void Visit(ClosePath h)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| h | ClosePath | Close subpath operator. |
+
+### See Also
+
+* class [ClosePath](../../../aspose.pdf.operators/closepath/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetFlat) {#visit_7}
+
+Visit/select i operator.
+
+```csharp
+public void Visit(SetFlat i)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| i | SetFlat | Set flatness tolerance operator. |
+
+### See Also
+
+* class [SetFlat](../../../aspose.pdf.operators/setflat/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(ID) {#visit_8}
+
+Visit/select ID operator.
+
+```csharp
+public void Visit(ID ID)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ID | ID | Begin inline image data operator. |
+
+### See Also
+
+* class [ID](../../../aspose.pdf.operators/id/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetColorRenderingIntent) {#visit_9}
+
+Visit/select ri operator.
+
+```csharp
+public void Visit(SetColorRenderingIntent ri)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ri | SetColorRenderingIntent | Set color rendering intent operator. |
+
+### See Also
+
+* class [SetColorRenderingIntent](../../../aspose.pdf.operators/setcolorrenderingintent/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetLineCap) {#visit_10}
 
 Visit/select J operator.
 
@@ -1248,49 +240,7 @@ public void Visit(SetLineCap J)
 
 ---
 
-## Visit([SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)) {#visit_59}
-
-Visit/select j operator.
-
-```csharp
-public void Visit(SetLineJoin j)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| j | SetLineJoin | Set line join style operator. |
-
-### See Also
-
-* class [SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)) {#visit_60}
-
-Visit/select w operator.
-
-```csharp
-public void Visit(SetLineWidth w)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| w | SetLineWidth | Set line width operator. |
-
-### See Also
-
-* class [SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)
-* interface [IOperatorSelector](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([SetMiterLimit](../../../aspose.pdf.operators/setmiterlimit/)) {#visit_61}
+## Visit(SetMiterLimit) {#visit_11}
 
 Visit/select M operator.
 
@@ -1311,28 +261,112 @@ public void Visit(SetMiterLimit M)
 
 ---
 
-## Visit([SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)) {#visit_62}
+## Visit(MP) {#visit_12}
 
-Visit/select rg operator.
+Visit/select MP operator.
 
 ```csharp
-public void Visit(SetRGBColor rg)
+public void Visit(MP MP)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rg | SetRGBColor | Set RGB color operator (for nonstroking operations). |
+| MP | MP | Define marked-content point operator. |
 
 ### See Also
 
-* class [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)
+* class [MP](../../../aspose.pdf.operators/mp/)
 * interface [IOperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([SetRGBColorStroke](../../../aspose.pdf.operators/setrgbcolorstroke/)) {#visit_63}
+## Visit(EndPath) {#visit_13}
+
+Visit/select n operator.
+
+```csharp
+public void Visit(EndPath n)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| n | EndPath | End path operator (without filling or stroking). |
+
+### See Also
+
+* class [EndPath](../../../aspose.pdf.operators/endpath/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(GSave) {#visit_14}
+
+Visit/select q operator.
+
+```csharp
+public void Visit(GSave q)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| q | GSave | Save graphics state operator. |
+
+### See Also
+
+* class [GSave](../../../aspose.pdf.operators/gsave/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(GRestore) {#visit_15}
+
+Visit/select Q operator.
+
+```csharp
+public void Visit(GRestore Q)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Q | GRestore | Restore graphics state operator. |
+
+### See Also
+
+* class [GRestore](../../../aspose.pdf.operators/grestore/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(Re) {#visit_16}
+
+Visit/select re operator.
+
+```csharp
+public void Visit(Re re)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| re | Re | Append rectangle to path operator. |
+
+### See Also
+
+* class [Re](../../../aspose.pdf.operators/re/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetRGBColorStroke) {#visit_17}
 
 Visit/select RG operator.
 
@@ -1353,112 +387,112 @@ public void Visit(SetRGBColorStroke RG)
 
 ---
 
-## Visit([SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)) {#visit_64}
+## Visit(SetRGBColor) {#visit_18}
 
-Visit/select '' operator.
+Visit/select rg operator.
 
 ```csharp
-public void Visit(SetSpacingMoveToNextLineShowText __)
+public void Visit(SetRGBColor rg)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| __ | SetSpacingMoveToNextLineShowText | Set word and character spacing, move to next line, and show text operator. |
+| rg | SetRGBColor | Set RGB color operator (for nonstroking operations). |
 
 ### See Also
 
-* class [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)
+* class [SetRGBColor](../../../aspose.pdf.operators/setrgbcolor/)
 * interface [IOperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([SetTextLeading](../../../aspose.pdf.operators/settextleading/)) {#visit_65}
+## Visit(SetCMYKColorStroke) {#visit_19}
 
-Visit/select TL operator.
+Visit/select K operator.
 
 ```csharp
-public void Visit(SetTextLeading TL)
+public void Visit(SetCMYKColorStroke K)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| TL | SetTextLeading | Set text leading operator. |
+| K | SetCMYKColorStroke | Set CMYK color operator (for stroking operations). |
 
 ### See Also
 
-* class [SetTextLeading](../../../aspose.pdf.operators/settextleading/)
+* class [SetCMYKColorStroke](../../../aspose.pdf.operators/setcmykcolorstroke/)
 * interface [IOperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)) {#visit_66}
+## Visit(SetCMYKColor) {#visit_20}
 
-Visit/select Tm operator.
+Visit/select k operator.
 
 ```csharp
-public void Visit(SetTextMatrix Tm)
+public void Visit(SetCMYKColor k)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| Tm | SetTextMatrix | Set text matrix and text line matrix operator. |
+| k | SetCMYKColor | Set CMYK color operator (for nonstroking operations). |
 
 ### See Also
 
-* class [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)
+* class [SetCMYKColor](../../../aspose.pdf.operators/setcmykcolor/)
 * interface [IOperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)) {#visit_67}
+## Visit(LineTo) {#visit_21}
 
-Visit/select Tr operator.
+Visit/select l operator.
 
 ```csharp
-public void Visit(SetTextRenderingMode Tr)
+public void Visit(LineTo l)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| Tr | SetTextRenderingMode | Set text rendering mode operator. |
+| l | LineTo | Append straight line segment to path operator. |
 
 ### See Also
 
-* class [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)
+* class [LineTo](../../../aspose.pdf.operators/lineto/)
 * interface [IOperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([SetTextRise](../../../aspose.pdf.operators/settextrise/)) {#visit_68}
+## Visit(MoveTo) {#visit_22}
 
-Visit/select Ts operator.
+Visit/select m operator.
 
 ```csharp
-public void Visit(SetTextRise Ts)
+public void Visit(MoveTo m)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| Ts | SetTextRise | Set text rise operator. |
+| m | MoveTo | Begin new subpath operator. |
 
 ### See Also
 
-* class [SetTextRise](../../../aspose.pdf.operators/settextrise/)
+* class [MoveTo](../../../aspose.pdf.operators/moveto/)
 * interface [IOperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([SetWordSpacing](../../../aspose.pdf.operators/setwordspacing/)) {#visit_69}
+## Visit(SetWordSpacing) {#visit_23}
 
 Visit/select Tw operator.
 
@@ -1479,28 +513,70 @@ public void Visit(SetWordSpacing Tw)
 
 ---
 
-## Visit([ShFill](../../../aspose.pdf.operators/shfill/)) {#visit_70}
+## Visit(ClosePathStroke) {#visit_24}
 
-Visit/select sh operator.
+Visit/select s operator.
 
 ```csharp
-public void Visit(ShFill sh)
+public void Visit(ClosePathStroke s)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sh | ShFill | Paint area defined by shading pattern operator. |
+| s | ClosePathStroke | Close and stroke path operator. |
 
 ### See Also
 
-* class [ShFill](../../../aspose.pdf.operators/shfill/)
+* class [ClosePathStroke](../../../aspose.pdf.operators/closepathstroke/)
 * interface [IOperatorSelector](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit([ShowText](../../../aspose.pdf.operators/showtext/)) {#visit_71}
+## Visit(MoveTextPositionSetLeading) {#visit_25}
+
+Visit/select TD operator.
+
+```csharp
+public void Visit(MoveTextPositionSetLeading TD)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| TD | MoveTextPositionSetLeading | Move text position and set leading operator. |
+
+### See Also
+
+* class [MoveTextPositionSetLeading](../../../aspose.pdf.operators/movetextpositionsetleading/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SelectFont) {#visit_26}
+
+Visit/select Tf operator.
+
+```csharp
+public void Visit(SelectFont Tf)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Tf | SelectFont | Set text font and size operator. |
+
+### See Also
+
+* class [SelectFont](../../../aspose.pdf.operators/selectfont/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(ShowText) {#visit_27}
 
 Visit/select Tj operator.
 
@@ -1521,7 +597,112 @@ public void Visit(ShowText Tj)
 
 ---
 
-## Visit([Stroke](../../../aspose.pdf.operators/stroke/)) {#visit_72}
+## Visit(SetGlyphsPositionShowText) {#visit_28}
+
+Visit/select TJ operator.
+
+```csharp
+public void Visit(SetGlyphsPositionShowText TJ)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| TJ | SetGlyphsPositionShowText | Show text operator (allowing individual glyph positioning). |
+
+### See Also
+
+* class [SetGlyphsPositionShowText](../../../aspose.pdf.operators/setglyphspositionshowtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetTextLeading) {#visit_29}
+
+Visit/select TL operator.
+
+```csharp
+public void Visit(SetTextLeading TL)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| TL | SetTextLeading | Set text leading operator. |
+
+### See Also
+
+* class [SetTextLeading](../../../aspose.pdf.operators/settextleading/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetTextMatrix) {#visit_30}
+
+Visit/select Tm operator.
+
+```csharp
+public void Visit(SetTextMatrix Tm)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Tm | SetTextMatrix | Set text matrix and text line matrix operator. |
+
+### See Also
+
+* class [SetTextMatrix](../../../aspose.pdf.operators/settextmatrix/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetTextRenderingMode) {#visit_31}
+
+Visit/select Tr operator.
+
+```csharp
+public void Visit(SetTextRenderingMode Tr)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Tr | SetTextRenderingMode | Set text rendering mode operator. |
+
+### See Also
+
+* class [SetTextRenderingMode](../../../aspose.pdf.operators/settextrenderingmode/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetTextRise) {#visit_32}
+
+Visit/select Ts operator.
+
+```csharp
+public void Visit(SetTextRise Ts)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Ts | SetTextRise | Set text rise operator. |
+
+### See Also
+
+* class [SetTextRise](../../../aspose.pdf.operators/settextrise/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(Stroke) {#visit_33}
 
 Visit/select S operator.
 
@@ -1542,7 +723,826 @@ public void Visit(Stroke S)
 
 ---
 
-## Visit([TextOperator](../../../aspose.pdf.operators/textoperator/)) {#visit_73}
+## Visit(SetColorStroke) {#visit_34}
+
+Visit/select SC operator.
+
+```csharp
+public void Visit(SetColorStroke SC)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| SC | SetColorStroke | Set color operator (for stroking operations). |
+
+### See Also
+
+* class [SetColorStroke](../../../aspose.pdf.operators/setcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetColor) {#visit_35}
+
+Visit/select sc operator.
+
+```csharp
+public void Visit(SetColor sc)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sc | SetColor | Set color operator (for nonstroking operations). |
+
+### See Also
+
+* class [SetColor](../../../aspose.pdf.operators/setcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetAdvancedColorStroke) {#visit_36}
+
+Visit/select SCN operator.
+
+```csharp
+public void Visit(SetAdvancedColorStroke SCN)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| SCN | SetAdvancedColorStroke | Set color operator (for stroking operations, ICCBasedand special colour spaces). |
+
+### See Also
+
+* class [SetAdvancedColorStroke](../../../aspose.pdf.operators/setadvancedcolorstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetAdvancedColor) {#visit_37}
+
+Visit/select scn operator.
+
+```csharp
+public void Visit(SetAdvancedColor scn)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| scn | SetAdvancedColor | Set color operator (for nonstroking operations, ICCBased and special colour spaces). |
+
+### See Also
+
+* class [SetAdvancedColor](../../../aspose.pdf.operators/setadvancedcolor/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(ShFill) {#visit_38}
+
+Visit/select sh operator.
+
+```csharp
+public void Visit(ShFill sh)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sh | ShFill | Paint area defined by shading pattern operator. |
+
+### See Also
+
+* class [ShFill](../../../aspose.pdf.operators/shfill/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(MoveToNextLine) {#visit_39}
+
+Visit/select T* operator.
+
+```csharp
+public void Visit(MoveToNextLine T_)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| T_ | MoveToNextLine | Move to start of next text line operator. |
+
+### See Also
+
+* class [MoveToNextLine](../../../aspose.pdf.operators/movetonextline/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetCharacterSpacing) {#visit_40}
+
+Visit/select Tc operator.
+
+```csharp
+public void Visit(SetCharacterSpacing Tc)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Tc | SetCharacterSpacing | Set character spacing operator. |
+
+### See Also
+
+* class [SetCharacterSpacing](../../../aspose.pdf.operators/setcharacterspacing/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(MoveTextPosition) {#visit_41}
+
+Visit/select Td operator.
+
+```csharp
+public void Visit(MoveTextPosition Td)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Td | MoveTextPosition | Move text position operator. |
+
+### See Also
+
+* class [MoveTextPosition](../../../aspose.pdf.operators/movetextposition/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(CurveTo2) {#visit_42}
+
+Visit/select y operator.
+
+```csharp
+public void Visit(CurveTo2 y)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| y | CurveTo2 | Append curved segment to path operator (final point replicated). |
+
+### See Also
+
+* class [CurveTo2](../../../aspose.pdf.operators/curveto2/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(EOClip) {#visit_43}
+
+Visit/select W* operator.
+
+```csharp
+public void Visit(EOClip W_)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| W_ | EOClip | Set clipping path operator (even-odd rule). |
+
+### See Also
+
+* class [EOClip](../../../aspose.pdf.operators/eoclip/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetHorizontalTextScaling) {#visit_44}
+
+Visit/select Tz operator.
+
+```csharp
+public void Visit(SetHorizontalTextScaling Tz)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Tz | SetHorizontalTextScaling | Set horizontal text scaling operator. |
+
+### See Also
+
+* class [SetHorizontalTextScaling](../../../aspose.pdf.operators/sethorizontaltextscaling/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(CurveTo1) {#visit_45}
+
+Visit/select v operator.
+
+```csharp
+public void Visit(CurveTo1 v)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| v | CurveTo1 | Append curved segment to path operator (initial point replicated). |
+
+### See Also
+
+* class [CurveTo1](../../../aspose.pdf.operators/curveto1/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(Clip) {#visit_46}
+
+Visit/select W operator.
+
+```csharp
+public void Visit(Clip W)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| W | Clip | Set clipping path operator (nonzero winding number rule). |
+
+### See Also
+
+* class [Clip](../../../aspose.pdf.operators/clip/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetLineWidth) {#visit_47}
+
+Visit/select w operator.
+
+```csharp
+public void Visit(SetLineWidth w)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| w | SetLineWidth | Set line width operator. |
+
+### See Also
+
+* class [SetLineWidth](../../../aspose.pdf.operators/setlinewidth/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetLineJoin) {#visit_48}
+
+Visit/select j operator.
+
+```csharp
+public void Visit(SetLineJoin j)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| j | SetLineJoin | Set line join style operator. |
+
+### See Also
+
+* class [SetLineJoin](../../../aspose.pdf.operators/setlinejoin/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(EX) {#visit_49}
+
+Visit/select EX operator.
+
+```csharp
+public void Visit(EX EX)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| EX | EX | End compatibility section operator. |
+
+### See Also
+
+* class [EX](../../../aspose.pdf.operators/ex/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(ET) {#visit_50}
+
+Visit/select ET operator.
+
+```csharp
+public void Visit(ET ET)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| ET | ET | End text object operator. |
+
+### See Also
+
+* class [ET](../../../aspose.pdf.operators/et/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(EMC) {#visit_51}
+
+Visit/select EMC operator.
+
+```csharp
+public void Visit(EMC EMC)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| EMC | EMC | End marked-content sequence operator. |
+
+### See Also
+
+* class [EMC](../../../aspose.pdf.operators/emc/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(EI) {#visit_52}
+
+Visit/select EI operator.
+
+```csharp
+public void Visit(EI EI)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| EI | EI | End inline image object operator. |
+
+### See Also
+
+* class [EI](../../../aspose.pdf.operators/ei/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(DP) {#visit_53}
+
+Visit/select DP operator.
+
+```csharp
+public void Visit(DP DP)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| DP | DP | Define marked-content point operator (with property list). |
+
+### See Also
+
+* class [DP](../../../aspose.pdf.operators/dp/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(Do) {#visit_54}
+
+Visit/select Do operator.
+
+```csharp
+public void Visit(Do Do)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| Do | Do | Invoke named XObject operator. |
+
+### See Also
+
+* class [Do](../../../aspose.pdf.operators/do/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetDash) {#visit_55}
+
+Visit/select d operator.
+
+```csharp
+public void Visit(SetDash d)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| d | SetDash | Set line dash pattern operator. |
+
+### See Also
+
+* class [SetDash](../../../aspose.pdf.operators/setdash/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetCharWidth) {#visit_56}
+
+Visit/select d0 operator.
+
+```csharp
+public void Visit(SetCharWidth d0)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| d0 | SetCharWidth | Set glyph width in Type 3 font operator. |
+
+### See Also
+
+* class [SetCharWidth](../../../aspose.pdf.operators/setcharwidth/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetCharWidthBoundingBox) {#visit_57}
+
+Visit/select d1 operator.
+
+```csharp
+public void Visit(SetCharWidthBoundingBox d1)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| d1 | SetCharWidthBoundingBox | Set glyph width and bounding box in Type 3 font operator. |
+
+### See Also
+
+* class [SetCharWidthBoundingBox](../../../aspose.pdf.operators/setcharwidthboundingbox/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetColorSpaceStroke) {#visit_58}
+
+Visit/select CS operator.
+
+```csharp
+public void Visit(SetColorSpaceStroke CS)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| CS | SetColorSpaceStroke | Set color space operator (for stroking operations). |
+
+### See Also
+
+* class [SetColorSpaceStroke](../../../aspose.pdf.operators/setcolorspacestroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetColorSpace) {#visit_59}
+
+Visit/select cs operator.
+
+```csharp
+public void Visit(SetColorSpace cs)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| cs | SetColorSpace | Set color space operator (for nonstroking operations). |
+
+### See Also
+
+* class [SetColorSpace](../../../aspose.pdf.operators/setcolorspace/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(ConcatenateMatrix) {#visit_60}
+
+Visit/select cm operator.
+
+```csharp
+public void Visit(ConcatenateMatrix cm)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| cm | ConcatenateMatrix | Concatenate matrix to current transformation matrix operator. |
+
+### See Also
+
+* class [ConcatenateMatrix](../../../aspose.pdf.operators/concatenatematrix/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(CurveTo) {#visit_61}
+
+Visit/select c operator.
+
+```csharp
+public void Visit(CurveTo c)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| c | CurveTo | Append curved segment to path operator (three control points). |
+
+### See Also
+
+* class [CurveTo](../../../aspose.pdf.operators/curveto/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(BX) {#visit_62}
+
+Visit/select BX operator.
+
+```csharp
+public void Visit(BX BX)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| BX | BX | Begin compatibility section operator. |
+
+### See Also
+
+* class [BX](../../../aspose.pdf.operators/bx/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(BT) {#visit_63}
+
+Visit/select BT operator.
+
+```csharp
+public void Visit(BT BT)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| BT | BT | Begin text object operator. |
+
+### See Also
+
+* class [BT](../../../aspose.pdf.operators/bt/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(BMC) {#visit_64}
+
+Visit/select BMC operator.
+
+```csharp
+public void Visit(BMC BMC)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| BMC | BMC | Begin marked-content sequence operator. |
+
+### See Also
+
+* class [BMC](../../../aspose.pdf.operators/bmc/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(BI) {#visit_65}
+
+Visit/select BI operator.
+
+```csharp
+public void Visit(BI BI)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| BI | BI | Begin inline image object operator. |
+
+### See Also
+
+* class [BI](../../../aspose.pdf.operators/bi/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(BDC) {#visit_66}
+
+Visit/select BDC operator.
+
+```csharp
+public void Visit(BDC BDC)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| BDC | BDC | Begin marked-content sequence operator (with property list). |
+
+### See Also
+
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(FillStroke) {#visit_67}
+
+Visit/select B operator.
+
+```csharp
+public void Visit(FillStroke B)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| B | FillStroke | Fill and stroke path operator (nonzero winding number rule). |
+
+### See Also
+
+* class [FillStroke](../../../aspose.pdf.operators/fillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(ClosePathFillStroke) {#visit_68}
+
+Visit/select b operator.
+
+```csharp
+public void Visit(ClosePathFillStroke b)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| b | ClosePathFillStroke | Close, fill, and stroke path operator (nonzero winding number rule). |
+
+### See Also
+
+* class [ClosePathFillStroke](../../../aspose.pdf.operators/closepathfillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(EOFillStroke) {#visit_69}
+
+Visit/select B* operator.
+
+```csharp
+public void Visit(EOFillStroke B_)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| B_ | EOFillStroke | Fill and stroke path operator (even-odd rule). |
+
+### See Also
+
+* class [EOFillStroke](../../../aspose.pdf.operators/eofillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(ClosePathEOFillStroke) {#visit_70}
+
+Visit/select b* operator.
+
+```csharp
+public void Visit(ClosePathEOFillStroke b_)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| b_ | ClosePathEOFillStroke | Close, fill, and stroke path operator (even-odd rule). |
+
+### See Also
+
+* class [ClosePathEOFillStroke](../../../aspose.pdf.operators/closepatheofillstroke/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(MoveToNextLineShowText) {#visit_71}
+
+Visit/select ' operator.
+
+```csharp
+public void Visit(MoveToNextLineShowText _)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| _ | MoveToNextLineShowText | Move to next line and show text operator. |
+
+### See Also
+
+* class [MoveToNextLineShowText](../../../aspose.pdf.operators/movetonextlineshowtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(SetSpacingMoveToNextLineShowText) {#visit_72}
+
+Visit/select '' operator.
+
+```csharp
+public void Visit(SetSpacingMoveToNextLineShowText __)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| __ | SetSpacingMoveToNextLineShowText | Set word and character spacing, move to next line, and show text operator. |
+
+### See Also
+
+* class [SetSpacingMoveToNextLineShowText](../../../aspose.pdf.operators/setspacingmovetonextlineshowtext/)
+* interface [IOperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(TextOperator) {#visit_73}
 
 Visit/select any text operator operator.
 

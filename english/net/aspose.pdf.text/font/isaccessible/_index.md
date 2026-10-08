@@ -7,17 +7,19 @@ description: "Font property. Gets indicating whether the font is present (instal
 type: docs
 weight: 90
 url: "/net/aspose.pdf.text/font/isaccessible/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Font.IsAccessible property
 
 Gets indicating whether the font is present (installed) in the system.
 
-Some operations are not available with fonts that could not be found in the system.
-
 ```csharp
 public bool IsAccessible { get; }
 ```
+
+## Remarks
+
+Some operations are not available with fonts that could not be found in the system.
 
 ## Examples
 

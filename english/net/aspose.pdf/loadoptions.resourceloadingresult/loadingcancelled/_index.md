@@ -7,7 +7,7 @@ description: "ResourceLoadingResult field. Sometimes for some reasons loading sh
 type: docs
 weight: 60
 url: "/net/aspose.pdf/loadoptions.resourceloadingresult/loadingcancelled/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LoadOptions.ResourceLoadingResult.LoadingCancelled field
 
@@ -21,7 +21,7 @@ public bool LoadingCancelled;
 
 ### See Also
 
-* class [LoadOptions.ResourceLoadingResult](../)
+* class [ResourceLoadingResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

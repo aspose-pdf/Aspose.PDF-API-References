@@ -7,7 +7,7 @@ description: "EncryptionParameters property. Gets the handler or encryption algo
 type: docs
 weight: 70
 url: "/net/aspose.pdf.security/encryptionparameters/version/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EncryptionParameters.Version property
 

@@ -7,7 +7,7 @@ description: "TextStamp property. Defines text justification. If this property i
 type: docs
 weight: 80
 url: "/net/aspose.pdf/textstamp/justify/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStamp.Justify property
 

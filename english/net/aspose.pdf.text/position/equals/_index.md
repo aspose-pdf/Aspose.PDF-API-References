@@ -7,11 +7,11 @@ description: "Position method. Determines whether the specified object is equal 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/position/equals/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Position.Equals method
 
-Determines whether the specified object is equal to the current [`Position`](../../../aspose.pdf.text/position/) object.
+Determines whether the specified object is equal to the current [`Position`](../) object.
 
 ```csharp
 public override bool Equals(object obj)

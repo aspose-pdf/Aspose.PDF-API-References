@@ -7,7 +7,7 @@ description: "Timestamp method. Releases resources used by the plugin."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/timestamp/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Timestamp.Dispose method
 

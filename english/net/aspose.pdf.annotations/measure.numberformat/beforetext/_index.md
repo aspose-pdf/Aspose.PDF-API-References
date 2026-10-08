@@ -7,7 +7,7 @@ description: "NumberFormat property. Text that shall be concatenated to the left
 type: docs
 weight: 100
 url: "/net/aspose.pdf.annotations/measure.numberformat/beforetext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.NumberFormat.BeforeText property
 
@@ -19,7 +19,7 @@ public string BeforeText { get; set; }
 
 ### See Also
 
-* class [Measure.NumberFormat](../)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

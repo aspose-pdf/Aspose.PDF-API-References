@@ -8,7 +8,7 @@ type: docs
 weight: 2360
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy/"
 keywords: "PdfASymbolicFontEncodingStrategy, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfASymbolicFontEncodingStrategy class
 
@@ -38,21 +38,21 @@ This class describes rules which can be used to tune process of copying encoding
  So, for example if first subtabe has glyph index 100 for unicode 100, and next subtable has glyph
  index 200 for the same unicode 100, only data from first subtable (unicode=100, glyph index = 100) will be copied. 
  So each previous subtable takes precedence over the next. 
- Properties of this class [`PdfASymbolicFontEncodingStrategy`](../../aspose.pdf/pdfasymbolicfontencodingstrategy/) help tune default behaviour. 
- If property `PreferredCmapEncodingTable` of type `CMapEncodingTableType`
+ Properties of this class [`PdfASymbolicFontEncodingStrategy`](../pdfasymbolicfontencodingstrategy/) help tune default behaviour. 
+ If property [`PreferredCmapEncodingTable`](./preferredcmapencodingtable/) of type [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
  is set, then relevant subtable will be used in precedence to mac subtable(1,0). Value 'MacTable' from
- enumeration `CMapEncodingTableType` has no sense in this case, cause it 
+ enumeration [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) has no sense in this case, cause it 
  points on the same mac subtable (1,0) which will be used by default. 
- Property `CmapEncodingTablesPriorityQueue` discards all priorities for any subtable.
+ Property [`CmapEncodingTablesPriorityQueue`](./cmapencodingtablespriorityqueue/) discards all priorities for any subtable.
  If this property is set, then only subtables from declared queue will be used in specified order.
  If subtables specified are not found then default iteration of all subtables and copy strategy described above
  will be used.
- Object `QueueItem` specifies encoding subtable used. This subtable can be set
- via combination of members(PlatformID, PlatformSpecificId) or via `CMapEncodingTableType`
+ Object [`QueueItem`](../pdfasymbolicfontencodingstrategy.queueitem/) specifies encoding subtable used. This subtable can be set
+ via combination of members(PlatformID, PlatformSpecificId) or via [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
  enumeration.
  In case when the font has no (3,0) subtable some other subtable will be used to maintain the PDF/A compatibility.
  The choice of the subtable to use is made under the same rules as described earlier, so that
- `PreferredCmapEncodingTable` and `CmapEncodingTablesPriorityQueue` properties
+ [`PreferredCmapEncodingTable`](./preferredcmapencodingtable/) and [`CmapEncodingTablesPriorityQueue`](./cmapencodingtablespriorityqueue/) properties
  are used to determine the resultant subtable, and if the font doesn't have the requested subtable(s) either
  then any existant subtable will be used.
 
@@ -64,22 +64,22 @@ public class PdfASymbolicFontEncodingStrategy
 
 | Name | Description |
 | --- | --- |
-| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/#constructor)() | Constructor. Sets default subtable (mac 1,0) |
-| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/#constructor_1)(CMapEncodingTableType) | Constructor |
-| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/#constructor_2)(Queue<QueueItem>) | Constructor |
+| [PdfASymbolicFontEncodingStrategy](pdfasymbolicfontencodingstrategy/#constructor)() | Constructor. Sets default subtable (mac 1,0) |
+| [PdfASymbolicFontEncodingStrategy](pdfasymbolicfontencodingstrategy/#constructor_1)(Queue&lt;QueueItem&gt;) | Constructor |
+| [PdfASymbolicFontEncodingStrategy](pdfasymbolicfontencodingstrategy/#constructor_2)(CMapEncodingTableType) | Constructor |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [CmapEncodingTablesPriorityQueue](./cmapencodingtablespriorityqueue/) { get; set; } | Specifies queue of encoding subtables to process. |
-| [PreferredCmapEncodingTable](./preferredcmapencodingtable/) { get; set; } | Specifies subtable which will be used in precedence to mac subtable(1,0). Value 'MacTable' from enumeration `CMapEncodingTableType` has no sense in this case. |
+| [CmapEncodingTablesPriorityQueue](../../aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/) { get; set; } | Specifies queue of encoding subtables to process. |
+| [PreferredCmapEncodingTable](../../aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/) { get; set; } | Specifies subtable which will be used in precedence to mac subtable(1,0). Value 'MacTable' from enumeration [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) has no sense in this case. |
 
 ## Other Members
 
 | Name | Description |
 | --- | --- |
-| class [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem) | Specifies encoding subtable. Each encoding subtable has unique combination of parameters (PlatformID, PlatformSpecificId). Enumeration `CMapEncodingTableType` and property `CMapEncodingTable` were implemented to make easier set of encoding subtable needed. |
+| class [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem) | Specifies encoding subtable. Each encoding subtable has unique combination of parameters (PlatformID, PlatformSpecificId). Enumeration [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) and property [`CMapEncodingTable`](../pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable/) were implemented to make easier set of encoding subtable needed. |
 
 ### See Also
 

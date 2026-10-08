@@ -7,7 +7,7 @@ description: "Bookmark property. Gets or sets the italic flag of bookmark's titl
 type: docs
 weight: 70
 url: "/net/aspose.pdf.facades/bookmark/italicflag/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Bookmark.ItalicFlag property
 

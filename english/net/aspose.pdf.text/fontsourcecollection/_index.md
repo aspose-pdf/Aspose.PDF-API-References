@@ -8,7 +8,7 @@ type: docs
 weight: 170
 url: "/net/aspose.pdf.text/fontsourcecollection/"
 keywords: "FontSourceCollection, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontSourceCollection class
 
@@ -22,25 +22,26 @@ public sealed class FontSourceCollection : ICollection<FontSource>
 
 | Name | Description |
 | --- | --- |
-| [Count](./count/) { get; } | Gets the number of [`Font`](../../aspose.pdf.text/font/) object elements actually contained in the collection. |
-| [IsSynchronized](./issynchronized/) { get; } | Gets a value indicating whether access to the collection is synchronized (thread safe). |
-| [Item](./item/) { get; } | Gets the font element at the specified index. |
-| [SyncRoot](./syncroot/) { get; } | Gets an object that can be used to synchronize access to the collection. |
+| [Count](../../aspose.pdf.text/fontsourcecollection/count/) { get; } | Gets the number of [`Font`](../font/) object elements actually contained in the collection. |
+| [IsSynchronized](../../aspose.pdf.text/fontsourcecollection/issynchronized/) { get; } | Gets a value indicating whether access to the collection is synchronized (thread safe). |
+| [Item](../../aspose.pdf.text/fontsourcecollection/item/) { get; } | Gets the font element at the specified index. |
+| [SyncRoot](../../aspose.pdf.text/fontsourcecollection/syncroot/) { get; } | Gets an object that can be used to synchronize access to the collection. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(FontSource) | Adds new font source object to the collection. |
-| [Clear](./clear/)() | Clears the font source collection. |
-| [Contains](./contains/)(FontSource) | Determines whether an element is in the collection. |
-| [CopyTo](./copyto/)(FontSource[], int) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array |
-| [Delete](./delete/)(FontSource) | Deletes the font source element. |
-| [GetEnumerator](./getenumerator/)() | Returns an enumerator for the entire collection. |
-| [Remove](./remove/)(FontSource) | Deletes the font source element. |
+| [Add](../../aspose.pdf.text/fontsourcecollection/add/)(FontSource) | Adds new font source object to the collection. |
+| [Clear](../../aspose.pdf.text/fontsourcecollection/clear/)() | Clears the font source collection. |
+| [Contains](../../aspose.pdf.text/fontsourcecollection/contains/)(FontSource) | Determines whether an element is in the collection. |
+| [CopyTo](../../aspose.pdf.text/fontsourcecollection/copyto/)(FontSource[], int) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array |
+| [Delete](../../aspose.pdf.text/fontsourcecollection/delete/)(FontSource) | Deletes the font source element. |
+| [GetEnumerator](../../aspose.pdf.text/fontsourcecollection/getenumerator/)() | Returns an enumerator for the entire collection. |
+| [Remove](../../aspose.pdf.text/fontsourcecollection/remove/)(FontSource) | Deletes the font source element. |
 
 ### See Also
 
+* class [FontSource](../fontsource/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
 

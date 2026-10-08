@@ -7,7 +7,7 @@ description: "BaseResponse property. Gets or sets the response detail."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/baseresponse/detail/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseResponse.Detail property
 

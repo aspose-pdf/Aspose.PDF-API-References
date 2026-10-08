@@ -7,7 +7,7 @@ description: "Form property. Returns true if object is thread-safe."
 type: docs
 weight: 210
 url: "/net/aspose.pdf.forms/form/issynchronized/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.IsSynchronized property
 

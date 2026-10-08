@@ -7,7 +7,7 @@ description: "Clip method. Returns text representation of operators."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/clip/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Clip.ToString method
 

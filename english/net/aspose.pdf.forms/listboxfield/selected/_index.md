@@ -7,7 +7,7 @@ description: "ListBoxField property. Gets or sets index of the selected item. It
 type: docs
 weight: 50
 url: "/net/aspose.pdf.forms/listboxfield/selected/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ListBoxField.Selected property
 

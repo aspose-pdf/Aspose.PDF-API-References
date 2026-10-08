@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Replaces the specified image on the speci
 type: docs
 weight: 440
 url: "/net/aspose.pdf.facades/pdfcontenteditor/replaceimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.ReplaceImage method
 

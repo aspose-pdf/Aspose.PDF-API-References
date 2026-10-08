@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Removes all signatures."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/pdffilesignature/removesignatures/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.RemoveSignatures method
 

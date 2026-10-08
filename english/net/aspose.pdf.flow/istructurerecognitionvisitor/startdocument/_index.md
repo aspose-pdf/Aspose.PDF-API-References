@@ -7,7 +7,7 @@ description: "IStructureRecognitionVisitor method. Called when the document trav
 type: docs
 weight: 10
 url: "/net/aspose.pdf.flow/istructurerecognitionvisitor/startdocument/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IStructureRecognitionVisitor.StartDocument method
 

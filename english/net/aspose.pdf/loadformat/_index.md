@@ -7,7 +7,7 @@ description: "Aspose.Pdf.LoadFormat enum. Specifies load format."
 type: docs
 weight: 1740
 url: "/net/aspose.pdf/loadformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LoadFormat enumeration
 

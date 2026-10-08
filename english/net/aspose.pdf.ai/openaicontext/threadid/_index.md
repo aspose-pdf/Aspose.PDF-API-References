@@ -7,7 +7,7 @@ description: "OpenAIContext property. Gets or sets the Thread ID."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/openaicontext/threadid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIContext.ThreadId property
 

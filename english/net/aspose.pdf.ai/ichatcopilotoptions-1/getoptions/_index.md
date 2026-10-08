@@ -7,7 +7,7 @@ description: "IChatCopilotOptions method. Gets the options of type TOptions."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/ichatcopilotoptions-1/getoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IChatCopilotOptions<TOptions>.GetOptions method
 
@@ -23,7 +23,7 @@ The options of type *TOptions*.
 
 ### See Also
 
-* interface [IChatCopilotOptions<TOptions>](../)
+* interface [IChatCopilotOptions&lt;TOptions&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

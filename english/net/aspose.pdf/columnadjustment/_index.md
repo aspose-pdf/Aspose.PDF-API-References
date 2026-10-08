@@ -7,7 +7,7 @@ description: "Aspose.Pdf.ColumnAdjustment enum. Enumerates column adjustment typ
 type: docs
 weight: 400
 url: "/net/aspose.pdf/columnadjustment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ColumnAdjustment enumeration
 

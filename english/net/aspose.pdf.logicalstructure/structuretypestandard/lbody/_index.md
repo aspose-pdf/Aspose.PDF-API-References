@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (List body) The descriptive content o
 type: docs
 weight: 280
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/lbody/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.LBody field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard LBody;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,11 +7,11 @@ description: "TextFragmentState property. Gets or sets subscript of the text, re
 type: docs
 weight: 110
 url: "/net/aspose.pdf.text/textfragmentstate/subscript/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentState.Subscript property
 
-Gets or sets subscript of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object.
+Gets or sets subscript of the text, represented by the [`TextFragment`](../../textfragment/) object.
 
 ```csharp
 public override bool Subscript { get; set; }

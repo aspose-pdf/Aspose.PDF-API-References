@@ -7,7 +7,7 @@ description: "BasicSetColorOperator property. Gets black component of gray color
 type: docs
 weight: 80
 url: "/net/aspose.pdf.operators/basicsetcoloroperator/gray/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BasicSetColorOperator.Gray property
 

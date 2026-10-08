@@ -7,7 +7,7 @@ description: "TextProperties property. Gets or sets text color."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.facades/textproperties/color/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextProperties.Color property
 
@@ -19,7 +19,6 @@ public Color Color { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
 * class [TextProperties](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

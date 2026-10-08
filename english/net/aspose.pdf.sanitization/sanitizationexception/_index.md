@@ -8,7 +8,7 @@ type: docs
 weight: 20
 url: "/net/aspose.pdf.sanitization/sanitizationexception/"
 keywords: "SanitizationException, Aspose.Pdf.Sanitization, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SanitizationException class
 
@@ -22,16 +22,10 @@ public sealed class SanitizationException : PdfException
 
 | Name | Description |
 | --- | --- |
-| [SanitizationException](./sanitizationexception/#constructor)() | Initializes a new instance of the [`SanitizationException`](../../aspose.pdf.sanitization/sanitizationexception/) class. |
-| [SanitizationException](./sanitizationexception/#constructor_1)(Exception) | Initializes a new instance of the [`SanitizationException`](../../aspose.pdf.sanitization/sanitizationexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
-| [SanitizationException](./sanitizationexception/#constructor_2)(string) | Initializes a new instance of the [`SanitizationException`](../../aspose.pdf.sanitization/sanitizationexception/) class. |
-| [SanitizationException](./sanitizationexception/#constructor_3)(string, Exception) | Initializes a new instance of the [`SanitizationException`](../../aspose.pdf.sanitization/sanitizationexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crash report based on Exception HTML format |
+| [SanitizationException](sanitizationexception/#constructor)() | Initializes a new instance of the `SanitizationException` class. |
+| [SanitizationException](sanitizationexception/#constructor_1)(string) | Initializes a new instance of the `SanitizationException` class. |
+| [SanitizationException](sanitizationexception/#constructor_2)(string, Exception) | Initializes a new instance of the `SanitizationException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [SanitizationException](sanitizationexception/#constructor_3)(Exception) | Initializes a new instance of the `SanitizationException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 
 ### See Also
 

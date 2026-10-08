@@ -7,7 +7,7 @@ description: "PageSize property. Legal size (356x216 mm)."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/pagesize/pagelegal/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageSize.PageLegal property
 
@@ -19,7 +19,7 @@ public static PageSize PageLegal { get; }
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

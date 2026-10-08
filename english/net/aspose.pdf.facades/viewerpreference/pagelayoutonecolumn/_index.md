@@ -7,7 +7,7 @@ description: "ViewerPreference field. Display the pages in one column."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/viewerpreference/pagelayoutonecolumn/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ViewerPreference.PageLayoutOneColumn field
 

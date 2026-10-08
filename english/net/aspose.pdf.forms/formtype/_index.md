@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Forms.FormType enum. Enumeration of posible types of Ac
 type: docs
 weight: 170
 url: "/net/aspose.pdf.forms/formtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormType enumeration
 

@@ -7,7 +7,7 @@ description: "ExpiresAfter property. Gets or sets the anchor timestamp after whi
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/expiresafter/anchor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExpiresAfter.Anchor property
 

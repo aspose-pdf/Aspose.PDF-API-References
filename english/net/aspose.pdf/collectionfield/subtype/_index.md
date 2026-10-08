@@ -7,7 +7,7 @@ description: "CollectionField property. Gets the subtype of a field value in a s
 type: docs
 weight: 20
 url: "/net/aspose.pdf/collectionfield/subtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionField.Subtype property
 
@@ -21,7 +21,7 @@ public CollectionFieldSubtype Subtype { get; }
 
 ### See Also
 
-* enum [CollectionFieldSubtype](../../../aspose.pdf/collectionfieldsubtype/)
+* enum [CollectionFieldSubtype](../../collectionfieldsubtype/)
 * class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

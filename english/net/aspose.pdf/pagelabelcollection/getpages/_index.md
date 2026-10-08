@@ -7,7 +7,7 @@ description: "PageLabelCollection method. Gets page indexes in collection."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/pagelabelcollection/getpages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageLabelCollection.GetPages method
 

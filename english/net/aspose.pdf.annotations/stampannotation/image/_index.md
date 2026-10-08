@@ -7,7 +7,7 @@ description: "StampAnnotation property. Gets or sets image of the annotation."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/stampannotation/image/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StampAnnotation.Image property
 

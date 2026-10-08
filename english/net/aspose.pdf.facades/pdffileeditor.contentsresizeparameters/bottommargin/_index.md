@@ -7,7 +7,7 @@ description: "ContentsResizeParameters property. Gets or sets bottom margin on t
 type: docs
 weight: 130
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/bottommargin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeParameters.BottomMargin property
 
@@ -19,7 +19,8 @@ public ContentsResizeValue BottomMargin { get; set; }
 
 ### See Also
 
-* class [PdfFileEditor.ContentsResizeParameters](../)
+* class [ContentsResizeValue](../../pdffileeditor.contentsresizevalue/)
+* class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

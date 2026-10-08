@@ -7,7 +7,7 @@ description: "ChunkingOptions field. The default maximum chunk size in tokens."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/chunkingoptions/defaultmaxchunksize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChunkingOptions.DefaultMaxChunkSize field
 

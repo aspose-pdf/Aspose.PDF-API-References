@@ -7,7 +7,7 @@ description: "ViewerPreference field. Display one page at a time."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/viewerpreference/pagelayoutsinglepage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ViewerPreference.PageLayoutSinglePage field
 

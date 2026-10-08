@@ -7,7 +7,7 @@ description: "ListDataResponse property. Gets or sets a value indicating whether
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/listdataresponse-1/hasmore/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ListDataResponse<T>.HasMore property
 
@@ -19,7 +19,7 @@ public bool HasMore { get; set; }
 
 ### See Also
 
-* class [ListDataResponse<T>](../)
+* class [ListDataResponse&lt;T&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "TextEditOptions property. Gets or sets font used for replacing if 
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/texteditoptions/replacementfont/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextEditOptions.ReplacementFont property
 
@@ -19,7 +19,7 @@ public Font ReplacementFont { get; set; }
 
 ### See Also
 
-* class [Font](../../../aspose.pdf.text/font/)
+* class [Font](../../font/)
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

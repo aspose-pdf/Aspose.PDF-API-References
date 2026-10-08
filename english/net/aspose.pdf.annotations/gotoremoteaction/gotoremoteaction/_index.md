@@ -7,31 +7,9 @@ description: "GoToRemoteAction constructor. Initializes GoToRemoteAction object.
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/gotoremoteaction/gotoremoteaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## GoToRemoteAction(string, [ExplicitDestination](../../../aspose.pdf.annotations/explicitdestination/)) {#constructor}
-
-Initializes GoToRemoteAction object.
-
-```csharp
-public GoToRemoteAction(string remotePdf, ExplicitDestination destination)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| remotePdf | String | Destination PDF document. |
-| destination | ExplicitDestination | Destination in the PDF document. |
-
-### See Also
-
-* class [ExplicitDestination](../../../aspose.pdf.annotations/explicitdestination/)
-* class [GoToRemoteAction](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## GoToRemoteAction(string, int) {#constructor_1}
+## GoToRemoteAction(string, int) {#constructor}
 
 Initializes GoToRemoteAction object.
 
@@ -46,6 +24,28 @@ public GoToRemoteAction(string remotePdf, int remotePageNumber)
 
 ### See Also
 
+* class [GoToRemoteAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## GoToRemoteAction(string, ExplicitDestination) {#constructor_1}
+
+Initializes GoToRemoteAction object.
+
+```csharp
+public GoToRemoteAction(string remotePdf, ExplicitDestination destination)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| remotePdf | String | Destination PDF document. |
+| destination | ExplicitDestination | Destination in the PDF document. |
+
+### See Also
+
+* class [ExplicitDestination](../../explicitdestination/)
 * class [GoToRemoteAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

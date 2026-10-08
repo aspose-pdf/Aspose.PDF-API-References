@@ -7,7 +7,7 @@ description: "FontSubstitutionCollection method. Copies the entire collection to
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontSubstitutionCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public void CopyTo(FontSubstitution[] array, int index)
 
 ### See Also
 
-* class [FontSubstitution](../../../aspose.pdf.text/fontsubstitution/)
+* class [FontSubstitution](../../fontsubstitution/)
 * class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

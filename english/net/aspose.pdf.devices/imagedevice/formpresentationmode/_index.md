@@ -7,7 +7,7 @@ description: "ImageDevice property. Gets or sets form presentation mode."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.devices/imagedevice/formpresentationmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageDevice.FormPresentationMode property
 
@@ -19,7 +19,7 @@ public FormPresentationMode FormPresentationMode { get; set; }
 
 ### See Also
 
-* enum [FormPresentationMode](../../../aspose.pdf.devices/formpresentationmode/)
+* enum [FormPresentationMode](../../formpresentationmode/)
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

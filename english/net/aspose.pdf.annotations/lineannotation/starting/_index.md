@@ -7,7 +7,7 @@ description: "LineAnnotation property. Gets or sets starting point of line."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/lineannotation/starting/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineAnnotation.Starting property
 

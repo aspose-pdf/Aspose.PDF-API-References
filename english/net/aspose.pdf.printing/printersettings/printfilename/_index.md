@@ -7,7 +7,7 @@ description: "PrinterSettings property. Indicates the name of the printerfile."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.printing/printersettings/printfilename/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterSettings.PrintFileName property
 

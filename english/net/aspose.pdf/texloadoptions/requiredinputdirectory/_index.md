@@ -7,7 +7,7 @@ description: "TeXLoadOptions property. Gets/sets TeX requires input directory. R
 type: docs
 weight: 60
 url: "/net/aspose.pdf/texloadoptions/requiredinputdirectory/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXLoadOptions.RequiredInputDirectory property
 
@@ -21,7 +21,7 @@ public ITeXInputDirectory RequiredInputDirectory { get; set; }
 
 ### See Also
 
-* interface [ITeXInputDirectory](../../../aspose.pdf/itexinputdirectory/)
+* interface [ITeXInputDirectory](../../itexinputdirectory/)
 * class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

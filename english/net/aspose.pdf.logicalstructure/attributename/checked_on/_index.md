@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute checked: On - The state of a radio 
 type: docs
 weight: 650
 url: "/net/aspose.pdf.logicalstructure/attributename/checked_on/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.Checked_on field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName Checked_on;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

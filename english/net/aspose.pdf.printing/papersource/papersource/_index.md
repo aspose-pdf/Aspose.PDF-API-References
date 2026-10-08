@@ -7,11 +7,11 @@ description: "PaperSource constructor. Initializes a new instance of the PaperSo
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/papersource/papersource/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSource() {#constructor}
 
-Initializes a new instance of the [`PaperSource`](../../../aspose.pdf.printing/papersource/) class with default properties.
+Initializes a new instance of the [`PaperSource`](../) class with default properties.
 
 ```csharp
 public PaperSource()
@@ -25,9 +25,9 @@ public PaperSource()
 
 ---
 
-## PaperSource([PaperSourceKind](../../../aspose.pdf.printing/papersourcekind/), string) {#constructor_1}
+## PaperSource(PaperSourceKind, string) {#constructor_1}
 
-Initializes a new instance of the [`PaperSource`](../../../aspose.pdf.printing/papersource/) class with the specified kind and name.
+Initializes a new instance of the [`PaperSource`](../) class with the specified kind and name.
 
 ```csharp
 public PaperSource(PaperSourceKind kind, string name)
@@ -40,7 +40,7 @@ public PaperSource(PaperSourceKind kind, string name)
 
 ### See Also
 
-* enum [PaperSourceKind](../../../aspose.pdf.printing/papersourcekind/)
+* enum [PaperSourceKind](../../papersourcekind/)
 * class [PaperSource](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

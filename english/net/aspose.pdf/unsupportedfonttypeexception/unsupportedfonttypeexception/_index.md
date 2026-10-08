@@ -7,31 +7,11 @@ description: "UnsupportedFontTypeException constructor. Initializes a new instan
 type: docs
 weight: 10
 url: "/net/aspose.pdf/unsupportedfonttypeexception/unsupportedfonttypeexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## UnsupportedFontTypeException(Exception) {#constructor}
+## UnsupportedFontTypeException(string) {#constructor}
 
-Initializes a new instance of the [`UnsupportedFontTypeException`](../../../aspose.pdf/unsupportedfonttypeexception/) class with a reference to the inner exception that is the cause of this exception.
-
-```csharp
-public UnsupportedFontTypeException(Exception innerException)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
-
-### See Also
-
-* class [UnsupportedFontTypeException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## UnsupportedFontTypeException(string) {#constructor_1}
-
-Initializes a new instance of the [`UnsupportedFontTypeException`](../../../aspose.pdf/unsupportedfonttypeexception/) class.
+Initializes a new instance of the [`UnsupportedFontTypeException`](../) class.
 
 ```csharp
 public UnsupportedFontTypeException(string message)
@@ -49,9 +29,9 @@ public UnsupportedFontTypeException(string message)
 
 ---
 
-## UnsupportedFontTypeException(string, Exception) {#constructor_2}
+## UnsupportedFontTypeException(string, Exception) {#constructor_1}
 
-Initializes a new instance of the [`UnsupportedFontTypeException`](../../../aspose.pdf/unsupportedfonttypeexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [`UnsupportedFontTypeException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
 ```csharp
 public UnsupportedFontTypeException(string message, Exception innerException)
@@ -60,6 +40,26 @@ public UnsupportedFontTypeException(string message, Exception innerException)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | message | String | The error message that explains the reason for the exception. |
+| innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
+
+### See Also
+
+* class [UnsupportedFontTypeException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## UnsupportedFontTypeException(Exception) {#constructor_2}
+
+Initializes a new instance of the [`UnsupportedFontTypeException`](../) class with a reference to the inner exception that is the cause of this exception.
+
+```csharp
+public UnsupportedFontTypeException(Exception innerException)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
 | innerException | Exception | The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified. |
 
 ### See Also

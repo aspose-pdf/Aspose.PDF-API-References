@@ -7,7 +7,7 @@ description: "SetCharWidthBoundingBox property. Upper-right vertical coordinate 
 type: docs
 weight: 90
 url: "/net/aspose.pdf.operators/setcharwidthboundingbox/ury/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCharWidthBoundingBox.Ury property
 

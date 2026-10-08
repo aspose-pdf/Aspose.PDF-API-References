@@ -7,11 +7,11 @@ description: "Security method. Starts the Security processing with the specified
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/security/process/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Security.Process method
 
-Starts the [`Security`](../../../aspose.pdf.lowcode/security/) processing with the specified parameters.
+Starts the [`Security`](../) processing with the specified parameters.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -19,7 +19,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | IPluginOptions | An options object containg instructions for the <see cref="T:Aspose.Pdf.LowCode.Security" />. |
+| options | IPluginOptions | An options object containg instructions for the `Security`. |
 
 ### Return Value
 
@@ -33,8 +33,8 @@ A ResultContainer object containg the result of the operation.
 
 ### See Also
 
-* class [ResultContainer](../../../aspose.pdf.lowcode/resultcontainer/)
-* interface [IPluginOptions](../../../aspose.pdf.lowcode/ipluginoptions/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
 * class [Security](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

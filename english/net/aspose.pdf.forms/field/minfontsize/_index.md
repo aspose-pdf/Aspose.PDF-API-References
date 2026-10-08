@@ -7,7 +7,7 @@ description: "Field property. Minimal font size which can be used for field cont
 type: docs
 weight: 270
 url: "/net/aspose.pdf.forms/field/minfontsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Field.MinFontSize property
 

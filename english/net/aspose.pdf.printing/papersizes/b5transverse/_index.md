@@ -7,7 +7,7 @@ description: "PaperSizes field. JIS B5 transverse paper (182 mm by 257 mm)."
 type: docs
 weight: 600
 url: "/net/aspose.pdf.printing/papersizes/b5transverse/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.B5Transverse field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize B5Transverse;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "LlamaChatCompletionRequest property. Sets or gets whether to strea
 type: docs
 weight: 100
 url: "/net/aspose.pdf.ai/llamachatcompletionrequest/stream/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaChatCompletionRequest.Stream property
 

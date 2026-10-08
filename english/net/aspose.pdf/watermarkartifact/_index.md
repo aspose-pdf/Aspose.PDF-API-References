@@ -8,7 +8,7 @@ type: docs
 weight: 3130
 url: "/net/aspose.pdf/watermarkartifact/"
 keywords: "WatermarkArtifact, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WatermarkArtifact class
 
@@ -22,7 +22,7 @@ public class WatermarkArtifact : Artifact
 
 | Name | Description |
 | --- | --- |
-| [WatermarkArtifact](./watermarkartifact/)() | Creates instance of Watermark artifact. |
+| [WatermarkArtifact](watermarkartifact/)() | Creates instance of Watermark artifact. |
 
 ## Properties
 
@@ -60,6 +60,7 @@ public class WatermarkArtifact : Artifact
 | [RemoveValue](../../aspose.pdf/artifact/removevalue/)(string) | Remove custom value from the artifact. |
 | [SaveUpdates](../../aspose.pdf/artifact/saveupdates/)() | Saves all updates in artifact which were made after BeginUpdates() call. |
 | [SetImage](../../aspose.pdf/artifact/setimage/)(Stream) | Sets image of the artifact. |
+| [SetImage](../../aspose.pdf/artifact/setimage/)(string) | Sets image of the artifact. |
 | [SetLinesAndState](../../aspose.pdf/artifact/setlinesandstate/)(string[], TextState) | Set text and text properties of the artifact. Allows to specify multiple lines. |
 | [SetPageNumberReplacementString](../../aspose.pdf/artifact/setpagenumberreplacementstring/)(string) | Sets what string will be replaced with the page number. The default value is #. |
 | [SetPdfPage](../../aspose.pdf/artifact/setpdfpage/)(Page) | Sets PDF page which is placed on the document page as artifact. |

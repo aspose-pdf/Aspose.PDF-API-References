@@ -7,7 +7,7 @@ description: "Field property. Property for Generator support. Used when field is
 type: docs
 weight: 240
 url: "/net/aspose.pdf.forms/field/issharedfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Field.IsSharedField property
 

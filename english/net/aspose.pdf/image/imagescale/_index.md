@@ -7,7 +7,7 @@ description: "Image property. Gets or sets the image scale."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/image/imagescale/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Image.ImageScale property
 

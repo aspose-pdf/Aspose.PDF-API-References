@@ -8,7 +8,7 @@ type: docs
 weight: 70
 url: "/net/aspose.pdf.devices/documentdevice/"
 keywords: "DocumentDevice, Aspose.Pdf.Devices, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentDevice class
 
@@ -22,10 +22,12 @@ public abstract class DocumentDevice : PageDevice
 
 | Name | Description |
 | --- | --- |
-| [Process](./process/)(Document, Stream) | Processes the whole document and saves results into stream. |
-| [Process](./process/)(Document, string) | Processes the whole document and saves results into file. |
-| abstract [Process](./process/)(Document, int, int, Stream) | Each device represents some operation on the document, e.g. we can convert pdf document into another format. |
-| [Process](./process/)(Document, int, int, string) | Processes certain pages of the document and saves results into file. |
+| abstract [Process](../../aspose.pdf.devices/documentdevice/process/#process)(Document, int, int, Stream) | Each device represents some operation on the document, e.g. we can convert pdf document into another format. |
+| [Process](../../aspose.pdf.devices/documentdevice/process/#process_1)(Document, Stream) | Processes the whole document and saves results into stream. |
+| [Process](../../aspose.pdf.devices/documentdevice/process/#process_2)(Document, string) | Processes the whole document and saves results into file. |
+| [Process](../../aspose.pdf.devices/documentdevice/process/#process_3)(Document, int, int, string) | Processes certain pages of the document and saves results into file. |
+| abstract [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, Stream) | Perfoms some operation on the given page, e.g. converts page into graphic image. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
 
 ### See Also
 

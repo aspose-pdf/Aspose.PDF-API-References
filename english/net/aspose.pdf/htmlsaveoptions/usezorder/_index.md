@@ -7,7 +7,7 @@ description: "HtmlSaveOptions property. If attribute UseZORder set to true, grap
 type: docs
 weight: 190
 url: "/net/aspose.pdf/htmlsaveoptions/usezorder/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.UseZOrder property
 

@@ -7,7 +7,7 @@ description: "TableElement property. Gets or sets the table alignment."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.logicalstructure/tableelement/alignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableElement.Alignment property
 

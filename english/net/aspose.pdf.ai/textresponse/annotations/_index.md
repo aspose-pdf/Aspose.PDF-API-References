@@ -7,7 +7,7 @@ description: "TextResponse property. Gets or sets a list of annotations for the 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/textresponse/annotations/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextResponse.Annotations property
 
@@ -19,6 +19,7 @@ public List<Annotation> Annotations { get; set; }
 
 ### See Also
 
+* class [Annotation](../../annotation/)
 * class [TextResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

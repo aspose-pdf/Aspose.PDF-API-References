@@ -7,7 +7,7 @@ description: "BatesNArtifact property. Gets or sets the prefix to be added to th
 type: docs
 weight: 40
 url: "/net/aspose.pdf/batesnartifact/prefix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BatesNArtifact.Prefix property
 

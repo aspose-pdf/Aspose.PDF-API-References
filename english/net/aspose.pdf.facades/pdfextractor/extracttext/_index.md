@@ -7,7 +7,7 @@ description: "PdfExtractor method. Extracts text from a Pdf document using Unico
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/pdfextractor/extracttext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExtractText() {#extracttext}
 
@@ -19,9 +19,7 @@ public void ExtractText()
 
 ## Examples
 
-First example demonstrates how to extract all the text from PDF file.
- 
- Second example demonstrates how to extract each page's text into one txt file.
+First example demonstrates how to extract all the text from PDF file. Second example demonstrates how to extract each page's text into one txt file.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -52,9 +50,7 @@ public void ExtractText(Encoding encoding)
 
 ## Examples
 
-First example demonstrates how to extract all the text from PDF file.
- 
- Second example demonstrates how to extract each page's text into one txt file.
+First example demonstrates how to extract all the text from PDF file. Second example demonstrates how to extract each page's text into one txt file.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();

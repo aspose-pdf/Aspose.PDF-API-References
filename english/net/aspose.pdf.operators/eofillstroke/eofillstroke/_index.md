@@ -7,7 +7,7 @@ description: "EOFillStroke constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/eofillstroke/eofillstroke/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EOFillStroke constructor
 

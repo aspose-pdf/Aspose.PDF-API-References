@@ -7,7 +7,7 @@ description: "ICustomSecurityHandler property. Gets the handler or encryption al
 type: docs
 weight: 120
 url: "/net/aspose.pdf.security/icustomsecurityhandler/version/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ICustomSecurityHandler.Version property
 

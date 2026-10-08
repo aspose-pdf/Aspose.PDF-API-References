@@ -7,7 +7,7 @@ description: "TextFragmentState method. Measures character height."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/textfragmentstate/measureheight/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentState.MeasureHeight method
 

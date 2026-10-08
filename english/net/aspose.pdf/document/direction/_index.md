@@ -7,7 +7,7 @@ description: "Document property. Gets or sets reading order of text: L2R (left t
 type: docs
 weight: 1370
 url: "/net/aspose.pdf/document/direction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.Direction property
 
@@ -19,7 +19,7 @@ public Direction Direction { get; set; }
 
 ### See Also
 
-* enum [Direction](../../../aspose.pdf/direction/)
+* enum [Direction](../../direction/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

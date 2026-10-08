@@ -7,7 +7,7 @@ description: "Rectangle property. X-coordinate of lower - left corner."
 type: docs
 weight: 230
 url: "/net/aspose.pdf/rectangle/llx/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.LLX property
 

@@ -7,7 +7,7 @@ description: "RegistrationMarkAnnotation property. Gets or sets the position of 
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/registrationmarkannotation/position/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RegistrationMarkAnnotation.Position property
 
@@ -19,7 +19,7 @@ public PrinterMarkSidePosition Position { get; set; }
 
 ### See Also
 
-* enum [PrinterMarkSidePosition](../../../aspose.pdf.annotations/printermarksideposition/)
+* enum [PrinterMarkSidePosition](../../printermarksideposition/)
 * class [RegistrationMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

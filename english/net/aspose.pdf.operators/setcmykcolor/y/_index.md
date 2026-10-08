@@ -7,7 +7,7 @@ description: "SetCMYKColor property. Gets or sets the yellow component."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.operators/setcmykcolor/y/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCMYKColor.Y property
 

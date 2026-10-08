@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates BlockQuoteElement."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.tagged/itaggedcontent/createblockquoteelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateBlockQuoteElement method
 

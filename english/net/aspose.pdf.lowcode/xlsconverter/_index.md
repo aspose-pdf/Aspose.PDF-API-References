@@ -8,11 +8,11 @@ type: docs
 weight: 1060
 url: "/net/aspose.pdf.lowcode/xlsconverter/"
 keywords: "XlsConverter, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XlsConverter class
 
-Represents [`XlsConverter`](../../aspose.pdf.lowcode/xlsconverter/) plugin.
+Represents [`XlsConverter`](../xlsconverter/) plugin.
 
 ```csharp
 public sealed class XlsConverter : IDisposable, IPlugin
@@ -38,17 +38,18 @@ converter.Process(opt);
 
 | Name | Description |
 | --- | --- |
-| [XlsConverter](./xlsconverter/)() | The default constructor. |
+| [XlsConverter](xlsconverter/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](./dispose/)() | Implementation of IDisposable. |
-| [Process](./process/)(IPluginOptions) | Starts the PdfToExcel processing with the specified parameters. |
+| [Dispose](../../aspose.pdf.lowcode/xlsconverter/dispose/)() | Implementation of IDisposable. |
+| [Process](../../aspose.pdf.lowcode/xlsconverter/process/)(IPluginOptions) | Starts the PdfToExcel processing with the specified parameters. |
 
 ### See Also
 
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

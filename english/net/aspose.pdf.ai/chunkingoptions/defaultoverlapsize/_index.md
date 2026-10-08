@@ -7,7 +7,7 @@ description: "ChunkingOptions field. The default overlap size in tokens between 
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/chunkingoptions/defaultoverlapsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChunkingOptions.DefaultOverlapSize field
 

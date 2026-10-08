@@ -7,7 +7,7 @@ description: "TextSearchOptions property. Gets or sets indication that text will
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/textsearchoptions/usefontengineencoding/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSearchOptions.UseFontEngineEncoding property
 

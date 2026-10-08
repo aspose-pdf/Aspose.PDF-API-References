@@ -7,7 +7,7 @@ description: "IOpenAIClient method. Retrieves a list of vector stores asynchrono
 type: docs
 weight: 360
 url: "/net/aspose.pdf.ai/iopenaiclient/getvectorstoresasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOpenAIClient.GetVectorStoresAsync method
 
@@ -30,7 +30,8 @@ A task that represents the asynchronous operation. The task result contains a li
 
 ### See Also
 
-* class [VectorStoreListQueryParameters](../../../aspose.pdf.ai/vectorstorelistqueryparameters/)
+* class [VectorStoreListResponse](../../vectorstorelistresponse/)
+* class [VectorStoreListQueryParameters](../../vectorstorelistqueryparameters/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

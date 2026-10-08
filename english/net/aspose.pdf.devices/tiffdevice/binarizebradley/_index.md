@@ -7,7 +7,7 @@ description: "TiffDevice method. Do Bradley binarization for input stream."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.devices/tiffdevice/binarizebradley/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TiffDevice.BinarizeBradley method
 

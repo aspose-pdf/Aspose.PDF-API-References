@@ -7,7 +7,7 @@ description: "FormEditor method. Closes the facade."
 type: docs
 weight: 350
 url: "/net/aspose.pdf.facades/formeditor/close/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.Close method
 

@@ -7,7 +7,7 @@ description: "CreateChatCompletionChunkResponse property. Gets or sets an option
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/createchatcompletionchunkresponse/usage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateChatCompletionChunkResponse.Usage property
 
@@ -20,7 +20,7 @@ public Usage Usage { get; set; }
 
 ### See Also
 
-* class [Usage](../../../aspose.pdf.ai/usage/)
+* class [Usage](../../usage/)
 * class [CreateChatCompletionChunkResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

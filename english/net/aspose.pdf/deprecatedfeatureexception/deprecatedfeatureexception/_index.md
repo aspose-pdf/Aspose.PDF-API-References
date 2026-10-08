@@ -7,11 +7,11 @@ description: "DeprecatedFeatureException constructor. Initializes a new instance
 type: docs
 weight: 10
 url: "/net/aspose.pdf/deprecatedfeatureexception/deprecatedfeatureexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DeprecatedFeatureException() {#constructor}
 
-Initializes a new instance of the [`DeprecatedFeatureException`](../../../aspose.pdf/deprecatedfeatureexception/) class.
+Initializes a new instance of the [`DeprecatedFeatureException`](../) class.
 
 ```csharp
 public DeprecatedFeatureException()

@@ -8,7 +8,7 @@ type: docs
 weight: 710
 url: "/net/aspose.pdf.operators/setrgbcolor/"
 keywords: "SetRGBColor, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetRGBColor class
 
@@ -22,27 +22,26 @@ public class SetRGBColor : SetColorOperator
 
 | Name | Description |
 | --- | --- |
-| [SetRGBColor](./setrgbcolor/#constructor)(Color) | Initializes operator with color. |
-| [SetRGBColor](./setrgbcolor/#constructor_1)(double, double, double) | Initializes operator. |
+| [SetRGBColor](setrgbcolor/#constructor)(double, double, double) | Initializes operator. |
+| [SetRGBColor](setrgbcolor/#constructor_1)(Color) | Initializes operator with color. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [B](./b/) { get; set; } | Gets or sets the blue component. |
-| [G](./g/) { get; set; } | Gets or sets the green component. |
+| [B](../../aspose.pdf.operators/setrgbcolor/b/) { get; set; } | Gets or sets the blue component. |
+| [G](../../aspose.pdf.operators/setrgbcolor/g/) { get; set; } | Gets or sets the green component. |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [R](./r/) { get; set; } | Gets or sets the red component. |
+| [R](../../aspose.pdf.operators/setrgbcolor/r/) { get; set; } | Gets or sets the red component. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Returns text representation of the operator. |
+| override [Accept](../../aspose.pdf.operators/setrgbcolor/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/setrgbcolor/tostring/)() | Returns text representation of the operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
-| override [getColor](./getcolor/)() | Returns color specified by operator. |
+| override [getColor](../../aspose.pdf.operators/setrgbcolor/getcolor/)() | Returns color specified by operator. |
 
 ### See Also
 

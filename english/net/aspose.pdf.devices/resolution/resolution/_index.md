@@ -7,11 +7,11 @@ description: "Resolution constructor. Initializes a new instance of the Resoluti
 type: docs
 weight: 10
 url: "/net/aspose.pdf.devices/resolution/resolution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Resolution(int) {#constructor}
 
-Initializes a new instance of the [`Resolution`](../../../aspose.pdf.devices/resolution/) class.
+Initializes a new instance of the [`Resolution`](../) class.
 
 ```csharp
 public Resolution(int value)
@@ -31,7 +31,7 @@ public Resolution(int value)
 
 ## Resolution(int, int) {#constructor_1}
 
-Initializes a new instance of the [`Resolution`](../../../aspose.pdf.devices/resolution/) class.
+Initializes a new instance of the [`Resolution`](../) class.
 
 ```csharp
 public Resolution(int valueX, int valueY)

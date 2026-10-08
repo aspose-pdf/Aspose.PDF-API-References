@@ -7,7 +7,7 @@ description: "Point3D property. Gets point with zero coordinates."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/point3d/trivial/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Point3D.Trivial property
 
@@ -19,7 +19,7 @@ public static Point3D Trivial { get; }
 
 ### See Also
 
-* class [Point3D](../../../aspose.pdf/point3d/)
+* class [Point3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

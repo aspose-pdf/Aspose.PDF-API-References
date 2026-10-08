@@ -7,7 +7,7 @@ description: "FormEditor method. Remove submit action of the field."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/formeditor/removefieldaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.RemoveFieldAction method
 

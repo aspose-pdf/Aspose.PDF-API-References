@@ -8,11 +8,11 @@ type: docs
 weight: 780
 url: "/net/aspose.pdf.lowcode/resizeoptions/"
 keywords: "ResizeOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ResizeOptions class
 
-Represents Resize options for [`Optimizer`](../../aspose.pdf.lowcode/optimizer/) plugin.
+Represents Resize options for [`Optimizer`](../optimizer/) plugin.
 
 ```csharp
 public sealed class ResizeOptions : OrganizerBaseOptions
@@ -22,7 +22,7 @@ public sealed class ResizeOptions : OrganizerBaseOptions
 
 | Name | Description |
 | --- | --- |
-| [ResizeOptions](./resizeoptions/)() | The default constructor. |
+| [ResizeOptions](resizeoptions/)() | The default constructor. |
 
 ## Properties
 
@@ -32,7 +32,7 @@ public sealed class ResizeOptions : OrganizerBaseOptions
 | [CloseOutputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
 | [Inputs](../../aspose.pdf.lowcode/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. |
 | [Outputs](../../aspose.pdf.lowcode/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
-| [PageSize](./pagesize/) { get; set; } | Gets or sets new page size. |
+| [PageSize](../../aspose.pdf.lowcode/resizeoptions/pagesize/) { get; set; } | Gets or sets new page size. |
 
 ## Methods
 

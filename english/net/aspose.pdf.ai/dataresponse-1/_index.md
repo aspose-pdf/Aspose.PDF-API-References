@@ -8,7 +8,7 @@ type: docs
 weight: 290
 url: "/net/aspose.pdf.ai/dataresponse-1/"
 keywords: "DataResponse<T>, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DataResponse&lt;T&gt; class
 
@@ -18,23 +18,21 @@ Represents a data response containing the specified data.
 public class DataResponse<T> : BaseResponse
 ```
 
-## Type Parameters
-
-| Name | Description |
+| Parameter | Description |
 | --- | --- |
-| T |  |
+| T | The type of data in the response. |
 
 ## Constructors
 
 | Name | Description |
 | --- | --- |
-| [DataResponse](./dataresponse/)() | The default constructor. |
+| [DataResponse](dataresponse/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Data](./data/) { get; set; } | Gets or sets the data in the response. |
+| [Data](../../aspose.pdf.ai/dataresponse-1/data/) { get; set; } | Gets or sets the data in the response. |
 | [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. |
 | [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. |
 | [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. |

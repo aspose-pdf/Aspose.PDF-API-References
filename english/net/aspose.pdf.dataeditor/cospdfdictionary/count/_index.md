@@ -7,11 +7,11 @@ description: "CosPdfDictionary property. Gets the number of elements contained i
 type: docs
 weight: 180
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfDictionary.Count property
 
-Gets the number of elements contained in the [`CosPdfDictionary`](../../../aspose.pdf.dataeditor/cospdfdictionary/).
+Gets the number of elements contained in the [`CosPdfDictionary`](../).
 
 ```csharp
 public int Count { get; }

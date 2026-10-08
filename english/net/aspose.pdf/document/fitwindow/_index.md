@@ -7,7 +7,7 @@ description: "Document property. Gets or sets flag specifying whether document w
 type: docs
 weight: 1290
 url: "/net/aspose.pdf/document/fitwindow/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.FitWindow property
 

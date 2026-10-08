@@ -7,11 +7,11 @@ description: "TextBuilder constructor. Initializes a new instance of TextBuilder
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/textbuilder/textbuilder/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## TextBuilder([Page](../../../aspose.pdf/page/)) {#constructor}
+## TextBuilder(Page) {#constructor}
 
-Initializes a new instance of [`TextBuilder`](../../../aspose.pdf.text/textbuilder/) class for the Pdf page.
+Initializes a new instance of [`TextBuilder`](../) class for the Pdf page.
 
 The TextBuilder allows to append text objects to Pdf pages.
 
@@ -32,9 +32,9 @@ public TextBuilder(Page page)
 
 ---
 
-## TextBuilder([Page](../../../aspose.pdf/page/), [BaseOperatorCollection](../../../aspose.pdf/baseoperatorcollection/)) {#constructor_1}
+## TextBuilder(Page, BaseOperatorCollection) {#constructor_1}
 
-Initializes a new instance of [`TextBuilder`](../../../aspose.pdf.text/textbuilder/) class for the Pdf page.
+Initializes a new instance of [`TextBuilder`](../) class for the Pdf page.
 
 The TextBuilder allows to append text objects to Pdf pages.
 

@@ -7,7 +7,7 @@ description: "Ellipse property. Gets or sets a float value that indicates the bo
 type: docs
 weight: 40
 url: "/net/aspose.pdf.drawing/ellipse/bottom/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Ellipse.Bottom property
 

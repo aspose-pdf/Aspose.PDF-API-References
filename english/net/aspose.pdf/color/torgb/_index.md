@@ -7,7 +7,7 @@ description: "Color method. Converts color into rgb."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/color/torgb/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Color.ToRgb method
 
@@ -23,7 +23,7 @@ Rgb color value.
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

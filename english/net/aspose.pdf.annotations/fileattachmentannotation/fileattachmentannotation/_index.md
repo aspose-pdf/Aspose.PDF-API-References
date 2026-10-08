@@ -7,7 +7,7 @@ description: "FileAttachmentAnnotation constructor. Creates new FileAttachment a
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/fileattachmentannotation/fileattachmentannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileAttachmentAnnotation constructor
 
@@ -26,7 +26,7 @@ public FileAttachmentAnnotation(Page page, Rectangle rect, FileSpecification fil
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [FileSpecification](../../../aspose.pdf/filespecification/)
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)

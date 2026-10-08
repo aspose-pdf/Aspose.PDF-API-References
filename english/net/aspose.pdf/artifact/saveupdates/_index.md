@@ -7,7 +7,7 @@ description: "Artifact method. Saves all updates in artifact which were made aft
 type: docs
 weight: 150
 url: "/net/aspose.pdf/artifact/saveupdates/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.SaveUpdates method
 

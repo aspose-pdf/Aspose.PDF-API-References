@@ -7,7 +7,7 @@ description: "OptionCollection method. Copies options into array."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/optioncollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptionCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public void CopyTo(Option[] array, int index)
 
 ### See Also
 
-* class [Option](../../../aspose.pdf.forms/option/)
+* class [Option](../../option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

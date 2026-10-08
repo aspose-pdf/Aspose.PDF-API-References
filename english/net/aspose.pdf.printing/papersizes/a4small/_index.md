@@ -7,7 +7,7 @@ description: "PaperSizes field. A4 small paper (210 mm by 297 mm)."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.printing/papersizes/a4small/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizes.A4Small field
 
@@ -19,7 +19,7 @@ public static readonly PaperSize A4Small;
 
 ### See Also
 
-* class [PaperSize](../../../aspose.pdf.printing/papersize/)
+* class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

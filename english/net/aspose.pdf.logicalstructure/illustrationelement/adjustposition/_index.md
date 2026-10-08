@@ -7,7 +7,7 @@ description: "IllustrationElement method."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/illustrationelement/adjustposition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IllustrationElement.AdjustPosition method
 
@@ -16,10 +16,6 @@ product_version: "26.9.0"
 ```csharp
 public void AdjustPosition(PositionSettings positionSettings)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| positionSettings | PositionSettings |  |
 
 ### See Also
 

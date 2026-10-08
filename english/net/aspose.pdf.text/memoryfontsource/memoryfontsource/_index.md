@@ -7,11 +7,11 @@ description: "MemoryFontSource constructor. Initializes a new instance of Memory
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/memoryfontsource/memoryfontsource/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MemoryFontSource constructor
 
-Initializes a new instance of [`MemoryFontSource`](../../../aspose.pdf.text/memoryfontsource/) class.
+Initializes a new instance of [`MemoryFontSource`](../) class.
 
 ```csharp
 public MemoryFontSource(byte[] fontBytes)

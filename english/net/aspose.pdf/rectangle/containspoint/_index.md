@@ -7,7 +7,7 @@ description: "Rectangle method. Determines whether the given point is contained 
 type: docs
 weight: 140
 url: "/net/aspose.pdf/rectangle/containspoint/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.ContainsPoint method
 

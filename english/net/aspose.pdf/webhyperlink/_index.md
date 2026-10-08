@@ -8,7 +8,7 @@ type: docs
 weight: 3140
 url: "/net/aspose.pdf/webhyperlink/"
 keywords: "WebHyperlink, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WebHyperlink class
 
@@ -22,14 +22,14 @@ public sealed class WebHyperlink : Hyperlink
 
 | Name | Description |
 | --- | --- |
-| [WebHyperlink](./webhyperlink/#constructor)() | Initializes a new instance of the [`WebHyperlink`](../../aspose.pdf/webhyperlink/) class. |
-| [WebHyperlink](./webhyperlink/#constructor_1)(string) | Initializes a new instance of the [`WebHyperlink`](../../aspose.pdf/webhyperlink/) class. |
+| [WebHyperlink](webhyperlink/#constructor)() | Initializes a new instance of the `WebHyperlink` class. |
+| [WebHyperlink](webhyperlink/#constructor_1)(string) | Initializes a new instance of the `WebHyperlink` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Url](./url/) { get; set; } | Gets or sets the web url. |
+| [Url](../../aspose.pdf/webhyperlink/url/) { get; set; } | Gets or sets the web url. |
 
 ### See Also
 

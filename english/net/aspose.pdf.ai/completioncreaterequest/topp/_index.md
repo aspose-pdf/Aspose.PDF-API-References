@@ -7,7 +7,7 @@ description: "CompletionCreateRequest property. Gets or sets an alternative to s
 type: docs
 weight: 150
 url: "/net/aspose.pdf.ai/completioncreaterequest/topp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionCreateRequest.TopP property
 

@@ -7,7 +7,7 @@ description: "StructureElement method. Generate ID for structure element."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/structureelement/generateid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureElement.GenerateId method
 

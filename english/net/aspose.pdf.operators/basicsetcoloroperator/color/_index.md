@@ -7,7 +7,7 @@ description: "BasicSetColorOperator property. Gets array of color components."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.operators/basicsetcoloroperator/color/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BasicSetColorOperator.Color property
 

@@ -7,11 +7,11 @@ description: "HtmlDiffOutputGenerator constructor. Creates an instance of HtmlDi
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/htmldiffoutputgenerator/htmldiffoutputgenerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlDiffOutputGenerator() {#constructor}
 
-Creates an instance of [`HtmlDiffOutputGenerator`](../../../aspose.pdf.comparison/htmldiffoutputgenerator/) class.
+Creates an instance of [`HtmlDiffOutputGenerator`](../) class.
 
 ```csharp
 public HtmlDiffOutputGenerator()
@@ -25,9 +25,9 @@ public HtmlDiffOutputGenerator()
 
 ---
 
-## HtmlDiffOutputGenerator([OutputTextStyle](../../../aspose.pdf.comparison/outputtextstyle/)) {#constructor_1}
+## HtmlDiffOutputGenerator(OutputTextStyle) {#constructor_1}
 
-Creates an instance of [`HtmlDiffOutputGenerator`](../../../aspose.pdf.comparison/htmldiffoutputgenerator/) class.
+Creates an instance of [`HtmlDiffOutputGenerator`](../) class.
 
 ```csharp
 public HtmlDiffOutputGenerator(OutputTextStyle textStyle)
@@ -39,7 +39,7 @@ public HtmlDiffOutputGenerator(OutputTextStyle textStyle)
 
 ### See Also
 
-* class [OutputTextStyle](../../../aspose.pdf.comparison/outputtextstyle/)
+* class [OutputTextStyle](../../outputtextstyle/)
 * class [HtmlDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Matrix3D property. Tx member of the transformation matrix."
 type: docs
 weight: 190
 url: "/net/aspose.pdf/matrix3d/tx/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Matrix3D.Tx property
 

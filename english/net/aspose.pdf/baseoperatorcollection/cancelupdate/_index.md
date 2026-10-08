@@ -7,7 +7,7 @@ description: "BaseOperatorCollection method. Cancels last update. This method ma
 type: docs
 weight: 100
 url: "/net/aspose.pdf/baseoperatorcollection/cancelupdate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseOperatorCollection.CancelUpdate method
 

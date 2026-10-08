@@ -7,7 +7,7 @@ description: "HtmlPageMarkupSavingInfo field. Set by converter. Represents saved
 type: docs
 weight: 20
 url: "/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/contentstream/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.HtmlPageMarkupSavingInfo.ContentStream field
 
@@ -20,7 +20,7 @@ public Stream ContentStream;
 
 ### See Also
 
-* class [HtmlSaveOptions.HtmlPageMarkupSavingInfo](../)
+* class [HtmlPageMarkupSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

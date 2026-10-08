@@ -7,7 +7,7 @@ description: "Annotation property. Gets or sets annotation text."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/annotation/contents/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.Contents property
 

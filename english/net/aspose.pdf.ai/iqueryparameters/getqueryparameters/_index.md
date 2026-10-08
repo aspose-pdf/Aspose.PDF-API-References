@@ -7,7 +7,7 @@ description: "IQueryParameters method. Gets the query parameters as a string."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/iqueryparameters/getqueryparameters/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IQueryParameters.GetQueryParameters method
 

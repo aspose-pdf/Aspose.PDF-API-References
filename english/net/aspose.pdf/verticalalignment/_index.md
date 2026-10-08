@@ -7,7 +7,7 @@ description: "Aspose.Pdf.VerticalAlignment enum. Enumeration of possible vertica
 type: docs
 weight: 3090
 url: "/net/aspose.pdf/verticalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VerticalAlignment enumeration
 

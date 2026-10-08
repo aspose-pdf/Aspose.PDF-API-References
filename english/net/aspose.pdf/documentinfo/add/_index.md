@@ -7,7 +7,7 @@ description: "DocumentInfo method. Adds an element with the specified key and va
 type: docs
 weight: 30
 url: "/net/aspose.pdf/documentinfo/add/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentInfo.Add method
 

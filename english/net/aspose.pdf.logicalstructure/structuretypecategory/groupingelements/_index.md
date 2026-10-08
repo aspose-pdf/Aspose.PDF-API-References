@@ -7,7 +7,7 @@ description: "StructureTypeCategory field. Grouping elements group other element
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/structuretypecategory/groupingelements/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeCategory.GroupingElements field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeCategory GroupingElements;
 
 ### See Also
 
-* class [StructureTypeCategory](../../../aspose.pdf.logicalstructure/structuretypecategory/)
+* class [StructureTypeCategory](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

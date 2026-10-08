@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Warichu punctuation) The punctuation
 type: docs
 weight: 500
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/wp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.WP field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard WP;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

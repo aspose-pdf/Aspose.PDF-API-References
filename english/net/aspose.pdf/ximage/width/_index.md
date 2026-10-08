@@ -7,7 +7,7 @@ description: "XImage property. Gets width of the image."
 type: docs
 weight: 180
 url: "/net/aspose.pdf/ximage/width/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImage.Width property
 

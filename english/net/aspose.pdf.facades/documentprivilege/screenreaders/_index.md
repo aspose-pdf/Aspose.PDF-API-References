@@ -7,7 +7,7 @@ description: "DocumentPrivilege property. Allows to reader on screen only."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/documentprivilege/screenreaders/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentPrivilege.ScreenReaders property
 
@@ -19,7 +19,7 @@ public static DocumentPrivilege ScreenReaders { get; }
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

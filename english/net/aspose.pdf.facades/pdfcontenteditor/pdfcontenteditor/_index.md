@@ -7,7 +7,7 @@ description: "PdfContentEditor constructor. The constructor of the PdfContentEdi
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdfcontenteditor/pdfcontenteditor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor() {#constructor}
 
@@ -25,9 +25,9 @@ public PdfContentEditor()
 
 ---
 
-## PdfContentEditor([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## PdfContentEditor(Document) {#constructor_1}
 
-Initializes new [`PdfContentEditor`](../../../aspose.pdf.facades/pdfcontenteditor/) object on base of the *document*.
+Initializes new [`PdfContentEditor`](../) object on base of the *document*.
 
 ```csharp
 public PdfContentEditor(Document document)

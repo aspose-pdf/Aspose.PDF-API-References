@@ -7,7 +7,7 @@ description: "AttributeOwnerStandard field. OEB-1.00 attribute owner."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/oeb_100/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeOwnerStandard.Oeb_100 field
 
@@ -19,7 +19,7 @@ public static readonly AttributeOwnerStandard Oeb_100;
 
 ### See Also
 
-* class [AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
+* class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

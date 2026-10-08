@@ -7,7 +7,7 @@ description: "TableTRElement property. Gets height for row."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.logicalstructure/tabletrelement/minrowheight/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableTRElement.MinRowHeight property
 

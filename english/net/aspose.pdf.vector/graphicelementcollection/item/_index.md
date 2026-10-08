@@ -7,11 +7,11 @@ description: "GraphicElementCollection property. Gets the GraphicElement element
 type: docs
 weight: 100
 url: "/net/aspose.pdf.vector/graphicelementcollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicElementCollection indexer
 
-Gets the [`GraphicElement`](../../../aspose.pdf.vector/graphicelement/) element at the specified index.
+Gets the [`GraphicElement`](../../graphicelement/) element at the specified index.
 
 ```csharp
 public GraphicElement this[int index] { get; }
@@ -23,11 +23,11 @@ public GraphicElement this[int index] { get; }
 
 ### Return Value
 
-[`GraphicElement`](../../../aspose.pdf.vector/graphicelement/).
+[`GraphicElement`](../../graphicelement/).
 
 ### See Also
 
-* class [GraphicElement](../../../aspose.pdf.vector/graphicelement/)
+* class [GraphicElement](../../graphicelement/)
 * class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

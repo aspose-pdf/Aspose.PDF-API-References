@@ -7,7 +7,7 @@ description: "Document method. Optimize resources in the document: 1. Resources 
 type: docs
 weight: 810
 url: "/net/aspose.pdf/document/optimizeresources/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizeResources() {#optimizeresources}
 
@@ -28,7 +28,7 @@ public void OptimizeResources()
 
 ---
 
-## OptimizeResources([OptimizationOptions](../../../aspose.pdf.optimization/optimizationoptions/)) {#optimizeresources_1}
+## OptimizeResources(OptimizationOptions) {#optimizeresources_1}
 
 Optimize resources in the document according to defined optimization strategy.
 

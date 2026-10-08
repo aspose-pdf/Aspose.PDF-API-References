@@ -7,7 +7,7 @@ description: "Aspose.Pdf.HtmlMediaType enum. Specifies possible media types used
 type: docs
 weight: 1160
 url: "/net/aspose.pdf/htmlmediatype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlMediaType enumeration
 

@@ -7,7 +7,7 @@ description: "RadioButtonField property. Gets collection of options of the radio
 type: docs
 weight: 90
 url: "/net/aspose.pdf.forms/radiobuttonfield/options/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RadioButtonField.Options property
 
@@ -19,7 +19,7 @@ public override OptionCollection Options { get; }
 
 ### See Also
 
-* class [OptionCollection](../../../aspose.pdf.forms/optioncollection/)
+* class [OptionCollection](../../optioncollection/)
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

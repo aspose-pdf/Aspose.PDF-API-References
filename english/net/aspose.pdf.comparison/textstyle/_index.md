@@ -8,7 +8,7 @@ type: docs
 weight: 240
 url: "/net/aspose.pdf.comparison/textstyle/"
 keywords: "TextStyle, Aspose.Pdf.Comparison, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStyle class
 
@@ -22,14 +22,14 @@ public class TextStyle
 
 | Name | Description |
 | --- | --- |
-| [TextStyle](./textstyle/)() | The default constructor. |
+| [TextStyle](textstyle/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BackgroundColor](./backgroundcolor/) { get; set; } | Gets and sets the background color. |
-| [Color](./color/) { get; set; } | Gets and sets the text color. |
+| [BackgroundColor](../../aspose.pdf.comparison/textstyle/backgroundcolor/) { get; set; } | Gets and sets the background color. |
+| [Color](../../aspose.pdf.comparison/textstyle/color/) { get; set; } | Gets and sets the text color. |
 
 ### See Also
 

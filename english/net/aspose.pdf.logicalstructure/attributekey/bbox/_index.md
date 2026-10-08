@@ -7,7 +7,7 @@ description: "AttributeKey field. BBox attribute (Layout attribute owner)."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.logicalstructure/attributekey/bbox/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.BBox field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey BBox;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

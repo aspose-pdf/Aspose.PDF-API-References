@@ -7,7 +7,7 @@ description: "DocSaveOptions property. Switch on the recognition of bullets"
 type: docs
 weight: 50
 url: "/net/aspose.pdf/docsaveoptions/recognizebullets/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocSaveOptions.RecognizeBullets property
 

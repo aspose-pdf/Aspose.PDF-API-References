@@ -7,11 +7,11 @@ description: "PaperSize constructor. Initializes a new instance of the PaperSize
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/papersize/papersize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSize() {#constructor}
 
-Initializes a new instance of the [`PaperSize`](../../../aspose.pdf.printing/papersize/) class with default properties.
+Initializes a new instance of the [`PaperSize`](../) class with default properties.
 
 ```csharp
 public PaperSize()
@@ -27,7 +27,7 @@ public PaperSize()
 
 ## PaperSize(string, int, int) {#constructor_1}
 
-Initializes a new instance of the [`PaperSize`](../../../aspose.pdf.printing/papersize/) class.
+Initializes a new instance of the [`PaperSize`](../) class.
 
 ```csharp
 public PaperSize(string name, int width, int height)

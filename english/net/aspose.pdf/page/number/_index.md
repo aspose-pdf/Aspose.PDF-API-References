@@ -7,7 +7,7 @@ description: "Page property. Get number of the page."
 type: docs
 weight: 580
 url: "/net/aspose.pdf/page/number/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.Number property
 

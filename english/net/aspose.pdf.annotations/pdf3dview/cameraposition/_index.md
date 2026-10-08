@@ -7,7 +7,7 @@ description: "PDF3DView property. Gets or sets the camera position of view."
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/pdf3dview/cameraposition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DView.CameraPosition property
 

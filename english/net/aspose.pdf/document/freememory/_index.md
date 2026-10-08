@@ -7,7 +7,7 @@ description: "Document method. Clears memory"
 type: docs
 weight: 840
 url: "/net/aspose.pdf/document/freememory/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.FreeMemory method
 

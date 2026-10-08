@@ -7,7 +7,7 @@ description: "ThreadCreateRequest property. Gets or sets a set of 16 key-value p
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/threadcreaterequest/metadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadCreateRequest.Metadata property
 

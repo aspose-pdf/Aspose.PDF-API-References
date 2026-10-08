@@ -7,7 +7,7 @@ description: "FormFieldFacade property. The color of a field background, default
 type: docs
 weight: 200
 url: "/net/aspose.pdf.facades/formfieldfacade/backgroundcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.BackgroundColor property
 
@@ -19,7 +19,6 @@ public Color BackgroundColor { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Paragraphs property. Get paragraphs count."
 type: docs
 weight: 110
 url: "/net/aspose.pdf/paragraphs/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Paragraphs.Count property
 

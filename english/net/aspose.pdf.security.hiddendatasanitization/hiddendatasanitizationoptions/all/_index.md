@@ -7,14 +7,14 @@ description: "HiddenDataSanitizationOptions method. Creates a new instance of th
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/all/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HiddenDataSanitizationOptions.All method
 
-Creates a new instance of the [`HiddenDataSanitizationOptions`](../../../aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/) class with all options set for sanitization.
+Creates a new instance of the [`HiddenDataSanitizationOptions`](../) class with all options set for sanitization.
  This includes enabling the removal of annotations, JavaScript, metadata, attachments, search index, private information,
  flattening of forms and layers, while disabling the option to convert pages to images.
- Optional configurations like `ImageCompressionOptions` or `ConvertPagesToImages` can be manually modified
+ Optional configurations like [`ImageCompressionOptions`](../imagecompressionoptions/) or [`ConvertPagesToImages`](../convertpagestoimages/) can be manually modified
  after obtaining the instance, as they are not active by default.
 
 ```csharp
@@ -23,11 +23,11 @@ public static HiddenDataSanitizationOptions All()
 
 ### Return Value
 
-A [`HiddenDataSanitizationOptions`](../../../aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/) instance with all sanitization options preconfigured.
+A [`HiddenDataSanitizationOptions`](../) instance with all sanitization options preconfigured.
 
 ### See Also
 
-* class [HiddenDataSanitizationOptions](../../../aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptions/)
+* class [HiddenDataSanitizationOptions](../)
 * namespace [Aspose.Pdf.Security.HiddenDataSanitization](../../../aspose.pdf.security.hiddendatasanitization/)
 * assembly [Aspose.PDF](../../../)
 

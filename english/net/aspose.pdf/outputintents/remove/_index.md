@@ -7,7 +7,7 @@ description: "OutputIntents method. Removes the first occurrence of a specific o
 type: docs
 weight: 60
 url: "/net/aspose.pdf/outputintents/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputIntents.Remove method
 
@@ -23,12 +23,12 @@ public bool Remove(OutputIntent item)
 
 ### Return Value
 
- if *item* was successfully removed from the collection;
-  if *item* was not found in the original collection.
+`true` if *item* was successfully removed from the collection;
+ `false` if *item* was not found in the original collection.
 
 ### See Also
 
-* class [OutputIntent](../../../aspose.pdf/outputintent/)
+* class [OutputIntent](../../outputintent/)
 * class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

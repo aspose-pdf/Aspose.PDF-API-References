@@ -7,7 +7,7 @@ description: "RunResponse property. Gets or sets the truncation strategy that co
 type: docs
 weight: 250
 url: "/net/aspose.pdf.ai/runresponse/truncationstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunResponse.TruncationStrategy property
 
@@ -20,7 +20,7 @@ public TruncationStrategy TruncationStrategy { get; set; }
 
 ### See Also
 
-* class [TruncationStrategy](../../../aspose.pdf.ai/truncationstrategy/)
+* class [TruncationStrategy](../../truncationstrategy/)
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

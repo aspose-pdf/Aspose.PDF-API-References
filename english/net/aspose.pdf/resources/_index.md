@@ -8,7 +8,7 @@ type: docs
 weight: 2620
 url: "/net/aspose.pdf/resources/"
 keywords: "Resources, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Resources class
 
@@ -22,17 +22,17 @@ public sealed class Resources
 
 | Name | Description |
 | --- | --- |
-| [Fonts](./fonts/) { get; } | Gets `Fonts` resources collection |
-| [Forms](./forms/) { get; } | Gets `Forms` forms collection |
-| [Images](./images/) { get; } | Gets `Images` images collection |
+| [Fonts](../../aspose.pdf/resources/fonts/) { get; } | Gets [`Fonts`](./fonts/) resources collection |
+| [Forms](../../aspose.pdf/resources/forms/) { get; } | Gets [`Forms`](./forms/) forms collection |
+| [Images](../../aspose.pdf/resources/images/) { get; } | Gets [`Images`](./images/) images collection |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [FreeMemory](./freememory/)() | Clears cached data, frees memory etc. |
-| [GetExtGStates](./getextgstates/)() | Gets all ExGStates from resources. |
-| [GetFonts](./getfonts/)(bool) | Returns fonts collection. If resources don't contain fonts entry it will be created in depends of CreateIfAbsent flag. |
+| [FreeMemory](../../aspose.pdf/resources/freememory/)() | Clears cached data, frees memory etc. |
+| [GetExtGStates](../../aspose.pdf/resources/getextgstates/)() | Gets all ExGStates from resources. |
+| [GetFonts](../../aspose.pdf/resources/getfonts/)(bool) | Returns fonts collection. If resources don't contain fonts entry it will be created in depends of CreateIfAbsent flag. |
 
 ## Other Members
 

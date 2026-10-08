@@ -7,11 +7,11 @@ description: "TextFragmentAbsorber property. Gets collection of search occurrenc
 type: docs
 weight: 210
 url: "/net/aspose.pdf.text/textfragmentabsorber/textfragments/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentAbsorber.TextFragments property
 
-Gets collection of search occurrences that are presented with [`TextFragment`](../../../aspose.pdf.text/textfragment/) objects.
+Gets collection of search occurrences that are presented with [`TextFragment`](../../textfragment/) objects.
 
 ```csharp
 public TextFragmentCollection TextFragments { get; set; }
@@ -46,7 +46,7 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ### See Also
 
-* class [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
+* class [TextFragmentCollection](../../textfragmentcollection/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

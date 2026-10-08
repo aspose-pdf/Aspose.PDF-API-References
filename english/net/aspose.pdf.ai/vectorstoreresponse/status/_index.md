@@ -7,7 +7,7 @@ description: "VectorStoreResponse property. Gets or sets the status of the vecto
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/vectorstoreresponse/status/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreResponse.Status property
 

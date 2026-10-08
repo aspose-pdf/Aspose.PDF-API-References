@@ -7,7 +7,7 @@ description: "CollectionSchema property. Gets all schema's fields names."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/collectionschema/allnames/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CollectionSchema.AllNames property
 

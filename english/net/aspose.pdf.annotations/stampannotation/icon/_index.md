@@ -7,7 +7,7 @@ description: "StampAnnotation property. Gets or sets icon for rubber stamp."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/stampannotation/icon/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StampAnnotation.Icon property
 
@@ -19,7 +19,7 @@ public StampIcon Icon { get; set; }
 
 ### See Also
 
-* enum [StampIcon](../../../aspose.pdf.annotations/stampicon/)
+* enum [StampIcon](../../stampicon/)
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

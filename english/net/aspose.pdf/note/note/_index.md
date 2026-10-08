@@ -7,11 +7,11 @@ description: "Note constructor. Initializes a new instance of the Note class."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/note/note/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Note() {#constructor}
 
-Initializes a new instance of the [`Note`](../../../aspose.pdf/note/) class.
+Initializes a new instance of the [`Note`](../) class.
 
 ```csharp
 public Note()
@@ -27,7 +27,7 @@ public Note()
 
 ## Note(string) {#constructor_1}
 
-Initializes a new instance of the [`Note`](../../../aspose.pdf/note/) class.
+Initializes a new instance of the [`Note`](../) class.
 
 ```csharp
 public Note(string content)

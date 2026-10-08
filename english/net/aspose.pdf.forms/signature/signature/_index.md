@@ -7,11 +7,11 @@ description: "Signature constructor. Inititalizes new instance of the Signature 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/signature/signature/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Signature() {#constructor}
 
-Inititalizes new instance of the [`Signature`](../../../aspose.pdf.lowcode/signature/) class.
+Inititalizes new instance of the [`Signature`](../) class.
 
 ```csharp
 public Signature()
@@ -25,17 +25,17 @@ public Signature()
 
 ---
 
-## Signature(Stream, string) {#constructor_1}
+## Signature(string, string) {#constructor_1}
 
-Inititalizes new instance of the [`Signature`](../../../aspose.pdf.lowcode/signature/) class.
+Inititalizes new instance of the [`Signature`](../) class.
 
 ```csharp
-public Signature(Stream pfx, string password)
+public Signature(string pfx, string password)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pfx | Stream | Stream with certificate data organized as pfx. |
+| pfx | String | Pfx file which contains certificate for signing. |
 | password | String | Password to get access to the private key in the certificate. |
 
 ### See Also
@@ -46,17 +46,17 @@ public Signature(Stream pfx, string password)
 
 ---
 
-## Signature(string, string) {#constructor_2}
+## Signature(Stream, string) {#constructor_2}
 
-Inititalizes new instance of the [`Signature`](../../../aspose.pdf.lowcode/signature/) class.
+Inititalizes new instance of the [`Signature`](../) class.
 
 ```csharp
-public Signature(string pfx, string password)
+public Signature(Stream pfx, string password)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pfx | String | Pfx file which contains certificate for signing. |
+| pfx | Stream | Stream with certificate data organized as pfx. |
 | password | String | Password to get access to the private key in the certificate. |
 
 ### See Also

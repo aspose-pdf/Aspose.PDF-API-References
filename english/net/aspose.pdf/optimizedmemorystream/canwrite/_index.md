@@ -7,7 +7,7 @@ description: "OptimizedMemoryStream property. When overridden in a derived class
 type: docs
 weight: 160
 url: "/net/aspose.pdf/optimizedmemorystream/canwrite/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizedMemoryStream.CanWrite property
 

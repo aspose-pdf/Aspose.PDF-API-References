@@ -8,7 +8,7 @@ type: docs
 weight: 1800
 url: "/net/aspose.pdf/localhyperlink/"
 keywords: "LocalHyperlink, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LocalHyperlink class
 
@@ -22,15 +22,15 @@ public sealed class LocalHyperlink : Hyperlink
 
 | Name | Description |
 | --- | --- |
-| [LocalHyperlink](./localhyperlink/#constructor)() | Initializes a new instance of the [`LocalHyperlink`](../../aspose.pdf/localhyperlink/) class. |
-| [LocalHyperlink](./localhyperlink/#constructor_1)(BaseParagraph) | Initializes a new instance of the [`LocalHyperlink`](../../aspose.pdf/localhyperlink/) class. |
+| [LocalHyperlink](localhyperlink/#constructor)() | Initializes a new instance of the `LocalHyperlink` class. |
+| [LocalHyperlink](localhyperlink/#constructor_1)(BaseParagraph) | Initializes a new instance of the `LocalHyperlink` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Target](./target/) { get; set; } | Gets or sets the target paragraph. |
-| [TargetPageNumber](./targetpagenumber/) { get; set; } | Gets or sets the target page number. |
+| [Target](../../aspose.pdf/localhyperlink/target/) { get; set; } | Gets or sets the target paragraph. |
+| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber/) { get; set; } | Gets or sets the target page number. |
 
 ### See Also
 

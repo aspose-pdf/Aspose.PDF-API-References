@@ -7,7 +7,7 @@ description: "ICustomSecurityHandler method. Check if the password is the docume
 type: docs
 weight: 80
 url: "/net/aspose.pdf.security/icustomsecurityhandler/isownerpassword/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ICustomSecurityHandler.IsOwnerPassword method
 

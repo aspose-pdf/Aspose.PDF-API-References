@@ -7,7 +7,7 @@ description: "PptxSaveOptions property. If set to true then images are separated
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pptxsaveoptions/separateimages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PptxSaveOptions.SeparateImages property
 

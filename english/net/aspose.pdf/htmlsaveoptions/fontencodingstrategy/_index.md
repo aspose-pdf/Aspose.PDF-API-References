@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. Defines encoding special rule to tune PDF d
 type: docs
 weight: 470
 url: "/net/aspose.pdf/htmlsaveoptions/fontencodingstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.FontEncodingStrategy field
 
@@ -19,6 +19,7 @@ public FontEncodingRules FontEncodingStrategy;
 
 ### See Also
 
+* enum [FontEncodingRules](../../htmlsaveoptions.fontencodingrules/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

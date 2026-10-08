@@ -7,7 +7,7 @@ description: "TocInfo property. Gets or sets is TOC copied to outlines."
 type: docs
 weight: 100
 url: "/net/aspose.pdf/tocinfo/copytooutlines/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TocInfo.CopyToOutlines property
 

@@ -7,7 +7,7 @@ description: "SetCharWidthBoundingBox method. Returns text representation of ope
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setcharwidthboundingbox/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCharWidthBoundingBox.ToString method
 

@@ -7,7 +7,7 @@ description: "ImagePlacement method. Replace image in collection with another im
 type: docs
 weight: 20
 url: "/net/aspose.pdf/imageplacement/replace/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagePlacement.Replace method
 

@@ -7,11 +7,11 @@ description: "ParagraphAbsorber constructor. Initializes a new instance of the P
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/paragraphabsorber/paragraphabsorber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ParagraphAbsorber() {#constructor}
 
-Initializes a new instance of the [`ParagraphAbsorber`](../../../aspose.pdf.text/paragraphabsorber/) that performs search for sections/paragraphs of the document or page.
+Initializes a new instance of the [`ParagraphAbsorber`](../) that performs search for sections/paragraphs of the document or page.
 
 ```csharp
 public ParagraphAbsorber()
@@ -27,9 +27,9 @@ public ParagraphAbsorber()
 
 ## ParagraphAbsorber(int) {#constructor_1}
 
-Initializes a new instance of the [`ParagraphAbsorber`](../../../aspose.pdf.text/paragraphabsorber/) that performs search for sections/paragraphs of the document or page.
+Initializes a new instance of the [`ParagraphAbsorber`](../) that performs search for sections/paragraphs of the document or page.
 
-See `SectionsSearchDepth` property for more hints about the parameter.
+See [`SectionsSearchDepth`](../sectionssearchdepth/) property for more hints about the parameter.
 
 ```csharp
 public ParagraphAbsorber(int sectionsSearchDepth)
@@ -47,9 +47,9 @@ public ParagraphAbsorber(int sectionsSearchDepth)
 
 ---
 
-## ParagraphAbsorber([ParagraphAbsorberOptions](../../../aspose.pdf.text/paragraphabsorberoptions/)) {#constructor_2}
+## ParagraphAbsorber(ParagraphAbsorberOptions) {#constructor_2}
 
-Initializes a new instance of the [`ParagraphAbsorber`](../../../aspose.pdf.text/paragraphabsorber/) that performs search for sections/paragraphs of the document or page
+Initializes a new instance of the [`ParagraphAbsorber`](../) that performs search for sections/paragraphs of the document or page
  with the specified parameters.
 
 ```csharp
@@ -62,16 +62,16 @@ public ParagraphAbsorber(ParagraphAbsorberOptions paragraphAbsorberOptions)
 
 ### See Also
 
-* class [ParagraphAbsorberOptions](../../../aspose.pdf.text/paragraphabsorberoptions/)
+* class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## ParagraphAbsorber(int, [ParagraphAbsorberOptions](../../../aspose.pdf.text/paragraphabsorberoptions/)) {#constructor_3}
+## ParagraphAbsorber(int, ParagraphAbsorberOptions) {#constructor_3}
 
-Initializes a new instance of the [`ParagraphAbsorber`](../../../aspose.pdf.text/paragraphabsorber/) that performs search for sections/paragraphs of the document or page
+Initializes a new instance of the [`ParagraphAbsorber`](../) that performs search for sections/paragraphs of the document or page
  with the specified parameters.
 
 ```csharp
@@ -85,7 +85,7 @@ public ParagraphAbsorber(int sectionsSearchDepth, ParagraphAbsorberOptions parag
 
 ### See Also
 
-* class [ParagraphAbsorberOptions](../../../aspose.pdf.text/paragraphabsorberoptions/)
+* class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

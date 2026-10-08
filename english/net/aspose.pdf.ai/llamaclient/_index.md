@@ -8,7 +8,7 @@ type: docs
 weight: 750
 url: "/net/aspose.pdf.ai/llamaclient/"
 keywords: "LlamaClient, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaClient class
 
@@ -31,20 +31,23 @@ public class LlamaClient : AIClientBase, ILlamaClient, ISummaryClient<LlamaSumma
 
 | Name | Description |
 | --- | --- |
-| [CreateCompletionAsync](./createcompletionasync/)(LlamaChatCompletionRequest, CancellationToken?) | Creates a chat completion request in the Llama service. |
-| static [CreateWithApiKey](./createwithapikey/)(string) | Creates a new instance of `Builder` with the provided API key. |
-| [Dispose](../../aspose.pdf.ai/aiclientbase/dispose/)() | Disposes of the resources used by the [`AIClientBase`](../../aspose.pdf.ai/aiclientbase/). |
-| [GetSummaryCopilot](./getsummarycopilot/)(ISummaryCopilotOptions<LlamaSummaryCopilotOptions>) | Gets an instance of [`ISummaryCopilot`](../../aspose.pdf.ai/isummarycopilot/) with the specified options. |
+| [CreateCompletionAsync](../../aspose.pdf.ai/llamaclient/createcompletionasync/)(LlamaChatCompletionRequest, CancellationToken?) | Creates a chat completion request in the Llama service. |
+| static [CreateWithApiKey](../../aspose.pdf.ai/llamaclient/createwithapikey/)(string) | Creates a new instance of [`Builder`](../llamaclient.builder/) with the provided API key. |
+| [Dispose](../../aspose.pdf.ai/aiclientbase/dispose/)() | Disposes of the resources used by the [`AIClientBase`](../aiclientbase/). |
+| [GetSummaryCopilot](../../aspose.pdf.ai/llamaclient/getsummarycopilot/)(ISummaryCopilotOptions&lt;LlamaSummaryCopilotOptions&gt;) | Gets an instance of [`ISummaryCopilot`](../isummarycopilot/) with the specified options. |
 
 ## Other Members
 
 | Name | Description |
 | --- | --- |
-| class [Builder](../../aspose.pdf.ai/llamaclient.builder) | Builder class for creating an instance of [`LlamaClient`](../../aspose.pdf.ai/llamaclient/). |
+| class [Builder](../../aspose.pdf.ai/llamaclient.builder) | Builder class for creating an instance of `LlamaClient`. |
 
 ### See Also
 
 * class [AIClientBase](../aiclientbase/)
+* interface [ILlamaClient](../illamaclient/)
+* interface [ISummaryClient&lt;TOptions&gt;](../isummaryclient-1/)
+* class [LlamaSummaryCopilotOptions](../llamasummarycopilotoptions/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
 

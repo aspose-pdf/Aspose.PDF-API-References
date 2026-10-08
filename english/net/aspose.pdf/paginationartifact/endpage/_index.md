@@ -7,7 +7,7 @@ description: "PaginationArtifact property. Gets or sets the ending page number f
 type: docs
 weight: 20
 url: "/net/aspose.pdf/paginationartifact/endpage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaginationArtifact.EndPage property
 

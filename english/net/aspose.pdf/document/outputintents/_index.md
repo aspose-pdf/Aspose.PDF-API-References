@@ -7,7 +7,7 @@ description: "Document property. Gets the collection of Output intents in the do
 type: docs
 weight: 1100
 url: "/net/aspose.pdf/document/outputintents/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.OutputIntents property
 
@@ -19,7 +19,7 @@ public OutputIntents OutputIntents { get; }
 
 ### See Also
 
-* class [OutputIntents](../../../aspose.pdf/outputintents/)
+* class [OutputIntents](../../outputintents/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

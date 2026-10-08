@@ -7,7 +7,7 @@ description: "DocumentInfo property. Gets or sets document creator."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/documentinfo/creator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentInfo.Creator property
 

@@ -7,7 +7,7 @@ description: "XmpField property. Gets the value."
 type: docs
 weight: 130
 url: "/net/aspose.pdf/xmpfield/value/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpField.Value property
 
@@ -23,7 +23,7 @@ The value.
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../../xmpvalue/)
 * class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

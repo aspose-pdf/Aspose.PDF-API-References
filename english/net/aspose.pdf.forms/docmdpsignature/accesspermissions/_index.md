@@ -7,7 +7,7 @@ description: "DocMDPSignature property. Returns the access permissions granted f
 type: docs
 weight: 20
 url: "/net/aspose.pdf.forms/docmdpsignature/accesspermissions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocMDPSignature.AccessPermissions property
 
@@ -19,7 +19,7 @@ public DocMDPAccessPermissions AccessPermissions { get; }
 
 ### See Also
 
-* enum [DocMDPAccessPermissions](../../../aspose.pdf.forms/docmdpaccesspermissions/)
+* enum [DocMDPAccessPermissions](../../docmdpaccesspermissions/)
 * class [DocMDPSignature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

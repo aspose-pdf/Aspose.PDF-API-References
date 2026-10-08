@@ -7,7 +7,7 @@ description: "SetAdvancedColor method. Returns color specified by operator."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.operators/setadvancedcolor/getcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetAdvancedColor.getColor method
 
@@ -23,7 +23,6 @@ Color set by operator.
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Facades.FieldType enum. Enumeration of possible field t
 type: docs
 weight: 140
 url: "/net/aspose.pdf.facades/fieldtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FieldType enumeration
 

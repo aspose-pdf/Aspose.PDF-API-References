@@ -7,7 +7,7 @@ description: "MarkupAnnotation property. A string specifying the relationship (t
 type: docs
 weight: 150
 url: "/net/aspose.pdf.annotations/markupannotation/replytype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupAnnotation.ReplyType property
 
@@ -20,7 +20,7 @@ public ReplyType ReplyType { get; set; }
 
 ### See Also
 
-* enum [ReplyType](../../../aspose.pdf.annotations/replytype/)
+* enum [ReplyType](../../replytype/)
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

@@ -8,7 +8,7 @@ type: docs
 weight: 850
 url: "/net/aspose.pdf.annotations/pdf3dstream/"
 keywords: "PDF3DStream, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DStream class
 
@@ -22,13 +22,13 @@ public class PDF3DStream
 
 | Name | Description |
 | --- | --- |
-| [PDF3DStream](./pdf3dstream/)(Document, PDF3DArtwork) | Initializes a new instance of the [`PDF3DStream`](../../aspose.pdf.annotations/pdf3dstream/) class. |
+| [PDF3DStream](pdf3dstream/)(Document, PDF3DArtwork) | Initializes a new instance of the `PDF3DStream` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Content](./content/) { get; set; } | Gets or sets the content. |
+| [Content](../../aspose.pdf.annotations/pdf3dstream/content/) { get; set; } | Gets or sets the content. |
 
 ### See Also
 

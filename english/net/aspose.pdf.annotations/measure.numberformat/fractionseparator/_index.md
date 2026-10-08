@@ -7,7 +7,7 @@ description: "NumberFormat property. Text that shall be used as the decimal posi
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/measure.numberformat/fractionseparator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.NumberFormat.FractionSeparator property
 
@@ -19,7 +19,7 @@ public string FractionSeparator { get; set; }
 
 ### See Also
 
-* class [Measure.NumberFormat](../)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 

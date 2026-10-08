@@ -8,7 +8,7 @@ type: docs
 weight: 1170
 url: "/net/aspose.pdf.annotations/sounddata/"
 keywords: "SoundData, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SoundData class
 
@@ -22,11 +22,11 @@ public sealed class SoundData
 
 | Name | Description |
 | --- | --- |
-| [Bits](./bits/) { get; set; } | Gets or sets the number of bits per sample value per channel. |
-| [Channels](./channels/) { get; set; } | Gets or sets the number of sound channels. |
-| [Contents](./contents/) { get; } | Gets stream of the sound to be played when the annotation is activated. |
-| [Encoding](./encoding/) { get; set; } | Gets or sets the encoding format for the sample data. |
-| [Rate](./rate/) { get; set; } | Gets or sets the sampling rate, in samples per second. |
+| [Bits](../../aspose.pdf.annotations/sounddata/bits/) { get; set; } | Gets or sets the number of bits per sample value per channel. |
+| [Channels](../../aspose.pdf.annotations/sounddata/channels/) { get; set; } | Gets or sets the number of sound channels. |
+| [Contents](../../aspose.pdf.annotations/sounddata/contents/) { get; } | Gets stream of the sound to be played when the annotation is activated. |
+| [Encoding](../../aspose.pdf.annotations/sounddata/encoding/) { get; set; } | Gets or sets the encoding format for the sample data. |
+| [Rate](../../aspose.pdf.annotations/sounddata/rate/) { get; set; } | Gets or sets the sampling rate, in samples per second. |
 
 ### See Also
 

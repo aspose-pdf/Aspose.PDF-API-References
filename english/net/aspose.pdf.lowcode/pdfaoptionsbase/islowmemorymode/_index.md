@@ -7,7 +7,7 @@ description: "PdfAOptionsBase property. Gets or sets a value indicating whether 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/islowmemorymode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAOptionsBase.IsLowMemoryMode property
 
@@ -19,7 +19,7 @@ public bool IsLowMemoryMode { get; set; }
 
 ### Property Value
 
- if low memory mode is enabled; otherwise, .
+`true` if low memory mode is enabled; otherwise, `false`.
 
 ### See Also
 

@@ -7,11 +7,11 @@ description: "GraphInfo property. Gets or sets a Color object that indicates the
 type: docs
 weight: 90
 url: "/net/aspose.pdf/graphinfo/fillcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphInfo.FillColor property
 
-Gets or sets a `Color` object that indicates the fill color of the graph.
+Gets or sets a [`Color`](../color/) object that indicates the fill color of the graph.
 
 ```csharp
 public Color FillColor { get; set; }
@@ -19,7 +19,7 @@ public Color FillColor { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
+* class [Color](../../color/)
 * class [GraphInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

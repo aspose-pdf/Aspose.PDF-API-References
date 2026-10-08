@@ -7,7 +7,7 @@ description: "TableTRElement property. Gets or sets default text state for row c
 type: docs
 weight: 100
 url: "/net/aspose.pdf.logicalstructure/tabletrelement/defaultcelltextstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TableTRElement.DefaultCellTextState property
 

@@ -7,7 +7,7 @@ description: "OptimizedMemoryStream method. Writes a byte to the current positio
 type: docs
 weight: 120
 url: "/net/aspose.pdf/optimizedmemorystream/writebyte/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizedMemoryStream.WriteByte method
 

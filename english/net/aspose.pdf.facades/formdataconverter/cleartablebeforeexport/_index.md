@@ -7,7 +7,7 @@ description: "FormDataConverter property. ExportFromData will clear table before
 type: docs
 weight: 120
 url: "/net/aspose.pdf.facades/formdataconverter/cleartablebeforeexport/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormDataConverter.ClearTableBeforeExport property
 

@@ -7,7 +7,7 @@ description: "PdfViewer method. Disposes the facade resources."
 type: docs
 weight: 320
 url: "/net/aspose.pdf.facades/pdfviewer/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.Dispose method
 

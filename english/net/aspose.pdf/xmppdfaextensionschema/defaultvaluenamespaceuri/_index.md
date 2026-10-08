@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionSchema field. Default value namespace uri."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/xmppdfaextensionschema/defaultvaluenamespaceuri/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchema.DefaultValueNamespaceUri field
 

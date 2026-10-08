@@ -7,7 +7,7 @@ description: "Cell property. Gets or sets the column width."
 type: docs
 weight: 170
 url: "/net/aspose.pdf/cell/width/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Cell.Width property
 

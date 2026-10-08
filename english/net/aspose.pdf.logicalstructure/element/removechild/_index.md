@@ -7,7 +7,7 @@ description: "Element method. Remove child at."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.logicalstructure/element/removechild/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Element.RemoveChild method
 

@@ -7,7 +7,7 @@ description: "PdfXmpMetadata property. Gets the dictionary of extension fields."
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/extensionfields/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata.ExtensionFields property
 
@@ -19,6 +19,7 @@ public IDictionary<string, XmpPdfAExtensionSchema> ExtensionFields { get; }
 
 ### See Also
 
+* class [XmpPdfAExtensionSchema](../../../aspose.pdf/xmppdfaextensionschema/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

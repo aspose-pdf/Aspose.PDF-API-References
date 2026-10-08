@@ -7,7 +7,7 @@ description: "RunThreadCreateRequest property. Gets or sets the ID of the assist
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/runthreadcreaterequest/assistantid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunThreadCreateRequest.AssistantId property
 

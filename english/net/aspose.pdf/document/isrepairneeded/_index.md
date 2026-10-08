@@ -7,7 +7,7 @@ description: "Document method. Checks if document requires Repair method call."
 type: docs
 weight: 880
 url: "/net/aspose.pdf/document/isrepairneeded/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.IsRepairNeeded method
 
@@ -27,6 +27,7 @@ Returns filled options to be used in Repair method
 
 ### See Also
 
+* class [RepairOptions](../../document.repairoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

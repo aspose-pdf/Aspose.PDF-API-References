@@ -7,11 +7,11 @@ description: "InvalidValueFormatException constructor. Initializes a new instanc
 type: docs
 weight: 10
 url: "/net/aspose.pdf/invalidvalueformatexception/invalidvalueformatexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## InvalidValueFormatException() {#constructor}
 
-Initializes a new instance of the [`InvalidValueFormatException`](../../../aspose.pdf/invalidvalueformatexception/) class.
+Initializes a new instance of the [`InvalidValueFormatException`](../) class.
 
 ```csharp
 public InvalidValueFormatException()

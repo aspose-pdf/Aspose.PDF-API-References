@@ -7,7 +7,7 @@ description: "WidgetAnnotation property. Gets or sets exportable flag of the fie
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/widgetannotation/exportable/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WidgetAnnotation.Exportable property
 

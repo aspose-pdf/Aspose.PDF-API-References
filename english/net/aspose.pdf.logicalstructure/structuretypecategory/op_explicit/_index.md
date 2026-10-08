@@ -7,11 +7,11 @@ description: "StructureTypeCategory method. Performs an explicit conversion from
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/structuretypecategory/op_explicit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeCategory Explicit operator
 
-Performs an explicit conversion from `String` to [`StructureTypeCategory`](../../../aspose.pdf.logicalstructure/structuretypecategory/).
+Performs an explicit conversion from `String` to [`StructureTypeCategory`](../).
 
 ```csharp
 public static explicit operator StructureTypeCategory(string name)
@@ -27,7 +27,7 @@ The result of the conversion.
 
 ### See Also
 
-* class [StructureTypeCategory](../../../aspose.pdf.logicalstructure/structuretypecategory/)
+* class [StructureTypeCategory](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

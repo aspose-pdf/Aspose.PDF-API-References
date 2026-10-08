@@ -7,7 +7,7 @@ description: "Metadata property. Gets namespace manager."
 type: docs
 weight: 270
 url: "/net/aspose.pdf/metadata/namespacemanager/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metadata.NamespaceManager property
 

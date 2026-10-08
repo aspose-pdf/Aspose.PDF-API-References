@@ -7,7 +7,7 @@ description: "TextStamp property. Gets or sets the word wrap mode for text rende
 type: docs
 weight: 70
 url: "/net/aspose.pdf/textstamp/wordwrapmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStamp.WordWrapMode property
 
@@ -19,7 +19,7 @@ public WordWrapMode WordWrapMode { get; set; }
 
 ### See Also
 
-* enum [WordWrapMode](../../../aspose.pdf.facades/wordwrapmode/)
+* enum [WordWrapMode](../../../aspose.pdf.text/textformattingoptions.wordwrapmode/)
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

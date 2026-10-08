@@ -7,7 +7,7 @@ description: "GlyphPosition property. Text of operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/glyphposition/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GlyphPosition.Text property
 

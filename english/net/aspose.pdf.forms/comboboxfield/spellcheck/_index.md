@@ -7,7 +7,7 @@ description: "ComboBoxField property. Gets or sets spellchaeck activiity status.
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/comboboxfield/spellcheck/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ComboBoxField.SpellCheck property
 

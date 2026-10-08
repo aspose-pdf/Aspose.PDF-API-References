@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Text.TextRenderingMode enum. The text rendering mode, T
 type: docs
 weight: 610
 url: "/net/aspose.pdf.text/textrenderingmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextRenderingMode enumeration
 

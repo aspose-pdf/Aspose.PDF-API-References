@@ -7,12 +7,12 @@ description: "FontEmbeddingOptions property. Indicates whether to substitute non
 type: docs
 weight: 20
 url: "/net/aspose.pdf/fontembeddingoptions/usedefaultsubstitution/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontEmbeddingOptions.UseDefaultSubstitution property
 
 Indicates whether to substitute non-embedded font using default font substitution strategy.
- Default value: .
+ Default value: `false`.
 
 ```csharp
 public bool UseDefaultSubstitution { get; set; }

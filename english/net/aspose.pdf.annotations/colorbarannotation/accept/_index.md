@@ -7,7 +7,7 @@ description: "ColorBarAnnotation method. Accepts visitor object to process the a
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/colorbarannotation/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ColorBarAnnotation.Accept method
 
@@ -23,7 +23,7 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [AnnotationSelector](../../annotationselector/)
 * class [ColorBarAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

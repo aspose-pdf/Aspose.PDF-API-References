@@ -7,7 +7,7 @@ description: "XImageCollection property. Returns true if object is synchronized.
 type: docs
 weight: 220
 url: "/net/aspose.pdf/ximagecollection/issynchronized/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XImageCollection.IsSynchronized property
 

@@ -7,7 +7,7 @@ description: "SignatureAlgorithmInfo method. Converts the current information ob
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/signaturealgorithminfo/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureAlgorithmInfo.ToString method
 

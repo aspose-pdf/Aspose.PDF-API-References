@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute RubyAlign: Justify - The content sh
 type: docs
 weight: 450
 url: "/net/aspose.pdf.logicalstructure/attributename/rubyalign_justify/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.RubyAlign_Justify field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName RubyAlign_Justify;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

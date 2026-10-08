@@ -7,7 +7,7 @@ description: "BaseOperatorCollection method. Suppresses update contents data. Th
 type: docs
 weight: 30
 url: "/net/aspose.pdf/baseoperatorcollection/suppressupdate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseOperatorCollection.SuppressUpdate method
 

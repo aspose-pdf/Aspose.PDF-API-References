@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Forms.ScalingMode enum. The type of scaling that shall 
 type: docs
 weight: 310
 url: "/net/aspose.pdf.forms/scalingmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ScalingMode enumeration
 

@@ -7,7 +7,7 @@ description: "ICustomSecurityHandler method. Check if the password belongs to th
 type: docs
 weight: 90
 url: "/net/aspose.pdf.security/icustomsecurityhandler/isuserpassword/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ICustomSecurityHandler.IsUserPassword method
 

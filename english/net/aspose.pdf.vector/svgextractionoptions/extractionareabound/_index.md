@@ -7,7 +7,7 @@ description: "SvgExtractionOptions property. Gets and sets the bounding rectangl
 type: docs
 weight: 50
 url: "/net/aspose.pdf.vector/svgextractionoptions/extractionareabound/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SvgExtractionOptions.ExtractionAreaBound property
 
@@ -19,7 +19,7 @@ public Rectangle ExtractionAreaBound { get; set; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [SvgExtractionOptions](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

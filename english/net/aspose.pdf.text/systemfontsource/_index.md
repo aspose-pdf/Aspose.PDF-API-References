@@ -8,7 +8,7 @@ type: docs
 weight: 340
 url: "/net/aspose.pdf.text/systemfontsource/"
 keywords: "SystemFontSource, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SystemFontSource class
 
@@ -22,13 +22,13 @@ public sealed class SystemFontSource : FontSource
 
 | Name | Description |
 | --- | --- |
-| [SystemFontSource](./systemfontsource/)() | The default constructor. |
+| [SystemFontSource](systemfontsource/)() | The default constructor. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](./equals/)(object) | Check if system font source objects are equal. |
+| override [Equals](../../aspose.pdf.text/systemfontsource/equals/)(object) | Check if system font source objects are equal. |
 
 ### See Also
 

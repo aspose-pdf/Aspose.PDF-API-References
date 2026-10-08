@@ -7,7 +7,7 @@ description: "CreateFineTuningJobResponse property. Gets or sets the list of res
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/createfinetuningjobresponse/resultfiles/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateFineTuningJobResponse.ResultFiles property
 

@@ -8,7 +8,7 @@ type: docs
 weight: 3300
 url: "/net/aspose.pdf/xmppdfaextensionvaluetype/"
 keywords: "XmpPdfAExtensionValueType, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionValueType class
 
@@ -29,28 +29,28 @@ public sealed class XmpPdfAExtensionValueType : XmpPdfAExtensionObject
 
 | Name | Description |
 | --- | --- |
-| [XmpPdfAExtensionValueType](./xmppdfaextensionvaluetype/)(string, string, string, string) | Initializes new object. |
+| [XmpPdfAExtensionValueType](xmppdfaextensionvaluetype/)(string, string, string, string) | Initializes new object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Description](../../aspose.pdf/xmppdfaextensionobject/description/) { get; } | Gets the description. |
-| [Fields](./fields/) { get; } | Gets the list of fields. |
-| [NamespaceUri](./namespaceuri/) { get; } | Gets the namespace URI. |
-| [Prefix](./prefix/) { get; } | Gets the prefix. |
-| [Type](./type/) { get; } | Gets the value type. |
+| [Fields](../../aspose.pdf/xmppdfaextensionvaluetype/fields/) { get; } | Gets the list of fields. |
+| [NamespaceUri](../../aspose.pdf/xmppdfaextensionvaluetype/namespaceuri/) { get; } | Gets the namespace URI. |
+| [Prefix](../../aspose.pdf/xmppdfaextensionvaluetype/prefix/) { get; } | Gets the prefix. |
+| [Type](../../aspose.pdf/xmppdfaextensionvaluetype/type/) { get; } | Gets the value type. |
 | [Value](../../aspose.pdf/xmppdfaextensionobject/value/) { get; set; } | Gets or sets the value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](./add/)(XmpPdfAExtensionField) | Add new field. |
-| [AddRange](./addrange/)(XmpPdfAExtensionField[]) | Adds the range of fields. |
-| [Clear](./clear/)() | Clears all fields. |
-| override [GetXml](./getxml/)(XmlDocument) | Returns the list of xml elements that represent value type in xml tree. |
-| [Remove](./remove/)(XmpPdfAExtensionField) | Removes the field from the list of fields. |
+| [Add](../../aspose.pdf/xmppdfaextensionvaluetype/add/)(XmpPdfAExtensionField) | Add new field. |
+| [AddRange](../../aspose.pdf/xmppdfaextensionvaluetype/addrange/)(XmpPdfAExtensionField[]) | Adds the range of fields. |
+| [Clear](../../aspose.pdf/xmppdfaextensionvaluetype/clear/)() | Clears all fields. |
+| override [GetXml](../../aspose.pdf/xmppdfaextensionvaluetype/getxml/)(XmlDocument) | Returns the list of xml elements that represent value type in xml tree. |
+| [Remove](../../aspose.pdf/xmppdfaextensionvaluetype/remove/)(XmpPdfAExtensionField) | Removes the field from the list of fields. |
 
 ### See Also
 

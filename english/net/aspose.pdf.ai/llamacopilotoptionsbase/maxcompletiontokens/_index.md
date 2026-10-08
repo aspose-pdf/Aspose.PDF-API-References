@@ -7,7 +7,7 @@ description: "LlamaCopilotOptionsBase property. Gets or sets the maximum number 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/llamacopilotoptionsbase/maxcompletiontokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LlamaCopilotOptionsBase.MaxCompletionTokens property
 

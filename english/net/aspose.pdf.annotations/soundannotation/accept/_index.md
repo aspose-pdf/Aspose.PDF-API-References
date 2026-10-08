@@ -7,7 +7,7 @@ description: "SoundAnnotation method. Accepts visitor object to process the anno
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/soundannotation/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SoundAnnotation.Accept method
 
@@ -23,7 +23,7 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [AnnotationSelector](../../annotationselector/)
 * class [SoundAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

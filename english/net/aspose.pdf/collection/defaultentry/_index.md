@@ -7,7 +7,7 @@ description: "Collection property. Default embedded file name."
 type: docs
 weight: 40
 url: "/net/aspose.pdf/collection/defaultentry/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Collection.DefaultEntry property
 

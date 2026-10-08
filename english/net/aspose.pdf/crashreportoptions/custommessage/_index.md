@@ -7,7 +7,7 @@ description: "CrashReportOptions property. Custom message to include into the re
 type: docs
 weight: 70
 url: "/net/aspose.pdf/crashreportoptions/custommessage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CrashReportOptions.CustomMessage property
 

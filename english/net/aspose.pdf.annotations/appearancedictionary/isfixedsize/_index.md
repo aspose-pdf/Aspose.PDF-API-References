@@ -7,7 +7,7 @@ description: "AppearanceDictionary property. Gets a value indicating whether dic
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/appearancedictionary/isfixedsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AppearanceDictionary.IsFixedSize property
 

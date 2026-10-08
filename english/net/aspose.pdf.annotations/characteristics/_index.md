@@ -8,7 +8,7 @@ type: docs
 weight: 200
 url: "/net/aspose.pdf.annotations/characteristics/"
 keywords: "Characteristics, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Characteristics class
 
@@ -22,9 +22,9 @@ public sealed class Characteristics
 
 | Name | Description |
 | --- | --- |
-| [Background](./background/) { get; set; } | Gets or sets color of the background |
-| [Border](./border/) { get; set; } | Gets or sets color of the border. |
-| [Rotate](./rotate/) { get; set; } | Gets or sets rotation of the annotation. |
+| [Background](../../aspose.pdf.annotations/characteristics/background/) { get; set; } | Gets or sets color of the background |
+| [Border](../../aspose.pdf.annotations/characteristics/border/) { get; set; } | Gets or sets color of the border. |
+| [Rotate](../../aspose.pdf.annotations/characteristics/rotate/) { get; set; } | Gets or sets rotation of the annotation. |
 
 ### See Also
 

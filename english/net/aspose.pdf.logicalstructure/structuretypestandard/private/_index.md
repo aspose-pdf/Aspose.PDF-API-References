@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Private element) A grouping element 
 type: docs
 weight: 160
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/private/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.Private field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard Private;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

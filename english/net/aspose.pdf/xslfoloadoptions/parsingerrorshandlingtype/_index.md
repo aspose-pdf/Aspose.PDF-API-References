@@ -7,7 +7,7 @@ description: "XslFoLoadOptions field. Source XSLFO document can contain formatti
 type: docs
 weight: 60
 url: "/net/aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XslFoLoadOptions.ParsingErrorsHandlingType field
 
@@ -19,6 +19,7 @@ public ParsingErrorsHandlingTypes ParsingErrorsHandlingType;
 
 ### See Also
 
+* enum [ParsingErrorsHandlingTypes](../../xslfoloadoptions.parsingerrorshandlingtypes/)
 * class [XslFoLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

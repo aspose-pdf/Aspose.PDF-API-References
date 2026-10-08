@@ -7,25 +7,25 @@ description: "OriginalFontSpecification property. Gets a value that indicates th
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/issubstitutionunavoidable/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CustomFontSubstitutionBase.OriginalFontSpecification.IsSubstitutionUnavoidable property
 
 Gets a value that indicates that the substitution is unavoidable.
 
-Returns true in case substitution was requested because of absence of the original font or in case original font cannot be used in context of some task.
- In case user ignores the flag and doesn't substitute the font - default font substitution procedure is performed.
- But it provides opportunity for the user to alternate standard font substitution procedure and set better font to the system.
- 
- Returns false in case original font is present, valid, but it is allowed for the user to substitute it.
-
 ```csharp
 public bool IsSubstitutionUnavoidable { get; }
 ```
 
+## Remarks
+
+Returns true in case substitution was requested because of absence of the original font or in case original font cannot be used in context of some task.
+ In case user ignores the flag and doesn't substitute the font - default font substitution procedure is performed.
+ But it provides opportunity for the user to alternate standard font substitution procedure and set better font to the system. Returns false in case original font is present, valid, but it is allowed for the user to substitute it.
+
 ### See Also
 
-* class [CustomFontSubstitutionBase.OriginalFontSpecification](../)
+* class [OriginalFontSpecification](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 

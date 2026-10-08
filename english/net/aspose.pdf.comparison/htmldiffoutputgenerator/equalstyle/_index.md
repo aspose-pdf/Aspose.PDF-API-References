@@ -7,7 +7,7 @@ description: "HtmlDiffOutputGenerator property. Gets and sets the CSS-style stri
 type: docs
 weight: 70
 url: "/net/aspose.pdf.comparison/htmldiffoutputgenerator/equalstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlDiffOutputGenerator.EqualStyle property
 

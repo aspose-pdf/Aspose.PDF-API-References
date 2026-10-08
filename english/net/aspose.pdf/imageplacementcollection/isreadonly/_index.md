@@ -7,7 +7,7 @@ description: "ImagePlacementCollection property. Gets a value indicating whether
 type: docs
 weight: 100
 url: "/net/aspose.pdf/imageplacementcollection/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagePlacementCollection.IsReadOnly property
 

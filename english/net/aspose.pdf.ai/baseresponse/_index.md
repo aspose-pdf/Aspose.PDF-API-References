@@ -8,7 +8,7 @@ type: docs
 weight: 140
 url: "/net/aspose.pdf.ai/baseresponse/"
 keywords: "BaseResponse, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseResponse class
 
@@ -22,13 +22,13 @@ public abstract class BaseResponse
 
 | Name | Description |
 | --- | --- |
-| [Detail](./detail/) { get; set; } | Gets or sets the response detail. |
-| [Error](./error/) { get; set; } | Gets or sets the HTTP response error. |
-| [ErrorMessage](./errormessage/) { get; } | Gets or sets the error information. |
-| [HttpResponseHeaders](./httpresponseheaders/) { get; set; } | Gets or sets the HTTP response headers. |
-| [HttpStatusCode](./httpstatuscode/) { get; set; } | Gets or sets the HTTP status code. |
-| [IsSuccessful](./issuccessful/) { get; } | Indicates if the response was successful. |
-| [ReasonPhrase](./reasonphrase/) { get; } | Gets the error reason phrase. |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | Gets or sets the response detail. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | Gets or sets the HTTP response error. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Gets or sets the error information. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Gets or sets the HTTP response headers. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Gets or sets the HTTP status code. |
+| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indicates if the response was successful. |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Gets the error reason phrase. |
 
 ### See Also
 

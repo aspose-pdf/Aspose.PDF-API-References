@@ -7,54 +7,9 @@ description: "TableAbsorber method. Extracts tables on the specified page"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/tableabsorber/visit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## Visit([Document](../../../aspose.pdf/document/)) {#visit}
-
-Extracts tables in the specified document.
-
-```csharp
-public void Visit(Document pdf)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pdf | Document | Pdf pocument object. |
-
-## Examples
-
-The example demonstrates how to extract table on the first PDF document page.
-
-```csharp
-// Open document
-Document doc = new Document(@"D:\Tests\input.pdf");
-
-// Create TableAbsorber object to find tables
-TableAbsorber absorber = new TableAbsorber();
-
-// Visit first page with absorber
-absorber.Visit(doc);
-
-// Get access to first table on page, their first cell and text fragments in it
-TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
-
-// Change text of the first text fragment in the cell
-fragment.Text = "hi world";
-
-// Save document
-doc.Save(@"D:\Tests\output.pdf");
-```
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [TableAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## Visit([Page](../../../aspose.pdf/page/)) {#visit_1}
+## Visit(Page) {#visit}
 
 Extracts tables on the specified page
 
@@ -93,6 +48,51 @@ doc.Save(@"D:\Tests\output.pdf");
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Visit(Document) {#visit_1}
+
+Extracts tables in the specified document.
+
+```csharp
+public void Visit(Document pdf)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdf | Document | Pdf pocument object. |
+
+## Examples
+
+The example demonstrates how to extract table on the first PDF document page.
+
+```csharp
+// Open document
+Document doc = new Document(@"D:\Tests\input.pdf");
+
+// Create TableAbsorber object to find tables
+TableAbsorber absorber = new TableAbsorber();
+
+// Visit first page with absorber
+absorber.Visit(doc);
+
+// Get access to first table on page, their first cell and text fragments in it
+TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragments[1];
+
+// Change text of the first text fragment in the cell
+fragment.Text = "hi world";
+
+// Save document
+doc.Save(@"D:\Tests\output.pdf");
+```
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

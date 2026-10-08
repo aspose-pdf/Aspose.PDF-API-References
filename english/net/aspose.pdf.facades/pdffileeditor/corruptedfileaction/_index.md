@@ -7,7 +7,7 @@ description: "PdfFileEditor property. This property defines behavior when concat
 type: docs
 weight: 1110
 url: "/net/aspose.pdf.facades/pdffileeditor/corruptedfileaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.CorruptedFileAction property
 
@@ -20,6 +20,7 @@ public ConcatenateCorruptedFileAction CorruptedFileAction { get; set; }
 
 ### See Also
 
+* enum [ConcatenateCorruptedFileAction](../../pdffileeditor.concatenatecorruptedfileaction/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

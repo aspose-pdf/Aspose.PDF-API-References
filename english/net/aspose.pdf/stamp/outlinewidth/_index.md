@@ -7,7 +7,7 @@ description: "Stamp property. Gets or sets a value of the stamp outline width. B
 type: docs
 weight: 70
 url: "/net/aspose.pdf/stamp/outlinewidth/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.OutlineWidth property
 

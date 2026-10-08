@@ -7,7 +7,7 @@ description: "Rectangle property. Checks if rectangle is point i.e. LLX is equal
 type: docs
 weight: 310
 url: "/net/aspose.pdf/rectangle/ispoint/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.IsPoint property
 

@@ -7,7 +7,7 @@ description: "UnsignedContent property. Gets a dictionary of modified annotation
 type: docs
 weight: 40
 url: "/net/aspose.pdf.security/unsignedcontentabsorber.unsignedcontent/annotations/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnsignedContentAbsorber.UnsignedContent.Annotations property
 
@@ -19,7 +19,8 @@ public Dictionary<int, Annotation> Annotations { get; }
 
 ### See Also
 
-* class [UnsignedContentAbsorber.UnsignedContent](../)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [UnsignedContent](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
 

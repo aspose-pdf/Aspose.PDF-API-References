@@ -7,7 +7,7 @@ description: "Cell property. Gets or sets the padding."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/cell/margin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Cell.Margin property
 
@@ -19,7 +19,7 @@ public MarginInfo Margin { get; set; }
 
 ### See Also
 
-* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [MarginInfo](../../margininfo/)
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

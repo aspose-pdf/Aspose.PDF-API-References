@@ -7,7 +7,7 @@ description: "OpenAIChatCopilotOptions method. Sets the model for the chat copil
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withmodel/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIChatCopilotOptions.WithModel method
 
@@ -23,11 +23,11 @@ public OpenAIChatCopilotOptions WithModel(string model)
 
 ### Return Value
 
-The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
+The current instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

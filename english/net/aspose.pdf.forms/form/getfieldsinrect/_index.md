@@ -7,7 +7,7 @@ description: "Form method. Returns fields inside of specified rectangle."
 type: docs
 weight: 150
 url: "/net/aspose.pdf.forms/form/getfieldsinrect/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.GetFieldsInRect method
 
@@ -27,8 +27,8 @@ Array with found fields.
 
 ### See Also
 
-* class [Field](../../../aspose.pdf.forms/field/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Field](../../field/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

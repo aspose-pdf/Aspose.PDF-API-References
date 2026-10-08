@@ -7,7 +7,7 @@ description: "AbsorbedCell property. Return the border information for the cell 
 type: docs
 weight: 50
 url: "/net/aspose.pdf.text/absorbedcell/borderinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AbsorbedCell.BorderInfo property
 

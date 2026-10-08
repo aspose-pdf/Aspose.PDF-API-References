@@ -7,7 +7,7 @@ description: "ThreadModifyRequest constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/threadmodifyrequest/threadmodifyrequest/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadModifyRequest constructor
 

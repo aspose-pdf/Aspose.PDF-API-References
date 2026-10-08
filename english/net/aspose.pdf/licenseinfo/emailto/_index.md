@@ -7,7 +7,7 @@ description: "LicenseInfo property. Gets the email address used to license."
 type: docs
 weight: 10
 url: "/net/aspose.pdf/licenseinfo/emailto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LicenseInfo.EmailTo property
 

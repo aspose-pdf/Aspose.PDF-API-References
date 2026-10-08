@@ -7,7 +7,7 @@ description: "TextFragment property. Gets or sets the paragraph end note.(for pd
 type: docs
 weight: 210
 url: "/net/aspose.pdf.text/textfragment/endnote/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragment.EndNote property
 

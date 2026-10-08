@@ -7,7 +7,7 @@ description: "Row method. Clone the row."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/row/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Row.Clone method
 

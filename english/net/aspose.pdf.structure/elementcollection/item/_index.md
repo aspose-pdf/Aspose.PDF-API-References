@@ -7,7 +7,7 @@ description: "ElementCollection property. Gets Element by index."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.structure/elementcollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ElementCollection indexer
 
@@ -27,7 +27,7 @@ Retreived element.
 
 ### See Also
 
-* class [Element](../../../aspose.pdf.structure/element/)
+* class [Element](../../element/)
 * class [ElementCollection](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "Shape property. Gets or sets a text for shape"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.drawing/shape/text/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Shape.Text property
 

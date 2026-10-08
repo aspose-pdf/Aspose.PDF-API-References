@@ -7,7 +7,7 @@ description: "Form method. Get a Rich Text field's value, including the formatti
 type: docs
 weight: 330
 url: "/net/aspose.pdf.facades/form/getrichtext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.GetRichText method
 

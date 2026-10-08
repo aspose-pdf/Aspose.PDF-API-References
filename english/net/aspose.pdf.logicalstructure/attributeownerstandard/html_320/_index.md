@@ -7,7 +7,7 @@ description: "AttributeOwnerStandard field. HTML-3.20 attribute owner."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/html_320/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeOwnerStandard.Html_320 field
 
@@ -19,7 +19,7 @@ public static readonly AttributeOwnerStandard Html_320;
 
 ### See Also
 
-* class [AttributeOwnerStandard](../../../aspose.pdf.logicalstructure/attributeownerstandard/)
+* class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

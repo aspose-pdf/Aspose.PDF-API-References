@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute LineHeight: Auto - Adjustment for t
 type: docs
 weight: 370
 url: "/net/aspose.pdf.logicalstructure/attributename/lineheight_auto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.LineHeight_Auto field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName LineHeight_Auto;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

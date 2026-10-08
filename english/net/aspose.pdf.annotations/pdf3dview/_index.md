@@ -8,7 +8,7 @@ type: docs
 weight: 860
 url: "/net/aspose.pdf.annotations/pdf3dview/"
 keywords: "PDF3DView, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DView class
 
@@ -22,20 +22,20 @@ public class PDF3DView
 
 | Name | Description |
 | --- | --- |
-| [PDF3DView](./pdf3dview/#constructor)(Document, PDF3DView, string) | Initializes a new instance of the [`PDF3DView`](../../aspose.pdf.annotations/pdf3dview/) class. |
-| [PDF3DView](./pdf3dview/#constructor_1)(Document, Matrix3D, double, string) | Initializes a new instance of the [`PDF3DView`](../../aspose.pdf.annotations/pdf3dview/) class. |
+| [PDF3DView](pdf3dview/#constructor)(Document, Matrix3D, double, string) | Initializes a new instance of the `PDF3DView` class. |
+| [PDF3DView](pdf3dview/#constructor_1)(Document, PDF3DView, string) | Initializes a new instance of the `PDF3DView` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BackGroundColor](./backgroundcolor/) { get; set; } | Gets or sets the color of the back ground of view. |
-| [CameraOrbit](./cameraorbit/) { get; set; } | Gets or sets the camera orbit of view. |
-| [CameraPosition](./cameraposition/) { get; set; } | Gets or sets the camera position of view. |
-| [CrossSectionsArray](./crosssectionsarray/) { get; } | Gets the cross sections array of view. |
-| [LightingScheme](./lightingscheme/) { get; set; } | Gets or sets the lighting scheme of view. |
-| [RenderMode](./rendermode/) { get; set; } | Gets or sets the render mode of view. |
-| [ViewName](./viewname/) { get; set; } | Gets or sets the name of the view. |
+| [BackGroundColor](../../aspose.pdf.annotations/pdf3dview/backgroundcolor/) { get; set; } | Gets or sets the color of the back ground of view. |
+| [CameraOrbit](../../aspose.pdf.annotations/pdf3dview/cameraorbit/) { get; set; } | Gets or sets the camera orbit of view. |
+| [CameraPosition](../../aspose.pdf.annotations/pdf3dview/cameraposition/) { get; set; } | Gets or sets the camera position of view. |
+| [CrossSectionsArray](../../aspose.pdf.annotations/pdf3dview/crosssectionsarray/) { get; } | Gets the cross sections array of view. |
+| [LightingScheme](../../aspose.pdf.annotations/pdf3dview/lightingscheme/) { get; set; } | Gets or sets the lighting scheme of view. |
+| [RenderMode](../../aspose.pdf.annotations/pdf3dview/rendermode/) { get; set; } | Gets or sets the render mode of view. |
+| [ViewName](../../aspose.pdf.annotations/pdf3dview/viewname/) { get; set; } | Gets or sets the name of the view. |
 
 ### See Also
 

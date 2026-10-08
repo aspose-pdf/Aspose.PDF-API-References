@@ -7,7 +7,7 @@ description: "AttributeKey field. RubyPosition attribute (Layout attribute owner
 type: docs
 weight: 320
 url: "/net/aspose.pdf.logicalstructure/attributekey/rubyposition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.RubyPosition field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey RubyPosition;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

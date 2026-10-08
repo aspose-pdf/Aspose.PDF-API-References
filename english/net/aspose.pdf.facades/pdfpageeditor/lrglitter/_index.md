@@ -7,7 +7,7 @@ description: "PdfPageEditor field. Left-Right Glitter"
 type: docs
 weight: 340
 url: "/net/aspose.pdf.facades/pdfpageeditor/lrglitter/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.LRGLITTER field
 

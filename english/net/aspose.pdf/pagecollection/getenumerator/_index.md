@@ -7,7 +7,7 @@ description: "PageCollection method. Returns enumerator of pages."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/pagecollection/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollection.GetEnumerator method
 
@@ -23,6 +23,7 @@ Enumerator of pages
 
 ### See Also
 
+* class [Page](../../page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

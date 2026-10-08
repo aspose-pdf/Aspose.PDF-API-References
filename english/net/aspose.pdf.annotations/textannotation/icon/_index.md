@@ -7,7 +7,7 @@ description: "TextAnnotation property. Gets or sets an icon to be used in displa
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/textannotation/icon/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextAnnotation.Icon property
 
@@ -19,7 +19,7 @@ public TextIcon Icon { get; set; }
 
 ### See Also
 
-* enum [TextIcon](../../../aspose.pdf.annotations/texticon/)
+* enum [TextIcon](../../texticon/)
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

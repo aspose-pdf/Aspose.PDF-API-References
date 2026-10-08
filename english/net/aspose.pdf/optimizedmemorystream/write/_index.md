@@ -7,7 +7,7 @@ description: "OptimizedMemoryStream method. When overridden in a derived class, 
 type: docs
 weight: 110
 url: "/net/aspose.pdf/optimizedmemorystream/write/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OptimizedMemoryStream.Write method
 

@@ -7,7 +7,7 @@ description: "RichTextBoxField constructor. Constructor for Rich Text Box field.
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/richtextboxfield/richtextboxfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RichTextBoxField constructor
 
@@ -25,7 +25,7 @@ public RichTextBoxField(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [RichTextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

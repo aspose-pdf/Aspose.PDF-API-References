@@ -7,11 +7,11 @@ description: "DictionaryEditor property. Gets the number of elements contained i
 type: docs
 weight: 170
 url: "/net/aspose.pdf.dataeditor/dictionaryeditor/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DictionaryEditor.Count property
 
-Gets the number of elements contained in the [`DictionaryEditor`](../../../aspose.pdf.dataeditor/dictionaryeditor/).
+Gets the number of elements contained in the [`DictionaryEditor`](../).
 
 ```csharp
 public int Count { get; }

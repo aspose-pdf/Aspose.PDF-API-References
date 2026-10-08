@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. Level 4 Heading, for use in conformin
 type: docs
 weight: 220
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/h4/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.H4 field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard H4;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

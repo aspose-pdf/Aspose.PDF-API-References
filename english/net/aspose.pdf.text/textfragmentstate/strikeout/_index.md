@@ -7,11 +7,11 @@ description: "TextFragmentState property. Gets or sets strikeout for the text, r
 type: docs
 weight: 190
 url: "/net/aspose.pdf.text/textfragmentstate/strikeout/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentState.StrikeOut property
 
-Gets or sets strikeout for the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object
+Gets or sets strikeout for the text, represented by the [`TextFragment`](../../textfragment/) object
 
 ```csharp
 public override bool StrikeOut { get; set; }

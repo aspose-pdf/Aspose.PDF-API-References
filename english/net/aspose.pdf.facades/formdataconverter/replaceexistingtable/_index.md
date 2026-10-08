@@ -7,7 +7,7 @@ description: "FormDataConverter property. ImportIntoDatabase will drop existing 
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/formdataconverter/replaceexistingtable/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormDataConverter.ReplaceExistingTable property
 

@@ -7,7 +7,7 @@ description: "PdfFileStamp property. Keeps security if true. (This feature will 
 type: docs
 weight: 280
 url: "/net/aspose.pdf.facades/pdffilestamp/keepsecurity/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileStamp.KeepSecurity property
 

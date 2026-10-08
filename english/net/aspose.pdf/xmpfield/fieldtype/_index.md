@@ -7,7 +7,7 @@ description: "XmpField property. Gets the type of the field."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/xmpfield/fieldtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpField.FieldType property
 
@@ -23,7 +23,7 @@ The type of the field.
 
 ### See Also
 
-* enum [XmpFieldType](../../../aspose.pdf/xmpfieldtype/)
+* enum [XmpFieldType](../../xmpfieldtype/)
 * class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

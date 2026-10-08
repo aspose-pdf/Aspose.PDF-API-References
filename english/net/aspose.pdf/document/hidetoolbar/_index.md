@@ -7,7 +7,7 @@ description: "Document property. Gets or sets flag specifying whether toolbar sh
 type: docs
 weight: 1260
 url: "/net/aspose.pdf/document/hidetoolbar/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.HideToolBar property
 

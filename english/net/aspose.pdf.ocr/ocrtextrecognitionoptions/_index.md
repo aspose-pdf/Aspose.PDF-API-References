@@ -8,11 +8,11 @@ type: docs
 weight: 40
 url: "/net/aspose.pdf.ocr/ocrtextrecognitionoptions/"
 keywords: "OcrTextRecognitionOptions, Aspose.Pdf.Ocr, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OcrTextRecognitionOptions class
 
-Options for [`OcrTextAbsorber`](../../aspose.pdf.ocr/ocrtextabsorber/).
+Options for [`OcrTextAbsorber`](../ocrtextabsorber/).
 
 ```csharp
 public sealed class OcrTextRecognitionOptions
@@ -22,15 +22,15 @@ public sealed class OcrTextRecognitionOptions
 
 | Name | Description |
 | --- | --- |
-| [OcrTextRecognitionOptions](./ocrtextrecognitionoptions/)() | The default constructor. |
+| [OcrTextRecognitionOptions](ocrtextrecognitionoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Language](./language/) { get; set; } | Gets or sets the recognition language. Defaults to `English`. |
-| [PageSeparator](./pageseparator/) { get; set; } | Gets or sets the string inserted between recognized texts of consecutive pages. Defaults to `"\n\n"`. |
-| [Resolution](./resolution/) { get; set; } | Gets or sets the rendering resolution, in DPI. Defaults to `300`. |
+| [Language](../../aspose.pdf.ocr/ocrtextrecognitionoptions/language/) { get; set; } | Gets or sets the recognition language. Defaults to English. |
+| [PageSeparator](../../aspose.pdf.ocr/ocrtextrecognitionoptions/pageseparator/) { get; set; } | Gets or sets the string inserted between recognized texts of consecutive pages. Defaults to `"\n\n"`. |
+| [Resolution](../../aspose.pdf.ocr/ocrtextrecognitionoptions/resolution/) { get; set; } | Gets or sets the rendering resolution, in DPI. Defaults to `300`. |
 
 ### See Also
 

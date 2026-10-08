@@ -7,7 +7,7 @@ description: "PdfFileSanitization method. Removes old xref with trailer and crea
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/pdffilesanitization/rebuildxrefandtrailer/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSanitization.RebuildXrefAndTrailer method
 

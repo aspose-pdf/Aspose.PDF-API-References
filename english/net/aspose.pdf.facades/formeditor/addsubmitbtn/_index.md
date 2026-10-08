@@ -7,7 +7,7 @@ description: "FormEditor method. Add submit button on the form."
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/formeditor/addsubmitbtn/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.AddSubmitBtn method
 

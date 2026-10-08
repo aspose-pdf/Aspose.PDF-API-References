@@ -7,7 +7,7 @@ description: "ThumbnailDevice method. Converts the page into thumbnail image png
 type: docs
 weight: 30
 url: "/net/aspose.pdf.devices/thumbnaildevice/process/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThumbnailDevice.Process method
 

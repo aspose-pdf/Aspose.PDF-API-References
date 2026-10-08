@@ -7,7 +7,7 @@ description: "Dash property. Gets or sets length of first gap between dashes."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/dash/off/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Dash.Off property
 

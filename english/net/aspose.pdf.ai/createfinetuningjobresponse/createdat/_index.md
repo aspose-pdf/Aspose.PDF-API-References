@@ -7,7 +7,7 @@ description: "CreateFineTuningJobResponse property. Gets or sets the Unix timest
 type: docs
 weight: 50
 url: "/net/aspose.pdf.ai/createfinetuningjobresponse/createdat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CreateFineTuningJobResponse.CreatedAt property
 

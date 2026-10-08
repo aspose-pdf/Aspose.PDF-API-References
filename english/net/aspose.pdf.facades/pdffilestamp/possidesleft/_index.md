@@ -7,7 +7,7 @@ description: "PdfFileStamp field. Left position."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.facades/pdffilestamp/possidesleft/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileStamp.PosSidesLeft field
 

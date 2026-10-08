@@ -8,7 +8,7 @@ type: docs
 weight: 740
 url: "/net/aspose.pdf.annotations/namedaction/"
 keywords: "NamedAction, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## NamedAction class
 
@@ -22,13 +22,13 @@ public sealed class NamedAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [NamedAction](./namedaction/)(PredefinedAction) | Constructor for Named Action class. |
+| [NamedAction](namedaction/)(PredefinedAction) | Constructor for Named Action class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Name](./name/) { get; set; } | Gets or sets the action to be performed. |
+| [Name](../../aspose.pdf.annotations/namedaction/name/) { get; set; } | Gets or sets the action to be performed. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 
 ## Methods

@@ -7,7 +7,7 @@ description: "GS method. Returns string representation of operator."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.operators/gs/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GS.ToString method
 

@@ -7,7 +7,7 @@ description: "Aspose.Pdf.NumberingStyle enum. Enumeration of supported page numb
 type: docs
 weight: 1930
 url: "/net/aspose.pdf/numberingstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## NumberingStyle enumeration
 

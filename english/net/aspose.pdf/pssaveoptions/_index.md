@@ -8,7 +8,7 @@ type: docs
 weight: 2590
 url: "/net/aspose.pdf/pssaveoptions/"
 keywords: "PsSaveOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PsSaveOptions class
 
@@ -22,8 +22,8 @@ public class PsSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [PsSaveOptions](./pssaveoptions/#constructor)() | Constructor. |
-| [PsSaveOptions](./pssaveoptions/#constructor_1)(SaveFormat) | Constructor. |
+| [PsSaveOptions](pssaveoptions/#constructor)() | Constructor. |
+| [PsSaveOptions](pssaveoptions/#constructor_1)(SaveFormat) | Constructor. |
 
 ## Properties
 
@@ -31,8 +31,8 @@ public class PsSaveOptions : UnifiedSaveOptions
 | --- | --- |
 | [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Gets or sets boolean value which indicates if will font glyphs be cached while preparing aps pages. Improves performance of conversion pdf to other formats but increases memory consumption. |
 | [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
-| [EmbedFont](./embedfont/) { get; set; } | Gets/sets flag that indicates if fonts must be embedded in resulting PS document. |
-| [EmbedFontAs](./embedfontas/) { get; set; } | Gets/sets type in which fonts must be embedded in resulting PS document. |
+| [EmbedFont](../../aspose.pdf/pssaveoptions/embedfont/) { get; set; } | Gets/sets flag that indicates if fonts must be embedded in resulting PS document. |
+| [EmbedFontAs](../../aspose.pdf/pssaveoptions/embedfontas/) { get; set; } | Gets/sets type in which fonts must be embedded in resulting PS document. |
 | [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | This atrribute turned on functionality for extracting image or text for PDF documents with OCR sublayer. |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format of data save. |
 | [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |

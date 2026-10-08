@@ -7,7 +7,7 @@ description: "Form method. Adds additional appearance of the field to specified 
 type: docs
 weight: 90
 url: "/net/aspose.pdf.forms/form/addfieldappearance/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.AddFieldAppearance method
 
@@ -25,8 +25,8 @@ public void AddFieldAppearance(Field field, int pageNumber, Rectangle rect)
 
 ### See Also
 
-* class [Field](../../../aspose.pdf.forms/field/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Field](../../field/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

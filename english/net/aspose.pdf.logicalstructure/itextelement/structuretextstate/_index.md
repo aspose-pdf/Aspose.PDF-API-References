@@ -7,11 +7,11 @@ description: "ITextElement property. Gets StructureTextState object for text str
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/itextelement/structuretextstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITextElement.StructureTextState property
 
-Gets [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) object for text structure element.
+Gets [`StructureTextState`](../../structuretextstate/) object for text structure element.
 
 ```csharp
 public StructureTextState StructureTextState { get; }
@@ -19,11 +19,11 @@ public StructureTextState StructureTextState { get; }
 
 ### Property Value
 
-[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) object for text structure element.
+[`StructureTextState`](../../structuretextstate/) object for text structure element.
 
 ### See Also
 
-* class [StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/)
+* class [StructureTextState](../../structuretextstate/)
 * interface [ITextElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

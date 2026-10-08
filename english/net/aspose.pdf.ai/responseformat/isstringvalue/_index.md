@@ -7,7 +7,7 @@ description: "ResponseFormat property. Gets a value indicating whether the respo
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/responseformat/isstringvalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ResponseFormat.IsStringValue property
 

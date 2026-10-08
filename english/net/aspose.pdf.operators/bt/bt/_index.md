@@ -7,7 +7,7 @@ description: "BT constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/bt/bt/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BT constructor
 

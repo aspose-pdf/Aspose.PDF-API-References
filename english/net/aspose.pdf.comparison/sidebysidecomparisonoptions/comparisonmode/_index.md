@@ -7,7 +7,7 @@ description: "SideBySideComparisonOptions property. Gets and sets a comparison m
 type: docs
 weight: 20
 url: "/net/aspose.pdf.comparison/sidebysidecomparisonoptions/comparisonmode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SideBySideComparisonOptions.ComparisonMode property
 
@@ -20,7 +20,7 @@ public ComparisonMode ComparisonMode { get; set; }
 
 ### See Also
 
-* enum [ComparisonMode](../../../aspose.pdf.comparison/comparisonmode/)
+* enum [ComparisonMode](../../comparisonmode/)
 * class [SideBySideComparisonOptions](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

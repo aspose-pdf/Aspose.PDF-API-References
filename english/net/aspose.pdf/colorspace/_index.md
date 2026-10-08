@@ -7,7 +7,7 @@ description: "Aspose.Pdf.ColorSpace enum. The color spaces enumeration."
 type: docs
 weight: 380
 url: "/net/aspose.pdf/colorspace/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ColorSpace enumeration
 

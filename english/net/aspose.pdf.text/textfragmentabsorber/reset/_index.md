@@ -7,11 +7,11 @@ description: "TextFragmentAbsorber method. Clears TextFragments collection of th
 type: docs
 weight: 160
 url: "/net/aspose.pdf.text/textfragmentabsorber/reset/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentAbsorber.Reset method
 
-Clears TextFragments collection of this [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) object.
+Clears TextFragments collection of this [`TextFragmentAbsorber`](../) object.
 
 ```csharp
 public void Reset()

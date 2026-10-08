@@ -7,7 +7,7 @@ description: "FormFieldOptions property. Gets/sets the value to determine whethe
 type: docs
 weight: 170
 url: "/net/aspose.pdf.lowcode/formfieldoptions/fitintorectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldOptions.FitIntoRectangle property
 

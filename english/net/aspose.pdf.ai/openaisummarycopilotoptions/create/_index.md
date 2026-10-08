@@ -7,11 +7,11 @@ description: "OpenAISummaryCopilotOptions method. Creates a new instance of Open
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/create/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Create() {#create}
 
-Creates a new instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
+Creates a new instance of [`OpenAISummaryCopilotOptions`](../).
 
 ```csharp
 public static OpenAISummaryCopilotOptions Create()
@@ -19,19 +19,19 @@ public static OpenAISummaryCopilotOptions Create()
 
 ### Return Value
 
-A new instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
+A new instance of [`OpenAISummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Create(Action<OpenAISummaryCopilotOptions>) {#create_1}
+## Create(Action&lt;OpenAISummaryCopilotOptions&gt;) {#create_1}
 
-Creates an instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/) and configures it using the provided delegate.
+Creates an instance of [`OpenAISummaryCopilotOptions`](../) and configures it using the provided delegate.
 
 ```csharp
 public static OpenAISummaryCopilotOptions Create(Action<OpenAISummaryCopilotOptions> config)
@@ -43,11 +43,11 @@ public static OpenAISummaryCopilotOptions Create(Action<OpenAISummaryCopilotOpti
 
 ### Return Value
 
-The configured instance of [`OpenAISummaryCopilotOptions`](../../../aspose.pdf.ai/openaisummarycopilotoptions/).
+The configured instance of [`OpenAISummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAISummaryCopilotOptions](../../../aspose.pdf.ai/openaisummarycopilotoptions/)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

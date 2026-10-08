@@ -7,7 +7,7 @@ description: "StructureElement method. Clear ID for structure element."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.logicalstructure/structureelement/clearid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureElement.ClearId method
 

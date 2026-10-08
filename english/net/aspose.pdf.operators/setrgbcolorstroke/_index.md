@@ -8,7 +8,7 @@ type: docs
 weight: 720
 url: "/net/aspose.pdf.operators/setrgbcolorstroke/"
 keywords: "SetRGBColorStroke, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetRGBColorStroke class
 
@@ -22,27 +22,26 @@ public class SetRGBColorStroke : SetColorOperator
 
 | Name | Description |
 | --- | --- |
-| [SetRGBColorStroke](./setrgbcolorstroke/#constructor)(Color) | Initializes operator with color. |
-| [SetRGBColorStroke](./setrgbcolorstroke/#constructor_1)(double, double, double) | Initializes operator. |
+| [SetRGBColorStroke](setrgbcolorstroke/#constructor)(double, double, double) | Initializes operator. |
+| [SetRGBColorStroke](setrgbcolorstroke/#constructor_1)(Color) | Initializes operator with color. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [B](./b/) { get; set; } | Gets or sets the blue component. |
-| [G](./g/) { get; set; } | Gets or sets the green component. |
+| [B](../../aspose.pdf.operators/setrgbcolorstroke/b/) { get; set; } | Gets or sets the blue component. |
+| [G](../../aspose.pdf.operators/setrgbcolorstroke/g/) { get; set; } | Gets or sets the green component. |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [R](./r/) { get; set; } | Gets or sets the red component. |
+| [R](../../aspose.pdf.operators/setrgbcolorstroke/r/) { get; set; } | Gets or sets the red component. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/setrgbcolorstroke/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/setrgbcolorstroke/tostring/)() | Returns text representation of operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
-| override [getColor](./getcolor/)() | Returns color specified by operator. |
+| override [getColor](../../aspose.pdf.operators/setrgbcolorstroke/getcolor/)() | Returns color specified by operator. |
 
 ### See Also
 

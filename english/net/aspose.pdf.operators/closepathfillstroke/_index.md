@@ -8,7 +8,7 @@ type: docs
 weight: 130
 url: "/net/aspose.pdf.operators/closepathfillstroke/"
 keywords: "ClosePathFillStroke, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ClosePathFillStroke class
 
@@ -22,7 +22,7 @@ public class ClosePathFillStroke : Operator
 
 | Name | Description |
 | --- | --- |
-| [ClosePathFillStroke](./closepathfillstroke/)() | Initializes operator. |
+| [ClosePathFillStroke](closepathfillstroke/)() | Initializes operator. |
 
 ## Properties
 
@@ -34,9 +34,8 @@ public class ClosePathFillStroke : Operator
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
-| override [ToString](./tostring/)() | Returns string representation of operator. |
+| override [Accept](../../aspose.pdf.operators/closepathfillstroke/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/closepathfillstroke/tostring/)() | Returns string representation of operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also

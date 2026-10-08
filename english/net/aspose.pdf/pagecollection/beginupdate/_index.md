@@ -7,7 +7,7 @@ description: "PageCollection method. Updates when group changes begin. Stops pag
 type: docs
 weight: 60
 url: "/net/aspose.pdf/pagecollection/beginupdate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageCollection.BeginUpdate method
 

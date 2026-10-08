@@ -7,11 +7,11 @@ description: "PdfOutputGenerator constructor. Cteates an instance of PdfOutputGe
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/pdfoutputgenerator/pdfoutputgenerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfOutputGenerator() {#constructor}
 
-Cteates an instance of [`PdfOutputGenerator`](../../../aspose.pdf.comparison/pdfoutputgenerator/) class.
+Cteates an instance of [`PdfOutputGenerator`](../) class.
 
 ```csharp
 public PdfOutputGenerator()
@@ -25,30 +25,9 @@ public PdfOutputGenerator()
 
 ---
 
-## PdfOutputGenerator([OutputTextStyle](../../../aspose.pdf.comparison/outputtextstyle/)) {#constructor_1}
+## PdfOutputGenerator(PageInfo) {#constructor_1}
 
-Cteates an instance of [`PdfOutputGenerator`](../../../aspose.pdf.comparison/pdfoutputgenerator/) class.
-
-```csharp
-public PdfOutputGenerator(OutputTextStyle textStyle)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| textStyle | OutputTextStyle | The styles for the changed text. |
-
-### See Also
-
-* class [OutputTextStyle](../../../aspose.pdf.comparison/outputtextstyle/)
-* class [PdfOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## PdfOutputGenerator([PageInfo](../../../aspose.pdf/pageinfo/)) {#constructor_2}
-
-Cteates an instance of [`PdfOutputGenerator`](../../../aspose.pdf.comparison/pdfoutputgenerator/) class.
+Cteates an instance of [`PdfOutputGenerator`](../) class.
 
 ```csharp
 public PdfOutputGenerator(PageInfo pageInfo)
@@ -67,9 +46,30 @@ public PdfOutputGenerator(PageInfo pageInfo)
 
 ---
 
-## PdfOutputGenerator([OutputTextStyle](../../../aspose.pdf.comparison/outputtextstyle/), [PageInfo](../../../aspose.pdf/pageinfo/)) {#constructor_3}
+## PdfOutputGenerator(OutputTextStyle) {#constructor_2}
 
-Cteates an instance of [`PdfOutputGenerator`](../../../aspose.pdf.comparison/pdfoutputgenerator/) class.
+Cteates an instance of [`PdfOutputGenerator`](../) class.
+
+```csharp
+public PdfOutputGenerator(OutputTextStyle textStyle)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| textStyle | OutputTextStyle | The styles for the changed text. |
+
+### See Also
+
+* class [OutputTextStyle](../../outputtextstyle/)
+* class [PdfOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## PdfOutputGenerator(OutputTextStyle, PageInfo) {#constructor_3}
+
+Cteates an instance of [`PdfOutputGenerator`](../) class.
 
 ```csharp
 public PdfOutputGenerator(OutputTextStyle textStyle, PageInfo pageInfo)
@@ -82,7 +82,7 @@ public PdfOutputGenerator(OutputTextStyle textStyle, PageInfo pageInfo)
 
 ### See Also
 
-* class [OutputTextStyle](../../../aspose.pdf.comparison/outputtextstyle/)
+* class [OutputTextStyle](../../outputtextstyle/)
 * class [PageInfo](../../../aspose.pdf/pageinfo/)
 * class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)

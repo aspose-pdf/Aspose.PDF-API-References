@@ -7,7 +7,7 @@ description: "PdfFileInfo property. Checkes whether the PDF document is encrypte
 type: docs
 weight: 260
 url: "/net/aspose.pdf.facades/pdffileinfo/isencrypted/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileInfo.IsEncrypted property
 

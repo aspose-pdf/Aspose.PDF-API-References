@@ -7,7 +7,7 @@ description: "PdfXmpMetadata property. Gets keys from the dictionary."
 type: docs
 weight: 240
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/keys/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata.Keys property
 

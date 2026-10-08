@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Printing.PrinterResolutionKind enum. Specifies a printe
 type: docs
 weight: 180
 url: "/net/aspose.pdf.printing/printerresolutionkind/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrinterResolutionKind enumeration
 

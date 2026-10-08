@@ -7,7 +7,7 @@ description: "RunThreadCreateRequest property. Gets or sets the format that the 
 type: docs
 weight: 160
 url: "/net/aspose.pdf.ai/runthreadcreaterequest/responseformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunThreadCreateRequest.ResponseFormat property
 
@@ -23,7 +23,7 @@ public ResponseFormat ResponseFormat { get; set; }
 
 ### See Also
 
-* class [ResponseFormat](../../../aspose.pdf.ai/responseformat/)
+* class [ResponseFormat](../../responseformat/)
 * class [RunThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

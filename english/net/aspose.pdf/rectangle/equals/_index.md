@@ -7,7 +7,7 @@ description: "Rectangle method. Check if rectangles are equal i.e. have same pos
 type: docs
 weight: 70
 url: "/net/aspose.pdf/rectangle/equals/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.Equals method
 
@@ -27,7 +27,7 @@ True if rectangles are eqals, false otherwise.
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

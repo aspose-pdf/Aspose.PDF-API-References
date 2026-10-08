@@ -7,7 +7,7 @@ description: "AttributeKey field. Checked attribute (PrintField attribute owner)
 type: docs
 weight: 390
 url: "/net/aspose.pdf.logicalstructure/attributekey/checked/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.Checked field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey Checked;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "PdfPageEditor field. Left-Right Wipe"
 type: docs
 weight: 290
 url: "/net/aspose.pdf.facades/pdfpageeditor/lrwipe/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.LRWIPE field
 

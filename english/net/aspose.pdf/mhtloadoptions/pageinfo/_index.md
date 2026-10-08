@@ -7,7 +7,7 @@ description: "MhtLoadOptions property. Gets or sets document page info"
 type: docs
 weight: 20
 url: "/net/aspose.pdf/mhtloadoptions/pageinfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MhtLoadOptions.PageInfo property
 
@@ -19,7 +19,7 @@ public PageInfo PageInfo { get; }
 
 ### See Also
 
-* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* class [PageInfo](../../pageinfo/)
 * class [MhtLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

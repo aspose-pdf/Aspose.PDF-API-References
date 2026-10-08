@@ -7,7 +7,7 @@ description: "Page method. Merges all layers on the page into a single layer wit
 type: docs
 weight: 10
 url: "/net/aspose.pdf/page/mergelayers/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MergeLayers(string) {#mergelayers}
 

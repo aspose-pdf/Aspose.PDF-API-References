@@ -7,7 +7,7 @@ description: "GoToRemoteAction property. Gets or sets the specification of the f
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/gotoremoteaction/file/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GoToRemoteAction.File property
 

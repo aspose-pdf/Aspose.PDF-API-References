@@ -7,7 +7,7 @@ description: "MarkupParagraph property. Points of secondary polygon describes pa
 type: docs
 weight: 20
 url: "/net/aspose.pdf.text/markupparagraph/secondarypoints/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkupParagraph.SecondaryPoints property
 
@@ -20,6 +20,7 @@ public List<Point[]> SecondaryPoints { get; }
 
 ### See Also
 
+* class [Point](../../../aspose.pdf/point/)
 * class [MarkupParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

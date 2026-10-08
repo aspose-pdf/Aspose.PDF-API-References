@@ -7,7 +7,7 @@ description: "PdfFileSanitization constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffilesanitization/pdffilesanitization/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSanitization constructor
 

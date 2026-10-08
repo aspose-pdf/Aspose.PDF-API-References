@@ -7,7 +7,7 @@ description: "GraphicElementCollection method. Gets a string representation of t
 type: docs
 weight: 80
 url: "/net/aspose.pdf.vector/graphicelementcollection/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicElementCollection.ToString method
 

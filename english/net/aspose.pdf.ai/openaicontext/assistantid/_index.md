@@ -7,7 +7,7 @@ description: "OpenAIContext property. Gets or sets the Assistant ID."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/openaicontext/assistantid/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIContext.AssistantId property
 

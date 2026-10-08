@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Caption) A brief portion of text des
 type: docs
 weight: 110
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/caption/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.Caption field
 
@@ -19,7 +19,7 @@ public static readonly StructureTypeStandard Caption;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

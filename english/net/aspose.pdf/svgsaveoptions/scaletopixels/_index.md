@@ -7,7 +7,7 @@ description: "SvgSaveOptions field. Specifies whether to scale the output docume
 type: docs
 weight: 50
 url: "/net/aspose.pdf/svgsaveoptions/scaletopixels/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SvgSaveOptions.ScaleToPixels field
 

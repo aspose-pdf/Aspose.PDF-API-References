@@ -7,7 +7,7 @@ description: "FontSubstitutionCollection method. Deletes the font substitution e
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/remove/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontSubstitutionCollection.Remove method
 
@@ -27,7 +27,7 @@ True - if element removed; otherwise, false.
 
 ### See Also
 
-* class [FontSubstitution](../../../aspose.pdf.text/fontsubstitution/)
+* class [FontSubstitution](../../fontsubstitution/)
 * class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

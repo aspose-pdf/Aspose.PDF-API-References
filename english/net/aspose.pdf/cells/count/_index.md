@@ -7,7 +7,7 @@ description: "Cells property. The items count."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/cells/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Cells.Count property
 

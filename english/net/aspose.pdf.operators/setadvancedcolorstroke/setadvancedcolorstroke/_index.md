@@ -7,7 +7,7 @@ description: "SetAdvancedColorStroke constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/setadvancedcolorstroke/setadvancedcolorstroke/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetAdvancedColorStroke() {#constructor}
 
@@ -66,28 +66,7 @@ public SetAdvancedColorStroke(double g, string patternName)
 
 ---
 
-## SetAdvancedColorStroke(double[], string) {#constructor_3}
-
-Constructor for scn operator.
-
-```csharp
-public SetAdvancedColorStroke(double[] colors, string patternName)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| colors | Double[] | Color array. |
-| patternName | String | Pattern name. |
-
-### See Also
-
-* class [SetAdvancedColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## SetAdvancedColorStroke(double, double, double, string) {#constructor_4}
+## SetAdvancedColorStroke(double, double, double, string) {#constructor_3}
 
 Constructor for scn operator.
 
@@ -110,7 +89,7 @@ public SetAdvancedColorStroke(double r, double g, double b, string patternName)
 
 ---
 
-## SetAdvancedColorStroke(double, double, double, double, string) {#constructor_5}
+## SetAdvancedColorStroke(double, double, double, double, string) {#constructor_4}
 
 Constructor for scn operator.
 
@@ -125,6 +104,27 @@ public SetAdvancedColorStroke(double c, double m, double y, double k, string pat
 | y | Double | Yellow component of the color. |
 | k | Double | Black component of the color |
 | patternName | String | Name of the pattern. |
+
+### See Also
+
+* class [SetAdvancedColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## SetAdvancedColorStroke(double[], string) {#constructor_5}
+
+Constructor for scn operator.
+
+```csharp
+public SetAdvancedColorStroke(double[] colors, string patternName)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| colors | Double[] | Color array. |
+| patternName | String | Pattern name. |
 
 ### See Also
 

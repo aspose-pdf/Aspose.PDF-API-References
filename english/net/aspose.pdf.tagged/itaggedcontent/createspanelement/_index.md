@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates SpanElement."
 type: docs
 weight: 280
 url: "/net/aspose.pdf.tagged/itaggedcontent/createspanelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateSpanElement method
 

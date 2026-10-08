@@ -7,7 +7,7 @@ description: "MessageContentRequest method. Creates a text content for a message
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/messagecontentrequest/createtextcontent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MessageContentRequest.CreateTextContent method
 
@@ -27,7 +27,7 @@ A new instance of MessageContentRequest with text content.
 
 ### See Also
 
-* class [MessageContentRequest](../../../aspose.pdf.ai/messagecontentrequest/)
+* class [MessageContentRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

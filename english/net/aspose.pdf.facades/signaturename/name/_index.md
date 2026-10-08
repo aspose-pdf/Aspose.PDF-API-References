@@ -7,7 +7,7 @@ description: "SignatureName field. Gets the name of a signature."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/signaturename/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureName.Name field
 

@@ -7,7 +7,7 @@ description: "Artifact property. Gets or sets opacity of the artifact. Possible 
 type: docs
 weight: 330
 url: "/net/aspose.pdf/artifact/opacity/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.Opacity property
 

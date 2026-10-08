@@ -7,7 +7,7 @@ description: "BaseParagraph property. Gets or sets a bool value that indicates w
 type: docs
 weight: 60
 url: "/net/aspose.pdf/baseparagraph/iskeptwithnext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseParagraph.IsKeptWithNext property
 

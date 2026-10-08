@@ -7,7 +7,7 @@ description: "ILlamaClient method. Creates a chat completion request in the Llam
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/illamaclient/createcompletionasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ILlamaClient.CreateCompletionAsync method
 
@@ -30,7 +30,8 @@ The chat completion response.
 
 ### See Also
 
-* class [LlamaChatCompletionRequest](../../../aspose.pdf.ai/llamachatcompletionrequest/)
+* class [LlamaChatCompletionResponse](../../llamachatcompletionresponse/)
+* class [LlamaChatCompletionRequest](../../llamachatcompletionrequest/)
 * interface [ILlamaClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

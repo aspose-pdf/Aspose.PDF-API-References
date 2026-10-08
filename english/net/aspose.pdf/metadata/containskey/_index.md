@@ -7,7 +7,7 @@ description: "Metadata method. Determines does this dictionary contasins specifi
 type: docs
 weight: 130
 url: "/net/aspose.pdf/metadata/containskey/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Metadata.ContainsKey method
 

@@ -7,7 +7,7 @@ description: "EditContainer property. Gets and sets id of the change."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.comparison/editcontainer/id/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EditContainer.Id property
 

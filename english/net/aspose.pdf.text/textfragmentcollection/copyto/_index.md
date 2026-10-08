@@ -7,7 +7,7 @@ description: "TextFragmentCollection method. Copies the entire collection to a c
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/textfragmentcollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public void CopyTo(TextFragment[] array, int index)
 
 ### See Also
 
-* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [TextFragment](../../textfragment/)
 * class [TextFragmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

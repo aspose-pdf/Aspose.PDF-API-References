@@ -7,7 +7,7 @@ description: "Rectangle property. Y - coordinate of upper-right corner."
 type: docs
 weight: 260
 url: "/net/aspose.pdf/rectangle/ury/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.URY property
 

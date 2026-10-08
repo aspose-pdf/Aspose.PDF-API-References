@@ -7,7 +7,7 @@ description: "AttributeOwnerStandard property. Get Attribute Owner."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/owner/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeOwnerStandard.Owner property
 

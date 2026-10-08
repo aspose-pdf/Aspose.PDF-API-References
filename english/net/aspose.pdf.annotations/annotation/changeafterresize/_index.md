@@ -7,7 +7,7 @@ description: "Annotation method. Update parameters and appearance, according to 
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/annotation/changeafterresize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.ChangeAfterResize method
 

@@ -7,7 +7,7 @@ description: "SignatureAlgorithmInfo property. Gets the name of the signature fi
 type: docs
 weight: 20
 url: "/net/aspose.pdf.security/signaturealgorithminfo/signaturename/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureAlgorithmInfo.SignatureName property
 

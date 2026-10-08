@@ -7,7 +7,7 @@ description: "Aspose.Pdf.HtmlSaveOptions.PartsEmbeddingModes enum. This enum enu
 type: docs
 weight: 1330
 url: "/net/aspose.pdf/htmlsaveoptions.partsembeddingmodes/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.PartsEmbeddingModes enumeration
 
@@ -23,18 +23,9 @@ public enum PartsEmbeddingModes
 
 | Name | Value | Description |
 | --- | --- | --- |
-| EmbedAllIntoHtml | `0` | Enforces embed all referenced files(Css,Images,Fonts) into generated HTML markup (i.e. into HTML itself)
- This approach generates one HTML file, but total size of output 
- becames bigger(because Base64 encoding of binaries is in use) and not all browsers (especially legacy) 
- successfully process binaries embedded into HTML. But it allows get HTML that contains whole result, without any additional files. |
-| EmbedCssOnly | `1` | Enforces put apart all referenced files except CSS (Images and Fonts)
- I.e. CSS will be embedded into result HTML , and all other referenced files(Images and Fonts)
- will be processed as external parts
- It generates HTML that is sutable for wide set of browsers |
-| NoEmbedding | `2` | Enforces put apart referenced files(Css,Images,Fonts) 
- This approach generates set of files, but total size of output 
- becames smaller(because no Base64 encoding of binaries is in use)
- Also such approach generates HTML that is sutable for wide set of browsers |
+| EmbedAllIntoHtml | `0` | Enforces embed all referenced files(Css,Images,Fonts) into generated HTML markup (i.e. into HTML itself) This approach generates one HTML file, but total size of output becames bigger(because Base64 encoding of binaries is in use) and not all browsers (especially legacy) successfully process binaries embedded into HTML. But it allows get HTML that contains whole result, without any additional files. |
+| EmbedCssOnly | `1` | Enforces put apart all referenced files except CSS (Images and Fonts) I.e. CSS will be embedded into result HTML , and all other referenced files(Images and Fonts) will be processed as external parts It generates HTML that is sutable for wide set of browsers |
+| NoEmbedding | `2` | Enforces put apart referenced files(Css,Images,Fonts) This approach generates set of files, but total size of output becames smaller(because no Base64 encoding of binaries is in use) Also such approach generates HTML that is sutable for wide set of browsers |
 
 ### See Also
 

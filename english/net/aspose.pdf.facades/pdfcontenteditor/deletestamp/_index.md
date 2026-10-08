@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Deletes multiple stamps on the specified 
 type: docs
 weight: 530
 url: "/net/aspose.pdf.facades/pdfcontenteditor/deletestamp/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.DeleteStamp method
 

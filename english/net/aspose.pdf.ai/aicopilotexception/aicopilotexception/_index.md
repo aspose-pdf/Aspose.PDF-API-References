@@ -7,11 +7,11 @@ description: "AICopilotException constructor. Initializes a new instance of the 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/aicopilotexception/aicopilotexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AICopilotException(string) {#constructor}
 
-Initializes a new instance of the [`AICopilotException`](../../../aspose.pdf.ai/aicopilotexception/) class with a specified error message.
+Initializes a new instance of the [`AICopilotException`](../) class with a specified error message.
 
 ```csharp
 public AICopilotException(string message)
@@ -31,7 +31,7 @@ public AICopilotException(string message)
 
 ## AICopilotException(string, Exception) {#constructor_1}
 
-Initializes a new instance of the [`AICopilotException`](../../../aspose.pdf.ai/aicopilotexception/) class with a specified error message
+Initializes a new instance of the [`AICopilotException`](../) class with a specified error message
  and a reference to the inner exception that is the cause of this exception.
 
 ```csharp

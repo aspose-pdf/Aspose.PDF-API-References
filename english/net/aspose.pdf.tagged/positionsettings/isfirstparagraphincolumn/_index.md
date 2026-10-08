@@ -7,7 +7,7 @@ description: "PositionSettings property. Gets or sets a bool value that indicate
 type: docs
 weight: 50
 url: "/net/aspose.pdf.tagged/positionsettings/isfirstparagraphincolumn/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PositionSettings.IsFirstParagraphInColumn property
 

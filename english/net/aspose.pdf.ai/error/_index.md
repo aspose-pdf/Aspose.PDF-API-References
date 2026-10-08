@@ -8,7 +8,7 @@ type: docs
 weight: 360
 url: "/net/aspose.pdf.ai/error/"
 keywords: "Error, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Error class
 
@@ -22,16 +22,16 @@ public class Error
 
 | Name | Description |
 | --- | --- |
-| [Error](./error/)() | The default constructor. |
+| [Error](error/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Code](./code/) { get; set; } | Gets or sets the error code. |
-| [ErrorType](./errortype/) { get; set; } | Gets or sets the error type. |
-| [Message](./message/) { get; set; } | Gets or sets the error message. |
-| [Param](./param/) { get; set; } | Gets or sets the parameter name. |
+| [Code](../../aspose.pdf.ai/error/code/) { get; set; } | Gets or sets the error code. |
+| [ErrorType](../../aspose.pdf.ai/error/errortype/) { get; set; } | Gets or sets the error type. |
+| [Message](../../aspose.pdf.ai/error/message/) { get; set; } | Gets or sets the error message. |
+| [Param](../../aspose.pdf.ai/error/param/) { get; set; } | Gets or sets the parameter name. |
 
 ### See Also
 

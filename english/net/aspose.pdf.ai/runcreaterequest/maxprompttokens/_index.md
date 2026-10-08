@@ -7,7 +7,7 @@ description: "RunCreateRequest property. Gets or sets the maximum number of prom
 type: docs
 weight: 120
 url: "/net/aspose.pdf.ai/runcreaterequest/maxprompttokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunCreateRequest.MaxPromptTokens property
 

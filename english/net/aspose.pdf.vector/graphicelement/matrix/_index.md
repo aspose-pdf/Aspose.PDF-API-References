@@ -7,7 +7,7 @@ description: "GraphicElement property. Gets graphic element matrix. The matrix s
 type: docs
 weight: 70
 url: "/net/aspose.pdf.vector/graphicelement/matrix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicElement.Matrix property
 

@@ -7,7 +7,7 @@ description: "CompromiseCheckResult field. Gets a collection of digital signatur
 type: docs
 weight: 30
 url: "/net/aspose.pdf.signatures/compromisecheckresult/compromisedsignatures/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompromiseCheckResult.CompromisedSignatures field
 
@@ -20,6 +20,7 @@ public readonly IList<SignatureName> CompromisedSignatures;
 
 ### See Also
 
+* class [SignatureName](../../../aspose.pdf.facades/signaturename/)
 * class [CompromiseCheckResult](../)
 * namespace [Aspose.Pdf.Signatures](../../../aspose.pdf.signatures/)
 * assembly [Aspose.PDF](../../../)

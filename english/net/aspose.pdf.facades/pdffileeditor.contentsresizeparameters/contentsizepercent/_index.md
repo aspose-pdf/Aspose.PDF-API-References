@@ -7,7 +7,7 @@ description: "ContentsResizeParameters method. Creates resize parameters with sp
 type: docs
 weight: 60
 url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeParameters.ContentSizePercent method
 
@@ -29,7 +29,7 @@ New resize parameters.
 
 ### See Also
 
-* class [PdfFileEditor.ContentsResizeParameters](../)
+* class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "ElementList method. Gets an enumerator that iterates through the c
 type: docs
 weight: 20
 url: "/net/aspose.pdf.logicalstructure/elementlist/getenumerator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ElementList.GetEnumerator method
 
@@ -23,6 +23,7 @@ An enumerator used to iterate through the collection of elements.
 
 ### See Also
 
+* class [Element](../../element/)
 * class [ElementList](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)

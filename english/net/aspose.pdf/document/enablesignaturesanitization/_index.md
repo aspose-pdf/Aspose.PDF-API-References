@@ -7,7 +7,7 @@ description: "Document property. Gets or sets flag to manage signature fields sa
 type: docs
 weight: 1130
 url: "/net/aspose.pdf/document/enablesignaturesanitization/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.EnableSignatureSanitization property
 

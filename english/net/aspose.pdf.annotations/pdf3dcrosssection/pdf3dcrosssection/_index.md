@@ -7,11 +7,11 @@ description: "PDF3DCrossSection constructor. Initializes a new instance of the P
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdf3dcrosssection/pdf3dcrosssection/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DCrossSection constructor
 
-Initializes a new instance of the [`PDF3DCrossSection`](../../../aspose.pdf.annotations/pdf3dcrosssection/) class.
+Initializes a new instance of the [`PDF3DCrossSection`](../) class.
 
 ```csharp
 public PDF3DCrossSection(Document doc)

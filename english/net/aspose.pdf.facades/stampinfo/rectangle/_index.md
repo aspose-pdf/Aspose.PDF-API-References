@@ -7,7 +7,7 @@ description: "StampInfo property. Gets rectangle where stamp is placed."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/stampinfo/rectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StampInfo.Rectangle property
 
@@ -19,7 +19,7 @@ public Rectangle Rectangle { get; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [StampInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

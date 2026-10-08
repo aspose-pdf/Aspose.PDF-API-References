@@ -7,7 +7,7 @@ description: "BDC property. Gets or sets marked content tag"
 type: docs
 weight: 60
 url: "/net/aspose.pdf.operators/bdc/tag/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BDC.Tag property
 

@@ -8,7 +8,7 @@ type: docs
 weight: 100
 url: "/net/aspose.pdf.forms/docmdpsignature/"
 keywords: "DocMDPSignature, Aspose.Pdf.Forms, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocMDPSignature class
 
@@ -22,13 +22,13 @@ public sealed class DocMDPSignature
 
 | Name | Description |
 | --- | --- |
-| [DocMDPSignature](./docmdpsignature/)(Signature, DocMDPAccessPermissions) | Initializes a new instance of the [`DocMDPSignature`](../../aspose.pdf.forms/docmdpsignature/) class. |
+| [DocMDPSignature](docmdpsignature/)(Signature, DocMDPAccessPermissions) | Initializes a new instance of the `DocMDPSignature` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [AccessPermissions](./accesspermissions/) { get; } | Returns the access permissions granted for this document. |
+| [AccessPermissions](../../aspose.pdf.forms/docmdpsignature/accesspermissions/) { get; } | Returns the access permissions granted for this document. |
 
 ### See Also
 

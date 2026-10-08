@@ -7,7 +7,7 @@ description: "ImageDevice property. Gets or sets rendering options."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.devices/imagedevice/renderingoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageDevice.RenderingOptions property
 

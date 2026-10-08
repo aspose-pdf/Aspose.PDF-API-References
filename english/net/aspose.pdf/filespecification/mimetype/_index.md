@@ -7,7 +7,7 @@ description: "FileSpecification property. Gets subtype of the embedded file"
 type: docs
 weight: 200
 url: "/net/aspose.pdf/filespecification/mimetype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSpecification.MIMEType property
 

@@ -7,7 +7,7 @@ description: "FormEditor property. Sets visual attributes of the field."
 type: docs
 weight: 390
 url: "/net/aspose.pdf.facades/formeditor/facade/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormEditor.Facade property
 
@@ -32,7 +32,7 @@ fe.Save();
 
 ### See Also
 
-* class [FormFieldFacade](../../../aspose.pdf.facades/formfieldfacade/)
+* class [FormFieldFacade](../../formfieldfacade/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

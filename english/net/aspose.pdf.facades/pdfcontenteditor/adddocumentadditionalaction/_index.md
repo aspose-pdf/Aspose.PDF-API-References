@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Adds additional action for document event
 type: docs
 weight: 400
 url: "/net/aspose.pdf.facades/pdfcontenteditor/adddocumentadditionalaction/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.AddDocumentAdditionalAction method
 

@@ -7,9 +7,9 @@ description: "Rectangle method. Initializes new rectangle from given instance of
 type: docs
 weight: 30
 url: "/net/aspose.pdf/rectangle/fromrect/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## FromRect([Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#fromrect}
+## FromRect(Rectangle) {#fromrect}
 
 Initializes new rectangle from given instance of System.Drawing.Rectangle.
 
@@ -27,7 +27,7 @@ New rectangle.
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -51,7 +51,7 @@ New rectangle.
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

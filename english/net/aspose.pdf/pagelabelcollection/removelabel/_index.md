@@ -7,7 +7,7 @@ description: "PageLabelCollection method. Remove label by page index (page index
 type: docs
 weight: 30
 url: "/net/aspose.pdf/pagelabelcollection/removelabel/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageLabelCollection.RemoveLabel method
 

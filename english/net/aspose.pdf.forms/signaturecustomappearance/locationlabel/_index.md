@@ -7,7 +7,7 @@ description: "SignatureCustomAppearance property. Gets/sets location label. Defa
 type: docs
 weight: 120
 url: "/net/aspose.pdf.forms/signaturecustomappearance/locationlabel/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureCustomAppearance.LocationLabel property
 

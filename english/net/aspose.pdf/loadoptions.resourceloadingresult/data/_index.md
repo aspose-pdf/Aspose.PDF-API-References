@@ -7,7 +7,7 @@ description: "ResourceLoadingResult property. Bynary data that loaded with custo
 type: docs
 weight: 20
 url: "/net/aspose.pdf/loadoptions.resourceloadingresult/data/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LoadOptions.ResourceLoadingResult.Data property
 
@@ -19,7 +19,7 @@ public byte[] Data { get; }
 
 ### See Also
 
-* class [LoadOptions.ResourceLoadingResult](../)
+* class [ResourceLoadingResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

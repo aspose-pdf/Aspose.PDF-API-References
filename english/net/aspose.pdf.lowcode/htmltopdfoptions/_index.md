@@ -8,11 +8,11 @@ type: docs
 weight: 400
 url: "/net/aspose.pdf.lowcode/htmltopdfoptions/"
 keywords: "HtmlToPdfOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlToPdfOptions class
 
-Represents HTML to PDF converter options for [`Html`](../../aspose.pdf.lowcode/html/) plugin.
+Represents HTML to PDF converter options for [`Html`](../html/) plugin.
 
 ```csharp
 public sealed class HtmlToPdfOptions : PdfConverterOptions
@@ -22,20 +22,20 @@ public sealed class HtmlToPdfOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [HtmlToPdfOptions](./htmltopdfoptions/)() | The default constructor. |
+| [HtmlToPdfOptions](htmltopdfoptions/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BasePath](./basepath/) { get; set; } | The base path/url for the html file. |
-| [HtmlMediaType](./htmlmediatype/) { get; set; } | Gets or sets possible media types used during rendering. |
+| [BasePath](../../aspose.pdf.lowcode/htmltopdfoptions/basepath/) { get; set; } | The base path/url for the html file. |
+| [HtmlMediaType](../../aspose.pdf.lowcode/htmltopdfoptions/htmlmediatype/) { get; set; } | Gets or sets possible media types used during rendering. |
 | [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
-| [IsRenderToSinglePage](./isrendertosinglepage/) { get; set; } | Gets or sets rendering all document to single page. |
-| override [OperationName](./operationname/) { get; } | Gets name of the operation. |
+| [IsRenderToSinglePage](../../aspose.pdf.lowcode/htmltopdfoptions/isrendertosinglepage/) { get; set; } | Gets or sets rendering all document to single page. |
+| override [OperationName](../../aspose.pdf.lowcode/htmltopdfoptions/operationname/) { get; } | Gets name of the operation. |
 | [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
-| [PageInfo](./pageinfo/) { get; set; } | Gets or sets document page info. |
-| [PageLayoutOption](./pagelayoutoption/) { get; set; } | Gets or sets layout option. |
+| [PageInfo](../../aspose.pdf.lowcode/htmltopdfoptions/pageinfo/) { get; set; } | Gets or sets document page info. |
+| [PageLayoutOption](../../aspose.pdf.lowcode/htmltopdfoptions/pagelayoutoption/) { get; set; } | Gets or sets layout option. |
 
 ## Methods
 

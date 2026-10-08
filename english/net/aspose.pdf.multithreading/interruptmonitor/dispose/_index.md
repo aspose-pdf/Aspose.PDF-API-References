@@ -7,7 +7,7 @@ description: "InterruptMonitor method. Disposes used resources."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.multithreading/interruptmonitor/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## InterruptMonitor.Dispose method
 

@@ -7,7 +7,7 @@ description: "PdfAValidationResult field. Gets the data source that was validate
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/pdfavalidationresult/datasource/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAValidationResult.DataSource field
 
@@ -19,7 +19,7 @@ public readonly IDataSource DataSource;
 
 ### See Also
 
-* interface [IDataSource](../../../aspose.pdf.lowcode/idatasource/)
+* interface [IDataSource](../../idatasource/)
 * class [PdfAValidationResult](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

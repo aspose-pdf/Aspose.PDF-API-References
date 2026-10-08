@@ -7,7 +7,7 @@ description: "Stamp property. Gets or sets top margin of stamp."
 type: docs
 weight: 160
 url: "/net/aspose.pdf/stamp/topmargin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.TopMargin property
 

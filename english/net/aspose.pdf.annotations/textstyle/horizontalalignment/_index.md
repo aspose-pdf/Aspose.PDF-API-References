@@ -7,7 +7,7 @@ description: "TextStyle property. Text alignment. Valid values are: Left, Center
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/textstyle/horizontalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStyle.HorizontalAlignment property
 

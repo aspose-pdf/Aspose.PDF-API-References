@@ -7,7 +7,7 @@ description: "AssistantResponse property. Gets or sets the system instructions t
 type: docs
 weight: 80
 url: "/net/aspose.pdf.ai/assistantresponse/instructions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AssistantResponse.Instructions property
 

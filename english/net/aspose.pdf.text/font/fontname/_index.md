@@ -7,11 +7,11 @@ description: "Font property. Gets font name of the Font object."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/font/fontname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Font.FontName property
 
-Gets font name of the [`Font`](../../../aspose.pdf.text/font/) object.
+Gets font name of the [`Font`](../) object.
 
 ```csharp
 public string FontName { get; }

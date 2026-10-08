@@ -7,7 +7,7 @@ description: "UnsignedContent property. Gets a dictionary of modified XForm obje
 type: docs
 weight: 30
 url: "/net/aspose.pdf.security/unsignedcontentabsorber.unsignedcontent/xforms/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## UnsignedContentAbsorber.UnsignedContent.XForms property
 
@@ -19,7 +19,8 @@ public Dictionary<int, XForm> XForms { get; }
 
 ### See Also
 
-* class [UnsignedContentAbsorber.UnsignedContent](../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [UnsignedContent](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
 

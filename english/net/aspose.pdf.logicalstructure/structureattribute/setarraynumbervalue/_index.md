@@ -7,7 +7,7 @@ description: "StructureAttribute method."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.logicalstructure/structureattribute/setarraynumbervalue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureAttribute.SetArrayNumberValue method
 
@@ -16,10 +16,6 @@ product_version: "26.9.0"
 ```csharp
 public void SetArrayNumberValue(double?[] arrayNumber)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| arrayNumber | Nullable`1[] |  |
 
 ### See Also
 

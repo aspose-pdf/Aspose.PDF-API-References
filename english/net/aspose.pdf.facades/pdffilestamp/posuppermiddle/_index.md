@@ -7,7 +7,7 @@ description: "PdfFileStamp field. Upper middle position."
 type: docs
 weight: 400
 url: "/net/aspose.pdf.facades/pdffilestamp/posuppermiddle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileStamp.PosUpperMiddle field
 

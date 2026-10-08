@@ -7,7 +7,7 @@ description: "TiffSettings property. Gets the margins."
 type: docs
 weight: 100
 url: "/net/aspose.pdf.devices/tiffsettings/margins/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TiffSettings.Margins property
 
@@ -19,7 +19,7 @@ public Margins Margins { get; }
 
 ### See Also
 
-* class [Margins](../../../aspose.pdf.devices/margins/)
+* class [Margins](../../margins/)
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)

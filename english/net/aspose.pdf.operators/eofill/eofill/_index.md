@@ -7,7 +7,7 @@ description: "EOFill constructor. Initializes operator."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/eofill/eofill/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EOFill constructor
 

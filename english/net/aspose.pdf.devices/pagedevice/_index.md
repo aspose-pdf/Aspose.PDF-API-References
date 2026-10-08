@@ -8,7 +8,7 @@ type: docs
 weight: 140
 url: "/net/aspose.pdf.devices/pagedevice/"
 keywords: "PageDevice, Aspose.Pdf.Devices, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageDevice class
 
@@ -22,8 +22,8 @@ public abstract class PageDevice : Device
 
 | Name | Description |
 | --- | --- |
-| abstract [Process](./process/)(Page, Stream) | Perfoms some operation on the given page, e.g. converts page into graphic image. |
-| [Process](./process/)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
+| abstract [Process](../../aspose.pdf.devices/pagedevice/process/#process)(Page, Stream) | Perfoms some operation on the given page, e.g. converts page into graphic image. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/#process_1)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
 
 ### See Also
 

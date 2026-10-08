@@ -8,7 +8,7 @@ type: docs
 weight: 1050
 url: "/net/aspose.pdf.annotations/rendition/"
 keywords: "Rendition, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rendition class
 
@@ -22,8 +22,8 @@ public class Rendition
 
 | Name | Description |
 | --- | --- |
-| [Name](./name/) { get; set; } | Text string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions. |
-| [RenditionType](./renditiontype/) { get; } | Gets rendition type. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Text string specifying the name of the rendition for use in a user interface and for name tree lookup by JavaScript actions. |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Gets rendition type. |
 
 ### See Also
 

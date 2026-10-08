@@ -7,11 +7,11 @@ description: "FormCheckBoxFieldCreateOptions constructor. Initializes a new inst
 type: docs
 weight: 10
 url: "/net/aspose.pdf.lowcode/formcheckboxfieldcreateoptions/formcheckboxfieldcreateoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormCheckBoxFieldCreateOptions constructor
 
-Initializes a new instance of the [`FormCheckBoxFieldCreateOptions`](../../../aspose.pdf.lowcode/formcheckboxfieldcreateoptions/) object, that containing parameters for created and added CheckBoxField.
+Initializes a new instance of the [`FormCheckBoxFieldCreateOptions`](../) object, that containing parameters for created and added CheckBoxField.
 
 ```csharp
 public FormCheckBoxFieldCreateOptions(int pageNum, Rectangle rect)
@@ -24,7 +24,7 @@ public FormCheckBoxFieldCreateOptions(int pageNum, Rectangle rect)
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [FormCheckBoxFieldCreateOptions](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

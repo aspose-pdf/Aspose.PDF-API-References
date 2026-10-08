@@ -7,7 +7,7 @@ description: "VectorStoreFileBatchFileListQueryParameters method. Gets the query
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/getqueryparameters/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileBatchFileListQueryParameters.GetQueryParameters method
 

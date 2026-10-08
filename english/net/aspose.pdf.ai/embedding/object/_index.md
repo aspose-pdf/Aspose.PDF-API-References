@@ -7,7 +7,7 @@ description: "Embedding property. Gets or sets the object type, which is always 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/embedding/object/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Embedding.Object property
 

@@ -7,7 +7,7 @@ description: "PdfFileSignature method. Gets the toltal revision."
 type: docs
 weight: 220
 url: "/net/aspose.pdf.facades/pdffilesignature/gettotalrevision/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature.GetTotalRevision method
 

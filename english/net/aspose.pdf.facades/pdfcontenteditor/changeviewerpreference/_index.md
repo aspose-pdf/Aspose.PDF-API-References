@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Changes the view preference."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.facades/pdfcontenteditor/changeviewerpreference/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.ChangeViewerPreference method
 

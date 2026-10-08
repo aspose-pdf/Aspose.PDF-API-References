@@ -7,7 +7,7 @@ description: "ViewerPreference field. Neither document outline nor thumbnail ima
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusenone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ViewerPreference.NonFullScreenPageModeUseNone field
 

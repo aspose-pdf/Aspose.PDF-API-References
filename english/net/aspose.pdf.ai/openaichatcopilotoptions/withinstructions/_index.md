@@ -7,7 +7,7 @@ description: "OpenAIChatCopilotOptions method. Sets the instructions for the cha
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withinstructions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIChatCopilotOptions.WithInstructions method
 
@@ -23,11 +23,11 @@ public OpenAIChatCopilotOptions WithInstructions(string instructions)
 
 ### Return Value
 
-The current instance of [`OpenAIChatCopilotOptions`](../../../aspose.pdf.ai/openaichatcopilotoptions/).
+The current instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../../../aspose.pdf.ai/openaichatcopilotoptions/)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 

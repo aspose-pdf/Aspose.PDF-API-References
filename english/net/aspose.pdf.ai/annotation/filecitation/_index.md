@@ -7,7 +7,7 @@ description: "Annotation property. Gets or sets file citations are created by th
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/annotation/filecitation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Annotation.FileCitation property
 
@@ -20,7 +20,7 @@ public FileCitation FileCitation { get; set; }
 
 ### See Also
 
-* class [FileCitation](../../../aspose.pdf.ai/filecitation/)
+* class [FileCitation](../../filecitation/)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

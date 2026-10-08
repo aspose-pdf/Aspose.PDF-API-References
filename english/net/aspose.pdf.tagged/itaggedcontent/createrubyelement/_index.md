@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates RubyElement."
 type: docs
 weight: 360
 url: "/net/aspose.pdf.tagged/itaggedcontent/createrubyelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateRubyElement method
 

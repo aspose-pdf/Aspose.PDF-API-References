@@ -7,7 +7,7 @@ description: "MarkdownSaveOptions property. Gets and sets allowance to use of an
 type: docs
 weight: 60
 url: "/net/aspose.pdf/markdownsaveoptions/useimagehtmltag/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarkdownSaveOptions.UseImageHtmlTag property
 

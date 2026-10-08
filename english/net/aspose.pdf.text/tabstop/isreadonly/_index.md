@@ -7,11 +7,11 @@ description: "TabStop property. Gets value indicating that this TabStop instance
 type: docs
 weight: 60
 url: "/net/aspose.pdf.text/tabstop/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TabStop.IsReadOnly property
 
-Gets value indicating that this [`TabStop`](../../../aspose.pdf.text/tabstop/) instance is already attached to [`TextFragment`](../../../aspose.pdf.text/textfragment/) and became readonly
+Gets value indicating that this [`TabStop`](../) instance is already attached to [`TextFragment`](../../textfragment/) and became readonly
 
 ```csharp
 public bool IsReadOnly { get; }

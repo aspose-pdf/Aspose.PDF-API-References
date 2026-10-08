@@ -7,7 +7,7 @@ description: "SoundSampleData constructor. Initializes new sound sample data."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/soundsampledata/soundsampledata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SoundSampleData(long) {#constructor}
 
@@ -72,7 +72,7 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 
 ---
 
-## SoundSampleData(long, int, int, [SoundSampleDataEncodingFormat](../../../aspose.pdf.annotations/soundsampledataencodingformat/)) {#constructor_3}
+## SoundSampleData(long, int, int, SoundSampleDataEncodingFormat) {#constructor_3}
 
 Initializes new sound sample data.
 
@@ -90,7 +90,7 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 
 ### See Also
 
-* enum [SoundSampleDataEncodingFormat](../../../aspose.pdf.annotations/soundsampledataencodingformat/)
+* enum [SoundSampleDataEncodingFormat](../../soundsampledataencodingformat/)
 * class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

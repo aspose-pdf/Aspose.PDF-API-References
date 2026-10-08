@@ -7,7 +7,7 @@ description: "ITaggedContent method. Creates CodeElement."
 type: docs
 weight: 330
 url: "/net/aspose.pdf.tagged/itaggedcontent/createcodeelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateCodeElement method
 

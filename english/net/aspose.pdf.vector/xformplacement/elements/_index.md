@@ -7,7 +7,7 @@ description: "XFormPlacement property. Gets graphic elements inside this XForm."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.vector/xformplacement/elements/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFormPlacement.Elements property
 
@@ -19,7 +19,7 @@ public GraphicElementCollection Elements { get; }
 
 ### See Also
 
-* class [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
+* class [GraphicElementCollection](../../graphicelementcollection/)
 * class [XFormPlacement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

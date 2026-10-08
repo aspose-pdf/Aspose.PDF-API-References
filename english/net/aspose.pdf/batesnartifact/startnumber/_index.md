@@ -7,7 +7,7 @@ description: "BatesNArtifact property. Gets or sets the starting number for Bate
 type: docs
 weight: 30
 url: "/net/aspose.pdf/batesnartifact/startnumber/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BatesNArtifact.StartNumber property
 

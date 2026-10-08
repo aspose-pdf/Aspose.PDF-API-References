@@ -7,7 +7,7 @@ description: "SubmitFormAction field. If set, the coordinates of the mouse click
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/submitformaction/submitcoordinates/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SubmitFormAction.SubmitCoordinates field
 

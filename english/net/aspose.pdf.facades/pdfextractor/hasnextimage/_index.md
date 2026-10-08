@@ -7,7 +7,7 @@ description: "PdfExtractor method. Checks if more images are accessible in PDF d
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/pdfextractor/hasnextimage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfExtractor.HasNextImage method
 

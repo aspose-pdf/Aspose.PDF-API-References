@@ -7,7 +7,7 @@ description: "ImageUrl property. Gets or sets the detail level of the image if s
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/imageurl/detail/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageUrl.Detail property
 

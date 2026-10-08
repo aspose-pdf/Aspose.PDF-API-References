@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Creates Movie Annotations."
 type: docs
 weight: 510
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createmovie/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreateMovie method
 
@@ -25,7 +25,6 @@ public void CreateMovie(Rectangle rect, string filePath, int page)
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

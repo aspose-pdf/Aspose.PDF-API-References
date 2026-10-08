@@ -7,7 +7,7 @@ description: "Aspose.Pdf.BorderSide enum. Enumerates the border sides."
 type: docs
 weight: 200
 url: "/net/aspose.pdf/borderside/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BorderSide enumeration
 

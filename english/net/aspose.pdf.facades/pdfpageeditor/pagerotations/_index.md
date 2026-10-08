@@ -7,7 +7,7 @@ description: "PdfPageEditor property. A hashtable contains the page number and r
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/pdfpageeditor/pagerotations/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfPageEditor.PageRotations property
 

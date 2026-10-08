@@ -7,7 +7,7 @@ description: "PageRange property. Gets or sets the setting for odd pages."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pagerange/odd/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageRange.Odd property
 

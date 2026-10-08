@@ -7,7 +7,7 @@ description: "CompletionResponse property. Gets or sets the object type, which i
 type: docs
 weight: 40
 url: "/net/aspose.pdf.ai/completionresponse/object/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CompletionResponse.Object property
 

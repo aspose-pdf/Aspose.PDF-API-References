@@ -7,7 +7,7 @@ description: "PdfFileSignature constructor. The constructor of PdfFileSignature 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/pdffilesignature/pdffilesignature/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSignature() {#constructor}
 
@@ -25,9 +25,9 @@ public PdfFileSignature()
 
 ---
 
-## PdfFileSignature([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## PdfFileSignature(Document) {#constructor_1}
 
-Initializes new [`PdfFileSignature`](../../../aspose.pdf.facades/pdffilesignature/) object on base of the *document*.
+Initializes new [`PdfFileSignature`](../) object on base of the *document*.
 
 ```csharp
 public PdfFileSignature(Document document)

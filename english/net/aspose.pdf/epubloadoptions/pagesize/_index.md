@@ -7,7 +7,7 @@ description: "EpubLoadOptions property. Gets or sets output page size for import
 type: docs
 weight: 30
 url: "/net/aspose.pdf/epubloadoptions/pagesize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EpubLoadOptions.PageSize property
 

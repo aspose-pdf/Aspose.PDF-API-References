@@ -7,7 +7,7 @@ description: "LevelFormat property. Gets or sets TOC line dash."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/levelformat/linedash/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LevelFormat.LineDash property
 

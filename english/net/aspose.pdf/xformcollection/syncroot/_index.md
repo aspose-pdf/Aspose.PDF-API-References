@@ -7,7 +7,7 @@ description: "XFormCollection property. Synchronization object."
 type: docs
 weight: 140
 url: "/net/aspose.pdf/xformcollection/syncroot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XFormCollection.SyncRoot property
 

@@ -7,7 +7,7 @@ description: "BasicSetColorOperator property. Gets yellow component of CMYK colo
 type: docs
 weight: 60
 url: "/net/aspose.pdf.operators/basicsetcoloroperator/y/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BasicSetColorOperator.Y property
 

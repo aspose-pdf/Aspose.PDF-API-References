@@ -7,7 +7,7 @@ description: "SoundAnnotation property. Gets a sound object defining the sound t
 type: docs
 weight: 50
 url: "/net/aspose.pdf.annotations/soundannotation/sounddata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SoundAnnotation.SoundData property
 
@@ -19,7 +19,7 @@ public SoundData SoundData { get; }
 
 ### See Also
 
-* class [SoundData](../../../aspose.pdf.annotations/sounddata/)
+* class [SoundData](../../sounddata/)
 * class [SoundAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

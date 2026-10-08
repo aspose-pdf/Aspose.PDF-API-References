@@ -7,7 +7,7 @@ description: "DestinationCollection property. Gets a value indicating whether th
 type: docs
 weight: 110
 url: "/net/aspose.pdf/destinationcollection/isreadonly/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DestinationCollection.IsReadOnly property
 

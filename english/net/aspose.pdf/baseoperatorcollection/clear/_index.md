@@ -7,7 +7,7 @@ description: "BaseOperatorCollection method. Clears collection."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/baseoperatorcollection/clear/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseOperatorCollection.Clear method
 

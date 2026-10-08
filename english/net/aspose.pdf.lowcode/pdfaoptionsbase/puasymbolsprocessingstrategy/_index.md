@@ -7,7 +7,7 @@ description: "PdfAOptionsBase property. Gets or sets the strategy for processing
 type: docs
 weight: 110
 url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/puasymbolsprocessingstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAOptionsBase.PuaSymbolsProcessingStrategy property
 
@@ -25,6 +25,7 @@ The strategy for processing PUA symbols. The default is `None`
 
 ### See Also
 
+* enum [PuaProcessingStrategy](../../../aspose.pdf/pdfformatconversionoptions.puaprocessingstrategy/)
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

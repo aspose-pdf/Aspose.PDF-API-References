@@ -7,7 +7,7 @@ description: "TextPdfComparer method. Restores changed text from the list of cha
 type: docs
 weight: 100
 url: "/net/aspose.pdf.comparison/textpdfcomparer/assemblydestinationpagetext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextPdfComparer.AssemblyDestinationPageText method
 
@@ -27,6 +27,7 @@ Original text.
 
 ### See Also
 
+* class [DiffOperation](../../diffoperation/)
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

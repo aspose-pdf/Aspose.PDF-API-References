@@ -8,7 +8,7 @@ type: docs
 weight: 120
 url: "/net/aspose.pdf.comparison/imagesdifference/"
 keywords: "ImagesDifference, Aspose.Pdf.Comparison, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImagesDifference class
 
@@ -22,18 +22,18 @@ public sealed class ImagesDifference : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Difference](./difference/) { get; } | Gets the difference array. This array is similar to the original image data array obtained as a result of the LockBits method. |
-| [Height](./height/) { get; } | The height of difference. |
-| [SourceImage](./sourceimage/) { get; } | Gets the image of first compared page. The image has a pixel format is 24bpp. |
-| [Stride](./stride/) { get; } | The stride of difference image data. |
+| [Difference](../../aspose.pdf.comparison/imagesdifference/difference/) { get; } | Gets the difference array. This array is similar to the original image data array obtained as a result of the LockBits method. |
+| [Height](../../aspose.pdf.comparison/imagesdifference/height/) { get; } | The height of difference. |
+| [SourceImage](../../aspose.pdf.comparison/imagesdifference/sourceimage/) { get; } | Gets the image of first compared page. The image has a pixel format is 24bpp. |
+| [Stride](../../aspose.pdf.comparison/imagesdifference/stride/) { get; } | The stride of difference image data. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [DifferenceToImage](./differencetoimage/)(Color, Color) | Converts the difference array to a bitmap image using the specified colors. |
-| [Dispose](./dispose/)() | Performs any necessary clean up operations before the object is destroyed. |
-| [GetDestinationImage](./getdestinationimage/)() | Returns a new bitmap representing the destination image by applying the difference array to the source image. |
+| [DifferenceToImage](../../aspose.pdf.comparison/imagesdifference/differencetoimage/)(Color, Color) | Converts the difference array to a bitmap image using the specified colors. |
+| [Dispose](../../aspose.pdf.comparison/imagesdifference/dispose/)() | Performs any necessary clean up operations before the object is destroyed. |
+| [GetDestinationImage](../../aspose.pdf.comparison/imagesdifference/getdestinationimage/)() | Returns a new bitmap representing the destination image by applying the difference array to the source image. |
 
 ### See Also
 

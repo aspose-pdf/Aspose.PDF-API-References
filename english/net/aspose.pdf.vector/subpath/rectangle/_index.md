@@ -7,7 +7,7 @@ description: "SubPath property."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.vector/subpath/rectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SubPath.Rectangle property
 
@@ -19,7 +19,7 @@ public override Rectangle Rectangle { get; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [SubPath](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

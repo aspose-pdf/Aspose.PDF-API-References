@@ -7,7 +7,7 @@ description: "PdfASymbolicFontEncodingStrategy property. Specifies queue of enco
 type: docs
 weight: 50
 url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfASymbolicFontEncodingStrategy.CmapEncodingTablesPriorityQueue property
 
@@ -19,6 +19,7 @@ public Queue<QueueItem> CmapEncodingTablesPriorityQueue { get; set; }
 
 ### See Also
 
+* class [QueueItem](../../pdfasymbolicfontencodingstrategy.queueitem/)
 * class [PdfASymbolicFontEncodingStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

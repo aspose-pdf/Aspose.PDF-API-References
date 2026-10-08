@@ -7,11 +7,11 @@ description: "PDF3DRenderMode constructor. Initializes a new instance of the PDF
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/pdf3drendermode/pdf3drendermode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## PDF3DRenderMode([RenderModeType](../../../aspose.pdf.annotations/rendermodetype/)) {#constructor}
+## PDF3DRenderMode(RenderModeType) {#constructor}
 
-Initializes a new instance of the [`PDF3DRenderMode`](../../../aspose.pdf.annotations/pdf3drendermode/) class.
+Initializes a new instance of the [`PDF3DRenderMode`](../) class.
 
 ```csharp
 public PDF3DRenderMode(RenderModeType subtype)
@@ -23,7 +23,7 @@ public PDF3DRenderMode(RenderModeType subtype)
 
 ### See Also
 
-* enum [RenderModeType](../../../aspose.pdf.annotations/rendermodetype/)
+* enum [RenderModeType](../../rendermodetype/)
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
@@ -32,7 +32,7 @@ public PDF3DRenderMode(RenderModeType subtype)
 
 ## PDF3DRenderMode(string) {#constructor_1}
 
-Initializes a new instance of the [`PDF3DRenderMode`](../../../aspose.pdf.annotations/pdf3drendermode/) class.
+Initializes a new instance of the [`PDF3DRenderMode`](../) class.
 
 ```csharp
 public PDF3DRenderMode(string typeName)

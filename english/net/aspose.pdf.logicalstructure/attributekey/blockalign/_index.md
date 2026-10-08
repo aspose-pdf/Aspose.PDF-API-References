@@ -7,7 +7,7 @@ description: "AttributeKey field. BlockAlign attribute (Layout attribute owner).
 type: docs
 weight: 220
 url: "/net/aspose.pdf.logicalstructure/attributekey/blockalign/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.BlockAlign field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey BlockAlign;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

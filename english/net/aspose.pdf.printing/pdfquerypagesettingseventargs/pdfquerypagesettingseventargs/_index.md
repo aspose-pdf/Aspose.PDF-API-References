@@ -7,11 +7,11 @@ description: "PdfQueryPageSettingsEventArgs constructor. Initializes a new insta
 type: docs
 weight: 10
 url: "/net/aspose.pdf.printing/pdfquerypagesettingseventargs/pdfquerypagesettingseventargs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfQueryPageSettingsEventArgs constructor
 
-Initializes a new instance of the [`PdfQueryPageSettingsEventArgs`](../../../aspose.pdf.printing/pdfquerypagesettingseventargs/) class.
+Initializes a new instance of the [`PdfQueryPageSettingsEventArgs`](../) class.
 
 ```csharp
 public PdfQueryPageSettingsEventArgs(PageSettings pageSettings)
@@ -23,7 +23,7 @@ public PdfQueryPageSettingsEventArgs(PageSettings pageSettings)
 
 ### See Also
 
-* class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
+* class [PageSettings](../../pagesettings/)
 * class [PdfQueryPageSettingsEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

@@ -8,7 +8,7 @@ type: docs
 weight: 70
 url: "/net/aspose.pdf.vector/subpathgroup/"
 keywords: "SubPathGroup, Aspose.Pdf.Vector, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SubPathGroup class
 

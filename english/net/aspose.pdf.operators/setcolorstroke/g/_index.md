@@ -7,7 +7,7 @@ description: "SetColorStroke property. Gets or sets the green component."
 type: docs
 weight: 130
 url: "/net/aspose.pdf.operators/setcolorstroke/g/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColorStroke.G property
 

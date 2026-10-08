@@ -7,7 +7,7 @@ description: "PdfContentEditor method. Creates a link to JavaScript in PDF docum
 type: docs
 weight: 180
 url: "/net/aspose.pdf.facades/pdfcontenteditor/createjavascriptlink/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreateJavaScriptLink method
 
@@ -36,8 +36,6 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [Color](../../../aspose.pdf/color/)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

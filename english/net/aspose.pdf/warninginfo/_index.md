@@ -8,7 +8,7 @@ type: docs
 weight: 3100
 url: "/net/aspose.pdf/warninginfo/"
 keywords: "WarningInfo, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WarningInfo class
 
@@ -22,14 +22,14 @@ public sealed class WarningInfo
 
 | Name | Description |
 | --- | --- |
-| [WarningInfo](./warninginfo/)(WarningType, string) | Constructs instance for gathering information. |
+| [WarningInfo](warninginfo/)(WarningType, string) | Constructs instance for gathering information. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [WarningMessage](./warningmessage/) { get; } | Returns string representation of warning message. |
-| [WarningTypeProperty](./warningtypeproperty/) { get; } | Returns warning type. |
+| [WarningMessage](../../aspose.pdf/warninginfo/warningmessage/) { get; } | Returns string representation of warning message. |
+| [WarningTypeProperty](../../aspose.pdf/warninginfo/warningtypeproperty/) { get; } | Returns warning type. |
 
 ### See Also
 

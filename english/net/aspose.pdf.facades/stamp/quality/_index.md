@@ -7,7 +7,7 @@ description: "Stamp property. Gets or sets quality of image stamp in percent. Va
 type: docs
 weight: 110
 url: "/net/aspose.pdf.facades/stamp/quality/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Stamp.Quality property
 

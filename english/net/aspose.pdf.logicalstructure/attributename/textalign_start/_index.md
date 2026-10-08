@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute TextAlign: Start - Aligned with the
 type: docs
 weight: 230
 url: "/net/aspose.pdf.logicalstructure/attributename/textalign_start/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.TextAlign_Start field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName TextAlign_Start;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,11 +7,11 @@ description: "RegistrationMarkAnnotation constructor. Initializes a new instance
 type: docs
 weight: 10
 url: "/net/aspose.pdf.annotations/registrationmarkannotation/registrationmarkannotation/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RegistrationMarkAnnotation constructor
 
-Initializes a new instance of the [`RegistrationMarkAnnotation`](../../../aspose.pdf.annotations/registrationmarkannotation/) class on the given page in the given location.
+Initializes a new instance of the [`RegistrationMarkAnnotation`](../) class on the given page in the given location.
 
 ```csharp
 public RegistrationMarkAnnotation(Page page, PrinterMarkSidePosition position)
@@ -25,7 +25,7 @@ public RegistrationMarkAnnotation(Page page, PrinterMarkSidePosition position)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* enum [PrinterMarkSidePosition](../../../aspose.pdf.annotations/printermarksideposition/)
+* enum [PrinterMarkSidePosition](../../printermarksideposition/)
 * class [RegistrationMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

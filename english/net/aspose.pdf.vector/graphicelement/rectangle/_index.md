@@ -7,11 +7,11 @@ description: "GraphicElement property. Gets the bounding rectangle of the Graphi
 type: docs
 weight: 80
 url: "/net/aspose.pdf.vector/graphicelement/rectangle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphicElement.Rectangle property
 
-Gets the bounding rectangle of the [`GraphicElement`](../../../aspose.pdf.vector/graphicelement/).
+Gets the bounding rectangle of the [`GraphicElement`](../).
 
 ```csharp
 public abstract Rectangle Rectangle { get; }
@@ -19,7 +19,7 @@ public abstract Rectangle Rectangle { get; }
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)

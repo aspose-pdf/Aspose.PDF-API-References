@@ -7,7 +7,7 @@ description: "Opi property. Gets the version of OPI to which this dictionary ref
 type: docs
 weight: 20
 url: "/net/aspose.pdf/opi/version/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Opi.Version property
 

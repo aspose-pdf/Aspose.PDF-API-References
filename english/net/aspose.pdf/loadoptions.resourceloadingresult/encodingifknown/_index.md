@@ -7,7 +7,7 @@ description: "ResourceLoadingResult field. Sometimes encoding of resource is kno
 type: docs
 weight: 30
 url: "/net/aspose.pdf/loadoptions.resourceloadingresult/encodingifknown/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LoadOptions.ResourceLoadingResult.EncodingIfKnown field
 
@@ -21,7 +21,7 @@ public Encoding EncodingIfKnown;
 
 ### See Also
 
-* class [LoadOptions.ResourceLoadingResult](../)
+* class [ResourceLoadingResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

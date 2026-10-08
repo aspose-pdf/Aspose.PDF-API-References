@@ -7,7 +7,7 @@ description: "OutputIntents property. Gets the number of output intents containe
 type: docs
 weight: 70
 url: "/net/aspose.pdf/outputintents/count/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputIntents.Count property
 

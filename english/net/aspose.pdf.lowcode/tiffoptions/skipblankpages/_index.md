@@ -7,13 +7,11 @@ description: "TiffOptions property. Gets or sets a value indicating whether to s
 type: docs
 weight: 80
 url: "/net/aspose.pdf.lowcode/tiffoptions/skipblankpages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TiffOptions.SkipBlankPages property
 
 Gets or sets a value indicating whether to skip blank pages.
-
-Default value is false
 
 ```csharp
 public bool SkipBlankPages { get; set; }
@@ -22,6 +20,10 @@ public bool SkipBlankPages { get; set; }
 ### Property Value
 
 `true` if need to skip blank pages; otherwise, `false`.
+
+## Remarks
+
+Default value is false
 
 ### See Also
 

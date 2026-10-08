@@ -7,7 +7,7 @@ description: "XmpValue method. Converts XmpValue to array."
 type: docs
 weight: 240
 url: "/net/aspose.pdf/xmpvalue/op_explicit/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## explicit operator {#op_explicit}
 
@@ -27,7 +27,7 @@ XmlValue.
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -51,7 +51,7 @@ XmlValue.
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -75,7 +75,7 @@ XmlValue.
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -99,7 +99,7 @@ XmlValue.
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -113,17 +113,9 @@ XmlValue.
 public static explicit operator KeyValuePair<string, XmpValue>[](XmpValue value)
 ```
 
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | XmpValue |  |
-
-### Return Value
-
-KeyValuePair<string, XmpValue>[]
-
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,12 +7,12 @@ description: "Page method. Adds graphics to the page. Works faster than adding e
 type: docs
 weight: 40
 url: "/net/aspose.pdf/page/addgraphics/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Page.AddGraphics method
 
 Adds graphics to the page.
- Works faster than adding elements one by one with `AddOnPage` method.
+ Works faster than adding elements one by one with [`AddOnPage`](../../../aspose.pdf.vector/graphicelement/addonpage/) method.
 
 ```csharp
 public void AddGraphics(GraphicElementCollection elements, Rectangle rectangle = null)
@@ -21,14 +21,13 @@ public void AddGraphics(GraphicElementCollection elements, Rectangle rectangle =
 | Parameter | Type | Description |
 | --- | --- | --- |
 | elements | GraphicElementCollection | Graphics collection. |
-| rectangle | Rectangle | Elements will be added to the page if it's is inside the rectangle area.
- If rectangle is null, all graphic elements will be added |
+| rectangle | Rectangle | Elements will be added to the page if it's is inside the rectangle area. If rectangle is null, all graphic elements will be added |
 
 ### See Also
 
 * [Position](../position/)
 * class [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../rectangle/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "ComboBoxField constructor. Constructor for ComboBoxField to be use
 type: docs
 weight: 10
 url: "/net/aspose.pdf.forms/comboboxfield/comboboxfield/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ComboBoxField() {#constructor}
 
@@ -25,7 +25,7 @@ public ComboBoxField()
 
 ---
 
-## ComboBoxField([Document](../../../aspose.pdf/document/)) {#constructor_1}
+## ComboBoxField(Document) {#constructor_1}
 
 Creates CombBox field to work with Generator.
 
@@ -46,30 +46,7 @@ public ComboBoxField(Document doc)
 
 ---
 
-## ComboBoxField([Document](../../../aspose.pdf/document/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_2}
-
-Constructor for Combobox field.
-
-```csharp
-public ComboBoxField(Document doc, Rectangle rect)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| doc | Document | Document where field should be created. |
-| rect | Rectangle | Rectangle which defines size and position of the field. |
-
-### See Also
-
-* class [Document](../../../aspose.pdf/document/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
-* class [ComboBoxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## ComboBoxField([Page](../../../aspose.pdf/page/), [Rectangle](../../../aspose.pdf.drawing/rectangle/)) {#constructor_3}
+## ComboBoxField(Page, Rectangle) {#constructor_2}
 
 Constructor for Combobox Field.
 
@@ -85,7 +62,30 @@ public ComboBoxField(Page page, Rectangle rect)
 ### See Also
 
 * class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ComboBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ComboBoxField(Document, Rectangle) {#constructor_3}
+
+Constructor for Combobox field.
+
+```csharp
+public ComboBoxField(Document doc, Rectangle rect)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| doc | Document | Document where field should be created. |
+| rect | Rectangle | Rectangle which defines size and position of the field. |
+
+### See Also
+
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ComboBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "ChunkingOptions property. Gets or sets the maximum size of each ch
 type: docs
 weight: 30
 url: "/net/aspose.pdf.ai/chunkingoptions/maxchunksize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ChunkingOptions.MaxChunkSize property
 
@@ -19,8 +19,14 @@ public int MaxChunkSize { get; set; }
 
 ### Property Value
 
-The maximum chunk size in tokens. Must be between `MinimumChunkSize`
- and `MaximumChunkSize`. Default is `DefaultMaxChunkSize`.
+The maximum chunk size in tokens. Must be between [`MinimumChunkSize`](../minimumchunksize/)
+ and [`MaximumChunkSize`](../maximumchunksize/). Default is [`DefaultMaxChunkSize`](../defaultmaxchunksize/).
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentOutOfRangeException | Thrown when the value is less than [`MinimumChunkSize`](../minimumchunksize/) or greater than [`MaximumChunkSize`](../maximumchunksize/). |
 
 ### See Also
 

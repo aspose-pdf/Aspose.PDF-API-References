@@ -8,11 +8,11 @@ type: docs
 weight: 80
 url: "/net/aspose.pdf.printing/papersizeextensions/"
 keywords: "PaperSizeExtensions, Aspose.Pdf.Printing, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSizeExtensions class
 
-Represents extensions methods for [`PaperSize`](../../aspose.pdf.printing/papersize/).
+Represents extensions methods for [`PaperSize`](../papersize/).
 
 ```csharp
 public static class PaperSizeExtensions
@@ -22,8 +22,8 @@ public static class PaperSizeExtensions
 
 | Name | Description |
 | --- | --- |
-| static [ToAsposePaperSize](./toasposepapersize/)(this PaperSize) | Converts Windows-specific System.Drawing.Printing.PaperSize to [`PaperSize`](../../aspose.pdf.printing/papersize/). |
-| static [ToNativePaperSize](./tonativepapersize/)(this PaperSize) | Converts [`PaperSize`](../../aspose.pdf.printing/papersize/) to Windows-specific System.Drawing.Printing.PaperSize. |
+| static [ToAsposePaperSize](../../aspose.pdf.printing/papersizeextensions/toasposepapersize/)(this PaperSize) | Converts Windows-specific System.Drawing.Printing.PaperSize to [`PaperSize`](../papersize/). |
+| static [ToNativePaperSize](../../aspose.pdf.printing/papersizeextensions/tonativepapersize/)(this PaperSize) | Converts [`PaperSize`](../papersize/) to Windows-specific System.Drawing.Printing.PaperSize. |
 
 ### See Also
 

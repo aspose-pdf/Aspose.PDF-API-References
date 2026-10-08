@@ -7,7 +7,7 @@ description: "TOCpageHasNoTitleException constructor. Initializes a new instance
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/tocpagehasnotitleexception/tocpagehasnotitleexception/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TOCpageHasNoTitleException constructor
 
@@ -16,10 +16,6 @@ Initializes a new instance of the TOCpageHasNoTitleException class.
 ```csharp
 public TOCpageHasNoTitleException(string message)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| message | String |  |
 
 ### See Also
 

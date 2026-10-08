@@ -7,7 +7,7 @@ description: "ITeXInputDirectory method. Returns the stream to read from or to w
 type: docs
 weight: 10
 url: "/net/aspose.pdf/itexinputdirectory/getfile/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITeXInputDirectory.GetFile method
 

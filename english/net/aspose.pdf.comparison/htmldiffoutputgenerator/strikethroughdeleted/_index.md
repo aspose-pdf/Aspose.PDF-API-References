@@ -7,7 +7,7 @@ description: "HtmlDiffOutputGenerator property. Get or set text-decoration: line
 type: docs
 weight: 100
 url: "/net/aspose.pdf.comparison/htmldiffoutputgenerator/strikethroughdeleted/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlDiffOutputGenerator.StrikethroughDeleted property
 

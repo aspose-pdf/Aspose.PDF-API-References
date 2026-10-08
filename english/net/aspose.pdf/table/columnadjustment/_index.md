@@ -7,7 +7,7 @@ description: "Table property. Gets or sets the table column adjustment."
 type: docs
 weight: 300
 url: "/net/aspose.pdf/table/columnadjustment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.ColumnAdjustment property
 
@@ -19,7 +19,7 @@ public ColumnAdjustment ColumnAdjustment { get; set; }
 
 ### See Also
 
-* enum [ColumnAdjustment](../../../aspose.pdf/columnadjustment/)
+* enum [ColumnAdjustment](../../columnadjustment/)
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

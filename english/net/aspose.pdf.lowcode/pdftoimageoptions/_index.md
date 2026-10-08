@@ -8,11 +8,11 @@ type: docs
 weight: 720
 url: "/net/aspose.pdf.lowcode/pdftoimageoptions/"
 keywords: "PdfToImageOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfToImageOptions class
 
-Represents options for the [`PdfToImage`](../../aspose.pdf.lowcode/pdftoimage/) plugin.
+Represents options for the [`PdfToImage`](../pdftoimage/) plugin.
 
 ```csharp
 public abstract class PdfToImageOptions : IPluginOptions
@@ -22,25 +22,25 @@ public abstract class PdfToImageOptions : IPluginOptions
 
 | Name | Description |
 | --- | --- |
-| [ConversionMode](./conversionmode/) { get; } | Gets image conversion mode. |
-| [Inputs](./inputs/) { get; } | Returns [`PdfToImage`](../../aspose.pdf.lowcode/pdftoimage/) plugin data collection. |
-| virtual [OperationName](./operationname/) { get; } | Returns operation name. |
-| [OutputResolution](./outputresolution/) { get; set; } | Gets or sets the resolution value of the resulting images. |
-| [Outputs](./outputs/) { get; } |  |
-| [PageList](./pagelist/) { get; set; } | Gets or sets a list of pages for the process. |
+| [ConversionMode](../../aspose.pdf.lowcode/pdftoimageoptions/conversionmode/) { get; } | Gets image conversion mode. |
+| [Inputs](../../aspose.pdf.lowcode/pdftoimageoptions/inputs/) { get; } | Returns [`PdfToImage`](../pdftoimage/) plugin data collection. |
+| virtual [OperationName](../../aspose.pdf.lowcode/pdftoimageoptions/operationname/) { get; } | Returns operation name. |
+| [OutputResolution](../../aspose.pdf.lowcode/pdftoimageoptions/outputresolution/) { get; set; } | Gets or sets the resolution value of the resulting images. |
+| [Outputs](../../aspose.pdf.lowcode/pdftoimageoptions/outputs/) { get; } |  |
+| [PageList](../../aspose.pdf.lowcode/pdftoimageoptions/pagelist/) { get; set; } | Gets or sets a list of pages for the process. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddInput](./addinput/)(IDataSource) | Adds new data source to the [`PdfToImage`](../../aspose.pdf.lowcode/pdftoimage/) plugin data collection. |
-| [AddOutput](./addoutput/)(IDataSource) | Sets new save data source. Can only be a . If you want save images into memory streams, pass null as parameter. |
+| [AddInput](../../aspose.pdf.lowcode/pdftoimageoptions/addinput/)(IDataSource) | Adds new data source to the [`PdfToImage`](../pdftoimage/) plugin data collection. |
+| [AddOutput](../../aspose.pdf.lowcode/pdftoimageoptions/addoutput/)(IDataSource) | Sets new save data source. Can only be a . If you want save images into memory streams, pass null as parameter. |
 
 ## Other Members
 
 | Name | Description |
 | --- | --- |
-| enum [ImageConversionMode](../../aspose.pdf.lowcode/pdftoimageoptions.imageconversionmode) | Defines different modes which can be used while converting from PDF document to Jpeg image. See [`JpegOptions`](../../aspose.pdf.lowcode/jpegoptions/) class. |
+| enum [ImageConversionMode](../../aspose.pdf.lowcode/pdftoimageoptions.imageconversionmode) | Defines different modes which can be used while converting from PDF document to Jpeg image. See [`JpegOptions`](../jpegoptions/) class. |
 
 ## Remarks
 
@@ -48,6 +48,7 @@ The PdfImageOptions class contains base functions to add data (files, streams) r
 
 ### See Also
 
+* interface [IPluginOptions](../ipluginoptions/)
 * namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../)
 

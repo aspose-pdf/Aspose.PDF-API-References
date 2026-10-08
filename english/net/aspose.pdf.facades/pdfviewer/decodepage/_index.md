@@ -7,7 +7,7 @@ description: "PdfViewer method. Decodes a page of one Pdf file."
 type: docs
 weight: 190
 url: "/net/aspose.pdf.facades/pdfviewer/decodepage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.DecodePage method
 

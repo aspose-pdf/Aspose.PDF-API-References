@@ -8,7 +8,7 @@ type: docs
 weight: 120
 url: "/net/aspose.pdf.devices/jpegdevice/"
 keywords: "JpegDevice, Aspose.Pdf.Devices, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## JpegDevice class
 
@@ -22,16 +22,16 @@ public sealed class JpegDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [JpegDevice](./jpegdevice/#constructor)() | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with default resolution and maximum quality. |
-| [JpegDevice](./jpegdevice/#constructor_1)(int) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class. |
-| [JpegDevice](./jpegdevice/#constructor_2)(PageSize) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with provided page size, default resolution (=150) and maximum quality. |
-| [JpegDevice](./jpegdevice/#constructor_3)(Resolution) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class. |
-| [JpegDevice](./jpegdevice/#constructor_4)(int, int) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with provided image dimensions, default resolution (=150) and maximum quality. |
-| [JpegDevice](./jpegdevice/#constructor_5)(PageSize, Resolution) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with provided page size, resolution and maximum quality. |
-| [JpegDevice](./jpegdevice/#constructor_6)(Resolution, int) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class. |
-| [JpegDevice](./jpegdevice/#constructor_7)(int, int, Resolution) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with provided image dimensions, resolution and maximum quality. |
-| [JpegDevice](./jpegdevice/#constructor_8)(PageSize, Resolution, int) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with provided page size, resolution and quality. |
-| [JpegDevice](./jpegdevice/#constructor_9)(int, int, Resolution, int) | Initializes a new instance of the [`JpegDevice`](../../aspose.pdf.devices/jpegdevice/) class with provided image dimensions, resolution and quality. |
+| [JpegDevice](jpegdevice/#constructor)() | Initializes a new instance of the `JpegDevice` class with default resolution and maximum quality. |
+| [JpegDevice](jpegdevice/#constructor_1)(Resolution) | Initializes a new instance of the `JpegDevice` class. Resolution for the result image file, see [`Resolution`](../resolution/) class. |
+| [JpegDevice](jpegdevice/#constructor_2)(int) | Initializes a new instance of the `JpegDevice` class. |
+| [JpegDevice](jpegdevice/#constructor_3)(Resolution, int) | Initializes a new instance of the `JpegDevice` class. |
+| [JpegDevice](jpegdevice/#constructor_4)(int, int) | Initializes a new instance of the `JpegDevice` class with provided image dimensions, default resolution (=150) and maximum quality. |
+| [JpegDevice](jpegdevice/#constructor_5)(PageSize) | Initializes a new instance of the `JpegDevice` class with provided page size, default resolution (=150) and maximum quality. |
+| [JpegDevice](jpegdevice/#constructor_6)(int, int, Resolution) | Initializes a new instance of the `JpegDevice` class with provided image dimensions, resolution and maximum quality. |
+| [JpegDevice](jpegdevice/#constructor_7)(PageSize, Resolution) | Initializes a new instance of the `JpegDevice` class with provided page size, resolution and maximum quality. |
+| [JpegDevice](jpegdevice/#constructor_8)(int, int, Resolution, int) | Initializes a new instance of the `JpegDevice` class with provided image dimensions, resolution and quality. |
+| [JpegDevice](jpegdevice/#constructor_9)(PageSize, Resolution, int) | Initializes a new instance of the `JpegDevice` class with provided page size, resolution and quality. |
 
 ## Properties
 
@@ -48,8 +48,9 @@ public sealed class JpegDevice : ImageDevice
 
 | Name | Description |
 | --- | --- |
-| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Converts the page into `Bitmap`. |
-| override [Process](./process/)(Page, Stream) | Converts the page into jpeg and saves it in the output stream. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | Converts the page into Bitmap. |
+| override [Process](../../aspose.pdf.devices/jpegdevice/process/)(Page, Stream) | Converts the page into jpeg and saves it in the output stream. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
 
 ### See Also
 

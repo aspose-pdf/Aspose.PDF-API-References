@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Facades.ISaveableFacade interface. Facade interface tha
 type: docs
 weight: 250
 url: "/net/aspose.pdf.facades/isaveablefacade/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ISaveableFacade interface
 
@@ -21,11 +21,12 @@ public interface ISaveableFacade : IFacade
 
 | Name | Description |
 | --- | --- |
-| [Save](./save/)(Stream) | Saves the result PDF document to stream. |
-| [Save](./save/)(string) | Saves the result PDF document to file. |
+| [Save](../../aspose.pdf.facades/isaveablefacade/save/)(string) | Saves the result PDF document to file. |
+| [Save](../../aspose.pdf.facades/isaveablefacade/save/)(Stream) | Saves the result PDF document to stream. |
 
 ### See Also
 
+* interface [IFacade](../ifacade/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
 

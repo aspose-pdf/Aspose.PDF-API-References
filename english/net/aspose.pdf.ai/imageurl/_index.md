@@ -8,7 +8,7 @@ type: docs
 weight: 690
 url: "/net/aspose.pdf.ai/imageurl/"
 keywords: "ImageUrl, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ImageUrl class
 
@@ -22,14 +22,14 @@ public class ImageUrl
 
 | Name | Description |
 | --- | --- |
-| [ImageUrl](./imageurl/)() | The default constructor. |
+| [ImageUrl](imageurl/)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Detail](./detail/) { get; set; } | Gets or sets the detail level of the image if specified by the user. low uses fewer tokens, you can opt in to high resolution using high . |
-| [Url](./url/) { get; set; } | Gets or sets the external URL of the image, must be a supported image types: jpeg, jpg, png, gif, webp. |
+| [Detail](../../aspose.pdf.ai/imageurl/detail/) { get; set; } | Gets or sets the detail level of the image if specified by the user. low uses fewer tokens, you can opt in to high resolution using high . |
+| [Url](../../aspose.pdf.ai/imageurl/url/) { get; set; } | Gets or sets the external URL of the image, must be a supported image types: jpeg, jpg, png, gif, webp. |
 
 ### See Also
 

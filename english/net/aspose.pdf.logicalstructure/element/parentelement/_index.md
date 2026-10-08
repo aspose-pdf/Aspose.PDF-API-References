@@ -7,7 +7,7 @@ description: "Element property. Get parent element."
 type: docs
 weight: 120
 url: "/net/aspose.pdf.logicalstructure/element/parentelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Element.ParentElement property
 
@@ -23,7 +23,7 @@ Parent element.
 
 ### See Also
 
-* class [Element](../../../aspose.pdf.structure/element/)
+* class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,11 +7,11 @@ description: "FloatingBox property. Gets or sets a MarginInfo object that indica
 type: docs
 weight: 120
 url: "/net/aspose.pdf/floatingbox/padding/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FloatingBox.Padding property
 
-Gets or sets a [`MarginInfo`](../../../aspose.pdf/margininfo/) object that indicates the padding of the floating box.
+Gets or sets a [`MarginInfo`](../../margininfo/) object that indicates the padding of the floating box.
 
 ```csharp
 public MarginInfo Padding { get; set; }
@@ -19,7 +19,7 @@ public MarginInfo Padding { get; set; }
 
 ### See Also
 
-* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [MarginInfo](../../margininfo/)
 * class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

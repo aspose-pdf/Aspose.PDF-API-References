@@ -7,7 +7,7 @@ description: "Image property. Gets or sets a string value that indicates the tit
 type: docs
 weight: 140
 url: "/net/aspose.pdf/image/title/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Image.Title property
 

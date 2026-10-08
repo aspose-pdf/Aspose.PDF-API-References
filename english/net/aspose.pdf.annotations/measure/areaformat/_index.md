@@ -7,7 +7,7 @@ description: "Measure property. A number format array for measurement of area."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.annotations/measure/areaformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.AreaFormat property
 
@@ -19,6 +19,7 @@ public NumberFormatList AreaFormat { get; set; }
 
 ### See Also
 
+* class [NumberFormatList](../../measure.numberformatlist/)
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

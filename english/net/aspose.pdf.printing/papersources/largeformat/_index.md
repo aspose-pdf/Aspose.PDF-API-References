@@ -7,7 +7,7 @@ description: "PaperSources field. Represents the bin for the larger format paper
 type: docs
 weight: 100
 url: "/net/aspose.pdf.printing/papersources/largeformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PaperSources.LargeFormat field
 
@@ -19,7 +19,7 @@ public static readonly PaperSource LargeFormat;
 
 ### See Also
 
-* class [PaperSource](../../../aspose.pdf.printing/papersource/)
+* class [PaperSource](../../papersource/)
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)

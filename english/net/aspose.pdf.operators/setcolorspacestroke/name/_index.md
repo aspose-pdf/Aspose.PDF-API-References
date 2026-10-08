@@ -7,7 +7,7 @@ description: "SetColorSpaceStroke property. Gets or sets color space name."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/setcolorspacestroke/name/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColorSpaceStroke.Name property
 

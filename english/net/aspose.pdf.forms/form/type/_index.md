@@ -7,7 +7,7 @@ description: "Form property. Gets type of the form. Possible values are: Standar
 type: docs
 weight: 330
 url: "/net/aspose.pdf.forms/form/type/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.Type property
 
@@ -19,7 +19,7 @@ public FormType Type { get; set; }
 
 ### See Also
 
-* enum [FormType](../../../aspose.pdf.forms/formtype/)
+* enum [FormType](../../formtype/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)

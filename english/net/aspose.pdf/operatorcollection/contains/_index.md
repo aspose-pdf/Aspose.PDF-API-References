@@ -7,7 +7,7 @@ description: "OperatorCollection method. Returns true if the collection contains
 type: docs
 weight: 210
 url: "/net/aspose.pdf/operatorcollection/contains/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OperatorCollection.Contains method
 
@@ -27,7 +27,7 @@ True - if operator found; otherwise, false.
 
 ### See Also
 
-* class [Operator](../../../aspose.pdf/operator/)
+* class [Operator](../../operator/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

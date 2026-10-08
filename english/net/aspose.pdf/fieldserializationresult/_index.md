@@ -8,7 +8,7 @@ type: docs
 weight: 840
 url: "/net/aspose.pdf/fieldserializationresult/"
 keywords: "FieldSerializationResult, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FieldSerializationResult class
 
@@ -22,10 +22,10 @@ public class FieldSerializationResult
 
 | Name | Description |
 | --- | --- |
-| [ErrorMessages](./errormessages/) { get; } | Gets the error messages associated with the serialization process. |
-| [FieldFullName](./fieldfullname/) { get; } | Gets the full name of the field. |
-| [FieldSerializationStatus](./fieldserializationstatus/) { get; } | Gets the status of the form field serialization. |
-| [WarningMessages](./warningmessages/) { get; } | Gets the warning messages associated with the serialization process. |
+| [ErrorMessages](../../aspose.pdf/fieldserializationresult/errormessages/) { get; } | Gets the error messages associated with the serialization process. |
+| [FieldFullName](../../aspose.pdf/fieldserializationresult/fieldfullname/) { get; } | Gets the full name of the field. |
+| [FieldSerializationStatus](../../aspose.pdf/fieldserializationresult/fieldserializationstatus/) { get; } | Gets the status of the form field serialization. |
+| [WarningMessages](../../aspose.pdf/fieldserializationresult/warningmessages/) { get; } | Gets the warning messages associated with the serialization process. |
 
 ### See Also
 

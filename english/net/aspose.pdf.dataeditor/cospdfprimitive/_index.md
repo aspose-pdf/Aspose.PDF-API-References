@@ -8,11 +8,11 @@ type: docs
 weight: 60
 url: "/net/aspose.pdf.dataeditor/cospdfprimitive/"
 keywords: "CosPdfPrimitive, Aspose.Pdf.DataEditor, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfPrimitive class
 
-This class represents base public type [`CosPdfPrimitive`](../../aspose.pdf.dataeditor/cospdfprimitive/).
+This class represents base public type [`CosPdfPrimitive`](../cospdfprimitive/).
 
 ```csharp
 public abstract class CosPdfPrimitive : ICosPdfPrimitive
@@ -22,15 +22,16 @@ public abstract class CosPdfPrimitive : ICosPdfPrimitive
 
 | Name | Description |
 | --- | --- |
-| virtual [ToCosPdfBoolean](./tocospdfboolean/)() | Tries cast this instance to [`CosPdfBoolean`](../../aspose.pdf.dataeditor/cospdfboolean/). |
-| virtual [ToCosPdfDictionary](./tocospdfdictionary/)() | Tries cast this instance to [`CosPdfDictionary`](../../aspose.pdf.dataeditor/cospdfdictionary/). |
-| virtual [ToCosPdfName](./tocospdfname/)() | Tries cast this instance to [`CosPdfName`](../../aspose.pdf.dataeditor/cospdfname/). |
-| virtual [ToCosPdfNumber](./tocospdfnumber/)() | Tries cast this instance to [`CosPdfNumber`](../../aspose.pdf.dataeditor/cospdfnumber/). |
-| virtual [ToCosPdfString](./tocospdfstring/)() | Tries cast this instance to [`CosPdfString`](../../aspose.pdf.dataeditor/cospdfstring/). |
-| [ToString](../../aspose.pdf.dataeditor/icospdfprimitive/tostring/)() | `String` representation of instance [`ICosPdfPrimitive`](../../aspose.pdf.dataeditor/icospdfprimitive/). |
+| virtual [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/)() | Tries cast this instance to [`CosPdfBoolean`](../cospdfboolean/). |
+| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | Tries cast this instance to [`CosPdfDictionary`](../cospdfdictionary/). |
+| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | Tries cast this instance to [`CosPdfName`](../cospdfname/). |
+| virtual [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/)() | Tries cast this instance to [`CosPdfNumber`](../cospdfnumber/). |
+| virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | Tries cast this instance to [`CosPdfString`](../cospdfstring/). |
+| [ToString](../../aspose.pdf.dataeditor/icospdfprimitive/tostring/)() | String representation of instance [`ICosPdfPrimitive`](../icospdfprimitive/). |
 
 ### See Also
 
+* interface [ICosPdfPrimitive](../icospdfprimitive/)
 * namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../)
 

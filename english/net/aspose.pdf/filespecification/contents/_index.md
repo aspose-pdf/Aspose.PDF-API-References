@@ -7,7 +7,7 @@ description: "FileSpecification property. Gets or sets contents file. This prope
 type: docs
 weight: 180
 url: "/net/aspose.pdf/filespecification/contents/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileSpecification.Contents property
 

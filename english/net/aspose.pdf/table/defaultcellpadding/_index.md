@@ -7,7 +7,7 @@ description: "Table property. Gets or sets the default cell padding."
 type: docs
 weight: 230
 url: "/net/aspose.pdf/table/defaultcellpadding/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Table.DefaultCellPadding property
 
@@ -19,7 +19,7 @@ public MarginInfo DefaultCellPadding { get; set; }
 
 ### See Also
 
-* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [MarginInfo](../../margininfo/)
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

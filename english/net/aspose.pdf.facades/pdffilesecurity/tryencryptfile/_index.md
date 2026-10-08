@@ -7,7 +7,7 @@ description: "PdfFileSecurity method. Encrypts Pdf file with userpassword and ow
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/pdffilesecurity/tryencryptfile/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileSecurity.TryEncryptFile method
 
@@ -50,8 +50,8 @@ Dim result As Boolean = fileSecurity.TryEncryptFile("userpass", "ownerpass", Doc
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* enum [KeySize](../../../aspose.pdf.facades/keysize/)
+* class [DocumentPrivilege](../../documentprivilege/)
+* enum [KeySize](../../keysize/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

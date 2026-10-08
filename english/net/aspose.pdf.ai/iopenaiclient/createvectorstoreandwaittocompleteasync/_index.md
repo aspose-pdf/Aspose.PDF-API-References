@@ -7,7 +7,7 @@ description: "IOpenAIClient method. Creates a new vector store and waits for it 
 type: docs
 weight: 410
 url: "/net/aspose.pdf.ai/iopenaiclient/createvectorstoreandwaittocompleteasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOpenAIClient.CreateVectorStoreAndWaitToCompleteAsync method
 
@@ -30,7 +30,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [VectorStoreCreateRequest](../../../aspose.pdf.ai/vectorstorecreaterequest/)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

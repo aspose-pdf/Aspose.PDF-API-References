@@ -7,7 +7,7 @@ description: "XmpPdfAExtensionSchema method. Returns the xml element (tag - li) 
 type: docs
 weight: 50
 url: "/net/aspose.pdf/xmppdfaextensionschema/getschemaxml/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchema.GetSchemaXml method
 

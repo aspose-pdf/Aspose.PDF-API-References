@@ -7,11 +7,11 @@ description: "LoadOptions property. Represents file format which LoadOptions des
 type: docs
 weight: 20
 url: "/net/aspose.pdf/loadoptions/loadformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LoadOptions.LoadFormat property
 
-Represents file format which [`LoadOptions`](../../../aspose.pdf/loadoptions/) describes.
+Represents file format which [`LoadOptions`](../) describes.
 
 ```csharp
 public LoadFormat LoadFormat { get; }
@@ -19,7 +19,7 @@ public LoadFormat LoadFormat { get; }
 
 ### See Also
 
-* enum [LoadFormat](../../../aspose.pdf/loadformat/)
+* enum [LoadFormat](../../loadformat/)
 * class [LoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

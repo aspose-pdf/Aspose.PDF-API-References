@@ -7,7 +7,7 @@ description: "VectorStoreResponse constructor. The default constructor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/vectorstoreresponse/vectorstoreresponse/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreResponse constructor
 

@@ -7,12 +7,12 @@ description: "DocumentChunk method. Returns a VectorStoreCollectionDefinition de
 type: docs
 weight: 20
 url: "/net/aspose.pdf.ai/documentchunk/getvectordefinition/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentChunk.GetVectorDefinition method
 
 Returns a `VectorStoreCollectionDefinition` describing the schema
- of [`DocumentChunk`](../../../aspose.pdf.ai/documentchunk/) for use with a vector store collection.
+ of [`DocumentChunk`](../) for use with a vector store collection.
 
 ```csharp
 public static VectorStoreCollectionDefinition GetVectorDefinition(int dimensions)
@@ -25,7 +25,7 @@ public static VectorStoreCollectionDefinition GetVectorDefinition(int dimensions
 ### Return Value
 
 A `VectorStoreCollectionDefinition` that maps all relevant
- [`DocumentChunk`](../../../aspose.pdf.ai/documentchunk/) properties to their vector store roles.
+ [`DocumentChunk`](../) properties to their vector store roles.
 
 ### Exceptions
 

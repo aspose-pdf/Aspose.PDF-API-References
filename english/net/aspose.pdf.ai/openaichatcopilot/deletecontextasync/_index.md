@@ -7,7 +7,7 @@ description: "OpenAIChatCopilot method."
 type: docs
 weight: 90
 url: "/net/aspose.pdf.ai/openaichatcopilot/deletecontextasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OpenAIChatCopilot.DeleteContextAsync method
 
@@ -16,14 +16,6 @@ product_version: "26.9.0"
 ```csharp
 public Task DeleteContextAsync(CancellationToken? cancellationToken)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| cancellationToken | Nullable`1 |  |
-
-### Return Value
-
-[Task](https://learn.microsoft.com/dotnet/api/system.threading.tasks.task)
 
 ### See Also
 

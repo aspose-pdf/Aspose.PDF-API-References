@@ -7,7 +7,7 @@ description: "HtmlFragment property. Gets or sets font"
 type: docs
 weight: 60
 url: "/net/aspose.pdf/htmlfragment/textstate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlFragment.TextState property
 

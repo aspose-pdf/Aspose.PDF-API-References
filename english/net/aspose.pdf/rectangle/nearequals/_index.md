@@ -7,7 +7,7 @@ description: "Rectangle method. Check if rectangles are near equal i.e. have nea
 type: docs
 weight: 80
 url: "/net/aspose.pdf/rectangle/nearequals/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.NearEquals method
 
@@ -28,7 +28,7 @@ True if rectangles are eqals, false otherwise.
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf.drawing/rectangle/)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

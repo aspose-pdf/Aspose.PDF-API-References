@@ -7,7 +7,7 @@ description: "PdfFileEditor property. Number of documents concatenated before ne
 type: docs
 weight: 1210
 url: "/net/aspose.pdf.facades/pdffileeditor/concatenationpacketsize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ConcatenationPacketSize property
 

@@ -7,11 +7,11 @@ description: "FileFontSource constructor. Initializes a new instance of FileFont
 type: docs
 weight: 10
 url: "/net/aspose.pdf.text/filefontsource/filefontsource/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FileFontSource constructor
 
-Initializes a new instance of [`FileFontSource`](../../../aspose.pdf.text/filefontsource/) class.
+Initializes a new instance of [`FileFontSource`](../) class.
 
 ```csharp
 public FileFontSource(string filePath)

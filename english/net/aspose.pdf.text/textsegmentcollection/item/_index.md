@@ -7,7 +7,7 @@ description: "TextSegmentCollection property. Gets the text segment element at t
 type: docs
 weight: 110
 url: "/net/aspose.pdf.text/textsegmentcollection/item/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSegmentCollection indexer
 
@@ -27,7 +27,7 @@ TextSegment object.
 
 ### See Also
 
-* class [TextSegment](../../../aspose.pdf.text/textsegment/)
+* class [TextSegment](../../textsegment/)
 * class [TextSegmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

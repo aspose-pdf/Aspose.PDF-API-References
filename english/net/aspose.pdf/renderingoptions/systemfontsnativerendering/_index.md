@@ -7,7 +7,7 @@ description: "RenderingOptions property. Gets or sets a mode where system fonts 
 type: docs
 weight: 40
 url: "/net/aspose.pdf/renderingoptions/systemfontsnativerendering/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RenderingOptions.SystemFontsNativeRendering property
 

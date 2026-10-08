@@ -7,7 +7,7 @@ description: "JpegOptions property. Gets and sets Jpeg quality"
 type: docs
 weight: 30
 url: "/net/aspose.pdf.lowcode/jpegoptions/quality/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## JpegOptions.Quality property
 

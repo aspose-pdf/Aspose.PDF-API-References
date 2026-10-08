@@ -7,7 +7,7 @@ description: "SetColor property. Gets or sets the green component."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.operators/setcolor/g/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColor.G property
 

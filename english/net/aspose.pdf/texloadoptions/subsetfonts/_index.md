@@ -7,7 +7,7 @@ description: "TeXLoadOptions property. Gets/sets the flag indicating whether to 
 type: docs
 weight: 80
 url: "/net/aspose.pdf/texloadoptions/subsetfonts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXLoadOptions.SubsetFonts property
 

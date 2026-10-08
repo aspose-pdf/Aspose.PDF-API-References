@@ -7,7 +7,7 @@ description: "SoundData property. Gets or sets the number of bits per sample val
 type: docs
 weight: 30
 url: "/net/aspose.pdf.annotations/sounddata/bits/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SoundData.Bits property
 

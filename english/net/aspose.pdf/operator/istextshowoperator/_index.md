@@ -7,7 +7,7 @@ description: "Operator method. Determines if the operator is operator which resp
 type: docs
 weight: 40
 url: "/net/aspose.pdf/operator/istextshowoperator/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Operator.IsTextShowOperator method
 
@@ -27,7 +27,7 @@ True if this is text output operator
 
 ### See Also
 
-* class [Operator](../../../aspose.pdf/operator/)
+* class [Operator](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

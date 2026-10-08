@@ -7,7 +7,7 @@ description: "StructureTypeStandard field. (Table of contents item) An individua
 type: docs
 weight: 130
 url: "/net/aspose.pdf.logicalstructure/structuretypestandard/toci/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.TOCI field
 
@@ -42,7 +42,7 @@ public static readonly StructureTypeStandard TOCI;
 
 ### See Also
 
-* class [StructureTypeStandard](../../../aspose.pdf.logicalstructure/structuretypestandard/)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

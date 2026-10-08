@@ -7,11 +7,11 @@ description: "TimestampAlgorithmInfo field. Gets the hash algorithm that hashed 
 type: docs
 weight: 10
 url: "/net/aspose.pdf.security/timestampalgorithminfo/contenthashalgorithm/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TimestampAlgorithmInfo.ContentHashAlgorithm field
 
-Gets the hash algorithm that hashed the content of the document and then signed it using `DigestHashAlgorithm`.
+Gets the hash algorithm that hashed the content of the document and then signed it using [`DigestHashAlgorithm`](../../signaturealgorithminfo/digesthashalgorithm/).
 
 ```csharp
 public readonly DigestHashAlgorithm ContentHashAlgorithm;

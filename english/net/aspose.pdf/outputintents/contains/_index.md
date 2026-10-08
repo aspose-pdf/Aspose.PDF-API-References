@@ -7,7 +7,7 @@ description: "OutputIntents method. Determines whether the collection contains a
 type: docs
 weight: 30
 url: "/net/aspose.pdf/outputintents/contains/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputIntents.Contains method
 
@@ -23,11 +23,11 @@ public bool Contains(OutputIntent item)
 
 ### Return Value
 
- if *item* is found in the collection; otherwise, .
+`true` if *item* is found in the collection; otherwise, `false`.
 
 ### See Also
 
-* class [OutputIntent](../../../aspose.pdf/outputintent/)
+* class [OutputIntent](../../outputintent/)
 * class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

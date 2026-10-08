@@ -7,7 +7,7 @@ description: "IOpenAIClient method. Creates a new completion asynchronously."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/iopenaiclient/createcompletionasync/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IOpenAIClient.CreateCompletionAsync method
 
@@ -29,7 +29,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [CompletionCreateRequest](../../../aspose.pdf.ai/completioncreaterequest/)
+* class [CompletionResponse](../../completionresponse/)
+* class [CompletionCreateRequest](../../completioncreaterequest/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

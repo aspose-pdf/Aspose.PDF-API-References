@@ -7,7 +7,7 @@ description: "MarginInfo property. Gets or sets a float value that indicates the
 type: docs
 weight: 40
 url: "/net/aspose.pdf/margininfo/left/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## MarginInfo.Left property
 

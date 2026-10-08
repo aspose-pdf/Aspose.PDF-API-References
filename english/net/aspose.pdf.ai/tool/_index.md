@@ -8,7 +8,7 @@ type: docs
 weight: 1280
 url: "/net/aspose.pdf.ai/tool/"
 keywords: "Tool, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Tool class
 
@@ -22,24 +22,24 @@ public class Tool
 
 | Name | Description |
 | --- | --- |
-| [Tool](./tool/#constructor)() | Initializes a new instance of the [`Tool`](../../aspose.pdf.ai/tool/) class. |
-| [Tool](./tool/#constructor_1)(Function) | Initializes a new instance of the [`Tool`](../../aspose.pdf.ai/tool/) class with the specified function. |
-| [Tool](./tool/#constructor_2)(string) | Initializes a new instance of the [`Tool`](../../aspose.pdf.ai/tool/) class with the specified tool type. |
+| [Tool](tool/#constructor)() | Initializes a new instance of the `Tool` class. |
+| [Tool](tool/#constructor_1)(string) | Initializes a new instance of the `Tool` class with the specified tool type. |
+| [Tool](tool/#constructor_2)(Function) | Initializes a new instance of the `Tool` class with the specified function. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| static [CodeInterpreter](./codeinterpreter/) { get; } | Gets a tool instance representing a code interpreter. |
-| static [FileSearch](./filesearch/) { get; } | Gets a tool instance representing a file search tool. |
-| [ToolFunction](./toolfunction/) { get; set; } | Gets or sets the function that the model can call. |
-| [ToolType](./tooltype/) { get; set; } | Gets or sets the type of the tool. Currently, only function is supported. |
+| static [CodeInterpreter](../../aspose.pdf.ai/tool/codeinterpreter/) { get; } | Gets a tool instance representing a code interpreter. |
+| static [FileSearch](../../aspose.pdf.ai/tool/filesearch/) { get; } | Gets a tool instance representing a file search tool. |
+| [ToolFunction](../../aspose.pdf.ai/tool/toolfunction/) { get; set; } | Gets or sets the function that the model can call. |
+| [ToolType](../../aspose.pdf.ai/tool/tooltype/) { get; set; } | Gets or sets the type of the tool. Currently, only function is supported. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Function](./function/)(Function) | Creates a new tool instance with the specified function. |
+| static [Function](../../aspose.pdf.ai/tool/function/)(Function) | Creates a new tool instance with the specified function. |
 
 ### See Also
 

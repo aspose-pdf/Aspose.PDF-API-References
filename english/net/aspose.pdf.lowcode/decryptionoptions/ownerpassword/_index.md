@@ -7,7 +7,7 @@ description: "DecryptionOptions property. Owner password."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/decryptionoptions/ownerpassword/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DecryptionOptions.OwnerPassword property
 

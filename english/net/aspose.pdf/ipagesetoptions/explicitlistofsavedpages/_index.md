@@ -7,7 +7,7 @@ description: "IPageSetOptions property. Specifies the array of numbers of pages 
 type: docs
 weight: 10
 url: "/net/aspose.pdf/ipagesetoptions/explicitlistofsavedpages/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IPageSetOptions.ExplicitListOfSavedPages property
 

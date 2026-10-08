@@ -7,7 +7,7 @@ description: "TextStamp property. Gets or sets font used for replacing if user f
 type: docs
 weight: 130
 url: "/net/aspose.pdf/textstamp/replacementfont/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextStamp.ReplacementFont property
 

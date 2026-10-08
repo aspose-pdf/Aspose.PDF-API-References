@@ -7,7 +7,7 @@ description: "Measure property. Point that shall specify the origin of the measu
 type: docs
 weight: 90
 url: "/net/aspose.pdf.annotations/measure/origin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.Origin property
 

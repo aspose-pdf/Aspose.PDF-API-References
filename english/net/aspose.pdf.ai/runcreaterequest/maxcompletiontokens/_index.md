@@ -7,7 +7,7 @@ description: "RunCreateRequest property. Gets or sets the maximum number of comp
 type: docs
 weight: 130
 url: "/net/aspose.pdf.ai/runcreaterequest/maxcompletiontokens/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunCreateRequest.MaxCompletionTokens property
 

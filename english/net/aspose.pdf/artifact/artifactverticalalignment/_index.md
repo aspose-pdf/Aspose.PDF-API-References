@@ -7,7 +7,7 @@ description: "Artifact property. Vertical alignment of artifact. If position is 
 type: docs
 weight: 290
 url: "/net/aspose.pdf/artifact/artifactverticalalignment/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Artifact.ArtifactVerticalAlignment property
 
@@ -20,7 +20,7 @@ public VerticalAlignment ArtifactVerticalAlignment { get; set; }
 
 ### See Also
 
-* enum [VerticalAlignment](../../../aspose.pdf/verticalalignment/)
+* enum [VerticalAlignment](../../verticalalignment/)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

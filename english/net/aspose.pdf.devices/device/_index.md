@@ -8,7 +8,7 @@ type: docs
 weight: 50
 url: "/net/aspose.pdf.devices/device/"
 keywords: "Device, Aspose.Pdf.Devices, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Device class
 

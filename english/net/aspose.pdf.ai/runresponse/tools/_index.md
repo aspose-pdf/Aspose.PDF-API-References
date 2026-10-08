@@ -7,7 +7,7 @@ description: "RunResponse property. Gets or sets the list of tools that the assi
 type: docs
 weight: 180
 url: "/net/aspose.pdf.ai/runresponse/tools/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunResponse.Tools property
 
@@ -19,6 +19,7 @@ public List<Tool> Tools { get; set; }
 
 ### See Also
 
+* class [Tool](../../tool/)
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)

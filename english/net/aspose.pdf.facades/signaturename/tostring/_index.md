@@ -7,11 +7,11 @@ description: "SignatureName method. Returns a string representation of the Signa
 type: docs
 weight: 10
 url: "/net/aspose.pdf.facades/signaturename/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureName.ToString method
 
-Returns a string representation of the [`SignatureName`](../../../aspose.pdf.facades/signaturename/) instance, primarily using its name.
+Returns a string representation of the [`SignatureName`](../) instance, primarily using its name.
 
 ```csharp
 public override string ToString()

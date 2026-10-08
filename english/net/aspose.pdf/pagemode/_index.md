@@ -7,7 +7,7 @@ description: "Aspose.Pdf.PageMode enum. Class descibes used components of the do
 type: docs
 weight: 2220
 url: "/net/aspose.pdf/pagemode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageMode enumeration
 

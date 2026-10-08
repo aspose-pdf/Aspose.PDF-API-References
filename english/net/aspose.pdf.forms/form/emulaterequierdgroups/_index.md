@@ -7,7 +7,7 @@ description: "Form property. If this property is true then additional red bounda
 type: docs
 weight: 310
 url: "/net/aspose.pdf.forms/form/emulaterequierdgroups/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Form.EmulateRequierdGroups property
 

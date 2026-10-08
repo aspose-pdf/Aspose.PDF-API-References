@@ -7,7 +7,7 @@ description: "PdfAValidationResult field. Gets the PDF/A standard version used f
 type: docs
 weight: 20
 url: "/net/aspose.pdf.lowcode/pdfavalidationresult/standardversion/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfAValidationResult.StandardVersion field
 
@@ -19,7 +19,7 @@ public readonly PdfAStandardVersion StandardVersion;
 
 ### See Also
 
-* enum [PdfAStandardVersion](../../../aspose.pdf.lowcode/pdfastandardversion/)
+* enum [PdfAStandardVersion](../../pdfastandardversion/)
 * class [PdfAValidationResult](../)
 * namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
 * assembly [Aspose.PDF](../../../)

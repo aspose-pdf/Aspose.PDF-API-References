@@ -7,7 +7,7 @@ description: "XmpValue method. Converts to double."
 type: docs
 weight: 80
 url: "/net/aspose.pdf/xmpvalue/todouble/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpValue.ToDouble method
 

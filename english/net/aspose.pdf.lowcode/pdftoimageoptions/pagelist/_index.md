@@ -7,7 +7,7 @@ description: "PdfToImageOptions property. Gets or sets a list of pages for the p
 type: docs
 weight: 70
 url: "/net/aspose.pdf.lowcode/pdftoimageoptions/pagelist/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfToImageOptions.PageList property
 

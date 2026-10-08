@@ -7,40 +7,9 @@ description: "CosPdfDictionary method. Creates an empty dictionary that will be 
 type: docs
 weight: 20
 url: "/net/aspose.pdf.dataeditor/cospdfdictionary/createemptydictionary/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## CreateEmptyDictionary([Document](../../../aspose.pdf/document/)) {#createemptydictionary}
-
-Creates an empty dictionary that will be attached to the document.
-
-```csharp
-public static CosPdfDictionary CreateEmptyDictionary(Document document)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | Document | Result dictionary will be attached to this document. |
-
-### Return Value
-
-An empty dictionary.
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | The document is null. |
-
-### See Also
-
-* class [CosPdfDictionary](../../../aspose.pdf.dataeditor/cospdfdictionary/)
-* class [Document](../../../aspose.pdf/document/)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## CreateEmptyDictionary([Page](../../../aspose.pdf/page/)) {#createemptydictionary_1}
+## CreateEmptyDictionary(Page) {#createemptydictionary}
 
 Creates an empty dictionary that will be attached to the page.
 
@@ -64,8 +33,39 @@ An empty dictionary.
 
 ### See Also
 
-* class [CosPdfDictionary](../../../aspose.pdf.dataeditor/cospdfdictionary/)
+* class [CosPdfDictionary](../)
 * class [Page](../../../aspose.pdf/page/)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## CreateEmptyDictionary(Document) {#createemptydictionary_1}
+
+Creates an empty dictionary that will be attached to the document.
+
+```csharp
+public static CosPdfDictionary CreateEmptyDictionary(Document document)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | Document | Result dictionary will be attached to this document. |
+
+### Return Value
+
+An empty dictionary.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | The document is null. |
+
+### See Also
+
+* class [CosPdfDictionary](../)
+* class [Document](../../../aspose.pdf/document/)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 

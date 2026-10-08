@@ -7,7 +7,7 @@ description: "FontSubstitutionCollection property. Gets an object that can be us
 type: docs
 weight: 80
 url: "/net/aspose.pdf.text/fontsubstitutioncollection/syncroot/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FontSubstitutionCollection.SyncRoot property
 

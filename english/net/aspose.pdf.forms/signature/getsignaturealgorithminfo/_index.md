@@ -7,7 +7,7 @@ description: "Signature method. Retrieves information about the signature algori
 type: docs
 weight: 40
 url: "/net/aspose.pdf.forms/signature/getsignaturealgorithminfo/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Signature.GetSignatureAlgorithmInfo method
 

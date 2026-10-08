@@ -7,7 +7,7 @@ description: "Aspose.Pdf.ExcelSaveOptions.ExcelFormat enum. Allows to specify .x
 type: docs
 weight: 790
 url: "/net/aspose.pdf/excelsaveoptions.excelformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ExcelSaveOptions.ExcelFormat enumeration
 

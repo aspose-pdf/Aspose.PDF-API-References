@@ -7,7 +7,7 @@ description: "PrintController method. Dispose."
 type: docs
 weight: 60
 url: "/net/aspose.pdf/printcontroller/dispose/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PrintController.Dispose method
 

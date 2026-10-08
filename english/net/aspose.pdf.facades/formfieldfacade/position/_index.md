@@ -7,7 +7,7 @@ description: "FormFieldFacade property. A rectangle object holding field's locat
 type: docs
 weight: 160
 url: "/net/aspose.pdf.facades/formfieldfacade/position/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FormFieldFacade.Position property
 

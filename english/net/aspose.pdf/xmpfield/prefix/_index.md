@@ -7,7 +7,7 @@ description: "XmpField property. Gets the prefix."
 type: docs
 weight: 90
 url: "/net/aspose.pdf/xmpfield/prefix/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpField.Prefix property
 

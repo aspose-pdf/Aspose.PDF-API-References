@@ -7,7 +7,7 @@ description: "SelectFont method. Returns text representation of operator."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/selectfont/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SelectFont.ToString method
 

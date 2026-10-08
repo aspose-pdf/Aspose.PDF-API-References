@@ -7,7 +7,7 @@ description: "StructureElement method. Change parent element for current structu
 type: docs
 weight: 10
 url: "/net/aspose.pdf.logicalstructure/structureelement/changeparentelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## StructureElement.ChangeParentElement method
 
@@ -25,7 +25,7 @@ public void ChangeParentElement(StructureElement newParentElement,
 
 ### See Also
 
-* class [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

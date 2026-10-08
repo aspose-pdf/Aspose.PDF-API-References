@@ -7,11 +7,11 @@ description: "FloatingBox property. Gets or sets a Paragraphs collection that in
 type: docs
 weight: 80
 url: "/net/aspose.pdf/floatingbox/paragraphs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FloatingBox.Paragraphs property
 
-Gets or sets a `Paragraphs` collection that indicates all paragraphs in the cell.
+Gets or sets a [`Paragraphs`](../paragraphs/) collection that indicates all paragraphs in the cell.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }
@@ -19,7 +19,7 @@ public Paragraphs Paragraphs { get; set; }
 
 ### See Also
 
-* class [Paragraphs](../../../aspose.pdf/paragraphs/)
+* class [Paragraphs](../../paragraphs/)
 * class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

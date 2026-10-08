@@ -7,7 +7,7 @@ description: "SignatureCustomAppearance property. Gets/sets font family name. It
 type: docs
 weight: 30
 url: "/net/aspose.pdf.forms/signaturecustomappearance/fontfamilyname/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SignatureCustomAppearance.FontFamilyName property
 

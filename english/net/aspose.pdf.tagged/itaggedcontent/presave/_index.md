@@ -7,7 +7,7 @@ description: "ITaggedContent method. Prepares the tagged content of the document
 type: docs
 weight: 410
 url: "/net/aspose.pdf.tagged/itaggedcontent/presave/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.PreSave method
 

@@ -7,7 +7,7 @@ description: "CosPdfBoolean property. Gets the value."
 type: docs
 weight: 60
 url: "/net/aspose.pdf.dataeditor/cospdfboolean/value/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CosPdfBoolean.Value property
 

@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute BorderStyle: None - No border. Forc
 type: docs
 weight: 130
 url: "/net/aspose.pdf.logicalstructure/attributename/borderstyle_none/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.BorderStyle_None field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName BorderStyle_None;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

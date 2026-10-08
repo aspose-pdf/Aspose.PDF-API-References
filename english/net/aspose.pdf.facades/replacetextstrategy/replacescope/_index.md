@@ -7,7 +7,7 @@ description: "ReplaceTextStrategy property. Scope of the replacement operation (
 type: docs
 weight: 40
 url: "/net/aspose.pdf.facades/replacetextstrategy/replacescope/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ReplaceTextStrategy.ReplaceScope property
 
@@ -19,6 +19,7 @@ public Scope ReplaceScope { get; set; }
 
 ### See Also
 
+* enum [Scope](../../replacetextstrategy.scope/)
 * class [ReplaceTextStrategy](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

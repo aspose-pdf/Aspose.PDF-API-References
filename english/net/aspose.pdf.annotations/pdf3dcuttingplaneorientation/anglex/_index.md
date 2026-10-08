@@ -7,7 +7,7 @@ description: "PDF3DCuttingPlaneOrientation property. Gets or sets the angle to X
 type: docs
 weight: 40
 url: "/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DCuttingPlaneOrientation.AngleX property
 

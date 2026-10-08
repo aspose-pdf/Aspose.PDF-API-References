@@ -7,7 +7,7 @@ description: "OutputTextStyle property. Get and set a text style for non changed
 type: docs
 weight: 40
 url: "/net/aspose.pdf.comparison/outputtextstyle/equalstyle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## OutputTextStyle.EqualStyle property
 
@@ -19,7 +19,7 @@ public TextStyle EqualStyle { get; set; }
 
 ### See Also
 
-* class [TextStyle](../../../aspose.pdf.comparison/textstyle/)
+* class [TextStyle](../../textstyle/)
 * class [OutputTextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)

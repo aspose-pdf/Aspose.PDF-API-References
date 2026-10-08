@@ -7,7 +7,7 @@ description: "VectorStoreFileBatchFileListResponse constructor. The default cons
 type: docs
 weight: 10
 url: "/net/aspose.pdf.ai/vectorstorefilebatchfilelistresponse/vectorstorefilebatchfilelistresponse/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## VectorStoreFileBatchFileListResponse constructor
 

@@ -7,7 +7,7 @@ description: "HeaderFooter property. Gets or sets the margin info."
 type: docs
 weight: 50
 url: "/net/aspose.pdf/headerfooter/margin/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HeaderFooter.Margin property
 
@@ -19,7 +19,7 @@ public MarginInfo Margin { get; set; }
 
 ### See Also
 
-* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [MarginInfo](../../margininfo/)
 * class [HeaderFooter](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

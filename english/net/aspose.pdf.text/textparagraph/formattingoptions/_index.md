@@ -7,7 +7,7 @@ description: "TextParagraph property. Gets or sets formatting options."
 type: docs
 weight: 160
 url: "/net/aspose.pdf.text/textparagraph/formattingoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextParagraph.FormattingOptions property
 
@@ -19,7 +19,7 @@ public TextFormattingOptions FormattingOptions { get; set; }
 
 ### See Also
 
-* class [TextFormattingOptions](../../../aspose.pdf.text/textformattingoptions/)
+* class [TextFormattingOptions](../../textformattingoptions/)
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

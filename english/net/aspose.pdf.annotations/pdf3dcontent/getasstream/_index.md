@@ -7,7 +7,7 @@ description: "PDF3DContent method. Gets 3D content as stream."
 type: docs
 weight: 110
 url: "/net/aspose.pdf.annotations/pdf3dcontent/getasstream/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DContent.GetAsStream method
 

@@ -7,7 +7,7 @@ description: "Document method. Organizes page tree nodes in a document into a ba
 type: docs
 weight: 970
 url: "/net/aspose.pdf/document/pagenodestobalancedtree/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.PageNodesToBalancedTree method
 

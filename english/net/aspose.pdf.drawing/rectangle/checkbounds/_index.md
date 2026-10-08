@@ -7,7 +7,7 @@ description: "Rectangle method."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.drawing/rectangle/checkbounds/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Rectangle.CheckBounds method
 
@@ -16,15 +16,6 @@ product_version: "26.9.0"
 ```csharp
 public override bool CheckBounds(double containerWidth, double containerHeight)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| containerWidth | Double |  |
-| containerHeight | Double |  |
-
-### Return Value
-
-bool
 
 ### See Also
 

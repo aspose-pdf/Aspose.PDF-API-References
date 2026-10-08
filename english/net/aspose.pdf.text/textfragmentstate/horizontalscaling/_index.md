@@ -7,11 +7,11 @@ description: "TextFragmentState property. Gets or sets horizontal scaling of the
 type: docs
 weight: 70
 url: "/net/aspose.pdf.text/textfragmentstate/horizontalscaling/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextFragmentState.HorizontalScaling property
 
-Gets or sets horizontal scaling of the text, represented by the [`TextFragment`](../../../aspose.pdf.text/textfragment/) object.
+Gets or sets horizontal scaling of the text, represented by the [`TextFragment`](../../textfragment/) object.
 
 ```csharp
 public override float HorizontalScaling { get; set; }

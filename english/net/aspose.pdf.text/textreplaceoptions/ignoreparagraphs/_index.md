@@ -7,7 +7,7 @@ description: "TextReplaceOptions property. Gets or sets a value indicating wheth
 type: docs
 weight: 80
 url: "/net/aspose.pdf.text/textreplaceoptions/ignoreparagraphs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextReplaceOptions.IgnoreParagraphs property
 

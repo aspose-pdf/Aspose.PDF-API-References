@@ -7,7 +7,7 @@ description: "ResourceSavingInfo field. Set by converter. Supposed file name tha
 type: docs
 weight: 20
 url: "/net/aspose.pdf/saveoptions.resourcesavinginfo/supposedfilename/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SaveOptions.ResourceSavingInfo.SupposedFileName field
 
@@ -21,7 +21,7 @@ public string SupposedFileName;
 
 ### See Also
 
-* class [SaveOptions.ResourceSavingInfo](../)
+* class [ResourceSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

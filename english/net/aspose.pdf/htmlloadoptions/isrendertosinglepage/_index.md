@@ -7,7 +7,7 @@ description: "HtmlLoadOptions property. Gets or sets rendering all document to s
 type: docs
 weight: 30
 url: "/net/aspose.pdf/htmlloadoptions/isrendertosinglepage/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlLoadOptions.IsRenderToSinglePage property
 

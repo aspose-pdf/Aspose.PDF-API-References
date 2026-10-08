@@ -7,7 +7,7 @@ description: "Document property. Gets document info."
 type: docs
 weight: 1450
 url: "/net/aspose.pdf/document/info/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.Info property
 
@@ -19,7 +19,7 @@ public DocumentInfo Info { get; }
 
 ### See Also
 
-* class [DocumentInfo](../../../aspose.pdf/documentinfo/)
+* class [DocumentInfo](../../documentinfo/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "HtmlSaveOptions field. This field can contain saving strategy that
 type: docs
 weight: 370
 url: "/net/aspose.pdf/htmlsaveoptions/customcsssavingstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.CustomCssSavingStrategy field
 
@@ -24,6 +24,7 @@ public CssSavingStrategy CustomCssSavingStrategy;
 
 ### See Also
 
+* delegate [CssSavingStrategy](../../htmlsaveoptions.csssavingstrategy/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

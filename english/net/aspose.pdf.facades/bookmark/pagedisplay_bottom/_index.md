@@ -7,7 +7,7 @@ description: "Bookmark property. Gets or sets the bottom coordinate of page disp
 type: docs
 weight: 100
 url: "/net/aspose.pdf.facades/bookmark/pagedisplay_bottom/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Bookmark.PageDisplay_Bottom property
 

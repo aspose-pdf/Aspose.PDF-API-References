@@ -8,7 +8,7 @@ type: docs
 weight: 2930
 url: "/net/aspose.pdf/texfilesystemoutputdirectory/"
 keywords: "TeXFileSystemOutputDirectory, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXFileSystemOutputDirectory class
 
@@ -22,7 +22,7 @@ public class TeXFileSystemOutputDirectory : TeXFileSystemInputDirectory, ITeXOut
 
 | Name | Description |
 | --- | --- |
-| [TeXFileSystemOutputDirectory](./texfilesystemoutputdirectory/)(string) | Creates new instance. |
+| [TeXFileSystemOutputDirectory](texfilesystemoutputdirectory/)(string) | Creates new instance. |
 
 ## Methods
 
@@ -30,11 +30,12 @@ public class TeXFileSystemOutputDirectory : TeXFileSystemInputDirectory, ITeXOut
 | --- | --- |
 | virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose/)() | Disposes the instance. |
 | [GetFile](../../aspose.pdf/texfilesysteminputdirectory/getfile/)(string, out string, bool) | Returns the stream to read from. |
-| [GetOutputFile](./getoutputfile/)(string, out string) | Returns the stream to write to. |
+| [GetOutputFile](../../aspose.pdf/texfilesystemoutputdirectory/getoutputfile/)(string, out string) | Returns the stream to write to. |
 
 ### See Also
 
 * class [TeXFileSystemInputDirectory](../texfilesysteminputdirectory/)
+* interface [ITeXOutputDirectory](../itexoutputdirectory/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
 

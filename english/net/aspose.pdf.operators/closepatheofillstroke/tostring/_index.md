@@ -7,7 +7,7 @@ description: "ClosePathEOFillStroke method. Returns text representation of opera
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/closepatheofillstroke/tostring/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ClosePathEOFillStroke.ToString method
 

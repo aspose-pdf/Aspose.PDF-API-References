@@ -7,7 +7,7 @@ description: "PageDate method. Returns the formatted date string based on the cu
 type: docs
 weight: 20
 url: "/net/aspose.pdf/pagedate/getformatteddate/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PageDate.GetFormattedDate method
 

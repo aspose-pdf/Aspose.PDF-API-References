@@ -7,7 +7,7 @@ description: "TeXSaveOptions method. Adds a font ancoding to the font encoding l
 type: docs
 weight: 20
 url: "/net/aspose.pdf/texsaveoptions/addfontencs/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXSaveOptions.AddFontEncs method
 

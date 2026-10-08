@@ -7,11 +7,11 @@ description: "FloatingBox method. Clones a new FloatingBox object. Paragraphs in
 type: docs
 weight: 30
 url: "/net/aspose.pdf/floatingbox/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## FloatingBox.Clone method
 
-Clones a new [`FloatingBox`](../../../aspose.pdf/floatingbox/) object. Paragraphs in the floating box are not cloned.
+Clones a new [`FloatingBox`](../) object. Paragraphs in the floating box are not cloned.
 
 ```csharp
 public override object Clone()
@@ -19,7 +19,7 @@ public override object Clone()
 
 ### Return Value
 
-The new [`FloatingBox`](../../../aspose.pdf/floatingbox/) object.
+The new [`FloatingBox`](../) object.
 
 ### See Also
 

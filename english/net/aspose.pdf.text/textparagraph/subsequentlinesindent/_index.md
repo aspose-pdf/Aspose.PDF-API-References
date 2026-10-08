@@ -7,7 +7,7 @@ description: "TextParagraph property. Gets or sets subsequent lines indent value
 type: docs
 weight: 120
 url: "/net/aspose.pdf.text/textparagraph/subsequentlinesindent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextParagraph.SubsequentLinesIndent property
 

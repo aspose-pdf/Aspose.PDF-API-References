@@ -7,7 +7,7 @@ description: "DocumentInfo property. Gets or sets the document producer."
 type: docs
 weight: 120
 url: "/net/aspose.pdf/documentinfo/producer/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## DocumentInfo.Producer property
 

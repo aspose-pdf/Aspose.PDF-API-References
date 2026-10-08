@@ -7,7 +7,7 @@ description: "EncryptionParameters property. Gets the password from input."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.security/encryptionparameters/password/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EncryptionParameters.Password property
 

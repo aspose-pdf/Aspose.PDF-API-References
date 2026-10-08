@@ -7,7 +7,7 @@ description: "Aspose.Pdf.IWarningCallback interface. Interface for user's callba
 type: docs
 weight: 1460
 url: "/net/aspose.pdf/iwarningcallback/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## IWarningCallback interface
 
@@ -21,7 +21,7 @@ public interface IWarningCallback
 
 | Name | Description |
 | --- | --- |
-| [Warning](./warning/)(WarningInfo) | The callback method for some program notifications. |
+| [Warning](../../aspose.pdf/iwarningcallback/warning/)(WarningInfo) | The callback method for some program notifications. |
 
 ### See Also
 

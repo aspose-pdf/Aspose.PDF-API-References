@@ -7,7 +7,7 @@ description: "SetColorStroke property. Gets or sets the blue component."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.operators/setcolorstroke/b/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetColorStroke.B property
 

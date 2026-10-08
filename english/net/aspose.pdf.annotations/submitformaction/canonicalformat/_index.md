@@ -7,7 +7,7 @@ description: "SubmitFormAction field. If set, any submitted field values represe
 type: docs
 weight: 130
 url: "/net/aspose.pdf.annotations/submitformaction/canonicalformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SubmitFormAction.CanonicalFormat field
 

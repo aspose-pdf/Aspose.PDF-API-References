@@ -7,7 +7,7 @@ description: "PDF3DAnnotation property. Gets type of annotation."
 type: docs
 weight: 140
 url: "/net/aspose.pdf.annotations/pdf3dannotation/annotationtype/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PDF3DAnnotation.AnnotationType property
 
@@ -23,7 +23,7 @@ The type of the annotation.
 
 ### See Also
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* enum [AnnotationType](../../annotationtype/)
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

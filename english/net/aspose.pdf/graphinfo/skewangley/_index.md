@@ -7,7 +7,7 @@ description: "GraphInfo property. Gets or sets a float value that indicates the 
 type: docs
 weight: 120
 url: "/net/aspose.pdf/graphinfo/skewangley/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphInfo.SkewAngleY property
 

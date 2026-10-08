@@ -7,7 +7,7 @@ description: "HeaderFooter property. Gets or sets is clip extra content."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/headerfooter/isclipextracontent/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## HeaderFooter.IsClipExtraContent property
 

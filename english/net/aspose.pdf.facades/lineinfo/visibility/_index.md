@@ -7,7 +7,7 @@ description: "LineInfo property. Gets or sets the visibility of a line."
 type: docs
 weight: 50
 url: "/net/aspose.pdf.facades/lineinfo/visibility/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## LineInfo.Visibility property
 

@@ -7,7 +7,7 @@ description: "GraphInfo property. Retrieve the Y coordinate of a horizontal bord
 type: docs
 weight: 40
 url: "/net/aspose.pdf/graphinfo/y/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphInfo.Y property
 

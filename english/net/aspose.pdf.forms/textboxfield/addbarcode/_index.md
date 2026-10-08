@@ -7,7 +7,7 @@ description: "TextBoxField method. Adds barcode 128 into the field. Field value 
 type: docs
 weight: 60
 url: "/net/aspose.pdf.forms/textboxfield/addbarcode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextBoxField.AddBarcode method
 

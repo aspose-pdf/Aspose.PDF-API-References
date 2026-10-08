@@ -7,7 +7,7 @@ description: "GraphInfo property. Gets or sets a float value that indicates the 
 type: docs
 weight: 140
 url: "/net/aspose.pdf/graphinfo/scalingratey/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## GraphInfo.ScalingRateY property
 

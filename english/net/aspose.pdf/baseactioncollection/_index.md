@@ -8,7 +8,7 @@ type: docs
 weight: 110
 url: "/net/aspose.pdf/baseactioncollection/"
 keywords: "BaseActionCollection, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BaseActionCollection class
 
@@ -22,7 +22,7 @@ public abstract class BaseActionCollection
 
 | Name | Description |
 | --- | --- |
-| [RemoveActions](./removeactions/)() | Removes all actions of the annotation. |
+| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | Removes all actions of the annotation. |
 
 ### See Also
 

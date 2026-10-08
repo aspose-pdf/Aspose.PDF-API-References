@@ -8,7 +8,7 @@ type: docs
 weight: 700
 url: "/net/aspose.pdf.operators/setmiterlimit/"
 keywords: "SetMiterLimit, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetMiterLimit class
 
@@ -22,21 +22,20 @@ public class SetMiterLimit : Operator
 
 | Name | Description |
 | --- | --- |
-| [SetMiterLimit](./setmiterlimit/)(double) | Initializes operator. |
+| [SetMiterLimit](setmiterlimit/)(double) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [MiterLimit](./miterlimit/) { get; set; } | Gets or sets the miter limit. |
+| [MiterLimit](../../aspose.pdf.operators/setmiterlimit/miterlimit/) { get; set; } | Gets or sets the miter limit. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [Accept](../../aspose.pdf.operators/setmiterlimit/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 

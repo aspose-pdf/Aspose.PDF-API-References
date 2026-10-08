@@ -7,7 +7,7 @@ description: "TeXFragment method. Clones fragment."
 type: docs
 weight: 30
 url: "/net/aspose.pdf/texfragment/clone/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TeXFragment.Clone method
 

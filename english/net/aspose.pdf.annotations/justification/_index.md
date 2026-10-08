@@ -7,7 +7,7 @@ description: "Aspose.Pdf.Annotations.Justification enum. Enumerates the forms of
 type: docs
 weight: 560
 url: "/net/aspose.pdf.annotations/justification/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Justification enumeration
 

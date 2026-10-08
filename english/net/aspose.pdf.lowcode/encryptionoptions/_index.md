@@ -8,11 +8,11 @@ type: docs
 weight: 70
 url: "/net/aspose.pdf.lowcode/encryptionoptions/"
 keywords: "EncryptionOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## EncryptionOptions class
 
-Represents Encryption Options for [`Security`](../../aspose.pdf.lowcode/security/) plugin.
+Represents Encryption Options for [`Security`](../security/) plugin.
 
 ```csharp
 public class EncryptionOptions : OrganizerBaseOptions
@@ -22,7 +22,7 @@ public class EncryptionOptions : OrganizerBaseOptions
 
 | Name | Description |
 | --- | --- |
-| [EncryptionOptions](./encryptionoptions/)(string, string, DocumentPrivilege, CryptoAlgorithm) | Initializes new instance of the [`EncryptionOptions`](../../aspose.pdf.lowcode/encryptionoptions/) object with default options. |
+| [EncryptionOptions](encryptionoptions/)(string, string, DocumentPrivilege, CryptoAlgorithm) | Initializes new instance of the `EncryptionOptions` object with default options. |
 
 ## Properties
 
@@ -30,12 +30,12 @@ public class EncryptionOptions : OrganizerBaseOptions
 | --- | --- |
 | [CloseInputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeinputstreams/) { get; set; } | Close input streams after operation completed. |
 | [CloseOutputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
-| [CryptoAlgorithm](./cryptoalgorithm/) { get; set; } | Cryptographic algorithm, see `CryptoAlgorithm` for details. |
-| [DocumentPrivilege](./documentprivilege/) { get; set; } | Document permissions, see [`Permissions`](../../aspose.pdf/permissions/) for details. |
+| [CryptoAlgorithm](../../aspose.pdf.lowcode/encryptionoptions/cryptoalgorithm/) { get; set; } | Cryptographic algorithm, see [`CryptoAlgorithm`](./cryptoalgorithm/) for details. |
+| [DocumentPrivilege](../../aspose.pdf.lowcode/encryptionoptions/documentprivilege/) { get; set; } | Document permissions, see [`Permissions`](../../aspose.pdf/permissions/) for details. |
 | [Inputs](../../aspose.pdf.lowcode/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. |
 | [Outputs](../../aspose.pdf.lowcode/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
-| [OwnerPassword](./ownerpassword/) { get; set; } | Owner password. |
-| [UserPassword](./userpassword/) { get; set; } | User password. |
+| [OwnerPassword](../../aspose.pdf.lowcode/encryptionoptions/ownerpassword/) { get; set; } | Owner password. |
+| [UserPassword](../../aspose.pdf.lowcode/encryptionoptions/userpassword/) { get; set; } | User password. |
 
 ## Methods
 

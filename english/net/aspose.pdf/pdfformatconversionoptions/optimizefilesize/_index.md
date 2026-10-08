@@ -7,7 +7,7 @@ description: "PdfFormatConversionOptions property. Gets or sets a flag which ena
 type: docs
 weight: 200
 url: "/net/aspose.pdf/pdfformatconversionoptions/optimizefilesize/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.OptimizeFileSize property
 

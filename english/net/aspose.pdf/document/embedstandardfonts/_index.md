@@ -7,7 +7,7 @@ description: "Document property. Property which declares that document must embe
 type: docs
 weight: 1200
 url: "/net/aspose.pdf/document/embedstandardfonts/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.EmbedStandardFonts property
 

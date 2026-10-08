@@ -7,7 +7,7 @@ description: "Border property. Gets or sets horizontal corner radius."
 type: docs
 weight: 20
 url: "/net/aspose.pdf.annotations/border/hcornerradius/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Border.HCornerRadius property
 

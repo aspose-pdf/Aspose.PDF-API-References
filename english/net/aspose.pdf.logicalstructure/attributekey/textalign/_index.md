@@ -7,7 +7,7 @@ description: "AttributeKey field. TextAlign attribute (Layout attribute owner)."
 type: docs
 weight: 180
 url: "/net/aspose.pdf.logicalstructure/attributekey/textalign/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.TextAlign field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey TextAlign;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "PdfXmpMetadata method. Registers the namespace URI."
 type: docs
 weight: 30
 url: "/net/aspose.pdf.facades/pdfxmpmetadata/registernamespaceuri/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata.RegisterNamespaceURI method
 

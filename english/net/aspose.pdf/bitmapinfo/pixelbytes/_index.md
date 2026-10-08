@@ -7,7 +7,7 @@ description: "BitmapInfo property. Gets the array of pixels."
 type: docs
 weight: 20
 url: "/net/aspose.pdf/bitmapinfo/pixelbytes/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BitmapInfo.PixelBytes property
 

@@ -7,7 +7,7 @@ description: "XmpField method. Indicates whether this instance and a specified o
 type: docs
 weight: 10
 url: "/net/aspose.pdf/xmpfield/equals/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## XmpField.Equals method
 

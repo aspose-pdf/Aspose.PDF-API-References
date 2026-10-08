@@ -7,11 +7,11 @@ description: "PdfFormatConversionOptions field. Strategy to align text. This par
 type: docs
 weight: 290
 url: "/net/aspose.pdf/pdfformatconversionoptions/alignstrategy/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.AlignStrategy field
 
-Strategy to align text. This parameter has sense only when flag `AlignText` is set to true.
+Strategy to align text. This parameter has sense only when flag [`AlignText`](../aligntext/) is set to true.
 
 ```csharp
 public SegmentAlignStrategy AlignStrategy;
@@ -19,6 +19,7 @@ public SegmentAlignStrategy AlignStrategy;
 
 ### See Also
 
+* enum [SegmentAlignStrategy](../../pdfformatconversionoptions.segmentalignstrategy/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

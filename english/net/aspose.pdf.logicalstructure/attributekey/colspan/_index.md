@@ -7,7 +7,7 @@ description: "AttributeKey field. ColSpan attribute (Table attribute owner)."
 type: docs
 weight: 420
 url: "/net/aspose.pdf.logicalstructure/attributekey/colspan/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeKey.ColSpan field
 
@@ -19,7 +19,7 @@ public static readonly AttributeKey ColSpan;
 
 ### See Also
 
-* class [AttributeKey](../../../aspose.pdf.logicalstructure/attributekey/)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

@@ -7,7 +7,7 @@ description: "Document method. Set Title for Pdf Document"
 type: docs
 weight: 230
 url: "/net/aspose.pdf/document/settitle/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Document.SetTitle method
 

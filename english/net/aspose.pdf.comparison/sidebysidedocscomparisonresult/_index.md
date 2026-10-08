@@ -8,7 +8,7 @@ type: docs
 weight: 190
 url: "/net/aspose.pdf.comparison/sidebysidedocscomparisonresult/"
 keywords: "SideBySideDocsComparisonResult, Aspose.Pdf.Comparison, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SideBySideDocsComparisonResult class
 
@@ -22,16 +22,16 @@ public class SideBySideDocsComparisonResult
 
 | Name | Description |
 | --- | --- |
-| [SideBySideDocsComparisonResult](./sidebysidedocscomparisonresult/)(bool, List<List<EditContainer>>, List<List<EditContainer>>, List<List<DiffOperation>>) | Creates an instance of [`SideBySideDocsComparisonResult`](../../aspose.pdf.comparison/sidebysidedocscomparisonresult/) class |
+| [SideBySideDocsComparisonResult](sidebysidedocscomparisonresult/)(bool, List&lt;List&lt;EditContainer&gt;&gt;, List&lt;List&lt;EditContainer&gt;&gt;, List&lt;List&lt;DiffOperation&gt;&gt;) | Creates an instance of `SideBySideDocsComparisonResult` class |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [FirstDocChanges](./firstdocchanges/) { get; } | Get a list of changes to the pages of the first document. |
-| [FullChanges](./fullchanges/) { get; } | Get a complete list of changes to the pages of the document. Each index in the list represents the two pages of the document that are being compared, and the list of change operations represents the list of changes to those pages. |
-| [HasChanges](./haschanges/) { get; } | Gets the value indicates whether there are any changes between the compared documents. |
-| [SecondDocChanges](./seconddocchanges/) { get; } | Get a list of changes to the pages of the second document. |
+| [FirstDocChanges](../../aspose.pdf.comparison/sidebysidedocscomparisonresult/firstdocchanges/) { get; } | Get a list of changes to the pages of the first document. |
+| [FullChanges](../../aspose.pdf.comparison/sidebysidedocscomparisonresult/fullchanges/) { get; } | Get a complete list of changes to the pages of the document. Each index in the list represents the two pages of the document that are being compared, and the list of change operations represents the list of changes to those pages. |
+| [HasChanges](../../aspose.pdf.comparison/sidebysidedocscomparisonresult/haschanges/) { get; } | Gets the value indicates whether there are any changes between the compared documents. |
+| [SecondDocChanges](../../aspose.pdf.comparison/sidebysidedocscomparisonresult/seconddocchanges/) { get; } | Get a list of changes to the pages of the second document. |
 
 ### See Also
 

@@ -7,7 +7,7 @@ description: "ThreadResponse property. Gets or sets a set of 16 key-value pairs 
 type: docs
 weight: 60
 url: "/net/aspose.pdf.ai/threadresponse/metadata/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ThreadResponse.Metadata property
 

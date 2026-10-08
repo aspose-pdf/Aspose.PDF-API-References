@@ -7,7 +7,7 @@ description: "Aspose.Pdf.LogicalStructure.ITextElement interface. Interface for 
 type: docs
 weight: 260
 url: "/net/aspose.pdf.logicalstructure/itextelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITextElement interface
 
@@ -21,13 +21,13 @@ public interface ITextElement
 
 | Name | Description |
 | --- | --- |
-| [StructureTextState](./structuretextstate/) { get; } | Gets [`StructureTextState`](../../aspose.pdf.logicalstructure/structuretextstate/) object for text structure element. |
+| [StructureTextState](../../aspose.pdf.logicalstructure/itextelement/structuretextstate/) { get; } | Gets [`StructureTextState`](../structuretextstate/) object for text structure element. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [SetText](./settext/)(string) | Appends text content to current text element. |
+| [SetText](../../aspose.pdf.logicalstructure/itextelement/settext/)(string) | Appends text content to current text element. |
 
 ### See Also
 

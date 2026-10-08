@@ -7,7 +7,7 @@ description: "AttributeName field. Attribute InlineAlign: Start - Start edge of 
 type: docs
 weight: 330
 url: "/net/aspose.pdf.logicalstructure/attributename/inlinealign_start/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AttributeName.InlineAlign_Start field
 
@@ -19,7 +19,7 @@ public static readonly AttributeName InlineAlign_Start;
 
 ### See Also
 
-* class [AttributeName](../../../aspose.pdf.logicalstructure/attributename/)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 

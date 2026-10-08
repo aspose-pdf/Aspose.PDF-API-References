@@ -7,15 +7,20 @@ description: "ShowText constructor. Initializes Tj opearor."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.operators/showtext/showtext/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
-## ShowText() {#constructor}
+## ShowText(int, string) {#constructor}
 
-Initializes Tj operator.
+Initializes Tj opearor.
 
 ```csharp
-public ShowText()
+public ShowText(int index, string text)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | Int32 | Index of operator in operators list. |
+| text | String | argument of the operator. |
 
 ### See Also
 
@@ -45,28 +50,7 @@ public ShowText(string text)
 
 ---
 
-## ShowText(int, string) {#constructor_2}
-
-Initializes Tj opearor.
-
-```csharp
-public ShowText(int index, string text)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | Int32 | Index of operator in operators list. |
-| text | String | argument of the operator. |
-
-### See Also
-
-* class [ShowText](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## ShowText(string, [Font](../../../aspose.pdf.text/font/)) {#constructor_3}
+## ShowText(string, Font) {#constructor_2}
 
 Initializes Tj opearor.
 
@@ -82,6 +66,22 @@ public ShowText(string text, Font font)
 ### See Also
 
 * class [Font](../../../aspose.pdf.text/font/)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## ShowText() {#constructor_3}
+
+Initializes Tj operator.
+
+```csharp
+public ShowText()
+```
+
+### See Also
+
 * class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)

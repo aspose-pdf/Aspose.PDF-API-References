@@ -7,7 +7,7 @@ description: "TextSegmentCollection method. Copies the entire collection to a co
 type: docs
 weight: 30
 url: "/net/aspose.pdf.text/textsegmentcollection/copyto/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## TextSegmentCollection.CopyTo method
 
@@ -24,7 +24,7 @@ public void CopyTo(TextSegment[] array, int index)
 
 ### See Also
 
-* class [TextSegment](../../../aspose.pdf.text/textsegment/)
+* class [TextSegment](../../textsegment/)
 * class [TextSegmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)

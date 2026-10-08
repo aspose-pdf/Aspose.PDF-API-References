@@ -7,7 +7,7 @@ description: "Measure property. A number format array for measurement of angles.
 type: docs
 weight: 70
 url: "/net/aspose.pdf.annotations/measure/angleformat/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Measure.AngleFormat property
 
@@ -19,6 +19,7 @@ public NumberFormatList AngleFormat { get; set; }
 
 ### See Also
 
+* class [NumberFormatList](../../measure.numberformatlist/)
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)

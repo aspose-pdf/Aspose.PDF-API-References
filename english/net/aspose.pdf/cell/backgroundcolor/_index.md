@@ -7,7 +7,7 @@ description: "Cell property. Gets or sets the background color."
 type: docs
 weight: 70
 url: "/net/aspose.pdf/cell/backgroundcolor/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Cell.BackgroundColor property
 
@@ -19,7 +19,7 @@ public Color BackgroundColor { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
+* class [Color](../../color/)
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)

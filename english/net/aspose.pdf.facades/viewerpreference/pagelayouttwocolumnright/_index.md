@@ -7,7 +7,7 @@ description: "ViewerPreference field. Display the pages in two columns, with odd
 type: docs
 weight: 80
 url: "/net/aspose.pdf.facades/viewerpreference/pagelayouttwocolumnright/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ViewerPreference.PageLayoutTwoColumnRight field
 

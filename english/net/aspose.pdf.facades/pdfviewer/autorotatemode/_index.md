@@ -7,7 +7,7 @@ description: "PdfViewer property. Gets or sets a AutoRotateMode value that indic
 type: docs
 weight: 480
 url: "/net/aspose.pdf.facades/pdfviewer/autorotatemode/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.AutoRotateMode property
 
@@ -19,7 +19,7 @@ public AutoRotateMode AutoRotateMode { get; set; }
 
 ### See Also
 
-* enum [AutoRotateMode](../../../aspose.pdf.facades/autorotatemode/)
+* enum [AutoRotateMode](../../autorotatemode/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)

@@ -7,7 +7,7 @@ description: "RunResponse property. Gets or sets the status of the run, which ca
 type: docs
 weight: 70
 url: "/net/aspose.pdf.ai/runresponse/status/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## RunResponse.Status property
 

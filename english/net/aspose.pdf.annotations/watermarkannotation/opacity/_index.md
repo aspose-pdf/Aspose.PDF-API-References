@@ -7,7 +7,7 @@ description: "WatermarkAnnotation property. Gets or sets opacity of the annotati
 type: docs
 weight: 80
 url: "/net/aspose.pdf.annotations/watermarkannotation/opacity/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## WatermarkAnnotation.Opacity property
 

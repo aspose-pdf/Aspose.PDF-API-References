@@ -7,7 +7,7 @@ description: "SetRGBColorStroke property. Gets or sets the blue component."
 type: docs
 weight: 80
 url: "/net/aspose.pdf.operators/setrgbcolorstroke/b/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetRGBColorStroke.B property
 

@@ -7,7 +7,7 @@ description: "SetCMYKColorStroke property. Gets or sets the cyan component."
 type: docs
 weight: 40
 url: "/net/aspose.pdf.operators/setcmykcolorstroke/c/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetCMYKColorStroke.C property
 

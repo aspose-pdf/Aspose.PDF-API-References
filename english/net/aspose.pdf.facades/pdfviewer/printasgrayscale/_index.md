@@ -7,17 +7,19 @@ description: "PdfViewer property. Gets or sets a bool value that indicates wheth
 type: docs
 weight: 400
 url: "/net/aspose.pdf.facades/pdfviewer/printasgrayscale/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## PdfViewer.PrintAsGrayscale property
 
 Gets or sets a bool value that indicates whether the page is being printed as grayscale. By default is false.
 
-Default falue is false.
-
 ```csharp
 public bool PrintAsGrayscale { get; set; }
 ```
+
+## Remarks
+
+Default falue is false.
 
 ### See Also
 

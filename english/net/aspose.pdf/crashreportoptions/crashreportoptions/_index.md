@@ -7,7 +7,7 @@ description: "CrashReportOptions constructor. Creates CrashReportOptions with de
 type: docs
 weight: 10
 url: "/net/aspose.pdf/crashreportoptions/crashreportoptions/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## CrashReportOptions constructor
 

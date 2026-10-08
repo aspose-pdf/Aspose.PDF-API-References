@@ -8,7 +8,7 @@ type: docs
 weight: 670
 url: "/net/aspose.pdf.operators/setlinecap/"
 keywords: "SetLineCap, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## SetLineCap class
 
@@ -22,21 +22,20 @@ public class SetLineCap : Operator
 
 | Name | Description |
 | --- | --- |
-| [SetLineCap](./setlinecap/)(LineCap) | Initializes SetLineCap operator |
+| [SetLineCap](setlinecap/)(LineCap) | Initializes SetLineCap operator |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Cap](./cap/) { get; set; } | Gets or sets line caps style. |
+| [Cap](../../aspose.pdf.operators/setlinecap/cap/) { get; set; } | Gets or sets line caps style. |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](./accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Determines if the operator is operator which responsible for text output (Tj, TJ, etc) |
+| override [Accept](../../aspose.pdf.operators/setlinecap/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 

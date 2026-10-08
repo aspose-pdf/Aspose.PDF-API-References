@@ -7,7 +7,7 @@ description: "BoundsCheckableList method. Determines whether an element is in th
 type: docs
 weight: 60
 url: "/net/aspose.pdf/boundscheckablelist-1/contains/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## BoundsCheckableList<T>.Contains method
 
@@ -23,11 +23,11 @@ public bool Contains(T item)
 
 ### Return Value
 
-true if *item*item is found in the System.Collections.Generic.List; otherwise, false.
+true if *item* is found in the System.Collections.Generic.List; otherwise, false.
 
 ### See Also
 
-* class [BoundsCheckableList<T>](../)
+* class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 

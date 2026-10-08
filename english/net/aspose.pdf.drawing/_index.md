@@ -3,16 +3,17 @@ title: "Aspose.Pdf.Drawing"
 linktitle: "Aspose.Pdf.Drawing"
 articleTitle: "Aspose.Pdf.Drawing"
 second_title: "Aspose.PDF for .NET API Reference"
-description: "The Aspose.Pdf.Drawing namespace provides classes."
+description: "The Aspose.Pdf.Drawing namespace provides classes describing graphic primitives like arc, line, circle etc. Corresponding objects can be used for creating ne..."
 type: docs
 weight: 10
 url: "/net/aspose.pdf.drawing/"
 keywords: "Aspose.Pdf.Drawing, Aspose.PDF for .NET, Aspose.PDF API Reference"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## Overview
 
-The **Aspose.Pdf.Drawing** namespace provides classes.
+The **Aspose.Pdf.Drawing** namespace provides classes describing graphic primitives like arc, line, circle etc. 
+ Corresponding objects can be used for creating new documents.
 
 Part of the [Aspose.PDF for .NET](../) API reference.
 
@@ -38,14 +39,4 @@ Part of the [Aspose.PDF for .NET](../) API reference.
 | Enumeration | Description |
 | --- | --- |
 | [ImageFormat](./imageformat/) | This enum represents image formats. |
-
-## FAQ
-
-### What classes does the Aspose.Pdf.Drawing namespace contain?
-
-[Arc](./arc/), [Circle](./circle/), [Curve](./curve/), [Ellipse](./ellipse/), [GradientAxialShading](./gradientaxialshading/), and 7 more.
-
-### How many types are in the Aspose.Pdf.Drawing namespace?
-
-The Aspose.Pdf.Drawing namespace contains 13 types, listed above.
 

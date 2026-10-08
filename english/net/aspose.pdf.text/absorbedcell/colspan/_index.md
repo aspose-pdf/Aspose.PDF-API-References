@@ -7,7 +7,7 @@ description: "AbsorbedCell property. Return the number of columns the cell shoul
 type: docs
 weight: 40
 url: "/net/aspose.pdf.text/absorbedcell/colspan/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## AbsorbedCell.ColSpan property
 

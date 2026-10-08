@@ -7,7 +7,7 @@ description: "ITaggedContent property. Gets StructTreeRootElement of PDF documen
 type: docs
 weight: 440
 url: "/net/aspose.pdf.tagged/itaggedcontent/structtreerootelement/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ITaggedContent.StructTreeRootElement property
 

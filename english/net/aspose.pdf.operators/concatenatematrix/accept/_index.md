@@ -7,7 +7,7 @@ description: "ConcatenateMatrix method. Accepts visitor object to process operat
 type: docs
 weight: 30
 url: "/net/aspose.pdf.operators/concatenatematrix/accept/"
-product_version: "26.9.0"
+product_version: "26.9"
 ---
 ## ConcatenateMatrix.Accept method
 
