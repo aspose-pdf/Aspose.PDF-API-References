@@ -1,10 +1,13 @@
 ---
-title: WebHyperlink.WebHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: WebHyperlink constructor. Initializes a new instance of the WebHyperlink class
+title: "WebHyperlink.WebHyperlink"
+linktitle: "WebHyperlink"
+articleTitle: "WebHyperlink"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WebHyperlink constructor. Initializes a new instance of the WebHyperlink class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/webhyperlink/webhyperlink/
+url: "/net/aspose.pdf/webhyperlink/webhyperlink/"
+product_version: "26.9"
 ---
 ## WebHyperlink() {#constructor}
 
@@ -16,9 +19,9 @@ public WebHyperlink()
 
 ### See Also
 
-* class [WebHyperlink](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [WebHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,8 +39,7 @@ public WebHyperlink(string url)
 
 ### See Also
 
-* class [WebHyperlink](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [WebHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

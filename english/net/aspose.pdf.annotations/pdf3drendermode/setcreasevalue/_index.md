@@ -1,10 +1,13 @@
 ---
-title: PDF3DRenderMode.SetCreaseValue
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode method. Sets the crease value
+title: "PDF3DRenderMode.SetCreaseValue"
+linktitle: "SetCreaseValue"
+articleTitle: "SetCreaseValue"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode method. Sets the crease value."
 type: docs
-weight: 220
-url: /net/aspose.pdf.annotations/pdf3drendermode/setcreasevalue/
+weight: 90
+url: "/net/aspose.pdf.annotations/pdf3drendermode/setcreasevalue/"
+product_version: "26.9"
 ---
 ## PDF3DRenderMode.SetCreaseValue method
 
@@ -24,8 +27,7 @@ PDF3DRenderMode.
 
 ### See Also
 
-* class [PDF3DRenderMode](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

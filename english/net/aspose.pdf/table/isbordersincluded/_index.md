@@ -1,10 +1,13 @@
 ---
-title: Table.IsBordersIncluded
-second_title: Aspose.PDF for .NET API Reference
-description: Table property. Gets or sets border included in column widhts
+title: "Table.IsBordersIncluded"
+linktitle: "IsBordersIncluded"
+articleTitle: "IsBordersIncluded"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Table property. Gets or sets border included in column widhts."
 type: docs
-weight: 140
-url: /net/aspose.pdf/table/isbordersincluded/
+weight: 290
+url: "/net/aspose.pdf/table/isbordersincluded/"
+product_version: "26.9"
 ---
 ## Table.IsBordersIncluded property
 
@@ -16,8 +19,7 @@ public bool IsBordersIncluded { get; set; }
 
 ### See Also
 
-* class [Table](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,18 @@
 ---
-title: VectorStoreCreateRequest.FileIds
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreCreateRequest property. Gets or sets a list of File IDs that the vector store should use. Useful for tools like file_search that can access files
+title: "VectorStoreCreateRequest.FileIds"
+linktitle: "FileIds"
+articleTitle: "FileIds"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "VectorStoreCreateRequest property. Gets or sets a list of File IDs that the vector store should use. Useful for tools like file_search that can access files."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/vectorstorecreaterequest/fileids/
+weight: 20
+url: "/net/aspose.pdf.ai/vectorstorecreaterequest/fileids/"
+product_version: "26.9"
 ---
 ## VectorStoreCreateRequest.FileIds property
 
-Gets or sets a list of File IDs that the vector store should use. Useful for tools like file_search that can access files.
+Gets or sets a list of File IDs that the vector store should use. Useful for tools like file_search
+ that can access files.
 
 ```csharp
 public List<string> FileIds { get; set; }
@@ -16,8 +20,7 @@ public List<string> FileIds { get; set; }
 
 ### See Also
 
-* class [VectorStoreCreateRequest](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [VectorStoreCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

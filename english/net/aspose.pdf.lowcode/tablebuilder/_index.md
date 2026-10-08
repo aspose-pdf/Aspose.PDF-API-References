@@ -1,10 +1,14 @@
 ---
-title: Class TableBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.TableBuilder class. Class represents builder for table in pdf page
+title: "TableBuilder Class"
+linktitle: "TableBuilder"
+articleTitle: "TableBuilder"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.TableBuilder class. Class represents builder for table in pdf page."
 type: docs
-weight: 7970
-url: /net/aspose.pdf.lowcode/tablebuilder/
+weight: 920
+url: "/net/aspose.pdf.lowcode/tablebuilder/"
+keywords: "TableBuilder, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## TableBuilder class
 
@@ -18,7 +22,7 @@ public class TableBuilder
 
 | Name | Description |
 | --- | --- |
-| virtual [AddRow](../../aspose.pdf.lowcode/tablebuilder/addrow/)() | Add new row to table. |
+| virtual [AddRow](../../aspose.pdf.lowcode/tablebuilder/addrow/)() | Add new row to table. |
 | [AddTable](../../aspose.pdf.lowcode/tablebuilder/addtable/)() | Add new table to document. |
 | [InsertPageAfter](../../aspose.pdf.lowcode/tablebuilder/insertpageafter/)(int) | Insert page after specified page. |
 | [InsertPageBefore](../../aspose.pdf.lowcode/tablebuilder/insertpagebefore/)(int) | Insert page before specified page. |
@@ -26,7 +30,6 @@ public class TableBuilder
 
 ### See Also
 
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

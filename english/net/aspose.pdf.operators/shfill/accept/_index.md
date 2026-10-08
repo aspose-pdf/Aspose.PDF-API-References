@@ -1,10 +1,13 @@
 ---
-title: ShFill.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: ShFill method. Accepts visitor object to process operator
+title: "ShFill.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ShFill method. Accepts visitor object to process operator."
 type: docs
-weight: 30
-url: /net/aspose.pdf.operators/shfill/accept/
+weight: 20
+url: "/net/aspose.pdf.operators/shfill/accept/"
+product_version: "26.9"
 ---
 ## ShFill.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* class [ShFill](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [ShFill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

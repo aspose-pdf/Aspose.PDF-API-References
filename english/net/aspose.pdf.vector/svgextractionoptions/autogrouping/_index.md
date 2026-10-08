@@ -1,14 +1,18 @@
 ---
-title: SvgExtractionOptions.AutoGrouping
-second_title: Aspose.PDF for .NET API Reference
-description: SvgExtractionOptions property. Gets and sets the option to automatically group subpaths into images. This option excludes the GroupStrength option
+title: "SvgExtractionOptions.AutoGrouping"
+linktitle: "AutoGrouping"
+articleTitle: "AutoGrouping"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SvgExtractionOptions property. Gets and sets the option to automatically group subpaths into images. This option excludes the GroupStrength option."
 type: docs
-weight: 20
-url: /net/aspose.pdf.vector/svgextractionoptions/autogrouping/
+weight: 80
+url: "/net/aspose.pdf.vector/svgextractionoptions/autogrouping/"
+product_version: "26.9"
 ---
 ## SvgExtractionOptions.AutoGrouping property
 
-Gets and sets the option to automatically group subpaths into images. This option excludes the [`GroupStrength`](../groupstrength/) option.
+Gets and sets the option to automatically group subpaths into images.
+ This option excludes the [`GroupStrength`](../groupstrength/) option.
 
 ```csharp
 public bool AutoGrouping { get; set; }
@@ -16,8 +20,7 @@ public bool AutoGrouping { get; set; }
 
 ### See Also
 
-* class [SvgExtractionOptions](../)
-* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SvgExtractionOptions](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
 

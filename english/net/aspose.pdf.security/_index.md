@@ -1,12 +1,20 @@
 ---
-title: Aspose.Pdf.Security
-second_title: Aspose.PDF for .NET API Reference
-description: The Aspose.Pdf.Security namespace contains classes used for encryption and digital signing
+title: "Aspose.Pdf.Security"
+linktitle: "Aspose.Pdf.Security"
+articleTitle: "Aspose.Pdf.Security"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "The Aspose.Pdf.Security namespace contains classes used for encryption and digital signing."
 type: docs
-weight: 190
-url: /net/aspose.pdf.security/
+weight: 10
+url: "/net/aspose.pdf.security/"
+keywords: "Aspose.Pdf.Security, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The **Aspose.Pdf.Security** namespace contains classes used for encryption and digital signing.
+
+Part of the [Aspose.PDF for .NET](../) API reference.
 
 ## Classes
 
@@ -26,11 +34,13 @@ The **Aspose.Pdf.Security** namespace contains classes used for encryption and d
 | [ValidationOptions](./validationoptions/) | Represents options for validating a digital signature in a PDF document. |
 | [ValidationResult](./validationresult/) | Represents the result of a validation process for a certificate. |
 | [VerificationResult](./verificationresult/) | Represents the result of verifying a digital signature in a PDF file. |
+
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
 | [ICustomSecurityHandler](./icustomsecurityhandler/) | The custom security handler interface. |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -41,5 +51,4 @@ The **Aspose.Pdf.Security** namespace contains classes used for encryption and d
 | [ValidationMode](./validationmode/) | Specifies the validation mode for PDF signature validation processes. |
 | [ValidationStatus](./validationstatus/) | Represents the validation status of a certificate validation. |
 | [VerificationState](./verificationstate/) | Specifies the state of a digital signature verification process in a PDF document. |
-
 

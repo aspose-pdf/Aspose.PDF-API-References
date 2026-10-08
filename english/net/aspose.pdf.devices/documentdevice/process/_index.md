@@ -1,12 +1,15 @@
 ---
-title: DocumentDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentDevice method. Each device represents some operation on the document e.g. we can convert pdf document into another format
+title: "DocumentDevice.Process"
+linktitle: "Process"
+articleTitle: "Process"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentDevice method. Each device represents some operation on the document, e.g. we can convert pdf document into another format."
 type: docs
 weight: 10
-url: /net/aspose.pdf.devices/documentdevice/process/
+url: "/net/aspose.pdf.devices/documentdevice/process/"
+product_version: "26.9"
 ---
-## Process(Document, int, int, Stream) {#process}
+## Process(Document, int, int, Stream) {#process}
 
 Each device represents some operation on the document, e.g. we can convert pdf document into another format.
 
@@ -23,14 +26,14 @@ public abstract void Process(Document document, int fromPage, int toPage, Stream
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [DocumentDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DocumentDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Process(Document, Stream) {#process_2}
+## Process(Document, Stream) {#process_1}
 
 Processes the whole document and saves results into stream.
 
@@ -45,14 +48,14 @@ public void Process(Document document, Stream output)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [DocumentDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DocumentDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Process(Document, string) {#process_3}
+## Process(Document, string) {#process_2}
 
 Processes the whole document and saves results into file.
 
@@ -67,14 +70,14 @@ public void Process(Document document, string outputFileName)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [DocumentDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DocumentDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Process(Document, int, int, string) {#process_1}
+## Process(Document, int, int, string) {#process_3}
 
 Processes certain pages of the document and saves results into file.
 
@@ -91,9 +94,8 @@ public void Process(Document document, int fromPage, int toPage, string outputFi
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [DocumentDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [DocumentDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

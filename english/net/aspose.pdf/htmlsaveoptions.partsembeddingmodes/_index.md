@@ -1,14 +1,19 @@
 ---
-title: Enum HtmlSaveOptions.PartsEmbeddingModes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsPartsEmbeddingModes enum. This enum enumerates possible modes of embedding of files referenced in HTML It allows to control whether referenced files HTML FontsImages CSSes will be embedded into main HTML file or will be generated as apart binary entities
+title: "HtmlSaveOptions.PartsEmbeddingModes Enum"
+linktitle: "HtmlSaveOptions.PartsEmbeddingModes"
+articleTitle: "HtmlSaveOptions.PartsEmbeddingModes"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlSaveOptions.PartsEmbeddingModes enum. This enum enumerates possible modes of embedding of files referenced in HTML It allows to control whethe..."
 type: docs
-weight: 5850
-url: /net/aspose.pdf/htmlsaveoptions.partsembeddingmodes/
+weight: 1330
+url: "/net/aspose.pdf/htmlsaveoptions.partsembeddingmodes/"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.PartsEmbeddingModes enumeration
 
-This enum enumerates possible modes of embedding of files referenced in HTML It allows to control whether referenced files (HTML, Fonts,Images, CSSes) will be embedded into main HTML file or will be generated as apart binary entities
+This enum enumerates possible modes of embedding of files referenced in HTML
+ It allows to control whether referenced files (HTML, Fonts,Images, CSSes)
+ will be embedded into main HTML file or will be generated as apart binary entities
 
 ```csharp
 public enum PartsEmbeddingModes
@@ -24,8 +29,7 @@ public enum PartsEmbeddingModes
 
 ### See Also
 
-* class [HtmlSaveOptions](../htmlsaveoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

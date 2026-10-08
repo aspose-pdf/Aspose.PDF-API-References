@@ -1,10 +1,13 @@
 ---
-title: TextFragmentAbsorber.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber property. Gets or sets search options. The options enable search using regular expressions
+title: "TextFragmentAbsorber.TextSearchOptions"
+linktitle: "TextSearchOptions"
+articleTitle: "TextSearchOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber property. Gets or sets search options. The options enable search using regular expressions."
 type: docs
-weight: 110
-url: /net/aspose.pdf.text/textfragmentabsorber/textsearchoptions/
+weight: 240
+url: "/net/aspose.pdf.text/textfragmentabsorber/textsearchoptions/"
+product_version: "26.9"
 ---
 ## TextFragmentAbsorber.TextSearchOptions property
 
@@ -34,14 +37,13 @@ doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
 
 // Save document
-doc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf");
 ```
 
 ### See Also
 
-* class [TextSearchOptions](../../textsearchoptions/)
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

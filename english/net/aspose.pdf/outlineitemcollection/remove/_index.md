@@ -1,10 +1,13 @@
 ---
-title: OutlineItemCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection method. Remove outline collection item
+title: "OutlineItemCollection.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection method. Remove outline collection item."
 type: docs
-weight: 290
-url: /net/aspose.pdf/outlineitemcollection/remove/
+weight: 100
+url: "/net/aspose.pdf/outlineitemcollection/remove/"
+product_version: "26.9"
 ---
 ## Remove(OutlineItemCollection) {#remove}
 
@@ -24,9 +27,9 @@ True - if item removed; otherwise, false.
 
 ### See Also
 
-* class [OutlineItemCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -44,8 +47,7 @@ public void Remove(int index)
 
 ### See Also
 
-* class [OutlineItemCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

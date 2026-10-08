@@ -1,10 +1,14 @@
 ---
-title: Class HtmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlLoadOptions class. Represents options for loading/importing html file into pdf document
+title: "HtmlLoadOptions Class"
+linktitle: "HtmlLoadOptions"
+articleTitle: "HtmlLoadOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlLoadOptions class. Represents options for loading/importing html file into pdf document."
 type: docs
-weight: 5670
-url: /net/aspose.pdf/htmlloadoptions/
+weight: 1150
+url: "/net/aspose.pdf/htmlloadoptions/"
+keywords: "HtmlLoadOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## HtmlLoadOptions class
 
@@ -25,18 +29,18 @@ public sealed class HtmlLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [BasePath](../../aspose.pdf/htmlloadoptions/basepath/) { get; } | The base path/url for the html file. |
-| [CreateLogicalStructure](../../aspose.pdf/htmlloadoptions/createlogicalstructure/) { get; set; } | Gets or sets a value indicating whether to create a logical structure in the resulting PDF document. |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When `true`, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default `false`. |
-| [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype/) { get; set; } | Gets or sets possible media types used during rendering. |
-| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding/) { get; set; } | Gets or sets the attribute specifying the encoding used for this document at the time of the parsing. If this attribute is null the encoding will determine from document character set atribute. |
-| [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts/) { get; set; } | Gets or sets fonts embedding to result document |
-| [IsPriorityCssPageRule](../../aspose.pdf/htmlloadoptions/isprioritycsspagerule/) { get; set; } | Gets or sets the flag that specifies that @page rules defined in css will override values defined in PageInfo. |
-| [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage/) { get; set; } | Gets or sets rendering all document to single page |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../loadoptions/) describes. |
-| [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo/) { get; set; } | Gets or sets document page info |
-| [PageLayoutOption](../../aspose.pdf/htmlloadoptions/pagelayoutoption/) { get; set; } | Gets or sets layout option. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+| [BasePath](../../aspose.pdf/htmlloadoptions/basepath/) { get; } | The base path/url for the html file. |
+| [CreateLogicalStructure](../../aspose.pdf/htmlloadoptions/createlogicalstructure/) { get; set; } | Gets or sets a value indicating whether to create a logical structure in the resulting PDF document. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When `true`, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default `false`. |
+| [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype/) { get; set; } | Gets or sets possible media types used during rendering. |
+| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding/) { get; set; } | Gets or sets the attribute specifying the encoding used for this document at the time of the parsing. If this attribute is null the encoding will determine from document character set atribute. |
+| [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts/) { get; set; } | Gets or sets fonts embedding to result document |
+| [IsPriorityCssPageRule](../../aspose.pdf/htmlloadoptions/isprioritycsspagerule/) { get; set; } | Gets or sets the flag that specifies that @page rules defined in css will override values defined in PageInfo. |
+| [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage/) { get; set; } | Gets or sets rendering all document to single page |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../loadoptions/) describes. |
+| [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo/) { get; set; } | Gets or sets document page info |
+| [PageLayoutOption](../../aspose.pdf/htmlloadoptions/pagelayoutoption/) { get; set; } | Gets or sets layout option. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
 ## Fields
 
@@ -47,8 +51,7 @@ public sealed class HtmlLoadOptions : LoadOptions
 
 ### See Also
 
-* class [LoadOptions](../loadoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

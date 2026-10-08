@@ -1,10 +1,13 @@
 ---
-title: Heading.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Heading property. Gets the top Y of this headings
+title: "Heading.Top"
+linktitle: "Top"
+articleTitle: "Top"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Heading property. Gets the top Y of this headings."
 type: docs
-weight: 90
-url: /net/aspose.pdf/heading/top/
+weight: 50
+url: "/net/aspose.pdf/heading/top/"
+product_version: "26.9"
 ---
 ## Heading.Top property
 
@@ -16,8 +19,7 @@ public double Top { get; set; }
 
 ### See Also
 
-* class [Heading](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

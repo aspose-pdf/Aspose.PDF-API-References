@@ -1,10 +1,13 @@
 ---
-title: SvgExtractor.SvgExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: SvgExtractor constructor. Represents a class to extract SVG images from a page
+title: "SvgExtractor.SvgExtractor"
+linktitle: "SvgExtractor"
+articleTitle: "SvgExtractor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SvgExtractor constructor. Represents a class to extract SVG images from a page."
 type: docs
 weight: 10
-url: /net/aspose.pdf.vector/svgextractor/svgextractor/
+url: "/net/aspose.pdf.vector/svgextractor/svgextractor/"
+product_version: "26.9"
 ---
 ## SvgExtractor() {#constructor}
 
@@ -16,9 +19,9 @@ public SvgExtractor()
 
 ### See Also
 
-* class [SvgExtractor](../)
-* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* assembly [Aspose.PDF](../../../)
+* class [SvgExtractor](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,9 +39,8 @@ public SvgExtractor(SvgExtractionOptions options)
 
 ### See Also
 
-* class [SvgExtractionOptions](../../svgextractionoptions/)
-* class [SvgExtractor](../)
-* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SvgExtractionOptions](../../svgextractionoptions/)
+* class [SvgExtractor](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
 

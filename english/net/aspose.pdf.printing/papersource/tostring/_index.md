@@ -1,10 +1,13 @@
 ---
-title: PaperSource.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSource method. Provides some interesting information about the PaperSource in String form
+title: "PaperSource.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSource method. Provides some interesting information about the PaperSource in String form."
 type: docs
-weight: 50
-url: /net/aspose.pdf.printing/papersource/tostring/
+weight: 30
+url: "/net/aspose.pdf.printing/papersource/tostring/"
+product_version: "26.9"
 ---
 ## PaperSource.ToString method
 
@@ -20,8 +23,7 @@ String representing PaperSource.
 
 ### See Also
 
-* class [PaperSource](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

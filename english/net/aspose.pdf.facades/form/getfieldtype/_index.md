@@ -1,10 +1,13 @@
 ---
-title: Form.GetFieldType
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Returns type of field
+title: "Form.GetFieldType"
+linktitle: "GetFieldType"
+articleTitle: "GetFieldType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Returns type of field."
 type: docs
-weight: 240
-url: /net/aspose.pdf.facades/form/getfieldtype/
+weight: 350
+url: "/net/aspose.pdf.facades/form/getfieldtype/"
+product_version: "26.9"
 ---
 ## Form.GetFieldType method
 
@@ -34,9 +37,8 @@ if (form.GetFieldType("textField") == FieldType.Text)
 
 ### See Also
 
-* enum [FieldType](../../fieldtype/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [FieldType](../../fieldtype/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

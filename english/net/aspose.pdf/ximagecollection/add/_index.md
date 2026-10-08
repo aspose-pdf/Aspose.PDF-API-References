@@ -1,12 +1,15 @@
 ---
-title: XImageCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection method. Adds new image to Image list. This method adds image as reference to the same PdfObject which allows to decrease file size
+title: "XImageCollection.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImageCollection method. Adds new image to Image list. This method adds image as reference to the same PdfObject (which allows to decrease file size)"
 type: docs
-weight: 70
-url: /net/aspose.pdf/ximagecollection/add/
+weight: 10
+url: "/net/aspose.pdf/ximagecollection/add/"
+product_version: "26.9"
 ---
-## Add(XImage) {#add_2}
+## Add(XImage) {#add}
 
 Adds new image to Image list. This method adds image as reference to the same PdfObject (which allows to decrease file size)
 
@@ -24,14 +27,14 @@ Name of the added image.
 
 ### See Also
 
-* class [XImage](../../ximage/)
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(Stream) {#add_3}
+## Add(Stream) {#add_1}
 
 Adds entity to the end of the collection, so entity can be accessed by the last index.
 
@@ -49,13 +52,13 @@ Name of the added image.
 
 ### See Also
 
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(BitmapInfo) {#add}
+## Add(BitmapInfo) {#add_2}
 
 Adds entity to the end of the collection, so entity can be accessed by the last index.
 
@@ -73,14 +76,14 @@ Name of the added image.
 
 ### See Also
 
-* class [BitmapInfo](../../bitmapinfo/)
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [BitmapInfo](../../bitmapinfo/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(Stream, ImageFilterType) {#add_4}
+## Add(Stream, ImageFilterType) {#add_3}
 
 Adds entity to the end of the collection, so entity can be accessed by the last index.
 
@@ -99,14 +102,14 @@ Name of the added image.
 
 ### See Also
 
-* enum [ImageFilterType](../../imagefiltertype/)
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [ImageFilterType](../../imagefiltertype/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(BitmapInfo, ImageFilterType) {#add_1}
+## Add(BitmapInfo, ImageFilterType) {#add_4}
 
 Adds entity to the end of the collection, so entity can be accessed by the last index.
 
@@ -125,15 +128,15 @@ Name of the added image.
 
 ### See Also
 
-* class [BitmapInfo](../../bitmapinfo/)
-* enum [ImageFilterType](../../imagefiltertype/)
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [BitmapInfo](../../bitmapinfo/)
+* enum [ImageFilterType](../../imagefiltertype/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(Stream, int) {#add_5}
+## Add(Stream, int) {#add_5}
 
 Adds entity to the end of the collection, so entity can be accessed by the last index.
 
@@ -148,8 +151,7 @@ public void Add(Stream image, int quality)
 
 ### See Also
 
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

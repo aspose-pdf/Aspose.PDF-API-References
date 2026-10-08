@@ -1,10 +1,13 @@
 ---
-title: Enum SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.SaveFormat enum. Allows to specify .doc or .docx file format
+title: "SaveFormat Enum"
+linktitle: "SaveFormat"
+articleTitle: "SaveFormat"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.SaveFormat enum. Allows to specify .doc or .docx file format."
 type: docs
-weight: 7860
-url: /net/aspose.pdf.lowcode/saveformat/
+weight: 810
+url: "/net/aspose.pdf.lowcode/saveformat/"
+product_version: "26.9"
 ---
 ## SaveFormat enumeration
 
@@ -23,7 +26,6 @@ public enum SaveFormat
 
 ### See Also
 
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

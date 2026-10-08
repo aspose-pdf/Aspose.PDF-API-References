@@ -1,10 +1,13 @@
 ---
-title: IOpenAIClient.WaitForVectorStoreFileToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Waits for a specific vector store file to complete asynchronously
+title: "IOpenAIClient.WaitForVectorStoreFileToCompleteAsync"
+linktitle: "WaitForVectorStoreFileToCompleteAsync"
+articleTitle: "WaitForVectorStoreFileToCompleteAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Waits for a specific vector store file to complete asynchronously."
 type: docs
-weight: 460
-url: /net/aspose.pdf.ai/iopenaiclient/waitforvectorstorefiletocompleteasync/
+weight: 50
+url: "/net/aspose.pdf.ai/iopenaiclient/waitforvectorstorefiletocompleteasync/"
+product_version: "26.9"
 ---
 ## IOpenAIClient.WaitForVectorStoreFileToCompleteAsync method
 
@@ -34,9 +37,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [VectorStoreFileResponse](../../vectorstorefileresponse/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [VectorStoreFileResponse](../../vectorstorefileresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PdfPageEditor.TBGLITTER
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor field. TopBottom Glitter
+title: "PdfPageEditor.TBGLITTER"
+linktitle: "TBGLITTER"
+articleTitle: "TBGLITTER"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. Top-Bottom Glitter"
 type: docs
-weight: 330
-url: /net/aspose.pdf.facades/pdfpageeditor/tbglitter/
+weight: 350
+url: "/net/aspose.pdf.facades/pdfpageeditor/tbglitter/"
+product_version: "26.9"
 ---
 ## PdfPageEditor.TBGLITTER field
 
@@ -16,8 +19,7 @@ public const int TBGLITTER;
 
 ### See Also
 
-* class [PdfPageEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

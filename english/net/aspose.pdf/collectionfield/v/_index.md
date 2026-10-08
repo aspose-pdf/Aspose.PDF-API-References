@@ -1,10 +1,13 @@
 ---
-title: CollectionField.V
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionField property. Gets the initial visibility of the field in the user interface. Default value true
+title: "CollectionField.V"
+linktitle: "V"
+articleTitle: "V"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CollectionField property. Gets the initial visibility of the field in the user interface. Default value: true."
 type: docs
-weight: 60
-url: /net/aspose.pdf/collectionfield/v/
+weight: 50
+url: "/net/aspose.pdf/collectionfield/v/"
+product_version: "26.9"
 ---
 ## CollectionField.V property
 
@@ -16,8 +19,7 @@ public bool V { get; }
 
 ### See Also
 
-* class [CollectionField](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CollectionField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

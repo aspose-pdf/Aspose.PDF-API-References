@@ -1,10 +1,14 @@
 ---
-title: Class PdfActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PdfActionCollection class. Class describes list of actions
+title: "PdfActionCollection Class"
+linktitle: "PdfActionCollection"
+articleTitle: "PdfActionCollection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PdfActionCollection class. Class describes list of actions."
 type: docs
-weight: 2370
-url: /net/aspose.pdf.annotations/pdfactioncollection/
+weight: 900
+url: "/net/aspose.pdf.annotations/pdfactioncollection/"
+keywords: "PdfActionCollection, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## PdfActionCollection class
 
@@ -18,8 +22,8 @@ public class PdfActionCollection : IEnumerable<PdfAction>
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.pdf.annotations/pdfactioncollection/count/) { get; } | Gets count of actions. |
-| [Item](../../aspose.pdf.annotations/pdfactioncollection/item/) { get; } | Gets action by its index. |
+| [Count](../../aspose.pdf.annotations/pdfactioncollection/count/) { get; } | Gets count of actions. |
+| [Item](../../aspose.pdf.annotations/pdfactioncollection/item/) { get; } | Gets action by its index. |
 
 ## Methods
 
@@ -31,8 +35,7 @@ public class PdfActionCollection : IEnumerable<PdfAction>
 
 ### See Also
 
-* class [PdfAction](../pdfaction/)
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

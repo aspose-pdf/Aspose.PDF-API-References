@@ -1,10 +1,13 @@
 ---
-title: ITaggedContent.CreateHeaderElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent method. Creates HeaderElement
+title: "ITaggedContent.CreateHeaderElement"
+linktitle: "CreateHeaderElement"
+articleTitle: "CreateHeaderElement"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Creates HeaderElement."
 type: docs
-weight: 140
-url: /net/aspose.pdf.tagged/itaggedcontent/createheaderelement/
+weight: 150
+url: "/net/aspose.pdf.tagged/itaggedcontent/createheaderelement/"
+product_version: "26.9"
 ---
 ## CreateHeaderElement() {#createheaderelement}
 
@@ -20,10 +23,10 @@ Created structure element.
 
 ### See Also
 
-* class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
-* interface [ITaggedContent](../)
-* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* assembly [Aspose.PDF](../../../)
+* class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -45,9 +48,8 @@ Created structure element.
 
 ### See Also
 
-* class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
-* interface [ITaggedContent](../)
-* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HeaderElement](../../../aspose.pdf.logicalstructure/headerelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
 

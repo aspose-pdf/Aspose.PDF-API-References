@@ -1,12 +1,15 @@
 ---
-title: SignOptions.SignOptions
-second_title: Aspose.PDF for .NET API Reference
-description: SignOptions constructor. Initializes new instance of the SignOptions object with default options
+title: "SignOptions.SignOptions"
+linktitle: "SignOptions"
+articleTitle: "SignOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignOptions constructor. Initializes new instance of the SignOptions object with default options."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/signoptions/signoptions/
+url: "/net/aspose.pdf.lowcode/signoptions/signoptions/"
+product_version: "26.9"
 ---
-## SignOptions(string, string) {#constructor_1}
+## SignOptions(string, string) {#constructor}
 
 Initializes new instance of the [`SignOptions`](../) object with default options.
 
@@ -21,13 +24,13 @@ public SignOptions(string pfx, string password)
 
 ### See Also
 
-* class [SignOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SignOptions(Stream, string) {#constructor}
+## SignOptions(Stream, string) {#constructor_1}
 
 Initializes new instance of the [`SignOptions`](../) object with default options.
 
@@ -42,8 +45,7 @@ public SignOptions(Stream pfx, string password)
 
 ### See Also
 
-* class [SignOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

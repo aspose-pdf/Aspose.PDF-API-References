@@ -1,10 +1,13 @@
 ---
-title: TextFragment.Segments
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment property. Gets text segments for current TextFragment
+title: "TextFragment.Segments"
+linktitle: "Segments"
+articleTitle: "Segments"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment property. Gets text segments for current TextFragment."
 type: docs
-weight: 120
-url: /net/aspose.pdf.text/textfragment/segments/
+weight: 140
+url: "/net/aspose.pdf.text/textfragment/segments/"
+product_version: "26.9"
 ---
 ## TextFragment.Segments property
 
@@ -16,11 +19,13 @@ public TextSegmentCollection Segments { get; set; }
 
 ## Remarks
 
-In a few words, [`TextSegment`](../../textsegment/) objects are children of [`TextFragment`](../) object. Advanced users may access segments directly to perform more complex text edit scenarios. For details, please look at [`TextFragment`](../) object description.
+In a few words, [`TextSegment`](../../textsegment/) objects are children of [`TextFragment`](../) object.
+ Advanced users may access segments directly to perform more complex text edit scenarios.
+ For details, please look at [`TextFragment`](../) object description.
 
 ## Examples
 
-The example demonstrates how to navigate all [`TextSegment`](../../textsegment/) objects inside [`TextFragment`](../).
+The example demonstrates how to navigate all [`TextSegment`](../../../aspose.pdf.text/textsegment/) objects inside [`TextFragment`](../../../aspose.pdf.text/textfragment/).
 
 ```csharp
 // Open document
@@ -39,17 +44,15 @@ foreach (TextSegment segment in absorber.TextFragments[1].Segments)
     Console.Out.WriteLine(string.Format("segment X indent: {0}", segment.Position.XIndent));
     Console.Out.WriteLine(string.Format("segment Y indent: {0}", segment.Position.YIndent));
 }
-
 ```
 
 ### See Also
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber/)
-* class [Document](../../../aspose.pdf/document/)
-* class [TextSegment](../../textsegment/)
-* class [TextSegmentCollection](../../textsegmentcollection/)
-* class [TextFragment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* [TextFragmentAbsorber](../textfragmentabsorber/)
+* [Document](../document/)
+* [TextSegment](../textsegment/)
+* class [TextSegmentCollection](../../textsegmentcollection/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

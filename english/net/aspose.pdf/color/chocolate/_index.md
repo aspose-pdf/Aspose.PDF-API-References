@@ -1,10 +1,13 @@
 ---
-title: Color.Chocolate
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FFD2691E
+title: "Color.Chocolate"
+linktitle: "Chocolate"
+articleTitle: "Chocolate"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFD2691E."
 type: docs
-weight: 170
-url: /net/aspose.pdf/color/chocolate/
+weight: 340
+url: "/net/aspose.pdf/color/chocolate/"
+product_version: "26.9"
 ---
 ## Color.Chocolate property
 
@@ -20,8 +23,7 @@ A representing a system-defined color.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

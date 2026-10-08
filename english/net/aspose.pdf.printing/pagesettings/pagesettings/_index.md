@@ -1,10 +1,13 @@
 ---
-title: PageSettings.PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettings constructor. Initializes a new instance of the PageSettings class using the default printer
+title: "PageSettings.PageSettings"
+linktitle: "PageSettings"
+articleTitle: "PageSettings"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSettings constructor. Initializes a new instance of the PageSettings class using the default printer."
 type: docs
 weight: 10
-url: /net/aspose.pdf.printing/pagesettings/pagesettings/
+url: "/net/aspose.pdf.printing/pagesettings/pagesettings/"
+product_version: "26.9"
 ---
 ## PageSettings() {#constructor}
 
@@ -16,9 +19,9 @@ public PageSettings()
 
 ### See Also
 
-* class [PageSettings](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -42,9 +45,8 @@ public PageSettings(PrinterSettings printerSettings)
 
 ### See Also
 
-* class [PrinterSettings](../../printersettings/)
-* class [PageSettings](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrinterSettings](../../printersettings/)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

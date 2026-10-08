@@ -1,10 +1,14 @@
 ---
-title: Class LocalHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LocalHyperlink class. Represents local hyperlink object
+title: "LocalHyperlink Class"
+linktitle: "LocalHyperlink"
+articleTitle: "LocalHyperlink"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LocalHyperlink class. Represents local hyperlink object."
 type: docs
-weight: 6320
-url: /net/aspose.pdf/localhyperlink/
+weight: 1800
+url: "/net/aspose.pdf/localhyperlink/"
+keywords: "LocalHyperlink, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## LocalHyperlink class
 
@@ -25,13 +29,12 @@ public sealed class LocalHyperlink : Hyperlink
 
 | Name | Description |
 | --- | --- |
-| [Target](../../aspose.pdf/localhyperlink/target/) { get; set; } | Gets or sets the target paragraph. |
-| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber/) { get; set; } | Gets or sets the target page number. |
+| [Target](../../aspose.pdf/localhyperlink/target/) { get; set; } | Gets or sets the target paragraph. |
+| [TargetPageNumber](../../aspose.pdf/localhyperlink/targetpagenumber/) { get; set; } | Gets or sets the target page number. |
 
 ### See Also
 
-* class [Hyperlink](../hyperlink/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [Hyperlink](../hyperlink/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

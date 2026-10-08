@@ -1,10 +1,13 @@
 ---
-title: TextExtractionOptions.TextExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionOptions constructor. Initializes new instance of the TextExtractionOptions object for the specified text formatting mode
+title: "TextExtractionOptions.TextExtractionOptions"
+linktitle: "TextExtractionOptions"
+articleTitle: "TextExtractionOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextExtractionOptions constructor. Initializes new instance of the TextExtractionOptions object for the specified text formatting mode."
 type: docs
 weight: 10
-url: /net/aspose.pdf.text/textextractionoptions/textextractionoptions/
+url: "/net/aspose.pdf.text/textextractionoptions/textextractionoptions/"
+product_version: "26.9"
 ---
 ## TextExtractionOptions constructor
 
@@ -20,9 +23,8 @@ public TextExtractionOptions(TextFormattingMode formattingMode)
 
 ### See Also
 
-* enum [TextFormattingMode](../../textextractionoptions.textformattingmode/)
-* class [TextExtractionOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [TextFormattingMode](../../textextractionoptions.textformattingmode/)
+* class [TextExtractionOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PdfViewer.PdfViewer
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer constructor. Initializes new PdfViewer object
+title: "PdfViewer.PdfViewer"
+linktitle: "PdfViewer"
+articleTitle: "PdfViewer"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer constructor. Initializes new PdfViewer object."
 type: docs
 weight: 10
-url: /net/aspose.pdf.facades/pdfviewer/pdfviewer/
+url: "/net/aspose.pdf.facades/pdfviewer/pdfviewer/"
+product_version: "26.9"
 ---
 ## PdfViewer() {#constructor}
 
@@ -16,9 +19,9 @@ public PdfViewer()
 
 ### See Also
 
-* class [PdfViewer](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,9 +39,8 @@ public PdfViewer(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [PdfViewer](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

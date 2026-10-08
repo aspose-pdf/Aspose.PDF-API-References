@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.CreateVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Creates a new vector store asynchronously
+title: "OpenAIClient.CreateVectorStoreAsync"
+linktitle: "CreateVectorStoreAsync"
+articleTitle: "CreateVectorStoreAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Creates a new vector store asynchronously."
 type: docs
 weight: 100
-url: /net/aspose.pdf.ai/openaiclient/createvectorstoreasync/
+url: "/net/aspose.pdf.ai/openaiclient/createvectorstoreasync/"
+product_version: "26.9"
 ---
 ## OpenAIClient.CreateVectorStoreAsync method
 
@@ -27,10 +30,9 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [VectorStoreResponse](../../vectorstoreresponse/)
-* class [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

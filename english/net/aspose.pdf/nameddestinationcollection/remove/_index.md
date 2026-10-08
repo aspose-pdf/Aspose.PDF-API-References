@@ -1,10 +1,13 @@
 ---
-title: NamedDestinationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: NamedDestinationCollection method. Delete named destination
+title: "NamedDestinationCollection.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NamedDestinationCollection method. Delete named destination."
 type: docs
-weight: 50
-url: /net/aspose.pdf/nameddestinationcollection/remove/
+weight: 10
+url: "/net/aspose.pdf/nameddestinationcollection/remove/"
+product_version: "26.9"
 ---
 ## NamedDestinationCollection.Remove method
 
@@ -20,8 +23,7 @@ public void Remove(string name)
 
 ### See Also
 
-* class [NamedDestinationCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [NamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

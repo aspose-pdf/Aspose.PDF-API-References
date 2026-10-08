@@ -1,10 +1,14 @@
 ---
-title: Class Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Hyperlink class. Represents abstract hyperlink
+title: "Hyperlink Class"
+linktitle: "Hyperlink"
+articleTitle: "Hyperlink"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Hyperlink class. Represents abstract hyperlink."
 type: docs
-weight: 5880
-url: /net/aspose.pdf/hyperlink/
+weight: 1360
+url: "/net/aspose.pdf/hyperlink/"
+keywords: "Hyperlink, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## Hyperlink class
 
@@ -16,7 +20,6 @@ public abstract class Hyperlink
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

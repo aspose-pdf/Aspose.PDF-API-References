@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.GetRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Retrieves details of a specific run within a thread asynchronously
+title: "OpenAIClient.GetRunAsync"
+linktitle: "GetRunAsync"
+articleTitle: "GetRunAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Retrieves details of a specific run within a thread asynchronously."
 type: docs
-weight: 260
-url: /net/aspose.pdf.ai/openaiclient/getrunasync/
+weight: 480
+url: "/net/aspose.pdf.ai/openaiclient/getrunasync/"
+product_version: "26.9"
 ---
 ## OpenAIClient.GetRunAsync method
 
@@ -34,9 +37,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [RunResponse](../../runresponse/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RunResponse](../../runresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

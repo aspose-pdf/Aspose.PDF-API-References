@@ -1,10 +1,13 @@
 ---
-title: Enum ImageFilterType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImageFilterType enum. Enumeration representing image filter type
+title: "ImageFilterType Enum"
+linktitle: "ImageFilterType"
+articleTitle: "ImageFilterType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ImageFilterType enum. Enumeration representing image filter type."
 type: docs
-weight: 6030
-url: /net/aspose.pdf/imagefiltertype/
+weight: 1510
+url: "/net/aspose.pdf/imagefiltertype/"
+product_version: "26.9"
 ---
 ## ImageFilterType enumeration
 
@@ -25,7 +28,6 @@ public enum ImageFilterType
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

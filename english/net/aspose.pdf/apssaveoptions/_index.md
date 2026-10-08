@@ -1,10 +1,14 @@
 ---
-title: Class ApsSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ApsSaveOptions class. Save options for export to APS XML format
+title: "ApsSaveOptions Class"
+linktitle: "ApsSaveOptions"
+articleTitle: "ApsSaveOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ApsSaveOptions class. Save options for export to APS XML format."
 type: docs
-weight: 2860
-url: /net/aspose.pdf/apssaveoptions/
+weight: 40
+url: "/net/aspose.pdf/apssaveoptions/"
+keywords: "ApsSaveOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## ApsSaveOptions class
 
@@ -24,11 +28,11 @@ public class ApsSaveOptions : UnifiedSaveOptions
 
 | Name | Description |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Gets or sets boolean value which indicates if will font glyphs be cached while preparing aps pages. Improves performance of conversion pdf to other formats but increases memory consumption. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | This atrribute turned on functionality for extracting image or text for PDF documents with OCR sublayer. |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format of data save. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Gets or sets boolean value which indicates if will font glyphs be cached while preparing aps pages. Improves performance of conversion pdf to other formats but increases memory consumption. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | This atrribute turned on functionality for extracting image or text for PDF documents with OCR sublayer. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format of data save. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
 
 ## Fields
 
@@ -39,8 +43,7 @@ public class ApsSaveOptions : UnifiedSaveOptions
 
 ### See Also
 
-* class [UnifiedSaveOptions](../unifiedsaveoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [UnifiedSaveOptions](../unifiedsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

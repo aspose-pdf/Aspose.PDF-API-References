@@ -1,10 +1,13 @@
 ---
-title: PdfException.PdfException
-second_title: Aspose.PDF for .NET API Reference
-description: PdfException constructor. Initializes a new instance of the PdfException class
+title: "PdfException.PdfException"
+linktitle: "PdfException"
+articleTitle: "PdfException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfException constructor. Initializes a new instance of the PdfException class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/pdfexception/pdfexception/
+url: "/net/aspose.pdf/pdfexception/pdfexception/"
+product_version: "26.9"
 ---
 ## PdfException() {#constructor}
 
@@ -16,13 +19,13 @@ public PdfException()
 
 ### See Also
 
-* class [PdfException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfException(string) {#constructor_2}
+## PdfException(string) {#constructor_1}
 
 Initializes a new instance of the [`PdfException`](../) class.
 
@@ -36,13 +39,13 @@ public PdfException(string message)
 
 ### See Also
 
-* class [PdfException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfException(string, Exception) {#constructor_3}
+## PdfException(string, Exception) {#constructor_2}
 
 Initializes a new instance of the [`PdfException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
@@ -57,13 +60,13 @@ public PdfException(string message, Exception innerException)
 
 ### See Also
 
-* class [PdfException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfException(Exception) {#constructor_1}
+## PdfException(Exception) {#constructor_3}
 
 Initializes a new instance of the [`PdfException`](../) class with a reference to the inner exception that is the cause of this exception.
 
@@ -77,8 +80,7 @@ public PdfException(Exception innerException)
 
 ### See Also
 
-* class [PdfException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

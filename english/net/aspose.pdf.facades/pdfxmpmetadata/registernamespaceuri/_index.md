@@ -1,10 +1,13 @@
 ---
-title: PdfXmpMetadata.RegisterNamespaceURI
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata method. Registers the namespace URI
+title: "PdfXmpMetadata.RegisterNamespaceURI"
+linktitle: "RegisterNamespaceURI"
+articleTitle: "RegisterNamespaceURI"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata method. Registers the namespace URI."
 type: docs
-weight: 200
-url: /net/aspose.pdf.facades/pdfxmpmetadata/registernamespaceuri/
+weight: 30
+url: "/net/aspose.pdf.facades/pdfxmpmetadata/registernamespaceuri/"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata.RegisterNamespaceURI method
 
@@ -28,8 +31,7 @@ xmp.RegisterNamespaceURI("xmp", "http://ns.adobe.com/xap/1.0/");
 
 ### See Also
 
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

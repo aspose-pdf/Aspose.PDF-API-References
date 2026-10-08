@@ -1,10 +1,13 @@
 ---
-title: AttributeOwnerStandard.Css_100
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeOwnerStandard field. CSS1.00 attribute owner
+title: "AttributeOwnerStandard.Css_100"
+linktitle: "Css_100"
+articleTitle: "Css_100"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeOwnerStandard field. CSS-1.00 attribute owner."
 type: docs
-weight: 10
-url: /net/aspose.pdf.logicalstructure/attributeownerstandard/css_100/
+weight: 130
+url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/css_100/"
+product_version: "26.9"
 ---
 ## AttributeOwnerStandard.Css_100 field
 
@@ -16,8 +19,7 @@ public static readonly AttributeOwnerStandard Css_100;
 
 ### See Also
 
-* class [AttributeOwnerStandard](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

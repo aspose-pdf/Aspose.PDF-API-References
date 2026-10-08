@@ -1,10 +1,13 @@
 ---
-title: LicenseInfo.SubscriptionExpiry
-second_title: Aspose.PDF for .NET API Reference
-description: LicenseInfo property. Gets the assembly release date to which updates are possible
+title: "LicenseInfo.SubscriptionExpiry"
+linktitle: "SubscriptionExpiry"
+articleTitle: "SubscriptionExpiry"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LicenseInfo property. Gets the assembly release date to which updates are possible."
 type: docs
-weight: 80
-url: /net/aspose.pdf/licenseinfo/subscriptionexpiry/
+weight: 70
+url: "/net/aspose.pdf/licenseinfo/subscriptionexpiry/"
+product_version: "26.9"
 ---
 ## LicenseInfo.SubscriptionExpiry property
 
@@ -20,8 +23,7 @@ You cannot use the license for the version of assemblies with the assembly dates
 
 ### See Also
 
-* class [LicenseInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LicenseInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

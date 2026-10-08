@@ -1,10 +1,13 @@
 ---
-title: RegistrationMarkAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: RegistrationMarkAnnotation method. Accepts visitor for annotation processing
+title: "RegistrationMarkAnnotation.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RegistrationMarkAnnotation method. Accepts visitor for annotation processing."
 type: docs
-weight: 40
-url: /net/aspose.pdf.annotations/registrationmarkannotation/accept/
+weight: 20
+url: "/net/aspose.pdf.annotations/registrationmarkannotation/accept/"
+product_version: "26.9"
 ---
 ## RegistrationMarkAnnotation.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../annotationselector/)
-* class [RegistrationMarkAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotationSelector](../../annotationselector/)
+* class [RegistrationMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

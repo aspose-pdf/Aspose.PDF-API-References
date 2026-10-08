@@ -1,10 +1,13 @@
 ---
-title: Delegate SignHash
-second_title: Aspose.PDF for .NET API Reference
-description: Delegate for custom sign the document hash
+title: "SignHash Delegate"
+linktitle: "SignHash"
+articleTitle: "SignHash"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Delegate for custom sign the document hash."
 type: docs
-weight: 5440
-url: /net/aspose.pdf.forms/signhash/
+weight: 330
+url: "/net/aspose.pdf.forms/signhash/"
+product_version: "26.9"
 ---
 ## SignHash delegate
 
@@ -23,14 +26,9 @@ public delegate byte[] SignHash(byte[] hash, DigestHashAlgorithm digestHashAlgor
 
 Output signature.
 
-## Remarks
-
-Note that whether the digital signature is detached or not, the hash argument will always be the final hash to be signed.
-
 ### See Also
 
-* enum [DigestHashAlgorithm](../../aspose.pdf/digesthashalgorithm/)
-* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../)
-
+* enum [DigestHashAlgorithm](../../aspose.pdf/digesthashalgorithm/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
 

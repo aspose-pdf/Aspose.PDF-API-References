@@ -1,10 +1,13 @@
 ---
-title: FileCitation.FileId
-second_title: Aspose.PDF for .NET API Reference
-description: FileCitation property. Gets or sets the ID of the specific File the citation is from
+title: "FileCitation.FileId"
+linktitle: "FileId"
+articleTitle: "FileId"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileCitation property. Gets or sets the ID of the specific File the citation is from."
 type: docs
 weight: 20
-url: /net/aspose.pdf.ai/filecitation/fileid/
+url: "/net/aspose.pdf.ai/filecitation/fileid/"
+product_version: "26.9"
 ---
 ## FileCitation.FileId property
 
@@ -16,8 +19,7 @@ public string FileId { get; set; }
 
 ### See Also
 
-* class [FileCitation](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileCitation](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

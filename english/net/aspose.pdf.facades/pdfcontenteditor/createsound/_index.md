@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.CreateSound
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates Sound Annotations
+title: "PdfContentEditor.CreateSound"
+linktitle: "CreateSound"
+articleTitle: "CreateSound"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates Sound Annotations."
 type: docs
-weight: 270
-url: /net/aspose.pdf.facades/pdfcontenteditor/createsound/
+weight: 520
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createsound/"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreateSound method
 
@@ -24,8 +27,7 @@ public void CreateSound(Rectangle rect, string filePath, string name, int page, 
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

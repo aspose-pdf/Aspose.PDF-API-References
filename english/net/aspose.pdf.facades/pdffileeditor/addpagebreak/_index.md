@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.AddPageBreak
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Adds page breaks into document pages
+title: "PdfFileEditor.AddPageBreak"
+linktitle: "AddPageBreak"
+articleTitle: "AddPageBreak"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Adds page breaks into document pages."
 type: docs
-weight: 240
-url: /net/aspose.pdf.facades/pdffileeditor/addpagebreak/
+weight: 990
+url: "/net/aspose.pdf.facades/pdffileeditor/addpagebreak/"
+product_version: "26.9"
 ---
-## AddPageBreak(Document, Document, PageBreak[]) {#addpagebreak}
+## AddPageBreak(Document, Document, PageBreak[]) {#addpagebreak}
 
 Adds page breaks into document pages.
 
@@ -22,15 +25,15 @@ public void AddPageBreak(Document src, Document dest, PageBreak[] pageBreaks)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [PageBreak](../../pdffileeditor.pagebreak/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PageBreak](../../pdffileeditor.pagebreak/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddPageBreak(string, string, PageBreak[]) {#addpagebreak_2}
+## AddPageBreak(string, string, PageBreak[]) {#addpagebreak_1}
 
 Adds page breaks into document pages.
 
@@ -46,14 +49,14 @@ public void AddPageBreak(string src, string dest, PageBreak[] pageBreaks)
 
 ### See Also
 
-* class [PageBreak](../../pdffileeditor.pagebreak/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PageBreak](../../pdffileeditor.pagebreak/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddPageBreak(Stream, Stream, PageBreak[]) {#addpagebreak_1}
+## AddPageBreak(Stream, Stream, PageBreak[]) {#addpagebreak_2}
 
 Adds page breaks into document pages.
 
@@ -69,9 +72,8 @@ public void AddPageBreak(Stream src, Stream dest, PageBreak[] pageBreaks)
 
 ### See Also
 
-* class [PageBreak](../../pdffileeditor.pagebreak/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageBreak](../../pdffileeditor.pagebreak/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

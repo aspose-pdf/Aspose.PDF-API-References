@@ -1,10 +1,13 @@
 ---
-title: AttributeKey.TextIndent
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey field. TextIndent attribute Layout attribute owner
+title: "AttributeKey.TextIndent"
+linktitle: "TextIndent"
+articleTitle: "TextIndent"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. TextIndent attribute (Layout attribute owner)."
 type: docs
-weight: 380
-url: /net/aspose.pdf.logicalstructure/attributekey/textindent/
+weight: 170
+url: "/net/aspose.pdf.logicalstructure/attributekey/textindent/"
+product_version: "26.9"
 ---
 ## AttributeKey.TextIndent field
 
@@ -16,8 +19,7 @@ public static readonly AttributeKey TextIndent;
 
 ### See Also
 
-* class [AttributeKey](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

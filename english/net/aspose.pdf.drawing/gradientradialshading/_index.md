@@ -1,10 +1,14 @@
 ---
-title: Class GradientRadialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.GradientRadialShading class. Represents gradient radial shading type
+title: "GradientRadialShading Class"
+linktitle: "GradientRadialShading"
+articleTitle: "GradientRadialShading"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Drawing.GradientRadialShading class. Represents gradient radial shading type."
 type: docs
-weight: 4090
-url: /net/aspose.pdf.drawing/gradientradialshading/
+weight: 70
+url: "/net/aspose.pdf.drawing/gradientradialshading/"
+keywords: "GradientRadialShading, Aspose.Pdf.Drawing, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## GradientRadialShading class
 
@@ -19,23 +23,22 @@ public class GradientRadialShading : PatternColorSpace
 | Name | Description |
 | --- | --- |
 | [GradientRadialShading](gradientradialshading/#constructor)() | Initializes a new instance of the `GradientRadialShading` class. |
-| [GradientRadialShading](gradientradialshading/#constructor_1)(Color, Color) | Initializes a new instance of the `GradientRadialShading` class. |
+| [GradientRadialShading](gradientradialshading/#constructor_1)(Color, Color) | Initializes a new instance of the `GradientRadialShading` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [End](../../aspose.pdf.drawing/gradientradialshading/end/) { get; set; } | Gets or sets ending circle center point. |
-| [EndColor](../../aspose.pdf.drawing/gradientradialshading/endcolor/) { get; set; } | Gets or sets end color. |
-| [EndingRadius](../../aspose.pdf.drawing/gradientradialshading/endingradius/) { get; set; } | Gets or sets ending circle radius. |
-| [Start](../../aspose.pdf.drawing/gradientradialshading/start/) { get; set; } | Gets or sets starting circle center point. |
-| [StartColor](../../aspose.pdf.drawing/gradientradialshading/startcolor/) { get; set; } | Gets or sets start color. |
-| [StartingRadius](../../aspose.pdf.drawing/gradientradialshading/startingradius/) { get; set; } | Gets or sets starting circle radius. |
+| [End](../../aspose.pdf.drawing/gradientradialshading/end/) { get; set; } | Gets or sets ending circle center point. |
+| [EndColor](../../aspose.pdf.drawing/gradientradialshading/endcolor/) { get; set; } | Gets or sets end color. |
+| [EndingRadius](../../aspose.pdf.drawing/gradientradialshading/endingradius/) { get; set; } | Gets or sets ending circle radius. |
+| [Start](../../aspose.pdf.drawing/gradientradialshading/start/) { get; set; } | Gets or sets starting circle center point. |
+| [StartColor](../../aspose.pdf.drawing/gradientradialshading/startcolor/) { get; set; } | Gets or sets start color. |
+| [StartingRadius](../../aspose.pdf.drawing/gradientradialshading/startingradius/) { get; set; } | Gets or sets starting circle radius. |
 
 ### See Also
 
-* class [PatternColorSpace](../patterncolorspace/)
-* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../)
-
+* class [PatternColorSpace](../patterncolorspace/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
 

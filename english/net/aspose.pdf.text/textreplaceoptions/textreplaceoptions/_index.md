@@ -1,12 +1,15 @@
 ---
-title: TextReplaceOptions.TextReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextReplaceOptions constructor. Initializes new instance of the TextReplaceOptions object for the specified scope
+title: "TextReplaceOptions.TextReplaceOptions"
+linktitle: "TextReplaceOptions"
+articleTitle: "TextReplaceOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextReplaceOptions constructor. Initializes new instance of the TextReplaceOptions object for the specified scope."
 type: docs
 weight: 10
-url: /net/aspose.pdf.text/textreplaceoptions/textreplaceoptions/
+url: "/net/aspose.pdf.text/textreplaceoptions/textreplaceoptions/"
+product_version: "26.9"
 ---
-## TextReplaceOptions(Scope) {#constructor_1}
+## TextReplaceOptions(Scope) {#constructor}
 
 Initializes new instance of the [`TextReplaceOptions`](../) object for the specified scope.
 
@@ -20,14 +23,14 @@ public TextReplaceOptions(Scope scope)
 
 ### See Also
 
-* enum [Scope](../../textreplaceoptions.scope/)
-* class [TextReplaceOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* enum [Scope](../../textreplaceoptions.scope/)
+* class [TextReplaceOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextReplaceOptions(ReplaceAdjustment) {#constructor}
+## TextReplaceOptions(ReplaceAdjustment) {#constructor_1}
 
 Initializes new instance of the [`TextReplaceOptions`](../) object for the specified after replace action.
 
@@ -41,9 +44,8 @@ public TextReplaceOptions(ReplaceAdjustment adjustment)
 
 ### See Also
 
-* enum [ReplaceAdjustment](../../textreplaceoptions.replaceadjustment/)
-* class [TextReplaceOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [ReplaceAdjustment](../../textreplaceoptions.replaceadjustment/)
+* class [TextReplaceOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,17 @@
 ---
-title: ICosPdfPrimitive.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: ICosPdfPrimitive method. String representation of instance ICosPdfPrimitive
+title: "ICosPdfPrimitive.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ICosPdfPrimitive method. String representation of instance ICosPdfPrimitive."
 type: docs
 weight: 60
-url: /net/aspose.pdf.dataeditor/icospdfprimitive/tostring/
+url: "/net/aspose.pdf.dataeditor/icospdfprimitive/tostring/"
+product_version: "26.9"
 ---
 ## ICosPdfPrimitive.ToString method
 
-String representation of instance [`ICosPdfPrimitive`](../).
+`String` representation of instance [`ICosPdfPrimitive`](../).
 
 ```csharp
 public string ToString()
@@ -16,12 +19,11 @@ public string ToString()
 
 ### Return Value
 
-Value of String representation of instance [`ICosPdfPrimitive`](../).
+Value of `String` representation of instance [`ICosPdfPrimitive`](../).
 
 ### See Also
 
-* interface [ICosPdfPrimitive](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [ICosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

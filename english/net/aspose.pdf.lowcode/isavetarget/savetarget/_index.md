@@ -1,10 +1,13 @@
 ---
-title: ISaveTarget.SaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: ISaveTarget property. Type of the save target file or stream
+title: "ISaveTarget.SaveTarget"
+linktitle: "SaveTarget"
+articleTitle: "SaveTarget"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ISaveTarget property. Type of the save target (file or stream)."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/isavetarget/savetarget/
+url: "/net/aspose.pdf.lowcode/isavetarget/savetarget/"
+product_version: "26.9"
 ---
 ## ISaveTarget.SaveTarget property
 
@@ -20,9 +23,8 @@ A [`DataType`](../../datatype/) object representing output data.
 
 ### See Also
 
-* enum [DataType](../../datatype/)
-* interface [ISaveTarget](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [DataType](../../datatype/)
+* interface [ISaveTarget](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: WebHyperlink.Url
-second_title: Aspose.PDF for .NET API Reference
-description: WebHyperlink property. Gets or sets the web url
+title: "WebHyperlink.Url"
+linktitle: "Url"
+articleTitle: "Url"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WebHyperlink property. Gets or sets the web url."
 type: docs
-weight: 20
-url: /net/aspose.pdf/webhyperlink/url/
+weight: 30
+url: "/net/aspose.pdf/webhyperlink/url/"
+product_version: "26.9"
 ---
 ## WebHyperlink.Url property
 
@@ -16,8 +19,7 @@ public string Url { get; set; }
 
 ### See Also
 
-* class [WebHyperlink](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [WebHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: StructureElement.SetTag
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement method. Sets custom tag for structure element
+title: "StructureElement.SetTag"
+linktitle: "SetTag"
+articleTitle: "SetTag"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureElement method. Sets custom tag for structure element."
 type: docs
-weight: 170
-url: /net/aspose.pdf.logicalstructure/structureelement/settag/
+weight: 70
+url: "/net/aspose.pdf.logicalstructure/structureelement/settag/"
+product_version: "26.9"
 ---
 ## StructureElement.SetTag method
 
@@ -20,8 +23,7 @@ public void SetTag(string newTag)
 
 ### See Also
 
-* class [StructureElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

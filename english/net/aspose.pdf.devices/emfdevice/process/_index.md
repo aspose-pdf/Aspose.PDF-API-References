@@ -1,10 +1,13 @@
 ---
-title: EmfDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: EmfDevice method. Converts the page into emf and saves it in the output stream
+title: "EmfDevice.Process"
+linktitle: "Process"
+articleTitle: "Process"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EmfDevice method. Converts the page into emf and saves it in the output stream."
 type: docs
-weight: 20
-url: /net/aspose.pdf.devices/emfdevice/process/
+weight: 70
+url: "/net/aspose.pdf.devices/emfdevice/process/"
+product_version: "26.9"
 ---
 ## EmfDevice.Process method
 
@@ -21,9 +24,8 @@ public override void Process(Page page, Stream output)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [EmfDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [EmfDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

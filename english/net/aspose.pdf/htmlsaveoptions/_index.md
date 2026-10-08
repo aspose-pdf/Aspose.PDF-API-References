@@ -1,10 +1,14 @@
 ---
-title: Class HtmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptions class. Save options for export to Html format
+title: "HtmlSaveOptions Class"
+linktitle: "HtmlSaveOptions"
+articleTitle: "HtmlSaveOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlSaveOptions class. Save options for export to Html format"
 type: docs
-weight: 5700
-url: /net/aspose.pdf/htmlsaveoptions/
+weight: 1180
+url: "/net/aspose.pdf/htmlsaveoptions/"
+keywords: "HtmlSaveOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions class
 
@@ -19,41 +23,41 @@ public class HtmlSaveOptions : UnifiedSaveOptions, IPageSetOptions, IPipelineOpt
 | Name | Description |
 | --- | --- |
 | [HtmlSaveOptions](htmlsaveoptions/#constructor)() | Initializes a new instance of the `HtmlSaveOptions` class. |
-| [HtmlSaveOptions](htmlsaveoptions/#constructor_3)(bool) | Initializes a new instance of the `HtmlSaveOptions` class. |
 | [HtmlSaveOptions](htmlsaveoptions/#constructor_1)(HtmlDocumentType) | Initializes a new instance of the `HtmlSaveOptions` class. |
-| [HtmlSaveOptions](htmlsaveoptions/#constructor_2)(HtmlDocumentType, bool) | Initializes a new instance of the `HtmlSaveOptions` class. |
+| [HtmlSaveOptions](htmlsaveoptions/#constructor_2)(bool) | Initializes a new instance of the `HtmlSaveOptions` class. |
+| [HtmlSaveOptions](htmlsaveoptions/#constructor_3)(HtmlDocumentType, bool) | Initializes a new instance of the `HtmlSaveOptions` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/htmlsaveoptions/batchsize/) { get; set; } | Defines batch size if batched conversion is applicable to source and destination formats pair. |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Gets or sets boolean value which indicates if will font glyphs be cached while preparing aps pages. Improves performance of conversion pdf to other formats but increases memory consumption. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
-| [CompressSvgGraphicsIfAny](../../aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/) { get; set; } | Gets or sets the flag that indicates whether found SVG graphics(if any) will be compressed(zipped) into SVGZ format during saving |
-| [ConvertMarkedContentToLayers](../../aspose.pdf/htmlsaveoptions/convertmarkedcontenttolayers/) { get; set; } | If attribute ConvertMarkedContentToLayers set to true then an all elements inside a PDF marked content (layer) will be put into an HTML div with "data-pdflayer" attribute specifying a layer name. This layer name will be extracted from optional properties of PDF marked content. If this attribute is false (by default) then no any layers will be created from PDF marked content. |
-| [DefaultFontName](../../aspose.pdf/htmlsaveoptions/defaultfontname/) { get; set; } | Specifies the name of an installed font which is used to substitute any document font that is not embedded and not installed in the system. If null then default substitution font is used. |
-| [DocumentType](../../aspose.pdf/htmlsaveoptions/documenttype/) { get; set; } | Gets or sets the [`HtmlDocumentType`](../htmldocumenttype/). |
-| [ExplicitListOfSavedPages](../../aspose.pdf/htmlsaveoptions/explicitlistofsavedpages/) { get; set; } | With this property You can explicitely define what pages of document should be converted. Pages in this list must have 1-based numbers. I.e. valid numbers of pages must be taken from range (1...[NumberOfPagesInConvertedDocument]) Order of appearing of pages in this list does not affect their order in result HTML page(s) - in result pages allways will go in order in which they are present in source PDF. If this list is null (as it is by default), all pages will be converted. If any page number of this list will go out of range of present pages(1-[amountOfPagesInDocument]) exception will be thrown. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | This atrribute turned on functionality for extracting image or text for PDF documents with OCR sublayer. |
-| [FixedLayout](../../aspose.pdf/htmlsaveoptions/fixedlayout/) { get; set; } | Gets or sets a value indicating whether that HTML is created as fixed layout. |
-| [FlowLayoutParagraphFullWidth](../../aspose.pdf/htmlsaveoptions/flowlayoutparagraphfullwidth/) { get; set; } | This attribute specifies full width paragraph text for Flow mode, FixedLayout = false |
-| [FontSources](../../aspose.pdf/htmlsaveoptions/fontsources/) { get; } | Font sources of pre-saved fonts. |
-| [IgnoredTextFontSize](../../aspose.pdf/htmlsaveoptions/ignoredtextfontsize/) { get; set; } | Text with the specified size or less will be ignored during conversion. We do not remove this text, we ignore it and do not transfer it to the output file |
-| [IgnoreResourceFontErrors](../../aspose.pdf/htmlsaveoptions/ignoreresourcefonterrors/) { get; set; } | Gets or sets indication that errors related to absence of font will be ignored. true - means that errors of absence of font will be ignored. Text segments that refer to incorrect resources will be skipped during processing. false by default |
-| [ImageResolution](../../aspose.pdf/htmlsaveoptions/imageresolution/) { get; set; } | Gets or sets resolution for image rendering. |
-| [MinimalLineWidth](../../aspose.pdf/htmlsaveoptions/minimallinewidth/) { get; set; } | This attribute sets minimal width of graphic path line. If thickness of line is less than 1px Adobe Acrobat rounds it to this value. So this attribute can be used to emulate this behavior for HTML browsers. |
-| [PreventGlyphsGrouping](../../aspose.pdf/htmlsaveoptions/preventglyphsgrouping/) { get; set; } | This attribute switch on the mode when text glyphs will not be grouped into words and strings This mode allows to keep maximum precision during positioning of glyphs on the page and it can be used for conversion documents with music notes or glyphs that should be placed separately each other. This parameter will be applied to document only when the value of FixedLayout attribute is true. |
-| [RenderTextAsImage](../../aspose.pdf/htmlsaveoptions/rendertextasimage/) { get; set; } | If attribute RenderTextAsImage set to true, the text from the source becomes an image in HTML. May be useful to make text unselectable or HTML text is not rendered properly. |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format of data save. |
-| [SaveFullFont](../../aspose.pdf/htmlsaveoptions/savefullfont/) { get; set; } | Indicates that full font will be saved, supports only True Type Fonts. By default SaveFullFont = false and the converter saves the subset of the initial font needed to display the text of the document. |
-| [SimpleTextboxModeGrouping](../../aspose.pdf/htmlsaveoptions/simpletextboxmodegrouping/) { get; set; } | This attribute specifies a sequential grouping of glyphs and words into strings For example tags and words has different order in converted HTML and you want them to match. This parameter will be applied to document only when the value of FixedLayout attribute is true. |
-| [SplitCssIntoPages](../../aspose.pdf/htmlsaveoptions/splitcssintopages/) { get; set; } | When multipage-mode selected(i.e 'SplitIntoPages' is 'true'), then this attribute defines whether should be created separate CSS-file for each result HTML page. By default this attribute is false, so, will be created one big common CSS for all created pages. Summary size of all CSSes generated in this mode(one CSS per page) usually much more than size of one big CSS file, because in former case CSS classes are duplicates in such case in several CSS files for each page. So, this setting is worse to be used only when You are interested in future processing of each HTML page independently, and therefore size of CSS of each one page taken apart is the most critical issue. |
-| [SplitIntoPages](../../aspose.pdf/htmlsaveoptions/splitintopages/) { get; set; } | Gets or sets the flag that indicates whether each page of source document will be converted into it's own target HTML document, i.e whether result HTML will be splitted into several HTML-pages. |
-| [Title](../../aspose.pdf/htmlsaveoptions/title/) { get; set; } | Gets or sets HTML page title. |
-| [TryMergeFragments](../../aspose.pdf/htmlsaveoptions/trymergefragments/) { get; set; } | The flag for combining image fragments into one picture. |
-| [UseZOrder](../../aspose.pdf/htmlsaveoptions/usezorder/) { get; set; } | If attribute UseZORder set to true, graphics and text are added to resultant HTML document accordingly Z-order in original PDF document. If this attribute is false all graphics is put as single layer which may cause some unnecessary effects for overlapped objects. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
+| [BatchSize](../../aspose.pdf/htmlsaveoptions/batchsize/) { get; set; } | Defines batch size if batched conversion is applicable to source and destination formats pair. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Gets or sets boolean value which indicates if will font glyphs be cached while preparing aps pages. Improves performance of conversion pdf to other formats but increases memory consumption. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Gets or sets boolean value which indicates will Response object be closed after document saved into response. |
+| [CompressSvgGraphicsIfAny](../../aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/) { get; set; } | Gets or sets the flag that indicates whether found SVG graphics(if any) will be compressed(zipped) into SVGZ format during saving |
+| [ConvertMarkedContentToLayers](../../aspose.pdf/htmlsaveoptions/convertmarkedcontenttolayers/) { get; set; } | If attribute ConvertMarkedContentToLayers set to true then an all elements inside a PDF marked content (layer) will be put into an HTML div with "data-pdflayer" attribute specifying a layer name. This layer name will be extracted from optional properties of PDF marked content. If this attribute is false (by default) then no any layers will be created from PDF marked content. |
+| [DefaultFontName](../../aspose.pdf/htmlsaveoptions/defaultfontname/) { get; set; } | Specifies the name of an installed font which is used to substitute any document font that is not embedded and not installed in the system. If null then default substitution font is used. |
+| [DocumentType](../../aspose.pdf/htmlsaveoptions/documenttype/) { get; set; } | Gets or sets the [`HtmlDocumentType`](../htmldocumenttype/). |
+| [ExplicitListOfSavedPages](../../aspose.pdf/htmlsaveoptions/explicitlistofsavedpages/) { get; set; } | With this property You can explicitely define what pages of document should be converted. Pages in this list must have 1-based numbers. I.e. valid numbers of pages must be taken from range (1...[NumberOfPagesInConvertedDocument]) Order of appearing of pages in this list does not affect their order in result HTML page(s) - in result pages allways will go in order in which they are present in source PDF. If this list is null (as it is by default), all pages will be converted. If any page number of this list will go out of range of present pages(1-[amountOfPagesInDocument]) exception will be thrown. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | This atrribute turned on functionality for extracting image or text for PDF documents with OCR sublayer. |
+| [FixedLayout](../../aspose.pdf/htmlsaveoptions/fixedlayout/) { get; set; } | Gets or sets a value indicating whether that HTML is created as fixed layout. |
+| [FlowLayoutParagraphFullWidth](../../aspose.pdf/htmlsaveoptions/flowlayoutparagraphfullwidth/) { get; set; } | This attribute specifies full width paragraph text for Flow mode, FixedLayout = false |
+| [FontSources](../../aspose.pdf/htmlsaveoptions/fontsources/) { get; } | Font sources of pre-saved fonts. |
+| [IgnoreResourceFontErrors](../../aspose.pdf/htmlsaveoptions/ignoreresourcefonterrors/) { get; set; } | Gets or sets indication that errors related to absence of font will be ignored. true - means that errors of absence of font will be ignored. Text segments that refer to incorrect resources will be skipped during processing. false by default |
+| [IgnoredTextFontSize](../../aspose.pdf/htmlsaveoptions/ignoredtextfontsize/) { get; set; } | Text with the specified size or less will be ignored during conversion. We do not remove this text, we ignore it and do not transfer it to the output file |
+| [ImageResolution](../../aspose.pdf/htmlsaveoptions/imageresolution/) { get; set; } | Gets or sets resolution for image rendering. |
+| [MinimalLineWidth](../../aspose.pdf/htmlsaveoptions/minimallinewidth/) { get; set; } | This attribute sets minimal width of graphic path line. If thickness of line is less than 1px Adobe Acrobat rounds it to this value. So this attribute can be used to emulate this behavior for HTML browsers. |
+| [PreventGlyphsGrouping](../../aspose.pdf/htmlsaveoptions/preventglyphsgrouping/) { get; set; } | This attribute switch on the mode when text glyphs will not be grouped into words and strings This mode allows to keep maximum precision during positioning of glyphs on the page and it can be used for conversion documents with music notes or glyphs that should be placed separately each other. This parameter will be applied to document only when the value of FixedLayout attribute is true. |
+| [RenderTextAsImage](../../aspose.pdf/htmlsaveoptions/rendertextasimage/) { get; set; } | If attribute RenderTextAsImage set to true, the text from the source becomes an image in HTML. May be useful to make text unselectable or HTML text is not rendered properly. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format of data save. |
+| [SaveFullFont](../../aspose.pdf/htmlsaveoptions/savefullfont/) { get; set; } | Indicates that full font will be saved, supports only True Type Fonts. By default SaveFullFont = false and the converter saves the subset of the initial font needed to display the text of the document. |
+| [SimpleTextboxModeGrouping](../../aspose.pdf/htmlsaveoptions/simpletextboxmodegrouping/) { get; set; } | This attribute specifies a sequential grouping of glyphs and words into strings For example tags and words has different order in converted HTML and you want them to match. This parameter will be applied to document only when the value of FixedLayout attribute is true. |
+| [SplitCssIntoPages](../../aspose.pdf/htmlsaveoptions/splitcssintopages/) { get; set; } | When multipage-mode selected(i.e 'SplitIntoPages' is 'true'), then this attribute defines whether should be created separate CSS-file for each result HTML page. By default this attribute is false, so, will be created one big common CSS for all created pages. Summary size of all CSSes generated in this mode(one CSS per page) usually much more than size of one big CSS file, because in former case CSS classes are duplicates in such case in several CSS files for each page. So, this setting is worse to be used only when You are interested in future processing of each HTML page independently, and therefore size of CSS of each one page taken apart is the most critical issue. |
+| [SplitIntoPages](../../aspose.pdf/htmlsaveoptions/splitintopages/) { get; set; } | Gets or sets the flag that indicates whether each page of source document will be converted into it's own target HTML document, i.e whether result HTML will be splitted into several HTML-pages. |
+| [Title](../../aspose.pdf/htmlsaveoptions/title/) { get; set; } | Gets or sets HTML page title. |
+| [TryMergeFragments](../../aspose.pdf/htmlsaveoptions/trymergefragments/) { get; set; } | The flag for combining image fragments into one picture. |
+| [UseZOrder](../../aspose.pdf/htmlsaveoptions/usezorder/) { get; set; } | If attribute UseZORder set to true, graphics and text are added to resultant HTML document accordingly Z-order in original PDF document. If this attribute is false all graphics is put as single layer which may cause some unnecessary effects for overlapped objects. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease. |
 
 ## Fields
 
@@ -85,12 +89,33 @@ public class HtmlSaveOptions : UnifiedSaveOptions, IPageSetOptions, IPipelineOpt
 | [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Sometimes PDFs contain background images (of pages or table cells) constructed from several same tiling background images put one near other. In such case renderers of target formats (f.e MsWord for DOCS format) sometimes generates visible boundaries beetween parts of background images, cause their techniques of image edge smoothing (anti-aliasing) is different from Acrobat Reader. If it looks like exported document contains such visible boundaries between parts of same background images, please try use this setting to get rid of that unwanted effect. ATTENTION! This optimization of quality usually essentially slows down conversion, so, please, use this option only when it's really necessary. |
 | [TrySaveTextUnderliningAndStrikeoutingInCss](../../aspose.pdf/htmlsaveoptions/trysavetextunderliningandstrikeoutingincss/) | PDF itself does not contain underlining markers for texts. It emulated with line situated under text. This option allows converter try guess that this or that line is a text's underlining and put this info into CSS instead of drawing of underlining graphically |
 
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| enum [AntialiasingProcessingType](../../aspose.pdf/htmlsaveoptions.antialiasingprocessingtype) | This enum describes possible antialiasing measures during conversion |
+| class [CssSavingInfo](../../aspose.pdf/htmlsaveoptions.csssavinginfo) | This class represents set of data that related to custom saving of CSS during conversion of PDF to HTML format |
+| delegate [CssSavingStrategy](../../aspose.pdf/htmlsaveoptions.csssavingstrategy) | You can assign to this property custom strategy that implements processing or/and saving of one CSS's part that was created during conversion of PDF to HTML . In such case processing (like saving to stream or disk) must be done in that custom code |
+| delegate [CssUrlMakingStrategy](../../aspose.pdf/htmlsaveoptions.cssurlmakingstrategy) | You can assign to this property delegate created from custom method that implements creation of URL of CSS referenced in generated HTML document. F.e. if You want to make CSS referenced in HTML f.e. as "otherPage.ASPX?CssID=zjjkklj" Then such custom strategy must return "otherPage.ASPX?CssID=zjjkklj" |
+| class [CssUrlRequestInfo](../../aspose.pdf/htmlsaveoptions.cssurlrequestinfo) | Represents set of data that related to request from converter to custom code aimed to get desirable URL (or URL template)of subject CSS |
+| enum [FontEncodingRules](../../aspose.pdf/htmlsaveoptions.fontencodingrules) | This enumeration defines rules which tune encoding logic |
+| enum [FontSavingModes](../../aspose.pdf/htmlsaveoptions.fontsavingmodes) | Enumerates modes that can be used for saving of fonts referenced in saved PDF. |
+| class [HtmlImageSavingInfo](../../aspose.pdf/htmlsaveoptions.htmlimagesavinginfo) | This class represents set of data that related to external resource image file's saving during PDF to HTML conversion. |
+| enum [HtmlImageType](../../aspose.pdf/htmlsaveoptions.htmlimagetype) | enumerates possible types of image files that can be saved as external resources during Pdf to Html conversion |
+| enum [HtmlMarkupGenerationModes](../../aspose.pdf/htmlsaveoptions.htmlmarkupgenerationmodes) | Sometimes specific reqirments to created HTML are present. This enum defines HTML preparing modes that can be used during conversion of PDF to HTML to match such specific requirments. |
+| class [HtmlPageMarkupSavingInfo](../../aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo) | If SplitToPages property of HtmlSaveOptions, then several HTML-files (one HTML file per converted page) are created during conversion of PDF to HTML. This class represents set of data that related to custom saving of one HTML-page's markup during conversion of PDF to HTML |
+| delegate [HtmlPageMarkupSavingStrategy](../../aspose.pdf/htmlsaveoptions.htmlpagemarkupsavingstrategy) | Result of conversion can contain one or several HTML-pages ( that also can reference external files like images or fonts) You can assign to this property delegate created from custom method that implements processing of got HTML-page(HTML itself) that was created during conversion. In such case processing (like saving in stream or disk) can be done in that custom code . In such case All the necessary actions for saving of HTML page's markup must be undertaken in code of supplied method, because saving of result in code of converter will be not in use. If processing for this or that case for some reason must be done by converter's code itself, not in custom code, please set in custom code flag 'CustomProcessingCancelled' of 'htmlSavingInfo' parameter's variable : it signals to converter that all the necessary steps for processing of that resource must be done in converter itself in same way as if there was no any external custom saving code . |
+| enum [ImageParentTypes](../../aspose.pdf/htmlsaveoptions.imageparenttypes) | Enumerates possible types of image's parents Image can pertain to HTML page or to SVG parent image |
+| enum [LettersPositioningMethods](../../aspose.pdf/htmlsaveoptions.letterspositioningmethods) | It enumerates possible modes of positioning of letters in words in result HTML |
+| enum [PartsEmbeddingModes](../../aspose.pdf/htmlsaveoptions.partsembeddingmodes) | This enum enumerates possible modes of embedding of files referenced in HTML It allows to control whether referenced files (HTML, Fonts,Images, CSSes) will be embedded into main HTML file or will be generated as apart binary entities |
+| enum [RasterImagesSavingModes](../../aspose.pdf/htmlsaveoptions.rasterimagessavingmodes) | Converted PDF can contain raster images(.png, *.jpeg etc.) This enum defines methods of how raster images can be handled during conversion of PDF to HTML |
+| delegate [ResourceSavingStrategy](../../aspose.pdf/htmlsaveoptions.resourcesavingstrategy) | To this property You can assign delegate created from custom method that implements processing of external resource(Font or Image) that was extracted from PDF and must be saved as external resource during conversion of PDF to HTML. In such case processing (like saving in stream or disk) can be done in that custom code and that custom code must return path(or any another string without quotemarks) that will be afterwards incorporated into generated HTML instead of original supposed path to that image resource. In such case All the necessary actions for saving of image must be undertaken in code of supplied method, because saving of result in code of converter will be not in use . If processing for this or that file for some reason must be done by converter's code itself, not in custom code, please set in custom code flag 'CustomProcessingCancelled' of 'resourceSavingInfo' parameter's variable It signals to converter that all the necessary steps for processing of that resource must be done in converter itself as if there was no any external custom code . |
+
 ### See Also
 
-* class [UnifiedSaveOptions](../unifiedsaveoptions/)
-* interface [IPageSetOptions](../ipagesetoptions/)
-* interface [IPipelineOptions](../ipipelineoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [UnifiedSaveOptions](../unifiedsaveoptions/)
+* interface [IPageSetOptions](../ipagesetoptions/)
+* interface [IPipelineOptions](../ipipelineoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

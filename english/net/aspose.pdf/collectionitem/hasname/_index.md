@@ -1,10 +1,13 @@
 ---
-title: CollectionItem.HasName
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionItem method. Checks if the given name exists in the collection item
+title: "CollectionItem.HasName"
+linktitle: "HasName"
+articleTitle: "HasName"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CollectionItem method. Checks if the given name exists in the collection item."
 type: docs
-weight: 30
-url: /net/aspose.pdf/collectionitem/hasname/
+weight: 10
+url: "/net/aspose.pdf/collectionitem/hasname/"
+product_version: "26.9"
 ---
 ## CollectionItem.HasName method
 
@@ -24,8 +27,7 @@ True if the name exists in the collection item, otherwise false.
 
 ### See Also
 
-* class [CollectionItem](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CollectionItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

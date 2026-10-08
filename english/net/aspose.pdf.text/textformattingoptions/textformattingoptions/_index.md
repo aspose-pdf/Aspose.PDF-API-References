@@ -1,12 +1,15 @@
 ---
-title: TextFormattingOptions.TextFormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextFormattingOptions constructor. Initializes new instance of the TextFormattingOptions object for the specified word wrap mode
+title: "TextFormattingOptions.TextFormattingOptions"
+linktitle: "TextFormattingOptions"
+articleTitle: "TextFormattingOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFormattingOptions constructor. Initializes new instance of the TextFormattingOptions object for the specified word wrap mode."
 type: docs
 weight: 10
-url: /net/aspose.pdf.text/textformattingoptions/textformattingoptions/
+url: "/net/aspose.pdf.text/textformattingoptions/textformattingoptions/"
+product_version: "26.9"
 ---
-## TextFormattingOptions(WordWrapMode) {#constructor_1}
+## TextFormattingOptions(WordWrapMode) {#constructor}
 
 Initializes new instance of the [`TextFormattingOptions`](../) object for the specified word wrap mode.
 
@@ -20,14 +23,14 @@ public TextFormattingOptions(WordWrapMode wrapMode)
 
 ### See Also
 
-* enum [WordWrapMode](../../textformattingoptions.wordwrapmode/)
-* class [TextFormattingOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* enum [WordWrapMode](../../textformattingoptions.wordwrapmode/)
+* class [TextFormattingOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextFormattingOptions() {#constructor}
+## TextFormattingOptions() {#constructor_1}
 
 Initializes new instance of the [`TextFormattingOptions`](../) object with undefined word wrap mode.
 
@@ -37,8 +40,7 @@ public TextFormattingOptions()
 
 ### See Also
 
-* class [TextFormattingOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFormattingOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

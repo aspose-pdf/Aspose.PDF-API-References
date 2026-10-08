@@ -1,10 +1,13 @@
 ---
-title: Ellipse.Ellipse
-second_title: Aspose.PDF for .NET API Reference
-description: Ellipse constructor. Initializes a new instance of the Ellipse class
+title: "Ellipse.Ellipse"
+linktitle: "Ellipse"
+articleTitle: "Ellipse"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Ellipse constructor. Initializes a new instance of the Ellipse class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.drawing/ellipse/ellipse/
+url: "/net/aspose.pdf.drawing/ellipse/ellipse/"
+product_version: "26.9"
 ---
 ## Ellipse constructor
 
@@ -23,8 +26,7 @@ public Ellipse(double left, double bottom, double width, double height)
 
 ### See Also
 
-* class [Ellipse](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Ellipse](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 

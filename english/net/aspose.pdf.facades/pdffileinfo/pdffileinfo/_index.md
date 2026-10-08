@@ -1,10 +1,13 @@
 ---
-title: PdfFileInfo.PdfFileInfo
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo constructor. Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class with default values
+title: "PdfFileInfo.PdfFileInfo"
+linktitle: "PdfFileInfo"
+articleTitle: "PdfFileInfo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo constructor. Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class with default values."
 type: docs
 weight: 10
-url: /net/aspose.pdf.facades/pdffileinfo/pdffileinfo/
+url: "/net/aspose.pdf.facades/pdffileinfo/pdffileinfo/"
+product_version: "26.9"
 ---
 ## PdfFileInfo() {#constructor}
 
@@ -16,13 +19,13 @@ public PdfFileInfo()
 
 ### See Also
 
-* class [PdfFileInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFileInfo(Stream) {#constructor_2}
+## PdfFileInfo(Stream) {#constructor_1}
 
 Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class.
 
@@ -36,13 +39,13 @@ public PdfFileInfo(Stream inputStream)
 
 ### See Also
 
-* class [PdfFileInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFileInfo(Stream, string) {#constructor_3}
+## PdfFileInfo(Stream, string) {#constructor_2}
 
 Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class.
 
@@ -57,13 +60,13 @@ public PdfFileInfo(Stream inputStream, string password)
 
 ### See Also
 
-* class [PdfFileInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFileInfo(Stream, string, ICustomSecurityHandler) {#constructor_4}
+## PdfFileInfo(Stream, string, ICustomSecurityHandler) {#constructor_3}
 
 Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class.
 
@@ -80,14 +83,14 @@ public PdfFileInfo(Stream inputStream, string password,
 
 ### See Also
 
-* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
-* class [PdfFileInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFileInfo(string) {#constructor_5}
+## PdfFileInfo(string) {#constructor_4}
 
 Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class.
 
@@ -101,13 +104,13 @@ public PdfFileInfo(string inputFile)
 
 ### See Also
 
-* class [PdfFileInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFileInfo(string, string) {#constructor_6}
+## PdfFileInfo(string, string) {#constructor_5}
 
 Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class.
 
@@ -122,13 +125,13 @@ public PdfFileInfo(string inputFile, string password)
 
 ### See Also
 
-* class [PdfFileInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFileInfo(string, string, ICustomSecurityHandler) {#constructor_7}
+## PdfFileInfo(string, string, ICustomSecurityHandler) {#constructor_6}
 
 Initializes a new instance of the Aspose.Pdf.Facades.PdfFileInfo class.
 
@@ -144,14 +147,14 @@ public PdfFileInfo(string inputFile, string password, ICustomSecurityHandler cus
 
 ### See Also
 
-* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
-* class [PdfFileInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFileInfo(Document) {#constructor_1}
+## PdfFileInfo(Document) {#constructor_7}
 
 Initializes new [`PdfFileInfo`](../) object on base of the *document*.
 
@@ -165,9 +168,8 @@ public PdfFileInfo(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [PdfFileInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

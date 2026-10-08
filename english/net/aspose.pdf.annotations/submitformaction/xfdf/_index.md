@@ -1,10 +1,13 @@
 ---
-title: SubmitFormAction.Xfdf
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction field. If set field names and values shall be submitted as XFDF
+title: "SubmitFormAction.Xfdf"
+linktitle: "Xfdf"
+articleTitle: "Xfdf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SubmitFormAction field. If set, field names and values shall be submitted as XFDF."
 type: docs
-weight: 160
-url: /net/aspose.pdf.annotations/submitformaction/xfdf/
+weight: 90
+url: "/net/aspose.pdf.annotations/submitformaction/xfdf/"
+product_version: "26.9"
 ---
 ## SubmitFormAction.Xfdf field
 
@@ -16,8 +19,7 @@ public const int Xfdf;
 
 ### See Also
 
-* class [SubmitFormAction](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

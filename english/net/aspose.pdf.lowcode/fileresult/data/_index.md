@@ -1,10 +1,13 @@
 ---
-title: FileResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: FileResult property. Gets raw data
+title: "FileResult.Data"
+linktitle: "Data"
+articleTitle: "Data"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileResult property. Gets raw data."
 type: docs
-weight: 10
-url: /net/aspose.pdf.lowcode/fileresult/data/
+weight: 60
+url: "/net/aspose.pdf.lowcode/fileresult/data/"
+product_version: "26.9"
 ---
 ## FileResult.Data property
 
@@ -20,8 +23,7 @@ An `object` representing output data.
 
 ### See Also
 
-* class [FileResult](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileResult](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

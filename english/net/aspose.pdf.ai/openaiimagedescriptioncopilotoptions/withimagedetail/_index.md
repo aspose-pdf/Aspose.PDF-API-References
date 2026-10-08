@@ -1,10 +1,13 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithImageDetail
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions method. Sets the image detail level
+title: "OpenAIImageDescriptionCopilotOptions.WithImageDetail"
+linktitle: "WithImageDetail"
+articleTitle: "WithImageDetail"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIImageDescriptionCopilotOptions method. Sets the image detail level."
 type: docs
-weight: 110
-url: /net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withimagedetail/
+weight: 170
+url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withimagedetail/"
+product_version: "26.9"
 ---
 ## OpenAIImageDescriptionCopilotOptions.WithImageDetail method
 
@@ -24,8 +27,7 @@ The current instance of [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIImageDescriptionCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

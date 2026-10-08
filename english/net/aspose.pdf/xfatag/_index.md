@@ -1,10 +1,13 @@
 ---
-title: Enum XfaTag
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XfaTag enum. The xfa stream tag
+title: "XfaTag Enum"
+linktitle: "XfaTag"
+articleTitle: "XfaTag"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XfaTag enum. The xfa stream tag"
 type: docs
-weight: 11790
-url: /net/aspose.pdf/xfatag/
+weight: 3190
+url: "/net/aspose.pdf/xfatag/"
+product_version: "26.9"
 ---
 ## XfaTag enumeration
 
@@ -26,7 +29,6 @@ public enum XfaTag
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

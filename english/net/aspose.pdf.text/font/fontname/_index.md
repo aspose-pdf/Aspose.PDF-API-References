@@ -1,10 +1,13 @@
 ---
-title: Font.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: Font property. Gets font name of the Font object
+title: "Font.FontName"
+linktitle: "FontName"
+articleTitle: "FontName"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Font property. Gets font name of the Font object."
 type: docs
-weight: 30
-url: /net/aspose.pdf.text/font/fontname/
+weight: 40
+url: "/net/aspose.pdf.text/font/fontname/"
+product_version: "26.9"
 ---
 ## Font.FontName property
 
@@ -29,15 +32,14 @@ TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 doc.Pages[1].Accept(absorber);
 
 // View font name of first text occurrence
-Console.Out.WriteLine(absorber.TextFragments[1].TextState.Font.FontName); 
+Console.Out.WriteLine(absorber.TextFragments[1].TextState.Font.FontName);
 ```
 
 ### See Also
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber/)
-* class [Document](../../../aspose.pdf/document/)
-* class [Font](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* [TextFragmentAbsorber](../textfragmentabsorber/)
+* [Document](../document/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: XFormCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection method. Delete XForm from collection
+title: "XFormCollection.Delete"
+linktitle: "Delete"
+articleTitle: "Delete"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFormCollection method. Delete XForm from collection"
 type: docs
-weight: 100
-url: /net/aspose.pdf/xformcollection/delete/
+weight: 20
+url: "/net/aspose.pdf/xformcollection/delete/"
+product_version: "26.9"
 ---
-## Delete(int) {#delete_1}
+## Delete(int) {#delete}
 
 Delete XForm from collection
 
@@ -20,13 +23,13 @@ public void Delete(int index)
 
 ### See Also
 
-* class [XFormCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Delete() {#delete}
+## Delete() {#delete_1}
 
 Deletes all XForms from the collection.
 
@@ -36,9 +39,9 @@ public void Delete()
 
 ### See Also
 
-* class [XFormCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -56,8 +59,7 @@ public void Delete(string name)
 
 ### See Also
 
-* class [XFormCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

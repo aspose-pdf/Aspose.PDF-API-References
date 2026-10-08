@@ -1,10 +1,13 @@
 ---
-title: CreateEmbeddingResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: CreateEmbeddingResponse property. Gets or sets the model used for the embedding
+title: "CreateEmbeddingResponse.Model"
+linktitle: "Model"
+articleTitle: "Model"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateEmbeddingResponse property. Gets or sets the model used for the embedding."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/createembeddingresponse/model/
+weight: 40
+url: "/net/aspose.pdf.ai/createembeddingresponse/model/"
+product_version: "26.9"
 ---
 ## CreateEmbeddingResponse.Model property
 
@@ -16,8 +19,7 @@ public string Model { get; set; }
 
 ### See Also
 
-* class [CreateEmbeddingResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CreateEmbeddingResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

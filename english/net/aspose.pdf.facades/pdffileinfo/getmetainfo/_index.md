@@ -1,10 +1,13 @@
 ---
-title: PdfFileInfo.GetMetaInfo
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo method. Gets customized information of PDF document with property name. If there is no property match the name it will return a blank string
+title: "PdfFileInfo.GetMetaInfo"
+linktitle: "GetMetaInfo"
+articleTitle: "GetMetaInfo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Gets customized information of PDF document with property name. If there is no property match the name it will return a blank string."
 type: docs
-weight: 230
-url: /net/aspose.pdf.facades/pdffileinfo/getmetainfo/
+weight: 120
+url: "/net/aspose.pdf.facades/pdffileinfo/getmetainfo/"
+product_version: "26.9"
 ---
 ## PdfFileInfo.GetMetaInfo method
 
@@ -24,8 +27,7 @@ Custom meta property value.
 
 ### See Also
 
-* class [PdfFileInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

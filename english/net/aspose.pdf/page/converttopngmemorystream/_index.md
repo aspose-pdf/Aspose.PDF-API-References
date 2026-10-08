@@ -1,10 +1,13 @@
 ---
-title: Page.ConvertToPNGMemoryStream
-second_title: Aspose.PDF for .NET API Reference
-description: Page method. Convert page to PNG for DSR OMR OCR image stream
+title: "Page.ConvertToPNGMemoryStream"
+linktitle: "ConvertToPNGMemoryStream"
+articleTitle: "ConvertToPNGMemoryStream"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page method. Convert page to PNG for DSR, OMR, OCR image stream."
 type: docs
-weight: 400
-url: /net/aspose.pdf/page/converttopngmemorystream/
+weight: 30
+url: "/net/aspose.pdf/page/converttopngmemorystream/"
+product_version: "26.9"
 ---
 ## Page.ConvertToPNGMemoryStream method
 
@@ -20,8 +23,7 @@ Image stream.
 
 ### See Also
 
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

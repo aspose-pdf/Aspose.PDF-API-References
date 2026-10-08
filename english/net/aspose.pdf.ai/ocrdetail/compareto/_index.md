@@ -1,10 +1,13 @@
 ---
-title: OcrDetail.CompareTo
-second_title: Aspose.PDF for .NET API Reference
-description: OcrDetail method. Compares the current OcrDetail instance with another OcrDetail object based on their PageNumber property
+title: "OcrDetail.CompareTo"
+linktitle: "CompareTo"
+articleTitle: "CompareTo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcrDetail method. Compares the current OcrDetail instance with another OcrDetail object based on their PageNumber property."
 type: docs
-weight: 70
-url: /net/aspose.pdf.ai/ocrdetail/compareto/
+weight: 20
+url: "/net/aspose.pdf.ai/ocrdetail/compareto/"
+product_version: "26.9"
 ---
 ## OcrDetail.CompareTo method
 
@@ -16,8 +19,7 @@ public int CompareTo(OcrDetail other)
 
 ### See Also
 
-* class [OcrDetail](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OcrDetail](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

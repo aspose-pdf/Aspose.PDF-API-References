@@ -1,14 +1,19 @@
 ---
-title: Class Opi
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Opi class. Represents The Open Prepress Interface OPI is a mechanism for creating lowresolution placeholders or proxies for such highresolution images
+title: "Opi Class"
+linktitle: "Opi"
+articleTitle: "Opi"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Opi class. Represents The Open Prepress Interface (OPI) is a mechanism for creating low-resolution placeholders, or proxies, for such high-resolut..."
 type: docs
-weight: 9200
-url: /net/aspose.pdf/opi/
+weight: 2000
+url: "/net/aspose.pdf/opi/"
+keywords: "Opi, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## Opi class
 
-Represents The Open Prepress Interface (OPI) is a mechanism for creating low-resolution placeholders, or proxies, for such high-resolution images.
+Represents The Open Prepress Interface (OPI) is a mechanism for creating low-resolution placeholders, or proxies,
+ for such high-resolution images.
 
 ```csharp
 public sealed class Opi
@@ -24,13 +29,12 @@ public sealed class Opi
 
 | Name | Description |
 | --- | --- |
-| [FileSpecification](../../aspose.pdf/opi/filespecification/) { get; } | Gets the external file containing the low- resolution proxy image. |
-| [Position](../../aspose.pdf/opi/position/) { get; } | Gets an array of eight numbers of the form specifying the location on the page of the cropped image. |
-| [Version](../../aspose.pdf/opi/version/) { get; } | Gets the version of OPI to which this dictionary refers. |
+| [FileSpecification](../../aspose.pdf/opi/filespecification/) { get; } | Gets the external file containing the low- resolution proxy image. |
+| [Position](../../aspose.pdf/opi/position/) { get; } | Gets an array of eight numbers of the form specifying the location on the page of the cropped image. |
+| [Version](../../aspose.pdf/opi/version/) { get; } | Gets the version of OPI to which this dictionary refers. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PageSize.Height
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize property. Gets or sets page height
+title: "PageSize.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageSize property. Gets or sets page height."
 type: docs
-weight: 140
-url: /net/aspose.pdf/pagesize/height/
+weight: 30
+url: "/net/aspose.pdf/pagesize/height/"
+product_version: "26.9"
 ---
 ## PageSize.Height property
 
@@ -16,8 +19,7 @@ public float Height { get; set; }
 
 ### See Also
 
-* class [PageSize](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

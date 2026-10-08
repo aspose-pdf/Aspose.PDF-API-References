@@ -1,10 +1,13 @@
 ---
-title: WidgetAnnotation.WidgetAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation constructor. Create annotation used for Generator
+title: "WidgetAnnotation.WidgetAnnotation"
+linktitle: "WidgetAnnotation"
+articleTitle: "WidgetAnnotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WidgetAnnotation constructor. Create annotation (used for Generator)"
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/widgetannotation/widgetannotation/
+url: "/net/aspose.pdf.annotations/widgetannotation/widgetannotation/"
+product_version: "26.9"
 ---
 ## WidgetAnnotation constructor
 
@@ -20,9 +23,8 @@ public WidgetAnnotation(Document doc)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [WidgetAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

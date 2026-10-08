@@ -1,10 +1,13 @@
 ---
-title: BoundsCheckableList1.BoundsCheckableList
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList constructor. Initializes a new instance of the BoundsCheckableList class
+title: "BoundsCheckableList<T>.BoundsCheckableList<T>"
+linktitle: "BoundsCheckableList<T>"
+articleTitle: "BoundsCheckableList<T>"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BoundsCheckableList constructor. Initializes a new instance of the BoundsCheckableList class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/boundscheckablelist-1/boundscheckablelist/
+url: "/net/aspose.pdf/boundscheckablelist-1/boundscheckablelist/"
+product_version: "26.9"
 ---
 ## BoundsCheckableList() {#constructor}
 
@@ -16,13 +19,13 @@ public BoundsCheckableList()
 
 ### See Also
 
-* class [BoundsCheckableList&lt;T&gt;](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BoundsCheckableList(BoundsCheckMode, double, double) {#constructor_1}
+## BoundsCheckableList(BoundsCheckMode, double, double) {#constructor_1}
 
 Initializes a new instance of the BoundsCheckableList class.
 
@@ -39,9 +42,8 @@ public BoundsCheckableList(BoundsCheckMode boundsCheckMode, double containerWidt
 
 ### See Also
 
-* enum [BoundsCheckMode](../../boundscheckmode/)
-* class [BoundsCheckableList&lt;T&gt;](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [BoundsCheckMode](../../boundscheckmode/)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

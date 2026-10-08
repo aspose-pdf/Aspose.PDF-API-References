@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.Builder.WithOrganization
-second_title: Aspose.PDF for .NET API Reference
-description: Builder method. Sets the organization ID for the client
+title: "OpenAIClient.Builder.WithOrganization"
+linktitle: "WithOrganization"
+articleTitle: "WithOrganization"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Builder method. Sets the organization ID for the client."
 type: docs
 weight: 50
-url: /net/aspose.pdf.ai/openaiclient.builder/withorganization/
+url: "/net/aspose.pdf.ai/openaiclient.builder/withorganization/"
+product_version: "26.9"
 ---
 ## OpenAIClient.Builder.WithOrganization method
 
@@ -20,12 +23,11 @@ public Builder WithOrganization(string organizationId)
 
 ### Return Value
 
-The current instance of [`Builder`](../).
+The current instance of [`Builder`](../../openaiclient.builder/).
 
 ### See Also
 
-* class [Builder](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

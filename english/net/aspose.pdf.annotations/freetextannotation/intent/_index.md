@@ -1,10 +1,13 @@
 ---
-title: FreeTextAnnotation.Intent
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation property. Gets or sets the intent of the free text annotation
+title: "FreeTextAnnotation.Intent"
+linktitle: "Intent"
+articleTitle: "Intent"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FreeTextAnnotation property. Gets or sets the intent of the free text annotation."
 type: docs
-weight: 80
-url: /net/aspose.pdf.annotations/freetextannotation/intent/
+weight: 110
+url: "/net/aspose.pdf.annotations/freetextannotation/intent/"
+product_version: "26.9"
 ---
 ## FreeTextAnnotation.Intent property
 
@@ -16,9 +19,8 @@ public FreeTextIntent Intent { get; set; }
 
 ### See Also
 
-* enum [FreeTextIntent](../../freetextintent/)
-* class [FreeTextAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [FreeTextIntent](../../freetextintent/)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

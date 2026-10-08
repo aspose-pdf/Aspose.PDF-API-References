@@ -1,10 +1,13 @@
 ---
-title: Document.HideMenubar
-second_title: Aspose.PDF for .NET API Reference
-description: Document property. Gets or sets flag specifying whether menu bar should be hidden when document is active
+title: "Document.HideMenubar"
+linktitle: "HideMenubar"
+articleTitle: "HideMenubar"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets or sets flag specifying whether menu bar should be hidden when document is active."
 type: docs
-weight: 250
-url: /net/aspose.pdf/document/hidemenubar/
+weight: 1270
+url: "/net/aspose.pdf/document/hidemenubar/"
+product_version: "26.9"
 ---
 ## Document.HideMenubar property
 
@@ -25,8 +28,7 @@ bool value = document.HideMenubar;
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

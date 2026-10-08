@@ -1,12 +1,15 @@
 ---
-title: TextFragmentAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber method. Performs search on the specified page
+title: "TextFragmentAbsorber.Visit"
+linktitle: "Visit"
+articleTitle: "Visit"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber method. Performs search on the specified page."
 type: docs
-weight: 150
-url: /net/aspose.pdf.text/textfragmentabsorber/visit/
+weight: 110
+url: "/net/aspose.pdf.text/textfragmentabsorber/visit/"
+product_version: "26.9"
 ---
-## Visit(Page) {#visit_1}
+## Visit(Page) {#visit}
 
 Performs search on the specified page.
 
@@ -42,19 +45,19 @@ foreach (TextFragment textFragment in absorber.TextFragments)
 }
 
 // Save document
-doc.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");
 ```
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(Document) {#visit}
+## Visit(Document) {#visit_1}
 
 Performs search on the specified document.
 
@@ -87,15 +90,15 @@ absorber.Visit(doc);
 absorber.TextFragments[1].Text = "hi world";
 
 // Save document
-doc.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");
 ```
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -113,9 +116,8 @@ public void Visit(XForm xForm)
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XForm](../../../aspose.pdf/xform/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

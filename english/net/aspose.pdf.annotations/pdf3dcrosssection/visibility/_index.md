@@ -1,10 +1,13 @@
 ---
-title: PDF3DCrossSection.Visibility
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSection property. Gets or sets a value indicating visibility of the cutting planes intersection
+title: "PDF3DCrossSection.Visibility"
+linktitle: "Visibility"
+articleTitle: "Visibility"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCrossSection property. Gets or sets a value indicating visibility of the cutting planes intersection."
 type: docs
 weight: 70
-url: /net/aspose.pdf.annotations/pdf3dcrosssection/visibility/
+url: "/net/aspose.pdf.annotations/pdf3dcrosssection/visibility/"
+product_version: "26.9"
 ---
 ## PDF3DCrossSection.Visibility property
 
@@ -20,8 +23,7 @@ public bool Visibility { get; set; }
 
 ### See Also
 
-* class [PDF3DCrossSection](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DCrossSection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

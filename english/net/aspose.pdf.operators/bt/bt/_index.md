@@ -1,10 +1,13 @@
 ---
-title: BT.BT
-second_title: Aspose.PDF for .NET API Reference
-description: BT constructor. Initializes operator
+title: "BT.BT"
+linktitle: "BT"
+articleTitle: "BT"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BT constructor. Initializes operator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/bt/bt/
+url: "/net/aspose.pdf.operators/bt/bt/"
+product_version: "26.9"
 ---
 ## BT constructor
 
@@ -16,8 +19,7 @@ public BT()
 
 ### See Also
 
-* class [BT](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BT](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

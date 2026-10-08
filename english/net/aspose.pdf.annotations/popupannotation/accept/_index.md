@@ -1,10 +1,13 @@
 ---
-title: PopupAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: PopupAnnotation method. Accepts visitor object to process the annotation
+title: "PopupAnnotation.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PopupAnnotation method. Accepts visitor object to process the annotation."
 type: docs
-weight: 50
-url: /net/aspose.pdf.annotations/popupannotation/accept/
+weight: 30
+url: "/net/aspose.pdf.annotations/popupannotation/accept/"
+product_version: "26.9"
 ---
 ## PopupAnnotation.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../annotationselector/)
-* class [PopupAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotationSelector](../../annotationselector/)
+* class [PopupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

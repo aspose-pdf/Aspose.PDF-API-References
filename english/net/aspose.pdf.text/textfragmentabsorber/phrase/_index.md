@@ -1,10 +1,13 @@
 ---
-title: TextFragmentAbsorber.Phrase
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber property. Gets or sets phrase that the TextFragmentAbsorber searches on the PDF document or page
+title: "TextFragmentAbsorber.Phrase"
+linktitle: "Phrase"
+articleTitle: "Phrase"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber property. Gets or sets phrase that the TextFragmentAbsorber searches on the PDF document or page."
 type: docs
-weight: 50
-url: /net/aspose.pdf.text/textfragmentabsorber/phrase/
+weight: 230
+url: "/net/aspose.pdf.text/textfragmentabsorber/phrase/"
+product_version: "26.9"
 ---
 ## TextFragmentAbsorber.Phrase property
 
@@ -35,13 +38,12 @@ doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "John";
 
 // Save document
-doc.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");
 ```
 
 ### See Also
 
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

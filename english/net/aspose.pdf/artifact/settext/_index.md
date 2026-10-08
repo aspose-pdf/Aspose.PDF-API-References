@@ -1,10 +1,13 @@
 ---
-title: Artifact.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact method. Sets text of the artifact
+title: "Artifact.SetText"
+linktitle: "SetText"
+articleTitle: "SetText"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact method. Sets text of the artifact."
 type: docs
-weight: 320
-url: /net/aspose.pdf/artifact/settext/
+weight: 30
+url: "/net/aspose.pdf/artifact/settext/"
+product_version: "26.9"
 ---
 ## Artifact.SetText method
 
@@ -20,9 +23,8 @@ public void SetText(FormattedText formattedText)
 
 ### See Also
 
-* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* class [Artifact](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

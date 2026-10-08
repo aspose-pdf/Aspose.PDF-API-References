@@ -1,10 +1,14 @@
 ---
-title: Class FolderFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FolderFontSource class. Represents the folder that contains font files
+title: "FolderFontSource Class"
+linktitle: "FolderFontSource"
+articleTitle: "FolderFontSource"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.FolderFontSource class. Represents the folder that contains font files."
 type: docs
-weight: 10900
-url: /net/aspose.pdf.text/folderfontsource/
+weight: 110
+url: "/net/aspose.pdf.text/folderfontsource/"
+keywords: "FolderFontSource, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## FolderFontSource class
 
@@ -24,18 +28,17 @@ public sealed class FolderFontSource : FontSource
 
 | Name | Description |
 | --- | --- |
-| [FolderPath](../../aspose.pdf.text/folderfontsource/folderpath/) { get; set; } | Path to the folder that contains font files. |
+| [FolderPath](../../aspose.pdf.text/folderfontsource/folderpath/) { get; set; } | Path to the folder that contains font files. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/folderfontsource/equals/)(object) | Check if folder font source objects are equal. |
+| override [Equals](../../aspose.pdf.text/folderfontsource/equals/)(object) | Check if folder font source objects are equal. |
 
 ### See Also
 
-* class [FontSource](../fontsource/)
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* class [FontSource](../fontsource/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

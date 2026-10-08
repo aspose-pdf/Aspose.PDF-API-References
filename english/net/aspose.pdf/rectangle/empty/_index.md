@@ -1,10 +1,13 @@
 ---
-title: Rectangle.Empty
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle property. Empty rectangle
+title: "Rectangle.Empty"
+linktitle: "Empty"
+articleTitle: "Empty"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle property. Empty rectangle"
 type: docs
-weight: 20
-url: /net/aspose.pdf/rectangle/empty/
+weight: 270
+url: "/net/aspose.pdf/rectangle/empty/"
+product_version: "26.9"
 ---
 ## Rectangle.Empty property
 
@@ -16,8 +19,7 @@ public static Rectangle Empty { get; }
 
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

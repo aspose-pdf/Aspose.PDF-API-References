@@ -1,12 +1,15 @@
 ---
-title: PdfContentEditor.DeleteStampById
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Deletes stamp on the specified page by stamp ID
+title: "PdfContentEditor.DeleteStampById"
+linktitle: "DeleteStampById"
+articleTitle: "DeleteStampById"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Deletes stamp on the specified page by stamp ID."
 type: docs
-weight: 340
-url: /net/aspose.pdf.facades/pdfcontenteditor/deletestampbyid/
+weight: 560
+url: "/net/aspose.pdf.facades/pdfcontenteditor/deletestampbyid/"
+product_version: "26.9"
 ---
-## DeleteStampById(int, int) {#deletestampbyid_1}
+## DeleteStampById(int, int) {#deletestampbyid}
 
 Deletes stamp on the specified page by stamp ID.
 
@@ -30,13 +33,13 @@ contentEditor.Save("outfile.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## DeleteStampById(int) {#deletestampbyid}
+## DeleteStampById(int) {#deletestampbyid_1}
 
 Delete stamp by ID from all pages of the document.
 
@@ -59,8 +62,7 @@ contentEditor.Save("outfile.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

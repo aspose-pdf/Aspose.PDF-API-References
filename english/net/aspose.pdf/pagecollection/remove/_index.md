@@ -1,10 +1,13 @@
 ---
-title: PageCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection method. Removes the specified item throws NotSupportedException
+title: "PageCollection.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection method. Removes the specified item, throws NotSupportedException."
 type: docs
-weight: 190
-url: /net/aspose.pdf/pagecollection/remove/
+weight: 260
+url: "/net/aspose.pdf/pagecollection/remove/"
+product_version: "26.9"
 ---
 ## PageCollection.Remove method
 
@@ -24,9 +27,8 @@ NotSupportedException
 
 ### See Also
 
-* class [Page](../../page/)
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.CreateJavaScriptLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates a link to JavaScript in PDF document
+title: "PdfContentEditor.CreateJavaScriptLink"
+linktitle: "CreateJavaScriptLink"
+articleTitle: "CreateJavaScriptLink"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates a link to JavaScript in PDF document."
 type: docs
-weight: 170
-url: /net/aspose.pdf.facades/pdfcontenteditor/createjavascriptlink/
+weight: 180
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createjavascriptlink/"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreateJavaScriptLink method
 
@@ -33,8 +36,7 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

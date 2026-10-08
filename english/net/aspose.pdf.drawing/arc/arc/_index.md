@@ -1,10 +1,13 @@
 ---
-title: Arc.Arc
-second_title: Aspose.PDF for .NET API Reference
-description: Arc constructor. Initializes a new instance of the Arc class
+title: "Arc.Arc"
+linktitle: "Arc"
+articleTitle: "Arc"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Arc constructor. Initializes a new instance of the Arc class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.drawing/arc/arc/
+url: "/net/aspose.pdf.drawing/arc/arc/"
+product_version: "26.9"
 ---
 ## Arc constructor
 
@@ -24,8 +27,7 @@ public Arc(float posX, float posY, float radius, float alpha, float beta)
 
 ### See Also
 
-* class [Arc](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Arc](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 

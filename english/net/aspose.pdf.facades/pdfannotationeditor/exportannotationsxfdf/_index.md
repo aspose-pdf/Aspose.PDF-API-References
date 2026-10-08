@@ -1,12 +1,15 @@
 ---
-title: PdfAnnotationEditor.ExportAnnotationsXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor method. Exports the content of the specified annotation types into XFDF
+title: "PdfAnnotationEditor.ExportAnnotationsXfdf"
+linktitle: "ExportAnnotationsXfdf"
+articleTitle: "ExportAnnotationsXfdf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAnnotationEditor method. Exports the content of the specified annotation types into XFDF"
 type: docs
-weight: 50
-url: /net/aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf/
+weight: 190
+url: "/net/aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf/"
+product_version: "26.9"
 ---
-## ExportAnnotationsXfdf(Stream, int, int, string[]) {#exportannotationsxfdf_1}
+## ExportAnnotationsXfdf(Stream, int, int, string[]) {#exportannotationsxfdf}
 
 Exports the content of the specified annotation types into XFDF
 
@@ -35,13 +38,13 @@ using (Stream stream = File.Create("example.xfdf"))
 
 ### See Also
 
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ExportAnnotationsXfdf(Stream, int, int, AnnotationType[]) {#exportannotationsxfdf}
+## ExportAnnotationsXfdf(Stream, int, int, AnnotationType[]) {#exportannotationsxfdf_1}
 
 Exports the content of the specified annotations types into XFDF
 
@@ -71,9 +74,8 @@ using (Stream stream = File.Create("example.xfdf"))
 
 ### See Also
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

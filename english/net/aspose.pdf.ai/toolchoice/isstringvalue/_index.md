@@ -1,10 +1,13 @@
 ---
-title: ToolChoice.IsStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: ToolChoice property. Gets a value indicating whether the ToolChoice is a string value
+title: "ToolChoice.IsStringValue"
+linktitle: "IsStringValue"
+articleTitle: "IsStringValue"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ToolChoice property. Gets a value indicating whether the ToolChoice is a string value."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/toolchoice/isstringvalue/
+weight: 40
+url: "/net/aspose.pdf.ai/toolchoice/isstringvalue/"
+product_version: "26.9"
 ---
 ## ToolChoice.IsStringValue property
 
@@ -16,8 +19,7 @@ public bool IsStringValue { get; }
 
 ### See Also
 
-* class [ToolChoice](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ToolChoice](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

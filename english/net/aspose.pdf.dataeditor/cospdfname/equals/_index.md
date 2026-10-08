@@ -1,10 +1,13 @@
 ---
-title: CosPdfName.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfName method. Determines that the specified object is equal to the current object
+title: "CosPdfName.Equals"
+linktitle: "Equals"
+articleTitle: "Equals"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfName method. Determines that the specified object is equal to the current object."
 type: docs
-weight: 30
-url: /net/aspose.pdf.dataeditor/cospdfname/equals/
+weight: 50
+url: "/net/aspose.pdf.dataeditor/cospdfname/equals/"
+product_version: "26.9"
 ---
 ## CosPdfName.Equals method
 
@@ -24,8 +27,7 @@ true if specified object is equal to the current object; otherwise, false.
 
 ### See Also
 
-* class [CosPdfName](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CosPdfName](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

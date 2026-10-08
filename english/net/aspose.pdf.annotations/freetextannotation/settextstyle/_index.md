@@ -1,12 +1,15 @@
 ---
-title: FreeTextAnnotation.SetTextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: FreeTextAnnotation method. Sets the formatting determined by the parameter textStyle for all annotation text
+title: "FreeTextAnnotation.SetTextStyle"
+linktitle: "SetTextStyle"
+articleTitle: "SetTextStyle"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FreeTextAnnotation method. Sets the formatting determined by the parameter textStyle for all annotation text."
 type: docs
-weight: 150
-url: /net/aspose.pdf.annotations/freetextannotation/settextstyle/
+weight: 40
+url: "/net/aspose.pdf.annotations/freetextannotation/settextstyle/"
+product_version: "26.9"
 ---
-## SetTextStyle(RichTextFontStyles, string, double, Color) {#settextstyle}
+## SetTextStyle(RichTextFontStyles, string, double, Color) {#settextstyle}
 
 Sets the formatting determined by the parameter textStyle for all annotation text.
 
@@ -24,14 +27,14 @@ public void SetTextStyle(RichTextFontStyles textStyles, string fontName, double 
 
 ### See Also
 
-* enum [RichTextFontStyles](../../richtextfontstyles/)
-* class [FreeTextAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* enum [RichTextFontStyles](../../richtextfontstyles/)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SetTextStyle(int, int, RichTextFontStyles) {#settextstyle_1}
+## SetTextStyle(int, int, RichTextFontStyles) {#settextstyle_1}
 
 Sets the formatting determined by the parameter textStyle for a text fragment from fromInd index to toInd index.
 
@@ -47,9 +50,8 @@ public void SetTextStyle(int fromInd, int toInd, RichTextFontStyles textStyles)
 
 ### See Also
 
-* enum [RichTextFontStyles](../../richtextfontstyles/)
-* class [FreeTextAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [RichTextFontStyles](../../richtextfontstyles/)
+* class [FreeTextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

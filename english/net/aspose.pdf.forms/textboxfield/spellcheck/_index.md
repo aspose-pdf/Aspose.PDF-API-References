@@ -1,10 +1,13 @@
 ---
-title: TextBoxField.SpellCheck
-second_title: Aspose.PDF for .NET API Reference
-description: TextBoxField property. Gets or sets spellcheck flag for field. If true field shall be spell checked
+title: "TextBoxField.SpellCheck"
+linktitle: "SpellCheck"
+articleTitle: "SpellCheck"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextBoxField property. Gets or sets spellcheck flag for field. If true field shall be spell checked."
 type: docs
-weight: 60
-url: /net/aspose.pdf.forms/textboxfield/spellcheck/
+weight: 80
+url: "/net/aspose.pdf.forms/textboxfield/spellcheck/"
+product_version: "26.9"
 ---
 ## TextBoxField.SpellCheck property
 
@@ -16,8 +19,7 @@ public bool SpellCheck { get; set; }
 
 ### See Also
 
-* class [TextBoxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class PageActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageActionCollection class. This class describes page actions
+title: "PageActionCollection Class"
+linktitle: "PageActionCollection"
+articleTitle: "PageActionCollection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageActionCollection class. This class describes page actions"
 type: docs
-weight: 9330
-url: /net/aspose.pdf/pageactioncollection/
+weight: 2090
+url: "/net/aspose.pdf/pageactioncollection/"
+keywords: "PageActionCollection, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## PageActionCollection class
 
@@ -18,8 +22,8 @@ public class PageActionCollection : BaseActionCollection
 
 | Name | Description |
 | --- | --- |
-| [OnClose](../../aspose.pdf/pageactioncollection/onclose/) { get; set; } | An action that shall be performed when the page is closed. |
-| [OnOpen](../../aspose.pdf/pageactioncollection/onopen/) { get; set; } | An action that shall be performed when the page is opened. |
+| [OnClose](../../aspose.pdf/pageactioncollection/onclose/) { get; set; } | An action that shall be performed when the page is closed. |
+| [OnOpen](../../aspose.pdf/pageactioncollection/onopen/) { get; set; } | An action that shall be performed when the page is opened. |
 
 ## Methods
 
@@ -29,8 +33,7 @@ public class PageActionCollection : BaseActionCollection
 
 ### See Also
 
-* class [BaseActionCollection](../baseactioncollection/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [BaseActionCollection](../baseactioncollection/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

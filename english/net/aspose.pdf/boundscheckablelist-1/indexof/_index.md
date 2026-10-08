@@ -1,12 +1,15 @@
 ---
-title: BoundsCheckableList1.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList method. Searches for the specified object and returns the zerobased index of the first occurrence within the entire System.Collections.Generic.List
+title: "BoundsCheckableList<T>.IndexOf"
+linktitle: "IndexOf"
+articleTitle: "IndexOf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BoundsCheckableList method. Searches for the specified object and returns the zero-based index of the first occurrence within the entire System.Collections.G..."
 type: docs
-weight: 100
-url: /net/aspose.pdf/boundscheckablelist-1/indexof/
+weight: 90
+url: "/net/aspose.pdf/boundscheckablelist-1/indexof/"
+product_version: "26.9"
 ---
-## BoundsCheckableList&lt;T&gt;.IndexOf method
+## BoundsCheckableList<T>.IndexOf method
 
 Searches for the specified object and returns the zero-based index of the first occurrence within the entire System.Collections.Generic.List.
 
@@ -24,8 +27,7 @@ The zero-based index of the first occurrence of *item* within the entire System.
 
 ### See Also
 
-* class [BoundsCheckableList&lt;T&gt;](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

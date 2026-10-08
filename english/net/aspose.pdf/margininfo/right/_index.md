@@ -1,10 +1,13 @@
 ---
-title: MarginInfo.Right
-second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo property. Gets or sets a float value that indicates the right margin
+title: "MarginInfo.Right"
+linktitle: "Right"
+articleTitle: "Right"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarginInfo property. Gets or sets a float value that indicates the right margin."
 type: docs
-weight: 40
-url: /net/aspose.pdf/margininfo/right/
+weight: 50
+url: "/net/aspose.pdf/margininfo/right/"
+product_version: "26.9"
 ---
 ## MarginInfo.Right property
 
@@ -16,8 +19,7 @@ public double Right { get; set; }
 
 ### See Also
 
-* class [MarginInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum ConvertErrorAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ConvertErrorAction enum. This class represents action for conversion errors
+title: "ConvertErrorAction Enum"
+linktitle: "ConvertErrorAction"
+articleTitle: "ConvertErrorAction"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ConvertErrorAction enum. This class represents action for conversion errors."
 type: docs
-weight: 3500
-url: /net/aspose.pdf/converterroraction/
+weight: 450
+url: "/net/aspose.pdf/converterroraction/"
+product_version: "26.9"
 ---
 ## ConvertErrorAction enumeration
 
@@ -18,12 +21,11 @@ public enum ConvertErrorAction
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Delete | `0` |  |
-| None | `1` |  |
+| Delete | `0` | Delete convert errors |
+| None | `1` | Do nothing with convert errors |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: IOpenAIClient.GetRunStepAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Retrieves details of a specific step within a run asynchronously
+title: "IOpenAIClient.GetRunStepAsync"
+linktitle: "GetRunStepAsync"
+articleTitle: "GetRunStepAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Retrieves details of a specific step within a run asynchronously."
 type: docs
-weight: 250
-url: /net/aspose.pdf.ai/iopenaiclient/getrunstepasync/
+weight: 220
+url: "/net/aspose.pdf.ai/iopenaiclient/getrunstepasync/"
+product_version: "26.9"
 ---
 ## IOpenAIClient.GetRunStepAsync method
 
@@ -36,9 +39,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [RunStepResponse](../../runstepresponse/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RunStepResponse](../../runstepresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

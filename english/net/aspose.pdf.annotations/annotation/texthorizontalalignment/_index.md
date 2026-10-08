@@ -1,10 +1,13 @@
 ---
-title: Annotation.TextHorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Annotation property. Gets or sets text alignment for annotation
+title: "Annotation.TextHorizontalAlignment"
+linktitle: "TextHorizontalAlignment"
+articleTitle: "TextHorizontalAlignment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Annotation property. Gets or sets text alignment for annotation."
 type: docs
-weight: 170
-url: /net/aspose.pdf.annotations/annotation/texthorizontalalignment/
+weight: 210
+url: "/net/aspose.pdf.annotations/annotation/texthorizontalalignment/"
+product_version: "26.9"
 ---
 ## Annotation.TextHorizontalAlignment property
 
@@ -16,9 +19,8 @@ public HorizontalAlignment TextHorizontalAlignment { get; set; }
 
 ### See Also
 
-* enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
-* class [Annotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

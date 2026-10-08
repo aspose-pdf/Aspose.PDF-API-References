@@ -1,12 +1,15 @@
 ---
-title: PdfExtractor.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor method. Bind input PDF file
+title: "PdfExtractor.BindPdf"
+linktitle: "BindPdf"
+articleTitle: "BindPdf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Bind input PDF file."
 type: docs
-weight: 100
-url: /net/aspose.pdf.facades/pdfextractor/bindpdf/
+weight: 70
+url: "/net/aspose.pdf.facades/pdfextractor/bindpdf/"
+product_version: "26.9"
 ---
-## BindPdf(string) {#bindpdf_2}
+## BindPdf(string) {#bindpdf}
 
 Bind input PDF file.
 
@@ -27,9 +30,9 @@ ext.BindPdf("sample.pdf");
 
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -55,8 +58,7 @@ ext.BindPdf(stream);
 
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

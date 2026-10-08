@@ -1,12 +1,15 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotationsFromXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor method. Imports all annotations from XFDF file
+title: "PdfAnnotationEditor.ImportAnnotationsFromXfdf"
+linktitle: "ImportAnnotationsFromXfdf"
+articleTitle: "ImportAnnotationsFromXfdf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAnnotationEditor method. Imports all annotations from XFDF file."
 type: docs
-weight: 110
-url: /net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf/
+weight: 30
+url: "/net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf/"
+product_version: "26.9"
 ---
-## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf_1}
+## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf}
 
 Imports all annotations from XFDF file.
 
@@ -29,13 +32,13 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ImportAnnotationsFromXfdf(Stream) {#importannotationsfromxfdf}
+## ImportAnnotationsFromXfdf(Stream) {#importannotationsfromxfdf_1}
 
 Imports all annotations from XFDF data stream.
 
@@ -58,8 +61,7 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

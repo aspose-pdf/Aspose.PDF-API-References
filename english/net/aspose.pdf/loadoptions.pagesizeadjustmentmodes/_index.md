@@ -1,14 +1,23 @@
 ---
-title: Enum LoadOptions.PageSizeAdjustmentModes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LoadOptionsPageSizeAdjustmentModes enum. ATTENTION The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. Represents mode of usage of page size during conversion. Formats like HTML EPUB etc usually have float design so it allows to fit required pagesize. But sometimes content has specifies horizontal positions or size that does not allow put content into required page size. In such case we can define what should be done in this case i.e when size of content does not fit required initial page size of result PDF document
+title: "LoadOptions.PageSizeAdjustmentModes Enum"
+linktitle: "LoadOptions.PageSizeAdjustmentModes"
+articleTitle: "LoadOptions.PageSizeAdjustmentModes"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LoadOptions.PageSizeAdjustmentModes enum. ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED laye..."
 type: docs
-weight: 6290
-url: /net/aspose.pdf/loadoptions.pagesizeadjustmentmodes/
+weight: 1770
+url: "/net/aspose.pdf/loadoptions.pagesizeadjustmentmodes/"
+product_version: "26.9"
 ---
 ## LoadOptions.PageSizeAdjustmentModes enumeration
 
-ATTENTION! The feature implemented but did not put yet to public API since blocker issue in OSHARED layer revealed for sample document. Represents mode of usage of page size during conversion. Formats (like HTML, EPUB etc), usually have float design, so, it allows to fit required pagesize. But sometimes content has specifies horizontal positions or size that does not allow put content into required page size. In such case we can define what should be done in this case (i.e when size of content does not fit required initial page size of result PDF document).
+ATTENTION! The feature implemented but did not put yet to public API since blocker issue in 
+ OSHARED layer revealed for sample document. Represents mode of usage of page size during conversion.
+ Formats (like HTML, EPUB etc), usually have float design, so, it allows to fit required
+ pagesize. But sometimes content has specifies horizontal positions or size that 
+ does not allow put content into required page size.
+ In such case we can define what should be done in this case (i.e when size of content does not fit 
+ required initial page size of result PDF document).
 
 ```csharp
 public enum PageSizeAdjustmentModes
@@ -23,8 +32,7 @@ public enum PageSizeAdjustmentModes
 
 ### See Also
 
-* class [LoadOptions](../loadoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

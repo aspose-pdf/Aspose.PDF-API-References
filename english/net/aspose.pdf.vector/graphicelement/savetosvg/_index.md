@@ -1,10 +1,13 @@
 ---
-title: GraphicElement.SaveToSvg
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElement method. Converts the element into a single SVG image
+title: "GraphicElement.SaveToSvg"
+linktitle: "SaveToSvg"
+articleTitle: "SaveToSvg"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicElement method. Converts the element into a single SVG image."
 type: docs
-weight: 100
-url: /net/aspose.pdf.vector/graphicelement/savetosvg/
+weight: 30
+url: "/net/aspose.pdf.vector/graphicelement/savetosvg/"
+product_version: "26.9"
 ---
 ## SaveToSvg() {#savetosvg}
 
@@ -20,9 +23,9 @@ The SVG-string.
 
 ### See Also
 
-* class [GraphicElement](../)
-* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* assembly [Aspose.PDF](../../../)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,8 +43,7 @@ public void SaveToSvg(string svgFilePath)
 
 ### See Also
 
-* class [GraphicElement](../)
-* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* assembly [Aspose.PDF](../../../)
-
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
 

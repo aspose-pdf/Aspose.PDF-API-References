@@ -1,10 +1,13 @@
 ---
-title: PdfFileSignature.CoversWholeDocument
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature method. Checks if the signature covers the whole document
+title: "PdfFileSignature.CoversWholeDocument"
+linktitle: "CoversWholeDocument"
+articleTitle: "CoversWholeDocument"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Checks if the signature covers the whole document."
 type: docs
-weight: 110
-url: /net/aspose.pdf.facades/pdffilesignature/coverswholedocument/
+weight: 200
+url: "/net/aspose.pdf.facades/pdffilesignature/coverswholedocument/"
+product_version: "26.9"
 ---
 ## PdfFileSignature.CoversWholeDocument method
 
@@ -24,9 +27,8 @@ Return a result of bool type.
 
 ### See Also
 
-* class [SignatureName](../../signaturename/)
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

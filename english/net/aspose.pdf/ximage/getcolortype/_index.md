@@ -1,10 +1,13 @@
 ---
-title: XImage.GetColorType
-second_title: Aspose.PDF for .NET API Reference
-description: XImage method. Returns color type of image
+title: "XImage.GetColorType"
+linktitle: "GetColorType"
+articleTitle: "GetColorType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage method. Returns color type of image."
 type: docs
-weight: 110
-url: /net/aspose.pdf/ximage/getcolortype/
+weight: 80
+url: "/net/aspose.pdf/ximage/getcolortype/"
+product_version: "26.9"
 ---
 ## XImage.GetColorType method
 
@@ -20,9 +23,8 @@ The color type value.
 
 ### See Also
 
-* enum [ColorType](../../colortype/)
-* class [XImage](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [ColorType](../../colortype/)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

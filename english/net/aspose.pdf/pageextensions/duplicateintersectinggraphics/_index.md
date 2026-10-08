@@ -1,14 +1,18 @@
 ---
-title: PageExtensions.DuplicateIntersectingGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: PageExtensions method. Finds all vector graphic elements that intersect with the specified region and creates their copies with offset from original positions
+title: "PageExtensions.DuplicateIntersectingGraphics"
+linktitle: "DuplicateIntersectingGraphics"
+articleTitle: "DuplicateIntersectingGraphics"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageExtensions method. Finds all vector graphic elements that intersect with the specified region and creates their copies with offset from original positions."
 type: docs
 weight: 10
-url: /net/aspose.pdf/pageextensions/duplicateintersectinggraphics/
+url: "/net/aspose.pdf/pageextensions/duplicateintersectinggraphics/"
+product_version: "26.9"
 ---
 ## PageExtensions.DuplicateIntersectingGraphics method
 
-Finds all vector graphic elements that intersect with the specified region and creates their copies with offset from original positions.
+Finds all vector graphic elements that intersect with the specified region
+ and creates their copies with offset from original positions.
 
 ```csharp
 public static void DuplicateIntersectingGraphics(this Page page, Rectangle region, double deltaX, 
@@ -24,14 +28,16 @@ public static void DuplicateIntersectingGraphics(this Page page, Rectangle regio
 
 ## Remarks
 
-This method works only with vector graphics (lines, shapes, Bezier curves, etc.). Raster images and other types of elements are not processed. Each copied element will be shifted by the specified dx and dy values relative to its original position. The original elements remain unchanged.
+This method works only with vector graphics (lines, shapes, Bezier curves, etc.).
+ Raster images and other types of elements are not processed.
+ Each copied element will be shifted by the specified dx and dy values relative to its original position.
+ The original elements remain unchanged.
 
 ### See Also
 
-* class [Page](../../page/)
-* class [Rectangle](../../rectangle/)
-* class [PageExtensions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../page/)
+* class [Rectangle](../../rectangle/)
+* class [PageExtensions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

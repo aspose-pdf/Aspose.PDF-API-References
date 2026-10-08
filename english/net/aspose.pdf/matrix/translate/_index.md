@@ -1,10 +1,13 @@
 ---
-title: Matrix.Translate
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix method. Translates a matrix by the specified amount in the x and y direction
+title: "Matrix.Translate"
+linktitle: "Translate"
+articleTitle: "Translate"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix method. Translates a matrix by the specified amount in the x and y direction."
 type: docs
-weight: 40
-url: /net/aspose.pdf/matrix/translate/
+weight: 220
+url: "/net/aspose.pdf/matrix/translate/"
+product_version: "26.9"
 ---
 ## Matrix.Translate method
 
@@ -26,8 +29,7 @@ A new matrix that is the result of the translation.
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

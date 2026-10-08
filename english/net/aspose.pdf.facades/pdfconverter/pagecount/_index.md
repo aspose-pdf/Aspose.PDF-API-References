@@ -1,10 +1,13 @@
 ---
-title: PdfConverter.PageCount
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter property. Gets the page count
+title: "PdfConverter.PageCount"
+linktitle: "PageCount"
+articleTitle: "PageCount"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverter property. Gets the page count."
 type: docs
-weight: 50
-url: /net/aspose.pdf.facades/pdfconverter/pagecount/
+weight: 630
+url: "/net/aspose.pdf.facades/pdfconverter/pagecount/"
+product_version: "26.9"
 ---
 ## PdfConverter.PageCount property
 
@@ -16,8 +19,7 @@ public int PageCount { get; }
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

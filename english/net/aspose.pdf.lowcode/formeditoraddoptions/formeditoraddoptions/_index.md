@@ -1,14 +1,17 @@
 ---
-title: FormEditorAddOptions.FormEditorAddOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditorAddOptions constructor. Initializes a new instance of the PdfFormAddFieldsOptions object
+title: "FormEditorAddOptions.FormEditorAddOptions"
+linktitle: "FormEditorAddOptions"
+articleTitle: "FormEditorAddOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditorAddOptions constructor. Initializes a new instance of the !:PdfFormAddFieldsOptions object."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/formeditoraddoptions/formeditoraddoptions/
+url: "/net/aspose.pdf.lowcode/formeditoraddoptions/formeditoraddoptions/"
+product_version: "26.9"
 ---
 ## FormEditorAddOptions constructor
 
-Initializes a new instance of the !:PdfFormAddFieldsOptions object.
+Initializes a new instance of the `!:PdfFormAddFieldsOptions` object.
 
 ```csharp
 public FormEditorAddOptions(List<FormFieldCreateOptions> fieldsCreateOptions)
@@ -20,9 +23,8 @@ public FormEditorAddOptions(List<FormFieldCreateOptions> fieldsCreateOptions)
 
 ### See Also
 
-* class [FormFieldCreateOptions](../../formfieldcreateoptions/)
-* class [FormEditorAddOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormFieldCreateOptions](../../formfieldcreateoptions/)
+* class [FormEditorAddOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

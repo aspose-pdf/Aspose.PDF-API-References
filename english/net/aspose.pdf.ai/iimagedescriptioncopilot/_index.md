@@ -1,10 +1,13 @@
 ---
-title: Interface IImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IImageDescriptionCopilot interface. Represents an image description copilot for extracting image descriptions using AI models
+title: "IImageDescriptionCopilot Interface"
+linktitle: "IImageDescriptionCopilot"
+articleTitle: "IImageDescriptionCopilot"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IImageDescriptionCopilot interface. Represents an image description copilot for extracting image descriptions using AI models."
 type: docs
 weight: 530
-url: /net/aspose.pdf.ai/iimagedescriptioncopilot/
+url: "/net/aspose.pdf.ai/iimagedescriptioncopilot/"
+product_version: "26.9"
 ---
 ## IImageDescriptionCopilot interface
 
@@ -22,8 +25,7 @@ public interface IImageDescriptionCopilot : IAICopilot
 
 ### See Also
 
-* interface [IAICopilot](../iaicopilot/)
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* interface [IAICopilot](../iaicopilot/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

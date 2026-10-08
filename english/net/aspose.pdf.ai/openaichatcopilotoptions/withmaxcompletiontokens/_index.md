@@ -1,10 +1,13 @@
 ---
-title: OpenAIChatCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions method. Sets the max completion tokens for the chat copilot options
+title: "OpenAIChatCopilotOptions.WithMaxCompletionTokens"
+linktitle: "WithMaxCompletionTokens"
+articleTitle: "WithMaxCompletionTokens"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIChatCopilotOptions method. Sets the max completion tokens for the chat copilot options."
 type: docs
-weight: 140
-url: /net/aspose.pdf.ai/openaichatcopilotoptions/withmaxcompletiontokens/
+weight: 80
+url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withmaxcompletiontokens/"
+product_version: "26.9"
 ---
 ## OpenAIChatCopilotOptions.WithMaxCompletionTokens method
 
@@ -24,8 +27,7 @@ The current instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: HeadingLevels.HeadingLevels
-second_title: Aspose.PDF for .NET API Reference
-description: HeadingLevels constructor. Creates a new instance of the HeadingLevels class
+title: "HeadingLevels.HeadingLevels"
+linktitle: "HeadingLevels"
+articleTitle: "HeadingLevels"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HeadingLevels constructor. Creates a new instance of the HeadingLevels class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/headinglevels/headinglevels/
+url: "/net/aspose.pdf/headinglevels/headinglevels/"
+product_version: "26.9"
 ---
 ## HeadingLevels() {#constructor}
 
@@ -16,9 +19,9 @@ public HeadingLevels()
 
 ### See Also
 
-* class [HeadingLevels](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [HeadingLevels](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,8 +39,7 @@ public HeadingLevels(double threshold)
 
 ### See Also
 
-* class [HeadingLevels](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HeadingLevels](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: PdfConverter.SaveAsTIFFClassF
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter method. Converts each pages of a pdf document to images and save images to a single TIFF ClassF file
+title: "PdfConverter.SaveAsTIFFClassF"
+linktitle: "SaveAsTIFFClassF"
+articleTitle: "SaveAsTIFFClassF"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverter method. Converts each pages of a pdf document to images and save images to a single TIFF ClassF file."
 type: docs
-weight: 170
-url: /net/aspose.pdf.facades/pdfconverter/saveastiffclassf/
+weight: 120
+url: "/net/aspose.pdf.facades/pdfconverter/saveastiffclassf/"
+product_version: "26.9"
 ---
-## SaveAsTIFFClassF(string, int, int) {#saveastiffclassf_5}
+## SaveAsTIFFClassF(string, int, int) {#saveastiffclassf}
 
 Converts each pages of a pdf document to images and save images to a single TIFF ClassF file.
 
@@ -38,13 +41,13 @@ converter.SaveAsTIFFClassF(@"D:\Test\test.tiff",204,196)
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SaveAsTIFFClassF(string, PageSize) {#saveastiffclassf_4}
+## SaveAsTIFFClassF(string, PageSize) {#saveastiffclassf_1}
 
 Converts each pages of a pdf document to images and save images to a single TIFF ClassF file.
 
@@ -59,14 +62,14 @@ public void SaveAsTIFFClassF(string outputFile, PageSize pageSize)
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SaveAsTIFFClassF(Stream, int, int) {#saveastiffclassf_2}
+## SaveAsTIFFClassF(Stream, int, int) {#saveastiffclassf_2}
 
 Converts each pages of a pdf document to images and save images to a single TIFF ClassF stream.
 
@@ -82,13 +85,13 @@ public void SaveAsTIFFClassF(Stream outputStream, int imageWidth, int imageHeigh
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SaveAsTIFFClassF(Stream, PageSize) {#saveastiffclassf_1}
+## SaveAsTIFFClassF(Stream, PageSize) {#saveastiffclassf_3}
 
 Converts each pages of a pdf document to images and save images to a single TIFF ClassF stream.
 
@@ -103,14 +106,14 @@ public void SaveAsTIFFClassF(Stream outputStream, PageSize pageSize)
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SaveAsTIFFClassF(string) {#saveastiffclassf_3}
+## SaveAsTIFFClassF(string) {#saveastiffclassf_4}
 
 Converts each pages of a pdf document to images and save images to a single TIFF ClassF file.
 
@@ -140,13 +143,13 @@ converter.SaveAsTIFFClassF(@"D:\Test\test.tiff")
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SaveAsTIFFClassF(Stream) {#saveastiffclassf}
+## SaveAsTIFFClassF(Stream) {#saveastiffclassf_5}
 
 Converts each pages of a pdf document to images and save images to a single TIFF ClassF stream.
 
@@ -160,8 +163,7 @@ public void SaveAsTIFFClassF(Stream outputStream)
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

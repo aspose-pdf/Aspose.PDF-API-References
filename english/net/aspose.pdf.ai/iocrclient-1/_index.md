@@ -1,10 +1,13 @@
 ---
-title: Interface IOcrClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IOcrClient1TOptions interface. Represents an interface for a OCR client with specific options
+title: "IOcrClient<TOptions> Interface"
+linktitle: "IOcrClient<TOptions>"
+articleTitle: "IOcrClient<TOptions>"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IOcrClient interface. Represents an interface for a OCR client with specific options."
 type: docs
 weight: 560
-url: /net/aspose.pdf.ai/iocrclient-1/
+url: "/net/aspose.pdf.ai/iocrclient-1/"
+product_version: "26.9"
 ---
 ## IOcrClient&lt;TOptions&gt; interface
 
@@ -26,8 +29,7 @@ public interface IOcrClient<in TOptions> : IAIClient
 
 ### See Also
 
-* interface [IAIClient](../iaiclient/)
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* interface [IAIClient](../iaiclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

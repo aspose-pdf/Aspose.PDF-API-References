@@ -1,10 +1,13 @@
 ---
-title: ThreadMessageCreateRequest.WithMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageCreateRequest method. Sets the metadata for the thread message request
+title: "ThreadMessageCreateRequest.WithMetadata"
+linktitle: "WithMetadata"
+articleTitle: "WithMetadata"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageCreateRequest method. Sets the metadata for the thread message request."
 type: docs
-weight: 110
-url: /net/aspose.pdf.ai/threadmessagecreaterequest/withmetadata/
+weight: 70
+url: "/net/aspose.pdf.ai/threadmessagecreaterequest/withmetadata/"
+product_version: "26.9"
 ---
 ## ThreadMessageCreateRequest.WithMetadata method
 
@@ -24,8 +27,7 @@ The current instance of [`ThreadMessageCreateRequest`](../).
 
 ### See Also
 
-* class [ThreadMessageCreateRequest](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

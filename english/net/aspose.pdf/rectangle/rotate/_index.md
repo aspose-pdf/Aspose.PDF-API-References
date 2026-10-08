@@ -1,10 +1,13 @@
 ---
-title: Rectangle.Rotate
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle method. Rotate rectangle by the specified angle
+title: "Rectangle.Rotate"
+linktitle: "Rotate"
+articleTitle: "Rotate"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Rotate rectangle by the specified angle."
 type: docs
-weight: 260
-url: /net/aspose.pdf/rectangle/rotate/
+weight: 160
+url: "/net/aspose.pdf/rectangle/rotate/"
+product_version: "26.9"
 ---
 ## Rotate(Rotation) {#rotate}
 
@@ -20,10 +23,10 @@ public void Rotate(Rotation angle)
 
 ### See Also
 
-* enum [Rotation](../../rotation/)
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [Rotation](../../rotation/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,8 +44,7 @@ public void Rotate(int angle)
 
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

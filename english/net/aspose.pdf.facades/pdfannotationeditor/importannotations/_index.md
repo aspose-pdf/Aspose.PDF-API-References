@@ -1,12 +1,15 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor method. Imports the specified annotations into document from array of another PDF documents
+title: "PdfAnnotationEditor.ImportAnnotations"
+linktitle: "ImportAnnotations"
+articleTitle: "ImportAnnotations"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAnnotationEditor method. Imports the specified annotations into document from array of another PDF documents."
 type: docs
-weight: 90
-url: /net/aspose.pdf.facades/pdfannotationeditor/importannotations/
+weight: 80
+url: "/net/aspose.pdf.facades/pdfannotationeditor/importannotations/"
+product_version: "26.9"
 ---
-## ImportAnnotations(string[], AnnotationType[]) {#importannotations_3}
+## ImportAnnotations(string[], AnnotationType[]) {#importannotations}
 
 Imports the specified annotations into document from array of another PDF documents.
 
@@ -32,14 +35,14 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ImportAnnotations(string[]) {#importannotations_2}
+## ImportAnnotations(string[]) {#importannotations_1}
 
 Imports annotations into document from array of another PDF documents.
 
@@ -63,13 +66,13 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ImportAnnotations(Stream[], AnnotationType[]) {#importannotations_1}
+## ImportAnnotations(Stream[], AnnotationType[]) {#importannotations_2}
 
 Imports the specified annotations into document from array of another PDF document streams.
 
@@ -99,14 +102,14 @@ stream[1].Close();
 
 ### See Also
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ImportAnnotations(Stream[]) {#importannotations}
+## ImportAnnotations(Stream[]) {#importannotations_3}
 
 Imports annotations into document from array of another PDF document streams.
 
@@ -134,8 +137,7 @@ streams[1].Close();
 
 ### See Also
 
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

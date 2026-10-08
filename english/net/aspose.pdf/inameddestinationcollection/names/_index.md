@@ -1,10 +1,13 @@
 ---
-title: INamedDestinationCollection.Names
-second_title: Aspose.PDF for .NET API Reference
-description: INamedDestinationCollection property. Gets array of names of the destinations
+title: "INamedDestinationCollection.Names"
+linktitle: "Names"
+articleTitle: "Names"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "INamedDestinationCollection property. Gets array of names of the destinations."
 type: docs
-weight: 30
-url: /net/aspose.pdf/inameddestinationcollection/names/
+weight: 50
+url: "/net/aspose.pdf/inameddestinationcollection/names/"
+product_version: "26.9"
 ---
 ## INamedDestinationCollection.Names property
 
@@ -16,8 +19,7 @@ public string[] Names { get; }
 
 ### See Also
 
-* interface [INamedDestinationCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [INamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

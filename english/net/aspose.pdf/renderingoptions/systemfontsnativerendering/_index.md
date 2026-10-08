@@ -1,10 +1,13 @@
 ---
-title: RenderingOptions.SystemFontsNativeRendering
-second_title: Aspose.PDF for .NET API Reference
-description: RenderingOptions property. Gets or sets a mode where system fonts are rendered natively
+title: "RenderingOptions.SystemFontsNativeRendering"
+linktitle: "SystemFontsNativeRendering"
+articleTitle: "SystemFontsNativeRendering"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RenderingOptions property. Gets or sets a mode where system fonts are rendered natively."
 type: docs
-weight: 120
-url: /net/aspose.pdf/renderingoptions/systemfontsnativerendering/
+weight: 40
+url: "/net/aspose.pdf/renderingoptions/systemfontsnativerendering/"
+product_version: "26.9"
 ---
 ## RenderingOptions.SystemFontsNativeRendering property
 
@@ -16,8 +19,7 @@ public bool SystemFontsNativeRendering { get; set; }
 
 ### See Also
 
-* class [RenderingOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

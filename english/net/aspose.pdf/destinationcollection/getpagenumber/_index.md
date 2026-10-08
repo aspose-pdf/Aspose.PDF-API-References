@@ -1,10 +1,13 @@
 ---
-title: DestinationCollection.GetPageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection method. Returns the page number of destination by the name
+title: "DestinationCollection.GetPageNumber"
+linktitle: "GetPageNumber"
+articleTitle: "GetPageNumber"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DestinationCollection method. Returns the page number of destination by the name."
 type: docs
-weight: 100
-url: /net/aspose.pdf/destinationcollection/getpagenumber/
+weight: 10
+url: "/net/aspose.pdf/destinationcollection/getpagenumber/"
+product_version: "26.9"
 ---
 ## DestinationCollection.GetPageNumber method
 
@@ -25,8 +28,7 @@ The page number if destination was found; otherwise, -1.
 
 ### See Also
 
-* class [DestinationCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

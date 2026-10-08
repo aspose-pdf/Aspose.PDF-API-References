@@ -1,10 +1,13 @@
 ---
-title: Matrix.Transform
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix method. Transforms point using this matrix
+title: "Matrix.Transform"
+linktitle: "Transform"
+articleTitle: "Transform"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix method. Transforms point using this matrix."
 type: docs
-weight: 210
-url: /net/aspose.pdf/matrix/transform/
+weight: 160
+url: "/net/aspose.pdf/matrix/transform/"
+product_version: "26.9"
 ---
 ## Transform(Point) {#transform}
 
@@ -32,14 +35,14 @@ Aspose.Pdf.Rectangle r1 = m.Transform(r);
 
 ### See Also
 
-* class [Point](../../point/)
-* class [Matrix](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Point](../../point/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Transform(double, double, out double, out double) {#transform_2}
+## Transform(double, double, out double, out double) {#transform_1}
 
 Transforms coordinates using this matrix.
 
@@ -64,15 +67,16 @@ m.Transform(double x, double y, out double x1, out double y1);
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Transform(Rectangle) {#transform_1}
+## Transform(Rectangle) {#transform_2}
 
-Transformes rectangle. If angle is not 90 * N degrees then bounding rectangle is returned.
+Transformes rectangle.
+ If angle is not 90 * N degrees then bounding rectangle is returned.
 
 ```csharp
 public Rectangle Transform(Rectangle rect)
@@ -96,9 +100,8 @@ Rectangle r1 = m.Transform(r1);
 
 ### See Also
 
-* class [Rectangle](../../rectangle/)
-* class [Matrix](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../rectangle/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

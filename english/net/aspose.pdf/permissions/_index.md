@@ -1,10 +1,13 @@
 ---
-title: Enum Permissions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Permissions enum. This enum represents users permissions for a pdf
+title: "Permissions Enum"
+linktitle: "Permissions"
+articleTitle: "Permissions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Permissions enum. This enum represents user's permissions for a pdf."
 type: docs
-weight: 9740
-url: /net/aspose.pdf/permissions/
+weight: 2500
+url: "/net/aspose.pdf/permissions/"
+product_version: "26.9"
 ---
 ## Permissions enumeration
 
@@ -30,7 +33,6 @@ public enum Permissions
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

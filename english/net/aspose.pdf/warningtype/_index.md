@@ -1,10 +1,13 @@
 ---
-title: Enum WarningType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.WarningType enum. Enum represented warning type
+title: "WarningType Enum"
+linktitle: "WarningType"
+articleTitle: "WarningType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.WarningType enum. Enum represented warning type."
 type: docs
-weight: 11700
-url: /net/aspose.pdf/warningtype/
+weight: 3110
+url: "/net/aspose.pdf/warningtype/"
+product_version: "26.9"
 ---
 ## WarningType enumeration
 
@@ -28,7 +31,6 @@ public enum WarningType
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

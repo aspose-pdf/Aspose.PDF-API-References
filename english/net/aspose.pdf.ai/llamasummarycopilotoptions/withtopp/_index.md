@@ -1,10 +1,13 @@
 ---
-title: LlamaSummaryCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions method. Sets the top P value for the summary copilot options
+title: "LlamaSummaryCopilotOptions.WithTopP"
+linktitle: "WithTopP"
+articleTitle: "WithTopP"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaSummaryCopilotOptions method. Sets the top P value for the summary copilot options."
 type: docs
-weight: 110
-url: /net/aspose.pdf.ai/llamasummarycopilotoptions/withtopp/
+weight: 60
+url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/withtopp/"
+product_version: "26.9"
 ---
 ## LlamaSummaryCopilotOptions.WithTopP method
 
@@ -24,8 +27,7 @@ The current instance of [`LlamaSummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [LlamaSummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

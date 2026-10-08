@@ -1,12 +1,15 @@
 ---
-title: ISummaryCopilot.GetSummaryDocumentAsync
-second_title: Aspose.PDF for .NET API Reference
-description: ISummaryCopilot method. Asynchronously gets a summary PDF document
+title: "ISummaryCopilot.GetSummaryDocumentAsync"
+linktitle: "GetSummaryDocumentAsync"
+articleTitle: "GetSummaryDocumentAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ISummaryCopilot method. Asynchronously gets a summary PDF document."
 type: docs
 weight: 20
-url: /net/aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/
+url: "/net/aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/"
+product_version: "26.9"
 ---
-## GetSummaryDocumentAsync(CancellationToken?) {#getsummarydocumentasync_1}
+## GetSummaryDocumentAsync(CancellationToken?) {#getsummarydocumentasync}
 
 Asynchronously gets a summary PDF document.
 
@@ -24,14 +27,14 @@ A task representing the asynchronous operation with the summary document.
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* interface [ISummaryCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* interface [ISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetSummaryDocumentAsync(PageInfo, CancellationToken?) {#getsummarydocumentasync}
+## GetSummaryDocumentAsync(PageInfo, CancellationToken?) {#getsummarydocumentasync_1}
 
 Asynchronously gets a summary PDF document for the specified page information.
 
@@ -51,10 +54,9 @@ A task representing the asynchronous operation with the summary document.
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [PageInfo](../../../aspose.pdf/pageinfo/)
-* interface [ISummaryCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* interface [ISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: TableAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: TableAbsorber method. Extracts tables on the specified page
+title: "TableAbsorber.Visit"
+linktitle: "Visit"
+articleTitle: "Visit"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableAbsorber method. Extracts tables on the specified page"
 type: docs
-weight: 70
-url: /net/aspose.pdf.text/tableabsorber/visit/
+weight: 30
+url: "/net/aspose.pdf.text/tableabsorber/visit/"
+product_version: "26.9"
 ---
-## Visit(Page) {#visit_1}
+## Visit(Page) {#visit}
 
 Extracts tables on the specified page
 
@@ -39,19 +42,19 @@ TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragmen
 fragment.Text = "hi world";
 
 // Save document
-doc.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");
 ```
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [TableAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(Document) {#visit}
+## Visit(Document) {#visit_1}
 
 Extracts tables in the specified document.
 
@@ -84,14 +87,13 @@ TextFragment fragment = absorber.TableList[0].RowList[0].CellList[0].TextFragmen
 fragment.Text = "hi world";
 
 // Save document
-doc.Save(@"D:\Tests\output.pdf");  
+doc.Save(@"D:\Tests\output.pdf");
 ```
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [TableAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

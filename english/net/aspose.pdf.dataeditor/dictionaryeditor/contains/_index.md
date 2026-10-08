@@ -1,10 +1,13 @@
 ---
-title: DictionaryEditor.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor method. Determines whether the DictionaryEditor contains a specific value
+title: "DictionaryEditor.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DictionaryEditor method. Determines whether the DictionaryEditor contains a specific value."
 type: docs
 weight: 100
-url: /net/aspose.pdf.dataeditor/dictionaryeditor/contains/
+url: "/net/aspose.pdf.dataeditor/dictionaryeditor/contains/"
+product_version: "26.9"
 ---
 ## DictionaryEditor.Contains method
 
@@ -20,13 +23,13 @@ public bool Contains(KeyValuePair<string, ICosPdfPrimitive> item)
 
 ### Return Value
 
-true if item is found in the [`DictionaryEditor`](../); otherwise, false.
+true if item is found in the [`DictionaryEditor`](../); 
+ otherwise, false.
 
 ### See Also
 
-* interface [ICosPdfPrimitive](../../icospdfprimitive/)
-* class [DictionaryEditor](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

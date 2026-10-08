@@ -1,14 +1,18 @@
 ---
-title: TextEditOptions.ToAttemptGetUnderlineFromSource
-second_title: Aspose.PDF for .NET API Reference
-description: TextEditOptions property. Gets or sets value that permits searching for text underlining on the page of source document. Obsolete Please use TextSearchOptions.SearchForTextRelatedGraphics instead this
+title: "TextEditOptions.ToAttemptGetUnderlineFromSource"
+linktitle: "ToAttemptGetUnderlineFromSource"
+articleTitle: "ToAttemptGetUnderlineFromSource"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextEditOptions property. Gets or sets value that permits searching for text underlining on the page of source document. (Obsolete) Please use TextSearchOpti..."
 type: docs
-weight: 80
-url: /net/aspose.pdf.text/texteditoptions/toattemptgetunderlinefromsource/
+weight: 110
+url: "/net/aspose.pdf.text/texteditoptions/toattemptgetunderlinefromsource/"
+product_version: "26.9"
 ---
 ## TextEditOptions.ToAttemptGetUnderlineFromSource property
 
-Gets or sets value that permits searching for text underlining on the page of source document. (Obsolete) Please use TextSearchOptions.SearchForTextRelatedGraphics instead this.
+Gets or sets value that permits searching for text underlining on the page of source document.
+ (Obsolete) Please use TextSearchOptions.SearchForTextRelatedGraphics instead this.
 
 ```csharp
 public bool ToAttemptGetUnderlineFromSource { get; set; }
@@ -16,8 +20,7 @@ public bool ToAttemptGetUnderlineFromSource { get; set; }
 
 ### See Also
 
-* class [TextEditOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextEditOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

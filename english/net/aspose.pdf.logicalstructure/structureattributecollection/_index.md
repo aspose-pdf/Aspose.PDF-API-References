@@ -1,10 +1,14 @@
 ---
-title: Class StructureAttributeCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.StructureAttributeCollection class. Represents collection of attributes of structure elements
+title: "StructureAttributeCollection Class"
+linktitle: "StructureAttributeCollection"
+articleTitle: "StructureAttributeCollection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LogicalStructure.StructureAttributeCollection class. Represents collection of attributes of structure elements."
 type: docs
-weight: 6840
-url: /net/aspose.pdf.logicalstructure/structureattributecollection/
+weight: 530
+url: "/net/aspose.pdf.logicalstructure/structureattributecollection/"
+keywords: "StructureAttributeCollection, Aspose.Pdf.LogicalStructure, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## StructureAttributeCollection class
 
@@ -23,7 +27,6 @@ public class StructureAttributeCollection
 
 ### See Also
 
-* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
 

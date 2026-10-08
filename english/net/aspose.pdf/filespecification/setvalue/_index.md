@@ -1,10 +1,13 @@
 ---
-title: FileSpecification.SetValue
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification method. Sets applicationspecific parameter
+title: "FileSpecification.SetValue"
+linktitle: "SetValue"
+articleTitle: "SetValue"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification method. Sets application-specific parameter."
 type: docs
-weight: 180
-url: /net/aspose.pdf/filespecification/setvalue/
+weight: 80
+url: "/net/aspose.pdf/filespecification/setvalue/"
+product_version: "26.9"
 ---
 ## FileSpecification.SetValue method
 
@@ -21,8 +24,7 @@ public void SetValue(string key, string value)
 
 ### See Also
 
-* class [FileSpecification](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

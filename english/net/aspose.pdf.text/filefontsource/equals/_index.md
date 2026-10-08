@@ -1,10 +1,13 @@
 ---
-title: FileFontSource.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: FileFontSource method. Check if font file source objects are equal
+title: "FileFontSource.Equals"
+linktitle: "Equals"
+articleTitle: "Equals"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileFontSource method. Check if font file source objects are equal."
 type: docs
-weight: 30
-url: /net/aspose.pdf.text/filefontsource/equals/
+weight: 20
+url: "/net/aspose.pdf.text/filefontsource/equals/"
+product_version: "26.9"
 ---
 ## FileFontSource.Equals method
 
@@ -24,8 +27,7 @@ True if both objects are font file sources targeted to the same file.
 
 ### See Also
 
-* class [FileFontSource](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

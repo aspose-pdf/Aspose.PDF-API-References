@@ -1,10 +1,13 @@
 ---
-title: ToUnicodeProcessingRules.ToUnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: ToUnicodeProcessingRules constructor. Initializes a new instance of the ToUnicodeProcessingRules class
+title: "ToUnicodeProcessingRules.ToUnicodeProcessingRules"
+linktitle: "ToUnicodeProcessingRules"
+articleTitle: "ToUnicodeProcessingRules"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ToUnicodeProcessingRules constructor. Initializes a new instance of the ToUnicodeProcessingRules class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/tounicodeprocessingrules/tounicodeprocessingrules/
+url: "/net/aspose.pdf/tounicodeprocessingrules/tounicodeprocessingrules/"
+product_version: "26.9"
 ---
 ## ToUnicodeProcessingRules() {#constructor}
 
@@ -16,15 +19,16 @@ public ToUnicodeProcessingRules()
 
 ### See Also
 
-* class [ToUnicodeProcessingRules](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [ToUnicodeProcessingRules](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ToUnicodeProcessingRules(bool) {#constructor_1}
 
-Initializes a new instance of the [`ToUnicodeProcessingRules`](../) class with the specified option to remove spaces from CMap names.
+Initializes a new instance of the [`ToUnicodeProcessingRules`](../) class with the specified option
+ to remove spaces from CMap names.
 
 ```csharp
 public ToUnicodeProcessingRules(bool removeSpaces)
@@ -36,13 +40,13 @@ public ToUnicodeProcessingRules(bool removeSpaces)
 
 ### See Also
 
-* class [ToUnicodeProcessingRules](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [ToUnicodeProcessingRules](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ToUnicodeProcessingRules(bool, bool) {#constructor_2}
+## ToUnicodeProcessingRules(bool, bool) {#constructor_2}
 
 Initializes a new instance of the [`ToUnicodeProcessingRules`](../) class with specified options.
 
@@ -57,8 +61,7 @@ public ToUnicodeProcessingRules(bool removeSpaces, bool mapNonLinkedUnicodesOnSp
 
 ### See Also
 
-* class [ToUnicodeProcessingRules](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ToUnicodeProcessingRules](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

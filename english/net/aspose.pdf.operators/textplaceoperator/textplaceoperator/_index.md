@@ -1,10 +1,13 @@
 ---
-title: TextPlaceOperator.TextPlaceOperator
-second_title: Aspose.PDF for .NET API Reference
-description: TextPlaceOperator constructor. Initializes TextPlaceOperator
+title: "TextPlaceOperator.TextPlaceOperator"
+linktitle: "TextPlaceOperator"
+articleTitle: "TextPlaceOperator"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextPlaceOperator constructor. Initializes TextPlaceOperator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/textplaceoperator/textplaceoperator/
+url: "/net/aspose.pdf.operators/textplaceoperator/textplaceoperator/"
+product_version: "26.9"
 ---
 ## TextPlaceOperator() {#constructor}
 
@@ -16,9 +19,9 @@ public TextPlaceOperator()
 
 ### See Also
 
-* class [TextPlaceOperator](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [TextPlaceOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,9 +39,8 @@ public TextPlaceOperator(TextProperties textProperties)
 
 ### See Also
 
-* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
-* class [TextPlaceOperator](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
+* class [TextPlaceOperator](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

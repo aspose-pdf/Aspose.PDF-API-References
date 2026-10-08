@@ -1,12 +1,15 @@
 ---
-title: Document.Document
-second_title: Aspose.PDF for .NET API Reference
-description: Document constructor. Initialize new Document instance from the input stream
+title: "Document.Document"
+linktitle: "Document"
+articleTitle: "Document"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document constructor. Initialize new Document instance from the input stream."
 type: docs
 weight: 10
-url: /net/aspose.pdf/document/document/
+url: "/net/aspose.pdf/document/document/"
+product_version: "26.9"
 ---
-## Document(Stream) {#constructor_2}
+## Document(Stream) {#constructor}
 
 Initialize new Document instance from the *input* stream.
 
@@ -20,13 +23,13 @@ public Document(Stream input)
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, bool) {#constructor_6}
+## Document(Stream, bool) {#constructor_1}
 
 Initialize new Document instance from the *input* stream.
 
@@ -41,13 +44,13 @@ public Document(Stream input, bool isManagedStream)
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, string) {#constructor_7}
+## Document(Stream, string) {#constructor_2}
 
 Initialize new Document instance from the *input* stream.
 
@@ -62,13 +65,13 @@ public Document(Stream input, string password)
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, CertificateEncryptionOptions) {#constructor_4}
+## Document(Stream, CertificateEncryptionOptions) {#constructor_3}
 
 Initialize new Document instance from the *input* stream.
 
@@ -83,14 +86,14 @@ public Document(Stream input, CertificateEncryptionOptions certOptions)
 
 ### See Also
 
-* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, CertificateEncryptionOptions, bool) {#constructor_5}
+## Document(Stream, CertificateEncryptionOptions, bool) {#constructor_4}
 
 Initialize new Document instance from the *input* stream.
 
@@ -106,14 +109,14 @@ public Document(Stream input, CertificateEncryptionOptions certOptions, bool isM
 
 ### See Also
 
-* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, CertificateEncryptionOptions) {#constructor_13}
+## Document(string, CertificateEncryptionOptions) {#constructor_5}
 
 Initializes new instance of the [`Document`](../) class for working with encrypted document.
 
@@ -128,14 +131,14 @@ public Document(string filename, CertificateEncryptionOptions certOptions)
 
 ### See Also
 
-* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, CertificateEncryptionOptions, bool) {#constructor_14}
+## Document(string, CertificateEncryptionOptions, bool) {#constructor_6}
 
 Initializes new instance of the [`Document`](../) class for working with encrypted document.
 
@@ -151,14 +154,14 @@ public Document(string filename, CertificateEncryptionOptions certOptions, bool 
 
 ### See Also
 
-* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, string, ICustomSecurityHandler) {#constructor_8}
+## Document(Stream, string, ICustomSecurityHandler) {#constructor_7}
 
 Initialize new Document instance from the *input* stream.
 
@@ -174,14 +177,14 @@ public Document(Stream input, string password, ICustomSecurityHandler customSecu
 
 ### See Also
 
-* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, string, bool) {#constructor_9}
+## Document(Stream, string, bool) {#constructor_8}
 
 Initialize new Document instance from the *input* stream.
 
@@ -197,13 +200,13 @@ public Document(Stream input, string password, bool isManagedStream)
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, string, bool, ICustomSecurityHandler) {#constructor_10}
+## Document(Stream, string, bool, ICustomSecurityHandler) {#constructor_9}
 
 Initialize new Document instance from the *input* stream.
 
@@ -221,16 +224,16 @@ public Document(Stream input, string password, bool isManagedStream,
 
 ### See Also
 
-* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string) {#constructor_11}
+## Document(string) {#constructor_10}
 
-Just init Document using *filename*. The same as `Document`.
+Just init Document using *filename*. The same as `#ctor`.
 
 ```csharp
 public Document(string filename)
@@ -242,15 +245,15 @@ public Document(string filename)
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, bool) {#constructor_15}
+## Document(string, bool) {#constructor_11}
 
-Just init Document using *filename*. The same as `Document`.
+Just init Document using *filename*. The same as `#ctor`.
 
 ```csharp
 public Document(string filename, bool isManagedStream)
@@ -263,13 +266,13 @@ public Document(string filename, bool isManagedStream)
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, string, ICustomSecurityHandler) {#constructor_17}
+## Document(string, string, ICustomSecurityHandler) {#constructor_12}
 
 Initializes new instance of the [`Document`](../) class for working with encrypted document.
 
@@ -285,14 +288,14 @@ public Document(string filename, string password, ICustomSecurityHandler customS
 
 ### See Also
 
-* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, string) {#constructor_16}
+## Document(string, string) {#constructor_13}
 
 Initializes new instance of the [`Document`](../) class for working with encrypted document.
 
@@ -307,13 +310,13 @@ public Document(string filename, string password)
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, string, bool) {#constructor_18}
+## Document(string, string, bool) {#constructor_14}
 
 Initializes new instance of the [`Document`](../) class for working with encrypted document.
 
@@ -329,13 +332,13 @@ public Document(string filename, string password, bool isManagedStream)
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, string, bool, ICustomSecurityHandler) {#constructor_19}
+## Document(string, string, bool, ICustomSecurityHandler) {#constructor_15}
 
 Initializes new instance of the [`Document`](../) class for working with encrypted document.
 
@@ -353,14 +356,14 @@ public Document(string filename, string password, bool isManagedStream,
 
 ### See Also
 
-* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document() {#constructor}
+## Document() {#constructor_16}
 
 Initializes empty document.
 
@@ -370,13 +373,13 @@ public Document()
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(PdfVersion) {#constructor_1}
+## Document(PdfVersion) {#constructor_17}
 
 Initializes empty document by version.
 
@@ -390,14 +393,14 @@ public Document(PdfVersion version)
 
 ### See Also
 
-* enum [PdfVersion](../../pdfversion/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [PdfVersion](../../pdfversion/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, LoadOptions) {#constructor_12}
+## Document(string, LoadOptions) {#constructor_18}
 
 Opens an existing document from a file providing necessary converting options to get pdf document.
 
@@ -412,14 +415,14 @@ public Document(string filename, LoadOptions options)
 
 ### See Also
 
-* class [LoadOptions](../../loadoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [LoadOptions](../../loadoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, LoadOptions) {#constructor_3}
+## Document(Stream, LoadOptions) {#constructor_19}
 
 Opens an existing document from a stream providing necessary converting to get pdf document.
 
@@ -434,9 +437,8 @@ public Document(Stream input, LoadOptions options)
 
 ### See Also
 
-* class [LoadOptions](../../loadoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LoadOptions](../../loadoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference field. Document outline visible
+title: "ViewerPreference.NonFullScreenPageModeUseOutlines"
+linktitle: "NonFullScreenPageModeUseOutlines"
+articleTitle: "NonFullScreenPageModeUseOutlines"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Document outline visible."
 type: docs
-weight: 140
-url: /net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoutlines/
+weight: 200
+url: "/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeuseoutlines/"
+product_version: "26.9"
 ---
 ## ViewerPreference.NonFullScreenPageModeUseOutlines field
 
@@ -16,8 +19,7 @@ public const int NonFullScreenPageModeUseOutlines;
 
 ### See Also
 
-* class [ViewerPreference](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

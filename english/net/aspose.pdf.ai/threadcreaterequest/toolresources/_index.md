@@ -1,10 +1,13 @@
 ---
-title: ThreadCreateRequest.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadCreateRequest property. Gets or sets a set of resources that are made available to the assistants tools in this thread
+title: "ThreadCreateRequest.ToolResources"
+linktitle: "ToolResources"
+articleTitle: "ToolResources"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadCreateRequest property. Gets or sets a set of resources that are made available to the assistant's tools in this thread."
 type: docs
-weight: 40
-url: /net/aspose.pdf.ai/threadcreaterequest/toolresources/
+weight: 30
+url: "/net/aspose.pdf.ai/threadcreaterequest/toolresources/"
+product_version: "26.9"
 ---
 ## ThreadCreateRequest.ToolResources property
 
@@ -16,9 +19,8 @@ public ToolResources ToolResources { get; set; }
 
 ### See Also
 
-* class [ToolResources](../../toolresources/)
-* class [ThreadCreateRequest](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ToolResources](../../toolresources/)
+* class [ThreadCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

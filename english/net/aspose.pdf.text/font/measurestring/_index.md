@@ -1,10 +1,13 @@
 ---
-title: Font.MeasureString
-second_title: Aspose.PDF for .NET API Reference
-description: Font method. Measures the string
+title: "Font.MeasureString"
+linktitle: "MeasureString"
+articleTitle: "MeasureString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Font method. Measures the string."
 type: docs
-weight: 90
-url: /net/aspose.pdf.text/font/measurestring/
+weight: 30
+url: "/net/aspose.pdf.text/font/measurestring/"
+product_version: "26.9"
 ---
 ## Font.MeasureString method
 
@@ -25,8 +28,7 @@ Width of the string represented with this font and the specified size.
 
 ### See Also
 
-* class [Font](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

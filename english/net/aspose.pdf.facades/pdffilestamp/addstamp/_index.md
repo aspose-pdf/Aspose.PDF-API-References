@@ -1,10 +1,13 @@
 ---
-title: PdfFileStamp.AddStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp method. Adds stamp to the file
+title: "PdfFileStamp.AddStamp"
+linktitle: "AddStamp"
+articleTitle: "AddStamp"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp method. Adds stamp to the file."
 type: docs
-weight: 140
-url: /net/aspose.pdf.facades/pdffilestamp/addstamp/
+weight: 60
+url: "/net/aspose.pdf.facades/pdffilestamp/addstamp/"
+product_version: "26.9"
 ---
 ## PdfFileStamp.AddStamp method
 
@@ -34,9 +37,8 @@ fileStamp.Close();
 
 ### See Also
 
-* class [Stamp](../../stamp/)
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Stamp](../../stamp/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

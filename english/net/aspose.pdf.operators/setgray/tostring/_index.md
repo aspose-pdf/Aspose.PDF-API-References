@@ -1,10 +1,13 @@
 ---
-title: SetGray.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SetGray method. Returns string representation of operator
+title: "SetGray.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetGray method. Returns string representation of operator."
 type: docs
-weight: 50
-url: /net/aspose.pdf.operators/setgray/tostring/
+weight: 40
+url: "/net/aspose.pdf.operators/setgray/tostring/"
+product_version: "26.9"
 ---
 ## SetGray.ToString method
 
@@ -20,8 +23,7 @@ String representation of operator.
 
 ### See Also
 
-* class [SetGray](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetGray](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

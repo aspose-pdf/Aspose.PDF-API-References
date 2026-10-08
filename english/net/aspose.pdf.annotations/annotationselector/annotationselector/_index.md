@@ -1,10 +1,13 @@
 ---
-title: AnnotationSelector.AnnotationSelector
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationSelector constructor. Initializes new instance of the AnnotationSelector class
+title: "AnnotationSelector.AnnotationSelector"
+linktitle: "AnnotationSelector"
+articleTitle: "AnnotationSelector"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationSelector constructor. Initializes new instance of the AnnotationSelector class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/annotationselector/annotationselector/
+url: "/net/aspose.pdf.annotations/annotationselector/annotationselector/"
+product_version: "26.9"
 ---
 ## AnnotationSelector() {#constructor}
 
@@ -16,9 +19,9 @@ public AnnotationSelector()
 
 ### See Also
 
-* class [AnnotationSelector](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,9 +39,8 @@ public AnnotationSelector(Annotation annotation)
 
 ### See Also
 
-* class [Annotation](../../annotation/)
-* class [AnnotationSelector](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Annotation](../../annotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

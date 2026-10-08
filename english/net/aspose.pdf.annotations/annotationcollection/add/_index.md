@@ -1,12 +1,15 @@
 ---
-title: AnnotationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection method. Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly
+title: "AnnotationCollection.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationCollection method. Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly."
 type: docs
-weight: 70
-url: /net/aspose.pdf.annotations/annotationcollection/add/
+weight: 10
+url: "/net/aspose.pdf.annotations/annotationcollection/add/"
+product_version: "26.9"
 ---
-## Add(Annotation, bool) {#add_1}
+## Add(Annotation, bool) {#add}
 
 Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly.
 
@@ -21,14 +24,14 @@ public void Add(Annotation annotation, bool considerRotation)
 
 ### See Also
 
-* class [Annotation](../../annotation/)
-* class [AnnotationCollection](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(Annotation) {#add}
+## Add(Annotation) {#add_1}
 
 Adds annotation to the collection.
 
@@ -42,9 +45,8 @@ public void Add(Annotation annotation)
 
 ### See Also
 
-* class [Annotation](../../annotation/)
-* class [AnnotationCollection](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

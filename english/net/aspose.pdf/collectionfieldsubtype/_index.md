@@ -1,10 +1,13 @@
 ---
-title: Enum CollectionFieldSubtype
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.CollectionFieldSubtype enum. Represents the subtype parameter of a field in a sceme collection
+title: "CollectionFieldSubtype Enum"
+linktitle: "CollectionFieldSubtype"
+articleTitle: "CollectionFieldSubtype"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.CollectionFieldSubtype enum. Represents the subtype parameter of a field in a sceme collection."
 type: docs
-weight: 3150
-url: /net/aspose.pdf/collectionfieldsubtype/
+weight: 330
+url: "/net/aspose.pdf/collectionfieldsubtype/"
+product_version: "26.9"
 ---
 ## CollectionFieldSubtype enumeration
 
@@ -31,7 +34,6 @@ public enum CollectionFieldSubtype
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

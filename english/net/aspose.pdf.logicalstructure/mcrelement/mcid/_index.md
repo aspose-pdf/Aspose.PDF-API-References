@@ -1,10 +1,13 @@
 ---
-title: MCRElement.MCID
-second_title: Aspose.PDF for .NET API Reference
-description: MCRElement property. Gets MCID of markedcontent reference object
+title: "MCRElement.MCID"
+linktitle: "MCID"
+articleTitle: "MCID"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MCRElement property. Gets MCID of marked-content reference object."
 type: docs
-weight: 10
-url: /net/aspose.pdf.logicalstructure/mcrelement/mcid/
+weight: 70
+url: "/net/aspose.pdf.logicalstructure/mcrelement/mcid/"
+product_version: "26.9"
 ---
 ## MCRElement.MCID property
 
@@ -20,8 +23,7 @@ MCID of marked-content reference object.
 
 ### See Also
 
-* class [MCRElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

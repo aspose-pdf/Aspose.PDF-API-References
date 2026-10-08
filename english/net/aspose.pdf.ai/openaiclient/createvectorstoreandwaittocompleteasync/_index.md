@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.CreateVectorStoreAndWaitToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Creates a new vector store and waits for it to complete asynchronously
+title: "OpenAIClient.CreateVectorStoreAndWaitToCompleteAsync"
+linktitle: "CreateVectorStoreAndWaitToCompleteAsync"
+articleTitle: "CreateVectorStoreAndWaitToCompleteAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Creates a new vector store and waits for it to complete asynchronously."
 type: docs
-weight: 90
-url: /net/aspose.pdf.ai/openaiclient/createvectorstoreandwaittocompleteasync/
+weight: 160
+url: "/net/aspose.pdf.ai/openaiclient/createvectorstoreandwaittocompleteasync/"
+product_version: "26.9"
 ---
 ## OpenAIClient.CreateVectorStoreAndWaitToCompleteAsync method
 
@@ -27,10 +30,9 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [VectorStoreResponse](../../vectorstoreresponse/)
-* class [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

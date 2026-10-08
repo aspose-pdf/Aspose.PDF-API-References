@@ -1,10 +1,13 @@
 ---
-title: PdfViewer.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer method. Disposes the facade resources
+title: "PdfViewer.Dispose"
+linktitle: "Dispose"
+articleTitle: "Dispose"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Disposes the facade resources."
 type: docs
-weight: 290
-url: /net/aspose.pdf.facades/pdfviewer/dispose/
+weight: 320
+url: "/net/aspose.pdf.facades/pdfviewer/dispose/"
+product_version: "26.9"
 ---
 ## PdfViewer.Dispose method
 
@@ -16,8 +19,7 @@ public void Dispose()
 
 ### See Also
 
-* class [PdfViewer](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

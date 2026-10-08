@@ -1,14 +1,19 @@
 ---
-title: HtmlSaveOptions.RasterImagesSavingMode
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions field. Converted PDF can contain raster images This parameter defines how they should be handled during conversion of PDF to HTML
+title: "HtmlSaveOptions.RasterImagesSavingMode"
+linktitle: "RasterImagesSavingMode"
+articleTitle: "RasterImagesSavingMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. Converted PDF can contain raster images This parameter defines how they should be handled during conversion of PDF to HTML"
 type: docs
-weight: 400
-url: /net/aspose.pdf/htmlsaveoptions/rasterimagessavingmode/
+weight: 450
+url: "/net/aspose.pdf/htmlsaveoptions/rasterimagessavingmode/"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.RasterImagesSavingMode field
 
-Converted PDF can contain raster images This parameter defines how they should be handled during conversion of PDF to HTML
+Converted PDF can contain raster images
+ This parameter defines how they should be handled
+ during conversion of PDF to HTML
 
 ```csharp
 public RasterImagesSavingModes RasterImagesSavingMode;
@@ -16,9 +21,8 @@ public RasterImagesSavingModes RasterImagesSavingMode;
 
 ### See Also
 
-* enum [RasterImagesSavingModes](../../htmlsaveoptions.rasterimagessavingmodes/)
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [RasterImagesSavingModes](../../htmlsaveoptions.rasterimagessavingmodes/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

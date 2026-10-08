@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.TryExtract
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Extracts pages from input filesaves as a new Pdf file
+title: "PdfFileEditor.TryExtract"
+linktitle: "TryExtract"
+articleTitle: "TryExtract"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Extracts pages from input file,saves as a new Pdf file."
 type: docs
-weight: 410
-url: /net/aspose.pdf.facades/pdffileeditor/tryextract/
+weight: 140
+url: "/net/aspose.pdf.facades/pdffileeditor/tryextract/"
+product_version: "26.9"
 ---
-## TryExtract(string, int, int, string) {#tryextract_1}
+## TryExtract(string, int, int, string) {#tryextract}
 
 Extracts pages from input file,saves as a new Pdf file.
 
@@ -27,7 +30,8 @@ True for success, or false.
 
 ## Remarks
 
-The TryExtract method is like the Extract method, except the TryExtract method does not throw an exception if the operation fails.
+The TryExtract method is like the Extract method, except the TryExtract 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -38,13 +42,13 @@ bool result = pfe.TryExtract("input.pdf", 3, 7, "output.pdf");
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryExtract(string, int[], string) {#tryextract_2}
+## TryExtract(string, int[], string) {#tryextract_1}
 
 Extracts pages specified by number array, saves as a new PDF file.
 
@@ -64,7 +68,8 @@ true if operation completed successfully; otherwise, false.
 
 ## Remarks
 
-The TryExtract method is like the Extract method, except the TryExtract method does not throw an exception if the operation fails.
+The TryExtract method is like the Extract method, except the TryExtract 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -75,13 +80,13 @@ bool result = pfe.TryExtract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryExtract(Stream, int[], Stream) {#tryextract}
+## TryExtract(Stream, int[], Stream) {#tryextract_2}
 
 Extracts pages specified by number array, saves as a new Pdf file.
 
@@ -101,7 +106,8 @@ True for success, or false.
 
 ## Remarks
 
-The TryExtract method is like the Extract method, except the TryExtract method does not throw an exception if the operation fails.
+The TryExtract method is like the Extract method, except the TryExtract 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -114,8 +120,7 @@ bool result = pfe.TryExtract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

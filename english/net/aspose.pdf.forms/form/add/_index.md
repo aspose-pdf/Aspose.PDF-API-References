@@ -1,12 +1,15 @@
 ---
-title: Form.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Adds field on the form
+title: "Form.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Adds field on the form."
 type: docs
-weight: 210
-url: /net/aspose.pdf.forms/form/add/
+weight: 60
+url: "/net/aspose.pdf.forms/form/add/"
+product_version: "26.9"
 ---
-## Add(Field, int) {#add_2}
+## Add(Field, int) {#add}
 
 Adds field on the form.
 
@@ -21,10 +24,10 @@ public void Add(Field field, int pageNumber)
 
 ### See Also
 
-* class [Field](../../field/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [Field](../../field/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -42,14 +45,14 @@ public void Add(Field field)
 
 ### See Also
 
-* class [Field](../../field/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [Field](../../field/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(Field, string, int) {#add}
+## Add(Field, string, int) {#add_2}
 
 Adds new field to the form; If this field is already placed on other or this form, the copy of field is created.
 
@@ -69,9 +72,8 @@ Added field returned. If copy of the field was created it will be returned.
 
 ### See Also
 
-* class [Field](../../field/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Field](../../field/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

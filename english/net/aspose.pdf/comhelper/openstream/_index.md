@@ -1,10 +1,13 @@
 ---
-title: ComHelper.OpenStream
-second_title: Aspose.PDF for .NET API Reference
-description: ComHelper method. Initialize and return new Document instance from the input stream
+title: "ComHelper.OpenStream"
+linktitle: "OpenStream"
+articleTitle: "OpenStream"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ComHelper method. Initialize and return new Document instance from the input stream."
 type: docs
-weight: 30
-url: /net/aspose.pdf/comhelper/openstream/
+weight: 20
+url: "/net/aspose.pdf/comhelper/openstream/"
+product_version: "26.9"
 ---
 ## OpenStream(Stream) {#openstream}
 
@@ -24,14 +27,14 @@ Document object
 
 ### See Also
 
-* class [Document](../../document/)
-* class [ComHelper](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## OpenStream(Stream, string) {#openstream_3}
+## OpenStream(Stream, string) {#openstream_1}
 
 Initialize and return new Document instance from the *input* stream.
 
@@ -50,14 +53,14 @@ Document object
 
 ### See Also
 
-* class [Document](../../document/)
-* class [ComHelper](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## OpenStream(Stream, bool) {#openstream_2}
+## OpenStream(Stream, bool) {#openstream_2}
 
 Initialize and return new Document instance from the *input* stream.
 
@@ -76,14 +79,14 @@ Document object
 
 ### See Also
 
-* class [Document](../../document/)
-* class [ComHelper](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## OpenStream(Stream, string, bool) {#openstream_4}
+## OpenStream(Stream, string, bool) {#openstream_3}
 
 Initialize and return new Document instance from the *input* stream.
 
@@ -103,14 +106,14 @@ Document object
 
 ### See Also
 
-* class [Document](../../document/)
-* class [ComHelper](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## OpenStream(Stream, LoadOptions) {#openstream_1}
+## OpenStream(Stream, LoadOptions) {#openstream_4}
 
 Open and return an existing document from a stream providing necessary converting to get pdf document.
 
@@ -129,10 +132,9 @@ Document object
 
 ### See Also
 
-* class [Document](../../document/)
-* class [LoadOptions](../../loadoptions/)
-* class [ComHelper](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../document/)
+* class [LoadOptions](../../loadoptions/)
+* class [ComHelper](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

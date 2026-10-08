@@ -1,14 +1,18 @@
 ---
-title: Artifact.ArtifactVerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact property. Vertical alignment of artifact. If position is specified explicitly in Position property this value is ignored
+title: "Artifact.ArtifactVerticalAlignment"
+linktitle: "ArtifactVerticalAlignment"
+articleTitle: "ArtifactVerticalAlignment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact property. Vertical alignment of artifact. If position is specified explicitly (in Position property) this value is ignored."
 type: docs
-weight: 30
-url: /net/aspose.pdf/artifact/artifactverticalalignment/
+weight: 290
+url: "/net/aspose.pdf/artifact/artifactverticalalignment/"
+product_version: "26.9"
 ---
 ## Artifact.ArtifactVerticalAlignment property
 
-Vertical alignment of artifact. If position is specified explicitly (in Position property) this value is ignored.
+Vertical alignment of artifact. 
+ If position is specified explicitly (in Position property) this value is ignored.
 
 ```csharp
 public VerticalAlignment ArtifactVerticalAlignment { get; set; }
@@ -16,9 +20,8 @@ public VerticalAlignment ArtifactVerticalAlignment { get; set; }
 
 ### See Also
 
-* enum [VerticalAlignment](../../verticalalignment/)
-* class [Artifact](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [VerticalAlignment](../../verticalalignment/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

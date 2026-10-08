@@ -1,14 +1,18 @@
 ---
-title: PdfFileSignature.Certify
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature method. Certify the document with the MDP signature. Such data as signature reason contact and location must be provided by corresponding properties of the Signature object sig
+title: "PdfFileSignature.Certify"
+linktitle: "Certify"
+articleTitle: "Certify"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Certify the document with the MDP signature. Such data as signature reason, contact and location must be provided by corresponding p..."
 type: docs
-weight: 70
-url: /net/aspose.pdf.facades/pdffilesignature/certify/
+weight: 140
+url: "/net/aspose.pdf.facades/pdffilesignature/certify/"
+product_version: "26.9"
 ---
-## Certify(int, string, string, string, bool, Rectangle, DocMDPSignature) {#certify}
+## Certify(int, string, string, string, bool, Rectangle, DocMDPSignature) {#certify}
 
-Certify the document with the MDP signature. Such data as signature reason, contact and location must be provided by corresponding properties of the Signature object sig.
+Certify the document with the MDP signature.
+ Such data as signature reason, contact and location must be provided by corresponding properties of the Signature object sig.
 
 ```csharp
 public void Certify(int page, string SigReason, string SigContact, string SigLocation, 
@@ -27,16 +31,19 @@ public void Certify(int page, string SigReason, string SigContact, string SigLoc
 
 ### See Also
 
-* class [DocMDPSignature](../../../aspose.pdf.forms/docmdpsignature/)
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [DocMDPSignature](../../../aspose.pdf.forms/docmdpsignature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Certify(string, DocMDPSignature) {#certify_1}
+## Certify(string, DocMDPSignature) {#certify_1}
 
-Certify the document with the MDP signature which is placed in already presented signature field. Before signing signature field must be empty, i.e. field must not contain signature dictionary. Thus pdf document already has signature field, you should not supply the place to stamp the signature, corresponding page and rectangle are taken from signature field which is found by signature name (see sigName parameter).
+Certify the document with the MDP signature which is placed in already presented signature field.
+ Before signing signature field must be empty, i.e. field must not contain signature dictionary.
+ Thus pdf document already has signature field, you should not supply the place to stamp the signature,
+ corresponding page and rectangle are taken from signature field which is found by signature name (see sigName parameter).
 
 ```csharp
 public void Certify(string sigName, DocMDPSignature docMdpSignature)
@@ -49,9 +56,8 @@ public void Certify(string sigName, DocMDPSignature docMdpSignature)
 
 ### See Also
 
-* class [DocMDPSignature](../../../aspose.pdf.forms/docmdpsignature/)
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocMDPSignature](../../../aspose.pdf.forms/docmdpsignature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ViewerPreference.PageModeUseThumbs
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference field. Thumbnail images visible
+title: "ViewerPreference.PageModeUseThumbs"
+linktitle: "PageModeUseThumbs"
+articleTitle: "PageModeUseThumbs"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Thumbnail images visible."
 type: docs
-weight: 250
-url: /net/aspose.pdf.facades/viewerpreference/pagemodeusethumbs/
+weight: 110
+url: "/net/aspose.pdf.facades/viewerpreference/pagemodeusethumbs/"
+product_version: "26.9"
 ---
 ## ViewerPreference.PageModeUseThumbs field
 
@@ -16,8 +19,7 @@ public const int PageModeUseThumbs;
 
 ### See Also
 
-* class [ViewerPreference](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

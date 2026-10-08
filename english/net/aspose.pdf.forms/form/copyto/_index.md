@@ -1,10 +1,13 @@
 ---
-title: Form.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Copies fields placed on the form into array
+title: "Form.CopyTo"
+linktitle: "CopyTo"
+articleTitle: "CopyTo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Copies fields placed on the form into array."
 type: docs
-weight: 240
-url: /net/aspose.pdf.forms/form/copyto/
+weight: 10
+url: "/net/aspose.pdf.forms/form/copyto/"
+product_version: "26.9"
 ---
 ## Form.CopyTo method
 
@@ -21,9 +24,8 @@ public void CopyTo(Field[] array, int index)
 
 ### See Also
 
-* class [Field](../../field/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Field](../../field/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

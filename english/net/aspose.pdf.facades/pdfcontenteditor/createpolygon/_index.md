@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.CreatePolygon
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates polygon annotation
+title: "PdfContentEditor.CreatePolygon"
+linktitle: "CreatePolygon"
+articleTitle: "CreatePolygon"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates polygon annotation."
 type: docs
-weight: 230
-url: /net/aspose.pdf.facades/pdfcontenteditor/createpolygon/
+weight: 330
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createpolygon/"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreatePolygon method
 
@@ -35,9 +38,8 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [LineInfo](../../lineinfo/)
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LineInfo](../../lineinfo/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TableOptions.AddTable
-second_title: Aspose.PDF for .NET API Reference
-description: TableOptions method. Adding table to document
+title: "TableOptions.AddTable"
+linktitle: "AddTable"
+articleTitle: "AddTable"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableOptions method. Adding table to document."
 type: docs
-weight: 30
-url: /net/aspose.pdf.lowcode/tableoptions/addtable/
+weight: 40
+url: "/net/aspose.pdf.lowcode/tableoptions/addtable/"
+product_version: "26.9"
 ---
 ## TableOptions.AddTable method
 
@@ -20,9 +23,8 @@ New instance of [`TableBuilder`](../../tablebuilder/).
 
 ### See Also
 
-* class [TableBuilder](../../tablebuilder/)
-* class [TableOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TableBuilder](../../tablebuilder/)
+* class [TableOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TextExtractor.TextExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractor constructor. The default constructor
+title: "TextExtractor.TextExtractor"
+linktitle: "TextExtractor"
+articleTitle: "TextExtractor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextExtractor constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/textextractor/textextractor/
+url: "/net/aspose.pdf.lowcode/textextractor/textextractor/"
+product_version: "26.9"
 ---
 ## TextExtractor constructor
 
@@ -16,8 +19,7 @@ public TextExtractor()
 
 ### See Also
 
-* class [TextExtractor](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextExtractor](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

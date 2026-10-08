@@ -1,12 +1,15 @@
 ---
-title: DictionaryEditor.Add
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor method. Set ICosPdfPrimitive to dictionary
+title: "DictionaryEditor.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DictionaryEditor method. Set ICosPdfPrimitive to dictionary."
 type: docs
-weight: 80
-url: /net/aspose.pdf.dataeditor/dictionaryeditor/add/
+weight: 70
+url: "/net/aspose.pdf.dataeditor/dictionaryeditor/add/"
+product_version: "26.9"
 ---
-## Add(string, ICosPdfPrimitive) {#add_1}
+## Add(string, ICosPdfPrimitive) {#add}
 
 Set [`ICosPdfPrimitive`](../../icospdfprimitive/) to dictionary.
 
@@ -27,14 +30,14 @@ public void Add(string key, ICosPdfPrimitive value)
 
 ### See Also
 
-* interface [ICosPdfPrimitive](../../icospdfprimitive/)
-* class [DictionaryEditor](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(KeyValuePair&lt;string, ICosPdfPrimitive&gt;) {#add}
+## Add(KeyValuePair&lt;string, ICosPdfPrimitive&gt;) {#add_1}
 
 Set [`ICosPdfPrimitive`](../../icospdfprimitive/) to dictionary.
 
@@ -54,9 +57,8 @@ public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
 
 ### See Also
 
-* interface [ICosPdfPrimitive](../../icospdfprimitive/)
-* class [DictionaryEditor](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

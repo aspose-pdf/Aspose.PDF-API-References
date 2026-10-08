@@ -1,10 +1,13 @@
 ---
-title: StructureAttributeCollection.CreateAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttributeCollection method. Create and return StructureAttributes of structure element by standard attribute owner
+title: "StructureAttributeCollection.CreateAttributes"
+linktitle: "CreateAttributes"
+articleTitle: "CreateAttributes"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureAttributeCollection method. Create and return StructureAttributes of structure element by standard attribute owner."
 type: docs
-weight: 10
-url: /net/aspose.pdf.logicalstructure/structureattributecollection/createattributes/
+weight: 20
+url: "/net/aspose.pdf.logicalstructure/structureattributecollection/createattributes/"
+product_version: "26.9"
 ---
 ## StructureAttributeCollection.CreateAttributes method
 
@@ -24,10 +27,9 @@ public StructureAttributes CreateAttributes(AttributeOwnerStandard ownerStandard
 
 ### See Also
 
-* class [StructureAttributes](../../structureattributes/)
-* class [AttributeOwnerStandard](../../attributeownerstandard/)
-* class [StructureAttributeCollection](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureAttributes](../../structureattributes/)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureAttributeCollection](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

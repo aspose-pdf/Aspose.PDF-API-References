@@ -1,10 +1,13 @@
 ---
-title: SquareAnnotation.SquareAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: SquareAnnotation constructor. Constructor for using with Generator
+title: "SquareAnnotation.SquareAnnotation"
+linktitle: "SquareAnnotation"
+articleTitle: "SquareAnnotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SquareAnnotation constructor. Constructor for using with Generator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/squareannotation/squareannotation/
+url: "/net/aspose.pdf.annotations/squareannotation/squareannotation/"
+product_version: "26.9"
 ---
 ## SquareAnnotation(Document) {#constructor}
 
@@ -20,14 +23,14 @@ public SquareAnnotation(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [SquareAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [SquareAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SquareAnnotation(Page, Rectangle) {#constructor_1}
+## SquareAnnotation(Page, Rectangle) {#constructor_1}
 
 Creates new Square annotation on the specified page.
 
@@ -42,10 +45,9 @@ public SquareAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [SquareAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SquareAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

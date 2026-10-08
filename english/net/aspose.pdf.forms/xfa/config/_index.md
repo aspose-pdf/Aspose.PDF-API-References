@@ -1,10 +1,13 @@
 ---
-title: XFA.Config
-second_title: Aspose.PDF for .NET API Reference
-description: XFA property. XFA Config component of an XFA form
+title: "XFA.Config"
+linktitle: "Config"
+articleTitle: "Config"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFA property. XFA Config component of an XFA form."
 type: docs
-weight: 10
-url: /net/aspose.pdf.forms/xfa/config/
+weight: 70
+url: "/net/aspose.pdf.forms/xfa/config/"
+product_version: "26.9"
 ---
 ## XFA.Config property
 
@@ -16,8 +19,7 @@ public XmlNode Config { get; }
 
 ### See Also
 
-* class [XFA](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

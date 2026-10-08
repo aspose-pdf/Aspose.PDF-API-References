@@ -1,10 +1,14 @@
 ---
-title: Class FormEditorSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.FormEditorSetOptions class. Represents options for set fields not annotations properties
+title: "FormEditorSetOptions Class"
+linktitle: "FormEditorSetOptions"
+articleTitle: "FormEditorSetOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormEditorSetOptions class. Represents options for set fields (not annotations) properties."
 type: docs
-weight: 7240
-url: /net/aspose.pdf.lowcode/formeditorsetoptions/
+weight: 190
+url: "/net/aspose.pdf.lowcode/formeditorsetoptions/"
+keywords: "FormEditorSetOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## FormEditorSetOptions class
 
@@ -18,14 +22,14 @@ public sealed class FormEditorSetOptions : FormEditorOptions
 
 | Name | Description |
 | --- | --- |
-| [FormEditorSetOptions](formeditorsetoptions/)(SelectField, FormFieldSetOptions) | Initializes a new instance of the `FormEditorSetOptions` object, in which the values assigned to the properties of the field are specified. |
+| [FormEditorSetOptions](formeditorsetoptions/)(SelectField, FormFieldSetOptions) | Initializes a new instance of the `FormEditorSetOptions` object, in which the values assigned to the properties of the field are specified. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Inputs](../../aspose.pdf.lowcode/formoptions/inputs/) { get; } | Returns Form.... plugins data collection. |
-| [Outputs](../../aspose.pdf.lowcode/formoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
+| [Inputs](../../aspose.pdf.lowcode/formoptions/inputs/) { get; } | Returns Form.... plugins data collection. |
+| [Outputs](../../aspose.pdf.lowcode/formoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
@@ -36,8 +40,7 @@ public sealed class FormEditorSetOptions : FormEditorOptions
 
 ### See Also
 
-* class [FormEditorOptions](../formeditoroptions/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* class [FormEditorOptions](../formeditoroptions/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

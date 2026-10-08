@@ -1,10 +1,13 @@
 ---
-title: PrinterResolution.PrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterResolution constructor. Initializes a new instance of the PrinterResolution class with default properties
+title: "PrinterResolution.PrinterResolution"
+linktitle: "PrinterResolution"
+articleTitle: "PrinterResolution"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterResolution constructor. Initializes a new instance of the PrinterResolution class with default properties."
 type: docs
 weight: 10
-url: /net/aspose.pdf.printing/printerresolution/printerresolution/
+url: "/net/aspose.pdf.printing/printerresolution/printerresolution/"
+product_version: "26.9"
 ---
 ## PrinterResolution constructor
 
@@ -16,8 +19,7 @@ public PrinterResolution()
 
 ### See Also
 
-* class [PrinterResolution](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrinterResolution](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

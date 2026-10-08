@@ -1,10 +1,13 @@
 ---
-title: StructureElement.ChangeParentElement
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement method. Change parent element for current structure element
+title: "StructureElement.ChangeParentElement"
+linktitle: "ChangeParentElement"
+articleTitle: "ChangeParentElement"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureElement method. Change parent element for current structure element"
 type: docs
-weight: 110
-url: /net/aspose.pdf.logicalstructure/structureelement/changeparentelement/
+weight: 10
+url: "/net/aspose.pdf.logicalstructure/structureelement/changeparentelement/"
+product_version: "26.9"
 ---
 ## StructureElement.ChangeParentElement method
 
@@ -22,8 +25,7 @@ public void ChangeParentElement(StructureElement newParentElement,
 
 ### See Also
 
-* class [StructureElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TextBoxField.ForceCombs
-second_title: Aspose.PDF for .NET API Reference
-description: TextBoxField property. Gets or sets flag which indicates is field divided into spaced positions
+title: "TextBoxField.ForceCombs"
+linktitle: "ForceCombs"
+articleTitle: "ForceCombs"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextBoxField property. Gets or sets flag which indicates is field divided into spaced positions."
 type: docs
-weight: 20
-url: /net/aspose.pdf.forms/textboxfield/forcecombs/
+weight: 100
+url: "/net/aspose.pdf.forms/textboxfield/forcecombs/"
+product_version: "26.9"
 ---
 ## TextBoxField.ForceCombs property
 
@@ -16,8 +19,7 @@ public bool ForceCombs { get; set; }
 
 ### See Also
 
-* class [TextBoxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: FormEditor.SetSubmitFlag
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Set submit flag of submit button
+title: "FormEditor.SetSubmitFlag"
+linktitle: "SetSubmitFlag"
+articleTitle: "SetSubmitFlag"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Set submit flag of submit button."
 type: docs
-weight: 330
-url: /net/aspose.pdf.facades/formeditor/setsubmitflag/
+weight: 60
+url: "/net/aspose.pdf.facades/formeditor/setsubmitflag/"
+product_version: "26.9"
 ---
 ## FormEditor.SetSubmitFlag method
 
@@ -32,9 +35,8 @@ formEditor.SetSubmitFlag("btnSubmit", SubmitFormFlag.Fdf);
 
 ### See Also
 
-* enum [SubmitFormFlag](../../submitformflag/)
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [SubmitFormFlag](../../submitformflag/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

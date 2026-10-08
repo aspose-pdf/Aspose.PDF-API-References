@@ -1,10 +1,13 @@
 ---
-title: Enum PdfFileEditor.ConcatenateCorruptedFileAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PdfFileEditorConcatenateCorruptedFileAction enum. Action performed when corrupted file was met in concatenation process
+title: "PdfFileEditor.ConcatenateCorruptedFileAction Enum"
+linktitle: "PdfFileEditor.ConcatenateCorruptedFileAction"
+articleTitle: "PdfFileEditor.ConcatenateCorruptedFileAction"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.PdfFileEditor.ConcatenateCorruptedFileAction enum. Action performed when corrupted file was met in concatenation process."
 type: docs
-weight: 4630
-url: /net/aspose.pdf.facades/pdffileeditor.concatenatecorruptedfileaction/
+weight: 350
+url: "/net/aspose.pdf.facades/pdffileeditor.concatenatecorruptedfileaction/"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ConcatenateCorruptedFileAction enumeration
 
@@ -24,8 +27,7 @@ public enum ConcatenateCorruptedFileAction
 
 ### See Also
 
-* class [PdfFileEditor](../pdffileeditor/)
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfFileEditor](../pdffileeditor/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

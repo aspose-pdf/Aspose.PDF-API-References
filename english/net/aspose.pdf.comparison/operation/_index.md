@@ -1,10 +1,13 @@
 ---
-title: Enum Operation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.Operation enum. Represents a difference operation type
+title: "Operation Enum"
+linktitle: "Operation"
+articleTitle: "Operation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.Operation enum. Represents a difference operation type."
 type: docs
-weight: 3380
-url: /net/aspose.pdf.comparison/operation/
+weight: 150
+url: "/net/aspose.pdf.comparison/operation/"
+product_version: "26.9"
 ---
 ## Operation enumeration
 
@@ -24,7 +27,6 @@ public enum Operation
 
 ### See Also
 
-* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
 

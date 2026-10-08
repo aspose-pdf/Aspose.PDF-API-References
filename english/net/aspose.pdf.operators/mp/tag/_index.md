@@ -1,10 +1,13 @@
 ---
-title: MP.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: MP property. Gets or sets marked content tag
+title: "MP.Tag"
+linktitle: "Tag"
+articleTitle: "Tag"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MP property. Gets or sets marked content tag"
 type: docs
-weight: 20
-url: /net/aspose.pdf.operators/mp/tag/
+weight: 30
+url: "/net/aspose.pdf.operators/mp/tag/"
+product_version: "26.9"
 ---
 ## MP.Tag property
 
@@ -16,8 +19,7 @@ public string Tag { get; set; }
 
 ### See Also
 
-* class [MP](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MP](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

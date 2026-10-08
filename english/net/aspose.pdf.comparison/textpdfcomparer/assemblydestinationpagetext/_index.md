@@ -1,10 +1,13 @@
 ---
-title: TextPdfComparer.AssemblyDestinationPageText
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer method. Restores changed text from the list of changes
+title: "TextPdfComparer.AssemblyDestinationPageText"
+linktitle: "AssemblyDestinationPageText"
+articleTitle: "AssemblyDestinationPageText"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextPdfComparer method. Restores changed text from the list of changes."
 type: docs
-weight: 20
-url: /net/aspose.pdf.comparison/textpdfcomparer/assemblydestinationpagetext/
+weight: 100
+url: "/net/aspose.pdf.comparison/textpdfcomparer/assemblydestinationpagetext/"
+product_version: "26.9"
 ---
 ## TextPdfComparer.AssemblyDestinationPageText method
 
@@ -24,9 +27,8 @@ Original text.
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [TextPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DiffOperation](../../diffoperation/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: CosPdfDictionary.CreateEmptyDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary method. Creates an empty dictionary that will be attached to the page
+title: "CosPdfDictionary.CreateEmptyDictionary"
+linktitle: "CreateEmptyDictionary"
+articleTitle: "CreateEmptyDictionary"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfDictionary method. Creates an empty dictionary that will be attached to the page."
 type: docs
 weight: 20
-url: /net/aspose.pdf.dataeditor/cospdfdictionary/createemptydictionary/
+url: "/net/aspose.pdf.dataeditor/cospdfdictionary/createemptydictionary/"
+product_version: "26.9"
 ---
-## CreateEmptyDictionary(Page) {#createemptydictionary_1}
+## CreateEmptyDictionary(Page) {#createemptydictionary}
 
 Creates an empty dictionary that will be attached to the page.
 
@@ -30,14 +33,14 @@ An empty dictionary.
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [CosPdfDictionary](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* class [Page](../../../aspose.pdf/page/)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateEmptyDictionary(Document) {#createemptydictionary}
+## CreateEmptyDictionary(Document) {#createemptydictionary_1}
 
 Creates an empty dictionary that will be attached to the document.
 
@@ -61,9 +64,8 @@ An empty dictionary.
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [CosPdfDictionary](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CosPdfDictionary](../)
+* class [Document](../../../aspose.pdf/document/)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

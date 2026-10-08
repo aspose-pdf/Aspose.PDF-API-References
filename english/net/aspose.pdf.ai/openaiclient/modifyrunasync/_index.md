@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.ModifyRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Modifies an existing run within a thread asynchronously
+title: "OpenAIClient.ModifyRunAsync"
+linktitle: "ModifyRunAsync"
+articleTitle: "ModifyRunAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Modifies an existing run within a thread asynchronously."
 type: docs
-weight: 410
-url: /net/aspose.pdf.ai/openaiclient/modifyrunasync/
+weight: 490
+url: "/net/aspose.pdf.ai/openaiclient/modifyrunasync/"
+product_version: "26.9"
 ---
 ## OpenAIClient.ModifyRunAsync method
 
@@ -35,10 +38,9 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [RunResponse](../../runresponse/)
-* class [RunModifyRequest](../../runmodifyrequest/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RunResponse](../../runresponse/)
+* class [RunModifyRequest](../../runmodifyrequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

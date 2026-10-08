@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.TryResizeContents
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Resizes contents of pages of the document
+title: "PdfFileEditor.TryResizeContents"
+linktitle: "TryResizeContents"
+articleTitle: "TryResizeContents"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Resizes contents of pages of the document."
 type: docs
-weight: 450
-url: /net/aspose.pdf.facades/pdffileeditor/tryresizecontents/
+weight: 370
+url: "/net/aspose.pdf.facades/pdffileeditor/tryresizecontents/"
+product_version: "26.9"
 ---
-## TryResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#tryresizecontents}
+## TryResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#tryresizecontents}
 
 Resizes contents of pages of the document.
 
@@ -28,7 +31,8 @@ Returns true if success.
 
 ## Remarks
 
-The TryResizeContents method is like the ResizeContents method, except the TryResizeContents method does not throw an exception if the operation fails.
+The TryResizeContents method is like the ResizeContents method, except the TryResizeContents 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -56,16 +60,18 @@ dest.Close();
 
 ### See Also
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryResizeContents(Stream, Stream, int[], double, double) {#tryresizecontents_1}
+## TryResizeContents(Stream, Stream, int[], double, double) {#tryresizecontents_1}
 
-Resizes contents of document pages. Shrinks contents of page and adds margins. New size of contents is specified in default space units.
+Resizes contents of document pages. 
+ Shrinks contents of page and adds margins.
+ New size of contents is specified in default space units.
 
 ```csharp
 public bool TryResizeContents(Stream source, Stream destination, int[] pages, double newWidth, 
@@ -86,7 +92,8 @@ true if operation completed successfully; otherwise, false.
 
 ## Remarks
 
-The TryResizeContents method is like the ResizeContents method, except the TryResizeContents method does not throw an exception if the operation fails.
+The TryResizeContents method is like the ResizeContents method, except the TryResizeContents 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -106,13 +113,13 @@ null,
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryResizeContents(string, string, int[], ContentsResizeParameters) {#tryresizecontents_2}
+## TryResizeContents(string, string, int[], ContentsResizeParameters) {#tryresizecontents_2}
 
 Resizes contents of pages in document. If page is shrinked blank margins are added around the page.
 
@@ -134,7 +141,8 @@ true if resize was successful.
 
 ## Remarks
 
-The TryResizeContents method is like the ResizeContents method, except the TryResizeContents method does not throw an exception if the operation fails.
+The TryResizeContents method is like the ResizeContents method, except the TryResizeContents 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -159,9 +167,8 @@ bool result = fileEditor.TryResizeContents("input.pdf", "output.pdf", new int[] 
 
 ### See Also
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

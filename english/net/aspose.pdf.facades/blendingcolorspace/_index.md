@@ -1,10 +1,13 @@
 ---
-title: Enum BlendingColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.BlendingColorSpace enum. Class represents blending color space
+title: "BlendingColorSpace Enum"
+linktitle: "BlendingColorSpace"
+articleTitle: "BlendingColorSpace"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.BlendingColorSpace enum. Class represents blending color space."
 type: docs
-weight: 4340
-url: /net/aspose.pdf.facades/blendingcolorspace/
+weight: 60
+url: "/net/aspose.pdf.facades/blendingcolorspace/"
+product_version: "26.9"
 ---
 ## BlendingColorSpace enumeration
 
@@ -25,7 +28,6 @@ public enum BlendingColorSpace
 
 ### See Also
 
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

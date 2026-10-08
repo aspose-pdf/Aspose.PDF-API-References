@@ -1,10 +1,13 @@
 ---
-title: LlamaChatCompletionResponse.Usage
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaChatCompletionResponse property. Gets or sets usage statistics for the completion request
+title: "LlamaChatCompletionResponse.Usage"
+linktitle: "Usage"
+articleTitle: "Usage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaChatCompletionResponse property. Gets or sets usage statistics for the completion request."
 type: docs
 weight: 80
-url: /net/aspose.pdf.ai/llamachatcompletionresponse/usage/
+url: "/net/aspose.pdf.ai/llamachatcompletionresponse/usage/"
+product_version: "26.9"
 ---
 ## LlamaChatCompletionResponse.Usage property
 
@@ -16,9 +19,8 @@ public Usage Usage { get; set; }
 
 ### See Also
 
-* class [Usage](../../usage/)
-* class [LlamaChatCompletionResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Usage](../../usage/)
+* class [LlamaChatCompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

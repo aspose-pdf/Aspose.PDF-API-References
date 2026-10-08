@@ -1,10 +1,13 @@
 ---
-title: PdfFileSignature.IsCertified
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature property. Gets the flag determining whether a document is certified or not
+title: "PdfFileSignature.IsCertified"
+linktitle: "IsCertified"
+articleTitle: "IsCertified"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature property. Gets the flag determining whether a document is certified or not."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/pdffilesignature/iscertified/
+weight: 490
+url: "/net/aspose.pdf.facades/pdffilesignature/iscertified/"
+product_version: "26.9"
 ---
 ## PdfFileSignature.IsCertified property
 
@@ -16,8 +19,7 @@ public bool IsCertified { get; }
 
 ### See Also
 
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

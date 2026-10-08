@@ -1,10 +1,13 @@
 ---
-title: Color.Lime
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FF00FF00
+title: "Color.Lime"
+linktitle: "Lime"
+articleTitle: "Lime"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FF00FF00."
 type: docs
-weight: 780
-url: /net/aspose.pdf/color/lime/
+weight: 950
+url: "/net/aspose.pdf/color/lime/"
+product_version: "26.9"
 ---
 ## Color.Lime property
 
@@ -20,8 +23,7 @@ A representing a system-defined color.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

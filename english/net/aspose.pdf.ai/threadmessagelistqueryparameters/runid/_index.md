@@ -1,10 +1,13 @@
 ---
-title: ThreadMessageListQueryParameters.RunId
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageListQueryParameters property. Filter messages by the run ID that generated them
+title: "ThreadMessageListQueryParameters.RunId"
+linktitle: "RunId"
+articleTitle: "RunId"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageListQueryParameters property. Filter messages by the run ID that generated them."
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/threadmessagelistqueryparameters/runid/
+weight: 30
+url: "/net/aspose.pdf.ai/threadmessagelistqueryparameters/runid/"
+product_version: "26.9"
 ---
 ## ThreadMessageListQueryParameters.RunId property
 
@@ -16,8 +19,7 @@ public string RunId { get; set; }
 
 ### See Also
 
-* class [ThreadMessageListQueryParameters](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ThreadMessageListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,19 @@
 ---
-title: TableAbsorber.TableAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: TableAbsorber constructor. Initializes a new instance of the TableAbsorber with text search options
+title: "TableAbsorber.TableAbsorber"
+linktitle: "TableAbsorber"
+articleTitle: "TableAbsorber"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableAbsorber constructor. Initializes a new instance of the TableAbsorber with text search options."
 type: docs
 weight: 10
-url: /net/aspose.pdf.text/tableabsorber/tableabsorber/
+url: "/net/aspose.pdf.text/tableabsorber/tableabsorber/"
+product_version: "26.9"
 ---
-## TableAbsorber(TextSearchOptions) {#constructor_1}
+## TableAbsorber(TextSearchOptions) {#constructor}
 
 Initializes a new instance of the [`TableAbsorber`](../) with text search options.
+
+Performs searching for tables and provides access to the tables via [`TableList`](../tablelist/) object.
 
 ```csharp
 public TableAbsorber(TextSearchOptions textSearchOptions)
@@ -18,35 +23,28 @@ public TableAbsorber(TextSearchOptions textSearchOptions)
 | --- | --- | --- |
 | textSearchOptions | TextSearchOptions | Text search options |
 
-## Remarks
-
-Performs searching for tables and provides access to the tables via [`TableList`](../tablelist/) object.
-
 ### See Also
 
-* class [TextSearchOptions](../../textsearchoptions/)
-* class [TableAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TableAbsorber() {#constructor}
+## TableAbsorber() {#constructor_1}
 
 Initializes a new instance of the [`TableAbsorber`](../).
+
+Performs searching for tables and provides access to the tables via [`TableList`](../tablelist/) object.
 
 ```csharp
 public TableAbsorber()
 ```
 
-## Remarks
-
-Performs searching for tables and provides access to the tables via [`TableList`](../tablelist/) object.
-
 ### See Also
 
-* class [TableAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

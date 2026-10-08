@@ -1,10 +1,13 @@
 ---
-title: Matrix.Skew
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix method. Creates matrix for given rotation angle
+title: "Matrix.Skew"
+linktitle: "Skew"
+articleTitle: "Skew"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix method. Creates matrix for given rotation angle."
 type: docs
-weight: 30
-url: /net/aspose.pdf/matrix/skew/
+weight: 100
+url: "/net/aspose.pdf/matrix/skew/"
+product_version: "26.9"
 ---
 ## Matrix.Skew method
 
@@ -31,8 +34,7 @@ Matrix m = Matrix.Skew(Math.PI / 2, Math.PI / 2);
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

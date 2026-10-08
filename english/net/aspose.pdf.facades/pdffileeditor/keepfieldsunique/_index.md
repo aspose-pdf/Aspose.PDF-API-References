@@ -1,14 +1,18 @@
 ---
-title: PdfFileEditor.KeepFieldsUnique
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor property. If true then field names will be made unique when forms are concatenated. Suffixes will be added to field names suffix template may be specified in UniqueSuffix property
+title: "PdfFileEditor.KeepFieldsUnique"
+linktitle: "KeepFieldsUnique"
+articleTitle: "KeepFieldsUnique"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. If true then field names will be made unique when forms are concatenated. Suffixes will be added to field names, suffix template may ..."
 type: docs
-weight: 120
-url: /net/aspose.pdf.facades/pdffileeditor/keepfieldsunique/
+weight: 1170
+url: "/net/aspose.pdf.facades/pdffileeditor/keepfieldsunique/"
+product_version: "26.9"
 ---
 ## PdfFileEditor.KeepFieldsUnique property
 
-If true then field names will be made unique when forms are concatenated. Suffixes will be added to field names, suffix template may be specified in UniqueSuffix property.
+If true then field names will be made unique when forms are concatenated.
+ Suffixes will be added to field names, suffix template may be specified in UniqueSuffix property.
 
 ```csharp
 public bool KeepFieldsUnique { get; set; }
@@ -16,8 +20,7 @@ public bool KeepFieldsUnique { get; set; }
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

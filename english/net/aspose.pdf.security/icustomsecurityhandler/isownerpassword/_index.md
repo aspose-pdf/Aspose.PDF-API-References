@@ -1,14 +1,18 @@
 ---
-title: ICustomSecurityHandler.IsOwnerPassword
-second_title: Aspose.PDF for .NET API Reference
-description: ICustomSecurityHandler method. Check if the password is the document owners password. The method is called after Initialize. The method call is used in the PDF API
+title: "ICustomSecurityHandler.IsOwnerPassword"
+linktitle: "IsOwnerPassword"
+articleTitle: "IsOwnerPassword"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ICustomSecurityHandler method. Check if the password is the document owner's password. The method is called after Initialize. The method call is used in the ..."
 type: docs
-weight: 130
-url: /net/aspose.pdf.security/icustomsecurityhandler/isownerpassword/
+weight: 80
+url: "/net/aspose.pdf.security/icustomsecurityhandler/isownerpassword/"
+product_version: "26.9"
 ---
 ## ICustomSecurityHandler.IsOwnerPassword method
 
-Check if the password is the document owner's password. The method is called after Initialize. The method call is used in the PDF API.
+Check if the password is the document owner's password.
+ The method is called after Initialize. The method call is used in the PDF API.
 
 ```csharp
 public bool IsOwnerPassword(string password)
@@ -24,8 +28,7 @@ True, if it is an owner password.
 
 ### See Also
 
-* interface [ICustomSecurityHandler](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [ICustomSecurityHandler](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 

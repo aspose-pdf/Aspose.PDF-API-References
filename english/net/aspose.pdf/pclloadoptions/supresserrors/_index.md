@@ -1,10 +1,13 @@
 ---
-title: PclLoadOptions.SupressErrors
-second_title: Aspose.PDF for .NET API Reference
-description: PclLoadOptions field. Gets or sets boolean value which indicates will PCL conversion errors should be supressed
+title: "PclLoadOptions.SupressErrors"
+linktitle: "SupressErrors"
+articleTitle: "SupressErrors"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PclLoadOptions field. Gets or sets boolean value which indicates will PCL conversion errors should be supressed."
 type: docs
-weight: 50
-url: /net/aspose.pdf/pclloadoptions/supresserrors/
+weight: 40
+url: "/net/aspose.pdf/pclloadoptions/supresserrors/"
+product_version: "26.9"
 ---
 ## PclLoadOptions.SupressErrors field
 
@@ -16,8 +19,7 @@ public bool SupressErrors;
 
 ### See Also
 
-* class [PclLoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PclLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

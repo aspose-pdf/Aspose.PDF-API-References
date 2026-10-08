@@ -1,10 +1,13 @@
 ---
-title: WidgetAnnotation.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation property. Gets the annotation actions
+title: "WidgetAnnotation.Actions"
+linktitle: "Actions"
+articleTitle: "Actions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WidgetAnnotation property. Gets the annotation actions."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/widgetannotation/actions/
+weight: 70
+url: "/net/aspose.pdf.annotations/widgetannotation/actions/"
+product_version: "26.9"
 ---
 ## WidgetAnnotation.Actions property
 
@@ -16,9 +19,8 @@ public AnnotationActionCollection Actions { get; }
 
 ### See Also
 
-* class [AnnotationActionCollection](../../annotationactioncollection/)
-* class [WidgetAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotationActionCollection](../../annotationactioncollection/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

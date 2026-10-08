@@ -1,10 +1,13 @@
 ---
-title: PdfExtractor.PdfExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor constructor. Initializes new PdfExtractor object
+title: "PdfExtractor.PdfExtractor"
+linktitle: "PdfExtractor"
+articleTitle: "PdfExtractor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor constructor. Initializes new PdfExtractor object."
 type: docs
 weight: 10
-url: /net/aspose.pdf.facades/pdfextractor/pdfextractor/
+url: "/net/aspose.pdf.facades/pdfextractor/pdfextractor/"
+product_version: "26.9"
 ---
 ## PdfExtractor() {#constructor}
 
@@ -16,9 +19,9 @@ public PdfExtractor()
 
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,9 +39,8 @@ public PdfExtractor(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

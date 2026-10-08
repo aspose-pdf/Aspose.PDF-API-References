@@ -1,10 +1,13 @@
 ---
-title: PdfPageEditor.RLWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor field. RightLeft Wipe
+title: "PdfPageEditor.RLWIPE"
+linktitle: "RLWIPE"
+articleTitle: "RLWIPE"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. Right-Left Wipe"
 type: docs
-weight: 280
-url: /net/aspose.pdf.facades/pdfpageeditor/rlwipe/
+weight: 300
+url: "/net/aspose.pdf.facades/pdfpageeditor/rlwipe/"
+product_version: "26.9"
 ---
 ## PdfPageEditor.RLWIPE field
 
@@ -16,8 +19,7 @@ public const int RLWIPE;
 
 ### See Also
 
-* class [PdfPageEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

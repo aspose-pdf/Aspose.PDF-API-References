@@ -1,10 +1,13 @@
 ---
-title: Document.OpenAction
-second_title: Aspose.PDF for .NET API Reference
-description: Document property. Gets or sets action performed at document opening
+title: "Document.OpenAction"
+linktitle: "OpenAction"
+articleTitle: "OpenAction"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets or sets action performed at document opening."
 type: docs
-weight: 410
-url: /net/aspose.pdf/document/openaction/
+weight: 1250
+url: "/net/aspose.pdf/document/openaction/"
+product_version: "26.9"
 ---
 ## Document.OpenAction property
 
@@ -25,9 +28,8 @@ IAppointment value = document.OpenAction;
 
 ### See Also
 
-* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

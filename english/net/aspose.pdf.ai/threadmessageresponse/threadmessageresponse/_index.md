@@ -1,10 +1,13 @@
 ---
-title: ThreadMessageResponse.ThreadMessageResponse
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageResponse constructor. The default constructor
+title: "ThreadMessageResponse.ThreadMessageResponse"
+linktitle: "ThreadMessageResponse"
+articleTitle: "ThreadMessageResponse"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageResponse constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/threadmessageresponse/threadmessageresponse/
+url: "/net/aspose.pdf.ai/threadmessageresponse/threadmessageresponse/"
+product_version: "26.9"
 ---
 ## ThreadMessageResponse constructor
 
@@ -16,8 +19,7 @@ public ThreadMessageResponse()
 
 ### See Also
 
-* class [ThreadMessageResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

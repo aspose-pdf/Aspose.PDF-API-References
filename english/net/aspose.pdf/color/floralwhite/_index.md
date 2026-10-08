@@ -1,10 +1,13 @@
 ---
-title: Color.FloralWhite
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FFFFFAF0
+title: "Color.FloralWhite"
+linktitle: "FloralWhite"
+articleTitle: "FloralWhite"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFFFFAF0."
 type: docs
-weight: 450
-url: /net/aspose.pdf/color/floralwhite/
+weight: 620
+url: "/net/aspose.pdf/color/floralwhite/"
+product_version: "26.9"
 ---
 ## Color.FloralWhite property
 
@@ -20,8 +23,7 @@ A representing a system-defined color.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

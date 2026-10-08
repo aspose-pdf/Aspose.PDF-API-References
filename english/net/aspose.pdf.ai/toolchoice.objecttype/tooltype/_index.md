@@ -1,10 +1,13 @@
 ---
-title: ToolChoice.ObjectType.ToolType
-second_title: Aspose.PDF for .NET API Reference
-description: ObjectType property. Gets or sets the type of the tool. Currently only function is supported
+title: "ToolChoice.ObjectType.ToolType"
+linktitle: "ToolType"
+articleTitle: "ToolType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ObjectType property. Gets or sets the type of the tool. Currently, only function is supported."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/toolchoice.objecttype/tooltype/
+weight: 20
+url: "/net/aspose.pdf.ai/toolchoice.objecttype/tooltype/"
+product_version: "26.9"
 ---
 ## ToolChoice.ObjectType.ToolType property
 
@@ -16,8 +19,7 @@ public string ToolType { get; set; }
 
 ### See Also
 
-* class [ObjectType](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ObjectType](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

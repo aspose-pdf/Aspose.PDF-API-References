@@ -1,10 +1,13 @@
 ---
-title: PrintController.OnStartPrint
-second_title: Aspose.PDF for .NET API Reference
-description: PrintController method. Fires on page start printing
+title: "PrintController.OnStartPrint"
+linktitle: "OnStartPrint"
+articleTitle: "OnStartPrint"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrintController method. Fires on page start printing."
 type: docs
-weight: 70
-url: /net/aspose.pdf/printcontroller/onstartprint/
+weight: 30
+url: "/net/aspose.pdf/printcontroller/onstartprint/"
+product_version: "26.9"
 ---
 ## PrintController.OnStartPrint method
 
@@ -21,8 +24,7 @@ public override void OnStartPrint(PrintDocument document, PrintEventArgs e)
 
 ### See Also
 
-* class [PrintController](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

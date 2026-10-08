@@ -1,10 +1,13 @@
 ---
-title: TextFragmentState.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState property. Gets or sets horizontal alignment for the text
+title: "TextFragmentState.HorizontalAlignment"
+linktitle: "HorizontalAlignment"
+articleTitle: "HorizontalAlignment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState property. Gets or sets horizontal alignment for the text."
 type: docs
-weight: 110
-url: /net/aspose.pdf.text/textfragmentstate/horizontalalignment/
+weight: 230
+url: "/net/aspose.pdf.text/textfragmentstate/horizontalalignment/"
+product_version: "26.9"
 ---
 ## TextFragmentState.HorizontalAlignment property
 
@@ -20,9 +23,8 @@ HorizontalAlignment.None is equal to HorizontalAlignment.Left. Note that TextFra
 
 ### See Also
 
-* enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
-* class [TextFragmentState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [HorizontalAlignment](../../../aspose.pdf/horizontalalignment/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

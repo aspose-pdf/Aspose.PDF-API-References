@@ -1,10 +1,13 @@
 ---
-title: BatesNArtifact.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: BatesNArtifact property. Gets or sets the prefix to be added to the Bates number
+title: "BatesNArtifact.Prefix"
+linktitle: "Prefix"
+articleTitle: "Prefix"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BatesNArtifact property. Gets or sets the prefix to be added to the Bates number."
 type: docs
-weight: 30
-url: /net/aspose.pdf/batesnartifact/prefix/
+weight: 40
+url: "/net/aspose.pdf/batesnartifact/prefix/"
+product_version: "26.9"
 ---
 ## BatesNArtifact.Prefix property
 
@@ -16,8 +19,7 @@ public string Prefix { get; set; }
 
 ### See Also
 
-* class [BatesNArtifact](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BatesNArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

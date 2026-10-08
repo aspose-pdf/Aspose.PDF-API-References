@@ -1,10 +1,13 @@
 ---
-title: XmpPdfAExtensionProperty.XmpPdfAExtensionProperty
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionProperty constructor. Initializes new object
+title: "XmpPdfAExtensionProperty.XmpPdfAExtensionProperty"
+linktitle: "XmpPdfAExtensionProperty"
+articleTitle: "XmpPdfAExtensionProperty"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionProperty constructor. Initializes new object."
 type: docs
 weight: 10
-url: /net/aspose.pdf/xmppdfaextensionproperty/xmppdfaextensionproperty/
+url: "/net/aspose.pdf/xmppdfaextensionproperty/xmppdfaextensionproperty/"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionProperty constructor
 
@@ -25,9 +28,8 @@ public XmpPdfAExtensionProperty(string name, string value, string valueType,
 
 ### See Also
 
-* enum [XmpPdfAExtensionCategoryType](../../xmppdfaextensioncategorytype/)
-* class [XmpPdfAExtensionProperty](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [XmpPdfAExtensionCategoryType](../../xmppdfaextensioncategorytype/)
+* class [XmpPdfAExtensionProperty](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

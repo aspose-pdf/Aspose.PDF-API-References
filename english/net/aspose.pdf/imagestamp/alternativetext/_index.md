@@ -1,10 +1,13 @@
 ---
-title: ImageStamp.AlternativeText
-second_title: Aspose.PDF for .NET API Reference
-description: ImageStamp property. Gets or sets Alternative Text for image stamp
+title: "ImageStamp.AlternativeText"
+linktitle: "AlternativeText"
+articleTitle: "AlternativeText"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageStamp property. Gets or sets Alternative Text for image stamp."
 type: docs
-weight: 20
-url: /net/aspose.pdf/imagestamp/alternativetext/
+weight: 100
+url: "/net/aspose.pdf/imagestamp/alternativetext/"
+product_version: "26.9"
 ---
 ## ImageStamp.AlternativeText property
 
@@ -16,8 +19,7 @@ public string AlternativeText { get; set; }
 
 ### See Also
 
-* class [ImageStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PdfBookmarkEditor.PdfBookmarkEditor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor constructor. Initializes new PdfBookmarkEditor object
+title: "PdfBookmarkEditor.PdfBookmarkEditor"
+linktitle: "PdfBookmarkEditor"
+articleTitle: "PdfBookmarkEditor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfBookmarkEditor constructor. Initializes new PdfBookmarkEditor object."
 type: docs
 weight: 10
-url: /net/aspose.pdf.facades/pdfbookmarkeditor/pdfbookmarkeditor/
+url: "/net/aspose.pdf.facades/pdfbookmarkeditor/pdfbookmarkeditor/"
+product_version: "26.9"
 ---
 ## PdfBookmarkEditor() {#constructor}
 
@@ -16,9 +19,9 @@ public PdfBookmarkEditor()
 
 ### See Also
 
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,9 +39,8 @@ public PdfBookmarkEditor(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

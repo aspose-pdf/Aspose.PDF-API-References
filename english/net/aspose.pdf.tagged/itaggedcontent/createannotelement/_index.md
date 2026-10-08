@@ -1,10 +1,13 @@
 ---
-title: ITaggedContent.CreateAnnotElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent method. Creates AnnotElement
+title: "ITaggedContent.CreateAnnotElement"
+linktitle: "CreateAnnotElement"
+articleTitle: "CreateAnnotElement"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Creates AnnotElement."
 type: docs
-weight: 40
-url: /net/aspose.pdf.tagged/itaggedcontent/createannotelement/
+weight: 350
+url: "/net/aspose.pdf.tagged/itaggedcontent/createannotelement/"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateAnnotElement method
 
@@ -20,9 +23,8 @@ Created structure element.
 
 ### See Also
 
-* class [AnnotElement](../../../aspose.pdf.logicalstructure/annotelement/)
-* interface [ITaggedContent](../)
-* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotElement](../../../aspose.pdf.logicalstructure/annotelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
 

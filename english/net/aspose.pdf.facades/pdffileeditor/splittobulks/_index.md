@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.SplitToBulks
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Splits the Pdf file into several documents.The documents can be singlepage or multipages
+title: "PdfFileEditor.SplitToBulks"
+linktitle: "SplitToBulks"
+articleTitle: "SplitToBulks"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Splits the Pdf file into several documents.The documents can be single-page or multi-pages."
 type: docs
-weight: 350
-url: /net/aspose.pdf.facades/pdffileeditor/splittobulks/
+weight: 850
+url: "/net/aspose.pdf.facades/pdffileeditor/splittobulks/"
+product_version: "26.9"
 ---
-## SplitToBulks(string, int[][]) {#splittobulks_1}
+## SplitToBulks(string, int[][]) {#splittobulks}
 
 Splits the Pdf file into several documents.The documents can be single-page or multi-pages.
 
@@ -25,13 +28,13 @@ Output PDF streams, each stream buffers a PDF document.
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SplitToBulks(Stream, int[][]) {#splittobulks}
+## SplitToBulks(Stream, int[][]) {#splittobulks_1}
 
 Splits the Pdf file into several documents.The documents can be single-page or multi-pages.
 
@@ -50,8 +53,7 @@ Output PDF streams, each stream buffers a PDF document.
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

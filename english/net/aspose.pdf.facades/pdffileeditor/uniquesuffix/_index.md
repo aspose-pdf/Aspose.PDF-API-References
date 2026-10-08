@@ -1,14 +1,20 @@
 ---
-title: PdfFileEditor.UniqueSuffix
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor property. Format of the suffix which is added to field name to make it unique when forms are concatenated. This string must contain NUM substring which will be replaced with numbers. For example if UniqueSuffix  ABCNUM then for field fieldName names will be fieldNameABC1 fieldNameABC2 fieldNameABC3 etc
+title: "PdfFileEditor.UniqueSuffix"
+linktitle: "UniqueSuffix"
+articleTitle: "UniqueSuffix"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor property. Format of the suffix which is added to field name to make it unique when forms are concatenated. This string must contain %NUM% subst..."
 type: docs
-weight: 200
-url: /net/aspose.pdf.facades/pdffileeditor/uniquesuffix/
+weight: 1150
+url: "/net/aspose.pdf.facades/pdffileeditor/uniquesuffix/"
+product_version: "26.9"
 ---
 ## PdfFileEditor.UniqueSuffix property
 
-Format of the suffix which is added to field name to make it unique when forms are concatenated. This string must contain %NUM% substring which will be replaced with numbers. For example if UniqueSuffix = "ABC%NUM%" then for field "fieldName" names will be: fieldNameABC1, fieldNameABC2, fieldNameABC3 etc.
+Format of the suffix which is added to field name to make it unique when forms are concatenated.
+ This string must contain %NUM% substring which will be replaced with numbers.
+ For example if UniqueSuffix = "ABC%NUM%" then for field "fieldName" names will be:
+ fieldNameABC1, fieldNameABC2, fieldNameABC3 etc.
 
 ```csharp
 public string UniqueSuffix { get; set; }
@@ -23,8 +29,7 @@ ed.UniqueSuffix = "_%NUM%";
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

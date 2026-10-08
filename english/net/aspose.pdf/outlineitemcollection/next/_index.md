@@ -1,10 +1,13 @@
 ---
-title: OutlineItemCollection.Next
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection property. Gets the outline item representing next item relatively this item in the outline hierarchy
+title: "OutlineItemCollection.Next"
+linktitle: "Next"
+articleTitle: "Next"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection property. Gets the outline item representing next item relatively this item in the outline hierarchy."
 type: docs
-weight: 150
-url: /net/aspose.pdf/outlineitemcollection/next/
+weight: 210
+url: "/net/aspose.pdf/outlineitemcollection/next/"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.Next property
 
@@ -16,8 +19,7 @@ public OutlineItemCollection Next { get; }
 
 ### See Also
 
-* class [OutlineItemCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

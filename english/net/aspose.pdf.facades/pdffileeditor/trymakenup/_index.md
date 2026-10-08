@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.TryMakeNUp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Makes NUp document from the firstInputFile to outputFile
+title: "PdfFileEditor.TryMakeNUp"
+linktitle: "TryMakeNUp"
+articleTitle: "TryMakeNUp"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Makes N-Up document from the firstInputFile to outputFile."
 type: docs
-weight: 440
-url: /net/aspose.pdf.facades/pdffileeditor/trymakenup/
+weight: 290
+url: "/net/aspose.pdf.facades/pdffileeditor/trymakenup/"
+product_version: "26.9"
 ---
-## TryMakeNUp(string, string, int, int) {#trymakenup_4}
+## TryMakeNUp(string, string, int, int) {#trymakenup}
 
 Makes N-Up document from the firstInputFile to outputFile.
 
@@ -27,7 +30,8 @@ true if operation was completed successfully; otherwise, false.
 
 ## Remarks
 
-The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
+The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -38,13 +42,13 @@ bool result = pfe.TryMakeNUp("input.pdf", "output.pdf", 3, 3);
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeNUp(Stream, Stream, int, int) {#trymakenup}
+## TryMakeNUp(Stream, Stream, int, int) {#trymakenup_1}
 
 Makes N-Up document from the input stream and saves result into output stream.
 
@@ -65,7 +69,8 @@ true if operation completed successfully; otherwise, false.
 
 ## Remarks
 
-The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
+The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -78,13 +83,13 @@ bool result = pfe.TryMakeNUp(inputStream, outputStream, 3, 3);
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeNUp(Stream, Stream, int, int, PageSize) {#trymakenup_1}
+## TryMakeNUp(Stream, Stream, int, int, PageSize) {#trymakenup_2}
 
 Makes N-Up document from the first input stream to output stream.
 
@@ -106,7 +111,8 @@ true if operation completed successfully; otherwise, false.
 
 ## Remarks
 
-The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
+The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -119,16 +125,18 @@ bool result = pfe.TryMakeNUp(inputStream, outputStream, 3, 3, PageSize.A4);
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeNUp(string, string, string) {#trymakenup_6}
+## TryMakeNUp(string, string, string) {#trymakenup_3}
 
-Makes N-Up document from the two input PDF files to outputFile. Each page of outputFile will contain two pages, one page is from the first input file and another is from the second input file. The two pages are piled up horizontally.
+Makes N-Up document from the two input PDF files to outputFile. 
+ Each page of outputFile will contain two pages, one page is from the first input file 
+ and another is from the second input file. The two pages are piled up horizontally.
 
 ```csharp
 public bool TryMakeNUp(string firstInputFile, string secondInputFile, string outputFile)
@@ -146,7 +154,8 @@ true if operation was completed successfully; otherwise, false
 
 ## Remarks
 
-The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
+The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -157,13 +166,13 @@ bool result = pfe.TryMakeNUp("input1.pdf", "input2.pdf", "output.pdf");
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeNUp(Stream, Stream, Stream) {#trymakenup_2}
+## TryMakeNUp(Stream, Stream, Stream) {#trymakenup_4}
 
 Makes N-Up document from the two input PDF streams to outputStream.
 
@@ -183,7 +192,8 @@ true if operation was completed successfully; otherwise, false
 
 ## Remarks
 
-The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
+The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -197,15 +207,18 @@ bool result = pfe.TryMakeNUp(input1, input2, output);
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeNUp(string[], string, bool) {#trymakenup_7}
+## TryMakeNUp(string[], string, bool) {#trymakenup_5}
 
-Makes N-Up document from the multi input PDF files to outputFile. Each page of outputFile will contain multi pages, which are combination with pages in the input files of the same page number. The multi pages piled up horizontally if isSidewise is true and piled up vertically if isSidewise is false.
+Makes N-Up document from the multi input PDF files to outputFile. 
+ Each page of outputFile will contain multi pages, which are combination with pages 
+ in the input files of the same page number. The multi pages piled up horizontally 
+ if isSidewise is true and piled up vertically if isSidewise is false.
 
 ```csharp
 public bool TryMakeNUp(string[] inputFiles, string outputFile, bool isSidewise)
@@ -223,7 +236,8 @@ true if operation completed successfully; otherwise, false.
 
 ## Remarks
 
-The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
+The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -234,15 +248,18 @@ bool result = pfe.TryMakeNUp(new string[] { "input1.pdf", "input2.pdf", "input3.
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeNUp(Stream[], Stream, bool) {#trymakenup_3}
+## TryMakeNUp(Stream[], Stream, bool) {#trymakenup_6}
 
-Makes N-Up document from the multi input PDF streams to outputStream. Each page of outputStream will contain multi pages, which are combination with pages in the input streams of the same page number. The multi-pages piled up horizontally if isSidewise is true and piled up vertically if isSidewise is false.
+Makes N-Up document from the multi input PDF streams to outputStream.
+ Each page of outputStream will contain multi pages, which are combination with pages 
+ in the input streams of the same page number. The multi-pages piled up horizontally 
+ if isSidewise is true and piled up vertically if isSidewise is false.
 
 ```csharp
 public bool TryMakeNUp(Stream[] inputStreams, Stream outputStream, bool isSidewise)
@@ -260,7 +277,8 @@ true if operation completed successfully; otherwise, false.
 
 ## Remarks
 
-The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
+The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -275,13 +293,13 @@ bool result = pfe.TryMakeNUp(new Stream[] { stream1, stream2, stream3 }, output,
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryMakeNUp(string, string, int, int, PageSize) {#trymakenup_5}
+## TryMakeNUp(string, string, int, int, PageSize) {#trymakenup_7}
 
 Makes N-Up document from the input file to outputFile.
 
@@ -303,7 +321,8 @@ true if operation completed successfully; otherwise, false.
 
 ## Remarks
 
-The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp method does not throw an exception if the operation fails.
+The TryMakeNUp method is like the MakeNUp method, except the TryMakeNUp 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -314,9 +333,8 @@ bool result = pfe.TryMakeNUp("input.pdf", "output.pdf", 3, 3, PageSize.A4);
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

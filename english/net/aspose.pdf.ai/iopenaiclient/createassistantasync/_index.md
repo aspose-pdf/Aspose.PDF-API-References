@@ -1,10 +1,13 @@
 ---
-title: IOpenAIClient.CreateAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Creates a new assistant asynchronously
+title: "IOpenAIClient.CreateAssistantAsync"
+linktitle: "CreateAssistantAsync"
+articleTitle: "CreateAssistantAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Creates a new assistant asynchronously."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/iopenaiclient/createassistantasync/
+weight: 420
+url: "/net/aspose.pdf.ai/iopenaiclient/createassistantasync/"
+product_version: "26.9"
 ---
 ## IOpenAIClient.CreateAssistantAsync method
 
@@ -26,10 +29,9 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [AssistantResponse](../../assistantresponse/)
-* class [AssistantCreateRequest](../../assistantcreaterequest/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AssistantResponse](../../assistantresponse/)
+* class [AssistantCreateRequest](../../assistantcreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.WaitForThreadMessageToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Waits for a specific thread message to complete asynchronously
+title: "OpenAIClient.WaitForThreadMessageToCompleteAsync"
+linktitle: "WaitForThreadMessageToCompleteAsync"
+articleTitle: "WaitForThreadMessageToCompleteAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Waits for a specific thread message to complete asynchronously."
 type: docs
-weight: 490
-url: /net/aspose.pdf.ai/openaiclient/waitforthreadmessagetocompleteasync/
+weight: 330
+url: "/net/aspose.pdf.ai/openaiclient/waitforthreadmessagetocompleteasync/"
+product_version: "26.9"
 ---
 ## OpenAIClient.WaitForThreadMessageToCompleteAsync method
 
@@ -34,9 +37,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [ThreadMessageResponse](../../threadmessageresponse/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: PdfFileMend.AddImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileMend method. Adds image to the specified page of PDF document at specified coordinates
+title: "PdfFileMend.AddImage"
+linktitle: "AddImage"
+articleTitle: "AddImage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileMend method. Adds image to the specified page of PDF document at specified coordinates."
 type: docs
-weight: 50
-url: /net/aspose.pdf.facades/pdffilemend/addimage/
+weight: 30
+url: "/net/aspose.pdf.facades/pdffilemend/addimage/"
+product_version: "26.9"
 ---
-## AddImage(Stream, int, float, float, float, float) {#addimage}
+## AddImage(Stream, int, float, float, float, float) {#addimage}
 
 Adds image to the specified page of PDF document at specified coordinates.
 
@@ -41,13 +44,13 @@ mendor.Close();
 
 ### See Also
 
-* class [PdfFileMend](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddImage(Stream, int, float, float, float, float, CompositingParameters) {#addimage_1}
+## AddImage(Stream, int, float, float, float, float, CompositingParameters) {#addimage_1}
 
 Adds image to the specified page of PDF document at specified coordinates.
 
@@ -83,14 +86,14 @@ mendor.Close();
 
 ### See Also
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
-* class [PdfFileMend](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddImage(Stream, int[], float, float, float, float) {#addimage_2}
+## AddImage(Stream, int[], float, float, float, float) {#addimage_2}
 
 Adds image to the specified pages of PDF document at specified coordinates.
 
@@ -125,13 +128,13 @@ mendor.Close();
 
 ### See Also
 
-* class [PdfFileMend](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddImage(Stream, int[], float, float, float, float, CompositingParameters) {#addimage_3}
+## AddImage(Stream, int[], float, float, float, float, CompositingParameters) {#addimage_3}
 
 Adds image to the specified pages of PDF document at specified coordinates.
 
@@ -167,14 +170,14 @@ mendor.Close();
 
 ### See Also
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
-* class [PdfFileMend](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddImage(string, int, float, float, float, float) {#addimage_4}
+## AddImage(string, int, float, float, float, float) {#addimage_4}
 
 Adds image to the specified page of PDF document at specified coordinates.
 
@@ -206,13 +209,13 @@ mendor.Close();
 
 ### See Also
 
-* class [PdfFileMend](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddImage(string, int, float, float, float, float, CompositingParameters) {#addimage_5}
+## AddImage(string, int, float, float, float, float, CompositingParameters) {#addimage_5}
 
 Adds image to the specified page of PDF document at specified coordinates.
 
@@ -245,14 +248,14 @@ mendor.Close();
 
 ### See Also
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
-* class [PdfFileMend](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddImage(string, int[], float, float, float, float) {#addimage_6}
+## AddImage(string, int[], float, float, float, float) {#addimage_6}
 
 Adds image to the specified pages of PDF document at specified coordinates.
 
@@ -284,13 +287,13 @@ mendor.Close();
 
 ### See Also
 
-* class [PdfFileMend](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddImage(string, int[], float, float, float, float, CompositingParameters) {#addimage_7}
+## AddImage(string, int[], float, float, float, float, CompositingParameters) {#addimage_7}
 
 Adds image to the specified pages of PDF document at specified coordinates.
 
@@ -323,9 +326,8 @@ mendor.Close();
 
 ### See Also
 
-* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
-* class [PdfFileMend](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

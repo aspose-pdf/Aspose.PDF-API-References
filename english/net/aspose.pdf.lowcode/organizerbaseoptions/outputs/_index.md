@@ -1,10 +1,13 @@
 ---
-title: OrganizerBaseOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: OrganizerBaseOptions property. Gets collection of added targets for saving operation results
+title: "OrganizerBaseOptions.Outputs"
+linktitle: "Outputs"
+articleTitle: "Outputs"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OrganizerBaseOptions property. Gets collection of added targets for saving operation results."
 type: docs
 weight: 40
-url: /net/aspose.pdf.lowcode/organizerbaseoptions/outputs/
+url: "/net/aspose.pdf.lowcode/organizerbaseoptions/outputs/"
+product_version: "26.9"
 ---
 ## OrganizerBaseOptions.Outputs property
 
@@ -16,9 +19,8 @@ public List<IDataSource> Outputs { get; }
 
 ### See Also
 
-* interface [IDataSource](../../idatasource/)
-* class [OrganizerBaseOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IDataSource](../../idatasource/)
+* class [OrganizerBaseOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

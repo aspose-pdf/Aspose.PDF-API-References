@@ -1,10 +1,13 @@
 ---
-title: DefaultAppearance.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: DefaultAppearance property. Gets font size in default apperance
+title: "DefaultAppearance.FontSize"
+linktitle: "FontSize"
+articleTitle: "FontSize"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DefaultAppearance property. Gets font size in default apperance."
 type: docs
-weight: 50
-url: /net/aspose.pdf.annotations/defaultappearance/fontsize/
+weight: 40
+url: "/net/aspose.pdf.annotations/defaultappearance/fontsize/"
+product_version: "26.9"
 ---
 ## DefaultAppearance.FontSize property
 
@@ -16,8 +19,7 @@ public double FontSize { get; set; }
 
 ### See Also
 
-* class [DefaultAppearance](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DefaultAppearance](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

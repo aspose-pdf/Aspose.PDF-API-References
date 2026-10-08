@@ -1,14 +1,19 @@
 ---
-title: Class FontAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FontAbsorber class. Represents an absorber object of fonts. Performs search for fonts and provides access to search results via Fonts collection
+title: "FontAbsorber Class"
+linktitle: "FontAbsorber"
+articleTitle: "FontAbsorber"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.FontAbsorber class. Represents an absorber object of fonts. Performs search for fonts and provides access to search results via Fonts collect..."
 type: docs
-weight: 10920
-url: /net/aspose.pdf.text/fontabsorber/
+weight: 130
+url: "/net/aspose.pdf.text/fontabsorber/"
+keywords: "FontAbsorber, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## FontAbsorber class
 
-Represents an absorber object of fonts. Performs search for fonts and provides access to search results via [`Fonts`](./fonts/) collection.
+Represents an absorber object of fonts.
+ Performs search for fonts and provides access to search results via [`Fonts`](./fonts/) collection.
 
 ```csharp
 public class FontAbsorber
@@ -24,18 +29,17 @@ public class FontAbsorber
 
 | Name | Description |
 | --- | --- |
-| [Fonts](../../aspose.pdf.text/fontabsorber/fonts/) { get; } | Gets collection of search occurrences that are presented with [`Font`](../font/) objects. |
+| [Fonts](../../aspose.pdf.text/fontabsorber/fonts/) { get; } | Gets collection of search occurrences that are presented with [`Font`](../font/) objects. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit)(Document) | Performs search on the specified document. |
-| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit_1)(Document, int, int) | Performs search in the specified range of pages of the document. |
+| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit)(Document, int, int) | Performs search in the specified range of pages of the document. |
+| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit_1)(Document) | Performs search on the specified document. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

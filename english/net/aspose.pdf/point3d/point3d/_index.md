@@ -1,10 +1,13 @@
 ---
-title: Point3D.Point3D
-second_title: Aspose.PDF for .NET API Reference
-description: Point3D constructor. Initializes new instance of the Point3D
+title: "Point3D.Point3D"
+linktitle: "Point3D"
+articleTitle: "Point3D"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Point3D constructor. Initializes new instance of the Point3D."
 type: docs
 weight: 10
-url: /net/aspose.pdf/point3d/point3d/
+url: "/net/aspose.pdf/point3d/point3d/"
+product_version: "26.9"
 ---
 ## Point3D constructor
 
@@ -22,8 +25,7 @@ public Point3D(double x, double y, double z)
 
 ### See Also
 
-* class [Point3D](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Point3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class JavascriptAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.JavascriptAction class. Class representing javascript action
+title: "JavascriptAction Class"
+linktitle: "JavascriptAction"
+articleTitle: "JavascriptAction"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.JavascriptAction class. Class representing javascript action."
 type: docs
-weight: 2020
-url: /net/aspose.pdf.annotations/javascriptaction/
+weight: 550
+url: "/net/aspose.pdf.annotations/javascriptaction/"
+keywords: "JavascriptAction, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## JavascriptAction class
 
@@ -24,19 +28,19 @@ public sealed class JavascriptAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
-| [Script](../../aspose.pdf.annotations/javascriptaction/script/) { get; set; } | Gets or sets javascript code. |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
+| [Script](../../aspose.pdf.annotations/javascriptaction/script/) { get; set; } | Gets or sets javascript code. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Returns string representation |
 
 ### See Also
 
-* class [PdfAction](../pdfaction/)
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ToolResources.CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: ToolResources property. Gets or sets the code interpreter tool resources
+title: "ToolResources.CodeInterpreter"
+linktitle: "CodeInterpreter"
+articleTitle: "CodeInterpreter"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ToolResources property. Gets or sets the code interpreter tool resources."
 type: docs
 weight: 20
-url: /net/aspose.pdf.ai/toolresources/codeinterpreter/
+url: "/net/aspose.pdf.ai/toolresources/codeinterpreter/"
+product_version: "26.9"
 ---
 ## ToolResources.CodeInterpreter property
 
@@ -16,9 +19,8 @@ public CodeInterpreter CodeInterpreter { get; set; }
 
 ### See Also
 
-* class [CodeInterpreter](../../codeinterpreter/)
-* class [ToolResources](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CodeInterpreter](../../codeinterpreter/)
+* class [ToolResources](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

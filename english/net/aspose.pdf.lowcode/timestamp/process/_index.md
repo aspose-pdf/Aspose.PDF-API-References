@@ -1,10 +1,13 @@
 ---
-title: Timestamp.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Timestamp method. Processes the timestamp plugin with the supplied options
+title: "Timestamp.Process"
+linktitle: "Process"
+articleTitle: "Process"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Timestamp method. Processes the timestamp plugin with the supplied options."
 type: docs
-weight: 30
-url: /net/aspose.pdf.lowcode/timestamp/process/
+weight: 20
+url: "/net/aspose.pdf.lowcode/timestamp/process/"
+product_version: "26.9"
 ---
 ## Timestamp.Process method
 
@@ -31,10 +34,9 @@ A [`ResultContainer`](../../resultcontainer/) with the operation results.
 
 ### See Also
 
-* class [ResultContainer](../../resultcontainer/)
-* interface [IPluginOptions](../../ipluginoptions/)
-* class [Timestamp](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Timestamp](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

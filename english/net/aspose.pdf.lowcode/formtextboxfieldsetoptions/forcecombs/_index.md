@@ -1,10 +1,13 @@
 ---
-title: FormTextBoxFieldSetOptions.ForceCombs
-second_title: Aspose.PDF for .NET API Reference
-description: FormTextBoxFieldSetOptions property. Gets/sets the value to determine property ForceCombs for modified field if will be set
+title: "FormTextBoxFieldSetOptions.ForceCombs"
+linktitle: "ForceCombs"
+articleTitle: "ForceCombs"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormTextBoxFieldSetOptions property. Gets/sets the value to determine property ForceCombs for modified field (if will be set)."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/formtextboxfieldsetoptions/forcecombs/
+weight: 40
+url: "/net/aspose.pdf.lowcode/formtextboxfieldsetoptions/forcecombs/"
+product_version: "26.9"
 ---
 ## FormTextBoxFieldSetOptions.ForceCombs property
 
@@ -16,8 +19,7 @@ public bool? ForceCombs { get; set; }
 
 ### See Also
 
-* class [FormTextBoxFieldSetOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormTextBoxFieldSetOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: PKCS7Detached.PKCS7Detached
-second_title: Aspose.PDF for .NET API Reference
-description: PKCS7Detached constructor. Initializes new instance of the PKCS7Detached class
+title: "PKCS7Detached.PKCS7Detached"
+linktitle: "PKCS7Detached"
+articleTitle: "PKCS7Detached"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PKCS7Detached constructor. Initializes new instance of the PKCS7Detached class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.forms/pkcs7detached/pkcs7detached/
+url: "/net/aspose.pdf.forms/pkcs7detached/pkcs7detached/"
+product_version: "26.9"
 ---
-## PKCS7Detached(Stream) {#constructor_3}
+## PKCS7Detached(Stream) {#constructor}
 
 Initializes new instance of the [`PKCS7Detached`](../) class.
 
@@ -20,13 +23,13 @@ public PKCS7Detached(Stream image)
 
 ### See Also
 
-* class [PKCS7Detached](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PKCS7Detached(Stream, DigestHashAlgorithm) {#constructor_4}
+## PKCS7Detached(Stream, DigestHashAlgorithm) {#constructor_1}
 
 Initializes new instance of the [`PKCS7Detached`](../) class.
 
@@ -41,14 +44,14 @@ public PKCS7Detached(Stream image, DigestHashAlgorithm digestHashAlgorithm)
 
 ### See Also
 
-* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* class [PKCS7Detached](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PKCS7Detached() {#constructor}
+## PKCS7Detached() {#constructor_2}
 
 Inititalizes new instance of the [`PKCS7Detached`](../) class.
 
@@ -58,13 +61,13 @@ public PKCS7Detached()
 
 ### See Also
 
-* class [PKCS7Detached](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PKCS7Detached(DigestHashAlgorithm) {#constructor_1}
+## PKCS7Detached(DigestHashAlgorithm) {#constructor_3}
 
 Inititalizes new instance of the [`PKCS7Detached`](../) class.
 
@@ -78,14 +81,14 @@ public PKCS7Detached(DigestHashAlgorithm digestHashAlgorithm)
 
 ### See Also
 
-* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* class [PKCS7Detached](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PKCS7Detached(string, string) {#constructor_7}
+## PKCS7Detached(string, string) {#constructor_4}
 
 Inititalizes new instance of the [`PKCS7Detached`](../) class.
 
@@ -100,13 +103,13 @@ public PKCS7Detached(string pfx, string password)
 
 ### See Also
 
-* class [PKCS7Detached](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PKCS7Detached(string, string, DigestHashAlgorithm) {#constructor_8}
+## PKCS7Detached(string, string, DigestHashAlgorithm) {#constructor_5}
 
 Inititalizes new instance of the [`PKCS7Detached`](../) class.
 
@@ -122,14 +125,14 @@ public PKCS7Detached(string pfx, string password, DigestHashAlgorithm digestHash
 
 ### See Also
 
-* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* class [PKCS7Detached](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PKCS7Detached(Stream, string) {#constructor_5}
+## PKCS7Detached(Stream, string) {#constructor_6}
 
 Inititalizes new instance of the [`PKCS7Detached`](../) class.
 
@@ -144,15 +147,18 @@ public PKCS7Detached(Stream pfx, string password)
 
 ### See Also
 
-* class [PKCS7Detached](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PKCS7Detached(TimestampSettings) {#constructor_2}
+## PKCS7Detached(TimestampSettings) {#constructor_7}
 
 Inititalizes new instance of the [`PKCS7Detached`](../) class.
+
+The timestamp settings are used to create the timestamp signature without the need to provide a certificate.
+ You can set the timestamp for a document as a separate signature.
 
 ```csharp
 public PKCS7Detached(TimestampSettings timestampSettings)
@@ -162,20 +168,16 @@ public PKCS7Detached(TimestampSettings timestampSettings)
 | --- | --- | --- |
 | timestampSettings | TimestampSettings | The timestamp settings for the signature. |
 
-## Remarks
-
-The timestamp settings are used to create the timestamp signature without the need to provide a certificate. You can set the timestamp for a document as a separate signature.
-
 ### See Also
 
-* class [TimestampSettings](../../../aspose.pdf/timestampsettings/)
-* class [PKCS7Detached](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [TimestampSettings](../../../aspose.pdf/timestampsettings/)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PKCS7Detached(Stream, string, DigestHashAlgorithm) {#constructor_6}
+## PKCS7Detached(Stream, string, DigestHashAlgorithm) {#constructor_8}
 
 Inititalizes new instance of the [`PKCS7Detached`](../) class.
 
@@ -191,9 +193,8 @@ public PKCS7Detached(Stream pfx, string password, DigestHashAlgorithm digestHash
 
 ### See Also
 
-* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* class [PKCS7Detached](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* class [PKCS7Detached](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

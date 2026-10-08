@@ -1,10 +1,13 @@
 ---
-title: Ofd.Ofd
-second_title: Aspose.PDF for .NET API Reference
-description: Ofd constructor. The default constructor
+title: "Ofd.Ofd"
+linktitle: "Ofd"
+articleTitle: "Ofd"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Ofd constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/ofd/ofd/
+url: "/net/aspose.pdf.lowcode/ofd/ofd/"
+product_version: "26.9"
 ---
 ## Ofd constructor
 
@@ -16,8 +19,7 @@ public Ofd()
 
 ### See Also
 
-* class [Ofd](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Ofd](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

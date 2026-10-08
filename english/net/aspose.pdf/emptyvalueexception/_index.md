@@ -1,10 +1,14 @@
 ---
-title: Class EmptyValueException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.EmptyValueException class. Exception which thrown when requirested value does not exists
+title: "EmptyValueException Class"
+linktitle: "EmptyValueException"
+articleTitle: "EmptyValueException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.EmptyValueException class. Exception which thrown when requirested value does not exists."
 type: docs
-weight: 4190
-url: /net/aspose.pdf/emptyvalueexception/
+weight: 730
+url: "/net/aspose.pdf/emptyvalueexception/"
+keywords: "EmptyValueException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## EmptyValueException class
 
@@ -23,8 +27,7 @@ public class EmptyValueException : PdfException
 
 ### See Also
 
-* class [PdfException](../pdfexception/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

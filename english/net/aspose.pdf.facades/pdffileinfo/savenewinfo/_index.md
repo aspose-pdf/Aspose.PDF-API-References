@@ -1,10 +1,13 @@
 ---
-title: PdfFileInfo.SaveNewInfo
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo method. Save updated PDF document into specified file
+title: "PdfFileInfo.SaveNewInfo"
+linktitle: "SaveNewInfo"
+articleTitle: "SaveNewInfo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Save updated PDF document into specified file."
 type: docs
-weight: 310
-url: /net/aspose.pdf.facades/pdffileinfo/savenewinfo/
+weight: 190
+url: "/net/aspose.pdf.facades/pdffileinfo/savenewinfo/"
+product_version: "26.9"
 ---
 ## PdfFileInfo.SaveNewInfo method
 
@@ -24,8 +27,7 @@ True if success otherwise is false.
 
 ### See Also
 
-* class [PdfFileInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

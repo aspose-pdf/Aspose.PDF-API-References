@@ -1,10 +1,13 @@
 ---
-title: IPlugin.Process
-second_title: Aspose.PDF for .NET API Reference
-description: IPlugin method. Charges a plugin to process with defined options
+title: "IPlugin.Process"
+linktitle: "Process"
+articleTitle: "Process"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IPlugin method. Charges a plugin to process with defined options"
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/iplugin/process/
+url: "/net/aspose.pdf.lowcode/iplugin/process/"
+product_version: "26.9"
 ---
 ## IPlugin.Process method
 
@@ -24,10 +27,9 @@ An ResultContainer object containing the result of the processing
 
 ### See Also
 
-* class [ResultContainer](../../resultcontainer/)
-* interface [IPluginOptions](../../ipluginoptions/)
-* interface [IPlugin](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* interface [IPlugin](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

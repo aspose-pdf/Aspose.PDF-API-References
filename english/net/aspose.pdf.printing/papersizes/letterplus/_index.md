@@ -1,10 +1,13 @@
 ---
-title: PaperSizes.LetterPlus
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. Letter plus paper 8.5 in. by 12.69 in
+title: "PaperSizes.LetterPlus"
+linktitle: "LetterPlus"
+articleTitle: "LetterPlus"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Letter plus paper (8.5 in. by 12.69 in.)."
 type: docs
-weight: 680
-url: /net/aspose.pdf.printing/papersizes/letterplus/
+weight: 570
+url: "/net/aspose.pdf.printing/papersizes/letterplus/"
+product_version: "26.9"
 ---
 ## PaperSizes.LetterPlus field
 
@@ -16,9 +19,8 @@ public static readonly PaperSize LetterPlus;
 
 ### See Also
 
-* class [PaperSize](../../papersize/)
-* class [PaperSizes](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

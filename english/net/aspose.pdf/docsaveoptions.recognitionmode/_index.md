@@ -1,10 +1,13 @@
 ---
-title: Enum DocSaveOptions.RecognitionMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DocSaveOptionsRecognitionMode enum. Allows to control how a PDF document is converted into a word processing document
+title: "DocSaveOptions.RecognitionMode Enum"
+linktitle: "DocSaveOptions.RecognitionMode"
+articleTitle: "DocSaveOptions.RecognitionMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DocSaveOptions.RecognitionMode enum. Allows to control how a PDF document is converted into a word processing document."
 type: docs
-weight: 3930
-url: /net/aspose.pdf/docsaveoptions.recognitionmode/
+weight: 600
+url: "/net/aspose.pdf/docsaveoptions.recognitionmode/"
+product_version: "26.9"
 ---
 ## DocSaveOptions.RecognitionMode enumeration
 
@@ -24,14 +27,17 @@ public enum RecognitionMode
 
 ## Remarks
 
-Use the Textbox mode when the resulting document is not goining to be heavily edited futher. Textboxes are easy to modify when there is not a lot to do.
+Use the `Textbox` mode when the resulting document is not goining 
+ to be heavily edited futher. Textboxes are easy to modify when there is not a lot to do.
+ 
 
-Use the Flow mode when the output document needs further editing. Paragraphs and texlines in the flow mode allow easy modification of text, but unupported formatting objects will look worse than in the Textbox mode.
+Use the `Flow` mode when the output document needs further editing. 
+ Paragraphs and texlines in the flow mode allow easy modification of text, but unupported
+ formatting objects will look worse than in the `Textbox` mode.
 
 ### See Also
 
-* class [DocSaveOptions](../docsaveoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [DocSaveOptions](../docsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

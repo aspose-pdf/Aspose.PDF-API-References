@@ -1,10 +1,13 @@
 ---
-title: Tool.FileSearch
-second_title: Aspose.PDF for .NET API Reference
-description: Tool property. Gets a tool instance representing a file search tool
+title: "Tool.FileSearch"
+linktitle: "FileSearch"
+articleTitle: "FileSearch"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Tool property. Gets a tool instance representing a file search tool."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/tool/filesearch/
+weight: 80
+url: "/net/aspose.pdf.ai/tool/filesearch/"
+product_version: "26.9"
 ---
 ## Tool.FileSearch property
 
@@ -16,8 +19,7 @@ public static Tool FileSearch { get; }
 
 ### See Also
 
-* class [Tool](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

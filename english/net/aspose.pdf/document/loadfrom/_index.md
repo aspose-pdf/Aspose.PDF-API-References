@@ -1,10 +1,13 @@
 ---
-title: Document.LoadFrom
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Loads a file converting it to PDF
+title: "Document.LoadFrom"
+linktitle: "LoadFrom"
+articleTitle: "LoadFrom"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Loads a file, converting it to PDF."
 type: docs
-weight: 750
-url: /net/aspose.pdf/document/loadfrom/
+weight: 510
+url: "/net/aspose.pdf/document/loadfrom/"
+product_version: "26.9"
 ---
 ## Document.LoadFrom method
 
@@ -28,9 +31,8 @@ public void LoadFrom(string filename, LoadOptions options)
 
 ### See Also
 
-* class [LoadOptions](../../loadoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LoadOptions](../../loadoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum ExplicitDestinationType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.ExplicitDestinationType enum. Enumerates the types of explicit destinations
+title: "ExplicitDestinationType Enum"
+linktitle: "ExplicitDestinationType"
+articleTitle: "ExplicitDestinationType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.ExplicitDestinationType enum. Enumerates the types of explicit destinations."
 type: docs
-weight: 1780
-url: /net/aspose.pdf.annotations/explicitdestinationtype/
+weight: 310
+url: "/net/aspose.pdf.annotations/explicitdestinationtype/"
+product_version: "26.9"
 ---
 ## ExplicitDestinationType enumeration
 
@@ -29,7 +32,6 @@ public enum ExplicitDestinationType
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

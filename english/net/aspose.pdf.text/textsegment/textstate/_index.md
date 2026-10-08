@@ -1,10 +1,13 @@
 ---
-title: TextSegment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegment property. Gets or sets text state for the text that TextSegment object represents
+title: "TextSegment.TextState"
+linktitle: "TextState"
+articleTitle: "TextState"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextSegment property. Gets or sets text state for the text that TextSegment object represents."
 type: docs
-weight: 110
-url: /net/aspose.pdf.text/textsegment/textstate/
+weight: 70
+url: "/net/aspose.pdf.text/textsegment/textstate/"
+product_version: "26.9"
 ---
 ## TextSegment.TextState property
 
@@ -16,13 +19,17 @@ public TextState TextState { get; set; }
 
 ## Remarks
 
-Provides a way to change following properties of the text: Font FontSize FontStyle ForegroundColor BackgroundColor
+Provides a way to change following properties of the text:
+ Font
+ FontSize
+ FontStyle
+ ForegroundColor
+ BackgroundColor
 
 ### See Also
 
-* class [TextState](../../textstate/)
-* class [TextSegment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextState](../../textstate/)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

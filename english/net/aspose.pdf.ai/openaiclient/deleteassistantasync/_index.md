@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.DeleteAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Deletes an existing assistant asynchronously
+title: "OpenAIClient.DeleteAssistantAsync"
+linktitle: "DeleteAssistantAsync"
+articleTitle: "DeleteAssistantAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Deletes an existing assistant asynchronously."
 type: docs
-weight: 130
-url: /net/aspose.pdf.ai/openaiclient/deleteassistantasync/
+weight: 430
+url: "/net/aspose.pdf.ai/openaiclient/deleteassistantasync/"
+product_version: "26.9"
 ---
 ## OpenAIClient.DeleteAssistantAsync method
 
@@ -32,9 +35,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [DeleteStatusResponse](../../deletestatusresponse/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

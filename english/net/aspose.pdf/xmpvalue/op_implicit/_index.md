@@ -1,12 +1,15 @@
 ---
-title: XmpValue.op_Implicit
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue method. Converts string to XmpValue
+title: "XmpValue.op_Implicit"
+linktitle: "op_Implicit"
+articleTitle: "op_Implicit"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue method. Converts string to XmpValue."
 type: docs
-weight: 250
-url: /net/aspose.pdf/xmpvalue/op_implicit/
+weight: 190
+url: "/net/aspose.pdf/xmpvalue/op_implicit/"
+product_version: "26.9"
 ---
-## implicit operator {#op_implicit_4}
+## implicit operator {#op_implicit}
 
 Converts string to XmpValue.
 
@@ -24,9 +27,9 @@ XmlValue.
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -48,13 +51,13 @@ XmlValue.
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## implicit operator {#op_implicit}
+## implicit operator {#op_implicit_2}
 
 Converts double into XmpValue.
 
@@ -72,13 +75,13 @@ XmlValue.
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## implicit operator {#op_implicit_2}
+## implicit operator {#op_implicit_3}
 
 Converts DateTime into XmpValue.
 
@@ -96,13 +99,13 @@ XmlValue.
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## implicit operator {#op_implicit_3}
+## implicit operator {#op_implicit_4}
 
 Converts array to XmpValue.
 
@@ -120,8 +123,7 @@ XmlValue.
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

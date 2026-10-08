@@ -1,10 +1,13 @@
 ---
-title: Tool.CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: Tool property. Gets a tool instance representing a code interpreter
+title: "Tool.CodeInterpreter"
+linktitle: "CodeInterpreter"
+articleTitle: "CodeInterpreter"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Tool property. Gets a tool instance representing a code interpreter."
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/tool/codeinterpreter/
+weight: 70
+url: "/net/aspose.pdf.ai/tool/codeinterpreter/"
+product_version: "26.9"
 ---
 ## Tool.CodeInterpreter property
 
@@ -16,8 +19,7 @@ public static Tool CodeInterpreter { get; }
 
 ### See Also
 
-* class [Tool](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

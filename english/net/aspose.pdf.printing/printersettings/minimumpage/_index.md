@@ -1,10 +1,13 @@
 ---
-title: PrinterSettings.MinimumPage
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings property. Gets or sets the lowest FromPage or ToPage which may be selected in a print dialog box
+title: "PrinterSettings.MinimumPage"
+linktitle: "MinimumPage"
+articleTitle: "MinimumPage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterSettings property. Gets or sets the lowest FromPage or ToPage which may be selected in a print dialog box."
 type: docs
-weight: 80
-url: /net/aspose.pdf.printing/printersettings/minimumpage/
+weight: 90
+url: "/net/aspose.pdf.printing/printersettings/minimumpage/"
+product_version: "26.9"
 ---
 ## PrinterSettings.MinimumPage property
 
@@ -16,8 +19,7 @@ public int MinimumPage { get; set; }
 
 ### See Also
 
-* class [PrinterSettings](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: PdfContentEditor.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Binds a PDF file for editing
+title: "PdfContentEditor.BindPdf"
+linktitle: "BindPdf"
+articleTitle: "BindPdf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Binds a PDF file for editing."
 type: docs
-weight: 80
-url: /net/aspose.pdf.facades/pdfcontenteditor/bindpdf/
+weight: 30
+url: "/net/aspose.pdf.facades/pdfcontenteditor/bindpdf/"
+product_version: "26.9"
 ---
-## BindPdf(string) {#bindpdf_2}
+## BindPdf(string) {#bindpdf}
 
 Binds a PDF file for editing.
 
@@ -20,9 +23,9 @@ public override void BindPdf(string inputFile)
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,8 +43,7 @@ public override void BindPdf(Stream inputStream)
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

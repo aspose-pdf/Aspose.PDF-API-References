@@ -1,10 +1,14 @@
 ---
-title: Class Fill
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.Fill class. Class representing f operator fill path with nonzero winding number rule
+title: "Fill Class"
+linktitle: "Fill"
+articleTitle: "Fill"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.Fill class. Class representing f operator (fill path with nonzero winding number rule)."
 type: docs
-weight: 8630
-url: /net/aspose.pdf.operators/fill/
+weight: 290
+url: "/net/aspose.pdf.operators/fill/"
+keywords: "Fill, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## Fill class
 
@@ -24,20 +28,19 @@ public class Fill : Operator
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/fill/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/fill/tostring/)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/fill/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/fill/tostring/)() | Returns text representation of operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 
-* class [Operator](../../aspose.pdf/operator/)
-* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../)
-
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
 

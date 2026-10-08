@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Inserts pages from an other file into the Pdf file at a position
+title: "PdfFileEditor.Insert"
+linktitle: "Insert"
+articleTitle: "Insert"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Inserts pages from an other file into the Pdf file at a position."
 type: docs
-weight: 290
-url: /net/aspose.pdf.facades/pdffileeditor/insert/
+weight: 510
+url: "/net/aspose.pdf.facades/pdffileeditor/insert/"
+product_version: "26.9"
 ---
-## Insert(string, int, string, int, int, string) {#insert_2}
+## Insert(string, int, string, int, int, string) {#insert}
 
 Inserts pages from an other file into the Pdf file at a position.
 
@@ -37,13 +40,13 @@ pfe.Insert("file1.pdf", 1, "file2.pdf", 2, 6, "out.pdf");
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Insert(Stream, int, Stream, int, int, Stream) {#insert}
+## Insert(Stream, int, Stream, int, int, Stream) {#insert_1}
 
 Inserts pages from an other file into the input Pdf file.
 
@@ -77,13 +80,13 @@ pfe.Insert(sourceStream, 1, insertedStream, 2, 6, outStream);
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Insert(string, int, string, int[], string) {#insert_3}
+## Insert(string, int, string, int[], string) {#insert_2}
 
 Inserts pages from an other file into the input Pdf file.
 
@@ -113,13 +116,13 @@ pfe.Insert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "out.pdf");
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Insert(Stream, int, Stream, int[], Stream) {#insert_1}
+## Insert(Stream, int, Stream, int[], Stream) {#insert_3}
 
 Inserts pages from an other file into the input Pdf file.
 
@@ -152,8 +155,7 @@ pfe.Insert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5}, outStream);
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

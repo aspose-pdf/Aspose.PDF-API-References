@@ -1,10 +1,14 @@
 ---
-title: Class SetTextMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetTextMatrix class. Class representing Tm operator set text matrix
+title: "SetTextMatrix Class"
+linktitle: "SetTextMatrix"
+articleTitle: "SetTextMatrix"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetTextMatrix class. Class representing Tm operator (set text matrix)."
 type: docs
-weight: 9090
-url: /net/aspose.pdf.operators/settextmatrix/
+weight: 750
+url: "/net/aspose.pdf.operators/settextmatrix/"
+keywords: "SetTextMatrix, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## SetTextMatrix class
 
@@ -18,28 +22,27 @@ public class SetTextMatrix : TextPlaceOperator
 
 | Name | Description |
 | --- | --- |
-| [SetTextMatrix](settextmatrix/#constructor)(Matrix) | Initializes operator by matrix. |
-| [SetTextMatrix](settextmatrix/#constructor_1)(double, double, double, double, double, double) | Initializes operator. |
+| [SetTextMatrix](settextmatrix/#constructor)(double, double, double, double, double, double) | Initializes operator. |
+| [SetTextMatrix](settextmatrix/#constructor_1)(Matrix) | Initializes operator by matrix. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| [Matrix](../../aspose.pdf.operators/settextmatrix/matrix/) { get; set; } | Matrix argument of the operator. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
+| [Matrix](../../aspose.pdf.operators/settextmatrix/matrix/) { get; set; } | Matrix argument of the operator. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextmatrix/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/settextmatrix/tostring/)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/settextmatrix/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/settextmatrix/tostring/)() | Returns text representation of operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 
-* class [TextPlaceOperator](../textplaceoperator/)
-* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../)
-
+* class [TextPlaceOperator](../textplaceoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
 

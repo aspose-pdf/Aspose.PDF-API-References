@@ -1,10 +1,14 @@
 ---
-title: Class PDF3DCrossSectionArray
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DCrossSectionArray class. Class PDF3DCrossSectionArray
+title: "PDF3DCrossSectionArray Class"
+linktitle: "PDF3DCrossSectionArray"
+articleTitle: "PDF3DCrossSectionArray"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PDF3DCrossSectionArray class. Class PDF3DCrossSectionArray."
 type: docs
-weight: 2280
-url: /net/aspose.pdf.annotations/pdf3dcrosssectionarray/
+weight: 810
+url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/"
+keywords: "PDF3DCrossSectionArray, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## PDF3DCrossSectionArray class
 
@@ -24,8 +28,8 @@ public class PDF3DCrossSectionArray
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.pdf.annotations/pdf3dcrosssectionarray/count/) { get; } | Gets the cross section count. |
-| [Item](../../aspose.pdf.annotations/pdf3dcrosssectionarray/item/) { get; set; } | Gets or sets the [`PDF3DCrossSection`](../pdf3dcrosssection/) at the specified index. |
+| [Count](../../aspose.pdf.annotations/pdf3dcrosssectionarray/count/) { get; } | Gets the cross section count. |
+| [Item](../../aspose.pdf.annotations/pdf3dcrosssectionarray/item/) { get; set; } | Gets or sets the [`PDF3DCrossSection`](../pdf3dcrosssection/) at the specified index. |
 
 ## Methods
 
@@ -37,7 +41,6 @@ public class PDF3DCrossSectionArray
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

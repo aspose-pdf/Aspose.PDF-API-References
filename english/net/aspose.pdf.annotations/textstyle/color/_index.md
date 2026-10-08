@@ -1,10 +1,13 @@
 ---
-title: TextStyle.Color
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle property. Color of the text
+title: "TextStyle.Color"
+linktitle: "Color"
+articleTitle: "Color"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStyle property. Color of the text."
 type: docs
-weight: 10
-url: /net/aspose.pdf.annotations/textstyle/color/
+weight: 50
+url: "/net/aspose.pdf.annotations/textstyle/color/"
+product_version: "26.9"
 ---
 ## TextStyle.Color property
 
@@ -16,8 +19,7 @@ public Color Color { get; set; }
 
 ### See Also
 
-* class [TextStyle](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

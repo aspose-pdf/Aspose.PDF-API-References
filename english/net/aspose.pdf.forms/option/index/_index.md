@@ -1,10 +1,13 @@
 ---
-title: Option.Index
-second_title: Aspose.PDF for .NET API Reference
-description: Option property. Gets index of the option
+title: "Option.Index"
+linktitle: "Index"
+articleTitle: "Index"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Option property. Gets index of the option."
 type: docs
-weight: 10
-url: /net/aspose.pdf.forms/option/index/
+weight: 40
+url: "/net/aspose.pdf.forms/option/index/"
+product_version: "26.9"
 ---
 ## Option.Index property
 
@@ -16,8 +19,7 @@ public int Index { get; }
 
 ### See Also
 
-* class [Option](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Option](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Form.GetFieldLimit
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Get the limitation of text field
+title: "Form.GetFieldLimit"
+linktitle: "GetFieldLimit"
+articleTitle: "GetFieldLimit"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Get the limitation of text field."
 type: docs
-weight: 230
-url: /net/aspose.pdf.facades/form/getfieldlimit/
+weight: 140
+url: "/net/aspose.pdf.facades/form/getfieldlimit/"
+product_version: "26.9"
 ---
 ## Form.GetFieldLimit method
 
@@ -31,8 +34,7 @@ Console.WriteLine(form.GetFieldLimit("textfieldBox"));
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

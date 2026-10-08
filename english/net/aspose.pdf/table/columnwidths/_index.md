@@ -1,10 +1,13 @@
 ---
-title: Table.ColumnWidths
-second_title: Aspose.PDF for .NET API Reference
-description: Table property. Gets the column widths of the table
+title: "Table.ColumnWidths"
+linktitle: "ColumnWidths"
+articleTitle: "ColumnWidths"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Table property. Gets the column widths of the table."
 type: docs
-weight: 80
-url: /net/aspose.pdf/table/columnwidths/
+weight: 170
+url: "/net/aspose.pdf/table/columnwidths/"
+product_version: "26.9"
 ---
 ## Table.ColumnWidths property
 
@@ -16,8 +19,7 @@ public string ColumnWidths { get; set; }
 
 ### See Also
 
-* class [Table](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

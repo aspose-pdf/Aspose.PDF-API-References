@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.SplitFromFirst
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Splits Pdf file from first page to specified locationand saves the front part as a new file
+title: "PdfFileEditor.SplitFromFirst"
+linktitle: "SplitFromFirst"
+articleTitle: "SplitFromFirst"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Splits Pdf file from first page to specified location,and saves the front part as a new file."
 type: docs
-weight: 340
-url: /net/aspose.pdf.facades/pdffileeditor/splitfromfirst/
+weight: 610
+url: "/net/aspose.pdf.facades/pdffileeditor/splitfromfirst/"
+product_version: "26.9"
 ---
-## SplitFromFirst(string, int, string) {#splitfromfirst_1}
+## SplitFromFirst(string, int, string) {#splitfromfirst}
 
 Splits Pdf file from first page to specified location,and saves the front part as a new file.
 
@@ -33,13 +36,13 @@ pfe.SplitFromFirst("input.pdf", 5, "out.pdf");
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SplitFromFirst(Stream, int, Stream) {#splitfromfirst}
+## SplitFromFirst(Stream, int, Stream) {#splitfromfirst_1}
 
 Splits from start to specified location,and saves the front part in output Stream.
 
@@ -72,8 +75,7 @@ pfe.SplitFromFirst(sourceStream, 5, outStream);
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

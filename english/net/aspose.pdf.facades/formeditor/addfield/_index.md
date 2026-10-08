@@ -1,12 +1,15 @@
 ---
-title: FormEditor.AddField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Add field of specified type to the form
+title: "FormEditor.AddField"
+linktitle: "AddField"
+articleTitle: "AddField"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Add field of specified type to the form."
 type: docs
-weight: 100
-url: /net/aspose.pdf.facades/formeditor/addfield/
+weight: 110
+url: "/net/aspose.pdf.facades/formeditor/addfield/"
+product_version: "26.9"
 ---
-## AddField(FieldType, string, int, float, float, float, float) {#addfield}
+## AddField(FieldType, string, int, float, float, float, float) {#addfield}
 
 Add field of specified type to the form.
 
@@ -39,14 +42,14 @@ formEditor.Save();
 
 ### See Also
 
-* enum [FieldType](../../fieldtype/)
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* enum [FieldType](../../fieldtype/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddField(FieldType, string, string, int, float, float, float, float) {#addfield_1}
+## AddField(FieldType, string, string, int, float, float, float, float) {#addfield_1}
 
 Add field of specified type to the form.
 
@@ -82,9 +85,8 @@ formEditor.Save();
 
 ### See Also
 
-* enum [FieldType](../../fieldtype/)
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [FieldType](../../fieldtype/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

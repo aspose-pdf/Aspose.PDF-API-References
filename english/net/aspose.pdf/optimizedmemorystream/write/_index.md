@@ -1,10 +1,13 @@
 ---
-title: OptimizedMemoryStream.Write
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream method. When overridden in a derived class writes a sequence of bytes to the current stream and advances the current position within this stream by the number of bytes written
+title: "OptimizedMemoryStream.Write"
+linktitle: "Write"
+articleTitle: "Write"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizedMemoryStream method. When overridden in a derived class, writes a sequence of bytes to the current stream and advances the current position within t..."
 type: docs
-weight: 150
-url: /net/aspose.pdf/optimizedmemorystream/write/
+weight: 110
+url: "/net/aspose.pdf/optimizedmemorystream/write/"
+product_version: "26.9"
 ---
 ## OptimizedMemoryStream.Write method
 
@@ -22,8 +25,7 @@ public override void Write(byte[] buffer, int offset, int count)
 
 ### See Also
 
-* class [OptimizedMemoryStream](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

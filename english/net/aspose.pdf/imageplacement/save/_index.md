@@ -1,10 +1,13 @@
 ---
-title: ImagePlacement.Save
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacement method. Saves image with corresponding transformations scaling rotation and resolution
+title: "ImagePlacement.Save"
+linktitle: "Save"
+articleTitle: "Save"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagePlacement method. Saves image with corresponding transformations: scaling, rotation and resolution."
 type: docs
-weight: 110
-url: /net/aspose.pdf/imageplacement/save/
+weight: 30
+url: "/net/aspose.pdf/imageplacement/save/"
+product_version: "26.9"
 ---
 ## Save(Stream) {#save}
 
@@ -20,13 +23,13 @@ public void Save(Stream stream)
 
 ### See Also
 
-* class [ImagePlacement](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Save(Stream, ImageFormat) {#save_1}
+## Save(Stream, ImageFormat) {#save_1}
 
 Saves image with corresponding transformations: scaling, rotation and resolution.
 
@@ -41,8 +44,7 @@ public void Save(Stream stream, ImageFormat format)
 
 ### See Also
 
-* class [ImagePlacement](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

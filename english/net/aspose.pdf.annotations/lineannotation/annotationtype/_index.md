@@ -1,10 +1,13 @@
 ---
-title: LineAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation property. Gets type of annotation
+title: "LineAnnotation.AnnotationType"
+linktitle: "AnnotationType"
+articleTitle: "AnnotationType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineAnnotation property. Gets type of annotation."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/lineannotation/annotationtype/
+weight: 180
+url: "/net/aspose.pdf.annotations/lineannotation/annotationtype/"
+product_version: "26.9"
 ---
 ## LineAnnotation.AnnotationType property
 
@@ -16,9 +19,8 @@ public override AnnotationType AnnotationType { get; }
 
 ### See Also
 
-* enum [AnnotationType](../../annotationtype/)
-* class [LineAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [AnnotationType](../../annotationtype/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

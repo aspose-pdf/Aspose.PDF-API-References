@@ -1,10 +1,13 @@
 ---
-title: XmpField.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField property. Gets the prefix
+title: "XmpField.Prefix"
+linktitle: "Prefix"
+articleTitle: "Prefix"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpField property. Gets the prefix."
 type: docs
-weight: 80
-url: /net/aspose.pdf/xmpfield/prefix/
+weight: 90
+url: "/net/aspose.pdf/xmpfield/prefix/"
+product_version: "26.9"
 ---
 ## XmpField.Prefix property
 
@@ -20,8 +23,7 @@ The prefix.
 
 ### See Also
 
-* class [XmpField](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

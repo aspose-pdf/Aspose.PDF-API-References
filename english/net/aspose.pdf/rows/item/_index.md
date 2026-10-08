@@ -1,10 +1,13 @@
 ---
-title: Rows.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Rows property. Gets or sets row
+title: "Rows.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rows property. Gets or sets row."
 type: docs
-weight: 30
-url: /net/aspose.pdf/rows/item/
+weight: 110
+url: "/net/aspose.pdf/rows/item/"
+product_version: "26.9"
 ---
 ## Rows indexer
 
@@ -20,9 +23,8 @@ public Row this[int index] { get; set; }
 
 ### See Also
 
-* class [Row](../../row/)
-* class [Rows](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

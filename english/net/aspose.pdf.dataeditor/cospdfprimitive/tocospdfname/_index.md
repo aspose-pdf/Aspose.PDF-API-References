@@ -1,10 +1,13 @@
 ---
-title: CosPdfPrimitive.ToCosPdfName
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfPrimitive method. Tries cast this instance to CosPdfName
+title: "CosPdfPrimitive.ToCosPdfName"
+linktitle: "ToCosPdfName"
+articleTitle: "ToCosPdfName"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfPrimitive method. Tries cast this instance to CosPdfName."
 type: docs
-weight: 30
-url: /net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/
+weight: 20
+url: "/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/"
+product_version: "26.9"
 ---
 ## CosPdfPrimitive.ToCosPdfName method
 
@@ -20,9 +23,8 @@ null if instance is not [`CosPdfName`](../../cospdfname/) else [`CosPdfName`](..
 
 ### See Also
 
-* class [CosPdfName](../../cospdfname/)
-* class [CosPdfPrimitive](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CosPdfName](../../cospdfname/)
+* class [CosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

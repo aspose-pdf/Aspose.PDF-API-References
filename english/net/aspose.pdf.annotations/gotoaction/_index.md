@@ -1,10 +1,14 @@
 ---
-title: Class GoToAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.GoToAction class. Represents a goto action that changes the view to a specified destination page location and magnification factor
+title: "GoToAction Class"
+linktitle: "GoToAction"
+articleTitle: "GoToAction"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.GoToAction class. Represents a go-to action that changes the view to a specified destination (page, location, and magnification factor)."
 type: docs
-weight: 1920
-url: /net/aspose.pdf.annotations/gotoaction/
+weight: 450
+url: "/net/aspose.pdf.annotations/gotoaction/"
+keywords: "GoToAction, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## GoToAction class
 
@@ -18,28 +22,28 @@ public class GoToAction : PdfAction
 
 | Name | Description |
 | --- | --- |
-| [GoToAction](gotoaction/#constructor_1)(ExplicitDestination) | Constructor. |
-| [GoToAction](gotoaction/#constructor_3)(Page) | Constructor for GoToAction class. |
-| [GoToAction](gotoaction/#constructor_2)(Document, string) | Action which linked with Named Destination. |
-| [GoToAction](gotoaction/#constructor_4)(Page, ExplicitDestinationType, params double[]) | Constructor for GoToAction class. |
+| [GoToAction](gotoaction/#constructor)(Page) | Constructor for GoToAction class. |
+| [GoToAction](gotoaction/#constructor_1)(Page, ExplicitDestinationType, params double[]) | Constructor for GoToAction class. |
+| [GoToAction](gotoaction/#constructor_2)(ExplicitDestination) | Constructor. |
+| [GoToAction](gotoaction/#constructor_3)(Document, string) | Action which linked with Named Destination. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| virtual [Destination](../../aspose.pdf.annotations/gotoaction/destination/) { get; set; } | Gets or sets the destination to jump to. |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
+| virtual [Destination](../../aspose.pdf.annotations/gotoaction/destination/) { get; set; } | Gets or sets the destination to jump to. |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Next actions in sequence. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Gets string for ECMAScript Action. |
+| [ToString](../../aspose.pdf.annotations/iappointment/tostring/)() | Returns string representation |
 
 ### See Also
 
-* class [PdfAction](../pdfaction/)
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

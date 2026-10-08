@@ -1,10 +1,13 @@
 ---
-title: TabStop.TabStop
-second_title: Aspose.PDF for .NET API Reference
-description: TabStop constructor. Initializes a new instance of the TabStop class
+title: "TabStop.TabStop"
+linktitle: "TabStop"
+articleTitle: "TabStop"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TabStop constructor. Initializes a new instance of the TabStop class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.text/tabstop/tabstop/
+url: "/net/aspose.pdf.text/tabstop/tabstop/"
+product_version: "26.9"
 ---
 ## TabStop() {#constructor}
 
@@ -16,9 +19,9 @@ public TabStop()
 
 ### See Also
 
-* class [TabStop](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TabStop](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,8 +39,7 @@ public TabStop(float position)
 
 ### See Also
 
-* class [TabStop](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TabStop](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

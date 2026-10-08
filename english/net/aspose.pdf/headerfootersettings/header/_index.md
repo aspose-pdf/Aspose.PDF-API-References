@@ -1,10 +1,13 @@
 ---
-title: HeaderFooterSettings.Header
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooterSettings property. Gets or sets the header settings
+title: "HeaderFooterSettings.Header"
+linktitle: "Header"
+articleTitle: "Header"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HeaderFooterSettings property. Gets or sets the header settings."
 type: docs
 weight: 30
-url: /net/aspose.pdf/headerfootersettings/header/
+url: "/net/aspose.pdf/headerfootersettings/header/"
+product_version: "26.9"
 ---
 ## HeaderFooterSettings.Header property
 
@@ -16,9 +19,8 @@ public Header Header { get; set; }
 
 ### See Also
 
-* class [Header](../../header/)
-* class [HeaderFooterSettings](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Header](../../header/)
+* class [HeaderFooterSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

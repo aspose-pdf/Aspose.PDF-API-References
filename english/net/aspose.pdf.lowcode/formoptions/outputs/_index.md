@@ -1,10 +1,13 @@
 ---
-title: FormOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: FormOptions property. Gets collection of added targets for saving operation results
+title: "FormOptions.Outputs"
+linktitle: "Outputs"
+articleTitle: "Outputs"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormOptions property. Gets collection of added targets for saving operation results."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/formoptions/outputs/
+weight: 40
+url: "/net/aspose.pdf.lowcode/formoptions/outputs/"
+product_version: "26.9"
 ---
 ## FormOptions.Outputs property
 
@@ -16,9 +19,8 @@ public List<IDataSource> Outputs { get; }
 
 ### See Also
 
-* interface [IDataSource](../../idatasource/)
-* class [FormOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IDataSource](../../idatasource/)
+* class [FormOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

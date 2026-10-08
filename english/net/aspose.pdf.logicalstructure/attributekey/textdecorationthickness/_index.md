@@ -1,10 +1,13 @@
 ---
-title: AttributeKey.TextDecorationThickness
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey field. TextDecorationThickness attribute Layout attribute owner
+title: "AttributeKey.TextDecorationThickness"
+linktitle: "TextDecorationThickness"
+articleTitle: "TextDecorationThickness"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. TextDecorationThickness attribute (Layout attribute owner)."
 type: docs
-weight: 360
-url: /net/aspose.pdf.logicalstructure/attributekey/textdecorationthickness/
+weight: 290
+url: "/net/aspose.pdf.logicalstructure/attributekey/textdecorationthickness/"
+product_version: "26.9"
 ---
 ## AttributeKey.TextDecorationThickness field
 
@@ -16,8 +19,7 @@ public static readonly AttributeKey TextDecorationThickness;
 
 ### See Also
 
-* class [AttributeKey](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Measure.AngleFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Measure property. A number format array for measurement of angles
+title: "Measure.AngleFormat"
+linktitle: "AngleFormat"
+articleTitle: "AngleFormat"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Measure property. A number format array for measurement of angles."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/measure/angleformat/
+weight: 70
+url: "/net/aspose.pdf.annotations/measure/angleformat/"
+product_version: "26.9"
 ---
 ## Measure.AngleFormat property
 
@@ -16,9 +19,8 @@ public NumberFormatList AngleFormat { get; set; }
 
 ### See Also
 
-* class [NumberFormatList](../../measure.numberformatlist/)
-* class [Measure](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [NumberFormatList](../../measure.numberformatlist/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

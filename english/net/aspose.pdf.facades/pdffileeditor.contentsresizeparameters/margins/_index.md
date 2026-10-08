@@ -1,10 +1,13 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeParameters method. Creates resize parameters with specifed margins value. Contents size is automatically calculated
+title: "PdfFileEditor.ContentsResizeParameters.Margins"
+linktitle: "Margins"
+articleTitle: "Margins"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ContentsResizeParameters method. Creates resize parameters with specifed margins value. Contents size is automatically calculated."
 type: docs
-weight: 40
-url: /net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/margins/
+weight: 30
+url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/margins/"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeParameters.Margins method
 
@@ -27,8 +30,7 @@ Created resize parameters.
 
 ### See Also
 
-* class [ContentsResizeParameters](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ContentsResizeParameters](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

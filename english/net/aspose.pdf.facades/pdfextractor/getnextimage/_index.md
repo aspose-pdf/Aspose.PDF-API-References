@@ -1,12 +1,15 @@
 ---
-title: PdfExtractor.GetNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor method. Retrieves next image from PDF document. Note ExtractImage must be called before using of this method
+title: "PdfExtractor.GetNextImage"
+linktitle: "GetNextImage"
+articleTitle: "GetNextImage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Retrieves next image from PDF document. Note: ExtractImage must be called before using of this method."
 type: docs
-weight: 170
-url: /net/aspose.pdf.facades/pdfextractor/getnextimage/
+weight: 110
+url: "/net/aspose.pdf.facades/pdfextractor/getnextimage/"
+product_version: "26.9"
 ---
-## GetNextImage(string) {#getnextimage_2}
+## GetNextImage(string) {#getnextimage}
 
 Retrieves next image from PDF document. Note: ExtractImage must be called before using of this method.
 
@@ -37,13 +40,13 @@ while (extractor.HasNextImage())
 
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(string, ImageFormat) {#getnextimage_3}
+## GetNextImage(string, ImageFormat) {#getnextimage_1}
 
 Retrieves next image from PDF document with given image format. Note: ExtractImage must be called before using of this method.
 
@@ -62,13 +65,13 @@ True is image is successfully extracted
 
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(Stream, ImageFormat) {#getnextimage_1}
+## GetNextImage(Stream, ImageFormat) {#getnextimage_2}
 
 Retrieve next image from PDF file and stores it into stream with given image format.
 
@@ -87,13 +90,13 @@ True in case the image is successfully extracted.
 
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(Stream) {#getnextimage}
+## GetNextImage(Stream) {#getnextimage_3}
 
 Retrieve next image from PDF file and stores it into stream.
 
@@ -111,8 +114,7 @@ True in case the image is successfully extracted.
 
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

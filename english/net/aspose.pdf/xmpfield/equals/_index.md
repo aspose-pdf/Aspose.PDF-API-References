@@ -1,10 +1,13 @@
 ---
-title: XmpField.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField method. Indicates whether this instance and a specified object are equal
+title: "XmpField.Equals"
+linktitle: "Equals"
+articleTitle: "Equals"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpField method. Indicates whether this instance and a specified object are equal."
 type: docs
-weight: 100
-url: /net/aspose.pdf/xmpfield/equals/
+weight: 10
+url: "/net/aspose.pdf/xmpfield/equals/"
+product_version: "26.9"
 ---
 ## XmpField.Equals method
 
@@ -24,8 +27,7 @@ true if obj and this instance are the same type and represent the same value; ot
 
 ### See Also
 
-* class [XmpField](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfASymbolicFontEncodingStrategyQueueItemCMapEncodingTableType enum. Declares set of some known encoding subtables
+title: "PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType Enum"
+linktitle: "PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType"
+articleTitle: "PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType enum. Declares set of some known encoding subtables"
 type: docs
-weight: 9620
-url: /net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/
+weight: 2380
+url: "/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/"
+product_version: "26.9"
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType enumeration
 
@@ -25,8 +28,7 @@ public enum CMapEncodingTableType : short
 
 ### See Also
 
-* class [QueueItem](../pdfasymbolicfontencodingstrategy.queueitem/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfASymbolicFontEncodingStrategy.QueueItem](../pdfasymbolicfontencodingstrategy.queueitem/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

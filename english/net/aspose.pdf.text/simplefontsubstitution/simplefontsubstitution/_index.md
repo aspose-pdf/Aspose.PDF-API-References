@@ -1,10 +1,13 @@
 ---
-title: SimpleFontSubstitution.SimpleFontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: SimpleFontSubstitution constructor. Initializes a new instance of SimpleFontSubstitution class
+title: "SimpleFontSubstitution.SimpleFontSubstitution"
+linktitle: "SimpleFontSubstitution"
+articleTitle: "SimpleFontSubstitution"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SimpleFontSubstitution constructor. Initializes a new instance of SimpleFontSubstitution class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.text/simplefontsubstitution/simplefontsubstitution/
+url: "/net/aspose.pdf.text/simplefontsubstitution/simplefontsubstitution/"
+product_version: "26.9"
 ---
 ## SimpleFontSubstitution constructor
 
@@ -23,8 +26,7 @@ public SimpleFontSubstitution(string originalFontName, string substitutionFontNa
 
 ### See Also
 
-* class [SimpleFontSubstitution](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SimpleFontSubstitution](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

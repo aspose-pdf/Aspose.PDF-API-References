@@ -1,10 +1,13 @@
 ---
-title: PdfToHtmlOptions.PdfToHtmlOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToHtmlOptions constructor. Initializes new instance of the PdfToHtmlOptions object with default options
+title: "PdfToHtmlOptions.PdfToHtmlOptions"
+linktitle: "PdfToHtmlOptions"
+articleTitle: "PdfToHtmlOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfToHtmlOptions constructor. Initializes new instance of the PdfToHtmlOptions object with default options."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/pdftohtmloptions/pdftohtmloptions/
+url: "/net/aspose.pdf.lowcode/pdftohtmloptions/pdftohtmloptions/"
+product_version: "26.9"
 ---
 ## PdfToHtmlOptions() {#constructor}
 
@@ -16,9 +19,9 @@ public PdfToHtmlOptions()
 
 ### See Also
 
-* class [PdfToHtmlOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfToHtmlOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,9 +39,8 @@ public PdfToHtmlOptions(SaveDataType outputDataType)
 
 ### See Also
 
-* enum [SaveDataType](../../pdftohtmloptions.savedatatype/)
-* class [PdfToHtmlOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [SaveDataType](../../pdftohtmloptions.savedatatype/)
+* class [PdfToHtmlOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

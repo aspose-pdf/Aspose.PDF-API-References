@@ -1,12 +1,15 @@
 ---
-title: FitRExplicitDestination.FitRExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: FitRExplicitDestination constructor. Creates local explicit destination
+title: "FitRExplicitDestination.FitRExplicitDestination"
+linktitle: "FitRExplicitDestination"
+articleTitle: "FitRExplicitDestination"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FitRExplicitDestination constructor. Creates local explicit destination."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/fitrexplicitdestination/fitrexplicitdestination/
+url: "/net/aspose.pdf.annotations/fitrexplicitdestination/fitrexplicitdestination/"
+product_version: "26.9"
 ---
-## FitRExplicitDestination(Page, double, double, double, double) {#constructor_1}
+## FitRExplicitDestination(Page, double, double, double, double) {#constructor}
 
 Creates local explicit destination.
 
@@ -24,14 +27,14 @@ public FitRExplicitDestination(Page page, double left, double bottom, double rig
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [FitRExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [FitRExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FitRExplicitDestination(int, double, double, double, double) {#constructor_2}
+## FitRExplicitDestination(int, double, double, double, double) {#constructor_1}
 
 Creates remote explicit destination.
 
@@ -49,8 +52,7 @@ public FitRExplicitDestination(int pageNumber, double left, double bottom, doubl
 
 ### See Also
 
-* class [FitRExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FitRExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

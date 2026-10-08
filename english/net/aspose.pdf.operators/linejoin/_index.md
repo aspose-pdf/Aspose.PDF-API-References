@@ -1,10 +1,13 @@
 ---
-title: Enum LineJoin
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.LineJoin enum. The line join style shall specify the shape to be used at the corners of paths that are stroked
+title: "LineJoin Enum"
+linktitle: "LineJoin"
+articleTitle: "LineJoin"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.LineJoin enum. The line join style shall specify the shape to be used at the corners of paths that are stroked."
 type: docs
-weight: 8710
-url: /net/aspose.pdf.operators/linejoin/
+weight: 370
+url: "/net/aspose.pdf.operators/linejoin/"
+product_version: "26.9"
 ---
 ## LineJoin enumeration
 
@@ -24,7 +27,6 @@ public enum LineJoin
 
 ### See Also
 
-* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
 

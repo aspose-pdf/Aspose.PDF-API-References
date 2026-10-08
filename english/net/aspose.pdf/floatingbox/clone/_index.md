@@ -1,10 +1,13 @@
 ---
-title: FloatingBox.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox method. Clones a new FloatingBox object. Paragraphs in the floating box are not cloned
+title: "FloatingBox.Clone"
+linktitle: "Clone"
+articleTitle: "Clone"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FloatingBox method. Clones a new FloatingBox object. Paragraphs in the floating box are not cloned."
 type: docs
-weight: 140
-url: /net/aspose.pdf/floatingbox/clone/
+weight: 30
+url: "/net/aspose.pdf/floatingbox/clone/"
+product_version: "26.9"
 ---
 ## FloatingBox.Clone method
 
@@ -20,8 +23,7 @@ The new [`FloatingBox`](../) object.
 
 ### See Also
 
-* class [FloatingBox](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

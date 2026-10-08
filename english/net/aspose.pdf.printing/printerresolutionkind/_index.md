@@ -1,10 +1,13 @@
 ---
-title: Enum PrinterResolutionKind
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PrinterResolutionKind enum. Specifies a printer resolution
+title: "PrinterResolutionKind Enum"
+linktitle: "PrinterResolutionKind"
+articleTitle: "PrinterResolutionKind"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.PrinterResolutionKind enum. Specifies a printer resolution."
 type: docs
-weight: 9970
-url: /net/aspose.pdf.printing/printerresolutionkind/
+weight: 180
+url: "/net/aspose.pdf.printing/printerresolutionkind/"
+product_version: "26.9"
 ---
 ## PrinterResolutionKind enumeration
 
@@ -26,7 +29,6 @@ public enum PrinterResolutionKind
 
 ### See Also
 
-* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
 

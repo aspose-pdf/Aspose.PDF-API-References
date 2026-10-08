@@ -1,10 +1,13 @@
 ---
-title: PDF3DCrossSection.CuttingPlaneOpacity
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSection property. Gets or sets the cutting plane opacity
+title: "PDF3DCrossSection.CuttingPlaneOpacity"
+linktitle: "CuttingPlaneOpacity"
+articleTitle: "CuttingPlaneOpacity"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCrossSection property. Gets or sets the cutting plane opacity."
 type: docs
-weight: 40
-url: /net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneopacity/
+weight: 30
+url: "/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneopacity/"
+product_version: "26.9"
 ---
 ## PDF3DCrossSection.CuttingPlaneOpacity property
 
@@ -26,8 +29,7 @@ The cutting plane opacity.
 
 ### See Also
 
-* class [PDF3DCrossSection](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DCrossSection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

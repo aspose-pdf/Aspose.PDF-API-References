@@ -1,14 +1,20 @@
 ---
-title: HtmlSaveOptions.PageBorderIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions field. This attribute represents set of settings used for drawing border if any in result HTML document around area that represent source PDF page. In essence it concerns of showing of pages paper edges not page border referenced in PDF page itself
+title: "HtmlSaveOptions.PageBorderIfAny"
+linktitle: "PageBorderIfAny"
+articleTitle: "PageBorderIfAny"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. This attribute represents set of settings used for drawing border (if any) in result HTML document around area that represent source P..."
 type: docs
-weight: 360
-url: /net/aspose.pdf/htmlsaveoptions/pageborderifany/
+weight: 320
+url: "/net/aspose.pdf/htmlsaveoptions/pageborderifany/"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.PageBorderIfAny field
 
-This attribute represents set of settings used for drawing border (if any) in result HTML document around area that represent source PDF page. In essence it concerns of showing of page's paper edges, not page border referenced in PDF page itself.
+This attribute represents set of settings used for drawing border (if any)
+ in result HTML document around area that represent source PDF page.
+ In essence it concerns of showing of page's paper edges,
+ not page border referenced in PDF page itself.
 
 ```csharp
 public BorderInfo PageBorderIfAny;
@@ -16,9 +22,8 @@ public BorderInfo PageBorderIfAny;
 
 ### See Also
 
-* class [BorderInfo](../../saveoptions.borderinfo/)
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BorderInfo](../../borderinfo/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

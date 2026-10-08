@@ -1,12 +1,21 @@
 ---
-title: Aspose.Pdf.Printing
-second_title: Aspose.PDF for .NET API Reference
-description: The Aspose.Pdf.Printing namespace provides classes and functionalities for handling PDF printing operations including printer settings page settings and extensions for managing printrelated configurations
+title: "Aspose.Pdf.Printing"
+linktitle: "Aspose.Pdf.Printing"
+articleTitle: "Aspose.Pdf.Printing"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "The Aspose.Pdf.Printing namespace provides classes and functionalities for handling PDF printing operations, including printer settings, page settings, and e..."
 type: docs
-weight: 170
-url: /net/aspose.pdf.printing/
+weight: 10
+url: "/net/aspose.pdf.printing/"
+keywords: "Aspose.Pdf.Printing, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
-The **Aspose.Pdf.Printing** namespace provides classes and functionalities for handling PDF printing operations, including printer settings, page settings, and extensions for managing print-related configurations.
+## Overview
+
+The **Aspose.Pdf.Printing** namespace provides classes and functionalities for handling PDF printing operations,
+ including printer settings, page settings, and extensions for managing print-related configurations.
+
+Part of the [Aspose.PDF for .NET](../) API reference.
 
 ## Classes
 
@@ -27,6 +36,7 @@ The **Aspose.Pdf.Printing** namespace provides classes and functionalities for h
 | [PrinterSettings](./printersettings/) | Specifies information about how a document is printed, including the printer that prints it. |
 | [PrinterSettingsExtensions](./printersettingsextensions/) | Represents extension methods for [`PrinterSettings`](../aspose.pdf.printing/printersettings/). |
 | [StartEndPageEventArgs](./startendpageeventargs/) | Provides data for the [`StartPage`](../aspose.pdf.facades/pdfviewer/startpage/) and [`EndPage`](../aspose.pdf.facades/pdfviewer/endpage/) events of the [`PdfViewer`](../aspose.pdf.facades/pdfviewer/) class. |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -34,7 +44,6 @@ The **Aspose.Pdf.Printing** namespace provides classes and functionalities for h
 | [Duplex](./duplex/) | Specifies the printer's duplex setting. |
 | [PaperKind](./paperkind/) | Specifies the standard paper sizes. |
 | [PaperSourceKind](./papersourcekind/) | Standard paper sources. |
-| [PrinterResolutionKind](./printerresolutionkind/) | Specifies a printer resolution. |
 | [PrintRange](./printrange/) | Specifies the option that designate the part of the document to print. |
-
+| [PrinterResolutionKind](./printerresolutionkind/) | Specifies a printer resolution. |
 

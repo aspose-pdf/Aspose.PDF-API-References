@@ -1,10 +1,13 @@
 ---
-title: PdfFileStamp.PosUpperLeft
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp field. Upper let position
+title: "PdfFileStamp.PosUpperLeft"
+linktitle: "PosUpperLeft"
+articleTitle: "PosUpperLeft"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp field. Upper let position."
 type: docs
-weight: 220
-url: /net/aspose.pdf.facades/pdffilestamp/posupperleft/
+weight: 430
+url: "/net/aspose.pdf.facades/pdffilestamp/posupperleft/"
+product_version: "26.9"
 ---
 ## PdfFileStamp.PosUpperLeft field
 
@@ -16,8 +19,7 @@ public const int PosUpperLeft;
 
 ### See Also
 
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

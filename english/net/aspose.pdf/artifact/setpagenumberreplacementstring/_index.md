@@ -1,14 +1,18 @@
 ---
-title: Artifact.SetPageNumberReplacementString
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact method. Sets what string will be replaced with the page number. The default value is 
+title: "Artifact.SetPageNumberReplacementString"
+linktitle: "SetPageNumberReplacementString"
+articleTitle: "SetPageNumberReplacementString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact method. Sets what string will be replaced with the page number. The default value is #."
 type: docs
-weight: 300
-url: /net/aspose.pdf/artifact/setpagenumberreplacementstring/
+weight: 50
+url: "/net/aspose.pdf/artifact/setpagenumberreplacementstring/"
+product_version: "26.9"
 ---
 ## Artifact.SetPageNumberReplacementString method
 
-Sets what string will be replaced with the page number. The default value is #.
+Sets what string will be replaced with the page number.
+ The default value is #.
 
 ```csharp
 public void SetPageNumberReplacementString(string value)
@@ -20,8 +24,7 @@ public void SetPageNumberReplacementString(string value)
 
 ### See Also
 
-* class [Artifact](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

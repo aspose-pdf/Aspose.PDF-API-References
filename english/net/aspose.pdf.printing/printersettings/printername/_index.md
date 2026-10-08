@@ -1,10 +1,13 @@
 ---
-title: PrinterSettings.PrinterName
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings property. Gets or sets the name of the printer
+title: "PrinterSettings.PrinterName"
+linktitle: "PrinterName"
+articleTitle: "PrinterName"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterSettings property. Gets or sets the name of the printer."
 type: docs
-weight: 90
-url: /net/aspose.pdf.printing/printersettings/printername/
+weight: 130
+url: "/net/aspose.pdf.printing/printersettings/printername/"
+product_version: "26.9"
 ---
 ## PrinterSettings.PrinterName property
 
@@ -16,8 +19,7 @@ public string PrinterName { get; set; }
 
 ### See Also
 
-* class [PrinterSettings](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

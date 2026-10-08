@@ -1,10 +1,13 @@
 ---
-title: Dash.Off
-second_title: Aspose.PDF for .NET API Reference
-description: Dash property. Gets or sets length of first gap between dashes
+title: "Dash.Off"
+linktitle: "Off"
+articleTitle: "Off"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Dash property. Gets or sets length of first gap between dashes."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/dash/off/
+weight: 40
+url: "/net/aspose.pdf.annotations/dash/off/"
+product_version: "26.9"
 ---
 ## Dash.Off property
 
@@ -16,8 +19,7 @@ public int Off { get; set; }
 
 ### See Also
 
-* class [Dash](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Dash](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: LineAnnotation.Ending
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation property. Gets or sets line ending point
+title: "LineAnnotation.Ending"
+linktitle: "Ending"
+articleTitle: "Ending"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineAnnotation property. Gets or sets line ending point."
 type: docs
-weight: 50
-url: /net/aspose.pdf.annotations/lineannotation/ending/
+weight: 70
+url: "/net/aspose.pdf.annotations/lineannotation/ending/"
+product_version: "26.9"
 ---
 ## LineAnnotation.Ending property
 
@@ -16,9 +19,8 @@ public Point Ending { get; set; }
 
 ### See Also
 
-* class [Point](../../../aspose.pdf/point/)
-* class [LineAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Point](../../../aspose.pdf/point/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: AnnotationActionCollection.OnPressMouseBtn
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationActionCollection property. Gets or sets an action to be performed when the mouse button is pressed inside the annotations active area
+title: "AnnotationActionCollection.OnPressMouseBtn"
+linktitle: "OnPressMouseBtn"
+articleTitle: "OnPressMouseBtn"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationActionCollection property. Gets or sets an action to be performed when the mouse button is pressed inside the annotation's active area."
 type: docs
-weight: 100
-url: /net/aspose.pdf.annotations/annotationactioncollection/onpressmousebtn/
+weight: 30
+url: "/net/aspose.pdf.annotations/annotationactioncollection/onpressmousebtn/"
+product_version: "26.9"
 ---
 ## AnnotationActionCollection.OnPressMouseBtn property
 
@@ -16,9 +19,8 @@ public PdfAction OnPressMouseBtn { get; set; }
 
 ### See Also
 
-* class [PdfAction](../../pdfaction/)
-* class [AnnotationActionCollection](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

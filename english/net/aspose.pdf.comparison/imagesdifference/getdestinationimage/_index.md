@@ -1,10 +1,13 @@
 ---
-title: ImagesDifference.GetDestinationImage
-second_title: Aspose.PDF for .NET API Reference
-description: ImagesDifference method. Returns a new bitmap representing the destination image by applying the difference array to the source image
+title: "ImagesDifference.GetDestinationImage"
+linktitle: "GetDestinationImage"
+articleTitle: "GetDestinationImage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImagesDifference method. Returns a new bitmap representing the destination image by applying the difference array to the source image."
 type: docs
-weight: 70
-url: /net/aspose.pdf.comparison/imagesdifference/getdestinationimage/
+weight: 10
+url: "/net/aspose.pdf.comparison/imagesdifference/getdestinationimage/"
+product_version: "26.9"
 ---
 ## ImagesDifference.GetDestinationImage method
 
@@ -20,8 +23,7 @@ A destination image.
 
 ### See Also
 
-* class [ImagesDifference](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImagesDifference](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: PKCS1.PKCS1
-second_title: Aspose.PDF for .NET API Reference
-description: PKCS1 constructor. Initializes new instance of the PKCS1 class
+title: "PKCS1.PKCS1"
+linktitle: "PKCS1"
+articleTitle: "PKCS1"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PKCS1 constructor. Initializes new instance of the PKCS1 class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.forms/pkcs1/pkcs1/
+url: "/net/aspose.pdf.forms/pkcs1/pkcs1/"
+product_version: "26.9"
 ---
-## PKCS1(Stream) {#constructor_1}
+## PKCS1(Stream) {#constructor}
 
 Initializes new instance of the [`PKCS1`](../) class.
 
@@ -20,13 +23,13 @@ public PKCS1(Stream image)
 
 ### See Also
 
-* class [PKCS1](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [PKCS1](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PKCS1() {#constructor}
+## PKCS1() {#constructor_1}
 
 Inititalizes new instance of the [`PKCS1`](../) class.
 
@@ -36,13 +39,13 @@ public PKCS1()
 
 ### See Also
 
-* class [PKCS1](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [PKCS1](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PKCS1(string, string) {#constructor_3}
+## PKCS1(string, string) {#constructor_2}
 
 Inititalizes new instance of the [`PKCS1`](../) class.
 
@@ -57,13 +60,13 @@ public PKCS1(string pfx, string password)
 
 ### See Also
 
-* class [PKCS1](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [PKCS1](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PKCS1(Stream, string) {#constructor_2}
+## PKCS1(Stream, string) {#constructor_3}
 
 Inititalizes new instance of the [`PKCS1`](../) class.
 
@@ -78,8 +81,7 @@ public PKCS1(Stream pfx, string password)
 
 ### See Also
 
-* class [PKCS1](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PKCS1](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Border.HCornerRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Border property. Gets or sets horizontal corner radius
+title: "Border.HCornerRadius"
+linktitle: "HCornerRadius"
+articleTitle: "HCornerRadius"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Border property. Gets or sets horizontal corner radius."
 type: docs
-weight: 50
-url: /net/aspose.pdf.annotations/border/hcornerradius/
+weight: 20
+url: "/net/aspose.pdf.annotations/border/hcornerradius/"
+product_version: "26.9"
 ---
 ## Border.HCornerRadius property
 
@@ -16,8 +19,7 @@ public double HCornerRadius { get; set; }
 
 ### See Also
 
-* class [Border](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,17 @@
 ---
-title: DictionaryEditor.DictionaryEditor
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor constructor. 
+title: "DictionaryEditor.DictionaryEditor"
+linktitle: "DictionaryEditor"
+articleTitle: "DictionaryEditor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DictionaryEditor constructor. Initializes a new instance of the DictionaryEditor class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.dataeditor/dictionaryeditor/dictionaryeditor/
+url: "/net/aspose.pdf.dataeditor/dictionaryeditor/dictionaryeditor/"
+product_version: "26.9"
 ---
-## DictionaryEditor(Page) {#constructor_1}
+## DictionaryEditor(Page) {#constructor}
+
+Initializes a new instance of the DictionaryEditor class.
 
 ```csharp
 public DictionaryEditor(Page page)
@@ -24,14 +29,16 @@ public DictionaryEditor(Page page)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [DictionaryEditor](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## DictionaryEditor(Document) {#constructor}
+## DictionaryEditor(Document) {#constructor_1}
+
+Initializes a new instance of the DictionaryEditor class.
 
 ```csharp
 public DictionaryEditor(Document document)
@@ -49,14 +56,16 @@ public DictionaryEditor(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [DictionaryEditor](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DictionaryEditor(Resources) {#constructor_2}
+
+Initializes a new instance of the DictionaryEditor class.
 
 ```csharp
 public DictionaryEditor(Resources resources)
@@ -74,9 +83,8 @@ public DictionaryEditor(Resources resources)
 
 ### See Also
 
-* class [Resources](../../../aspose.pdf/resources/)
-* class [DictionaryEditor](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Resources](../../../aspose.pdf/resources/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

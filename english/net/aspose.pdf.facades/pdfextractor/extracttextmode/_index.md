@@ -1,10 +1,13 @@
 ---
-title: PdfExtractor.ExtractTextMode
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor property. Sets the mode for extract texts result
+title: "PdfExtractor.ExtractTextMode"
+linktitle: "ExtractTextMode"
+articleTitle: "ExtractTextMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor property. Sets the mode for extract text's result."
 type: docs
-weight: 40
-url: /net/aspose.pdf.facades/pdfextractor/extracttextmode/
+weight: 270
+url: "/net/aspose.pdf.facades/pdfextractor/extracttextmode/"
+product_version: "26.9"
 ---
 ## PdfExtractor.ExtractTextMode property
 
@@ -32,8 +35,7 @@ extractor.GetText(@"D:\Text\text.txt");
 
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

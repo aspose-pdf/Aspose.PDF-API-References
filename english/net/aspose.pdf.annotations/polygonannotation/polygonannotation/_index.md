@@ -1,12 +1,15 @@
 ---
-title: PolygonAnnotation.PolygonAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: PolygonAnnotation constructor. Constructor for using with Generator
+title: "PolygonAnnotation.PolygonAnnotation"
+linktitle: "PolygonAnnotation"
+articleTitle: "PolygonAnnotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PolygonAnnotation constructor. Constructor for using with Generator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/polygonannotation/polygonannotation/
+url: "/net/aspose.pdf.annotations/polygonannotation/polygonannotation/"
+product_version: "26.9"
 ---
-## PolygonAnnotation(Document, Point[]) {#constructor}
+## PolygonAnnotation(Document, Point[]) {#constructor}
 
 Constructor for using with Generator.
 
@@ -21,15 +24,15 @@ public PolygonAnnotation(Document document, Point[] vertices)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [Point](../../../aspose.pdf/point/)
-* class [PolygonAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Point](../../../aspose.pdf/point/)
+* class [PolygonAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PolygonAnnotation(Page, Rectangle, Point[]) {#constructor_1}
+## PolygonAnnotation(Page, Rectangle, Point[]) {#constructor_1}
 
 Creates new Polygon annotation on the specified page.
 
@@ -45,11 +48,10 @@ public PolygonAnnotation(Page page, Rectangle rect, Point[] vertices)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [Point](../../../aspose.pdf/point/)
-* class [PolygonAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Point](../../../aspose.pdf/point/)
+* class [PolygonAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

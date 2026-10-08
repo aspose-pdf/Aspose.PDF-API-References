@@ -1,10 +1,13 @@
 ---
-title: XmpPdfAExtensionValueType.XmpPdfAExtensionValueType
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType constructor. Initializes new object
+title: "XmpPdfAExtensionValueType.XmpPdfAExtensionValueType"
+linktitle: "XmpPdfAExtensionValueType"
+articleTitle: "XmpPdfAExtensionValueType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionValueType constructor. Initializes new object."
 type: docs
 weight: 10
-url: /net/aspose.pdf/xmppdfaextensionvaluetype/xmppdfaextensionvaluetype/
+url: "/net/aspose.pdf/xmppdfaextensionvaluetype/xmppdfaextensionvaluetype/"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionValueType constructor
 
@@ -24,8 +27,7 @@ public XmpPdfAExtensionValueType(string type, string namespaceUri, string prefix
 
 ### See Also
 
-* class [XmpPdfAExtensionValueType](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

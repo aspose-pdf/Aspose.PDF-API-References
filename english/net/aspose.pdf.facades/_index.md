@@ -1,12 +1,21 @@
 ---
-title: Aspose.Pdf.Facades
-second_title: Aspose.PDF for .NET API Reference
-description: The Aspose.Pdf.Facades namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents perfoming operations like concatenating stamping signing annotating etc. but on the high level without access to a documents inner structure
+title: "Aspose.Pdf.Facades"
+linktitle: "Aspose.Pdf.Facades"
+articleTitle: "Aspose.Pdf.Facades"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "The Aspose.Pdf.Facades namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents perfoming operations ..."
 type: docs
-weight: 80
-url: /net/aspose.pdf.facades/
+weight: 10
+url: "/net/aspose.pdf.facades/"
+keywords: "Aspose.Pdf.Facades, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
-The **Aspose.Pdf.Facades** namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents perfoming operations like concatenating, stamping, signing, annotating etc. but on the high level without access to a document's inner structure.
+## Overview
+
+The **Aspose.Pdf.Facades** namespace provides classes originaly came from Aspose.Pdf.Kit. These classes are used for manipulating documents
+ perfoming operations like concatenating, stamping, signing, annotating etc. but on the high level without access to a document's inner structure.
+
+Part of the [Aspose.PDF for .NET](../) API reference.
 
 ## Classes
 
@@ -20,10 +29,10 @@ The **Aspose.Pdf.Facades** namespace provides classes originaly came from Aspose
 | [Facade](./facade/) | Base facade class. |
 | [FontColor](./fontcolor/) | Class representing color of the text. |
 | [Form](./form/) | Class representing Acro form object. |
-| [FormattedText](./formattedtext/) | Class which represents formatted text. Contains information about text and its color, size, style. |
 | [FormDataConverter](./formdataconverter/) | Represents a class to convert data from one format to another format. It can convert the data in fdf/xml/pdf/xfdf to the OLEDB/OdbcDB. It also can convert the data in the OLEDB/OdbcDB to the data in fdf/xml/xfdf. It can convert the fdf to the xml with "hard-named" tag. |
 | [FormEditor](./formeditor/) | Class for editing forms (ading/deleting field etc) |
 | [FormFieldFacade](./formfieldfacade/) | Class for representing field properties. |
+| [FormattedText](./formattedtext/) | Class which represents formatted text. Contains information about text and its color, size, style. |
 | [LineInfo](./lineinfo/) | Represents the information of line. |
 | [PdfAnnotationEditor](./pdfannotationeditor/) | Represents a class for work with PDF document annotations (comments). |
 | [PdfBookmarkEditor](./pdfbookmarkeditor/) | Represents a class to work with PDF file's bookmarks including create, modify, export, import and delete. |
@@ -41,7 +50,6 @@ The **Aspose.Pdf.Facades** namespace provides classes originaly came from Aspose
 | [PdfPageEditor](./pdfpageeditor/) | Represents a class to edit the PDF file's page, including rotating page, zooming page, moving position and changing page size. |
 | [PdfPrintPageInfo](./pdfprintpageinfo/) | Represents an object that contains current printing page info. |
 | [PdfProducer](./pdfproducer/) | Represents a class to produce PDF from other formats. This sample shows how to produce Pdf file from CGM file. |
-| [PdfQueryPageSettingsEventHandler](./pdfquerypagesettingseventhandler/) | Represents the method that handles the [`PdfQueryPageSettings`](../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/) event of a [`PdfViewer`](../aspose.pdf.facades/pdfviewer/). |
 | [PdfViewer](./pdfviewer/) | Represents a class to view or print a pdf. |
 | [PdfXmpMetadata](./pdfxmpmetadata/) | Class for manipulation with XMP metadata. |
 | [ReplaceTextStrategy](./replacetextstrategy/) | This class contains parameters which define PdfContentEditor behavior when ReplaceText operation is performed. |
@@ -51,12 +59,14 @@ The **Aspose.Pdf.Facades** namespace provides classes originaly came from Aspose
 | [StampInfo](./stampinfo/) | Class representing stamp information. |
 | [TextProperties](./textproperties/) | Represents text properties such as: text size, color, style etc. |
 | [ViewerPreference](./viewerpreference/) | Describes viewer prefereces (page mode, non full screen page mode, page layout). |
+
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
 | [IFacade](./ifacade/) | General facade interface that defines common facades methods. |
 | [ISaveableFacade](./isaveablefacade/) | Facade interface that defines methods common for all saveable facades. |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -77,4 +87,9 @@ The **Aspose.Pdf.Facades** namespace provides classes originaly came from Aspose
 | [SubmitFormFlag](./submitformflag/) | Enumeration of possible submit form flags. |
 | [WordWrapMode](./wordwrapmode/) | Defines word wrapping strategies |
 
+## Delegates
+
+| Delegate | Description |
+| --- | --- |
+| [PdfQueryPageSettingsEventHandler](./pdfquerypagesettingseventhandler/) | Represents the method that handles the [`PdfQueryPageSettings`](../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/) event of a [`PdfViewer`](../aspose.pdf.facades/pdfviewer/). |
 

@@ -1,12 +1,17 @@
 ---
-title: DocumentExtensions.GetChunksAsync
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentExtensions method. 
+title: "DocumentExtensions.GetChunksAsync"
+linktitle: "GetChunksAsync"
+articleTitle: "GetChunksAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentExtensions method."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/documentextensions/getchunksasync/
+url: "/net/aspose.pdf.ai/documentextensions/getchunksasync/"
+product_version: "26.9"
 ---
 ## DocumentExtensions.GetChunksAsync method
+
+
 
 ```csharp
 public static Task<IReadOnlyList<DocumentChunk>> GetChunksAsync(this Document document, 
@@ -16,12 +21,11 @@ public static Task<IReadOnlyList<DocumentChunk>> GetChunksAsync(this Document do
 
 ### See Also
 
-* class [DocumentChunk](../../documentchunk/)
-* class [Document](../../../aspose.pdf/document/)
-* class [ChunkingOptions](../../chunkingoptions/)
-* class [MarkdownSaveOptions](../../../aspose.pdf/markdownsaveoptions/)
-* class [DocumentExtensions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentChunk](../../documentchunk/)
+* class [Document](../../../aspose.pdf/document/)
+* class [ChunkingOptions](../../chunkingoptions/)
+* class [MarkdownSaveOptions](../../../aspose.pdf/markdownsaveoptions/)
+* class [DocumentExtensions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

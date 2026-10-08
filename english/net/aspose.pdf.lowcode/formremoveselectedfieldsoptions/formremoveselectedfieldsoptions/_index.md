@@ -1,10 +1,13 @@
 ---
-title: FormRemoveSelectedFieldsOptions.FormRemoveSelectedFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormRemoveSelectedFieldsOptions constructor. Initializes new instance of the FormEditorRemoveOptions object
+title: "FormRemoveSelectedFieldsOptions.FormRemoveSelectedFieldsOptions"
+linktitle: "FormRemoveSelectedFieldsOptions"
+articleTitle: "FormRemoveSelectedFieldsOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormRemoveSelectedFieldsOptions constructor. Initializes new instance of the FormEditorRemoveOptions object."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/formremoveselectedfieldsoptions/formremoveselectedfieldsoptions/
+url: "/net/aspose.pdf.lowcode/formremoveselectedfieldsoptions/formremoveselectedfieldsoptions/"
+product_version: "26.9"
 ---
 ## FormRemoveSelectedFieldsOptions constructor
 
@@ -20,9 +23,8 @@ public FormRemoveSelectedFieldsOptions(SelectField selectField)
 
 ### See Also
 
-* delegate [SelectField](../../selectfield/)
-* class [FormRemoveSelectedFieldsOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* delegate [SelectField](../../selectfield/)
+* class [FormRemoveSelectedFieldsOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

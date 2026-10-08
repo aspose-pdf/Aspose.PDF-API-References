@@ -1,12 +1,15 @@
 ---
-title: TextAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber method. Extracts text on the specified page
+title: "TextAbsorber.Visit"
+linktitle: "Visit"
+articleTitle: "Visit"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextAbsorber method. Extracts text on the specified page"
 type: docs
-weight: 70
-url: /net/aspose.pdf.text/textabsorber/visit/
+weight: 50
+url: "/net/aspose.pdf.text/textabsorber/visit/"
+product_version: "26.9"
 ---
-## Visit(Page) {#visit_1}
+## Visit(Page) {#visit}
 
 Extracts text on the specified page
 
@@ -38,14 +41,14 @@ string extractedText = absorber.Text;
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [TextAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(XForm) {#visit_2}
+## Visit(XForm) {#visit_1}
 
 Extracts text on the specified XForm.
 
@@ -77,14 +80,14 @@ string extractedText = absorber.Text;
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
-* class [TextAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(Document) {#visit}
+## Visit(Document) {#visit_2}
 
 Extracts text on the specified document
 
@@ -116,9 +119,8 @@ string extractedText = absorber.Text;
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [TextAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

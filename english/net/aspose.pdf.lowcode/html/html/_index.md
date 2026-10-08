@@ -1,10 +1,13 @@
 ---
-title: Html.Html
-second_title: Aspose.PDF for .NET API Reference
-description: Html constructor. The default constructor
+title: "Html.Html"
+linktitle: "Html"
+articleTitle: "Html"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Html constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/html/html/
+url: "/net/aspose.pdf.lowcode/html/html/"
+product_version: "26.9"
 ---
 ## Html constructor
 
@@ -16,8 +19,7 @@ public Html()
 
 ### See Also
 
-* class [Html](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Html](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

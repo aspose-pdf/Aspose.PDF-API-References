@@ -1,10 +1,13 @@
 ---
-title: LineTo.Y
-second_title: Aspose.PDF for .NET API Reference
-description: LineTo property. Y coordinate of line point
+title: "LineTo.Y"
+linktitle: "Y"
+articleTitle: "Y"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineTo property. Y coordinate of line point."
 type: docs
-weight: 30
-url: /net/aspose.pdf.operators/lineto/y/
+weight: 50
+url: "/net/aspose.pdf.operators/lineto/y/"
+product_version: "26.9"
 ---
 ## LineTo.Y property
 
@@ -16,8 +19,7 @@ public double Y { get; set; }
 
 ### See Also
 
-* class [LineTo](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LineTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

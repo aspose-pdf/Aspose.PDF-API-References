@@ -1,10 +1,13 @@
 ---
-title: TiffSettings.TiffSettings
-second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings constructor. Initializes a new instance of the TiffSettings class
+title: "TiffSettings.TiffSettings"
+linktitle: "TiffSettings"
+articleTitle: "TiffSettings"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TiffSettings constructor. Initializes a new instance of the TiffSettings class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.devices/tiffsettings/tiffsettings/
+url: "/net/aspose.pdf.devices/tiffsettings/tiffsettings/"
+product_version: "26.9"
 ---
 ## TiffSettings() {#constructor}
 
@@ -16,13 +19,13 @@ public TiffSettings()
 
 ### See Also
 
-* class [TiffSettings](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TiffSettings(ShapeType) {#constructor_7}
+## TiffSettings(ShapeType) {#constructor_1}
 
 Initializes a new instance of the [`TiffSettings`](../) class.
 
@@ -36,10 +39,10 @@ public TiffSettings(ShapeType shapeType)
 
 ### See Also
 
-* enum [ShapeType](../../shapetype/)
-* class [TiffSettings](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* enum [ShapeType](../../shapetype/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -57,14 +60,14 @@ public TiffSettings(CompressionType compressionType)
 
 ### See Also
 
-* enum [CompressionType](../../compressiontype/)
-* class [TiffSettings](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TiffSettings(ColorDepth) {#constructor_1}
+## TiffSettings(ColorDepth) {#constructor_3}
 
 Initializes a new instance of the [`TiffSettings`](../) class.
 
@@ -78,14 +81,14 @@ public TiffSettings(ColorDepth colorDepth)
 
 ### See Also
 
-* enum [ColorDepth](../../colordepth/)
-* class [TiffSettings](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* enum [ColorDepth](../../colordepth/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TiffSettings(Margins) {#constructor_6}
+## TiffSettings(Margins) {#constructor_4}
 
 Initializes a new instance of the [`TiffSettings`](../) class.
 
@@ -99,14 +102,14 @@ public TiffSettings(Margins margins)
 
 ### See Also
 
-* class [Margins](../../margins/)
-* class [TiffSettings](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TiffSettings(CompressionType, ColorDepth, Margins) {#constructor_3}
+## TiffSettings(CompressionType, ColorDepth, Margins) {#constructor_5}
 
 Initializes a new instance of the [`TiffSettings`](../) class.
 
@@ -122,16 +125,16 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 ### See Also
 
-* enum [CompressionType](../../compressiontype/)
-* enum [ColorDepth](../../colordepth/)
-* class [Margins](../../margins/)
-* class [TiffSettings](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* enum [ColorDepth](../../colordepth/)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TiffSettings(CompressionType, ColorDepth, Margins, bool) {#constructor_4}
+## TiffSettings(CompressionType, ColorDepth, Margins, bool) {#constructor_6}
 
 Initializes a new instance of the [`TiffSettings`](../) class.
 
@@ -149,16 +152,16 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 ### See Also
 
-* enum [CompressionType](../../compressiontype/)
-* enum [ColorDepth](../../colordepth/)
-* class [Margins](../../margins/)
-* class [TiffSettings](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* enum [ColorDepth](../../colordepth/)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TiffSettings(CompressionType, ColorDepth, Margins, bool, ShapeType) {#constructor_5}
+## TiffSettings(CompressionType, ColorDepth, Margins, bool, ShapeType) {#constructor_7}
 
 Initializes a new instance of the [`TiffSettings`](../) class.
 
@@ -177,13 +180,13 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 ### See Also
 
-* enum [CompressionType](../../compressiontype/)
-* enum [ColorDepth](../../colordepth/)
-* class [Margins](../../margins/)
-* enum [ShapeType](../../shapetype/)
-* class [TiffSettings](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* enum [ColorDepth](../../colordepth/)
+* class [Margins](../../margins/)
+* enum [ShapeType](../../shapetype/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -201,8 +204,7 @@ public TiffSettings(bool skipBlankPages)
 
 ### See Also
 
-* class [TiffSettings](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

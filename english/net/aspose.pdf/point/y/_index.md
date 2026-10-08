@@ -1,10 +1,13 @@
 ---
-title: Point.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Point property. Y coordinate value
+title: "Point.Y"
+linktitle: "Y"
+articleTitle: "Y"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Point property. Y coordinate value."
 type: docs
-weight: 40
-url: /net/aspose.pdf/point/y/
+weight: 60
+url: "/net/aspose.pdf/point/y/"
+product_version: "26.9"
 ---
 ## Point.Y property
 
@@ -16,8 +19,7 @@ public double Y { get; set; }
 
 ### See Also
 
-* class [Point](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

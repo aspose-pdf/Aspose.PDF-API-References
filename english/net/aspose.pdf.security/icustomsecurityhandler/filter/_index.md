@@ -1,10 +1,13 @@
 ---
-title: ICustomSecurityHandler.Filter
-second_title: Aspose.PDF for .NET API Reference
-description: ICustomSecurityHandler property. Gets the filter name
+title: "ICustomSecurityHandler.Filter"
+linktitle: "Filter"
+articleTitle: "Filter"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ICustomSecurityHandler property. Gets the filter name."
 type: docs
-weight: 10
-url: /net/aspose.pdf.security/icustomsecurityhandler/filter/
+weight: 100
+url: "/net/aspose.pdf.security/icustomsecurityhandler/filter/"
+product_version: "26.9"
 ---
 ## ICustomSecurityHandler.Filter property
 
@@ -16,8 +19,7 @@ public string Filter { get; }
 
 ### See Also
 
-* interface [ICustomSecurityHandler](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [ICustomSecurityHandler](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 

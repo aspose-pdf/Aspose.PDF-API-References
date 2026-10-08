@@ -1,10 +1,13 @@
 ---
-title: LineInfo.LineWidth
-second_title: Aspose.PDF for .NET API Reference
-description: LineInfo property. Gets or sets the width of a line
+title: "LineInfo.LineWidth"
+linktitle: "LineWidth"
+articleTitle: "LineWidth"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineInfo property. Gets or sets the width of a line."
 type: docs
-weight: 50
-url: /net/aspose.pdf.facades/lineinfo/linewidth/
+weight: 40
+url: "/net/aspose.pdf.facades/lineinfo/linewidth/"
+product_version: "26.9"
 ---
 ## LineInfo.LineWidth property
 
@@ -16,8 +19,7 @@ public int LineWidth { get; set; }
 
 ### See Also
 
-* class [LineInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

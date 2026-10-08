@@ -1,10 +1,13 @@
 ---
-title: StructureAttribute.SetColorValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute method. Sets Value Color
+title: "StructureAttribute.SetColorValue"
+linktitle: "SetColorValue"
+articleTitle: "SetColorValue"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureAttribute method. Sets Value Color."
 type: docs
-weight: 110
-url: /net/aspose.pdf.logicalstructure/structureattribute/setcolorvalue/
+weight: 120
+url: "/net/aspose.pdf.logicalstructure/structureattribute/setcolorvalue/"
+product_version: "26.9"
 ---
 ## StructureAttribute.SetColorValue method
 
@@ -20,9 +23,8 @@ public void SetColorValue(Color color)
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
-* class [StructureAttribute](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: RunListResponse.RunListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: RunListResponse constructor. The default constructor
+title: "RunListResponse.RunListResponse"
+linktitle: "RunListResponse"
+articleTitle: "RunListResponse"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunListResponse constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/runlistresponse/runlistresponse/
+url: "/net/aspose.pdf.ai/runlistresponse/runlistresponse/"
+product_version: "26.9"
 ---
 ## RunListResponse constructor
 
@@ -16,8 +19,7 @@ public RunListResponse()
 
 ### See Also
 
-* class [RunListResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RunListResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

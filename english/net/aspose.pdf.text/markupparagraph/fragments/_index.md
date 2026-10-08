@@ -1,10 +1,13 @@
 ---
-title: MarkupParagraph.Fragments
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupParagraph property. Collection of not empty TextFragment objects of the paragraph
+title: "MarkupParagraph.Fragments"
+linktitle: "Fragments"
+articleTitle: "Fragments"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupParagraph property. Collection of not empty TextFragment objects of the paragraph."
 type: docs
-weight: 20
-url: /net/aspose.pdf.text/markupparagraph/fragments/
+weight: 40
+url: "/net/aspose.pdf.text/markupparagraph/fragments/"
+product_version: "26.9"
 ---
 ## MarkupParagraph.Fragments property
 
@@ -20,9 +23,8 @@ The [`TextFragment`](../../textfragment/) object provides access to the search o
 
 ### See Also
 
-* class [TextFragment](../../textfragment/)
-* class [MarkupParagraph](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragment](../../textfragment/)
+* class [MarkupParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum VerificationState
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.VerificationState enum. Specifies the state of a digital signature verification process in a PDF document
+title: "VerificationState Enum"
+linktitle: "VerificationState"
+articleTitle: "VerificationState"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.VerificationState enum. Specifies the state of a digital signature verification process in a PDF document."
 type: docs
-weight: 10490
-url: /net/aspose.pdf.security/verificationstate/
+weight: 240
+url: "/net/aspose.pdf.security/verificationstate/"
+product_version: "26.9"
 ---
 ## VerificationState enumeration
 
@@ -24,7 +27,6 @@ public enum VerificationState
 
 ### See Also
 
-* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
 

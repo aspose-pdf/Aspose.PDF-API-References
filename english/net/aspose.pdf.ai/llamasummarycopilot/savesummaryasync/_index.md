@@ -1,12 +1,17 @@
 ---
-title: LlamaSummaryCopilot.SaveSummaryAsync
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilot method. 
+title: "LlamaSummaryCopilot.SaveSummaryAsync"
+linktitle: "SaveSummaryAsync"
+articleTitle: "SaveSummaryAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaSummaryCopilot method."
 type: docs
-weight: 50
-url: /net/aspose.pdf.ai/llamasummarycopilot/savesummaryasync/
+weight: 20
+url: "/net/aspose.pdf.ai/llamasummarycopilot/savesummaryasync/"
+product_version: "26.9"
 ---
-## SaveSummaryAsync(string, CancellationToken?) {#savesummaryasync_1}
+## SaveSummaryAsync(string, CancellationToken?) {#savesummaryasync}
+
+
 
 ```csharp
 public Task SaveSummaryAsync(string outputFileName, CancellationToken? cancellationToken = default)
@@ -14,13 +19,15 @@ public Task SaveSummaryAsync(string outputFileName, CancellationToken? cancellat
 
 ### See Also
 
-* class [LlamaSummaryCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SaveSummaryAsync(string, SaveFormat, CancellationToken?) {#savesummaryasync}
+## SaveSummaryAsync(string, SaveFormat, CancellationToken?) {#savesummaryasync_1}
+
+
 
 ```csharp
 public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat, 
@@ -29,9 +36,8 @@ public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat,
 
 ### See Also
 
-* enum [SaveFormat](../../../aspose.pdf/saveformat/)
-* class [LlamaSummaryCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [SaveFormat](../../../aspose.pdf/saveformat/)
+* class [LlamaSummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: IChatClient1.GetChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: IChatClient method. Gets an instance of IChatCopilot with the specified options
+title: "IChatClient<TOptions>.GetChatCopilot"
+linktitle: "GetChatCopilot"
+articleTitle: "GetChatCopilot"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IChatClient method. Gets an instance of IChatCopilot with the specified options."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/ichatclient-1/getchatcopilot/
+url: "/net/aspose.pdf.ai/ichatclient-1/getchatcopilot/"
+product_version: "26.9"
 ---
-## IChatClient&lt;TOptions&gt;.GetChatCopilot method
+## IChatClient<TOptions>.GetChatCopilot method
 
 Gets an instance of [`IChatCopilot`](../../ichatcopilot/) with the specified options.
 
@@ -24,10 +27,9 @@ An instance of [`IChatCopilot`](../../ichatcopilot/).
 
 ### See Also
 
-* interface [IChatCopilot](../../ichatcopilot/)
-* interface [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
-* interface [IChatClient&lt;TOptions&gt;](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IChatCopilot](../../ichatcopilot/)
+* interface [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
+* interface [IChatClient&lt;TOptions&gt;](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

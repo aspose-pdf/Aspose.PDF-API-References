@@ -1,10 +1,13 @@
 ---
-title: XForm.Name
-second_title: Aspose.PDF for .NET API Reference
-description: XForm property. Gets or sets form name. Form name is name which used to reference form in XObejct ductionary in page resources
+title: "XForm.Name"
+linktitle: "Name"
+articleTitle: "Name"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XForm property. Gets or sets form name. Form name is name which used to reference form in XObejct ductionary in page resources."
 type: docs
-weight: 60
-url: /net/aspose.pdf/xform/name/
+weight: 70
+url: "/net/aspose.pdf/xform/name/"
+product_version: "26.9"
 ---
 ## XForm.Name property
 
@@ -16,8 +19,7 @@ public string Name { get; set; }
 
 ### See Also
 
-* class [XForm](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

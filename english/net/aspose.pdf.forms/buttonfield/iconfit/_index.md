@@ -1,10 +1,13 @@
 ---
-title: ButtonField.IconFit
-second_title: Aspose.PDF for .NET API Reference
-description: ButtonField property. Gets icon fit object specifying how the widget annotations icon shall be displayed within its annotation rectangle
+title: "ButtonField.IconFit"
+linktitle: "IconFit"
+articleTitle: "IconFit"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ButtonField property. Gets icon fit object specifying how the widget annotation's icon shall be displayed within its annotation rectangle."
 type: docs
-weight: 40
-url: /net/aspose.pdf.forms/buttonfield/iconfit/
+weight: 110
+url: "/net/aspose.pdf.forms/buttonfield/iconfit/"
+product_version: "26.9"
 ---
 ## ButtonField.IconFit property
 
@@ -16,9 +19,8 @@ public IconFit IconFit { get; }
 
 ### See Also
 
-* class [IconFit](../../iconfit/)
-* class [ButtonField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [IconFit](../../iconfit/)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

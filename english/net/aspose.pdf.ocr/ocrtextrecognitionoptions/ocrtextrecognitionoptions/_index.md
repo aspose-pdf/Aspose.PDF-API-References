@@ -1,10 +1,13 @@
 ---
-title: OcrTextRecognitionOptions.OcrTextRecognitionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: OcrTextRecognitionOptions constructor. The default constructor
+title: "OcrTextRecognitionOptions.OcrTextRecognitionOptions"
+linktitle: "OcrTextRecognitionOptions"
+articleTitle: "OcrTextRecognitionOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcrTextRecognitionOptions constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ocr/ocrtextrecognitionoptions/ocrtextrecognitionoptions/
+url: "/net/aspose.pdf.ocr/ocrtextrecognitionoptions/ocrtextrecognitionoptions/"
+product_version: "26.9"
 ---
 ## OcrTextRecognitionOptions constructor
 
@@ -16,8 +19,7 @@ public OcrTextRecognitionOptions()
 
 ### See Also
 
-* class [OcrTextRecognitionOptions](../)
-* namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OcrTextRecognitionOptions](../)
+* namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
+* assembly [Aspose.PDF](../../../)
 

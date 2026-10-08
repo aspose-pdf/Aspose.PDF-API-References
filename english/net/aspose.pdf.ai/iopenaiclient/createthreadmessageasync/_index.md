@@ -1,10 +1,13 @@
 ---
-title: IOpenAIClient.CreateThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Creates a new message within a thread asynchronously
+title: "IOpenAIClient.CreateThreadMessageAsync"
+linktitle: "CreateThreadMessageAsync"
+articleTitle: "CreateThreadMessageAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Creates a new message within a thread asynchronously."
 type: docs
-weight: 80
-url: /net/aspose.pdf.ai/iopenaiclient/createthreadmessageasync/
+weight: 70
+url: "/net/aspose.pdf.ai/iopenaiclient/createthreadmessageasync/"
+product_version: "26.9"
 ---
 ## IOpenAIClient.CreateThreadMessageAsync method
 
@@ -33,10 +36,9 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [ThreadMessageResponse](../../threadmessageresponse/)
-* class [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

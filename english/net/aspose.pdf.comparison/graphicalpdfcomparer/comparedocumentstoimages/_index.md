@@ -1,10 +1,13 @@
 ---
-title: GraphicalPdfComparer.CompareDocumentsToImages
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicalPdfComparer method. Compares documents graphically. The comparison result is placed in images
+title: "GraphicalPdfComparer.CompareDocumentsToImages"
+linktitle: "CompareDocumentsToImages"
+articleTitle: "CompareDocumentsToImages"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicalPdfComparer method. Compares documents graphically. The comparison result is placed in images."
 type: docs
-weight: 50
-url: /net/aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstoimages/
+weight: 70
+url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstoimages/"
+product_version: "26.9"
 ---
 ## GraphicalPdfComparer.CompareDocumentsToImages method
 
@@ -31,9 +34,8 @@ public void CompareDocumentsToImages(Document document1, Document document2,
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [GraphicalPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

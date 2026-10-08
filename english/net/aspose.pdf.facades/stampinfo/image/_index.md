@@ -1,10 +1,13 @@
 ---
-title: StampInfo.Image
-second_title: Aspose.PDF for .NET API Reference
-description: StampInfo property. Gets image of stamp. May be null if stamp does not contain images for example for text stamp
+title: "StampInfo.Image"
+linktitle: "Image"
+articleTitle: "Image"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StampInfo property. Gets image of stamp. May be null if stamp does not contain images (for example for text stamp)."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/stampinfo/image/
+weight: 50
+url: "/net/aspose.pdf.facades/stampinfo/image/"
+product_version: "26.9"
 ---
 ## StampInfo.Image property
 
@@ -16,8 +19,7 @@ public Image Image { get; }
 
 ### See Also
 
-* class [StampInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

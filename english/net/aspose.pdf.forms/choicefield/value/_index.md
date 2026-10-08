@@ -1,10 +1,13 @@
 ---
-title: ChoiceField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: ChoiceField property. Gets or sets value of the field
+title: "ChoiceField.Value"
+linktitle: "Value"
+articleTitle: "Value"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChoiceField property. Gets or sets value of the field."
 type: docs
-weight: 70
-url: /net/aspose.pdf.forms/choicefield/value/
+weight: 120
+url: "/net/aspose.pdf.forms/choicefield/value/"
+product_version: "26.9"
 ---
 ## ChoiceField.Value property
 
@@ -16,8 +19,7 @@ public override string Value { get; set; }
 
 ### See Also
 
-* class [ChoiceField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

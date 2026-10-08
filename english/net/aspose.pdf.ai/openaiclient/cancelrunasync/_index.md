@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.CancelRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Cancels an existing run within a thread asynchronously
+title: "OpenAIClient.CancelRunAsync"
+linktitle: "CancelRunAsync"
+articleTitle: "CancelRunAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Cancels an existing run within a thread asynchronously."
 type: docs
-weight: 10
-url: /net/aspose.pdf.ai/openaiclient/cancelrunasync/
+weight: 500
+url: "/net/aspose.pdf.ai/openaiclient/cancelrunasync/"
+product_version: "26.9"
 ---
 ## OpenAIClient.CancelRunAsync method
 
@@ -34,9 +37,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [RunResponse](../../runresponse/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RunResponse](../../runresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

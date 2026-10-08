@@ -1,12 +1,15 @@
 ---
-title: OpenAISummaryCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions method. Adds a text document to the document collection for the summary copilot options
+title: "OpenAISummaryCopilotOptions.WithDocument"
+linktitle: "WithDocument"
+articleTitle: "WithDocument"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAISummaryCopilotOptions method. Adds a text document to the document collection for the summary copilot options."
 type: docs
-weight: 70
-url: /net/aspose.pdf.ai/openaisummarycopilotoptions/withdocument/
+weight: 120
+url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/withdocument/"
+product_version: "26.9"
 ---
-## WithDocument(TextDocument) {#withdocument_1}
+## WithDocument(TextDocument) {#withdocument}
 
 Adds a text document to the document collection for the summary copilot options.
 
@@ -24,14 +27,14 @@ The current instance of [`OpenAISummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [TextDocument](../../textdocument/)
-* class [OpenAISummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* class [TextDocument](../../textdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## WithDocument(PdfDocument) {#withdocument}
+## WithDocument(PdfDocument) {#withdocument_1}
 
 Adds a PDF document to the document collection for the summary copilot options.
 
@@ -49,10 +52,10 @@ The current instance of [`OpenAISummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [PdfDocument](../../pdfdocument/)
-* class [OpenAISummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* class [PdfDocument](../../pdfdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -74,8 +77,7 @@ The current instance of [`OpenAISummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAISummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

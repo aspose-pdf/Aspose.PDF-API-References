@@ -1,10 +1,13 @@
 ---
-title: Layer.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Layer method. Flattens the specified layer
+title: "Layer.Flatten"
+linktitle: "Flatten"
+articleTitle: "Flatten"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Layer method. Flattens the specified layer."
 type: docs
-weight: 80
-url: /net/aspose.pdf/layer/flatten/
+weight: 40
+url: "/net/aspose.pdf/layer/flatten/"
+product_version: "26.9"
 ---
 ## Layer.Flatten method
 
@@ -24,8 +27,7 @@ Setting the *cleanupContentStream* parameter to false speeds up the process of f
 
 ### See Also
 
-* class [Layer](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

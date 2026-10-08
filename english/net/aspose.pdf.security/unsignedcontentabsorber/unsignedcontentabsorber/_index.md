@@ -1,10 +1,13 @@
 ---
-title: UnsignedContentAbsorber.UnsignedContentAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: UnsignedContentAbsorber constructor. Represents a class used for processing unsigned content
+title: "UnsignedContentAbsorber.UnsignedContentAbsorber"
+linktitle: "UnsignedContentAbsorber"
+articleTitle: "UnsignedContentAbsorber"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "UnsignedContentAbsorber constructor. Represents a class used for processing unsigned content."
 type: docs
 weight: 10
-url: /net/aspose.pdf.security/unsignedcontentabsorber/unsignedcontentabsorber/
+url: "/net/aspose.pdf.security/unsignedcontentabsorber/unsignedcontentabsorber/"
+product_version: "26.9"
 ---
 ## UnsignedContentAbsorber constructor
 
@@ -20,9 +23,8 @@ public UnsignedContentAbsorber(PdfFileSignature signature)
 
 ### See Also
 
-* class [PdfFileSignature](../../../aspose.pdf.facades/pdffilesignature/)
-* class [UnsignedContentAbsorber](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileSignature](../../../aspose.pdf.facades/pdffilesignature/)
+* class [UnsignedContentAbsorber](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 

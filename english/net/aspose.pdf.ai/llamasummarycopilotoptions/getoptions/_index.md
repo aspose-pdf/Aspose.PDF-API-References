@@ -1,10 +1,13 @@
 ---
-title: LlamaSummaryCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions method. Gets the current LlamaSummaryCopilotOptions
+title: "LlamaSummaryCopilotOptions.GetOptions"
+linktitle: "GetOptions"
+articleTitle: "GetOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaSummaryCopilotOptions method. Gets the current LlamaSummaryCopilotOptions."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/llamasummarycopilotoptions/getoptions/
+weight: 10
+url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/getoptions/"
+product_version: "26.9"
 ---
 ## LlamaSummaryCopilotOptions.GetOptions method
 
@@ -20,8 +23,7 @@ The current instance of [`LlamaSummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [LlamaSummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

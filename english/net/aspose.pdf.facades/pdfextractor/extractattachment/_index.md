@@ -1,10 +1,13 @@
 ---
-title: PdfExtractor.ExtractAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor method. Extracts attachments from a Pdf document
+title: "PdfExtractor.ExtractAttachment"
+linktitle: "ExtractAttachment"
+articleTitle: "ExtractAttachment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Extracts attachments from a Pdf document."
 type: docs
-weight: 110
-url: /net/aspose.pdf.facades/pdfextractor/extractattachment/
+weight: 160
+url: "/net/aspose.pdf.facades/pdfextractor/extractattachment/"
+product_version: "26.9"
 ---
 ## ExtractAttachment() {#extractattachment}
 
@@ -16,9 +19,9 @@ public void ExtractAttachment()
 
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,8 +39,7 @@ public void ExtractAttachment(string attachmentFileName)
 
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

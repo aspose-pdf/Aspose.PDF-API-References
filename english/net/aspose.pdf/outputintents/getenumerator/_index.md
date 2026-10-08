@@ -1,10 +1,13 @@
 ---
-title: OutputIntents.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntents method. Returns an enumerator that iterates through the collection
+title: "OutputIntents.GetEnumerator"
+linktitle: "GetEnumerator"
+articleTitle: "GetEnumerator"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutputIntents method. Returns an enumerator that iterates through the collection."
 type: docs
-weight: 80
-url: /net/aspose.pdf/outputintents/getenumerator/
+weight: 50
+url: "/net/aspose.pdf/outputintents/getenumerator/"
+product_version: "26.9"
 ---
 ## OutputIntents.GetEnumerator method
 
@@ -20,9 +23,8 @@ An enumerator that can be used to iterate through the collection.
 
 ### See Also
 
-* class [OutputIntent](../../outputintent/)
-* class [OutputIntents](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

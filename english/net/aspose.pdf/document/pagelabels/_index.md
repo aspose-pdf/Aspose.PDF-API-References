@@ -1,10 +1,13 @@
 ---
-title: Document.PageLabels
-second_title: Aspose.PDF for .NET API Reference
-description: Document property. Gets page labels in the document
+title: "Document.PageLabels"
+linktitle: "PageLabels"
+articleTitle: "PageLabels"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets page labels in the document."
 type: docs
-weight: 460
-url: /net/aspose.pdf/document/pagelabels/
+weight: 1580
+url: "/net/aspose.pdf/document/pagelabels/"
+product_version: "26.9"
 ---
 ## Document.PageLabels property
 
@@ -16,9 +19,8 @@ public PageLabelCollection PageLabels { get; }
 
 ### See Also
 
-* class [PageLabelCollection](../../pagelabelcollection/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageLabelCollection](../../pagelabelcollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

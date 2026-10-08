@@ -1,10 +1,14 @@
 ---
-title: Class FileHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FileHyperlink class. Represents file hyperlink object
+title: "FileHyperlink Class"
+linktitle: "FileHyperlink"
+articleTitle: "FileHyperlink"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.FileHyperlink class. Represents file hyperlink object."
 type: docs
-weight: 4990
-url: /net/aspose.pdf/filehyperlink/
+weight: 880
+url: "/net/aspose.pdf/filehyperlink/"
+keywords: "FileHyperlink, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## FileHyperlink class
 
@@ -25,13 +29,12 @@ public sealed class FileHyperlink : Hyperlink
 
 | Name | Description |
 | --- | --- |
-| [NewWindow](../../aspose.pdf/filehyperlink/newwindow/) { get; set; } | Gets or sets a flag specifying whether to open the destination document in a new window (affect PDF documents only). |
-| [Path](../../aspose.pdf/filehyperlink/path/) { get; set; } | Gets or sets the path to file. |
+| [NewWindow](../../aspose.pdf/filehyperlink/newwindow/) { get; set; } | Gets or sets a flag specifying whether to open the destination document in a new window (affect PDF documents only). |
+| [Path](../../aspose.pdf/filehyperlink/path/) { get; set; } | Gets or sets the path to file. |
 
 ### See Also
 
-* class [Hyperlink](../hyperlink/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [Hyperlink](../hyperlink/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

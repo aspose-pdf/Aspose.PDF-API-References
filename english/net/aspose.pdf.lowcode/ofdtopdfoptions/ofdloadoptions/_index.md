@@ -1,10 +1,13 @@
 ---
-title: OfdToPdfOptions.OfdLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: OfdToPdfOptions property. Gets or sets the OFD load options
+title: "OfdToPdfOptions.OfdLoadOptions"
+linktitle: "OfdLoadOptions"
+articleTitle: "OfdLoadOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OfdToPdfOptions property. Gets or sets the OFD load options."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/ofdtopdfoptions/ofdloadoptions/
+weight: 30
+url: "/net/aspose.pdf.lowcode/ofdtopdfoptions/ofdloadoptions/"
+product_version: "26.9"
 ---
 ## OfdToPdfOptions.OfdLoadOptions property
 
@@ -16,9 +19,8 @@ public OfdLoadOptions OfdLoadOptions { get; set; }
 
 ### See Also
 
-* class [OfdLoadOptions](../../../aspose.pdf/ofdloadoptions/)
-* class [OfdToPdfOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OfdLoadOptions](../../../aspose.pdf/ofdloadoptions/)
+* class [OfdToPdfOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

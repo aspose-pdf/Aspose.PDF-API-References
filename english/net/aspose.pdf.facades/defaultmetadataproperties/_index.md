@@ -1,10 +1,13 @@
 ---
-title: Enum DefaultMetadataProperties
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.DefaultMetadataProperties enum. Enumeration of standard XMP properties
+title: "DefaultMetadataProperties Enum"
+linktitle: "DefaultMetadataProperties"
+articleTitle: "DefaultMetadataProperties"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.DefaultMetadataProperties enum. Enumeration of standard XMP properties."
 type: docs
-weight: 4380
-url: /net/aspose.pdf.facades/defaultmetadataproperties/
+weight: 100
+url: "/net/aspose.pdf.facades/defaultmetadataproperties/"
+product_version: "26.9"
 ---
 ## DefaultMetadataProperties enumeration
 
@@ -30,7 +33,6 @@ public enum DefaultMetadataProperties
 
 ### See Also
 
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

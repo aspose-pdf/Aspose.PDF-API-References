@@ -1,10 +1,14 @@
 ---
-title: Class DecryptionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.DecryptionOptions class. Represents Decryption Options for Security plugin
+title: "DecryptionOptions Class"
+linktitle: "DecryptionOptions"
+articleTitle: "DecryptionOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.DecryptionOptions class. Represents Decryption Options for Security plugin."
 type: docs
-weight: 7100
-url: /net/aspose.pdf.lowcode/decryptionoptions/
+weight: 50
+url: "/net/aspose.pdf.lowcode/decryptionoptions/"
+keywords: "DecryptionOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## DecryptionOptions class
 
@@ -24,11 +28,11 @@ public class DecryptionOptions : OrganizerBaseOptions
 
 | Name | Description |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeinputstreams/) { get; set; } | Close input streams after operation completed. |
-| [CloseOutputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
-| [Inputs](../../aspose.pdf.lowcode/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. |
-| [Outputs](../../aspose.pdf.lowcode/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
-| [OwnerPassword](../../aspose.pdf.lowcode/decryptionoptions/ownerpassword/) { get; set; } | Owner password. |
+| [CloseInputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeinputstreams/) { get; set; } | Close input streams after operation completed. |
+| [CloseOutputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
+| [Inputs](../../aspose.pdf.lowcode/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. |
+| [Outputs](../../aspose.pdf.lowcode/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
+| [OwnerPassword](../../aspose.pdf.lowcode/decryptionoptions/ownerpassword/) { get; set; } | Owner password. |
 
 ## Methods
 
@@ -39,8 +43,7 @@ public class DecryptionOptions : OrganizerBaseOptions
 
 ### See Also
 
-* class [OrganizerBaseOptions](../organizerbaseoptions/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

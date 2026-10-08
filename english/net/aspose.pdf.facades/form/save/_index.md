@@ -1,12 +1,15 @@
 ---
-title: Form.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Saves document into specified file
+title: "Form.Save"
+linktitle: "Save"
+articleTitle: "Save"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Saves document into specified file."
 type: docs
-weight: 340
-url: /net/aspose.pdf.facades/form/save/
+weight: 150
+url: "/net/aspose.pdf.facades/form/save/"
+product_version: "26.9"
 ---
-## Save(string) {#save_2}
+## Save(string) {#save}
 
 Saves document into specified file.
 
@@ -20,9 +23,9 @@ public override void Save(string destFile)
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,8 +43,7 @@ public override void Save(Stream destStream)
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

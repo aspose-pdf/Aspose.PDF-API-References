@@ -1,10 +1,13 @@
 ---
-title: Paragraphs.InsertRange
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphs method. Inserts the elements of a collection into the list at the specified index
+title: "Paragraphs.InsertRange"
+linktitle: "InsertRange"
+articleTitle: "InsertRange"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Paragraphs method. Inserts the elements of a collection into the list at the specified index."
 type: docs
-weight: 100
-url: /net/aspose.pdf/paragraphs/insertrange/
+weight: 80
+url: "/net/aspose.pdf/paragraphs/insertrange/"
+product_version: "26.9"
 ---
 ## Paragraphs.InsertRange method
 
@@ -21,9 +24,8 @@ public void InsertRange(int index, IEnumerable<BaseParagraph> collection)
 
 ### See Also
 
-* class [BaseParagraph](../../baseparagraph/)
-* class [Paragraphs](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

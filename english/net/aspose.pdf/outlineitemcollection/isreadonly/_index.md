@@ -1,10 +1,13 @@
 ---
-title: OutlineItemCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection property. Gets a value indicating whether the collection is readonly
+title: "OutlineItemCollection.IsReadOnly"
+linktitle: "IsReadOnly"
+articleTitle: "IsReadOnly"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection property. Gets a value indicating whether the collection is read-only."
 type: docs
-weight: 90
-url: /net/aspose.pdf/outlineitemcollection/isreadonly/
+weight: 270
+url: "/net/aspose.pdf/outlineitemcollection/isreadonly/"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.IsReadOnly property
 
@@ -16,8 +19,7 @@ public override bool IsReadOnly { get; }
 
 ### See Also
 
-* class [OutlineItemCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

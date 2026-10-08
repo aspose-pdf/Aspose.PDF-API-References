@@ -1,10 +1,13 @@
 ---
-title: LinkAnnotation.LinkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: LinkAnnotation constructor. Creates new Link annotation on the specified page
+title: "LinkAnnotation.LinkAnnotation"
+linktitle: "LinkAnnotation"
+articleTitle: "LinkAnnotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LinkAnnotation constructor. Creates new Link annotation on the specified page."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/linkannotation/linkannotation/
+url: "/net/aspose.pdf.annotations/linkannotation/linkannotation/"
+product_version: "26.9"
 ---
 ## LinkAnnotation constructor
 
@@ -21,10 +24,9 @@ public LinkAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [LinkAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [LinkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

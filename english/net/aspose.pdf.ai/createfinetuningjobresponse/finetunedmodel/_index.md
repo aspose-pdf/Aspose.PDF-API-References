@@ -1,10 +1,13 @@
 ---
-title: CreateFineTuningJobResponse.FineTunedModel
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobResponse property. Gets or sets the name of the finetuned model once complete
+title: "CreateFineTuningJobResponse.FineTunedModel"
+linktitle: "FineTunedModel"
+articleTitle: "FineTunedModel"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateFineTuningJobResponse property. Gets or sets the name of the fine-tuned model, once complete."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/createfinetuningjobresponse/finetunedmodel/
+weight: 60
+url: "/net/aspose.pdf.ai/createfinetuningjobresponse/finetunedmodel/"
+product_version: "26.9"
 ---
 ## CreateFineTuningJobResponse.FineTunedModel property
 
@@ -16,8 +19,7 @@ public string FineTunedModel { get; set; }
 
 ### See Also
 
-* class [CreateFineTuningJobResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CreateFineTuningJobResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

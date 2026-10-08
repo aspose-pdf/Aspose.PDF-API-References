@@ -1,10 +1,13 @@
 ---
-title: LineAnnotation.InteriorColor
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation property. Gets or sets interior color of the annotation
+title: "LineAnnotation.InteriorColor"
+linktitle: "InteriorColor"
+articleTitle: "InteriorColor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LineAnnotation property. Gets or sets interior color of the annotation."
 type: docs
-weight: 80
-url: /net/aspose.pdf.annotations/lineannotation/interiorcolor/
+weight: 90
+url: "/net/aspose.pdf.annotations/lineannotation/interiorcolor/"
+product_version: "26.9"
 ---
 ## LineAnnotation.InteriorColor property
 
@@ -16,9 +19,8 @@ public Color InteriorColor { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
-* class [LineAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

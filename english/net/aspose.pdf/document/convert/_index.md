@@ -1,12 +1,15 @@
 ---
-title: Document.Convert
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Convert document and save errors into the specified file
+title: "Document.Convert"
+linktitle: "Convert"
+articleTitle: "Convert"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Convert document and save errors into the specified file."
 type: docs
-weight: 600
-url: /net/aspose.pdf/document/convert/
+weight: 390
+url: "/net/aspose.pdf/document/convert/"
+product_version: "26.9"
 ---
-## Convert(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_8}
+## Convert(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert}
 
 Convert document and save errors into the specified file.
 
@@ -28,16 +31,16 @@ The operation result
 
 ### See Also
 
-* enum [PdfFormat](../../pdfformat/)
-* enum [ConvertErrorAction](../../converterroraction/)
-* enum [ConvertTransparencyAction](../../converttransparencyaction/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* enum [ConvertTransparencyAction](../../converttransparencyaction/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(Stream, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_6}
+## Convert(Stream, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#convert_1}
 
 Convert document and save errors into the specified file.
 
@@ -59,16 +62,16 @@ The operation result
 
 ### See Also
 
-* enum [PdfFormat](../../pdfformat/)
-* enum [ConvertErrorAction](../../converterroraction/)
-* enum [ConvertTransparencyAction](../../converttransparencyaction/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* enum [ConvertTransparencyAction](../../converttransparencyaction/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(string, PdfFormat, ConvertErrorAction) {#convert_7}
+## Convert(string, PdfFormat, ConvertErrorAction) {#convert_2}
 
 Convert document and save errors into the specified file.
 
@@ -88,15 +91,15 @@ The operation result
 
 ### See Also
 
-* enum [PdfFormat](../../pdfformat/)
-* enum [ConvertErrorAction](../../converterroraction/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(PdfFormatConversionOptions) {#convert_2}
+## Convert(PdfFormatConversionOptions) {#convert_3}
 
 Convert document using specified conversion options
 
@@ -114,14 +117,14 @@ The operation result
 
 ### See Also
 
-* class [PdfFormatConversionOptions](../../pdfformatconversionoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFormatConversionOptions](../../pdfformatconversionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(CallBackGetHocrWithPage, bool) {#convert_4}
+## Convert(CallBackGetHocrWithPage, bool) {#convert_4}
 
 Recognize images inside the document and add hocr strings over it.
 
@@ -136,18 +139,18 @@ public bool Convert(CallBackGetHocrWithPage callback, bool flattenImages = false
 
 ### Return Value
 
-The operation result. If there are no images in the document returns !:false.
+The operation result. If there are no images in the document returns `!:false`.
 
 ### See Also
 
-* delegate [CallBackGetHocrWithPage](../../document.callbackgethocrwithpage/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* delegate [CallBackGetHocrWithPage](../../document.callbackgethocrwithpage/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(CallBackGetHocr, bool) {#convert_3}
+## Convert(CallBackGetHocr, bool) {#convert_5}
 
 Recognize images inside the document and add hocr strings over it.
 
@@ -162,18 +165,18 @@ public bool Convert(CallBackGetHocr callback, bool flattenImages = false)
 
 ### Return Value
 
-The operation result. If there are no images in the document returns !:false.
+The operation result. If there are no images in the document returns `!:false`.
 
 ### See Also
 
-* delegate [CallBackGetHocr](../../document.callbackgethocr/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* delegate [CallBackGetHocr](../../document.callbackgethocr/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(Stream, PdfFormat, ConvertErrorAction) {#convert_5}
+## Convert(Stream, PdfFormat, ConvertErrorAction) {#convert_6}
 
 Convert document and save errors into the specified stream.
 
@@ -193,15 +196,15 @@ The operation result
 
 ### See Also
 
-* enum [PdfFormat](../../pdfformat/)
-* enum [ConvertErrorAction](../../converterroraction/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(Fixup, Stream, bool, object[]) {#convert}
+## Convert(Fixup, Stream, bool, object[]) {#convert_7}
 
 Convert document by applying the Fixup.
 
@@ -223,14 +226,14 @@ The operation result.
 
 ### See Also
 
-* enum [Fixup](../../fixup/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [Fixup](../../fixup/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(Fixup, string, bool, object[]) {#convert_1}
+## Convert(Fixup, string, bool, object[]) {#convert_8}
 
 Convert document by applying the Fixup.
 
@@ -252,14 +255,14 @@ The operation result.
 
 ### See Also
 
-* enum [Fixup](../../fixup/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [Fixup](../../fixup/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(string, LoadOptions, string, SaveOptions) {#convert_3}
+## Convert(string, LoadOptions, string, SaveOptions) {#convert_9}
 
 Converts source file in source format into destination file in destination format.
 
@@ -277,15 +280,15 @@ public static void Convert(string srcFileName, LoadOptions loadOptions, string d
 
 ### See Also
 
-* class [LoadOptions](../../loadoptions/)
-* class [SaveOptions](../../saveoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [LoadOptions](../../loadoptions/)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(Stream, LoadOptions, string, SaveOptions) {#convert_1}
+## Convert(Stream, LoadOptions, string, SaveOptions) {#convert_10}
 
 Converts stream in source format into destination file in destination format.
 
@@ -303,15 +306,15 @@ public static void Convert(Stream srcStream, LoadOptions loadOptions, string dst
 
 ### See Also
 
-* class [LoadOptions](../../loadoptions/)
-* class [SaveOptions](../../saveoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [LoadOptions](../../loadoptions/)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(string, LoadOptions, Stream, SaveOptions) {#convert_2}
+## Convert(string, LoadOptions, Stream, SaveOptions) {#convert_11}
 
 Converts source file in source format into stream in destination format.
 
@@ -329,15 +332,15 @@ public static void Convert(string srcFileName, LoadOptions loadOptions, Stream d
 
 ### See Also
 
-* class [LoadOptions](../../loadoptions/)
-* class [SaveOptions](../../saveoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [LoadOptions](../../loadoptions/)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Convert(Stream, LoadOptions, Stream, SaveOptions) {#convert}
+## Convert(Stream, LoadOptions, Stream, SaveOptions) {#convert_12}
 
 Converts stream in source format into stream in destination format.
 
@@ -355,10 +358,9 @@ public static void Convert(Stream srcStream, LoadOptions loadOptions, Stream dst
 
 ### See Also
 
-* class [LoadOptions](../../loadoptions/)
-* class [SaveOptions](../../saveoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LoadOptions](../../loadoptions/)
+* class [SaveOptions](../../saveoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

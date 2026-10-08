@@ -1,10 +1,13 @@
 ---
-title: PageCollection.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection method. Accepts AnnotationSelector visitor object that provides functionality to work with annotations
+title: "PageCollection.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection method. Accepts AnnotationSelector visitor object that provides functionality to work with annotations."
 type: docs
-weight: 60
-url: /net/aspose.pdf/pagecollection/accept/
+weight: 100
+url: "/net/aspose.pdf/pagecollection/accept/"
+product_version: "26.9"
 ---
 ## Accept(AnnotationSelector) {#accept}
 
@@ -20,10 +23,10 @@ public void Accept(AnnotationSelector visitor)
 
 ### See Also
 
-* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,14 +44,14 @@ public void Accept(ImagePlacementAbsorber visitor)
 
 ### See Also
 
-* class [ImagePlacementAbsorber](../../imageplacementabsorber/)
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [ImagePlacementAbsorber](../../imageplacementabsorber/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Accept(TextFragmentAbsorber) {#accept_4}
+## Accept(TextFragmentAbsorber) {#accept_2}
 
 Accepts [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) visitor object that provides functionality to work with text objects.
 
@@ -62,10 +65,10 @@ public void Accept(TextFragmentAbsorber visitor)
 
 ### See Also
 
-* class [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -83,14 +86,14 @@ public void Accept(TextAbsorber visitor)
 
 ### See Also
 
-* class [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Accept(OcrTextAbsorber) {#accept_2}
+## Accept(OcrTextAbsorber) {#accept_4}
 
 Accepts an [`OcrTextAbsorber`](../../../aspose.pdf.ocr/ocrtextabsorber/) that extracts plain text from these pages using OCR.
 
@@ -110,9 +113,8 @@ public void Accept(OcrTextAbsorber visitor)
 
 ### See Also
 
-* class [OcrTextAbsorber](../../../aspose.pdf.ocr/ocrtextabsorber/)
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OcrTextAbsorber](../../../aspose.pdf.ocr/ocrtextabsorber/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

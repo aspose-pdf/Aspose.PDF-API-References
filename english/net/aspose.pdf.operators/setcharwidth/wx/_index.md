@@ -1,10 +1,13 @@
 ---
-title: SetCharWidth.Wx
-second_title: Aspose.PDF for .NET API Reference
-description: SetCharWidth property. Horizontal displacement of glyph coordinate
+title: "SetCharWidth.Wx"
+linktitle: "Wx"
+articleTitle: "Wx"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetCharWidth property. Horizontal displacement of glyph coordinate."
 type: docs
-weight: 20
-url: /net/aspose.pdf.operators/setcharwidth/wx/
+weight: 40
+url: "/net/aspose.pdf.operators/setcharwidth/wx/"
+product_version: "26.9"
 ---
 ## SetCharWidth.Wx property
 
@@ -16,8 +19,7 @@ public double Wx { get; }
 
 ### See Also
 
-* class [SetCharWidth](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetCharWidth](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ComboBoxField.ComboBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: ComboBoxField constructor. Constructor for ComboBoxField to be used in Generator
+title: "ComboBoxField.ComboBoxField"
+linktitle: "ComboBoxField"
+articleTitle: "ComboBoxField"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ComboBoxField constructor. Constructor for ComboBoxField to be used in Generator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.forms/comboboxfield/comboboxfield/
+url: "/net/aspose.pdf.forms/comboboxfield/comboboxfield/"
+product_version: "26.9"
 ---
 ## ComboBoxField() {#constructor}
 
@@ -16,9 +19,9 @@ public ComboBoxField()
 
 ### See Also
 
-* class [ComboBoxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [ComboBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,14 +39,14 @@ public ComboBoxField(Document doc)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [ComboBoxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ComboBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ComboBoxField(Page, Rectangle) {#constructor_3}
+## ComboBoxField(Page, Rectangle) {#constructor_2}
 
 Constructor for Combobox Field.
 
@@ -58,15 +61,15 @@ public ComboBoxField(Page page, Rectangle rect)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [ComboBoxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ComboBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ComboBoxField(Document, Rectangle) {#constructor_2}
+## ComboBoxField(Document, Rectangle) {#constructor_3}
 
 Constructor for Combobox field.
 
@@ -81,10 +84,9 @@ public ComboBoxField(Document doc, Rectangle rect)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [ComboBoxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ComboBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PdfExtractor.ExtractText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor method. Extracts text from a Pdf document using Unicode encoding
+title: "PdfExtractor.ExtractText"
+linktitle: "ExtractText"
+articleTitle: "ExtractText"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Extracts text from a Pdf document using Unicode encoding."
 type: docs
-weight: 130
-url: /net/aspose.pdf.facades/pdfextractor/extracttext/
+weight: 30
+url: "/net/aspose.pdf.facades/pdfextractor/extracttext/"
+product_version: "26.9"
 ---
 ## ExtractText() {#extracttext}
 
@@ -16,7 +19,7 @@ public void ExtractText()
 
 ## Examples
 
-First example demonstrates how to extract all the text from PDF file.
+First example demonstrates how to extract all the text from PDF file. Second example demonstrates how to extract each page's text into one txt file.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -25,47 +28,11 @@ extractor.ExtractText();
 extractor.GetText(@"D:\Text\text.txt");
 ```
 
-```csharp
-Dim extractor As PdfExtractor =  New PdfExtractor() 
-extractor.BindPdf("D:\Text\text.pdf")
-extractor.ExtractText()
-extractor.GetText("D:\Text\text.txt")
-```
-
-Second example demonstrates how to extract each page's text into one txt file.
-
-```csharp
-PdfExtractor extractor = new PdfExtractor();
-extractor.BindPdf(TestPath + @"Aspose.Pdf.Kit.Pdf");
-extractor.ExtractText();
-String prefix = TestPath + @"Aspose.Pdf.Kit";
-String suffix = ".txt";
-int pageCount = 1;
-while (extractor.HasNextPageText())
-{
-    extractor.GetNextPageText(prefix + pageCount + suffix);
-    pageCount++;
-}
-```
-
-```csharp
-Dim extractor As PdfExtractor =  New PdfExtractor() 
-extractor.BindPdf(TestPath + "Aspose.Pdf.Kit.Pdf")
-extractor.ExtractText()
-Dim prefix As String =  TestPath + "Aspose.Pdf.Kit" 
-Dim suffix As String =  ".txt" 
-Dim pageCount As Integer =  1 
-While extractor.HasNextPageText()
-    extractor.GetNextPageText(prefix + pageCount + suffix)
-    pageCount = pageCount + 1
-End While
-```
-
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -83,7 +50,7 @@ public void ExtractText(Encoding encoding)
 
 ## Examples
 
-First example demonstrates how to extract all the text from PDF file.
+First example demonstrates how to extract all the text from PDF file. Second example demonstrates how to extract each page's text into one txt file.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -92,46 +59,9 @@ extractor.ExtractText(Encoding.Unicode);
 extractor.GetText(@"D:\Text\text.txt");
 ```
 
-```csharp
-Dim extractor As PdfExtractor =  New PdfExtractor() 
-extractor.BindPdf("D:\Text\text.pdf")
-extractor.ExtractText(Encoding.Unicode)
-extractor.GetText("D:\Text\text.txt")
-```
-
-Second example demonstrates how to extract each page's text into one txt file.
-
-```csharp
-PdfExtractor extractor = new PdfExtractor();
-extractor.BindPdf(TestPath + @"Aspose.Pdf.Kit.Pdf");
-extractor.ExtractText(Encoding.Unicode);
-String prefix = TestPath + @"Aspose.Pdf.Kit";
-String suffix = ".txt";
-int pageCount = 1;
-while (extractor.HasNextPageText())
-{
-    extractor.GetNextPageText(prefix + pageCount + suffix);
-    pageCount++;
-}
-```
-
-```csharp
-Dim extractor As PdfExtractor =  New PdfExtractor() 
-extractor.BindPdf(TestPath + "Aspose.Pdf.Kit.Pdf")
-extractor.ExtractText(Encoding.Unicode)
-Dim prefix As String =  TestPath + "Aspose.Pdf.Kit" 
-Dim suffix As String =  ".txt" 
-Dim pageCount As Integer =  1 
-While extractor.HasNextPageText()
-    extractor.GetNextPageText(prefix + pageCount + suffix)
-    pageCount = pageCount + 1
-End While
-```
-
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

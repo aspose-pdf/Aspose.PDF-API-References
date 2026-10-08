@@ -1,10 +1,13 @@
 ---
-title: PrinterSettings.FromPage
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings property. Gets or sets the first page to print
+title: "PrinterSettings.FromPage"
+linktitle: "FromPage"
+articleTitle: "FromPage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterSettings property. Gets or sets the first page to print."
 type: docs
-weight: 60
-url: /net/aspose.pdf.printing/printersettings/frompage/
+weight: 70
+url: "/net/aspose.pdf.printing/printersettings/frompage/"
+product_version: "26.9"
 ---
 ## PrinterSettings.FromPage property
 
@@ -16,8 +19,7 @@ public int FromPage { get; set; }
 
 ### See Also
 
-* class [PrinterSettings](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

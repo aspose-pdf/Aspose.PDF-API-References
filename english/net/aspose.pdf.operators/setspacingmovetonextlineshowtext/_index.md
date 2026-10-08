@@ -1,10 +1,14 @@
 ---
-title: Class SetSpacingMoveToNextLineShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetSpacingMoveToNextLineShowText class. Class representing  operator set word and character spacing move to the next line and show text
+title: "SetSpacingMoveToNextLineShowText Class"
+linktitle: "SetSpacingMoveToNextLineShowText"
+articleTitle: "SetSpacingMoveToNextLineShowText"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.SetSpacingMoveToNextLineShowText class. Class representing \" operator (set word and character spacing, move to the next line and show te..."
 type: docs
-weight: 9070
-url: /net/aspose.pdf.operators/setspacingmovetonextlineshowtext/
+weight: 730
+url: "/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/"
+keywords: "SetSpacingMoveToNextLineShowText, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## SetSpacingMoveToNextLineShowText class
 
@@ -18,29 +22,28 @@ public class SetSpacingMoveToNextLineShowText : TextShowOperator
 
 | Name | Description |
 | --- | --- |
-| [SetSpacingMoveToNextLineShowText](setspacingmovetonextlineshowtext/)(double, double, string) | Initializes operator. |
+| [SetSpacingMoveToNextLineShowText](setspacingmovetonextlineshowtext/)(double, double, string) | Initializes operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Ac](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/ac/) { get; } | Get character spacing. |
-| [Aw](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/aw/) { get; } | Gets word spacing. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
-| override [Text](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/text/) { get; } | Gets text of operator. |
+| [Ac](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/ac/) { get; } | Get character spacing. |
+| [Aw](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/aw/) { get; } | Gets word spacing. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
+| override [Text](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/text/) { get; } | Gets text of operator. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
+| override [Accept](../../aspose.pdf.operators/setspacingmovetonextlineshowtext/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Returns text of operator and its parameters. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ### See Also
 
-* class [TextShowOperator](../textshowoperator/)
-* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../)
-
+* class [TextShowOperator](../textshowoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
 

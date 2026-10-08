@@ -1,10 +1,13 @@
 ---
-title: FormExporter.FormExporter
-second_title: Aspose.PDF for .NET API Reference
-description: FormExporter constructor. The default constructor
+title: "FormExporter.FormExporter"
+linktitle: "FormExporter"
+articleTitle: "FormExporter"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormExporter constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/formexporter/formexporter/
+url: "/net/aspose.pdf.lowcode/formexporter/formexporter/"
+product_version: "26.9"
 ---
 ## FormExporter constructor
 
@@ -16,8 +19,7 @@ public FormExporter()
 
 ### See Also
 
-* class [FormExporter](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormExporter](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

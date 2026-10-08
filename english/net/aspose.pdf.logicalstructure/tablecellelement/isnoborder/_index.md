@@ -1,10 +1,13 @@
 ---
-title: TableCellElement.IsNoBorder
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellElement property. Gets or sets the cell have border
+title: "TableCellElement.IsNoBorder"
+linktitle: "IsNoBorder"
+articleTitle: "IsNoBorder"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableCellElement property. Gets or sets the cell have border."
 type: docs
-weight: 60
-url: /net/aspose.pdf.logicalstructure/tablecellelement/isnoborder/
+weight: 50
+url: "/net/aspose.pdf.logicalstructure/tablecellelement/isnoborder/"
+product_version: "26.9"
 ---
 ## TableCellElement.IsNoBorder property
 
@@ -16,8 +19,7 @@ public bool IsNoBorder { get; set; }
 
 ### See Also
 
-* class [TableCellElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

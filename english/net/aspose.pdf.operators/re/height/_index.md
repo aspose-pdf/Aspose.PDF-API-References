@@ -1,10 +1,13 @@
 ---
-title: Re.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Re property. Height of the rectangle
+title: "Re.Height"
+linktitle: "Height"
+articleTitle: "Height"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Re property. Height of the rectangle."
 type: docs
-weight: 20
-url: /net/aspose.pdf.operators/re/height/
+weight: 80
+url: "/net/aspose.pdf.operators/re/height/"
+product_version: "26.9"
 ---
 ## Re.Height property
 
@@ -16,8 +19,7 @@ public double Height { get; set; }
 
 ### See Also
 
-* class [Re](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

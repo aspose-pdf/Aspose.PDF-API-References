@@ -1,10 +1,13 @@
 ---
-title: TableAbsorber.Replace
-second_title: Aspose.PDF for .NET API Reference
-description: TableAbsorber method. Replaces an AbsorbedTable with Table on the page
+title: "TableAbsorber.Replace"
+linktitle: "Replace"
+articleTitle: "Replace"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableAbsorber method. Replaces an AbsorbedTable with Table on the page."
 type: docs
 weight: 60
-url: /net/aspose.pdf.text/tableabsorber/replace/
+url: "/net/aspose.pdf.text/tableabsorber/replace/"
+product_version: "26.9"
 ---
 ## TableAbsorber.Replace method
 
@@ -26,11 +29,10 @@ Please take into account it changes TableList collection. In case removing/repla
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [AbsorbedTable](../../absorbedtable/)
-* class [Table](../../../aspose.pdf/table/)
-* class [TableAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [AbsorbedTable](../../absorbedtable/)
+* class [Table](../../../aspose.pdf/table/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

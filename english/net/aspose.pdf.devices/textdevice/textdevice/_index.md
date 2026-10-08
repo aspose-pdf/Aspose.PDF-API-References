@@ -1,12 +1,15 @@
 ---
-title: TextDevice.TextDevice
-second_title: Aspose.PDF for .NET API Reference
-description: TextDevice constructor. Initializes a new instance of the TextDevice with text extraction options
+title: "TextDevice.TextDevice"
+linktitle: "TextDevice"
+articleTitle: "TextDevice"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextDevice constructor. Initializes a new instance of the TextDevice with text extraction options."
 type: docs
 weight: 10
-url: /net/aspose.pdf.devices/textdevice/textdevice/
+url: "/net/aspose.pdf.devices/textdevice/textdevice/"
+product_version: "26.9"
 ---
-## TextDevice(TextExtractionOptions) {#constructor_1}
+## TextDevice(TextExtractionOptions) {#constructor}
 
 Initializes a new instance of the [`TextDevice`](../) with text extraction options.
 
@@ -20,14 +23,14 @@ public TextDevice(TextExtractionOptions extractionOptions)
 
 ### See Also
 
-* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* class [TextDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextDevice() {#constructor}
+## TextDevice() {#constructor_1}
 
 Initializes a new instance of the [`TextDevice`](../) with the Raw text formatting mode and Unicode text encoding.
 
@@ -37,13 +40,13 @@ public TextDevice()
 
 ### See Also
 
-* class [TextDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextDevice(Encoding) {#constructor_3}
+## TextDevice(Encoding) {#constructor_2}
 
 Initializes a new instance of the [`TextDevice`](../) for the specified encoding.
 
@@ -57,13 +60,13 @@ public TextDevice(Encoding encoding)
 
 ### See Also
 
-* class [TextDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextDevice(TextExtractionOptions, Encoding) {#constructor_2}
+## TextDevice(TextExtractionOptions, Encoding) {#constructor_3}
 
 Initializes a new instance of the [`TextDevice`](../) for the specified encoding with text extraction options.
 
@@ -78,9 +81,8 @@ public TextDevice(TextExtractionOptions extractionOptions, Encoding encoding)
 
 ### See Also
 
-* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* class [TextDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

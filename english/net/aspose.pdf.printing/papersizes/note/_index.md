@@ -1,10 +1,13 @@
 ---
-title: PaperSizes.Note
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. Note paper 8.5 in. by 11 in
+title: "PaperSizes.Note"
+linktitle: "Note"
+articleTitle: "Note"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. Note paper (8.5 in. by 11 in.)."
 type: docs
-weight: 730
-url: /net/aspose.pdf.printing/papersizes/note/
+weight: 180
+url: "/net/aspose.pdf.printing/papersizes/note/"
+product_version: "26.9"
 ---
 ## PaperSizes.Note field
 
@@ -16,9 +19,8 @@ public static readonly PaperSize Note;
 
 ### See Also
 
-* class [PaperSize](../../papersize/)
-* class [PaperSizes](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

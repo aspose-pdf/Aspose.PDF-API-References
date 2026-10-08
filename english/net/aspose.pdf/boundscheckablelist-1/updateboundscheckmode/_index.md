@@ -1,12 +1,15 @@
 ---
-title: BoundsCheckableList1.UpdateBoundsCheckMode
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList method. Updates boundsCheckMode parameter for initialized collection
+title: "BoundsCheckableList<T>.UpdateBoundsCheckMode"
+linktitle: "UpdateBoundsCheckMode"
+articleTitle: "UpdateBoundsCheckMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BoundsCheckableList method. Updates boundsCheckMode parameter for initialized collection."
 type: docs
-weight: 140
-url: /net/aspose.pdf/boundscheckablelist-1/updateboundscheckmode/
+weight: 120
+url: "/net/aspose.pdf/boundscheckablelist-1/updateboundscheckmode/"
+product_version: "26.9"
 ---
-## UpdateBoundsCheckMode(BoundsCheckMode, double, double) {#updateboundscheckmode_1}
+## UpdateBoundsCheckMode(BoundsCheckMode, double, double) {#updateboundscheckmode}
 
 Updates boundsCheckMode parameter for initialized collection.
 
@@ -23,14 +26,14 @@ public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode, double contai
 
 ### See Also
 
-* enum [BoundsCheckMode](../../boundscheckmode/)
-* class [BoundsCheckableList&lt;T&gt;](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [BoundsCheckMode](../../boundscheckmode/)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## UpdateBoundsCheckMode(BoundsCheckMode) {#updateboundscheckmode}
+## UpdateBoundsCheckMode(BoundsCheckMode) {#updateboundscheckmode_1}
 
 Updates boundsCheckMode parameter for initialized collection.
 
@@ -44,9 +47,8 @@ public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode)
 
 ### See Also
 
-* enum [BoundsCheckMode](../../boundscheckmode/)
-* class [BoundsCheckableList&lt;T&gt;](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [BoundsCheckMode](../../boundscheckmode/)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

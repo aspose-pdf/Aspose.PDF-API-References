@@ -1,10 +1,13 @@
 ---
-title: BuildVersionInfo.AssemblyVersion
-second_title: Aspose.PDF for .NET API Reference
-description: BuildVersionInfo field. Assembly Version
+title: "BuildVersionInfo.AssemblyVersion"
+linktitle: "AssemblyVersion"
+articleTitle: "AssemblyVersion"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BuildVersionInfo field. Assembly Version"
 type: docs
 weight: 20
-url: /net/aspose.pdf/buildversioninfo/assemblyversion/
+url: "/net/aspose.pdf/buildversioninfo/assemblyversion/"
+product_version: "26.9"
 ---
 ## BuildVersionInfo.AssemblyVersion field
 
@@ -16,8 +19,7 @@ public const string AssemblyVersion;
 
 ### See Also
 
-* class [BuildVersionInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BuildVersionInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

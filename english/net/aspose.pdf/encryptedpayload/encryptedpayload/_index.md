@@ -1,10 +1,13 @@
 ---
-title: EncryptedPayload.EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptedPayload constructor. Initialize Encrypted payload instance
+title: "EncryptedPayload.EncryptedPayload"
+linktitle: "EncryptedPayload"
+articleTitle: "EncryptedPayload"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EncryptedPayload constructor. Initialize Encrypted payload instance."
 type: docs
 weight: 10
-url: /net/aspose.pdf/encryptedpayload/encryptedpayload/
+url: "/net/aspose.pdf/encryptedpayload/encryptedpayload/"
+product_version: "26.9"
 ---
 ## EncryptedPayload constructor
 
@@ -20,9 +23,8 @@ public EncryptedPayload(FileSpecification fileSpecification)
 
 ### See Also
 
-* class [FileSpecification](../../filespecification/)
-* class [EncryptedPayload](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileSpecification](../../filespecification/)
+* class [EncryptedPayload](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

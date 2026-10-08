@@ -1,10 +1,13 @@
 ---
-title: GraphicElement.Parent
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElement property. Gets the current XFormPlacement in which the element is located
+title: "GraphicElement.Parent"
+linktitle: "Parent"
+articleTitle: "Parent"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicElement property. Gets the current XFormPlacement in which the element is located."
 type: docs
-weight: 30
-url: /net/aspose.pdf.vector/graphicelement/parent/
+weight: 100
+url: "/net/aspose.pdf.vector/graphicelement/parent/"
+product_version: "26.9"
 ---
 ## GraphicElement.Parent property
 
@@ -16,9 +19,8 @@ public XFormPlacement Parent { get; }
 
 ### See Also
 
-* class [XFormPlacement](../../xformplacement/)
-* class [GraphicElement](../)
-* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XFormPlacement](../../xformplacement/)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
 

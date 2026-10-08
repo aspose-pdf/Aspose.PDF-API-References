@@ -1,14 +1,21 @@
 ---
-title: Enum EpubSaveOptions.RecognitionMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.EpubSaveOptionsRecognitionMode enum. When PDF file that usually has fixed layout is being converted the conversion engine tries to perform grouping and multilevel analysis to restore the original document authors intent and produce result in flow layout. This property tunes that conversion for this or that desirable method of recognition of content
+title: "EpubSaveOptions.RecognitionMode Enum"
+linktitle: "EpubSaveOptions.RecognitionMode"
+articleTitle: "EpubSaveOptions.RecognitionMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.EpubSaveOptions.RecognitionMode enum. When PDF file (that usually has fixed layout) is being converted, the conversion engine tries to perform gro..."
 type: docs
-weight: 4230
-url: /net/aspose.pdf/epubsaveoptions.recognitionmode/
+weight: 770
+url: "/net/aspose.pdf/epubsaveoptions.recognitionmode/"
+product_version: "26.9"
 ---
 ## EpubSaveOptions.RecognitionMode enumeration
 
-When PDF file (that usually has fixed layout) is being converted, the conversion engine tries to perform grouping and multi-level analysis to restore the original document author's intent and produce result in flow layout. This property tunes that conversion for this or that desirable method of recognition of content.
+When PDF file (that usually has fixed layout) is being converted,
+ the conversion engine tries to perform grouping and multi-level analysis to restore
+ the original document author's intent and produce result in flow layout.
+ This property tunes that conversion for this or that
+ desirable method of recognition of content.
 
 ```csharp
 public enum RecognitionMode
@@ -24,8 +31,7 @@ public enum RecognitionMode
 
 ### See Also
 
-* class [EpubSaveOptions](../epubsaveoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [EpubSaveOptions](../epubsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

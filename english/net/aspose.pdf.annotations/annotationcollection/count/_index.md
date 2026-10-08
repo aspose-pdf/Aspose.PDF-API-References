@@ -1,10 +1,13 @@
 ---
-title: AnnotationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection property. Gets count of annotations in collection
+title: "AnnotationCollection.Count"
+linktitle: "Count"
+articleTitle: "Count"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AnnotationCollection property. Gets count of annotations in collection."
 type: docs
-weight: 10
-url: /net/aspose.pdf.annotations/annotationcollection/count/
+weight: 150
+url: "/net/aspose.pdf.annotations/annotationcollection/count/"
+product_version: "26.9"
 ---
 ## AnnotationCollection.Count property
 
@@ -16,8 +19,7 @@ public int Count { get; }
 
 ### See Also
 
-* class [AnnotationCollection](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

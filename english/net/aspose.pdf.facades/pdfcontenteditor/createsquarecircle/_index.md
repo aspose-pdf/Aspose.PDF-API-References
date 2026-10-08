@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.CreateSquareCircle
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates squarecircle annotation
+title: "PdfContentEditor.CreateSquareCircle"
+linktitle: "CreateSquareCircle"
+articleTitle: "CreateSquareCircle"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates square-circle annotation."
 type: docs
-weight: 280
-url: /net/aspose.pdf.facades/pdfcontenteditor/createsquarecircle/
+weight: 310
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createsquarecircle/"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreateSquareCircle method
 
@@ -36,8 +39,7 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

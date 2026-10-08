@@ -1,12 +1,15 @@
 ---
-title: PdfContentEditor.CreateLocalLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates a local link in PDF document
+title: "PdfContentEditor.CreateLocalLink"
+linktitle: "CreateLocalLink"
+articleTitle: "CreateLocalLink"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates a local link in PDF document."
 type: docs
-weight: 190
-url: /net/aspose.pdf.facades/pdfcontenteditor/createlocallink/
+weight: 90
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createlocallink/"
+product_version: "26.9"
 ---
-## CreateLocalLink(Rectangle, int, int, Color, Enum[]) {#createlocallink_2}
+## CreateLocalLink(Rectangle, int, int, Color, Enum[]) {#createlocallink}
 
 Creates a local link in PDF document.
 
@@ -36,13 +39,13 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateLocalLink(Rectangle, int, int, Color) {#createlocallink_1}
+## CreateLocalLink(Rectangle, int, int, Color) {#createlocallink_1}
 
 Creates a local link in PDF document.
 
@@ -69,13 +72,13 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateLocalLink(Rectangle, int, int) {#createlocallink}
+## CreateLocalLink(Rectangle, int, int) {#createlocallink_2}
 
 Creates a local link in PDF document.
 
@@ -100,8 +103,7 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

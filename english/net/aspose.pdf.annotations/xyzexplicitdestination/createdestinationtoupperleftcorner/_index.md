@@ -1,12 +1,15 @@
 ---
-title: XYZExplicitDestination.CreateDestinationToUpperLeftCorner
-second_title: Aspose.PDF for .NET API Reference
-description: XYZExplicitDestination method. Create destionation to upper left corner of the specifed page
+title: "XYZExplicitDestination.CreateDestinationToUpperLeftCorner"
+linktitle: "CreateDestinationToUpperLeftCorner"
+articleTitle: "CreateDestinationToUpperLeftCorner"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XYZExplicitDestination method. Create destionation to upper left corner of the specifed page."
 type: docs
-weight: 30
-url: /net/aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/
+weight: 40
+url: "/net/aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/"
+product_version: "26.9"
 ---
-## CreateDestinationToUpperLeftCorner(Page, double) {#createdestinationtoupperleftcorner_1}
+## CreateDestinationToUpperLeftCorner(Page, double) {#createdestinationtoupperleftcorner}
 
 Create destionation to upper left corner of the specifed page.
 
@@ -25,14 +28,14 @@ Destination object.
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [XYZExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [XYZExplicitDestination](../)
+* class [Page](../../../aspose.pdf/page/)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateDestinationToUpperLeftCorner(Page) {#createdestinationtoupperleftcorner}
+## CreateDestinationToUpperLeftCorner(Page) {#createdestinationtoupperleftcorner_1}
 
 Create destination to specified page.
 
@@ -50,9 +53,8 @@ Destination object.
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [XYZExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XYZExplicitDestination](../)
+* class [Page](../../../aspose.pdf/page/)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class OrganizerBaseOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.OrganizerBaseOptions class. Represents base options for plugins
+title: "OrganizerBaseOptions Class"
+linktitle: "OrganizerBaseOptions"
+articleTitle: "OrganizerBaseOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.OrganizerBaseOptions class. Represents base options for plugins."
 type: docs
-weight: 7620
-url: /net/aspose.pdf.lowcode/organizerbaseoptions/
+weight: 570
+url: "/net/aspose.pdf.lowcode/organizerbaseoptions/"
+keywords: "OrganizerBaseOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## OrganizerBaseOptions class
 
@@ -18,10 +22,10 @@ public class OrganizerBaseOptions : IPluginOptions
 
 | Name | Description |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeinputstreams/) { get; set; } | Close input streams after operation completed. |
-| [CloseOutputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
-| [Inputs](../../aspose.pdf.lowcode/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. |
-| [Outputs](../../aspose.pdf.lowcode/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
+| [CloseInputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeinputstreams/) { get; set; } | Close input streams after operation completed. |
+| [CloseOutputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
+| [Inputs](../../aspose.pdf.lowcode/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. |
+| [Outputs](../../aspose.pdf.lowcode/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
@@ -32,8 +36,7 @@ public class OrganizerBaseOptions : IPluginOptions
 
 ### See Also
 
-* interface [IPluginOptions](../ipluginoptions/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* interface [IPluginOptions](../ipluginoptions/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

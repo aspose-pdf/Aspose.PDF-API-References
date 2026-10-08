@@ -1,10 +1,13 @@
 ---
-title: OptionCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection method. Checks if item exists in collection throws NotImplementedException
+title: "OptionCollection.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptionCollection method. Checks if item exists in collection, throws NotImplementedException."
 type: docs
-weight: 80
-url: /net/aspose.pdf.forms/optioncollection/contains/
+weight: 70
+url: "/net/aspose.pdf.forms/optioncollection/contains/"
+product_version: "26.9"
 ---
 ## OptionCollection.Contains method
 
@@ -24,9 +27,8 @@ Throws NotImplementedException
 
 ### See Also
 
-* class [Option](../../option/)
-* class [OptionCollection](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

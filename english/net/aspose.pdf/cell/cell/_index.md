@@ -1,12 +1,15 @@
 ---
-title: Cell.Cell
-second_title: Aspose.PDF for .NET API Reference
-description: Cell constructor. Initializes a new instance of the Cell class
+title: "Cell.Cell"
+linktitle: "Cell"
+articleTitle: "Cell"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Cell constructor. Initializes a new instance of the Cell class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/cell/cell/
+url: "/net/aspose.pdf/cell/cell/"
+product_version: "26.9"
 ---
-## Cell(Rectangle) {#constructor_1}
+## Cell(Rectangle) {#constructor}
 
 Initializes a new instance of the Cell class.
 
@@ -20,14 +23,14 @@ public Cell(Rectangle rect)
 
 ### See Also
 
-* class [Rectangle](../../rectangle/)
-* class [Cell](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Cell() {#constructor}
+## Cell() {#constructor_1}
 
 Initializes a new instance of the Cell class.
 
@@ -37,8 +40,7 @@ public Cell()
 
 ### See Also
 
-* class [Cell](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

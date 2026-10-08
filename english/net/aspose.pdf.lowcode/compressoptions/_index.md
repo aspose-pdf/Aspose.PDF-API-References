@@ -1,10 +1,14 @@
 ---
-title: Class CompressOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.CompressOptions class. Represents Compress options for Optimizer plugin
+title: "CompressOptions Class"
+linktitle: "CompressOptions"
+articleTitle: "CompressOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.CompressOptions class. Represents Compress options for Optimizer plugin."
 type: docs
-weight: 7070
-url: /net/aspose.pdf.lowcode/compressoptions/
+weight: 20
+url: "/net/aspose.pdf.lowcode/compressoptions/"
+keywords: "CompressOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## CompressOptions class
 
@@ -24,10 +28,10 @@ public sealed class CompressOptions : OrganizerBaseOptions
 
 | Name | Description |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeinputstreams/) { get; set; } | Close input streams after operation completed. |
-| [CloseOutputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
-| [Inputs](../../aspose.pdf.lowcode/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. |
-| [Outputs](../../aspose.pdf.lowcode/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
+| [CloseInputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeinputstreams/) { get; set; } | Close input streams after operation completed. |
+| [CloseOutputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
+| [Inputs](../../aspose.pdf.lowcode/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. |
+| [Outputs](../../aspose.pdf.lowcode/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
@@ -38,8 +42,7 @@ public sealed class CompressOptions : OrganizerBaseOptions
 
 ### See Also
 
-* class [OrganizerBaseOptions](../organizerbaseoptions/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

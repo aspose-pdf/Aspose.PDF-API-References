@@ -1,10 +1,13 @@
 ---
-title: CircleAnnotation.CircleAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: CircleAnnotation constructor. Constructor for Circle annotation
+title: "CircleAnnotation.CircleAnnotation"
+linktitle: "CircleAnnotation"
+articleTitle: "CircleAnnotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CircleAnnotation constructor. Constructor for Circle annotation."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/circleannotation/circleannotation/
+url: "/net/aspose.pdf.annotations/circleannotation/circleannotation/"
+product_version: "26.9"
 ---
 ## CircleAnnotation(Document) {#constructor}
 
@@ -20,14 +23,14 @@ public CircleAnnotation(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [CircleAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [CircleAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CircleAnnotation(Page, Rectangle) {#constructor_1}
+## CircleAnnotation(Page, Rectangle) {#constructor_1}
 
 Creates new Circle annotation on the specified page.
 
@@ -42,10 +45,9 @@ public CircleAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [CircleAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [CircleAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

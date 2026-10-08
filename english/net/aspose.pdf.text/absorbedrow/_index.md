@@ -1,10 +1,14 @@
 ---
-title: Class AbsorbedRow
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.AbsorbedRow class. Represents row of table that exist on the page
+title: "AbsorbedRow Class"
+linktitle: "AbsorbedRow"
+articleTitle: "AbsorbedRow"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.AbsorbedRow class. Represents row of table that exist on the page"
 type: docs
-weight: 10820
-url: /net/aspose.pdf.text/absorbedrow/
+weight: 30
+url: "/net/aspose.pdf.text/absorbedrow/"
+keywords: "AbsorbedRow, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## AbsorbedRow class
 
@@ -18,8 +22,8 @@ public class AbsorbedRow : IComparable<AbsorbedRow>, ITableElement
 
 | Name | Description |
 | --- | --- |
-| [CellList](../../aspose.pdf.text/absorbedrow/celllist/) { get; } | Gets readonly IList containing cells of the row |
-| [Rectangle](../../aspose.pdf.text/absorbedrow/rectangle/) { get; } | Gets rectangle that describes position of the row on page |
+| [CellList](../../aspose.pdf.text/absorbedrow/celllist/) { get; } | Gets readonly IList containing cells of the row |
+| [Rectangle](../../aspose.pdf.text/absorbedrow/rectangle/) { get; } | Gets rectangle that describes position of the row on page |
 
 ## Methods
 
@@ -29,8 +33,7 @@ public class AbsorbedRow : IComparable<AbsorbedRow>, ITableElement
 
 ### See Also
 
-* interface [ITableElement](../itableelement/)
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* interface [ITableElement](../itableelement/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: IOpenAIClient.DeleteThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Deletes a message within a thread asynchronously
+title: "IOpenAIClient.DeleteThreadMessageAsync"
+linktitle: "DeleteThreadMessageAsync"
+articleTitle: "DeleteThreadMessageAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Deletes a message within a thread asynchronously."
 type: docs
-weight: 160
-url: /net/aspose.pdf.ai/iopenaiclient/deletethreadmessageasync/
+weight: 110
+url: "/net/aspose.pdf.ai/iopenaiclient/deletethreadmessageasync/"
+product_version: "26.9"
 ---
 ## IOpenAIClient.DeleteThreadMessageAsync method
 
@@ -34,9 +37,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [DeleteStatusResponse](../../deletestatusresponse/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

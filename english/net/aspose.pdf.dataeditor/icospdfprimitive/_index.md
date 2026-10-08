@@ -1,10 +1,13 @@
 ---
-title: Interface ICosPdfPrimitive
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DataEditor.ICosPdfPrimitive interface. Interface for work with PDF data entity
+title: "ICosPdfPrimitive Interface"
+linktitle: "ICosPdfPrimitive"
+articleTitle: "ICosPdfPrimitive"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DataEditor.ICosPdfPrimitive interface. Interface for work with PDF data entity"
 type: docs
-weight: 3630
-url: /net/aspose.pdf.dataeditor/icospdfprimitive/
+weight: 90
+url: "/net/aspose.pdf.dataeditor/icospdfprimitive/"
+product_version: "26.9"
 ---
 ## ICosPdfPrimitive interface
 
@@ -27,7 +30,6 @@ public interface ICosPdfPrimitive
 
 ### See Also
 
-* namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../)
 

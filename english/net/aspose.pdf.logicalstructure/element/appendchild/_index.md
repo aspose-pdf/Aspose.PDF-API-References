@@ -1,14 +1,17 @@
 ---
-title: Element.AppendChild
-second_title: Aspose.PDF for .NET API Reference
-description: Element method. Append Element to collection of children
+title: "Element.AppendChild"
+linktitle: "AppendChild"
+articleTitle: "AppendChild"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Element method. Append Element to collection of children."
 type: docs
-weight: 30
-url: /net/aspose.pdf.logicalstructure/element/appendchild/
+weight: 20
+url: "/net/aspose.pdf.logicalstructure/element/appendchild/"
+product_version: "26.9"
 ---
 ## Element.AppendChild method
 
-Append Element to collection of children.
+Append [`Element`](../) to collection of children.
 
 ```csharp
 public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
@@ -16,12 +19,12 @@ public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| element | Element | Element object to add. |
+| element | Element | `Element` object to add. |
 | checkIfCanBeAppended | Boolean | Check if can be appended. |
 
 ### Return Value
 
-Element which has been added.
+[`Element`](../) which has been added.
 
 ### Exceptions
 
@@ -31,8 +34,7 @@ Element which has been added.
 
 ### See Also
 
-* class [Element](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

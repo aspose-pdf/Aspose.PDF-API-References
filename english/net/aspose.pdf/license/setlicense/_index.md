@@ -1,12 +1,15 @@
 ---
-title: License.SetLicense
-second_title: Aspose.PDF for .NET API Reference
-description: License method. Licenses the component
+title: "License.SetLicense"
+linktitle: "SetLicense"
+articleTitle: "SetLicense"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "License method. Licenses the component."
 type: docs
-weight: 40
-url: /net/aspose.pdf/license/setlicense/
+weight: 30
+url: "/net/aspose.pdf/license/setlicense/"
+product_version: "26.9"
 ---
-## SetLicense(string) {#setlicense_1}
+## SetLicense(string) {#setlicense}
 
 Licenses the component.
 
@@ -21,38 +24,26 @@ public void SetLicense(string licenseName)
 ## Remarks
 
 Tries to find the license in the following locations:
-
-1. Explicit path.
-
-2. The folder that contains the Aspose component assembly.
-
-3. The folder that contains the client's calling assembly.
-
-4. The folder that contains the entry (startup) assembly.
-
-5. An embedded resource in the client's calling assembly.
-
-**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
-
-1. Explicit path.
-
-2. An embedded resource in the client's calling assembly.
-
-[Java]
-
-2. The folder that contains the Aspose component JAR file.
-
-3. The folder that contains the client's calling JAR file.
+ 1. Explicit path.
+ 2. The folder that contains the Aspose component assembly.
+ 3. The folder that contains the client's calling assembly.
+ 4. The folder that contains the entry (startup) assembly.
+ 5. An embedded resource in the client's calling assembly.
+ 
+ **Note:**On the .NET Compact Framework, tries to find the license only in these locations:
+ 1. Explicit path.
+ 2. An embedded resource in the client's calling assembly. [Java]
+ 2. The folder that contains the Aspose component JAR file.3. The folder that contains the client's calling JAR file.
 
 ### See Also
 
-* class [License](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [License](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SetLicense(Stream) {#setlicense}
+## SetLicense(Stream) {#setlicense_1}
 
 Licenses the component.
 
@@ -70,8 +61,7 @@ Use this method to load a license from a stream.
 
 ### See Also
 
-* class [License](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [License](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

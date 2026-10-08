@@ -1,10 +1,13 @@
 ---
-title: XImageCollection.GetImageName
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection method. Returns name in images list which is key of the given image
+title: "XImageCollection.GetImageName"
+linktitle: "GetImageName"
+articleTitle: "GetImageName"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImageCollection method. Returns name in images list which is key of the given image."
 type: docs
-weight: 130
-url: /net/aspose.pdf/ximagecollection/getimagename/
+weight: 170
+url: "/net/aspose.pdf/ximagecollection/getimagename/"
+product_version: "26.9"
 ---
 ## XImageCollection.GetImageName method
 
@@ -24,9 +27,8 @@ Name (key) of the found image; null if images was not found.
 
 ### See Also
 
-* class [XImage](../../ximage/)
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

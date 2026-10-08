@@ -1,10 +1,13 @@
 ---
-title: OpenAIOcrCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIOcrCopilotOptions method. Creates a new instance of OpenAIOcrCopilotOptions
+title: "OpenAIOcrCopilotOptions.Create"
+linktitle: "Create"
+articleTitle: "Create"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIOcrCopilotOptions method. Creates a new instance of OpenAIOcrCopilotOptions."
 type: docs
-weight: 10
-url: /net/aspose.pdf.ai/openaiocrcopilotoptions/create/
+weight: 20
+url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/create/"
+product_version: "26.9"
 ---
 ## Create() {#create}
 
@@ -20,9 +23,9 @@ A new instance of [`OpenAIOcrCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAIOcrCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -44,8 +47,7 @@ The configured instance of [`OpenAIOcrCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIOcrCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: EncryptionOptions.EncryptionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptionOptions constructor. Initializes new instance of the EncryptionOptions object with default options
+title: "EncryptionOptions.EncryptionOptions"
+linktitle: "EncryptionOptions"
+articleTitle: "EncryptionOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EncryptionOptions constructor. Initializes new instance of the EncryptionOptions object with default options."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/encryptionoptions/encryptionoptions/
+url: "/net/aspose.pdf.lowcode/encryptionoptions/encryptionoptions/"
+product_version: "26.9"
 ---
 ## EncryptionOptions constructor
 
@@ -24,10 +27,9 @@ public EncryptionOptions(string ownerPassword, string userPassword,
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* enum [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
-* class [EncryptionOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* enum [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
+* class [EncryptionOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

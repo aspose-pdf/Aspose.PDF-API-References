@@ -1,10 +1,13 @@
 ---
-title: Document.IsLinearized
-second_title: Aspose.PDF for .NET API Reference
-description: Document property. Gets or sets a value indicating whether document is linearized
+title: "Document.IsLinearized"
+linktitle: "IsLinearized"
+articleTitle: "IsLinearized"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets or sets a value indicating whether document is linearized."
 type: docs
-weight: 320
-url: /net/aspose.pdf/document/islinearized/
+weight: 1500
+url: "/net/aspose.pdf/document/islinearized/"
+product_version: "26.9"
 ---
 ## Document.IsLinearized property
 
@@ -16,8 +19,7 @@ public bool IsLinearized { get; set; }
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

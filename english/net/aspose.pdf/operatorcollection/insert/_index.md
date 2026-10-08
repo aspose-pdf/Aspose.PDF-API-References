@@ -1,12 +1,15 @@
 ---
-title: OperatorCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection method. Inserts operator into collection
+title: "OperatorCollection.Insert"
+linktitle: "Insert"
+articleTitle: "Insert"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OperatorCollection method. Inserts operator into collection."
 type: docs
-weight: 140
-url: /net/aspose.pdf/operatorcollection/insert/
+weight: 60
+url: "/net/aspose.pdf/operatorcollection/insert/"
+product_version: "26.9"
 ---
-## Insert(int, Operator) {#insert}
+## Insert(int, Operator) {#insert}
 
 Inserts operator into collection.
 
@@ -32,14 +35,14 @@ oc.Add(new Aspose.Pdf.Operators.Q());
 
 ### See Also
 
-* class [Operator](../../operator/)
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Insert(int, Operator[]) {#insert_1}
+## Insert(int, Operator[]) {#insert_1}
 
 Insert operators at the the given position.
 
@@ -64,14 +67,14 @@ oc.Insert(1, new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Opera
 
 ### See Also
 
-* class [Operator](../../operator/)
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Insert(int, IList&lt;Operator&gt;) {#insert_2}
+## Insert(int, IList&lt;Operator&gt;) {#insert_2}
 
 Insert operators at the the given position.
 
@@ -99,9 +102,8 @@ oc.Insert(1, opList);
 
 ### See Also
 
-* class [Operator](../../operator/)
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

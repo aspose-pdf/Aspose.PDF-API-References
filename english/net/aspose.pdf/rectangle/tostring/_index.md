@@ -1,10 +1,13 @@
 ---
-title: Rectangle.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle method. Gets rectangle string representation
+title: "Rectangle.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rectangle method. Gets rectangle string representation."
 type: docs
-weight: 290
-url: /net/aspose.pdf/rectangle/tostring/
+weight: 50
+url: "/net/aspose.pdf/rectangle/tostring/"
+product_version: "26.9"
 ---
 ## Rectangle.ToString method
 
@@ -20,8 +23,7 @@ String has format llx,lly,urx,ury.
 
 ### See Also
 
-* class [Rectangle](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

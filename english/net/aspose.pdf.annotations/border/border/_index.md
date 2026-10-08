@@ -1,10 +1,13 @@
 ---
-title: Border.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Border constructor. Constructor for border object
+title: "Border.Border"
+linktitle: "Border"
+articleTitle: "Border"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Border constructor. Constructor for border object."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/border/border/
+url: "/net/aspose.pdf.annotations/border/border/"
+product_version: "26.9"
 ---
 ## Border constructor
 
@@ -20,9 +23,8 @@ public Border(Annotation parent)
 
 ### See Also
 
-* class [Annotation](../../annotation/)
-* class [Border](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Annotation](../../annotation/)
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

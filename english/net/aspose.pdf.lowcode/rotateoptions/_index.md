@@ -1,10 +1,14 @@
 ---
-title: Class RotateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.RotateOptions class. Represents Rotate options for Optimizer plugin
+title: "RotateOptions Class"
+linktitle: "RotateOptions"
+articleTitle: "RotateOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.RotateOptions class. Represents Rotate options for Optimizer plugin."
 type: docs
-weight: 7850
-url: /net/aspose.pdf.lowcode/rotateoptions/
+weight: 800
+url: "/net/aspose.pdf.lowcode/rotateoptions/"
+keywords: "RotateOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## RotateOptions class
 
@@ -24,11 +28,11 @@ public sealed class RotateOptions : OrganizerBaseOptions
 
 | Name | Description |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeinputstreams/) { get; set; } | Close input streams after operation completed. |
-| [CloseOutputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
-| [Inputs](../../aspose.pdf.lowcode/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. |
-| [Outputs](../../aspose.pdf.lowcode/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
-| [Rotation](../../aspose.pdf.lowcode/rotateoptions/rotation/) { get; set; } | Gets or sets new pages rotation. |
+| [CloseInputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeinputstreams/) { get; set; } | Close input streams after operation completed. |
+| [CloseOutputStreams](../../aspose.pdf.lowcode/organizerbaseoptions/closeoutputstreams/) { get; set; } | Close output streams after operation completed. |
+| [Inputs](../../aspose.pdf.lowcode/organizerbaseoptions/inputs/) { get; } | Returns OrganizerOptions plugin data collection. |
+| [Outputs](../../aspose.pdf.lowcode/organizerbaseoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
+| [Rotation](../../aspose.pdf.lowcode/rotateoptions/rotation/) { get; set; } | Gets or sets new pages rotation. |
 
 ## Methods
 
@@ -39,8 +43,7 @@ public sealed class RotateOptions : OrganizerBaseOptions
 
 ### See Also
 
-* class [OrganizerBaseOptions](../organizerbaseoptions/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

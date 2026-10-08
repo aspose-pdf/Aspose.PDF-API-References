@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.CreateText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates text annotation in PDF document
+title: "PdfContentEditor.CreateText"
+linktitle: "CreateText"
+articleTitle: "CreateText"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates text annotation in PDF document"
 type: docs
-weight: 290
-url: /net/aspose.pdf.facades/pdfcontenteditor/createtext/
+weight: 190
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createtext/"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreateText method
 
@@ -36,8 +39,7 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

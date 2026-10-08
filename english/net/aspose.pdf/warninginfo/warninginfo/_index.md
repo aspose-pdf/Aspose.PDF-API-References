@@ -1,10 +1,13 @@
 ---
-title: WarningInfo.WarningInfo
-second_title: Aspose.PDF for .NET API Reference
-description: WarningInfo constructor. Constructs instance for gathering information
+title: "WarningInfo.WarningInfo"
+linktitle: "WarningInfo"
+articleTitle: "WarningInfo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WarningInfo constructor. Constructs instance for gathering information."
 type: docs
 weight: 10
-url: /net/aspose.pdf/warninginfo/warninginfo/
+url: "/net/aspose.pdf/warninginfo/warninginfo/"
+product_version: "26.9"
 ---
 ## WarningInfo constructor
 
@@ -21,9 +24,8 @@ public WarningInfo(WarningType type, string message)
 
 ### See Also
 
-* enum [WarningType](../../warningtype/)
-* class [WarningInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [WarningType](../../warningtype/)
+* class [WarningInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

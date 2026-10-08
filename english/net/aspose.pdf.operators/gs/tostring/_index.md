@@ -1,10 +1,13 @@
 ---
-title: GS.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: GS method. Returns string representation of operator
+title: "GS.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GS method. Returns string representation of operator."
 type: docs
-weight: 40
-url: /net/aspose.pdf.operators/gs/tostring/
+weight: 20
+url: "/net/aspose.pdf.operators/gs/tostring/"
+product_version: "26.9"
 ---
 ## GS.ToString method
 
@@ -20,8 +23,7 @@ String representation of operator.
 
 ### See Also
 
-* class [GS](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [GS](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

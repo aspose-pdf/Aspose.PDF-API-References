@@ -1,10 +1,13 @@
 ---
-title: OptimizedMemoryStream.DefaultBufferSize
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream field. Default buffer size value in bytes
+title: "OptimizedMemoryStream.DefaultBufferSize"
+linktitle: "DefaultBufferSize"
+articleTitle: "DefaultBufferSize"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptimizedMemoryStream field. Default buffer size value in bytes."
 type: docs
-weight: 180
-url: /net/aspose.pdf/optimizedmemorystream/defaultbuffersize/
+weight: 210
+url: "/net/aspose.pdf/optimizedmemorystream/defaultbuffersize/"
+product_version: "26.9"
 ---
 ## OptimizedMemoryStream.DefaultBufferSize field
 
@@ -16,8 +19,7 @@ public const int DefaultBufferSize;
 
 ### See Also
 
-* class [OptimizedMemoryStream](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

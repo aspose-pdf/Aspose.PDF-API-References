@@ -1,10 +1,13 @@
 ---
-title: ImageStamp.ImageStamp
-second_title: Aspose.PDF for .NET API Reference
-description: ImageStamp constructor. Initializes a new instance of the ImageStamp class
+title: "ImageStamp.ImageStamp"
+linktitle: "ImageStamp"
+articleTitle: "ImageStamp"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageStamp constructor. Initializes a new instance of the ImageStamp class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/imagestamp/imagestamp/
+url: "/net/aspose.pdf/imagestamp/imagestamp/"
+product_version: "26.9"
 ---
 ## ImageStamp(Stream) {#constructor}
 
@@ -20,9 +23,9 @@ public ImageStamp(Stream image)
 
 ### See Also
 
-* class [ImageStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,8 +43,7 @@ public ImageStamp(string fileName)
 
 ### See Also
 
-* class [ImageStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

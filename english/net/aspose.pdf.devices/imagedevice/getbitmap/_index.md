@@ -1,14 +1,17 @@
 ---
-title: ImageDevice.GetBitmap
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDevice method. Converts the page into Bitmap
+title: "ImageDevice.GetBitmap"
+linktitle: "GetBitmap"
+articleTitle: "GetBitmap"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageDevice method. Converts the page into Bitmap."
 type: docs
-weight: 80
-url: /net/aspose.pdf.devices/imagedevice/getbitmap/
+weight: 70
+url: "/net/aspose.pdf.devices/imagedevice/getbitmap/"
+product_version: "26.9"
 ---
 ## ImageDevice.GetBitmap method
 
-Converts the page into Bitmap.
+Converts the page into `Bitmap`.
 
 ```csharp
 public Bitmap GetBitmap(Page page)
@@ -20,9 +23,8 @@ public Bitmap GetBitmap(Page page)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [ImageDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [ImageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

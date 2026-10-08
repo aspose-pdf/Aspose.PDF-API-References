@@ -1,10 +1,13 @@
 ---
-title: ICosPdfPrimitive.ToCosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: ICosPdfPrimitive method. Tries cast this instance to CosPdfNumber
+title: "ICosPdfPrimitive.ToCosPdfNumber"
+linktitle: "ToCosPdfNumber"
+articleTitle: "ToCosPdfNumber"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ICosPdfPrimitive method. Tries cast this instance to CosPdfNumber."
 type: docs
 weight: 40
-url: /net/aspose.pdf.dataeditor/icospdfprimitive/tocospdfnumber/
+url: "/net/aspose.pdf.dataeditor/icospdfprimitive/tocospdfnumber/"
+product_version: "26.9"
 ---
 ## ICosPdfPrimitive.ToCosPdfNumber method
 
@@ -20,9 +23,8 @@ null if instance is not [`CosPdfNumber`](../../cospdfnumber/) else [`CosPdfNumbe
 
 ### See Also
 
-* class [CosPdfNumber](../../cospdfnumber/)
-* interface [ICosPdfPrimitive](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CosPdfNumber](../../cospdfnumber/)
+* interface [ICosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

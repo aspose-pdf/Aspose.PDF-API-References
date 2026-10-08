@@ -1,12 +1,15 @@
 ---
-title: OpenAIChatCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions method. Adds a text document to the document collection for the chat copilot options
+title: "OpenAIChatCopilotOptions.WithDocument"
+linktitle: "WithDocument"
+articleTitle: "WithDocument"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIChatCopilotOptions method. Adds a text document to the document collection for the chat copilot options."
 type: docs
 weight: 110
-url: /net/aspose.pdf.ai/openaichatcopilotoptions/withdocument/
+url: "/net/aspose.pdf.ai/openaichatcopilotoptions/withdocument/"
+product_version: "26.9"
 ---
-## WithDocument(TextDocument) {#withdocument_1}
+## WithDocument(TextDocument) {#withdocument}
 
 Adds a text document to the document collection for the chat copilot options.
 
@@ -24,14 +27,14 @@ The current instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
-* class [TextDocument](../../textdocument/)
-* class [OpenAIChatCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* class [TextDocument](../../textdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## WithDocument(PdfDocument) {#withdocument}
+## WithDocument(PdfDocument) {#withdocument_1}
 
 Adds a PDF document to the document collection for the chat copilot options.
 
@@ -49,10 +52,10 @@ The current instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
-* class [PdfDocument](../../pdfdocument/)
-* class [OpenAIChatCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* class [PdfDocument](../../pdfdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -74,8 +77,7 @@ The current instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

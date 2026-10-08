@@ -1,10 +1,13 @@
 ---
-title: SideBySidePagesComparisonResult.SecondPageChanges
-second_title: Aspose.PDF for .NET API Reference
-description: SideBySidePagesComparisonResult property. Get a list of changes to the pages of the second page
+title: "SideBySidePagesComparisonResult.SecondPageChanges"
+linktitle: "SecondPageChanges"
+articleTitle: "SecondPageChanges"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SideBySidePagesComparisonResult property. Get a list of changes to the pages of the second page."
 type: docs
-weight: 50
-url: /net/aspose.pdf.comparison/sidebysidepagescomparisonresult/secondpagechanges/
+weight: 40
+url: "/net/aspose.pdf.comparison/sidebysidepagescomparisonresult/secondpagechanges/"
+product_version: "26.9"
 ---
 ## SideBySidePagesComparisonResult.SecondPageChanges property
 
@@ -16,9 +19,8 @@ public List<EditContainer> SecondPageChanges { get; }
 
 ### See Also
 
-* class [EditContainer](../../editcontainer/)
-* class [SideBySidePagesComparisonResult](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [EditContainer](../../editcontainer/)
+* class [SideBySidePagesComparisonResult](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

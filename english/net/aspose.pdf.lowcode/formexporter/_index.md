@@ -1,10 +1,14 @@
 ---
-title: Class FormExporter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.FormExporter class. Represents the FormExporter plugin
+title: "FormExporter Class"
+linktitle: "FormExporter"
+articleTitle: "FormExporter"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormExporter class. Represents the FormExporter plugin."
 type: docs
-weight: 7250
-url: /net/aspose.pdf.lowcode/formexporter/
+weight: 200
+url: "/net/aspose.pdf.lowcode/formexporter/"
+keywords: "FormExporter, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## FormExporter class
 
@@ -28,8 +32,7 @@ public sealed class FormExporter : IPlugin
 
 ### See Also
 
-* interface [IPlugin](../iplugin/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

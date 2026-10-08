@@ -1,12 +1,15 @@
 ---
-title: RadioButtonField.AddOption
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField method. Add to radio button option with specifed rectangle
+title: "RadioButtonField.AddOption"
+linktitle: "AddOption"
+articleTitle: "AddOption"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RadioButtonField method. Add to radio button option with specifed rectangle."
 type: docs
-weight: 90
-url: /net/aspose.pdf.forms/radiobuttonfield/addoption/
+weight: 40
+url: "/net/aspose.pdf.forms/radiobuttonfield/addoption/"
+product_version: "26.9"
 ---
-## AddOption(string, Rectangle) {#addoption_1}
+## AddOption(string, Rectangle) {#addoption}
 
 Add to radio button option with specifed rectangle.
 
@@ -21,14 +24,14 @@ public void AddOption(string optionName, Rectangle rect)
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [RadioButtonField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddOption(string) {#addoption}
+## AddOption(string) {#addoption_1}
 
 Add option to radion button.
 
@@ -42,8 +45,7 @@ public override void AddOption(string optionName)
 
 ### See Also
 
-* class [RadioButtonField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

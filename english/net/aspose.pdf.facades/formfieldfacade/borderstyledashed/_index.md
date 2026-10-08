@@ -1,10 +1,13 @@
 ---
-title: FormFieldFacade.BorderStyleDashed
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade field. Defines a dashed border style
+title: "FormFieldFacade.BorderStyleDashed"
+linktitle: "BorderStyleDashed"
+articleTitle: "BorderStyleDashed"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade field. Defines a dashed border style."
 type: docs
-weight: 300
-url: /net/aspose.pdf.facades/formfieldfacade/borderstyledashed/
+weight: 260
+url: "/net/aspose.pdf.facades/formfieldfacade/borderstyledashed/"
+product_version: "26.9"
 ---
 ## FormFieldFacade.BorderStyleDashed field
 
@@ -16,8 +19,7 @@ public const int BorderStyleDashed;
 
 ### See Also
 
-* class [FormFieldFacade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

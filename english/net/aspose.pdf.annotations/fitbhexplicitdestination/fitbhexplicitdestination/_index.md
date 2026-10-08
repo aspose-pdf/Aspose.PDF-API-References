@@ -1,12 +1,15 @@
 ---
-title: FitBHExplicitDestination.FitBHExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: FitBHExplicitDestination constructor. Creates local explicit destination
+title: "FitBHExplicitDestination.FitBHExplicitDestination"
+linktitle: "FitBHExplicitDestination"
+articleTitle: "FitBHExplicitDestination"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FitBHExplicitDestination constructor. Creates local explicit destination."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/fitbhexplicitdestination/fitbhexplicitdestination/
+url: "/net/aspose.pdf.annotations/fitbhexplicitdestination/fitbhexplicitdestination/"
+product_version: "26.9"
 ---
-## FitBHExplicitDestination(Page, double) {#constructor_1}
+## FitBHExplicitDestination(Page, double) {#constructor}
 
 Creates local explicit destination.
 
@@ -21,14 +24,14 @@ public FitBHExplicitDestination(Page page, double top)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [FitBHExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [FitBHExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FitBHExplicitDestination(int, double) {#constructor_2}
+## FitBHExplicitDestination(int, double) {#constructor_1}
 
 Creates remote explicit destination.
 
@@ -43,8 +46,7 @@ public FitBHExplicitDestination(int pageNumber, double top)
 
 ### See Also
 
-* class [FitBHExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FitBHExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

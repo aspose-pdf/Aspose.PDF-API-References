@@ -1,10 +1,13 @@
 ---
-title: AIClientException.AIClientException
-second_title: Aspose.PDF for .NET API Reference
-description: AIClientException constructor. Initializes a new instance of the AIClientException class with a specified error message
+title: "AIClientException.AIClientException"
+linktitle: "AIClientException"
+articleTitle: "AIClientException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AIClientException constructor. Initializes a new instance of the AIClientException class with a specified error message."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/aiclientexception/aiclientexception/
+url: "/net/aspose.pdf.ai/aiclientexception/aiclientexception/"
+product_version: "26.9"
 ---
 ## AIClientException(string) {#constructor}
 
@@ -20,15 +23,16 @@ public AIClientException(string message)
 
 ### See Also
 
-* class [AIClientException](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [AIClientException](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AIClientException(string, Exception) {#constructor_1}
+## AIClientException(string, Exception) {#constructor_1}
 
-Initializes a new instance of the [`AIClientException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [`AIClientException`](../) class with a specified error message
+ and a reference to the inner exception that is the cause of this exception.
 
 ```csharp
 public AIClientException(string message, Exception innerException)
@@ -41,8 +45,7 @@ public AIClientException(string message, Exception innerException)
 
 ### See Also
 
-* class [AIClientException](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AIClientException](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Operator.IsTextShowOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Operator method. Determines if the operator is operator which responsible for text output Tj TJ etc
+title: "Operator.IsTextShowOperator"
+linktitle: "IsTextShowOperator"
+articleTitle: "IsTextShowOperator"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Operator method. Determines if the operator is operator which responsible for text output (Tj, TJ, etc)"
 type: docs
-weight: 50
-url: /net/aspose.pdf/operator/istextshowoperator/
+weight: 40
+url: "/net/aspose.pdf/operator/istextshowoperator/"
+product_version: "26.9"
 ---
 ## Operator.IsTextShowOperator method
 
@@ -24,8 +27,7 @@ True if this is text output operator
 
 ### See Also
 
-* class [Operator](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Operator](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: PDF3DRenderMode.Solid
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode field. The Solid render mode
+title: "PDF3DRenderMode.Solid"
+linktitle: "Solid"
+articleTitle: "Solid"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DRenderMode field. The \"Solid\" render mode."
 type: docs
-weight: 70
-url: /net/aspose.pdf.annotations/pdf3drendermode/solid/
+weight: 120
+url: "/net/aspose.pdf.annotations/pdf3drendermode/solid/"
+product_version: "26.9"
 ---
 ## PDF3DRenderMode.Solid field
 
@@ -16,8 +19,7 @@ public static PDF3DRenderMode Solid;
 
 ### See Also
 
-* class [PDF3DRenderMode](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

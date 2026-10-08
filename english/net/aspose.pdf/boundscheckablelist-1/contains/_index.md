@@ -1,12 +1,15 @@
 ---
-title: BoundsCheckableList1.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList method. Determines whether an element is in the System.Collections.Generic.List
+title: "BoundsCheckableList<T>.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BoundsCheckableList method. Determines whether an element is in the System.Collections.Generic.List."
 type: docs
-weight: 70
-url: /net/aspose.pdf/boundscheckablelist-1/contains/
+weight: 60
+url: "/net/aspose.pdf/boundscheckablelist-1/contains/"
+product_version: "26.9"
 ---
-## BoundsCheckableList&lt;T&gt;.Contains method
+## BoundsCheckableList<T>.Contains method
 
 Determines whether an element is in the System.Collections.Generic.List.
 
@@ -24,8 +27,7 @@ true if *item* is found in the System.Collections.Generic.List; otherwise, false
 
 ### See Also
 
-* class [BoundsCheckableList&lt;T&gt;](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

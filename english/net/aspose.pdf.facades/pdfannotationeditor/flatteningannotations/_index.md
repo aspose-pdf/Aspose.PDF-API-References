@@ -1,10 +1,13 @@
 ---
-title: PdfAnnotationEditor.FlatteningAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor method. Flattens all annotations in the document
+title: "PdfAnnotationEditor.FlatteningAnnotations"
+linktitle: "FlatteningAnnotations"
+articleTitle: "FlatteningAnnotations"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAnnotationEditor method. Flattens all annotations in the document."
 type: docs
-weight: 70
-url: /net/aspose.pdf.facades/pdfannotationeditor/flatteningannotations/
+weight: 130
+url: "/net/aspose.pdf.facades/pdfannotationeditor/flatteningannotations/"
+product_version: "26.9"
 ---
 ## FlatteningAnnotations() {#flatteningannotations}
 
@@ -25,9 +28,9 @@ editor.Save(example_out.pdf");
 
 ### See Also
 
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -45,14 +48,14 @@ public void FlatteningAnnotations(FlattenSettings flattenSettings)
 
 ### See Also
 
-* class [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FlatteningAnnotations(int, int, AnnotationType[]) {#flatteningannotations_2}
+## FlatteningAnnotations(int, int, AnnotationType[]) {#flatteningannotations_2}
 
 Flattens the annotations of the specified types.
 
@@ -78,9 +81,8 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* class [PdfAnnotationEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

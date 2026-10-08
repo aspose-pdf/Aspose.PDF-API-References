@@ -1,10 +1,13 @@
 ---
-title: Enum PrintRange
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PrintRange enum. Specifies the option that designate the part of the document to print
+title: "PrintRange Enum"
+linktitle: "PrintRange"
+articleTitle: "PrintRange"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Printing.PrintRange enum. Specifies the option that designate the part of the document to print."
 type: docs
-weight: 9940
-url: /net/aspose.pdf.printing/printrange/
+weight: 150
+url: "/net/aspose.pdf.printing/printrange/"
+product_version: "26.9"
 ---
 ## PrintRange enumeration
 
@@ -25,7 +28,6 @@ public enum PrintRange
 
 ### See Also
 
-* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
 

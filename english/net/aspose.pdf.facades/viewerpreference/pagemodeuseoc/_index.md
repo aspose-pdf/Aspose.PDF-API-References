@@ -1,10 +1,13 @@
 ---
-title: ViewerPreference.PageModeUseOC
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference field. Optional content group panel visible
+title: "ViewerPreference.PageModeUseOC"
+linktitle: "PageModeUseOC"
+articleTitle: "PageModeUseOC"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. Optional content group panel visible."
 type: docs
-weight: 230
-url: /net/aspose.pdf.facades/viewerpreference/pagemodeuseoc/
+weight: 20
+url: "/net/aspose.pdf.facades/viewerpreference/pagemodeuseoc/"
+product_version: "26.9"
 ---
 ## ViewerPreference.PageModeUseOC field
 
@@ -16,8 +19,7 @@ public const int PageModeUseOC;
 
 ### See Also
 
-* class [ViewerPreference](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

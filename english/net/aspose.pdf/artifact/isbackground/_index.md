@@ -1,10 +1,13 @@
 ---
-title: Artifact.IsBackground
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact property. If true Artifact is placed behind page contents
+title: "Artifact.IsBackground"
+linktitle: "IsBackground"
+articleTitle: "IsBackground"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact property. If true Artifact is placed behind page contents."
 type: docs
-weight: 100
-url: /net/aspose.pdf/artifact/isbackground/
+weight: 360
+url: "/net/aspose.pdf/artifact/isbackground/"
+product_version: "26.9"
 ---
 ## Artifact.IsBackground property
 
@@ -16,8 +19,7 @@ public bool IsBackground { get; set; }
 
 ### See Also
 
-* class [Artifact](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

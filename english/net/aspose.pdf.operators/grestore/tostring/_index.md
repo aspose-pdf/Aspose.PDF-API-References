@@ -1,10 +1,13 @@
 ---
-title: GRestore.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: GRestore method. Returns text of the operator
+title: "GRestore.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GRestore method. Returns text of the operator."
 type: docs
-weight: 30
-url: /net/aspose.pdf.operators/grestore/tostring/
+weight: 20
+url: "/net/aspose.pdf.operators/grestore/tostring/"
+product_version: "26.9"
 ---
 ## GRestore.ToString method
 
@@ -20,8 +23,7 @@ Text representation of the operator.
 
 ### See Also
 
-* class [GRestore](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [GRestore](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Form.AddFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Adds additional appearance of the field to specified page of the document in the specified location
+title: "Form.AddFieldAppearance"
+linktitle: "AddFieldAppearance"
+articleTitle: "AddFieldAppearance"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Adds additional appearance of the field to specified page of the document in the specified location."
 type: docs
-weight: 220
-url: /net/aspose.pdf.forms/form/addfieldappearance/
+weight: 90
+url: "/net/aspose.pdf.forms/form/addfieldappearance/"
+product_version: "26.9"
 ---
 ## Form.AddFieldAppearance method
 
@@ -22,10 +25,9 @@ public void AddFieldAppearance(Field field, int pageNumber, Rectangle rect)
 
 ### See Also
 
-* class [Field](../../field/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Field](../../field/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

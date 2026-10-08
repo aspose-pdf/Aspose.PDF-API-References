@@ -1,10 +1,13 @@
 ---
-title: Enum PredefinedAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PredefinedAction enum. Defines different actions which can be triggered from a PDF file
+title: "PredefinedAction Enum"
+linktitle: "PredefinedAction"
+articleTitle: "PredefinedAction"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PredefinedAction enum. Defines different actions which can be triggered from a PDF file."
 type: docs
-weight: 2430
-url: /net/aspose.pdf.annotations/predefinedaction/
+weight: 960
+url: "/net/aspose.pdf.annotations/predefinedaction/"
+product_version: "26.9"
 ---
 ## PredefinedAction enumeration
 
@@ -92,7 +95,6 @@ public enum PredefinedAction
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: SetGrayStroke.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SetGrayStroke method. Accepts visitor object to process operator
+title: "SetGrayStroke.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetGrayStroke method. Accepts visitor object to process operator."
 type: docs
 weight: 30
-url: /net/aspose.pdf.operators/setgraystroke/accept/
+url: "/net/aspose.pdf.operators/setgraystroke/accept/"
+product_version: "26.9"
 ---
 ## SetGrayStroke.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* class [SetGrayStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [SetGrayStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

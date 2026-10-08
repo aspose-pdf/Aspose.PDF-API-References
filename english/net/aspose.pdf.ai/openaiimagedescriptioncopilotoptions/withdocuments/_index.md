@@ -1,10 +1,13 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions method. Sets the document collection for the image description copilot options
+title: "OpenAIImageDescriptionCopilotOptions.WithDocuments"
+linktitle: "WithDocuments"
+articleTitle: "WithDocuments"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIImageDescriptionCopilotOptions method. Sets the document collection for the image description copilot options."
 type: docs
-weight: 90
-url: /net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withdocuments/
+weight: 110
+url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withdocuments/"
+product_version: "26.9"
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
@@ -24,10 +27,10 @@ The current instance of [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### See Also
 
-* class [DocumentCollection](../../documentcollection/)
-* class [OpenAIImageDescriptionCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* class [DocumentCollection](../../documentcollection/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -49,10 +52,10 @@ The current instance of [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### See Also
 
-* class [PdfDocument](../../pdfdocument/)
-* class [OpenAIImageDescriptionCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* class [PdfDocument](../../pdfdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -74,8 +77,7 @@ The current instance of [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIImageDescriptionCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

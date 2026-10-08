@@ -1,10 +1,13 @@
 ---
-title: PdfFormatConversionOptions.AlignStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions field. Strategy to align text. This parameter has sense only when flag AlignText is set to true
+title: "PdfFormatConversionOptions.AlignStrategy"
+linktitle: "AlignStrategy"
+articleTitle: "AlignStrategy"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFormatConversionOptions field. Strategy to align text. This parameter has sense only when flag AlignText is set to true."
 type: docs
-weight: 240
-url: /net/aspose.pdf/pdfformatconversionoptions/alignstrategy/
+weight: 290
+url: "/net/aspose.pdf/pdfformatconversionoptions/alignstrategy/"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.AlignStrategy field
 
@@ -16,9 +19,8 @@ public SegmentAlignStrategy AlignStrategy;
 
 ### See Also
 
-* enum [SegmentAlignStrategy](../../pdfformatconversionoptions.segmentalignstrategy/)
-* class [PdfFormatConversionOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [SegmentAlignStrategy](../../pdfformatconversionoptions.segmentalignstrategy/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

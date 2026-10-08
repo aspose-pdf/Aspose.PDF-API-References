@@ -1,10 +1,13 @@
 ---
-title: CustomFontSubstitutionBase.OriginalFontSpecification.IsSubstitutionUnavoidable
-second_title: Aspose.PDF for .NET API Reference
-description: OriginalFontSpecification property. Gets a value that indicates that the substitution is unavoidable
+title: "CustomFontSubstitutionBase.OriginalFontSpecification.IsSubstitutionUnavoidable"
+linktitle: "IsSubstitutionUnavoidable"
+articleTitle: "IsSubstitutionUnavoidable"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OriginalFontSpecification property. Gets a value that indicates that the substitution is unavoidable."
 type: docs
-weight: 20
-url: /net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/issubstitutionunavoidable/
+weight: 30
+url: "/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/issubstitutionunavoidable/"
+product_version: "26.9"
 ---
 ## CustomFontSubstitutionBase.OriginalFontSpecification.IsSubstitutionUnavoidable property
 
@@ -16,12 +19,13 @@ public bool IsSubstitutionUnavoidable { get; }
 
 ## Remarks
 
-Returns true in case substitution was requested because of absence of the original font or in case original font cannot be used in context of some task. In case user ignores the flag and doesn't substitute the font - default font substitution procedure is performed. But it provides opportunity for the user to alternate standard font substitution procedure and set better font to the system. Returns false in case original font is present, valid, but it is allowed for the user to substitute it.
+Returns true in case substitution was requested because of absence of the original font or in case original font cannot be used in context of some task.
+ In case user ignores the flag and doesn't substitute the font - default font substitution procedure is performed.
+ But it provides opportunity for the user to alternate standard font substitution procedure and set better font to the system. Returns false in case original font is present, valid, but it is allowed for the user to substitute it.
 
 ### See Also
 
-* class [OriginalFontSpecification](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OriginalFontSpecification](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

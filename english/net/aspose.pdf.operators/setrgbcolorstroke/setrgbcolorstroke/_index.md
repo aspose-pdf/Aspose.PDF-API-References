@@ -1,12 +1,15 @@
 ---
-title: SetRGBColorStroke.SetRGBColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: SetRGBColorStroke constructor. Initializes operator
+title: "SetRGBColorStroke.SetRGBColorStroke"
+linktitle: "SetRGBColorStroke"
+articleTitle: "SetRGBColorStroke"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetRGBColorStroke constructor. Initializes operator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/setrgbcolorstroke/setrgbcolorstroke/
+url: "/net/aspose.pdf.operators/setrgbcolorstroke/setrgbcolorstroke/"
+product_version: "26.9"
 ---
-## SetRGBColorStroke(double, double, double) {#constructor}
+## SetRGBColorStroke(double, double, double) {#constructor}
 
 Initializes operator.
 
@@ -22,9 +25,9 @@ public SetRGBColorStroke(double r, double g, double b)
 
 ### See Also
 
-* class [SetRGBColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [SetRGBColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -42,8 +45,7 @@ public SetRGBColorStroke(Color color)
 
 ### See Also
 
-* class [SetRGBColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetRGBColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

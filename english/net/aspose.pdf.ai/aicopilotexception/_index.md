@@ -1,10 +1,14 @@
 ---
-title: Class AICopilotException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.AICopilotException class. Represents an exception specific to Copilots operations
+title: "AICopilotException Class"
+linktitle: "AICopilotException"
+articleTitle: "AICopilotException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.AICopilotException class. Represents an exception specific to Copilots operations."
 type: docs
 weight: 40
-url: /net/aspose.pdf.ai/aicopilotexception/
+url: "/net/aspose.pdf.ai/aicopilotexception/"
+keywords: "AICopilotException, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## AICopilotException class
 
@@ -19,12 +23,11 @@ public class AICopilotException : PdfException
 | Name | Description |
 | --- | --- |
 | [AICopilotException](aicopilotexception/#constructor)(string) | Initializes a new instance of the `AICopilotException` class with a specified error message. |
-| [AICopilotException](aicopilotexception/#constructor_1)(string, Exception) | Initializes a new instance of the `AICopilotException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [AICopilotException](aicopilotexception/#constructor_1)(string, Exception) | Initializes a new instance of the `AICopilotException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
 
 ### See Also
 
-* class [PdfException](../../aspose.pdf/pdfexception/)
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfException](../../aspose.pdf/pdfexception/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

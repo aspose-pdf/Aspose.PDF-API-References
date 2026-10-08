@@ -1,12 +1,20 @@
 ---
-title: Aspose.Pdf.AI
-second_title: Aspose.PDF for .NET API Reference
-description: The Aspose.Pdf.AI namespace provides classes for AI functionalities including API clients and intelligent assistants
+title: "Aspose.Pdf.AI"
+linktitle: "Aspose.Pdf.AI"
+articleTitle: "Aspose.Pdf.AI"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "The Aspose.Pdf.AI namespace provides classes for AI functionalities, including API clients and intelligent assistants."
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/
+weight: 10
+url: "/net/aspose.pdf.ai/"
+keywords: "Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The **Aspose.Pdf.AI** namespace provides classes for AI functionalities, including API clients and intelligent assistants.
+
+Part of the [Aspose.PDF for .NET](../) API reference.
 
 ## Classes
 
@@ -134,6 +142,7 @@ The **Aspose.Pdf.AI** namespace provides classes for AI functionalities, includi
 | [VectorStoreListResponse](./vectorstorelistresponse/) | Represents a list response containing vector store data. |
 | [VectorStoreModifyRequest](./vectorstoremodifyrequest/) | Modify a vector store request. |
 | [VectorStoreResponse](./vectorstoreresponse/) | The vector store object. |
+
 ## Interfaces
 
 | Interface | Description |
@@ -158,10 +167,10 @@ The **Aspose.Pdf.AI** namespace provides classes for AI functionalities, includi
 | [ISummaryClient&lt;TOptions&gt;](./isummaryclient-1/) | Represents an interface for a summary client with specific options. |
 | [ISummaryCopilot](./isummarycopilot/) | Represents a summary copilot for generating summaries for documents using AI models. |
 | [ISummaryCopilotOptions&lt;TOptions&gt;](./isummarycopilotoptions-1/) | Represents an interface for summary copilot options with a specific type. |
+
 ## Enumeration
 
 | Enumeration | Description |
 | --- | --- |
 | [Detail](./detail/) | Specifies the level of detail for image analysis. |
-
 

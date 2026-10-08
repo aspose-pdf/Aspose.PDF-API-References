@@ -1,12 +1,15 @@
 ---
-title: IImageDescriptionClient1.GetImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: IImageDescriptionClient method. Gets an instance of IImageDescriptionCopilot with the specified options
+title: "IImageDescriptionClient<TOptions>.GetImageDescriptionCopilot"
+linktitle: "GetImageDescriptionCopilot"
+articleTitle: "GetImageDescriptionCopilot"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IImageDescriptionClient method. Gets an instance of IImageDescriptionCopilot with the specified options."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/iimagedescriptionclient-1/getimagedescriptioncopilot/
+url: "/net/aspose.pdf.ai/iimagedescriptionclient-1/getimagedescriptioncopilot/"
+product_version: "26.9"
 ---
-## IImageDescriptionClient&lt;TOptions&gt;.GetImageDescriptionCopilot method
+## IImageDescriptionClient<TOptions>.GetImageDescriptionCopilot method
 
 Gets an instance of [`IImageDescriptionCopilot`](../../iimagedescriptioncopilot/) with the specified options.
 
@@ -25,10 +28,9 @@ An instance of [`IImageDescriptionCopilot`](../../iimagedescriptioncopilot/).
 
 ### See Also
 
-* interface [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
-* interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
-* interface [IImageDescriptionClient&lt;TOptions&gt;](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
+* interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
+* interface [IImageDescriptionClient&lt;TOptions&gt;](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

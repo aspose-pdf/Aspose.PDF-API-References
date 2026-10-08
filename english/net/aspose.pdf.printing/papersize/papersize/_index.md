@@ -1,10 +1,13 @@
 ---
-title: PaperSize.PaperSize
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSize constructor. Initializes a new instance of the PaperSize class with default properties
+title: "PaperSize.PaperSize"
+linktitle: "PaperSize"
+articleTitle: "PaperSize"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSize constructor. Initializes a new instance of the PaperSize class with default properties."
 type: docs
 weight: 10
-url: /net/aspose.pdf.printing/papersize/papersize/
+url: "/net/aspose.pdf.printing/papersize/papersize/"
+product_version: "26.9"
 ---
 ## PaperSize() {#constructor}
 
@@ -16,13 +19,13 @@ public PaperSize()
 
 ### See Also
 
-* class [PaperSize](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
+* class [PaperSize](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PaperSize(string, int, int) {#constructor_1}
+## PaperSize(string, int, int) {#constructor_1}
 
 Initializes a new instance of the [`PaperSize`](../) class.
 
@@ -38,8 +41,7 @@ public PaperSize(string name, int width, int height)
 
 ### See Also
 
-* class [PaperSize](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

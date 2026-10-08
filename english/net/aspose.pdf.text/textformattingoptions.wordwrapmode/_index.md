@@ -1,10 +1,13 @@
 ---
-title: Enum TextFormattingOptions.WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextFormattingOptionsWordWrapMode enum. Defines word wrapping strategies
+title: "TextFormattingOptions.WordWrapMode Enum"
+linktitle: "TextFormattingOptions.WordWrapMode"
+articleTitle: "TextFormattingOptions.WordWrapMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextFormattingOptions.WordWrapMode enum. Defines word wrapping strategies"
 type: docs
-weight: 11330
-url: /net/aspose.pdf.text/textformattingoptions.wordwrapmode/
+weight: 540
+url: "/net/aspose.pdf.text/textformattingoptions.wordwrapmode/"
+product_version: "26.9"
 ---
 ## TextFormattingOptions.WordWrapMode enumeration
 
@@ -25,8 +28,7 @@ public enum WordWrapMode
 
 ### See Also
 
-* class [TextFormattingOptions](../textformattingoptions/)
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* class [TextFormattingOptions](../textformattingoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

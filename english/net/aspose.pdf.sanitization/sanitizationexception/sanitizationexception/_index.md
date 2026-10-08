@@ -1,10 +1,13 @@
 ---
-title: SanitizationException.SanitizationException
-second_title: Aspose.PDF for .NET API Reference
-description: SanitizationException constructor. Initializes a new instance of the SanitizationException class
+title: "SanitizationException.SanitizationException"
+linktitle: "SanitizationException"
+articleTitle: "SanitizationException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SanitizationException constructor. Initializes a new instance of the SanitizationException class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.sanitization/sanitizationexception/sanitizationexception/
+url: "/net/aspose.pdf.sanitization/sanitizationexception/sanitizationexception/"
+product_version: "26.9"
 ---
 ## SanitizationException() {#constructor}
 
@@ -16,13 +19,13 @@ public SanitizationException()
 
 ### See Also
 
-* class [SanitizationException](../)
-* namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
-* assembly [Aspose.PDF](../../../)
+* class [SanitizationException](../)
+* namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SanitizationException(string) {#constructor_2}
+## SanitizationException(string) {#constructor_1}
 
 Initializes a new instance of the [`SanitizationException`](../) class.
 
@@ -36,13 +39,13 @@ public SanitizationException(string message)
 
 ### See Also
 
-* class [SanitizationException](../)
-* namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
-* assembly [Aspose.PDF](../../../)
+* class [SanitizationException](../)
+* namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SanitizationException(string, Exception) {#constructor_3}
+## SanitizationException(string, Exception) {#constructor_2}
 
 Initializes a new instance of the [`SanitizationException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
@@ -57,13 +60,13 @@ public SanitizationException(string message, Exception innerException)
 
 ### See Also
 
-* class [SanitizationException](../)
-* namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
-* assembly [Aspose.PDF](../../../)
+* class [SanitizationException](../)
+* namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SanitizationException(Exception) {#constructor_1}
+## SanitizationException(Exception) {#constructor_3}
 
 Initializes a new instance of the [`SanitizationException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
@@ -77,8 +80,7 @@ public SanitizationException(Exception innerException)
 
 ### See Also
 
-* class [SanitizationException](../)
-* namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SanitizationException](../)
+* namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
+* assembly [Aspose.PDF](../../../)
 

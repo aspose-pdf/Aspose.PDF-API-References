@@ -1,12 +1,15 @@
 ---
-title: Metadata.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata method. Adds value to metadata
+title: "Metadata.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata method. Adds value to metadata."
 type: docs
-weight: 110
-url: /net/aspose.pdf/metadata/add/
+weight: 50
+url: "/net/aspose.pdf/metadata/add/"
+product_version: "26.9"
 ---
-## Add(string, XmpValue) {#add_2}
+## Add(string, XmpValue) {#add}
 
 Adds value to metadata.
 
@@ -21,14 +24,14 @@ public void Add(string key, XmpValue value)
 
 ### See Also
 
-* class [XmpValue](../../xmpvalue/)
-* class [Metadata](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(string, object) {#add_3}
+## Add(string, object) {#add_1}
 
 Adds value to metadata.
 
@@ -43,13 +46,13 @@ public void Add(string key, object value)
 
 ### See Also
 
-* class [Metadata](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(string, XmpPdfAExtensionObject) {#add_1}
+## Add(string, XmpPdfAExtensionObject) {#add_2}
 
 Adds pdf extension to metadata.
 
@@ -64,14 +67,14 @@ public void Add(string prefix, XmpPdfAExtensionObject value)
 
 ### See Also
 
-* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* class [Metadata](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add}
+## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add_3}
 
 Adds pair with key and value into the dictionary.
 
@@ -85,9 +88,8 @@ public void Add(KeyValuePair<string, XmpValue> item)
 
 ### See Also
 
-* class [XmpValue](../../xmpvalue/)
-* class [Metadata](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

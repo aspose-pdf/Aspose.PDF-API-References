@@ -1,14 +1,18 @@
 ---
-title: MarkupAnnotation.SetReviewState
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation method. Sets the review state for an annotation. Marked and Unmarked states are ignored as they do not belong to the Review StateModel. Note the state stored in other text annotation which has state and statemodel keys
+title: "MarkupAnnotation.SetReviewState"
+linktitle: "SetReviewState"
+articleTitle: "SetReviewState"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupAnnotation method. Sets the review state for an annotation. Marked and Unmarked states are ignored as they do not belong to the Review StateModel. Note..."
 type: docs
-weight: 140
-url: /net/aspose.pdf.annotations/markupannotation/setreviewstate/
+weight: 30
+url: "/net/aspose.pdf.annotations/markupannotation/setreviewstate/"
+product_version: "26.9"
 ---
-## SetReviewState(AnnotationState, string) {#setreviewstate_1}
+## SetReviewState(AnnotationState, string) {#setreviewstate}
 
-Sets the review state for an annotation. Marked and Unmarked states are ignored as they do not belong to the Review StateModel. Note, the state stored in other text annotation which has state and statemodel keys.
+Sets the review state for an annotation. Marked and Unmarked states are ignored as they do not belong to the Review StateModel.
+ Note, the state stored in other text annotation which has state and statemodel keys.
 
 ```csharp
 public void SetReviewState(AnnotationState state, string userName)
@@ -21,16 +25,18 @@ public void SetReviewState(AnnotationState state, string userName)
 
 ### See Also
 
-* enum [AnnotationState](../../annotationstate/)
-* class [MarkupAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* enum [AnnotationState](../../annotationstate/)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SetReviewState(AnnotationState) {#setreviewstate}
+## SetReviewState(AnnotationState) {#setreviewstate_1}
 
-Sets the review state for an annotation. Marked and Unmarked states are ignored as they do not belong to the Review StateModel. The state is set by the user who created the target annotation. The value is taken from the Title property of the target annotation. Note, the state stored in other text annotation which has state and statemodel keys.
+Sets the review state for an annotation. Marked and Unmarked states are ignored as they do not belong to the Review StateModel.
+ The state is set by the user who created the target annotation. The value is taken from the Title property of the target annotation.
+ Note, the state stored in other text annotation which has state and statemodel keys.
 
 ```csharp
 public void SetReviewState(AnnotationState state)
@@ -42,9 +48,8 @@ public void SetReviewState(AnnotationState state)
 
 ### See Also
 
-* enum [AnnotationState](../../annotationstate/)
-* class [MarkupAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [AnnotationState](../../annotationstate/)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Element.E
-second_title: Aspose.PDF for .NET API Reference
-description: Element property. Optional PDF 1.5 The expanded form of an abbreviation
+title: "Element.E"
+linktitle: "E"
+articleTitle: "E"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Element property. (Optional; PDF 1.5) The expanded form of an abbreviation."
 type: docs
-weight: 40
-url: /net/aspose.pdf.structure/element/e/
+weight: 60
+url: "/net/aspose.pdf.structure/element/e/"
+product_version: "26.9"
 ---
 ## Element.E property
 
@@ -16,8 +19,7 @@ public virtual string E { get; set; }
 
 ### See Also
 
-* class [Element](../)
-* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Element](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
 

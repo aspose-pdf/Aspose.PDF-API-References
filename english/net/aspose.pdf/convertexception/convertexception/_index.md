@@ -1,10 +1,13 @@
 ---
-title: ConvertException.ConvertException
-second_title: Aspose.PDF for .NET API Reference
-description: ConvertException constructor. Initializes a new instance of the ConvertException class
+title: "ConvertException.ConvertException"
+linktitle: "ConvertException"
+articleTitle: "ConvertException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ConvertException constructor. Initializes a new instance of the ConvertException class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/convertexception/convertexception/
+url: "/net/aspose.pdf/convertexception/convertexception/"
+product_version: "26.9"
 ---
 ## ConvertException(string) {#constructor}
 
@@ -20,13 +23,13 @@ public ConvertException(string message)
 
 ### See Also
 
-* class [ConvertException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [ConvertException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ConvertException(string, Exception) {#constructor_1}
+## ConvertException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`ConvertException`](../) class.
 
@@ -41,8 +44,7 @@ public ConvertException(string message, Exception innerException)
 
 ### See Also
 
-* class [ConvertException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ConvertException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

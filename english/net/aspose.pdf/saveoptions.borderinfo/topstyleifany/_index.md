@@ -1,10 +1,13 @@
 ---
-title: SaveOptions.BorderInfo.TopStyleIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo field. Represents top partif any of border
+title: "SaveOptions.BorderInfo.TopStyleIfAny"
+linktitle: "TopStyleIfAny"
+articleTitle: "TopStyleIfAny"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BorderInfo field. Represents top part(if any) of border"
 type: docs
-weight: 50
-url: /net/aspose.pdf/saveoptions.borderinfo/topstyleifany/
+weight: 30
+url: "/net/aspose.pdf/saveoptions.borderinfo/topstyleifany/"
+product_version: "26.9"
 ---
 ## SaveOptions.BorderInfo.TopStyleIfAny field
 
@@ -16,9 +19,8 @@ public BorderPartStyle TopStyleIfAny;
 
 ### See Also
 
-* class [BorderPartStyle](../../saveoptions.borderpartstyle/)
-* class [BorderInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BorderPartStyle](../../saveoptions.borderpartstyle/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

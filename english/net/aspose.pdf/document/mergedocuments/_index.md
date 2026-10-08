@@ -1,36 +1,15 @@
 ---
-title: Document.MergeDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Merges documents
+title: "Document.MergeDocuments"
+linktitle: "MergeDocuments"
+articleTitle: "MergeDocuments"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Merges documents."
 type: docs
-weight: 20
-url: /net/aspose.pdf/document/mergedocuments/
+weight: 1020
+url: "/net/aspose.pdf/document/mergedocuments/"
+product_version: "26.9"
 ---
-## MergeDocuments(params Document[]) {#mergedocuments}
-
-Merges documents.
-
-```csharp
-public static Document MergeDocuments(params Document[] documents)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| documents | Document[] | The documents to merge. |
-
-### Return Value
-
-The merged document.
-
-### See Also
-
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## MergeDocuments(MergeOptions, params string[]) {#mergedocuments_2}
+## MergeDocuments(MergeOptions, params string[]) {#mergedocuments}
 
 Merges documents.
 
@@ -49,14 +28,14 @@ The merged document.
 
 ### See Also
 
-* class [MergeOptions](../../document.mergeoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* class [MergeOptions](../../document.mergeoptions/)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MergeDocuments(MergeOptions, params Document[]) {#mergedocuments_1}
+## MergeDocuments(MergeOptions, params Document[]) {#mergedocuments_1}
 
 Merges documents.
 
@@ -75,14 +54,14 @@ The merged document.
 
 ### See Also
 
-* class [MergeOptions](../../document.mergeoptions/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* class [MergeOptions](../../document.mergeoptions/)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## MergeDocuments(params string[]) {#mergedocuments_3}
+## MergeDocuments(params string[]) {#mergedocuments_2}
 
 Merges pdf files.
 
@@ -100,8 +79,31 @@ The merged document.
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
+---
+
+## MergeDocuments(params Document[]) {#mergedocuments_3}
+
+Merges documents.
+
+```csharp
+public static Document MergeDocuments(params Document[] documents)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| documents | Document[] | The documents to merge. |
+
+### Return Value
+
+The merged document.
+
+### See Also
+
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

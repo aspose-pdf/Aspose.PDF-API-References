@@ -1,10 +1,13 @@
 ---
-title: RunModifyRequest.RunModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: RunModifyRequest constructor. The default constructor
+title: "RunModifyRequest.RunModifyRequest"
+linktitle: "RunModifyRequest"
+articleTitle: "RunModifyRequest"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RunModifyRequest constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/runmodifyrequest/runmodifyrequest/
+url: "/net/aspose.pdf.ai/runmodifyrequest/runmodifyrequest/"
+product_version: "26.9"
 ---
 ## RunModifyRequest constructor
 
@@ -16,8 +19,7 @@ public RunModifyRequest()
 
 ### See Also
 
-* class [RunModifyRequest](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RunModifyRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

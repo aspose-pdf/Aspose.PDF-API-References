@@ -1,10 +1,13 @@
 ---
-title: CreateFineTuningJobResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobResponse property. Gets or sets the status of the finetuning job
+title: "CreateFineTuningJobResponse.Status"
+linktitle: "Status"
+articleTitle: "Status"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CreateFineTuningJobResponse property. Gets or sets the status of the fine-tuning job."
 type: docs
 weight: 90
-url: /net/aspose.pdf.ai/createfinetuningjobresponse/status/
+url: "/net/aspose.pdf.ai/createfinetuningjobresponse/status/"
+product_version: "26.9"
 ---
 ## CreateFineTuningJobResponse.Status property
 
@@ -16,8 +19,7 @@ public string Status { get; set; }
 
 ### See Also
 
-* class [CreateFineTuningJobResponse](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CreateFineTuningJobResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

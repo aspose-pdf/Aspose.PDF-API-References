@@ -1,10 +1,13 @@
 ---
-title: AppearanceDictionary.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary method. Checks does specified keyvalue pair is contained in the dictionary
+title: "AppearanceDictionary.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AppearanceDictionary method. Checks does specified key-value pair is contained in the dictionary."
 type: docs
-weight: 110
-url: /net/aspose.pdf.annotations/appearancedictionary/contains/
+weight: 90
+url: "/net/aspose.pdf.annotations/appearancedictionary/contains/"
+product_version: "26.9"
 ---
 ## AppearanceDictionary.Contains method
 
@@ -24,9 +27,8 @@ true if this pauir was found.
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
-* class [AppearanceDictionary](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

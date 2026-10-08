@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.DeleteStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Deletes multiple stamps on the specified page by stamp indexes
+title: "PdfContentEditor.DeleteStamp"
+linktitle: "DeleteStamp"
+articleTitle: "DeleteStamp"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Deletes multiple stamps on the specified page by stamp indexes."
 type: docs
-weight: 330
-url: /net/aspose.pdf.facades/pdfcontenteditor/deletestamp/
+weight: 530
+url: "/net/aspose.pdf.facades/pdfcontenteditor/deletestamp/"
+product_version: "26.9"
 ---
 ## PdfContentEditor.DeleteStamp method
 
@@ -30,8 +33,7 @@ contentEditor.Save("outfile.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

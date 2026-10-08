@@ -1,10 +1,13 @@
 ---
-title: SetGray.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SetGray method. Accepts visitor object to process operator
+title: "SetGray.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetGray method. Accepts visitor object to process operator."
 type: docs
 weight: 30
-url: /net/aspose.pdf.operators/setgray/accept/
+url: "/net/aspose.pdf.operators/setgray/accept/"
+product_version: "26.9"
 ---
 ## SetGray.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* class [SetGray](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [SetGray](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

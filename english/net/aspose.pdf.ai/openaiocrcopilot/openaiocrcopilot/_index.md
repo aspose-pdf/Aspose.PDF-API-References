@@ -1,10 +1,13 @@
 ---
-title: OpenAIOcrCopilot.OpenAIOcrCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIOcrCopilot constructor. Initializes a new instance of the OpenAIOcrCopilot class
+title: "OpenAIOcrCopilot.OpenAIOcrCopilot"
+linktitle: "OpenAIOcrCopilot"
+articleTitle: "OpenAIOcrCopilot"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIOcrCopilot constructor. Initializes a new instance of the OpenAIOcrCopilot class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/openaiocrcopilot/openaiocrcopilot/
+url: "/net/aspose.pdf.ai/openaiocrcopilot/openaiocrcopilot/"
+product_version: "26.9"
 ---
 ## OpenAIOcrCopilot constructor
 
@@ -21,11 +24,10 @@ public OpenAIOcrCopilot(IOpenAIClient client, IOcrCopilotOptions<OpenAIOcrCopilo
 
 ### See Also
 
-* interface [IOpenAIClient](../../iopenaiclient/)
-* interface [IOcrCopilotOptions&lt;TOptions&gt;](../../iocrcopilotoptions-1/)
-* class [OpenAIOcrCopilotOptions](../../openaiocrcopilotoptions/)
-* class [OpenAIOcrCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOpenAIClient](../../iopenaiclient/)
+* interface [IOcrCopilotOptions&lt;TOptions&gt;](../../iocrcopilotoptions-1/)
+* class [OpenAIOcrCopilotOptions](../../openaiocrcopilotoptions/)
+* class [OpenAIOcrCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

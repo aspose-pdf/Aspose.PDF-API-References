@@ -1,10 +1,13 @@
 ---
-title: Color.LightGoldenrodYellow
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FFFAFAD2
+title: "Color.LightGoldenrodYellow"
+linktitle: "LightGoldenrodYellow"
+articleTitle: "LightGoldenrodYellow"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFFAFAD2."
 type: docs
-weight: 680
-url: /net/aspose.pdf/color/lightgoldenrodyellow/
+weight: 850
+url: "/net/aspose.pdf/color/lightgoldenrodyellow/"
+product_version: "26.9"
 ---
 ## Color.LightGoldenrodYellow property
 
@@ -20,8 +23,7 @@ A representing a system-defined color.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

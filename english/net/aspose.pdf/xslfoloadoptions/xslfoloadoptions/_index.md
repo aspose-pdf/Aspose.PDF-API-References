@@ -1,10 +1,13 @@
 ---
-title: XslFoLoadOptions.XslFoLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: XslFoLoadOptions constructor. Creates XslFoLoadOptions object without xsl data
+title: "XslFoLoadOptions.XslFoLoadOptions"
+linktitle: "XslFoLoadOptions"
+articleTitle: "XslFoLoadOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XslFoLoadOptions constructor. Creates XslFoLoadOptions object without xsl data."
 type: docs
 weight: 10
-url: /net/aspose.pdf/xslfoloadoptions/xslfoloadoptions/
+url: "/net/aspose.pdf/xslfoloadoptions/xslfoloadoptions/"
+product_version: "26.9"
 ---
 ## XslFoLoadOptions() {#constructor}
 
@@ -16,13 +19,13 @@ public XslFoLoadOptions()
 
 ### See Also
 
-* class [XslFoLoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## XslFoLoadOptions(string) {#constructor_2}
+## XslFoLoadOptions(string) {#constructor_1}
 
 Creates [`XslFoLoadOptions`](../) object with xsl data.
 
@@ -36,13 +39,13 @@ public XslFoLoadOptions(string xslFile)
 
 ### See Also
 
-* class [XslFoLoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## XslFoLoadOptions(Stream) {#constructor_1}
+## XslFoLoadOptions(Stream) {#constructor_2}
 
 Creates [`XslFoLoadOptions`](../) object with xsl data.
 
@@ -56,8 +59,7 @@ public XslFoLoadOptions(Stream xslStream)
 
 ### See Also
 
-* class [XslFoLoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

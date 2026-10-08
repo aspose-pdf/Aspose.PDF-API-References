@@ -1,12 +1,20 @@
 ---
-title: Aspose.Pdf.Comparison
-second_title: Aspose.PDF for .NET API Reference
-description: The Aspose.Pdf.Comparison namespace provides classes for the PDF comparison functionalities
+title: "Aspose.Pdf.Comparison"
+linktitle: "Aspose.Pdf.Comparison"
+articleTitle: "Aspose.Pdf.Comparison"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "The Aspose.Pdf.Comparison namespace provides classes for the PDF comparison functionalities."
 type: docs
-weight: 40
-url: /net/aspose.pdf.comparison/
+weight: 10
+url: "/net/aspose.pdf.comparison/"
+keywords: "Aspose.Pdf.Comparison, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The **Aspose.Pdf.Comparison** namespace provides classes for the PDF comparison functionalities.
+
+Part of the [Aspose.PDF for .NET](../) API reference.
 
 ## Classes
 
@@ -30,12 +38,14 @@ The **Aspose.Pdf.Comparison** namespace provides classes for the PDF comparison 
 | [TextItemComparisonStatistics](./textitemcomparisonstatistics/) | Represents a text comparison ststistics class. |
 | [TextPdfComparer](./textpdfcomparer/) | Represents a class to comparison two PDF pages or PDF documents. |
 | [TextStyle](./textstyle/) | Represents a text style class. |
+
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
 | [IFileOutputGenerator](./ifileoutputgenerator/) | Represents an interface for generating output to a file of differences between texts. |
 | [IStringOutputGenerator](./istringoutputgenerator/) | Represents an interface for generating output to a string of differences between texts. |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -43,5 +53,4 @@ The **Aspose.Pdf.Comparison** namespace provides classes for the PDF comparison 
 | [ComparisonMode](./comparisonmode/) | The comparison mode enumeration. |
 | [EditOperationsOrder](./editoperationsorder/) | Specifies the order of edit operations. |
 | [Operation](./operation/) | Represents a difference operation type. |
-
 

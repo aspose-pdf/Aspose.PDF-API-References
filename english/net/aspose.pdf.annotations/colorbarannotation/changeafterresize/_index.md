@@ -1,10 +1,13 @@
 ---
-title: ColorBarAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: ColorBarAnnotation method. Update parameters and appearance according to the matrix transform and moving outside of TrimBox if nesseary
+title: "ColorBarAnnotation.ChangeAfterResize"
+linktitle: "ChangeAfterResize"
+articleTitle: "ChangeAfterResize"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ColorBarAnnotation method. Update parameters and appearance, according to the matrix transform and moving outside of TrimBox if nesseary."
 type: docs
-weight: 50
-url: /net/aspose.pdf.annotations/colorbarannotation/changeafterresize/
+weight: 30
+url: "/net/aspose.pdf.annotations/colorbarannotation/changeafterresize/"
+product_version: "26.9"
 ---
 ## ColorBarAnnotation.ChangeAfterResize method
 
@@ -20,9 +23,8 @@ public override void ChangeAfterResize(Matrix transform)
 
 ### See Also
 
-* class [Matrix](../../../aspose.pdf/matrix/)
-* class [ColorBarAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [ColorBarAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

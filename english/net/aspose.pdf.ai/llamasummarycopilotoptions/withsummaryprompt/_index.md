@@ -1,10 +1,13 @@
 ---
-title: LlamaSummaryCopilotOptions.WithSummaryPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions method. Sets the summary prompt for the summary copilot options
+title: "LlamaSummaryCopilotOptions.WithSummaryPrompt"
+linktitle: "WithSummaryPrompt"
+articleTitle: "WithSummaryPrompt"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaSummaryCopilotOptions method. Sets the summary prompt for the summary copilot options."
 type: docs
 weight: 90
-url: /net/aspose.pdf.ai/llamasummarycopilotoptions/withsummaryprompt/
+url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/withsummaryprompt/"
+product_version: "26.9"
 ---
 ## LlamaSummaryCopilotOptions.WithSummaryPrompt method
 
@@ -24,8 +27,7 @@ The current instance of [`LlamaSummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [LlamaSummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

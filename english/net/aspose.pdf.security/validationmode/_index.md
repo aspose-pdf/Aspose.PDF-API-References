@@ -1,10 +1,13 @@
 ---
-title: Enum ValidationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.ValidationMode enum. Specifies the validation mode for PDF signature validation processes
+title: "ValidationMode Enum"
+linktitle: "ValidationMode"
+articleTitle: "ValidationMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.ValidationMode enum. Specifies the validation mode for PDF signature validation processes."
 type: docs
-weight: 10440
-url: /net/aspose.pdf.security/validationmode/
+weight: 190
+url: "/net/aspose.pdf.security/validationmode/"
+product_version: "26.9"
 ---
 ## ValidationMode enumeration
 
@@ -24,7 +27,6 @@ public enum ValidationMode
 
 ### See Also
 
-* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
 

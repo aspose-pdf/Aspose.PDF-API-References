@@ -1,10 +1,13 @@
 ---
-title: TabStop.LeaderType
-second_title: Aspose.PDF for .NET API Reference
-description: TabStop property. Gets or sets a TabLeaderType enum that indicates the tab leader type
+title: "TabStop.LeaderType"
+linktitle: "LeaderType"
+articleTitle: "LeaderType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TabStop property. Gets or sets a TabLeaderType enum that indicates the tab leader type."
 type: docs
 weight: 40
-url: /net/aspose.pdf.text/tabstop/leadertype/
+url: "/net/aspose.pdf.text/tabstop/leadertype/"
+product_version: "26.9"
 ---
 ## TabStop.LeaderType property
 
@@ -16,9 +19,8 @@ public TabLeaderType LeaderType { get; set; }
 
 ### See Also
 
-* enum [TabLeaderType](../../tableadertype/)
-* class [TabStop](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [TabLeaderType](../../tableadertype/)
+* class [TabStop](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: IOpenAIClient.RunAndGetAssistantResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Runs the assistant with the specified threadId and runCreateRequest and asynchronously gets the assistant response
+title: "IOpenAIClient.RunAndGetAssistantResponseAsync"
+linktitle: "RunAndGetAssistantResponseAsync"
+articleTitle: "RunAndGetAssistantResponseAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Runs the assistant with the specified threadId and runCreateRequest, and asynchronously gets the assistant response."
 type: docs
-weight: 410
-url: /net/aspose.pdf.ai/iopenaiclient/runandgetassistantresponseasync/
+weight: 470
+url: "/net/aspose.pdf.ai/iopenaiclient/runandgetassistantresponseasync/"
+product_version: "26.9"
 ---
 ## IOpenAIClient.RunAndGetAssistantResponseAsync method
 
@@ -27,9 +30,8 @@ A task representing the asynchronous operation with the assistant response strin
 
 ### See Also
 
-* class [RunCreateRequest](../../runcreaterequest/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RunCreateRequest](../../runcreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

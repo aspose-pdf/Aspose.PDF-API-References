@@ -1,10 +1,13 @@
 ---
-title: Heading.IsAutoSequence
-second_title: Aspose.PDF for .NET API Reference
-description: Heading property. Gets the heading should be numered automatically
+title: "Heading.IsAutoSequence"
+linktitle: "IsAutoSequence"
+articleTitle: "IsAutoSequence"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Heading property. Gets the heading should be numered automatically."
 type: docs
-weight: 30
-url: /net/aspose.pdf/heading/isautosequence/
+weight: 70
+url: "/net/aspose.pdf/heading/isautosequence/"
+product_version: "26.9"
 ---
 ## Heading.IsAutoSequence property
 
@@ -16,8 +19,7 @@ public bool IsAutoSequence { get; set; }
 
 ### See Also
 
-* class [Heading](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: FontSubstitutionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection property. Gets the font element at the specified index
+title: "FontSubstitutionCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontSubstitutionCollection property. Gets the font element at the specified index."
 type: docs
-weight: 30
-url: /net/aspose.pdf.text/fontsubstitutioncollection/item/
+weight: 100
+url: "/net/aspose.pdf.text/fontsubstitutioncollection/item/"
+product_version: "26.9"
 ---
 ## FontSubstitutionCollection indexer
 
@@ -24,9 +27,8 @@ FontSubstitution object.
 
 ### See Also
 
-* class [FontSubstitution](../../fontsubstitution/)
-* class [FontSubstitutionCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: HtmlToPdfOptions.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlToPdfOptions property. Gets or sets document page info
+title: "HtmlToPdfOptions.PageInfo"
+linktitle: "PageInfo"
+articleTitle: "PageInfo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlToPdfOptions property. Gets or sets document page info."
 type: docs
-weight: 60
-url: /net/aspose.pdf.lowcode/htmltopdfoptions/pageinfo/
+weight: 70
+url: "/net/aspose.pdf.lowcode/htmltopdfoptions/pageinfo/"
+product_version: "26.9"
 ---
 ## HtmlToPdfOptions.PageInfo property
 
@@ -16,9 +19,8 @@ public PageInfo PageInfo { get; set; }
 
 ### See Also
 
-* class [PageInfo](../../../aspose.pdf/pageinfo/)
-* class [HtmlToPdfOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* class [HtmlToPdfOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

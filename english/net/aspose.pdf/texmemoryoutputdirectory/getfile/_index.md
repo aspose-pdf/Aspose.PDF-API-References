@@ -1,10 +1,13 @@
 ---
-title: TeXMemoryOutputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: TeXMemoryOutputDirectory method. Returns the stream to read from
+title: "TeXMemoryOutputDirectory.GetFile"
+linktitle: "GetFile"
+articleTitle: "GetFile"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXMemoryOutputDirectory method. Returns the stream to read from."
 type: docs
-weight: 30
-url: /net/aspose.pdf/texmemoryoutputdirectory/getfile/
+weight: 20
+url: "/net/aspose.pdf/texmemoryoutputdirectory/getfile/"
+product_version: "26.9"
 ---
 ## TeXMemoryOutputDirectory.GetFile method
 
@@ -26,8 +29,7 @@ The stream.
 
 ### See Also
 
-* class [TeXMemoryOutputDirectory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TeXMemoryOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

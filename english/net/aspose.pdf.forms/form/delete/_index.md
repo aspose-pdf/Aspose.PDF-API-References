@@ -1,10 +1,13 @@
 ---
-title: Form.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Delete field from the form
+title: "Form.Delete"
+linktitle: "Delete"
+articleTitle: "Delete"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Delete field from the form."
 type: docs
-weight: 250
-url: /net/aspose.pdf.forms/form/delete/
+weight: 30
+url: "/net/aspose.pdf.forms/form/delete/"
+product_version: "26.9"
 ---
 ## Delete(Field) {#delete}
 
@@ -20,10 +23,10 @@ public void Delete(Field field)
 
 ### See Also
 
-* class [Field](../../field/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [Field](../../field/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,8 +44,7 @@ public void Delete(string fieldName)
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

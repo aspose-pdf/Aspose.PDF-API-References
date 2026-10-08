@@ -1,14 +1,19 @@
 ---
-title: PdfFileSecurity.DecryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity method. Decrypts an encrypted Pdf document by owner password. If the document hasnt owner password it is allow to use user password. Throws an exception if process failed
+title: "PdfFileSecurity.DecryptFile"
+linktitle: "DecryptFile"
+articleTitle: "DecryptFile"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSecurity method. Decrypts an encrypted Pdf document by owner password. If the document hasn't owner password, it is allow to use user password. Throws..."
 type: docs
 weight: 60
-url: /net/aspose.pdf.facades/pdffilesecurity/decryptfile/
+url: "/net/aspose.pdf.facades/pdffilesecurity/decryptfile/"
+product_version: "26.9"
 ---
 ## PdfFileSecurity.DecryptFile method
 
-Decrypts an encrypted Pdf document by owner password. If the document hasn't owner password, it is allow to use user password. Throws an exception if process failed.
+Decrypts an encrypted Pdf document by owner password. 
+ If the document hasn't owner password, it is allow to use user password.
+ Throws an exception if process failed.
 
 ```csharp
 public bool DecryptFile(string ownerPassword)
@@ -40,8 +45,7 @@ fileSecurity.DecryptFile("ownerpass")
 
 ### See Also
 
-* class [PdfFileSecurity](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

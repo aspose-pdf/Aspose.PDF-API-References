@@ -1,10 +1,13 @@
 ---
-title: PDF3DStream.Content
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DStream property. Gets or sets the content
+title: "PDF3DStream.Content"
+linktitle: "Content"
+articleTitle: "Content"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DStream property. Gets or sets the content."
 type: docs
 weight: 20
-url: /net/aspose.pdf.annotations/pdf3dstream/content/
+url: "/net/aspose.pdf.annotations/pdf3dstream/content/"
+product_version: "26.9"
 ---
 ## PDF3DStream.Content property
 
@@ -20,9 +23,8 @@ The content.
 
 ### See Also
 
-* class [PDF3DContent](../../pdf3dcontent/)
-* class [PDF3DStream](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DContent](../../pdf3dcontent/)
+* class [PDF3DStream](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

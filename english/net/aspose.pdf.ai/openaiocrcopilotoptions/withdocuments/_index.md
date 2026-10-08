@@ -1,10 +1,13 @@
 ---
-title: OpenAIOcrCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIOcrCopilotOptions method. Sets the document collection
+title: "OpenAIOcrCopilotOptions.WithDocuments"
+linktitle: "WithDocuments"
+articleTitle: "WithDocuments"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIOcrCopilotOptions method. Sets the document collection."
 type: docs
-weight: 80
-url: /net/aspose.pdf.ai/openaiocrcopilotoptions/withdocuments/
+weight: 100
+url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withdocuments/"
+product_version: "26.9"
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
@@ -24,10 +27,10 @@ The current instance of [`OpenAIOcrCopilotOptions`](../).
 
 ### See Also
 
-* class [DocumentCollection](../../documentcollection/)
-* class [OpenAIOcrCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAIOcrCopilotOptions](../)
+* class [DocumentCollection](../../documentcollection/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -49,10 +52,10 @@ The current instance of [`OpenAIOcrCopilotOptions`](../).
 
 ### See Also
 
-* class [PdfDocument](../../pdfdocument/)
-* class [OpenAIOcrCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAIOcrCopilotOptions](../)
+* class [PdfDocument](../../pdfdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -74,8 +77,7 @@ The current instance of [`OpenAIOcrCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIOcrCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

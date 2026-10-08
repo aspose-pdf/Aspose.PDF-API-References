@@ -1,10 +1,13 @@
 ---
-title: XmpField.Name
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField property. Gets the name
+title: "XmpField.Name"
+linktitle: "Name"
+articleTitle: "Name"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpField property. Gets the name."
 type: docs
-weight: 60
-url: /net/aspose.pdf/xmpfield/name/
+weight: 120
+url: "/net/aspose.pdf/xmpfield/name/"
+product_version: "26.9"
 ---
 ## XmpField.Name property
 
@@ -20,8 +23,7 @@ The name.
 
 ### See Also
 
-* class [XmpField](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

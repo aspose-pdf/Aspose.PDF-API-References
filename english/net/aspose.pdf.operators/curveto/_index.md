@@ -1,10 +1,14 @@
 ---
-title: Class CurveTo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.CurveTo class. Class representing c operator append curve to path
+title: "CurveTo Class"
+linktitle: "CurveTo"
+articleTitle: "CurveTo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Operators.CurveTo class. Class representing c operator (append curve to path)."
 type: docs
-weight: 8500
-url: /net/aspose.pdf.operators/curveto/
+weight: 160
+url: "/net/aspose.pdf.operators/curveto/"
+keywords: "CurveTo, Aspose.Pdf.Operators, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## CurveTo class
 
@@ -18,20 +22,20 @@ public class CurveTo : Operator
 
 | Name | Description |
 | --- | --- |
-| [CurveTo](curveto/)(double, double, double, double, double, double) | Initializes curve operator. |
+| [CurveTo](curveto/)(double, double, double, double, double, double) | Initializes curve operator. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Operator index in page operators list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/curveto/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
-| override [ToString](../../aspose.pdf.operators/curveto/tostring/)() | Returns text representation of operator. |
+| override [Accept](../../aspose.pdf.operators/curveto/accept/)(IOperatorSelector) | Accepts visitor object to process operator. |
+| override [ToString](../../aspose.pdf.operators/curveto/tostring/)() | Returns text representation of operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compares this instance with the given object. |
 
 ## Fields
@@ -47,8 +51,7 @@ public class CurveTo : Operator
 
 ### See Also
 
-* class [Operator](../../aspose.pdf/operator/)
-* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../)
-
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
 

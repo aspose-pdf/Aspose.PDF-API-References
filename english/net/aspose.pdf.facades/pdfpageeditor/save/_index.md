@@ -1,12 +1,15 @@
 ---
-title: PdfPageEditor.Save
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor method. Saves changed document into file
+title: "PdfPageEditor.Save"
+linktitle: "Save"
+articleTitle: "Save"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor method. Saves changed document into file."
 type: docs
-weight: 180
-url: /net/aspose.pdf.facades/pdfpageeditor/save/
+weight: 80
+url: "/net/aspose.pdf.facades/pdfpageeditor/save/"
+product_version: "26.9"
 ---
-## Save(string) {#save_1}
+## Save(string) {#save}
 
 Saves changed document into file.
 
@@ -31,13 +34,13 @@ editor.Save("newdocument.pdf");
 
 ### See Also
 
-* class [PdfPageEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Save(Stream) {#save}
+## Save(Stream) {#save_1}
 
 Saves changed document into stream.
 
@@ -62,8 +65,7 @@ editor.Save("newdocument.pdf");
 
 ### See Also
 
-* class [PdfPageEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

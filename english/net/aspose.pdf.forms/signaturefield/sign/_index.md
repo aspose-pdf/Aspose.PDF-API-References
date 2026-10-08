@@ -1,12 +1,15 @@
 ---
-title: SignatureField.Sign
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureField method. Signs the document using this signature field
+title: "SignatureField.Sign"
+linktitle: "Sign"
+articleTitle: "Sign"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureField method. Signs the document using this signature field."
 type: docs
-weight: 60
-url: /net/aspose.pdf.forms/signaturefield/sign/
+weight: 30
+url: "/net/aspose.pdf.forms/signaturefield/sign/"
+product_version: "26.9"
 ---
-## Sign(Signature, Stream, string) {#sign_1}
+## Sign(Signature, Stream, string) {#sign}
 
 Signs the document using this signature field.
 
@@ -22,14 +25,14 @@ public void Sign(Signature signature, Stream pfx, string pass)
 
 ### See Also
 
-* class [Signature](../../signature/)
-* class [SignatureField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [Signature](../../signature/)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Sign(Signature) {#sign}
+## Sign(Signature) {#sign_1}
 
 Sign the document using this signature field.
 
@@ -43,9 +46,8 @@ public void Sign(Signature signature)
 
 ### See Also
 
-* class [Signature](../../signature/)
-* class [SignatureField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Signature](../../signature/)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

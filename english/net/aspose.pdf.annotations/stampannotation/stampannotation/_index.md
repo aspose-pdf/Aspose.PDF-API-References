@@ -1,10 +1,13 @@
 ---
-title: StampAnnotation.StampAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: StampAnnotation constructor. Constructor
+title: "StampAnnotation.StampAnnotation"
+linktitle: "StampAnnotation"
+articleTitle: "StampAnnotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StampAnnotation constructor. Constructor"
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/stampannotation/stampannotation/
+url: "/net/aspose.pdf.annotations/stampannotation/stampannotation/"
+product_version: "26.9"
 ---
 ## StampAnnotation(Document) {#constructor}
 
@@ -20,14 +23,14 @@ public StampAnnotation(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [StampAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [StampAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## StampAnnotation(Page, Rectangle) {#constructor_1}
+## StampAnnotation(Page, Rectangle) {#constructor_1}
 
 Creates new Stamp annotation on the specified page.
 
@@ -42,10 +45,9 @@ public StampAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [StampAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [StampAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: OBJRElement.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: OBJRElement method. Bind a structure element to the content stream BDC operator
+title: "OBJRElement.Tag"
+linktitle: "Tag"
+articleTitle: "Tag"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OBJRElement method. Bind a structure element to the content stream BDC operator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.logicalstructure/objrelement/tag/
+url: "/net/aspose.pdf.logicalstructure/objrelement/tag/"
+product_version: "26.9"
 ---
-## Tag(BDC) {#tag_1}
+## Tag(BDC) {#tag}
 
 Bind a structure element to the content stream BDC operator.
 
@@ -20,19 +23,19 @@ public override MCRElement Tag(BDC bdc)
 
 ### Return Value
 
-MCRElementStructure element.
+[`MCRElement`](../../mcrelement/)Structure element.
 
 ### See Also
 
-* class [MCRElement](../../mcrelement/)
-* class [BDC](../../../aspose.pdf.operators/bdc/)
-* class [OBJRElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
+* class [MCRElement](../../mcrelement/)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* class [OBJRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Tag(XForm) {#tag_3}
+## Tag(XForm) {#tag_1}
 
 Bind a structure element to the content stream XForm.
 
@@ -46,18 +49,18 @@ public override OBJRElement Tag(XForm form)
 
 ### Return Value
 
-OBJRElementStructure element.
+[`OBJRElement`](../)Structure element.
 
 ### See Also
 
-* class [XForm](../../../aspose.pdf/xform/)
-* class [OBJRElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
+* class [OBJRElement](../)
+* class [XForm](../../../aspose.pdf/xform/)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Tag(XImage) {#tag_4}
+## Tag(XImage) {#tag_2}
 
 Bind a structure element to the XImage.
 
@@ -71,18 +74,18 @@ public override OBJRElement Tag(XImage image)
 
 ### Return Value
 
-OBJRElementStructure element.
+[`OBJRElement`](../)Structure element.
 
 ### See Also
 
-* class [XImage](../../../aspose.pdf/ximage/)
-* class [OBJRElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
+* class [OBJRElement](../)
+* class [XImage](../../../aspose.pdf/ximage/)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Tag(Artifact) {#tag}
+## Tag(Artifact) {#tag_3}
 
 Bind a structure element to the Artifact.
 
@@ -96,19 +99,19 @@ public override MCRElement Tag(Artifact artifact)
 
 ### Return Value
 
-MCRElementStructure element.
+[`MCRElement`](../../mcrelement/)Structure element.
 
 ### See Also
 
-* class [MCRElement](../../mcrelement/)
-* class [Artifact](../../../aspose.pdf/artifact/)
-* class [OBJRElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
+* class [MCRElement](../../mcrelement/)
+* class [Artifact](../../../aspose.pdf/artifact/)
+* class [OBJRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Tag(Annotation) {#tag_2}
+## Tag(Annotation) {#tag_4}
 
 Bind a structure element to the Annotation.
 
@@ -122,13 +125,12 @@ public override OBJRElement Tag(Annotation annotation)
 
 ### Return Value
 
-OBJRElementStructure element.
+[`OBJRElement`](../)Structure element.
 
 ### See Also
 
-* class [Annotation](../../../aspose.pdf.annotations/annotation/)
-* class [OBJRElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OBJRElement](../)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: StructureTypeCategory.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeCategory method. Returns a string that represents the current object
+title: "StructureTypeCategory.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeCategory method. Returns a string that represents the current object."
 type: docs
-weight: 50
-url: /net/aspose.pdf.logicalstructure/structuretypecategory/tostring/
+weight: 20
+url: "/net/aspose.pdf.logicalstructure/structuretypecategory/tostring/"
+product_version: "26.9"
 ---
 ## StructureTypeCategory.ToString method
 
@@ -20,8 +23,7 @@ String that represents the current object.
 
 ### See Also
 
-* class [StructureTypeCategory](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureTypeCategory](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

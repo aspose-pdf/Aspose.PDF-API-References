@@ -1,14 +1,18 @@
 ---
-title: TextSegment.BaselinePosition
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegment property. Gets text position for text represented with TextSegment object. The YIndent of the Position structure represents baseline coordinate of the text segment
+title: "TextSegment.BaselinePosition"
+linktitle: "BaselinePosition"
+articleTitle: "BaselinePosition"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextSegment property. Gets text position for text, represented with TextSegment object. The YIndent of the Position structure represents baseline coordinate ..."
 type: docs
-weight: 20
-url: /net/aspose.pdf.text/textsegment/baselineposition/
+weight: 100
+url: "/net/aspose.pdf.text/textsegment/baselineposition/"
+product_version: "26.9"
 ---
 ## TextSegment.BaselinePosition property
 
-Gets text position for text, represented with [`TextSegment`](../) object. The YIndent of the Position structure represents baseline coordinate of the text segment.
+Gets text position for text, represented with [`TextSegment`](../) object.
+ The YIndent of the Position structure represents baseline coordinate of the text segment.
 
 ```csharp
 public Position BaselinePosition { get; set; }
@@ -16,9 +20,8 @@ public Position BaselinePosition { get; set; }
 
 ### See Also
 
-* class [Position](../../position/)
-* class [TextSegment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Position](../../position/)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

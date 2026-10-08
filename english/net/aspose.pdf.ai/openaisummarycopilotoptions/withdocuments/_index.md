@@ -1,10 +1,13 @@
 ---
-title: OpenAISummaryCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions method. Sets the document collection for the summary copilot options
+title: "OpenAISummaryCopilotOptions.WithDocuments"
+linktitle: "WithDocuments"
+articleTitle: "WithDocuments"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAISummaryCopilotOptions method. Sets the document collection for the summary copilot options."
 type: docs
-weight: 80
-url: /net/aspose.pdf.ai/openaisummarycopilotoptions/withdocuments/
+weight: 110
+url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/withdocuments/"
+product_version: "26.9"
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
@@ -24,14 +27,14 @@ The current instance of [`OpenAISummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [DocumentCollection](../../documentcollection/)
-* class [OpenAISummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* class [DocumentCollection](../../documentcollection/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## WithDocuments(List&lt;TextDocument&gt;) {#withdocuments_2}
+## WithDocuments(List&lt;TextDocument&gt;) {#withdocuments_1}
 
 Adds multiple text documents to the document collection for the summary copilot options.
 
@@ -49,14 +52,14 @@ The current instance of [`OpenAISummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [TextDocument](../../textdocument/)
-* class [OpenAISummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* class [TextDocument](../../textdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
+## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_2}
 
 Adds multiple PDF documents to the document collection for the summary copilot options.
 
@@ -74,10 +77,10 @@ The current instance of [`OpenAISummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [PdfDocument](../../pdfdocument/)
-* class [OpenAISummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* class [PdfDocument](../../pdfdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -99,8 +102,7 @@ The current instance of [`OpenAISummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAISummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

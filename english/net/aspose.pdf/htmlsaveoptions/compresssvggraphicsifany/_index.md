@@ -1,14 +1,19 @@
 ---
-title: HtmlSaveOptions.CompressSvgGraphicsIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions property. Gets or sets the flag that indicates whether found SVG graphicsif any will be compressedzipped into SVGZ format during saving
+title: "HtmlSaveOptions.CompressSvgGraphicsIfAny"
+linktitle: "CompressSvgGraphicsIfAny"
+articleTitle: "CompressSvgGraphicsIfAny"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions property. Gets or sets the flag that indicates whether found SVG graphics(if any) will be compressed(zipped) into SVGZ format during saving"
 type: docs
-weight: 30
-url: /net/aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/
+weight: 70
+url: "/net/aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.CompressSvgGraphicsIfAny property
 
-Gets or sets the flag that indicates whether found SVG graphics(if any) will be compressed(zipped) into SVGZ format during saving
+Gets or sets the flag that indicates whether
+ found SVG graphics(if any) will be compressed(zipped) 
+ into SVGZ format during saving
 
 ```csharp
 public bool CompressSvgGraphicsIfAny { get; set; }
@@ -20,8 +25,7 @@ The [`HtmlDocumentType`](../../htmldocumenttype/).
 
 ### See Also
 
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

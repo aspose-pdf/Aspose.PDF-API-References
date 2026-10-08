@@ -1,12 +1,15 @@
 ---
-title: PdfContentEditor.ReplaceText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Replaces text in the PDF file on the specified page. TextState object font family color can be specified to replaced text
+title: "PdfContentEditor.ReplaceText"
+linktitle: "ReplaceText"
+articleTitle: "ReplaceText"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Replaces text in the PDF file on the specified page. TextState object (font family, color) can be specified to replaced text."
 type: docs
-weight: 450
-url: /net/aspose.pdf.facades/pdfcontenteditor/replacetext/
+weight: 470
+url: "/net/aspose.pdf.facades/pdfcontenteditor/replacetext/"
+product_version: "26.9"
 ---
-## ReplaceText(string, int, string, TextState) {#replacetext_1}
+## ReplaceText(string, int, string, TextState) {#replacetext}
 
 Replaces text in the PDF file on the specified page. [`TextState`](../../../aspose.pdf.text/textstate/) object (font family, color) can be specified to replaced text.
 
@@ -57,14 +60,14 @@ doc.Save(outFile);
 
 ### See Also
 
-* class [TextState](../../../aspose.pdf.text/textstate/)
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ReplaceText(string, string) {#replacetext_2}
+## ReplaceText(string, string) {#replacetext_1}
 
 Replaces text in the PDF file.
 
@@ -102,13 +105,13 @@ doc.Save(outFile);
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ReplaceText(string, int, string) {#replacetext}
+## ReplaceText(string, int, string) {#replacetext_2}
 
 Replaces text in the PDF file on the specified page.
 
@@ -147,13 +150,13 @@ doc.Save(outFile);
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ReplaceText(string, string, TextState) {#replacetext_3}
+## ReplaceText(string, string, TextState) {#replacetext_3}
 
 Replaces text in the PDF file using specified [`TextState`](../../../aspose.pdf.text/textstate/) object.
 
@@ -201,14 +204,14 @@ doc.Save(outFile);
 
 ### See Also
 
-* class [TextState](../../../aspose.pdf.text/textstate/)
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ReplaceText(string, string, int) {#replacetext_4}
+## ReplaceText(string, string, int) {#replacetext_4}
 
 Replaces text in the PDF file and sets font size.
 
@@ -251,8 +254,7 @@ doc.Save(outFile);
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

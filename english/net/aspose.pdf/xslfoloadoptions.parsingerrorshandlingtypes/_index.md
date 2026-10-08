@@ -1,10 +1,13 @@
 ---
-title: Enum XslFoLoadOptions.ParsingErrorsHandlingTypes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XslFoLoadOptionsParsingErrorsHandlingTypes enum. Source XSLFO document can contain formatting errors. This enum enumerates possible strategies of handling of such formatting errors
+title: "XslFoLoadOptions.ParsingErrorsHandlingTypes Enum"
+linktitle: "XslFoLoadOptions.ParsingErrorsHandlingTypes"
+articleTitle: "XslFoLoadOptions.ParsingErrorsHandlingTypes"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XslFoLoadOptions.ParsingErrorsHandlingTypes enum. Source XSLFO document can contain formatting errors. This enum enumerates possible strategies of..."
 type: docs
-weight: 11950
-url: /net/aspose.pdf/xslfoloadoptions.parsingerrorshandlingtypes/
+weight: 3350
+url: "/net/aspose.pdf/xslfoloadoptions.parsingerrorshandlingtypes/"
+product_version: "26.9"
 ---
 ## XslFoLoadOptions.ParsingErrorsHandlingTypes enumeration
 
@@ -24,8 +27,7 @@ public enum ParsingErrorsHandlingTypes
 
 ### See Also
 
-* class [XslFoLoadOptions](../xslfoloadoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [XslFoLoadOptions](../xslfoloadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum TextIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.TextIcon enum. Enumerates the icons to be used in displaying the annotation
+title: "TextIcon Enum"
+linktitle: "TextIcon"
+articleTitle: "TextIcon"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.TextIcon enum. Enumerates the icons to be used in displaying the annotation."
 type: docs
-weight: 2760
-url: /net/aspose.pdf.annotations/texticon/
+weight: 1290
+url: "/net/aspose.pdf.annotations/texticon/"
+product_version: "26.9"
 ---
 ## TextIcon enumeration
 
@@ -32,7 +35,6 @@ public enum TextIcon
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

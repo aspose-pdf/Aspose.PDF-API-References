@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.TrySplitFromFirst
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Splits Pdf file from first page to specified locationand saves the front part as a new file
+title: "PdfFileEditor.TrySplitFromFirst"
+linktitle: "TrySplitFromFirst"
+articleTitle: "TrySplitFromFirst"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Splits Pdf file from first page to specified location,and saves the front part as a new file."
 type: docs
-weight: 460
-url: /net/aspose.pdf.facades/pdffileeditor/trysplitfromfirst/
+weight: 170
+url: "/net/aspose.pdf.facades/pdffileeditor/trysplitfromfirst/"
+product_version: "26.9"
 ---
-## TrySplitFromFirst(string, int, string) {#trysplitfromfirst_1}
+## TrySplitFromFirst(string, int, string) {#trysplitfromfirst}
 
 Splits Pdf file from first page to specified location,and saves the front part as a new file.
 
@@ -26,7 +29,8 @@ True for success, or false.
 
 ## Remarks
 
-The TrySplitFromFirst method is like the SplitFromFirst method, except the TrySplitFromFirst method does not throw an exception if the operation fails.
+The TrySplitFromFirst method is like the SplitFromFirst 
+ method, except the TrySplitFromFirst method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -37,13 +41,13 @@ bool result = pfe.TrySplitFromFirst("input.pdf", 5, "out.pdf");
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TrySplitFromFirst(Stream, int, Stream) {#trysplitfromfirst}
+## TrySplitFromFirst(Stream, int, Stream) {#trysplitfromfirst_1}
 
 Splits from start to specified location,and saves the front part in output Stream.
 
@@ -63,7 +67,9 @@ True for success, or false.
 
 ## Remarks
 
-The streams are NOT closed after this operation. The TrySplitFromFirst method is like the SplitFromFirst method, except the TrySplitFromFirst method does not throw an exception if the operation fails.
+The streams are NOT closed after this operation.
+ The TrySplitFromFirst method is like the SplitFromFirst method, except the TrySplitFromFirst 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -76,8 +82,7 @@ pfe.TrySplitFromFirst(sourceStream, 5, outStream);
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

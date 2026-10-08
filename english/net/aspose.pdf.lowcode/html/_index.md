@@ -1,31 +1,22 @@
 ---
-title: Class Html
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.Html class. Represents Html plugin
+title: "Html Class"
+linktitle: "Html"
+articleTitle: "Html"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.Html class. Represents Html plugin."
 type: docs
-weight: 7440
-url: /net/aspose.pdf.lowcode/html/
+weight: 390
+url: "/net/aspose.pdf.lowcode/html/"
+keywords: "Html, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## Html class
 
-Represents `Html` plugin.
+Represents [`Html`](../html/) plugin.
 
 ```csharp
 public sealed class Html : IDisposable, IPlugin
 ```
-
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [Html](html/)() | The default constructor. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| [Dispose](../../aspose.pdf.lowcode/html/dispose/)() | Implementation of IDisposable. |
-| [Process](../../aspose.pdf.lowcode/html/process/)(IPluginOptions) | Starts the `Html` processing with the specified parameters. |
 
 ## Examples
 
@@ -57,10 +48,22 @@ opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
 
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [Html](html/)() | The default constructor. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Dispose](../../aspose.pdf.lowcode/html/dispose/)() | Implementation of IDisposable. |
+| [Process](../../aspose.pdf.lowcode/html/process/)(IPluginOptions) | Starts the `Html` processing with the specified parameters. |
+
 ### See Also
 
-* interface [IPlugin](../iplugin/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

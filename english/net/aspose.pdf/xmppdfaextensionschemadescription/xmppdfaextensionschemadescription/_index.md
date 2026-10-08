@@ -1,10 +1,13 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.XmpPdfAExtensionSchemaDescription
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchemaDescription constructor. Initializes new object
+title: "XmpPdfAExtensionSchemaDescription.XmpPdfAExtensionSchemaDescription"
+linktitle: "XmpPdfAExtensionSchemaDescription"
+articleTitle: "XmpPdfAExtensionSchemaDescription"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchemaDescription constructor. Initializes new object."
 type: docs
 weight: 10
-url: /net/aspose.pdf/xmppdfaextensionschemadescription/xmppdfaextensionschemadescription/
+url: "/net/aspose.pdf/xmppdfaextensionschemadescription/xmppdfaextensionschemadescription/"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchemaDescription constructor
 
@@ -22,8 +25,7 @@ public XmpPdfAExtensionSchemaDescription(string prefix, string namespaceURI, str
 
 ### See Also
 
-* class [XmpPdfAExtensionSchemaDescription](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpPdfAExtensionSchemaDescription](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

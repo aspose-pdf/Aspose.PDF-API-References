@@ -1,12 +1,15 @@
 ---
-title: PdfContentEditor.CreateFileAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates file attachment annotation
+title: "PdfContentEditor.CreateFileAttachment"
+linktitle: "CreateFileAttachment"
+articleTitle: "CreateFileAttachment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates file attachment annotation."
 type: docs
-weight: 150
-url: /net/aspose.pdf.facades/pdfcontenteditor/createfileattachment/
+weight: 230
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createfileattachment/"
+product_version: "26.9"
 ---
-## CreateFileAttachment(Rectangle, string, string, int, string) {#createfileattachment_2}
+## CreateFileAttachment(Rectangle, string, string, int, string) {#createfileattachment}
 
 Creates file attachment annotation.
 
@@ -35,13 +38,13 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateFileAttachment(Rectangle, string, string, int, string, double) {#createfileattachment_3}
+## CreateFileAttachment(Rectangle, string, string, int, string, double) {#createfileattachment_1}
 
 Creates file attachment annotation.
 
@@ -71,13 +74,13 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateFileAttachment(Rectangle, string, Stream, string, int, string) {#createfileattachment}
+## CreateFileAttachment(Rectangle, string, Stream, string, int, string) {#createfileattachment_2}
 
 Creates file attachment annotation.
 
@@ -110,13 +113,13 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateFileAttachment(Rectangle, string, Stream, string, int, string, double) {#createfileattachment_1}
+## CreateFileAttachment(Rectangle, string, Stream, string, int, string, double) {#createfileattachment_3}
 
 Creates file attachment annotation.
 
@@ -150,8 +153,7 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

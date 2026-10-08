@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.DocumentOpen
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor field. A document event type. Opens a document
+title: "PdfContentEditor.DocumentOpen"
+linktitle: "DocumentOpen"
+articleTitle: "DocumentOpen"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor field. A document event type. Opens a document."
 type: docs
-weight: 480
-url: /net/aspose.pdf.facades/pdfcontenteditor/documentopen/
+weight: 700
+url: "/net/aspose.pdf.facades/pdfcontenteditor/documentopen/"
+product_version: "26.9"
 ---
 ## PdfContentEditor.DocumentOpen field
 
@@ -16,8 +19,7 @@ public const string DocumentOpen;
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

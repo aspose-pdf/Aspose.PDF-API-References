@@ -1,12 +1,15 @@
 ---
-title: PdfContentEditor.CreateApplicationLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates a link to launch an application in PDF document
+title: "PdfContentEditor.CreateApplicationLink"
+linktitle: "CreateApplicationLink"
+articleTitle: "CreateApplicationLink"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates a link to launch an application in PDF document."
 type: docs
-weight: 110
-url: /net/aspose.pdf.facades/pdfcontenteditor/createapplicationlink/
+weight: 150
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createapplicationlink/"
+product_version: "26.9"
 ---
-## CreateApplicationLink(Rectangle, string, int, Color, Enum[]) {#createapplicationlink_2}
+## CreateApplicationLink(Rectangle, string, int, Color, Enum[]) {#createapplicationlink}
 
 Creates a link to launch an application in PDF document.
 
@@ -36,13 +39,13 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateApplicationLink(Rectangle, string, int, Color) {#createapplicationlink_1}
+## CreateApplicationLink(Rectangle, string, int, Color) {#createapplicationlink_1}
 
 Creates a link to launch an application in PDF document.
 
@@ -69,13 +72,13 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateApplicationLink(Rectangle, string, int) {#createapplicationlink}
+## CreateApplicationLink(Rectangle, string, int) {#createapplicationlink_2}
 
 Creates a link to launch an application in PDF document.
 
@@ -100,8 +103,7 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: PdfFileStamp.AddFooter
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp method. Adds footer to the pages of the document
+title: "PdfFileStamp.AddFooter"
+linktitle: "AddFooter"
+articleTitle: "AddFooter"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp method. Adds footer to the pages of the document."
 type: docs
-weight: 110
-url: /net/aspose.pdf.facades/pdffilestamp/addfooter/
+weight: 190
+url: "/net/aspose.pdf.facades/pdffilestamp/addfooter/"
+product_version: "26.9"
 ---
-## AddFooter(FormattedText, float) {#addfooter}
+## AddFooter(FormattedText, float) {#addfooter}
 
 Adds footer to the pages of the document.
 
@@ -28,14 +31,14 @@ stamp.AddFooter(new FormattedText("Foot of the page"), 10);
 
 ### See Also
 
-* class [FormattedText](../../formattedtext/)
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddFooter(FormattedText, float, float, float) {#addfooter_1}
+## AddFooter(FormattedText, float, float, float) {#addfooter_1}
 
 Adds footer to the pages of the document.
 
@@ -60,14 +63,14 @@ stamp.AddFooter(new FormattedText("Foot of the page"), 10, 50, 50);
 
 ### See Also
 
-* class [FormattedText](../../formattedtext/)
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddFooter(string, float) {#addfooter_4}
+## AddFooter(string, float) {#addfooter_2}
 
 Adds image as footer to the pages of the document.
 
@@ -91,13 +94,13 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddFooter(string, float, float, float) {#addfooter_5}
+## AddFooter(string, float, float, float) {#addfooter_3}
 
 Adds image as footer of the pages.
 
@@ -123,13 +126,13 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddFooter(Stream, float) {#addfooter_2}
+## AddFooter(Stream, float) {#addfooter_4}
 
 Adds image as footer of the page.
 
@@ -153,13 +156,13 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddFooter(Stream, float, float, float) {#addfooter_3}
+## AddFooter(Stream, float, float, float) {#addfooter_5}
 
 Adds image as footer of the page.
 
@@ -185,8 +188,7 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

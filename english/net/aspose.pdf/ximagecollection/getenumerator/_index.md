@@ -1,10 +1,13 @@
 ---
-title: XImageCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection method. Returns collection enumerator
+title: "XImageCollection.GetEnumerator"
+linktitle: "GetEnumerator"
+articleTitle: "GetEnumerator"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImageCollection method. Returns collection enumerator."
 type: docs
 weight: 120
-url: /net/aspose.pdf/ximagecollection/getenumerator/
+url: "/net/aspose.pdf/ximagecollection/getenumerator/"
+product_version: "26.9"
 ---
 ## XImageCollection.GetEnumerator method
 
@@ -20,9 +23,8 @@ Enumerator of collection
 
 ### See Also
 
-* class [XImage](../../ximage/)
-* class [XImageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: FontRepository.OpenFont
-second_title: Aspose.PDF for .NET API Reference
-description: FontRepository method. Opens font with specified font stream
+title: "FontRepository.OpenFont"
+linktitle: "OpenFont"
+articleTitle: "OpenFont"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontRepository method. Opens font with specified font stream."
 type: docs
 weight: 60
-url: /net/aspose.pdf.text/fontrepository/openfont/
+url: "/net/aspose.pdf.text/fontrepository/openfont/"
+product_version: "26.9"
 ---
-## OpenFont(Stream, FontTypes) {#openfont}
+## OpenFont(Stream, FontTypes) {#openfont}
 
 Opens font with specified font stream.
 
@@ -52,11 +55,11 @@ using (FileStream fontStream = File.OpenRead(@"C:\WINDOWS\Fonts\arial.ttf"))
 
 ### See Also
 
-* class [Font](../../font/)
-* enum [FontTypes](../../fonttypes/)
-* class [FontRepository](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* enum [FontTypes](../../fonttypes/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -97,19 +100,19 @@ doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].TextState.Font = font;
 
 // Save document
-doc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf");
 ```
 
 ### See Also
 
-* class [Font](../../font/)
-* class [FontRepository](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## OpenFont(string, string) {#openfont_2}
+## OpenFont(string, string) {#openfont_2}
 
 Opens font with specified font file path and metrics file path.
 
@@ -147,14 +150,13 @@ doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].TextState.Font = font;
 
 // Save document
-doc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf");
 ```
 
 ### See Also
 
-* class [Font](../../font/)
-* class [FontRepository](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: SvgExtractionOptions.UnpackXFormPredicate
-second_title: Aspose.PDF for .NET API Reference
-description: SvgExtractionOptions property. Gets and sets option to unpack only the XForm corresponding to the specified predicate
+title: "SvgExtractionOptions.UnpackXFormPredicate"
+linktitle: "UnpackXFormPredicate"
+articleTitle: "UnpackXFormPredicate"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SvgExtractionOptions property. Gets and sets option to unpack only the XForm corresponding to the specified predicate."
 type: docs
-weight: 90
-url: /net/aspose.pdf.vector/svgextractionoptions/unpackxformpredicate/
+weight: 20
+url: "/net/aspose.pdf.vector/svgextractionoptions/unpackxformpredicate/"
+product_version: "26.9"
 ---
 ## SvgExtractionOptions.UnpackXFormPredicate property
 
@@ -16,9 +19,8 @@ public Predicate<XFormPlacement> UnpackXFormPredicate { get; set; }
 
 ### See Also
 
-* class [XFormPlacement](../../xformplacement/)
-* class [SvgExtractionOptions](../)
-* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XFormPlacement](../../xformplacement/)
+* class [SvgExtractionOptions](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
 

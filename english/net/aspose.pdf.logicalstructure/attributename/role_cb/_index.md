@@ -1,10 +1,13 @@
 ---
-title: AttributeName.Role_cb
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName field. Attribute Role cb  Check box
+title: "AttributeName.Role_cb"
+linktitle: "Role_cb"
+articleTitle: "Role_cb"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute Role: cb - Check box."
 type: docs
-weight: 390
-url: /net/aspose.pdf.logicalstructure/attributename/role_cb/
+weight: 620
+url: "/net/aspose.pdf.logicalstructure/attributename/role_cb/"
+product_version: "26.9"
 ---
 ## AttributeName.Role_cb field
 
@@ -16,8 +19,7 @@ public static readonly AttributeName Role_cb;
 
 ### See Also
 
-* class [AttributeName](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

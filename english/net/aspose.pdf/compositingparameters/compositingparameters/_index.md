@@ -1,10 +1,13 @@
 ---
-title: CompositingParameters.CompositingParameters
-second_title: Aspose.PDF for .NET API Reference
-description: CompositingParameters constructor. Initializes new instance of the CompositingParameters object
+title: "CompositingParameters.CompositingParameters"
+linktitle: "CompositingParameters"
+articleTitle: "CompositingParameters"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CompositingParameters constructor. Initializes new instance of the CompositingParameters object."
 type: docs
 weight: 10
-url: /net/aspose.pdf/compositingparameters/compositingparameters/
+url: "/net/aspose.pdf/compositingparameters/compositingparameters/"
+product_version: "26.9"
 ---
 ## CompositingParameters(BlendMode) {#constructor}
 
@@ -20,14 +23,14 @@ public CompositingParameters(BlendMode blendMode)
 
 ### See Also
 
-* enum [BlendMode](../../blendmode/)
-* class [CompositingParameters](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [BlendMode](../../blendmode/)
+* class [CompositingParameters](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CompositingParameters(BlendMode, ImageFilterType) {#constructor_1}
+## CompositingParameters(BlendMode, ImageFilterType) {#constructor_1}
 
 Initializes new instance of the [`CompositingParameters`](../) object.
 
@@ -42,15 +45,15 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
 
 ### See Also
 
-* enum [BlendMode](../../blendmode/)
-* enum [ImageFilterType](../../imagefiltertype/)
-* class [CompositingParameters](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [BlendMode](../../blendmode/)
+* enum [ImageFilterType](../../imagefiltertype/)
+* class [CompositingParameters](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CompositingParameters(BlendMode, ImageFilterType, bool) {#constructor_2}
+## CompositingParameters(BlendMode, ImageFilterType, bool) {#constructor_2}
 
 Initializes new instance of the [`CompositingParameters`](../) object.
 
@@ -66,10 +69,9 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bo
 
 ### See Also
 
-* enum [BlendMode](../../blendmode/)
-* enum [ImageFilterType](../../imagefiltertype/)
-* class [CompositingParameters](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [BlendMode](../../blendmode/)
+* enum [ImageFilterType](../../imagefiltertype/)
+* class [CompositingParameters](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

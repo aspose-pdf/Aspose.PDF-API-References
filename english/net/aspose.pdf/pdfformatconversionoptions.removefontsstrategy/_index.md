@@ -1,14 +1,20 @@
 ---
-title: Enum PdfFormatConversionOptions.RemoveFontsStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfFormatConversionOptionsRemoveFontsStrategy enum. Some documens have large size after converison into PDF/A format. To reduce file size for these documents its necessary to define a strategy of fonts removing. This enumeration declares a strategies which can be used to optimize fonts usage. Every strategy from this enumeration has sense only when flag OptimizeFileSize is set
+title: "PdfFormatConversionOptions.RemoveFontsStrategy Enum"
+linktitle: "PdfFormatConversionOptions.RemoveFontsStrategy"
+articleTitle: "PdfFormatConversionOptions.RemoveFontsStrategy"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PdfFormatConversionOptions.RemoveFontsStrategy enum. Some documens have large size after converison into PDF/A format. To reduce file size for the..."
 type: docs
-weight: 9670
-url: /net/aspose.pdf/pdfformatconversionoptions.removefontsstrategy/
+weight: 2430
+url: "/net/aspose.pdf/pdfformatconversionoptions.removefontsstrategy/"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.RemoveFontsStrategy enumeration
 
-Some documens have large size after converison into PDF/A format. To reduce file size for these documents it's necessary to define a strategy of fonts removing. This enumeration declares a strategies which can be used to optimize fonts usage. Every strategy from this enumeration has sense only when flag [`OptimizeFileSize`](../pdfformatconversionoptions/optimizefilesize/) is set.
+Some documens have large size after converison into PDF/A format. To reduce file size for these
+ documents it's necessary to define a strategy of fonts removing. 
+ This enumeration declares a strategies which can be used to optimize fonts usage.
+ Every strategy from this enumeration has sense only when flag `OptimizeFileSize` is set.
 
 ```csharp
 [Flags]
@@ -25,8 +31,7 @@ public enum RemoveFontsStrategy : byte
 
 ### See Also
 
-* class [PdfFormatConversionOptions](../pdfformatconversionoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfFormatConversionOptions](../pdfformatconversionoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

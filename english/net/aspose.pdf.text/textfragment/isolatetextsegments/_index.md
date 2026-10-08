@@ -1,10 +1,13 @@
 ---
-title: TextFragment.IsolateTextSegments
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment method. Gets TextSegments representing specified part of the TextFragment text
+title: "TextFragment.IsolateTextSegments"
+linktitle: "IsolateTextSegments"
+articleTitle: "IsolateTextSegments"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment method. Gets TextSegment(s) representing specified part of the TextFragment text."
 type: docs
-weight: 200
-url: /net/aspose.pdf.text/textfragment/isolatetextsegments/
+weight: 50
+url: "/net/aspose.pdf.text/textfragment/isolatetextsegments/"
+product_version: "26.9"
 ---
 ## TextFragment.IsolateTextSegments method
 
@@ -25,9 +28,8 @@ public TextSegmentCollection IsolateTextSegments(int startIndex, int length)
 
 ### See Also
 
-* class [TextSegmentCollection](../../textsegmentcollection/)
-* class [TextFragment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextSegmentCollection](../../textsegmentcollection/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

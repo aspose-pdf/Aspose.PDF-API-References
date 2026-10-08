@@ -1,10 +1,13 @@
 ---
-title: Page.SetPageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Page method. Sets page size for page
+title: "Page.SetPageSize"
+linktitle: "SetPageSize"
+articleTitle: "SetPageSize"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page method. Sets page size for page."
 type: docs
-weight: 540
-url: /net/aspose.pdf/page/setpagesize/
+weight: 270
+url: "/net/aspose.pdf/page/setpagesize/"
+product_version: "26.9"
 ---
 ## Page.SetPageSize method
 
@@ -21,8 +24,7 @@ public void SetPageSize(double width, double height)
 
 ### See Also
 
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

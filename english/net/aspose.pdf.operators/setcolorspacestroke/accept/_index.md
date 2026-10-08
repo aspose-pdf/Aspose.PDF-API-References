@@ -1,10 +1,13 @@
 ---
-title: SetColorSpaceStroke.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorSpaceStroke method. Accepts visitor object to process operator
+title: "SetColorSpaceStroke.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetColorSpaceStroke method. Accepts visitor object to process operator."
 type: docs
-weight: 30
-url: /net/aspose.pdf.operators/setcolorspacestroke/accept/
+weight: 20
+url: "/net/aspose.pdf.operators/setcolorspacestroke/accept/"
+product_version: "26.9"
 ---
 ## SetColorSpaceStroke.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* class [SetColorSpaceStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [SetColorSpaceStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

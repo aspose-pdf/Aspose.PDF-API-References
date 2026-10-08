@@ -1,10 +1,13 @@
 ---
-title: GS.GS
-second_title: Aspose.PDF for .NET API Reference
-description: GS constructor. Initializes gs operator
+title: "GS.GS"
+linktitle: "GS"
+articleTitle: "GS"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GS constructor. Initializes gs operator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/gs/gs/
+url: "/net/aspose.pdf.operators/gs/gs/"
+product_version: "26.9"
 ---
 ## GS constructor
 
@@ -20,8 +23,7 @@ public GS(string name)
 
 ### See Also
 
-* class [GS](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [GS](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

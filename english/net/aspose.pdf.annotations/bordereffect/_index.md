@@ -1,10 +1,13 @@
 ---
-title: Enum BorderEffect
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.BorderEffect enum. Describes effect which should be applied to the border of the annotations
+title: "BorderEffect Enum"
+linktitle: "BorderEffect"
+articleTitle: "BorderEffect"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.BorderEffect enum. Describes effect which should be applied to the border of the annotations."
 type: docs
-weight: 1610
-url: /net/aspose.pdf.annotations/bordereffect/
+weight: 140
+url: "/net/aspose.pdf.annotations/bordereffect/"
+product_version: "26.9"
 ---
 ## BorderEffect enumeration
 
@@ -23,7 +26,6 @@ public enum BorderEffect
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

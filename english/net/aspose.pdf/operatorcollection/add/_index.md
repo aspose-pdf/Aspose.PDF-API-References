@@ -1,10 +1,13 @@
 ---
-title: OperatorCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection method. Adds new operator into collection
+title: "OperatorCollection.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OperatorCollection method. Adds new operator into collection."
 type: docs
-weight: 60
-url: /net/aspose.pdf/operatorcollection/add/
+weight: 40
+url: "/net/aspose.pdf/operatorcollection/add/"
+product_version: "26.9"
 ---
 ## Add(Operator) {#add}
 
@@ -30,10 +33,10 @@ doc.Pages[1].Contents.Add(new Aspose.Pdf.Operators.Q());
 
 ### See Also
 
-* class [Operator](../../operator/)
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -61,10 +64,10 @@ oc.Add(new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Operators.Q
 
 ### See Also
 
-* class [Operator](../../operator/)
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -95,9 +98,8 @@ oc.Add(opList);
 
 ### See Also
 
-* class [Operator](../../operator/)
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: GifDevice.GifDevice
-second_title: Aspose.PDF for .NET API Reference
-description: GifDevice constructor. Initializes a new instance of the GifDevice class with default resolution
+title: "GifDevice.GifDevice"
+linktitle: "GifDevice"
+articleTitle: "GifDevice"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GifDevice constructor. Initializes a new instance of the GifDevice class with default resolution."
 type: docs
 weight: 10
-url: /net/aspose.pdf.devices/gifdevice/gifdevice/
+url: "/net/aspose.pdf.devices/gifdevice/gifdevice/"
+product_version: "26.9"
 ---
 ## GifDevice() {#constructor}
 
@@ -16,15 +19,15 @@ public GifDevice()
 
 ### See Also
 
-* class [GifDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [GifDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GifDevice(Resolution) {#constructor_1}
 
-Initializes a new instance of the [`GifDevice`](../) class.  Resolution for the result image file, see [`Resolution`](../../resolution/) class.
+Initializes a new instance of the [`GifDevice`](../) class. Resolution for the result image file, see [`Resolution`](../../resolution/) class.
 
 ```csharp
 public GifDevice(Resolution resolution)
@@ -32,16 +35,17 @@ public GifDevice(Resolution resolution)
 
 ### See Also
 
-* class [Resolution](../../resolution/)
-* class [GifDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [GifDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GifDevice(int, int, Resolution) {#constructor_5}
+## GifDevice(int, int, Resolution) {#constructor_2}
 
-Initializes a new instance of the [`GifDevice`](../) class with provided image dimensions and resolution.
+Initializes a new instance of the [`GifDevice`](../) class with provided image dimensions and
+ resolution.
 
 ```csharp
 public GifDevice(int width, int height, Resolution resolution)
@@ -55,16 +59,17 @@ public GifDevice(int width, int height, Resolution resolution)
 
 ### See Also
 
-* class [Resolution](../../resolution/)
-* class [GifDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [GifDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GifDevice(PageSize, Resolution) {#constructor_3}
+## GifDevice(PageSize, Resolution) {#constructor_3}
 
-Initializes a new instance of the [`GifDevice`](../) class with provided page size and resolution.
+Initializes a new instance of the [`GifDevice`](../) class with provided page size and
+ resolution.
 
 ```csharp
 public GifDevice(PageSize pageSize, Resolution resolution)
@@ -77,17 +82,18 @@ public GifDevice(PageSize pageSize, Resolution resolution)
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [Resolution](../../resolution/)
-* class [GifDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [GifDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GifDevice(int, int) {#constructor_4}
+## GifDevice(int, int) {#constructor_4}
 
-Initializes a new instance of the [`GifDevice`](../) class with provided image dimensions, default resolution (=150).
+Initializes a new instance of the [`GifDevice`](../) class with provided image dimensions, 
+ default resolution (=150).
 
 ```csharp
 public GifDevice(int width, int height)
@@ -100,15 +106,16 @@ public GifDevice(int width, int height)
 
 ### See Also
 
-* class [GifDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [GifDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GifDevice(PageSize) {#constructor_2}
+## GifDevice(PageSize) {#constructor_5}
 
-Initializes a new instance of the [`GifDevice`](../) class with provided page size, default resolution (=150).
+Initializes a new instance of the [`GifDevice`](../) class with provided page size, 
+ default resolution (=150).
 
 ```csharp
 public GifDevice(PageSize pageSize)
@@ -120,9 +127,8 @@ public GifDevice(PageSize pageSize)
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [GifDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [GifDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

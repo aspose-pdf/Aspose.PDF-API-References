@@ -1,12 +1,15 @@
 ---
-title: PdfFileSignature.TryExtractCertificate
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature method. Extracts signatures single X.509 certificate
+title: "PdfFileSignature.TryExtractCertificate"
+linktitle: "TryExtractCertificate"
+articleTitle: "TryExtractCertificate"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Extracts signature's single X.509 certificate."
 type: docs
-weight: 310
-url: /net/aspose.pdf.facades/pdffilesignature/tryextractcertificate/
+weight: 430
+url: "/net/aspose.pdf.facades/pdffilesignature/tryextractcertificate/"
+product_version: "26.9"
 ---
-## TryExtractCertificate(SignatureName, out X509Certificate2) {#tryextractcertificate_1}
+## TryExtractCertificate(SignatureName, out X509Certificate2) {#tryextractcertificate}
 
 Extracts signature's single X.509 certificate.
 
@@ -25,14 +28,14 @@ True certificate was found.
 
 ### See Also
 
-* class [SignatureName](../../signaturename/)
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryExtractCertificate(SignatureName, out Stream) {#tryextractcertificate}
+## TryExtractCertificate(SignatureName, out Stream) {#tryextractcertificate_1}
 
 Extracts signature's single X.509 certificate as a stream.
 
@@ -51,9 +54,8 @@ True certificate was found.
 
 ### See Also
 
-* class [SignatureName](../../signaturename/)
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

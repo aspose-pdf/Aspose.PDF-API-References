@@ -1,10 +1,14 @@
 ---
-title: Class ThreadCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ThreadCreateRequest class. Represents a request to create a thread
+title: "ThreadCreateRequest Class"
+linktitle: "ThreadCreateRequest"
+articleTitle: "ThreadCreateRequest"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ThreadCreateRequest class. Represents a request to create a thread."
 type: docs
 weight: 1200
-url: /net/aspose.pdf.ai/threadcreaterequest/
+url: "/net/aspose.pdf.ai/threadcreaterequest/"
+keywords: "ThreadCreateRequest, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## ThreadCreateRequest class
 
@@ -24,13 +28,12 @@ public class ThreadCreateRequest
 
 | Name | Description |
 | --- | --- |
-| [Messages](../../aspose.pdf.ai/threadcreaterequest/messages/) { get; set; } | Gets or sets a list of messages to start the thread with. |
-| [Metadata](../../aspose.pdf.ai/threadcreaterequest/metadata/) { get; set; } | Gets or sets a set of 16 key-value pairs that can be attached to an object. |
-| [ToolResources](../../aspose.pdf.ai/threadcreaterequest/toolresources/) { get; set; } | Gets or sets a set of resources that are made available to the assistant's tools in this thread. |
+| [Messages](../../aspose.pdf.ai/threadcreaterequest/messages/) { get; set; } | Gets or sets a list of messages to start the thread with. |
+| [Metadata](../../aspose.pdf.ai/threadcreaterequest/metadata/) { get; set; } | Gets or sets a set of 16 key-value pairs that can be attached to an object. |
+| [ToolResources](../../aspose.pdf.ai/threadcreaterequest/toolresources/) { get; set; } | Gets or sets a set of resources that are made available to the assistant's tools in this thread. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

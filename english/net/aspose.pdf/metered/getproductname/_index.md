@@ -1,10 +1,13 @@
 ---
-title: Metered.GetProductName
-second_title: Aspose.PDF for .NET API Reference
-description: Metered method. Get the Product Name
+title: "Metered.GetProductName"
+linktitle: "GetProductName"
+articleTitle: "GetProductName"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metered method. Get the Product Name."
 type: docs
-weight: 20
-url: /net/aspose.pdf/metered/getproductname/
+weight: 50
+url: "/net/aspose.pdf/metered/getproductname/"
+product_version: "26.9"
 ---
 ## Metered.GetProductName method
 
@@ -20,8 +23,7 @@ Product Name
 
 ### See Also
 
-* class [Metered](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

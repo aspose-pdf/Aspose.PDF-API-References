@@ -1,10 +1,13 @@
 ---
-title: OpenAIContext.FileIds
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIContext property. Gets or sets the list of File IDs
+title: "OpenAIContext.FileIds"
+linktitle: "FileIds"
+articleTitle: "FileIds"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIContext property. Gets or sets the list of File IDs."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/openaicontext/fileids/
+weight: 40
+url: "/net/aspose.pdf.ai/openaicontext/fileids/"
+product_version: "26.9"
 ---
 ## OpenAIContext.FileIds property
 
@@ -16,8 +19,7 @@ public List<string> FileIds { get; set; }
 
 ### See Also
 
-* class [OpenAIContext](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIContext](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

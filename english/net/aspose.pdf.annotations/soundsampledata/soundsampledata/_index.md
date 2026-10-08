@@ -1,10 +1,13 @@
 ---
-title: SoundSampleData.SoundSampleData
-second_title: Aspose.PDF for .NET API Reference
-description: SoundSampleData constructor. Initializes new sound sample data
+title: "SoundSampleData.SoundSampleData"
+linktitle: "SoundSampleData"
+articleTitle: "SoundSampleData"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SoundSampleData constructor. Initializes new sound sample data."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/soundsampledata/soundsampledata/
+url: "/net/aspose.pdf.annotations/soundsampledata/soundsampledata/"
+product_version: "26.9"
 ---
 ## SoundSampleData(long) {#constructor}
 
@@ -20,13 +23,13 @@ public SoundSampleData(long samplingRate)
 
 ### See Also
 
-* class [SoundSampleData](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SoundSampleData(long, int) {#constructor_1}
+## SoundSampleData(long, int) {#constructor_1}
 
 Initializes new sound sample data.
 
@@ -41,13 +44,13 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels)
 
 ### See Also
 
-* class [SoundSampleData](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SoundSampleData(long, int, int) {#constructor_2}
+## SoundSampleData(long, int, int) {#constructor_2}
 
 Initializes new sound sample data.
 
@@ -63,13 +66,13 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 
 ### See Also
 
-* class [SoundSampleData](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SoundSampleData(long, int, int, SoundSampleDataEncodingFormat) {#constructor_3}
+## SoundSampleData(long, int, int, SoundSampleDataEncodingFormat) {#constructor_3}
 
 Initializes new sound sample data.
 
@@ -87,9 +90,8 @@ public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPer
 
 ### See Also
 
-* enum [SoundSampleDataEncodingFormat](../../soundsampledataencodingformat/)
-* class [SoundSampleData](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [SoundSampleDataEncodingFormat](../../soundsampledataencodingformat/)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

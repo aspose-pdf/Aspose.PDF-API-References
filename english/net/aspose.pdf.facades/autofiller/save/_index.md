@@ -1,12 +1,15 @@
 ---
-title: AutoFiller.Save
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFiller method. Saves all the pdfs
+title: "AutoFiller.Save"
+linktitle: "Save"
+articleTitle: "Save"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AutoFiller method. Saves all the pdfs."
 type: docs
-weight: 100
-url: /net/aspose.pdf.facades/autofiller/save/
+weight: 30
+url: "/net/aspose.pdf.facades/autofiller/save/"
+product_version: "26.9"
 ---
-## Save(string) {#save_2}
+## Save(string) {#save}
 
 Saves all the pdfs.
 
@@ -20,9 +23,9 @@ public void Save(string destFile)
 
 ### See Also
 
-* class [AutoFiller](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,8 +43,7 @@ public void Save(Stream destStream)
 
 ### See Also
 
-* class [AutoFiller](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

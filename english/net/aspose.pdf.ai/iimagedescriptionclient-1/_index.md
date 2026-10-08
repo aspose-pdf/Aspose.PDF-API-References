@@ -1,10 +1,13 @@
 ---
-title: Interface IImageDescriptionClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IImageDescriptionClient1TOptions interface. Represents an interface for an image description client with specific options
+title: "IImageDescriptionClient<TOptions> Interface"
+linktitle: "IImageDescriptionClient<TOptions>"
+articleTitle: "IImageDescriptionClient<TOptions>"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IImageDescriptionClient interface. Represents an interface for an image description client with specific options."
 type: docs
 weight: 520
-url: /net/aspose.pdf.ai/iimagedescriptionclient-1/
+url: "/net/aspose.pdf.ai/iimagedescriptionclient-1/"
+product_version: "26.9"
 ---
 ## IImageDescriptionClient&lt;TOptions&gt; interface
 
@@ -26,8 +29,7 @@ public interface IImageDescriptionClient<in TOptions> : IAIClient
 
 ### See Also
 
-* interface [IAIClient](../iaiclient/)
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* interface [IAIClient](../iaiclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

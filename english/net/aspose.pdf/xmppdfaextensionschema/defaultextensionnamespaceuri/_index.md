@@ -1,10 +1,13 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultExtensionNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema field. Default extension namespace uri
+title: "XmpPdfAExtensionSchema.DefaultExtensionNamespaceUri"
+linktitle: "DefaultExtensionNamespaceUri"
+articleTitle: "DefaultExtensionNamespaceUri"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchema field. Default extension namespace uri."
 type: docs
 weight: 110
-url: /net/aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceuri/
+url: "/net/aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceuri/"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchema.DefaultExtensionNamespaceUri field
 
@@ -16,8 +19,7 @@ public const string DefaultExtensionNamespaceUri;
 
 ### See Also
 
-* class [XmpPdfAExtensionSchema](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

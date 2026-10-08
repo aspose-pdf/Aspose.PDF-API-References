@@ -1,10 +1,13 @@
 ---
-title: Page.TrySaveVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Page method. Tries to save vector graphics if they are present on the page. The save format is SVG
+title: "Page.TrySaveVectorGraphics"
+linktitle: "TrySaveVectorGraphics"
+articleTitle: "TrySaveVectorGraphics"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page method. Tries to save vector graphics if they are present on the page. The save format is SVG."
 type: docs
-weight: 550
-url: /net/aspose.pdf/page/trysavevectorgraphics/
+weight: 60
+url: "/net/aspose.pdf/page/trysavevectorgraphics/"
+product_version: "26.9"
 ---
 ## Page.TrySaveVectorGraphics method
 
@@ -24,8 +27,7 @@ True if the page contains path construction operators; otherwise, False.
 
 ### See Also
 
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

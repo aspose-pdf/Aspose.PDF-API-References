@@ -1,10 +1,13 @@
 ---
-title: TeXFileSystemInputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFileSystemInputDirectory method. Returns the stream to read from
+title: "TeXFileSystemInputDirectory.GetFile"
+linktitle: "GetFile"
+articleTitle: "GetFile"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXFileSystemInputDirectory method. Returns the stream to read from."
 type: docs
-weight: 30
-url: /net/aspose.pdf/texfilesysteminputdirectory/getfile/
+weight: 20
+url: "/net/aspose.pdf/texfilesysteminputdirectory/getfile/"
+product_version: "26.9"
 ---
 ## TeXFileSystemInputDirectory.GetFile method
 
@@ -26,8 +29,7 @@ The stream.
 
 ### See Also
 
-* class [TeXFileSystemInputDirectory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TeXFileSystemInputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

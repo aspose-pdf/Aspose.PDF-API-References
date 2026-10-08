@@ -1,10 +1,14 @@
 ---
-title: Class HeaderFooterData
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeaderFooterData class. Represents the pagination data for header and footer
+title: "HeaderFooterData Class"
+linktitle: "HeaderFooterData"
+articleTitle: "HeaderFooterData"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HeaderFooterData class. Represents the pagination data for header and footer."
 type: docs
-weight: 5570
-url: /net/aspose.pdf/headerfooterdata/
+weight: 1050
+url: "/net/aspose.pdf/headerfooterdata/"
+keywords: "HeaderFooterData, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## HeaderFooterData class
 
@@ -24,12 +28,11 @@ public class HeaderFooterData
 
 | Name | Description |
 | --- | --- |
-| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Gets or sets the date settings. |
-| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Gets or sets the page number settings. |
+| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | Gets or sets the date settings. |
+| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | Gets or sets the page number settings. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

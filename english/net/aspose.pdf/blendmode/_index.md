@@ -1,10 +1,13 @@
 ---
-title: Enum BlendMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BlendMode enum. The blend modes enumeration
+title: "BlendMode Enum"
+linktitle: "BlendMode"
+articleTitle: "BlendMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.BlendMode enum. The blend modes enumeration."
 type: docs
-weight: 2990
-url: /net/aspose.pdf/blendmode/
+weight: 170
+url: "/net/aspose.pdf/blendmode/"
+product_version: "26.9"
 ---
 ## BlendMode enumeration
 
@@ -38,7 +41,6 @@ public enum BlendMode
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

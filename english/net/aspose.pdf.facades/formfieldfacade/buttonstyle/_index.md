@@ -1,10 +1,13 @@
 ---
-title: FormFieldFacade.ButtonStyle
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade property. The style of check box or radio box field defined by FormFieldFacade.CheckBoxStyle
+title: "FormFieldFacade.ButtonStyle"
+linktitle: "ButtonStyle"
+articleTitle: "ButtonStyle"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormFieldFacade property. The style of check box or radio box field, defined by FormFieldFacade.CheckBoxStyle."
 type: docs
-weight: 80
-url: /net/aspose.pdf.facades/formfieldfacade/buttonstyle/
+weight: 140
+url: "/net/aspose.pdf.facades/formfieldfacade/buttonstyle/"
+product_version: "26.9"
 ---
 ## FormFieldFacade.ButtonStyle property
 
@@ -16,8 +19,7 @@ public int ButtonStyle { get; set; }
 
 ### See Also
 
-* class [FormFieldFacade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

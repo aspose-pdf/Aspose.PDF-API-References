@@ -1,10 +1,13 @@
 ---
-title: Document.HasIncrementalUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Checks if the current PDF document has been saved with incremental updates
+title: "Document.HasIncrementalUpdate"
+linktitle: "HasIncrementalUpdate"
+articleTitle: "HasIncrementalUpdate"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Checks if the current PDF document has been saved with incremental updates."
 type: docs
-weight: 720
-url: /net/aspose.pdf/document/hasincrementalupdate/
+weight: 1070
+url: "/net/aspose.pdf/document/hasincrementalupdate/"
+product_version: "26.9"
 ---
 ## Document.HasIncrementalUpdate method
 
@@ -20,8 +23,7 @@ public bool HasIncrementalUpdate()
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

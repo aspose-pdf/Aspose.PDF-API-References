@@ -1,10 +1,13 @@
 ---
-title: StreamResult.ToStream
-second_title: Aspose.PDF for .NET API Reference
-description: StreamResult method. Tries to convert the result to a stream object
+title: "StreamResult.ToStream"
+linktitle: "ToStream"
+articleTitle: "ToStream"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StreamResult method. Tries to convert the result to a stream object."
 type: docs
-weight: 60
-url: /net/aspose.pdf.lowcode/streamresult/tostream/
+weight: 20
+url: "/net/aspose.pdf.lowcode/streamresult/tostream/"
+product_version: "26.9"
 ---
 ## StreamResult.ToStream method
 
@@ -20,8 +23,7 @@ A stream object representing the output data if the result is stream; otherwise 
 
 ### See Also
 
-* class [StreamResult](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StreamResult](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

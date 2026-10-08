@@ -1,10 +1,14 @@
 ---
-title: Class OfdToPdfOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.OfdToPdfOptions class. Represents options for converting OFD to PDF
+title: "OfdToPdfOptions Class"
+linktitle: "OfdToPdfOptions"
+articleTitle: "OfdToPdfOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.OfdToPdfOptions class. Represents options for converting OFD to PDF."
 type: docs
-weight: 7590
-url: /net/aspose.pdf.lowcode/ofdtopdfoptions/
+weight: 540
+url: "/net/aspose.pdf.lowcode/ofdtopdfoptions/"
+keywords: "OfdToPdfOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## OfdToPdfOptions class
 
@@ -24,10 +28,10 @@ public class OfdToPdfOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
-| [OfdLoadOptions](../../aspose.pdf.lowcode/ofdtopdfoptions/ofdloadoptions/) { get; set; } | Gets or sets the OFD load options. |
-| override [OperationName](../../aspose.pdf.lowcode/ofdtopdfoptions/operationname/) { get; } | Gets the name of the operation. |
-| [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
+| [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
+| [OfdLoadOptions](../../aspose.pdf.lowcode/ofdtopdfoptions/ofdloadoptions/) { get; set; } | Gets or sets the OFD load options. |
+| override [OperationName](../../aspose.pdf.lowcode/ofdtopdfoptions/operationname/) { get; } | Gets the name of the operation. |
+| [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
@@ -38,8 +42,7 @@ public class OfdToPdfOptions : PdfConverterOptions
 
 ### See Also
 
-* class [PdfConverterOptions](../pdfconverteroptions/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfConverterOptions](../pdfconverteroptions/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

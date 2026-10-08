@@ -1,10 +1,13 @@
 ---
-title: PdfConverter.MergeImagesAsTiff
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter method. Merges list of tiff streams as one multiple frames tiff stream
+title: "PdfConverter.MergeImagesAsTiff"
+linktitle: "MergeImagesAsTiff"
+articleTitle: "MergeImagesAsTiff"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverter method. Merges list of tiff streams as one multiple frames tiff stream."
 type: docs
-weight: 190
-url: /net/aspose.pdf.facades/pdfconverter/mergeimagesastiff/
+weight: 540
+url: "/net/aspose.pdf.facades/pdfconverter/mergeimagesastiff/"
+product_version: "26.9"
 ---
 ## PdfConverter.MergeImagesAsTiff method
 
@@ -24,8 +27,7 @@ Multiple frames tiff stream.
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

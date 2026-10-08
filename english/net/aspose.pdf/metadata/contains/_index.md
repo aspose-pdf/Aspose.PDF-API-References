@@ -1,12 +1,15 @@
 ---
-title: Metadata.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata method. Checks does key is contained in metadata
+title: "Metadata.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata method. Checks does key is contained in metadata."
 type: docs
-weight: 130
-url: /net/aspose.pdf/metadata/contains/
+weight: 90
+url: "/net/aspose.pdf/metadata/contains/"
+product_version: "26.9"
 ---
-## Contains(string) {#contains_1}
+## Contains(string) {#contains}
 
 Checks does key is contained in metadata.
 
@@ -24,13 +27,13 @@ True if key is contained in the metadata.
 
 ### See Also
 
-* class [Metadata](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Contains(KeyValuePair&lt;string, XmpValue&gt;) {#contains}
+## Contains(KeyValuePair&lt;string, XmpValue&gt;) {#contains_1}
 
 Checks does specified key-value pair is contained in the dictionary.
 
@@ -48,9 +51,8 @@ true if this pauir was found.
 
 ### See Also
 
-* class [XmpValue](../../xmpvalue/)
-* class [Metadata](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

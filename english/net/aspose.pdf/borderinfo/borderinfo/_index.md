@@ -1,12 +1,15 @@
 ---
-title: BorderInfo.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: BorderInfo constructor. Initializes a new instance of the BorderInfo class
+title: "BorderInfo.BorderInfo"
+linktitle: "BorderInfo"
+articleTitle: "BorderInfo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BorderInfo constructor. Initializes a new instance of the BorderInfo class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/borderinfo/borderinfo/
+url: "/net/aspose.pdf/borderinfo/borderinfo/"
+product_version: "26.9"
 ---
-## BorderInfo(BorderSide, Color) {#constructor_2}
+## BorderInfo(BorderSide, Color) {#constructor}
 
 Initializes a new instance of the [`BorderInfo`](../) class.
 
@@ -21,15 +24,15 @@ public BorderInfo(BorderSide borderSide, Color borderColor)
 
 ### See Also
 
-* enum [BorderSide](../../borderside/)
-* class [Color](../../color/)
-* class [BorderInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [Color](../../color/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BorderInfo() {#constructor}
+## BorderInfo() {#constructor_1}
 
 Initializes a new instance of the [`BorderInfo`](../) class.
 
@@ -39,13 +42,13 @@ public BorderInfo()
 
 ### See Also
 
-* class [BorderInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BorderInfo(BorderSide) {#constructor_1}
+## BorderInfo(BorderSide) {#constructor_2}
 
 Initializes a new instance of the [`BorderInfo`](../) class.
 
@@ -59,14 +62,14 @@ public BorderInfo(BorderSide borderSide)
 
 ### See Also
 
-* enum [BorderSide](../../borderside/)
-* class [BorderInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BorderInfo(BorderSide, float) {#constructor_4}
+## BorderInfo(BorderSide, float) {#constructor_3}
 
 Initializes a new instance of the [`BorderInfo`](../) class.
 
@@ -81,14 +84,14 @@ public BorderInfo(BorderSide borderSide, float borderWidth)
 
 ### See Also
 
-* enum [BorderSide](../../borderside/)
-* class [BorderInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BorderInfo(BorderSide, float, Color) {#constructor_5}
+## BorderInfo(BorderSide, float, Color) {#constructor_4}
 
 Initializes a new instance of the [`BorderInfo`](../) class.
 
@@ -104,15 +107,15 @@ public BorderInfo(BorderSide borderSide, float borderWidth, Color borderColor)
 
 ### See Also
 
-* enum [BorderSide](../../borderside/)
-* class [Color](../../color/)
-* class [BorderInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [BorderSide](../../borderside/)
+* class [Color](../../color/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BorderInfo(BorderSide, GraphInfo) {#constructor_3}
+## BorderInfo(BorderSide, GraphInfo) {#constructor_5}
 
 Initializes a new instance of the [`BorderInfo`](../) class.
 
@@ -127,10 +130,9 @@ public BorderInfo(BorderSide borderSide, GraphInfo info)
 
 ### See Also
 
-* enum [BorderSide](../../borderside/)
-* class [GraphInfo](../../graphinfo/)
-* class [BorderInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [BorderSide](../../borderside/)
+* class [GraphInfo](../../graphinfo/)
+* class [BorderInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

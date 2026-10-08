@@ -1,10 +1,13 @@
 ---
-title: TimestampSettings.TimestampSettings
-second_title: Aspose.PDF for .NET API Reference
-description: TimestampSettings constructor. Initializes a new instance of the TimestampSettings class
+title: "TimestampSettings.TimestampSettings"
+linktitle: "TimestampSettings"
+articleTitle: "TimestampSettings"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TimestampSettings constructor. Initializes a new instance of the TimestampSettings class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/timestampsettings/timestampsettings/
+url: "/net/aspose.pdf/timestampsettings/timestampsettings/"
+product_version: "26.9"
 ---
 ## TimestampSettings constructor
 
@@ -23,9 +26,8 @@ public TimestampSettings(string serverUrl, string basicAuthCredentials,
 
 ### See Also
 
-* enum [DigestHashAlgorithm](../../digesthashalgorithm/)
-* class [TimestampSettings](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [DigestHashAlgorithm](../../digesthashalgorithm/)
+* class [TimestampSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

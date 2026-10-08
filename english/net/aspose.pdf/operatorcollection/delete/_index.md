@@ -1,12 +1,15 @@
 ---
-title: OperatorCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: OperatorCollection method. Deletes operator from collection
+title: "OperatorCollection.Delete"
+linktitle: "Delete"
+articleTitle: "Delete"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OperatorCollection method. Deletes operator from collection."
 type: docs
-weight: 110
-url: /net/aspose.pdf/operatorcollection/delete/
+weight: 50
+url: "/net/aspose.pdf/operatorcollection/delete/"
+product_version: "26.9"
 ---
-## Delete(int) {#delete_1}
+## Delete(int) {#delete}
 
 Deletes operator from collection.
 
@@ -30,13 +33,13 @@ oc.Delete(3);
 
 ### See Also
 
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Delete(Operator[]) {#delete}
+## Delete(Operator[]) {#delete_1}
 
 Deletes operators from collection.
 
@@ -60,10 +63,10 @@ oc.Delete(new Operator[] { oc[1] } );
 
 ### See Also
 
-* class [Operator](../../operator/)
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -93,9 +96,8 @@ oc.Delete(opList);
 
 ### See Also
 
-* class [Operator](../../operator/)
-* class [OperatorCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

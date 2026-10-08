@@ -1,10 +1,13 @@
 ---
-title: TableAbsorber.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: TableAbsorber method. Removes an AbsorbedTable from the page
+title: "TableAbsorber.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableAbsorber method. Removes an AbsorbedTable from the page."
 type: docs
 weight: 50
-url: /net/aspose.pdf.text/tableabsorber/remove/
+url: "/net/aspose.pdf.text/tableabsorber/remove/"
+product_version: "26.9"
 ---
 ## TableAbsorber.Remove method
 
@@ -24,9 +27,8 @@ Please take into account it changes TableList collection. In case removing/repla
 
 ### See Also
 
-* class [AbsorbedTable](../../absorbedtable/)
-* class [TableAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AbsorbedTable](../../absorbedtable/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

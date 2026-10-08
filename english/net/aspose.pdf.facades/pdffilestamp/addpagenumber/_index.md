@@ -1,14 +1,18 @@
 ---
-title: PdfFileStamp.AddPageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp method. Add page number to file. Page number text may contain  sign which will be replaced with number of the page. Page number is placed in the bottom of the page centered horizontally
+title: "PdfFileStamp.AddPageNumber"
+linktitle: "AddPageNumber"
+articleTitle: "AddPageNumber"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp method. Add page number to file. Page number text may contain # sign which will be replaced with number of the page. Page number is placed in th..."
 type: docs
-weight: 130
-url: /net/aspose.pdf.facades/pdffilestamp/addpagenumber/
+weight: 70
+url: "/net/aspose.pdf.facades/pdffilestamp/addpagenumber/"
+product_version: "26.9"
 ---
-## AddPageNumber(string) {#addpagenumber_4}
+## AddPageNumber(string) {#addpagenumber}
 
-Add page number to file. Page number text may contain # sign which will be replaced with number of the page. Page number is placed in the bottom of the page centered horizontally.
+Add page number to file. Page number text may contain # sign which will be replaced with number of the page. 
+ Page number is placed in the bottom of the page centered horizontally.
 
 ```csharp
 public void AddPageNumber(string formatString)
@@ -28,15 +32,16 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddPageNumber(FormattedText) {#addpagenumber}
+## AddPageNumber(FormattedText) {#addpagenumber_1}
 
-Adds page number to the page. Page number may contain # sign which will be replaced with page number. Page number is placed in the bottom of the page centered horizontally.
+Adds page number to the page. Page number may contain # sign which will be replaced with page number.
+ Page number is placed in the bottom of the page centered horizontally.
 
 ```csharp
 public void AddPageNumber(FormattedText formattedText)
@@ -56,14 +61,14 @@ fileStamp.Close();
 
 ### See Also
 
-* class [FormattedText](../../formattedtext/)
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddPageNumber(string, int, float, float, float, float) {#addpagenumber_6}
+## AddPageNumber(string, int, float, float, float, float) {#addpagenumber_2}
 
 Adds page number to the pages of document.
 
@@ -91,13 +96,13 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddPageNumber(string, float, float) {#addpagenumber_7}
+## AddPageNumber(string, float, float) {#addpagenumber_3}
 
 Adds page number at the specified position on the page.
 
@@ -121,13 +126,13 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddPageNumber(FormattedText, int, float, float, float, float) {#addpagenumber_2}
+## AddPageNumber(FormattedText, int, float, float, float, float) {#addpagenumber_4}
 
 Adds page number to the pages of document.
 
@@ -155,14 +160,14 @@ fileStamp.Close();
 
 ### See Also
 
-* class [FormattedText](../../formattedtext/)
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddPageNumber(FormattedText, float, float) {#addpagenumber_3}
+## AddPageNumber(FormattedText, float, float) {#addpagenumber_5}
 
 Adds page number at the specified position on the page.
 
@@ -186,14 +191,14 @@ fileStamp.Close();
 
 ### See Also
 
-* class [FormattedText](../../formattedtext/)
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddPageNumber(string, int) {#addpagenumber_5}
+## AddPageNumber(string, int) {#addpagenumber_6}
 
 Adds page number to the pages.
 
@@ -216,13 +221,13 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddPageNumber(FormattedText, int) {#addpagenumber_1}
+## AddPageNumber(FormattedText, int) {#addpagenumber_7}
 
 Adds page number to the pages.
 
@@ -245,9 +250,8 @@ fileStamp.Close();
 
 ### See Also
 
-* class [FormattedText](../../formattedtext/)
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Rotation enum. Enumeration of possible rotation values
+title: "Rotation Enum"
+linktitle: "Rotation"
+articleTitle: "Rotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Rotation enum. Enumeration of possible rotation values."
 type: docs
-weight: 10110
-url: /net/aspose.pdf/rotation/
+weight: 2670
+url: "/net/aspose.pdf/rotation/"
+product_version: "26.9"
 ---
 ## Rotation enumeration
 
@@ -26,7 +29,6 @@ public enum Rotation
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

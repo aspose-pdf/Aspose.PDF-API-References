@@ -1,10 +1,13 @@
 ---
-title: Form.ImportFromJson
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Imports the PDF form fields from JSON format provided in the stream
+title: "Form.ImportFromJson"
+linktitle: "ImportFromJson"
+articleTitle: "ImportFromJson"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Imports the PDF form fields from JSON format provided in the stream."
 type: docs
-weight: 310
-url: /net/aspose.pdf.forms/form/importfromjson/
+weight: 180
+url: "/net/aspose.pdf.forms/form/importfromjson/"
+product_version: "26.9"
 ---
 ## ImportFromJson(Stream) {#importfromjson}
 
@@ -34,10 +37,10 @@ document.Save();
 
 ### See Also
 
-* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -68,9 +71,8 @@ document.Save();
 
 ### See Also
 
-* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

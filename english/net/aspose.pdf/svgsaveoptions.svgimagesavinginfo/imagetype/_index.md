@@ -1,14 +1,19 @@
 ---
-title: SvgSaveOptions.SvgImageSavingInfo.ImageType
-second_title: Aspose.PDF for .NET API Reference
-description: SvgImageSavingInfo field. represent type os saved image referenced in HTML. Set by converter and can be used in custom code to decide what should be done
+title: "SvgSaveOptions.SvgImageSavingInfo.ImageType"
+linktitle: "ImageType"
+articleTitle: "ImageType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SvgImageSavingInfo field. represent type os saved image referenced in HTML. Set by converter and can be used in custom code to decide what should be done"
 type: docs
 weight: 20
-url: /net/aspose.pdf/svgsaveoptions.svgimagesavinginfo/imagetype/
+url: "/net/aspose.pdf/svgsaveoptions.svgimagesavinginfo/imagetype/"
+product_version: "26.9"
 ---
 ## SvgSaveOptions.SvgImageSavingInfo.ImageType field
 
-represent type os saved image referenced in HTML. Set by converter and can be used in custom code to decide what should be done
+represent type os saved image referenced in HTML.
+ Set by converter and can be used in custom code 
+ to decide what should be done
 
 ```csharp
 public SvgExternalImageType ImageType;
@@ -16,9 +21,8 @@ public SvgExternalImageType ImageType;
 
 ### See Also
 
-* enum [SvgExternalImageType](../../svgsaveoptions.svgexternalimagetype/)
-* class [SvgImageSavingInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [SvgExternalImageType](../../svgsaveoptions.svgexternalimagetype/)
+* class [SvgImageSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

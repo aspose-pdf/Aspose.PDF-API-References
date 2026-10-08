@@ -1,10 +1,13 @@
 ---
-title: OptionCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection method. Adds item in collection throws NotImplementedException
+title: "OptionCollection.Add"
+linktitle: "Add"
+articleTitle: "Add"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OptionCollection method. Adds item in collection, throws NotImplementedException."
 type: docs
-weight: 60
-url: /net/aspose.pdf.forms/optioncollection/add/
+weight: 50
+url: "/net/aspose.pdf.forms/optioncollection/add/"
+product_version: "26.9"
 ---
 ## OptionCollection.Add method
 
@@ -20,9 +23,8 @@ public void Add(Option item)
 
 ### See Also
 
-* class [Option](../../option/)
-* class [OptionCollection](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

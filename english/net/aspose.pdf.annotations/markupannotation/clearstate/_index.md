@@ -1,14 +1,19 @@
 ---
-title: MarkupAnnotation.ClearState
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation method. Clears state and state model for the annotation. For example clears the review status for an annotation. Note the state stored in other text annotation which has state and statemodel keys
+title: "MarkupAnnotation.ClearState"
+linktitle: "ClearState"
+articleTitle: "ClearState"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupAnnotation method. Clears state and state model for the annotation. For example, clears the review status for an annotation. Note, the state stored in ..."
 type: docs
-weight: 100
-url: /net/aspose.pdf.annotations/markupannotation/clearstate/
+weight: 20
+url: "/net/aspose.pdf.annotations/markupannotation/clearstate/"
+product_version: "26.9"
 ---
 ## MarkupAnnotation.ClearState method
 
-Clears state and state model for the annotation. For example, clears the review status for an annotation. Note, the state stored in other text annotation which has state and statemodel keys.
+Clears state and state model for the annotation.
+ For example, clears the review status for an annotation.
+ Note, the state stored in other text annotation which has state and statemodel keys.
 
 ```csharp
 public void ClearState()
@@ -16,8 +21,7 @@ public void ClearState()
 
 ### See Also
 
-* class [MarkupAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

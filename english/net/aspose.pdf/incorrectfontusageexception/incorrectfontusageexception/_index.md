@@ -1,12 +1,15 @@
 ---
-title: IncorrectFontUsageException.IncorrectFontUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: IncorrectFontUsageException constructor. Initializes a new instance of the IncorrectFontUsageException class
+title: "IncorrectFontUsageException.IncorrectFontUsageException"
+linktitle: "IncorrectFontUsageException"
+articleTitle: "IncorrectFontUsageException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IncorrectFontUsageException constructor. Initializes a new instance of the IncorrectFontUsageException class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/incorrectfontusageexception/incorrectfontusageexception/
+url: "/net/aspose.pdf/incorrectfontusageexception/incorrectfontusageexception/"
+product_version: "26.9"
 ---
-## IncorrectFontUsageException(string) {#constructor_1}
+## IncorrectFontUsageException(string) {#constructor}
 
 Initializes a new instance of the [`IncorrectFontUsageException`](../) class.
 
@@ -20,13 +23,13 @@ public IncorrectFontUsageException(string message)
 
 ### See Also
 
-* class [IncorrectFontUsageException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [IncorrectFontUsageException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## IncorrectFontUsageException(string, Exception) {#constructor_2}
+## IncorrectFontUsageException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`IncorrectFontUsageException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
@@ -41,13 +44,13 @@ public IncorrectFontUsageException(string message, Exception innerException)
 
 ### See Also
 
-* class [IncorrectFontUsageException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [IncorrectFontUsageException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## IncorrectFontUsageException(Exception) {#constructor}
+## IncorrectFontUsageException(Exception) {#constructor_2}
 
 Initializes a new instance of the [`IncorrectFontUsageException`](../) class with a reference to the inner exception that is the cause of this exception.
 
@@ -61,8 +64,7 @@ public IncorrectFontUsageException(Exception innerException)
 
 ### See Also
 
-* class [IncorrectFontUsageException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [IncorrectFontUsageException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Interface ISummaryClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ISummaryClient1TOptions interface. Represents an interface for a summary client with specific options
+title: "ISummaryClient<TOptions> Interface"
+linktitle: "ISummaryClient<TOptions>"
+articleTitle: "ISummaryClient<TOptions>"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.ISummaryClient interface. Represents an interface for a summary client with specific options."
 type: docs
 weight: 630
-url: /net/aspose.pdf.ai/isummaryclient-1/
+url: "/net/aspose.pdf.ai/isummaryclient-1/"
+product_version: "26.9"
 ---
 ## ISummaryClient&lt;TOptions&gt; interface
 
@@ -26,8 +29,7 @@ public interface ISummaryClient<in TOptions> : IAIClient
 
 ### See Also
 
-* interface [IAIClient](../iaiclient/)
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* interface [IAIClient](../iaiclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

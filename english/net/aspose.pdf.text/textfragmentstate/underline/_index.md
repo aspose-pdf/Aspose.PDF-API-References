@@ -1,10 +1,13 @@
 ---
-title: TextFragmentState.Underline
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState property. Gets or sets underline for the text represented by the TextFragment object
+title: "TextFragmentState.Underline"
+linktitle: "Underline"
+articleTitle: "Underline"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState property. Gets or sets underline for the text, represented by the TextFragment object"
 type: docs
-weight: 220
-url: /net/aspose.pdf.text/textfragmentstate/underline/
+weight: 180
+url: "/net/aspose.pdf.text/textfragmentstate/underline/"
+product_version: "26.9"
 ---
 ## TextFragmentState.Underline property
 
@@ -16,8 +19,7 @@ public override bool Underline { get; set; }
 
 ### See Also
 
-* class [TextFragmentState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

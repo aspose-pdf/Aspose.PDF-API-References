@@ -1,10 +1,13 @@
 ---
-title: Enum ConversionMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.ConversionMode enum. Defines conversion mode of the output document
+title: "ConversionMode Enum"
+linktitle: "ConversionMode"
+articleTitle: "ConversionMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.ConversionMode enum. Defines conversion mode of the output document."
 type: docs
-weight: 7080
-url: /net/aspose.pdf.lowcode/conversionmode/
+weight: 30
+url: "/net/aspose.pdf.lowcode/conversionmode/"
+product_version: "26.9"
 ---
 ## ConversionMode enumeration
 
@@ -24,7 +27,6 @@ public enum ConversionMode
 
 ### See Also
 
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

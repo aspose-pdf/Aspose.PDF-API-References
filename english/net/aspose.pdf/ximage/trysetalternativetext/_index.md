@@ -1,10 +1,13 @@
 ---
-title: XImage.TrySetAlternativeText
-second_title: Aspose.PDF for .NET API Reference
-description: XImage method. Sets alternative text for an XImage on the page
+title: "XImage.TrySetAlternativeText"
+linktitle: "TrySetAlternativeText"
+articleTitle: "TrySetAlternativeText"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage method. Sets alternative text for an XImage on the page."
 type: docs
-weight: 180
-url: /net/aspose.pdf/ximage/trysetalternativetext/
+weight: 140
+url: "/net/aspose.pdf/ximage/trysetalternativetext/"
+product_version: "26.9"
 ---
 ## XImage.TrySetAlternativeText method
 
@@ -25,13 +28,15 @@ True if alternativeText for XImage is set. False if alternativeText for XImage n
 
 ## Remarks
 
-The method returns false in the following cases: - The XImage is not found on the specified page. - The XImage appears multiple times on the page with different structural elements, making it ambiguous which instance should receive the alternative text.
+The method returns false in the following cases:
+ - The XImage is not found on the specified page.
+ - The XImage appears multiple times on the page with different structural elements, 
+ making it ambiguous which instance should receive the alternative text.
 
 ### See Also
 
-* class [Page](../../page/)
-* class [XImage](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../page/)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

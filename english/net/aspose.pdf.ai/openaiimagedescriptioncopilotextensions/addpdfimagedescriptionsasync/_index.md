@@ -1,10 +1,13 @@
 ---
-title: OpenAIImageDescriptionCopilotExtensions.AddPdfImageDescriptionsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotExtensions method. Asynchronously adds image descriptions to a PDF file and saves new documents to a specified folders
+title: "OpenAIImageDescriptionCopilotExtensions.AddPdfImageDescriptionsAsync"
+linktitle: "AddPdfImageDescriptionsAsync"
+articleTitle: "AddPdfImageDescriptionsAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIImageDescriptionCopilotExtensions method. Asynchronously adds image descriptions to a PDF file and saves new documents to a specified folders."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/openaiimagedescriptioncopilotextensions/addpdfimagedescriptionsasync/
+url: "/net/aspose.pdf.ai/openaiimagedescriptioncopilotextensions/addpdfimagedescriptionsasync/"
+product_version: "26.9"
 ---
 ## OpenAIImageDescriptionCopilotExtensions.AddPdfImageDescriptionsAsync method
 
@@ -28,9 +31,8 @@ A task representing the asynchronous operation.
 
 ### See Also
 
-* interface [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
-* class [OpenAIImageDescriptionCopilotExtensions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
+* class [OpenAIImageDescriptionCopilotExtensions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

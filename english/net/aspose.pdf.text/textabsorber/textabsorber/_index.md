@@ -1,22 +1,23 @@
 ---
-title: TextAbsorber.TextAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber constructor. Initializes a new instance of the TextAbsorber
+title: "TextAbsorber.TextAbsorber"
+linktitle: "TextAbsorber"
+articleTitle: "TextAbsorber"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextAbsorber constructor. Initializes a new instance of the TextAbsorber."
 type: docs
 weight: 10
-url: /net/aspose.pdf.text/textabsorber/textabsorber/
+url: "/net/aspose.pdf.text/textabsorber/textabsorber/"
+product_version: "26.9"
 ---
 ## TextAbsorber() {#constructor}
 
 Initializes a new instance of the [`TextAbsorber`](../).
 
+Performs text extraction and provides access to the extracted text via [`Text`](../text/) object.
+
 ```csharp
 public TextAbsorber()
 ```
-
-## Remarks
-
-Performs text extraction and provides access to the extracted text via [`Text`](../text/) object.
 
 ## Examples
 
@@ -34,20 +35,21 @@ doc.Pages.Accept(absorber);
 
 // get the extracted text
 string extractedText = absorber.Text;
-
 ```
 
 ### See Also
 
-* class [TextAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextExtractionOptions) {#constructor_1}
 
 Initializes a new instance of the [`TextAbsorber`](../) with extraction options.
+
+Performs text extraction and provides access to the extracted text via [`Text`](../text/) object.
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions)
@@ -56,10 +58,6 @@ public TextAbsorber(TextExtractionOptions extractionOptions)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | Text extraction options |
-
-## Remarks
-
-Performs text extraction and provides access to the extracted text via [`Text`](../text/) object.
 
 ## Examples
 
@@ -77,21 +75,22 @@ doc.Pages.Accept(absorber);
 
 // get the extracted text
 string extractedText = absorber.Text;
-
 ```
 
 ### See Also
 
-* class [TextExtractionOptions](../../textextractionoptions/)
-* class [TextAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextAbsorber(TextExtractionOptions, TextSearchOptions) {#constructor_2}
+## TextAbsorber(TextExtractionOptions, TextSearchOptions) {#constructor_2}
 
 Initializes a new instance of the [`TextAbsorber`](../) with extraction and text search options.
+
+Performs text extraction and provides access to the extracted text via [`Text`](../text/) object.
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions textSearchOptions)
@@ -102,23 +101,21 @@ public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions t
 | extractionOptions | TextExtractionOptions | Text extraction options |
 | textSearchOptions | TextSearchOptions | Text search options |
 
-## Remarks
-
-Performs text extraction and provides access to the extracted text via [`Text`](../text/) object.
-
 ### See Also
 
-* class [TextExtractionOptions](../../textextractionoptions/)
-* class [TextSearchOptions](../../textsearchoptions/)
-* class [TextAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextSearchOptions) {#constructor_3}
 
 Initializes a new instance of the [`TextAbsorber`](../) with text search options.
+
+Performs text extraction and provides access to the extracted text via [`Text`](../text/) object.
 
 ```csharp
 public TextAbsorber(TextSearchOptions textSearchOptions)
@@ -128,15 +125,10 @@ public TextAbsorber(TextSearchOptions textSearchOptions)
 | --- | --- | --- |
 | textSearchOptions | TextSearchOptions | Text search options |
 
-## Remarks
-
-Performs text extraction and provides access to the extracted text via [`Text`](../text/) object.
-
 ### See Also
 
-* class [TextSearchOptions](../../textsearchoptions/)
-* class [TextAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

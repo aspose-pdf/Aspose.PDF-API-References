@@ -1,10 +1,13 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.Percents
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeValue method. Initializes value in percents
+title: "PdfFileEditor.ContentsResizeValue.Percents"
+linktitle: "Percents"
+articleTitle: "Percents"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ContentsResizeValue method. Initializes value in percents."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/percents/
+weight: 10
+url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/percents/"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeValue.Percents method
 
@@ -24,8 +27,7 @@ New value instance.
 
 ### See Also
 
-* class [ContentsResizeValue](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ContentsResizeValue](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

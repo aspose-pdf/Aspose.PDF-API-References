@@ -1,10 +1,13 @@
 ---
-title: PDF3DView.CameraPosition
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DView property. Gets or sets the camera position of view
+title: "PDF3DView.CameraPosition"
+linktitle: "CameraPosition"
+articleTitle: "CameraPosition"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DView property. Gets or sets the camera position of view."
 type: docs
-weight: 40
-url: /net/aspose.pdf.annotations/pdf3dview/cameraposition/
+weight: 70
+url: "/net/aspose.pdf.annotations/pdf3dview/cameraposition/"
+product_version: "26.9"
 ---
 ## PDF3DView.CameraPosition property
 
@@ -20,9 +23,8 @@ The camera position of view.
 
 ### See Also
 
-* class [Matrix3D](../../../aspose.pdf/matrix3d/)
-* class [PDF3DView](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix3D](../../../aspose.pdf/matrix3d/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: HiddenDataSanitizer.Sanitize
-second_title: Aspose.PDF for .NET API Reference
-description: HiddenDataSanitizer method. Sanitizes a given PDF document by removing or transforming hidden data
+title: "HiddenDataSanitizer.Sanitize"
+linktitle: "Sanitize"
+articleTitle: "Sanitize"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HiddenDataSanitizer method. Sanitizes a given PDF document by removing or transforming hidden data."
 type: docs
-weight: 20
-url: /net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizer/sanitize/
+weight: 30
+url: "/net/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizer/sanitize/"
+product_version: "26.9"
 ---
 ## HiddenDataSanitizer.Sanitize method
 
@@ -20,9 +23,8 @@ public void Sanitize(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [HiddenDataSanitizer](../)
-* namespace [Aspose.Pdf.Security.HiddenDataSanitization](../../../aspose.pdf.security.hiddendatasanitization/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [HiddenDataSanitizer](../)
+* namespace [Aspose.Pdf.Security.HiddenDataSanitization](../../../aspose.pdf.security.hiddendatasanitization/)
+* assembly [Aspose.PDF](../../../)
 

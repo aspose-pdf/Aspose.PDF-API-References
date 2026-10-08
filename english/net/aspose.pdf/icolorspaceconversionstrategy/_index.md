@@ -1,10 +1,13 @@
 ---
-title: Interface IColorSpaceConversionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IColorSpaceConversionStrategy interface. Interface for color space conversion strategies
+title: "IColorSpaceConversionStrategy Interface"
+linktitle: "IColorSpaceConversionStrategy"
+articleTitle: "IColorSpaceConversionStrategy"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.IColorSpaceConversionStrategy interface. Interface for color space conversion strategies."
 type: docs
-weight: 5900
-url: /net/aspose.pdf/icolorspaceconversionstrategy/
+weight: 1380
+url: "/net/aspose.pdf/icolorspaceconversionstrategy/"
+product_version: "26.9"
 ---
 ## IColorSpaceConversionStrategy interface
 
@@ -22,7 +25,6 @@ public interface IColorSpaceConversionStrategy
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

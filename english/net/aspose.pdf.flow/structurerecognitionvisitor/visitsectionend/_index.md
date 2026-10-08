@@ -1,10 +1,13 @@
 ---
-title: StructureRecognitionVisitor.VisitSectionEnd
-second_title: Aspose.PDF for .NET API Reference
-description: StructureRecognitionVisitor method. Visits the end of a recognized section in the document
+title: "StructureRecognitionVisitor.VisitSectionEnd"
+linktitle: "VisitSectionEnd"
+articleTitle: "VisitSectionEnd"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureRecognitionVisitor method. Visits the end of a recognized section in the document."
 type: docs
 weight: 60
-url: /net/aspose.pdf.flow/structurerecognitionvisitor/visitsectionend/
+url: "/net/aspose.pdf.flow/structurerecognitionvisitor/visitsectionend/"
+product_version: "26.9"
 ---
 ## StructureRecognitionVisitor.VisitSectionEnd method
 
@@ -20,9 +23,8 @@ public virtual void VisitSectionEnd(MarginInfo marginInfo)
 
 ### See Also
 
-* class [MarginInfo](../../../aspose.pdf/margininfo/)
-* class [StructureRecognitionVisitor](../)
-* namespace [Aspose.Pdf.Flow](../../../aspose.pdf.flow/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [StructureRecognitionVisitor](../)
+* namespace [Aspose.Pdf.Flow](../../../aspose.pdf.flow/)
+* assembly [Aspose.PDF](../../../)
 

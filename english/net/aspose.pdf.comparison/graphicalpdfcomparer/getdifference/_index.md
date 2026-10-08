@@ -1,14 +1,18 @@
 ---
-title: GraphicalPdfComparer.GetDifference
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicalPdfComparer method. Gets differences between pages images. The result contains an image of the first page compared and an array of differences
+title: "GraphicalPdfComparer.GetDifference"
+linktitle: "GetDifference"
+articleTitle: "GetDifference"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicalPdfComparer method. Gets differences between pages images. The result contains an image of the first page compared and an array of differences."
 type: docs
-weight: 90
-url: /net/aspose.pdf.comparison/graphicalpdfcomparer/getdifference/
+weight: 20
+url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/getdifference/"
+product_version: "26.9"
 ---
 ## GraphicalPdfComparer.GetDifference method
 
-Gets differences between pages images. The result contains an image of the first page compared and an array of differences.
+Gets differences between pages images.
+ The result contains an image of the first page compared and an array of differences.
 
 ```csharp
 public ImagesDifference GetDifference(Page page1, Page page2)
@@ -31,10 +35,9 @@ The [`ImagesDifference`](../../imagesdifference/) instance.
 
 ### See Also
 
-* class [ImagesDifference](../../imagesdifference/)
-* class [Page](../../../aspose.pdf/page/)
-* class [GraphicalPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImagesDifference](../../imagesdifference/)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

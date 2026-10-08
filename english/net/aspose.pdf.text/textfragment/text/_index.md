@@ -1,14 +1,17 @@
 ---
-title: TextFragment.Text
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment property. Gets or sets String text object that the TextFragment object represents
+title: "TextFragment.Text"
+linktitle: "Text"
+articleTitle: "Text"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragment property. Gets or sets String text object that the TextFragment object represents."
 type: docs
-weight: 130
-url: /net/aspose.pdf.text/textfragment/text/
+weight: 90
+url: "/net/aspose.pdf.text/textfragment/text/"
+product_version: "26.9"
 ---
 ## TextFragment.Text property
 
-Gets or sets String text object that the [`TextFragment`](../) object represents.
+Gets or sets `String` text object that the [`TextFragment`](../) object represents.
 
 ```csharp
 public string Text { get; set; }
@@ -16,7 +19,7 @@ public string Text { get; set; }
 
 ## Examples
 
-The example demonstrates how to search a text and replace first occurrence represented with [`TextFragment`](../) object .
+The example demonstrates how to search a text and replace first occurrence represented with [`TextFragment`](../../../aspose.pdf.text/textfragment/) object .
 
 ```csharp
 // Open document
@@ -32,15 +35,14 @@ doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "hi world";
 
 // Save document
-doc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf");
 ```
 
 ### See Also
 
-* class [TextFragmentAbsorber](../../textfragmentabsorber/)
-* class [Document](../../../aspose.pdf/document/)
-* class [TextFragment](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* [TextFragmentAbsorber](../textfragmentabsorber/)
+* [Document](../document/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

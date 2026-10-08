@@ -1,10 +1,13 @@
 ---
-title: StructureTypeStandard.L
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard field. List A sequence of items of like meaning and importance. Its immediate children should be an optional caption structure type Caption followed by one or more list items structure type LI
+title: "StructureTypeStandard.L"
+linktitle: "L"
+articleTitle: "L"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. (List) A sequence of items of like meaning and importance. Its immediate children should be an optional caption (structure type ..."
 type: docs
-weight: 200
-url: /net/aspose.pdf.logicalstructure/structuretypestandard/l/
+weight: 250
+url: "/net/aspose.pdf.logicalstructure/structuretypestandard/l/"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.L field
 
@@ -16,8 +19,7 @@ public static readonly StructureTypeStandard L;
 
 ### See Also
 
-* class [StructureTypeStandard](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: Path.Path
-second_title: Aspose.PDF for .NET API Reference
-description: Path constructor. Initializes a new instance of the Path class
+title: "Path.Path"
+linktitle: "Path"
+articleTitle: "Path"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Path constructor. Initializes a new instance of the Path class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.drawing/path/path/
+url: "/net/aspose.pdf.drawing/path/path/"
+product_version: "26.9"
 ---
-## Path(Shape[]) {#constructor_1}
+## Path(Shape[]) {#constructor}
 
 Initializes a new instance of the [`Path`](../) class.
 
@@ -20,14 +23,14 @@ public Path(Shape[] shapes)
 
 ### See Also
 
-* class [Shape](../../shape/)
-* class [Path](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
+* class [Shape](../../shape/)
+* class [Path](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Path() {#constructor}
+## Path() {#constructor_1}
 
 Initializes a new instance of the [`Path`](../) class.
 
@@ -37,8 +40,7 @@ public Path()
 
 ### See Also
 
-* class [Path](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Path](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 

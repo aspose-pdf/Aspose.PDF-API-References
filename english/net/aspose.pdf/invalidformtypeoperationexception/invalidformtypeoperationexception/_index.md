@@ -1,10 +1,13 @@
 ---
-title: InvalidFormTypeOperationException.InvalidFormTypeOperationException
-second_title: Aspose.PDF for .NET API Reference
-description: InvalidFormTypeOperationException constructor. Initializes a new instance of the InvalidFormTypeOperationException class
+title: "InvalidFormTypeOperationException.InvalidFormTypeOperationException"
+linktitle: "InvalidFormTypeOperationException"
+articleTitle: "InvalidFormTypeOperationException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "InvalidFormTypeOperationException constructor. Initializes a new instance of the InvalidFormTypeOperationException class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/invalidformtypeoperationexception/invalidformtypeoperationexception/
+url: "/net/aspose.pdf/invalidformtypeoperationexception/invalidformtypeoperationexception/"
+product_version: "26.9"
 ---
 ## InvalidFormTypeOperationException() {#constructor}
 
@@ -16,13 +19,13 @@ public InvalidFormTypeOperationException()
 
 ### See Also
 
-* class [InvalidFormTypeOperationException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [InvalidFormTypeOperationException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## InvalidFormTypeOperationException(string) {#constructor_2}
+## InvalidFormTypeOperationException(string) {#constructor_1}
 
 Initializes a new instance of the [`InvalidFormTypeOperationException`](../) class.
 
@@ -36,13 +39,13 @@ public InvalidFormTypeOperationException(string message)
 
 ### See Also
 
-* class [InvalidFormTypeOperationException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [InvalidFormTypeOperationException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## InvalidFormTypeOperationException(string, Exception) {#constructor_3}
+## InvalidFormTypeOperationException(string, Exception) {#constructor_2}
 
 Initializes a new instance of the [`InvalidFormTypeOperationException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
@@ -57,13 +60,13 @@ public InvalidFormTypeOperationException(string message, Exception innerExceptio
 
 ### See Also
 
-* class [InvalidFormTypeOperationException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [InvalidFormTypeOperationException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## InvalidFormTypeOperationException(Exception) {#constructor_1}
+## InvalidFormTypeOperationException(Exception) {#constructor_3}
 
 Initializes a new instance of the [`InvalidFormTypeOperationException`](../) class with a reference to the inner exception that is the cause of this exception.
 
@@ -77,8 +80,7 @@ public InvalidFormTypeOperationException(Exception innerException)
 
 ### See Also
 
-* class [InvalidFormTypeOperationException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [InvalidFormTypeOperationException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

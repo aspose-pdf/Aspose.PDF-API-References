@@ -1,10 +1,13 @@
 ---
-title: HtmlLoadOptions.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlLoadOptions property. Gets or sets document page info
+title: "HtmlLoadOptions.PageInfo"
+linktitle: "PageInfo"
+articleTitle: "PageInfo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlLoadOptions property. Gets or sets document page info"
 type: docs
-weight: 90
-url: /net/aspose.pdf/htmlloadoptions/pageinfo/
+weight: 100
+url: "/net/aspose.pdf/htmlloadoptions/pageinfo/"
+product_version: "26.9"
 ---
 ## HtmlLoadOptions.PageInfo property
 
@@ -16,9 +19,8 @@ public PageInfo PageInfo { get; set; }
 
 ### See Also
 
-* class [PageInfo](../../pageinfo/)
-* class [HtmlLoadOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageInfo](../../pageinfo/)
+* class [HtmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

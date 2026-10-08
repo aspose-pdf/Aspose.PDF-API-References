@@ -1,10 +1,13 @@
 ---
-title: Layer.DefaultState
-second_title: Aspose.PDF for .NET API Reference
-description: Layer property. Gets or sets the default state of the PDF layer
+title: "Layer.DefaultState"
+linktitle: "DefaultState"
+articleTitle: "DefaultState"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Layer property. Gets or sets the default state of the PDF layer."
 type: docs
-weight: 30
-url: /net/aspose.pdf/layer/defaultstate/
+weight: 110
+url: "/net/aspose.pdf/layer/defaultstate/"
+product_version: "26.9"
 ---
 ## Layer.DefaultState property
 
@@ -16,9 +19,8 @@ public DefaultState DefaultState { get; set; }
 
 ### See Also
 
-* enum [DefaultState](../../defaultstate/)
-* class [Layer](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [DefaultState](../../defaultstate/)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

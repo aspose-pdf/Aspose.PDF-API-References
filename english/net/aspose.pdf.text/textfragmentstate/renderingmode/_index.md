@@ -1,10 +1,13 @@
 ---
-title: TextFragmentState.RenderingMode
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState property. Gets or sets rendering mode of the text
+title: "TextFragmentState.RenderingMode"
+linktitle: "RenderingMode"
+articleTitle: "RenderingMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState property. Gets or sets rendering mode of the text."
 type: docs
-weight: 150
-url: /net/aspose.pdf.text/textfragmentstate/renderingmode/
+weight: 100
+url: "/net/aspose.pdf.text/textfragmentstate/renderingmode/"
+product_version: "26.9"
 ---
 ## TextFragmentState.RenderingMode property
 
@@ -16,9 +19,8 @@ public override TextRenderingMode RenderingMode { get; set; }
 
 ### See Also
 
-* enum [TextRenderingMode](../../textrenderingmode/)
-* class [TextFragmentState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [TextRenderingMode](../../textrenderingmode/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

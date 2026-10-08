@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.GetChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Gets an instance of IChatCopilot with the specified options
+title: "OpenAIClient.GetChatCopilot"
+linktitle: "GetChatCopilot"
+articleTitle: "GetChatCopilot"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Gets an instance of IChatCopilot with the specified options."
 type: docs
-weight: 210
-url: /net/aspose.pdf.ai/openaiclient/getchatcopilot/
+weight: 190
+url: "/net/aspose.pdf.ai/openaiclient/getchatcopilot/"
+product_version: "26.9"
 ---
 ## OpenAIClient.GetChatCopilot method
 
@@ -24,11 +27,10 @@ An instance of [`IChatCopilot`](../../ichatcopilot/).
 
 ### See Also
 
-* interface [IChatCopilot](../../ichatcopilot/)
-* interface [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
-* class [OpenAIChatCopilotOptions](../../openaichatcopilotoptions/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IChatCopilot](../../ichatcopilot/)
+* interface [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
+* class [OpenAIChatCopilotOptions](../../openaichatcopilotoptions/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

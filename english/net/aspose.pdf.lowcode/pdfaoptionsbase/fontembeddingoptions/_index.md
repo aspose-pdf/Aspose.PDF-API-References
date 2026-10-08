@@ -1,10 +1,13 @@
 ---
-title: PdfAOptionsBase.FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase property. Gets the options to process fonts that cannot be embedded into the document
+title: "PdfAOptionsBase.FontEmbeddingOptions"
+linktitle: "FontEmbeddingOptions"
+articleTitle: "FontEmbeddingOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAOptionsBase property. Gets the options to process fonts that cannot be embedded into the document."
 type: docs
-weight: 40
-url: /net/aspose.pdf.lowcode/pdfaoptionsbase/fontembeddingoptions/
+weight: 140
+url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/fontembeddingoptions/"
+product_version: "26.9"
 ---
 ## PdfAOptionsBase.FontEmbeddingOptions property
 
@@ -20,13 +23,13 @@ The font embedding options.
 
 ## Remarks
 
-The PDF/A standard requires that all fonts must be embedded into the document. This property provides options for handling cases when it's not possible to embed some fonts because they are absent on the destination PC.
+The PDF/A standard requires that all fonts must be embedded into the document. 
+ This property provides options for handling cases when it's not possible to embed some fonts because they are absent on the destination PC.
 
 ### See Also
 
-* class [FontEmbeddingOptions](../../../aspose.pdf/fontembeddingoptions/)
-* class [PdfAOptionsBase](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FontEmbeddingOptions](../../../aspose.pdf/fontembeddingoptions/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: FormComboBoxFieldCreateOptions.FormComboBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormComboBoxFieldCreateOptions constructor. Initializes a new instance of the FormComboBoxFieldCreateOptions object that containing parameters for created and added ComboBoxField
+title: "FormComboBoxFieldCreateOptions.FormComboBoxFieldCreateOptions"
+linktitle: "FormComboBoxFieldCreateOptions"
+articleTitle: "FormComboBoxFieldCreateOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormComboBoxFieldCreateOptions constructor. Initializes a new instance of the FormComboBoxFieldCreateOptions object, that containing parameters for created a..."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/formcomboboxfieldcreateoptions/formcomboboxfieldcreateoptions/
+url: "/net/aspose.pdf.lowcode/formcomboboxfieldcreateoptions/formcomboboxfieldcreateoptions/"
+product_version: "26.9"
 ---
 ## FormComboBoxFieldCreateOptions constructor
 
@@ -21,9 +24,8 @@ public FormComboBoxFieldCreateOptions(int pageNum, Rectangle rect)
 
 ### See Also
 
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [FormComboBoxFieldCreateOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [FormComboBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

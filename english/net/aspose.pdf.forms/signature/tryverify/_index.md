@@ -1,14 +1,18 @@
 ---
-title: Signature.TryVerify
-second_title: Aspose.PDF for .NET API Reference
-description: Signature method. Try to verify the document regarding this signature and return true if document is valid or otherwise false
+title: "Signature.TryVerify"
+linktitle: "TryVerify"
+articleTitle: "TryVerify"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Signature method. Try to verify the document regarding this signature and return true if document is valid or otherwise false."
 type: docs
-weight: 170
-url: /net/aspose.pdf.forms/signature/tryverify/
+weight: 80
+url: "/net/aspose.pdf.forms/signature/tryverify/"
+product_version: "26.9"
 ---
-## TryVerify(out VerificationResult) {#tryverify_1}
+## TryVerify(out VerificationResult) {#tryverify}
 
-Try to verify the document regarding this signature and return true if document is valid or otherwise false.
+Try to verify the document regarding this signature and return true if document is valid 
+ or otherwise false.
 
 ```csharp
 public bool TryVerify(out VerificationResult verificationResult)
@@ -24,16 +28,17 @@ Returns true if the signature was processed correctly. Returns false if an error
 
 ### See Also
 
-* class [VerificationResult](../../../aspose.pdf.security/verificationresult/)
-* class [Signature](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [VerificationResult](../../../aspose.pdf.security/verificationresult/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryVerify(ValidationOptions, out ValidationResult, out VerificationResult) {#tryverify}
+## TryVerify(ValidationOptions, out ValidationResult, out VerificationResult) {#tryverify_1}
 
-Try to verify the document regarding this signature and return true if document is valid or otherwise false.
+Try to verify the document regarding this signature and return true if document is valid 
+ or otherwise false.
 
 ```csharp
 public bool TryVerify(ValidationOptions options, out ValidationResult validationResult, 
@@ -52,18 +57,20 @@ Returns true if the signature was processed correctly. Returns false if an error
 
 ### See Also
 
-* class [ValidationOptions](../../../aspose.pdf.security/validationoptions/)
-* class [ValidationResult](../../../aspose.pdf.security/validationresult/)
-* class [VerificationResult](../../../aspose.pdf.security/verificationresult/)
-* class [Signature](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [ValidationOptions](../../../aspose.pdf.security/validationoptions/)
+* class [ValidationResult](../../../aspose.pdf.security/validationresult/)
+* class [VerificationResult](../../../aspose.pdf.security/verificationresult/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryVerify(X509Certificate2, ValidationOptions, out ValidationResult, out VerificationResult) {#tryverify_2}
+## TryVerify(X509Certificate2, ValidationOptions, out ValidationResult, out VerificationResult) {#tryverify_2}
 
-Try to verify the document regarding this signature and return true if document is valid or otherwise false. Verification is performed using the external public key certificate.
+Try to verify the document regarding this signature and return true if document is valid 
+ or otherwise false.
+ Verification is performed using the external public key certificate.
 
 ```csharp
 public bool TryVerify(X509Certificate2 publicKeyCertificate, ValidationOptions options, 
@@ -83,11 +90,10 @@ Returns true if the signature was processed correctly. Returns false if an error
 
 ### See Also
 
-* class [ValidationOptions](../../../aspose.pdf.security/validationoptions/)
-* class [ValidationResult](../../../aspose.pdf.security/validationresult/)
-* class [VerificationResult](../../../aspose.pdf.security/verificationresult/)
-* class [Signature](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ValidationOptions](../../../aspose.pdf.security/validationoptions/)
+* class [ValidationResult](../../../aspose.pdf.security/validationresult/)
+* class [VerificationResult](../../../aspose.pdf.security/verificationresult/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

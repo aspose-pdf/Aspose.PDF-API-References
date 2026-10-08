@@ -1,10 +1,13 @@
 ---
-title: JpegDevice.JpegDevice
-second_title: Aspose.PDF for .NET API Reference
-description: JpegDevice constructor. Initializes a new instance of the JpegDevice class with default resolution and maximum quality
+title: "JpegDevice.JpegDevice"
+linktitle: "JpegDevice"
+articleTitle: "JpegDevice"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "JpegDevice constructor. Initializes a new instance of the JpegDevice class with default resolution and maximum quality."
 type: docs
 weight: 10
-url: /net/aspose.pdf.devices/jpegdevice/jpegdevice/
+url: "/net/aspose.pdf.devices/jpegdevice/jpegdevice/"
+product_version: "26.9"
 ---
 ## JpegDevice() {#constructor}
 
@@ -16,15 +19,15 @@ public JpegDevice()
 
 ### See Also
 
-* class [JpegDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## JpegDevice(Resolution) {#constructor_1}
 
-Initializes a new instance of the [`JpegDevice`](../) class.  Resolution for the result image file, see [`Resolution`](../../resolution/) class.
+Initializes a new instance of the [`JpegDevice`](../) class. Resolution for the result image file, see [`Resolution`](../../resolution/) class.
 
 ```csharp
 public JpegDevice(Resolution resolution)
@@ -32,14 +35,14 @@ public JpegDevice(Resolution resolution)
 
 ### See Also
 
-* class [Resolution](../../resolution/)
-* class [JpegDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## JpegDevice(int) {#constructor_6}
+## JpegDevice(int) {#constructor_2}
 
 Initializes a new instance of the [`JpegDevice`](../) class.
 
@@ -53,13 +56,13 @@ public JpegDevice(int quality)
 
 ### See Also
 
-* class [JpegDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## JpegDevice(Resolution, int) {#constructor_2}
+## JpegDevice(Resolution, int) {#constructor_3}
 
 Initializes a new instance of the [`JpegDevice`](../) class.
 
@@ -74,16 +77,17 @@ public JpegDevice(Resolution resolution, int quality)
 
 ### See Also
 
-* class [Resolution](../../resolution/)
-* class [JpegDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## JpegDevice(int, int) {#constructor_7}
+## JpegDevice(int, int) {#constructor_4}
 
-Initializes a new instance of the [`JpegDevice`](../) class with provided image dimensions, default resolution (=150) and maximum quality.
+Initializes a new instance of the [`JpegDevice`](../) class with provided image dimensions, 
+ default resolution (=150) and maximum quality.
 
 ```csharp
 public JpegDevice(int width, int height)
@@ -96,15 +100,16 @@ public JpegDevice(int width, int height)
 
 ### See Also
 
-* class [JpegDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## JpegDevice(PageSize) {#constructor_3}
+## JpegDevice(PageSize) {#constructor_5}
 
-Initializes a new instance of the [`JpegDevice`](../) class with provided page size, default resolution (=150) and maximum quality.
+Initializes a new instance of the [`JpegDevice`](../) class with provided page size, 
+ default resolution (=150) and maximum quality.
 
 ```csharp
 public JpegDevice(PageSize pageSize)
@@ -116,16 +121,17 @@ public JpegDevice(PageSize pageSize)
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [JpegDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## JpegDevice(int, int, Resolution) {#constructor_8}
+## JpegDevice(int, int, Resolution) {#constructor_6}
 
-Initializes a new instance of the [`JpegDevice`](../) class with provided image dimensions, resolution and maximum quality.
+Initializes a new instance of the [`JpegDevice`](../) class with provided image dimensions, 
+ resolution and maximum quality.
 
 ```csharp
 public JpegDevice(int width, int height, Resolution resolution)
@@ -139,16 +145,17 @@ public JpegDevice(int width, int height, Resolution resolution)
 
 ### See Also
 
-* class [Resolution](../../resolution/)
-* class [JpegDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## JpegDevice(PageSize, Resolution) {#constructor_4}
+## JpegDevice(PageSize, Resolution) {#constructor_7}
 
-Initializes a new instance of the [`JpegDevice`](../) class with provided page size, resolution and maximum quality.
+Initializes a new instance of the [`JpegDevice`](../) class with provided page size, 
+ resolution and maximum quality.
 
 ```csharp
 public JpegDevice(PageSize pageSize, Resolution resolution)
@@ -161,17 +168,18 @@ public JpegDevice(PageSize pageSize, Resolution resolution)
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [Resolution](../../resolution/)
-* class [JpegDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## JpegDevice(int, int, Resolution, int) {#constructor_9}
+## JpegDevice(int, int, Resolution, int) {#constructor_8}
 
-Initializes a new instance of the [`JpegDevice`](../) class with provided image dimensions, resolution and quality.
+Initializes a new instance of the [`JpegDevice`](../) class with provided image dimensions, 
+ resolution and quality.
 
 ```csharp
 public JpegDevice(int width, int height, Resolution resolution, int quality)
@@ -186,16 +194,17 @@ public JpegDevice(int width, int height, Resolution resolution, int quality)
 
 ### See Also
 
-* class [Resolution](../../resolution/)
-* class [JpegDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## JpegDevice(PageSize, Resolution, int) {#constructor_5}
+## JpegDevice(PageSize, Resolution, int) {#constructor_9}
 
-Initializes a new instance of the [`JpegDevice`](../) class with provided page size, resolution and quality.
+Initializes a new instance of the [`JpegDevice`](../) class with provided page size, 
+ resolution and quality.
 
 ```csharp
 public JpegDevice(PageSize pageSize, Resolution resolution, int quality)
@@ -209,10 +218,9 @@ public JpegDevice(PageSize pageSize, Resolution resolution, int quality)
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [Resolution](../../resolution/)
-* class [JpegDevice](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [JpegDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

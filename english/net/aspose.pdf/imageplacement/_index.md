@@ -1,10 +1,14 @@
 ---
-title: Class ImagePlacement
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImagePlacement class. Represents characteristics of an image placed to Pdf document page
+title: "ImagePlacement Class"
+linktitle: "ImagePlacement"
+articleTitle: "ImagePlacement"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ImagePlacement class. Represents characteristics of an image placed to Pdf document page."
 type: docs
-weight: 6040
-url: /net/aspose.pdf/imageplacement/
+weight: 1520
+url: "/net/aspose.pdf/imageplacement/"
+keywords: "ImagePlacement, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## ImagePlacement class
 
@@ -13,32 +17,6 @@ Represents characteristics of an image placed to Pdf document page.
 ```csharp
 public sealed class ImagePlacement
 ```
-
-## Properties
-
-| Name | Description |
-| --- | --- |
-| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters/) { get; } | Gets compositing parameters of graphics state active for the image placed to the page. |
-| [Image](../../aspose.pdf/imageplacement/image/) { get; } | Gets related XImage resource object. |
-| [Matrix](../../aspose.pdf/imageplacement/matrix/) { get; } | Current transformation matrix for this image. |
-| [Operator](../../aspose.pdf/imageplacement/operator/) { get; } | Operator used for displaying the image. |
-| [Page](../../aspose.pdf/imageplacement/page/) { get; } | Gets the page containing the image. |
-| [Rectangle](../../aspose.pdf/imageplacement/rectangle/) { get; } | Gets rectangle of the Image. |
-| [Resolution](../../aspose.pdf/imageplacement/resolution/) { get; } | Gets resolution of the Image. |
-| [Rotation](../../aspose.pdf/imageplacement/rotation/) { get; } | Gets rotation angle of the Image. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| [Hide](../../aspose.pdf/imageplacement/hide/)() | Delete image from the page. |
-| [Replace](../../aspose.pdf/imageplacement/replace/)(Stream) | Replace image in collection with another image. |
-| [Save](../../aspose.pdf/imageplacement/save/#save)(Stream) | Saves image with corresponding transformations: scaling, rotation and resolution. |
-| [Save](../../aspose.pdf/imageplacement/save/#save_1)(Stream, ImageFormat) | Saves image with corresponding transformations: scaling, rotation and resolution. |
-
-## Remarks
-
-When an image is placed to a page it may have dimensions other than physical dimensions defined in [`Resources`](../resources/). The object `ImagePlacement` is intended to provide such information like dimensions, resolution and so on.
 
 ## Examples
 
@@ -66,12 +44,38 @@ foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
         // Create new bitmap with actual dimensions
         scaledImage = new Bitmap(resourceImage, (int)imagePlacement.Rectangle.Width, (int)imagePlacement.Rectangle.Height);
     }
-} 
+}
 ```
+
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters/) { get; } | Gets compositing parameters of graphics state active for the image placed to the page. |
+| [Image](../../aspose.pdf/imageplacement/image/) { get; } | Gets related XImage resource object. |
+| [Matrix](../../aspose.pdf/imageplacement/matrix/) { get; } | Current transformation matrix for this image. |
+| [Operator](../../aspose.pdf/imageplacement/operator/) { get; } | Operator used for displaying the image. |
+| [Page](../../aspose.pdf/imageplacement/page/) { get; } | Gets the page containing the image. |
+| [Rectangle](../../aspose.pdf/imageplacement/rectangle/) { get; } | Gets rectangle of the Image. |
+| [Resolution](../../aspose.pdf/imageplacement/resolution/) { get; } | Gets resolution of the Image. |
+| [Rotation](../../aspose.pdf/imageplacement/rotation/) { get; } | Gets rotation angle of the Image. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Hide](../../aspose.pdf/imageplacement/hide/)() | Delete image from the page. |
+| [Replace](../../aspose.pdf/imageplacement/replace/)(Stream) | Replace image in collection with another image. |
+| [Save](../../aspose.pdf/imageplacement/save/#save)(Stream) | Saves image with corresponding transformations: scaling, rotation and resolution. |
+| [Save](../../aspose.pdf/imageplacement/save/#save_1)(Stream, ImageFormat) | Saves image with corresponding transformations: scaling, rotation and resolution. |
+
+## Remarks
+
+When an image is placed to a page it may have dimensions other than physical dimensions defined in [`Resources`](../resources/).
+ The object [`ImagePlacement`](../imageplacement/) is intended to provide such information like dimensions, resolution and so on.
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,12 +1,15 @@
 ---
-title: PdfFormatConversionOptions.PdfFormatConversionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions constructor. Constructor
+title: "PdfFormatConversionOptions.PdfFormatConversionOptions"
+linktitle: "PdfFormatConversionOptions"
+articleTitle: "PdfFormatConversionOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFormatConversionOptions constructor. Constructor"
 type: docs
 weight: 10
-url: /net/aspose.pdf/pdfformatconversionoptions/pdfformatconversionoptions/
+url: "/net/aspose.pdf/pdfformatconversionoptions/pdfformatconversionoptions/"
+product_version: "26.9"
 ---
-## PdfFormatConversionOptions(string, PdfFormat, ConvertErrorAction) {#constructor_4}
+## PdfFormatConversionOptions(string, PdfFormat, ConvertErrorAction) {#constructor}
 
 Constructor
 
@@ -23,15 +26,15 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 
 ### See Also
 
-* enum [PdfFormat](../../pdfformat/)
-* enum [ConvertErrorAction](../../converterroraction/)
-* class [PdfFormatConversionOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFormatConversionOptions(string, PdfFormat) {#constructor_3}
+## PdfFormatConversionOptions(string, PdfFormat) {#constructor_1}
 
 Constructor
 
@@ -46,14 +49,14 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format)
 
 ### See Also
 
-* enum [PdfFormat](../../pdfformat/)
-* class [PdfFormatConversionOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFormatConversionOptions(PdfFormat) {#constructor}
+## PdfFormatConversionOptions(PdfFormat) {#constructor_2}
 
 Constructor
 
@@ -67,14 +70,14 @@ public PdfFormatConversionOptions(PdfFormat format)
 
 ### See Also
 
-* enum [PdfFormat](../../pdfformat/)
-* class [PdfFormatConversionOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFormatConversionOptions(PdfFormat, ConvertErrorAction) {#constructor_1}
+## PdfFormatConversionOptions(PdfFormat, ConvertErrorAction) {#constructor_3}
 
 Constructor
 
@@ -89,15 +92,15 @@ public PdfFormatConversionOptions(PdfFormat format, ConvertErrorAction action)
 
 ### See Also
 
-* enum [PdfFormat](../../pdfformat/)
-* enum [ConvertErrorAction](../../converterroraction/)
-* class [PdfFormatConversionOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFormatConversionOptions(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#constructor_5}
+## PdfFormatConversionOptions(string, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) {#constructor_4}
 
 Constructor
 
@@ -115,16 +118,16 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 
 ### See Also
 
-* enum [PdfFormat](../../pdfformat/)
-* enum [ConvertErrorAction](../../converterroraction/)
-* enum [ConvertTransparencyAction](../../converttransparencyaction/)
-* class [PdfFormatConversionOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* enum [ConvertTransparencyAction](../../converttransparencyaction/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfFormatConversionOptions(Stream, PdfFormat, ConvertErrorAction) {#constructor_2}
+## PdfFormatConversionOptions(Stream, PdfFormat, ConvertErrorAction) {#constructor_5}
 
 Constructor
 
@@ -141,10 +144,9 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
 
 ### See Also
 
-* enum [PdfFormat](../../pdfformat/)
-* enum [ConvertErrorAction](../../converterroraction/)
-* class [PdfFormatConversionOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [PdfFormat](../../pdfformat/)
+* enum [ConvertErrorAction](../../converterroraction/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

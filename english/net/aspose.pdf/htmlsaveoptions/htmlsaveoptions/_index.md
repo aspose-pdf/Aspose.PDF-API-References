@@ -1,10 +1,13 @@
 ---
-title: HtmlSaveOptions.HtmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions constructor. Initializes a new instance of the HtmlSaveOptions class
+title: "HtmlSaveOptions.HtmlSaveOptions"
+linktitle: "HtmlSaveOptions"
+articleTitle: "HtmlSaveOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions constructor. Initializes a new instance of the HtmlSaveOptions class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/htmlsaveoptions/htmlsaveoptions/
+url: "/net/aspose.pdf/htmlsaveoptions/htmlsaveoptions/"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions() {#constructor}
 
@@ -16,9 +19,9 @@ public HtmlSaveOptions()
 
 ### See Also
 
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,14 +39,14 @@ public HtmlSaveOptions(HtmlDocumentType documentType)
 
 ### See Also
 
-* enum [HtmlDocumentType](../../htmldocumenttype/)
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [HtmlDocumentType](../../htmldocumenttype/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## HtmlSaveOptions(bool) {#constructor_3}
+## HtmlSaveOptions(bool) {#constructor_2}
 
 Initializes a new instance of the [`HtmlSaveOptions`](../) class.
 
@@ -57,13 +60,13 @@ public HtmlSaveOptions(bool fixedLayout)
 
 ### See Also
 
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## HtmlSaveOptions(HtmlDocumentType, bool) {#constructor_2}
+## HtmlSaveOptions(HtmlDocumentType, bool) {#constructor_3}
 
 Initializes a new instance of the [`HtmlSaveOptions`](../) class.
 
@@ -78,9 +81,8 @@ public HtmlSaveOptions(HtmlDocumentType documentType, bool fixedLayout)
 
 ### See Also
 
-* enum [HtmlDocumentType](../../htmldocumenttype/)
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [HtmlDocumentType](../../htmldocumenttype/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

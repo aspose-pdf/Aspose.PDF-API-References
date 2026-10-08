@@ -1,10 +1,13 @@
 ---
-title: Splitter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Splitter method. Starts the Splitter processing with the specified parameters
+title: "Splitter.Process"
+linktitle: "Process"
+articleTitle: "Process"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Splitter method. Starts the Splitter processing with the specified parameters."
 type: docs
 weight: 20
-url: /net/aspose.pdf.lowcode/splitter/process/
+url: "/net/aspose.pdf.lowcode/splitter/process/"
+product_version: "26.9"
 ---
 ## Splitter.Process method
 
@@ -16,7 +19,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | IPluginOptions | An options object containg instructions for the [`Splitter`](../). |
+| options | IPluginOptions | An options object containg instructions for the `Splitter`. |
 
 ### Return Value
 
@@ -30,10 +33,9 @@ An ResultContainer object containg the result of the operation.
 
 ### See Also
 
-* class [ResultContainer](../../resultcontainer/)
-* interface [IPluginOptions](../../ipluginoptions/)
-* class [Splitter](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Splitter](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

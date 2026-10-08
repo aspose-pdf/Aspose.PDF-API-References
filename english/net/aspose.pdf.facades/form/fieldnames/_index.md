@@ -1,10 +1,13 @@
 ---
-title: Form.FieldNames
-second_title: Aspose.PDF for .NET API Reference
-description: Form property. Gets list of field names on the form
+title: "Form.FieldNames"
+linktitle: "FieldNames"
+articleTitle: "FieldNames"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. Gets list of field names on the form."
 type: docs
-weight: 30
-url: /net/aspose.pdf.facades/form/fieldnames/
+weight: 440
+url: "/net/aspose.pdf.facades/form/fieldnames/"
+product_version: "26.9"
 ---
 ## Form.FieldNames property
 
@@ -27,8 +30,7 @@ foreach(string field in fields)
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

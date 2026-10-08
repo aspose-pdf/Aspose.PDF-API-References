@@ -1,10 +1,13 @@
 ---
-title: OutlineCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection method. Always throws NotImplementedException
+title: "OutlineCollection.Remove"
+linktitle: "Remove"
+articleTitle: "Remove"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineCollection method. Always throws NotImplementedException"
 type: docs
-weight: 150
-url: /net/aspose.pdf/outlinecollection/remove/
+weight: 80
+url: "/net/aspose.pdf/outlinecollection/remove/"
+product_version: "26.9"
 ---
 ## Remove(OutlineItemCollection) {#remove}
 
@@ -24,10 +27,10 @@ NotImplementedException
 
 ### See Also
 
-* class [OutlineItemCollection](../../outlineitemcollection/)
-* class [OutlineCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -45,8 +48,7 @@ public void Remove(int index)
 
 ### See Also
 
-* class [OutlineCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

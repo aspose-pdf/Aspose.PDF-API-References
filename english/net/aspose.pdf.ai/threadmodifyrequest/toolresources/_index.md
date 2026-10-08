@@ -1,10 +1,13 @@
 ---
-title: ThreadModifyRequest.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadModifyRequest property. Gets or sets a set of resources that are made available to the assistants tools in this thread
+title: "ThreadModifyRequest.ToolResources"
+linktitle: "ToolResources"
+articleTitle: "ToolResources"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadModifyRequest property. Gets or sets a set of resources that are made available to the assistant's tools in this thread."
 type: docs
-weight: 30
-url: /net/aspose.pdf.ai/threadmodifyrequest/toolresources/
+weight: 20
+url: "/net/aspose.pdf.ai/threadmodifyrequest/toolresources/"
+product_version: "26.9"
 ---
 ## ThreadModifyRequest.ToolResources property
 
@@ -16,9 +19,8 @@ public ToolResources ToolResources { get; set; }
 
 ### See Also
 
-* class [ToolResources](../../toolresources/)
-* class [ThreadModifyRequest](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ToolResources](../../toolresources/)
+* class [ThreadModifyRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

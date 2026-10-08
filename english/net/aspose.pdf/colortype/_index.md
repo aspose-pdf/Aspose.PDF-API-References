@@ -1,10 +1,13 @@
 ---
-title: Enum ColorType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ColorType enum. Specifies color type of elements on page
+title: "ColorType Enum"
+linktitle: "ColorType"
+articleTitle: "ColorType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ColorType enum. Specifies color type of elements on page."
 type: docs
-weight: 3210
-url: /net/aspose.pdf/colortype/
+weight: 390
+url: "/net/aspose.pdf/colortype/"
+product_version: "26.9"
 ---
 ## ColorType enumeration
 
@@ -25,7 +28,6 @@ public enum ColorType
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: AttributeName.Placement_Start
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName field. Attribute Placement Start  Placed so that the start edge of the elements allocation rectangle coincides with that of the nearest enclosing reference area
+title: "AttributeName.Placement_Start"
+linktitle: "Placement_Start"
+articleTitle: "Placement_Start"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute Placement: Start - Placed so that the start edge of the element's allocation rectangle coincides with that of the nearest encl..."
 type: docs
-weight: 380
-url: /net/aspose.pdf.logicalstructure/attributename/placement_start/
+weight: 80
+url: "/net/aspose.pdf.logicalstructure/attributename/placement_start/"
+product_version: "26.9"
 ---
 ## AttributeName.Placement_Start field
 
@@ -16,8 +19,7 @@ public static readonly AttributeName Placement_Start;
 
 ### See Also
 
-* class [AttributeName](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

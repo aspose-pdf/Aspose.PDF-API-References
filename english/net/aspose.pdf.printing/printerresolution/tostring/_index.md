@@ -1,10 +1,13 @@
 ---
-title: PrinterResolution.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterResolution method. Provides some interesting information about the PrinterResolution in String form
+title: "PrinterResolution.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterResolution method. Provides some interesting information about the PrinterResolution in String form."
 type: docs
-weight: 50
-url: /net/aspose.pdf.printing/printerresolution/tostring/
+weight: 20
+url: "/net/aspose.pdf.printing/printerresolution/tostring/"
+product_version: "26.9"
 ---
 ## PrinterResolution.ToString method
 
@@ -20,8 +23,7 @@ String representing PrinterResolution.
 
 ### See Also
 
-* class [PrinterResolution](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrinterResolution](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

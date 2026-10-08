@@ -1,10 +1,13 @@
 ---
-title: Re.X
-second_title: Aspose.PDF for .NET API Reference
-description: Re property. X coordinate of most left side of rectangle
+title: "Re.X"
+linktitle: "X"
+articleTitle: "X"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Re property. X coordinate of most left side of rectangle."
 type: docs
-weight: 40
-url: /net/aspose.pdf.operators/re/x/
+weight: 50
+url: "/net/aspose.pdf.operators/re/x/"
+product_version: "26.9"
 ---
 ## Re.X property
 
@@ -16,8 +19,7 @@ public double X { get; set; }
 
 ### See Also
 
-* class [Re](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

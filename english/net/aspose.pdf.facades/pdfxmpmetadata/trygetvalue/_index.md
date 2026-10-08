@@ -1,10 +1,13 @@
 ---
-title: PdfXmpMetadata.TryGetValue
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata method. Tries to find key in the dictionary and retreives value if found
+title: "PdfXmpMetadata.TryGetValue"
+linktitle: "TryGetValue"
+articleTitle: "TryGetValue"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata method. Tries to find key in the dictionary and retreives value if found."
 type: docs
-weight: 220
-url: /net/aspose.pdf.facades/pdfxmpmetadata/trygetvalue/
+weight: 200
+url: "/net/aspose.pdf.facades/pdfxmpmetadata/trygetvalue/"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata.TryGetValue method
 
@@ -25,9 +28,8 @@ true if key was found.
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

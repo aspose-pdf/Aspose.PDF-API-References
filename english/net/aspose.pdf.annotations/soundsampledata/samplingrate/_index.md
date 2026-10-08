@@ -1,10 +1,13 @@
 ---
-title: SoundSampleData.SamplingRate
-second_title: Aspose.PDF for .NET API Reference
-description: SoundSampleData property. Gets or sets the sampling rate
+title: "SoundSampleData.SamplingRate"
+linktitle: "SamplingRate"
+articleTitle: "SamplingRate"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SoundSampleData property. Gets or sets the sampling rate."
 type: docs
 weight: 50
-url: /net/aspose.pdf.annotations/soundsampledata/samplingrate/
+url: "/net/aspose.pdf.annotations/soundsampledata/samplingrate/"
+product_version: "26.9"
 ---
 ## SoundSampleData.SamplingRate property
 
@@ -16,8 +19,7 @@ public long SamplingRate { get; set; }
 
 ### See Also
 
-* class [SoundSampleData](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

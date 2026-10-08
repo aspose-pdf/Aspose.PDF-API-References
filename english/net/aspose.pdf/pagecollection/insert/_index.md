@@ -1,14 +1,20 @@
 ---
-title: PageCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection method. Insert an empty page into the collection at the specified position. If the document already contains pages with varying sizes the size of the most frequently occurring page will be selected. In the case there are only two different pages the size of the first page will be used
+title: "PageCollection.Insert"
+linktitle: "Insert"
+articleTitle: "Insert"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageCollection method. Insert an empty page into the collection at the specified position. If the document already contains pages with varying sizes, the siz..."
 type: docs
-weight: 180
-url: /net/aspose.pdf/pagecollection/insert/
+weight: 120
+url: "/net/aspose.pdf/pagecollection/insert/"
+product_version: "26.9"
 ---
 ## Insert(int) {#insert}
 
-Insert an empty page into the collection at the specified position. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used.
+Insert an empty page into the collection at the specified position.
+ If the document already contains pages with varying sizes,
+ the size of the most frequently occurring page will be selected.
+ In the case there are only two different pages, the size of the first page will be used.
 
 ```csharp
 public Page Insert(int pageNumber)
@@ -24,14 +30,14 @@ Inserted page.
 
 ### See Also
 
-* class [Page](../../page/)
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Insert(int, Page) {#insert_1}
+## Insert(int, Page) {#insert_1}
 
 Inserts page into page collection at specified place.
 
@@ -50,14 +56,14 @@ Inserted page.
 
 ### See Also
 
-* class [Page](../../page/)
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Insert(int, ICollection&lt;Page&gt;) {#insert_3}
+## Insert(int, ICollection&lt;Page&gt;) {#insert_2}
 
 Inserts pages from the collection into document.
 
@@ -72,14 +78,14 @@ public void Insert(int pageNumber, ICollection<Page> pages)
 
 ### See Also
 
-* class [Page](../../page/)
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Insert(int, Page[]) {#insert_2}
+## Insert(int, Page[]) {#insert_3}
 
 Inserts pages of the array into document.
 
@@ -94,9 +100,8 @@ public void Insert(int pageNumber, Page[] pages)
 
 ### See Also
 
-* class [Page](../../page/)
-* class [PageCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

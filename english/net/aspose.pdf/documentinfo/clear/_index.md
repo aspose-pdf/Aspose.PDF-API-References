@@ -1,10 +1,13 @@
 ---
-title: DocumentInfo.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo method. Clears the document info
+title: "DocumentInfo.Clear"
+linktitle: "Clear"
+articleTitle: "Clear"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentInfo method. Clears the document info."
 type: docs
-weight: 150
-url: /net/aspose.pdf/documentinfo/clear/
+weight: 20
+url: "/net/aspose.pdf/documentinfo/clear/"
+product_version: "26.9"
 ---
 ## DocumentInfo.Clear method
 
@@ -16,8 +19,7 @@ public void Clear()
 
 ### See Also
 
-* class [DocumentInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

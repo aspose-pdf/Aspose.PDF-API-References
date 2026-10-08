@@ -1,10 +1,13 @@
 ---
-title: Page.Header
-second_title: Aspose.PDF for .NET API Reference
-description: Page property. Gets or sets page header
+title: "Page.Header"
+linktitle: "Header"
+articleTitle: "Header"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Page property. Gets or sets page header."
 type: docs
-weight: 150
-url: /net/aspose.pdf/page/header/
+weight: 380
+url: "/net/aspose.pdf/page/header/"
+product_version: "26.9"
 ---
 ## Page.Header property
 
@@ -20,9 +23,8 @@ The page header.
 
 ### See Also
 
-* class [HeaderFooter](../../headerfooter/)
-* class [Page](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HeaderFooter](../../headerfooter/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

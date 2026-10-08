@@ -1,10 +1,13 @@
 ---
-title: Paragraphs.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Paragraphs property. Gets or sets paragraph from or to collection
+title: "Paragraphs.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Paragraphs property. Gets or sets paragraph from or to collection."
 type: docs
-weight: 30
-url: /net/aspose.pdf/paragraphs/item/
+weight: 120
+url: "/net/aspose.pdf/paragraphs/item/"
+product_version: "26.9"
 ---
 ## Paragraphs indexer
 
@@ -20,9 +23,8 @@ public BaseParagraph this[int index] { get; set; }
 
 ### See Also
 
-* class [BaseParagraph](../../baseparagraph/)
-* class [Paragraphs](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

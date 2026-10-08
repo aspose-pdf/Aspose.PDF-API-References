@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.CreateCaret
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates caret annotation
+title: "PdfContentEditor.CreateCaret"
+linktitle: "CreateCaret"
+articleTitle: "CreateCaret"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates caret annotation."
 type: docs
-weight: 130
-url: /net/aspose.pdf.facades/pdfcontenteditor/createcaret/
+weight: 350
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createcaret/"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreateCaret method
 
@@ -38,8 +41,7 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

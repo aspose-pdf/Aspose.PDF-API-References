@@ -1,10 +1,13 @@
 ---
-title: Enum ValidationMethod
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.ValidationMethod enum. Represents an enum defined the method used for certificate validation
+title: "ValidationMethod Enum"
+linktitle: "ValidationMethod"
+articleTitle: "ValidationMethod"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Security.ValidationMethod enum. Represents an enum defined the method used for certificate validation."
 type: docs
-weight: 10430
-url: /net/aspose.pdf.security/validationmethod/
+weight: 180
+url: "/net/aspose.pdf.security/validationmethod/"
+product_version: "26.9"
 ---
 ## ValidationMethod enumeration
 
@@ -25,7 +28,6 @@ public enum ValidationMethod
 
 ### See Also
 
-* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
 

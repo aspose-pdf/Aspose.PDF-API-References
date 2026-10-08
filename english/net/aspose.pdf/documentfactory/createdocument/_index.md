@@ -1,12 +1,15 @@
 ---
-title: DocumentFactory.CreateDocument
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentFactory method. Create document
+title: "DocumentFactory.CreateDocument"
+linktitle: "CreateDocument"
+articleTitle: "CreateDocument"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentFactory method. Create document."
 type: docs
 weight: 20
-url: /net/aspose.pdf/documentfactory/createdocument/
+url: "/net/aspose.pdf/documentfactory/createdocument/"
+product_version: "26.9"
 ---
-## CreateDocument(Stream, LoadOptions) {#createdocument_2}
+## CreateDocument(Stream, LoadOptions) {#createdocument}
 
 Create document.
 
@@ -25,15 +28,15 @@ Created document.
 
 ### See Also
 
-* class [Document](../../document/)
-* class [LoadOptions](../../loadoptions/)
-* class [DocumentFactory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [LoadOptions](../../loadoptions/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateDocument() {#createdocument}
+## CreateDocument() {#createdocument_1}
 
 Create empty document.
 
@@ -47,14 +50,14 @@ Created document.
 
 ### See Also
 
-* class [Document](../../document/)
-* class [DocumentFactory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateDocument(Stream) {#createdocument_1}
+## CreateDocument(Stream) {#createdocument_2}
 
 Load document from a stream.
 
@@ -72,14 +75,14 @@ Created document.
 
 ### See Also
 
-* class [Document](../../document/)
-* class [DocumentFactory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateDocument(Stream, string) {#createdocument_3}
+## CreateDocument(Stream, string) {#createdocument_3}
 
 Load password protected document from a stream.
 
@@ -98,10 +101,10 @@ Created document.
 
 ### See Also
 
-* class [Document](../../document/)
-* class [DocumentFactory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -123,9 +126,8 @@ Created document.
 
 ### See Also
 
-* class [Document](../../document/)
-* class [DocumentFactory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../document/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

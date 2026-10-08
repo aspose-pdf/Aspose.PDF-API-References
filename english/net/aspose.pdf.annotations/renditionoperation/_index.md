@@ -1,10 +1,13 @@
 ---
-title: Enum RenditionOperation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.RenditionOperation enum. The operation to perform when the action is triggered
+title: "RenditionOperation Enum"
+linktitle: "RenditionOperation"
+articleTitle: "RenditionOperation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.RenditionOperation enum. The operation to perform when the action is triggered."
 type: docs
-weight: 2540
-url: /net/aspose.pdf.annotations/renditionoperation/
+weight: 1070
+url: "/net/aspose.pdf.annotations/renditionoperation/"
+product_version: "26.9"
 ---
 ## RenditionOperation enumeration
 
@@ -27,7 +30,6 @@ public enum RenditionOperation
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

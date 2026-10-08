@@ -1,10 +1,13 @@
 ---
-title: SetDash.SetDash
-second_title: Aspose.PDF for .NET API Reference
-description: SetDash constructor. Creates set dash pattern operator
+title: "SetDash.SetDash"
+linktitle: "SetDash"
+articleTitle: "SetDash"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetDash constructor. Creates set dash pattern operator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/setdash/setdash/
+url: "/net/aspose.pdf.operators/setdash/setdash/"
+product_version: "26.9"
 ---
 ## SetDash constructor
 
@@ -21,8 +24,7 @@ public SetDash(int[] pattern, int phase)
 
 ### See Also
 
-* class [SetDash](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetDash](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

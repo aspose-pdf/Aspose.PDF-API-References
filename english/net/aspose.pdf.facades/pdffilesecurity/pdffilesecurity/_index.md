@@ -1,10 +1,13 @@
 ---
-title: PdfFileSecurity.PdfFileSecurity
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity constructor. Initialize the object of PdfFileSecurity
+title: "PdfFileSecurity.PdfFileSecurity"
+linktitle: "PdfFileSecurity"
+articleTitle: "PdfFileSecurity"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSecurity constructor. Initialize the object of PdfFileSecurity."
 type: docs
 weight: 10
-url: /net/aspose.pdf.facades/pdffilesecurity/pdffilesecurity/
+url: "/net/aspose.pdf.facades/pdffilesecurity/pdffilesecurity/"
+product_version: "26.9"
 ---
 ## PdfFileSecurity() {#constructor}
 
@@ -16,9 +19,9 @@ public PdfFileSecurity()
 
 ### See Also
 
-* class [PdfFileSecurity](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,9 +39,8 @@ public PdfFileSecurity(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [PdfFileSecurity](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

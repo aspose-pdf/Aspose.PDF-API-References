@@ -1,12 +1,15 @@
 ---
-title: PrinterMarkAnnotation.AddPrinterMarks
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterMarkAnnotation method. Adds printers marks to all pages in the specified document
+title: "PrinterMarkAnnotation.AddPrinterMarks"
+linktitle: "AddPrinterMarks"
+articleTitle: "AddPrinterMarks"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterMarkAnnotation method. Adds printer's marks to all pages in the specified document."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/printermarkannotation/addprintermarks/
+url: "/net/aspose.pdf.annotations/printermarkannotation/addprintermarks/"
+product_version: "26.9"
 ---
-## AddPrinterMarks(Document, PrinterMarksKind) {#addprintermarks}
+## AddPrinterMarks(Document, PrinterMarksKind) {#addprintermarks}
 
 Adds printer's marks to all pages in the specified document.
 
@@ -27,19 +30,20 @@ public static void AddPrinterMarks(Document document, PrinterMarksKind marksKind
 
 ## Remarks
 
-This method adds various types of printer's marks based on the provided [`PrinterMarksKind`](../../printermarkskind/) flags. If None is provided, no marks are added.
+This method adds various types of printer's marks based on the provided [`PrinterMarksKind`](../../printermarkskind/) flags. 
+ If `None` is provided, no marks are added.
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* enum [PrinterMarksKind](../../printermarkskind/)
-* class [PrinterMarkAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* enum [PrinterMarksKind](../../printermarkskind/)
+* class [PrinterMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddPrinterMarks(Page, PrinterMarksKind) {#addprintermarks_1}
+## AddPrinterMarks(Page, PrinterMarksKind) {#addprintermarks_1}
 
 Adds printer's marks to the specified page.
 
@@ -60,14 +64,14 @@ public static void AddPrinterMarks(Page page, PrinterMarksKind marksKind)
 
 ## Remarks
 
-This method adds various types of printer's marks based on the provided [`PrinterMarksKind`](../../printermarkskind/) flags. If None is provided, no marks are added.
+This method adds various types of printer's marks based on the provided [`PrinterMarksKind`](../../printermarkskind/) flags. 
+ If `None` is provided, no marks are added.
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* enum [PrinterMarksKind](../../printermarkskind/)
-* class [PrinterMarkAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* enum [PrinterMarksKind](../../printermarkskind/)
+* class [PrinterMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

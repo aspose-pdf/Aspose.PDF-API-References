@@ -1,10 +1,13 @@
 ---
-title: IOpenAIClient.ModifyThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Modifies an existing message within a thread asynchronously
+title: "IOpenAIClient.ModifyThreadMessageAsync"
+linktitle: "ModifyThreadMessageAsync"
+articleTitle: "ModifyThreadMessageAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Modifies an existing message within a thread asynchronously."
 type: docs
-weight: 390
-url: /net/aspose.pdf.ai/iopenaiclient/modifythreadmessageasync/
+weight: 100
+url: "/net/aspose.pdf.ai/iopenaiclient/modifythreadmessageasync/"
+product_version: "26.9"
 ---
 ## IOpenAIClient.ModifyThreadMessageAsync method
 
@@ -36,10 +39,9 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [ThreadMessageResponse](../../threadmessageresponse/)
-* class [ThreadMessageModifyRequest](../../threadmessagemodifyrequest/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [ThreadMessageModifyRequest](../../threadmessagemodifyrequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

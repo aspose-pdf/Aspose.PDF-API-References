@@ -1,10 +1,14 @@
 ---
-title: Class Rows
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Rows class. Represents a rows collection of table
+title: "Rows Class"
+linktitle: "Rows"
+articleTitle: "Rows"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Rows class. Represents a rows collection of table."
 type: docs
-weight: 10130
-url: /net/aspose.pdf/rows/
+weight: 2690
+url: "/net/aspose.pdf/rows/"
+keywords: "Rows, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## Rows class
 
@@ -24,8 +28,8 @@ public sealed class Rows : IEnumerable<Row>
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.pdf/rows/count/) { get; } | The items count. |
-| [Item](../../aspose.pdf/rows/item/) { get; set; } | Gets or sets row. |
+| [Count](../../aspose.pdf/rows/count/) { get; } | The items count. |
+| [Item](../../aspose.pdf/rows/item/) { get; set; } | Gets or sets row. |
 
 ## Methods
 
@@ -38,12 +42,11 @@ public sealed class Rows : IEnumerable<Row>
 | [IndexOf](../../aspose.pdf/rows/indexof/)(Row) | Returns index of row in collection. |
 | [Remove](../../aspose.pdf/rows/remove/)(Row) | Remove row from collection. |
 | [RemoveAt](../../aspose.pdf/rows/removeat/)(int) | Remove row at position from collection. |
-| [RemoveRange](../../aspose.pdf/rows/removerange/)(int, int) | Remove row set from collection. |
+| [RemoveRange](../../aspose.pdf/rows/removerange/)(int, int) | Remove row set from collection. |
 
 ### See Also
 
-* class [Row](../row/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [Row](../row/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

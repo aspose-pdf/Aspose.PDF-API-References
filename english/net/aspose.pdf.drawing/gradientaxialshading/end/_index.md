@@ -1,10 +1,13 @@
 ---
-title: GradientAxialShading.End
-second_title: Aspose.PDF for .NET API Reference
-description: GradientAxialShading property. Gets or sets end point
+title: "GradientAxialShading.End"
+linktitle: "End"
+articleTitle: "End"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GradientAxialShading property. Gets or sets end point."
 type: docs
-weight: 20
-url: /net/aspose.pdf.drawing/gradientaxialshading/end/
+weight: 40
+url: "/net/aspose.pdf.drawing/gradientaxialshading/end/"
+product_version: "26.9"
 ---
 ## GradientAxialShading.End property
 
@@ -16,9 +19,8 @@ public Point End { get; set; }
 
 ### See Also
 
-* class [Point](../../../aspose.pdf/point/)
-* class [GradientAxialShading](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Point](../../../aspose.pdf/point/)
+* class [GradientAxialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 

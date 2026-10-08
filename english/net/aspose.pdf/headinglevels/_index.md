@@ -1,10 +1,14 @@
 ---
-title: Class HeadingLevels
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeadingLevels class. Represents a class to work with header levels based on font size
+title: "HeadingLevels Class"
+linktitle: "HeadingLevels"
+articleTitle: "HeadingLevels"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HeadingLevels class. Represents a class to work with header levels based on font size."
 type: docs
-weight: 5610
-url: /net/aspose.pdf/headinglevels/
+weight: 1090
+url: "/net/aspose.pdf/headinglevels/"
+keywords: "HeadingLevels, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## HeadingLevels class
 
@@ -25,7 +29,7 @@ public class HeadingLevels
 
 | Name | Description |
 | --- | --- |
-| [AllLevels](../../aspose.pdf/headinglevels/alllevels/) { get; } | Gets all heading levels. |
+| [AllLevels](../../aspose.pdf/headinglevels/alllevels/) { get; } | Gets all heading levels. |
 
 ## Methods
 
@@ -35,7 +39,6 @@ public class HeadingLevels
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

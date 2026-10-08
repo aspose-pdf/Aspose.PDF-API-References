@@ -1,10 +1,13 @@
 ---
-title: Enum LineEnding
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.LineEnding enum. Enumerates the line ending styles to be used in drawing the line
+title: "LineEnding Enum"
+linktitle: "LineEnding"
+articleTitle: "LineEnding"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.LineEnding enum. Enumerates the line ending styles to be used in drawing the line."
 type: docs
-weight: 2080
-url: /net/aspose.pdf.annotations/lineending/
+weight: 610
+url: "/net/aspose.pdf.annotations/lineending/"
+product_version: "26.9"
 ---
 ## LineEnding enumeration
 
@@ -31,7 +34,6 @@ public enum LineEnding
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

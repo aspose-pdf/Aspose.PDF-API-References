@@ -1,10 +1,13 @@
 ---
-title: Enum PdfAStandardVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.PdfAStandardVersion enum. Specifies the PDF/A standard version for a PDF document
+title: "PdfAStandardVersion Enum"
+linktitle: "PdfAStandardVersion"
+articleTitle: "PdfAStandardVersion"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfAStandardVersion enum. Specifies the PDF/A standard version for a PDF document."
 type: docs
-weight: 7660
-url: /net/aspose.pdf.lowcode/pdfastandardversion/
+weight: 610
+url: "/net/aspose.pdf.lowcode/pdfastandardversion/"
+product_version: "26.9"
 ---
 ## PdfAStandardVersion enumeration
 
@@ -33,7 +36,6 @@ public enum PdfAStandardVersion
 
 ### See Also
 
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

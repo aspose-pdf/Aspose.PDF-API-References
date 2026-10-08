@@ -1,10 +1,13 @@
 ---
-title: UnsignedContentAbsorber.UnsignedContent.Pages
-second_title: Aspose.PDF for .NET API Reference
-description: UnsignedContent property. Gets a list of pages whose content is unsigned or has been incrementally changed
+title: "UnsignedContentAbsorber.UnsignedContent.Pages"
+linktitle: "Pages"
+articleTitle: "Pages"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "UnsignedContent property. Gets a list of pages whose content is unsigned or has been incrementally changed."
 type: docs
-weight: 30
-url: /net/aspose.pdf.security/unsignedcontentabsorber.unsignedcontent/pages/
+weight: 10
+url: "/net/aspose.pdf.security/unsignedcontentabsorber.unsignedcontent/pages/"
+product_version: "26.9"
 ---
 ## UnsignedContentAbsorber.UnsignedContent.Pages property
 
@@ -20,9 +23,8 @@ The page is considered modified and XForms are not checked and do not appear in 
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [UnsignedContent](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [UnsignedContent](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 

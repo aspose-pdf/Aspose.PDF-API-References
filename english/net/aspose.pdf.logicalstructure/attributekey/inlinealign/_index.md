@@ -1,10 +1,13 @@
 ---
-title: AttributeKey.InlineAlign
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey field. InlineAlign attribute Layout attribute owner
+title: "AttributeKey.InlineAlign"
+linktitle: "InlineAlign"
+articleTitle: "InlineAlign"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. InlineAlign attribute (Layout attribute owner)."
 type: docs
-weight: 190
-url: /net/aspose.pdf.logicalstructure/attributekey/inlinealign/
+weight: 230
+url: "/net/aspose.pdf.logicalstructure/attributekey/inlinealign/"
+product_version: "26.9"
 ---
 ## AttributeKey.InlineAlign field
 
@@ -16,8 +19,7 @@ public static readonly AttributeKey InlineAlign;
 
 ### See Also
 
-* class [AttributeKey](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

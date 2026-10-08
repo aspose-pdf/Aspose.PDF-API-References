@@ -1,12 +1,15 @@
 ---
-title: PdfJavaScriptStripper.Strip
-second_title: Aspose.PDF for .NET API Reference
-description: PdfJavaScriptStripper method. Remove Java Script from document
+title: "PdfJavaScriptStripper.Strip"
+linktitle: "Strip"
+articleTitle: "Strip"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfJavaScriptStripper method. Remove Java Script from document."
 type: docs
 weight: 20
-url: /net/aspose.pdf.facades/pdfjavascriptstripper/strip/
+url: "/net/aspose.pdf.facades/pdfjavascriptstripper/strip/"
+product_version: "26.9"
 ---
-## Strip(string, string) {#strip_1}
+## Strip(string, string) {#strip}
 
 Remove Java Script from document.
 
@@ -25,13 +28,13 @@ true if JavaScript was stripped successfully.
 
 ### See Also
 
-* class [PdfJavaScriptStripper](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfJavaScriptStripper](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Strip(Stream, Stream) {#strip}
+## Strip(Stream, Stream) {#strip_1}
 
 Remove Java Script from the document.
 
@@ -50,8 +53,7 @@ true if JavaScript was stripped successfully.
 
 ### See Also
 
-* class [PdfJavaScriptStripper](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfJavaScriptStripper](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

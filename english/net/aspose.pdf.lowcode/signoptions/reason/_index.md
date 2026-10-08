@@ -1,10 +1,13 @@
 ---
-title: SignOptions.Reason
-second_title: Aspose.PDF for .NET API Reference
-description: SignOptions property. The reason of signature
+title: "SignOptions.Reason"
+linktitle: "Reason"
+articleTitle: "Reason"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignOptions property. The reason of signature."
 type: docs
 weight: 60
-url: /net/aspose.pdf.lowcode/signoptions/reason/
+url: "/net/aspose.pdf.lowcode/signoptions/reason/"
+product_version: "26.9"
 ---
 ## SignOptions.Reason property
 
@@ -16,8 +19,7 @@ public string Reason { get; set; }
 
 ### See Also
 
-* class [SignOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

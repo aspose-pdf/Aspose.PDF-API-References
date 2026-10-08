@@ -1,10 +1,13 @@
 ---
-title: AbsorbedTable.RowList
-second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedTable property. Gets readonly IList containing rows of the table
+title: "AbsorbedTable.RowList"
+linktitle: "RowList"
+articleTitle: "RowList"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AbsorbedTable property. Gets readonly IList containing rows of the table"
 type: docs
-weight: 30
-url: /net/aspose.pdf.text/absorbedtable/rowlist/
+weight: 20
+url: "/net/aspose.pdf.text/absorbedtable/rowlist/"
+product_version: "26.9"
 ---
 ## AbsorbedTable.RowList property
 
@@ -16,9 +19,8 @@ public IList<AbsorbedRow> RowList { get; }
 
 ### See Also
 
-* class [AbsorbedRow](../../absorbedrow/)
-* class [AbsorbedTable](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AbsorbedRow](../../absorbedrow/)
+* class [AbsorbedTable](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

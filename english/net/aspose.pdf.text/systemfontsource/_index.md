@@ -1,10 +1,14 @@
 ---
-title: Class SystemFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.SystemFontSource class. Represents all fonts installed to the system
+title: "SystemFontSource Class"
+linktitle: "SystemFontSource"
+articleTitle: "SystemFontSource"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.SystemFontSource class. Represents all fonts installed to the system."
 type: docs
-weight: 11130
-url: /net/aspose.pdf.text/systemfontsource/
+weight: 340
+url: "/net/aspose.pdf.text/systemfontsource/"
+keywords: "SystemFontSource, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## SystemFontSource class
 
@@ -24,12 +28,11 @@ public sealed class SystemFontSource : FontSource
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/systemfontsource/equals/)(object) | Check if system font source objects are equal. |
+| override [Equals](../../aspose.pdf.text/systemfontsource/equals/)(object) | Check if system font source objects are equal. |
 
 ### See Also
 
-* class [FontSource](../fontsource/)
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* class [FontSource](../fontsource/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

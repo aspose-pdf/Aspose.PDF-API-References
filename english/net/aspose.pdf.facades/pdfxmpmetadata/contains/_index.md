@@ -1,12 +1,15 @@
 ---
-title: PdfXmpMetadata.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata method. Checks if dictionary contains the specified key
+title: "PdfXmpMetadata.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata method. Checks if dictionary contains the specified key."
 type: docs
-weight: 130
-url: /net/aspose.pdf.facades/pdfxmpmetadata/contains/
+weight: 120
+url: "/net/aspose.pdf.facades/pdfxmpmetadata/contains/"
+product_version: "26.9"
 ---
-## Contains(string) {#contains_2}
+## Contains(string) {#contains}
 
 Checks if dictionary contains the specified key.
 
@@ -34,13 +37,13 @@ if (!xmp.Contains("xmp:Nickname"))
 
 ### See Also
 
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Contains(DefaultMetadataProperties) {#contains}
+## Contains(DefaultMetadataProperties) {#contains_1}
 
 Checks if dictionary contains the specified property.
 
@@ -58,14 +61,14 @@ True - if the dictionary contains the specified property; otherwise, false.
 
 ### See Also
 
-* enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Contains(KeyValuePair&lt;string, XmpValue&gt;) {#contains_1}
+## Contains(KeyValuePair&lt;string, XmpValue&gt;) {#contains_2}
 
 Checks does specified key-value pair is contained in the dictionary.
 
@@ -83,9 +86,8 @@ true if this pauir was found.
 
 ### See Also
 
-* class [XmpValue](../../../aspose.pdf/xmpvalue/)
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,17 @@
 ---
-title: Table.ImportDataView
-second_title: Aspose.PDF for .NET API Reference
-description: Table method. Imports a DataView objects data into the table
+title: "Table.ImportDataView"
+linktitle: "ImportDataView"
+articleTitle: "ImportDataView"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Table method. Imports a DataView object's data into the table."
 type: docs
-weight: 270
-url: /net/aspose.pdf/table/importdataview/
+weight: 90
+url: "/net/aspose.pdf/table/importdataview/"
+product_version: "26.9"
 ---
 ## Table.ImportDataView method
 
-Imports a DataView object's data into the table.
+Imports a `DataView` object's data into the table.
 
 ```csharp
 public void ImportDataView(DataView sourceDataView, bool isColumnNamesImported, int firstFilledRow, 
@@ -26,8 +29,7 @@ public void ImportDataView(DataView sourceDataView, bool isColumnNamesImported, 
 
 ### See Also
 
-* class [Table](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

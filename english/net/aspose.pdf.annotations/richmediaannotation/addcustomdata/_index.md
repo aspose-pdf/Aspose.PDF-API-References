@@ -1,10 +1,13 @@
 ---
-title: RichMediaAnnotation.AddCustomData
-second_title: Aspose.PDF for .NET API Reference
-description: RichMediaAnnotation method. Add custom named data for example required for flash script
+title: "RichMediaAnnotation.AddCustomData"
+linktitle: "AddCustomData"
+articleTitle: "AddCustomData"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RichMediaAnnotation method. Add custom named data (for example required for flash script)."
 type: docs
-weight: 90
-url: /net/aspose.pdf.annotations/richmediaannotation/addcustomdata/
+weight: 30
+url: "/net/aspose.pdf.annotations/richmediaannotation/addcustomdata/"
+product_version: "26.9"
 ---
 ## RichMediaAnnotation.AddCustomData method
 
@@ -21,8 +24,7 @@ public void AddCustomData(string name, Stream data)
 
 ### See Also
 
-* class [RichMediaAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [RichMediaAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

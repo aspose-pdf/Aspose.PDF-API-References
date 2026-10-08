@@ -1,10 +1,13 @@
 ---
-title: SetDash.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SetDash method. Gets operator string representation
+title: "SetDash.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetDash method. Gets operator string representation."
 type: docs
-weight: 50
-url: /net/aspose.pdf.operators/setdash/tostring/
+weight: 30
+url: "/net/aspose.pdf.operators/setdash/tostring/"
+product_version: "26.9"
 ---
 ## SetDash.ToString method
 
@@ -20,8 +23,7 @@ public override string ToString()
 
 ### See Also
 
-* class [SetDash](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetDash](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

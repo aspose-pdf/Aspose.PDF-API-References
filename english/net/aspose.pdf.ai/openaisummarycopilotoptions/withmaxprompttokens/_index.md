@@ -1,10 +1,13 @@
 ---
-title: OpenAISummaryCopilotOptions.WithMaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions method. Sets the max prompt tokens for the summary copilot options
+title: "OpenAISummaryCopilotOptions.WithMaxPromptTokens"
+linktitle: "WithMaxPromptTokens"
+articleTitle: "WithMaxPromptTokens"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAISummaryCopilotOptions method. Sets the max prompt tokens for the summary copilot options."
 type: docs
-weight: 110
-url: /net/aspose.pdf.ai/openaisummarycopilotoptions/withmaxprompttokens/
+weight: 70
+url: "/net/aspose.pdf.ai/openaisummarycopilotoptions/withmaxprompttokens/"
+product_version: "26.9"
 ---
 ## OpenAISummaryCopilotOptions.WithMaxPromptTokens method
 
@@ -24,8 +27,7 @@ The current instance of [`OpenAISummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAISummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

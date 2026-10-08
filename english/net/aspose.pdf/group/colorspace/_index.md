@@ -1,10 +1,13 @@
 ---
-title: Group.ColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Group property. The group color space
+title: "Group.ColorSpace"
+linktitle: "ColorSpace"
+articleTitle: "ColorSpace"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Group property. The group color space."
 type: docs
 weight: 20
-url: /net/aspose.pdf/group/colorspace/
+url: "/net/aspose.pdf/group/colorspace/"
+product_version: "26.9"
 ---
 ## Group.ColorSpace property
 
@@ -16,9 +19,8 @@ public ColorSpace ColorSpace { get; set; }
 
 ### See Also
 
-* enum [ColorSpace](../../colorspace/)
-* class [Group](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [ColorSpace](../../colorspace/)
+* class [Group](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

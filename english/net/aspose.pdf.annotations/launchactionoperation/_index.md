@@ -1,10 +1,13 @@
 ---
-title: Enum LaunchActionOperation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.LaunchActionOperation enum. Enumerates the operations to perform with document during launch action executing
+title: "LaunchActionOperation Enum"
+linktitle: "LaunchActionOperation"
+articleTitle: "LaunchActionOperation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.LaunchActionOperation enum. Enumerates the operations to perform with document during launch action executing."
 type: docs
-weight: 2050
-url: /net/aspose.pdf.annotations/launchactionoperation/
+weight: 580
+url: "/net/aspose.pdf.annotations/launchactionoperation/"
+product_version: "26.9"
 ---
 ## LaunchActionOperation enumeration
 
@@ -24,7 +27,6 @@ public enum LaunchActionOperation
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

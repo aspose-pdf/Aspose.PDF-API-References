@@ -1,10 +1,13 @@
 ---
-title: ChunkingOptions.Validate
-second_title: Aspose.PDF for .NET API Reference
-description: ChunkingOptions method. Validates the current options configuration
+title: "ChunkingOptions.Validate"
+linktitle: "Validate"
+articleTitle: "Validate"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChunkingOptions method. Validates the current options configuration."
 type: docs
-weight: 40
-url: /net/aspose.pdf.ai/chunkingoptions/validate/
+weight: 20
+url: "/net/aspose.pdf.ai/chunkingoptions/validate/"
+product_version: "26.9"
 ---
 ## ChunkingOptions.Validate method
 
@@ -22,8 +25,7 @@ public void Validate()
 
 ### See Also
 
-* class [ChunkingOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ChunkingOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

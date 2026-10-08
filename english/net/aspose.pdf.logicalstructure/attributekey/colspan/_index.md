@@ -1,10 +1,13 @@
 ---
-title: AttributeKey.ColSpan
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey field. ColSpan attribute Table attribute owner
+title: "AttributeKey.ColSpan"
+linktitle: "ColSpan"
+articleTitle: "ColSpan"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. ColSpan attribute (Table attribute owner)."
 type: docs
-weight: 100
-url: /net/aspose.pdf.logicalstructure/attributekey/colspan/
+weight: 420
+url: "/net/aspose.pdf.logicalstructure/attributekey/colspan/"
+product_version: "26.9"
 ---
 ## AttributeKey.ColSpan field
 
@@ -16,8 +19,7 @@ public static readonly AttributeKey ColSpan;
 
 ### See Also
 
-* class [AttributeKey](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

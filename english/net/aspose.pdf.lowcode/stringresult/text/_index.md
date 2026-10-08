@@ -1,10 +1,13 @@
 ---
-title: StringResult.Text
-second_title: Aspose.PDF for .NET API Reference
-description: StringResult property. Returns string representation of the result
+title: "StringResult.Text"
+linktitle: "Text"
+articleTitle: "Text"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StringResult property. Returns string representation of the result."
 type: docs
-weight: 50
-url: /net/aspose.pdf.lowcode/stringresult/text/
+weight: 80
+url: "/net/aspose.pdf.lowcode/stringresult/text/"
+product_version: "26.9"
 ---
 ## StringResult.Text property
 
@@ -16,8 +19,7 @@ public string Text { get; }
 
 ### See Also
 
-* class [StringResult](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StringResult](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

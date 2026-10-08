@@ -1,10 +1,13 @@
 ---
-title: AttributeKey.EndIndent
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey field. EndIndent attribute Layout attribute owner
+title: "AttributeKey.EndIndent"
+linktitle: "EndIndent"
+articleTitle: "EndIndent"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. EndIndent attribute (Layout attribute owner)."
 type: docs
-weight: 150
-url: /net/aspose.pdf.logicalstructure/attributekey/endindent/
+weight: 160
+url: "/net/aspose.pdf.logicalstructure/attributekey/endindent/"
+product_version: "26.9"
 ---
 ## AttributeKey.EndIndent field
 
@@ -16,8 +19,7 @@ public static readonly AttributeKey EndIndent;
 
 ### See Also
 
-* class [AttributeKey](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

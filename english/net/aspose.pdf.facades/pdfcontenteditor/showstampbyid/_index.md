@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.ShowStampById
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Shows stamp which was hidden by HiddenStampById
+title: "PdfContentEditor.ShowStampById"
+linktitle: "ShowStampById"
+articleTitle: "ShowStampById"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Shows stamp which was hidden by HiddenStampById."
 type: docs
-weight: 460
-url: /net/aspose.pdf.facades/pdfcontenteditor/showstampbyid/
+weight: 580
+url: "/net/aspose.pdf.facades/pdfcontenteditor/showstampbyid/"
+product_version: "26.9"
 ---
 ## PdfContentEditor.ShowStampById method
 
@@ -21,8 +24,7 @@ public void ShowStampById(int pageNumber, int stampId)
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

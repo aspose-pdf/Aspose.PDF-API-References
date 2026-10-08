@@ -1,10 +1,14 @@
 ---
-title: Class EpubLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.EpubLoadOptions class. Contains options for loading/importing EPUB file into pdf document
+title: "EpubLoadOptions Class"
+linktitle: "EpubLoadOptions"
+articleTitle: "EpubLoadOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.EpubLoadOptions class. Contains options for loading/importing EPUB file into pdf document."
 type: docs
-weight: 4210
-url: /net/aspose.pdf/epubloadoptions/
+weight: 750
+url: "/net/aspose.pdf/epubloadoptions/"
+keywords: "EpubLoadOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## EpubLoadOptions class
 
@@ -25,12 +29,12 @@ public sealed class EpubLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [CustomCss](../../aspose.pdf/epubloadoptions/customcss/) { get; set; } | Gets or sets the custom Css to apply when opening the Epub document. |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When `true`, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default `false`. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../loadoptions/) describes. |
-| [Margin](../../aspose.pdf/epubloadoptions/margin/) { get; set; } | Gets reference on object that represent marging info. |
-| [PageSize](../../aspose.pdf/epubloadoptions/pagesize/) { get; } | Gets or sets output page size for import. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+| [CustomCss](../../aspose.pdf/epubloadoptions/customcss/) { get; set; } | Gets or sets the custom Css to apply when opening the Epub document. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When `true`, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../loadoptions/) describes. |
+| [Margin](../../aspose.pdf/epubloadoptions/margin/) { get; set; } | Gets reference on object that represent marging info. |
+| [PageSize](../../aspose.pdf/epubloadoptions/pagesize/) { get; } | Gets or sets output page size for import. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
 ## Fields
 
@@ -41,8 +45,7 @@ public sealed class EpubLoadOptions : LoadOptions
 
 ### See Also
 
-* class [LoadOptions](../loadoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

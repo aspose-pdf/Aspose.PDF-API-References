@@ -1,14 +1,18 @@
 ---
-title: TextBoxField.AddBarcode
-second_title: Aspose.PDF for .NET API Reference
-description: TextBoxField method. Adds barcode 128 into the field. Field value will be changed onto the code and field become read only
+title: "TextBoxField.AddBarcode"
+linktitle: "AddBarcode"
+articleTitle: "AddBarcode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextBoxField method. Adds barcode 128 into the field. Field value will be changed onto the code and field become read only."
 type: docs
-weight: 90
-url: /net/aspose.pdf.forms/textboxfield/addbarcode/
+weight: 60
+url: "/net/aspose.pdf.forms/textboxfield/addbarcode/"
+product_version: "26.9"
 ---
 ## TextBoxField.AddBarcode method
 
-Adds barcode 128 into the field. Field value will be changed onto the code and field become read only.
+Adds barcode 128 into the field. 
+ Field value will be changed onto the code and field become read only.
 
 ```csharp
 public void AddBarcode(string code)
@@ -20,8 +24,7 @@ public void AddBarcode(string code)
 
 ### See Also
 
-* class [TextBoxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

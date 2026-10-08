@@ -1,12 +1,15 @@
 ---
-title: FontAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: FontAbsorber method. Performs search in the specified range of pages of the document
+title: "FontAbsorber.Visit"
+linktitle: "Visit"
+articleTitle: "Visit"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontAbsorber method. Performs search in the specified range of pages of the document."
 type: docs
-weight: 30
-url: /net/aspose.pdf.text/fontabsorber/visit/
+weight: 20
+url: "/net/aspose.pdf.text/fontabsorber/visit/"
+product_version: "26.9"
 ---
-## Visit(Document, int, int) {#visit_1}
+## Visit(Document, int, int) {#visit}
 
 Performs search in the specified range of pages of the document.
 
@@ -22,14 +25,14 @@ public virtual void Visit(Document pdf, int startPage, int pageCount)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [FontAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Visit(Document) {#visit}
+## Visit(Document) {#visit_1}
 
 Performs search on the specified document.
 
@@ -43,9 +46,8 @@ public virtual void Visit(Document pdf)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [FontAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

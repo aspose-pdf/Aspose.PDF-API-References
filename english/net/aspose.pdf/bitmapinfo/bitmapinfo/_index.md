@@ -1,14 +1,17 @@
 ---
-title: BitmapInfo.BitmapInfo
-second_title: Aspose.PDF for .NET API Reference
-description: BitmapInfo constructor. Creates a new instance of the  class
+title: "BitmapInfo.BitmapInfo"
+linktitle: "BitmapInfo"
+articleTitle: "BitmapInfo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BitmapInfo constructor. Creates a new instance of the class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/bitmapinfo/bitmapinfo/
+url: "/net/aspose.pdf/bitmapinfo/bitmapinfo/"
+product_version: "26.9"
 ---
 ## BitmapInfo constructor
 
-Creates a new instance of the  class.
+Creates a new instance of the class.
 
 ```csharp
 public BitmapInfo(byte[] pixelBytes, int width, int height, PixelFormat format)
@@ -23,9 +26,9 @@ public BitmapInfo(byte[] pixelBytes, int width, int height, PixelFormat format)
 
 ### See Also
 
-* enum [PixelFormat](../../bitmapinfo.pixelformat/)
-* class [BitmapInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* [BitmapInfo](../bitmapinfo/)
+* enum [PixelFormat](../../bitmapinfo.pixelformat/)
+* class [BitmapInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

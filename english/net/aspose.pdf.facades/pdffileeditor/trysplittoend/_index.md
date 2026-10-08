@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.TrySplitToEnd
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Splits from location and saves the rear part as a new file
+title: "PdfFileEditor.TrySplitToEnd"
+linktitle: "TrySplitToEnd"
+articleTitle: "TrySplitToEnd"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Splits from location, and saves the rear part as a new file."
 type: docs
-weight: 470
-url: /net/aspose.pdf.facades/pdffileeditor/trysplittoend/
+weight: 190
+url: "/net/aspose.pdf.facades/pdffileeditor/trysplittoend/"
+product_version: "26.9"
 ---
-## TrySplitToEnd(string, int, string) {#trysplittoend_1}
+## TrySplitToEnd(string, int, string) {#trysplittoend}
 
 Splits from location, and saves the rear part as a new file.
 
@@ -26,7 +29,8 @@ True for success, or false.
 
 ## Remarks
 
-The TrySplitToEnd method is like the SplitToEnd method, except the TrySplitToEnd method does not throw an exception if the operation fails.
+The TrySplitToEnd method is like the SplitToEnd method, except the TrySplitToEnd 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -37,13 +41,13 @@ bool result = pfe.TrySplitToEnd("input.pdf", 5, "out.pdf");
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TrySplitToEnd(Stream, int, Stream) {#trysplittoend}
+## TrySplitToEnd(Stream, int, Stream) {#trysplittoend_1}
 
 Splits from specified location, and saves the rear part as a new file Stream.
 
@@ -63,7 +67,9 @@ True for success, or false.
 
 ## Remarks
 
-The streams are NOT closed after this operation unless CloseConcatedStreams is specified. The TrySplitToEnd method is like the SplitToEnd method, except the TrySplitToEnd method does not throw an exception if the operation fails.
+The streams are NOT closed after this operation unless CloseConcatedStreams is specified.
+ The TrySplitToEnd method is like the SplitToEnd method, except the TrySplitToEnd 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -76,8 +82,7 @@ bool result = pfe.TrySplitToEnd(sourceStream, 5, outStream);
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

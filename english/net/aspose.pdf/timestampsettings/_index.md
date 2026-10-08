@@ -1,10 +1,14 @@
 ---
-title: Class TimestampSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TimestampSettings class. Represents the ocsp settings using during signing process
+title: "TimestampSettings Class"
+linktitle: "TimestampSettings"
+articleTitle: "TimestampSettings"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.TimestampSettings class. Represents the ocsp settings using during signing process."
 type: docs
-weight: 11510
-url: /net/aspose.pdf/timestampsettings/
+weight: 3010
+url: "/net/aspose.pdf/timestampsettings/"
+keywords: "TimestampSettings, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## TimestampSettings class
 
@@ -18,19 +22,18 @@ public class TimestampSettings
 
 | Name | Description |
 | --- | --- |
-| [TimestampSettings](timestampsettings/)(string, string, DigestHashAlgorithm) | Initializes a new instance of the `TimestampSettings` class. |
+| [TimestampSettings](timestampsettings/)(string, string, DigestHashAlgorithm) | Initializes a new instance of the `TimestampSettings` class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [BasicAuthCredentials](../../aspose.pdf/timestampsettings/basicauthcredentials/) { get; set; } | Gets/sets the basic authentication credentials, Username and password are combined into a string "username:password". |
-| [DigestHashAlgorithm](../../aspose.pdf/timestampsettings/digesthashalgorithm/) { get; set; } | Gets/sets the digest algorithm for internal hash functions. |
-| [ServerUrl](../../aspose.pdf/timestampsettings/serverurl/) { get; set; } | Gets/sets the timestamp server url. |
+| [BasicAuthCredentials](../../aspose.pdf/timestampsettings/basicauthcredentials/) { get; set; } | Gets/sets the basic authentication credentials, Username and password are combined into a string "username:password". |
+| [DigestHashAlgorithm](../../aspose.pdf/timestampsettings/digesthashalgorithm/) { get; set; } | Gets/sets the digest algorithm for internal hash functions. |
+| [ServerUrl](../../aspose.pdf/timestampsettings/serverurl/) { get; set; } | Gets/sets the timestamp server url. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,14 +1,18 @@
 ---
-title: Class PngOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.PngOptions class. Represents Pdf to Png converter options for the Png plugin
+title: "PngOptions Class"
+linktitle: "PngOptions"
+articleTitle: "PngOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PngOptions class. Represents Pdf to Png converter options for the Png plugin."
 type: docs
-weight: 7820
-url: /net/aspose.pdf.lowcode/pngoptions/
+weight: 770
+url: "/net/aspose.pdf.lowcode/pngoptions/"
+keywords: "PngOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## PngOptions class
 
-Represents Pdf to Png converter options for the [`Png`](../png/) plugin.
+Represents Pdf to [Png](../png/) converter options for the [`Png`](../png/) plugin.
 
 ```csharp
 public sealed class PngOptions : PdfToImageOptions
@@ -24,12 +28,12 @@ public sealed class PngOptions : PdfToImageOptions
 
 | Name | Description |
 | --- | --- |
-| [ConversionMode](../../aspose.pdf.lowcode/pdftoimageoptions/conversionmode/) { get; } | Gets image conversion mode. |
-| [Inputs](../../aspose.pdf.lowcode/pdftoimageoptions/inputs/) { get; } | Returns [`PdfToImage`](../pdftoimage/) plugin data collection. |
-| override [OperationName](../../aspose.pdf.lowcode/pngoptions/operationname/) { get; } | Returns name of the operation. |
-| [OutputResolution](../../aspose.pdf.lowcode/pdftoimageoptions/outputresolution/) { get; set; } | Gets or sets the resolution value of the resulting images. |
-| [Outputs](../../aspose.pdf.lowcode/pdftoimageoptions/outputs/) { get; } |  |
-| [PageList](../../aspose.pdf.lowcode/pdftoimageoptions/pagelist/) { get; set; } | Gets or sets a list of pages for the process. |
+| [ConversionMode](../../aspose.pdf.lowcode/pdftoimageoptions/conversionmode/) { get; } | Gets image conversion mode. |
+| [Inputs](../../aspose.pdf.lowcode/pdftoimageoptions/inputs/) { get; } | Returns [`PdfToImage`](../pdftoimage/) plugin data collection. |
+| override [OperationName](../../aspose.pdf.lowcode/pngoptions/operationname/) { get; } | Returns name of the operation. |
+| [OutputResolution](../../aspose.pdf.lowcode/pdftoimageoptions/outputresolution/) { get; set; } | Gets or sets the resolution value of the resulting images. |
+| [Outputs](../../aspose.pdf.lowcode/pdftoimageoptions/outputs/) { get; } |  |
+| [PageList](../../aspose.pdf.lowcode/pdftoimageoptions/pagelist/) { get; set; } | Gets or sets a list of pages for the process. |
 
 ## Methods
 
@@ -40,8 +44,7 @@ public sealed class PngOptions : PdfToImageOptions
 
 ### See Also
 
-* class [PdfToImageOptions](../pdftoimageoptions/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfToImageOptions](../pdftoimageoptions/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

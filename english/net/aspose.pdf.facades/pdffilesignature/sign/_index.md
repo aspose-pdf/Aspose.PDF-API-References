@@ -1,12 +1,15 @@
 ---
-title: PdfFileSignature.Sign
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature method. Make a signature on the pdf document
+title: "PdfFileSignature.Sign"
+linktitle: "Sign"
+articleTitle: "Sign"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSignature method. Make a signature on the pdf document."
 type: docs
-weight: 300
-url: /net/aspose.pdf.facades/pdffilesignature/sign/
+weight: 70
+url: "/net/aspose.pdf.facades/pdffilesignature/sign/"
+product_version: "26.9"
 ---
-## Sign(int, string, string, string, bool, Rectangle) {#sign_1}
+## Sign(int, string, string, string, bool, Rectangle) {#sign}
 
 Make a signature on the pdf document.
 
@@ -50,13 +53,13 @@ pdfSign.Save(outFile)
 
 ### See Also
 
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Sign(int, string, string, string, bool, Rectangle, Signature) {#sign_2}
+## Sign(int, string, string, string, bool, Rectangle, Signature) {#sign_1}
 
 Sign the document with the given type signature.
 
@@ -100,14 +103,14 @@ pdfSign.Save()
 
 ### See Also
 
-* class [Signature](../../../aspose.pdf.forms/signature/)
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Sign(int, bool, Rectangle, Signature) {#sign}
+## Sign(int, bool, Rectangle, Signature) {#sign_2}
 
 Sign the document with the given type signature.
 
@@ -154,16 +157,19 @@ pdfSign.Save()
 
 ### See Also
 
-* class [Signature](../../../aspose.pdf.forms/signature/)
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Sign(string, string, string, string, Signature) {#sign_5}
+## Sign(string, string, string, string, Signature) {#sign_3}
 
-Sign the document with the given type signature which is placed in already presented signature field. Before signing signature field must be empty, i.e. field must not contain signature dictionary. Thus pdf document already has signature field, you should not supply the place to stamp the signature, corresponding page and rectangle are taken from signature field which is found by signature name (see SigName parameter).
+Sign the document with the given type signature which is placed in already presented signature field.
+ Before signing signature field must be empty, i.e. field must not contain signature dictionary.
+ Thus pdf document already has signature field, you should not supply the place to stamp the signature,
+ corresponding page and rectangle are taken from signature field which is found by signature name (see SigName parameter).
 
 ```csharp
 public void Sign(string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -202,16 +208,18 @@ pdfSign.Save()
 
 ### See Also
 
-* class [Signature](../../../aspose.pdf.forms/signature/)
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Sign(int, string, string, string, string, bool, Rectangle, Signature) {#sign_3}
+## Sign(int, string, string, string, string, bool, Rectangle, Signature) {#sign_4}
 
-Sign the document with the given type signature which is placed in already presented signature field. Before signing pdf document should already has signature field, corresponding page and rectangle are taken from signature field which is found by signature name (see SigName parameter).
+Sign the document with the given type signature which is placed in already presented signature field.
+ Before signing pdf document should already has signature field, corresponding page and rectangle are taken from 
+ signature field which is found by signature name (see SigName parameter).
 
 ```csharp
 public void Sign(int page, string SigName, string SigReason, string SigContact, string SigLocation, 
@@ -254,16 +262,20 @@ pdfSign.Save(outFile)
 
 ### See Also
 
-* class [Signature](../../../aspose.pdf.forms/signature/)
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Sign(string, Signature) {#sign_4}
+## Sign(string, Signature) {#sign_5}
 
-Sign the document with the given type signature which is placed in already presented signature field. Before signing signature field must be empty, i.e. field must not contain signature dictionary. Thus pdf document already has signature field, you should not supply the place to stamp the signature, corresponding page and rectangle are taken from signature field which is found by signature name (see SigName parameter). Such data as signature reason, contact and location must be provided by corresponding properties of the Signature object sig.
+Sign the document with the given type signature which is placed in already presented signature field.
+ Before signing signature field must be empty, i.e. field must not contain signature dictionary.
+ Thus pdf document already has signature field, you should not supply the place to stamp the signature,
+ corresponding page and rectangle are taken from signature field which is found by signature name (see SigName parameter).
+ Such data as signature reason, contact and location must be provided by corresponding properties of the Signature object sig.
 
 ```csharp
 public void Sign(string SigName, Signature sig)
@@ -304,9 +316,8 @@ pdfSign.Save()
 
 ### See Also
 
-* class [Signature](../../../aspose.pdf.forms/signature/)
-* class [PdfFileSignature](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Signature](../../../aspose.pdf.forms/signature/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.TryInsert
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Inserts pages from an other file into the input Pdf file
+title: "PdfFileEditor.TryInsert"
+linktitle: "TryInsert"
+articleTitle: "TryInsert"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Inserts pages from an other file into the input Pdf file."
 type: docs
-weight: 420
-url: /net/aspose.pdf.facades/pdffileeditor/tryinsert/
+weight: 100
+url: "/net/aspose.pdf.facades/pdffileeditor/tryinsert/"
+product_version: "26.9"
 ---
-## TryInsert(string, int, string, int[], string) {#tryinsert_1}
+## TryInsert(string, int, string, int[], string) {#tryinsert}
 
 Inserts pages from an other file into the input Pdf file.
 
@@ -29,7 +32,8 @@ True for success, or false.
 
 ## Remarks
 
-The TryInsert method is like the Insert method, except the TryInsert method does not throw an exception if the operation fails.
+The TryInsert method is like the Insert method, except the TryInsert 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -40,13 +44,13 @@ bool result = pfe.TryInsert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "ou
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryInsert(Stream, int, Stream, int[], Stream) {#tryinsert}
+## TryInsert(Stream, int, Stream, int[], Stream) {#tryinsert_1}
 
 Inserts pages from an other file into the input Pdf file.
 
@@ -69,7 +73,8 @@ true if operation completed successfully; otherwise, false.
 
 ## Remarks
 
-The TryInsert method is like the Insert method, except the TryInsert method does not throw an exception if the operation fails.
+The TryInsert method is like the Insert method, except the TryInsert 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -83,8 +88,7 @@ bool result = pfe.TryInsert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

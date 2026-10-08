@@ -1,10 +1,14 @@
 ---
-title: Class PDF3DRenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DRenderMode class. Class PDF3DRenderMode
+title: "PDF3DRenderMode Class"
+linktitle: "PDF3DRenderMode"
+articleTitle: "PDF3DRenderMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.PDF3DRenderMode class. Class PDF3DRenderMode."
 type: docs
-weight: 2310
-url: /net/aspose.pdf.annotations/pdf3drendermode/
+weight: 840
+url: "/net/aspose.pdf.annotations/pdf3drendermode/"
+keywords: "PDF3DRenderMode, Aspose.Pdf.Annotations, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## PDF3DRenderMode class
 
@@ -25,7 +29,7 @@ public class PDF3DRenderMode
 
 | Name | Description |
 | --- | --- |
-| [Type](../../aspose.pdf.annotations/pdf3drendermode/type/) { get; } | Gets the type. |
+| [Type](../../aspose.pdf.annotations/pdf3drendermode/type/) { get; } | Gets the type. |
 
 ## Methods
 
@@ -44,24 +48,23 @@ public class PDF3DRenderMode
 
 | Name | Description |
 | --- | --- |
-| static [BoundingBox](../../aspose.pdf.annotations/pdf3drendermode/boundingbox/) | The "BoundingBox" render mode. |
-| static [Illustration](../../aspose.pdf.annotations/pdf3drendermode/illustration/) | The "Illustration" render mode. |
-| static [ShadedIllustration](../../aspose.pdf.annotations/pdf3drendermode/shadedillustration/) | The "ShadedIllustration" render mode. |
-| static [ShadedVertices](../../aspose.pdf.annotations/pdf3drendermode/shadedvertices/) | The "ShadedVertices" render mode. |
-| static [ShadedWireframe](../../aspose.pdf.annotations/pdf3drendermode/shadedwireframe/) | The "ShadedWireFrame" render mode. |
-| static [Solid](../../aspose.pdf.annotations/pdf3drendermode/solid/) | The "Solid" render mode. |
-| static [SolidOutline](../../aspose.pdf.annotations/pdf3drendermode/solidoutline/) | The "SolidOutline" render mode. |
-| static [SolidWireframe](../../aspose.pdf.annotations/pdf3drendermode/solidwireframe/) | The "SolidWireFrame" render mode. |
-| static [Transparent](../../aspose.pdf.annotations/pdf3drendermode/transparent/) | The "Transparent" render mode. |
-| static [TransparentBoundingBox](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingbox/) | The "TransparentBoundingBox" render mode. |
-| static [TransparentBoundingBoxOutline](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingboxoutline/) | The "TransparentBoundingBoxOutline" render mode. |
-| static [TransparentWareFrame](../../aspose.pdf.annotations/pdf3drendermode/transparentwareframe/) | The "TransparentWareFrame" render mode. |
-| static [Vertices](../../aspose.pdf.annotations/pdf3drendermode/vertices/) | The "Vertices" render mode. |
-| static [Wireframe](../../aspose.pdf.annotations/pdf3drendermode/wireframe/) | The "WireFrame" render mode. |
+| static [BoundingBox](../../aspose.pdf.annotations/pdf3drendermode/boundingbox/) | The "BoundingBox" render mode. |
+| static [Illustration](../../aspose.pdf.annotations/pdf3drendermode/illustration/) | The "Illustration" render mode. |
+| static [ShadedIllustration](../../aspose.pdf.annotations/pdf3drendermode/shadedillustration/) | The "ShadedIllustration" render mode. |
+| static [ShadedVertices](../../aspose.pdf.annotations/pdf3drendermode/shadedvertices/) | The "ShadedVertices" render mode. |
+| static [ShadedWireframe](../../aspose.pdf.annotations/pdf3drendermode/shadedwireframe/) | The "ShadedWireFrame" render mode. |
+| static [Solid](../../aspose.pdf.annotations/pdf3drendermode/solid/) | The "Solid" render mode. |
+| static [SolidOutline](../../aspose.pdf.annotations/pdf3drendermode/solidoutline/) | The "SolidOutline" render mode. |
+| static [SolidWireframe](../../aspose.pdf.annotations/pdf3drendermode/solidwireframe/) | The "SolidWireFrame" render mode. |
+| static [Transparent](../../aspose.pdf.annotations/pdf3drendermode/transparent/) | The "Transparent" render mode. |
+| static [TransparentBoundingBox](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingbox/) | The "TransparentBoundingBox" render mode. |
+| static [TransparentBoundingBoxOutline](../../aspose.pdf.annotations/pdf3drendermode/transparentboundingboxoutline/) | The "TransparentBoundingBoxOutline" render mode. |
+| static [TransparentWareFrame](../../aspose.pdf.annotations/pdf3drendermode/transparentwareframe/) | The "TransparentWareFrame" render mode. |
+| static [Vertices](../../aspose.pdf.annotations/pdf3drendermode/vertices/) | The "Vertices" render mode. |
+| static [Wireframe](../../aspose.pdf.annotations/pdf3drendermode/wireframe/) | The "WireFrame" render mode. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

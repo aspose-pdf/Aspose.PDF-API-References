@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.DeleteVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Deletes a vector store asynchronously
+title: "OpenAIClient.DeleteVectorStoreAsync"
+linktitle: "DeleteVectorStoreAsync"
+articleTitle: "DeleteVectorStoreAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Deletes a vector store asynchronously."
 type: docs
-weight: 170
-url: /net/aspose.pdf.ai/openaiclient/deletevectorstoreasync/
+weight: 140
+url: "/net/aspose.pdf.ai/openaiclient/deletevectorstoreasync/"
+product_version: "26.9"
 ---
 ## OpenAIClient.DeleteVectorStoreAsync method
 
@@ -32,9 +35,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [DeleteStatusResponse](../../deletestatusresponse/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

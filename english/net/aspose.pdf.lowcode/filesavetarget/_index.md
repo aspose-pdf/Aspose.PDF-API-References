@@ -1,10 +1,14 @@
 ---
-title: Class FileSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.FileSaveTarget class. Represents file save target for a plugin
+title: "FileSaveTarget Class"
+linktitle: "FileSaveTarget"
+articleTitle: "FileSaveTarget"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FileSaveTarget class. Represents file save target for a plugin."
 type: docs
-weight: 7150
-url: /net/aspose.pdf.lowcode/filesavetarget/
+weight: 100
+url: "/net/aspose.pdf.lowcode/filesavetarget/"
+keywords: "FileSaveTarget, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## FileSaveTarget class
 
@@ -24,13 +28,12 @@ public class FileSaveTarget : ISaveTarget
 
 | Name | Description |
 | --- | --- |
-| [Path](../../aspose.pdf.lowcode/filesavetarget/path/) { get; } | Gets the path to the file of current save target. |
-| [SaveTarget](../../aspose.pdf.lowcode/filesavetarget/savetarget/) { get; } | Type of the save target (file). |
+| [Path](../../aspose.pdf.lowcode/filesavetarget/path/) { get; } | Gets the path to the file of current save target. |
+| [SaveTarget](../../aspose.pdf.lowcode/filesavetarget/savetarget/) { get; } | Type of the save target (file). |
 
 ### See Also
 
-* interface [ISaveTarget](../isavetarget/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* interface [ISaveTarget](../isavetarget/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

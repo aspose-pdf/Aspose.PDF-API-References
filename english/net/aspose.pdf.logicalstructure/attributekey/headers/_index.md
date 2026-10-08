@@ -1,10 +1,13 @@
 ---
-title: AttributeKey.Headers
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey field. Headers attribute Table attribute owner
+title: "AttributeKey.Headers"
+linktitle: "Headers"
+articleTitle: "Headers"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. Headers attribute (Table attribute owner)."
 type: docs
-weight: 170
-url: /net/aspose.pdf.logicalstructure/attributekey/headers/
+weight: 430
+url: "/net/aspose.pdf.logicalstructure/attributekey/headers/"
+product_version: "26.9"
 ---
 ## AttributeKey.Headers field
 
@@ -16,8 +19,7 @@ public static readonly AttributeKey Headers;
 
 ### See Also
 
-* class [AttributeKey](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

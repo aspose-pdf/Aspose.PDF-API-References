@@ -1,10 +1,13 @@
 ---
-title: Enum DigestHashAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DigestHashAlgorithm enum. Represent type of algorithm that maps data to a hash
+title: "DigestHashAlgorithm Enum"
+linktitle: "DigestHashAlgorithm"
+articleTitle: "DigestHashAlgorithm"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.DigestHashAlgorithm enum. Represent type of algorithm that maps data to a \"hash\""
 type: docs
-weight: 3880
-url: /net/aspose.pdf/digesthashalgorithm/
+weight: 550
+url: "/net/aspose.pdf/digesthashalgorithm/"
+product_version: "26.9"
 ---
 ## DigestHashAlgorithm enumeration
 
@@ -29,7 +32,6 @@ public enum DigestHashAlgorithm
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

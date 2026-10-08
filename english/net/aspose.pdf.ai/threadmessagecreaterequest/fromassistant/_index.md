@@ -1,10 +1,13 @@
 ---
-title: ThreadMessageCreateRequest.FromAssistant
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageCreateRequest method. Creates a new ThreadMessageCreateRequest with the role set to Assistant
+title: "ThreadMessageCreateRequest.FromAssistant"
+linktitle: "FromAssistant"
+articleTitle: "FromAssistant"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ThreadMessageCreateRequest method. Creates a new ThreadMessageCreateRequest with the role set to Assistant."
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/threadmessagecreaterequest/fromassistant/
+weight: 30
+url: "/net/aspose.pdf.ai/threadmessagecreaterequest/fromassistant/"
+product_version: "26.9"
 ---
 ## ThreadMessageCreateRequest.FromAssistant method
 
@@ -20,8 +23,7 @@ A new instance of [`ThreadMessageCreateRequest`](../) with the role set to Assis
 
 ### See Also
 
-* class [ThreadMessageCreateRequest](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

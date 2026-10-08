@@ -1,10 +1,13 @@
 ---
-title: Enum FieldSerializationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FieldSerializationStatus enum. Represents the status of the form field serialization
+title: "FieldSerializationStatus Enum"
+linktitle: "FieldSerializationStatus"
+articleTitle: "FieldSerializationStatus"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.FieldSerializationStatus enum. Represents the status of the form field serialization."
 type: docs
-weight: 4960
-url: /net/aspose.pdf/fieldserializationstatus/
+weight: 850
+url: "/net/aspose.pdf/fieldserializationstatus/"
+product_version: "26.9"
 ---
 ## FieldSerializationStatus enumeration
 
@@ -24,7 +27,6 @@ public enum FieldSerializationStatus
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

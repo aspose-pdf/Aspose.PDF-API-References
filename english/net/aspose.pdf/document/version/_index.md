@@ -1,10 +1,13 @@
 ---
-title: Document.Version
-second_title: Aspose.PDF for .NET API Reference
-description: Document property. Gets a version of Pdf from Pdf file header
+title: "Document.Version"
+linktitle: "Version"
+articleTitle: "Version"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets a version of Pdf from Pdf file header."
 type: docs
-weight: 550
-url: /net/aspose.pdf/document/version/
+weight: 1240
+url: "/net/aspose.pdf/document/version/"
+product_version: "26.9"
 ---
 ## Document.Version property
 
@@ -16,8 +19,7 @@ public string Version { get; }
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

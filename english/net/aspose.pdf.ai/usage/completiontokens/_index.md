@@ -1,10 +1,13 @@
 ---
-title: Usage.CompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Usage property. Gets or sets number of tokens in the generated completion
+title: "Usage.CompletionTokens"
+linktitle: "CompletionTokens"
+articleTitle: "CompletionTokens"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Usage property. Gets or sets number of tokens in the generated completion."
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/usage/completiontokens/
+weight: 30
+url: "/net/aspose.pdf.ai/usage/completiontokens/"
+product_version: "26.9"
 ---
 ## Usage.CompletionTokens property
 
@@ -16,8 +19,7 @@ public int CompletionTokens { get; set; }
 
 ### See Also
 
-* class [Usage](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Usage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

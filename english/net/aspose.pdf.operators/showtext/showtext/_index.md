@@ -1,12 +1,15 @@
 ---
-title: ShowText.ShowText
-second_title: Aspose.PDF for .NET API Reference
-description: ShowText constructor. Initializes Tj opearor
+title: "ShowText.ShowText"
+linktitle: "ShowText"
+articleTitle: "ShowText"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ShowText constructor. Initializes Tj opearor."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/showtext/showtext/
+url: "/net/aspose.pdf.operators/showtext/showtext/"
+product_version: "26.9"
 ---
-## ShowText(int, string) {#constructor_1}
+## ShowText(int, string) {#constructor}
 
 Initializes Tj opearor.
 
@@ -21,13 +24,13 @@ public ShowText(int index, string text)
 
 ### See Also
 
-* class [ShowText](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ShowText(string) {#constructor_2}
+## ShowText(string) {#constructor_1}
 
 Initializes Tj operator.
 
@@ -41,13 +44,13 @@ public ShowText(string text)
 
 ### See Also
 
-* class [ShowText](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ShowText(string, Font) {#constructor_3}
+## ShowText(string, Font) {#constructor_2}
 
 Initializes Tj opearor.
 
@@ -62,14 +65,14 @@ public ShowText(string text, Font font)
 
 ### See Also
 
-* class [Font](../../../aspose.pdf.text/font/)
-* class [ShowText](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [Font](../../../aspose.pdf.text/font/)
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ShowText() {#constructor}
+## ShowText() {#constructor_3}
 
 Initializes Tj operator.
 
@@ -79,8 +82,7 @@ public ShowText()
 
 ### See Also
 
-* class [ShowText](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

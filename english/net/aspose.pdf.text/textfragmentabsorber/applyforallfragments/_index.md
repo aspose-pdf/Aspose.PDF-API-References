@@ -1,10 +1,13 @@
 ---
-title: TextFragmentAbsorber.ApplyForAllFragments
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber method. Applies font for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the pages were absorbed. Otherwise it works similar with looping
+title: "TextFragmentAbsorber.ApplyForAllFragments"
+linktitle: "ApplyForAllFragments"
+articleTitle: "ApplyForAllFragments"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber method. Applies font for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on t..."
 type: docs
-weight: 120
-url: /net/aspose.pdf.text/textfragmentabsorber/applyforallfragments/
+weight: 130
+url: "/net/aspose.pdf.text/textfragmentabsorber/applyforallfragments/"
+product_version: "26.9"
 ---
 ## ApplyForAllFragments(Font) {#applyforallfragments}
 
@@ -20,14 +23,14 @@ public void ApplyForAllFragments(Font font)
 
 ### See Also
 
-* class [Font](../../font/)
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ApplyForAllFragments(float) {#applyforallfragments_2}
+## ApplyForAllFragments(float) {#applyforallfragments_1}
 
 Applies font size for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
 
@@ -41,13 +44,13 @@ public void ApplyForAllFragments(float fontSize)
 
 ### See Also
 
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ApplyForAllFragments(Font, float) {#applyforallfragments_1}
+## ApplyForAllFragments(Font, float) {#applyforallfragments_2}
 
 Applies font and size for all text fragments that were absorbed. It works faster than looping through the fragments if all fragments on the page(s) were absorbed. Otherwise it works similar with looping.
 
@@ -62,9 +65,8 @@ public void ApplyForAllFragments(Font font, float fontSize)
 
 ### See Also
 
-* class [Font](../../font/)
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Font](../../font/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

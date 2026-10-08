@@ -1,10 +1,13 @@
 ---
-title: ITaggedContent.CreateLinkElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent method. Creates LinkElement
+title: "ITaggedContent.CreateLinkElement"
+linktitle: "CreateLinkElement"
+articleTitle: "CreateLinkElement"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Creates LinkElement."
 type: docs
-weight: 160
-url: /net/aspose.pdf.tagged/itaggedcontent/createlinkelement/
+weight: 340
+url: "/net/aspose.pdf.tagged/itaggedcontent/createlinkelement/"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateLinkElement method
 
@@ -20,9 +23,8 @@ Created structure element.
 
 ### See Also
 
-* class [LinkElement](../../../aspose.pdf.logicalstructure/linkelement/)
-* interface [ITaggedContent](../)
-* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LinkElement](../../../aspose.pdf.logicalstructure/linkelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
 

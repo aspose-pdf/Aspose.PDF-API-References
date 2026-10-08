@@ -1,10 +1,13 @@
 ---
-title: FontSubstitutionCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: FontSubstitutionCollection property. Gets the number of Font object elements actually contained in the collection
+title: "FontSubstitutionCollection.Count"
+linktitle: "Count"
+articleTitle: "Count"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontSubstitutionCollection property. Gets the number of Font object elements actually contained in the collection."
 type: docs
-weight: 10
-url: /net/aspose.pdf.text/fontsubstitutioncollection/count/
+weight: 70
+url: "/net/aspose.pdf.text/fontsubstitutioncollection/count/"
+product_version: "26.9"
 ---
 ## FontSubstitutionCollection.Count property
 
@@ -16,8 +19,7 @@ public int Count { get; }
 
 ### See Also
 
-* class [FontSubstitutionCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

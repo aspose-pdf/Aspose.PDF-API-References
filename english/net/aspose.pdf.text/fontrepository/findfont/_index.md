@@ -1,10 +1,13 @@
 ---
-title: FontRepository.FindFont
-second_title: Aspose.PDF for .NET API Reference
-description: FontRepository method. Searches and returns font with specified font name
+title: "FontRepository.FindFont"
+linktitle: "FindFont"
+articleTitle: "FindFont"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontRepository method. Searches and returns font with specified font name."
 type: docs
-weight: 40
-url: /net/aspose.pdf.text/fontrepository/findfont/
+weight: 20
+url: "/net/aspose.pdf.text/fontrepository/findfont/"
+product_version: "26.9"
 ---
 ## FindFont(string) {#findfont}
 
@@ -43,19 +46,19 @@ doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].TextState.Font = font;
 
 // Save document
-doc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf");
 ```
 
 ### See Also
 
-* class [Font](../../font/)
-* class [FontRepository](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FindFont(string, bool) {#findfont_3}
+## FindFont(string, bool) {#findfont_1}
 
 Searches and returns font with specified font name ignoring or honoring case sensitivity.
 
@@ -93,19 +96,19 @@ doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].TextState.Font = font;
 
 // Save document
-doc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf");
 ```
 
 ### See Also
 
-* class [Font](../../font/)
-* class [FontRepository](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FindFont(string, FontStyles) {#findfont_1}
+## FindFont(string, FontStyles) {#findfont_2}
 
 Searches and returns font with specified font name and font style.
 
@@ -143,22 +146,23 @@ doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].TextState.Font = font;
 
 // Save document
-doc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf");
 ```
 
 ### See Also
 
-* class [Font](../../font/)
-* enum [FontStyles](../../fontstyles/)
-* class [FontRepository](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* enum [FontStyles](../../fontstyles/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FindFont(string, FontStyles, bool) {#findfont_2}
+## FindFont(string, FontStyles, bool) {#findfont_3}
 
-Searches and returns font with specified font name and font style ignoring or honoring case sensitivity.
+Searches and returns font with specified font name and font style 
+ ignoring or honoring case sensitivity.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCase)
@@ -195,15 +199,14 @@ doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].TextState.Font = font;
 
 // Save document
-doc.Save(@"D:\Tests\output.pdf"); 
+doc.Save(@"D:\Tests\output.pdf");
 ```
 
 ### See Also
 
-* class [Font](../../font/)
-* enum [FontStyles](../../fontstyles/)
-* class [FontRepository](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Font](../../font/)
+* enum [FontStyles](../../fontstyles/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

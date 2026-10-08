@@ -1,10 +1,13 @@
 ---
-title: Enum Form.ImportStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FormImportStatus enum. Status of imported field
+title: "Form.ImportStatus Enum"
+linktitle: "Form.ImportStatus"
+articleTitle: "Form.ImportStatus"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Facades.Form.ImportStatus enum. Status of imported field"
 type: docs
-weight: 4470
-url: /net/aspose.pdf.facades/form.importstatus/
+weight: 190
+url: "/net/aspose.pdf.facades/form.importstatus/"
+product_version: "26.9"
 ---
 ## Form.ImportStatus enumeration
 
@@ -23,8 +26,7 @@ public enum ImportStatus
 
 ### See Also
 
-* class [Form](../form/)
-* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../)
-
+* class [Form](../form/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
 

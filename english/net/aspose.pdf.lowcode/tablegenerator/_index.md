@@ -1,10 +1,14 @@
 ---
-title: Class TableGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.TableGenerator class. Represents Aspose.PDF TableGenerator plugin
+title: "TableGenerator Class"
+linktitle: "TableGenerator"
+articleTitle: "TableGenerator"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.TableGenerator class. Represents Aspose.PDF TableGenerator plugin."
 type: docs
-weight: 7990
-url: /net/aspose.pdf.lowcode/tablegenerator/
+weight: 940
+url: "/net/aspose.pdf.lowcode/tablegenerator/"
+keywords: "TableGenerator, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## TableGenerator class
 
@@ -13,19 +17,6 @@ Represents Aspose.PDF TableGenerator plugin.
 ```csharp
 public sealed class TableGenerator : IDisposable, IPlugin
 ```
-
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [TableGenerator](tablegenerator/)() | The default constructor. |
-
-## Methods
-
-| Name | Description |
-| --- | --- |
-| [Dispose](../../aspose.pdf.lowcode/tablegenerator/dispose/)() | Implementation of IDisposable. In fact, it is not necessary for TableGenerator. |
-| [Process](../../aspose.pdf.lowcode/tablegenerator/process/)(IPluginOptions) | Starts the PdfGenerator processing with the specified parameters. |
 
 ## Examples
 
@@ -45,10 +36,22 @@ opt.AddOutput(new FileDataSource(outputPath));
 generator.Process(opt);
 ```
 
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [TableGenerator](tablegenerator/)() | The default constructor. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Dispose](../../aspose.pdf.lowcode/tablegenerator/dispose/)() | Implementation of IDisposable. In fact, it is not necessary for TableGenerator. |
+| [Process](../../aspose.pdf.lowcode/tablegenerator/process/)(IPluginOptions) | Starts the PdfGenerator processing with the specified parameters. |
+
 ### See Also
 
-* interface [IPlugin](../iplugin/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

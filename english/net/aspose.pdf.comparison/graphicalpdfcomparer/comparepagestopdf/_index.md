@@ -1,12 +1,15 @@
 ---
-title: GraphicalPdfComparer.ComparePagesToPdf
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicalPdfComparer method. Compares pages graphically. The comparison result is placed in a PDF document
+title: "GraphicalPdfComparer.ComparePagesToPdf"
+linktitle: "ComparePagesToPdf"
+articleTitle: "ComparePagesToPdf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicalPdfComparer method. Compares pages graphically. The comparison result is placed in a PDF document."
 type: docs
-weight: 80
-url: /net/aspose.pdf.comparison/graphicalpdfcomparer/comparepagestopdf/
+weight: 30
+url: "/net/aspose.pdf.comparison/graphicalpdfcomparer/comparepagestopdf/"
+product_version: "26.9"
 ---
-## ComparePagesToPdf(Page, Page, string) {#comparepagestopdf_1}
+## ComparePagesToPdf(Page, Page, string) {#comparepagestopdf}
 
 Compares pages graphically. The comparison result is placed in a PDF document.
 
@@ -28,14 +31,14 @@ public void ComparePagesToPdf(Page page1, Page page2, string resultPdfPath)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [GraphicalPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ComparePagesToPdf(Page, Page, Document) {#comparepagestopdf}
+## ComparePagesToPdf(Page, Page, Document) {#comparepagestopdf_1}
 
 Compares pages graphically. The comparison result is placed in a PDF document.
 
@@ -57,10 +60,9 @@ public void ComparePagesToPdf(Page page1, Page page2, Document pdfDocument)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Document](../../../aspose.pdf/document/)
-* class [GraphicalPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Document](../../../aspose.pdf/document/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

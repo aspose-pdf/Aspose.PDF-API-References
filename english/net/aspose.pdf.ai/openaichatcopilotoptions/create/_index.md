@@ -1,10 +1,13 @@
 ---
-title: OpenAIChatCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions method. Creates a new instance of OpenAIChatCopilotOptions
+title: "OpenAIChatCopilotOptions.Create"
+linktitle: "Create"
+articleTitle: "Create"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIChatCopilotOptions method. Creates a new instance of OpenAIChatCopilotOptions."
 type: docs
-weight: 10
-url: /net/aspose.pdf.ai/openaichatcopilotoptions/create/
+weight: 20
+url: "/net/aspose.pdf.ai/openaichatcopilotoptions/create/"
+product_version: "26.9"
 ---
 ## Create() {#create}
 
@@ -20,9 +23,9 @@ A new instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -44,8 +47,7 @@ The configured instance of [`OpenAIChatCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIChatCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

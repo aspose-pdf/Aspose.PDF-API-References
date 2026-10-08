@@ -1,10 +1,13 @@
 ---
-title: MessageContentRequest.CreateImageFileContent
-second_title: Aspose.PDF for .NET API Reference
-description: MessageContentRequest method. Creates an image file content for a message
+title: "MessageContentRequest.CreateImageFileContent"
+linktitle: "CreateImageFileContent"
+articleTitle: "CreateImageFileContent"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MessageContentRequest method. Creates an image file content for a message."
 type: docs
 weight: 20
-url: /net/aspose.pdf.ai/messagecontentrequest/createimagefilecontent/
+url: "/net/aspose.pdf.ai/messagecontentrequest/createimagefilecontent/"
+product_version: "26.9"
 ---
 ## MessageContentRequest.CreateImageFileContent method
 
@@ -25,8 +28,7 @@ A new instance of MessageContentRequest with ImageFile content.
 
 ### See Also
 
-* class [MessageContentRequest](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MessageContentRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

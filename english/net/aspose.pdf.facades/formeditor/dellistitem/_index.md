@@ -1,10 +1,13 @@
 ---
-title: FormEditor.DelListItem
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Delete item from the list field
+title: "FormEditor.DelListItem"
+linktitle: "DelListItem"
+articleTitle: "DelListItem"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Delete item from the list field."
 type: docs
-weight: 180
-url: /net/aspose.pdf.facades/formeditor/dellistitem/
+weight: 290
+url: "/net/aspose.pdf.facades/formeditor/dellistitem/"
+product_version: "26.9"
 ---
 ## FormEditor.DelListItem method
 
@@ -28,8 +31,7 @@ formEditor.DelListItem("listboxField", "item2");
 
 ### See Also
 
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

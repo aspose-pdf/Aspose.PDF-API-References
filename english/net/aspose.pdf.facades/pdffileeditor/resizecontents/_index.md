@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.ResizeContents
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Resizes contents of pages of the document
+title: "PdfFileEditor.ResizeContents"
+linktitle: "ResizeContents"
+articleTitle: "ResizeContents"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Resizes contents of pages of the document."
 type: docs
-weight: 320
-url: /net/aspose.pdf.facades/pdffileeditor/resizecontents/
+weight: 870
+url: "/net/aspose.pdf.facades/pdffileeditor/resizecontents/"
+product_version: "26.9"
 ---
-## ResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#resizecontents}
+## ResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#resizecontents}
 
 Resizes contents of pages of the document.
 
@@ -52,16 +55,18 @@ dest.Close();
 
 ### See Also
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ResizeContents(Stream, Stream, int[], double, double) {#resizecontents_1}
+## ResizeContents(Stream, Stream, int[], double, double) {#resizecontents_1}
 
-Resizes contents of document pages. Shrinks contents of page and adds margins. New size of contents is specified in default space units.
+Resizes contents of document pages. 
+ Shrinks contents of page and adds margins.
+ New size of contents is specified in default space units.
 
 ```csharp
 public bool ResizeContents(Stream source, Stream destination, int[] pages, double newWidth, 
@@ -98,15 +103,17 @@ null,
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ResizeContents(string, string, int[], double, double) {#resizecontents_3}
+## ResizeContents(string, string, int[], double, double) {#resizecontents_2}
 
-Resizes contents of document pages. Shrinks contents of page and adds margins. New size of contents is specified in default space units.
+Resizes contents of document pages. 
+ Shrinks contents of page and adds margins.
+ New size of contents is specified in default space units.
 
 ```csharp
 public bool ResizeContents(string source, string destination, int[] pages, double newWidth, 
@@ -141,13 +148,13 @@ null,
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ResizeContents(string, string, int[], ContentsResizeParameters) {#resizecontents_2}
+## ResizeContents(string, string, int[], ContentsResizeParameters) {#resizecontents_3}
 
 Resizes contents of pages in document. If page is shrinked blank margins are added around the page.
 
@@ -190,14 +197,14 @@ fileEditor.ResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3 }, para
 
 ### See Also
 
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ResizeContents(Document, int[], ContentsResizeParameters) {#resizecontents_5}
+## ResizeContents(Document, int[], ContentsResizeParameters) {#resizecontents_4}
 
 Resizes pages of document. Blank margins are added around of shrinked page.
 
@@ -236,15 +243,15 @@ doc.Save("output.pdf");
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ResizeContents(Document, ContentsResizeParameters) {#resizecontents_4}
+## ResizeContents(Document, ContentsResizeParameters) {#resizecontents_5}
 
 Resizes pages of document. Blank margins are added around of shrinked page.
 
@@ -282,10 +289,9 @@ doc.Save("output.pdf");
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

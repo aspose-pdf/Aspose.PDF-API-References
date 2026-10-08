@@ -1,10 +1,13 @@
 ---
-title: Enum CompressionType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.CompressionType enum. Used to specify the parameter value passed to a Tiff image device
+title: "CompressionType Enum"
+linktitle: "CompressionType"
+articleTitle: "CompressionType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Devices.CompressionType enum. Used to specify the parameter value passed to a Tiff image device."
 type: docs
-weight: 3700
-url: /net/aspose.pdf.devices/compressiontype/
+weight: 40
+url: "/net/aspose.pdf.devices/compressiontype/"
+product_version: "26.9"
 ---
 ## CompressionType enumeration
 
@@ -26,7 +29,6 @@ public enum CompressionType
 
 ### See Also
 
-* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
 

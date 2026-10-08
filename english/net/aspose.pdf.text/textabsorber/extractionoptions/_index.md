@@ -1,10 +1,13 @@
 ---
-title: TextAbsorber.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber property. Gets or sets text extraction options
+title: "TextAbsorber.ExtractionOptions"
+linktitle: "ExtractionOptions"
+articleTitle: "ExtractionOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextAbsorber property. Gets or sets text extraction options."
 type: docs
-weight: 30
-url: /net/aspose.pdf.text/textabsorber/extractionoptions/
+weight: 110
+url: "/net/aspose.pdf.text/textabsorber/extractionoptions/"
+product_version: "26.9"
 ---
 ## TextAbsorber.ExtractionOptions property
 
@@ -16,7 +19,8 @@ public virtual TextExtractionOptions ExtractionOptions { get; set; }
 
 ## Remarks
 
-Allows to define text formatting mode [`TextExtractionOptions`](../../textextractionoptions/) during extraction. The default mode is Pure
+Allows to define text formatting mode [`TextExtractionOptions`](../../textextractionoptions/) during extraction.
+ The default mode is `Pure`
 
 ## Examples
 
@@ -41,9 +45,8 @@ string extractedText = absorber.Text;
 
 ### See Also
 
-* class [TextExtractionOptions](../../textextractionoptions/)
-* class [TextAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

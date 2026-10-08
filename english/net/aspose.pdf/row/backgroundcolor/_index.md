@@ -1,10 +1,13 @@
 ---
-title: Row.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Row property. Gets or sets the background color
+title: "Row.BackgroundColor"
+linktitle: "BackgroundColor"
+articleTitle: "BackgroundColor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Row property. Gets or sets the background color."
 type: docs
-weight: 20
-url: /net/aspose.pdf/row/backgroundcolor/
+weight: 30
+url: "/net/aspose.pdf/row/backgroundcolor/"
+product_version: "26.9"
 ---
 ## Row.BackgroundColor property
 
@@ -16,9 +19,8 @@ public Color BackgroundColor { get; set; }
 
 ### See Also
 
-* class [Color](../../color/)
-* class [Row](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../color/)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

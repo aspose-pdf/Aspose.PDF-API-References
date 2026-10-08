@@ -1,10 +1,14 @@
 ---
-title: Class HtmlToPdfOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.HtmlToPdfOptions class. Represents HTML to PDF converter options for Html plugin
+title: "HtmlToPdfOptions Class"
+linktitle: "HtmlToPdfOptions"
+articleTitle: "HtmlToPdfOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.HtmlToPdfOptions class. Represents HTML to PDF converter options for Html plugin."
 type: docs
-weight: 7450
-url: /net/aspose.pdf.lowcode/htmltopdfoptions/
+weight: 400
+url: "/net/aspose.pdf.lowcode/htmltopdfoptions/"
+keywords: "HtmlToPdfOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## HtmlToPdfOptions class
 
@@ -24,14 +28,14 @@ public sealed class HtmlToPdfOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [BasePath](../../aspose.pdf.lowcode/htmltopdfoptions/basepath/) { get; set; } | The base path/url for the html file. |
-| [HtmlMediaType](../../aspose.pdf.lowcode/htmltopdfoptions/htmlmediatype/) { get; set; } | Gets or sets possible media types used during rendering. |
-| [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
-| [IsRenderToSinglePage](../../aspose.pdf.lowcode/htmltopdfoptions/isrendertosinglepage/) { get; set; } | Gets or sets rendering all document to single page. |
-| override [OperationName](../../aspose.pdf.lowcode/htmltopdfoptions/operationname/) { get; } | Gets name of the operation. |
-| [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
-| [PageInfo](../../aspose.pdf.lowcode/htmltopdfoptions/pageinfo/) { get; set; } | Gets or sets document page info. |
-| [PageLayoutOption](../../aspose.pdf.lowcode/htmltopdfoptions/pagelayoutoption/) { get; set; } | Gets or sets layout option. |
+| [BasePath](../../aspose.pdf.lowcode/htmltopdfoptions/basepath/) { get; set; } | The base path/url for the html file. |
+| [HtmlMediaType](../../aspose.pdf.lowcode/htmltopdfoptions/htmlmediatype/) { get; set; } | Gets or sets possible media types used during rendering. |
+| [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
+| [IsRenderToSinglePage](../../aspose.pdf.lowcode/htmltopdfoptions/isrendertosinglepage/) { get; set; } | Gets or sets rendering all document to single page. |
+| override [OperationName](../../aspose.pdf.lowcode/htmltopdfoptions/operationname/) { get; } | Gets name of the operation. |
+| [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
+| [PageInfo](../../aspose.pdf.lowcode/htmltopdfoptions/pageinfo/) { get; set; } | Gets or sets document page info. |
+| [PageLayoutOption](../../aspose.pdf.lowcode/htmltopdfoptions/pagelayoutoption/) { get; set; } | Gets or sets layout option. |
 
 ## Methods
 
@@ -42,8 +46,7 @@ public sealed class HtmlToPdfOptions : PdfConverterOptions
 
 ### See Also
 
-* class [PdfConverterOptions](../pdfconverteroptions/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfConverterOptions](../pdfconverteroptions/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

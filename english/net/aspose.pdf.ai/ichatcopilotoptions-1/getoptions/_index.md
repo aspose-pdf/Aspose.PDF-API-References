@@ -1,12 +1,15 @@
 ---
-title: IChatCopilotOptions1.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: IChatCopilotOptions method. Gets the options of type TOptions
+title: "IChatCopilotOptions<TOptions>.GetOptions"
+linktitle: "GetOptions"
+articleTitle: "GetOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IChatCopilotOptions method. Gets the options of type TOptions."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/ichatcopilotoptions-1/getoptions/
+url: "/net/aspose.pdf.ai/ichatcopilotoptions-1/getoptions/"
+product_version: "26.9"
 ---
-## IChatCopilotOptions&lt;TOptions&gt;.GetOptions method
+## IChatCopilotOptions<TOptions>.GetOptions method
 
 Gets the options of type *TOptions*.
 
@@ -20,8 +23,7 @@ The options of type *TOptions*.
 
 ### See Also
 
-* interface [IChatCopilotOptions&lt;TOptions&gt;](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IChatCopilotOptions&lt;TOptions&gt;](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

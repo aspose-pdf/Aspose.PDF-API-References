@@ -1,10 +1,13 @@
 ---
-title: OutputIntent.OutputIntent
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntent constructor. Initializes a new instance of the OutputIntent class with the specified output condition identifier
+title: "OutputIntent.OutputIntent"
+linktitle: "OutputIntent"
+articleTitle: "OutputIntent"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutputIntent constructor. Initializes a new instance of the OutputIntent class with the specified output condition identifier."
 type: docs
 weight: 10
-url: /net/aspose.pdf/outputintent/outputintent/
+url: "/net/aspose.pdf/outputintent/outputintent/"
+product_version: "26.9"
 ---
 ## OutputIntent constructor
 
@@ -20,8 +23,7 @@ public OutputIntent(string outputConditionIdentifier)
 
 ### See Also
 
-* class [OutputIntent](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutputIntent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

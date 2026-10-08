@@ -1,10 +1,13 @@
 ---
-title: StructureTextState.Superscript
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState property. Gets or sets superscript of the text
+title: "StructureTextState.Superscript"
+linktitle: "Superscript"
+articleTitle: "Superscript"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTextState property. Gets or sets superscript of the text."
 type: docs
-weight: 110
-url: /net/aspose.pdf.logicalstructure/structuretextstate/superscript/
+weight: 80
+url: "/net/aspose.pdf.logicalstructure/structuretextstate/superscript/"
+product_version: "26.9"
 ---
 ## StructureTextState.Superscript property
 
@@ -20,8 +23,7 @@ Can be null. Use null to inherit `Superscript` property from parent structure el
 
 ### See Also
 
-* class [StructureTextState](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

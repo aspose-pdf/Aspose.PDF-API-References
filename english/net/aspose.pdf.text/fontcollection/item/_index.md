@@ -1,10 +1,13 @@
 ---
-title: FontCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: FontCollection property. Gets the font element at the specified index
+title: "FontCollection.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontCollection property. Gets the font element at the specified index."
 type: docs
-weight: 40
-url: /net/aspose.pdf.text/fontcollection/item/
+weight: 110
+url: "/net/aspose.pdf.text/fontcollection/item/"
+product_version: "26.9"
 ---
 ## FontCollection indexer (1 of 2)
 
@@ -24,16 +27,17 @@ Font object.
 
 ### See Also
 
-* class [Font](../../font/)
-* class [FontCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FontCollection indexer (2 of 2)
 
-Gets font from the collection by font name. Exception is thrown if font was not found.
+Gets font from the collection by font name.
+ Exception is thrown if font was not found.
 
 ```csharp
 public Font this[string name] { get; }
@@ -49,9 +53,8 @@ Found font.
 
 ### See Also
 
-* class [Font](../../font/)
-* class [FontCollection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

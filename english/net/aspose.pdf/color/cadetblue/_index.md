@@ -1,10 +1,13 @@
 ---
-title: Color.CadetBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FF5F9EA0
+title: "Color.CadetBlue"
+linktitle: "CadetBlue"
+articleTitle: "CadetBlue"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FF5F9EA0."
 type: docs
-weight: 150
-url: /net/aspose.pdf/color/cadetblue/
+weight: 320
+url: "/net/aspose.pdf/color/cadetblue/"
+product_version: "26.9"
 ---
 ## Color.CadetBlue property
 
@@ -20,8 +23,7 @@ A representing a system-defined color.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

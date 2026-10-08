@@ -1,14 +1,18 @@
 ---
-title: PdfFileEditor.AddMarginsPct
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Resizes page contents and add specified margins. Margins are specified in percents of intitial page size
+title: "PdfFileEditor.AddMarginsPct"
+linktitle: "AddMarginsPct"
+articleTitle: "AddMarginsPct"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Resizes page contents and add specified margins. Margins are specified in percents of intitial page size."
 type: docs
-weight: 230
-url: /net/aspose.pdf.facades/pdffileeditor/addmarginspct/
+weight: 910
+url: "/net/aspose.pdf.facades/pdffileeditor/addmarginspct/"
+product_version: "26.9"
 ---
-## AddMarginsPct(Stream, Stream, int[], double, double, double, double) {#addmarginspct}
+## AddMarginsPct(Stream, Stream, int[], double, double, double, double) {#addmarginspct}
 
-Resizes page contents and add specified margins. Margins are specified in percents of intitial page size.
+Resizes page contents and add specified margins.
+ Margins are specified in percents of intitial page size.
 
 ```csharp
 public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double leftMargin, 
@@ -51,15 +55,16 @@ fileEditor.AddMarginsPct(src, dest,
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddMarginsPct(string, string, int[], double, double, double, double) {#addmarginspct_1}
+## AddMarginsPct(string, string, int[], double, double, double, double) {#addmarginspct_1}
 
-Resizes page contents and add specified margins. Margins are specified in percents of intitial page size.
+Resizes page contents and add specified margins.
+ Margins are specified in percents of intitial page size.
 
 ```csharp
 public bool AddMarginsPct(string source, string destination, int[] pages, double leftMargin, 
@@ -99,8 +104,7 @@ fileEditor.AddMarginsPct("input.pdf", "output.pdf",
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

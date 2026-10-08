@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.Extract
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Extracts pages from input filesaves as a new Pdf file
+title: "PdfFileEditor.Extract"
+linktitle: "Extract"
+articleTitle: "Extract"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Extracts pages from input file,saves as a new Pdf file."
 type: docs
-weight: 280
-url: /net/aspose.pdf.facades/pdffileeditor/extract/
+weight: 570
+url: "/net/aspose.pdf.facades/pdffileeditor/extract/"
+product_version: "26.9"
 ---
-## Extract(string, int, int, string) {#extract_2}
+## Extract(string, int, int, string) {#extract}
 
 Extracts pages from input file,saves as a new Pdf file.
 
@@ -34,13 +37,13 @@ pfe.Extract("input.pdf", 3, 7, "output.pdf");
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Extract(string, int[], string) {#extract_3}
+## Extract(string, int[], string) {#extract_1}
 
 Extracts pages specified by number array, saves as a new PDF file.
 
@@ -67,13 +70,13 @@ pfe.Extract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Extract(Stream, int, int, Stream) {#extract}
+## Extract(Stream, int, int, Stream) {#extract_2}
 
 Extracts pages from input file,saves as a new Pdf file.
 
@@ -103,13 +106,13 @@ pfe.Extract(sourceStream, 1, 3, 6, outStream);
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Extract(Stream, int[], Stream) {#extract_1}
+## Extract(Stream, int[], Stream) {#extract_3}
 
 Extracts pages specified by number array, saves as a new Pdf file.
 
@@ -138,8 +141,7 @@ pfe.Extract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

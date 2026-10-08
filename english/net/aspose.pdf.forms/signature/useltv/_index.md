@@ -1,10 +1,13 @@
 ---
-title: Signature.UseLtv
-second_title: Aspose.PDF for .NET API Reference
-description: Signature property. Gets/sets ltv validation flag
+title: "Signature.UseLtv"
+linktitle: "UseLtv"
+articleTitle: "UseLtv"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Signature property. Gets/sets ltv validation flag."
 type: docs
-weight: 150
-url: /net/aspose.pdf.forms/signature/useltv/
+weight: 200
+url: "/net/aspose.pdf.forms/signature/useltv/"
+product_version: "26.9"
 ---
 ## Signature.UseLtv property
 
@@ -16,8 +19,7 @@ public bool UseLtv { get; set; }
 
 ### See Also
 
-* class [Signature](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

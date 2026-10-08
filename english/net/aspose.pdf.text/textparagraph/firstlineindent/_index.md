@@ -1,14 +1,18 @@
 ---
-title: TextParagraph.FirstLineIndent
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph property. Gets or sets subsequent lines indent value. If set to a nonzero value it has an advantage over the FormattingOptions.SubsequentLinesIndent value
+title: "TextParagraph.FirstLineIndent"
+linktitle: "FirstLineIndent"
+articleTitle: "FirstLineIndent"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextParagraph property. Gets or sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLine..."
 type: docs
-weight: 20
-url: /net/aspose.pdf.text/textparagraph/firstlineindent/
+weight: 130
+url: "/net/aspose.pdf.text/textparagraph/firstlineindent/"
+product_version: "26.9"
 ---
 ## TextParagraph.FirstLineIndent property
 
-Gets or sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value.
+Gets or sets subsequent lines indent value.
+ If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value.
 
 ```csharp
 public float FirstLineIndent { get; set; }
@@ -16,8 +20,7 @@ public float FirstLineIndent { get; set; }
 
 ### See Also
 
-* class [TextParagraph](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: SetTextMatrix.SetTextMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextMatrix constructor. Initializes operator
+title: "SetTextMatrix.SetTextMatrix"
+linktitle: "SetTextMatrix"
+articleTitle: "SetTextMatrix"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetTextMatrix constructor. Initializes operator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/settextmatrix/settextmatrix/
+url: "/net/aspose.pdf.operators/settextmatrix/settextmatrix/"
+product_version: "26.9"
 ---
-## SetTextMatrix(double, double, double, double, double, double) {#constructor_1}
+## SetTextMatrix(double, double, double, double, double, double) {#constructor}
 
 Initializes operator.
 
@@ -25,13 +28,13 @@ public SetTextMatrix(double a, double b, double c, double d, double e, double f)
 
 ### See Also
 
-* class [SetTextMatrix](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [SetTextMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SetTextMatrix(Matrix) {#constructor}
+## SetTextMatrix(Matrix) {#constructor_1}
 
 Initializes operator by matrix.
 
@@ -45,9 +48,8 @@ public SetTextMatrix(Matrix m)
 
 ### See Also
 
-* class [Matrix](../../../aspose.pdf/matrix/)
-* class [SetTextMatrix](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [SetTextMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ViewerPreference.FitWindow
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference field. A flag specifying whether to resize the documents window to fit the size of the first displayed page
+title: "ViewerPreference.FitWindow"
+linktitle: "FitWindow"
+articleTitle: "FitWindow"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. A flag specifying whether to resize the document's window to fit the size of the first displayed page."
 type: docs
-weight: 80
-url: /net/aspose.pdf.facades/viewerpreference/fitwindow/
+weight: 170
+url: "/net/aspose.pdf.facades/viewerpreference/fitwindow/"
+product_version: "26.9"
 ---
 ## ViewerPreference.FitWindow field
 
@@ -16,8 +19,7 @@ public const int FitWindow;
 
 ### See Also
 
-* class [ViewerPreference](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

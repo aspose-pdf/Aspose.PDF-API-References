@@ -1,10 +1,13 @@
 ---
-title: MarkupSection.Fragments
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupSection property. Collection of not empty TextFragment objects that are inside the section
+title: "MarkupSection.Fragments"
+linktitle: "Fragments"
+articleTitle: "Fragments"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MarkupSection property. Collection of not empty TextFragment objects that are inside the section."
 type: docs
-weight: 10
-url: /net/aspose.pdf.text/markupsection/fragments/
+weight: 20
+url: "/net/aspose.pdf.text/markupsection/fragments/"
+product_version: "26.9"
 ---
 ## MarkupSection.Fragments property
 
@@ -20,9 +23,8 @@ The [`TextFragment`](../../textfragment/) object provides access to the search o
 
 ### See Also
 
-* class [TextFragment](../../textfragment/)
-* class [MarkupSection](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragment](../../textfragment/)
+* class [MarkupSection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

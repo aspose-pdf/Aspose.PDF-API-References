@@ -1,10 +1,13 @@
 ---
-title: PopupAnnotation.PopupAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: PopupAnnotation constructor. Constructor. for using in Generator
+title: "PopupAnnotation.PopupAnnotation"
+linktitle: "PopupAnnotation"
+articleTitle: "PopupAnnotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PopupAnnotation constructor. Constructor. for using in Generator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/popupannotation/popupannotation/
+url: "/net/aspose.pdf.annotations/popupannotation/popupannotation/"
+product_version: "26.9"
 ---
 ## PopupAnnotation(Document) {#constructor}
 
@@ -20,14 +23,14 @@ public PopupAnnotation(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [PopupAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PopupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PopupAnnotation(Page, Rectangle) {#constructor_1}
+## PopupAnnotation(Page, Rectangle) {#constructor_1}
 
 Creates new Popup annotation on the specified page.
 
@@ -42,10 +45,9 @@ public PopupAnnotation(Page page, Rectangle rect)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [Rectangle](../../../aspose.pdf/rectangle/)
-* class [PopupAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PopupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

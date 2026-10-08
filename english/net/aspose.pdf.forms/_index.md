@@ -1,12 +1,20 @@
 ---
-title: Aspose.Pdf.Forms
-second_title: Aspose.PDF for .NET API Reference
-description: The Aspose.Pdf.Forms namespace has classes which describes forms standard static dynamic and various types of fields like text box list box radio button etc
+title: "Aspose.Pdf.Forms"
+linktitle: "Aspose.Pdf.Forms"
+articleTitle: "Aspose.Pdf.Forms"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "The Aspose.Pdf.Forms namespace has classes which describes forms (standard, static, dynamic) and various types of fields like text box, list box, radio butto..."
 type: docs
-weight: 100
-url: /net/aspose.pdf.forms/
+weight: 10
+url: "/net/aspose.pdf.forms/"
+keywords: "Aspose.Pdf.Forms, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The **Aspose.Pdf.Forms** namespace has classes which describes forms (standard, static, dynamic) and various types of fields like text box, list box, radio button etc.
+
+Part of the [Aspose.PDF for .NET](../) API reference.
 
 ## Classes
 
@@ -28,19 +36,19 @@ The **Aspose.Pdf.Forms** namespace has classes which describes forms (standard, 
 | [NumberField](./numberfield/) | Text Field with specified valid chars |
 | [Option](./option/) | Class represents option of choice field. |
 | [OptionCollection](./optioncollection/) | Class representing collection of options of the choice field. |
-| [PasswordBoxField](./passwordboxfield/) | Class descibes text field for entering password. |
 | [PKCS1](./pkcs1/) | Represents signature object regarding PKCS#1 standard. RSA encryption algorithm and SHA-1 digest method are used for signing. |
 | [PKCS7](./pkcs7/) | Represents the PKCS#7 object that conform to the PKCS#7 specification in Internet RFC 2315, PKCS #7: Cryptographic Message Syntax, Version 1.5. The `SHA1 digest` of the document's byte range is encapsulated in the PKCS#7 SignedData field. |
 | [PKCS7Detached](./pkcs7detached/) | Represents the PKCS#7 object that conform to the PKCS#7 specification in Internet RFC 2315, PKCS #7: Cryptographic Message Syntax, Version 1.5. The original signed message digest over the document's byte range is incorporated as the normal PKCS#7 SignedData field. No data shall is encapsulated in the PKCS#7 SignedData field. |
+| [PasswordBoxField](./passwordboxfield/) | Class descibes text field for entering password. |
 | [RadioButtonField](./radiobuttonfield/) | Class representing radio button field. |
 | [RadioButtonOptionField](./radiobuttonoptionfield/) | Class represents item of RadioButton field. |
 | [RichTextBoxField](./richtextboxfield/) | Class describes rich text editor component. |
 | [Signature](./signature/) | An abstract class which represents signature object in the pdf document. Signatures are fields with values of signature objects, the last contain data which is used to verify the document validity. |
 | [SignatureCustomAppearance](./signaturecustomappearance/) | An abstract class which represents signature custon appearance object. |
 | [SignatureField](./signaturefield/) | Represents signature form field. |
-| [SignHash](./signhash/) | Delegate for custom sign the document hash. |
 | [TextBoxField](./textboxfield/) | Class representing text box field. |
 | [XFA](./xfa/) | Represents XML form regarding XML Forms Architecture (XFA). |
+
 ## Enumeration
 
 | Enumeration | Description |
@@ -54,4 +62,9 @@ The **Aspose.Pdf.Forms** namespace has classes which describes forms (standard, 
 | [SubjectNameElements](./subjectnameelements/) | Enumeration describes elements in signature subject string. |
 | [Symbology](./symbology/) | A (Barcode) Symbology defines the technical details of a particular type of barcode: the width of the bars, character set, method of encoding, checksum specifications, etc. |
 
+## Delegates
+
+| Delegate | Description |
+| --- | --- |
+| [SignHash](./signhash/) | Delegate for custom sign the document hash. |
 

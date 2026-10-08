@@ -1,10 +1,13 @@
 ---
-title: TOCElement.LinkTocPageTitleToHeaderElement
-second_title: Aspose.PDF for .NET API Reference
-description: TOCElement method. Links the Table of Contents TOC page title to a header element for document structure
+title: "TOCElement.LinkTocPageTitleToHeaderElement"
+linktitle: "LinkTocPageTitleToHeaderElement"
+articleTitle: "LinkTocPageTitleToHeaderElement"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TOCElement method. Links the Table of Contents (TOC) page title to a header element for document structure."
 type: docs
 weight: 10
-url: /net/aspose.pdf.logicalstructure/tocelement/linktocpagetitletoheaderelement/
+url: "/net/aspose.pdf.logicalstructure/tocelement/linktocpagetitletoheaderelement/"
+product_version: "26.9"
 ---
 ## TOCElement.LinkTocPageTitleToHeaderElement method
 
@@ -27,10 +30,9 @@ public void LinkTocPageTitleToHeaderElement(Page tocPage, HeaderElement tocTitle
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [HeaderElement](../../headerelement/)
-* class [TOCElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [HeaderElement](../../headerelement/)
+* class [TOCElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

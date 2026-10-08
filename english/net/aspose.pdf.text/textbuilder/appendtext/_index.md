@@ -1,10 +1,13 @@
 ---
-title: TextBuilder.AppendText
-second_title: Aspose.PDF for .NET API Reference
-description: TextBuilder method. Appends text fragment to Pdf page
+title: "TextBuilder.AppendText"
+linktitle: "AppendText"
+articleTitle: "AppendText"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextBuilder method. Appends text fragment to Pdf page"
 type: docs
-weight: 30
-url: /net/aspose.pdf.text/textbuilder/appendtext/
+weight: 40
+url: "/net/aspose.pdf.text/textbuilder/appendtext/"
+product_version: "26.9"
 ---
 ## AppendText(TextFragment) {#appendtext}
 
@@ -54,10 +57,10 @@ doc.Save(outFile);
 
 ### See Also
 
-* class [TextFragment](../../textfragment/)
-* class [TextBuilder](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TextFragment](../../textfragment/)
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -75,9 +78,8 @@ public void AppendText(List<TextFragment> textFragments)
 
 ### See Also
 
-* class [TextFragment](../../textfragment/)
-* class [TextBuilder](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragment](../../textfragment/)
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

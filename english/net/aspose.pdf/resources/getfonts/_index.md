@@ -1,10 +1,13 @@
 ---
-title: Resources.GetFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Resources method. Returns fonts collection. If resources dont contain fonts entry it will be created in depends of CreateIfAbsent flag
+title: "Resources.GetFonts"
+linktitle: "GetFonts"
+articleTitle: "GetFonts"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Resources method. Returns fonts collection. If resources don't contain fonts entry it will be created in depends of CreateIfAbsent flag."
 type: docs
-weight: 60
-url: /net/aspose.pdf/resources/getfonts/
+weight: 10
+url: "/net/aspose.pdf/resources/getfonts/"
+product_version: "26.9"
 ---
 ## Resources.GetFonts method
 
@@ -24,9 +27,8 @@ Fonts collection.
 
 ### See Also
 
-* class [FontCollection](../../../aspose.pdf.text/fontcollection/)
-* class [Resources](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FontCollection](../../../aspose.pdf.text/fontcollection/)
+* class [Resources](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

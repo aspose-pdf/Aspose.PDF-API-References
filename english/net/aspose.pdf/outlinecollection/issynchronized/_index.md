@@ -1,10 +1,13 @@
 ---
-title: OutlineCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection property. Gets a value indicating whether access to this collection is synchronized thread safe
+title: "OutlineCollection.IsSynchronized"
+linktitle: "IsSynchronized"
+articleTitle: "IsSynchronized"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineCollection property. Gets a value indicating whether access to this collection is synchronized (thread safe)."
 type: docs
-weight: 40
-url: /net/aspose.pdf/outlinecollection/issynchronized/
+weight: 140
+url: "/net/aspose.pdf/outlinecollection/issynchronized/"
+product_version: "26.9"
 ---
 ## OutlineCollection.IsSynchronized property
 
@@ -16,8 +19,7 @@ public bool IsSynchronized { get; }
 
 ### See Also
 
-* class [OutlineCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

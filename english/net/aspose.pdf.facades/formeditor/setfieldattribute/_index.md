@@ -1,10 +1,13 @@
 ---
-title: FormEditor.SetFieldAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Set attributes of field
+title: "FormEditor.SetFieldAttribute"
+linktitle: "SetFieldAttribute"
+articleTitle: "SetFieldAttribute"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Set attributes of field."
 type: docs
-weight: 290
-url: /net/aspose.pdf.facades/formeditor/setfieldattribute/
+weight: 30
+url: "/net/aspose.pdf.facades/formeditor/setfieldattribute/"
+product_version: "26.9"
 ---
 ## FormEditor.SetFieldAttribute method
 
@@ -33,9 +36,8 @@ formEditor.SetFieldAttribute("textField", PropertyFlag.NoExport);
 
 ### See Also
 
-* enum [PropertyFlag](../../propertyflag/)
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [PropertyFlag](../../propertyflag/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

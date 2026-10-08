@@ -1,10 +1,13 @@
 ---
-title: OpenAIOcrCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIOcrCopilotOptions method. Sets the top P value
+title: "OpenAIOcrCopilotOptions.WithTopP"
+linktitle: "WithTopP"
+articleTitle: "WithTopP"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIOcrCopilotOptions method. Sets the top P value."
 type: docs
-weight: 140
-url: /net/aspose.pdf.ai/openaiocrcopilotoptions/withtopp/
+weight: 60
+url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/withtopp/"
+product_version: "26.9"
 ---
 ## OpenAIOcrCopilotOptions.WithTopP method
 
@@ -24,8 +27,7 @@ The current instance of [`OpenAIOcrCopilotOptions`](../).
 
 ### See Also
 
-* class [OpenAIOcrCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OpenAIOcrCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

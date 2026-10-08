@@ -1,17 +1,22 @@
 ---
-title: Aspose.PDF for .NET
+title: "Aspose.PDF for .NET API Reference"
+linktitle: "Aspose.PDF for .NET API Reference"
+articleTitle: "Aspose.PDF for .NET API Reference"
+description: "Complete Aspose.PDF for .NET API reference. Create, edit, convert, and secure PDF documents programmatically without Adobe Acrobat."
 type: docs
 weight: 10
-url: /net/
-keywords: "Aspose.PDF for .NET, Aspose PDF, Aspose API Reference."
-description: Aspose.PDF is a .NET component built to allow developers to create PDF documents, whether simple or complex, on the fly programmatically.
+url: "/net/"
+keywords: "Aspose.PDF for .NET, Aspose.PDF, Aspose API Reference"
 is_root: true
+product_version: "26.9"
 ---
+_Updated for Aspose.PDF for .NET 26.9_
+
 ## Namespaces
 
 | Namespace | Description |
 | --- | --- |
-| [Aspose.Pdf](./aspose.pdf/) | The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library which are either directly in it like **Document** or indirectly through several subnamespaces. |
+| [Aspose.Pdf](./aspose.pdf/) | The **Aspose.Pdf** is a root namespace for all classes of Aspose.Pdf library which are either directly in it like **[`Document`](aspose.pdf/document/)** or indirectly through several subnamespaces. |
 | [Aspose.Pdf.AI](./aspose.pdf.ai/) | The **Aspose.Pdf.AI** namespace provides classes for AI functionalities, including API clients and intelligent assistants. |
 | [Aspose.Pdf.Annotations](./aspose.pdf.annotations/) | The **Aspose.Pdf.Annotations** namespace provides classes for working with various types of actions, destinations and other features of document which traditionally called as interactive providing means user can intercommunicate with it. |
 | [Aspose.Pdf.Comparison](./aspose.pdf.comparison/) | The **Aspose.Pdf.Comparison** namespace provides classes for the PDF comparison functionalities. |
@@ -30,12 +35,11 @@ is_root: true
 | [Aspose.Pdf.Printing](./aspose.pdf.printing/) | The **Aspose.Pdf.Printing** namespace provides classes and functionalities for handling PDF printing operations, including printer settings, page settings, and extensions for managing print-related configurations. |
 | [Aspose.Pdf.Sanitization](./aspose.pdf.sanitization/) | The **Aspose.Pdf.Sanitization** is a namespace for sanitization operations. |
 | [Aspose.Pdf.Security](./aspose.pdf.security/) | The **Aspose.Pdf.Security** namespace contains classes used for encryption and digital signing. |
-| [Aspose.Pdf.Security.HiddenDataSanitization](./aspose.pdf.security.hiddendatasanitization/) |  |
+| [Aspose.Pdf.Security.HiddenDataSanitization](./aspose.pdf.security.hiddendatasanitization/) | The **Aspose.Pdf.Security.HiddenDataSanitization** namespace provides classes. |
 | [Aspose.Pdf.Signatures](./aspose.pdf.signatures/) | The **Aspose.Pdf.Signatures** namespace provides classes for signatures functionalities. |
 | [Aspose.Pdf.Structure](./aspose.pdf.structure/) | The **Aspose.Pdf.Structure** namespace provides classes which help to work with a logical structure of a document which presents the organization of the document into chapters and sections or the identification of special elements such as figures, tables, and footnotes. |
 | [Aspose.Pdf.Tagged](./aspose.pdf.tagged/) | The **Aspose.Pdf.Tagged** is a namespace for classes for support of Tagged PDF documents. |
 | [Aspose.Pdf.Text](./aspose.pdf.text/) | The **Aspose.Pdf.Text** namespace provides classes that allow to extract text, add text, manipulate existing text of a document. It also contain classes that allow to extract, replace, substitute fonts of a document. |
 | [Aspose.Pdf.Vector](./aspose.pdf.vector/) | The **Aspose.Pdf.Vector** is a root namespace for graphics operations. |
 | [Aspose.Pdf.XfaConverter](./aspose.pdf.xfaconverter/) | The **Aspose.Pdf.XfaConverter** namespace provides classes that allow to convert XFA. |
-
 

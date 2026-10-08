@@ -1,10 +1,14 @@
 ---
-title: Class XmpPdfAExtensionSchemaDescription
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XmpPdfAExtensionSchemaDescription class. Represents the description of XMP extension schema which is provided by PDF/A1
+title: "XmpPdfAExtensionSchemaDescription Class"
+linktitle: "XmpPdfAExtensionSchemaDescription"
+articleTitle: "XmpPdfAExtensionSchemaDescription"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.XmpPdfAExtensionSchemaDescription class. Represents the description of XMP extension schema which is provided by PDF/A-1."
 type: docs
-weight: 11890
-url: /net/aspose.pdf/xmppdfaextensionschemadescription/
+weight: 3290
+url: "/net/aspose.pdf/xmppdfaextensionschemadescription/"
+keywords: "XmpPdfAExtensionSchemaDescription, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchemaDescription class
 
@@ -18,15 +22,15 @@ public class XmpPdfAExtensionSchemaDescription
 
 | Name | Description |
 | --- | --- |
-| [XmpPdfAExtensionSchemaDescription](xmppdfaextensionschemadescription/)(string, string, string) | Initializes new object. |
+| [XmpPdfAExtensionSchemaDescription](xmppdfaextensionschemadescription/)(string, string, string) | Initializes new object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Description](../../aspose.pdf/xmppdfaextensionschemadescription/description/) { get; } | Gets the optional description. |
-| [NamespaceURI](../../aspose.pdf/xmppdfaextensionschemadescription/namespaceuri/) { get; } | Gets the namespace URI. |
-| [Prefix](../../aspose.pdf/xmppdfaextensionschemadescription/prefix/) { get; } | Gets the prefix. |
+| [Description](../../aspose.pdf/xmppdfaextensionschemadescription/description/) { get; } | Gets the optional description. |
+| [NamespaceURI](../../aspose.pdf/xmppdfaextensionschemadescription/namespaceuri/) { get; } | Gets the namespace URI. |
+| [Prefix](../../aspose.pdf/xmppdfaextensionschemadescription/prefix/) { get; } | Gets the prefix. |
 
 ## Methods
 
@@ -36,7 +40,6 @@ public class XmpPdfAExtensionSchemaDescription
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

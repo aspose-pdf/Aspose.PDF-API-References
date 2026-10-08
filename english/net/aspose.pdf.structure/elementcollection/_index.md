@@ -1,10 +1,14 @@
 ---
-title: Class ElementCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Structure.ElementCollection class. Collection of base logical structure elements
+title: "ElementCollection Class"
+linktitle: "ElementCollection"
+articleTitle: "ElementCollection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Structure.ElementCollection class. Collection of base logical structure elements."
 type: docs
-weight: 10550
-url: /net/aspose.pdf.structure/elementcollection/
+weight: 30
+url: "/net/aspose.pdf.structure/elementcollection/"
+keywords: "ElementCollection, Aspose.Pdf.Structure, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## ElementCollection class
 
@@ -18,8 +22,8 @@ public class ElementCollection : IEnumerable<Element>
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.pdf.structure/elementcollection/count/) { get; } | Count of elements. |
-| [Item](../../aspose.pdf.structure/elementcollection/item/) { get; } | Gets Element by index. |
+| [Count](../../aspose.pdf.structure/elementcollection/count/) { get; } | Count of elements. |
+| [Item](../../aspose.pdf.structure/elementcollection/item/) { get; } | Gets Element by index. |
 
 ## Methods
 
@@ -30,8 +34,7 @@ public class ElementCollection : IEnumerable<Element>
 
 ### See Also
 
-* class [Element](../element/)
-* namespace [Aspose.Pdf.Structure](../../aspose.pdf.structure/)
-* assembly [Aspose.PDF](../../)
-
+* class [Element](../element/)
+* namespace [Aspose.Pdf.Structure](../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../)
 

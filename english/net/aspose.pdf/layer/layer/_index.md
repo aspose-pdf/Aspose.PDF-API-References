@@ -1,10 +1,13 @@
 ---
-title: Layer.Layer
-second_title: Aspose.PDF for .NET API Reference
-description: Layer constructor. Initializes a new instance of the Layer class
+title: "Layer.Layer"
+linktitle: "Layer"
+articleTitle: "Layer"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Layer constructor. Initializes a new instance of the Layer class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/layer/layer/
+url: "/net/aspose.pdf/layer/layer/"
+product_version: "26.9"
 ---
 ## Layer constructor
 
@@ -21,8 +24,7 @@ public Layer(string id, string name)
 
 ### See Also
 
-* class [Layer](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

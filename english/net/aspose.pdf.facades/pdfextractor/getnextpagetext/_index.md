@@ -1,12 +1,15 @@
 ---
-title: PdfExtractor.GetNextPageText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor method. Saves one pages text to file
+title: "PdfExtractor.GetNextPageText"
+linktitle: "GetNextPageText"
+articleTitle: "GetNextPageText"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfExtractor method. Saves one page's text to file."
 type: docs
-weight: 180
-url: /net/aspose.pdf.facades/pdfextractor/getnextpagetext/
+weight: 200
+url: "/net/aspose.pdf.facades/pdfextractor/getnextpagetext/"
+product_version: "26.9"
 ---
-## GetNextPageText(string) {#getnextpagetext_1}
+## GetNextPageText(string) {#getnextpagetext}
 
 Saves one page's text to file.
 
@@ -36,28 +39,15 @@ while (extractor.HasNextPageText())
 }
 ```
 
-```csharp
-Dim extractor As PdfExtractor =  New PdfExtractor() 
-extractor.BindPdf(TestPath + "Aspose.Pdf.Kit.Pdf")
-extractor.ExtractText(Encoding.Unicode)
-Dim prefix As String =  TestPath + "Aspose.Pdf.Kit" 
-Dim suffix As String =  ".txt" 
-Dim pageCount As Integer =  1 
-While extractor.HasNextPageText()
-    extractor.GetNextPageText(prefix + pageCount + suffix)
-    pageCount = pageCount + 1
-End While
-```
-
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextPageText(Stream) {#getnextpagetext}
+## GetNextPageText(Stream) {#getnextpagetext_1}
 
 Saves one page's text to stream.
 
@@ -91,8 +81,7 @@ while (extractor.HasNextPageText())
 
 ### See Also
 
-* class [PdfExtractor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

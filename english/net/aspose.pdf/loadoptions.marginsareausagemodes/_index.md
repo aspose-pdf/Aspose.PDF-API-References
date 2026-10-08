@@ -1,14 +1,19 @@
 ---
-title: Enum LoadOptions.MarginsAreaUsageModes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LoadOptionsMarginsAreaUsageModes enum. Represents mode of usage of margins area during conversion like HTML EPUB etc defines treatement of instructions of imported format related to usage of margins
+title: "LoadOptions.MarginsAreaUsageModes Enum"
+linktitle: "LoadOptions.MarginsAreaUsageModes"
+articleTitle: "LoadOptions.MarginsAreaUsageModes"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LoadOptions.MarginsAreaUsageModes enum. Represents mode of usage of margins area during conversion (like HTML, EPUB etc), defines treatement of in..."
 type: docs
-weight: 6280
-url: /net/aspose.pdf/loadoptions.marginsareausagemodes/
+weight: 1760
+url: "/net/aspose.pdf/loadoptions.marginsareausagemodes/"
+product_version: "26.9"
 ---
 ## LoadOptions.MarginsAreaUsageModes enumeration
 
-Represents mode of usage of margins area during conversion (like HTML, EPUB etc), defines treatement of instructions of imported format related to usage of margins.
+Represents mode of usage of margins area during conversion 
+ (like HTML, EPUB etc), defines treatement of instructions of imported format 
+ related to usage of margins.
 
 ```csharp
 public enum MarginsAreaUsageModes
@@ -23,8 +28,7 @@ public enum MarginsAreaUsageModes
 
 ### See Also
 
-* class [LoadOptions](../loadoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

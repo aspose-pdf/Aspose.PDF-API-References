@@ -1,10 +1,13 @@
 ---
-title: SignatureField.ExtractImage
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureField method. Extracts signatures image as jpeg encoded stream
+title: "SignatureField.ExtractImage"
+linktitle: "ExtractImage"
+articleTitle: "ExtractImage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignatureField method. Extracts signature's image as jpeg encoded stream."
 type: docs
 weight: 50
-url: /net/aspose.pdf.forms/signaturefield/extractimage/
+url: "/net/aspose.pdf.forms/signaturefield/extractimage/"
+product_version: "26.9"
 ---
 ## ExtractImage() {#extractimage}
 
@@ -20,9 +23,9 @@ If image was successfully found than returns jpeg encoded stream object; otherwi
 
 ### See Also
 
-* class [SignatureField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -44,8 +47,7 @@ If image was successfully found than returns encodedstream object; otherwise, nu
 
 ### See Also
 
-* class [SignatureField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

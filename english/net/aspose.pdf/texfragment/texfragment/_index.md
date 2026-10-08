@@ -1,10 +1,13 @@
 ---
-title: TeXFragment.TeXFragment
-second_title: Aspose.PDF for .NET API Reference
-description: TeXFragment constructor. Initializes a new instance of the HtmlFragment class
+title: "TeXFragment.TeXFragment"
+linktitle: "TeXFragment"
+articleTitle: "TeXFragment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TeXFragment constructor. Initializes a new instance of the HtmlFragment class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/texfragment/texfragment/
+url: "/net/aspose.pdf/texfragment/texfragment/"
+product_version: "26.9"
 ---
 ## TeXFragment(string) {#constructor}
 
@@ -20,13 +23,13 @@ public TeXFragment(string text)
 
 ### See Also
 
-* class [TeXFragment](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [TeXFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TeXFragment(string, bool) {#constructor_1}
+## TeXFragment(string, bool) {#constructor_1}
 
 Initializes a new instance of the HtmlFragment class.
 
@@ -41,8 +44,7 @@ public TeXFragment(string text, bool removeIndents)
 
 ### See Also
 
-* class [TeXFragment](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TeXFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

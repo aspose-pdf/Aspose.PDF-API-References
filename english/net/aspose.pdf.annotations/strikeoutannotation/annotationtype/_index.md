@@ -1,10 +1,13 @@
 ---
-title: StrikeOutAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: StrikeOutAnnotation property. Gets type of annotation
+title: "StrikeOutAnnotation.AnnotationType"
+linktitle: "AnnotationType"
+articleTitle: "AnnotationType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StrikeOutAnnotation property. Gets type of annotation."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/strikeoutannotation/annotationtype/
+weight: 30
+url: "/net/aspose.pdf.annotations/strikeoutannotation/annotationtype/"
+product_version: "26.9"
 ---
 ## StrikeOutAnnotation.AnnotationType property
 
@@ -16,9 +19,8 @@ public override AnnotationType AnnotationType { get; }
 
 ### See Also
 
-* enum [AnnotationType](../../annotationtype/)
-* class [StrikeOutAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [AnnotationType](../../annotationtype/)
+* class [StrikeOutAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

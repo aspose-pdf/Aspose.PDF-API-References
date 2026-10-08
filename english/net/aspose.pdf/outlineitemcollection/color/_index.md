@@ -1,10 +1,13 @@
 ---
-title: OutlineItemCollection.Color
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection property. Gets or sets the color for the title text of this outline item
+title: "OutlineItemCollection.Color"
+linktitle: "Color"
+articleTitle: "Color"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection property. Gets or sets the color for the title text of this outline item."
 type: docs
-weight: 40
-url: /net/aspose.pdf/outlineitemcollection/color/
+weight: 150
+url: "/net/aspose.pdf/outlineitemcollection/color/"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.Color property
 
@@ -16,8 +19,7 @@ public Color Color { get; set; }
 
 ### See Also
 
-* class [OutlineItemCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

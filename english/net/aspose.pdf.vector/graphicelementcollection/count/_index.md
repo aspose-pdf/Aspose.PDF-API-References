@@ -1,10 +1,13 @@
 ---
-title: GraphicElementCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection property. Gets the number of GraphicElement object elements actually contained in the collection
+title: "GraphicElementCollection.Count"
+linktitle: "Count"
+articleTitle: "Count"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphicElementCollection property. Gets the number of GraphicElement object elements actually contained in the collection."
 type: docs
-weight: 20
-url: /net/aspose.pdf.vector/graphicelementcollection/count/
+weight: 90
+url: "/net/aspose.pdf.vector/graphicelementcollection/count/"
+product_version: "26.9"
 ---
 ## GraphicElementCollection.Count property
 
@@ -16,8 +19,7 @@ public int Count { get; }
 
 ### See Also
 
-* class [GraphicElementCollection](../)
-* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* assembly [Aspose.PDF](../../../)
-
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
 

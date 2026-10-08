@@ -1,10 +1,13 @@
 ---
-title: TextStyle.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle property. Name of the font
+title: "TextStyle.FontName"
+linktitle: "FontName"
+articleTitle: "FontName"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStyle property. Name of the font."
 type: docs
 weight: 20
-url: /net/aspose.pdf.annotations/textstyle/fontname/
+url: "/net/aspose.pdf.annotations/textstyle/fontname/"
+product_version: "26.9"
 ---
 ## TextStyle.FontName property
 
@@ -16,8 +19,7 @@ public string FontName { get; set; }
 
 ### See Also
 
-* class [TextStyle](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

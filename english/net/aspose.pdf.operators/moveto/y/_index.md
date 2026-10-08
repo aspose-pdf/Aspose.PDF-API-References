@@ -1,10 +1,13 @@
 ---
-title: MoveTo.Y
-second_title: Aspose.PDF for .NET API Reference
-description: MoveTo property. Y coordinate
+title: "MoveTo.Y"
+linktitle: "Y"
+articleTitle: "Y"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MoveTo property. Y coordinate"
 type: docs
-weight: 30
-url: /net/aspose.pdf.operators/moveto/y/
+weight: 50
+url: "/net/aspose.pdf.operators/moveto/y/"
+product_version: "26.9"
 ---
 ## MoveTo.Y property
 
@@ -16,8 +19,7 @@ public double Y { get; set; }
 
 ### See Also
 
-* class [MoveTo](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MoveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

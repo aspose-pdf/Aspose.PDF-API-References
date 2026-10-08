@@ -1,10 +1,13 @@
 ---
-title: Interface INamedDestinationCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.INamedDestinationCollection interface. Collection of Named Destinations
+title: "INamedDestinationCollection Interface"
+linktitle: "INamedDestinationCollection"
+articleTitle: "INamedDestinationCollection"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.INamedDestinationCollection interface. Collection of Named Destinations."
 type: docs
-weight: 5920
-url: /net/aspose.pdf/inameddestinationcollection/
+weight: 1400
+url: "/net/aspose.pdf/inameddestinationcollection/"
+product_version: "26.9"
 ---
 ## INamedDestinationCollection interface
 
@@ -18,20 +21,19 @@ public interface INamedDestinationCollection
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.pdf/inameddestinationcollection/count/) { get; } | Returns count of the destinations. |
-| [Item](../../aspose.pdf/inameddestinationcollection/item/) { get; set; } | Gets or sets destination by its name. |
-| [Names](../../aspose.pdf/inameddestinationcollection/names/) { get; } | Gets array of names of the destinations. |
+| [Count](../../aspose.pdf/inameddestinationcollection/count/) { get; } | Returns count of the destinations. |
+| [Item](../../aspose.pdf/inameddestinationcollection/item/) { get; set; } | Gets or sets destination by its name. |
+| [Names](../../aspose.pdf/inameddestinationcollection/names/) { get; } | Gets array of names of the destinations. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.pdf/inameddestinationcollection/add/)(string, IAppointment) | Adds new named destination. |
+| [Add](../../aspose.pdf/inameddestinationcollection/add/)(string, IAppointment) | Adds new named destination. |
 | [Remove](../../aspose.pdf/inameddestinationcollection/remove/)(string) | Removes destination by its name. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

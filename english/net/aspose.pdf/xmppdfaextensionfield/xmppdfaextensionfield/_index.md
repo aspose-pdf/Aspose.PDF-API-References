@@ -1,10 +1,13 @@
 ---
-title: XmpPdfAExtensionField.XmpPdfAExtensionField
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionField constructor. Initializes object
+title: "XmpPdfAExtensionField.XmpPdfAExtensionField"
+linktitle: "XmpPdfAExtensionField"
+articleTitle: "XmpPdfAExtensionField"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionField constructor. Initializes object."
 type: docs
 weight: 10
-url: /net/aspose.pdf/xmppdfaextensionfield/xmppdfaextensionfield/
+url: "/net/aspose.pdf/xmppdfaextensionfield/xmppdfaextensionfield/"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionField constructor
 
@@ -23,8 +26,7 @@ public XmpPdfAExtensionField(string name, string value, string valueType, string
 
 ### See Also
 
-* class [XmpPdfAExtensionField](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpPdfAExtensionField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

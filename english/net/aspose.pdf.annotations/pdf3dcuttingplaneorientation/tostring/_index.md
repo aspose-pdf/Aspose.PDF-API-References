@@ -1,14 +1,17 @@
 ---
-title: PDF3DCuttingPlaneOrientation.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCuttingPlaneOrientation method. Returns a String that represents this instance
+title: "PDF3DCuttingPlaneOrientation.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCuttingPlaneOrientation method. Returns a String that represents this instance."
 type: docs
-weight: 50
-url: /net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/
+weight: 30
+url: "/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/"
+product_version: "26.9"
 ---
 ## PDF3DCuttingPlaneOrientation.ToString method
 
-Returns a String that represents this instance.
+Returns a `String` that represents this instance.
 
 ```csharp
 public override string ToString()
@@ -16,12 +19,11 @@ public override string ToString()
 
 ### Return Value
 
-A String that represents this instance.
+A `String` that represents this instance.
 
 ### See Also
 
-* class [PDF3DCuttingPlaneOrientation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DCuttingPlaneOrientation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

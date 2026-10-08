@@ -1,12 +1,15 @@
 ---
-title: TextExtractorOptions.TextExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractorOptions constructor. Initializes a new instance of the TextExtractorOptions object for the specified text formatting mode
+title: "TextExtractorOptions.TextExtractorOptions"
+linktitle: "TextExtractorOptions"
+articleTitle: "TextExtractorOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextExtractorOptions constructor. Initializes a new instance of the TextExtractorOptions object for the specified text formatting mode."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/textextractoroptions/textextractoroptions/
+url: "/net/aspose.pdf.lowcode/textextractoroptions/textextractoroptions/"
+product_version: "26.9"
 ---
-## TextExtractorOptions(TextFormattingMode) {#constructor_1}
+## TextExtractorOptions(TextFormattingMode) {#constructor}
 
 Initializes a new instance of the [`TextExtractorOptions`](../) object for the specified text formatting mode.
 
@@ -20,14 +23,14 @@ public TextExtractorOptions(TextFormattingMode formattingMode)
 
 ### See Also
 
-* enum [TextFormattingMode](../../textextractoroptions.textformattingmode/)
-* class [TextExtractorOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
+* enum [TextFormattingMode](../../textextractoroptions.textformattingmode/)
+* class [TextExtractorOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextExtractorOptions() {#constructor}
+## TextExtractorOptions() {#constructor_1}
 
 Initializes a new instance of the [`TextExtractorOptions`](../) object with 'Raw' (default) text formatting mode.
 
@@ -37,8 +40,7 @@ public TextExtractorOptions()
 
 ### See Also
 
-* class [TextExtractorOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextExtractorOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: WidgetAnnotation.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation property. Gets or sets default appearance of the field
+title: "WidgetAnnotation.DefaultAppearance"
+linktitle: "DefaultAppearance"
+articleTitle: "DefaultAppearance"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "WidgetAnnotation property. Gets or sets default appearance of the field."
 type: docs
-weight: 40
-url: /net/aspose.pdf.annotations/widgetannotation/defaultappearance/
+weight: 100
+url: "/net/aspose.pdf.annotations/widgetannotation/defaultappearance/"
+product_version: "26.9"
 ---
 ## WidgetAnnotation.DefaultAppearance property
 
@@ -16,9 +19,8 @@ public DefaultAppearance DefaultAppearance { get; set; }
 
 ### See Also
 
-* class [DefaultAppearance](../../defaultappearance/)
-* class [WidgetAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DefaultAppearance](../../defaultappearance/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

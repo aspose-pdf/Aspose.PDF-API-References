@@ -1,10 +1,13 @@
 ---
-title: Curve.Curve
-second_title: Aspose.PDF for .NET API Reference
-description: Curve constructor. Initializes a new instance of the Curve class
+title: "Curve.Curve"
+linktitle: "Curve"
+articleTitle: "Curve"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Curve constructor. Initializes a new instance of the Curve class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.drawing/curve/curve/
+url: "/net/aspose.pdf.drawing/curve/curve/"
+product_version: "26.9"
 ---
 ## Curve constructor
 
@@ -20,8 +23,7 @@ public Curve(float[] positionArray)
 
 ### See Also
 
-* class [Curve](../)
-* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Curve](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 

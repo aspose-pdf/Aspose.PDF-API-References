@@ -1,10 +1,13 @@
 ---
-title: IStringOutputGenerator.GenerateOutput
-second_title: Aspose.PDF for .NET API Reference
-description: IStringOutputGenerator method. Generates the output based on the differences between texts and saves it to a file
+title: "IStringOutputGenerator.GenerateOutput"
+linktitle: "GenerateOutput"
+articleTitle: "GenerateOutput"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IStringOutputGenerator method. Generates the output based on the differences between texts and saves it to a file."
 type: docs
 weight: 10
-url: /net/aspose.pdf.comparison/istringoutputgenerator/generateoutput/
+url: "/net/aspose.pdf.comparison/istringoutputgenerator/generateoutput/"
+product_version: "26.9"
 ---
 ## GenerateOutput(List&lt;DiffOperation&gt;) {#generateoutput}
 
@@ -24,10 +27,10 @@ Text representation of output.
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* interface [IStringOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
+* class [DiffOperation](../../diffoperation/)
+* interface [IStringOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -49,9 +52,8 @@ Text representation of output.
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* interface [IStringOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DiffOperation](../../diffoperation/)
+* interface [IStringOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

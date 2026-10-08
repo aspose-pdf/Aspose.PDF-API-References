@@ -1,10 +1,13 @@
 ---
-title: RotateOptions.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: RotateOptions property. Gets or sets new pages rotation
+title: "RotateOptions.Rotation"
+linktitle: "Rotation"
+articleTitle: "Rotation"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "RotateOptions property. Gets or sets new pages rotation."
 type: docs
 weight: 20
-url: /net/aspose.pdf.lowcode/rotateoptions/rotation/
+url: "/net/aspose.pdf.lowcode/rotateoptions/rotation/"
+product_version: "26.9"
 ---
 ## RotateOptions.Rotation property
 
@@ -16,9 +19,8 @@ public Rotation Rotation { get; set; }
 
 ### See Also
 
-* enum [Rotation](../../../aspose.pdf/rotation/)
-* class [RotateOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [Rotation](../../../aspose.pdf/rotation/)
+* class [RotateOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

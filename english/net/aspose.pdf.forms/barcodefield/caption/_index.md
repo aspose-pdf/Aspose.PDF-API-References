@@ -1,10 +1,13 @@
 ---
-title: BarcodeField.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: BarcodeField property. Gets the caption of the barcode object
+title: "BarcodeField.Caption"
+linktitle: "Caption"
+articleTitle: "Caption"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BarcodeField property. Gets the caption of the barcode object."
 type: docs
-weight: 20
-url: /net/aspose.pdf.forms/barcodefield/caption/
+weight: 40
+url: "/net/aspose.pdf.forms/barcodefield/caption/"
+product_version: "26.9"
 ---
 ## BarcodeField.Caption property
 
@@ -16,8 +19,7 @@ public string Caption { get; }
 
 ### See Also
 
-* class [BarcodeField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BarcodeField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

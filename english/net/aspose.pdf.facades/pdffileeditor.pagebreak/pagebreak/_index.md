@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.PageBreak.PageBreak
-second_title: Aspose.PDF for .NET API Reference
-description: PageBreak constructor. Constructor to create PageBreak object
+title: "PdfFileEditor.PageBreak.PageBreak"
+linktitle: "PdfFileEditor.PageBreak"
+articleTitle: "PdfFileEditor.PageBreak"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageBreak constructor. Constructor to create PageBreak object."
 type: docs
 weight: 10
-url: /net/aspose.pdf.facades/pdffileeditor.pagebreak/pagebreak/
+url: "/net/aspose.pdf.facades/pdffileeditor.pagebreak/pagebreak/"
+product_version: "26.9"
 ---
-## PdfFileEditor.PageBreak constructor
+## PageBreak constructor
 
 Constructor to create PageBreak object.
 
@@ -21,8 +24,7 @@ public PageBreak(int pageNumber, double position)
 
 ### See Also
 
-* class [PageBreak](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageBreak](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

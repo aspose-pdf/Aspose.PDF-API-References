@@ -1,12 +1,15 @@
 ---
-title: IFacade.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: IFacade method. Binds PDF document for editing
+title: "IFacade.BindPdf"
+linktitle: "BindPdf"
+articleTitle: "BindPdf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IFacade method. Binds PDF document for editing."
 type: docs
 weight: 10
-url: /net/aspose.pdf.facades/ifacade/bindpdf/
+url: "/net/aspose.pdf.facades/ifacade/bindpdf/"
+product_version: "26.9"
 ---
-## BindPdf(string) {#bindpdf_2}
+## BindPdf(string) {#bindpdf}
 
 Binds PDF document for editing.
 
@@ -20,9 +23,9 @@ public void BindPdf(string srcFile)
 
 ### See Also
 
-* interface [IFacade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* interface [IFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,13 +43,13 @@ public void BindPdf(Stream srcStream)
 
 ### See Also
 
-* interface [IFacade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* interface [IFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BindPdf(Document) {#bindpdf}
+## BindPdf(Document) {#bindpdf_2}
 
 Binds PDF document for editing.
 
@@ -60,9 +63,8 @@ public void BindPdf(Document srcDoc)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* interface [IFacade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* interface [IFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: SetLineCap.SetLineCap
-second_title: Aspose.PDF for .NET API Reference
-description: SetLineCap constructor. Initializes SetLineCap operator
+title: "SetLineCap.SetLineCap"
+linktitle: "SetLineCap"
+articleTitle: "SetLineCap"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetLineCap constructor. Initializes SetLineCap operator"
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/setlinecap/setlinecap/
+url: "/net/aspose.pdf.operators/setlinecap/setlinecap/"
+product_version: "26.9"
 ---
 ## SetLineCap constructor
 
@@ -20,9 +23,8 @@ public SetLineCap(LineCap cap)
 
 ### See Also
 
-* enum [LineCap](../../linecap/)
-* class [SetLineCap](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [LineCap](../../linecap/)
+* class [SetLineCap](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: StreamSaveTarget.Data
-second_title: Aspose.PDF for .NET API Reference
-description: StreamSaveTarget property. Gets the stream of current save target
+title: "StreamSaveTarget.Data"
+linktitle: "Data"
+articleTitle: "Data"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StreamSaveTarget property. Gets the stream of current save target."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/streamsavetarget/data/
+weight: 30
+url: "/net/aspose.pdf.lowcode/streamsavetarget/data/"
+product_version: "26.9"
 ---
 ## StreamSaveTarget.Data property
 
@@ -20,8 +23,7 @@ A stream object representing output data.
 
 ### See Also
 
-* class [StreamSaveTarget](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StreamSaveTarget](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

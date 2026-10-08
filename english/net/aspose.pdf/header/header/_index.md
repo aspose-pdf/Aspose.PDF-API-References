@@ -1,10 +1,13 @@
 ---
-title: Header.Header
-second_title: Aspose.PDF for .NET API Reference
-description: Header constructor. The default constructor
+title: "Header.Header"
+linktitle: "Header"
+articleTitle: "Header"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Header constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf/header/header/
+url: "/net/aspose.pdf/header/header/"
+product_version: "26.9"
 ---
 ## Header constructor
 
@@ -16,8 +19,7 @@ public Header()
 
 ### See Also
 
-* class [Header](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Header](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

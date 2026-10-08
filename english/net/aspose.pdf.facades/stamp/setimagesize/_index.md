@@ -1,10 +1,13 @@
 ---
-title: Stamp.SetImageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp method. Sets size of image stamp. Image will be scaled according to the specified values
+title: "Stamp.SetImageSize"
+linktitle: "SetImageSize"
+articleTitle: "SetImageSize"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp method. Sets size of image stamp. Image will be scaled according to the specified values."
 type: docs
-weight: 140
-url: /net/aspose.pdf.facades/stamp/setimagesize/
+weight: 80
+url: "/net/aspose.pdf.facades/stamp/setimagesize/"
+product_version: "26.9"
 ---
 ## Stamp.SetImageSize method
 
@@ -21,8 +24,7 @@ public void SetImageSize(float width, float height)
 
 ### See Also
 
-* class [Stamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

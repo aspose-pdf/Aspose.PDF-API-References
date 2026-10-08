@@ -1,10 +1,14 @@
 ---
-title: Class TaggedException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Tagged.TaggedException class. Represents exception for TaggedPDF content of document
+title: "TaggedException Class"
+linktitle: "TaggedException"
+articleTitle: "TaggedException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Tagged.TaggedException class. Represents exception for TaggedPDF content of document."
 type: docs
-weight: 10730
-url: /net/aspose.pdf.tagged/taggedexception/
+weight: 50
+url: "/net/aspose.pdf.tagged/taggedexception/"
+keywords: "TaggedException, Aspose.Pdf.Tagged, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## TaggedException class
 
@@ -22,8 +26,7 @@ public class TaggedException : PdfException
 
 ### See Also
 
-* class [PdfException](../../aspose.pdf/pdfexception/)
-* namespace [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfException](../../aspose.pdf/pdfexception/)
+* namespace [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../)
 

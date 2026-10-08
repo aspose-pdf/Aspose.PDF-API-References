@@ -1,10 +1,13 @@
 ---
-title: PdfPageEditor.SPLITHOUT
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor field. Out Horizontal Split
+title: "PdfPageEditor.SPLITHOUT"
+linktitle: "SPLITHOUT"
+articleTitle: "SPLITHOUT"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. Out Horizontal Split"
 type: docs
-weight: 300
-url: /net/aspose.pdf.facades/pdfpageeditor/splithout/
+weight: 220
+url: "/net/aspose.pdf.facades/pdfpageeditor/splithout/"
+product_version: "26.9"
 ---
 ## PdfPageEditor.SPLITHOUT field
 
@@ -16,8 +19,7 @@ public const int SPLITHOUT;
 
 ### See Also
 
-* class [PdfPageEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

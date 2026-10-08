@@ -1,10 +1,13 @@
 ---
-title: DocumentInfo.DocumentInfo
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo constructor. Initialize DocumentInfo instance
+title: "DocumentInfo.DocumentInfo"
+linktitle: "DocumentInfo"
+articleTitle: "DocumentInfo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentInfo constructor. Initialize DocumentInfo instance."
 type: docs
 weight: 10
-url: /net/aspose.pdf/documentinfo/documentinfo/
+url: "/net/aspose.pdf/documentinfo/documentinfo/"
+product_version: "26.9"
 ---
 ## DocumentInfo constructor
 
@@ -20,9 +23,8 @@ public DocumentInfo(Document document)
 
 ### See Also
 
-* class [Document](../../document/)
-* class [DocumentInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../document/)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

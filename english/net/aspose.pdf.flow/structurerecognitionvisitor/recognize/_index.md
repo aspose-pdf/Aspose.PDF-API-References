@@ -1,10 +1,13 @@
 ---
-title: StructureRecognitionVisitor.Recognize
-second_title: Aspose.PDF for .NET API Reference
-description: StructureRecognitionVisitor method. Start recognition of document
+title: "StructureRecognitionVisitor.Recognize"
+linktitle: "Recognize"
+articleTitle: "Recognize"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureRecognitionVisitor method. Start recognition of document"
 type: docs
-weight: 30
-url: /net/aspose.pdf.flow/structurerecognitionvisitor/recognize/
+weight: 70
+url: "/net/aspose.pdf.flow/structurerecognitionvisitor/recognize/"
+product_version: "26.9"
 ---
 ## Recognize(Document) {#recognize}
 
@@ -20,10 +23,10 @@ public virtual void Recognize(Document document)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [StructureRecognitionVisitor](../)
-* namespace [Aspose.Pdf.Flow](../../../aspose.pdf.flow/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [StructureRecognitionVisitor](../)
+* namespace [Aspose.Pdf.Flow](../../../aspose.pdf.flow/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,9 +44,8 @@ public virtual void Recognize(Page page)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [StructureRecognitionVisitor](../)
-* namespace [Aspose.Pdf.Flow](../../../aspose.pdf.flow/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [StructureRecognitionVisitor](../)
+* namespace [Aspose.Pdf.Flow](../../../aspose.pdf.flow/)
+* assembly [Aspose.PDF](../../../)
 

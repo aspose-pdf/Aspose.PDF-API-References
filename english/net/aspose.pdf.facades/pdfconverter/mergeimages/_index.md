@@ -1,10 +1,13 @@
 ---
-title: PdfConverter.MergeImages
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter method. Merges list of image streams as one image stream. Png/jpg/tiff outputs formats are supported in case of using non supported format output stream encoded as Jpeg by default
+title: "PdfConverter.MergeImages"
+linktitle: "MergeImages"
+articleTitle: "MergeImages"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverter method. Merges list of image streams as one image stream. Png/jpg/tiff outputs formats are supported, in case of using non supported format outp..."
 type: docs
-weight: 180
-url: /net/aspose.pdf.facades/pdfconverter/mergeimages/
+weight: 530
+url: "/net/aspose.pdf.facades/pdfconverter/mergeimages/"
+product_version: "26.9"
 ---
 ## PdfConverter.MergeImages method
 
@@ -29,10 +32,9 @@ Image stream encoded as output image format.
 
 ### See Also
 
-* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
-* enum [ImageMergeMode](../../imagemergemode/)
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [ImageFormat](../../../aspose.pdf.drawing/imageformat/)
+* enum [ImageMergeMode](../../imagemergemode/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

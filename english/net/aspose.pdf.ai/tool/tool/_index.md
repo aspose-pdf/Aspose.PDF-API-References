@@ -1,10 +1,13 @@
 ---
-title: Tool.Tool
-second_title: Aspose.PDF for .NET API Reference
-description: Tool constructor. Initializes a new instance of the Tool class
+title: "Tool.Tool"
+linktitle: "Tool"
+articleTitle: "Tool"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Tool constructor. Initializes a new instance of the Tool class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/tool/tool/
+url: "/net/aspose.pdf.ai/tool/tool/"
+product_version: "26.9"
 ---
 ## Tool() {#constructor}
 
@@ -16,13 +19,13 @@ public Tool()
 
 ### See Also
 
-* class [Tool](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Tool(string) {#constructor_2}
+## Tool(string) {#constructor_1}
 
 Initializes a new instance of the [`Tool`](../) class with the specified tool type.
 
@@ -36,13 +39,13 @@ public Tool(string toolType)
 
 ### See Also
 
-* class [Tool](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Tool(Function) {#constructor_1}
+## Tool(Function) {#constructor_2}
 
 Initializes a new instance of the [`Tool`](../) class with the specified function.
 
@@ -56,9 +59,8 @@ public Tool(Function function)
 
 ### See Also
 
-* class [Function](../../function/)
-* class [Tool](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Function](../../function/)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

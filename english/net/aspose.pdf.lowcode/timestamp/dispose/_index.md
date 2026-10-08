@@ -1,10 +1,13 @@
 ---
-title: Timestamp.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Timestamp method. Releases resources used by the plugin
+title: "Timestamp.Dispose"
+linktitle: "Dispose"
+articleTitle: "Dispose"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Timestamp method. Releases resources used by the plugin."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/timestamp/dispose/
+weight: 30
+url: "/net/aspose.pdf.lowcode/timestamp/dispose/"
+product_version: "26.9"
 ---
 ## Timestamp.Dispose method
 
@@ -16,8 +19,7 @@ public void Dispose()
 
 ### See Also
 
-* class [Timestamp](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Timestamp](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

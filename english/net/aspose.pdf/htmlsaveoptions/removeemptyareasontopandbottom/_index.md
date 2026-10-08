@@ -1,10 +1,13 @@
 ---
-title: HtmlSaveOptions.RemoveEmptyAreasOnTopAndBottom
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions field. Defines whether in created HTML will be removed top and bottom empty area without any content if any
+title: "HtmlSaveOptions.RemoveEmptyAreasOnTopAndBottom"
+linktitle: "RemoveEmptyAreasOnTopAndBottom"
+articleTitle: "RemoveEmptyAreasOnTopAndBottom"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. Defines whether in created HTML will be removed top and bottom empty area without any content (if any)."
 type: docs
-weight: 410
-url: /net/aspose.pdf/htmlsaveoptions/removeemptyareasontopandbottom/
+weight: 460
+url: "/net/aspose.pdf/htmlsaveoptions/removeemptyareasontopandbottom/"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.RemoveEmptyAreasOnTopAndBottom field
 
@@ -16,8 +19,7 @@ public bool RemoveEmptyAreasOnTopAndBottom;
 
 ### See Also
 
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

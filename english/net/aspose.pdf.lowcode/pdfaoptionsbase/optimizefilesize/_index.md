@@ -1,10 +1,13 @@
 ---
-title: PdfAOptionsBase.OptimizeFileSize
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase property. Gets or sets a value indicating whether to try to reduce the file size during the PDF/A conversion process
+title: "PdfAOptionsBase.OptimizeFileSize"
+linktitle: "OptimizeFileSize"
+articleTitle: "OptimizeFileSize"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAOptionsBase property. Gets or sets a value indicating whether to try to reduce the file size during the PDF/A conversion process."
 type: docs
-weight: 100
-url: /net/aspose.pdf.lowcode/pdfaoptionsbase/optimizefilesize/
+weight: 120
+url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/optimizefilesize/"
+product_version: "26.9"
 ---
 ## PdfAOptionsBase.OptimizeFileSize property
 
@@ -20,12 +23,12 @@ public bool OptimizeFileSize { get; set; }
 
 ## Remarks
 
-When set to `true`, the conversion process will attempt to minimize the resulting file size. This might affect the conversion process performance.
+When set to `true`, the conversion process will attempt to minimize the resulting file size. 
+ This might affect the conversion process performance.
 
 ### See Also
 
-* class [PdfAOptionsBase](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

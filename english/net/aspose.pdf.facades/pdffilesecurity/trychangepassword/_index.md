@@ -1,14 +1,20 @@
 ---
-title: PdfFileSecurity.TryChangePassword
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity method. Changes the user password and owner password by owner password keeps the original security settings. The new user password and the new owner password can be null or empty. The owner password will be replaced Does not throw an exception if process failed. with a random string if the new owner password is null or empty
+title: "PdfFileSecurity.TryChangePassword"
+linktitle: "TryChangePassword"
+articleTitle: "TryChangePassword"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSecurity method. Changes the user password and owner password by owner password, keeps the original security settings. The new user password and the n..."
 type: docs
-weight: 90
-url: /net/aspose.pdf.facades/pdffilesecurity/trychangepassword/
+weight: 120
+url: "/net/aspose.pdf.facades/pdffilesecurity/trychangepassword/"
+product_version: "26.9"
 ---
-## TryChangePassword(string, string, string) {#trychangepassword}
+## TryChangePassword(string, string, string) {#trychangepassword}
 
-Changes the user password and owner password by owner password, keeps the original security settings. The new user password and the new owner password can be null or empty. The owner password will be replaced Does not throw an exception if process failed. with a random string if the new owner password is null or empty.
+Changes the user password and owner password by owner password, keeps the original security settings.
+ The new user password and the new owner password can be null or empty. The owner password will be replaced 
+ Does not throw an exception if process failed.
+ with a random string if the new owner password is null or empty.
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword)
@@ -37,20 +43,23 @@ True for success,or false.
  Dim inFile As String = ".D:\\input.pdf"  'The TestPath may be re-assigned.'
  Dim outFile As String = "D:\\output.pdf"  'The TestPath may be re-assigned.'
  Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile) 
- Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newowner")	
+ Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newowner")
 ```
 
 ### See Also
 
-* class [PdfFileSecurity](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryChangePassword(string, string, string, DocumentPrivilege, KeySize) {#trychangepassword_1}
+## TryChangePassword(string, string, string, DocumentPrivilege, KeySize) {#trychangepassword_1}
 
-Changes the user password and password by owner password, allows to reset Pdf documnent security. The new user password and the new owner password can be null or empty. The owner password will be replaced with a random string if the new owner password is null or empty. Does not throw an exception if process failed.
+Changes the user password and password by owner password, allows to reset Pdf documnent security.
+ The new user password and the new owner password can be null or empty. The owner password will be replaced 
+ with a random string if the new owner password is null or empty.
+ Does not throw an exception if process failed.
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, 
@@ -87,17 +96,23 @@ Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newown
 
 ### See Also
 
-* class [DocumentPrivilege](../../documentprivilege/)
-* enum [KeySize](../../keysize/)
-* class [PdfFileSecurity](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* enum [KeySize](../../keysize/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryChangePassword(string, string, string, DocumentPrivilege, KeySize, Algorithm) {#trychangepassword_2}
+## TryChangePassword(string, string, string, DocumentPrivilege, KeySize, Algorithm) {#trychangepassword_2}
 
-Changes the user password and password by owner password, allows to reset Pdf documnent security. The new user password and the new owner password can be null or empty. The owner password will be replaced with a random string if the new owner password is null or empty. There are 6 possible combinations of KeySize and Algorithm values. However (KeySize.x40, Algorithm.AES) and (KeySize.x256, Algorithm.RC4) are invalid and corresponding exception will be raised if kit encounters this combination. Does not throw an exception if process failed.
+Changes the user password and password by owner password, allows to reset Pdf documnent security.
+ The new user password and the new owner password can be null or empty. The owner password will be replaced 
+ with a random string if the new owner password is null or empty.
+ There are 6 possible combinations of KeySize and Algorithm values. 
+ However (KeySize.x40, Algorithm.AES) and (KeySize.x256, Algorithm.RC4) are invalid and corresponding 
+ exception will be raised if kit encounters this combination.
+ Does not throw an exception if process failed.
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, 
@@ -135,11 +150,10 @@ Dim result As Boolean = fileSecurity.ChangePassword("owner","newuser","newowner"
 
 ### See Also
 
-* class [DocumentPrivilege](../../documentprivilege/)
-* enum [KeySize](../../keysize/)
-* enum [Algorithm](../../algorithm/)
-* class [PdfFileSecurity](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentPrivilege](../../documentprivilege/)
+* enum [KeySize](../../keysize/)
+* enum [Algorithm](../../algorithm/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

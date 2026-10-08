@@ -1,12 +1,15 @@
 ---
-title: PdfOutputGenerator.GenerateOutput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfOutputGenerator method. Generates the output based on the differences between texts and saves it to a file
+title: "PdfOutputGenerator.GenerateOutput"
+linktitle: "GenerateOutput"
+articleTitle: "GenerateOutput"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfOutputGenerator method. Generates the output based on the differences between texts and saves it to a file."
 type: docs
-weight: 20
-url: /net/aspose.pdf.comparison/pdfoutputgenerator/generateoutput/
+weight: 50
+url: "/net/aspose.pdf.comparison/pdfoutputgenerator/generateoutput/"
+product_version: "26.9"
 ---
-## GenerateOutput(List&lt;DiffOperation&gt;, string) {#generateoutput}
+## GenerateOutput(List&lt;DiffOperation&gt;, string) {#generateoutput}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -21,14 +24,14 @@ public void GenerateOutput(List<DiffOperation> diffrences, string targetFilePath
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [PdfOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
+* class [DiffOperation](../../diffoperation/)
+* class [PdfOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;, string) {#generateoutput_1}
+## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;, string) {#generateoutput_1}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -43,9 +46,8 @@ public void GenerateOutput(List<List<DiffOperation>> diffrences, string targetFi
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [PdfOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DiffOperation](../../diffoperation/)
+* class [PdfOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Stamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp method. Adds stamp on the page
+title: "Stamp.Put"
+linktitle: "Put"
+articleTitle: "Put"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Stamp method. Adds stamp on the page."
 type: docs
-weight: 210
-url: /net/aspose.pdf/stamp/put/
+weight: 10
+url: "/net/aspose.pdf/stamp/put/"
+product_version: "26.9"
 ---
 ## Stamp.Put method
 
@@ -20,9 +23,8 @@ public abstract void Put(Page page)
 
 ### See Also
 
-* class [Page](../../page/)
-* class [Stamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../page/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Form.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Form property. Gets field of the form by field name. Throws excpetion if the field was not found
+title: "Form.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form property. Gets field of the form by field name. Throws excpetion if the field was not found."
 type: docs
-weight: 120
-url: /net/aspose.pdf.forms/form/item/
+weight: 340
+url: "/net/aspose.pdf.forms/form/item/"
+product_version: "26.9"
 ---
 ## Form indexer (1 of 2)
 
@@ -24,10 +27,10 @@ Retreived field.
 
 ### See Also
 
-* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -49,9 +52,8 @@ Retreived field.
 
 ### See Also
 
-* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

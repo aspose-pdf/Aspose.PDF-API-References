@@ -1,12 +1,15 @@
 ---
-title: PdfContentEditor.CreateWebLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates a web link in PDF document
+title: "PdfContentEditor.CreateWebLink"
+linktitle: "CreateWebLink"
+articleTitle: "CreateWebLink"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates a web link in PDF document."
 type: docs
-weight: 300
-url: /net/aspose.pdf.facades/pdfcontenteditor/createweblink/
+weight: 60
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createweblink/"
+product_version: "26.9"
 ---
-## CreateWebLink(Rectangle, string, int, Color, Enum[]) {#createweblink_2}
+## CreateWebLink(Rectangle, string, int, Color, Enum[]) {#createweblink}
 
 Creates a web link in PDF document.
 
@@ -36,13 +39,13 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateWebLink(Rectangle, string, int, Color) {#createweblink_1}
+## CreateWebLink(Rectangle, string, int, Color) {#createweblink_1}
 
 Creates a web link in PDF document.
 
@@ -69,13 +72,13 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateWebLink(Rectangle, string, int) {#createweblink}
+## CreateWebLink(Rectangle, string, int) {#createweblink_2}
 
 Creates a web link in PDF document.
 
@@ -100,8 +103,7 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ChunkingOptions.MaxChunkSize
-second_title: Aspose.PDF for .NET API Reference
-description: ChunkingOptions property. Gets or sets the maximum size of each chunk in tokens
+title: "ChunkingOptions.MaxChunkSize"
+linktitle: "MaxChunkSize"
+articleTitle: "MaxChunkSize"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ChunkingOptions property. Gets or sets the maximum size of each chunk in tokens."
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/chunkingoptions/maxchunksize/
+weight: 30
+url: "/net/aspose.pdf.ai/chunkingoptions/maxchunksize/"
+product_version: "26.9"
 ---
 ## ChunkingOptions.MaxChunkSize property
 
@@ -16,7 +19,8 @@ public int MaxChunkSize { get; set; }
 
 ### Property Value
 
-The maximum chunk size in tokens. Must be between [`MinimumChunkSize`](../minimumchunksize/) and [`MaximumChunkSize`](../maximumchunksize/). Default is [`DefaultMaxChunkSize`](../defaultmaxchunksize/).
+The maximum chunk size in tokens. Must be between [`MinimumChunkSize`](../minimumchunksize/)
+ and [`MaximumChunkSize`](../maximumchunksize/). Default is [`DefaultMaxChunkSize`](../defaultmaxchunksize/).
 
 ### Exceptions
 
@@ -26,8 +30,7 @@ The maximum chunk size in tokens. Must be between [`MinimumChunkSize`](../minimu
 
 ### See Also
 
-* class [ChunkingOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ChunkingOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

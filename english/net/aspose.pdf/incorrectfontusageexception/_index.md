@@ -1,10 +1,14 @@
 ---
-title: Class IncorrectFontUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IncorrectFontUsageException class. The exception that is thrown when font usage is incorrect
+title: "IncorrectFontUsageException Class"
+linktitle: "IncorrectFontUsageException"
+articleTitle: "IncorrectFontUsageException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.IncorrectFontUsageException class. The exception that is thrown when font usage is incorrect."
 type: docs
-weight: 6110
-url: /net/aspose.pdf/incorrectfontusageexception/
+weight: 1590
+url: "/net/aspose.pdf/incorrectfontusageexception/"
+keywords: "IncorrectFontUsageException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## IncorrectFontUsageException class
 
@@ -18,14 +22,13 @@ public sealed class IncorrectFontUsageException : InvalidFileFormatException
 
 | Name | Description |
 | --- | --- |
-| [IncorrectFontUsageException](incorrectfontusageexception/#constructor)(Exception) | Initializes a new instance of the `IncorrectFontUsageException` class with a reference to the inner exception that is the cause of this exception. |
-| [IncorrectFontUsageException](incorrectfontusageexception/#constructor_1)(string) | Initializes a new instance of the `IncorrectFontUsageException` class. |
-| [IncorrectFontUsageException](incorrectfontusageexception/#constructor_2)(string, Exception) | Initializes a new instance of the `IncorrectFontUsageException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [IncorrectFontUsageException](incorrectfontusageexception/#constructor)(string) | Initializes a new instance of the `IncorrectFontUsageException` class. |
+| [IncorrectFontUsageException](incorrectfontusageexception/#constructor_1)(string, Exception) | Initializes a new instance of the `IncorrectFontUsageException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [IncorrectFontUsageException](incorrectfontusageexception/#constructor_2)(Exception) | Initializes a new instance of the `IncorrectFontUsageException` class with a reference to the inner exception that is the cause of this exception. |
 
 ### See Also
 
-* class [InvalidFileFormatException](../invalidfileformatexception/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [InvalidFileFormatException](../invalidfileformatexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

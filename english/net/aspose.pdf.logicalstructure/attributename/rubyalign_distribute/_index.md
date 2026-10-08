@@ -1,10 +1,13 @@
 ---
-title: AttributeName.RubyAlign_Distribute
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName field. Attribute RubyAlign Distribute  The content shall be expanded to fill the available width in the inlineprogression direction. However space shall also be inserted at the start edge and end edge of the text. The spacing shall be distributed using a 121 startinfixend ratio. It shall be changed to a 011 ratio if the ruby appears at the start of a text line or to a 110 ratio if the ruby appears at the end of the text line
+title: "AttributeName.RubyAlign_Distribute"
+linktitle: "RubyAlign_Distribute"
+articleTitle: "RubyAlign_Distribute"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName field. Attribute RubyAlign: Distribute - The content shall be expanded to fill the available width in the inline-progression direction. However..."
 type: docs
-weight: 440
-url: /net/aspose.pdf.logicalstructure/attributename/rubyalign_distribute/
+weight: 460
+url: "/net/aspose.pdf.logicalstructure/attributename/rubyalign_distribute/"
+product_version: "26.9"
 ---
 ## AttributeName.RubyAlign_Distribute field
 
@@ -16,8 +19,7 @@ public static readonly AttributeName RubyAlign_Distribute;
 
 ### See Also
 
-* class [AttributeName](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

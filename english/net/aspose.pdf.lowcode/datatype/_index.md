@@ -1,10 +1,13 @@
 ---
-title: Enum DataType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.DataType enum. Represents possible types of data for plugin processing
+title: "DataType Enum"
+linktitle: "DataType"
+articleTitle: "DataType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.DataType enum. Represents possible types of data for plugin processing."
 type: docs
-weight: 7090
-url: /net/aspose.pdf.lowcode/datatype/
+weight: 40
+url: "/net/aspose.pdf.lowcode/datatype/"
+product_version: "26.9"
 ---
 ## DataType enumeration
 
@@ -23,7 +26,6 @@ public enum DataType
 
 ### See Also
 
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.CancelVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Cancels a specific vector store file batch asynchronously
+title: "OpenAIClient.CancelVectorStoreFileBatchAsync"
+linktitle: "CancelVectorStoreFileBatchAsync"
+articleTitle: "CancelVectorStoreFileBatchAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Cancels a specific vector store file batch asynchronously."
 type: docs
-weight: 20
-url: /net/aspose.pdf.ai/openaiclient/cancelvectorstorefilebatchasync/
+weight: 30
+url: "/net/aspose.pdf.ai/openaiclient/cancelvectorstorefilebatchasync/"
+product_version: "26.9"
 ---
 ## OpenAIClient.CancelVectorStoreFileBatchAsync method
 
@@ -34,9 +37,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

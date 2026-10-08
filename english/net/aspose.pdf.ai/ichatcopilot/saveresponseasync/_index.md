@@ -1,12 +1,15 @@
 ---
-title: IChatCopilot.SaveResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IChatCopilot method. Asynchronously saves the response for the given message to a PDF file
+title: "IChatCopilot.SaveResponseAsync"
+linktitle: "SaveResponseAsync"
+articleTitle: "SaveResponseAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IChatCopilot method. Asynchronously saves the response for the given message to a PDF file."
 type: docs
-weight: 40
-url: /net/aspose.pdf.ai/ichatcopilot/saveresponseasync/
+weight: 30
+url: "/net/aspose.pdf.ai/ichatcopilot/saveresponseasync/"
+product_version: "26.9"
 ---
-## SaveResponseAsync(string, string, CancellationToken?) {#saveresponseasync_3}
+## SaveResponseAsync(string, string, CancellationToken?) {#saveresponseasync}
 
 Asynchronously saves the response for the given message to a PDF file.
 
@@ -27,13 +30,13 @@ A task representing the asynchronous operation.
 
 ### See Also
 
-* interface [IChatCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* interface [IChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SaveResponseAsync(string, string, SaveFormat, CancellationToken?) {#saveresponseasync_2}
+## SaveResponseAsync(string, string, SaveFormat, CancellationToken?) {#saveresponseasync_1}
 
 Asynchronously saves the response for the given message to a file with specified format.
 
@@ -55,14 +58,14 @@ A task representing the asynchronous operation.
 
 ### See Also
 
-* enum [SaveFormat](../../../aspose.pdf/saveformat/)
-* interface [IChatCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* enum [SaveFormat](../../../aspose.pdf/saveformat/)
+* interface [IChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SaveResponseAsync(List&lt;string&gt;, string, CancellationToken?) {#saveresponseasync_1}
+## SaveResponseAsync(List&lt;string&gt;, string, CancellationToken?) {#saveresponseasync_2}
 
 Asynchronously saves the responses for the given list of messages to a PDF file.
 
@@ -83,13 +86,13 @@ A task representing the asynchronous operation.
 
 ### See Also
 
-* interface [IChatCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* interface [IChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SaveResponseAsync(List&lt;string&gt;, string, SaveFormat, CancellationToken?) {#saveresponseasync}
+## SaveResponseAsync(List&lt;string&gt;, string, SaveFormat, CancellationToken?) {#saveresponseasync_3}
 
 Asynchronously saves the responses for the given list of messages to a file with specified format.
 
@@ -111,9 +114,8 @@ A task representing the asynchronous operation.
 
 ### See Also
 
-* enum [SaveFormat](../../../aspose.pdf/saveformat/)
-* interface [IChatCopilot](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [SaveFormat](../../../aspose.pdf/saveformat/)
+* interface [IChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

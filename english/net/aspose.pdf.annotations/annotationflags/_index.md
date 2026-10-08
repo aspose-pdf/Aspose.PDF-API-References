@@ -1,10 +1,13 @@
 ---
-title: Enum AnnotationFlags
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.AnnotationFlags enum. A set of flags specifying various characteristics of the annotation
+title: "AnnotationFlags Enum"
+linktitle: "AnnotationFlags"
+articleTitle: "AnnotationFlags"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.AnnotationFlags enum. A set of flags specifying various characteristics of the annotation."
 type: docs
-weight: 1530
-url: /net/aspose.pdf.annotations/annotationflags/
+weight: 60
+url: "/net/aspose.pdf.annotations/annotationflags/"
+product_version: "26.9"
 ---
 ## AnnotationFlags enumeration
 
@@ -33,7 +36,6 @@ public enum AnnotationFlags
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

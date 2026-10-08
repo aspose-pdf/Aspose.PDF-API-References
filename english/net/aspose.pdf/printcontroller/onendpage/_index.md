@@ -1,10 +1,13 @@
 ---
-title: PrintController.OnEndPage
-second_title: Aspose.PDF for .NET API Reference
-description: PrintController method. Fires on page end printing
+title: "PrintController.OnEndPage"
+linktitle: "OnEndPage"
+articleTitle: "OnEndPage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrintController method. Fires on page end printing."
 type: docs
 weight: 40
-url: /net/aspose.pdf/printcontroller/onendpage/
+url: "/net/aspose.pdf/printcontroller/onendpage/"
+product_version: "26.9"
 ---
 ## PrintController.OnEndPage method
 
@@ -21,8 +24,7 @@ public override void OnEndPage(PrintDocument document, PrintPageEventArgs e)
 
 ### See Also
 
-* class [PrintController](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

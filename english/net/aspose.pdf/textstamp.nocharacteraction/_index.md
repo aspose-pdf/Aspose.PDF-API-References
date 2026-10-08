@@ -1,10 +1,13 @@
 ---
-title: Enum TextStamp.NoCharacterAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TextStampNoCharacterAction enum. Action to perform if font does not contain required character
+title: "TextStamp.NoCharacterAction Enum"
+linktitle: "TextStamp.NoCharacterAction"
+articleTitle: "TextStamp.NoCharacterAction"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.TextStamp.NoCharacterAction enum. Action to perform if font does not contain required character."
 type: docs
-weight: 11500
-url: /net/aspose.pdf/textstamp.nocharacteraction/
+weight: 3000
+url: "/net/aspose.pdf/textstamp.nocharacteraction/"
+product_version: "26.9"
 ---
 ## TextStamp.NoCharacterAction enumeration
 
@@ -25,8 +28,7 @@ public enum NoCharacterAction
 
 ### See Also
 
-* class [TextStamp](../textstamp/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [TextStamp](../textstamp/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

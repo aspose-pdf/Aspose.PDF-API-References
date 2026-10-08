@@ -1,10 +1,13 @@
 ---
-title: Enum HeadingRecognitionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeadingRecognitionStrategy enum. Represents types of header recognition strategies
+title: "HeadingRecognitionStrategy Enum"
+linktitle: "HeadingRecognitionStrategy"
+articleTitle: "HeadingRecognitionStrategy"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HeadingRecognitionStrategy enum. Represents types of header recognition strategies."
 type: docs
-weight: 5620
-url: /net/aspose.pdf/headingrecognitionstrategy/
+weight: 1100
+url: "/net/aspose.pdf/headingrecognitionstrategy/"
+product_version: "26.9"
 ---
 ## HeadingRecognitionStrategy enumeration
 
@@ -25,7 +28,6 @@ public enum HeadingRecognitionStrategy
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

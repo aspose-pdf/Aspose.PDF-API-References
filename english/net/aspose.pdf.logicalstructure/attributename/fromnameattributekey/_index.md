@@ -1,10 +1,13 @@
 ---
-title: AttributeName.FromNameAttributeKey
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName method. Gets attribute name for attribute key
+title: "AttributeName.FromNameAttributeKey"
+linktitle: "FromNameAttributeKey"
+articleTitle: "FromNameAttributeKey"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeName method. Gets attribute name for attribute key."
 type: docs
-weight: 670
-url: /net/aspose.pdf.logicalstructure/attributename/fromnameattributekey/
+weight: 10
+url: "/net/aspose.pdf.logicalstructure/attributename/fromnameattributekey/"
+product_version: "26.9"
 ---
 ## AttributeName.FromNameAttributeKey method
 
@@ -25,9 +28,8 @@ Attribute name
 
 ### See Also
 
-* class [AttributeKey](../../attributekey/)
-* class [AttributeName](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeName](../)
+* class [AttributeKey](../../attributekey/)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

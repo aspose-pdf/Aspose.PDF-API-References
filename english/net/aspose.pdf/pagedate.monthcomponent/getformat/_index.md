@@ -1,10 +1,13 @@
 ---
-title: PageDate.MonthComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: MonthComponent method. Gets the format string for the month component
+title: "PageDate.MonthComponent.GetFormat"
+linktitle: "GetFormat"
+articleTitle: "GetFormat"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "MonthComponent method. Gets the format string for the month component."
 type: docs
 weight: 20
-url: /net/aspose.pdf/pagedate.monthcomponent/getformat/
+url: "/net/aspose.pdf/pagedate.monthcomponent/getformat/"
+product_version: "26.9"
 ---
 ## PageDate.MonthComponent.GetFormat method
 
@@ -20,8 +23,7 @@ A string representing the month format.
 
 ### See Also
 
-* class [MonthComponent](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [MonthComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

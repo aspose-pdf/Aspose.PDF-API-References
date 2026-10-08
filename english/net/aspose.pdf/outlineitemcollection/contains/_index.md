@@ -1,10 +1,13 @@
 ---
-title: OutlineItemCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection method. Checks if collection contains given item
+title: "OutlineItemCollection.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OutlineItemCollection method. Checks if collection contains given item."
 type: docs
-weight: 240
-url: /net/aspose.pdf/outlineitemcollection/contains/
+weight: 90
+url: "/net/aspose.pdf/outlineitemcollection/contains/"
+product_version: "26.9"
 ---
 ## OutlineItemCollection.Contains method
 
@@ -24,8 +27,7 @@ True - if item found; otherwise, false.
 
 ### See Also
 
-* class [OutlineItemCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

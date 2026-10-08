@@ -1,12 +1,15 @@
 ---
-title: PdfConverter.GetNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter method. Saves image to file with default image format  jpeg
+title: "PdfConverter.GetNextImage"
+linktitle: "GetNextImage"
+articleTitle: "GetNextImage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfConverter method. Saves image to file with default image format - jpeg."
 type: docs
-weight: 140
-url: /net/aspose.pdf.facades/pdfconverter/getnextimage/
+weight: 250
+url: "/net/aspose.pdf.facades/pdfconverter/getnextimage/"
+product_version: "26.9"
 ---
-## GetNextImage(string) {#getnextimage_9}
+## GetNextImage(string) {#getnextimage}
 
 Saves image to file with default image format - jpeg.
 
@@ -20,13 +23,13 @@ public void GetNextImage(string outputFile)
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(string, PageSize) {#getnextimage_10}
+## GetNextImage(string, PageSize) {#getnextimage_1}
 
 Saves image to file with ith given page size and default image format - jpeg.
 
@@ -41,14 +44,14 @@ public void GetNextImage(string outputFile, PageSize pageSize)
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(string, ImageFormat) {#getnextimage_13}
+## GetNextImage(string, ImageFormat) {#getnextimage_2}
 
 Saves image to file with the givin image format.
 
@@ -92,13 +95,13 @@ End While
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(string, PageSize, ImageFormat) {#getnextimage_11}
+## GetNextImage(string, PageSize, ImageFormat) {#getnextimage_3}
 
 Saves image to file with given page size and image format.
 
@@ -114,14 +117,14 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(Stream) {#getnextimage}
+## GetNextImage(Stream) {#getnextimage_4}
 
 Saves image to stream with default image format - jpeg.
 
@@ -135,13 +138,13 @@ public void GetNextImage(Stream outputStream)
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(Stream, PageSize) {#getnextimage_1}
+## GetNextImage(Stream, PageSize) {#getnextimage_5}
 
 Saves image to stream with given page size.
 
@@ -156,14 +159,14 @@ public void GetNextImage(Stream outputStream, PageSize pageSize)
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(Stream, ImageFormat) {#getnextimage_4}
+## GetNextImage(Stream, ImageFormat) {#getnextimage_6}
 
 Saves image to stream with given image format.
 
@@ -178,13 +181,13 @@ public void GetNextImage(Stream outputStream, ImageFormat format)
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(Stream, PageSize, ImageFormat) {#getnextimage_2}
+## GetNextImage(Stream, PageSize, ImageFormat) {#getnextimage_7}
 
 Saves image to stream with given page size.
 
@@ -200,14 +203,14 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(string, ImageFormat, int, int, int) {#getnextimage_17}
+## GetNextImage(string, ImageFormat, int, int, int) {#getnextimage_8}
 
 Saves image to file with the given image format, dimensions and quality.
 
@@ -255,13 +258,13 @@ End While
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(Stream, ImageFormat, int, int, int) {#getnextimage_8}
+## GetNextImage(Stream, ImageFormat, int, int, int) {#getnextimage_9}
 
 Saves image to stream with the givin image format, dimensions and quality.
 
@@ -280,13 +283,13 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(string, ImageFormat, double, double, int) {#getnextimage_14}
+## GetNextImage(string, ImageFormat, double, double, int) {#getnextimage_10}
 
 Saves image to file with the givin image format, image size, and quality.
 
@@ -338,13 +341,13 @@ End While
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(Stream, ImageFormat, double, double, int) {#getnextimage_5}
+## GetNextImage(Stream, ImageFormat, double, double, int) {#getnextimage_11}
 
 Saves image to stream with the givin image format, size and quality.
 
@@ -363,13 +366,13 @@ public void GetNextImage(Stream outputStream, ImageFormat format, double imageWi
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(string, ImageFormat, int, int) {#getnextimage_16}
+## GetNextImage(string, ImageFormat, int, int) {#getnextimage_12}
 
 Saves image to file with the given image format and dimensions.
 
@@ -415,13 +418,13 @@ End While
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(Stream, ImageFormat, int, int) {#getnextimage_7}
+## GetNextImage(Stream, ImageFormat, int, int) {#getnextimage_13}
 
 Saves image to stream with the givin image format, size and quality.
 
@@ -438,13 +441,13 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(Stream, ImageFormat, int) {#getnextimage_6}
+## GetNextImage(Stream, ImageFormat, int) {#getnextimage_14}
 
 Saves image to stream with given image format and quality.
 
@@ -460,13 +463,13 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int quality)
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(Stream, PageSize, ImageFormat, int) {#getnextimage_3}
+## GetNextImage(Stream, PageSize, ImageFormat, int) {#getnextimage_15}
 
 Saves image to stream with given page size, image format and quality.
 
@@ -483,14 +486,14 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(string, ImageFormat, int) {#getnextimage_15}
+## GetNextImage(string, ImageFormat, int) {#getnextimage_16}
 
 Saves image to file with given image format and quality.
 
@@ -506,13 +509,13 @@ public void GetNextImage(string outputFile, ImageFormat format, int quality)
 
 ### See Also
 
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GetNextImage(string, PageSize, ImageFormat, int) {#getnextimage_12}
+## GetNextImage(string, PageSize, ImageFormat, int) {#getnextimage_17}
 
 Saves image to file with given page size, image format and quality.
 
@@ -529,9 +532,8 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 ### See Also
 
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfConverter](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

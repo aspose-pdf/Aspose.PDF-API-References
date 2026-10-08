@@ -1,10 +1,13 @@
 ---
-title: BDC.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: BDC property. Gets or sets marked content tag
+title: "BDC.Tag"
+linktitle: "Tag"
+articleTitle: "Tag"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BDC property. Gets or sets marked content tag"
 type: docs
-weight: 30
-url: /net/aspose.pdf.operators/bdc/tag/
+weight: 60
+url: "/net/aspose.pdf.operators/bdc/tag/"
+product_version: "26.9"
 ---
 ## BDC.Tag property
 
@@ -16,8 +19,7 @@ public string Tag { get; set; }
 
 ### See Also
 
-* class [BDC](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BDC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

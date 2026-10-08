@@ -1,10 +1,13 @@
 ---
-title: AttributeOwnerStandard.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeOwnerStandard method. Returns a string that represents the current object
+title: "AttributeOwnerStandard.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeOwnerStandard method. Returns a string that represents the current object."
 type: docs
-weight: 130
-url: /net/aspose.pdf.logicalstructure/attributeownerstandard/tostring/
+weight: 20
+url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/tostring/"
+product_version: "26.9"
 ---
 ## AttributeOwnerStandard.ToString method
 
@@ -20,8 +23,7 @@ String that represents the current object.
 
 ### See Also
 
-* class [AttributeOwnerStandard](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

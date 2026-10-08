@@ -1,10 +1,13 @@
 ---
-title: IOpenAIClient.GetVectorStoreFileBatchFilesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient method. Retrieves a list of files within a specific vector store file batch asynchronously
+title: "IOpenAIClient.GetVectorStoreFileBatchFilesAsync"
+linktitle: "GetVectorStoreFileBatchFilesAsync"
+articleTitle: "GetVectorStoreFileBatchFilesAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IOpenAIClient method. Retrieves a list of files within a specific vector store file batch asynchronously."
 type: docs
-weight: 330
-url: /net/aspose.pdf.ai/iopenaiclient/getvectorstorefilebatchfilesasync/
+weight: 260
+url: "/net/aspose.pdf.ai/iopenaiclient/getvectorstorefilebatchfilesasync/"
+product_version: "26.9"
 ---
 ## IOpenAIClient.GetVectorStoreFileBatchFilesAsync method
 
@@ -36,10 +39,9 @@ A task that represents the asynchronous operation. The task result contains a li
 
 ### See Also
 
-* class [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
-* class [VectorStoreFileBatchFileListQueryParameters](../../vectorstorefilebatchfilelistqueryparameters/)
-* interface [IOpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
+* class [VectorStoreFileBatchFileListQueryParameters](../../vectorstorefilebatchfilelistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

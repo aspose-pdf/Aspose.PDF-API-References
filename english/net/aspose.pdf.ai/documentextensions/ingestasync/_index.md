@@ -1,12 +1,17 @@
 ---
-title: DocumentExtensions.IngestAsync
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentExtensions method. 
+title: "DocumentExtensions.IngestAsync"
+linktitle: "IngestAsync"
+articleTitle: "IngestAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentExtensions method."
 type: docs
 weight: 20
-url: /net/aspose.pdf.ai/documentextensions/ingestasync/
+url: "/net/aspose.pdf.ai/documentextensions/ingestasync/"
+product_version: "26.9"
 ---
 ## DocumentExtensions.IngestAsync method
+
+
 
 ```csharp
 public static Task IngestAsync(this Document document, ChunkingOptions options, string sourceId, 
@@ -17,12 +22,11 @@ public static Task IngestAsync(this Document document, ChunkingOptions options, 
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [ChunkingOptions](../../chunkingoptions/)
-* class [DocumentChunk](../../documentchunk/)
-* class [MarkdownSaveOptions](../../../aspose.pdf/markdownsaveoptions/)
-* class [DocumentExtensions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [ChunkingOptions](../../chunkingoptions/)
+* class [DocumentChunk](../../documentchunk/)
+* class [MarkdownSaveOptions](../../../aspose.pdf/markdownsaveoptions/)
+* class [DocumentExtensions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

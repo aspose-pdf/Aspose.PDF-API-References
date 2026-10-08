@@ -1,12 +1,15 @@
 ---
-title: FontEmbeddingException.FontEmbeddingException
-second_title: Aspose.PDF for .NET API Reference
-description: FontEmbeddingException constructor. Initializes a new instance of the FontEmbeddingException class
+title: "FontEmbeddingException.FontEmbeddingException"
+linktitle: "FontEmbeddingException"
+articleTitle: "FontEmbeddingException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontEmbeddingException constructor. Initializes a new instance of the FontEmbeddingException class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/fontembeddingexception/fontembeddingexception/
+url: "/net/aspose.pdf/fontembeddingexception/fontembeddingexception/"
+product_version: "26.9"
 ---
-## FontEmbeddingException(string) {#constructor_1}
+## FontEmbeddingException(string) {#constructor}
 
 Initializes a new instance of the [`FontEmbeddingException`](../) class.
 
@@ -20,13 +23,13 @@ public FontEmbeddingException(string message)
 
 ### See Also
 
-* class [FontEmbeddingException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [FontEmbeddingException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FontEmbeddingException(string, Exception) {#constructor_2}
+## FontEmbeddingException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`FontEmbeddingException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
@@ -41,13 +44,13 @@ public FontEmbeddingException(string message, Exception innerException)
 
 ### See Also
 
-* class [FontEmbeddingException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [FontEmbeddingException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FontEmbeddingException(Exception) {#constructor}
+## FontEmbeddingException(Exception) {#constructor_2}
 
 Initializes a new instance of the [`FontEmbeddingException`](../) class with a reference to the inner exception that is the cause of this exception.
 
@@ -61,8 +64,7 @@ public FontEmbeddingException(Exception innerException)
 
 ### See Also
 
-* class [FontEmbeddingException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FontEmbeddingException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

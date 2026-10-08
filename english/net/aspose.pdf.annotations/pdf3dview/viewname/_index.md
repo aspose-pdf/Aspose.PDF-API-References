@@ -1,10 +1,13 @@
 ---
-title: PDF3DView.ViewName
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DView property. Gets or sets the name of the view
+title: "PDF3DView.ViewName"
+linktitle: "ViewName"
+articleTitle: "ViewName"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DView property. Gets or sets the name of the view."
 type: docs
-weight: 80
-url: /net/aspose.pdf.annotations/pdf3dview/viewname/
+weight: 60
+url: "/net/aspose.pdf.annotations/pdf3dview/viewname/"
+product_version: "26.9"
 ---
 ## PDF3DView.ViewName property
 
@@ -20,8 +23,7 @@ The name of the view.
 
 ### See Also
 
-* class [PDF3DView](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

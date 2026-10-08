@@ -1,12 +1,15 @@
 ---
-title: GoToAction.GoToAction
-second_title: Aspose.PDF for .NET API Reference
-description: GoToAction constructor. Constructor for GoToAction class
+title: "GoToAction.GoToAction"
+linktitle: "GoToAction"
+articleTitle: "GoToAction"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GoToAction constructor. Constructor for GoToAction class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/gotoaction/gotoaction/
+url: "/net/aspose.pdf.annotations/gotoaction/gotoaction/"
+product_version: "26.9"
 ---
-## GoToAction(Page) {#constructor_3}
+## GoToAction(Page) {#constructor}
 
 Constructor for GoToAction class.
 
@@ -20,14 +23,14 @@ public GoToAction(Page page)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [GoToAction](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GoToAction(Page, ExplicitDestinationType, params double[]) {#constructor_4}
+## GoToAction(Page, ExplicitDestinationType, params double[]) {#constructor_1}
 
 Constructor for GoToAction class.
 
@@ -43,15 +46,15 @@ public GoToAction(Page page, ExplicitDestinationType type, params double[] value
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* enum [ExplicitDestinationType](../../explicitdestinationtype/)
-* class [GoToAction](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* enum [ExplicitDestinationType](../../explicitdestinationtype/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GoToAction(ExplicitDestination) {#constructor_1}
+## GoToAction(ExplicitDestination) {#constructor_2}
 
 Constructor.
 
@@ -65,14 +68,14 @@ public GoToAction(ExplicitDestination destination)
 
 ### See Also
 
-* class [ExplicitDestination](../../explicitdestination/)
-* class [GoToAction](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
+* class [ExplicitDestination](../../explicitdestination/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GoToAction(Document, string) {#constructor_2}
+## GoToAction(Document, string) {#constructor_3}
 
 Action which linked with Named Destination.
 
@@ -87,9 +90,8 @@ public GoToAction(Document doc, string name)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [GoToAction](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [GoToAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

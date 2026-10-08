@@ -1,10 +1,13 @@
 ---
-title: StructureTypeStandard.H6
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard field. Level 6 Heading for use in conforming writers that cannot hierarchically nest their sections and thus cannot determine the level of a heading from its level of nesting
+title: "StructureTypeStandard.H6"
+linktitle: "H6"
+articleTitle: "H6"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureTypeStandard field. Level 6 Heading, for use in conforming writers that cannot hierarchically nest their sections and thus cannot determine the leve..."
 type: docs
-weight: 180
-url: /net/aspose.pdf.logicalstructure/structuretypestandard/h6/
+weight: 240
+url: "/net/aspose.pdf.logicalstructure/structuretypestandard/h6/"
+product_version: "26.9"
 ---
 ## StructureTypeStandard.H6 field
 
@@ -16,8 +19,7 @@ public static readonly StructureTypeStandard H6;
 
 ### See Also
 
-* class [StructureTypeStandard](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

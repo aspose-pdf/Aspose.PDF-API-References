@@ -1,10 +1,13 @@
 ---
-title: TabStops.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: TabStops property. Gets value indicating that this TabStops instance is already attached to TextFragment and became readonly
+title: "TabStops.IsReadOnly"
+linktitle: "IsReadOnly"
+articleTitle: "IsReadOnly"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TabStops property. Gets value indicating that this TabStops instance is already attached to TextFragment and became readonly."
 type: docs
-weight: 30
-url: /net/aspose.pdf.text/tabstops/isreadonly/
+weight: 70
+url: "/net/aspose.pdf.text/tabstops/isreadonly/"
+product_version: "26.9"
 ---
 ## TabStops.IsReadOnly property
 
@@ -16,8 +19,7 @@ public bool IsReadOnly { get; }
 
 ### See Also
 
-* class [TabStops](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

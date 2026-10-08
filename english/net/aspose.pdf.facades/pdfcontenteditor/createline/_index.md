@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.CreateLine
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates line annotation
+title: "PdfContentEditor.CreateLine"
+linktitle: "CreateLine"
+articleTitle: "CreateLine"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates line annotation."
 type: docs
-weight: 180
-url: /net/aspose.pdf.facades/pdfcontenteditor/createline/
+weight: 300
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createline/"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreateLine method
 
@@ -42,8 +45,7 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

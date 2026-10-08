@@ -1,10 +1,13 @@
 ---
-title: Margins.Right
-second_title: Aspose.PDF for .NET API Reference
-description: Margins property. Gets or sets the right
+title: "Margins.Right"
+linktitle: "Right"
+articleTitle: "Right"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Margins property. Gets or sets the right."
 type: docs
 weight: 40
-url: /net/aspose.pdf.devices/margins/right/
+url: "/net/aspose.pdf.devices/margins/right/"
+product_version: "26.9"
 ---
 ## Margins.Right property
 
@@ -20,8 +23,7 @@ The right.
 
 ### See Also
 
-* class [Margins](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

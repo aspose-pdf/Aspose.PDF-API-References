@@ -1,10 +1,13 @@
 ---
-title: PrintController.OnStartPage
-second_title: Aspose.PDF for .NET API Reference
-description: PrintController method. Fires on page start printing
+title: "PrintController.OnStartPage"
+linktitle: "OnStartPage"
+articleTitle: "OnStartPage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrintController method. Fires on page start printing."
 type: docs
-weight: 60
-url: /net/aspose.pdf/printcontroller/onstartpage/
+weight: 20
+url: "/net/aspose.pdf/printcontroller/onstartpage/"
+product_version: "26.9"
 ---
 ## PrintController.OnStartPage method
 
@@ -25,8 +28,7 @@ Graphics object with printed page.
 
 ### See Also
 
-* class [PrintController](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PrintController](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

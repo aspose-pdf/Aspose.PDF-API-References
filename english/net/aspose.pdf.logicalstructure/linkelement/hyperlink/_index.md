@@ -1,10 +1,13 @@
 ---
-title: LinkElement.Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: LinkElement property. Gets or Sets Hyperlink for Link Element
+title: "LinkElement.Hyperlink"
+linktitle: "Hyperlink"
+articleTitle: "Hyperlink"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LinkElement property. Gets or Sets Hyperlink for Link Element."
 type: docs
-weight: 10
-url: /net/aspose.pdf.logicalstructure/linkelement/hyperlink/
+weight: 30
+url: "/net/aspose.pdf.logicalstructure/linkelement/hyperlink/"
+product_version: "26.9"
 ---
 ## LinkElement.Hyperlink property
 
@@ -16,9 +19,8 @@ public Hyperlink Hyperlink { get; set; }
 
 ### See Also
 
-* class [Hyperlink](../../../aspose.pdf/hyperlink/)
-* class [LinkElement](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Hyperlink](../../../aspose.pdf/hyperlink/)
+* class [LinkElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

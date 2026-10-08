@@ -1,10 +1,13 @@
 ---
-title: SignOptions.Visible
-second_title: Aspose.PDF for .NET API Reference
-description: SignOptions property. The visiblity of signature
+title: "SignOptions.Visible"
+linktitle: "Visible"
+articleTitle: "Visible"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignOptions property. The visiblity of signature."
 type: docs
-weight: 80
-url: /net/aspose.pdf.lowcode/signoptions/visible/
+weight: 40
+url: "/net/aspose.pdf.lowcode/signoptions/visible/"
+product_version: "26.9"
 ---
 ## SignOptions.Visible property
 
@@ -16,8 +19,7 @@ public bool Visible { get; set; }
 
 ### See Also
 
-* class [SignOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

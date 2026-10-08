@@ -1,10 +1,13 @@
 ---
-title: Metadata.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata property. Gets count of elements in the collection
+title: "Metadata.Count"
+linktitle: "Count"
+articleTitle: "Count"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Metadata property. Gets count of elements in the collection."
 type: docs
-weight: 10
-url: /net/aspose.pdf/metadata/count/
+weight: 240
+url: "/net/aspose.pdf/metadata/count/"
+product_version: "26.9"
 ---
 ## Metadata.Count property
 
@@ -16,8 +19,7 @@ public int Count { get; }
 
 ### See Also
 
-* class [Metadata](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Matrix3D.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix3D method. Compares matrix against other object
+title: "Matrix3D.Equals"
+linktitle: "Equals"
+articleTitle: "Equals"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix3D method. Compares matrix against other object."
 type: docs
-weight: 150
-url: /net/aspose.pdf/matrix3d/equals/
+weight: 60
+url: "/net/aspose.pdf/matrix3d/equals/"
+product_version: "26.9"
 ---
 ## Matrix3D.Equals method
 
@@ -24,8 +27,7 @@ Returns true is other object is Matrix3D and all matrix members are equal to cor
 
 ### See Also
 
-* class [Matrix3D](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

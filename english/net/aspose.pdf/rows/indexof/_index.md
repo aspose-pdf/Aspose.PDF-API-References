@@ -1,10 +1,13 @@
 ---
-title: Rows.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: Rows method. Returns index of row in collection
+title: "Rows.IndexOf"
+linktitle: "IndexOf"
+articleTitle: "IndexOf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Rows method. Returns index of row in collection."
 type: docs
-weight: 70
-url: /net/aspose.pdf/rows/indexof/
+weight: 40
+url: "/net/aspose.pdf/rows/indexof/"
+product_version: "26.9"
 ---
 ## Rows.IndexOf method
 
@@ -24,9 +27,8 @@ The row index
 
 ### See Also
 
-* class [Row](../../row/)
-* class [Rows](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

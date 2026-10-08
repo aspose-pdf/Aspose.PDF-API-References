@@ -1,10 +1,13 @@
 ---
-title: ITeXOutputDirectory.GetOutputFile
-second_title: Aspose.PDF for .NET API Reference
-description: ITeXOutputDirectory method. Returns the stream to write to
+title: "ITeXOutputDirectory.GetOutputFile"
+linktitle: "GetOutputFile"
+articleTitle: "GetOutputFile"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITeXOutputDirectory method. Returns the stream to write to."
 type: docs
 weight: 10
-url: /net/aspose.pdf/itexoutputdirectory/getoutputfile/
+url: "/net/aspose.pdf/itexoutputdirectory/getoutputfile/"
+product_version: "26.9"
 ---
 ## ITeXOutputDirectory.GetOutputFile method
 
@@ -25,8 +28,7 @@ The stream.
 
 ### See Also
 
-* interface [ITeXOutputDirectory](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [ITeXOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

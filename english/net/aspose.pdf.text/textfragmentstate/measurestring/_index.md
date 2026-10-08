@@ -1,10 +1,13 @@
 ---
-title: TextFragmentState.MeasureString
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState method. Measures the string
+title: "TextFragmentState.MeasureString"
+linktitle: "MeasureString"
+articleTitle: "MeasureString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState method. Measures the string."
 type: docs
-weight: 270
-url: /net/aspose.pdf.text/textfragmentstate/measurestring/
+weight: 20
+url: "/net/aspose.pdf.text/textfragmentstate/measurestring/"
+product_version: "26.9"
 ---
 ## TextFragmentState.MeasureString method
 
@@ -24,8 +27,7 @@ Width of the string.
 
 ### See Also
 
-* class [TextFragmentState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

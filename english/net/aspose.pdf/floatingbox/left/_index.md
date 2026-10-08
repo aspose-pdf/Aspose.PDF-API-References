@@ -1,10 +1,13 @@
 ---
-title: FloatingBox.Left
-second_title: Aspose.PDF for .NET API Reference
-description: FloatingBox property. Gets or sets the table left coordinate
+title: "FloatingBox.Left"
+linktitle: "Left"
+articleTitle: "Left"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FloatingBox property. Gets or sets the table left coordinate."
 type: docs
-weight: 80
-url: /net/aspose.pdf/floatingbox/left/
+weight: 140
+url: "/net/aspose.pdf/floatingbox/left/"
+product_version: "26.9"
 ---
 ## FloatingBox.Left property
 
@@ -16,8 +19,7 @@ public double Left { get; set; }
 
 ### See Also
 
-* class [FloatingBox](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

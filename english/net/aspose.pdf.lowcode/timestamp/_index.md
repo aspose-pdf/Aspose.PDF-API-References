@@ -1,10 +1,14 @@
 ---
-title: Class Timestamp
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.Timestamp class. Plugin that adds a timestamp to a digital signature using a timestamp server
+title: "Timestamp Class"
+linktitle: "Timestamp"
+articleTitle: "Timestamp"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.Timestamp class. Plugin that adds a timestamp to a digital signature using a timestamp server."
 type: docs
-weight: 8070
-url: /net/aspose.pdf.lowcode/timestamp/
+weight: 1020
+url: "/net/aspose.pdf.lowcode/timestamp/"
+keywords: "Timestamp, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## Timestamp class
 
@@ -29,8 +33,7 @@ public sealed class Timestamp : IDisposable, IPlugin
 
 ### See Also
 
-* interface [IPlugin](../iplugin/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

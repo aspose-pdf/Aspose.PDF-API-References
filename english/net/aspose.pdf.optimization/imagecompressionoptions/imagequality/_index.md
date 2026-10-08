@@ -1,10 +1,13 @@
 ---
-title: ImageCompressionOptions.ImageQuality
-second_title: Aspose.PDF for .NET API Reference
-description: ImageCompressionOptions property. Specifies level of image compression when CompressImages flag is used
+title: "ImageCompressionOptions.ImageQuality"
+linktitle: "ImageQuality"
+articleTitle: "ImageQuality"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ImageCompressionOptions property. Specifies level of image compression when CompressImages flag is used."
 type: docs
 weight: 40
-url: /net/aspose.pdf.optimization/imagecompressionoptions/imagequality/
+url: "/net/aspose.pdf.optimization/imagecompressionoptions/imagequality/"
+product_version: "26.9"
 ---
 ## ImageCompressionOptions.ImageQuality property
 
@@ -16,8 +19,7 @@ public int ImageQuality { get; set; }
 
 ### See Also
 
-* class [ImageCompressionOptions](../)
-* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ImageCompressionOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: EOFillStroke.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: EOFillStroke method. Accepts visitor object to process operator
+title: "EOFillStroke.Accept"
+linktitle: "Accept"
+articleTitle: "Accept"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EOFillStroke method. Accepts visitor object to process operator."
 type: docs
 weight: 20
-url: /net/aspose.pdf.operators/eofillstroke/accept/
+url: "/net/aspose.pdf.operators/eofillstroke/accept/"
+product_version: "26.9"
 ---
 ## EOFillStroke.Accept method
 
@@ -20,9 +23,8 @@ public override void Accept(IOperatorSelector visitor)
 
 ### See Also
 
-* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* class [EOFillStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [EOFillStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

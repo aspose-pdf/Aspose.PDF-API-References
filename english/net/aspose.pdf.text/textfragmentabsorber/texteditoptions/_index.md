@@ -1,10 +1,13 @@
 ---
-title: TextFragmentAbsorber.TextEditOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber property. Gets or sets text edit options. The options define special behavior when requested symbol cannot be written with font
+title: "TextFragmentAbsorber.TextEditOptions"
+linktitle: "TextEditOptions"
+articleTitle: "TextEditOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber property. Gets or sets text edit options. The options define special behavior when requested symbol cannot be written with font."
 type: docs
-weight: 80
-url: /net/aspose.pdf.text/textfragmentabsorber/texteditoptions/
+weight: 250
+url: "/net/aspose.pdf.text/textfragmentabsorber/texteditoptions/"
+product_version: "26.9"
 ---
 ## TextFragmentAbsorber.TextEditOptions property
 
@@ -16,9 +19,8 @@ public TextEditOptions TextEditOptions { get; set; }
 
 ### See Also
 
-* class [TextEditOptions](../../texteditoptions/)
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextEditOptions](../../texteditoptions/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

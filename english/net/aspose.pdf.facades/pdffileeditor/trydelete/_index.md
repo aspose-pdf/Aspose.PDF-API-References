@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.TryDelete
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Deletes pages specified by number array from input file saves as a new Pdf file
+title: "PdfFileEditor.TryDelete"
+linktitle: "TryDelete"
+articleTitle: "TryDelete"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Deletes pages specified by number array from input file, saves as a new Pdf file."
 type: docs
-weight: 400
-url: /net/aspose.pdf.facades/pdffileeditor/trydelete/
+weight: 120
+url: "/net/aspose.pdf.facades/pdffileeditor/trydelete/"
+product_version: "26.9"
 ---
-## TryDelete(string, int[], string) {#trydelete_1}
+## TryDelete(string, int[], string) {#trydelete}
 
 Deletes pages specified by number array from input file, saves as a new Pdf file.
 
@@ -26,7 +29,8 @@ true if operation completed successfully; otherwise, false.
 
 ## Remarks
 
-The TryDelete method is like the Delete method, except the TryDelete method does not throw an exception if the operation fails.
+The TryDelete method is like the Delete method, except the TryDelete 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -37,13 +41,13 @@ bool result = pfe.TryDelete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TryDelete(Stream, int[], Stream) {#trydelete}
+## TryDelete(Stream, int[], Stream) {#trydelete_1}
 
 Deletes pages specified by number array from input file, saves as a new Pdf file.
 
@@ -63,7 +67,8 @@ True for success, or false.
 
 ## Remarks
 
-The TryDelete method is like the Delete method, except the TryDelete method does not throw an exception if the operation fails.
+The TryDelete method is like the Delete method, except the TryDelete 
+ method does not throw an exception if the operation fails.
 
 ## Examples
 
@@ -76,8 +81,7 @@ bool result = pfe.TryDelete(inputStream, new int[] { 2, 3 }, outputStream);
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: OcrTextAbsorber.OcrTextAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: OcrTextAbsorber constructor. Initializes a new instance with default options
+title: "OcrTextAbsorber.OcrTextAbsorber"
+linktitle: "OcrTextAbsorber"
+articleTitle: "OcrTextAbsorber"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OcrTextAbsorber constructor. Initializes a new instance with default options."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ocr/ocrtextabsorber/ocrtextabsorber/
+url: "/net/aspose.pdf.ocr/ocrtextabsorber/ocrtextabsorber/"
+product_version: "26.9"
 ---
 ## OcrTextAbsorber() {#constructor}
 
@@ -16,9 +19,9 @@ public OcrTextAbsorber()
 
 ### See Also
 
-* class [OcrTextAbsorber](../)
-* namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
-* assembly [Aspose.PDF](../../../)
+* class [OcrTextAbsorber](../)
+* namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -42,9 +45,8 @@ public OcrTextAbsorber(OcrTextRecognitionOptions options)
 
 ### See Also
 
-* class [OcrTextRecognitionOptions](../../ocrtextrecognitionoptions/)
-* class [OcrTextAbsorber](../)
-* namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
-* assembly [Aspose.PDF](../../../)
-
+* class [OcrTextRecognitionOptions](../../ocrtextrecognitionoptions/)
+* class [OcrTextAbsorber](../)
+* namespace [Aspose.Pdf.Ocr](../../../aspose.pdf.ocr/)
+* assembly [Aspose.PDF](../../../)
 

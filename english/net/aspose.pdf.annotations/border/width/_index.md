@@ -1,10 +1,13 @@
 ---
-title: Border.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Border property. Gets or sets border width
+title: "Border.Width"
+linktitle: "Width"
+articleTitle: "Width"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Border property. Gets or sets border width."
 type: docs
-weight: 80
-url: /net/aspose.pdf.annotations/border/width/
+weight: 40
+url: "/net/aspose.pdf.annotations/border/width/"
+product_version: "26.9"
 ---
 ## Border.Width property
 
@@ -16,8 +19,7 @@ public int Width { get; set; }
 
 ### See Also
 
-* class [Border](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Border](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

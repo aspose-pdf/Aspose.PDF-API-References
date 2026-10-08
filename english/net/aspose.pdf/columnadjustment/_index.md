@@ -1,10 +1,13 @@
 ---
-title: Enum ColumnAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ColumnAdjustment enum. Enumerates column adjustment types
+title: "ColumnAdjustment Enum"
+linktitle: "ColumnAdjustment"
+articleTitle: "ColumnAdjustment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ColumnAdjustment enum. Enumerates column adjustment types."
 type: docs
-weight: 3220
-url: /net/aspose.pdf/columnadjustment/
+weight: 400
+url: "/net/aspose.pdf/columnadjustment/"
+product_version: "26.9"
 ---
 ## ColumnAdjustment enumeration
 
@@ -24,7 +27,6 @@ public enum ColumnAdjustment
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,14 +1,18 @@
 ---
-title: Enum Symbology
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.Symbology enum. A Barcode Symbology defines the technical details of a particular type of barcode the width of the bars character set method of encoding checksum specifications etc
+title: "Symbology Enum"
+linktitle: "Symbology"
+articleTitle: "Symbology"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Forms.Symbology enum. A (Barcode) Symbology defines the technical details of a particular type of barcode: the width of the bars, character set, m..."
 type: docs
-weight: 5490
-url: /net/aspose.pdf.forms/symbology/
+weight: 380
+url: "/net/aspose.pdf.forms/symbology/"
+product_version: "26.9"
 ---
 ## Symbology enumeration
 
-A (Barcode) Symbology defines the technical details of a particular type of barcode: the width of the bars, character set, method of encoding, checksum specifications, etc.
+A (Barcode) Symbology defines the technical details of a particular type of barcode:
+ the width of the bars, character set, method of encoding, checksum specifications, etc.
 
 ```csharp
 public enum Symbology
@@ -24,7 +28,6 @@ public enum Symbology
 
 ### See Also
 
-* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
 

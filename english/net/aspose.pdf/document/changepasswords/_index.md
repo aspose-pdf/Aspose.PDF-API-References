@@ -1,10 +1,13 @@
 ---
-title: Document.ChangePasswords
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Changes document passwords. This action can be done only using owner password
+title: "Document.ChangePasswords"
+linktitle: "ChangePasswords"
+articleTitle: "ChangePasswords"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Changes document passwords. This action can be done only using owner password."
 type: docs
-weight: 580
-url: /net/aspose.pdf/document/changepasswords/
+weight: 650
+url: "/net/aspose.pdf/document/changepasswords/"
+product_version: "26.9"
 ---
 ## Document.ChangePasswords method
 
@@ -22,8 +25,7 @@ public void ChangePasswords(string ownerPassword, string newUserPassword, string
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

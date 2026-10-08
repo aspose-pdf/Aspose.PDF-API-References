@@ -1,10 +1,13 @@
 ---
-title: TextFragmentAbsorber.Text
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber property. Gets extracted text that the TextAbsorber extracts on the PDF document or page
+title: "TextFragmentAbsorber.Text"
+linktitle: "Text"
+articleTitle: "Text"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentAbsorber property. Gets extracted text that the TextAbsorber extracts on the PDF document or page."
 type: docs
-weight: 70
-url: /net/aspose.pdf.text/textfragmentabsorber/text/
+weight: 290
+url: "/net/aspose.pdf.text/textfragmentabsorber/text/"
+product_version: "26.9"
 ---
 ## TextFragmentAbsorber.Text property
 
@@ -16,8 +19,7 @@ public override string Text { get; }
 
 ### See Also
 
-* class [TextFragmentAbsorber](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

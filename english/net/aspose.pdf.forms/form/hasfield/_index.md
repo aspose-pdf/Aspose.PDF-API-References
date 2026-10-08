@@ -1,10 +1,13 @@
 ---
-title: Form.HasField
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Check if the form already has specified field
+title: "Form.HasField"
+linktitle: "HasField"
+articleTitle: "HasField"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Form method. Check if the form already has specified field."
 type: docs
-weight: 300
-url: /net/aspose.pdf.forms/form/hasfield/
+weight: 120
+url: "/net/aspose.pdf.forms/form/hasfield/"
+product_version: "26.9"
 ---
 ## HasField(Field) {#hasfield}
 
@@ -24,10 +27,10 @@ public bool HasField(Field field)
 
 ### See Also
 
-* class [Field](../../field/)
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [Field](../../field/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,7 +44,7 @@ public bool HasField(string fieldName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | String | [`PartialName`](../../field/partialname/) or [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) of the field. |
+| fieldName | String | [`PartialName`](../field/partialname/) or [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) of the field. |
 
 ### Return Value
 
@@ -49,13 +52,13 @@ public bool HasField(string fieldName)
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## HasField(string, bool) {#hasfield_2}
+## HasField(string, bool) {#hasfield_2}
 
 Determines if the field with specified name already added to the Form, with ability to look into children hierarchy of fields.
 
@@ -65,7 +68,7 @@ public bool HasField(string fieldName, bool searchChildren)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | String | [`PartialName`](../../field/partialname/) or [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) of the field. |
+| fieldName | String | [`PartialName`](../field/partialname/) or [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) of the field. |
 | searchChildren | Boolean | When set to `true` the whole hierarchy of form fields would be searched for the requested *fieldName* (note that in this case the [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) of the required field should be passed as *fieldName*). |
 
 ### Return Value
@@ -74,8 +77,7 @@ public bool HasField(string fieldName, bool searchChildren)
 
 ### See Also
 
-* class [Form](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

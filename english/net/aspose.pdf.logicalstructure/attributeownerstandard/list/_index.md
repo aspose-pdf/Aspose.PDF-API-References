@@ -1,10 +1,13 @@
 ---
-title: AttributeOwnerStandard.List
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeOwnerStandard field. List attribute owner
+title: "AttributeOwnerStandard.List"
+linktitle: "List"
+articleTitle: "List"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeOwnerStandard field. List attribute owner."
 type: docs
-weight: 60
-url: /net/aspose.pdf.logicalstructure/attributeownerstandard/list/
+weight: 50
+url: "/net/aspose.pdf.logicalstructure/attributeownerstandard/list/"
+product_version: "26.9"
 ---
 ## AttributeOwnerStandard.List field
 
@@ -16,8 +19,7 @@ public static readonly AttributeOwnerStandard List;
 
 ### See Also
 
-* class [AttributeOwnerStandard](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

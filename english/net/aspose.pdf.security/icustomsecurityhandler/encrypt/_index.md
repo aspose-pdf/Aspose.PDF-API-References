@@ -1,10 +1,13 @@
 ---
-title: ICustomSecurityHandler.Encrypt
-second_title: Aspose.PDF for .NET API Reference
-description: ICustomSecurityHandler method. Encrypt the data array
+title: "ICustomSecurityHandler.Encrypt"
+linktitle: "Encrypt"
+articleTitle: "Encrypt"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ICustomSecurityHandler method. Encrypt the data array."
 type: docs
-weight: 80
-url: /net/aspose.pdf.security/icustomsecurityhandler/encrypt/
+weight: 60
+url: "/net/aspose.pdf.security/icustomsecurityhandler/encrypt/"
+product_version: "26.9"
 ---
 ## ICustomSecurityHandler.Encrypt method
 
@@ -27,8 +30,7 @@ The encrypted data.
 
 ### See Also
 
-* interface [ICustomSecurityHandler](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [ICustomSecurityHandler](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 

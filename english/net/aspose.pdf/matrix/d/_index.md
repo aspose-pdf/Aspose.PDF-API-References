@@ -1,10 +1,13 @@
 ---
-title: Matrix.D
-second_title: Aspose.PDF for .NET API Reference
-description: Matrix property. D member of the transformation matrix
+title: "Matrix.D"
+linktitle: "D"
+articleTitle: "D"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Matrix property. D member of the transformation matrix."
 type: docs
-weight: 80
-url: /net/aspose.pdf/matrix/d/
+weight: 290
+url: "/net/aspose.pdf/matrix/d/"
+product_version: "26.9"
 ---
 ## Matrix.D property
 
@@ -16,8 +19,7 @@ public double D { get; set; }
 
 ### See Also
 
-* class [Matrix](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

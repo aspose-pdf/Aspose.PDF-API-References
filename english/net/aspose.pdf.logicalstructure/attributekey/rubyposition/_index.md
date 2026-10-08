@@ -1,10 +1,13 @@
 ---
-title: AttributeKey.RubyPosition
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey field. RubyPosition attribute Layout attribute owner
+title: "AttributeKey.RubyPosition"
+linktitle: "RubyPosition"
+articleTitle: "RubyPosition"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. RubyPosition attribute (Layout attribute owner)."
 type: docs
-weight: 270
-url: /net/aspose.pdf.logicalstructure/attributekey/rubyposition/
+weight: 320
+url: "/net/aspose.pdf.logicalstructure/attributekey/rubyposition/"
+product_version: "26.9"
 ---
 ## AttributeKey.RubyPosition field
 
@@ -16,8 +19,7 @@ public static readonly AttributeKey RubyPosition;
 
 ### See Also
 
-* class [AttributeKey](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

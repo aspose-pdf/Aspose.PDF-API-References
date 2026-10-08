@@ -1,10 +1,13 @@
 ---
-title: Image.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Image method. Clone the image
+title: "Image.Clone"
+linktitle: "Clone"
+articleTitle: "Clone"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Image method. Clone the image."
 type: docs
-weight: 130
-url: /net/aspose.pdf/image/clone/
+weight: 30
+url: "/net/aspose.pdf/image/clone/"
+product_version: "26.9"
 ---
 ## Image.Clone method
 
@@ -20,8 +23,7 @@ The cloned object
 
 ### See Also
 
-* class [Image](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

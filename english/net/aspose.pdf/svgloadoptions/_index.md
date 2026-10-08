@@ -1,10 +1,14 @@
 ---
-title: Class SvgLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SvgLoadOptions class. Represents options for loading/importing SVG file into pdf document
+title: "SvgLoadOptions Class"
+linktitle: "SvgLoadOptions"
+articleTitle: "SvgLoadOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.SvgLoadOptions class. Represents options for loading/importing SVG file into pdf document."
 type: docs
-weight: 10610
-url: /net/aspose.pdf/svgloadoptions/
+weight: 2830
+url: "/net/aspose.pdf/svgloadoptions/"
+keywords: "SvgLoadOptions, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## SvgLoadOptions class
 
@@ -24,11 +28,11 @@ public sealed class SvgLoadOptions : LoadOptions
 
 | Name | Description |
 | --- | --- |
-| [AdjustPageSize](../../aspose.pdf/svgloadoptions/adjustpagesize/) { get; set; } | Adust pdf page size to svg size |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When `true`, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default `false`. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../loadoptions/) describes. |
-| [PageInfo](../../aspose.pdf/svgloadoptions/pageinfo/) { get; set; } | Gets or sets page info that should be applied during loading of document. |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+| [AdjustPageSize](../../aspose.pdf/svgloadoptions/adjustpagesize/) { get; set; } | Adust pdf page size to svg size |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Gets or sets flag to disable any license restrictions for all fonts while loading the file. When `true`, allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Represents file format which [`LoadOptions`](../loadoptions/) describes. |
+| [PageInfo](../../aspose.pdf/svgloadoptions/pageinfo/) { get; set; } | Gets or sets page info that should be applied during loading of document. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback to handle any warnings generated. The WarningHandler returns ReturnAction enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 
 ## Fields
 
@@ -36,10 +40,15 @@ public sealed class SvgLoadOptions : LoadOptions
 | --- | --- |
 | [ConversionEngine](../../aspose.pdf/svgloadoptions/conversionengine/) | Allows select conversion engine that will be in use during conversion. Currently new engine is in B-testing stage, so this value by default set to ConversionEngines.LegacyEngine |
 
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| enum [ConversionEngines](../../aspose.pdf/svgloadoptions.conversionengines) | Enumerates conversion engines that can be used for conversion |
+
 ### See Also
 
-* class [LoadOptions](../loadoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: ViewerPreference.PrintScalingNone
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference field. No page scaling
+title: "ViewerPreference.PrintScalingNone"
+linktitle: "PrintScalingNone"
+articleTitle: "PrintScalingNone"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ViewerPreference field. No page scaling."
 type: docs
 weight: 280
-url: /net/aspose.pdf.facades/viewerpreference/printscalingnone/
+url: "/net/aspose.pdf.facades/viewerpreference/printscalingnone/"
+product_version: "26.9"
 ---
 ## ViewerPreference.PrintScalingNone field
 
@@ -16,8 +19,7 @@ public const int PrintScalingNone;
 
 ### See Also
 
-* class [ViewerPreference](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

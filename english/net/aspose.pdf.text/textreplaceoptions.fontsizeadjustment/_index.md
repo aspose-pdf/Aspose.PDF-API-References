@@ -1,10 +1,13 @@
 ---
-title: Enum TextReplaceOptions.FontSizeAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextReplaceOptionsFontSizeAdjustment enum. Specifies a policy for how the font size of text should be adjusted to fit within a containing area
+title: "TextReplaceOptions.FontSizeAdjustment Enum"
+linktitle: "TextReplaceOptions.FontSizeAdjustment"
+articleTitle: "TextReplaceOptions.FontSizeAdjustment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.TextReplaceOptions.FontSizeAdjustment enum. Specifies a policy for how the font size of text should be adjusted to fit within a containing area."
 type: docs
-weight: 11420
-url: /net/aspose.pdf.text/textreplaceoptions.fontsizeadjustment/
+weight: 630
+url: "/net/aspose.pdf.text/textreplaceoptions.fontsizeadjustment/"
+product_version: "26.9"
 ---
 ## TextReplaceOptions.FontSizeAdjustment enumeration
 
@@ -24,8 +27,7 @@ public enum FontSizeAdjustment
 
 ### See Also
 
-* class [TextReplaceOptions](../textreplaceoptions/)
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* class [TextReplaceOptions](../textreplaceoptions/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

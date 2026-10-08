@@ -1,10 +1,13 @@
 ---
-title: PdfException.GenerateCrashReport
-second_title: Aspose.PDF for .NET API Reference
-description: PdfException method. Forms crash report based on Exception HTML format
+title: "PdfException.GenerateCrashReport"
+linktitle: "GenerateCrashReport"
+articleTitle: "GenerateCrashReport"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfException method. Forms crash report based on Exception HTML format"
 type: docs
-weight: 20
-url: /net/aspose.pdf/pdfexception/generatecrashreport/
+weight: 50
+url: "/net/aspose.pdf/pdfexception/generatecrashreport/"
+product_version: "26.9"
 ---
 ## PdfException.GenerateCrashReport method
 
@@ -20,9 +23,8 @@ public static void GenerateCrashReport(CrashReportOptions options)
 
 ### See Also
 
-* class [CrashReportOptions](../../crashreportoptions/)
-* class [PdfException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CrashReportOptions](../../crashreportoptions/)
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

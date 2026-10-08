@@ -1,10 +1,13 @@
 ---
-title: PrinterMarksKindExtensions.HasFlagFast
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterMarksKindExtensions method. Determines whether the current value includes a specified flag
+title: "PrinterMarksKindExtensions.HasFlagFast"
+linktitle: "HasFlagFast"
+articleTitle: "HasFlagFast"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PrinterMarksKindExtensions method. Determines whether the current value includes a specified flag."
 type: docs
 weight: 10
-url: /net/aspose.pdf.annotations/printermarkskindextensions/hasflagfast/
+url: "/net/aspose.pdf.annotations/printermarkskindextensions/hasflagfast/"
+product_version: "26.9"
 ---
 ## PrinterMarksKindExtensions.HasFlagFast method
 
@@ -25,9 +28,8 @@ public static bool HasFlagFast(this PrinterMarksKind value, PrinterMarksKind fla
 
 ### See Also
 
-* enum [PrinterMarksKind](../../printermarkskind/)
-* class [PrinterMarksKindExtensions](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [PrinterMarksKind](../../printermarkskind/)
+* class [PrinterMarksKindExtensions](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

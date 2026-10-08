@@ -1,10 +1,13 @@
 ---
-title: Resolution.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Resolution constructor. Initializes a new instance of the Resolution class
+title: "Resolution.Resolution"
+linktitle: "Resolution"
+articleTitle: "Resolution"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Resolution constructor. Initializes a new instance of the Resolution class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.devices/resolution/resolution/
+url: "/net/aspose.pdf.devices/resolution/resolution/"
+product_version: "26.9"
 ---
 ## Resolution(int) {#constructor}
 
@@ -20,13 +23,13 @@ public Resolution(int value)
 
 ### See Also
 
-* class [Resolution](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [Resolution](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Resolution(int, int) {#constructor_1}
+## Resolution(int, int) {#constructor_1}
 
 Initializes a new instance of the [`Resolution`](../) class.
 
@@ -41,8 +44,7 @@ public Resolution(int valueX, int valueY)
 
 ### See Also
 
-* class [Resolution](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Resolution](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

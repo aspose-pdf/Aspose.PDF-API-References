@@ -1,10 +1,13 @@
 ---
-title: CrashReportOptions.CrashReportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: CrashReportOptions constructor. Creates CrashReportOptions with default parameters
+title: "CrashReportOptions.CrashReportOptions"
+linktitle: "CrashReportOptions"
+articleTitle: "CrashReportOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CrashReportOptions constructor. Creates CrashReportOptions with default parameters."
 type: docs
 weight: 10
-url: /net/aspose.pdf/crashreportoptions/crashreportoptions/
+url: "/net/aspose.pdf/crashreportoptions/crashreportoptions/"
+product_version: "26.9"
 ---
 ## CrashReportOptions constructor
 
@@ -26,8 +29,7 @@ public CrashReportOptions(Exception exception)
 
 ### See Also
 
-* class [CrashReportOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

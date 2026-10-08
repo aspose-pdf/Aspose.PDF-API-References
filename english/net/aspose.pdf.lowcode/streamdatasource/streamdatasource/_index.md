@@ -1,10 +1,13 @@
 ---
-title: StreamDataSource.StreamDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: StreamDataSource constructor. Initializes new stream data source with the specified stream object
+title: "StreamDataSource.StreamDataSource"
+linktitle: "StreamDataSource"
+articleTitle: "StreamDataSource"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StreamDataSource constructor. Initializes new stream data source with the specified stream object."
 type: docs
 weight: 10
-url: /net/aspose.pdf.lowcode/streamdatasource/streamdatasource/
+url: "/net/aspose.pdf.lowcode/streamdatasource/streamdatasource/"
+product_version: "26.9"
 ---
 ## StreamDataSource constructor
 
@@ -20,8 +23,7 @@ public StreamDataSource(Stream data)
 
 ### See Also
 
-* class [StreamDataSource](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StreamDataSource](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

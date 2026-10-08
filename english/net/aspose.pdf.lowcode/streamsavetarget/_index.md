@@ -1,10 +1,14 @@
 ---
-title: Class StreamSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.StreamSaveTarget class. Represents stream save target for a plugin
+title: "StreamSaveTarget Class"
+linktitle: "StreamSaveTarget"
+articleTitle: "StreamSaveTarget"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.StreamSaveTarget class. Represents stream save target for a plugin."
 type: docs
-weight: 7950
-url: /net/aspose.pdf.lowcode/streamsavetarget/
+weight: 900
+url: "/net/aspose.pdf.lowcode/streamsavetarget/"
+keywords: "StreamSaveTarget, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## StreamSaveTarget class
 
@@ -24,13 +28,12 @@ public class StreamSaveTarget : ISaveTarget
 
 | Name | Description |
 | --- | --- |
-| [Data](../../aspose.pdf.lowcode/streamsavetarget/data/) { get; } | Gets the stream of current save target. |
-| [SaveTarget](../../aspose.pdf.lowcode/streamsavetarget/savetarget/) { get; } | Type of the save target (stream). |
+| [Data](../../aspose.pdf.lowcode/streamsavetarget/data/) { get; } | Gets the stream of current save target. |
+| [SaveTarget](../../aspose.pdf.lowcode/streamsavetarget/savetarget/) { get; } | Type of the save target (stream). |
 
 ### See Also
 
-* interface [ISaveTarget](../isavetarget/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* interface [ISaveTarget](../isavetarget/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: TextPdfComparer.ComparePages
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer method. Compares document pages
+title: "TextPdfComparer.ComparePages"
+linktitle: "ComparePages"
+articleTitle: "ComparePages"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextPdfComparer method. Compares document pages."
 type: docs
 weight: 60
-url: /net/aspose.pdf.comparison/textpdfcomparer/comparepages/
+url: "/net/aspose.pdf.comparison/textpdfcomparer/comparepages/"
+product_version: "26.9"
 ---
 ## TextPdfComparer.ComparePages method
 
@@ -26,11 +29,10 @@ The list of changes.
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [Page](../../../aspose.pdf/page/)
-* class [ComparisonOptions](../../comparisonoptions/)
-* class [TextPdfComparer](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DiffOperation](../../diffoperation/)
+* class [Page](../../../aspose.pdf/page/)
+* class [ComparisonOptions](../../comparisonoptions/)
+* class [TextPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

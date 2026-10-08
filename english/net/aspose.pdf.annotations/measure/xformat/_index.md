@@ -1,10 +1,13 @@
 ---
-title: Measure.XFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Measure property. A number format array for measurement of change along the xaxis and if Y is not present along the y axis as well
+title: "Measure.XFormat"
+linktitle: "XFormat"
+articleTitle: "XFormat"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Measure property. A number format array for measurement of change along the xaxis and, if Y is not present, along the y axis as well"
 type: docs
-weight: 80
-url: /net/aspose.pdf.annotations/measure/xformat/
+weight: 30
+url: "/net/aspose.pdf.annotations/measure/xformat/"
+product_version: "26.9"
 ---
 ## Measure.XFormat property
 
@@ -16,9 +19,8 @@ public NumberFormatList XFormat { get; set; }
 
 ### See Also
 
-* class [NumberFormatList](../../measure.numberformatlist/)
-* class [Measure](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [NumberFormatList](../../measure.numberformatlist/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

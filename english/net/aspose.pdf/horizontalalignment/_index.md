@@ -1,10 +1,13 @@
 ---
-title: Enum HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HorizontalAlignment enum. Describes horizontal alignment
+title: "HorizontalAlignment Enum"
+linktitle: "HorizontalAlignment"
+articleTitle: "HorizontalAlignment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HorizontalAlignment enum. Describes horizontal alignment."
 type: docs
-weight: 5640
-url: /net/aspose.pdf/horizontalalignment/
+weight: 1120
+url: "/net/aspose.pdf/horizontalalignment/"
+product_version: "26.9"
 ---
 ## HorizontalAlignment enumeration
 
@@ -27,7 +30,6 @@ public enum HorizontalAlignment
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,10 +1,13 @@
 ---
-title: DP.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: DP property. Gets or sets marked content tag
+title: "DP.Tag"
+linktitle: "Tag"
+articleTitle: "Tag"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DP property. Gets or sets marked content tag"
 type: docs
-weight: 20
-url: /net/aspose.pdf.operators/dp/tag/
+weight: 40
+url: "/net/aspose.pdf.operators/dp/tag/"
+product_version: "26.9"
 ---
 ## DP.Tag property
 
@@ -16,8 +19,7 @@ public string Tag { get; set; }
 
 ### See Also
 
-* class [DP](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DP](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

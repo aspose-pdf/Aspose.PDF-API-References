@@ -1,10 +1,13 @@
 ---
-title: HtmlDiffOutputGenerator.GenerateOutput
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlDiffOutputGenerator method. Generates the output based on the differences between texts and saves it to a file
+title: "HtmlDiffOutputGenerator.GenerateOutput"
+linktitle: "GenerateOutput"
+articleTitle: "GenerateOutput"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlDiffOutputGenerator method. Generates the output based on the differences between texts and saves it to a file."
 type: docs
-weight: 60
-url: /net/aspose.pdf.comparison/htmldiffoutputgenerator/generateoutput/
+weight: 30
+url: "/net/aspose.pdf.comparison/htmldiffoutputgenerator/generateoutput/"
+product_version: "26.9"
 ---
 ## GenerateOutput(List&lt;DiffOperation&gt;) {#generateoutput}
 
@@ -20,14 +23,14 @@ public string GenerateOutput(List<DiffOperation> diffrences)
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [HtmlDiffOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
+* class [DiffOperation](../../diffoperation/)
+* class [HtmlDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GenerateOutput(List&lt;DiffOperation&gt;, string) {#generateoutput_2}
+## GenerateOutput(List&lt;DiffOperation&gt;, string) {#generateoutput_1}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -42,14 +45,14 @@ public void GenerateOutput(List<DiffOperation> diffrences, string targetFilePath
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [HtmlDiffOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
+* class [DiffOperation](../../diffoperation/)
+* class [HtmlDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;) {#generateoutput_1}
+## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;) {#generateoutput_2}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -63,14 +66,14 @@ public string GenerateOutput(List<List<DiffOperation>> diffrences)
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [HtmlDiffOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
+* class [DiffOperation](../../diffoperation/)
+* class [HtmlDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;, string) {#generateoutput_3}
+## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;, string) {#generateoutput_3}
 
 Generates the output based on the differences between texts and saves it to a file.
 
@@ -85,9 +88,8 @@ public void GenerateOutput(List<List<DiffOperation>> diffrences, string targetFi
 
 ### See Also
 
-* class [DiffOperation](../../diffoperation/)
-* class [HtmlDiffOutputGenerator](../)
-* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DiffOperation](../../diffoperation/)
+* class [HtmlDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
 

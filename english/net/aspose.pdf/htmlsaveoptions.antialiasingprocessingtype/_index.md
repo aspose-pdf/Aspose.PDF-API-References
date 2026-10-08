@@ -1,10 +1,13 @@
 ---
-title: Enum HtmlSaveOptions.AntialiasingProcessingType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsAntialiasingProcessingType enum. This enum describes possible antialiasing measures during conversion
+title: "HtmlSaveOptions.AntialiasingProcessingType Enum"
+linktitle: "HtmlSaveOptions.AntialiasingProcessingType"
+articleTitle: "HtmlSaveOptions.AntialiasingProcessingType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlSaveOptions.AntialiasingProcessingType enum. This enum describes possible antialiasing measures during conversion"
 type: docs
-weight: 5710
-url: /net/aspose.pdf/htmlsaveoptions.antialiasingprocessingtype/
+weight: 1190
+url: "/net/aspose.pdf/htmlsaveoptions.antialiasingprocessingtype/"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.AntialiasingProcessingType enumeration
 
@@ -23,8 +26,7 @@ public enum AntialiasingProcessingType
 
 ### See Also
 
-* class [HtmlSaveOptions](../htmlsaveoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

@@ -1,12 +1,15 @@
 ---
-title: Color.FromArgb
-second_title: Aspose.PDF for .NET API Reference
-description: Color method. Gets valid pdf Color object from RGB color components
+title: "Color.FromArgb"
+linktitle: "FromArgb"
+articleTitle: "FromArgb"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color method. Gets valid pdf Color object from RGB color components."
 type: docs
-weight: 1440
-url: /net/aspose.pdf/color/fromargb/
+weight: 60
+url: "/net/aspose.pdf/color/fromargb/"
+product_version: "26.9"
 ---
-## FromArgb(int, int, int) {#fromargb}
+## FromArgb(int, int, int) {#fromargb}
 
 Gets valid pdf Color object from RGB color components.
 
@@ -26,13 +29,13 @@ Color object with each component value in [0..255] range.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FromArgb(int, int, int, int) {#fromargb_1}
+## FromArgb(int, int, int, int) {#fromargb_1}
 
 Gets valid pdf Color object from RGB color components.
 
@@ -53,8 +56,7 @@ Color object with each component value in [0..255] range.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

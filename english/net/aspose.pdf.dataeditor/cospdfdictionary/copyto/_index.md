@@ -1,12 +1,17 @@
 ---
-title: CosPdfDictionary.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary method. 
+title: "CosPdfDictionary.CopyTo"
+linktitle: "CopyTo"
+articleTitle: "CopyTo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CosPdfDictionary method."
 type: docs
-weight: 130
-url: /net/aspose.pdf.dataeditor/cospdfdictionary/copyto/
+weight: 110
+url: "/net/aspose.pdf.dataeditor/cospdfdictionary/copyto/"
+product_version: "26.9"
 ---
 ## CosPdfDictionary.CopyTo method
+
+
 
 ```csharp
 public void CopyTo(KeyValuePair<string, ICosPdfPrimitive>[] array, int arrayIndex)
@@ -14,9 +19,8 @@ public void CopyTo(KeyValuePair<string, ICosPdfPrimitive>[] array, int arrayInde
 
 ### See Also
 
-* interface [ICosPdfPrimitive](../../icospdfprimitive/)
-* class [CosPdfDictionary](../)
-* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 

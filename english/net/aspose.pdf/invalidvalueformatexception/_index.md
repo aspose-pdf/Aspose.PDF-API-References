@@ -1,10 +1,14 @@
 ---
-title: Class InvalidValueFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.InvalidValueFormatException class. Exception which thrown when requested value has incorrect format
+title: "InvalidValueFormatException Class"
+linktitle: "InvalidValueFormatException"
+articleTitle: "InvalidValueFormatException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.InvalidValueFormatException class. Exception which thrown when requested value has incorrect format."
 type: docs
-weight: 6170
-url: /net/aspose.pdf/invalidvalueformatexception/
+weight: 1650
+url: "/net/aspose.pdf/invalidvalueformatexception/"
+keywords: "InvalidValueFormatException, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## InvalidValueFormatException class
 
@@ -23,8 +27,7 @@ public class InvalidValueFormatException : PdfException
 
 ### See Also
 
-* class [PdfException](../pdfexception/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

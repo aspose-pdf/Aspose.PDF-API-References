@@ -1,10 +1,13 @@
 ---
-title: DateComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: DateComponent method. Returns a string composed of a specified character repeated based on the format
+title: "DateComponent.GetFormat"
+linktitle: "GetFormat"
+articleTitle: "GetFormat"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DateComponent method. Returns a string composed of a specified character repeated based on the format."
 type: docs
-weight: 30
-url: /net/aspose.pdf/datecomponent/getformat/
+weight: 20
+url: "/net/aspose.pdf/datecomponent/getformat/"
+product_version: "26.9"
 ---
 ## DateComponent.GetFormat method
 
@@ -24,8 +27,7 @@ A string consisting of the character repeated.
 
 ### See Also
 
-* class [DateComponent](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DateComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

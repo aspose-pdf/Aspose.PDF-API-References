@@ -1,12 +1,15 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarkOfPage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfBookmarkEditor method. Creates bookmark for the specified page
+title: "PdfBookmarkEditor.CreateBookmarkOfPage"
+linktitle: "CreateBookmarkOfPage"
+articleTitle: "CreateBookmarkOfPage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfBookmarkEditor method. Creates bookmark for the specified page."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/
+weight: 40
+url: "/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/"
+product_version: "26.9"
 ---
-## CreateBookmarkOfPage(string, int) {#createbookmarkofpage}
+## CreateBookmarkOfPage(string, int) {#createbookmarkofpage}
 
 Creates bookmark for the specified page.
 
@@ -30,13 +33,13 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateBookmarkOfPage(string[], int[]) {#createbookmarkofpage_1}
+## CreateBookmarkOfPage(string[], int[]) {#createbookmarkofpage_1}
 
 Creates bookmarks for the specified pages.
 
@@ -60,8 +63,7 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfBookmarkEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

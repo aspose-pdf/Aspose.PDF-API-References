@@ -1,10 +1,13 @@
 ---
-title: FormEditor.AddSubmitBtn
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Add submit button on the form
+title: "FormEditor.AddSubmitBtn"
+linktitle: "AddSubmitBtn"
+articleTitle: "AddSubmitBtn"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Add submit button on the form."
 type: docs
-weight: 130
-url: /net/aspose.pdf.facades/formeditor/addsubmitbtn/
+weight: 260
+url: "/net/aspose.pdf.facades/formeditor/addsubmitbtn/"
+product_version: "26.9"
 ---
 ## FormEditor.AddSubmitBtn method
 
@@ -35,8 +38,7 @@ formEditor.AddSubmitBtn("submit", 1, "Submit", "www.check.com", 10, 200, 70, 270
 
 ### See Also
 
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

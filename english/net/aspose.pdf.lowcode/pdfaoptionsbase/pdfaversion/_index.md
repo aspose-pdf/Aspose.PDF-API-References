@@ -1,10 +1,13 @@
 ---
-title: PdfAOptionsBase.PdfAVersion
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase property. Gets or sets the version of the PDF/A standard to be used for validation or conversion
+title: "PdfAOptionsBase.PdfAVersion"
+linktitle: "PdfAVersion"
+articleTitle: "PdfAVersion"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAOptionsBase property. Gets or sets the version of the PDF/A standard to be used for validation or conversion."
 type: docs
-weight: 110
-url: /net/aspose.pdf.lowcode/pdfaoptionsbase/pdfaversion/
+weight: 30
+url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/pdfaversion/"
+product_version: "26.9"
 ---
 ## PdfAOptionsBase.PdfAVersion property
 
@@ -20,13 +23,15 @@ The version of the PDF/A standard. This can be one of the values from the [`PdfA
 
 ## Remarks
 
-The PDF/A standard version is used to determine the compliance level for PDF/A validation and conversion. If the version is set to Auto, the system will automatically determine the appropriate PDF/A standard version for validation based on the document metadata. For the PDF/A conversion process the Auto defaults to the PDF/A-1b standard version.
+The PDF/A standard version is used to determine the compliance level for PDF/A validation and conversion. 
+ If the version is set to `Auto`, the system will automatically determine
+ the appropriate PDF/A standard version for validation based on the document metadata.
+ For the PDF/A conversion process the `Auto` defaults to the PDF/A-1b standard version.
 
 ### See Also
 
-* enum [PdfAStandardVersion](../../pdfastandardversion/)
-* class [PdfAOptionsBase](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [PdfAStandardVersion](../../pdfastandardversion/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

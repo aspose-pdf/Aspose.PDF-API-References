@@ -1,10 +1,13 @@
 ---
-title: TableCellBuilder.AddCell
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellBuilder method. Add cell to table
+title: "TableCellBuilder.AddCell"
+linktitle: "AddCell"
+articleTitle: "AddCell"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableCellBuilder method. Add cell to table."
 type: docs
-weight: 10
-url: /net/aspose.pdf.lowcode/tablecellbuilder/addcell/
+weight: 20
+url: "/net/aspose.pdf.lowcode/tablecellbuilder/addcell/"
+product_version: "26.9"
 ---
 ## TableCellBuilder.AddCell method
 
@@ -20,8 +23,7 @@ Instance of current [`TableCellBuilder`](../).
 
 ### See Also
 
-* class [TableCellBuilder](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TableCellBuilder](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

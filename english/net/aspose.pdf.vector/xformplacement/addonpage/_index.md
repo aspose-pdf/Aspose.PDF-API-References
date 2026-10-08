@@ -1,14 +1,18 @@
 ---
-title: XFormPlacement.AddOnPage
-second_title: Aspose.PDF for .NET API Reference
-description: XFormPlacement method. Adds current element on the page. If there are many elements to add better use AddGraphics
+title: "XFormPlacement.AddOnPage"
+linktitle: "AddOnPage"
+articleTitle: "AddOnPage"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XFormPlacement method. Adds current element on the page. If there are many elements to add better use AddGraphics."
 type: docs
-weight: 60
-url: /net/aspose.pdf.vector/xformplacement/addonpage/
+weight: 10
+url: "/net/aspose.pdf.vector/xformplacement/addonpage/"
+product_version: "26.9"
 ---
 ## XFormPlacement.AddOnPage method
 
-Adds current element on the page. If there are many elements to add better use [`AddGraphics`](../../../aspose.pdf/page/addgraphics/).
+Adds current element on the page.
+ If there are many elements to add better use [`AddGraphics`](../../../aspose.pdf/page/addgraphics/).
 
 ```csharp
 public override void AddOnPage(Page destination)
@@ -20,9 +24,8 @@ public override void AddOnPage(Page destination)
 
 ### See Also
 
-* class [Page](../../../aspose.pdf/page/)
-* class [XFormPlacement](../)
-* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Page](../../../aspose.pdf/page/)
+* class [XFormPlacement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Color.PaleGoldenrod
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FFEEE8AA
+title: "Color.PaleGoldenrod"
+linktitle: "PaleGoldenrod"
+articleTitle: "PaleGoldenrod"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFEEE8AA."
 type: docs
-weight: 1040
-url: /net/aspose.pdf/color/palegoldenrod/
+weight: 1210
+url: "/net/aspose.pdf/color/palegoldenrod/"
+product_version: "26.9"
 ---
 ## Color.PaleGoldenrod property
 
@@ -20,8 +23,7 @@ A representing a system-defined color.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

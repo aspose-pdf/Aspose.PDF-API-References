@@ -1,10 +1,13 @@
 ---
-title: PdfAOptionsBase.Inputs
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase property. Gets collection of data sources
+title: "PdfAOptionsBase.Inputs"
+linktitle: "Inputs"
+articleTitle: "Inputs"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfAOptionsBase property. Gets collection of data sources"
 type: docs
-weight: 60
-url: /net/aspose.pdf.lowcode/pdfaoptionsbase/inputs/
+weight: 20
+url: "/net/aspose.pdf.lowcode/pdfaoptionsbase/inputs/"
+product_version: "26.9"
 ---
 ## PdfAOptionsBase.Inputs property
 
@@ -16,9 +19,8 @@ public List<IDataSource> Inputs { get; }
 
 ### See Also
 
-* interface [IDataSource](../../idatasource/)
-* class [PdfAOptionsBase](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IDataSource](../../idatasource/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

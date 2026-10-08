@@ -1,12 +1,15 @@
 ---
-title: TextEditOptions.TextEditOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextEditOptions constructor. Initializes new instance of the TextEditOptions object for the specified nocharacter behavior mode
+title: "TextEditOptions.TextEditOptions"
+linktitle: "TextEditOptions"
+articleTitle: "TextEditOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextEditOptions constructor. Initializes new instance of the TextEditOptions object for the specified no-character behavior mode."
 type: docs
 weight: 10
-url: /net/aspose.pdf.text/texteditoptions/texteditoptions/
+url: "/net/aspose.pdf.text/texteditoptions/texteditoptions/"
+product_version: "26.9"
 ---
-## TextEditOptions(NoCharacterAction) {#constructor_3}
+## TextEditOptions(NoCharacterAction) {#constructor}
 
 Initializes new instance of the [`TextEditOptions`](../) object for the specified no-character behavior mode.
 
@@ -20,10 +23,10 @@ public TextEditOptions(NoCharacterAction noCharacterBehavior)
 
 ### See Also
 
-* enum [NoCharacterAction](../../texteditoptions.nocharacteraction/)
-* class [TextEditOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* enum [NoCharacterAction](../../texteditoptions.nocharacteraction/)
+* class [TextEditOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,14 +44,14 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 
 ### See Also
 
-* enum [FontReplace](../../texteditoptions.fontreplace/)
-* class [TextEditOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* enum [FontReplace](../../texteditoptions.fontreplace/)
+* class [TextEditOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextEditOptions(bool) {#constructor}
+## TextEditOptions(bool) {#constructor_2}
 
 Initializes new instance of the [`TextEditOptions`](../) object for the specified language transformation permission.
 
@@ -62,13 +65,13 @@ public TextEditOptions(bool allowLanguageTransformation)
 
 ### See Also
 
-* class [TextEditOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
+* class [TextEditOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## TextEditOptions(LanguageTransformation) {#constructor_2}
+## TextEditOptions(LanguageTransformation) {#constructor_3}
 
 Initializes new instance of the [`TextEditOptions`](../) object for the specified language transformation behavior mode.
 
@@ -82,9 +85,8 @@ public TextEditOptions(LanguageTransformation languageTransformationBehavior)
 
 ### See Also
 
-* enum [LanguageTransformation](../../texteditoptions.languagetransformation/)
-* class [TextEditOptions](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [LanguageTransformation](../../texteditoptions.languagetransformation/)
+* class [TextEditOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

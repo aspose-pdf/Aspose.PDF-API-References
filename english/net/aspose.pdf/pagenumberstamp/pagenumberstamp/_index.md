@@ -1,12 +1,15 @@
 ---
-title: PageNumberStamp.PageNumberStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumberStamp constructor. Initializes a new instance of the PageNumberStamp class
+title: "PageNumberStamp.PageNumberStamp"
+linktitle: "PageNumberStamp"
+articleTitle: "PageNumberStamp"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageNumberStamp constructor. Initializes a new instance of the PageNumberStamp class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/pagenumberstamp/pagenumberstamp/
+url: "/net/aspose.pdf/pagenumberstamp/pagenumberstamp/"
+product_version: "26.9"
 ---
-## PageNumberStamp(string) {#constructor_2}
+## PageNumberStamp(string) {#constructor}
 
 Initializes a new instance of the [`PageNumberStamp`](../) class.
 
@@ -20,13 +23,13 @@ public PageNumberStamp(string format)
 
 ### See Also
 
-* class [PageNumberStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PageNumberStamp() {#constructor}
+## PageNumberStamp() {#constructor_1}
 
 Initializes a new instance of the [`PageNumberStamp`](../) class. Format is set to "#".
 
@@ -36,13 +39,13 @@ public PageNumberStamp()
 
 ### See Also
 
-* class [PageNumberStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PageNumberStamp(FormattedText) {#constructor_1}
+## PageNumberStamp(FormattedText) {#constructor_2}
 
 Creates PageNumberStamp by formatted text.
 
@@ -56,9 +59,8 @@ public PageNumberStamp(FormattedText formattedText)
 
 ### See Also
 
-* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* class [PageNumberStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

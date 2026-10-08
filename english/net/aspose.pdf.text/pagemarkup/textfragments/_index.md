@@ -1,10 +1,13 @@
 ---
-title: PageMarkup.TextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: PageMarkup property. Gets collection of TextFragment that was found on the page
+title: "PageMarkup.TextFragments"
+linktitle: "TextFragments"
+articleTitle: "TextFragments"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageMarkup property. Gets collection of TextFragment that was found on the page."
 type: docs
-weight: 60
-url: /net/aspose.pdf.text/pagemarkup/textfragments/
+weight: 50
+url: "/net/aspose.pdf.text/pagemarkup/textfragments/"
+product_version: "26.9"
 ---
 ## PageMarkup.TextFragments property
 
@@ -20,9 +23,8 @@ The [`TextFragment`](../../textfragment/) object provides access to the search o
 
 ### See Also
 
-* class [TextFragment](../../textfragment/)
-* class [PageMarkup](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextFragment](../../textfragment/)
+* class [PageMarkup](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

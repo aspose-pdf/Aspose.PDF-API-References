@@ -1,10 +1,13 @@
 ---
-title: PDF3DCrossSectionArray.Item
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSectionArray property. Gets or sets the PDF3DCrossSection at the specified index
+title: "PDF3DCrossSectionArray.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PDF3DCrossSectionArray property. Gets or sets the PDF3DCrossSection at the specified index."
 type: docs
-weight: 30
-url: /net/aspose.pdf.annotations/pdf3dcrosssectionarray/item/
+weight: 60
+url: "/net/aspose.pdf.annotations/pdf3dcrosssectionarray/item/"
+product_version: "26.9"
 ---
 ## PDF3DCrossSectionArray indexer
 
@@ -30,9 +33,8 @@ Cross section.
 
 ### See Also
 
-* class [PDF3DCrossSection](../../pdf3dcrosssection/)
-* class [PDF3DCrossSectionArray](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PDF3DCrossSection](../../pdf3dcrosssection/)
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

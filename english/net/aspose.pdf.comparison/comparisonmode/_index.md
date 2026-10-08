@@ -1,10 +1,13 @@
 ---
-title: Enum ComparisonMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.ComparisonMode enum. The comparison mode enumeration
+title: "ComparisonMode Enum"
+linktitle: "ComparisonMode"
+articleTitle: "ComparisonMode"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.ComparisonMode enum. The comparison mode enumeration."
 type: docs
-weight: 3250
-url: /net/aspose.pdf.comparison/comparisonmode/
+weight: 20
+url: "/net/aspose.pdf.comparison/comparisonmode/"
+product_version: "26.9"
 ---
 ## ComparisonMode enumeration
 
@@ -24,7 +27,6 @@ public enum ComparisonMode
 
 ### See Also
 
-* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
 

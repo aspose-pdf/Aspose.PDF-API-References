@@ -1,10 +1,13 @@
 ---
-title: EMC.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: EMC method. Returns text representation of operator
+title: "EMC.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "EMC method. Returns text representation of operator."
 type: docs
 weight: 30
-url: /net/aspose.pdf.operators/emc/tostring/
+url: "/net/aspose.pdf.operators/emc/tostring/"
+product_version: "26.9"
 ---
 ## EMC.ToString method
 
@@ -20,8 +23,7 @@ Text representation of the operator.
 
 ### See Also
 
-* class [EMC](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [EMC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: OpenAIClient.UploadFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient method. Uploads a file asynchronously to the OpenAI server
+title: "OpenAIClient.UploadFileAsync"
+linktitle: "UploadFileAsync"
+articleTitle: "UploadFileAsync"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "OpenAIClient method. Uploads a file asynchronously to the OpenAI server."
 type: docs
-weight: 460
-url: /net/aspose.pdf.ai/openaiclient/uploadfileasync/
+weight: 240
+url: "/net/aspose.pdf.ai/openaiclient/uploadfileasync/"
+product_version: "26.9"
 ---
 ## OpenAIClient.UploadFileAsync method
 
@@ -35,9 +38,8 @@ A task that represents the asynchronous operation. The task result contains the 
 
 ### See Also
 
-* class [FileResponse](../../fileresponse/)
-* class [OpenAIClient](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileResponse](../../fileresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

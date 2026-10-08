@@ -1,12 +1,15 @@
 ---
-title: Document.Encrypt
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Encrypts the document
+title: "Document.Encrypt"
+linktitle: "Encrypt"
+articleTitle: "Encrypt"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Encrypts the document."
 type: docs
-weight: 640
-url: /net/aspose.pdf/document/encrypt/
+weight: 590
+url: "/net/aspose.pdf/document/encrypt/"
+product_version: "26.9"
 ---
-## Encrypt(Permissions, CryptoAlgorithm, IList&lt;X509Certificate2&gt;) {#encrypt}
+## Encrypt(Permissions, CryptoAlgorithm, IList&lt;X509Certificate2&gt;) {#encrypt}
 
 Encrypts the document.
 
@@ -27,15 +30,15 @@ This method prepares for encryption. To encrypt a document, you need to call the
 
 ### See Also
 
-* enum [Permissions](../../permissions/)
-* enum [CryptoAlgorithm](../../cryptoalgorithm/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [Permissions](../../permissions/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Encrypt(string, string, DocumentPrivilege, ICustomSecurityHandler) {#encrypt_2}
+## Encrypt(string, string, DocumentPrivilege, ICustomSecurityHandler) {#encrypt_1}
 
 Encrypts the document.
 
@@ -57,15 +60,15 @@ This method prepares for encryption. To encrypt a document, you need to call the
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Encrypt(string, string, Permissions, ICustomSecurityHandler) {#encrypt_5}
+## Encrypt(string, string, Permissions, ICustomSecurityHandler) {#encrypt_2}
 
 Encrypts the document.
 
@@ -87,15 +90,15 @@ This method prepares for encryption. To encrypt a document, you need to call the
 
 ### See Also
 
-* enum [Permissions](../../permissions/)
-* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [Permissions](../../permissions/)
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt_1}
+## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt_3}
 
 Encrypts the document.
 
@@ -118,15 +121,15 @@ This method prepares for encryption. To encrypt a document, you need to call the
 
 ### See Also
 
-* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* enum [CryptoAlgorithm](../../cryptoalgorithm/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Encrypt(string, string, Permissions, CryptoAlgorithm) {#encrypt_3}
+## Encrypt(string, string, Permissions, CryptoAlgorithm) {#encrypt_4}
 
 Encrypts the document.
 
@@ -148,15 +151,15 @@ This method prepares for encryption. To encrypt a document, you need to call the
 
 ### See Also
 
-* enum [Permissions](../../permissions/)
-* enum [CryptoAlgorithm](../../cryptoalgorithm/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* enum [Permissions](../../permissions/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Encrypt(string, string, Permissions, CryptoAlgorithm, bool) {#encrypt_4}
+## Encrypt(string, string, Permissions, CryptoAlgorithm, bool) {#encrypt_5}
 
 Encrypts the document.
 
@@ -179,10 +182,9 @@ This method prepares for encryption. To encrypt a document, you need to call the
 
 ### See Also
 
-* enum [Permissions](../../permissions/)
-* enum [CryptoAlgorithm](../../cryptoalgorithm/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [Permissions](../../permissions/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

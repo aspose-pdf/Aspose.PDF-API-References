@@ -1,10 +1,13 @@
 ---
-title: LlamaChatCompletionRequest.Stream
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaChatCompletionRequest property. Sets or gets whether to stream the response
+title: "LlamaChatCompletionRequest.Stream"
+linktitle: "Stream"
+articleTitle: "Stream"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaChatCompletionRequest property. Sets or gets whether to stream the response."
 type: docs
-weight: 90
-url: /net/aspose.pdf.ai/llamachatcompletionrequest/stream/
+weight: 100
+url: "/net/aspose.pdf.ai/llamachatcompletionrequest/stream/"
+product_version: "26.9"
 ---
 ## LlamaChatCompletionRequest.Stream property
 
@@ -16,8 +19,7 @@ public bool? Stream { get; set; }
 
 ### See Also
 
-* class [LlamaChatCompletionRequest](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LlamaChatCompletionRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

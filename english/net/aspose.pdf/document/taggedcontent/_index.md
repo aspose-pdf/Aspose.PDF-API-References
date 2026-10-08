@@ -1,10 +1,13 @@
 ---
-title: Document.TaggedContent
-second_title: Aspose.PDF for .NET API Reference
-description: Document property. Gets access to TaggedPdf content
+title: "Document.TaggedContent"
+linktitle: "TaggedContent"
+articleTitle: "TaggedContent"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document property. Gets access to TaggedPdf content."
 type: docs
-weight: 540
-url: /net/aspose.pdf/document/taggedcontent/
+weight: 1600
+url: "/net/aspose.pdf/document/taggedcontent/"
+product_version: "26.9"
 ---
 ## Document.TaggedContent property
 
@@ -60,9 +63,8 @@ document.Save("example.pdf");
 
 ### See Also
 
-* interface [ITaggedContent](../../../aspose.pdf.tagged/itaggedcontent/)
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [ITaggedContent](../../../aspose.pdf.tagged/itaggedcontent/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

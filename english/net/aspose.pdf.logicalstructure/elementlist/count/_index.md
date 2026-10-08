@@ -1,10 +1,13 @@
 ---
-title: ElementList.Count
-second_title: Aspose.PDF for .NET API Reference
-description: ElementList property. Gets the number of elements in the ElementList
+title: "ElementList.Count"
+linktitle: "Count"
+articleTitle: "Count"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ElementList property. Gets the number of elements in the ElementList."
 type: docs
-weight: 10
-url: /net/aspose.pdf.logicalstructure/elementlist/count/
+weight: 30
+url: "/net/aspose.pdf.logicalstructure/elementlist/count/"
+product_version: "26.9"
 ---
 ## ElementList.Count property
 
@@ -16,8 +19,7 @@ public abstract int Count { get; }
 
 ### See Also
 
-* class [ElementList](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ElementList](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

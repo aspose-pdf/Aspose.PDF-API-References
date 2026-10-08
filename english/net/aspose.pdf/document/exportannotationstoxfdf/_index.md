@@ -1,12 +1,15 @@
 ---
-title: Document.ExportAnnotationsToXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Document method. Exports all document annotations to XFDF file
+title: "Document.ExportAnnotationsToXfdf"
+linktitle: "ExportAnnotationsToXfdf"
+articleTitle: "ExportAnnotationsToXfdf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Document method. Exports all document annotations to XFDF file"
 type: docs
-weight: 650
-url: /net/aspose.pdf/document/exportannotationstoxfdf/
+weight: 290
+url: "/net/aspose.pdf/document/exportannotationstoxfdf/"
+product_version: "26.9"
 ---
-## ExportAnnotationsToXfdf(string) {#exportannotationstoxfdf_1}
+## ExportAnnotationsToXfdf(string) {#exportannotationstoxfdf}
 
 Exports all document annotations to XFDF file
 
@@ -20,13 +23,13 @@ public void ExportAnnotationsToXfdf(string fileName)
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ExportAnnotationsToXfdf(Stream) {#exportannotationstoxfdf}
+## ExportAnnotationsToXfdf(Stream) {#exportannotationstoxfdf_1}
 
 Export all document annotations into stream.
 
@@ -40,8 +43,7 @@ public void ExportAnnotationsToXfdf(Stream stream)
 
 ### See Also
 
-* class [Document](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

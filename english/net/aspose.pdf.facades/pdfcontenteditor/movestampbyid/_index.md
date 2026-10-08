@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.MoveStampById
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Changes position of the stamp on page
+title: "PdfContentEditor.MoveStampById"
+linktitle: "MoveStampById"
+articleTitle: "MoveStampById"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Changes position of the stamp on page."
 type: docs
-weight: 420
-url: /net/aspose.pdf.facades/pdfcontenteditor/movestampbyid/
+weight: 590
+url: "/net/aspose.pdf.facades/pdfcontenteditor/movestampbyid/"
+product_version: "26.9"
 ---
 ## PdfContentEditor.MoveStampById method
 
@@ -23,8 +26,7 @@ public void MoveStampById(int pageNumber, int stampId, double x, double y)
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

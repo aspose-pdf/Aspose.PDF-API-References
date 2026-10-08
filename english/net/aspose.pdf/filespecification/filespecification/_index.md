@@ -1,12 +1,15 @@
 ---
-title: FileSpecification.FileSpecification
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification constructor. Constructor for FileSpecification
+title: "FileSpecification.FileSpecification"
+linktitle: "FileSpecification"
+articleTitle: "FileSpecification"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FileSpecification constructor. Constructor for FileSpecification"
 type: docs
 weight: 10
-url: /net/aspose.pdf/filespecification/filespecification/
+url: "/net/aspose.pdf/filespecification/filespecification/"
+product_version: "26.9"
 ---
-## FileSpecification(string) {#constructor_3}
+## FileSpecification(string) {#constructor}
 
 Constructor for FileSpecification
 
@@ -20,13 +23,13 @@ public FileSpecification(string file)
 
 ### See Also
 
-* class [FileSpecification](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FileSpecification(Stream, string) {#constructor_1}
+## FileSpecification(Stream, string) {#constructor_1}
 
 Constructor for file specification.
 
@@ -41,13 +44,13 @@ public FileSpecification(Stream stream, string name)
 
 ### See Also
 
-* class [FileSpecification](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FileSpecification(string, string) {#constructor_5}
+## FileSpecification(string, string) {#constructor_2}
 
 Constructor for FileSpecification.
 
@@ -62,13 +65,13 @@ public FileSpecification(string file, string description)
 
 ### See Also
 
-* class [FileSpecification](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FileSpecification(Stream, string, string) {#constructor_2}
+## FileSpecification(Stream, string, string) {#constructor_3}
 
 Constructor for FileSpecification.
 
@@ -84,13 +87,13 @@ public FileSpecification(Stream stream, string name, string description)
 
 ### See Also
 
-* class [FileSpecification](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FileSpecification(string, Annotation) {#constructor_4}
+## FileSpecification(string, Annotation) {#constructor_4}
 
 Constructor for FileSpecification.
 
@@ -105,14 +108,14 @@ public FileSpecification(string fileName, Annotation annot)
 
 ### See Also
 
-* class [Annotation](../../../aspose.pdf.annotations/annotation/)
-* class [FileSpecification](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FileSpecification() {#constructor}
+## FileSpecification() {#constructor_5}
 
 Create new empty file specification.
 
@@ -122,8 +125,7 @@ public FileSpecification()
 
 ### See Also
 
-* class [FileSpecification](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

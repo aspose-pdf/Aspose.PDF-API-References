@@ -1,12 +1,15 @@
 ---
-title: PdfFileStamp.AddHeader
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp method. Adds header to the page
+title: "PdfFileStamp.AddHeader"
+linktitle: "AddHeader"
+articleTitle: "AddHeader"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileStamp method. Adds header to the page."
 type: docs
-weight: 120
-url: /net/aspose.pdf.facades/pdffilestamp/addheader/
+weight: 130
+url: "/net/aspose.pdf.facades/pdffilestamp/addheader/"
+product_version: "26.9"
 ---
-## AddHeader(FormattedText, float) {#addheader}
+## AddHeader(FormattedText, float) {#addheader}
 
 Adds header to the page.
 
@@ -29,14 +32,14 @@ fileStamp.Close();
 
 ### See Also
 
-* class [FormattedText](../../formattedtext/)
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddHeader(FormattedText, float, float, float) {#addheader_1}
+## AddHeader(FormattedText, float, float, float) {#addheader_1}
 
 Adds header to the pages of file.
 
@@ -61,14 +64,14 @@ stamp.AddHeader(new FormattedText("Head of the page"), 10, 50, 50);
 
 ### See Also
 
-* class [FormattedText](../../formattedtext/)
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddHeader(string, float) {#addheader_4}
+## AddHeader(string, float) {#addheader_2}
 
 Adds image as header to the pages of the file.
 
@@ -92,13 +95,13 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddHeader(string, float, float, float) {#addheader_5}
+## AddHeader(string, float, float, float) {#addheader_3}
 
 Adds image as header on the pages.
 
@@ -124,13 +127,13 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddHeader(Stream, float) {#addheader_2}
+## AddHeader(Stream, float) {#addheader_4}
 
 Adds image as header on the pages.
 
@@ -154,13 +157,13 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## AddHeader(Stream, float, float, float) {#addheader_3}
+## AddHeader(Stream, float, float, float) {#addheader_5}
 
 Adds image at the top of the page.
 
@@ -186,8 +189,7 @@ fileStamp.Close();
 
 ### See Also
 
-* class [PdfFileStamp](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

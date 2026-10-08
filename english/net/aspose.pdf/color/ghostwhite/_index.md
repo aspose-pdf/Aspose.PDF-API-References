@@ -1,10 +1,13 @@
 ---
-title: Color.GhostWhite
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FFF8F8FF
+title: "Color.GhostWhite"
+linktitle: "GhostWhite"
+articleTitle: "GhostWhite"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFF8F8FF."
 type: docs
-weight: 490
-url: /net/aspose.pdf/color/ghostwhite/
+weight: 660
+url: "/net/aspose.pdf/color/ghostwhite/"
+product_version: "26.9"
 ---
 ## Color.GhostWhite property
 
@@ -20,8 +23,7 @@ A representing a system-defined color.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

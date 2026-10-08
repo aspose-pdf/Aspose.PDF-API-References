@@ -1,12 +1,15 @@
 ---
-title: CertificateEncryptionOptions.CertificateEncryptionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: CertificateEncryptionOptions constructor. Creates an instance of CertificateEncryptionOptions class
+title: "CertificateEncryptionOptions.CertificateEncryptionOptions"
+linktitle: "CertificateEncryptionOptions"
+articleTitle: "CertificateEncryptionOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "CertificateEncryptionOptions constructor. Creates an instance of CertificateEncryptionOptions class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.security/certificateencryptionoptions/certificateencryptionoptions/
+url: "/net/aspose.pdf.security/certificateencryptionoptions/certificateencryptionoptions/"
+product_version: "26.9"
 ---
-## CertificateEncryptionOptions(string, string, string) {#constructor_3}
+## CertificateEncryptionOptions(string, string, string) {#constructor}
 
 Creates an instance of [`CertificateEncryptionOptions`](../) class.
 
@@ -23,13 +26,13 @@ public CertificateEncryptionOptions(string publicCertificatePath, string pfxPath
 
 ### See Also
 
-* class [CertificateEncryptionOptions](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
+* class [CertificateEncryptionOptions](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CertificateEncryptionOptions(string, StoreName, StoreLocation) {#constructor_2}
+## CertificateEncryptionOptions(string, StoreName, StoreLocation) {#constructor_1}
 
 Creates an instance of [`CertificateEncryptionOptions`](../) class.
 
@@ -46,13 +49,13 @@ public CertificateEncryptionOptions(string publicCertificatePath,
 
 ### See Also
 
-* class [CertificateEncryptionOptions](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
+* class [CertificateEncryptionOptions](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CertificateEncryptionOptions(X509Certificate2, StoreName, StoreLocation) {#constructor}
+## CertificateEncryptionOptions(X509Certificate2, StoreName, StoreLocation) {#constructor_2}
 
 Creates an instance of [`CertificateEncryptionOptions`](../) class.
 
@@ -69,13 +72,13 @@ public CertificateEncryptionOptions(X509Certificate2 publicCertificate,
 
 ### See Also
 
-* class [CertificateEncryptionOptions](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
+* class [CertificateEncryptionOptions](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CertificateEncryptionOptions(X509Certificate2, string, string) {#constructor_1}
+## CertificateEncryptionOptions(X509Certificate2, string, string) {#constructor_3}
 
 Creates an instance of [`CertificateEncryptionOptions`](../) class.
 
@@ -92,8 +95,7 @@ public CertificateEncryptionOptions(X509Certificate2 publicCertificate, string p
 
 ### See Also
 
-* class [CertificateEncryptionOptions](../)
-* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
-* assembly [Aspose.PDF](../../../)
-
+* class [CertificateEncryptionOptions](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../../)
 

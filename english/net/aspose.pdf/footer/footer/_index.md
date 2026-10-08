@@ -1,10 +1,13 @@
 ---
-title: Footer.Footer
-second_title: Aspose.PDF for .NET API Reference
-description: Footer constructor. The default constructor
+title: "Footer.Footer"
+linktitle: "Footer"
+articleTitle: "Footer"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Footer constructor. The default constructor."
 type: docs
 weight: 10
-url: /net/aspose.pdf/footer/footer/
+url: "/net/aspose.pdf/footer/footer/"
+product_version: "26.9"
 ---
 ## Footer constructor
 
@@ -16,8 +19,7 @@ public Footer()
 
 ### See Also
 
-* class [Footer](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Footer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

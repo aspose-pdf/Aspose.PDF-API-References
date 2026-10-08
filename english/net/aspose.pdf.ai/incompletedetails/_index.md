@@ -1,10 +1,14 @@
 ---
-title: Class IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IncompleteDetails class. Details on why the run is incomplete. Will be null if the run is not incomplete
+title: "IncompleteDetails Class"
+linktitle: "IncompleteDetails"
+articleTitle: "IncompleteDetails"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.IncompleteDetails class. Details on why the run is incomplete. Will be null if the run is not incomplete."
 type: docs
 weight: 700
-url: /net/aspose.pdf.ai/incompletedetails/
+url: "/net/aspose.pdf.ai/incompletedetails/"
+keywords: "IncompleteDetails, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## IncompleteDetails class
 
@@ -24,11 +28,10 @@ public class IncompleteDetails
 
 | Name | Description |
 | --- | --- |
-| [Reason](../../aspose.pdf.ai/incompletedetails/reason/) { get; set; } | Gets or sets the reason why the message is incomplete. |
+| [Reason](../../aspose.pdf.ai/incompletedetails/reason/) { get; set; } | Gets or sets the reason why the message is incomplete. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

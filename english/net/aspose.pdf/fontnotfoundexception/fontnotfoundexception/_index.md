@@ -1,12 +1,15 @@
 ---
-title: FontNotFoundException.FontNotFoundException
-second_title: Aspose.PDF for .NET API Reference
-description: FontNotFoundException constructor. Initializes a new instance of the FontNotFoundException class
+title: "FontNotFoundException.FontNotFoundException"
+linktitle: "FontNotFoundException"
+articleTitle: "FontNotFoundException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FontNotFoundException constructor. Initializes a new instance of the FontNotFoundException class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/fontnotfoundexception/fontnotfoundexception/
+url: "/net/aspose.pdf/fontnotfoundexception/fontnotfoundexception/"
+product_version: "26.9"
 ---
-## FontNotFoundException(string) {#constructor_1}
+## FontNotFoundException(string) {#constructor}
 
 Initializes a new instance of the [`FontNotFoundException`](../) class.
 
@@ -20,13 +23,13 @@ public FontNotFoundException(string message)
 
 ### See Also
 
-* class [FontNotFoundException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [FontNotFoundException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FontNotFoundException(string, Exception) {#constructor_2}
+## FontNotFoundException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`FontNotFoundException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
@@ -41,13 +44,13 @@ public FontNotFoundException(string message, Exception innerException)
 
 ### See Also
 
-* class [FontNotFoundException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [FontNotFoundException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## FontNotFoundException(Exception) {#constructor}
+## FontNotFoundException(Exception) {#constructor_2}
 
 Initializes a new instance of the [`FontNotFoundException`](../) class with a reference to the inner exception that is the cause of this exception.
 
@@ -61,8 +64,7 @@ public FontNotFoundException(Exception innerException)
 
 ### See Also
 
-* class [FontNotFoundException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FontNotFoundException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

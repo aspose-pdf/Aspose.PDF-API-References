@@ -1,10 +1,13 @@
 ---
-title: Fill.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Fill method. Returns text representation of operator
+title: "Fill.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Fill method. Returns text representation of operator."
 type: docs
 weight: 30
-url: /net/aspose.pdf.operators/fill/tostring/
+url: "/net/aspose.pdf.operators/fill/tostring/"
+product_version: "26.9"
 ---
 ## Fill.ToString method
 
@@ -20,8 +23,7 @@ Text representation of operator.
 
 ### See Also
 
-* class [Fill](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Fill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

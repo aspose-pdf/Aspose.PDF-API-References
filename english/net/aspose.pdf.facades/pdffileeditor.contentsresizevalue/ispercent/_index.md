@@ -1,14 +1,18 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.IsPercent
-second_title: Aspose.PDF for .NET API Reference
-description: ContentsResizeValue property. Gets true if value is expressed in percents False if value is expressed in default units
+title: "PdfFileEditor.ContentsResizeValue.IsPercent"
+linktitle: "IsPercent"
+articleTitle: "IsPercent"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ContentsResizeValue property. Gets true if value is expressed in percents; False if value is expressed in default units."
 type: docs
-weight: 40
-url: /net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/ispercent/
+weight: 70
+url: "/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/ispercent/"
+product_version: "26.9"
 ---
 ## PdfFileEditor.ContentsResizeValue.IsPercent property
 
-Gets true if value is expressed in percents; False if value is expressed in default units.
+Gets true if value is expressed in percents; 
+ False if value is expressed in default units.
 
 ```csharp
 public bool IsPercent { get; }
@@ -16,8 +20,7 @@ public bool IsPercent { get; }
 
 ### See Also
 
-* class [ContentsResizeValue](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ContentsResizeValue](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

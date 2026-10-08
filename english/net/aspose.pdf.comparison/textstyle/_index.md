@@ -1,10 +1,14 @@
 ---
-title: Class TextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.TextStyle class. Represents a text style class
+title: "TextStyle Class"
+linktitle: "TextStyle"
+articleTitle: "TextStyle"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Comparison.TextStyle class. Represents a text style class."
 type: docs
-weight: 3470
-url: /net/aspose.pdf.comparison/textstyle/
+weight: 240
+url: "/net/aspose.pdf.comparison/textstyle/"
+keywords: "TextStyle, Aspose.Pdf.Comparison, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## TextStyle class
 
@@ -24,12 +28,11 @@ public class TextStyle
 
 | Name | Description |
 | --- | --- |
-| [BackgroundColor](../../aspose.pdf.comparison/textstyle/backgroundcolor/) { get; set; } | Gets and sets the background color. |
-| [Color](../../aspose.pdf.comparison/textstyle/color/) { get; set; } | Gets and sets the text color. |
+| [BackgroundColor](../../aspose.pdf.comparison/textstyle/backgroundcolor/) { get; set; } | Gets and sets the background color. |
+| [Color](../../aspose.pdf.comparison/textstyle/color/) { get; set; } | Gets and sets the text color. |
 
 ### See Also
 
-* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
 

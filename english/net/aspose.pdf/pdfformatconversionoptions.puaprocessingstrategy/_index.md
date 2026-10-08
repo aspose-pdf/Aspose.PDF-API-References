@@ -1,14 +1,20 @@
 ---
-title: Enum PdfFormatConversionOptions.PuaProcessingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfFormatConversionOptionsPuaProcessingStrategy enum. Some PDF documents have special unicode symbols which are belonged to Private Use Area PUA see description at https//en.wikipedia.org/wiki/Private_Use_Areas. This symbols cause an PDF/A compliant errors like Text is mapped to Unicode Private Use Area but no ActualText entry is present. This enumeration declares a strategies which can be used to handle PUA symbols
+title: "PdfFormatConversionOptions.PuaProcessingStrategy Enum"
+linktitle: "PdfFormatConversionOptions.PuaProcessingStrategy"
+articleTitle: "PdfFormatConversionOptions.PuaProcessingStrategy"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PdfFormatConversionOptions.PuaProcessingStrategy enum. Some PDF documents have special unicode symbols, which are belonged to Private Use Area (PU..."
 type: docs
-weight: 9660
-url: /net/aspose.pdf/pdfformatconversionoptions.puaprocessingstrategy/
+weight: 2420
+url: "/net/aspose.pdf/pdfformatconversionoptions.puaprocessingstrategy/"
+product_version: "26.9"
 ---
 ## PdfFormatConversionOptions.PuaProcessingStrategy enumeration
 
-Some PDF documents have special unicode symbols, which are belonged to Private Use Area (PUA), see description at https://en.wikipedia.org/wiki/Private_Use_Areas. This symbols cause an PDF/A compliant errors like "Text is mapped to Unicode Private Use Area but no ActualText entry is present". This enumeration declares a strategies which can be used to handle PUA symbols.
+Some PDF documents have special unicode symbols, which are belonged to Private Use Area (PUA), 
+ see description at https://en.wikipedia.org/wiki/Private_Use_Areas.
+ This symbols cause an PDF/A compliant errors like "Text is mapped to Unicode Private Use Area but no ActualText entry is present".
+ This enumeration declares a strategies which can be used to handle PUA symbols.
 
 ```csharp
 public enum PuaProcessingStrategy
@@ -24,8 +30,7 @@ public enum PuaProcessingStrategy
 
 ### See Also
 
-* class [PdfFormatConversionOptions](../pdfformatconversionoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfFormatConversionOptions](../pdfformatconversionoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

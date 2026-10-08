@@ -1,10 +1,13 @@
 ---
-title: FitHExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: FitHExplicitDestination method. Converts the object state into string value. Example 1 FitH 100
+title: "FitHExplicitDestination.ToString"
+linktitle: "ToString"
+articleTitle: "ToString"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FitHExplicitDestination method. Converts the object state into string value. Example: \"1 FitH 100\"."
 type: docs
 weight: 30
-url: /net/aspose.pdf.annotations/fithexplicitdestination/tostring/
+url: "/net/aspose.pdf.annotations/fithexplicitdestination/tostring/"
+product_version: "26.9"
 ---
 ## FitHExplicitDestination.ToString method
 
@@ -20,8 +23,7 @@ String value representing object state.
 
 ### See Also
 
-* class [FitHExplicitDestination](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FitHExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

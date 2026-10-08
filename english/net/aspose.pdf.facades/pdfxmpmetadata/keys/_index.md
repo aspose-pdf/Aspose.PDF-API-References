@@ -1,10 +1,13 @@
 ---
-title: PdfXmpMetadata.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata property. Gets keys from the dictionary
+title: "PdfXmpMetadata.Keys"
+linktitle: "Keys"
+articleTitle: "Keys"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfXmpMetadata property. Gets keys from the dictionary."
 type: docs
-weight: 80
-url: /net/aspose.pdf.facades/pdfxmpmetadata/keys/
+weight: 240
+url: "/net/aspose.pdf.facades/pdfxmpmetadata/keys/"
+product_version: "26.9"
 ---
 ## PdfXmpMetadata.Keys property
 
@@ -16,8 +19,7 @@ public ICollection<string> Keys { get; }
 
 ### See Also
 
-* class [PdfXmpMetadata](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: XmpPdfAExtensionSchema.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema method. Determines whether obj exists in schema
+title: "XmpPdfAExtensionSchema.Contains"
+linktitle: "Contains"
+articleTitle: "Contains"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpPdfAExtensionSchema method. Determines whether obj exists in schema."
 type: docs
-weight: 50
-url: /net/aspose.pdf/xmppdfaextensionschema/contains/
+weight: 30
+url: "/net/aspose.pdf/xmppdfaextensionschema/contains/"
+product_version: "26.9"
 ---
 ## XmpPdfAExtensionSchema.Contains method
 
@@ -24,9 +27,8 @@ True - object exists in schema; otherwise, false.
 
 ### See Also
 
-* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* class [XmpPdfAExtensionSchema](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

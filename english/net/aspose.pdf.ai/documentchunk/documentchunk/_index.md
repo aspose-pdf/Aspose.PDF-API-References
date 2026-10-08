@@ -1,10 +1,13 @@
 ---
-title: DocumentChunk.DocumentChunk
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentChunk constructor. Initializes a new instance of the DocumentChunk class
+title: "DocumentChunk.DocumentChunk"
+linktitle: "DocumentChunk"
+articleTitle: "DocumentChunk"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "DocumentChunk constructor. Initializes a new instance of the DocumentChunk class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.ai/documentchunk/documentchunk/
+url: "/net/aspose.pdf.ai/documentchunk/documentchunk/"
+product_version: "26.9"
 ---
 ## DocumentChunk constructor
 
@@ -30,8 +33,7 @@ public DocumentChunk(string id, string content, int index, string context)
 
 ### See Also
 
-* class [DocumentChunk](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [DocumentChunk](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

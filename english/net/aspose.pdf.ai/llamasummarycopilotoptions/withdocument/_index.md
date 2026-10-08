@@ -1,12 +1,15 @@
 ---
-title: LlamaSummaryCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions method. Adds a text document to the document collection for the summary copilot options
+title: "LlamaSummaryCopilotOptions.WithDocument"
+linktitle: "WithDocument"
+articleTitle: "WithDocument"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaSummaryCopilotOptions method. Adds a text document to the document collection for the summary copilot options."
 type: docs
-weight: 40
-url: /net/aspose.pdf.ai/llamasummarycopilotoptions/withdocument/
+weight: 110
+url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/withdocument/"
+product_version: "26.9"
 ---
-## WithDocument(TextDocument) {#withdocument_1}
+## WithDocument(TextDocument) {#withdocument}
 
 Adds a text document to the document collection for the summary copilot options.
 
@@ -24,14 +27,14 @@ The current instance of [`LlamaSummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [TextDocument](../../textdocument/)
-* class [LlamaSummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* class [TextDocument](../../textdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## WithDocument(PdfDocument) {#withdocument}
+## WithDocument(PdfDocument) {#withdocument_1}
 
 Adds a PDF document to the document collection for the summary copilot options.
 
@@ -49,10 +52,10 @@ The current instance of [`LlamaSummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [PdfDocument](../../pdfdocument/)
-* class [LlamaSummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* class [PdfDocument](../../pdfdocument/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -74,8 +77,7 @@ The current instance of [`LlamaSummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [LlamaSummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.SplitToEnd
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Splits from location and saves the rear part as a new file
+title: "PdfFileEditor.SplitToEnd"
+linktitle: "SplitToEnd"
+articleTitle: "SplitToEnd"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Splits from location, and saves the rear part as a new file."
 type: docs
-weight: 360
-url: /net/aspose.pdf.facades/pdffileeditor/splittoend/
+weight: 630
+url: "/net/aspose.pdf.facades/pdffileeditor/splittoend/"
+product_version: "26.9"
 ---
-## SplitToEnd(string, int, string) {#splittoend_1}
+## SplitToEnd(string, int, string) {#splittoend}
 
 Splits from location, and saves the rear part as a new file.
 
@@ -33,13 +36,13 @@ pfe.SplitToEnd("input.pdf", 5, "out.pdf");
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SplitToEnd(Stream, int, Stream) {#splittoend}
+## SplitToEnd(Stream, int, Stream) {#splittoend_1}
 
 Splits from specified location, and saves the rear part as a new file Stream.
 
@@ -72,8 +75,7 @@ pfe.SplitToEnd(sourceStream, 5, outStream);
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

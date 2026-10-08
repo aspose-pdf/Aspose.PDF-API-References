@@ -1,10 +1,14 @@
 ---
-title: Class FormOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.FormOptions class. Represents options for a family Form.... plugins
+title: "FormOptions Class"
+linktitle: "FormOptions"
+articleTitle: "FormOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.FormOptions class. Represents options for a family Form.... plugins."
 type: docs
-weight: 7390
-url: /net/aspose.pdf.lowcode/formoptions/
+weight: 340
+url: "/net/aspose.pdf.lowcode/formoptions/"
+keywords: "FormOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## FormOptions class
 
@@ -18,8 +22,8 @@ public abstract class FormOptions : IPluginOptions
 
 | Name | Description |
 | --- | --- |
-| [Inputs](../../aspose.pdf.lowcode/formoptions/inputs/) { get; } | Returns Form.... plugins data collection. |
-| [Outputs](../../aspose.pdf.lowcode/formoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
+| [Inputs](../../aspose.pdf.lowcode/formoptions/inputs/) { get; } | Returns Form.... plugins data collection. |
+| [Outputs](../../aspose.pdf.lowcode/formoptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
@@ -30,8 +34,7 @@ public abstract class FormOptions : IPluginOptions
 
 ### See Also
 
-* interface [IPluginOptions](../ipluginoptions/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* interface [IPluginOptions](../ipluginoptions/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

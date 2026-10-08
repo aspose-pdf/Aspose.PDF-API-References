@@ -1,10 +1,13 @@
 ---
-title: TextFragmentState.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentState property. Sets background color of the text represented by the TextFragment object
+title: "TextFragmentState.BackgroundColor"
+linktitle: "BackgroundColor"
+articleTitle: "BackgroundColor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextFragmentState property. Sets background color of the text, represented by the TextFragment object"
 type: docs
-weight: 20
-url: /net/aspose.pdf.text/textfragmentstate/backgroundcolor/
+weight: 170
+url: "/net/aspose.pdf.text/textfragmentstate/backgroundcolor/"
+product_version: "26.9"
 ---
 ## TextFragmentState.BackgroundColor property
 
@@ -16,9 +19,8 @@ public override Color BackgroundColor { get; set; }
 
 ### See Also
 
-* class [Color](../../../aspose.pdf/color/)
-* class [TextFragmentState](../)
-* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../../../aspose.pdf/color/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 

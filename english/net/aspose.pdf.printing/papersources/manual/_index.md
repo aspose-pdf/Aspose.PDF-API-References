@@ -1,10 +1,13 @@
 ---
-title: PaperSources.Manual
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources field. Represents a manual feed paper source
+title: "PaperSources.Manual"
+linktitle: "Manual"
+articleTitle: "Manual"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSources field. Represents a manual feed paper source."
 type: docs
-weight: 80
-url: /net/aspose.pdf.printing/papersources/manual/
+weight: 40
+url: "/net/aspose.pdf.printing/papersources/manual/"
+product_version: "26.9"
 ---
 ## PaperSources.Manual field
 
@@ -16,9 +19,8 @@ public static readonly PaperSource Manual;
 
 ### See Also
 
-* class [PaperSource](../../papersource/)
-* class [PaperSources](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

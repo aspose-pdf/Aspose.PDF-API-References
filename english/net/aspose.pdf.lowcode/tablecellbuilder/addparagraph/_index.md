@@ -1,10 +1,13 @@
 ---
-title: TableCellBuilder.AddParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: TableCellBuilder method. Add paragraphs to table cell
+title: "TableCellBuilder.AddParagraph"
+linktitle: "AddParagraph"
+articleTitle: "AddParagraph"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TableCellBuilder method. Add paragraphs to table cell."
 type: docs
-weight: 20
-url: /net/aspose.pdf.lowcode/tablecellbuilder/addparagraph/
+weight: 10
+url: "/net/aspose.pdf.lowcode/tablecellbuilder/addparagraph/"
+product_version: "26.9"
 ---
 ## TableCellBuilder.AddParagraph method
 
@@ -24,9 +27,8 @@ Instance of current [`TableCellBuilder`](../).
 
 ### See Also
 
-* class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
-* class [TableCellBuilder](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TableCellBuilder](../)
+* class [BaseParagraph](../../../aspose.pdf/baseparagraph/)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

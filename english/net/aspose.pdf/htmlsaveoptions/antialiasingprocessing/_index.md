@@ -1,10 +1,13 @@
 ---
-title: HtmlSaveOptions.AntialiasingProcessing
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions field. This parameter defines required antialiasing measures during conversion of compound background images from PDF to HTML
+title: "HtmlSaveOptions.AntialiasingProcessing"
+linktitle: "AntialiasingProcessing"
+articleTitle: "AntialiasingProcessing"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HtmlSaveOptions field. This parameter defines required antialiasing measures during conversion of compound background images from PDF to HTML"
 type: docs
-weight: 240
-url: /net/aspose.pdf/htmlsaveoptions/antialiasingprocessing/
+weight: 280
+url: "/net/aspose.pdf/htmlsaveoptions/antialiasingprocessing/"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.AntialiasingProcessing field
 
@@ -16,9 +19,8 @@ public AntialiasingProcessingType AntialiasingProcessing;
 
 ### See Also
 
-* enum [AntialiasingProcessingType](../../htmlsaveoptions.antialiasingprocessingtype/)
-* class [HtmlSaveOptions](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [AntialiasingProcessingType](../../htmlsaveoptions.antialiasingprocessingtype/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

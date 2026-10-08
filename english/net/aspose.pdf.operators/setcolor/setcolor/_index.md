@@ -1,10 +1,13 @@
 ---
-title: SetColor.SetColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetColor constructor. Initializes operator
+title: "SetColor.SetColor"
+linktitle: "SetColor"
+articleTitle: "SetColor"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetColor constructor. Initializes operator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/setcolor/setcolor/
+url: "/net/aspose.pdf.operators/setcolor/setcolor/"
+product_version: "26.9"
 ---
 ## SetColor() {#constructor}
 
@@ -16,9 +19,9 @@ public SetColor()
 
 ### See Also
 
-* class [SetColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,13 +39,13 @@ public SetColor(double g)
 
 ### See Also
 
-* class [SetColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SetColor(double, double, double) {#constructor_2}
+## SetColor(double, double, double) {#constructor_2}
 
 Set color for stroking operator for DeviceRGB, CalRGB, and Lab color spaces
 
@@ -58,13 +61,13 @@ public SetColor(double r, double g, double b)
 
 ### See Also
 
-* class [SetColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SetColor(double, double, double, double) {#constructor_3}
+## SetColor(double, double, double, double) {#constructor_3}
 
 Set color for non-stroking operator for CMYK color space
 
@@ -81,9 +84,9 @@ public SetColor(double c, double m, double y, double k)
 
 ### See Also
 
-* class [SetColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -101,8 +104,7 @@ public SetColor(double[] color)
 
 ### See Also
 
-* class [SetColor](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

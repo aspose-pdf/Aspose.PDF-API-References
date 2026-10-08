@@ -1,10 +1,13 @@
 ---
-title: Enum CaretSymbol
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.CaretSymbol enum. A symbol to be associated with the caret
+title: "CaretSymbol Enum"
+linktitle: "CaretSymbol"
+articleTitle: "CaretSymbol"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Annotations.CaretSymbol enum. A symbol to be associated with the caret."
 type: docs
-weight: 1660
-url: /net/aspose.pdf.annotations/caretsymbol/
+weight: 190
+url: "/net/aspose.pdf.annotations/caretsymbol/"
+product_version: "26.9"
 ---
 ## CaretSymbol enumeration
 
@@ -23,7 +26,6 @@ public enum CaretSymbol
 
 ### See Also
 
-* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
 

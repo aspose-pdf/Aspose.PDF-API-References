@@ -1,10 +1,13 @@
 ---
-title: Enum ColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ColorSpace enum. The color spaces enumeration
+title: "ColorSpace Enum"
+linktitle: "ColorSpace"
+articleTitle: "ColorSpace"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.ColorSpace enum. The color spaces enumeration."
 type: docs
-weight: 3200
-url: /net/aspose.pdf/colorspace/
+weight: 380
+url: "/net/aspose.pdf/colorspace/"
+product_version: "26.9"
 ---
 ## ColorSpace enumeration
 
@@ -24,7 +27,6 @@ public enum ColorSpace
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

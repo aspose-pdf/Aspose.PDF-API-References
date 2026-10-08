@@ -1,10 +1,13 @@
 ---
-title: PaperSource.PaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSource constructor. Initializes a new instance of the PaperSource class with default properties
+title: "PaperSource.PaperSource"
+linktitle: "PaperSource"
+articleTitle: "PaperSource"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSource constructor. Initializes a new instance of the PaperSource class with default properties."
 type: docs
 weight: 10
-url: /net/aspose.pdf.printing/papersource/papersource/
+url: "/net/aspose.pdf.printing/papersource/papersource/"
+product_version: "26.9"
 ---
 ## PaperSource() {#constructor}
 
@@ -16,13 +19,13 @@ public PaperSource()
 
 ### See Also
 
-* class [PaperSource](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PaperSource(PaperSourceKind, string) {#constructor_1}
+## PaperSource(PaperSourceKind, string) {#constructor_1}
 
 Initializes a new instance of the [`PaperSource`](../) class with the specified kind and name.
 
@@ -37,9 +40,8 @@ public PaperSource(PaperSourceKind kind, string name)
 
 ### See Also
 
-* enum [PaperSourceKind](../../papersourcekind/)
-* class [PaperSource](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [PaperSourceKind](../../papersourcekind/)
+* class [PaperSource](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

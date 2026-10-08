@@ -1,10 +1,13 @@
 ---
-title: PaperSizes.A4
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. A4 paper 210 mm by 297 mm
+title: "PaperSizes.A4"
+linktitle: "A4"
+articleTitle: "A4"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. A4 paper (210 mm by 297 mm)."
 type: docs
-weight: 70
-url: /net/aspose.pdf.printing/papersizes/a4/
+weight: 90
+url: "/net/aspose.pdf.printing/papersizes/a4/"
+product_version: "26.9"
 ---
 ## PaperSizes.A4 field
 
@@ -16,9 +19,8 @@ public static readonly PaperSize A4;
 
 ### See Also
 
-* class [PaperSize](../../papersize/)
-* class [PaperSizes](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

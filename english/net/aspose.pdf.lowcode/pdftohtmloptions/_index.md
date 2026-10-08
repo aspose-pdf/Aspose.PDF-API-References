@@ -1,10 +1,14 @@
 ---
-title: Class PdfToHtmlOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LowCode.PdfToHtmlOptions class. Represents PDF to HTML converter options for Html plugin
+title: "PdfToHtmlOptions Class"
+linktitle: "PdfToHtmlOptions"
+articleTitle: "PdfToHtmlOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.LowCode.PdfToHtmlOptions class. Represents PDF to HTML converter options for Html plugin."
 type: docs
-weight: 7740
-url: /net/aspose.pdf.lowcode/pdftohtmloptions/
+weight: 690
+url: "/net/aspose.pdf.lowcode/pdftohtmloptions/"
+keywords: "PdfToHtmlOptions, Aspose.Pdf.LowCode, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## PdfToHtmlOptions class
 
@@ -25,10 +29,10 @@ public sealed class PdfToHtmlOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
-| override [OperationName](../../aspose.pdf.lowcode/pdftohtmloptions/operationname/) { get; } | Gets name of the operation. |
-| [OutputDataType](../../aspose.pdf.lowcode/pdftohtmloptions/outputdatatype/) { get; } | Gets output data type. |
-| [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
+| [Inputs](../../aspose.pdf.lowcode/pdfconverteroptions/inputs/) { get; } | Returns PdfConverterOptions plugin data collection. |
+| override [OperationName](../../aspose.pdf.lowcode/pdftohtmloptions/operationname/) { get; } | Gets name of the operation. |
+| [OutputDataType](../../aspose.pdf.lowcode/pdftohtmloptions/outputdatatype/) { get; } | Gets output data type. |
+| [Outputs](../../aspose.pdf.lowcode/pdfconverteroptions/outputs/) { get; } | Gets collection of added targets for saving operation results. |
 
 ## Methods
 
@@ -41,12 +45,11 @@ public sealed class PdfToHtmlOptions : PdfConverterOptions
 
 | Name | Description |
 | --- | --- |
-| enum [SaveDataType](../../aspose.pdf.lowcode/pdftohtmloptions.savedatatype) | Defines output type of HTML file. |
+| enum [SaveDataType](../../aspose.pdf.lowcode/pdftohtmloptions.savedatatype) | Defines output type of HTML file. |
 
 ### See Also
 
-* class [PdfConverterOptions](../pdfconverteroptions/)
-* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../)
-
+* class [PdfConverterOptions](../pdfconverteroptions/)
+* namespace [Aspose.Pdf.LowCode](../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../)
 

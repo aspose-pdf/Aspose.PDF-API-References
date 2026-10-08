@@ -1,10 +1,13 @@
 ---
-title: PdfFileInfo.GetPageXOffset
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo method. Gets the horizontal offset of the specified page display area
+title: "PdfFileInfo.GetPageXOffset"
+linktitle: "GetPageXOffset"
+articleTitle: "GetPageXOffset"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileInfo method. Gets the horizontal offset of the specified page display area."
 type: docs
-weight: 270
-url: /net/aspose.pdf.facades/pdffileinfo/getpagexoffset/
+weight: 160
+url: "/net/aspose.pdf.facades/pdffileinfo/getpagexoffset/"
+product_version: "26.9"
 ---
 ## PdfFileInfo.GetPageXOffset method
 
@@ -24,8 +27,7 @@ The horizontal offset from the left side of the page.
 
 ### See Also
 
-* class [PdfFileInfo](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

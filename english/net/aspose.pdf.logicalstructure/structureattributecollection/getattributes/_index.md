@@ -1,10 +1,13 @@
 ---
-title: StructureAttributeCollection.GetAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttributeCollection method. Return StructureAttributes of structure element by standard attribute owner
+title: "StructureAttributeCollection.GetAttributes"
+linktitle: "GetAttributes"
+articleTitle: "GetAttributes"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "StructureAttributeCollection method. Return StructureAttributes of structure element by standard attribute owner."
 type: docs
-weight: 20
-url: /net/aspose.pdf.logicalstructure/structureattributecollection/getattributes/
+weight: 10
+url: "/net/aspose.pdf.logicalstructure/structureattributecollection/getattributes/"
+product_version: "26.9"
 ---
 ## StructureAttributeCollection.GetAttributes method
 
@@ -24,10 +27,9 @@ public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
 
 ### See Also
 
-* class [StructureAttributes](../../structureattributes/)
-* class [AttributeOwnerStandard](../../attributeownerstandard/)
-* class [StructureAttributeCollection](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [StructureAttributes](../../structureattributes/)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureAttributeCollection](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

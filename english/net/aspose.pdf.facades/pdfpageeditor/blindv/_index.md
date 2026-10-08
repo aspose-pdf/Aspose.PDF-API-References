@@ -1,10 +1,13 @@
 ---
-title: PdfPageEditor.BLINDV
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor field. Vertical Blinds
+title: "PdfPageEditor.BLINDV"
+linktitle: "BLINDV"
+articleTitle: "BLINDV"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageEditor field. Vertical Blinds"
 type: docs
-weight: 200
-url: /net/aspose.pdf.facades/pdfpageeditor/blindv/
+weight: 250
+url: "/net/aspose.pdf.facades/pdfpageeditor/blindv/"
+product_version: "26.9"
 ---
 ## PdfPageEditor.BLINDV field
 
@@ -16,8 +19,7 @@ public const int BLINDV;
 
 ### See Also
 
-* class [PdfPageEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,19 @@
 ---
-title: FormEditor.SetFieldCombNumber
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor method. Sets number of combs for a regular singleline text field the field is automatically divided into as many equally spaced positions or combs as the value of combNumber parameter
+title: "FormEditor.SetFieldCombNumber"
+linktitle: "SetFieldCombNumber"
+articleTitle: "SetFieldCombNumber"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormEditor method. Sets number of combs for a regular single-line text field (the field is automatically divided into as many equally spaced positions, or co..."
 type: docs
-weight: 300
-url: /net/aspose.pdf.facades/formeditor/setfieldcombnumber/
+weight: 90
+url: "/net/aspose.pdf.facades/formeditor/setfieldcombnumber/"
+product_version: "26.9"
 ---
 ## FormEditor.SetFieldCombNumber method
 
-Sets number of combs for a regular single-line text field (the field is automatically divided into as many equally spaced positions, or combs, as the value of combNumber parameter).
+Sets number of combs for a regular single-line text field (the field is 
+ automatically divided into as many equally spaced positions, or combs, 
+ as the value of combNumber parameter).
 
 ```csharp
 public bool SetFieldCombNumber(string fieldName, int combNumber)
@@ -32,8 +37,7 @@ formEditor.SetFieldCombNumber("textCombField", 5);
 
 ### See Also
 
-* class [FormEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

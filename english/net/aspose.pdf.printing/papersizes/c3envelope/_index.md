@@ -1,10 +1,13 @@
 ---
-title: PaperSizes.C3Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. C3 envelope 324 mm by 458 mm
+title: "PaperSizes.C3Envelope"
+linktitle: "C3Envelope"
+articleTitle: "C3Envelope"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PaperSizes field. C3 envelope (324 mm by 458 mm)."
 type: docs
-weight: 320
-url: /net/aspose.pdf.printing/papersizes/c3envelope/
+weight: 290
+url: "/net/aspose.pdf.printing/papersizes/c3envelope/"
+product_version: "26.9"
 ---
 ## PaperSizes.C3Envelope field
 
@@ -16,9 +19,8 @@ public static readonly PaperSize C3Envelope;
 
 ### See Also
 
-* class [PaperSize](../../papersize/)
-* class [PaperSizes](../)
-* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 

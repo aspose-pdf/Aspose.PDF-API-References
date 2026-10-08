@@ -1,10 +1,13 @@
 ---
-title: ColumnInfo.ColumnCount
-second_title: Aspose.PDF for .NET API Reference
-description: ColumnInfo property. Gets or sets a int value that indicates the number of columns
+title: "ColumnInfo.ColumnCount"
+linktitle: "ColumnCount"
+articleTitle: "ColumnCount"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ColumnInfo property. Gets or sets a int value that indicates the number of columns."
 type: docs
-weight: 20
-url: /net/aspose.pdf/columninfo/columncount/
+weight: 40
+url: "/net/aspose.pdf/columninfo/columncount/"
+product_version: "26.9"
 ---
 ## ColumnInfo.ColumnCount property
 
@@ -16,8 +19,7 @@ public int ColumnCount { get; set; }
 
 ### See Also
 
-* class [ColumnInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [ColumnInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

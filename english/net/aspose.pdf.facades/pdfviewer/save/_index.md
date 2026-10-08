@@ -1,12 +1,15 @@
 ---
-title: PdfViewer.Save
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer method. Saves the result PDF document to file
+title: "PdfViewer.Save"
+linktitle: "Save"
+articleTitle: "Save"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfViewer method. Saves the result PDF document to file."
 type: docs
-weight: 360
-url: /net/aspose.pdf.facades/pdfviewer/save/
+weight: 290
+url: "/net/aspose.pdf.facades/pdfviewer/save/"
+product_version: "26.9"
 ---
-## Save(string) {#save_1}
+## Save(string) {#save}
 
 Saves the result PDF document to file.
 
@@ -20,13 +23,13 @@ public void Save(string destFile)
 
 ### See Also
 
-* class [PdfViewer](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Save(Stream) {#save}
+## Save(Stream) {#save_1}
 
 Saves the result PDF document to stream.
 
@@ -40,8 +43,7 @@ public void Save(Stream destStream)
 
 ### See Also
 
-* class [PdfViewer](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

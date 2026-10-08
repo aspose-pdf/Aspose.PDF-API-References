@@ -1,10 +1,13 @@
 ---
-title: InkAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: InkAnnotation method. Updates the points in InkList according to the matrix transform
+title: "InkAnnotation.ChangeAfterResize"
+linktitle: "ChangeAfterResize"
+articleTitle: "ChangeAfterResize"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "InkAnnotation method. Updates the points in InkList, according to the matrix transform."
 type: docs
-weight: 60
-url: /net/aspose.pdf.annotations/inkannotation/changeafterresize/
+weight: 40
+url: "/net/aspose.pdf.annotations/inkannotation/changeafterresize/"
+product_version: "26.9"
 ---
 ## InkAnnotation.ChangeAfterResize method
 
@@ -20,9 +23,8 @@ public override void ChangeAfterResize(Matrix transform)
 
 ### See Also
 
-* class [Matrix](../../../aspose.pdf/matrix/)
-* class [InkAnnotation](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [InkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,14 @@
 ---
-title: Class Resources
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Resources class. Class representing page resources
+title: "Resources Class"
+linktitle: "Resources"
+articleTitle: "Resources"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Resources class. Class representing page resources."
 type: docs
-weight: 10060
-url: /net/aspose.pdf/resources/
+weight: 2620
+url: "/net/aspose.pdf/resources/"
+keywords: "Resources, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## Resources class
 
@@ -18,9 +22,9 @@ public sealed class Resources
 
 | Name | Description |
 | --- | --- |
-| [Fonts](../../aspose.pdf/resources/fonts/) { get; } | Gets [`Fonts`](./fonts/) resources collection |
-| [Forms](../../aspose.pdf/resources/forms/) { get; } | Gets [`Forms`](./forms/) forms collection |
-| [Images](../../aspose.pdf/resources/images/) { get; } | Gets [`Images`](./images/) images collection |
+| [Fonts](../../aspose.pdf/resources/fonts/) { get; } | Gets [`Fonts`](./fonts/) resources collection |
+| [Forms](../../aspose.pdf/resources/forms/) { get; } | Gets [`Forms`](./forms/) forms collection |
+| [Images](../../aspose.pdf/resources/images/) { get; } | Gets [`Images`](./images/) images collection |
 
 ## Methods
 
@@ -34,11 +38,10 @@ public sealed class Resources
 
 | Name | Description |
 | --- | --- |
-| class [ExtGStateValue](../../aspose.pdf/resources.extgstatevalue) | Represents ExtGStates with some values. |
+| class [ExtGStateValue](../../aspose.pdf/resources.extgstatevalue) | Represents ExtGStates with some values. |
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

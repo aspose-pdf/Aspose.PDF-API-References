@@ -1,12 +1,15 @@
 ---
-title: PdfContentEditor.CreateRubberStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates a rubber stamp annotation
+title: "PdfContentEditor.CreateRubberStamp"
+linktitle: "CreateRubberStamp"
+articleTitle: "CreateRubberStamp"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates a rubber stamp annotation."
 type: docs
-weight: 260
-url: /net/aspose.pdf.facades/pdfcontenteditor/createrubberstamp/
+weight: 360
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createrubberstamp/"
+product_version: "26.9"
 ---
-## CreateRubberStamp(int, Rectangle, string, string, Color) {#createrubberstamp_2}
+## CreateRubberStamp(int, Rectangle, string, string, Color) {#createrubberstamp}
 
 Creates a rubber stamp annotation.
 
@@ -35,13 +38,13 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateRubberStamp(int, Rectangle, string, Color, string) {#createrubberstamp_1}
+## CreateRubberStamp(int, Rectangle, string, Color, string) {#createrubberstamp_1}
 
 Creates a rubber stamp annotation.
 
@@ -70,13 +73,13 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## CreateRubberStamp(int, Rectangle, string, Color, Stream) {#createrubberstamp}
+## CreateRubberStamp(int, Rectangle, string, Color, Stream) {#createrubberstamp_2}
 
 Creates a rubber stamp annotation.
 
@@ -103,13 +106,12 @@ using (System.IO.FileStream appStream = File.OpenRead("appearance_file.pdf"))
     editor.CreateRubberStamp(1, System.Drawing.Rectangle(0, 0, 100, 100),
         "Welcome to Aspose", System.Drawing.Color.Red, appStream);
     editor.Save("example_out.pdf");
-}    
+}
 ```
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

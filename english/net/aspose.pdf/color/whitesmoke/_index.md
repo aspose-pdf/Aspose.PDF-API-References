@@ -1,10 +1,13 @@
 ---
-title: Color.WhiteSmoke
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FFF5F5F5
+title: "Color.WhiteSmoke"
+linktitle: "WhiteSmoke"
+articleTitle: "WhiteSmoke"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Color property. Gets a system-defined color that has an ARGB value of \\c \\#FFF5F5F5."
 type: docs
-weight: 1400
-url: /net/aspose.pdf/color/whitesmoke/
+weight: 1560
+url: "/net/aspose.pdf/color/whitesmoke/"
+product_version: "26.9"
 ---
 ## Color.WhiteSmoke property
 
@@ -20,8 +23,7 @@ A representing a system-defined color.
 
 ### See Also
 
-* class [Color](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,27 +1,35 @@
 ---
-title: Aspose.Pdf.LogicalStructure
-second_title: Aspose.PDF for .NET API Reference
-description: The Aspose.Pdf.Tagged.LogicalStructure is a namespace for PDF Logical Structure classes
+title: "Aspose.Pdf.LogicalStructure"
+linktitle: "Aspose.Pdf.LogicalStructure"
+articleTitle: "Aspose.Pdf.LogicalStructure"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "The Aspose.Pdf.Tagged.LogicalStructure is a namespace for PDF Logical Structure classes."
 type: docs
-weight: 110
-url: /net/aspose.pdf.logicalstructure/
+weight: 10
+url: "/net/aspose.pdf.logicalstructure/"
+keywords: "Aspose.Pdf.LogicalStructure, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
+## Overview
+
 The **Aspose.Pdf.Tagged.LogicalStructure** is a namespace for PDF Logical Structure classes.
+
+Part of the [Aspose.PDF for .NET](../) API reference.
 
 ## Classes
 
 | Class | Description |
 | --- | --- |
-| [AnnotationElement](./annotationelement/) | Represents a base class for annotation structure elements in logical structure. |
 | [AnnotElement](./annotelement/) | Represents Annot structure element in logical structure. |
+| [AnnotationElement](./annotationelement/) | Represents a base class for annotation structure elements in logical structure. |
 | [ArtElement](./artelement/) | Represents Art structure element in logical structure. |
 | [AttributeKey](./attributekey/) | Represents Standard Attribute Keys. |
 | [AttributeName](./attributename/) | Represents class for Attribute Name Values. |
 | [AttributeOwnerStandard](./attributeownerstandard/) | Represents Standard Attribute Owners. |
-| [BibEntryElement](./bibentryelement/) | Represents BibEntry structure element in logical structure. |
-| [BlockQuoteElement](./blockquoteelement/) | Represents BlockQuote structure element in logical structure. |
 | [BLSElement](./blselement/) | Represents a base class for block-level structure elements in logical structure. |
 | [BLSTextElement](./blstextelement/) | Represents a base class for block-level text structure elements in logical structure. |
+| [BibEntryElement](./bibentryelement/) | Represents BibEntry structure element in logical structure. |
+| [BlockQuoteElement](./blockquoteelement/) | Represents BlockQuote structure element in logical structure. |
 | [CaptionElement](./captionelement/) | Represents Caption structure element in logical structure. |
 | [CodeElement](./codeelement/) | Represents Code structure element in logical structure. |
 | [DivElement](./divelement/) | Represents Div structure element in logical structure. |
@@ -34,16 +42,16 @@ The **Aspose.Pdf.Tagged.LogicalStructure** is a namespace for PDF Logical Struct
 | [GroupingElement](./groupingelement/) | Represents a base class for grouping structure elements in logical structure. |
 | [HeaderElement](./headerelement/) | Represents Header structure element in logical structure. |
 | [HeaderElementTextConflictException](./headerelementtextconflictexception/) | Represents an exception that is thrown when the header element's text is set manually while it is already bound to a Table of Contents (TOC) title, causing a conflict. |
-| [IllustrationElement](./illustrationelement/) | Represents a base class for illustration structure elements in logical structure. |
 | [ILSElement](./ilselement/) | Represents a base class for inline-level structure elements in logical structure. |
 | [ILSTextElement](./ilstextelement/) | Represents a base class for inline-level text structure elements in logical structure. |
+| [IllustrationElement](./illustrationelement/) | Represents a base class for illustration structure elements in logical structure. |
 | [IndexElement](./indexelement/) | Represents Index structure element in logical structure. |
 | [LinkElement](./linkelement/) | Represents Link structure element in logical structure. |
 | [ListChildElement](./listchildelement/) | Represents a base class for children elements of the List in logical structure. |
 | [ListElement](./listelement/) | Represents List structure element in logical structure. |
-| [ListLblElement](./listlblelement/) | Represents Lbl structure element in logical structure of the list. |
 | [ListLBodyElement](./listlbodyelement/) | Represents LBody structure element in logical structure of the list. |
 | [ListLIElement](./listlielement/) | Represents LI structure element in logical structure of the list. |
+| [ListLblElement](./listlblelement/) | Represents Lbl structure element in logical structure of the list. |
 | [MCRElement](./mcrelement/) | Represents marked-content reference object in logical structure. |
 | [NonStructElement](./nonstructelement/) | Represents NonStruct structure element in logical structure. |
 | [NoteElement](./noteelement/) | Represents Note structure element in logical structure. |
@@ -68,6 +76,9 @@ The **Aspose.Pdf.Tagged.LogicalStructure** is a namespace for PDF Logical Struct
 | [StructureTextState](./structuretextstate/) | Represents text state settings for Text Structure Elements and TaggedContent (ITextElement, ITaggedContent) |
 | [StructureTypeCategory](./structuretypecategory/) | Represents Categories of Standard Structure Types. |
 | [StructureTypeStandard](./structuretypestandard/) | Represents Standard Structure Types. |
+| [TOCElement](./tocelement/) | Represents TOC structure element in logical structure. |
+| [TOCIElement](./tocielement/) | Represents TOCI structure element in logical structure. |
+| [TOCpageHasNoTitleException](./tocpagehasnotitleexception/) | Represents an exception that is thrown when a Table of Contents (TOC) page does not have a title assigned during an operation that requires it. |
 | [TableCellElement](./tablecellelement/) | Represents a base class for table cell elements (TH and TD) in logical structure. |
 | [TableChildElement](./tablechildelement/) | Represents a base class for children elements of the Table in logical structure. |
 | [TableElement](./tableelement/) | Represents Table structure element in logical structure. |
@@ -75,20 +86,17 @@ The **Aspose.Pdf.Tagged.LogicalStructure** is a namespace for PDF Logical Struct
 | [TableTBodyElement](./tabletbodyelement/) | Represents TBody structure element in logical structure of the table. |
 | [TableTDElement](./tabletdelement/) | Represents TD structure element in logical structure of the table. |
 | [TableTFootElement](./tabletfootelement/) | Represents TFoot structure element in logical structure of the table. |
-| [TableTHeadElement](./tabletheadelement/) | Represents THead structure element in logical structure of the table. |
 | [TableTHElement](./tablethelement/) | Represents TH structure element in logical structure of the table. |
+| [TableTHeadElement](./tabletheadelement/) | Represents THead structure element in logical structure of the table. |
 | [TableTRElement](./tabletrelement/) | Represents TR structure element in logical structure of the table. |
-| [TOCElement](./tocelement/) | Represents TOC structure element in logical structure. |
-| [TOCIElement](./tocielement/) | Represents TOCI structure element in logical structure. |
-| [TOCpageHasNoTitleException](./tocpagehasnotitleexception/) | Represents an exception that is thrown when a Table of Contents (TOC) page does not have a title assigned during an operation that requires it. |
 | [WarichuChildElement](./warichuchildelement/) | Represents a base class for children elements of the Warichu in logical structure. |
 | [WarichuElement](./warichuelement/) | Represents Warichu structure element in logical structure. |
 | [WarichuWPElement](./warichuwpelement/) | Represents WP structure element in logical structure of the Warichu. |
 | [WarichuWTElement](./warichuwtelement/) | Represents WT structure element in logical structure of the Warichu. |
+
 ## Interfaces
 
 | Interface | Description |
 | --- | --- |
 | [ITextElement](./itextelement/) | Interface for presenting text structure elements. |
-
 

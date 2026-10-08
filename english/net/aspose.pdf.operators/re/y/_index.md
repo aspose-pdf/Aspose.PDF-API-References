@@ -1,10 +1,13 @@
 ---
-title: Re.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Re property. Y corrdinate of bottom side of rectangle
+title: "Re.Y"
+linktitle: "Y"
+articleTitle: "Y"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Re property. Y corrdinate of bottom side of rectangle."
 type: docs
-weight: 50
-url: /net/aspose.pdf.operators/re/y/
+weight: 60
+url: "/net/aspose.pdf.operators/re/y/"
+product_version: "26.9"
 ---
 ## Re.Y property
 
@@ -16,8 +19,7 @@ public double Y { get; set; }
 
 ### See Also
 
-* class [Re](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

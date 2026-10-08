@@ -1,12 +1,15 @@
 ---
-title: Measure.NumberFormatList.Item
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormatList property. Gets or sets number format in list by its index
+title: "Measure.NumberFormatList.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "NumberFormatList property. Gets or sets number format in list by its index."
 type: docs
-weight: 30
-url: /net/aspose.pdf.annotations/measure.numberformatlist/item/
+weight: 50
+url: "/net/aspose.pdf.annotations/measure.numberformatlist/item/"
+product_version: "26.9"
 ---
-## Measure.NumberFormatList indexer
+## NumberFormatList indexer
 
 Gets or sets number format in list by its index.
 
@@ -24,9 +27,8 @@ Retreived measure item.
 
 ### See Also
 
-* class [NumberFormat](../../measure.numberformat/)
-* class [NumberFormatList](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [NumberFormat](../../measure.numberformat/)
+* class [NumberFormatList](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

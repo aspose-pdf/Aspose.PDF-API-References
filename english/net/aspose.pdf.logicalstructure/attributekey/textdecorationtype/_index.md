@@ -1,10 +1,13 @@
 ---
-title: AttributeKey.TextDecorationType
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey field. TextDecorationType attribute Layout attribute owner
+title: "AttributeKey.TextDecorationType"
+linktitle: "TextDecorationType"
+articleTitle: "TextDecorationType"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "AttributeKey field. TextDecorationType attribute (Layout attribute owner)."
 type: docs
-weight: 370
-url: /net/aspose.pdf.logicalstructure/attributekey/textdecorationtype/
+weight: 300
+url: "/net/aspose.pdf.logicalstructure/attributekey/textdecorationtype/"
+product_version: "26.9"
 ---
 ## AttributeKey.TextDecorationType field
 
@@ -16,8 +19,7 @@ public static readonly AttributeKey TextDecorationType;
 
 ### See Also
 
-* class [AttributeKey](../)
-* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* assembly [Aspose.PDF](../../../)
-
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 

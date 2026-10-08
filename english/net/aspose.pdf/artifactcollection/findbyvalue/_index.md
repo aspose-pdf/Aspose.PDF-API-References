@@ -1,10 +1,13 @@
 ---
-title: ArtifactCollection.FindByValue
-second_title: Aspose.PDF for .NET API Reference
-description: ArtifactCollection method. Finds artifacts by custom value
+title: "ArtifactCollection.FindByValue"
+linktitle: "FindByValue"
+articleTitle: "FindByValue"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ArtifactCollection method. Finds artifacts by custom value."
 type: docs
-weight: 90
-url: /net/aspose.pdf/artifactcollection/findbyvalue/
+weight: 40
+url: "/net/aspose.pdf/artifactcollection/findbyvalue/"
+product_version: "26.9"
 ---
 ## ArtifactCollection.FindByValue method
 
@@ -25,9 +28,8 @@ List of found artifacts.
 
 ### See Also
 
-* class [Artifact](../../artifact/)
-* class [ArtifactCollection](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: BX.BX
-second_title: Aspose.PDF for .NET API Reference
-description: BX constructor. Initializes operator
+title: "BX.BX"
+linktitle: "BX"
+articleTitle: "BX"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BX constructor. Initializes operator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/bx/bx/
+url: "/net/aspose.pdf.operators/bx/bx/"
+product_version: "26.9"
 ---
 ## BX constructor
 
@@ -16,8 +19,7 @@ public BX()
 
 ### See Also
 
-* class [BX](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BX](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

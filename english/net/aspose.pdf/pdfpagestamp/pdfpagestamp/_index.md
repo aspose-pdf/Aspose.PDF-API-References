@@ -1,10 +1,13 @@
 ---
-title: PdfPageStamp.PdfPageStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageStamp constructor. Constructor of PdfPageStamp
+title: "PdfPageStamp.PdfPageStamp"
+linktitle: "PdfPageStamp"
+articleTitle: "PdfPageStamp"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfPageStamp constructor. Constructor of PdfPageStamp."
 type: docs
 weight: 10
-url: /net/aspose.pdf/pdfpagestamp/pdfpagestamp/
+url: "/net/aspose.pdf/pdfpagestamp/pdfpagestamp/"
+product_version: "26.9"
 ---
 ## PdfPageStamp(Page) {#constructor}
 
@@ -20,14 +23,14 @@ public PdfPageStamp(Page pdfPage)
 
 ### See Also
 
-* class [Page](../../page/)
-* class [PdfPageStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PdfPageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfPageStamp(string, int) {#constructor_2}
+## PdfPageStamp(string, int) {#constructor_1}
 
 Creates Pdf page stamp from specifed page of the document in specified file.
 
@@ -42,13 +45,13 @@ public PdfPageStamp(string fileName, int pageIndex)
 
 ### See Also
 
-* class [PdfPageStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfPageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## PdfPageStamp(Stream, int) {#constructor_1}
+## PdfPageStamp(Stream, int) {#constructor_2}
 
 Creates Pdf page stamp from specifed page in the document from the stream.
 
@@ -63,8 +66,7 @@ public PdfPageStamp(Stream stream, int pageIndex)
 
 ### See Also
 
-* class [PdfPageStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfPageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

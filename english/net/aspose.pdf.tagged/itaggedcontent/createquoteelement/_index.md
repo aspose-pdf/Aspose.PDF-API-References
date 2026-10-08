@@ -1,10 +1,13 @@
 ---
-title: ITaggedContent.CreateQuoteElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent method. Creates QuoteElement
+title: "ITaggedContent.CreateQuoteElement"
+linktitle: "CreateQuoteElement"
+articleTitle: "CreateQuoteElement"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "ITaggedContent method. Creates QuoteElement."
 type: docs
-weight: 260
-url: /net/aspose.pdf.tagged/itaggedcontent/createquoteelement/
+weight: 290
+url: "/net/aspose.pdf.tagged/itaggedcontent/createquoteelement/"
+product_version: "26.9"
 ---
 ## ITaggedContent.CreateQuoteElement method
 
@@ -20,9 +23,8 @@ Created structure element.
 
 ### See Also
 
-* class [QuoteElement](../../../aspose.pdf.logicalstructure/quoteelement/)
-* interface [ITaggedContent](../)
-* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* assembly [Aspose.PDF](../../../)
-
+* class [QuoteElement](../../../aspose.pdf.logicalstructure/quoteelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Enum HtmlSaveOptions.LettersPositioningMethods
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsLettersPositioningMethods enum. It enumerates possible modes of positioning of letters in words in result HTML
+title: "HtmlSaveOptions.LettersPositioningMethods Enum"
+linktitle: "HtmlSaveOptions.LettersPositioningMethods"
+articleTitle: "HtmlSaveOptions.LettersPositioningMethods"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.HtmlSaveOptions.LettersPositioningMethods enum. It enumerates possible modes of positioning of letters in words in result HTML"
 type: docs
-weight: 5840
-url: /net/aspose.pdf/htmlsaveoptions.letterspositioningmethods/
+weight: 1320
+url: "/net/aspose.pdf/htmlsaveoptions.letterspositioningmethods/"
+product_version: "26.9"
 ---
 ## HtmlSaveOptions.LettersPositioningMethods enumeration
 
@@ -23,8 +26,7 @@ public enum LettersPositioningMethods
 
 ### See Also
 
-* class [HtmlSaveOptions](../htmlsaveoptions/)
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

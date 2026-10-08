@@ -1,12 +1,15 @@
 ---
-title: Table.ImportDataTable
-second_title: Aspose.PDF for .NET API Reference
-description: Table method. Imports data from System.Data.DataTable into Aspose.Pdf.Table
+title: "Table.ImportDataTable"
+linktitle: "ImportDataTable"
+articleTitle: "ImportDataTable"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Table method. Imports data from System.Data.DataTable into Aspose.Pdf.Table"
 type: docs
-weight: 260
-url: /net/aspose.pdf/table/importdatatable/
+weight: 60
+url: "/net/aspose.pdf/table/importdatatable/"
+product_version: "26.9"
 ---
-## ImportDataTable(DataTable, bool, int, int) {#importdatatable_1}
+## ImportDataTable(DataTable, bool, int, int) {#importdatatable}
 
 Imports data from System.Data.DataTable into Aspose.Pdf.Table
 
@@ -24,15 +27,15 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesImpor
 
 ### See Also
 
-* class [Table](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ImportDataTable(DataTable, bool, int, byte, int, int, bool) {#importdatatable}
+## ImportDataTable(DataTable, bool, int, byte, int, int, bool) {#importdatatable_1}
 
-Imports a DataTable object into the table.
+Imports a `DataTable` object into the table.
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown, 
@@ -52,15 +55,15 @@ public void ImportDataTable(DataTable importedDataTable, bool isColumnNamesShown
 
 ### See Also
 
-* class [Table](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## ImportDataTable(DataTable, int[], int[], int, int, bool, bool) {#importdatatable_2}
+## ImportDataTable(DataTable, int[], int[], int, int, bool, bool) {#importdatatable_2}
 
-Imports a DataTable object, but not as whole entity. Only specified rows and columns are imported.
+Imports a `DataTable` object, but not as whole entity. Only specified rows and columns are imported.
 
 ```csharp
 public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList, 
@@ -80,8 +83,7 @@ public void ImportDataTable(DataTable importedDataTable, int[] sourceRowList,
 
 ### See Also
 
-* class [Table](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

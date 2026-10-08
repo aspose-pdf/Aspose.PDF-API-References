@@ -1,14 +1,18 @@
 ---
-title: SignOptions.Name
-second_title: Aspose.PDF for .NET API Reference
-description: SignOptions property. The name of existing signature field. Null to create a new field
+title: "SignOptions.Name"
+linktitle: "Name"
+articleTitle: "Name"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SignOptions property. The name of existing signature field. Null to create a new field."
 type: docs
-weight: 40
-url: /net/aspose.pdf.lowcode/signoptions/name/
+weight: 90
+url: "/net/aspose.pdf.lowcode/signoptions/name/"
+product_version: "26.9"
 ---
 ## SignOptions.Name property
 
-The name of existing signature field. Null to create a new field.
+The name of existing signature field.
+ Null to create a new field.
 
 ```csharp
 public string Name { get; set; }
@@ -16,8 +20,7 @@ public string Name { get; set; }
 
 ### See Also
 
-* class [SignOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

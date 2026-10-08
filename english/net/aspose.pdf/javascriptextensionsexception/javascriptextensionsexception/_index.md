@@ -1,12 +1,15 @@
 ---
-title: JavascriptExtensionsException.JavascriptExtensionsException
-second_title: Aspose.PDF for .NET API Reference
-description: JavascriptExtensionsException constructor. Initializes a new instance of the JavascriptExtensionsException class
+title: "JavascriptExtensionsException.JavascriptExtensionsException"
+linktitle: "JavascriptExtensionsException"
+articleTitle: "JavascriptExtensionsException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "JavascriptExtensionsException constructor. Initializes a new instance of the JavascriptExtensionsException class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/javascriptextensionsexception/javascriptextensionsexception/
+url: "/net/aspose.pdf/javascriptextensionsexception/javascriptextensionsexception/"
+product_version: "26.9"
 ---
-## JavascriptExtensionsException(string) {#constructor_1}
+## JavascriptExtensionsException(string) {#constructor}
 
 Initializes a new instance of the [`JavascriptExtensionsException`](../) class.
 
@@ -20,13 +23,13 @@ public JavascriptExtensionsException(string message)
 
 ### See Also
 
-* class [JavascriptExtensionsException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [JavascriptExtensionsException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## JavascriptExtensionsException(string, Exception) {#constructor_2}
+## JavascriptExtensionsException(string, Exception) {#constructor_1}
 
 Initializes a new instance of the [`JavascriptExtensionsException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
@@ -41,13 +44,13 @@ public JavascriptExtensionsException(string message, Exception innerException)
 
 ### See Also
 
-* class [JavascriptExtensionsException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [JavascriptExtensionsException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## JavascriptExtensionsException(Exception) {#constructor}
+## JavascriptExtensionsException(Exception) {#constructor_2}
 
 Initializes a new instance of the [`JavascriptExtensionsException`](../) class with a reference to the inner exception that is the cause of this exception.
 
@@ -61,8 +64,7 @@ public JavascriptExtensionsException(Exception innerException)
 
 ### See Also
 
-* class [JavascriptExtensionsException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [JavascriptExtensionsException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

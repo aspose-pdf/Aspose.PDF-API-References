@@ -1,10 +1,14 @@
 ---
-title: Class PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageInfo class. Represents the page information
+title: "PageInfo Class"
+linktitle: "PageInfo"
+articleTitle: "PageInfo"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.PageInfo class. Represents the page information."
 type: docs
-weight: 9420
-url: /net/aspose.pdf/pageinfo/
+weight: 2180
+url: "/net/aspose.pdf/pageinfo/"
+keywords: "PageInfo, Aspose.Pdf, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## PageInfo class
 
@@ -24,13 +28,13 @@ public sealed class PageInfo : ICloneable
 
 | Name | Description |
 | --- | --- |
-| [AnyMargin](../../aspose.pdf/pageinfo/anymargin/) { get; set; } | Gets or sets page margin for any page except first. |
-| [DefaultTextState](../../aspose.pdf/pageinfo/defaulttextstate/) { get; set; } | Gets or sets default font. |
-| [Height](../../aspose.pdf/pageinfo/height/) { get; set; } | Gets or sets page height. |
-| [IsLandscape](../../aspose.pdf/pageinfo/islandscape/) { get; set; } | Gets or sets is page landscaped. |
-| [Margin](../../aspose.pdf/pageinfo/margin/) { get; set; } | Gets or sets page margin. |
-| [PureHeight](../../aspose.pdf/pageinfo/pureheight/) { get; } | Gets or sets page pure height without margins. |
-| [Width](../../aspose.pdf/pageinfo/width/) { get; set; } | Gets or sets page width. |
+| [AnyMargin](../../aspose.pdf/pageinfo/anymargin/) { get; set; } | Gets or sets page margin for any page except first. |
+| [DefaultTextState](../../aspose.pdf/pageinfo/defaulttextstate/) { get; set; } | Gets or sets default font. |
+| [Height](../../aspose.pdf/pageinfo/height/) { get; set; } | Gets or sets page height. |
+| [IsLandscape](../../aspose.pdf/pageinfo/islandscape/) { get; set; } | Gets or sets is page landscaped. |
+| [Margin](../../aspose.pdf/pageinfo/margin/) { get; set; } | Gets or sets page margin. |
+| [PureHeight](../../aspose.pdf/pageinfo/pureheight/) { get; } | Gets or sets page pure height without margins. |
+| [Width](../../aspose.pdf/pageinfo/width/) { get; set; } | Gets or sets page width. |
 
 ## Methods
 
@@ -40,7 +44,6 @@ public sealed class PageInfo : ICloneable
 
 ### See Also
 
-* namespace [Aspose.Pdf](../../aspose.pdf/)
-* assembly [Aspose.PDF](../../)
-
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
 

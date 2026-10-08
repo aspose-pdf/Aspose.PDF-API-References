@@ -1,10 +1,13 @@
 ---
-title: TextStamp.Value
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp property. Gets or sets string value which is used as stamp on the page
+title: "TextStamp.Value"
+linktitle: "Value"
+articleTitle: "Value"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "TextStamp property. Gets or sets string value which is used as stamp on the page."
 type: docs
-weight: 150
-url: /net/aspose.pdf/textstamp/value/
+weight: 100
+url: "/net/aspose.pdf/textstamp/value/"
+product_version: "26.9"
 ---
 ## TextStamp.Value property
 
@@ -16,8 +19,7 @@ public string Value { get; set; }
 
 ### See Also
 
-* class [TextStamp](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

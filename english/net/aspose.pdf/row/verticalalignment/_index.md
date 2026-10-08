@@ -1,10 +1,13 @@
 ---
-title: Row.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Row property. Gets or sets the vertical alignment
+title: "Row.VerticalAlignment"
+linktitle: "VerticalAlignment"
+articleTitle: "VerticalAlignment"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Row property. Gets or sets the vertical alignment."
 type: docs
-weight: 120
-url: /net/aspose.pdf/row/verticalalignment/
+weight: 130
+url: "/net/aspose.pdf/row/verticalalignment/"
+product_version: "26.9"
 ---
 ## Row.VerticalAlignment property
 
@@ -16,9 +19,8 @@ public VerticalAlignment VerticalAlignment { get; set; }
 
 ### See Also
 
-* enum [VerticalAlignment](../../verticalalignment/)
-* class [Row](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [VerticalAlignment](../../verticalalignment/)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

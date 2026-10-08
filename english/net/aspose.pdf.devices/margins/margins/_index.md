@@ -1,12 +1,15 @@
 ---
-title: Margins.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: Margins constructor. Initializes a new instance of the Margins class
+title: "Margins.Margins"
+linktitle: "Margins"
+articleTitle: "Margins"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Margins constructor. Initializes a new instance of the Margins class."
 type: docs
 weight: 10
-url: /net/aspose.pdf.devices/margins/margins/
+url: "/net/aspose.pdf.devices/margins/margins/"
+product_version: "26.9"
 ---
-## Margins(int, int, int, int) {#constructor_1}
+## Margins(int, int, int, int) {#constructor}
 
 Initializes a new instance of the [`Margins`](../) class.
 
@@ -23,13 +26,13 @@ public Margins(int left, int right, int top, int bottom)
 
 ### See Also
 
-* class [Margins](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Margins() {#constructor}
+## Margins() {#constructor_1}
 
 Initializes a new instance of the [`Margins`](../) class.
 
@@ -39,8 +42,7 @@ public Margins()
 
 ### See Also
 
-* class [Margins](../)
-* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 

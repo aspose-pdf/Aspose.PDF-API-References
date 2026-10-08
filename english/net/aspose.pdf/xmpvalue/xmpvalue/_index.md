@@ -1,12 +1,15 @@
 ---
-title: XmpValue.XmpValue
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue constructor. Constructor for string value
+title: "XmpValue.XmpValue"
+linktitle: "XmpValue"
+articleTitle: "XmpValue"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XmpValue constructor. Constructor for string value."
 type: docs
 weight: 10
-url: /net/aspose.pdf/xmpvalue/xmpvalue/
+url: "/net/aspose.pdf/xmpvalue/xmpvalue/"
+product_version: "26.9"
 ---
-## XmpValue(string) {#constructor_4}
+## XmpValue(string) {#constructor}
 
 Constructor for string value.
 
@@ -20,13 +23,13 @@ public XmpValue(string value)
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## XmpValue(int) {#constructor_2}
+## XmpValue(int) {#constructor_1}
 
 Consructor for integer value.
 
@@ -40,13 +43,13 @@ public XmpValue(int value)
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## XmpValue(double) {#constructor_1}
+## XmpValue(double) {#constructor_2}
 
 Constructor for floating point Value.
 
@@ -60,9 +63,9 @@ public XmpValue(double value)
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -80,13 +83,13 @@ public XmpValue(DateTime value)
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## XmpValue(XmpValue[]) {#constructor}
+## XmpValue(XmpValue[]) {#constructor_4}
 
 Constructor for array value.
 
@@ -100,8 +103,7 @@ public XmpValue(XmpValue[] array)
 
 ### See Also
 
-* class [XmpValue](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

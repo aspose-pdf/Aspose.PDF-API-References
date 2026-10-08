@@ -1,10 +1,13 @@
 ---
-title: IconFit.NameToScalingReason
-second_title: Aspose.PDF for .NET API Reference
-description: IconFit method. Converts name of scaling reason into ScalingReason object
+title: "IconFit.NameToScalingReason"
+linktitle: "NameToScalingReason"
+articleTitle: "NameToScalingReason"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "IconFit method. Converts name of scaling reason into ScalingReason object."
 type: docs
-weight: 70
-url: /net/aspose.pdf.forms/iconfit/nametoscalingreason/
+weight: 10
+url: "/net/aspose.pdf.forms/iconfit/nametoscalingreason/"
+product_version: "26.9"
 ---
 ## IconFit.NameToScalingReason method
 
@@ -24,9 +27,8 @@ Scaling reason object.
 
 ### See Also
 
-* enum [ScalingReason](../../scalingreason/)
-* class [IconFit](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [ScalingReason](../../scalingreason/)
+* class [IconFit](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 

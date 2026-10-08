@@ -1,10 +1,14 @@
 ---
-title: Class FileFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FileFontSource class. Represents single font file source
+title: "FileFontSource Class"
+linktitle: "FileFontSource"
+articleTitle: "FileFontSource"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.Text.FileFontSource class. Represents single font file source."
 type: docs
-weight: 10890
-url: /net/aspose.pdf.text/filefontsource/
+weight: 100
+url: "/net/aspose.pdf.text/filefontsource/"
+keywords: "FileFontSource, Aspose.Pdf.Text, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## FileFontSource class
 
@@ -24,18 +28,17 @@ public sealed class FileFontSource : FontSource
 
 | Name | Description |
 | --- | --- |
-| [FilePath](../../aspose.pdf.text/filefontsource/filepath/) { get; set; } | Path to the font file. |
+| [FilePath](../../aspose.pdf.text/filefontsource/filepath/) { get; set; } | Path to the font file. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/filefontsource/equals/)(object) | Check if font file source objects are equal. |
+| override [Equals](../../aspose.pdf.text/filefontsource/equals/)(object) | Check if font file source objects are equal. |
 
 ### See Also
 
-* class [FontSource](../fontsource/)
-* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* assembly [Aspose.PDF](../../)
-
+* class [FontSource](../fontsource/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
 

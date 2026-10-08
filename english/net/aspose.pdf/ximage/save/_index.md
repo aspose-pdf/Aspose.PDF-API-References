@@ -1,10 +1,13 @@
 ---
-title: XImage.Save
-second_title: Aspose.PDF for .NET API Reference
-description: XImage method. Saves image data into stream as JPEG image
+title: "XImage.Save"
+linktitle: "Save"
+articleTitle: "Save"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "XImage method. Saves image data into stream as JPEG image."
 type: docs
-weight: 160
-url: /net/aspose.pdf/ximage/save/
+weight: 20
+url: "/net/aspose.pdf/ximage/save/"
+product_version: "26.9"
 ---
 ## Save(Stream) {#save}
 
@@ -20,13 +23,13 @@ public void Save(Stream stream)
 
 ### See Also
 
-* class [XImage](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Save(Stream, ImageFormat) {#save_2}
+## Save(Stream, ImageFormat) {#save_1}
 
 Saves image into stream with requested format.
 
@@ -41,13 +44,13 @@ public void Save(Stream stream, ImageFormat format)
 
 ### See Also
 
-* class [XImage](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Save(Stream, int) {#save_1}
+## Save(Stream, int) {#save_2}
 
 Saves image data into stream as JPEG image with specified resolution.
 
@@ -62,13 +65,13 @@ public void Save(Stream stream, int resolution)
 
 ### See Also
 
-* class [XImage](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## Save(Stream, ImageFormat, int) {#save_3}
+## Save(Stream, ImageFormat, int) {#save_3}
 
 Saves image into stream with requested format with specified resolution.
 
@@ -84,8 +87,7 @@ public void Save(Stream stream, ImageFormat format, int resolution)
 
 ### See Also
 
-* class [XImage](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

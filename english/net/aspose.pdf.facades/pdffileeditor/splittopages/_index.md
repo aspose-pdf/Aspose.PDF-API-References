@@ -1,12 +1,15 @@
 ---
-title: PdfFileEditor.SplitToPages
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor method. Splits the PDF file into singlepage documents
+title: "PdfFileEditor.SplitToPages"
+linktitle: "SplitToPages"
+articleTitle: "SplitToPages"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileEditor method. Splits the PDF file into single-page documents."
 type: docs
-weight: 370
-url: /net/aspose.pdf.facades/pdffileeditor/splittopages/
+weight: 810
+url: "/net/aspose.pdf.facades/pdffileeditor/splittopages/"
+product_version: "26.9"
 ---
-## SplitToPages(string) {#splittopages_1}
+## SplitToPages(string) {#splittopages}
 
 Splits the PDF file into single-page documents.
 
@@ -24,13 +27,13 @@ Output PDF streams, each stream buffers a single-page PDF document.
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SplitToPages(Stream) {#splittopages}
+## SplitToPages(Stream) {#splittopages_1}
 
 Splits the Pdf file into single-page documents.
 
@@ -48,13 +51,13 @@ Array of memory streams which contain pages of the document.
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SplitToPages(string, string) {#splittopages_3}
+## SplitToPages(string, string) {#splittopages_2}
 
 Split the Pdf file into single-page documents and saves it into specified path. Path is specifield by field name temaplate.
 
@@ -69,13 +72,13 @@ public void SplitToPages(string inputFile, string fileNameTemplate)
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SplitToPages(Stream, string) {#splittopages_2}
+## SplitToPages(Stream, string) {#splittopages_3}
 
 Split the Pdf file into single-page documents and saves it into specified path. Path is specifield by field name temaplate.
 
@@ -90,8 +93,7 @@ public void SplitToPages(Stream inputStream, string fileNameTemplate)
 
 ### See Also
 
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

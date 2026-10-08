@@ -1,12 +1,15 @@
 ---
-title: Facade.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Facade method. Initializes the facade
+title: "Facade.BindPdf"
+linktitle: "BindPdf"
+articleTitle: "BindPdf"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Facade method. Initializes the facade."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/facade/bindpdf/
+weight: 10
+url: "/net/aspose.pdf.facades/facade/bindpdf/"
+product_version: "26.9"
 ---
-## BindPdf(string) {#bindpdf_2}
+## BindPdf(string) {#bindpdf}
 
 Initializes the facade.
 
@@ -20,9 +23,9 @@ public virtual void BindPdf(string srcFile)
 
 ### See Also
 
-* class [Facade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,13 +43,13 @@ public virtual void BindPdf(Stream srcStream)
 
 ### See Also
 
-* class [Facade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BindPdf(Document) {#bindpdf}
+## BindPdf(Document) {#bindpdf_2}
 
 Initializes the facade.
 
@@ -60,9 +63,8 @@ public virtual void BindPdf(Document srcDoc)
 
 ### See Also
 
-* class [Document](../../../aspose.pdf/document/)
-* class [Facade](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Document](../../../aspose.pdf/document/)
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: SetColorStroke.SetColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorStroke constructor. Initializes operator
+title: "SetColorStroke.SetColorStroke"
+linktitle: "SetColorStroke"
+articleTitle: "SetColorStroke"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "SetColorStroke constructor. Initializes operator."
 type: docs
 weight: 10
-url: /net/aspose.pdf.operators/setcolorstroke/setcolorstroke/
+url: "/net/aspose.pdf.operators/setcolorstroke/setcolorstroke/"
+product_version: "26.9"
 ---
 ## SetColorStroke() {#constructor}
 
@@ -16,9 +19,9 @@ public SetColorStroke()
 
 ### See Also
 
-* class [SetColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,13 +39,13 @@ public SetColorStroke(double g)
 
 ### See Also
 
-* class [SetColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SetColorStroke(double, double, double) {#constructor_2}
+## SetColorStroke(double, double, double) {#constructor_2}
 
 Set color for stroking operator for DeviceRGB, CalRGB, and Lab color spaces
 
@@ -58,13 +61,13 @@ public SetColorStroke(double r, double g, double b)
 
 ### See Also
 
-* class [SetColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SetColorStroke(double[]) {#constructor_4}
+## SetColorStroke(double[]) {#constructor_3}
 
 Constructor which allows to set color components.
 
@@ -78,13 +81,13 @@ public SetColorStroke(double[] color)
 
 ### See Also
 
-* class [SetColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## SetColorStroke(double, double, double, double) {#constructor_3}
+## SetColorStroke(double, double, double, double) {#constructor_4}
 
 Set color for stroking operator for CMYK color space
 
@@ -101,8 +104,7 @@ public SetColorStroke(double c, double m, double y, double k)
 
 ### See Also
 
-* class [SetColorStroke](../)
-* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* assembly [Aspose.PDF](../../../)
-
+* class [SetColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
 

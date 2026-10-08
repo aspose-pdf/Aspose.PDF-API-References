@@ -1,10 +1,13 @@
 ---
-title: BoundsOutOfRangeException.BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsOutOfRangeException constructor. Initializes a new instance of the BoundsOutOfRangeException class
+title: "BoundsOutOfRangeException.BoundsOutOfRangeException"
+linktitle: "BoundsOutOfRangeException"
+articleTitle: "BoundsOutOfRangeException"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "BoundsOutOfRangeException constructor. Initializes a new instance of the BoundsOutOfRangeException class."
 type: docs
 weight: 10
-url: /net/aspose.pdf/boundsoutofrangeexception/boundsoutofrangeexception/
+url: "/net/aspose.pdf/boundsoutofrangeexception/boundsoutofrangeexception/"
+product_version: "26.9"
 ---
 ## BoundsOutOfRangeException() {#constructor}
 
@@ -16,9 +19,9 @@ public BoundsOutOfRangeException()
 
 ### See Also
 
-* class [BoundsOutOfRangeException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [BoundsOutOfRangeException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,13 +39,13 @@ public BoundsOutOfRangeException(string message)
 
 ### See Also
 
-* class [BoundsOutOfRangeException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
+* class [BoundsOutOfRangeException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
-## BoundsOutOfRangeException(string, double, double) {#constructor_2}
+## BoundsOutOfRangeException(string, double, double) {#constructor_2}
 
 Initializes a new instance of the [`BoundsOutOfRangeException`](../) class with a specified error message and item dimensions.
 
@@ -58,8 +61,7 @@ public BoundsOutOfRangeException(string message, double containerWidth, double c
 
 ### See Also
 
-* class [BoundsOutOfRangeException](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [BoundsOutOfRangeException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

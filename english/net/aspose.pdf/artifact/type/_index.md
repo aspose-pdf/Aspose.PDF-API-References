@@ -1,10 +1,13 @@
 ---
-title: Artifact.Type
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact property. Gets artifact type
+title: "Artifact.Type"
+linktitle: "Type"
+articleTitle: "Type"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Artifact property. Gets artifact type."
 type: docs
-weight: 220
-url: /net/aspose.pdf/artifact/type/
+weight: 180
+url: "/net/aspose.pdf/artifact/type/"
+product_version: "26.9"
 ---
 ## Artifact.Type property
 
@@ -16,9 +19,8 @@ public ArtifactType Type { get; set; }
 
 ### See Also
 
-* enum [ArtifactType](../../artifact.artifacttype/)
-* class [Artifact](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* enum [ArtifactType](../../artifact.artifacttype/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,14 +1,18 @@
 ---
-title: Class OpenAIOcrCopilotOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.OpenAIOcrCopilotOptions class. Represents the options for configuring the OpenAIOcrCopilot
+title: "OpenAIOcrCopilotOptions Class"
+linktitle: "OpenAIOcrCopilotOptions"
+articleTitle: "OpenAIOcrCopilotOptions"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Aspose.Pdf.AI.OpenAIOcrCopilotOptions class. Represents the options for configuring the OpenAIOcrCopilot."
 type: docs
 weight: 990
-url: /net/aspose.pdf.ai/openaiocrcopilotoptions/
+url: "/net/aspose.pdf.ai/openaiocrcopilotoptions/"
+keywords: "OpenAIOcrCopilotOptions, Aspose.Pdf.AI, Aspose.PDF for .NET, Aspose.PDF API Reference"
+product_version: "26.9"
 ---
 ## OpenAIOcrCopilotOptions class
 
-Represents the options for configuring the OpenAIOcrCopilot.
+Represents the options for configuring the [OpenAIOcrCopilot](../openaiocrcopilot/).
 
 ```csharp
 public class OpenAIOcrCopilotOptions : OpenAIAssistantCopilotOptionsBase, 
@@ -19,22 +23,22 @@ public class OpenAIOcrCopilotOptions : OpenAIAssistantCopilotOptionsBase,
 
 | Name | Description |
 | --- | --- |
-| [Detail](../../aspose.pdf.ai/openaiocrcopilotoptions/detail/) { get; set; } | Gets or sets the level of detail for image analysis. |
-| [DocumentCollection](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/documentcollection/) { get; set; } | Gets or sets the collection of documents to be processed. |
-| [MaxCompletionTokens](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxcompletiontokens/) { get; set; } | Gets or sets the maximum number of completion tokens that may be used over the course of the run. |
-| [Model](../../aspose.pdf.ai/openaicopilotoptionsbase/model/) { get; set; } | Gets or sets the model to use for the assistant. |
-| [Resolution](../../aspose.pdf.ai/openaiocrcopilotoptions/resolution/) { get; set; } | Gets or sets the resolution used to convert PDF pages into images. The default value is 300 dpi. |
-| [SystemInstructions](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/systeminstructions/) { get; set; } | Gets or sets the file path for the text file containing assistant system instructions. |
-| [Temperature](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/temperature/) { get; set; } | Gets or sets the sampling temperature to use for the model. |
-| [TopP](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/topp/) { get; set; } | Gets or sets the top-p value for nucleus sampling. |
-| [UserInstructions](../../aspose.pdf.ai/openaiocrcopilotoptions/userinstructions/) { get; set; } | Gets or sets the user prompt. |
+| [Detail](../../aspose.pdf.ai/openaiocrcopilotoptions/detail/) { get; set; } | Gets or sets the level of detail for image analysis. |
+| [DocumentCollection](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/documentcollection/) { get; set; } | Gets or sets the collection of documents to be processed. |
+| [MaxCompletionTokens](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxcompletiontokens/) { get; set; } | Gets or sets the maximum number of completion tokens that may be used over the course of the run. |
+| [Model](../../aspose.pdf.ai/openaicopilotoptionsbase/model/) { get; set; } | Gets or sets the model to use for the assistant. |
+| [Resolution](../../aspose.pdf.ai/openaiocrcopilotoptions/resolution/) { get; set; } | Gets or sets the resolution used to convert PDF pages into images. The default value is 300 dpi. |
+| [SystemInstructions](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/systeminstructions/) { get; set; } | Gets or sets the file path for the text file containing assistant system instructions. |
+| [Temperature](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/temperature/) { get; set; } | Gets or sets the sampling temperature to use for the model. |
+| [TopP](../../aspose.pdf.ai/openaiassistantcopilotoptionsbase/topp/) { get; set; } | Gets or sets the top-p value for nucleus sampling. |
+| [UserInstructions](../../aspose.pdf.ai/openaiocrcopilotoptions/userinstructions/) { get; set; } | Gets or sets the user prompt. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Create](../../aspose.pdf.ai/openaiocrcopilotoptions/create/#create)() | Creates a new instance of `OpenAIOcrCopilotOptions`. |
-| static [Create](../../aspose.pdf.ai/openaiocrcopilotoptions/create/#create_1)(Action&lt;OpenAIOcrCopilotOptions&gt;) | Creates an instance of `OpenAIOcrCopilotOptions` and configures it using the provided delegate. |
+| static [Create](../../aspose.pdf.ai/openaiocrcopilotoptions/create/#create)() | Creates a new instance of `OpenAIOcrCopilotOptions`. |
+| static [Create](../../aspose.pdf.ai/openaiocrcopilotoptions/create/#create_1)(Action&lt;OpenAIOcrCopilotOptions&gt;) | Creates an instance of `OpenAIOcrCopilotOptions` and configures it using the provided delegate. |
 | [GetOptions](../../aspose.pdf.ai/openaiocrcopilotoptions/getoptions/)() | Gets the current `OpenAIOcrCopilotOptions`. |
 | [WithDetail](../../aspose.pdf.ai/openaiocrcopilotoptions/withdetail/)(Detail) | Sets the level of detail for image analysis. |
 | [WithDocument](../../aspose.pdf.ai/openaiocrcopilotoptions/withdocument/#withdocument)(PdfDocument) | Adds a PDF document to the document collection. |
@@ -52,9 +56,8 @@ public class OpenAIOcrCopilotOptions : OpenAIAssistantCopilotOptionsBase,
 
 ### See Also
 
-* class [OpenAIAssistantCopilotOptionsBase](../openaiassistantcopilotoptionsbase/)
-* interface [IOcrCopilotOptions&lt;TOptions&gt;](../iocrcopilotoptions-1/)
-* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../)
-
+* class [OpenAIAssistantCopilotOptionsBase](../openaiassistantcopilotoptionsbase/)
+* interface [IOcrCopilotOptions&lt;TOptions&gt;](../iocrcopilotoptions-1/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
 

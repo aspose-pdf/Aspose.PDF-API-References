@@ -1,10 +1,13 @@
 ---
-title: HideAction.IsHidden
-second_title: Aspose.PDF for .NET API Reference
-description: HideAction property. Gets or sets status of the annotations to hide/display
+title: "HideAction.IsHidden"
+linktitle: "IsHidden"
+articleTitle: "IsHidden"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "HideAction property. Gets or sets status of the annotation(s) to hide/display."
 type: docs
-weight: 20
-url: /net/aspose.pdf.annotations/hideaction/ishidden/
+weight: 90
+url: "/net/aspose.pdf.annotations/hideaction/ishidden/"
+product_version: "26.9"
 ---
 ## HideAction.IsHidden property
 
@@ -16,8 +19,7 @@ public bool IsHidden { get; set; }
 
 ### See Also
 
-* class [HideAction](../)
-* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* assembly [Aspose.PDF](../../../)
-
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 

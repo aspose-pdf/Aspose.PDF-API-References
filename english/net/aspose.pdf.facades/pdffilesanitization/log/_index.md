@@ -1,10 +1,13 @@
 ---
-title: PdfFileSanitization.Log
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSanitization property. After file has Saved you can check what was done with file
+title: "PdfFileSanitization.Log"
+linktitle: "Log"
+articleTitle: "Log"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfFileSanitization property. After file has Saved you can check what was done with file."
 type: docs
-weight: 20
-url: /net/aspose.pdf.facades/pdffilesanitization/log/
+weight: 120
+url: "/net/aspose.pdf.facades/pdffilesanitization/log/"
+product_version: "26.9"
 ---
 ## PdfFileSanitization.Log property
 
@@ -16,8 +19,7 @@ public List<string> Log { get; }
 
 ### See Also
 
-* class [PdfFileSanitization](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

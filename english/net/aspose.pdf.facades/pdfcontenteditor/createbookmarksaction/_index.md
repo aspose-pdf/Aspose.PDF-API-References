@@ -1,10 +1,13 @@
 ---
-title: PdfContentEditor.CreateBookmarksAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor method. Creates a bookmark with the specified action
+title: "PdfContentEditor.CreateBookmarksAction"
+linktitle: "CreateBookmarksAction"
+articleTitle: "CreateBookmarksAction"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PdfContentEditor method. Creates a bookmark with the specified action."
 type: docs
-weight: 120
-url: /net/aspose.pdf.facades/pdfcontenteditor/createbookmarksaction/
+weight: 390
+url: "/net/aspose.pdf.facades/pdfcontenteditor/createbookmarksaction/"
+product_version: "26.9"
 ---
 ## PdfContentEditor.CreateBookmarksAction method
 
@@ -37,8 +40,7 @@ editor.Save("example_out.pdf");
 
 ### See Also
 
-* class [PdfContentEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 

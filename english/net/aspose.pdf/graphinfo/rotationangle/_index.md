@@ -1,14 +1,18 @@
 ---
-title: GraphInfo.RotationAngle
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo property. Gets or sets a float value that indicates the rotation angle of the coordinate system when transforming a coordinate system
+title: "GraphInfo.RotationAngle"
+linktitle: "RotationAngle"
+articleTitle: "RotationAngle"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "GraphInfo property. Gets or sets a float value that indicates the rotation angle of the coordinate system when transforming a coordinate system."
 type: docs
-weight: 80
-url: /net/aspose.pdf/graphinfo/rotationangle/
+weight: 150
+url: "/net/aspose.pdf/graphinfo/rotationangle/"
+product_version: "26.9"
 ---
 ## GraphInfo.RotationAngle property
 
-Gets or sets a float value that indicates the rotation angle of the coordinate system when transforming a coordinate system.
+Gets or sets a float value that indicates the rotation angle of the coordinate system 
+ when transforming a coordinate system.
 
 ```csharp
 public double RotationAngle { get; set; }
@@ -16,8 +20,7 @@ public double RotationAngle { get; set; }
 
 ### See Also
 
-* class [GraphInfo](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

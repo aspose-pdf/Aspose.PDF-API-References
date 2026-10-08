@@ -1,10 +1,13 @@
 ---
-title: FormOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: FormOptions method. Adds new data source to the Form... plugins data collection
+title: "FormOptions.AddOutput"
+linktitle: "AddOutput"
+articleTitle: "AddOutput"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "FormOptions method. Adds new data source to the Form... plugins data collection."
 type: docs
-weight: 40
-url: /net/aspose.pdf.lowcode/formoptions/addoutput/
+weight: 20
+url: "/net/aspose.pdf.lowcode/formoptions/addoutput/"
+product_version: "26.9"
 ---
 ## FormOptions.AddOutput method
 
@@ -26,9 +29,8 @@ public void AddOutput(IDataSource saveDataSource)
 
 ### See Also
 
-* interface [IDataSource](../../idatasource/)
-* class [FormOptions](../)
-* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
-* assembly [Aspose.PDF](../../../)
-
+* interface [IDataSource](../../idatasource/)
+* class [FormOptions](../)
+* namespace [Aspose.Pdf.LowCode](../../../aspose.pdf.lowcode/)
+* assembly [Aspose.PDF](../../../)
 

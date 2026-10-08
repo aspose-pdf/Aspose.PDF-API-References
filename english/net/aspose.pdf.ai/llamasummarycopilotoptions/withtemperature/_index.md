@@ -1,10 +1,13 @@
 ---
-title: LlamaSummaryCopilotOptions.WithTemperature
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions method. Sets the temperature for the summary copilot options
+title: "LlamaSummaryCopilotOptions.WithTemperature"
+linktitle: "WithTemperature"
+articleTitle: "WithTemperature"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "LlamaSummaryCopilotOptions method. Sets the temperature for the summary copilot options."
 type: docs
-weight: 100
-url: /net/aspose.pdf.ai/llamasummarycopilotoptions/withtemperature/
+weight: 50
+url: "/net/aspose.pdf.ai/llamasummarycopilotoptions/withtemperature/"
+product_version: "26.9"
 ---
 ## LlamaSummaryCopilotOptions.WithTemperature method
 
@@ -24,8 +27,7 @@ The current instance of [`LlamaSummaryCopilotOptions`](../).
 
 ### See Also
 
-* class [LlamaSummaryCopilotOptions](../)
-* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* assembly [Aspose.PDF](../../../)
-
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 

@@ -1,10 +1,13 @@
 ---
-title: Cells.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Cells property. Gets or sets cells
+title: "Cells.Item"
+linktitle: "Item"
+articleTitle: "Item"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "Cells property. Gets or sets cells."
 type: docs
-weight: 30
-url: /net/aspose.pdf/cells/item/
+weight: 130
+url: "/net/aspose.pdf/cells/item/"
+product_version: "26.9"
 ---
 ## Cells indexer
 
@@ -20,9 +23,8 @@ public Cell this[int index] { get; set; }
 
 ### See Also
 
-* class [Cell](../../cell/)
-* class [Cells](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [Cell](../../cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 

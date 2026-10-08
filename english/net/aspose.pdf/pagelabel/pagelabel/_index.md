@@ -1,10 +1,13 @@
 ---
-title: PageLabel.PageLabel
-second_title: Aspose.PDF for .NET API Reference
-description: PageLabel constructor. Constructor for page label
+title: "PageLabel.PageLabel"
+linktitle: "PageLabel"
+articleTitle: "PageLabel"
+second_title: "Aspose.PDF for .NET API Reference"
+description: "PageLabel constructor. Constructor for page label."
 type: docs
 weight: 10
-url: /net/aspose.pdf/pagelabel/pagelabel/
+url: "/net/aspose.pdf/pagelabel/pagelabel/"
+product_version: "26.9"
 ---
 ## PageLabel constructor
 
@@ -16,8 +19,7 @@ public PageLabel()
 
 ### See Also
 
-* class [PageLabel](../)
-* namespace [Aspose.Pdf](../../../aspose.pdf/)
-* assembly [Aspose.PDF](../../../)
-
+* class [PageLabel](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
