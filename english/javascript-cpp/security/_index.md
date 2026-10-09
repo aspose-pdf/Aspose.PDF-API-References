@@ -15,6 +15,7 @@ url: /javascript-cpp/security/
 | [AsposePdfSignPKCS7](./asposepdfsignpkcs7/) | Sign a PDF-file with digital signatures. |
 | [AsposePdfSignPKCS7Detached](./asposepdfsignpkcs7detached/) | Sign a PDF-file with detached digital signatures. |
 | [AsposePdfChangePassword](./asposepdfchangepassword/) | Change passwords of the PDF-file. |
+| [AsposePdfRemoveSigns](./asposepdfremovesigns/) | Remove all digital signatures from a PDF-file. |
 
 ## Detailed Description
 
