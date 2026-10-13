@@ -47,6 +47,7 @@ url: /go-cpp/organize/
 | [ReversePages](./reversepages/) | Reverse the order of pages in PDF-document. |
 | [ReorderPages](./reorderpages/) | Reorder pages in PDF-document. |
 | [RedactText](./redacttext/) | Redact permanently and blacks out sensitive text in PDF-document. |
+| [AddStamp](./addstamp/) | Add stamp to PDF-document. |
 | [PageRotate](./pagerotate/) | Rotate page. |
 | [PageSetSize](./pagesetsize/) | Set size of page. |
 | [PageGrayscale](./pagegrayscale/) | Convert page to black and white. |
@@ -67,6 +68,7 @@ url: /go-cpp/organize/
 | [PageReplaceFont](./pagereplacefont/) | Replace font in page. |
 | [PageMergeLayers](./pagemergelayers/) | Merge all layers on the page into a single layer with the specified new layer name. |
 | [PageLayers](./pagelayers/) | Gets layers' names on page. |
+| [PageAddStamp](./pageaddstamp/) | Add stamp on page. |
 
 
 ## Detailed Description
