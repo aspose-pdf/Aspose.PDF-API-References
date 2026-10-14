@@ -3,7 +3,7 @@ title: Page.AddGraphics
 second_title: Aspose.PDF for .NET API Reference
 description: Page method. Adds graphics to the page. Works faster than adding elements one by one with AddOnPage method
 type: docs
-weight: 340
+weight: 350
 url: /net/aspose.pdf/page/addgraphics/
 ---
 ## Page.AddGraphics method

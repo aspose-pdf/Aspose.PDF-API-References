@@ -3,7 +3,7 @@ title: Class SvgExtractionOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Vector.SvgExtractionOptions class. Represents an options class for extracting vector graphics from the pdf document page
 type: docs
-weight: 11650
+weight: 11660
 url: /net/aspose.pdf.vector/svgextractionoptions/
 ---
 ## SvgExtractionOptions class

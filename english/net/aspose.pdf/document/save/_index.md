@@ -3,7 +3,7 @@ title: Document.Save
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Saves the document with a new name setting its save options
 type: docs
-weight: 850
+weight: 860
 url: /net/aspose.pdf/document/save/
 ---
 ## Save(string, SaveOptions) {#save_7}

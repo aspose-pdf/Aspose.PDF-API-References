@@ -3,7 +3,7 @@ title: Page.Accept
 second_title: Aspose.PDF for .NET API Reference
 description: Page method. Accepts AnnotationSelector visitor object that provides functionality to work with annotations
 type: docs
-weight: 330
+weight: 340
 url: /net/aspose.pdf/page/accept/
 ---
 ## Accept(AnnotationSelector) {#accept}

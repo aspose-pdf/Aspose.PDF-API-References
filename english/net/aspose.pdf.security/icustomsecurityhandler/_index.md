@@ -3,7 +3,7 @@ title: Interface ICustomSecurityHandler
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.ICustomSecurityHandler interface. The custom security handler interface
 type: docs
-weight: 10320
+weight: 10330
 url: /net/aspose.pdf.security/icustomsecurityhandler/
 ---
 ## ICustomSecurityHandler interface
