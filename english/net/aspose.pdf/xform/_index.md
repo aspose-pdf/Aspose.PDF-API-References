@@ -3,7 +3,7 @@ title: Class XForm
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.XForm class. Class represent XForm
 type: docs
-weight: 11740
+weight: 11750
 url: /net/aspose.pdf/xform/
 ---
 ## XForm class

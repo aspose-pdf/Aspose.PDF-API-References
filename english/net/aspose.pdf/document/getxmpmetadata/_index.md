@@ -3,7 +3,7 @@ title: Document.GetXmpMetadata
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Get XMP metadata from document
 type: docs
-weight: 710
+weight: 720
 url: /net/aspose.pdf/document/getxmpmetadata/
 ---
 ## Document.GetXmpMetadata method

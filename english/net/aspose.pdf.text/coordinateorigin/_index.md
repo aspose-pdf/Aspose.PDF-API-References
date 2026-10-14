@@ -3,7 +3,7 @@ title: Enum CoordinateOrigin
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Text.CoordinateOrigin enum. Text CoordinateOrigin enumeration
 type: docs
-weight: 10860
+weight: 10870
 url: /net/aspose.pdf.text/coordinateorigin/
 ---
 ## CoordinateOrigin enumeration

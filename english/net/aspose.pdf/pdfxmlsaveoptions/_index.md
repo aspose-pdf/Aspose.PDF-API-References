@@ -3,7 +3,7 @@ title: Class PdfXmlSaveOptions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PdfXmlSaveOptions class. Save options for PdfXml format
 type: docs
-weight: 9730
+weight: 9740
 url: /net/aspose.pdf/pdfxmlsaveoptions/
 ---
 ## PdfXmlSaveOptions class

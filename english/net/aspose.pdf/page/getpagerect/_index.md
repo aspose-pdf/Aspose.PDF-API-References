@@ -3,7 +3,7 @@ title: Page.GetPageRect
 second_title: Aspose.PDF for .NET API Reference
 description: Page method. Returns rectangle of the page according to its CropBox or MediaBox if CropBox null
 type: docs
-weight: 460
+weight: 470
 url: /net/aspose.pdf/page/getpagerect/
 ---
 ## Page.GetPageRect method

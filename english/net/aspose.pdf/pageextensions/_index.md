@@ -3,7 +3,7 @@ title: Class PageExtensions
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.PageExtensions class. Provides additional capabilities for the Page class
 type: docs
-weight: 9410
+weight: 9420
 url: /net/aspose.pdf/pageextensions/
 ---
 ## PageExtensions class

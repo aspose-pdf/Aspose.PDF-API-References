@@ -12,6 +12,7 @@ The **Aspose.Pdf.Ocr** namespace provides classes for extracting plain text from
 
 | Class | Description |
 | --- | --- |
+| [OcrSearchablePdfOptions](./ocrsearchablepdfoptions/) | Specifies options for adding a searchable OCR text layer to a PDF document. |
 | [OcrTextAbsorber](./ocrtextabsorber/) | Extracts plain text from PDF pages using OCR over the rendered page bitmap. |
 | [OcrTextRecognitionOptions](./ocrtextrecognitionoptions/) | Options for [`OcrTextAbsorber`](../aspose.pdf.ocr/ocrtextabsorber/). |
 ## Enumeration
