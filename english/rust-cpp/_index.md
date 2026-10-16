@@ -93,6 +93,7 @@ pub struct Document { /* private fields */ }
 | [reverse_pages](./organize/reverse_pages/) | Reverse the order of pages in PDF-document. |
 | [reorder_pages](./organize/reorder_pages/) | Reorder pages in PDF-document. |
 | [redact_text](./organize/redact_text/) | Redact permanently and blacks out sensitive text in PDF-document. |
+| [add_stamp](./organize/add_stamp/) | Add stamp to PDF-document. |
 | [page_rotate](./organize/page_rotate/) | Rotate a page in the PDF-document. |
 | [page_set_size](./organize/page_set_size/) | Set the size of a page in the PDF-document. |
 | [page_grayscale](./organize/page_grayscale/) | Convert page to black and white. |
@@ -113,6 +114,7 @@ pub struct Document { /* private fields */ }
 | [page_replace_font](./organize/page_replace_font/) | Replace font in page. |
 | [page_merge_layers](./organize/page_merge_layers/) | Merge all layers on the page into a single layer with the specified new layer name. |
 | [page_layers](./organize/page_layers/) | Get layers' names on page. |
+| [page_add_stamp](./organize/page_add_stamp/) | Add stamp on page. |
 
 
 ## Core PDF functions
