@@ -4,7 +4,7 @@ linktitle: get_Watermark
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::get_Watermark method. Gets the watermark of the page in C++.'
 type: docs
-weight: 4300
+weight: 4400
 url: /cpp/aspose.pdf/page/get_watermark/
 ---
 ## Page::get_Watermark method

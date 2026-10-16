@@ -25,6 +25,11 @@ class ExternalSignature : public Aspose::Pdf::Forms::Signature
 | [ExternalSignature](./externalsignature/)(const System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\&, bool) | Creates a detached PKCS#7 signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys. |
 | [ExternalSignature](./externalsignature/)(const System::String\&, bool) | Creates a PKCS#7 signature using a X509Certificate2 as base64 string. |
 | [ExternalSignature](./externalsignature/)(const System::String\&, DigestHashAlgorithm) | Creates a PKCS#7 **(detached)** signature using a X509Certificate2 as base64 string. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [Certificate](./certificate/) | The certificate with the private key. |
 ## See Also
 
 * Class [Signature](../signature/)

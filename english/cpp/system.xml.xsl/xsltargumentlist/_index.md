@@ -28,6 +28,11 @@ class XsltArgumentList : public System::Object
 | [RemoveExtensionObject](./removeextensionobject/)(const String\&) | Removes the object with the namespace URI from the [XsltArgumentList](./). |
 | [RemoveParam](./removeparam/)(const String\&, const String\&) | Removes the parameter from the [XsltArgumentList](./). |
 | [XsltArgumentList](./xsltargumentlist/)() | Implements a new instance of the [XsltArgumentList](./). |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [XsltMessageEncountered](./xsltmessageencountered/) | Occurs when a message is specified in the style sheet by the **xsl:message** element. |
 ## Typedefs
 
 | Typedef | Description |

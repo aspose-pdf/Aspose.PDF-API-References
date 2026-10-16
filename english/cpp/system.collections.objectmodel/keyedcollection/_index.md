@@ -35,7 +35,11 @@ template<typename TKey,typename TItem>class KeyedCollection : public System::Col
 
 | Field | Description |
 | --- | --- |
+| [comparer](./comparer/) | Comparer to use. |
 | static [defaultThreshold](./defaultthreshold/) | Lookup dictionary creation threshold, default. |
+| [dict](./dict/) | Wrapped dictionary. |
+| [keyCount](./keycount/) | Number of keys inserted into collection. |
+| [threshold](./threshold/) | Lookup dictionary creation threshold, local. |
 
 ## See Also
 

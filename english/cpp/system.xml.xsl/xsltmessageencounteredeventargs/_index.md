@@ -10,7 +10,7 @@ url: /cpp/system.xml.xsl/xsltmessageencounteredeventargs/
 ## XsltMessageEncounteredEventArgs class
 
 
-Provides data for the **XsltArgumentList::XsltMessageEncountered** event.
+Provides data for the [XsltArgumentList::XsltMessageEncountered](../xsltargumentlist/xsltmessageencountered/) event.
 
 ```cpp
 class XsltMessageEncounteredEventArgs : public System::EventArgs

@@ -22,6 +22,11 @@ class TypeInternal
 | --- | --- |
 | [get_FullName](./get_fullname/)() const | Gets type full name. |
 | [get_Name](./get_name/)() const | Gets type short name. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [MemberInfo](./memberinfo/) | Friend declaration. |
 ## See Also
 
 * Class [MemberInfo](../)

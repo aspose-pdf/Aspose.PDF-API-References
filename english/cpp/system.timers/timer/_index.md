@@ -33,6 +33,11 @@ class Timer : public System::ComponentModel::Component
 | [Stop](./stop/)() | Stops timer. |
 | [Timer](./timer/)() | RTTI information. |
 | [Timer](./timer/)(double) | Constructs stopped timer with specified interval. |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [Elapsed](./elapsed/) | Callback function to be called by timer. |
 ## See Also
 
 * Class [Component](../../system.componentmodel/component/)

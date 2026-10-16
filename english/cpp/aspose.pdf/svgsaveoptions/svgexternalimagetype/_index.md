@@ -4,7 +4,7 @@ linktitle: SvgExternalImageType
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::SvgSaveOptions::SvgExternalImageType enum. enumerates possible types of image files that can be saved as external resources during during Pdf to SVG conversion in C++.'
 type: docs
-weight: 300
+weight: 700
 url: /cpp/aspose.pdf/svgsaveoptions/svgexternalimagetype/
 ---
 ## SvgExternalImageType enum

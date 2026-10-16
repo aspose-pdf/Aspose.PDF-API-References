@@ -27,6 +27,11 @@ class FormComboBoxFieldCreateOptions : public Aspose::Pdf::LowCode::FormFieldCre
 | [set_Editable](./set_editable/)(System::Nullable\<bool\>) | Gets/sets the value to determine whether created ComboBoxField is editable or not (if will be set). |
 | [set_Options](./set_options/)(const System::SharedPtr\<System::Collections::Generic::List\<System::String\>\>\&) | Gets/sets the value to determine property Options for created ComboBoxField (if will be set). |
 | [set_Selected](./set_selected/)(System::Nullable\<int32_t\>) | Gets/sets the value to determine property Selected for created ComboBoxField (if will be set). |
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [Highlighting](../formfieldoptions/highlighting/) | Gets/sets the value to determine property Highlighting for created/modified field (if will be set). |
 ## See Also
 
 * Class [FormFieldCreateOptions](../formfieldcreateoptions/)

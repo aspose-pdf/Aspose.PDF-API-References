@@ -2,12 +2,32 @@
 title: System::String::Normalize method
 linktitle: Normalize
 second_title: Aspose.PDF for C++ API Reference
-description: 'System::String::Normalize method. Normalizes unicode string using normalization form specified in C++.'
+description: 'System::String::Normalize method. Normalizes unicode string using normalization form Unicode C in C++.'
 type: docs
 weight: 2500
 url: /cpp/system/string/normalize/
 ---
-## String::Normalize method
+## String::Normalize() const method
+
+
+Normalizes unicode string using normalization form Unicode C.
+
+```cpp
+String System::String::Normalize() const
+```
+
+
+### ReturnValue
+
+Normalized string.
+
+## See Also
+
+* Class [String](../)
+* Class [String](../)
+* Namespace [System](../../)
+* Library [Aspose.PDF for C++](../../../)
+## String::Normalize(System::Text::NormalizationForm) const method
 
 
 Normalizes unicode string using normalization form specified.

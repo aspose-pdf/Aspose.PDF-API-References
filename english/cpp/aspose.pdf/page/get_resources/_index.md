@@ -4,7 +4,7 @@ linktitle: get_Resources
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::get_Resources method. Gets page resources. Resources object contains collections of images, forms and fonts. Resources in C++.'
 type: docs
-weight: 3600
+weight: 3700
 url: /cpp/aspose.pdf/page/get_resources/
 ---
 ## Page::get_Resources method

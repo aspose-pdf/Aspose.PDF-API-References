@@ -4,7 +4,7 @@ linktitle: get_Rotate
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Page::get_Rotate method. Gets rotation of the page in C++.'
 type: docs
-weight: 3700
+weight: 3800
 url: /cpp/aspose.pdf/page/get_rotate/
 ---
 ## Page::get_Rotate method
