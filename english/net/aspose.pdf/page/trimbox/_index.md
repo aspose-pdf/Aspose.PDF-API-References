@@ -3,7 +3,7 @@ title: Page.TrimBox
 second_title: Aspose.PDF for .NET API Reference
 description: Page property. Gets or sets trim box of the page
 type: docs
-weight: 290
+weight: 300
 url: /net/aspose.pdf/page/trimbox/
 ---
 ## Page.TrimBox property

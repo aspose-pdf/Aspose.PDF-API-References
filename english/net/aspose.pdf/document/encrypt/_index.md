@@ -3,7 +3,7 @@ title: Document.Encrypt
 second_title: Aspose.PDF for .NET API Reference
 description: Document method. Encrypts the document
 type: docs
-weight: 640
+weight: 650
 url: /net/aspose.pdf/document/encrypt/
 ---
 ## Encrypt(Permissions, CryptoAlgorithm, IList&lt;X509Certificate2&gt;) {#encrypt}

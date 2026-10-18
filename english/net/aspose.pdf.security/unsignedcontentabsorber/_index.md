@@ -3,7 +3,7 @@ title: Class UnsignedContentAbsorber
 second_title: Aspose.PDF for .NET API Reference
 description: Aspose.Pdf.Security.UnsignedContentAbsorber class. Represents a class for extracting unsigned content from a PDF file managed by digital signatures
 type: docs
-weight: 10400
+weight: 10410
 url: /net/aspose.pdf.security/unsignedcontentabsorber/
 ---
 ## UnsignedContentAbsorber class
