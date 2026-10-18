@@ -93,8 +93,6 @@ type Document struct {
 | [IsPdfUaCompliant](./organize/ispdfuacompliant/) | Get is a PDF-document PDF/UA compliant. |
 | [ReversePages](./organize/reversepages/) | Reverse the order of pages in PDF-document. |
 | [ReorderPages](./organize/reorderpages/) | Reorder pages in PDF-document. |
-| [RedactText](./organize/redacttext/) | Redact permanently and blacks out sensitive text in PDF-document. |
-| [AddStamp](./organize/addstamp/) | Add stamp to PDF-document. |
 | [PageRotate](./organize/pagerotate/) | Rotate page. |
 | [PageSetSize](./organize/pagesetsize/) | Set size of page. |
 | [PageGrayscale](./organize/pagegrayscale/) | Convert page to black and white. |
